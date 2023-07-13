@@ -697,9 +697,49 @@
       ]
     },
     {
-      "title": "No More Retake",
-      "feedUrl": "http://nomoreretake.net/feed/",
-      "siteUrl": "http://nomoreretake.net",
+      "title": "TECH-COYOTE",
+      "feedUrl": "https://3d.crdg.jp/tech/feed/",
+      "siteUrl": "https://3d.crdg.jp/tech",
+      "articles": [
+        {
+          "id": "https://3d.crdg.jp/tech/?p=3427",
+          "author": "takuya.yamamoto",
+          "description": "こんにちは、運動不足解消のために筋トレを始めました！ COYOTE 3DCG STUDIO TAのやまたくです。 今回はQtDesignerでDrag and DropできるWidget設定方法を紹介します。 QtDes...\nThe post 【PySide】QtDesignerでDrag and DropできるWidget設定 first appeared on TECH-COYOTE.",
+          "link": "https://3d.crdg.jp/tech/archives/3427",
+          "publishedOn": "2023-06-27T15:00:43.000Z",
+          "wordCount": 1299,
+          "title": "【PySide】QtDesignerでDrag and DropできるWidget設定",
+          "imageUrl": "https://3d.crdg.jp/tech/wp-content/uploads/2023/06/og-image.jpg"
+        }
+      ]
+    },
+    {
+      "title": "UnPySide",
+      "feedUrl": "https://unpyside.com/feed/",
+      "siteUrl": "https://unpyside.com",
+      "articles": [
+        {
+          "id": "https://unpyside.com/?p=2038",
+          "author": "ringosan",
+          "description": "このチュートリアルでは.uiに直接QSSを定義する方法を学びます ひとつ前の章ではQSSを直接Pythonで指定していましたが.uiで設定する方法もあります。 Qt Designer、Qt Creator、Qt Desi […]",
+          "link": "https://unpyside.com/blog/2023/06/30/pyside-tutorial-intermediate-02/?utm_source=rss&utm_medium=rss&utm_campaign=pyside-tutorial-intermediate-02",
+          "publishedOn": "2023-06-30T13:07:29.000Z",
+          "wordCount": 3813,
+          "title": "Maya PySide2 / PySide チュートリアル 中級編 ② – Qt Designerでスタイルシートを設定してみる",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "title": "StudioBros Tech blog | スタジオブロス テックブログ",
+      "feedUrl": "https://bros.studio/fukano_blog/feed/",
+      "siteUrl": "https://bros.studio/fukano_blog",
+      "articles": []
+    },
+    {
+      "title": "SPARKCREATIVE Tech Blog",
+      "feedUrl": "https://tech.spark-creative.co.jp/feed",
+      "siteUrl": "https://tech.spark-creative.co.jp/",
       "articles": []
     }
   ],

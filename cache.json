@@ -12,6 +12,26 @@
       "siteUrl": "https://cgbox.jp",
       "articles": [
         {
+          "id": "https://cgbox.jp/?p=36747",
+          "author": "UEDA",
+          "description": "こんばんは！ 今回はがBlender Marketにて配布されていたので紹介します。 Vine Generator このアセットは『Felicia White』という方の作品になります。 以下の「Blender Mark […]",
+          "link": "https://cgbox.jp/2023/07/12/news-asset-vinegenerator/",
+          "publishedOn": "2023-07-12T10:00:00.000Z",
+          "wordCount": 1901,
+          "title": "【アセット紹介】Vine Generator – フォトリアルなツルを簡単生成！",
+          "imageUrl": "https://cgbox.jp/wp-content/uploads/2023/07/2-10.gif"
+        },
+        {
+          "id": "https://cgbox.jp/?p=36697",
+          "author": "UEDA",
+          "description": "こんばんは！ 今回はアドオンの「Wisp Fire Shader」を紹介します。 こちらのリンクから購入することができます。 Wisp Fire Shader 「Wisp Fire Shader」は、火炎シミュレーション […]",
+          "link": "https://cgbox.jp/2023/07/12/news-addon-wispfireshader/",
+          "publishedOn": "2023-07-12T09:00:00.000Z",
+          "wordCount": 2112,
+          "title": "【アドオン紹介】Wisp Fire Shader – リアルな炎シェーダーを簡単実装！",
+          "imageUrl": "https://cgbox.jp/wp-content/uploads/2023/07/3-7.gif"
+        },
+        {
           "id": "https://cgbox.jp/?p=36433",
           "author": "cgbox編集部",
           "description": "こんにちは！コチラの記事では、Unityを使う上で欠かせないヒエラルキーについての基礎知識をまとめました！ ヒエラルキーとは ヒエラルキーとは、Unityを起動した際にデフォルトで、画面左側に出現するウインドウです。 ヒ […]",
@@ -208,6 +228,96 @@
       "siteUrl": "https://3dnchu.com",
       "articles": [
         {
+          "id": "https://3dnchu.com/?p=1029978",
+          "author": "Ymt3D -3dnchu-",
+          "description": "テクニカルアーティストのGabriel de Laubier氏がUnreal Engine 5で実現するユニークなスタイライズドペイントシェーダー「Stylized Paint Shader v2」をどのように構築したのか解説した記事を公開しました！",
+          "link": "https://3dnchu.com/archives/stylized-paint-shader-v2-ue5/",
+          "publishedOn": "2023-07-12T17:08:56.000Z",
+          "wordCount": 7264,
+          "title": "Stylized Paint Shader v2 - テクニカルアーティストのGabriel de Laubier氏がUnreal Engine 5で構築したユニークなスタイライズドペイントシェーダーの技術解説記事を公開！",
+          "enclosure": {
+            "url": "https://3dnchu.com/wp-content/uploads/Stylized-Paint-Shader-v2.webp",
+            "length": "694054",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://3dnchu.com/wp-content/uploads/Stylized-Paint-Shader-v2.webp"
+        },
+        {
+          "id": "https://3dnchu.com/?p=1029939",
+          "author": "Ymt3D -3dnchu-",
+          "description": "特殊メイク的着色方法で肌の着色技法を学ぶ！上路 市剛氏著書の『リアルな肌の着色術』が2023年7月下旬にボーンデジタルから販売されます！",
+          "link": "https://3dnchu.com/archives/realistic-skin-coloring-technique/",
+          "publishedOn": "2023-07-12T15:42:01.000Z",
+          "wordCount": 7353,
+          "title": "リアルな肌の着色術 - キャラクターアーティスト必見！特殊メイク的着色方法で肌色表現を学べる本が2023年7月下旬に発売予定！",
+          "enclosure": {
+            "url": "https://3dnchu.com/wp-content/uploads/realistic-skin-coloring-technique.webp",
+            "length": "113110",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://3dnchu.com/wp-content/uploads/realistic-skin-coloring-technique.webp"
+        },
+        {
+          "id": "https://3dnchu.com/?p=1004916",
+          "author": "Ymt3D -3dnchu-",
+          "description": "CyberAgentがオープンソース＆無料で公開しているUnity向けリアルタイムエフェクトシェーダー「NOVA Shader」のご紹介。",
+          "link": "https://3dnchu.com/archives/nova-shader/",
+          "publishedOn": "2023-07-12T15:03:19.000Z",
+          "wordCount": 7252,
+          "title": "NOVA Shader - CyberAgentがオープンソース＆無料で公開しているUnity向けリアルタイムエフェクトシェーダー！",
+          "enclosure": {
+            "url": "https://3dnchu.com/wp-content/uploads/NOVA-Shader.webp",
+            "length": "758162",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://3dnchu.com/wp-content/uploads/NOVA-Shader.webp"
+        },
+        {
+          "id": "https://3dnchu.com/?p=1029945",
+          "author": "Ymt3D -3dnchu-",
+          "description": "Tech-Artists.orgのリポジトリにBlendeにてPySide2 QtWidgetを使用したアドオンやツール向けカスタムUIを対応可能にするオープンソースのBlenderアドオン「BQT」が公開されています。",
+          "link": "https://3dnchu.com/archives/bqt-b3d/",
+          "publishedOn": "2023-07-12T14:47:46.000Z",
+          "wordCount": 7252,
+          "title": "BQT - BlendeにてPySide2 QtWidgetを使用したアドオンやツール向けカスタムUIを対応可能に！アドオン開発者向けオープンソースBlenderアドオン！",
+          "enclosure": {
+            "url": "https://3dnchu.com/wp-content/uploads/BQT-1.webp",
+            "length": "65896",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://3dnchu.com/wp-content/uploads/BQT-1.webp"
+        },
+        {
+          "id": "https://3dnchu.com/?p=1029924",
+          "author": "Ymt3D -3dnchu-",
+          "description": "リアルな人体モデルやリグアセットなどをBlenderで構築している事でも有名なChris Jones氏が、手のリギングWIP動画を公開し話題を集めています。",
+          "link": "https://3dnchu.com/archives/tendons-chris-jones/",
+          "publishedOn": "2023-07-12T06:54:34.000Z",
+          "wordCount": 7362,
+          "title": "Tendons - 腱の表現に注目！Chris Jones氏によるBlenderで制作された手のリギングモデル映像！",
+          "enclosure": {
+            "url": "https://3dnchu.com/wp-content/uploads/Tendons-Chris-Jones.webp",
+            "length": "136110",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://3dnchu.com/wp-content/uploads/Tendons-Chris-Jones.webp"
+        },
+        {
+          "id": "https://3dnchu.com/?p=1029902",
+          "author": "Ymt3D -3dnchu-",
+          "description": "『Beginning Digital Image Processing: using Free Tools for Photographers』の著者で、コンピューターエンジニアのSebastian Montabone氏による、AIのパワーで白黒写真をカラー化出来るソフト「Interactive Photo Colorizer」がリリースされています。",
+          "link": "https://3dnchu.com/archives/interactive-photo-colorizer/",
+          "publishedOn": "2023-07-12T03:49:38.000Z",
+          "wordCount": 7332,
+          "title": "Interactive Photo Colorizer - AIパワーで白黒写真をカラーに出来るスタンドアロンツールが公開！GPU不要！オフライン動作！Win＆Mac",
+          "enclosure": {
+            "url": "https://3dnchu.com/wp-content/uploads/Interactive-Photo-Colorizer.webp",
+            "length": "124382",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://3dnchu.com/wp-content/uploads/Interactive-Photo-Colorizer.webp"
+        },
+        {
           "id": "https://3dnchu.com/?p=1018124",
           "author": "Ymt3D -3dnchu-",
           "description": "あのUnreal Engine 開発向け良書『極め本（極み本）』がUE5対応でリニューアルし登場！『Unreal Engine 5で極めるゲーム開発：サンプルデータと動画で学ぶゲーム制作プロジェクト』が2023年7月末に発売されます！",
@@ -334,6 +444,36 @@
       "feedUrl": "https://cgworld.jp/atom.xml",
       "siteUrl": "https://cgworld.jp/",
       "articles": [
+        {
+          "id": "https://cgworld.jp/flashnews/blender-online-167.html",
+          "author": null,
+          "description": "みなさん、こんにちは。CGWORLDの西原です。 今回は髪の毛にマテリアルを設...",
+          "link": "https://cgworld.jp/flashnews/blender-online-167.html",
+          "publishedOn": "2023-07-12T06:57:59.000Z",
+          "wordCount": 661,
+          "title": "［お知らせ］BlenderでCGを始めよう！ゼロから学ぶ3DCG教室『第167回：人体モデリング講座（46）～ハイポリモデリング（37）～』が配信開始 - ニュース",
+          "imageUrl": "https://cgworld.jp/flashnews/assets_c/2023/07/vlcsnap-2023-07-12-15h53m31s477-thumb-1920x1080-40872.png"
+        },
+        {
+          "id": "https://cgworld.jp/flashnews/202307-Omniverse.html",
+          "author": null,
+          "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
+          "link": "https://cgworld.jp/flashnews/202307-Omniverse.html",
+          "publishedOn": "2023-07-12T03:21:17.000Z",
+          "wordCount": 707,
+          "title": "NVIDIA「Omniverse USD Composer」リリース！　USDアプリケーション「Omniverse Create」がジェネレーティブAI関連ツールへのアクセスを追加して新生 - ニュース",
+          "imageUrl": "https://cgworld.jp/flashnews/assets_c/2023/07/Omni-Composer01-thumb-1920x1176-40867.jpg"
+        },
+        {
+          "id": "https://cgworld.jp/article/202307-cgw299-eva.html",
+          "author": null,
+          "description": "カラーがPencil+ 4 Line for Blenderを活用した『EVANGELION:3.0（-46h）』のメイキング。",
+          "link": "https://cgworld.jp/article/202307-cgw299-eva.html",
+          "publishedOn": "2023-07-12T01:38:00.000Z",
+          "wordCount": 952,
+          "title": "Pencil+ 4 Line for BlenderをはじめとするBlender環境で制作された、スタジオカラーの新作短篇映像『EVANGELION:3.0（-46h）』 - 特集",
+          "imageUrl": "https://cgworld.jp/article/assets_c/2023/06/a04dd203c0e48575ea24cd7d802d1276a9835bd7-thumb-1920x1080-40264.jpg"
+        },
         {
           "id": "https://cgworld.jp/article/202307-vpdive-01.html",
           "author": null,

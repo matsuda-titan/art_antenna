@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-07-18T01:04:14.175Z</updated>
+    <updated>2023-07-18T03:18:08.641Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【UE5】セルシェーディングのためにGバッファを追加してみた]]></title>
+        <id>https://tech.spark-creative.co.jp/entry/2023/07/18/113610</id>
+        <link href="https://tech.spark-creative.co.jp/entry/2023/07/18/113610"/>
+        <updated>2023-07-18T02:36:10.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは!!!クライアントエンジニアの小林です。今回はトゥーン・セル表現を題材にエンジン改造の続きとして、Gバッファの追加をします。Gバッファの拡張理由としては、ライティング計算の情報が増えたり、ポストエフェクトで複雑な処理をしたりなどがあると思います。少し脱線しますが、さりげなくシェーディングモデルを追加の頃からポストエフェクトによるアウトラインを引いています。 しかしこのアウトラインには欠点があります。 それは髪の毛に線を引こうとすると目の輪郭線にまで線が引かれてしまうことです。 目の輪郭にまで線が引かれてしまうこのようなデザインが好きな人や作品の方向性的に正しいのならいいと思いますが、…]]></summary>
+        <author>
+            <name>SPARKCREATIVE Tech Blog</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【チュートリアル紹介】流体パスアニメーションの作成方法を学習！]]></title>
         <id>https://cgbox.jp/?p=36944</id>

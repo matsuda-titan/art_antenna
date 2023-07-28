@@ -12,6 +12,26 @@
       "siteUrl": "https://cgbox.jp",
       "articles": [
         {
+          "id": "https://cgbox.jp/?p=37844",
+          "author": "kasahara",
+          "description": "こんばんは！ 今回は”CG Boost”さんの動画を紹介します。 7 Boolean Issues in Blender このチュートリアルではブーリアンでよく起こる問題への解決法を7つまとめてくれています。 オブジェク […]",
+          "link": "https://cgbox.jp/2023/07/28/news-tutrial-7-boolean-issues/",
+          "publishedOn": "2023-07-28T05:10:23.000Z",
+          "wordCount": 1856,
+          "title": "【チュートリアル紹介】ブーリアンで起こる問題への解決法",
+          "imageUrl": "https://cgbox.jp/wp-content/uploads/2023/07/giphy-63.gif"
+        },
+        {
+          "id": "https://cgbox.jp/?p=37827",
+          "author": "kasahara",
+          "description": "こんばんは！ 今回はアドオンの「Conform Object」がアップデートしたので、新機能を紹介します。 こちらのリンクから購入することができます。 Conform Object こちらのアドオンではこのようにオブジェ […]",
+          "link": "https://cgbox.jp/2023/07/28/news-addon-conform-object-update/",
+          "publishedOn": "2023-07-28T04:41:41.000Z",
+          "wordCount": 1840,
+          "title": "【アドオン紹介】Conform Object – ラティス変形機能を追加アップデート",
+          "imageUrl": "https://cgbox.jp/wp-content/uploads/2023/07/Animation-60.gif"
+        },
+        {
           "id": "https://cgbox.jp/?p=37762",
           "author": "kasahara",
           "description": "こんにちは。 今回はジオメトリノードで作ったオブジェクトをメッシュ化する方法を解説していきたいと思います。 ジオメトリノードは適用できない ジオメトリノードを適用するとこのようにオブジェクトが消えてしまいます。 ジオメト […]",
@@ -747,31 +767,6 @@
           "wordCount": 4161,
           "title": "粘土彫刻をイメージした、ZBrush用のブラシファイル15種無料ダウンロード",
           "imageUrl": "https://cgtracking.net/wp-content/uploads/2023/06/230630-zbrush-free-brush-00-1.webp"
-        },
-        {
-          "id": "https://cgtracking.net/?p=54652",
-          "author": "taketyu",
-          "description": "ゲームエンジン「Unity」がAIを活用したサービス「Unity Muse」を発表。\nUnity Muse紹介動画ではいいな～と思う機能が紹介されています。",
-          "link": "https://cgtracking.net/cg-soft/gameengine/unitymuse/",
-          "publishedOn": "2023-06-28T18:02:54.000Z",
-          "wordCount": 4275,
-          "title": "Unity Muse。UnityによるAIを活用したサービス発表",
-          "imageUrl": "https://cgtracking.net/wp-content/uploads/2023/06/230629-unity-muse.webp"
-        },
-        {
-          "id": "https://cgtracking.net/?p=54626",
-          "author": "taketyu",
-          "description": "進化が止まらないBlender。2023年6月28日にBlender3.6 LTSとなってリリースされました。\n\n数種類の3Dデータも公開され、その中に人型のベースメッシュもありました。ありがたや。",
-          "link": "https://cgtracking.net/cg-arts/character/blender36/",
-          "publishedOn": "2023-06-28T17:34:02.000Z",
-          "wordCount": 4355,
-          "title": "無料3DCGソフトBlender3.6リリース。人型のベースメッシュも入手可",
-          "enclosure": {
-            "url": "https://cgtracking.net/wp-content/uploads/2023/06/geometry_nodes_jiggly_pudding.mp4",
-            "length": "129128",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://cgtracking.net/wp-content/uploads/2023/06/230629-blender36-00.webp"
         }
       ]
     },
@@ -792,6 +787,21 @@
       "feedUrl": "https://3dnchu.com/feed/",
       "siteUrl": "https://3dnchu.com",
       "articles": [
+        {
+          "id": "https://3dnchu.com/?p=1030530",
+          "author": "Ymt3D -3dnchu-",
+          "description": "UBIソフト・モントリオールのシニアライティングアーティスト、Karim abou shousha氏による、深海のUE5ライティング込BPデータ「Underwater BP V3」が配布中！",
+          "link": "https://3dnchu.com/archives/underwater-bp-v3/",
+          "publishedOn": "2023-07-28T07:52:09.000Z",
+          "wordCount": 7279,
+          "title": "Underwater BP V3 - UBIソフト・モントリオールのシニアライティングアーティストによる水中表現実装UE5アセットの新バージョンがリリース！",
+          "enclosure": {
+            "url": "https://3dnchu.com/wp-content/uploads/Underwater-BP-V3.webp",
+            "length": "485846",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://3dnchu.com/wp-content/uploads/Underwater-BP-V3.webp"
+        },
         {
           "id": "https://3dnchu.com/?p=1030472",
           "author": "Ymt3D -3dnchu-",

@@ -1185,26 +1185,6 @@
           "wordCount": 2082,
           "title": "【unity】ヒエラルキーについての基礎知識！",
           "imageUrl": "https://cgbox.jp/wp-content/uploads/2023/07/VRoid.png"
-        },
-        {
-          "id": "https://cgbox.jp/?p=36694",
-          "author": "UEDA",
-          "description": "こんばんは！ 今回は”Derek Elliott”さんの動画を紹介します。 Blender 3.6 Text Features + ‘Embossed’ Animation 「Blender 3. […]",
-          "link": "https://cgbox.jp/2023/07/11/news-turorial-blender36textfeaturesembossedanimation/",
-          "publishedOn": "2023-07-11T10:00:00.000Z",
-          "wordCount": 1981,
-          "title": "【チュートリアル紹介】テキストの3.6新機能＆魅力的な映像制作！",
-          "imageUrl": "https://cgbox.jp/wp-content/uploads/2023/07/3-6.gif"
-        },
-        {
-          "id": "https://cgbox.jp/?p=36692",
-          "author": "UEDA",
-          "description": "こんばんは！ 今回はアドオンの「Curvemachine」を紹介します。 こちらのリンクから購入することができます。 Curvemachine 「Curvemachine」は、カーブの編集をより柔軟に行うことができるアド […]",
-          "link": "https://cgbox.jp/2023/07/11/news-addon-curvemachine/",
-          "publishedOn": "2023-07-11T09:00:00.000Z",
-          "wordCount": 1934,
-          "title": "【アドオン紹介】Curvemachine – カーブの操作性向上！",
-          "imageUrl": "https://cgbox.jp/wp-content/uploads/2023/07/1-13.gif"
         }
       ]
     },
@@ -1231,6 +1211,36 @@
       "feedUrl": "https://3dnchu.com/feed/",
       "siteUrl": "https://3dnchu.com",
       "articles": [
+        {
+          "id": "https://3dnchu.com/?p=1030936",
+          "author": "Ymt3D -3dnchu-",
+          "description": "Antoine Bagattini氏によるBlender用蔦生成アドオンの新バージョン「Baga Ivy Generator V2」がリリースされました！",
+          "link": "https://3dnchu.com/archives/bagaivy-generator-v2/",
+          "publishedOn": "2023-08-09T20:51:15.000Z",
+          "wordCount": 7156,
+          "title": "Baga Ivy Generator V2 - 高品質な300以上のアセットと70種のプリセットも含まれたBlender用蔦生成アドオン！新バージョンがリリース！",
+          "enclosure": {
+            "url": "https://3dnchu.com/wp-content/uploads/Baga-Ivy-Generator-V2.webp",
+            "length": "903696",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://3dnchu.com/wp-content/uploads/Baga-Ivy-Generator-V2.webp"
+        },
+        {
+          "id": "https://3dnchu.com/?p=1030913",
+          "author": "Ymt3D -3dnchu-",
+          "description": "B Productionによる群衆シミュレーションBlenderアドオン「Population」がリリースされました！",
+          "link": "https://3dnchu.com/archives/population-b3d/",
+          "publishedOn": "2023-08-09T20:26:01.000Z",
+          "wordCount": 7236,
+          "title": "Population - モーキャプアニメーション付きの高精細3Dスキャン人物モデルを手軽に扱える群衆シミュレーションBlenderアドオンが登場！無料版もあるよ！",
+          "enclosure": {
+            "url": "https://3dnchu.com/wp-content/uploads/Population.webp",
+            "length": "1157624",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://3dnchu.com/wp-content/uploads/Population.webp"
+        },
         {
           "id": "https://3dnchu.com/?p=1030893",
           "author": "Ymt3D -3dnchu-",
@@ -2025,36 +2035,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "https://3dnchu.com/wp-content/uploads/Interactive-Photo-Colorizer.webp"
-        },
-        {
-          "id": "https://3dnchu.com/?p=1018124",
-          "author": "Ymt3D -3dnchu-",
-          "description": "あのUnreal Engine 開発向け良書『極め本（極み本）』がUE5対応でリニューアルし登場！『Unreal Engine 5で極めるゲーム開発：サンプルデータと動画で学ぶゲーム制作プロジェクト』が2023年7月末に発売されます！",
-          "link": "https://3dnchu.com/archives/game-dev-with-ue5-book/",
-          "publishedOn": "2023-07-11T07:39:05.000Z",
-          "wordCount": 7360,
-          "title": "Unreal Engine 5で極めるゲーム開発：サンプルデータと動画で学ぶゲーム制作プロジェクト - あのUE4極め本がUE5対応でリニューアルし登場！2023年7月末発売！",
-          "enclosure": {
-            "url": "https://3dnchu.com/wp-content/uploads/ue5-kiwamebon-resize.jpg",
-            "length": "37862",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://3dnchu.com/wp-content/uploads/ue5-kiwamebon-resize.jpg"
-        },
-        {
-          "id": "https://3dnchu.com/?p=1029865",
-          "author": "Ymt3D -3dnchu-",
-          "description": "アリドレムネクスト株式会社がリアルタイム3Dレンダリング技術を活用した「Kururin（くるりん）360」をリリースしました。",
-          "link": "https://3dnchu.com/archives/kururin360/",
-          "publishedOn": "2023-07-11T07:28:23.000Z",
-          "wordCount": 7196,
-          "title": "Kururin360 - ブラウザ上で宝石などの3Dモデルをサクサク描画！リアルタイム3Dレンダリング ウェブビューアサービスがリリース！",
-          "enclosure": {
-            "url": "https://3dnchu.com/wp-content/uploads/Kururin360.webp",
-            "length": "851836",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://3dnchu.com/wp-content/uploads/Kururin360.webp"
         }
       ]
     },
@@ -2063,6 +2043,16 @@
       "feedUrl": "https://cgworld.jp/atom.xml",
       "siteUrl": "https://cgworld.jp/",
       "articles": [
+        {
+          "id": "https://cgworld.jp/regular/202308-cgw301-ab.html",
+          "author": null,
+          "description": "",
+          "link": "https://cgworld.jp/regular/202308-cgw301-ab.html",
+          "publishedOn": "2023-08-10T00:13:00.000Z",
+          "wordCount": 746,
+          "title": "CGWORLD vol.301（2023年9月号）本日発売！　見どころをアドバイザリーボードが紹介！ - 連載",
+          "imageUrl": "https://cgworld.jp/regular/assets_c/2023/08/infobanner-thumb-1280x720-41671.jpg"
+        },
         {
           "id": "https://cgworld.jp/flashnews/blender-online-171.html",
           "author": null,
@@ -2592,16 +2582,6 @@
           "wordCount": 952,
           "title": "Pencil+ 4 Line for BlenderをはじめとするBlender環境で制作された、スタジオカラーの新作短篇映像『EVANGELION:3.0（-46h）』 - 特集",
           "imageUrl": "https://cgworld.jp/article/assets_c/2023/06/a04dd203c0e48575ea24cd7d802d1276a9835bd7-thumb-1920x1080-40264.jpg"
-        },
-        {
-          "id": "https://cgworld.jp/article/202307-vpdive-01.html",
-          "author": null,
-          "description": "「Virtual Production Deep Dive 2023」から、セッション「海外のバーチャルプロダクション スタジオと事例」と「プリレンダーアーティストが挑むバーチャルプロダクション制作」の模様をレポートする。",
-          "link": "https://cgworld.jp/article/202307-vpdive-01.html",
-          "publishedOn": "2023-07-11T04:08:00.000Z",
-          "wordCount": 891,
-          "title": "世界のバーチャルプロダクションスタジオと、プリレンダーアーティストによる制作事例を紹介 ～Virtual Production Deep Dive 2023（1） - 特集",
-          "imageUrl": "https://cgworld.jp/article/assets_c/2023/06/ec46c8ee641e2a4b9f538c7eea22fffba421d551-thumb-1024x576-40369.jpg"
         }
       ]
     },

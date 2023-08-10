@@ -2,10 +2,70 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-08-10T00:39:57.528Z</updated>
+    <updated>2023-08-10T03:07:35.209Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【VRChat初心者向け】AFKモードの使い方とモーション変更方法]]></title>
+        <id>https://cgbox.jp/?p=39419</id>
+        <link href="https://cgbox.jp/2023/08/10/vrchat-afk/"/>
+        <updated>2023-08-10T02:14:59.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは！ 今回はVRChat以外でも使われる言葉、AFKについてご紹介します。 またVRChatにおいてのAFKの使い方、モーションの変更なども紹介しますので、ぜひとも最後まで読んでいってくださいね。 AFKとは？  […]]]></summary>
+        <author>
+            <name>押手まいる</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[VRChatアバター向けシェーダー設定の基本]]></title>
+        <id>https://cgbox.jp/?p=38805</id>
+        <link href="https://cgbox.jp/2023/08/10/vrchat-shader-howto/"/>
+        <updated>2023-08-10T02:13:45.000Z</updated>
+        <summary type="html"><![CDATA[本記事は2023年8月時点の内容です。VRChatはアップデートによって設定画面が大きく変わる場合があるため、最新の情報と併せてご覧ください。 シェーダーの基本的な考え方 Unityにおけるシェーダー まず、よく混同され […]]]></summary>
+        <author>
+            <name>cgbox編集部</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【UE5】SMAAを組み込んでみた]]></title>
+        <id>https://tech.spark-creative.co.jp/entry/2023/08/10/104910</id>
+        <link href="https://tech.spark-creative.co.jp/entry/2023/08/10/104910"/>
+        <updated>2023-08-10T01:49:10.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは!!!クライアントエンジニアの小林です。今回はSMAAというアンチエイリアスをUnrealEngineに組み込みながら色々と勉強していきます。 プラグインで動くようにするのは面倒なのでエンジン改造です。 作業環境 概要 SMAAとは 実装方針 Edge Detection Pass Edge Detection Local Contrast Adaptation Factor Threshold Predicate Texture 輝度計算の違い Blend Weighting Pass パターン検索 AreaTextureとSearchTexture Max Search Step…]]></summary>
+        <author>
+            <name>SPARKCREATIVE Tech Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【チュートリアル紹介】電球モチーフのキャラクター制作]]></title>
+        <id>https://cgbox.jp/?p=39747</id>
+        <link href="https://cgbox.jp/2023/08/10/news-tutrial-making-a-light-bulb-robot/"/>
+        <updated>2023-08-10T01:12:34.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは！ 今回は”Polyfjord Deep Dive”さんの動画を紹介します。 Making a Light Bulb Robot From Start to Finish このチュートリアルでは電球モチーフのキ […]]]></summary>
+        <author>
+            <name>kasahara</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【アドオン紹介】Psd-Layers – レイヤーでテクスチャペイント]]></title>
+        <id>https://cgbox.jp/?p=39742</id>
+        <link href="https://cgbox.jp/2023/08/10/news-addon-psd-layers/"/>
+        <updated>2023-08-10T01:03:51.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは！ 今回はアドオンの「Psd-Layers」を紹介します。 こちらのリンクから購入することができます。 Psd-Layers このアドオンはイラストソフトのようにレイヤー分けをしながらテクスチャペイントができる […]]]></summary>
+        <author>
+            <name>kasahara</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【Blender講座】ノードの使い方を徹底的に学べる講座をレビュー]]></title>
+        <id>https://cgbox.jp/?p=39822</id>
+        <link href="https://cgbox.jp/2023/08/10/blendermarket-blender-tutrial0810/"/>
+        <updated>2023-08-10T01:03:00.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは。 今回は「Blendermarket」公開されている「Procedural Texturing | Blender Master Class」を受講したので、レビューしていきたいと思います！ 講座の特徴 以下 […]]]></summary>
+        <author>
+            <name>kasahara</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CGWORLD vol.301（2023年9月号）本日発売！　見どころをアドバイザリーボードが紹介！ - 連載]]></title>
         <id>https://cgworld.jp/regular/202308-cgw301-ab.html</id>
@@ -2279,16 +2339,6 @@ The post 【Photoshop】ShotSave ver2.0で
         <summary type="html"><![CDATA[カラーがPencil+ 4 Line for Blenderを活用した『EVANGELION:3.0（-46h）』のメイキング。]]></summary>
         <author>
             <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【unity】ヒエラルキーについての基礎知識！]]></title>
-        <id>https://cgbox.jp/?p=36433</id>
-        <link href="https://cgbox.jp/2023/07/11/hierarchy/"/>
-        <updated>2023-07-11T14:29:07.000Z</updated>
-        <summary type="html"><![CDATA[こんにちは！コチラの記事では、Unityを使う上で欠かせないヒエラルキーについての基礎知識をまとめました！ ヒエラルキーとは ヒエラルキーとは、Unityを起動した際にデフォルトで、画面左側に出現するウインドウです。 ヒ […]]]></summary>
-        <author>
-            <name>cgbox編集部</name>
         </author>
     </entry>
 </feed>

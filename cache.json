@@ -12,6 +12,56 @@
       "siteUrl": "https://cgbox.jp",
       "articles": [
         {
+          "id": "https://cgbox.jp/?p=39419",
+          "author": "押手まいる",
+          "description": "こんにちは！ 今回はVRChat以外でも使われる言葉、AFKについてご紹介します。 またVRChatにおいてのAFKの使い方、モーションの変更なども紹介しますので、ぜひとも最後まで読んでいってくださいね。 AFKとは？  […]",
+          "link": "https://cgbox.jp/2023/08/10/vrchat-afk/",
+          "publishedOn": "2023-08-10T02:14:59.000Z",
+          "wordCount": 2031,
+          "title": "【VRChat初心者向け】AFKモードの使い方とモーション変更方法",
+          "imageUrl": "https://cgbox.jp/wp-content/uploads/2023/08/ae46b1f460ee46f789c27b264a6cb421.jpg"
+        },
+        {
+          "id": "https://cgbox.jp/?p=38805",
+          "author": "cgbox編集部",
+          "description": "本記事は2023年8月時点の内容です。VRChatはアップデートによって設定画面が大きく変わる場合があるため、最新の情報と併せてご覧ください。 シェーダーの基本的な考え方 Unityにおけるシェーダー まず、よく混同され […]",
+          "link": "https://cgbox.jp/2023/08/10/vrchat-shader-howto/",
+          "publishedOn": "2023-08-10T02:13:45.000Z",
+          "wordCount": 2265,
+          "title": "VRChatアバター向けシェーダー設定の基本",
+          "imageUrl": "https://cgbox.jp/wp-content/uploads/2023/08/1ed8f7973c7781d4d262e2e914102fc6.jpg"
+        },
+        {
+          "id": "https://cgbox.jp/?p=39747",
+          "author": "kasahara",
+          "description": "こんばんは！ 今回は”Polyfjord Deep Dive”さんの動画を紹介します。 Making a Light Bulb Robot From Start to Finish このチュートリアルでは電球モチーフのキ […]",
+          "link": "https://cgbox.jp/2023/08/10/news-tutrial-making-a-light-bulb-robot/",
+          "publishedOn": "2023-08-10T01:12:34.000Z",
+          "wordCount": 1826,
+          "title": "【チュートリアル紹介】電球モチーフのキャラクター制作",
+          "imageUrl": "https://cgbox.jp/wp-content/uploads/2023/08/200-3.gif"
+        },
+        {
+          "id": "https://cgbox.jp/?p=39742",
+          "author": "kasahara",
+          "description": "こんばんは！ 今回はアドオンの「Psd-Layers」を紹介します。 こちらのリンクから購入することができます。 Psd-Layers このアドオンはイラストソフトのようにレイヤー分けをしながらテクスチャペイントができる […]",
+          "link": "https://cgbox.jp/2023/08/10/news-addon-psd-layers/",
+          "publishedOn": "2023-08-10T01:03:51.000Z",
+          "wordCount": 1930,
+          "title": "【アドオン紹介】Psd-Layers – レイヤーでテクスチャペイント",
+          "imageUrl": "https://cgbox.jp/wp-content/uploads/2023/08/giphy-2023-08-09T100118.012.gif"
+        },
+        {
+          "id": "https://cgbox.jp/?p=39822",
+          "author": "kasahara",
+          "description": "こんにちは。 今回は「Blendermarket」公開されている「Procedural Texturing | Blender Master Class」を受講したので、レビューしていきたいと思います！ 講座の特徴 以下 […]",
+          "link": "https://cgbox.jp/2023/08/10/blendermarket-blender-tutrial0810/",
+          "publishedOn": "2023-08-10T01:03:00.000Z",
+          "wordCount": 1947,
+          "title": "【Blender講座】ノードの使い方を徹底的に学べる講座をレビュー",
+          "imageUrl": "https://cgbox.jp/wp-content/uploads/2023/08/d91d33405a674f14e0687155c4188f71.jpg"
+        },
+        {
           "id": "https://cgbox.jp/?p=39571",
           "author": "UEDA",
           "description": "こんばんは！ 今回は”Anurag Raturi”さんの動画を紹介します。 Procedural BRICKING setup with geometry nodes | Blender 「Procedural BRIC […]",
@@ -1175,16 +1225,6 @@
           "wordCount": 2112,
           "title": "【アドオン紹介】Wisp Fire Shader – リアルな炎シェーダーを簡単実装！",
           "imageUrl": "https://cgbox.jp/wp-content/uploads/2023/07/3-7.gif"
-        },
-        {
-          "id": "https://cgbox.jp/?p=36433",
-          "author": "cgbox編集部",
-          "description": "こんにちは！コチラの記事では、Unityを使う上で欠かせないヒエラルキーについての基礎知識をまとめました！ ヒエラルキーとは ヒエラルキーとは、Unityを起動した際にデフォルトで、画面左側に出現するウインドウです。 ヒ […]",
-          "link": "https://cgbox.jp/2023/07/11/hierarchy/",
-          "publishedOn": "2023-07-11T14:29:07.000Z",
-          "wordCount": 2082,
-          "title": "【unity】ヒエラルキーについての基礎知識！",
-          "imageUrl": "https://cgbox.jp/wp-content/uploads/2023/07/VRoid.png"
         }
       ]
     },
@@ -2619,6 +2659,16 @@
       "feedUrl": "https://tech.spark-creative.co.jp/feed",
       "siteUrl": "https://tech.spark-creative.co.jp/",
       "articles": [
+        {
+          "id": "https://tech.spark-creative.co.jp/entry/2023/08/10/104910",
+          "author": null,
+          "description": "こんにちは!!!クライアントエンジニアの小林です。今回はSMAAというアンチエイリアスをUnrealEngineに組み込みながら色々と勉強していきます。 プラグインで動くようにするのは面倒なのでエンジン改造です。 作業環境 概要 SMAAとは 実装方針 Edge Detection Pass Edge Detection Local Contrast Adaptation Factor Threshold Predicate Texture 輝度計算の違い Blend Weighting Pass パターン検索 AreaTextureとSearchTexture Max Search Step…",
+          "link": "https://tech.spark-creative.co.jp/entry/2023/08/10/104910",
+          "publishedOn": "2023-08-10T01:49:10.000Z",
+          "wordCount": 11580,
+          "title": "【UE5】SMAAを組み込んでみた",
+          "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/s/spark-kobayashi-arata/20230805/20230805012735.jpg"
+        },
         {
           "id": "https://tech.spark-creative.co.jp/entry/2023/07/31/152614",
           "author": null,

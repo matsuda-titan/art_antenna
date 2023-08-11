@@ -12,6 +12,26 @@
       "siteUrl": "https://cgbox.jp",
       "articles": [
         {
+          "id": "https://cgbox.jp/?p=39112",
+          "author": "cgbox編集部",
+          "description": "こちらの記事では、VRChatにおけるエモートの基本的な仕組みと編集方法について解説しています。基本を理解するだけでも全然違うのでしっかりと理解していきましょう。 エモートとは？ VRChatにおけるエモートとは、Exp […]",
+          "link": "https://cgbox.jp/2023/08/11/vrchat_emote_explanation/",
+          "publishedOn": "2023-08-11T06:31:11.000Z",
+          "wordCount": 2458,
+          "title": "【VRChat】エモートの仕組みや編集方法の解説",
+          "imageUrl": "https://cgbox.jp/wp-content/uploads/2023/08/eye_catch.jpg"
+        },
+        {
+          "id": "https://cgbox.jp/?p=39135",
+          "author": "kasahara",
+          "description": "こんにちは。 今回は「Udemy」公開されている「【Unreal Engine 5の総合学習】ファンタジー風景制作講座」を受講したので、レビューしていきたいと思います！ 2023年7月19日時点の情報を元に書いています。 […]",
+          "link": "https://cgbox.jp/2023/08/11/udemy-ue5-tutrial0805/",
+          "publishedOn": "2023-08-11T03:47:00.000Z",
+          "wordCount": 1867,
+          "title": "【UE5講座】UE5初心者でも挫折しない基礎講座をレビュー",
+          "imageUrl": "https://cgbox.jp/wp-content/uploads/2023/08/270b4b0560f2694383f2c59e61adb702.jpg"
+        },
+        {
           "id": "https://cgbox.jp/?p=39894",
           "author": "kasahara",
           "description": "こんばんは！ 今回はがBlender Marketにて配布されていたので紹介します。 以下から購入できます。 Dustgen このアセットは『Blender Easy』という方の作品になります。 ジオメトリーノードで作ら […]",
@@ -1262,6 +1282,21 @@
       "siteUrl": "https://3dnchu.com",
       "articles": [
         {
+          "id": "https://3dnchu.com/?p=1030179",
+          "author": "Ymt3D -3dnchu-",
+          "description": "ICCV 2023に合わせて発表された単眼カメラ映像から人物の動きをトラッキングする新技術「4D Humans: Reconstructing and Tracking Humans with Transformers」が注目を集めています。",
+          "link": "https://3dnchu.com/archives/4d-humans/",
+          "publishedOn": "2023-08-11T03:08:16.000Z",
+          "wordCount": 7549,
+          "title": "4D Humans: Reconstructing and Tracking Humans with Transformers - 単眼カメラ映像から人物の動きをトラッキング出来るICCV 2023発表新技術！コードも公開され使用可能！",
+          "enclosure": {
+            "url": "https://people.eecs.berkeley.edu/~jathushan/projects/4dhumans/video1_pnp_comp.mp4",
+            "length": "83012822",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://3dnchu.com/wp-content/uploads/4D-Humans.webp"
+        },
+        {
           "id": "https://3dnchu.com/?p=1011846",
           "author": "Ymt3D -3dnchu-",
           "description": "2台以上のiPhoneを使用し高精度な人体モーションを生成可能な「Move.ai」というサービス、少し前から提供開始されております。",
@@ -2040,36 +2075,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "https://3dnchu.com/wp-content/uploads/XFur-Studio-3-and-core.webp"
-        },
-        {
-          "id": "https://3dnchu.com/?p=1029978",
-          "author": "Ymt3D -3dnchu-",
-          "description": "テクニカルアーティストのGabriel de Laubier氏がUnreal Engine 5で実現するユニークなスタイライズドペイントシェーダー「Stylized Paint Shader v2」をどのように構築したのか解説した記事を公開しました！",
-          "link": "https://3dnchu.com/archives/stylized-paint-shader-v2-ue5/",
-          "publishedOn": "2023-07-12T17:08:56.000Z",
-          "wordCount": 7264,
-          "title": "Stylized Paint Shader v2 - テクニカルアーティストのGabriel de Laubier氏がUnreal Engine 5で構築したユニークなスタイライズドペイントシェーダーの技術解説記事を公開！",
-          "enclosure": {
-            "url": "https://3dnchu.com/wp-content/uploads/Stylized-Paint-Shader-v2.webp",
-            "length": "694054",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://3dnchu.com/wp-content/uploads/Stylized-Paint-Shader-v2.webp"
-        },
-        {
-          "id": "https://3dnchu.com/?p=1029939",
-          "author": "Ymt3D -3dnchu-",
-          "description": "特殊メイク的着色方法で肌の着色技法を学ぶ！上路 市剛氏著書の『リアルな肌の着色術』が2023年7月下旬にボーンデジタルから販売されます！",
-          "link": "https://3dnchu.com/archives/realistic-skin-coloring-technique/",
-          "publishedOn": "2023-07-12T15:42:01.000Z",
-          "wordCount": 7353,
-          "title": "リアルな肌の着色術 - キャラクターアーティスト必見！特殊メイク的着色方法で肌色表現を学べる本が2023年7月下旬に発売予定！",
-          "enclosure": {
-            "url": "https://3dnchu.com/wp-content/uploads/realistic-skin-coloring-technique.webp",
-            "length": "113110",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://3dnchu.com/wp-content/uploads/realistic-skin-coloring-technique.webp"
         }
       ]
     },

@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-08-17T12:11:57.758Z</updated>
+    <updated>2023-08-18T00:30:45.478Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Engine Simulator - 内燃機関をシミュレートしリアルなエンジンサウンドを生成可能なオープンソースツール！]]></title>
+        <id>https://3dnchu.com/?p=1028934</id>
+        <link href="https://3dnchu.com/archives/engine-simulator/"/>
+        <updated>2023-08-17T12:39:05.000Z</updated>
+        <summary type="html"><![CDATA[ソフトウェア開発者Ange Yaghi氏による『Engine Simulator』のご紹介。内燃機関をシミュレートしリアルなエンジンサウンドを生成可能なオープンソースツールです。]]></summary>
+        <author>
+            <name>Ymt3D -3dnchu-</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【チュートリアル紹介】宇宙空間に浮かぶブラックホールを作成！]]></title>
         <id>https://cgbox.jp/?p=40932</id>
@@ -2407,86 +2417,6 @@ The post 【Photoshop】ShotSave ver2.0で
         <link href="https://cgworld.jp/article/202307-uefest-sig.html"/>
         <updated>2023-07-20T02:00:00.000Z</updated>
         <summary type="html"><![CDATA[エピック ゲームズ ジャパンが主催するUnreal Engine（以下、UE）の公式イベント「UNREAL FEST 2023 TOKYO」が、6月2日（金）・3日（土）の2日間にわたってベルサール秋葉原（東京・秋葉原）で開催された。     初日は開発規模や分野を問わないUnreal Showcases、2日目はUNREAL FEST初となる、インディーゲーム開発者にスポットを当てたIndie Focusという構成だった。本記事では、2日目にスペシャルトークステージ（STAGE A）で行われたセッション]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rush Hour - UE標準の物理ビークル挙動をベースに車両走行アニメーションが制作可能！EpicMegagrantsを受賞したUnreal Engine向けプラグイン！]]></title>
-        <id>https://3dnchu.com/?p=1029882</id>
-        <link href="https://3dnchu.com/archives/rush-hour-ue-plugin/"/>
-        <updated>2023-07-19T12:22:56.000Z</updated>
-        <summary type="html"><![CDATA[GDCornerによるUE標準の物理ビークルシステムをベースに走行アニメーションを制作可能なUEプラグイン「Rush Hour」のご紹介です。]]></summary>
-        <author>
-            <name>Ymt3D -3dnchu-</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Houdini Foundations 日本語版 - Houdini 19.5に対応したアーティスト向けチュートリアルブック！日本語版PDFが無償公開！]]></title>
-        <id>https://3dnchu.com/?p=1029874</id>
-        <link href="https://3dnchu.com/archives/houdini-foundations-jp/"/>
-        <updated>2023-07-19T11:09:31.000Z</updated>
-        <summary type="html"><![CDATA[Houdini 19.5 用 Houdini Foundations の日本語版チュートリアルブック（PDF）が無償公開されています！]]></summary>
-        <author>
-            <name>Ymt3D -3dnchu-</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Odyssey Beta - Unreal Engine上で2Dアニメーションを作成する為のプラグイン！最新映像が公開！]]></title>
-        <id>https://3dnchu.com/?p=1030115</id>
-        <link href="https://3dnchu.com/archives/odyssey-beta-wip1/"/>
-        <updated>2023-07-19T10:06:38.000Z</updated>
-        <summary type="html"><![CDATA[UE向けお絵かきプラグイン「ILIAD」などでもお馴染みPraxinos Coopによる、2Dアニメーション制作機能を追加するUEプラグイン「Oddyssey」の最新映像が公開！]]></summary>
-        <author>
-            <name>Ymt3D -3dnchu-</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【チュートリアル紹介】ワープホールアニメーションを作成！]]></title>
-        <id>https://cgbox.jp/?p=37135</id>
-        <link href="https://cgbox.jp/2023/07/19/news-tutorial-createvolumetricportals/"/>
-        <updated>2023-07-19T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは！ 今回は”Hell FX Learn”さんの動画を紹介します。 Create Volumetric Portals In Blender With Simulation Nodes! 「Create Volu […]]]></summary>
-        <author>
-            <name>UEDA</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【アドオン紹介】Graphpilot – Fカーブをパラメーターで一括簡単調整！]]></title>
-        <id>https://cgbox.jp/?p=36903</id>
-        <link href="https://cgbox.jp/2023/07/19/news-addon-graphpilot/"/>
-        <updated>2023-07-19T09:00:00.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは！ 今回はアドオンの「Graphpilot」を紹介します。 こちらのリンクから購入することができます。 Graphpilot 「Graphpilot」は、簡単にキーフレーム間の動作を変更できるアドオンです。 F […]]]></summary>
-        <author>
-            <name>UEDA</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CharacterCreator4の使い方！モデリングなしで人物制作]]></title>
-        <id>https://cgbox.jp/?p=37009</id>
-        <link href="https://cgbox.jp/2023/07/19/charactercreator4-howto/"/>
-        <updated>2023-07-19T06:30:00.000Z</updated>
-        <summary type="html"><![CDATA[こんにちは。 今回はCharacterCreatorの使い方について簡単に解説していきたいと思います。 CharacterCreatorとは？ CharacterCreatorとはモデリングなしで、アセットやパラメータの […]]]></summary>
-        <author>
-            <name>kasahara</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[［お知らせ］BlenderでCGを始めよう！ゼロから学ぶ3DCG教室『第168回：人体モデリング講座（47）～ハイポリモデリング（38）～』が配信開始 - ニュース]]></title>
-        <id>https://cgworld.jp/flashnews/blender-online-168.html</id>
-        <link href="https://cgworld.jp/flashnews/blender-online-168.html"/>
-        <updated>2023-07-19T06:02:24.000Z</updated>
-        <summary type="html"><![CDATA[みなさん、こんにちは。CGWORLDの西原です。 今回は洋服などのモデルの調整...]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[内製エンジンからUE4への移植に挑んだ『龍が如く 維新！ 極』開発事例 〜UNREAL FEST 2023 TOKYO（2） - 特集]]></title>
-        <id>https://cgworld.jp/article/202307-uefest-sega.html</id>
-        <link href="https://cgworld.jp/article/202307-uefest-sega.html"/>
-        <updated>2023-07-19T05:03:00.000Z</updated>
-        <summary type="html"><![CDATA[Epic Games Japan主催のイベント「UNREAL FEST 2023 TOKYO」から、セガの講演「『龍が如く 維新！ 極（きわみ）』開発事例：内製エンジンからの移植とUE4活用」の模様を一部レポートする。]]></summary>
         <author>
             <name>CGWORLD</name>
         </author>

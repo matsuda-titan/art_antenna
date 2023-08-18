@@ -1345,36 +1345,6 @@
           "wordCount": 2029,
           "title": "VRChatでフレンドと遊ぼう！おすすめのゲームワールドを紹介",
           "imageUrl": "https://cgbox.jp/wp-content/uploads/2023/07/1-3.jpg"
-        },
-        {
-          "id": "https://cgbox.jp/?p=37135",
-          "author": "UEDA",
-          "description": "こんばんは！ 今回は”Hell FX Learn”さんの動画を紹介します。 Create Volumetric Portals In Blender With Simulation Nodes! 「Create Volu […]",
-          "link": "https://cgbox.jp/2023/07/19/news-tutorial-createvolumetricportals/",
-          "publishedOn": "2023-07-19T10:00:00.000Z",
-          "wordCount": 2019,
-          "title": "【チュートリアル紹介】ワープホールアニメーションを作成！",
-          "imageUrl": "https://cgbox.jp/wp-content/uploads/2023/07/1-22.gif"
-        },
-        {
-          "id": "https://cgbox.jp/?p=36903",
-          "author": "UEDA",
-          "description": "こんばんは！ 今回はアドオンの「Graphpilot」を紹介します。 こちらのリンクから購入することができます。 Graphpilot 「Graphpilot」は、簡単にキーフレーム間の動作を変更できるアドオンです。 F […]",
-          "link": "https://cgbox.jp/2023/07/19/news-addon-graphpilot/",
-          "publishedOn": "2023-07-19T09:00:00.000Z",
-          "wordCount": 1931,
-          "title": "【アドオン紹介】Graphpilot – Fカーブをパラメーターで一括簡単調整！",
-          "imageUrl": "https://cgbox.jp/wp-content/uploads/2023/07/1-21.gif"
-        },
-        {
-          "id": "https://cgbox.jp/?p=37009",
-          "author": "kasahara",
-          "description": "こんにちは。 今回はCharacterCreatorの使い方について簡単に解説していきたいと思います。 CharacterCreatorとは？ CharacterCreatorとはモデリングなしで、アセットやパラメータの […]",
-          "link": "https://cgbox.jp/2023/07/19/charactercreator4-howto/",
-          "publishedOn": "2023-07-19T06:30:00.000Z",
-          "wordCount": 1944,
-          "title": "CharacterCreator4の使い方！モデリングなしで人物制作",
-          "imageUrl": "https://cgbox.jp/wp-content/uploads/2023/07/6d939d0f7e5baf0eb23876e499f9f2f5-2.jpg"
         }
       ]
     },
@@ -1401,6 +1371,21 @@
       "feedUrl": "https://3dnchu.com/feed/",
       "siteUrl": "https://3dnchu.com",
       "articles": [
+        {
+          "id": "https://3dnchu.com/?p=1028934",
+          "author": "Ymt3D -3dnchu-",
+          "description": "ソフトウェア開発者Ange Yaghi氏による『Engine Simulator』のご紹介。内燃機関をシミュレートしリアルなエンジンサウンドを生成可能なオープンソースツールです。",
+          "link": "https://3dnchu.com/archives/engine-simulator/",
+          "publishedOn": "2023-08-17T12:39:05.000Z",
+          "wordCount": 7476,
+          "title": "Engine Simulator - 内燃機関をシミュレートしリアルなエンジンサウンドを生成可能なオープンソースツール！",
+          "enclosure": {
+            "url": "https://3dnchu.com/wp-content/uploads/Engine-Simulator.webp",
+            "length": "816272",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://3dnchu.com/wp-content/uploads/Engine-Simulator.webp"
+        },
         {
           "id": "https://3dnchu.com/?p=1031238",
           "author": "Ymt3D -3dnchu-",
@@ -2165,51 +2150,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "https://3dnchu.com/wp-content/uploads/Neural-Haircut.webp"
-        },
-        {
-          "id": "https://3dnchu.com/?p=1029882",
-          "author": "Ymt3D -3dnchu-",
-          "description": "GDCornerによるUE標準の物理ビークルシステムをベースに走行アニメーションを制作可能なUEプラグイン「Rush Hour」のご紹介です。",
-          "link": "https://3dnchu.com/archives/rush-hour-ue-plugin/",
-          "publishedOn": "2023-07-19T12:22:56.000Z",
-          "wordCount": 7317,
-          "title": "Rush Hour - UE標準の物理ビークル挙動をベースに車両走行アニメーションが制作可能！EpicMegagrantsを受賞したUnreal Engine向けプラグイン！",
-          "enclosure": {
-            "url": "https://3dnchu.com/wp-content/uploads/Rush-Hour.webp",
-            "length": "913830",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://3dnchu.com/wp-content/uploads/Rush-Hour.webp"
-        },
-        {
-          "id": "https://3dnchu.com/?p=1029874",
-          "author": "Ymt3D -3dnchu-",
-          "description": "Houdini 19.5 用 Houdini Foundations の日本語版チュートリアルブック（PDF）が無償公開されています！",
-          "link": "https://3dnchu.com/archives/houdini-foundations-jp/",
-          "publishedOn": "2023-07-19T11:09:31.000Z",
-          "wordCount": 7223,
-          "title": "Houdini Foundations 日本語版 - Houdini 19.5に対応したアーティスト向けチュートリアルブック！日本語版PDFが無償公開！",
-          "enclosure": {
-            "url": "https://3dnchu.com/wp-content/uploads/Houdini-Foundation-Book.jpg",
-            "length": "121216",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://3dnchu.com/wp-content/uploads/Houdini-Foundation-Book.jpg"
-        },
-        {
-          "id": "https://3dnchu.com/?p=1030115",
-          "author": "Ymt3D -3dnchu-",
-          "description": "UE向けお絵かきプラグイン「ILIAD」などでもお馴染みPraxinos Coopによる、2Dアニメーション制作機能を追加するUEプラグイン「Oddyssey」の最新映像が公開！",
-          "link": "https://3dnchu.com/archives/odyssey-beta-wip1/",
-          "publishedOn": "2023-07-19T10:06:38.000Z",
-          "wordCount": 7285,
-          "title": "Odyssey Beta - Unreal Engine上で2Dアニメーションを作成する為のプラグイン！最新映像が公開！",
-          "enclosure": {
-            "url": "https://3dnchu.com/wp-content/uploads/Odyssey-beta.webp",
-            "length": "760220",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://3dnchu.com/wp-content/uploads/Odyssey-beta.webp"
         }
       ]
     },
@@ -2757,26 +2697,6 @@
           "wordCount": 790,
           "title": "ゲーム開発時に経験した「しくじり」を、UE開発者向けに解説 〜UNREAL FEST 2023 TOKYO（3） - 特集",
           "imageUrl": "https://cgworld.jp/article/assets_c/2023/07/uefest_sig_28_TOP-thumb-1000x568-40837.jpg"
-        },
-        {
-          "id": "https://cgworld.jp/flashnews/blender-online-168.html",
-          "author": null,
-          "description": "みなさん、こんにちは。CGWORLDの西原です。 今回は洋服などのモデルの調整...",
-          "link": "https://cgworld.jp/flashnews/blender-online-168.html",
-          "publishedOn": "2023-07-19T06:02:24.000Z",
-          "wordCount": 679,
-          "title": "［お知らせ］BlenderでCGを始めよう！ゼロから学ぶ3DCG教室『第168回：人体モデリング講座（47）～ハイポリモデリング（38）～』が配信開始 - ニュース",
-          "imageUrl": "https://cgworld.jp/flashnews/assets_c/2023/07/blender168-thumb-1000x563-40998.png"
-        },
-        {
-          "id": "https://cgworld.jp/article/202307-uefest-sega.html",
-          "author": null,
-          "description": "Epic Games Japan主催のイベント「UNREAL FEST 2023 TOKYO」から、セガの講演「『龍が如く 維新！ 極（きわみ）』開発事例：内製エンジンからの移植とUE4活用」の模様を一部レポートする。",
-          "link": "https://cgworld.jp/article/202307-uefest-sega.html",
-          "publishedOn": "2023-07-19T05:03:00.000Z",
-          "wordCount": 766,
-          "title": "内製エンジンからUE4への移植に挑んだ『龍が如く 維新！ 極』開発事例 〜UNREAL FEST 2023 TOKYO（2） - 特集",
-          "imageUrl": "https://cgworld.jp/article/assets_c/2023/07/f9b5d3fa8adef5d9bd479b8e2f7a8cdc2224ee45-thumb-1920x1080-40663.jpg"
         }
       ]
     },

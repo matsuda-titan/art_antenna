@@ -12,6 +12,26 @@
       "siteUrl": "https://cgbox.jp",
       "articles": [
         {
+          "id": "https://cgbox.jp/?p=41248",
+          "author": "kasahara",
+          "description": "こんばんは！ 今回は”Kristof Dedene”さんの動画を紹介します。 Tutorial: Stylized waterfall in Blender このチュートリアルではアニメ調の滝アニメーションの作り方につい […]",
+          "link": "https://cgbox.jp/2023/08/20/news-tutrial-stylized-waterfall/",
+          "publishedOn": "2023-08-20T02:55:00.000Z",
+          "wordCount": 1886,
+          "title": "【チュートリアル紹介】アニメ調の滝アニメーションの作り方",
+          "imageUrl": "https://cgbox.jp/wp-content/uploads/2023/08/3668da2da399a51f402b75d1bd2bd2e7.jpg"
+        },
+        {
+          "id": "https://cgbox.jp/?p=41227",
+          "author": "kasahara",
+          "description": "こんばんは！ 今回は”Kristof Dedene”さんの動画を紹介します。 Tutorial: Ghibli style procedural rocks in blender この動画でジブリ風の岩のマテリアルを制作 […]",
+          "link": "https://cgbox.jp/2023/08/20/news-tutrial-ghibli-style-procedural/",
+          "publishedOn": "2023-08-20T02:11:00.000Z",
+          "wordCount": 1888,
+          "title": "【チュートリアル紹介】ジブリアニメ風の質感を再現できる動画",
+          "imageUrl": "https://cgbox.jp/wp-content/uploads/2023/08/b12fbfaf5eecc3cb0c0032f93cd3eed4.jpg"
+        },
+        {
           "id": "https://cgbox.jp/?p=40107",
           "author": "UEDA",
           "description": "こんにちは！ 今回はCG制作に活かせるスキルを学べる本を紹介していきます。 Blenderに絞って学習書籍をまとめた記事もアップしているので、そちらも合わせてチェックしてみてください。 本でスキル 今回はCGソフトに縛ら […]",
@@ -1327,6 +1347,36 @@
       "siteUrl": "https://3dnchu.com",
       "articles": [
         {
+          "id": "https://3dnchu.com/?p=1031437",
+          "author": "Ymt3D -3dnchu-",
+          "description": "ゲーム開発者の惟心（@ishin_mosquito）氏がGlobalTimeDilationやGamePauseの影響を受けずにDelayが使えるUnreal Engine向けプラグイン「ue4-realtime-delay」をGithub上で無料公開しています。",
+          "link": "https://3dnchu.com/archives/ue4-realtime-delay/",
+          "publishedOn": "2023-08-20T01:56:49.000Z",
+          "wordCount": 7290,
+          "title": "ue4-realtime-delay - GlobalTimeDilationやGamePauseの影響を受けずにDelayが使えるUnreal Engine向けプラグインが無料公開！",
+          "enclosure": {
+            "url": "https://3dnchu.com/wp-content/uploads/ue4-realtime-delay.png",
+            "length": "25602",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://3dnchu.com/wp-content/uploads/ue4-realtime-delay.png"
+        },
+        {
+          "id": "https://3dnchu.com/?p=1031420",
+          "author": "Ymt3D -3dnchu-",
+          "description": "風見ひよこ氏（weatherchick227）がBlenderのGeometry Nodesの仕様を日本語でまとめたPDF資料『Blender ジオメトリノード仕様まとめ v3.6』を無料公開しました。",
+          "link": "https://3dnchu.com/archives/blender-geometry-nodes-spec-summary-v3-6/",
+          "publishedOn": "2023-08-20T01:37:58.000Z",
+          "wordCount": 7474,
+          "title": "Blender ジオメトリノード仕様まとめ v3.6 - 風見ひよこ氏によるBlender 3.6のGeometry Nodesまとめ！わかりやすく日本語でまとめた200p超のPDF資料が無料公開！",
+          "enclosure": {
+            "url": "https://3dnchu.com/wp-content/uploads/blender-geometry-nodes-spec-summary-v3-6-1.webp",
+            "length": "165692",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://3dnchu.com/wp-content/uploads/blender-geometry-nodes-spec-summary-v3-6-1.webp"
+        },
+        {
           "id": "https://3dnchu.com/?p=1031408",
           "author": "Ymt3D -3dnchu-",
           "description": "数多くのモデリング系Blenderアドオンを開発し公開しているKushiro氏によるインセットアドオン「Safe Inset」と「Padding Inset」の２つがリリースされています。何方も無料公開されています。",
@@ -2120,21 +2170,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "https://3dnchu.com/wp-content/uploads/Randomize-Wire-Color-2-small.webp"
-        },
-        {
-          "id": "https://3dnchu.com/?p=1030231",
-          "author": "Ymt3D -3dnchu-",
-          "description": "UNIGINE Companyが開発しているクロスプラットフォーム ゲームエンジンの最新アップデート「UNIGINE Engine 2.17」が公開されました！",
-          "link": "https://3dnchu.com/archives/unigine-engine-2-17/",
-          "publishedOn": "2023-07-21T14:25:12.000Z",
-          "wordCount": 7291,
-          "title": "UNIGINE Engine 2.17 - シミュレーションやエンジニアリング、3Dコンテンツ開発の為のリアルタイム3Dエンジン最新アップデートが公開！パノラマ空間の動的グローバルイルミネーション（PSDGI）などを搭載！",
-          "enclosure": {
-            "url": "https://3dnchu.com/wp-content/uploads/UNIGINE-Engine-2.17.webp",
-            "length": "872398",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://3dnchu.com/wp-content/uploads/UNIGINE-Engine-2.17.webp"
         }
       ]
     },

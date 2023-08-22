@@ -2,10 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-08-21T12:12:33.250Z</updated>
+    <updated>2023-08-22T00:31:24.605Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Verve v0.99z - 流体シミュレーションベースのペイントソフトが数年ぶりに帰ってきた！シェーダー全体がクリーンアップされた最新版！v1.0に向けて開発中！Windows]]></title>
+        <id>https://3dnchu.com/?p=1031491</id>
+        <link href="https://3dnchu.com/archives/verve-v0-99z/"/>
+        <updated>2023-08-21T21:08:33.000Z</updated>
+        <summary type="html"><![CDATA[古くから3D人をチェックされている方はご存知の方も多いかな？あの流体シミュレーション活用のペイントソフト「Verve」の最新アップデートv0.99zがリリースされていました！]]></summary>
+        <author>
+            <name>Ymt3D -3dnchu-</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenFlowmap - シーンから動的にフローマップを生成しベイク可能なUnityアセット！Github上に無料公開！]]></title>
+        <id>https://3dnchu.com/?p=1031480</id>
+        <link href="https://3dnchu.com/archives/openflowmap/"/>
+        <updated>2023-08-21T20:08:19.000Z</updated>
+        <summary type="html"><![CDATA[ゲーム開発者でテクニカルアーティストのOmid Saadat氏が ダイナミックに生成出来るフローマップシステム「OpenFlowmap」のUnityアセットデータをGithub上に公開しました！]]></summary>
+        <author>
+            <name>Ymt3D -3dnchu-</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Uv Flow Beta - シーム指定で瞬時に展開！UVを高速＆視覚的に分かりやすく開く事に重点を置いた新Blenderアドオン！ベータ版が販売中！]]></title>
+        <id>https://3dnchu.com/?p=1031468</id>
+        <link href="https://3dnchu.com/archives/uv-flow-beta/"/>
+        <updated>2023-08-21T19:40:33.000Z</updated>
+        <summary type="html"><![CDATA[Orange Turbine氏によるUV展開系Blenderアドオン『Uv Flow』のベータ版がリリースされました！]]></summary>
+        <author>
+            <name>Ymt3D -3dnchu-</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Human Generator Ultimate - Blender向けリアル3D人体生成アドオン！多くの新機能を搭載した最新メジャーアップデートがリリース！]]></title>
+        <id>https://3dnchu.com/?p=1031455</id>
+        <link href="https://3dnchu.com/archives/human-generator-ultimate/"/>
+        <updated>2023-08-21T19:00:34.000Z</updated>
+        <summary type="html"><![CDATA[Oliver J. Post氏とAlexander Lashko氏によるBlender向け人体生成アドオンの新バージョン「Human Generator Ultimate」がリリースされました。]]></summary>
+        <author>
+            <name>Ymt3D -3dnchu-</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【Unity】トランジションを使用した場面転換の作り方！]]></title>
+        <id>https://cgbox.jp/?p=40471</id>
+        <link href="https://cgbox.jp/2023/08/21/unity-transition/"/>
+        <updated>2023-08-21T14:08:55.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは！コチラの記事では、シーン遷移のトランジション・アニメーション遷移のトランジションの作り方を分かりやすく解説していきます。 シーン遷移のトランジションの作り方！ ルール画像（今回は星形を使用）でイメージをくり抜 […]]]></summary>
+        <author>
+            <name>tainari</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【チュートリアル紹介】動きの基本をマスターしよう！]]></title>
         <id>https://cgbox.jp/?p=41367</id>
@@ -2378,36 +2428,6 @@ The post 【Photoshop】ShotSave ver2.0で
         <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
         <author>
             <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【チュートリアル紹介】薄皮が剥がれるエフェクトの作成方法を学習！]]></title>
-        <id>https://cgbox.jp/?p=37380</id>
-        <link href="https://cgbox.jp/2023/07/23/news-tutorial-makethismandopeelanimation/"/>
-        <updated>2023-07-23T09:00:00.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは！ 今回は”PIXXO 3D”さんの動画を紹介します。 Make This Mando Peel Animation In Blender | EASY Tutorial 「Make This Mando Pe […]]]></summary>
-        <author>
-            <name>UEDA</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【チュートリアル紹介】可愛いバルーン作品を制作！]]></title>
-        <id>https://cgbox.jp/?p=37389</id>
-        <link href="https://cgbox.jp/2023/07/23/news-tutrial-galaxy-balloons/"/>
-        <updated>2023-07-23T06:42:00.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは！ 今回は”Kevandram”さんの動画を紹介します。 Blender & Grease Pencil Tutorial – 2D/3D Galaxy Balloons こちらのチュートリ […]]]></summary>
-        <author>
-            <name>kasahara</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2023秋 バンクーバーVFX／CG現地体験会 - 英語ができない方でも安心！6日間の現地サポート！スタジオ＆学校体験＆現役海外アーティスト交流＆観光ツアー！2023年8月20日まで申込受付中！2023春開催のレポートも公開！]]></title>
-        <id>https://3dnchu.com/?p=1030285</id>
-        <link href="https://3dnchu.com/archives/teamove-cgvfx-tour-2023autumn/"/>
-        <updated>2023-07-23T05:28:13.000Z</updated>
-        <summary type="html"><![CDATA[外の映画・CG・Web業界への進出をサポートするチーム「Teamove」による「2023年秋 VFX／CG現地体験会」の仮申し込み受付が開始されています！※CG専門の通訳が全日程アテンド！英語ができない方でも安心！]]></summary>
-        <author>
-            <name>Ymt3D -3dnchu-</name>
         </author>
     </entry>
 </feed>

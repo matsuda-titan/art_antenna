@@ -12,6 +12,16 @@
       "siteUrl": "https://cgbox.jp",
       "articles": [
         {
+          "id": "https://cgbox.jp/?p=40471",
+          "author": "tainari",
+          "description": "こんにちは！コチラの記事では、シーン遷移のトランジション・アニメーション遷移のトランジションの作り方を分かりやすく解説していきます。 シーン遷移のトランジションの作り方！ ルール画像（今回は星形を使用）でイメージをくり抜 […]",
+          "link": "https://cgbox.jp/2023/08/21/unity-transition/",
+          "publishedOn": "2023-08-21T14:08:55.000Z",
+          "wordCount": 2292,
+          "title": "【Unity】トランジションを使用した場面転換の作り方！",
+          "imageUrl": "https://cgbox.jp/wp-content/uploads/2023/08/VRoid-4.jpg"
+        },
+        {
           "id": "https://cgbox.jp/?p=41367",
           "author": "UEDA",
           "description": "こんばんは！ 今回は”夏森轄（なつもり かつ）”さんの動画を紹介します。 【Blender】アニメーション基礎講座　～歩き、走りの作り方～ 「【Blender】アニメーション基礎講座　～歩き、走りの作り方～」では、歩きと […]",
@@ -1305,26 +1315,6 @@
           "wordCount": 1789,
           "title": "【チュートリアル紹介】プロシージャルマテリアルで作るミートボールの作り方！",
           "imageUrl": "https://cgbox.jp/wp-content/uploads/2023/07/giphy-39.gif"
-        },
-        {
-          "id": "https://cgbox.jp/?p=37380",
-          "author": "UEDA",
-          "description": "こんばんは！ 今回は”PIXXO 3D”さんの動画を紹介します。 Make This Mando Peel Animation In Blender | EASY Tutorial 「Make This Mando Pe […]",
-          "link": "https://cgbox.jp/2023/07/23/news-tutorial-makethismandopeelanimation/",
-          "publishedOn": "2023-07-23T09:00:00.000Z",
-          "wordCount": 2121,
-          "title": "【チュートリアル紹介】薄皮が剥がれるエフェクトの作成方法を学習！",
-          "imageUrl": "https://cgbox.jp/wp-content/uploads/2023/07/4-9.gif"
-        },
-        {
-          "id": "https://cgbox.jp/?p=37389",
-          "author": "kasahara",
-          "description": "こんばんは！ 今回は”Kevandram”さんの動画を紹介します。 Blender & Grease Pencil Tutorial – 2D/3D Galaxy Balloons こちらのチュートリ […]",
-          "link": "https://cgbox.jp/2023/07/23/news-tutrial-galaxy-balloons/",
-          "publishedOn": "2023-07-23T06:42:00.000Z",
-          "wordCount": 1849,
-          "title": "【チュートリアル紹介】可愛いバルーン作品を制作！",
-          "imageUrl": "https://cgbox.jp/wp-content/uploads/2023/07/giphy-38-1.gif"
         }
       ]
     },
@@ -1351,6 +1341,66 @@
       "feedUrl": "https://3dnchu.com/feed/",
       "siteUrl": "https://3dnchu.com",
       "articles": [
+        {
+          "id": "https://3dnchu.com/?p=1031491",
+          "author": "Ymt3D -3dnchu-",
+          "description": "古くから3D人をチェックされている方はご存知の方も多いかな？あの流体シミュレーション活用のペイントソフト「Verve」の最新アップデートv0.99zがリリースされていました！",
+          "link": "https://3dnchu.com/archives/verve-v0-99z/",
+          "publishedOn": "2023-08-21T21:08:33.000Z",
+          "wordCount": 7296,
+          "title": "Verve v0.99z - 流体シミュレーションベースのペイントソフトが数年ぶりに帰ってきた！シェーダー全体がクリーンアップされた最新版！v1.0に向けて開発中！Windows",
+          "enclosure": {
+            "url": "https://3dnchu.com/wp-content/uploads/Verve-v0.99z-.webp",
+            "length": "341846",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://3dnchu.com/wp-content/uploads/Verve-v0.99z-.webp"
+        },
+        {
+          "id": "https://3dnchu.com/?p=1031480",
+          "author": "Ymt3D -3dnchu-",
+          "description": "ゲーム開発者でテクニカルアーティストのOmid Saadat氏が ダイナミックに生成出来るフローマップシステム「OpenFlowmap」のUnityアセットデータをGithub上に公開しました！",
+          "link": "https://3dnchu.com/archives/openflowmap/",
+          "publishedOn": "2023-08-21T20:08:19.000Z",
+          "wordCount": 7335,
+          "title": "OpenFlowmap - シーンから動的にフローマップを生成しベイク可能なUnityアセット！Github上に無料公開！",
+          "enclosure": {
+            "url": "https://3dnchu.com/wp-content/uploads/Open-Flowmap.webp",
+            "length": "230316",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://3dnchu.com/wp-content/uploads/Open-Flowmap.webp"
+        },
+        {
+          "id": "https://3dnchu.com/?p=1031468",
+          "author": "Ymt3D -3dnchu-",
+          "description": "Orange Turbine氏によるUV展開系Blenderアドオン『Uv Flow』のベータ版がリリースされました！",
+          "link": "https://3dnchu.com/archives/uv-flow-beta/",
+          "publishedOn": "2023-08-21T19:40:33.000Z",
+          "wordCount": 7270,
+          "title": "Uv Flow Beta - シーム指定で瞬時に展開！UVを高速＆視覚的に分かりやすく開く事に重点を置いた新Blenderアドオン！ベータ版が販売中！",
+          "enclosure": {
+            "url": "https://3dnchu.com/wp-content/uploads/UV-Flow-Beta.webp",
+            "length": "284102",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://3dnchu.com/wp-content/uploads/UV-Flow-Beta.webp"
+        },
+        {
+          "id": "https://3dnchu.com/?p=1031455",
+          "author": "Ymt3D -3dnchu-",
+          "description": "Oliver J. Post氏とAlexander Lashko氏によるBlender向け人体生成アドオンの新バージョン「Human Generator Ultimate」がリリースされました。",
+          "link": "https://3dnchu.com/archives/human-generator-ultimate/",
+          "publishedOn": "2023-08-21T19:00:34.000Z",
+          "wordCount": 7325,
+          "title": "Human Generator Ultimate - Blender向けリアル3D人体生成アドオン！多くの新機能を搭載した最新メジャーアップデートがリリース！",
+          "enclosure": {
+            "url": "https://3dnchu.com/wp-content/uploads/Human-Generator-Ultimate.webp",
+            "length": "555890",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://3dnchu.com/wp-content/uploads/Human-Generator-Ultimate.webp"
+        },
         {
           "id": "https://3dnchu.com/?p=1031437",
           "author": "Ymt3D -3dnchu-",
@@ -2145,21 +2195,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "https://3dnchu.com/wp-content/uploads/Simply-Render-Flow-v1.0.webp"
-        },
-        {
-          "id": "https://3dnchu.com/?p=1030285",
-          "author": "Ymt3D -3dnchu-",
-          "description": "外の映画・CG・Web業界への進出をサポートするチーム「Teamove」による「2023年秋 VFX／CG現地体験会」の仮申し込み受付が開始されています！※CG専門の通訳が全日程アテンド！英語ができない方でも安心！",
-          "link": "https://3dnchu.com/archives/teamove-cgvfx-tour-2023autumn/",
-          "publishedOn": "2023-07-23T05:28:13.000Z",
-          "wordCount": 7260,
-          "title": "2023秋 バンクーバーVFX／CG現地体験会 - 英語ができない方でも安心！6日間の現地サポート！スタジオ＆学校体験＆現役海外アーティスト交流＆観光ツアー！2023年8月20日まで申込受付中！2023春開催のレポートも公開！",
-          "enclosure": {
-            "url": "https://3dnchu.com/wp-content/uploads/teamove-cgvfx-tour-2023autumn.jpg",
-            "length": "62646",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://3dnchu.com/wp-content/uploads/teamove-cgvfx-tour-2023autumn.jpg"
         }
       ]
     },

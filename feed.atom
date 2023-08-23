@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-08-23T03:07:17.657Z</updated>
+    <updated>2023-08-23T08:09:05.003Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[オンライン講座『現実感を生むCG制作の極意』がアーカイブ販売開始！ - ニュース]]></title>
+        <id>https://cgworld.jp/flashnews/2307-plusone-miura.html</id>
+        <link href="https://cgworld.jp/flashnews/2307-plusone-miura.html"/>
+        <updated>2023-08-23T06:07:47.000Z</updated>
+        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[［お知らせ］BlenderでCGを始めよう！ゼロから学ぶ3DCG教室『第172回：人体モデリング講座（51）～ハイポリモデリング（42）～』が配信開始 - ニュース]]></title>
+        <id>https://cgworld.jp/flashnews/blender-online-172.html</id>
+        <link href="https://cgworld.jp/flashnews/blender-online-172.html"/>
+        <updated>2023-08-23T04:23:49.000Z</updated>
+        <summary type="html"><![CDATA[みなさん、こんにちは。CGWORLDの西原です。 今回は前回作成したテクスチャ...]]></summary>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BlenderNeRF - シーンからNVIDIAのInstant NGPで扱えるNeRF構築の為のデータセットを作成できる無料＆オープンソースのBlenderアドオン！]]></title>
+        <id>https://3dnchu.com/?p=1031507</id>
+        <link href="https://3dnchu.com/archives/blendernerf/"/>
+        <updated>2023-08-23T03:39:24.000Z</updated>
+        <summary type="html"><![CDATA[Maxime Raafat氏によるBlenderアドオン「BlenderNeRF」が無料公開されています。書き出したデータセットを元にNVIDIAのInstant NGPなどを活用してNeRFを構築する事ができます。]]></summary>
+        <author>
+            <name>Ymt3D -3dnchu-</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[9/16（土）「Blender Fes」開催。Blenderの世界へ、一緒に飛び込もう！ユーザーのための技術交流イベント（CGWORLD） - ニュース]]></title>
         <id>https://cgworld.jp/flashnews/blenderfes-vol1-news.html</id>
@@ -2365,36 +2395,6 @@
         <summary type="html"><![CDATA[こんにちは。 今回はテクスチャからノーマルマップを自動生成できる「NormalMapOnline」の使い方を解説していきたいと思います。 NormalMapOnlineとは？ NormalMapOnlineではテクスチャ […]]]></summary>
         <author>
             <name>kasahara</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[G-Mesh - Draw Retopology - Grease Pencilで描いたトポロジーからポリゴンを生成出来るリトポロジーBlenderアドオンがリリース！]]></title>
-        <id>https://3dnchu.com/?p=1030355</id>
-        <link href="https://3dnchu.com/archives/g-mesh-draw-retopology/"/>
-        <updated>2023-07-24T18:28:19.000Z</updated>
-        <summary type="html"><![CDATA[Ryan Gonzalez氏によるユニークなリトポロジーアドオン「G-Mesh」がリリースされています。Grease Pencilで描いたトポロジーを元にポリゴンを生成出来るそうですよ。]]></summary>
-        <author>
-            <name>Ymt3D -3dnchu-</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fantastic Creature Created From Scratch To Finish Using Blender - ZBrush、Substance 3D Painter、Blenderを使用しクリーチャーのCGアートを構築するチュートリアル！「Wingfox」にて取り扱い開始！]]></title>
-        <id>https://3dnchu.com/?p=1030337</id>
-        <link href="https://3dnchu.com/archives/fantastic-creature-blender-wingfox/"/>
-        <updated>2023-07-24T18:00:19.000Z</updated>
-        <summary type="html"><![CDATA[3DアーティストのAsdius Gómez氏によるCG制作チュートリアル「Fantastic Creature Created From Scratch To Finish Using Blender」がCG＆デジタルアート学習オンラインプラットフォーム「WINGFOX」にて取り扱い開始されています。]]></summary>
-        <author>
-            <name>Ymt3D -3dnchu-</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ConjureSDF Demo - プレアルファ段階まで開発が進行中！注目のSDFモデリングBlenderアドオン！最新のタイムラプス映像が公開！]]></title>
-        <id>https://3dnchu.com/?p=1030314</id>
-        <link href="https://3dnchu.com/archives/conjuresdf-wip-demo/"/>
-        <updated>2023-07-24T17:07:40.000Z</updated>
-        <summary type="html"><![CDATA[テクニカルアーティストのJoão Desager氏が現在開発中の注目のアドオン「ConjureSDF」の最新映像がYoutube上で公開されました！SDFを使用したモデリングをBlender上で手軽に実現出来そうな注目のアドオンです！]]></summary>
-        <author>
-            <name>Ymt3D -3dnchu-</name>
         </author>
     </entry>
 </feed>

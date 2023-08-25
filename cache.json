@@ -12,6 +12,16 @@
       "siteUrl": "https://cgbox.jp",
       "articles": [
         {
+          "id": "https://cgbox.jp/?p=41113",
+          "author": "Seo",
+          "description": "こんにちは！Unityで作成したオブジェクトはデフォルトのままだと見た目が少し味気ないですよね。 色を変えたくても、設定方法が分からない！となることがあるかと思います。 そんなとき、オブジェクトにセットされているマテリア […]",
+          "link": "https://cgbox.jp/2023/08/25/unity-material-change/",
+          "publishedOn": "2023-08-25T05:35:30.000Z",
+          "wordCount": 2299,
+          "title": "【Unity】オブジェクトのマテリアルを変更する方法",
+          "imageUrl": "https://cgbox.jp/wp-content/uploads/2023/08/67b56144f58df74a6043a92ea79ab049-2.png"
+        },
+        {
           "id": "https://cgbox.jp/?p=41612",
           "author": "UEDA",
           "description": "こんばんは！ 今回は”SouthernShotty”さんの動画を紹介します。 Are You Using Blender’s Hair Assets? 「Are You Using Blender’ […]",
@@ -1277,6 +1287,21 @@
       "siteUrl": "https://3dnchu.com",
       "articles": [
         {
+          "id": "https://3dnchu.com/?p=1031592",
+          "author": "Ymt3D -3dnchu-",
+          "description": "Julien Gauthier氏による、BlenderのGeometry Nodesを活用した建物生成アドオン『Auto-Building for Blender』のご紹介。",
+          "link": "https://3dnchu.com/archives/auto-building-for-blender/",
+          "publishedOn": "2023-08-25T04:08:46.000Z",
+          "wordCount": 7304,
+          "title": "Auto-Building for Blender - Geometry Nodesを活用し制作された建物作成Blenderアドオン！",
+          "enclosure": {
+            "url": "https://3dnchu.com/wp-content/uploads/Auto-Building-for-Blender.webp",
+            "length": "904394",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://3dnchu.com/wp-content/uploads/Auto-Building-for-Blender.webp"
+        },
+        {
           "id": "https://3dnchu.com/?p=1031601",
           "author": "Ymt3D -3dnchu-",
           "description": "NetEase Gamesによる大都市型オープンワールドRPG『PROJECT MUGEN』のPVが公開されました！",
@@ -2055,81 +2080,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "https://3dnchu.com/wp-content/uploads/Underwater-BP-V3.webp"
-        },
-        {
-          "id": "https://3dnchu.com/?p=1030472",
-          "author": "Ymt3D -3dnchu-",
-          "description": "Sunija氏による「Stable Diffusion」をローカル環境で動かすソフト「InvokeAI」のv3.0がリリースされました。",
-          "link": "https://3dnchu.com/archives/invokeai-3-0/",
-          "publishedOn": "2023-07-26T19:31:32.000Z",
-          "wordCount": 7284,
-          "title": "InvokeAI 3.0 - SDXLやControlNetもサポート！ローカル環境で扱える多機能で無料＆オープンソースのStable Diffusion画像生成スタンドアロンソフト！",
-          "enclosure": {
-            "url": "https://3dnchu.com/wp-content/uploads/invokeai-3-0-sdxl.jpg",
-            "length": "44867",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://3dnchu.com/wp-content/uploads/invokeai-3-0-sdxl.jpg"
-        },
-        {
-          "id": "https://3dnchu.com/?p=1030464",
-          "author": "Ymt3D -3dnchu-",
-          "description": "2023年7月7日に公開となったフルCG映画『バイオハザード：デスアイランド（英題：RESIDENT EVIL: DEATH ISLAND）』の冒頭8分映像がYoutube上で公開されています。",
-          "link": "https://3dnchu.com/archives/resident-evil-death-island-8minites/",
-          "publishedOn": "2023-07-26T19:17:27.000Z",
-          "wordCount": 7426,
-          "title": "RESIDENT EVIL: DEATH ISLAND The First 8 Minutes - 映画『バイオハザード：デスアイランド』の冒頭8分がYoutube上で公開！",
-          "enclosure": {
-            "url": "https://3dnchu.com/wp-content/uploads/resident-evil-death-island-the-f.jpg",
-            "length": "89035",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://3dnchu.com/wp-content/uploads/resident-evil-death-island-the-f.jpg"
-        },
-        {
-          "id": "https://3dnchu.com/?p=1030450",
-          "author": "Ymt3D -3dnchu-",
-          "description": "2023年7月25日(火) に開催された、Unreal Engineを活用したバーチャルライブの勉強会イベント「UEなんでも勉強会 - バーチャルライブ編 - vol.1」の講演動画が公開されました！",
-          "link": "https://3dnchu.com/archives/ue-study-virtual-live-edition-vol-1/",
-          "publishedOn": "2023-07-26T19:02:02.000Z",
-          "wordCount": 7385,
-          "title": "UEなんでも勉強会 - バーチャルライブ編 - vol.1 - バーチャルライブにおける Unreal Engine の活用について学べる勉強会の動画アーカイブが公開！ #UEAllStudy",
-          "enclosure": {
-            "url": "https://3dnchu.com/wp-content/uploads/ue-vol-1.jpg",
-            "length": "94650",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://3dnchu.com/wp-content/uploads/ue-vol-1.jpg"
-        },
-        {
-          "id": "https://3dnchu.com/?p=1030438",
-          "author": "Ymt3D -3dnchu-",
-          "description": "3DジェネラリストのTomi Viitanen氏がBlenderとHoudiniを活用した映画クオリティのシーンを構築する方法を解説したチュートリアル動画「Tutorial: How to Create PRO Quality Scene with Blender & Houdini」を公開しました。",
-          "link": "https://3dnchu.com/archives/how-to-create-pro-quality-scene-b3d-houdini/",
-          "publishedOn": "2023-07-26T18:46:20.000Z",
-          "wordCount": 7375,
-          "title": "How to Create PRO Quality Scene with Blender ＆ Houdini - BlenderをベースにHoudiniで砂のシミュレーションを行い高品質なシーンを構築する方法を解説したチュートリアル動画が公開！",
-          "enclosure": {
-            "url": "https://3dnchu.com/wp-content/uploads/how-to-create-pro-quality-scene-b3d-houdini.webp",
-            "length": "755526",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://3dnchu.com/wp-content/uploads/how-to-create-pro-quality-scene-b3d-houdini.webp"
-        },
-        {
-          "id": "https://3dnchu.com/?p=1030424",
-          "author": "Ymt3D -3dnchu-",
-          "description": "無料で使える3Dコンテンツ開発エンジン「Unreal Engine」の5.3プレビュー版がリリースされました！",
-          "link": "https://3dnchu.com/archives/unreal-engine-5-3-preview-1/",
-          "publishedOn": "2023-07-26T18:17:58.000Z",
-          "wordCount": 7391,
-          "title": "Unreal Engine 5.3 Preview 1 - 仮想シャドウマップが正式版に！スケルタルエディターでUE上でウェイト調整やボーン追加が可能に！Naniteのランドスケープ対応！クロスエディターベータ版などなど！",
-          "enclosure": {
-            "url": "https://3dnchu.com/wp-content/uploads/UE5.3Preview1.jpg",
-            "length": "35297",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://3dnchu.com/wp-content/uploads/UE5.3Preview1.jpg"
         }
       ]
     },
@@ -2147,6 +2097,16 @@
           "wordCount": 621,
           "title": "プロダクト系CGを手がけるアルディナ・ビジュアルが、大量の受注を残業なしでこなすための制作環境の秘訣とは？ - スペシャルコンテンツ",
           "imageUrl": "https://cgworld.jp/special-feature/assets_c/2023/07/bd37e9948d76680f9d537bd7a51f0ac66a1133c0-thumb-1920x1080-41264.jpg"
+        },
+        {
+          "id": "https://cgworld.jp/flashnews/blender-blender-fes.html",
+          "author": null,
+          "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
+          "link": "https://cgworld.jp/flashnews/blender-blender-fes.html",
+          "publishedOn": "2023-08-24T09:38:54.000Z",
+          "wordCount": 669,
+          "title": "「Blender ユーザーの今」アンケート回答者には抽選でBlender Fesに無料ご招待！ - ニュース",
+          "imageUrl": "https://cgworld.jp/flashnews/assets_c/2023/08/81b58849f103455af1230e38b26e64c24e050056-thumb-1920x1080-42160.jpg"
         },
         {
           "id": "https://cgworld.jp/article/xrelsa-xr.html",

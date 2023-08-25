@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-08-25T03:07:24.281Z</updated>
+    <updated>2023-08-25T08:09:12.231Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【Unity】オブジェクトのマテリアルを変更する方法]]></title>
+        <id>https://cgbox.jp/?p=41113</id>
+        <link href="https://cgbox.jp/2023/08/25/unity-material-change/"/>
+        <updated>2023-08-25T05:35:30.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは！Unityで作成したオブジェクトはデフォルトのままだと見た目が少し味気ないですよね。 色を変えたくても、設定方法が分からない！となることがあるかと思います。 そんなとき、オブジェクトにセットされているマテリア […]]]></summary>
+        <author>
+            <name>Seo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Auto-Building for Blender - Geometry Nodesを活用し制作された建物作成Blenderアドオン！]]></title>
+        <id>https://3dnchu.com/?p=1031592</id>
+        <link href="https://3dnchu.com/archives/auto-building-for-blender/"/>
+        <updated>2023-08-25T04:08:46.000Z</updated>
+        <summary type="html"><![CDATA[Julien Gauthier氏による、BlenderのGeometry Nodesを活用した建物生成アドオン『Auto-Building for Blender』のご紹介。]]></summary>
+        <author>
+            <name>Ymt3D -3dnchu-</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[プロダクト系CGを手がけるアルディナ・ビジュアルが、大量の受注を残業なしでこなすための制作環境の秘訣とは？ - スペシャルコンテンツ]]></title>
         <id>https://cgworld.jp/special-feature/mousecomputer-202308-aldina.html</id>
@@ -24,6 +44,16 @@
         <summary type="html"><![CDATA[NetEase Gamesによる大都市型オープンワールドRPG『PROJECT MUGEN』のPVが公開されました！]]></summary>
         <author>
             <name>Ymt3D -3dnchu-</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「Blender ユーザーの今」アンケート回答者には抽選でBlender Fesに無料ご招待！ - ニュース]]></title>
+        <id>https://cgworld.jp/flashnews/blender-blender-fes.html</id>
+        <link href="https://cgworld.jp/flashnews/blender-blender-fes.html"/>
+        <updated>2023-08-24T09:38:54.000Z</updated>
+        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
+        <author>
+            <name>CGWORLD</name>
         </author>
     </entry>
     <entry>
@@ -2254,56 +2284,6 @@
         <updated>2023-07-27T04:22:58.000Z</updated>
         <author>
             <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[InvokeAI 3.0 - SDXLやControlNetもサポート！ローカル環境で扱える多機能で無料＆オープンソースのStable Diffusion画像生成スタンドアロンソフト！]]></title>
-        <id>https://3dnchu.com/?p=1030472</id>
-        <link href="https://3dnchu.com/archives/invokeai-3-0/"/>
-        <updated>2023-07-26T19:31:32.000Z</updated>
-        <summary type="html"><![CDATA[Sunija氏による「Stable Diffusion」をローカル環境で動かすソフト「InvokeAI」のv3.0がリリースされました。]]></summary>
-        <author>
-            <name>Ymt3D -3dnchu-</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RESIDENT EVIL: DEATH ISLAND The First 8 Minutes - 映画『バイオハザード：デスアイランド』の冒頭8分がYoutube上で公開！]]></title>
-        <id>https://3dnchu.com/?p=1030464</id>
-        <link href="https://3dnchu.com/archives/resident-evil-death-island-8minites/"/>
-        <updated>2023-07-26T19:17:27.000Z</updated>
-        <summary type="html"><![CDATA[2023年7月7日に公開となったフルCG映画『バイオハザード：デスアイランド（英題：RESIDENT EVIL: DEATH ISLAND）』の冒頭8分映像がYoutube上で公開されています。]]></summary>
-        <author>
-            <name>Ymt3D -3dnchu-</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[UEなんでも勉強会 - バーチャルライブ編 - vol.1 - バーチャルライブにおける Unreal Engine の活用について学べる勉強会の動画アーカイブが公開！ #UEAllStudy]]></title>
-        <id>https://3dnchu.com/?p=1030450</id>
-        <link href="https://3dnchu.com/archives/ue-study-virtual-live-edition-vol-1/"/>
-        <updated>2023-07-26T19:02:02.000Z</updated>
-        <summary type="html"><![CDATA[2023年7月25日(火) に開催された、Unreal Engineを活用したバーチャルライブの勉強会イベント「UEなんでも勉強会 - バーチャルライブ編 - vol.1」の講演動画が公開されました！]]></summary>
-        <author>
-            <name>Ymt3D -3dnchu-</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Create PRO Quality Scene with Blender ＆ Houdini - BlenderをベースにHoudiniで砂のシミュレーションを行い高品質なシーンを構築する方法を解説したチュートリアル動画が公開！]]></title>
-        <id>https://3dnchu.com/?p=1030438</id>
-        <link href="https://3dnchu.com/archives/how-to-create-pro-quality-scene-b3d-houdini/"/>
-        <updated>2023-07-26T18:46:20.000Z</updated>
-        <summary type="html"><![CDATA[3DジェネラリストのTomi Viitanen氏がBlenderとHoudiniを活用した映画クオリティのシーンを構築する方法を解説したチュートリアル動画「Tutorial: How to Create PRO Quality Scene with Blender & Houdini」を公開しました。]]></summary>
-        <author>
-            <name>Ymt3D -3dnchu-</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Unreal Engine 5.3 Preview 1 - 仮想シャドウマップが正式版に！スケルタルエディターでUE上でウェイト調整やボーン追加が可能に！Naniteのランドスケープ対応！クロスエディターベータ版などなど！]]></title>
-        <id>https://3dnchu.com/?p=1030424</id>
-        <link href="https://3dnchu.com/archives/unreal-engine-5-3-preview-1/"/>
-        <updated>2023-07-26T18:17:58.000Z</updated>
-        <summary type="html"><![CDATA[無料で使える3Dコンテンツ開発エンジン「Unreal Engine」の5.3プレビュー版がリリースされました！]]></summary>
-        <author>
-            <name>Ymt3D -3dnchu-</name>
         </author>
     </entry>
 </feed>

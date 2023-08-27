@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-08-26T12:10:47.155Z</updated>
+    <updated>2023-08-27T00:33:37.275Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【Blender 3.6】リアルな手の作り方・コツを紹介！]]></title>
+        <id>https://cgbox.jp/?p=38111</id>
+        <link href="https://cgbox.jp/2023/08/26/blender-hand-modeling/"/>
+        <updated>2023-08-26T13:05:19.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは！ コチラの記事では、フリーの3DCGソフト「Blender」を使う上でヒントとなる情報を紹介しています。 今回は、「手」の作り方を紹介します。 手は、開いたり閉じたり、合図をしたり物を持ったりと、人物をモデリ […]]]></summary>
+        <author>
+            <name>CGbox編集部</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[KIRI Engine 3D Scanner App - iOS＆Android＆ウェブブラウザから利用可能なクラウドベースの3Dスキャンサービス！フォトグラメトリーの他にNSR（Neural Surface Reconstruction）ベースの特徴のないオブジェクト モードによるスキャンも可能！]]></title>
         <id>https://3dnchu.com/?p=1031669</id>
@@ -2206,65 +2216,6 @@
         <summary type="html"><![CDATA[Plasticity v1.3.0-beta.1がリリース！Blenderとの連携機能が実験的に搭載！]]></summary>
         <author>
             <name>Ymt3D -3dnchu-</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Blenderでリアルな腱のシミュレーションを実現したChris Jones氏にインタビュー！　プロジェクトの経緯から技術的なこだわりまで詳細に迫る - ニュース]]></title>
-        <id>https://cgworld.jp/flashnews/202307-CJones-Blender.html</id>
-        <link href="https://cgworld.jp/flashnews/202307-CJones-Blender.html"/>
-        <updated>2023-07-28T09:35:48.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【チュートリアル紹介】まっくろくろすけの作成方法を学習！]]></title>
-        <id>https://cgbox.jp/?p=37655</id>
-        <link href="https://cgbox.jp/2023/07/28/news-tutorial-makkurokurosuke/"/>
-        <updated>2023-07-28T09:00:00.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは！ 今回は”3D masshiro”さんの動画を紹介します。 ブレンダーで簡単にまっくろくろすけのモデリング 「ブレンダーで簡単にまっくろくろすけのモデリング」では、可愛いモサモサのまっくろくろすけの作成方法を […]]]></summary>
-        <author>
-            <name>UEDA</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【最終回】WORK 056  &quot;サメ＜後編＞&quot; / 水や飛沫（しぶき）のシミュレーション - 連載]]></title>
-        <id>https://cgworld.jp/regular/202307-pt-056.html</id>
-        <link href="https://cgworld.jp/regular/202307-pt-056.html"/>
-        <updated>2023-07-28T08:50:54.000Z</updated>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Underwater BP V3 - UBIソフト・モントリオールのシニアライティングアーティストによる水中表現実装UE5アセットの新バージョンがリリース！]]></title>
-        <id>https://3dnchu.com/?p=1030530</id>
-        <link href="https://3dnchu.com/archives/underwater-bp-v3/"/>
-        <updated>2023-07-28T07:52:09.000Z</updated>
-        <summary type="html"><![CDATA[UBIソフト・モントリオールのシニアライティングアーティスト、Karim abou shousha氏による、深海のUE5ライティング込BPデータ「Underwater BP V3」が配布中！]]></summary>
-        <author>
-            <name>Ymt3D -3dnchu-</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【チュートリアル紹介】ブーリアンで起こる問題への解決法]]></title>
-        <id>https://cgbox.jp/?p=37844</id>
-        <link href="https://cgbox.jp/2023/07/28/news-tutrial-7-boolean-issues/"/>
-        <updated>2023-07-28T05:10:23.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは！ 今回は”CG Boost”さんの動画を紹介します。 7 Boolean Issues in Blender このチュートリアルではブーリアンでよく起こる問題への解決法を7つまとめてくれています。 オブジェク […]]]></summary>
-        <author>
-            <name>kasahara</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【アドオン紹介】Conform Object – ラティス変形機能を追加アップデート]]></title>
-        <id>https://cgbox.jp/?p=37827</id>
-        <link href="https://cgbox.jp/2023/07/28/news-addon-conform-object-update/"/>
-        <updated>2023-07-28T04:41:41.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは！ 今回はアドオンの「Conform Object」がアップデートしたので、新機能を紹介します。 こちらのリンクから購入することができます。 Conform Object こちらのアドオンではこのようにオブジェ […]]]></summary>
-        <author>
-            <name>kasahara</name>
         </author>
     </entry>
 </feed>

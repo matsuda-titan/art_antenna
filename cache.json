@@ -1150,56 +1150,6 @@
           "wordCount": 1833,
           "title": "【アセット紹介】噴水・滝・水道などの「水」に関するアセットパック",
           "imageUrl": "https://cgbox.jp/wp-content/uploads/2023/07/giphy-86.gif"
-        },
-        {
-          "id": "https://cgbox.jp/?p=37660",
-          "author": "UEDA",
-          "description": "こんばんは！ 今回は”Ducky 3D”さんの動画を紹介します。 Procedural Dissolving Effect (Blender Tutorial) 「Procedural Dissolving Effect […]",
-          "link": "https://cgbox.jp/2023/07/30/news-tutorial-proceduraldissolvingeffect/",
-          "publishedOn": "2023-07-30T09:00:00.000Z",
-          "wordCount": 1952,
-          "title": "【チュートリアル紹介】崩壊(出現)エフェクトの作成方法を学習！",
-          "imageUrl": "https://cgbox.jp/wp-content/uploads/2023/07/1-27.gif"
-        },
-        {
-          "id": "https://cgbox.jp/?p=37617",
-          "author": "CGbox編集部",
-          "description": "こんにちは！ コチラの記事では、フリーの3DCGソフト「Blender」を使う上でヒントとなる情報を紹介しています。 今回は、「紐（ひも）」の作り方を紹介します。 ロープや靴紐・ケーブルなど、さまざまな紐の作り方や、アニ […]",
-          "link": "https://cgbox.jp/2023/07/30/blender-string-modeling/",
-          "publishedOn": "2023-07-30T06:48:37.000Z",
-          "wordCount": 2321,
-          "title": "【Blender 3.6】紐（ひも）の作り方を紹介！",
-          "imageUrl": "https://cgbox.jp/wp-content/uploads/2023/07/6d939d0f7e5baf0eb23876e499f9f2f5-1-1.jpg"
-        },
-        {
-          "id": "https://cgbox.jp/?p=38059",
-          "author": "kasahara",
-          "description": "こんばんは！ 今回はがBlender Marketにて配布されていたので紹介します。 こちらのアセットは以下のリンクから購入可能です。 Procedural Sword Generator For Blender このア […]",
-          "link": "https://cgbox.jp/2023/07/30/news-asset-procedural-sword-generator/",
-          "publishedOn": "2023-07-30T05:09:01.000Z",
-          "wordCount": 1824,
-          "title": "【アセット】アニメ調の剣を自動生成できるジオメトリノード",
-          "imageUrl": "https://cgbox.jp/wp-content/uploads/2023/07/Animation-77.gif"
-        },
-        {
-          "id": "https://cgbox.jp/?p=38051",
-          "author": "kasahara",
-          "description": "こんばんは！ 今回は”Kevandram”さんの動画を紹介します。 Blender 3D with Grease Pencil & New Line Art Method このチュートリアルでは文字と線を利用した […]",
-          "link": "https://cgbox.jp/2023/07/30/news-tutrial-new-line-art-method/",
-          "publishedOn": "2023-07-30T04:43:54.000Z",
-          "wordCount": 1855,
-          "title": "【チュートリアル紹介】トゥーンシェーダーを使った文字アート作品",
-          "imageUrl": "https://cgbox.jp/wp-content/uploads/2023/07/giphy-84.gif"
-        },
-        {
-          "id": "https://cgbox.jp/?p=37515",
-          "author": "tainari",
-          "description": "こんにちは！コチラの記事ではUnityでの水の表現の作り方（水面・流水・水中）をまとめて解説していきます！ 水面の作り方 このような水面を作るには、以下の工程が必要になります。 それでは、以下順番に水面の作り方を解説して […]",
-          "link": "https://cgbox.jp/2023/07/30/unity-water/",
-          "publishedOn": "2023-07-30T04:04:54.000Z",
-          "wordCount": 2311,
-          "title": "【Unity】水の表現の作り方！無料アセットも紹介",
-          "imageUrl": "https://cgbox.jp/wp-content/uploads/2023/07/VRoid-1-2.jpg"
         }
       ]
     },
@@ -2514,7 +2464,18 @@
       "title": "TECH-COYOTE",
       "feedUrl": "https://3d.crdg.jp/tech/feed/",
       "siteUrl": "https://3d.crdg.jp/tech",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://3d.crdg.jp/tech/?p=3621",
+          "author": "takuya.yamamoto",
+          "description": "こんにちは、COYOTE 3DCG STUDIO TAのやまたくです。 今回はPhotoshop起動時にスクリプトを実行する方法をご紹介します。 起動時にスクリプトを実行する方法 スクリプトイベントマネージャーを使う P...\nThe post 【Photoshop】起動時にスクリプトを実行する方法 first appeared on TECH-COYOTE.",
+          "link": "https://3d.crdg.jp/tech/archives/3621",
+          "publishedOn": "2023-08-28T15:00:26.000Z",
+          "wordCount": 1257,
+          "title": "【Photoshop】起動時にスクリプトを実行する方法",
+          "imageUrl": "https://3d.crdg.jp/tech/wp-content/uploads/2023/06/og-image.jpg"
+        }
+      ]
     },
     {
       "title": "UnPySide",

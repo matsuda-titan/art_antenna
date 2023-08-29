@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-08-28T12:13:06.983Z</updated>
+    <updated>2023-08-29T00:31:47.412Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【Photoshop】起動時にスクリプトを実行する方法]]></title>
+        <id>https://3d.crdg.jp/tech/?p=3621</id>
+        <link href="https://3d.crdg.jp/tech/archives/3621"/>
+        <updated>2023-08-28T15:00:26.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは、COYOTE 3DCG STUDIO TAのやまたくです。 今回はPhotoshop起動時にスクリプトを実行する方法をご紹介します。 起動時にスクリプトを実行する方法 スクリプトイベントマネージャーを使う P...
+The post 【Photoshop】起動時にスクリプトを実行する方法 first appeared on TECH-COYOTE.]]></summary>
+        <author>
+            <name>takuya.yamamoto</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【チュートリアル紹介】フォトリアルなバナナの作成方法]]></title>
         <id>https://cgbox.jp/?p=42627</id>
@@ -2146,56 +2157,6 @@
         <summary type="html"><![CDATA[エピック ゲームズ ジャパンが主催するUnreal Engine（以下、UE）の公式イベント「UNREAL FEST 2023 TOKYO」が、6月2日（金）・3日（土）の2日間にわたってベルサール秋葉原（東京・秋葉原）で開催された。     初日は開発規模や分野を問わない内容のUnreal Showcases、2日目はUNREAL FEST初となる、インディーゲーム開発者にスポットを当てたIndie Focusという構成だった。本記事では、2日目にスペシャルトークステージ（STAGE A）で行われた座談]]></summary>
         <author>
             <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【チュートリアル紹介】崩壊(出現)エフェクトの作成方法を学習！]]></title>
-        <id>https://cgbox.jp/?p=37660</id>
-        <link href="https://cgbox.jp/2023/07/30/news-tutorial-proceduraldissolvingeffect/"/>
-        <updated>2023-07-30T09:00:00.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは！ 今回は”Ducky 3D”さんの動画を紹介します。 Procedural Dissolving Effect (Blender Tutorial) 「Procedural Dissolving Effect […]]]></summary>
-        <author>
-            <name>UEDA</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【Blender 3.6】紐（ひも）の作り方を紹介！]]></title>
-        <id>https://cgbox.jp/?p=37617</id>
-        <link href="https://cgbox.jp/2023/07/30/blender-string-modeling/"/>
-        <updated>2023-07-30T06:48:37.000Z</updated>
-        <summary type="html"><![CDATA[こんにちは！ コチラの記事では、フリーの3DCGソフト「Blender」を使う上でヒントとなる情報を紹介しています。 今回は、「紐（ひも）」の作り方を紹介します。 ロープや靴紐・ケーブルなど、さまざまな紐の作り方や、アニ […]]]></summary>
-        <author>
-            <name>CGbox編集部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【アセット】アニメ調の剣を自動生成できるジオメトリノード]]></title>
-        <id>https://cgbox.jp/?p=38059</id>
-        <link href="https://cgbox.jp/2023/07/30/news-asset-procedural-sword-generator/"/>
-        <updated>2023-07-30T05:09:01.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは！ 今回はがBlender Marketにて配布されていたので紹介します。 こちらのアセットは以下のリンクから購入可能です。 Procedural Sword Generator For Blender このア […]]]></summary>
-        <author>
-            <name>kasahara</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【チュートリアル紹介】トゥーンシェーダーを使った文字アート作品]]></title>
-        <id>https://cgbox.jp/?p=38051</id>
-        <link href="https://cgbox.jp/2023/07/30/news-tutrial-new-line-art-method/"/>
-        <updated>2023-07-30T04:43:54.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは！ 今回は”Kevandram”さんの動画を紹介します。 Blender 3D with Grease Pencil & New Line Art Method このチュートリアルでは文字と線を利用した […]]]></summary>
-        <author>
-            <name>kasahara</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【Unity】水の表現の作り方！無料アセットも紹介]]></title>
-        <id>https://cgbox.jp/?p=37515</id>
-        <link href="https://cgbox.jp/2023/07/30/unity-water/"/>
-        <updated>2023-07-30T04:04:54.000Z</updated>
-        <summary type="html"><![CDATA[こんにちは！コチラの記事ではUnityでの水の表現の作り方（水面・流水・水中）をまとめて解説していきます！ 水面の作り方 このような水面を作るには、以下の工程が必要になります。 それでは、以下順番に水面の作り方を解説して […]]]></summary>
-        <author>
-            <name>tainari</name>
         </author>
     </entry>
 </feed>

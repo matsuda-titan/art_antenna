@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-08-31T12:12:31.047Z</updated>
+    <updated>2023-09-01T00:34:25.796Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[AniVoxel v1.0 - ボクセルモデルにボーンを追加しアニメーションさせベイク！フレーム単位のメッシュを出力しゲームなどで活用出来るツールが登場！]]></title>
+        <id>https://3dnchu.com/?p=1031892</id>
+        <link href="https://3dnchu.com/archives/anivoxel/"/>
+        <updated>2023-08-31T18:15:36.000Z</updated>
+        <summary type="html"><![CDATA[Astral Crow Gamesによるボクセルアニメーションにボーンを入れてアニメーションサせることが出来るツール「AniVoxel」のご紹介。]]></summary>
+        <author>
+            <name>Ymt3D -3dnchu-</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[いよわ、八王子P、しまぐち ニケらが出演。クラブイベント型のミュージックアートフェス「NIGHT HIKE」をレポート - スペシャルコンテンツ]]></title>
         <id>https://cgworld.jp/special-feature/night-hike.html</id>
@@ -2166,125 +2176,6 @@ The post 【Photoshop】起動時にスクリプトを実行する方法 first a
         <summary type="html"><![CDATA[こんばんは！ 今回は「Inkwood 2.0」を紹介します。 こちらのリンクから購入することができます。 Inkwood 2.0  こちらは水墨画風のマテリアルが含まれたアセットパックです。 何種類かのマテリアルが含まれ […]]]></summary>
         <author>
             <name>kasahara</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[［お知らせ］BlenderでCGを始めよう！ゼロから学ぶ3DCG教室『第170回：人体モデリング講座（49）～ハイポリモデリング（40）～』が配信開始 - ニュース]]></title>
-        <id>https://cgworld.jp/flashnews/blender-online-170.html</id>
-        <link href="https://cgworld.jp/flashnews/blender-online-170.html"/>
-        <updated>2023-08-02T11:32:09.000Z</updated>
-        <summary type="html"><![CDATA[みなさん、こんにちは。CGWORLDの西原です。 今回はジャケットのストライプ...]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[第2回 3DCG✕StableDiffusion：ControlNetを活用したAIレンダリング - 連載]]></title>
-        <id>https://cgworld.jp/regular/202308-aicg-02.html</id>
-        <link href="https://cgworld.jp/regular/202308-aicg-02.html"/>
-        <updated>2023-08-02T09:16:58.000Z</updated>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【チュートリアル紹介】カーモデリング全体フローを丁寧に学習！]]></title>
-        <id>https://cgbox.jp/?p=38711</id>
-        <link href="https://cgbox.jp/2023/08/02/news-tutorial-blendercarmodelingtimelapse/"/>
-        <updated>2023-08-02T09:00:00.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは！ 今回は”Buncho | Koichi Miura”さんの動画を紹介します。 Blender Car Modeling Timelapse 「Blender Car Modeling Timelapse」で […]]]></summary>
-        <author>
-            <name>UEDA</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【Unity】アニメーションをなめらかにループさせる方法解説]]></title>
-        <id>https://cgbox.jp/?p=38010</id>
-        <link href="https://cgbox.jp/2023/08/02/unity-animation-loop/"/>
-        <updated>2023-08-02T08:37:38.000Z</updated>
-        <summary type="html"><![CDATA[Unityで開発をしていると、キャラクターにこんな動きをさせたい！と思うことがあると思います。 そんなときUnityのアニメーション機能を使うと便利です。 そしてアニメーション機能を使う上で、大事になるのがループの設定で […]]]></summary>
-        <author>
-            <name>Seo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CT2Hair: High-Fidelity 3D Hair Modeling using Computed Tomography - ウィッグをCTスキャンし高品質な3Dヘアーストランドを生成！SIGGRAPH 2023技術論文]]></title>
-        <id>https://3dnchu.com/?p=1030809</id>
-        <link href="https://3dnchu.com/archives/ct2hair/"/>
-        <updated>2023-08-02T05:53:20.000Z</updated>
-        <summary type="html"><![CDATA[ウィッグなどをCT（Computed Tomography（コンピュータ断層撮影））スキャンし、そこで得られたデータからヘアーストランドを生成する技術「CT2Hair: High-Fidelity 3D Hair Modeling using Computed Tomography」が公開されています。]]></summary>
-        <author>
-            <name>Ymt3D -3dnchu-</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HEAT Beta - ブラウザベースの3Dモーションライブラリ＆各種3Dツールやエンジンと連携が可能なサービス！ベータテスター第１陣募集中！]]></title>
-        <id>https://3dnchu.com/?p=1030796</id>
-        <link href="https://3dnchu.com/archives/heat-beta/"/>
-        <updated>2023-08-02T05:28:22.000Z</updated>
-        <summary type="html"><![CDATA[ブラウザベースの3Dモーションライブラリ＆各種3Dツールやエンジンと連携が可能なサービス「HEAT」のベータテスター募集が開始されました！]]></summary>
-        <author>
-            <name>Ymt3D -3dnchu-</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dynamic Stylized Water - Geometry nodesを活用した動的なスタイライズウォーター表現！無料公開！]]></title>
-        <id>https://3dnchu.com/?p=1030783</id>
-        <link href="https://3dnchu.com/archives/dynamic-stylized-water-geonode/"/>
-        <updated>2023-08-02T04:54:50.000Z</updated>
-        <summary type="html"><![CDATA[10年以上の経験を持つBlenderジェネラリストのDeny Soares Trevisan氏がGeometry nodesを活用した動的なスタイライズ水シェーダーを]]></summary>
-        <author>
-            <name>Ymt3D -3dnchu-</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ソニーPCLとTYO driveが手がけたバーチャルプロダクションによるカーチェイス『drive』 - 連載]]></title>
-        <id>https://cgworld.jp/regular/300-drive.html</id>
-        <link href="https://cgworld.jp/regular/300-drive.html"/>
-        <updated>2023-08-02T03:09:42.000Z</updated>
-        <summary type="html"><![CDATA[バーチャルプロダクションの可能性を探求した『drive』の裏側に迫る。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【チュートリアル紹介】プロジーシャルで作るリアルな肌マテリアル]]></title>
-        <id>https://cgbox.jp/?p=38420</id>
-        <link href="https://cgbox.jp/2023/08/02/news-tutrial-how-i-gave-suzanne-human-skin/"/>
-        <updated>2023-08-02T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは！ 今回は”Kammerbild”さんの動画を紹介します。 How I gave Suzanne human skin in Blender プロジーシャルで作る肌マテリアルの作り方を解説しております。 画像テ […]]]></summary>
-        <author>
-            <name>kasahara</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【アセット紹介】OrangeTurbine – 複数テクスチャを重ねて作る]]></title>
-        <id>https://cgbox.jp/?p=38412</id>
-        <link href="https://cgbox.jp/2023/08/02/news-asset-scattershot/"/>
-        <updated>2023-08-02T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは！ 今回はがBlender Marketにて配布されていたので紹介します。 Scattershot – Pbr Texture Bombing For Blender このアセットは『Orange  […]]]></summary>
-        <author>
-            <name>kasahara</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「夢をもって諦めず、ゴールに向かってやり続けることが重要だと思います」第86回：星 まり子（Pixar Animation Studios / Senior Animator） - 連載]]></title>
-        <id>https://cgworld.jp/regular/086-hoshi.html</id>
-        <link href="https://cgworld.jp/regular/086-hoshi.html"/>
-        <updated>2023-08-02T01:10:00.000Z</updated>
-        <summary type="html"><![CDATA[ピクサーの最新作『マイ・エレメント』に参加した日本人アーティスト、星まり子氏の海外就業ストーリーを紹介。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[東京駅前・丸の内エリア空間が『フォートナイト』に登場！　キャドセンターの3D都市データ『街バース』でフォトリアルに再現 - ニュース]]></title>
-        <id>https://cgworld.jp/flashnews/202307-Cad-machi.html</id>
-        <link href="https://cgworld.jp/flashnews/202307-Cad-machi.html"/>
-        <updated>2023-08-02T01:00:21.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
         </author>
     </entry>
 </feed>

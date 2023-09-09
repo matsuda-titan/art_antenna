@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-09-08T12:12:17.738Z</updated>
+    <updated>2023-09-09T00:30:45.656Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
@@ -2066,105 +2066,6 @@ The post 【Photoshop】起動時にスクリプトを実行する方法 first a
         <summary type="html"><![CDATA[Beast Burst Entertainmentの3DエンバイロメントアーティストのFabian Lopez Arosa氏がUnreal Engine 5.2で制作したスタイライズウォーターシェーダー「Stylized Water Material - UE5」が無料公開されています！]]></summary>
         <author>
             <name>Ymt3D -3dnchu-</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【チュートリアル紹介】簡単にミルクシェイクを作成！]]></title>
-        <id>https://cgbox.jp/?p=39765</id>
-        <link href="https://cgbox.jp/2023/08/10/news-tutorial-milkshakeassettutorial/"/>
-        <updated>2023-08-10T09:00:00.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは！ 今回は”UpNorth”さんの動画を紹介します。 Milkshake Asset Tutorial | Blender 3D Modeling and Procedural Texturing 「Milks […]]]></summary>
-        <author>
-            <name>UEDA</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3DCGと文化財のオイシイ関係。NHKと東京国立博物館による8K文化財プロジェクト - 特集]]></title>
-        <id>https://cgworld.jp/article/300-hs-nhk8k.html</id>
-        <link href="https://cgworld.jp/article/300-hs-nhk8k.html"/>
-        <updated>2023-08-10T07:30:00.000Z</updated>
-        <summary type="html"><![CDATA[NHK×東京国立博物館、8K文化財プロジェクトを紹介する。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Recreating NYC with CityBLD - WorldBLDが開発中のUnreal Engine 5向け都市作成ツールキット『CityBLD』の最新動画が公開！]]></title>
-        <id>https://3dnchu.com/?p=1030952</id>
-        <link href="https://3dnchu.com/archives/recreating-nyc-with-citybld/"/>
-        <updated>2023-08-10T04:16:20.000Z</updated>
-        <summary type="html"><![CDATA[WorldBLDによるUnreal Engine 5向け都市生成システム「CityBLD」の動画が公開されています！]]></summary>
-        <author>
-            <name>Ymt3D -3dnchu-</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【VRChat初心者向け】AFKモードの使い方とモーション変更方法]]></title>
-        <id>https://cgbox.jp/?p=39419</id>
-        <link href="https://cgbox.jp/2023/08/10/vrchat-afk/"/>
-        <updated>2023-08-10T02:14:59.000Z</updated>
-        <summary type="html"><![CDATA[こんにちは！ 今回はVRChat以外でも使われる言葉、AFKについてご紹介します。 またVRChatにおいてのAFKの使い方、モーションの変更なども紹介しますので、ぜひとも最後まで読んでいってくださいね。 AFKとは？  […]]]></summary>
-        <author>
-            <name>押手まいる</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[VRChatアバター向けシェーダー設定の基本]]></title>
-        <id>https://cgbox.jp/?p=38805</id>
-        <link href="https://cgbox.jp/2023/08/10/vrchat-shader-howto/"/>
-        <updated>2023-08-10T02:13:45.000Z</updated>
-        <summary type="html"><![CDATA[本記事は2023年8月時点の内容です。VRChatはアップデートによって設定画面が大きく変わる場合があるため、最新の情報と併せてご覧ください。 シェーダーの基本的な考え方 Unityにおけるシェーダー まず、よく混同され […]]]></summary>
-        <author>
-            <name>cgbox編集部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【UE5】SMAAを組み込んでみた]]></title>
-        <id>https://tech.spark-creative.co.jp/entry/2023/08/10/104910</id>
-        <link href="https://tech.spark-creative.co.jp/entry/2023/08/10/104910"/>
-        <updated>2023-08-10T01:49:10.000Z</updated>
-        <summary type="html"><![CDATA[こんにちは!!!クライアントエンジニアの小林です。今回はSMAAというアンチエイリアスをUnrealEngineに組み込みながら色々と勉強していきます。 プラグインで動くようにするのは面倒なのでエンジン改造です。 作業環境 概要 SMAAとは 実装方針 Edge Detection Pass Edge Detection Local Contrast Adaptation Factor Threshold Predicate Texture 輝度計算の違い Blend Weighting Pass パターン検索 AreaTextureとSearchTexture Max Search Step…]]></summary>
-        <author>
-            <name>SPARKCREATIVE Tech Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【チュートリアル紹介】電球モチーフのキャラクター制作]]></title>
-        <id>https://cgbox.jp/?p=39747</id>
-        <link href="https://cgbox.jp/2023/08/10/news-tutrial-making-a-light-bulb-robot/"/>
-        <updated>2023-08-10T01:12:34.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは！ 今回は”Polyfjord Deep Dive”さんの動画を紹介します。 Making a Light Bulb Robot From Start to Finish このチュートリアルでは電球モチーフのキ […]]]></summary>
-        <author>
-            <name>kasahara</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【アドオン紹介】Psd-Layers – レイヤーでテクスチャペイント]]></title>
-        <id>https://cgbox.jp/?p=39742</id>
-        <link href="https://cgbox.jp/2023/08/10/news-addon-psd-layers/"/>
-        <updated>2023-08-10T01:03:51.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは！ 今回はアドオンの「Psd-Layers」を紹介します。 こちらのリンクから購入することができます。 Psd-Layers このアドオンはイラストソフトのようにレイヤー分けをしながらテクスチャペイントができる […]]]></summary>
-        <author>
-            <name>kasahara</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【Blender講座】ノードの使い方を徹底的に学べる講座をレビュー]]></title>
-        <id>https://cgbox.jp/?p=39822</id>
-        <link href="https://cgbox.jp/2023/08/10/blendermarket-blender-tutrial0810/"/>
-        <updated>2023-08-10T01:03:00.000Z</updated>
-        <summary type="html"><![CDATA[こんにちは。 今回は「Blendermarket」公開されている「Procedural Texturing | Blender Master Class」を受講したので、レビューしていきたいと思います！ 講座の特徴 以下 […]]]></summary>
-        <author>
-            <name>kasahara</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CGWORLD vol.301（2023年9月号）本日発売！　見どころをアドバイザリーボードが紹介！ - 連載]]></title>
-        <id>https://cgworld.jp/regular/202308-cgw301-ab.html</id>
-        <link href="https://cgworld.jp/regular/202308-cgw301-ab.html"/>
-        <updated>2023-08-10T00:13:00.000Z</updated>
-        <author>
-            <name>CGWORLD</name>
         </author>
     </entry>
 </feed>

@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-09-17T12:11:20.736Z</updated>
+    <updated>2023-09-18T00:32:36.594Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【アセット紹介】Octane Plastic Shader – 高品質なプラスチック！]]></title>
+        <id>https://cgbox.jp/?p=44077</id>
+        <link href="https://cgbox.jp/2023/09/17/news-asset-octaneplasticshader/"/>
+        <updated>2023-09-17T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは！ 今回は高品質なプラスチックマテリアルがGumroadにて配布されていたので紹介します。 Octane Plastic Shader このアセットは『Patrick Levar』という方の作品になります。 以 […]]]></summary>
+        <author>
+            <name>UEDA</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【チュートリアル紹介】油皮膜のようなマテリアルを作ろう！]]></title>
         <id>https://cgbox.jp/?p=43984</id>
@@ -1891,86 +1901,6 @@ The post 【Photoshop】起動時にスクリプトを実行する方法 first a
         <summary type="html"><![CDATA[風見ひよこ氏（weatherchick227）がBlenderのGeometry Nodesの仕様を日本語でまとめたPDF資料『Blender ジオメトリノード仕様まとめ v3.6』を無料公開しました。]]></summary>
         <author>
             <name>Ymt3D -3dnchu-</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【読書で独学2】CG制作スキル向上！学習書籍まとめ]]></title>
-        <id>https://cgbox.jp/?p=40107</id>
-        <link href="https://cgbox.jp/2023/08/19/blender-cgbook/"/>
-        <updated>2023-08-19T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[こんにちは！ 今回はCG制作に活かせるスキルを学べる本を紹介していきます。 Blenderに絞って学習書籍をまとめた記事もアップしているので、そちらも合わせてチェックしてみてください。 本でスキル 今回はCGソフトに縛ら […]]]></summary>
-        <author>
-            <name>UEDA</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Safe Inset ＆ Padding Inset - Kushiro氏によるBlender用モデリングアドオン2種！それぞれ異なるアルゴリズムで破綻のないインセットが可能！無料！]]></title>
-        <id>https://3dnchu.com/?p=1031408</id>
-        <link href="https://3dnchu.com/archives/safe-inset-padding-inset/"/>
-        <updated>2023-08-19T09:51:03.000Z</updated>
-        <summary type="html"><![CDATA[数多くのモデリング系Blenderアドオンを開発し公開しているKushiro氏によるインセットアドオン「Safe Inset」と「Padding Inset」の２つがリリースされています。何方も無料公開されています。]]></summary>
-        <author>
-            <name>Ymt3D -3dnchu-</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【チュートリアル紹介】缶ビールのCM制作を学ぼう！]]></title>
-        <id>https://cgbox.jp/?p=41219</id>
-        <link href="https://cgbox.jp/2023/08/19/news-tutorial-makinganexpensivebeveragecommercial/"/>
-        <updated>2023-08-19T09:00:00.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは！ 今回は”JOVAUGHN”さんの動画を紹介します。 Making an EXPENSIVE Beverage Commercial using Blender! 「Making an EXPENSIVE B […]]]></summary>
-        <author>
-            <name>UEDA</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ColorFrame Renders Pro V4 - ポートフォリオ等で活用可能なワイヤーフレームレンダリングBlenderアドオン！アウトライン描画やAO、アニメーションにも対応した最新アップデートがリリース！50%OFF割引コードも配布中！]]></title>
-        <id>https://3dnchu.com/?p=1031371</id>
-        <link href="https://3dnchu.com/archives/colorframe-renders-pro-v4/"/>
-        <updated>2023-08-19T05:40:38.000Z</updated>
-        <summary type="html"><![CDATA[Amandeep氏による、カラフルなワイヤーフレーム表示を手軽に適用できるBlenderアドオン「Colorframe Renders Pro」の最新メジャーアップデートV4がリリースされました。]]></summary>
-        <author>
-            <name>Ymt3D -3dnchu-</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【アドオン紹介】Lazy Vfx 0.1 – 炎・煙・爆発のエフェクト作成]]></title>
-        <id>https://cgbox.jp/?p=41234</id>
-        <link href="https://cgbox.jp/2023/08/19/news-addon-lazy-vfx/"/>
-        <updated>2023-08-19T04:43:12.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは！ 今回はアドオンの「Lazy Vfx 0.1」を紹介します。 こちらのリンクから購入することができます。 Lazy Vfx 0.1 このアドオンでは爆発・炎・煙を作成できるアドオンになります。 こちらのアドオ […]]]></summary>
-        <author>
-            <name>kasahara</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Game-Ready Animation Library by Ready Player Me - 3Dアバター作成サービス「Ready Player Me」が200を超えるゲーム用モーションデータをGithub上で無償公開！]]></title>
-        <id>https://3dnchu.com/?p=1031360</id>
-        <link href="https://3dnchu.com/archives/game-ready-animation-library-ready-player-me/"/>
-        <updated>2023-08-19T02:00:19.000Z</updated>
-        <summary type="html"><![CDATA[2023年6月16日、3Dアバター作成サービス「Ready Player Me」が200を超えるゲーム用モーションデータをGithub上で無償公開しました！]]></summary>
-        <author>
-            <name>Ymt3D -3dnchu-</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【アドオン紹介】Ultimate Lightning Pack – 電撃カスタム可能なアセット]]></title>
-        <id>https://cgbox.jp/?p=41144</id>
-        <link href="https://cgbox.jp/2023/08/19/news-asset-ultimate-lightning-pack/"/>
-        <updated>2023-08-19T01:23:00.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは！ 今回はがBlender Marketにて配布されていたので紹介します。 以下のリンクから購入可能です。 Ultimate Lightning Pack V1.2 このアセットは『Hell FX』という方の作 […]]]></summary>
-        <author>
-            <name>kasahara</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【チュートリアル紹介】クモの巣をジオメトリノードで作成]]></title>
-        <id>https://cgbox.jp/?p=41154</id>
-        <link href="https://cgbox.jp/2023/08/19/news-tutrial-cobweb-generator/"/>
-        <updated>2023-08-19T01:17:00.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは！ 今回は”Joey Carlino”さんの動画を紹介します。 Cobweb generator with geometry nodes Blender ジオメトリノードでクモの巣を制作する動画になります。 絵 […]]]></summary>
-        <author>
-            <name>kasahara</name>
         </author>
     </entry>
 </feed>

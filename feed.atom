@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-09-18T12:13:27.759Z</updated>
+    <updated>2023-09-19T00:33:04.573Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Hard Bevel v1.0 - 破綻なし！セルフオーバーラップの無いベベルを実現出来るBlenderアドオン！]]></title>
+        <id>https://3dnchu.com/?p=1032458</id>
+        <link href="https://3dnchu.com/archives/hard-bevel-v1-0/"/>
+        <updated>2023-09-18T16:57:08.000Z</updated>
+        <summary type="html"><![CDATA[数多くのBlenderのモデリング系アドオンを制作しているKushiro氏による「Hard Bevel v1.0」がリリースされています！]]></summary>
+        <author>
+            <name>Ymt3D -3dnchu-</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【アセット紹介】FREE TOOLBOX RIG – 可動するツールボックス！]]></title>
+        <id>https://cgbox.jp/?p=44088</id>
+        <link href="https://cgbox.jp/2023/09/18/news-asset-freetoolboxrig/"/>
+        <updated>2023-09-18T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは！ 今回はリギング済みのツールボックスがGumroadにて配布されていたので紹介します。 FREE TOOLBOX RIG このアセットは『Anurag Raturi』という方の作品になります。 以下の「Gum […]]]></summary>
+        <author>
+            <name>UEDA</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【チュートリアル紹介】徐々に出現するロゴアニメーションを作ろう！]]></title>
         <id>https://cgbox.jp/?p=44056</id>
@@ -1901,66 +1921,6 @@ The post 【Photoshop】起動時にスクリプトを実行する方法 first a
         <summary type="html"><![CDATA[こんばんは！ 今回は”Joey Carlino”さんの動画を紹介します。 The softest fuzz you can’t touch この動画ではジオメトリノードを使用してふわふわの質感を作るチュートリ […]]]></summary>
         <author>
             <name>kasahara</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【VRChat改変勢向き】パーティクルを指先から撃つ方法]]></title>
-        <id>https://cgbox.jp/?p=39913</id>
-        <link href="https://cgbox.jp/2023/08/20/vrchat-particle-howto/"/>
-        <updated>2023-08-20T11:21:08.000Z</updated>
-        <summary type="html"><![CDATA[こんにちは。 VRChatでたまに魔法や銃などギミックを撃っている人を見かけますよね。 今回はそんなことが可能になるパーティクルについてご紹介します。 パーティクルとは パーティクルには大きく分けてLocal(自分自身) […]]]></summary>
-        <author>
-            <name>押手まいる</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【チュートリアル紹介】足跡アニメーション作成を学ぼう！]]></title>
-        <id>https://cgbox.jp/?p=41264</id>
-        <link href="https://cgbox.jp/2023/08/20/news-turorial-blender-simulation-nodes/"/>
-        <updated>2023-08-20T09:00:00.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは！ 今回は”Bad Normals”さんの動画を紹介します。 Blender Simulation Nodes Beginner Tutorial 「Blender Simulation Nodes Begin […]]]></summary>
-        <author>
-            <name>UEDA</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【チュートリアル紹介】アニメ調の滝アニメーションの作り方]]></title>
-        <id>https://cgbox.jp/?p=41248</id>
-        <link href="https://cgbox.jp/2023/08/20/news-tutrial-stylized-waterfall/"/>
-        <updated>2023-08-20T02:55:00.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは！ 今回は”Kristof Dedene”さんの動画を紹介します。 Tutorial: Stylized waterfall in Blender このチュートリアルではアニメ調の滝アニメーションの作り方につい […]]]></summary>
-        <author>
-            <name>kasahara</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【チュートリアル紹介】ジブリアニメ風の質感を再現できる動画]]></title>
-        <id>https://cgbox.jp/?p=41227</id>
-        <link href="https://cgbox.jp/2023/08/20/news-tutrial-ghibli-style-procedural/"/>
-        <updated>2023-08-20T02:11:00.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは！ 今回は”Kristof Dedene”さんの動画を紹介します。 Tutorial: Ghibli style procedural rocks in blender この動画でジブリ風の岩のマテリアルを制作 […]]]></summary>
-        <author>
-            <name>kasahara</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ue4-realtime-delay - GlobalTimeDilationやGamePauseの影響を受けずにDelayが使えるUnreal Engine向けプラグインが無料公開！]]></title>
-        <id>https://3dnchu.com/?p=1031437</id>
-        <link href="https://3dnchu.com/archives/ue4-realtime-delay/"/>
-        <updated>2023-08-20T01:56:49.000Z</updated>
-        <summary type="html"><![CDATA[ゲーム開発者の惟心（@ishin_mosquito）氏がGlobalTimeDilationやGamePauseの影響を受けずにDelayが使えるUnreal Engine向けプラグイン「ue4-realtime-delay」をGithub上で無料公開しています。]]></summary>
-        <author>
-            <name>Ymt3D -3dnchu-</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Blender ジオメトリノード仕様まとめ v3.6 - 風見ひよこ氏によるBlender 3.6のGeometry Nodesまとめ！わかりやすく日本語でまとめた200p超のPDF資料が無料公開！]]></title>
-        <id>https://3dnchu.com/?p=1031420</id>
-        <link href="https://3dnchu.com/archives/blender-geometry-nodes-spec-summary-v3-6/"/>
-        <updated>2023-08-20T01:37:58.000Z</updated>
-        <summary type="html"><![CDATA[風見ひよこ氏（weatherchick227）がBlenderのGeometry Nodesの仕様を日本語でまとめたPDF資料『Blender ジオメトリノード仕様まとめ v3.6』を無料公開しました。]]></summary>
-        <author>
-            <name>Ymt3D -3dnchu-</name>
         </author>
     </entry>
 </feed>

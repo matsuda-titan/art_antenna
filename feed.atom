@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-09-19T00:33:04.573Z</updated>
+    <updated>2023-09-19T03:07:56.294Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[アドベンチャーゲームに特化した日本語OCRを作ってみた その2]]></title>
+        <id>https://tech.spark-creative.co.jp/entry/2023/09/19/113130</id>
+        <link href="https://tech.spark-creative.co.jp/entry/2023/09/19/113130"/>
+        <updated>2023-09-19T02:31:30.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは!!!クライアントエンジニアの小林です。今回は以前に投稿した内容、アドベンチャーゲームに特化した日本語文字認識の続編です。 作業環境 概要 リポジトリ 文字領域の検出（CRAFT） Character Region Awareness for Text Detection 単語と文章の生成方法を変更 生成文字の出現数調整 生成文字の出現数調整の担保 テキストボックスの画像対応 テキストのランダムカラー対応 1行あたりの最大文字数の自動算出 低品質アンチエイリアスの作成モード 文字ピクセルの抽出（CharSeg） Character Segmentation 背景画像の選出方法 プロセ…]]></summary>
+        <author>
+            <name>SPARKCREATIVE Tech Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[3D Gaussians Plugin - 空き家総研VRラボから「3D Gaussian Splatting」をNiagaraとMaterialで実装し描画する為のUnreal Engine 5向けプラグインがリリース！]]></title>
+        <id>https://3dnchu.com/?p=1032475</id>
+        <link href="https://3dnchu.com/archives/3d-gaussians-plugin-ue/"/>
+        <updated>2023-09-19T02:25:18.000Z</updated>
+        <summary type="html"><![CDATA[空き家総研VRラボから、「3D Gaussian Splatting」のデータをUnreal Engine 5上で描画する為のプラグイン『3D Gaussians Plugin』が公開されました。]]></summary>
+        <author>
+            <name>Ymt3D -3dnchu-</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hard Bevel v1.0 - 破綻なし！セルフオーバーラップの無いベベルを実現出来るBlenderアドオン！]]></title>
         <id>https://3dnchu.com/?p=1032458</id>

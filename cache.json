@@ -897,6 +897,21 @@
       "siteUrl": "https://3dnchu.com",
       "articles": [
         {
+          "id": "https://3dnchu.com/?p=1032475",
+          "author": "Ymt3D -3dnchu-",
+          "description": "空き家総研VRラボから、「3D Gaussian Splatting」のデータをUnreal Engine 5上で描画する為のプラグイン『3D Gaussians Plugin』が公開されました。",
+          "link": "https://3dnchu.com/archives/3d-gaussians-plugin-ue/",
+          "publishedOn": "2023-09-19T02:25:18.000Z",
+          "wordCount": 7312,
+          "title": "3D Gaussians Plugin - 空き家総研VRラボから「3D Gaussian Splatting」をNiagaraとMaterialで実装し描画する為のUnreal Engine 5向けプラグインがリリース！",
+          "enclosure": {
+            "url": "https://3dnchu.com/wp-content/uploads/3D-Gaussians-Plugin.webp",
+            "length": "1135774",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://3dnchu.com/wp-content/uploads/3D-Gaussians-Plugin.webp"
+        },
+        {
           "id": "https://3dnchu.com/?p=1032458",
           "author": "Ymt3D -3dnchu-",
           "description": "数多くのBlenderのモデリング系アドオンを制作しているKushiro氏による「Hard Bevel v1.0」がリリースされています！",
@@ -2334,6 +2349,16 @@
       "feedUrl": "https://tech.spark-creative.co.jp/feed",
       "siteUrl": "https://tech.spark-creative.co.jp/",
       "articles": [
+        {
+          "id": "https://tech.spark-creative.co.jp/entry/2023/09/19/113130",
+          "author": null,
+          "description": "こんにちは!!!クライアントエンジニアの小林です。今回は以前に投稿した内容、アドベンチャーゲームに特化した日本語文字認識の続編です。 作業環境 概要 リポジトリ 文字領域の検出（CRAFT） Character Region Awareness for Text Detection 単語と文章の生成方法を変更 生成文字の出現数調整 生成文字の出現数調整の担保 テキストボックスの画像対応 テキストのランダムカラー対応 1行あたりの最大文字数の自動算出 低品質アンチエイリアスの作成モード 文字ピクセルの抽出（CharSeg） Character Segmentation 背景画像の選出方法 プロセ…",
+          "link": "https://tech.spark-creative.co.jp/entry/2023/09/19/113130",
+          "publishedOn": "2023-09-19T02:31:30.000Z",
+          "wordCount": 1126,
+          "title": "アドベンチャーゲームに特化した日本語OCRを作ってみた その2",
+          "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/s/spark-kobayashi-arata/20230916/20230916172941.jpg"
+        },
         {
           "id": "https://tech.spark-creative.co.jp/entry/2023/09/01/105820",
           "author": null,

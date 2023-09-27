@@ -990,26 +990,6 @@
           "wordCount": 1851,
           "title": "【アセット紹介】Crystal Kit – 色んなクリスタルを自由に配置",
           "imageUrl": "https://cgbox.jp/wp-content/uploads/2023/08/Thumb_BlenderMarket_02.jpg"
-        },
-        {
-          "id": "https://cgbox.jp/?p=42627",
-          "author": "kasahara",
-          "description": "こんばんは！ 今回は”Ryan King Art”さんの動画を紹介します。 Procedural Banana Material フォトリアルなバナナを制作するチュートリアル動画になります。 形状が変えられるようにカーブ […]",
-          "link": "https://cgbox.jp/2023/08/28/news-tutrial-procedural-banana-material/",
-          "publishedOn": "2023-08-28T07:52:13.000Z",
-          "wordCount": 1890,
-          "title": "【チュートリアル紹介】フォトリアルなバナナの作成方法",
-          "imageUrl": "https://cgbox.jp/wp-content/uploads/2023/08/e016bfe4acedb5370c6cabef8d031cac.jpg"
-        },
-        {
-          "id": "https://cgbox.jp/?p=42607",
-          "author": "kasahara",
-          "description": "こんばんは！ 今回はアドオンの「Uv Flow」を紹介します。 こちらのリンクから購入することができます。 Uv Flow ビューポート上でシームを入れながらテクスチャが自動で調整されるアドオン。 Altを押しながらクリ […]",
-          "link": "https://cgbox.jp/2023/08/28/news-addon-uv-flow/",
-          "publishedOn": "2023-08-28T07:33:17.000Z",
-          "wordCount": 1942,
-          "title": "【アドオン紹介】Uv Flow – ビューポート画面でUV展開",
-          "imageUrl": "https://cgbox.jp/wp-content/uploads/2023/08/skull_beta.jpg"
         }
       ]
     },
@@ -1036,6 +1016,36 @@
       "feedUrl": "https://3dnchu.com/feed/",
       "siteUrl": "https://3dnchu.com",
       "articles": [
+        {
+          "id": "https://3dnchu.com/?p=1032711",
+          "author": "Ymt3D -3dnchu-",
+          "description": "3d illusionsによる、レンダリングパイプラインを最適化してCyclesのレンダリング時間を短縮させる事が出来るBlenderアドオンの新バージョン「Turbo Tools V4」がリリース！",
+          "link": "https://3dnchu.com/archives/turbo-tools-v4/",
+          "publishedOn": "2023-09-26T19:32:18.000Z",
+          "wordCount": 7332,
+          "title": "Turbo Tools V4 - 簡単な設定でCyclesレンダリングを高速化するアドオン！メジャーアップデートが公開！",
+          "enclosure": {
+            "url": "https://3dnchu.com/wp-content/uploads/turbo-tools-v4-cycles.jpg",
+            "length": "66933",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://3dnchu.com/wp-content/uploads/turbo-tools-v4-cycles.jpg"
+        },
+        {
+          "id": "https://3dnchu.com/?p=1032638",
+          "author": "Ymt3D -3dnchu-",
+          "description": "Fábio Pacheco Paiva氏によるBlenderを活用したCG制作チュートリアル「Making a Creature in Blender - From Concept to Render」がCG＆デジタルアート学習オンラインプラットフォーム「WINGFOX」にて取り扱い開始されています。",
+          "link": "https://3dnchu.com/archives/making-a-creature-b3d-wingfox/",
+          "publishedOn": "2023-09-26T18:57:57.000Z",
+          "wordCount": 7345,
+          "title": "Making a Creature in Blender - From Concept to Render - Blenderのスカルプト機能でクリーチャーを制作する解説チュートリアル！「Wingfox」にて取り扱い開始！",
+          "enclosure": {
+            "url": "https://3dnchu.com/wp-content/uploads/Making-a-Creature-in-Blender-From-Concept-to-Render.webp",
+            "length": "1192224",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://3dnchu.com/wp-content/uploads/Making-a-Creature-in-Blender-From-Concept-to-Render.webp"
+        },
         {
           "id": "https://3dnchu.com/?p=1032671",
           "author": "Ymt3D -3dnchu-",
@@ -2307,36 +2317,6 @@
           "wordCount": 918,
           "title": "テキストから3D顔モデル、テクスチャ、アニメーションなどを生成する様々なAIモデルが登場。XRとAIに関連した注目論文をピックアップ～SIGGRAPH 2023（2） - 特集",
           "imageUrl": "https://cgworld.jp/article/assets_c/2023/08/image1-thumb-1577x792-41917.jpg"
-        },
-        {
-          "id": "https://cgworld.jp/special-feature/2308-recruit-v18.html",
-          "author": null,
-          "description": "3DCG新卒求人情報を紹介。",
-          "link": "https://cgworld.jp/special-feature/2308-recruit-v18.html",
-          "publishedOn": "2023-08-28T05:50:45.000Z",
-          "wordCount": 810,
-          "title": "【2023年8月版】学生必見、夢を実現するチャンス！　3DCG新卒求人情報 supported by Autodesk - スペシャルコンテンツ",
-          "imageUrl": "https://cgworld.jp/special-feature/assets_c/2023/08/recruitbanner-thumb-1920x1080-41794.jpg"
-        },
-        {
-          "id": "https://cgworld.jp/regular/202308-chiyama-t-1-2.html",
-          "author": null,
-          "description": "テクニカルアーティスト、システムエンジニア、ソフトウェアエンジニアなどのテクニカル系のスタッフは、CG映像制作において不可欠の存在だが、需要に対して供給が間に合っていない状況が慢性的に続いている。その解決の一助となることを目指して、本連載では各社におけるテクニカル系の仕事の現状と課題を、パイプライン開発の専門家である痴山紘史氏（日本CGサービス（JCGS） 代表）が探っていく。     今回は、オー・エル・エム（以下、OLM）、オー・エル・エム・デジタル（以下、OLM Digital）で取締役を務める四倉",
-          "link": "https://cgworld.jp/regular/202308-chiyama-t-1-2.html",
-          "publishedOn": "2023-08-28T02:15:00.000Z",
-          "wordCount": 758,
-          "title": "第1回 後編：アニメ制作のフルデジタル化と今後の課題 - 連載",
-          "imageUrl": "https://cgworld.jp/regular/assets_c/2023/08/OLM_2_top-thumb-1000x563-42087.jpg"
-        },
-        {
-          "id": "https://cgworld.jp/flashnews/cgw302-pr.html",
-          "author": null,
-          "description": "今回は設立40周年を迎えたポリゴン・ピクチュアズを大特集！　代表の塩田周三氏や歴代キーパーソンへのインタビュー、作品のクオリティを支えるパイプラインの解説、さらに、10月公開の『大雪海のカイナ ほしのけんじゃ』のメイキングまで、ポリゴン・ピクチュアズ全面協力のもと、同社のこれまでの実績と強みを紐解いていきます。",
-          "link": "https://cgworld.jp/flashnews/cgw302-pr.html",
-          "publishedOn": "2023-08-28T01:00:00.000Z",
-          "wordCount": 651,
-          "title": "CGWORLD vol.302（2023年10月号）、「ポリゴン・ピクチュアズ40周年をふり返る」特集号を先行告知！ - ニュース",
-          "imageUrl": "https://cgworld.jp/flashnews/assets_c/2023/08/302infobanner_0822_Web-thumb-1280x720-42079.jpg"
         }
       ]
     },

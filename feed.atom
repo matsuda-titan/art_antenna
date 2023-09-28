@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-09-27T12:13:04.676Z</updated>
+    <updated>2023-09-28T00:32:35.252Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【チュートリアル紹介】ジブリ風環境を作ろう！]]></title>
+        <id>https://cgbox.jp/?p=45043</id>
+        <link href="https://cgbox.jp/2023/09/28/news-tutorial-ghiblistyleenvironment/"/>
+        <updated>2023-09-27T21:00:00.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは！ 今回は”Tem”さんの動画を紹介します。 Blender Tutorial – Ghibli Style Environment 「Blender Tutorial – Ghibli […]]]></summary>
+        <author>
+            <name>UEDA</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【メンバー投稿】Parametric – 不思議な形状のアセットパック]]></title>
+        <id>https://cgbox.jp/?p=44868</id>
+        <link href="https://cgbox.jp/2023/09/27/menber-digital-design-fans-beware/"/>
+        <updated>2023-09-27T12:24:26.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは、パラメトリックデザインの仲間たち。 私は建築家ですが、内部または外部のデザインに素早く適用する必要があることがよくあります。クールな雰囲気を作り出すために、3D生成デザインのモチーフを含む包括的なアセットライ […]]]></summary>
+        <author>
+            <name>kasahara</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【アドオン紹介】Stylized Rock And Ice Cliff Generator – 崖を簡単生成！]]></title>
         <id>https://cgbox.jp/?p=45130</id>
@@ -2020,56 +2040,6 @@
         <summary type="html"><![CDATA[こんにちは！コチラの記事では、Unityの「雨が降っているエフェクト」の作り方について解説します。 雨が降っているエフェクトを作成する方法！ 今回はこのような雨が降っているエフェクトの作成方法を解説していきます。 雨が降 […]]]></summary>
         <author>
             <name>tainari</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[USync - JSONファイルを活用し2クリックでシーンを同期！BlenderからUnreal Engineへの出力プロセスを簡略化＆効率化するアドオンが登場！]]></title>
-        <id>https://3dnchu.com/?p=1031786</id>
-        <link href="https://3dnchu.com/archives/usync/"/>
-        <updated>2023-08-29T10:03:30.000Z</updated>
-        <summary type="html"><![CDATA[James Guard Studiosによる「USync」はBlenderからUnreal Engineへの出力プロセスを超効率化するアドオンです！]]></summary>
-        <author>
-            <name>Ymt3D -3dnchu-</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【チュートリアル紹介】おもちゃの飛行機を作成]]></title>
-        <id>https://cgbox.jp/?p=42780</id>
-        <link href="https://cgbox.jp/2023/08/29/news-tutrial-make-a-toy-airplane/"/>
-        <updated>2023-08-29T07:34:53.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは！ 今回は”Derek Elliott”さんの動画を紹介します。 Make a Toy Airplane in Blender おもちゃの飛行機を作成するチュートリアル。 モデリング・マテリアル作成共に初心者向 […]]]></summary>
-        <author>
-            <name>kasahara</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【チュートリアル紹介】実際に撮影した草を使用して作る草原]]></title>
-        <id>https://cgbox.jp/?p=42765</id>
-        <link href="https://cgbox.jp/2023/08/29/news-tutrial-the-best-way-to-create-nature-in-3d/"/>
-        <updated>2023-08-29T07:18:56.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは！ 今回は”CG Geek”さんの動画を紹介します。 The Best Way To Create Nature In 3D この動画では実際に草を撮影して、その写真を使用して草原を作るチュートリアルになります […]]]></summary>
-        <author>
-            <name>kasahara</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【アセット紹介】Crystal Kit – 色んなクリスタルを自由に配置]]></title>
-        <id>https://cgbox.jp/?p=42759</id>
-        <link href="https://cgbox.jp/2023/08/29/news-asset-crystal-kit/"/>
-        <updated>2023-08-29T06:58:15.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは！ 今回はがBlender Marketにて配布されていたので紹介します。 こちらから購入できます。 Crystal Kit このアセットは『AssetKit』という方の作品になります。 ジオメトリノードで作ら […]]]></summary>
-        <author>
-            <name>kasahara</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[テキストから3D顔モデル、テクスチャ、アニメーションなどを生成する様々なAIモデルが登場。XRとAIに関連した注目論文をピックアップ～SIGGRAPH 2023（2） - 特集]]></title>
-        <id>https://cgworld.jp/article/202308-siggraph-ai.html</id>
-        <link href="https://cgworld.jp/article/202308-siggraph-ai.html"/>
-        <updated>2023-08-29T04:26:00.000Z</updated>
-        <summary type="html"><![CDATA[SIGGRAPH 2023よりXRとAIに関連した注目論文をピックアップ]]></summary>
-        <author>
-            <name>CGWORLD</name>
         </author>
     </entry>
 </feed>

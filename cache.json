@@ -12,6 +12,46 @@
       "siteUrl": "https://cgbox.jp",
       "articles": [
         {
+          "id": "https://cgbox.jp/?p=45465",
+          "author": "CrowdRender",
+          "description": "概要 CrowdRenderは、Blenderのネットワークレンダリング用のアドオンです。Blender 3.0からBlender 3.6までをサポートし、Windows、MacOS、およびLinuxで動作します。Eev […]",
+          "link": "https://cgbox.jp/2023/10/03/menber-crowdrender/",
+          "publishedOn": "2023-10-03T08:01:05.000Z",
+          "wordCount": 1951,
+          "title": "【メンバー投稿】レンダリングを高速化できるアドオン",
+          "imageUrl": "https://cgbox.jp/wp-content/uploads/2023/09/thumb_2.jpg"
+        },
+        {
+          "id": "https://cgbox.jp/?p=45558",
+          "author": "kasahara",
+          "description": "こんばんは！ 今回は”MasahiroUshiyama”さんの動画を紹介します。 ポリゴンモデルの関節の分割線 人体の関節ごとでポリゴンの分割に関して解説をしている動画。 ポリゴンの分割方法は様々な種類があり、それぞれの […]",
+          "link": "https://cgbox.jp/2023/10/03/news-tutrial-porigon/",
+          "publishedOn": "2023-10-03T06:18:37.000Z",
+          "wordCount": 1979,
+          "title": "【チュートリアル紹介】人体のポリゴン分割方法を解説！",
+          "enclosure": {
+            "url": "https://cgbox.jp/wp-content/uploads/2023/10/IMG_8393_25.mp4",
+            "length": "0",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://cgbox.jp/wp-content/uploads/2023/10/maxresdefault-16.jpg"
+        },
+        {
+          "id": "https://cgbox.jp/?p=45546",
+          "author": "kasahara",
+          "description": "こんばんは！ 今回はアドオンの「Vortex」を紹介します。 こちらのリンクから購入することができます。 Vortex 流体シミュレーションで作成したオブジェクトにアニメーションを付けれるアドオン。 流体でメッシュ化した […]",
+          "link": "https://cgbox.jp/2023/10/03/news-addon-vortex/",
+          "publishedOn": "2023-10-03T05:59:04.000Z",
+          "wordCount": 2029,
+          "title": "【アドオン紹介】Vortex – 流体にアニメーションを付けるアドオン",
+          "enclosure": {
+            "url": "https://cgbox.jp/wp-content/uploads/2023/10/IMG_8393_24.mp4",
+            "length": "0",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://cgbox.jp/wp-content/uploads/2023/10/Banner_rebrand.jpg"
+        },
+        {
           "id": "https://cgbox.jp/?p=44686",
           "author": "tyatyarame",
           "description": "こちらの記事ではアニメーションの実装方法、内容はオブジェクトのオンオフとなっている物の実装方法について解説しています。ファイルの作成の点から解説しているので覚えると色々応用できる部分が沢山あります。しっかりと覚えていきま […]",
@@ -1798,6 +1838,36 @@
       "feedUrl": "https://cgworld.jp/atom.xml",
       "siteUrl": "https://cgworld.jp/",
       "articles": [
+        {
+          "id": "https://cgworld.jp/regular/4apple-vision-pro-arkit.html",
+          "author": null,
+          "description": "",
+          "link": "https://cgworld.jp/regular/4apple-vision-pro-arkit.html",
+          "publishedOn": "2023-10-03T06:14:19.000Z",
+          "wordCount": 722,
+          "title": "第4回：Apple Vision Pro の ARKit で実現する、新たな空間体験 - 連載",
+          "imageUrl": "https://cgworld.jp/regular/assets_c/2023/10/avp_04-thumb-1920x1080-44167.png"
+        },
+        {
+          "id": "https://cgworld.jp/flashnews/202309-gdep.html",
+          "author": null,
+          "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
+          "link": "https://cgworld.jp/flashnews/202309-gdep.html",
+          "publishedOn": "2023-10-03T05:40:00.000Z",
+          "wordCount": 739,
+          "title": "AI開発・深層学習研究をサポート！ BTOワークステーション＆サーバ3モデルの短納期モデルを発売（ジーデップ・アドバンス） - ニュース",
+          "imageUrl": "https://cgworld.jp/flashnews/assets_c/2023/10/0c7acff05176508dc543e80ee5e48bd21a5e8869-thumb-1920x1080-44303.png"
+        },
+        {
+          "id": "https://cgworld.jp/flashnews/202309-realmap-osaka.html",
+          "author": null,
+          "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
+          "link": "https://cgworld.jp/flashnews/202309-realmap-osaka.html",
+          "publishedOn": "2023-10-03T04:30:27.000Z",
+          "wordCount": 726,
+          "title": "大阪の夜景をフォトリアルに再現！コンテンツ制作に使い勝手の良い3D都市データ「REAL 3DMAP OSAKA（夜景）」がリリース - ニュース",
+          "imageUrl": "https://cgworld.jp/flashnews/assets_c/2023/09/Cad-Osaka1-thumb-1920x1080-44082.jpg"
+        },
         {
           "id": "https://cgworld.jp/article/202308-siggraph-av03.html",
           "author": null,

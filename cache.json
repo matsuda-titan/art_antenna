@@ -12,6 +12,31 @@
       "siteUrl": "https://cgbox.jp",
       "articles": [
         {
+          "id": "https://cgbox.jp/?p=45499",
+          "author": "ClaroCGteam",
+          "description": "「Quick Lighting Kit」は、プロのライティングが簡単に実現できるBlender用のライティングアセットです。29種類のライティングコレクションに加えて、5種類の木の影素材と3種類の木の影が揺れるアニメーシ […]",
+          "link": "https://cgbox.jp/2023/10/05/member-quick-lighting-kit/",
+          "publishedOn": "2023-10-05T08:00:00.000Z",
+          "wordCount": 1975,
+          "title": "【メンバー投稿】Quick Lighting Kit -プロのライティングが手に入る！",
+          "imageUrl": "https://cgbox.jp/wp-content/uploads/2023/10/AzRIbXsA.jpeg"
+        },
+        {
+          "id": "https://cgbox.jp/?p=45678",
+          "author": "kasahara",
+          "description": "こんばんは！ 今回はアドオンの「Smart Loops Toolkit」を紹介します。 こちらのリンクから購入することができます。 Smart Loops Toolkit 円形のオブジェクトを細分化できるアドオン。 円形 […]",
+          "link": "https://cgbox.jp/2023/10/05/news-addon-smart-loops-toolkit/",
+          "publishedOn": "2023-10-05T07:27:51.000Z",
+          "wordCount": 2060,
+          "title": "【アドオン紹介】Smart Loops Toolkit – 円形のオブジェクトを細分化",
+          "enclosure": {
+            "url": "https://cgbox.jp/wp-content/uploads/2023/10/IMG_8393_28.mp4",
+            "length": "0",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://cgbox.jp/wp-content/uploads/2023/10/slt_icon.jpg"
+        },
+        {
           "id": "https://cgbox.jp/?p=45419",
           "author": "UEDA",
           "description": "こんばんは！ 今回は”Digitalfix”さんの動画を紹介します。 Music Visualizer/Blender Tutorial 「Music Visualizer/Blender Tutorial」では、ミュー […]",
@@ -1142,6 +1167,21 @@
       "siteUrl": "https://3dnchu.com",
       "articles": [
         {
+          "id": "https://3dnchu.com/?p=1033055",
+          "author": "Ymt3D -3dnchu-",
+          "description": "リトポロジーとマップベイキング専用のスタンドアロンソフトウェア『TopoGun』のバージョン3がついに正式リリースされたようです！",
+          "link": "https://3dnchu.com/archives/topogun-3/",
+          "publishedOn": "2023-10-05T03:28:00.000Z",
+          "wordCount": 7194,
+          "title": "TopoGun 3 - リトポロジーとマップベイクの為のスタンドアロンソフト！3年の長いベータ期間を経て11年ぶりのメジャーバージョンアップが正式リリース！",
+          "enclosure": {
+            "url": "https://3dnchu.com/wp-content/uploads/TopoGun3.webp",
+            "length": "1054060",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://3dnchu.com/wp-content/uploads/TopoGun3.webp"
+        },
+        {
           "id": "https://3dnchu.com/?p=1033043",
           "author": "Ymt3D -3dnchu-",
           "description": "CorridorDigitalがPicsi社のfacemorphツールを使用し、ゲームキャラクターをリアルな顔に置き換える検証動画を公開しております。",
@@ -1815,36 +1855,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "https://3dnchu.com/wp-content/uploads/UE5_3.webp"
-        },
-        {
-          "id": "https://3dnchu.com/?p=1032126",
-          "author": "Ymt3D -3dnchu-",
-          "description": "Toky ANDRIANIAINA氏によるとりあえずオブジェクトに回転アニメーションを追加できるBlenderアドオン『Auto-R Addon』がリリースされています。",
-          "link": "https://3dnchu.com/archives/auto-r-addon/",
-          "publishedOn": "2023-09-05T19:34:58.000Z",
-          "wordCount": 7308,
-          "title": "Auto-R Addon - とりあえずオブジェクトに回転アニメーションを追加できるシンプルなBlenderアドオン！",
-          "enclosure": {
-            "url": "https://3dnchu.com/wp-content/uploads/Auto-R-Addon.webp",
-            "length": "898000",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://3dnchu.com/wp-content/uploads/Auto-R-Addon.webp"
-        },
-        {
-          "id": "https://3dnchu.com/?p=1032100",
-          "author": "Ymt3D -3dnchu-",
-          "description": "ソフトウェア・エンジニアのGabriel Cuvillier氏によるLumenやレイトレーシング、パストレーシングのテストに最適なパラメトリック「コーネルボックス」BPアクターアセット『Parametric Cornell Box』が無料公開されています！",
-          "link": "https://3dnchu.com/archives/parametric-cornell-box/",
-          "publishedOn": "2023-09-05T18:32:59.000Z",
-          "wordCount": 7422,
-          "title": "Parametric Cornell Box - Lumenやレイトレーシング、パストレーシングのテストに最適なパラメトリック「コーネルボックス」BPアクターアセットが無料公開！UE5",
-          "enclosure": {
-            "url": "https://3dnchu.com/wp-content/uploads/Parametric-Cornell-Box-.webp",
-            "length": "900770",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://3dnchu.com/wp-content/uploads/Parametric-Cornell-Box-.webp"
         }
       ]
     },

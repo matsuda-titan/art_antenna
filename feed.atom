@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-04T12:13:45.889Z</updated>
+    <updated>2023-10-05T00:32:32.511Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[We try Fixing Faces in Video Games - AIの力でゲームキャラクターをリアルな顔に置き換え！CorridorDigitalによる検証動画が公開！]]></title>
+        <id>https://3dnchu.com/?p=1033043</id>
+        <link href="https://3dnchu.com/archives/we-try-fixing-faces-in-video-games/"/>
+        <updated>2023-10-04T18:59:36.000Z</updated>
+        <summary type="html"><![CDATA[CorridorDigitalがPicsi社のfacemorphツールを使用し、ゲームキャラクターをリアルな顔に置き換える検証動画を公開しております。]]></summary>
+        <author>
+            <name>Ymt3D -3dnchu-</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【チュートリアル紹介】ミュージックビジュアライザーの作り方！]]></title>
         <id>https://cgbox.jp/?p=45419</id>
@@ -2135,56 +2145,6 @@
         <link href="https://3dnchu.com/archives/rokoko-vision/"/>
         <updated>2023-09-05T14:22:10.000Z</updated>
         <summary type="html"><![CDATA[Rokokoは２台のカメラ映像からAIモーションキャプチャー技術を使い全身アニメデータを抽出するブラウザベースのツール「Rokoko Vision」を公開しました。]]></summary>
-        <author>
-            <name>Ymt3D -3dnchu-</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【チュートリアル紹介】基礎的なカーアニメーションを作成！]]></title>
-        <id>https://cgbox.jp/?p=43228</id>
-        <link href="https://cgbox.jp/2023/09/05/news-tutorial-basiccaranimation/"/>
-        <updated>2023-09-05T09:00:00.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは！ 今回は”Kaizen Tutorials”さんの動画を紹介します。 Basic Car Animation in Blender [Quick & Easy!] 「Basic Car Animati […]]]></summary>
-        <author>
-            <name>UEDA</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ultimate Minifig Rig Beta - レゴのミニフィグ リギング済みBlender用モデルデータが公開！無料ダウンロードも可能！]]></title>
-        <id>https://3dnchu.com/?p=1032043</id>
-        <link href="https://3dnchu.com/archives/ultimate-minifig-rig-beta/"/>
-        <updated>2023-09-05T06:00:59.000Z</updated>
-        <summary type="html"><![CDATA[David Rodriguez氏による、リギングされたLEGOのミニフィグ3Dモデルデータ（Blender用）「Ultimate Minifig Rig」のベータ版がリリースされました！]]></summary>
-        <author>
-            <name>Ymt3D -3dnchu-</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[日本国内のクリエイティブ生成AIが集まった「NVIDIA生成AI Day 2023 Summer」レポート - 特集]]></title>
-        <id>https://cgworld.jp/article/202309-nvidia-aiday.html</id>
-        <link href="https://cgworld.jp/article/202309-nvidia-aiday.html"/>
-        <updated>2023-09-05T05:41:13.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【チュートリアル紹介】奥行きのある不思議な眼鏡の作成]]></title>
-        <id>https://cgbox.jp/?p=43243</id>
-        <link href="https://cgbox.jp/2023/09/05/news-tutrial-how-to-make-a-parallax-shader/"/>
-        <updated>2023-09-05T05:00:13.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは！ 今回は”Xetirano”さんの動画を紹介します。 How to make a Parallax Shader 奥行きがある不思議な眼鏡の作成方法について解説しております。 奥行きはテクスチャを加工して作成 […]]]></summary>
-        <author>
-            <name>CGbox編集部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3D Gaussian Splatting for Real-Time Radiance Field Rendering - 複数写真や映像から3Dシーンを構築する技術！NeRFよりも高品質と話題の新Radiance Fieldメソッド！SIGGRAPH 2023！]]></title>
-        <id>https://3dnchu.com/?p=1032019</id>
-        <link href="https://3dnchu.com/archives/3d-gaussian-splatting/"/>
-        <updated>2023-09-05T03:45:26.000Z</updated>
-        <summary type="html"><![CDATA[Inria、マックスプランク情報学研究所、ユニヴェルシテ・コート・ダジュールの研究者達による、NeRF(Neural Radiance Fields)とは異なる、Radiance Fieldの技術「3D Gaussian Splatting for Real-Time Radiance Field Rendering」が発表され話題を集めています。]]></summary>
         <author>
             <name>Ymt3D -3dnchu-</name>
         </author>

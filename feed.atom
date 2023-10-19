@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-18T12:13:35.728Z</updated>
+    <updated>2023-10-19T00:32:49.337Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
@@ -2787,76 +2787,6 @@ The post Substance 3D Modeler を使った3Dプリント（※英語ムービー
         <summary type="html"><![CDATA[みなさん、こんにちは。CGWORLDの西原です。 今回は前回作成した細かい生地...]]></summary>
         <author>
             <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ファッションデザイナー・中村理彩子氏が紹介する『バーチャルファッションとコミュニケーションの未来』9月27日無料オンライン配信 - ニュース]]></title>
-        <id>https://cgworld.jp/flashnews/2309-3dviz-fashion.html</id>
-        <link href="https://cgworld.jp/flashnews/2309-3dviz-fashion.html"/>
-        <updated>2023-09-19T10:41:12.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【チュートリアル紹介】バレーボールを簡単モデリング！]]></title>
-        <id>https://cgbox.jp/?p=44122</id>
-        <link href="https://cgbox.jp/2023/09/19/news-tutorial-makea3dvolleyballeasytutorial/"/>
-        <updated>2023-09-19T09:00:00.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは！ 今回は”PIXXO 3D”さんの動画を紹介します。 Blender: Make A 3D Volleyball EASY Tutorial 「Blender: Make A 3D Volleyball EA […]]]></summary>
-        <author>
-            <name>UEDA</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【メンバー投稿】NodeChart: ジオメトリノードを使用したBlenderの情報グラフ]]></title>
-        <id>https://cgbox.jp/?p=44011</id>
-        <link href="https://cgbox.jp/2023/09/19/menber-nodechart/"/>
-        <updated>2023-09-19T08:00:13.000Z</updated>
-        <summary type="html"><![CDATA[Blender 用に事前にデザインされた情報グラフのコレクションを使用して、魅力的なチャートやプレゼンテーションを簡単に作成できます。 購入する前に無料のデモを試してみませんか? ここをクリック。 ゼロを入力するだけで、 […]]]></summary>
-        <author>
-            <name>b3d_renaissance</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meshy - 3Dコンテンツ制作プロセスの自動化＆簡素化の為のAI生成ツール郡！自動テクスチャリング機能のベータ版が話題！]]></title>
-        <id>https://3dnchu.com/?p=1032471</id>
-        <link href="https://3dnchu.com/archives/meshy-ai/"/>
-        <updated>2023-09-19T06:26:59.000Z</updated>
-        <summary type="html"><![CDATA[3Dコンテンツ制作プロセスの自動化＆簡素化を目指したAIツールを提供する『Meshy』のご紹介です。]]></summary>
-        <author>
-            <name>Ymt3D -3dnchu-</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[自主制作はまず完成を目指すことが大事！　7年かけて怪獣映画を1人で作り上げた『地雷大怪獣イヴァラ-case of extra-』の挑戦〜Autodesk Day 2023（3） - スペシャルコンテンツ]]></title>
-        <id>https://cgworld.jp/special-feature/202309-autodeskday-ivara.html</id>
-        <link href="https://cgworld.jp/special-feature/202309-autodeskday-ivara.html"/>
-        <updated>2023-09-19T05:51:17.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[アドベンチャーゲームに特化した日本語OCRを作ってみた その2]]></title>
-        <id>https://tech.spark-creative.co.jp/entry/2023/09/19/113130</id>
-        <link href="https://tech.spark-creative.co.jp/entry/2023/09/19/113130"/>
-        <updated>2023-09-19T02:31:30.000Z</updated>
-        <summary type="html"><![CDATA[こんにちは!!!クライアントエンジニアの小林です。今回は以前に投稿した内容、アドベンチャーゲームに特化した日本語文字認識の続編です。 作業環境 概要 リポジトリ 文字領域の検出（CRAFT） Character Region Awareness for Text Detection 単語と文章の生成方法を変更 生成文字の出現数調整 生成文字の出現数調整の担保 テキストボックスの画像対応 テキストのランダムカラー対応 1行あたりの最大文字数の自動算出 低品質アンチエイリアスの作成モード 文字ピクセルの抽出（CharSeg） Character Segmentation 背景画像の選出方法 プロセ…]]></summary>
-        <author>
-            <name>SPARKCREATIVE Tech Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3D Gaussians Plugin - 空き家総研VRラボから「3D Gaussian Splatting」をNiagaraとMaterialで実装し描画する為のUnreal Engine 5向けプラグインがリリース！]]></title>
-        <id>https://3dnchu.com/?p=1032475</id>
-        <link href="https://3dnchu.com/archives/3d-gaussians-plugin-ue/"/>
-        <updated>2023-09-19T02:25:18.000Z</updated>
-        <summary type="html"><![CDATA[空き家総研VRラボから、「3D Gaussian Splatting」のデータをUnreal Engine 5上で描画する為のプラグイン『3D Gaussians Plugin』が公開されました。]]></summary>
-        <author>
-            <name>Ymt3D -3dnchu-</name>
         </author>
     </entry>
 </feed>

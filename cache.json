@@ -12,6 +12,21 @@
       "siteUrl": "https://cgbox.jp",
       "articles": [
         {
+          "id": "https://cgbox.jp/?p=46397",
+          "author": "kasahara",
+          "description": "こんばんは！ 今回は”CG DASH”さんの動画を紹介します。 Anime Style Visual Breakdown in Blender アニメ調でドアを開けるアニメーションを解説している動画。 1つ1つ工程を解説 […]",
+          "link": "https://cgbox.jp/2023/10/19/news-tutrial-anime-style-visual-breakdown/",
+          "publishedOn": "2023-10-19T03:39:22.000Z",
+          "wordCount": 1995,
+          "title": "【チュートリアル紹介】アニメ+ドア開けアニメーション",
+          "enclosure": {
+            "url": "https://cgbox.jp/wp-content/uploads/2023/10/IMG_8393_63.mp4",
+            "length": "0",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://cgbox.jp/wp-content/uploads/2023/10/maxresdefault-12.jpg"
+        },
+        {
           "id": "https://cgbox.jp/?p=46322",
           "author": "UEDA",
           "description": "こんばんは！ 今回は”うしこ3D工房”さんの動画を紹介します。 【blender3.4】テクスチャで簡単！スライムの作り方【初心者向けチュートリアル】 「【blender3.4】テクスチャで簡単！スライムの作り方【初心者 […]",
@@ -70,6 +85,16 @@
             "type": "video/mp4"
           },
           "imageUrl": "https://cgbox.jp/wp-content/uploads/2023/10/maxresdefault-1-5.jpg"
+        },
+        {
+          "id": "https://cgbox.jp/?p=45846",
+          "author": "Seo",
+          "description": "こんにちは！Unityで地面を作るときどんな方法で作っていますか？ Terrainを使ったり、アセットを使ったりなど色々な方法がありますが Planeを使うと最も簡単に地面を作ることができます。 そこで本記事では地面をP […]",
+          "link": "https://cgbox.jp/2023/10/17/unity-ground/",
+          "publishedOn": "2023-10-17T06:49:15.000Z",
+          "wordCount": 2415,
+          "title": "【Unity】地面をPlaneで簡単に作ってみよう",
+          "imageUrl": "https://cgbox.jp/wp-content/uploads/2023/10/3967c99bc6cf180870cb67fbcb3150d7.jpg"
         },
         {
           "id": "https://cgbox.jp/?p=46266",
@@ -1452,6 +1477,66 @@
       "siteUrl": "https://3dnchu.com",
       "articles": [
         {
+          "id": "https://3dnchu.com/?p=1033451",
+          "author": "Ymt3D -3dnchu-",
+          "description": "Blender 4.1 Alphaに実験的機能として搭載されたグリースペンシルの次期大型アップデート『Grease Pencil 3.0』でGeometry Nodesが使えるようになるみたいですよ。",
+          "link": "https://3dnchu.com/archives/grease-pencil-3-0/",
+          "publishedOn": "2023-10-19T07:37:11.000Z",
+          "wordCount": 7374,
+          "title": "Grease Pencil 3.0 - Geometry Nodesに対応した最新グリースペンシル！Blender 4.1 Alphaに搭載！",
+          "enclosure": {
+            "url": "https://3dnchu.com/wp-content/uploads/GreasePencil3.webp",
+            "length": "221642",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://3dnchu.com/wp-content/uploads/GreasePencil3.webp"
+        },
+        {
+          "id": "https://3dnchu.com/?p=1033435",
+          "author": "Ymt3D -3dnchu-",
+          "description": "Zhejiang University、Image Derivative Inc.、Ant Groupらによる、動的3Dシーンを4K解像度でリアルタイム描画出来る技術『4K4D』が登場。",
+          "link": "https://3dnchu.com/archives/4k4d/",
+          "publishedOn": "2023-10-19T06:17:14.000Z",
+          "wordCount": 7267,
+          "title": "4K4D: Real-Time 4D View Synthesis at 4K Resolution - 動的3Dシーンを4K解像度でサクサクリアルタイム描画出来る技術が登場！",
+          "enclosure": {
+            "url": "https://3dnchu.com/wp-content/uploads/4K4D-01_crop.mp4",
+            "length": "7911482",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://3dnchu.com/wp-content/uploads/4K4D.webp"
+        },
+        {
+          "id": "https://3dnchu.com/?p=1033418",
+          "author": "Ymt3D -3dnchu-",
+          "description": "Aechmea Studiosによる、Unreal Engine上でBlenderのGeometry Nodesを扱うプラグイン次期バージョン『AlterMesh 2.0』が発表されました。2023年11月にリリース予定です。",
+          "link": "https://3dnchu.com/archives/altermesh-2-0/",
+          "publishedOn": "2023-10-19T05:01:06.000Z",
+          "wordCount": 7245,
+          "title": "AlterMesh 2.0 - Unreal Engine上でBlenderのGeometry Nodesを扱うプラグインの次期バージョンが2023年11月にリリース予定！ランタイムやシネマティック中に動作可能に！",
+          "enclosure": {
+            "url": "https://3dnchu.com/wp-content/uploads/AlterMesh2.webp",
+            "length": "847284",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://3dnchu.com/wp-content/uploads/AlterMesh2.webp"
+        },
+        {
+          "id": "https://3dnchu.com/?p=1033370",
+          "author": "Ymt3D -3dnchu-",
+          "description": "南洋理工大学S-Lab、SenseTime Research、上海AI研究所、東京大学、国際デジタル・エコノミー・アカデミー（IDEA）の研究者達による、単眼カメラ映像から人物の動きを検出する技術『SMPLer-X: Scaling Up Expressive Human Pose and Shape Estimation』のコードが公開されております。NeurIPS 2023 論文",
+          "link": "https://3dnchu.com/archives/smpler-x/",
+          "publishedOn": "2023-10-19T04:20:53.000Z",
+          "wordCount": 7415,
+          "title": "SMPLer-X: Scaling Up Expressive Human Pose and Shape Estimation - 従来より高品質な結果を実現！単眼カメラ映像からの人物の姿勢を検出する技術！NeurIPS 2023！",
+          "enclosure": {
+            "url": "https://3dnchu.com/wp-content/uploads/SMPLer-X.webp",
+            "length": "1068998",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://3dnchu.com/wp-content/uploads/SMPLer-X.webp"
+        },
+        {
           "id": "https://3dnchu.com/?p=1031966",
           "author": "Ymt3D -3dnchu-",
           "description": "Dmitry Karpukhin氏による、Unreal Engine 5 用の空の制御プラグイン「Sky Creator v1.40」がリリースされました。",
@@ -2118,6 +2203,36 @@
       "feedUrl": "https://cgworld.jp/atom.xml",
       "siteUrl": "https://cgworld.jp/",
       "articles": [
+        {
+          "id": "https://cgworld.jp/flashnews/zbrush-summit-2023zbrush-for-ipad.html",
+          "author": null,
+          "description": "「ZBrush for iPad」電撃発表、ユーザーの声や気になる続報は。",
+          "link": "https://cgworld.jp/flashnews/zbrush-summit-2023zbrush-for-ipad.html",
+          "publishedOn": "2023-10-19T06:00:47.000Z",
+          "wordCount": 721,
+          "title": "ZBrush Summit 2023で「ZBrush for iPad」電撃発表、ユーザーの声や気になる続報は......？ - ニュース",
+          "imageUrl": "https://cgworld.jp/flashnews/assets_c/2023/10/01-thumb-1101x544-44842.jpg"
+        },
+        {
+          "id": "https://cgworld.jp/regular/studio-px-seijo.html",
+          "author": null,
+          "description": "",
+          "link": "https://cgworld.jp/regular/studio-px-seijo.html",
+          "publishedOn": "2023-10-19T05:08:17.000Z",
+          "wordCount": 703,
+          "title": "studio PX SEIJO  - 連載",
+          "imageUrl": "https://cgworld.jp/regular/assets_c/2023/09/08_studioPXSEIJO-thumb-1920x1080-43846.jpg"
+        },
+        {
+          "id": "https://cgworld.jp/flashnews/202310-houdini-mas.html",
+          "author": null,
+          "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
+          "link": "https://cgworld.jp/flashnews/202310-houdini-mas.html",
+          "publishedOn": "2023-10-19T01:35:13.000Z",
+          "wordCount": 742,
+          "title": "「Houdini Master Class 2023」開催！スウェーデンEmbark StudiosからHoudiniマスター2名が来日し講演（11/18） - ニュース",
+          "imageUrl": "https://cgworld.jp/flashnews/assets_c/2023/10/houdini_master-thumb-512x288-44839.jpg"
+        },
         {
           "id": "https://cgworld.jp/regular/hibino-vfx-studiostudio-px-hibino.html",
           "author": null,
@@ -3107,6 +3222,16 @@
       "feedUrl": "https://3dtotal.jp/feed/",
       "siteUrl": "https://3dtotal.jp",
       "articles": [
+        {
+          "id": "https://3dtotal.jp/?p=43850",
+          "author": "3dtotal管理人T",
+          "description": "★Getting started with V-Ray for Maya（6分40秒） V-Ray for Maya は初めてですか? 今あなたは絶好の場所にいます! この初心者にやさしいチュートリアルで、魅力的な静止画 […]\nThe post V-Ray for Maya 入門：ユーザーインタフェース（データダウンロード/ ※英語ムービー） first appeared on 3dtotal 日本語オフィシャルサイト.",
+          "link": "https://3dtotal.jp/tutorials/43850/",
+          "publishedOn": "2023-10-19T04:26:12.000Z",
+          "wordCount": 541,
+          "title": "V-Ray for Maya 入門：ユーザーインタフェース（データダウンロード/ ※英語ムービー）",
+          "imageUrl": "https://3dtotal.jp/wp-content/uploads/2023/10/vraymaya_interface_02.jpg"
+        },
         {
           "id": "https://3dtotal.jp/?p=43853",
           "author": "3dtotal管理人T",

@@ -12,6 +12,71 @@
       "siteUrl": "https://cgbox.jp",
       "articles": [
         {
+          "id": "https://cgbox.jp/?p=46493",
+          "author": "Seo",
+          "description": "こんにちは！Unityでゲーム開発をしていると、キャラクターにアニメーションを設定するのは必須ですよね。 ですがいざ設定しようとすると、「ボーン」だとか「Humanoid」といった言葉が急に出てきて困惑した経験があります […]",
+          "link": "https://cgbox.jp/2023/10/31/unity-bone/",
+          "publishedOn": "2023-10-31T05:09:09.000Z",
+          "wordCount": 2275,
+          "title": "【Unity】ボーンを設定して動かす方法【Humanoid】",
+          "imageUrl": "https://cgbox.jp/wp-content/uploads/2023/10/67b56144f58df74a6043a92ea79ab049-1.png"
+        },
+        {
+          "id": "https://cgbox.jp/?p=46714",
+          "author": "Seo",
+          "description": "こんにちは！ノートパソコンでUnityの開発ができたら便利ですよね。 ノートパソコンがあればカフェで作業したり、移動中にも開発作業を進める事ができます。 本記事ではUnityの開発用に使える、ノートパソコンのおすすめを紹 […]",
+          "link": "https://cgbox.jp/2023/10/31/unity-notepc/",
+          "publishedOn": "2023-10-31T05:08:46.000Z",
+          "wordCount": 2154,
+          "title": "Unity用おすすめノートパソコンまとめ【初心者向け】",
+          "imageUrl": "https://cgbox.jp/wp-content/uploads/2023/10/f48cee8517c6f297b8301ac4d2bedcea-1.png"
+        },
+        {
+          "id": "https://cgbox.jp/?p=46491",
+          "author": "Seo",
+          "description": "こんにちは！Unityでのキャラクターの移動方法で困った経験はありませんか？ 移動方法にはいくつか種類があるのでどれを使えばいいか迷ってしまうんですよね。 本記事では、物理挙動が扱えるrigidbodyを使った移動方法に […]",
+          "link": "https://cgbox.jp/2023/10/31/unity-character/",
+          "publishedOn": "2023-10-31T05:08:38.000Z",
+          "wordCount": 2381,
+          "title": "【Unity】キャラクターを動かす移動方法解説【初心者向け】",
+          "imageUrl": "https://cgbox.jp/wp-content/uploads/2023/10/808eff57b6ac0c0e73ec1da2edceabe3.png"
+        },
+        {
+          "id": "https://cgbox.jp/?p=46716",
+          "author": "Seo",
+          "description": "こんにちは！アプリやゲームにボタン機能は必須ですよね。 Unityでは標準機能で簡単にボタンが作れるんです！ 本記事ではボタンにイベントやアニメーションを設定する方法を解説していきます。 onclickでボタンにイベント […]",
+          "link": "https://cgbox.jp/2023/10/31/unity-button/",
+          "publishedOn": "2023-10-31T05:08:24.000Z",
+          "wordCount": 2310,
+          "title": "【Unity】ボタンにイベントやアニメーションを設定する方法",
+          "imageUrl": "https://cgbox.jp/wp-content/uploads/2023/10/f48cee8517c6f297b8301ac4d2bedcea.png"
+        },
+        {
+          "id": "https://cgbox.jp/?p=46489",
+          "author": "Seo",
+          "description": "ゲームを開発していると、効果音を鳴らしたりBGMを再生させたくなりますよね。 Unityでは簡単に音を鳴らす方法が用意されているんです！ 本記事ではUnityでの効果音の鳴らし方、音楽を再生する方法について解説していきま […]",
+          "link": "https://cgbox.jp/2023/10/31/unity-sound/",
+          "publishedOn": "2023-10-31T05:08:00.000Z",
+          "wordCount": 2289,
+          "title": "【Unity】音の鳴らし方・音楽を再生する方法解説",
+          "imageUrl": "https://cgbox.jp/wp-content/uploads/2023/10/67b56144f58df74a6043a92ea79ab049.png"
+        },
+        {
+          "id": "https://cgbox.jp/?p=47678",
+          "author": "kasahara",
+          "description": "こんばんは！ 今回はアドオンの「Moss Biome Ground Scatter」を紹介します。 こちらのリンクから購入することができます。 Moss Biome Ground Scatter コケや枯れ葉をワンクリッ […]",
+          "link": "https://cgbox.jp/2023/10/31/news-addon-moss-biome-ground-scatter/",
+          "publishedOn": "2023-10-31T04:36:10.000Z",
+          "wordCount": 2048,
+          "title": "【アドオン紹介】Moss Biome Ground Scatter – コケをワンクリックで追加",
+          "enclosure": {
+            "url": "https://cgbox.jp/wp-content/uploads/2023/10/IMG_8393_90.mp4",
+            "length": "0",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://cgbox.jp/wp-content/uploads/2023/10/Thumb_BlenderMarket_06_CGT.jpg"
+        },
+        {
           "id": "https://cgbox.jp/?p=47108",
           "author": "UEDA",
           "description": "こんばんは！ 今回は”ChuckCG”さんの動画を紹介します。 How to Create Environments-World Building in Blender Tutorial 「How to Create E […]",
@@ -2268,6 +2333,16 @@
       "feedUrl": "https://cgworld.jp/atom.xml",
       "siteUrl": "https://cgworld.jp/",
       "articles": [
+        {
+          "id": "https://cgworld.jp/regular/202310-rururig-02.html",
+          "author": null,
+          "description": "",
+          "link": "https://cgworld.jp/regular/202310-rururig-02.html",
+          "publishedOn": "2023-10-31T03:11:00.000Z",
+          "wordCount": 850,
+          "title": "第2回：キャラクターを動かすということ - 連載",
+          "imageUrl": "https://cgworld.jp/regular/assets_c/2023/10/3322aa4860221755a5f41c76736256687e350753-thumb-1000x450-45343.png"
+        },
         {
           "id": "https://cgworld.jp/regular/202310-hcbe-002.html",
           "author": null,

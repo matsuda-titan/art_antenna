@@ -12,6 +12,26 @@
       "siteUrl": "https://cgbox.jp",
       "articles": [
         {
+          "id": "https://cgbox.jp/?p=46560",
+          "author": "tyatyarame",
+          "description": "こちらの記事では、VRChatで利用されているボーンの仕組みなどについて解説しています。主にVRChat、もといUnityで扱えるボーン自体の種類について解説していきます。 VRChatで利用されているボーン構造の種類  […]",
+          "link": "https://cgbox.jp/2023/10/31/vrchat-bone-set/",
+          "publishedOn": "2023-10-31T12:52:57.000Z",
+          "wordCount": 2347,
+          "title": "【VRChat】アバターのボーンのセッティングについて解説",
+          "imageUrl": "https://cgbox.jp/wp-content/uploads/2023/10/f8288995851d8c9956a7c90392f44c51.jpg"
+        },
+        {
+          "id": "https://cgbox.jp/?p=46563",
+          "author": "tyatyarame",
+          "description": "こちらの記事では、主にVRChatにおけるアバターの表情はどのような仕組みによって動いているかを解説しています。表情の追加や既存表情の改変の際にも役に立つ内容を記述しているのでしっかりと理解していきましょう。 また、解説 […]",
+          "link": "https://cgbox.jp/2023/10/31/vrchat_facial_check/",
+          "publishedOn": "2023-10-31T12:52:16.000Z",
+          "wordCount": 2302,
+          "title": "【VRChat】表情の仕組みの基本的な部分について解説",
+          "imageUrl": "https://cgbox.jp/wp-content/uploads/2023/10/f8288995851d8c9956a7c90392f44c51-2.jpg"
+        },
+        {
           "id": "https://cgbox.jp/?p=47132",
           "author": "UEDA",
           "description": "こんばんは！ 今回は”Arijan”さんの動画を紹介します。 The BEST WAY to add stitches in Blender (Arijan) 「The BEST WAY to add stitches  […]",
@@ -1505,66 +1525,6 @@
             "type": "video/mp4"
           },
           "imageUrl": "https://cgbox.jp/wp-content/uploads/2023/10/Banner_rebrand.jpg"
-        },
-        {
-          "id": "https://cgbox.jp/?p=44686",
-          "author": "tyatyarame",
-          "description": "こちらの記事ではアニメーションの実装方法、内容はオブジェクトのオンオフとなっている物の実装方法について解説しています。ファイルの作成の点から解説しているので覚えると色々応用できる部分が沢山あります。しっかりと覚えていきま […]",
-          "link": "https://cgbox.jp/2023/10/02/vrchat_object_onoff_explanation/",
-          "publishedOn": "2023-10-02T10:03:14.000Z",
-          "wordCount": 2527,
-          "title": "【VRChat】オブジェクトのオンオフアニメーションの実装について解説",
-          "imageUrl": "https://cgbox.jp/wp-content/uploads/2023/09/samune_2.jpg"
-        },
-        {
-          "id": "https://cgbox.jp/?p=45399",
-          "author": "UEDA",
-          "description": "こんばんは！ 今回は”Owen Jenkins”さんの動画を紹介します。 4 Ways to Make Fluid Look Like Houdini in Blender! 「4 Ways to Make Fluid  […]",
-          "link": "https://cgbox.jp/2023/10/02/news-tutorial-4waystomakefluidlooklikehoudini/",
-          "publishedOn": "2023-10-02T09:00:00.000Z",
-          "wordCount": 2160,
-          "title": "【チュートリアル紹介】不思議な気泡アニメーションの作り方！",
-          "imageUrl": "https://cgbox.jp/wp-content/uploads/2023/09/sddefault-1-1.jpg"
-        },
-        {
-          "id": "https://cgbox.jp/?p=43962",
-          "author": "LIOK",
-          "description": "Smartify Nodes Trailer Smartify Nodes Tutrial ドラック＆ドロップでマテリアルにスマートマテリアルを追加できるアドオン。 Smartify Nodes PBR（Physical […]",
-          "link": "https://cgbox.jp/2023/10/02/menber-smartify-nodes/",
-          "publishedOn": "2023-10-02T07:35:18.000Z",
-          "wordCount": 2026,
-          "title": "【メンバー投稿】Smartify Nodes – 色んなスマートマテリアルパック",
-          "enclosure": {
-            "url": "https://cgbox.jp/wp-content/uploads/2023/10/1000x250_dragdrop_02a-1.mp4",
-            "length": "0",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://cgbox.jp/wp-content/uploads/2023/09/STORE_FRONT_IMAGE.jpg"
-        },
-        {
-          "id": "https://cgbox.jp/?p=45515",
-          "author": "kasahara",
-          "description": "こんばんは！ 今回は”Grant Abbitt”さんの動画を紹介します。 5 Advanced Material Node Tips for Blender この動画では、Blenderのマテリアルノードを使った5つの高 […]",
-          "link": "https://cgbox.jp/2023/10/02/news-tutrial-5-advanced-material-node-tips-for-blender/",
-          "publishedOn": "2023-10-02T05:24:59.000Z",
-          "wordCount": 2007,
-          "title": "【チュートリアル紹介】マテリアル作成に関する5つのTips",
-          "enclosure": {
-            "url": "https://cgbox.jp/wp-content/uploads/2023/10/IMG_8393_19.mp4",
-            "length": "0",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://cgbox.jp/wp-content/uploads/2023/10/maxresdefault-15.jpg"
-        },
-        {
-          "id": "https://cgbox.jp/?p=45507",
-          "author": "kasahara",
-          "description": "こんばんは！ 今回はアドオンの「Welder」を紹介します。 こちらのリンクから購入することができます。 Welder ワンクリックでオブジェクト同士を接着することができるアドオン。 2つのobjectを選択してボタンを […]",
-          "link": "https://cgbox.jp/2023/10/02/news-addon-welder/",
-          "publishedOn": "2023-10-02T05:13:38.000Z",
-          "wordCount": 2023,
-          "title": "【アドオン紹介】Welder – オブジェクト同士を自然に接着",
-          "imageUrl": "https://cgbox.jp/wp-content/uploads/2023/10/image_processing20191220-4-16z545h.jpg"
         }
       ]
     },
@@ -1591,6 +1551,21 @@
       "feedUrl": "https://3dnchu.com/feed/",
       "siteUrl": "https://3dnchu.com",
       "articles": [
+        {
+          "id": "https://3dnchu.com/?p=1007585",
+          "author": "Ymt3D -3dnchu-",
+          "description": "ノードベースのツールでプロシージャルな作品を見せ合うお祭り「Nodevember」が今年も開催！ ハッシュタグは #nodevember #nodevember2023",
+          "link": "https://3dnchu.com/archives/nodevember-2023/",
+          "publishedOn": "2023-10-31T15:21:04.000Z",
+          "wordCount": 7223,
+          "title": "Nodevember 2023 - 11月恒例のノードベースで構築するプロシージャルマテリアル祭りが開催！2日毎のお題に沿った作品をハッシュタグを添えて投稿！",
+          "enclosure": {
+            "url": "https://3dnchu.com/wp-content/uploads/Nodevember-2023-prompt-list-days-1-2-Gorgeous-Garden-3-4-Arcad.jpg",
+            "length": "42067",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://3dnchu.com/wp-content/uploads/Nodevember-2023-prompt-list-days-1-2-Gorgeous-Garden-3-4-Arcad.jpg"
+        },
         {
           "id": "https://3dnchu.com/?p=1033843",
           "author": "Ymt3D -3dnchu-",
@@ -2295,51 +2270,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "https://3dnchu.com/wp-content/uploads/CGWORLD-JAM-ONLINE-2023.jpg"
-        },
-        {
-          "id": "https://3dnchu.com/?p=1032909",
-          "author": "Ymt3D -3dnchu-",
-          "description": "MaxonはZBrush Summit 2023の3日目の動画配信にて、『ZBrush for iPad』を発表しました。2024年リリース予定です。",
-          "link": "https://3dnchu.com/archives/zbrush-for-ipad-zbsummit2023/",
-          "publishedOn": "2023-10-02T11:10:18.000Z",
-          "wordCount": 7204,
-          "title": "ZBrush for iPad - Maxonの3Dスカルプトソフト『ZBrush』のiPad版が突如発表！2024年リリース予定！ZBrush Summit 2023",
-          "enclosure": {
-            "url": "https://3dnchu.com/wp-content/uploads/ZBrushForiPad-Announce.webp",
-            "length": "207824",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://3dnchu.com/wp-content/uploads/ZBrushForiPad-Announce.webp"
-        },
-        {
-          "id": "https://3dnchu.com/?p=1032859",
-          "author": "Ymt3D -3dnchu-",
-          "description": "CGアーティストのKei Kanamori氏による道と流体シミュレーションを融合させたフルCGの映像作品『舞』が公開されています。",
-          "link": "https://3dnchu.com/archives/mai-kei_kanamori/",
-          "publishedOn": "2023-10-02T06:53:22.000Z",
-          "wordCount": 7315,
-          "title": "\"舞\" | Japanese Calligraphy × Fluid Sim - 書道と流体シミュレーションを融合させたフルCGの映像作品！",
-          "enclosure": {
-            "url": "https://3dnchu.com/wp-content/uploads/mai-kei_kanamori.webp",
-            "length": "701854",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://3dnchu.com/wp-content/uploads/mai-kei_kanamori.webp"
-        },
-        {
-          "id": "https://3dnchu.com/?p=1032833",
-          "author": "Ymt3D -3dnchu-",
-          "description": "キャラモデラーHIRO JAPAN氏制作の「フリーレン」3Dモデルを使い18名のアニメーターたちが動きをつけたファンメイドムービー『葬送のフリーレン アニメ公開記念ファンムービー』が公開！",
-          "link": "https://3dnchu.com/archives/frieren-beyond-journeys-end-hiro-movie/",
-          "publishedOn": "2023-10-02T01:11:19.000Z",
-          "wordCount": 7304,
-          "title": "葬送のフリーレン アニメ公開記念ファンムービー - キャラモデラーHIRO JAPAN氏制作のフリーレン3Dモデルに18名のアニメーターが動きをつけたファンメイドムービー！",
-          "enclosure": {
-            "url": "https://3dnchu.com/wp-content/uploads/frieren-beyond-journeys-end-hiro-movie.webp",
-            "length": "696680",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://3dnchu.com/wp-content/uploads/frieren-beyond-journeys-end-hiro-movie.webp"
         }
       ]
     },
@@ -3007,46 +2937,6 @@
           "wordCount": 676,
           "title": "鹿児島市への移住検討者向け「UIJターントークイベント　クリエイター×ローカルの新しいワークスタイル」を10月5日（木）に東京で開催 - ニュース",
           "imageUrl": "https://cgworld.jp/flashnews/assets_c/2023/10/558de8786c4082975d25b61cb2aedeebcaa0b6d8-thumb-1482x820-44230.jpg"
-        },
-        {
-          "id": "https://cgworld.jp/flashnews/2310-cgwcc2023-news-02.html",
-          "author": null,
-          "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
-          "link": "https://cgworld.jp/flashnews/2310-cgwcc2023-news-02.html",
-          "publishedOn": "2023-10-02T11:08:52.000Z",
-          "wordCount": 688,
-          "title": "［お知らせ］CGWORLDクリエイティブカンファレンス、今年の基調講演はトンコハウス堤大介氏に決定！そのほか新たに11セッションが公開！ - ニュース",
-          "imageUrl": "https://cgworld.jp/flashnews/assets_c/2023/10/cgwcc2023_news_02-thumb-1920x1080-44219.jpg"
-        },
-        {
-          "id": "https://cgworld.jp/flashnews/mouse-ada6000-202310.html",
-          "author": null,
-          "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
-          "link": "https://cgworld.jp/flashnews/mouse-ada6000-202310.html",
-          "publishedOn": "2023-10-02T07:37:24.000Z",
-          "wordCount": 715,
-          "title": "マウスのクリエイターPC「DAIV」にRTX 6000 Ada世代×2の最新モデルが追加！　AI＆機械学習、Omniverseなどの活用に最適 - ニュース",
-          "imageUrl": "https://cgworld.jp/flashnews/assets_c/2023/10/gallery06_daiv_fw_m-thumb-800x800-44179.jpg"
-        },
-        {
-          "id": "https://cgworld.jp/flashnews/Toraji.html",
-          "author": null,
-          "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
-          "link": "https://cgworld.jp/flashnews/Toraji.html",
-          "publishedOn": "2023-10-02T05:21:10.000Z",
-          "wordCount": 697,
-          "title": "『Toraji作品集+キャラクター造形テクニック』発売記念! 実力派アーティストTorajiによる 特別オンラインセミナーが10/28(土）に開催！ - ニュース",
-          "imageUrl": "https://cgworld.jp/flashnews/assets_c/2023/10/b821611c3560788554299af1de9186d0702af518-thumb-1920x1080-44175.jpg"
-        },
-        {
-          "id": "https://cgworld.jp/regular/088-hirano.html",
-          "author": null,
-          "description": "カナダFramestoreでSenior Animatorとして活躍する平野崇伸氏を紹介。",
-          "link": "https://cgworld.jp/regular/088-hirano.html",
-          "publishedOn": "2023-10-02T01:30:00.000Z",
-          "wordCount": 722,
-          "title": "「キャラクターが生きてるように動いたときの感動が、今につながっています」第88回：平野崇伸（Framestore Montreal / Senior Animator） - 連載",
-          "imageUrl": "https://cgworld.jp/regular/assets_c/2023/09/83c72ca817206dfacf935ea9e1973ea29a322648-thumb-2072x1336-43683.jpg"
         }
       ]
     },
@@ -3101,6 +2991,16 @@
       "feedUrl": "https://modelinghappy.com/feed",
       "siteUrl": "https://modelinghappy.com",
       "articles": [
+        {
+          "id": "https://modelinghappy.com/?p=53030",
+          "author": "modelinghappy",
+          "description": "MLT StudiosさんがBlenderを使用してサブディビジョンサーフェースとしてモデルを作成する場合にどのようにトポロジーを作成したら良いのか7つのポイントにまとめた動画を公開しています。 Blenderの機能だか\nThe post 綺麗なモデルはどのように作るのか？7つの例を参考にトポロジーの流れを教えてくれる動画が公開 first appeared on 3DCG最新情報サイト MODELING HAPPY.",
+          "link": "https://modelinghappy.com/archives/53030",
+          "publishedOn": "2023-10-31T14:14:13.000Z",
+          "wordCount": 3394,
+          "title": "綺麗なモデルはどのように作るのか？7つの例を参考にトポロジーの流れを教えてくれる動画が公開",
+          "imageUrl": "https://modelinghappy.com/wp-content/uploads/2023/10/20231031_topology_00.jpg"
+        },
         {
           "id": "https://modelinghappy.com/?p=53020",
           "author": "modelinghappy",
@@ -3907,16 +3807,6 @@
           "wordCount": 582,
           "title": "ZBrush のプレミアイベント ZBrush Summit 2023 の録画映像",
           "imageUrl": "https://3dtotal.jp/wp-content/uploads/2023/10/zbsummit23.jpg"
-        },
-        {
-          "id": "https://3dtotal.jp/?p=43579",
-          "author": "3dtotal管理人T",
-          "description": "★3D Printing with Substance 3D Modeler（6分21秒） Substance 3D Modeler、3Dプリント、または その両方が初めての方に おすすめの映像です! この映像では、一般 […]\nThe post Substance 3D Modeler を使った3Dプリント（※英語ムービー） first appeared on 3dtotal 日本語オフィシャルサイト.",
-          "link": "https://3dtotal.jp/tutorials/43579/",
-          "publishedOn": "2023-10-02T06:53:35.000Z",
-          "wordCount": 529,
-          "title": "Substance 3D Modeler を使った3Dプリント（※英語ムービー）",
-          "imageUrl": "https://3dtotal.jp/wp-content/uploads/2023/10/smodeler_3dprint.jpg"
         }
       ]
     }

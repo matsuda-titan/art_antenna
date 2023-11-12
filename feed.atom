@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-12T03:07:28.837Z</updated>
+    <updated>2023-11-12T08:08:51.000Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【チュートリアル紹介】3種類のスライスの方法を解説]]></title>
+        <id>https://cgbox.jp/?p=48176</id>
+        <link href="https://cgbox.jp/2023/11/12/news-tutrial-3-ways-to-slice-objects/"/>
+        <updated>2023-11-12T06:41:46.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは！ 今回は”Blender Secrets”さんの動画を紹介します。 3 ways to Slice Objects オブジェクトをスライスする方法を3種類紹介しております。 ブーリアンのスライスは見たことあり […]]]></summary>
+        <author>
+            <name>kasahara</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Substance Painter Live Link BlenderとSubstance 3D Painterを連携させて１ボタンで行き来出来るようになるツールのインストール方法と使い方]]></title>
         <id>https://modelinghappy.com/?p=53225</id>
@@ -3012,17 +3022,6 @@ The post modelsend 3Dモデルをwebサイトにアップロードする事で�
         <summary type="html"><![CDATA[こんばんは！ 今回はアドオンの「Lego Everything 」を紹介します。 こちらのリンクから購入することができます。 Lego Everything オブジェクトをレゴに変更することができるジオメトリノード。 レ […]]]></summary>
         <author>
             <name>kasahara</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Paint-Over Tool BlenderだけでUV上にベジエカーブを描く事で手書き風表現するジオメトリーノードデータが無料配布中]]></title>
-        <id>https://modelinghappy.com/?p=52776</id>
-        <link href="https://modelinghappy.com/archives/52776"/>
-        <updated>2023-10-13T16:41:44.000Z</updated>
-        <summary type="html"><![CDATA[Curve Painter Geometry Nodes #8211; Paint-Over Tool FFuthoni氏がBlenderでベジエカーブとジオメトリーノードを使用して、法線マップを疑似的にベジエカーブで
-The post Paint-Over Tool BlenderだけでUV上にベジエカーブを描く事で手書き風表現するジオメトリーノードデータが無料配布中 first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
-        <author>
-            <name>modelinghappy</name>
         </author>
     </entry>
 </feed>

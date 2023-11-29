@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-29T00:35:13.840Z</updated>
+    <updated>2023-11-29T03:07:52.703Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[第4回：エンジン改造入門＆シェーディングモデルの追加 - 連載]]></title>
+        <id>https://cgworld.jp/regular/202311-ue5toon-04.html</id>
+        <link href="https://cgworld.jp/regular/202311-ue5toon-04.html"/>
+        <updated>2023-11-29T02:14:00.000Z</updated>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【チュートリアル紹介】ローポリを美しくレンダリングしよう！]]></title>
         <id>https://cgbox.jp/?p=48601</id>
@@ -2813,28 +2822,6 @@ The post 日本人講師Ksmtk79さんがクリップスタジオとBlenderを使
         <summary type="html"><![CDATA[3Danによる、オブジェクトに簡単にスミアエフェクトを追加できるBlenderアドオン『Autosmear』のv2がリリースされていました。一応無料版もあるようです。]]></summary>
         <author>
             <name>Ymt3D -3dnchu-</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[自動リトポロジーツールQuadremesherを使用して綺麗に作成する方法と注意点をまとめた動画]]></title>
-        <id>https://modelinghappy.com/?p=53008</id>
-        <link href="https://modelinghappy.com/archives/53008"/>
-        <updated>2023-10-30T14:46:17.000Z</updated>
-        <summary type="html"><![CDATA[多角形モデルを四角形にRmeshしてくれる便利なアドオンQuad Remesherですが、使うには少しコツがある事を説明してくれている動画がCG Thoughtsさんのyoutubeチャンネルで公開されています。 動画で
-The post 自動リトポロジーツールQuadremesherを使用して綺麗に作成する方法と注意点をまとめた動画 first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
-        <author>
-            <name>modelinghappy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[after-effects-to-blender-export After Effectsで作成した3Dカメラトラッカー機能のトラッキング情報をBlender側に読み込める無料アドオンとプラグイン]]></title>
-        <id>https://modelinghappy.com/?p=53003</id>
-        <link href="https://modelinghappy.com/archives/53003"/>
-        <updated>2023-10-30T13:51:34.000Z</updated>
-        <summary type="html"><![CDATA[adroitwhiz/after-effects-to-blender-export After Effectsの3Dカメラトラッカー機能は簡単に動画のトラッキング情報を取得する事ができますが、その情報をエクスポートして
-The post after-effects-to-blender-export After Effectsで作成した3Dカメラトラッカー機能のトラッキング情報をBlender側に読み込める無料アドオンとプラグイン first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
-        <author>
-            <name>modelinghappy</name>
         </author>
     </entry>
 </feed>

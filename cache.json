@@ -12,6 +12,26 @@
       "siteUrl": "https://cgbox.jp",
       "articles": [
         {
+          "id": "https://cgbox.jp/?p=48546",
+          "author": "Seo",
+          "description": "こんにちは！Unityで開発を進めていると、だんだんと動作が重くなってきた経験がありませんか？ 動作が重いとストレスが溜まりますし、できるだけ快適に開発したいですよね。 そこで本記事では、そんなUnityが重いときの原因 […]",
+          "link": "https://cgbox.jp/2023/12/04/unity-optimizer/",
+          "publishedOn": "2023-12-03T17:14:30.000Z",
+          "wordCount": 2306,
+          "title": "Unityが重いときの原因・最適化して改善する方法解説！",
+          "imageUrl": "https://cgbox.jp/wp-content/uploads/2023/11/2185be552eca780b38c3f621b6937d97.png"
+        },
+        {
+          "id": "https://cgbox.jp/?p=49142",
+          "author": "Seo",
+          "description": "こんにちは！Unityでキャラクターにアニメーションを設定したのはいいけど、上手く動かない…という経験をしたことがありませんか？ アニメーションが全く動かなかったり、位置がずれたりとなにかとつまずきやすいところですよね。 […]",
+          "link": "https://cgbox.jp/2023/12/03/unity-animation-faq/",
+          "publishedOn": "2023-12-03T12:16:06.000Z",
+          "wordCount": 2414,
+          "title": "【Unity】アニメーションが上手く動かない時の解決方法",
+          "imageUrl": "https://cgbox.jp/wp-content/uploads/2023/11/fe14702290c7d412e42d6bb61e27aa42.png"
+        },
+        {
           "id": "https://cgbox.jp/?p=49708",
           "author": "kasahara",
           "description": "こんばんは！ 今回は”crzyzhaa”さんの動画を紹介します。 Master Studio Ghibli Foods in Blender in 23 Minutes スタジオジブリの映像を参考にして食べ物の3Dモデル […]",
@@ -1175,31 +1195,6 @@
             "type": "video/mp4"
           },
           "imageUrl": "https://cgbox.jp/wp-content/uploads/2023/11/maxresdefault-39.jpg"
-        },
-        {
-          "id": "https://cgbox.jp/?p=47697",
-          "author": "UEDA",
-          "description": "こんばんは！ 今回は”CGMatter”さんの動画を紹介します。 Flying Bird Animation – BLENDER 3D Tutorial 「Flying Bird Animation R […]",
-          "link": "https://cgbox.jp/2023/11/04/news-tutorial-flyingbirdanimation/",
-          "publishedOn": "2023-11-04T09:00:00.000Z",
-          "wordCount": 2124,
-          "title": "【チュートリアル紹介】飛ぶ鳥のアニメーションの簡単な作り方！",
-          "enclosure": {
-            "url": "https://cgbox.jp/wp-content/uploads/2023/10/62b946f2-403e-4bef-bdce-15269b2d1cef.mp4",
-            "length": "0",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://cgbox.jp/wp-content/uploads/2023/10/maxresdefault-1-13.jpg"
-        },
-        {
-          "id": "https://cgbox.jp/?p=47875",
-          "author": "kasahara",
-          "description": "こんばんは！ 今回はアドオンの「Shaders Plus」を紹介します。 こちらのリンクから購入することができます。 Shaders Plus コースティックや薄膜干渉など、オブジェクトに光が当たったときの表現をより魅力 […]",
-          "link": "https://cgbox.jp/2023/11/04/news-addon-shaders-plus/",
-          "publishedOn": "2023-11-04T06:01:48.000Z",
-          "wordCount": 2078,
-          "title": "【アセット紹介】Shaders Plus – 光の表現をより魅力的に再現！",
-          "imageUrl": "https://cgbox.jp/wp-content/uploads/2023/11/Main-Caustics-Product-Image_Blendermarket-CROPPED.jpg"
         }
       ]
     },
@@ -1226,6 +1221,21 @@
       "feedUrl": "https://3dnchu.com/feed/",
       "siteUrl": "https://3dnchu.com",
       "articles": [
+        {
+          "id": "https://3dnchu.com/?p=1035164",
+          "author": "Ymt3D -3dnchu-",
+          "description": "CGモデラー＆YouTuberの前東 勇次（Yuji Maehigashi）氏と、海外で活躍するCGアーティストらによるCGコンテスト「三次元無双」の結果発表動画が公開されました！",
+          "link": "https://3dnchu.com/archives/sanjigenmusou-higacg-result/",
+          "publishedOn": "2023-12-03T14:54:41.000Z",
+          "wordCount": 7318,
+          "title": "三次元無双 静止画部門＆動画部門 結果発表！業界3年目までの若手アーティスト向けCGコンテストの結果発表ライブ配信映像が公開！",
+          "enclosure": {
+            "url": "https://3dnchu.com/wp-content/uploads/1035164.jpg",
+            "length": "90008",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://3dnchu.com/wp-content/uploads/1035164.jpg"
+        },
         {
           "id": "https://3dnchu.com/?p=1035172",
           "author": "Ymt3D -3dnchu-",
@@ -2415,6 +2425,16 @@
       "feedUrl": "https://modelinghappy.com/feed",
       "siteUrl": "https://modelinghappy.com",
       "articles": [
+        {
+          "id": "https://modelinghappy.com/?p=53831",
+          "author": "modelinghappy",
+          "description": "BlenderHQ/camera_projection_painter Vlad Eriumさんが長い年月をかけて作成した、Blenderで写真スキャンと写真測量を操作するためのBlender用アドオンが公開されました。\nThe post camera_projection_painter Reality Captureで作成したデータをBlenderに取り込みクローンブラシを使用してテクスチャを調整出来るベータ版アドオン first appeared on 3DCG最新情報サイト MODELING HAPPY.",
+          "link": "https://modelinghappy.com/archives/53831",
+          "publishedOn": "2023-12-04T00:11:13.000Z",
+          "wordCount": 3425,
+          "title": "camera_projection_painter Reality Captureで作成したデータをBlenderに取り込みクローンブラシを使用してテクスチャを調整出来るベータ版アドオン",
+          "imageUrl": "https://modelinghappy.com/wp-content/uploads/2023/12/20231204_CameraProjectionPainter_00.jpg"
+        },
         {
           "id": "https://modelinghappy.com/?p=53822",
           "author": "modelinghappy",

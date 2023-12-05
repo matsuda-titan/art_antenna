@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-12-04T12:13:28.035Z</updated>
+    <updated>2023-12-05T00:35:43.936Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[LightIt Beta - Maya＆Arnoldでのライティングワークフローを支援するツールスクリプト！ベータ版が公開！スタジオライティング用コンポーネントやHDRIライブラリ管理などを搭載！]]></title>
+        <id>https://3dnchu.com/?p=1035246</id>
+        <link href="https://3dnchu.com/archives/lightit-beta/"/>
+        <updated>2023-12-04T21:25:36.000Z</updated>
+        <summary type="html"><![CDATA[数多くのMayaツールを公開しているWizixから、ライティングワークフローを支援してくれるツールスクリプト『LightIt』のベータ版がリリースされました！]]></summary>
+        <author>
+            <name>Ymt3D -3dnchu-</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【メンバー投稿】Crowdrender addon – Blender 4.0用にアップデート！]]></title>
         <id>https://cgbox.jp/?p=49646</id>
@@ -269,6 +279,16 @@ The post Flowify 平面上に用意したモデルを曲面のある複雑な形
 The post Material palette１枚の写真からパターン化したテクスチャのあるPBRマテリアルを抽出してくれる論文が公開 first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
         <author>
             <name>modelinghappy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JO1 が歌う『WOW WAR TONIGHT〜時には起こせよムーヴメント (JO1 ver.)』が課題曲に︕　　『JAPAN VERTICAL MV CONTEST 2023 Powered by TikTok｜⽇テレ』 が開催決定!! - ニュース]]></title>
+        <id>https://cgworld.jp/flashnews/tiktok-ntv-231201.html</id>
+        <link href="https://cgworld.jp/flashnews/tiktok-ntv-231201.html"/>
+        <updated>2023-12-01T09:30:35.000Z</updated>
+        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
+        <author>
+            <name>CGWORLD</name>
         </author>
     </entry>
     <entry>
@@ -2878,57 +2898,6 @@ The post Blenderだけでクロスシミュレーションを使用してリア�
         <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
         <author>
             <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【チュートリアル紹介】VRoid Studio&Blenderでキャラモデリングしよう！]]></title>
-        <id>https://cgbox.jp/?p=47710</id>
-        <link href="https://cgbox.jp/2023/11/05/news-tutorial-facehairmaking/"/>
-        <updated>2023-11-05T09:00:00.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは！ 今回は”湊リオ”さんの動画を紹介します。 【VRoid Studio & Blender】顔と髪の毛の制作【making】 「【VRoid Studio & Blender】顔と髪の毛の制作 […]]]></summary>
-        <author>
-            <name>UEDA</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【メンバーシップ投稿】Chain Generator Pro – カーブからチェーンを生成]]></title>
-        <id>https://cgbox.jp/?p=46885</id>
-        <link href="https://cgbox.jp/2023/11/05/member-chain-generator-pro/"/>
-        <updated>2023-11-05T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[「Chain Generator【Pro】」は、フォトリアルなチェーンを簡単に生成できるアセットです。 カーブからチェーンを生成するジオメトリノードに加え、60種類のチェーンパーツ、20種類の高品質なマテリアルがセットに […]]]></summary>
-        <author>
-            <name>ClaroCGteam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【アドオン】Car Library – 車に関するアセットパック]]></title>
-        <id>https://cgbox.jp/?p=47956</id>
-        <link href="https://cgbox.jp/2023/11/05/news-addon-car-library/"/>
-        <updated>2023-11-05T06:33:36.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは！ 今回はアドオンの「Car Library」を紹介します。 こちらのリンクから購入することができます。 Car Library 車に関するアセットパック。 車の種類は数十種類用意されており、このアセット内では […]]]></summary>
-        <author>
-            <name>kasahara</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【チュートリアル紹介】バスケットボールを作成]]></title>
-        <id>https://cgbox.jp/?p=47952</id>
-        <link href="https://cgbox.jp/2023/11/05/news-tutrial-model-a-basketball-in-blender/"/>
-        <updated>2023-11-05T06:14:34.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは！ 今回は”3Dnot2D”さんの動画を紹介します。 Model a Basketball in Blender バスケットボールを作成する動画。 ミラーやサブディビジョンを駆使しながら効率的にバスケットボール […]]]></summary>
-        <author>
-            <name>kasahara</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MOTION GPT 入力した文章通りのアニメーションをAIが自動作成してくれるサービスが公開されます]]></title>
-        <id>https://modelinghappy.com/?p=53105</id>
-        <link href="https://modelinghappy.com/archives/53105"/>
-        <updated>2023-11-05T01:45:43.000Z</updated>
-        <summary type="html"><![CDATA[MOTION GPT 撮影した動画からモーショントラッキングデータを作成してくれたりするサービスを展開しているDEEPMOTIONが、Generative AIプラットフォームを使用して、テキストプロンプトを入力するだけ
-The post MOTION GPT 入力した文章通りのアニメーションをAIが自動作成してくれるサービスが公開されます first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
-        <author>
-            <name>modelinghappy</name>
         </author>
     </entry>
 </feed>

@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-12-19T12:13:11.955Z</updated>
+    <updated>2023-12-20T00:28:26.901Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Maya Python3でインテリセンスを効かせたい]]></title>
+        <id>https://unpyside.com/?p=2114</id>
+        <link href="https://unpyside.com/blog/2023/12/20/maya-python-intellisense/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=maya-python-intellisense"/>
+        <updated>2023-12-19T15:00:15.000Z</updated>
+        <summary type="html"><![CDATA[この記事はMaya Advent Calendar 2023の20日目の記事です この記事ではMayaCommandのスタブファイルを作成についての流れを紹介します コードをすべて紹介するにはコードの数が多すぎるため、か […]]]></summary>
+        <author>
+            <name>ringosan</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【アドオン紹介】Light Trails Generator – 光の軌跡を簡単生成]]></title>
         <id>https://cgbox.jp/?p=50514</id>
@@ -583,6 +593,17 @@ The post krea ai Blenderで作ったモデルをリアルタイムに画面共�
 The post Quick Attach | Transfer Weight Blenderで１クリックでスキンウェイトとトランスファーウェイトをリグを使用してるモデルにアタッチ出来る無料アドオン first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
         <author>
             <name>modelinghappy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[スクリプトでAnimCurveをフィルタリング！]]></title>
+        <id>https://3d.crdg.jp/tech/?p=3801</id>
+        <link href="https://3d.crdg.jp/tech/archives/3801"/>
+        <updated>2023-12-13T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[おはこんばんちわTAチームリーダーの山本です。 この記事はMayaアドベントカレンダー2023の14日目の記事です。https://qiita.com/advent-calendar/2023/maya 今回はアニメータ...
+投稿 スクリプトでAnimCurveをフィルタリング！ は TECH-COYOTE に最初に表示されました。]]></summary>
+        <author>
+            <name>yamamoto tomohito</name>
         </author>
     </entry>
     <entry>
@@ -2873,66 +2894,6 @@ The post Free Future Scratch Sci-Fi Sketches 170種類以上のモデルがUV展
 The post Stylized Tree And Plants Library Flora Paint アニメや漫画にコンセプトアート等に使える500種類以上の木や草などのBlneder用背景用アセット first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
         <author>
             <name>modelinghappy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【チュートリアル紹介】髪のデフォルメデザインのコツ！]]></title>
-        <id>https://cgbox.jp/?p=48219</id>
-        <link href="https://cgbox.jp/2023/11/20/news-tutorial-hair/"/>
-        <updated>2023-11-20T09:00:00.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは！ 今回は”hide channel【顔と体の描き方講座】”さんの動画を紹介します。 髪をうまく描くための基本知識「ブロッキング」とは？ 「髪をうまく描くための基本知識「ブロッキング」とは？」では、髪の描画にお […]]]></summary>
-        <author>
-            <name>UEDA</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【アセット紹介】 Flora Paint – アニメ風植物アセットライブラリ]]></title>
-        <id>https://cgbox.jp/?p=48433</id>
-        <link href="https://cgbox.jp/2023/11/20/news-assets-flora-paint/"/>
-        <updated>2023-11-20T06:42:35.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは！ 今回は 「Flora Paint」 を紹介します。 Flora Paint このアセットはアニメ風・漫画風の植物アセットライブラリ。 種類は500種類以上あり、背の高い木から雑草・花まで色んなアセットが用意 […]]]></summary>
-        <author>
-            <name>kasahara</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【チュートリアル紹介】Blender4.0のドーナツチュートリアル]]></title>
-        <id>https://cgbox.jp/?p=48428</id>
-        <link href="https://cgbox.jp/2023/11/20/news-tutrial-blender-4-0-for-complete-beginners-tutorial/"/>
-        <updated>2023-11-20T06:30:46.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは！ 今回は”Blender Guru”さんの動画を紹介します。 Blender 4.0 for Complete Beginners Tutorial 有名なGuruさんのドーナツチュートリアルBlender4 […]]]></summary>
-        <author>
-            <name>kasahara</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【メンバー投稿】Blocksurfaces – スカルプティング・基本的な形状を作成]]></title>
-        <id>https://cgbox.jp/?p=48294</id>
-        <link href="https://cgbox.jp/2023/11/20/member-blocksurfaces03/"/>
-        <updated>2023-11-20T06:29:00.000Z</updated>
-        <summary type="html"><![CDATA[複雑な形状を単純化する技法 アーティストは長い間、複雑な形状をより基本的な図形に簡略化する技法を使用してきました。 この簡略化は、描画や彫刻において、比率や空間、部品間の関係性をより良く理解するために行われます。 初心者 […]]]></summary>
-        <author>
-            <name>kasahara</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I remade Spirited Away... but in Blender - 『千と千尋の神隠し』の一部シーンをBlenderのみで再現するプロセスを紹介した動画！]]></title>
-        <id>https://3dnchu.com/?p=1034665</id>
-        <link href="https://3dnchu.com/archives/noggi-remade-blender-anime/"/>
-        <updated>2023-11-20T05:43:46.000Z</updated>
-        <summary type="html"><![CDATA[ストリーマーでコンテンツクリエイターのNoggi氏が、ジブリ映画『千と千尋の神隠し』のカットをBlenderで再現する試みを紹介した動画を公開しています。]]></summary>
-        <author>
-            <name>Ymt3D -3dnchu-</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[&quot;実在感&quot;のあるルックでキャラクターを魅力的に見せる『ファイアーエムブレム エンゲージ』 - 特集]]></title>
-        <id>https://cgworld.jp/article/202311-cgw303-fee.html</id>
-        <link href="https://cgworld.jp/article/202311-cgw303-fee.html"/>
-        <updated>2023-11-20T01:54:00.000Z</updated>
-        <summary type="html"><![CDATA[『ファイアーエムブレム エンゲージ』のメイキングを紹介。]]></summary>
-        <author>
-            <name>CGWORLD</name>
         </author>
     </entry>
 </feed>

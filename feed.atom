@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-12-26T12:12:23.452Z</updated>
+    <updated>2023-12-27T00:33:34.917Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【チュートリアル紹介】写真からナイフを作成する動画]]></title>
+        <id>https://cgbox.jp/?p=50225</id>
+        <link href="https://cgbox.jp/2023/12/27/news-tutrial-how-i-make-money-with-blender/"/>
+        <updated>2023-12-26T17:10:31.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは！ 今回は”Aryan”さんの動画を紹介します。 How I make Money with Blender 動画では、Blenderを使用してナイフのモデリングから完成までのプロセスが説明されています。 この […]]]></summary>
+        <author>
+            <name>kasahara</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【チュートリアル紹介】ノードでリアルな布マテリアルを作ろう！]]></title>
         <id>https://cgbox.jp/?p=50767</id>
@@ -2887,68 +2897,6 @@ The post SimpleCut Blenderで指定場所に穴を開けたりサイズ指定し
 The post Unreal Engine5を使用して個人でフルタイムの仕事をしながら400時間掛けて作られたジブリ風ゼルダの伝説のアニメーション映像が公開 first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
         <author>
             <name>modelinghappy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【チュートリアル紹介】目玉焼き調理のアニメーション作成！]]></title>
-        <id>https://cgbox.jp/?p=48536</id>
-        <link href="https://cgbox.jp/2023/11/27/news-tutorial-howlsmovingcastleeggsanimation/"/>
-        <updated>2023-11-27T09:00:00.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは！ 今回は”crzyzhaa”さんの動画を紹介します。 [tutorial] Howls Moving Castle eggs animation in blender 「[tutorial] Howls Mo […]]]></summary>
-        <author>
-            <name>UEDA</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Blender Board Blender内に画像を読み込みリファレンスとして表示して置けるアドオン]]></title>
-        <id>https://modelinghappy.com/?p=53734</id>
-        <link href="https://modelinghappy.com/archives/53734"/>
-        <updated>2023-11-27T07:41:50.000Z</updated>
-        <summary type="html"><![CDATA[Blender Board Blender BoardはFR3NKDさんが作成した、Blender内のパネルに直接画像を読み込みリファレンスとして常に表示しておけるアドオンです。 リファレンスとテクスチャは１つの.Ble
-The post Blender Board Blender内に画像を読み込みリファレンスとして表示して置けるアドオン first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
-        <author>
-            <name>modelinghappy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[キーノート＆寄りすぐりのセッション。イベント「Adobe MAX Japan 2023」の講演映像]]></title>
-        <id>https://3dtotal.jp/?p=44268</id>
-        <link href="https://3dtotal.jp/news/44268/"/>
-        <updated>2023-11-27T05:12:56.000Z</updated>
-        <summary type="html"><![CDATA[2023年11月16日（木）東京ビッグサイトで行われた Adobe MAX Japan 2023 の中から寄りすぐりのセッションを一部特別公開中！ 　 ★キーノート（1時間39分） Creative Cloud が目指す […]
-The post キーノート＆寄りすぐりのセッション。イベント「Adobe MAX Japan 2023」の講演映像 first appeared on 3dtotal 日本語オフィシャルサイト.]]></summary>
-        <author>
-            <name>3dtotal管理人T</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[アニー賞を受賞した若手アーティストが語る、トンコハウスの魅力と堤大介氏の教え - 特集]]></title>
-        <id>https://cgworld.jp/article/2311-tonkohouse.html</id>
-        <link href="https://cgworld.jp/article/2311-tonkohouse.html"/>
-        <updated>2023-11-27T04:57:14.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[UEC++ Sequencerの独自チャンネルをエンジン改良せずに追加する方法]]></title>
-        <id>https://tech.spark-creative.co.jp/entry/2023/11/27/125159</id>
-        <link href="https://tech.spark-creative.co.jp/entry/2023/11/27/125159"/>
-        <updated>2023-11-27T03:51:59.000Z</updated>
-        <summary type="html"><![CDATA[こんにちは！！ エンジニアの竹野です！ 今回はUE5のシーケンサーのチャンネルをエンジン改良せずに追加する方法を説明したいと思います。 作業環境 プロジェクト設定 前置き 実装内容について 独自チャンネル構造体作成、設定 独自チャンネル登録、エラー対処法 最後に 作業環境 ・windows 10 ・visual studio 2019 ・UnrealEngine 5.2.0 プロジェクト設定 ・名前 ChannelTest ・テンプレート サードパーソン ・BPかC++ C++ 前置き 今回C++で作成していますが、独自のトラックやセクション、モジュール追加などの説明はしません。 トラック、セ…]]></summary>
-        <author>
-            <name>SPARKCREATIVE Tech Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[今年最後の背景モデリング講座！鈴木卓矢氏の大人気講座『背景モデリング講座』が12月20日（水）ライブ配信 - ニュース]]></title>
-        <id>https://cgworld.jp/flashnews/2312-plusone-suzuki.html</id>
-        <link href="https://cgworld.jp/flashnews/2312-plusone-suzuki.html"/>
-        <updated>2023-11-27T03:07:47.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
         </author>
     </entry>
 </feed>

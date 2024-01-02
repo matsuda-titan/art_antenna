@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-02T03:07:58.569Z</updated>
+    <updated>2024-01-02T08:09:56.897Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【チュートリアル紹介】2Dの背景画像を3D化する方法]]></title>
+        <id>https://cgbox.jp/?p=49768</id>
+        <link href="https://cgbox.jp/2024/01/02/news-tutrial-2d-image-to-3d-travelling/"/>
+        <updated>2024-01-02T06:59:00.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは！ 今回は”Realistis”さんの動画を紹介します。 2D image to 3D travelling StableDiffusionを生成した画像をBlenderに取り込んで背景を作る動画。 カメラの動 […]]]></summary>
+        <author>
+            <name>kasahara</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Tiny Eye 1.3 - BlenderのCyclesやEEVEEに対応したプロシージャル眼球Blenderアセットの最新アップデートがリリース！]]></title>
         <id>https://3dnchu.com/?p=1035883</id>
@@ -2719,16 +2729,6 @@ The post Scatter objects Blnederでモデルを大量配置するのに便利な
 The post camera_projection_painter Reality Captureで作成したデータをBlenderに取り込みクローンブラシを使用してテクスチャを調整出来るベータ版アドオン first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
         <author>
             <name>modelinghappy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Unityが重いときの原因・最適化して改善する方法解説！]]></title>
-        <id>https://cgbox.jp/?p=48546</id>
-        <link href="https://cgbox.jp/2023/12/04/unity-optimizer/"/>
-        <updated>2023-12-03T17:14:30.000Z</updated>
-        <summary type="html"><![CDATA[こんにちは！Unityで開発を進めていると、だんだんと動作が重くなってきた経験がありませんか？ 動作が重いとストレスが溜まりますし、できるだけ快適に開発したいですよね。 そこで本記事では、そんなUnityが重いときの原因 […]]]></summary>
-        <author>
-            <name>Seo</name>
         </author>
     </entry>
 </feed>

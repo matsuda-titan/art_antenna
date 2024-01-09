@@ -1140,31 +1140,6 @@
             "type": "video/mp4"
           },
           "imageUrl": "https://cgbox.jp/wp-content/uploads/2023/12/maxresdefault-8-2.jpg"
-        },
-        {
-          "id": "https://cgbox.jp/?p=50158",
-          "author": "kasahara",
-          "description": "こんばんは！ 今回は”Gleb Alexandrov”さんの動画を紹介します。 Blender 3.5+ Realtime Compositor | 9 Tips of What You Can Do With It B […]",
-          "link": "https://cgbox.jp/2023/12/10/news-tutrial-blender-3-5-realtime-compositor/",
-          "publishedOn": "2023-12-10T09:20:43.000Z",
-          "wordCount": 2064,
-          "title": "【チュートリアル紹介】コンポジットのTipsを9つ紹介している動画",
-          "imageUrl": "https://cgbox.jp/wp-content/uploads/2023/12/maxresdefault-1-7.jpg"
-        },
-        {
-          "id": "https://cgbox.jp/?p=50062",
-          "author": "UEDA",
-          "description": "こんばんは！ 今回は”PAPAYA 電腦教室”さんの動画を紹介します。 史上最強的漫畫助手來了！使用 Midjourney 建立角色 + 分鏡設計 🎨 同場加映 Pica Labs AI 動畫！ 「史上最強的漫 […]",
-          "link": "https://cgbox.jp/2023/12/10/news-tutorial-midjourneycharacter/",
-          "publishedOn": "2023-12-10T09:00:00.000Z",
-          "wordCount": 2127,
-          "title": "【チュートリアル紹介】Midjourneyを活用したキャラクターデザイン作成！",
-          "enclosure": {
-            "url": "https://cgbox.jp/wp-content/uploads/2023/12/d22a113c-5b18-410e-9f59-0af69dd713b1.mp4",
-            "length": "0",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://cgbox.jp/wp-content/uploads/2023/12/maxresdefault-16.jpg"
         }
       ]
     },
@@ -1191,6 +1166,21 @@
       "feedUrl": "https://3dnchu.com/feed/",
       "siteUrl": "https://3dnchu.com",
       "articles": [
+        {
+          "id": "https://3dnchu.com/?p=1036178",
+          "author": "Ymt3D -3dnchu-",
+          "description": "Revopointから広範囲の3Dスキャンが得意なモデルの後継機『RANGE 2』が発表されました！",
+          "link": "https://3dnchu.com/archives/revopoint-range-2/",
+          "publishedOn": "2024-01-08T16:28:52.000Z",
+          "wordCount": 7277,
+          "title": "Revopoint RANGE 2 - 大きなオブジェクトのスキャンが得意な3Dスキャナーの後継モデルが突如発表！9軸IMU搭載！精度向上！スキャン範囲も拡大！",
+          "enclosure": {
+            "url": "https://3dnchu.com/wp-content/uploads/Revopoint-RANGE-2.webp",
+            "length": "1001884",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://3dnchu.com/wp-content/uploads/Revopoint-RANGE-2.webp"
+        },
         {
           "id": "https://3dnchu.com/?p=1035919",
           "author": "Ymt3D -3dnchu-",
@@ -2471,6 +2461,36 @@
       "feedUrl": "https://modelinghappy.com/feed",
       "siteUrl": "https://modelinghappy.com",
       "articles": [
+        {
+          "id": "https://modelinghappy.com/?p=54404",
+          "author": "modelinghappy",
+          "description": "Cell Fluids Blenderのジオメトリーノードで作成されたリアルタイムに液体表現が可能になるCell Fuildsの最新バージョン1.5がリリースされました。 このアップデートではテクスチャが更新されよりリア\nThe post Blenderでリアルな海面を作成できるCell Fluidsが1.5にバージョンアップして水の飛沫や泡などが追加されました first appeared on 3DCG最新情報サイト MODELING HAPPY.",
+          "link": "https://modelinghappy.com/archives/54404",
+          "publishedOn": "2024-01-09T00:16:23.000Z",
+          "wordCount": 3428,
+          "title": "Blenderでリアルな海面を作成できるCell Fluidsが1.5にバージョンアップして水の飛沫や泡などが追加されました",
+          "imageUrl": "https://modelinghappy.com/wp-content/uploads/2024/01/20240109_CellFluids.gif"
+        },
+        {
+          "id": "https://modelinghappy.com/?p=54401",
+          "author": "modelinghappy",
+          "description": "Bake Vertex Parenting: Blender Addon Bake Vertex Parentingは、@DX_Naccaさんが作成したBlenderでメッシュへのオブジェクトのアタッチを自動化するアドオ\nThe post Bake Vertex Parenting 親モデルを動かした時にアクセサリー等のモデルがアタッチして一緒に動くようになるBlender用無料アドオン first appeared on 3DCG最新情報サイト MODELING HAPPY.",
+          "link": "https://modelinghappy.com/archives/54401",
+          "publishedOn": "2024-01-08T23:47:44.000Z",
+          "wordCount": 3447,
+          "title": "Bake Vertex Parenting 親モデルを動かした時にアクセサリー等のモデルがアタッチして一緒に動くようになるBlender用無料アドオン",
+          "imageUrl": "https://modelinghappy.com/wp-content/uploads/2024/01/20240109_BakeVertexParenting.gif"
+        },
+        {
+          "id": "https://modelinghappy.com/?p=54398",
+          "author": "modelinghappy",
+          "description": "Wrap metahuman head inside maya (fixed wire error, coming soon body wrap) Wrap metahuman head inside mayaはベースの\nThe post Wrap metahuman head inside maya ベースの人物の顔とハイポリモデルの顔を用意する事でラップしてくれるMaya用プラグイン first appeared on 3DCG最新情報サイト MODELING HAPPY.",
+          "link": "https://modelinghappy.com/archives/54398",
+          "publishedOn": "2024-01-08T23:31:23.000Z",
+          "wordCount": 3438,
+          "title": "Wrap metahuman head inside maya ベースの人物の顔とハイポリモデルの顔を用意する事でラップしてくれるMaya用プラグイン",
+          "imageUrl": "https://modelinghappy.com/wp-content/uploads/2024/01/20240109_Wrapmetahuman.gif"
+        },
         {
           "id": "https://modelinghappy.com/?p=54385",
           "author": "modelinghappy",

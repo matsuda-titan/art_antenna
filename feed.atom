@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-09T00:35:55.926Z</updated>
+    <updated>2024-01-09T03:08:31.122Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Unreal Engineを活用した迫力の戦車戦『ガールズ＆パンツァー 最終章』第4話メイキング（1）～ワークフロー篇 - 特集]]></title>
+        <id>https://cgworld.jp/article/305-girlsandp01.html</id>
+        <link href="https://cgworld.jp/article/305-girlsandp01.html"/>
+        <updated>2024-01-09T03:17:15.000Z</updated>
+        <summary type="html"><![CDATA[UEを活用した迫力の戦車戦『ガールズ＆パンツァー 最終章』第4話メイキングを紹介。]]></summary>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【UE5】ハッチングマテリアルを作ってみた]]></title>
+        <id>https://tech.spark-creative.co.jp/entry/2024/01/09/101624</id>
+        <link href="https://tech.spark-creative.co.jp/entry/2024/01/09/101624"/>
+        <updated>2024-01-09T01:16:24.000Z</updated>
+        <summary type="html"><![CDATA[初めまして、エンジニアの松本です。お初の投稿になります。 今回はタイトルの通りハッチングマテリアルを作ってみたお話になります。 ハッチングとは簡潔に説明すると、細かい平行線を縦や横に重ねて書く技法のことを言います。 クロスハッチング、手書き風とも呼びますね。 それでは作ってみましょう。 作業環境 実装 最後に 参考 作業環境 ・windows 10 ・UnrealEngine 5.1.1 実装 結論から話しますとこのような見た目のハッチングをポストプロセスマテリアルで作っていきます。 初めにマテリアルとマテリアルインスタンスを作成しておきましょう。 次にマテリアルのMaterial Domei…]]></summary>
+        <author>
+            <name>SPARKCREATIVE Tech Blog</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Blenderでリアルな海面を作成できるCell Fluidsが1.5にバージョンアップして水の飛沫や泡などが追加されました]]></title>
         <id>https://modelinghappy.com/?p=54404</id>

@@ -1195,21 +1195,6 @@
             "type": "video/mp4"
           },
           "imageUrl": "https://cgbox.jp/wp-content/uploads/2023/12/41f61d4a7759d91ab5f17466ee5f05a5.jpg"
-        },
-        {
-          "id": "https://cgbox.jp/?p=50099",
-          "author": "UEDA",
-          "description": "こんばんは！ 今回は”Graffinity”さんの動画を紹介します。 Topology Cleanup After Boolean to Add BEVEL 「Topology Cleanup After Boolean […]",
-          "link": "https://cgbox.jp/2023/12/13/news-tutorial-topologycleanupafterbooleantoaddbevel/",
-          "publishedOn": "2023-12-13T09:00:00.000Z",
-          "wordCount": 2162,
-          "title": "【チュートリアル紹介】ハードサーフェスの必須スキルを習得！",
-          "enclosure": {
-            "url": "https://cgbox.jp/wp-content/uploads/2023/12/67c790aa-bd0b-4175-a4ad-de3cf69a378a.mp4",
-            "length": "0",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://cgbox.jp/wp-content/uploads/2023/12/maxresdefault-1-5.jpg"
         }
       ]
     },
@@ -1236,6 +1221,36 @@
       "feedUrl": "https://3dnchu.com/feed/",
       "siteUrl": "https://3dnchu.com",
       "articles": [
+        {
+          "id": "https://3dnchu.com/?p=1036217",
+          "author": "Ymt3D -3dnchu-",
+          "description": "JeanYan 3D氏が、Blender用の有名な無料カーリグアドオン『Rigacar』をBlender 4.x系に対応した修正版を共有しています。",
+          "link": "https://3dnchu.com/archives/rigacar-b3dv4-jeanyan3d/",
+          "publishedOn": "2024-01-11T19:14:29.000Z",
+          "wordCount": 7160,
+          "title": "Rigacar - 古くからあるBlender向け無料のカーリギングアドオン！有志によるBlender 4.x 対応修正版が共有されています！",
+          "enclosure": {
+            "url": "https://3dnchu.com/wp-content/uploads/rigacar-blender.jpg",
+            "length": "122574",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://3dnchu.com/wp-content/uploads/rigacar-blender.jpg"
+        },
+        {
+          "id": "https://3dnchu.com/?p=1036253",
+          "author": "Ymt3D -3dnchu-",
+          "description": "kafues511氏がシャドウマップをポストプロセス上で取得できるようにするエンジン改造解説記事とデータをGithub上で公開してます。",
+          "link": "https://3dnchu.com/archives/ue53-ppi-shadowmap/",
+          "publishedOn": "2024-01-11T18:56:30.000Z",
+          "wordCount": 7309,
+          "title": "UnrealEngine-5.3-PPI-ShadowMap - シャドウマップをポストプロセス上で取得できるようにするエンジン改造解説記事とデータが公開中！",
+          "enclosure": {
+            "url": "https://3dnchu.com/wp-content/uploads/UnrealEngine-5.3-PPI-ShadowMap.webp",
+            "length": "818932",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://3dnchu.com/wp-content/uploads/UnrealEngine-5.3-PPI-ShadowMap.webp"
+        },
         {
           "id": "https://3dnchu.com/?p=1036225",
           "author": "Ymt3D -3dnchu-",
@@ -2482,66 +2497,6 @@
           "wordCount": 664,
           "title": "［お知らせ］BlenderでCGを始めよう！ゼロから学ぶ3DCG教室『第182回：人体モデリング講座（61）～ハイポリモデリング（52）～』が配信開始 - ニュース",
           "imageUrl": "https://cgworld.jp/flashnews/assets_c/2023/12/vlcsnap-2023-12-13-22h01m54s832-thumb-1920x1080-47503.png"
-        },
-        {
-          "id": "https://cgworld.jp/flashnews/haikeimodelingron.html",
-          "author": null,
-          "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
-          "link": "https://cgworld.jp/flashnews/haikeimodelingron.html",
-          "publishedOn": "2023-12-13T09:33:44.000Z",
-          "wordCount": 680,
-          "title": "『背景モデリング講座』でおなじみ鈴木 卓也氏による添削付き講座が開催決定！作品提出は2024年1月22日（月）まで - ニュース",
-          "imageUrl": "https://cgworld.jp/flashnews/assets_c/2023/12/0000000011072_vgswr1c-thumb-800x450-47500.jpg"
-        },
-        {
-          "id": "https://cgworld.jp/special-feature/202312-teraeffect.html",
-          "author": null,
-          "description": "テラエフェクトの求人インタビュー",
-          "link": "https://cgworld.jp/special-feature/202312-teraeffect.html",
-          "publishedOn": "2023-12-13T05:13:51.000Z",
-          "wordCount": 544,
-          "title": "素材のことを一番知っている撮影側がレイアウトを決める。TVアニメ『ライアー・ライアー』10話で提案・実践したテラエフェクトが目指すアニメ制作ワークフローとは？ - スペシャルコンテンツ",
-          "imageUrl": "https://cgworld.jp/special-feature/assets_c/2023/12/TeraEffect_banner_v2-thumb-1920x1080-47281.jpg"
-        },
-        {
-          "id": "https://cgworld.jp/regular/toei-zukun.html",
-          "author": null,
-          "description": "",
-          "link": "https://cgworld.jp/regular/toei-zukun.html",
-          "publishedOn": "2023-12-13T04:16:51.000Z",
-          "wordCount": 585,
-          "title": "東映 ツークン研究所 モーションキャプチャースタジオ - 連載",
-          "imageUrl": "https://cgworld.jp/regular/assets_c/2023/11/12_toei-thumb-1920x1080-46676.jpg"
-        },
-        {
-          "id": "https://cgworld.jp/special-feature/lenovo-ws-2312.html",
-          "author": null,
-          "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
-          "link": "https://cgworld.jp/special-feature/lenovo-ws-2312.html",
-          "publishedOn": "2023-12-13T03:32:46.000Z",
-          "wordCount": 744,
-          "title": "クリエイターのワークステーション選びを再考する！ Maya、Blender、Substanceなどガチ検証！（Lenovo イベントレポート） - スペシャルコンテンツ",
-          "imageUrl": "https://cgworld.jp/special-feature/assets_c/2023/11/fcc5c91496d17f6489027403896df2faf5f2ed57-thumb-1920x1280-45772.jpg"
-        },
-        {
-          "id": "https://cgworld.jp/article/202312-hiropre-1.html",
-          "author": null,
-          "description": "若杉 遼／Ryo Wakasugi     CGWORLD...",
-          "link": "https://cgworld.jp/article/202312-hiropre-1.html",
-          "publishedOn": "2023-12-13T02:00:00.000Z",
-          "wordCount": 790,
-          "title": "シリーズ20周年記念作品『ひろがるスカイ！プリキュア』後期エンディング制作の物語（前編） - 特集",
-          "imageUrl": "https://cgworld.jp/article/assets_c/2023/11/95_J_ED02_s001c029_comp_v04_0028-thumb-1000x563-46672.jpg"
-        },
-        {
-          "id": "https://cgworld.jp/article/autodesk-flow.html",
-          "author": null,
-          "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
-          "link": "https://cgworld.jp/article/autodesk-flow.html",
-          "publishedOn": "2023-12-13T00:43:14.000Z",
-          "wordCount": 762,
-          "title": "プロダクションにおけるチーム、ワークフロー、データ連携を実現する「Autodesk Flow」とは何か？ - 特集",
-          "imageUrl": "https://cgworld.jp/article/assets_c/2023/12/web_DSC0942_hoseizumi-thumb-1920x1280-46867.jpg"
         }
       ]
     },
@@ -2996,26 +2951,6 @@
           "wordCount": 3424,
           "title": "Quick Attach | Transfer Weight Blenderで１クリックでスキンウェイトとトランスファーウェイトをリグを使用してるモデルにアタッチ出来る無料アドオン",
           "imageUrl": "https://modelinghappy.com/wp-content/uploads/2023/12/20231214_quickattach.gif"
-        },
-        {
-          "id": "https://modelinghappy.com/?p=53999",
-          "author": "modelinghappy",
-          "description": "leonardo.ai leonardo.aiに新しく追加されたRealtime Canvasは、落書きと何を描きたいのかプロンプトを入力またはアニメやファンタジー等のカテゴリーを選ぶ事で自動的に良い感じのイラストを描い\nThe post leonardo Ai Realtime Canvas 手書きイラストや読み込んだ画像から自動的に良い感じのイラストを作成出来る機能 first appeared on 3DCG最新情報サイト MODELING HAPPY.",
-          "link": "https://modelinghappy.com/archives/53999",
-          "publishedOn": "2023-12-13T03:32:09.000Z",
-          "wordCount": 3421,
-          "title": "leonardo Ai Realtime Canvas 手書きイラストや読み込んだ画像から自動的に良い感じのイラストを作成出来る機能",
-          "imageUrl": "https://modelinghappy.com/wp-content/uploads/2023/12/20231213_LeonardoAi_Realtime_Canvas.gif"
-        },
-        {
-          "id": "https://modelinghappy.com/?p=53982",
-          "author": "modelinghappy",
-          "description": "株式会社レベルファイブ　提出資料（PDF／6,756KB） 2023年12月11日に国産業の国際競争力の強化を図るために実施された、AI時代の知的財産権検討会で妖怪ウォッチやイナズマイレブンで有名なレベルファイブが実務で\nThe post レベルファイブがゲーム開発やプロモーションにAIを業務で使用して効率化を図っている資料を発表 first appeared on 3DCG最新情報サイト MODELING HAPPY.",
-          "link": "https://modelinghappy.com/archives/53982",
-          "publishedOn": "2023-12-13T01:43:55.000Z",
-          "wordCount": 3394,
-          "title": "レベルファイブがゲーム開発やプロモーションにAIを業務で使用して効率化を図っている資料を発表",
-          "imageUrl": "https://modelinghappy.com/wp-content/uploads/2023/12/20231213_ai_00.jpg"
         }
       ]
     },

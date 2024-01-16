@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-15T12:13:57.001Z</updated>
+    <updated>2024-01-16T00:35:31.059Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Prismatiscape Interaction System for Unreal 5.3+ - Niagaraを使用し植物や砂、水面とのインタラクションを実現するUnreal Engine 5向けプラグインアセット！]]></title>
+        <id>https://3dnchu.com/?p=1036445</id>
+        <link href="https://3dnchu.com/archives/prismatiscape-interaction/"/>
+        <updated>2024-01-15T16:49:40.000Z</updated>
+        <summary type="html"><![CDATA[Unreal Engineチュートリアル動画などでもお馴染みPrismaticaDevが地形とのインタラクションを実現するプラグインアセット『Prismatiscape Interaction System for Unreal 5.3+』をGumroad上でリリースしました！]]></summary>
+        <author>
+            <name>Ymt3D -3dnchu-</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SmoothMoves - Blender風のトランスフォーム操作を可能にするUnreal Engineプラグイン！]]></title>
         <id>https://3dnchu.com/?p=1036302</id>
@@ -2792,57 +2802,6 @@ The post HardSurfaceCheck 作成したハードサーフェースモデルに問
 The post マーティン・スコセッシ監督 と VFXスーパーバイザー パブロ・ヘルマンが語る 映画『 キラーズ・オブ・ザ・フラワームーン』の視覚効果 first appeared on 3dtotal 日本語オフィシャルサイト.]]></summary>
         <author>
             <name>3dtotal管理人T</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【チュートリアル紹介】ジオメトリーノードで綺麗な花を作ろう！]]></title>
-        <id>https://cgbox.jp/?p=50372</id>
-        <link href="https://cgbox.jp/2023/12/17/news-tutorial-createabeautifulflower/"/>
-        <updated>2023-12-17T09:00:00.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは！ 今回は”Nino”さんの動画を紹介します。 Create a Beautiful Flower in Blender 4.0 (Geometry Nodes | Part 1) 「Create a Beau […]]]></summary>
-        <author>
-            <name>UEDA</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【チュートリアル紹介】トポロジーに関する陥りがちなの5つのミスについて解説]]></title>
-        <id>https://cgbox.jp/?p=49979</id>
-        <link href="https://cgbox.jp/2023/12/17/news-tutrial-top-5-topology-mistakes-to-avoid/"/>
-        <updated>2023-12-17T07:51:00.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは！ 今回は”On Mars 3D”さんの動画を紹介します。 Mastering 3D Modeling: Top 5 Topology Mistakes to Avoid トポロジーに関して陥りがちな5つのミス […]]]></summary>
-        <author>
-            <name>kasahara</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Blender Film Emulation - フィルムライクなカラー＆グレイン＆ハレーションを追加出来るBlender用コンポジットノードグループ！]]></title>
-        <id>https://3dnchu.com/?p=1035486</id>
-        <link href="https://3dnchu.com/archives/blender-film-emulation/"/>
-        <updated>2023-12-17T03:11:13.000Z</updated>
-        <summary type="html"><![CDATA[Edin Spiegel氏がフィルムライクなカラー＆グレイン＆ハレーションを追加出来るBlender用コンポジットノードグループ『Blender Film Emulation』を公開しています。]]></summary>
-        <author>
-            <name>Ymt3D -3dnchu-</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DECALmachine 2.9 - 表面に非破壊的に凹凸デカールを適用＆管理＆作成出来るアドオン！Blender 4対応の最新アップデートが公開！]]></title>
-        <id>https://3dnchu.com/?p=1035466</id>
-        <link href="https://3dnchu.com/archives/decalmachine-2-9/"/>
-        <updated>2023-12-17T02:13:20.000Z</updated>
-        <summary type="html"><![CDATA[数多くの多機能アドオンを開発・公開しているMACHIN3氏による、Blender向けデカールアドオンの最新アップデート『DECALmachine 2.9』が公開されました！]]></summary>
-        <author>
-            <name>Ymt3D -3dnchu-</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Simple Normal Tools アニメ調モデルの影を綺麗に表示する解説動画と、法線方向を綺麗にする手数を減らしてくれるBlender用無料アドオン]]></title>
-        <id>https://modelinghappy.com/?p=54058</id>
-        <link href="https://modelinghappy.com/archives/54058"/>
-        <updated>2023-12-17T01:35:20.000Z</updated>
-        <summary type="html"><![CDATA[Simple Normal Tools #8211; Blender 4.0+ Simple Normal Toolsはアニメ調のキャラクターで影を綺麗に見せたい場合に、部分的に影として表示したいパーツごとにMark
-The post Simple Normal Tools アニメ調モデルの影を綺麗に表示する解説動画と、法線方向を綺麗にする手数を減らしてくれるBlender用無料アドオン first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
-        <author>
-            <name>modelinghappy</name>
         </author>
     </entry>
 </feed>

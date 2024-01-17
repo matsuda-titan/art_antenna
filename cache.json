@@ -1297,6 +1297,51 @@
       "siteUrl": "https://3dnchu.com",
       "articles": [
         {
+          "id": "https://3dnchu.com/?p=1036610",
+          "author": "Ymt3D -3dnchu-",
+          "description": "Rocket Square（Erik Lehmann氏）によるMaya向けUV展開＆レイアウト補助ツール「RS UV Kit 2.1」がリリースされました。",
+          "link": "https://3dnchu.com/archives/rs-uv-kit-2-1/",
+          "publishedOn": "2024-01-17T05:22:17.000Z",
+          "wordCount": 7302,
+          "title": "RS UV Kit 2.1 - Maya2024にも対応した多機能なUV展開＆レイアウト補助ツール！UV&UDIMパッカーやUVチェックなど多数の新機能を備えた新バージョンが公開！",
+          "enclosure": {
+            "url": "https://3dnchu.com/wp-content/uploads/RS-UV-Kit-2.1.webp",
+            "length": "928244",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://3dnchu.com/wp-content/uploads/RS-UV-Kit-2.1.webp"
+        },
+        {
+          "id": "https://3dnchu.com/?p=1036593",
+          "author": "Ymt3D -3dnchu-",
+          "description": "シニアエンバイロメントアーティストのMichail Isaakidis氏によるMaya用ツールスクリプト『Pro-Boolean』がリリース！無料です！",
+          "link": "https://3dnchu.com/archives/maya-tool-pro-boolean-v1-0/",
+          "publishedOn": "2024-01-17T04:35:59.000Z",
+          "wordCount": 7192,
+          "title": "Maya Tool Pro-Boolean v1.0 - Maya2019-2022用のブーリアン支援ツールスクリプトが無料公開！",
+          "enclosure": {
+            "url": "https://3dnchu.com/wp-content/uploads/Maya-Tool-Pro-Boolean-v1.0.webp",
+            "length": "947294",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://3dnchu.com/wp-content/uploads/Maya-Tool-Pro-Boolean-v1.0.webp"
+        },
+        {
+          "id": "https://3dnchu.com/?p=1036492",
+          "author": "Ymt3D -3dnchu-",
+          "description": "Cartesian Caramel氏（@Bbbn192）によるBlenderアセット「Geometry Node Particle System V4」が無料公開されています。Geometry Nodesで構築されたパーティクルシステムです！",
+          "link": "https://3dnchu.com/archives/geometry-node-particle-system-v4/",
+          "publishedOn": "2024-01-17T03:17:29.000Z",
+          "wordCount": 7359,
+          "title": "Geometry Node Particle System V4 - Cartesian Caramel氏によるBlenderのGeometry Nodes用パーティクルシステムノード！無料公開中！",
+          "enclosure": {
+            "url": "https://3dnchu.com/wp-content/uploads/Geometry-Node-Particle-System-V4.webp",
+            "length": "686432",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://3dnchu.com/wp-content/uploads/Geometry-Node-Particle-System-V4.webp"
+        },
+        {
           "id": "https://3dnchu.com/?p=1036498",
           "author": "Ymt3D -3dnchu-",
           "description": "Unreal Engine向けに古くからあるボクセル制御プラグイン『Voxel Plugin』のコア部分『Voxel Core』がオープンソース公開されています。",
@@ -2015,21 +2060,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "https://3dnchu.com/wp-content/uploads/Rig-UI.webp"
-        },
-        {
-          "id": "https://3dnchu.com/?p=1035501",
-          "author": "Ymt3D -3dnchu-",
-          "description": "2023年12月18日（現地時間）アーティスト向けCADとして話題の新モデリングソフト「Plasticity」のv1.4アップデートがリリースされました！",
-          "link": "https://3dnchu.com/archives/plasticity-1-4/",
-          "publishedOn": "2023-12-18T16:24:45.000Z",
-          "wordCount": 7222,
-          "title": "Plasticity 1.4 - 便利な3Dメジャー表示機能や新2Dスケッチツール！スペースマウス対応など！アーティスト向けCADの最新アップデートがリリース！Win＆Mac＆Linux",
-          "enclosure": {
-            "url": "https://3dnchu.com/wp-content/uploads/Plasticity-1.4.webp",
-            "length": "623512",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://3dnchu.com/wp-content/uploads/Plasticity-1.4.webp"
         }
       ]
     },
@@ -2038,6 +2068,26 @@
       "feedUrl": "https://cgworld.jp/atom.xml",
       "siteUrl": "https://cgworld.jp/",
       "articles": [
+        {
+          "id": "https://cgworld.jp/article/202401-sigasia-ai.html",
+          "author": null,
+          "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
+          "link": "https://cgworld.jp/article/202401-sigasia-ai.html",
+          "publishedOn": "2024-01-17T07:31:00.000Z",
+          "wordCount": 836,
+          "title": "3Dオブジェクト生成、動画生成・編集に関するAIモデルが数多く登場。XRとAIに関連した注目論文をピックアップ～SIGGRAPH Asia 2023 - 特集",
+          "imageUrl": "https://cgworld.jp/article/assets_c/2023/12/image1-thumb-1720x619-48133.jpg"
+        },
+        {
+          "id": "https://cgworld.jp/article/aigen-2chatgptmv.html",
+          "author": null,
+          "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
+          "link": "https://cgworld.jp/article/aigen-2chatgptmv.html",
+          "publishedOn": "2024-01-17T06:50:58.000Z",
+          "wordCount": 762,
+          "title": "ミュージシャンが動画生成AI「Gen-2」と「ChatGPT」を使用しMVを制作。制作に使用されたプロンプトを公開 - 特集",
+          "imageUrl": "https://cgworld.jp/article/assets_c/2024/01/0d8269d94ec4f0872e8c041faaddf2dd31e33e12-thumb-1920x1080-48574.png"
+        },
         {
           "id": "https://cgworld.jp/regular/202401-tipsnote.html",
           "author": null,
@@ -2672,6 +2722,16 @@
       "feedUrl": "https://modelinghappy.com/feed",
       "siteUrl": "https://modelinghappy.com",
       "articles": [
+        {
+          "id": "https://modelinghappy.com/?p=54552",
+          "author": "modelinghappy",
+          "description": "offworlddepot offworlddepotは3DアーティストのRiley Brownさんがアーティスト向けに、テクスチャ、プロップ、ツール、チュートリアル、仕事、リファレンス画像などを1ヶ月8ドルから使用でき\nThe post offworlddepot アセットやマテリアルがダウンロード出来たりBlender用無料チュートリアル動画が視聴可能なサイトが公開されています first appeared on 3DCG最新情報サイト MODELING HAPPY.",
+          "link": "https://modelinghappy.com/archives/54552",
+          "publishedOn": "2024-01-17T05:13:30.000Z",
+          "wordCount": 3398,
+          "title": "offworlddepot アセットやマテリアルがダウンロード出来たりBlender用無料チュートリアル動画が視聴可能なサイトが公開されています",
+          "imageUrl": "https://modelinghappy.com/wp-content/uploads/2024/01/20240117_offworlddepot_01.jpg"
+        },
         {
           "id": "https://modelinghappy.com/?p=54542",
           "author": "modelinghappy",

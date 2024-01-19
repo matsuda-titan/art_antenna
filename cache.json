@@ -1265,51 +1265,6 @@
             "type": "video/mp4"
           },
           "imageUrl": "https://cgbox.jp/wp-content/uploads/2023/12/maxresdefault-4-3.jpg"
-        },
-        {
-          "id": "https://cgbox.jp/?p=50524",
-          "author": "UEDA",
-          "description": "こんばんは！ 今回はアドオンの「Customizable Christmas Lights」を紹介します。 こちらのリンクから購入することができます。 Customizable Christmas Lights クリスマ […]",
-          "link": "https://cgbox.jp/2023/12/20/news-tutorial-customizablechristmaslights/",
-          "publishedOn": "2023-12-20T11:00:00.000Z",
-          "wordCount": 2151,
-          "title": "【アドオン紹介】Customizable Christmas Lights – ワイヤーライトを生成！",
-          "enclosure": {
-            "url": "https://cgbox.jp/wp-content/uploads/2023/12/9b24d7a1c0c0d51eac3df26f63ff9c7c-3.mp4",
-            "length": "0",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://cgbox.jp/wp-content/uploads/2023/12/bm-thumb-4.jpg"
-        },
-        {
-          "id": "https://cgbox.jp/?p=50497",
-          "author": "UEDA",
-          "description": "こんばんは！ 今回は”Voyage”さんの動画を紹介します。 Creating Trees for 3D Pixel Art 「Creating Trees for 3D Pixel Art」では、ピクセルで表現される木 […]",
-          "link": "https://cgbox.jp/2023/12/20/news-tutorial-creatingtreesfor3dpixelart/",
-          "publishedOn": "2023-12-20T09:00:00.000Z",
-          "wordCount": 2115,
-          "title": "【チュートリアル紹介】ピクセルアート：木の作り方！",
-          "enclosure": {
-            "url": "https://cgbox.jp/wp-content/uploads/2023/12/c8d9b144-6a94-45af-9b5f-f9da10eede1a.mp4",
-            "length": "0",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://cgbox.jp/wp-content/uploads/2023/12/maxresdefault-1-10.jpg"
-        },
-        {
-          "id": "https://cgbox.jp/?p=50180",
-          "author": "kasahara",
-          "description": "こんばんは！ 今回は”Ryan King Art”さんの動画を紹介します。 Procedural Battered Metal Material  この「Procedural Battered Metal Materia […]",
-          "link": "https://cgbox.jp/2023/12/20/news-tutrial-procedural-battered-metal-material/",
-          "publishedOn": "2023-12-20T04:11:00.000Z",
-          "wordCount": 2074,
-          "title": "【チュートリアル紹介】カスタム可能な劣化したリ金属マテリアルを作成",
-          "enclosure": {
-            "url": "https://cgbox.jp/wp-content/uploads/2023/12/Make-STYLIZED-GRASS-using-GEOMETRY-NODES-in-Blender-YouTube-Google-Chrome-2023-12-05-03-11-10_34.mp4",
-            "length": "0",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://cgbox.jp/wp-content/uploads/2023/12/maxresdefault-3-2.jpg"
         }
       ]
     },
@@ -1336,6 +1291,51 @@
       "feedUrl": "https://3dnchu.com/feed/",
       "siteUrl": "https://3dnchu.com",
       "articles": [
+        {
+          "id": "https://3dnchu.com/?p=1036714",
+          "author": "Ymt3D -3dnchu-",
+          "description": "インディーゲームデベロッパーでグラフィックプログラマーのKrystian Komisarek氏（@ImaginaryBlend）による、激しい天候や雲表現が可能なUnreal Engine 5アセット「Infinity Weather 2.0」がリリースされました！",
+          "link": "https://3dnchu.com/archives/infinity-weather-2-0/",
+          "publishedOn": "2024-01-18T19:31:36.000Z",
+          "wordCount": 7299,
+          "title": "Infinity Weather 2.0 - あの天候制御＆足跡アセットが3年ぶりに帰ってきた！UE5対応＆視差マップによる地形変化＆新たな空システム＆Niagaraの雨を搭載！",
+          "enclosure": {
+            "url": "https://3dnchu.com/wp-content/uploads/Infinity-Weather-2.0.webp",
+            "length": "1263186",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://3dnchu.com/wp-content/uploads/Infinity-Weather-2.0.webp"
+        },
+        {
+          "id": "https://3dnchu.com/?p=1036704",
+          "author": "Ymt3D -3dnchu-",
+          "description": "建築CGビジュアライザーのshinya氏（@s_take）がUnreal Engine 5上でLumenを使用し描画された建築ビジュアライゼーション作品映像を公開しています。",
+          "link": "https://3dnchu.com/archives/ue5-forest-villa-cine-lumen-shinya/",
+          "publishedOn": "2024-01-18T18:45:27.000Z",
+          "wordCount": 7168,
+          "title": "Unreal Engine 5 Forest Villa Cinematic Lumen - 建築CGビジュアライザーのshinya氏のUE5＆Lumenを使用した作品映像！",
+          "enclosure": {
+            "url": "https://3dnchu.com/wp-content/uploads/unreal-engine-5-forest-villa-cin.jpg",
+            "length": "96495",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://3dnchu.com/wp-content/uploads/unreal-engine-5-forest-villa-cin.jpg"
+        },
+        {
+          "id": "https://3dnchu.com/?p=1036628",
+          "author": "Ymt3D -3dnchu-",
+          "description": "MOTH3Rによるビューポートカメラ操作のためのアドオン「Mouse-look Navigation™」のBlender 4.x対応版がリリースされていました。お手軽にZBrush風、Maya風、FPS挙動などのカメラ操作機能を導入＆カスタムする事が可能です。",
+          "link": "https://3dnchu.com/archives/mouse-look-navigation-1-8-2/",
+          "publishedOn": "2024-01-18T16:33:54.000Z",
+          "wordCount": 7283,
+          "title": "Mouse-look Navigation™ 1.8.2 - Maya風ZBrush風FPS風など細かなカメラ操作を設定可能な無料のBlenderアドオン！Blender 4.xにも対応！",
+          "enclosure": {
+            "url": "https://3dnchu.com/wp-content/uploads/mouse-look-navigation-1-8-2.webp",
+            "length": "972220",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://3dnchu.com/wp-content/uploads/mouse-look-navigation-1-8-2.webp"
+        },
         {
           "id": "https://3dnchu.com/?p=1036657",
           "author": "Ymt3D -3dnchu-",
@@ -2100,21 +2100,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "https://3dnchu.com/wp-content/uploads/Realistic-Dry-Ice-Tutorial.webp"
-        },
-        {
-          "id": "https://3dnchu.com/?p=1035561",
-          "author": "Ymt3D -3dnchu-",
-          "description": "Jeremie Passerin氏とMiquel Campos氏が開発＆公開しているMaya用のオープンソースリギングフレームワークのアップデートバージョン「mGear 4.2」とUnreal Engine向けプラグイン「ueGear 0.5 Beta」がGithub上で公開されました。",
-          "link": "https://3dnchu.com/archives/mgear-4-2-0-uegear-0-5-beta/",
-          "publishedOn": "2023-12-20T02:40:36.000Z",
-          "wordCount": 7323,
-          "title": "mGear 4.2.0 ＆ ueGear 0.5 Beta - Maya用オープンソースリギングフレームワーク最新アップデート！Unreal Engine 5との連携プラグインベータ版も初回リリース！",
-          "enclosure": {
-            "url": "https://3dnchu.com/wp-content/uploads/mGear4-2.png",
-            "length": "301958",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://3dnchu.com/wp-content/uploads/mGear4-2.png"
         }
       ]
     },
@@ -2702,16 +2687,6 @@
           "wordCount": 646,
           "title": "第5回 - 連載",
           "imageUrl": "https://cgworld.jp/regular/assets_c/2023/12/ryu-thumb-1920x1080-47666.jpg"
-        },
-        {
-          "id": "https://cgworld.jp/article/202312-hiropre-2.html",
-          "author": null,
-          "description": "若杉 遼／Ryo Wakasugi     CGWORLD...",
-          "link": "https://cgworld.jp/article/202312-hiropre-2.html",
-          "publishedOn": "2023-12-20T01:30:00.000Z",
-          "wordCount": 757,
-          "title": "シリーズ20周年記念作品『ひろがるスカイ！プリキュア』後期エンディング制作の物語（後編） - 特集",
-          "imageUrl": "https://cgworld.jp/article/assets_c/2023/11/ad9a98b8d6b32e538e962afd832d1d0ffd52e9cd-thumb-1000x563-46803.jpg"
         }
       ]
     },
@@ -3175,46 +3150,6 @@
           "wordCount": 3428,
           "title": "postshot 撮影した静止画または動画からNeRFまたはガウススプラッティングを作成してAfter Effectsにインポート出来るソフトのベータ版が公開",
           "imageUrl": "https://modelinghappy.com/wp-content/uploads/2023/12/20231221_postshot.gif"
-        },
-        {
-          "id": "https://modelinghappy.com/?p=54102",
-          "author": "modelinghappy",
-          "description": "Rhinoceros RhinocerosはNURBS曲線をメインにCAD製品を作るソフトで有名ですが、バージョン8のShrinkWrap機能では、開いたまたは閉じたメッシュ、NURBSジオメトリ、SubD、点群の周りに\nThe post Rhinoceros8の新しいShrinkWrap機能で3Dスキャンデータ等を内部までポリゴンモデル化したデータが作成可能 first appeared on 3DCG最新情報サイト MODELING HAPPY.",
-          "link": "https://modelinghappy.com/archives/54102",
-          "publishedOn": "2023-12-20T10:54:36.000Z",
-          "wordCount": 3385,
-          "title": "Rhinoceros8の新しいShrinkWrap機能で3Dスキャンデータ等を内部までポリゴンモデル化したデータが作成可能",
-          "imageUrl": "https://modelinghappy.com/wp-content/uploads/2023/12/20231220_shrinkwrap.gif"
-        },
-        {
-          "id": "https://modelinghappy.com/?p=54099",
-          "author": "modelinghappy",
-          "description": "８days OF VFX－MAX 炎や煙など様々な合成素材が販売されているActionVFXのサイトで100ドルの注文だと20%オフ、100ドル以上だと30オフ、500ドル以上だと40%オフになるクリスマスセールを202\nThe post ACTION VFXで合成用動画素材をダウンロード出来る無料リンクを8日間毎日ダウンロード出来ます first appeared on 3DCG最新情報サイト MODELING HAPPY.",
-          "link": "https://modelinghappy.com/archives/54099",
-          "publishedOn": "2023-12-20T09:57:27.000Z",
-          "wordCount": 3394,
-          "title": "ACTION VFXで合成用動画素材をダウンロード出来る無料リンクを8日間毎日ダウンロード出来ます",
-          "imageUrl": "https://modelinghappy.com/wp-content/uploads/2023/12/20231220_actionvfx.jpg"
-        },
-        {
-          "id": "https://modelinghappy.com/?p=54093",
-          "author": "modelinghappy",
-          "description": "apaint apaintはArsaさんが作成したBlenderでペイントする時に右クリックで素早く、ブラシの減衰、消しゴム、アルファロック、オクルード、バックフェースカリング、ドローモード、ラインモード、スタンプモード\nThe post apaint Blnederでブラシの減衰、消しゴム、アルファロック、ドローモード等を右クリックで素早く表示出来る無料アドオン first appeared on 3DCG最新情報サイト MODELING HAPPY.",
-          "link": "https://modelinghappy.com/archives/54093",
-          "publishedOn": "2023-12-20T02:01:53.000Z",
-          "wordCount": 3444,
-          "title": "apaint Blnederでブラシの減衰、消しゴム、アルファロック、ドローモード等を右クリックで素早く表示出来る無料アドオン",
-          "imageUrl": "https://modelinghappy.com/wp-content/uploads/2023/12/20231220_apaint.gif"
-        },
-        {
-          "id": "https://modelinghappy.com/?p=54084",
-          "author": "modelinghappy",
-          "description": "Blender #8211; Jewelry creation 世界中のチュートリアル動画を販売しているWingfoxのサイトでBlenderを使って、モデリング、ジュエリー素材を簡単に作成出来るjewelcarftア\nThe post Blender認定公式がジュエリーを効率的に作る方法を教えてくれるチュートリアル動画がWIngfoxで販売開始！ first appeared on 3DCG最新情報サイト MODELING HAPPY.",
-          "link": "https://modelinghappy.com/archives/54084",
-          "publishedOn": "2023-12-20T00:44:02.000Z",
-          "wordCount": 3394,
-          "title": "Blender認定公式がジュエリーを効率的に作る方法を教えてくれるチュートリアル動画がWIngfoxで販売開始！",
-          "imageUrl": "https://modelinghappy.com/wp-content/uploads/2023/12/20231220_wingfox_00.jpg"
         }
       ]
     },
@@ -3642,26 +3577,6 @@
           "wordCount": 544,
           "title": "VFXスタジオ Framestore の ショーリール 2023",
           "imageUrl": "https://3dtotal.jp/wp-content/uploads/2023/12/framestore_reel23.jpg"
-        },
-        {
-          "id": "https://3dtotal.jp/?p=44589",
-          "author": "3dtotal管理人T",
-          "description": "★Ahsoka | VFX Breakdown | Digital Domain（1分55秒） 『スター・ウォーズ：アソーカ』の第4話「パート4 - 堕ちたジェダイ」において、Digital Domain は、アソーカ、 […]\nThe post Digital Domain より『スター・ウォーズ：アソーカ』の VFXブレイクダウン映像 first appeared on 3dtotal 日本語オフィシャルサイト.",
-          "link": "https://3dtotal.jp/news/44589/",
-          "publishedOn": "2023-12-20T06:17:02.000Z",
-          "wordCount": 549,
-          "title": "Digital Domain より『スター・ウォーズ：アソーカ』の VFXブレイクダウン映像",
-          "imageUrl": "https://3dtotal.jp/wp-content/uploads/2023/12/ahsoka_dd_04.jpg"
-        },
-        {
-          "id": "https://3dtotal.jp/?p=44584",
-          "author": "3dtotal管理人T",
-          "description": "★Happy Holidays 2023 | Framestore（43秒） 英国、アメリカ、カナダ、インドに制作拠点をもつ VFXスタジオ Framestore のホリデーシーズン 2023 のグリーティングムービー。 […]\nThe post Framestore より、ホリデーシーズンのグリーティングムービー 2023 first appeared on 3dtotal 日本語オフィシャルサイト.",
-          "link": "https://3dtotal.jp/news/44584/",
-          "publishedOn": "2023-12-20T06:07:03.000Z",
-          "wordCount": 538,
-          "title": "Framestore より、ホリデーシーズンのグリーティングムービー 2023",
-          "imageUrl": "https://3dtotal.jp/wp-content/uploads/2023/12/happyholiday23_fstore.jpg"
         }
       ]
     }

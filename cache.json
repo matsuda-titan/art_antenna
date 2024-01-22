@@ -12,6 +12,31 @@
       "siteUrl": "https://cgbox.jp",
       "articles": [
         {
+          "id": "https://cgbox.jp/?p=51927",
+          "author": "CGbox編集部",
+          "description": "こちらの記事にはプロモーションが含まれております。 こんにちは！ 今回はWingfoxで公開されている「Animation Background Concept Design in Blender」を受講したので、レビュ […]",
+          "link": "https://cgbox.jp/2024/01/21/wingfox-tutorial-animebg/",
+          "publishedOn": "2024-01-21T13:57:42.000Z",
+          "wordCount": 2015,
+          "title": "【Blender/Photoshop】アニメの背景イラスト作成方法を学べるチュートリアルをレビュー",
+          "imageUrl": "https://cgbox.jp/wp-content/uploads/2024/01/Review-article.jpg"
+        },
+        {
+          "id": "https://cgbox.jp/?p=51918",
+          "author": "UEDA",
+          "description": "こんばんは！ 今回はアドオンの「Wrap Gen – Generate Fully Customisable/Procedural Wraps」を紹介します。 こちらのリンクから購入することができます。 Wr […]",
+          "link": "https://cgbox.jp/2024/01/21/news-addon-wrapgen/",
+          "publishedOn": "2024-01-21T13:00:00.000Z",
+          "wordCount": 2076,
+          "title": "【アドオン紹介】Wrap Gen – オブジェクトを形状に沿わせて取り付け！",
+          "enclosure": {
+            "url": "https://cgbox.jp/wp-content/uploads/2024/01/2c933c80-0f07-4803-a1af-8ed988df4736.mp4",
+            "length": "0",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://cgbox.jp/wp-content/uploads/2024/01/banner_03.jpg"
+        },
+        {
           "id": "https://cgbox.jp/?p=51912",
           "author": "UEDA",
           "description": "こんばんは！ 今回はアドオンの「Auto Rig Particles – Blender Experimental Method」を紹介します。 こちらのリンクから購入することができます。 Auto Rig  […]",
@@ -1270,21 +1295,6 @@
             "type": "video/mp4"
           },
           "imageUrl": "https://cgbox.jp/wp-content/uploads/2023/12/maxresdefault-7-2.jpg"
-        },
-        {
-          "id": "https://cgbox.jp/?p=50660",
-          "author": "UEDA",
-          "description": "こんばんは！ 今回は”KennyPhases”さんの動画を紹介します。 Blender Crystal-Shader-Material (FREE MATERIAL) , COMPLETELY Customizable  […]",
-          "link": "https://cgbox.jp/2023/12/23/news-tutorial-crystalshadermaterial/",
-          "publishedOn": "2023-12-23T09:00:00.000Z",
-          "wordCount": 2084,
-          "title": "【チュートリアル紹介】クリスタルシェーダーの作り方！",
-          "enclosure": {
-            "url": "https://cgbox.jp/wp-content/uploads/2023/12/5cd3bd1c-f181-4c12-a6aa-a40a49d0a2ca.mp4",
-            "length": "0",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://cgbox.jp/wp-content/uploads/2022/05/cropped-favicon.png"
         }
       ]
     },
@@ -1311,6 +1321,66 @@
       "feedUrl": "https://3dnchu.com/feed/",
       "siteUrl": "https://3dnchu.com",
       "articles": [
+        {
+          "id": "https://3dnchu.com/?p=1036819",
+          "author": "Ymt3D -3dnchu-",
+          "description": "何気なく取った動物や人物の映像から脚式ロボット向けに動きを転送する為のフレームワーク『SLoMo: A General System for Legged Robot Motion Imitation from Casual Videos』が公開されています。",
+          "link": "https://3dnchu.com/archives/slomo/",
+          "publishedOn": "2024-01-21T17:59:09.000Z",
+          "wordCount": 7239,
+          "title": "SLoMo: A General System for Legged Robot Motion Imitation from Casual Videos - 動物や人間を撮影した動画から脚式ロボット向けに動きを転送する為のフレームワーク！",
+          "enclosure": {
+            "url": "https://3dnchu.com/wp-content/uploads/SLoMo.webp",
+            "length": "1029576",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://3dnchu.com/wp-content/uploads/SLoMo.webp"
+        },
+        {
+          "id": "https://3dnchu.com/?p=1036807",
+          "author": "Ymt3D -3dnchu-",
+          "description": "CGキャラクターアーティストのWelly Chang氏（@TuxedWhale）が初心者が見落としがちなテクスチャ＆法線のベイクのエラーと解決方法をメモしたドキュメント「Baking Error Documentation」を無償公開中しています！",
+          "link": "https://3dnchu.com/archives/recognizing-baking-errors-welly-chang/",
+          "publishedOn": "2024-01-21T17:44:59.000Z",
+          "wordCount": 7249,
+          "title": "Recognizing Baking Errors - 初心者が見落としがちなテクスチャ＆法線のベイクの不具合と解決方法をメモしたドキュメントが公開中！",
+          "enclosure": {
+            "url": "https://3dnchu.com/wp-content/uploads/Recognizing-Baking-Errors.jpg",
+            "length": "53077",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://3dnchu.com/wp-content/uploads/Recognizing-Baking-Errors.jpg"
+        },
+        {
+          "id": "https://3dnchu.com/?p=1036780",
+          "author": "Ymt3D -3dnchu-",
+          "description": "Metaやカリフォルニア大学サンディエゴ校 、メリーランド大学カレッジパーク校の研究者らによる、数枚の画像からターゲットの3Dモデルにテクスチャを転送する技術『TextureDreamer: Image-guided Texture Synthesis through Geometry-aware Diffusion』が発表されています。",
+          "link": "https://3dnchu.com/archives/texturedreamer/",
+          "publishedOn": "2024-01-21T15:25:42.000Z",
+          "wordCount": 7199,
+          "title": "TextureDreamer: Image-guided Texture Synthesis through Geometry-aware Diffusion - 数枚の画像からターゲットの3Dモデルにテクスチャを転送する技術！",
+          "enclosure": {
+            "url": "https://3dnchu.com/wp-content/uploads/TextureDreamer-1.webp",
+            "length": "910624",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://3dnchu.com/wp-content/uploads/TextureDreamer-1.webp"
+        },
+        {
+          "id": "https://3dnchu.com/?p=1036777",
+          "author": "Ymt3D -3dnchu-",
+          "description": "数多くのBlender学習コンテンツを配信しているPolygon Runwayによるデロリアンの走行シーンを制作する４時間のフルプロセス映像が公開されています。",
+          "link": "https://3dnchu.com/archives/back-to-the-future-polygon-runway-b3d/",
+          "publishedOn": "2024-01-21T15:01:29.000Z",
+          "wordCount": 7237,
+          "title": "Back to the Future Animation in Blender - Polygon RunwayによるBlenderでデロリアンの走行シーンを制作する４時間のフルプロセス映像！",
+          "enclosure": {
+            "url": "https://3dnchu.com/wp-content/uploads/back-to-the-future-polygon-runway-b3d.webp",
+            "length": "817700",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://3dnchu.com/wp-content/uploads/back-to-the-future-polygon-runway-b3d.webp"
+        },
         {
           "id": "https://3dnchu.com/?p=1036757",
           "author": "Ymt3D -3dnchu-",

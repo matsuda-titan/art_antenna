@@ -2,10 +2,70 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-21T12:12:34.529Z</updated>
+    <updated>2024-01-22T00:37:30.857Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[SLoMo: A General System for Legged Robot Motion Imitation from Casual Videos - 動物や人間を撮影した動画から脚式ロボット向けに動きを転送する為のフレームワーク！]]></title>
+        <id>https://3dnchu.com/?p=1036819</id>
+        <link href="https://3dnchu.com/archives/slomo/"/>
+        <updated>2024-01-21T17:59:09.000Z</updated>
+        <summary type="html"><![CDATA[何気なく取った動物や人物の映像から脚式ロボット向けに動きを転送する為のフレームワーク『SLoMo: A General System for Legged Robot Motion Imitation from Casual Videos』が公開されています。]]></summary>
+        <author>
+            <name>Ymt3D -3dnchu-</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Recognizing Baking Errors - 初心者が見落としがちなテクスチャ＆法線のベイクの不具合と解決方法をメモしたドキュメントが公開中！]]></title>
+        <id>https://3dnchu.com/?p=1036807</id>
+        <link href="https://3dnchu.com/archives/recognizing-baking-errors-welly-chang/"/>
+        <updated>2024-01-21T17:44:59.000Z</updated>
+        <summary type="html"><![CDATA[CGキャラクターアーティストのWelly Chang氏（@TuxedWhale）が初心者が見落としがちなテクスチャ＆法線のベイクのエラーと解決方法をメモしたドキュメント「Baking Error Documentation」を無償公開中しています！]]></summary>
+        <author>
+            <name>Ymt3D -3dnchu-</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TextureDreamer: Image-guided Texture Synthesis through Geometry-aware Diffusion - 数枚の画像からターゲットの3Dモデルにテクスチャを転送する技術！]]></title>
+        <id>https://3dnchu.com/?p=1036780</id>
+        <link href="https://3dnchu.com/archives/texturedreamer/"/>
+        <updated>2024-01-21T15:25:42.000Z</updated>
+        <summary type="html"><![CDATA[Metaやカリフォルニア大学サンディエゴ校 、メリーランド大学カレッジパーク校の研究者らによる、数枚の画像からターゲットの3Dモデルにテクスチャを転送する技術『TextureDreamer: Image-guided Texture Synthesis through Geometry-aware Diffusion』が発表されています。]]></summary>
+        <author>
+            <name>Ymt3D -3dnchu-</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Back to the Future Animation in Blender - Polygon RunwayによるBlenderでデロリアンの走行シーンを制作する４時間のフルプロセス映像！]]></title>
+        <id>https://3dnchu.com/?p=1036777</id>
+        <link href="https://3dnchu.com/archives/back-to-the-future-polygon-runway-b3d/"/>
+        <updated>2024-01-21T15:01:29.000Z</updated>
+        <summary type="html"><![CDATA[数多くのBlender学習コンテンツを配信しているPolygon Runwayによるデロリアンの走行シーンを制作する４時間のフルプロセス映像が公開されています。]]></summary>
+        <author>
+            <name>Ymt3D -3dnchu-</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【Blender/Photoshop】アニメの背景イラスト作成方法を学べるチュートリアルをレビュー]]></title>
+        <id>https://cgbox.jp/?p=51927</id>
+        <link href="https://cgbox.jp/2024/01/21/wingfox-tutorial-animebg/"/>
+        <updated>2024-01-21T13:57:42.000Z</updated>
+        <summary type="html"><![CDATA[こちらの記事にはプロモーションが含まれております。 こんにちは！ 今回はWingfoxで公開されている「Animation Background Concept Design in Blender」を受講したので、レビュ […]]]></summary>
+        <author>
+            <name>CGbox編集部</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【アドオン紹介】Wrap Gen – オブジェクトを形状に沿わせて取り付け！]]></title>
+        <id>https://cgbox.jp/?p=51918</id>
+        <link href="https://cgbox.jp/2024/01/21/news-addon-wrapgen/"/>
+        <updated>2024-01-21T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは！ 今回はアドオンの「Wrap Gen – Generate Fully Customisable/Procedural Wraps」を紹介します。 こちらのリンクから購入することができます。 Wr […]]]></summary>
+        <author>
+            <name>UEDA</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【アドオン紹介】Auto Rig Particles – リグアニメーションに変換！]]></title>
         <id>https://cgbox.jp/?p=51912</id>
@@ -2819,16 +2879,6 @@ The post DMMブックスでBlenderなどの3DCG書籍が最大50%引きになる
         <summary type="html"><![CDATA[こんばんは！ 今回は”Anèésh Arts”さんの動画を紹介します。 I made Spider Verse Style Shader in Blender!!  この「I made Spider Verse Styl […]]]></summary>
         <author>
             <name>kasahara</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【チュートリアル紹介】クリスタルシェーダーの作り方！]]></title>
-        <id>https://cgbox.jp/?p=50660</id>
-        <link href="https://cgbox.jp/2023/12/23/news-tutorial-crystalshadermaterial/"/>
-        <updated>2023-12-23T09:00:00.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは！ 今回は”KennyPhases”さんの動画を紹介します。 Blender Crystal-Shader-Material (FREE MATERIAL) , COMPLETELY Customizable  […]]]></summary>
-        <author>
-            <name>UEDA</name>
         </author>
     </entry>
 </feed>

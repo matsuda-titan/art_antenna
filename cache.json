@@ -1305,46 +1305,6 @@
             "type": "video/mp4"
           },
           "imageUrl": "https://cgbox.jp/wp-content/uploads/2023/12/maxresdefault-4-1.jpg"
-        },
-        {
-          "id": "https://cgbox.jp/?p=51443",
-          "author": "UEDA",
-          "description": "こんばんは！ 今回はアドオンの「Video To Image Sequence Converter」を紹介します。 こちらのリンクから購入することができます。 Video To Image Sequence Conver […]",
-          "link": "https://cgbox.jp/2024/01/07/news-addon-videotoimagesequenceconverter/",
-          "publishedOn": "2024-01-07T11:00:00.000Z",
-          "wordCount": 2021,
-          "title": "【アドオン紹介】Video To Image Sequence Converter – 動画を画像シーケンスに変換！",
-          "imageUrl": "https://cgbox.jp/wp-content/uploads/2024/01/banner.jpg"
-        },
-        {
-          "id": "https://cgbox.jp/?p=51419",
-          "author": "UEDA",
-          "description": "こんばんは！ 今回は”LMHPOLY”さんの動画を紹介します。 Modeling Car Game Asset In Blender 2.9 (Timelapse) 「Modeling Car Game Asset In […]",
-          "link": "https://cgbox.jp/2024/01/07/news-tutorial-modelingcargameasset/",
-          "publishedOn": "2024-01-07T09:00:00.000Z",
-          "wordCount": 2156,
-          "title": "【チュートリアル紹介】ゲームアセット：車のローポリモデリング！",
-          "enclosure": {
-            "url": "https://cgbox.jp/wp-content/uploads/2024/01/dbf55df75463485dd6c45016f6ac753f-3.mp4",
-            "length": "0",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://cgbox.jp/wp-content/uploads/2024/01/maxresdefault-1-1.jpg"
-        },
-        {
-          "id": "https://cgbox.jp/?p=49833",
-          "author": "kasahara",
-          "description": "こんばんは！ 今回は”3dFloS”さんの動画を紹介します。 Blender 3D Stylised Tutorial “Worms Grenade” アニメ調のグレネードを作成するチュートリアル […]",
-          "link": "https://cgbox.jp/2024/01/07/news-tutrial-blender-3d-stylised-tutorial-worms-grenade/",
-          "publishedOn": "2024-01-07T05:17:00.000Z",
-          "wordCount": 1964,
-          "title": "【チュートリアル紹介】セルルックのグレネードを作成",
-          "enclosure": {
-            "url": "https://cgbox.jp/wp-content/uploads/2023/12/Make-STYLIZED-GRASS-using-GEOMETRY-NODES-in-Blender-YouTube-Google-Chrome-2023-12-05-03-11-10_16.mp4",
-            "length": "0",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://cgbox.jp/wp-content/uploads/2023/12/maxresdefault-3-1.jpg"
         }
       ]
     },
@@ -1371,6 +1331,36 @@
       "feedUrl": "https://3dnchu.com/feed/",
       "siteUrl": "https://3dnchu.com",
       "articles": [
+        {
+          "id": "https://3dnchu.com/?p=1037224",
+          "author": "Ymt3D -3dnchu-",
+          "description": "Gradess Gamesによるブループリントやマテリアルのノードグラフメニューに「Take Screenshot」ボタンを追加しスクショ撮影を手軽に実行可能にするプラグイン『Blueprint Screenshot Tool』がUEマケプレで公開されています！",
+          "link": "https://3dnchu.com/archives/blueprint-screenshot-tool/",
+          "publishedOn": "2024-02-05T18:52:14.000Z",
+          "wordCount": 7424,
+          "title": "Blueprint Screenshot Tool - ブループリントやマテリアルのノードグラフメニューに「Take Screenshot」ボタンを追加しスクショ撮影を手軽に実行可能にする無料＆オープンソースUnreal Engine 5プラグイン！",
+          "enclosure": {
+            "url": "https://3dnchu.com/wp-content/uploads/Blueprint-Screenshot-Tool-SS2-Result.jpg",
+            "length": "35279",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://3dnchu.com/wp-content/uploads/Blueprint-Screenshot-Tool-SS2-Result.jpg"
+        },
+        {
+          "id": "https://3dnchu.com/?p=1037259",
+          "author": "Ymt3D -3dnchu-",
+          "description": "株式会社 KASSENが手掛けるオリジナルショートフィルム『大怪獣 vs 巨大少女 / DAI-KAIJYU vs. the Giant Girl』が公開されました！Colosoではこの作品を通してシネマティック映像制作のノウハウ解説チュートリアルも展開されています。",
+          "link": "https://3dnchu.com/archives/kassen-dai-kaijyu-vs-the-giant-girl/",
+          "publishedOn": "2024-02-05T18:04:59.000Z",
+          "wordCount": 7313,
+          "title": "大怪獣 vs 巨大少女 / DAI-KAIJYU vs. the Giant Girl - KASSENが手掛けたオリジナルショートフィルム！Colosoにてシネマティック映像制作のノウハウ解説チュートリアルコースも同時公開！",
+          "enclosure": {
+            "url": "https://3dnchu.com/wp-content/uploads/kassen-dai-kaijyu-vs-the-giant-girl.webp",
+            "length": "1217926",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://3dnchu.com/wp-content/uploads/kassen-dai-kaijyu-vs-the-giant-girl.webp"
+        },
         {
           "id": "https://3dnchu.com/?p=1037239",
           "author": "Ymt3D -3dnchu-",
@@ -3335,16 +3325,6 @@
           "wordCount": 3438,
           "title": "Wrap metahuman head inside maya ベースの人物の顔とハイポリモデルの顔を用意する事でラップしてくれるMaya用プラグイン",
           "imageUrl": "https://modelinghappy.com/wp-content/uploads/2024/01/20240109_Wrapmetahuman.gif"
-        },
-        {
-          "id": "https://modelinghappy.com/?p=54385",
-          "author": "modelinghappy",
-          "description": "3D Character Concept Art Course 世界中のチュートリアル動画を販売しているWingfoxのサイトで、VRを使用したGravity Sketchといわれるソフトを使用して、Blenderで作成\nThe post VRでモデリングしてBlenderで最終的に読み込みレンダリングしてコンセプトアートを作成するチュートリアル動画がWingfoxで販売開始！ first appeared on 3DCG最新情報サイト MODELING HAPPY.",
-          "link": "https://modelinghappy.com/archives/54385",
-          "publishedOn": "2024-01-07T01:35:29.000Z",
-          "wordCount": 3390,
-          "title": "VRでモデリングしてBlenderで最終的に読み込みレンダリングしてコンセプトアートを作成するチュートリアル動画がWingfoxで販売開始！",
-          "imageUrl": "https://modelinghappy.com/wp-content/uploads/2024/01/20240107_wingfox_00.jpg"
         }
       ]
     },

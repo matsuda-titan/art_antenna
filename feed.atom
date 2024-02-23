@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-23T00:32:41.823Z</updated>
+    <updated>2024-02-23T03:07:49.743Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[モデルの上にカーブを描くと液体を簡単にペイント出来るFluid Painterが1.3にバージョンアップでアニメーションとシミュレーション中でも液体が追従するようになりました]]></title>
+        <id>https://modelinghappy.com/?p=55627</id>
+        <link href="https://modelinghappy.com/archives/55627"/>
+        <updated>2024-02-23T02:07:17.000Z</updated>
+        <summary type="html"><![CDATA[Fluid Painter Fluid PainterはBlenderでカーブを描くと様座な液体を作成出来るジオメトリーノードですが、バージョン1.3にアップデートされて、リグのあるアニメーションオブジェクトに流体を貼り
+The post モデルの上にカーブを描くと液体を簡単にペイント出来るFluid Painterが1.3にバージョンアップでアニメーションとシミュレーション中でも液体が追従するようになりました first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
+        <author>
+            <name>modelinghappy</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ZTexturator plugin for Zbrush 用意されている複数の金属、石、木、肉、布などのマテリアルを１クリックでモデルに割り当てて直ぐに質感を付けれるプラグイン]]></title>
         <id>https://modelinghappy.com/?p=55605</id>
@@ -2817,16 +2828,6 @@ The post InstaMatのアカウント作成インストール方法を１から詳
         <link href="https://3dnchu.com/archives/unigine-engine-2-18/"/>
         <updated>2024-01-24T15:08:36.000Z</updated>
         <summary type="html"><![CDATA[UNIGINE Companyが開発しているクロスプラットフォーム ゲームエンジンの最新アップデート「UNIGINE Engine 2.18」が公開されました！]]></summary>
-        <author>
-            <name>Ymt3D -3dnchu-</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[nerfstudio v1.0 - NeRF（Neural Radiance Fields）の作成や学習、可視化などが行えるオープンソースツールセット！正式バージョンがリリース！splatfactoモデルにも対応！]]></title>
-        <id>https://3dnchu.com/?p=1036880</id>
-        <link href="https://3dnchu.com/archives/nerfstudio-v1-0/"/>
-        <updated>2024-01-24T15:00:46.000Z</updated>
-        <summary type="html"><![CDATA[NeRF（Neural Radiance Fields）を使った構築・学習・可視化などを可能にするツールセット『nerfstudio v1.0』がリリースされました。]]></summary>
         <author>
             <name>Ymt3D -3dnchu-</name>
         </author>

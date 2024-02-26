@@ -1055,46 +1055,6 @@
             "type": "video/mp4"
           },
           "imageUrl": "https://cgbox.jp/wp-content/uploads/2024/01/Thumbnail_rounded.png"
-        },
-        {
-          "id": "https://cgbox.jp/?p=52257",
-          "author": "UEDA",
-          "description": "こんばんは！ 今回はアドオンの「Clip View」を紹介します。 こちらのリンクから購入することができます。 Clip View 「Clip View」は、任意の軸または視野角にわたって単一または複数のオブジェクトにク […]",
-          "link": "https://cgbox.jp/2024/01/27/news-addon-clipview/",
-          "publishedOn": "2024-01-27T10:00:00.000Z",
-          "wordCount": 1958,
-          "title": "【アドオン紹介】Clip View – 部分的にカットして内部を編集！",
-          "enclosure": {
-            "url": "https://cgbox.jp/wp-content/uploads/2024/01/1eb43a21-71d8-4eb1-ae3c-cda75f449a8b.mp4",
-            "length": "0",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://cgbox.jp/wp-content/uploads/2024/01/carousel_1-1.jpg"
-        },
-        {
-          "id": "https://cgbox.jp/?p=52240",
-          "author": "UEDA",
-          "description": "こんばんは！ 今回はアドオンの「Blender Native Snapping」を紹介します。 こちらのリンクから購入することができます。 Blender Native Snapping 「Blender Native  […]",
-          "link": "https://cgbox.jp/2024/01/27/news-addon-blendernativesnapping/",
-          "publishedOn": "2024-01-27T09:00:00.000Z",
-          "wordCount": 2080,
-          "title": "【アドオン紹介】Blender Native Snapping – スナップ機能詰め込みパイメニュー！",
-          "enclosure": {
-            "url": "https://cgbox.jp/wp-content/uploads/2024/01/5bb97aa6-6fd7-4330-a7e9-42e56b6cbaf0.mp4",
-            "length": "0",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://cgbox.jp/wp-content/uploads/2024/01/01-2-1.jpg"
-        },
-        {
-          "id": "https://cgbox.jp/?p=52156",
-          "author": "rubenmesserschmidt",
-          "description": "Section Boxとは？ Section Box は、建築の視覚化、製品設計などのための最も完全な Blender アドオンです。 見事なビュー、正確な断面図、さらには複雑な立面図を簡単に作成し、ワンクリックで DX […]",
-          "link": "https://cgbox.jp/2024/01/27/member-section-box/",
-          "publishedOn": "2024-01-27T06:15:00.000Z",
-          "wordCount": 2090,
-          "title": "【メンバー投稿】Section Box – 断面図・立面図・建築の視覚化",
-          "imageUrl": "https://cgbox.jp/wp-content/uploads/2024/01/sectionbox_youtube_thumbnail.png"
         }
       ]
     },
@@ -1121,6 +1081,36 @@
       "feedUrl": "https://3dnchu.com/feed/",
       "siteUrl": "https://3dnchu.com",
       "articles": [
+        {
+          "id": "https://3dnchu.com/?p=1037895",
+          "author": "Ymt3D -3dnchu-",
+          "description": "cwolf3dによる、Blender向け無料リトポロジーアドオン「Retopo MT」のBlender 4.0対応版がリリースされております。",
+          "link": "https://3dnchu.com/archives/retopo-mt-for-blender-4-0/",
+          "publishedOn": "2024-02-25T18:26:27.000Z",
+          "wordCount": 7188,
+          "title": "Retopo MT for Blender 4.0.0+ - Blender向け無料のリトポロジーアドオンが久しぶりにアップデート！最新版Blenderに対応！",
+          "enclosure": {
+            "url": "https://3dnchu.com/wp-content/uploads/Retopo-MT-for-Blender-4.0.mp4",
+            "length": "751778",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://3dnchu.com/wp-content/uploads/Retopo-MT-for-Blender-4.0.webp"
+        },
+        {
+          "id": "https://3dnchu.com/?p=1035834",
+          "author": "Ymt3D -3dnchu-",
+          "description": "衣服特化のUnreal Engine 5 向けリアルタイムクロスシミュレーションプラグイン「Style3D Simulator 2.0」がリリースされました！",
+          "link": "https://3dnchu.com/archives/style3d-simulator-2-0/",
+          "publishedOn": "2024-02-25T17:28:27.000Z",
+          "wordCount": 7413,
+          "title": "Style3D Simulator 2.0  - 衣服特化のUnreal Engine 5 向けリアルタイムクロスシミュレーションプラグイン！最新バージョンでMayaなどで作成した通常メッシュに対応！",
+          "enclosure": {
+            "url": "https://3dnchu.com/wp-content/uploads/Style3D-Simulator-2.0.webp",
+            "length": "1082202",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://3dnchu.com/wp-content/uploads/Style3D-Simulator-2.0.webp"
+        },
         {
           "id": "https://3dnchu.com/?p=1037849",
           "author": "Ymt3D -3dnchu-",
@@ -1840,21 +1830,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "https://3dnchu.com/wp-content/uploads/Revopoint-MINI-2.webp"
-        },
-        {
-          "id": "https://3dnchu.com/?p=1036986",
-          "author": "Ymt3D -3dnchu-",
-          "description": "PolygonflowによるUnreal Engine向けワールド構築支援プラグイン『Dash』のv1.5がリリースされました！",
-          "link": "https://3dnchu.com/archives/dash-1-5-0/",
-          "publishedOn": "2024-01-27T00:51:15.000Z",
-          "wordCount": 7333,
-          "title": "Dash 1.5.0 - Polygonflowによる直感的かつシンプルな世界創造用Unreal Engineプラグインのアップデートが公開！AIによるコンテンツへのタグ付けや高速なコンテンツブラウザなどを搭載！",
-          "enclosure": {
-            "url": "https://3dnchu.com/wp-content/uploads/Dash-1.5.0.webp",
-            "length": "1223506",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://3dnchu.com/wp-content/uploads/Dash-1.5.0.webp"
         }
       ]
     },
@@ -2445,6 +2420,16 @@
       "siteUrl": "https://modelinghappy.com",
       "articles": [
         {
+          "id": "https://modelinghappy.com/?p=55680",
+          "author": "modelinghappy",
+          "description": "UVgami 以前はGumroadで15ドルで販売されていたBlenderでモデルを自動的にワンクリックで高度なルゴリズムで伸縮や継ぎ目を最小限に抑えながらUV展開してくれるアドオンのUVgamiが小規模なバージョンアッ\nThe post UVgami1クリックでゆがみ少ないUV展開してくれるBlender用アドオンが無料配布開始されました first appeared on 3DCG最新情報サイト MODELING HAPPY.",
+          "link": "https://modelinghappy.com/archives/55680",
+          "publishedOn": "2024-02-25T23:32:00.000Z",
+          "wordCount": 3395,
+          "title": "UVgami1クリックでゆがみ少ないUV展開してくれるBlender用アドオンが無料配布開始されました",
+          "imageUrl": "https://modelinghappy.com/wp-content/uploads/2024/02/20240226_UVgami.gif"
+        },
+        {
           "id": "https://modelinghappy.com/?p=55671",
           "author": "modelinghappy",
           "description": "WingFox 日本語講座バンドルパックキャンペーン 世界中のチュートリアル動画を販売しているWingfoxのサイトで、20本の厳選されたキャラクター作成や背景作成などの日本語講座の動画から、4本選ぶと合計金額から15%\nThe post WingFoxで20本の日本語講座から4本選ぶと15%オフになるお得なキャンペーンが開催中です！ first appeared on 3DCG最新情報サイト MODELING HAPPY.",
@@ -2913,26 +2898,6 @@
           "wordCount": 3401,
           "title": "adjust segments ポリラインとサーフェースを分割してモデルを滑らかに等間隔に分割したりポリゴン数を減らす場合に使えるBlender用アドオン",
           "imageUrl": "https://modelinghappy.com/wp-content/uploads/2024/01/20240128_adjustsegments-1.gif"
-        },
-        {
-          "id": "https://modelinghappy.com/?p=54730",
-          "author": "modelinghappy",
-          "description": "From 2D to 3D Create Chibi Characters #8220;Bubu Bear#8221; #8220;3D Duck#8221; #8220;Duck with Knife#82\nThe post Blender初心者向け 可愛らしいチビキャラクターを３体作成するチュートリアル動画がWingfoxで販売開始！ first appeared on 3DCG最新情報サイト MODELING HAPPY.",
-          "link": "https://modelinghappy.com/archives/54730",
-          "publishedOn": "2024-01-27T08:31:38.000Z",
-          "wordCount": 3438,
-          "title": "Blender初心者向け 可愛らしいチビキャラクターを３体作成するチュートリアル動画がWingfoxで販売開始！",
-          "imageUrl": "https://modelinghappy.com/wp-content/uploads/2024/01/20240127_wingfox_01.jpg"
-        },
-        {
-          "id": "https://modelinghappy.com/?p=54724",
-          "author": "modelinghappy",
-          "description": "Stair Generator Free Blender Addon Stair Generator Free Blender Addonは１クリックで階段を作成出来るアドオンです。 アドオンからは、プリセットで用意され\nThe post Stair Generator Free Blender Addon シンプルな階段を１ボタンで作成して調整できるジオメトリーノードファイルが無料配布中 first appeared on 3DCG最新情報サイト MODELING HAPPY.",
-          "link": "https://modelinghappy.com/archives/54724",
-          "publishedOn": "2024-01-27T01:38:40.000Z",
-          "wordCount": 3428,
-          "title": "Stair Generator Free Blender Addon シンプルな階段を１ボタンで作成して調整できるジオメトリーノードファイルが無料配布中",
-          "imageUrl": "https://modelinghappy.com/wp-content/uploads/2024/01/20240127_StairGeneratorFreeBlenderAddon.gif"
         }
       ]
     },

@@ -1107,6 +1107,51 @@
       "siteUrl": "https://3dnchu.com",
       "articles": [
         {
+          "id": "https://3dnchu.com/?p=1038160",
+          "author": "Ymt3D -3dnchu-",
+          "description": "Indie-us Games代表の中村 匡彦氏（alwei @aizen76）が最近の中国系NPRゲームで多く採用されているSDFを活用したシャドウマッピング手法をブログで解説されています。",
+          "link": "https://3dnchu.com/archives/ue5-sdf-face-shadow-mapping-alwei/",
+          "publishedOn": "2024-03-04T03:13:51.000Z",
+          "wordCount": 7399,
+          "title": "UE5 SDF Face Shadow Mapping- alwei氏が中国系NPRゲームで主流となりつつあるSDFを使用したシェーディング方法の解説記事を公開！その他SDFツールやアセットにも注目！",
+          "enclosure": {
+            "url": "https://3dnchu.com/wp-content/uploads/UE5-SDF-Face-Shadow-Mapping.webp",
+            "length": "870162",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://3dnchu.com/wp-content/uploads/UE5-SDF-Face-Shadow-Mapping.webp"
+        },
+        {
+          "id": "https://3dnchu.com/?p=1030520",
+          "author": "Ymt3D -3dnchu-",
+          "description": "CelesGameによるUnlitベースのアニメシェーダーアセット『Celes Anime Shader v1.3』のご紹介。",
+          "link": "https://3dnchu.com/archives/celes-anime-shader-v1-3/",
+          "publishedOn": "2024-03-04T03:13:28.000Z",
+          "wordCount": 7300,
+          "title": "Celes Anime Shader v1.3 - SDFシャドウも実装されたUnreal Engine 5向けUnlitベースのアニメスタイルシェーダーアセット！",
+          "enclosure": {
+            "url": "https://3dnchu.com/wp-content/uploads/Celes-Anime-Shader-v1.3.webp",
+            "length": "1157068",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://3dnchu.com/wp-content/uploads/Celes-Anime-Shader-v1.3.webp"
+        },
+        {
+          "id": "https://3dnchu.com/?p=1035285",
+          "author": "Ymt3D -3dnchu-",
+          "description": "なが氏（@nagakagachi）によるSDFとShadowThresholdMapを生成するUE5向けツールがGithub上で無料公開されています。",
+          "link": "https://3dnchu.com/archives/sdf-generator-for-unreal-engine-nagakagachi/",
+          "publishedOn": "2024-03-04T03:11:13.000Z",
+          "wordCount": 7287,
+          "title": "SDF Generator for Unreal Engine - なが氏によるSDFとShadowThresholdMapを生成するUE5向けSDF関連ツールセット！Github上で無料公開中！",
+          "enclosure": {
+            "url": "https://3dnchu.com/wp-content/uploads/SDF-Generator-for-Unreal-Engine-.webp",
+            "length": "1185606",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://3dnchu.com/wp-content/uploads/SDF-Generator-for-Unreal-Engine-.webp"
+        },
+        {
           "id": "https://3dnchu.com/?p=1038146",
           "author": "Ymt3D -3dnchu-",
           "description": "AdobeがUSDファイルフォーマットを各種3Dフォーマットに変換する為のプラグイン群『USD File Format Plugins』をオープンソース公開しております。",
@@ -2058,6 +2103,46 @@
       "feedUrl": "https://cgworld.jp/atom.xml",
       "siteUrl": "https://cgworld.jp/",
       "articles": [
+        {
+          "id": "https://cgworld.jp/article/306-ochibisan03.html",
+          "author": null,
+          "description": "ほのぼのアニメ『オチビサン』のメイキング。",
+          "link": "https://cgworld.jp/article/306-ochibisan03.html",
+          "publishedOn": "2024-03-04T02:07:03.000Z",
+          "wordCount": 697,
+          "title": "新版画風のルックで描かれるほのぼのアニメ『オチビサン』（3）～美術＆プロップ篇 - 特集",
+          "imageUrl": "https://cgworld.jp/article/assets_c/2024/02/Ochibi3_ep10_still_1.50.2-thumb-1920x1080-50185.jpg"
+        },
+        {
+          "id": "https://cgworld.jp/flashnews/2403-houdini.html",
+          "author": null,
+          "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
+          "link": "https://cgworld.jp/flashnews/2403-houdini.html",
+          "publishedOn": "2024-03-04T01:35:00.000Z",
+          "wordCount": 689,
+          "title": "3/7（木）オンライン開催！　Houdini最新技術紹介セミナー（ボーンデジタル） - ニュース",
+          "imageUrl": "https://cgworld.jp/flashnews/assets_c/2024/03/2403_houdini_top-thumb-1536x665-50475.jpg"
+        },
+        {
+          "id": "https://cgworld.jp/regular/093-harashima.html",
+          "author": null,
+          "description": "",
+          "link": "https://cgworld.jp/regular/093-harashima.html",
+          "publishedOn": "2024-03-04T01:30:00.000Z",
+          "wordCount": 718,
+          "title": "「どんな年齢でもチャンスはある、行きたいときがタイミングです」36歳でカナダに渡航、第93回：原島 順（Digital Matte Painter / Framestore Montreal） - 連載",
+          "imageUrl": "https://cgworld.jp/regular/assets_c/2024/02/Main-thumb-1920x1085-49859.jpg"
+        },
+        {
+          "id": "https://cgworld.jp/article/2402-gamecareerexpo.html",
+          "author": null,
+          "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
+          "link": "https://cgworld.jp/article/2402-gamecareerexpo.html",
+          "publishedOn": "2024-03-04T00:09:01.000Z",
+          "wordCount": 688,
+          "title": "ゲーム業界の開発職に特化した就職イベント「ゲームキャリアEXPO」レポート - 特集",
+          "imageUrl": "https://cgworld.jp/article/assets_c/2024/02/8b672e7faa318ebee2be1f5f201ff113691363bf-thumb-1920x1279-50318.jpg"
+        },
         {
           "id": "https://cgworld.jp/flashnews/240301-gemini-laboratory.html",
           "author": null,
@@ -3277,6 +3362,36 @@
       "feedUrl": "https://3dtotal.jp/feed/",
       "siteUrl": "https://3dtotal.jp",
       "articles": [
+        {
+          "id": "https://3dtotal.jp/?p=45597",
+          "author": "3dtotal管理人T",
+          "description": "★Modo 17.0 | Features Overview（3分35秒） Modo 17.0 では、多くのコアシステムが包括的にアップデートされ、より速く、よりインタラクティブで、より開発者に優しいアプリケーションとな […]\nThe post パフォーマンスの改善、ツール強化、Octaneレンダー..。Modo 17.0 の新機能紹介映像 first appeared on 3dtotal 日本語オフィシャルサイト.",
+          "link": "https://3dtotal.jp/news/45597/",
+          "publishedOn": "2024-03-04T03:18:39.000Z",
+          "wordCount": 513,
+          "title": "パフォーマンスの改善、ツール強化、Octaneレンダー..。Modo 17.0 の新機能紹介映像",
+          "imageUrl": "https://3dtotal.jp/wp-content/uploads/2024/03/modo17_nfeat.jpg"
+        },
+        {
+          "id": "https://3dtotal.jp/?p=44215",
+          "author": "3dtotal管理人T",
+          "description": "★短編『ミニオンの月世界』予告映像＜3月15日（金）『FLY！／フライ！』同時上映！＞（30秒） 2022年に世界中で社会現象を巻き起こし累計約10億ドルの興行収入を記録、国内では2022年度興行ランキング洋画アニメNO […]\nThe post 月泥棒のアイツが帰ってきた! 短編『ミニオンの月世界』のトレーラー first appeared on 3dtotal 日本語オフィシャルサイト.",
+          "link": "https://3dtotal.jp/news/44215/",
+          "publishedOn": "2024-03-04T02:30:37.000Z",
+          "wordCount": 507,
+          "title": "月泥棒のアイツが帰ってきた! 短編『ミニオンの月世界』のトレーラー",
+          "imageUrl": "https://3dtotal.jp/wp-content/uploads/2023/11/mooned_trailer.jpg"
+        },
+        {
+          "id": "https://3dtotal.jp/?p=45584",
+          "author": "3dtotal管理人T",
+          "description": "★『SHOGUN 将軍』｜本編冒頭映像（3分54秒） 真田広之・主演! 豪華俳優陣が集結し、ハリウッドが圧倒的なスケールで戦国時代の日本を描く、陰謀と策略が渦巻く全10話の戦国スペクタクルドラマ。 1980年にアメリカで […]\nThe post ハリウッドが戦国時代の日本を描く。主演：真田広之、ドラマ『SHOGUN 将軍』の冒頭約4分映像 first appeared on 3dtotal 日本語オフィシャルサイト.",
+          "link": "https://3dtotal.jp/news/45584/",
+          "publishedOn": "2024-03-04T02:07:46.000Z",
+          "wordCount": 500,
+          "title": "ハリウッドが戦国時代の日本を描く。主演：真田広之、ドラマ『SHOGUN 将軍』の冒頭約4分映像",
+          "imageUrl": "https://3dtotal.jp/wp-content/uploads/2024/03/shogun_4mins.jpg"
+        },
         {
           "id": "https://3dtotal.jp/?p=45577",
           "author": "3dtotal管理人T",

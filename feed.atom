@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-23T12:13:00.163Z</updated>
+    <updated>2024-03-24T00:36:49.539Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Transmogrifier v1.5 - 3Dアセットを他のフォーマットに一括バッチ変換するBlenderアドオン！アセットライブラリ登録も可能！BLEND、FBX、OBJ、glTF、STL、PLY、X3D、DAE、ABC、USDに対応！無料！＆オープンソース！]]></title>
+        <id>https://3dnchu.com/?p=1039150</id>
+        <link href="https://3dnchu.com/archives/transmogrifier-v1-5/"/>
+        <updated>2024-03-24T00:28:03.000Z</updated>
+        <summary type="html"><![CDATA[3Dアセットを他のフォーマットに一括バッチ変換する無料＆オープンソースBlenderアドオン『Transmogrifier v1.5』のご紹介！]]></summary>
+        <author>
+            <name>Ymt3D -3dnchu-</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vertex Project v1.0 - 選択した要素の法線などから平面を定義してエッジや頂点を投影移動させるモデリング補助アドオンがGithub上で無料公開中！]]></title>
+        <id>https://3dnchu.com/?p=1039155</id>
+        <link href="https://3dnchu.com/archives/vertex-project-v1-0/"/>
+        <updated>2024-03-23T14:27:19.000Z</updated>
+        <summary type="html"><![CDATA[Kuklach氏による選択した要素の法線などから平面を定義してエッジや頂点を投影移動させるモデリング補助アドオン『Vertex Project v1.0 』がGithub上で無料公開されています！]]></summary>
+        <author>
+            <name>Ymt3D -3dnchu-</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【アドオン紹介】Procedural Weld Tools – 溶接痕を描画で簡単追加！]]></title>
         <id>https://cgbox.jp/?p=54411</id>
@@ -2890,28 +2910,6 @@ The post Bevelled Extrude 面を押し出すと同時に自動的にエッジに
         <summary type="html"><![CDATA[Tsvetomir Georgiev氏によるZBrushでのテクスチャ制作を支援するプラグイン『ZTexturator』がリリースされています！]]></summary>
         <author>
             <name>Ymt3D -3dnchu-</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[モデルの上にカーブを描くと液体を簡単にペイント出来るFluid Painterが1.3にバージョンアップでアニメーションとシミュレーション中でも液体が追従するようになりました]]></title>
-        <id>https://modelinghappy.com/?p=55627</id>
-        <link href="https://modelinghappy.com/archives/55627"/>
-        <updated>2024-02-23T02:07:17.000Z</updated>
-        <summary type="html"><![CDATA[Fluid Painter Fluid PainterはBlenderでカーブを描くと様座な液体を作成出来るジオメトリーノードですが、バージョン1.3にアップデートされて、リグのあるアニメーションオブジェクトに流体を貼り
-The post モデルの上にカーブを描くと液体を簡単にペイント出来るFluid Painterが1.3にバージョンアップでアニメーションとシミュレーション中でも液体が追従するようになりました first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
-        <author>
-            <name>modelinghappy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ZTexturator plugin for Zbrush 用意されている複数の金属、石、木、肉、布などのマテリアルを１クリックでモデルに割り当てて直ぐに質感を付けれるプラグイン]]></title>
-        <id>https://modelinghappy.com/?p=55605</id>
-        <link href="https://modelinghappy.com/archives/55605"/>
-        <updated>2024-02-23T00:15:33.000Z</updated>
-        <summary type="html"><![CDATA[ZTexturator plugin for Zbrush ZTexturatorはZbrushで用意されている専用ライブラリ メニューから金属、石、木、肉、布など、さまざまなマテリアルタイプの多くのスマート プリセット
-The post ZTexturator plugin for Zbrush 用意されている複数の金属、石、木、肉、布などのマテリアルを１クリックでモデルに割り当てて直ぐに質感を付けれるプラグイン first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
-        <author>
-            <name>modelinghappy</name>
         </author>
     </entry>
 </feed>

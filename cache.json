@@ -2240,6 +2240,16 @@
       "siteUrl": "https://cgworld.jp/",
       "articles": [
         {
+          "id": "https://cgworld.jp/flashnews/cgw309-pr.html",
+          "author": null,
+          "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
+          "link": "https://cgworld.jp/flashnews/cgw309-pr.html",
+          "publishedOn": "2024-03-29T03:00:00.000Z",
+          "wordCount": 679,
+          "title": "CGWORLD vol.309（2024年5月号）、『グランブルーファンタジー リリンク』特集号を先行告知！ - ニュース",
+          "imageUrl": "https://cgworld.jp/flashnews/assets_c/2024/03/web_infobanner_before_A-thumb-1000x563-51659.jpg"
+        },
+        {
           "id": "https://cgworld.jp/special-feature/2403-kms-kyujin.html",
           "author": null,
           "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
@@ -2964,13 +2974,34 @@
       "title": "SPARKCREATIVE Tech Blog",
       "feedUrl": "https://tech.spark-creative.co.jp/feed",
       "siteUrl": "https://tech.spark-creative.co.jp/",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://tech.spark-creative.co.jp/entry/2024/03/29/170810",
+          "author": null,
+          "description": "こんにちはエンジニアの中島悟です。 前回は半年ほど前になりますがWebGPUで最小の手間で三角形を描いてみました。 しかしこの四角形ではフィルタやシェーダー芸くらいしか使い道がありません。 そこでもう少し拡張しようと思います。具体的には下のものです。 頂点バッファとインデックスバッファでポリゴンメッシュを描画する テクスチャを使う シェーダーにパラメーターを渡す これだけあればモデルを描画することもできるでしょう。",
+          "link": "https://tech.spark-creative.co.jp/entry/2024/03/29/170810",
+          "publishedOn": "2024-03-29T08:08:10.000Z",
+          "wordCount": 534,
+          "title": "WebGPU Next Step",
+          "imageUrl": "https://ogimage.blog.st-hatena.com/26006613609912768/6801883189094407125/1711699690"
+        }
+      ]
     },
     {
       "title": "3DCG最新情報サイト MODELING HAPPY",
       "feedUrl": "https://modelinghappy.com/feed",
       "siteUrl": "https://modelinghappy.com",
       "articles": [
+        {
+          "id": "https://modelinghappy.com/?p=56158",
+          "author": "modelinghappy",
+          "description": "Gobo#8217;s Plus #8211; Procedural amp; 4K Gobos For Cycles + Eevee Gobo#8217;s PlusはBlenderで、単調なライトの当たってる\nThe post Gobo’s Plus Blenderでシーンに専用テクスチャとプロシージャル素材を使用する事で疑似的に光と影を落とせる素材セット first appeared on 3DCG最新情報サイト MODELING HAPPY.",
+          "link": "https://modelinghappy.com/archives/56158",
+          "publishedOn": "2024-03-29T04:40:27.000Z",
+          "wordCount": 3439,
+          "title": "Gobo’s Plus Blenderでシーンに専用テクスチャとプロシージャル素材を使用する事で疑似的に光と影を落とせる素材セット",
+          "imageUrl": "https://modelinghappy.com/wp-content/uploads/2024/03/20240329_gobosplus.gif"
+        },
         {
           "id": "https://modelinghappy.com/?p=56143",
           "author": "modelinghappy",
@@ -3458,6 +3489,26 @@
       "feedUrl": "https://3dtotal.jp/feed/",
       "siteUrl": "https://3dtotal.jp",
       "articles": [
+        {
+          "id": "https://3dtotal.jp/?p=45912",
+          "author": "3dtotal管理人T",
+          "description": "★ONE PIECE Season 1 VFX Breakdown（2分3秒/ 制作：Framestore） Framestore は、人気漫画・アニメ「ONE PIECE」の実写映像化において、重要なビジュアルエフェク […]\nThe post ゴムゴムの実、バラバラの実..。実写版『ONE PIECE』の VFXブレイクダウン映像 first appeared on 3dtotal 日本語オフィシャルサイト.",
+          "link": "https://3dtotal.jp/news/45912/",
+          "publishedOn": "2024-03-29T03:14:25.000Z",
+          "wordCount": 529,
+          "title": "ゴムゴムの実、バラバラの実..。実写版『ONE PIECE』の VFXブレイクダウン映像",
+          "imageUrl": "https://3dtotal.jp/wp-content/uploads/2024/03/onepiece_fstore.jpg"
+        },
+        {
+          "id": "https://3dtotal.jp/?p=45908",
+          "author": "3dtotal管理人T",
+          "description": "★3 Body Problem | Breakdown Reel（制作：Image Engine） 何かとても奇妙なことに備えて。『ゲーム・オブ・スローンズ』のクリエイター デイヴィッド・ベニオフ と D・B・ワイス が […]\nThe post 世界的ベストセラー小説を映像化。SFドラマ『三体』のVFXブレイクダウン映像 first appeared on 3dtotal 日本語オフィシャルサイト.",
+          "link": "https://3dtotal.jp/news/45908/",
+          "publishedOn": "2024-03-29T03:09:12.000Z",
+          "wordCount": 524,
+          "title": "世界的ベストセラー小説を映像化。SFドラマ『三体』のVFXブレイクダウン映像",
+          "imageUrl": "https://3dtotal.jp/wp-content/uploads/2024/03/3body_iengine.jpg"
+        },
         {
           "id": "https://3dtotal.jp/?p=45885",
           "author": "3dtotal管理人T",

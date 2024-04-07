@@ -940,16 +940,6 @@
           "wordCount": 2296,
           "title": "【Unity】デカールの使い方【URP・HDRP対応】",
           "imageUrl": "https://cgbox.jp/wp-content/uploads/2024/02/10-3.jpg"
-        },
-        {
-          "id": "https://cgbox.jp/?p=53497",
-          "author": "Seo",
-          "description": "こんにちは！UnityのUI機能の一つであるスライダー、使っていますか？ スライダーはHPバーとして使えたり、音量調節機能として使えたりと使いこなせるととても便利なUIです。 本記事ではそんなスライダーの使い方を解説して […]",
-          "link": "https://cgbox.jp/2024/03/08/unity-slider/",
-          "publishedOn": "2024-03-08T02:19:04.000Z",
-          "wordCount": 2409,
-          "title": "【Unity】スライダーの使い方と値の取得方法解説",
-          "imageUrl": "https://cgbox.jp/wp-content/uploads/2024/02/9.png"
         }
       ]
     },
@@ -964,6 +954,16 @@
       "feedUrl": "https://tech-art.online/feed/",
       "siteUrl": "https://tech-art.online",
       "articles": [
+        {
+          "id": "https://tech-art.online/?p=1574",
+          "author": "管理人",
+          "description": "Mayaでカスタムシェーダーを始めましょう！\nHello! GLSL Shader! first appeared on TECH ART ONLINE.",
+          "link": "https://tech-art.online/maya-glslshader101/?utm_source=rss&utm_medium=rss&utm_campaign=maya-glslshader101",
+          "publishedOn": "2024-04-06T12:51:12.000Z",
+          "wordCount": 14324,
+          "title": "Hello! GLSL Shader!",
+          "imageUrl": "https://tech-art.online/wordpress/wp-content/uploads/2024/04/20240406_214314_resize-485x300.jpg"
+        },
         {
           "id": "https://tech-art.online/?p=1562",
           "author": "管理人",
@@ -1117,6 +1117,96 @@
       "feedUrl": "https://3dnchu.com/feed/",
       "siteUrl": "https://3dnchu.com",
       "articles": [
+        {
+          "id": "https://3dnchu.com/?p=1039457",
+          "author": "Ymt3D -3dnchu-",
+          "description": "3Dモデラーのカフジ氏（ @Kafuji ）によるBlender用アドオンバンドル『Sakura Creative Suite + VRToon Pack』のご紹介！「Sakura Tools」「Sakura UX Enhancer」「Sakura Auto Simplify」「Sakura Poselib（無料）」「VRToon Shader ManagerV2」をまとめて購入可能です！",
+          "link": "https://3dnchu.com/archives/sakura-creative-suite-vrtoon-pack/",
+          "publishedOn": "2024-04-06T18:50:52.000Z",
+          "wordCount": 7726,
+          "title": "Sakura Creative Suite + VRToon Pack - カフジ氏のキャラクター制作支援Blenderアドオンシリーズのお得なバンドル！30%割引特別クーポンも発行中！",
+          "enclosure": {
+            "url": "https://3dnchu.com/wp-content/uploads/Sakura-Creative-Suite-VRToon-Pack-Blender-Market.png",
+            "length": "76452",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://3dnchu.com/wp-content/uploads/Sakura-Creative-Suite-VRToon-Pack-Blender-Market.png"
+        },
+        {
+          "id": "https://3dnchu.com/?p=1039454",
+          "author": "Ymt3D -3dnchu-",
+          "description": "3Dモデラーのカフジ氏（ @Kafuji ）によるBlender用アドオン『Sakura Tools』がリリースされました！キャラクターモデリングなどを行う際に便利な機能を多数提供する作業効率化アドオンです！",
+          "link": "https://3dnchu.com/archives/sakura-tools/",
+          "publishedOn": "2024-04-06T18:48:21.000Z",
+          "wordCount": 7586,
+          "title": "Sakura Tools - モデル単位のバッチ処理などモデラーのための便利な機能を膨大に提供するBlenderアドオン！30%割引特別クーポンも発行中！MMD＆Unity＆VRChat向けモデラーさん注目！",
+          "enclosure": {
+            "url": "https://3dnchu.com/wp-content/uploads/Sakura-Tools.png",
+            "length": "305157",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://3dnchu.com/wp-content/uploads/Sakura-Tools.png"
+        },
+        {
+          "id": "https://3dnchu.com/?p=1039463",
+          "author": "Ymt3D -3dnchu-",
+          "description": "3Dモデラーのカフジ氏（ @Kafuji ）によるBlender用アドオン『Sakura UX Enhancer』がリリースされました！UIを少し拡張してBlenderの使い勝手を向上させます！",
+          "link": "https://3dnchu.com/archives/sakura-ux-enhancer/",
+          "publishedOn": "2024-04-06T18:47:54.000Z",
+          "wordCount": 7667,
+          "title": "Sakura UX Enhancer - 上部の3Dメニューバーに便利なモディファイアOnOffボタンなど追加！その他エディター挙動を拡張し様々なアプローチでBlenderの使い勝手を向上させるアドオン！30%割引特別クーポンも発行中！",
+          "enclosure": {
+            "url": "https://3dnchu.com/wp-content/uploads/Sakura-UX-Enhancer-1.webp",
+            "length": "987198",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://3dnchu.com/wp-content/uploads/Sakura-UX-Enhancer-1.webp"
+        },
+        {
+          "id": "https://3dnchu.com/?p=1039461",
+          "author": "Ymt3D -3dnchu-",
+          "description": "3Dモデラーのカフジ氏（ @Kafuji ）による、特定モード時にシーンの描画やモディファイアなどを無効化し動作を軽量化させるBlenderアドオン『Sakura Auto Simplify』がリリースされました！",
+          "link": "https://3dnchu.com/archives/sakura-auto-simplify/",
+          "publishedOn": "2024-04-06T18:47:28.000Z",
+          "wordCount": 7686,
+          "title": "Sakura Auto Simplify - 特定モード時に一括モディファイアOFFなどでシーンを自動的に簡略化！描画フレームレートやハンドリングを向上させるBlenderアドオン！日本語＆英語対応！30%割引特別クーポンも発行中！",
+          "enclosure": {
+            "url": "https://3dnchu.com/wp-content/uploads/Sakura-Auto-Simplify-1.webp",
+            "length": "924308",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://3dnchu.com/wp-content/uploads/Sakura-Auto-Simplify-1.webp"
+        },
+        {
+          "id": "https://3dnchu.com/?p=1039459",
+          "author": "Ymt3D -3dnchu-",
+          "description": "3Dモデラーのカフジ氏（ @Kafuji ）による、旧ポーズライブラリ風挙動を上位互換な感じで実装するBlenderアドオン『Sakura Poselib』がリリースされています！",
+          "link": "https://3dnchu.com/archives/sakura-poselib/",
+          "publishedOn": "2024-04-06T18:47:02.000Z",
+          "wordCount": 7658,
+          "title": "Sakura Poselib - 旧ポーズライブラリを置き換え強化する形で開発された無料＆オープンソースのBlenderアドオン！mmd_toolsとPMX Editorとの互換性を考慮！",
+          "enclosure": {
+            "url": "https://3dnchu.com/wp-content/uploads/Sakura-Poselib.png",
+            "length": "224270",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://3dnchu.com/wp-content/uploads/Sakura-Poselib.png"
+        },
+        {
+          "id": "https://3dnchu.com/?p=1039452",
+          "author": "Ymt3D -3dnchu-",
+          "description": "3Dモデラーのカフジ氏（ @Kafuji ）によるBlender用アドオン『Vrtoon Shader Manager V2』がリリースされました！扱いやすいトゥーンシェーダーを１つのパネル上で設定＆調整が可能なアドオンです！",
+          "link": "https://3dnchu.com/archives/vrtoon-shader-manager-v2/",
+          "publishedOn": "2024-04-06T18:46:34.000Z",
+          "wordCount": 7967,
+          "title": "Vrtoon Shader Manager V2 - EEVEE向けに扱いやすいNPRシェーディングを手軽に追加＆設定可能なBlenderアドオン！30%割引特別クーポンも発行中！",
+          "enclosure": {
+            "url": "https://3dnchu.com/wp-content/uploads/Vrtoon-Shader-Manager-V2.webp",
+            "length": "861232",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://3dnchu.com/wp-content/uploads/Vrtoon-Shader-Manager-V2.webp"
+        },
         {
           "id": "https://3dnchu.com/?p=1039740",
           "author": "Ymt3D -3dnchu-",
@@ -2031,51 +2121,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "https://3dnchu.com/wp-content/uploads/THE-WILD-ROBOT-Official-Trailer.webp"
-        },
-        {
-          "id": "https://3dnchu.com/?p=1038436",
-          "author": "Ymt3D -3dnchu-",
-          "description": "DanAnim8ed氏（@Dananim8ed）によるBlender向けの棒人間キャラクターのリグセットアップ済み3Dモデルが無料配布されています！",
-          "link": "https://3dnchu.com/archives/stick-figure-rig-for-blender-4-0/",
-          "publishedOn": "2024-03-08T09:59:14.000Z",
-          "wordCount": 7319,
-          "title": "Stick Figure Rig - 棒人間キャラクターのBlender向けリグセットアップ済み3Dモデルが無料公開中！",
-          "enclosure": {
-            "url": "https://3dnchu.com/wp-content/uploads/Stick-Figure-Rig-for-Blender-4.0-.jpg",
-            "length": "68613",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://3dnchu.com/wp-content/uploads/Stick-Figure-Rig-for-Blender-4.0-.jpg"
-        },
-        {
-          "id": "https://3dnchu.com/?p=1038407",
-          "author": "Ymt3D -3dnchu-",
-          "description": "youngによる、手作業でのウェイト調整を支援してくれるBlenderアドオン「Handy Weight Edit」がリリースされています。",
-          "link": "https://3dnchu.com/archives/handy-weight-edit-1-3/",
-          "publishedOn": "2024-03-08T02:51:22.000Z",
-          "wordCount": 7248,
-          "title": "Handy Weight Edit 1.3 - 手作業でのウェイト調整を支援するBlenderアドオン！ウェイトデータのインポート＆エクスポートが可能な最新アップデート！",
-          "enclosure": {
-            "url": "https://3dnchu.com/wp-content/uploads/Handy-Weight-Edit-1-3.webp",
-            "length": "1061180",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://3dnchu.com/wp-content/uploads/Handy-Weight-Edit-1-3.webp"
-        },
-        {
-          "id": "https://3dnchu.com/?p=1038376",
-          "author": "Ymt3D -3dnchu-",
-          "description": "Blender向けに多くの便利アドオンを開発しているVjaceslav Tissen氏とFargus Designによる新アドオン「Simply Fast」がリリース！",
-          "link": "https://3dnchu.com/archives/simply-fast/",
-          "publishedOn": "2024-03-08T00:33:58.000Z",
-          "wordCount": 7315,
-          "title": "Simply Fast v1.0 - スピーディにコンテンツ制作！モデリングやリギング時などで頻繁に使用する機能を１つのパネルに集約！コンテキストベースのコレクションBlenderアドオンが登場！",
-          "enclosure": {
-            "url": "https://3dnchu.com/wp-content/uploads/Simply-Fast-v1.0.webp",
-            "length": "1335208",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://3dnchu.com/wp-content/uploads/Simply-Fast-v1.0.webp"
         }
       ]
     },
@@ -2663,56 +2708,6 @@
           "wordCount": 753,
           "title": "ゲーマー向けライフスタイルにおける世界のリーディングブランド『Razer』が、世界初のOLED 240Hz 16インチディスプレイを搭載した『Razer Blade 16』登場 - ニュース",
           "imageUrl": "https://cgworld.jp/flashnews/assets_c/2024/03/razer1-thumb-1429x805-50711.jpg"
-        },
-        {
-          "id": "https://cgworld.jp/article/sapporo-hrd-202402.html",
-          "author": null,
-          "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
-          "link": "https://cgworld.jp/article/sapporo-hrd-202402.html",
-          "publishedOn": "2024-03-08T08:21:37.000Z",
-          "wordCount": 714,
-          "title": "札幌市におけるクリエイティブ産業の変遷と、人材育成・産業振興の現状 - 特集",
-          "imageUrl": "https://cgworld.jp/article/assets_c/2024/02/3628185e1877d59c47f50ae1594aed5b8b7f0427-thumb-1920x1080-49835.jpg"
-        },
-        {
-          "id": "https://cgworld.jp/flashnews/2403-3dtrainermeetup.html",
-          "author": null,
-          "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
-          "link": "https://cgworld.jp/flashnews/2403-3dtrainermeetup.html",
-          "publishedOn": "2024-03-08T05:05:00.000Z",
-          "wordCount": 606,
-          "title": "3D若手育成のノウハウ大公開！ WFS、サイバーエージェントのトレーナーの育成事例発表や交流会を3月19日（火）東京でリアル開催！（サイバーエージェント） - ニュース",
-          "imageUrl": "https://cgworld.jp/flashnews/assets_c/2024/03/2403_3dtrainer_main-thumb-1000x563-50569.jpg"
-        },
-        {
-          "id": "https://cgworld.jp/regular/bestat3d.html",
-          "author": null,
-          "description": "",
-          "link": "https://cgworld.jp/regular/bestat3d.html",
-          "publishedOn": "2024-03-08T03:59:56.000Z",
-          "wordCount": 585,
-          "title": "メタバース分野 CGデザイナーの仕事内容とは？【bestat】 - 連載",
-          "imageUrl": "https://cgworld.jp/regular/assets_c/2024/02/cg_occupation_bestat%20%283%29-thumb-1920x1080-49881.jpg"
-        },
-        {
-          "id": "https://cgworld.jp/special-feature/splashtop-shirogumi-202402.html",
-          "author": null,
-          "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
-          "link": "https://cgworld.jp/special-feature/splashtop-shirogumi-202402.html",
-          "publishedOn": "2024-03-08T03:00:00.000Z",
-          "wordCount": 549,
-          "title": "リモートワークでのCG制作をより快適に。SplashtopとWacom Bridgeで実現する液タブ最適化の新ソリューションについて白組に聞く - スペシャルコンテンツ",
-          "imageUrl": "https://cgworld.jp/special-feature/assets_c/2024/02/splashtop_banner_top-thumb-1920x1080-49130.jpg"
-        },
-        {
-          "id": "https://cgworld.jp/regular/202403-cgw308-ab.html",
-          "author": null,
-          "description": "",
-          "link": "https://cgworld.jp/regular/202403-cgw308-ab.html",
-          "publishedOn": "2024-03-08T01:01:03.000Z",
-          "wordCount": 709,
-          "title": "CGWORLD vol.308（2024年4月号）本日発売！　見どころをアドバイザリーボードが紹介！ - 連載",
-          "imageUrl": "https://cgworld.jp/regular/assets_c/2024/03/web_308_infobanner-v2-thumb-1000x563-50673.jpg"
         }
       ]
     },
@@ -3276,16 +3271,6 @@
           "wordCount": 3456,
           "title": "edgeSensei for Maya エッジを等間隔に整理、エッジをカーブで調整、ベベル部分を再調等、様々な機能が詰まっているMaya用無料プラグイン",
           "imageUrl": "https://modelinghappy.com/wp-content/uploads/2024/03/20240308_edgeSensei_00.gif"
-        },
-        {
-          "id": "https://modelinghappy.com/?p=55851",
-          "author": "modelinghappy",
-          "description": "Bevel Joints #8211; Addon Will Join Meshes And Add A Non-Destructive Live Bevel. Bevel JointsはBlenderで２つのモデルを\nThe post Bevel Joints モデル同士を１クリックで結合してベベル処理したり、結合とベベル処理を止めたり出来るBlender用アドオン first appeared on 3DCG最新情報サイト MODELING HAPPY.",
-          "link": "https://modelinghappy.com/archives/55851",
-          "publishedOn": "2024-03-08T09:15:24.000Z",
-          "wordCount": 3419,
-          "title": "Bevel Joints モデル同士を１クリックで結合してベベル処理したり、結合とベベル処理を止めたり出来るBlender用アドオン",
-          "imageUrl": "https://modelinghappy.com/wp-content/uploads/2024/03/20240308_beveljoin.gif"
         }
       ]
     },
@@ -3583,16 +3568,6 @@
           "wordCount": 644,
           "title": "最高の作品だけを見せる：コンセプトアーティスト Nikodem J. Malec 氏",
           "imageUrl": "https://3dtotal.jp/wp-content/uploads/2024/03/i095_t.jpg"
-        },
-        {
-          "id": "https://3dtotal.jp/?p=45680",
-          "author": "3dtotal管理人T",
-          "description": "★Real Performances in an Unreal World | FLITE（3分55秒/ 制作：Framestore） 『FLITE』は、大規模 VFX＆アニメーションパイプライン FUSE（Frames […]\nThe post バーチャルプロダクション、Unreal Engine をベースにしたパイプライン FUSE で制作。未来的ショートフィルム『FLITE』のメイキング映像 first appeared on 3dtotal 日本語オフィシャルサイト.",
-          "link": "https://3dtotal.jp/news/45680/",
-          "publishedOn": "2024-03-08T02:43:42.000Z",
-          "wordCount": 583,
-          "title": "バーチャルプロダクション、Unreal Engine をベースにしたパイプライン FUSE で制作。未来的ショートフィルム『FLITE』のメイキング映像",
-          "imageUrl": "https://3dtotal.jp/wp-content/uploads/2024/03/flite_fuse.jpg"
         }
       ]
     }

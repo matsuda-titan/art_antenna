@@ -1330,16 +1330,6 @@
             "type": "video/mp4"
           },
           "imageUrl": "https://cgbox.jp/wp-content/uploads/2024/04/41f61d4a7759d91ab5f17466ee5f05a5.jpg"
-        },
-        {
-          "id": "https://cgbox.jp/?p=54638",
-          "author": "CGbox編集部",
-          "description": "こんにちは！ 今回は、2024年3月26日に正式リリースされた、フリーの3DCGソフト「Blender」の新バージョン「Blender 4.1」の新機能・変更内容について紹介したいと思います！ バージョンアップに伴って数 […]",
-          "link": "https://cgbox.jp/2024/03/31/blender-4-1-release/",
-          "publishedOn": "2024-03-31T07:30:33.000Z",
-          "wordCount": 2832,
-          "title": "「Blender 4.1」の新機能・変更点を紹介！",
-          "imageUrl": "https://cgbox.jp/wp-content/uploads/2024/03/06492cc6bdd4caf00f04c61f9c889668-1.jpg"
         }
       ]
     },
@@ -1437,6 +1427,51 @@
       "feedUrl": "https://3dnchu.com/feed/",
       "siteUrl": "https://3dnchu.com",
       "articles": [
+        {
+          "id": "https://3dnchu.com/?p=1040486",
+          "author": "Ymt3D -3dnchu-",
+          "description": "Lost Foxによる、ラグドール物理演算を簡単に統合するUnreal Engine向けアセットパック『Ragdoll Essential Kit』のご紹介！",
+          "link": "https://3dnchu.com/archives/ragdoll-essential-kit/",
+          "publishedOn": "2024-04-29T14:37:51.000Z",
+          "wordCount": 7457,
+          "title": "Ragdoll Essential Kit - ラグドール物理演算を簡単に統合可能にするUnreal Engine 5向けアセットパック！",
+          "enclosure": {
+            "url": "https://3dnchu.com/wp-content/uploads/Ragdoll-Essential-Kit.webp",
+            "length": "965674",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://3dnchu.com/wp-content/uploads/Ragdoll-Essential-Kit.webp"
+        },
+        {
+          "id": "https://3dnchu.com/?p=1040363",
+          "author": "Ymt3D -3dnchu-",
+          "description": "TinyLittles3DのYoutubeチャンネルにて、小型のレーザー彫刻機『xTool F1』を使用し、3Dプリントしたフィギュアにレーザー刻印を施す様子が公開されています。",
+          "link": "https://3dnchu.com/archives/3d-prints-with-the-xtool-f1/",
+          "publishedOn": "2024-04-29T14:18:58.000Z",
+          "wordCount": 7556,
+          "title": "Can You Laser Engrave 3D Prints With the xTool F1? - 小型のレーザー彫刻機を使用し3Dプリントフィギュアに刻印する様子！",
+          "enclosure": {
+            "url": "https://3dnchu.com/wp-content/uploads/Can-You-Laser-Engrave-3D-Prints-With-the-xTool-F1.webp",
+            "length": "573286",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://3dnchu.com/wp-content/uploads/Can-You-Laser-Engrave-3D-Prints-With-the-xTool-F1.webp"
+        },
+        {
+          "id": "https://3dnchu.com/?p=1040314",
+          "author": "Ymt3D -3dnchu-",
+          "description": "ぬっち氏による、入力したキーをビュー上に可視化するお馴染みのBlenderアドオン『Screencast Keys』のv3.14がリリースされたようです。",
+          "link": "https://3dnchu.com/archives/screencast-keys-v3-14/",
+          "publishedOn": "2024-04-29T12:18:13.000Z",
+          "wordCount": 7259,
+          "title": "Screencast Keys v3.14 - 配信やチュートリアル動画制作者は導入必須！入力したキーをビュー上に可視化するBlenderアドオン！Semantic Versioningに従ったバージョン管理に対応した最新アップデートが公開！",
+          "enclosure": {
+            "url": "https://3dnchu.com/wp-content/uploads/Screencast-Keys-v3.14.mp4",
+            "length": "906914",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://3dnchu.com/wp-content/uploads/Screencast-Keys-v3.14.webp"
+        },
         {
           "id": "https://3dnchu.com/?p=1040379",
           "author": "Ymt3D -3dnchu-",
@@ -2695,7 +2730,18 @@
       "title": "TECH-COYOTE｜C&R Creative Studios",
       "feedUrl": "https://3d.crdg.jp/tech/feed/",
       "siteUrl": "https://3d.crdg.jp/tech",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://3d.crdg.jp/tech/?p=4229",
+          "author": "nakabayashi nobukazu",
+          "description": "先日、大洗の古墳群を見てきて戦国時代も良いけど大王の時代にロマンを馳せるのも良いものだと思いました。どうも、クリーク･アンド･リバー社 COYOTE  […]\n続きを読む\n投稿 【Maya】超初心者向けMELコマンドのオブジェクト名の指定 は TECH-COYOTE｜C&R Creative Studios に最初に表示されました。",
+          "link": "https://3d.crdg.jp/tech/archives/4229",
+          "publishedOn": "2024-04-29T15:00:09.000Z",
+          "wordCount": 2635,
+          "title": "【Maya】超初心者向けMELコマンドのオブジェクト名の指定",
+          "imageUrl": "https://3d.crdg.jp/tech/wp-content/uploads/2024/04/739fb9cb78baaff05042e1fc6527ffdc.png"
+        }
+      ]
     },
     {
       "title": "UnPySide",
@@ -2720,6 +2766,26 @@
       "feedUrl": "https://modelinghappy.com/feed",
       "siteUrl": "https://modelinghappy.com",
       "articles": [
+        {
+          "id": "https://modelinghappy.com/?p=56660",
+          "author": "modelinghappy",
+          "description": "Blender Geo Nodes: Platform Generator Platform GeneratorはBlenderで多くのパラーメーターを調整してエッジを押し出してオリジナルのアセットを使用する事で様々な建\nThe post Blender Geo Nodes Platform Generator エッジを押し出してパラメーター調整するだけで様々な建物を作成出来るBlender用ジェネレーター first appeared on 3DCG最新情報サイト MODELING HAPPY.",
+          "link": "https://modelinghappy.com/archives/56660",
+          "publishedOn": "2024-04-29T23:24:46.000Z",
+          "wordCount": 3454,
+          "title": "Blender Geo Nodes Platform Generator エッジを押し出してパラメーター調整するだけで様々な建物を作成出来るBlender用ジェネレーター",
+          "imageUrl": "https://modelinghappy.com/wp-content/uploads/2024/04/20240430_Blender_Platform_Generator_00.jpg"
+        },
+        {
+          "id": "https://modelinghappy.com/?p=56656",
+          "author": "modelinghappy",
+          "description": "Lattice Auto Weighting for Blender Lattice Auto WeightingはBlenderのアーマチュアを使用してラティス オブジェクトのリギングを簡単にしてくれるアドオンです。ボ\nThe post Lattice Auto Weighting Blenderのアーマチュアを使用してラティス オブジェクトのリギングを簡単にしてくれるアドオン first appeared on 3DCG最新情報サイト MODELING HAPPY.",
+          "link": "https://modelinghappy.com/archives/56656",
+          "publishedOn": "2024-04-29T22:37:03.000Z",
+          "wordCount": 3471,
+          "title": "Lattice Auto Weighting Blenderのアーマチュアを使用してラティス オブジェクトのリギングを簡単にしてくれるアドオン",
+          "imageUrl": "https://modelinghappy.com/wp-content/uploads/2024/04/20240430_Lattice_Auto_0.jpg"
+        },
         {
           "id": "https://modelinghappy.com/?p=56637",
           "author": "modelinghappy",
@@ -3189,26 +3255,6 @@
           "wordCount": 3433,
           "title": "Blender Parametric Primitves Blenderでキューブ、スフィア、円柱など9つの基礎モデルの分割数をいつでも変更出来る9種類のパラメトリックプリミティブモデルが無料配布",
           "imageUrl": "https://modelinghappy.com/wp-content/uploads/2024/04/20240401_primitives_params_01.jpg"
-        },
-        {
-          "id": "https://modelinghappy.com/?p=56184",
-          "author": "modelinghappy",
-          "description": "Old Auto Smooth #8211; For Blender 4.1 Blender4.1からはAuto Smooth機能が撤廃されましたが、Old Auto Smoothアドオンを使用すると、以前のBlend\nThe post Old Auto Smooth Blender4.1で撤廃されたAuto Smooth機能を追加する無料アドオン first appeared on 3DCG最新情報サイト MODELING HAPPY.",
-          "link": "https://modelinghappy.com/archives/56184",
-          "publishedOn": "2024-03-31T11:32:48.000Z",
-          "wordCount": 3451,
-          "title": "Old Auto Smooth Blender4.1で撤廃されたAuto Smooth機能を追加する無料アドオン",
-          "imageUrl": "https://modelinghappy.com/wp-content/uploads/2024/03/20240331_autosmooth_03.gif"
-        },
-        {
-          "id": "https://modelinghappy.com/?p=56181",
-          "author": "modelinghappy",
-          "description": "RM_SubdivisionSurface らんまんさんがBlenderでモデルにサブディビジョンを使用した場合に形状が痩せてしまう状態をコントロールできるジオメトリーノードRM_SubdivisionSurfaceを公\nThe post RM_SubdivisionSurface Blenderでモデルにサブディビジョンを掛けた場合にモデルを痩せずに調整出来るようになる無料ジオメトリーノード first appeared on 3DCG最新情報サイト MODELING HAPPY.",
-          "link": "https://modelinghappy.com/archives/56181",
-          "publishedOn": "2024-03-31T11:00:52.000Z",
-          "wordCount": 3408,
-          "title": "RM_SubdivisionSurface Blenderでモデルにサブディビジョンを掛けた場合にモデルを痩せずに調整出来るようになる無料ジオメトリーノード",
-          "imageUrl": "https://modelinghappy.com/wp-content/uploads/2024/03/20240330_CurveSuite20240331_RM_subdivision.gif"
         }
       ]
     },

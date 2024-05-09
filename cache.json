@@ -12,6 +12,36 @@
       "siteUrl": "https://cgbox.jp",
       "articles": [
         {
+          "id": "https://cgbox.jp/?p=56581",
+          "author": "UEDA",
+          "description": "こんばんは！ 今回は”Aryan”さんの動画を紹介します。 How to Make Money with Blender – Product Animation Tutorial (Aryan) 「How t […]",
+          "link": "https://cgbox.jp/2024/05/09/news-tutorial-how-to-make-money/",
+          "publishedOn": "2024-05-09T11:00:00.000Z",
+          "wordCount": 2081,
+          "title": "【チュートリアル紹介】プロ品質の正確なモデリングを学ぼう！",
+          "enclosure": {
+            "url": "https://cgbox.jp/wp-content/uploads/2024/05/57fc455cdcd58ad87b906ab7246d99dd.mp4",
+            "length": "0",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://cgbox.jp/wp-content/uploads/2024/05/maxresdefault-3.jpg"
+        },
+        {
+          "id": "https://cgbox.jp/?p=56575",
+          "author": "UEDA",
+          "description": "こんばんは！ 今回はアドオンの「Cascade – Realtime Cloth Simulation」を紹介します。 こちらのリンクから購入することができます。 Cascade – Realti […]",
+          "link": "https://cgbox.jp/2024/05/09/news-addon-cascade/",
+          "publishedOn": "2024-05-09T10:00:00.000Z",
+          "wordCount": 1972,
+          "title": "【アドオン紹介】Cascade – 簡単追加できるリアルタイムのクロスライブラリ！",
+          "enclosure": {
+            "url": "https://cgbox.jp/wp-content/uploads/2024/05/93d9b6e1c5c15d7126e4ffb578e87329.mp4",
+            "length": "0",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://cgbox.jp/wp-content/uploads/2024/05/Blender-Market-Image.jpg"
+        },
+        {
           "id": "https://cgbox.jp/?p=56550",
           "author": "UEDA",
           "description": "こんばんは！ 今回は”Comfee Mug”さんの動画を紹介します。 Anime Tree Bark Shader in Blender – Comfee Tutorial 「Anime Tree Bark  […]",
@@ -1182,6 +1212,21 @@
       "feedUrl": "https://3dnchu.com/feed/",
       "siteUrl": "https://3dnchu.com",
       "articles": [
+        {
+          "id": "https://3dnchu.com/?p=1040895",
+          "author": "Ymt3D -3dnchu-",
+          "description": "Rahul Parihar氏（@DoubleGum_）によるフワフワ可愛いフェルト表現を手軽に実現できるBlenderアドオンの最新アップデート「Woolly v2」がリリースされました！",
+          "link": "https://3dnchu.com/archives/woolly-v2/",
+          "publishedOn": "2024-05-09T09:25:19.000Z",
+          "wordCount": 7199,
+          "title": "Woolly v2 - ワンクリックでGeometry Nodesで構築されたフワフワ可愛いフェルト表現を手軽に追加できるBlenderアドオン！最新アップデート！",
+          "enclosure": {
+            "url": "https://3dnchu.com/wp-content/uploads/Woolly-v2.webp",
+            "length": "862336",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://3dnchu.com/wp-content/uploads/Woolly-v2.webp"
+        },
         {
           "id": "https://3dnchu.com/?p=1040878",
           "author": "Ymt3D -3dnchu-",
@@ -2508,6 +2553,16 @@
       "siteUrl": "https://modelinghappy.com",
       "articles": [
         {
+          "id": "https://modelinghappy.com/?p=56809",
+          "author": "modelinghappy",
+          "description": "【Fundraising】Game Animation in 3ds Max From Beginner to Master 世界中のチュートリアル動画を販売しているWingfoxのサイトで3dsMaxを使用してゲーム用\nThe post 3dsMaxを使用してゲーム用の待機、攻撃、倒されるモーション等を作成する20時間以上のチュートリアル動画がWingfoxで販売開始！ first appeared on 3DCG最新情報サイト MODELING HAPPY.",
+          "link": "https://modelinghappy.com/archives/56809",
+          "publishedOn": "2024-05-09T12:00:49.000Z",
+          "wordCount": 3405,
+          "title": "3dsMaxを使用してゲーム用の待機、攻撃、倒されるモーション等を作成する20時間以上のチュートリアル動画がWingfoxで販売開始！",
+          "imageUrl": "https://modelinghappy.com/wp-content/uploads/2024/05/20240509_wingfox_000.jpg"
+        },
+        {
           "id": "https://modelinghappy.com/?p=56801",
           "author": "modelinghappy",
           "description": "Download e-on software Products for Free e-on softwareの製品として販売されていたソフトの、自然を作成出来る「VUE」、植物作成出来る「PlantFactory」、植物\nThe post 自然を作成出来る「VUE」植物作成出来る「PlantFactory」植物ライブラリの「PlantCatalog」が全機能無料で商用利用可能になりました first appeared on 3DCG最新情報サイト MODELING HAPPY.",
@@ -2986,16 +3041,6 @@
           "wordCount": 3430,
           "title": "Blenderのジオメトリーノードを使用してMarvelous Designerで作成したUVから綺麗な四角形でリトポロジーする方法",
           "imageUrl": "https://modelinghappy.com/wp-content/uploads/2024/04/20240411_geometry_nodes_01.jpg"
-        },
-        {
-          "id": "https://modelinghappy.com/?p=56339",
-          "author": "modelinghappy",
-          "description": "Retopo Planes Retopo Planesは三角形などで細かく分割された洋服などのUV展開済みモデルを読み込む事で、UV展開部分が平面化されて、専用モディファイアーで四角形に綺麗にリトポロジーして再度同じ洋服\nThe post Retopo Planes 細かく分割されたUV展開済み洋服モデルを四角形にリトポロジー出来るBlender用モディファイアー first appeared on 3DCG最新情報サイト MODELING HAPPY.",
-          "link": "https://modelinghappy.com/archives/56339",
-          "publishedOn": "2024-04-10T00:10:25.000Z",
-          "wordCount": 3436,
-          "title": "Retopo Planes 細かく分割されたUV展開済み洋服モデルを四角形にリトポロジー出来るBlender用モディファイアー",
-          "imageUrl": "https://modelinghappy.com/wp-content/uploads/2024/04/20240410_retopo_planes_00.jpg"
         }
       ]
     },

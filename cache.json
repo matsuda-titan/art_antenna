@@ -740,21 +740,6 @@
           "wordCount": 2938,
           "title": "【Blender 4.1】商用可能な無料アセットを簡単に追加できる「Blenderkit」を紹介！",
           "imageUrl": "https://cgbox.jp/wp-content/uploads/2024/04/6d939d0f7e5baf0eb23876e499f9f2f5-3.jpg"
-        },
-        {
-          "id": "https://cgbox.jp/?p=56229",
-          "author": "UEDA",
-          "description": "こんばんは！ 今回は”Default Cube”さんの動画を紹介します。 Ice in Blender ~ Procedural Material 「Ice in Blender ~ Procedural Materia […]",
-          "link": "https://cgbox.jp/2024/04/28/news-tutorial-ice-in-blender/",
-          "publishedOn": "2024-04-28T13:00:00.000Z",
-          "wordCount": 2103,
-          "title": "【チュートリアル紹介】リアルな氷のマテリアルを作ろう！",
-          "enclosure": {
-            "url": "https://cgbox.jp/wp-content/uploads/2024/04/b0a1e527db49d6b3947c6fec1d645ecc.mp4",
-            "length": "0",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://cgbox.jp/wp-content/uploads/2024/04/maxresdefault-25.jpg"
         }
       ]
     },
@@ -781,6 +766,21 @@
       "feedUrl": "https://3dnchu.com/feed/",
       "siteUrl": "https://3dnchu.com",
       "articles": [
+        {
+          "id": "https://3dnchu.com/?p=1041412",
+          "author": "Ymt3D -3dnchu-",
+          "description": "単一生成動画から忠実性の高いDGS（Dynamic Gaussian Surfels）を生成する再構成モデル「Vidu4D: Single Generated Video to High-Fidelity 4D Reconstruction with Dynamic Gaussian Surfels」のプロジェクトページが公開されています！",
+          "link": "https://3dnchu.com/archives/vidu4d/",
+          "publishedOn": "2024-05-28T02:15:43.000Z",
+          "wordCount": 8669,
+          "title": "Vidu4D: Single Generated Video to High-Fidelity 4D Reconstruction with Dynamic Gaussian Surfels - 単一生成動画から4D（連続3D）表現を構築する新しい再構成技術！",
+          "enclosure": {
+            "url": "https://3dnchu.com/wp-content/uploads/Vidu4D.webp",
+            "length": "996696",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://3dnchu.com/wp-content/uploads/Vidu4D.webp"
+        },
         {
           "id": "https://3dnchu.com/?p=1041403",
           "author": "Ymt3D -3dnchu-",
@@ -2371,6 +2371,16 @@
       "feedUrl": "https://modelinghappy.com/feed",
       "siteUrl": "https://modelinghappy.com",
       "articles": [
+        {
+          "id": "https://modelinghappy.com/?p=57249",
+          "author": "modelinghappy",
+          "description": "Foot Lock Foot Lockは、Blenderでモーションキャプチャデータ等を調整する場合に数クリックで足の位置を固定して滑らずに自然なアニメーションを作成する事が出来るアドオンです。 使用前だと足が地面から離\nThe post Foot Lock モーキャプデータ等の足の滑りを数クリックで固定して調整出来るBlender用アドオン first appeared on 3DCG最新情報サイト MODELING HAPPY.",
+          "link": "https://modelinghappy.com/archives/57249",
+          "publishedOn": "2024-05-28T02:03:28.000Z",
+          "wordCount": 3464,
+          "title": "Foot Lock モーキャプデータ等の足の滑りを数クリックで固定して調整出来るBlender用アドオン",
+          "imageUrl": "https://modelinghappy.com/wp-content/uploads/2024/05/20240528_foot_lock_00.jpg"
+        },
         {
           "id": "https://modelinghappy.com/?p=57239",
           "author": "modelinghappy",

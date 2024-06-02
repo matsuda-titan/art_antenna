@@ -808,7 +808,18 @@
       "title": "TECH ART ONLINE",
       "feedUrl": "https://tech-art.online/feed/",
       "siteUrl": "https://tech-art.online",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://tech-art.online/?p=1602",
+          "author": "管理人",
+          "description": "ゲーム開発のLODはアーティストには馴染みが薄く、テクニカル寄りな人しか知らないことが多いです。映像制作では異なる使い方があり、Unreal Engine 5でのLODの作り方も紹介しました。\nLOD（レベル・オブ・ディテール）ってなに？ first appeared on TECH ART ONLINE.",
+          "link": "https://tech-art.online/what-is-lod/?utm_source=rss&utm_medium=rss&utm_campaign=what-is-lod",
+          "publishedOn": "2024-06-01T13:22:25.000Z",
+          "wordCount": 14286,
+          "title": "LOD（レベル・オブ・ディテール）ってなに？",
+          "imageUrl": "https://tech-art.online/wordpress/wp-content/uploads/2024/06/grid_output_compressed-485x300.jpg"
+        }
+      ]
     },
     {
       "title": "KIWAMIDEN",
@@ -1600,21 +1611,6 @@
             "type": "video/mp4"
           },
           "imageUrl": "https://3dnchu.com/wp-content/uploads/Plasticity-2024.1.webp"
-        },
-        {
-          "id": "https://3dnchu.com/?p=1040601",
-          "author": "Ymt3D -3dnchu-",
-          "description": "元Epic Games Japanのおかず氏（岡田 和也氏 @pafuhana1213）がUnreal Engine 5.4向けに各Actor・PrimitiveComponentが特定の条件を満たすか否かを可視化するプラグイン『Custom Actor Coloration』を開発しGithub上で無料公開しました！",
-          "link": "https://3dnchu.com/archives/custom-actor-coloration-ue54/",
-          "publishedOn": "2024-05-03T03:06:03.000Z",
-          "wordCount": 7282,
-          "title": "Custom Actor Coloration - 各種パラメータの状況を可視化！Unreal Engine 5.4向けの無料＆オープンソースプラグイン！by おかず氏",
-          "enclosure": {
-            "url": "https://3dnchu.com/wp-content/uploads/CustomActorColoration-UE54.webp",
-            "length": "893324",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://3dnchu.com/wp-content/uploads/CustomActorColoration-UE54.webp"
         }
       ]
     },
@@ -2395,6 +2391,26 @@
       "feedUrl": "https://modelinghappy.com/feed",
       "siteUrl": "https://modelinghappy.com",
       "articles": [
+        {
+          "id": "https://modelinghappy.com/?p=57313",
+          "author": "modelinghappy",
+          "description": "Zbrush Portrait Study: George 世界中のチュートリアル動画を販売しているWingfoxのサイトでポートレイトのGeorgeと名前が付いた老人を１からZbrushでスカルプトしてBlenderで\nThe post Zbrushで頭蓋骨や顔の筋肉の構造などを学びながら老人の顔を１から作るチュートリアル動画がWIngfoxで販売開始！ first appeared on 3DCG最新情報サイト MODELING HAPPY.",
+          "link": "https://modelinghappy.com/archives/57313",
+          "publishedOn": "2024-06-02T00:20:52.000Z",
+          "wordCount": 3422,
+          "title": "Zbrushで頭蓋骨や顔の筋肉の構造などを学びながら老人の顔を１から作るチュートリアル動画がWIngfoxで販売開始！",
+          "imageUrl": "https://modelinghappy.com/wp-content/uploads/2024/06/20240602_wingfox_Zbursh.jpg"
+        },
+        {
+          "id": "https://modelinghappy.com/?p=57305",
+          "author": "modelinghappy",
+          "description": "Union Chamfer geonodes_chamfer_bool.blend Union ChamferはBoringtoさんが作成したBlenderのジオメトリーノードで作成された、片方のモデルを指定すると重なっ\nThe post Union Chamfer Blenderで重なってる部分が滑らかに繋がってくれる無料のモディファイアデータ first appeared on 3DCG最新情報サイト MODELING HAPPY.",
+          "link": "https://modelinghappy.com/archives/57305",
+          "publishedOn": "2024-06-01T13:08:29.000Z",
+          "wordCount": 3410,
+          "title": "Union Chamfer Blenderで重なってる部分が滑らかに繋がってくれる無料のモディファイアデータ",
+          "imageUrl": "https://modelinghappy.com/wp-content/uploads/2024/06/20240601_Procedural_Boolean_Bevel_00.jpg"
+        },
         {
           "id": "https://modelinghappy.com/?p=57290",
           "author": "modelinghappy",

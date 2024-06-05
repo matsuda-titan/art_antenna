@@ -760,36 +760,6 @@
             "type": "video/mp4"
           },
           "imageUrl": "https://cgbox.jp/wp-content/uploads/2024/05/BlenderMarketThumbnail.png"
-        },
-        {
-          "id": "https://cgbox.jp/?p=56513",
-          "author": "UEDA",
-          "description": "こんばんは！ 今回は”Thomas Colin 3D”さんの動画を紹介します。 Topology Study : How To Model SKI GOGGLES in Blender 「Topology Study : […]",
-          "link": "https://cgbox.jp/2024/05/06/news-tutorial-how-to-model-ski-goggles/",
-          "publishedOn": "2024-05-06T11:00:00.000Z",
-          "wordCount": 2132,
-          "title": "【チュートリアル紹介】スキーのゴーグルでモデリング練習！",
-          "enclosure": {
-            "url": "https://cgbox.jp/wp-content/uploads/2024/05/48513a79c336991c45c20767cdd771d4.mp4",
-            "length": "0",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://cgbox.jp/wp-content/uploads/2024/05/maxresdefault.jpg"
-        },
-        {
-          "id": "https://cgbox.jp/?p=56502",
-          "author": "UEDA",
-          "description": "こんばんは！ 今回はアドオンの「Polymating」を紹介します。 こちらのリンクから購入することができます。 Polymating 「Polymating」は、シュリンクラップのようにメッシュで包み込んでリトポロジー […]",
-          "link": "https://cgbox.jp/2024/05/06/news-addon-polymating/",
-          "publishedOn": "2024-05-06T10:00:00.000Z",
-          "wordCount": 2135,
-          "title": "【アドオン紹介】Polymating – 包み込んで、整えてリトポロジー！",
-          "enclosure": {
-            "url": "https://cgbox.jp/wp-content/uploads/2024/05/70fceacbbd312c44ca3e4b396635a9a2.mp4",
-            "length": "0",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://cgbox.jp/wp-content/uploads/2024/05/presentation2.jpg"
         }
       ]
     },
@@ -837,6 +807,21 @@
       "feedUrl": "https://3dnchu.com/feed/",
       "siteUrl": "https://3dnchu.com",
       "articles": [
+        {
+          "id": "https://3dnchu.com/?p=1041668",
+          "author": "Ymt3D -3dnchu-",
+          "description": "Reissad StudioがUnreal Engine 5を使用し開発中のマルチプレイヤーFPS「Bodycam」の早期アクセスが2024年6月7日から開始されるそうです。そして",
+          "link": "https://3dnchu.com/archives/bodycam-ue5/",
+          "publishedOn": "2024-06-04T16:59:37.000Z",
+          "wordCount": 8582,
+          "title": "Bodycam - Unreal Engine 5で開発中のリアルなボディカメラ視点のマルチプレイヤーFPSのテストプレイ映像が公開！2024年6月7日に早期アクセスリリース予定！",
+          "enclosure": {
+            "url": "https://3dnchu.com/wp-content/uploads/Bodycam.webp",
+            "length": "1098194",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://3dnchu.com/wp-content/uploads/Bodycam.webp"
+        },
         {
           "id": "https://3dnchu.com/?p=1041706",
           "author": "Ymt3D -3dnchu-",
@@ -1586,51 +1571,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "https://3dnchu.com/wp-content/uploads/2024-new-ipad.webp"
-        },
-        {
-          "id": "https://3dnchu.com/?p=1040744",
-          "author": "Ymt3D -3dnchu-",
-          "description": "ユタ大学博士課程候補者でVisureTechの創業者であるAnka Chen氏らによる、高速かつ安定するとされる次世代物理シミュレーション技術『Vertex Block Descent (VBD)』の動画とプロジェクトページが公開されています！",
-          "link": "https://3dnchu.com/archives/vertex-block-descent/",
-          "publishedOn": "2024-05-06T11:40:11.000Z",
-          "wordCount": 7492,
-          "title": "Vertex Block Descent - 高速＆安定の物理シミュレーション技術Gaiaの次世代アップデート技術のプロジェクトページと動画が公開！SIGGRAPH 2024技術論文！",
-          "enclosure": {
-            "url": "https://3dnchu.com/wp-content/uploads/Vertex-Block-Descent.webp",
-            "length": "1095192",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://3dnchu.com/wp-content/uploads/Vertex-Block-Descent.webp"
-        },
-        {
-          "id": "https://3dnchu.com/?p=1040705",
-          "author": "Ymt3D -3dnchu-",
-          "description": "プログラマーでシェーダーアーティストのnevermoreによるUnreal Engine向けラバライトアセット『Lava Lamp Configurator』がリリースされました！",
-          "link": "https://3dnchu.com/archives/lava-lamp-configurator/",
-          "publishedOn": "2024-05-06T10:11:58.000Z",
-          "wordCount": 7251,
-          "title": "Lava Lamp Configurator - シェーダーでリアルに表現されたUnreal Engine 5向けの高品質なラバライトBPアセット！",
-          "enclosure": {
-            "url": "https://3dnchu.com/wp-content/uploads/Lava-Lamp-Configurator.webp",
-            "length": "1078714",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://3dnchu.com/wp-content/uploads/Lava-Lamp-Configurator.webp"
-        },
-        {
-          "id": "https://3dnchu.com/?p=1040710",
-          "author": "Ymt3D -3dnchu-",
-          "description": "SceneFillerによるワンクリックでリアルで高品質なフィルムグレインを生成出来るBlenderアドオン『Grainy』がリリースされました！",
-          "link": "https://3dnchu.com/archives/grainy-b3d/",
-          "publishedOn": "2024-05-06T01:54:55.000Z",
-          "wordCount": 7507,
-          "title": "Grainy - ワンクリックでリアルで高品質なフィルムグレインを生成し合成可能なBlenderアドオン！",
-          "enclosure": {
-            "url": "https://3dnchu.com/wp-content/uploads/Grainy.webp",
-            "length": "717772",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://3dnchu.com/wp-content/uploads/Grainy.webp"
         }
       ]
     },
@@ -1639,6 +1579,16 @@
       "feedUrl": "https://cgworld.jp/atom.xml",
       "siteUrl": "https://cgworld.jp/",
       "articles": [
+        {
+          "id": "https://cgworld.jp/flashnews/202406-AI-Rodin.html",
+          "author": null,
+          "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
+          "link": "https://cgworld.jp/flashnews/202406-AI-Rodin.html",
+          "publishedOn": "2024-06-05T00:22:08.000Z",
+          "wordCount": 749,
+          "title": "テキスト to 3Dの生成AI「Rodin」オープントライアル開始！　ジオメトリ＆マテリアル生成からデータダウンロードまで無料で試用可能 - ニュース",
+          "imageUrl": "https://cgworld.jp/flashnews/assets_c/2024/06/Rodin01-thumb-1920x1278-54621.jpg"
+        },
         {
           "id": "https://cgworld.jp/flashnews/202406-Blender-handpaint.html",
           "author": null,
@@ -2472,6 +2422,16 @@
       "siteUrl": "https://modelinghappy.com",
       "articles": [
         {
+          "id": "https://modelinghappy.com/?p=57355",
+          "author": "modelinghappy",
+          "description": "今回はHUIONさんよりHUION 液タブ Kamvas22 Plus 液晶ペンタブレットと、HUION keydial miniをご提供いただいたのでレビュー記事を書かせて頂きました。 液晶画面に直接ペンを使って絵を描\nThe post HUION KAMVAS 22 Plus+keydial mini 液晶タブレット レビュー first appeared on 3DCG最新情報サイト MODELING HAPPY.",
+          "link": "https://modelinghappy.com/archives/57355",
+          "publishedOn": "2024-06-04T13:06:49.000Z",
+          "wordCount": 3482,
+          "title": "HUION KAMVAS 22 Plus+keydial mini 液晶タブレット レビュー",
+          "imageUrl": "https://modelinghappy.com/wp-content/uploads/2024/06/20240604_KAMVAS_22_Plus_00.jpg"
+        },
+        {
           "id": "https://modelinghappy.com/?p=57349",
           "author": "modelinghappy",
           "description": "HAS Paint layers HAS Paint layersはHirourkさんが作成した、BlenderでテクスチャペイントをPhotoshopのレイヤー管理のように作成、整理、管理する事が出来て、ラフネス、メタ\nThe post HAS Paint layers レイヤー管理が可能で手書きでPBRペイント、レイヤーのモード変更、透明度を変更出来るBlender用無料アドオンが公開！ first appeared on 3DCG最新情報サイト MODELING HAPPY.",
@@ -2980,16 +2940,6 @@
           "wordCount": 3390,
           "title": "UVマップを自動でパッキング、プレビュー出来る無料のスタンドアロンソフトのPacker-IOがリリース",
           "imageUrl": "https://modelinghappy.com/wp-content/uploads/2024/05/20240507_packer_I_00.jpg"
-        },
-        {
-          "id": "https://modelinghappy.com/?p=56727",
-          "author": "modelinghappy",
-          "description": "Blenderを使用して猫の可愛らしいキャラクターを１からモデリングして、モディファイアーを使用した効率的な形状作成方法、シンプルな剣や洋服に装飾品を作成する初心者向けの28分程のチュートリアル動画が公開されています。\nThe post Blender初心者向け 可愛らしい猫のキャラクターを１からモデリング方法を学べる28分のチュートリアル動画 first appeared on 3DCG最新情報サイト MODELING HAPPY.",
-          "link": "https://modelinghappy.com/archives/56727",
-          "publishedOn": "2024-05-06T04:54:39.000Z",
-          "wordCount": 3421,
-          "title": "Blender初心者向け 可愛らしい猫のキャラクターを１からモデリング方法を学べる28分のチュートリアル動画",
-          "imageUrl": "https://modelinghappy.com/wp-content/uploads/2024/05/20240506_blender_syosinsya_01.jpg"
         }
       ]
     },

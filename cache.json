@@ -760,36 +760,6 @@
             "type": "video/mp4"
           },
           "imageUrl": "https://cgbox.jp/wp-content/uploads/2024/05/bp.jpg"
-        },
-        {
-          "id": "https://cgbox.jp/?p=56532",
-          "author": "UEDA",
-          "description": "こんばんは！ 今回は”crzyzhaa”さんの動画を紹介します。 Master Stylized Animated Water in 3D (tutorial) 「Master Stylized Animated Wat […]",
-          "link": "https://cgbox.jp/2024/05/07/news-tutorial-master-stylized-animated-water/",
-          "publishedOn": "2024-05-07T11:00:00.000Z",
-          "wordCount": 2168,
-          "title": "【チュートリアル紹介】美しいセルルック調の水マテリアル！",
-          "enclosure": {
-            "url": "https://cgbox.jp/wp-content/uploads/2024/05/ee34a077aff9bd17f6b96ac7927891f7.mp4",
-            "length": "0",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://cgbox.jp/wp-content/uploads/2024/05/maxresdefault-1.jpg"
-        },
-        {
-          "id": "https://cgbox.jp/?p=56519",
-          "author": "UEDA",
-          "description": "こんばんは！ 今回はアドオンの「Windowgen: Procedural Windows For Blender」を紹介します。 こちらのリンクから購入することができます。 Windowgen: Procedural  […]",
-          "link": "https://cgbox.jp/2024/05/07/news-addon-windowgen-procedural-windows-for-blender/",
-          "publishedOn": "2024-05-07T10:00:00.000Z",
-          "wordCount": 2124,
-          "title": "【アドオン紹介】Windowgen – リアルで高品質な窓を生成！",
-          "enclosure": {
-            "url": "https://cgbox.jp/wp-content/uploads/2024/05/3675e7c7105f66d7aca1a7347b998ec1.mp4",
-            "length": "0",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://cgbox.jp/wp-content/uploads/2024/05/BlenderMarketThumbnail.png"
         }
       ]
     },
@@ -1640,6 +1610,16 @@
       "siteUrl": "https://cgworld.jp/",
       "articles": [
         {
+          "id": "https://cgworld.jp/flashnews/202406-MotionPlusDesign.html",
+          "author": null,
+          "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
+          "link": "https://cgworld.jp/flashnews/202406-MotionPlusDesign.html",
+          "publishedOn": "2024-06-05T11:50:59.000Z",
+          "wordCount": 913,
+          "title": "「Motion Plus Design Tokyo 2024」6/15（土）開催！　KASSEN太田氏、Khaki横原氏、PERIMETRON神戸氏ら12名のトップクリエイターが集結（@渋谷、配信あり） - ニュース",
+          "imageUrl": "https://cgworld.jp/flashnews/assets_c/2024/06/MotionPlus2024-01-thumb-933x622-54637.jpg"
+        },
+        {
           "id": "https://cgworld.jp/flashnews/blender-online-192.html",
           "author": null,
           "description": "みなさん、こんにちは。CGWORLDの西原です。 今回は前回設定したリグの動き...",
@@ -2448,26 +2428,6 @@
           "wordCount": 569,
           "title": "『GRANBLUE FANTASY: Relink』を手がけたCygamesのテクニカル系の仕事を探る／後編：ノウハウを共有し、チームで成長する - スペシャルコンテンツ",
           "imageUrl": "https://cgworld.jp/special-feature/assets_c/2024/03/4d6f6a75fd5d9eec2b8a63699a8fea8e79a90c0f-thumb-1920x1080-50719.png"
-        },
-        {
-          "id": "https://cgworld.jp/regular/oneplanet20245ar.html",
-          "author": null,
-          "description": "",
-          "link": "https://cgworld.jp/regular/oneplanet20245ar.html",
-          "publishedOn": "2024-05-07T09:43:17.000Z",
-          "wordCount": 762,
-          "title": "OnePlanetがお届けする、2024年5月のAR最新ニュース！ - 連載",
-          "imageUrl": "https://cgworld.jp/regular/assets_c/2024/05/202405_ARnews-thumb-1920x1080-53332.jpg"
-        },
-        {
-          "id": "https://cgworld.jp/article/2404-brazenblaze.html",
-          "author": null,
-          "description": "VR対戦アクション『ブレイゼンブレイズ』のメイキング。",
-          "link": "https://cgworld.jp/article/2404-brazenblaze.html",
-          "publishedOn": "2024-05-07T01:10:44.000Z",
-          "wordCount": 802,
-          "title": "3vs3で殴り合うVR対戦アクションゲーム『ブレイゼンブレイズ』 - 特集",
-          "imageUrl": "https://cgworld.jp/article/assets_c/2024/04/57772b69478a0f3b85c4ef8d655fdf69be550b78-thumb-1000x563-52474.jpg"
         }
       ]
     },
@@ -3040,26 +3000,6 @@
           "wordCount": 3497,
           "title": "Smart Layer Mayaのアニメーションレイヤーを使って作成したアニメーションの調整が簡単になるスクリプト",
           "imageUrl": "https://modelinghappy.com/wp-content/uploads/2024/05/20240507_Smart_Layer_00.jpg"
-        },
-        {
-          "id": "https://modelinghappy.com/?p=56745",
-          "author": "modelinghappy",
-          "description": "PBR LAYERS PBR LAYERSは、Blenderで用意したPBRテクスチャを繋げて、複数のPBRマテリアルを作成したら、それを混ぜてディスプレイスメントの高さ情報から瓦礫に汚れを追加したり、ペイント機能を使っ\nThe post PBR LAYERS Blenderで複数のPBRマテリアルを混ぜてディスプレイスメントの高さ情報から異なる質感を混合出来るアドオンとノードシステム first appeared on 3DCG最新情報サイト MODELING HAPPY.",
-          "link": "https://modelinghappy.com/archives/56745",
-          "publishedOn": "2024-05-07T07:12:23.000Z",
-          "wordCount": 3419,
-          "title": "PBR LAYERS Blenderで複数のPBRマテリアルを混ぜてディスプレイスメントの高さ情報から異なる質感を混合出来るアドオンとノードシステム",
-          "imageUrl": "https://modelinghappy.com/wp-content/uploads/2024/05/20240507_PBR_LAYERS_01-1.jpg"
-        },
-        {
-          "id": "https://modelinghappy.com/?p=56738",
-          "author": "modelinghappy",
-          "description": "Packer-IO – Fast.Intuitive.Free. UVマップを自動でパッキング、プレビュー、展開したUVを整理してくれる無料のスタンドアロンソフトのPacker-IOがWindow用とMac用でリリースし\nThe post UVマップを自動でパッキング、プレビュー出来る無料のスタンドアロンソフトのPacker-IOがリリース first appeared on 3DCG最新情報サイト MODELING HAPPY.",
-          "link": "https://modelinghappy.com/archives/56738",
-          "publishedOn": "2024-05-07T02:47:35.000Z",
-          "wordCount": 3390,
-          "title": "UVマップを自動でパッキング、プレビュー出来る無料のスタンドアロンソフトのPacker-IOがリリース",
-          "imageUrl": "https://modelinghappy.com/wp-content/uploads/2024/05/20240507_packer_I_00.jpg"
         }
       ]
     },
@@ -3457,26 +3397,6 @@
           "wordCount": 536,
           "title": "猫の化け物 ベヒモス!? ロシア映画『MASTER AND MARGARITA』の VFXブレイクダウン映像",
           "imageUrl": "https://3dtotal.jp/wp-content/uploads/2024/05/behemoth_mam.jpg"
-        },
-        {
-          "id": "https://3dtotal.jp/?p=46343",
-          "author": "3dtotal管理人T",
-          "description": "Q. 自己紹介をお願いします フィレンツェで建築を学びました。しかし、当時は鉛筆を使うしかなく、コンピュータについて聞ける教授もいませんでした。この世界に足を踏み入れたきっかけは、兵役です。軍からオフィスへ配属され、48 […]\nThe post 兵役を終え、3Dの世界へ：3Dアーティスト Andrea Bertaccini 氏 first appeared on 3dtotal 日本語オフィシャルサイト.",
-          "link": "https://3dtotal.jp/features/46343/",
-          "publishedOn": "2024-05-07T10:06:22.000Z",
-          "wordCount": 682,
-          "title": "兵役を終え、3Dの世界へ：3Dアーティスト Andrea Bertaccini 氏",
-          "imageUrl": "https://3dtotal.jp/wp-content/uploads/2024/05/i097_t.jpg"
-        },
-        {
-          "id": "https://3dtotal.jp/?p=46312",
-          "author": "3dtotal管理人T",
-          "description": "★The World of Shogun: History & Backstory（6分6秒） 戦国武将、サムライ、そして、封建時代の日本における強力な新勢力の台頭の背後にある歴史をご体験ください。（youtube より […]\nThe post ドラマ『SHOGUN 将軍』の歴史的背景を解説。短編ムービー「The World of Shogun」＆ VFXメイキング映像 first appeared on 3dtotal 日本語オフィシャルサイト.",
-          "link": "https://3dtotal.jp/news/46312/",
-          "publishedOn": "2024-05-07T04:15:19.000Z",
-          "wordCount": 552,
-          "title": "ドラマ『SHOGUN 将軍』の歴史的背景を解説。短編ムービー「The World of Shogun」＆ VFXメイキング映像",
-          "imageUrl": "https://3dtotal.jp/wp-content/uploads/2024/05/worldofShogun.jpg"
         }
       ]
     }

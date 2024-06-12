@@ -12,6 +12,51 @@
       "siteUrl": "https://cgbox.jp",
       "articles": [
         {
+          "id": "https://cgbox.jp/?p=57522",
+          "author": "UEDA",
+          "description": "こんばんは！ 今回はアドオンの「Parallax It! – No Extra Geometry/Subdivision! Parallax Occlusion Mapping」を紹介します。 こちらのリンク […]",
+          "link": "https://cgbox.jp/2024/06/12/news-addon-parallax-it/",
+          "publishedOn": "2024-06-12T11:00:00.000Z",
+          "wordCount": 2071,
+          "title": "【アドオン紹介】Parallax It! – 頂点要らず！視差効果で奥行き再現",
+          "enclosure": {
+            "url": "https://cgbox.jp/wp-content/uploads/2024/06/4b1df5d9f0951924cee6712472d22f04.mp4",
+            "length": "0",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://cgbox.jp/wp-content/uploads/2024/06/1200x600.jpg"
+        },
+        {
+          "id": "https://cgbox.jp/?p=57530",
+          "author": "UEDA",
+          "description": "こんにちは。 今日は『Blender Market』で開催されている『10周年記念イベント』について紹介します。 10日間連続(6月11日～20日)で対象の製品が無料ダウンロードできます。 見逃さずチェックして、絶対にダ […]",
+          "link": "https://cgbox.jp/2024/06/12/cgnews-blender-market-10year/",
+          "publishedOn": "2024-06-12T10:33:39.000Z",
+          "wordCount": 2000,
+          "title": "【CGニュース】Blender Market | 10周年記念イベント開催中！",
+          "enclosure": {
+            "url": "https://cgbox.jp/wp-content/uploads/2024/06/9b9e432b7dfae1be03d45415e5e7d3f6.mp4",
+            "length": "0",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://cgbox.jp/wp-content/uploads/2024/06/maxresdefault-1-1.jpg"
+        },
+        {
+          "id": "https://cgbox.jp/?p=57512",
+          "author": "UEDA",
+          "description": "こんばんは！ 今回はアドオンの「Collision Born For Flower：Flower Growth（Bellis Perennis）Panel」を紹介します。 こちらのリンクから購入することができます。 Co […]",
+          "link": "https://cgbox.jp/2024/06/12/news-addon-flower-growth/",
+          "publishedOn": "2024-06-12T10:00:00.000Z",
+          "wordCount": 2048,
+          "title": "【アドオン紹介】Flower Growth – ヒナギクの成長アニメーション！",
+          "enclosure": {
+            "url": "https://cgbox.jp/wp-content/uploads/2024/06/90e69749f2eb84d037cc402661591582.mp4",
+            "length": "0",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://cgbox.jp/wp-content/uploads/2024/06/e038e48b7157facdaa4c71e47a4c297a.jpg"
+        },
+        {
           "id": "https://cgbox.jp/?p=57498",
           "author": "UEDA",
           "description": "こんばんは！ 今回はアドオンの「Rain Droplets Simulator for blender 4.1」を紹介します。 こちらのリンクから購入することができます。 Rain Droplets Simulator  […]",
@@ -697,6 +742,21 @@
       "feedUrl": "https://3dnchu.com/feed/",
       "siteUrl": "https://3dnchu.com",
       "articles": [
+        {
+          "id": "https://3dnchu.com/?p=1042001",
+          "author": "Ymt3D -3dnchu-",
+          "description": "Freebird XRによるVRデバイスを使用しオブジェクトの動きをアニメーションさせることが出来るBlenderアドオン「VR Motion Capture」がリリースされました！",
+          "link": "https://3dnchu.com/archives/vr-motion-capture-v1-ea/",
+          "publishedOn": "2024-06-12T11:29:28.000Z",
+          "wordCount": 8621,
+          "title": "VR Motion Capture v1 Early Adopter Edition - VRデバイスを使用しオブジェクトの動きをアニメーション出来るBlenderアドオンが登場！",
+          "enclosure": {
+            "url": "https://3dnchu.com/wp-content/uploads/vr-motion-capture-v1-ea.webp",
+            "length": "869280",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://3dnchu.com/wp-content/uploads/vr-motion-capture-v1-ea.webp"
+        },
         {
           "id": "https://3dnchu.com/?p=1041982",
           "author": "Ymt3D -3dnchu-",
@@ -2309,7 +2369,18 @@
       "title": "SPARKCREATIVE Tech Blog",
       "feedUrl": "https://tech.spark-creative.co.jp/feed",
       "siteUrl": "https://tech.spark-creative.co.jp/",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://tech.spark-creative.co.jp/entry/2024/06/12/181719",
+          "author": null,
+          "description": "こんにちは、クライエントエンジニアの中島龍清(ナカシマリュウセイ)です。 だいぶ久しぶりの投稿となってしまいました。 今回はフィルタリングについて調べていたうちにどれが何なのか分からなくなってきたため、備忘録代わりにひとまず簡単に実装ができた平均化フィルタリングについて解説していこうと思います。 平均化フィルタリングとは 仕組み メリット、デメリット メリット デメリット 実装 実装結果 応用 カスタムノードを活用する 3x3以外を実装する まとめ 参考サイト 平均化フィルタリングとは ある一点のピクセルとその周辺のピクセルを用いて計算をおこなう画像処理『空間フィルタリング(またはフィルタ)』…",
+          "link": "https://tech.spark-creative.co.jp/entry/2024/06/12/181719",
+          "publishedOn": "2024-06-12T09:17:19.000Z",
+          "wordCount": 562,
+          "title": "【UE5】平均化フィルタリングでぼかしを実装してみる",
+          "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/s/spark-nakashima-ryusei/20240611/20240611184000.png"
+        }
+      ]
     },
     {
       "title": "3DCG最新情報サイト MODELING HAPPY",

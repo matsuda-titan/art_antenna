@@ -660,36 +660,6 @@
             "type": "video/mp4"
           },
           "imageUrl": "https://cgbox.jp/wp-content/uploads/2024/05/Simple_Swarm_Library_Cover.jpg"
-        },
-        {
-          "id": "https://cgbox.jp/?p=57137",
-          "author": "UEDA",
-          "description": "こんばんは！ 今回はアドオンの「Easy Cast」を紹介します。 こちらのリンクから購入することができます。 Easy Cast 「Easy Cast」は、画像をオブジェクトの上に簡単に重ねることのできるアドオンになり […]",
-          "link": "https://cgbox.jp/2024/05/28/news-addon-easy-cast/",
-          "publishedOn": "2024-05-28T11:00:00.000Z",
-          "wordCount": 2024,
-          "title": "【アドオン紹介】Easy Cast – カスタムノードで簡単に画像をレイヤー！",
-          "enclosure": {
-            "url": "https://cgbox.jp/wp-content/uploads/2024/05/b3b6e61b42603e33e99efc8badfd319b.mp4",
-            "length": "0",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://cgbox.jp/wp-content/uploads/2024/05/Thumbnail_Final.jpg"
-        },
-        {
-          "id": "https://cgbox.jp/?p=57131",
-          "author": "UEDA",
-          "description": "こんばんは！ 今回は”SamBam Productions”さんの動画を紹介します。 How to create an Energy Ball – Blender Stylized VFX Tutorial  […]",
-          "link": "https://cgbox.jp/2024/05/28/news-tutorial-how-to-create-an-energy-ball/",
-          "publishedOn": "2024-05-28T10:00:00.000Z",
-          "wordCount": 2141,
-          "title": "【チュートリアル紹介】スタイリッシュなエネルギー球を作って、アニメーション化！",
-          "enclosure": {
-            "url": "https://cgbox.jp/wp-content/uploads/2024/05/95d0def0bd2782a983125922ec1b8c9e.mp4",
-            "length": "0",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://cgbox.jp/wp-content/uploads/2024/05/maxresdefault-1-1.jpg"
         }
       ]
     },
@@ -1506,36 +1476,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "https://3dnchu.com/wp-content/uploads/SCULPTORS-DAY-2024-small.gif"
-        },
-        {
-          "id": "https://3dnchu.com/?p=1041453",
-          "author": "Ymt3D -3dnchu-",
-          "description": "中国の研究者らによる「RemoCap: Disentangled Representation Learning for Motion Capture」技術のご紹介。単一映像から人体の動きをキャプチャーする際に遮蔽物があっても比較的高精度な結果を生み出せる新技術！",
-          "link": "https://3dnchu.com/archives/remocap/",
-          "publishedOn": "2024-05-28T04:56:20.000Z",
-          "wordCount": 8582,
-          "title": "RemoCap: Disentangled Representation Learning for Motion Capture - 単一映像から人体の動きを構築する際に遮蔽物があっても比較的高精度な結果を生み出せる新技術！！",
-          "enclosure": {
-            "url": "https://3dnchu.com/wp-content/uploads/RemoCap-1.webp",
-            "length": "865402",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://3dnchu.com/wp-content/uploads/RemoCap-1.webp"
-        },
-        {
-          "id": "https://3dnchu.com/?p=1041412",
-          "author": "Ymt3D -3dnchu-",
-          "description": "単一生成動画から忠実性の高いDGS（Dynamic Gaussian Surfels）を生成する再構成モデル「Vidu4D: Single Generated Video to High-Fidelity 4D Reconstruction with Dynamic Gaussian Surfels」のプロジェクトページが公開されています！",
-          "link": "https://3dnchu.com/archives/vidu4d/",
-          "publishedOn": "2024-05-28T02:15:43.000Z",
-          "wordCount": 8669,
-          "title": "Vidu4D: Single Generated Video to High-Fidelity 4D Reconstruction with Dynamic Gaussian Surfels - 単一生成動画から4D（連続3D）表現を構築する新しい再構成技術！",
-          "enclosure": {
-            "url": "https://3dnchu.com/wp-content/uploads/Vidu4D.webp",
-            "length": "996696",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://3dnchu.com/wp-content/uploads/Vidu4D.webp"
         }
       ]
     },
@@ -1544,6 +1484,16 @@
       "feedUrl": "https://cgworld.jp/atom.xml",
       "siteUrl": "https://cgworld.jp/",
       "articles": [
+        {
+          "id": "https://cgworld.jp/flashnews/202406-WOWreel.html",
+          "author": null,
+          "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
+          "link": "https://cgworld.jp/flashnews/202406-WOWreel.html",
+          "publishedOn": "2024-06-26T10:34:09.000Z",
+          "wordCount": 695,
+          "title": "WOWが2024年版ショーリールを公開！　映像からインスタレーションまで幅広くビジュアルデザインを手がけるスタジオが最新事例を2分に凝縮 - ニュース",
+          "imageUrl": "https://cgworld.jp/flashnews/assets_c/2024/06/WOW01-thumb-1920x1080-55658.jpg"
+        },
         {
           "id": "https://cgworld.jp/flashnews/manga-blender-10.html",
           "author": null,
@@ -2423,46 +2373,6 @@
           "wordCount": 694,
           "title": "ディズニーの最新技術！魔法の動く床「ホロタイル(HoloTile)」とは？全方向に動く床の仕組みを解説 - ニュース",
           "imageUrl": "https://cgworld.jp/flashnews/assets_c/2024/05/holotile_01-thumb-482x300-54191.jpg"
-        },
-        {
-          "id": "https://cgworld.jp/flashnews/2405-cgwjam.html",
-          "author": null,
-          "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
-          "link": "https://cgworld.jp/flashnews/2405-cgwjam.html",
-          "publishedOn": "2024-05-28T08:00:00.000Z",
-          "wordCount": 713,
-          "title": "［お知らせ］CG特化型のスキルアップ&就職フェス「CGWORLD JAM ONLINE 2024」6/14（金）・6/15（土）開催！ - ニュース",
-          "imageUrl": "https://cgworld.jp/flashnews/assets_c/2024/05/JAMbanner_full-thumb-1000x563-54149.jpg"
-        },
-        {
-          "id": "https://cgworld.jp/special-feature/202405-elfin.html",
-          "author": null,
-          "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
-          "link": "https://cgworld.jp/special-feature/202405-elfin.html",
-          "publishedOn": "2024-05-28T04:40:00.000Z",
-          "wordCount": 546,
-          "title": "自動車部品メーカーがオリジナルキャラクターでPR！「マツオちゃん」をはじめ、グループ会社のキャラクター制作を担う松尾製作所傘下のエルフィン エンターテインメント部とは？ - スペシャルコンテンツ",
-          "imageUrl": "https://cgworld.jp/special-feature/assets_c/2024/05/230125095201683%20%281%29-thumb-1200x675-53646.png"
-        },
-        {
-          "id": "https://cgworld.jp/flashnews/202405-3dsMax2025-1.html",
-          "author": null,
-          "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
-          "link": "https://cgworld.jp/flashnews/202405-3dsMax2025-1.html",
-          "publishedOn": "2024-05-28T03:51:14.000Z",
-          "wordCount": 751,
-          "title": "3ds Max 2025.1リリース！　新OSLシェーダ搭載、モディファイヤ・ペイントウェイト・カラー管理の機能改善など利便性＆安定性がアップデート - ニュース",
-          "imageUrl": "https://cgworld.jp/flashnews/assets_c/2024/05/Max2025-1-00-thumb-800x450-54291.jpg"
-        },
-        {
-          "id": "https://cgworld.jp/article/202405-cgw309-relink02.html",
-          "author": null,
-          "description": "『グランブルーファンタジーリリンク』の背景制作を紹介。",
-          "link": "https://cgworld.jp/article/202405-cgw309-relink02.html",
-          "publishedOn": "2024-05-28T03:36:00.000Z",
-          "wordCount": 752,
-          "title": "『グラブル』の美しい背景世界を3Dで再現する～『グランブルーファンタジー リリンク』（2）ワールド編 - 特集",
-          "imageUrl": "https://cgworld.jp/article/assets_c/2024/05/6bf59a05e5dc1da1b9356f6af443ffaf38a73dc5-thumb-1920x1080-53570.jpg"
         }
       ]
     },
@@ -2965,26 +2875,6 @@
           "wordCount": 3382,
           "title": "ゴジラ-1.0がどのように作られたのか？マツコの知らない世界「VFXの世界」が無料視聴できます",
           "imageUrl": "https://modelinghappy.com/wp-content/uploads/2024/05/20240530_matsuko.jpg"
-        },
-        {
-          "id": "https://modelinghappy.com/?p=57255",
-          "author": "modelinghappy",
-          "description": "starline 抹茶もなかさんが作成した入力した線画に忠実に色を塗るシステムstarlineをgithub上で公開しました。 使用出来る画像形式は背景が透明なPNG画像で、サイズは1024pxＸ1024pxが推奨されて\nThe post starline 線画のイラストから自動で色を塗ってくれるシステムが公開 first appeared on 3DCG最新情報サイト MODELING HAPPY.",
-          "link": "https://modelinghappy.com/archives/57255",
-          "publishedOn": "2024-05-28T12:03:57.000Z",
-          "wordCount": 3400,
-          "title": "starline 線画のイラストから自動で色を塗ってくれるシステムが公開",
-          "imageUrl": "https://modelinghappy.com/wp-content/uploads/2024/05/20240528_starline.jpg"
-        },
-        {
-          "id": "https://modelinghappy.com/?p=57249",
-          "author": "modelinghappy",
-          "description": "Foot Lock Foot Lockは、Blenderでモーションキャプチャデータ等を調整する場合に数クリックで足の位置を固定して滑らずに自然なアニメーションを作成する事が出来るアドオンです。 使用前だと足が地面から離\nThe post Foot Lock モーキャプデータ等の足の滑りを数クリックで固定して調整出来るBlender用アドオン first appeared on 3DCG最新情報サイト MODELING HAPPY.",
-          "link": "https://modelinghappy.com/archives/57249",
-          "publishedOn": "2024-05-28T02:03:28.000Z",
-          "wordCount": 3464,
-          "title": "Foot Lock モーキャプデータ等の足の滑りを数クリックで固定して調整出来るBlender用アドオン",
-          "imageUrl": "https://modelinghappy.com/wp-content/uploads/2024/05/20240528_foot_lock_00.jpg"
         }
       ]
     },
@@ -3402,36 +3292,6 @@
           "wordCount": 639,
           "title": "さまざまなテクスチャ、マテリアル..。Substance 3D Designer のクイックティップス集（データダウンロード/ ※英語ムービー）",
           "imageUrl": "https://3dtotal.jp/wp-content/uploads/2024/01/sdesinger_qt30.jpg"
-        },
-        {
-          "id": "https://3dtotal.jp/?p=46610",
-          "author": "3dtotal管理人T",
-          "description": "はじめに Igor Kekeljevic Keki です。セルビア大学の技術科学部 エンジニアリング・アニメーション学科で准教授を務めています。余暇には Blender を使って デジタルキャラクターを作っています。 0 […]\nThe post Blender 使用、2Dポートレートを3Dに：「1 million」のメイキング first appeared on 3dtotal 日本語オフィシャルサイト.",
-          "link": "https://3dtotal.jp/tutorials/46610/",
-          "publishedOn": "2024-05-28T09:32:26.000Z",
-          "wordCount": 598,
-          "title": "Blender 使用、2Dポートレートを3Dに：「1 million」のメイキング",
-          "imageUrl": "https://3dtotal.jp/wp-content/uploads/2024/05/t339_t.jpg"
-        },
-        {
-          "id": "https://3dtotal.jp/?p=46587",
-          "author": "3dtotal管理人T",
-          "description": "★Cinema 4D 2024 パーティクル入門（1時間6分） 2023年5月24日（金）に開催されたCinema 4Dパーティクルのウェビナーのアーカイブになります。配信当日のトラブルがあったため、本編のみこちらにアッ […]\nThe post はじめての Cinema4D 講座：Cinema 4D パーティクル first appeared on 3dtotal 日本語オフィシャルサイト.",
-          "link": "https://3dtotal.jp/tutorials/46587/",
-          "publishedOn": "2024-05-28T08:01:17.000Z",
-          "wordCount": 563,
-          "title": "はじめての Cinema4D 講座：Cinema 4D パーティクル",
-          "imageUrl": "https://3dtotal.jp/wp-content/uploads/2024/05/cinema4d_particle.jpg"
-        },
-        {
-          "id": "https://3dtotal.jp/?p=46583",
-          "author": "3dtotal管理人T",
-          "description": "★AXIS Studios | 15 Years of Houdini | Houdini Connect（8分48秒） 今回の Houdini Connect では、AXIS Studios における Houdini  […]\nThe post Houdini 使用事例：AXIS Studios による 15年間にわたる活用 first appeared on 3dtotal 日本語オフィシャルサイト.",
-          "link": "https://3dtotal.jp/news/46583/",
-          "publishedOn": "2024-05-28T07:55:13.000Z",
-          "wordCount": 588,
-          "title": "Houdini 使用事例：AXIS Studios による 15年間にわたる活用",
-          "imageUrl": "https://3dtotal.jp/wp-content/uploads/2024/05/houdini_axisstudio.jpg"
         }
       ]
     }

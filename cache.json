@@ -658,6 +658,51 @@
       "siteUrl": "https://3dnchu.com",
       "articles": [
         {
+          "id": "https://3dnchu.com/?p=1042650",
+          "author": "Ymt3D -3dnchu-",
+          "description": "Meta社が7月2日に、1分未満でテキストから3Dモデルを生成出来る技術「Meta 3D Gen」を発表しました！",
+          "link": "https://3dnchu.com/archives/meta-3d-gen/",
+          "publishedOn": "2024-07-06T07:01:14.000Z",
+          "wordCount": 8656,
+          "title": "Meta 3D Gen - テキストからPBR対応のテクスチャ付き3Dモデルを1分未満で生成する技術をMeta社が発表！",
+          "enclosure": {
+            "url": "https://3dnchu.com/wp-content/uploads/Meta3DGen.jpg",
+            "length": "60775",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://3dnchu.com/wp-content/uploads/Meta3DGen.jpg"
+        },
+        {
+          "id": "https://3dnchu.com/?p=1042640",
+          "author": "Ymt3D -3dnchu-",
+          "description": "中国・清華大学の研究チームらによる、1枚の画像から3Dモデルを生成するフレームワーク「Unique3D」が公開されました。",
+          "link": "https://3dnchu.com/archives/unique3d/",
+          "publishedOn": "2024-07-06T06:44:12.000Z",
+          "wordCount": 8644,
+          "title": "Unique3D: High-Quality and Efficient 3D Mesh Generation from a Single Image - 1枚の画像から３Dメッシュを生成するフレームワーク！オープンソース公開！オンライン上で動かすデモもあるよ！",
+          "enclosure": {
+            "url": "https://3dnchu.com/wp-content/uploads/Unique3D.mp4",
+            "length": "8145194",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://3dnchu.com/wp-content/uploads/Unique3D-1.webp"
+        },
+        {
+          "id": "https://3dnchu.com/?p=1042652",
+          "author": "Ymt3D -3dnchu-",
+          "description": "Tencentと上海Jiao Tong大学の研究者たちによる1枚の人物のリファレンス画像を動かす技術「MimicMotion : High-Quality Human Motion Video Generation with Confidence-aware Pose Guidance」が登場していました。過去技術より安定した結果を得られるそうです。",
+          "link": "https://3dnchu.com/archives/mimicmotion/",
+          "publishedOn": "2024-07-06T06:07:17.000Z",
+          "wordCount": 8928,
+          "title": "MimicMotion : High-Quality Human Motion Video Generation with Confidence-aware Pose Guidance - 1枚の人物のリファレンス画像を動かす技術！過去技術より安定した新たなフレームワークが登場！ComfyUI板もあるよ！",
+          "enclosure": {
+            "url": "https://3dnchu.com/wp-content/uploads/MimicMotion.mp4",
+            "length": "10633211",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://3dnchu.com/wp-content/uploads/MimicMotion.webp"
+        },
+        {
           "id": "https://3dnchu.com/?p=1042594",
           "author": "Ymt3D -3dnchu-",
           "description": "miHoYoが開発・リリースした『ゼンレスゾーンゼロ』に登場するキャラクターの3Dモデル18体がMMD形式で無料配布されています！",
@@ -2258,16 +2303,6 @@
           "wordCount": 750,
           "title": "イアン・スプリグス氏のデジタル・ポートレート新作公開！　題材は7歳の姪Theaちゃん - ニュース",
           "imageUrl": "https://cgworld.jp/flashnews/assets_c/2024/06/IanSpriggs01-thumb-1920x1080-54753.jpg"
-        },
-        {
-          "id": "https://cgworld.jp/article/moripv-03.html",
-          "author": null,
-          "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
-          "link": "https://cgworld.jp/article/moripv-03.html",
-          "publishedOn": "2024-06-06T16:47:36.000Z",
-          "wordCount": 682,
-          "title": "TREE Digital Studio LUDENS事業部による森ビルブランドのムービーメイキング〜（3）『森ビル ブランドムービー｜DESIGNING TOKYO』 - 特集",
-          "imageUrl": "https://cgworld.jp/assets/image/common/og-image.png"
         }
       ]
     },

@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-07-11T12:15:02.426Z</updated>
+    <updated>2024-07-12T00:38:00.715Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Wacom Yuify 自分で作成した作品にデジタル著作権、保護してくれるマイクロマークを埋め込む無料サービスが公開]]></title>
+        <id>https://modelinghappy.com/?p=58153</id>
+        <link href="https://modelinghappy.com/archives/58153"/>
+        <updated>2024-07-11T13:00:21.000Z</updated>
+        <summary type="html"><![CDATA[Wacom Yuify Wacomが自身で作成したデジタル著作権を管理、保護してくれるWacom Yuifyのベータ版を公開しました。コンテンツをオンラインで共有する前に、Wacom Yuifyを使用する事で、デジタル
+The post Wacom Yuify 自分で作成した作品にデジタル著作権、保護してくれるマイクロマークを埋め込む無料サービスが公開 first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
+        <author>
+            <name>modelinghappy</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【アドオン紹介】Blenderkit Translator – BlenderKitで日本語検索できる！]]></title>
         <id>https://cgbox.jp/?p=58077</id>
@@ -2733,138 +2744,6 @@ The post 500種類を超えるAAA品質のアニメーションとアニメー�
 The post Ngon Loop Select Ngonがある場合にもループエッジが簡単選択出来るBlender用アドオンがバージョンアップ first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
         <author>
             <name>modelinghappy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[VR Motion Capture v1 Early Adopter Edition - VRデバイスを使用しオブジェクトの動きをアニメーション出来るBlenderアドオンが登場！]]></title>
-        <id>https://3dnchu.com/?p=1042001</id>
-        <link href="https://3dnchu.com/archives/vr-motion-capture-v1-ea/"/>
-        <updated>2024-06-12T11:29:28.000Z</updated>
-        <summary type="html"><![CDATA[Freebird XRによるVRデバイスを使用しオブジェクトの動きをアニメーションさせることが出来るBlenderアドオン「VR Motion Capture」がリリースされました！]]></summary>
-        <author>
-            <name>Ymt3D -3dnchu-</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【アドオン紹介】Parallax It! – 頂点要らず！視差効果で奥行き再現]]></title>
-        <id>https://cgbox.jp/?p=57522</id>
-        <link href="https://cgbox.jp/2024/06/12/news-addon-parallax-it/"/>
-        <updated>2024-06-12T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは！ 今回はアドオンの「Parallax It! – No Extra Geometry/Subdivision! Parallax Occlusion Mapping」を紹介します。 こちらのリンク […]]]></summary>
-        <author>
-            <name>UEDA</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【CGニュース】Blender Market | 10周年記念イベント開催中！]]></title>
-        <id>https://cgbox.jp/?p=57530</id>
-        <link href="https://cgbox.jp/2024/06/12/cgnews-blender-market-10year/"/>
-        <updated>2024-06-12T10:33:39.000Z</updated>
-        <summary type="html"><![CDATA[こんにちは。 今日は『Blender Market』で開催されている『10周年記念イベント』について紹介します。 10日間連続(6月11日～20日)で対象の製品が無料ダウンロードできます。 見逃さずチェックして、絶対にダ […]]]></summary>
-        <author>
-            <name>UEDA</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【アドオン紹介】Flower Growth – ヒナギクの成長アニメーション！]]></title>
-        <id>https://cgbox.jp/?p=57512</id>
-        <link href="https://cgbox.jp/2024/06/12/news-addon-flower-growth/"/>
-        <updated>2024-06-12T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは！ 今回はアドオンの「Collision Born For Flower：Flower Growth（Bellis Perennis）Panel」を紹介します。 こちらのリンクから購入することができます。 Co […]]]></summary>
-        <author>
-            <name>UEDA</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【UE5】平均化フィルタリングでぼかしを実装してみる]]></title>
-        <id>https://tech.spark-creative.co.jp/entry/2024/06/12/181719</id>
-        <link href="https://tech.spark-creative.co.jp/entry/2024/06/12/181719"/>
-        <updated>2024-06-12T09:17:19.000Z</updated>
-        <summary type="html"><![CDATA[こんにちは、クライエントエンジニアの中島龍清(ナカシマリュウセイ)です。 だいぶ久しぶりの投稿となってしまいました。 今回はフィルタリングについて調べていたうちにどれが何なのか分からなくなってきたため、備忘録代わりにひとまず簡単に実装ができた平均化フィルタリングについて解説していこうと思います。 平均化フィルタリングとは 仕組み メリット、デメリット メリット デメリット 実装 実装結果 応用 カスタムノードを活用する 3x3以外を実装する まとめ 参考サイト 平均化フィルタリングとは ある一点のピクセルとその周辺のピクセルを用いて計算をおこなう画像処理『空間フィルタリング(またはフィルタ)』…]]></summary>
-        <author>
-            <name>SPARKCREATIVE Tech Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[［お知らせ］「第9回：漫画のための3D背景入門講座～現役漫画と学ぶBlender活用術～」配信開始 - ニュース]]></title>
-        <id>https://cgworld.jp/flashnews/manga-blender-09.html</id>
-        <link href="https://cgworld.jp/flashnews/manga-blender-09.html"/>
-        <updated>2024-06-12T07:11:58.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[リガー向けリアルイベント「リグナイト超」ライトニングトーク セッションレポート - スペシャルコンテンツ]]></title>
-        <id>https://cgworld.jp/special-feature/rignight2024-talkreport.html</id>
-        <link href="https://cgworld.jp/special-feature/rignight2024-talkreport.html"/>
-        <updated>2024-06-12T06:15:00.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[スピルバーグ、トム・ハンクス製作総指揮。『マスターズ・オブ・ザ・エアー』の VFXブレイクダウン映像]]></title>
-        <id>https://3dtotal.jp/?p=46805</id>
-        <link href="https://3dtotal.jp/news/46805/"/>
-        <updated>2024-06-12T02:29:28.000Z</updated>
-        <summary type="html"><![CDATA[★Masters of the Air | VFX Breakdown | DNEG（2分50秒） 離陸準備完了! 『マスターズ・オブ・ザ・エアー』のVFXブレイクダウンは、あなたを新たな高みへと舞い上がらせる! 第二次 […]
-The post スピルバーグ、トム・ハンクス製作総指揮。『マスターズ・オブ・ザ・エアー』の VFXブレイクダウン映像 first appeared on 3dtotal 日本語オフィシャルサイト.]]></summary>
-        <author>
-            <name>3dtotal管理人T</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[水棲クリーチャー ガルパー。世界的ベストセラーゲームを実写化。ドラマ『フォールアウト』のVFXブレイクダウン映像]]></title>
-        <id>https://3dtotal.jp/?p=46802</id>
-        <link href="https://3dtotal.jp/news/46802/"/>
-        <updated>2024-06-12T02:21:52.000Z</updated>
-        <summary type="html"><![CDATA[★Fallout Gulper VFX Breakdown（2分27秒） 私たち Framestore のチームは、コンセプトデザインから複雑なアニメーションまで、水棲クリーチャー ガルパーを作り上げました。リアルな特徴 […]
-The post 水棲クリーチャー ガルパー。世界的ベストセラーゲームを実写化。ドラマ『フォールアウト』のVFXブレイクダウン映像 first appeared on 3dtotal 日本語オフィシャルサイト.]]></summary>
-        <author>
-            <name>3dtotal管理人T</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[モーション、VFX、コンポジットに特化した新学科を新設するアミューズメントメディア総合学院。教育分野、CG業界のキーパーソン2名にインタビュー - スペシャルコンテンツ]]></title>
-        <id>https://cgworld.jp/special-feature/2405-amg.html</id>
-        <link href="https://cgworld.jp/special-feature/2405-amg.html"/>
-        <updated>2024-06-12T01:50:00.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Day 2 FREE Blender gifts - 10th birthday of the Blender Market - 「Blender Market」10周年記念！ 10日間連続でBlender関連ギフトを配布！2日目は群衆制御アドオン「Population」が無料配布！]]></title>
-        <id>https://3dnchu.com/?p=1041982</id>
-        <link href="https://3dnchu.com/archives/day-2-free-blender-gifts-10th-bm/"/>
-        <updated>2024-06-12T01:41:42.000Z</updated>
-        <summary type="html"><![CDATA[Blender関連アドオンやアセットの販売でおなじみ「Blender Market」が10歳のお誕生日！10日間連続のBlender関連ギフトを配布！2日目は群衆制御アドオン「Population」が無料配布されました！]]></summary>
-        <author>
-            <name>Ymt3D -3dnchu-</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Diversion - 最大10人で100GBまで無料のバージョン管理システム！Unreal Engine 5のソースコントロール対応プラグインも公開！]]></title>
-        <id>https://3dnchu.com/?p=1041741</id>
-        <link href="https://3dnchu.com/archives/diversion/"/>
-        <updated>2024-06-12T01:15:10.000Z</updated>
-        <summary type="html"><![CDATA[「Diversion」というバージョン管理システムはご存知ですか？最近Unreal Engine 5対応プラグインが登場したみいたいですよ。そして最大10人まで100GBのストレージが無料とか！]]></summary>
-        <author>
-            <name>Ymt3D -3dnchu-</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[新たに登場する個性的なナイトメアフレームのメイキングを解説！ 『コードギアス 奪還のロゼ』〜（2）セットアップ篇 - 特集]]></title>
-        <id>https://cgworld.jp/article/2405-310roze02.html</id>
-        <link href="https://cgworld.jp/article/2405-310roze02.html"/>
-        <updated>2024-06-12T01:01:30.000Z</updated>
-        <summary type="html"><![CDATA[アニメCGの現場から、『コードギアス 奪還のロゼ』のメイキングを紹介。]]></summary>
-        <author>
-            <name>CGWORLD</name>
         </author>
     </entry>
 </feed>

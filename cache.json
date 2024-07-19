@@ -520,51 +520,6 @@
             "type": "video/mp4"
           },
           "imageUrl": "https://cgbox.jp/wp-content/uploads/2024/06/maxresdefault-1-1.jpg"
-        },
-        {
-          "id": "https://cgbox.jp/?p=57691",
-          "author": "UEDA",
-          "description": "こんばんは！ 今回はアドオンの「Offset Cut – Blender Extension」を紹介します。 こちらのリンクから購入することができます。 Offset Cut – Blender  […]",
-          "link": "https://cgbox.jp/2024/06/19/news-addon-offset-cut/",
-          "publishedOn": "2024-06-19T11:00:00.000Z",
-          "wordCount": 2037,
-          "title": "【アドオン紹介】Offset Cut – 複雑部分に新たなエッジを生成！",
-          "enclosure": {
-            "url": "https://cgbox.jp/wp-content/uploads/2024/06/2987bbbed807c8e7623a306532f6b129.mp4",
-            "length": "0",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://cgbox.jp/wp-content/uploads/2024/06/Offset-Cut-Thumbnail3.jpg"
-        },
-        {
-          "id": "https://cgbox.jp/?p=57679",
-          "author": "UEDA",
-          "description": "こんばんは！ 今回はアドオンの「Alien Worlds」を紹介します。 こちらのリンクから購入することができます。 Alien Worlds 「Alien Worlds」は、惑星や恒星、ブラックホールなどの天体を生成で […]",
-          "link": "https://cgbox.jp/2024/06/19/news-addon-alien-worlds/",
-          "publishedOn": "2024-06-19T10:00:00.000Z",
-          "wordCount": 2060,
-          "title": "【アドオン紹介】Alien Worlds – リアルな宇宙を再現しよう！",
-          "enclosure": {
-            "url": "https://cgbox.jp/wp-content/uploads/2024/06/3b331a62a227efdc41eb04e175ab6307.mp4",
-            "length": "0",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://cgbox.jp/wp-content/uploads/2024/06/AW_Cover-Image.jpg"
-        },
-        {
-          "id": "https://cgbox.jp/?p=57530",
-          "author": "UEDA",
-          "description": "こんにちは。 今日は『Blender Market』で開催されている『10周年記念イベント』について紹介します。 10日間連続(6月11日～20日)で対象の製品が無料ダウンロードできます。 見逃さずチェックして、絶対にダ […]",
-          "link": "https://cgbox.jp/2024/06/19/cgnews-blender-market-10year/",
-          "publishedOn": "2024-06-19T01:28:00.000Z",
-          "wordCount": 2451,
-          "title": "【CGニュース】Blender Market | 10周年記念イベント開催中！",
-          "enclosure": {
-            "url": "https://cgbox.jp/wp-content/uploads/2024/06/9b9e432b7dfae1be03d45415e5e7d3f6.mp4",
-            "length": "0",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://cgbox.jp/wp-content/uploads/2024/06/maxresdefault-1-1.jpg"
         }
       ]
     },
@@ -618,16 +573,6 @@
           "wordCount": 14294,
           "title": "スキンウェイト関連ノードとその効果的な使用方法について",
           "imageUrl": "https://tech-art.online/wordpress/wp-content/uploads/2024/06/20240618_200128_resize-485x300.jpg"
-        },
-        {
-          "id": "https://tech-art.online/?p=1631",
-          "author": "管理人",
-          "description": "画像圧縮は、高解像度テクスチャを多用する現代のゲームにおいて、パフォーマンスやプレイ体験の向上に不可欠な技術です。適切な圧縮設定を学びましょう。\nDXT1？DXT5？画像圧縮の仕組みとその適切な設定方法 first appeared on TECH ART ONLINE.",
-          "link": "https://tech-art.online/ue5-texture-compression/?utm_source=rss&utm_medium=rss&utm_campaign=ue5-texture-compression",
-          "publishedOn": "2024-06-19T14:08:39.000Z",
-          "wordCount": 14296,
-          "title": "DXT1？DXT5？画像圧縮の仕組みとその適切な設定方法",
-          "imageUrl": "https://tech-art.online/wordpress/wp-content/uploads/2024/06/20240615_173302_resize-485x300.jpg"
         }
       ]
     },
@@ -642,6 +587,51 @@
       "feedUrl": "https://3dnchu.com/feed/",
       "siteUrl": "https://3dnchu.com",
       "articles": [
+        {
+          "id": "https://3dnchu.com/?p=1043032",
+          "author": "Ymt3D -3dnchu-",
+          "description": "Aaws Oday氏がBlenderのGeometry Nodes上でVellumを構築して.belndファイルとして無償公開されています。",
+          "link": "https://3dnchu.com/archives/vellum-for-blender/",
+          "publishedOn": "2024-07-18T19:54:06.000Z",
+          "wordCount": 8532,
+          "title": "vellum for blender - BlenderのGeometry Nodes上で構築された粒子ベースのシミュレーション！.blendデータが無料公開中！",
+          "enclosure": {
+            "url": "https://3dnchu.com/wp-content/uploads/vellum-for-blender.mp4",
+            "length": "1757007",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://3dnchu.com/wp-content/uploads/vellum-for-blender.webp"
+        },
+        {
+          "id": "https://3dnchu.com/?p=1043000",
+          "author": "Ymt3D -3dnchu-",
+          "description": "中国、南京大学の研究者らによる、リアルタイムレンダリング向けの任意のスケールに対応した超解像技術「Deep Fourier-based Arbitrary-scale Super-resolution for Real-time Rendering」の論文が公開されています。",
+          "link": "https://3dnchu.com/archives/deep-fourier-based-arbitrary-scale-super-resolution-for-real-time-rendering/",
+          "publishedOn": "2024-07-18T19:36:20.000Z",
+          "wordCount": 8859,
+          "title": "Deep Fourier-based Arbitrary-scale Super-resolution for Real-time Rendering - リアルタイムレンダリングの為の任意スケール超解像技術！SIGGRAPH 2024 論文！",
+          "enclosure": {
+            "url": "https://3dnchu.com/wp-content/uploads/Deep-Fourier-based-Arbitrary-scale-Super-resolution-for-Real-time-Rendering.webp",
+            "length": "1036550",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://3dnchu.com/wp-content/uploads/Deep-Fourier-based-Arbitrary-scale-Super-resolution-for-Real-time-Rendering.webp"
+        },
+        {
+          "id": "https://3dnchu.com/?p=1043003",
+          "author": "Ymt3D -3dnchu-",
+          "description": "芝士雪豹氏による、Unreal Engine 5を使用したインク表現シーン制作チュートリアル「UE5インク中国風シーン「蜀地」 短編映画クイック制作チュートリアル」がCG＆デジタルアート学習オンラインプラットフォーム「WINGFOX」にて取り扱い開始されています。",
+          "link": "https://3dnchu.com/archives/ue5-ink-visual-wingfox/",
+          "publishedOn": "2024-07-18T18:47:27.000Z",
+          "wordCount": 8835,
+          "title": "UE5インク中国風シーン「蜀地」 短編映画クイック制作チュートリアル - Unreal Engine 5を使用しユニークな水墨画ビジュアルを作るコース！「Wingfox」にて公開！日本語講座のサマーセールも実施中！",
+          "enclosure": {
+            "url": "https://3dnchu.com/wp-content/uploads/ue5-ink-visual-wingfox.webp",
+            "length": "1295202",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://3dnchu.com/wp-content/uploads/ue5-ink-visual-wingfox.webp"
+        },
         {
           "id": "https://3dnchu.com/?p=1042977",
           "author": "Ymt3D -3dnchu-",
@@ -1174,6 +1164,16 @@
       "feedUrl": "https://cgworld.jp/atom.xml",
       "siteUrl": "https://cgworld.jp/",
       "articles": [
+        {
+          "id": "https://cgworld.jp/regular/202407-ue5tool-07.html",
+          "author": null,
+          "description": "Editor UtilityとPythonの連携方法を紹介",
+          "link": "https://cgworld.jp/regular/202407-ue5tool-07.html",
+          "publishedOn": "2024-07-19T00:30:00.000Z",
+          "wordCount": 762,
+          "title": "第7回：Pythonを活用したスクリプティング - 連載",
+          "imageUrl": "https://cgworld.jp/regular/assets_c/2024/07/UE5_EditorUtility_banner_vol7-thumb-1000x563-56506.jpg"
+        },
         {
           "id": "https://cgworld.jp/regular/202407-c4dparticle-01.html",
           "author": null,
@@ -2013,56 +2013,6 @@
           "wordCount": 760,
           "title": "国内外で活躍するアニメーターによるスキルアップイベント『CGWORLD MASTERCLASS ONLINE vol.13』が来週6月25日～28日に開催！ - ニュース",
           "imageUrl": "https://cgworld.jp/flashnews/assets_c/2024/06/masterclassthumbnailbanner%20%281%29-thumb-1920x1080-55522.jpg"
-        },
-        {
-          "id": "https://cgworld.jp/flashnews/202406-Reblium.html",
-          "author": null,
-          "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
-          "link": "https://cgworld.jp/flashnews/202406-Reblium.html",
-          "publishedOn": "2024-06-19T08:45:12.000Z",
-          "wordCount": 682,
-          "title": "デジタルヒューマン作成ツール「Reblium Studio」リリース！　AIを活用したリアルなキャラクターモデリング＆セットアップを実現 - ニュース",
-          "imageUrl": "https://cgworld.jp/flashnews/assets_c/2024/06/Reblium01-thumb-1920x1080-55381.jpg"
-        },
-        {
-          "id": "https://cgworld.jp/flashnews/202406-Nuke15-1.html",
-          "author": null,
-          "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
-          "link": "https://cgworld.jp/flashnews/202406-Nuke15-1.html",
-          "publishedOn": "2024-06-19T04:50:32.000Z",
-          "wordCount": 727,
-          "title": "Nuke 15.1リリース！　パイプラインのオープン化対応、機械学習機能の性能向上、レビューツールの利便性向上など - ニュース",
-          "imageUrl": "https://cgworld.jp/flashnews/assets_c/2024/06/Nuke15-1-01-thumb-1200x630-55348.jpg"
-        },
-        {
-          "id": "https://cgworld.jp/flashnews/ultimaker3dfactor4.html",
-          "author": null,
-          "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
-          "link": "https://cgworld.jp/flashnews/ultimaker3dfactor4.html",
-          "publishedOn": "2024-06-19T03:32:55.000Z",
-          "wordCount": 679,
-          "title": "Ultimakerが初の産業用3Dプリンター「Factor4」を販売開始 - ニュース",
-          "imageUrl": "https://cgworld.jp/flashnews/assets_c/2024/05/ultimaker3dfactor4_01-thumb-1341x669-54492.jpg"
-        },
-        {
-          "id": "https://cgworld.jp/article/310-lowpoly.html",
-          "author": null,
-          "description": "",
-          "link": "https://cgworld.jp/article/310-lowpoly.html",
-          "publishedOn": "2024-06-19T03:00:00.000Z",
-          "wordCount": null,
-          "title": "Blender系YouTuber・びび氏直伝！　ローポリプロップかんたん制作術 - 特集",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cgworld.jp/flashnews/story-illustration-fujiwarayoshito.html",
-          "author": null,
-          "description": "",
-          "link": "https://cgworld.jp/flashnews/story-illustration-fujiwarayoshito.html",
-          "publishedOn": "2024-06-19T02:24:10.000Z",
-          "wordCount": null,
-          "title": "【7/2(火)開催】フジワラヨシト氏によるストーリーを感じさせる絵を作り出すための考え方、技法、学習法を伝授!『ストーリーを感じるイラストの描き方』 - ニュース",
-          "imageUrl": null
         }
       ]
     },
@@ -2106,6 +2056,26 @@
       "feedUrl": "https://modelinghappy.com/feed",
       "siteUrl": "https://modelinghappy.com",
       "articles": [
+        {
+          "id": "https://modelinghappy.com/?p=58347",
+          "author": "modelinghappy",
+          "description": "Substance 3D Sampler 4.5 Adobe Substance 3D Samplerが4.5にアップデートされ、Adobe Substance 3D Samplerで作成したマテリアルをそのままテクスチ\nThe post Substance 3D Samplerが4.5にバージョンアップで、マテリアルをUE5、Blender、Maya、3DsMax、Unityに直接転送できる機能が追加されました first appeared on 3DCG最新情報サイト MODELING HAPPY.",
+          "link": "https://modelinghappy.com/archives/58347",
+          "publishedOn": "2024-07-19T00:13:23.000Z",
+          "wordCount": 3439,
+          "title": "Substance 3D Samplerが4.5にバージョンアップで、マテリアルをUE5、Blender、Maya、3DsMax、Unityに直接転送できる機能が追加されました",
+          "imageUrl": "https://modelinghappy.com/wp-content/uploads/2024/07/20240719_adobe_susbstance_3d_01.jpg"
+        },
+        {
+          "id": "https://modelinghappy.com/?p=58328",
+          "author": "modelinghappy",
+          "description": "マウスコンピューターで夏のBIG SALE開催中！ マウスコンピューターでは2024年7月17日~７月31日まで夏のBIG SALEと題してゲーミングPCやクリエイターPCなど厳選されたノートパソコンやデスクトップパソコ\nThe post マウスコンピューターで最大50,000円OFFの夏のビッグセールが開催中です！お得なパソコンリストアップ first appeared on 3DCG最新情報サイト MODELING HAPPY.",
+          "link": "https://modelinghappy.com/archives/58328",
+          "publishedOn": "2024-07-18T15:57:59.000Z",
+          "wordCount": 3406,
+          "title": "マウスコンピューターで最大50,000円OFFの夏のビッグセールが開催中です！お得なパソコンリストアップ",
+          "imageUrl": "https://modelinghappy.com/wp-content/uploads/2024/07/20240719_mouse_sale.jpg"
+        },
         {
           "id": "https://modelinghappy.com/?p=58318",
           "author": "modelinghappy",
@@ -2590,26 +2560,6 @@
           "wordCount": 3435,
           "title": "Slimy thing Blenderで用意したモデルにリアルタイムにスライム形状が吸着してくれる無料ジオメトリーノードデータ",
           "imageUrl": "https://modelinghappy.com/wp-content/uploads/2024/06/20240620_slimything.jpg"
-        },
-        {
-          "id": "https://modelinghappy.com/?p=57709",
-          "author": "modelinghappy",
-          "description": "Wrapit 1万本以上の人気を誇るRandomFlowを作成したBlender GuppyさんがモデルをラッピングしてくれるアドオンWrapitが販売開始されました。 ラッピングしたいモデルを１個から複数選択してアドオ\nThe post Wrapit モデルを複数個でも簡単ラッピング出来るBlender用アドオン first appeared on 3DCG最新情報サイト MODELING HAPPY.",
-          "link": "https://modelinghappy.com/archives/57709",
-          "publishedOn": "2024-06-19T02:44:59.000Z",
-          "wordCount": 3392,
-          "title": "Wrapit モデルを複数個でも簡単ラッピング出来るBlender用アドオン",
-          "imageUrl": "https://modelinghappy.com/wp-content/uploads/2024/06/20240619_wrapit_01.jpg"
-        },
-        {
-          "id": "https://modelinghappy.com/?p=57695",
-          "author": "modelinghappy",
-          "description": "PBRPX PBRPXはCC0の商用利用可能な素材でありながら高品質な素材を無料でダウンロードできるサイトが公開されました。アートは自由でオープンですべきであるという考えからデジタルアセットを自由に使用、共有するために公\nThe post PBRPX 登録せずに400種類以上の3Dモデル、PBRマテリアル用テクスチャ素材などが無料ダウンロード出来る商用利用可能な素材サイト first appeared on 3DCG最新情報サイト MODELING HAPPY.",
-          "link": "https://modelinghappy.com/archives/57695",
-          "publishedOn": "2024-06-19T01:28:37.000Z",
-          "wordCount": 3417,
-          "title": "PBRPX 登録せずに400種類以上の3Dモデル、PBRマテリアル用テクスチャ素材などが無料ダウンロード出来る商用利用可能な素材サイト",
-          "imageUrl": "https://modelinghappy.com/wp-content/uploads/2024/06/20240619_pbrpx_01.jpg"
         }
       ]
     },
@@ -2927,36 +2877,6 @@
           "wordCount": 540,
           "title": "衣装デザインツール Marvelous Designer 2024.1 の新機能紹介映像",
           "imageUrl": "https://3dtotal.jp/wp-content/uploads/2024/06/marvelous24_1_newfeat.jpg"
-        },
-        {
-          "id": "https://3dtotal.jp/?p=46933",
-          "author": "3dtotal管理人T",
-          "description": "★Prince of Persia: The Lost Crown - Stylized Environment Art（1時間6分） GDC 2024（3/18-22 @米サンフランシスコ）の Substance Da […]\nThe post ゲーム『プリンス オブ ペルシャ 失われた王冠』のエンバイロメント（Substance Days 講演映像） first appeared on 3dtotal 日本語オフィシャルサイト.",
-          "link": "https://3dtotal.jp/news/46933/",
-          "publishedOn": "2024-06-19T03:32:46.000Z",
-          "wordCount": 580,
-          "title": "ゲーム『プリンス オブ ペルシャ 失われた王冠』のエンバイロメント（Substance Days 講演映像）",
-          "imageUrl": "https://3dtotal.jp/wp-content/uploads/2024/06/pofpersia_substanceday24.jpg"
-        },
-        {
-          "id": "https://3dtotal.jp/?p=46931",
-          "author": "3dtotal管理人T",
-          "description": "★Substance 3D チュートリアル ～ゲームアセットを作ってみよう！～ (Let's Make game assets.)（44分22秒） Substance 3D Modeler - Painter - Des […]\nThe post Substance ＋ Unity 使用、ゲームアセットを作ってみよう! first appeared on 3dtotal 日本語オフィシャルサイト.",
-          "link": "https://3dtotal.jp/tutorials/46931/",
-          "publishedOn": "2024-06-19T03:22:30.000Z",
-          "wordCount": 554,
-          "title": "Substance ＋ Unity 使用、ゲームアセットを作ってみよう!",
-          "imageUrl": "https://3dtotal.jp/wp-content/uploads/2024/06/substance_gameasset.jpg"
-        },
-        {
-          "id": "https://3dtotal.jp/?p=46921",
-          "author": "3dtotal管理人T",
-          "description": "★Webinar: The Unique Performances of Guardians of the Galaxy Vol.3（42分51秒） 私たちの愛するアライグマのロケットは、人の演技と動物の行動のバランスを […]\nThe post 『ガーディアンズ・オブ・ギャラクシー：VOLUME 3』のユニークな演技（Framestore ウェビナー） first appeared on 3dtotal 日本語オフィシャルサイト.",
-          "link": "https://3dtotal.jp/news/46921/",
-          "publishedOn": "2024-06-19T02:32:35.000Z",
-          "wordCount": 536,
-          "title": "『ガーディアンズ・オブ・ギャラクシー：VOLUME 3』のユニークな演技（Framestore ウェビナー）",
-          "imageUrl": "https://3dtotal.jp/wp-content/uploads/2024/06/gog3_webinar_fstore.jpg"
         }
       ]
     }

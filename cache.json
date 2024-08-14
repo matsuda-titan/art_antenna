@@ -565,21 +565,6 @@
             "type": "video/mp4"
           },
           "imageUrl": "https://cgbox.jp/wp-content/uploads/2024/07/ydd-bb-tittle_breeze-blocks.jpg"
-        },
-        {
-          "id": "https://cgbox.jp/?p=58183",
-          "author": "UEDA",
-          "description": "こんばんは！ 今回はアドオンの「Dome Studio Light Hdr」を紹介します。 こちらのリンクから購入することができます。 Dome Studio Light Hdr 「Dome Studio Light H […]",
-          "link": "https://cgbox.jp/2024/07/15/news-addon-dome-studio-light-hdr/",
-          "publishedOn": "2024-07-15T10:00:00.000Z",
-          "wordCount": 2061,
-          "title": "【アドオン紹介】Dome Studio Light Hdr – リアルなレンダリング環境を簡単再現！",
-          "enclosure": {
-            "url": "https://cgbox.jp/wp-content/uploads/2024/07/116bc7eed096f90ca062aee9d61e8081.mp4",
-            "length": "0",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://cgbox.jp/wp-content/uploads/2024/07/2024-10_44_59-AM.png"
         }
       ]
     },
@@ -594,6 +579,16 @@
       "feedUrl": "https://tech-art.online/feed/",
       "siteUrl": "https://tech-art.online",
       "articles": [
+        {
+          "id": "https://tech-art.online/?p=1774",
+          "author": "管理人",
+          "description": "Unreal Engine 5.4で導入されたMovie Render Graph (MRG)は、ノードベースでレンダリング設定を管理できるシステムです。高品質な映像シーケンスやムービーレンダリングの作成を効率化します。\nMovie Render Graphを使ったレンダリング方法を解説 first appeared on TECH ART ONLINE.",
+          "link": "https://tech-art.online/ue5-movie-render-graph/?utm_source=rss&utm_medium=rss&utm_campaign=ue5-movie-render-graph",
+          "publishedOn": "2024-08-13T12:49:49.000Z",
+          "wordCount": 14482,
+          "title": "Movie Render Graphを使ったレンダリング方法を解説",
+          "imageUrl": "https://tech-art.online/wordpress/wp-content/uploads/2024/08/20240813_214926-485x300.jpg"
+        },
         {
           "id": "https://tech-art.online/?p=1762",
           "author": "管理人",
@@ -1962,6 +1957,16 @@
       "siteUrl": "https://modelinghappy.com",
       "articles": [
         {
+          "id": "https://modelinghappy.com/?p=58871",
+          "author": "modelinghappy",
+          "description": "Autodepth Ai Autodepth AiはBlenderで１枚の静止画像から自動的にAIを使用して奥行きのある深度マップを作成してディスプレイスメントマップとして数値入力してモデルを作成出来るアドオンです。 ア\nThe post Autodepth Ai 1枚の画像から奥行きのある深度マップを作成してモデルの奥行きを調整出来るBlender用アドオン first appeared on 3DCG最新情報サイト MODELING HAPPY.",
+          "link": "https://modelinghappy.com/archives/58871",
+          "publishedOn": "2024-08-13T12:19:36.000Z",
+          "wordCount": 3475,
+          "title": "Autodepth Ai 1枚の画像から奥行きのある深度マップを作成してモデルの奥行きを調整出来るBlender用アドオン",
+          "imageUrl": "https://modelinghappy.com/wp-content/uploads/2024/08/20240813_Autodepth_Ai_00.jpg"
+        },
+        {
           "id": "https://modelinghappy.com/?p=58857",
           "author": "modelinghappy",
           "description": "Creating Photorealistic School Corridor in Blender: Modeling, Animation, and Rendering with Cycles 世界中のチュートリアル\nThe post １枚の建物の廊下の写真と全く同じようにフォトリアルなシーンをBlenderで作成するチュートリアル動画がWingfoxで販売開始！ first appeared on 3DCG最新情報サイト MODELING HAPPY.",
@@ -2410,16 +2415,6 @@
           "wordCount": 3403,
           "title": "Blender初心者向け グリースペンシルを使って紙袋に入った可愛らしい猫をイラスト調タッチで作るチュートリアル動画",
           "imageUrl": "https://modelinghappy.com/wp-content/uploads/2024/07/20240716_cats_blneder_01.jpg"
-        },
-        {
-          "id": "https://modelinghappy.com/?p=58250",
-          "author": "modelinghappy",
-          "description": "35 Rig Library For Rigify 35 Rig Library For RigifyはBlenderで使用出来る35種類の様々な動物用のリグが用意されていて、キャラクターにドラッグアンドドロップするだけ\nThe post 35 Rig Library For Rigify 35種類の動物を簡単にリグを設定出来るライブラリとアドオンセット first appeared on 3DCG最新情報サイト MODELING HAPPY.",
-          "link": "https://modelinghappy.com/archives/58250",
-          "publishedOn": "2024-07-15T02:29:29.000Z",
-          "wordCount": 3451,
-          "title": "35 Rig Library For Rigify 35種類の動物を簡単にリグを設定出来るライブラリとアドオンセット",
-          "imageUrl": "https://modelinghappy.com/wp-content/uploads/2024/07/20240715_rigify.jpg"
         }
       ]
     },
@@ -2787,16 +2782,6 @@
           "wordCount": 716,
           "title": "スタイライズ キャラクター『A Letter To The King』のメイキング",
           "imageUrl": "https://3dtotal.jp/wp-content/uploads/2024/07/t343_t.jpg"
-        },
-        {
-          "id": "https://3dtotal.jp/?p=47210",
-          "author": "3dtotal管理人T",
-          "description": "★Farsight: A Scaleable Virtual Production Ecosystem for Faster Iteration（17分1秒） Framestore での バーチャルプロダクションについて […]\nThe post Framestore のバーチャルプロダクション：Farsightツールキットの紹介 first appeared on 3dtotal 日本語オフィシャルサイト.",
-          "link": "https://3dtotal.jp/news/47210/",
-          "publishedOn": "2024-07-15T04:24:52.000Z",
-          "wordCount": 537,
-          "title": "Framestore のバーチャルプロダクション：Farsightツールキットの紹介",
-          "imageUrl": "https://3dtotal.jp/wp-content/uploads/2024/07/farsight_fstore.jpg"
         }
       ]
     }

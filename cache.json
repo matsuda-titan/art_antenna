@@ -700,6 +700,16 @@
       "siteUrl": "https://tech-art.online",
       "articles": [
         {
+          "id": "https://tech-art.online/?p=1804",
+          "author": "管理人",
+          "description": "Unreal Engineでマテリアルを作成する際、 複雑なノードネットワークに悩まされることはありませんか？マテリアルレイヤーでノードのモジュール化を活用することで、ルックデブの効率を大幅に向上させることができます。\nマテリアルレイヤーで描画表現・合成方法をモジュール化しよう！ first appeared on TECH ART ONLINE.",
+          "link": "https://tech-art.online/ue5-material-layer/?utm_source=rss&utm_medium=rss&utm_campaign=ue5-material-layer",
+          "publishedOn": "2024-09-03T04:56:02.000Z",
+          "wordCount": 14479,
+          "title": "マテリアルレイヤーで描画表現・合成方法をモジュール化しよう！",
+          "imageUrl": "https://tech-art.online/wordpress/wp-content/uploads/2024/09/20240903_134856-485x300.jpg"
+        },
+        {
           "id": "https://tech-art.online/?p=1786",
           "author": "管理人",
           "description": "ゲーム業界の現状と将来展望に関するレポート\nPerforceの2024年のゲーム業界動向の資料が興味深かった要点をまとめてみた！ first appeared on TECH ART ONLINE.",
@@ -782,6 +792,36 @@
       "feedUrl": "https://3dnchu.com/feed/",
       "siteUrl": "https://3dnchu.com",
       "articles": [
+        {
+          "id": "https://3dnchu.com/?p=1043975",
+          "author": "Ymt3D -3dnchu-",
+          "description": "OxicidによるUV編集のためのBlenderアドオン「UniV」がリリースされました！オープンソースで無料入手可能です！",
+          "link": "https://3dnchu.com/archives/univ-v1-2/",
+          "publishedOn": "2024-09-03T05:56:16.000Z",
+          "wordCount": 8846,
+          "title": "UniV v1.2 - シンプルかつ便利なUV編集ツールを多数搭載したオープンソースBlenderアドオン！無料入手可能！",
+          "enclosure": {
+            "url": "https://3dnchu.com/wp-content/uploads/univ-v1-2.mp4",
+            "length": "1498559",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://3dnchu.com/wp-content/uploads/univ-v1-2.gif"
+        },
+        {
+          "id": "https://3dnchu.com/?p=1043956",
+          "author": "Ymt3D -3dnchu-",
+          "description": "Hubber StudiosがBlenderのビューポート用CavityシェーダーをUnreal Engine 5向けにポストプロセスHLSLシェーダーとして実装したプラグイン「Cavity Blender Post Pcoress」がリリースされました！",
+          "link": "https://3dnchu.com/archives/cavity-blender-post-process/",
+          "publishedOn": "2024-09-03T04:42:19.000Z",
+          "wordCount": 8782,
+          "title": "Cavity Blender Post Process - Blenderのビューポート用キャビティシェーダーをUnreal Engine 5のポストプロセス上で再現したHLSLシェーダープラグイン！",
+          "enclosure": {
+            "url": "https://3dnchu.com/wp-content/uploads/Cavity-Blender-Post-Process-small.gif",
+            "length": "145819",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://3dnchu.com/wp-content/uploads/Cavity-Blender-Post-Process-small.gif"
+        },
         {
           "id": "https://3dnchu.com/?p=1043902",
           "author": "Ymt3D -3dnchu-",

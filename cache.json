@@ -690,36 +690,6 @@
             "type": "video/mp4"
           },
           "imageUrl": "https://cgbox.jp/wp-content/uploads/2024/08/Blender-_-SHeet.jpg"
-        },
-        {
-          "id": "https://cgbox.jp/?p=58699",
-          "author": "UEDA",
-          "description": "こんばんは！ 今回はアドオンの「Origin Wrangler」を紹介します。 こちらのリンクから購入することができます。 Origin Wrangler 「Origin Wrangler」は、原点操作を効率よくできるア […]",
-          "link": "https://cgbox.jp/2024/08/13/news-addon-origin-wrangler/",
-          "publishedOn": "2024-08-13T11:00:00.000Z",
-          "wordCount": 2064,
-          "title": "【アドオン紹介】Origin Wrangler – 原点操作をパワーアップ！",
-          "enclosure": {
-            "url": "https://cgbox.jp/wp-content/uploads/2024/08/4f97b9e2c34a2aab3e1deb45864f68c8.mp4",
-            "length": "0",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://cgbox.jp/wp-content/uploads/2024/08/hero.jpg"
-        },
-        {
-          "id": "https://cgbox.jp/?p=58691",
-          "author": "UEDA",
-          "description": "こんばんは！ 今回はアドオンの「Autodepth Ai」を紹介します。 こちらのリンクから購入することができます。 Autodepth Ai 「Autodepth Ai」は、画像から正確な深度マップを自動的に生成するこ […]",
-          "link": "https://cgbox.jp/2024/08/13/news-addon-autodepth-ai/",
-          "publishedOn": "2024-08-13T10:00:00.000Z",
-          "wordCount": 2053,
-          "title": "【アドオン紹介】Autodepth Ai – AI技術で画像から奥行きのある背景を生成！",
-          "enclosure": {
-            "url": "https://cgbox.jp/wp-content/uploads/2024/08/143382a94032f4ecf1e89e70a843d8d5.mp4",
-            "length": "0",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://cgbox.jp/wp-content/uploads/2024/08/thumbnail.jpg"
         }
       ]
     },
@@ -817,6 +787,51 @@
       "feedUrl": "https://3dnchu.com/feed/",
       "siteUrl": "https://3dnchu.com",
       "articles": [
+        {
+          "id": "https://3dnchu.com/?p=1044247",
+          "author": "Ymt3D -3dnchu-",
+          "description": "MAXONの3Dコンピュータアニメーション、モデリング、シミュレーション、レンダリングソフトウェア「CINEMA 4D 2025」がリリースされました！！",
+          "link": "https://3dnchu.com/archives/cinema-4d-2025/",
+          "publishedOn": "2024-09-11T20:29:49.000Z",
+          "wordCount": 8682,
+          "title": "Cinema 4D 2025 - Redshift GPUを使用可能！シミュレーション関連の強化などなど！",
+          "enclosure": {
+            "url": "https://3dnchu.com/wp-content/uploads/cinema-4d-2025-redshift-gpu.jpg",
+            "length": "104557",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://3dnchu.com/wp-content/uploads/cinema-4d-2025-redshift-gpu.jpg"
+        },
+        {
+          "id": "https://3dnchu.com/?p=1044233",
+          "author": "Ymt3D -3dnchu-",
+          "description": "my2m氏による、Blenderの学習コース「Blenderによる『千里江山図』の中国風 3Dシーン制作全ポロセス」がCG＆デジタルアート学習オンラインプラットフォーム「WINGFOX」にて取り扱い開始されています。",
+          "link": "https://3dnchu.com/archives/my2m-blender-stylized-art-scene/",
+          "publishedOn": "2024-09-11T19:25:57.000Z",
+          "wordCount": 8641,
+          "title": "Blenderによる『千里江山図』の中国風 3Dシーン制作全プロセス - 中国浮世絵風シーンをBlenderで作る制作紹介コース！「WINGFOX」にて取り扱い開始！",
+          "enclosure": {
+            "url": "https://3dnchu.com/wp-content/uploads/blender-3d.jpg",
+            "length": "57545",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://3dnchu.com/wp-content/uploads/blender-3d.jpg"
+        },
+        {
+          "id": "https://3dnchu.com/?p=1044227",
+          "author": "Ymt3D -3dnchu-",
+          "description": "KIRI Innovationsによる、iOS＆Android＆ウェブブラウザから利用可能なクラウドベースの3Dスキャンサービス『KIRI Engine』のv3.10がリリースされました！",
+          "link": "https://3dnchu.com/archives/kiri-engine-3-10/",
+          "publishedOn": "2024-09-11T19:11:20.000Z",
+          "wordCount": 8753,
+          "title": "KIRI Engine 3.10 - iOS＆Android＆ウェブブラウザから利用可能なクラウドベースの3Dスキャンサービス！最新アップデートで8Kやテクスチャスムージングに対応！",
+          "enclosure": {
+            "url": "https://3dnchu.com/wp-content/uploads/kiri-engine-3-10-iosandroid.jpg",
+            "length": "48721",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://3dnchu.com/wp-content/uploads/kiri-engine-3-10-iosandroid.jpg"
+        },
         {
           "id": "https://3dnchu.com/?p=1043651",
           "author": "Ymt3D -3dnchu-",
@@ -2293,26 +2308,6 @@
           "wordCount": 740,
           "title": "第14回：DCCツールと3Dアセット最適化のヒント - 連載",
           "imageUrl": "https://cgworld.jp/regular/assets_c/2024/08/avp_14-thumb-1920x1080-57959.jpg"
-        },
-        {
-          "id": "https://cgworld.jp/regular/oneplanet20248ar-1.html",
-          "author": null,
-          "description": "",
-          "link": "https://cgworld.jp/regular/oneplanet20248ar-1.html",
-          "publishedOn": "2024-08-13T10:59:00.000Z",
-          "wordCount": 698,
-          "title": "OnePlanetがお届けする、2024年8月のAR最新ニュース！ - 連載",
-          "imageUrl": "https://cgworld.jp/regular/assets_c/2024/08/065ed6d9956863defcec83fd611d0d5952cf02fc-thumb-1920x1080-57955.jpg"
-        },
-        {
-          "id": "https://cgworld.jp/article/202408-ff7reb-01.html",
-          "author": null,
-          "description": "『FINAL FANTASY VII REBIRTH』のメイキングを全5回に分けて紹介。",
-          "link": "https://cgworld.jp/article/202408-ff7reb-01.html",
-          "publishedOn": "2024-08-13T01:44:00.000Z",
-          "wordCount": 704,
-          "title": "プラットフォームと描画設計の刷新で画面密度を向上した『FINAL FANTASY VII REBIRTH』（1）開発方針編 - 特集",
-          "imageUrl": "https://cgworld.jp/article/assets_c/2024/08/faca983b9f74135ff990a185bd9c87b775c1eeb2-thumb-1000x563-57506.jpg"
         }
       ]
     },
@@ -2684,26 +2679,6 @@
           "wordCount": 3480,
           "title": "Light Studio37種類のスタジオで使用されているリアルなHDRライトでプロダクト商品がライティングしやすくなるBlender用アドオン",
           "imageUrl": "https://modelinghappy.com/wp-content/uploads/2024/08/20240814_Light_studio_01.jpg"
-        },
-        {
-          "id": "https://modelinghappy.com/?p=58871",
-          "author": "modelinghappy",
-          "description": "Autodepth Ai Autodepth AiはBlenderで１枚の静止画像から自動的にAIを使用して奥行きのある深度マップを作成してディスプレイスメントマップとして数値入力してモデルを作成出来るアドオンです。 ア\nThe post Autodepth Ai 1枚の画像から奥行きのある深度マップを作成してモデルの奥行きを調整出来るBlender用アドオン first appeared on 3DCG最新情報サイト MODELING HAPPY.",
-          "link": "https://modelinghappy.com/archives/58871",
-          "publishedOn": "2024-08-13T12:19:36.000Z",
-          "wordCount": 3475,
-          "title": "Autodepth Ai 1枚の画像から奥行きのある深度マップを作成してモデルの奥行きを調整出来るBlender用アドオン",
-          "imageUrl": "https://modelinghappy.com/wp-content/uploads/2024/08/20240813_Autodepth_Ai_00.jpg"
-        },
-        {
-          "id": "https://modelinghappy.com/?p=58857",
-          "author": "modelinghappy",
-          "description": "Creating Photorealistic School Corridor in Blender: Modeling, Animation, and Rendering with Cycles 世界中のチュートリアル\nThe post １枚の建物の廊下の写真と全く同じようにフォトリアルなシーンをBlenderで作成するチュートリアル動画がWingfoxで販売開始！ first appeared on 3DCG最新情報サイト MODELING HAPPY.",
-          "link": "https://modelinghappy.com/archives/58857",
-          "publishedOn": "2024-08-13T09:28:48.000Z",
-          "wordCount": 3473,
-          "title": "１枚の建物の廊下の写真と全く同じようにフォトリアルなシーンをBlenderで作成するチュートリアル動画がWingfoxで販売開始！",
-          "imageUrl": "https://modelinghappy.com/wp-content/uploads/2024/08/20240813_wingfox_00.jpg"
         }
       ]
     },
@@ -2991,16 +2966,6 @@
           "wordCount": 549,
           "title": "海王類、将軍、トロール..。Goodbye Kansas の VFXリール 2024",
           "imageUrl": "https://3dtotal.jp/wp-content/uploads/2024/08/gkansas_reel24q3.jpg"
-        },
-        {
-          "id": "https://3dtotal.jp/?p=47551",
-          "author": "3dtotal管理人T",
-          "description": "はじめに 書籍『The Artist's Guide to the Anatomy of Human Head』の著者の一人であり、アーティストの Sylwia Bomba（シルヴィア・ボンバ）が、小さなディテールで、キ […]\nThe post 感情の描き方 - 小さなディテール で 生き生きと - first appeared on 3dtotal 日本語オフィシャルサイト.",
-          "link": "https://3dtotal.jp/tutorials/47551/",
-          "publishedOn": "2024-08-13T09:38:06.000Z",
-          "wordCount": 584,
-          "title": "感情の描き方 – 小さなディテール で 生き生きと –",
-          "imageUrl": "https://3dtotal.jp/wp-content/uploads/2024/08/t345_t.jpg"
         }
       ]
     }

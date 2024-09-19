@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-19T08:13:23.077Z</updated>
+    <updated>2024-09-19T12:16:40.489Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【アドオン紹介】Decal Creator Pro – メッシュからデカールを制作！]]></title>
+        <id>https://cgbox.jp/?p=59727</id>
+        <link href="https://cgbox.jp/2024/09/19/news-addon-decal-creator-pro/"/>
+        <updated>2024-09-19T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは！ 今回はアドオンの「Decal Creator Pro – One-Click Decals & Normal Stamps From Mesh」を紹介します。 こちらのリンクから購入する […]]]></summary>
+        <author>
+            <name>UEDA</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Time Ghost - Unite 2024基調講演に合わせて「Unity 6」の技術を駆使して制作された最新リアルタイムシネマティックデモが公開！]]></title>
+        <id>https://3dnchu.com/?p=1044459</id>
+        <link href="https://3dnchu.com/archives/time-ghost-unite-2024/"/>
+        <updated>2024-09-19T10:57:10.000Z</updated>
+        <summary type="html"><![CDATA[2024年9月18日から9月20日までの3日間、スペインのバルセロナで開催される「Unite 2024」の基調講演に合わせて、Unity6で制作された最新テクノロジーデモ映像「Time Ghost」が公開されました！]]></summary>
+        <author>
+            <name>Ymt3D -3dnchu-</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【アセット紹介】The Artist’s Essentials – ペイントブラシの50種セット！]]></title>
+        <id>https://cgbox.jp/?p=59717</id>
+        <link href="https://cgbox.jp/2024/09/19/news-addon-the-artists-essentials/"/>
+        <updated>2024-09-19T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは！ 今回はアドオンの「The Artist’s Essentials – Texture Paint Brushes」を紹介します。 こちらのリンクから購入することができます。 The  […]]]></summary>
+        <author>
+            <name>UEDA</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Runway、動画生成AI「Gen-3 alpha」でVideo to Videoが利用可能に！　最大10秒、入出力動画の一貫性制御にも対応 - ニュース]]></title>
+        <id>https://cgworld.jp/flashnews/202409-Gen3AlphaVideo.html</id>
+        <link href="https://cgworld.jp/flashnews/202409-Gen3AlphaVideo.html"/>
+        <updated>2024-09-19T09:54:00.000Z</updated>
+        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[早くも シーズン2 の舞台裏が!? 実写版『ONE PIECE』シーズン2 の現場ツアー映像]]></title>
         <id>https://3dtotal.jp/?p=47908</id>
@@ -2649,47 +2689,6 @@ The post 【インタビュー】組み合わせて 新しい生き物をつく�
         <link href="https://3dnchu.com/archives/facetracker-for-blender-beta/"/>
         <updated>2024-08-21T00:30:16.000Z</updated>
         <summary type="html"><![CDATA[Blender向けにプラグインを多数公開しているKeenToolsによる、高度なフェイシャルトラッキングが可能な新アドオン「FaceTracker for Blender」のベータ版が公開されました！]]></summary>
-        <author>
-            <name>Ymt3D -3dnchu-</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Quad Maker Beta - 手動リトポロジーを便利にする多数のツールを搭載したBlenderアドオンが開発中！最新ベータ版映像が公開！テスターも募集中！]]></title>
-        <id>https://3dnchu.com/?p=1043552</id>
-        <link href="https://3dnchu.com/archives/quad-maker-beta/"/>
-        <updated>2024-08-21T00:08:59.000Z</updated>
-        <summary type="html"><![CDATA[数多くのBlenderアドオンを開発・販売中のConfigurate（Mark Kingsnorth氏）氏による、新作アドオン「Quad Maker」の最新ベータ版映像が公開されています！]]></summary>
-        <author>
-            <name>Ymt3D -3dnchu-</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FaceTracker for Blender マーキングなしの人物の映像に3Dモデルの顔を合わせてトラッキング出来るアドオンのオープンベーター版が公開]]></title>
-        <id>https://modelinghappy.com/?p=59027</id>
-        <link href="https://modelinghappy.com/archives/59027"/>
-        <updated>2024-08-20T23:42:56.000Z</updated>
-        <summary type="html"><![CDATA[FaceTracker for Blender 1ボタンで写真から顔にメッシュを配置出来るアドオン等を開発しているKeen ToolsからBlenderで用意した映像に映る人物の顔をトラッキングしてビデオと一致する顔の3
-The post FaceTracker for Blender マーキングなしの人物の映像に3Dモデルの顔を合わせてトラッキング出来るアドオンのオープンベーター版が公開 first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
-        <author>
-            <name>modelinghappy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[One Click Rig V1 - Mixamoベースのキャラクターにワンクリックでリグを追加できるUnreal Engine 5向けコントロールリグアセットプラグイン！無料公開！]]></title>
-        <id>https://3dnchu.com/?p=1043545</id>
-        <link href="https://3dnchu.com/archives/one-click-rig-v1-mixamo-ue5/"/>
-        <updated>2024-08-20T23:32:39.000Z</updated>
-        <summary type="html"><![CDATA[VFXアーティストのJosh Toonen氏による、Unreal For VFXのサイトにてMixamoベースのキャラクターにワンクリックでリグを追加できるコントロールリグアセットプラグイン「One Click Rig V1」が無料公開されています。]]></summary>
-        <author>
-            <name>Ymt3D -3dnchu-</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Xencelabs Pen Display 16 Essentials Review - センスラボの有機EL搭載の15.6インチ4K液晶ペンタブレットレビュー！]]></title>
-        <id>https://3dnchu.com/?p=1043530</id>
-        <link href="https://3dnchu.com/archives/xencelabs-pen-display-16-essentials-review/"/>
-        <updated>2024-08-20T22:58:31.000Z</updated>
-        <summary type="html"><![CDATA[Xencelabs（センスラボ）様より有機EL搭載の15.6インチ4K液晶ペンタブレット「Xencelabs Pen Display 16 Essentials」をご提供いただきましたのでレビューいたします！]]></summary>
         <author>
             <name>Ymt3D -3dnchu-</name>
         </author>

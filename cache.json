@@ -720,21 +720,6 @@
             "type": "video/mp4"
           },
           "imageUrl": "https://cgbox.jp/wp-content/uploads/2024/09/image_processing20240901-2-biu6gs.jpg"
-        },
-        {
-          "id": "https://cgbox.jp/?p=59277",
-          "author": "UEDA",
-          "description": "こんばんは！ 今回は”PIXXO 3D”さんの動画を紹介します。 Blender 4.2 | Shape Keys For Beginners – Powerful Tutorial 「Blender 4.2 […]",
-          "link": "https://cgbox.jp/2024/09/03/news-tutorial-blender-4-2-shape-keys-for-beginners-powerful-tutorial/",
-          "publishedOn": "2024-09-03T11:00:00.000Z",
-          "wordCount": 2042,
-          "title": "【チュートリアル紹介】Blender 4.2でシェイプキーの基礎を学ぼう！",
-          "enclosure": {
-            "url": "https://cgbox.jp/wp-content/uploads/2024/08/9d3724a9c2bc28773a25b816724cfdbf.mp4",
-            "length": "0",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://cgbox.jp/wp-content/uploads/2024/08/maxresdefault-5.jpg"
         }
       ]
     },
@@ -749,6 +734,16 @@
       "feedUrl": "https://tech-art.online/feed/",
       "siteUrl": "https://tech-art.online",
       "articles": [
+        {
+          "id": "https://tech-art.online/?p=1828",
+          "author": "管理人",
+          "description": "Unreal Engine の機能紹介です。\nPost Process Anim BlueprintとControlRigで補助骨を実装 first appeared on TECH ART ONLINE.",
+          "link": "https://tech-art.online/ue-post-animbp/?utm_source=rss&utm_medium=rss&utm_campaign=ue-post-animbp",
+          "publishedOn": "2024-10-02T23:31:27.000Z",
+          "wordCount": 14522,
+          "title": "Post Process Anim BlueprintとControlRigで補助骨を実装",
+          "imageUrl": "https://tech-art.online/wordpress/wp-content/uploads/2024/10/20241003_082909_resize-485x300.jpg"
+        },
         {
           "id": "https://tech-art.online/?p=1821",
           "author": "管理人",
@@ -778,16 +773,6 @@
           "wordCount": 14512,
           "title": "Custom Depth Stencil Valueで複数ポストプロセスを使い分ける",
           "imageUrl": "https://tech-art.online/wordpress/wp-content/uploads/2024/09/20240902_175759_resize-485x300.jpg"
-        },
-        {
-          "id": "https://tech-art.online/?p=1804",
-          "author": "管理人",
-          "description": "Unreal Engineでマテリアルを作成する際、 複雑なノードネットワークに悩まされることはありませんか？マテリアルレイヤーでノードのモジュール化を活用することで、ルックデブの効率を大幅に向上させることができます。\nマテリアルレイヤーで描画表現・合成方法をモジュール化しよう！ first appeared on TECH ART ONLINE.",
-          "link": "https://tech-art.online/ue5-material-layer/?utm_source=rss&utm_medium=rss&utm_campaign=ue5-material-layer",
-          "publishedOn": "2024-09-03T04:56:02.000Z",
-          "wordCount": 14479,
-          "title": "マテリアルレイヤーで描画表現・合成方法をモジュール化しよう！",
-          "imageUrl": "https://tech-art.online/wordpress/wp-content/uploads/2024/09/20240903_134856-485x300.jpg"
         }
       ]
     },
@@ -802,6 +787,51 @@
       "feedUrl": "https://3dnchu.com/feed/",
       "siteUrl": "https://3dnchu.com",
       "articles": [
+        {
+          "id": "https://3dnchu.com/?p=1044822",
+          "author": "Ymt3D -3dnchu-",
+          "description": "not_that_NDAによる膨大なシーン内のオブジェクトをブックマーク登録しいつでもアクセスしやすくするBlenderアドオン「Outliner Bookmarks」がリリースされました！",
+          "link": "https://3dnchu.com/archives/outliner-bookmarks/",
+          "publishedOn": "2024-10-02T21:03:06.000Z",
+          "wordCount": 8592,
+          "title": "Outliner Bookmarks - 膨大なシーン内のオブジェクトをカスタムUI内でブックマーク登録しアクセsづ可能にするBlenderアドオンが登場！",
+          "enclosure": {
+            "url": "https://3dnchu.com/wp-content/uploads/Outliner-Bookmarks.mp4",
+            "length": "5221357",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://3dnchu.com/wp-content/uploads/Outliner-Bookmarks-1.webp"
+        },
+        {
+          "id": "https://3dnchu.com/?p=1044781",
+          "author": "Ymt3D -3dnchu-",
+          "description": "2024年10月1日、シリコンスタジオが高品質なレンズ効果を表現できるUnreal Engine向けプラグイン『YEBIS Biz（エビス ビズ）』の提供を開始しました！",
+          "link": "https://3dnchu.com/archives/yebis-biz/",
+          "publishedOn": "2024-10-02T20:04:49.000Z",
+          "wordCount": 8749,
+          "title": "YEBIS Biz - シリコンスタジオが高品質なレンズ効果を実現するUnreal Engine 5向けプラグインの提供を開始！",
+          "enclosure": {
+            "url": "https://3dnchu.com/wp-content/uploads/YEBIS-Biz.webp",
+            "length": "1491636",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://3dnchu.com/wp-content/uploads/YEBIS-Biz.webp"
+        },
+        {
+          "id": "https://3dnchu.com/?p=1044779",
+          "author": "Ymt3D -3dnchu-",
+          "description": "分割式メカニカルキーボードと特殊な4種の入力モジュールでクリエイターの入力を支援する新デバイス「Naya Create（ナヤクリエイト）」が日本上陸とのことで、現在「Kibidango（きびだんご）」さんのサイトでクラウドファンディングを実施中です！",
+          "link": "https://3dnchu.com/archives/naya-create/",
+          "publishedOn": "2024-10-02T19:27:23.000Z",
+          "wordCount": 8884,
+          "title": "Naya Create - 分割式メカニカルキーボードと特殊な4種の入力モジュールでクリエイターの入力を支援する新デバイス！日本上陸！Kibidangoにてクラウドファンディング実施中！",
+          "enclosure": {
+            "url": "https://3dnchu.com/wp-content/uploads/Naya-Create.webp",
+            "length": "1146584",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://3dnchu.com/wp-content/uploads/Naya-Create.webp"
+        },
         {
           "id": "https://3dnchu.com/?p=1044758",
           "author": "Ymt3D -3dnchu-",
@@ -1461,51 +1491,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "https://3dnchu.com/wp-content/uploads/Metasequoia-4-Ver4.9.0.gif"
-        },
-        {
-          "id": "https://3dnchu.com/?p=1043989",
-          "author": "Ymt3D -3dnchu-",
-          "description": "オレンジ（@orange_3134）氏が物理挙動のボールが音を奏でる動画コンテンツ（通称：マーブルミュージック）の制作を補助するBlenderアドオン「Marble Music Creator」をGithub上で無料公開しました！",
-          "link": "https://3dnchu.com/archives/marble-music-creator/",
-          "publishedOn": "2024-09-03T12:13:20.000Z",
-          "wordCount": 8605,
-          "title": "Marble Music Creator - 物理挙動のボールが音を奏でる動画コンテンツ（通称：マーブルミュージック）の制作を補助するBlenderアドオンが無料公開！",
-          "enclosure": {
-            "url": "https://3dnchu.com/wp-content/uploads/Marble-Music-Creator-web.mp4",
-            "length": "3500572",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://3dnchu.com/wp-content/uploads/Marble-Music-Creator-web.webp"
-        },
-        {
-          "id": "https://3dnchu.com/?p=1043975",
-          "author": "Ymt3D -3dnchu-",
-          "description": "OxicidによるUV編集のためのBlenderアドオン「UniV」がリリースされました！オープンソースで無料入手可能です！",
-          "link": "https://3dnchu.com/archives/univ-v1-2/",
-          "publishedOn": "2024-09-03T05:56:16.000Z",
-          "wordCount": 8846,
-          "title": "UniV v1.2 - シンプルかつ便利なUV編集ツールを多数搭載したオープンソースBlenderアドオン！無料入手可能！",
-          "enclosure": {
-            "url": "https://3dnchu.com/wp-content/uploads/univ-v1-2.mp4",
-            "length": "1498559",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://3dnchu.com/wp-content/uploads/univ-v1-2.gif"
-        },
-        {
-          "id": "https://3dnchu.com/?p=1043956",
-          "author": "Ymt3D -3dnchu-",
-          "description": "Hubber StudiosがBlenderのビューポート用CavityシェーダーをUnreal Engine 5向けにポストプロセスHLSLシェーダーとして実装したプラグイン「Cavity Blender Post Pcoress」がリリースされました！",
-          "link": "https://3dnchu.com/archives/cavity-blender-post-process/",
-          "publishedOn": "2024-09-03T04:42:19.000Z",
-          "wordCount": 8782,
-          "title": "Cavity Blender Post Process - Blenderのビューポート用キャビティシェーダーをUnreal Engine 5のポストプロセス上で再現したHLSLシェーダープラグイン！",
-          "enclosure": {
-            "url": "https://3dnchu.com/wp-content/uploads/Cavity-Blender-Post-Process-small.gif",
-            "length": "145819",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://3dnchu.com/wp-content/uploads/Cavity-Blender-Post-Process-small.gif"
         }
       ]
     },
@@ -2343,26 +2328,6 @@
           "wordCount": 785,
           "title": "Houdini 20.5 新機能紹介 No.3：SOP関連と、そのほかのアップデート - 特集",
           "imageUrl": "https://cgworld.jp/article/assets_c/2024/08/202409_houdini205_d2-thumb-1500x653-58244.jpg"
-        },
-        {
-          "id": "https://cgworld.jp/flashnews/9132024cg.html",
-          "author": null,
-          "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
-          "link": "https://cgworld.jp/flashnews/9132024cg.html",
-          "publishedOn": "2024-09-03T02:05:22.000Z",
-          "wordCount": 664,
-          "title": "【9/13（金）オンライン説明会開催】学生向けショーケース&コンテスト「ゲームクリエイター甲子園2024」 - ニュース",
-          "imageUrl": "https://cgworld.jp/flashnews/assets_c/2024/09/fd4ac2b17d907ba05fdca472e77839e3-thumb-603x339-58863.png"
-        },
-        {
-          "id": "https://cgworld.jp/article/202409-houdini205-2.html",
-          "author": null,
-          "description": "※本記事は月刊 『CGWORLD + digital video』vol.31...",
-          "link": "https://cgworld.jp/article/202409-houdini205-2.html",
-          "publishedOn": "2024-09-03T01:30:00.000Z",
-          "wordCount": 790,
-          "title": "Houdini 20.5 新機能紹介 No.2：シミュレーション、群衆、APEX関連のアップデート - 特集",
-          "imageUrl": "https://cgworld.jp/article/assets_c/2024/08/202409_houdini205_c4-thumb-1500x728-58243.jpg"
         }
       ]
     },
@@ -3092,16 +3057,6 @@
           "wordCount": 511,
           "title": "この世界は、ただの舞台。ホアキン・フェニックス主演、映画『ジョーカー：フォリ・ア・ドゥ』のトレーラー（英語／日本語）",
           "imageUrl": "https://3dtotal.jp/wp-content/uploads/2024/07/jokerfad_tokuho.jpg"
-        },
-        {
-          "id": "https://3dtotal.jp/?p=47730",
-          "author": "3dtotal管理人T",
-          "description": "Q. 自己紹介をお願いします こんにちは、Dmitry Kremiansky です。スコットランドのグラスゴーで シニア・エンバイロメント アーティストをしています。これまで携わった作品には『マジック・ザ・ギャザリング』 […]\nThe post 【インタビュー】ゲームからドラマまで幅広く：エンバイロメント アーティスト Dmitry Kremiansky 氏 first appeared on 3dtotal 日本語オフィシャルサイト.",
-          "link": "https://3dtotal.jp/features/47730/",
-          "publishedOn": "2024-09-03T08:29:49.000Z",
-          "wordCount": 652,
-          "title": "【インタビュー】ゲームからドラマまで幅広く：エンバイロメント アーティスト Dmitry Kremiansky 氏",
-          "imageUrl": "https://3dtotal.jp/wp-content/uploads/2024/09/i105_t.jpg"
         }
       ]
     }

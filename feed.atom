@@ -2,10 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-30T12:18:16.963Z</updated>
+    <updated>2024-10-31T00:45:32.255Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Announced .SPZ - 高速読み込み＆低消費メモリ！3D Gaussian Splatting用に作成されたオープンソースの新ファイル形式「.SPZ」が発表！3DGSのJPG的な立ち位置を目指す！]]></title>
+        <id>https://3dnchu.com/?p=1045354</id>
+        <link href="https://3dnchu.com/archives/announced-spz-3dgs/"/>
+        <updated>2024-10-30T15:32:23.000Z</updated>
+        <summary type="html"><![CDATA[ここ最近主流にになりつつある3D Gaussian Splatting（3DGS）を扱う形式として新たなオープンソースフォーマット「.SPZ」が発表されました！]]></summary>
+        <author>
+            <name>Ymt3D -3dnchu-</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PixladGrid Blenderでモデルについてるテクスチャを１クリックでピクセル化出来るアドオン]]></title>
+        <id>https://modelinghappy.com/?p=59914</id>
+        <link href="https://modelinghappy.com/archives/59914"/>
+        <updated>2024-10-30T13:55:29.000Z</updated>
+        <summary type="html"><![CDATA[PixladGrid -Blender#x1f538; Convert texture in to Pixel Art PixladGridはDevBudさんが作成した、Blenderでモデルに適用しているテクスチャを
+The post PixladGrid Blenderでモデルについてるテクスチャを１クリックでピクセル化出来るアドオン first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
+        <author>
+            <name>modelinghappy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tiling Painterly Textures Vol. 1 4種類+カラー4種類で合計8種類の手書き風テクスチャがセットになった無料データ]]></title>
+        <id>https://modelinghappy.com/?p=59906</id>
+        <link href="https://modelinghappy.com/archives/59906"/>
+        <updated>2024-10-30T13:44:32.000Z</updated>
+        <summary type="html"><![CDATA[Tiling Painterly Textures Vol. 1 Tiling Painterly TexturesはJake Benbowさんが作成した、4種類+カラーのついてる合計8種類の手書き風のテクスチャセットデ
+The post Tiling Painterly Textures Vol. 1 4種類+カラー4種類で合計8種類の手書き風テクスチャがセットになった無料データ first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
+        <author>
+            <name>modelinghappy</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【アドオン紹介】Floor Blend – オブジェクトと地面のマテリアルを自然にブレンド！]]></title>
         <id>https://cgbox.jp/?p=60390</id>
@@ -2475,101 +2507,6 @@ The post Unreal Engine5.5 Previewがリリース 大量のライトを設置出�
         <summary type="html"><![CDATA[2024年9月30日～10月3日にシアトルで開催中の「Unreal Fest Seattle 2024」講演に合わせて『Unreal Engine 5.5 Preview』がリリースされました！]]></summary>
         <author>
             <name>Ymt3D -3dnchu-</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【アセット紹介】Free Realtime Fx Bundle V1 – Omega Particle Fx から無料で7種抜粋！]]></title>
-        <id>https://cgbox.jp/?p=59902</id>
-        <link href="https://cgbox.jp/2024/10/01/news-asset-free-realtime-fx-bundle-v1/"/>
-        <updated>2024-10-01T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは！ 今回は「Free Realtime Fx Bundle V1」を紹介します。 Free Realtime Fx Bundle V1 「Free Realtime Fx Bundle V1」は、パーティクルエ […]]]></summary>
-        <author>
-            <name>UEDA</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【アセット紹介】Free Trim Sheet – SFシーンに詳細を簡単追加！]]></title>
-        <id>https://cgbox.jp/?p=59893</id>
-        <link href="https://cgbox.jp/2024/10/01/news-asset-free-trim-sheet/"/>
-        <updated>2024-10-01T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは！ 今回は「Free Trim Sheet」を紹介します。 Free Trim Sheet 「Free Trim Sheet」は、詳細の追加に便利なトリムシートになります。 オブジェクトに適用することで、簡単に […]]]></summary>
-        <author>
-            <name>UEDA</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mirror Copy モデルのエッジを軸に素早くモデルをミラーコピー出来るBlender用無料アドオン]]></title>
-        <id>https://modelinghappy.com/?p=59523</id>
-        <link href="https://modelinghappy.com/archives/59523"/>
-        <updated>2024-10-01T09:31:15.000Z</updated>
-        <summary type="html"><![CDATA[Mirror Copy Blenderで便利なアドオンを多数作成しているKushiroさんが、Mirro Copyをリリースしました。 ミラーコピーは、選択したメッシュを指定した「軸」でコピーするためのシンプルなアドオン
-The post Mirror Copy モデルのエッジを軸に素早くモデルをミラーコピー出来るBlender用無料アドオン first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
-        <author>
-            <name>modelinghappy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【インタビュー】ただ純粋に楽しむ：アートディレクター／キャラクターアーティスト Sam King 氏]]></title>
-        <id>https://3dtotal.jp/?p=48042</id>
-        <link href="https://3dtotal.jp/features/48042/"/>
-        <updated>2024-10-01T08:30:16.000Z</updated>
-        <summary type="html"><![CDATA[Q. 自己紹介をお願いします こんにちは! 私はキャラクターアーティスト／アートディレクターであり、コレクタブルスカルプターとしても活動しています。日中はケープタウンを拠点とするゲーム会社 Balisti Studios […]
-The post 【インタビュー】ただ純粋に楽しむ：アートディレクター／キャラクターアーティスト Sam King 氏 first appeared on 3dtotal 日本語オフィシャルサイト.]]></summary>
-        <author>
-            <name>3dtotal管理人T</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[王騎 vs 龐煖の一騎打ちも！ 映画『キングダム 大将軍の帰還』VFXメイキング映像]]></title>
-        <id>https://3dtotal.jp/?p=48024</id>
-        <link href="https://3dtotal.jp/news/48024/"/>
-        <updated>2024-10-01T07:19:21.000Z</updated>
-        <summary type="html"><![CDATA[★映画『キングダム 大将軍の帰還』VFXメイキング（2分52秒/ 制作：Spade&Co.） 忘れられない戦いが始まるー。シリーズ史上No.1ヒットを更新中の映画『キングダム 大将軍の帰還』。VFXメイキングを大公開！！ […]
-The post 王騎 vs 龐煖の一騎打ちも！ 映画『キングダム 大将軍の帰還』VFXメイキング映像 first appeared on 3dtotal 日本語オフィシャルサイト.]]></summary>
-        <author>
-            <name>3dtotal管理人T</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Blenderをこれから始めるユーザーにお勧めのPCとは？ese-clubが「iiyama SENSE∞」の新モデルを徹底チェック - スペシャルコンテンツ]]></title>
-        <id>https://cgworld.jp/special-feature/2409-ese-club.html</id>
-        <link href="https://cgworld.jp/special-feature/2409-ese-club.html"/>
-        <updated>2024-10-01T06:32:22.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ジョン・ウィック 10周年 ＆ スピンオフ映画『Ballerina』のトレーラー]]></title>
-        <id>https://3dtotal.jp/?p=48015</id>
-        <link href="https://3dtotal.jp/news/48015/"/>
-        <updated>2024-10-01T05:41:14.000Z</updated>
-        <summary type="html"><![CDATA[★John Wick 10th Anniversary (2024) Official Trailer（1分2秒） ジョン・ウィックは帰ってきたのか? この象徴的なアクション・フランチャイズの革命的な第1作『ジョン・ウィ […]
-The post ジョン・ウィック 10周年 ＆ スピンオフ映画『Ballerina』のトレーラー first appeared on 3dtotal 日本語オフィシャルサイト.]]></summary>
-        <author>
-            <name>3dtotal管理人T</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[伝説の名作のその後。映画『グラディエーターII 英雄を呼ぶ声』のトレーラー（英語／日本語）]]></title>
-        <id>https://3dtotal.jp/?p=47182</id>
-        <link href="https://3dtotal.jp/news/47182/"/>
-        <updated>2024-10-01T05:23:04.000Z</updated>
-        <summary type="html"><![CDATA[★Gladiator II | New Trailer (2024 Movie) （2分32秒） ★映画『グラディエーターII 英雄を呼ぶ声』海外版本予告（2分25秒） ★Gladiator II | Official  […]
-The post 伝説の名作のその後。映画『グラディエーターII 英雄を呼ぶ声』のトレーラー（英語／日本語） first appeared on 3dtotal 日本語オフィシャルサイト.]]></summary>
-        <author>
-            <name>3dtotal管理人T</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「日本に居てもできることはたくさん、まず行動してみると良いと思います」投稿動画・SNSがきっかけで、日本にいながらドイツから就業オファーが！ 第100回：小林健太（Senior VFX Artist） - 連載]]></title>
-        <id>https://cgworld.jp/regular/100-kobayashi.html</id>
-        <link href="https://cgworld.jp/regular/100-kobayashi.html"/>
-        <updated>2024-10-01T01:30:00.000Z</updated>
-        <summary type="html"><![CDATA[日本からドイツ、現在はオランダで働く小林健太氏の海外就業ストーリー。]]></summary>
-        <author>
-            <name>CGWORLD</name>
         </author>
     </entry>
 </feed>

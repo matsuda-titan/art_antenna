@@ -548,6 +548,21 @@
       "siteUrl": "https://3dnchu.com",
       "articles": [
         {
+          "id": "https://3dnchu.com/?p=1045464",
+          "author": "Ymt3D -3dnchu-",
+          "description": "コンセプトアーティストのAnton Tenitsky氏による、3D Coatを使用したSFスケッチ解説「Scaling Sci-Fi - 3D Sketching from Jets to Motherships」がCG＆デジタルアート学習オンラインプラットフォーム「WINGFOX」にて取り扱い開始されています。",
+          "link": "https://3dnchu.com/archives/scaling-sci-anton-tenitsky-wingfox/",
+          "publishedOn": "2024-11-09T16:23:14.000Z",
+          "wordCount": 8647,
+          "title": "Scaling Sci-Fi - 3D Sketching from Jets to Motherships - 3DCoatとBlenderを活用したSF宇宙船制作解説コース！「WINGFOX」にて取り扱い開始！",
+          "enclosure": {
+            "url": "https://3dnchu.com/wp-content/uploads/scaling-sci-fi-3d-sketching-from.jpg",
+            "length": "149990",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://3dnchu.com/wp-content/uploads/scaling-sci-fi-3d-sketching-from.jpg"
+        },
+        {
           "id": "https://3dnchu.com/?p=1045445",
           "author": "Ymt3D -3dnchu-",
           "description": "Blenderで3Dビジュアライゼーションなどを手掛けるŠime Bugarija氏による、Blenderを使用したシネマティックシーン制作解説「Cinematic Workflow with Dark Alley Scene in Blender」がCG＆デジタルアート学習オンラインプラットフォーム「WINGFOX」にて取り扱い開始されています。",
@@ -966,21 +981,6 @@
             "type": "video/mp4"
           },
           "imageUrl": "https://3dnchu.com/wp-content/uploads/Mio3-UV-Sns.webp"
-        },
-        {
-          "id": "https://3dnchu.com/?p=1045050",
-          "author": "Ymt3D -3dnchu-",
-          "description": "ベータ期間を終え「Marmoset Toolbag 5」が正式リリースされたようです。リアルタイムビジュアライズ＆ルックデベロップメント＆テクスチャペイント＆ベイキングツールの最新メジャーアップデートです。",
-          "link": "https://3dnchu.com/archives/marmoset-toolbag-5/",
-          "publishedOn": "2024-10-11T02:35:44.000Z",
-          "wordCount": 8643,
-          "title": "Marmoset Toolbag 5 - 正式リリース！UDIM対応！動的なベイク！ベベルシェーダーなどなど！リアルタイムビジュアライズ＆ルックデベロップメント＆テクスチャペイント＆ベイキングツールの最新メジャーアップデート！",
-          "enclosure": {
-            "url": "https://3dnchu.com/wp-content/uploads/marmoset-toolbag-5.webp",
-            "length": "1226410",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://3dnchu.com/wp-content/uploads/marmoset-toolbag-5.webp"
         }
       ]
     },
@@ -1838,56 +1838,6 @@
           "wordCount": null,
           "title": "Meta、動画生成AI「Meta Movie Gen」発表！　Text to Video、Image to Videoだけでなくサウンドの生成や動画のアレンジにも対応 - ニュース",
           "imageUrl": null
-        },
-        {
-          "id": "https://cgworld.jp/special-feature/2410-daiv-r6-tamaki-mouse.html",
-          "author": null,
-          "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
-          "link": "https://cgworld.jp/special-feature/2410-daiv-r6-tamaki-mouse.html",
-          "publishedOn": "2024-10-11T09:30:46.000Z",
-          "wordCount": 630,
-          "title": "「WHO'S NEXT？」2024 背景・プロップ部門の覇者に聞く制作のこだわり。「DAIV R6」の性能を検証！ - スペシャルコンテンツ",
-          "imageUrl": "https://cgworld.jp/special-feature/assets_c/2024/10/4065fc0111febab9b7abe2f6152933593db6f067-thumb-1000x563-60288.jpg"
-        },
-        {
-          "id": "https://cgworld.jp/flashnews/202410-Pika15.html",
-          "author": null,
-          "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
-          "link": "https://cgworld.jp/flashnews/202410-Pika15.html",
-          "publishedOn": "2024-10-11T08:38:55.000Z",
-          "wordCount": 695,
-          "title": "動画生成AI「Pika 1.5」リリース！　新機能のPikaffectsで爆発・溶解・押しつぶしなどを手軽に適用、シネマティックショットにも対応 - ニュース",
-          "imageUrl": "https://cgworld.jp/flashnews/assets_c/2024/10/Pika15-01-thumb-1280x720-60724.jpg"
-        },
-        {
-          "id": "https://cgworld.jp/flashnews/-100by-fude111.html",
-          "author": null,
-          "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
-          "link": "https://cgworld.jp/flashnews/-100by-fude111.html",
-          "publishedOn": "2024-10-11T08:33:53.000Z",
-          "wordCount": 679,
-          "title": "ゴジラ-1.0、陰陽師0、あめだまの実例から学ぶ「マットペイント講座　～最新映画の実例を用いて学ぶ、マットペイント～　by Fude」が11月1日に配信 - ニュース",
-          "imageUrl": "https://cgworld.jp/flashnews/assets_c/2024/10/88_seminar_mattepaint_full%20%281%29-thumb-720x405-60741.jpg"
-        },
-        {
-          "id": "https://cgworld.jp/flashnews/202410-MetaTailor2.html",
-          "author": null,
-          "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
-          "link": "https://cgworld.jp/flashnews/202410-MetaTailor2.html",
-          "publishedOn": "2024-10-11T07:03:24.000Z",
-          "wordCount": 696,
-          "title": "3Dアバター着せ替えツール「METATAILOR 2.0」リリース！　読み込んだFBXのアバターに衣装をワンクリックで着用可能 - ニュース",
-          "imageUrl": "https://cgworld.jp/flashnews/assets_c/2024/10/MetaTailor2-01-thumb-989x522-60715.jpg"
-        },
-        {
-          "id": "https://cgworld.jp/regular/202410-hibino.html",
-          "author": null,
-          "description": "",
-          "link": "https://cgworld.jp/regular/202410-hibino.html",
-          "publishedOn": "2024-10-11T03:29:10.000Z",
-          "wordCount": 620,
-          "title": "Hibino VFX Studio（studio PX HIBINO）【バーチャルプロダクションスタジオ】 - 連載",
-          "imageUrl": "https://cgworld.jp/regular/assets_c/2024/10/hibinovfxstudio-min-thumb-1920x1080-60657.jpg"
         }
       ]
     },
@@ -2828,36 +2778,6 @@
           "wordCount": 726,
           "title": "リアルタイム レンダリング、テクスチャリング＆ベイキングツール Marmoset Toolbag 5 リリース",
           "imageUrl": "https://3dtotal.jp/wp-content/uploads/2024/10/marmoset5_release.jpg"
-        },
-        {
-          "id": "https://3dtotal.jp/?p=48150",
-          "author": "3dtotal管理人T",
-          "description": "★Making a Bouncing Curve Audiovisualizer in Blender 4.2（27分57秒） ノルウェーのアニメーションスタジオ Polyfjord 制作のチュートリアル。今日は、お好み […]\nThe post Blender 使用、MIDIの音楽に合わせて 飛び跳ねる光 のつくり方（※英語ムービー） first appeared on 3dtotal 日本語オフィシャルサイト.",
-          "link": "https://3dtotal.jp/tutorials/48150/",
-          "publishedOn": "2024-10-11T05:21:35.000Z",
-          "wordCount": 542,
-          "title": "Blender 使用、MIDIの音楽に合わせて 飛び跳ねる光 のつくり方（※英語ムービー）",
-          "imageUrl": "https://3dtotal.jp/wp-content/uploads/2024/10/blender_etrail_pfjord.jpg"
-        },
-        {
-          "id": "https://3dtotal.jp/?p=48147",
-          "author": "3dtotal管理人T",
-          "description": "★Creativity in Hyperdrive: Mastering 3D Animation with Efficiency（47分12秒） 去る5月4日、Autodesk は Droid Maker Contes […]\nThe post スター・ウォーズ風ドロイドの作成：3Dアニメーションを効率的にマスターする（※英語ムービー） first appeared on 3dtotal 日本語オフィシャルサイト.",
-          "link": "https://3dtotal.jp/tutorials/48147/",
-          "publishedOn": "2024-10-11T05:16:07.000Z",
-          "wordCount": 533,
-          "title": "スター・ウォーズ風ドロイドの作成：3Dアニメーションを効率的にマスターする（※英語ムービー）",
-          "imageUrl": "https://3dtotal.jp/wp-content/uploads/2024/10/master3danimation_cih.jpg"
-        },
-        {
-          "id": "https://3dtotal.jp/?p=45312",
-          "author": "3dtotal管理人T",
-          "description": "★「モアナと伝説の海２」日本版本予告（2分1秒） ★Moana 2 | Official Trailer（2分10秒） ★「モアナと伝説の海２」日本版特報（1分52秒） ★Moana 2 | Teaser Trailer […]\nThe post 前作での壮大な冒険から3年。ディズニー映画『モアナと伝説の海２』のトレーラー（英語／日本語） first appeared on 3dtotal 日本語オフィシャルサイト.",
-          "link": "https://3dtotal.jp/news/45312/",
-          "publishedOn": "2024-10-11T05:00:07.000Z",
-          "wordCount": 536,
-          "title": "前作での壮大な冒険から3年。ディズニー映画『モアナと伝説の海２』のトレーラー（英語／日本語）",
-          "imageUrl": "https://3dtotal.jp/wp-content/uploads/2024/10/moana2_jtrailer.jpg"
         }
       ]
     }

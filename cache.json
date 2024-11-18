@@ -470,36 +470,6 @@
             "type": "video/mp4"
           },
           "imageUrl": "https://cgbox.jp/wp-content/uploads/2024/10/image_processing20241020-2-1kgqe8.jpg"
-        },
-        {
-          "id": "https://cgbox.jp/?p=60205",
-          "author": "UEDA",
-          "description": "こんばんは！ 今回はアドオンの「Material Tags」を紹介します。 こちらのリンクから購入することができます。 Material Tags 「Material Tags」は、タグ付けしてマテリアルを管理することが […]",
-          "link": "https://cgbox.jp/2024/10/19/news-addon-material-tags/",
-          "publishedOn": "2024-10-19T11:00:00.000Z",
-          "wordCount": 2065,
-          "title": "【アドオン紹介】Material Tags – タグ付けしてマテリアルを効率よく管理！",
-          "enclosure": {
-            "url": "https://cgbox.jp/wp-content/uploads/2024/10/6-4.mp4",
-            "length": "0",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://cgbox.jp/wp-content/uploads/2024/10/image_processing20241017-2-195qsd9.jpg"
-        },
-        {
-          "id": "https://cgbox.jp/?p=60202",
-          "author": "UEDA",
-          "description": "こんばんは！ 今回はアドオンの「Animation Tags」を紹介します。 こちらのリンクから購入することができます。 Animation Tags 「Animation Tags」は、アニメーションの管理をタグによっ […]",
-          "link": "https://cgbox.jp/2024/10/19/news-addon-animation-tags/",
-          "publishedOn": "2024-10-19T10:00:00.000Z",
-          "wordCount": 2125,
-          "title": "【アドオン紹介】Animation Tags – タグ付けでアニメーションを効率よく管理！",
-          "enclosure": {
-            "url": "https://cgbox.jp/wp-content/uploads/2024/10/5-3.mp4",
-            "length": "0",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://cgbox.jp/wp-content/uploads/2024/10/image_processing20241017-2-1xdp9qv.jpg"
         }
       ]
     },
@@ -1069,6 +1039,16 @@
       "feedUrl": "https://cgworld.jp/atom.xml",
       "siteUrl": "https://cgworld.jp/",
       "articles": [
+        {
+          "id": "https://cgworld.jp/flashnews/202411-Tokyo-DigitalTwin.html",
+          "author": null,
+          "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
+          "link": "https://cgworld.jp/flashnews/202411-Tokyo-DigitalTwin.html",
+          "publishedOn": "2024-11-17T23:34:55.000Z",
+          "wordCount": 674,
+          "title": "東京都、区部の「3次元点群データ」を無償公開！　国内の公開データとしては最高精度の地表面データ・グリッドデータ・微地形表現図など7種が用途を問わず利用可能 - ニュース",
+          "imageUrl": "https://cgworld.jp/flashnews/assets_c/2024/11/Tokyo_DigitalTwin-01-thumb-1600x900-62111.jpg"
+        },
         {
           "id": "https://cgworld.jp/flashnews/2411-news-vfxcgworld.html",
           "author": null,
@@ -1943,6 +1923,16 @@
       "siteUrl": "https://modelinghappy.com",
       "articles": [
         {
+          "id": "https://modelinghappy.com/?p=60107",
+          "author": "modelinghappy",
+          "description": "texture-diffusion 以前UV付きの3DモデルにStableDiffusionで作成してテクスチャを書き出せる無料ツールSTABLE PROJECTORZを紹介しましたが、それに触発されて作られた「Text\nThe post texture-diffusion Blenderでプロンプト入力からモデルにテクスチャを作成出来る無料アドオン first appeared on 3DCG最新情報サイト MODELING HAPPY.",
+          "link": "https://modelinghappy.com/archives/60107",
+          "publishedOn": "2024-11-17T13:29:43.000Z",
+          "wordCount": 3512,
+          "title": "texture-diffusion Blenderでプロンプト入力からモデルにテクスチャを作成出来る無料アドオン",
+          "imageUrl": "https://modelinghappy.com/wp-content/uploads/2024/11/20241117_texture_diffusion.jpg"
+        },
+        {
           "id": "https://modelinghappy.com/?p=60097",
           "author": "modelinghappy",
           "description": "2D Cloud Textures Pack VFX Assetsさんが125種類の高品質なjpg画像の雲テクスチャデータを無料配布しています。 実際にダウンロードしてみると長編1024pxで72dpiの様々な形をした\nThe post 2D Cloud Textures Pack 125種類 長編1024pxのjpeg形式 雲テクスチャパックが無料配布されています first appeared on 3DCG最新情報サイト MODELING HAPPY.",
@@ -2341,56 +2331,6 @@
           "wordCount": 3468,
           "title": "Material Highlighter Blenderで選択したマテリアルがオレンジ色でハイライト表示されて、どのマテリアルか直ぐに確認調整出来る無料アドオン",
           "imageUrl": "https://modelinghappy.com/wp-content/uploads/2024/10/20241022_Material_Highlighter_01.jpg"
-        },
-        {
-          "id": "https://modelinghappy.com/?p=59730",
-          "author": "modelinghappy",
-          "description": "先日新しくリリースされた、Substance 3D Viewer(Beta)版では、テキストから３D生成機能を使用すると、入力したテキストから3D Gaussian Splattingが作成されて、その3D Gaussi\nThe post Substance 3D Viewer(Beta)版でテキスト入力から作成した3D Gaussian Splattingからリアルな画像を簡単に作成する方法 first appeared on 3DCG最新情報サイト MODELING HAPPY.",
-          "link": "https://modelinghappy.com/archives/59730",
-          "publishedOn": "2024-10-19T02:58:19.000Z",
-          "wordCount": 3506,
-          "title": "Substance 3D Viewer(Beta)版でテキスト入力から作成した3D Gaussian Splattingからリアルな画像を簡単に作成する方法",
-          "imageUrl": "https://modelinghappy.com/wp-content/uploads/2024/10/20241019_adobe_substance_3D_viewer_00.jpg"
-        },
-        {
-          "id": "https://modelinghappy.com/?p=59717",
-          "author": "modelinghappy",
-          "description": "Modifiers-Master Modifiers-MasterはBlenderでモディファイアーを選んだり、適用したり、よく使うモディファイアーだけを表示して選択しやすくしたり、クロスシミュレーションを簡単に適用した\nThe post Modifiers-Master Blenderのモディファイアーをよく使う機能だけを選びやすくしたり、ブーリアンやシミュレーションがしやすくなるアドオン first appeared on 3DCG最新情報サイト MODELING HAPPY.",
-          "link": "https://modelinghappy.com/archives/59717",
-          "publishedOn": "2024-10-19T01:44:01.000Z",
-          "wordCount": 3456,
-          "title": "Modifiers-Master Blenderのモディファイアーをよく使う機能だけを選びやすくしたり、ブーリアンやシミュレーションがしやすくなるアドオン",
-          "imageUrl": "https://modelinghappy.com/wp-content/uploads/2024/10/20241019_modifiers_master_01.jpg"
-        },
-        {
-          "id": "https://modelinghappy.com/?p=59712",
-          "author": "modelinghappy",
-          "description": "Quick Fillet (blender addon) Blenderでモデリングがはかどる便利なアドオンを多数作成しているKusiroさんが、3つの方向のエッジを選択すると自動的に面を張ってくれるアドオンQuick\nThe post Quick Fillet ３つのエッジの方向を選択する事で面を張れるBlender用無料アドオン first appeared on 3DCG最新情報サイト MODELING HAPPY.",
-          "link": "https://modelinghappy.com/archives/59712",
-          "publishedOn": "2024-10-19T01:16:39.000Z",
-          "wordCount": 3488,
-          "title": "Quick Fillet ３つのエッジの方向を選択する事で面を張れるBlender用無料アドオン",
-          "imageUrl": "https://modelinghappy.com/wp-content/uploads/2024/10/20241019_quick_filet_01.jpg"
-        },
-        {
-          "id": "https://modelinghappy.com/?p=59705",
-          "author": "modelinghappy",
-          "description": "Celebrate Our 5th Anniversary! Shop and Get a Chance to Win Free Courses! 世界中のチュートリアル動画を販売しているWIngfoxのサイトが5周年を\nThe post Wingfox5周年記念で全ての動画が30%引きになるお得なキャンペーンを開催中！ first appeared on 3DCG最新情報サイト MODELING HAPPY.",
-          "link": "https://modelinghappy.com/archives/59705",
-          "publishedOn": "2024-10-19T00:56:36.000Z",
-          "wordCount": 3504,
-          "title": "Wingfox5周年記念で全ての動画が30%引きになるお得なキャンペーンを開催中！",
-          "imageUrl": "https://modelinghappy.com/wp-content/uploads/2024/10/20241019_wingfox.jpg"
-        },
-        {
-          "id": "https://modelinghappy.com/?p=59232",
-          "author": "modelinghappy",
-          "description": "AORUS 16X ASG-63JPC65JP 今回はGIGABYTEさんより、AORUS 16X ASG-63JPC65JPをお借りしたので実機レビューさせて頂きました。CPUにはインテルのCore i9-14900H\nThe post AORUS 16X実機レビュー ゲーミング＆Blenderでのレンダリング性能を実機で徹底検証！ first appeared on 3DCG最新情報サイト MODELING HAPPY.",
-          "link": "https://modelinghappy.com/archives/59232",
-          "publishedOn": "2024-10-19T00:30:14.000Z",
-          "wordCount": 3624,
-          "title": "AORUS 16X実機レビュー ゲーミング＆Blenderでのレンダリング性能を実機で徹底検証！",
-          "imageUrl": "https://modelinghappy.com/wp-content/uploads/2024/09/20240913_GIGABYTE_AERO_17HDR_21.jpg"
         }
       ]
     },

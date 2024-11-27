@@ -12,6 +12,36 @@
       "siteUrl": "https://cgbox.jp",
       "articles": [
         {
+          "id": "https://cgbox.jp/?p=60991",
+          "author": "UEDA",
+          "description": "こんばんは！ 今回はアドオンの「Casey_Sheep Ultimate Bundle」を紹介します。 こちらのリンクから購入することができます。 Casey_Sheep Ultimate Bundle 「Casey_S […]",
+          "link": "https://cgbox.jp/2024/11/27/news-addon-casey_sheep-ultimate-bundle/",
+          "publishedOn": "2024-11-27T11:00:00.000Z",
+          "wordCount": 2073,
+          "title": "【アドオン紹介】Casey_Sheep Ultimate Bundle – 74600人以上のユーザーが購入した製品がお得なバンドルに！",
+          "enclosure": {
+            "url": "https://cgbox.jp/wp-content/uploads/2024/11/7-3.mp4",
+            "length": "0",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://cgbox.jp/wp-content/uploads/2024/11/image_processing20241124-2-12sqrkf.jpg"
+        },
+        {
+          "id": "https://cgbox.jp/?p=60942",
+          "author": "UEDA",
+          "description": "こんばんは！ 今回は「Grass Paint」を紹介します。 Grass Paint 「Grass Paint」は、アニメーション化された草のアセットライブラリになります。 11種類のプリセットが含まれます。 ペイントし […]",
+          "link": "https://cgbox.jp/2024/11/27/news-asset-grass-paint/",
+          "publishedOn": "2024-11-27T10:00:00.000Z",
+          "wordCount": 2082,
+          "title": "【アセット紹介】Grass Paint – 3Dアニメ・ゲームに最適な植物ライブラリ！",
+          "enclosure": {
+            "url": "https://cgbox.jp/wp-content/uploads/2024/11/3-4.mp4",
+            "length": "0",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://cgbox.jp/wp-content/uploads/2024/11/image_processing20241125-2-146hvpt.jpg"
+        },
+        {
           "id": "https://cgbox.jp/?p=60934",
           "author": "UEDA",
           "description": "こんばんは！ 今回はアドオンの「N-Panel Search」を紹介します。 こちらのリンクから購入することができます。 N-Panel Search 「N-Panel Search」は、N-Panel内を検索して任意の […]",
@@ -1947,16 +1977,6 @@
           "wordCount": 605,
           "title": "【チームラボのボーダレスな働き方】異なる専門領域のプロフェッショナルが交差し世界中で生み出すアート - スペシャルコンテンツ",
           "imageUrl": "https://cgworld.jp/special-feature/assets_c/2024/10/DSC0835-min-thumb-1000x667-60709.jpg"
-        },
-        {
-          "id": "https://cgworld.jp/flashnews/2410-drecom-kurihaku.html",
-          "author": null,
-          "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
-          "link": "https://cgworld.jp/flashnews/2410-drecom-kurihaku.html",
-          "publishedOn": "2024-10-28T23:13:46.000Z",
-          "wordCount": 689,
-          "title": "クリ博がドリコムとオンラインセミナーを11/29（土）に開催－企業で働くゲームプログラマーから生の体験談を聞ける！ - ニュース",
-          "imageUrl": "https://cgworld.jp/flashnews/assets_c/2024/10/20241024-thumb-1000x563-61466.jpg"
         }
       ]
     },
@@ -1998,7 +2018,18 @@
       "title": "SPARKCREATIVE Tech Blog",
       "feedUrl": "https://tech.spark-creative.co.jp/feed",
       "siteUrl": "https://tech.spark-creative.co.jp/",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://tech.spark-creative.co.jp/entry/2024/11/27/190055",
+          "author": null,
+          "description": "はじめに Commandletとは Commandletの実装 実行方法 デバッグ環境構築 おまけ 他コマンド 引数指定とパース方法について 非同期処理 おわりに はじめに こんにちは。エンジニアの佐々木です。 今回はUE5でのCommandletについて最小構成ソースコードとデバッグ環境構築、引数のパースや非同期処理などを備忘録的に書いていきます。 Commandletとは コマンドレットとは、「Unreal Engine」環境内部で実行するコマンドラインのプログラムです。コマンドレットが使用されるのは、コンテンツに大量の変更を加える場合や、情報を得るためにコンテンツをイタレートする場合、ユ…",
+          "link": "https://tech.spark-creative.co.jp/entry/2024/11/27/190055",
+          "publishedOn": "2024-11-27T10:00:55.000Z",
+          "wordCount": 535,
+          "title": "【UE5】Commandlet備忘録",
+          "imageUrl": "https://cdn.image.st-hatena.com/image/scale/07c36f451a6a87809f83dc367323e8438a120c8d/backend=imagemagick;height=1300;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fs%2Fspark-sasaki-jun%2F20210430%2F20210430184036.png"
+        }
+      ]
     },
     {
       "title": "3DCG最新情報サイト MODELING HAPPY",

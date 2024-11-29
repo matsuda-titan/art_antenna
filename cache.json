@@ -1260,21 +1260,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "https://3dnchu.com/wp-content/uploads/Fluffy-Maker-v1.0.webp"
-        },
-        {
-          "id": "https://3dnchu.com/?p=1045354",
-          "author": "Ymt3D -3dnchu-",
-          "description": "ここ最近主流にになりつつある3D Gaussian Splatting（3DGS）を扱う形式として新たなオープンソースフォーマット「.SPZ」が発表されました！",
-          "link": "https://3dnchu.com/archives/announced-spz-3dgs/",
-          "publishedOn": "2024-10-30T15:32:23.000Z",
-          "wordCount": 8674,
-          "title": "Announced .SPZ - 高速読み込み＆低消費メモリ！3D Gaussian Splatting用に作成されたオープンソースの新ファイル形式「.SPZ」が発表！3DGSのJPG的な立ち位置を目指す！",
-          "enclosure": {
-            "url": "https://3dnchu.com/wp-content/uploads/announced-spz-3dgs.webp",
-            "length": "939798",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://3dnchu.com/wp-content/uploads/announced-spz-3dgs.webp"
         }
       ]
     },
@@ -1283,6 +1268,36 @@
       "feedUrl": "https://cgworld.jp/atom.xml",
       "siteUrl": "https://cgworld.jp/",
       "articles": [
+        {
+          "id": "https://cgworld.jp/special-feature/adobe-max-2024.html",
+          "author": null,
+          "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
+          "link": "https://cgworld.jp/special-feature/adobe-max-2024.html",
+          "publishedOn": "2024-11-29T05:50:41.000Z",
+          "wordCount": 693,
+          "title": "Adobe Max 2024 実用度重視のAIトピックを厳選！ 大幅進化した各アプリケーションの新機能を総ざらい - スペシャルコンテンツ",
+          "imageUrl": "https://cgworld.jp/special-feature/assets_c/2024/11/DSC08313-thumb-1024x576-61720.jpg"
+        },
+        {
+          "id": "https://cgworld.jp/flashnews/inei-aa-02-01.html",
+          "author": null,
+          "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
+          "link": "https://cgworld.jp/flashnews/inei-aa-02-01.html",
+          "publishedOn": "2024-11-29T05:40:38.000Z",
+          "wordCount": 658,
+          "title": "INEIコンセプトアートスクール（基礎コース） 入学説明会を12月6日にオンラインにて開催 - ニュース",
+          "imageUrl": "https://cgworld.jp/flashnews/assets_c/2024/11/inei_aa_20241129-thumb-1920x1080-62785.jpg"
+        },
+        {
+          "id": "https://cgworld.jp/flashnews/202411-Blender43.html",
+          "author": null,
+          "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
+          "link": "https://cgworld.jp/flashnews/202411-Blender43.html",
+          "publishedOn": "2024-11-29T03:44:20.000Z",
+          "wordCount": 782,
+          "title": "「Blender 4.3」リリース！　ジオメトリノードやEEVEEの強化、グリースペンシル刷新、新しいブラシワークフローなど新機能多数 - ニュース",
+          "imageUrl": "https://cgworld.jp/flashnews/assets_c/2024/11/Blender43-01-thumb-1000x500-62619.jpg"
+        },
         {
           "id": "https://cgworld.jp/flashnews/202411-Corona12-1.html",
           "author": null,
@@ -1294,6 +1309,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://cgworld.jp/article/2411-molcarmovie.html",
+          "author": null,
+          "description": "『PUI PUI モルカー ザ・ムービー MOLMAX』まんきゅう監督インタビュー。",
+          "link": "https://cgworld.jp/article/2411-molcarmovie.html",
+          "publishedOn": "2024-11-29T00:52:03.000Z",
+          "wordCount": 714,
+          "title": "劇場版『PUI PUI モルカー ザ・ムービー MOLMAX』まんきゅう監督インタビュー 〜CGアニメーションでも変わらぬモルカーらしさを表現 - 特集",
+          "imageUrl": "https://cgworld.jp/article/assets_c/2024/11/main-thumb-1920x1037-62324.jpeg"
+        },
+        {
           "id": "https://cgworld.jp/flashnews/202411-Wacom-Yuify.html",
           "author": null,
           "description": "",
@@ -1302,6 +1327,16 @@
           "wordCount": null,
           "title": "ワコム、デジタル作品画像の著作権保護サービス「Wacom Yuify」ベータ版リリース！　独自のマイクロマーク技術により固有のデジタルIDを埋め込む - ニュース",
           "imageUrl": null
+        },
+        {
+          "id": "https://cgworld.jp/regular/202411-hcbe-009.html",
+          "author": null,
+          "description": "",
+          "link": "https://cgworld.jp/regular/202411-hcbe-009.html",
+          "publishedOn": "2024-11-29T00:00:00.000Z",
+          "wordCount": 794,
+          "title": "第9回：Packed Fracture / Packを使ったRBDシミュレーション - 連載",
+          "imageUrl": "https://cgworld.jp/regular/assets_c/2024/11/0900259203b5b6e48afec83609aa57c9c5632539-thumb-1000x563-62783.jpg"
         },
         {
           "id": "https://cgworld.jp/flashnews/2411-studio-bros.html",

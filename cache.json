@@ -555,36 +555,6 @@
             "type": "video/mp4"
           },
           "imageUrl": "https://cgbox.jp/wp-content/uploads/2024/11/image_processing20241030-2-mojxbz.jpg"
-        },
-        {
-          "id": "https://cgbox.jp/?p=60412",
-          "author": "UEDA",
-          "description": "こんばんは！ 今回はアドオンの「Anime Hairstyle Collection」を紹介します。 こちらのリンクから購入することができます。 Anime Hairstyle Collection 「Anime Hai […]",
-          "link": "https://cgbox.jp/2024/10/31/news-addon-anime-hairstyle-collection/",
-          "publishedOn": "2024-10-31T10:00:00.000Z",
-          "wordCount": 2130,
-          "title": "【アドオン紹介】Anime Hairstyle Collection – セルルック調の髪コレクション！",
-          "enclosure": {
-            "url": "https://cgbox.jp/wp-content/uploads/2024/10/6-6.mp4",
-            "length": "0",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://cgbox.jp/wp-content/uploads/2024/10/image_processing20241031-2-1dpyfnv.jpg"
-        },
-        {
-          "id": "https://cgbox.jp/?p=60403",
-          "author": "UEDA",
-          "description": "こんばんは！ 今回はアドオンの「Proper Subdivision Levels With Ctrl+1/2/3/0 Shortcut」を紹介します。 こちらのリンクから購入することができます。 Proper Subd […]",
-          "link": "https://cgbox.jp/2024/10/31/news-addon-proper-subdivision-levels-with-ctrl1-2-3-0-shortcut/",
-          "publishedOn": "2024-10-31T09:00:00.000Z",
-          "wordCount": 2188,
-          "title": "【アドオン紹介】Proper Subdivision Levels With Ctrl+1/2/3/0 Shortcut – サブディビジョンを効率的に追加！",
-          "enclosure": {
-            "url": "https://cgbox.jp/wp-content/uploads/2024/10/4-2.mp4",
-            "length": "0",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://cgbox.jp/wp-content/uploads/2024/10/image_processing20241017-2-77bjhc.jpg"
         }
       ]
     },
@@ -611,6 +581,36 @@
       "feedUrl": "https://3dnchu.com/feed/",
       "siteUrl": "https://3dnchu.com",
       "articles": [
+        {
+          "id": "https://3dnchu.com/?p=1046076",
+          "author": "Ymt3D -3dnchu-",
+          "description": "インディーゲームデベロッパーでグラフィックプログラマーのKrystian Komisarek氏（@ImaginaryBlend）の「Fluid Flux」メジャーアップデートが近日中にリリースされます！平面ベースのリアルタイム流体シミュレーションをお手軽に実装出来るUnreal Engine向けアセットです。",
+          "link": "https://3dnchu.com/archives/fluid-flux-3-0/",
+          "publishedOn": "2024-11-29T16:15:47.000Z",
+          "wordCount": 8616,
+          "title": "Fluid Flux 3.0 - 平面ベースで軽量なリアルタイム流体を実現可能なUnreal Engine 5 向けアセットのメジャーアップデートが公開！水中ガラス＆水中ライトで海底表現がより美しく！その他パフォーマンスの改善！",
+          "enclosure": {
+            "url": "https://3dnchu.com/wp-content/uploads/Fluid-Flux-3.0.webp",
+            "length": "1016170",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://3dnchu.com/wp-content/uploads/Fluid-Flux-3.0.webp"
+        },
+        {
+          "id": "https://3dnchu.com/?p=1046063",
+          "author": "Ymt3D -3dnchu-",
+          "description": "Difffuse Studioから、ブレイクダウン映像である演出を手軽に実装出来るBlenderアドオン「Breakdown Maker」がリリースされました！",
+          "link": "https://3dnchu.com/archives/breakdown-maker/",
+          "publishedOn": "2024-11-29T15:24:15.000Z",
+          "wordCount": 8590,
+          "title": "Breakdown Maker - よくあるブレイクダウン映像の演出（シーン構築やターンテーブル、スタジオ照明など）を簡単にセットアップ出来るBlenderアドオンが登場！",
+          "enclosure": {
+            "url": "https://3dnchu.com/wp-content/uploads/Breakdown-Maker.webp",
+            "length": "1369406",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://3dnchu.com/wp-content/uploads/Breakdown-Maker.webp"
+        },
         {
           "id": "https://3dnchu.com/?p=1046048",
           "author": "Ymt3D -3dnchu-",
@@ -2097,36 +2097,6 @@
           "wordCount": 715,
           "title": "「一度海外の生活を経験してみると自信もついてくると思います」米国留学後に日本での就業を経て、フィンランドのゲーム会社へ！ 第101回：荻野公男（Senior Environment Artist / Remedy Entertainment） - 連載",
           "imageUrl": "https://cgworld.jp/regular/assets_c/2024/10/0703c33444f0d70c55870047a35999a21ddcaae6-thumb-1000x588-61032.jpg"
-        },
-        {
-          "id": "https://cgworld.jp/flashnews/202410-ChaosVantage26.html",
-          "author": null,
-          "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
-          "link": "https://cgworld.jp/flashnews/202410-ChaosVantage26.html",
-          "publishedOn": "2024-10-31T08:35:47.000Z",
-          "wordCount": 726,
-          "title": "V-Rayシーンのリアルタイムビジュアライゼーションツール「Chaos Vantage 2.6」リリース！　サブサーフェス・スキャタリングのサポートや水オブジェクトの搭載など - ニュース",
-          "imageUrl": "https://cgworld.jp/flashnews/assets_c/2024/10/ChaosVantage26-01-thumb-1280x720-61548.jpg"
-        },
-        {
-          "id": "https://cgworld.jp/flashnews/2411-jaxa-spacedata.html",
-          "author": null,
-          "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
-          "link": "https://cgworld.jp/flashnews/2411-jaxa-spacedata.html",
-          "publishedOn": "2024-10-31T07:59:15.000Z",
-          "wordCount": 657,
-          "title": "JAXA、スペースデータが「宇宙デジタルツイン」に関する共創活動を開始－デジタル空間上にISS環境を再現し、より宇宙を身近に - ニュース",
-          "imageUrl": "https://cgworld.jp/flashnews/assets_c/2024/10/2411_spacedate_main-thumb-1000x557-61547.jpg"
-        },
-        {
-          "id": "https://cgworld.jp/flashnews/202410-Houdini-HPaint20.html",
-          "author": null,
-          "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
-          "link": "https://cgworld.jp/flashnews/202410-Houdini-HPaint20.html",
-          "publishedOn": "2024-10-31T06:44:37.000Z",
-          "wordCount": 703,
-          "title": "グリースペンシルをHoudiniで！　Houdini 20.5対応のオープンソースHDA「HPaint 2.0」リリース - ニュース",
-          "imageUrl": "https://cgworld.jp/flashnews/assets_c/2024/10/Houdini_HPaint2-01-thumb-1920x1080-61530.jpg"
         }
       ]
     },
@@ -2186,6 +2156,36 @@
       "feedUrl": "https://modelinghappy.com/feed",
       "siteUrl": "https://modelinghappy.com",
       "articles": [
+        {
+          "id": "https://modelinghappy.com/?p=60529",
+          "author": "modelinghappy",
+          "description": "Auto Apply Scale Blenderでモデルの形状を変更した後にベベルモディファイアーを掛けると角の形状が均等ではなく変な形になった事がありませんが？ その場合スケールを適用する事でベベルが綺麗にかかるように\nThe post Auto Apply Scale スケールの適用を自動で常に適用してくれるのでモデルの変更後にベベルをしても形状が破綻しないアドオン first appeared on 3DCG最新情報サイト MODELING HAPPY.",
+          "link": "https://modelinghappy.com/archives/60529",
+          "publishedOn": "2024-11-30T00:15:16.000Z",
+          "wordCount": 3473,
+          "title": "Auto Apply Scale スケールの適用を自動で常に適用してくれるのでモデルの変更後にベベルをしても形状が破綻しないアドオン",
+          "imageUrl": "https://modelinghappy.com/wp-content/uploads/2024/11/20241130_autoapplyscale_01.jpg"
+        },
+        {
+          "id": "https://modelinghappy.com/?p=60512",
+          "author": "modelinghappy",
+          "description": "Breakdown Maker Breakdown MakerはBlenderで数回クリックするだけで作成したシーンを分解してプリセットから選ぶだけでスムーズにアニメーションして建物等が出現してくるメイキング用のアニメー\nThe post Breakdown Maker ブレイキングダウン用に建物などが次々配置されるアニメーションを作成したり、キャラクター用に360度のターンテーブルを作成出来るアドオン first appeared on 3DCG最新情報サイト MODELING HAPPY.",
+          "link": "https://modelinghappy.com/archives/60512",
+          "publishedOn": "2024-11-29T23:18:52.000Z",
+          "wordCount": 3464,
+          "title": "Breakdown Maker ブレイキングダウン用に建物などが次々配置されるアニメーションを作成したり、キャラクター用に360度のターンテーブルを作成出来るアドオン",
+          "imageUrl": "https://modelinghappy.com/wp-content/uploads/2024/11/20241130_breakdown_maker_01.jpg"
+        },
+        {
+          "id": "https://modelinghappy.com/?p=60352",
+          "author": "modelinghappy",
+          "description": "公式サイト blender market  ブレンダーを使用するのが便利になるアドオンが販売されているBlendermarketでSummer Saleと題して2024年11月29日~12月3日までアドオンやアセットなど\nThe post ブレンダーマーケットで年に１度の30%割引セールが開始！人気アドオンをまとめ！ first appeared on 3DCG最新情報サイト MODELING HAPPY.",
+          "link": "https://modelinghappy.com/archives/60352",
+          "publishedOn": "2024-11-29T15:20:12.000Z",
+          "wordCount": 4011,
+          "title": "ブレンダーマーケットで年に１度の30%割引セールが開始！人気アドオンをまとめ！",
+          "imageUrl": "https://modelinghappy.com/wp-content/uploads/2024/11/20241128_blendermarket_sale.jpg"
+        },
         {
           "id": "https://modelinghappy.com/?p=60374",
           "author": "modelinghappy",
@@ -2585,26 +2585,6 @@
           "wordCount": 3591,
           "title": "プロフェッショナルBlender さらにBlenderの技術を増やしたい人にオススメ出来る書籍が発売します！",
           "imageUrl": "https://modelinghappy.com/wp-content/uploads/2024/11/20241101_professional_Blender_01.jpg"
-        },
-        {
-          "id": "https://modelinghappy.com/?p=59941",
-          "author": "modelinghappy",
-          "description": "Introducing Wonder Animation: New AI solution for animated films, powered by cutting-edge Video to 3D Scene te\nThe post AutodeskがWonder Animationのベータ版をリリース  撮影した映像のシーンをそのまま3D空間で再現でき、色々な角度から調整出来る first appeared on 3DCG最新情報サイト MODELING HAPPY.",
-          "link": "https://modelinghappy.com/archives/59941",
-          "publishedOn": "2024-10-31T10:16:51.000Z",
-          "wordCount": 3530,
-          "title": "AutodeskがWonder Animationのベータ版をリリース  撮影した映像のシーンをそのまま3D空間で再現でき、色々な角度から調整出来る",
-          "imageUrl": "https://modelinghappy.com/wp-content/uploads/2024/10/20241031_wonder_animation_01.jpg"
-        },
-        {
-          "id": "https://modelinghappy.com/?p=59923",
-          "author": "modelinghappy",
-          "description": "Fluffy Maker Fluffy MakerはBlenderでモデルに簡単にリアルなファーを生やせるアドオンです。 ファーの毛質はプリセットで数種類用意されていて、適用後にアドオンのパラメーターから調整可能。新品の\nThe post Fluffy Maker Blenderでモデルに様々なリアルな毛質を作成出来るアドオン first appeared on 3DCG最新情報サイト MODELING HAPPY.",
-          "link": "https://modelinghappy.com/archives/59923",
-          "publishedOn": "2024-10-31T09:34:28.000Z",
-          "wordCount": 3506,
-          "title": "Fluffy Maker Blenderでモデルに様々なリアルな毛質を作成出来るアドオン",
-          "imageUrl": "https://modelinghappy.com/wp-content/uploads/2024/10/20241031_Fluffy_maker_01.jpg"
         }
       ]
     },
@@ -3092,26 +3072,6 @@
           "wordCount": 511,
           "title": "ハロウィンを祝って、Framestore より、ホラー映像集「Halloween Horror Hits」",
           "imageUrl": "https://3dtotal.jp/wp-content/uploads/2024/11/fstore_halloween24.jpg"
-        },
-        {
-          "id": "https://3dtotal.jp/?p=48399",
-          "author": "3dtotal管理人T",
-          "description": "★MPC x Meet your Legend - Under Paris VFX Case Study（54分30秒） MPC x Meet your Legend - 『セーヌ川の水面の下に』VFXケーススタディ M […]\nThe post MPC のアーティストたちが語る サスペンス映画『セーヌ川の水面の下に』の視覚効果 first appeared on 3dtotal 日本語オフィシャルサイト.",
-          "link": "https://3dtotal.jp/news/48399/",
-          "publishedOn": "2024-10-31T05:55:16.000Z",
-          "wordCount": 574,
-          "title": "MPC のアーティストたちが語る サスペンス映画『セーヌ川の水面の下に』の視覚効果",
-          "imageUrl": "https://3dtotal.jp/wp-content/uploads/2024/10/underparis_mpc.jpg"
-        },
-        {
-          "id": "https://3dtotal.jp/?p=48395",
-          "author": "3dtotal管理人T",
-          "description": "★Dive into Creativity: Richard Taylor Shares the Magic of Wētā Workshop（49分3秒） Weta Workshop の CEO 兼 クリエイティブ デ […]\nThe post 創造性に飛び込む：Weta の創設者 リチャード・テイラー氏 のインタビュー「Dive into Creativity」 first appeared on 3dtotal 日本語オフィシャルサイト.",
-          "link": "https://3dtotal.jp/news/48395/",
-          "publishedOn": "2024-10-31T05:35:41.000Z",
-          "wordCount": 562,
-          "title": "創造性に飛び込む：Weta の創設者 リチャード・テイラー氏 のインタビュー「Dive into Creativity」",
-          "imageUrl": "https://3dtotal.jp/wp-content/uploads/2024/10/weta_diveintocreativity.jpg"
         }
       ]
     }

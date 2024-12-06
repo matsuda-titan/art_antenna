@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-12-06T12:18:55.395Z</updated>
+    <updated>2024-12-06T13:49:36.366Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
@@ -23,6 +23,30 @@
         <updated>2024-12-06T09:00:09.000Z</updated>
         <author>
             <name>CGWORLD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GLSLで籠目文様]]></title>
+        <id>https://zenn.dev/aadebdeb/articles/78149d772436b4</id>
+        <link href="https://zenn.dev/aadebdeb/articles/78149d772436b4"/>
+        <updated>2024-12-06T07:35:23.000Z</updated>
+        <summary type="html"><![CDATA[日本の伝統文様の一つに籠目(かごめ)という竹かごの網目のような文様があります。この記事ではGLSLで籠目文様を実装します。
+https://ja.wikipedia.org/wiki/籠目
+コードはGLSL Sandbox互換になっています。
+precision highp float;
+
+uniform vec2 resolution;
+
+#define PI 3.14159265359
+
+mat2 rotate(float r) {
+    float c = cos(r);
+    float s = sin(r);
+    return mat2(c, s, -s, c);
+}
+...]]></summary>
+        <author>
+            <name>Atsushi Asakura</name>
         </author>
     </entry>
     <entry>
@@ -54,6 +78,115 @@ The post 200年前の物語をアニメ映画化。『ロード・オブ・ザ�
 The post MPCパリ より、『黒い王妃 カトリーヌ・ド・メディシス』の VFXブレイクダウン映像 first appeared on 3dtotal 日本語オフィシャルサイト.]]></summary>
         <author>
             <name>3dtotal管理人T</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[plunkerでshadertoy sandbox その 8]]></title>
+        <id>https://qiita.com/ohisama@github/items/ad8589d93347e419b939</id>
+        <link href="https://qiita.com/ohisama@github/items/ad8589d93347e419b939"/>
+        <updated>2024-12-06T02:29:51.000Z</updated>
+        <summary type="html"><![CDATA[概要
+plunkerでshadertoyのglsl動かしてみた。
+textureとtextureLodを実装してみた。
+写真
+
+投入したソース
+#extension GL_EXT_shader_tex…]]></summary>
+        <author>
+            <name>GLSLタグが付けられた新着記事 - Qiita</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【Houdiniおすすめノード2選】Labs Tree Generator/Mask by Feature]]></title>
+        <id>https://qiita.com/Funa_Okuda/items/9b4b8a8ac763a7b5dd30</id>
+        <link href="https://qiita.com/Funa_Okuda/items/9b4b8a8ac763a7b5dd30"/>
+        <updated>2024-12-06T01:09:03.000Z</updated>
+        <summary type="html"><![CDATA[はじめに
+こんにちは、株式会社GENEROSITYの奥田です。
+今回はクリスマスに向けたアドベントカレンダーということで、Houdiniの便利なノードを用いて簡単にクリスマスツリーを作成してみました。
+このクリスマスツリーを作るのに使用したノードが大変便利であったためその中から2種類紹介したいと思います…]]></summary>
+        <author>
+            <name>CGタグが付けられた新着記事 - Qiita</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Unity]カジュアルゲームに使いやすい「これでいい」水面シェーダー]]></title>
+        <id>https://qiita.com/flankids/items/8e1a4d5c807c1eadfe05</id>
+        <link href="https://qiita.com/flankids/items/8e1a4d5c807c1eadfe05"/>
+        <updated>2024-12-05T22:07:36.000Z</updated>
+        <summary type="html"><![CDATA[グレンジ Advent Calendar 2024 6日目担当の、flankidsです。
+普段は操作、アニメーション、カメラワークなどなどで遊び心地を作ることを主にやっています。楽しいものを作るのが…]]></summary>
+        <author>
+            <name>Shaderタグが付けられた新着記事 - Qiita</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Unity]カジュアルゲームに使いやすい「これでいい」水面シェーダー]]></title>
+        <id>https://qiita.com/flankids/items/8e1a4d5c807c1eadfe05</id>
+        <link href="https://qiita.com/flankids/items/8e1a4d5c807c1eadfe05"/>
+        <updated>2024-12-05T22:07:36.000Z</updated>
+        <summary type="html"><![CDATA[グレンジ Advent Calendar 2024 6日目担当の、flankidsです。
+普段は操作、アニメーション、カメラワークなどなどで遊び心地を作ることを主にやっています。楽しいものを作るのが…]]></summary>
+        <author>
+            <name>グラフィックスタグが付けられた新着記事 - Qiita</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Unity]カジュアルゲームに使いやすい「これでいい」水面シェーダー]]></title>
+        <id>https://qiita.com/flankids/items/8e1a4d5c807c1eadfe05</id>
+        <link href="https://qiita.com/flankids/items/8e1a4d5c807c1eadfe05"/>
+        <updated>2024-12-05T22:07:36.000Z</updated>
+        <summary type="html"><![CDATA[グレンジ Advent Calendar 2024 6日目担当の、flankidsです。
+普段は操作、アニメーション、カメラワークなどなどで遊び心地を作ることを主にやっています。楽しいものを作るのが…]]></summary>
+        <author>
+            <name>CGタグが付けられた新着記事 - Qiita</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[editMAでコンストレインを書き出す]]></title>
+        <id>https://qiita.com/9boz/items/e1408dccdc3c768df77e</id>
+        <link href="https://qiita.com/9boz/items/e1408dccdc3c768df77e"/>
+        <updated>2024-12-05T22:03:12.000Z</updated>
+        <summary type="html"><![CDATA[https://qiita.com/9boz/private/a278945f2d95329814d0
+さてアニメーションは書き出せたので、コンストレインも書き出したいですね。
+コンストレインが書き…]]></summary>
+        <author>
+            <name>mayaタグが付けられた新着記事 - Qiita</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【Unity】自作Editor拡張で固めた開発環境を紹介してみる]]></title>
+        <id>https://qiita.com/ayaha401/items/d3badb58a56d2f2852d8</id>
+        <link href="https://qiita.com/ayaha401/items/d3badb58a56d2f2852d8"/>
+        <updated>2024-12-05T15:55:24.000Z</updated>
+        <summary type="html"><![CDATA[はじめに
+手元でパッと開発したい時ありますよね、そういったときに素早く開発できるようにある程度自分の作業環境はあらかじめ整えて置いたほうがいいと思っています。
+そのために自分で開発した作業環境を紹介…]]></summary>
+        <author>
+            <name>Shaderタグが付けられた新着記事 - Qiita</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unreal Engineが難しいと感じるあなたへ：初心者でもわかる克服ガイド]]></title>
+        <id>https://zenn.dev/ryu_takatsukasa/articles/3685c7130cd54e</id>
+        <link href="https://zenn.dev/ryu_takatsukasa/articles/3685c7130cd54e"/>
+        <updated>2024-12-05T13:16:54.000Z</updated>
+        <summary type="html"><![CDATA[Unreal Engine（UE）は、ゲーム開発やアプリケーション制作において非常に強力なツールですが、多くの初心者が「難しい」と感じることが少なくありません。
+実際、私もUnreal Engineに触れたときは秒で挫折しました。
+理由としては以下です。
+!
+
+操作性に慣れない
+公式のチュートリアルが意味不明
+何から進めていくのか分からない
+
+
+Unreal Engineはコードなしでゲームを作成できるツールであるので、
+始める前に「自分でも簡単にできるかも」って期待しちゃうんですね。
+それで、短期間で使いこなせるようになるだろうと、タカをくくった結果、
+想像をはるかに超える難しさで、...]]></summary>
+        <author>
+            <name>鷹司龍</name>
         </author>
     </entry>
     <entry>
@@ -140,6 +273,28 @@ The post Wiggly ラティスにノイズアニメーションを付けてルー�
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[GLSLで麻の葉文様]]></title>
+        <id>https://zenn.dev/aadebdeb/articles/01db19c9ee4188</id>
+        <link href="https://zenn.dev/aadebdeb/articles/01db19c9ee4188"/>
+        <updated>2024-12-05T05:10:29.000Z</updated>
+        <summary type="html"><![CDATA[日本の伝統文様の一つに麻の葉という六角形をベースにして大麻の葉に似ていることから名づけられた文様があります。この記事ではGLSLを用いて麻の葉文様を実装します。
+https://ja.wikipedia.org/wiki/麻の葉文様
+コードはGLSL Sandbox互換になっています。
+precision highp float;
+
+uniform vec2 resolution;
+
+#define PI 3.14159265359
+
+mat2 rotate(float r) {
+    float c = cos(r);
+    float s = sin(r);
+    return...]]></summary>
+        <author>
+            <name>Atsushi Asakura</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[CMやブランドコンテンツ映像。Rodeo FX の Global Advertising & Experiences リール]]></title>
         <id>https://3dtotal.jp/?p=48955</id>
         <link href="https://3dtotal.jp/news/48955/"/>
@@ -162,6 +317,33 @@ The post ホリデーシーズンにぴったりの贈り物!?「Maxon 2024年�
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[はじめてのｍGearカスタムステップ]]></title>
+        <id>https://qiita.com/GACCHI_3DCG/items/3b9248c1bc1aa5e70a36</id>
+        <link href="https://qiita.com/GACCHI_3DCG/items/3b9248c1bc1aa5e70a36"/>
+        <updated>2024-12-04T22:34:11.000Z</updated>
+        <summary type="html"><![CDATA[挨拶
+どうも、GACCHIです。
+普段はXやYoutubeなどでリギングをメインに発信させていただいています。
+はじめてQiitaに投稿するのですが、今回はmGearのカスタムステップについて、まだ…]]></summary>
+        <author>
+            <name>mayaタグが付けられた新着記事 - Qiita</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[editMAでアニメーションを書き出したい]]></title>
+        <id>https://qiita.com/9boz/items/a278945f2d95329814d0</id>
+        <link href="https://qiita.com/9boz/items/a278945f2d95329814d0"/>
+        <updated>2024-12-04T22:07:04.000Z</updated>
+        <summary type="html"><![CDATA[Mayaでアニメーションを読み書きする方法は幾つかあるのですが、editMAを使った読み書きをやってみます。
+書き出し
+exportEditsというコマンドがありました。
+これを使ってやってみます。
+https://help.autodesk.com/cloudhelp/2022/JPN/Maya-Tech-Docs/CommandsPython/exportEdits.htm…]]></summary>
+        <author>
+            <name>mayaタグが付けられた新着記事 - Qiita</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Claypencil v0.1 - Blender 4.3のGrease Pencil＋Geometry Nodesで実現するメッシュ作成モディファイア！Blendファイルが無料公開！]]></title>
         <id>https://3dnchu.com/?p=1047263</id>
         <link href="https://3dnchu.com/archives/claypencil-v0-1/"/>
@@ -169,6 +351,69 @@ The post ホリデーシーズンにぴったりの贈り物!?「Maxon 2024年�
         <summary type="html"><![CDATA[Pepe School Landによる、Blender 4.3のGrease PencilとGeometry Nodesを組み合わせたメッシュ生成モディファイア「Claypencil v0.1」が無料公開されました！]]></summary>
         <author>
             <name>Ymt3D -3dnchu-</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Blender4.0を使ってK3のアヒルをつくろう]]></title>
+        <id>https://qiita.com/GaliMura/items/88bec9e82f3033952f4d</id>
+        <link href="https://qiita.com/GaliMura/items/88bec9e82f3033952f4d"/>
+        <updated>2024-12-04T16:19:20.000Z</updated>
+        <summary type="html"><![CDATA[この記事はK3 Advent Calendar 2023の21日目の記事です。
+
+Blender4.0が来た！！
+ついにBleder4.0が来た……！新しいジオメトリーノードが追加されたり、カメラの色…]]></summary>
+        <author>
+            <name>3DCGタグが付けられた新着記事 - Qiita</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[原点から遠ざかったカメラが単精度浮動小数点(Float型)の精度問題で揺れる現象の解決手法]]></title>
+        <id>https://qiita.com/chihirobelmo/items/f7acf5c68a69734cec7f</id>
+        <link href="https://qiita.com/chihirobelmo/items/f7acf5c68a69734cec7f"/>
+        <updated>2024-12-04T14:07:16.000Z</updated>
+        <summary type="html"><![CDATA[概要
+コンピュータグラフィックスにおいて、カメラの視点が原点から遠ざかるにつれて画面の揺れが発生する。これは座標の管理に使われる単精度浮動小数点の精度不足が原因で、原点$(0,0,0)$から遠ざかる…]]></summary>
+        <author>
+            <name>CGタグが付けられた新着記事 - Qiita</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[原点から遠ざかったカメラが単精度浮動小数点(Float型)の精度問題で揺れる現象の解決手法]]></title>
+        <id>https://qiita.com/chihirobelmo/items/f7acf5c68a69734cec7f</id>
+        <link href="https://qiita.com/chihirobelmo/items/f7acf5c68a69734cec7f"/>
+        <updated>2024-12-04T14:07:16.000Z</updated>
+        <summary type="html"><![CDATA[概要
+コンピュータグラフィックスにおいて、カメラの視点が原点から遠ざかるにつれて画面の揺れが発生する。これは座標の管理に使われる単精度浮動小数点の精度不足が原因で、原点$(0,0,0)$から遠ざかる…]]></summary>
+        <author>
+            <name>HLSLタグが付けられた新着記事 - Qiita</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[VRChatで写真展！こだわりのシェーダー表現 雨っぽい編]]></title>
+        <id>https://qiita.com/amasora/items/4a1b7dcac13a713f1c65</id>
+        <link href="https://qiita.com/amasora/items/4a1b7dcac13a713f1c65"/>
+        <updated>2024-12-04T13:06:50.000Z</updated>
+        <summary type="html"><![CDATA[この記事はふたり？VRChat Advent Calendar 2024の2日の記事です。
+
+何気にQiitaで記事書くの初めてです。
+Osakanabiyoriさんにお誘いいただきました！
+このよう…]]></summary>
+        <author>
+            <name>Shaderタグが付けられた新着記事 - Qiita</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[VRChatで写真展！こだわりのシェーダー表現 雨っぽい編]]></title>
+        <id>https://qiita.com/amasora/items/4a1b7dcac13a713f1c65</id>
+        <link href="https://qiita.com/amasora/items/4a1b7dcac13a713f1c65"/>
+        <updated>2024-12-04T13:06:50.000Z</updated>
+        <summary type="html"><![CDATA[この記事はふたり？VRChat Advent Calendar 2024の2日の記事です。
+
+何気にQiitaで記事書くの初めてです。
+Osakanabiyoriさんにお誘いいただきました！
+このよう…]]></summary>
+        <author>
+            <name>HLSLタグが付けられた新着記事 - Qiita</name>
         </author>
     </entry>
     <entry>
@@ -253,6 +498,33 @@ The post 危機的な国際情勢の中、懸命に職務に励む外交官。�
 The post Outliner Pro Blenderでオブジェクトとコレクション整理がしやすくなる多機能アドオン first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
         <author>
             <name>modelinghappy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unityでディゾルブシェーダーを作る方法]]></title>
+        <id>https://qiita.com/YSnami/items/7a87a258536e878fe425</id>
+        <link href="https://qiita.com/YSnami/items/7a87a258536e878fe425"/>
+        <updated>2024-12-03T22:07:19.000Z</updated>
+        <summary type="html"><![CDATA[この記事は東京海洋大学NePPの Advent Calendar 2024の4日目です。
+初めに
+今回はUnityのシェーダーでディゾルブシェーダーを書いていきたいと思います（下動画）
+こんな感じで…]]></summary>
+        <author>
+            <name>Shaderタグが付けられた新着記事 - Qiita</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[孤立UVの削除]]></title>
+        <id>https://qiita.com/9boz/items/2f7aa51b7dfe7b9a7cca</id>
+        <link href="https://qiita.com/9boz/items/2f7aa51b7dfe7b9a7cca"/>
+        <updated>2024-12-03T22:03:05.000Z</updated>
+        <summary type="html"><![CDATA[前回の記事がこちら
+https://qiita.com/9boz/items/fe9435fabd7c59a2aacb
+早いもので、もうすぐ１年たちますね。
+ようやく対処法が見つかりました。
+なんだ…]]></summary>
+        <author>
+            <name>mayaタグが付けられた新着記事 - Qiita</name>
         </author>
     </entry>
     <entry>
@@ -423,6 +695,24 @@ The post MPCパリ より、デジタル技術で蘇った パリ・ノートル
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[p5js]p5.scribble.jsが楽しい！！]]></title>
+        <id>https://zenn.dev/karakure178/articles/33311fce7a304a</id>
+        <link href="https://zenn.dev/karakure178/articles/33311fce7a304a"/>
+        <updated>2024-12-02T02:25:01.000Z</updated>
+        <summary type="html"><![CDATA[processingの2024年アドベントカレンダー2日目の記事になります。
+今回はp5.scribble.jsと呼ばれる手書き風な図形が簡単に描けるライブラリが非常に楽しいので作例とともに機能紹介したいと思います。
+
+ p5.scribble.jsって何？
+processingのhandyライブラリのような手書き風な図形を簡単に書くことができるライブラリになります。
+使い方は以下のようにp5.scribble.jsを変数として呼び出して関数を実行します。
+function setup() {
+  canvas = createCanvas(500, 500, WEBGL);
+  sb ...]]></summary>
+        <author>
+            <name>からくれ178</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Gsurface Gen グリースペンシルでサクサクラインを描く事でモデルを作成出来るBlender用モディファイアー無料版あり]]></title>
         <id>https://modelinghappy.com/?p=60552</id>
         <link href="https://modelinghappy.com/archives/60552"/>
@@ -464,6 +754,26 @@ The post Gsurface Gen グリースペンシルでサクサクラインを描く�
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Houdini: FontSOP機能追加 - はじめてのPython]]></title>
+        <id>https://zenn.dev/kickbase/articles/9d003c9ce0e66c</id>
+        <link href="https://zenn.dev/kickbase/articles/9d003c9ce0e66c"/>
+        <updated>2024-12-01T10:00:01.000Z</updated>
+        <summary type="html"><![CDATA[もうアドベントカレンダーの季節とか嘘でしょう…？
+気を取り直して皆さんいかがお過ごしでしょう。僕は今年もHoudini三昧の毎日でした。
+今回はFontSOPに機能追加を施す方法についてお話をしたいと思います。
+本記事はHoudini Apprentice アドベントカレンダー2024 1日目の記事です。Apprenticeということでできるだけシンプルな題材を取り上げ、コードについても手厚めに解説しています。
+ちなみに今回から技術ブログはZennに移行しました！よろしくお願いします。
+
+ データ配布
+HDAダウンロード
+
+ ツール制作の背景とその特徴
+FontSOPはテストジオメトリの...]]></summary>
+        <author>
+            <name>めんたいこ</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[【アドオン紹介】3-In-1 – レンダリングを簡単加工で雰囲気UP！]]></title>
         <id>https://cgbox.jp/?p=61012</id>
         <link href="https://cgbox.jp/2024/12/01/mews-addon-3-in-1/"/>
@@ -482,6 +792,48 @@ The post Gsurface Gen グリースペンシルでサクサクラインを描く�
 The post Cinema4Dをメインに使いアニメ調の短編CGアニメーション作品を１から作るチュートリアル動画がWingfoxで販売開始！ first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
         <author>
             <name>modelinghappy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Unity]モデルをイジらずポスプロも要らず。ハードエッジをサクッと解決する背面法アウトラインの作り方]]></title>
+        <id>https://qiita.com/flankids/items/259085b95a23c0e7ad49</id>
+        <link href="https://qiita.com/flankids/items/259085b95a23c0e7ad49"/>
+        <updated>2024-11-30T22:06:02.000Z</updated>
+        <summary type="html"><![CDATA[グレンジ Advent Calendar 2024 1日目担当の、flankidsです。
+普段は操作、アニメーション、カメラワークなどなどで遊び心地を作ることを主にやっています。楽しいものを作るのが…]]></summary>
+        <author>
+            <name>グラフィックスタグが付けられた新着記事 - Qiita</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Unity]モデルをイジらずポスプロも要らず。ハードエッジをサクッと解決する背面法アウトラインの作り方]]></title>
+        <id>https://qiita.com/flankids/items/259085b95a23c0e7ad49</id>
+        <link href="https://qiita.com/flankids/items/259085b95a23c0e7ad49"/>
+        <updated>2024-11-30T22:06:02.000Z</updated>
+        <summary type="html"><![CDATA[グレンジ Advent Calendar 2024 1日目担当の、flankidsです。
+普段は操作、アニメーション、カメラワークなどなどで遊び心地を作ることを主にやっています。楽しいものを作るのが…]]></summary>
+        <author>
+            <name>CGタグが付けられた新着記事 - Qiita</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GLSLで桧垣文様]]></title>
+        <id>https://zenn.dev/aadebdeb/articles/0e1287f5120855</id>
+        <link href="https://zenn.dev/aadebdeb/articles/0e1287f5120855"/>
+        <updated>2024-11-30T14:29:20.000Z</updated>
+        <summary type="html"><![CDATA[日本の伝統文様の一つに桧垣(ひがき)という2:1の比の長方形を斜め45度に組み合わせたような文様があります。この記事ではGLSLを用いて桧垣文様を実装します。
+https://naisouzairyou-annai.jp/pattern/tradition/index.html
+コードはGLSL Sandbox互換になっています。
+precision highp float;
+
+uniform vec2 resolution;
+
+#define PI 3.14159265359
+
+mat2 rotate(float r) {
+    return mat2(cos(r), -sin(r)...]]></summary>
+        <author>
+            <name>Atsushi Asakura</name>
         </author>
     </entry>
     <entry>
@@ -716,6 +1068,17 @@ The post Lens Sim 現実世界の光学データに基づいてカメラ レン�
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[HLSL Tools for Visual Studio を URP に対応させてみた]]></title>
+        <id>https://qiita.com/__A__B/items/e726a9dc1f8e2d7bc1b2</id>
+        <link href="https://qiita.com/__A__B/items/e726a9dc1f8e2d7bc1b2"/>
+        <updated>2024-11-28T17:04:23.000Z</updated>
+        <summary type="html"><![CDATA[皆さんこんにちは。
+私が HLSL Tools for Visual Studio を URP に対応させようとした時に、ネットで調べても情報が少なすぎてめちゃくちゃ苦労したので、皆さんが同じように…]]></summary>
+        <author>
+            <name>HLSLタグが付けられた新着記事 - Qiita</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[【アドオン紹介】Ultimate Blender Addons Bundle – 販売製品を全て網羅したお得過ぎるバンドル！]]></title>
         <id>https://cgbox.jp/?p=61061</id>
         <link href="https://cgbox.jp/2024/11/28/news-addon-ultimate-blender-addons-bundle/"/>
@@ -855,6 +1218,26 @@ The post Dynamic Grass Blenderで物体が草に当たった時に自然な動�
         <summary type="html"><![CDATA[こんばんは！ 今回はアドオンの「Casey_Sheep Ultimate Bundle」を紹介します。 こちらのリンクから購入することができます。 Casey_Sheep Ultimate Bundle 「Casey_S […]]]></summary>
         <author>
             <name>UEDA</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GLSLで七宝文様]]></title>
+        <id>https://zenn.dev/aadebdeb/articles/3f5c0cec132ab8</id>
+        <link href="https://zenn.dev/aadebdeb/articles/3f5c0cec132ab8"/>
+        <updated>2024-11-27T10:13:35.000Z</updated>
+        <summary type="html"><![CDATA[日本の伝統文様の一つに七宝(しっぽう)という正円を規則的に重なるように並べたような文様があります。GLSLを用いて七宝文様を実装します。
+https://ja.wikipedia.org/wiki/七宝紋
+コードはGLSL Sandbox互換になっています。
+precision highp float;
+
+uniform vec2 resolution;
+
+void main( void ) {
+    vec2 p = gl_FragCoord.xy / min(resolution.x, resolution.y);
+    p *= 10.0;
+    p = mod(p, 2.0...]]></summary>
+        <author>
+            <name>Atsushi Asakura</name>
         </author>
     </entry>
     <entry>
@@ -1009,6 +1392,25 @@ The post Houdini 20.5 入門「Welcome to Houdini」(※英語ムービー) firs
 The post Stylized Ecokit – Nature Assets Generator スタイライズド調の合計1100種類を超えるモデル、マテリアル、ジオメトリーノードが入ったBlender用アセットパック first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
         <author>
             <name>modelinghappy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[embree で user geometry + node transform のメモ]]></title>
+        <id>https://zenn.dev/syoyo/articles/442fc4c4ad96f6</id>
+        <link href="https://zenn.dev/syoyo/articles/442fc4c4ad96f6"/>
+        <updated>2024-11-26T14:34:31.000Z</updated>
+        <summary type="html"><![CDATA[https://github.com/RenderKit/embree/blob/master/tutorials/user_geometry/user_geometry_device.cpp
+に例がある.
+
+Bounds
+Intersect(実際に交点を求める)
+Occluded(交点は求めず, 遮蔽されているかどうかだけチェック. shadow ray とか用)
+
+の 3 つの関数を提供してあげる必要がある.
+さらに, Intersect, Occluded では, 内部で Intersection filter function を呼んであげる必要がある.
+(Intersectio...]]></summary>
+        <author>
+            <name>syoyo</name>
         </author>
     </entry>
     <entry>
@@ -1557,6 +1959,29 @@ The post スケッチから最終映像まで。海外ドラマ『ハウス・�
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[オープンスタジオプラットフォームAYONを試す(2)]]></title>
+        <id>https://zenn.dev/h_kishimoto/articles/5aa01b0b0b091d</id>
+        <link href="https://zenn.dev/h_kishimoto/articles/5aa01b0b0b091d"/>
+        <updated>2024-11-20T13:55:30.000Z</updated>
+        <summary type="html"><![CDATA[引き続き、オープンソースのパイプラインプラットフォーム AYON（旧 OpenPype） を使っていきたいと思います。
+前回まででWindows版を設置、起動しました。
+
+ ユーザー登録
+まず管理者ユーザーを登録する画面が現れます。
+
+続いてサーバー設定。ブートストラップ・セットアップを利用すると便利だと案内されます。
+オフラインで利用する場合や諸々を手動でインストールする場合はスキップできますが、そうでない場合はYnput Cloudアカウント登録しましょう。
+
+
+ 設定
+ひとまずStudio settingsページに通されます。
+
+右上のlaunchpad風メニューから設定系ページに...]]></summary>
+        <author>
+            <name>h_kishimoto</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[【アセット紹介】Turbulent – シェーダーで流れるリアルな水を再現！]]></title>
         <id>https://cgbox.jp/?p=60692</id>
         <link href="https://cgbox.jp/2024/11/20/news-asset-turbulent/"/>
@@ -1803,6 +2228,23 @@ The post 3Dアーティストの肖像：Hussain Almossawi 氏 first appeared on
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[MayaでPythonを使ってみよう！②～object操作編～]]></title>
+        <id>https://zenn.dev/kazinos/articles/55494977b2c322</id>
+        <link href="https://zenn.dev/kazinos/articles/55494977b2c322"/>
+        <updated>2024-11-18T22:30:01.000Z</updated>
+        <summary type="html"><![CDATA[こんにちはkazinosです。
+前回「pythonはどこに書けばいいの？」「どうやって実行するの？」という内容にフォーカスした内容の記事を書かせていただきました。
+順を追っていけば、スクリプトエディタの起動方法、一通りの基本的な操作が分かる内容になっていますので気になる方は一度目を通してみてください。
+▼前回の記事「MayaでPythonを使ってみよう！」
+https://zenn.dev/kazinos/articles/e599bffb686678
+前回でスクリプトエディタの使い方は説明したので、今回は「Mayaの機能をPytonで操作する」方法について執筆したいと思います。
+
+ 環...]]></summary>
+        <author>
+            <name>kazinos</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[ストーリーボードやストーリーテリングを学びながら、Blenderを使用してアニメーション短編作品を作るチュートリアル動画がWingfoxで販売開始！]]></title>
         <id>https://modelinghappy.com/?p=60113</id>
         <link href="https://modelinghappy.com/archives/60113"/>
@@ -1811,6 +2253,29 @@ The post 3Dアーティストの肖像：Hussain Almossawi 氏 first appeared on
 The post ストーリーボードやストーリーテリングを学びながら、Blenderを使用してアニメーション短編作品を作るチュートリアル動画がWingfoxで販売開始！ first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
         <author>
             <name>modelinghappy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【Unity】スクリプトからMaterialのEmissionを動的にいじる]]></title>
+        <id>https://zenn.dev/ittonijo/articles/5cd8b1e5c2ce58</id>
+        <link href="https://zenn.dev/ittonijo/articles/5cd8b1e5c2ce58"/>
+        <updated>2024-11-18T13:43:43.000Z</updated>
+        <summary type="html"><![CDATA[シンプルなコード。
+private void UpdateEmission()
+{
+    targetMaterial.EnableKeyword("_EMISSION");
+    targetMaterial.SetColor(EmissionColor, emissionColor * emissionIntensity);
+}
+このメソッドでは2つの重要な処理を行っている。
+
+
+EnableKeyword("_EMISSION")で、シェーダーのEmission機能を有効化
+
+SetColorで発光色と強度を設定
+
+emissionColor * emissionIntensi...]]></summary>
+        <author>
+            <name>一都二城</name>
         </author>
     </entry>
     <entry>
@@ -1851,6 +2316,27 @@ The post ストーリーボードやストーリーテリングを学びなが�
         <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
         <author>
             <name>CGWORLD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Three.jsのShaderでvMapUvの位置を動かしたときに境界がちらつく。]]></title>
+        <id>https://zenn.dev/a_saya_108/articles/19af34c8a7760d</id>
+        <link href="https://zenn.dev/a_saya_108/articles/19af34c8a7760d"/>
+        <updated>2024-11-18T07:40:04.000Z</updated>
+        <summary type="html"><![CDATA[完全備忘録。メモです。
+three.jsのfragmentshaderにて
+vMapUvをuniformのanimationXをもとに横移動させると、境界でちらつきが発生しました。
+コード内容
+<省略>
+vec2 uv = vMapUv;
+uv.x = fract(vMapUv.x + abs(animationX));
+vec4 sampledDiffuseColor = texture2D(map, uv);
+<省略>
+以下の設定で解消しました。
+const texture = new TextureLoader().load(url)
+texture.gen...]]></summary>
+        <author>
+            <name>adachi saya</name>
         </author>
     </entry>
     <entry>
@@ -1904,6 +2390,24 @@ The post ストーリーボードやストーリーテリングを学びなが�
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[オープンスタジオプラットフォームAYONを試す(1)]]></title>
+        <id>https://zenn.dev/h_kishimoto/articles/41e35c46a984b2</id>
+        <link href="https://zenn.dev/h_kishimoto/articles/41e35c46a984b2"/>
+        <updated>2024-11-17T14:59:17.000Z</updated>
+        <summary type="html"><![CDATA[概要
+AYON はYnput(ワイインプット、所在地はプラハ)の開発するオープンソースの制作パイプラインプラットフォームで、かつては OpenPype という名称で提供されていました。Youtubeの講演動画を確認する範囲では読みは「アイオン」のようです。
+
+
+AYON1.0リリース時の記事
+https://ynput.io/blog/introducing-ayon-1-0-on-premise-cloud-platform-for-animation-and-vfx-pipelines/
+有料のクラウド版と、無料のコミュニティ版があります。
+今回はコミュニティ版を使ってみます。
+...]]></summary>
+        <author>
+            <name>h_kishimoto</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[texture-diffusion Blenderでプロンプト入力からモデルにテクスチャを作成出来る無料アドオン]]></title>
         <id>https://modelinghappy.com/?p=60107</id>
         <link href="https://modelinghappy.com/archives/60107"/>
@@ -1926,6 +2430,38 @@ The post 2D Cloud Textures Pack 125種類 長編1024pxのjpeg形式 雲テクス
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[GLSLシェーダーで遊ぼう with SwiftUI × SpriteKit (9) 〜落穂拾い〜]]></title>
+        <id>https://zenn.dev/m4rumaru/articles/8244b7c6e78454</id>
+        <link href="https://zenn.dev/m4rumaru/articles/8244b7c6e78454"/>
+        <updated>2024-11-17T10:12:37.000Z</updated>
+        <summary type="html"><![CDATA[はしがき
+SwiftUIでSpriteKitのSKShaderを使って遊んでみようというテーマの記事の９回目です。
+前回の記事 では、SpriteKitで 3Dコンテンツを表示する方法 を紹介しました。
+今回は、ここまでの記事で書ききれなかった OpenGL ES 2.0とSKShaderのGLSLの差分 について、シェーダーのコードの移植時によくエラーとして遭遇しそうなものを中心にとりあげます。
+!
+iOS 17でシェーダーのコンパイル時に発生するエラーを確認するための覚書
+今回の記事では、『他所のGLSLのコードをSKShaderへ移植したときに発生したエラーを解決したい』という...]]></summary>
+        <author>
+            <name>poteCh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GLSLシェーダーで遊ぼう with SwiftUI × SpriteKit (9) 〜落穂拾い〜]]></title>
+        <id>https://zenn.dev/m4rumaru/articles/8244b7c6e78454</id>
+        <link href="https://zenn.dev/m4rumaru/articles/8244b7c6e78454"/>
+        <updated>2024-11-17T10:12:37.000Z</updated>
+        <summary type="html"><![CDATA[はしがき
+SwiftUIでSpriteKitのSKShaderを使って遊んでみようというテーマの記事の９回目です。
+前回の記事 では、SpriteKitで 3Dコンテンツを表示する方法 を紹介しました。
+今回は、ここまでの記事で書ききれなかった OpenGL ES 2.0とSKShaderのGLSLの差分 について、シェーダーのコードの移植時によくエラーとして遭遇しそうなものを中心にとりあげます。
+!
+iOS 17でシェーダーのコンパイル時に発生するエラーを確認するための覚書
+今回の記事では、『他所のGLSLのコードをSKShaderへ移植したときに発生したエラーを解決したい』という...]]></summary>
+        <author>
+            <name>poteCh</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[【アセット紹介】Node Charts – デザインされたグラフ・チャートのコレクション！]]></title>
         <id>https://cgbox.jp/?p=60592</id>
         <link href="https://cgbox.jp/2024/11/16/news-asset-node-charts/"/>
@@ -1943,6 +2479,24 @@ The post 2D Cloud Textures Pack 125種類 長編1024pxのjpeg形式 雲テクス
         <summary type="html"><![CDATA[Blender Bitsによる、ワンクリックでオブジェクトに炎上エフェクトを付与出来るBlenderアドオン「Fire It!」がリリースされました！]]></summary>
         <author>
             <name>Ymt3D -3dnchu-</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HLSLで初めてのレイマーチング]]></title>
+        <id>https://qiita.com/kusuyun/items/7bf4062af4afedea9ac7</id>
+        <link href="https://qiita.com/kusuyun/items/7bf4062af4afedea9ac7"/>
+        <updated>2024-11-16T06:27:38.000Z</updated>
+        <summary type="html"><![CDATA[2Dなのに立体が描ける！
+
+コード
+学校の課題で作りました
+RaymarchingPS.hlsl
+#include "Common.hlsl"
+
+// 解像度
+static float2 RESOLUT…]]></summary>
+        <author>
+            <name>HLSLタグが付けられた新着記事 - Qiita</name>
         </author>
     </entry>
     <entry>
@@ -2099,6 +2653,24 @@ The post IKurve 手動で作成したカーブ上に均等にボーンを自動�
         <summary type="html"><![CDATA[こんばんは！ 今回はアドオンの「Lazy Panel Generator」を紹介します。 こちらのリンクから購入することができます。 Lazy Panel Generator 「Lazy Panel Generator」 […]]]></summary>
         <author>
             <name>UEDA</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GLSLで17の平面繰り返しパターン]]></title>
+        <id>https://zenn.dev/aadebdeb/articles/363d6157d23e13</id>
+        <link href="https://zenn.dev/aadebdeb/articles/363d6157d23e13"/>
+        <updated>2024-11-14T06:39:24.000Z</updated>
+        <summary type="html"><![CDATA[二次元平面上に展開する繰り返しパターンは17のタイプに分類できると言われています。この記事ではGLSLを用いてシェーダーで17の繰り返しパターンをそれぞれ実装をしていきます。
+
+ 17の平面繰り返しパターン
+
+ p1 (単純な並進)
+vec2 patternP1(vec2 p, vec2 motifSize, float offset) {
+    vec2 q = vec2(
+        mod(p.x - motifSize.x * floor(p.y / motifSize.y) * offset, motifSize.x),
+        mod(p.y, motifSiz...]]></summary>
+        <author>
+            <name>Atsushi Asakura</name>
         </author>
     </entry>
     <entry>
@@ -2263,6 +2835,22 @@ The post 3ds Max ＆ Flow Retopology、リトポロジの秘訣（※英語ム�
         <summary type="html"><![CDATA[2024年11月13日（日本時間）Epic Gamesによるコンテンツ開発エンジン最新アップデート『Unreal Engine 5.5』が正式リリースされました！]]></summary>
         <author>
             <name>Ymt3D -3dnchu-</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenGLで3Dキューブにテクスチャを適用し回転させる方法]]></title>
+        <id>https://zenn.dev/navigation_surg/articles/c239f419c4bf02</id>
+        <link href="https://zenn.dev/navigation_surg/articles/c239f419c4bf02"/>
+        <updated>2024-11-12T14:22:52.000Z</updated>
+        <summary type="html"><![CDATA[###本記事では、C++とOpenGLを使って3Dキューブにテクスチャを貼り付け、カメラを通してキューブが回転する様子を実現するプログラムを紹介します。ここではGLFWとGLEWを利用してOpenGLの設定を行い、シェーダープログラムによって3Dキューブの描画を実装しています。
+
+ 1. 必要なヘッダーのインクルード
+
+ このコードでは、OpenGLの基本機能に加え、GLFW、GLEW、GLMとstb_imageを使います。これにより、ウィンドウ生成、座標変換、テクスチャの読み込みが可能です。
+#include <iostream>
+#include <sstream&...]]></summary>
+        <author>
+            <name>拡張現実を使った手術ナビゲーションを研究する-路傍のいし‐</name>
         </author>
     </entry>
     <entry>
@@ -2465,6 +3053,30 @@ The post イラストをドット絵に!? Red Giant Universe でピクセルア�
         <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
         <author>
             <name>CGWORLD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MapLibre GL JSとWebGLでラスタータイルを動的に加工してみる]]></title>
+        <id>https://qiita.com/satoshi7190/items/9ae4d99601eb67880188</id>
+        <link href="https://qiita.com/satoshi7190/items/9ae4d99601eb67880188"/>
+        <updated>2024-11-10T15:04:59.000Z</updated>
+        <summary type="html"><![CDATA[DEMOサイト はこちら
+https://forestacdev.github.io/maplibre-terrain-visualizer/
+ソースコードはこちら
+https://github.…]]></summary>
+        <author>
+            <name>GLSLタグが付けられた新着記事 - Qiita</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Power Pointで3Dモデルを専用ソフトウェアなしで表示させたい！]]></title>
+        <id>https://qiita.com/ajinadai/items/d707e3c573e079ae546b</id>
+        <link href="https://qiita.com/ajinadai/items/d707e3c573e079ae546b"/>
+        <updated>2024-11-10T13:28:16.000Z</updated>
+        <summary type="html"><![CDATA[これは、とある金融機関（PCセキュリティがちがち、ソフトウェアインストール一切不可、装備はOffice365とメモ帳、インターネット接続に著しい制限）で戦うサラリーマンの物語である。
+Power P…]]></summary>
+        <author>
+            <name>3DCGタグが付けられた新着記事 - Qiita</name>
         </author>
     </entry>
     <entry>
@@ -2718,36 +3330,6 @@ The post プリビズ、テックビズ、ポストビズ..。マーベル映画
 The post Cinema4D と Redshift で世界を再構築：Sekani Solomon氏（NABshow 2024 講演映像） first appeared on 3dtotal 日本語オフィシャルサイト.]]></summary>
         <author>
             <name>3dtotal管理人T</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[会場限定！若杉遼氏によるレイアウトの基礎講座『CGレイアウトの教科書』が12月27日に開催 - ニュース]]></title>
-        <id>https://cgworld.jp/flashnews/2412-plusone-wakasugi.html</id>
-        <link href="https://cgworld.jp/flashnews/2412-plusone-wakasugi.html"/>
-        <updated>2024-11-07T01:29:43.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[カナバングラフィックスが生み出した不気味で可愛い人形たちの世界『ARNOLD & PUPPETS』（1）～スペシャルインタビュー篇 - 特集]]></title>
-        <id>https://cgworld.jp/article/241015-arnoldpuppets01.html</id>
-        <link href="https://cgworld.jp/article/241015-arnoldpuppets01.html"/>
-        <updated>2024-11-07T01:17:17.000Z</updated>
-        <summary type="html"><![CDATA[『ARNOLD & PUPPETS』のメイキング紹介。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[オートデスク、Video to 3DのAIソリューション「Wonder Animation」ベータ版リリース！　Wonder Studioの有料プランユーザーが利用可能に - ニュース]]></title>
-        <id>https://cgworld.jp/flashnews/202411-WonderAnimation.html</id>
-        <link href="https://cgworld.jp/flashnews/202411-WonderAnimation.html"/>
-        <updated>2024-11-07T00:23:21.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
         </author>
     </entry>
 </feed>

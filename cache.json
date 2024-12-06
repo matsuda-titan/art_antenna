@@ -2158,36 +2158,6 @@
           "wordCount": 671,
           "title": "Reallusion「2024 アニメーション・アット・ワーク・コンテスト」開催！－応募締切は2025年01月08日(水) 16:59 - ニュース",
           "imageUrl": "https://cgworld.jp/flashnews/assets_c/2024/11/2411_animation_work_main-thumb-1000x561-61742.jpg"
-        },
-        {
-          "id": "https://cgworld.jp/flashnews/2412-plusone-wakasugi.html",
-          "author": null,
-          "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
-          "link": "https://cgworld.jp/flashnews/2412-plusone-wakasugi.html",
-          "publishedOn": "2024-11-07T01:29:43.000Z",
-          "wordCount": 675,
-          "title": "会場限定！若杉遼氏によるレイアウトの基礎講座『CGレイアウトの教科書』が12月27日に開催 - ニュース",
-          "imageUrl": "https://cgworld.jp/flashnews/assets_c/2024/11/bf0a31252a9d5d00491e368986198c3b8654697d-thumb-1920x1080-61709.png"
-        },
-        {
-          "id": "https://cgworld.jp/article/241015-arnoldpuppets01.html",
-          "author": null,
-          "description": "『ARNOLD & PUPPETS』のメイキング紹介。",
-          "link": "https://cgworld.jp/article/241015-arnoldpuppets01.html",
-          "publishedOn": "2024-11-07T01:17:17.000Z",
-          "wordCount": 718,
-          "title": "カナバングラフィックスが生み出した不気味で可愛い人形たちの世界『ARNOLD & PUPPETS』（1）～スペシャルインタビュー篇 - 特集",
-          "imageUrl": "https://cgworld.jp/article/assets_c/2024/10/1ce111c6cb56b600f38155063dccd7ec0b396473-thumb-1000x562-60771.jpg"
-        },
-        {
-          "id": "https://cgworld.jp/flashnews/202411-WonderAnimation.html",
-          "author": null,
-          "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
-          "link": "https://cgworld.jp/flashnews/202411-WonderAnimation.html",
-          "publishedOn": "2024-11-07T00:23:21.000Z",
-          "wordCount": 1010,
-          "title": "オートデスク、Video to 3DのAIソリューション「Wonder Animation」ベータ版リリース！　Wonder Studioの有料プランユーザーが利用可能に - ニュース",
-          "imageUrl": "https://cgworld.jp/flashnews/assets_c/2024/11/Autodesk_WonderAnim-01-thumb-1280x720-61699.jpg"
         }
       ]
     },
@@ -3163,6 +3133,632 @@
           "wordCount": 594,
           "title": "Cinema4D と Redshift で世界を再構築：Sekani Solomon氏（NABshow 2024 講演映像）",
           "imageUrl": "https://3dtotal.jp/wp-content/uploads/2024/11/ssolomon_nabshow24.jpg"
+        }
+      ]
+    },
+    {
+      "title": "Zennの「shader」のフィード",
+      "feedUrl": "https://zenn.dev/topics/shader/feed",
+      "siteUrl": "https://zenn.dev/topics/shader",
+      "articles": [
+        {
+          "id": "https://zenn.dev/ittonijo/articles/5cd8b1e5c2ce58",
+          "author": "一都二城",
+          "description": "シンプルなコード。\nprivate void UpdateEmission()\n{\n    targetMaterial.EnableKeyword(\"_EMISSION\");\n    targetMaterial.SetColor(EmissionColor, emissionColor * emissionIntensity);\n}\nこのメソッドでは2つの重要な処理を行っている。\n\n\nEnableKeyword(\"_EMISSION\")で、シェーダーのEmission機能を有効化\n\nSetColorで発光色と強度を設定\n\nemissionColor * emissionIntensi...",
+          "link": "https://zenn.dev/ittonijo/articles/5cd8b1e5c2ce58",
+          "publishedOn": "2024-11-18T13:43:43.000Z",
+          "wordCount": 188,
+          "title": "【Unity】スクリプトからMaterialのEmissionを動的にいじる",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--O0Et_skG--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2580%2590Unity%25E3%2580%2591%25E3%2582%25B9%25E3%2582%25AF%25E3%2583%25AA%25E3%2583%2597%25E3%2583%2588%25E3%2581%258B%25E3%2582%2589Material%25E3%2581%25AEEmission%25E3%2582%2592%25E5%258B%2595%25E7%259A%2584%25E3%2581%25AB%25E3%2581%2584%25E3%2581%2598%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E4%25B8%2580%25E9%2583%25BD%25E4%25BA%258C%25E5%259F%258E%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzQ3OWEyYTQ4ZDAuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png",
+            "length": "0",
+            "type": "image/png"
+          },
+          "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--O0Et_skG--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2580%2590Unity%25E3%2580%2591%25E3%2582%25B9%25E3%2582%25AF%25E3%2583%25AA%25E3%2583%2597%25E3%2583%2588%25E3%2581%258B%25E3%2582%2589Material%25E3%2581%25AEEmission%25E3%2582%2592%25E5%258B%2595%25E7%259A%2584%25E3%2581%25AB%25E3%2581%2584%25E3%2581%2598%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E4%25B8%2580%25E9%2583%25BD%25E4%25BA%258C%25E5%259F%258E%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzQ3OWEyYTQ4ZDAuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
+        },
+        {
+          "id": "https://zenn.dev/a_saya_108/articles/19af34c8a7760d",
+          "author": "adachi saya",
+          "description": "完全備忘録。メモです。\nthree.jsのfragmentshaderにて\nvMapUvをuniformのanimationXをもとに横移動させると、境界でちらつきが発生しました。\nコード内容\n<省略>\nvec2 uv = vMapUv;\nuv.x = fract(vMapUv.x + abs(animationX));\nvec4 sampledDiffuseColor = texture2D(map, uv);\n<省略>\n以下の設定で解消しました。\nconst texture = new TextureLoader().load(url)\ntexture.gen...",
+          "link": "https://zenn.dev/a_saya_108/articles/19af34c8a7760d",
+          "publishedOn": "2024-11-18T07:40:04.000Z",
+          "wordCount": 174,
+          "title": "Three.jsのShaderでvMapUvの位置を動かしたときに境界がちらつく。",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--kxiPHQiu--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Three.js%25E3%2581%25AEShader%25E3%2581%25A7vMapUv%25E3%2581%25AE%25E4%25BD%258D%25E7%25BD%25AE%25E3%2582%2592%25E5%258B%2595%25E3%2581%258B%25E3%2581%2597%25E3%2581%259F%25E3%2581%25A8%25E3%2581%258D%25E3%2581%25AB%25E5%25A2%2583%25E7%2595%258C%25E3%2581%258C%25E3%2581%25A1%25E3%2582%2589%25E3%2581%25A4%25E3%2581%258F%25E3%2580%2582%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:adachi%2520saya%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzU2ZGYyZTcxZGQuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png",
+            "length": "0",
+            "type": "image/png"
+          },
+          "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--kxiPHQiu--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Three.js%25E3%2581%25AEShader%25E3%2581%25A7vMapUv%25E3%2581%25AE%25E4%25BD%258D%25E7%25BD%25AE%25E3%2582%2592%25E5%258B%2595%25E3%2581%258B%25E3%2581%2597%25E3%2581%259F%25E3%2581%25A8%25E3%2581%258D%25E3%2581%25AB%25E5%25A2%2583%25E7%2595%258C%25E3%2581%258C%25E3%2581%25A1%25E3%2582%2589%25E3%2581%25A4%25E3%2581%258F%25E3%2580%2582%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:adachi%2520saya%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzU2ZGYyZTcxZGQuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
+        },
+        {
+          "id": "https://zenn.dev/m4rumaru/articles/8244b7c6e78454",
+          "author": "poteCh",
+          "description": "はしがき\nSwiftUIでSpriteKitのSKShaderを使って遊んでみようというテーマの記事の９回目です。\n前回の記事 では、SpriteKitで 3Dコンテンツを表示する方法 を紹介しました。\n今回は、ここまでの記事で書ききれなかった OpenGL ES 2.0とSKShaderのGLSLの差分 について、シェーダーのコードの移植時によくエラーとして遭遇しそうなものを中心にとりあげます。\n!\niOS 17でシェーダーのコンパイル時に発生するエラーを確認するための覚書\n今回の記事では、『他所のGLSLのコードをSKShaderへ移植したときに発生したエラーを解決したい』という...",
+          "link": "https://zenn.dev/m4rumaru/articles/8244b7c6e78454",
+          "publishedOn": "2024-11-17T10:12:37.000Z",
+          "wordCount": 12522,
+          "title": "GLSLシェーダーで遊ぼう with SwiftUI × SpriteKit (9) 〜落穂拾い〜",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--zhwGfmwi--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:GLSL%25E3%2582%25B7%25E3%2582%25A7%25E3%2583%25BC%25E3%2583%2580%25E3%2583%25BC%25E3%2581%25A7%25E9%2581%258A%25E3%2581%25BC%25E3%2581%2586%2520with%2520SwiftUI%2520%25C3%2597%2520SpriteKit%2520%25289%2529%2520%25E3%2580%259C%25E8%2590%25BD%25E7%25A9%2582%25E6%258B%25BE%25E3%2581%2584%25E3%2580%259C%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:poteCh%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzU5ZmVlODRkYTkuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png",
+            "length": "0",
+            "type": "image/png"
+          },
+          "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--zhwGfmwi--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:GLSL%25E3%2582%25B7%25E3%2582%25A7%25E3%2583%25BC%25E3%2583%2580%25E3%2583%25BC%25E3%2581%25A7%25E9%2581%258A%25E3%2581%25BC%25E3%2581%2586%2520with%2520SwiftUI%2520%25C3%2597%2520SpriteKit%2520%25289%2529%2520%25E3%2580%259C%25E8%2590%25BD%25E7%25A9%2582%25E6%258B%25BE%25E3%2581%2584%25E3%2580%259C%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:poteCh%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzU5ZmVlODRkYTkuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
+        },
+        {
+          "id": "https://zenn.dev/navigation_surg/articles/c239f419c4bf02",
+          "author": "拡張現実を使った手術ナビゲーションを研究する-路傍のいし‐",
+          "description": "###本記事では、C++とOpenGLを使って3Dキューブにテクスチャを貼り付け、カメラを通してキューブが回転する様子を実現するプログラムを紹介します。ここではGLFWとGLEWを利用してOpenGLの設定を行い、シェーダープログラムによって3Dキューブの描画を実装しています。\n\n 1. 必要なヘッダーのインクルード\n\n このコードでは、OpenGLの基本機能に加え、GLFW、GLEW、GLMとstb_imageを使います。これにより、ウィンドウ生成、座標変換、テクスチャの読み込みが可能です。\n#include <iostream>\n#include <sstream&...",
+          "link": "https://zenn.dev/navigation_surg/articles/c239f419c4bf02",
+          "publishedOn": "2024-11-12T14:22:52.000Z",
+          "wordCount": 2173,
+          "title": "OpenGLで3Dキューブにテクスチャを適用し回転させる方法",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--U4GLTYTH--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:OpenGL%25E3%2581%25A73D%25E3%2582%25AD%25E3%2583%25A5%25E3%2583%25BC%25E3%2583%2596%25E3%2581%25AB%25E3%2583%2586%25E3%2582%25AF%25E3%2582%25B9%25E3%2583%2581%25E3%2583%25A3%25E3%2582%2592%25E9%2581%25A9%25E7%2594%25A8%25E3%2581%2597%25E5%259B%259E%25E8%25BB%25A2%25E3%2581%2595%25E3%2581%259B%25E3%2582%258B%25E6%2596%25B9%25E6%25B3%2595%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E6%258B%25A1%25E5%25BC%25B5%25E7%258F%25BE%25E5%25AE%259F%25E3%2582%2592%25E4%25BD%25BF%25E3%2581%25A3%25E3%2581%259F%25E6%2589%258B%25E8%25A1%2593%25E3%2583%258A%25E3%2583%2593%25E3%2582%25B2%25E3%2583%25BC%25E3%2582%25B7%25E3%2583%25A7%25E3%2583%25B3%25E3%2582%2592...%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2ZlMWI0MGM1NDcuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png",
+            "length": "0",
+            "type": "image/png"
+          },
+          "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--U4GLTYTH--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:OpenGL%25E3%2581%25A73D%25E3%2582%25AD%25E3%2583%25A5%25E3%2583%25BC%25E3%2583%2596%25E3%2581%25AB%25E3%2583%2586%25E3%2582%25AF%25E3%2582%25B9%25E3%2583%2581%25E3%2583%25A3%25E3%2582%2592%25E9%2581%25A9%25E7%2594%25A8%25E3%2581%2597%25E5%259B%259E%25E8%25BB%25A2%25E3%2581%2595%25E3%2581%259B%25E3%2582%258B%25E6%2596%25B9%25E6%25B3%2595%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E6%258B%25A1%25E5%25BC%25B5%25E7%258F%25BE%25E5%25AE%259F%25E3%2582%2592%25E4%25BD%25BF%25E3%2581%25A3%25E3%2581%259F%25E6%2589%258B%25E8%25A1%2593%25E3%2583%258A%25E3%2583%2593%25E3%2582%25B2%25E3%2583%25BC%25E3%2582%25B7%25E3%2583%25A7%25E3%2583%25B3%25E3%2582%2592...%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2ZlMWI0MGM1NDcuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
+        }
+      ]
+    },
+    {
+      "title": "Zennの「graphics」のフィード",
+      "feedUrl": "https://zenn.dev/topics/graphics/feed",
+      "siteUrl": "https://zenn.dev/topics/graphics",
+      "articles": []
+    },
+    {
+      "title": "Zennの「Shader Graph」のフィード",
+      "feedUrl": "https://zenn.dev/topics/shadergraph/feed",
+      "siteUrl": "https://zenn.dev/topics/shadergraph",
+      "articles": []
+    },
+    {
+      "title": "Zennの「Houdini」のフィード",
+      "feedUrl": "https://zenn.dev/topics/houdini/feed",
+      "siteUrl": "https://zenn.dev/topics/houdini",
+      "articles": [
+        {
+          "id": "https://zenn.dev/kickbase/articles/9d003c9ce0e66c",
+          "author": "めんたいこ",
+          "description": "もうアドベントカレンダーの季節とか嘘でしょう…？\n気を取り直して皆さんいかがお過ごしでしょう。僕は今年もHoudini三昧の毎日でした。\n今回はFontSOPに機能追加を施す方法についてお話をしたいと思います。\n本記事はHoudini Apprentice アドベントカレンダー2024 1日目の記事です。Apprenticeということでできるだけシンプルな題材を取り上げ、コードについても手厚めに解説しています。\nちなみに今回から技術ブログはZennに移行しました！よろしくお願いします。\n\n データ配布\nHDAダウンロード\n\n ツール制作の背景とその特徴\nFontSOPはテストジオメトリの...",
+          "link": "https://zenn.dev/kickbase/articles/9d003c9ce0e66c",
+          "publishedOn": "2024-12-01T10:00:01.000Z",
+          "wordCount": 925,
+          "title": "Houdini: FontSOP機能追加 - はじめてのPython",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--yhjn2Sw_--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Houdini%253A%2520FontSOP%25E6%25A9%259F%25E8%2583%25BD%25E8%25BF%25BD%25E5%258A%25A0%2520-%2520%25E3%2581%25AF%25E3%2581%2598%25E3%2582%2581%25E3%2581%25A6%25E3%2581%25AEPython%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2582%2581%25E3%2582%2593%25E3%2581%259F%25E3%2581%2584%25E3%2581%2593%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2pvTlNrRXEtOVdEUlNaa2dKcFBxeFlFZGpZTm5TcGl3SzFUeXZOPXMyNTAtYw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png",
+            "length": "0",
+            "type": "image/png"
+          },
+          "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--yhjn2Sw_--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Houdini%253A%2520FontSOP%25E6%25A9%259F%25E8%2583%25BD%25E8%25BF%25BD%25E5%258A%25A0%2520-%2520%25E3%2581%25AF%25E3%2581%2598%25E3%2582%2581%25E3%2581%25A6%25E3%2581%25AEPython%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2582%2581%25E3%2582%2593%25E3%2581%259F%25E3%2581%2584%25E3%2581%2593%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2pvTlNrRXEtOVdEUlNaa2dKcFBxeFlFZGpZTm5TcGl3SzFUeXZOPXMyNTAtYw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
+        }
+      ]
+    },
+    {
+      "title": "Zennの「3DCG」のフィード",
+      "feedUrl": "https://zenn.dev/topics/3dcg/feed",
+      "siteUrl": "https://zenn.dev/topics/3dcg",
+      "articles": [
+        {
+          "id": "https://zenn.dev/ryu_takatsukasa/articles/3685c7130cd54e",
+          "author": "鷹司龍",
+          "description": "Unreal Engine（UE）は、ゲーム開発やアプリケーション制作において非常に強力なツールですが、多くの初心者が「難しい」と感じることが少なくありません。\n実際、私もUnreal Engineに触れたときは秒で挫折しました。\n理由としては以下です。\n!\n\n操作性に慣れない\n公式のチュートリアルが意味不明\n何から進めていくのか分からない\n\n\nUnreal Engineはコードなしでゲームを作成できるツールであるので、\n始める前に「自分でも簡単にできるかも」って期待しちゃうんですね。\nそれで、短期間で使いこなせるようになるだろうと、タカをくくった結果、\n想像をはるかに超える難しさで、...",
+          "link": "https://zenn.dev/ryu_takatsukasa/articles/3685c7130cd54e",
+          "publishedOn": "2024-12-05T13:16:54.000Z",
+          "wordCount": null,
+          "title": "Unreal Engineが難しいと感じるあなたへ：初心者でもわかる克服ガイド",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--_4eya9xk--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Unreal%2520Engine%25E3%2581%258C%25E9%259B%25A3%25E3%2581%2597%25E3%2581%2584%25E3%2581%25A8%25E6%2584%259F%25E3%2581%2598%25E3%2582%258B%25E3%2581%2582%25E3%2581%25AA%25E3%2581%259F%25E3%2581%25B8%25EF%25BC%259A%25E5%2588%259D%25E5%25BF%2583%25E8%2580%2585%25E3%2581%25A7%25E3%2582%2582%25E3%2582%258F%25E3%2581%258B%25E3%2582%258B%25E5%2585%258B%25E6%259C%258D%25E3%2582%25AC%25E3%2582%25A4%25E3%2583%2589%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E9%25B7%25B9%25E5%258F%25B8%25E9%25BE%258D%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzNjMWVhZDc3MDcuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png",
+            "length": "0",
+            "type": "image/png"
+          },
+          "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--_4eya9xk--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Unreal%2520Engine%25E3%2581%258C%25E9%259B%25A3%25E3%2581%2597%25E3%2581%2584%25E3%2581%25A8%25E6%2584%259F%25E3%2581%2598%25E3%2582%258B%25E3%2581%2582%25E3%2581%25AA%25E3%2581%259F%25E3%2581%25B8%25EF%25BC%259A%25E5%2588%259D%25E5%25BF%2583%25E8%2580%2585%25E3%2581%25A7%25E3%2582%2582%25E3%2582%258F%25E3%2581%258B%25E3%2582%258B%25E5%2585%258B%25E6%259C%258D%25E3%2582%25AC%25E3%2582%25A4%25E3%2583%2589%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E9%25B7%25B9%25E5%258F%25B8%25E9%25BE%258D%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzNjMWVhZDc3MDcuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
+        },
+        {
+          "id": "https://zenn.dev/h_kishimoto/articles/5aa01b0b0b091d",
+          "author": "h_kishimoto",
+          "description": "引き続き、オープンソースのパイプラインプラットフォーム AYON（旧 OpenPype） を使っていきたいと思います。\n前回まででWindows版を設置、起動しました。\n\n ユーザー登録\nまず管理者ユーザーを登録する画面が現れます。\n\n続いてサーバー設定。ブートストラップ・セットアップを利用すると便利だと案内されます。\nオフラインで利用する場合や諸々を手動でインストールする場合はスキップできますが、そうでない場合はYnput Cloudアカウント登録しましょう。\n\n\n 設定\nひとまずStudio settingsページに通されます。\n\n右上のlaunchpad風メニューから設定系ページに...",
+          "link": "https://zenn.dev/h_kishimoto/articles/5aa01b0b0b091d",
+          "publishedOn": "2024-11-20T13:55:30.000Z",
+          "wordCount": null,
+          "title": "オープンスタジオプラットフォームAYONを試す(2)",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--8K14KmnD--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2582%25AA%25E3%2583%25BC%25E3%2583%2597%25E3%2583%25B3%25E3%2582%25B9%25E3%2582%25BF%25E3%2582%25B8%25E3%2582%25AA%25E3%2583%2597%25E3%2583%25A9%25E3%2583%2583%25E3%2583%2588%25E3%2583%2595%25E3%2582%25A9%25E3%2583%25BC%25E3%2583%25A0AYON%25E3%2582%2592%25E8%25A9%25A6%25E3%2581%2599%25282%2529%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:h_kishimoto%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUFUWEFKemNZZE9FRk44LU56YWc2ekdNQTltMXNQVzItVFBjNEhoVTg1cmU9czk2LWM=%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png",
+            "length": "0",
+            "type": "image/png"
+          },
+          "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--8K14KmnD--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2582%25AA%25E3%2583%25BC%25E3%2583%2597%25E3%2583%25B3%25E3%2582%25B9%25E3%2582%25BF%25E3%2582%25B8%25E3%2582%25AA%25E3%2583%2597%25E3%2583%25A9%25E3%2583%2583%25E3%2583%2588%25E3%2583%2595%25E3%2582%25A9%25E3%2583%25BC%25E3%2583%25A0AYON%25E3%2582%2592%25E8%25A9%25A6%25E3%2581%2599%25282%2529%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:h_kishimoto%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUFUWEFKemNZZE9FRk44LU56YWc2ekdNQTltMXNQVzItVFBjNEhoVTg1cmU9czk2LWM=%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
+        },
+        {
+          "id": "https://zenn.dev/h_kishimoto/articles/41e35c46a984b2",
+          "author": "h_kishimoto",
+          "description": "概要\nAYON はYnput(ワイインプット、所在地はプラハ)の開発するオープンソースの制作パイプラインプラットフォームで、かつては OpenPype という名称で提供されていました。Youtubeの講演動画を確認する範囲では読みは「アイオン」のようです。\n\n\nAYON1.0リリース時の記事\nhttps://ynput.io/blog/introducing-ayon-1-0-on-premise-cloud-platform-for-animation-and-vfx-pipelines/\n有料のクラウド版と、無料のコミュニティ版があります。\n今回はコミュニティ版を使ってみます。\n...",
+          "link": "https://zenn.dev/h_kishimoto/articles/41e35c46a984b2",
+          "publishedOn": "2024-11-17T14:59:17.000Z",
+          "wordCount": null,
+          "title": "オープンスタジオプラットフォームAYONを試す(1)",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--C5ZFlj57--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2582%25AA%25E3%2583%25BC%25E3%2583%2597%25E3%2583%25B3%25E3%2582%25B9%25E3%2582%25BF%25E3%2582%25B8%25E3%2582%25AA%25E3%2583%2597%25E3%2583%25A9%25E3%2583%2583%25E3%2583%2588%25E3%2583%2595%25E3%2582%25A9%25E3%2583%25BC%25E3%2583%25A0AYON%25E3%2582%2592%25E8%25A9%25A6%25E3%2581%2599%25281%2529%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:h_kishimoto%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUFUWEFKemNZZE9FRk44LU56YWc2ekdNQTltMXNQVzItVFBjNEhoVTg1cmU9czk2LWM=%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png",
+            "length": "0",
+            "type": "image/png"
+          },
+          "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--C5ZFlj57--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2582%25AA%25E3%2583%25BC%25E3%2583%2597%25E3%2583%25B3%25E3%2582%25B9%25E3%2582%25BF%25E3%2582%25B8%25E3%2582%25AA%25E3%2583%2597%25E3%2583%25A9%25E3%2583%2583%25E3%2583%2588%25E3%2583%2595%25E3%2582%25A9%25E3%2583%25BC%25E3%2583%25A0AYON%25E3%2582%2592%25E8%25A9%25A6%25E3%2581%2599%25281%2529%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:h_kishimoto%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUFUWEFKemNZZE9FRk44LU56YWc2ekdNQTltMXNQVzItVFBjNEhoVTg1cmU9czk2LWM=%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
+        }
+      ]
+    },
+    {
+      "title": "Zennの「maya」のフィード",
+      "feedUrl": "https://zenn.dev/topics/maya/feed",
+      "siteUrl": "https://zenn.dev/topics/maya",
+      "articles": [
+        {
+          "id": "https://zenn.dev/kazinos/articles/55494977b2c322",
+          "author": "kazinos",
+          "description": "こんにちはkazinosです。\n前回「pythonはどこに書けばいいの？」「どうやって実行するの？」という内容にフォーカスした内容の記事を書かせていただきました。\n順を追っていけば、スクリプトエディタの起動方法、一通りの基本的な操作が分かる内容になっていますので気になる方は一度目を通してみてください。\n▼前回の記事「MayaでPythonを使ってみよう！」\nhttps://zenn.dev/kazinos/articles/e599bffb686678\n前回でスクリプトエディタの使い方は説明したので、今回は「Mayaの機能をPytonで操作する」方法について執筆したいと思います。\n\n 環...",
+          "link": "https://zenn.dev/kazinos/articles/55494977b2c322",
+          "publishedOn": "2024-11-18T22:30:01.000Z",
+          "wordCount": 713,
+          "title": "MayaでPythonを使ってみよう！②～object操作編～",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--3trYnRvG--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Maya%25E3%2581%25A7Python%25E3%2582%2592%25E4%25BD%25BF%25E3%2581%25A3%25E3%2581%25A6%25E3%2581%25BF%25E3%2582%2588%25E3%2581%2586%25EF%25BC%2581%25E2%2591%25A1%25EF%25BD%259Eobject%25E6%2593%258D%25E4%25BD%259C%25E7%25B7%25A8%25EF%25BD%259E%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:kazinos%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzRmODg3NjQ3YTYuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png",
+            "length": "0",
+            "type": "image/png"
+          },
+          "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--3trYnRvG--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Maya%25E3%2581%25A7Python%25E3%2582%2592%25E4%25BD%25BF%25E3%2581%25A3%25E3%2581%25A6%25E3%2581%25BF%25E3%2582%2588%25E3%2581%2586%25EF%25BC%2581%25E2%2591%25A1%25EF%25BD%259Eobject%25E6%2593%258D%25E4%25BD%259C%25E7%25B7%25A8%25EF%25BD%259E%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:kazinos%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzRmODg3NjQ3YTYuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
+        }
+      ]
+    },
+    {
+      "title": "Zennの「usd」のフィード",
+      "feedUrl": "https://zenn.dev/topics/usd/feed",
+      "siteUrl": "https://zenn.dev/topics/usd",
+      "articles": []
+    },
+    {
+      "title": "mayaタグが付けられた新着記事 - Qiita",
+      "feedUrl": "https://qiita.com/tags/maya/feed",
+      "siteUrl": "https://qiita.com",
+      "articles": [
+        {
+          "id": "https://qiita.com/9boz/items/e1408dccdc3c768df77e",
+          "author": null,
+          "description": "https://qiita.com/9boz/private/a278945f2d95329814d0\nさてアニメーションは書き出せたので、コンストレインも書き出したいですね。\nコンストレインが書き…",
+          "link": "https://qiita.com/9boz/items/e1408dccdc3c768df77e",
+          "publishedOn": "2024-12-05T22:03:12.000Z",
+          "wordCount": 2099,
+          "title": "editMAでコンストレインを書き出す",
+          "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Fadvent-calendar-ogp-background-7940cd1c8db80a7ec40711d90f43539e.jpg%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnBicy50d2ltZy5jb20lMkZwcm9maWxlX2ltYWdlcyUyRjUzNzk1NjE0OTcwNjc3MjQ4MCUyRkZCUmk0WUVPX2JpZ2dlci5wbmc_aXhsaWI9cmItNC4wLjAmYXI9MSUzQTEmZml0PWNyb3AmbWFzaz1lbGxpcHNlJmZtPXBuZzMyJnM9MDRlNDY0Y2MzZTYzYmUyMDM3NzA4OTRkMGU3NWU3ODc%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D391669ea7aa95c16bf1e7b65a2c74f6b?ixlib=rb-4.0.0&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9ZWRpdE1BJUUzJTgxJUE3JUUzJTgyJUIzJUUzJTgzJUIzJUUzJTgyJUI5JUUzJTgzJTg4JUUzJTgzJUFDJUUzJTgyJUE0JUUzJTgzJUIzJUUzJTgyJTkyJUU2JTlCJUI4JUUzJTgxJThEJUU1JTg3JUJBJUUzJTgxJTk5JnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMzQTNDM0MmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9YzVmMDY4MzhlNDgzYmMzYTZlMDRjYmE4MDU3Y2ViMWI&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDA5Ym96JnR4dC1jb2xvcj0lMjMzQTNDM0MmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9MzZlY2M2NjU5OWE5M2Y5Mzg2MGExZGZlZjkxZDllY2U&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=7ef9bccbb9fd0bc5a74a1617047b9e2c"
+        },
+        {
+          "id": "https://qiita.com/GACCHI_3DCG/items/3b9248c1bc1aa5e70a36",
+          "author": null,
+          "description": "挨拶\nどうも、GACCHIです。\n普段はXやYoutubeなどでリギングをメインに発信させていただいています。\nはじめてQiitaに投稿するのですが、今回はmGearのカスタムステップについて、まだ…",
+          "link": "https://qiita.com/GACCHI_3DCG/items/3b9248c1bc1aa5e70a36",
+          "publishedOn": "2024-12-04T22:34:11.000Z",
+          "wordCount": 968,
+          "title": "はじめてのｍGearカスタムステップ",
+          "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Fadvent-calendar-ogp-background-7940cd1c8db80a7ec40711d90f43539e.jpg%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnBicy50d2ltZy5jb20lMkZwcm9maWxlX2ltYWdlcyUyRjE1NzcyODkyODg2NjgzMTU2NDglMkZVcFRKOVl4Ul9iaWdnZXIuanBnP2l4bGliPXJiLTQuMC4wJmFyPTElM0ExJmZpdD1jcm9wJm1hc2s9ZWxsaXBzZSZmbT1wbmczMiZzPWI2ZWU5YzliOTc2ZjNmMzE3YWMzZjRkZmE1ZDg5NGEz%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D995b2df7832f1618ef0ffcfd1a7fec1c?ixlib=rb-4.0.0&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9JUUzJTgxJUFGJUUzJTgxJTk4JUUzJTgyJTgxJUUzJTgxJUE2JUUzJTgxJUFFJUVGJUJEJThER2VhciVFMyU4MiVBQiVFMyU4MiVCOSVFMyU4MiVCRiVFMyU4MyVBMCVFMyU4MiVCOSVFMyU4MyU4NiVFMyU4MyU4MyVFMyU4MyU5NyZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZ0eHQtY29sb3I9JTIzM0EzQzNDJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnR4dC1wYWQ9MCZzPWVkZmE2YjIzYjg2YzBhYmU5YjFlOWQzZDNhNDE0MTky&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBHQUNDSElfM0RDRyZ0eHQtY29sb3I9JTIzM0EzQzNDJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPTAxMWY3YmQyNDdkNDgyODAyNWJlZWU2YzI2NzAzYmMw&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=abf027103b07bbd8c5405bd35a7960c9"
+        },
+        {
+          "id": "https://qiita.com/9boz/items/a278945f2d95329814d0",
+          "author": null,
+          "description": "Mayaでアニメーションを読み書きする方法は幾つかあるのですが、editMAを使った読み書きをやってみます。\n書き出し\nexportEditsというコマンドがありました。\nこれを使ってやってみます。\nhttps://help.autodesk.com/cloudhelp/2022/JPN/Maya-Tech-Docs/CommandsPython/exportEdits.htm…",
+          "link": "https://qiita.com/9boz/items/a278945f2d95329814d0",
+          "publishedOn": "2024-12-04T22:07:04.000Z",
+          "wordCount": 1452,
+          "title": "editMAでアニメーションを書き出したい",
+          "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Fadvent-calendar-ogp-background-7940cd1c8db80a7ec40711d90f43539e.jpg%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnBicy50d2ltZy5jb20lMkZwcm9maWxlX2ltYWdlcyUyRjUzNzk1NjE0OTcwNjc3MjQ4MCUyRkZCUmk0WUVPX2JpZ2dlci5wbmc_aXhsaWI9cmItNC4wLjAmYXI9MSUzQTEmZml0PWNyb3AmbWFzaz1lbGxpcHNlJmZtPXBuZzMyJnM9MDRlNDY0Y2MzZTYzYmUyMDM3NzA4OTRkMGU3NWU3ODc%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D391669ea7aa95c16bf1e7b65a2c74f6b?ixlib=rb-4.0.0&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9ZWRpdE1BJUUzJTgxJUE3JUUzJTgyJUEyJUUzJTgzJThCJUUzJTgzJUExJUUzJTgzJUJDJUUzJTgyJUI3JUUzJTgzJUE3JUUzJTgzJUIzJUUzJTgyJTkyJUU2JTlCJUI4JUUzJTgxJThEJUU1JTg3JUJBJUUzJTgxJTk3JUUzJTgxJTlGJUUzJTgxJTg0JnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMzQTNDM0MmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9YzQ3NGE0MmRiZjMyYTBmZGIwYzkwZjEzYTk4ZGJmODU&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDA5Ym96JnR4dC1jb2xvcj0lMjMzQTNDM0MmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9MzZlY2M2NjU5OWE5M2Y5Mzg2MGExZGZlZjkxZDllY2U&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=acfab6c452f00d81dd5d3d415e73119f"
+        },
+        {
+          "id": "https://qiita.com/9boz/items/2f7aa51b7dfe7b9a7cca",
+          "author": null,
+          "description": "前回の記事がこちら\nhttps://qiita.com/9boz/items/fe9435fabd7c59a2aacb\n早いもので、もうすぐ１年たちますね。\nようやく対処法が見つかりました。\nなんだ…",
+          "link": "https://qiita.com/9boz/items/2f7aa51b7dfe7b9a7cca",
+          "publishedOn": "2024-12-03T22:03:05.000Z",
+          "wordCount": 851,
+          "title": "孤立UVの削除",
+          "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Fadvent-calendar-ogp-background-7940cd1c8db80a7ec40711d90f43539e.jpg%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnBicy50d2ltZy5jb20lMkZwcm9maWxlX2ltYWdlcyUyRjUzNzk1NjE0OTcwNjc3MjQ4MCUyRkZCUmk0WUVPX2JpZ2dlci5wbmc_aXhsaWI9cmItNC4wLjAmYXI9MSUzQTEmZml0PWNyb3AmbWFzaz1lbGxpcHNlJmZtPXBuZzMyJnM9MDRlNDY0Y2MzZTYzYmUyMDM3NzA4OTRkMGU3NWU3ODc%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D391669ea7aa95c16bf1e7b65a2c74f6b?ixlib=rb-4.0.0&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9JUU1JUFEJUE0JUU3JUFCJThCVVYlRTMlODElQUUlRTUlODklOEElRTklOTklQTQmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzNBM0MzQyZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz0yODgwOGM3ZjUwMTY3ZmRhYzNjNzY0YjY3ODg3NjI1Nw&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDA5Ym96JnR4dC1jb2xvcj0lMjMzQTNDM0MmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9MzZlY2M2NjU5OWE5M2Y5Mzg2MGExZGZlZjkxZDllY2U&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=4e399b5c68721b2f6be0b41c45b6758a"
+        }
+      ]
+    },
+    {
+      "title": "Zennの「substancepainter」のフィード",
+      "feedUrl": "https://zenn.dev/topics/substancepainter/feed",
+      "siteUrl": "https://zenn.dev/topics/substancepainter",
+      "articles": []
+    },
+    {
+      "title": "Zennの「substance」のフィード",
+      "feedUrl": "https://zenn.dev/topics/substance/feed",
+      "siteUrl": "https://zenn.dev/topics/substance",
+      "articles": []
+    },
+    {
+      "title": "Zennの「substancedesigner」のフィード",
+      "feedUrl": "https://zenn.dev/topics/substancedesigner/feed",
+      "siteUrl": "https://zenn.dev/topics/substancedesigner",
+      "articles": []
+    },
+    {
+      "title": "SubstancePainterタグが付けられた新着記事 - Qiita",
+      "feedUrl": "https://qiita.com/tags/substancepainter/feed",
+      "siteUrl": "https://qiita.com",
+      "articles": []
+    },
+    {
+      "title": "3DCGタグが付けられた新着記事 - Qiita",
+      "feedUrl": "https://qiita.com/tags/3dcg/feed",
+      "siteUrl": "https://qiita.com",
+      "articles": [
+        {
+          "id": "https://qiita.com/GaliMura/items/88bec9e82f3033952f4d",
+          "author": null,
+          "description": "この記事はK3 Advent Calendar 2023の21日目の記事です。\n\nBlender4.0が来た！！\nついにBleder4.0が来た……！新しいジオメトリーノードが追加されたり、カメラの色…",
+          "link": "https://qiita.com/GaliMura/items/88bec9e82f3033952f4d",
+          "publishedOn": "2024-12-04T16:19:20.000Z",
+          "wordCount": 2408,
+          "title": "Blender4.0を使ってK3のアヒルをつくろう",
+          "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRmxoMy5nb29nbGV1c2VyY29udGVudC5jb20lMkZhJTJGQUNnOG9jSlFRRWd6Ymdpa1pfSEc4MWtkQ215Yk9pRDEwVjk4dG9VenZKaTVrczMzYmclM0RzOTYtYz9peGxpYj1yYi00LjAuMCZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmZm09cG5nMzImcz01OGI2NTcwZTk0NDhmYmJhMzhiMDc1ZTc4MjMxNzc0ZA%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3Dc871f4daeea63233493c197779eb8a10?ixlib=rb-4.0.0&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9QmxlbmRlcjQuMCVFMyU4MiU5MiVFNCVCRCVCRiVFMyU4MSVBMyVFMyU4MSVBNkszJUUzJTgxJUFFJUUzJTgyJUEyJUUzJTgzJTkyJUUzJTgzJUFCJUUzJTgyJTkyJUUzJTgxJUE0JUUzJTgxJThGJUUzJTgyJThEJUUzJTgxJTg2JnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9ZThjZGU5MGRkMWYxYWRlMGZkNzU4YTI3ZGRmYWZjNGI&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBHYWxpTXVyYSZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPWE0YmY0NjRiOTRlNTI2NWE1N2YzZGMzNzJjYTIwZjk0&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=d9c4e897d96c58ea3aa6020c3f2cb962"
+        },
+        {
+          "id": "https://qiita.com/ajinadai/items/d707e3c573e079ae546b",
+          "author": null,
+          "description": "これは、とある金融機関（PCセキュリティがちがち、ソフトウェアインストール一切不可、装備はOffice365とメモ帳、インターネット接続に著しい制限）で戦うサラリーマンの物語である。\nPower P…",
+          "link": "https://qiita.com/ajinadai/items/d707e3c573e079ae546b",
+          "publishedOn": "2024-11-10T13:28:16.000Z",
+          "wordCount": 1269,
+          "title": "Power Pointで3Dモデルを専用ソフトウェアなしで表示させたい！",
+          "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkY1NTQ3NjElMkYxNjNkYWEyOGQyZTcyZTgzODc4NDIwMGU3NWZlYmEzNDQ3M2EwNzAxJTJGbGFyZ2UucG5nJTNGMTU5NjI5MzQyMj9peGxpYj1yYi00LjAuMCZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmZm09cG5nMzImcz1iZDEzMzk1YmIwYWI1OTc4ODZjNzVlNjhmMzhjY2ZhNw%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3Dd71cbc6355b039dc9aed0a2b47db386f?ixlib=rb-4.0.0&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9UG93ZXIlMjBQb2ludCVFMyU4MSVBNzNEJUUzJTgzJUEyJUUzJTgzJTg3JUUzJTgzJUFCJUUzJTgyJTkyJUU1JUIwJTgyJUU3JTk0JUE4JUUzJTgyJUJEJUUzJTgzJTk1JUUzJTgzJTg4JUUzJTgyJUE2JUUzJTgyJUE3JUUzJTgyJUEyJUUzJTgxJUFBJUUzJTgxJTk3JUUzJTgxJUE3JUU4JUExJUE4JUU3JUE0JUJBJUUzJTgxJTk1JUUzJTgxJTlCJUUzJTgxJTlGJUUzJTgxJTg0JUVGJUJDJTgxJnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9YjJmZmE2ODlmZTgzZjFhOGE3MmY2ZTg3MzVjNDE2NjM&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBhamluYWRhaSZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPTAyZTVlZmQzNzExZTkxYWE5MTUzYmI0Njc5ZGU1NmU4&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=50400f4ad92b4240e65f1a6eb1a58c88"
+        }
+      ]
+    },
+    {
+      "title": "レイトレタグが付けられた新着記事 - Qiita",
+      "feedUrl": "https://qiita.com/tags/%e3%83%ac%e3%82%a4%e3%83%88%e3%83%ac/feed",
+      "siteUrl": "https://qiita.com",
+      "articles": []
+    },
+    {
+      "title": "Zennの「Ray Tracing」のフィード",
+      "feedUrl": "https://zenn.dev/topics/raytracing/feed",
+      "siteUrl": "https://zenn.dev/topics/raytracing",
+      "articles": [
+        {
+          "id": "https://zenn.dev/syoyo/articles/442fc4c4ad96f6",
+          "author": "syoyo",
+          "description": "https://github.com/RenderKit/embree/blob/master/tutorials/user_geometry/user_geometry_device.cpp\nに例がある.\n\nBounds\nIntersect(実際に交点を求める)\nOccluded(交点は求めず, 遮蔽されているかどうかだけチェック. shadow ray とか用)\n\nの 3 つの関数を提供してあげる必要がある.\nさらに, Intersect, Occluded では, 内部で Intersection filter function を呼んであげる必要がある.\n(Intersectio...",
+          "link": "https://zenn.dev/syoyo/articles/442fc4c4ad96f6",
+          "publishedOn": "2024-11-26T14:34:31.000Z",
+          "wordCount": null,
+          "title": "embree で user geometry + node transform のメモ",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--1g7y0xMc--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:embree%2520%25E3%2581%25A7%2520user%2520geometry%2520%252B%2520node%2520transform%2520%25E3%2581%25AE%25E3%2583%25A1%25E3%2583%25A2%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:syoyo%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2FiZTYxMTY5ZTYuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png",
+            "length": "0",
+            "type": "image/png"
+          },
+          "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--1g7y0xMc--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:embree%2520%25E3%2581%25A7%2520user%2520geometry%2520%252B%2520node%2520transform%2520%25E3%2581%25AE%25E3%2583%25A1%25E3%2583%25A2%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:syoyo%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2FiZTYxMTY5ZTYuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
+        }
+      ]
+    },
+    {
+      "title": "3DGraphicsタグが付けられた新着記事 - Qiita",
+      "feedUrl": "https://qiita.com/tags/3dgraphics/feed",
+      "siteUrl": "https://qiita.com",
+      "articles": []
+    },
+    {
+      "title": "Shaderタグが付けられた新着記事 - Qiita",
+      "feedUrl": "https://qiita.com/tags/shader/feed",
+      "siteUrl": "https://qiita.com",
+      "articles": [
+        {
+          "id": "https://qiita.com/flankids/items/8e1a4d5c807c1eadfe05",
+          "author": null,
+          "description": "グレンジ Advent Calendar 2024 6日目担当の、flankidsです。\n普段は操作、アニメーション、カメラワークなどなどで遊び心地を作ることを主にやっています。楽しいものを作るのが…",
+          "link": "https://qiita.com/flankids/items/8e1a4d5c807c1eadfe05",
+          "publishedOn": "2024-12-05T22:07:36.000Z",
+          "wordCount": 2605,
+          "title": "[Unity]カジュアルゲームに使いやすい「これでいい」水面シェーダー",
+          "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Fadvent-calendar-ogp-background-7940cd1c8db80a7ec40711d90f43539e.jpg%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnFpaXRhLWltYWdlLXN0b3JlLnMzLmFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkYwJTJGMTg0Mjk0JTJGcHJvZmlsZS1pbWFnZXMlMkYxNTY3MDMzNjA1P2l4bGliPXJiLTQuMC4wJmFyPTElM0ExJmZpdD1jcm9wJm1hc2s9ZWxsaXBzZSZmbT1wbmczMiZzPTExODA2OTM2YTk3N2ZmMzBkNWM4ZTM3NTY0OTYwMmUx%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D2d6d16499dcf83e2594a36409f8be972?ixlib=rb-4.0.0&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9JTVCVW5pdHklNUQlRTMlODIlQUIlRTMlODIlQjglRTMlODMlQTUlRTMlODIlQTIlRTMlODMlQUIlRTMlODIlQjIlRTMlODMlQkMlRTMlODMlQTAlRTMlODElQUIlRTQlQkQlQkYlRTMlODElODQlRTMlODIlODQlRTMlODElOTklRTMlODElODQlRTMlODAlOEMlRTMlODElOTMlRTMlODIlOEMlRTMlODElQTclRTMlODElODQlRTMlODElODQlRTMlODAlOEQlRTYlQjAlQjQlRTklOUQlQTIlRTMlODIlQjclRTMlODIlQTclRTMlODMlQkMlRTMlODMlODAlRTMlODMlQkMmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzNBM0MzQyZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz0xOTQxYTg4NDdhMTdmNTc2M2JiN2IyYzY0YWIxNDI1ZQ&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBmbGFua2lkcyZ0eHQtY29sb3I9JTIzM0EzQzNDJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPWRhYTQxZDY4MWRlYTZlZGZkNGQyNzgxZTMyODBlZjIy&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=bcc032558c91a8199e491af2f64e8dc9"
+        },
+        {
+          "id": "https://qiita.com/ayaha401/items/d3badb58a56d2f2852d8",
+          "author": null,
+          "description": "はじめに\n手元でパッと開発したい時ありますよね、そういったときに素早く開発できるようにある程度自分の作業環境はあらかじめ整えて置いたほうがいいと思っています。\nそのために自分で開発した作業環境を紹介…",
+          "link": "https://qiita.com/ayaha401/items/d3badb58a56d2f2852d8",
+          "publishedOn": "2024-12-05T15:55:24.000Z",
+          "wordCount": 1186,
+          "title": "【Unity】自作Editor拡張で固めた開発環境を紹介してみる",
+          "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnFpaXRhLWltYWdlLXN0b3JlLnMzLmFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkYwJTJGNjA4Nzk3JTJGcHJvZmlsZS1pbWFnZXMlMkYxNjQ2ODI3MDA5P2l4bGliPXJiLTQuMC4wJmFyPTElM0ExJmZpdD1jcm9wJm1hc2s9ZWxsaXBzZSZmbT1wbmczMiZzPTA3ZGNlNDcxYjZkNTE3YTlhNWNiZTA2NjdlNWRiNzNm%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D26ab4758cb27e10bc6b49f6b8b7fa724?ixlib=rb-4.0.0&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9JUUzJTgwJTkwVW5pdHklRTMlODAlOTElRTglODclQUElRTQlQkQlOUNFZGl0b3IlRTYlOEIlQTElRTUlQkMlQjUlRTMlODElQTclRTUlOUIlQkElRTMlODIlODElRTMlODElOUYlRTklOTYlOEIlRTclOTklQkElRTclOTIlQjAlRTUlQTIlODMlRTMlODIlOTIlRTclQjQlQjklRTQlQkIlOEIlRTMlODElOTclRTMlODElQTYlRTMlODElQkYlRTMlODIlOEImdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz04ZGEzMzYxYWUxYjdjZDE3Y2EyOTU5Mjg2MzI3OTVjZg&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBheWFoYTQwMSZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPTY4YWFlM2M3NTUzYmE0NjI0MzAzNzVlNTg4NmQzYTI3&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=8f3089f3682e2d66d0b4cde1f75cc4f3"
+        },
+        {
+          "id": "https://qiita.com/amasora/items/4a1b7dcac13a713f1c65",
+          "author": null,
+          "description": "この記事はふたり？VRChat Advent Calendar 2024の2日の記事です。\n\n何気にQiitaで記事書くの初めてです。\nOsakanabiyoriさんにお誘いいただきました！\nこのよう…",
+          "link": "https://qiita.com/amasora/items/4a1b7dcac13a713f1c65",
+          "publishedOn": "2024-12-04T13:06:50.000Z",
+          "wordCount": 983,
+          "title": "VRChatで写真展！こだわりのシェーダー表現 雨っぽい編",
+          "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Fadvent-calendar-ogp-background-7940cd1c8db80a7ec40711d90f43539e.jpg%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRmxoMy5nb29nbGV1c2VyY29udGVudC5jb20lMkZhJTJGQUNnOG9jSkVoUk44dy16dlo0YWpPZ0s2aF80bmZmT2VVVmdaTkVpU1FHc1Y3VWVqNVVZWkdXcyUzRHM5Ni1jP2l4bGliPXJiLTQuMC4wJmFyPTElM0ExJmZpdD1jcm9wJm1hc2s9ZWxsaXBzZSZmbT1wbmczMiZzPTUxODFhYjI4ZjZjZjYwNmYxNjU1ODFhODQxYTFhZTc3%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3Db48927fb9b358309eb87453349ae63ee?ixlib=rb-4.0.0&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9VlJDaGF0JUUzJTgxJUE3JUU1JTg2JTk5JUU3JTlDJTlGJUU1JUIxJTk1JUVGJUJDJTgxJUUzJTgxJTkzJUUzJTgxJUEwJUUzJTgyJThGJUUzJTgyJThBJUUzJTgxJUFFJUUzJTgyJUI3JUUzJTgyJUE3JUUzJTgzJUJDJUUzJTgzJTgwJUUzJTgzJUJDJUU4JUExJUE4JUU3JThGJUJFJTIwJUU5JTlCJUE4JUUzJTgxJUEzJUUzJTgxJUJEJUUzJTgxJTg0JUU3JUI3JUE4JnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMzQTNDM0MmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9YzlkYzY1ODU1YjllNDNkZDM2ZDExODQyNjAyNjcxODA&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBhbWFzb3JhJnR4dC1jb2xvcj0lMjMzQTNDM0MmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9YzNiZThiNTIwNzczMzliZTUyZmFjNTI0NTI0YjA0ZjI&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=c4641af3aba3e5f5219b19870daf9f91"
+        },
+        {
+          "id": "https://qiita.com/YSnami/items/7a87a258536e878fe425",
+          "author": null,
+          "description": "この記事は東京海洋大学NePPの Advent Calendar 2024の4日目です。\n初めに\n今回はUnityのシェーダーでディゾルブシェーダーを書いていきたいと思います（下動画）\nこんな感じで…",
+          "link": "https://qiita.com/YSnami/items/7a87a258536e878fe425",
+          "publishedOn": "2024-12-03T22:07:19.000Z",
+          "wordCount": 1370,
+          "title": "Unityでディゾルブシェーダーを作る方法",
+          "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Fadvent-calendar-ogp-background-7940cd1c8db80a7ec40711d90f43539e.jpg%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRmxoMy5nb29nbGV1c2VyY29udGVudC5jb20lMkZhJTJGQUNnOG9jSndpVUxDSnh1THdOZGwyTFNITE5BdmpBa1dwVVJZb1JnS2MwbHlvdUZQZjcwJTNEczk2LWM_aXhsaWI9cmItNC4wLjAmYXI9MSUzQTEmZml0PWNyb3AmbWFzaz1lbGxpcHNlJmZtPXBuZzMyJnM9ZDZhMjViZjg5NzJhMTRlNzk4ODYyODcxOTkzYmZkZmQ%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3Da6fee82ff3156717a715c4e9e16afcda?ixlib=rb-4.0.0&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9VW5pdHklRTMlODElQTclRTMlODMlODclRTMlODIlQTMlRTMlODIlQkUlRTMlODMlQUIlRTMlODMlOTYlRTMlODIlQjclRTMlODIlQTclRTMlODMlQkMlRTMlODMlODAlRTMlODMlQkMlRTMlODIlOTIlRTQlQkQlOUMlRTMlODIlOEIlRTYlOTYlQjklRTYlQjMlOTUmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzNBM0MzQyZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz0yNzg2N2EyZmM3YzY5MWM0YTgyMzM1YTliYzBkYmRiMg&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBZU25hbWkmdHh0LWNvbG9yPSUyMzNBM0MzQyZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz01OTUyZjY2NWE3NjRmMDUzMmJjYzMyYTNhNWE4MTQxYQ&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=11a3be38b239aa97ec92278b223c0f29"
+        }
+      ]
+    },
+    {
+      "title": "グラフィックスタグが付けられた新着記事 - Qiita",
+      "feedUrl": "https://qiita.com/tags/%e3%82%b0%e3%83%a9%e3%83%95%e3%82%a3%e3%83%83%e3%82%af%e3%82%b9/feed",
+      "siteUrl": "https://qiita.com",
+      "articles": [
+        {
+          "id": "https://qiita.com/flankids/items/8e1a4d5c807c1eadfe05",
+          "author": null,
+          "description": "グレンジ Advent Calendar 2024 6日目担当の、flankidsです。\n普段は操作、アニメーション、カメラワークなどなどで遊び心地を作ることを主にやっています。楽しいものを作るのが…",
+          "link": "https://qiita.com/flankids/items/8e1a4d5c807c1eadfe05",
+          "publishedOn": "2024-12-05T22:07:36.000Z",
+          "wordCount": 2609,
+          "title": "[Unity]カジュアルゲームに使いやすい「これでいい」水面シェーダー",
+          "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Fadvent-calendar-ogp-background-7940cd1c8db80a7ec40711d90f43539e.jpg%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnFpaXRhLWltYWdlLXN0b3JlLnMzLmFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkYwJTJGMTg0Mjk0JTJGcHJvZmlsZS1pbWFnZXMlMkYxNTY3MDMzNjA1P2l4bGliPXJiLTQuMC4wJmFyPTElM0ExJmZpdD1jcm9wJm1hc2s9ZWxsaXBzZSZmbT1wbmczMiZzPTExODA2OTM2YTk3N2ZmMzBkNWM4ZTM3NTY0OTYwMmUx%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D2d6d16499dcf83e2594a36409f8be972?ixlib=rb-4.0.0&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9JTVCVW5pdHklNUQlRTMlODIlQUIlRTMlODIlQjglRTMlODMlQTUlRTMlODIlQTIlRTMlODMlQUIlRTMlODIlQjIlRTMlODMlQkMlRTMlODMlQTAlRTMlODElQUIlRTQlQkQlQkYlRTMlODElODQlRTMlODIlODQlRTMlODElOTklRTMlODElODQlRTMlODAlOEMlRTMlODElOTMlRTMlODIlOEMlRTMlODElQTclRTMlODElODQlRTMlODElODQlRTMlODAlOEQlRTYlQjAlQjQlRTklOUQlQTIlRTMlODIlQjclRTMlODIlQTclRTMlODMlQkMlRTMlODMlODAlRTMlODMlQkMmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzNBM0MzQyZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz0xOTQxYTg4NDdhMTdmNTc2M2JiN2IyYzY0YWIxNDI1ZQ&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBmbGFua2lkcyZ0eHQtY29sb3I9JTIzM0EzQzNDJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPWRhYTQxZDY4MWRlYTZlZGZkNGQyNzgxZTMyODBlZjIy&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=bcc032558c91a8199e491af2f64e8dc9"
+        },
+        {
+          "id": "https://qiita.com/flankids/items/259085b95a23c0e7ad49",
+          "author": null,
+          "description": "グレンジ Advent Calendar 2024 1日目担当の、flankidsです。\n普段は操作、アニメーション、カメラワークなどなどで遊び心地を作ることを主にやっています。楽しいものを作るのが…",
+          "link": "https://qiita.com/flankids/items/259085b95a23c0e7ad49",
+          "publishedOn": "2024-11-30T22:06:02.000Z",
+          "wordCount": 2666,
+          "title": "[Unity]モデルをイジらずポスプロも要らず。ハードエッジをサクッと解決する背面法アウトラインの作り方",
+          "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Fadvent-calendar-ogp-background-7940cd1c8db80a7ec40711d90f43539e.jpg%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnFpaXRhLWltYWdlLXN0b3JlLnMzLmFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkYwJTJGMTg0Mjk0JTJGcHJvZmlsZS1pbWFnZXMlMkYxNTY3MDMzNjA1P2l4bGliPXJiLTQuMC4wJmFyPTElM0ExJmZpdD1jcm9wJm1hc2s9ZWxsaXBzZSZmbT1wbmczMiZzPTExODA2OTM2YTk3N2ZmMzBkNWM4ZTM3NTY0OTYwMmUx%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D2d6d16499dcf83e2594a36409f8be972?ixlib=rb-4.0.0&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9JTVCVW5pdHklNUQlRTMlODMlQTIlRTMlODMlODclRTMlODMlQUIlRTMlODIlOTIlRTMlODIlQTQlRTMlODIlQjglRTMlODIlODklRTMlODElOUElRTMlODMlOUQlRTMlODIlQjklRTMlODMlOTclRTMlODMlQUQlRTMlODIlODIlRTglQTYlODElRTMlODIlODklRTMlODElOUElRTMlODAlODIlRTMlODMlOEYlRTMlODMlQkMlRTMlODMlODklRTMlODIlQTglRTMlODMlODMlRTMlODIlQjglRTMlODIlOTIlRTMlODIlQjUlRTMlODIlQUYlRTMlODMlODMlRTMlODElQTglRTglQTclQTMlRTYlQjElQkElRTMlODElOTklRTMlODIlOEIlRTglODMlOEMlRTklOUQlQTIlRTYlQjMlOTUlRTMlODIlQTIlRTMlODIlQTYlRTMlODMlODglRTMlODMlQTklRTMlODIlQTQlRTMlODMlQjMlRTMlODElQUUlRTQlQkQlOUMlRTMlODIlOEElRTYlOTYlQjkmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzNBM0MzQyZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz1hN2ExOGFjZDU5ZDY3MzkyYWZkMjEyZDAwYTAwMjI1Ng&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBmbGFua2lkcyZ0eHQtY29sb3I9JTIzM0EzQzNDJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPWRhYTQxZDY4MWRlYTZlZGZkNGQyNzgxZTMyODBlZjIy&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=bb30c314318c2be7f72ce4f34a89dd5b"
+        }
+      ]
+    },
+    {
+      "title": "CGタグが付けられた新着記事 - Qiita",
+      "feedUrl": "https://qiita.com/tags/cg/feed",
+      "siteUrl": "https://qiita.com",
+      "articles": [
+        {
+          "id": "https://qiita.com/Funa_Okuda/items/9b4b8a8ac763a7b5dd30",
+          "author": null,
+          "description": "はじめに\nこんにちは、株式会社GENEROSITYの奥田です。\n今回はクリスマスに向けたアドベントカレンダーということで、Houdiniの便利なノードを用いて簡単にクリスマスツリーを作成してみました。\nこのクリスマスツリーを作るのに使用したノードが大変便利であったためその中から2種類紹介したいと思います…",
+          "link": "https://qiita.com/Funa_Okuda/items/9b4b8a8ac763a7b5dd30",
+          "publishedOn": "2024-12-06T01:09:03.000Z",
+          "wordCount": 893,
+          "title": "【Houdiniおすすめノード2選】Labs Tree Generator/Mask by Feature",
+          "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Fadvent-calendar-ogp-background-7940cd1c8db80a7ec40711d90f43539e.jpg%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYzOTA2NzI0JTJGNGVmNjA2Y2VkOTc1NWVjNzcyNjY4OTEyZTY4N2MyMTQyYzcxOGZmMiUyRnhfbGFyZ2UucG5nJTNGMTcyODUyNjkzNT9peGxpYj1yYi00LjAuMCZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmZm09cG5nMzImcz1jOWE4MDZkYTUxM2MxNDg0NWIwNzZkMDdmODlhZDVhOQ%26blend-x%3D120%26blend-y%3D462%26blend-w%3D90%26blend-h%3D90%26blend-mode%3Dnormal%26mark64%3DaHR0cHM6Ly9xaWl0YS1vcmdhbml6YXRpb24taW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1vcmdhbml6YXRpb24taW1hZ2UlMkZkOTllMGRkYmY4ZjZlYTZiYzYyMjNkN2ZhZjVhN2NkMjU4ZDI3ODNiJTJGb3JpZ2luYWwuanBnJTNGMTY1NjkxNzQyND9peGxpYj1yYi00LjAuMCZ3PTQ0Jmg9NDQmZml0PWNyb3AmbWFzaz1jb3JuZXJzJmNvcm5lci1yYWRpdXM9OCZib3JkZXI9MiUyQ0ZGRkZGRiZmbT1wbmczMiZzPWU4MGVmZjY3Y2EyZmY1ODUxNzg5NDkxYzVjN2Q4ZmRk%26mark-x%3D186%26mark-y%3D515%26mark-w%3D40%26mark-h%3D40%26s%3D1a42547bc3200975a52724d936e0fb32?ixlib=rb-4.0.0&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9JUUzJTgwJTkwSG91ZGluaSVFMyU4MSU4QSVFMyU4MSU5OSVFMyU4MSU5OSVFMyU4MiU4MSVFMyU4MyU4RSVFMyU4MyVCQyVFMyU4MyU4OTIlRTklODElQjglRTMlODAlOTFMYWJzJTIwVHJlZSUyMEdlbmVyYXRvciUyRk1hc2slMjBieSUyMEZlYXR1cmUmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzNBM0MzQyZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz1jNDBmMzlmNjA5YmI1MzNkYzM2NDUwMWMzOTA1NzcyYg&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBGdW5hX09rdWRhJnR4dC1jb2xvcj0lMjMzQTNDM0MmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9Yjg4YjY4MzkzOTI2YWI0MmNmNjRlNjIzZGFkYTA2MjY&blend-x=242&blend-y=454&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&txt64=5qCq5byP5Lya56S-R0VORVJPU0lUWQ&txt-x=242&txt-y=539&txt-width=838&txt-clip=end%2Cellipsis&txt-color=%233A3C3C&txt-font=Hiragino%20Sans%20W6&txt-size=28&s=62017ffc98c6200eb1636ea1564c3778"
+        },
+        {
+          "id": "https://qiita.com/flankids/items/8e1a4d5c807c1eadfe05",
+          "author": null,
+          "description": "グレンジ Advent Calendar 2024 6日目担当の、flankidsです。\n普段は操作、アニメーション、カメラワークなどなどで遊び心地を作ることを主にやっています。楽しいものを作るのが…",
+          "link": "https://qiita.com/flankids/items/8e1a4d5c807c1eadfe05",
+          "publishedOn": "2024-12-05T22:07:36.000Z",
+          "wordCount": 2609,
+          "title": "[Unity]カジュアルゲームに使いやすい「これでいい」水面シェーダー",
+          "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Fadvent-calendar-ogp-background-7940cd1c8db80a7ec40711d90f43539e.jpg%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnFpaXRhLWltYWdlLXN0b3JlLnMzLmFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkYwJTJGMTg0Mjk0JTJGcHJvZmlsZS1pbWFnZXMlMkYxNTY3MDMzNjA1P2l4bGliPXJiLTQuMC4wJmFyPTElM0ExJmZpdD1jcm9wJm1hc2s9ZWxsaXBzZSZmbT1wbmczMiZzPTExODA2OTM2YTk3N2ZmMzBkNWM4ZTM3NTY0OTYwMmUx%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D2d6d16499dcf83e2594a36409f8be972?ixlib=rb-4.0.0&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9JTVCVW5pdHklNUQlRTMlODIlQUIlRTMlODIlQjglRTMlODMlQTUlRTMlODIlQTIlRTMlODMlQUIlRTMlODIlQjIlRTMlODMlQkMlRTMlODMlQTAlRTMlODElQUIlRTQlQkQlQkYlRTMlODElODQlRTMlODIlODQlRTMlODElOTklRTMlODElODQlRTMlODAlOEMlRTMlODElOTMlRTMlODIlOEMlRTMlODElQTclRTMlODElODQlRTMlODElODQlRTMlODAlOEQlRTYlQjAlQjQlRTklOUQlQTIlRTMlODIlQjclRTMlODIlQTclRTMlODMlQkMlRTMlODMlODAlRTMlODMlQkMmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzNBM0MzQyZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz0xOTQxYTg4NDdhMTdmNTc2M2JiN2IyYzY0YWIxNDI1ZQ&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBmbGFua2lkcyZ0eHQtY29sb3I9JTIzM0EzQzNDJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPWRhYTQxZDY4MWRlYTZlZGZkNGQyNzgxZTMyODBlZjIy&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=bcc032558c91a8199e491af2f64e8dc9"
+        },
+        {
+          "id": "https://qiita.com/chihirobelmo/items/f7acf5c68a69734cec7f",
+          "author": null,
+          "description": "概要\nコンピュータグラフィックスにおいて、カメラの視点が原点から遠ざかるにつれて画面の揺れが発生する。これは座標の管理に使われる単精度浮動小数点の精度不足が原因で、原点$(0,0,0)$から遠ざかる…",
+          "link": "https://qiita.com/chihirobelmo/items/f7acf5c68a69734cec7f",
+          "publishedOn": "2024-12-04T14:07:16.000Z",
+          "wordCount": 1345,
+          "title": "原点から遠ざかったカメラが単精度浮動小数点(Float型)の精度問題で揺れる現象の解決手法",
+          "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnFpaXRhLWltYWdlLXN0b3JlLnMzLmFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkYwJTJGNDU1ODM5JTJGcHJvZmlsZS1pbWFnZXMlMkYxNzMzMzIwNjI4P2l4bGliPXJiLTQuMC4wJmFyPTElM0ExJmZpdD1jcm9wJm1hc2s9ZWxsaXBzZSZmbT1wbmczMiZzPWYzYjYzOTk4MDdjYTk2ODMwM2EzYWI0OGE4Y2U1MGFl%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3Dcbffc6ed4efbcb80676ad255cf9c8afe?ixlib=rb-4.0.0&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9JUU1JThFJTlGJUU3JTgyJUI5JUUzJTgxJThCJUUzJTgyJTg5JUU5JTgxJUEwJUUzJTgxJTk2JUUzJTgxJThCJUUzJTgxJUEzJUUzJTgxJTlGJUUzJTgyJUFCJUUzJTgzJUExJUUzJTgzJUE5JUUzJTgxJThDJUU1JThEJTk4JUU3JUIyJUJFJUU1JUJBJUE2JUU2JUI1JUFFJUU1JThCJTk1JUU1JUIwJThGJUU2JTk1JUIwJUU3JTgyJUI5JTI4RmxvYXQlRTUlOUUlOEIlMjklRTMlODElQUUlRTclQjIlQkUlRTUlQkElQTYlRTUlOTUlOEYlRTklQTElOEMlRTMlODElQTclRTYlOEYlQkElRTMlODIlOEMlRTMlODIlOEIlRTclOEYlQkUlRTglQjElQTElRTMlODElQUUlRTglQTclQTMlRTYlQjElQkElRTYlODklOEIlRTYlQjMlOTUmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz05ZmQ0ZjFiMmE2ZTc4NjI4OTExZmQzMjUwNzkwMTEzZQ&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBjaGloaXJvYmVsbW8mdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz1lMjk4NGE5ZWRhYzBkM2Y2NmE1NDdhOGVhNGZlMTgxMw&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=6a0e1ebe8a2276646fd8e213c83e6ad7"
+        },
+        {
+          "id": "https://qiita.com/flankids/items/259085b95a23c0e7ad49",
+          "author": null,
+          "description": "グレンジ Advent Calendar 2024 1日目担当の、flankidsです。\n普段は操作、アニメーション、カメラワークなどなどで遊び心地を作ることを主にやっています。楽しいものを作るのが…",
+          "link": "https://qiita.com/flankids/items/259085b95a23c0e7ad49",
+          "publishedOn": "2024-11-30T22:06:02.000Z",
+          "wordCount": 2662,
+          "title": "[Unity]モデルをイジらずポスプロも要らず。ハードエッジをサクッと解決する背面法アウトラインの作り方",
+          "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Fadvent-calendar-ogp-background-7940cd1c8db80a7ec40711d90f43539e.jpg%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnFpaXRhLWltYWdlLXN0b3JlLnMzLmFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkYwJTJGMTg0Mjk0JTJGcHJvZmlsZS1pbWFnZXMlMkYxNTY3MDMzNjA1P2l4bGliPXJiLTQuMC4wJmFyPTElM0ExJmZpdD1jcm9wJm1hc2s9ZWxsaXBzZSZmbT1wbmczMiZzPTExODA2OTM2YTk3N2ZmMzBkNWM4ZTM3NTY0OTYwMmUx%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D2d6d16499dcf83e2594a36409f8be972?ixlib=rb-4.0.0&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9JTVCVW5pdHklNUQlRTMlODMlQTIlRTMlODMlODclRTMlODMlQUIlRTMlODIlOTIlRTMlODIlQTQlRTMlODIlQjglRTMlODIlODklRTMlODElOUElRTMlODMlOUQlRTMlODIlQjklRTMlODMlOTclRTMlODMlQUQlRTMlODIlODIlRTglQTYlODElRTMlODIlODklRTMlODElOUElRTMlODAlODIlRTMlODMlOEYlRTMlODMlQkMlRTMlODMlODklRTMlODIlQTglRTMlODMlODMlRTMlODIlQjglRTMlODIlOTIlRTMlODIlQjUlRTMlODIlQUYlRTMlODMlODMlRTMlODElQTglRTglQTclQTMlRTYlQjElQkElRTMlODElOTklRTMlODIlOEIlRTglODMlOEMlRTklOUQlQTIlRTYlQjMlOTUlRTMlODIlQTIlRTMlODIlQTYlRTMlODMlODglRTMlODMlQTklRTMlODIlQTQlRTMlODMlQjMlRTMlODElQUUlRTQlQkQlOUMlRTMlODIlOEElRTYlOTYlQjkmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzNBM0MzQyZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz1hN2ExOGFjZDU5ZDY3MzkyYWZkMjEyZDAwYTAwMjI1Ng&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBmbGFua2lkcyZ0eHQtY29sb3I9JTIzM0EzQzNDJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPWRhYTQxZDY4MWRlYTZlZGZkNGQyNzgxZTMyODBlZjIy&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=bb30c314318c2be7f72ce4f34a89dd5b"
+        }
+      ]
+    },
+    {
+      "title": "HLSLタグが付けられた新着記事 - Qiita",
+      "feedUrl": "https://qiita.com/tags/hlsl/feed",
+      "siteUrl": "https://qiita.com",
+      "articles": [
+        {
+          "id": "https://qiita.com/chihirobelmo/items/f7acf5c68a69734cec7f",
+          "author": null,
+          "description": "概要\nコンピュータグラフィックスにおいて、カメラの視点が原点から遠ざかるにつれて画面の揺れが発生する。これは座標の管理に使われる単精度浮動小数点の精度不足が原因で、原点$(0,0,0)$から遠ざかる…",
+          "link": "https://qiita.com/chihirobelmo/items/f7acf5c68a69734cec7f",
+          "publishedOn": "2024-12-04T14:07:16.000Z",
+          "wordCount": 1341,
+          "title": "原点から遠ざかったカメラが単精度浮動小数点(Float型)の精度問題で揺れる現象の解決手法",
+          "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnFpaXRhLWltYWdlLXN0b3JlLnMzLmFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkYwJTJGNDU1ODM5JTJGcHJvZmlsZS1pbWFnZXMlMkYxNzMzMzIwNjI4P2l4bGliPXJiLTQuMC4wJmFyPTElM0ExJmZpdD1jcm9wJm1hc2s9ZWxsaXBzZSZmbT1wbmczMiZzPWYzYjYzOTk4MDdjYTk2ODMwM2EzYWI0OGE4Y2U1MGFl%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3Dcbffc6ed4efbcb80676ad255cf9c8afe?ixlib=rb-4.0.0&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9JUU1JThFJTlGJUU3JTgyJUI5JUUzJTgxJThCJUUzJTgyJTg5JUU5JTgxJUEwJUUzJTgxJTk2JUUzJTgxJThCJUUzJTgxJUEzJUUzJTgxJTlGJUUzJTgyJUFCJUUzJTgzJUExJUUzJTgzJUE5JUUzJTgxJThDJUU1JThEJTk4JUU3JUIyJUJFJUU1JUJBJUE2JUU2JUI1JUFFJUU1JThCJTk1JUU1JUIwJThGJUU2JTk1JUIwJUU3JTgyJUI5JTI4RmxvYXQlRTUlOUUlOEIlMjklRTMlODElQUUlRTclQjIlQkUlRTUlQkElQTYlRTUlOTUlOEYlRTklQTElOEMlRTMlODElQTclRTYlOEYlQkElRTMlODIlOEMlRTMlODIlOEIlRTclOEYlQkUlRTglQjElQTElRTMlODElQUUlRTglQTclQTMlRTYlQjElQkElRTYlODklOEIlRTYlQjMlOTUmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz05ZmQ0ZjFiMmE2ZTc4NjI4OTExZmQzMjUwNzkwMTEzZQ&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBjaGloaXJvYmVsbW8mdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz1lMjk4NGE5ZWRhYzBkM2Y2NmE1NDdhOGVhNGZlMTgxMw&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=6a0e1ebe8a2276646fd8e213c83e6ad7"
+        },
+        {
+          "id": "https://qiita.com/amasora/items/4a1b7dcac13a713f1c65",
+          "author": null,
+          "description": "この記事はふたり？VRChat Advent Calendar 2024の2日の記事です。\n\n何気にQiitaで記事書くの初めてです。\nOsakanabiyoriさんにお誘いいただきました！\nこのよう…",
+          "link": "https://qiita.com/amasora/items/4a1b7dcac13a713f1c65",
+          "publishedOn": "2024-12-04T13:06:50.000Z",
+          "wordCount": 983,
+          "title": "VRChatで写真展！こだわりのシェーダー表現 雨っぽい編",
+          "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Fadvent-calendar-ogp-background-7940cd1c8db80a7ec40711d90f43539e.jpg%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRmxoMy5nb29nbGV1c2VyY29udGVudC5jb20lMkZhJTJGQUNnOG9jSkVoUk44dy16dlo0YWpPZ0s2aF80bmZmT2VVVmdaTkVpU1FHc1Y3VWVqNVVZWkdXcyUzRHM5Ni1jP2l4bGliPXJiLTQuMC4wJmFyPTElM0ExJmZpdD1jcm9wJm1hc2s9ZWxsaXBzZSZmbT1wbmczMiZzPTUxODFhYjI4ZjZjZjYwNmYxNjU1ODFhODQxYTFhZTc3%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3Db48927fb9b358309eb87453349ae63ee?ixlib=rb-4.0.0&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9VlJDaGF0JUUzJTgxJUE3JUU1JTg2JTk5JUU3JTlDJTlGJUU1JUIxJTk1JUVGJUJDJTgxJUUzJTgxJTkzJUUzJTgxJUEwJUUzJTgyJThGJUUzJTgyJThBJUUzJTgxJUFFJUUzJTgyJUI3JUUzJTgyJUE3JUUzJTgzJUJDJUUzJTgzJTgwJUUzJTgzJUJDJUU4JUExJUE4JUU3JThGJUJFJTIwJUU5JTlCJUE4JUUzJTgxJUEzJUUzJTgxJUJEJUUzJTgxJTg0JUU3JUI3JUE4JnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMzQTNDM0MmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9YzlkYzY1ODU1YjllNDNkZDM2ZDExODQyNjAyNjcxODA&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBhbWFzb3JhJnR4dC1jb2xvcj0lMjMzQTNDM0MmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9YzNiZThiNTIwNzczMzliZTUyZmFjNTI0NTI0YjA0ZjI&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=c4641af3aba3e5f5219b19870daf9f91"
+        },
+        {
+          "id": "https://qiita.com/__A__B/items/e726a9dc1f8e2d7bc1b2",
+          "author": null,
+          "description": "皆さんこんにちは。\n私が HLSL Tools for Visual Studio を URP に対応させようとした時に、ネットで調べても情報が少なすぎてめちゃくちゃ苦労したので、皆さんが同じように…",
+          "link": "https://qiita.com/__A__B/items/e726a9dc1f8e2d7bc1b2",
+          "publishedOn": "2024-11-28T17:04:23.000Z",
+          "wordCount": 2197,
+          "title": "HLSL Tools for Visual Studio を URP に対応させてみた",
+          "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYzNzI2NjgxJTJGZTdmNjAwYmU0MGEzMjI5ZGQ0ZmJkMGNiMzkxMTk4ZmY0Y2IyYzA5NCUyRnhfbGFyZ2UucG5nJTNGMTczMjgxMzYyMz9peGxpYj1yYi00LjAuMCZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmZm09cG5nMzImcz02NmFlN2Y3NmIzYmY5MTI1MDllYzIwMGQwZGI4Yjg5OQ%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D7f72fa3ffc8c60bb8e502dc05a385b3b?ixlib=rb-4.0.0&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9SExTTCUyMFRvb2xzJTIwZm9yJTIwVmlzdWFsJTIwU3R1ZGlvJTIwJUUzJTgyJTkyJTIwVVJQJTIwJUUzJTgxJUFCJUU1JUFGJUJFJUU1JUJGJTlDJUUzJTgxJTk1JUUzJTgxJTlCJUUzJTgxJUE2JUUzJTgxJUJGJUUzJTgxJTlGJnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9OWFiZmNkN2YxMDRkMzA2MGRhOWM5MzdjODBmMmM4MTA&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBfX0FfX0ImdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz04YmU2ZWQ4NTBhNzE2ZDQxNzEwZGE3MWIyZGNlMGE5NQ&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=f161a2f1cc1484819c070296c03a6b01"
+        },
+        {
+          "id": "https://qiita.com/kusuyun/items/7bf4062af4afedea9ac7",
+          "author": null,
+          "description": "2Dなのに立体が描ける！\n\nコード\n学校の課題で作りました\nRaymarchingPS.hlsl\n#include \"Common.hlsl\"\n\n// 解像度\nstatic float2 RESOLUT…",
+          "link": "https://qiita.com/kusuyun/items/7bf4062af4afedea9ac7",
+          "publishedOn": "2024-11-16T06:27:38.000Z",
+          "wordCount": 4148,
+          "title": "HLSLで初めてのレイマーチング",
+          "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYzODAyNzA5JTJGNzk5Y2Y4Y2Q5MThmNWMxYmIzNThmNjcwMDFmYTI5NjdkZGM5NjJlZCUyRnhfbGFyZ2UucG5nJTNGMTcyMDM4MTIwOT9peGxpYj1yYi00LjAuMCZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmZm09cG5nMzImcz01MGNiN2Y1NTU0YjliMmVlNjBkNTMxMmNjNWNmY2FlMw%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D125359a1715d9b15fb4be06d42cdac1a?ixlib=rb-4.0.0&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9SExTTCVFMyU4MSVBNyVFNSU4OCU5RCVFMyU4MiU4MSVFMyU4MSVBNiVFMyU4MSVBRSVFMyU4MyVBQyVFMyU4MiVBNCVFMyU4MyU5RSVFMyU4MyVCQyVFMyU4MyU4MSVFMyU4MyVCMyVFMyU4MiVCMCZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnR4dC1wYWQ9MCZzPTQ1ZjYzMmQxMzFjNGFiMjkyNzk4ODY2NzZkNzQ1MWM2&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBrdXN1eXVuJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9NzkxNTllMTY2ZGMxZDE0ZWQ3MmE3YmU4OTRjYmY5ZjA&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=fb01665208fae2979345abfffd0ef1fa"
+        }
+      ]
+    },
+    {
+      "title": "GLSLタグが付けられた新着記事 - Qiita",
+      "feedUrl": "https://qiita.com/tags/glsl/feed",
+      "siteUrl": "https://qiita.com",
+      "articles": [
+        {
+          "id": "https://qiita.com/ohisama@github/items/ad8589d93347e419b939",
+          "author": null,
+          "description": "概要\nplunkerでshadertoyのglsl動かしてみた。\ntextureとtextureLodを実装してみた。\n写真\n\n投入したソース\n#extension GL_EXT_shader_tex…",
+          "link": "https://qiita.com/ohisama@github/items/ad8589d93347e419b939",
+          "publishedOn": "2024-12-06T02:29:51.000Z",
+          "wordCount": 2216,
+          "title": "plunkerでshadertoy sandbox その 8",
+          "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnNlY3VyZS5ncmF2YXRhci5jb20lMkZhdmF0YXIlMkYyZTBiYjUwNmZiZTkwZTY1NzJiZjkyZmEwNWRiODhkMyUzRmQlM0RodHRwcyUzQSUyRiUyRmEyNDguZS5ha2FtYWkubmV0JTJGYXNzZXRzLmdpdGh1Yi5jb20lMjUyRmltYWdlcyUyNTJGZ3JhdmF0YXJzJTI1MkZncmF2YXRhci11c2VyLTQyMC5wbmc_aXhsaWI9cmItNC4wLjAmYXI9MSUzQTEmZml0PWNyb3AmbWFzaz1lbGxpcHNlJmZtPXBuZzMyJnM9NjEyMDJlMGQ3Y2ZlYTM1YWFkNTZjZWYzY2E1Y2VkMTc%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D0b814bb891b96503099c0706d79b2d96?ixlib=rb-4.0.0&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9cGx1bmtlciVFMyU4MSVBN3NoYWRlcnRveSUyMHNhbmRib3glMjAlRTMlODElOUQlRTMlODElQUUlMjA4JnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9YTgyN2U4OWExMjBlN2NhZWNlOWQ3ZWQ4NTYxMDgxNzY&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBvaGlzYW1hJTQwZ2l0aHViJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9YzAwZmU1MDczYWE4ZTAyNjc4ZDE5MTRlOTU3NjdhNjc&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=437843f795d789d9ec859128eb9e3cfa"
+        },
+        {
+          "id": "https://qiita.com/satoshi7190/items/9ae4d99601eb67880188",
+          "author": null,
+          "description": "DEMOサイト はこちら\nhttps://forestacdev.github.io/maplibre-terrain-visualizer/\nソースコードはこちら\nhttps://github.…",
+          "link": "https://qiita.com/satoshi7190/items/9ae4d99601eb67880188",
+          "publishedOn": "2024-11-10T15:04:59.000Z",
+          "wordCount": 12102,
+          "title": "MapLibre GL JSとWebGLでラスタータイルを動的に加工してみる",
+          "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRmxoMy5nb29nbGV1c2VyY29udGVudC5jb20lMkZhLSUyRkFPaDE0R2hnU3FUd3RJUkNwVXUwRFRDaFNURXBOXzRYdTJkUXhFYkNLREp0YUNvJTNEczUwP2l4bGliPXJiLTQuMC4wJmFyPTElM0ExJmZpdD1jcm9wJm1hc2s9ZWxsaXBzZSZmbT1wbmczMiZzPTZjNjAzMzVlNDU5YWQ3Njg1ZjY4MGUzZjQ5YTFhOWZl%26blend-x%3D120%26blend-y%3D462%26blend-w%3D90%26blend-h%3D90%26blend-mode%3Dnormal%26mark64%3DaHR0cHM6Ly9xaWl0YS1vcmdhbml6YXRpb24taW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1vcmdhbml6YXRpb24taW1hZ2UlMkY4N2JkYTVlOGYyYTJjY2Q1ZDYwOGRmNGQyYzg2ODFmYTNiMTE3MjIzJTJGb3JpZ2luYWwuanBnJTNGMTY2ODQwODI5OD9peGxpYj1yYi00LjAuMCZ3PTQ0Jmg9NDQmZml0PWNyb3AmbWFzaz1jb3JuZXJzJmNvcm5lci1yYWRpdXM9OCZib3JkZXI9MiUyQ0ZGRkZGRiZmbT1wbmczMiZzPTk3ZWM3OGQ2ZWZmNzg3ZWRjODNkM2M3ODdlOTdjYThh%26mark-x%3D186%26mark-y%3D515%26mark-w%3D40%26mark-h%3D40%26s%3Db611ca94fd9e385d50544909b906446b?ixlib=rb-4.0.0&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9TWFwTGlicmUlMjBHTCUyMEpTJUUzJTgxJUE4V2ViR0wlRTMlODElQTclRTMlODMlQTklRTMlODIlQjklRTMlODIlQkYlRTMlODMlQkMlRTMlODIlQkYlRTMlODIlQTQlRTMlODMlQUIlRTMlODIlOTIlRTUlOEIlOTUlRTclOUElODQlRTMlODElQUIlRTUlOEElQTAlRTUlQjclQTUlRTMlODElOTclRTMlODElQTYlRTMlODElQkYlRTMlODIlOEImdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz0wZGU0NDliY2ZmYzEzMDZkZWY5ODhhMTVmNmNiYmE0Ng&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBzYXRvc2hpNzE5MCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPWJkNzVjYzE5MGNiMzRhZDBiNmI4ZTlkZDU5NmQ3MTAw&blend-x=242&blend-y=454&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&txt64=TUlFUlVORQ&txt-x=242&txt-y=539&txt-width=838&txt-clip=end%2Cellipsis&txt-color=%231E2121&txt-font=Hiragino%20Sans%20W6&txt-size=28&s=33f68f110be06b25fe972f8c4041c36c"
+        }
+      ]
+    },
+    {
+      "title": "Zennの「HLSL」のフィード",
+      "feedUrl": "https://zenn.dev/topics/hlsl/feed",
+      "siteUrl": "https://zenn.dev/topics/hlsl",
+      "articles": []
+    },
+    {
+      "title": "Zennの「glsl」のフィード",
+      "feedUrl": "https://zenn.dev/topics/glsl/feed",
+      "siteUrl": "https://zenn.dev/topics/glsl",
+      "articles": [
+        {
+          "id": "https://zenn.dev/aadebdeb/articles/78149d772436b4",
+          "author": "Atsushi Asakura",
+          "description": "日本の伝統文様の一つに籠目(かごめ)という竹かごの網目のような文様があります。この記事ではGLSLで籠目文様を実装します。\nhttps://ja.wikipedia.org/wiki/籠目\nコードはGLSL Sandbox互換になっています。\nprecision highp float;\n\nuniform vec2 resolution;\n\n#define PI 3.14159265359\n\nmat2 rotate(float r) {\n    float c = cos(r);\n    float s = sin(r);\n    return mat2(c, s, -s, c);\n}\n...",
+          "link": "https://zenn.dev/aadebdeb/articles/78149d772436b4",
+          "publishedOn": "2024-12-06T07:35:23.000Z",
+          "wordCount": null,
+          "title": "GLSLで籠目文様",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--P8w0TSx4--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_66:GLSL%25E3%2581%25A7%25E7%25B1%25A0%25E7%259B%25AE%25E6%2596%2587%25E6%25A7%2598%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Atsushi%2520Asakura%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2JiZWNiNDRjYTUuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png",
+            "length": "0",
+            "type": "image/png"
+          },
+          "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--P8w0TSx4--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_66:GLSL%25E3%2581%25A7%25E7%25B1%25A0%25E7%259B%25AE%25E6%2596%2587%25E6%25A7%2598%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Atsushi%2520Asakura%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2JiZWNiNDRjYTUuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
+        },
+        {
+          "id": "https://zenn.dev/aadebdeb/articles/01db19c9ee4188",
+          "author": "Atsushi Asakura",
+          "description": "日本の伝統文様の一つに麻の葉という六角形をベースにして大麻の葉に似ていることから名づけられた文様があります。この記事ではGLSLを用いて麻の葉文様を実装します。\nhttps://ja.wikipedia.org/wiki/麻の葉文様\nコードはGLSL Sandbox互換になっています。\nprecision highp float;\n\nuniform vec2 resolution;\n\n#define PI 3.14159265359\n\nmat2 rotate(float r) {\n    float c = cos(r);\n    float s = sin(r);\n    return...",
+          "link": "https://zenn.dev/aadebdeb/articles/01db19c9ee4188",
+          "publishedOn": "2024-12-05T05:10:29.000Z",
+          "wordCount": null,
+          "title": "GLSLで麻の葉文様",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--zpfmomj_--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:GLSL%25E3%2581%25A7%25E9%25BA%25BB%25E3%2581%25AE%25E8%2591%2589%25E6%2596%2587%25E6%25A7%2598%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Atsushi%2520Asakura%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2JiZWNiNDRjYTUuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png",
+            "length": "0",
+            "type": "image/png"
+          },
+          "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--zpfmomj_--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:GLSL%25E3%2581%25A7%25E9%25BA%25BB%25E3%2581%25AE%25E8%2591%2589%25E6%2596%2587%25E6%25A7%2598%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Atsushi%2520Asakura%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2JiZWNiNDRjYTUuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
+        },
+        {
+          "id": "https://zenn.dev/karakure178/articles/33311fce7a304a",
+          "author": "からくれ178",
+          "description": "processingの2024年アドベントカレンダー2日目の記事になります。\n今回はp5.scribble.jsと呼ばれる手書き風な図形が簡単に描けるライブラリが非常に楽しいので作例とともに機能紹介したいと思います。\n\n p5.scribble.jsって何？\nprocessingのhandyライブラリのような手書き風な図形を簡単に書くことができるライブラリになります。\n使い方は以下のようにp5.scribble.jsを変数として呼び出して関数を実行します。\nfunction setup() {\n  canvas = createCanvas(500, 500, WEBGL);\n  sb ...",
+          "link": "https://zenn.dev/karakure178/articles/33311fce7a304a",
+          "publishedOn": "2024-12-02T02:25:01.000Z",
+          "wordCount": null,
+          "title": "[p5js]p5.scribble.jsが楽しい！！",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--ddCnPTZE--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%255Bp5js%255Dp5.scribble.js%25E3%2581%258C%25E6%25A5%25BD%25E3%2581%2597%25E3%2581%2584%25EF%25BC%2581%25EF%25BC%2581%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%258B%25E3%2582%2589%25E3%2581%258F%25E3%2582%258C178%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2E0OGNhODViYTcuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png",
+            "length": "0",
+            "type": "image/png"
+          },
+          "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--ddCnPTZE--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%255Bp5js%255Dp5.scribble.js%25E3%2581%258C%25E6%25A5%25BD%25E3%2581%2597%25E3%2581%2584%25EF%25BC%2581%25EF%25BC%2581%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%258B%25E3%2582%2589%25E3%2581%258F%25E3%2582%258C178%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2E0OGNhODViYTcuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
+        },
+        {
+          "id": "https://zenn.dev/aadebdeb/articles/0e1287f5120855",
+          "author": "Atsushi Asakura",
+          "description": "日本の伝統文様の一つに桧垣(ひがき)という2:1の比の長方形を斜め45度に組み合わせたような文様があります。この記事ではGLSLを用いて桧垣文様を実装します。\nhttps://naisouzairyou-annai.jp/pattern/tradition/index.html\nコードはGLSL Sandbox互換になっています。\nprecision highp float;\n\nuniform vec2 resolution;\n\n#define PI 3.14159265359\n\nmat2 rotate(float r) {\n    return mat2(cos(r), -sin(r)...",
+          "link": "https://zenn.dev/aadebdeb/articles/0e1287f5120855",
+          "publishedOn": "2024-11-30T14:29:20.000Z",
+          "wordCount": null,
+          "title": "GLSLで桧垣文様",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--7TpxDkUu--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_66:GLSL%25E3%2581%25A7%25E6%25A1%25A7%25E5%259E%25A3%25E6%2596%2587%25E6%25A7%2598%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Atsushi%2520Asakura%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2JiZWNiNDRjYTUuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png",
+            "length": "0",
+            "type": "image/png"
+          },
+          "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--7TpxDkUu--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_66:GLSL%25E3%2581%25A7%25E6%25A1%25A7%25E5%259E%25A3%25E6%2596%2587%25E6%25A7%2598%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Atsushi%2520Asakura%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2JiZWNiNDRjYTUuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
+        },
+        {
+          "id": "https://zenn.dev/aadebdeb/articles/3f5c0cec132ab8",
+          "author": "Atsushi Asakura",
+          "description": "日本の伝統文様の一つに七宝(しっぽう)という正円を規則的に重なるように並べたような文様があります。GLSLを用いて七宝文様を実装します。\nhttps://ja.wikipedia.org/wiki/七宝紋\nコードはGLSL Sandbox互換になっています。\nprecision highp float;\n\nuniform vec2 resolution;\n\nvoid main( void ) {\n    vec2 p = gl_FragCoord.xy / min(resolution.x, resolution.y);\n    p *= 10.0;\n    p = mod(p, 2.0...",
+          "link": "https://zenn.dev/aadebdeb/articles/3f5c0cec132ab8",
+          "publishedOn": "2024-11-27T10:13:35.000Z",
+          "wordCount": null,
+          "title": "GLSLで七宝文様",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--hAcCZPQu--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_66:GLSL%25E3%2581%25A7%25E4%25B8%2583%25E5%25AE%259D%25E6%2596%2587%25E6%25A7%2598%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Atsushi%2520Asakura%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2JiZWNiNDRjYTUuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png",
+            "length": "0",
+            "type": "image/png"
+          },
+          "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--hAcCZPQu--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_66:GLSL%25E3%2581%25A7%25E4%25B8%2583%25E5%25AE%259D%25E6%2596%2587%25E6%25A7%2598%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Atsushi%2520Asakura%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2JiZWNiNDRjYTUuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
+        },
+        {
+          "id": "https://zenn.dev/m4rumaru/articles/8244b7c6e78454",
+          "author": "poteCh",
+          "description": "はしがき\nSwiftUIでSpriteKitのSKShaderを使って遊んでみようというテーマの記事の９回目です。\n前回の記事 では、SpriteKitで 3Dコンテンツを表示する方法 を紹介しました。\n今回は、ここまでの記事で書ききれなかった OpenGL ES 2.0とSKShaderのGLSLの差分 について、シェーダーのコードの移植時によくエラーとして遭遇しそうなものを中心にとりあげます。\n!\niOS 17でシェーダーのコンパイル時に発生するエラーを確認するための覚書\n今回の記事では、『他所のGLSLのコードをSKShaderへ移植したときに発生したエラーを解決したい』という...",
+          "link": "https://zenn.dev/m4rumaru/articles/8244b7c6e78454",
+          "publishedOn": "2024-11-17T10:12:37.000Z",
+          "wordCount": null,
+          "title": "GLSLシェーダーで遊ぼう with SwiftUI × SpriteKit (9) 〜落穂拾い〜",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--zhwGfmwi--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:GLSL%25E3%2582%25B7%25E3%2582%25A7%25E3%2583%25BC%25E3%2583%2580%25E3%2583%25BC%25E3%2581%25A7%25E9%2581%258A%25E3%2581%25BC%25E3%2581%2586%2520with%2520SwiftUI%2520%25C3%2597%2520SpriteKit%2520%25289%2529%2520%25E3%2580%259C%25E8%2590%25BD%25E7%25A9%2582%25E6%258B%25BE%25E3%2581%2584%25E3%2580%259C%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:poteCh%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzU5ZmVlODRkYTkuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png",
+            "length": "0",
+            "type": "image/png"
+          },
+          "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--zhwGfmwi--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:GLSL%25E3%2582%25B7%25E3%2582%25A7%25E3%2583%25BC%25E3%2583%2580%25E3%2583%25BC%25E3%2581%25A7%25E9%2581%258A%25E3%2581%25BC%25E3%2581%2586%2520with%2520SwiftUI%2520%25C3%2597%2520SpriteKit%2520%25289%2529%2520%25E3%2580%259C%25E8%2590%25BD%25E7%25A9%2582%25E6%258B%25BE%25E3%2581%2584%25E3%2580%259C%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:poteCh%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzU5ZmVlODRkYTkuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
+        },
+        {
+          "id": "https://zenn.dev/aadebdeb/articles/363d6157d23e13",
+          "author": "Atsushi Asakura",
+          "description": "二次元平面上に展開する繰り返しパターンは17のタイプに分類できると言われています。この記事ではGLSLを用いてシェーダーで17の繰り返しパターンをそれぞれ実装をしていきます。\n\n 17の平面繰り返しパターン\n\n p1 (単純な並進)\nvec2 patternP1(vec2 p, vec2 motifSize, float offset) {\n    vec2 q = vec2(\n        mod(p.x - motifSize.x * floor(p.y / motifSize.y) * offset, motifSize.x),\n        mod(p.y, motifSiz...",
+          "link": "https://zenn.dev/aadebdeb/articles/363d6157d23e13",
+          "publishedOn": "2024-11-14T06:39:24.000Z",
+          "wordCount": null,
+          "title": "GLSLで17の平面繰り返しパターン",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--1y7EcSrx--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:GLSL%25E3%2581%25A717%25E3%2581%25AE%25E5%25B9%25B3%25E9%259D%25A2%25E7%25B9%25B0%25E3%2582%258A%25E8%25BF%2594%25E3%2581%2597%25E3%2583%2591%25E3%2582%25BF%25E3%2583%25BC%25E3%2583%25B3%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Atsushi%2520Asakura%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2JiZWNiNDRjYTUuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png",
+            "length": "0",
+            "type": "image/png"
+          },
+          "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--1y7EcSrx--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:GLSL%25E3%2581%25A717%25E3%2581%25AE%25E5%25B9%25B3%25E9%259D%25A2%25E7%25B9%25B0%25E3%2582%258A%25E8%25BF%2594%25E3%2581%2597%25E3%2583%2591%25E3%2582%25BF%25E3%2583%25BC%25E3%2583%25B3%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Atsushi%2520Asakura%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2JiZWNiNDRjYTUuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
         }
       ]
     }

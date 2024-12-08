@@ -2,10 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-12-07T12:17:00.844Z</updated>
+    <updated>2024-12-08T00:54:24.001Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Mayaでreferenceをremoveしたい]]></title>
+        <id>https://qiita.com/9boz/items/89d45adec69fc3db1502</id>
+        <link href="https://qiita.com/9boz/items/89d45adec69fc3db1502"/>
+        <updated>2024-12-07T22:03:32.000Z</updated>
+        <summary type="html"><![CDATA[パスのリンク切れとか、このアセットは使用しない等々の理由でunload状態のreferenceが溜まると、
+一気にremoveしたくなります。
+とりあえず設計
+逆から考えて
+
+referenceをre…]]></summary>
+        <author>
+            <name>mayaタグが付けられた新着記事 - Qiita</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【アセット紹介】Breakdown Maker – シーンとモデル単体どちらも魅力的な作品に簡単制作！]]></title>
         <id>https://cgbox.jp/?p=61108</id>
@@ -14,6 +29,22 @@
         <summary type="html"><![CDATA[こんばんは！ 今回は「Breakdown Maker」を紹介します。 Breakdown Maker 「Breakdown Maker」は、プロフェッショナルなポートフォリオやデモリールを作成することができます。 数回ク […]]]></summary>
         <author>
             <name>UEDA</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【VRChat】レイマーチングのQuest対応(モバイルVR対応)]]></title>
+        <id>https://zenn.dev/dimebag29/articles/5a3bce19f653e0</id>
+        <link href="https://zenn.dev/dimebag29/articles/5a3bce19f653e0"/>
+        <updated>2024-12-07T04:56:16.000Z</updated>
+        <summary type="html"><![CDATA[概要
+VRChatのQuest単機環境でレイマーチング(Raymarching)シェーダーを正常に表示させる方法を紹介します。
+ネット上で公開されているレイマーチングのサンプルコードの大半は、PC環境であるVRChatのPCVRモードでも正常に表示されると思います。しかし、モバイル環境であるQuest単機だと、深度の計算がおかしくなることに加えて、右目に左目と同じ映像が描画されるという問題が起こります。
+レイマーチングをQuest対応させるポイントは以下の2点です
+
+右目に左目と同じ映像が描画される問題はシングルパスインスタンスレンダリング(SPS-I)対応で解決
+深度はモバイル環境...]]></summary>
+        <author>
+            <name>dimebag29</name>
         </author>
     </entry>
     <entry>
@@ -3186,110 +3217,6 @@ The post Scaling Sci-Fi　3DcoatとBlnederを使用してSci-Fi系のジェッ�
         <summary type="html"><![CDATA[Blenderで3Dビジュアライゼーションなどを手掛けるŠime Bugarija氏による、Blenderを使用したシネマティックシーン制作解説「Cinematic Workflow with Dark Alley Scene in Blender」がCG＆デジタルアート学習オンラインプラットフォーム「WINGFOX」にて取り扱い開始されています。]]></summary>
         <author>
             <name>Ymt3D -3dnchu-</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【アセット紹介】Sanctus Liquid Works – あらゆる液体の外観を再現！]]></title>
-        <id>https://cgbox.jp/?p=60485</id>
-        <link href="https://cgbox.jp/2024/11/08/news-asset-sanctus-liquid-works/"/>
-        <updated>2024-11-08T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは！ 今回は「Sanctus Liquid Works」を紹介します。 Sanctus Liquid Works 「Sanctus Liquid Works」は、130個以上の液体プロシージャルマテリアルとジオメ […]]]></summary>
-        <author>
-            <name>UEDA</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Blender 使用、ローポリゲームに最適なテクスチャのつくり方（※英語ムービー）]]></title>
-        <id>https://3dtotal.jp/?p=48549</id>
-        <link href="https://3dtotal.jp/tutorials/48549/"/>
-        <updated>2024-11-08T09:28:36.000Z</updated>
-        <summary type="html"><![CDATA[★The Secret to Creating Stunning Low-Poly Game Optimized Textures（7分34秒） 英国の 3Dアーティスト・映像制作者・講師 Grant Abbitt 氏  […]
-The post Blender 使用、ローポリゲームに最適なテクスチャのつくり方（※英語ムービー） first appeared on 3dtotal 日本語オフィシャルサイト.]]></summary>
-        <author>
-            <name>3dtotal管理人T</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Modo 開発終了を発表 - Foundry社は3DCG統合型ツール「Modo」の開発終了を正式発表！現サブスク契約者は10年間の延長ライセンスを取得可能！]]></title>
-        <id>https://3dnchu.com/?p=1045460</id>
-        <link href="https://3dnchu.com/archives/modo-end-of-development/"/>
-        <updated>2024-11-08T06:50:04.000Z</updated>
-        <summary type="html"><![CDATA[2024年11月8日（日本時間）Foundry社は3DCG統合型ツール「Modo」の開発終了を発表しました。]]></summary>
-        <author>
-            <name>Ymt3D -3dnchu-</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[建築ビジュアライゼーションプラグイン「Chaos Enscape 4.2」リリース！　ホストアプリケーションとの統合強化など - ニュース]]></title>
-        <id>https://cgworld.jp/flashnews/202411-Enscape42.html</id>
-        <link href="https://cgworld.jp/flashnews/202411-Enscape42.html"/>
-        <updated>2024-11-08T05:19:18.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[フォトリアルな CG のオオカミ。映画『ホワイトバード 始まりのワンダー』のVFXブレイクダウン映像]]></title>
-        <id>https://3dtotal.jp/?p=48539</id>
-        <link href="https://3dtotal.jp/news/48539/"/>
-        <updated>2024-11-08T04:21:08.000Z</updated>
-        <summary type="html"><![CDATA[★White Bird VFX Breakdown by Rodeo FX（3分16秒） 2017年の 『ワンダー 君は太陽』の世界的な成功に続き、2017年、私たちは新作映画で作家 R.J. Palacio がイメージ […]
-The post フォトリアルな CG のオオカミ。映画『ホワイトバード 始まりのワンダー』のVFXブレイクダウン映像 first appeared on 3dtotal 日本語オフィシャルサイト.]]></summary>
-        <author>
-            <name>3dtotal管理人T</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CGキャラクターのウォークサイクルを簡単に：Walk Cycles Made Simple (※英語ムービー/ 3ds Max 版 プレビュー)]]></title>
-        <id>https://3dtotal.jp/?p=48526</id>
-        <link href="https://3dtotal.jp/tutorials/48526/"/>
-        <updated>2024-11-08T03:39:19.000Z</updated>
-        <summary type="html"><![CDATA[★Walk Cycles Made Simple // 3dsmax (27分10秒 / プレビュー) シニア・アニメーター Jonathan Abennhaim 氏（#watchmeanimate）制作、CGキャラクタ […]
-The post CGキャラクターのウォークサイクルを簡単に：Walk Cycles Made Simple (※英語ムービー/ 3ds Max 版 プレビュー) first appeared on 3dtotal 日本語オフィシャルサイト.]]></summary>
-        <author>
-            <name>3dtotal管理人T</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Brushstroke Tools - Blender Studioチームによるスタイライズドレンダリング特化の技術デモ映像「Project Gold」と無料アドオン「Brushstroke Tools」が無償公開！]]></title>
-        <id>https://3dnchu.com/?p=1045449</id>
-        <link href="https://3dnchu.com/archives/brushstroke-tools-blender-studio/"/>
-        <updated>2024-11-08T03:22:44.000Z</updated>
-        <summary type="html"><![CDATA[Brushstroke Tools - Blender Studioチームによるスタイライズドレンダリング特化の技術デモ映像「Project Gold」と無料アドオン「Brushstroke Tools」が無償公開されました！]]></summary>
-        <author>
-            <name>Ymt3D -3dnchu-</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Foundry、3Dモデリングツール「Modo」の開発中止を発表]]></title>
-        <id>https://3dtotal.jp/?p=48515</id>
-        <link href="https://3dtotal.jp/news/48515/"/>
-        <updated>2024-11-08T01:50:29.000Z</updated>
-        <summary type="html"><![CDATA[2024年11月7日、ロンドン - メディア・エンターテインメント業界向けクリエイティブ・ソフトウェアのリーディング・デベロッパーである Foundry社 は本日、3Dモデリングツール Modo 17.1 を今年後半にリ […]
-The post Foundry、3Dモデリングツール「Modo」の開発中止を発表 first appeared on 3dtotal 日本語オフィシャルサイト.]]></summary>
-        <author>
-            <name>3dtotal管理人T</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[カナバングラフィックスが生み出した不気味で可愛い人形たちの世界『ARNOLD & PUPPETS』（2）～プリプロダクション＆アート篇 - 特集]]></title>
-        <id>https://cgworld.jp/article/241015-arnoldpuppets02.html</id>
-        <link href="https://cgworld.jp/article/241015-arnoldpuppets02.html"/>
-        <updated>2024-11-08T01:12:03.000Z</updated>
-        <summary type="html"><![CDATA[『ARNOLD & PUPPETS』のメイキング紹介。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Reallusion「2024 アニメーション・アット・ワーク・コンテスト」開催！－応募締切は2025年01月08日(水) 16:59 - ニュース]]></title>
-        <id>https://cgworld.jp/flashnews/2411-reallusion2024.html</id>
-        <link href="https://cgworld.jp/flashnews/2411-reallusion2024.html"/>
-        <updated>2024-11-08T00:35:26.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
         </author>
     </entry>
 </feed>

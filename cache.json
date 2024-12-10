@@ -1330,6 +1330,26 @@
       "siteUrl": "https://cgworld.jp/",
       "articles": [
         {
+          "id": "https://cgworld.jp/special-feature/mouse-creativebox-202410.html",
+          "author": null,
+          "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
+          "link": "https://cgworld.jp/special-feature/mouse-creativebox-202410.html",
+          "publishedOn": "2024-12-10T03:00:00.000Z",
+          "wordCount": 636,
+          "title": "日産自動車の原宿デザインスタジオ・クリエイティブボックスがPC構成を公開！24K・60fpsの動画コンテンツ制作を支える制作環境とは - スペシャルコンテンツ",
+          "imageUrl": "https://cgworld.jp/special-feature/assets_c/2024/11/296a66b9ada26cbc1e008848c38d34b83b550a60-thumb-1000x562-62236.jpg"
+        },
+        {
+          "id": "https://cgworld.jp/regular/cgworld-vol31720251.html",
+          "author": null,
+          "description": "",
+          "link": "https://cgworld.jp/regular/cgworld-vol31720251.html",
+          "publishedOn": "2024-12-10T01:22:17.000Z",
+          "wordCount": null,
+          "title": "CGWORLD vol.317（2025年1月号）本日発売！　見どころをアドバイザリーボードが紹介！ - 連載",
+          "imageUrl": null
+        },
+        {
           "id": "https://cgworld.jp/article/2412-nvidia-ai-summit.html",
           "author": null,
           "description": "",
@@ -3128,6 +3148,21 @@
       "siteUrl": "https://zenn.dev/topics/3dcg",
       "articles": [
         {
+          "id": "https://zenn.dev/nakamuk/articles/7766fcafe075d8",
+          "author": "nkmr",
+          "description": "はじめに\nこんにちは！\nAltive株式会社 Flutterアプリエンジニアの中村です。\nFlutter3.24から使えるようになったFlutter GPUで3Dモデルぐるぐる回したり拡大縮小できるビューアを実装してみました。\n3Dモデルは MaterialsVariantsShoe をお借りしています👟\nhttps://github.com/KhronosGroup/glTF-Sample-Assets/tree/main/Models/MaterialsVariantsShoe\n主に参考にした記事はGetting started with Flutter GPUです🙏🏻\nhttp...",
+          "link": "https://zenn.dev/nakamuk/articles/7766fcafe075d8",
+          "publishedOn": "2024-12-10T02:51:40.000Z",
+          "wordCount": null,
+          "title": "Flutter GPU初期プレビュー版で3Dモデルを回転・拡大縮小できるビューアを作る",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--wYGUsiEH--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Flutter%2520GPU%25E5%2588%259D%25E6%259C%259F%25E3%2583%2597%25E3%2583%25AC%25E3%2583%2593%25E3%2583%25A5%25E3%2583%25BC%25E7%2589%2588%25E3%2581%25A73D%25E3%2583%25A2%25E3%2583%2587%25E3%2583%25AB%25E3%2582%2592%25E5%259B%259E%25E8%25BB%25A2%25E3%2583%25BB%25E6%258B%25A1%25E5%25A4%25A7%25E7%25B8%25AE%25E5%25B0%258F%25E3%2581%25A7%25E3%2581%258D%25E3%2582%258B%25E3%2583%2593%25E3%2583%25A5%25E3%2583%25BC%25E3%2582%25A2%25E3%2582%2592%25E4%25BD%259C%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:nkmr%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzE1NjNmOGUyMzAuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png",
+            "length": "0",
+            "type": "image/png"
+          },
+          "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--wYGUsiEH--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Flutter%2520GPU%25E5%2588%259D%25E6%259C%259F%25E3%2583%2597%25E3%2583%25AC%25E3%2583%2593%25E3%2583%25A5%25E3%2583%25BC%25E7%2589%2588%25E3%2581%25A73D%25E3%2583%25A2%25E3%2583%2587%25E3%2583%25AB%25E3%2582%2592%25E5%259B%259E%25E8%25BB%25A2%25E3%2583%25BB%25E6%258B%25A1%25E5%25A4%25A7%25E7%25B8%25AE%25E5%25B0%258F%25E3%2581%25A7%25E3%2581%258D%25E3%2582%258B%25E3%2583%2593%25E3%2583%25A5%25E3%2583%25BC%25E3%2582%25A2%25E3%2582%2592%25E4%25BD%259C%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:nkmr%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzE1NjNmOGUyMzAuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
+        },
+        {
           "id": "https://zenn.dev/ryu_takatsukasa/articles/3685c7130cd54e",
           "author": "鷹司龍",
           "description": "Unreal Engine（UE）は、ゲーム開発やアプリケーション制作において非常に強力なツールですが、多くの初心者が「難しい」と感じることが少なくありません。\n実際、私もUnreal Engineに触れたときは秒で挫折しました。\n理由としては以下です。\n!\n\n操作性に慣れない\n公式のチュートリアルが意味不明\n何から進めていくのか分からない\n\n\nUnreal Engineはコードなしでゲームを作成できるツールであるので、\n始める前に「自分でも簡単にできるかも」って期待しちゃうんですね。\nそれで、短期間で使いこなせるようになるだろうと、タカをくくった結果、\n想像をはるかに超える難しさで、...",
@@ -3327,16 +3362,6 @@
           "wordCount": 2408,
           "title": "Blender4.0を使ってK3のアヒルをつくろう",
           "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRmxoMy5nb29nbGV1c2VyY29udGVudC5jb20lMkZhJTJGQUNnOG9jSlFRRWd6Ymdpa1pfSEc4MWtkQ215Yk9pRDEwVjk4dG9VenZKaTVrczMzYmclM0RzOTYtYz9peGxpYj1yYi00LjAuMCZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmZm09cG5nMzImcz01OGI2NTcwZTk0NDhmYmJhMzhiMDc1ZTc4MjMxNzc0ZA%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3Dc871f4daeea63233493c197779eb8a10?ixlib=rb-4.0.0&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9QmxlbmRlcjQuMCVFMyU4MiU5MiVFNCVCRCVCRiVFMyU4MSVBMyVFMyU4MSVBNkszJUUzJTgxJUFFJUUzJTgyJUEyJUUzJTgzJTkyJUUzJTgzJUFCJUUzJTgyJTkyJUUzJTgxJUE0JUUzJTgxJThGJUUzJTgyJThEJUUzJTgxJTg2JnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9ZThjZGU5MGRkMWYxYWRlMGZkNzU4YTI3ZGRmYWZjNGI&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBHYWxpTXVyYSZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPWE0YmY0NjRiOTRlNTI2NWE1N2YzZGMzNzJjYTIwZjk0&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=d9c4e897d96c58ea3aa6020c3f2cb962"
-        },
-        {
-          "id": "https://qiita.com/ajinadai/items/d707e3c573e079ae546b",
-          "author": null,
-          "description": "これは、とある金融機関（PCセキュリティがちがち、ソフトウェアインストール一切不可、装備はOffice365とメモ帳、インターネット接続に著しい制限）で戦うサラリーマンの物語である。\nPower P…",
-          "link": "https://qiita.com/ajinadai/items/d707e3c573e079ae546b",
-          "publishedOn": "2024-11-10T13:28:16.000Z",
-          "wordCount": 1269,
-          "title": "Power Pointで3Dモデルを専用ソフトウェアなしで表示させたい！",
-          "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkY1NTQ3NjElMkYxNjNkYWEyOGQyZTcyZTgzODc4NDIwMGU3NWZlYmEzNDQ3M2EwNzAxJTJGbGFyZ2UucG5nJTNGMTU5NjI5MzQyMj9peGxpYj1yYi00LjAuMCZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmZm09cG5nMzImcz1iZDEzMzk1YmIwYWI1OTc4ODZjNzVlNjhmMzhjY2ZhNw%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3Dd71cbc6355b039dc9aed0a2b47db386f?ixlib=rb-4.0.0&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9UG93ZXIlMjBQb2ludCVFMyU4MSVBNzNEJUUzJTgzJUEyJUUzJTgzJTg3JUUzJTgzJUFCJUUzJTgyJTkyJUU1JUIwJTgyJUU3JTk0JUE4JUUzJTgyJUJEJUUzJTgzJTk1JUUzJTgzJTg4JUUzJTgyJUE2JUUzJTgyJUE3JUUzJTgyJUEyJUUzJTgxJUFBJUUzJTgxJTk3JUUzJTgxJUE3JUU4JUExJUE4JUU3JUE0JUJBJUUzJTgxJTk1JUUzJTgxJTlCJUUzJTgxJTlGJUUzJTgxJTg0JUVGJUJDJTgxJnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9YjJmZmE2ODlmZTgzZjFhOGE3MmY2ZTg3MzVjNDE2NjM&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBhamluYWRhaSZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPTAyZTVlZmQzNzExZTkxYWE5MTUzYmI0Njc5ZGU1NmU4&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=50400f4ad92b4240e65f1a6eb1a58c88"
         }
       ]
     },
@@ -3616,16 +3641,6 @@
           "wordCount": 2216,
           "title": "plunkerでshadertoy sandbox その 8",
           "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnNlY3VyZS5ncmF2YXRhci5jb20lMkZhdmF0YXIlMkYyZTBiYjUwNmZiZTkwZTY1NzJiZjkyZmEwNWRiODhkMyUzRmQlM0RodHRwcyUzQSUyRiUyRmEyNDguZS5ha2FtYWkubmV0JTJGYXNzZXRzLmdpdGh1Yi5jb20lMjUyRmltYWdlcyUyNTJGZ3JhdmF0YXJzJTI1MkZncmF2YXRhci11c2VyLTQyMC5wbmc_aXhsaWI9cmItNC4wLjAmYXI9MSUzQTEmZml0PWNyb3AmbWFzaz1lbGxpcHNlJmZtPXBuZzMyJnM9NjEyMDJlMGQ3Y2ZlYTM1YWFkNTZjZWYzY2E1Y2VkMTc%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D0b814bb891b96503099c0706d79b2d96?ixlib=rb-4.0.0&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9cGx1bmtlciVFMyU4MSVBN3NoYWRlcnRveSUyMHNhbmRib3glMjAlRTMlODElOUQlRTMlODElQUUlMjA4JnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9YTgyN2U4OWExMjBlN2NhZWNlOWQ3ZWQ4NTYxMDgxNzY&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBvaGlzYW1hJTQwZ2l0aHViJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9YzAwZmU1MDczYWE4ZTAyNjc4ZDE5MTRlOTU3NjdhNjc&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=437843f795d789d9ec859128eb9e3cfa"
-        },
-        {
-          "id": "https://qiita.com/satoshi7190/items/9ae4d99601eb67880188",
-          "author": null,
-          "description": "DEMOサイト はこちら\nhttps://forestacdev.github.io/maplibre-terrain-visualizer/\nソースコードはこちら\nhttps://github.…",
-          "link": "https://qiita.com/satoshi7190/items/9ae4d99601eb67880188",
-          "publishedOn": "2024-11-10T15:04:59.000Z",
-          "wordCount": 12102,
-          "title": "MapLibre GL JSとWebGLでラスタータイルを動的に加工してみる",
-          "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRmxoMy5nb29nbGV1c2VyY29udGVudC5jb20lMkZhLSUyRkFPaDE0R2hnU3FUd3RJUkNwVXUwRFRDaFNURXBOXzRYdTJkUXhFYkNLREp0YUNvJTNEczUwP2l4bGliPXJiLTQuMC4wJmFyPTElM0ExJmZpdD1jcm9wJm1hc2s9ZWxsaXBzZSZmbT1wbmczMiZzPTZjNjAzMzVlNDU5YWQ3Njg1ZjY4MGUzZjQ5YTFhOWZl%26blend-x%3D120%26blend-y%3D462%26blend-w%3D90%26blend-h%3D90%26blend-mode%3Dnormal%26mark64%3DaHR0cHM6Ly9xaWl0YS1vcmdhbml6YXRpb24taW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1vcmdhbml6YXRpb24taW1hZ2UlMkY4N2JkYTVlOGYyYTJjY2Q1ZDYwOGRmNGQyYzg2ODFmYTNiMTE3MjIzJTJGb3JpZ2luYWwuanBnJTNGMTY2ODQwODI5OD9peGxpYj1yYi00LjAuMCZ3PTQ0Jmg9NDQmZml0PWNyb3AmbWFzaz1jb3JuZXJzJmNvcm5lci1yYWRpdXM9OCZib3JkZXI9MiUyQ0ZGRkZGRiZmbT1wbmczMiZzPTk3ZWM3OGQ2ZWZmNzg3ZWRjODNkM2M3ODdlOTdjYThh%26mark-x%3D186%26mark-y%3D515%26mark-w%3D40%26mark-h%3D40%26s%3Db611ca94fd9e385d50544909b906446b?ixlib=rb-4.0.0&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9TWFwTGlicmUlMjBHTCUyMEpTJUUzJTgxJUE4V2ViR0wlRTMlODElQTclRTMlODMlQTklRTMlODIlQjklRTMlODIlQkYlRTMlODMlQkMlRTMlODIlQkYlRTMlODIlQTQlRTMlODMlQUIlRTMlODIlOTIlRTUlOEIlOTUlRTclOUElODQlRTMlODElQUIlRTUlOEElQTAlRTUlQjclQTUlRTMlODElOTclRTMlODElQTYlRTMlODElQkYlRTMlODIlOEImdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz0wZGU0NDliY2ZmYzEzMDZkZWY5ODhhMTVmNmNiYmE0Ng&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBzYXRvc2hpNzE5MCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPWJkNzVjYzE5MGNiMzRhZDBiNmI4ZTlkZDU5NmQ3MTAw&blend-x=242&blend-y=454&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&txt64=TUlFUlVORQ&txt-x=242&txt-y=539&txt-width=838&txt-clip=end%2Cellipsis&txt-color=%231E2121&txt-font=Hiragino%20Sans%20W6&txt-size=28&s=33f68f110be06b25fe972f8c4041c36c"
         }
       ]
     },

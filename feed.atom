@@ -2,10 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-12-10T00:51:40.150Z</updated>
+    <updated>2024-12-10T03:30:40.138Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[日産自動車の原宿デザインスタジオ・クリエイティブボックスがPC構成を公開！24K・60fpsの動画コンテンツ制作を支える制作環境とは - スペシャルコンテンツ]]></title>
+        <id>https://cgworld.jp/special-feature/mouse-creativebox-202410.html</id>
+        <link href="https://cgworld.jp/special-feature/mouse-creativebox-202410.html"/>
+        <updated>2024-12-10T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Flutter GPU初期プレビュー版で3Dモデルを回転・拡大縮小できるビューアを作る]]></title>
+        <id>https://zenn.dev/nakamuk/articles/7766fcafe075d8</id>
+        <link href="https://zenn.dev/nakamuk/articles/7766fcafe075d8"/>
+        <updated>2024-12-10T02:51:40.000Z</updated>
+        <summary type="html"><![CDATA[はじめに
+こんにちは！
+Altive株式会社 Flutterアプリエンジニアの中村です。
+Flutter3.24から使えるようになったFlutter GPUで3Dモデルぐるぐる回したり拡大縮小できるビューアを実装してみました。
+3Dモデルは MaterialsVariantsShoe をお借りしています👟
+https://github.com/KhronosGroup/glTF-Sample-Assets/tree/main/Models/MaterialsVariantsShoe
+主に参考にした記事はGetting started with Flutter GPUです🙏🏻
+http...]]></summary>
+        <author>
+            <name>nkmr</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CGWORLD vol.317（2025年1月号）本日発売！　見どころをアドバイザリーボードが紹介！ - 連載]]></title>
+        <id>https://cgworld.jp/regular/cgworld-vol31720251.html</id>
+        <link href="https://cgworld.jp/regular/cgworld-vol31720251.html"/>
+        <updated>2024-12-10T01:22:17.000Z</updated>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[UVPackmaster 3 for Maya - グループ化やUDIM管理が秀逸かつGPU動作で高速なUVパッキングなどが可能なUV編集ツールのMaya板が登場！Blender板と同等の機能を搭載！]]></title>
         <id>https://3dnchu.com/?p=1047310</id>
@@ -3369,30 +3405,6 @@ The post イラストをドット絵に!? Red Giant Universe でピクセルア�
         <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
         <author>
             <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MapLibre GL JSとWebGLでラスタータイルを動的に加工してみる]]></title>
-        <id>https://qiita.com/satoshi7190/items/9ae4d99601eb67880188</id>
-        <link href="https://qiita.com/satoshi7190/items/9ae4d99601eb67880188"/>
-        <updated>2024-11-10T15:04:59.000Z</updated>
-        <summary type="html"><![CDATA[DEMOサイト はこちら
-https://forestacdev.github.io/maplibre-terrain-visualizer/
-ソースコードはこちら
-https://github.…]]></summary>
-        <author>
-            <name>GLSLタグが付けられた新着記事 - Qiita</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Power Pointで3Dモデルを専用ソフトウェアなしで表示させたい！]]></title>
-        <id>https://qiita.com/ajinadai/items/d707e3c573e079ae546b</id>
-        <link href="https://qiita.com/ajinadai/items/d707e3c573e079ae546b"/>
-        <updated>2024-11-10T13:28:16.000Z</updated>
-        <summary type="html"><![CDATA[これは、とある金融機関（PCセキュリティがちがち、ソフトウェアインストール一切不可、装備はOffice365とメモ帳、インターネット接続に著しい制限）で戦うサラリーマンの物語である。
-Power P…]]></summary>
-        <author>
-            <name>3DCGタグが付けられた新着記事 - Qiita</name>
         </author>
     </entry>
 </feed>

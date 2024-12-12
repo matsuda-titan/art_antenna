@@ -2,10 +2,77 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-12-11T12:19:18.322Z</updated>
+    <updated>2024-12-12T00:50:11.905Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Moderate Weight Reduction Tools v1.0 - 株式会社ホロラボから3Dスキャンデータなどの高ポリゴン数モデルをサクッと軽量化出来る無料のBlenderアドオンが登場！]]></title>
+        <id>https://3dnchu.com/?p=1045953</id>
+        <link href="https://3dnchu.com/archives/moderate-weight-reduction-tools-v1-0/"/>
+        <updated>2024-12-11T20:09:25.000Z</updated>
+        <summary type="html"><![CDATA[株式会社ホロラボから、3Dスキャンやフォトグラメトリーデータなどの高ポリゴンモデルを軽量化出来るBlenderアドオン「Moderate Weight Reduction Tools v1.0」が無料公開されています！]]></summary>
+        <author>
+            <name>Ymt3D -3dnchu-</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TRELLIS: Structured 3D Latents for Scalable and Versatile 3D Generation - マイクロソフトによるAI活用3Dアセット生成技術が登場！テキストや画像から3Dアセットを生成！]]></title>
+        <id>https://3dnchu.com/?p=1047322</id>
+        <link href="https://3dnchu.com/archives/trellis/"/>
+        <updated>2024-12-11T19:31:08.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft Research、中国科学技術大学、清華大学の研究者らによるAI活用3D生成技術「TRELLIS: Structured 3D Latents for Scalable and Versatile 3D Generation」が公開されています。]]></summary>
+        <author>
+            <name>Ymt3D -3dnchu-</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Maya/Houdiniで実践的なUSDワークフローを試したい]]></title>
+        <id>https://zenn.dev/h_kishimoto/articles/f8545dc57feabb</id>
+        <link href="https://zenn.dev/h_kishimoto/articles/f8545dc57feabb"/>
+        <updated>2024-12-11T18:05:34.000Z</updated>
+        <summary type="html"><![CDATA[Advent Calendar 2024 12/12の記事です。
+USDを使った実践的なプロダクション向け資料はないかと探していたところ、AYONのドキュメントの中にそれらしきもの(↓)がありましたので、読みながら手を動かしてみたいと思います。
+
+ 概要
+AYON USD Book
+https://ayon.ynput.io/docs/category/usd/
+開発元YnputのYoutubeチャンネルに 「OpenUSD in Small Studios」 という講演動画も上がっており、上記ドキュメントはこの講演の少し後くらいにまとめられたもののようです。
+https://youtu...]]></summary>
+        <author>
+            <name>h_kishimoto</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Maya/Houdiniで実践的なUSDワークフローを試したい]]></title>
+        <id>https://zenn.dev/h_kishimoto/articles/f8545dc57feabb</id>
+        <link href="https://zenn.dev/h_kishimoto/articles/f8545dc57feabb"/>
+        <updated>2024-12-11T18:05:34.000Z</updated>
+        <summary type="html"><![CDATA[Advent Calendar 2024 12/12の記事です。
+USDを使った実践的なプロダクション向け資料はないかと探していたところ、AYONのドキュメントの中にそれらしきもの(↓)がありましたので、読みながら手を動かしてみたいと思います。
+
+ 概要
+AYON USD Book
+https://ayon.ynput.io/docs/category/usd/
+開発元YnputのYoutubeチャンネルに 「OpenUSD in Small Studios」 という講演動画も上がっており、上記ドキュメントはこの講演の少し後くらいにまとめられたもののようです。
+https://youtu...]]></summary>
+        <author>
+            <name>h_kishimoto</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Babylon.js公式の X のアカウント関連：12月のポストで気になったものを少し見てみる【Babylon.js】]]></title>
+        <id>https://qiita.com/youtoy/items/38216813b9d262c4ef67</id>
+        <link href="https://qiita.com/youtoy/items/38216813b9d262c4ef67"/>
+        <updated>2024-12-11T15:41:32.000Z</updated>
+        <summary type="html"><![CDATA[この記事は、「Babylon.js Advent Calendar 2024」の 13日目の記事です。
+（1日早いですが、記事は先に公開）
+はじめに
+今回は、以下の公式情報の最近のものを眺めて見てい…]]></summary>
+        <author>
+            <name>Shaderタグが付けられた新着記事 - Qiita</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Blenderで１からレンズを作り美しいボケ味のあるレンズを１から作る方法を解説している50分以上の動画が公開]]></title>
         <id>https://modelinghappy.com/?p=60651</id>
@@ -3401,149 +3468,6 @@ The post 3ds Max ＆ Flow Retopology、リトポロジの秘訣（※英語ム�
 #include <sstream&...]]></summary>
         <author>
             <name>拡張現実を使った手術ナビゲーションを研究する-路傍のいし‐</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cyanpuppets v1.6 - AIベースのモーションキャプチャツール！個人向けに無料で使用可能なバージョンが遂にリリース！]]></title>
-        <id>https://3dnchu.com/?p=1045541</id>
-        <link href="https://3dnchu.com/archives/cyanpuppets-v1-6/"/>
-        <updated>2024-11-12T11:45:34.000Z</updated>
-        <summary type="html"><![CDATA[中国のGuangzhou Cyan Puppet Information TechnologyによるAIを活用したマーカーレスフルボディモーションキャプチャーソリューション「Cyanpuppets v1.6」がリリース！個人向け無料使用可能なモードも搭載されたようです。]]></summary>
-        <author>
-            <name>Ymt3D -3dnchu-</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「とりあえず、やってみる」。コロプラのゲームクリエイターに聞く、斬新なゲームを生み出す環境とは？ - スペシャルコンテンツ]]></title>
-        <id>https://cgworld.jp/special-feature/2411-colopl.html</id>
-        <link href="https://cgworld.jp/special-feature/2411-colopl.html"/>
-        <updated>2024-11-12T11:38:57.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[初心者向けUnity6でボールを転がしてアイテムをゲットする-Roll a Ball-ゲームを作成する24分のチュートリアル動画が公開]]></title>
-        <id>https://modelinghappy.com/?p=60076</id>
-        <link href="https://modelinghappy.com/archives/60076"/>
-        <updated>2024-11-12T10:22:58.000Z</updated>
-        <summary type="html"><![CDATA[unity Unity Japan公式YouTubeチャンネルでは、Unity初心者向けにわかりやすいチュートリアル動画が公開されています。この動画では、Unityのダウンロードからインストール、基本操作の説明までをカバ
-The post 初心者向けUnity6でボールを転がしてアイテムをゲットする-Roll a Ball-ゲームを作成する24分のチュートリアル動画が公開 first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
-        <author>
-            <name>modelinghappy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【アセット紹介】Lightning Animated Low-Poly – 安価なローポリの雷アニメーション！]]></title>
-        <id>https://cgbox.jp/?p=60511</id>
-        <link href="https://cgbox.jp/2024/11/12/news-asset-lightning-animated-low-poly/"/>
-        <updated>2024-11-12T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは！ 今回は「Lightning Animated Low-Poly」を紹介します。 Lightning Animated Low-Poly 「Lightning Animated Low-Poly」は、雷のアニ […]]]></summary>
-        <author>
-            <name>UEDA</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「まめたろう流 CGアニメーション制作講座」- 色・ライティング・質感・アイデアのノウハウ - 11月28日に配信 - ニュース]]></title>
-        <id>https://cgworld.jp/flashnews/mametarou2024.html</id>
-        <link href="https://cgworld.jp/flashnews/mametarou2024.html"/>
-        <updated>2024-11-12T08:51:54.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sketchsoftの3Dスケッチアプリ「Feather」がiPad用完全オフラインアプリとして新生！　機能追加多数、パフォーマンスも向上 - ニュース]]></title>
-        <id>https://cgworld.jp/flashnews/202411-Feather-ipad.html</id>
-        <link href="https://cgworld.jp/flashnews/202411-Feather-ipad.html"/>
-        <updated>2024-11-12T07:26:13.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【インタビュー】キャラクター作りに魅せられて：3Dジェネラリスト Olavo Oliveira氏]]></title>
-        <id>https://3dtotal.jp/?p=48576</id>
-        <link href="https://3dtotal.jp/features/48576/"/>
-        <updated>2024-11-12T05:24:25.000Z</updated>
-        <summary type="html"><![CDATA[Q. 自己紹介をお願いします 私はブラジル出身の 3DCGジェネラリストです。デジタルモデリングと伝統的なモデリングの両方に情熱を注いでおり、他のアーティストの制作プロセスや手法を観察するのが好きです。2003年、13歳 […]
-The post 【インタビュー】キャラクター作りに魅せられて：3Dジェネラリスト Olavo Oliveira氏 first appeared on 3dtotal 日本語オフィシャルサイト.]]></summary>
-        <author>
-            <name>3dtotal管理人T</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【早期割引20％OFFは11/30(土)まで】モデリングに特化したスキルアップイベント『CGWORLD MASTERCLASS ONLINE vol.15』開催！ - ニュース]]></title>
-        <id>https://cgworld.jp/flashnews/20off1130cgworld-masterclass-online-vol15.html</id>
-        <link href="https://cgworld.jp/flashnews/20off1130cgworld-masterclass-online-vol15.html"/>
-        <updated>2024-11-12T04:43:55.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【12/5(木)・12/6(金)開催】SIGGRAPH ASIA 2024に合わせた産学交流のミートアップが東京で開催。参加者募集中！ - ニュース]]></title>
-        <id>https://cgworld.jp/flashnews/125126.html</id>
-        <link href="https://cgworld.jp/flashnews/125126.html"/>
-        <updated>2024-11-12T04:09:31.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BRAIN MAGICが覚えず楽するPCデバイスショートカットナビ「ルミネラ」をMakuakeで提供開始。最大25%OFFの早割で応援購入プランも - ニュース]]></title>
-        <id>https://cgworld.jp/flashnews/2411-brain-magic.html</id>
-        <link href="https://cgworld.jp/flashnews/2411-brain-magic.html"/>
-        <updated>2024-11-12T03:30:25.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[コックピットに入ろう：世界初、UE による航空パイロット訓練用ビジュアルシステム（Unreal Fest Seattle 2024 講演映像）]]></title>
-        <id>https://3dtotal.jp/?p=48560</id>
-        <link href="https://3dtotal.jp/news/48560/"/>
-        <updated>2024-11-12T01:57:44.000Z</updated>
-        <summary type="html"><![CDATA[★Enter the Cockpit: World’s First Visual System to Train Airline Pilots with UE（42分57秒） イベント Unreal Fest Seatt […]
-The post コックピットに入ろう：世界初、UE による航空パイロット訓練用ビジュアルシステム（Unreal Fest Seattle 2024 講演映像） first appeared on 3dtotal 日本語オフィシャルサイト.]]></summary>
-        <author>
-            <name>3dtotal管理人T</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[第11回：AnimNotifyの自動置き換えツール - 連載]]></title>
-        <id>https://cgworld.jp/regular/202411-ue5tool-11.html</id>
-        <link href="https://cgworld.jp/regular/202411-ue5tool-11.html"/>
-        <updated>2024-11-12T01:57:00.000Z</updated>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[イラストをドット絵に!? Red Giant Universe でピクセルアートをつくる]]></title>
-        <id>https://3dtotal.jp/?p=48558</id>
-        <link href="https://3dtotal.jp/news/48558/"/>
-        <updated>2024-11-12T01:52:43.000Z</updated>
-        <summary type="html"><![CDATA[★Red Giant Universe でピクセルアートをつくる（2分22秒） ビデオ トランジション エフェクト プラグイン Red Giant Universe に追加されたディザプラグイン一つである Ordered […]
-The post イラストをドット絵に!? Red Giant Universe でピクセルアートをつくる first appeared on 3dtotal 日本語オフィシャルサイト.]]></summary>
-        <author>
-            <name>3dtotal管理人T</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RGB↔X: Image Decomposition and Synthesis Using Material- and Lighting-aware Diffusion Models - 1枚の写真からアルベド、ラフネス＆メタリック、ノーマル、照度を抽出する技術！ACM SIGGRAPH 2024]]></title>
-        <id>https://3dnchu.com/?p=1045493</id>
-        <link href="https://3dnchu.com/archives/rgbx24/"/>
-        <updated>2024-11-12T01:36:14.000Z</updated>
-        <summary type="html"><![CDATA[1枚の写真からアルベド、ラフネス＆メタリック、ノーマル、照度を抽出する『RGB↔X: Image Decomposition and Synthesis Using Material- and Lighting-aware Diffusion Models』ACM SIGGRAPH 2024技術論文！]]></summary>
-        <author>
-            <name>Ymt3D -3dnchu-</name>
         </author>
     </entry>
 </feed>

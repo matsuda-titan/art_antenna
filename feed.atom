@@ -2,10 +2,52 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-12-12T00:50:11.905Z</updated>
+    <updated>2024-12-12T03:28:50.611Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[学習パネル、高品質ブーリアン。Cinema 4D 2025.1 の機能紹介映像]]></title>
+        <id>https://3dtotal.jp/?p=49033</id>
+        <link href="https://3dtotal.jp/news/49033/"/>
+        <updated>2024-12-12T02:35:41.000Z</updated>
+        <summary type="html"><![CDATA[★Cinema 4D 2025.1の学習パネルで操作を学ぶ（39秒） Cinema 4D 2025.1 で追加された学習パネルは、Cinema 4D 内でチュートリアルが体験できます。その場で操作ができるので、すぐに理解 […]
+The post 学習パネル、高品質ブーリアン。Cinema 4D 2025.1 の機能紹介映像 first appeared on 3dtotal 日本語オフィシャルサイト.]]></summary>
+        <author>
+            <name>3dtotal管理人T</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[さまざまなテクスチャ、マテリアル..。Substance 3D Designer のクイックティップス集（データダウンロード/ ※英語ムービー）]]></title>
+        <id>https://3dtotal.jp/?p=32352</id>
+        <link href="https://3dtotal.jp/tutorials/32352/"/>
+        <updated>2024-12-12T02:23:15.000Z</updated>
+        <summary type="html"><![CDATA[テクスチャ、マテリアル、3Dモデル作成ツール Substance 3D Designer のクイックティップス集。   ★33 ベベルスムース：Bevel Smooth | Designer Quick Tip […]
+The post さまざまなテクスチャ、マテリアル..。Substance 3D Designer のクイックティップス集（データダウンロード/ ※英語ムービー） first appeared on 3dtotal 日本語オフィシャルサイト.]]></summary>
+        <author>
+            <name>3dtotal管理人T</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unreal Engineでの映像制作に適したPCのスペックはどの程度？祭田俊作氏が多角的に「iiyama SENSE∞」の新モデルを検証 - スペシャルコンテンツ]]></title>
+        <id>https://cgworld.jp/special-feature/unitcom-matsurida-202412.html</id>
+        <link href="https://cgworld.jp/special-feature/unitcom-matsurida-202412.html"/>
+        <updated>2024-12-12T02:10:00.000Z</updated>
+        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TVアニメ『MFゴースト』3DCGで表現されたリアルなクルマと迫力のレースを解説！〜（2）レースカット制作篇 - 特集]]></title>
+        <id>https://cgworld.jp/article/316anime-mfg02.html</id>
+        <link href="https://cgworld.jp/article/316anime-mfg02.html"/>
+        <updated>2024-12-12T01:38:35.000Z</updated>
+        <summary type="html"><![CDATA[TVアニメ『MFゴースト』の3DCGメイキング。]]></summary>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Moderate Weight Reduction Tools v1.0 - 株式会社ホロラボから3Dスキャンデータなどの高ポリゴン数モデルをサクッと軽量化出来る無料のBlenderアドオンが登場！]]></title>
         <id>https://3dnchu.com/?p=1045953</id>
@@ -3452,22 +3494,6 @@ The post 3ds Max ＆ Flow Retopology、リトポロジの秘訣（※英語ム�
         <summary type="html"><![CDATA[2024年11月13日（日本時間）Epic Gamesによるコンテンツ開発エンジン最新アップデート『Unreal Engine 5.5』が正式リリースされました！]]></summary>
         <author>
             <name>Ymt3D -3dnchu-</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenGLで3Dキューブにテクスチャを適用し回転させる方法]]></title>
-        <id>https://zenn.dev/navigation_surg/articles/c239f419c4bf02</id>
-        <link href="https://zenn.dev/navigation_surg/articles/c239f419c4bf02"/>
-        <updated>2024-11-12T14:22:52.000Z</updated>
-        <summary type="html"><![CDATA[###本記事では、C++とOpenGLを使って3Dキューブにテクスチャを貼り付け、カメラを通してキューブが回転する様子を実現するプログラムを紹介します。ここではGLFWとGLEWを利用してOpenGLの設定を行い、シェーダープログラムによって3Dキューブの描画を実装しています。
-
- 1. 必要なヘッダーのインクルード
-
- このコードでは、OpenGLの基本機能に加え、GLFW、GLEW、GLMとstb_imageを使います。これにより、ウィンドウ生成、座標変換、テクスチャの読み込みが可能です。
-#include <iostream>
-#include <sstream&...]]></summary>
-        <author>
-            <name>拡張現実を使った手術ナビゲーションを研究する-路傍のいし‐</name>
         </author>
     </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-12-12T03:28:50.611Z</updated>
+    <updated>2024-12-12T08:14:10.260Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
@@ -66,6 +66,23 @@ The post さまざまなテクスチャ、マテリアル..。Substance 3D Desig
         <summary type="html"><![CDATA[Microsoft Research、中国科学技術大学、清華大学の研究者らによるAI活用3D生成技術「TRELLIS: Structured 3D Latents for Scalable and Versatile 3D Generation」が公開されています。]]></summary>
         <author>
             <name>Ymt3D -3dnchu-</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Maya/Houdiniで実践的なUSDワークフローを試したい]]></title>
+        <id>https://zenn.dev/h_kishimoto/articles/f8545dc57feabb</id>
+        <link href="https://zenn.dev/h_kishimoto/articles/f8545dc57feabb"/>
+        <updated>2024-12-11T18:05:34.000Z</updated>
+        <summary type="html"><![CDATA[Advent Calendar 2024 12/12の記事です。
+USDを使った実践的なプロダクション向け資料はないかと探していたところ、AYONのドキュメントの中にそれらしきもの(↓)がありましたので、読みながら手を動かしてみたいと思います。
+
+ 概要
+AYON USD Book
+https://ayon.ynput.io/docs/category/usd/
+開発元YnputのYoutubeチャンネルに 「OpenUSD in Small Studios」 という講演動画も上がっており、上記ドキュメントはこの講演の少し後くらいにまとめられたもののようです。
+https://youtu...]]></summary>
+        <author>
+            <name>h_kishimoto</name>
         </author>
     </entry>
     <entry>

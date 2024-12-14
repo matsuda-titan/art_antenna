@@ -2,10 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-12-14T00:48:14.092Z</updated>
+    <updated>2024-12-14T03:23:35.815Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[お絵かきソフト「Aquamarine Painter」を作ってみた]]></title>
+        <id>https://zenn.dev/matcha_choco010/articles/2024-12-14-aquamarine-painter</id>
+        <link href="https://zenn.dev/matcha_choco010/articles/2024-12-14-aquamarine-painter"/>
+        <updated>2024-12-14T01:21:06.000Z</updated>
+        <summary type="html"><![CDATA[はじめに
+この記事は グラフィックス全般 Advent Calendar 2024 の14日目の記事です。
+今年の夏頃に私が制作した「Aquamarine Painter」というお絵かきツールについて技術面を含めて軽く紹介する記事を書いてみようと思います。
+
+Aquamarine Painter のスクリーンショット
+この グラフィックス全般 Advent Calendar 2024 には他にもお絵かきツールを作成していらっしゃる方の記事があるようです。合わせて読んでみると面白いかもしれません。
+https://qiita.com/warotarock/items/13b2ff883...]]></summary>
+        <author>
+            <name>折登 樹</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[UnityでUSDを使ってみたい]]></title>
         <id>https://qiita.com/holy-knight/items/b2cebd2f02ba97b502d7</id>
@@ -3612,17 +3628,6 @@ The post 2人は再会できるのか!?『ウォーキング・デッド：ダ�
         <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
         <author>
             <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ワコムが画像に著作権をつけてくれるサービスWacom Yuifyのベータ版が日本でも2024年11月15日より公開]]></title>
-        <id>https://modelinghappy.com/?p=60091</id>
-        <link href="https://modelinghappy.com/archives/60091"/>
-        <updated>2024-11-14T13:13:35.000Z</updated>
-        <summary type="html"><![CDATA[Wacom Yuify 海外では一足早くベータ版が公開になっていたWacom Yuifyですが日本でも2024年11月15日からオープンベータ版が公開されます。 Wacom Yuifyは作成した画像にマイクロマーク技術に
-The post ワコムが画像に著作権をつけてくれるサービスWacom Yuifyのベータ版が日本でも2024年11月15日より公開 first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
-        <author>
-            <name>modelinghappy</name>
         </author>
     </entry>
 </feed>

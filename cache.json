@@ -2556,16 +2556,6 @@
           "wordCount": 3492,
           "title": "2D Cloud Textures Pack 125種類 長編1024pxのjpeg形式 雲テクスチャパックが無料配布されています",
           "imageUrl": "https://modelinghappy.com/wp-content/uploads/2024/11/20241117_2D_Cloud_texutres_Pack_01.jpg"
-        },
-        {
-          "id": "https://modelinghappy.com/?p=60091",
-          "author": "modelinghappy",
-          "description": "Wacom Yuify 海外では一足早くベータ版が公開になっていたWacom Yuifyですが日本でも2024年11月15日からオープンベータ版が公開されます。 Wacom Yuifyは作成した画像にマイクロマーク技術に\nThe post ワコムが画像に著作権をつけてくれるサービスWacom Yuifyのベータ版が日本でも2024年11月15日より公開 first appeared on 3DCG最新情報サイト MODELING HAPPY.",
-          "link": "https://modelinghappy.com/archives/60091",
-          "publishedOn": "2024-11-14T13:13:35.000Z",
-          "wordCount": 3454,
-          "title": "ワコムが画像に著作権をつけてくれるサービスWacom Yuifyのベータ版が日本でも2024年11月15日より公開",
-          "imageUrl": "https://modelinghappy.com/wp-content/uploads/2024/11/20241114_wacom_uify.jpg"
         }
       ]
     },
@@ -3117,7 +3107,23 @@
       "title": "Zennの「graphics」のフィード",
       "feedUrl": "https://zenn.dev/topics/graphics/feed",
       "siteUrl": "https://zenn.dev/topics/graphics",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://zenn.dev/matcha_choco010/articles/2024-12-14-aquamarine-painter",
+          "author": "折登 樹",
+          "description": "はじめに\nこの記事は グラフィックス全般 Advent Calendar 2024 の14日目の記事です。\n今年の夏頃に私が制作した「Aquamarine Painter」というお絵かきツールについて技術面を含めて軽く紹介する記事を書いてみようと思います。\n\nAquamarine Painter のスクリーンショット\nこの グラフィックス全般 Advent Calendar 2024 には他にもお絵かきツールを作成していらっしゃる方の記事があるようです。合わせて読んでみると面白いかもしれません。\nhttps://qiita.com/warotarock/items/13b2ff883...",
+          "link": "https://zenn.dev/matcha_choco010/articles/2024-12-14-aquamarine-painter",
+          "publishedOn": "2024-12-14T01:21:06.000Z",
+          "wordCount": null,
+          "title": "お絵かきソフト「Aquamarine Painter」を作ってみた",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--UUcHoEqh--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2581%258A%25E7%25B5%25B5%25E3%2581%258B%25E3%2581%258D%25E3%2582%25BD%25E3%2583%2595%25E3%2583%2588%25E3%2580%258CAquamarine%2520Painter%25E3%2580%258D%25E3%2582%2592%25E4%25BD%259C%25E3%2581%25A3%25E3%2581%25A6%25E3%2581%25BF%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E6%258A%2598%25E7%2599%25BB%2520%25E6%25A8%25B9%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2U4OGNmZDY1YTQuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png",
+            "length": "0",
+            "type": "image/png"
+          },
+          "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--UUcHoEqh--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2581%258A%25E7%25B5%25B5%25E3%2581%258B%25E3%2581%258D%25E3%2582%25BD%25E3%2583%2595%25E3%2583%2588%25E3%2580%258CAquamarine%2520Painter%25E3%2580%258D%25E3%2582%2592%25E4%25BD%259C%25E3%2581%25A3%25E3%2581%25A6%25E3%2581%25BF%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E6%258A%2598%25E7%2599%25BB%2520%25E6%25A8%25B9%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2U4OGNmZDY1YTQuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
+        }
+      ]
     },
     {
       "title": "Zennの「Shader Graph」のフィード",

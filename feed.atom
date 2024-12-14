@@ -2,10 +2,100 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-12-13T12:19:06.406Z</updated>
+    <updated>2024-12-14T00:48:14.092Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[UnityでUSDを使ってみたい]]></title>
+        <id>https://qiita.com/holy-knight/items/b2cebd2f02ba97b502d7</id>
+        <link href="https://qiita.com/holy-knight/items/b2cebd2f02ba97b502d7"/>
+        <updated>2024-12-13T22:04:11.000Z</updated>
+        <summary type="html"><![CDATA[はじめに
+この記事は株式会社アプリボットのAdvent Calendar14日目の記事です
+はじめまして、株式会社アプリボットのアセット制作支援組織、YojiGen所属TAのholyです
+この記事で…]]></summary>
+        <author>
+            <name>mayaタグが付けられた新着記事 - Qiita</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[レイマーチングでクリスマスツリーを作る方法を解説してみる]]></title>
+        <id>https://qiita.com/Yohei_Suda/items/36a4f326f4023535de7d</id>
+        <link href="https://qiita.com/Yohei_Suda/items/36a4f326f4023535de7d"/>
+        <updated>2024-12-13T22:04:01.000Z</updated>
+        <summary type="html"><![CDATA[はじめに
+シェーダ初心者です。
+アドベントカレンダーなので何かクリスマスっぽい絵をレイマーチングで作りたかったのですが、
+0から作る能力と時間がなかったのでshadertoyに上がっている素晴らしい…]]></summary>
+        <author>
+            <name>Shaderタグが付けられた新着記事 - Qiita</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[レイマーチングでクリスマスツリーを作る方法を解説してみる]]></title>
+        <id>https://qiita.com/Yohei_Suda/items/36a4f326f4023535de7d</id>
+        <link href="https://qiita.com/Yohei_Suda/items/36a4f326f4023535de7d"/>
+        <updated>2024-12-13T22:04:01.000Z</updated>
+        <summary type="html"><![CDATA[はじめに
+シェーダ初心者です。
+アドベントカレンダーなので何かクリスマスっぽい絵をレイマーチングで作りたかったのですが、
+0から作る能力と時間がなかったのでshadertoyに上がっている素晴らしい…]]></summary>
+        <author>
+            <name>GLSLタグが付けられた新着記事 - Qiita</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[シネマティック2D CGアニメーションの全工程実践講座 - 企画からレンダリングまで！Cinema 4Dなどを使用し躍動感あるシネマティックCGアニメーションを制作するプロセス解説コース！Wingfoxにて取り扱い開始！]]></title>
+        <id>https://3dnchu.com/?p=1047351</id>
+        <link href="https://3dnchu.com/archives/hannie-cg-animation-tutor-wingfox/"/>
+        <updated>2024-12-13T18:24:14.000Z</updated>
+        <summary type="html"><![CDATA[HeyShowスタジオの創設者でディレクター／3DアーティストのHannie氏による「シネマティック2D CGアニメーションの全工程実践講座」がCG＆デジタルアート学習オンラインプラットフォーム「WINGFOX」にて取り扱い開始されています。]]></summary>
+        <author>
+            <name>Ymt3D -3dnchu-</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mayaで反対側のfaceを取得したい1]]></title>
+        <id>https://qiita.com/9boz/items/ea25603e51012e70401d</id>
+        <link href="https://qiita.com/9boz/items/ea25603e51012e70401d"/>
+        <updated>2024-12-13T14:20:47.000Z</updated>
+        <summary type="html"><![CDATA[反対側のfaceを取りたい場面に出くわしました。
+selectionをシンメトリーにして取得ってのも考えたのですが、
+なんかもっとダイレクトにとりたいなーと。
+どうすれば？
+faceそのものの位置っ…]]></summary>
+        <author>
+            <name>mayaタグが付けられた新着記事 - Qiita</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GLSLで工字繋ぎ文様]]></title>
+        <id>https://zenn.dev/aadebdeb/articles/f8cf7b4dfb6db3</id>
+        <link href="https://zenn.dev/aadebdeb/articles/f8cf7b4dfb6db3"/>
+        <updated>2024-12-13T14:07:21.000Z</updated>
+        <summary type="html"><![CDATA[日本の伝統文様の一つに工字(こうじ)繋ぎという「工」の文字を連続して配置したような文様があります。この記事では工字繋ぎ文様をGLSLで実装します。
+https://www.modalina.jp/modapedia/w/e5b7a5e5ad97e7b98be3818e/?srsltid=AfmBOop5Bvp4sJ2ruNQ74OqPTRmp_UrV_kiJIUHR8r-Lk8jmPLXDjhdT
+コードはGLSL Sandbox互換になっています。
+precision highp float;
+
+uniform vec2 resolution;
+
+#define PI 3.141592...]]></summary>
+        <author>
+            <name>Atsushi Asakura</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Maya用UVパッキングツール「UVPackmaster 3 for Maya」リリース！　Blender版と同様の便利な機能群を搭載 - ニュース]]></title>
+        <id>https://cgworld.jp/flashnews/202412-UVPack-Maya.html</id>
+        <link href="https://cgworld.jp/flashnews/202412-UVPack-Maya.html"/>
+        <updated>2024-12-13T13:27:52.000Z</updated>
+        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【アドオン紹介】Linkage Customizable Marking Menus – 自分だけのパイメニューでワークフローを効率化！]]></title>
         <id>https://cgbox.jp/?p=61191</id>
@@ -3533,86 +3623,6 @@ The post 2人は再会できるのか!?『ウォーキング・デッド：ダ�
 The post ワコムが画像に著作権をつけてくれるサービスWacom Yuifyのベータ版が日本でも2024年11月15日より公開 first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
         <author>
             <name>modelinghappy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[IKurve 手動で作成したカーブ上に均等にボーンを自動作成してアーマチュアを簡単作成出来るBlender用無料アドオン]]></title>
-        <id>https://modelinghappy.com/?p=60086</id>
-        <link href="https://modelinghappy.com/archives/60086"/>
-        <updated>2024-11-14T11:53:29.000Z</updated>
-        <summary type="html"><![CDATA[IKurve #8211; IK Rig on curve Addon for Blender IKurveはBlenderで曲線を作成したら、その曲線に沿ってボーンを自動配置して、簡単にアーマチュアを作成出来るアドオ
-The post IKurve 手動で作成したカーブ上に均等にボーンを自動作成してアーマチュアを簡単作成出来るBlender用無料アドオン first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
-        <author>
-            <name>modelinghappy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【アドオン紹介】Lazy Panel Generator – パネル調の詳細を追加！]]></title>
-        <id>https://cgbox.jp/?p=60527</id>
-        <link href="https://cgbox.jp/2024/11/14/news-addon-lazy-panel-generator/"/>
-        <updated>2024-11-14T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは！ 今回はアドオンの「Lazy Panel Generator」を紹介します。 こちらのリンクから購入することができます。 Lazy Panel Generator 「Lazy Panel Generator」 […]]]></summary>
-        <author>
-            <name>UEDA</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GLSLで17の平面繰り返しパターン]]></title>
-        <id>https://zenn.dev/aadebdeb/articles/363d6157d23e13</id>
-        <link href="https://zenn.dev/aadebdeb/articles/363d6157d23e13"/>
-        <updated>2024-11-14T06:39:24.000Z</updated>
-        <summary type="html"><![CDATA[二次元平面上に展開する繰り返しパターンは17のタイプに分類できると言われています。この記事ではGLSLを用いてシェーダーで17の繰り返しパターンをそれぞれ実装をしていきます。
-
- 17の平面繰り返しパターン
-
- p1 (単純な並進)
-vec2 patternP1(vec2 p, vec2 motifSize, float offset) {
-    vec2 q = vec2(
-        mod(p.x - motifSize.x * floor(p.y / motifSize.y) * offset, motifSize.x),
-        mod(p.y, motifSiz...]]></summary>
-        <author>
-            <name>Atsushi Asakura</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[名作映画から最新作まで！ 貴重なパイロット映像を集めた映画祭「渋⾕パイロットフィルムフェスティバル」が12/14（土）渋谷にて開催決定 - ニュース]]></title>
-        <id>https://cgworld.jp/flashnews/2411-pilotfilm.html</id>
-        <link href="https://cgworld.jp/flashnews/2411-pilotfilm.html"/>
-        <updated>2024-11-14T04:59:25.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Framesotre より、マーベル映画『デッドプール&ウルヴァリン』のVFXブレイクダウン映像]]></title>
-        <id>https://3dtotal.jp/?p=48603</id>
-        <link href="https://3dtotal.jp/news/48603/"/>
-        <updated>2024-11-14T04:58:52.000Z</updated>
-        <summary type="html"><![CDATA[★Deadpool & Wolverine VFX Breakdown（2分12秒） VFXスーパーバイザー Matt Twyford、Robert Allman、Arek Komorowski、そして、Joao Sit […]
-The post Framesotre より、マーベル映画『デッドプール&ウルヴァリン』のVFXブレイクダウン映像 first appeared on 3dtotal 日本語オフィシャルサイト.]]></summary>
-        <author>
-            <name>3dtotal管理人T</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[#02：サクサク身につくUE5＆ゲーム開発のキホン『Unreal Engine 5 ゲーム開発入門』 - 連載]]></title>
-        <id>https://cgworld.jp/regular/202411-cgw316-book.html</id>
-        <link href="https://cgworld.jp/regular/202411-cgw316-book.html"/>
-        <updated>2024-11-14T03:58:00.000Z</updated>
-        <summary type="html"><![CDATA[ボーンデジタルの書籍からゲーム開発未経験者の方に向けたUnreal Engine 5の入門書を紹介。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CGWORLD定期購読「リモートワーククリエイター応援プラン」終了のお知らせ - ニュース]]></title>
-        <id>https://cgworld.jp/flashnews/teiki550close.html</id>
-        <link href="https://cgworld.jp/flashnews/teiki550close.html"/>
-        <updated>2024-11-14T03:56:00.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
         </author>
     </entry>
 </feed>

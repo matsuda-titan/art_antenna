@@ -555,21 +555,6 @@
           "wordCount": 2673,
           "title": "【初心者向け】Unreal Engine 5 マテリアルの作り方・設定方法【UE5】",
           "imageUrl": "https://cgbox.jp/wp-content/uploads/2024/11/6d939d0f7e5baf0eb23876e499f9f2f5.jpg"
-        },
-        {
-          "id": "https://cgbox.jp/?p=60592",
-          "author": "UEDA",
-          "description": "こんばんは！ 今回は「Node Charts: Info Graphs For Blender Using Geometry Nodes」を紹介します。 Node Charts: Info Graphs For Blen […]",
-          "link": "https://cgbox.jp/2024/11/16/news-asset-node-charts/",
-          "publishedOn": "2024-11-16T10:00:00.000Z",
-          "wordCount": 2083,
-          "title": "【アセット紹介】Node Charts – デザインされたグラフ・チャートのコレクション！",
-          "enclosure": {
-            "url": "https://cgbox.jp/wp-content/uploads/2024/11/7-1.mp4",
-            "length": "0",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://cgbox.jp/wp-content/uploads/2024/11/poster_august.jpg"
         }
       ]
     },
@@ -584,6 +569,16 @@
       "feedUrl": "https://tech-art.online/feed/",
       "siteUrl": "https://tech-art.online",
       "articles": [
+        {
+          "id": "https://tech-art.online/?p=1879",
+          "author": "管理人",
+          "description": "Mayaの標準リトポロジー機能とFlow Retopology for Mayaの機能解説をしてみました。\nスキャンモデルのリトポロジー with Flow Retopology first appeared on TECH ART ONLINE.",
+          "link": "https://tech-art.online/maya-flow-retopology/?utm_source=rss&utm_medium=rss&utm_campaign=maya-flow-retopology",
+          "publishedOn": "2024-12-15T13:00:00.000Z",
+          "wordCount": 14489,
+          "title": "スキャンモデルのリトポロジー with Flow Retopology",
+          "imageUrl": "https://tech-art.online/wordpress/wp-content/uploads/2024/12/20241207_134316_resize-485x300.jpg"
+        },
         {
           "id": "https://tech-art.online/?p=1891",
           "author": "管理人",
@@ -1281,21 +1276,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "https://3dnchu.com/wp-content/uploads/job-fair-24-cgw-small.gif"
-        },
-        {
-          "id": "https://3dnchu.com/?p=1045635",
-          "author": "Ymt3D -3dnchu-",
-          "description": "Blender Bitsによる、ワンクリックでオブジェクトに炎上エフェクトを付与出来るBlenderアドオン「Fire It!」がリリースされました！",
-          "link": "https://3dnchu.com/archives/fire-it/",
-          "publishedOn": "2024-11-16T09:25:29.000Z",
-          "wordCount": 8523,
-          "title": "Fire It! - ワンクリックで炎上させるBlenderアドオン！軽快なGeometry Nodes製エフェクト！",
-          "enclosure": {
-            "url": "https://3dnchu.com/wp-content/uploads/Fire-It.webp",
-            "length": "954728",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://3dnchu.com/wp-content/uploads/Fire-It.webp"
         }
       ]
     },
@@ -3295,6 +3275,16 @@
       "siteUrl": "https://qiita.com",
       "articles": [
         {
+          "id": "https://qiita.com/salt-k2t/items/008500f7022f24ec7615",
+          "author": null,
+          "description": "Maya Advent Calendar 2024 の16日目の記事になります。\nはじめに\nMayaのBifrostを使用した補助骨作成を行います。\n補助骨とは何かの説明や、標準ノードを使用した手首…",
+          "link": "https://qiita.com/salt-k2t/items/008500f7022f24ec7615",
+          "publishedOn": "2024-12-15T22:06:09.000Z",
+          "wordCount": 1080,
+          "title": "MayaのBifrostを使用した曲げ捻り補助骨の実装例",
+          "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Fadvent-calendar-ogp-background-7940cd1c8db80a7ec40711d90f43539e.jpg%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRmF2YXRhcnMwLmdpdGh1YnVzZXJjb250ZW50LmNvbSUyRnUlMkYxOTc5MzYxMSUzRnYlM0Q0P2l4bGliPXJiLTQuMC4wJmFyPTElM0ExJmZpdD1jcm9wJm1hc2s9ZWxsaXBzZSZmbT1wbmczMiZzPTkzOGVlMzQ4NTU3ZjhmZjUyYzg3ZDE5N2UxOTM0MTdi%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D1580aed577a820c0e584581dad1794c1?ixlib=rb-4.0.0&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9TWF5YSVFMyU4MSVBRUJpZnJvc3QlRTMlODIlOTIlRTQlQkQlQkYlRTclOTQlQTglRTMlODElOTclRTMlODElOUYlRTYlOUIlQjIlRTMlODElOTIlRTYlOEQlQkIlRTMlODIlOEElRTglQTMlOUMlRTUlOEElQTklRTklQUElQTglRTMlODElQUUlRTUlQUUlOUYlRTglQTMlODUlRTQlQkUlOEImdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzNBM0MzQyZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz1mN2JlNzMwMmJhM2U3NGMxOWIxNjcyZjMzZjU3MzM2YQ&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBzYWx0LWsydCZ0eHQtY29sb3I9JTIzM0EzQzNDJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPWE1Y2I3YzZiYWY3ZjZkNjkzMzQ3NDJhNTFlODBhODJm&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=d1f5a9fa15e22a5d962e524f1d0445d9"
+        },
+        {
           "id": "https://qiita.com/9boz/items/c97ea70133b229f7d894",
           "author": null,
           "description": "mayaでマルチUVチャンネルを持つメッシュにて、\nマテリアルごとにUVを変えて使用したい場面がありまして。\n通常であれば、\nrerationShipEditorからポチポチやるのかなと思うのですが…",
@@ -3516,6 +3506,16 @@
       "feedUrl": "https://qiita.com/tags/shader/feed",
       "siteUrl": "https://qiita.com",
       "articles": [
+        {
+          "id": "https://qiita.com/wayama_ryousuke/items/03fa1e704b201b04869a",
+          "author": null,
+          "description": "はじめに\n今年の11月にFOSS4G 2024 Japanが開催され、コアデイでは弊社も「CesiumのShaderを用いた気象データ3Dアニメーションについて」というタイトルで発表させていただきま…",
+          "link": "https://qiita.com/wayama_ryousuke/items/03fa1e704b201b04869a",
+          "publishedOn": "2024-12-16T00:50:36.000Z",
+          "wordCount": 1853,
+          "title": "CesiumのShaderを用いた気象データ3Dアニメーションについて",
+          "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnFpaXRhLWltYWdlLXN0b3JlLnMzLmFtYXpvbmF3cy5jb20lMkYwJTJGNTg2NzElMkZwcm9maWxlLWltYWdlcyUyRjE0NzM2OTQ3MDE_aXhsaWI9cmItNC4wLjAmYXI9MSUzQTEmZml0PWNyb3AmbWFzaz1lbGxpcHNlJmZtPXBuZzMyJnM9MmU3OTM4ZDY1ZDFlOWIwMDZiZGZjNWI1ZGIyMThmNGY%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D2529dd34d0c2086283f6d648871387f4?ixlib=rb-4.0.0&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9Q2VzaXVtJUUzJTgxJUFFU2hhZGVyJUUzJTgyJTkyJUU3JTk0JUE4JUUzJTgxJTg0JUUzJTgxJTlGJUU2JUIwJTk3JUU4JUIxJUExJUUzJTgzJTg3JUUzJTgzJUJDJUUzJTgyJUJGM0QlRTMlODIlQTIlRTMlODMlOEIlRTMlODMlQTElRTMlODMlQkMlRTMlODIlQjclRTMlODMlQTclRTMlODMlQjMlRTMlODElQUIlRTMlODElQTQlRTMlODElODQlRTMlODElQTYmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz1kM2MxYWVkOWI0ODk0OTlkNGNjYzEwZTE0MjNkYmRlOA&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDB3YXlhbWFfcnlvdXN1a2UmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz0xNTBlNjhiODg5NTc5ZjZkZTk5YzAwY2I1NmEyNjc1Zg&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=82d8111e0c2a2dbf14fa70eff0fcbe13"
+        },
         {
           "id": "https://qiita.com/youtoy/items/c7887229cb2d064cf3c2",
           "author": null,
@@ -3766,16 +3766,6 @@
           "wordCount": 2197,
           "title": "HLSL Tools for Visual Studio を URP に対応させてみた",
           "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYzNzI2NjgxJTJGZTdmNjAwYmU0MGEzMjI5ZGQ0ZmJkMGNiMzkxMTk4ZmY0Y2IyYzA5NCUyRnhfbGFyZ2UucG5nJTNGMTczMjgxMzYyMz9peGxpYj1yYi00LjAuMCZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmZm09cG5nMzImcz02NmFlN2Y3NmIzYmY5MTI1MDllYzIwMGQwZGI4Yjg5OQ%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D7f72fa3ffc8c60bb8e502dc05a385b3b?ixlib=rb-4.0.0&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9SExTTCUyMFRvb2xzJTIwZm9yJTIwVmlzdWFsJTIwU3R1ZGlvJTIwJUUzJTgyJTkyJTIwVVJQJTIwJUUzJTgxJUFCJUU1JUFGJUJFJUU1JUJGJTlDJUUzJTgxJTk1JUUzJTgxJTlCJUUzJTgxJUE2JUUzJTgxJUJGJUUzJTgxJTlGJnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9OWFiZmNkN2YxMDRkMzA2MGRhOWM5MzdjODBmMmM4MTA&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBfX0FfX0ImdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz04YmU2ZWQ4NTBhNzE2ZDQxNzEwZGE3MWIyZGNlMGE5NQ&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=f161a2f1cc1484819c070296c03a6b01"
-        },
-        {
-          "id": "https://qiita.com/kusuyun/items/7bf4062af4afedea9ac7",
-          "author": null,
-          "description": "2Dなのに立体が描ける！\n\nコード\n学校の課題で作りました\nRaymarchingPS.hlsl\n#include \"Common.hlsl\"\n\n// 解像度\nstatic float2 RESOLUT…",
-          "link": "https://qiita.com/kusuyun/items/7bf4062af4afedea9ac7",
-          "publishedOn": "2024-11-16T06:27:38.000Z",
-          "wordCount": 4148,
-          "title": "HLSLで初めてのレイマーチング",
-          "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYzODAyNzA5JTJGNzk5Y2Y4Y2Q5MThmNWMxYmIzNThmNjcwMDFmYTI5NjdkZGM5NjJlZCUyRnhfbGFyZ2UucG5nJTNGMTcyMDM4MTIwOT9peGxpYj1yYi00LjAuMCZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmZm09cG5nMzImcz01MGNiN2Y1NTU0YjliMmVlNjBkNTMxMmNjNWNmY2FlMw%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D125359a1715d9b15fb4be06d42cdac1a?ixlib=rb-4.0.0&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9SExTTCVFMyU4MSVBNyVFNSU4OCU5RCVFMyU4MiU4MSVFMyU4MSVBNiVFMyU4MSVBRSVFMyU4MyVBQyVFMyU4MiVBNCVFMyU4MyU5RSVFMyU4MyVCQyVFMyU4MyU4MSVFMyU4MyVCMyVFMyU4MiVCMCZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnR4dC1wYWQ9MCZzPTQ1ZjYzMmQxMzFjNGFiMjkyNzk4ODY2NzZkNzQ1MWM2&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBrdXN1eXVuJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9NzkxNTllMTY2ZGMxZDE0ZWQ3MmE3YmU4OTRjYmY5ZjA&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=fb01665208fae2979345abfffd0ef1fa"
         }
       ]
     },

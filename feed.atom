@@ -2,10 +2,45 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-12-15T12:17:21.423Z</updated>
+    <updated>2024-12-16T00:52:39.075Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[CesiumのShaderを用いた気象データ3Dアニメーションについて]]></title>
+        <id>https://qiita.com/wayama_ryousuke/items/03fa1e704b201b04869a</id>
+        <link href="https://qiita.com/wayama_ryousuke/items/03fa1e704b201b04869a"/>
+        <updated>2024-12-16T00:50:36.000Z</updated>
+        <summary type="html"><![CDATA[はじめに
+今年の11月にFOSS4G 2024 Japanが開催され、コアデイでは弊社も「CesiumのShaderを用いた気象データ3Dアニメーションについて」というタイトルで発表させていただきま…]]></summary>
+        <author>
+            <name>Shaderタグが付けられた新着記事 - Qiita</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MayaのBifrostを使用した曲げ捻り補助骨の実装例]]></title>
+        <id>https://qiita.com/salt-k2t/items/008500f7022f24ec7615</id>
+        <link href="https://qiita.com/salt-k2t/items/008500f7022f24ec7615"/>
+        <updated>2024-12-15T22:06:09.000Z</updated>
+        <summary type="html"><![CDATA[Maya Advent Calendar 2024 の16日目の記事になります。
+はじめに
+MayaのBifrostを使用した補助骨作成を行います。
+補助骨とは何かの説明や、標準ノードを使用した手首…]]></summary>
+        <author>
+            <name>mayaタグが付けられた新着記事 - Qiita</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[スキャンモデルのリトポロジー with Flow Retopology]]></title>
+        <id>https://tech-art.online/?p=1879</id>
+        <link href="https://tech-art.online/maya-flow-retopology/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=maya-flow-retopology"/>
+        <updated>2024-12-15T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Mayaの標準リトポロジー機能とFlow Retopology for Mayaの機能解説をしてみました。
+スキャンモデルのリトポロジー with Flow Retopology first appeared on TECH ART ONLINE.]]></summary>
+        <author>
+            <name>管理人</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[OpenAIの動画生成AI「Sora」一般公開！　有料プランで最大1080p・20秒の動画を月500本まで生成可能　※新規登録制限から復旧済み - ニュース]]></title>
         <id>https://cgworld.jp/flashnews/202412-OpenAI-Sora.html</id>
@@ -3637,44 +3672,6 @@ iOS 17でシェーダーのコンパイル時に発生するエラーを確認�
 今回の記事では、『他所のGLSLのコードをSKShaderへ移植したときに発生したエラーを解決したい』という...]]></summary>
         <author>
             <name>poteCh</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【アセット紹介】Node Charts – デザインされたグラフ・チャートのコレクション！]]></title>
-        <id>https://cgbox.jp/?p=60592</id>
-        <link href="https://cgbox.jp/2024/11/16/news-asset-node-charts/"/>
-        <updated>2024-11-16T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは！ 今回は「Node Charts: Info Graphs For Blender Using Geometry Nodes」を紹介します。 Node Charts: Info Graphs For Blen […]]]></summary>
-        <author>
-            <name>UEDA</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fire It! - ワンクリックで炎上させるBlenderアドオン！軽快なGeometry Nodes製エフェクト！]]></title>
-        <id>https://3dnchu.com/?p=1045635</id>
-        <link href="https://3dnchu.com/archives/fire-it/"/>
-        <updated>2024-11-16T09:25:29.000Z</updated>
-        <summary type="html"><![CDATA[Blender Bitsによる、ワンクリックでオブジェクトに炎上エフェクトを付与出来るBlenderアドオン「Fire It!」がリリースされました！]]></summary>
-        <author>
-            <name>Ymt3D -3dnchu-</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HLSLで初めてのレイマーチング]]></title>
-        <id>https://qiita.com/kusuyun/items/7bf4062af4afedea9ac7</id>
-        <link href="https://qiita.com/kusuyun/items/7bf4062af4afedea9ac7"/>
-        <updated>2024-11-16T06:27:38.000Z</updated>
-        <summary type="html"><![CDATA[2Dなのに立体が描ける！
-
-コード
-学校の課題で作りました
-RaymarchingPS.hlsl
-#include "Common.hlsl"
-
-// 解像度
-static float2 RESOLUT…]]></summary>
-        <author>
-            <name>HLSLタグが付けられた新着記事 - Qiita</name>
         </author>
     </entry>
 </feed>

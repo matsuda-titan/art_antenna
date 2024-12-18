@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-12-18T00:47:30.227Z</updated>
+    <updated>2024-12-18T03:21:51.156Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[「人生は『やる』か『やらない』かの連続。それを可能な限り『やる』方向にもっていくことが大切」30代業界未経験でカナダに渡りILMに就職！ 第103回：小山順之（Generalist Artist / ILM Vancouver） - 連載]]></title>
+        <id>https://cgworld.jp/regular/103-koyama.html</id>
+        <link href="https://cgworld.jp/regular/103-koyama.html"/>
+        <updated>2024-12-18T01:30:00.000Z</updated>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Non-Destructive Primitives 作成したプリミティブを後から分割数を調整できる無料アドオン]]></title>
         <id>https://modelinghappy.com/?p=60745</id>
@@ -3876,29 +3885,6 @@ https://zenn.dev/kazinos/articles/e599bffb686678
 The post ストーリーボードやストーリーテリングを学びながら、Blenderを使用してアニメーション短編作品を作るチュートリアル動画がWingfoxで販売開始！ first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
         <author>
             <name>modelinghappy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【Unity】スクリプトからMaterialのEmissionを動的にいじる]]></title>
-        <id>https://zenn.dev/ittonijo/articles/5cd8b1e5c2ce58</id>
-        <link href="https://zenn.dev/ittonijo/articles/5cd8b1e5c2ce58"/>
-        <updated>2024-11-18T13:43:43.000Z</updated>
-        <summary type="html"><![CDATA[シンプルなコード。
-private void UpdateEmission()
-{
-    targetMaterial.EnableKeyword("_EMISSION");
-    targetMaterial.SetColor(EmissionColor, emissionColor * emissionIntensity);
-}
-このメソッドでは2つの重要な処理を行っている。
-
-
-EnableKeyword("_EMISSION")で、シェーダーのEmission機能を有効化
-
-SetColorで発光色と強度を設定
-
-emissionColor * emissionIntensi...]]></summary>
-        <author>
-            <name>一都二城</name>
         </author>
     </entry>
 </feed>

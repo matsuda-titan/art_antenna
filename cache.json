@@ -565,31 +565,6 @@
             "type": "video/mp4"
           },
           "imageUrl": "https://cgbox.jp/wp-content/uploads/2024/11/image_processing20241116-2-fguf1p.jpg"
-        },
-        {
-          "id": "https://cgbox.jp/?p=60596",
-          "author": "UEDA",
-          "description": "こんばんは！ 今回はアドオンの「Truck Madness – A Modular Truck Addon」を紹介します。 こちらのリンクから購入することができます。 Truck Madness – […]",
-          "link": "https://cgbox.jp/2024/11/18/news-addon-truck-madness-a-modular-truck-addon/",
-          "publishedOn": "2024-11-18T10:00:00.000Z",
-          "wordCount": 2204,
-          "title": "【アドオン紹介】Truck Madness – トラックを好きにカスタマイズして活用！",
-          "enclosure": {
-            "url": "https://cgbox.jp/wp-content/uploads/2024/11/8-1.mp4",
-            "length": "0",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://cgbox.jp/wp-content/uploads/2024/11/image_processing20241113-2-1t1kv41.png"
-        },
-        {
-          "id": "https://cgbox.jp/?p=60454",
-          "author": "CGbox編集部",
-          "description": "こんにちは！ 今回は、 ゲームエンジン「 Unreal Engine 5 (UE5)」初心者向けに、アセットの材質・質感を表現する「マテリアル」の作成・設定方法を紹介します。 本記事では、ゲーム開発用ソフトウェア「Unr […]",
-          "link": "https://cgbox.jp/2024/11/18/ue5-material-beginner/",
-          "publishedOn": "2024-11-18T04:54:02.000Z",
-          "wordCount": 2673,
-          "title": "【初心者向け】Unreal Engine 5 マテリアルの作り方・設定方法【UE5】",
-          "imageUrl": "https://cgbox.jp/wp-content/uploads/2024/11/6d939d0f7e5baf0eb23876e499f9f2f5.jpg"
         }
       ]
     },
@@ -604,6 +579,16 @@
       "feedUrl": "https://tech-art.online/feed/",
       "siteUrl": "https://tech-art.online",
       "articles": [
+        {
+          "id": "https://tech-art.online/?p=1911",
+          "author": "管理人",
+          "description": "実はひっそりと存在する便利なMayaのショートカット機能について紹介！\n知らなきゃ損！Maya作業効率を爆上げする隠れたショートカット集 first appeared on TECH ART ONLINE.",
+          "link": "https://tech-art.online/maya-secret-marking-menu/?utm_source=rss&utm_medium=rss&utm_campaign=maya-secret-marking-menu",
+          "publishedOn": "2024-12-17T13:13:14.000Z",
+          "wordCount": 14474,
+          "title": "知らなきゃ損！Maya作業効率を爆上げする隠れたショートカット集",
+          "imageUrl": "https://tech-art.online/wordpress/wp-content/uploads/2024/12/20241217_154422_resize-485x300.jpg"
+        },
         {
           "id": "https://tech-art.online/?p=1879",
           "author": "管理人",
@@ -697,6 +682,51 @@
       "feedUrl": "https://3dnchu.com/feed/",
       "siteUrl": "https://3dnchu.com",
       "articles": [
+        {
+          "id": "https://3dnchu.com/?p=1047496",
+          "author": "Ymt3D -3dnchu-",
+          "description": "Dan-Gry氏によるGeometry Nodesベースの非破壊プリミティブを追加できる無料のBlenderアドオン「Non-Destructive Primitives」がBlender Extensionsにて公開されました！",
+          "link": "https://3dnchu.com/archives/non-destructive-primitives/",
+          "publishedOn": "2024-12-17T18:46:41.000Z",
+          "wordCount": 8659,
+          "title": "Non-Destructive Primitives - Geometry Nodesベースの非破壊プリミティブを追加できる無料のBlenderアドオン！Extensionsにて公開中！",
+          "enclosure": {
+            "url": "https://3dnchu.com/wp-content/uploads/Non-Destructive-Primitives-01.jpg",
+            "length": "96478",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://3dnchu.com/wp-content/uploads/Non-Destructive-Primitives-01.jpg"
+        },
+        {
+          "id": "https://3dnchu.com/?p=1047471",
+          "author": "Ymt3D -3dnchu-",
+          "description": "ミュンヘン工科大学、トヨタ モーター ヨーロッパ、ウーブン・バイ・トヨタの研究者らによる、スマホなどで撮影された単眼映像から高精度なアニメーション付きの頭部3D Gaussian Splattingを生成する技術「GAF」が発表されていました。",
+          "link": "https://3dnchu.com/archives/gaf-gaussian-avatar/",
+          "publishedOn": "2024-12-17T18:17:50.000Z",
+          "wordCount": 8663,
+          "title": "GAF: Gaussian Avatar Reconstruction from Monocular Videos via Multi-view Diffusion - スマホなどで撮影された単眼映像から高精度なアニメーション付きの頭部3D Gaussian Splattingを生成する技術！",
+          "enclosure": {
+            "url": "https://3dnchu.com/wp-content/uploads/GAF.webp",
+            "length": "1020368",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://3dnchu.com/wp-content/uploads/GAF.webp"
+        },
+        {
+          "id": "https://3dnchu.com/?p=1047472",
+          "author": "Ymt3D -3dnchu-",
+          "description": "「AIピカソ」「AI素材.com」「AIいらすとや」「Loose AI」などでお馴染みのAI Picasso株式会社が、イラストやアニメ、マンガ生成に特化しつつ、無断転載画像を学習していない商用利用可能な生成AI「Emi 3」を公開しました！",
+          "link": "https://3dnchu.com/archives/emi-3-ai-picasso/",
+          "publishedOn": "2024-12-17T18:03:26.000Z",
+          "wordCount": 8700,
+          "title": "Emi 3 - AI Picasso株式会社によるイラスト・アニメ・マンガ生成に特化した商用利用可能な生成AI！無償公開！",
+          "enclosure": {
+            "url": "https://3dnchu.com/wp-content/uploads/Emi-3.jpg",
+            "length": "54230",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://3dnchu.com/wp-content/uploads/Emi-3.jpg"
+        },
         {
           "id": "https://3dnchu.com/?p=1047451",
           "author": "Ymt3D -3dnchu-",
@@ -1356,21 +1386,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "https://3dnchu.com/wp-content/uploads/Baking-Supply-scaled.jpg"
-        },
-        {
-          "id": "https://3dnchu.com/?p=1045645",
-          "author": "Ymt3D -3dnchu-",
-          "description": "国内では大きなCG勉強イベント「CGWORLD 2024 CREATIVE CONFERENCE」が本日2024年11月18日から22日まで開催されますが、それに伴い2024年11月23日（土）に、採用活動中の企業と、就職・転職を希望するCGクリエイターを繋ぐ「JOBフェア」がオンライン開催されます！",
-          "link": "https://3dnchu.com/archives/job-fair-24-cgw/",
-          "publishedOn": "2024-11-18T11:07:34.000Z",
-          "wordCount": 8762,
-          "title": "JOBフェア - Gather Townを活用し採用活動中の企業と就職・転職を希望のCGクリエイターを繋ぐオンライン交流イベント！「CGWORLD 2024 CREATIVE CONFERENCE」後の2024年11月23日（土）に開催！",
-          "enclosure": {
-            "url": "https://3dnchu.com/wp-content/uploads/job-fair-24-cgw-small.gif",
-            "length": "542812",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://3dnchu.com/wp-content/uploads/job-fair-24-cgw-small.gif"
         }
       ]
     },
@@ -2148,56 +2163,6 @@
           "wordCount": 736,
           "title": "「ZBrush for iPad 2025.1」リリース！　Apple Pencil Proのバレルロール＆ホバーサポート、サーフェスノイズ、自動UV展開、日本語対応など - ニュース",
           "imageUrl": "https://cgworld.jp/flashnews/assets_c/2024/11/ZBrush_iPad2025-1-01-thumb-1341x754-62220.jpg"
-        },
-        {
-          "id": "https://cgworld.jp/article/202411-nid30-videolistening.html",
-          "author": null,
-          "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
-          "link": "https://cgworld.jp/article/202411-nid30-videolistening.html",
-          "publishedOn": "2024-11-18T10:46:30.000Z",
-          "wordCount": 726,
-          "title": "【イマーシブ】ポップカルチャーの系譜を踏むデジタルアート、クリエイティブ拠点を確立させる〜山本信一の挑戦〜 - 特集",
-          "imageUrl": "https://cgworld.jp/article/assets_c/2024/11/f6ae2c77fde3a4deef5a4c59f28b77745616a0e8-thumb-1920x1079-61833.jpg"
-        },
-        {
-          "id": "https://cgworld.jp/article/202411-digicon6.html",
-          "author": null,
-          "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
-          "link": "https://cgworld.jp/article/202411-digicon6.html",
-          "publishedOn": "2024-11-18T08:37:00.000Z",
-          "wordCount": 828,
-          "title": "アジア14の国・地域から全1,393作品がエントリー。新企画も豊富に展開された第26回「DigiCon6 ASIA Awards」授賞式 - 特集",
-          "imageUrl": "https://cgworld.jp/article/assets_c/2024/11/ITO_6152-thumb-1000x666-61595.jpg"
-        },
-        {
-          "id": "https://cgworld.jp/flashnews/2411-cgw-jobfair.html",
-          "author": null,
-          "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
-          "link": "https://cgworld.jp/flashnews/2411-cgw-jobfair.html",
-          "publishedOn": "2024-11-18T07:34:02.000Z",
-          "wordCount": 763,
-          "title": "豪華クリエイター陣17名があなたのキャリアの悩みに答えます！ CGクリエイターのための無料就・転職イベント「JOBフェア」11/23（土）開催 - ニュース",
-          "imageUrl": "https://cgworld.jp/flashnews/assets_c/2024/11/7ef4217a192104f81ba14fb054fe5d5508f8a399-thumb-1000x564-62188.jpg"
-        },
-        {
-          "id": "https://cgworld.jp/flashnews/11185cgworld-2024.html",
-          "author": null,
-          "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
-          "link": "https://cgworld.jp/flashnews/11185cgworld-2024.html",
-          "publishedOn": "2024-11-18T04:51:36.000Z",
-          "wordCount": 743,
-          "title": "【本日11/18（月）から5日間開催】CGWORLD 2024 クリエイティブカンファレンス【全56セッション】 - ニュース",
-          "imageUrl": "https://cgworld.jp/flashnews/assets_c/2024/11/d211445a5be1f73eba6d0c7fe6e95425c360a373-thumb-1920x1008-62163.jpg"
-        },
-        {
-          "id": "https://cgworld.jp/flashnews/2411-news-eizo4k-hdrcoloredge.html",
-          "author": null,
-          "description": "EIZO株式会社は、30.5型・DCI 4K（4,096×2,160）解像度のHDRリファレンスモニター「ColorEdge PROMINENCE CG1」を2025年1月24日に発売する。価格はオープンでEIZOダイレクト販売価格は3,506,800円（税込）",
-          "link": "https://cgworld.jp/flashnews/2411-news-eizo4k-hdrcoloredge.html",
-          "publishedOn": "2024-11-18T02:31:36.000Z",
-          "wordCount": 676,
-          "title": "EIZO、放送業界最新の映像伝送規格に対応した4K HDRリファレンスモニタ「ColorEdge PROMINENCE CG1」を2025年1月24日（金）に発売 - ニュース",
-          "imageUrl": "https://cgworld.jp/flashnews/assets_c/2024/11/f607dc0530566813eae50a3719a6a483577d565c-thumb-1000x659-62153.jpg"
         }
       ]
     },
@@ -2277,6 +2242,16 @@
       "feedUrl": "https://modelinghappy.com/feed",
       "siteUrl": "https://modelinghappy.com",
       "articles": [
+        {
+          "id": "https://modelinghappy.com/?p=60745",
+          "author": "modelinghappy",
+          "description": "Non-Destructive Primitives Dan-Gryさんが作成したNon-Destructive PrimitivesがBlender Extensinosでリリースされました。 アドオンではキューブやシ\nThe post Non-Destructive Primitives 作成したプリミティブを後から分割数を調整できる無料アドオン first appeared on 3DCG最新情報サイト MODELING HAPPY.",
+          "link": "https://modelinghappy.com/archives/60745",
+          "publishedOn": "2024-12-18T00:04:45.000Z",
+          "wordCount": 3482,
+          "title": "Non-Destructive Primitives 作成したプリミティブを後から分割数を調整できる無料アドオン",
+          "imageUrl": "https://modelinghappy.com/wp-content/uploads/2024/12/1218_none_destructive.jpg"
+        },
         {
           "id": "https://modelinghappy.com/?p=60742",
           "author": "modelinghappy",
@@ -3210,21 +3185,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--O0Et_skG--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2580%2590Unity%25E3%2580%2591%25E3%2582%25B9%25E3%2582%25AF%25E3%2583%25AA%25E3%2583%2597%25E3%2583%2588%25E3%2581%258B%25E3%2582%2589Material%25E3%2581%25AEEmission%25E3%2582%2592%25E5%258B%2595%25E7%259A%2584%25E3%2581%25AB%25E3%2581%2584%25E3%2581%2598%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E4%25B8%2580%25E9%2583%25BD%25E4%25BA%258C%25E5%259F%258E%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzQ3OWEyYTQ4ZDAuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
-        },
-        {
-          "id": "https://zenn.dev/a_saya_108/articles/19af34c8a7760d",
-          "author": "adachi saya",
-          "description": "完全備忘録。メモです。\nthree.jsのfragmentshaderにて\nvMapUvをuniformのanimationXをもとに横移動させると、境界でちらつきが発生しました。\nコード内容\n<省略>\nvec2 uv = vMapUv;\nuv.x = fract(vMapUv.x + abs(animationX));\nvec4 sampledDiffuseColor = texture2D(map, uv);\n<省略>\n以下の設定で解消しました。\nconst texture = new TextureLoader().load(url)\ntexture.gen...",
-          "link": "https://zenn.dev/a_saya_108/articles/19af34c8a7760d",
-          "publishedOn": "2024-11-18T07:40:04.000Z",
-          "wordCount": 174,
-          "title": "Three.jsのShaderでvMapUvの位置を動かしたときに境界がちらつく。",
-          "enclosure": {
-            "url": "https://res.cloudinary.com/zenn/image/upload/s--kxiPHQiu--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Three.js%25E3%2581%25AEShader%25E3%2581%25A7vMapUv%25E3%2581%25AE%25E4%25BD%258D%25E7%25BD%25AE%25E3%2582%2592%25E5%258B%2595%25E3%2581%258B%25E3%2581%2597%25E3%2581%259F%25E3%2581%25A8%25E3%2581%258D%25E3%2581%25AB%25E5%25A2%2583%25E7%2595%258C%25E3%2581%258C%25E3%2581%25A1%25E3%2582%2589%25E3%2581%25A4%25E3%2581%258F%25E3%2580%2582%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:adachi%2520saya%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzU2ZGYyZTcxZGQuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png",
-            "length": "0",
-            "type": "image/png"
-          },
-          "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--kxiPHQiu--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Three.js%25E3%2581%25AEShader%25E3%2581%25A7vMapUv%25E3%2581%25AE%25E4%25BD%258D%25E7%25BD%25AE%25E3%2582%2592%25E5%258B%2595%25E3%2581%258B%25E3%2581%2597%25E3%2581%259F%25E3%2581%25A8%25E3%2581%258D%25E3%2581%25AB%25E5%25A2%2583%25E7%2595%258C%25E3%2581%258C%25E3%2581%25A1%25E3%2582%2589%25E3%2581%25A4%25E3%2581%258F%25E3%2580%2582%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:adachi%2520saya%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzU2ZGYyZTcxZGQuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
         }
       ]
     },
@@ -3313,6 +3273,21 @@
       "feedUrl": "https://zenn.dev/topics/3dcg/feed",
       "siteUrl": "https://zenn.dev/topics/3dcg",
       "articles": [
+        {
+          "id": "https://zenn.dev/ymnkx/articles/bfa26d18747f68",
+          "author": "Yamanaka",
+          "description": "概要\nWebサイトで3DCGを扱う時のハードルは、3D関連の用語の理解やデータの全体像の把握が難しい事だと思います。（その他にもハードルは100個くらいある）\nこの記事の目的は、3DCGの構造を理解することです。3D関連が専門外のWeb系エンジニア、デザイナーを対象としています。\nWebサイトでの3DCGの表示にはThree.jsの使用を想定していますが、この記事にコードは出てきません。実装については、別の記事で紹介する予定です。\n\n Scene\n一番大きな要素は「Scene」です。Sceneに必要な要素を含めた上で、renderすることで画像や映像を出力します。この記事では詳しく触...",
+          "link": "https://zenn.dev/ymnkx/articles/bfa26d18747f68",
+          "publishedOn": "2024-12-17T15:00:02.000Z",
+          "wordCount": 301,
+          "title": "Three.jsで扱う3DCGの基本構造を理解する",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--_FrygV1V--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Three.js%25E3%2581%25A7%25E6%2589%25B1%25E3%2581%25863DCG%25E3%2581%25AE%25E5%259F%25BA%25E6%259C%25AC%25E6%25A7%258B%25E9%2580%25A0%25E3%2582%2592%25E7%2590%2586%25E8%25A7%25A3%25E3%2581%2599%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Yamanaka%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jSlZjWjdUelliZTF2SHpMRFYxLXg4emtFZzd1UHN0LXluVjhyMlFHMnViemhjPXM5Ni1j%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png",
+            "length": "0",
+            "type": "image/png"
+          },
+          "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--_FrygV1V--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Three.js%25E3%2581%25A7%25E6%2589%25B1%25E3%2581%25863DCG%25E3%2581%25AE%25E5%259F%25BA%25E6%259C%25AC%25E6%25A7%258B%25E9%2580%25A0%25E3%2582%2592%25E7%2590%2586%25E8%25A7%25A3%25E3%2581%2599%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Yamanaka%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jSlZjWjdUelliZTF2SHpMRFYxLXg4emtFZzd1UHN0LXluVjhyMlFHMnViemhjPXM5Ni1j%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
+        },
         {
           "id": "https://zenn.dev/nadegata_memo/articles/qt_intro_from_3dcg",
           "author": "Ndgt",
@@ -3454,6 +3429,16 @@
       "feedUrl": "https://qiita.com/tags/maya/feed",
       "siteUrl": "https://qiita.com",
       "articles": [
+        {
+          "id": "https://qiita.com/9boz/items/d78e74f92d779b8a6ea6",
+          "author": null,
+          "description": "timeSliderをスケールしたいんだわ\nと相談がありまして。\n詳しく聞くと\n\nマウスのスクロールでスケールしたい\n現在のフレームを中心にスケールしたい\n\nという感じでした。\nもう少し詳しく考えると\n\n…",
+          "link": "https://qiita.com/9boz/items/d78e74f92d779b8a6ea6",
+          "publishedOn": "2024-12-17T22:03:02.000Z",
+          "wordCount": 2399,
+          "title": "timeSliderをスケールしたい",
+          "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Fadvent-calendar-ogp-background-7940cd1c8db80a7ec40711d90f43539e.jpg%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnBicy50d2ltZy5jb20lMkZwcm9maWxlX2ltYWdlcyUyRjUzNzk1NjE0OTcwNjc3MjQ4MCUyRkZCUmk0WUVPX2JpZ2dlci5wbmc_aXhsaWI9cmItNC4wLjAmYXI9MSUzQTEmZml0PWNyb3AmbWFzaz1lbGxpcHNlJmZtPXBuZzMyJnM9MDRlNDY0Y2MzZTYzYmUyMDM3NzA4OTRkMGU3NWU3ODc%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D391669ea7aa95c16bf1e7b65a2c74f6b?ixlib=rb-4.0.0&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9dGltZVNsaWRlciVFMyU4MiU5MiVFMyU4MiVCOSVFMyU4MiVCMSVFMyU4MyVCQyVFMyU4MyVBQiVFMyU4MSU5NyVFMyU4MSU5RiVFMyU4MSU4NCZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZ0eHQtY29sb3I9JTIzM0EzQzNDJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnR4dC1wYWQ9MCZzPWZiNTUwZWM2NTEwMThiODM5ZTkyZjFkYWU4OGIzZTUz&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDA5Ym96JnR4dC1jb2xvcj0lMjMzQTNDM0MmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9MzZlY2M2NjU5OWE5M2Y5Mzg2MGExZGZlZjkxZDllY2U&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=06e67960976149a45580004971f806f1"
+        },
         {
           "id": "https://qiita.com/9boz/items/b15a7f913c7231e8de7b",
           "author": null,

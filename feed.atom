@@ -2,10 +2,58 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-12-19T08:13:22.821Z</updated>
+    <updated>2024-12-19T12:18:40.665Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Genesis: A Generative and Universal Physics Engine for Robotics and Beyond - 汎用的なロボット工学＆身体化AI＆物理AIアプリケーションの為に設計された物理エンジン＆シミュレーションプラットフォーム！オープンソース！]]></title>
+        <id>https://3dnchu.com/?p=1047558</id>
+        <link href="https://3dnchu.com/archives/genesis/"/>
+        <updated>2024-12-19T11:08:56.000Z</updated>
+        <summary type="html"><![CDATA[20以上の研究所が参加し2年かけて共同開発された、汎用ロボット工学と物理AIアプリケーションのために設計されたオープンソースの物理シミュレーションプラットフォーム「Genesis」が発表されています。]]></summary>
+        <author>
+            <name>Ymt3D -3dnchu-</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[自作のカラフルな流体っぽいシェーダを解説する]]></title>
+        <id>https://qiita.com/Yohei_Suda/items/4176de13254baf94572c</id>
+        <link href="https://qiita.com/Yohei_Suda/items/4176de13254baf94572c"/>
+        <updated>2024-12-19T10:15:00.000Z</updated>
+        <summary type="html"><![CDATA[はじめに
+こんなシェーダを書きました。
+https://www.shadertoy.com/view/lfKyRw
+割と良い感じの綺麗な絵になっているのではと思います。
+このシェーダをどうやって作っ…]]></summary>
+        <author>
+            <name>Shaderタグが付けられた新着記事 - Qiita</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[自作のカラフルな流体っぽいシェーダを解説する]]></title>
+        <id>https://qiita.com/Yohei_Suda/items/4176de13254baf94572c</id>
+        <link href="https://qiita.com/Yohei_Suda/items/4176de13254baf94572c"/>
+        <updated>2024-12-19T10:15:00.000Z</updated>
+        <summary type="html"><![CDATA[はじめに
+こんなシェーダを書きました。
+https://www.shadertoy.com/view/lfKyRw
+割と良い感じの綺麗な絵になっているのではと思います。
+このシェーダをどうやって作っ…]]></summary>
+        <author>
+            <name>GLSLタグが付けられた新着記事 - Qiita</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【アドオン紹介】Photoscan – Blenderだけで画像から3Dモデル生成！]]></title>
+        <id>https://cgbox.jp/?p=61246</id>
+        <link href="https://cgbox.jp/2024/12/19/news-addon-photoscan/"/>
+        <updated>2024-12-19T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは！ 今回はアドオンの「Photoscan」を紹介します。 こちらのリンクから購入することができます。 Photoscan 「Photoscan」は、写真を取り込んで3Dモデルを生成できるアドオンになります。 高 […]]]></summary>
+        <author>
+            <name>UEDA</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【令和最新版】Mayaのノードの話]]></title>
         <id>https://qiita.com/M_M_M_M_M_M_M/items/e39e576c29e8ad988312</id>
@@ -15,6 +63,22 @@
 文章の推敲がまだちゃんと出来てないので、…]]></summary>
         <author>
             <name>mayaタグが付けられた新着記事 - Qiita</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GLSLでピタゴラスタイリング]]></title>
+        <id>https://zenn.dev/aadebdeb/articles/ffc634261dcf1f</id>
+        <link href="https://zenn.dev/aadebdeb/articles/ffc634261dcf1f"/>
+        <updated>2024-12-19T07:44:33.000Z</updated>
+        <summary type="html"><![CDATA[2つの大きさの正方形で平面を敷き詰めるピタゴラスタイリング(Pythagorean Tiling)というタイリング手法があります。この記事ではGLSLでピタゴラスタイリングを実装します。
+https://en.wikipedia.org/wiki/Pythagorean_tiling
+
+ピタゴラスタイリングは以下の図のように切り取ると正方形格子状の繰り返しパターンになっています。左右2つとも切り取り方は異なりますが、どちらも繰り返しパターンになっています。
+
+
+2つの大きさの正方形を塗り分けて境界線を描画する方法について考えます。GLSLで実装すると以下のようになります。コードはGLSL...]]></summary>
+        <author>
+            <name>Atsushi Asakura</name>
         </author>
     </entry>
     <entry>
@@ -88,6 +152,26 @@ The post Maxon One で制作、韓国の3Dアーティストたちによる モ�
         <summary type="html"><![CDATA[Stefan Misirdzhiev 氏（Dumpster Fire Productions）による、UE5にて美しい水面が表現できるアセット『Waterline PRO』のバージョン6.0がリリースされています！]]></summary>
         <author>
             <name>Ymt3D -3dnchu-</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Houdini: プレビュー機能付きFontSOPを作った話]]></title>
+        <id>https://zenn.dev/kickbase/articles/a0d541223610a3</id>
+        <link href="https://zenn.dev/kickbase/articles/a0d541223610a3"/>
+        <updated>2024-12-19T03:00:05.000Z</updated>
+        <summary type="html"><![CDATA[もうアドベントカレンダーの季節とか嘘でしょう…？（3回目）
+気を取り直して皆さんいかがお過ごしでしょう。僕は今年もHoudini三昧の毎日でした。
+今回はプレビュー機能付きFontSOPを作った話をしたいと思います。
+本記事はHoudini アドベントカレンダー2024 19日目の記事です。
+
+ データ配布
+HDAダウンロード
+
+ ツール制作の背景とその特徴
+FontSOPはテストジオメトリの作成や表現そのものにもよく用いられますが、フォントを選ぶ際、メニューリストから毎回選択しなければならないことがUIとして不便に思っていました。
+そこで任意の文字列からプレビュー用の文字列ジオメトリを...]]></summary>
+        <author>
+            <name>めんたいこ</name>
         </author>
     </entry>
     <entry>

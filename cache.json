@@ -1275,6 +1275,16 @@
       "siteUrl": "https://cgworld.jp/",
       "articles": [
         {
+          "id": "https://cgworld.jp/regular/202412-kurita-03.html",
+          "author": null,
+          "description": "",
+          "link": "https://cgworld.jp/regular/202412-kurita-03.html",
+          "publishedOn": "2024-12-20T01:52:00.000Z",
+          "wordCount": 720,
+          "title": "第3回：Netflix映画『シティーハンター』から学ぶ画づくり（1/3） - 連載",
+          "imageUrl": "https://cgworld.jp/regular/assets_c/2024/12/kurita_3-thumb-1000x563-63425.jpg"
+        },
+        {
           "id": "https://cgworld.jp/flashnews/202412-Scaniverse-MetaQuest.html",
           "author": null,
           "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
@@ -2560,6 +2570,26 @@
       "siteUrl": "https://3dtotal.jp",
       "articles": [
         {
+          "id": "https://3dtotal.jp/?p=49214",
+          "author": "3dtotal管理人T",
+          "description": "★Behind the Visual Effects of Better Man（2分10秒） まさに唯一無二。マイケル・グレイシー監督、ロビー・ウィリアムス、そして Weta と舞台裏に潜入、映画『BETTER MAN […]\nThe post ポップスター＝サル!? ロビー・ウィリアムスの軌跡を描く。映画『BETTER MAN／ベター・マン』のメイキング映像 first appeared on 3dtotal 日本語オフィシャルサイト.",
+          "link": "https://3dtotal.jp/news/49214/",
+          "publishedOn": "2024-12-20T02:18:13.000Z",
+          "wordCount": 531,
+          "title": "ポップスター＝サル!? ロビー・ウィリアムスの軌跡を描く。映画『BETTER MAN／ベター・マン』のメイキング映像",
+          "imageUrl": "https://3dtotal.jp/wp-content/uploads/2024/12/betterman_vfx.jpg"
+        },
+        {
+          "id": "https://3dtotal.jp/?p=49211",
+          "author": "3dtotal管理人T",
+          "description": "★Nick & Merlin discuss the making of Wallace & Gromit and its legacy（3分13秒） 「ウォレスとグルミット」の作者ニック・パーク と 映画『ウォレスとグ […]\nThe post 原作者と監督が語る。ストップモーション・アニメーション映画『ウォレスとグルミット 仕返しなんてコワくない!』のメイキング映像 first appeared on 3dtotal 日本語オフィシャルサイト.",
+          "link": "https://3dtotal.jp/news/49211/",
+          "publishedOn": "2024-12-20T02:12:42.000Z",
+          "wordCount": 522,
+          "title": "原作者と監督が語る。ストップモーション・アニメーション映画『ウォレスとグルミット 仕返しなんてコワくない!』のメイキング映像",
+          "imageUrl": "https://3dtotal.jp/wp-content/uploads/2024/12/wgVengeance_int03.jpg"
+        },
+        {
           "id": "https://3dtotal.jp/?p=49198",
           "author": "3dtotal管理人T",
           "description": "★The Rings of Power Season 2 VFX Breakdown by Rodeo FX（2分58秒） 古きエントから恐ろしい不死の怪物まで、ミドルアースの秘密を解き明かす! Rodeo FX が『ロ […]\nThe post 古きエントから恐ろしい不死の怪物まで。『ロード・オブ・ザ・リング：力の指輪』シーズン2 の VFXブレイクダウン映像 first appeared on 3dtotal 日本語オフィシャルサイト.",
@@ -3232,21 +3262,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--_4eya9xk--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Unreal%2520Engine%25E3%2581%258C%25E9%259B%25A3%25E3%2581%2597%25E3%2581%2584%25E3%2581%25A8%25E6%2584%259F%25E3%2581%2598%25E3%2582%258B%25E3%2581%2582%25E3%2581%25AA%25E3%2581%259F%25E3%2581%25B8%25EF%25BC%259A%25E5%2588%259D%25E5%25BF%2583%25E8%2580%2585%25E3%2581%25A7%25E3%2582%2582%25E3%2582%258F%25E3%2581%258B%25E3%2582%258B%25E5%2585%258B%25E6%259C%258D%25E3%2582%25AC%25E3%2582%25A4%25E3%2583%2589%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E9%25B7%25B9%25E5%258F%25B8%25E9%25BE%258D%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzNjMWVhZDc3MDcuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
-        },
-        {
-          "id": "https://zenn.dev/h_kishimoto/articles/5aa01b0b0b091d",
-          "author": "h_kishimoto",
-          "description": "引き続き、オープンソースのパイプラインプラットフォーム AYON（旧 OpenPype） を使っていきたいと思います。\n前回まででWindows版を設置、起動しました。\n\n ユーザー登録\nまず管理者ユーザーを登録する画面が現れます。\n\n続いてサーバー設定。ブートストラップ・セットアップを利用すると便利だと案内されます。\nオフラインで利用する場合や諸々を手動でインストールする場合はスキップできますが、そうでない場合はYnput Cloudアカウント登録しましょう。\n\n\n 設定\nひとまずStudio settingsページに通されます。\n\n右上のlaunchpad風メニューから設定系ページに...",
-          "link": "https://zenn.dev/h_kishimoto/articles/5aa01b0b0b091d",
-          "publishedOn": "2024-11-20T13:55:30.000Z",
-          "wordCount": null,
-          "title": "オープンスタジオプラットフォームAYONを試す(2)",
-          "enclosure": {
-            "url": "https://res.cloudinary.com/zenn/image/upload/s--8K14KmnD--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2582%25AA%25E3%2583%25BC%25E3%2583%2597%25E3%2583%25B3%25E3%2582%25B9%25E3%2582%25BF%25E3%2582%25B8%25E3%2582%25AA%25E3%2583%2597%25E3%2583%25A9%25E3%2583%2583%25E3%2583%2588%25E3%2583%2595%25E3%2582%25A9%25E3%2583%25BC%25E3%2583%25A0AYON%25E3%2582%2592%25E8%25A9%25A6%25E3%2581%2599%25282%2529%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:h_kishimoto%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUFUWEFKemNZZE9FRk44LU56YWc2ekdNQTltMXNQVzItVFBjNEhoVTg1cmU9czk2LWM=%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png",
-            "length": "0",
-            "type": "image/png"
-          },
-          "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--8K14KmnD--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2582%25AA%25E3%2583%25BC%25E3%2583%2597%25E3%2583%25B3%25E3%2582%25B9%25E3%2582%25BF%25E3%2582%25B8%25E3%2582%25AA%25E3%2583%2597%25E3%2583%25A9%25E3%2583%2583%25E3%2583%2588%25E3%2583%2595%25E3%2582%25A9%25E3%2583%25BC%25E3%2583%25A0AYON%25E3%2582%2592%25E8%25A9%25A6%25E3%2581%2599%25282%2529%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:h_kishimoto%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUFUWEFKemNZZE9FRk44LU56YWc2ekdNQTltMXNQVzItVFBjNEhoVTg1cmU9czk2LWM=%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
         }
       ]
     },

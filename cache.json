@@ -550,21 +550,6 @@
             "type": "video/mp4"
           },
           "imageUrl": "https://cgbox.jp/wp-content/uploads/2024/11/Review-article.jpg"
-        },
-        {
-          "id": "https://cgbox.jp/?p=60692",
-          "author": "UEDA",
-          "description": "こんばんは！ 今回は「Turbulent」を紹介します。 Turbulent 「Turbulent」は、リアルな水を再現できるシェーダーノードセットになります。 シミュレーションやジオメトリーノードを使わないので、レンダ […]",
-          "link": "https://cgbox.jp/2024/11/20/news-asset-turbulent/",
-          "publishedOn": "2024-11-20T10:00:00.000Z",
-          "wordCount": 2121,
-          "title": "【アセット紹介】Turbulent – シェーダーで流れるリアルな水を再現！",
-          "enclosure": {
-            "url": "https://cgbox.jp/wp-content/uploads/2024/11/2-3.mp4",
-            "length": "0",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://cgbox.jp/wp-content/uploads/2024/11/image_processing20241118-2-4k3svl.jpg"
         }
       ]
     },
@@ -682,6 +667,36 @@
       "feedUrl": "https://3dnchu.com/feed/",
       "siteUrl": "https://3dnchu.com",
       "articles": [
+        {
+          "id": "https://3dnchu.com/?p=1047418",
+          "author": "Ymt3D -3dnchu-",
+          "description": "紹介が遅くなりました。入門書を卒業したユーザー向けBlender学習本『プロフェッショナルBlender』が先月末に発売済みです！",
+          "link": "https://3dnchu.com/archives/professional-blender-book/",
+          "publishedOn": "2024-12-19T13:06:56.000Z",
+          "wordCount": 8783,
+          "title": "プロフェッショナルBlender - 入門書を卒業したユーザー向けBlender学習本が発売中！プロシージャルマテリアル！モデリング応用！スクリプト活用など！",
+          "enclosure": {
+            "url": "https://3dnchu.com/wp-content/uploads/professional-blender-book-small.gif",
+            "length": "242166",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://3dnchu.com/wp-content/uploads/professional-blender-book-small.gif"
+        },
+        {
+          "id": "https://3dnchu.com/?p=1047592",
+          "author": "Ymt3D -3dnchu-",
+          "description": "KIRI Engineが、オブジェクトが点群となって飛散するアニメーションを手軽に制作出来るBlenderアドオン『Point Animate by KIRI Engine』を無料公開しました！",
+          "link": "https://3dnchu.com/archives/point-animate-by-kiri-engine/",
+          "publishedOn": "2024-12-19T12:43:16.000Z",
+          "wordCount": 8767,
+          "title": "Point Animate by KIRI Engine - メッシュオブジェクトが点群となって飛散するアニメーションを手軽に制作出来るBlenderアドオン！無料公開！",
+          "enclosure": {
+            "url": "https://3dnchu.com/wp-content/uploads/Point-Animate-by-KIRI-Engine.webp",
+            "length": "1118810",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://3dnchu.com/wp-content/uploads/Point-Animate-by-KIRI-Engine.webp"
+        },
         {
           "id": "https://3dnchu.com/?p=1047558",
           "author": "Ymt3D -3dnchu-",
@@ -1251,66 +1266,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "https://3dnchu.com/wp-content/uploads/Black-Eye-Cameras.webp"
-        },
-        {
-          "id": "https://3dnchu.com/?p=1045832",
-          "author": "Ymt3D -3dnchu-",
-          "description": "Aivis Projectから、AI音声合成ソフト「AivisSpeech」がリリースされました！無料で使えますよ！",
-          "link": "https://3dnchu.com/archives/aivisspeech/",
-          "publishedOn": "2024-11-20T09:18:11.000Z",
-          "wordCount": 8601,
-          "title": "AivisSpeech - Style-Bert-VITS2を採用し手軽に使える無料AI音声合成ソフトがAivis Projectからリリース！Win＆Mac！オープンソース！",
-          "enclosure": {
-            "url": "https://3dnchu.com/wp-content/uploads/AivisSpeech_1.jpg",
-            "length": "44593",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://3dnchu.com/wp-content/uploads/AivisSpeech_1.jpg"
-        },
-        {
-          "id": "https://3dnchu.com/?p=1045821",
-          "author": "Ymt3D -3dnchu-",
-          "description": "2024年12月14日（土）に3DCG制作者による情報交換＆スキルアップ促進の為の勉強会「3DCG Meetup #17」が開催されます！約5年ぶりの開催とのこと。",
-          "link": "https://3dnchu.com/archives/3dcg-meetup-17/",
-          "publishedOn": "2024-11-20T06:03:47.000Z",
-          "wordCount": 8561,
-          "title": "3DCG Meetup #17 - 約5年ぶり！3DCG制作者による情報交換＆スキルアップ促進の為の勉強会！2024年12月14日（土）に開催！Houdini＆UE5＆InstaMAT＆ZBrush！",
-          "enclosure": {
-            "url": "https://3dnchu.com/wp-content/uploads/3DCG-Meetup-17.jpg",
-            "length": "20794",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://3dnchu.com/wp-content/uploads/3DCG-Meetup-17.jpg"
-        },
-        {
-          "id": "https://3dnchu.com/?p=1045796",
-          "author": "Ymt3D -3dnchu-",
-          "description": "bd3dによるBlender向けのスキャッターアドオン最新アップデート「Geo-Scatter 5.5」がリリースされました！",
-          "link": "https://3dnchu.com/archives/geo-scatter-5-5/",
-          "publishedOn": "2024-11-20T04:50:25.000Z",
-          "wordCount": 8637,
-          "title": "Geo-Scatter 5.5 - Blender向けスキャッターアドオンの最新アップデート！カーブで散布範囲の制御やブラシ機能などに注目！",
-          "enclosure": {
-            "url": "https://3dnchu.com/wp-content/uploads/Geo-Scatter-5.5.webp",
-            "length": "968314",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://3dnchu.com/wp-content/uploads/Geo-Scatter-5.5.webp"
-        },
-        {
-          "id": "https://3dnchu.com/?p=1045532",
-          "author": "Ymt3D -3dnchu-",
-          "description": "めんたいこ（新井 克哉）氏によるHoudiniの入門書「挫折させないHoudiniドリル」が2024年9月下旬に発売済みです！",
-          "link": "https://3dnchu.com/archives/houdini-drills-book/",
-          "publishedOn": "2024-11-20T04:44:01.000Z",
-          "wordCount": 8723,
-          "title": "挫折させないHoudiniドリル - 作例データと解説動画で徹底解説！入門＆挫折者にオススメなHoudini本が発売中！",
-          "enclosure": {
-            "url": "https://3dnchu.com/wp-content/uploads/houdini-drills-book-small.gif",
-            "length": "302034",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://3dnchu.com/wp-content/uploads/houdini-drills-book-small.gif"
         }
       ]
     },
@@ -2596,16 +2551,6 @@
           "wordCount": 3478,
           "title": "Blenderで手軽に群衆作成出来るアドオンPOPULATIONがバージョンアップして今だけ30%オフのセール価格となっています！",
           "imageUrl": "https://modelinghappy.com/wp-content/uploads/2024/11/20241122_population.jpg"
-        },
-        {
-          "id": "https://modelinghappy.com/?p=60124",
-          "author": "modelinghappy",
-          "description": "Blender4.3 2024年11月19日に最新のBlender4.3がリリースされました。 Eeveeでのライトリンク機能やUV展開にMinimum Strechが追加されより歪みの少ない展開が出来るよになったり、E\nThe post Blender4.3がリリース！Eeveeでのライトリンク、マルチパス合成により複雑なエフェクトを組み合わせた表現や、スカルプトが8倍高速など！ first appeared on 3DCG最新情報サイト MODELING HAPPY.",
-          "link": "https://modelinghappy.com/archives/60124",
-          "publishedOn": "2024-11-20T08:54:39.000Z",
-          "wordCount": 3481,
-          "title": "Blender4.3がリリース！Eeveeでのライトリンク、マルチパス合成により複雑なエフェクトを組み合わせた表現や、スカルプトが8倍高速など！",
-          "imageUrl": "https://modelinghappy.com/wp-content/uploads/2024/11/20241120_blender4.3_00.jpg"
         }
       ]
     },
@@ -3073,26 +3018,6 @@
           "wordCount": 524,
           "title": "スケッチから最終映像まで。海外ドラマ『ハウス・オブ・ザ・ドラゴン』の メイキング映像",
           "imageUrl": "https://3dtotal.jp/wp-content/uploads/2024/11/hotdragon2_pixo04.jpg"
-        },
-        {
-          "id": "https://3dtotal.jp/?p=48688",
-          "author": "3dtotal管理人T",
-          "description": "★How To Train Your Dragon | Official Teaser Trailer（1分15秒） How To Train Your Dragon - 米 2025年 6月13日公開 アカデミー賞に  […]\nThe post 「ヒックとドラゴン」が 実写映画に! 『How To Train Your Dragon』のトレーラー first appeared on 3dtotal 日本語オフィシャルサイト.",
-          "link": "https://3dtotal.jp/news/48688/",
-          "publishedOn": "2024-11-20T05:02:46.000Z",
-          "wordCount": 574,
-          "title": "「ヒックとドラゴン」が 実写映画に! 『How To Train Your Dragon』のトレーラー",
-          "imageUrl": "https://3dtotal.jp/wp-content/uploads/2024/11/httydragon_teaser.jpg"
-        },
-        {
-          "id": "https://3dtotal.jp/?p=48682",
-          "author": "3dtotal管理人T",
-          "description": "ブラシアセット、より高速なスカルプト、革新的なグリースペンシルなどなど。Blender 4.3 はあなたをカバーします。 　 ★Blender 4.3 New Features Official Overview（27分 […]\nThe post ブラシアセット、より高速なスカルプト、革新的なグリースペンシル..。Blender 4.3 リリース first appeared on 3dtotal 日本語オフィシャルサイト.",
-          "link": "https://3dtotal.jp/news/48682/",
-          "publishedOn": "2024-11-20T01:43:49.000Z",
-          "wordCount": 573,
-          "title": "ブラシアセット、より高速なスカルプト、革新的なグリースペンシル..。Blender 4.3 リリース",
-          "imageUrl": "https://3dtotal.jp/wp-content/uploads/2024/11/blender4_3.jpg"
         }
       ]
     },
@@ -3374,6 +3299,16 @@
       "feedUrl": "https://qiita.com/tags/maya/feed",
       "siteUrl": "https://qiita.com",
       "articles": [
+        {
+          "id": "https://qiita.com/9boz/items/19060d55a785484d8b5d",
+          "author": null,
+          "description": "Mayaでテクスチャをリサイズしたいな　と思いまして。\n正確に言うと、\nレンダリング用のテクスチャは4Kとかとても大きいサイズの場合があり、\nアニメーション作業時にそれらのテクスチャーを読ませるとビ…",
+          "link": "https://qiita.com/9boz/items/19060d55a785484d8b5d",
+          "publishedOn": "2024-12-19T22:03:23.000Z",
+          "wordCount": 1420,
+          "title": "テクスチャをリサイズしたい",
+          "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Fadvent-calendar-ogp-background-7940cd1c8db80a7ec40711d90f43539e.jpg%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnBicy50d2ltZy5jb20lMkZwcm9maWxlX2ltYWdlcyUyRjUzNzk1NjE0OTcwNjc3MjQ4MCUyRkZCUmk0WUVPX2JpZ2dlci5wbmc_aXhsaWI9cmItNC4wLjAmYXI9MSUzQTEmZml0PWNyb3AmbWFzaz1lbGxpcHNlJmZtPXBuZzMyJnM9MDRlNDY0Y2MzZTYzYmUyMDM3NzA4OTRkMGU3NWU3ODc%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D391669ea7aa95c16bf1e7b65a2c74f6b?ixlib=rb-4.0.0&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9JUUzJTgzJTg2JUUzJTgyJUFGJUUzJTgyJUI5JUUzJTgzJTgxJUUzJTgzJUEzJUUzJTgyJTkyJUUzJTgzJUFBJUUzJTgyJUI1JUUzJTgyJUE0JUUzJTgyJUJBJUUzJTgxJTk3JUUzJTgxJTlGJUUzJTgxJTg0JnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMzQTNDM0MmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9YWIzNWM4ZDlhNDI3NmM1NzQwMDFhYWIyZWNkOWZkMzg&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDA5Ym96JnR4dC1jb2xvcj0lMjMzQTNDM0MmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9MzZlY2M2NjU5OWE5M2Y5Mzg2MGExZGZlZjkxZDllY2U&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=43c85557a18e5d1b560589699333328e"
+        },
         {
           "id": "https://qiita.com/M_M_M_M_M_M_M/items/e39e576c29e8ad988312",
           "author": null,
@@ -3918,6 +3853,16 @@
       "siteUrl": "https://qiita.com",
       "articles": [
         {
+          "id": "https://qiita.com/yasuo_mc/items/40a7c004f86300009ff3",
+          "author": null,
+          "description": "最近、X で話題になっていた NVIDIA SLANG（HLSLに似た言語からさまざまなターゲットシェーディング言語にコンパイル可能）に興味を持ち、調査と実験を行いました。\n今回は、変換結果がわかり…",
+          "link": "https://qiita.com/yasuo_mc/items/40a7c004f86300009ff3",
+          "publishedOn": "2024-12-19T22:08:14.000Z",
+          "wordCount": 7610,
+          "title": "NVIDIA SLANG、SLANG > GLSL(Shadertoy)変換について",
+          "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Fadvent-calendar-ogp-background-7940cd1c8db80a7ec40711d90f43539e.jpg%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnFpaXRhLWltYWdlLXN0b3JlLnMzLmFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkYwJTJGMTgzODg0JTJGcHJvZmlsZS1pbWFnZXMlMkYxNzMzMjIwNTM5P2l4bGliPXJiLTQuMC4wJmFyPTElM0ExJmZpdD1jcm9wJm1hc2s9ZWxsaXBzZSZmbT1wbmczMiZzPTY2NzYzODJkZTNkYmI0NGViM2I5ODVlZGI3YWIzY2I0%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D07ae4e6c1aae45bd87235c180fb980c2?ixlib=rb-4.0.0&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9TlZJRElBJTIwU0xBTkclRTMlODAlODFTTEFORyUyMCUzRSUyMEdMU0wlMjhTaGFkZXJ0b3klMjklRTUlQTQlODklRTYlOEYlOUIlRTMlODElQUIlRTMlODElQTQlRTMlODElODQlRTMlODElQTYmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzNBM0MzQyZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz1mMzJlYTY2ZWE0ZWY1NjcyZDk5OTIwYmViNTRhZDM0NA&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDB5YXN1b19tYyZ0eHQtY29sb3I9JTIzM0EzQzNDJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPTY0MWNjNWYxZmU4NzFjOWQzNDRhNTNjYjU0MTdmZDRj&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=d68d52ed6f78b8b2cca1006f4efea316"
+        },
+        {
           "id": "https://qiita.com/C-Sharp_is_GOD/items/838f4668e2ee91df707b",
           "author": null,
           "description": "Windowsターミナルhlsl拡張\nWindowsターミナルでは外観をシェーダーを使ってアニメーションさせることができるようになっていて、かなり自由度の高い外観にすることが可能です。\n今回は前回作…",
@@ -3964,6 +3909,16 @@
       "feedUrl": "https://qiita.com/tags/glsl/feed",
       "siteUrl": "https://qiita.com",
       "articles": [
+        {
+          "id": "https://qiita.com/yasuo_mc/items/40a7c004f86300009ff3",
+          "author": null,
+          "description": "最近、X で話題になっていた NVIDIA SLANG（HLSLに似た言語からさまざまなターゲットシェーディング言語にコンパイル可能）に興味を持ち、調査と実験を行いました。\n今回は、変換結果がわかり…",
+          "link": "https://qiita.com/yasuo_mc/items/40a7c004f86300009ff3",
+          "publishedOn": "2024-12-19T22:08:14.000Z",
+          "wordCount": 7610,
+          "title": "NVIDIA SLANG、SLANG > GLSL(Shadertoy)変換について",
+          "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Fadvent-calendar-ogp-background-7940cd1c8db80a7ec40711d90f43539e.jpg%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnFpaXRhLWltYWdlLXN0b3JlLnMzLmFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkYwJTJGMTgzODg0JTJGcHJvZmlsZS1pbWFnZXMlMkYxNzMzMjIwNTM5P2l4bGliPXJiLTQuMC4wJmFyPTElM0ExJmZpdD1jcm9wJm1hc2s9ZWxsaXBzZSZmbT1wbmczMiZzPTY2NzYzODJkZTNkYmI0NGViM2I5ODVlZGI3YWIzY2I0%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D07ae4e6c1aae45bd87235c180fb980c2?ixlib=rb-4.0.0&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9TlZJRElBJTIwU0xBTkclRTMlODAlODFTTEFORyUyMCUzRSUyMEdMU0wlMjhTaGFkZXJ0b3klMjklRTUlQTQlODklRTYlOEYlOUIlRTMlODElQUIlRTMlODElQTQlRTMlODElODQlRTMlODElQTYmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzNBM0MzQyZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz1mMzJlYTY2ZWE0ZWY1NjcyZDk5OTIwYmViNTRhZDM0NA&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDB5YXN1b19tYyZ0eHQtY29sb3I9JTIzM0EzQzNDJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPTY0MWNjNWYxZmU4NzFjOWQzNDRhNTNjYjU0MTdmZDRj&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=d68d52ed6f78b8b2cca1006f4efea316"
+        },
         {
           "id": "https://qiita.com/Yohei_Suda/items/4176de13254baf94572c",
           "author": null,

@@ -2,10 +2,65 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-12-19T12:18:40.665Z</updated>
+    <updated>2024-12-20T00:45:09.264Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[NVIDIA SLANG、SLANG > GLSL(Shadertoy)変換について]]></title>
+        <id>https://qiita.com/yasuo_mc/items/40a7c004f86300009ff3</id>
+        <link href="https://qiita.com/yasuo_mc/items/40a7c004f86300009ff3"/>
+        <updated>2024-12-19T22:08:14.000Z</updated>
+        <summary type="html"><![CDATA[最近、X で話題になっていた NVIDIA SLANG（HLSLに似た言語からさまざまなターゲットシェーディング言語にコンパイル可能）に興味を持ち、調査と実験を行いました。
+今回は、変換結果がわかり…]]></summary>
+        <author>
+            <name>HLSLタグが付けられた新着記事 - Qiita</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NVIDIA SLANG、SLANG > GLSL(Shadertoy)変換について]]></title>
+        <id>https://qiita.com/yasuo_mc/items/40a7c004f86300009ff3</id>
+        <link href="https://qiita.com/yasuo_mc/items/40a7c004f86300009ff3"/>
+        <updated>2024-12-19T22:08:14.000Z</updated>
+        <summary type="html"><![CDATA[最近、X で話題になっていた NVIDIA SLANG（HLSLに似た言語からさまざまなターゲットシェーディング言語にコンパイル可能）に興味を持ち、調査と実験を行いました。
+今回は、変換結果がわかり…]]></summary>
+        <author>
+            <name>GLSLタグが付けられた新着記事 - Qiita</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[テクスチャをリサイズしたい]]></title>
+        <id>https://qiita.com/9boz/items/19060d55a785484d8b5d</id>
+        <link href="https://qiita.com/9boz/items/19060d55a785484d8b5d"/>
+        <updated>2024-12-19T22:03:23.000Z</updated>
+        <summary type="html"><![CDATA[Mayaでテクスチャをリサイズしたいな　と思いまして。
+正確に言うと、
+レンダリング用のテクスチャは4Kとかとても大きいサイズの場合があり、
+アニメーション作業時にそれらのテクスチャーを読ませるとビ…]]></summary>
+        <author>
+            <name>mayaタグが付けられた新着記事 - Qiita</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[プロフェッショナルBlender - 入門書を卒業したユーザー向けBlender学習本が発売中！プロシージャルマテリアル！モデリング応用！スクリプト活用など！]]></title>
+        <id>https://3dnchu.com/?p=1047418</id>
+        <link href="https://3dnchu.com/archives/professional-blender-book/"/>
+        <updated>2024-12-19T13:06:56.000Z</updated>
+        <summary type="html"><![CDATA[紹介が遅くなりました。入門書を卒業したユーザー向けBlender学習本『プロフェッショナルBlender』が先月末に発売済みです！]]></summary>
+        <author>
+            <name>Ymt3D -3dnchu-</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Point Animate by KIRI Engine - メッシュオブジェクトが点群となって飛散するアニメーションを手軽に制作出来るBlenderアドオン！無料公開！]]></title>
+        <id>https://3dnchu.com/?p=1047592</id>
+        <link href="https://3dnchu.com/archives/point-animate-by-kiri-engine/"/>
+        <updated>2024-12-19T12:43:16.000Z</updated>
+        <summary type="html"><![CDATA[KIRI Engineが、オブジェクトが点群となって飛散するアニメーションを手軽に制作出来るBlenderアドオン『Point Animate by KIRI Engine』を無料公開しました！]]></summary>
+        <author>
+            <name>Ymt3D -3dnchu-</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Genesis: A Generative and Universal Physics Engine for Robotics and Beyond - 汎用的なロボット工学＆身体化AI＆物理AIアプリケーションの為に設計された物理エンジン＆シミュレーションプラットフォーム！オープンソース！]]></title>
         <id>https://3dnchu.com/?p=1047558</id>
@@ -3837,89 +3892,6 @@ The post スケッチから最終映像まで。海外ドラマ『ハウス・�
 右上のlaunchpad風メニューから設定系ページに...]]></summary>
         <author>
             <name>h_kishimoto</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【アセット紹介】Turbulent – シェーダーで流れるリアルな水を再現！]]></title>
-        <id>https://cgbox.jp/?p=60692</id>
-        <link href="https://cgbox.jp/2024/11/20/news-asset-turbulent/"/>
-        <updated>2024-11-20T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは！ 今回は「Turbulent」を紹介します。 Turbulent 「Turbulent」は、リアルな水を再現できるシェーダーノードセットになります。 シミュレーションやジオメトリーノードを使わないので、レンダ […]]]></summary>
-        <author>
-            <name>UEDA</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AivisSpeech - Style-Bert-VITS2を採用し手軽に使える無料AI音声合成ソフトがAivis Projectからリリース！Win＆Mac！オープンソース！]]></title>
-        <id>https://3dnchu.com/?p=1045832</id>
-        <link href="https://3dnchu.com/archives/aivisspeech/"/>
-        <updated>2024-11-20T09:18:11.000Z</updated>
-        <summary type="html"><![CDATA[Aivis Projectから、AI音声合成ソフト「AivisSpeech」がリリースされました！無料で使えますよ！]]></summary>
-        <author>
-            <name>Ymt3D -3dnchu-</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Blender4.3がリリース！Eeveeでのライトリンク、マルチパス合成により複雑なエフェクトを組み合わせた表現や、スカルプトが8倍高速など！]]></title>
-        <id>https://modelinghappy.com/?p=60124</id>
-        <link href="https://modelinghappy.com/archives/60124"/>
-        <updated>2024-11-20T08:54:39.000Z</updated>
-        <summary type="html"><![CDATA[Blender4.3 2024年11月19日に最新のBlender4.3がリリースされました。 Eeveeでのライトリンク機能やUV展開にMinimum Strechが追加されより歪みの少ない展開が出来るよになったり、E
-The post Blender4.3がリリース！Eeveeでのライトリンク、マルチパス合成により複雑なエフェクトを組み合わせた表現や、スカルプトが8倍高速など！ first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
-        <author>
-            <name>modelinghappy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3DCG Meetup #17 - 約5年ぶり！3DCG制作者による情報交換＆スキルアップ促進の為の勉強会！2024年12月14日（土）に開催！Houdini＆UE5＆InstaMAT＆ZBrush！]]></title>
-        <id>https://3dnchu.com/?p=1045821</id>
-        <link href="https://3dnchu.com/archives/3dcg-meetup-17/"/>
-        <updated>2024-11-20T06:03:47.000Z</updated>
-        <summary type="html"><![CDATA[2024年12月14日（土）に3DCG制作者による情報交換＆スキルアップ促進の為の勉強会「3DCG Meetup #17」が開催されます！約5年ぶりの開催とのこと。]]></summary>
-        <author>
-            <name>Ymt3D -3dnchu-</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「ヒックとドラゴン」が 実写映画に! 『How To Train Your Dragon』のトレーラー]]></title>
-        <id>https://3dtotal.jp/?p=48688</id>
-        <link href="https://3dtotal.jp/news/48688/"/>
-        <updated>2024-11-20T05:02:46.000Z</updated>
-        <summary type="html"><![CDATA[★How To Train Your Dragon | Official Teaser Trailer（1分15秒） How To Train Your Dragon - 米 2025年 6月13日公開 アカデミー賞に  […]
-The post 「ヒックとドラゴン」が 実写映画に! 『How To Train Your Dragon』のトレーラー first appeared on 3dtotal 日本語オフィシャルサイト.]]></summary>
-        <author>
-            <name>3dtotal管理人T</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Geo-Scatter 5.5 - Blender向けスキャッターアドオンの最新アップデート！カーブで散布範囲の制御やブラシ機能などに注目！]]></title>
-        <id>https://3dnchu.com/?p=1045796</id>
-        <link href="https://3dnchu.com/archives/geo-scatter-5-5/"/>
-        <updated>2024-11-20T04:50:25.000Z</updated>
-        <summary type="html"><![CDATA[bd3dによるBlender向けのスキャッターアドオン最新アップデート「Geo-Scatter 5.5」がリリースされました！]]></summary>
-        <author>
-            <name>Ymt3D -3dnchu-</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[挫折させないHoudiniドリル - 作例データと解説動画で徹底解説！入門＆挫折者にオススメなHoudini本が発売中！]]></title>
-        <id>https://3dnchu.com/?p=1045532</id>
-        <link href="https://3dnchu.com/archives/houdini-drills-book/"/>
-        <updated>2024-11-20T04:44:01.000Z</updated>
-        <summary type="html"><![CDATA[めんたいこ（新井 克哉）氏によるHoudiniの入門書「挫折させないHoudiniドリル」が2024年9月下旬に発売済みです！]]></summary>
-        <author>
-            <name>Ymt3D -3dnchu-</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ブラシアセット、より高速なスカルプト、革新的なグリースペンシル..。Blender 4.3 リリース]]></title>
-        <id>https://3dtotal.jp/?p=48682</id>
-        <link href="https://3dtotal.jp/news/48682/"/>
-        <updated>2024-11-20T01:43:49.000Z</updated>
-        <summary type="html"><![CDATA[ブラシアセット、より高速なスカルプト、革新的なグリースペンシルなどなど。Blender 4.3 はあなたをカバーします。 　 ★Blender 4.3 New Features Official Overview（27分 […]
-The post ブラシアセット、より高速なスカルプト、革新的なグリースペンシル..。Blender 4.3 リリース first appeared on 3dtotal 日本語オフィシャルサイト.]]></summary>
-        <author>
-            <name>3dtotal管理人T</name>
         </author>
     </entry>
 </feed>

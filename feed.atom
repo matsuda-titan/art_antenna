@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-12-21T00:44:26.170Z</updated>
+    <updated>2024-12-21T03:12:27.344Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[今だからこそのマーキングメニュー！オペレーション加速させよう！]]></title>
+        <id>https://tech-art.online/?p=1916</id>
+        <link href="https://tech-art.online/maya-markingmenu-101/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=maya-markingmenu-101"/>
+        <updated>2024-12-21T02:46:35.000Z</updated>
+        <summary type="html"><![CDATA[Mayaのマーキングメニューを使えば、
+今だからこそのマーキングメニュー！オペレーション加速させよう！ first appeared on TECH ART ONLINE.]]></summary>
+        <author>
+            <name>管理人</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AniDoc 線画のスケッチ動画と1枚の色の付いた参照画像を用意する事で自動的に線画に色を塗ってアニメーション動画を作成してくれるAniDocのコードがgithubで公開]]></title>
         <id>https://modelinghappy.com/?p=60779</id>
@@ -15,6 +26,21 @@
 The post AniDoc 線画のスケッチ動画と1枚の色の付いた参照画像を用意する事で自動的に線画に色を塗ってアニメーション動画を作成してくれるAniDocのコードがgithubで公開 first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
         <author>
             <name>modelinghappy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【Unity/URP】RenderMeshを使って残像を描画する]]></title>
+        <id>https://zenn.dev/kr405/articles/668c06213a8025</id>
+        <link href="https://zenn.dev/kr405/articles/668c06213a8025"/>
+        <updated>2024-12-21T00:00:01.000Z</updated>
+        <summary type="html"><![CDATA[RenderMeshとは
+RenderMeshは、名前のとおりメッシュを描画するためのGraphicsクラスの静的メソッドです。GameObjectを介さずにメッシュの描画を直接指示できるので、とにかくメッシュだけ描きたいというときに便利です。より詳しくは公式リファレンスで確認できます。
+ちなみに、同じメッシュを大量に描くためのRenderMeshInstancedやRenderMeshIndirectなどのメソッドも用意されています。
+
+ 残像表現への活用
+ゲーム制作で残像を表現する際、最初はGameObjectを複製する方式で実装していたのですが、どうにも無駄を感じてしまい「シン...]]></summary>
+        <author>
+            <name>kr405</name>
         </author>
     </entry>
     <entry>

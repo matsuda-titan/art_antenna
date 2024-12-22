@@ -2,10 +2,70 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-12-21T12:15:48.035Z</updated>
+    <updated>2024-12-22T00:50:21.366Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[renderSetupで困った]]></title>
+        <id>https://qiita.com/9boz/items/6251656e3c5f6d521691</id>
+        <link href="https://qiita.com/9boz/items/6251656e3c5f6d521691"/>
+        <updated>2024-12-21T22:03:07.000Z</updated>
+        <summary type="html"><![CDATA[renderSetupですね。
+renderLayerの頃に比べて、シーンを開いたらシーンがどんどん崩壊していくとかそういうのが無くなって
+あぁこれで安定してレンダリングを回せるなぁって思ってた時期…]]></summary>
+        <author>
+            <name>mayaタグが付けられた新着記事 - Qiita</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ジンバルロックを数学的に理解したい]]></title>
+        <id>https://qiita.com/ksr03/items/527203ac5bb42a4ba611</id>
+        <link href="https://qiita.com/ksr03/items/527203ac5bb42a4ba611"/>
+        <updated>2024-12-21T18:07:23.000Z</updated>
+        <summary type="html"><![CDATA[はじめに
+こんにちは。しろさんと申します。
+数年前にCGについて一通り勉強したのですが、未だに理解出来ていない部分が多いため、本記事では勉強を兼ねてジンバルロックについてまとめてみます。
+ジンバルロ…]]></summary>
+        <author>
+            <name>CGタグが付けられた新着記事 - Qiita</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[timeSliderをスケールしたい　続]]></title>
+        <id>https://qiita.com/9boz/items/52adc437320fbcf7e33c</id>
+        <link href="https://qiita.com/9boz/items/52adc437320fbcf7e33c"/>
+        <updated>2024-12-21T17:43:49.000Z</updated>
+        <summary type="html"><![CDATA[さて前回からの続きですね。
+https://qiita.com/9boz/items/d78e74f92d779b8a6ea6
+しばらく使って頂いた後にリクエストが来ました。
+
+windowが小さいう…]]></summary>
+        <author>
+            <name>mayaタグが付けられた新着記事 - Qiita</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WebGPU で実装したリアルタイム 3D 流体シミュレーションの紹介]]></title>
+        <id>https://zenn.dev/sparkle/articles/217cc2bb44fd9e</id>
+        <link href="https://zenn.dev/sparkle/articles/217cc2bb44fd9e"/>
+        <updated>2024-12-21T15:00:01.000Z</updated>
+        <summary type="html"><![CDATA[!
+この記事は，グラフィックス全般 Advent Calendar 2024 の 22 日目の記事です．
+
+ブラウザ上で動作するリアルタイム 3D 流体シミュレーションを，WebGPU を使って実装しました．
+
+Demo（WebGPU に対応したブラウザが必要です．）
+https://webgpu-ocean.netlify.app/
+Repository
+https://github.com/matsuoka-601/webgpu-ocean
+Demo Video
+https://www.youtube.com/watch?v=XZ7N5zII9vs
+本記事では，主に以下の 3 つにつ...]]></summary>
+        <author>
+            <name>matsuoka-601</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[A Real-Time Frontier: Building a Stylized Long-Form Narrative Workflow - UE5採用の2Dアニメーション作品制作について解説したUnreal Fest Seattle 2024講演映像が公開！]]></title>
         <id>https://3dnchu.com/?p=1047690</id>
@@ -3973,161 +4033,6 @@ The post EpicGamesはbridgeとQuixel.com経由でMegascansコンテンツを取�
 The post Substance 3D Painterのパス機能を使用して複雑なライン模様を作成して香水瓶を作成する50分以上のチュートリアル動画が公開中 first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
         <author>
             <name>modelinghappy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3DGS Render by KIRI Engine v2.0 - Blender上で3D Gaussian Splattingデータを軽量描画出来る無料アドオンのメジャーアップデートが公開！パフォーマンスの向上や細かな編集も可能に！]]></title>
-        <id>https://3dnchu.com/?p=1045943</id>
-        <link href="https://3dnchu.com/archives/3dgs-render-by-kiri-engine-v2-0/"/>
-        <updated>2024-11-22T11:51:19.000Z</updated>
-        <summary type="html"><![CDATA[3Dスキャンソリューションを展開するKIRI Engineから3D Gaussian Splatting（3DGS）データをインポートしEEVEEでリアルタイム描画出来る無料のBlenderアドオンのメジャーアップデートバージョン「3DGS Render for Blender 2.0」がリリースされました！]]></summary>
-        <author>
-            <name>Ymt3D -3dnchu-</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Blender 4 制作テクニック大全 創造力・表現力・技巧力を高めるノード操作の技法 - ジオメトリ＆シェーダー＆コンポジターなどのノード操作にフォーカスしたBlender解説書が登場！2024年11月末発売！]]></title>
-        <id>https://3dnchu.com/?p=1045927</id>
-        <link href="https://3dnchu.com/archives/blender-4-node-book-tomo/"/>
-        <updated>2024-11-22T10:47:51.000Z</updated>
-        <summary type="html"><![CDATA[「今日からはじめる Blender 3入門講座」などでもお馴染み、友 氏による新Blender本が登場！Geometry NodesやShader Nodes、Composite Nodesにフォーカスしたノード技法書「Blender 4 制作テクニック大全 創造力・表現力・技巧力を高めるノード操作の技法」が2024年11月末に発売されます！]]></summary>
-        <author>
-            <name>Ymt3D -3dnchu-</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[12/14（土）東京にてRazer主催「#MADE WITH BLADE」イベント開催！涌井嶺氏が語るクリエイティブワークとPC選びのコツ - ニュース]]></title>
-        <id>https://cgworld.jp/flashnews/2411-razer.html</id>
-        <link href="https://cgworld.jp/flashnews/2411-razer.html"/>
-        <updated>2024-11-22T10:08:47.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【アセット紹介】Stone Maker – 2つのモードで好きに石を生成！]]></title>
-        <id>https://cgbox.jp/?p=60698</id>
-        <link href="https://cgbox.jp/2024/11/22/news-asset-stone-maker/"/>
-        <updated>2024-11-22T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは！ 今回は「Stone Maker」を紹介します。 Stone Maker 「Stone Maker」は、オブジェクトを石に変換することができるできます。 さまざまなカスタマイズができるので、単純に変換のほかに […]]]></summary>
-        <author>
-            <name>UEDA</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【アドオン紹介】Snapdrop™ – 素早く正確にスナップして作業を効率化！]]></title>
-        <id>https://cgbox.jp/?p=60701</id>
-        <link href="https://cgbox.jp/2024/11/22/news-asset-snapdrop/"/>
-        <updated>2024-11-22T09:00:00.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは！ 今回は「Snapdrop™」を紹介します。 Snapdrop™ 「Snapdrop™」は、任意のオブジェクトを表面に素早く正確にスナップさせることができます。 シーンの制作時に、オブジェクトを素早く配置して […]]]></summary>
-        <author>
-            <name>UEDA</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【Blender講座】Udemyおすすめ講座を3つレビュー！ジオメトリノード/モーショングラフィックス/Womp]]></title>
-        <id>https://cgbox.jp/?p=60549</id>
-        <link href="https://cgbox.jp/2024/11/22/udemy2/"/>
-        <updated>2024-11-22T08:00:28.000Z</updated>
-        <summary type="html"><![CDATA[こんにちは！ 今回はUdemyで公開されている3つの講座を受講したので、レビューしていきたいと思います！ 販売ページにも受講者のレビューがいくつか投稿されているので、そちらもチェックするとより自分が受講したい講座を選ぶの […]]]></summary>
-        <author>
-            <name>UEDA</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【Udemy】おすすめ講座を3つレビュー！ジオメトリーノード/生物制作/キャラクター制作]]></title>
-        <id>https://cgbox.jp/?p=60464</id>
-        <link href="https://cgbox.jp/2024/11/22/udemy1/"/>
-        <updated>2024-11-22T08:00:25.000Z</updated>
-        <summary type="html"><![CDATA[こんにちは！ 今回はUdemyで公開されている3つの講座を受講したので、レビューしていきたいと思います！ 注意点として①と②はモデリングにスカルプトを活用しているので、講師の方はペンタブレットを使っています。 マウスでも […]]]></summary>
-        <author>
-            <name>UEDA</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[今年最後の開催！鈴木卓矢氏による大人気講座『背景モデリング講座』が12月18日に開催決定 - ニュース]]></title>
-        <id>https://cgworld.jp/flashnews/2412-plusone-suzuki.html</id>
-        <link href="https://cgworld.jp/flashnews/2412-plusone-suzuki.html"/>
-        <updated>2024-11-22T05:41:12.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[あらゆる分野のAI応用の参考に。ゲームAIの教科書「スクウェア・エニックスのAI」著者に聞く]]></title>
-        <id>https://3dtotal.jp/?p=48693</id>
-        <link href="https://3dtotal.jp/news/48693/"/>
-        <updated>2024-11-22T05:37:01.000Z</updated>
-        <summary type="html"><![CDATA[★ゲームAIの教科書「スクウェア・エニックスのAI」著者に聞く（38分55秒/ ダグラス・アダムスの法則 asciiLab_studio; より） 01:51　こんな方にお薦めの本です 03:49　ゲームAIの歴史 06 […]
-The post あらゆる分野のAI応用の参考に。ゲームAIの教科書「スクウェア・エニックスのAI」著者に聞く first appeared on 3dtotal 日本語オフィシャルサイト.]]></summary>
-        <author>
-            <name>3dtotal管理人T</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ZBrush ＋ Cinema 4D で作る「麺」料理（※英語ムービー）]]></title>
-        <id>https://3dtotal.jp/?p=48735</id>
-        <link href="https://3dtotal.jp/tutorials/48735/"/>
-        <updated>2024-11-22T05:36:33.000Z</updated>
-        <summary type="html"><![CDATA[★Patrick Foley - Exploring Dynamic Noodles in Zbrush & Cinema 4D（48分21秒） イベント 「Siggraph 2024」(米デンバー、7/29-8/1 開 […]
-The post ZBrush ＋ Cinema 4D で作る「麺」料理（※英語ムービー） first appeared on 3dtotal 日本語オフィシャルサイト.]]></summary>
-        <author>
-            <name>3dtotal管理人T</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[イベント「UNREAL FEST 2024 TOKYO」の講演映像]]></title>
-        <id>https://3dtotal.jp/?p=48727</id>
-        <link href="https://3dtotal.jp/news/48727/"/>
-        <updated>2024-11-22T05:31:11.000Z</updated>
-        <summary type="html"><![CDATA[イベント「UNREAL FEST 2024 TOKYO」（東京 高田馬場、11/2 開催）の講演映像をいくつか紹介します。(※ 公開されている 他の講演映像を見たい方は、公式の 「UNREAL FEST 2024 TOK […]
-The post イベント「UNREAL FEST 2024 TOKYO」の講演映像 first appeared on 3dtotal 日本語オフィシャルサイト.]]></summary>
-        <author>
-            <name>3dtotal管理人T</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ブラックフライデーでお得になっているソフトやアセットを販売しているサイトまとめ]]></title>
-        <id>https://modelinghappy.com/?p=60164</id>
-        <link href="https://modelinghappy.com/archives/60164"/>
-        <updated>2024-11-22T05:17:14.000Z</updated>
-        <summary type="html"><![CDATA[ブラックフライデー期間様々なサイトで販売しているアセットやソフトにプラグイン等が安くなっているサイトをピックアップしてみました。気になっている商品があった人はこのお得な期間に使ってみてはどうでしょうか。 Udemy Bl
-The post ブラックフライデーでお得になっているソフトやアセットを販売しているサイトまとめ first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
-        <author>
-            <name>modelinghappy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[高品質なインビジブルエフェクトとケレン味あるVFXの妙味　Netflixシリーズ「地面師たち」 - 連載]]></title>
-        <id>https://cgworld.jp/regular/2411-315-jimenshi.html</id>
-        <link href="https://cgworld.jp/regular/2411-315-jimenshi.html"/>
-        <updated>2024-11-22T04:35:00.000Z</updated>
-        <summary type="html"><![CDATA[Netflixシリーズ「地面師たち」のVFXメイキング。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AE 用プラグイン、Trapcode Particular を使用した隕石表現（データダウンロードあり）]]></title>
-        <id>https://3dtotal.jp/?p=48716</id>
-        <link href="https://3dtotal.jp/tutorials/48716/"/>
-        <updated>2024-11-22T02:37:34.000Z</updated>
-        <summary type="html"><![CDATA[★Trapcode Particularを使用した隕石表現（42分16秒） Trapcode Particular、GEO、Magic Bullet を使っての隕石の作成で、特に Trapcode Particular  […]
-The post AE 用プラグイン、Trapcode Particular を使用した隕石表現（データダウンロードあり） first appeared on 3dtotal 日本語オフィシャルサイト.]]></summary>
-        <author>
-            <name>3dtotal管理人T</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Better Primitives v1.0 - Blender 4.3のGeometry Nodes用ギズモを活用しパラメータ調整が可能な非破壊プリミティブを追加するアドオンが登場！]]></title>
-        <id>https://3dnchu.com/?p=1045917</id>
-        <link href="https://3dnchu.com/archives/better-primitives-v1-0/"/>
-        <updated>2024-11-22T00:37:58.000Z</updated>
-        <summary type="html"><![CDATA[CGMatterから、Blender 4.3の新機能として実装されたGeometry Nodes用のギズモを活用したデフォルトのプリミティブ追加アドオン「Better Primitives v1.0」がリリースされました！]]></summary>
-        <author>
-            <name>Ymt3D -3dnchu-</name>
         </author>
     </entry>
 </feed>

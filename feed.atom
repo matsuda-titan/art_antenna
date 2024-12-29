@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-12-29T08:11:45.098Z</updated>
+    <updated>2024-12-29T12:15:29.838Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
@@ -798,6 +798,19 @@ The post 舞い上がるドラゴン！『ハウス・オブ・ザ・ドラゴ�
 昨日の記事は @tuchinikoman さんの「ゲームやCGのための数学 2024」という記事でした。…]]></summary>
         <author>
             <name>3DCGタグが付けられた新着記事 - Qiita</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[renderSetupで困った　続]]></title>
+        <id>https://qiita.com/9boz/items/ac70b5f557a7236bbdc2</id>
+        <link href="https://qiita.com/9boz/items/ac70b5f557a7236bbdc2"/>
+        <updated>2024-12-22T22:05:28.000Z</updated>
+        <summary type="html"><![CDATA[前回のお話
+https://qiita.com/9boz/private/6251656e3c5f6d521691
+やっぱり不便なのでなんとかしたい。
+referenceEditor から　refe…]]></summary>
+        <author>
+            <name>mayaタグが付けられた新着記事 - Qiita</name>
         </author>
     </entry>
     <entry>
@@ -4061,28 +4074,6 @@ mat2 rotate(float r) {
         <summary type="html"><![CDATA[今年もBlender Marketのサイバーセールがやってきました。日本時間の2024年12月3日21:59まで各種製品が30%OFFで入手可能です！]]></summary>
         <author>
             <name>Ymt3D -3dnchu-</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Auto Apply Scale スケールの適用を自動で常に適用してくれるのでモデルの変更後にベベルをしても形状が破綻しないアドオン]]></title>
-        <id>https://modelinghappy.com/?p=60529</id>
-        <link href="https://modelinghappy.com/archives/60529"/>
-        <updated>2024-11-30T00:15:16.000Z</updated>
-        <summary type="html"><![CDATA[Auto Apply Scale Blenderでモデルの形状を変更した後にベベルモディファイアーを掛けると角の形状が均等ではなく変な形になった事がありませんが？ その場合スケールを適用する事でベベルが綺麗にかかるように
-The post Auto Apply Scale スケールの適用を自動で常に適用してくれるのでモデルの変更後にベベルをしても形状が破綻しないアドオン first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
-        <author>
-            <name>modelinghappy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Breakdown Maker ブレイキングダウン用に建物などが次々配置されるアニメーションを作成したり、キャラクター用に360度のターンテーブルを作成出来るアドオン]]></title>
-        <id>https://modelinghappy.com/?p=60512</id>
-        <link href="https://modelinghappy.com/archives/60512"/>
-        <updated>2024-11-29T23:18:52.000Z</updated>
-        <summary type="html"><![CDATA[Breakdown Maker Breakdown MakerはBlenderで数回クリックするだけで作成したシーンを分解してプリセットから選ぶだけでスムーズにアニメーションして建物等が出現してくるメイキング用のアニメー
-The post Breakdown Maker ブレイキングダウン用に建物などが次々配置されるアニメーションを作成したり、キャラクター用に360度のターンテーブルを作成出来るアドオン first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
-        <author>
-            <name>modelinghappy</name>
         </author>
     </entry>
 </feed>

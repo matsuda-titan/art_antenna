@@ -10,6 +10,11 @@ osmosfeed.yamlにrssのURLを張る
 
 This is repository hosts the UI and content of an RSS feed reader.
 
+### ビルドエラーがあったとき
+アクションのワークフローの実行結果からここを見るとエラーがあったサイトがわかる
+
+![](images/when_error.png)
+
 ## Links and references
 
 - [How does it work?](https://github.com/osmoscraft/osmosfeed#osmosfeed)

@@ -325,21 +325,6 @@
             "type": "video/mp4"
           },
           "imageUrl": "https://cgbox.jp/wp-content/uploads/2024/11/image_processing20241116-2-13cyf60.jpg"
-        },
-        {
-          "id": "https://cgbox.jp/?p=60978",
-          "author": "UEDA",
-          "description": "こんばんは！ 今回はアドオンの「Quick Water Generator」を紹介します。 こちらのリンクから購入することができます。 Quick Water Generator 「Quick Water Generat […]",
-          "link": "https://cgbox.jp/2024/11/30/news-addon-quick-water-generator/",
-          "publishedOn": "2024-11-30T10:00:00.000Z",
-          "wordCount": 2181,
-          "title": "【アドオン紹介】Quick Water Generator – リアルな水辺をカスタマイズして再現！",
-          "enclosure": {
-            "url": "https://cgbox.jp/wp-content/uploads/2024/11/5-3.mp4",
-            "length": "0",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://cgbox.jp/wp-content/uploads/2024/11/image_processing20241120-2-1ynwshn.jpg"
         }
       ]
     },
@@ -1070,21 +1055,6 @@
             "type": "video/mp4"
           },
           "imageUrl": "https://3dnchu.com/wp-content/uploads/StrokeGen-Beta-v1-0.webp"
-        },
-        {
-          "id": "https://3dnchu.com/?p=1046095",
-          "author": "Ymt3D -3dnchu-",
-          "description": "今年もBlender Marketのサイバーセールがやってきました。日本時間の2024年12月3日21:59まで各種製品が30%OFFで入手可能です！",
-          "link": "https://3dnchu.com/archives/blender-market-cyber-sale-2024/",
-          "publishedOn": "2024-11-30T01:13:35.000Z",
-          "wordCount": 8955,
-          "title": "Blender Market Cyber Sale 2024 - 2024年12月3日まで各種アドオンやアセットが30％オフのセール中！",
-          "enclosure": {
-            "url": "https://3dnchu.com/wp-content/uploads/Blender-Market-Sale-2024-Cyber.jpg",
-            "length": "23979",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://3dnchu.com/wp-content/uploads/Blender-Market-Sale-2024-Cyber.jpg"
         }
       ]
     },
@@ -3027,6 +2997,26 @@
       "feedUrl": "https://qiita.com/tags/maya/feed",
       "siteUrl": "https://qiita.com",
       "articles": [
+        {
+          "id": "https://qiita.com/9boz/items/9c746e2b548c6bf232e5",
+          "author": null,
+          "description": "プレイブラストするときに、\n背景だけ　キャラだけ　といった具合に特定の要素だけを抜き出して書き出したいなぁと\nどうするか\n表示を絞るという事なので、考えられるのが\n\ndisplayLayerを使用する。…",
+          "link": "https://qiita.com/9boz/items/9c746e2b548c6bf232e5",
+          "publishedOn": "2024-12-29T19:42:48.000Z",
+          "wordCount": 1084,
+          "title": "プレイブラストでレイヤー分けしたい",
+          "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Fadvent-calendar-ogp-background-7940cd1c8db80a7ec40711d90f43539e.jpg%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnBicy50d2ltZy5jb20lMkZwcm9maWxlX2ltYWdlcyUyRjUzNzk1NjE0OTcwNjc3MjQ4MCUyRkZCUmk0WUVPX2JpZ2dlci5wbmc_aXhsaWI9cmItNC4wLjAmYXI9MSUzQTEmZml0PWNyb3AmbWFzaz1lbGxpcHNlJmZtPXBuZzMyJnM9MDRlNDY0Y2MzZTYzYmUyMDM3NzA4OTRkMGU3NWU3ODc%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D391669ea7aa95c16bf1e7b65a2c74f6b?ixlib=rb-4.0.0&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9JUUzJTgzJTk3JUUzJTgzJUFDJUUzJTgyJUE0JUUzJTgzJTk2JUUzJTgzJUE5JUUzJTgyJUI5JUUzJTgzJTg4JUUzJTgxJUE3JUUzJTgzJUFDJUUzJTgyJUE0JUUzJTgzJUE0JUUzJTgzJUJDJUU1JTg4JTg2JUUzJTgxJTkxJUUzJTgxJTk3JUUzJTgxJTlGJUUzJTgxJTg0JnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMzQTNDM0MmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9ZGM5YjFhNDliYzRmMWI5YTYzOGMzYjY0ZTZlYzViOGE&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDA5Ym96JnR4dC1jb2xvcj0lMjMzQTNDM0MmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9MzZlY2M2NjU5OWE5M2Y5Mzg2MGExZGZlZjkxZDllY2U&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=828f0a74f71afcb515d09805396f0d48"
+        },
+        {
+          "id": "https://qiita.com/9boz/items/c9f89e7a0b75b6963826",
+          "author": null,
+          "description": "GPUの悲鳴\nアセットまぁまぁおるなーっていうシーンでテクスチャ表示にしてみるとー\nﾄﾞｩﾝ！\n\nauto Clamp使いなさいよ、って書かれてるんですが\n使ってるんですよauto Clamp。\nじゃ…",
+          "link": "https://qiita.com/9boz/items/c9f89e7a0b75b6963826",
+          "publishedOn": "2024-12-29T18:19:59.000Z",
+          "wordCount": 717,
+          "title": "viewportが諦める",
+          "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Fadvent-calendar-ogp-background-7940cd1c8db80a7ec40711d90f43539e.jpg%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnBicy50d2ltZy5jb20lMkZwcm9maWxlX2ltYWdlcyUyRjUzNzk1NjE0OTcwNjc3MjQ4MCUyRkZCUmk0WUVPX2JpZ2dlci5wbmc_aXhsaWI9cmItNC4wLjAmYXI9MSUzQTEmZml0PWNyb3AmbWFzaz1lbGxpcHNlJmZtPXBuZzMyJnM9MDRlNDY0Y2MzZTYzYmUyMDM3NzA4OTRkMGU3NWU3ODc%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D391669ea7aa95c16bf1e7b65a2c74f6b?ixlib=rb-4.0.0&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9dmlld3BvcnQlRTMlODElOEMlRTglQUIlQTYlRTMlODIlODElRTMlODIlOEImdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzNBM0MzQyZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz0yMjNiMmE4MjkwNWQ0YzYxM2FkZWVkZWUzMWE2Nzk4Mg&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDA5Ym96JnR4dC1jb2xvcj0lMjMzQTNDM0MmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9MzZlY2M2NjU5OWE5M2Y5Mzg2MGExZGZlZjkxZDllY2U&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=65448bdc1ee23b1df8564a3d4f269e21"
+        },
         {
           "id": "https://qiita.com/keffu/items/d145cd829f8980ebacf1",
           "author": null,

@@ -2,10 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-12-29T12:15:29.838Z</updated>
+    <updated>2024-12-30T00:47:16.116Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[プレイブラストでレイヤー分けしたい]]></title>
+        <id>https://qiita.com/9boz/items/9c746e2b548c6bf232e5</id>
+        <link href="https://qiita.com/9boz/items/9c746e2b548c6bf232e5"/>
+        <updated>2024-12-29T19:42:48.000Z</updated>
+        <summary type="html"><![CDATA[プレイブラストするときに、
+背景だけ　キャラだけ　といった具合に特定の要素だけを抜き出して書き出したいなぁと
+どうするか
+表示を絞るという事なので、考えられるのが
+
+displayLayerを使用する。…]]></summary>
+        <author>
+            <name>mayaタグが付けられた新着記事 - Qiita</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[viewportが諦める]]></title>
+        <id>https://qiita.com/9boz/items/c9f89e7a0b75b6963826</id>
+        <link href="https://qiita.com/9boz/items/c9f89e7a0b75b6963826"/>
+        <updated>2024-12-29T18:19:59.000Z</updated>
+        <summary type="html"><![CDATA[GPUの悲鳴
+アセットまぁまぁおるなーっていうシーンでテクスチャ表示にしてみるとー
+ﾄﾞｩﾝ！
+
+auto Clamp使いなさいよ、って書かれてるんですが
+使ってるんですよauto Clamp。
+じゃ…]]></summary>
+        <author>
+            <name>mayaタグが付けられた新着記事 - Qiita</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[3DCoatにBlenderを使用してリアルなハンマーモデルを作成するチュートリアル動画がWingfoxで販売開始！]]></title>
         <id>https://modelinghappy.com/?p=60841</id>
@@ -4054,26 +4085,6 @@ mat2 rotate(float r) {
     return mat2(cos(r), -sin(r)...]]></summary>
         <author>
             <name>Atsushi Asakura</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【アドオン紹介】Quick Water Generator – リアルな水辺をカスタマイズして再現！]]></title>
-        <id>https://cgbox.jp/?p=60978</id>
-        <link href="https://cgbox.jp/2024/11/30/news-addon-quick-water-generator/"/>
-        <updated>2024-11-30T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは！ 今回はアドオンの「Quick Water Generator」を紹介します。 こちらのリンクから購入することができます。 Quick Water Generator 「Quick Water Generat […]]]></summary>
-        <author>
-            <name>UEDA</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Blender Market Cyber Sale 2024 - 2024年12月3日まで各種アドオンやアセットが30％オフのセール中！]]></title>
-        <id>https://3dnchu.com/?p=1046095</id>
-        <link href="https://3dnchu.com/archives/blender-market-cyber-sale-2024/"/>
-        <updated>2024-11-30T01:13:35.000Z</updated>
-        <summary type="html"><![CDATA[今年もBlender Marketのサイバーセールがやってきました。日本時間の2024年12月3日21:59まで各種製品が30%OFFで入手可能です！]]></summary>
-        <author>
-            <name>Ymt3D -3dnchu-</name>
         </author>
     </entry>
 </feed>

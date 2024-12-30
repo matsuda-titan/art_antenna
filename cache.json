@@ -3803,6 +3803,16 @@
       "siteUrl": "https://qiita.com",
       "articles": [
         {
+          "id": "https://qiita.com/inaba_darkfox/items/2043d6b9ff22825d00b0",
+          "author": null,
+          "description": "はじめに\n　p5.jsとGLSLでレイマーチングをやって小星形十二面体をレイマーチングで描画します。カメラはp5.jsに備え付けの物をorbitControl()で動かして使います。\nコード全文\n　…",
+          "link": "https://qiita.com/inaba_darkfox/items/2043d6b9ff22825d00b0",
+          "publishedOn": "2024-12-30T02:55:41.000Z",
+          "wordCount": 2889,
+          "title": "p5.jsのカメラを用いてレイマーチングで小星形十二面体を描画する",
+          "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnFpaXRhLWltYWdlLXN0b3JlLnMzLmFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkYwJTJGNDM3MzQ5JTJGcHJvZmlsZS1pbWFnZXMlMkYxNzM0OTUyMjg4P2l4bGliPXJiLTQuMC4wJmFyPTElM0ExJmZpdD1jcm9wJm1hc2s9ZWxsaXBzZSZmbT1wbmczMiZzPTYzMWYwNjliM2MyMGM1MzMyNGZiMDFmMDAwM2I2OTJk%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3De3b66615e0f2662e578b5c4678edc1f1?ixlib=rb-4.0.0&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9cDUuanMlRTMlODElQUUlRTMlODIlQUIlRTMlODMlQTElRTMlODMlQTklRTMlODIlOTIlRTclOTQlQTglRTMlODElODQlRTMlODElQTYlRTMlODMlQUMlRTMlODIlQTQlRTMlODMlOUUlRTMlODMlQkMlRTMlODMlODElRTMlODMlQjMlRTMlODIlQjAlRTMlODElQTclRTUlQjAlOEYlRTYlOTglOUYlRTUlQkQlQTIlRTUlOEQlODElRTQlQkElOEMlRTklOUQlQTIlRTQlQkQlOTMlRTMlODIlOTIlRTYlOEYlOEYlRTclOTQlQkIlRTMlODElOTklRTMlODIlOEImdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz1hYmQ1NmIzNjA4NzFiNzU1M2MxMTU5MTc3Njc0YmQ3MA&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBpbmFiYV9kYXJrZm94JnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9ZmYwMTE2ZjY4YmJiNjdjNWRkNDgzYjM4ZGY3ZjdkODc&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=f2d39d61d059a4b44db9b8b0b5d56491"
+        },
+        {
           "id": "https://qiita.com/inaba_darkfox/items/d7055ad395af542c9f5c",
           "author": null,
           "description": "はじめに\n　上半平面の双曲タイリングの描画レシピ（簡単なもの）。\n\n　こんな感じのものを作ってみる。\n　まず角度を決める。そのうちひとつは簡単のため$\\pi/2$とする。それは双曲平面だと直線というの…",
@@ -4114,21 +4124,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--ddCnPTZE--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%255Bp5js%255Dp5.scribble.js%25E3%2581%258C%25E6%25A5%25BD%25E3%2581%2597%25E3%2581%2584%25EF%25BC%2581%25EF%25BC%2581%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%258B%25E3%2582%2589%25E3%2581%258F%25E3%2582%258C178%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2E0OGNhODViYTcuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
-        },
-        {
-          "id": "https://zenn.dev/aadebdeb/articles/0e1287f5120855",
-          "author": "Atsushi Asakura",
-          "description": "日本の伝統文様の一つに桧垣(ひがき)という2:1の比の長方形を斜め45度に組み合わせたような文様があります。この記事ではGLSLを用いて桧垣文様を実装します。\nhttps://naisouzairyou-annai.jp/pattern/tradition/index.html\nコードはGLSL Sandbox互換になっています。\nprecision highp float;\n\nuniform vec2 resolution;\n\n#define PI 3.14159265359\n\nmat2 rotate(float r) {\n    return mat2(cos(r), -sin(r)...",
-          "link": "https://zenn.dev/aadebdeb/articles/0e1287f5120855",
-          "publishedOn": "2024-11-30T14:29:20.000Z",
-          "wordCount": null,
-          "title": "GLSLで桧垣文様",
-          "enclosure": {
-            "url": "https://res.cloudinary.com/zenn/image/upload/s--7TpxDkUu--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_66:GLSL%25E3%2581%25A7%25E6%25A1%25A7%25E5%259E%25A3%25E6%2596%2587%25E6%25A7%2598%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Atsushi%2520Asakura%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2JiZWNiNDRjYTUuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png",
-            "length": "0",
-            "type": "image/png"
-          },
-          "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--7TpxDkUu--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_66:GLSL%25E3%2581%25A7%25E6%25A1%25A7%25E5%259E%25A3%25E6%2596%2587%25E6%25A7%2598%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Atsushi%2520Asakura%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2JiZWNiNDRjYTUuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
         }
       ]
     }

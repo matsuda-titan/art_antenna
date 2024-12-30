@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-12-30T00:47:16.116Z</updated>
+    <updated>2024-12-30T03:16:45.269Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[p5.jsのカメラを用いてレイマーチングで小星形十二面体を描画する]]></title>
+        <id>https://qiita.com/inaba_darkfox/items/2043d6b9ff22825d00b0</id>
+        <link href="https://qiita.com/inaba_darkfox/items/2043d6b9ff22825d00b0"/>
+        <updated>2024-12-30T02:55:41.000Z</updated>
+        <summary type="html"><![CDATA[はじめに
+　p5.jsとGLSLでレイマーチングをやって小星形十二面体をレイマーチングで描画します。カメラはp5.jsに備え付けの物をorbitControl()で動かして使います。
+コード全文
+　…]]></summary>
+        <author>
+            <name>GLSLタグが付けられた新着記事 - Qiita</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[プレイブラストでレイヤー分けしたい]]></title>
         <id>https://qiita.com/9boz/items/9c746e2b548c6bf232e5</id>
@@ -4065,26 +4078,6 @@ The post Cinema4Dをメインに使いアニメ調の短編CGアニメーショ�
 普段は操作、アニメーション、カメラワークなどなどで遊び心地を作ることを主にやっています。楽しいものを作るのが…]]></summary>
         <author>
             <name>CGタグが付けられた新着記事 - Qiita</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GLSLで桧垣文様]]></title>
-        <id>https://zenn.dev/aadebdeb/articles/0e1287f5120855</id>
-        <link href="https://zenn.dev/aadebdeb/articles/0e1287f5120855"/>
-        <updated>2024-11-30T14:29:20.000Z</updated>
-        <summary type="html"><![CDATA[日本の伝統文様の一つに桧垣(ひがき)という2:1の比の長方形を斜め45度に組み合わせたような文様があります。この記事ではGLSLを用いて桧垣文様を実装します。
-https://naisouzairyou-annai.jp/pattern/tradition/index.html
-コードはGLSL Sandbox互換になっています。
-precision highp float;
-
-uniform vec2 resolution;
-
-#define PI 3.14159265359
-
-mat2 rotate(float r) {
-    return mat2(cos(r), -sin(r)...]]></summary>
-        <author>
-            <name>Atsushi Asakura</name>
         </author>
     </entry>
 </feed>

@@ -2,10 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-12-30T12:17:33.687Z</updated>
+    <updated>2024-12-31T00:44:39.127Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[editMAでコンストレインを書き出すときに困ったはなし]]></title>
+        <id>https://qiita.com/9boz/items/e447b133bc2d9b79a8b1</id>
+        <link href="https://qiita.com/9boz/items/e447b133bc2d9b79a8b1"/>
+        <updated>2024-12-30T14:52:31.000Z</updated>
+        <summary type="html"><![CDATA[https://qiita.com/9boz/items/e1408dccdc3c768df77e
+さてコンストレインが書き出せるようにはなったのですが、
+実際に運用してちょっとコンストレインまわり…]]></summary>
+        <author>
+            <name>mayaタグが付けられた新着記事 - Qiita</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GLSLでひし形(rhombille)タイリング]]></title>
+        <id>https://zenn.dev/aadebdeb/articles/abd6d1aa974da3</id>
+        <link href="https://zenn.dev/aadebdeb/articles/abd6d1aa974da3"/>
+        <updated>2024-12-30T11:14:01.000Z</updated>
+        <summary type="html"><![CDATA[60度と120度のひし形で平面を敷き詰めるタイリングをひし形(rhombille)タイリングと言います。この記事ではGLSLでひし形タイリングを実装します。
+https://en.wikipedia.org/wiki/Rhombille_tiling
+コードはGLSL Sandbox互換になっています。
+precision highp float;
+
+uniform vec2 resolution;
+
+#define PI 3.14159265359
+
+mat2 rotate(float r) {
+    float c = cos(r);
+    float s = sin(r);
+ ...]]></summary>
+        <author>
+            <name>Atsushi Asakura</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【UE5】映画のような自動車走行シーン作成チュートリアルをレビュー！]]></title>
         <id>https://cgbox.jp/?p=61295</id>
@@ -4078,47 +4112,6 @@ The post Gsurface Gen グリースペンシルでサクサクラインを描く�
         <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
         <author>
             <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Houdini: FontSOP機能追加 - はじめてのPython]]></title>
-        <id>https://zenn.dev/kickbase/articles/9d003c9ce0e66c</id>
-        <link href="https://zenn.dev/kickbase/articles/9d003c9ce0e66c"/>
-        <updated>2024-12-01T10:00:01.000Z</updated>
-        <summary type="html"><![CDATA[もうアドベントカレンダーの季節とか嘘でしょう…？
-気を取り直して皆さんいかがお過ごしでしょう。僕は今年もHoudini三昧の毎日でした。
-今回はFontSOPに機能追加を施す方法についてお話をしたいと思います。
-本記事はHoudini Apprentice アドベントカレンダー2024 1日目の記事です。Apprenticeということでできるだけシンプルな題材を取り上げ、コードについても手厚めに解説しています。
-ちなみに今回から技術ブログはZennに移行しました！よろしくお願いします。
-
- データ配布
-HDAダウンロード
-
- ツール制作の背景とその特徴
-FontSOPはテストジオメトリの...]]></summary>
-        <author>
-            <name>めんたいこ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【アドオン紹介】3-In-1 – レンダリングを簡単加工で雰囲気UP！]]></title>
-        <id>https://cgbox.jp/?p=61012</id>
-        <link href="https://cgbox.jp/2024/12/01/mews-addon-3-in-1/"/>
-        <updated>2024-12-01T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは！ 今回はアドオンの「3-In-1 | The Definitive Cinematography Bundle」を紹介します。 こちらのリンクから購入することができます。 3-In-1 | The Defin […]]]></summary>
-        <author>
-            <name>UEDA</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cinema4Dをメインに使いアニメ調の短編CGアニメーション作品を１から作るチュートリアル動画がWingfoxで販売開始！]]></title>
-        <id>https://modelinghappy.com/?p=60538</id>
-        <link href="https://modelinghappy.com/archives/60538"/>
-        <updated>2024-12-01T02:55:22.000Z</updated>
-        <summary type="html"><![CDATA[【Fundraising】シネマティック2D CGアニメーションの全工程実践講座 世界中のチュートリアル動画を販売しているWingfoxのサイトでゼロからラフスケッチを作成してアニメ調のCGアニメーションを作成、編集して
-The post Cinema4Dをメインに使いアニメ調の短編CGアニメーション作品を１から作るチュートリアル動画がWingfoxで販売開始！ first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
-        <author>
-            <name>modelinghappy</name>
         </author>
     </entry>
 </feed>

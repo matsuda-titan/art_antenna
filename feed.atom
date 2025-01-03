@@ -2,10 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-01-03T08:12:32.683Z</updated>
+    <updated>2025-01-03T12:17:23.888Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Unity カラーパレットとノイズによる絵作り]]></title>
+        <id>https://qiita.com/db0091/items/1ff5afaaf1a25254f816</id>
+        <link href="https://qiita.com/db0091/items/1ff5afaaf1a25254f816"/>
+        <updated>2025-01-03T09:22:20.000Z</updated>
+        <summary type="html"><![CDATA[作ったもの
+以下のようなエフェクトを作りました。
+元画像
+
+
+これだけならシンプルなカラーパレットなので、ノイズを加える事で印刷感を足しました。
+
+https://github.com/Dumble009…]]></summary>
+        <author>
+            <name>Shaderタグが付けられた新着記事 - Qiita</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unity カラーパレットとノイズによる絵作り]]></title>
+        <id>https://qiita.com/db0091/items/1ff5afaaf1a25254f816</id>
+        <link href="https://qiita.com/db0091/items/1ff5afaaf1a25254f816"/>
+        <updated>2025-01-03T09:22:20.000Z</updated>
+        <summary type="html"><![CDATA[作ったもの
+以下のようなエフェクトを作りました。
+元画像
+
+
+これだけならシンプルなカラーパレットなので、ノイズを加える事で印刷感を足しました。
+
+https://github.com/Dumble009…]]></summary>
+        <author>
+            <name>CGタグが付けられた新着記事 - Qiita</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【Unity/URP】2Dの水面表現を考える➀]]></title>
+        <id>https://zenn.dev/kr405/articles/a69f89b0a7f81b</id>
+        <link href="https://zenn.dev/kr405/articles/a69f89b0a7f81b"/>
+        <updated>2025-01-03T08:31:01.000Z</updated>
+        <summary type="html"><![CDATA[はじめに
+この記事では、URPの2Dプロジェクトで水面を表現する方法を検証していきます。
+プライベートで2Dゲームを作成しているのですが、2D向けのシェーダーやエフェクトってなかなか欲しい情報にたどり着けないなと感じたので、やりがいのありそうな水面の表現を通して色々な手法に触れたいと思っています。
+
+ 何を作るか
+今回は主にフラグメントシェーダーを実装して、水面らしさを演出する反射や揺れ、コースティクスを表現したいと思います。コースティクスという言葉は聞きなじみがない方もいるかもしれませんが、水やガラスを通った光が作る網目のような模様です。
+動作結果は下のような感じです。白っぽい筋の...]]></summary>
+        <author>
+            <name>kr405</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DreamWorks、オープンソースのプロダクションレンダラ「MoonRay 1.7」リリース！　新しいポータルライトタイプ追加など - ニュース]]></title>
         <id>https://cgworld.jp/flashnews/202501-MoonRay17.html</id>
@@ -3832,33 +3882,6 @@ The post CMやブランドコンテンツ映像。Rodeo FX の Global Advertisin
 The post ホリデーシーズンにぴったりの贈り物!?「Maxon 2024年冬のリリース」 first appeared on 3dtotal 日本語オフィシャルサイト.]]></summary>
         <author>
             <name>3dtotal管理人T</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[はじめてのｍGearカスタムステップ]]></title>
-        <id>https://qiita.com/GACCHI_3DCG/items/3b9248c1bc1aa5e70a36</id>
-        <link href="https://qiita.com/GACCHI_3DCG/items/3b9248c1bc1aa5e70a36"/>
-        <updated>2024-12-04T22:34:11.000Z</updated>
-        <summary type="html"><![CDATA[挨拶
-どうも、GACCHIです。
-普段はXやYoutubeなどでリギングをメインに発信させていただいています。
-はじめてQiitaに投稿するのですが、今回はmGearのカスタムステップについて、まだ…]]></summary>
-        <author>
-            <name>mayaタグが付けられた新着記事 - Qiita</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[editMAでアニメーションを書き出したい]]></title>
-        <id>https://qiita.com/9boz/items/a278945f2d95329814d0</id>
-        <link href="https://qiita.com/9boz/items/a278945f2d95329814d0"/>
-        <updated>2024-12-04T22:07:04.000Z</updated>
-        <summary type="html"><![CDATA[Mayaでアニメーションを読み書きする方法は幾つかあるのですが、editMAを使った読み書きをやってみます。
-書き出し
-exportEditsというコマンドがありました。
-これを使ってやってみます。
-https://help.autodesk.com/cloudhelp/2022/JPN/Maya-Tech-Docs/CommandsPython/exportEdits.htm…]]></summary>
-        <author>
-            <name>mayaタグが付けられた新着記事 - Qiita</name>
         </author>
     </entry>
 </feed>

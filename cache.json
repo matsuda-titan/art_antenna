@@ -2455,6 +2455,21 @@
       "siteUrl": "https://zenn.dev/topics/shader",
       "articles": [
         {
+          "id": "https://zenn.dev/kr405/articles/a69f89b0a7f81b",
+          "author": "kr405",
+          "description": "はじめに\nこの記事では、URPの2Dプロジェクトで水面を表現する方法を検証していきます。\nプライベートで2Dゲームを作成しているのですが、2D向けのシェーダーやエフェクトってなかなか欲しい情報にたどり着けないなと感じたので、やりがいのありそうな水面の表現を通して色々な手法に触れたいと思っています。\n\n 何を作るか\n今回は主にフラグメントシェーダーを実装して、水面らしさを演出する反射や揺れ、コースティクスを表現したいと思います。コースティクスという言葉は聞きなじみがない方もいるかもしれませんが、水やガラスを通った光が作る網目のような模様です。\n動作結果は下のような感じです。白っぽい筋の...",
+          "link": "https://zenn.dev/kr405/articles/a69f89b0a7f81b",
+          "publishedOn": "2025-01-03T08:31:01.000Z",
+          "wordCount": 4274,
+          "title": "【Unity/URP】2Dの水面表現を考える➀",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--GDurcR6O--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2580%2590Unity%252FURP%25E3%2580%25912D%25E3%2581%25AE%25E6%25B0%25B4%25E9%259D%25A2%25E8%25A1%25A8%25E7%258F%25BE%25E3%2582%2592%25E8%2580%2583%25E3%2581%2588%25E3%2582%258B%25E2%259E%2580%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:kr405%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2U2NTg2N2Y5NDYuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png",
+            "length": "0",
+            "type": "image/png"
+          },
+          "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--GDurcR6O--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2580%2590Unity%252FURP%25E3%2580%25912D%25E3%2581%25AE%25E6%25B0%25B4%25E9%259D%25A2%25E8%25A1%25A8%25E7%258F%25BE%25E3%2582%2592%25E8%2580%2583%25E3%2581%2588%25E3%2582%258B%25E2%259E%2580%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:kr405%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2U2NTg2N2Y5NDYuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
+        },
+        {
           "id": "https://zenn.dev/kr405/articles/8d8600db8f46bb",
           "author": "kr405",
           "description": "※この記事は前回の記事を前提とした内容です。\n\n はじめに\n前回、Graphics.RenderMesh()というメソッドを使って残像を描く方法について書きました。\n今回は、このプロジェクトを拡張する形でポストエフェクト後にメッシュを描画する方法について紹介したいと思います。\nなお、こちらで紹介する方法はURPのプロジェクトを前提としていますが、URPの導入方法については解説していないのでご了承ください。\n\n 何が変わるか\nポストエフェクトは、オブジェクトの描画を終えた後にスクリーン全体にかかるエフェクトです。しかしながら、｢ここはポストエフェクトかからないでほしいのにな...｣という場...",
@@ -3071,26 +3086,6 @@
           "wordCount": 2099,
           "title": "editMAでコンストレインを書き出す",
           "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Fadvent-calendar-ogp-background-7940cd1c8db80a7ec40711d90f43539e.jpg%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnBicy50d2ltZy5jb20lMkZwcm9maWxlX2ltYWdlcyUyRjUzNzk1NjE0OTcwNjc3MjQ4MCUyRkZCUmk0WUVPX2JpZ2dlci5wbmc_aXhsaWI9cmItNC4wLjAmYXI9MSUzQTEmZml0PWNyb3AmbWFzaz1lbGxpcHNlJmZtPXBuZzMyJnM9MDRlNDY0Y2MzZTYzYmUyMDM3NzA4OTRkMGU3NWU3ODc%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D391669ea7aa95c16bf1e7b65a2c74f6b?ixlib=rb-4.0.0&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9ZWRpdE1BJUUzJTgxJUE3JUUzJTgyJUIzJUUzJTgzJUIzJUUzJTgyJUI5JUUzJTgzJTg4JUUzJTgzJUFDJUUzJTgyJUE0JUUzJTgzJUIzJUUzJTgyJTkyJUU2JTlCJUI4JUUzJTgxJThEJUU1JTg3JUJBJUUzJTgxJTk5JnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMzQTNDM0MmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9YzVmMDY4MzhlNDgzYmMzYTZlMDRjYmE4MDU3Y2ViMWI&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDA5Ym96JnR4dC1jb2xvcj0lMjMzQTNDM0MmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9MzZlY2M2NjU5OWE5M2Y5Mzg2MGExZGZlZjkxZDllY2U&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=7ef9bccbb9fd0bc5a74a1617047b9e2c"
-        },
-        {
-          "id": "https://qiita.com/GACCHI_3DCG/items/3b9248c1bc1aa5e70a36",
-          "author": null,
-          "description": "挨拶\nどうも、GACCHIです。\n普段はXやYoutubeなどでリギングをメインに発信させていただいています。\nはじめてQiitaに投稿するのですが、今回はmGearのカスタムステップについて、まだ…",
-          "link": "https://qiita.com/GACCHI_3DCG/items/3b9248c1bc1aa5e70a36",
-          "publishedOn": "2024-12-04T22:34:11.000Z",
-          "wordCount": 968,
-          "title": "はじめてのｍGearカスタムステップ",
-          "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Fadvent-calendar-ogp-background-7940cd1c8db80a7ec40711d90f43539e.jpg%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnBicy50d2ltZy5jb20lMkZwcm9maWxlX2ltYWdlcyUyRjE1NzcyODkyODg2NjgzMTU2NDglMkZVcFRKOVl4Ul9iaWdnZXIuanBnP2l4bGliPXJiLTQuMC4wJmFyPTElM0ExJmZpdD1jcm9wJm1hc2s9ZWxsaXBzZSZmbT1wbmczMiZzPWI2ZWU5YzliOTc2ZjNmMzE3YWMzZjRkZmE1ZDg5NGEz%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D995b2df7832f1618ef0ffcfd1a7fec1c?ixlib=rb-4.0.0&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9JUUzJTgxJUFGJUUzJTgxJTk4JUUzJTgyJTgxJUUzJTgxJUE2JUUzJTgxJUFFJUVGJUJEJThER2VhciVFMyU4MiVBQiVFMyU4MiVCOSVFMyU4MiVCRiVFMyU4MyVBMCVFMyU4MiVCOSVFMyU4MyU4NiVFMyU4MyU4MyVFMyU4MyU5NyZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZ0eHQtY29sb3I9JTIzM0EzQzNDJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnR4dC1wYWQ9MCZzPWVkZmE2YjIzYjg2YzBhYmU5YjFlOWQzZDNhNDE0MTky&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBHQUNDSElfM0RDRyZ0eHQtY29sb3I9JTIzM0EzQzNDJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPTAxMWY3YmQyNDdkNDgyODAyNWJlZWU2YzI2NzAzYmMw&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=abf027103b07bbd8c5405bd35a7960c9"
-        },
-        {
-          "id": "https://qiita.com/9boz/items/a278945f2d95329814d0",
-          "author": null,
-          "description": "Mayaでアニメーションを読み書きする方法は幾つかあるのですが、editMAを使った読み書きをやってみます。\n書き出し\nexportEditsというコマンドがありました。\nこれを使ってやってみます。\nhttps://help.autodesk.com/cloudhelp/2022/JPN/Maya-Tech-Docs/CommandsPython/exportEdits.htm…",
-          "link": "https://qiita.com/9boz/items/a278945f2d95329814d0",
-          "publishedOn": "2024-12-04T22:07:04.000Z",
-          "wordCount": 1452,
-          "title": "editMAでアニメーションを書き出したい",
-          "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Fadvent-calendar-ogp-background-7940cd1c8db80a7ec40711d90f43539e.jpg%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnBicy50d2ltZy5jb20lMkZwcm9maWxlX2ltYWdlcyUyRjUzNzk1NjE0OTcwNjc3MjQ4MCUyRkZCUmk0WUVPX2JpZ2dlci5wbmc_aXhsaWI9cmItNC4wLjAmYXI9MSUzQTEmZml0PWNyb3AmbWFzaz1lbGxpcHNlJmZtPXBuZzMyJnM9MDRlNDY0Y2MzZTYzYmUyMDM3NzA4OTRkMGU3NWU3ODc%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D391669ea7aa95c16bf1e7b65a2c74f6b?ixlib=rb-4.0.0&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9ZWRpdE1BJUUzJTgxJUE3JUUzJTgyJUEyJUUzJTgzJThCJUUzJTgzJUExJUUzJTgzJUJDJUUzJTgyJUI3JUUzJTgzJUE3JUUzJTgzJUIzJUUzJTgyJTkyJUU2JTlCJUI4JUUzJTgxJThEJUU1JTg3JUJBJUUzJTgxJTk3JUUzJTgxJTlGJUUzJTgxJTg0JnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMzQTNDM0MmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9YzQ3NGE0MmRiZjMyYTBmZGIwYzkwZjEzYTk4ZGJmODU&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDA5Ym96JnR4dC1jb2xvcj0lMjMzQTNDM0MmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9MzZlY2M2NjU5OWE5M2Y5Mzg2MGExZGZlZjkxZDllY2U&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=acfab6c452f00d81dd5d3d415e73119f"
         }
       ]
     },
@@ -3199,6 +3194,16 @@
       "feedUrl": "https://qiita.com/tags/shader/feed",
       "siteUrl": "https://qiita.com",
       "articles": [
+        {
+          "id": "https://qiita.com/db0091/items/1ff5afaaf1a25254f816",
+          "author": null,
+          "description": "作ったもの\n以下のようなエフェクトを作りました。\n元画像\n\n\nこれだけならシンプルなカラーパレットなので、ノイズを加える事で印刷感を足しました。\n\nhttps://github.com/Dumble009…",
+          "link": "https://qiita.com/db0091/items/1ff5afaaf1a25254f816",
+          "publishedOn": "2025-01-03T09:22:20.000Z",
+          "wordCount": 1633,
+          "title": "Unity カラーパレットとノイズによる絵作り",
+          "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnBicy50d2ltZy5jb20lMkZwcm9maWxlX2ltYWdlcyUyRjExODY4MjQxNzgzNjE0OTU1NTIlMkY2Z0NzeHlaTF9iaWdnZXIuanBnP2l4bGliPXJiLTQuMC4wJmFyPTElM0ExJmZpdD1jcm9wJm1hc2s9ZWxsaXBzZSZmbT1wbmczMiZzPTJiYWZhZTZiNmRjYjNiNGRjYWU4ZGEzOGRhNTI0OTZm%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D375cde6c794a0f1a4b8c1b0d2695351a?ixlib=rb-4.0.0&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9VW5pdHklMjAlRTMlODIlQUIlRTMlODMlQTklRTMlODMlQkMlRTMlODMlOTElRTMlODMlQUMlRTMlODMlODMlRTMlODMlODglRTMlODElQTglRTMlODMlOEUlRTMlODIlQTQlRTMlODIlQkElRTMlODElQUIlRTMlODIlODglRTMlODIlOEIlRTclQjUlQjUlRTQlQkQlOUMlRTMlODIlOEEmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz05NjIyMmJlYWZiY2Q4MDhlMTk2NjQ3ZmQwZTFkMjdjYw&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBkYjAwOTEmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz1iNjJhNWRjMjJiNWNjODRkZmU5MTlkOTUwMDM0M2NjZg&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=f514c237e043d7e77e233756e33588be"
+        },
         {
           "id": "https://qiita.com/hikoalpha/items/8445109a20b8139ce7b5",
           "author": null,
@@ -3423,6 +3428,16 @@
       "feedUrl": "https://qiita.com/tags/cg/feed",
       "siteUrl": "https://qiita.com",
       "articles": [
+        {
+          "id": "https://qiita.com/db0091/items/1ff5afaaf1a25254f816",
+          "author": null,
+          "description": "作ったもの\n以下のようなエフェクトを作りました。\n元画像\n\n\nこれだけならシンプルなカラーパレットなので、ノイズを加える事で印刷感を足しました。\n\nhttps://github.com/Dumble009…",
+          "link": "https://qiita.com/db0091/items/1ff5afaaf1a25254f816",
+          "publishedOn": "2025-01-03T09:22:20.000Z",
+          "wordCount": 1633,
+          "title": "Unity カラーパレットとノイズによる絵作り",
+          "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnBicy50d2ltZy5jb20lMkZwcm9maWxlX2ltYWdlcyUyRjExODY4MjQxNzgzNjE0OTU1NTIlMkY2Z0NzeHlaTF9iaWdnZXIuanBnP2l4bGliPXJiLTQuMC4wJmFyPTElM0ExJmZpdD1jcm9wJm1hc2s9ZWxsaXBzZSZmbT1wbmczMiZzPTJiYWZhZTZiNmRjYjNiNGRjYWU4ZGEzOGRhNTI0OTZm%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D375cde6c794a0f1a4b8c1b0d2695351a?ixlib=rb-4.0.0&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9VW5pdHklMjAlRTMlODIlQUIlRTMlODMlQTklRTMlODMlQkMlRTMlODMlOTElRTMlODMlQUMlRTMlODMlODMlRTMlODMlODglRTMlODElQTglRTMlODMlOEUlRTMlODIlQTQlRTMlODIlQkElRTMlODElQUIlRTMlODIlODglRTMlODIlOEIlRTclQjUlQjUlRTQlQkQlOUMlRTMlODIlOEEmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz05NjIyMmJlYWZiY2Q4MDhlMTk2NjQ3ZmQwZTFkMjdjYw&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBkYjAwOTEmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz1iNjJhNWRjMjJiNWNjODRkZmU5MTlkOTUwMDM0M2NjZg&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=f514c237e043d7e77e233756e33588be"
+        },
         {
           "id": "https://qiita.com/inf102/items/680c123b7791dd6eb1d1",
           "author": null,

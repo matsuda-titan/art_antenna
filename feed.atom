@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-01-05T08:11:18.173Z</updated>
+    <updated>2025-01-05T12:15:45.372Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【初心者向け】UE5キーフレームアニメーションの作成・レンダリング方法]]></title>
+        <id>https://cgbox.jp/?p=61331</id>
+        <link href="https://cgbox.jp/2025/01/05/ue5-keyframe-beginner/"/>
+        <updated>2025-01-05T09:58:30.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは！ 今回は、 ゲームエンジン「 Unreal Engine 5 (UE5)」初心者向けに、3DCGでの基本的なアニメーション作成方法である「キーフレームアニメーション」の作り方・レンダリング方法を紹介します。  […]]]></summary>
+        <author>
+            <name>CGbox編集部</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Adobe Substance 3D Painterのシェーダーについて (1)]]></title>
         <id>https://qiita.com/scixarts/items/158d254ecce97a90cfa1</id>
@@ -3599,31 +3609,6 @@ VRChatのQuest単機環境でレイマーチング(Raymarching)シェーダー�
 The post ZBrush 2025.1.0リリース まとめ ipad版では日本語表示対応、ApplePencileのロール機能でブラシサイズを変更出来たり機能が追加 first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
         <author>
             <name>modelinghappy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[mayaのwindowの中央にwindowを表示させる]]></title>
-        <id>https://qiita.com/9boz/items/648da0d81a5745d3a1db</id>
-        <link href="https://qiita.com/9boz/items/648da0d81a5745d3a1db"/>
-        <updated>2024-12-06T22:05:17.000Z</updated>
-        <summary type="html"><![CDATA[mayaでpyside(2 or 6)を使ってツール等々を作成してるのですがー
-デュアルディスプレイ環境だと、予期せぬ位置にウィンドウが生成されてしまって
-うーんってなることがあります。
-従来の方法…]]></summary>
-        <author>
-            <name>mayaタグが付けられた新着記事 - Qiita</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Windowsターミナルのカスタマイズ with hlsl]]></title>
-        <id>https://qiita.com/C-Sharp_is_GOD/items/838f4668e2ee91df707b</id>
-        <link href="https://qiita.com/C-Sharp_is_GOD/items/838f4668e2ee91df707b"/>
-        <updated>2024-12-06T22:05:01.000Z</updated>
-        <summary type="html"><![CDATA[Windowsターミナルhlsl拡張
-Windowsターミナルでは外観をシェーダーを使ってアニメーションさせることができるようになっていて、かなり自由度の高い外観にすることが可能です。
-今回は前回作…]]></summary>
-        <author>
-            <name>HLSLタグが付けられた新着記事 - Qiita</name>
         </author>
     </entry>
 </feed>

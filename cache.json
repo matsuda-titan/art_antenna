@@ -260,21 +260,6 @@
             "type": "video/mp4"
           },
           "imageUrl": "https://cgbox.jp/wp-content/uploads/2024/12/image_processing20241130-2-1u9fhse.jpg"
-        },
-        {
-          "id": "https://cgbox.jp/?p=61108",
-          "author": "UEDA",
-          "description": "こんばんは！ 今回は「Breakdown Maker」を紹介します。 Breakdown Maker 「Breakdown Maker」は、プロフェッショナルなポートフォリオやデモリールを作成することができます。 数回ク […]",
-          "link": "https://cgbox.jp/2024/12/07/news-asset-breakdown-maker/",
-          "publishedOn": "2024-12-07T10:00:00.000Z",
-          "wordCount": 2105,
-          "title": "【アセット紹介】Breakdown Maker – シーンとモデル単体どちらも魅力的な作品に簡単制作！",
-          "enclosure": {
-            "url": "https://cgbox.jp/wp-content/uploads/2024/12/5.mp4",
-            "length": "0",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://cgbox.jp/wp-content/uploads/2024/12/image_processing20241203-2-1dw5gbj.jpg"
         }
       ]
     },
@@ -376,6 +361,21 @@
       "feedUrl": "https://3dnchu.com/feed/",
       "siteUrl": "https://3dnchu.com",
       "articles": [
+        {
+          "id": "https://3dnchu.com/?p=1048151",
+          "author": "Ymt3D -3dnchu-",
+          "description": "Emīls VfxによるBlender向け無料アドオン「Set Origin v1.1」のご紹介！",
+          "link": "https://3dnchu.com/archives/set-origin-v1-1/",
+          "publishedOn": "2025-01-05T14:41:01.000Z",
+          "wordCount": 8546,
+          "title": "Set Origin v1.1 - 超シンプルな原点（Origin）位置調整Blenderアドオン！無料！",
+          "enclosure": {
+            "url": "https://3dnchu.com/wp-content/uploads/Set-Origin-v1.1-small.gif",
+            "length": "584019",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://3dnchu.com/wp-content/uploads/Set-Origin-v1.1-small.gif"
+        },
         {
           "id": "https://3dnchu.com/?p=1048001",
           "author": "Ymt3D -3dnchu-",
@@ -1959,16 +1959,6 @@
           "wordCount": 3478,
           "title": "blenderでリアルタイムに3Dモデルから線画を表示出来るstrokegenがgithubで無料リリース",
           "imageUrl": "https://modelinghappy.com/wp-content/uploads/2024/12/20241209_strok_jen.jpg"
-        },
-        {
-          "id": "https://modelinghappy.com/?p=60602",
-          "author": "modelinghappy",
-          "description": "ZBrush 2025.1.0 新しくZBrush 2025.1.0がリリースされました。デスクトップ版ではAOVの作成、１クリックでポリグループを作成出来る機能等が追加され、ipad版ではApplePencileのロー\nThe post ZBrush 2025.1.0リリース まとめ ipad版では日本語表示対応、ApplePencileのロール機能でブラシサイズを変更出来たり機能が追加 first appeared on 3DCG最新情報サイト MODELING HAPPY.",
-          "link": "https://modelinghappy.com/archives/60602",
-          "publishedOn": "2024-12-07T01:34:53.000Z",
-          "wordCount": 3536,
-          "title": "ZBrush 2025.1.0リリース まとめ ipad版では日本語表示対応、ApplePencileのロール機能でブラシサイズを変更出来たり機能が追加",
-          "imageUrl": "https://modelinghappy.com/wp-content/uploads/2024/12/20241207_zbrush.jpg"
         }
       ]
     },
@@ -2413,21 +2403,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--cuaMBtTb--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Unity%25E3%2581%25A7%25E7%259C%259F%25E9%259D%25A2%25E7%259B%25AE%25E3%2581%25ABOcclusionCulling%25E3%2582%2592%25E3%2582%2584%25E3%2581%25A3%25E3%2581%25A6%25E3%2581%25BF%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%25AF%25E3%2582%258D%25EF%25BD%259E%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2I3YjRkNzk0ZmUuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
-        },
-        {
-          "id": "https://zenn.dev/dimebag29/articles/5a3bce19f653e0",
-          "author": "dimebag29",
-          "description": "概要\nVRChatのQuest単機環境でレイマーチング(Raymarching)シェーダーを正常に表示させる方法を紹介します。\nネット上で公開されているレイマーチングのサンプルコードの大半は、PC環境であるVRChatのPCVRモードでも正常に表示されると思います。しかし、モバイル環境であるQuest単機だと、深度の計算がおかしくなることに加えて、右目に左目と同じ映像が描画されるという問題が起こります。\nレイマーチングをQuest対応させるポイントは以下の2点です\n\n右目に左目と同じ映像が描画される問題はシングルパスインスタンスレンダリング(SPS-I)対応で解決\n深度はモバイル環境...",
-          "link": "https://zenn.dev/dimebag29/articles/5a3bce19f653e0",
-          "publishedOn": "2024-12-07T04:56:16.000Z",
-          "wordCount": 2116,
-          "title": "【VRChat】レイマーチングのQuest対応(モバイルVR対応)",
-          "enclosure": {
-            "url": "https://res.cloudinary.com/zenn/image/upload/s--QeJubbUQ--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2580%2590VRChat%25E3%2580%2591%25E3%2583%25AC%25E3%2582%25A4%25E3%2583%259E%25E3%2583%25BC%25E3%2583%2581%25E3%2583%25B3%25E3%2582%25B0%25E3%2581%25AEQuest%25E5%25AF%25BE%25E5%25BF%259C%2528%25E3%2583%25A2%25E3%2583%2590%25E3%2582%25A4%25E3%2583%25ABVR%25E5%25AF%25BE%25E5%25BF%259C%2529%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:dimebag29%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzBiNGJmZjVlM2IuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png",
-            "length": "0",
-            "type": "image/png"
-          },
-          "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--QeJubbUQ--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2580%2590VRChat%25E3%2580%2591%25E3%2583%25AC%25E3%2582%25A4%25E3%2583%259E%25E3%2583%25BC%25E3%2583%2581%25E3%2583%25B3%25E3%2582%25B0%25E3%2581%25AEQuest%25E5%25AF%25BE%25E5%25BF%259C%2528%25E3%2583%25A2%25E3%2583%2590%25E3%2582%25A4%25E3%2583%25ABVR%25E5%25AF%25BE%25E5%25BF%259C%2529%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:dimebag29%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzBiNGJmZjVlM2IuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
         }
       ]
     },

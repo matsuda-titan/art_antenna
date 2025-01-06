@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-01-05T12:15:45.372Z</updated>
+    <updated>2025-01-06T00:48:01.535Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Set Origin v1.1 - 超シンプルな原点（Origin）位置調整Blenderアドオン！無料！]]></title>
+        <id>https://3dnchu.com/?p=1048151</id>
+        <link href="https://3dnchu.com/archives/set-origin-v1-1/"/>
+        <updated>2025-01-05T14:41:01.000Z</updated>
+        <summary type="html"><![CDATA[Emīls VfxによるBlender向け無料アドオン「Set Origin v1.1」のご紹介！]]></summary>
+        <author>
+            <name>Ymt3D -3dnchu-</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【初心者向け】UE5キーフレームアニメーションの作成・レンダリング方法]]></title>
         <id>https://cgbox.jp/?p=61331</id>
@@ -3572,43 +3582,6 @@ mat2 rotate(float r) {
 referenceをre…]]></summary>
         <author>
             <name>mayaタグが付けられた新着記事 - Qiita</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【アセット紹介】Breakdown Maker – シーンとモデル単体どちらも魅力的な作品に簡単制作！]]></title>
-        <id>https://cgbox.jp/?p=61108</id>
-        <link href="https://cgbox.jp/2024/12/07/news-asset-breakdown-maker/"/>
-        <updated>2024-12-07T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは！ 今回は「Breakdown Maker」を紹介します。 Breakdown Maker 「Breakdown Maker」は、プロフェッショナルなポートフォリオやデモリールを作成することができます。 数回ク […]]]></summary>
-        <author>
-            <name>UEDA</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【VRChat】レイマーチングのQuest対応(モバイルVR対応)]]></title>
-        <id>https://zenn.dev/dimebag29/articles/5a3bce19f653e0</id>
-        <link href="https://zenn.dev/dimebag29/articles/5a3bce19f653e0"/>
-        <updated>2024-12-07T04:56:16.000Z</updated>
-        <summary type="html"><![CDATA[概要
-VRChatのQuest単機環境でレイマーチング(Raymarching)シェーダーを正常に表示させる方法を紹介します。
-ネット上で公開されているレイマーチングのサンプルコードの大半は、PC環境であるVRChatのPCVRモードでも正常に表示されると思います。しかし、モバイル環境であるQuest単機だと、深度の計算がおかしくなることに加えて、右目に左目と同じ映像が描画されるという問題が起こります。
-レイマーチングをQuest対応させるポイントは以下の2点です
-
-右目に左目と同じ映像が描画される問題はシングルパスインスタンスレンダリング(SPS-I)対応で解決
-深度はモバイル環境...]]></summary>
-        <author>
-            <name>dimebag29</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ZBrush 2025.1.0リリース まとめ ipad版では日本語表示対応、ApplePencileのロール機能でブラシサイズを変更出来たり機能が追加]]></title>
-        <id>https://modelinghappy.com/?p=60602</id>
-        <link href="https://modelinghappy.com/archives/60602"/>
-        <updated>2024-12-07T01:34:53.000Z</updated>
-        <summary type="html"><![CDATA[ZBrush 2025.1.0 新しくZBrush 2025.1.0がリリースされました。デスクトップ版ではAOVの作成、１クリックでポリグループを作成出来る機能等が追加され、ipad版ではApplePencileのロー
-The post ZBrush 2025.1.0リリース まとめ ipad版では日本語表示対応、ApplePencileのロール機能でブラシサイズを変更出来たり機能が追加 first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
-        <author>
-            <name>modelinghappy</name>
         </author>
     </entry>
 </feed>

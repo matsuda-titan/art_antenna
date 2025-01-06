@@ -2,10 +2,87 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-01-06T08:13:26.259Z</updated>
+    <updated>2025-01-06T12:18:14.527Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【アドオン紹介】Startup Scenes Manager – スタートアップシーンの複数登録！]]></title>
+        <id>https://cgbox.jp/?p=61408</id>
+        <link href="https://cgbox.jp/2025/01/06/news-addon-startup-scenes-manager/"/>
+        <updated>2025-01-06T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは！ 今回はアドオンの「Startup Scenes Manager」を紹介します。 こちらのリンクから購入することができます。 Startup Scenes Manager 「Startup Scenes Ma […]]]></summary>
+        <author>
+            <name>UEDA</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【イマーシブ】ハイパーリアルで知られるイアン・スプリグスが、ラスベガスSphereで開催中のAnymaライブ映像用デジタルヒューマンを制作 - ニュース]]></title>
+        <id>https://cgworld.jp/flashnews/202501-sphereanyma.html</id>
+        <link href="https://cgworld.jp/flashnews/202501-sphereanyma.html"/>
+        <updated>2025-01-06T10:10:08.000Z</updated>
+        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【アセット紹介】Model Of Spaceship – 宇宙船のベースメッシュ+キットバッシュ！]]></title>
+        <id>https://cgbox.jp/?p=61400</id>
+        <link href="https://cgbox.jp/2025/01/06/news-asset-model-of-spaceship/"/>
+        <updated>2025-01-06T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは！ 今回は「Model Of Spaceship – Sci-Fi – Kitbashing Model – V1」を紹介します。 Model Of Spaceship – Sci-Fi – Kit […]]]></summary>
+        <author>
+            <name>UEDA</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【Unity/URP】2Dの水面表現を考える➁（波紋）]]></title>
+        <id>https://zenn.dev/kr405/articles/c7939eaf8f516e</id>
+        <link href="https://zenn.dev/kr405/articles/c7939eaf8f516e"/>
+        <updated>2025-01-06T09:30:05.000Z</updated>
+        <summary type="html"><![CDATA[はじめに
+この記事では、URPの2Dプロジェクトで水面を表現する方法を検証していきます。
+前回の記事では、反射やコースティクスなどを実装しました。今回は、オブジェクトが水面に接触した際に波紋が立つ表現を実装したいと思います。
+
+ 何を作るか
+下のような実行結果になります。今回もC#スクリプトとフラグメントシェーダーで実装しました。
+画像では水面に接触しているオブジェクトは1つだけですが、複数のオブジェクトに対して反応するようにしています。アセットは前回同様にUnityTechnologiesの2D Game Kitを使用させていただきました。
+
+
+ コード全文
+
+
+
+動作環境
+
+
+
+...]]></summary>
+        <author>
+            <name>kr405</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[wanoco blender reel 2024 - Blenderを多彩に操るwanoco4D氏の2024年リールが公開！]]></title>
+        <id>https://3dnchu.com/?p=1048213</id>
+        <link href="https://3dnchu.com/archives/wanoco-blender-reel-2024/"/>
+        <updated>2025-01-06T09:21:23.000Z</updated>
+        <summary type="html"><![CDATA[Blender使いアーティストでKASSEN inc.にも所属しているwanoco 4D（Kosei Wano氏）による、2024リール「wanoco Blender reel 2024」が公開されました！]]></summary>
+        <author>
+            <name>Ymt3D -3dnchu-</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rodin Gen-1.5 - Hyper3DのAI活用3D生成サービスがアップデート！よりシャープなエッジのメッシュ＆PBRテクスチャを生成可能に！]]></title>
+        <id>https://3dnchu.com/?p=1047988</id>
+        <link href="https://3dnchu.com/archives/rodin-gen1-5/"/>
+        <updated>2025-01-06T09:01:32.000Z</updated>
+        <summary type="html"><![CDATA[Deemos, Inc.によるHyper3DのAI活用3D生成サービス最新アップデート「Rodin Gen-1.5」が公開されました！トポロジーの改善や高品質なQuadメッシュ、PBRテクスチャが生成可能になっています。]]></summary>
+        <author>
+            <name>Ymt3D -3dnchu-</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Rodin１枚の静止画像や文字入力で四角形トポロジーの綺麗な3DモデルをAI機能で簡単作成出来るサービス]]></title>
         <id>https://modelinghappy.com/?p=60952</id>
@@ -3619,21 +3696,6 @@ mat2 rotate(float r) {
         <summary type="html"><![CDATA[こんばんは！ 今回はアドオンの「Drag & Drop Hdris」を紹介します。 こちらのリンクから購入することができます。 Drag & Drop Hdris 「Drag & Drop Hdr […]]]></summary>
         <author>
             <name>UEDA</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mayaでreferenceをremoveしたい]]></title>
-        <id>https://qiita.com/9boz/items/89d45adec69fc3db1502</id>
-        <link href="https://qiita.com/9boz/items/89d45adec69fc3db1502"/>
-        <updated>2024-12-07T22:03:32.000Z</updated>
-        <summary type="html"><![CDATA[パスのリンク切れとか、このアセットは使用しない等々の理由でunload状態のreferenceが溜まると、
-一気にremoveしたくなります。
-とりあえず設計
-逆から考えて
-
-referenceをre…]]></summary>
-        <author>
-            <name>mayaタグが付けられた新着記事 - Qiita</name>
         </author>
     </entry>
 </feed>

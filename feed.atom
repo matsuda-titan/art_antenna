@@ -2,10 +2,56 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-01-06T12:18:14.527Z</updated>
+    <updated>2025-01-07T00:45:41.743Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[双三次補間 - bicubic interpolation]]></title>
+        <id>https://zenn.dev/yoshikuni_jujo/articles/bicubic-interpolation</id>
+        <link href="https://zenn.dev/yoshikuni_jujo/articles/bicubic-interpolation"/>
+        <updated>2025-01-07T00:34:21.000Z</updated>
+        <summary type="html"><![CDATA[はじめに
+画像の拡大・縮小・回転などの操作をする場合、もとの画像に存在しないピクセルを追加する必要がある。そのようなピクセルの追加を補間(interpolation)と呼ぶ。
+
+ 最近傍補間
+最近傍補間(nearest neighbor interpolation)は元の画像のなかで一番近い位置のピクセルの色を、その位置のピクセルの色とする方法だ。
+
+縦横3倍に拡大する例だ。大きい円が元の画像にあるピクセルで小さい円が補間されたピクセルだ。周囲に元画像の1ピクセルぶん余分なピクセルを表示しているのは、双三次補間で必要になるためだ。中央の元画像の3x3ピクセルについて補間して、7x7ピ...]]></summary>
+        <author>
+            <name>重城良国</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fantasy character with a crow - 3Dキャラクターアーティスト Valentina Iudina氏による制作プロセス解説コース！Wingfoxにて取り扱い開始！ZBrush＆Marvelous Designer&Substance 3D Painter！]]></title>
+        <id>https://3dnchu.com/?p=1048204</id>
+        <link href="https://3dnchu.com/archives/fantasy-character-with-a-crow-wingfox/"/>
+        <updated>2025-01-06T15:40:33.000Z</updated>
+        <summary type="html"><![CDATA[ギリシャを拠点に活躍する3Dキャラクターアーティスト Valentina Iudina氏による「Fantasy character with a crow」がCG＆デジタルアート学習オンラインプラットフォーム「WINGFOX」にて取り扱い開始されています。]]></summary>
+        <author>
+            <name>Ymt3D -3dnchu-</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Japanese Utility Poles Modular Pack - 株式会社モデリングブロスによるUnreal Engine 5向け「電柱」モデルアセット！Fab上で販売開始！]]></title>
+        <id>https://3dnchu.com/?p=1048181</id>
+        <link href="https://3dnchu.com/archives/japanese-utility-poles-modular-pack/"/>
+        <updated>2025-01-06T15:40:23.000Z</updated>
+        <summary type="html"><![CDATA[株式会社モデリングブロスによるUnreal Engine 5向け「電柱」モデルアセット「Japanese Utility Poles Modular Pack」がリリースされました！]]></summary>
+        <author>
+            <name>Ymt3D -3dnchu-</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Full Workflow for the Underground Mall in Blender - リアルでちょっと怖いショッピングモールを散策する映像をBlenderで構築するフロー解説コース！Wingfoxにて取り扱い開始！]]></title>
+        <id>https://3dnchu.com/?p=1048203</id>
+        <link href="https://3dnchu.com/archives/full-workflow-for-the-underground-mall-in-blender-wingfox/"/>
+        <updated>2025-01-06T12:25:04.000Z</updated>
+        <summary type="html"><![CDATA[数多くのBlenderユーザー向けチュートリアルコースを公開している Šime Bugarija氏による「Full Workflow for the Underground Mall in Blender」がCG＆デジタルアート学習オンラインプラットフォーム「WINGFOX」にて取り扱い開始されています。]]></summary>
+        <author>
+            <name>Ymt3D -3dnchu-</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【アドオン紹介】Startup Scenes Manager – スタートアップシーンの複数登録！]]></title>
         <id>https://cgbox.jp/?p=61408</id>
@@ -3647,55 +3693,6 @@ Before…]]></summary>
 Maya｜eST3のリガー向け高機能ツールの紹介 first appeared on TECH ART ONLINE.]]></summary>
         <author>
             <name>管理人</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[blender ホログラム作り方]]></title>
-        <id>https://qiita.com/akiraarika932/items/5437750ba4c3040e6bce</id>
-        <link href="https://qiita.com/akiraarika932/items/5437750ba4c3040e6bce"/>
-        <updated>2024-12-08T12:16:51.000Z</updated>
-        <summary type="html"><![CDATA[以下のホログラムを表現するshaderの説明をする
-
-以下必要なシェーダーノード
-・Material Output
-・Emission
-・ColorRamp
-・Brick Texture
-・Separ…]]></summary>
-        <author>
-            <name>Shaderタグが付けられた新着記事 - Qiita</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GLSLで紗綾形文様]]></title>
-        <id>https://zenn.dev/aadebdeb/articles/39da31bcf71d6e</id>
-        <link href="https://zenn.dev/aadebdeb/articles/39da31bcf71d6e"/>
-        <updated>2024-12-08T11:59:54.000Z</updated>
-        <summary type="html"><![CDATA[日本の伝統文様の一つに紗綾形(さやがた)という文様があります。卍を斜めに崩して連続させたような形から「卍崩し」や「卍繋ぎ」とも呼ばれます。この記事ではGLSLで紗綾形文様を実装します。
-https://www.kyolite.co.jp/katagami/sayagata.php
-コードはGLSL Sandbox互換になっています。
-
-precision highp float;
-
-uniform vec2 resolution;
-
-#define PI 3.14159265359
-
-mat2 rotate(float r) {
-    float c = cos(r);
-    flo...]]></summary>
-        <author>
-            <name>Atsushi Asakura</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【アドオン紹介】Drag & Drop Hdris – 簡単調整可能なHDRIを追加！]]></title>
-        <id>https://cgbox.jp/?p=61118</id>
-        <link href="https://cgbox.jp/2024/12/08/news-addon-drag-amp-drop-hdris/"/>
-        <updated>2024-12-08T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは！ 今回はアドオンの「Drag & Drop Hdris」を紹介します。 こちらのリンクから購入することができます。 Drag & Drop Hdris 「Drag & Drop Hdr […]]]></summary>
-        <author>
-            <name>UEDA</name>
         </author>
     </entry>
 </feed>

@@ -275,21 +275,6 @@
             "type": "video/mp4"
           },
           "imageUrl": "https://cgbox.jp/wp-content/uploads/2024/12/image_processing20241127-2-l321mv.jpg"
-        },
-        {
-          "id": "https://cgbox.jp/?p=61118",
-          "author": "UEDA",
-          "description": "こんばんは！ 今回はアドオンの「Drag & Drop Hdris」を紹介します。 こちらのリンクから購入することができます。 Drag & Drop Hdris 「Drag & Drop Hdr […]",
-          "link": "https://cgbox.jp/2024/12/08/news-addon-drag-amp-drop-hdris/",
-          "publishedOn": "2024-12-08T10:00:00.000Z",
-          "wordCount": 2122,
-          "title": "【アドオン紹介】Drag & Drop Hdris – 簡単調整可能なHDRIを追加！",
-          "enclosure": {
-            "url": "https://cgbox.jp/wp-content/uploads/2024/12/6.mp4",
-            "length": "0",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://cgbox.jp/wp-content/uploads/2024/12/image_processing20241130-2-1u9fhse.jpg"
         }
       ]
     },
@@ -391,6 +376,51 @@
       "feedUrl": "https://3dnchu.com/feed/",
       "siteUrl": "https://3dnchu.com",
       "articles": [
+        {
+          "id": "https://3dnchu.com/?p=1048204",
+          "author": "Ymt3D -3dnchu-",
+          "description": "ギリシャを拠点に活躍する3Dキャラクターアーティスト Valentina Iudina氏による「Fantasy character with a crow」がCG＆デジタルアート学習オンラインプラットフォーム「WINGFOX」にて取り扱い開始されています。",
+          "link": "https://3dnchu.com/archives/fantasy-character-with-a-crow-wingfox/",
+          "publishedOn": "2025-01-06T15:40:33.000Z",
+          "wordCount": 8642,
+          "title": "Fantasy character with a crow - 3Dキャラクターアーティスト Valentina Iudina氏による制作プロセス解説コース！Wingfoxにて取り扱い開始！ZBrush＆Marvelous Designer&Substance 3D Painter！",
+          "enclosure": {
+            "url": "https://3dnchu.com/wp-content/uploads/Fantasy-character-with-a-crow.webp",
+            "length": "717312",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://3dnchu.com/wp-content/uploads/Fantasy-character-with-a-crow.webp"
+        },
+        {
+          "id": "https://3dnchu.com/?p=1048181",
+          "author": "Ymt3D -3dnchu-",
+          "description": "株式会社モデリングブロスによるUnreal Engine 5向け「電柱」モデルアセット「Japanese Utility Poles Modular Pack」がリリースされました！",
+          "link": "https://3dnchu.com/archives/japanese-utility-poles-modular-pack/",
+          "publishedOn": "2025-01-06T15:40:23.000Z",
+          "wordCount": 8808,
+          "title": "Japanese Utility Poles Modular Pack - 株式会社モデリングブロスによるUnreal Engine 5向け「電柱」モデルアセット！Fab上で販売開始！",
+          "enclosure": {
+            "url": "https://3dnchu.com/wp-content/uploads/Japanese-Utility-Poles-Modular-Pack.jpg",
+            "length": "99255",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://3dnchu.com/wp-content/uploads/Japanese-Utility-Poles-Modular-Pack.jpg"
+        },
+        {
+          "id": "https://3dnchu.com/?p=1048203",
+          "author": "Ymt3D -3dnchu-",
+          "description": "数多くのBlenderユーザー向けチュートリアルコースを公開している Šime Bugarija氏による「Full Workflow for the Underground Mall in Blender」がCG＆デジタルアート学習オンラインプラットフォーム「WINGFOX」にて取り扱い開始されています。",
+          "link": "https://3dnchu.com/archives/full-workflow-for-the-underground-mall-in-blender-wingfox/",
+          "publishedOn": "2025-01-06T12:25:04.000Z",
+          "wordCount": 8683,
+          "title": "Full Workflow for the Underground Mall in Blender - リアルでちょっと怖いショッピングモールを散策する映像をBlenderで構築するフロー解説コース！Wingfoxにて取り扱い開始！",
+          "enclosure": {
+            "url": "https://3dnchu.com/wp-content/uploads/full-workflow-for-the-underground-mall-in-blender-wingfox.webp",
+            "length": "1016862",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://3dnchu.com/wp-content/uploads/full-workflow-for-the-underground-mall-in-blender-wingfox.webp"
+        },
         {
           "id": "https://3dnchu.com/?p=1048213",
           "author": "Ymt3D -3dnchu-",
@@ -2552,6 +2582,21 @@
       "siteUrl": "https://zenn.dev/topics/graphics",
       "articles": [
         {
+          "id": "https://zenn.dev/yoshikuni_jujo/articles/bicubic-interpolation",
+          "author": "重城良国",
+          "description": "はじめに\n画像の拡大・縮小・回転などの操作をする場合、もとの画像に存在しないピクセルを追加する必要がある。そのようなピクセルの追加を補間(interpolation)と呼ぶ。\n\n 最近傍補間\n最近傍補間(nearest neighbor interpolation)は元の画像のなかで一番近い位置のピクセルの色を、その位置のピクセルの色とする方法だ。\n\n縦横3倍に拡大する例だ。大きい円が元の画像にあるピクセルで小さい円が補間されたピクセルだ。周囲に元画像の1ピクセルぶん余分なピクセルを表示しているのは、双三次補間で必要になるためだ。中央の元画像の3x3ピクセルについて補間して、7x7ピ...",
+          "link": "https://zenn.dev/yoshikuni_jujo/articles/bicubic-interpolation",
+          "publishedOn": "2025-01-07T00:34:21.000Z",
+          "wordCount": 2487,
+          "title": "双三次補間 - bicubic interpolation",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--jtroh0AD--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E5%258F%258C%25E4%25B8%2589%25E6%25AC%25A1%25E8%25A3%259C%25E9%2596%2593%2520-%2520bicubic%2520interpolation%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E9%2587%258D%25E5%259F%258E%25E8%2589%25AF%25E5%259B%25BD%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly96ZW5uLWRldi5naXRodWIuaW8vZGVmYXVsdC1hdmF0YXJzL2RhcmsveS5wbmc=%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png",
+            "length": "0",
+            "type": "image/png"
+          },
+          "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--jtroh0AD--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E5%258F%258C%25E4%25B8%2589%25E6%25AC%25A1%25E8%25A3%259C%25E9%2596%2593%2520-%2520bicubic%2520interpolation%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E9%2587%258D%25E5%259F%258E%25E8%2589%25AF%25E5%259B%25BD%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly96ZW5uLWRldi5naXRodWIuaW8vZGVmYXVsdC1hdmF0YXJzL2RhcmsveS5wbmc=%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
+        },
+        {
           "id": "https://zenn.dev/matcha_choco010/articles/2024-12-14-aquamarine-painter",
           "author": "折登 樹",
           "description": "はじめに\nこの記事は グラフィックス全般 Advent Calendar 2024 の14日目の記事です。\n今年の夏頃に私が制作した「Aquamarine Painter」というお絵かきツールについて技術面を含めて軽く紹介する記事を書いてみようと思います。\n\nAquamarine Painter のスクリーンショット\nこの グラフィックス全般 Advent Calendar 2024 には他にもお絵かきツールを作成していらっしゃる方の記事があるようです。合わせて読んでみると面白いかもしれません。\nhttps://qiita.com/warotarock/items/13b2ff883...",
@@ -3303,16 +3348,6 @@
           "wordCount": 616,
           "title": "シェーダーにおけるatan2関数についての概要",
           "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Fadvent-calendar-ogp-background-7940cd1c8db80a7ec40711d90f43539e.jpg%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRmxoMy5nb29nbGV1c2VyY29udGVudC5jb20lMkZhJTJGQUNnOG9jSndpVUxDSnh1THdOZGwyTFNITE5BdmpBa1dwVVJZb1JnS2MwbHlvdUZQZjcwJTNEczk2LWM_aXhsaWI9cmItNC4wLjAmYXI9MSUzQTEmZml0PWNyb3AmbWFzaz1lbGxpcHNlJmZtPXBuZzMyJnM9ZDZhMjViZjg5NzJhMTRlNzk4ODYyODcxOTkzYmZkZmQ%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3Da6fee82ff3156717a715c4e9e16afcda?ixlib=rb-4.0.0&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9JUUzJTgyJUI3JUUzJTgyJUE3JUUzJTgzJUJDJUUzJTgzJTgwJUUzJTgzJUJDJUUzJTgxJUFCJUUzJTgxJThBJUUzJTgxJTkxJUUzJTgyJThCYXRhbjIlRTklOTYlQTIlRTYlOTUlQjAlRTMlODElQUIlRTMlODElQTQlRTMlODElODQlRTMlODElQTYlRTMlODElQUUlRTYlQTYlODIlRTglQTYlODEmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzNBM0MzQyZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz1iNTI5NTliYTM1OTQ5NWQ5YTg4MTFhYjE4MGQ3NTUzZg&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBZU25hbWkmdHh0LWNvbG9yPSUyMzNBM0MzQyZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz01OTUyZjY2NWE3NjRmMDUzMmJjYzMyYTNhNWE4MTQxYQ&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=0470059558f51d28019a7534c622035f"
-        },
-        {
-          "id": "https://qiita.com/akiraarika932/items/5437750ba4c3040e6bce",
-          "author": null,
-          "description": "以下のホログラムを表現するshaderの説明をする\n\n以下必要なシェーダーノード\n・Material Output\n・Emission\n・ColorRamp\n・Brick Texture\n・Separ…",
-          "link": "https://qiita.com/akiraarika932/items/5437750ba4c3040e6bce",
-          "publishedOn": "2024-12-08T12:16:51.000Z",
-          "wordCount": 508,
-          "title": "blender ホログラム作り方",
-          "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnFpaXRhLWltYWdlLXN0b3JlLnMzLmFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkYwJTJGMzMwNTY4JTJGcHJvZmlsZS1pbWFnZXMlMkYxNjAyNzM0MDQ1P2l4bGliPXJiLTQuMC4wJmFyPTElM0ExJmZpdD1jcm9wJm1hc2s9ZWxsaXBzZSZmbT1wbmczMiZzPTcxNWJhMjQ3ZTNmZjVkNjU2NDBiMDRkZjIzYWQ5ODY4%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3Dd4ccfdfd1c6225af7503866f26f58141?ixlib=rb-4.0.0&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9YmxlbmRlciUyMCVFMyU4MyU5QiVFMyU4MyVBRCVFMyU4MiVCMCVFMyU4MyVBOSVFMyU4MyVBMCVFNCVCRCU5QyVFMyU4MiU4QSVFNiU5NiVCOSZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnR4dC1wYWQ9MCZzPThmODk2MzM4NjM2MmYwZmYyNGUyNzY1MDAzN2JhYzc2&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBha2lyYWFyaWthOTMyJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9MTRhMDE4ZDA5YWE4ZDgxYzFlMDU5ZDI0ODY2OTM0MWY&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=ed30b0c087671ef872560f4e318e7579"
         }
       ]
     },
@@ -3729,21 +3764,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--orBLqEWi--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:GLSL%25E3%2581%25A7%25E5%25B7%25A5%25E5%25AD%2597%25E7%25B9%258B%25E3%2581%258E%25E6%2596%2587%25E6%25A7%2598%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Atsushi%2520Asakura%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2JiZWNiNDRjYTUuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
-        },
-        {
-          "id": "https://zenn.dev/aadebdeb/articles/39da31bcf71d6e",
-          "author": "Atsushi Asakura",
-          "description": "日本の伝統文様の一つに紗綾形(さやがた)という文様があります。卍を斜めに崩して連続させたような形から「卍崩し」や「卍繋ぎ」とも呼ばれます。この記事ではGLSLで紗綾形文様を実装します。\nhttps://www.kyolite.co.jp/katagami/sayagata.php\nコードはGLSL Sandbox互換になっています。\n\nprecision highp float;\n\nuniform vec2 resolution;\n\n#define PI 3.14159265359\n\nmat2 rotate(float r) {\n    float c = cos(r);\n    flo...",
-          "link": "https://zenn.dev/aadebdeb/articles/39da31bcf71d6e",
-          "publishedOn": "2024-12-08T11:59:54.000Z",
-          "wordCount": 1133,
-          "title": "GLSLで紗綾形文様",
-          "enclosure": {
-            "url": "https://res.cloudinary.com/zenn/image/upload/s--CqFTYMY6--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:GLSL%25E3%2581%25A7%25E7%25B4%2597%25E7%25B6%25BE%25E5%25BD%25A2%25E6%2596%2587%25E6%25A7%2598%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Atsushi%2520Asakura%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2JiZWNiNDRjYTUuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png",
-            "length": "0",
-            "type": "image/png"
-          },
-          "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--CqFTYMY6--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:GLSL%25E3%2581%25A7%25E7%25B4%2597%25E7%25B6%25BE%25E5%25BD%25A2%25E6%2596%2587%25E6%25A7%2598%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Atsushi%2520Asakura%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2JiZWNiNDRjYTUuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
         }
       ]
     }

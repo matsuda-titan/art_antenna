@@ -2,10 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-01-12T03:21:07.451Z</updated>
+    <updated>2025-01-12T08:11:38.046Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[[Houdini] 習作「BPMに合わせて伸縮するゲージ」]]></title>
+        <id>https://zenn.dev/h_sasaki/articles/78dc0b4f18a79f</id>
+        <link href="https://zenn.dev/h_sasaki/articles/78dc0b4f18a79f"/>
+        <updated>2025-01-12T06:47:41.000Z</updated>
+        <summary type="html"><![CDATA[!
+環境：Houdini 20.5
+
+Houdiniの練習の一環で、「BPM（テンポ）に合わせて伸縮するゲージのギミック」を作成してみました。
+https://youtu.be/KAGBYbVFol0
+
+ 解説
+ノードは、Grid, Wrangle, PolyExtrude の3つです。
+
+
+ Gridノード
+ここはRowsを変えたらColumnsが連動するようにしておきます。
+
+
+ Wrangleノード
+パラメータとロジックの大半はVEXで書いています。
+ここではRunOverをPrimitiveにし、振幅の高さのAttributeとなるzscaleを作成し算出しています。（zscal...]]></summary>
+        <author>
+            <name>ササキ ヒロユキ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pristina.Ai - AIの力を活用してレンダリング結果をディテールアップ出来るAIソリューション！Blenderアドオン経由で利用可能！無料のアルファ版が公開中！]]></title>
+        <id>https://3dnchu.com/?p=1050674</id>
+        <link href="https://3dnchu.com/archives/pristina-ai/"/>
+        <updated>2025-01-12T04:09:31.000Z</updated>
+        <summary type="html"><![CDATA[AIの力を活用してレンダリング結果をディテールアップ出来るAIソリューション「Pristina.Ai」のアルファ版が利用可能！Blenderアドオンも公開中です！]]></summary>
+        <author>
+            <name>Ymt3D -3dnchu-</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Epic Battle Illustrations 戦士が戦っているコンセプトアートを短時間でBlenderとPhotoshopを使用して作成するチュートリアル動画がWIngfoxで販売開始！]]></title>
         <id>https://modelinghappy.com/?p=61040</id>
@@ -3643,16 +3679,6 @@ https://qiita.com/warotarock/items/13b2ff883...]]></summary>
 0から作る能力と時間がなかったのでshadertoyに上がっている素晴らしい…]]></summary>
         <author>
             <name>GLSLタグが付けられた新着記事 - Qiita</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[シネマティック2D CGアニメーションの全工程実践講座 - 企画からレンダリングまで！Cinema 4Dなどを使用し躍動感あるシネマティックCGアニメーションを制作するプロセス解説コース！Wingfoxにて取り扱い開始！]]></title>
-        <id>https://3dnchu.com/?p=1047351</id>
-        <link href="https://3dnchu.com/archives/hannie-cg-animation-tutor-wingfox/"/>
-        <updated>2024-12-13T18:24:14.000Z</updated>
-        <summary type="html"><![CDATA[HeyShowスタジオの創設者でディレクター／3DアーティストのHannie氏による「シネマティック2D CGアニメーションの全工程実践講座」がCG＆デジタルアート学習オンラインプラットフォーム「WINGFOX」にて取り扱い開始されています。]]></summary>
-        <author>
-            <name>Ymt3D -3dnchu-</name>
         </author>
     </entry>
 </feed>

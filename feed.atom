@@ -2,10 +2,169 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-01-11T12:16:20.680Z</updated>
+    <updated>2025-01-12T00:51:13.747Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[[Houdini] Node Infoの[Center, Size, Min, Max]を取得する方法]]></title>
+        <id>https://zenn.dev/h_sasaki/articles/15157da4ce1213</id>
+        <link href="https://zenn.dev/h_sasaki/articles/15157da4ce1213"/>
+        <updated>2025-01-11T18:13:43.000Z</updated>
+        <summary type="html"><![CDATA[!
+環境：Houdini 20.5
+
+Node Infoの右上には↓のように、バウンディングボックスの[中心(Center) / サイズ(Size) / 最小点の座標(Min) / 最大点の座標(Max)]が表示されていますが、それらを取得する方法について解説します。
+
+
+ エクスプレッションで取得する方法
+
+
+
+エクスプレッション
+説明
+
+
+
+
+bbox("../node", D_XMIN)
+最小点のX座標を取得。
+
+
+bbox("../node", D_XMAX)
+最大点のX座標を取得。
+
+
+centroid("../node", D_X)
+中心のX座標を取得。
+
+
+bbox(".....]]></summary>
+        <author>
+            <name>ササキ ヒロユキ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Houdini] 移動・回転・スケールのHandle(ハンドル・ギズモ)をワールド空間やビュー空間に切り替える方法]]></title>
+        <id>https://zenn.dev/h_sasaki/articles/7c6b16c07b99fd</id>
+        <link href="https://zenn.dev/h_sasaki/articles/7c6b16c07b99fd"/>
+        <updated>2025-01-11T17:05:39.000Z</updated>
+        <summary type="html"><![CDATA[!
+環境：Houdini 20.5
+
+
+移動（Move：[T]キー）
+回転（Rotate：[R]キー）
+スケール（Scale：[E]キー）
+
+上記のようなツールで使われるHandle(ハンドル・ギズモ)を、ワールドやビューなど他の空間に切り替える方法について解説します。
+
+ 方法1：右クリックのコンテキストメニューから切り替え
+Handle上で右クリックして表示されるコンテキストメニューの「Align Handle」項目内に、各空間に切り替えるセレクトボタンがあります。
+
+
+ 方法2：ショートカットキー[M]で切り替え
+前述のコンテキストメニュー内の項目にも書かれていますが、[M]キーを...]]></summary>
+        <author>
+            <name>ササキ ヒロユキ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Houdini] オブジェクトをスプラインに沿って動かす]]></title>
+        <id>https://zenn.dev/h_sasaki/articles/abfef22f187879</id>
+        <link href="https://zenn.dev/h_sasaki/articles/abfef22f187879"/>
+        <updated>2025-01-11T16:32:42.000Z</updated>
+        <summary type="html"><![CDATA[!
+環境：Houdini 20.5
+
+「Houdiniドリル」に載っていた、「スプライン上にオブジェクトをコピーして並べる」テクニックを利用して、オブジェクトをスプラインに沿って動かしてみました。
+参考書籍：「Houdiniドリル」
+
+ 結果
+↓のように、ブタがスプラインに沿って動きます。顔の向きもスプラインに沿った方向を向き続けます。
+
+このサンプルのノードの構成は↓のようになっています。
+
+
+ 解説
+
+ 方針
+スプライン上を始点から終点まで進む1点を作成し、その1点の場所にブタをコピーします。
+
+ Curveノード
+まずは「Curve」ノードで、適当にスプラインを引きます。（サンプル...]]></summary>
+        <author>
+            <name>ササキ ヒロユキ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Houdini] WrangleでXZ平面上に散らばっているPointにノイズのかかった高さP.yを与えたい]]></title>
+        <id>https://zenn.dev/h_sasaki/articles/d0967916dfc7a0</id>
+        <link href="https://zenn.dev/h_sasaki/articles/d0967916dfc7a0"/>
+        <updated>2025-01-11T14:00:13.000Z</updated>
+        <summary type="html"><![CDATA[!
+環境：Houdini 20.5
+
+言ってみれば、Mountainノードでやっていることの超簡易版になります。
+Mountainノードに習って、
+
+
+Frequency：（ノイズの細かさ）
+
+Amplitude：（ノイズの大きさ）
+
+をパラメータしました。
+float frequency = chf("frequency");  // ノイズの密度
+float amplitude = chf("amplitude");  // ノイズの高さ
+float noise_value = noise(@P.x * frequency, @P.z * frequency) - 0.5f;
+@P....]]></summary>
+        <author>
+            <name>ササキ ヒロユキ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Houdini] WrangleでRunOverをPrimitiveにしたとき@Pは何になる？]]></title>
+        <id>https://zenn.dev/h_sasaki/articles/fd07222f2abdf6</id>
+        <link href="https://zenn.dev/h_sasaki/articles/fd07222f2abdf6"/>
+        <updated>2025-01-11T13:32:09.000Z</updated>
+        <summary type="html"><![CDATA[!
+環境：Houdini 20.5
+
+Wrangleで、「RunOver」を「Point」にしたときの @P は、そのPointの位置になりますが、では、「RunOver」を「Primitive」 にしたら @P は何を意味するのでしょうか？
+
+
+答えは、そのPrimitiveのBoundingBoxの重心が返ってくる模様。こちらのページで言及されていました。
+【参考ページ】What does @P when run over Primitives mean?
+このように重心がゲットできる一方、@Pへのセットは効かない模様。
+他にも、こちらのページもとても参考になります。
+【参考ページ】...]]></summary>
+        <author>
+            <name>ササキ ヒロユキ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Houdini] Transformノードのローカル変数のCE系とGC系の違い]]></title>
+        <id>https://zenn.dev/h_sasaki/articles/4cf64eb8c2a878</id>
+        <link href="https://zenn.dev/h_sasaki/articles/4cf64eb8c2a878"/>
+        <updated>2025-01-11T12:56:19.000Z</updated>
+        <summary type="html"><![CDATA[!
+環境：Houdini 20.5
+
+
+ Transformノードのローカル変数のCE系とGC系の違い
+↓のGIF動画のように、原点に置かれたSphereの[X>0, Y>0, Z>0]の領域にあるPrimitiveをGroup化したときの、CE系とGC系の値の違いを示します。
+
+ CE系（CEX, CEY, CEZ）:
+
+対象範囲: 入力全体（Groupの設定には影響されない）。
+計算基準: 入力されたジオメトリ全体の重心をグローバル空間で計算し、その座標を返す。
+動作: Groupの設定を変更しても結果は変わらない。
+
+[CEX, CEY, CEZ] = [0.0,...]]></summary>
+        <author>
+            <name>ササキ ヒロユキ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【アセット紹介】Wings Animation Generator – 幻想的なアニメーション付きの翼！]]></title>
         <id>https://cgbox.jp/?p=61492</id>
@@ -82,6 +241,64 @@ Sparse Virtual Textu…]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[Houdini] Selectツール関連のショートカットキーについて]]></title>
+        <id>https://zenn.dev/h_sasaki/articles/3b140371174725</id>
+        <link href="https://zenn.dev/h_sasaki/articles/3b140371174725"/>
+        <updated>2025-01-11T09:43:50.000Z</updated>
+        <summary type="html"><![CDATA[!
+環境：Houdini 20.5
+
+Houdiniの、Selectツール関連のショートカットキーは以下の通りです。
+
+ 基本の選択モード
+
+
+[S]キー：Select Toolのアクティブ化（Geometry選択など）
+
+
+
+
+
+
+ 特定の選択モード
+
+
+[2]キー：Point選択モード
+
+
+
+
+
+[3]キー：Edge選択モード
+
+
+
+
+
+[4]キー：Primitive選択モード
+
+
+
+
+
+[5]キー：Vertices選択モード
+
+
+
+
+
+
+ 追加ショートカット
+
+
+[Shift + マウス左ボタン]：（複数選択）現在の選択に追加
+
+[Ctrl + マウス左ボタン]：（複数選択）現在の...]]></summary>
+        <author>
+            <name>ササキ ヒロユキ</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[【アドオン紹介】Librx – 火炎・クロス・パーティクルなどを簡単再現！]]></title>
         <id>https://cgbox.jp/?p=61556</id>
         <link href="https://cgbox.jp/2025/01/11/news-addon-librx/"/>
@@ -109,6 +326,27 @@ Sparse Virtual Textu…]]></summary>
         <summary type="html"><![CDATA[matsuoka-601氏がWebGPUを使用してリアルタイムで海の動きを描画するプロジェクト「WrebGPU Ocean」をGithub上で公開しました。]]></summary>
         <author>
             <name>Ymt3D -3dnchu-</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【Unity】FullScreen ShaderGraphで画面転換表現用Materialを作る]]></title>
+        <id>https://zenn.dev/simsimworld/articles/f014b9c0bd16c2</id>
+        <link href="https://zenn.dev/simsimworld/articles/f014b9c0bd16c2"/>
+        <updated>2025-01-11T04:48:26.000Z</updated>
+        <summary type="html"><![CDATA[【概要】
+下記動画を見て自分でもFullScreenShaderGraphを使ってみたいと思い
+「FullScreenShaderGraph」で画面転換表現用のMaterialを作成してみました。
+今回はその忘備録用のざっくりとした記事としていますので、ShaderGraph関連の説明は省いています
+https://youtu.be/7Cd7kQl6N50?si=ESCX8MxcUDm8NqFZ
+【 使用環境 】
+
+Unityバージョン：6000.0.31f1.7976.6018
+
+【全体的な流れ】
+下記手順にそって、画面転換用のMaterialを作成し描画設定を変更します。
+その後Ma...]]></summary>
+        <author>
+            <name>sim</name>
         </author>
     </entry>
     <entry>
@@ -3445,177 +3683,6 @@ uniform vec2 resolution;
         <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
         <author>
             <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【アドオン紹介】Linkage Customizable Marking Menus – 自分だけのパイメニューでワークフローを効率化！]]></title>
-        <id>https://cgbox.jp/?p=61191</id>
-        <link href="https://cgbox.jp/2024/12/13/news-addon-linkage-customizable-marking-menus/"/>
-        <updated>2024-12-13T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは！ 今回はアドオンの「Linkage Customizable Marking Menus」を紹介します。 こちらのリンクから購入することができます。 Linkage Customizable Marking  […]]]></summary>
-        <author>
-            <name>UEDA</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[1/31（金）締切！大阪万博期間中、EXPOホール『シャインハット』にプロジェクションマッピングで投映する作品を公募中！－AVA Animation & Visual Artsの参加が決定 - ニュース]]></title>
-        <id>https://cgworld.jp/flashnews/expo-osakabanpaku-202412.html</id>
-        <link href="https://cgworld.jp/flashnews/expo-osakabanpaku-202412.html"/>
-        <updated>2024-12-13T08:50:00.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[舞台は江戸初期の京都。ゲーム『鬼武者 Way of the Sword』のトレーラー]]></title>
-        <id>https://3dtotal.jp/?p=49091</id>
-        <link href="https://3dtotal.jp/news/49091/"/>
-        <updated>2024-12-13T08:16:34.000Z</updated>
-        <summary type="html"><![CDATA[★『鬼武者 Way of the Sword』 アナウンストレーラー（1分47秒） カプコンの剣戟アクションゲーム最新作、『鬼武者 Way of the Sword』が2026年に発売決定。 舞台は、瘴気によって不可思議 […]
-The post 舞台は江戸初期の京都。ゲーム『鬼武者 Way of the Sword』のトレーラー first appeared on 3dtotal 日本語オフィシャルサイト.]]></summary>
-        <author>
-            <name>3dtotal管理人T</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[神はいない。いるのは怪物だけ。ゲーム『ウィッチャーIV』のトレーラー（英語／日本語）]]></title>
-        <id>https://3dtotal.jp/?p=49088</id>
-        <link href="https://3dtotal.jp/news/49088/"/>
-        <updated>2024-12-13T08:13:12.000Z</updated>
-        <summary type="html"><![CDATA[★The Witcher IV — Cinematic Reveal Trailer（6分2秒） ★ウィッチャーIV — [日本語吹替版] シネマティックリビールトレーラー（6分） 神はいない。いるのは怪物だけ。『サイバ […]
-The post 神はいない。いるのは怪物だけ。ゲーム『ウィッチャーIV』のトレーラー（英語／日本語） first appeared on 3dtotal 日本語オフィシャルサイト.]]></summary>
-        <author>
-            <name>3dtotal管理人T</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「エルデンリング」のスピンオフ、協力型サバイバルアクション ゲーム『ELDEN RING NIGHTREIGN』2025年世界同時発売]]></title>
-        <id>https://3dtotal.jp/?p=49069</id>
-        <link href="https://3dtotal.jp/news/49069/"/>
-        <updated>2024-12-13T07:09:36.000Z</updated>
-        <summary type="html"><![CDATA[株式会社バンダイナムコエンターテインメント と 株式会社フロム・ソフトウェア が、世界累計出荷本数 2,860万本を突破した両社が共同開発するアクションRPG『ELDEN RING（エルデンリング）』のスピンオフタイトル […]
-The post 「エルデンリング」のスピンオフ、協力型サバイバルアクション ゲーム『ELDEN RING NIGHTREIGN』2025年世界同時発売 first appeared on 3dtotal 日本語オフィシャルサイト.]]></summary>
-        <author>
-            <name>3dtotal管理人T</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Game Awards 2024 Trailers - 年末新作ゲームラッシュ！気になったトレーラーをピックアップ！とりあえず動画だけ見たい人向け！]]></title>
-        <id>https://3dnchu.com/?p=1047359</id>
-        <link href="https://3dnchu.com/archives/the-game-awards-2024-trailers/"/>
-        <updated>2024-12-13T06:45:43.000Z</updated>
-        <summary type="html"><![CDATA[2023年12月12日（現地時間）に開催された「The Game Awards 2024」にあわせて、色々と新作ゲームの映像が公開されました。個人的に気になるもの幾つか貼り付けておきます。]]></summary>
-        <author>
-            <name>Ymt3D -3dnchu-</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[賞金総額1,000万円！　カプコンが自社ゲームエンジン「RE ENGINE」を用いた学生向けゲーム制作コンペ「CAPCOM GAMES COMPETITION」を開催！ - ニュース]]></title>
-        <id>https://cgworld.jp/flashnews/2412-capcom.html</id>
-        <link href="https://cgworld.jp/flashnews/2412-capcom.html"/>
-        <updated>2024-12-13T05:54:39.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Interchange Framework ～Python編～]]></title>
-        <id>https://tech-art.online/?p=1891</id>
-        <link href="https://tech-art.online/ue5-interchange-framework-python/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=ue5-interchange-framework-python"/>
-        <updated>2024-12-13T05:09:56.000Z</updated>
-        <summary type="html"><![CDATA[今回はPythonを利用したインポート処理のカスタム方法（Interchange Framework）について紹介しました。
-Interchange Framework ～Python編～ first appeared on TECH ART ONLINE.]]></summary>
-        <author>
-            <name>管理人</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2Dペインティングモード＆スマートマスク！ 3Dテクスチャペインティング ツール Mari 7.1 の機能紹介ムービー]]></title>
-        <id>https://3dtotal.jp/?p=49058</id>
-        <link href="https://3dtotal.jp/news/49058/"/>
-        <updated>2024-12-13T02:12:29.000Z</updated>
-        <summary type="html"><![CDATA[★Mari 7.1 | Features Overview（2分54秒） 2Dペインティングモードが追加された Mari 7.1 を使えば、素早い編集やカスタムパターンの作成が可能。スマートマテリアル、スマートマスク、強 […]
-The post 2Dペインティングモード＆スマートマスク！ 3Dテクスチャペインティング ツール Mari 7.1 の機能紹介ムービー first appeared on 3dtotal 日本語オフィシャルサイト.]]></summary>
-        <author>
-            <name>3dtotal管理人T</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ライティング＆ルックデブ ツール Katana 8.0 の機能紹介ムービー]]></title>
-        <id>https://3dtotal.jp/?p=49054</id>
-        <link href="https://3dtotal.jp/news/49054/"/>
-        <updated>2024-12-13T02:06:33.000Z</updated>
-        <summary type="html"><![CDATA[★Katana 8.0 | Features Overview（2分9秒） Katana 8.0 では、アプリケーション内で USDとの完全なラウンドトリップが可能になりました。Katana の実績あるフレームワークと組 […]
-The post ライティング＆ルックデブ ツール Katana 8.0 の機能紹介ムービー first appeared on 3dtotal 日本語オフィシャルサイト.]]></summary>
-        <author>
-            <name>3dtotal管理人T</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【After Effects 2025】環境ライトレイヤー - 連載]]></title>
-        <id>https://cgworld.jp/regular/202412-tipsnote.html</id>
-        <link href="https://cgworld.jp/regular/202412-tipsnote.html"/>
-        <updated>2024-12-13T01:33:45.000Z</updated>
-        <summary type="html"><![CDATA[今回はAfter Effects 2025から「環境ライトレイヤー」をご紹介いたします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[衣装デザインツール Marvelous Designer 2024.2 の新機能紹介映像]]></title>
-        <id>https://3dtotal.jp/?p=48606</id>
-        <link href="https://3dtotal.jp/news/48606/"/>
-        <updated>2024-12-13T01:13:12.000Z</updated>
-        <summary type="html"><![CDATA[★Marvelous Designer 2024.2 主要新機能紹介（16分10秒） Marvelous Designer 2024.2 の主要新機能を一挙ご紹介します。（youtube より） 　 ★GPUシミュレーシ […]
-The post 衣装デザインツール Marvelous Designer 2024.2 の新機能紹介映像 first appeared on 3dtotal 日本語オフィシャルサイト.]]></summary>
-        <author>
-            <name>3dtotal管理人T</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[オートデスク、「3ds Max USD Plugin」をオープンソース化！　ビューポートに直接USDステージをロードしてインタラクティブな編集が可能に - ニュース]]></title>
-        <id>https://cgworld.jp/flashnews/202412-3dsMax-USD.html</id>
-        <link href="https://cgworld.jp/flashnews/202412-3dsMax-USD.html"/>
-        <updated>2024-12-13T01:01:57.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[UDIMのファイルがあるかチェックしたい]]></title>
-        <id>https://qiita.com/9boz/items/16489fc504a71590ed99</id>
-        <link href="https://qiita.com/9boz/items/16489fc504a71590ed99"/>
-        <updated>2024-12-13T00:57:58.000Z</updated>
-        <summary type="html"><![CDATA[UDIM話が続きます。
-https://qiita.com/9boz/private/0b743d6836f95f099f48
-https://qiita.com/9boz/private/8262…]]></summary>
-        <author>
-            <name>mayaタグが付けられた新着記事 - Qiita</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Houdini: 複数のジオメトリをロードするHDAのご紹介]]></title>
-        <id>https://zenn.dev/kickbase/articles/8cb3faabe53b7a</id>
-        <link href="https://zenn.dev/kickbase/articles/8cb3faabe53b7a"/>
-        <updated>2024-12-13T00:36:23.000Z</updated>
-        <summary type="html"><![CDATA[もうアドベントカレンダーの季節とか嘘でしょう…？（2回目）
-気を取り直して皆さんいかがお過ごしでしょう。僕は今年もHoudini三昧の毎日でした。
-今回は複数のジオメトリをロードするHDAの作り方についてお話をしたいと思います。
-本記事はHoudiniアドベントカレンダー2024 13日目の記事です。
-
- データ配布
-HDAダウンロード
-
- ツール制作の背景とその特徴
-大量のジオメトリを読み込んで確認したいこと、頻繁にありますね。PDGなどを利用してバッチ処理でジオメトリを生成している場合などはなおさらです。
-本ツールは下記特徴をもったツールとなります。
-
-任意のディレクトリにあるジオメ...]]></summary>
-        <author>
-            <name>めんたいこ</name>
         </author>
     </entry>
 </feed>

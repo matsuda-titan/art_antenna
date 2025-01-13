@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-01-13T00:49:28.289Z</updated>
+    <updated>2025-01-13T03:19:50.195Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Ludus AI - Unreal Engine 5上でAIを活用した3Dモデルの生成やBP解析＆C++コードアシスタント&助言などが可能なプラグイン！]]></title>
+        <id>https://3dnchu.com/?p=1050725</id>
+        <link href="https://3dnchu.com/archives/ludus-ai-ue5/"/>
+        <updated>2025-01-13T03:19:32.000Z</updated>
+        <summary type="html"><![CDATA[Unreal Engine 5上でAIを活用した3Dモデルの生成やBP解析＆C++コードアシスタント&助言などが可能なプラグイン「Ludus AI」のご紹介。]]></summary>
+        <author>
+            <name>Ymt3D -3dnchu-</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【アセット紹介】High-Quality Living Room Visualizations – 高品質な家具をお得にゲット！]]></title>
         <id>https://cgbox.jp/?p=61573</id>
@@ -3569,41 +3579,6 @@ MayaのBifrostを使用した補助骨作成を行います。
 rerationShipEditorからポチポチやるのかなと思うのですが…]]></summary>
         <author>
             <name>mayaタグが付けられた新着記事 - Qiita</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mayaで反対側のfaceを取得したい2]]></title>
-        <id>https://qiita.com/9boz/items/f69d1aff78f8bfd895e4</id>
-        <link href="https://qiita.com/9boz/items/f69d1aff78f8bfd895e4"/>
-        <updated>2024-12-14T14:21:35.000Z</updated>
-        <summary type="html"><![CDATA[https://qiita.com/9boz/items/ea25603e51012e70401d
-前回　反対側のvtxを取得できるようにしてみましたが、それを流れに入れ込んでみると
-
-faceを形成…]]></summary>
-        <author>
-            <name>mayaタグが付けられた新着記事 - Qiita</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GLSLで青海波文様]]></title>
-        <id>https://zenn.dev/aadebdeb/articles/0d8b742b76d680</id>
-        <link href="https://zenn.dev/aadebdeb/articles/0d8b742b76d680"/>
-        <updated>2024-12-14T13:31:01.000Z</updated>
-        <summary type="html"><![CDATA[日本の伝統文様の一つに青海波(せいがいは)という同心円の一部が扇状に重なり合ったような文様があります。この記事ではGLSLで青海波文様を実装します。
-https://ja.wikipedia.org/wiki/青海波
-コードはGLSL Sandbox互換になっています。
-precision highp float;
-
-uniform float time;
-uniform vec2 mouse;
-uniform vec2 resolution;
-
-#define PI 3.14159265359
-
-void main(void) {
-    vec2 p = gl_FragCoord.x...]]></summary>
-        <author>
-            <name>Atsushi Asakura</name>
         </author>
     </entry>
 </feed>

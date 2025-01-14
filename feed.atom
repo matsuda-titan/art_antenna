@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-01-14T00:43:41.877Z</updated>
+    <updated>2025-01-14T03:09:49.593Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[第4回 番外編：グラフィニカ技術開発プロジェクト SIGGRAPH Asia 2024 Best Paper Award受賞記念インタビュー - 連載]]></title>
+        <id>https://cgworld.jp/regular/202412-chiyama-t-4-3.html</id>
+        <link href="https://cgworld.jp/regular/202412-chiyama-t-4-3.html"/>
+        <updated>2025-01-14T01:30:00.000Z</updated>
+        <summary type="html"><![CDATA[本連載では、CG映像制作におけるテクニカル系スタッフの仕事の現状と課題を、パイプライン開発の専門家である痴山紘史氏（日本CGサービス（JCGS）代表）が探っていく。今回は、連載 第4回で紹介したグラフィニカ技術開発プロジェクトの、SIGGRAPH Asia 2024 Technical Communications部門 Best Paper Award（最優秀論文賞）受賞を記念した追加インタビューをお届けする。]]></summary>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ムファサの兄弟タカ。映画『ライオン・キング：ムファサ』の VFXブレイクダウン映像]]></title>
+        <id>https://3dtotal.jp/?p=49453</id>
+        <link href="https://3dtotal.jp/news/49453/"/>
+        <updated>2025-01-14T01:17:11.000Z</updated>
+        <summary type="html"><![CDATA[★MPC - Mufasa: The Lion King l Taka VFX Breakdown（2分13秒） MPC がディズニー映画『ライオン・キング：ムファサ』のキャラクター、タカに命を吹き込んだ方法をご覧くださ […]
+The post ムファサの兄弟タカ。映画『ライオン・キング：ムファサ』の VFXブレイクダウン映像 first appeared on 3dtotal 日本語オフィシャルサイト.]]></summary>
+        <author>
+            <name>3dtotal管理人T</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Drawmesh グリースペンシルで描いた部分にメッシュを張れるBlender用無料アドオン]]></title>
         <id>https://modelinghappy.com/?p=61083</id>
@@ -1702,6 +1723,19 @@ https://ja.wikipedia.org/wiki/ヘリンボーン_(模様)
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[GLSLでヘリンボーン模様]]></title>
+        <id>https://zenn.dev/aadebdeb/articles/glsl-herringbone-pattern</id>
+        <link href="https://zenn.dev/aadebdeb/articles/glsl-herringbone-pattern"/>
+        <updated>2024-12-27T12:04:00.000Z</updated>
+        <summary type="html"><![CDATA[ヘリンボーン(herringbone)模様はニシン(herring)などの魚を開いたときの骨(bone)に似ていることから名づけられた四角形を敷き詰めた繰り返し模様です。この記事ではGLSLでヘリンボーン模様を実装します。
+https://en.wikipedia.org/wiki/Herringbone_pattern
+https://ja.wikipedia.org/wiki/ヘリンボーン_(模様)
+ヘリンボーン模様には、長方形を敷き詰めるパターンと長方形ではない平行四辺形を敷き詰めるパターンが存在します。日本の文様としては前者は桧垣文様、後者は杉綾文様に対応します。また、床のフロー...]]></summary>
+        <author>
+            <name>Atsushi Asakura</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Cell Fluid上s 2.0リアルな液体を疑似的なシミュレーションによって作成出来るCellfluidsがバージョン2.0にアップグレード]]></title>
         <id>https://modelinghappy.com/?p=60830</id>
         <link href="https://modelinghappy.com/archives/60830"/>
@@ -2062,6 +2096,28 @@ The post JAXから協力を受けて作成された ISS船内のアセットデ�
         <id>https://zenn.dev/aadebdeb/articles/f969d74e204a6d</id>
         <link href="https://zenn.dev/aadebdeb/articles/f969d74e204a6d"/>
         <updated>2024-12-25T02:45:31.000Z</updated>
+        <summary type="html"><![CDATA[この記事では半正則タイリングの一つで、正四角形と正三角形を用いて平面を埋めるsnub squareタイリングをGLSLで実装します。
+https://en.wikipedia.org/wiki/Snub_square_tiling
+コードはGLSL Sandbox互換になっています。
+precision highp float;
+
+uniform vec2 resolution;
+
+#define PI 3.14159265359
+
+mat2 rotate(float r) {
+    float c = cos(r);
+    float s = sin(r);
+    return ...]]></summary>
+        <author>
+            <name>Atsushi Asakura</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GLSLでsnub squareタイリング]]></title>
+        <id>https://zenn.dev/aadebdeb/articles/glsl-snub-square-tiling</id>
+        <link href="https://zenn.dev/aadebdeb/articles/glsl-snub-square-tiling"/>
+        <updated>2024-12-25T02:45:00.000Z</updated>
         <summary type="html"><![CDATA[この記事では半正則タイリングの一つで、正四角形と正三角形を用いて平面を埋めるsnub squareタイリングをGLSLで実装します。
 https://en.wikipedia.org/wiki/Snub_square_tiling
 コードはGLSL Sandbox互換になっています。
@@ -3024,6 +3080,22 @@ https://en.wikipedia.org/wiki/Pythagorean_tiling
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[GLSLでピタゴラスタイリング]]></title>
+        <id>https://zenn.dev/aadebdeb/articles/glsl-pythagorean-tiling</id>
+        <link href="https://zenn.dev/aadebdeb/articles/glsl-pythagorean-tiling"/>
+        <updated>2024-12-19T07:44:00.000Z</updated>
+        <summary type="html"><![CDATA[2つの大きさの正方形で平面を敷き詰めるピタゴラスタイリング(Pythagorean Tiling)というタイリング手法があります。この記事ではGLSLでピタゴラスタイリングを実装します。
+https://en.wikipedia.org/wiki/Pythagorean_tiling
+
+ピタゴラスタイリングは以下の図のように切り取ると正方形格子状の繰り返しパターンになっています。左右2つとも切り取り方は異なりますが、どちらも繰り返しパターンになっています。
+
+
+2つの大きさの正方形を塗り分けて境界線を描画する方法について考えます。GLSLで実装すると以下のようになります。コードはGLSL...]]></summary>
+        <author>
+            <name>Atsushi Asakura</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Nianticの3Dスキャンアプリ「Scaniverse」がMeta Questに対応！　世界中のスマホで撮影した空間がWebXRの没入型コンテンツに - ニュース]]></title>
         <id>https://cgworld.jp/flashnews/202412-Scaniverse-MetaQuest.html</id>
         <link href="https://cgworld.jp/flashnews/202412-Scaniverse-MetaQuest.html"/>
@@ -3478,6 +3550,27 @@ https://unity.com/ja/h…]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[GLSLで立涌文様]]></title>
+        <id>https://zenn.dev/aadebdeb/articles/glsl-tatewaku-pattern</id>
+        <link href="https://zenn.dev/aadebdeb/articles/glsl-tatewaku-pattern"/>
+        <updated>2024-12-16T12:20:00.000Z</updated>
+        <summary type="html"><![CDATA[日本の伝統模様の一つに立涌(たてわく、たちわく)という水蒸気がゆらゆらと登っていく様子を表現した文様があります。この記事ではGLSLで立涌文様を実装します。
+https://naisouzairyou-annai.jp/pattern/tradition/index.html
+コードはGLSL Sandbox互換になっています。
+precision highp float;
+
+uniform float time;
+uniform vec2 mouse;
+uniform vec2 resolution;
+
+#define PI 3.14159265359
+
+void main(void)...]]></summary>
+        <author>
+            <name>Atsushi Asakura</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GLSLで立涌文様]]></title>
         <id>https://zenn.dev/aadebdeb/articles/18e77ff64ae29d</id>
         <link href="https://zenn.dev/aadebdeb/articles/18e77ff64ae29d"/>
         <updated>2024-12-16T12:20:00.000Z</updated>
@@ -3615,17 +3708,6 @@ MayaのBifrostを使用した補助骨作成を行います。
 補助骨とは何かの説明や、標準ノードを使用した手首…]]></summary>
         <author>
             <name>mayaタグが付けられた新着記事 - Qiita</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[スキャンモデルのリトポロジー with Flow Retopology]]></title>
-        <id>https://tech-art.online/?p=1879</id>
-        <link href="https://tech-art.online/maya-flow-retopology/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=maya-flow-retopology"/>
-        <updated>2024-12-15T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Mayaの標準リトポロジー機能とFlow Retopology for Mayaの機能解説をしてみました。
-スキャンモデルのリトポロジー with Flow Retopology first appeared on TECH ART ONLINE.]]></summary>
-        <author>
-            <name>管理人</name>
         </author>
     </entry>
 </feed>

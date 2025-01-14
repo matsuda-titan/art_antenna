@@ -568,16 +568,6 @@
           "wordCount": 14474,
           "title": "知らなきゃ損！Maya作業効率を爆上げする隠れたショートカット集",
           "imageUrl": "https://tech-art.online/wordpress/wp-content/uploads/2024/12/20241217_154422_resize-485x300.jpg"
-        },
-        {
-          "id": "https://tech-art.online/?p=1879",
-          "author": "管理人",
-          "description": "Mayaの標準リトポロジー機能とFlow Retopology for Mayaの機能解説をしてみました。\nスキャンモデルのリトポロジー with Flow Retopology first appeared on TECH ART ONLINE.",
-          "link": "https://tech-art.online/maya-flow-retopology/?utm_source=rss&utm_medium=rss&utm_campaign=maya-flow-retopology",
-          "publishedOn": "2024-12-15T13:00:00.000Z",
-          "wordCount": 14489,
-          "title": "スキャンモデルのリトポロジー with Flow Retopology",
-          "imageUrl": "https://tech-art.online/wordpress/wp-content/uploads/2024/12/20241207_134316_resize-485x300.jpg"
         }
       ]
     },
@@ -1358,6 +1348,16 @@
       "feedUrl": "https://cgworld.jp/atom.xml",
       "siteUrl": "https://cgworld.jp/",
       "articles": [
+        {
+          "id": "https://cgworld.jp/regular/202412-chiyama-t-4-3.html",
+          "author": null,
+          "description": "本連載では、CG映像制作におけるテクニカル系スタッフの仕事の現状と課題を、パイプライン開発の専門家である痴山紘史氏（日本CGサービス（JCGS）代表）が探っていく。今回は、連載 第4回で紹介したグラフィニカ技術開発プロジェクトの、SIGGRAPH Asia 2024 Technical Communications部門 Best Paper Award（最優秀論文賞）受賞を記念した追加インタビューをお届けする。",
+          "link": "https://cgworld.jp/regular/202412-chiyama-t-4-3.html",
+          "publishedOn": "2025-01-14T01:30:00.000Z",
+          "wordCount": 806,
+          "title": "第4回 番外編：グラフィニカ技術開発プロジェクト SIGGRAPH Asia 2024 Best Paper Award受賞記念インタビュー - 連載",
+          "imageUrl": "https://cgworld.jp/regular/assets_c/2024/12/b6e0053c054d5b4c6a45ed50224e9aead0d4e362-thumb-1000x667-63741.jpg"
+        },
         {
           "id": "https://cgworld.jp/flashnews/202501-NVIDIA-Cosmos.html",
           "author": null,
@@ -2287,6 +2287,16 @@
       "feedUrl": "https://3dtotal.jp/feed/",
       "siteUrl": "https://3dtotal.jp",
       "articles": [
+        {
+          "id": "https://3dtotal.jp/?p=49453",
+          "author": "3dtotal管理人T",
+          "description": "★MPC - Mufasa: The Lion King l Taka VFX Breakdown（2分13秒） MPC がディズニー映画『ライオン・キング：ムファサ』のキャラクター、タカに命を吹き込んだ方法をご覧くださ […]\nThe post ムファサの兄弟タカ。映画『ライオン・キング：ムファサ』の VFXブレイクダウン映像 first appeared on 3dtotal 日本語オフィシャルサイト.",
+          "link": "https://3dtotal.jp/news/49453/",
+          "publishedOn": "2025-01-14T01:17:11.000Z",
+          "wordCount": 511,
+          "title": "ムファサの兄弟タカ。映画『ライオン・キング：ムファサ』の VFXブレイクダウン映像",
+          "imageUrl": "https://3dtotal.jp/wp-content/uploads/2025/01/lkingmufasa_mpc.jpg"
+        },
         {
           "id": "https://3dtotal.jp/?p=49439",
           "author": "3dtotal管理人T",
@@ -3671,6 +3681,21 @@
           "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--eC1EkN_n--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:GLSL%25E3%2581%25A7%25E3%2583%2598%25E3%2583%25AA%25E3%2583%25B3%25E3%2583%259C%25E3%2583%25BC%25E3%2583%25B3%25E6%25A8%25A1%25E6%25A7%2598%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Atsushi%2520Asakura%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2JiZWNiNDRjYTUuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
         },
         {
+          "id": "https://zenn.dev/aadebdeb/articles/glsl-herringbone-pattern",
+          "author": "Atsushi Asakura",
+          "description": "ヘリンボーン(herringbone)模様はニシン(herring)などの魚を開いたときの骨(bone)に似ていることから名づけられた四角形を敷き詰めた繰り返し模様です。この記事ではGLSLでヘリンボーン模様を実装します。\nhttps://en.wikipedia.org/wiki/Herringbone_pattern\nhttps://ja.wikipedia.org/wiki/ヘリンボーン_(模様)\nヘリンボーン模様には、長方形を敷き詰めるパターンと長方形ではない平行四辺形を敷き詰めるパターンが存在します。日本の文様としては前者は桧垣文様、後者は杉綾文様に対応します。また、床のフロー...",
+          "link": "https://zenn.dev/aadebdeb/articles/glsl-herringbone-pattern",
+          "publishedOn": "2024-12-27T12:04:00.000Z",
+          "wordCount": null,
+          "title": "GLSLでヘリンボーン模様",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--eC1EkN_n--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:GLSL%25E3%2581%25A7%25E3%2583%2598%25E3%2583%25AA%25E3%2583%25B3%25E3%2583%259C%25E3%2583%25BC%25E3%2583%25B3%25E6%25A8%25A1%25E6%25A7%2598%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Atsushi%2520Asakura%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2JiZWNiNDRjYTUuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png",
+            "length": "0",
+            "type": "image/png"
+          },
+          "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--eC1EkN_n--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:GLSL%25E3%2581%25A7%25E3%2583%2598%25E3%2583%25AA%25E3%2583%25B3%25E3%2583%259C%25E3%2583%25BC%25E3%2583%25B3%25E6%25A8%25A1%25E6%25A7%2598%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Atsushi%2520Asakura%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2JiZWNiNDRjYTUuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
+        },
+        {
           "id": "https://zenn.dev/hosoda_math/articles/dc84b8f111beb8",
           "author": "Shingo Hosoda",
           "description": "本記事はProcessing Advent Calendar2024の記事です。\nなおフィルターのソースコードはここにあります。\n\n アスキーとは\n7ビットで0b0000000から0b1111111までの番号を使い、数値に対応する文字や数字を定めたものです。\n\n英語アルファベットの大文字と小文字\n記号\n\n0 ~ 9までの数字\n制御文字\n\nたとえば0b1000001と言う数字は英大文字のAを表しています。\nアスキーはUnicodeのUTF-8と互換性があります。\n\n アスキーフィルターとは\n画像や映像をピクセル単位でアスキー文字に置き換えるフィルターです。\n画像や映像の色と座標で表示する文...",
@@ -3691,6 +3716,21 @@
           "description": "この記事では半正則タイリングの一つで、正四角形と正三角形を用いて平面を埋めるsnub squareタイリングをGLSLで実装します。\nhttps://en.wikipedia.org/wiki/Snub_square_tiling\nコードはGLSL Sandbox互換になっています。\nprecision highp float;\n\nuniform vec2 resolution;\n\n#define PI 3.14159265359\n\nmat2 rotate(float r) {\n    float c = cos(r);\n    float s = sin(r);\n    return ...",
           "link": "https://zenn.dev/aadebdeb/articles/f969d74e204a6d",
           "publishedOn": "2024-12-25T02:45:31.000Z",
+          "wordCount": null,
+          "title": "GLSLでsnub squareタイリング",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--Dflqi_wB--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:GLSL%25E3%2581%25A7snub%2520square%25E3%2582%25BF%25E3%2582%25A4%25E3%2583%25AA%25E3%2583%25B3%25E3%2582%25B0%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Atsushi%2520Asakura%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2JiZWNiNDRjYTUuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png",
+            "length": "0",
+            "type": "image/png"
+          },
+          "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--Dflqi_wB--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:GLSL%25E3%2581%25A7snub%2520square%25E3%2582%25BF%25E3%2582%25A4%25E3%2583%25AA%25E3%2583%25B3%25E3%2582%25B0%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Atsushi%2520Asakura%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2JiZWNiNDRjYTUuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
+        },
+        {
+          "id": "https://zenn.dev/aadebdeb/articles/glsl-snub-square-tiling",
+          "author": "Atsushi Asakura",
+          "description": "この記事では半正則タイリングの一つで、正四角形と正三角形を用いて平面を埋めるsnub squareタイリングをGLSLで実装します。\nhttps://en.wikipedia.org/wiki/Snub_square_tiling\nコードはGLSL Sandbox互換になっています。\nprecision highp float;\n\nuniform vec2 resolution;\n\n#define PI 3.14159265359\n\nmat2 rotate(float r) {\n    float c = cos(r);\n    float s = sin(r);\n    return ...",
+          "link": "https://zenn.dev/aadebdeb/articles/glsl-snub-square-tiling",
+          "publishedOn": "2024-12-25T02:45:00.000Z",
           "wordCount": null,
           "title": "GLSLでsnub squareタイリング",
           "enclosure": {
@@ -3744,6 +3784,36 @@
             "type": "image/png"
           },
           "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--i0DfVoCT--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:GLSL%25E3%2581%25A7%25E3%2583%2594%25E3%2582%25BF%25E3%2582%25B4%25E3%2583%25A9%25E3%2582%25B9%25E3%2582%25BF%25E3%2582%25A4%25E3%2583%25AA%25E3%2583%25B3%25E3%2582%25B0%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Atsushi%2520Asakura%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2JiZWNiNDRjYTUuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
+        },
+        {
+          "id": "https://zenn.dev/aadebdeb/articles/glsl-pythagorean-tiling",
+          "author": "Atsushi Asakura",
+          "description": "2つの大きさの正方形で平面を敷き詰めるピタゴラスタイリング(Pythagorean Tiling)というタイリング手法があります。この記事ではGLSLでピタゴラスタイリングを実装します。\nhttps://en.wikipedia.org/wiki/Pythagorean_tiling\n\nピタゴラスタイリングは以下の図のように切り取ると正方形格子状の繰り返しパターンになっています。左右2つとも切り取り方は異なりますが、どちらも繰り返しパターンになっています。\n\n\n2つの大きさの正方形を塗り分けて境界線を描画する方法について考えます。GLSLで実装すると以下のようになります。コードはGLSL...",
+          "link": "https://zenn.dev/aadebdeb/articles/glsl-pythagorean-tiling",
+          "publishedOn": "2024-12-19T07:44:00.000Z",
+          "wordCount": null,
+          "title": "GLSLでピタゴラスタイリング",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--i0DfVoCT--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:GLSL%25E3%2581%25A7%25E3%2583%2594%25E3%2582%25BF%25E3%2582%25B4%25E3%2583%25A9%25E3%2582%25B9%25E3%2582%25BF%25E3%2582%25A4%25E3%2583%25AA%25E3%2583%25B3%25E3%2582%25B0%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Atsushi%2520Asakura%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2JiZWNiNDRjYTUuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png",
+            "length": "0",
+            "type": "image/png"
+          },
+          "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--i0DfVoCT--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:GLSL%25E3%2581%25A7%25E3%2583%2594%25E3%2582%25BF%25E3%2582%25B4%25E3%2583%25A9%25E3%2582%25B9%25E3%2582%25BF%25E3%2582%25A4%25E3%2583%25AA%25E3%2583%25B3%25E3%2582%25B0%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Atsushi%2520Asakura%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2JiZWNiNDRjYTUuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
+        },
+        {
+          "id": "https://zenn.dev/aadebdeb/articles/glsl-tatewaku-pattern",
+          "author": "Atsushi Asakura",
+          "description": "日本の伝統模様の一つに立涌(たてわく、たちわく)という水蒸気がゆらゆらと登っていく様子を表現した文様があります。この記事ではGLSLで立涌文様を実装します。\nhttps://naisouzairyou-annai.jp/pattern/tradition/index.html\nコードはGLSL Sandbox互換になっています。\nprecision highp float;\n\nuniform float time;\nuniform vec2 mouse;\nuniform vec2 resolution;\n\n#define PI 3.14159265359\n\nvoid main(void)...",
+          "link": "https://zenn.dev/aadebdeb/articles/glsl-tatewaku-pattern",
+          "publishedOn": "2024-12-16T12:20:00.000Z",
+          "wordCount": null,
+          "title": "GLSLで立涌文様",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--rjY4gvJo--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_66:GLSL%25E3%2581%25A7%25E7%25AB%258B%25E6%25B6%258C%25E6%2596%2587%25E6%25A7%2598%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Atsushi%2520Asakura%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2JiZWNiNDRjYTUuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png",
+            "length": "0",
+            "type": "image/png"
+          },
+          "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--rjY4gvJo--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_66:GLSL%25E3%2581%25A7%25E7%25AB%258B%25E6%25B6%258C%25E6%2596%2587%25E6%25A7%2598%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Atsushi%2520Asakura%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2JiZWNiNDRjYTUuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
         },
         {
           "id": "https://zenn.dev/aadebdeb/articles/18e77ff64ae29d",

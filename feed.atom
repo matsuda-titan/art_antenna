@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-01-13T12:19:02.261Z</updated>
+    <updated>2025-01-14T00:43:41.877Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Drawmesh グリースペンシルで描いた部分にメッシュを張れるBlender用無料アドオン]]></title>
+        <id>https://modelinghappy.com/?p=61083</id>
+        <link href="https://modelinghappy.com/archives/61083"/>
+        <updated>2025-01-14T00:17:51.000Z</updated>
+        <summary type="html"><![CDATA[Drawmesh(Free blender addon) Drawmeshはjimmy fanさんが作成したBlenderでグリースペンシルを描いた部分にメッシュを作成出来るアドオンです。 アドオンでは作成されるメッシュ
+The post Drawmesh グリースペンシルで描いた部分にメッシュを張れるBlender用無料アドオン first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
+        <author>
+            <name>modelinghappy</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【アドオン紹介】Easy Gobo Lights – 118種類のGOBOで複雑な照明を簡単再現！]]></title>
         <id>https://cgbox.jp/?p=61588</id>
@@ -14,6 +25,27 @@
         <summary type="html"><![CDATA[こんばんは！ 今回はアドオンの「Easy Gobo Lights 」を紹介します。 こちらのリンクから購入することができます。 Easy Gobo Lights  「Easy Gobo Lights  […]]]></summary>
         <author>
             <name>UEDA</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【MotionBuilder】Python SDK 入門 第8回 『UI・ツール開発 - PySide』]]></title>
+        <id>https://zenn.dev/nadegata_memo/articles/mobu_pyfbsdk_intro_08</id>
+        <link href="https://zenn.dev/nadegata_memo/articles/mobu_pyfbsdk_intro_08"/>
+        <updated>2025-01-13T10:59:22.000Z</updated>
+        <summary type="html"><![CDATA[この記事は、Python SDK 入門 の第8回目の記事です。
+今回は、UI・ツール開発の前の準備として、Qt(PySide) を利用してUIの要素を取り扱う基礎的な方法について説明します。
+
+
+ 1. はじめに
+
+ 1.1. Qt / PySide について
+Qt とは、クロスプラットフォームのGUI作成フレームワークです。
+複数のモジュール群から成る大規模なプロジェクトであり[1]、ユーザーは用途に応じて各モジュールを導入して開発を行います。
+
+Qt Documentation - All Modules
+工業製品や描画ソフト、DCC ツールなど様々な場所で導入されていており、Mot...]]></summary>
+        <author>
+            <name>Ndgt</name>
         </author>
     </entry>
     <entry>
@@ -3594,28 +3626,6 @@ MayaのBifrostを使用した補助骨作成を行います。
 スキャンモデルのリトポロジー with Flow Retopology first appeared on TECH ART ONLINE.]]></summary>
         <author>
             <name>管理人</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenAIの動画生成AI「Sora」一般公開！　有料プランで最大1080p・20秒の動画を月500本まで生成可能　※新規登録制限から復旧済み - ニュース]]></title>
-        <id>https://cgworld.jp/flashnews/202412-OpenAI-Sora.html</id>
-        <link href="https://cgworld.jp/flashnews/202412-OpenAI-Sora.html"/>
-        <updated>2024-12-15T08:53:03.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[p5.js を使い始めてからの流れと 2024年の p5.js を使った作品の振り返り（体験型展示やシェーダー利用など）【Processing（Adventar）】]]></title>
-        <id>https://qiita.com/youtoy/items/c7887229cb2d064cf3c2</id>
-        <link href="https://qiita.com/youtoy/items/c7887229cb2d064cf3c2"/>
-        <updated>2024-12-15T04:11:21.000Z</updated>
-        <summary type="html"><![CDATA[この記事は、「Adventar で公開されている Processing Advent Calendar 2024」の 15日目の記事です。
-はじめに
-この記事では「自分が p5.js を使い始めてか…]]></summary>
-        <author>
-            <name>Shaderタグが付けられた新着記事 - Qiita</name>
         </author>
     </entry>
 </feed>

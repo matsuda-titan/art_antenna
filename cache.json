@@ -12,6 +12,36 @@
       "siteUrl": "https://cgbox.jp",
       "articles": [
         {
+          "id": "https://cgbox.jp/?p=61655",
+          "author": "UEDA",
+          "description": "こんばんは！ 今回はアドオンの「Split」を紹介します。 こちらのリンクから購入することができます。 Split 「Split」は、マテリアルの変更をリアルタイムで確認することができます。 左側が変更後、右側が変更前に […]",
+          "link": "https://cgbox.jp/2025/01/15/news-addon-split/",
+          "publishedOn": "2025-01-15T10:00:00.000Z",
+          "wordCount": 2085,
+          "title": "【アドオン紹介】Split – マテリアルのビフォー・アフターをリアルタイムで比較！",
+          "enclosure": {
+            "url": "https://cgbox.jp/wp-content/uploads/2025/01/05.mp4",
+            "length": "0",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://cgbox.jp/wp-content/uploads/2025/01/image_processing20250110-2-g20mmq.jpg"
+        },
+        {
+          "id": "https://cgbox.jp/?p=61649",
+          "author": "UEDA",
+          "description": "こんばんは！ 今回は「Foamer」を紹介します。 Foamer 「Foamer」は、リアルな泡を生成できるジオメトリーノードセットアップになります。 ペンツールを使って自由に簡単にシーンに追加することができます。 泡の […]",
+          "link": "https://cgbox.jp/2025/01/15/news-asset-foamer/",
+          "publishedOn": "2025-01-15T09:00:00.000Z",
+          "wordCount": 2062,
+          "title": "【アセット紹介】Foamer – リアルな泡を自由自在に追加！",
+          "enclosure": {
+            "url": "https://cgbox.jp/wp-content/uploads/2025/01/04-1.mp4",
+            "length": "0",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://cgbox.jp/wp-content/uploads/2025/01/image_processing20241126-2-t89q6p.jpg"
+        },
+        {
           "id": "https://cgbox.jp/?p=61622",
           "author": "UEDA",
           "description": "こんばんは！ 今回は「Beast Clay」を紹介します。 Beast Clay 「Beast Clay」は、リアルな粘土のテクスチャセットになります。 4Kの12種類のテクスチャが含まれています。 スカルプトやキャラク […]",
@@ -1960,6 +1990,16 @@
       "siteUrl": "https://modelinghappy.com",
       "articles": [
         {
+          "id": "https://modelinghappy.com/?p=61112",
+          "author": "modelinghappy",
+          "description": "Import-Maya-Shaders Blender bobさんが作成した、MayaのArnold用マテリアル ai Standard Surface ShaderをBlenderのマテリアルPrincipal BSD\nThe post Import-Maya-Shaders Mayaのai Standard Surface ShaderをBlenderのPrincipal BSDFに変換して読み込める無料アドオンとプラグイン first appeared on 3DCG最新情報サイト MODELING HAPPY.",
+          "link": "https://modelinghappy.com/archives/61112",
+          "publishedOn": "2025-01-15T09:02:24.000Z",
+          "wordCount": 3485,
+          "title": "Import-Maya-Shaders Mayaのai Standard Surface ShaderをBlenderのPrincipal BSDFに変換して読み込める無料アドオンとプラグイン",
+          "imageUrl": "https://modelinghappy.com/wp-content/uploads/2025/01/20250115_import_maya_shaders_01.jpg"
+        },
+        {
           "id": "https://modelinghappy.com/?p=61102",
           "author": "modelinghappy",
           "description": "Substance 3D Designer 14.1 Substance 3D Designerが14.1にアップデートされて、新しくスプラインからさらに枝のように伸びて分散していくScatter Splines on\nThe post Substance 3D Designer 14.1アップデート スプラインからさらに枝のようにスプラインが伸びて分散していくScatter Splines on Splinesノードが追加 first appeared on 3DCG最新情報サイト MODELING HAPPY.",
@@ -2248,26 +2288,6 @@
           "wordCount": 3482,
           "title": "Non-Destructive Primitives 作成したプリミティブを後から分割数を調整できる無料アドオン",
           "imageUrl": "https://modelinghappy.com/wp-content/uploads/2024/12/1218_none_destructive.jpg"
-        },
-        {
-          "id": "https://modelinghappy.com/?p=60742",
-          "author": "modelinghappy",
-          "description": "Extrude Cuts Modifier Extrude Cuts ModifierはCartesian Caramelさんが作成した、押し出しカット モディファイアで、Blenderのジオメトリノードで使用できます。\nThe post Extrude Cuts Modifie Blenderで押し出した形状を分割しなが回転させて複雑な形状を作成することが出来る無料ジオメトリノードデータ first appeared on 3DCG最新情報サイト MODELING HAPPY.",
-          "link": "https://modelinghappy.com/archives/60742",
-          "publishedOn": "2024-12-16T23:53:33.000Z",
-          "wordCount": 3495,
-          "title": "Extrude Cuts Modifie Blenderで押し出した形状を分割しなが回転させて複雑な形状を作成することが出来る無料ジオメトリノードデータ",
-          "imageUrl": "https://modelinghappy.com/wp-content/uploads/2024/12/1217_extrude_cuts_modifier.jpg"
-        },
-        {
-          "id": "https://modelinghappy.com/?p=60738",
-          "author": "modelinghappy",
-          "description": "Coloraide ColoraideはBlenderでカーソルを合わせるとカラーピッカー表示して色を取得して直ぐにその色でグリースペンシルと、テクスチャペイントツールで使用できるアドオンです。githubから無料ダウン\nThe post カーソルを合わせるとカラーピッカー表示して色を取得して直ぐにその色でグリースペンシルとテクスチャペイント出来るBlender用無料アドオンColoraide first appeared on 3DCG最新情報サイト MODELING HAPPY.",
-          "link": "https://modelinghappy.com/archives/60738",
-          "publishedOn": "2024-12-16T23:33:51.000Z",
-          "wordCount": 3459,
-          "title": "カーソルを合わせるとカラーピッカー表示して色を取得して直ぐにその色でグリースペンシルとテクスチャペイント出来るBlender用無料アドオンColoraide",
-          "imageUrl": "https://modelinghappy.com/wp-content/uploads/2024/12/1217_color_picker.jpg"
         }
       ]
     },
@@ -3155,16 +3175,6 @@
           "wordCount": 2399,
           "title": "timeSliderをスケールしたい",
           "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Fadvent-calendar-ogp-background-7940cd1c8db80a7ec40711d90f43539e.jpg%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnBicy50d2ltZy5jb20lMkZwcm9maWxlX2ltYWdlcyUyRjUzNzk1NjE0OTcwNjc3MjQ4MCUyRkZCUmk0WUVPX2JpZ2dlci5wbmc_aXhsaWI9cmItNC4wLjAmYXI9MSUzQTEmZml0PWNyb3AmbWFzaz1lbGxpcHNlJmZtPXBuZzMyJnM9MDRlNDY0Y2MzZTYzYmUyMDM3NzA4OTRkMGU3NWU3ODc%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D391669ea7aa95c16bf1e7b65a2c74f6b?ixlib=rb-4.0.0&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9dGltZVNsaWRlciVFMyU4MiU5MiVFMyU4MiVCOSVFMyU4MiVCMSVFMyU4MyVCQyVFMyU4MyVBQiVFMyU4MSU5NyVFMyU4MSU5RiVFMyU4MSU4NCZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZ0eHQtY29sb3I9JTIzM0EzQzNDJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnR4dC1wYWQ9MCZzPWZiNTUwZWM2NTEwMThiODM5ZTkyZjFkYWU4OGIzZTUz&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDA5Ym96JnR4dC1jb2xvcj0lMjMzQTNDM0MmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9MzZlY2M2NjU5OWE5M2Y5Mzg2MGExZGZlZjkxZDllY2U&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=06e67960976149a45580004971f806f1"
-        },
-        {
-          "id": "https://qiita.com/9boz/items/b15a7f913c7231e8de7b",
-          "author": null,
-          "description": "あー解像度違ったわー　余白分必要だったわー\nちょっと変えるかー\nとなったんですよ。\n元のシーンはこんな感じ\n\nちょっと大きくする必要があったので、こんな感じで解像度を変更してみました。\ncmds.se…",
-          "link": "https://qiita.com/9boz/items/b15a7f913c7231e8de7b",
-          "publishedOn": "2024-12-16T22:06:52.000Z",
-          "wordCount": 980,
-          "title": "Mayaの解像度変えたら変になって困った話",
-          "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Fadvent-calendar-ogp-background-7940cd1c8db80a7ec40711d90f43539e.jpg%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnBicy50d2ltZy5jb20lMkZwcm9maWxlX2ltYWdlcyUyRjUzNzk1NjE0OTcwNjc3MjQ4MCUyRkZCUmk0WUVPX2JpZ2dlci5wbmc_aXhsaWI9cmItNC4wLjAmYXI9MSUzQTEmZml0PWNyb3AmbWFzaz1lbGxpcHNlJmZtPXBuZzMyJnM9MDRlNDY0Y2MzZTYzYmUyMDM3NzA4OTRkMGU3NWU3ODc%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D391669ea7aa95c16bf1e7b65a2c74f6b?ixlib=rb-4.0.0&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9TWF5YSVFMyU4MSVBRSVFOCVBNyVBMyVFNSU4MyU4RiVFNSVCQSVBNiVFNSVBNCU4OSVFMyU4MSU4OCVFMyU4MSU5RiVFMyU4MiU4OSVFNSVBNCU4OSVFMyU4MSVBQiVFMyU4MSVBQSVFMyU4MSVBMyVFMyU4MSVBNiVFNSU5QiVCMCVFMyU4MSVBMyVFMyU4MSU5RiVFOCVBOSVCMSZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZ0eHQtY29sb3I9JTIzM0EzQzNDJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnR4dC1wYWQ9MCZzPTM2MjUxMmRiMWUyMDY1MGIxZTlkZmM2YTg3NTI0YTgy&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDA5Ym96JnR4dC1jb2xvcj0lMjMzQTNDM0MmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9MzZlY2M2NjU5OWE5M2Y5Mzg2MGExZGZlZjkxZDllY2U&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=fb1f8e98c1169b9d415e14fa229b56e3"
         }
       ]
     },
@@ -3362,16 +3372,6 @@
           "wordCount": 2992,
           "title": "自作のカラフルな流体っぽいシェーダを解説する",
           "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYzMDM5MDYlMkZhN2Q3NWQ0OWZkZTljNzc3YmRkMDFjYTU1Yjg5YmUxMWY4MTU5MDQ0JTJGeF9sYXJnZS5wbmclM0YxNzE3NjM0Njk3P2l4bGliPXJiLTQuMC4wJmFyPTElM0ExJmZpdD1jcm9wJm1hc2s9ZWxsaXBzZSZmbT1wbmczMiZzPWVkYzA3ZGNjYmVlYTcwMDgyNjhiNjFmOWRiMGM5Zjg4%26blend-x%3D120%26blend-y%3D462%26blend-w%3D90%26blend-h%3D90%26blend-mode%3Dnormal%26mark64%3DaHR0cHM6Ly9xaWl0YS1vcmdhbml6YXRpb24taW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1vcmdhbml6YXRpb24taW1hZ2UlMkZkOTllMGRkYmY4ZjZlYTZiYzYyMjNkN2ZhZjVhN2NkMjU4ZDI3ODNiJTJGb3JpZ2luYWwuanBnJTNGMTY1NjkxNzQyND9peGxpYj1yYi00LjAuMCZ3PTQ0Jmg9NDQmZml0PWNyb3AmbWFzaz1jb3JuZXJzJmNvcm5lci1yYWRpdXM9OCZib3JkZXI9MiUyQ0ZGRkZGRiZmbT1wbmczMiZzPWU4MGVmZjY3Y2EyZmY1ODUxNzg5NDkxYzVjN2Q4ZmRk%26mark-x%3D186%26mark-y%3D515%26mark-w%3D40%26mark-h%3D40%26s%3D7d4e61a752ca26d3dc9dcc67b7c1c333?ixlib=rb-4.0.0&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9JUU4JTg3JUFBJUU0JUJEJTlDJUUzJTgxJUFFJUUzJTgyJUFCJUUzJTgzJUE5JUUzJTgzJTk1JUUzJTgzJUFCJUUzJTgxJUFBJUU2JUI1JTgxJUU0JUJEJTkzJUUzJTgxJUEzJUUzJTgxJUJEJUUzJTgxJTg0JUUzJTgyJUI3JUUzJTgyJUE3JUUzJTgzJUJDJUUzJTgzJTgwJUUzJTgyJTkyJUU4JUE3JUEzJUU4JUFBJUFDJUUzJTgxJTk5JUUzJTgyJThCJnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9NTgyNzU0MGI2ZTQ5NmUwOTAwNzM3YTAxNmM2YjlhZGQ&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBZb2hlaV9TdWRhJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9NTMzYWVkZDIxNWJkYjI0ZWU1NDZlYjg3NjE3YzJhZDE&blend-x=242&blend-y=454&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&txt64=5qCq5byP5Lya56S-R0VORVJPU0lUWQ&txt-x=242&txt-y=539&txt-width=838&txt-clip=end%2Cellipsis&txt-color=%231E2121&txt-font=Hiragino%20Sans%20W6&txt-size=28&s=ecc6b5eae195a0fb54f596ec3b445873"
-        },
-        {
-          "id": "https://qiita.com/C-Sharp_is_GOD/items/320c3fa93f55906b686f",
-          "author": null,
-          "description": "UnityEditor拡張\nご存じの通り、Unityには独自ツールを実装するためのEditor拡張APIがあります。\n今回はこれを使ってEditor拡張で動く、お絵描き画面を作ります。\nいろいろなと…",
-          "link": "https://qiita.com/C-Sharp_is_GOD/items/320c3fa93f55906b686f",
-          "publishedOn": "2024-12-16T22:05:16.000Z",
-          "wordCount": 2726,
-          "title": "UnityEditor拡張　お絵描き機能を実装する",
-          "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Fadvent-calendar-ogp-background-7940cd1c8db80a7ec40711d90f43539e.jpg%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnNlY3VyZS5ncmF2YXRhci5jb20lMkZhdmF0YXIlMkZkMTdjYWVhYWZkMWE5NzZiYWVjZDNjYzE2ZWNkMjM3YT9peGxpYj1yYi00LjAuMCZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmZm09cG5nMzImcz1jOTdlOTBmN2Q5YjQ1ZDdkNDQyZWFjOWIxOTQxZjRmYQ%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D6c9e78537ee0894d46f0c615ccac3026?ixlib=rb-4.0.0&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9VW5pdHlFZGl0b3IlRTYlOEIlQTElRTUlQkMlQjUlRTMlODAlODAlRTMlODElOEElRTclQjUlQjUlRTYlOEYlOEYlRTMlODElOEQlRTYlQTklOUYlRTglODMlQkQlRTMlODIlOTIlRTUlQUUlOUYlRTglQTMlODUlRTMlODElOTklRTMlODIlOEImdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzNBM0MzQyZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz00NTBmZDVmZDkwOTVhOGJhNmFiZGE1YjE2ZmE1ODA5Yg&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBDLVNoYXJwX2lzX0dPRCZ0eHQtY29sb3I9JTIzM0EzQzNDJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPTIyNTc5YTY4MjBmNjI4OWQ2ZjVkMDY3ZmE4MTU1Nzhj&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=e220b6e0d049356e8288293171d84de1"
         }
       ]
     },

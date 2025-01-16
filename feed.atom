@@ -2,10 +2,57 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-01-16T03:11:27.668Z</updated>
+    <updated>2025-01-16T08:12:11.783Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[CustomRenderTextureで前回パスの結果を取得する]]></title>
+        <id>https://zenn.dev/dimebag29/articles/1966223f6fb8e4</id>
+        <link href="https://zenn.dev/dimebag29/articles/1966223f6fb8e4"/>
+        <updated>2025-01-16T04:35:22.000Z</updated>
+        <summary type="html"><![CDATA[概要
+CustomRenderTexture(以降CRTと呼ぶ)ではDouble Bufferを使用することで前回フレームの結果を_SelfTexture2Dとして取得することができます。これと同じように、1フレームの間で、前回パスの結果を_SelfTexture2Dとして取得する方法を紹介します。
+
+ 環境
+
+Unity 2022.3.22f1
+
+
+ サンプルケース
+今回はCRTで
+
+Pass1で赤色のテクスチャを取得
+Pass2でPass1の結果に緑色を加算 → 黄色になる
+Pass3でPass2の結果に青色を加算 → 白色になる
+
+という3パスに渡った処理を行ってみます。Pas...]]></summary>
+        <author>
+            <name>dimebag29</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[作業をよりスムーズかつ効率的に。Substance 3D Designer 14.1 の新機能紹介（※英語ムービー）]]></title>
+        <id>https://3dtotal.jp/?p=49533</id>
+        <link href="https://3dtotal.jp/news/49533/"/>
+        <updated>2025-01-16T03:58:07.000Z</updated>
+        <summary type="html"><![CDATA[★4 New Features for Better User Experience in Substance 3D Designer（7分10秒） Substance 3D Designer に追加された最新機能のいく […]
+The post 作業をよりスムーズかつ効率的に。Substance 3D Designer 14.1 の新機能紹介（※英語ムービー） first appeared on 3dtotal 日本語オフィシャルサイト.]]></summary>
+        <author>
+            <name>3dtotal管理人T</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Split Blenderでレンダリング画像と作業中のビューをリアルタイムに比較しながら調整出来るアドオン]]></title>
+        <id>https://modelinghappy.com/?p=61119</id>
+        <link href="https://modelinghappy.com/archives/61119"/>
+        <updated>2025-01-16T03:21:14.000Z</updated>
+        <summary type="html"><![CDATA[Split #8211; Real Time Comparison SplitはBlenderでレンダリングした画像と作業中のビュー画面を左右に別けてリアルタイムに比較しながら作業中のモデルの色や質感を変更する事が可能
+The post Split Blenderでレンダリング画像と作業中のビューをリアルタイムに比較しながら調整出来るアドオン first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
+        <author>
+            <name>modelinghappy</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[スペースデータ＞＞No.2 宇宙開発の民主化を目指し、宇宙開発プラットフォームを提供 - 特集]]></title>
         <id>https://cgworld.jp/article/202501-spacedata-2.html</id>
@@ -3521,36 +3568,6 @@ The post Non-Destructive Primitives 作成したプリミティブを後から�
 …]]></summary>
         <author>
             <name>mayaタグが付けられた新着記事 - Qiita</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Non-Destructive Primitives - Geometry Nodesベースの非破壊プリミティブを追加できる無料のBlenderアドオン！Extensionsにて公開中！]]></title>
-        <id>https://3dnchu.com/?p=1047496</id>
-        <link href="https://3dnchu.com/archives/non-destructive-primitives/"/>
-        <updated>2024-12-17T18:46:41.000Z</updated>
-        <summary type="html"><![CDATA[Dan-Gry氏によるGeometry Nodesベースの非破壊プリミティブを追加できる無料のBlenderアドオン「Non-Destructive Primitives」がBlender Extensionsにて公開されました！]]></summary>
-        <author>
-            <name>Ymt3D -3dnchu-</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GAF: Gaussian Avatar Reconstruction from Monocular Videos via Multi-view Diffusion - スマホなどで撮影された単眼映像から高精度なアニメーション付きの頭部3D Gaussian Splattingを生成する技術！]]></title>
-        <id>https://3dnchu.com/?p=1047471</id>
-        <link href="https://3dnchu.com/archives/gaf-gaussian-avatar/"/>
-        <updated>2024-12-17T18:17:50.000Z</updated>
-        <summary type="html"><![CDATA[ミュンヘン工科大学、トヨタ モーター ヨーロッパ、ウーブン・バイ・トヨタの研究者らによる、スマホなどで撮影された単眼映像から高精度なアニメーション付きの頭部3D Gaussian Splattingを生成する技術「GAF」が発表されていました。]]></summary>
-        <author>
-            <name>Ymt3D -3dnchu-</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Emi 3 - AI Picasso株式会社によるイラスト・アニメ・マンガ生成に特化した商用利用可能な生成AI！無償公開！]]></title>
-        <id>https://3dnchu.com/?p=1047472</id>
-        <link href="https://3dnchu.com/archives/emi-3-ai-picasso/"/>
-        <updated>2024-12-17T18:03:26.000Z</updated>
-        <summary type="html"><![CDATA[「AIピカソ」「AI素材.com」「AIいらすとや」「Loose AI」などでお馴染みのAI Picasso株式会社が、イラストやアニメ、マンガ生成に特化しつつ、無断転載画像を学習していない商用利用可能な生成AI「Emi 3」を公開しました！]]></summary>
-        <author>
-            <name>Ymt3D -3dnchu-</name>
         </author>
     </entry>
 </feed>

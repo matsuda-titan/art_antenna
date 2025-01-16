@@ -2,10 +2,38 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-01-15T12:17:20.802Z</updated>
+    <updated>2025-01-16T00:43:56.778Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[スペースデータ＞＞No.2 宇宙開発の民主化を目指し、宇宙開発プラットフォームを提供 - 特集]]></title>
+        <id>https://cgworld.jp/article/202501-spacedata-2.html</id>
+        <link href="https://cgworld.jp/article/202501-spacedata-2.html"/>
+        <updated>2025-01-16T01:30:00.000Z</updated>
+        <summary type="html"><![CDATA[関連記事 ・Project PLATEAU＞＞No.1 衛星データと3DCG技...]]></summary>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WESL (WGSL の拡張) と Slang あたりの動向について調べてメモる]]></title>
+        <id>https://zenn.dev/yutannihilation/articles/4b5eefca3de5ef</id>
+        <link href="https://zenn.dev/yutannihilation/articles/4b5eefca3de5ef"/>
+        <updated>2025-01-15T12:50:19.000Z</updated>
+        <summary type="html"><![CDATA[少し前に Khronos 社が Slang イニシアチブを発表したときに、WESL に言及してる人がちらほらいて、あまり両者の位置づけがよくわかっていなかったので勉強がてらメモります。
+
+ WESL
+まずは WESL から見ていきましょう。
+WESL は、WebGPU のためのシェーダー言語 WGSL の拡張です。
+https://github.com/wgsl-tooling-wg/wesl-spec
+具体的には例えば、モジュール化されたコードを import で読み込めるようにする、みたいな仕組みが検討されているようです。
+こんな感じでインポートすると、
+import my/geom...]]></summary>
+        <author>
+            <name>yutannihilation</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【アドオン紹介】Split – マテリアルのビフォー・アフターをリアルタイムで比較！]]></title>
         <id>https://cgbox.jp/?p=61655</id>
@@ -3550,80 +3578,6 @@ Webサイトでの3DCGの表示にはThree.jsの使用を想定しています�
 知らなきゃ損！Maya作業効率を爆上げする隠れたショートカット集 first appeared on TECH ART ONLINE.]]></summary>
         <author>
             <name>管理人</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[『Christmas Eve 1843』のメイキング Part3：ペイントオーバー＆仕上げ]]></title>
-        <id>https://3dtotal.jp/?p=49129</id>
-        <link href="https://3dtotal.jp/tutorials/49129/"/>
-        <updated>2024-12-17T06:35:58.000Z</updated>
-        <summary type="html"><![CDATA[Criterion Games のコンセプトアーティスト Andy Walsh氏 が、3ds Max、Photoshop、V-Ray、DAZ 3D を使用して、「クリスマス・キャロル」の肌寒い 1シーンを制作するためのモ […]
-The post 『Christmas Eve 1843』のメイキング Part3：ペイントオーバー＆仕上げ first appeared on 3dtotal 日本語オフィシャルサイト.]]></summary>
-        <author>
-            <name>3dtotal管理人T</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[『呪縛少女バギラちゃん』　探偵事務所で巻き起こる不可思議な出来事を再現VTRとして映像化 - 連載]]></title>
-        <id>https://cgworld.jp/regular/316-vfx-bagira.html</id>
-        <link href="https://cgworld.jp/regular/316-vfx-bagira.html"/>
-        <updated>2024-12-17T04:42:00.000Z</updated>
-        <summary type="html"><![CDATA[『呪縛少女バギラちゃん』のVFXメイキング。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ドワーフの地下王国、カザド＝ドゥーム。『ロード・オブ・ザ・リング：力の指輪』シーズン2 の VFXブレイクダウン映像]]></title>
-        <id>https://3dtotal.jp/?p=49122</id>
-        <link href="https://3dtotal.jp/news/49122/"/>
-        <updated>2024-12-17T03:57:19.000Z</updated>
-        <summary type="html"><![CDATA[★The Rings of Power Season 2 | VFX Breakdown（6分36秒/ 制作：The Yard VFX） 『ロード・オブ・ザ・リング：力の指輪』シーズン2 で命を吹き込まれた壮大なドワーフ […]
-The post ドワーフの地下王国、カザド＝ドゥーム。『ロード・オブ・ザ・リング：力の指輪』シーズン2 の VFXブレイクダウン映像 first appeared on 3dtotal 日本語オフィシャルサイト.]]></summary>
-        <author>
-            <name>3dtotal管理人T</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Boris FX、トラッキング＆マスキングツール「Mocha Pro 2025」リリース！　AIを活用したロト＆マスクツール搭載 - ニュース]]></title>
-        <id>https://cgworld.jp/flashnews/202412-MochaPro2025.html</id>
-        <link href="https://cgworld.jp/flashnews/202412-MochaPro2025.html"/>
-        <updated>2024-12-17T03:08:03.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[カヤックアキバスタジオによる野心的プロジェクト「√EDEN」。実在のガールズバンドをmocopiとUnreal Engine 5でマルチバースの世界へ - スペシャルコンテンツ]]></title>
-        <id>https://cgworld.jp/special-feature/kayac-eden-202412.html</id>
-        <link href="https://cgworld.jp/special-feature/kayac-eden-202412.html"/>
-        <updated>2024-12-17T02:20:00.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Unity]３Ｄ？いいえ、一枚絵です。頂点変形でイラストを立体的に見せるネタ]]></title>
-        <id>https://qiita.com/flankids/items/c2a54b36a7e13cdb7563</id>
-        <link href="https://qiita.com/flankids/items/c2a54b36a7e13cdb7563"/>
-        <updated>2024-12-17T01:41:14.000Z</updated>
-        <summary type="html"><![CDATA[グレンジ Advent Calendar 2024 17日目担当の、flankidsです。
-普段は操作、アニメーション、カメラワークなどで遊び心地を作ることを主にやっています。楽しいものを作るのが好…]]></summary>
-        <author>
-            <name>グラフィックスタグが付けられた新着記事 - Qiita</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Unity]３Ｄ？いいえ、一枚絵です。頂点変形でイラストを立体的に見せるネタ]]></title>
-        <id>https://qiita.com/flankids/items/c2a54b36a7e13cdb7563</id>
-        <link href="https://qiita.com/flankids/items/c2a54b36a7e13cdb7563"/>
-        <updated>2024-12-17T01:41:14.000Z</updated>
-        <summary type="html"><![CDATA[グレンジ Advent Calendar 2024 17日目担当の、flankidsです。
-普段は操作、アニメーション、カメラワークなどで遊び心地を作ることを主にやっています。楽しいものを作るのが好…]]></summary>
-        <author>
-            <name>CGタグが付けられた新着記事 - Qiita</name>
         </author>
     </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-01-19T08:10:44.325Z</updated>
+    <updated>2025-01-19T12:14:53.160Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
@@ -3352,65 +3352,6 @@ The post 恐竜のいる神殿のコンセプトアートをBlenderとPhotoshop�
 The post AniDoc 線画のスケッチ動画と1枚の色の付いた参照画像を用意する事で自動的に線画に色を塗ってアニメーション動画を作成してくれるAniDocのコードがgithubで公開 first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
         <author>
             <name>modelinghappy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【Unity/URP】RenderMeshを使って残像を描画する]]></title>
-        <id>https://zenn.dev/kr405/articles/668c06213a8025</id>
-        <link href="https://zenn.dev/kr405/articles/668c06213a8025"/>
-        <updated>2024-12-21T00:00:01.000Z</updated>
-        <summary type="html"><![CDATA[RenderMeshとは
-RenderMeshは、名前のとおりメッシュを描画するためのGraphicsクラスの静的メソッドです。GameObjectを介さずにメッシュの描画を直接指示できるので、とにかくメッシュだけ描きたいというときに便利です。より詳しくは公式リファレンスで確認できます。
-ちなみに、同じメッシュを大量に描くためのRenderMeshInstancedやRenderMeshIndirectなどのメソッドも用意されています。
-
- 残像表現への活用
-ゲーム制作で残像を表現する際、最初はGameObjectを複製する方式で実装していたのですが、どうにも無駄を感じてしまい「シン...]]></summary>
-        <author>
-            <name>kr405</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Terrain Generator - プロシージャルに地形を生成出来るBlender 4.3向けGeometery Nodesモディファイア！無料配布中！]]></title>
-        <id>https://3dnchu.com/?p=1047521</id>
-        <link href="https://3dnchu.com/archives/terrain-generator-chuckcg/"/>
-        <updated>2024-12-20T22:14:13.000Z</updated>
-        <summary type="html"><![CDATA[ChuckCGによるBlender 4.3のGeometry Nodesを活用した地形生成.blendデータ「Terrain Generator」が無償公開されています！]]></summary>
-        <author>
-            <name>Ymt3D -3dnchu-</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NPR with Blender - Sticky Grease Pencil Showcase - Blender Studiosによる最新グリースペンシルなどを活用して制作された90年代の日本アニメ風ショートクリップ「Cowboi」のメイキング映像＆解説記事が公開！]]></title>
-        <id>https://3dnchu.com/?p=1047674</id>
-        <link href="https://3dnchu.com/archives/cowboi-making-blender-studios/"/>
-        <updated>2024-12-20T22:09:32.000Z</updated>
-        <summary type="html"><![CDATA[Blender Studiosによる最新グリースペンシルなどを活用して制作された90年代の日本アニメ風ショートクリップ「Cowboi」のメイキング動画＆解説記事が公開！]]></summary>
-        <author>
-            <name>Ymt3D -3dnchu-</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Maya - RenderOverrideで遊ぼう]]></title>
-        <id>https://qiita.com/jet-misoshil/items/a5be175133a6c3d16e6d</id>
-        <link href="https://qiita.com/jet-misoshil/items/a5be175133a6c3d16e6d"/>
-        <updated>2024-12-20T22:03:13.000Z</updated>
-        <summary type="html"><![CDATA[あいさつ
-今年はMayaのクラッシュではなく、とあるメーカーのCPUクラッシュで苦しめられた
-あまぐりです
-どうぞよろしくお願いします
-この記事は Maya Advent Calender 2024…]]></summary>
-        <author>
-            <name>mayaタグが付けられた新着記事 - Qiita</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Freebird XR v2 - BlenderをVRデバイス対応させ直感的な制御を実現するアドオン！]]></title>
-        <id>https://3dnchu.com/?p=1047681</id>
-        <link href="https://3dnchu.com/archives/freebird-xr-v2/"/>
-        <updated>2024-12-20T21:42:14.000Z</updated>
-        <summary type="html"><![CDATA[Freebird XRによるBlender向けVR対応プラグインの最新アップデート「Freebird XR v2」のご紹介！]]></summary>
-        <author>
-            <name>Ymt3D -3dnchu-</name>
         </author>
     </entry>
 </feed>

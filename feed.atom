@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-01-20T00:44:57.132Z</updated>
+    <updated>2025-01-20T03:12:41.008Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
@@ -3239,27 +3239,6 @@ https://qiita.com/9boz/items/d78e74f92d779b8a6ea6
 windowが小さいう…]]></summary>
         <author>
             <name>mayaタグが付けられた新着記事 - Qiita</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WebGPU で実装したリアルタイム 3D 流体シミュレーションの紹介]]></title>
-        <id>https://zenn.dev/sparkle/articles/217cc2bb44fd9e</id>
-        <link href="https://zenn.dev/sparkle/articles/217cc2bb44fd9e"/>
-        <updated>2024-12-21T15:00:01.000Z</updated>
-        <summary type="html"><![CDATA[!
-この記事は，グラフィックス全般 Advent Calendar 2024 の 22 日目の記事です．
-
-ブラウザ上で動作するリアルタイム 3D 流体シミュレーションを，WebGPU を使って実装しました．
-
-Demo（WebGPU に対応したブラウザが必要です．）
-https://webgpu-ocean.netlify.app/
-Repository
-https://github.com/matsuoka-601/webgpu-ocean
-Demo Video
-https://www.youtube.com/watch?v=XZ7N5zII9vs
-本記事では，主に以下の 3 つにつ...]]></summary>
-        <author>
-            <name>matsuoka-601</name>
         </author>
     </entry>
 </feed>

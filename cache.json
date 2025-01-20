@@ -2695,21 +2695,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--_zOAvsT---/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E7%2584%25A1%25E6%2596%2599API%25E3%2583%25BB%25E3%2582%25AA%25E3%2583%25BC%25E3%2583%2597%25E3%2583%25B3%25E3%2583%2587%25E3%2583%25BC%25E3%2582%25BF%25E4%25B8%2580%25E8%25A6%25A7%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%258D%25E3%2581%25AA%25E3%2581%2593%25E6%2581%2590%25E7%25AB%259C%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jSXBVSDh2UWZMQ0hYNlFxcHdQRWxFQlNMZlZnNGU4UDlvUDFvZVJOWHZNTmhPV05RPXM5Ni1j%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
-        },
-        {
-          "id": "https://zenn.dev/sparkle/articles/217cc2bb44fd9e",
-          "author": "matsuoka-601",
-          "description": "!\nこの記事は，グラフィックス全般 Advent Calendar 2024 の 22 日目の記事です．\n\nブラウザ上で動作するリアルタイム 3D 流体シミュレーションを，WebGPU を使って実装しました．\n\nDemo（WebGPU に対応したブラウザが必要です．）\nhttps://webgpu-ocean.netlify.app/\nRepository\nhttps://github.com/matsuoka-601/webgpu-ocean\nDemo Video\nhttps://www.youtube.com/watch?v=XZ7N5zII9vs\n本記事では，主に以下の 3 つにつ...",
-          "link": "https://zenn.dev/sparkle/articles/217cc2bb44fd9e",
-          "publishedOn": "2024-12-21T15:00:01.000Z",
-          "wordCount": 1377,
-          "title": "WebGPU で実装したリアルタイム 3D 流体シミュレーションの紹介",
-          "enclosure": {
-            "url": "https://res.cloudinary.com/zenn/image/upload/s--n7yQmZrI--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:WebGPU%2520%25E3%2581%25A7%25E5%25AE%259F%25E8%25A3%2585%25E3%2581%2597%25E3%2581%259F%25E3%2583%25AA%25E3%2582%25A2%25E3%2583%25AB%25E3%2582%25BF%25E3%2582%25A4%25E3%2583%25A0%25203D%2520%25E6%25B5%2581%25E4%25BD%2593%25E3%2582%25B7%25E3%2583%259F%25E3%2583%25A5%25E3%2583%25AC%25E3%2583%25BC%25E3%2582%25B7%25E3%2583%25A7%25E3%2583%25B3%25E3%2581%25AE%25E7%25B4%25B9%25E4%25BB%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:matsuoka-601%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jTFdlWDU3WmVCejFrS2J3MEYtUFhnZUZrS1EzNXVtV3VUUFQyNm1NbmZyPXM5Ni1j%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png",
-            "length": "0",
-            "type": "image/png"
-          },
-          "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--n7yQmZrI--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:WebGPU%2520%25E3%2581%25A7%25E5%25AE%259F%25E8%25A3%2585%25E3%2581%2597%25E3%2581%259F%25E3%2583%25AA%25E3%2582%25A2%25E3%2583%25AB%25E3%2582%25BF%25E3%2582%25A4%25E3%2583%25A0%25203D%2520%25E6%25B5%2581%25E4%25BD%2593%25E3%2582%25B7%25E3%2583%259F%25E3%2583%25A5%25E3%2583%25AC%25E3%2583%25BC%25E3%2582%25B7%25E3%2583%25A7%25E3%2583%25B3%25E3%2581%25AE%25E7%25B4%25B9%25E4%25BB%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:matsuoka-601%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jTFdlWDU3WmVCejFrS2J3MEYtUFhnZUZrS1EzNXVtV3VUUFQyNm1NbmZyPXM5Ni1j%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
         }
       ]
     },

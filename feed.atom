@@ -2,10 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-01-21T12:17:43.016Z</updated>
+    <updated>2025-01-22T00:44:52.654Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Project PLATEAU＞＞No.3 民間のアイデアを集め、ソリューションを生み出す - 特集]]></title>
+        <id>https://cgworld.jp/article/202501-plateau-3.html</id>
+        <link href="https://cgworld.jp/article/202501-plateau-3.html"/>
+        <updated>2025-01-22T01:30:00.000Z</updated>
+        <summary type="html"><![CDATA[関連記事 ・Project PLATEAU＞＞No.1 誰もが開発にコミットで...]]></summary>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[挫折させないHoudiniドリル補足:Recipe（レシピ）機能]]></title>
+        <id>https://zenn.dev/kickbase/articles/cd2f250014ec38</id>
+        <link href="https://zenn.dev/kickbase/articles/cd2f250014ec38"/>
+        <updated>2025-01-21T10:00:05.000Z</updated>
+        <summary type="html"><![CDATA[本記事は拙書挫折させないHoudiniドリルの補足です。
+
+本文49ページから解説しているPreset機能はHoudini20.5からRecipeというものに代替されることとなりました。本記事執筆時点（2025/01/21）ではまだPreset機能にアクセスできますが、今後使われなくなることが想定されるのでRecipeを学んでおきましょう。Presetの機能に加え、より強力で柔軟なシステムになっています。
+
+ [旧機能] PresetのUI変更
+書籍に解説している通り、既存のPresetシステムはパラメータエディタ内にあるParameter Edit Menu（歯車マーク）から保存・呼び...]]></summary>
+        <author>
+            <name>めんたいこ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【アドオン紹介】Cinepack + The Particle Library + Truedepth + True Fire Bundle – すべてのアドオンを網羅したお得なバンドル！]]></title>
         <id>https://cgbox.jp/?p=61791</id>
@@ -3208,62 +3233,6 @@ The post Blenderで無料でテクスチャ管理出来るアドオンucupaint�
 The post Blender Photoscan Blender内で複数の写真から3Dモデルを作成出来るアドオン first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
         <author>
             <name>modelinghappy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【アセット紹介】50 Models Of Warrior Helmet – 50種のヘルメットのベースメッシュコレクション！]]></title>
-        <id>https://cgbox.jp/?p=61266</id>
-        <link href="https://cgbox.jp/2024/12/23/news-asset-50-models-of-warrior-helmet/"/>
-        <updated>2024-12-23T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは！ 今回は「50 Models Of Warrior Helmet – Helmet Military – Army And Weapons-Weapons & Armor-Vo […]]]></summary>
-        <author>
-            <name>UEDA</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Unityでアフィン変換をプリミティブに実装してみる]]></title>
-        <id>https://qiita.com/lain_xr/items/5c1234e03f28983c667d</id>
-        <link href="https://qiita.com/lain_xr/items/5c1234e03f28983c667d"/>
-        <updated>2024-12-23T04:24:36.000Z</updated>
-        <summary type="html"><![CDATA[はじめに
-こんにちは！カバー株式会社でインターンをしています。
-本記事はカバー株式会社 Advent Calendar 2024の23日の記事です。
-11月末にCGエンジニア検定エキスパートを受験し…]]></summary>
-        <author>
-            <name>3DCGタグが付けられた新着記事 - Qiita</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【Unity】シェーダーの半透過ブレンドモードに関する考察]]></title>
-        <id>https://qiita.com/hikoalpha/items/9f574e7e90568c6a4874</id>
-        <link href="https://qiita.com/hikoalpha/items/9f574e7e90568c6a4874"/>
-        <updated>2024-12-23T03:54:09.000Z</updated>
-        <summary type="html"><![CDATA[はじめに
-Unity Recorderではカメラのレンダリングの結果を画像や映像素材として出力することができます。このとき半透過のオブジェクトがある場合、出力されるレンダリング結果はシェーダーのブレ…]]></summary>
-        <author>
-            <name>Shaderタグが付けられた新着記事 - Qiita</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ジェームズ・ガン監督が贈る完全なる新作。映画『スーパーマン』のトレーラー（英語／日本語）]]></title>
-        <id>https://3dtotal.jp/?p=49240</id>
-        <link href="https://3dtotal.jp/news/49240/"/>
-        <updated>2024-12-23T01:42:04.000Z</updated>
-        <summary type="html"><![CDATA[★Superman | Official Teaser Trailer（2分19秒） ★映画『スーパーマン』超＜スーパー＞特報（2分19秒） 『ガーディアンズ・オブ・ギャラクシー』シリーズ ジェームズ・ガン監督が贈る、完 […]
-The post ジェームズ・ガン監督が贈る完全なる新作。映画『スーパーマン』のトレーラー（英語／日本語） first appeared on 3dtotal 日本語オフィシャルサイト.]]></summary>
-        <author>
-            <name>3dtotal管理人T</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[舞い上がるドラゴン！『ハウス・オブ・ザ・ドラゴン』シーズン2 のバーチャルプロダクション ブレイクダウン映像]]></title>
-        <id>https://3dtotal.jp/?p=49233</id>
-        <link href="https://3dtotal.jp/news/49233/"/>
-        <updated>2024-12-23T01:37:27.000Z</updated>
-        <summary type="html"><![CDATA[★Let the Dragons Soar - House of the Dragon S2 | Virtual Production Breakdown（7分21秒） 『ハウス・オブ・ザ・ドラゴン』シーズン2 における […]
-The post 舞い上がるドラゴン！『ハウス・オブ・ザ・ドラゴン』シーズン2 のバーチャルプロダクション ブレイクダウン映像 first appeared on 3dtotal 日本語オフィシャルサイト.]]></summary>
-        <author>
-            <name>3dtotal管理人T</name>
         </author>
     </entry>
 </feed>

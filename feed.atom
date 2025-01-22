@@ -2,10 +2,69 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-01-22T03:13:03.747Z</updated>
+    <updated>2025-01-22T08:12:58.634Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[画像・動画生成AIプラットフォーム「KREA」に画像から3Dオブジェクトへの変換機能が追加！　モデルを動かすたびにリアルタイムで画像生成 - ニュース]]></title>
+        <id>https://cgworld.jp/flashnews/202501-KREA-AI.html</id>
+        <link href="https://cgworld.jp/flashnews/202501-KREA-AI.html"/>
+        <updated>2025-01-22T06:44:58.000Z</updated>
+        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Even Edges 乱れたエッジを整列、移動して三角形でも調整出来るアドオン]]></title>
+        <id>https://modelinghappy.com/?p=61197</id>
+        <link href="https://modelinghappy.com/archives/61197"/>
+        <updated>2025-01-22T05:02:26.000Z</updated>
+        <summary type="html"><![CDATA[Even Edges Even EdgesはBlenderで選択したエッジをスプラインとして扱いそのスプラインに沿って均等に頂点を整列してくれるアドオンです。 多角形でも等間隔に配列可能で、エッジを綺麗に整列する以外に片
+The post Even Edges 乱れたエッジを整列、移動して三角形でも調整出来るアドオン first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
+        <author>
+            <name>modelinghappy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CurveFitting元の形状をキープしながら不揃いの頂点を滑らかに整列出来る Blender用無料アドオン]]></title>
+        <id>https://modelinghappy.com/?p=61190</id>
+        <link href="https://modelinghappy.com/archives/61190"/>
+        <updated>2025-01-22T03:46:39.000Z</updated>
+        <summary type="html"><![CDATA[CurveFitting CurveFittingはZuda77さんが作成したBlenderで元の形状をキープしながら不揃いの頂点を滑らかに整列出来るアドオンです。 アドオンを使用するには頂点またはエッジを選択して右クリ
+The post CurveFitting元の形状をキープしながら不揃いの頂点を滑らかに整列出来る Blender用無料アドオン first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
+        <author>
+            <name>modelinghappy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unity Shader GraphでNamed Redirectを作ってみた]]></title>
+        <id>https://zenn.dev/matrixsoftware/articles/bdd465cc9f906d</id>
+        <link href="https://zenn.dev/matrixsoftware/articles/bdd465cc9f906d"/>
+        <updated>2025-01-22T03:00:01.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは！
+株式会社マトリックス 開発部 技術課の雉鳥です！
+今回は、Shader Graph のノード整理に役立つ「Named Redirect」機能を実装してみたので、その過程と効果についてご紹介します。
+Unreal Engine の Material Editor にある Named Reroute のようなものを Shader Graph に導入することで、ノードグラフの可読性を向上させることができました。
+
+ Named Redirectってなに？
+Named Redirect は、Shader Graph 内のノード接続を、名前を介して行う機能です。
+値を「Set ノード...]]></summary>
+        <author>
+            <name>株式会社マトリックス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Luma AI、「Dream Machine」で利用可能な新しい動画生成モデル「Ray2」発表！　自然で一貫した動きのリアルな映像を生成 - ニュース]]></title>
+        <id>https://cgworld.jp/flashnews/202501-Luma-Ray2.html</id>
+        <link href="https://cgworld.jp/flashnews/202501-Luma-Ray2.html"/>
+        <updated>2025-01-22T02:45:29.000Z</updated>
+        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[セル画風に描く。Marc Brunet氏の「MY FULL CEL-SHADING DRAWING PROCESS」(※英語ムービー)]]></title>
         <id>https://3dtotal.jp/?p=49585</id>
@@ -3223,33 +3282,6 @@ https://qiita.com/advent-calendar/2024/hikky
 The post 凍てつく氷の世界。海外ドラマ『スノーピアサー』ファイナルシーズン の VFXブレイクダウン映像 first appeared on 3dtotal 日本語オフィシャルサイト.]]></summary>
         <author>
             <name>3dtotal管理人T</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ロングネームで保存する]]></title>
-        <id>https://qiita.com/UnitBus/items/172d23df25747eeb739b</id>
-        <link href="https://qiita.com/UnitBus/items/172d23df25747eeb739b"/>
-        <updated>2024-12-23T17:18:30.000Z</updated>
-        <summary type="html"><![CDATA[挨拶
-今年は書く予定なかったのですが、24日が空いてたので投稿です。
-概要
-Mayaでデータを検証する際に、maで保存してテキスト見る事が多いかと思います。
-意外と知られてないみたいなので、ちょっと…]]></summary>
-        <author>
-            <name>mayaタグが付けられた新着記事 - Qiita</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【Minecraft】デタパについて書かれてたからリソパシェーダーについて（GLSL）]]></title>
-        <id>https://qiita.com/boo_manKnow/items/b892ae2cbe8edf57b68d</id>
-        <link href="https://qiita.com/boo_manKnow/items/b892ae2cbe8edf57b68d"/>
-        <updated>2024-12-23T15:26:01.000Z</updated>
-        <summary type="html"><![CDATA[この記事はNihon University Advent Calendar 2024の24日目の記事です。
-
-この記事はJava版1.21.4向けの記事です。
-リソースパックは、Java版（PC版）と…]]></summary>
-        <author>
-            <name>GLSLタグが付けられた新着記事 - Qiita</name>
         </author>
     </entry>
 </feed>

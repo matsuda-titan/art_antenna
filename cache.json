@@ -1228,6 +1228,26 @@
       "siteUrl": "https://cgworld.jp/",
       "articles": [
         {
+          "id": "https://cgworld.jp/flashnews/202501-KREA-AI.html",
+          "author": null,
+          "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
+          "link": "https://cgworld.jp/flashnews/202501-KREA-AI.html",
+          "publishedOn": "2025-01-22T06:44:58.000Z",
+          "wordCount": 755,
+          "title": "画像・動画生成AIプラットフォーム「KREA」に画像から3Dオブジェクトへの変換機能が追加！　モデルを動かすたびにリアルタイムで画像生成 - ニュース",
+          "imageUrl": "https://cgworld.jp/flashnews/assets_c/2025/01/KREA-01-thumb-1080x608-65038.jpg"
+        },
+        {
+          "id": "https://cgworld.jp/flashnews/202501-Luma-Ray2.html",
+          "author": null,
+          "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
+          "link": "https://cgworld.jp/flashnews/202501-Luma-Ray2.html",
+          "publishedOn": "2025-01-22T02:45:29.000Z",
+          "wordCount": 1012,
+          "title": "Luma AI、「Dream Machine」で利用可能な新しい動画生成モデル「Ray2」発表！　自然で一貫した動きのリアルな映像を生成 - ニュース",
+          "imageUrl": "https://cgworld.jp/flashnews/assets_c/2025/01/Luma_Ray2-01-thumb-1280x720-65033.jpg"
+        },
+        {
           "id": "https://cgworld.jp/article/202501-plateau-3.html",
           "author": null,
           "description": "関連記事 ・Project PLATEAU＞＞No.1 誰もが開発にコミットで...",
@@ -1868,6 +1888,26 @@
       "feedUrl": "https://modelinghappy.com/feed",
       "siteUrl": "https://modelinghappy.com",
       "articles": [
+        {
+          "id": "https://modelinghappy.com/?p=61197",
+          "author": "modelinghappy",
+          "description": "Even Edges Even EdgesはBlenderで選択したエッジをスプラインとして扱いそのスプラインに沿って均等に頂点を整列してくれるアドオンです。 多角形でも等間隔に配列可能で、エッジを綺麗に整列する以外に片\nThe post Even Edges 乱れたエッジを整列、移動して三角形でも調整出来るアドオン first appeared on 3DCG最新情報サイト MODELING HAPPY.",
+          "link": "https://modelinghappy.com/archives/61197",
+          "publishedOn": "2025-01-22T05:02:26.000Z",
+          "wordCount": 3472,
+          "title": "Even Edges 乱れたエッジを整列、移動して三角形でも調整出来るアドオン",
+          "imageUrl": "https://modelinghappy.com/wp-content/uploads/2025/01/20250122_evenedges_01.jpg"
+        },
+        {
+          "id": "https://modelinghappy.com/?p=61190",
+          "author": "modelinghappy",
+          "description": "CurveFitting CurveFittingはZuda77さんが作成したBlenderで元の形状をキープしながら不揃いの頂点を滑らかに整列出来るアドオンです。 アドオンを使用するには頂点またはエッジを選択して右クリ\nThe post CurveFitting元の形状をキープしながら不揃いの頂点を滑らかに整列出来る Blender用無料アドオン first appeared on 3DCG最新情報サイト MODELING HAPPY.",
+          "link": "https://modelinghappy.com/archives/61190",
+          "publishedOn": "2025-01-22T03:46:39.000Z",
+          "wordCount": 3459,
+          "title": "CurveFitting元の形状をキープしながら不揃いの頂点を滑らかに整列出来る Blender用無料アドオン",
+          "imageUrl": "https://modelinghappy.com/wp-content/uploads/2025/01/20250122_CurveFitting.jpg"
+        },
         {
           "id": "https://modelinghappy.com/?p=61175",
           "author": "modelinghappy",
@@ -2657,6 +2697,21 @@
       "siteUrl": "https://zenn.dev/topics/shadergraph",
       "articles": [
         {
+          "id": "https://zenn.dev/matrixsoftware/articles/bdd465cc9f906d",
+          "author": "株式会社マトリックス",
+          "description": "こんにちは！\n株式会社マトリックス 開発部 技術課の雉鳥です！\n今回は、Shader Graph のノード整理に役立つ「Named Redirect」機能を実装してみたので、その過程と効果についてご紹介します。\nUnreal Engine の Material Editor にある Named Reroute のようなものを Shader Graph に導入することで、ノードグラフの可読性を向上させることができました。\n\n Named Redirectってなに？\nNamed Redirect は、Shader Graph 内のノード接続を、名前を介して行う機能です。\n値を「Set ノード...",
+          "link": "https://zenn.dev/matrixsoftware/articles/bdd465cc9f906d",
+          "publishedOn": "2025-01-22T03:00:01.000Z",
+          "wordCount": null,
+          "title": "Unity Shader GraphでNamed Redirectを作ってみた",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--0U6xsXeM--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Unity%2520Shader%2520Graph%25E3%2581%25A7Named%2520Redirect%25E3%2582%2592%25E4%25BD%259C%25E3%2581%25A3%25E3%2581%25A6%25E3%2581%25BF%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E6%25A0%25AA%25E5%25BC%258F%25E4%25BC%259A%25E7%25A4%25BE%25E3%2583%259E%25E3%2583%2588%25E3%2583%25AA%25E3%2583%2583%25E3%2582%25AF%25E3%2582%25B9%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2FmODRhNGY0MTEuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png",
+            "length": "0",
+            "type": "image/png"
+          },
+          "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--0U6xsXeM--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Unity%2520Shader%2520Graph%25E3%2581%25A7Named%2520Redirect%25E3%2582%2592%25E4%25BD%259C%25E3%2581%25A3%25E3%2581%25A6%25E3%2581%25BF%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E6%25A0%25AA%25E5%25BC%258F%25E4%25BC%259A%25E7%25A4%25BE%25E3%2583%259E%25E3%2583%2588%25E3%2583%25AA%25E3%2583%2583%25E3%2582%25AF%25E3%2582%25B9%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2FmODRhNGY0MTEuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
+        },
+        {
           "id": "https://zenn.dev/simsimworld/articles/f014b9c0bd16c2",
           "author": "sim",
           "description": "【概要】\n下記動画を見て自分でもFullScreenShaderGraphを使ってみたいと思い\n「FullScreenShaderGraph」で画面転換表現用のMaterialを作成してみました。\n今回はその忘備録用のざっくりとした記事としていますので、ShaderGraph関連の説明は省いています\nhttps://youtu.be/7Cd7kQl6N50?si=ESCX8MxcUDm8NqFZ\n【 使用環境 】\n\nUnityバージョン：6000.0.31f1.7976.6018\n\n【全体的な流れ】\n下記手順にそって、画面転換用のMaterialを作成し描画設定を変更します。\nその後Ma...",
@@ -2944,16 +2999,6 @@
           "wordCount": 806,
           "title": "3Dモデラーいちねんめのロングヘア制作記録【アバターメイカー】",
           "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYzOTU2NDcwJTJGZmMzZTY3N2Y2MWE0YzUzMzExZDBkODVlMTA1ZWU1NmU4NzZmNjk4MCUyRmxhcmdlLnBuZyUzRjE3MzQ2OTIyMzI_aXhsaWI9cmItNC4wLjAmYXI9MSUzQTEmZml0PWNyb3AmbWFzaz1lbGxpcHNlJmZtPXBuZzMyJnM9NTY5NjIyNzY2OWQ1NWQ3MWRhOTQyY2E2OTgyMDcxNTg%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D1690116955520382bf068a8530273084?ixlib=rb-4.0.0&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9M0QlRTMlODMlQTIlRTMlODMlODclRTMlODMlQTklRTMlODMlQkMlRTMlODElODQlRTMlODElQTElRTMlODElQUQlRTMlODIlOTMlRTMlODIlODElRTMlODElQUUlRTMlODMlQUQlRTMlODMlQjMlRTMlODIlQjAlRTMlODMlOTglRTMlODIlQTIlRTUlODglQjYlRTQlQkQlOUMlRTglQTglOTglRTklOEMlQjIlRTMlODAlOTAlRTMlODIlQTIlRTMlODMlOTAlRTMlODIlQkYlRTMlODMlQkMlRTMlODMlQTElRTMlODIlQTQlRTMlODIlQUIlRTMlODMlQkMlRTMlODAlOTEmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz1iYzBkMTkwNjVkMzFkNWE2Zjk1N2M1NzEyMjNiNjQ5Nw&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBvbWFjaGFyb3MmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz0wMWRlOGFiZTA3N2JkOTczMjlhOGJiMTZhYjhiZDhhZA&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=d31f59a426b1dd010273bb20ac3764dd"
-        },
-        {
-          "id": "https://qiita.com/UnitBus/items/172d23df25747eeb739b",
-          "author": null,
-          "description": "挨拶\n今年は書く予定なかったのですが、24日が空いてたので投稿です。\n概要\nMayaでデータを検証する際に、maで保存してテキスト見る事が多いかと思います。\n意外と知られてないみたいなので、ちょっと…",
-          "link": "https://qiita.com/UnitBus/items/172d23df25747eeb739b",
-          "publishedOn": "2024-12-23T17:18:30.000Z",
-          "wordCount": 514,
-          "title": "ロングネームで保存する",
-          "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnFpaXRhLWltYWdlLXN0b3JlLnMzLmFtYXpvbmF3cy5jb20lMkYwJTJGOTk1NTQlMkZwcm9maWxlLWltYWdlcyUyRjE0NzM3MDc4Mjc_aXhsaWI9cmItNC4wLjAmYXI9MSUzQTEmZml0PWNyb3AmbWFzaz1lbGxpcHNlJmZtPXBuZzMyJnM9YjllNDQ3NjQzZmZkZGI1OGJhOTY2ZWY4NmFjMDc3MzQ%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D778c605e2f2b73d623da28189721fd40?ixlib=rb-4.0.0&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9JUUzJTgzJUFEJUUzJTgzJUIzJUUzJTgyJUIwJUUzJTgzJThEJUUzJTgzJUJDJUUzJTgzJUEwJUUzJTgxJUE3JUU0JUJGJTlEJUU1JUFEJTk4JUUzJTgxJTk5JUUzJTgyJThCJnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9ZjdkYjhmMjMzMzNlZWQ1MGM0MGFiYWVlMjJhYjVhNGE&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBVbml0QnVzJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9NTQxOGE1ZWNlMGM0ZGY2NjcxZTVhNzJjNDUxYzU5Nzg&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=e11bc9f571bb05cad28b5c0cf535a9d9"
         }
       ]
     },
@@ -3287,16 +3332,6 @@
           "wordCount": 5037,
           "title": "[Babylon.js] Parallaxとレイマーチングで平面の中に部屋を作る（Fake Interior）",
           "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Fadvent-calendar-ogp-background-7940cd1c8db80a7ec40711d90f43539e.jpg%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRmxoMy5nb29nbGV1c2VyY29udGVudC5jb20lMkZhJTJGQUNnOG9jTGRxUE1lWkFNQ3R1MnFOVXhvTzREY2dZc3BIWnUwNUpnRzlSSTVlcmxINXI0VE9BJTNEczk2LWM_aXhsaWI9cmItNC4wLjAmYXI9MSUzQTEmZml0PWNyb3AmbWFzaz1lbGxpcHNlJmZtPXBuZzMyJnM9N2MwZThhOTRkM2Q5OTFlODNiNGY3MGEwNGFiZWQ3YjA%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D74783d61e19664f11dea2ee667c24b94?ixlib=rb-4.0.0&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9JTVCQmFieWxvbi5qcyU1RCUyMFBhcmFsbGF4JUUzJTgxJUE4JUUzJTgzJUFDJUUzJTgyJUE0JUUzJTgzJTlFJUUzJTgzJUJDJUUzJTgzJTgxJUUzJTgzJUIzJUUzJTgyJUIwJUUzJTgxJUE3JUU1JUI5JUIzJUU5JTlEJUEyJUUzJTgxJUFFJUU0JUI4JUFEJUUzJTgxJUFCJUU5JTgzJUE4JUU1JUIxJThCJUUzJTgyJTkyJUU0JUJEJTlDJUUzJTgyJThCJUVGJUJDJTg4RmFrZSUyMEludGVyaW9yJUVGJUJDJTg5JnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMzQTNDM0MmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9MGU0ODlmNWI0MTBjOWZkMzE4MDhhYWU2ZWUxOTRiODk&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDB5YV9uX24mdHh0LWNvbG9yPSUyMzNBM0MzQyZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz1jZDZiZWVmMGM1ZjgxMDRjOGMyYjIxZWZkM2FiMzE0Nw&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=6bcbd44469046a7855c0505878160299"
-        },
-        {
-          "id": "https://qiita.com/boo_manKnow/items/b892ae2cbe8edf57b68d",
-          "author": null,
-          "description": "この記事はNihon University Advent Calendar 2024の24日目の記事です。\n\nこの記事はJava版1.21.4向けの記事です。\nリソースパックは、Java版（PC版）と…",
-          "link": "https://qiita.com/boo_manKnow/items/b892ae2cbe8edf57b68d",
-          "publishedOn": "2024-12-23T15:26:01.000Z",
-          "wordCount": 1638,
-          "title": "【Minecraft】デタパについて書かれてたからリソパシェーダーについて（GLSL）",
-          "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Fadvent-calendar-ogp-background-7940cd1c8db80a7ec40711d90f43539e.jpg%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnFpaXRhLWltYWdlLXN0b3JlLnMzLmFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkYwJTJGMzc4MTgyNyUyRnByb2ZpbGUtaW1hZ2VzJTJGMTcyODQ2NDgyMj9peGxpYj1yYi00LjAuMCZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmZm09cG5nMzImcz02MmU2YzU2ZjFjY2Q2MzZkMGEyYjVlZjVkNjdmMmE1NA%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D74ada5d990f0acccefdf36b181760aff?ixlib=rb-4.0.0&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9JUUzJTgwJTkwTWluZWNyYWZ0JUUzJTgwJTkxJUUzJTgzJTg3JUUzJTgyJUJGJUUzJTgzJTkxJUUzJTgxJUFCJUUzJTgxJUE0JUUzJTgxJTg0JUUzJTgxJUE2JUU2JTlCJUI4JUUzJTgxJThCJUUzJTgyJThDJUUzJTgxJUE2JUUzJTgxJTlGJUUzJTgxJThCJUUzJTgyJTg5JUUzJTgzJUFBJUUzJTgyJUJEJUUzJTgzJTkxJUUzJTgyJUI3JUUzJTgyJUE3JUUzJTgzJUJDJUUzJTgzJTgwJUUzJTgzJUJDJUUzJTgxJUFCJUUzJTgxJUE0JUUzJTgxJTg0JUUzJTgxJUE2JUVGJUJDJTg4R0xTTCVFRiVCQyU4OSZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZ0eHQtY29sb3I9JTIzM0EzQzNDJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnR4dC1wYWQ9MCZzPTc2NTM3MWRmOGY0NjIxMTVlNGI3MGYyYjkxMGRiMjRm&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBib29fbWFuS25vdyZ0eHQtY29sb3I9JTIzM0EzQzNDJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPWFhMTFjZDk2MzdmMmVjZDljNjY4MWY3Mjk0NzlhNzI0&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=330e57fff747c59a6551797e4084d715"
         }
       ]
     },

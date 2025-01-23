@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-01-22T12:17:33.635Z</updated>
+    <updated>2025-01-23T00:44:08.521Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[「電音部シンサイバシエリア」ILCA Lab X teamが生み出す、ド派手なリアルタイムライブ＞＞No.1 キャラクター＆ステージ制作 - 特集]]></title>
+        <id>https://cgworld.jp/article/202501-denonbu-1.html</id>
+        <link href="https://cgworld.jp/article/202501-denonbu-1.html"/>
+        <updated>2025-01-23T01:30:00.000Z</updated>
+        <summary type="html"><![CDATA[※本記事は月刊 『CGWORLD + digital video』vol.31...]]></summary>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Blender 3D for Beginners: Complete Modeling & Texturing guide - Jose Arley Moreno氏（Parabox）によるBlenderの初心者向けコース！Wingfoxにて取り扱い開始！]]></title>
+        <id>https://3dnchu.com/?p=1050955</id>
+        <link href="https://3dnchu.com/archives/parabox-blender-3d-for-beginners-wingfox/"/>
+        <updated>2025-01-22T21:53:58.000Z</updated>
+        <summary type="html"><![CDATA[コロンビアのデジタルアーティストのJose Arley Moreno氏（Parabox）によるBlenderの初心者向けコース「Blender 3D for Beginners: Complete Modeling & Texturing guide」がCG＆デジタルアート学習オンラインプラットフォーム「WINGFOX」にて取り扱い開始されています。]]></summary>
+        <author>
+            <name>Ymt3D -3dnchu-</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ACT: Game Asset Creation Toolset 2025 - Blenderからゲームエンジンなどに出力する際に便利なツールセットアドオン！最新アップデートが公開！無料です！]]></title>
+        <id>https://3dnchu.com/?p=1050946</id>
+        <link href="https://3dnchu.com/archives/act-game-asset-creation-toolset-2025/"/>
+        <updated>2025-01-22T21:20:42.000Z</updated>
+        <summary type="html"><![CDATA[Ivan Vostrikov氏によるBlenderからゲームエンジンなどに出力する際に便利なツールセットアドオン 「ACT: Game Asset Creation Toolset」のバージョン2025がリリースされました！]]></summary>
+        <author>
+            <name>Ymt3D -3dnchu-</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【アセット紹介】50 Pieces Graffiti Decal Pack Vol 03 – グラフィティのデカールコレクション！]]></title>
         <id>https://cgbox.jp/?p=61823</id>
@@ -86,6 +116,23 @@ The post Even Edges 乱れたエッジを整列、移動して三角形でも調
 The post CurveFitting元の形状をキープしながら不揃いの頂点を滑らかに整列出来る Blender用無料アドオン first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
         <author>
             <name>modelinghappy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unity Shader GraphでNamed Redirectを作ってみた]]></title>
+        <id>https://zenn.dev/matrixsoftware/articles/bdd465cc9f906d</id>
+        <link href="https://zenn.dev/matrixsoftware/articles/bdd465cc9f906d"/>
+        <updated>2025-01-22T03:00:01.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは！
+株式会社マトリックス 開発部 技術課の雉鳥です！
+今回は、Shader Graph のノード整理に役立つ「Named Redirect」機能を実装してみたので、その過程と効果についてご紹介します。
+Unreal Engine の Material Editor にある Named Reroute のようなものを Shader Graph に導入することで、ノードグラフの可読性を向上させることができました。
+
+ Named Redirectってなに？
+Named Redirect は、Shader Graph 内のノード接続を、名前を介して行う機能です。
+値を「Set ノード...]]></summary>
+        <author>
+            <name>株式会社マトリックス</name>
         </author>
     </entry>
     <entry>
@@ -3235,103 +3282,6 @@ The post VFXスタジオ Framestore の ショーリール 2024 first appeared o
 https://qiita.com/9boz/items/c78177d5...]]></summary>
         <author>
             <name>gacha</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Overlap Helper Mayaで髪の毛や尻尾や洋服や偽の筋肉の動きを簡単に作成出来るスクリプト]]></title>
-        <id>https://modelinghappy.com/?p=60812</id>
-        <link href="https://modelinghappy.com/archives/60812"/>
-        <updated>2024-12-24T11:11:26.000Z</updated>
-        <summary type="html"><![CDATA[Overlap Helper Overlap HelperはMayaで髪の毛や尻尾や洋服や偽の筋肉の動きを自然にシミュレーションされたような動きをオーバーラップしてアニメーションを簡単に作成出来るスクリプトです。 事前に
-The post Overlap Helper Mayaで髪の毛や尻尾や洋服や偽の筋肉の動きを簡単に作成出来るスクリプト first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
-        <author>
-            <name>modelinghappy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【アセット紹介】String Lights – カスタマイズ可能なクリスマスライト！]]></title>
-        <id>https://cgbox.jp/?p=61281</id>
-        <link href="https://cgbox.jp/2024/12/24/news-asset-string-lights/"/>
-        <updated>2024-12-24T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは！ 今回は「String Lights」を紹介します。 String Lights 「String Lights」は、カスタマイズ可能なクリスマスライトになります。 カーブを描くだけで簡単にシーンに追加すること […]]]></summary>
-        <author>
-            <name>UEDA</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【アセット紹介】Bedrooms – 簡単に奥行きのあるベッドルームを追加！]]></title>
-        <id>https://cgbox.jp/?p=61271</id>
-        <link href="https://cgbox.jp/2024/12/24/news-asset-bedrooms/"/>
-        <updated>2024-12-24T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは！ 今回は「Bedrooms – Parallax Rooms – One Click Interiors」を紹介します。 Bedrooms – Parallax Rooms […]]]></summary>
-        <author>
-            <name>UEDA</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【インタビュー】プロジェクトからできる限り多くのことを学ぶ：キャラクターアーティスト Mehmet Mert Ergüden 氏]]></title>
-        <id>https://3dtotal.jp/?p=49282</id>
-        <link href="https://3dtotal.jp/features/49282/"/>
-        <updated>2024-12-24T09:07:38.000Z</updated>
-        <summary type="html"><![CDATA[Q. 自己紹介をお願いします こんにちは! 私は Mert Mert Ergüden、独学のキャラクターアーティストです。ストックホルムの Goodbye Kansas でフェイシャルモデラー、Riot Games での […]
-The post 【インタビュー】プロジェクトからできる限り多くのことを学ぶ：キャラクターアーティスト Mehmet Mert Ergüden 氏 first appeared on 3dtotal 日本語オフィシャルサイト.]]></summary>
-        <author>
-            <name>3dtotal管理人T</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hard Surface Modeling for Beginners - Blender SecretsのJan van den Hemel氏による初心者向けハードサーフェスモデリングチュートリアルコース！標準機能のみかつモディファイアを駆使したワークフローを解説！]]></title>
-        <id>https://3dnchu.com/?p=1047668</id>
-        <link href="https://3dnchu.com/archives/hard-surface-modeling-for-beginners/"/>
-        <updated>2024-12-24T08:22:22.000Z</updated>
-        <summary type="html"><![CDATA[Blender向けのTips動画コンテンツでもお馴染み、Jan van den Hemel氏による、初心者向けハードサーフェスモデリング解説チュートリアル「Hard Surface Modeling for Beginners」が販売開始されました！]]></summary>
-        <author>
-            <name>Ymt3D -3dnchu-</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3Dモデラーいちねんめのロングヘア制作記録【アバターメイカー】]]></title>
-        <id>https://qiita.com/omacharos/items/99a2637a2aad818b7a48</id>
-        <link href="https://qiita.com/omacharos/items/99a2637a2aad818b7a48"/>
-        <updated>2024-12-24T04:59:02.000Z</updated>
-        <summary type="html"><![CDATA[本稿は VR法人HIKKY Advent Calendar 2024 の 23日目の記事です。
-https://qiita.com/advent-calendar/2024/hikky
-昨日の記事は @tuchinikoma…]]></summary>
-        <author>
-            <name>mayaタグが付けられた新着記事 - Qiita</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3Dモデラーいちねんめのロングヘア制作記録【アバターメイカー】]]></title>
-        <id>https://qiita.com/omacharos/items/99a2637a2aad818b7a48</id>
-        <link href="https://qiita.com/omacharos/items/99a2637a2aad818b7a48"/>
-        <updated>2024-12-24T04:59:02.000Z</updated>
-        <summary type="html"><![CDATA[本稿は VR法人HIKKY Advent Calendar 2024 の 23日目の記事です。
-https://qiita.com/advent-calendar/2024/hikky
-昨日の記事は @tuchinikoma…]]></summary>
-        <author>
-            <name>3DCGタグが付けられた新着記事 - Qiita</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenVAT - Blender上で手軽にVAT（頂点アニメーションテクスチャ）をベイク出来る無料アドオン！Extensionsでも提供中！]]></title>
-        <id>https://3dnchu.com/?p=1044954</id>
-        <link href="https://3dnchu.com/archives/openvat/"/>
-        <updated>2024-12-24T02:07:11.000Z</updated>
-        <summary type="html"><![CDATA[Blender上で手軽にVAT（頂点アニメーションテクスチャ）をベイク出来る無料アドオン「OpenVAT」がBlender Extensionsで公開されています！]]></summary>
-        <author>
-            <name>Ymt3D -3dnchu-</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[凍てつく氷の世界。海外ドラマ『スノーピアサー』ファイナルシーズン の VFXブレイクダウン映像]]></title>
-        <id>https://3dtotal.jp/?p=49251</id>
-        <link href="https://3dtotal.jp/news/49251/"/>
-        <updated>2024-12-24T01:53:25.000Z</updated>
-        <summary type="html"><![CDATA[★Snowpiercer: Season 4 | Breakdown Reel（4分35秒/ 制作：Image Engine） 『スノーピアサー』の凍てつく世界を支える魔法を解き明かしましょう。『スノーピアサー』ファイナ […]
-The post 凍てつく氷の世界。海外ドラマ『スノーピアサー』ファイナルシーズン の VFXブレイクダウン映像 first appeared on 3dtotal 日本語オフィシャルサイト.]]></summary>
-        <author>
-            <name>3dtotal管理人T</name>
         </author>
     </entry>
 </feed>

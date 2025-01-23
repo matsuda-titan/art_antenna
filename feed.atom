@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-01-23T00:44:08.521Z</updated>
+    <updated>2025-01-23T03:11:21.882Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
@@ -3263,25 +3263,6 @@ The post VFXスタジオ Framestore の ショーリール 2024 first appeared o
         <summary type="html"><![CDATA[Jawsetから、撮影した動画や写真からNeRFや3D Gaussian Splattingを生成しレンダリング可能なソフト『Postshot』のベータ版が無料公開されました。AEに読み込むプラグインもありますよ！]]></summary>
         <author>
             <name>Ymt3D -3dnchu-</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ノードの親子関係を解除するときにoutlinerの並び順を壊さない方法]]></title>
-        <id>https://zenn.dev/gacha0923/articles/reorder_outliner</id>
-        <link href="https://zenn.dev/gacha0923/articles/reorder_outliner"/>
-        <updated>2024-12-24T13:26:11.000Z</updated>
-        <summary type="html"><![CDATA[概要
-最近アウトライナーで親子関係を解除すると、並び順が降順に変わってしまうことが多く、
-なんだかなという気持ちになる事が多いので、この機にスクリプトを作ってみようと思います。
-アウトライナーだと表示状態によっては、親子関係を解除することが難しい場合もあるので、
-そういう煩わしさも同時に解決できるかなと思います。
-
- はじめに
-色々調べていたら、Maya Advent Callender 2022で@9boz(kubo)さんが記事を2つ書かれていたので、
-それを応用させてもらいながら設計していこうと思います。
-https://qiita.com/9boz/items/c78177d5...]]></summary>
-        <author>
-            <name>gacha</name>
         </author>
     </entry>
 </feed>

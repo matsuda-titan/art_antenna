@@ -2,10 +2,39 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-01-24T12:17:18.051Z</updated>
+    <updated>2025-01-25T00:42:31.923Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【MotionBuilder】Python SDK 入門 第9回 『UI・ツール開発 - 実践』]]></title>
+        <id>https://zenn.dev/nadegata_memo/articles/mobu_pyfbsdk_intro_09</id>
+        <link href="https://zenn.dev/nadegata_memo/articles/mobu_pyfbsdk_intro_09"/>
+        <updated>2025-01-25T00:19:44.000Z</updated>
+        <summary type="html"><![CDATA[この記事は、Python SDK 入門 の第9回目の記事です。
+https://zenn.dev/nadegata_memo/articles/77a0fbce3b3387
+この記事が Python SDK 入門の最終回となります。今回は、第7回・8回で扱ってきたUI・ツール開発の実践編として、Qt（PySide）を用いた実際のツール開発の方法と応用例を説明します。
+
+
+ 1. FBWidgetHolderクラス
+
+ 1.1. クラス概要
+
+Native Widget Holder (can be used to embed native Qt Widget inside MoBu UI...]]></summary>
+        <author>
+            <name>Ndgt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BBTools Glow & Glare - 非破壊的なグロー＆グレア効果を簡単に追加出来るPhotoshop用プラグイン！]]></title>
+        <id>https://3dnchu.com/?p=1051109</id>
+        <link href="https://3dnchu.com/archives/bbtools-glow-glare/"/>
+        <updated>2025-01-24T20:55:20.000Z</updated>
+        <summary type="html"><![CDATA[BBTools （Bogdan Bogdanović氏）によるグロー＆グレア効果付与Photoshopプラグイン「BBTools Glow Glare」がリリースされました！]]></summary>
+        <author>
+            <name>Ymt3D -3dnchu-</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【アセット紹介】75 Ornament Alphas + Vdm Brushes Vol 1 – 簡単にオブジェクトを装飾！]]></title>
         <id>https://cgbox.jp/?p=61867</id>
@@ -3135,103 +3164,6 @@ ExtractFaces とか DuplicateFacesなんですが、
 faceを抽出することで…]]></summary>
         <author>
             <name>mayaタグが付けられた新着記事 - Qiita</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MapLibre GL JSでダムに沈んだ村を可視化する]]></title>
-        <id>https://qiita.com/satoshi7190/items/1c751cdc529ee215f18d</id>
-        <link href="https://qiita.com/satoshi7190/items/1c751cdc529ee215f18d"/>
-        <updated>2024-12-26T10:07:58.000Z</updated>
-        <summary type="html"><![CDATA[DEMOはこちら
-https://satoshi7190.github.io/tokuyama-village-map/
-ソースコードはこちら
-https://github.com/satoshi…]]></summary>
-        <author>
-            <name>Shaderタグが付けられた新着記事 - Qiita</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MapLibre GL JSでダムに沈んだ村を可視化する]]></title>
-        <id>https://qiita.com/satoshi7190/items/1c751cdc529ee215f18d</id>
-        <link href="https://qiita.com/satoshi7190/items/1c751cdc529ee215f18d"/>
-        <updated>2024-12-26T10:07:58.000Z</updated>
-        <summary type="html"><![CDATA[DEMOはこちら
-https://satoshi7190.github.io/tokuyama-village-map/
-ソースコードはこちら
-https://github.com/satoshi…]]></summary>
-        <author>
-            <name>GLSLタグが付けられた新着記事 - Qiita</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[『イカゲーム』で世界を席巻したGulliver Studiosの信条とワークフロー - 特集]]></title>
-        <id>https://cgworld.jp/article/202412-cgw317-gulliver.html</id>
-        <link href="https://cgworld.jp/article/202412-cgw317-gulliver.html"/>
-        <updated>2024-12-26T09:00:00.000Z</updated>
-        <summary type="html"><![CDATA[※本記事は、月刊『CGWORLD + digital video』vol.31...]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【Blender】VeAble涌井嶺が小規模制作にオススメのVFXテクニックを紹介。Razer Blade 16のパフォーマンス検証も #MADEWITHBLADE - スペシャルコンテンツ]]></title>
-        <id>https://cgworld.jp/special-feature/202412-blender-vfx-madewithblade.html</id>
-        <link href="https://cgworld.jp/special-feature/202412-blender-vfx-madewithblade.html"/>
-        <updated>2024-12-26T07:57:52.000Z</updated>
-        <summary type="html"><![CDATA[【Razer Blade】リアリティのある世界観を作るには？　涌井嶺が実践する効果的なグリーンバック撮影とBlenderによるCG・VFXワークを解説]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meta、AIアバターの動作基盤モデル「Meta Motivo」公開！　トレーニングや事前データセットなしでリアルなモーションを実現 - ニュース]]></title>
-        <id>https://cgworld.jp/flashnews/202412-Meta-Motivo.html</id>
-        <link href="https://cgworld.jp/flashnews/202412-Meta-Motivo.html"/>
-        <updated>2024-12-26T05:23:25.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[社長対談 VTuberに乙女ゲームを自社開発 1948年創業の老舗自動車部品メーカーがエンタメ企業をM&Aした理由とは？ - スペシャルコンテンツ]]></title>
-        <id>https://cgworld.jp/special-feature/2412-elfin.html</id>
-        <link href="https://cgworld.jp/special-feature/2412-elfin.html"/>
-        <updated>2024-12-26T04:30:00.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[もしもアベンジャーズたちに別の運命が待っていたとしたら。マーベル・アニメ『ホワット・イフ…？』シーズン3 のトレーラー＆メイキング映像]]></title>
-        <id>https://3dtotal.jp/?p=49305</id>
-        <link href="https://3dtotal.jp/news/49305/"/>
-        <updated>2024-12-26T04:15:04.000Z</updated>
-        <summary type="html"><![CDATA[★シーズン3 トレーラー：Marvel Animation's What If...? Season 3（2分19秒） ★ブレイクダウン：Marvel Animation's What If...? | Scene Br […]
-The post もしもアベンジャーズたちに別の運命が待っていたとしたら。マーベル・アニメ『ホワット・イフ...？』シーズン3 のトレーラー＆メイキング映像 first appeared on 3dtotal 日本語オフィシャルサイト.]]></summary>
-        <author>
-            <name>3dtotal管理人T</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[第7回：柔軟に対応できるマテリアル制作 -Substance 3D Designerの活用事例- - 連載]]></title>
-        <id>https://cgworld.jp/regular/guncys-ue5-007.html</id>
-        <link href="https://cgworld.jp/regular/guncys-ue5-007.html"/>
-        <updated>2024-12-26T02:50:00.000Z</updated>
-        <summary type="html"><![CDATA[プロシージャルフロー×UE5で挑む映像制作]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【FlexiSpot】C7 Air – 全体メッシュ生地のオフィスチェア]]></title>
-        <id>https://cgbox.jp/?p=55914</id>
-        <link href="https://cgbox.jp/2024/12/26/gadjet-c7air/"/>
-        <updated>2024-12-26T02:00:01.000Z</updated>
-        <summary type="html"><![CDATA[こちらの記事はプロモーションを含みます。 こんにちは。 今回はガジェットレビュー記事です！ オシャレなオフィスチェア「C7 Air」を提供していただいたので、CGbox編集部がレビューしていきます。 【公式製品ページ】  […]]]></summary>
-        <author>
-            <name>UEDA</name>
         </author>
     </entry>
 </feed>

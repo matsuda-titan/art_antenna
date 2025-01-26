@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-01-26T08:10:40.148Z</updated>
+    <updated>2025-01-26T12:14:58.044Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[オープンベータ中「Nuke 16.0」のマルチショットワークフローの可能性　TA／TD向けイベントレポート - ニュース]]></title>
+        <id>https://cgworld.jp/flashnews/nuke-160tatd.html</id>
+        <link href="https://cgworld.jp/flashnews/nuke-160tatd.html"/>
+        <updated>2025-01-26T10:19:32.000Z</updated>
+        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【アセット紹介】Blender Brush Pack- Seam On Fabric – 20種類のステッチブラシセット！]]></title>
+        <id>https://cgbox.jp/?p=61954</id>
+        <link href="https://cgbox.jp/2025/01/26/news-asset-blender-brush-pack-seam-on-fabric/"/>
+        <updated>2025-01-26T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは！ 今回は「Blender Brush Pack- Seam On Fabric」を紹介します。 Blender Brush Pack- Seam On Fabric 「Blender Brush Pack-  […]]]></summary>
+        <author>
+            <name>UEDA</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【初心者向け】ランドスケープ機能を使って地形を作成する方法【UE5】]]></title>
         <id>https://cgbox.jp/?p=61902</id>
@@ -3129,24 +3149,6 @@ The post Blender初心者の為の書籍 10日でBlender練習帳 あかりの�
 　まず角度を決める。そのうちひとつは簡単のため$\pi/2$とする。それは双曲平面だと直線というの…]]></summary>
         <author>
             <name>GLSLタグが付けられた新着記事 - Qiita</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【Unity/URP】ポストエフェクトの上からメッシュを描画する]]></title>
-        <id>https://zenn.dev/kr405/articles/8d8600db8f46bb</id>
-        <link href="https://zenn.dev/kr405/articles/8d8600db8f46bb"/>
-        <updated>2024-12-28T00:00:01.000Z</updated>
-        <summary type="html"><![CDATA[※この記事は前回の記事を前提とした内容です。
-
- はじめに
-前回、Graphics.RenderMesh()というメソッドを使って残像を描く方法について書きました。
-今回は、このプロジェクトを拡張する形でポストエフェクト後にメッシュを描画する方法について紹介したいと思います。
-なお、こちらで紹介する方法はURPのプロジェクトを前提としていますが、URPの導入方法については解説していないのでご了承ください。
-
- 何が変わるか
-ポストエフェクトは、オブジェクトの描画を終えた後にスクリーン全体にかかるエフェクトです。しかしながら、｢ここはポストエフェクトかからないでほしいのにな...｣という場...]]></summary>
-        <author>
-            <name>kr405</name>
         </author>
     </entry>
 </feed>

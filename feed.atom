@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-01-25T12:14:55.935Z</updated>
+    <updated>2025-01-26T00:45:30.028Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Delta Quad 多角形モデルでも四角形の分割した細かいトポロジーに１クリックして変換してくれるBlender用アドオン]]></title>
+        <id>https://modelinghappy.com/?p=61228</id>
+        <link href="https://modelinghappy.com/archives/61228"/>
+        <updated>2025-01-26T00:39:30.000Z</updated>
+        <summary type="html"><![CDATA[Delta Quad モデリングに便利なアドオンを多数作成しているkusiroCGさんが新しく多角形モデルでも四角形の分割した細かいトポロジーに１クリックして変換してくれるDelta Quadをリリースしました。 アドオ
+The post Delta Quad 多角形モデルでも四角形の分割した細かいトポロジーに１クリックして変換してくれるBlender用アドオン first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
+        <author>
+            <name>modelinghappy</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【アドオン紹介】Jekshape – 2D図形から3Dオブジェクトを生成！]]></title>
         <id>https://cgbox.jp/?p=61887</id>
@@ -3089,133 +3100,6 @@ The post Blender初心者の為の書籍 10日でBlender練習帳 あかりの�
         <summary type="html"><![CDATA[VoxonによるVoxon VX2-XL - 360度裸眼で見回せる3D立体ホログラムディスプレイのご紹介。]]></summary>
         <author>
             <name>Ymt3D -3dnchu-</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GLSLでヘリンボーン模様]]></title>
-        <id>https://zenn.dev/aadebdeb/articles/47cb2c17450d11</id>
-        <link href="https://zenn.dev/aadebdeb/articles/47cb2c17450d11"/>
-        <updated>2024-12-27T12:04:25.000Z</updated>
-        <summary type="html"><![CDATA[ヘリンボーン(herringbone)模様はニシン(herring)などの魚を開いたときの骨(bone)に似ていることから名づけられた四角形を敷き詰めた繰り返し模様です。この記事ではGLSLでヘリンボーン模様を実装します。
-https://en.wikipedia.org/wiki/Herringbone_pattern
-https://ja.wikipedia.org/wiki/ヘリンボーン_(模様)
-ヘリンボーン模様には、長方形を敷き詰めるパターンと長方形ではない平行四辺形を敷き詰めるパターンが存在します。日本の文様としては前者は桧垣文様、後者は杉綾文様に対応します。また、床のフロー...]]></summary>
-        <author>
-            <name>Atsushi Asakura</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GLSLでヘリンボーン模様]]></title>
-        <id>https://zenn.dev/aadebdeb/articles/glsl-herringbone-pattern</id>
-        <link href="https://zenn.dev/aadebdeb/articles/glsl-herringbone-pattern"/>
-        <updated>2024-12-27T12:04:00.000Z</updated>
-        <summary type="html"><![CDATA[ヘリンボーン(herringbone)模様はニシン(herring)などの魚を開いたときの骨(bone)に似ていることから名づけられた四角形を敷き詰めた繰り返し模様です。この記事ではGLSLでヘリンボーン模様を実装します。
-https://en.wikipedia.org/wiki/Herringbone_pattern
-https://ja.wikipedia.org/wiki/ヘリンボーン_(模様)
-ヘリンボーン模様には、長方形を敷き詰めるパターンと長方形ではない平行四辺形を敷き詰めるパターンが存在します。日本の文様としては前者は桧垣文様、後者は杉綾文様に対応します。また、床のフロー...]]></summary>
-        <author>
-            <name>Atsushi Asakura</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cell Fluid上s 2.0リアルな液体を疑似的なシミュレーションによって作成出来るCellfluidsがバージョン2.0にアップグレード]]></title>
-        <id>https://modelinghappy.com/?p=60830</id>
-        <link href="https://modelinghappy.com/archives/60830"/>
-        <updated>2024-12-27T11:05:00.000Z</updated>
-        <summary type="html"><![CDATA[Cell Fluids 2.0 Blenderでリアルな液体を疑似的なシミュレーションによって作成出来るCellfluidsがバージョン2.0にアップグレードされました。 カーブに沿って液体の流れを作成、液体の分割数を上
-The post Cell Fluid上s 2.0リアルな液体を疑似的なシミュレーションによって作成出来るCellfluidsがバージョン2.0にアップグレード first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
-        <author>
-            <name>modelinghappy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【Maya】オパシティマップを削除したら真っ黒になったときの対処法]]></title>
-        <id>https://qiita.com/keffu/items/d145cd829f8980ebacf1</id>
-        <link href="https://qiita.com/keffu/items/d145cd829f8980ebacf1"/>
-        <updated>2024-12-27T08:24:20.000Z</updated>
-        <summary type="html"><![CDATA[はじめに
-初めまして。Maya初心者です。作業中に困ったことなどメモしていこうと思います。
-今回はオパシティマップのノードを削除したら真っ黒になって困ったときの対処法です。
-オパシティマップあり
-以…]]></summary>
-        <author>
-            <name>mayaタグが付けられた新着記事 - Qiita</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【Maya】オパシティマップを削除したら真っ黒になったときの対処法]]></title>
-        <id>https://qiita.com/keffu/items/d145cd829f8980ebacf1</id>
-        <link href="https://qiita.com/keffu/items/d145cd829f8980ebacf1"/>
-        <updated>2024-12-27T08:24:20.000Z</updated>
-        <summary type="html"><![CDATA[はじめに
-初めまして。Maya初心者です。作業中に困ったことなどメモしていこうと思います。
-今回はオパシティマップのノードを削除したら真っ黒になって困ったときの対処法です。
-オパシティマップあり
-以…]]></summary>
-        <author>
-            <name>3DCGタグが付けられた新着記事 - Qiita</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rally - UE5をフル活用して制作！改造ラリーカーで国境越えを試みる密輸業者を描いたアクションスリラーショートフィルム！]]></title>
-        <id>https://3dnchu.com/?p=1047937</id>
-        <link href="https://3dnchu.com/archives/rally-ue5-santiago-menghini/"/>
-        <updated>2024-12-27T06:59:42.000Z</updated>
-        <summary type="html"><![CDATA[映像監督でVFXアーティストのSantiago Menghini氏によるアクションスリラーショートフィルム「Rally」がYoutube上で公開されています！]]></summary>
-        <author>
-            <name>Ymt3D -3dnchu-</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[日テレとMeta Questがコラボし、INIの8K VRパフォーマンス、 動くMRアクスタを配信－次世代エンタメプロジェクト始動 - ニュース]]></title>
-        <id>https://cgworld.jp/flashnews/2412-ini-ntv-metaquest.html</id>
-        <link href="https://cgworld.jp/flashnews/2412-ini-ntv-metaquest.html"/>
-        <updated>2024-12-27T06:10:01.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NVIDIA、メッシュ生成モデル「Meshtron」発表！　アーティストが制作するような高品質・実用的なトポロジーを生成可能 - ニュース]]></title>
-        <id>https://cgworld.jp/flashnews/202412-NVIDIA-Meshtron.html</id>
-        <link href="https://cgworld.jp/flashnews/202412-NVIDIA-Meshtron.html"/>
-        <updated>2024-12-27T03:49:55.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Blender 4.3 テクスチャペイント入門＆新ブラシ紹介（※英語ムービー）]]></title>
-        <id>https://3dtotal.jp/?p=49323</id>
-        <link href="https://3dtotal.jp/tutorials/49323/"/>
-        <updated>2024-12-27T02:38:46.000Z</updated>
-        <summary type="html"><![CDATA[★Blender 4.3 Texture Painting: Beginner's Guide & New Brushes（11分53秒） 英国の 3Dアーティスト・映像制作者・講師 Grant Abbitt 氏 制作  […]
-The post Blender 4.3 テクスチャペイント入門＆新ブラシ紹介（※英語ムービー） first appeared on 3dtotal 日本語オフィシャルサイト.]]></summary>
-        <author>
-            <name>3dtotal管理人T</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「DUNE/デューン 砂の惑星」の1万年前を描く。海外ドラマ『Dune: Prophecy』のトレーラー＆メイキング映像]]></title>
-        <id>https://3dtotal.jp/?p=49333</id>
-        <link href="https://3dtotal.jp/news/49333/"/>
-        <updated>2024-12-27T02:38:27.000Z</updated>
-        <summary type="html"><![CDATA[★How the Dune: Prophecy Visual Effects Were Made（5分17秒） ★Dune: Prophecy | Official Series Trailer（2分49秒） 作家 フラ […]
-The post 「DUNE/デューン 砂の惑星」の1万年前を描く。海外ドラマ『Dune: Prophecy』のトレーラー＆メイキング映像 first appeared on 3dtotal 日本語オフィシャルサイト.]]></summary>
-        <author>
-            <name>3dtotal管理人T</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[好きなものは正義！ まめたろう謹製の"プルプル表現"がCHOCOLATEの短編アニメに採用されたわけ｜#プチアニメ『SWEETS MATE』 - 特集]]></title>
-        <id>https://cgworld.jp/article/202412-sweetsmate-mametarouboy.html</id>
-        <link href="https://cgworld.jp/article/202412-sweetsmate-mametarouboy.html"/>
-        <updated>2024-12-27T00:44:41.000Z</updated>
-        <summary type="html"><![CDATA[#プチアニメ CHOCOLATEが認めた、3Dアーティスト まめたろうのプルプル表現。]]></summary>
-        <author>
-            <name>CGWORLD</name>
         </author>
     </entry>
 </feed>

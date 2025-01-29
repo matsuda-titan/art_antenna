@@ -2,10 +2,88 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-01-28T12:17:27.702Z</updated>
+    <updated>2025-01-29T00:44:13.785Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[劇場版『ウマ娘 プリティーダービー 新時代の扉』CygamesPicturesのCGスタッフが語るBlenderの活用～あにつく2024（1） - 特集]]></title>
+        <id>https://cgworld.jp/article/202501-atsuc2024-01.html</id>
+        <link href="https://cgworld.jp/article/202501-atsuc2024-01.html"/>
+        <updated>2025-01-29T01:44:50.000Z</updated>
+        <summary type="html"><![CDATA[「あにつく2024」CygamesPicturesセミナー「劇場版 ウマ娘プリティーダービー 新時代の扉 Blender活用事例と課題 ～ 実際に運用してみてどうだった？編 ～」レポート]]></summary>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TVアニメ『アオのハコ』Houdiniの活用により同時進行型ワークフローを構築し導入〜（1）ワークフロー構築篇 - 特集]]></title>
+        <id>https://cgworld.jp/article/2412-aonohako01.html</id>
+        <link href="https://cgworld.jp/article/2412-aonohako01.html"/>
+        <updated>2025-01-29T00:43:47.000Z</updated>
+        <summary type="html"><![CDATA[TVアニメ『アオのハコ』のアニメCGメイキングを紹介。]]></summary>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hunyuan3D 2.0 Blender Addon - Tencentによる3Dアセット生成用AIモデルの最新バージョン！ローカルAPIサーバー経由でBlender上からも利用可能なアドオンも登場！]]></title>
+        <id>https://3dnchu.com/?p=1051242</id>
+        <link href="https://3dnchu.com/archives/hunyuan3d-2-0-blender-addon/"/>
+        <updated>2025-01-28T23:53:56.000Z</updated>
+        <summary type="html"><![CDATA[2日前に紹介したテンセントによる3Dアセット生成AIモデル「Hunyuan3D 2.0」ですが同日にBlender用アドオンも登場したらしいです。]]></summary>
+        <author>
+            <name>Ymt3D -3dnchu-</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hair Brick Pro 6.0 - Blender用のヘアー構築支援ツールセットアドオンの最新メジャーアップデートがリリース！]]></title>
+        <id>https://3dnchu.com/?p=1051232</id>
+        <link href="https://3dnchu.com/archives/hair-brick-pro-6-0/"/>
+        <updated>2025-01-28T23:29:14.000Z</updated>
+        <summary type="html"><![CDATA[Luwizart氏による、Blender用のヘアー構築支援ツールセットアドオンの最新メジャーアップデート「Hair Brick Pro 6.0」がリリースされました！]]></summary>
+        <author>
+            <name>Ymt3D -3dnchu-</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SideFXでHoudiniを教えるさつき先生がマウスコンピューターDAIVのハイエンドPC、DAIV FW-P6N60を検証。その実力は？ - 特集]]></title>
+        <id>https://cgworld.jp/article/2501-satsuki-mouse.html</id>
+        <link href="https://cgworld.jp/article/2501-satsuki-mouse.html"/>
+        <updated>2025-01-28T13:21:56.000Z</updated>
+        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Unity][SRP]レンダーパイプラインを自作する その1]]></title>
+        <id>https://zenn.dev/nithink/articles/3810a563f2e2d6</id>
+        <link href="https://zenn.dev/nithink/articles/3810a563f2e2d6"/>
+        <updated>2025-01-28T12:41:30.000Z</updated>
+        <summary type="html"><![CDATA[概要
+UnityのCore RP Library（SRP）を使用して一から独自のレンダーパイプラインを制作する際に、引っかかったこと、気づいたこと、気を付けるべきポイントなどメモも兼ねてまとめています。
+実践編以降は他サイトの情報とはなるべく重複しないようにしているため、補助資料としてお役に立てばと思います。
+バージョンはUnity6000.0で、RenderGraphやnative render pass（以下NRP）を使うことを前提としています。
+筆者自身まだまだ学習の途上にあるので、記事内容は必ずしも最適な手法でなかったり、的外れな言及があったりするかもしれません。
+またSRP...]]></summary>
+        <author>
+            <name>Nithink</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【Unity】サーフェスシェーダーで Grab Pass を使うと出るエラーを解消する]]></title>
+        <id>https://qiita.com/yuri_tsukimi/items/a6fe1a5128e93029a8e3</id>
+        <link href="https://qiita.com/yuri_tsukimi/items/a6fe1a5128e93029a8e3"/>
+        <updated>2025-01-28T12:19:07.000Z</updated>
+        <summary type="html"><![CDATA[Unity 2022.3.22f1 における内容です。
+
+概要
+サーフェスシェーダーで Grab Pass を使うときに、Unity のマクロ UNITY_DECLARE_SCREENSPACE_T…]]></summary>
+        <author>
+            <name>Shaderタグが付けられた新着記事 - Qiita</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Auto-Rig Pro: Easy-Animations - 15種の生物リグ＆アニメーションを収録した「Auto-Rig Pro」拡張Blenderアドオン！]]></title>
         <id>https://3dnchu.com/?p=1051217</id>
@@ -14,6 +92,16 @@
         <summary type="html"><![CDATA[TRBassetsによる15種の生物リグ＆アニメーションを収録した「Auto-Rig Pro」拡張Blenderアドオン「Auto-Rig Pro: Easy-Animations」がリリースされました！]]></summary>
         <author>
             <name>Ymt3D -3dnchu-</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Netflixシリーズ『今際の国のアリス』、『幽☆遊☆白書』を手がけたことでも知られるTHE SEVENが新たな実写映像化プロジェクト『国民クイズ』を発表。Netflixで世界独占配信決定 - ニュース]]></title>
+        <id>https://cgworld.jp/flashnews/202501-TheSeven-KokuminQuiz.html</id>
+        <link href="https://cgworld.jp/flashnews/202501-TheSeven-KokuminQuiz.html"/>
+        <updated>2025-01-28T11:12:52.000Z</updated>
+        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
+        <author>
+            <name>CGWORLD</name>
         </author>
     </entry>
     <entry>
@@ -3224,104 +3312,6 @@ The post GamiFlow ゲーム用モデルを作る場合のベイク素材を作�
 実際に運用してちょっとコンストレインまわり…]]></summary>
         <author>
             <name>mayaタグが付けられた新着記事 - Qiita</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GLSLでひし形(rhombille)タイリング]]></title>
-        <id>https://zenn.dev/aadebdeb/articles/abd6d1aa974da3</id>
-        <link href="https://zenn.dev/aadebdeb/articles/abd6d1aa974da3"/>
-        <updated>2024-12-30T11:14:01.000Z</updated>
-        <summary type="html"><![CDATA[60度と120度のひし形で平面を敷き詰めるタイリングをひし形(rhombille)タイリングと言います。この記事ではGLSLでひし形タイリングを実装します。
-https://en.wikipedia.org/wiki/Rhombille_tiling
-コードはGLSL Sandbox互換になっています。
-precision highp float;
-
-uniform vec2 resolution;
-
-#define PI 3.14159265359
-
-mat2 rotate(float r) {
-    float c = cos(r);
-    float s = sin(r);
- ...]]></summary>
-        <author>
-            <name>Atsushi Asakura</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【UE5】映画のような自動車走行シーン作成チュートリアルをレビュー！]]></title>
-        <id>https://cgbox.jp/?p=61295</id>
-        <link href="https://cgbox.jp/2024/12/30/wingfox-tutorial-ue5caranimation/"/>
-        <updated>2024-12-30T10:58:40.000Z</updated>
-        <summary type="html"><![CDATA[こんにちは！ 今回はWingfoxで公開されている「Unreal Engine 5 – The Complete Automotive Cinematic Course」を受講したので、レビューしていきたいと […]]]></summary>
-        <author>
-            <name>CGbox編集部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【Unity】平面の鏡面反射を読み解く]]></title>
-        <id>https://qiita.com/hikoalpha/items/8445109a20b8139ce7b5</id>
-        <link href="https://qiita.com/hikoalpha/items/8445109a20b8139ce7b5"/>
-        <updated>2024-12-30T07:01:55.000Z</updated>
-        <summary type="html"><![CDATA[はじめに
-平面上で鏡面反射を実現するには、反射する平面と対となる反射用のカメラで構成するPlaner Reflectionと呼ばれる手法が用いられます。鏡面反射は床の情報量を簡単に増やせる一方、反射…]]></summary>
-        <author>
-            <name>Shaderタグが付けられた新着記事 - Qiita</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[VRスカルプトツール「Shapelab 2025」リリース！　制作環境のカスタマイズ、カスタムシェイプやプリミティブを使ったキットバッシュ制作、スナップとコンストレイン機能搭載など - ニュース]]></title>
-        <id>https://cgworld.jp/flashnews/202412-Shapelab2025.html</id>
-        <link href="https://cgworld.jp/flashnews/202412-Shapelab2025.html"/>
-        <updated>2024-12-30T06:15:48.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ゲームキャラの「目」作りで知っておくべきこと（※英語ムービー）]]></title>
-        <id>https://3dtotal.jp/?p=49328</id>
-        <link href="https://3dtotal.jp/tutorials/49328/"/>
-        <updated>2024-12-30T04:58:48.000Z</updated>
-        <summary type="html"><![CDATA[★The Art of Eyes for Games（27分18秒） キャラクターアーティスト Jason Hill氏 によるチュートリアルムービー。Hill氏 が「ゲームキャラの "目" 作りで 知っておくべきこと」を […]
-The post ゲームキャラの「目」作りで知っておくべきこと（※英語ムービー） first appeared on 3dtotal 日本語オフィシャルサイト.]]></summary>
-        <author>
-            <name>3dtotal管理人T</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mari 使用、高度なキャラクターテクスチャリング（※英語ムービー）]]></title>
-        <id>https://3dtotal.jp/?p=49326</id>
-        <link href="https://3dtotal.jp/tutorials/49326/"/>
-        <updated>2024-12-30T04:56:05.000Z</updated>
-        <summary type="html"><![CDATA[★Advanced Character Texturing in Mari: Studio Techniques（25分49秒/ 制作：FlippedNormals） teleportノード、マスクのペイント方法、イメー […]
-The post Mari 使用、高度なキャラクターテクスチャリング（※英語ムービー） first appeared on 3dtotal 日本語オフィシャルサイト.]]></summary>
-        <author>
-            <name>3dtotal管理人T</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[景観3DCG制作ツール「Terragen 4.8」リリース！　Sky Paintノードのサポート、16ビットTIFFまたはRAWでのハイトフィールドのエクスポートなど - ニュース]]></title>
-        <id>https://cgworld.jp/flashnews/202412-Terragen48.html</id>
-        <link href="https://cgworld.jp/flashnews/202412-Terragen48.html"/>
-        <updated>2024-12-30T03:45:35.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[p5.jsのカメラを用いてレイマーチングで小星形十二面体を描画する]]></title>
-        <id>https://qiita.com/inaba_darkfox/items/2043d6b9ff22825d00b0</id>
-        <link href="https://qiita.com/inaba_darkfox/items/2043d6b9ff22825d00b0"/>
-        <updated>2024-12-30T02:55:41.000Z</updated>
-        <summary type="html"><![CDATA[はじめに
-　p5.jsとGLSLでレイマーチングをやって小星形十二面体をレイマーチングで描画します。カメラはp5.jsに備え付けの物をorbitControl()で動かして使います。
-コード全文
-　…]]></summary>
-        <author>
-            <name>GLSLタグが付けられた新着記事 - Qiita</name>
         </author>
     </entry>
 </feed>

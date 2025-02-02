@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-02-01T12:15:11.536Z</updated>
+    <updated>2025-02-02T00:47:15.771Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Camera Array Tool v3.0.9 - 3DGS生成用に多方向からレンダリングを実現するBlenderアドオン！4DGS（アニメーション付き3DGS）対応アップデートが公開！Postshotバッチ処理ツール「Postshot Batch Trainer v2.0」もあるよ！]]></title>
+        <id>https://3dnchu.com/?p=1051312</id>
+        <link href="https://3dnchu.com/archives/camera-array-tool-v3-0-9/"/>
+        <updated>2025-02-01T16:32:47.000Z</updated>
+        <summary type="html"><![CDATA[ToppiNappi（Olli Huttunen氏）による、Blender上で多方向からのカメラを配置出来るBlenderアドオン「Camera Array Tool」が予告通り4DGSに対応しました！その他「Postshot」向けツールなども紹介されています！]]></summary>
+        <author>
+            <name>Ymt3D -3dnchu-</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【アドオン紹介】C.Mats Bundle – マテリアルコレクション+加工アドオン！]]></title>
         <id>https://cgbox.jp/?p=62092</id>
@@ -3515,76 +3525,6 @@ Substance 3D Painterの使用されるシェーディング言語はGLSLで…]]
         <id>https://cgworld.jp/flashnews/202501-Postshot-v05.html</id>
         <link href="https://cgworld.jp/flashnews/202501-Postshot-v05.html"/>
         <updated>2025-01-04T07:56:07.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Unity カラーパレットとノイズによる絵作り]]></title>
-        <id>https://qiita.com/db0091/items/1ff5afaaf1a25254f816</id>
-        <link href="https://qiita.com/db0091/items/1ff5afaaf1a25254f816"/>
-        <updated>2025-01-03T09:22:20.000Z</updated>
-        <summary type="html"><![CDATA[作ったもの
-以下のようなエフェクトを作りました。
-元画像
-
-
-これだけならシンプルなカラーパレットなので、ノイズを加える事で印刷感を足しました。
-
-https://github.com/Dumble009…]]></summary>
-        <author>
-            <name>Shaderタグが付けられた新着記事 - Qiita</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Unity カラーパレットとノイズによる絵作り]]></title>
-        <id>https://qiita.com/db0091/items/1ff5afaaf1a25254f816</id>
-        <link href="https://qiita.com/db0091/items/1ff5afaaf1a25254f816"/>
-        <updated>2025-01-03T09:22:20.000Z</updated>
-        <summary type="html"><![CDATA[作ったもの
-以下のようなエフェクトを作りました。
-元画像
-
-
-これだけならシンプルなカラーパレットなので、ノイズを加える事で印刷感を足しました。
-
-https://github.com/Dumble009…]]></summary>
-        <author>
-            <name>CGタグが付けられた新着記事 - Qiita</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【Unity/URP】2Dの水面表現を考える➀]]></title>
-        <id>https://zenn.dev/kr405/articles/a69f89b0a7f81b</id>
-        <link href="https://zenn.dev/kr405/articles/a69f89b0a7f81b"/>
-        <updated>2025-01-03T08:31:01.000Z</updated>
-        <summary type="html"><![CDATA[はじめに
-この記事では、URPの2Dプロジェクトで水面を表現する方法を検証していきます。
-プライベートで2Dゲームを作成しているのですが、2D向けのシェーダーやエフェクトってなかなか欲しい情報にたどり着けないなと感じたので、やりがいのありそうな水面の表現を通して色々な手法に触れたいと思っています。
-
- 何を作るか
-今回は主にフラグメントシェーダーを実装して、水面らしさを演出する反射や揺れ、コースティクスを表現したいと思います。コースティクスという言葉は聞きなじみがない方もいるかもしれませんが、水やガラスを通った光が作る網目のような模様です。
-動作結果は下のような感じです。白っぽい筋の...]]></summary>
-        <author>
-            <name>kr405</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DreamWorks、オープンソースのプロダクションレンダラ「MoonRay 1.7」リリース！　新しいポータルライトタイプ追加など - ニュース]]></title>
-        <id>https://cgworld.jp/flashnews/202501-MoonRay17.html</id>
-        <link href="https://cgworld.jp/flashnews/202501-MoonRay17.html"/>
-        <updated>2025-01-03T03:16:43.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[フルトラッキングモーションキャプチャデバイス「HaritoraX 2」発売！　9軸IMU方式、連続50時間駆動、VRChat動作確認済 - ニュース]]></title>
-        <id>https://cgworld.jp/flashnews/202501-Haritorax2.html</id>
-        <link href="https://cgworld.jp/flashnews/202501-Haritorax2.html"/>
-        <updated>2025-01-03T01:31:13.000Z</updated>
         <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
         <author>
             <name>CGWORLD</name>

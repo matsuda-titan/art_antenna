@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-02-03T12:17:19.879Z</updated>
+    <updated>2025-02-04T00:44:21.583Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[劇場アニメ『メイクアガール』少数精鋭のチームで描く安田現象ワールド全開の世界観（2）～CG制作篇 - 特集]]></title>
+        <id>https://cgworld.jp/article/318-makeagirl-02.html</id>
+        <link href="https://cgworld.jp/article/318-makeagirl-02.html"/>
+        <updated>2025-02-04T01:00:22.000Z</updated>
+        <summary type="html"><![CDATA[劇場アニメ『メイクアガール』スタッフによるメイキングインタビュー。]]></summary>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2/20（木）に3ds MaxとV-Rayを活用する中級者向けの特別セミナー「3ds Max ＆ V-Ray 探検隊（建築VIZ）」を開催（ボーンデジタル） - ニュース]]></title>
         <id>https://cgworld.jp/flashnews/2502-3dsmax-vray.html</id>
@@ -35,6 +45,25 @@ The post かつてない魔法と幻想のオズの国。ILMより、映画『�
         <summary type="html"><![CDATA[Edward Ureña氏による本格的な人体リグなどを簡単にセットアップ出来る無料のBlenderアドオン「Rig Creator」のご紹介！]]></summary>
         <author>
             <name>Ymt3D -3dnchu-</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【React Native × AR】3DモデルをViroで表示させるためのMayaエクスポート方法]]></title>
+        <id>https://zenn.dev/kiwichan101kg/articles/152495104d640c</id>
+        <link href="https://zenn.dev/kiwichan101kg/articles/152495104d640c"/>
+        <updated>2025-02-03T08:29:42.000Z</updated>
+        <summary type="html"><![CDATA[はじめに
+ReactVision Viroを使用してARの技術検証を行っています。その時のメモを残します。
+https://github.com/ReactVision
+https://viro-community.readme.io/
+expoSDKは古いものを使用しているため注意が必要です。
+"@reactvision/react-viro": "^2.41.6",
+"expo": "~50.0.4",
+
+ Blenderで作成した3Dモデルが表示されない
+Viroで3Dモデルを表示する場合に、Blenderで作成した3Dモデルだと表示できなかったり、テクスチャが反映されず白黒で...]]></summary>
+        <author>
+            <name>kiwichan</name>
         </author>
     </entry>
     <entry>
@@ -3657,16 +3686,6 @@ The post 2024年、DNEG が制作した映像マジック。スーパーカッ�
         <summary type="html"><![CDATA[Emīls VfxによるBlender向け無料アドオン「Set Origin v1.1」のご紹介！]]></summary>
         <author>
             <name>Ymt3D -3dnchu-</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【初心者向け】UE5キーフレームアニメーションの作成・レンダリング方法]]></title>
-        <id>https://cgbox.jp/?p=61331</id>
-        <link href="https://cgbox.jp/2025/01/05/ue5-keyframe-beginner/"/>
-        <updated>2025-01-05T09:58:30.000Z</updated>
-        <summary type="html"><![CDATA[こんにちは！ 今回は、 ゲームエンジン「 Unreal Engine 5 (UE5)」初心者向けに、3DCGでの基本的なアニメーション作成方法である「キーフレームアニメーション」の作り方・レンダリング方法を紹介します。  […]]]></summary>
-        <author>
-            <name>CGbox編集部</name>
         </author>
     </entry>
 </feed>

@@ -975,21 +975,6 @@
             "type": "video/mp4"
           },
           "imageUrl": "https://cgbox.jp/wp-content/uploads/2025/01/image_processing20241228-2-1obc5uz.jpg"
-        },
-        {
-          "id": "https://cgbox.jp/?p=61331",
-          "author": "CGbox編集部",
-          "description": "こんにちは！ 今回は、 ゲームエンジン「 Unreal Engine 5 (UE5)」初心者向けに、3DCGでの基本的なアニメーション作成方法である「キーフレームアニメーション」の作り方・レンダリング方法を紹介します。  […]",
-          "link": "https://cgbox.jp/2025/01/05/ue5-keyframe-beginner/",
-          "publishedOn": "2025-01-05T09:58:30.000Z",
-          "wordCount": 2479,
-          "title": "【初心者向け】UE5キーフレームアニメーションの作成・レンダリング方法",
-          "enclosure": {
-            "url": "https://cgbox.jp/wp-content/uploads/2025/01/ea42e7cd1dc1ddf6d7731317ebddb675.mp4",
-            "length": "0",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://cgbox.jp/wp-content/uploads/2025/01/6d939d0f7e5baf0eb23876e499f9f2f5.jpg"
         }
       ]
     },
@@ -1872,6 +1857,16 @@
       "feedUrl": "https://cgworld.jp/atom.xml",
       "siteUrl": "https://cgworld.jp/",
       "articles": [
+        {
+          "id": "https://cgworld.jp/article/318-makeagirl-02.html",
+          "author": null,
+          "description": "劇場アニメ『メイクアガール』スタッフによるメイキングインタビュー。",
+          "link": "https://cgworld.jp/article/318-makeagirl-02.html",
+          "publishedOn": "2025-02-04T01:00:22.000Z",
+          "wordCount": 734,
+          "title": "劇場アニメ『メイクアガール』少数精鋭のチームで描く安田現象ワールド全開の世界観（2）～CG制作篇 - 特集",
+          "imageUrl": "https://cgworld.jp/article/assets_c/2025/01/02_sub01-thumb-1000x563-64894.jpg"
+        },
         {
           "id": "https://cgworld.jp/flashnews/2502-3dsmax-vray.html",
           "author": null,
@@ -3882,7 +3877,23 @@
       "title": "Zennの「maya」のフィード",
       "feedUrl": "https://zenn.dev/topics/maya/feed",
       "siteUrl": "https://zenn.dev/topics/maya",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://zenn.dev/kiwichan101kg/articles/152495104d640c",
+          "author": "kiwichan",
+          "description": "はじめに\nReactVision Viroを使用してARの技術検証を行っています。その時のメモを残します。\nhttps://github.com/ReactVision\nhttps://viro-community.readme.io/\nexpoSDKは古いものを使用しているため注意が必要です。\n\"@reactvision/react-viro\": \"^2.41.6\",\n\"expo\": \"~50.0.4\",\n\n Blenderで作成した3Dモデルが表示されない\nViroで3Dモデルを表示する場合に、Blenderで作成した3Dモデルだと表示できなかったり、テクスチャが反映されず白黒で...",
+          "link": "https://zenn.dev/kiwichan101kg/articles/152495104d640c",
+          "publishedOn": "2025-02-03T08:29:42.000Z",
+          "wordCount": null,
+          "title": "【React Native × AR】3DモデルをViroで表示させるためのMayaエクスポート方法",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--_buKwAQX--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2580%2590React%2520Native%2520%25C3%2597%2520AR%25E3%2580%25913D%25E3%2583%25A2%25E3%2583%2587%25E3%2583%25AB%25E3%2582%2592Viro%25E3%2581%25A7%25E8%25A1%25A8%25E7%25A4%25BA%25E3%2581%2595%25E3%2581%259B%25E3%2582%258B%25E3%2581%259F%25E3%2582%2581%25E3%2581%25AEMaya%25E3%2582%25A8%25E3%2582%25AF%25E3%2582%25B9%25E3%2583%259D%25E3%2583%25BC%25E3%2583%2588%25E6%2596%25B9%25E6%25B3%2595%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:kiwichan%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzZlYTA3YzU3YzUuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png",
+            "length": "0",
+            "type": "image/png"
+          },
+          "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--_buKwAQX--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2580%2590React%2520Native%2520%25C3%2597%2520AR%25E3%2580%25913D%25E3%2583%25A2%25E3%2583%2587%25E3%2583%25AB%25E3%2582%2592Viro%25E3%2581%25A7%25E8%25A1%25A8%25E7%25A4%25BA%25E3%2581%2595%25E3%2581%259B%25E3%2582%258B%25E3%2581%259F%25E3%2582%2581%25E3%2581%25AEMaya%25E3%2582%25A8%25E3%2582%25AF%25E3%2582%25B9%25E3%2583%259D%25E3%2583%25BC%25E3%2583%2588%25E6%2596%25B9%25E6%25B3%2595%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:kiwichan%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzZlYTA3YzU3YzUuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
+        }
+      ]
     },
     {
       "title": "Zennの「usd」のフィード",

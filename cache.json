@@ -12,6 +12,36 @@
       "siteUrl": "https://cgbox.jp",
       "articles": [
         {
+          "id": "https://cgbox.jp/?p=62132",
+          "author": "UEDA",
+          "description": "こんばんは！ 今回は「Simple Aurora Generator」を紹介します。 Simple Aurora Generator 「Simple Aurora Generator」は、アニメーションされたオーロラを生 […]",
+          "link": "https://cgbox.jp/2025/02/05/news-asset-simple-aurora-generator/",
+          "publishedOn": "2025-02-05T10:00:00.000Z",
+          "wordCount": 2199,
+          "title": "【アセット紹介】Simple Aurora Generator – アニメーション化されたオーロラ！",
+          "enclosure": {
+            "url": "https://cgbox.jp/wp-content/uploads/2025/02/02.mp4",
+            "length": "0",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://cgbox.jp/wp-content/uploads/2025/02/image_processing20250202-2-1wlzr7y.jpg"
+        },
+        {
+          "id": "https://cgbox.jp/?p=62121",
+          "author": "UEDA",
+          "description": "こんばんは！ 今回はアドオンの「Moss It!」を紹介します。 こちらのリンクから購入することができます。 Moss It! 「Moss It!」は、シーンに苔を追加することができます。 ワンクリックで簡単に追加するこ […]",
+          "link": "https://cgbox.jp/2025/02/05/news-addon-moss-it/",
+          "publishedOn": "2025-02-05T09:00:00.000Z",
+          "wordCount": 2186,
+          "title": "【アドオン紹介】Moss It! – 苔をシーンに簡単追加！",
+          "enclosure": {
+            "url": "https://cgbox.jp/wp-content/uploads/2025/02/01-1.mp4",
+            "length": "0",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://cgbox.jp/wp-content/uploads/2025/02/image_processing20250131-2-1eb7gwz.jpg"
+        },
+        {
           "id": "https://cgbox.jp/?p=62100",
           "author": "UEDA",
           "description": "こんばんは！ 今回は「30 Stylized Animal Character Base Meshes」を紹介します。 30 Stylized Animal Character Base Meshes 「30 Styli […]",
@@ -2730,6 +2760,16 @@
       "siteUrl": "https://modelinghappy.com",
       "articles": [
         {
+          "id": "https://modelinghappy.com/?p=61339",
+          "author": "modelinghappy",
+          "description": "Split Screen Sync Add-On + Ecorche Split Screen Sync Add-OnはBlenderでビューポートを２つの同期されたビューポートに変換して参考CGモデルを見ながらの作業が\nThe post Split Screen Sync Add-On ビューポートを２つの同期されたビューポートに変換して参考CGモデルを見ながらの作業が便利になるBlender用アドオン first appeared on 3DCG最新情報サイト MODELING HAPPY.",
+          "link": "https://modelinghappy.com/archives/61339",
+          "publishedOn": "2025-02-05T09:49:13.000Z",
+          "wordCount": 3484,
+          "title": "Split Screen Sync Add-On ビューポートを２つの同期されたビューポートに変換して参考CGモデルを見ながらの作業が便利になるBlender用アドオン",
+          "imageUrl": "https://modelinghappy.com/wp-content/uploads/2025/02/20250205_SplitScreenSync.jpg"
+        },
+        {
           "id": "https://modelinghappy.com/?p=61327",
           "author": "modelinghappy",
           "description": "HAELE 3D 様々な人種や年齢のリアルな手の指先を自由に動かして、ライトを配置、物を持たせたりして、デッサンや参考画像の作成などに使用出来るツールがsteamで2025年3月10日に正式リリースされます。 以前紹介し\nThe post HAELE 3D 様々な人種や年齢のリアルな手の指先を自由に動かして、ライトを配置、物を持たせれるツールがsteamでデモ版が公開 first appeared on 3DCG最新情報サイト MODELING HAPPY.",
@@ -3659,6 +3699,21 @@
       "feedUrl": "https://zenn.dev/topics/houdini/feed",
       "siteUrl": "https://zenn.dev/topics/houdini",
       "articles": [
+        {
+          "id": "https://zenn.dev/mj31000/articles/7e4135436c16ba",
+          "author": "Hidetake Miyajima",
+          "description": "よく使うノードの組み合わせは自動化したい\nHoudiniでRBD（Rigid Body Dynamics）の仕込みを行う際、パーツ数が増えると繰り返し作業が多くなり、時間を浪費しているような気がしました。そこで、Pythonを使ってNetwork Editorの作業を一部自動化することにしました。備忘録として、作成したPythonスクリプトの例をZennにまとめます。\n\n 環境\nWindows10 Pro\nHoudini Indie 20.5.332 py3\n\n 選択ノードを新しいsubnetworkに移動\nimport hou\n\n# Get the selected node\nse...",
+          "link": "https://zenn.dev/mj31000/articles/7e4135436c16ba",
+          "publishedOn": "2025-02-05T06:26:15.000Z",
+          "wordCount": 1144,
+          "title": "Houdini Pythonを覚えて作業効率を上げたい（備忘録1）",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--7UGnvYVm--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Houdini%2520Python%25E3%2582%2592%25E8%25A6%259A%25E3%2581%2588%25E3%2581%25A6%25E4%25BD%259C%25E6%25A5%25AD%25E5%258A%25B9%25E7%258E%2587%25E3%2582%2592%25E4%25B8%258A%25E3%2581%2592%25E3%2581%259F%25E3%2581%2584%25EF%25BC%2588%25E5%2582%2599%25E5%25BF%2598%25E9%258C%25B21%25EF%25BC%2589%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Hidetake%2520Miyajima%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzExNjJkNGI2MjUuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png",
+            "length": "0",
+            "type": "image/png"
+          },
+          "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--7UGnvYVm--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Houdini%2520Python%25E3%2582%2592%25E8%25A6%259A%25E3%2581%2588%25E3%2581%25A6%25E4%25BD%259C%25E6%25A5%25AD%25E5%258A%25B9%25E7%258E%2587%25E3%2582%2592%25E4%25B8%258A%25E3%2581%2592%25E3%2581%259F%25E3%2581%2584%25EF%25BC%2588%25E5%2582%2599%25E5%25BF%2598%25E9%258C%25B21%25EF%25BC%2589%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Hidetake%2520Miyajima%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzExNjJkNGI2MjUuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
+        },
         {
           "id": "https://zenn.dev/kickbase/articles/5af7aa27854994",
           "author": "めんたいこ",

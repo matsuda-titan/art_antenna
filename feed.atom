@@ -2,10 +2,82 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-02-05T12:17:48.003Z</updated>
+    <updated>2025-02-06T00:44:55.451Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[三次元無双-動画部門- 結果発表 - 田島光二氏を審査員に迎えた業界5年目までの若手アーティスト向けCGコンテスト！動画部門の結果発表映像が公開！ #三次元無双]]></title>
+        <id>https://3dnchu.com/?p=1051473</id>
+        <link href="https://3dnchu.com/archives/sanjigenmusou-2024-result-2/"/>
+        <updated>2025-02-05T23:35:37.000Z</updated>
+        <summary type="html"><![CDATA[CGモデラー＆YouTuberの前東 勇次（Yuji Maehigashi）氏と、海外で活躍するCGアーティストらによるCGコンテスト「三次元無双」の2024年開催結果発表動画が公開されました！後半の動画部門です！]]></summary>
+        <author>
+            <name>Ymt3D -3dnchu-</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pixi.js v8 CustomFilter のサンプルコード]]></title>
+        <id>https://zenn.dev/a_saya_108/articles/0740da9261ada3</id>
+        <link href="https://zenn.dev/a_saya_108/articles/0740da9261ada3"/>
+        <updated>2025-02-05T12:55:50.000Z</updated>
+        <summary type="html"><![CDATA[pixi.jsのバージョン8でカスタムフィルターのuniforms指定周りが変わっていたので
+備忘録としてサンプルコードを書きました。
+どなたかの役に立つと嬉しいです。
+
+ V8でのCustomFilter
+
+ SampleFilter.ts
+(旧 v7)
+export class SampleFilter extends Filter {
+	constructor(texture: Texture) {
+		super(
+			SampleVert,
+			SampleFrag,
+			{ // uniforms
+				texture: texture,
+				time: 0,
+	...]]></summary>
+        <author>
+            <name>adachi saya</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pixi.js v8 CustomFilter のサンプルコード]]></title>
+        <id>https://zenn.dev/a_saya_108/articles/0740da9261ada3</id>
+        <link href="https://zenn.dev/a_saya_108/articles/0740da9261ada3"/>
+        <updated>2025-02-05T12:55:50.000Z</updated>
+        <summary type="html"><![CDATA[pixi.jsのバージョン8でカスタムフィルターのuniforms指定周りが変わっていたので
+備忘録としてサンプルコードを書きました。
+どなたかの役に立つと嬉しいです。
+
+ V8でのCustomFilter
+
+ SampleFilter.ts
+(旧 v7)
+export class SampleFilter extends Filter {
+	constructor(texture: Texture) {
+		super(
+			SampleVert,
+			SampleFrag,
+			{ // uniforms
+				texture: texture,
+				time: 0,
+	...]]></summary>
+        <author>
+            <name>adachi saya</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stylized Asset Suite for Blender - レイヤーベースに多彩なStylized表現が可能なエフェクト＆ブラシスイートBlenderアドオン！無料版も登場！ #BNPR]]></title>
+        <id>https://3dnchu.com/?p=1051442</id>
+        <link href="https://3dnchu.com/archives/stylized-asset-suite-for-blender/"/>
+        <updated>2025-02-05T12:54:31.000Z</updated>
+        <summary type="html"><![CDATA[crzyzhaa氏によるBlender向けStylized表現スイートアドオン「Stylized Asset Suite for Blender」のご紹介です！無料版もありますよ！]]></summary>
+        <author>
+            <name>Ymt3D -3dnchu-</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【アセット紹介】Simple Aurora Generator – アニメーション化されたオーロラ！]]></title>
         <id>https://cgbox.jp/?p=62132</id>
@@ -3618,125 +3690,6 @@ The post 42体余りのイマジナリーフレンド。映画『ブルー き�
         <updated>2025-01-08T01:21:00.000Z</updated>
         <author>
             <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【アドオン紹介】Ornament Generator – 260種類の装飾を簡単生成！]]></title>
-        <id>https://cgbox.jp/?p=61445</id>
-        <link href="https://cgbox.jp/2025/01/07/news-addon-ornament-generator/"/>
-        <updated>2025-01-07T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは！ 今回はアドオンの「Ornament Generator」を紹介します。 こちらのリンクから購入することができます。 Ornament Generator 「Ornament Generator」は、さまざま […]]]></summary>
-        <author>
-            <name>UEDA</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【アドオン紹介】Fuzzy Master – フェルト表現はおまかせあれ！]]></title>
-        <id>https://cgbox.jp/?p=61438</id>
-        <link href="https://cgbox.jp/2025/01/07/news-addon-fuzzy-master/"/>
-        <updated>2025-01-07T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは！ 今回はアドオンの「Fuzzy Master」を紹介します。 こちらのリンクから購入することができます。 Fuzzy Master 「Fuzzy Master」は、柔らかくフワフワしたフェルトを再現します。  […]]]></summary>
-        <author>
-            <name>UEDA</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【アドオン紹介】True Depth – ローカル実行で深度マップを生成！AI活用]]></title>
-        <id>https://cgbox.jp/?p=61417</id>
-        <link href="https://cgbox.jp/2025/01/07/news-addon-true-depth/"/>
-        <updated>2025-01-07T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは！ 今回はアドオンの「True Depth」を紹介します。 こちらのリンクから購入することができます。 True Depth 「True Depth」は、AIを活用してあらゆる画像や映像から3Dに変換します。  […]]]></summary>
-        <author>
-            <name>UEDA</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3Dマッチムーブ＆トラッキングツール「PFTrack 24.12.19」リリース！　シーン再構築ツールセットを一新 - ニュース]]></title>
-        <id>https://cgworld.jp/flashnews/202501-PFTrack241219.html</id>
-        <link href="https://cgworld.jp/flashnews/202501-PFTrack241219.html"/>
-        <updated>2025-01-07T09:26:18.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【インタビュー】夢見るだけでなく 目標を立てることで：モーションデザイナー Vitali Yakin 氏]]></title>
-        <id>https://3dtotal.jp/?p=49388</id>
-        <link href="https://3dtotal.jp/features/49388/"/>
-        <updated>2025-01-07T08:12:39.000Z</updated>
-        <summary type="html"><![CDATA[「何かの思い出や経験と結びついているプロジェクトが記憶に残るものです。私にとっては、2014年のソチ冬季オリンピックの開会式のプロジェクトがそれにあたります」 Q. 自己紹介をお願いします まず第一に、私はデザイナーであ […]
-The post 【インタビュー】夢見るだけでなく 目標を立てることで：モーションデザイナー Vitali Yakin 氏 first appeared on 3dtotal 日本語オフィシャルサイト.]]></summary>
-        <author>
-            <name>3dtotal管理人T</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[XYN（ジン）ソニーが12個のmocopiを使用したモーキャプデータをPCに転送して編集出来るXYN Motion Studio等を発表]]></title>
-        <id>https://modelinghappy.com/?p=60999</id>
-        <link href="https://modelinghappy.com/archives/60999"/>
-        <updated>2025-01-07T05:58:30.000Z</updated>
-        <summary type="html"><![CDATA[空間コンテンツ制作支援を行うソフト・ハードが統合されたソリューション「XYN#x2122;」を展開開始 ソニーが2025年1月7日に空間コンテンツ制作支援を行うソフトウェアとハードウェアが統合されたソリューションとして
-The post XYN（ジン）ソニーが12個のmocopiを使用したモーキャプデータをPCに転送して編集出来るXYN Motion Studio等を発表 first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
-        <author>
-            <name>modelinghappy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GeForce RTX 50 Series GPU - NVIDIAが最新のBlackwellアーキテクチャ搭載GPUシリーズを発表！DLSS4！4090と同等性能の5070！4090の2倍性能の5090！]]></title>
-        <id>https://3dnchu.com/?p=1048279</id>
-        <link href="https://3dnchu.com/archives/geforce-rtx-50-series-gpu/"/>
-        <updated>2025-01-07T05:30:23.000Z</updated>
-        <summary type="html"><![CDATA[NVIDIAはCES 2025に合わせてGeForce RTX 50シリーズのGPUを発表しました！]]></summary>
-        <author>
-            <name>Ymt3D -3dnchu-</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[映画やTV、広告における 車両撮影方法を変革!? 最先端システム「PXO AKIRA」]]></title>
-        <id>https://3dtotal.jp/?p=49371</id>
-        <link href="https://3dtotal.jp/news/49371/"/>
-        <updated>2025-01-07T05:18:17.000Z</updated>
-        <summary type="html"><![CDATA[★PXO AKIRA | Product Overview（6分10秒） PXO AKIRA は画期的な車両処理エコシステムです。モーション プラットフォーム、ロボット・カメラクレーン、LEDボリューム、レーシングシミュ […]
-The post 映画やTV、広告における 車両撮影方法を変革!? 最先端システム「PXO AKIRA」 first appeared on 3dtotal 日本語オフィシャルサイト.]]></summary>
-        <author>
-            <name>3dtotal管理人T</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SONYが「XYN」（ジン）を発表。モーションキャプチャ、空間キャプチャ、ヘッドセットを組み合わせた新たな空間制作のソリューション - ニュース]]></title>
-        <id>https://cgworld.jp/flashnews/2501-sony-xyn.html</id>
-        <link href="https://cgworld.jp/flashnews/2501-sony-xyn.html"/>
-        <updated>2025-01-07T04:03:48.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「チャンスは自分で掴むもの、タイミングは本当に大切だと思います」ニューヨークでデザイン会社を立ち上げ、タイムズスクエアの3D広告を手がける！ 第103回：武藤美奈（Co-Owner / Adolescent） - 連載]]></title>
-        <id>https://cgworld.jp/regular/103-muto.html</id>
-        <link href="https://cgworld.jp/regular/103-muto.html"/>
-        <updated>2025-01-07T01:30:00.000Z</updated>
-        <summary type="html"><![CDATA[ニューヨークでデザイン会社を立ち上げた武藤美奈氏の海外就業ストーリー。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[双三次補間 - bicubic interpolation]]></title>
-        <id>https://zenn.dev/yoshikuni_jujo/articles/bicubic-interpolation</id>
-        <link href="https://zenn.dev/yoshikuni_jujo/articles/bicubic-interpolation"/>
-        <updated>2025-01-07T00:34:21.000Z</updated>
-        <summary type="html"><![CDATA[はじめに
-画像の拡大・縮小・回転などの操作をする場合、もとの画像に存在しないピクセルを追加する必要がある。そのようなピクセルの追加を補間(interpolation)と呼ぶ。
-
- 最近傍補間
-最近傍補間(nearest neighbor interpolation)は元の画像のなかで一番近い位置のピクセルの色を、その位置のピクセルの色とする方法だ。
-
-縦横3倍に拡大する例だ。大きい円が元の画像にあるピクセルで小さい円が補間されたピクセルだ。周囲に元画像の1ピクセルぶん余分なピクセルを表示しているのは、双三次補間で必要になるためだ。中央の元画像の3x3ピクセルについて補間して、7x7ピ...]]></summary>
-        <author>
-            <name>重城良国</name>
         </author>
     </entry>
 </feed>

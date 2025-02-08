@@ -2,10 +2,43 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-02-08T00:43:47.353Z</updated>
+    <updated>2025-02-08T03:11:58.766Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Nomad Sculptでテクスチャを適用してThree.jsで表示する]]></title>
+        <id>https://zenn.dev/t_tonyo_maru/articles/45094a44db9994</id>
+        <link href="https://zenn.dev/t_tonyo_maru/articles/45094a44db9994"/>
+        <updated>2025-02-08T02:33:15.000Z</updated>
+        <summary type="html"><![CDATA[個人的備忘録です。表題についてのまとめです。
+
+ 成果物
+
+Nomad Sculpt(Texture) x Three.js sample page
+上記のサンプルページを表示すると、glTFファイルが読み込まれて画面に表示されます。
+形状はただの球体なのですが、岩のテクスチャを適用しているため、ゴツゴツした凹凸があるように見えますね。
+また、Three.jsのスポットライトもしっかりと適用されています。
+
+ 参考リンク集
+https://www.youtube.com/watch?v=oO0wkGVeu4g
+今回のサンプルを作成するにあたり、丸パクリ参考にした動画が上記になります。
+大...]]></summary>
+        <author>
+            <name>とんよー。</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Shader View 繋げたノードの上に結果をリルタイムでプレビュー表示してマテリアル作成しやすくなるBlender用アドオン]]></title>
+        <id>https://modelinghappy.com/?p=61393</id>
+        <link href="https://modelinghappy.com/archives/61393"/>
+        <updated>2025-02-08T01:34:43.000Z</updated>
+        <summary type="html"><![CDATA[Shader View Blenderでノードを繋げると、各ノードの上にリアルタイムで結果をプレビュー表示して、シェーダー作成を効率的にしてくれるアドオンShader Viewがリリースされました。 200以上のノードを
+The post Shader View 繋げたノードの上に結果をリルタイムでプレビュー表示してマテリアル作成しやすくなるBlender用アドオン first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
+        <author>
+            <name>modelinghappy</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[FractureLab 1.0 - 直感的な操作でオブジェクトをカットし破片やダメージ表現が作成出来るBlenderアドオンが登場！]]></title>
         <id>https://3dnchu.com/?p=1051553</id>

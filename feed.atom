@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-02-07T12:17:12.377Z</updated>
+    <updated>2025-02-08T00:43:47.353Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[FractureLab 1.0 - 直感的な操作でオブジェクトをカットし破片やダメージ表現が作成出来るBlenderアドオンが登場！]]></title>
+        <id>https://3dnchu.com/?p=1051553</id>
+        <link href="https://3dnchu.com/archives/fracturelab-1-0/"/>
+        <updated>2025-02-07T16:08:16.000Z</updated>
+        <summary type="html"><![CDATA[B3FX Studios（旧：RBDLab Studio）から新たな破壊＆ダメージ表現付与Blenderアドオン「FractureLab 1.0」がリリースされました！]]></summary>
+        <author>
+            <name>Ymt3D -3dnchu-</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[スマホ用無料3Dスキャンアプリ「RealityScan 1.6」リリース！　カメラのマニュアルモード、新しい処理オプションパネル - ニュース]]></title>
+        <id>https://cgworld.jp/flashnews/202502-RealityScan16.html</id>
+        <link href="https://cgworld.jp/flashnews/202502-RealityScan16.html"/>
+        <updated>2025-02-07T12:04:28.000Z</updated>
+        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Top 100 3D Parkour Montage Kinetic Rush - 「パルクールシーン」テンプレからオリジナルのシーンを作るユニークなCGチャレンジ！上位100作品と全参加作品3,373中のモンタージュ映像が公開中！ #KineticRush]]></title>
         <id>https://3dnchu.com/?p=1051536</id>
@@ -14,6 +34,25 @@
         <summary type="html"><![CDATA[数多くのユニークなチャレンジを開催している事でお馴染みVFXアーティストClinton Jones氏（@_Pwnisher_）による、2024年2回目のコンテスト『Kinetic Rush』のトップ100作品と全作品のモンタージュが公開済みです！]]></summary>
         <author>
             <name>Ymt3D -3dnchu-</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【Unity】シェーダーでひびを入れる［その1：フラグメントシェーダー編］]]></title>
+        <id>https://zenn.dev/lilytechlab/articles/518b5e29738f9b</id>
+        <link href="https://zenn.dev/lilytechlab/articles/518b5e29738f9b"/>
+        <updated>2025-02-07T09:22:49.000Z</updated>
+        <summary type="html"><![CDATA[3Dモデルに徐々にひびを入れる表現ができないかと考え、シェーダーで挑戦してみました。
+テクスチャの準備が不要なものを目指しました。
+
+その試行錯誤の過程を残しておきます。
+
+ どうやってひびを描くか
+シェーダーでひび模様を描きたいので、それっぽい図になる計算式を探します。
+ボロノイパターンというものが使えそうです。
+ひび模様を始め、きりんの模様だとか葉脈など、近い模様が自然界に複数存在するのだそうです。面白いですね。
+https://www.msichicago.org/explore/whats-here/exhibits/numbers-in-nature/the-patterns/...]]></summary>
+        <author>
+            <name>masamin</name>
         </author>
     </entry>
     <entry>
@@ -3744,89 +3783,6 @@ The post 君もジェダイになれる!? ILM や ルーカスフィルムのイ
         <link href="https://cgworld.jp/regular/202501-tipsnote.html"/>
         <updated>2025-01-10T01:00:16.000Z</updated>
         <summary type="html"><![CDATA[Illustrator 2025からの新機能「スウォッチ情報カード」を紹介します]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【アセット紹介】Jungle Pack – 90種類のアニメーション付き動物コレクション！]]></title>
-        <id>https://cgbox.jp/?p=61471</id>
-        <link href="https://cgbox.jp/2025/01/09/news-asset-jungle-pack/"/>
-        <updated>2025-01-09T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは！ 今回は「Jungle Pack : 90 Animated & Rigged Animals, Birds And Insects」を紹介します。 Jungle Pack : 9 […]]]></summary>
-        <author>
-            <name>UEDA</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【アセット紹介】Japanesestylearchitecturegen24 – 歴史的建造物を簡単生成＆カスタマイズ！]]></title>
-        <id>https://cgbox.jp/?p=61468</id>
-        <link href="https://cgbox.jp/2025/01/09/news-asset-japanesestylearchitecturegen24/"/>
-        <updated>2025-01-09T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは！ 今回は「Japanesestylearchitecturegen24」を紹介します。 Japanesestylearchitecturegen24 「Japanesestylearchitecturegen […]]]></summary>
-        <author>
-            <name>UEDA</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【アドオン紹介】Laser Animated – レーザービームを再現！]]></title>
-        <id>https://cgbox.jp/?p=61432</id>
-        <link href="https://cgbox.jp/2025/01/09/news-addon-laser-animated/"/>
-        <updated>2025-01-09T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは！ 今回はアドオンの「Laser Animated V3」を紹介します。 こちらのリンクから購入することができます。 Laser Animated V3 「Laser Animated V3」は、レーザービーム […]]]></summary>
-        <author>
-            <name>UEDA</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jungle Pack 90種類の犬、猫、バッファロー、ジャガー、猿、マンモス、恐竜などのリグとアニメーションが設定されたデータセット]]></title>
-        <id>https://modelinghappy.com/?p=61029</id>
-        <link href="https://modelinghappy.com/archives/61029"/>
-        <updated>2025-01-09T09:39:00.000Z</updated>
-        <summary type="html"><![CDATA[Jungle Pack : 90 Animated amp; Rigged Animals, Birds And Insects Jungle PackはBlenderで使用出来るリグとアニメーションが設定されたゲーム
-The post Jungle Pack 90種類の犬、猫、バッファロー、ジャガー、猿、マンモス、恐竜などのリグとアニメーションが設定されたデータセット first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
-        <author>
-            <name>modelinghappy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3Dモデル生成AI「Rodin Gen-1.5 V1.0」公開！　トポロジーや三角／四角ポリゴンメッシュの生成品質向上、PBRテクスチャなど - ニュース]]></title>
-        <id>https://cgworld.jp/flashnews/Rodin-gen15.html</id>
-        <link href="https://cgworld.jp/flashnews/Rodin-gen15.html"/>
-        <updated>2025-01-09T06:02:17.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PhotoshopとLightroomを使用出来るCreative Cloudフォトプラン(20GB)の新規契約が2025年１月15日で終了すると発表]]></title>
-        <id>https://modelinghappy.com/?p=61026</id>
-        <link href="https://modelinghappy.com/archives/61026"/>
-        <updated>2025-01-09T05:50:27.000Z</updated>
-        <summary type="html"><![CDATA[Adobe Creative Cloud フォトプラン（20 GB）の価格改定 AdobeがPhotoshopとLightroomだけを使えるCreative Cloudフォトプラン(20GB)を現在の月額1180円から
-The post PhotoshopとLightroomを使用出来るCreative Cloudフォトプラン(20GB)の新規契約が2025年１月15日で終了すると発表 first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
-        <author>
-            <name>modelinghappy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Houdini コミュニティのトップアーティストが登壇。Houdini HIVE @SIGGRAPH Asia 2024 TOKYO の講演映像]]></title>
-        <id>https://3dtotal.jp/?p=49430</id>
-        <link href="https://3dtotal.jp/news/49430/"/>
-        <updated>2025-01-09T05:19:34.000Z</updated>
-        <summary type="html"><![CDATA[イベント SIGGRAPH Asia 2024（東京 12/3-6 東京）で開催された Houdini HIVE の講演映像。 　 ★Houdini Labs for Games and Realtime FX | Me […]
-The post Houdini コミュニティのトップアーティストが登壇。Houdini HIVE @SIGGRAPH Asia 2024 TOKYO の講演映像 first appeared on 3dtotal 日本語オフィシャルサイト.]]></summary>
-        <author>
-            <name>3dtotal管理人T</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[日南クリエイティブベースが進める、工業デザイン分野での未来を見据えたAI活用 - 特集]]></title>
-        <id>https://cgworld.jp/article/202501-nichinan.html</id>
-        <link href="https://cgworld.jp/article/202501-nichinan.html"/>
-        <updated>2025-01-09T01:30:00.000Z</updated>
-        <summary type="html"><![CDATA[INFORMATION 『With AI－AIと創るクリエイティブ超制作術』（...]]></summary>
         <author>
             <name>CGWORLD</name>
         </author>

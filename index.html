@@ -361,11 +361,84 @@ footer {
             data-action="toggle-accordions"
             title="Click to toggle the day, Ctrl + click to toggle all."
           >
-            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2025-02-08 datetime="2025-02-08T10:00:00.000Z">2025-02-08</time>
-            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2025-02-08 datetime="2025-02-08T10:00:00.000Z"></time>
+            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2025-02-08 datetime="2025-02-08T16:23:30.000Z">2025-02-08</time>
+            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2025-02-08 datetime="2025-02-08T16:23:30.000Z"></time>
           </button>
         </h2>
         <ul class="sources card">
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >Zennの「Houdini」のフィード</button>
+                  <a class="source-heading__link" href="https://zenn.dev/topics/houdini">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://zenn.dev/h_sasaki/articles/dca28824130d62"
+                        open
+                      >
+                        <summary class="article-expander__title">[Houdini][Tips] Attributeのmetadataの種類によってTransformのかかり方が変わるので意識しておこう</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://zenn.dev/h_sasaki/articles/dca28824130d62">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://res.cloudinary.com/zenn/image/upload/s--MOiSqK3x--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%255BHoudini%255D%255BTips%255D%2520Attribute%25E3%2581%25AEmetadata%25E3%2581%25AE%25E7%25A8%25AE%25E9%25A1%259E%25E3%2581%25AB%25E3%2582%2588%25E3%2581%25A3%25E3%2581%25A6Transform%25E3%2581%25AE%25E3%2581%258B%25E3%2581%258B%25E3%2582%258A%25E6%2596%25B9%25E3%2581%258C%25E5%25A4%2589...%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2582%25B5%25E3%2582%25B5%25E3%2582%25AD%2520%25E3%2583%2592%25E3%2583%25AD%25E3%2583%25A6%25E3%2582%25AD%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2M0MzQ2NThlOGEuanBlZw&#x3D;&#x3D;%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>!
+環境：Houdini 20.5
+
+結構重要だと思うのですが、勉強した入門書籍や教材動画には言及がなかった（と思う）のでメモしておきます。
+
+ Attributeのmetadataについて
+↓のように、node infoでAttributeを見ると、変数名・型名の右に [Vec],[Norm],[UV],[Pos] などの記号が付いているものがあります。（無いものもあります。）
+↓の例では、型名はすべて「3 Flt」で同じですが、記号はすべて異なっています。
+
+この記号は「Attribute type metadata」というものです。
+↓の公式ページに書いてあるとおりなのですが、この...</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;1
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://zenn.dev/h_sasaki/articles/cfe48215166be6"
+                        open
+                      >
+                        <summary class="article-expander__title">[UE5][Houdini][Tips] Houdiniで頂点に割り当てたUVが、UEへのインポート時にV値がOneMinusされる？</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://zenn.dev/h_sasaki/articles/cfe48215166be6">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://res.cloudinary.com/zenn/image/upload/s--M4Zukb4k--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%255BUE5%255D%255BHoudini%255D%255BTips%255D%2520Houdini%25E3%2581%25A7%25E9%25A0%2582%25E7%2582%25B9%25E3%2581%25AB%25E5%2589%25B2%25E3%2582%258A%25E5%25BD%2593%25E3%2581%25A6%25E3%2581%259FUV%25E3%2581%258C%25E3%2580%2581UE%25E3%2581%25B8%25E3%2581%25AE%25E3%2582%25A4%25E3%2583%25B3%25E3%2583%259D%25E3%2583%25BC%25E3%2583%2588%25E6%2599%2582%25E3%2581%25ABV%25E5%2580%25A4%25E3%2581%258COn...%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2582%25B5%25E3%2582%25B5%25E3%2582%25AD%2520%25E3%2583%2592%25E3%2583%25AD%25E3%2583%25A6%25E3%2582%25AD%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2M0MzQ2NThlOGEuanBlZw&#x3D;&#x3D;%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>!
+環境：UE 5.5、Houdini 20.5
+
+UVは通常テクスチャマッピングに使いますが、それ意外の用途では、頂点アニメーションさせるときの補助データとして使いたいときがあります。そういったときは、頂点のUVを値として用いることになるのですが、UEではどうやらそのUVのV値がOneMinus（1-x）された値になってしまうようです。
+
+ 症状
+例えば↓のように、Houdiniですべての頂点に uv2：（0.2, 0.3） を仕込んだとします。
+
+それをFBXで書き出してUEにインポートして、↓のようにUV[1]の値をデバッグ表示してみると…、
+（※Houdiniのuv2に対応するU...</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;1
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
             <li class="card__section">
               <section class="js-toggle-accordions-scope">
                 <h3 class="source-heading">
@@ -9905,281 +9978,10 @@ Unityバージョン：6000.0.31f1.7976.6018
             </li>
         </ul>
       </section>
-      <section class="daily-content js-toggle-accordions-scope">
-        <h2 class="daily-heading">
-          <button
-            class="daily-heading-toggle"
-            data-action="toggle-accordions"
-            title="Click to toggle the day, Ctrl + click to toggle all."
-          >
-            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2025-01-10 datetime="2025-01-10T12:00:00.000Z">2025-01-10</time>
-            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2025-01-10 datetime="2025-01-10T12:00:00.000Z"></time>
-          </button>
-        </h2>
-        <ul class="sources card">
-            <li class="card__section">
-              <section class="js-toggle-accordions-scope">
-                <h3 class="source-heading">
-                  <button
-                    class="source-heading__name"
-                    data-action="toggle-accordions"
-                    title="Click to toggle the source, Ctrl + click to toggle all."
-                  >CGbox</button>
-                  <a class="source-heading__link" href="https://cgbox.jp">Open</a>
-                </h3>
-                <section class="articles-per-source">
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://cgbox.jp/?p&#x3D;61481"
-                        open
-                      >
-                        <summary class="article-expander__title">【アドオン紹介】Procedural Cloth Sewing Toolbox – 高度な縫製ツール！</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://cgbox.jp/2025/01/10/news-addon-procedural-cloth-sewing-toolbox/">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://cgbox.jp/wp-content/uploads/2025/01/image_processing20241219-2-1nrx8zf.jpg" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>こんばんは！ 今回はアドオンの「Procedural Cloth Sewing Toolbox For Blender 4.2+」を紹介します。 こちらのリンクから購入することができます。 Procedural Clot […]</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;7
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://cgbox.jp/?p&#x3D;61478"
-                        open
-                      >
-                        <summary class="article-expander__title">【アセット紹介】Stitches Vdm Brushes 41 Pieces – VDMブラシで41種類ステッチを簡単追加！</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://cgbox.jp/2025/01/10/news-asset-stitches-vdm-brushes-41-pieces/">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://cgbox.jp/wp-content/uploads/2025/01/image_processing20241218-2-f9z7k5.jpg" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>こんばんは！ 今回は「Stitches Vdm Brushes 41 Pieces」を紹介します。 Stitches Vdm Brushes 41 Pieces 「Stitches Vdm Brushes 41 Piec […]</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;7
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://cgbox.jp/?p&#x3D;61475"
-                        open
-                      >
-                        <summary class="article-expander__title">【アセット紹介】Ancient Temple Asset Pack – 25種類のアセットで古代寺院を構築！</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://cgbox.jp/2025/01/10/news-asset-ancient-temple-asset-pack/">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://cgbox.jp/wp-content/uploads/2025/01/image_processing20241217-2-snjfh7.jpg" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>こんばんは！ 今回は「Ancient Temple Asset Pack」を紹介します。 Ancient Temple Asset Pack 「Ancient Temple Asset Pack」は、西洋の古代寺院を作る […]</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;7
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://cgbox.jp/?p&#x3D;61548"
-                        open
-                      >
-                        <summary class="article-expander__title">【アセット紹介】Liquid Splash – リアルな液体を簡単再現！</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://cgbox.jp/2025/01/10/news-asset-liquid-splash/">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://cgbox.jp/wp-content/uploads/2025/01/image_processing20250109-2-1ijh4w.jpg" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>こんばんは！ 今回は「Liquid Splash」を紹介します。 Liquid Splash 「Liquid Splash」は、噴水や滝、水流といった液体のアセットライブラリになります。 9つのカテゴリー内に200種類以 […]</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;7
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                </section>
-              </section>
-            </li>
-            <li class="card__section">
-              <section class="js-toggle-accordions-scope">
-                <h3 class="source-heading">
-                  <button
-                    class="source-heading__name"
-                    data-action="toggle-accordions"
-                    title="Click to toggle the source, Ctrl + click to toggle all."
-                  >3D人-3dnchu-</button>
-                  <a class="source-heading__link" href="https://3dnchu.com">Open</a>
-                </h3>
-                <section class="articles-per-source">
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://3dnchu.com/?p&#x3D;1050023"
-                        open
-                      >
-                        <summary class="article-expander__title">Liquid Splash - 200を超える流体モデルを収録したBlender向けアセットコレクション！</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://3dnchu.com/archives/liquid-splash/">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://3dnchu.com/wp-content/uploads/Liquid-Splash.webp" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>数多くのアドオンを公開しているB Productionから、Blenderのアセットブラウザで手軽に使える流体モデルを200個以上収録した「Liquid Splash」アセットコレクションが李リースされました！</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;29
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://3dnchu.com/?p&#x3D;1048363"
-                        open
-                      >
-                        <summary class="article-expander__title">Grid Dimensions/网格标注 - グリッド上に数値を表示する事が出来るシンプルなBlenderアドオン！Extensions上で無料公開！</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://3dnchu.com/archives/grid-dimensions/">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://3dnchu.com/wp-content/uploads/Grid-Dimensions-small.gif" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>Shuimeng氏によるBlenderアドオン「Grid Dimensions/网格标注」がBlender Extensions上で公開されています。</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;29
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://3dnchu.com/?p&#x3D;1048360"
-                        open
-                      >
-                        <summary class="article-expander__title">Stable Point Aware 3D - Stable Point-Aware Reconstruction of 3D Objects from Single Images - Stablity AIが1秒以内に画像を3Dモデル化する技術を発表！世界初のアーキテクチャーを採用！商用利用可！</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://3dnchu.com/archives/stable-point-aware-3d/">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://3dnchu.com/wp-content/uploads/Stable-Point-Aware-3D.webp" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>Stability AIがCES 2025に合わせて新しい1秒以内に画像を3Dモデル化する技術「Stable Point Aware 3D（SPAR3D）」を発表しました！</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;29
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                </section>
-              </section>
-            </li>
-            <li class="card__section">
-              <section class="js-toggle-accordions-scope">
-                <h3 class="source-heading">
-                  <button
-                    class="source-heading__name"
-                    data-action="toggle-accordions"
-                    title="Click to toggle the source, Ctrl + click to toggle all."
-                  >CGWORLD</button>
-                  <a class="source-heading__link" href="https://cgworld.jp/">Open</a>
-                </h3>
-                <section class="articles-per-source">
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://cgworld.jp/flashnews/Nuke-Gaussian-splatting.html"
-                        open
-                      >
-                        <summary class="article-expander__title">Nuke内で3D Gaussian Splatsを扱えるプラグイン「Gaussian Splatting for Nuke」リリース！　読み込みから調整、レンダリングまで対応 - ニュース</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://cgworld.jp/flashnews/Nuke-Gaussian-splatting.html">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://cgworld.jp/flashnews/assets_c/2025/01/Nuke_Gaussian-01-thumb-1280x720-64473.jpg" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;2
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://cgworld.jp/regular/202501-tipsnote.html"
-                        open
-                      >
-                        <summary class="article-expander__title">【Illustrator 2025】使用している色は何の成分でできているかを簡単に説明できる「スウォッチ情報カード」 - 連載</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://cgworld.jp/regular/202501-tipsnote.html">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://cgworld.jp/regular/assets_c/2025/01/Tipsnote-photo-2025183-thumb-800x445-64445.png" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>Illustrator 2025からの新機能「スウォッチ情報カード」を紹介します</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;2
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                </section>
-              </section>
-            </li>
-            <li class="card__section">
-              <section class="js-toggle-accordions-scope">
-                <h3 class="source-heading">
-                  <button
-                    class="source-heading__name"
-                    data-action="toggle-accordions"
-                    title="Click to toggle the source, Ctrl + click to toggle all."
-                  >3dtotal 日本語オフィシャルサイト</button>
-                  <a class="source-heading__link" href="https://3dtotal.jp">Open</a>
-                </h3>
-                <section class="articles-per-source">
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://3dtotal.jp/?p&#x3D;49439"
-                        open
-                      >
-                        <summary class="article-expander__title">君もジェダイになれる!? ILM や ルーカスフィルムのインターンシッププログラム「Jedi Academy」</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://3dtotal.jp/news/49439/">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://3dtotal.jp/wp-content/uploads/2025/01/jediacademy24.jpg" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>★Join the Force | Jedi Academy Interns 2024（3分30秒） Jedi Academy（ジェダイ・アカデミー）は、ルーカスフィルム、インダストリアル・ライト&amp;マジック(ILM)、I […]
-The post 君もジェダイになれる!? ILM や ルーカスフィルムのインターンシッププログラム「Jedi Academy」 first appeared on 3dtotal 日本語オフィシャルサイト.</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;2
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                </section>
-              </section>
-            </li>
-        </ul>
-      </section>
 
     <footer>
-      <a class="footer-link" href="https://github.com/matsuda-titan/art_antenna/actions/runs/13215508919">
-        <time id="build-timestamp" datetime="2025-02-08T12:15:17.341Z">2025-02-08T12:15:17.341Z</time>
+      <a class="footer-link" href="https://github.com/matsuda-titan/art_antenna/actions/runs/13220777374">
+        <time id="build-timestamp" datetime="2025-02-09T00:48:33.781Z">2025-02-09T00:48:33.781Z</time>
       </a>
       <a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.15.1</a>
     </footer>

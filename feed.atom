@@ -2,10 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-02-09T03:14:27.130Z</updated>
+    <updated>2025-02-09T08:10:49.378Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[VATからSkinMatrixを復元する関数の実装メモ]]></title>
+        <id>https://qiita.com/Haru86_/items/98a5d94882bf347b89f6</id>
+        <link href="https://qiita.com/Haru86_/items/98a5d94882bf347b89f6"/>
+        <updated>2025-02-09T07:26:07.000Z</updated>
+        <summary type="html"><![CDATA[実装
+vec4 fetchElement(float JointIndex, int Offset, float v)
+{
+    float texelSizeX = 1.0 / vat_ubo.texW…]]></summary>
+        <author>
+            <name>CGタグが付けられた新着記事 - Qiita</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chasm's Call 3D Challenge -  奥行きのある空間のテンプレートを元にCG制作！Clinton Jones氏によるCGチャレンジの2025年第１回が開催中！提出期限は2024年3月9日！Marvelous DesignerやJangaFX製品が期間中は無料使用可能！ #chasmscall]]></title>
+        <id>https://3dnchu.com/?p=1051601</id>
+        <link href="https://3dnchu.com/archives/chasms-call-3d-challenge/"/>
+        <updated>2025-02-09T05:41:03.000Z</updated>
+        <summary type="html"><![CDATA[VFXアーティストClinton Jones氏（@_Pwnisher_）主催の大規模CGコンテスト3D Community Challenge 第10回目（2025年1回目）の詳細が発表されました！奥行きのあるシーンを構築する『Chasm's Call』チャレンジ！今回も賞品付きの大規模な3Dコミュニティレンダリングチャレンジとなっております。]]></summary>
+        <author>
+            <name>Ymt3D -3dnchu-</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Proterials – 1.0 クローズアップにも使えるフォトリアルで軽量！150種類以上のプロシージャルBlenderマテリアルセット]]></title>
         <id>https://modelinghappy.com/?p=61401</id>

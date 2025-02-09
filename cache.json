@@ -866,6 +866,21 @@
       "siteUrl": "https://3dnchu.com",
       "articles": [
         {
+          "id": "https://3dnchu.com/?p=1051601",
+          "author": "Ymt3D -3dnchu-",
+          "description": "VFXアーティストClinton Jones氏（@_Pwnisher_）主催の大規模CGコンテスト3D Community Challenge 第10回目（2025年1回目）の詳細が発表されました！奥行きのあるシーンを構築する『Chasm's Call』チャレンジ！今回も賞品付きの大規模な3Dコミュニティレンダリングチャレンジとなっております。",
+          "link": "https://3dnchu.com/archives/chasms-call-3d-challenge/",
+          "publishedOn": "2025-02-09T05:41:03.000Z",
+          "wordCount": 9038,
+          "title": "Chasm's Call 3D Challenge -  奥行きのある空間のテンプレートを元にCG制作！Clinton Jones氏によるCGチャレンジの2025年第１回が開催中！提出期限は2024年3月9日！Marvelous DesignerやJangaFX製品が期間中は無料使用可能！ #chasmscall",
+          "enclosure": {
+            "url": "https://3dnchu.com/wp-content/uploads/chasms-call-3d-challenge.webp",
+            "length": "924448",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://3dnchu.com/wp-content/uploads/chasms-call-3d-challenge.webp"
+        },
+        {
           "id": "https://3dnchu.com/?p=1051548",
           "author": "Ymt3D -3dnchu-",
           "description": "Dollars MoCapによるリアルタイムモーション＆フェイシャルキャプチャーツール「Dollars MONO」のご紹介！",
@@ -4106,6 +4121,16 @@
       "feedUrl": "https://qiita.com/tags/cg/feed",
       "siteUrl": "https://qiita.com",
       "articles": [
+        {
+          "id": "https://qiita.com/Haru86_/items/98a5d94882bf347b89f6",
+          "author": null,
+          "description": "実装\nvec4 fetchElement(float JointIndex, int Offset, float v)\n{\n    float texelSizeX = 1.0 / vat_ubo.texW…",
+          "link": "https://qiita.com/Haru86_/items/98a5d94882bf347b89f6",
+          "publishedOn": "2025-02-09T07:26:07.000Z",
+          "wordCount": 728,
+          "title": "VATからSkinMatrixを復元する関数の実装メモ",
+          "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkY0NjE2MDklMkZmOWZhMTQzOGFkNzdlNTllNjNhYTQ0MDc3MGEzMjhmMTI1MGM0N2UwJTJGbGFyZ2UucG5nJTNGMTYyMzczMTczOD9peGxpYj1yYi00LjAuMCZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmZm09cG5nMzImcz1kNzY0ZWQ5YjUwMWQ0MGE2ZTBiZjkzYzgzZTViZTk0NQ%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3De1d94e7683a77b930b1dc0247e9f217b?ixlib=rb-4.0.0&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9VkFUJUUzJTgxJThCJUUzJTgyJTg5U2tpbk1hdHJpeCVFMyU4MiU5MiVFNSVCRSVBOSVFNSU4NSU4MyVFMyU4MSU5OSVFMyU4MiU4QiVFOSU5NiVBMiVFNiU5NSVCMCVFMyU4MSVBRSVFNSVBRSU5RiVFOCVBMyU4NSVFMyU4MyVBMSVFMyU4MyVBMiZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnR4dC1wYWQ9MCZzPTI3YTQ0YzRkZjU3NTgxMTY3OWYyNGM4OTJhNmNhYmFk&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBIYXJ1ODZfJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9YTFiZDg2MDEwMWU5MDczYTU5MzM3ZTgzODhhMDIwNjI&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=8ecec87b85d2a025da8087c59454b90f"
+        },
         {
           "id": "https://qiita.com/inf102/items/f3e7ec0fd067d9863ce3",
           "author": null,

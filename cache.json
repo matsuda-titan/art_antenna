@@ -3718,51 +3718,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--QdGgowkd--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%255BHoudini%255D%2520%25E3%2582%25AA%25E3%2583%2596%25E3%2582%25B8%25E3%2582%25A7%25E3%2582%25AF%25E3%2583%2588%25E3%2582%2592%25E3%2582%25B9%25E3%2583%2597%25E3%2583%25A9%25E3%2582%25A4%25E3%2583%25B3%25E3%2581%25AB%25E6%25B2%25BF%25E3%2581%25A3%25E3%2581%25A6%25E5%258B%2595%25E3%2581%258B%25E3%2581%2599%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2582%25B5%25E3%2582%25B5%25E3%2582%25AD%2520%25E3%2583%2592%25E3%2583%25AD%25E3%2583%25A6%25E3%2582%25AD%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2M0MzQ2NThlOGEuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
-        },
-        {
-          "id": "https://zenn.dev/h_sasaki/articles/d0967916dfc7a0",
-          "author": "ササキ ヒロユキ",
-          "description": "!\n環境：Houdini 20.5\n\n言ってみれば、Mountainノードでやっていることの超簡易版になります。\nMountainノードに習って、\n\n\nFrequency：（ノイズの細かさ）\n\nAmplitude：（ノイズの大きさ）\n\nをパラメータしました。\nfloat frequency = chf(\"frequency\");  // ノイズの密度\nfloat amplitude = chf(\"amplitude\");  // ノイズの高さ\nfloat noise_value = noise(@P.x * frequency, @P.z * frequency) - 0.5f;\n@P....",
-          "link": "https://zenn.dev/h_sasaki/articles/d0967916dfc7a0",
-          "publishedOn": "2025-01-11T14:00:13.000Z",
-          "wordCount": 254,
-          "title": "[Houdini] WrangleでXZ平面上に散らばっているPointにノイズのかかった高さP.yを与えたい",
-          "enclosure": {
-            "url": "https://res.cloudinary.com/zenn/image/upload/s--jnDfQ3Ov--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%255BHoudini%255D%2520Wrangle%25E3%2581%25A7XZ%25E5%25B9%25B3%25E9%259D%25A2%25E4%25B8%258A%25E3%2581%25AB%25E6%2595%25A3%25E3%2582%2589%25E3%2581%25B0%25E3%2581%25A3%25E3%2581%25A6%25E3%2581%2584%25E3%2582%258BPoint%25E3%2581%25AB%25E3%2583%258E%25E3%2582%25A4%25E3%2582%25BA%25E3%2581%25AE%25E3%2581%258B%25E3%2581%258B%25E3%2581%25A3%25E3%2581%259F%25E9%25AB%2598%25E3%2581%2595P.y%25E3%2582%2592%25E4%25B8%258E%25E3%2581%2588%25E3%2581%259F%25E3%2581%2584%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2582%25B5%25E3%2582%25B5%25E3%2582%25AD%2520%25E3%2583%2592%25E3%2583%25AD%25E3%2583%25A6%25E3%2582%25AD%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2M0MzQ2NThlOGEuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png",
-            "length": "0",
-            "type": "image/png"
-          },
-          "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--jnDfQ3Ov--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%255BHoudini%255D%2520Wrangle%25E3%2581%25A7XZ%25E5%25B9%25B3%25E9%259D%25A2%25E4%25B8%258A%25E3%2581%25AB%25E6%2595%25A3%25E3%2582%2589%25E3%2581%25B0%25E3%2581%25A3%25E3%2581%25A6%25E3%2581%2584%25E3%2582%258BPoint%25E3%2581%25AB%25E3%2583%258E%25E3%2582%25A4%25E3%2582%25BA%25E3%2581%25AE%25E3%2581%258B%25E3%2581%258B%25E3%2581%25A3%25E3%2581%259F%25E9%25AB%2598%25E3%2581%2595P.y%25E3%2582%2592%25E4%25B8%258E%25E3%2581%2588%25E3%2581%259F%25E3%2581%2584%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2582%25B5%25E3%2582%25B5%25E3%2582%25AD%2520%25E3%2583%2592%25E3%2583%25AD%25E3%2583%25A6%25E3%2582%25AD%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2M0MzQ2NThlOGEuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
-        },
-        {
-          "id": "https://zenn.dev/h_sasaki/articles/fd07222f2abdf6",
-          "author": "ササキ ヒロユキ",
-          "description": "!\n環境：Houdini 20.5\n\nWrangleで、「RunOver」を「Point」にしたときの @P は、そのPointの位置になりますが、では、「RunOver」を「Primitive」 にしたら @P は何を意味するのでしょうか？\n\n\n答えは、そのPrimitiveのBoundingBoxの重心が返ってくる模様。こちらのページで言及されていました。\n【参考ページ】What does @P when run over Primitives mean?\nこのように重心がゲットできる一方、@Pへのセットは効かない模様。\n他にも、こちらのページもとても参考になります。\n【参考ページ】...",
-          "link": "https://zenn.dev/h_sasaki/articles/fd07222f2abdf6",
-          "publishedOn": "2025-01-11T13:32:09.000Z",
-          "wordCount": 218,
-          "title": "[Houdini] WrangleでRunOverをPrimitiveにしたとき@Pは何になる？",
-          "enclosure": {
-            "url": "https://res.cloudinary.com/zenn/image/upload/s--Tu0Ua_Uz--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%255BHoudini%255D%2520Wrangle%25E3%2581%25A7RunOver%25E3%2582%2592Primitive%25E3%2581%25AB%25E3%2581%2597%25E3%2581%259F%25E3%2581%25A8%25E3%2581%258D%2540P%25E3%2581%25AF%25E4%25BD%2595%25E3%2581%25AB%25E3%2581%25AA%25E3%2582%258B%25EF%25BC%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2582%25B5%25E3%2582%25B5%25E3%2582%25AD%2520%25E3%2583%2592%25E3%2583%25AD%25E3%2583%25A6%25E3%2582%25AD%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2M0MzQ2NThlOGEuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png",
-            "length": "0",
-            "type": "image/png"
-          },
-          "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--Tu0Ua_Uz--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%255BHoudini%255D%2520Wrangle%25E3%2581%25A7RunOver%25E3%2582%2592Primitive%25E3%2581%25AB%25E3%2581%2597%25E3%2581%259F%25E3%2581%25A8%25E3%2581%258D%2540P%25E3%2581%25AF%25E4%25BD%2595%25E3%2581%25AB%25E3%2581%25AA%25E3%2582%258B%25EF%25BC%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2582%25B5%25E3%2582%25B5%25E3%2582%25AD%2520%25E3%2583%2592%25E3%2583%25AD%25E3%2583%25A6%25E3%2582%25AD%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2M0MzQ2NThlOGEuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
-        },
-        {
-          "id": "https://zenn.dev/h_sasaki/articles/4cf64eb8c2a878",
-          "author": "ササキ ヒロユキ",
-          "description": "!\n環境：Houdini 20.5\n\n\n Transformノードのローカル変数のCE系とGC系の違い\n↓のGIF動画のように、原点に置かれたSphereの[X>0, Y>0, Z>0]の領域にあるPrimitiveをGroup化したときの、CE系とGC系の値の違いを示します。\n\n CE系（CEX, CEY, CEZ）:\n\n対象範囲: 入力全体（Groupの設定には影響されない）。\n計算基準: 入力されたジオメトリ全体の重心をグローバル空間で計算し、その座標を返す。\n動作: Groupの設定を変更しても結果は変わらない。\n\n[CEX, CEY, CEZ] = [0.0,...",
-          "link": "https://zenn.dev/h_sasaki/articles/4cf64eb8c2a878",
-          "publishedOn": "2025-01-11T12:56:19.000Z",
-          "wordCount": 227,
-          "title": "[Houdini] Transformノードのローカル変数のCE系とGC系の違い",
-          "enclosure": {
-            "url": "https://res.cloudinary.com/zenn/image/upload/s--Cn0m1Asa--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%255BHoudini%255D%2520Transform%25E3%2583%258E%25E3%2583%25BC%25E3%2583%2589%25E3%2581%25AE%25E3%2583%25AD%25E3%2583%25BC%25E3%2582%25AB%25E3%2583%25AB%25E5%25A4%2589%25E6%2595%25B0%25E3%2581%25AECE%25E7%25B3%25BB%25E3%2581%25A8GC%25E7%25B3%25BB%25E3%2581%25AE%25E9%2581%2595%25E3%2581%2584%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2582%25B5%25E3%2582%25B5%25E3%2582%25AD%2520%25E3%2583%2592%25E3%2583%25AD%25E3%2583%25A6%25E3%2582%25AD%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2M0MzQ2NThlOGEuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png",
-            "length": "0",
-            "type": "image/png"
-          },
-          "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--Cn0m1Asa--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%255BHoudini%255D%2520Transform%25E3%2583%258E%25E3%2583%25BC%25E3%2583%2589%25E3%2581%25AE%25E3%2583%25AD%25E3%2583%25BC%25E3%2582%25AB%25E3%2583%25AB%25E5%25A4%2589%25E6%2595%25B0%25E3%2581%25AECE%25E7%25B3%25BB%25E3%2581%25A8GC%25E7%25B3%25BB%25E3%2581%25AE%25E9%2581%2595%25E3%2581%2584%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2582%25B5%25E3%2582%25B5%25E3%2582%25AD%2520%25E3%2583%2592%25E3%2583%25AD%25E3%2583%25A6%25E3%2582%25AD%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2M0MzQ2NThlOGEuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
         }
       ]
     },

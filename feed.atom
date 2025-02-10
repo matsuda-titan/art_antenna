@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-02-10T00:46:15.798Z</updated>
+    <updated>2025-02-10T03:15:21.305Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
@@ -3647,74 +3647,6 @@ Handle上で右クリックして表示されるコンテキストメニュー�
 
  Curveノード
 まずは「Curve」ノードで、適当にスプラインを引きます。（サンプル...]]></summary>
-        <author>
-            <name>ササキ ヒロユキ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Houdini] WrangleでXZ平面上に散らばっているPointにノイズのかかった高さP.yを与えたい]]></title>
-        <id>https://zenn.dev/h_sasaki/articles/d0967916dfc7a0</id>
-        <link href="https://zenn.dev/h_sasaki/articles/d0967916dfc7a0"/>
-        <updated>2025-01-11T14:00:13.000Z</updated>
-        <summary type="html"><![CDATA[!
-環境：Houdini 20.5
-
-言ってみれば、Mountainノードでやっていることの超簡易版になります。
-Mountainノードに習って、
-
-
-Frequency：（ノイズの細かさ）
-
-Amplitude：（ノイズの大きさ）
-
-をパラメータしました。
-float frequency = chf("frequency");  // ノイズの密度
-float amplitude = chf("amplitude");  // ノイズの高さ
-float noise_value = noise(@P.x * frequency, @P.z * frequency) - 0.5f;
-@P....]]></summary>
-        <author>
-            <name>ササキ ヒロユキ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Houdini] WrangleでRunOverをPrimitiveにしたとき@Pは何になる？]]></title>
-        <id>https://zenn.dev/h_sasaki/articles/fd07222f2abdf6</id>
-        <link href="https://zenn.dev/h_sasaki/articles/fd07222f2abdf6"/>
-        <updated>2025-01-11T13:32:09.000Z</updated>
-        <summary type="html"><![CDATA[!
-環境：Houdini 20.5
-
-Wrangleで、「RunOver」を「Point」にしたときの @P は、そのPointの位置になりますが、では、「RunOver」を「Primitive」 にしたら @P は何を意味するのでしょうか？
-
-
-答えは、そのPrimitiveのBoundingBoxの重心が返ってくる模様。こちらのページで言及されていました。
-【参考ページ】What does @P when run over Primitives mean?
-このように重心がゲットできる一方、@Pへのセットは効かない模様。
-他にも、こちらのページもとても参考になります。
-【参考ページ】...]]></summary>
-        <author>
-            <name>ササキ ヒロユキ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Houdini] Transformノードのローカル変数のCE系とGC系の違い]]></title>
-        <id>https://zenn.dev/h_sasaki/articles/4cf64eb8c2a878</id>
-        <link href="https://zenn.dev/h_sasaki/articles/4cf64eb8c2a878"/>
-        <updated>2025-01-11T12:56:19.000Z</updated>
-        <summary type="html"><![CDATA[!
-環境：Houdini 20.5
-
-
- Transformノードのローカル変数のCE系とGC系の違い
-↓のGIF動画のように、原点に置かれたSphereの[X>0, Y>0, Z>0]の領域にあるPrimitiveをGroup化したときの、CE系とGC系の値の違いを示します。
-
- CE系（CEX, CEY, CEZ）:
-
-対象範囲: 入力全体（Groupの設定には影響されない）。
-計算基準: 入力されたジオメトリ全体の重心をグローバル空間で計算し、その座標を返す。
-動作: Groupの設定を変更しても結果は変わらない。
-
-[CEX, CEY, CEZ] = [0.0,...]]></summary>
         <author>
             <name>ササキ ヒロユキ</name>
         </author>

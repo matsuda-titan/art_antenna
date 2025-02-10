@@ -2,10 +2,55 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-02-09T12:15:25.969Z</updated>
+    <updated>2025-02-10T00:46:15.798Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[#05：デジタルで色を扱うための知識体系『ACESのワークフローが理解できるカラーマネジメントガイド』 - 連載]]></title>
+        <id>https://cgworld.jp/regular/202502-cgw319-book.html</id>
+        <link href="https://cgworld.jp/regular/202502-cgw319-book.html"/>
+        <updated>2025-02-10T00:16:00.000Z</updated>
+        <summary type="html"><![CDATA[デジタルで色を扱うための知識体系を学べる一冊『ACESのワークフローが理解できるカラーマネジメントガイド』を紹介。]]></summary>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[UE5][Houdini][習作] Houdiniで頂点に仕込んだ情報を元に、UEのマテリアルで面の押し出しアニメをしてみました]]></title>
+        <id>https://zenn.dev/h_sasaki/articles/79b0b415344b12</id>
+        <link href="https://zenn.dev/h_sasaki/articles/79b0b415344b12"/>
+        <updated>2025-02-09T13:56:26.000Z</updated>
+        <summary type="html"><![CDATA[!
+環境：UE 5.5、Houdini 20.5
+
+HoudiniでSOPやらVEXやら色々学んだので、Houdini側でモデルの頂点に情報を仕込んで、その情報を元に、UEのマテリアルでWorldPositionOffsetによって面の押し出しアニメをしてみました。
+
+ デモムービー
+こちらが作成したもののデモムービーになります。
+https://www.youtube.com/watch?v=s91xYXiVlCw
+
+ 解説
+
+ [Houdini側] 基本形の作成
+まずは、Shpereの面上をヘキサグリッドにして、各面を少し押し出します。
+
+これを基本形として、頂点に必要な情報を仕込ん...]]></summary>
+        <author>
+            <name>ササキ ヒロユキ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DECODED’s Mesh Cleaner １クリックで重複した頂点削除、三角形を四角形に変換、反転メッシュ修正、穴埋め機能を全て一度に実行してくれる無料アドオン]]></title>
+        <id>https://modelinghappy.com/?p=61411</id>
+        <link href="https://modelinghappy.com/archives/61411"/>
+        <updated>2025-02-09T13:08:13.000Z</updated>
+        <summary type="html"><![CDATA[DECODED#8217;s Mesh Cleaner for Blender DECODED#8217;s Mesh Cleanerは@DECODEDVFXさんが作成した、Blenderでメッシュを素早く綺麗なモデ
+The post DECODED’s Mesh Cleaner １クリックで重複した頂点削除、三角形を四角形に変換、反転メッシュ修正、穴埋め機能を全て一度に実行してくれる無料アドオン first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
+        <author>
+            <name>modelinghappy</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【3Dconnexion】左手で快適に視点操作！3Dマウスで新しい作業環境]]></title>
         <id>https://cgbox.jp/?p=61258</id>
@@ -3672,200 +3717,6 @@ Wrangleで、「RunOver」を「Point」にしたときの @P は、そのPoint�
 [CEX, CEY, CEZ] = [0.0,...]]></summary>
         <author>
             <name>ササキ ヒロユキ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【アセット紹介】Wings Animation Generator – 幻想的なアニメーション付きの翼！]]></title>
-        <id>https://cgbox.jp/?p=61492</id>
-        <link href="https://cgbox.jp/2025/01/11/news-asset-wings-animation-generator/"/>
-        <updated>2025-01-11T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは！ 今回は「Wings Animation Generator」を紹介します。 Wings Animation Generator 「Wings Animation Generator」は、アニメーション付きの […]]]></summary>
-        <author>
-            <name>UEDA</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ユニティちゃんトゥーンシェーダー2.0のアウトラインがAndroidで異常に太くなるのを解決する]]></title>
-        <id>https://qiita.com/segur/items/4a3a1d34374384840937</id>
-        <link href="https://qiita.com/segur/items/4a3a1d34374384840937"/>
-        <updated>2025-01-11T11:43:50.000Z</updated>
-        <summary type="html"><![CDATA[ユニティちゃんトゥーンシェーダー2.0 Androidでアウトラインが異常に太くなる問題を解決する
-ユニティちゃんトゥーンシェーダー2.0を使っていると、iOSでは問題ないのに、Androidでアウ…]]></summary>
-        <author>
-            <name>Shaderタグが付けられた新着記事 - Qiita</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Adobe Substance 3D Painterのシェーダーについて (2)]]></title>
-        <id>https://qiita.com/scixarts/items/f48bb99b54ad510b7c5a</id>
-        <link href="https://qiita.com/scixarts/items/f48bb99b54ad510b7c5a"/>
-        <updated>2025-01-11T11:12:19.000Z</updated>
-        <summary type="html"><![CDATA[環境
-
-Windows
-Adobe Substance 3D Painter 10.1.2
-
-レンダリングエンジンのパラメータにアクセスする方法
-Texture
-Sparse Virtual Textu…]]></summary>
-        <author>
-            <name>SubstancePainterタグが付けられた新着記事 - Qiita</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Adobe Substance 3D Painterのシェーダーについて (2)]]></title>
-        <id>https://qiita.com/scixarts/items/f48bb99b54ad510b7c5a</id>
-        <link href="https://qiita.com/scixarts/items/f48bb99b54ad510b7c5a"/>
-        <updated>2025-01-11T11:12:19.000Z</updated>
-        <summary type="html"><![CDATA[環境
-
-Windows
-Adobe Substance 3D Painter 10.1.2
-
-レンダリングエンジンのパラメータにアクセスする方法
-Texture
-Sparse Virtual Textu…]]></summary>
-        <author>
-            <name>GLSLタグが付けられた新着記事 - Qiita</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【アセット紹介】Egyptian Symbols Alpha/Decal Pack Vol 01 – 50種類のエジプト関連画像コレクション！]]></title>
-        <id>https://cgbox.jp/?p=61489</id>
-        <link href="https://cgbox.jp/2025/01/11/news-asset-egyptian-symbols-alpha-decal-pack-vol-01/"/>
-        <updated>2025-01-11T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは！ 今回は「50 Pieces – Egyptian Symbols Alpha/Decal Pack Vol 01」を紹介します。 50 Pieces – Egyptian Symbo […]]]></summary>
-        <author>
-            <name>UEDA</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【アセット紹介】Crosshair Icons Alpha/Decal Pack Vol 01 – 50種類のクロスヘアのコレクション！]]></title>
-        <id>https://cgbox.jp/?p=61484</id>
-        <link href="https://cgbox.jp/2025/01/11/news-asset-crosshair-icons-alpha-decal-pack-vol-01/"/>
-        <updated>2025-01-11T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは！ 今回は「50 Pieces – Crosshair Icons Alpha/Decal Pack Vol 01」を紹介します。 50 Pieces – Crosshair Icons […]]]></summary>
-        <author>
-            <name>UEDA</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Houdini] Selectツール関連のショートカットキーについて]]></title>
-        <id>https://zenn.dev/h_sasaki/articles/3b140371174725</id>
-        <link href="https://zenn.dev/h_sasaki/articles/3b140371174725"/>
-        <updated>2025-01-11T09:43:50.000Z</updated>
-        <summary type="html"><![CDATA[!
-環境：Houdini 20.5
-
-Houdiniの、Selectツール関連のショートカットキーは以下の通りです。
-
- 基本の選択モード
-
-
-[S]キー：Select Toolのアクティブ化（Geometry選択など）
-
-
-
-
-
-
- 特定の選択モード
-
-
-[2]キー：Point選択モード
-
-
-
-
-
-[3]キー：Edge選択モード
-
-
-
-
-
-[4]キー：Primitive選択モード
-
-
-
-
-
-[5]キー：Vertices選択モード
-
-
-
-
-
-
- 追加ショートカット
-
-
-[Shift + マウス左ボタン]：（複数選択）現在の選択に追加
-
-[Ctrl + マウス左ボタン]：（複数選択）現在の...]]></summary>
-        <author>
-            <name>ササキ ヒロユキ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【アドオン紹介】Librx – 火炎・クロス・パーティクルなどを簡単再現！]]></title>
-        <id>https://cgbox.jp/?p=61556</id>
-        <link href="https://cgbox.jp/2025/01/11/news-addon-librx/"/>
-        <updated>2025-01-11T09:00:00.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは！ 今回はアドオンの「Librx」を紹介します。 こちらのリンクから購入することができます。 Librx 「Librx」は、いろいろな表現をリアルに再現できるVFXコレクションになります。 クロスやパーティクル […]]]></summary>
-        <author>
-            <name>UEDA</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MinVerse - CES 2025の「ベスト・オブ・イノベーション」を受賞！Haply Roboticsから近々販売される小型軽量な3D触覚入力デバイス！Kickstarterに登場予定！先行予約受付中！]]></title>
-        <id>https://3dnchu.com/?p=1049753</id>
-        <link href="https://3dnchu.com/archives/minverse/"/>
-        <updated>2025-01-11T06:37:46.000Z</updated>
-        <summary type="html"><![CDATA[Haply Roboticsにより開発が進められている3D入力デバイス「MinVerse」がCES 2025にて「ベスト・オブ・イノベーション」を受賞したそうです！サイトでは先行予約受付中！]]></summary>
-        <author>
-            <name>Ymt3D -3dnchu-</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WebGPU Ocean - WebGPUを使用しブラウザ上でリアルタイム流体を描画！Githubリポジトリも公開中！]]></title>
-        <id>https://3dnchu.com/?p=1050133</id>
-        <link href="https://3dnchu.com/archives/webgpu-ocean/"/>
-        <updated>2025-01-11T06:01:13.000Z</updated>
-        <summary type="html"><![CDATA[matsuoka-601氏がWebGPUを使用してリアルタイムで海の動きを描画するプロジェクト「WrebGPU Ocean」をGithub上で公開しました。]]></summary>
-        <author>
-            <name>Ymt3D -3dnchu-</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【Unity】FullScreen ShaderGraphで画面転換表現用Materialを作る]]></title>
-        <id>https://zenn.dev/simsimworld/articles/f014b9c0bd16c2</id>
-        <link href="https://zenn.dev/simsimworld/articles/f014b9c0bd16c2"/>
-        <updated>2025-01-11T04:48:26.000Z</updated>
-        <summary type="html"><![CDATA[【概要】
-下記動画を見て自分でもFullScreenShaderGraphを使ってみたいと思い
-「FullScreenShaderGraph」で画面転換表現用のMaterialを作成してみました。
-今回はその忘備録用のざっくりとした記事としていますので、ShaderGraph関連の説明は省いています
-https://youtu.be/7Cd7kQl6N50?si=ESCX8MxcUDm8NqFZ
-【 使用環境 】
-
-Unityバージョン：6000.0.31f1.7976.6018
-
-【全体的な流れ】
-下記手順にそって、画面転換用のMaterialを作成し描画設定を変更します。
-その後Ma...]]></summary>
-        <author>
-            <name>sim</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【無料講座】松本市民向け、Blenderトレーニングキャンプが1月25日・26日の2日間開催！ - ニュース]]></title>
-        <id>https://cgworld.jp/flashnews/Blendercamp.html</id>
-        <link href="https://cgworld.jp/flashnews/Blendercamp.html"/>
-        <updated>2025-01-11T03:44:10.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
         </author>
     </entry>
 </feed>

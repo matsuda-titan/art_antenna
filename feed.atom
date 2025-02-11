@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-02-11T08:13:04.058Z</updated>
+    <updated>2025-02-11T12:18:13.951Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
@@ -14,6 +14,31 @@
         <summary type="html"><![CDATA[ALANWAYNE氏によるシネマティックな雰囲気をサクッと追加出来るBlender用コンポジットノード制御アドオン「Cinematic Compositor v1.2」がリリースされています！]]></summary>
         <author>
             <name>Ymt3D -3dnchu-</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[UE5][Houdini][習作] Houdiniで頂点に仕込んだ情報を元に、UEのマテリアルでポリゴンの部分回転アニメをしてみました]]></title>
+        <id>https://zenn.dev/h_sasaki/articles/542f265a92ed06</id>
+        <link href="https://zenn.dev/h_sasaki/articles/542f265a92ed06"/>
+        <updated>2025-02-11T05:45:05.000Z</updated>
+        <summary type="html"><![CDATA[!
+環境：UE 5.5、Houdini 20.5
+
+前回の習作に続き、Houdini側でモデルの頂点に情報を仕込んで、その情報を元に、UEのマテリアルでWorldPositionOffsetによってポリゴンの部分回転アニメをしてみました。
+【前回の習作】
+https://zenn.dev/h_sasaki/articles/79b0b415344b12
+
+ デモムービー
+こちらが作成したもののデモムービーになります。
+https://www.youtube.com/watch?v=jo83JZ0tR9c
+【ポリゴン（Box）の部分回転の様子】
+
+
+ 解説
+
+ [Houdini側] 基本形...]]></summary>
+        <author>
+            <name>ササキ ヒロユキ</name>
         </author>
     </entry>
     <entry>

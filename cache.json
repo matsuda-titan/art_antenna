@@ -3580,6 +3580,21 @@
       "siteUrl": "https://zenn.dev/topics/houdini",
       "articles": [
         {
+          "id": "https://zenn.dev/h_sasaki/articles/542f265a92ed06",
+          "author": "ササキ ヒロユキ",
+          "description": "!\n環境：UE 5.5、Houdini 20.5\n\n前回の習作に続き、Houdini側でモデルの頂点に情報を仕込んで、その情報を元に、UEのマテリアルでWorldPositionOffsetによってポリゴンの部分回転アニメをしてみました。\n【前回の習作】\nhttps://zenn.dev/h_sasaki/articles/79b0b415344b12\n\n デモムービー\nこちらが作成したもののデモムービーになります。\nhttps://www.youtube.com/watch?v=jo83JZ0tR9c\n【ポリゴン（Box）の部分回転の様子】\n\n\n 解説\n\n [Houdini側] 基本形...",
+          "link": "https://zenn.dev/h_sasaki/articles/542f265a92ed06",
+          "publishedOn": "2025-02-11T05:45:05.000Z",
+          "wordCount": null,
+          "title": "[UE5][Houdini][習作] Houdiniで頂点に仕込んだ情報を元に、UEのマテリアルでポリゴンの部分回転アニメをしてみました",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--_GiFipOc--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%255BUE5%255D%255BHoudini%255D%255B%25E7%25BF%2592%25E4%25BD%259C%255D%2520Houdini%25E3%2581%25A7%25E9%25A0%2582%25E7%2582%25B9%25E3%2581%25AB%25E4%25BB%2595%25E8%25BE%25BC%25E3%2582%2593%25E3%2581%25A0%25E6%2583%2585%25E5%25A0%25B1%25E3%2582%2592%25E5%2585%2583%25E3%2581%25AB%25E3%2580%2581UE%25E3%2581%25AE%25E3%2583%259E%25E3%2583%2586%25E3%2583%25AA%25E3%2582%25A2%25E3%2583%25AB%25E3%2581%25A7%25E3%2583%259D%25E3%2583%25AA%25E3%2582%25B4%25E3%2583%25B3%25E3%2581%25AE%25E9%2583%25A8%25E5%2588%2586%25E5%259B%259E...%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2582%25B5%25E3%2582%25B5%25E3%2582%25AD%2520%25E3%2583%2592%25E3%2583%25AD%25E3%2583%25A6%25E3%2582%25AD%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2M0MzQ2NThlOGEuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png",
+            "length": "0",
+            "type": "image/png"
+          },
+          "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--_GiFipOc--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%255BUE5%255D%255BHoudini%255D%255B%25E7%25BF%2592%25E4%25BD%259C%255D%2520Houdini%25E3%2581%25A7%25E9%25A0%2582%25E7%2582%25B9%25E3%2581%25AB%25E4%25BB%2595%25E8%25BE%25BC%25E3%2582%2593%25E3%2581%25A0%25E6%2583%2585%25E5%25A0%25B1%25E3%2582%2592%25E5%2585%2583%25E3%2581%25AB%25E3%2580%2581UE%25E3%2581%25AE%25E3%2583%259E%25E3%2583%2586%25E3%2583%25AA%25E3%2582%25A2%25E3%2583%25AB%25E3%2581%25A7%25E3%2583%259D%25E3%2583%25AA%25E3%2582%25B4%25E3%2583%25B3%25E3%2581%25AE%25E9%2583%25A8%25E5%2588%2586%25E5%259B%259E...%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2582%25B5%25E3%2582%25B5%25E3%2582%25AD%2520%25E3%2583%2592%25E3%2583%25AD%25E3%2583%25A6%25E3%2582%25AD%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2M0MzQ2NThlOGEuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
+        },
+        {
           "id": "https://zenn.dev/yishizu/articles/428d26176d3790",
           "author": "Yuko Ishizu",
           "description": "1. はじめに\n\n本ワークショップは、2024年9月7日〜9月23日に京都工芸繊維大で開催されたワークショップで開催されたワークショップ「プロシージャルデザイン×セラミック３Dプリンタ」釉薬と土、そしてお茶とお菓子と私 で講師をした際の教えた内容のまとめをしたものです。まずは、前提知識であるHoudiniとGコード、３Dプリンタについて説明します。\n\nデジタルデザインに触れたことがない初学者の方でも気軽にプロシージャルデザインを体験できる内容です。セラミック3Dプリンタで出力可能なデータを作成しながら、プロシージャルデザインの魅力を実感していただくことを目的に企画しました。\n\n近年、...",

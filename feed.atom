@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-02-11T12:18:13.951Z</updated>
+    <updated>2025-02-12T00:44:54.900Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[初心者がToonShaderを作ってみた]]></title>
+        <id>https://qiita.com/gonz93810/items/60270ec2d8b2894a2012</id>
+        <link href="https://qiita.com/gonz93810/items/60270ec2d8b2894a2012"/>
+        <updated>2025-02-11T14:18:30.000Z</updated>
+        <summary type="html"><![CDATA[初めに
+キャラクターをアニメ調で表現するToonshaderを書いてみたので勉強用に記録します。
+解説はコードのコメントに書きました。
+ユニバーサルレンダーパイプラインを使用していますので、インスト…]]></summary>
+        <author>
+            <name>Shaderタグが付けられた新着記事 - Qiita</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Cinematic Compositor v1.2 - シネマティックな雰囲気をサクッと追加出来るBlender用コンポジットノード制御アドオン！]]></title>
         <id>https://3dnchu.com/?p=1051629</id>
@@ -50,6 +63,21 @@ https://www.youtube.com/watch?v=jo83JZ0tR9c
 The post 凍てつくような戦場、息をのむような雪景色..。Rodeo FX のリール「2025 Winter Snow」 first appeared on 3dtotal 日本語オフィシャルサイト.]]></summary>
         <author>
             <name>3dtotal管理人T</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[3Dモデリングソフト「Murairo」をGoogleフォームにて公開しました]]></title>
+        <id>https://zenn.dev/murairo/articles/27c9c44554789b</id>
+        <link href="https://zenn.dev/murairo/articles/27c9c44554789b"/>
+        <updated>2025-02-11T03:31:33.000Z</updated>
+        <summary type="html"><![CDATA[3Dモデリングソフト「Murairo」をDLsiteにて公開しました。使いたい方は下記のGoogleフォームのページからアンケートでダウンロードしてください
+https://docs.google.com/forms/d/e/1FAIpQLSeuwMTry8iBu2dSrIX5j-boccj4Vr5lkxxenZhXX1hmY-MxuA/viewform?usp=header
+Murairoは高速のモデリングを可能とし、下記のようなモデルを3分で作ることができます。
+
+ここでは技術的な事柄について執筆し、それ以外の基本的なことはNoteにて公開するとします。
+https://note.c...]]></summary>
+        <author>
+            <name>murairo</name>
         </author>
     </entry>
     <entry>
@@ -3561,97 +3589,6 @@ The post ムファサの兄弟タカ。映画『ライオン・キング：ム�
 The post Drawmesh グリースペンシルで描いた部分にメッシュを張れるBlender用無料アドオン first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
         <author>
             <name>modelinghappy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【アドオン紹介】Easy Gobo Lights – 118種類のGOBOで複雑な照明を簡単再現！]]></title>
-        <id>https://cgbox.jp/?p=61588</id>
-        <link href="https://cgbox.jp/2025/01/13/news-addon-easy-gobo-lights/"/>
-        <updated>2025-01-13T11:00:51.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは！ 今回はアドオンの「Easy Gobo Lights 」を紹介します。 こちらのリンクから購入することができます。 Easy Gobo Lights  「Easy Gobo Lights  […]]]></summary>
-        <author>
-            <name>UEDA</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【MotionBuilder】Python SDK 入門 第8回 『UI・ツール開発 - PySide』]]></title>
-        <id>https://zenn.dev/nadegata_memo/articles/mobu_pyfbsdk_intro_08</id>
-        <link href="https://zenn.dev/nadegata_memo/articles/mobu_pyfbsdk_intro_08"/>
-        <updated>2025-01-13T10:59:22.000Z</updated>
-        <summary type="html"><![CDATA[この記事は、Python SDK 入門 の第8回目の記事です。
-今回は、UI・ツール開発の前の準備として、Qt(PySide) を利用してUIの要素を取り扱う基礎的な方法について説明します。
-
-
- 1. はじめに
-
- 1.1. Qt / PySide について
-Qt とは、クロスプラットフォームのGUI作成フレームワークです。
-複数のモジュール群から成る大規模なプロジェクトであり[1]、ユーザーは用途に応じて各モジュールを導入して開発を行います。
-
-Qt Documentation - All Modules
-工業製品や描画ソフト、DCC ツールなど様々な場所で導入されていており、Mot...]]></summary>
-        <author>
-            <name>Ndgt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【アドオン紹介】Gobolab Pro – GOBOを追加＆好きにカスタマイズ！]]></title>
-        <id>https://cgbox.jp/?p=61580</id>
-        <link href="https://cgbox.jp/2025/01/13/news-addon-gobolab-pro/"/>
-        <updated>2025-01-13T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは！ 今回はアドオンの「Gobolab Pro」を紹介します。 こちらのリンクから購入することができます。 Gobolab Pro 「Gobolab Pro」は、ライティングを簡単に向上させることができるツールに […]]]></summary>
-        <author>
-            <name>UEDA</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NVIDIA、物理AI向け"世界モデル"「Cosmos」をオープンソースで公開！　Omniverseと組み合わせることでマルチバースシミュレーションが実現 - ニュース]]></title>
-        <id>https://cgworld.jp/flashnews/202501-NVIDIA-Cosmos.html</id>
-        <link href="https://cgworld.jp/flashnews/202501-NVIDIA-Cosmos.html"/>
-        <updated>2025-01-13T09:46:55.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【VFX】参加アーティスト数は1,700人以上。MPCがフルCGで創出した映画『ライオン・キング：ムファサ』の世界 - ニュース]]></title>
-        <id>https://cgworld.jp/flashnews/202501-Mufasa-vfx-mpc.html</id>
-        <link href="https://cgworld.jp/flashnews/202501-Mufasa-vfx-mpc.html"/>
-        <updated>2025-01-13T07:24:30.000Z</updated>
-        <summary type="html"><![CDATA[【MPC】データから紐解く、映画『ライオン・キング：ムファサ』のVFXワーク]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「NVIDIA RTX Kit」発表！ GeForce RTX 50シリーズ時代のリアルなゲームキャラ作成を可能にするニューラル・レンダリング技術群 - ニュース]]></title>
-        <id>https://cgworld.jp/flashnews/202501-NVIDIA-RTX-Kit.html</id>
-        <link href="https://cgworld.jp/flashnews/202501-NVIDIA-RTX-Kit.html"/>
-        <updated>2025-01-13T06:04:02.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AGI Mocap - Webカメラを使用したリアルタイムモーションキャプチャーが可能なソリューション！Blender＆Unity＆UE＆Max＆MMD＆VRChatなどマルチに対応！]]></title>
-        <id>https://3dnchu.com/?p=1050734</id>
-        <link href="https://3dnchu.com/archives/agi-mocap/"/>
-        <updated>2025-01-13T04:43:54.000Z</updated>
-        <summary type="html"><![CDATA[DiMocapからWebカメラを使用したリアルタイムモーションキャプチャーが可能な「AGI（Artificial Graphic Intelligence）Mocap 」がリリースされています！]]></summary>
-        <author>
-            <name>Ymt3D -3dnchu-</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ludus AI - Unreal Engine 5上でAIを活用した3Dモデルの生成やBP解析＆C++コードアシスタント&助言などが可能なプラグイン！]]></title>
-        <id>https://3dnchu.com/?p=1050725</id>
-        <link href="https://3dnchu.com/archives/ludus-ai-ue5/"/>
-        <updated>2025-01-13T03:19:32.000Z</updated>
-        <summary type="html"><![CDATA[Unreal Engine 5上でAIを活用した3Dモデルの生成やBP解析＆C++コードアシスタント&助言などが可能なプラグイン「Ludus AI」のご紹介。]]></summary>
-        <author>
-            <name>Ymt3D -3dnchu-</name>
         </author>
     </entry>
 </feed>

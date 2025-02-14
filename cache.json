@@ -1533,6 +1533,16 @@
       "siteUrl": "https://cgworld.jp/",
       "articles": [
         {
+          "id": "https://cgworld.jp/flashnews/202502-Topaz-Prj-Starlight.html",
+          "author": null,
+          "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
+          "link": "https://cgworld.jp/flashnews/202502-Topaz-Prj-Starlight.html",
+          "publishedOn": "2025-02-14T08:29:27.000Z",
+          "wordCount": 919,
+          "title": "Topaz Labs、動画エンハンス用AI拡散モデル「Project Starlight」発表！　「Video AI 6.1」ベータ版でアーリーアクセス可能 - ニュース",
+          "imageUrl": "https://cgworld.jp/flashnews/assets_c/2025/02/Topaz_Prj_Starlight-01-thumb-1080x608-65944.jpg"
+        },
+        {
           "id": "https://cgworld.jp/flashnews/substance-3d-designer.html",
           "author": null,
           "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
@@ -3492,21 +3502,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--etFPF00_--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:CustomRenderTexture%25E3%2581%25A7%25E5%2589%258D%25E5%259B%259E%25E3%2583%2591%25E3%2582%25B9%25E3%2581%25AE%25E7%25B5%2590%25E6%259E%259C%25E3%2582%2592%25E5%258F%2596%25E5%25BE%2597%25E3%2581%2599%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:dimebag29%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzBiNGJmZjVlM2IuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
-        },
-        {
-          "id": "https://zenn.dev/kr405/articles/f8bf26ad3dd29c",
-          "author": "kr405",
-          "description": "はじめに\nこの記事は前回の続きです。Transparentsが混在するシーンにおいて、指定したオブジェクトがポストエフェクトの影響を受けないようにする方法を提案しています。\n\n 方針\nざっくり下のような流れでレンダリングを行うことで実現を目指します。\n前回の記事では➁➂について解説を行いました。この記事では、➄の方法を掲載しています。\n➀ 通常どおり対象オブジェクトを描画\n➁ RenderPassで対象オブジェクトの色をテクスチャに書き込む\n➂ RenderPassで対象以外のオブジェクトの深度をテクスチャに書き込む\n➃ 通常どおりポストエフェクトをかける\n➄ ➁と➂のテクスチャを使...",
-          "link": "https://zenn.dev/kr405/articles/f8bf26ad3dd29c",
-          "publishedOn": "2025-01-16T00:00:01.000Z",
-          "wordCount": null,
-          "title": "【Unity/URP】一部のオブジェクトをポストエフェクトの対象外にする➁（オブジェクトの再描画）",
-          "enclosure": {
-            "url": "https://res.cloudinary.com/zenn/image/upload/s--UzHzDyfN--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2580%2590Unity%252FURP%25E3%2580%2591%25E4%25B8%2580%25E9%2583%25A8%25E3%2581%25AE%25E3%2582%25AA%25E3%2583%2596%25E3%2582%25B8%25E3%2582%25A7%25E3%2582%25AF%25E3%2583%2588%25E3%2582%2592%25E3%2583%259D%25E3%2582%25B9%25E3%2583%2588%25E3%2582%25A8%25E3%2583%2595%25E3%2582%25A7%25E3%2582%25AF%25E3%2583%2588%25E3%2581%25AE%25E5%25AF%25BE%25E8%25B1%25A1%25E5%25A4%2596%25E3%2581%25AB%25E3%2581%2599%25E3%2582%258B%25E2%259E%2581%25EF%25BC%2588%25E3%2582%25AA%25E3%2583%2596%25E3%2582%25B8%25E3%2582%25A7%25E3%2582%25AF%25E3%2583%2588%25E3%2581%25AE%25E5%2586%258D%25E6%258F%258F%25E7%2594%25BB%25EF%25BC%2589%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:kr405%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2U2NTg2N2Y5NDYuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png",
-            "length": "0",
-            "type": "image/png"
-          },
-          "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--UzHzDyfN--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2580%2590Unity%252FURP%25E3%2580%2591%25E4%25B8%2580%25E9%2583%25A8%25E3%2581%25AE%25E3%2582%25AA%25E3%2583%2596%25E3%2582%25B8%25E3%2582%25A7%25E3%2582%25AF%25E3%2583%2588%25E3%2582%2592%25E3%2583%259D%25E3%2582%25B9%25E3%2583%2588%25E3%2582%25A8%25E3%2583%2595%25E3%2582%25A7%25E3%2582%25AF%25E3%2583%2588%25E3%2581%25AE%25E5%25AF%25BE%25E8%25B1%25A1%25E5%25A4%2596%25E3%2581%25AB%25E3%2581%2599%25E3%2582%258B%25E2%259E%2581%25EF%25BC%2588%25E3%2582%25AA%25E3%2583%2596%25E3%2582%25B8%25E3%2582%25A7%25E3%2582%25AF%25E3%2583%2588%25E3%2581%25AE%25E5%2586%258D%25E6%258F%258F%25E7%2594%25BB%25EF%25BC%2589%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:kr405%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2U2NTg2N2Y5NDYuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
         }
       ]
     },

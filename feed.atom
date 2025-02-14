@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-02-14T08:12:57.178Z</updated>
+    <updated>2025-02-14T12:17:25.150Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Topaz Labs、動画エンハンス用AI拡散モデル「Project Starlight」発表！　「Video AI 6.1」ベータ版でアーリーアクセス可能 - ニュース]]></title>
+        <id>https://cgworld.jp/flashnews/202502-Topaz-Prj-Starlight.html</id>
+        <link href="https://cgworld.jp/flashnews/202502-Topaz-Prj-Starlight.html"/>
+        <updated>2025-02-14T08:29:27.000Z</updated>
+        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[過去にMOODを購入した事がある全てのMODOユーザーは最新版の「MODO 17.1 日本語版」インストーラーとラインセスが無料使用可能になりました。]]></title>
         <id>https://modelinghappy.com/?p=61519</id>
@@ -3633,26 +3643,6 @@ The post Split Blenderでレンダリング画像と作業中のビューをリ�
         <summary type="html"><![CDATA[関連記事 ・Project PLATEAU＞＞No.1 衛星データと3DCG技...]]></summary>
         <author>
             <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【Unity/URP】一部のオブジェクトをポストエフェクトの対象外にする➁（オブジェクトの再描画）]]></title>
-        <id>https://zenn.dev/kr405/articles/f8bf26ad3dd29c</id>
-        <link href="https://zenn.dev/kr405/articles/f8bf26ad3dd29c"/>
-        <updated>2025-01-16T00:00:01.000Z</updated>
-        <summary type="html"><![CDATA[はじめに
-この記事は前回の続きです。Transparentsが混在するシーンにおいて、指定したオブジェクトがポストエフェクトの影響を受けないようにする方法を提案しています。
-
- 方針
-ざっくり下のような流れでレンダリングを行うことで実現を目指します。
-前回の記事では➁➂について解説を行いました。この記事では、➄の方法を掲載しています。
-➀ 通常どおり対象オブジェクトを描画
-➁ RenderPassで対象オブジェクトの色をテクスチャに書き込む
-➂ RenderPassで対象以外のオブジェクトの深度をテクスチャに書き込む
-➃ 通常どおりポストエフェクトをかける
-➄ ➁と➂のテクスチャを使...]]></summary>
-        <author>
-            <name>kr405</name>
         </author>
     </entry>
 </feed>

@@ -2,10 +2,43 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-02-14T00:44:46.189Z</updated>
+    <updated>2025-02-14T03:13:42.424Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[原作はピーター・ブラウンの児童書。ドリームワークス映画『野生の島のロズ』のトレーラー（英語／日本語）]]></title>
+        <id>https://3dtotal.jp/?p=46831</id>
+        <link href="https://3dtotal.jp/news/46831/"/>
+        <updated>2025-02-14T03:00:43.000Z</updated>
+        <summary type="html"><![CDATA[★The Wild Robot | Watch at Home Tomorrow（30秒） ★映画『野生の島のロズ』予告編①ロングバージョン（1分41秒） ★映画『野生の島のロズ』予告編②ロングバージョン（1分43秒）  […]
+The post 原作はピーター・ブラウンの児童書。ドリームワークス映画『野生の島のロズ』のトレーラー（英語／日本語） first appeared on 3dtotal 日本語オフィシャルサイト.]]></summary>
+        <author>
+            <name>3dtotal管理人T</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ライティングとコンポジット。WetaFX より、映画『猿の惑星／キングダム』のメイキング映像]]></title>
+        <id>https://3dtotal.jp/?p=49962</id>
+        <link href="https://3dtotal.jp/news/49962/"/>
+        <updated>2025-02-14T01:23:12.000Z</updated>
+        <summary type="html"><![CDATA[★Lighting and Compositing for Kingdom of the Planet of the Apes（2分15秒） 映画『猿の惑星/キングダム』のライティングとコンポジットは、モーションキャプチ […]
+The post ライティングとコンポジット。WetaFX より、映画『猿の惑星／キングダム』のメイキング映像 first appeared on 3dtotal 日本語オフィシャルサイト.]]></summary>
+        <author>
+            <name>3dtotal管理人T</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Goodbye Kansas の ポータブル サーフェス スキャナー Swatchy]]></title>
+        <id>https://3dtotal.jp/?p=49959</id>
+        <link href="https://3dtotal.jp/news/49959/"/>
+        <updated>2025-02-14T01:22:21.000Z</updated>
+        <summary type="html"><![CDATA[★Introducing Swatchy: The High-Speed Portable Surface Scanner - Goodbye Kansas（47秒） Swatchy（スウォッチー）をご紹介します。高速、 […]
+The post Goodbye Kansas の ポータブル サーフェス スキャナー Swatchy first appeared on 3dtotal 日本語オフィシャルサイト.]]></summary>
+        <author>
+            <name>3dtotal管理人T</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【Photoshop 2025】バナーやタイトル画像を作成する際に超便利！　生成AIとの連動性も強化された「拡張されたフレームレイヤー」 - 連載]]></title>
         <id>https://cgworld.jp/regular/202502-tipsnote.html</id>
@@ -3567,24 +3600,6 @@ The post Split Blenderでレンダリング画像と作業中のビューをリ�
 ➄ ➁と➂のテクスチャを使...]]></summary>
         <author>
             <name>kr405</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WESL (WGSL の拡張) と Slang あたりの動向について調べてメモる]]></title>
-        <id>https://zenn.dev/yutannihilation/articles/4b5eefca3de5ef</id>
-        <link href="https://zenn.dev/yutannihilation/articles/4b5eefca3de5ef"/>
-        <updated>2025-01-15T12:50:19.000Z</updated>
-        <summary type="html"><![CDATA[少し前に Khronos 社が Slang イニシアチブを発表したときに、WESL に言及してる人がちらほらいて、あまり両者の位置づけがよくわかっていなかったので勉強がてらメモります。
-
- WESL
-まずは WESL から見ていきましょう。
-WESL は、WebGPU のためのシェーダー言語 WGSL の拡張です。
-https://github.com/wgsl-tooling-wg/wesl-spec
-具体的には例えば、モジュール化されたコードを import で読み込めるようにする、みたいな仕組みが検討されているようです。
-こんな感じでインポートすると、
-import my/geom...]]></summary>
-        <author>
-            <name>yutannihilation</name>
         </author>
     </entry>
 </feed>

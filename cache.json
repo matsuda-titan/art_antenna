@@ -2967,6 +2967,36 @@
       "siteUrl": "https://3dtotal.jp",
       "articles": [
         {
+          "id": "https://3dtotal.jp/?p=46831",
+          "author": "3dtotal管理人T",
+          "description": "★The Wild Robot | Watch at Home Tomorrow（30秒） ★映画『野生の島のロズ』予告編①ロングバージョン（1分41秒） ★映画『野生の島のロズ』予告編②ロングバージョン（1分43秒）  […]\nThe post 原作はピーター・ブラウンの児童書。ドリームワークス映画『野生の島のロズ』のトレーラー（英語／日本語） first appeared on 3dtotal 日本語オフィシャルサイト.",
+          "link": "https://3dtotal.jp/news/46831/",
+          "publishedOn": "2025-02-14T03:00:43.000Z",
+          "wordCount": 551,
+          "title": "原作はピーター・ブラウンの児童書。ドリームワークス映画『野生の島のロズ』のトレーラー（英語／日本語）",
+          "imageUrl": "https://3dtotal.jp/wp-content/uploads/2025/02/wildrobot_jtrailerl.jpg"
+        },
+        {
+          "id": "https://3dtotal.jp/?p=49962",
+          "author": "3dtotal管理人T",
+          "description": "★Lighting and Compositing for Kingdom of the Planet of the Apes（2分15秒） 映画『猿の惑星/キングダム』のライティングとコンポジットは、モーションキャプチ […]\nThe post ライティングとコンポジット。WetaFX より、映画『猿の惑星／キングダム』のメイキング映像 first appeared on 3dtotal 日本語オフィシャルサイト.",
+          "link": "https://3dtotal.jp/news/49962/",
+          "publishedOn": "2025-02-14T01:23:12.000Z",
+          "wordCount": 515,
+          "title": "ライティングとコンポジット。WetaFX より、映画『猿の惑星／キングダム』のメイキング映像",
+          "imageUrl": "https://3dtotal.jp/wp-content/uploads/2025/02/poakingdom_lc.jpg"
+        },
+        {
+          "id": "https://3dtotal.jp/?p=49959",
+          "author": "3dtotal管理人T",
+          "description": "★Introducing Swatchy: The High-Speed Portable Surface Scanner - Goodbye Kansas（47秒） Swatchy（スウォッチー）をご紹介します。高速、 […]\nThe post Goodbye Kansas の ポータブル サーフェス スキャナー Swatchy first appeared on 3dtotal 日本語オフィシャルサイト.",
+          "link": "https://3dtotal.jp/news/49959/",
+          "publishedOn": "2025-02-14T01:22:21.000Z",
+          "wordCount": 547,
+          "title": "Goodbye Kansas の ポータブル サーフェス スキャナー Swatchy",
+          "imageUrl": "https://3dtotal.jp/wp-content/uploads/2025/02/swatchy_gkansas.jpg"
+        },
+        {
           "id": "https://3dtotal.jp/?p=48688",
           "author": "3dtotal管理人T",
           "description": "★How To Train Your Dragon | Official Trailer（2分28秒） 　 ★How To Train Your Dragon | Official Teaser Trailer（1分15 […]\nThe post 「ヒックとドラゴン」が 実写映画に! 『How To Train Your Dragon』のトレーラー first appeared on 3dtotal 日本語オフィシャルサイト.",
@@ -3444,21 +3474,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--4fe0Bdjv--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%255BUnity%255D%255BSRP%255D%25E3%2583%25AC%25E3%2583%25B3%25E3%2583%2580%25E3%2583%25BC%25E3%2583%2591%25E3%2582%25A4%25E3%2583%2597%25E3%2583%25A9%25E3%2582%25A4%25E3%2583%25B3%25E3%2582%2592%25E8%2587%25AA%25E4%25BD%259C%25E3%2581%2599%25E3%2582%258B%2520%25E3%2581%259D%25E3%2581%25AE1%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Nithink%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jSW9tSmZJMk9nMlRQWDVyMEpHakQtcTVheEVydlVwcHR6bWlVeDN6cjNmb3JIZ1NSQT1zOTYtYw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
-        },
-        {
-          "id": "https://zenn.dev/yutannihilation/articles/4b5eefca3de5ef",
-          "author": "yutannihilation",
-          "description": "少し前に Khronos 社が Slang イニシアチブを発表したときに、WESL に言及してる人がちらほらいて、あまり両者の位置づけがよくわかっていなかったので勉強がてらメモります。\n\n WESL\nまずは WESL から見ていきましょう。\nWESL は、WebGPU のためのシェーダー言語 WGSL の拡張です。\nhttps://github.com/wgsl-tooling-wg/wesl-spec\n具体的には例えば、モジュール化されたコードを import で読み込めるようにする、みたいな仕組みが検討されているようです。\nこんな感じでインポートすると、\nimport my/geom...",
-          "link": "https://zenn.dev/yutannihilation/articles/4b5eefca3de5ef",
-          "publishedOn": "2025-01-15T12:50:19.000Z",
-          "wordCount": 1109,
-          "title": "WESL (WGSL の拡張) と Slang あたりの動向について調べてメモる",
-          "enclosure": {
-            "url": "https://res.cloudinary.com/zenn/image/upload/s--f_yJg3af--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:WESL%2520%2528WGSL%2520%25E3%2581%25AE%25E6%258B%25A1%25E5%25BC%25B5%2529%2520%25E3%2581%25A8%2520Slang%2520%25E3%2581%2582%25E3%2581%259F%25E3%2582%258A%25E3%2581%25AE%25E5%258B%2595%25E5%2590%2591%25E3%2581%25AB%25E3%2581%25A4%25E3%2581%2584%25E3%2581%25A6%25E8%25AA%25BF%25E3%2581%25B9%25E3%2581%25A6%25E3%2583%25A1%25E3%2583%25A2%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:yutannihilation%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2cxWXFZLWt6LTVmNFhSNVdXbjFNOVBpaWxaMkdYNHkwNjdtZy1VOEE9czk2LWM=%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png",
-            "length": "0",
-            "type": "image/png"
-          },
-          "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--f_yJg3af--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:WESL%2520%2528WGSL%2520%25E3%2581%25AE%25E6%258B%25A1%25E5%25BC%25B5%2529%2520%25E3%2581%25A8%2520Slang%2520%25E3%2581%2582%25E3%2581%259F%25E3%2582%258A%25E3%2581%25AE%25E5%258B%2595%25E5%2590%2591%25E3%2581%25AB%25E3%2581%25A4%25E3%2581%2584%25E3%2581%25A6%25E8%25AA%25BF%25E3%2581%25B9%25E3%2581%25A6%25E3%2583%25A1%25E3%2583%25A2%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:yutannihilation%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2cxWXFZLWt6LTVmNFhSNVdXbjFNOVBpaWxaMkdYNHkwNjdtZy1VOEE9czk2LWM=%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
         }
       ]
     },

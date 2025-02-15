@@ -12,6 +12,36 @@
       "siteUrl": "https://cgbox.jp",
       "articles": [
         {
+          "id": "https://cgbox.jp/?p=62303",
+          "author": "kasahara",
+          "description": "こんばんは！ 今回は”Rakenval”さんの動画を紹介します。 How to rig lips in Blender  こちらのチュートリアルでは、リップシンク作り方を勉強できます。 こちらのチュートリアルは […]",
+          "link": "https://cgbox.jp/2025/02/15/news-tutrial-how-to-rig-lips/",
+          "publishedOn": "2025-02-15T07:57:46.000Z",
+          "wordCount": 2248,
+          "title": "【チュートリアル紹介】口元のリギング作成を学べるチュートリアル",
+          "enclosure": {
+            "url": "https://cgbox.jp/wp-content/uploads/2025/02/92dd271c73a6d677a88a78dc9afcde11.mp4",
+            "length": "0",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://cgbox.jp/wp-content/uploads/2025/02/maxresdefault.jpg"
+        },
+        {
+          "id": "https://cgbox.jp/?p=62300",
+          "author": "kasahara",
+          "description": "こんばんは！ 今回はアドオンの「Stylized Materials Library」を紹介します。 こちらのリンクから購入することができます。 Stylized Materials Library 「Stylized  […]",
+          "link": "https://cgbox.jp/2025/02/15/news-addon-stylized-materials-library/",
+          "publishedOn": "2025-02-15T07:33:55.000Z",
+          "wordCount": 2204,
+          "title": "【アドオン紹介】Stylized Materials Library – セミリアルなマテリアルアセット",
+          "enclosure": {
+            "url": "https://cgbox.jp/wp-content/uploads/2025/02/dbf55df75463485dd6c45016f6ac753f.mp4",
+            "length": "0",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://cgbox.jp/wp-content/uploads/2022/05/cropped-favicon.png"
+        },
+        {
           "id": "https://cgbox.jp/?p=62178",
           "author": "CGbox編集部",
           "description": "こんにちは！ 今回は、 ゲームエンジン「 Unreal Engine 5 (UE5)」初心者向けに、アセット（3Dメッシュ・マテリアルなどの素材）の入手・追加方法を紹介します。 UE5を使ってゲームや映像制作を行う際に、 […]",
@@ -1449,36 +1479,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "https://3dnchu.com/wp-content/uploads/Camera-Array-Tool.webp"
-        },
-        {
-          "id": "https://3dnchu.com/?p=1050784",
-          "author": "Ymt3D -3dnchu-",
-          "description": "globglob3DによるXboxコントローラーによる操作でドローン飛行風カメラアニメーションを制作可能な無料のBlenderアドオン「DroneCam 」が公開されています！",
-          "link": "https://3dnchu.com/archives/dronecam-b3d/",
-          "publishedOn": "2025-01-16T16:30:13.000Z",
-          "wordCount": 8538,
-          "title": "DroneCam - Xboxコントローラーによる操作でドローン飛行風カメラアニメーションを制作可能な無料のBlenderアドオン！Windowsのみ対応！",
-          "enclosure": {
-            "url": "https://3dnchu.com/wp-content/uploads/DroneCam.mp4",
-            "length": "6371274",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://3dnchu.com/wp-content/uploads/DroneCam.webp"
-        },
-        {
-          "id": "https://3dnchu.com/?p=1050773",
-          "author": "Ymt3D -3dnchu-",
-          "description": "FX BackPackによるVDBパックのサンプル６つを含んだ「FX BackPack - Discovery Pack」がGumroad上で無料配布されています！",
-          "link": "https://3dnchu.com/archives/fx-backpack-discovery-pack/",
-          "publishedOn": "2025-01-16T16:03:03.000Z",
-          "wordCount": 8604,
-          "title": "FX BackPack - Discovery Pack - 6つの煙＆炎エフェクトファイル（VDBシーケンス＆2K ProRes MOV）が無料配布中！",
-          "enclosure": {
-            "url": "https://3dnchu.com/wp-content/uploads/FX-BackPack-Discovery-Pack.mp4",
-            "length": "4598236",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://3dnchu.com/wp-content/uploads/FX-BackPack-Discovery-Pack.webp"
         }
       ]
     },
@@ -3701,6 +3701,16 @@
       "feedUrl": "https://qiita.com/tags/maya/feed",
       "siteUrl": "https://qiita.com",
       "articles": [
+        {
+          "id": "https://qiita.com/scixarts/items/f16354eecfda0bb55403",
+          "author": null,
+          "description": "環境\n\nWindows\nAutodesk Maya 2025.3\n\nイベントに駆動する処理の作成\nMayaではファイルを開くなどの特定のイベントに合わせて駆動する処理を設定することが可能です。scrip…",
+          "link": "https://qiita.com/scixarts/items/f16354eecfda0bb55403",
+          "publishedOn": "2025-02-15T06:01:19.000Z",
+          "wordCount": 845,
+          "title": "Mayaでシーンイベントに駆動するプラグインを作成する",
+          "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnNlY3VyZS5ncmF2YXRhci5jb20lMkZhdmF0YXIlMkYwNTUwM2ExMzBiOTdmZmM5ZGQ4YTY4Y2M1NzJkNGZlMT9peGxpYj1yYi00LjAuMCZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmZm09cG5nMzImcz04NTM2OTYxNmJhMmViNTRjZWExOTRlMGYzM2E4ZDFkYQ%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D7f87386c08f818f62b56401e43004403?ixlib=rb-4.0.0&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9TWF5YSVFMyU4MSVBNyVFMyU4MiVCNyVFMyU4MyVCQyVFMyU4MyVCMyVFMyU4MiVBNCVFMyU4MyU5OSVFMyU4MyVCMyVFMyU4MyU4OCVFMyU4MSVBQiVFOSVBNyU4NiVFNSU4QiU5NSVFMyU4MSU5OSVFMyU4MiU4QiVFMyU4MyU5NyVFMyU4MyVBOSVFMyU4MiVCMCVFMyU4MiVBNCVFMyU4MyVCMyVFMyU4MiU5MiVFNCVCRCU5QyVFNiU4OCU5MCVFMyU4MSU5OSVFMyU4MiU4QiZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnR4dC1wYWQ9MCZzPTk1MzlmZjM0MWE4YTI4NDkxZjk5ZTQ2MmFkNGYzNmUy&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBzY2l4YXJ0cyZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPTExNjdhNzEyODc0OWI0Yzg4ZjlmYmZmNjY1NTE0NzA4&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=f8ca44365890b00c345dd9a5067af202"
+        },
         {
           "id": "https://qiita.com/scixarts/items/bf95b806059b85f452a8",
           "author": null,

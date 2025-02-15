@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-02-14T12:17:25.150Z</updated>
+    <updated>2025-02-15T00:44:17.978Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
@@ -3545,104 +3545,6 @@ The post 竜、炎、戦、飛翔..。海外ドラマ『ハウス・オブ・ザ
         <summary type="html"><![CDATA[Argentum Studioによる Unreal Engine 5のHair Groomの細かな設定を制御出来るツールセット「Hair Cinematic Tool」が無料公開されています！]]></summary>
         <author>
             <name>Ymt3D -3dnchu-</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【アセット紹介】100 Mutant Zombie Skin And Wounds Brushes – 生々しい皮膚・傷を再現！]]></title>
-        <id>https://cgbox.jp/?p=61686</id>
-        <link href="https://cgbox.jp/2025/01/16/news-asset-100-mutant-zombie-skin-and-wounds-brushes/"/>
-        <updated>2025-01-16T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは！ 今回は「100 Mutant Zombie Skin And Wounds Brushes」を紹介します。 100 Mutant Zombie Skin And Wounds Brushes 「100 Mu […]]]></summary>
-        <author>
-            <name>UEDA</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【アセット紹介】Jewelry Vdm Brush Set – 01 – リアルな宝石を簡単再現！]]></title>
-        <id>https://cgbox.jp/?p=61679</id>
-        <link href="https://cgbox.jp/2025/01/16/news-asset-jewelry-vdm-brush-set-01/"/>
-        <updated>2025-01-16T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは！ 今回は「Jewelry Vdm Brush Set – 01」を紹介します。 Jewelry Vdm Brush Set – 01 「Jewelry Vdm Brush Set &# […]]]></summary>
-        <author>
-            <name>UEDA</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MultiBevel 複数のエッジベベルを一覧で表示して調整する事ができるBlender用アドオン]]></title>
-        <id>https://modelinghappy.com/?p=61123</id>
-        <link href="https://modelinghappy.com/archives/61123"/>
-        <updated>2025-01-16T09:37:43.000Z</updated>
-        <summary type="html"><![CDATA[MultiBevel MultiBevelはBlenderで選択したエッジをベベルした場合にアドオン経由で名前を付けてベベルの厚みを作成後、複数のエッジベベルを一覧で表示して後からでも調整する事ができるアドオンです。 手
-The post MultiBevel 複数のエッジベベルを一覧で表示して調整する事ができるBlender用アドオン first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
-        <author>
-            <name>modelinghappy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【アドオン紹介】Hairflow – 自然な髪を簡単シミュレーション！]]></title>
-        <id>https://cgbox.jp/?p=61673</id>
-        <link href="https://cgbox.jp/2025/01/16/news-addon-hairflow/"/>
-        <updated>2025-01-16T09:00:00.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは！ 今回はアドオンの「Hairflow」を紹介します。 こちらのリンクから購入することができます。 Hairflow 「Hairflow」は、髪にアニメーションを追加するアドオンになります。 ローンチセールで2 […]]]></summary>
-        <author>
-            <name>UEDA</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CustomRenderTextureで前回パスの結果を取得する]]></title>
-        <id>https://zenn.dev/dimebag29/articles/1966223f6fb8e4</id>
-        <link href="https://zenn.dev/dimebag29/articles/1966223f6fb8e4"/>
-        <updated>2025-01-16T04:35:22.000Z</updated>
-        <summary type="html"><![CDATA[概要
-CustomRenderTexture(以降CRTと呼ぶ)ではDouble Bufferを使用することで前回フレームの結果を_SelfTexture2Dとして取得することができます。これと同じように、1フレームの間で、前回パスの結果を_SelfTexture2Dとして取得する方法を紹介します。
-
- 環境
-
-Unity 2022.3.22f1
-
-
- サンプルケース
-今回はCRTで
-
-Pass1で赤色のテクスチャを取得
-Pass2でPass1の結果に緑色を加算 → 黄色になる
-Pass3でPass2の結果に青色を加算 → 白色になる
-
-という3パスに渡った処理を行ってみます。Pas...]]></summary>
-        <author>
-            <name>dimebag29</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[作業をよりスムーズかつ効率的に。Substance 3D Designer 14.1 の新機能紹介（※英語ムービー）]]></title>
-        <id>https://3dtotal.jp/?p=49533</id>
-        <link href="https://3dtotal.jp/news/49533/"/>
-        <updated>2025-01-16T03:58:07.000Z</updated>
-        <summary type="html"><![CDATA[★4 New Features for Better User Experience in Substance 3D Designer（7分10秒） Substance 3D Designer に追加された最新機能のいく […]
-The post 作業をよりスムーズかつ効率的に。Substance 3D Designer 14.1 の新機能紹介（※英語ムービー） first appeared on 3dtotal 日本語オフィシャルサイト.]]></summary>
-        <author>
-            <name>3dtotal管理人T</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Split Blenderでレンダリング画像と作業中のビューをリアルタイムに比較しながら調整出来るアドオン]]></title>
-        <id>https://modelinghappy.com/?p=61119</id>
-        <link href="https://modelinghappy.com/archives/61119"/>
-        <updated>2025-01-16T03:21:14.000Z</updated>
-        <summary type="html"><![CDATA[Split #8211; Real Time Comparison SplitはBlenderでレンダリングした画像と作業中のビュー画面を左右に別けてリアルタイムに比較しながら作業中のモデルの色や質感を変更する事が可能
-The post Split Blenderでレンダリング画像と作業中のビューをリアルタイムに比較しながら調整出来るアドオン first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
-        <author>
-            <name>modelinghappy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[スペースデータ＞＞No.2 宇宙開発の民主化を目指し、宇宙開発プラットフォームを提供 - 特集]]></title>
-        <id>https://cgworld.jp/article/202501-spacedata-2.html</id>
-        <link href="https://cgworld.jp/article/202501-spacedata-2.html"/>
-        <updated>2025-01-16T01:30:00.000Z</updated>
-        <summary type="html"><![CDATA[関連記事 ・Project PLATEAU＞＞No.1 衛星データと3DCG技...]]></summary>
-        <author>
-            <name>CGWORLD</name>
         </author>
     </entry>
 </feed>

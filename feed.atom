@@ -2,10 +2,91 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-02-18T03:12:58.423Z</updated>
+    <updated>2025-02-18T08:13:06.363Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Houdini Pythonでパラメータ名の確認など（備忘録3）]]></title>
+        <id>https://zenn.dev/mj31000/articles/b7624ac28651eb</id>
+        <link href="https://zenn.dev/mj31000/articles/b7624ac28651eb"/>
+        <updated>2025-02-18T07:56:55.000Z</updated>
+        <summary type="html"><![CDATA[自動化で使いそうな小さなスクリプト
+今回もNetwork Editor上での操作を自動化するときに使えそうな、Houdini Pythonについて調べてみました。
+
+選択ノードのパラメータを確認
+選択ノードのSuffixを取得
+
+
+ 環境
+Windows10 Pro
+Houdini Indie 20.5.332 py3.11
+
+ 選択ノードのパラメータを確認
+import hou
+
+selected_nodes = hou.selectedNodes()
+
+if selected_nodes:
+    for node in selected_nodes:
+        param...]]></summary>
+        <author>
+            <name>Hidetake Miyajima</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【アドオン紹介】Fence It! – 色んなフェンスを簡単作成！]]></title>
+        <id>https://cgbox.jp/?p=62323</id>
+        <link href="https://cgbox.jp/2025/02/18/news-addon-fence-it/"/>
+        <updated>2025-02-18T06:49:51.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは！ 今回はアドオンの「Fence It!」を紹介します。 こちらのリンクから購入することができます。 Fence It! 「Fence It!」は、フェンスを簡単に作成することができるアドオン。 カーブを使用し […]]]></summary>
+        <author>
+            <name>kasahara</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Paint Brush Importer Photoshop、GIMP、Procreate、Substance 3D Painterで使っているブラシをBlenderで読み込んで使えるようになる無料アドオン]]></title>
+        <id>https://modelinghappy.com/?p=61621</id>
+        <link href="https://modelinghappy.com/archives/61621"/>
+        <updated>2025-02-18T04:10:28.000Z</updated>
+        <summary type="html"><![CDATA[Paint Brush Importer: Blender Add-on Paint Brush ImporterはBlenderにPhotoshopのブラシ.abr、GIMPのブラシ.gbr、Procreateのブラシ
+The post Paint Brush Importer Photoshop、GIMP、Procreate、Substance 3D Painterで使っているブラシをBlenderで読み込んで使えるようになる無料アドオン first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
+        <author>
+            <name>modelinghappy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[世界的な投資運用会社 T. Rowe Price のプロモーション映像＆ VFXブレイクダウン]]></title>
+        <id>https://3dtotal.jp/?p=50023</id>
+        <link href="https://3dtotal.jp/news/50023/"/>
+        <updated>2025-02-18T04:10:28.000Z</updated>
+        <summary type="html"><![CDATA[★VFXブレイクダウン：T. Rowe Price VFX Breakdown by Rodeo FX（1分30秒） 世界的な投資運用会社 T. Rowe Price (ティー・ロウ・プライス)との この新しいプロジェク […]
+The post 世界的な投資運用会社 T. Rowe Price のプロモーション映像＆ VFXブレイクダウン first appeared on 3dtotal 日本語オフィシャルサイト.]]></summary>
+        <author>
+            <name>3dtotal管理人T</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Zbrush for ipad Zmodelerが2025年4月に追加予定]]></title>
+        <id>https://modelinghappy.com/?p=61612</id>
+        <link href="https://modelinghappy.com/archives/61612"/>
+        <updated>2025-02-18T03:53:26.000Z</updated>
+        <summary type="html"><![CDATA[Zbrush for ipad Zbrush for ipadにZmodelerが2025年4月に追加予定追加されることがアナウンスされました。 Xに投稿された動画では実際にZmodelerを使用している様子が映し出され
+The post Zbrush for ipad Zmodelerが2025年4月に追加予定 first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
+        <author>
+            <name>modelinghappy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MILLENNIUM PARADE『KIZAO』MV　「混沌東京」をフルCGで表現したシリーズ第3作 - 連載]]></title>
+        <id>https://cgworld.jp/regular/318-vfx-kizao.html</id>
+        <link href="https://cgworld.jp/regular/318-vfx-kizao.html"/>
+        <updated>2025-02-18T03:28:00.000Z</updated>
+        <summary type="html"><![CDATA[MILLENNIUM PARADE『KIZAO』MVのVFXメイキングを紹介。]]></summary>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SuperSplat 2.0 - 3D Gaussian Splatsデータの編集や公開の為のオープンソースプラットフォーム！メジャーアップデートが公開！オンラインでシェア可能＆フライスルーカメラ作成などなど！]]></title>
         <id>https://3dnchu.com/?p=1051722</id>

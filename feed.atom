@@ -2,10 +2,64 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-02-20T12:18:27.197Z</updated>
+    <updated>2025-02-21T00:45:57.557Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Pippo: High-Resolution Multi-View Humans from a Single Image - 1枚の人物写真から複数アングル動画を生成する技術！]]></title>
+        <id>https://3dnchu.com/?p=1051833</id>
+        <link href="https://3dnchu.com/archives/pippo/"/>
+        <updated>2025-02-20T23:44:36.000Z</updated>
+        <summary type="html"><![CDATA[Meta Reality Labsとトロント大学、ベクター研究所、カリフォルニア大学バークレー校の研究者らによる「Pippo: High-Resolution Multi-View Humans from a Single Image」は1枚の人物写真から複数アングルの高解像度画像を生成する技術です！]]></summary>
+        <author>
+            <name>Ymt3D -3dnchu-</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【Unity】シェーダーでひびを入れる［その2：ジオメトリシェーダー編］]]></title>
+        <id>https://zenn.dev/lilytechlab/articles/4b67cfbc44ad79</id>
+        <link href="https://zenn.dev/lilytechlab/articles/4b67cfbc44ad79"/>
+        <updated>2025-02-20T12:25:11.000Z</updated>
+        <summary type="html"><![CDATA[前回の記事でフラグメントシェーダーでひびを入れるシェーダーを作りました。
+今回は更にひびっぽさを出すために、モデル変形に踏み込みます。
+
+前回の記事はこちら。
+https://zenn.dev/lilytechlab/articles/518b5e29738f9b
+
+ 頂点シェーダーで凹ませる
+前回の記事ではフラグメントシェーダー内でひびが入った後の座標を計算しています。
+これを頂点シェーダーで行い、頂点の座標を変更してしまえば、ひび部分の頂点を移動させることができます。
+シェーターでひびを入れるコード
+頂点シェーダーでひびを入れる処理
+struct v2f {
+    float4 p...]]></summary>
+        <author>
+            <name>masamin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【Unity】シェーダーでひびを入れる［その2：ジオメトリシェーダー編］]]></title>
+        <id>https://zenn.dev/lilytechlab/articles/4b67cfbc44ad79</id>
+        <link href="https://zenn.dev/lilytechlab/articles/4b67cfbc44ad79"/>
+        <updated>2025-02-20T12:25:11.000Z</updated>
+        <summary type="html"><![CDATA[前回の記事でフラグメントシェーダーでひびを入れるシェーダーを作りました。
+今回は更にひびっぽさを出すために、モデル変形に踏み込みます。
+
+前回の記事はこちら。
+https://zenn.dev/lilytechlab/articles/518b5e29738f9b
+
+ 頂点シェーダーで凹ませる
+前回の記事ではフラグメントシェーダー内でひびが入った後の座標を計算しています。
+これを頂点シェーダーで行い、頂点の座標を変更してしまえば、ひび部分の頂点を移動させることができます。
+シェーターでひびを入れるコード
+頂点シェーダーでひびを入れる処理
+struct v2f {
+    float4 p...]]></summary>
+        <author>
+            <name>masamin</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[オープンソースの3D Gaussian Splattingプラットフォーム「SuperSplat 2.0」リリース！　Webへのパブリッシュ、カメラのフライスルー作成など - ニュース]]></title>
         <id>https://cgworld.jp/flashnews/202502-SuperSplat20.html</id>
@@ -3420,181 +3474,6 @@ The post 「DUNE/デューン 砂の惑星」の1万年前を描く。海外ド�
         <summary type="html"><![CDATA[Ivan Vostrikov氏によるBlenderからゲームエンジンなどに出力する際に便利なツールセットアドオン 「ACT: Game Asset Creation Toolset」のバージョン2025がリリースされました！]]></summary>
         <author>
             <name>Ymt3D -3dnchu-</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【アセット紹介】50 Pieces Graffiti Decal Pack Vol 03 – グラフィティのデカールコレクション！]]></title>
-        <id>https://cgbox.jp/?p=61823</id>
-        <link href="https://cgbox.jp/2025/01/22/news-asset-50-pieces-graffiti-decal-pack-vol-03/"/>
-        <updated>2025-01-22T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは！ 今回は「50 Pieces Graffiti Decal Pack Vol 03」を紹介します。 50 Pieces Graffiti Decal Pack Vol 03 「50 Pieces Graffi […]]]></summary>
-        <author>
-            <name>UEDA</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【アセット紹介】Ivy Generator Kit – 4種のジェネレーターでツタを追加！]]></title>
-        <id>https://cgbox.jp/?p=61813</id>
-        <link href="https://cgbox.jp/2025/01/22/news-asset-ivy-generator-kit/"/>
-        <updated>2025-01-22T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは！ 今回は「Ivy Generator Kit」を紹介します。 Ivy Generator Kit 「Ivy Generator Kit」は、4種類のツタジェネレーターになります。 カーブベース、表面ベース、吊 […]]]></summary>
-        <author>
-            <name>UEDA</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CGアーティスト実態調査2024 集計結果 - Japanese VFX CommunityによるVFXアーティストの雇用形態に関する調査！正社員＆契約社員＆フリーランスの業界別年収データなどを掲載！]]></title>
-        <id>https://3dnchu.com/?p=1050712</id>
-        <link href="https://3dnchu.com/archives/cg-artist-fact-finding-survey-2024-results/"/>
-        <updated>2025-01-22T09:54:03.000Z</updated>
-        <summary type="html"><![CDATA[めだか氏（@MedakaVfx）の運用するJapanese VFX Communityによる、「CGアーティスト実態調査2024 集計結果」が昨年末に公開されておりました。]]></summary>
-        <author>
-            <name>Ymt3D -3dnchu-</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Autograph 2025 - Left Angleによるコンポジット＆モーションデザイン＆VFXの為のソフトウェア！最新アップデート！UI刷新！新3D機能！Davinciなどとライブリンク！AE読み込み！商用利用OKの無料版も登場！]]></title>
-        <id>https://3dnchu.com/?p=1050917</id>
-        <link href="https://3dnchu.com/archives/autograph-2025/"/>
-        <updated>2025-01-22T09:36:39.000Z</updated>
-        <summary type="html"><![CDATA[Left Angleによるコンポジット＆モーションデザイン＆VFXソフトウェア「Autograph」の2025がリリースされています。無料版もありますよ！]]></summary>
-        <author>
-            <name>Ymt3D -3dnchu-</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【アセット紹介】Nodee: Furnitures – 自由自在に調整できる家具コレクション！]]></title>
-        <id>https://cgbox.jp/?p=61805</id>
-        <link href="https://cgbox.jp/2025/01/22/news-asset-nodee-furnitures/"/>
-        <updated>2025-01-22T09:00:00.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは！ 今回は「Nodee: Furnitures」を紹介します。 Nodee: Furnitures 「Nodee: Furnitures」は、プロージャルな家具のセットになります。 ジオメトリーノードで作られて […]]]></summary>
-        <author>
-            <name>UEDA</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[画像・動画生成AIプラットフォーム「KREA」に画像から3Dオブジェクトへの変換機能が追加！　モデルを動かすたびにリアルタイムで画像生成 - ニュース]]></title>
-        <id>https://cgworld.jp/flashnews/202501-KREA-AI.html</id>
-        <link href="https://cgworld.jp/flashnews/202501-KREA-AI.html"/>
-        <updated>2025-01-22T06:44:58.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Even Edges 乱れたエッジを整列、移動して三角形でも調整出来るアドオン]]></title>
-        <id>https://modelinghappy.com/?p=61197</id>
-        <link href="https://modelinghappy.com/archives/61197"/>
-        <updated>2025-01-22T05:02:26.000Z</updated>
-        <summary type="html"><![CDATA[Even Edges Even EdgesはBlenderで選択したエッジをスプラインとして扱いそのスプラインに沿って均等に頂点を整列してくれるアドオンです。 多角形でも等間隔に配列可能で、エッジを綺麗に整列する以外に片
-The post Even Edges 乱れたエッジを整列、移動して三角形でも調整出来るアドオン first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
-        <author>
-            <name>modelinghappy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CurveFitting元の形状をキープしながら不揃いの頂点を滑らかに整列出来る Blender用無料アドオン]]></title>
-        <id>https://modelinghappy.com/?p=61190</id>
-        <link href="https://modelinghappy.com/archives/61190"/>
-        <updated>2025-01-22T03:46:39.000Z</updated>
-        <summary type="html"><![CDATA[CurveFitting CurveFittingはZuda77さんが作成したBlenderで元の形状をキープしながら不揃いの頂点を滑らかに整列出来るアドオンです。 アドオンを使用するには頂点またはエッジを選択して右クリ
-The post CurveFitting元の形状をキープしながら不揃いの頂点を滑らかに整列出来る Blender用無料アドオン first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
-        <author>
-            <name>modelinghappy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Unity Shader GraphでNamed Redirectを作ってみた]]></title>
-        <id>https://zenn.dev/matrixsoftware/articles/bdd465cc9f906d</id>
-        <link href="https://zenn.dev/matrixsoftware/articles/bdd465cc9f906d"/>
-        <updated>2025-01-22T03:00:01.000Z</updated>
-        <summary type="html"><![CDATA[こんにちは！
-株式会社マトリックス 開発部 技術課の雉鳥です！
-今回は、Shader Graph のノード整理に役立つ「Named Redirect」機能を実装してみたので、その過程と効果についてご紹介します。
-Unreal Engine の Material Editor にある Named Reroute のようなものを Shader Graph に導入することで、ノードグラフの可読性を向上させることができました。
-
- Named Redirectってなに？
-Named Redirect は、Shader Graph 内のノード接続を、名前を介して行う機能です。
-値を「Set ノード...]]></summary>
-        <author>
-            <name>株式会社マトリックス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Unity Shader GraphでNamed Redirectを作ってみた]]></title>
-        <id>https://zenn.dev/matrixsoftware/articles/bdd465cc9f906d</id>
-        <link href="https://zenn.dev/matrixsoftware/articles/bdd465cc9f906d"/>
-        <updated>2025-01-22T03:00:01.000Z</updated>
-        <summary type="html"><![CDATA[こんにちは！
-株式会社マトリックス 開発部 技術課の雉鳥です！
-今回は、Shader Graph のノード整理に役立つ「Named Redirect」機能を実装してみたので、その過程と効果についてご紹介します。
-Unreal Engine の Material Editor にある Named Reroute のようなものを Shader Graph に導入することで、ノードグラフの可読性を向上させることができました。
-
- Named Redirectってなに？
-Named Redirect は、Shader Graph 内のノード接続を、名前を介して行う機能です。
-値を「Set ノード...]]></summary>
-        <author>
-            <name>株式会社マトリックス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Luma AI、「Dream Machine」で利用可能な新しい動画生成モデル「Ray2」発表！　自然で一貫した動きのリアルな映像を生成 - ニュース]]></title>
-        <id>https://cgworld.jp/flashnews/202501-Luma-Ray2.html</id>
-        <link href="https://cgworld.jp/flashnews/202501-Luma-Ray2.html"/>
-        <updated>2025-01-22T02:45:29.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[セル画風に描く。Marc Brunet氏の「MY FULL CEL-SHADING DRAWING PROCESS」(※英語ムービー)]]></title>
-        <id>https://3dtotal.jp/?p=49585</id>
-        <link href="https://3dtotal.jp/tutorials/49585/"/>
-        <updated>2025-01-22T02:31:11.000Z</updated>
-        <summary type="html"><![CDATA[★MY FULL CEL-SHADING DRAWING PROCESS - 2025（9分53秒） オンラインアートスクール Cubebrush の設立者でもある コンセプトアーティスト/ イラストレーター Marc  […]
-The post セル画風に描く。Marc Brunet氏の「MY FULL CEL-SHADING DRAWING PROCESS」(※英語ムービー) first appeared on 3dtotal 日本語オフィシャルサイト.]]></summary>
-        <author>
-            <name>3dtotal管理人T</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[UE 5.5 以降に搭載される新機能は!? 講演映像「Future Features in Unreal Engine: 5.5 and Beyond」]]></title>
-        <id>https://3dtotal.jp/?p=49631</id>
-        <link href="https://3dtotal.jp/news/49631/"/>
-        <updated>2025-01-22T02:30:40.000Z</updated>
-        <summary type="html"><![CDATA[★Future Features in Unreal Engine: 5.5 and Beyond（58分45秒） イベント Unreal Fest Seattle 2024（9/30-10/3 シアトル）における Ep […]
-The post UE 5.5 以降に搭載される新機能は!? 講演映像「Future Features in Unreal Engine: 5.5 and Beyond」 first appeared on 3dtotal 日本語オフィシャルサイト.]]></summary>
-        <author>
-            <name>3dtotal管理人T</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GraphicsLibrary SkiaSharp「Mystify」]]></title>
-        <id>https://qiita.com/inf102/items/f3e7ec0fd067d9863ce3</id>
-        <link href="https://qiita.com/inf102/items/f3e7ec0fd067d9863ce3"/>
-        <updated>2025-01-22T01:39:04.000Z</updated>
-        <summary type="html"><![CDATA[・M.S.社のMystifyスクリーンセーバのSkiaSharp WPF版。
-・だんだん崩れるので展開後、指定秒後に再描画してます。
-
-
-1.キー操作説明
-
-
-[F]...................…]]></summary>
-        <author>
-            <name>CGタグが付けられた新着記事 - Qiita</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Project PLATEAU＞＞No.3 民間のアイデアを集め、ソリューションを生み出す - 特集]]></title>
-        <id>https://cgworld.jp/article/202501-plateau-3.html</id>
-        <link href="https://cgworld.jp/article/202501-plateau-3.html"/>
-        <updated>2025-01-22T01:30:00.000Z</updated>
-        <summary type="html"><![CDATA[関連記事 ・Project PLATEAU＞＞No.1 誰もが開発にコミットで...]]></summary>
-        <author>
-            <name>CGWORLD</name>
         </author>
     </entry>
 </feed>

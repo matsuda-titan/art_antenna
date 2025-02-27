@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-02-27T03:18:18.221Z</updated>
+    <updated>2025-02-27T08:13:25.176Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[数クリックでオリジナルスタジアムを作成出来るBlender用Procedural Stadiums]]></title>
+        <id>https://modelinghappy.com/?p=61886</id>
+        <link href="https://modelinghappy.com/archives/61886"/>
+        <updated>2025-02-27T04:18:03.000Z</updated>
+        <summary type="html"><![CDATA[Procedural Stadiums Procedural StadiumsはBlenderでスタジアムをプリセットを配置して数回クリックするだけでプロシージャルに作成出来るモディファイアーです。 スタジアムの種類も豊
+The post 数クリックでオリジナルスタジアムを作成出来るBlender用Procedural Stadiums first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
+        <author>
+            <name>modelinghappy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[動画生成AI「CineMaster」発表！　3D空間内のオブジェクトとカメラを柔軟に制御可能なText-to-Videoフレームワーク - ニュース]]></title>
+        <id>https://cgworld.jp/flashnews/202502-CineMaster.html</id>
+        <link href="https://cgworld.jp/flashnews/202502-CineMaster.html"/>
+        <updated>2025-02-27T03:23:07.000Z</updated>
+        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ENGIのCGチームが語る「3DCGならではのアニメづくりのおもしろさ・働く上で大切なポイント」とは？～あにつく2024（2） - 特集]]></title>
         <id>https://cgworld.jp/article/202502-atsuc2024-02.html</id>
@@ -34,6 +55,35 @@
         <summary type="html"><![CDATA[アーティスト向けCADの2025年最新アップデート「Plasticity 2025.1」がリリースされました！]]></summary>
         <author>
             <name>Ymt3D -3dnchu-</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【UE5】「コア」を作ろう【Material】]]></title>
+        <id>https://zenn.dev/moristudio/articles/032780a09a47c6</id>
+        <link href="https://zenn.dev/moristudio/articles/032780a09a47c6"/>
+        <updated>2025-02-26T16:57:58.000Z</updated>
+        <summary type="html"><![CDATA[やりたいこと
+オブジェクトの中心にコアっぽい円を描く方法の紹介。
+シンプルながら検索でヒットしづらかったので覚書。
+
+
+ 環境
+
+UE5.3.2
+ブループリントプロジェクト
+
+
+ 実装
+まず、平面であればPositionとDistanceノードで円を描くことができる。
+
+メッシュの凹凸を考慮する必要があるので、視線Vectorに垂直な面となるようPositionを補正する。
+
+無学につき、ぺっちゃんこ（※原文ママ）のやり方はChatGPTに訊いた。
+
+nがCameraVectorに該当する
+あとはmultiplyやpowで調整して完成。]]></summary>
+        <author>
+            <name>mori studio</name>
         </author>
     </entry>
     <entry>

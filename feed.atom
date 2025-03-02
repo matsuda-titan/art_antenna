@@ -2,10 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-03-01T12:16:32.298Z</updated>
+    <updated>2025-03-02T00:50:41.750Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Houdini PythonでSubnetの出力コネクタ数を増やす（備忘録4）]]></title>
+        <id>https://zenn.dev/mj31000/articles/8d953352e23313</id>
+        <link href="https://zenn.dev/mj31000/articles/8d953352e23313"/>
+        <updated>2025-03-01T23:53:18.000Z</updated>
+        <summary type="html"><![CDATA[Subnetに出力コネクタを追加したい
+今回のスクリプトは、Subnet利用してノードを整理する際に、繰り返し使うノードの組み合わせを自動的にSubnet内に作成することを目的としています。ここではOutputノード追加して、Subnetの出力コネクタを増やしたいと思います。
+
+出力コネクタを増やしたい
+Subnetを作成すると、デフォルトではOutputノードが1つですが、私の作業ではOutputを3つにする必要がありました。RBDの仕込みにおいて、パーツによってVDB to Spheresを使用したり、軸を拘束したり、元の形状をコリジョンで使用したりと、異なる仕込みが必要になるた...]]></summary>
+        <author>
+            <name>Hidetake Miyajima</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unityで、スタンドアロン型VR機のゲーム中に2万人を超える観衆をレンダリングする]]></title>
+        <id>https://qiita.com/hgodai/items/a6fc7bdcef0940f11d00</id>
+        <link href="https://qiita.com/hgodai/items/a6fc7bdcef0940f11d00"/>
+        <updated>2025-03-01T14:51:23.000Z</updated>
+        <summary type="html"><![CDATA[本記事は、「ソフトウエア研究会in秋葉原」で2021年に発表した、個別にアニメーションをする2万人を超える観衆の3Dモデルをレンダリングする技術の発表資料です。
+本技術は、公開済みのQuest向けV…]]></summary>
+        <author>
+            <name>Shaderタグが付けられた新着記事 - Qiita</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Substance 3D PainterではPython APIとJavaScript APIのどちらを使用したほうがよいか？]]></title>
         <id>https://qiita.com/scixarts/items/5004524c728caa35e72a</id>
@@ -2993,137 +3018,6 @@ The post Substance Designerを１から学んでスタイライズド調のPBR�
         <summary type="html"><![CDATA[R animation studiosによる自然物系アセットアセットライブラリアドオン「Nisarga」がいつの間にかV6になっています。]]></summary>
         <author>
             <name>Ymt3D -3dnchu-</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【アドオン紹介】Figaro – ベースメッシュを瞬時に簡単に生成！]]></title>
-        <id>https://cgbox.jp/?p=62065</id>
-        <link href="https://cgbox.jp/2025/01/31/news-addon-figaro/"/>
-        <updated>2025-01-31T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは！ 今回はアドオンの「Figaro」を紹介します。 こちらのリンクから購入することができます。 Figaro 「Figaro」は、キャラクターのベースメッシュを迅速かつ簡単に作ることのできるアドオンになります。 […]]]></summary>
-        <author>
-            <name>UEDA</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【バーチャルプロダクション】Pixomondoが、クルマなどの移動体の撮影の自由度を飛躍的に拡張させるシステム「PXO AKIRA」を発表 - ニュース]]></title>
-        <id>https://cgworld.jp/flashnews/202501-PXO-AKIRA.html</id>
-        <link href="https://cgworld.jp/flashnews/202501-PXO-AKIRA.html"/>
-        <updated>2025-01-31T09:31:36.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[世界最高峰のクリエイティブスクール「VOXEL SCHOOL」とコンセプトアートスタジオ「WACHAJACK」がパートナーシップを締結！スペインにWACHAJACKのラボを新設 - ニュース]]></title>
-        <id>https://cgworld.jp/flashnews/2501-wachajack.html</id>
-        <link href="https://cgworld.jp/flashnews/2501-wachajack.html"/>
-        <updated>2025-01-31T09:01:10.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【アドオン紹介】Hair Optimizer – 複雑な髪の毛を最適化して処理軽減！]]></title>
-        <id>https://cgbox.jp/?p=62059</id>
-        <link href="https://cgbox.jp/2025/01/31/news-addon-hair-optimizer/"/>
-        <updated>2025-01-31T09:00:00.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは！ 今回はアドオンの「Hair Optimizer」を紹介します。 こちらのリンクから購入することができます。 Hair Optimizer 「Hair Optimizer」は、髪の毛のポリゴン数を調整できるア […]]]></summary>
-        <author>
-            <name>UEDA</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Adobeが「Substance 3D Assets」への無限アクセスを導入－約20,000点のアセットを自由に利用できる - ニュース]]></title>
-        <id>https://cgworld.jp/flashnews/2501-adobe-substance-3d-assets.html</id>
-        <link href="https://cgworld.jp/flashnews/2501-adobe-substance-3d-assets.html"/>
-        <updated>2025-01-31T08:35:01.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[UE5レンダリングフロー総おさらい(2024) 基礎編！[CEDEC+KYUSHU 2024] - 加筆調整されたスライドが公開！Unreal Engine 5 使用者は見ておくべき必須資料！]]></title>
-        <id>https://3dnchu.com/?p=1051278</id>
-        <link href="https://3dnchu.com/archives/ue5-render-cedeckyusyu24-basic-slide/"/>
-        <updated>2025-01-31T08:14:56.000Z</updated>
-        <summary type="html"><![CDATA[2024年11月に開催された「CEDEC+KYUSHU2024」のEpic Games Japanの篠山氏による講演スライドが加筆調整され公開されました！]]></summary>
-        <author>
-            <name>Ymt3D -3dnchu-</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Can 3D Printed Shoes Be Classy? I Put Them to the Test at a Major Event! - 3Dプリントした実際に履けるクラシックなフォーマルシューズの試行錯誤が垣間見えるメイキング動画！]]></title>
-        <id>https://3dnchu.com/?p=1051260</id>
-        <link href="https://3dnchu.com/archives/can-3d-printed-shoes-proper-printing/"/>
-        <updated>2025-01-31T07:52:21.000Z</updated>
-        <summary type="html"><![CDATA[YoutubeチャンネルProper PrintingのJón Schone氏が、3Dプリント製のクラシックなフォーマルシューズを自ら設計・製作し、世界最大の3Dプリント展示会「Formnext」に履いていく挑戦の記録を動画公開しました。]]></summary>
-        <author>
-            <name>Ymt3D -3dnchu-</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Can 3D Printed Shoes Be Classy? I Put Them to the Test at a Major Event! - 3Dプリントした実際に履けるクラシックなフォーマルシューズの試行錯誤が垣間見えるメイキング動画！]]></title>
-        <id>https://3dnchu.com/?p=1051260</id>
-        <link href="https://3dnchu.com/archives/can-3d-printed-shoes-be-classy-i-put-them-to-the-test-at-a-major-event-3d%e3%83%97%e3%83%aa%e3%83%b3%e3%83%88%e3%81%97%e3%81%9f%e5%ae%9f%e9%9a%9b%e3%81%ab%e5%b1%a5%e3%81%91%e3%82%8b%e3%82%af/"/>
-        <updated>2025-01-31T07:52:21.000Z</updated>
-        <summary type="html"><![CDATA[YoutubeチャンネルProper PrintingのJón Schone氏が、3Dプリント製のクラシックなフォーマルシューズを自ら設計・製作し、世界最大の3Dプリント展示会「Formnext」に履いていく挑戦の記録を動画公開しました。]]></summary>
-        <author>
-            <name>Ymt3D -3dnchu-</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3Dモデル生成AI「Tripo 2.5」公開！　より正確なジオメトリ生成、PBRエフェクトの強化など - ニュース]]></title>
-        <id>https://cgworld.jp/flashnews/202501-Tripo25.html</id>
-        <link href="https://cgworld.jp/flashnews/202501-Tripo25.html"/>
-        <updated>2025-01-31T07:37:46.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[オカムラが運営するメタバース用の企業公式3Dデータ販売サイト 「RoomieTale」にて、カリモク家具、川島織物セルコン、エレコムなどの公式3Dデータの取り扱いを開始 - ニュース]]></title>
-        <id>https://cgworld.jp/flashnews/2501-roomietale3d.html</id>
-        <link href="https://cgworld.jp/flashnews/2501-roomietale3d.html"/>
-        <updated>2025-01-31T04:54:44.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Maya、Cinema 4D、SketchUp、Rhino、3ds Max 用、 レンダラー V-Ray 7 の新機能紹介ムービー集]]></title>
-        <id>https://3dtotal.jp/?p=49761</id>
-        <link href="https://3dtotal.jp/news/49761/"/>
-        <updated>2025-01-31T02:38:26.000Z</updated>
-        <summary type="html"><![CDATA[★What's new in V-Ray 7 for Maya（5分56秒） 制作方法を変革、加速させます。V-Ray 7 for Maya は、最先端のテクノロジーと強力な新機能を導入し、これまで以上にリアルなシーンの […]
-The post Maya、Cinema 4D、SketchUp、Rhino、3ds Max 用、 レンダラー V-Ray 7 の新機能紹介ムービー集 first appeared on 3dtotal 日本語オフィシャルサイト.]]></summary>
-        <author>
-            <name>3dtotal管理人T</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ジャパニーズホラーの雄が新スタジオから贈る野心作『野狗子: Slitterhead』 - 特集]]></title>
-        <id>https://cgworld.jp/article/202501-cgw317-yks.html</id>
-        <link href="https://cgworld.jp/article/202501-cgw317-yks.html"/>
-        <updated>2025-01-31T01:44:00.000Z</updated>
-        <summary type="html"><![CDATA[『野狗子: Slitterhead』のCGメイキングを紹介。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TVアニメ『アオのハコ』Houdiniの活用により同時進行型ワークフローを構築し導入〜（3）CopernicusやKineFXの活用篇 - 特集]]></title>
-        <id>https://cgworld.jp/article/2412-aonohako03.html</id>
-        <link href="https://cgworld.jp/article/2412-aonohako03.html"/>
-        <updated>2025-01-31T01:00:54.000Z</updated>
-        <summary type="html"><![CDATA[TVアニメ『アオのハコ』のアニメCGメイキングを紹介。]]></summary>
-        <author>
-            <name>CGWORLD</name>
         </author>
     </entry>
 </feed>

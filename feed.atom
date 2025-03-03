@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-03-02T12:16:15.105Z</updated>
+    <updated>2025-03-03T00:49:36.614Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Tube2Curve チューブ形状のポリゴンモデルの真ん中に１ボタンでカーブを作成してくれるBlender用アドオン]]></title>
+        <id>https://modelinghappy.com/?p=61918</id>
+        <link href="https://modelinghappy.com/archives/61918"/>
+        <updated>2025-03-02T13:21:19.000Z</updated>
+        <summary type="html"><![CDATA[Tube2Curve Tube2CurveはBlenderで、作成したチューブ形状からカーブを作成してくれるアドオンです。 ポリゴンモデル化されたチューブ形状は後から流れを変更しようとした場合に調整するのが難しい場合があ
+The post Tube2Curve チューブ形状のポリゴンモデルの真ん中に１ボタンでカーブを作成してくれるBlender用アドオン first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
+        <author>
+            <name>modelinghappy</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[レトロPCのためのBASIC講座９　グラフィック命令とFOR、GOSUB]]></title>
         <id>https://qiita.com/kawamo55/items/6298fb523e5eb804a4e0</id>
@@ -2953,66 +2964,6 @@ The post Tiny Hair Shader Blenderのプロファイルカーブで作成した�
         <summary type="html"><![CDATA[ToppiNappi（Olli Huttunen氏）による、Blender上で多方向からのカメラを配置出来るBlenderアドオン「Camera Array Tool」が予告通り4DGSに対応しました！その他「Postshot」向けツールなども紹介されています！]]></summary>
         <author>
             <name>Ymt3D -3dnchu-</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【アドオン紹介】C.Mats Bundle – マテリアルコレクション+加工アドオン！]]></title>
-        <id>https://cgbox.jp/?p=62092</id>
-        <link href="https://cgbox.jp/2025/02/01/news-addon-c-mats-bundle/"/>
-        <updated>2025-02-01T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは！ 今回はアドオンの「C.Mats Bundle」を紹介します。 こちらのリンクから購入することができます。 C.Mats Bundle 「C.Mats Bundle」は、高品質なマテリアルとそれを加工できるア […]]]></summary>
-        <author>
-            <name>UEDA</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【アドオン紹介】Instacut – 破壊表現をプロシージャルで実現！]]></title>
-        <id>https://cgbox.jp/?p=62086</id>
-        <link href="https://cgbox.jp/2025/02/01/news-addon-instacut/"/>
-        <updated>2025-02-01T09:00:00.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは！ 今回はアドオンの「Instacut」を紹介します。 こちらのリンクから購入することができます。 Instacut 「Instacut」は、フラクチャリング(破砕)を迅速に実行できるアドオンになります。 オブ […]]]></summary>
-        <author>
-            <name>UEDA</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DCCツールで頻出する前後処理をコンテキストマネージャで再利用可能にする]]></title>
-        <id>https://qiita.com/scixarts/items/59cfd99f4468ead55bbd</id>
-        <link href="https://qiita.com/scixarts/items/59cfd99f4468ead55bbd"/>
-        <updated>2025-02-01T07:46:10.000Z</updated>
-        <summary type="html"><![CDATA[環境
-
-Windows
-Autodesk Maya 2025.3
-
-前処理、後処理の再利用
-DCCツールで前処理・後処理をパターン化して再利用できるようにするためには、with文に渡すためのコンテキスト…]]></summary>
-        <author>
-            <name>mayaタグが付けられた新着記事 - Qiita</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【Unity】InterleavedGradientNoiseでディザ抜きを作ってみた]]></title>
-        <id>https://qiita.com/ayaha401/items/66cdae83ff24ac5269bc</id>
-        <link href="https://qiita.com/ayaha401/items/66cdae83ff24ac5269bc"/>
-        <updated>2025-02-01T05:07:42.000Z</updated>
-        <summary type="html"><![CDATA[はじめに
-アークナイツ・エンドフィールドのベータテストが始まり、グラフィック面でどのような技術が使われているのか話題になっています。
-その中でもこちら
-https://x.com/nagakagac…]]></summary>
-        <author>
-            <name>Shaderタグが付けられた新着記事 - Qiita</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Substance Designerを１から学んでスタイライズド調のPBRマテリアルを作成する初心者向けのチュートリアル動画がWingfoxで販売開始！]]></title>
-        <id>https://modelinghappy.com/?p=61288</id>
-        <link href="https://modelinghappy.com/archives/61288"/>
-        <updated>2025-02-01T01:37:46.000Z</updated>
-        <summary type="html"><![CDATA[Substance Designer 2024: Stylized material creation 世界中のチュートリアル動画を販売しているWingfoxのサイトでSubstance 3D Designerを使用して
-The post Substance Designerを１から学んでスタイライズド調のPBRマテリアルを作成する初心者向けのチュートリアル動画がWingfoxで販売開始！ first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
-        <author>
-            <name>modelinghappy</name>
         </author>
     </entry>
 </feed>

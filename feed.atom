@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-03-04T12:18:33.667Z</updated>
+    <updated>2025-03-05T00:47:40.562Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Mayaのレンダーレイヤーをリネームするスクリプト]]></title>
+        <id>https://qiita.com/dicepastoso/items/29d6c269033242e4ff2f</id>
+        <link href="https://qiita.com/dicepastoso/items/29d6c269033242e4ff2f"/>
+        <updated>2025-03-04T14:47:24.000Z</updated>
+        <summary type="html"><![CDATA[RenderLayer一括リネームツール
+Autodesk MayaのRender Layerの名前をリネームするpython scriptを作りました。
+Render Settings > Ima…]]></summary>
+        <author>
+            <name>mayaタグが付けられた新着記事 - Qiita</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【インタビュー】新しいアイデアを探し続ける：キャラクターアーティスト Nabil Chequeiq 氏]]></title>
         <id>https://3dtotal.jp/?p=50175</id>
@@ -2901,136 +2913,6 @@ The post Edge Pixel Extension Blender内でテクスチャの端の部分を伸�
         <link href="https://cgworld.jp/article/318-makeagirl-02.html"/>
         <updated>2025-02-04T01:00:22.000Z</updated>
         <summary type="html"><![CDATA[劇場アニメ『メイクアガール』スタッフによるメイキングインタビュー。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2/20（木）に3ds MaxとV-Rayを活用する中級者向けの特別セミナー「3ds Max ＆ V-Ray 探検隊（建築VIZ）」を開催（ボーンデジタル） - ニュース]]></title>
-        <id>https://cgworld.jp/flashnews/2502-3dsmax-vray.html</id>
-        <link href="https://cgworld.jp/flashnews/2502-3dsmax-vray.html"/>
-        <updated>2025-02-03T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[かつてない魔法と幻想のオズの国。ILMより、映画『ウィキッド ふたりの魔女』の VFXメイキング映像]]></title>
-        <id>https://3dtotal.jp/?p=49771</id>
-        <link href="https://3dtotal.jp/news/49771/"/>
-        <updated>2025-02-03T08:37:25.000Z</updated>
-        <summary type="html"><![CDATA[★Behind the Magic | The Environments of Wicked（1分36秒） かつてないオズを体験する準備はできていますか? ILM が ジョン・M・チュウ 監督の映画『ウィキッド ふたりの […]
-The post かつてない魔法と幻想のオズの国。ILMより、映画『ウィキッド ふたりの魔女』の VFXメイキング映像 first appeared on 3dtotal 日本語オフィシャルサイト.]]></summary>
-        <author>
-            <name>3dtotal管理人T</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rig Creator - 本格的な人体リグなどを簡単にセットアップ出来る無料のBlenderアドオン！]]></title>
-        <id>https://3dnchu.com/?p=1051346</id>
-        <link href="https://3dnchu.com/archives/rig-creator/"/>
-        <updated>2025-02-03T08:35:52.000Z</updated>
-        <summary type="html"><![CDATA[Edward Ureña氏による本格的な人体リグなどを簡単にセットアップ出来る無料のBlenderアドオン「Rig Creator」のご紹介！]]></summary>
-        <author>
-            <name>Ymt3D -3dnchu-</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【React Native × AR】3DモデルをViroで表示させるためのMayaエクスポート方法]]></title>
-        <id>https://zenn.dev/kiwichan101kg/articles/152495104d640c</id>
-        <link href="https://zenn.dev/kiwichan101kg/articles/152495104d640c"/>
-        <updated>2025-02-03T08:29:42.000Z</updated>
-        <summary type="html"><![CDATA[はじめに
-ReactVision Viroを使用してARの技術検証を行っています。その時のメモを残します。
-https://github.com/ReactVision
-https://viro-community.readme.io/
-expoSDKは古いものを使用しているため注意が必要です。
-"@reactvision/react-viro": "^2.41.6",
-"expo": "~50.0.4",
-
- Blenderで作成した3Dモデルが表示されない
-Viroで3Dモデルを表示する場合に、Blenderで作成した3Dモデルだと表示できなかったり、テクスチャが反映されず白黒で...]]></summary>
-        <author>
-            <name>kiwichan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Blenderユーザー限定の3DCG作品コンテスト「b3d創作祭」第二回が開催決定。 今回のテーマは「ヒーロー」 応募締切は3/3（月）まで - ニュース]]></title>
-        <id>https://cgworld.jp/flashnews/blender3dcgb3d-30pc912.html</id>
-        <link href="https://cgworld.jp/flashnews/blender3dcgb3d-30pc912.html"/>
-        <updated>2025-02-03T08:08:45.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[VHS Found Footage Blender Tutorial - Blenderを使用したVHSスタイルのホラー作品を作るフロー解説チュートリアル動画がYoutube上で公開！]]></title>
-        <id>https://3dnchu.com/?p=1051267</id>
-        <link href="https://3dnchu.com/archives/vhs-found-footage-blender-onlyrj/"/>
-        <updated>2025-02-03T07:56:44.000Z</updated>
-        <summary type="html"><![CDATA[OnlyRJ氏によるVHSスタイルのホラー作品制作解説Blenderチュートリアル動画がYoutube上で公開されています！]]></summary>
-        <author>
-            <name>Ymt3D -3dnchu-</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3ds Max用VFXプラグイン「FumeFX 6.5.4 for 3ds Max」リリース！　NodeWorksの拡張、tyFlowなどとの連携・統合強化 - ニュース]]></title>
-        <id>https://cgworld.jp/flashnews/202502-FumeFX654-3dsMax.html</id>
-        <link href="https://cgworld.jp/flashnews/202502-FumeFX654-3dsMax.html"/>
-        <updated>2025-02-03T06:04:40.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【今週2/8(土)開催】世界的デザイナーSimon Lee氏による特別来日講演! - ニュース]]></title>
-        <id>https://cgworld.jp/flashnews/28simon-lee.html</id>
-        <link href="https://cgworld.jp/flashnews/28simon-lee.html"/>
-        <updated>2025-02-03T05:45:51.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2/19（水）横浜の大型LEDドームにて「Immersive Dark Night Vol.3」開催。今回のテーマは「LEDドーム映像を考える」 - ニュース]]></title>
-        <id>https://cgworld.jp/flashnews/2502-immersivedarknight-3.html</id>
-        <link href="https://cgworld.jp/flashnews/2502-immersivedarknight-3.html"/>
-        <updated>2025-02-03T05:10:29.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Black Eye Cameras v1.1 - プロシージャルに被写体をフレーム内に収めるUnreal Engine 5 向けカメラ制御プラグインのアップデートが公開！カメラのベイクなどが可能に！]]></title>
-        <id>https://3dnchu.com/?p=1051265</id>
-        <link href="https://3dnchu.com/archives/black-eye-cameras-v1-1/"/>
-        <updated>2025-02-03T03:30:27.000Z</updated>
-        <summary type="html"><![CDATA[Unityのカメラ制御システム「Cinemachine」などを手掛けたクリエイターらによる新Unreal Engine 5向けプロシージャルカメラ制御プラグイン「Black Eye Camera」のバージョン1.1アップデートが公開されました！]]></summary>
-        <author>
-            <name>Ymt3D -3dnchu-</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[劇場アニメ『メイクアガール』少数精鋭のチームで描く安田現象ワールド全開の世界観（1）～安田現象監督インタビュー篇 - 特集]]></title>
-        <id>https://cgworld.jp/article/318-makeagirl-01.html</id>
-        <link href="https://cgworld.jp/article/318-makeagirl-01.html"/>
-        <updated>2025-02-03T01:00:28.000Z</updated>
-        <summary type="html"><![CDATA[劇場アニメ『メイクアガール』安田現象監督インタビュー。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【早期割引は2/14(金)まで！】アニメーションスキルアップイベント『Premier Insights』が2/22(土)・23(日)に開催 - ニュース]]></title>
-        <id>https://cgworld.jp/flashnews/214premier-insights22223.html</id>
-        <link href="https://cgworld.jp/flashnews/214premier-insights22223.html"/>
-        <updated>2025-02-03T00:53:18.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
         <author>
             <name>CGWORLD</name>
         </author>

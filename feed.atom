@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-03-05T12:18:34.648Z</updated>
+    <updated>2025-03-06T00:47:30.725Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[家がロボットに変形！　中国電力 WebCM『自宅がロボットだと電気代が気になる話』後篇 - 特集]]></title>
+        <id>https://cgworld.jp/article/cgw319hs2-chugokuden02.html</id>
+        <link href="https://cgworld.jp/article/cgw319hs2-chugokuden02.html"/>
+        <updated>2025-03-06T01:00:19.000Z</updated>
+        <summary type="html"><![CDATA[中国電力株式会社の会員制 Webサイト「ぐっとずっと。クラブ」WebCMのメイキングを紹介。]]></summary>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[BlenderでUVを整理するのに便利なUvpackmaster 3が現在10%オフのセール価格で販売中]]></title>
         <id>https://modelinghappy.com/?p=61966</id>
@@ -48,6 +58,33 @@ The post Blender でつくる：亥と卯流 セルルックキャラクター 
 The post Unwrella-IO １クリックで高速でUVを自動展開してくれるスタンドアロンソフトがリリース first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
         <author>
             <name>modelinghappy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Houdini PythonでSubnetの出力コネクタにNullノードを接続（備忘録5）]]></title>
+        <id>https://zenn.dev/mj31000/articles/d4d50feb644268</id>
+        <link href="https://zenn.dev/mj31000/articles/d4d50feb644268"/>
+        <updated>2025-03-05T10:25:48.000Z</updated>
+        <summary type="html"><![CDATA[Subnetの出力コネクタにNullノードを接続する
+今回のスクリプトでは、選択したSubnetの出力コネクタにNullノードを接続します。Nullノードを接続することで、Nullノードの名前から、出力データの視認性や参照しやすさを向上させることができます。
+
+各出力コネクタにNullノードを接続する
+今回のスクリプト
+
+ノード名から特定のPrefixを削除
+Subnetの出力コネクタにNullを接続
+
+
+ 環境
+Windows10 Pro
+Houdini Indie 20.5.332 py3.11
+
+ ノード名から特定のPrefixを削除
+import hou
+
+def remov...]]></summary>
+        <author>
+            <name>Hidetake Miyajima</name>
         </author>
     </entry>
     <entry>
@@ -2977,81 +3014,6 @@ The post 重要なツールとワークフロー、基礎を学ぶ。Substance 3
         <summary type="html"><![CDATA[Samuel Francis氏によるレンダリング完了時間などを自動計算し表示してくれる無料のBlenderアドオン最新アップデート「Render Time Estimator v2.1.0」がリリースされました！]]></summary>
         <author>
             <name>Ymt3D -3dnchu-</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Blenderのペイント機能にランダムな色を表示して手書き感を追加出来るカラージッター機能付き20個のブラシパックが無料配布中]]></title>
-        <id>https://modelinghappy.com/?p=61321</id>
-        <link href="https://modelinghappy.com/archives/61321"/>
-        <updated>2025-02-04T09:22:44.000Z</updated>
-        <summary type="html"><![CDATA[CR Graphical Brush-Pack For Blender Texture Painting || Blender 4.3 (Coupon: BIRB2) Omar Faruq Tawsifさんが作成した、B
-The post Blenderのペイント機能にランダムな色を表示して手書き感を追加出来るカラージッター機能付き20個のブラシパックが無料配布中 first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
-        <author>
-            <name>modelinghappy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【インタビュー】卓越したものを追い求め：3Dアーティスト Vikas Kumar Prajapati 氏]]></title>
-        <id>https://3dtotal.jp/?p=49794</id>
-        <link href="https://3dtotal.jp/features/49794/"/>
-        <updated>2025-02-04T08:37:41.000Z</updated>
-        <summary type="html"><![CDATA[映画『1917 命をかけた伝令』『ゴリラのアイヴァン』『白雪姫』、AAAゲーム『INSTINCTION』などを手がけてきた 3Dアーティスト Vikas Kumar Prajapati 氏は、現在 Hashbane In […]
-The post 【インタビュー】卓越したものを追い求め：3Dアーティスト Vikas Kumar Prajapati 氏 first appeared on 3dtotal 日本語オフィシャルサイト.]]></summary>
-        <author>
-            <name>3dtotal管理人T</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[映画『ソニック×シャドウ TOKYO MISSION』制作に参加した「Red9 Pro Pack」開発元がブレイクダウンを公開、開発した新ツール類を製品に追加 - ニュース]]></title>
-        <id>https://cgworld.jp/flashnews/202502-Red9-Sonic.html</id>
-        <link href="https://cgworld.jp/flashnews/202502-Red9-Sonic.html"/>
-        <updated>2025-02-04T05:26:18.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[丸ごと CG で作られたワシントンD.C.! 映画『シビル・ウォー アメリカ最後の日』の VFXメイキング映像]]></title>
-        <id>https://3dtotal.jp/?p=48974</id>
-        <link href="https://3dtotal.jp/news/48974/"/>
-        <updated>2025-02-04T05:20:28.000Z</updated>
-        <summary type="html"><![CDATA[★Civil War Washington VFX Breakdown（2分22秒） 映画『シビル・ウォー アメリカ最後の日』で見られる近接戦闘は、おおよそ、「カメラ内のアクション」と「目に見えないVFX」が巧みに組み合 […]
-The post 丸ごと CG で作られたワシントンD.C.! 映画『シビル・ウォー アメリカ最後の日』の VFXメイキング映像 first appeared on 3dtotal 日本語オフィシャルサイト.]]></summary>
-        <author>
-            <name>3dtotal管理人T</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[レンダラー V-Ray の VFX＆アニメーション ショーリール 2025]]></title>
-        <id>https://3dtotal.jp/?p=49776</id>
-        <link href="https://3dtotal.jp/news/49776/"/>
-        <updated>2025-02-04T05:20:10.000Z</updated>
-        <summary type="html"><![CDATA[★V-Ray VFX & Animation Showreel 2025（2分6秒） 壮大なスペースバトル、神話に登場するクリーチャー、息をのむようなエンバイロメント、忘れられないキャラクターなど、何でもありの世界へ飛び […]
-The post レンダラー V-Ray の VFX＆アニメーション ショーリール 2025 first appeared on 3dtotal 日本語オフィシャルサイト.]]></summary>
-        <author>
-            <name>3dtotal管理人T</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Edge Pixel Extension Blender内でテクスチャの端の部分を伸ばしてつなぎ目を目立たなく出来る無料アドオン]]></title>
-        <id>https://modelinghappy.com/?p=61312</id>
-        <link href="https://modelinghappy.com/archives/61312"/>
-        <updated>2025-02-04T04:00:53.000Z</updated>
-        <summary type="html"><![CDATA[Edge Pixel Extension [Blender Addon] Edge Pixel ExtensionはBlenderの画像エディターでテクスチャの端のピクセルを伸ばしてくれるアドオンです。 透明なピクセルを
-The post Edge Pixel Extension Blender内でテクスチャの端の部分を伸ばしてつなぎ目を目立たなく出来る無料アドオン first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
-        <author>
-            <name>modelinghappy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[劇場アニメ『メイクアガール』少数精鋭のチームで描く安田現象ワールド全開の世界観（2）～CG制作篇 - 特集]]></title>
-        <id>https://cgworld.jp/article/318-makeagirl-02.html</id>
-        <link href="https://cgworld.jp/article/318-makeagirl-02.html"/>
-        <updated>2025-02-04T01:00:22.000Z</updated>
-        <summary type="html"><![CDATA[劇場アニメ『メイクアガール』スタッフによるメイキングインタビュー。]]></summary>
-        <author>
-            <name>CGWORLD</name>
         </author>
     </entry>
 </feed>

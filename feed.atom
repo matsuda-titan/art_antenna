@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-03-07T00:47:53.457Z</updated>
+    <updated>2025-03-07T03:21:04.596Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
@@ -2948,68 +2948,6 @@ The post RigiCar ボディ1個とホイール4つ作成して１クリックで�
         <link href="https://3dnchu.com/archives/sanjigenmusou-2024-result-2/"/>
         <updated>2025-02-05T23:35:37.000Z</updated>
         <summary type="html"><![CDATA[CGモデラー＆YouTuberの前東 勇次（Yuji Maehigashi）氏と、海外で活躍するCGアーティストらによるCGコンテスト「三次元無双」の2024年開催結果発表動画が公開されました！後半の動画部門です！]]></summary>
-        <author>
-            <name>Ymt3D -3dnchu-</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pixi.js v8 CustomFilter のサンプルコード]]></title>
-        <id>https://zenn.dev/a_saya_108/articles/0740da9261ada3</id>
-        <link href="https://zenn.dev/a_saya_108/articles/0740da9261ada3"/>
-        <updated>2025-02-05T12:55:50.000Z</updated>
-        <summary type="html"><![CDATA[pixi.jsのバージョン8でカスタムフィルターのuniforms指定周りが変わっていたので
-備忘録としてサンプルコードを書きました。
-どなたかの役に立つと嬉しいです。
-
- V8でのCustomFilter
-
- SampleFilter.ts
-(旧 v7)
-export class SampleFilter extends Filter {
-	constructor(texture: Texture) {
-		super(
-			SampleVert,
-			SampleFrag,
-			{ // uniforms
-				texture: texture,
-				time: 0,
-	...]]></summary>
-        <author>
-            <name>adachi saya</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pixi.js v8 CustomFilter のサンプルコード]]></title>
-        <id>https://zenn.dev/a_saya_108/articles/0740da9261ada3</id>
-        <link href="https://zenn.dev/a_saya_108/articles/0740da9261ada3"/>
-        <updated>2025-02-05T12:55:50.000Z</updated>
-        <summary type="html"><![CDATA[pixi.jsのバージョン8でカスタムフィルターのuniforms指定周りが変わっていたので
-備忘録としてサンプルコードを書きました。
-どなたかの役に立つと嬉しいです。
-
- V8でのCustomFilter
-
- SampleFilter.ts
-(旧 v7)
-export class SampleFilter extends Filter {
-	constructor(texture: Texture) {
-		super(
-			SampleVert,
-			SampleFrag,
-			{ // uniforms
-				texture: texture,
-				time: 0,
-	...]]></summary>
-        <author>
-            <name>adachi saya</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stylized Asset Suite for Blender - レイヤーベースに多彩なStylized表現が可能なエフェクト＆ブラシスイートBlenderアドオン！無料版も登場！ #BNPR]]></title>
-        <id>https://3dnchu.com/?p=1051442</id>
-        <link href="https://3dnchu.com/archives/stylized-asset-suite-for-blender/"/>
-        <updated>2025-02-05T12:54:31.000Z</updated>
-        <summary type="html"><![CDATA[crzyzhaa氏によるBlender向けStylized表現スイートアドオン「Stylized Asset Suite for Blender」のご紹介です！無料版もありますよ！]]></summary>
         <author>
             <name>Ymt3D -3dnchu-</name>
         </author>

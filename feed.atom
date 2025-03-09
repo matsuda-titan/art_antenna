@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-03-08T12:13:22.410Z</updated>
+    <updated>2025-03-09T00:41:25.879Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[アンリアる！ アニメーション入門編 ～対話形式で学ぶUnreal Engine～ - インディーゲーム開発者グループ Colory GamesによるUEのアニメーション実装入門電子書籍！BOOTH上で販売開始！]]></title>
+        <id>https://3dnchu.com/?p=1052324</id>
+        <link href="https://3dnchu.com/archives/unreal-animation-beginner-edition-colory-games/"/>
+        <updated>2025-03-08T18:08:24.000Z</updated>
+        <summary type="html"><![CDATA[Unreal Engine関連の情報発信などを中心に活動中のインディーゲーム開発者グループ Colory GamesからUEのアニメーションを学べる入門電子書籍『アンリアる！ アニメーション入門編 ～対話形式で学ぶUnreal Engine～』がBOOTH上でリリースされました！]]></summary>
+        <author>
+            <name>Ymt3D -3dnchu-</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[職種と用途で探せる Blenderアドオン事典 - ボーンデジタルさんと一緒にたくさんのBlenderアドオンを紹介する本を書きました！2025年3月31日発売！！]]></title>
+        <id>https://3dnchu.com/?p=1052271</id>
+        <link href="https://3dnchu.com/archives/blender-addon-book-3dnchu/"/>
+        <updated>2025-03-08T15:55:57.000Z</updated>
+        <summary type="html"><![CDATA[ボーンデジタルさんと、著名なアーティストの方々と一緒に本を書きました！『職種と用途で探せる Blenderアドオン事典』が2025年3月31日発売です！]]></summary>
+        <author>
+            <name>Ymt3D -3dnchu-</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【UE5】文明崩壊後の世界を作成するチュートリアルをレビュー！]]></title>
         <id>https://cgbox.jp/?p=62439</id>
@@ -2849,158 +2869,6 @@ The post Shader View 繋げたノードの上に結果をリルタイムでプ�
         <summary type="html"><![CDATA[B3FX Studios（旧：RBDLab Studio）から新たな破壊＆ダメージ表現付与Blenderアドオン「FractureLab 1.0」がリリースされました！]]></summary>
         <author>
             <name>Ymt3D -3dnchu-</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[スマホ用無料3Dスキャンアプリ「RealityScan 1.6」リリース！　カメラのマニュアルモード、新しい処理オプションパネル - ニュース]]></title>
-        <id>https://cgworld.jp/flashnews/202502-RealityScan16.html</id>
-        <link href="https://cgworld.jp/flashnews/202502-RealityScan16.html"/>
-        <updated>2025-02-07T12:04:28.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Top 100 3D Parkour Montage Kinetic Rush - 「パルクールシーン」テンプレからオリジナルのシーンを作るユニークなCGチャレンジ！上位100作品と全参加作品3,373中のモンタージュ映像が公開中！ #KineticRush]]></title>
-        <id>https://3dnchu.com/?p=1051536</id>
-        <link href="https://3dnchu.com/archives/top-100-3d-parkour-montage-kinetic-rush/"/>
-        <updated>2025-02-07T09:24:03.000Z</updated>
-        <summary type="html"><![CDATA[数多くのユニークなチャレンジを開催している事でお馴染みVFXアーティストClinton Jones氏（@_Pwnisher_）による、2024年2回目のコンテスト『Kinetic Rush』のトップ100作品と全作品のモンタージュが公開済みです！]]></summary>
-        <author>
-            <name>Ymt3D -3dnchu-</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【Unity】シェーダーでひびを入れる［その1：フラグメントシェーダー編］]]></title>
-        <id>https://zenn.dev/lilytechlab/articles/518b5e29738f9b</id>
-        <link href="https://zenn.dev/lilytechlab/articles/518b5e29738f9b"/>
-        <updated>2025-02-07T09:22:49.000Z</updated>
-        <summary type="html"><![CDATA[3Dモデルに徐々にひびを入れる表現ができないかと考え、シェーダーで挑戦してみました。
-テクスチャの準備が不要なものを目指しました。
-
-その試行錯誤の過程を残しておきます。
-
- どうやってひびを描くか
-シェーダーでひび模様を描きたいので、それっぽい図になる計算式を探します。
-ボロノイパターンというものが使えそうです。
-ひび模様を始め、きりんの模様だとか葉脈など、近い模様が自然界に複数存在するのだそうです。面白いですね。
-https://www.msichicago.org/explore/whats-here/exhibits/numbers-in-nature/the-patterns/...]]></summary>
-        <author>
-            <name>masamin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【Unity】シェーダーでひびを入れる［その1：フラグメントシェーダー編］]]></title>
-        <id>https://zenn.dev/lilytechlab/articles/518b5e29738f9b</id>
-        <link href="https://zenn.dev/lilytechlab/articles/518b5e29738f9b"/>
-        <updated>2025-02-07T09:22:49.000Z</updated>
-        <summary type="html"><![CDATA[3Dモデルに徐々にひびを入れる表現ができないかと考え、シェーダーで挑戦してみました。
-テクスチャの準備が不要なものを目指しました。
-
-その試行錯誤の過程を残しておきます。
-
- どうやってひびを描くか
-シェーダーでひび模様を描きたいので、それっぽい図になる計算式を探します。
-ボロノイパターンというものが使えそうです。
-ひび模様を始め、きりんの模様だとか葉脈など、近い模様が自然界に複数存在するのだそうです。面白いですね。
-https://www.msichicago.org/explore/whats-here/exhibits/numbers-in-nature/the-patterns/...]]></summary>
-        <author>
-            <name>masamin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3ds Max用環境制作ツールキット「Forest Pack 9.1」リリース！　Forest Ivy強化によるGrowthパスの入出力、サーフェスなしのツタ、V-Ray 7のサポートなど - ニュース]]></title>
-        <id>https://cgworld.jp/flashnews/202502-ForestPack91.html</id>
-        <link href="https://cgworld.jp/flashnews/202502-ForestPack91.html"/>
-        <updated>2025-02-07T08:44:38.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[日本初の日本語対応の動画生成AI基盤モデル「AIdeaLab VideoJP」無償公開！　商用利用可、ライセンスに考慮しゼロから動画学習 - ニュース]]></title>
-        <id>https://cgworld.jp/flashnews/202502-AIdeaLab-VideoJP.html</id>
-        <link href="https://cgworld.jp/flashnews/202502-AIdeaLab-VideoJP.html"/>
-        <updated>2025-02-07T07:14:04.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[まもなく締切！　2/15（土）西新宿にて開催―26卒向けクリ博ポートフォリオ相談会【ゲーム関連企業9社が参加】 - ニュース]]></title>
-        <id>https://cgworld.jp/flashnews/2502-kurihaku.html</id>
-        <link href="https://cgworld.jp/flashnews/2502-kurihaku.html"/>
-        <updated>2025-02-07T05:12:00.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Simple Sketch Pro 用意されている5種類のプリセットまたはパラメーター調整で漫画やアニメーション用の線画を作成出来るBlender用アドオン]]></title>
-        <id>https://modelinghappy.com/?p=61377</id>
-        <link href="https://modelinghappy.com/archives/61377"/>
-        <updated>2025-02-07T04:57:04.000Z</updated>
-        <summary type="html"><![CDATA[Simple Sketch Pro Blenderで数々の人気アドオンを開発しているChipp Waltersさんが、線画を使用したイラストやアニメーションを作成出来る新しいアドオンSimple Sketch Proをリ
-The post Simple Sketch Pro 用意されている5種類のプリセットまたはパラメーター調整で漫画やアニメーション用の線画を作成出来るBlender用アドオン first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
-        <author>
-            <name>modelinghappy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fracturelabモデルに手書きでカーブを描いた部分にそって別モデルとして素早く亀裂を作成、別モデルに出来るアドオン]]></title>
-        <id>https://modelinghappy.com/?p=61368</id>
-        <link href="https://modelinghappy.com/archives/61368"/>
-        <updated>2025-02-07T04:17:57.000Z</updated>
-        <summary type="html"><![CDATA[Fracturelab FracturelabはBlenderでモデルに手書きでカーブを描いた部分にそって別モデルとして素早く亀裂を作成、そのラインに沿って内側の形状もある状態で別モデルに出来るアドオンです。 カーブのラ
-The post Fracturelabモデルに手書きでカーブを描いた部分にそって別モデルとして素早く亀裂を作成、別モデルに出来るアドオン first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
-        <author>
-            <name>modelinghappy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ヘア、衣装、FXシミュレーション..。Weta FX より、映画『BETTER MAN/ベター・マン』のメイキング映像]]></title>
-        <id>https://3dtotal.jp/?p=49863</id>
-        <link href="https://3dtotal.jp/news/49863/"/>
-        <updated>2025-02-07T03:33:38.000Z</updated>
-        <summary type="html"><![CDATA[★ヘア：Hair Grooming on Better Man（1分20秒） サルは見る、サルはする.. ヘアスタイル! 映画『BETTER MAN/ベター・マン』でロビーの 50種類のヘアスタイルを作成したスタッフの革 […]
-The post ヘア、衣装、FXシミュレーション..。Weta FX より、映画『BETTER MAN/ベター・マン』のメイキング映像 first appeared on 3dtotal 日本語オフィシャルサイト.]]></summary>
-        <author>
-            <name>3dtotal管理人T</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[＜企業アンケート実施中＞Nukeクリエイター採用企業を募集中！　参加無料のリサーチ記事企画 - ニュース]]></title>
-        <id>https://cgworld.jp/flashnews/cgwr-nuke.html</id>
-        <link href="https://cgworld.jp/flashnews/cgwr-nuke.html"/>
-        <updated>2025-02-07T01:45:00.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[第7回 後編：新しい挑戦と知見の蓄積を続ける、白組のパイプラインプロジェクト - 連載]]></title>
-        <id>https://cgworld.jp/regular/202502-chiyama-t-7-2.html</id>
-        <link href="https://cgworld.jp/regular/202502-chiyama-t-7-2.html"/>
-        <updated>2025-02-07T01:30:00.000Z</updated>
-        <summary type="html"><![CDATA[第7回 前編に続き、後編でも、白組の制作チーム間の橋渡しを担う、パイプラインプロジェクトと呼ばれている活動を、入田尭光氏（システム部長）、小森啓裕氏（制作第4部 部長）、鈴木健之氏（制作第3部 部長）へのインタビューを通して深掘りする。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[X-Ray To Selection 選択モデルだけを透明にして作業出来るBlender用アドオン]]></title>
-        <id>https://modelinghappy.com/?p=61362</id>
-        <link href="https://modelinghappy.com/archives/61362"/>
-        <updated>2025-02-07T00:56:14.000Z</updated>
-        <summary type="html"><![CDATA[X-Ray To Selection X-Ray To SelectionはBlenderで選択したモデルだけを1クリックで透明にして作業出るアドオンです。モデルは１つまたは複数を選択して透明にする事も可能。 通常の機能
-The post X-Ray To Selection 選択モデルだけを透明にして作業出来るBlender用アドオン first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
-        <author>
-            <name>modelinghappy</name>
         </author>
     </entry>
 </feed>

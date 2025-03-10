@@ -2,10 +2,63 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-03-10T03:10:46.277Z</updated>
+    <updated>2025-03-10T08:11:56.015Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Blender でつくる：亥と卯流 セルルックキャラクター -  かも仮面氏の美少女キャラを亥と卯(いとう)氏が3Dモデリング！キャラクター制作の流れと秘訣を解説したモデリング中級者向け書籍が登場！モデルデータ＆ムービー付きの大ボリューム！2025年3月末発売！]]></title>
+        <id>https://3dnchu.com/?p=1052360</id>
+        <link href="https://3dnchu.com/archives/blender-itou-cellbook/"/>
+        <updated>2025-03-10T08:08:59.000Z</updated>
+        <summary type="html"><![CDATA[亥と卯（いとう）氏著書のキャラクターモデリング解説本『Blender でつくる：亥と卯流 セルルックキャラクター』が2025年3月末発売！]]></summary>
+        <author>
+            <name>Ymt3D -3dnchu-</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bolt Graphics 新GPU「Zeus」を発表！ - 既存GPUよりも遥かに高性能！？4K 120FPSのリアルタイムパストレーシングも可能！メモリ拡張可能！レンダリング・HPC・ゲーム向けの超高性能設計GPU！]]></title>
+        <id>https://3dnchu.com/?p=1052423</id>
+        <link href="https://3dnchu.com/archives/bolt-graphics-zeus/"/>
+        <updated>2025-03-10T08:06:32.000Z</updated>
+        <summary type="html"><![CDATA[米Bolt Graphics社が既存GPUよりも遥かに高性能な次世代GPU「Zeus」を発表しました。なんだかいろいろ凄そうです。]]></summary>
+        <author>
+            <name>Ymt3D -3dnchu-</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[チュートリアルの『プラグインとして新規グローバル シェーダーを作成する』を見る上での注意点]]></title>
+        <id>https://qiita.com/_akoto_/items/1106563499ddcedb2a24</id>
+        <link href="https://qiita.com/_akoto_/items/1106563499ddcedb2a24"/>
+        <updated>2025-03-10T07:58:05.000Z</updated>
+        <summary type="html"><![CDATA[自分へのメモも兼ねて、UEのグローバルシェーダを作成するチュートリアルページを見ていて、ハマった箇所があったので、メモを残しておきます。
+検証環境
+UnrealEngine5.3.2
+どのチュートリ…]]></summary>
+        <author>
+            <name>Shaderタグが付けられた新着記事 - Qiita</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#06：独自の作品世界を徹底分析『ウェス・アンダーソンの世界展』 - 連載]]></title>
+        <id>https://cgworld.jp/regular/202503-cgw320-book.html</id>
+        <link href="https://cgworld.jp/regular/202503-cgw320-book.html"/>
+        <updated>2025-03-10T03:55:00.000Z</updated>
+        <summary type="html"><![CDATA[どこかで見た、どこにもない世界、映画監督ウェス・アンダーソンを深掘りした1冊 『ウェス・アンダーソンの世界展』を紹介。]]></summary>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[若杉 遼編集長退任：3年間の挑戦をふり返る - スペシャルコンテンツ]]></title>
+        <id>https://cgworld.jp/special-feature/202503-wakasugi.html</id>
+        <link href="https://cgworld.jp/special-feature/202503-wakasugi.html"/>
+        <updated>2025-03-10T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[同じアーティストの視点があるから、話題を深掘りできた 池田大樹（以下、池田）：...]]></summary>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[コンポジット＆VFXツール「Nuke 16」リリース！　複数ショットの一括処理、ロトスコープのパフォーマンス向上など - ニュース]]></title>
         <id>https://cgworld.jp/flashnews/202503-Nuke16.html</id>
@@ -2795,26 +2848,6 @@ vec4 fetchElement(float JointIndex, int Offset, float v)
 The post Proterials – 1.0 クローズアップにも使えるフォトリアルで軽量！150種類以上のプロシージャルBlenderマテリアルセット first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
         <author>
             <name>modelinghappy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Houdini][Tips] Attributeのmetadataの種類によってTransformのかかり方が変わるので意識しておこう]]></title>
-        <id>https://zenn.dev/h_sasaki/articles/dca28824130d62</id>
-        <link href="https://zenn.dev/h_sasaki/articles/dca28824130d62"/>
-        <updated>2025-02-08T16:23:30.000Z</updated>
-        <summary type="html"><![CDATA[!
-環境：Houdini 20.5
-
-結構重要だと思うのですが、勉強した入門書籍や教材動画には言及がなかった（と思う）のでメモしておきます。
-
- Attributeのmetadataについて
-↓のように、node infoでAttributeを見ると、変数名・型名の右に [Vec],[Norm],[UV],[Pos] などの記号が付いているものがあります。（無いものもあります。）
-↓の例では、型名はすべて「3 Flt」で同じですが、記号はすべて異なっています。
-
-この記号は「Attribute type metadata」というものです。
-↓の公式ページに書いてあるとおりなのですが、この...]]></summary>
-        <author>
-            <name>ササキ ヒロユキ</name>
         </author>
     </entry>
 </feed>

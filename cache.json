@@ -1004,6 +1004,16 @@
       "siteUrl": "https://cgworld.jp/",
       "articles": [
         {
+          "id": "https://cgworld.jp/flashnews/202503-Nuke16.html",
+          "author": null,
+          "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
+          "link": "https://cgworld.jp/flashnews/202503-Nuke16.html",
+          "publishedOn": "2025-03-10T01:47:49.000Z",
+          "wordCount": 734,
+          "title": "コンポジット＆VFXツール「Nuke 16」リリース！　複数ショットの一括処理、ロトスコープのパフォーマンス向上など - ニュース",
+          "imageUrl": "https://cgworld.jp/flashnews/assets_c/2025/03/Nuke16-01-thumb-1280x720-66710.jpg"
+        },
+        {
           "id": "https://cgworld.jp/regular/21ar-quick-look.html",
           "author": null,
           "description": "",
@@ -2253,6 +2263,16 @@
       "siteUrl": "https://3dtotal.jp",
       "articles": [
         {
+          "id": "https://3dtotal.jp/?p=50239",
+          "author": "3dtotal管理人T",
+          "description": "★VFX and Chill | Recreate Dune Part 2 VFX（2時間15秒） VFX and Chill：台本なしのオリジナル VFX(視覚効果)アドベンチャー HASHI、Seth、Michael […]\nThe post 今回は 映画『DUNE/デューン 砂の惑星 PART2』の視覚効果を再作成。Maxon 公式番組「VFX and Chill」 first appeared on 3dtotal 日本語オフィシャルサイト.",
+          "link": "https://3dtotal.jp/news/50239/",
+          "publishedOn": "2025-03-10T01:41:55.000Z",
+          "wordCount": 562,
+          "title": "今回は 映画『DUNE/デューン 砂の惑星 PART2』の視覚効果を再作成。Maxon 公式番組「VFX and Chill」",
+          "imageUrl": "https://3dtotal.jp/wp-content/uploads/2025/03/vfxchill_dune2.jpg"
+        },
+        {
           "id": "https://3dtotal.jp/?p=50235",
           "author": "3dtotal管理人T",
           "description": "★The Gorge | VFX Breakdown（2分57秒） Framestore は、スコット・デリクソン監督のサバイバル・ロマンス『深い谷の間に(The Gorge)』（スカイダンス）の重要なクリエイティブパー […]\nThe post 谷に出没するクリーチャーたち。サバイバル・ロマンス『深い谷の間に』のVFXブレイクダウン映像 first appeared on 3dtotal 日本語オフィシャルサイト.",
@@ -2747,21 +2767,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--MOiSqK3x--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%255BHoudini%255D%255BTips%255D%2520Attribute%25E3%2581%25AEmetadata%25E3%2581%25AE%25E7%25A8%25AE%25E9%25A1%259E%25E3%2581%25AB%25E3%2582%2588%25E3%2581%25A3%25E3%2581%25A6Transform%25E3%2581%25AE%25E3%2581%258B%25E3%2581%258B%25E3%2582%258A%25E6%2596%25B9%25E3%2581%258C%25E5%25A4%2589...%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2582%25B5%25E3%2582%25B5%25E3%2582%25AD%2520%25E3%2583%2592%25E3%2583%25AD%25E3%2583%25A6%25E3%2582%25AD%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2M0MzQ2NThlOGEuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
-        },
-        {
-          "id": "https://zenn.dev/h_sasaki/articles/cfe48215166be6",
-          "author": "ササキ ヒロユキ",
-          "description": "!\n環境：UE 5.5、Houdini 20.5\n\nUVは通常テクスチャマッピングに使いますが、それ意外の用途では、頂点アニメーションさせるときの補助データとして使いたいときがあります。そういったときは、頂点のUVを値として用いることになるのですが、UEではどうやらそのUVのV値がOneMinus（1-x）された値になってしまうようです。\n\n 症状\n例えば↓のように、Houdiniですべての頂点に uv2：（0.2, 0.3） を仕込んだとします。\n\nそれをFBXで書き出してUEにインポートして、↓のようにUV[1]の値をデバッグ表示してみると…、\n（※Houdiniのuv2に対応するU...",
-          "link": "https://zenn.dev/h_sasaki/articles/cfe48215166be6",
-          "publishedOn": "2025-02-08T14:02:47.000Z",
-          "wordCount": 292,
-          "title": "[UE5][Houdini][Tips] Houdiniで頂点に割り当てたUVが、UEへのインポート時にV値がOneMinusされる？",
-          "enclosure": {
-            "url": "https://res.cloudinary.com/zenn/image/upload/s--M4Zukb4k--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%255BUE5%255D%255BHoudini%255D%255BTips%255D%2520Houdini%25E3%2581%25A7%25E9%25A0%2582%25E7%2582%25B9%25E3%2581%25AB%25E5%2589%25B2%25E3%2582%258A%25E5%25BD%2593%25E3%2581%25A6%25E3%2581%259FUV%25E3%2581%258C%25E3%2580%2581UE%25E3%2581%25B8%25E3%2581%25AE%25E3%2582%25A4%25E3%2583%25B3%25E3%2583%259D%25E3%2583%25BC%25E3%2583%2588%25E6%2599%2582%25E3%2581%25ABV%25E5%2580%25A4%25E3%2581%258COn...%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2582%25B5%25E3%2582%25B5%25E3%2582%25AD%2520%25E3%2583%2592%25E3%2583%25AD%25E3%2583%25A6%25E3%2582%25AD%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2M0MzQ2NThlOGEuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png",
-            "length": "0",
-            "type": "image/png"
-          },
-          "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--M4Zukb4k--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%255BUE5%255D%255BHoudini%255D%255BTips%255D%2520Houdini%25E3%2581%25A7%25E9%25A0%2582%25E7%2582%25B9%25E3%2581%25AB%25E5%2589%25B2%25E3%2582%258A%25E5%25BD%2593%25E3%2581%25A6%25E3%2581%259FUV%25E3%2581%258C%25E3%2580%2581UE%25E3%2581%25B8%25E3%2581%25AE%25E3%2582%25A4%25E3%2583%25B3%25E3%2583%259D%25E3%2583%25BC%25E3%2583%2588%25E6%2599%2582%25E3%2581%25ABV%25E5%2580%25A4%25E3%2581%258COn...%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2582%25B5%25E3%2582%25B5%25E3%2582%25AD%2520%25E3%2583%2592%25E3%2583%25AD%25E3%2583%25A6%25E3%2582%25AD%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2M0MzQ2NThlOGEuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
         }
       ]
     },

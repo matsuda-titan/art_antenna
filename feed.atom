@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-03-10T00:40:09.547Z</updated>
+    <updated>2025-03-10T03:10:46.277Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[コンポジット＆VFXツール「Nuke 16」リリース！　複数ショットの一括処理、ロトスコープのパフォーマンス向上など - ニュース]]></title>
+        <id>https://cgworld.jp/flashnews/202503-Nuke16.html</id>
+        <link href="https://cgworld.jp/flashnews/202503-Nuke16.html"/>
+        <updated>2025-03-10T01:47:49.000Z</updated>
+        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[今回は 映画『DUNE/デューン 砂の惑星 PART2』の視覚効果を再作成。Maxon 公式番組「VFX and Chill」]]></title>
+        <id>https://3dtotal.jp/?p=50239</id>
+        <link href="https://3dtotal.jp/news/50239/"/>
+        <updated>2025-03-10T01:41:55.000Z</updated>
+        <summary type="html"><![CDATA[★VFX and Chill | Recreate Dune Part 2 VFX（2時間15秒） VFX and Chill：台本なしのオリジナル VFX(視覚効果)アドベンチャー HASHI、Seth、Michael […]
+The post 今回は 映画『DUNE/デューン 砂の惑星 PART2』の視覚効果を再作成。Maxon 公式番組「VFX and Chill」 first appeared on 3dtotal 日本語オフィシャルサイト.]]></summary>
+        <author>
+            <name>3dtotal管理人T</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Blenderでマテリアルを一覧表示して管理・調整しやすくなるアドオンMaterials Editorを使ってみました]]></title>
         <id>https://modelinghappy.com/?p=62013</id>
@@ -2792,25 +2813,6 @@ The post Proterials – 1.0 クローズアップにも使えるフォトリア�
 
 この記号は「Attribute type metadata」というものです。
 ↓の公式ページに書いてあるとおりなのですが、この...]]></summary>
-        <author>
-            <name>ササキ ヒロユキ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[UE5][Houdini][Tips] Houdiniで頂点に割り当てたUVが、UEへのインポート時にV値がOneMinusされる？]]></title>
-        <id>https://zenn.dev/h_sasaki/articles/cfe48215166be6</id>
-        <link href="https://zenn.dev/h_sasaki/articles/cfe48215166be6"/>
-        <updated>2025-02-08T14:02:47.000Z</updated>
-        <summary type="html"><![CDATA[!
-環境：UE 5.5、Houdini 20.5
-
-UVは通常テクスチャマッピングに使いますが、それ意外の用途では、頂点アニメーションさせるときの補助データとして使いたいときがあります。そういったときは、頂点のUVを値として用いることになるのですが、UEではどうやらそのUVのV値がOneMinus（1-x）された値になってしまうようです。
-
- 症状
-例えば↓のように、Houdiniですべての頂点に uv2：（0.2, 0.3） を仕込んだとします。
-
-それをFBXで書き出してUEにインポートして、↓のようにUV[1]の値をデバッグ表示してみると…、
-（※Houdiniのuv2に対応するU...]]></summary>
         <author>
             <name>ササキ ヒロユキ</name>
         </author>

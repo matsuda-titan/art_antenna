@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-03-10T12:19:42.686Z</updated>
+    <updated>2025-03-11T00:48:17.787Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[3/11（火）ブロスグループの新著『Unreal Engine 5 リアルタイム ビジュアライゼーション 第2版』が発売。UnrealEngine5.5に対応。 - ニュース]]></title>
+        <id>https://cgworld.jp/flashnews/2503-bros-ue5-5.html</id>
+        <link href="https://cgworld.jp/flashnews/2503-bros-ue5-5.html"/>
+        <updated>2025-03-11T06:51:32.000Z</updated>
+        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Procedural Skeletal Meshes: Real-time Slicing ＆ Dismemberment - スケルタルメッシュへの動的な切断表現を実装できるUnreal Engine 5向けプラグイン！]]></title>
+        <id>https://3dnchu.com/?p=1052471</id>
+        <link href="https://3dnchu.com/archives/procedural-skeletal-meshes-rtsd/"/>
+        <updated>2025-03-10T23:20:14.000Z</updated>
+        <summary type="html"><![CDATA[Wormbrain GamesによるUnreal Engine向けスケルタルメッシュ切断プラグイン「Procedural Skeletal Meshes: Real-time Slicing & Dismemberment」のご紹介！]]></summary>
+        <author>
+            <name>Ymt3D -3dnchu-</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[書籍 Unreal Engine 5 リアルタイム ビジュアライゼーション 第2版 が発売します。]]></title>
         <id>https://modelinghappy.com/?p=62047</id>
@@ -36,6 +56,16 @@ The post 書籍 Unreal Engine 5 リアルタイム ビジュアライゼーシ�
 The post Quick J 頂点を１つ選び、もう１つの頂点付近でJキーを押すだけでエッジカット出来る無料アドオン first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
         <author>
             <name>modelinghappy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【アドオン紹介】Pbr Texture & Material Generator – 画像からPBRテクスチャ作成]]></title>
+        <id>https://cgbox.jp/?p=62469</id>
+        <link href="https://cgbox.jp/2025/03/10/news-addon-pbr-texture-material-generator/"/>
+        <updated>2025-03-10T09:04:47.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは！ 今回はアドオンの「Pbr Texture & Material Generator」を紹介します。 こちらのリンクから購入することができます。 Pbr Texture & Material  […]]]></summary>
+        <author>
+            <name>kasahara</name>
         </author>
     </entry>
     <entry>
@@ -2834,50 +2864,6 @@ https://www.youtube.com/watch?v=s91xYXiVlCw
         <updated>2025-02-09T13:08:13.000Z</updated>
         <summary type="html"><![CDATA[DECODED#8217;s Mesh Cleaner for Blender DECODED#8217;s Mesh Cleanerは@DECODEDVFXさんが作成した、Blenderでメッシュを素早く綺麗なモデ
 The post DECODED’s Mesh Cleaner １クリックで重複した頂点削除、三角形を四角形に変換、反転メッシュ修正、穴埋め機能を全て一度に実行してくれる無料アドオン first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
-        <author>
-            <name>modelinghappy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【3Dconnexion】左手で快適に視点操作！3Dマウスで新しい作業環境]]></title>
-        <id>https://cgbox.jp/?p=61258</id>
-        <link href="https://cgbox.jp/2025/02/09/gadjet-3dconnexion/"/>
-        <updated>2025-02-09T09:00:00.000Z</updated>
-        <summary type="html"><![CDATA[こちらの記事はプロモーションを含みます。 こんにちは。 今回はガジェットレビュー記事です！ 3Dマウスの「SpaceMouseシリーズ」を提供していただいたので、CGbox編集部がレビューしていきます。 ワークフローの効 […]]]></summary>
-        <author>
-            <name>UEDA</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[VATからSkinMatrixを復元する関数の実装メモ]]></title>
-        <id>https://qiita.com/Haru86_/items/98a5d94882bf347b89f6</id>
-        <link href="https://qiita.com/Haru86_/items/98a5d94882bf347b89f6"/>
-        <updated>2025-02-09T07:26:07.000Z</updated>
-        <summary type="html"><![CDATA[実装
-vec4 fetchElement(float JointIndex, int Offset, float v)
-{
-    float texelSizeX = 1.0 / vat_ubo.texW…]]></summary>
-        <author>
-            <name>CGタグが付けられた新着記事 - Qiita</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chasm's Call 3D Challenge -  奥行きのある空間のテンプレートを元にCG制作！Clinton Jones氏によるCGチャレンジの2025年第１回が開催中！提出期限は2024年3月9日！Marvelous DesignerやJangaFX製品が期間中は無料使用可能！ #chasmscall]]></title>
-        <id>https://3dnchu.com/?p=1051601</id>
-        <link href="https://3dnchu.com/archives/chasms-call-3d-challenge/"/>
-        <updated>2025-02-09T05:41:03.000Z</updated>
-        <summary type="html"><![CDATA[VFXアーティストClinton Jones氏（@_Pwnisher_）主催の大規模CGコンテスト3D Community Challenge 第10回目（2025年1回目）の詳細が発表されました！奥行きのあるシーンを構築する『Chasm's Call』チャレンジ！今回も賞品付きの大規模な3Dコミュニティレンダリングチャレンジとなっております。]]></summary>
-        <author>
-            <name>Ymt3D -3dnchu-</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Proterials – 1.0 クローズアップにも使えるフォトリアルで軽量！150種類以上のプロシージャルBlenderマテリアルセット]]></title>
-        <id>https://modelinghappy.com/?p=61401</id>
-        <link href="https://modelinghappy.com/archives/61401"/>
-        <updated>2025-02-09T02:49:52.000Z</updated>
-        <summary type="html"><![CDATA[Proterials #8211; 1.0 ProterialsはBlenderでリアルなテクスチャを表現する物が多くある中、タイリングやVRAMの制限を気にしない為にディスプレイスメントを使用せず、バンプマップだけで
-The post Proterials – 1.0 クローズアップにも使えるフォトリアルで軽量！150種類以上のプロシージャルBlenderマテリアルセット first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
         <author>
             <name>modelinghappy</name>
         </author>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-03-11T00:48:17.787Z</updated>
+    <updated>2025-03-11T03:21:20.508Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
@@ -11,6 +11,16 @@
         <id>https://cgworld.jp/flashnews/2503-bros-ue5-5.html</id>
         <link href="https://cgworld.jp/flashnews/2503-bros-ue5-5.html"/>
         <updated>2025-03-11T06:51:32.000Z</updated>
+        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wカンファレンス「女性クリエイターなんでも相談室」お悩み募集中！あなたの悩みを登壇者に直接聞いてみませんか？ - ニュース]]></title>
+        <id>https://cgworld.jp/flashnews/2503-wconference.html</id>
+        <link href="https://cgworld.jp/flashnews/2503-wconference.html"/>
+        <updated>2025-03-11T01:04:57.000Z</updated>
         <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
         <author>
             <name>CGWORLD</name>
@@ -2831,41 +2841,6 @@ node_na...]]></summary>
         <summary type="html"><![CDATA[デジタルで色を扱うための知識体系を学べる一冊『ACESのワークフローが理解できるカラーマネジメントガイド』を紹介。]]></summary>
         <author>
             <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[UE5][Houdini][習作] Houdiniで頂点に仕込んだ情報を元に、UEのマテリアルで面の押し出しアニメをしてみました]]></title>
-        <id>https://zenn.dev/h_sasaki/articles/79b0b415344b12</id>
-        <link href="https://zenn.dev/h_sasaki/articles/79b0b415344b12"/>
-        <updated>2025-02-09T13:56:26.000Z</updated>
-        <summary type="html"><![CDATA[!
-環境：UE 5.5、Houdini 20.5
-
-HoudiniでSOPやらVEXやら色々学んだので、Houdini側でモデルの頂点に情報を仕込んで、その情報を元に、UEのマテリアルでWorldPositionOffsetによって面の押し出しアニメをしてみました。
-
- デモムービー
-こちらが作成したもののデモムービーになります。
-https://www.youtube.com/watch?v=s91xYXiVlCw
-
- 解説
-
- [Houdini側] 基本形の作成
-まずは、Shpereの面上をヘキサグリッドにして、各面を少し押し出します。
-
-これを基本形として、頂点に必要な情報を仕込ん...]]></summary>
-        <author>
-            <name>ササキ ヒロユキ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DECODED’s Mesh Cleaner １クリックで重複した頂点削除、三角形を四角形に変換、反転メッシュ修正、穴埋め機能を全て一度に実行してくれる無料アドオン]]></title>
-        <id>https://modelinghappy.com/?p=61411</id>
-        <link href="https://modelinghappy.com/archives/61411"/>
-        <updated>2025-02-09T13:08:13.000Z</updated>
-        <summary type="html"><![CDATA[DECODED#8217;s Mesh Cleaner for Blender DECODED#8217;s Mesh Cleanerは@DECODEDVFXさんが作成した、Blenderでメッシュを素早く綺麗なモデ
-The post DECODED’s Mesh Cleaner １クリックで重複した頂点削除、三角形を四角形に変換、反転メッシュ修正、穴埋め機能を全て一度に実行してくれる無料アドオン first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
-        <author>
-            <name>modelinghappy</name>
         </author>
     </entry>
 </feed>

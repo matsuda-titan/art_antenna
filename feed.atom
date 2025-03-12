@@ -2,10 +2,97 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-03-11T12:19:09.682Z</updated>
+    <updated>2025-03-12T00:47:56.434Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[3年ぶりの東京開催となった「SIGGRAPH Asia 2024」をふり返る（1） - 特集]]></title>
+        <id>https://cgworld.jp/article/2502-sig2024asia001.html</id>
+        <link href="https://cgworld.jp/article/2502-sig2024asia001.html"/>
+        <updated>2025-03-12T01:00:42.000Z</updated>
+        <summary type="html"><![CDATA[「SIGGRAPH Asia2024」をレポート。]]></summary>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[誰でも使える公式リネームツールを使って時短しよう！]]></title>
+        <id>https://tech-art.online/?p=1950</id>
+        <link href="https://tech-art.online/ue-batch-renamer/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=ue-batch-renamer"/>
+        <updated>2025-03-12T00:13:32.000Z</updated>
+        <summary type="html"><![CDATA[Unreal Engineで大量のアセットを扱う時、名前の整理って大変ですよね？
+誰でも使える公式リネームツールを使って時短しよう！ first appeared on TECH ART ONLINE.]]></summary>
+        <author>
+            <name>管理人</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Live Paint Filter V3.0 - Geometry Nodesを活用したハンドペイントエフェクト追加アドオン！Cycles＆EEVEE Nextに対応！Blender 4.4以降専用の最新版がリリース！]]></title>
+        <id>https://3dnchu.com/?p=1052532</id>
+        <link href="https://3dnchu.com/archives/live-paint-filter-v3-0/"/>
+        <updated>2025-03-11T23:57:30.000Z</updated>
+        <summary type="html"><![CDATA[Alan Wyatt（Tradigital3D）氏によるGeometry Nodesを活用したハンドペイントエフェクト追加アドオン「Live Paint Filter V3.0」がリリースされました！]]></summary>
+        <author>
+            <name>Ymt3D -3dnchu-</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[KarmaでMaterialXからAOVを設定し、チャンネルのレンダリングとレンズシェーダーによるテクスチャベイク]]></title>
+        <id>https://zenn.dev/konno/articles/d50a1b869fde25</id>
+        <link href="https://zenn.dev/konno/articles/d50a1b869fde25"/>
+        <updated>2025-03-11T17:00:34.000Z</updated>
+        <summary type="html"><![CDATA[概要
+Karmaでマテリアル内から参照可能な任意の値をレンダリングする方法とレンズシェーダーを利用してUV位置に合わせたレンダリングを行う方法です。
+
+ 実行結果
+
+各チャンネルのレンダリング結果
+
+レンズシェーダーを利用してUV位置に合わせたレンダリングした結果
+
+ AOVを作成する
+AOV (“Arbitrary Output Variable:任意の出力変数”)
+https://www.sidefx.com/ja/docs/houdini/solaris/karma_aovs.html
+AOVを設定することでレンダリング時に出力される画像チャンネルを追加することができます。
+
+...]]></summary>
+        <author>
+            <name>fish ball</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Blenderでのモーショントラッキングが1/5の速さで従来より安定・動画内をクリックで正確な3D位置を特定する機能が用意されてるFlaxflowアドオン]]></title>
+        <id>https://modelinghappy.com/?p=62067</id>
+        <link href="https://modelinghappy.com/archives/62067"/>
+        <updated>2025-03-11T14:21:02.000Z</updated>
+        <summary type="html"><![CDATA[Flaxflow #8211; Motion Tracking amp; Geometry Toolkit FlaxFlowは、Blenderのモーション トラッキング パネルと3Dビューポートに多くの追加機能が加わ
+The post Blenderでのモーショントラッキングが1/5の速さで従来より安定・動画内をクリックで正確な3D位置を特定する機能が用意されてるFlaxflowアドオン first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
+        <author>
+            <name>modelinghappy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[1 Frame - 1 DrawCall - Can all this become one draw call? - Unreal Engine 5 のNanite環境におけるDrawCallの状況について調査した検証動画が公開！]]></title>
+        <id>https://3dnchu.com/?p=1052524</id>
+        <link href="https://3dnchu.com/archives/1-frame-1-drawcall/"/>
+        <updated>2025-03-11T14:13:29.000Z</updated>
+        <summary type="html"><![CDATA[Visual Tech ArtのYoutubeチャンネルにて、Unreal Engine 5のNaniteを使用した際のドローコールに関して検証を行った動画「1 Frame - 1 DrawCall」が公開されました。とても興味深い内容です。]]></summary>
+        <author>
+            <name>Ymt3D -3dnchu-</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Polygen モデルに等間隔のパーティクルを配置してリトポロジー出来るBlender用アドオン]]></title>
+        <id>https://modelinghappy.com/?p=62059</id>
+        <link href="https://modelinghappy.com/archives/62059"/>
+        <updated>2025-03-11T13:54:44.000Z</updated>
+        <summary type="html"><![CDATA[Polygen #8211; Interactive Remesher PolygenはBlenderでリトポロジーとリメッシュを流動的なシミュレーションプロセスで変換できるアドオンです。 ポイントベースのシミュレーシ
+The post Polygen モデルに等間隔のパーティクルを配置してリトポロジー出来るBlender用アドオン first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
+        <author>
+            <name>modelinghappy</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【キャリア】呪われた映画愛の下、バンクーバーの地でハリウッド映画のVFXと自主映画の二刀流に取り組む〜コンポジター大槻直貴の生き方〜 - 特集]]></title>
         <id>https://cgworld.jp/article/202503-NaokiOtsuki-V&amp;D.html</id>
@@ -2817,124 +2904,6 @@ The post 提供されるロボットモデルを使用してSubstance 3D Painter
         <summary type="html"><![CDATA[こんばんは！ 今回はアドオンの「Fracturelab」を紹介します。 こちらのリンクから購入することができます。 Fracturelab 「Fracturelab」は、オブジェクトを細かく分離する破砕表現ができるアドオ […]]]></summary>
         <author>
             <name>UEDA</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2/20（木）応募締切！　Netflixが協賛 VIPO Film Lab「監督コース」参加者募集－フランス国立映画学校講師から世界基準の映画表現を学ぶチャンス - ニュース]]></title>
-        <id>https://cgworld.jp/flashnews/2502-netflix-vipo-film-lab.html</id>
-        <link href="https://cgworld.jp/flashnews/2502-netflix-vipo-film-lab.html"/>
-        <updated>2025-02-10T07:40:53.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[画像／動画生成AIプラットフォーム「Freepik AI」アップデート！　リップシンク生成、サウンドエフェクト生成を追加 - ニュース]]></title>
-        <id>https://cgworld.jp/flashnews/202502-Freepik-Ai.html</id>
-        <link href="https://cgworld.jp/flashnews/202502-Freepik-Ai.html"/>
-        <updated>2025-02-10T06:57:10.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[映画『ウィキッド ふたりの魔女』のオスカーリール＆VFXブレイクダウン映像]]></title>
-        <id>https://3dtotal.jp/?p=49870</id>
-        <link href="https://3dtotal.jp/news/49870/"/>
-        <updated>2025-02-10T06:22:41.000Z</updated>
-        <summary type="html"><![CDATA[★オスカーベイクオフリール：Wicked Oscars Bake Off Reel（3分1秒/ 制作：Framestore） プロダクション VFXスーパーバイザー Pable Helman のナレーションによる『ウィキ […]
-The post 映画『ウィキッド ふたりの魔女』のオスカーリール＆VFXブレイクダウン映像 first appeared on 3dtotal 日本語オフィシャルサイト.]]></summary>
-        <author>
-            <name>3dtotal管理人T</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Quick Studio Light モデルをクリックでそこにライトを当ててくれるBlender用無料アドオン]]></title>
-        <id>https://modelinghappy.com/?p=61414</id>
-        <link href="https://modelinghappy.com/archives/61414"/>
-        <updated>2025-02-10T06:08:22.000Z</updated>
-        <summary type="html"><![CDATA[Quick Studio Light Quick Studio LightはBlenderでオブジェクトにライトを当てたい場所をクリックすると、その場所に光が当たりライトの角度が自動で調整されライティングが簡単になる無料
-The post Quick Studio Light モデルをクリックでそこにライトを当ててくれるBlender用無料アドオン first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
-        <author>
-            <name>modelinghappy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[チームラボプラネッツ新エリア潜入レポート！合計20以上の新作が公開 - ニュース]]></title>
-        <id>https://cgworld.jp/flashnews/2501-teamlab.html</id>
-        <link href="https://cgworld.jp/flashnews/2501-teamlab.html"/>
-        <updated>2025-02-10T05:10:26.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[UnityにおけるZバッファ、カリング、バッチング、インスタンシング]]></title>
-        <id>https://zenn.dev/s4k1/articles/f919e547c75693</id>
-        <link href="https://zenn.dev/s4k1/articles/f919e547c75693"/>
-        <updated>2025-02-10T05:06:29.000Z</updated>
-        <summary type="html"><![CDATA[はじめに
-Zバッファ、カリング、バッチング、インスタンシングの概要と利用方法
-Unityは3Dおよび2Dシーンのレンダリングにおいて、複数の最適化技術を提供しています。
-各技術の基本概念と、Unityでどのように利用できるかまとめました。
-
-
- Zバッファ (Depth Buffer)
-
- 概要
-Zバッファは、各ピクセルごとにカメラからの深度情報を保持するバッファです。これにより、レンダリング時に各ピクセルの深度値を比較し、カメラに最も近いピクセルのみを表示することで、正しい隠面処理が実現されます。
-
- Unityでの利用方法
-
-
-カメラ設定
-Unityでは、各カメラコンポーネントの...]]></summary>
-        <author>
-            <name>0y0</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[STYLY✕KDDI✕AbemaがApple Vision Pro向け3D映像コンテンツ『バーチャルプロレス スペシャルマッチ 「清宮海⽃vs拳王」powered by Pontaパス』を開発、3月2日に体験会を開催 - ニュース]]></title>
-        <id>https://cgworld.jp/flashnews/2502-news-vrpwavp.html</id>
-        <link href="https://cgworld.jp/flashnews/2502-news-vrpwavp.html"/>
-        <updated>2025-02-10T04:58:00.000Z</updated>
-        <summary type="html"><![CDATA[『バーチャルプロレス スペシャルマッチ 「清宮海⽃vs拳王」powered by Pontaパス』についてのニュースを紹介。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[単眼動画からのマーカーレスモーションキャプチャ「MoCapade 3.0」リリース！　最大4人の同時キャプチャ、手指の繊細な動きの再現、カメラトラッキングデータのエクスポート - ニュース]]></title>
-        <id>https://cgworld.jp/flashnews/202502-MoCapade3.html</id>
-        <link href="https://cgworld.jp/flashnews/202502-MoCapade3.html"/>
-        <updated>2025-02-10T03:42:05.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Houdini Pythonでノードの検索と選択（備忘録2）]]></title>
-        <id>https://zenn.dev/mj31000/articles/eab5052acdefe8</id>
-        <link href="https://zenn.dev/mj31000/articles/eab5052acdefe8"/>
-        <updated>2025-02-10T03:30:32.000Z</updated>
-        <summary type="html"><![CDATA[ノードを検索して、そのノードを選択状態に
-Houdiniでの繰り返し作業を自動化する上で、ノード検索とその選択は頻繁に行いそうです。そこで今回は、Houdini Pythonでノードの検索と選択、ついでにNetwork Editor上でのフォーカスはどう書くのかを調べてみました。このスクリプトは、シェルフツールとして使用することを想定しています。
-
- 環境
-Windows10 Pro
-Houdini Indie 20.5.332 py3
-
- 指定した名前のノードを検索
-import hou
-
-# Specify the name of the node to find
-node_na...]]></summary>
-        <author>
-            <name>Hidetake Miyajima</name>
         </author>
     </entry>
 </feed>

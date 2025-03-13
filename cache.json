@@ -507,6 +507,36 @@
       "siteUrl": "https://3dnchu.com",
       "articles": [
         {
+          "id": "https://3dnchu.com/?p=1052633",
+          "author": "Ymt3D -3dnchu-",
+          "description": "Poly Havenが南アフリカの砂漠・荒野でスキャンし制作した環境アセットパック「Namaqualand」をFab上で無料公開しました！",
+          "link": "https://3dnchu.com/archives/namaqualand-poly-haven/",
+          "publishedOn": "2025-03-13T02:27:42.000Z",
+          "wordCount": 9027,
+          "title": "Namaqualand - Poly Havenが南アフリカの砂漠・荒野をスキャンし制作した3D環境アセットをUnreal Engine向けに最適化しFab上で無料公開！",
+          "enclosure": {
+            "url": "https://3dnchu.com/wp-content/uploads/Namaqualand.webp",
+            "length": "1365634",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://3dnchu.com/wp-content/uploads/Namaqualand.webp"
+        },
+        {
+          "id": "https://3dnchu.com/?p=1052609",
+          "author": "Ymt3D -3dnchu-",
+          "description": "siddharth ahuja氏（@sidahuj）が対話型生成AIのClaudeとBlenderを連携させる為の「Blender MPC（Model Context Protocol）」をGithub上で無償公開しました！",
+          "link": "https://3dnchu.com/archives/blender-mcp/",
+          "publishedOn": "2025-03-13T01:39:41.000Z",
+          "wordCount": 9027,
+          "title": "Blender MCP - 対話型生成AIのClaudeとBlenderを連携させテキストで命令することでシーン構築を可能とするMPC（Model Context Protocol）がGithub上で公開！",
+          "enclosure": {
+            "url": "https://3dnchu.com/wp-content/uploads/Blender-MCP.webp",
+            "length": "1046544",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://3dnchu.com/wp-content/uploads/Blender-MCP.webp"
+        },
+        {
           "id": "https://3dnchu.com/?p=1052588",
           "author": "Ymt3D -3dnchu-",
           "description": "単発のユニークなアドオンを多数公開しているAlbertoFXが、新たにBlender用のユニークなリトポロジー＆リメッシュアドオン「PolyGen v0.1」をリリースしました！",
@@ -1158,6 +1188,26 @@
       "feedUrl": "https://cgworld.jp/atom.xml",
       "siteUrl": "https://cgworld.jp/",
       "articles": [
+        {
+          "id": "https://cgworld.jp/flashnews/202503-Flow-Blender.html",
+          "author": null,
+          "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
+          "link": "https://cgworld.jp/flashnews/202503-Flow-Blender.html",
+          "publishedOn": "2025-03-13T01:30:00.000Z",
+          "wordCount": 1013,
+          "title": "【Blender】映画『Flow』のユニーク極まる制作手法をふり返る〜ギンツ・ジルバロディス監督独自の画づくり〜 - ニュース",
+          "imageUrl": "https://cgworld.jp/flashnews/assets_c/2025/03/MV5BM2VhZDg5YjctY2UyOS00ZjQ2LWE4MDQtN2YwOWQ3OGQyNDhjXkEyXkFqcGc%40._V1_FMjpg_UX2160_-thumb-1920x1080-66793.jpg"
+        },
+        {
+          "id": "https://cgworld.jp/article/202503-sigasia-ai.html",
+          "author": null,
+          "description": "「SIGGRAPH Asia2024」からAIとXRに関連した注目論文を紹介。",
+          "link": "https://cgworld.jp/article/202503-sigasia-ai.html",
+          "publishedOn": "2025-03-13T01:21:00.000Z",
+          "wordCount": 795,
+          "title": "アニメ作画支援、オブジェクト移動制御可能な動画生成に関するAIが登場。AIとXRに関連した注目論文をピックアップ～SIGGGRAPH Asia 2024（2） - 特集",
+          "imageUrl": "https://cgworld.jp/article/assets_c/2025/03/ad641ecf487895a2ff786943508c23af4d5ba376-thumb-1000x372-66598.jpg"
+        },
         {
           "id": "https://cgworld.jp/flashnews/2503-410houdini.html",
           "author": null,
@@ -3164,16 +3214,6 @@
           "wordCount": 2227,
           "title": "【Unity】【Shader】stepの分岐と三項演算子のコンパイル結果を見てみた",
           "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnFpaXRhLWltYWdlLXN0b3JlLnMzLmFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkYwJTJGNjA4Nzk3JTJGcHJvZmlsZS1pbWFnZXMlMkYxNjQ2ODI3MDA5P2l4bGliPXJiLTQuMC4wJmFyPTElM0ExJmZpdD1jcm9wJm1hc2s9ZWxsaXBzZSZmbT1wbmczMiZzPTA3ZGNlNDcxYjZkNTE3YTlhNWNiZTA2NjdlNWRiNzNm%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D26ab4758cb27e10bc6b49f6b8b7fa724?ixlib=rb-4.0.0&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9JUUzJTgwJTkwVW5pdHklRTMlODAlOTElRTMlODAlOTBTaGFkZXIlRTMlODAlOTFzdGVwJUUzJTgxJUFFJUU1JTg4JTg2JUU1JUIyJTkwJUUzJTgxJUE4JUU0JUI4JTg5JUU5JUEwJTg1JUU2JUJDJTk0JUU3JUFFJTk3JUU1JUFEJTkwJUUzJTgxJUFFJUUzJTgyJUIzJUUzJTgzJUIzJUUzJTgzJTkxJUUzJTgyJUE0JUUzJTgzJUFCJUU3JUI1JTkwJUU2JTlFJTlDJUUzJTgyJTkyJUU4JUE2JThCJUUzJTgxJUE2JUUzJTgxJUJGJUUzJTgxJTlGJnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9MmFmNDM2OTE1OWM3ZmQ5NDBlMDg1YzJjZDk1NzI4Njk&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBheWFoYTQwMSZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPTY4YWFlM2M3NTUzYmE0NjI0MzAzNzVlNTg4NmQzYTI3&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=04e0091bd329949a20eb87caec9fb765"
-        },
-        {
-          "id": "https://qiita.com/gonz93810/items/60270ec2d8b2894a2012",
-          "author": null,
-          "description": "初めに\nキャラクターをアニメ調で表現するToonshaderを書いてみたので勉強用に記録します。\n解説はコードのコメントに書きました。\nユニバーサルレンダーパイプラインを使用していますので、インスト…",
-          "link": "https://qiita.com/gonz93810/items/60270ec2d8b2894a2012",
-          "publishedOn": "2025-02-11T14:18:30.000Z",
-          "wordCount": 1648,
-          "title": "初心者がToonShaderを作ってみた",
-          "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRmxoMy5nb29nbGV1c2VyY29udGVudC5jb20lMkZhJTJGQUNnOG9jS04zVHUzc1laWEMxcVdPd2pFbzl1Z2FMZjMzbkVhanNuWXdsQTJtNF9RTElBRmdnJTNEczk2LWM_aXhsaWI9cmItNC4wLjAmYXI9MSUzQTEmZml0PWNyb3AmbWFzaz1lbGxpcHNlJmZtPXBuZzMyJnM9MjRkMmU4NDhiM2I0MDA5ZmQyOTAyODBhNzQyNGZjZWU%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3Ddf6e6742243df4d8848d750d7612e19e?ixlib=rb-4.0.0&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9JUU1JTg4JTlEJUU1JUJGJTgzJUU4JTgwJTg1JUUzJTgxJThDVG9vblNoYWRlciVFMyU4MiU5MiVFNCVCRCU5QyVFMyU4MSVBMyVFMyU4MSVBNiVFMyU4MSVCRiVFMyU4MSU5RiZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnR4dC1wYWQ9MCZzPTUwMGQyNmMzZTM5OWQ2OWQ4ZWUwMTBiNDAzNzFmMDNm&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBnb256OTM4MTAmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz1kYWQyNDMzMzJlZmZmNTJmZjUwMWMxZjU0ODRmNzg5Mw&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=b602b7d8aaad145ba5acac5aff026e58"
         }
       ]
     },

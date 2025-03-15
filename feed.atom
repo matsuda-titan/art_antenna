@@ -2,10 +2,71 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-03-14T12:18:04.579Z</updated>
+    <updated>2025-03-15T00:46:58.867Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[PolyZamboni v1.0 - Blenderで簡単にペーパークラフト用のデータを生成出来る無料のアドオン！]]></title>
+        <id>https://3dnchu.com/?p=1052669</id>
+        <link href="https://3dnchu.com/archives/polyzamboni-v1-0/"/>
+        <updated>2025-03-14T17:06:09.000Z</updated>
+        <summary type="html"><![CDATA[Anton-Florey氏によるBlenderで簡単にペーパークラフト用のデータを生成出来るアドオン「PolyZamboni v1.0」がリリースされています！]]></summary>
+        <author>
+            <name>Ymt3D -3dnchu-</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Zen Uvが5.0にアップデートされZen Touch ToolでGizmoを使用してUVの位置合わせやMinistry of flatの自動展開機能が追加]]></title>
+        <id>https://modelinghappy.com/?p=62087</id>
+        <link href="https://modelinghappy.com/archives/62087"/>
+        <updated>2025-03-14T12:58:14.000Z</updated>
+        <summary type="html"><![CDATA[Zen Uv  BlenderでのUV展開が便利になる大人気アドオンZen UVが5.0にアップデートされてZen Touch UV Touch ToolのGizmoが追加されました。 Zen Touch ToolのGi
+The post Zen Uvが5.0にアップデートされZen Touch ToolでGizmoを使用してUVの位置合わせやMinistry of flatの自動展開機能が追加 first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
+        <author>
+            <name>modelinghappy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【Unity】シェーダーでひびを入れる［その3：テッセレーションシェーダー編］]]></title>
+        <id>https://zenn.dev/lilytechlab/articles/a083aad2460432</id>
+        <link href="https://zenn.dev/lilytechlab/articles/a083aad2460432"/>
+        <updated>2025-03-14T12:38:29.000Z</updated>
+        <summary type="html"><![CDATA[前回の記事でジオメトリシェーダーでの頂点分割を試みました。
+しかし粗いポリゴンのモデルにひびを入れる場合は分割数を増やしたいなど、分割具合をもっと柔軟に設定できるようにしたいです。
+このため、今回はテッセレーションシェーダーでポリゴン分割を行なってみます。
+
+前回の記事はこちら。
+https://zenn.dev/lilytechlab/articles/4b67cfbc44ad79
+
+ テッセレーションシェーダーについて
+テッセレーションシェーダーそのものの解説はここでは行いません。
+作成するにあたっては、以下のページを参考にしました。
+情報が少なめなのと、専門用語が多くてなかなか仕組...]]></summary>
+        <author>
+            <name>masamin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【Unity】シェーダーでひびを入れる［その3：テッセレーションシェーダー編］]]></title>
+        <id>https://zenn.dev/lilytechlab/articles/a083aad2460432</id>
+        <link href="https://zenn.dev/lilytechlab/articles/a083aad2460432"/>
+        <updated>2025-03-14T12:38:29.000Z</updated>
+        <summary type="html"><![CDATA[前回の記事でジオメトリシェーダーでの頂点分割を試みました。
+しかし粗いポリゴンのモデルにひびを入れる場合は分割数を増やしたいなど、分割具合をもっと柔軟に設定できるようにしたいです。
+このため、今回はテッセレーションシェーダーでポリゴン分割を行なってみます。
+
+前回の記事はこちら。
+https://zenn.dev/lilytechlab/articles/4b67cfbc44ad79
+
+ テッセレーションシェーダーについて
+テッセレーションシェーダーそのものの解説はここでは行いません。
+作成するにあたっては、以下のページを参考にしました。
+情報が少なめなのと、専門用語が多くてなかなか仕組...]]></summary>
+        <author>
+            <name>masamin</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Radial Material Picker 円状にマテリアルを表示してモデルに割り当てれるBlender用アドオン]]></title>
         <id>https://modelinghappy.com/?p=62083</id>
@@ -2893,110 +2954,6 @@ The post Goodbye Kansas の ポータブル サーフェス スキャナー Swat
         <link href="https://cgworld.jp/regular/202502-tipsnote.html"/>
         <updated>2025-02-14T01:00:06.000Z</updated>
         <summary type="html"><![CDATA[Photoshop 2025からの新機能「拡張されたフレームレイヤー」をご紹介します。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【アドオン紹介】Geo-Fish – 魚群を簡単作成]]></title>
-        <id>https://cgbox.jp/?p=62271</id>
-        <link href="https://cgbox.jp/2025/02/13/news-addon-geo-fish/"/>
-        <updated>2025-02-13T10:27:32.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは！ 今回はアドオンの「Geo-Fish」を紹介します。 こちらのリンクから購入することができます。 「Geo-Fish」は、魚群を簡単に作成可能なアドオン。 魚をターゲット指定して、特定の場所に向かわせたり、特 […]]]></summary>
-        <author>
-            <name>kasahara</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Adobeがプリミティブとプロンプト入力から画像生成できるAdobe Project Neoのベータ版を公開]]></title>
-        <id>https://modelinghappy.com/?p=61488</id>
-        <link href="https://modelinghappy.com/archives/61488"/>
-        <updated>2025-02-13T07:49:12.000Z</updated>
-        <summary type="html"><![CDATA[Adobe Project Neo (Beta) Adobeは2025年2月13日に用意されているプリミティブとプロンプト入力から画像生成できるAdobe Project Neoのベータ版を公開しました。 3DCGの複雑
-The post Adobeがプリミティブとプロンプト入力から画像生成できるAdobe Project Neoのベータ版を公開 first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
-        <author>
-            <name>modelinghappy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Maya Groups BlenderでMayaと同じようにグループ階層して使いやすくしてくれるアドオン]]></title>
-        <id>https://modelinghappy.com/?p=61484</id>
-        <link href="https://modelinghappy.com/archives/61484"/>
-        <updated>2025-02-13T06:35:40.000Z</updated>
-        <summary type="html"><![CDATA[Maya Groups #8211; Industry Standard Grouping For Blender Maya GroupsはMayaと同じグループの使い勝手に、Blenderでも同じように使えるようにし
-The post Maya Groups BlenderでMayaと同じようにグループ階層して使いやすくしてくれるアドオン first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
-        <author>
-            <name>modelinghappy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2/22（土）長野県松本市にて「松本3DCG映像祭」開催！松本市CGスナップコンテストの結果発表も実施 - ニュース]]></title>
-        <id>https://cgworld.jp/flashnews/2502-matsumotoshi-hyousyou.html</id>
-        <link href="https://cgworld.jp/flashnews/2502-matsumotoshi-hyousyou.html"/>
-        <updated>2025-02-13T04:30:00.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Adobeがテキストや画像から動画を作成出来るFirefly Video Modelのベータ版を公開]]></title>
-        <id>https://modelinghappy.com/?p=61470</id>
-        <link href="https://modelinghappy.com/archives/61470"/>
-        <updated>2025-02-13T04:09:18.000Z</updated>
-        <summary type="html"><![CDATA[Adobe Firefly Video Model Adobeは2025年2月13日にテキストや用意した画像から動画を作成出来るAdobe Firefly Video Modelベータ版を追加しました。現在5秒間の動画を
-The post Adobeがテキストや画像から動画を作成出来るFirefly Video Modelのベータ版を公開 first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
-        <author>
-            <name>modelinghappy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AdonisFX 1.5 - Maya向け筋肉＆筋膜＆皮膚のシミュレーションデフォーマソリューション！最新アップデート！]]></title>
-        <id>https://3dnchu.com/?p=1051644</id>
-        <link href="https://3dnchu.com/archives/adonisfx-1-5/"/>
-        <updated>2025-02-13T03:24:54.000Z</updated>
-        <summary type="html"><![CDATA[inbiboによるMaya向け筋肉＆筋膜＆皮膚のシミュレーションデフォーマソリューションの最新アップデート「AdonisFX 1.5」がリリース！]]></summary>
-        <author>
-            <name>Ymt3D -3dnchu-</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「ヒックとドラゴン」が 実写映画に! 『How To Train Your Dragon』のトレーラー]]></title>
-        <id>https://3dtotal.jp/?p=48688</id>
-        <link href="https://3dtotal.jp/news/48688/"/>
-        <updated>2025-02-13T02:04:46.000Z</updated>
-        <summary type="html"><![CDATA[★How To Train Your Dragon | Official Trailer（2分28秒） 　 ★How To Train Your Dragon | Official Teaser Trailer（1分15 […]
-The post 「ヒックとドラゴン」が 実写映画に! 『How To Train Your Dragon』のトレーラー first appeared on 3dtotal 日本語オフィシャルサイト.]]></summary>
-        <author>
-            <name>3dtotal管理人T</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[シャドウの作り出したブラックホール! 映画『ソニック × シャドウ TOKYO MISSION』の VFXブレイクダウン映像]]></title>
-        <id>https://3dtotal.jp/?p=49941</id>
-        <link href="https://3dtotal.jp/news/49941/"/>
-        <updated>2025-02-13T02:02:50.000Z</updated>
-        <summary type="html"><![CDATA[★Sonic The Hedgehog 3 - VFX Breakdown by Rodeo FX（1分9秒） Rodeo FX は、エッグマン（ジム・キャリー）とシャドウ（キアヌ・リーブス）が作り出したブラックホールに […]
-The post シャドウの作り出したブラックホール! 映画『ソニック × シャドウ TOKYO MISSION』の VFXブレイクダウン映像 first appeared on 3dtotal 日本語オフィシャルサイト.]]></summary>
-        <author>
-            <name>3dtotal管理人T</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ベテランゲームクリエイター歓迎。ライフステージに応じた働き方を、トリサンはどのように実現するのか？ - スペシャルコンテンツ]]></title>
-        <id>https://cgworld.jp/special-feature/2501-torisan.html</id>
-        <link href="https://cgworld.jp/special-feature/2501-torisan.html"/>
-        <updated>2025-02-13T02:00:00.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[第20回：Reality Composer Pro 内のアセットをまとめて保存・共有する方法 - 連載]]></title>
-        <id>https://cgworld.jp/regular/20reality-composer-pro.html</id>
-        <link href="https://cgworld.jp/regular/20reality-composer-pro.html"/>
-        <updated>2025-02-13T01:55:28.000Z</updated>
         <author>
             <name>CGWORLD</name>
         </author>

@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-03-16T12:16:18.396Z</updated>
+    <updated>2025-03-17T00:50:47.072Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[UE5-MCP：AIによるゲーム開発革命 - BlenderとUnreal Engine 5の自動化統合]]></title>
+        <id>https://zenn.dev/yuichi_ai/articles/3a36c26b4a153c</id>
+        <link href="https://zenn.dev/yuichi_ai/articles/3a36c26b4a153c"/>
+        <updated>2025-03-17T00:06:53.000Z</updated>
+        <summary type="html"><![CDATA[UE5-MCP：AIによるゲーム開発革命
+
+ 概要
+ゲーム開発の世界では、クオリティとスピードの両立が常に課題となっています。特に3Dアセット作成、レベルデザイン、ゲームプレイプログラミングは多大な時間と専門知識を要します。本記事では、これらの課題を解決する可能性を秘めた「UE5-MCP（Model Control Protocol）」について深掘りします。BlenderとUnreal Engine 5（UE5）のワークフローにAI駆動の自動化を統合するこのプロジェクトは、ゲーム開発の効率と創造性を飛躍的に向上させる可能性を秘めています。
+
+ 目次
+
+はじめに：ゲーム開発の課題
+UE...]]></summary>
+        <author>
+            <name>YUiCHI</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【アドオン紹介】Door It! Interior – ドアを簡単作成！]]></title>
         <id>https://cgbox.jp/?p=62538</id>
@@ -2875,73 +2893,6 @@ The post CONNECT 11,000種類以上の3DCG用 洋服素材や500種類以上の�
 The post selFaceRing for Maya １クリックで面の長い方、短い方をループ選択してくれるMaya用無料プラグイン first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
         <author>
             <name>modelinghappy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【チュートリアル紹介】口元のリギング作成を学べるチュートリアル]]></title>
-        <id>https://cgbox.jp/?p=62303</id>
-        <link href="https://cgbox.jp/2025/02/15/news-tutrial-how-to-rig-lips/"/>
-        <updated>2025-02-15T07:57:46.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは！ 今回は”Rakenval”さんの動画を紹介します。 How to rig lips in Blender  こちらのチュートリアルでは、リップシンク作り方を勉強できます。 こちらのチュートリアルは […]]]></summary>
-        <author>
-            <name>kasahara</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TiktokのByteDanceらが動画生成AI「Goku」を発表！　動画広告作成に特化した「Goku+」も - ニュース]]></title>
-        <id>https://cgworld.jp/flashnews/202502-ByteDance-Goku.html</id>
-        <link href="https://cgworld.jp/flashnews/202502-ByteDance-Goku.html"/>
-        <updated>2025-02-15T07:49:22.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【アドオン紹介】Stylized Materials Library – セミリアルなマテリアルアセット]]></title>
-        <id>https://cgbox.jp/?p=62300</id>
-        <link href="https://cgbox.jp/2025/02/15/news-addon-stylized-materials-library/"/>
-        <updated>2025-02-15T07:33:55.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは！ 今回はアドオンの「Stylized Materials Library」を紹介します。 こちらのリンクから購入することができます。 Stylized Materials Library 「Stylized  […]]]></summary>
-        <author>
-            <name>kasahara</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mayaでシーンイベントに駆動するプラグインを作成する]]></title>
-        <id>https://qiita.com/scixarts/items/f16354eecfda0bb55403</id>
-        <link href="https://qiita.com/scixarts/items/f16354eecfda0bb55403"/>
-        <updated>2025-02-15T06:01:19.000Z</updated>
-        <summary type="html"><![CDATA[環境
-
-Windows
-Autodesk Maya 2025.3
-
-イベントに駆動する処理の作成
-Mayaではファイルを開くなどの特定のイベントに合わせて駆動する処理を設定することが可能です。scrip…]]></summary>
-        <author>
-            <name>mayaタグが付けられた新着記事 - Qiita</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mayaと同じようにBlenderのアウトライナーの中をグループ階層化出来るアドオンMaya Groupsを使ってみました]]></title>
-        <id>https://modelinghappy.com/?p=61525</id>
-        <link href="https://modelinghappy.com/archives/61525"/>
-        <updated>2025-02-15T02:52:08.000Z</updated>
-        <summary type="html"><![CDATA[Maya Groups – Industry Standard Grouping For Blender 今回は先日リリースされたMayaと同じようにBlenderのアウトライナーでグループ化してモデルを整理、調整しやす
-The post Mayaと同じようにBlenderのアウトライナーの中をグループ階層化出来るアドオンMaya Groupsを使ってみました first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
-        <author>
-            <name>modelinghappy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【UE5初心者向け】アセットを入手・プロジェクトに追加する方法]]></title>
-        <id>https://cgbox.jp/?p=62178</id>
-        <link href="https://cgbox.jp/2025/02/15/ue5-beginner-asset/"/>
-        <updated>2025-02-15T02:10:41.000Z</updated>
-        <summary type="html"><![CDATA[こんにちは！ 今回は、 ゲームエンジン「 Unreal Engine 5 (UE5)」初心者向けに、アセット（3Dメッシュ・マテリアルなどの素材）の入手・追加方法を紹介します。 UE5を使ってゲームや映像制作を行う際に、 […]]]></summary>
-        <author>
-            <name>CGbox編集部</name>
         </author>
     </entry>
 </feed>

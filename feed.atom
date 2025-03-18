@@ -2,10 +2,74 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-03-17T12:19:57.264Z</updated>
+    <updated>2025-03-18T00:48:23.250Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[TVアニメ『メダリスト』フィギュアスケートのモーションキャプチャに挑戦した注目作〜 （2）リギング篇 - 特集]]></title>
+        <id>https://cgworld.jp/article/cgw319-medalist02.html</id>
+        <link href="https://cgworld.jp/article/cgw319-medalist02.html"/>
+        <updated>2025-03-18T01:00:05.000Z</updated>
+        <summary type="html"><![CDATA[TVアニメ 『メダリスト』のアニメCGメイキングを紹介。]]></summary>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hair Wrangler - Geometry Nodesとカーブを活用しシルエットを意識したヘアーを構築出来るBlenderアドオン！無料版が登場！]]></title>
+        <id>https://3dnchu.com/?p=1052814</id>
+        <link href="https://3dnchu.com/archives/hair-wrangler-for-blender/"/>
+        <updated>2025-03-17T15:44:11.000Z</updated>
+        <summary type="html"><![CDATA[キャラクターアーティストのDanny Mac 3D氏がシルエットを意識したヘアーを構築出来るBlenderアドオン「Hair Wrangler for Blender」の無料版を公開しました！]]></summary>
+        <author>
+            <name>Ymt3D -3dnchu-</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[USD SkelAnimation のメモ]]></title>
+        <id>https://zenn.dev/syoyo/articles/558ac14e0a1784</id>
+        <link href="https://zenn.dev/syoyo/articles/558ac14e0a1784"/>
+        <updated>2025-03-17T14:50:57.000Z</updated>
+        <summary type="html"><![CDATA[Blender で読む場合,
+translations, rotations, scales 全て author(値をセット)しなければならない
+Blender 側ではエラーを出さないので気づきにくい
+また, 各 attribute の　timeSamples の個数も同じでなければならない
+https://openusd.org/dev/api/_usd_skel__schemas.html#UsdSkel_SkelAnimation]]></summary>
+        <author>
+            <name>syoyo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[UnityMCP ＆ MCP Unity - Claudeなどの対話型生成AIとUnityを連携可能にするMPC（Model Context Protocol）！Github上で複数公開中！]]></title>
+        <id>https://3dnchu.com/?p=1052794</id>
+        <link href="https://3dnchu.com/archives/unitymcp-mcp-unity/"/>
+        <updated>2025-03-17T13:43:48.000Z</updated>
+        <summary type="html"><![CDATA[Unity用のMCPはGithub上に2つ「UnityMCP」と「MCP Unity」が存在していますので紹介いたします！]]></summary>
+        <author>
+            <name>Ymt3D -3dnchu-</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HoudiniMCP - Claudeなどの対話型生成AIとHoudiniを連携可能にするMPC（Model Context Protocol）がGithub上で公開！]]></title>
+        <id>https://3dnchu.com/?p=1052781</id>
+        <link href="https://3dnchu.com/archives/houdini-mcp/"/>
+        <updated>2025-03-17T13:23:43.000Z</updated>
+        <summary type="html"><![CDATA[Merih Oztaylan氏が、対話型生成AIのClaudeなどとHoudiniを連携させる為の「HoudiniMCP - Houdini Model Context Protocol Integration」をGithub上で無償公開しました！]]></summary>
+        <author>
+            <name>Ymt3D -3dnchu-</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【UE5初心者向け】フォリッジで草・木を大量に生やす方法]]></title>
+        <id>https://cgbox.jp/?p=62473</id>
+        <link href="https://cgbox.jp/2025/03/17/ue5-beginner-folidge/"/>
+        <updated>2025-03-17T12:49:39.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは！ 今回は、 ゲームエンジン「 Unreal Engine 5 (UE5)」初心者向けに、「フォリッジ」の機能の使い方を紹介します。 フォリッジを使うことによって、草や木などのアセットを大量に生成し、 […]]]></summary>
+        <author>
+            <name>CGbox編集部</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Substance 3D Painter がバージョン11.0にアップデート アセットパネル内の自動更新、パスの機能追加、ベイク時の自動ケージ機能が追加]]></title>
         <id>https://modelinghappy.com/?p=62130</id>
@@ -2929,61 +2993,6 @@ The post Framestore より、映画『ウィキッド ふたりの魔女』の V
         <updated>2025-02-17T01:43:40.000Z</updated>
         <summary type="html"><![CDATA[A Tiny Glade like environment art tool (WIP) MeBManさんがSteamで販売中の人気ゲームTiny Gladeに感銘を受けて、Blenderで同じようになぞるだけで道やレン
 The post Tiny Gladeと似たようになぞるだけで可愛らしい背景シーンを誰でも作成出来るBlender用ツールが開発中 first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
-        <author>
-            <name>modelinghappy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【Unity】【Shader】stepの分岐と三項演算子のコンパイル結果を見てみた]]></title>
-        <id>https://qiita.com/ayaha401/items/f825f974570e08d425a0</id>
-        <link href="https://qiita.com/ayaha401/items/f825f974570e08d425a0"/>
-        <updated>2025-02-16T10:46:32.000Z</updated>
-        <summary type="html"><![CDATA[気になった投稿
-https://x.com/iquilezles/status/1888409333182218691
-
-ちょっと、 mix () +step ()で条件付き移動を「最適化」しないでく…]]></summary>
-        <author>
-            <name>Shaderタグが付けられた新着記事 - Qiita</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ワコム、8年ぶりのプロ向けペンタブレット「Wacom Intuos Pro」の新モデル発表！　Pro Pen 3対応、サイズのコンパクト化と描画面積の拡大など - ニュース]]></title>
-        <id>https://cgworld.jp/flashnews/202502-Wacom-IntuosPro.html</id>
-        <link href="https://cgworld.jp/flashnews/202502-Wacom-IntuosPro.html"/>
-        <updated>2025-02-16T07:34:22.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【アドオン紹介】Hex Scatter – 法線マップを綺麗にブレンド]]></title>
-        <id>https://cgbox.jp/?p=62314</id>
-        <link href="https://cgbox.jp/2025/02/16/news-addon-hex-scatter/"/>
-        <updated>2025-02-16T05:22:30.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは！ 今回はアドオンの「Hex Scatter」を紹介します。 こちらのリンクから購入することができます。 Hex Scatter 「Hex Scatter」は、法線マップのブレンドや調整を行えるアドオン。 he […]]]></summary>
-        <author>
-            <name>kasahara</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CONNECT 11,000種類以上の3DCG用 洋服素材や500種類以上のパターン素材が無料ダウンロード出来る洋服特化型サイト]]></title>
-        <id>https://modelinghappy.com/?p=61569</id>
-        <link href="https://modelinghappy.com/archives/61569"/>
-        <updated>2025-02-16T04:27:03.000Z</updated>
-        <summary type="html"><![CDATA[CONNECT CONNECTはCLO Virtual Fashion Incが運営する、CLO、Marvelous Designerで洋服作成に使用出来る500種類以上の無料パターン素材から、無料PBRパターンテクスチ
-The post CONNECT 11,000種類以上の3DCG用 洋服素材や500種類以上のパターン素材が無料ダウンロード出来る洋服特化型サイト first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
-        <author>
-            <name>modelinghappy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[selFaceRing for Maya １クリックで面の長い方、短い方をループ選択してくれるMaya用無料プラグイン]]></title>
-        <id>https://modelinghappy.com/?p=61561</id>
-        <link href="https://modelinghappy.com/archives/61561"/>
-        <updated>2025-02-16T01:28:51.000Z</updated>
-        <summary type="html"><![CDATA[selFaceRing for Maya selFaceRing for MayaはMayaでループ選択する時に、選択する横のポリゴンが小さすぎてクリックしずらくて、ズームして選択しなければいけない場合でも、遠くから１ク
-The post selFaceRing for Maya １クリックで面の長い方、短い方をループ選択してくれるMaya用無料プラグイン first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
         <author>
             <name>modelinghappy</name>
         </author>

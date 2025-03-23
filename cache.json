@@ -385,21 +385,6 @@
           "wordCount": 2295,
           "title": "【アドオン紹介】Lazy Forest Generator – 生い茂る木々を簡単作成！",
           "imageUrl": "https://cgbox.jp/wp-content/uploads/2025/02/image_processing20250221-2-1b3rga6.jpg"
-        },
-        {
-          "id": "https://cgbox.jp/?p=62347",
-          "author": "kasahara",
-          "description": "こんばんは！ 今回はアドオンの「Fastrender」を紹介します。 こちらのリンクから購入することができます。 Fastrender 「Fastrender」は、従来のCycleと比べて2倍近くの速度でレンダリングする […]",
-          "link": "https://cgbox.jp/2025/02/21/news-addon-fastrender/",
-          "publishedOn": "2025-02-21T07:21:17.000Z",
-          "wordCount": 2242,
-          "title": "【アドオン紹介】Fastrender – フレーム補間でレンダリングを高速化！",
-          "enclosure": {
-            "url": "https://cgbox.jp/wp-content/uploads/2025/02/b13885d4ac88dcf1656ec6ea08fe60cc.mp4",
-            "length": "0",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://cgbox.jp/wp-content/uploads/2025/02/image_processing20250218-2-15e83dr.gif"
         }
       ]
     },
@@ -471,6 +456,36 @@
       "feedUrl": "https://3dnchu.com/feed/",
       "siteUrl": "https://3dnchu.com",
       "articles": [
+        {
+          "id": "https://3dnchu.com/?p=1052971",
+          "author": "Ymt3D -3dnchu-",
+          "description": "リアル思考な一人称視点ゲームを作りたい方に朗報！TreetyによるUnreal Engine5向けのファーストパーソンテンプレートプロジェクト「Realistic True First-Person Movement Template V1」がFab上で無料公開されています！",
+          "link": "https://3dnchu.com/archives/realistic-true-first-person-move-ue5/",
+          "publishedOn": "2025-03-22T17:54:08.000Z",
+          "wordCount": 8948,
+          "title": "Realistic True First-Person Movement Template V1 - 自分の胴体も見えるリアルな一人称視点のゲームに最適なUnreal Engine 5向け無料テンプレート！Fab上で公開！",
+          "enclosure": {
+            "url": "https://3dnchu.com/wp-content/uploads/realistic-true-first-person-move-ue5.webp",
+            "length": "1071902",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://3dnchu.com/wp-content/uploads/realistic-true-first-person-move-ue5.webp"
+        },
+        {
+          "id": "https://3dnchu.com/?p=1052956",
+          "author": "Ymt3D -3dnchu-",
+          "description": "数多くのユニークなチャレンジを開催している事でお馴染みVFXアーティストClinton Jones氏（@_Pwnisher_）による、2025年1回目のコンテスト『Chasms Call』のトップ100作品モンタージュが公開されました！",
+          "link": "https://3dnchu.com/archives/top-100-3d-art-montage-chasms-call/",
+          "publishedOn": "2025-03-22T16:10:38.000Z",
+          "wordCount": 9234,
+          "title": "Top 100 3D Art Montage Chasms Call - 奥行きのあるテンプレシーンからオリジナル作品を作るCGチャレンジ！参加者3,018名中の上位100作品モンタージュ映像が公開！ #chasmscall",
+          "enclosure": {
+            "url": "https://3dnchu.com/wp-content/uploads/top-100-3d-art-montage-chasms-call.webp",
+            "length": "1066972",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://3dnchu.com/wp-content/uploads/top-100-3d-art-montage-chasms-call.webp"
+        },
         {
           "id": "https://3dnchu.com/?p=1052867",
           "author": "Ymt3D -3dnchu-",
@@ -1205,51 +1220,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "https://3dnchu.com/wp-content/uploads/BlockBlender-2.0.webp"
-        },
-        {
-          "id": "https://3dnchu.com/?p=1051751",
-          "author": "Ymt3D -3dnchu-",
-          "description": "数多くのMayaツールを開発・販売しているRocket Squareによる便利ツールキット最新アップデート「RS Build Kit 2.1」が公開されています。",
-          "link": "https://3dnchu.com/archives/rs-build-kit-2-1/",
-          "publishedOn": "2025-02-21T08:24:56.000Z",
-          "wordCount": 8746,
-          "title": "RS Build Kit 2.1 - Maya作業を効率化する機能を多数備えたツールセット！最新アップデートが公開！強力なメッシュ調整＆選択＆レイアウト＆インポート＆エクスポート＆カーブ操作など！",
-          "enclosure": {
-            "url": "https://3dnchu.com/wp-content/uploads/rs-build-kit-2-1-maya.jpg",
-            "length": "36424",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://3dnchu.com/wp-content/uploads/rs-build-kit-2-1-maya.jpg"
-        },
-        {
-          "id": "https://3dnchu.com/?p=1051843",
-          "author": "Ymt3D -3dnchu-",
-          "description": "VICUBE AnimationによるBlender向けヘアー制御アドオン「Hairflow」のご紹介。最新版では電気ショックなども可能になったとか。",
-          "link": "https://3dnchu.com/archives/hairflow-1-1/",
-          "publishedOn": "2025-02-21T03:36:32.000Z",
-          "wordCount": 8669,
-          "title": "HairFlow 1.1 - 新ヘアーシステムを効率的にアニメーションさせる為の支援機能を多数搭載したBlenderアドオン！最新版では電気ショック表現なども可能に！",
-          "enclosure": {
-            "url": "https://3dnchu.com/wp-content/uploads/HairFlow.webp",
-            "length": "845590",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://3dnchu.com/wp-content/uploads/HairFlow.webp"
-        },
-        {
-          "id": "https://3dnchu.com/?p=1051640",
-          "author": "Ymt3D -3dnchu-",
-          "description": "Turtlerock StudiosのリードキャラクターアーティストJ Hill氏が自身のYoutubeにてゲームキャラクター制作にかかるコストや請求額についての考え方を解説した動画「The Real Cost of Game Characters (And What to Charge）」を公開しています。",
-          "link": "https://3dnchu.com/archives/the-real-cost-of-game-characters-and-what-to-charge/",
-          "publishedOn": "2025-02-21T02:19:54.000Z",
-          "wordCount": 8676,
-          "title": "The Real Cost of Game Characters (And What to Charge） - ゲームキャラクター制作にかかるコストと請求額について現役モデラーが語った動画が公開！",
-          "enclosure": {
-            "url": "https://3dnchu.com/wp-content/uploads/the-real-cost-of-game-characters.jpg",
-            "length": "175952",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://3dnchu.com/wp-content/uploads/the-real-cost-of-game-characters.jpg"
         }
       ]
     },
@@ -1997,36 +1967,6 @@
           "wordCount": 792,
           "title": "レトロなSFXとHoudiniによるVFXの融合。Netflix『マンハッタン宇宙人拉致事件』 - ニュース",
           "imageUrl": "https://cgworld.jp/flashnews/assets_c/2025/02/wit_010_100.1100-thumb-1920x1080-66277.jpg"
-        },
-        {
-          "id": "https://cgworld.jp/flashnews/2502-coyote.html",
-          "author": null,
-          "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
-          "link": "https://cgworld.jp/flashnews/2502-coyote.html",
-          "publishedOn": "2025-02-21T09:43:49.000Z",
-          "wordCount": 598,
-          "title": "AREA JAPANにて新連載スタート！クリーク・アンド・リバー社 COYOTE TECHNICAL ART TEAMの山本氏による「カットシーンのデータ管理」 - ニュース",
-          "imageUrl": "https://cgworld.jp/flashnews/assets_c/2025/02/cut_scene_data_management_v01_01-thumb-1000x558-66273.jpg"
-        },
-        {
-          "id": "https://cgworld.jp/flashnews/202502-Meta-AI-Pippo.html",
-          "author": null,
-          "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
-          "link": "https://cgworld.jp/flashnews/202502-Meta-AI-Pippo.html",
-          "publishedOn": "2025-02-21T08:33:17.000Z",
-          "wordCount": 795,
-          "title": "Metaら、人物写真1枚からマルチアングル動画を生成できる画像生成AI技術「Pippo」を発表！ - ニュース",
-          "imageUrl": "https://cgworld.jp/flashnews/assets_c/2025/02/Pippo-01-thumb-1078x606-66266.jpg"
-        },
-        {
-          "id": "https://cgworld.jp/flashnews/2502-pfovol2.html",
-          "author": null,
-          "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
-          "link": "https://cgworld.jp/flashnews/2502-pfovol2.html",
-          "publishedOn": "2025-02-21T06:35:00.000Z",
-          "wordCount": 610,
-          "title": "【3/3（月）締切】26卒向け クリ博 ポートフォリオオンライン選考会 Vol.2　2D、3D、UIデザイナー志望者必見！　全47社が参加　 - ニュース",
-          "imageUrl": "https://cgworld.jp/flashnews/assets_c/2025/02/a2f34ce4c6e2a50a6e4e87ab411f435c-thumb-1080x721-66260.jpg"
         }
       ]
     },
@@ -2529,26 +2469,6 @@
           "wordCount": 3498,
           "title": "Fit Curve 標準搭載のCurveデフォーマーより使いやすくカーブ上に沿ってオブジェクトを配置して編集しやすくなるアドオン",
           "imageUrl": "https://modelinghappy.com/wp-content/uploads/2025/02/20250222_fitcurve_01.jpg"
-        },
-        {
-          "id": "https://modelinghappy.com/?p=61692",
-          "author": "modelinghappy",
-          "description": "Fastrender #8211; Render Animations 2X Faster FastrenderはBlenderでレンダリング時間を大幅に短縮してくれるアドオンです。 標準的なレンダリングでは、すべての\nThe post Fastrender  BlenderでCyclesまたはEeveeでのレンダリング時間が2/1または4/1に短縮するアドオン first appeared on 3DCG最新情報サイト MODELING HAPPY.",
-          "link": "https://modelinghappy.com/archives/61692",
-          "publishedOn": "2025-02-21T06:02:07.000Z",
-          "wordCount": 3469,
-          "title": "Fastrender  BlenderでCyclesまたはEeveeでのレンダリング時間が2/1または4/1に短縮するアドオン",
-          "imageUrl": "https://modelinghappy.com/wp-content/uploads/2025/02/20250221_fastrender.jpg"
-        },
-        {
-          "id": "https://modelinghappy.com/?p=61683",
-          "author": "modelinghappy",
-          "description": "Mesh Planes Pro Mesh Planes ProはPhotoshopやその他のツールで手動で編集しなくても、画像にMesh Planes Proを繋げてスライダーで調整する事で、JPGなどのさまざまなファイ\nThe post Mesh Planes Pro 読み込んだ画像の背景を透明に調整出来る無料で使えるBlender用専用ノード first appeared on 3DCG最新情報サイト MODELING HAPPY.",
-          "link": "https://modelinghappy.com/archives/61683",
-          "publishedOn": "2025-02-21T05:34:39.000Z",
-          "wordCount": 3497,
-          "title": "Mesh Planes Pro 読み込んだ画像の背景を透明に調整出来る無料で使えるBlender用専用ノード",
-          "imageUrl": "https://modelinghappy.com/wp-content/uploads/2025/02/20250221_meshplanespro_01.jpg"
         }
       ]
     },
@@ -2876,16 +2796,6 @@
           "wordCount": 509,
           "title": "バーチャルプロダクション、ビジュアライゼーション..。実写版『アバター: 伝説の少年アン』のVFXブレイクダウン映像",
           "imageUrl": "https://3dtotal.jp/wp-content/uploads/2025/02/airbender_pixo.jpg"
-        },
-        {
-          "id": "https://3dtotal.jp/?p=50066",
-          "author": "3dtotal管理人T",
-          "description": "★Compositing and Lighting for Better Man（2分15秒） 映画制作者たちが求めていた時代風のルックの実現には、プリビス、ステージ、アニメーション、FX など、あらゆる段階で入念な計画 […]\nThe post コンポジット＆ライティング。Weta FX より、映画『BETTER MAN/ベター・マン』のメイキング映像 first appeared on 3dtotal 日本語オフィシャルサイト.",
-          "link": "https://3dtotal.jp/news/50066/",
-          "publishedOn": "2025-02-21T05:12:37.000Z",
-          "wordCount": 532,
-          "title": "コンポジット＆ライティング。Weta FX より、映画『BETTER MAN/ベター・マン』のメイキング映像",
-          "imageUrl": "https://3dtotal.jp/wp-content/uploads/2025/02/betterman_cl.jpg"
         }
       ]
     },

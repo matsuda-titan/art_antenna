@@ -2,10 +2,39 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-03-23T12:16:48.182Z</updated>
+    <updated>2025-03-24T00:51:34.028Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[PowerShell から DirectX12 を用いて三角形を表示する方法]]></title>
+        <id>https://qiita.com/cx20/items/304952bd5b19c5c167e3</id>
+        <link href="https://qiita.com/cx20/items/304952bd5b19c5c167e3"/>
+        <updated>2025-03-23T17:56:36.000Z</updated>
+        <summary type="html"><![CDATA[はじめに
+これは、外部ライブラリを用いずに C# で生の DirectX12 APIを呼べないか試しただけの記録になります。
+C# でできるなら、PowerShell からも呼べるだろうと思い試して…]]></summary>
+        <author>
+            <name>HLSLタグが付けられた新着記事 - Qiita</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Unity][SRP]レンダーパイプラインを自作する その2]]></title>
+        <id>https://zenn.dev/nithink/articles/81901d0f9d4b9e</id>
+        <link href="https://zenn.dev/nithink/articles/81901d0f9d4b9e"/>
+        <updated>2025-03-23T11:07:17.000Z</updated>
+        <summary type="html"><![CDATA[概要
+以下の記事の続きです。
+https://zenn.dev/nithink/articles/3810a563f2e2d6
+UnityのCore RP Library（SRP）を使用して一から独自のレンダーパイプラインを制作する際に、引っかかったこと、気づいたこと、気を付けるべきポイントなどメモも兼ねてまとめています。
+バージョンはUnity6000.0で、RenderGraphやnative render pass（以下NRP）を使うことを前提としています。
+
+ ShadedWireframeモードとWireframeモードの描画
+Sceneウィンドウの右上にはデバッグ用の4つ...]]></summary>
+        <author>
+            <name>Nithink</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[W Conference - 映像制作に関わるすべての女性を応援するオンラインイベントが開催！無料参加可能！Vook×CGWORLD共催！ #WConference]]></title>
         <id>https://3dnchu.com/?p=1052976</id>
@@ -2820,54 +2849,6 @@ The post Adobe Substance 3Dが3月25日から値上げ Substance 3D Texturingは
         <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
         <author>
             <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【アドオン紹介】Lazy Forest Generator – 生い茂る木々を簡単作成！]]></title>
-        <id>https://cgbox.jp/?p=62353</id>
-        <link href="https://cgbox.jp/2025/02/22/news-addon-lazy-forest-generator/"/>
-        <updated>2025-02-22T06:27:06.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは！ 今回はアドオンの「Lazy Forest Generator」を紹介します。 こちらのリンクから購入することができます。 Lazy Forest Generator 「Lazy Forest Generat […]]]></summary>
-        <author>
-            <name>kasahara</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Maya Pythonの開発環境を構築する]]></title>
-        <id>https://qiita.com/scixarts/items/ea41c849317420f52878</id>
-        <link href="https://qiita.com/scixarts/items/ea41c849317420f52878"/>
-        <updated>2025-02-22T04:43:48.000Z</updated>
-        <summary type="html"><![CDATA[環境
-
-Windows
-Autodesk Maya 2025.3
-
-uv
-開発環境を管理するためのツールとして uv を使用します。
-uvについて簡単に説明すると仮想環境の作成、プロジェクトの初期化、パ…]]></summary>
-        <author>
-            <name>mayaタグが付けられた新着記事 - Qiita</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BlockBlender 2.0 - 3DモデルをMinecraftのブロック構成に変換出来るBlenderアドオンの新バージョン！ボクセル化新メソッド＆ハーブロックや階段ブロックも活用！多彩なブロック表現もOK！.schemエクスポーター統合！]]></title>
-        <id>https://3dnchu.com/?p=1051895</id>
-        <link href="https://3dnchu.com/archives/blockblender-2-0/"/>
-        <updated>2025-02-22T04:06:28.000Z</updated>
-        <summary type="html"><![CDATA[Erasers45-StudiosのJoey Carlino氏による3DモデルをMinecraftのブロック構成に変換出来るBlenderアドオンの新バージョン「BlockBlender 2.0」！]]></summary>
-        <author>
-            <name>Ymt3D -3dnchu-</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fit Curve 標準搭載のCurveデフォーマーより使いやすくカーブ上に沿ってオブジェクトを配置して編集しやすくなるアドオン]]></title>
-        <id>https://modelinghappy.com/?p=61697</id>
-        <link href="https://modelinghappy.com/archives/61697"/>
-        <updated>2025-02-22T00:30:51.000Z</updated>
-        <summary type="html"><![CDATA[Fit Curve Fit CurvはBlenderで用意したオブジェクトをカーブ上に配置してくれるモディファイアーです。 Blenderの標準搭載されているCurveデフォーマーを使用して同じような事も出来ますが、初期
-The post Fit Curve 標準搭載のCurveデフォーマーより使いやすくカーブ上に沿ってオブジェクトを配置して編集しやすくなるアドオン first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
-        <author>
-            <name>modelinghappy</name>
         </author>
     </entry>
 </feed>

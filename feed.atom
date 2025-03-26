@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-03-26T03:24:04.891Z</updated>
+    <updated>2025-03-26T08:14:24.194Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
@@ -22,6 +22,16 @@
         <link href="https://cgworld.jp/article/202503-BetterMan-WetaFX.html"/>
         <updated>2025-03-26T01:40:00.000Z</updated>
         <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[セガを経てリズを設立した磯野氏が語る、3DCGの基礎知識の効果的な学び方 - スペシャルコンテンツ]]></title>
+        <id>https://cgworld.jp/special-feature/202503-cgarts.html</id>
+        <link href="https://cgworld.jp/special-feature/202503-cgarts.html"/>
+        <updated>2025-03-26T01:30:00.000Z</updated>
+        <summary type="html"><![CDATA[頭の中で知識が体系化されていれば、論理的な説明ができる CGWORLD（以下、...]]></summary>
         <author>
             <name>CGWORLD</name>
         </author>
@@ -3038,16 +3048,6 @@ The post Blender 4 Complete Guide for Beginners １からBlenderの使い方を�
         <summary type="html"><![CDATA[XRアート＆カルチャーの祭典「NEWVIEW FEST 2024」が2025年2月7日（金）〜2月11日（火・祝）までの5日間、渋谷PARCO B1F「GALLERY X」およびShibuya Sakura Stage 4F「404 Not Found」で開催された。]]></summary>
         <author>
             <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Three.js実践ガイド: WebGLによるインタラクティブ3Dワールド構築]]></title>
-        <id>https://zenn.dev/idev/books/book-20250225-023717</id>
-        <link href="https://zenn.dev/idev/books/book-20250225-023717"/>
-        <updated>2025-02-24T18:03:57.000Z</updated>
-        <summary type="html"><![CDATA[本書は、WebGLをベースとしたJavaScriptライブラリThree.jsを用いて、インタラクティブな3Dワールドを構築するための実践的なガイドです。Three.jsの基本要素から、アニメーション、モデルデータの活用、シェーダープログラミング、物理演算、VR/AR開発まで幅広く網羅し、読者は3D Webアプリケーション開発に必要な知識とスキルを習得できます。さらに、パフォーマンスチューニングやThree.jsエコシステムの活用、他の技術との連携についても解説し、より高度な開発に対応できる力を養います。]]></summary>
-        <author>
-            <name>timeless-residents</name>
         </author>
     </entry>
 </feed>

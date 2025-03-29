@@ -512,6 +512,96 @@
       "siteUrl": "https://3dnchu.com",
       "articles": [
         {
+          "id": "https://3dnchu.com/?p=1053327",
+          "author": "Ymt3D -3dnchu-",
+          "description": "Jean Basset氏、Pierre Bénard氏、Pascal Barla氏による、Blenderでアニメーションを引き立てるスミア表現を手軽に追加できる無料アドオン「SMEAR」のご紹介！",
+          "link": "https://3dnchu.com/archives/smear/",
+          "publishedOn": "2025-03-29T10:36:42.000Z",
+          "wordCount": 8755,
+          "title": "SMEAR - 伸ばす！残像！ライン生成！アニメーションを魅力的にするスミア表現を簡単に追加できる無料のBlenderアドオン！",
+          "enclosure": {
+            "url": "https://3dnchu.com/wp-content/uploads/SMEAR.mp4",
+            "length": "3196239",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://3dnchu.com/wp-content/uploads/SMEAR.webp"
+        },
+        {
+          "id": "https://3dnchu.com/?p=1053339",
+          "author": "Ymt3D -3dnchu-",
+          "description": "「Auto Active Camera Switcher」というアドオンを作ってBlender Extensionsに公開中！「ChatGPTでBlenderアドオン開発チャレンジ」第2回の成果物です。",
+          "link": "https://3dnchu.com/archives/auto-active-camera-switcher/",
+          "publishedOn": "2025-03-29T10:32:07.000Z",
+          "wordCount": 8871,
+          "title": "Auto Active Camera Switcher - 選択カメラを自動的にアクティブカメラにしてくれる無料のBlenderアドオン！Blender Extensionsにて公開中！",
+          "enclosure": {
+            "url": "https://3dnchu.com/wp-content/uploads/Auto-Active-Camera-Switcher.mp4",
+            "length": "1035695",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://3dnchu.com/wp-content/uploads/Auto-Active-Camera-Switcher.webp"
+        },
+        {
+          "id": "https://3dnchu.com/?p=1053367",
+          "author": "Ymt3D -3dnchu-",
+          "description": "MikhailRachinskiy氏による3Dプリント用のメッシュの解析や修正＆出力を補助してくれるBlender用無料アドオン「3D Print Toolbox」のご紹介。",
+          "link": "https://3dnchu.com/archives/3d-print-toolbox/",
+          "publishedOn": "2025-03-29T10:20:46.000Z",
+          "wordCount": 8827,
+          "title": "3D Print Toolbox - 3Dプリント用のメッシュの解析や修正＆出力を補助してくれるBlender用無料アドオン！Blender Extensionsにて公開中！",
+          "enclosure": {
+            "url": "https://3dnchu.com/wp-content/uploads/3D-Print-Toolbox-small.gif",
+            "length": "250000",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://3dnchu.com/wp-content/uploads/3D-Print-Toolbox-small.gif"
+        },
+        {
+          "id": "https://3dnchu.com/?p=1053373",
+          "author": "Ymt3D -3dnchu-",
+          "description": "Russel Studiosによる、2Dロゴや画像などを、手軽に3Dメッシュ化できるBlenderアドオン「TraceGenius Pro 3.2」のご紹介！",
+          "link": "https://3dnchu.com/archives/tracegenius-pro-3-2/",
+          "publishedOn": "2025-03-29T10:15:26.000Z",
+          "wordCount": 8813,
+          "title": "Tracegenius Pro 3.2 - ロゴなどの2D画像を簡単に3Dメッシュ化できる多機能Blenderアドオン！",
+          "enclosure": {
+            "url": "https://3dnchu.com/wp-content/uploads/Tracegenius-Pro-3.2.mp4",
+            "length": "10067141",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://3dnchu.com/wp-content/uploads/Tracegenius-Pro-3.2.webp"
+        },
+        {
+          "id": "https://3dnchu.com/?p=1053311",
+          "author": "Ymt3D -3dnchu-",
+          "description": "Dean Zarkov氏によるスタイライズ＆アニメキャラなどの髪の毛モデリングに特化したBlenderアドオン「Stylized Hair PRO v3.2」のご紹介！",
+          "link": "https://3dnchu.com/archives/stylized-hair-pro-v3-2/",
+          "publishedOn": "2025-03-29T09:53:24.000Z",
+          "wordCount": 8992,
+          "title": "Stylized Hair PRO v3.2 - スタイライズ＆アニメキャラなどの髪の毛モデリングに最適なヘアー制作補助Blenderアドオン！房を自由に制御！三編み＆結び目＆カールをお手軽実現！",
+          "enclosure": {
+            "url": "https://3dnchu.com/wp-content/uploads/stylized-hair-pro-v3-2.webp",
+            "length": "845348",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://3dnchu.com/wp-content/uploads/stylized-hair-pro-v3-2.webp"
+        },
+        {
+          "id": "https://3dnchu.com/?p=1053296",
+          "author": "Ymt3D -3dnchu-",
+          "description": "Sent From Space（@sentfromspacevr）氏によるスムーズなウェイト転送を可能にするBlenderアドオン「Robust Weight Transfer v1.1.2」をご紹介します。",
+          "link": "https://3dnchu.com/archives/robust-weight-transfer-v1-1-2/",
+          "publishedOn": "2025-03-29T09:50:14.000Z",
+          "wordCount": 9117,
+          "title": "Robust Weight Transfer for Blender v1.1.2 - 衣装製作に最適！ワンクリックでスムーズなウェイト転送を実現するBlender用無料アドオン！手動ペイント作業を大幅削減！",
+          "enclosure": {
+            "url": "https://3dnchu.com/wp-content/uploads/Robust-Weight-Transfer-for-Blender.mp4",
+            "length": "3800234",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://3dnchu.com/wp-content/uploads/Robust-Weight-Transfer-for-Blender-3.webp"
+        },
+        {
           "id": "https://3dnchu.com/?p=1053346",
           "author": "Ymt3D -3dnchu-",
           "description": "Soyoyo氏によるBlenderのアドオン管理アドオン「N Panel Sub Tabs v2.0」のご紹介。",

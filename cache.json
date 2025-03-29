@@ -2292,6 +2292,16 @@
       "siteUrl": "https://modelinghappy.com",
       "articles": [
         {
+          "id": "https://modelinghappy.com/?p=62357",
+          "author": "modelinghappy",
+          "description": "True-VFX 2025年4月3日13:59分まで、Blenderで自然を作成するのに人気のアドオンTureシリーズが全商品50%オフになるセールを開催中です。50%オフで購入するには購入時にクーポンコード「WORLD\nThe post Blenderでフォトリアルな地形や空を作成出来る大人気アドオンTrue-VFXシリーズが全商品50%オフのセール中です first appeared on 3DCG最新情報サイト MODELING HAPPY.",
+          "link": "https://modelinghappy.com/archives/62357",
+          "publishedOn": "2025-03-29T02:46:59.000Z",
+          "wordCount": 3462,
+          "title": "Blenderでフォトリアルな地形や空を作成出来る大人気アドオンTrue-VFXシリーズが全商品50%オフのセール中です",
+          "imageUrl": "https://modelinghappy.com/wp-content/uploads/2025/03/20250329_ture_01.jpg"
+        },
+        {
           "id": "https://modelinghappy.com/?p=62353",
           "author": "modelinghappy",
           "description": "Shader Node Preview Lite Shader Node Preview Liteは先日発売されたShader Viewの無料版で、Blenderのシェーダーノードで、作成している１つのノードの上で結果を\nThe post Shader Node Preview Lite Blenderでシェーダーノードで繋げている結果を１つだけリアルタイムで表示出来る無料アドオン first appeared on 3DCG最新情報サイト MODELING HAPPY.",
@@ -3116,6 +3126,21 @@
       "siteUrl": "https://zenn.dev/topics/shader",
       "articles": [
         {
+          "id": "https://zenn.dev/matcha_choco010/articles/2025-03-29-hello-slang-vulkan-ash",
+          "author": "折登 樹",
+          "description": "はじめに\n最近話題のSlangというシェーダー言語を、RustとVulkan (ash)で試してみました。\nこの記事ではSlangの機能を一部ピックアップして簡潔に紹介するとともに、RustとVulkan (ash)でSlangを使う際にcargo runでコンパイルが走るようにbuild.rsを設定する方法を紹介します。\n\n Slangとは\nSlangはオープンソースのシェーダー言語の一種です。\n元はNVIDIAがSIGGRAPH 2018あたりで発表した言語です。\nD3D12, Vulkan, Metal, D3D11, OpenGL, CUDAなどで利用できる他、CPUでも実行...",
+          "link": "https://zenn.dev/matcha_choco010/articles/2025-03-29-hello-slang-vulkan-ash",
+          "publishedOn": "2025-03-28T21:38:30.000Z",
+          "wordCount": 3715,
+          "title": "シェーダー言語のSlangをRustとVulkan (ash)で試してみる",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--m3Z3DMb7--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2582%25B7%25E3%2582%25A7%25E3%2583%25BC%25E3%2583%2580%25E3%2583%25BC%25E8%25A8%2580%25E8%25AA%259E%25E3%2581%25AESlang%25E3%2582%2592Rust%25E3%2581%25A8Vulkan%2520%2528ash%2529%25E3%2581%25A7%25E8%25A9%25A6%25E3%2581%2597%25E3%2581%25A6%25E3%2581%25BF%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E6%258A%2598%25E7%2599%25BB%2520%25E6%25A8%25B9%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2U4OGNmZDY1YTQuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png",
+            "length": "0",
+            "type": "image/png"
+          },
+          "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--m3Z3DMb7--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2582%25B7%25E3%2582%25A7%25E3%2583%25BC%25E3%2583%2580%25E3%2583%25BC%25E8%25A8%2580%25E8%25AA%259E%25E3%2581%25AESlang%25E3%2582%2592Rust%25E3%2581%25A8Vulkan%2520%2528ash%2529%25E3%2581%25A7%25E8%25A9%25A6%25E3%2581%2597%25E3%2581%25A6%25E3%2581%25BF%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E6%258A%2598%25E7%2599%25BB%2520%25E6%25A8%25B9%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2U4OGNmZDY1YTQuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
+        },
+        {
           "id": "https://zenn.dev/tmb/articles/1f0338864e3ba2",
           "author": "たむぼー",
           "description": "はじめに\n初めての方も、そうでない方もこんにちは！\n現役ゲームプログラマーのたむぼーです。\n自己紹介を載せているので、気になる方は見ていただければ嬉しいです！\n今回は\n　IF文を使わない！ShaderGraphのスマートな条件分岐の作り方\nについて紹介します\nhttps://zenn.dev/tmb/articles/1072f8ea010299\n\n ShaderGraphのIF文について\nShaderGraphでIF文に相当するノードは「Branchノード」です。\nこのノードは、コンパイル時にIF文として解釈されるため、実質的にはシェーダー内での「分岐処理」となります。\nシェーダー...",
@@ -3493,7 +3518,18 @@
       "title": "CGタグが付けられた新着記事 - Qiita",
       "feedUrl": "https://qiita.com/tags/cg/feed",
       "siteUrl": "https://qiita.com",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://qiita.com/Haru86_/items/d70c47c039a4fc856c94",
+          "author": null,
+          "description": "概要\n数学をちゃんとやっている人からすると割と当たり前なのですが、私が中途半端にしかやっていなくて少し沼ったのでその覚え書きです。\n説明\nUECppで以下のようなFromToRotion関数(ベクト…",
+          "link": "https://qiita.com/Haru86_/items/d70c47c039a4fc856c94",
+          "publishedOn": "2025-03-29T01:24:20.000Z",
+          "wordCount": 606,
+          "title": "[数学] FromToRotationの計算",
+          "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkY0NjE2MDklMkZmOWZhMTQzOGFkNzdlNTllNjNhYTQ0MDc3MGEzMjhmMTI1MGM0N2UwJTJGbGFyZ2UucG5nJTNGMTYyMzczMTczOD9peGxpYj1yYi00LjAuMCZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmZm09cG5nMzImcz1kNzY0ZWQ5YjUwMWQ0MGE2ZTBiZjkzYzgzZTViZTk0NQ%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3De1d94e7683a77b930b1dc0247e9f217b?ixlib=rb-4.0.0&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9JTVCJUU2JTk1JUIwJUU1JUFEJUE2JTVEJTIwRnJvbVRvUm90YXRpb24lRTMlODElQUUlRTglQTglODglRTclQUUlOTcmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz1jMjM0N2FhODViYzI3YTgwNTE0Mjk2ZDQ2N2NkZWQzNw&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBIYXJ1ODZfJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9YTFiZDg2MDEwMWU5MDczYTU5MzM3ZTgzODhhMDIwNjI&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=a10d63e000760903715d7986275895e2"
+        }
+      ]
     },
     {
       "title": "HLSLタグが付けられた新着記事 - Qiita",

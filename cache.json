@@ -3201,6 +3201,21 @@
       "siteUrl": "https://zenn.dev/topics/shader",
       "articles": [
         {
+          "id": "https://zenn.dev/m4rumaru/articles/4c5ed7bca0302c",
+          "author": "poteCh",
+          "description": "はしがき\n『GLSLシェーダーで遊ぼう with SwiftUI × SpriteKit』シリーズの 第５回の記事 で説明を省略した、ノードの色の透過（アルファブレンド）を中心としたブレンドモードについてと、SKShaderで半透明な色を計算・出力する方法についてまとめたいと思います。\n!\n今回の記事では、SpriteKitの色のブレンドでどういう計算が行われて表示される色が決まるのかを説明するため、数式が比較的多くなっています。\n計算の内容は加減乗除＋α程度で、シェーダーの入門レベル以上の数学の知識は前提としていません。\n理数系以外の人にもとっつきやすいように、理数系の分野で推奨さ...",
+          "link": "https://zenn.dev/m4rumaru/articles/4c5ed7bca0302c",
+          "publishedOn": "2025-03-30T12:02:32.000Z",
+          "wordCount": null,
+          "title": "SpriteKitのブレンドモード（alpha ＆ blendMode プロパティとシェーダー）",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--YTc0ab8V--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:SpriteKit%25E3%2581%25AE%25E3%2583%2596%25E3%2583%25AC%25E3%2583%25B3%25E3%2583%2589%25E3%2583%25A2%25E3%2583%25BC%25E3%2583%2589%25EF%25BC%2588alpha%2520%25EF%25BC%2586%2520blendMode%2520%25E3%2583%2597%25E3%2583%25AD%25E3%2583%2591%25E3%2583%2586%25E3%2582%25A3%25E3%2581%25A8%25E3%2582%25B7%25E3%2582%25A7%25E3%2583%25BC%25E3%2583%2580%25E3%2583%25BC%25EF%25BC%2589%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:poteCh%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzU5ZmVlODRkYTkuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png",
+            "length": "0",
+            "type": "image/png"
+          },
+          "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--YTc0ab8V--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:SpriteKit%25E3%2581%25AE%25E3%2583%2596%25E3%2583%25AC%25E3%2583%25B3%25E3%2583%2589%25E3%2583%25A2%25E3%2583%25BC%25E3%2583%2589%25EF%25BC%2588alpha%2520%25EF%25BC%2586%2520blendMode%2520%25E3%2583%2597%25E3%2583%25AD%25E3%2583%2591%25E3%2583%2586%25E3%2582%25A3%25E3%2581%25A8%25E3%2582%25B7%25E3%2582%25A7%25E3%2583%25BC%25E3%2583%2580%25E3%2583%25BC%25EF%25BC%2589%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:poteCh%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzU5ZmVlODRkYTkuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
+        },
+        {
           "id": "https://zenn.dev/matcha_choco010/articles/2025-03-29-hello-slang-vulkan-ash",
           "author": "折登 樹",
           "description": "はじめに\n最近話題のSlangというシェーダー言語を、RustとVulkan (ash)で試してみました。\nこの記事ではSlangの機能を一部ピックアップして簡潔に紹介するとともに、RustとVulkan (ash)でSlangを使う際にcargo runでコンパイルが走るようにbuild.rsを設定する方法を紹介します。\n\n Slangとは\nSlangはオープンソースのシェーダー言語の一種です。\n元はNVIDIAがSIGGRAPH 2018あたりで発表した言語です。\nD3D12, Vulkan, Metal, D3D11, OpenGL, CUDAなどで利用できる他、CPUでも実行...",
@@ -3686,7 +3701,23 @@
       "title": "Zennの「GLSL」のフィード",
       "feedUrl": "https://zenn.dev/topics/glsl/feed",
       "siteUrl": "https://zenn.dev/topics/glsl",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://zenn.dev/m4rumaru/articles/4c5ed7bca0302c",
+          "author": "poteCh",
+          "description": "はしがき\n『GLSLシェーダーで遊ぼう with SwiftUI × SpriteKit』シリーズの 第５回の記事 で説明を省略した、ノードの色の透過（アルファブレンド）を中心としたブレンドモードについてと、SKShaderで半透明な色を計算・出力する方法についてまとめたいと思います。\n!\n今回の記事では、SpriteKitの色のブレンドでどういう計算が行われて表示される色が決まるのかを説明するため、数式が比較的多くなっています。\n計算の内容は加減乗除＋α程度で、シェーダーの入門レベル以上の数学の知識は前提としていません。\n理数系以外の人にもとっつきやすいように、理数系の分野で推奨さ...",
+          "link": "https://zenn.dev/m4rumaru/articles/4c5ed7bca0302c",
+          "publishedOn": "2025-03-30T12:02:32.000Z",
+          "wordCount": 8379,
+          "title": "SpriteKitのブレンドモード（alpha ＆ blendMode プロパティとシェーダー）",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--YTc0ab8V--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:SpriteKit%25E3%2581%25AE%25E3%2583%2596%25E3%2583%25AC%25E3%2583%25B3%25E3%2583%2589%25E3%2583%25A2%25E3%2583%25BC%25E3%2583%2589%25EF%25BC%2588alpha%2520%25EF%25BC%2586%2520blendMode%2520%25E3%2583%2597%25E3%2583%25AD%25E3%2583%2591%25E3%2583%2586%25E3%2582%25A3%25E3%2581%25A8%25E3%2582%25B7%25E3%2582%25A7%25E3%2583%25BC%25E3%2583%2580%25E3%2583%25BC%25EF%25BC%2589%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:poteCh%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzU5ZmVlODRkYTkuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png",
+            "length": "0",
+            "type": "image/png"
+          },
+          "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--YTc0ab8V--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:SpriteKit%25E3%2581%25AE%25E3%2583%2596%25E3%2583%25AC%25E3%2583%25B3%25E3%2583%2589%25E3%2583%25A2%25E3%2583%25BC%25E3%2583%2589%25EF%25BC%2588alpha%2520%25EF%25BC%2586%2520blendMode%2520%25E3%2583%2597%25E3%2583%25AD%25E3%2583%2591%25E3%2583%2586%25E3%2582%25A3%25E3%2581%25A8%25E3%2582%25B7%25E3%2582%25A7%25E3%2583%25BC%25E3%2583%2580%25E3%2583%25BC%25EF%25BC%2589%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:poteCh%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzU5ZmVlODRkYTkuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
+        }
+      ]
     },
     {
       "title": "AREA JAPAN | Autodesk",

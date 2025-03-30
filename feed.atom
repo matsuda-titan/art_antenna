@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-03-30T08:12:45.491Z</updated>
+    <updated>2025-03-30T12:18:07.727Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[SpriteKitのブレンドモード（alpha ＆ blendMode プロパティとシェーダー）]]></title>
+        <id>https://zenn.dev/m4rumaru/articles/4c5ed7bca0302c</id>
+        <link href="https://zenn.dev/m4rumaru/articles/4c5ed7bca0302c"/>
+        <updated>2025-03-30T12:02:32.000Z</updated>
+        <summary type="html"><![CDATA[はしがき
+『GLSLシェーダーで遊ぼう with SwiftUI × SpriteKit』シリーズの 第５回の記事 で説明を省略した、ノードの色の透過（アルファブレンド）を中心としたブレンドモードについてと、SKShaderで半透明な色を計算・出力する方法についてまとめたいと思います。
+!
+今回の記事では、SpriteKitの色のブレンドでどういう計算が行われて表示される色が決まるのかを説明するため、数式が比較的多くなっています。
+計算の内容は加減乗除＋α程度で、シェーダーの入門レベル以上の数学の知識は前提としていません。
+理数系以外の人にもとっつきやすいように、理数系の分野で推奨さ...]]></summary>
+        <author>
+            <name>poteCh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SpriteKitのブレンドモード（alpha ＆ blendMode プロパティとシェーダー）]]></title>
+        <id>https://zenn.dev/m4rumaru/articles/4c5ed7bca0302c</id>
+        <link href="https://zenn.dev/m4rumaru/articles/4c5ed7bca0302c"/>
+        <updated>2025-03-30T12:02:32.000Z</updated>
+        <summary type="html"><![CDATA[はしがき
+『GLSLシェーダーで遊ぼう with SwiftUI × SpriteKit』シリーズの 第５回の記事 で説明を省略した、ノードの色の透過（アルファブレンド）を中心としたブレンドモードについてと、SKShaderで半透明な色を計算・出力する方法についてまとめたいと思います。
+!
+今回の記事では、SpriteKitの色のブレンドでどういう計算が行われて表示される色が決まるのかを説明するため、数式が比較的多くなっています。
+計算の内容は加減乗除＋α程度で、シェーダーの入門レベル以上の数学の知識は前提としていません。
+理数系以外の人にもとっつきやすいように、理数系の分野で推奨さ...]]></summary>
+        <author>
+            <name>poteCh</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[unreal-mcp -  Claudeなどの対話型生成AIとUE5を連携可能にするModel Context Protocol for Unreal EngineがGithub上で公開！]]></title>
         <id>https://3dnchu.com/?p=1053416</id>

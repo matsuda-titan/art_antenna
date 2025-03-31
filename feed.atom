@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-03-31T08:15:02.080Z</updated>
+    <updated>2025-03-31T12:20:02.339Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
@@ -21,6 +21,16 @@
         <id>https://cgworld.jp/flashnews/shizuoka-questionnaire-202503.html</id>
         <link href="https://cgworld.jp/flashnews/shizuoka-questionnaire-202503.html"/>
         <updated>2025-03-31T07:23:26.000Z</updated>
+        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[新世代、GeForce RTX 5000シリーズ搭載のDAIVは買いか？Arnold、Cyclesなど主要ツールで徹底検証！ - スペシャルコンテンツ]]></title>
+        <id>https://cgworld.jp/special-feature/2503-colossus-mouse.html</id>
+        <link href="https://cgworld.jp/special-feature/2503-colossus-mouse.html"/>
+        <updated>2025-03-31T06:45:00.000Z</updated>
         <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
         <author>
             <name>CGWORLD</name>
@@ -3417,20 +3427,6 @@ The post Tube2Curve チューブ形状のポリゴンモデルの真ん中に１
 PC…]]></summary>
         <author>
             <name>グラフィックスタグが付けられた新着記事 - Qiita</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Houdini PythonでSubnetの出力コネクタ数を増やす（備忘録4）]]></title>
-        <id>https://zenn.dev/mj31000/articles/8d953352e23313</id>
-        <link href="https://zenn.dev/mj31000/articles/8d953352e23313"/>
-        <updated>2025-03-01T23:53:18.000Z</updated>
-        <summary type="html"><![CDATA[Subnetに出力コネクタを追加したい
-今回のスクリプトは、Subnet利用してノードを整理する際に、繰り返し使うノードの組み合わせを自動的にSubnet内に作成することを目的としています。ここではOutputノード追加して、Subnetの出力コネクタを増やしたいと思います。
-
-出力コネクタを増やしたい
-Subnetを作成すると、デフォルトではOutputノードが1つですが、私の作業ではOutputを3つにする必要がありました。RBDの仕込みにおいて、パーツによってVDB to Spheresを使用したり、軸を拘束したり、元の形状をコリジョンで使用したりと、異なる仕込みが必要になるた...]]></summary>
-        <author>
-            <name>Hidetake Miyajima</name>
         </author>
     </entry>
 </feed>

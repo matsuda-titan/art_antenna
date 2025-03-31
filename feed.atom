@@ -2,10 +2,63 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-03-31T00:53:35.286Z</updated>
+    <updated>2025-03-31T03:31:21.255Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[MV-Adapter: Multi-view Consistent Image Generation Made Easy - テキストや画像から高精度なマルチアングル画像を生成する技術！テクスチャとして適用可能なデモも公開！]]></title>
+        <id>https://3dnchu.com/?p=1053451</id>
+        <link href="https://3dnchu.com/archives/mv-adapter/"/>
+        <updated>2025-03-31T03:24:24.000Z</updated>
+        <summary type="html"><![CDATA[北京大学ソフトウェア学院、VAST（Tripoの会社）、上海交通大学の研究者らによる「MV-Adapter: Multi-view Consistent Image Generation Made Easy」が公開されています。テキストや画像から制度の高いマルチアングル画像を生成しテクスチャとして適用出来る技術です！]]></summary>
+        <author>
+            <name>Ymt3D -3dnchu-</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[用意した3Dモデルに１枚参考画像を読み込ませる事でUVが自動展開されたテクスチャ付き3Dデータが作成されるImage to Texture with MV-Adapter]]></title>
+        <id>https://modelinghappy.com/?p=62397</id>
+        <link href="https://modelinghappy.com/archives/62397"/>
+        <updated>2025-03-31T03:08:31.000Z</updated>
+        <summary type="html"><![CDATA[Image to Texture with MV-Adapter MV-Adapterはテキストまたは画像から一貫性のある正面、横、上などの画像を作成してくれるAIを使用したジェネレーターですが、3Dモデルに参考画像をド
+The post 用意した3Dモデルに１枚参考画像を読み込ませる事でUVが自動展開されたテクスチャ付き3Dデータが作成されるImage to Texture with MV-Adapter first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
+        <author>
+            <name>modelinghappy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[頂点の順番がバラバラでシェイプキーがうまく動かない場合でも片方の順番をもう片方に合わせたり出来るBlender用無料モディファイア]]></title>
+        <id>https://modelinghappy.com/?p=62391</id>
+        <link href="https://modelinghappy.com/archives/62391"/>
+        <updated>2025-03-31T02:08:04.000Z</updated>
+        <summary type="html"><![CDATA[Mesh Topology Mapping Attributes Add on + Topological Symmetry and Topology Blend Geometry Nodes For Blender M
+The post 頂点の順番がバラバラでシェイプキーがうまく動かない場合でも片方の順番をもう片方に合わせたり出来るBlender用無料モディファイア first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
+        <author>
+            <name>modelinghappy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DMLバンコクスタジオが目指す"アジアの制作ハブ"アニメーター・モデラー積極採用中 - スペシャルコンテンツ]]></title>
+        <id>https://cgworld.jp/special-feature/2503-dml.html</id>
+        <link href="https://cgworld.jp/special-feature/2503-dml.html"/>
+        <updated>2025-03-31T01:46:38.000Z</updated>
+        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[キャラクターや背景を同じに保ちつつポーズやカメラアングルを自由に制御してComfyUIとBlenderを組み合わせて短編映像を作成する方法]]></title>
+        <id>https://modelinghappy.com/?p=62381</id>
+        <link href="https://modelinghappy.com/archives/62381"/>
+        <updated>2025-03-31T01:17:00.000Z</updated>
+        <summary type="html"><![CDATA[} AIで短編映像作ろうとしたときにキャラクターや背景を同じに保ちつつ、ポーズやカメラアングルの自由な制御を取るのが難しかったですが、それをComfyUIとBlenderを組み合わせて短編映像を作成する方法が公開されてい
+The post キャラクターや背景を同じに保ちつつポーズやカメラアングルを自由に制御してComfyUIとBlenderを組み合わせて短編映像を作成する方法 first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
+        <author>
+            <name>modelinghappy</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SpriteKitのブレンドモード（alpha ＆ blendMode プロパティとシェーダー）]]></title>
         <id>https://zenn.dev/m4rumaru/articles/4c5ed7bca0302c</id>
@@ -34,6 +87,16 @@
 理数系以外の人にもとっつきやすいように、理数系の分野で推奨さ...]]></summary>
         <author>
             <name>poteCh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「Blender 4.4」の新機能・変更点を紹介！]]></title>
+        <id>https://cgbox.jp/?p=62672</id>
+        <link href="https://cgbox.jp/2025/03/30/blender-4_4-release/"/>
+        <updated>2025-03-30T10:58:59.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは！ 今回は、2025年3月18日に正式リリースされた、フリーの3DCGソフト「Blender」の新バージョン「Blender 4.4」の新機能・変更点について紹介したいと思います！ バージョンアップに伴って数多 […]]]></summary>
+        <author>
+            <name>CGbox編集部</name>
         </author>
     </entry>
     <entry>
@@ -3265,17 +3328,6 @@ PC…]]></summary>
 Subnetを作成すると、デフォルトではOutputノードが1つですが、私の作業ではOutputを3つにする必要がありました。RBDの仕込みにおいて、パーツによってVDB to Spheresを使用したり、軸を拘束したり、元の形状をコリジョンで使用したりと、異なる仕込みが必要になるた...]]></summary>
         <author>
             <name>Hidetake Miyajima</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Unityで、スタンドアロン型VR機のゲーム中に2万人を超える観衆をレンダリングする]]></title>
-        <id>https://qiita.com/hgodai/items/a6fc7bdcef0940f11d00</id>
-        <link href="https://qiita.com/hgodai/items/a6fc7bdcef0940f11d00"/>
-        <updated>2025-03-01T14:51:23.000Z</updated>
-        <summary type="html"><![CDATA[本記事は、「ソフトウエア研究会in秋葉原」で2021年に発表した、個別にアニメーションをする2万人を超える観衆の3Dモデルをレンダリングする技術の発表資料です。
-本技術は、公開済みのQuest向けV…]]></summary>
-        <author>
-            <name>Shaderタグが付けられた新着記事 - Qiita</name>
         </author>
     </entry>
 </feed>

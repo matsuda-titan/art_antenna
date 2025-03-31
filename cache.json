@@ -12,6 +12,16 @@
       "siteUrl": "https://cgbox.jp",
       "articles": [
         {
+          "id": "https://cgbox.jp/?p=62672",
+          "author": "CGbox編集部",
+          "description": "こんにちは！ 今回は、2025年3月18日に正式リリースされた、フリーの3DCGソフト「Blender」の新バージョン「Blender 4.4」の新機能・変更点について紹介したいと思います！ バージョンアップに伴って数多 […]",
+          "link": "https://cgbox.jp/2025/03/30/blender-4_4-release/",
+          "publishedOn": "2025-03-30T10:58:59.000Z",
+          "wordCount": 2999,
+          "title": "「Blender 4.4」の新機能・変更点を紹介！",
+          "imageUrl": "https://cgbox.jp/wp-content/uploads/2025/03/6d939d0f7e5baf0eb23876e499f9f2f5-1.jpg"
+        },
+        {
           "id": "https://cgbox.jp/?p=62737",
           "author": "kasahara",
           "description": "こんばんは！ 今回はアドオンの「Resample Mesh」を紹介します。 こちらのリンクから購入することができます。 Resample Mesh 「Resample Mesh」は、Blenderでメッシュのリサンプリン […]",
@@ -511,6 +521,21 @@
       "feedUrl": "https://3dnchu.com/feed/",
       "siteUrl": "https://3dnchu.com",
       "articles": [
+        {
+          "id": "https://3dnchu.com/?p=1053451",
+          "author": "Ymt3D -3dnchu-",
+          "description": "北京大学ソフトウェア学院、VAST（Tripoの会社）、上海交通大学の研究者らによる「MV-Adapter: Multi-view Consistent Image Generation Made Easy」が公開されています。テキストや画像から制度の高いマルチアングル画像を生成しテクスチャとして適用出来る技術です！",
+          "link": "https://3dnchu.com/archives/mv-adapter/",
+          "publishedOn": "2025-03-31T03:24:24.000Z",
+          "wordCount": 8996,
+          "title": "MV-Adapter: Multi-view Consistent Image Generation Made Easy - テキストや画像から高精度なマルチアングル画像を生成する技術！テクスチャとして適用可能なデモも公開！",
+          "enclosure": {
+            "url": "https://3dnchu.com/wp-content/uploads/MV-Adapter-1.webp",
+            "length": "1265108",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://3dnchu.com/wp-content/uploads/MV-Adapter-1.webp"
+        },
         {
           "id": "https://3dnchu.com/?p=1053416",
           "author": "Ymt3D -3dnchu-",
@@ -1449,6 +1474,16 @@
       "siteUrl": "https://cgworld.jp/",
       "articles": [
         {
+          "id": "https://cgworld.jp/special-feature/2503-dml.html",
+          "author": null,
+          "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
+          "link": "https://cgworld.jp/special-feature/2503-dml.html",
+          "publishedOn": "2025-03-31T01:46:38.000Z",
+          "wordCount": 653,
+          "title": "DMLバンコクスタジオが目指す\"アジアの制作ハブ\"アニメーター・モデラー積極採用中 - スペシャルコンテンツ",
+          "imageUrl": "https://cgworld.jp/special-feature/assets_c/2025/03/2503_dml_main-thumb-1000x561-67545.jpg"
+        },
+        {
           "id": "https://cgworld.jp/special-feature/2503-pgs.html",
           "author": null,
           "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
@@ -2351,6 +2386,36 @@
       "feedUrl": "https://modelinghappy.com/feed",
       "siteUrl": "https://modelinghappy.com",
       "articles": [
+        {
+          "id": "https://modelinghappy.com/?p=62397",
+          "author": "modelinghappy",
+          "description": "Image to Texture with MV-Adapter MV-Adapterはテキストまたは画像から一貫性のある正面、横、上などの画像を作成してくれるAIを使用したジェネレーターですが、3Dモデルに参考画像をド\nThe post 用意した3Dモデルに１枚参考画像を読み込ませる事でUVが自動展開されたテクスチャ付き3Dデータが作成されるImage to Texture with MV-Adapter first appeared on 3DCG最新情報サイト MODELING HAPPY.",
+          "link": "https://modelinghappy.com/archives/62397",
+          "publishedOn": "2025-03-31T03:08:31.000Z",
+          "wordCount": 3493,
+          "title": "用意した3Dモデルに１枚参考画像を読み込ませる事でUVが自動展開されたテクスチャ付き3Dデータが作成されるImage to Texture with MV-Adapter",
+          "imageUrl": "https://modelinghappy.com/wp-content/uploads/2025/03/020250331_MV_Adapter_00.jpg"
+        },
+        {
+          "id": "https://modelinghappy.com/?p=62391",
+          "author": "modelinghappy",
+          "description": "Mesh Topology Mapping Attributes Add on + Topological Symmetry and Topology Blend Geometry Nodes For Blender M\nThe post 頂点の順番がバラバラでシェイプキーがうまく動かない場合でも片方の順番をもう片方に合わせたり出来るBlender用無料モディファイア first appeared on 3DCG最新情報サイト MODELING HAPPY.",
+          "link": "https://modelinghappy.com/archives/62391",
+          "publishedOn": "2025-03-31T02:08:04.000Z",
+          "wordCount": 3497,
+          "title": "頂点の順番がバラバラでシェイプキーがうまく動かない場合でも片方の順番をもう片方に合わせたり出来るBlender用無料モディファイア",
+          "imageUrl": "https://modelinghappy.com/wp-content/uploads/2025/03/20250331_mesh_topology.jpg"
+        },
+        {
+          "id": "https://modelinghappy.com/?p=62381",
+          "author": "modelinghappy",
+          "description": "} AIで短編映像作ろうとしたときにキャラクターや背景を同じに保ちつつ、ポーズやカメラアングルの自由な制御を取るのが難しかったですが、それをComfyUIとBlenderを組み合わせて短編映像を作成する方法が公開されてい\nThe post キャラクターや背景を同じに保ちつつポーズやカメラアングルを自由に制御してComfyUIとBlenderを組み合わせて短編映像を作成する方法 first appeared on 3DCG最新情報サイト MODELING HAPPY.",
+          "link": "https://modelinghappy.com/archives/62381",
+          "publishedOn": "2025-03-31T01:17:00.000Z",
+          "wordCount": 3447,
+          "title": "キャラクターや背景を同じに保ちつつポーズやカメラアングルを自由に制御してComfyUIとBlenderを組み合わせて短編映像を作成する方法",
+          "imageUrl": "https://modelinghappy.com/wp-content/uploads/2025/03/20250331_ai_blender_01.jpg"
+        },
         {
           "id": "https://modelinghappy.com/?p=62378",
           "author": "modelinghappy",
@@ -3539,16 +3604,6 @@
           "wordCount": 877,
           "title": "チュートリアルの『プラグインとして新規グローバル シェーダーを作成する』を見る上での注意点",
           "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnFpaXRhLWltYWdlLXN0b3JlLnMzLmFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkYwJTJGMTUzMDIxJTJGcHJvZmlsZS1pbWFnZXMlMkYxNjA0NTcyNDQ2P2l4bGliPXJiLTQuMC4wJmFyPTElM0ExJmZpdD1jcm9wJm1hc2s9ZWxsaXBzZSZmbT1wbmczMiZzPTM3ZDU1NTMzYzA5OTMwN2NjOTUyZjE1ZmNkMDIzNzc3%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D7a73b27c7b4ad667d08aa7a784e35237?ixlib=rb-4.0.0&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9JUUzJTgzJTgxJUUzJTgzJUE1JUUzJTgzJUJDJUUzJTgzJTg4JUUzJTgzJUFBJUUzJTgyJUEyJUUzJTgzJUFCJUUzJTgxJUFFJUUzJTgwJThFJUUzJTgzJTk3JUUzJTgzJUE5JUUzJTgyJUIwJUUzJTgyJUE0JUUzJTgzJUIzJUUzJTgxJUE4JUUzJTgxJTk3JUUzJTgxJUE2JUU2JTk2JUIwJUU4JUE2JThGJUUzJTgyJUIwJUUzJTgzJUFEJUUzJTgzJUJDJUUzJTgzJTkwJUUzJTgzJUFCJTIwJUUzJTgyJUI3JUUzJTgyJUE3JUUzJTgzJUJDJUUzJTgzJTgwJUUzJTgzJUJDJUUzJTgyJTkyJUU0JUJEJTlDJUU2JTg4JTkwJUUzJTgxJTk5JUUzJTgyJThCJUUzJTgwJThGJUUzJTgyJTkyJUU4JUE2JThCJUUzJTgyJThCJUU0JUI4JThBJUUzJTgxJUE3JUUzJTgxJUFFJUU2JUIzJUE4JUU2JTg0JThGJUU3JTgyJUI5JnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9NWZjOWIwMDg4N2JjODE1NGQ0MDY4OTJkODQ5ZWFiMDk&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBfYWtvdG9fJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9ZDQ3YmIxMzhhYmZhNmYwM2ZhNmE4OTU2ZDgyOTk3MGU&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=e4ce99a9926f31645f008e6693f186c5"
-        },
-        {
-          "id": "https://qiita.com/hgodai/items/a6fc7bdcef0940f11d00",
-          "author": null,
-          "description": "本記事は、「ソフトウエア研究会in秋葉原」で2021年に発表した、個別にアニメーションをする2万人を超える観衆の3Dモデルをレンダリングする技術の発表資料です。\n本技術は、公開済みのQuest向けV…",
-          "link": "https://qiita.com/hgodai/items/a6fc7bdcef0940f11d00",
-          "publishedOn": "2025-03-01T14:51:23.000Z",
-          "wordCount": 468,
-          "title": "Unityで、スタンドアロン型VR機のゲーム中に2万人を超える観衆をレンダリングする",
-          "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnFpaXRhLWltYWdlLXN0b3JlLnMzLmFtYXpvbmF3cy5jb20lMkYwJTJGNTE1MjElMkZwcm9maWxlLWltYWdlcyUyRjE0NzM2OTI0Njc_aXhsaWI9cmItNC4wLjAmYXI9MSUzQTEmZml0PWNyb3AmbWFzaz1lbGxpcHNlJmZtPXBuZzMyJnM9OWJmNmM3OGYzNTJhMWUzN2M1NGQ2YTAyODUzMjVlMDg%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D580d40cd9e1b75a8ca87c4077fa30d44?ixlib=rb-4.0.0&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9VW5pdHklRTMlODElQTclRTMlODAlODElRTMlODIlQjklRTMlODIlQkYlRTMlODMlQjMlRTMlODMlODklRTMlODIlQTIlRTMlODMlQUQlRTMlODMlQjMlRTUlOUUlOEJWUiVFNiVBOSU5RiVFMyU4MSVBRSVFMyU4MiVCMiVFMyU4MyVCQyVFMyU4MyVBMCVFNCVCOCVBRCVFMyU4MSVBQjIlRTQlQjglODclRTQlQkElQkElRTMlODIlOTIlRTglQjYlODUlRTMlODElODglRTMlODIlOEIlRTglQTYlQjMlRTglQTElODYlRTMlODIlOTIlRTMlODMlQUMlRTMlODMlQjMlRTMlODMlODAlRTMlODMlQUElRTMlODMlQjMlRTMlODIlQjAlRTMlODElOTklRTMlODIlOEImdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz00ODJmMmYyNGE0NTg5MjhhNWY2NmZmNTIyN2ZhN2VkMg&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBoZ29kYWkmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz01OGU2ZDhhYTE3MTM2NDA5MGM3MzA4ZThjMmM1ODA2Zg&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=5d7f33d08eddb477f55dff7844e7e31b"
         }
       ]
     },

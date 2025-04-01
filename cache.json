@@ -537,6 +537,36 @@
       "siteUrl": "https://3dnchu.com",
       "articles": [
         {
+          "id": "https://3dnchu.com/?p=1053512",
+          "author": "Ymt3D -3dnchu-",
+          "description": "各種AI活用サービスを展開するRunwayからテキストや画像から高品質な動画を生成出来るモデルの新バージョン「Gen-4」が発表されました！一貫性のあるキャラクター、ロケーション、オブジェクトを正確に生成可能になり作品づくりがしやすくなるとか。",
+          "link": "https://3dnchu.com/archives/runway-gen-4/",
+          "publishedOn": "2025-04-01T03:13:19.000Z",
+          "wordCount": 8971,
+          "title": "Runway Gen-4 - 高品質な動画生成AIの新モデルが発表！一貫性のあるキャラクター、ロケーション、オブジェクトを正確に生成可能に！",
+          "enclosure": {
+            "url": "https://3dnchu.com/wp-content/uploads/Runway-Gen-4.webp",
+            "length": "1216552",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://3dnchu.com/wp-content/uploads/Runway-Gen-4.webp"
+        },
+        {
+          "id": "https://3dnchu.com/?p=1053485",
+          "author": "Ymt3D -3dnchu-",
+          "description": "Yue Chen氏、Xingyu Chen氏、Anpei Chen氏、Gerard Pons-Moll氏、Yuliang Xiu氏らによる、CVPR 2025技術論文「Feat2GS: Probing Visual Foundation Models with Gaussian Splatting」の紹介。",
+          "link": "https://3dnchu.com/archives/feat2gs/",
+          "publishedOn": "2025-04-01T01:48:40.000Z",
+          "wordCount": 9035,
+          "title": "Feat2GS: Probing Visual Foundation Models with Gaussian Splatting - カジュアルな画像からAIがどこまで3D形状とテクスチャを理解できるかをGaussian Splattingで検証する評価手法！",
+          "enclosure": {
+            "url": "https://3dnchu.com/wp-content/uploads/Feat2GS.webp",
+            "length": "1327716",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://3dnchu.com/wp-content/uploads/Feat2GS.webp"
+        },
+        {
           "id": "https://3dnchu.com/?p=1053225",
           "author": "Ymt3D -3dnchu-",
           "description": "CGWORLDさんの定期購読プランが刷新！年間購読でお得になるみたいですよ！それに登録者は過去セミナー動画200以上が見放題になる「CGWORLD アーカイブ」付きです！",
@@ -1514,6 +1544,16 @@
           "imageUrl": "https://cgworld.jp/article/assets_c/2025/03/202504-valkyrie_a0-thumb-1000x563-66741.jpg"
         },
         {
+          "id": "https://cgworld.jp/flashnews/01-202504-BlenderMCP110.html",
+          "author": null,
+          "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
+          "link": "https://cgworld.jp/flashnews/01-202504-BlenderMCP110.html",
+          "publishedOn": "2025-04-01T00:53:45.000Z",
+          "wordCount": 874,
+          "title": "AIエージェントとの対話だけでRodinがBlender内で3Dシーンを生成！　オープンソースのBlenderアドオン「BlenderMCP 1.1.0」リリース - ニュース",
+          "imageUrl": "https://cgworld.jp/flashnews/assets_c/2025/04/77dfd70b15687c385109a4281bceaebd906956b0-thumb-1080x608-67714.jpg"
+        },
+        {
           "id": "https://cgworld.jp/flashnews/shizuoka-questionnaire-202503.html",
           "author": null,
           "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
@@ -2487,6 +2527,16 @@
       "siteUrl": "https://modelinghappy.com",
       "articles": [
         {
+          "id": "https://modelinghappy.com/?p=62408",
+          "author": "modelinghappy",
+          "description": "BQR Boolean Quad Ready BQR Boolean Quad Readyは、Blenderでブーリアンでモデリングを行った後に発生する三角形メッシュや複雑なトポロジーを、自動的に綺麗な四角形メッシュに変\nThe post BQR Boolean Quad Ready Blenderでブーリアンでモデリングを行った後の三角形メッシュや複雑なトポロジーを、自動的に綺麗な四角形メッシュに変換してくれるアドオン first appeared on 3DCG最新情報サイト MODELING HAPPY.",
+          "link": "https://modelinghappy.com/archives/62408",
+          "publishedOn": "2025-04-01T01:38:32.000Z",
+          "wordCount": 3489,
+          "title": "BQR Boolean Quad Ready Blenderでブーリアンでモデリングを行った後の三角形メッシュや複雑なトポロジーを、自動的に綺麗な四角形メッシュに変換してくれるアドオン",
+          "imageUrl": "https://modelinghappy.com/wp-content/uploads/2025/04/20250401_Bqr_Boolean_Quad_Ready_00.jpg"
+        },
+        {
           "id": "https://modelinghappy.com/?p=62397",
           "author": "modelinghappy",
           "description": "Image to Texture with MV-Adapter MV-Adapterはテキストまたは画像から一貫性のある正面、横、上などの画像を作成してくれるAIを使用したジェネレーターですが、3Dモデルに参考画像をド\nThe post 用意した3Dモデルに１枚参考画像を読み込ませる事でUVが自動展開されたテクスチャ付き3Dデータが作成されるImage to Texture with MV-Adapter first appeared on 3DCG最新情報サイト MODELING HAPPY.",
@@ -2985,16 +3035,6 @@
           "wordCount": 3712,
           "title": "ジェネレーターやアドオンが50種類以上で定価512ドルが今だけセール価格89ドルと激安価格のバンドルパックが販売中です。",
           "imageUrl": "https://modelinghappy.com/wp-content/uploads/2025/03/20250303_ultimate.jpg"
-        },
-        {
-          "id": "https://modelinghappy.com/?p=61918",
-          "author": "modelinghappy",
-          "description": "Tube2Curve Tube2CurveはBlenderで、作成したチューブ形状からカーブを作成してくれるアドオンです。 ポリゴンモデル化されたチューブ形状は後から流れを変更しようとした場合に調整するのが難しい場合があ\nThe post Tube2Curve チューブ形状のポリゴンモデルの真ん中に１ボタンでカーブを作成してくれるBlender用アドオン first appeared on 3DCG最新情報サイト MODELING HAPPY.",
-          "link": "https://modelinghappy.com/archives/61918",
-          "publishedOn": "2025-03-02T13:21:19.000Z",
-          "wordCount": 3465,
-          "title": "Tube2Curve チューブ形状のポリゴンモデルの真ん中に１ボタンでカーブを作成してくれるBlender用アドオン",
-          "imageUrl": "https://modelinghappy.com/wp-content/uploads/2025/03/20250302_tube_to_curve.jpg"
         }
       ]
     },
@@ -3003,6 +3043,26 @@
       "feedUrl": "https://3dtotal.jp/feed/",
       "siteUrl": "https://3dtotal.jp",
       "articles": [
+        {
+          "id": "https://3dtotal.jp/?p=50502",
+          "author": "3dtotal管理人T",
+          "description": "★OpenPBR in Maya 2026 -Next-Gen Shading Explained!（17分44秒/ 制作：SARKAMARI） OpenPBR は、MaterialX の Technical Steer […]\nThe post 次世代シェーディング Maya 2026 の OpenPBR（※英語ムービー） first appeared on 3dtotal 日本語オフィシャルサイト.",
+          "link": "https://3dtotal.jp/tutorials/50502/",
+          "publishedOn": "2025-04-01T02:50:03.000Z",
+          "wordCount": 573,
+          "title": "次世代シェーディング Maya 2026 の OpenPBR（※英語ムービー）",
+          "imageUrl": "https://3dtotal.jp/wp-content/uploads/2025/04/maya26_openpbr.jpg"
+        },
+        {
+          "id": "https://3dtotal.jp/?p=50494",
+          "author": "3dtotal管理人T",
+          "description": "★Unity 2025 GDC ロードマップ（44分47秒/ ※日本語字幕あり） 今年の Game Developers Conference (GDC) では、2025年の Unity エンジンのロードマップの概要につ […]\nThe post 次は何ですか、Unity の2025年のロードマップ（日本語字幕あり） first appeared on 3dtotal 日本語オフィシャルサイト.",
+          "link": "https://3dtotal.jp/news/50494/",
+          "publishedOn": "2025-04-01T01:35:24.000Z",
+          "wordCount": 565,
+          "title": "次は何ですか、Unity の2025年のロードマップ（日本語字幕あり）",
+          "imageUrl": "https://3dtotal.jp/wp-content/uploads/2025/04/unityroadmap25.jpg"
+        },
         {
           "id": "https://3dtotal.jp/?p=50489",
           "author": "3dtotal管理人T",

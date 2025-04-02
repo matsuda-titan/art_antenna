@@ -2,10 +2,52 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-04-02T08:14:14.590Z</updated>
+    <updated>2025-04-02T12:19:39.710Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【Isaac Sim × Isaac Lab入門】#1 Pythonスクリプトで空のシーンをIsaac Simに表示してみる]]></title>
+        <id>https://zenn.dev/kprn/articles/57dea2a3951bd3</id>
+        <link href="https://zenn.dev/kprn/articles/57dea2a3951bd3"/>
+        <updated>2025-04-02T11:00:01.000Z</updated>
+        <summary type="html"><![CDATA[以下の記事にて、NVIDIA Isaac Sim をIsaac Labから起動することができた。
+https://zenn.dev/kprn/articles/9b6afc80ca1956
+今回からは、Isaac Simの3D環境内をPythonスクリプトで操作する方法を調査する。
+今回はPart1として、公式チュートリアルを参考に、
+
+Pythonスクリプトを実行し、Isaac Simで空のシーンを開く
+
+という、シンプルな操作を試してみる。
+
+ 手順
+前回までの手順で、C:\Users\{ユーザ名}\work\にIsaacLabディレクトリが配置されている状況からスタートする。
+
+ ...]]></summary>
+        <author>
+            <name>kmykprn</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Autodesk Maya 2026 新バージョン発表ウェビナー、4/10（木）に開催！ - ニュース]]></title>
+        <id>https://cgworld.jp/flashnews/autodesk-maya-2026.html</id>
+        <link href="https://cgworld.jp/flashnews/autodesk-maya-2026.html"/>
+        <updated>2025-04-02T10:45:00.000Z</updated>
+        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[4/9（水）開催！Autodesk 3ds Max 2026 新バージョン発表ウェビナー - ニュース]]></title>
+        <id>https://cgworld.jp/flashnews/2504-autodesk-3dsmax2026.html</id>
+        <link href="https://cgworld.jp/flashnews/2504-autodesk-3dsmax2026.html"/>
+        <updated>2025-04-02T09:40:00.000Z</updated>
+        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[3DCGの知識を一流のクリエイターから学べるオンライン教育サービス「CGWORLD ONLINE ACADEMY」がリニューアルオープン！ - ニュース]]></title>
         <id>https://cgworld.jp/flashnews/202503-cgworld-online-academy.html</id>

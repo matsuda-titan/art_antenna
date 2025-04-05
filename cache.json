@@ -517,6 +517,36 @@
       "siteUrl": "https://3dnchu.com",
       "articles": [
         {
+          "id": "https://3dnchu.com/?p=1053658",
+          "author": "Ymt3D -3dnchu-",
+          "description": "Epic Games公式の「Inside Unreal」配信にて、Unreal Engine 5.6で追加・刷新されるテンプレートの数々が紹介されました。",
+          "link": "https://3dnchu.com/archives/ue5-new-template-sneak-peek/",
+          "publishedOn": "2025-04-05T05:19:48.000Z",
+          "wordCount": 8938,
+          "title": "UE5 New Template Sneak Peek - Unreal Engine 5.6で追加・刷新されるテンプレートのスニークピーク情報が公開！",
+          "enclosure": {
+            "url": "https://3dnchu.com/wp-content/uploads/UE5-New-Template-Sneak-Peek.webp",
+            "length": "1230652",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://3dnchu.com/wp-content/uploads/UE5-New-Template-Sneak-Peek.webp"
+        },
+        {
+          "id": "https://3dnchu.com/?p=1053649",
+          "author": "Ymt3D -3dnchu-",
+          "description": "Unreal Engine向けチュートリアルコンテンツなどを公開しているUnrealityBitesから、自動マテリアル表現やPCGによるアセット配置を盛り込んだ「UB Auto Landscape」アセットが無料で入手可能です！",
+          "link": "https://3dnchu.com/archives/ub-auto-landscape/",
+          "publishedOn": "2025-04-05T03:32:40.000Z",
+          "wordCount": 8897,
+          "title": "UB Auto Landscape - 半自動ランドスケープマテリアルとPCGによる植生構築されたUnreal Engine 5向けアセットデータ！無料公開！",
+          "enclosure": {
+            "url": "https://3dnchu.com/wp-content/uploads/UB-Auto-Landscape.webp",
+            "length": "995816",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://3dnchu.com/wp-content/uploads/UB-Auto-Landscape.webp"
+        },
+        {
           "id": "https://3dnchu.com/?p=1053638",
           "author": "Ymt3D -3dnchu-",
           "description": "3ds Max 2026がリリースされています。4月9日には新バージョン発表ウェビナーも開催されますよ！",
@@ -1520,66 +1550,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "https://3dnchu.com/wp-content/uploads/mastering-ue5-lighting-art-for-gamedev-wingfox.webp"
-        },
-        {
-          "id": "https://3dnchu.com/?p=1052163",
-          "author": "Ymt3D -3dnchu-",
-          "description": "Taras Tereshchenkoによる、Unreal Engine向けのビルボード用マテリアルノード追加プラグイン「Custom Billboard」がFabにてリリースされています！",
-          "link": "https://3dnchu.com/archives/custom-billboard/",
-          "publishedOn": "2025-03-06T17:33:05.000Z",
-          "wordCount": 8665,
-          "title": "Custom Billboard - 手軽に使えるビルボード用マテリアルノードを追加してくれるUnreal Engineプラグイン！",
-          "enclosure": {
-            "url": "https://3dnchu.com/wp-content/uploads/Custom-Billboard.webp",
-            "length": "837892",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://3dnchu.com/wp-content/uploads/Custom-Billboard.webp"
-        },
-        {
-          "id": "https://3dnchu.com/?p=1052142",
-          "author": "Ymt3D -3dnchu-",
-          "description": "SynPlanet Companyによる、Unreal Engine 5上にリアル地形をインポートできる「SynTerra」がリリースされています！",
-          "link": "https://3dnchu.com/archives/synterra/",
-          "publishedOn": "2025-03-06T17:16:20.000Z",
-          "wordCount": 8632,
-          "title": "SynTerra - 地球上のリアルな地形の3Dメッシュデータを手軽にインポートできるUnreal Engineプラグインが登場！無料！",
-          "enclosure": {
-            "url": "https://3dnchu.com/wp-content/uploads/SynTerra.mp4",
-            "length": "3874619",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://3dnchu.com/wp-content/uploads/SynTerra.webp"
-        },
-        {
-          "id": "https://3dnchu.com/?p=1052146",
-          "author": "Ymt3D -3dnchu-",
-          "description": "PalatialによるUnreal Engine向けに建築データやCADデータなどを最適化するツールプラグイン「Palatial Optimization Plugins」のベータ版が公開されています。",
-          "link": "https://3dnchu.com/archives/palatial-optimization-plugins-beta/",
-          "publishedOn": "2025-03-06T16:37:51.000Z",
-          "wordCount": 8754,
-          "title": "Palatial Optimization Plugins Beta - Unreal Engine向けに建築データやCADデータなどを最適化するツールプラグイン！ベータ版が登場！",
-          "enclosure": {
-            "url": "https://3dnchu.com/wp-content/uploads/palatial-optimization-plugins-be.jpg",
-            "length": "56044",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://3dnchu.com/wp-content/uploads/palatial-optimization-plugins-be.jpg"
-        },
-        {
-          "id": "https://3dnchu.com/?p=1052120",
-          "author": "Ymt3D -3dnchu-",
-          "description": "Ryan Schmidt氏によるUnreal Engine 5 上でのコンテンツ制作に役立つ便利ツールを多数搭載したプラグイン「Gradientspace Toolbox」が登場！",
-          "link": "https://3dnchu.com/archives/gradientspace-toolbox-ue5/",
-          "publishedOn": "2025-03-06T16:06:25.000Z",
-          "wordCount": 8715,
-          "title": "Gradientspace Toolbox - Unreal Engine 5 上でのコンテンツ制作に役立つ便利ツールを多数搭載したプラグインが登場！",
-          "enclosure": {
-            "url": "https://3dnchu.com/wp-content/uploads/Gradientspace-Toolbox-scaled.jpg",
-            "length": "104842",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://3dnchu.com/wp-content/uploads/Gradientspace-Toolbox-scaled.jpg"
         }
       ]
     },
@@ -3718,6 +3688,16 @@
       "feedUrl": "https://qiita.com/tags/maya/feed",
       "siteUrl": "https://qiita.com",
       "articles": [
+        {
+          "id": "https://qiita.com/scixarts/items/c40c8ed000b201dff223",
+          "author": null,
+          "description": "環境\n\nWindows\nAutodesk Maya 2026\n\nGenerative Texture API\nMaya 2026からLookDevXに生成AIのサービスをインテグレートしやすくするための…",
+          "link": "https://qiita.com/scixarts/items/c40c8ed000b201dff223",
+          "publishedOn": "2025-04-05T03:59:02.000Z",
+          "wordCount": 1509,
+          "title": "Maya 2026のGenerative Texture APIについて",
+          "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnNlY3VyZS5ncmF2YXRhci5jb20lMkZhdmF0YXIlMkYwNTUwM2ExMzBiOTdmZmM5ZGQ4YTY4Y2M1NzJkNGZlMT9peGxpYj1yYi00LjAuMCZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmZm09cG5nMzImcz04NTM2OTYxNmJhMmViNTRjZWExOTRlMGYzM2E4ZDFkYQ%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D7f87386c08f818f62b56401e43004403?ixlib=rb-4.0.0&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9TWF5YSUyMDIwMjYlRTMlODElQUVHZW5lcmF0aXZlJTIwVGV4dHVyZSUyMEFQSSVFMyU4MSVBQiVFMyU4MSVBNCVFMyU4MSU4NCVFMyU4MSVBNiZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnR4dC1wYWQ9MCZzPWJjNTJiMDYxNDFkODIxZTRlNzFkMzdiMjQxZWQ3MjA0&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBzY2l4YXJ0cyZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPTExNjdhNzEyODc0OWI0Yzg4ZjlmYmZmNjY1NTE0NzA4&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=f9dfe86a6f981e65b7c3295627077058"
+        },
         {
           "id": "https://qiita.com/ue_ta/items/73fe6def4591fc70d180",
           "author": null,

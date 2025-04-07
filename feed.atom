@@ -2,10 +2,47 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-04-06T12:17:12.792Z</updated>
+    <updated>2025-04-07T00:52:07.900Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[VFX/CG現地体験会 2025 - SIGGRAPH in Vancouverと同時開催！先着15名！参加者募集開始！2025年7月13日まで申込受付中！海外で活躍する現役アーティストと直接交流！英語が苦手でも安心の現地サポート！2024秋開催のレポートも公開！]]></title>
+        <id>https://3dnchu.com/?p=1053717</id>
+        <link href="https://3dnchu.com/archives/teamove-cgvfx-tour-2025/"/>
+        <updated>2025-04-06T23:19:40.000Z</updated>
+        <summary type="html"><![CDATA[海外の映画・CG・Web業界への進出をサポートするチーム「Teamove」による「VFX／CG現地体験会」の仮申し込み受付が開始されています！※CG専門の通訳が全日程アテンド！英語ができない方でも安心！]]></summary>
+        <author>
+            <name>Ymt3D -3dnchu-</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【Isaac Sim × Isaac Lab入門】#3 PythonでIsaac Sim内のオブジェクトの座標を取得する]]></title>
+        <id>https://zenn.dev/kprn/articles/b39268c6456591</id>
+        <link href="https://zenn.dev/kprn/articles/b39268c6456591"/>
+        <updated>2025-04-06T22:46:24.000Z</updated>
+        <summary type="html"><![CDATA[以下の記事にて、Isaac Simに直方体を配置し、Rigid Bodyと重力を設定できた。
+https://zenn.dev/kprn/articles/8c1d9b191e0775
+今回はPart3として、公式チュートリアルを参考に、
+
+直方体の位置を取得して表示する
+
+ことを試してみる。
+この記事の内容を実施すると、以下のように
+
+落下中の直方体の、ワールド座標を取得する
+
+ことができる。
+
+
+ 手順
+
+ 手順1. Pythonスクリプトの作成
+前回までの手順と同様に、C:\Users\{ユーザ名}\work\python_scriptsディレクトリの中に、get_object_t...]]></summary>
+        <author>
+            <name>kmykprn</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bone & Weight Splitter ボーンを複数のセグメントに分割し、頂点のウェイトを自動的に再分配してスムーズにブレンドしてくれたりするBlender用アドオン]]></title>
         <id>https://modelinghappy.com/?p=62528</id>
@@ -3449,89 +3486,6 @@ The post Blenderで選択したモデルの方向にカメラやライトを向�
         <summary type="html"><![CDATA[ボーンデジタルさんと、著名なアーティストの方々と一緒に本を書きました！『職種と用途で探せる Blenderアドオン事典』が2025年3月31日発売です！]]></summary>
         <author>
             <name>Ymt3D -3dnchu-</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【UE5】文明崩壊後の世界を作成するチュートリアルをレビュー！]]></title>
-        <id>https://cgbox.jp/?p=62439</id>
-        <link href="https://cgbox.jp/2025/03/08/wingfox-tutorial-ue5postapocalyptic/"/>
-        <updated>2025-03-08T10:04:30.000Z</updated>
-        <summary type="html"><![CDATA[こんにちは！ 今回はWingfoxで公開されている「Post Apocalyptic 3D Environment in Unreal Engine 5」を受講したので、レビューしていきたいと思います！ 講座の特徴 今回 […]]]></summary>
-        <author>
-            <name>CGbox編集部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Control Rigで自動コントローラー生成の扉を開く]]></title>
-        <id>https://tech-art.online/?p=1938</id>
-        <link href="https://tech-art.online/control-rig-construction-controllers/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=control-rig-construction-controllers"/>
-        <updated>2025-03-08T09:34:59.000Z</updated>
-        <summary type="html"><![CDATA[UE5のコントロールリグで、Construction Eventを活用して コントローラーを自動生成する方法を解説します。 手続き的な生成で、リギング […]
-続きを読む
-Control Rigで自動コントローラー生成の扉を開く first appeared on TECH ART ONLINE.]]></summary>
-        <author>
-            <name>管理人</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【アドオン紹介】Openscatter – コスパ◎のスキャターアドオン]]></title>
-        <id>https://cgbox.jp/?p=62446</id>
-        <link href="https://cgbox.jp/2025/03/08/news-addon-openscatter/"/>
-        <updated>2025-03-08T07:49:40.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは！ 今回はアドオンの「Openscatter」を紹介します。 こちらのリンクから購入することができます。 Openscatter 「Openscatter 」は、平面にオブジェクトを配置することができるスキャタ […]]]></summary>
-        <author>
-            <name>kasahara</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[References Overlays - PureRefのようにビューポート上に参考画像を配置できるBlender 4.4以降対応のアドオン！Extensionsにて無料公開！]]></title>
-        <id>https://3dnchu.com/?p=1052252</id>
-        <link href="https://3dnchu.com/archives/references-overlays-kenken-b3d/"/>
-        <updated>2025-03-08T07:48:23.000Z</updated>
-        <summary type="html"><![CDATA[KENKENによるPureRefのようにビューポート上に参考画像などを表示可能なBlender 4.4以降対応のアドオン「References Overlays」がBlender Extensionsにて無料公開されています！]]></summary>
-        <author>
-            <name>Ymt3D -3dnchu-</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cable It! Blenderで束になったケーブルを大量配置出来るGometryNodesデータ]]></title>
-        <id>https://modelinghappy.com/?p=61996</id>
-        <link href="https://modelinghappy.com/archives/61996"/>
-        <updated>2025-03-08T07:21:35.000Z</updated>
-        <summary type="html"><![CDATA[Cable It! Cable It!はBlenderでカーブ部分に束になったケーブルを作成出来るGeometry Nodesデータです。ケーブルを押し出した部分は留め具が付いて、ケーブルの量やたれ具合、ケーブルをねじる
-The post Cable It! Blenderで束になったケーブルを大量配置出来るGometryNodesデータ first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
-        <author>
-            <name>modelinghappy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Camera Viewer - ビューポート上にカメラビューを小窓表示するBlender 4.4以降対応のアドオン！Extensionsにて無料公開！]]></title>
-        <id>https://3dnchu.com/?p=1052208</id>
-        <link href="https://3dnchu.com/archives/camera-viewer-b3d-kenken/"/>
-        <updated>2025-03-08T04:16:28.000Z</updated>
-        <summary type="html"><![CDATA[KENKENによるビューポート上にカメラビューを小窓表示するBlender 4.4以降対応のアドオン「Camera Viewer」がBlender Extensionsにて無料公開されています！]]></summary>
-        <author>
-            <name>Ymt3D -3dnchu-</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[第21回：AR Quick Look の新機能について - 連載]]></title>
-        <id>https://cgworld.jp/regular/21ar-quick-look.html</id>
-        <link href="https://cgworld.jp/regular/21ar-quick-look.html"/>
-        <updated>2025-03-08T03:04:55.000Z</updated>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AAAゲームキャラクターを１から作成してゲーム会社で就職したい人向けのチュートリアル動画がWingfoxで販売開始！]]></title>
-        <id>https://modelinghappy.com/?p=61982</id>
-        <link href="https://modelinghappy.com/archives/61982"/>
-        <updated>2025-03-08T02:13:41.000Z</updated>
-        <summary type="html"><![CDATA[AAA Game Character Creation-Step by Step Guide 世界中のチュートリアル動画を販売しているWingfoxのサイトで、ゲーム会社で就職したい人の為に、長年ゲーム業界で働いた経験か
-The post AAAゲームキャラクターを１から作成してゲーム会社で就職したい人向けのチュートリアル動画がWingfoxで販売開始！ first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
-        <author>
-            <name>modelinghappy</name>
         </author>
     </entry>
 </feed>

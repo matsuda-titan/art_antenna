@@ -2,10 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-04-09T08:14:37.005Z</updated>
+    <updated>2025-04-09T12:19:40.602Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[PhysX and Flow GPU Source Code Now Available - NVIDIAの物理エンジン「PhysX」と流体シミュレーションライブラリ「Flow」のソースコードを完全にオープンソース公開！]]></title>
+        <id>https://3dnchu.com/?p=1053809</id>
+        <link href="https://3dnchu.com/archives/physx-and-flow-gpu-opensource/"/>
+        <updated>2025-04-09T10:33:51.000Z</updated>
+        <summary type="html"><![CDATA[NVIDIAは、長年にわたり物理演算の基盤技術として活用されてきたPhysXおよびFlowのソースコードを完全にオープンソース化しました。対応するGPUカーネルも含め、BSD-3ライセンスでの公開となり、誰でも利用・改変が可能に。]]></summary>
+        <author>
+            <name>Ymt3D -3dnchu-</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RKT Voxel Mesher - ボリュームビルダーをボクセル化！Mographとの相性抜群！CINEMA 4D向けボクセルメッシュ化プラグイン！]]></title>
+        <id>https://3dnchu.com/?p=1053797</id>
+        <link href="https://3dnchu.com/archives/rkt-voxel-mesher-cinema-4d/"/>
+        <updated>2025-04-09T09:26:35.000Z</updated>
+        <summary type="html"><![CDATA[Rocket Lasso氏による、CINEMA 4D向けボクセルメッシュ化プラグイン「RKT Voxel Mesher for CINEMA 4D」がリリースされています！]]></summary>
+        <author>
+            <name>Ymt3D -3dnchu-</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[instantMerge for Maya Beta 選択した頂点から丸い枠を拡大して枠内に入ってる頂点を最初の頂点に全て結合出来る無料プラグイン]]></title>
+        <id>https://modelinghappy.com/?p=62572</id>
+        <link href="https://modelinghappy.com/archives/62572"/>
+        <updated>2025-04-09T08:38:16.000Z</updated>
+        <summary type="html"><![CDATA[instantMerge for Maya Beta instantMergeはMayaで便利なプラグインを多数作成している#8211; Im3dJoe #8211; Maya Polygon Lab #8211;
+The post instantMerge for Maya Beta 選択した頂点から丸い枠を拡大して枠内に入ってる頂点を最初の頂点に全て結合出来る無料プラグイン first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
+        <author>
+            <name>modelinghappy</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Pure-Sky Pro 7.0 - プロシージャルな空生成Blenderアドオン！最新のメジャーアップデートが公開！EEVEEにボリューメトリックな影を落とすことが可能！]]></title>
         <id>https://3dnchu.com/?p=1053775</id>
@@ -3655,16 +3686,6 @@ The post ゲーム以外の分野で UE5 を活用したい方のために。書
         <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
         <author>
             <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Procedural Skeletal Meshes: Real-time Slicing ＆ Dismemberment - スケルタルメッシュへの動的な切断表現を実装できるUnreal Engine 5向けプラグイン！]]></title>
-        <id>https://3dnchu.com/?p=1052471</id>
-        <link href="https://3dnchu.com/archives/procedural-skeletal-meshes-rtsd/"/>
-        <updated>2025-03-10T23:20:14.000Z</updated>
-        <summary type="html"><![CDATA[Wormbrain GamesによるUnreal Engine向けスケルタルメッシュ切断プラグイン「Procedural Skeletal Meshes: Real-time Slicing & Dismemberment」のご紹介！]]></summary>
-        <author>
-            <name>Ymt3D -3dnchu-</name>
         </author>
     </entry>
 </feed>

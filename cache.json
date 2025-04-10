@@ -1464,6 +1464,36 @@
       "siteUrl": "https://cgworld.jp/",
       "articles": [
         {
+          "id": "https://cgworld.jp/regular/202504-cgw321-book.html",
+          "author": null,
+          "description": "ゲームやCGをはじめ、「応用数学」の屋台骨としての線形代数が解説された一冊「セガ的 基礎線形代数講座」を紹介。",
+          "link": "https://cgworld.jp/regular/202504-cgw321-book.html",
+          "publishedOn": "2025-04-10T06:39:00.000Z",
+          "wordCount": 788,
+          "title": "#07：セガの社内勉強会テキストを書籍化『セガ的 基礎線形代数講座』 - 連載",
+          "imageUrl": "https://cgworld.jp/regular/assets_c/2025/04/book_of_the_month_202504-thumb-1000x563-68110.jpg"
+        },
+        {
+          "id": "https://cgworld.jp/flashnews/01-202504-Hi3DGen.html",
+          "author": null,
+          "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
+          "link": "https://cgworld.jp/flashnews/01-202504-Hi3DGen.html",
+          "publishedOn": "2025-04-10T04:37:43.000Z",
+          "wordCount": 825,
+          "title": "3Dモデル生成AI「Hi3DGen v0.1」公開！　中間表現としてノーマルマップを使用することで高精細な3Dジオメトリの生成が可能に - ニュース",
+          "imageUrl": "https://cgworld.jp/flashnews/assets_c/2025/04/Hi3DGen-01-thumb-1080x608-68119.jpg"
+        },
+        {
+          "id": "https://cgworld.jp/flashnews/2505-plusone-beaver.html",
+          "author": null,
+          "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
+          "link": "https://cgworld.jp/flashnews/2505-plusone-beaver.html",
+          "publishedOn": "2025-04-10T03:36:37.000Z",
+          "wordCount": 718,
+          "title": "5日で基礎が身につく、Maya Python入門講座開催！　入門から実践的なツール作成までを学びます - ニュース",
+          "imageUrl": "https://cgworld.jp/flashnews/assets_c/2025/04/366c46494134eaa189e53e02d9d058288e30582e-thumb-1920x1080-68108.jpg"
+        },
+        {
           "id": "https://cgworld.jp/article/2504-creality-02.html",
           "author": null,
           "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
@@ -3550,21 +3580,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--xdI00xPw--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Houdini%2520MCP%25E3%2581%25A7%25E9%2581%258A%25E3%2582%2593%25E3%2581%25A7%25E3%2581%25BF%25E3%2581%259F%25EF%25BC%2581%2520-%25E8%2587%25AA%25E7%2584%25B6%25E8%25A8%2580%25E8%25AA%259E%25E3%2581%25A7%25E3%2581%25AE%25E3%2583%25A2%25E3%2583%2587%25E3%2583%25AA%25E3%2583%25B3%25E3%2582%25B0-%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:nekoco%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzQwOWU3MjIwN2QuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
-        },
-        {
-          "id": "https://zenn.dev/konno/articles/d50a1b869fde25",
-          "author": "fish ball",
-          "description": "概要\nKarmaでマテリアル内から参照可能な任意の値をレンダリングする方法とレンズシェーダーを利用してUV位置に合わせたレンダリングを行う方法です。\n\n 実行結果\n\n各チャンネルのレンダリング結果\n\nレンズシェーダーを利用してUV位置に合わせたレンダリングした結果\n\n AOVを作成する\nAOV (“Arbitrary Output Variable:任意の出力変数”)\nhttps://www.sidefx.com/ja/docs/houdini/solaris/karma_aovs.html\nAOVを設定することでレンダリング時に出力される画像チャンネルを追加することができます。\n\n...",
-          "link": "https://zenn.dev/konno/articles/d50a1b869fde25",
-          "publishedOn": "2025-03-11T17:00:34.000Z",
-          "wordCount": null,
-          "title": "KarmaでMaterialXからAOVを設定し、チャンネルのレンダリングとレンズシェーダーによるテクスチャベイク",
-          "enclosure": {
-            "url": "https://res.cloudinary.com/zenn/image/upload/s--HE_d7k32--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Karma%25E3%2581%25A7MaterialX%25E3%2581%258B%25E3%2582%2589AOV%25E3%2582%2592%25E8%25A8%25AD%25E5%25AE%259A%25E3%2581%2597%25E3%2580%2581%25E3%2583%2581%25E3%2583%25A3%25E3%2583%25B3%25E3%2583%258D%25E3%2583%25AB%25E3%2581%25AE%25E3%2583%25AC%25E3%2583%25B3%25E3%2583%2580%25E3%2583%25AA%25E3%2583%25B3%25E3%2582%25B0%25E3%2581%25A8%25E3%2583%25AC%25E3%2583%25B3%25E3%2582%25BA%25E3%2582%25B7%25E3%2582%25A7%25E3%2583%25BC%25E3%2583%2580%25E3%2583%25BC%25E3%2581%25AB%25E3%2582%2588%25E3%2582%258B%25E3%2583%2586%25E3%2582%25AF%25E3%2582%25B9%25E3%2583%2581%25E3%2583%25A3%25E3%2583%2599%25E3%2582%25A4%25E3%2582%25AF%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:fish%2520ball%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2ZiZmJjOGQwNzEuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png",
-            "length": "0",
-            "type": "image/png"
-          },
-          "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--HE_d7k32--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Karma%25E3%2581%25A7MaterialX%25E3%2581%258B%25E3%2582%2589AOV%25E3%2582%2592%25E8%25A8%25AD%25E5%25AE%259A%25E3%2581%2597%25E3%2580%2581%25E3%2583%2581%25E3%2583%25A3%25E3%2583%25B3%25E3%2583%258D%25E3%2583%25AB%25E3%2581%25AE%25E3%2583%25AC%25E3%2583%25B3%25E3%2583%2580%25E3%2583%25AA%25E3%2583%25B3%25E3%2582%25B0%25E3%2581%25A8%25E3%2583%25AC%25E3%2583%25B3%25E3%2582%25BA%25E3%2582%25B7%25E3%2582%25A7%25E3%2583%25BC%25E3%2583%2580%25E3%2583%25BC%25E3%2581%25AB%25E3%2582%2588%25E3%2582%258B%25E3%2583%2586%25E3%2582%25AF%25E3%2582%25B9%25E3%2583%2581%25E3%2583%25A3%25E3%2583%2599%25E3%2582%25A4%25E3%2582%25AF%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:fish%2520ball%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2ZiZmJjOGQwNzEuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
         }
       ]
     },
@@ -3573,6 +3588,21 @@
       "feedUrl": "https://zenn.dev/topics/3dcg/feed",
       "siteUrl": "https://zenn.dev/topics/3dcg",
       "articles": [
+        {
+          "id": "https://zenn.dev/kprn/articles/b8a73295e8af20",
+          "author": "kmykprn",
+          "description": "以下の記事にて、Isaac Sim内の、オブジェクトの座標を取得することができた。\nhttps://zenn.dev/kprn/articles/b39268c6456591\n今回はPart4として、公式サイトを参考に、\n\nIsaac Simに設置したカメラの映像から、画像を取得する\n\nことを試してみる。\nこの記事の内容を実施すると、以下のように「RGB画像」「法線画像」「インスタンスセグメンテーション画像」を取得することができる。\n\n\n\nRGB\n法線\nインスタンスセグメンテーション\n\n\n\n\n\n\n\n\n\n\n法線画像とは？\n法線画像は、3Dモデルの法線ベクトル（＝表面の向き、XYZの値）を、...",
+          "link": "https://zenn.dev/kprn/articles/b8a73295e8af20",
+          "publishedOn": "2025-04-10T06:40:56.000Z",
+          "wordCount": 2780,
+          "title": "【Isaac Sim × Isaac Lab入門】#4 カメラからRGB・法線・セグメンテーション画像を取得する",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--OpPzP4c8--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2580%2590Isaac%2520Sim%2520%25C3%2597%2520Isaac%2520Lab%25E5%2585%25A5%25E9%2596%2580%25E3%2580%2591%25234%2520%25E3%2582%25AB%25E3%2583%25A1%25E3%2583%25A9%25E3%2581%258B%25E3%2582%2589RGB%25E3%2583%25BB%25E6%25B3%2595%25E7%25B7%259A%25E3%2583%25BB%25E3%2582%25BB%25E3%2582%25B0%25E3%2583%25A1%25E3%2583%25B3%25E3%2583%2586%25E3%2583%25BC%25E3%2582%25B7%25E3%2583%25A7%25E3%2583%25B3%25E7%2594%25BB%25E5%2583%258F%25E3%2582%2592%25E5%258F%2596%25E5%25BE%2597%25E3%2581%2599%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:kmykprn%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzg0YTc2MmJkMmMuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png",
+            "length": "0",
+            "type": "image/png"
+          },
+          "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--OpPzP4c8--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2580%2590Isaac%2520Sim%2520%25C3%2597%2520Isaac%2520Lab%25E5%2585%25A5%25E9%2596%2580%25E3%2580%2591%25234%2520%25E3%2582%25AB%25E3%2583%25A1%25E3%2583%25A9%25E3%2581%258B%25E3%2582%2589RGB%25E3%2583%25BB%25E6%25B3%2595%25E7%25B7%259A%25E3%2583%25BB%25E3%2582%25BB%25E3%2582%25B0%25E3%2583%25A1%25E3%2583%25B3%25E3%2583%2586%25E3%2583%25BC%25E3%2582%25B7%25E3%2583%25A7%25E3%2583%25B3%25E7%2594%25BB%25E5%2583%258F%25E3%2582%2592%25E5%258F%2596%25E5%25BE%2597%25E3%2581%2599%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:kmykprn%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzg0YTc2MmJkMmMuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
+        },
         {
           "id": "https://zenn.dev/kprn/articles/b39268c6456591",
           "author": "kmykprn",

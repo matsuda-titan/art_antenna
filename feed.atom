@@ -2,10 +2,75 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-04-10T03:27:47.578Z</updated>
+    <updated>2025-04-10T08:14:40.724Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【Isaac Sim × Isaac Lab入門】#4 カメラからRGB・法線・セグメンテーション画像を取得する]]></title>
+        <id>https://zenn.dev/kprn/articles/b8a73295e8af20</id>
+        <link href="https://zenn.dev/kprn/articles/b8a73295e8af20"/>
+        <updated>2025-04-10T06:40:56.000Z</updated>
+        <summary type="html"><![CDATA[以下の記事にて、Isaac Sim内の、オブジェクトの座標を取得することができた。
+https://zenn.dev/kprn/articles/b39268c6456591
+今回はPart4として、公式サイトを参考に、
+
+Isaac Simに設置したカメラの映像から、画像を取得する
+
+ことを試してみる。
+この記事の内容を実施すると、以下のように「RGB画像」「法線画像」「インスタンスセグメンテーション画像」を取得することができる。
+
+
+
+RGB
+法線
+インスタンスセグメンテーション
+
+
+
+
+
+
+
+
+
+
+法線画像とは？
+法線画像は、3Dモデルの法線ベクトル（＝表面の向き、XYZの値）を、...]]></summary>
+        <author>
+            <name>kmykprn</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#07：セガの社内勉強会テキストを書籍化『セガ的 基礎線形代数講座』 - 連載]]></title>
+        <id>https://cgworld.jp/regular/202504-cgw321-book.html</id>
+        <link href="https://cgworld.jp/regular/202504-cgw321-book.html"/>
+        <updated>2025-04-10T06:39:00.000Z</updated>
+        <summary type="html"><![CDATA[ゲームやCGをはじめ、「応用数学」の屋台骨としての線形代数が解説された一冊「セガ的 基礎線形代数講座」を紹介。]]></summary>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[3Dモデル生成AI「Hi3DGen v0.1」公開！　中間表現としてノーマルマップを使用することで高精細な3Dジオメトリの生成が可能に - ニュース]]></title>
+        <id>https://cgworld.jp/flashnews/01-202504-Hi3DGen.html</id>
+        <link href="https://cgworld.jp/flashnews/01-202504-Hi3DGen.html"/>
+        <updated>2025-04-10T04:37:43.000Z</updated>
+        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[5日で基礎が身につく、Maya Python入門講座開催！　入門から実践的なツール作成までを学びます - ニュース]]></title>
+        <id>https://cgworld.jp/flashnews/2505-plusone-beaver.html</id>
+        <link href="https://cgworld.jp/flashnews/2505-plusone-beaver.html"/>
+        <updated>2025-04-10T03:36:37.000Z</updated>
+        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[5000種類以上の商用利用可能なPBRマテリアルや HDRIを含むアセットをBlender内に１クリックで適用出来るアドオンMega Assets]]></title>
         <id>https://modelinghappy.com/?p=62578</id>
@@ -3569,30 +3634,6 @@ The post インドのクリエイターたちによる Unreal Engine リール�
         <summary type="html"><![CDATA[Alan Wyatt（Tradigital3D）氏によるGeometry Nodesを活用したハンドペイントエフェクト追加アドオン「Live Paint Filter V3.0」がリリースされました！]]></summary>
         <author>
             <name>Ymt3D -3dnchu-</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KarmaでMaterialXからAOVを設定し、チャンネルのレンダリングとレンズシェーダーによるテクスチャベイク]]></title>
-        <id>https://zenn.dev/konno/articles/d50a1b869fde25</id>
-        <link href="https://zenn.dev/konno/articles/d50a1b869fde25"/>
-        <updated>2025-03-11T17:00:34.000Z</updated>
-        <summary type="html"><![CDATA[概要
-Karmaでマテリアル内から参照可能な任意の値をレンダリングする方法とレンズシェーダーを利用してUV位置に合わせたレンダリングを行う方法です。
-
- 実行結果
-
-各チャンネルのレンダリング結果
-
-レンズシェーダーを利用してUV位置に合わせたレンダリングした結果
-
- AOVを作成する
-AOV (“Arbitrary Output Variable:任意の出力変数”)
-https://www.sidefx.com/ja/docs/houdini/solaris/karma_aovs.html
-AOVを設定することでレンダリング時に出力される画像チャンネルを追加することができます。
-
-...]]></summary>
-        <author>
-            <name>fish ball</name>
         </author>
     </entry>
 </feed>

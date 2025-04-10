@@ -445,21 +445,6 @@
             "type": "video/mp4"
           },
           "imageUrl": "https://cgbox.jp/wp-content/uploads/2022/05/cropped-favicon.png"
-        },
-        {
-          "id": "https://cgbox.jp/?p=62477",
-          "author": "kasahara",
-          "description": "こんばんは！ 今回はアドオンの「Hot Node」を紹介します。 こちらのリンクから購入することができます。 Hot Node 「Hot Node」は、自分で制作したノードセットを保存して再利用することができるアドオン。 […]",
-          "link": "https://cgbox.jp/2025/03/11/news-addon-hot-node/",
-          "publishedOn": "2025-03-11T06:02:17.000Z",
-          "wordCount": 2262,
-          "title": "【無料アドオン紹介】Hot Node – ノードセットを保存して再利用！",
-          "enclosure": {
-            "url": "https://cgbox.jp/wp-content/uploads/2025/03/30bab8a0a7c5ae4302e30548ed07640f.mp4",
-            "length": "0",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://cgbox.jp/wp-content/uploads/2025/03/08cd91799815091d145e48780a36b294805c4fd93b071eba92bba114633fe79a_1920x1080.webp"
         }
       ]
     },
@@ -1470,21 +1455,6 @@
             "type": "video/mp4"
           },
           "imageUrl": "https://3dnchu.com/wp-content/uploads/Live-Paint-Filter-V3.0.webp"
-        },
-        {
-          "id": "https://3dnchu.com/?p=1052524",
-          "author": "Ymt3D -3dnchu-",
-          "description": "Visual Tech ArtのYoutubeチャンネルにて、Unreal Engine 5のNaniteを使用した際のドローコールに関して検証を行った動画「1 Frame - 1 DrawCall」が公開されました。とても興味深い内容です。",
-          "link": "https://3dnchu.com/archives/1-frame-1-drawcall/",
-          "publishedOn": "2025-03-11T14:13:29.000Z",
-          "wordCount": 8941,
-          "title": "1 Frame - 1 DrawCall - Can all this become one draw call? - Unreal Engine 5 のNanite環境におけるDrawCallの状況について調査した検証動画が公開！",
-          "enclosure": {
-            "url": "https://3dnchu.com/wp-content/uploads/1-frame-1-drawcall-can-all-this.jpg",
-            "length": "89259",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://3dnchu.com/wp-content/uploads/1-frame-1-drawcall-can-all-this.jpg"
         }
       ]
     },
@@ -1493,6 +1463,16 @@
       "feedUrl": "https://cgworld.jp/atom.xml",
       "siteUrl": "https://cgworld.jp/",
       "articles": [
+        {
+          "id": "https://cgworld.jp/article/2504-creality-02.html",
+          "author": null,
+          "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
+          "link": "https://cgworld.jp/article/2504-creality-02.html",
+          "publishedOn": "2025-04-10T01:16:16.000Z",
+          "wordCount": 795,
+          "title": "後編）ゼロから創る！マルチカラー3Dプリンター入門。 - 特集",
+          "imageUrl": "https://cgworld.jp/article/assets_c/2025/04/2504_creality02_main-thumb-1000x563-67948.jpg"
+        },
         {
           "id": "https://cgworld.jp/article/cg320-acg-mononoke02.html",
           "author": null,
@@ -2557,6 +2537,16 @@
       "siteUrl": "https://modelinghappy.com",
       "articles": [
         {
+          "id": "https://modelinghappy.com/?p=62578",
+          "author": "modelinghappy",
+          "description": "Mega Assets – The Ultimate Asset Downloader For Blender Mega AssetsはBlenderでAmbientCG、ShareTextures、CGBookcase\nThe post 5000種類以上の商用利用可能なPBRマテリアルや HDRIを含むアセットをBlender内に１クリックで適用出来るアドオンMega Assets first appeared on 3DCG最新情報サイト MODELING HAPPY.",
+          "link": "https://modelinghappy.com/archives/62578",
+          "publishedOn": "2025-04-10T02:50:29.000Z",
+          "wordCount": 3490,
+          "title": "5000種類以上の商用利用可能なPBRマテリアルや HDRIを含むアセットをBlender内に１クリックで適用出来るアドオンMega Assets",
+          "imageUrl": "https://modelinghappy.com/wp-content/uploads/2025/04/20250410_mega_assets_00.jpg"
+        },
+        {
           "id": "https://modelinghappy.com/?p=62572",
           "author": "modelinghappy",
           "description": "instantMerge for Maya Beta instantMergeはMayaで便利なプラグインを多数作成している#8211; Im3dJoe #8211; Maya Polygon Lab #8211;\nThe post instantMerge for Maya Beta 選択した頂点から丸い枠を拡大して枠内に入ってる頂点を最初の頂点に全て結合出来る無料プラグイン first appeared on 3DCG最新情報サイト MODELING HAPPY.",
@@ -3065,26 +3055,6 @@
           "wordCount": 3479,
           "title": "BlenderMCP  BlenderをClaudeAIに接続してプロンプト入力または参考画像を読み込み3Dシーンを作成出来る無料アドオン",
           "imageUrl": "https://modelinghappy.com/wp-content/uploads/2025/03/20250312_BlenderMCP_00.jpg"
-        },
-        {
-          "id": "https://modelinghappy.com/?p=62067",
-          "author": "modelinghappy",
-          "description": "Flaxflow #8211; Motion Tracking amp; Geometry Toolkit FlaxFlowは、Blenderのモーション トラッキング パネルと3Dビューポートに多くの追加機能が加わ\nThe post Blenderでのモーショントラッキングが1/5の速さで従来より安定・動画内をクリックで正確な3D位置を特定する機能が用意されてるFlaxflowアドオン first appeared on 3DCG最新情報サイト MODELING HAPPY.",
-          "link": "https://modelinghappy.com/archives/62067",
-          "publishedOn": "2025-03-11T14:21:02.000Z",
-          "wordCount": 3463,
-          "title": "Blenderでのモーショントラッキングが1/5の速さで従来より安定・動画内をクリックで正確な3D位置を特定する機能が用意されてるFlaxflowアドオン",
-          "imageUrl": "https://modelinghappy.com/wp-content/uploads/2025/03/20250311_flaxflow_01.jpg"
-        },
-        {
-          "id": "https://modelinghappy.com/?p=62059",
-          "author": "modelinghappy",
-          "description": "Polygen #8211; Interactive Remesher PolygenはBlenderでリトポロジーとリメッシュを流動的なシミュレーションプロセスで変換できるアドオンです。 ポイントベースのシミュレーシ\nThe post Polygen モデルに等間隔のパーティクルを配置してリトポロジー出来るBlender用アドオン first appeared on 3DCG最新情報サイト MODELING HAPPY.",
-          "link": "https://modelinghappy.com/archives/62059",
-          "publishedOn": "2025-03-11T13:54:44.000Z",
-          "wordCount": 3488,
-          "title": "Polygen モデルに等間隔のパーティクルを配置してリトポロジー出来るBlender用アドオン",
-          "imageUrl": "https://modelinghappy.com/wp-content/uploads/2025/03/20250311_polygen_01.jpg"
         }
       ]
     },
@@ -3093,6 +3063,26 @@
       "feedUrl": "https://3dtotal.jp/feed/",
       "siteUrl": "https://3dtotal.jp",
       "articles": [
+        {
+          "id": "https://3dtotal.jp/?p=50653",
+          "author": "3dtotal管理人T",
+          "description": "★Pixar Sparkshorts: Loop | Short Film on Disney+（9分7秒） 世界自閉症啓発デー(4/2)に ちなんで、ピクサーの「SparkShorts (スパークス 奇跡の瞬間)」の『 […]\nThe post 世界自閉症啓発デーにちなみ、ピクサーのショートムービー『ループ』が無料公開 first appeared on 3dtotal 日本語オフィシャルサイト.",
+          "link": "https://3dtotal.jp/news/50653/",
+          "publishedOn": "2025-04-10T02:31:19.000Z",
+          "wordCount": 503,
+          "title": "世界自閉症啓発デーにちなみ、ピクサーのショートムービー『ループ』が無料公開",
+          "imageUrl": "https://3dtotal.jp/wp-content/uploads/2025/04/pixar_loop.jpg"
+        },
+        {
+          "id": "https://3dtotal.jp/?p=50649",
+          "author": "3dtotal管理人T",
+          "description": "★Mission: Impossible – The Final Reckoning | Official Trailer（2分17秒） ★映画『ミッション：インポッシブル／ファイナル・レコニング』ファイナル予告（2分2 […]\nThe post トム・クルーズ主演、映画『ミッション：インポッシブル／ファイナル・レコニング』のトレーラー（英語／日本語） first appeared on 3dtotal 日本語オフィシャルサイト.",
+          "link": "https://3dtotal.jp/news/50649/",
+          "publishedOn": "2025-04-10T02:28:06.000Z",
+          "wordCount": 489,
+          "title": "トム・クルーズ主演、映画『ミッション：インポッシブル／ファイナル・レコニング』のトレーラー（英語／日本語）",
+          "imageUrl": "https://3dtotal.jp/wp-content/uploads/2025/04/mibfr_jtrailer.jpg"
+        },
         {
           "id": "https://3dtotal.jp/?p=50631",
           "author": "3dtotal管理人T",
@@ -3963,6 +3953,16 @@
       "feedUrl": "https://area.autodesk.jp/rss.xml",
       "siteUrl": "https://area.autodesk.jp/",
       "articles": [
+        {
+          "id": "https://area.autodesk.jp/event/autodesk/capcom-games-competition/",
+          "author": null,
+          "description": "株式会社カプコンが主催する「CAPCOM GAMES COMPETITION」にオートデスクは協賛・協力をしています。・・・",
+          "link": "https://area.autodesk.jp/event/autodesk/capcom-games-competition/",
+          "publishedOn": "2025-04-10T01:00:00.000Z",
+          "wordCount": 159,
+          "title": "オートデスク協賛・協力 CAPCOM GAMES COMPETITION",
+          "imageUrl": "https://area.autodesk.jp/event/assets_c/2025/04/ic_capcom_games_competition-thumb-1200xauto-5648.png"
+        },
         {
           "id": "https://area.autodesk.jp/column/tutorial/maya-rigging-basic/06-setup-left-arm/",
           "author": null,

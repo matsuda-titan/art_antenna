@@ -502,6 +502,21 @@
       "siteUrl": "https://3dnchu.com",
       "articles": [
         {
+          "id": "https://3dnchu.com/?p=1053846",
+          "author": "Ymt3D -3dnchu-",
+          "description": "数多くのBlender向けGeometry Nodesモディファイアを公開しているNodes Interactive（@BeltMakerTool）による、UVの伸び具合を視覚化する「Preview UV Stretch」の.blendファイルが無償公開されています。",
+          "link": "https://3dnchu.com/archives/preview-uv-stretch/",
+          "publishedOn": "2025-04-11T00:30:19.000Z",
+          "wordCount": 8888,
+          "title": "Preview UV Stretch - UVの伸び具合を視覚化するGeometry Nodesモディファイアのblendファイル！無料公開！",
+          "enclosure": {
+            "url": "https://3dnchu.com/wp-content/uploads/Preview-UV-Stretch.webp",
+            "length": "477824",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://3dnchu.com/wp-content/uploads/Preview-UV-Stretch.webp"
+        },
+        {
           "id": "https://3dnchu.com/?p=1053826",
           "author": "Ymt3D -3dnchu-",
           "description": "FX 教育を世界に提供するオンライン VFX スクールRebelwayによるHoudiniコース「Stylized 2D Anime & Cartoon Rendering In Houdini」のページが公開されました！",
@@ -1415,51 +1430,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "https://3dnchu.com/wp-content/uploads/Blender-MCP.webp"
-        },
-        {
-          "id": "https://3dnchu.com/?p=1052588",
-          "author": "Ymt3D -3dnchu-",
-          "description": "単発のユニークなアドオンを多数公開しているAlbertoFXが、新たにBlender用のユニークなリトポロジー＆リメッシュアドオン「PolyGen v0.1」をリリースしました！",
-          "link": "https://3dnchu.com/archives/polygen-afx/",
-          "publishedOn": "2025-03-12T10:09:59.000Z",
-          "wordCount": 8818,
-          "title": "PolyGen v0.1 - パーティクルをベースにしたユニークなリメッシュ＆リトポロジーが可能なBlenderアドオンがリリース！",
-          "enclosure": {
-            "url": "https://3dnchu.com/wp-content/uploads/PolyGen.mp4",
-            "length": "3674195",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://3dnchu.com/wp-content/uploads/PolyGen.webp"
-        },
-        {
-          "id": "https://3dnchu.com/?p=1052566",
-          "author": "Ymt3D -3dnchu-",
-          "description": "スケッチ入力をベースに忠実性の高い3Dメッシュを生成する技術「MeshPad: Interactive Sketch Conditioned Artistic-designed Mesh Generation and Editing」のご紹介。",
-          "link": "https://3dnchu.com/archives/meshpad/",
-          "publishedOn": "2025-03-12T02:06:12.000Z",
-          "wordCount": 8951,
-          "title": "MeshPad: Interactive Sketch Conditioned Artistic-designed Mesh Generation and Editing - スケッチ入力をベースに忠実性の高い3Dメッシュを生成する技術！",
-          "enclosure": {
-            "url": "https://3dnchu.com/wp-content/uploads/MeshPad.webp",
-            "length": "993252",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://3dnchu.com/wp-content/uploads/MeshPad.webp"
-        },
-        {
-          "id": "https://3dnchu.com/?p=1052557",
-          "author": "Ymt3D -3dnchu-",
-          "description": "数多くのBlender向けGeometry Nodesアセットなどを販売しているNodes Interactiveから、UVマッピング用のモディファイア「UV Mapper」がリリースされました！",
-          "link": "https://3dnchu.com/archives/uv-mapper-nodes-interactive/",
-          "publishedOn": "2025-03-12T00:52:05.000Z",
-          "wordCount": 8894,
-          "title": "UV Mapper - ビューポート上で直感的に調整可能なGeometry NodesベースのUVマッピングモディファイアが公開！Blender 4.3以降に対応！",
-          "enclosure": {
-            "url": "https://3dnchu.com/wp-content/uploads/UV-Mapper.webp",
-            "length": "971054",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://3dnchu.com/wp-content/uploads/UV-Mapper.webp"
         }
       ]
     },
@@ -1468,6 +1438,16 @@
       "feedUrl": "https://cgworld.jp/atom.xml",
       "siteUrl": "https://cgworld.jp/",
       "articles": [
+        {
+          "id": "https://cgworld.jp/article/cg320-acg-mononoke03.html",
+          "author": null,
+          "description": "『劇場版 モノノ怪 唐傘』のアニメCGメイキングを紹介。",
+          "link": "https://cgworld.jp/article/cg320-acg-mononoke03.html",
+          "publishedOn": "2025-04-11T01:00:11.000Z",
+          "wordCount": 762,
+          "title": "『劇場版モノノ怪 唐傘』（3）カット制作篇 〜物語の舞台となる大奥を浮世絵風に3DCGで再現！ - 特集",
+          "imageUrl": "https://cgworld.jp/article/assets_c/2025/03/main-thumb-918x512-67098.jpg"
+        },
         {
           "id": "https://cgworld.jp/regular/202504-cgw321-book.html",
           "author": null,
@@ -2467,56 +2447,6 @@
           "wordCount": 795,
           "title": "アニメ作画支援、オブジェクト移動制御可能な動画生成に関するAIが登場。AIとXRに関連した注目論文をピックアップ～SIGGGRAPH Asia 2024（2） - 特集",
           "imageUrl": "https://cgworld.jp/article/assets_c/2025/03/ad641ecf487895a2ff786943508c23af4d5ba376-thumb-1000x372-66598.jpg"
-        },
-        {
-          "id": "https://cgworld.jp/flashnews/2503-410houdini.html",
-          "author": null,
-          "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
-          "link": "https://cgworld.jp/flashnews/2503-410houdini.html",
-          "publishedOn": "2025-03-12T03:58:44.000Z",
-          "wordCount": 716,
-          "title": "Houdiniのテクニカル系セッションをお届けするHoudini Tech Seminar「PDGによるキャッシュパブリッシュフローの自動化」4/10（木）東京にてリアル開催！　 - ニュース",
-          "imageUrl": "https://cgworld.jp/flashnews/assets_c/2025/03/2503_houdini_main-thumb-1000x563-66774.jpg"
-        },
-        {
-          "id": "https://cgworld.jp/flashnews/202503-Unwrella-IO.html",
-          "author": null,
-          "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
-          "link": "https://cgworld.jp/flashnews/202503-Unwrella-IO.html",
-          "publishedOn": "2025-03-12T03:31:16.000Z",
-          "wordCount": 696,
-          "title": "UVアンラップ＆パッキングツール「Unwrella-IO」リリース！　ワンクリックでUV作成ができるスタンドアロンツール - ニュース",
-          "imageUrl": "https://cgworld.jp/flashnews/assets_c/2025/03/Unwrella-IO-01-thumb-1280x720-66780.jpg"
-        },
-        {
-          "id": "https://cgworld.jp/special-feature/2503-matsumotocg-award.html",
-          "author": null,
-          "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
-          "link": "https://cgworld.jp/special-feature/2503-matsumotocg-award.html",
-          "publishedOn": "2025-03-12T03:00:00.000Z",
-          "wordCount": 557,
-          "title": "「松本市CGスナップコンテスト」結果発表！長野県松本市の魅力が伝わる入賞作品をご紹介 - スペシャルコンテンツ",
-          "imageUrl": "https://cgworld.jp/special-feature/assets_c/2025/03/2a49a7bc213ac0924e20bd72bb9631f83639e205-thumb-1280x720-66791.jpg"
-        },
-        {
-          "id": "https://cgworld.jp/article/202503-sigasia-ai01.html",
-          "author": null,
-          "description": "「SIGGRAPH Asia2024」をレポート。",
-          "link": "https://cgworld.jp/article/202503-sigasia-ai01.html",
-          "publishedOn": "2025-03-12T01:00:42.000Z",
-          "wordCount": 882,
-          "title": "3年ぶりの東京開催となった「SIGGRAPH Asia 2024」をふり返る（1） - 特集",
-          "imageUrl": "https://cgworld.jp/article/assets_c/2025/02/Main_SA24-thumb-1000x666-66133.jpg"
-        },
-        {
-          "id": "https://cgworld.jp/article/2502-sig2024asia001.html",
-          "author": null,
-          "description": "「SIGGRAPH Asia2024」をレポート。",
-          "link": "https://cgworld.jp/article/2502-sig2024asia001.html",
-          "publishedOn": "2025-03-12T01:00:42.000Z",
-          "wordCount": 882,
-          "title": "3年ぶりの東京開催となった「SIGGRAPH Asia 2024」をふり返る（1） - 特集",
-          "imageUrl": "https://cgworld.jp/article/assets_c/2025/02/Main_SA24-thumb-1000x666-66133.jpg"
         }
       ]
     },
@@ -3090,16 +3020,6 @@
           "wordCount": 3501,
           "title": "Radial Material Picker 円状にマテリアルを表示してモデルに割り当てれるBlender用アドオン",
           "imageUrl": "https://modelinghappy.com/wp-content/uploads/2025/03/20250314_Radial_Material_Picker_01.jpg"
-        },
-        {
-          "id": "https://modelinghappy.com/?p=62077",
-          "author": "modelinghappy",
-          "description": "BlenderMCP BlenderMCPは、Claude AIとBlenderをリアルタイムでプロンプト入力、参考画像を用意して、AIを使って3Dオブジェクトの操作ができるアドオンです。たとえば、「立方体を作って」と指\nThe post BlenderMCP  BlenderをClaudeAIに接続してプロンプト入力または参考画像を読み込み3Dシーンを作成出来る無料アドオン first appeared on 3DCG最新情報サイト MODELING HAPPY.",
-          "link": "https://modelinghappy.com/archives/62077",
-          "publishedOn": "2025-03-12T04:12:54.000Z",
-          "wordCount": 3479,
-          "title": "BlenderMCP  BlenderをClaudeAIに接続してプロンプト入力または参考画像を読み込み3Dシーンを作成出来る無料アドオン",
-          "imageUrl": "https://modelinghappy.com/wp-content/uploads/2025/03/20250312_BlenderMCP_00.jpg"
         }
       ]
     },
@@ -3407,46 +3327,6 @@
           "wordCount": 472,
           "title": "舞台は200年前。アニメ映画『ロード・オブ・ザ・リング／ローハンの戦い』の冒頭10分映像",
           "imageUrl": "https://3dtotal.jp/wp-content/uploads/2025/03/lorrohan_10mins.jpg"
-        },
-        {
-          "id": "https://3dtotal.jp/?p=50313",
-          "author": "3dtotal管理人T",
-          "description": "★edog_StealthWorksMaking_v001（1分40秒） 日本のVFXスタジオ、エフェクト専門会社 StealthWorks より、映画『八犬伝』のVFXリール 　 ★『八犬伝』本予告（1分38秒） 圧倒 […]\nThe post 日本のエフェクト専門会社 StealthWorks より、映画『八犬伝』の VFXリール first appeared on 3dtotal 日本語オフィシャルサイト.",
-          "link": "https://3dtotal.jp/news/50313/",
-          "publishedOn": "2025-03-12T07:05:16.000Z",
-          "wordCount": 511,
-          "title": "日本のエフェクト専門会社 StealthWorks より、映画『八犬伝』の VFXリール",
-          "imageUrl": "https://3dtotal.jp/wp-content/uploads/2025/03/hakkenden_sworks_01.jpg"
-        },
-        {
-          "id": "https://3dtotal.jp/?p=46805",
-          "author": "3dtotal管理人T",
-          "description": "★Masters of the Air VFX breakdown by Rodeo FX（3分） 昨年、『マスターズ・オブ・ザ・エアー』は私たち Rodeo FX のチームを新たな高みへと導きました。このVFXブレイク […]\nThe post スピルバーグ、トム・ハンクス製作総指揮。『マスターズ・オブ・ザ・エアー』の VFXブレイクダウン映像 first appeared on 3dtotal 日本語オフィシャルサイト.",
-          "link": "https://3dtotal.jp/news/46805/",
-          "publishedOn": "2025-03-12T04:00:28.000Z",
-          "wordCount": 524,
-          "title": "スピルバーグ、トム・ハンクス製作総指揮。『マスターズ・オブ・ザ・エアー』の VFXブレイクダウン映像",
-          "imageUrl": "https://3dtotal.jp/wp-content/uploads/2025/03/mastersoftheair_rodeo.jpg"
-        },
-        {
-          "id": "https://3dtotal.jp/?p=50300",
-          "author": "3dtotal管理人T",
-          "description": "★Turning Actors into Animals - Woodwalkers | VFX Breakdown（3分2秒） ドイツの人気児童書『ウッド・ウォーカーズ』を映画化、『Woodwalkers』のVFXブレ […]\nThe post 俳優がリアルな動物に変身!? 原作はドイツの人気児童書。映画『Woodwalkers』の VFXブレイクダウン映像 first appeared on 3dtotal 日本語オフィシャルサイト.",
-          "link": "https://3dtotal.jp/news/50300/",
-          "publishedOn": "2025-03-12T03:16:56.000Z",
-          "wordCount": 532,
-          "title": "俳優がリアルな動物に変身!? 原作はドイツの人気児童書。映画『Woodwalkers』の VFXブレイクダウン映像",
-          "imageUrl": "https://3dtotal.jp/wp-content/uploads/2025/03/woodwalkers_pxo.jpg"
-        },
-        {
-          "id": "https://3dtotal.jp/?p=50292",
-          "author": "3dtotal管理人T",
-          "description": "★UE India Sizzle 2024（1分28秒） 2024年、インドのクリエイターたちは、Unreal Engine のツールキットをフル活用しました! インドから生まれた UE と UEFN で作られた素晴らし […]\nThe post インドのクリエイターたちによる Unreal Engine リール：UE India Sizzle 2024 first appeared on 3dtotal 日本語オフィシャルサイト.",
-          "link": "https://3dtotal.jp/news/50292/",
-          "publishedOn": "2025-03-12T02:28:38.000Z",
-          "wordCount": 547,
-          "title": "インドのクリエイターたちによる Unreal Engine リール：UE India Sizzle 2024",
-          "imageUrl": "https://3dtotal.jp/wp-content/uploads/2025/03/ue_indiasreel24.jpg"
         }
       ]
     },

@@ -12,6 +12,31 @@
       "siteUrl": "https://cgbox.jp",
       "articles": [
         {
+          "id": "https://cgbox.jp/?p=62890",
+          "author": "kasahara",
+          "description": "こんばんは！ 今回はアドオンの「X-Ray Selection Tools」を紹介します。 こちらのリンクから購入することができます。 X-Ray Selection Tools 「X-Ray Selection Too […]",
+          "link": "https://cgbox.jp/2025/04/12/news-addon-x-ray-selection-tools/",
+          "publishedOn": "2025-04-12T05:27:05.000Z",
+          "wordCount": 2251,
+          "title": "【エクステンション紹介】X-Ray Selection Tools – 透過選択をより効率化！",
+          "imageUrl": "https://cgbox.jp/wp-content/uploads/2025/04/da12cf873efd51986cc8748ba1cd938eca6a5f05793965df7620187e9aa004cb_640x360.webp"
+        },
+        {
+          "id": "https://cgbox.jp/?p=62886",
+          "author": "kasahara",
+          "description": "こんばんは！ 今回はアドオンの「Sanctus Wood Works」を紹介します。 こちらのリンクから購入することができます。 Sanctus Wood Works 「Sanctus Wood Works」は、高品質な […]",
+          "link": "https://cgbox.jp/2025/04/11/news-addon-sanctus-wood-works/",
+          "publishedOn": "2025-04-11T07:26:05.000Z",
+          "wordCount": 2222,
+          "title": "【アセット紹介】Sanctus Wood Works – 木目マテリアルをカスタムして作る！",
+          "enclosure": {
+            "url": "https://cgbox.jp/wp-content/uploads/2025/04/customgif2-1.mp4",
+            "length": "0",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://cgbox.jp/wp-content/uploads/2025/04/image_processing20250407-2-rovxxh.jpg"
+        },
+        {
           "id": "https://cgbox.jp/?p=62880",
           "author": "kasahara",
           "description": "こんばんは！ 今回はアドオンの「Mega Assets」を紹介します。 こちらのリンクから購入することができます。 Mega Assets 「Mega Assets」は、有名なマテリアルアセットサイトにアクセスして、簡単 […]",
@@ -430,36 +455,6 @@
             "type": "video/mp4"
           },
           "imageUrl": "https://cgbox.jp/wp-content/uploads/2025/03/image_processing20250312-2-1y4wlkp.png"
-        },
-        {
-          "id": "https://cgbox.jp/?p=62487",
-          "author": "kasahara",
-          "description": "こんばんは！ 今回はアドオンの「Xyz Mapper」を紹介します。 こちらのリンクから購入することができます。 Xyz Mapper 「Xyz Mapper」は、シーン上でUVマッピングを調整することができるアドオン。 […]",
-          "link": "https://cgbox.jp/2025/03/13/news-addon-xyz-mapper/",
-          "publishedOn": "2025-03-13T05:35:41.000Z",
-          "wordCount": 2229,
-          "title": "【アセット紹介】Xyz Mapper – シーン上でUVの調整！",
-          "enclosure": {
-            "url": "https://cgbox.jp/wp-content/uploads/2025/03/4733326fa74efa2ef9a3ce0b27c99138.mp4",
-            "length": "0",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://cgbox.jp/wp-content/uploads/2025/03/image_processing20250312-2-142yf2o.jpg"
-        },
-        {
-          "id": "https://cgbox.jp/?p=62484",
-          "author": "kasahara",
-          "description": "こんばんは！ 今回はアドオンの「Organic Addon」を紹介します。 こちらのリンクから購入することができます。 Organic Addon 「Organic Addon」は、血の膜のようなオブジェクトを簡単生成で […]",
-          "link": "https://cgbox.jp/2025/03/12/news-addon-organic-addon/",
-          "publishedOn": "2025-03-12T07:19:40.000Z",
-          "wordCount": 2278,
-          "title": "【アドオン紹介】Organic Addon – 血管の膜を簡単作成！",
-          "enclosure": {
-            "url": "https://cgbox.jp/wp-content/uploads/2025/03/157ea3e0d7fc9972c1a475ef1004e51d.mp4",
-            "length": "0",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://cgbox.jp/wp-content/uploads/2022/05/cropped-favicon.png"
         }
       ]
     },
@@ -3558,6 +3553,16 @@
       "feedUrl": "https://qiita.com/tags/maya/feed",
       "siteUrl": "https://qiita.com",
       "articles": [
+        {
+          "id": "https://qiita.com/scixarts/items/fd99520317e8c8a30c71",
+          "author": null,
+          "description": "環境\n\nWindows\nAutodesk Maya 2026\n\nMayaのUSDツールセット\nMayaにはUSDのライブラリと一緒に USDツールセット も同梱されています。\nMayaに同梱されているU…",
+          "link": "https://qiita.com/scixarts/items/fd99520317e8c8a30c71",
+          "publishedOn": "2025-04-12T03:49:49.000Z",
+          "wordCount": 736,
+          "title": "Mayaに同梱されているUSDツールセットの利用方法",
+          "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnNlY3VyZS5ncmF2YXRhci5jb20lMkZhdmF0YXIlMkYwNTUwM2ExMzBiOTdmZmM5ZGQ4YTY4Y2M1NzJkNGZlMT9peGxpYj1yYi00LjAuMCZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmZm09cG5nMzImcz04NTM2OTYxNmJhMmViNTRjZWExOTRlMGYzM2E4ZDFkYQ%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D7f87386c08f818f62b56401e43004403?ixlib=rb-4.0.0&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9TWF5YSVFMyU4MSVBQiVFNSU5MCU4QyVFNiVBMiVCMSVFMyU4MSU5NSVFMyU4MiU4QyVFMyU4MSVBNiVFMyU4MSU4NCVFMyU4MiU4QlVTRCVFMyU4MyU4NCVFMyU4MyVCQyVFMyU4MyVBQiVFMyU4MiVCQiVFMyU4MyU4MyVFMyU4MyU4OCVFMyU4MSVBRSVFNSU4OCVBOSVFNyU5NCVBOCVFNiU5NiVCOSVFNiVCMyU5NSZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnR4dC1wYWQ9MCZzPTUyNGRlODEwZTk1YWRhM2NiMTI0YzY5ZTIyMzZmM2Yz&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBzY2l4YXJ0cyZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPTExNjdhNzEyODc0OWI0Yzg4ZjlmYmZmNjY1NTE0NzA4&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=f220cda7d64fe017c40fb4df58af8b5b"
+        },
         {
           "id": "https://qiita.com/mcal5/items/a70b1cf5b77b3c232d45",
           "author": null,

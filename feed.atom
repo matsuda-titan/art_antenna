@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-04-12T08:12:26.483Z</updated>
+    <updated>2025-04-12T12:17:34.390Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[RustでGPUシェーダーが書ける【Rust GPU】]]></title>
+        <id>https://qiita.com/yonaka15/items/eebeaba894f6532762e3</id>
+        <link href="https://qiita.com/yonaka15/items/eebeaba894f6532762e3"/>
+        <updated>2025-04-12T11:23:53.000Z</updated>
+        <summary type="html"><![CDATA[はじめに
+GPUプログラミングといえば、GLSL、HLSL、WGSLなどの専用シェーダー言語を使うのが一般的です。しかし、これらの言語は大規模なコードベースの管理が難しく、現代的なプログラミング言語…]]></summary>
+        <author>
+            <name>Shaderタグが付けられた新着記事 - Qiita</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【エクステンション紹介】X-Ray Selection Tools – 透過選択をより効率化！]]></title>
         <id>https://cgbox.jp/?p=62890</id>

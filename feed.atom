@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-04-13T12:17:40.966Z</updated>
+    <updated>2025-04-14T00:54:08.293Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Uv Sandbox BlenderでUVに物理演算を使用してUV同士をぶつけたりシミュレーションして配置出来るアドオン]]></title>
+        <id>https://modelinghappy.com/?p=62623</id>
+        <link href="https://modelinghappy.com/archives/62623"/>
+        <updated>2025-04-14T00:24:21.000Z</updated>
+        <summary type="html"><![CDATA[Uv Sandbox Uv SandboxはBlenderでUVに物理演算を使用してUVアイランド同氏をぶつけて簡単に移動、シャッフル、必要なUVを選択して落下、衝突、跳ね返りのシミュレーションでレイアウト出来るアドオン
+The post Uv Sandbox BlenderでUVに物理演算を使用してUV同士をぶつけたりシミュレーションして配置出来るアドオン first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
+        <author>
+            <name>modelinghappy</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【エクステンション紹介】Place Helper – オブジェクトの配置を効率化！]]></title>
         <id>https://cgbox.jp/?p=62894</id>
@@ -3373,18 +3384,6 @@ The post Blender初心者向け 美しいセルルック調の作品6つの制�
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【VRChat】Quest でも GPU Particle したい！]]></title>
-        <id>https://qiita.com/yuri_tsukimi/items/84cd306699c7d8777b57</id>
-        <link href="https://qiita.com/yuri_tsukimi/items/84cd306699c7d8777b57"/>
-        <updated>2025-03-15T07:40:58.000Z</updated>
-        <summary type="html"><![CDATA[GPU Particle を書いたことがある人向けの記事です．
-概要
-GPU Particle ではよく Geometry Shader を使いますが，Quest (Android) 環境では Ge…]]></summary>
-        <author>
-            <name>Shaderタグが付けられた新着記事 - Qiita</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【アドオン紹介】Blender Live Paint Filter V3.0 – 油絵フィルターアセットがアップデート！]]></title>
         <id>https://cgbox.jp/?p=62500</id>
         <link href="https://cgbox.jp/2025/03/15/news-addon-blender-live-paint-filter/"/>
@@ -3392,55 +3391,6 @@ GPU Particle ではよく Geometry Shader を使いますが，Quest (Android) �
         <summary type="html"><![CDATA[こんばんは！ 今回はアドオンの「Blender Live Paint Filter V3.0 」を紹介します。 こちらのリンクから購入することができます。 Blender Live Paint Filter V3.0 「 […]]]></summary>
         <author>
             <name>kasahara</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Substance 3D Painter にツールバーを追加する]]></title>
-        <id>https://qiita.com/scixarts/items/be9222288ef848176576</id>
-        <link href="https://qiita.com/scixarts/items/be9222288ef848176576"/>
-        <updated>2025-03-15T04:41:16.000Z</updated>
-        <summary type="html"><![CDATA[環境
-
-Windows
-Adobe Substance 3D Painter 10.1.2
-
-ツールバーの追加
-「Substance 3D Painterにメニューを追加する」に関連する内容です。
-Su…]]></summary>
-        <author>
-            <name>SubstancePainterタグが付けられた新着記事 - Qiita</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[無料で商用利用可能になったPlantFactoryの23,193種類のハイポリ、ローポリ植物データを直接Blenderにインポート出来るPf2Bアドオン]]></title>
-        <id>https://modelinghappy.com/?p=62097</id>
-        <link href="https://modelinghappy.com/archives/62097"/>
-        <updated>2025-03-15T03:28:51.000Z</updated>
-        <summary type="html"><![CDATA[Pf2B #8211; Plantfactory To Blender PF2B (PlantFactory to Blender) は、e-on ソフトウェアの無料で商用にも利用可能になったPlantFactoryで
-The post 無料で商用利用可能になったPlantFactoryの23,193種類のハイポリ、ローポリ植物データを直接Blenderにインポート出来るPf2Bアドオン first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
-        <author>
-            <name>modelinghappy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Xyz Mapper Blenderでモデルに平面、ボックス、円筒形、球形のUVマッピングをビューポート上でリアルタイムに調整変更出来るモディファイア]]></title>
-        <id>https://modelinghappy.com/?p=62091</id>
-        <link href="https://modelinghappy.com/archives/62091"/>
-        <updated>2025-03-15T02:48:33.000Z</updated>
-        <summary type="html"><![CDATA[Xyz Mapper Blenderで便利なアドオンを複数作成しているNodes Interactiveさんが、モデルに平面、ボックス、円筒形、球形のUVマッピングをビューポート上でリアルタイムに調整変更出来るモディファ
-The post Xyz Mapper Blenderでモデルに平面、ボックス、円筒形、球形のUVマッピングをビューポート上でリアルタイムに調整変更出来るモディファイア first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
-        <author>
-            <name>modelinghappy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PF2B - 開発終了で無料化された「PlantFactory」の植物3Dモデルを簡単にBlenderにインポート可能にするアドオン！]]></title>
-        <id>https://3dnchu.com/?p=1052699</id>
-        <link href="https://3dnchu.com/archives/pf2b/"/>
-        <updated>2025-03-15T02:18:48.000Z</updated>
-        <summary type="html"><![CDATA[Roberd Palm氏が、無料化された「PlantFactory」の植物3Dモデルを簡単にBlenderにインポート可能にするアドオン「PF2B」を公開しました！]]></summary>
-        <author>
-            <name>Ymt3D -3dnchu-</name>
         </author>
     </entry>
 </feed>

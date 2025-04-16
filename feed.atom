@@ -2,10 +2,52 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-04-16T00:52:33.095Z</updated>
+    <updated>2025-04-16T03:31:31.419Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[バーチャル撮影。WetaFX より、映画『猿の惑星／キングダム』のメイキング映像]]></title>
+        <id>https://3dtotal.jp/?p=49854</id>
+        <link href="https://3dtotal.jp/news/49854/"/>
+        <updated>2025-04-16T03:02:45.000Z</updated>
+        <summary type="html"><![CDATA[★Virtual Cinematography for Kingdom of the Planet of the Apes: The Human Silo（2分15秒） 映画『猿の惑星/キングダム』では主にロケ撮影が行わ […]
+The post バーチャル撮影。WetaFX より、映画『猿の惑星／キングダム』のメイキング映像 first appeared on 3dtotal 日本語オフィシャルサイト.]]></summary>
+        <author>
+            <name>3dtotal管理人T</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Houdini 使用事例：Karma XPU の活用 – Cause and FX のバーチャルプロダクション]]></title>
+        <id>https://3dtotal.jp/?p=50739</id>
+        <link href="https://3dtotal.jp/news/50739/"/>
+        <updated>2025-04-16T02:59:20.000Z</updated>
+        <summary type="html"><![CDATA[★Virtual Production | Cause and FX | Houdini Connect（3分35秒） ニュージーランドのオークランドにある Cause and FX のリードCGテクニカルアーティスト  […]
+The post Houdini 使用事例：Karma XPU の活用 - Cause and FX のバーチャルプロダクション first appeared on 3dtotal 日本語オフィシャルサイト.]]></summary>
+        <author>
+            <name>3dtotal管理人T</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【新講座】Scanline VFX・坂口 亮氏による特別講座シリーズの第3弾!『プロジェクトマネージメントのエッセンス～ツールに依存しないプロジェクトをスムーズ回すための方法論 ～』が5月8日（木）に開催決定 - ニュース]]></title>
+        <id>https://cgworld.jp/flashnews/scanline-vfx-3-58.html</id>
+        <link href="https://cgworld.jp/flashnews/scanline-vfx-3-58.html"/>
+        <updated>2025-04-16T01:24:18.000Z</updated>
+        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[スタイル転写を適用した実験的ショートフィルム『Forest Tale』についてグラフィニカが制作内容を解説～あにつく2024（4） - 特集]]></title>
+        <id>https://cgworld.jp/article/202504-atsuc2024-04.html</id>
+        <link href="https://cgworld.jp/article/202504-atsuc2024-04.html"/>
+        <updated>2025-04-16T01:00:06.000Z</updated>
+        <summary type="html"><![CDATA[「あにつく2024」グラフィニカ セミナー「実験的ショートフィルム『Forest Tale』山あり谷あり」レポート]]></summary>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[RopesScript ２つのロケーターを選択するだけで垂れ下がったカーブを簡単作成出来るMaya用無料プラグイン]]></title>
         <id>https://modelinghappy.com/?p=62653</id>
@@ -3457,40 +3499,6 @@ The post 小規模チーム＆スタジオが Unreal Engine で制作したゲ�
         <link href="https://3dnchu.com/archives/hair-wrangler-for-blender/"/>
         <updated>2025-03-17T15:44:11.000Z</updated>
         <summary type="html"><![CDATA[キャラクターアーティストのDanny Mac 3D氏がシルエットを意識したヘアーを構築出来るBlenderアドオン「Hair Wrangler for Blender」の無料版を公開しました！]]></summary>
-        <author>
-            <name>Ymt3D -3dnchu-</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[USD SkelAnimation のメモ]]></title>
-        <id>https://zenn.dev/syoyo/articles/558ac14e0a1784</id>
-        <link href="https://zenn.dev/syoyo/articles/558ac14e0a1784"/>
-        <updated>2025-03-17T14:50:57.000Z</updated>
-        <summary type="html"><![CDATA[Blender で読む場合,
-translations, rotations, scales 全て author(値をセット)しなければならない
-Blender 側ではエラーを出さないので気づきにくい
-また, 各 attribute の　timeSamples の個数も同じでなければならない
-https://openusd.org/dev/api/_usd_skel__schemas.html#UsdSkel_SkelAnimation]]></summary>
-        <author>
-            <name>syoyo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[UnityMCP ＆ MCP Unity - Claudeなどの対話型生成AIとUnityを連携可能にするMPC（Model Context Protocol）！Github上で複数公開中！]]></title>
-        <id>https://3dnchu.com/?p=1052794</id>
-        <link href="https://3dnchu.com/archives/unitymcp-mcp-unity/"/>
-        <updated>2025-03-17T13:43:48.000Z</updated>
-        <summary type="html"><![CDATA[Unity用のMCPはGithub上に2つ「UnityMCP」と「MCP Unity」が存在していますので紹介いたします！]]></summary>
-        <author>
-            <name>Ymt3D -3dnchu-</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HoudiniMCP - Claudeなどの対話型生成AIとHoudiniを連携可能にするMPC（Model Context Protocol）がGithub上で公開！]]></title>
-        <id>https://3dnchu.com/?p=1052781</id>
-        <link href="https://3dnchu.com/archives/houdini-mcp/"/>
-        <updated>2025-03-17T13:23:43.000Z</updated>
-        <summary type="html"><![CDATA[Merih Oztaylan氏が、対話型生成AIのClaudeなどとHoudiniを連携させる為の「HoudiniMCP - Houdini Model Context Protocol Integration」をGithub上で無償公開しました！]]></summary>
         <author>
             <name>Ymt3D -3dnchu-</name>
         </author>

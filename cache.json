@@ -492,6 +492,36 @@
       "siteUrl": "https://3dnchu.com",
       "articles": [
         {
+          "id": "https://3dnchu.com/?p=1054036",
+          "author": "Ymt3D -3dnchu-",
+          "description": "オックスフォード大学 視覚幾何学グループのZeren Jiang氏らによる、動画生成AIを活用し映像からシーン形状を再構築する技術アプローチ「Geo4D: Leveraging Video Generators for Geometric 4D Scene Reconstruction」が公開されています！",
+          "link": "https://3dnchu.com/archives/geo4d/",
+          "publishedOn": "2025-04-17T15:13:37.000Z",
+          "wordCount": 8960,
+          "title": "Geo4D: Leveraging Video Generators for Geometric 4D Scene Reconstruction - 動画生成AIを活用し映像からシーン形状を再構築する技術！",
+          "enclosure": {
+            "url": "https://3dnchu.com/wp-content/uploads/Geo4D.webp",
+            "length": "868128",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://3dnchu.com/wp-content/uploads/Geo4D.webp"
+        },
+        {
+          "id": "https://3dnchu.com/?p=1054034",
+          "author": "Ymt3D -3dnchu-",
+          "description": "テクニカルアーティスト＆ジェネラリストのいすず氏による、Unity向けMCP（Model Context Protocol）がGithub上でリリースされています！",
+          "link": "https://3dnchu.com/archives/unitymcp-isuzu-shiranui/",
+          "publishedOn": "2025-04-17T14:56:11.000Z",
+          "wordCount": 8933,
+          "title": "Unity MCP 統合フレームワーク - いすず氏によるUnity向けMCP（Model Context Protocol）がGithub上で公開！",
+          "enclosure": {
+            "url": "https://3dnchu.com/wp-content/uploads/UnityMCP-isuzu-shiranui.png",
+            "length": "76617",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://3dnchu.com/wp-content/uploads/UnityMCP-isuzu-shiranui.png"
+        },
+        {
           "id": "https://3dnchu.com/?p=1054014",
           "author": "Ymt3D -3dnchu-",
           "description": "汎用性＆拡張性の高い一人称視点テンプレートをお求めの方に朗報！TreetyによるUnreal Engine5向けのファーストパーソンテンプレートプロジェクト「First-Person Movement Template V1」がFab上で個人向けに無料公開されています！",
@@ -1285,36 +1315,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "https://3dnchu.com/wp-content/uploads/aaa-game-chara-create-ssguide-wingfox.webp"
-        },
-        {
-          "id": "https://3dnchu.com/?p=1052918",
-          "author": "Ymt3D -3dnchu-",
-          "description": "Jared Taylor氏がプロシージャルなヒットリアクションを簡単に追加出来る無料＆オープンソースのUnreal Engine 5向けプラグイン「Proc Hit React v1.0」をGithub上で公開しました！",
-          "link": "https://3dnchu.com/archives/proc-hit-react-v1-0/",
-          "publishedOn": "2025-03-19T10:34:34.000Z",
-          "wordCount": 8920,
-          "title": "Proc Hit React v1.0 - プロシージャルなヒットリアクションを簡単に追加出来る無料＆オープンソースのUnreal Engine 5向けプラグイン！",
-          "enclosure": {
-            "url": "https://3dnchu.com/wp-content/uploads/proc-hit-react-v1-0.webp",
-            "length": "1050382",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://3dnchu.com/wp-content/uploads/proc-hit-react-v1-0.webp"
-        },
-        {
-          "id": "https://3dnchu.com/?p=1052759",
-          "author": "Ymt3D -3dnchu-",
-          "description": "株式会社Indie-us Gamesが2025年5月17日に京都コンピュータ学院にてゲーム開発カンファレンス＆インディーゲーム出展イベント『OPEN GAME FEST 2025』を開催予定です！",
-          "link": "https://3dnchu.com/archives/open-game-fest-2025/",
-          "publishedOn": "2025-03-19T04:44:36.000Z",
-          "wordCount": 8901,
-          "title": "OPEN GAME FEST 2025 - ゲーム開発カンファレンス＆インディーゲーム出展イベント！2025年5月17日に京都コンピュータ学院にて開催決定！ #OGF #OPENGAMEFEST",
-          "enclosure": {
-            "url": "https://3dnchu.com/wp-content/uploads/OpenGameFest2025.jpg",
-            "length": "83616",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://3dnchu.com/wp-content/uploads/OpenGameFest2025.jpg"
         }
       ]
     },
@@ -2292,56 +2292,6 @@
           "wordCount": 898,
           "title": "「Wonder Studio」が「Autodesk Flow Studio」へ　新機能のカメラトラッキング、フレームからのアクターの除去、モーション予測も実装 - ニュース",
           "imageUrl": "https://cgworld.jp/flashnews/assets_c/2025/03/Flow_Studio-01-thumb-1080x607-67078.jpg"
-        },
-        {
-          "id": "https://cgworld.jp/flashnews/202503-Meta-uCO3D.html",
-          "author": null,
-          "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
-          "link": "https://cgworld.jp/flashnews/202503-Meta-uCO3D.html",
-          "publishedOn": "2025-03-19T06:20:09.000Z",
-          "wordCount": 771,
-          "title": "Meta、3Dオブジェクトのデータセット「uCO3D」公開！　3Dモデル生成AIなどに活用できるアノテーション付き高品質オブジェクトコレクション - ニュース",
-          "imageUrl": "https://cgworld.jp/flashnews/assets_c/2025/03/uCO3D-01-thumb-952x535-67032.jpg"
-        },
-        {
-          "id": "https://cgworld.jp/flashnews/cgwe-remote.html",
-          "author": null,
-          "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
-          "link": "https://cgworld.jp/flashnews/cgwe-remote.html",
-          "publishedOn": "2025-03-19T03:30:00.000Z",
-          "wordCount": 694,
-          "title": "＜企業アンケート実施中＞フルリモート採用の今を調査！　【参加無料の記事企画】 - ニュース",
-          "imageUrl": "https://cgworld.jp/flashnews/assets_c/2025/03/research_banner%20%282%29%20%281%29-thumb-1920x1080-67007.jpg"
-        },
-        {
-          "id": "https://cgworld.jp/flashnews/202503-Avat3r.html",
-          "author": null,
-          "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
-          "link": "https://cgworld.jp/flashnews/202503-Avat3r.html",
-          "publishedOn": "2025-03-19T03:13:01.000Z",
-          "wordCount": 738,
-          "title": "4枚の顔写真からアバター頭部モデルを生成できる手法「Avat3r」発表！　高品質かつフェイシャルアニメーション可能な3D Gaussian Splattingモデル、オープンソース - ニュース",
-          "imageUrl": "https://cgworld.jp/flashnews/assets_c/2025/03/Avat3r-01-thumb-1280x720-67008.jpg"
-        },
-        {
-          "id": "https://cgworld.jp/special-feature/2503-kurihakurepo.html",
-          "author": null,
-          "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
-          "link": "https://cgworld.jp/special-feature/2503-kurihakurepo.html",
-          "publishedOn": "2025-03-19T01:28:12.000Z",
-          "wordCount": 549,
-          "title": "ゲーム業界のプロからフィードバックをもらうチャンス！ クリ博 ポートフォリオ相談会レポート - スペシャルコンテンツ",
-          "imageUrl": "https://cgworld.jp/special-feature/assets_c/2025/03/2502PF_report_v3-thumb-1000x563-67015.png"
-        },
-        {
-          "id": "https://cgworld.jp/article/cgw319-medalist03.html",
-          "author": null,
-          "description": "TVアニメ 『メダリスト』のアニメCGメイキングを紹介。",
-          "link": "https://cgworld.jp/article/cgw319-medalist03.html",
-          "publishedOn": "2025-03-19T01:01:27.000Z",
-          "wordCount": 736,
-          "title": "TVアニメ『メダリスト』フィギュアスケートのモーションキャプチャに挑戦した注目作〜 （3）アニメーション付け篇 - 特集",
-          "imageUrl": "https://cgworld.jp/article/assets_c/2025/02/ep101_sq001_sh008d00_053F-thumb-1000x563-65918.jpg"
         }
       ]
     },
@@ -2396,6 +2346,26 @@
       "feedUrl": "https://modelinghappy.com/feed",
       "siteUrl": "https://modelinghappy.com",
       "articles": [
+        {
+          "id": "https://modelinghappy.com/?p=62702",
+          "author": "modelinghappy",
+          "description": "Retopoflow 4 [Beta] Blenderでリトポロジーするのに大人気アドオンRetopoflowがアップデートされ4のbeta版がリリースされました。現在リリース特典として26ドルオフですが、さらに前作バー\nThe post Blenderでリトポロジーするのが便利になる大人気アドオンRetopoflow4のベータ版がリリースされました first appeared on 3DCG最新情報サイト MODELING HAPPY.",
+          "link": "https://modelinghappy.com/archives/62702",
+          "publishedOn": "2025-04-17T22:38:24.000Z",
+          "wordCount": 3447,
+          "title": "Blenderでリトポロジーするのが便利になる大人気アドオンRetopoflow4のベータ版がリリースされました",
+          "imageUrl": "https://modelinghappy.com/wp-content/uploads/2025/04/20250418_retopoflow4_01.jpg"
+        },
+        {
+          "id": "https://modelinghappy.com/?p=62697",
+          "author": "modelinghappy",
+          "description": "Superhive Launch Bundle BlendermarketからSuperhiveに名前が変更された記念として厳選された人気アドオンやアセット28種類セットで定価825.74ドルが30ドルとなる超お得なバン\nThe post Blenderで使える大人気アドオンやアセットが28種類で定価825.74ドルが30ドルとなる超お得なバンドルパックSuperhive Launch Bundleが販売開始！ first appeared on 3DCG最新情報サイト MODELING HAPPY.",
+          "link": "https://modelinghappy.com/archives/62697",
+          "publishedOn": "2025-04-17T22:08:30.000Z",
+          "wordCount": 3584,
+          "title": "Blenderで使える大人気アドオンやアセットが28種類で定価825.74ドルが30ドルとなる超お得なバンドルパックSuperhive Launch Bundleが販売開始！",
+          "imageUrl": "https://modelinghappy.com/wp-content/uploads/2025/04/20250418_best_sellers_fresh_finds_01.jpg"
+        },
         {
           "id": "https://modelinghappy.com/?p=62684",
           "author": "modelinghappy",
@@ -2925,16 +2895,6 @@
           "wordCount": 3471,
           "title": "Blender初心者におすすめ書籍レビュー  (解説動画付)10日でBlender練習帳 あかりの灯るお部屋",
           "imageUrl": "https://modelinghappy.com/wp-content/uploads/2025/03/20250320_blender_book_01.jpg"
-        },
-        {
-          "id": "https://modelinghappy.com/?p=62153",
-          "author": "modelinghappy",
-          "description": "blender4.4 Blender4.4が2025年3月18日にリリースされました。 Blender4.4は品質と安定性を重視するバージョンアップで、500以上報告された問題の修正、アニメーションをすべて1つのアクショ\nThe post blender4.4リリース 新機能まとめ first appeared on 3DCG最新情報サイト MODELING HAPPY.",
-          "link": "https://modelinghappy.com/archives/62153",
-          "publishedOn": "2025-03-19T05:44:08.000Z",
-          "wordCount": 3516,
-          "title": "blender4.4リリース 新機能まとめ",
-          "imageUrl": "https://modelinghappy.com/wp-content/uploads/2025/03/20250319_blender4.4_00.jpg"
         }
       ]
     },
@@ -3262,26 +3222,6 @@
           "wordCount": 535,
           "title": "デジタルで造られた 忘れられない物語の背景、Image Engine の デジタルマットペイント リール",
           "imageUrl": "https://3dtotal.jp/wp-content/uploads/2025/03/dmp_ie.jpg"
-        },
-        {
-          "id": "https://3dtotal.jp/?p=50392",
-          "author": "3dtotal管理人T",
-          "description": "★Virtual Cinematography in Godzilla X Kong: The New Empire（2分15秒） 空もなく、時には重力もない環境で 高さ 300フィート(約91.5m)の巨人を正しく見せ […]\nThe post バーチャル撮影！ WetaFX より、映画『ゴジラxコング 新たなる帝国』のメイキング映像 first appeared on 3dtotal 日本語オフィシャルサイト.",
-          "link": "https://3dtotal.jp/news/50392/",
-          "publishedOn": "2025-03-19T08:49:53.000Z",
-          "wordCount": 538,
-          "title": "バーチャル撮影！ WetaFX より、映画『ゴジラxコング 新たなる帝国』のメイキング映像",
-          "imageUrl": "https://3dtotal.jp/wp-content/uploads/2025/03/godzilakong_weta.jpg"
-        },
-        {
-          "id": "https://3dtotal.jp/?p=50383",
-          "author": "3dtotal管理人T",
-          "description": "Splash artwork: Flow © Dream Well Studio, Sacrebleu Productions, Take Five Image licensed under CC-BY-SA – htt […]\nThe post アニメーションワークフローの改善、モデリングの向上、新しいスカルプトブラシ..。Blender 4.4 リリース first appeared on 3dtotal 日本語オフィシャルサイト.",
-          "link": "https://3dtotal.jp/news/50383/",
-          "publishedOn": "2025-03-19T03:03:23.000Z",
-          "wordCount": 615,
-          "title": "アニメーションワークフローの改善、モデリングの向上、新しいスカルプトブラシ..。Blender 4.4 リリース",
-          "imageUrl": "https://3dtotal.jp/wp-content/uploads/2025/03/blender4_4_flow.jpg"
         }
       ]
     },
@@ -3951,26 +3891,6 @@
           "wordCount": 559,
           "title": "MayaのXGenを使用したフォトリアルなファー表現 第6回：動物のファーの制作〜シェーディング/レンダリング設定、完成まで",
           "imageUrl": "https://area.autodesk.jp/column/assets_c/2025/03/ic_maya_xgen_vo06_2_1400x782-thumb-1200xauto-5626.jpg"
-        },
-        {
-          "id": "https://area.autodesk.jp/jobs/galaxy-graphics/",
-          "author": null,
-          "description": "あらゆるエンタテインメントに\"感動体験\"を！！ギャラクシーグラフィックスは2013年にフルCGアニメーション制作及びぱちんこパチスロの画像開発を主軸とした映像制作会社として発足しました。しかし、昨今のエンタテインメント市場はデジタルコンテンツの急速な発展により多種多様となり、お客様のニーズも千差万別となりました。その無限大の可能性があるコンテンツ市場に対して、当社のコンテンツを作り上げる技術力と創造力の領域を更に拡大させていきます。今後も遊技機の画像開発業務を主軸とし、映画、アニメ、ゲーム、ネットワークコンテンツなどの多彩なエンタテインメントにおいて、お客様の期待を超えるような感動体験を届けてまいります。・・・",
-          "link": "https://area.autodesk.jp/jobs/galaxy-graphics/",
-          "publishedOn": "2025-03-19T01:30:00.000Z",
-          "wordCount": 256,
-          "title": "求人情報 ギャラクシーグラフィックス",
-          "imageUrl": "https://area.autodesk.jp/jobs/assets_c/2024/09/ic_jobs_galaxy_graphics_2_1200x670-thumb-1200xauto-5564.png"
-        },
-        {
-          "id": "https://area.autodesk.jp/column/tutorial/3ds-max-plugin/03-3d-scans-effects/",
-          "author": null,
-          "description": "今回は3ds MaxとtyFlowに加えてスマートフォンで収録出来る3Dスキャンデータを活用した内容となっております。tyFlow導入の手順などは前々回の「第1回：もう怖くない！無料で始めるtyFlowと仕組みを公開！」をご確認くださいませ。前回の記事と同じくtyFlow FREE v1.123で進めております。後半でtyFlowPROに関しても触れております。・・・",
-          "link": "https://area.autodesk.jp/column/tutorial/3ds-max-plugin/03-3d-scans-effects/",
-          "publishedOn": "2025-03-19T01:00:00.000Z",
-          "wordCount": 460,
-          "title": "3ds Max：プラグイン活用で表現の幅を拡げよう！ 第3回：3Dスキャンとエフェクトを絡めて遊ぼう",
-          "imageUrl": "https://area.autodesk.jp/column/assets_c/2025/03/ic_3ds_max_plugin_vol03_1400x782-thumb-1200xauto-5628.jpg"
         }
       ]
     }

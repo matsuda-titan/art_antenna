@@ -420,21 +420,6 @@
             "type": "video/mp4"
           },
           "imageUrl": "https://cgbox.jp/wp-content/uploads/2025/03/image_processing20250319-2-1k64mb8.png"
-        },
-        {
-          "id": "https://cgbox.jp/?p=62701",
-          "author": "kasahara",
-          "description": "こんばんは！ 今回はアドオンの「Quick Groups」を紹介します。 こちらのリンクから購入することができます。 Quick Groups 「Quick Groups」は、インスタンスをシーンから直接作成できるアドオ […]",
-          "link": "https://cgbox.jp/2025/03/23/news-addon-quick-groups/",
-          "publishedOn": "2025-03-23T06:15:30.000Z",
-          "wordCount": 2256,
-          "title": "【エクステンション紹介！】Quick Groups – インスタンスを簡単作成！",
-          "enclosure": {
-            "url": "https://cgbox.jp/wp-content/uploads/2025/03/27806f8a4d7eaa6ddca9d0c0cffa3cb3.mp4",
-            "length": "0",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://cgbox.jp/wp-content/uploads/2025/03/38f2245ad68d59a3b12c9577e982feb0e86596f27594bd59d1139158ec128746_1920x1080.webp"
         }
       ]
     },
@@ -1323,6 +1308,26 @@
       "feedUrl": "https://cgworld.jp/atom.xml",
       "siteUrl": "https://cgworld.jp/",
       "articles": [
+        {
+          "id": "https://cgworld.jp/regular/202504-chiyama-t-8-1.html",
+          "author": null,
+          "description": "本連載では、CG映像制作におけるテクニカル系スタッフの仕事の現状と課題を、パイプライン開発の専門家である痴山紘史氏（日本CGサービス（JCGS）代表）が探っていく。第8回では、CafeGroupのテクニカル系スタッフの仕事を前後編にわたって深掘りする。",
+          "link": "https://cgworld.jp/regular/202504-chiyama-t-8-1.html",
+          "publishedOn": "2025-04-22T01:30:00.000Z",
+          "wordCount": 751,
+          "title": "第8回 前編：CafeGroupのテクニカル系スタッフの仕事 - 連載",
+          "imageUrl": "https://cgworld.jp/regular/assets_c/2025/04/202504-chiyama-t-8-1_b1-thumb-1000x667-68017.jpg"
+        },
+        {
+          "id": "https://cgworld.jp/flashnews/02-2504-kurihaku-miyakawa.html",
+          "author": null,
+          "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
+          "link": "https://cgworld.jp/flashnews/02-2504-kurihaku-miyakawa.html",
+          "publishedOn": "2025-04-22T00:39:18.000Z",
+          "wordCount": 709,
+          "title": "【クリ博】コンセプトアーティスト 宮川英久氏によるポートフォリオブラッシュアップ個別相談会スタート。開催日程は随時更新！ - ニュース",
+          "imageUrl": "https://cgworld.jp/flashnews/assets_c/2025/04/2aec06dd1b79b36d562ae9d90d982fc8%20%281%29-thumb-1000x563-68416.png"
+        },
         {
           "id": "https://cgworld.jp/regular/2504-CGWR-remote.html",
           "author": null,
@@ -3775,6 +3780,36 @@
       "feedUrl": "https://area.autodesk.jp/rss.xml",
       "siteUrl": "https://area.autodesk.jp/",
       "articles": [
+        {
+          "id": "https://area.autodesk.jp/event/webinar/bifrost-maya-game-effect/",
+          "author": null,
+          "description": "クリーク･アンド･リバー社 VFX STUDIO でエフェクトデザイナーとして活躍されている佐藤様に、ゲーム開発のエフェクト分野における Bifrost でのメッシュ制作テクニックや魅力をウェビナーにて余す所なくご紹介いただきます。セミナー冒頭には、オートデスクスタッフによる Bifrost の概要紹介も行います。・・・",
+          "link": "https://area.autodesk.jp/event/webinar/bifrost-maya-game-effect/",
+          "publishedOn": "2025-04-22T01:00:00.000Z",
+          "wordCount": 241,
+          "title": "Bifrost for Maya×ゲームエフェクト &lt;br>～エフェクトメッシュをプロシージャルモデリング～",
+          "imageUrl": "https://area.autodesk.jp/event/assets_c/2025/04/ic_bifrost_maya_game_effect_1400x782-thumb-1200xauto-5659.jpg"
+        },
+        {
+          "id": "https://area.autodesk.jp/column/tutorial/3ds-max-plugin/04-phoenix/",
+          "author": null,
+          "description": "今回は3ds MaxとPhoenix 5 を活用した内容となっております。3ds Max 2026のダウンロードが可能となりましたが、プラグインがまだ対応していなかったので、今回は以前と同じように、3ds Max 2025.3にて進めて参ります。・・・",
+          "link": "https://area.autodesk.jp/column/tutorial/3ds-max-plugin/04-phoenix/",
+          "publishedOn": "2025-04-18T01:00:00.000Z",
+          "wordCount": 484,
+          "title": "3ds Max：プラグイン活用で表現の幅を拡げよう！ 第4回：Phoenixで遊ぼう",
+          "imageUrl": "https://area.autodesk.jp/column/assets_c/2025/04/ic_3ds_max_plugin_vol04_1400x782-thumb-1200xauto-5654.jpg"
+        },
+        {
+          "id": "https://area.autodesk.jp/information/maya-2026-movie/",
+          "author": null,
+          "description": "Maya 2026では群集シミュレーションおよびキャラクタ レイアウト プラグインである Golaem が、Media & Entertainment Collection の一部として提供されるようになりました。モデリングツールではボリュームブーリアンが新たに追加されています。機械学習(ML)デフォーマは複数のデフォーマの結果を学習し近似したシェイプの...・・・",
+          "link": "https://area.autodesk.jp/information/maya-2026-movie/",
+          "publishedOn": "2025-04-14T02:54:28.000Z",
+          "wordCount": 207,
+          "title": "Maya 2026 新機能解説ムービー",
+          "imageUrl": "https://area.autodesk.jp/information/assets_c/2025/04/ic_maya_2026_webinar_1200x670-thumb-1200xauto-5657.jpg"
+        },
         {
           "id": "https://area.autodesk.jp/information/3ds-max-2026-movie/",
           "author": null,

@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-04-22T12:20:03.795Z</updated>
+    <updated>2025-04-23T00:51:32.512Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[シェーダーでif/elseのような条件分岐を書く]]></title>
+        <id>https://zenn.dev/omini/articles/7ee6c41a92df47</id>
+        <link href="https://zenn.dev/omini/articles/7ee6c41a92df47"/>
+        <updated>2025-04-23T00:40:06.000Z</updated>
+        <summary type="html"><![CDATA[wgslなどシェーダー言語を書くときにif/elseを使って条件分岐を行うべきではないといわれています（諸説あり）。
+何かしらの事情でif/elseを使えないが条件分岐したいときのために、mix/stepで代用する方法を紹介します。
+
+ mixとstepで条件分岐
+mix(A, B, step(edge, x))とするとif文で条件を(x > edge)としたときと同等のことができます。真(x > edge)ならA、偽(x <= edge)ならBです。
+例えば0から9までの任意の数字が5よりも大きいか評価したいとします。すると
+
+conditions.wgsl
+cons...]]></summary>
+        <author>
+            <name>omini</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[HoloPart - Tripoなどでお馴染みVASTのAIリサーチームと香港大学がAIを活用したメッシュパーツを自動的に分解する技術をオープンソース公開！]]></title>
         <id>https://3dnchu.com/?p=1054242</id>
@@ -56,6 +74,16 @@ The post 【インタビュー】悩む前に、まず行動してみる：3Dジ
         <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
         <author>
             <name>CGWORLD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【エクステンション紹介】Node Quick Maths – 数式からノードを生成！]]></title>
+        <id>https://cgbox.jp/?p=62984</id>
+        <link href="https://cgbox.jp/2025/04/22/news-addon-node-quick-maths/"/>
+        <updated>2025-04-22T04:40:23.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは！ 今回はアドオンの「Node Quick Maths」を紹介します。 こちらのリンクから購入することができます。 Node Quick Maths 「Node Quick Maths」は、数式を入力してそれに […]]]></summary>
+        <author>
+            <name>kasahara</name>
         </author>
     </entry>
     <entry>
@@ -3359,164 +3387,6 @@ The post 普通に買うよりお得！内容一緒なのに安い！ドスパ�
 投稿 【Character】ほんとに怖いジョイントのお話【序章・命名編】 は TECH-COYOTE｜C&R Creative Studios に最初に表示されました。]]></summary>
         <author>
             <name>nakabayashi nobukazu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[《キャラクター》作品募集開始！　個人クリエイターの作品を紹介する「CGWORLD GALLERY」応募受付は4月27日（日）まで - ニュース]]></title>
-        <id>https://cgworld.jp/flashnews/cgwg-v017.html</id>
-        <link href="https://cgworld.jp/flashnews/cgwg-v017.html"/>
-        <updated>2025-03-24T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ゲーム開発者、ゲーム業界を目指す学生向けイベント「OPEN GAME FEST」が5/17（土）京都で開催！参加者募集中！ - ニュース]]></title>
-        <id>https://cgworld.jp/flashnews/2503-open-game-fest.html</id>
-        <link href="https://cgworld.jp/flashnews/2503-open-game-fest.html"/>
-        <updated>2025-03-24T10:52:04.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[新たなアニメ表現を模索したルックデベロップメント、TVアニメ『想星のアクエリオン Myth of Emotions』 - 特集]]></title>
-        <id>https://cgworld.jp/article/319hs-aq-moe.html</id>
-        <link href="https://cgworld.jp/article/319hs-aq-moe.html"/>
-        <updated>2025-03-24T10:18:00.000Z</updated>
-        <summary type="html"><![CDATA[TVアニメ『想星のアクエリオン Myth of Emotions』のCGメイキング。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Blender Shader Switcher Node 複数のシェーダーを一つのマテリアル内で簡単に切り替えることができる無料アドオン]]></title>
-        <id>https://modelinghappy.com/?p=62287</id>
-        <link href="https://modelinghappy.com/archives/62287"/>
-        <updated>2025-03-24T09:09:28.000Z</updated>
-        <summary type="html"><![CDATA[Blender Shader Switcher Node ​Shader Switcher NodeはBlenderで複数のシェーダーを一つのマテリアル内で入力した数字で簡単に切り替えることができる無料アドオンです。​
-The post Blender Shader Switcher Node 複数のシェーダーを一つのマテリアル内で簡単に切り替えることができる無料アドオン first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
-        <author>
-            <name>modelinghappy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ボーンデジタル書籍 「スカルプターのための美術解剖学」が値上がります。]]></title>
-        <id>https://modelinghappy.com/?p=62282</id>
-        <link href="https://modelinghappy.com/archives/62282"/>
-        <updated>2025-03-24T07:05:39.000Z</updated>
-        <summary type="html"><![CDATA[スカルプターのための美術解剖学 筋肉の流れや人体の解剖について大きな画像で見やすく3DCGモデリング時に重宝する大人気書籍「スカルプターのための美術解剖学」が2025年4月中旬から5500円から7700円に値上げすると発
-The post ボーンデジタル書籍 「スカルプターのための美術解剖学」が値上がります。 first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
-        <author>
-            <name>modelinghappy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【アドオン紹介】Mirror Tool – ミラーリングしながらリギング！]]></title>
-        <id>https://cgbox.jp/?p=62713</id>
-        <link href="https://cgbox.jp/2025/03/24/addon-news-mirror-tool/"/>
-        <updated>2025-03-24T06:57:19.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは！ 今回はアドオンの「Mirror Tool」を紹介します。 こちらのリンクから購入することができます。 Mirror Tool 「Mirror Tool」は、ミラーリングしながらリギングを行うことができるアド […]]]></summary>
-        <author>
-            <name>kasahara</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[オープンソース3D Gaussian Splattingプラットフォーム「SuperSplat 2.2」リリース！　動画レンダリングに対応、コミュニティ機能も拡充 - ニュース]]></title>
-        <id>https://cgworld.jp/flashnews/202503-SuperSplat-22.html</id>
-        <link href="https://cgworld.jp/flashnews/202503-SuperSplat-22.html"/>
-        <updated>2025-03-24T06:20:08.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[instant Tie for Maya v1.0 モデル同士にラインを描く事で次々簡単にケーブルを作成出来る無料プラグイン]]></title>
-        <id>https://modelinghappy.com/?p=62274</id>
-        <link href="https://modelinghappy.com/archives/62274"/>
-        <updated>2025-03-24T05:43:33.000Z</updated>
-        <summary type="html"><![CDATA[instant Tie for Maya v1.0 instant Tie for Mayaは-Im3dJoeさんが作成したMayaでケーブルを簡単に作成出来る無料プラグインです。 使い方は簡単で、モデルを選択してプラグ
-The post instant Tie for Maya v1.0 モデル同士にラインを描く事で次々簡単にケーブルを作成出来る無料プラグイン first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
-        <author>
-            <name>modelinghappy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【Unity】IF文を使わない！ShaderGraphのスマートな条件分岐の作り方]]></title>
-        <id>https://zenn.dev/tmb/articles/1f0338864e3ba2</id>
-        <link href="https://zenn.dev/tmb/articles/1f0338864e3ba2"/>
-        <updated>2025-03-24T05:03:08.000Z</updated>
-        <summary type="html"><![CDATA[はじめに
-初めての方も、そうでない方もこんにちは！
-現役ゲームプログラマーのたむぼーです。
-自己紹介を載せているので、気になる方は見ていただければ嬉しいです！
-今回は
-　IF文を使わない！ShaderGraphのスマートな条件分岐の作り方
-について紹介します
-https://zenn.dev/tmb/articles/1072f8ea010299
-
- ShaderGraphのIF文について
-ShaderGraphでIF文に相当するノードは「Branchノード」です。
-このノードは、コンパイル時にIF文として解釈されるため、実質的にはシェーダー内での「分岐処理」となります。
-シェーダー...]]></summary>
-        <author>
-            <name>たむぼー</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【Unity】IF文を使わない！ShaderGraphのスマートな条件分岐の作り方]]></title>
-        <id>https://zenn.dev/tmb/articles/1f0338864e3ba2</id>
-        <link href="https://zenn.dev/tmb/articles/1f0338864e3ba2"/>
-        <updated>2025-03-24T05:03:08.000Z</updated>
-        <summary type="html"><![CDATA[はじめに
-初めての方も、そうでない方もこんにちは！
-現役ゲームプログラマーのたむぼーです。
-自己紹介を載せているので、気になる方は見ていただければ嬉しいです！
-今回は
-　IF文を使わない！ShaderGraphのスマートな条件分岐の作り方
-について紹介します
-https://zenn.dev/tmb/articles/1072f8ea010299
-
- ShaderGraphのIF文について
-ShaderGraphでIF文に相当するノードは「Branchノード」です。
-このノードは、コンパイル時にIF文として解釈されるため、実質的にはシェーダー内での「分岐処理」となります。
-シェーダー...]]></summary>
-        <author>
-            <name>たむぼー</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「Substance 3D Painter 11.0.0」リリース！　アセットのリアルタイム更新、塗りつぶしパスツールとパスツールの改良、新しいフィルタ、エクスポートワークフローの統一など - ニュース]]></title>
-        <id>https://cgworld.jp/flashnews/202503-Substance-Painter-11.html</id>
-        <link href="https://cgworld.jp/flashnews/202503-Substance-Painter-11.html"/>
-        <updated>2025-03-24T04:13:14.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fluid Kit 直ぐに使える300種類のメッシュ形状の液体用プリセットと動きのあるジオメトリーベースのBlender用液体アセット]]></title>
-        <id>https://modelinghappy.com/?p=62258</id>
-        <link href="https://modelinghappy.com/archives/62258"/>
-        <updated>2025-03-24T03:57:35.000Z</updated>
-        <summary type="html"><![CDATA[Fluid Kit #8211; Water Generator amp; Water Assets Library Fluid KitはBlenderで液体を簡単に作成出来るアドオンです。 シミュレーションせずに3
-The post Fluid Kit 直ぐに使える300種類のメッシュ形状の液体用プリセットと動きのあるジオメトリーベースのBlender用液体アセット first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
-        <author>
-            <name>modelinghappy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ポリゴン・ピクチュアズのリギングシステム eST3の特徴を紹介 - 特集]]></title>
-        <id>https://cgworld.jp/article/202503-est.html</id>
-        <link href="https://cgworld.jp/article/202503-est.html"/>
-        <updated>2025-03-24T01:30:00.000Z</updated>
-        <summary type="html"><![CDATA[※本記事は月刊 『CGWORLD + digital video』vol.30...]]></summary>
-        <author>
-            <name>CGWORLD</name>
         </author>
     </entry>
 </feed>

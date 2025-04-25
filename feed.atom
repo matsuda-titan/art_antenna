@@ -2,10 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-04-25T03:32:21.182Z</updated>
+    <updated>2025-04-25T08:14:33.154Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【アセット紹介】Droplet It – 水滴をオブジェクトに適用！]]></title>
+        <id>https://cgbox.jp/?p=62994</id>
+        <link href="https://cgbox.jp/2025/04/25/news-addon-droplet-it/"/>
+        <updated>2025-04-25T06:27:31.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは！ 今回はアドオンの「Droplet It」を紹介します。 こちらのリンクから購入することができます。 Droplet It 「Droplet It」は、オブジェクトに水滴を適用できるアドオン。 選択オブジェク […]]]></summary>
+        <author>
+            <name>kasahara</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「Tripo」のVastが3Dモデルをパーツごとに分解して生成できる3D生成AIモデル「HoloPart」をオープンソースで公開！　隠れた部分まで生成可能 - ニュース]]></title>
+        <id>https://cgworld.jp/flashnews/01-202504-Vast-HoloPart.html</id>
+        <link href="https://cgworld.jp/flashnews/01-202504-Vast-HoloPart.html"/>
+        <updated>2025-04-25T06:03:49.000Z</updated>
+        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ティム・ミラー＆デヴィッド・フィンチャーのアニメーション・アンソロジー。『ラブ、デス&ロボット』Vol.4 のトレーラー]]></title>
+        <id>https://3dtotal.jp/?p=50651</id>
+        <link href="https://3dtotal.jp/news/50651/"/>
+        <updated>2025-04-25T05:30:08.000Z</updated>
+        <summary type="html"><![CDATA[★LOVE DEATH + ROBOTS VOLUME 4 | Official Trailer（2分13秒） ★『ラブ、デス&ロボット』VOL 4 予告編（2分13秒） 不気味な魔物、度肝を抜く展開、ダークな笑いなど  […]
+The post ティム・ミラー＆デヴィッド・フィンチャーのアニメーション・アンソロジー。『ラブ、デス&ロボット』Vol.4 のトレーラー first appeared on 3dtotal 日本語オフィシャルサイト.]]></summary>
+        <author>
+            <name>3dtotal管理人T</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「漫画・アニメの著作権・法務トラブル対処法講座」5月21日（水）に築地で開催、講師は福井健策弁護士 - ニュース]]></title>
+        <id>https://cgworld.jp/flashnews/2504-news-vipomanani.html</id>
+        <link href="https://cgworld.jp/flashnews/2504-news-vipomanani.html"/>
+        <updated>2025-04-25T03:49:25.000Z</updated>
+        <summary type="html"><![CDATA[福井健策弁護士法律セミナー「漫画・アニメの著作権・法務トラブル対処法講座」についてのニュース。]]></summary>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Substance 3D の最新情報、テクニック、使用事例..。イベント Substance Days（@GDC 2025）の講演映像]]></title>
         <id>https://3dtotal.jp/?p=50950</id>
@@ -3467,39 +3508,6 @@ The post Maya2026リリース新機能まとめ first appeared on 3DCG最新情�
         <summary type="html"><![CDATA[3ds Max 2026がリリースされました。このリリースでは、OpenPBRが既定のマテリアルとなり、USD for 3ds Max、OCIOなど様々なコンポーネントが更新され、相互運用性の向上を図りました。更にBiped、CATといったアニメーション機能や、いくつかのモディファイヤの改善も行われております。・・・]]></summary>
         <author>
             <name>AREA JAPAN | Autodesk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Slang+VulkanでRaytracing]]></title>
-        <id>https://zenn.dev/kinankomoti/articles/b587b7c4aef95c</id>
-        <link href="https://zenn.dev/kinankomoti/articles/b587b7c4aef95c"/>
-        <updated>2025-03-26T16:00:41.000Z</updated>
-        <summary type="html"><![CDATA[Slangとは
-Slangとは(2025年現在)Khronos Groupが管理しているShader言語です。特徴としてマルチプラットフォームを主軸に置いており、GLSLやHLSL,CUDA,SPIR-Vなど様々なGPU向け言語に変換可能な中間言語的な立ち位置として開発されています。
-https://shader-slang.org/
-Slangの書き方は基本的にはHLSLを踏襲しており、Resource(Opaque Type)やvector,matrixなどの名前や扱い方はHLSLです。そこにいくつかGenericやInterface,Propertyなどオブジェクト指向的な機能...]]></summary>
-        <author>
-            <name>kinankomoti</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【アドオン紹介】Staircase Generator – 色んなタイムの階段を作成！]]></title>
-        <id>https://cgbox.jp/?p=62725</id>
-        <link href="https://cgbox.jp/2025/03/26/news-addon-staircase-generator/"/>
-        <updated>2025-03-26T06:54:52.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは！ 今回はアドオンの「Staircase Generator」を紹介します。 こちらのリンクから購入することができます。 Staircase Generator 「Staircase Generator」は、、 […]]]></summary>
-        <author>
-            <name>kasahara</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【HUION】INSPIROY FREGO – ショートカットキー無し！最新の性能のコンパクト板タブ]]></title>
-        <id>https://cgbox.jp/?p=61155</id>
-        <link href="https://cgbox.jp/2025/03/26/gadjet-inspiroy-frego/"/>
-        <updated>2025-03-26T06:13:43.000Z</updated>
-        <summary type="html"><![CDATA[こちらの記事はプロモーションを含みます。 こんにちは。 今回はガジェットレビュー記事です！ ペンタブレットの「Inspiroy Frego」を提供していただいたので、CGbox編集部がレビューしていきます。 CG制作では […]]]></summary>
-        <author>
-            <name>UEDA</name>
         </author>
     </entry>
 </feed>

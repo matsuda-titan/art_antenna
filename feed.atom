@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-04-27T08:12:56.238Z</updated>
+    <updated>2025-04-27T12:17:32.842Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【エクステンション紹介】Synchronize Workspaces – ビューポートの設定をワークスペースで共有！]]></title>
+        <id>https://cgbox.jp/?p=63005</id>
+        <link href="https://cgbox.jp/2025/04/27/news-addon-synchronize-workspaces/"/>
+        <updated>2025-04-27T04:39:57.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは！ 今回はアドオンの「Synchronize Workspaces」を紹介します。 こちらのリンクから購入することができます。 Synchronize Workspaces 「Synchronize Works […]]]></summary>
+        <author>
+            <name>kasahara</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【3Dプリント】モスバーガーの粋なキャンペーン。STLデータを利用したユーザー参加型プロモーションの反響を追ってみた。 - ニュース]]></title>
+        <id>https://cgworld.jp/flashnews/202504-MosBurger-STL.html</id>
+        <link href="https://cgworld.jp/flashnews/202504-MosBurger-STL.html"/>
+        <updated>2025-04-27T03:35:30.000Z</updated>
+        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[PS1で作成されたようなカクカクしたランダムな動きにアニメーションしてくれるBlender用アドオンPsx Effect Vertex Snapping Addons]]></title>
         <id>https://modelinghappy.com/?p=62796</id>
@@ -3208,23 +3228,6 @@ The post Blenderでフォトリアルな地形や空を作成出来る大人気�
 UECppで以下のようなFromToRotion関数(ベクト…]]></summary>
         <author>
             <name>CGタグが付けられた新着記事 - Qiita</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[シェーダー言語のSlangをRustとVulkan (ash)で試してみる]]></title>
-        <id>https://zenn.dev/matcha_choco010/articles/2025-03-29-hello-slang-vulkan-ash</id>
-        <link href="https://zenn.dev/matcha_choco010/articles/2025-03-29-hello-slang-vulkan-ash"/>
-        <updated>2025-03-28T21:38:30.000Z</updated>
-        <summary type="html"><![CDATA[はじめに
-最近話題のSlangというシェーダー言語を、RustとVulkan (ash)で試してみました。
-この記事ではSlangの機能を一部ピックアップして簡潔に紹介するとともに、RustとVulkan (ash)でSlangを使う際にcargo runでコンパイルが走るようにbuild.rsを設定する方法を紹介します。
-
- Slangとは
-Slangはオープンソースのシェーダー言語の一種です。
-元はNVIDIAがSIGGRAPH 2018あたりで発表した言語です。
-D3D12, Vulkan, Metal, D3D11, OpenGL, CUDAなどで利用できる他、CPUでも実行...]]></summary>
-        <author>
-            <name>折登 樹</name>
         </author>
     </entry>
 </feed>

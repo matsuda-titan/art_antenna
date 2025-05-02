@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-05-01T12:20:01.083Z</updated>
+    <updated>2025-05-02T00:52:30.403Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Derelict Corridor Megascans Sample - QuixelのMegascansサンプルUnreal Engineプロジェクト！Fab上で無料公開！]]></title>
+        <id>https://3dnchu.com/?p=1054473</id>
+        <link href="https://3dnchu.com/archives/derelict-corridor-quixel/"/>
+        <updated>2025-05-02T00:20:45.000Z</updated>
+        <summary type="html"><![CDATA[Quixelが新たなMegascansサンプルUEプロジェクトファイル「Derelict Corridor」をFab上で無料公開しました！]]></summary>
+        <author>
+            <name>Ymt3D -3dnchu-</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【PR】Full Process of Street Night Scene - Blenderを使用した夜のストリートシーン構築チュートリアルコース！Wingfoxにて取り扱い開始！]]></title>
+        <id>https://3dnchu.com/?p=1054440</id>
+        <link href="https://3dnchu.com/archives/full-process-of-street-night-scene-wingfox/"/>
+        <updated>2025-05-02T00:16:06.000Z</updated>
+        <summary type="html"><![CDATA[Wingfox StudioによるBlenderを使用した夜のストリートシーン構築チュートリアルコース『Full Process of Street Night Scene』がCG＆デジタルアート学習オンラインプラットフォーム「WINGFOX」にて取り扱い開始されています。]]></summary>
+        <author>
+            <name>Ymt3D -3dnchu-</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Maxon、3DCGアーティストChapter One!!と共に、ZBrush for iPadを使用したキャラクターの制作メイキングをPDF冊子を制作。無料ダウンロード開始。 - ニュース]]></title>
         <id>https://cgworld.jp/flashnews/02-2504-maxon.html</id>
@@ -24,6 +44,16 @@
         <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
         <author>
             <name>CGWORLD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【アドオン紹介】Viewport Scopes – ビューポートに視覚的な色情報を表示！]]></title>
+        <id>https://cgbox.jp/?p=63037</id>
+        <link href="https://cgbox.jp/2025/05/01/news-addon-viewport-scopes/"/>
+        <updated>2025-05-01T05:47:13.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは！ 今回はアドオンの「Viewport Scopes」を紹介します。 こちらのリンクから購入することができます。 Viewport Scopes 「Viewport Scopes」は、Blenderのビューポー […]]]></summary>
+        <author>
+            <name>kasahara</name>
         </author>
     </entry>
     <entry>
@@ -119,6 +149,16 @@ The post Unreal Engine 使用事例：人気バイクレースゲーム 最新�
 The post 雪に覆われた氷河から果てしない砂漠まで。Rodeo FX の CGエンバイロメントリール 2025 first appeared on 3dtotal 日本語オフィシャルサイト.]]></summary>
         <author>
             <name>3dtotal管理人T</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【アドオン紹介】Pencil Pro – 鉛筆シェーダーに変換！]]></title>
+        <id>https://cgbox.jp/?p=63033</id>
+        <link href="https://cgbox.jp/2025/04/30/news-addon-pencil-pro/"/>
+        <updated>2025-04-30T05:16:48.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは！ 今回はアドオンの「Pencil Pro」を紹介します。 こちらのリンクから購入することができます。 Pencil Pro 「Pencil Pro」は、オブジェクトを鉛筆シェーダーに変換することができるアドオ […]]]></summary>
+        <author>
+            <name>kasahara</name>
         </author>
     </entry>
     <entry>
@@ -2923,140 +2963,6 @@ The post Shortcut creator for Mayaよく使うフォルダ、ファイル、画�
 The post Blender上で寸法、技術図面、設計図を作成出来る無料アドオン first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
         <author>
             <name>modelinghappy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【Isaac Sim × Isaac Lab入門】#1 Pythonスクリプトで空のシーンをIsaac Simに表示してみる]]></title>
-        <id>https://zenn.dev/kprn/articles/57dea2a3951bd3</id>
-        <link href="https://zenn.dev/kprn/articles/57dea2a3951bd3"/>
-        <updated>2025-04-02T11:00:01.000Z</updated>
-        <summary type="html"><![CDATA[以下の記事にて、NVIDIA Isaac Sim をIsaac Labから起動することができた。
-https://zenn.dev/kprn/articles/9b6afc80ca1956
-今回からは、Isaac Simの3D環境内をPythonスクリプトで操作する方法を調査する。
-今回はPart1として、公式チュートリアルを参考に、
-
-Pythonスクリプトを実行し、Isaac Simで空のシーンを開く
-
-という、シンプルな操作を試してみる。
-
- 手順
-前回までの手順で、C:\Users\{ユーザ名}\work\にIsaacLabディレクトリが配置されている状況からスタートする。
-
- ...]]></summary>
-        <author>
-            <name>kmykprn</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Autodesk Maya 2026 新バージョン発表ウェビナー、4/10（木）に開催！ - ニュース]]></title>
-        <id>https://cgworld.jp/flashnews/autodesk-maya-2026.html</id>
-        <link href="https://cgworld.jp/flashnews/autodesk-maya-2026.html"/>
-        <updated>2025-04-02T10:45:00.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[4/9（水）開催！Autodesk 3ds Max 2026 新バージョン発表ウェビナー - ニュース]]></title>
-        <id>https://cgworld.jp/flashnews/2504-autodesk-3dsmax2026.html</id>
-        <link href="https://cgworld.jp/flashnews/2504-autodesk-3dsmax2026.html"/>
-        <updated>2025-04-02T09:40:00.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3DCGの知識を一流のクリエイターから学べるオンライン教育サービス「CGWORLD ONLINE ACADEMY」がリニューアルオープン！ - ニュース]]></title>
-        <id>https://cgworld.jp/flashnews/202503-cgworld-online-academy.html</id>
-        <link href="https://cgworld.jp/flashnews/202503-cgworld-online-academy.html"/>
-        <updated>2025-04-02T06:09:23.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[空手とカンフー、師匠はジャッキー・チェンと..。映画『ベスト・キッド：レジェンズ』のトレーラー（英語／日本語）]]></title>
-        <id>https://3dtotal.jp/?p=50541</id>
-        <link href="https://3dtotal.jp/news/50541/"/>
-        <updated>2025-04-02T04:52:33.000Z</updated>
-        <summary type="html"><![CDATA[★KARATE KID: LEGENDS - New Trailer（2分37秒） ★KARATE KID: LEGENDS - Bringing Worlds Together（1分35秒） ★KARATE KID:  […]
-The post 空手とカンフー、師匠はジャッキー・チェンと..。映画『ベスト・キッド：レジェンズ』のトレーラー（英語／日本語） first appeared on 3dtotal 日本語オフィシャルサイト.]]></summary>
-        <author>
-            <name>3dtotal管理人T</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【アドオン紹介】Bqr Boolean Quad Ready – メッシュを綺麗にリメッシュ！]]></title>
-        <id>https://cgbox.jp/?p=62826</id>
-        <link href="https://cgbox.jp/2025/04/02/news-addon-bqr-boolean-quad-ready/"/>
-        <updated>2025-04-02T04:32:32.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは！ 今回はアドオンの「Bqr Boolean Quad Ready」を紹介します。 こちらのリンクから購入することができます。 Bqr Boolean Quad Ready 「Bqr Boolean Quad  […]]]></summary>
-        <author>
-            <name>kasahara</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[監督＆出演者たちが語る。CGアニメ映画『トランスフォーマー／ONE』の舞台裏]]></title>
-        <id>https://3dtotal.jp/?p=50533</id>
-        <link href="https://3dtotal.jp/news/50533/"/>
-        <updated>2025-04-02T04:14:13.000Z</updated>
-        <summary type="html"><![CDATA[★How Transformers One Rewrote the Origin Story | Behind The Scenes（10分10秒） 『トランスフォーマー／ONE』は、オプティマスプライムとメガトロンの知 […]
-The post 監督＆出演者たちが語る。CGアニメ映画『トランスフォーマー／ONE』の舞台裏 first appeared on 3dtotal 日本語オフィシャルサイト.]]></summary>
-        <author>
-            <name>3dtotal管理人T</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[映画『デッドプール』の監督など世界のトップクリエイターが集結する合宿イベント「THUストーリーテリング」が9/17（金）～9/20（日）加賀市で開催。 - ニュース]]></title>
-        <id>https://cgworld.jp/flashnews/02-2504-thu.html</id>
-        <link href="https://cgworld.jp/flashnews/02-2504-thu.html"/>
-        <updated>2025-04-02T03:54:32.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3Dモデル生成AIのTripoがBlenderアドオンに！　「Tripo MCP」リリース、CursorやClaudeを介して自然言語で対話するだけで3Dシーンを構築 - ニュース]]></title>
-        <id>https://cgworld.jp/flashnews/01-202504-TripoMCP.html</id>
-        <link href="https://cgworld.jp/flashnews/01-202504-TripoMCP.html"/>
-        <updated>2025-04-02T03:31:51.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[改善を続ける、ポリゴン・ピクチュアズのパイプライン／No.1 初の海外大型案件を機にパイプライン開発に着手 - 特集]]></title>
-        <id>https://cgworld.jp/article/202503-ppi-1.html</id>
-        <link href="https://cgworld.jp/article/202503-ppi-1.html"/>
-        <updated>2025-04-02T01:30:00.000Z</updated>
-        <summary type="html"><![CDATA[※本記事の初出は月刊 『CGWORLD + digital video』vol...]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【アドオン紹介】Shrinkwrap Simulator – ラップでオブジェクトを包む！]]></title>
-        <id>https://cgbox.jp/?p=62822</id>
-        <link href="https://cgbox.jp/2025/04/01/news-addon-shrinkwrap-simulator/"/>
-        <updated>2025-04-01T09:05:58.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは！ 今回はアドオンの「Shrinkwrap Simulator」を紹介します。 こちらのリンクから購入することができます。 Shrinkwrap Simulator 「Shrinkwrap Simulator」 […]]]></summary>
-        <author>
-            <name>kasahara</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【アドオン紹介】Rain Simulator – シンプルな雨シミュレーション！]]></title>
-        <id>https://cgbox.jp/?p=62817</id>
-        <link href="https://cgbox.jp/2025/03/31/news-addon-rain-simulator/"/>
-        <updated>2025-03-31T04:13:31.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは！ 今回はアドオンの「Rain Simulator」を紹介します。 こちらのリンクから購入することができます。 Rain Simulator 「Rain Simulator」は、シーンにリアルな雨のエフェクトを […]]]></summary>
-        <author>
-            <name>kasahara</name>
         </author>
     </entry>
 </feed>

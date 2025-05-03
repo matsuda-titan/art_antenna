@@ -2919,21 +2919,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--oqIkz8Zh--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2580%2590Isaac%2520Sim%2520%25C3%2597%2520Isaac%2520Lab%25E5%2585%25A5%25E9%2596%2580%25E3%2580%2591%25233%2520Python%25E3%2581%25A7Isaac%2520Sim%25E5%2586%2585%25E3%2581%25AE%25E3%2582%25AA%25E3%2583%2596%25E3%2582%25B8%25E3%2582%25A7%25E3%2582%25AF%25E3%2583%2588%25E3%2581%25AE%25E5%25BA%25A7%25E6%25A8%2599%25E3%2582%2592%25E5%258F%2596%25E5%25BE%2597%25E3%2581%2599%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:kmykprn%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzg0YTc2MmJkMmMuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
-        },
-        {
-          "id": "https://zenn.dev/kprn/articles/8c1d9b191e0775",
-          "author": "kmykprn",
-          "description": "以下の記事にて、Isaac Simに空のシーンを表示することができた。\nhttps://zenn.dev/kprn/articles/57dea2a3951bd3\n今回はPart2として、公式チュートリアルを参考に、\n\nPythonスクリプトで、Isaac Sim上に「地面」「ライト」「直方体」を配置する\n直方体にRigid Bodyを付与し、重力に従って直方体を落下させる\n\nことを試してみる。\nRigid Bodyとは？\n\nRigid Bodyとは、物理的な力が加わっても、変形しない物体のことを指す。\nRigid Bodyが付与された直方体は、どんなに外力がかかっても、形が変化しない。...",
-          "link": "https://zenn.dev/kprn/articles/8c1d9b191e0775",
-          "publishedOn": "2025-04-03T23:20:51.000Z",
-          "wordCount": 1206,
-          "title": "【Isaac Sim × Isaac Lab入門】#2 PythonでIsaac Simの3D環境に直方体を配置し、重力を付与する",
-          "enclosure": {
-            "url": "https://res.cloudinary.com/zenn/image/upload/s--nRVazDzI--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2580%2590Isaac%2520Sim%2520%25C3%2597%2520Isaac%2520Lab%25E5%2585%25A5%25E9%2596%2580%25E3%2580%2591%25232%2520Python%25E3%2581%25A7Isaac%2520Sim%25E3%2581%25AE3D%25E7%2592%25B0%25E5%25A2%2583%25E3%2581%25AB%25E7%259B%25B4%25E6%2596%25B9%25E4%25BD%2593%25E3%2582%2592%25E9%2585%258D%25E7%25BD%25AE%25E3%2581%2597...%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:kmykprn%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzg0YTc2MmJkMmMuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png",
-            "length": "0",
-            "type": "image/png"
-          },
-          "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--nRVazDzI--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2580%2590Isaac%2520Sim%2520%25C3%2597%2520Isaac%2520Lab%25E5%2585%25A5%25E9%2596%2580%25E3%2580%2591%25232%2520Python%25E3%2581%25A7Isaac%2520Sim%25E3%2581%25AE3D%25E7%2592%25B0%25E5%25A2%2583%25E3%2581%25AB%25E7%259B%25B4%25E6%2596%25B9%25E4%25BD%2593%25E3%2582%2592%25E9%2585%258D%25E7%25BD%25AE%25E3%2581%2597...%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:kmykprn%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzg0YTc2MmJkMmMuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
         }
       ]
     },

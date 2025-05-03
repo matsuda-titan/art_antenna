@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-05-03T08:12:29.863Z</updated>
+    <updated>2025-05-03T12:17:49.510Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
@@ -2960,27 +2960,6 @@ The post コンセプトアートからルックデヴまで：「André Jukebox
         <summary type="html"><![CDATA[※本記事の初出は月刊 『CGWORLD + digital video』vol...]]></summary>
         <author>
             <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【Isaac Sim × Isaac Lab入門】#2 PythonでIsaac Simの3D環境に直方体を配置し、重力を付与する]]></title>
-        <id>https://zenn.dev/kprn/articles/8c1d9b191e0775</id>
-        <link href="https://zenn.dev/kprn/articles/8c1d9b191e0775"/>
-        <updated>2025-04-03T23:20:51.000Z</updated>
-        <summary type="html"><![CDATA[以下の記事にて、Isaac Simに空のシーンを表示することができた。
-https://zenn.dev/kprn/articles/57dea2a3951bd3
-今回はPart2として、公式チュートリアルを参考に、
-
-Pythonスクリプトで、Isaac Sim上に「地面」「ライト」「直方体」を配置する
-直方体にRigid Bodyを付与し、重力に従って直方体を落下させる
-
-ことを試してみる。
-Rigid Bodyとは？
-
-Rigid Bodyとは、物理的な力が加わっても、変形しない物体のことを指す。
-Rigid Bodyが付与された直方体は、どんなに外力がかかっても、形が変化しない。...]]></summary>
-        <author>
-            <name>kmykprn</name>
         </author>
     </entry>
 </feed>

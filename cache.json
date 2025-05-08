@@ -953,6 +953,16 @@
       "siteUrl": "https://cgworld.jp/",
       "articles": [
         {
+          "id": "https://cgworld.jp/flashnews/02-2505-autodesk-Bifrost.html",
+          "author": null,
+          "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
+          "link": "https://cgworld.jp/flashnews/02-2505-autodesk-Bifrost.html",
+          "publishedOn": "2025-05-08T11:30:00.000Z",
+          "wordCount": 744,
+          "title": "5/21（水）ウェビナー開催！Bifrost for Maya×ゲームエフェクト～エフェクトメッシュをプロシージャルモデリング～ - ニュース",
+          "imageUrl": "https://cgworld.jp/flashnews/assets_c/2025/05/2505_Autodesk_main-thumb-1000x563-69096.jpg"
+        },
+        {
           "id": "https://cgworld.jp/flashnews/01-202505-UniRig.html",
           "author": null,
           "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
@@ -1641,16 +1651,6 @@
           "wordCount": 792,
           "title": "『劇場版モノノ怪 唐傘』（1）背景制作篇 〜物語の舞台となる大奥を浮世絵風に3DCGで再現！ - 特集",
           "imageUrl": "https://cgworld.jp/article/assets_c/2025/03/922c244e6ad28c21cf66c9fc74a798dc3ca5cefc-thumb-1000x419-67195.jpg"
-        },
-        {
-          "id": "https://cgworld.jp/regular/22apple-vision-proai.html",
-          "author": null,
-          "description": "",
-          "link": "https://cgworld.jp/regular/22apple-vision-proai.html",
-          "publishedOn": "2025-04-08T21:26:16.000Z",
-          "wordCount": 784,
-          "title": "第22回：Apple Vision ProとAIがもたらす、空間コンピューティングの未来 - 連載",
-          "imageUrl": "https://cgworld.jp/regular/assets_c/2025/04/22-thumb-640x360-68058.jpg"
         }
       ]
     },
@@ -1697,7 +1697,18 @@
       "title": "SPARKCREATIVE Tech Blog",
       "feedUrl": "https://tech.spark-creative.co.jp/feed",
       "siteUrl": "https://tech.spark-creative.co.jp/",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://tech.spark-creative.co.jp/entry/2025/05/08/185951",
+          "author": null,
+          "description": "始まり 作業環境 セルルックの特徴的な明暗 多光源の処理 問題の挙動、見た目 前提 白飛び抑制 ライトカラーの蓄積を記録 蓄積されたライトカラーを元に正規化 結果 明暗の階調を抑制 明暗の蓄積を記録 キャラクターごとに明暗の最小と最大値を算出 明暗の正規化と量子化 結果 遊ぶ おわり!!! 関連 始まり こんにちは!!! エンジニアR&Dの小林です。最後に投稿した頃はクライアントエンジニアでしたが、部署移動の末、晴れてR&Dというかっこいい肩書を手に入れてしまいました。むふふです。 会社ブログの方ではお久しぶりですね。相変わらずレンダリング業務に従事している筆者さんですが、ふと、思うことがあり…",
+          "link": "https://tech.spark-creative.co.jp/entry/2025/05/08/185951",
+          "publishedOn": "2025-05-08T09:59:51.000Z",
+          "wordCount": 469,
+          "title": "【UE5】多光源でドキドキセルルック - Unreal Engine 5.4",
+          "imageUrl": "https://cdn.image.st-hatena.com/image/scale/34d9c2236b5909a8bb5a7dc032c0c24b3a5ce4b4/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fs%2Fspark-kobayashi-arata%2F20250508%2F20250508121007.jpg"
+        }
+      ]
     },
     {
       "title": "3DCG最新情報サイト MODELING HAPPY",

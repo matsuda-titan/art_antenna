@@ -12,6 +12,21 @@
       "siteUrl": "https://cgbox.jp",
       "articles": [
         {
+          "id": "https://cgbox.jp/?p=63082",
+          "author": "kasahara",
+          "description": "こんばんは！ 今回はアセットの「Realistic Skies」を紹介します。 こちらのリンクから購入することができます。 Realistic Skies 「Realistic Skies」は、Blenderでリアルな空 […]",
+          "link": "https://cgbox.jp/2025/05/08/news-addon-realistic-skies/",
+          "publishedOn": "2025-05-08T08:40:47.000Z",
+          "wordCount": 2295,
+          "title": "【アセット紹介】Realistic Skies – 200種類以上の8K背景画像パック！",
+          "enclosure": {
+            "url": "https://cgbox.jp/wp-content/uploads/2025/05/ezgif-48db3d5ee8c1d8_3-1.mp4",
+            "length": "0",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://cgbox.jp/wp-content/uploads/2025/05/image_processing20250505-2-gxaaxs.jpg"
+        },
+        {
           "id": "https://cgbox.jp/?p=63077",
           "author": "kasahara",
           "description": "こんばんは！ 今回はアドオンの「Solidify Plus」を紹介します。 こちらのリンクから購入することができます。 Solidify Plus 「Solidify Plus」は、ソリッドモディファイアの強化版アドオン […]",
@@ -385,21 +400,6 @@
             "type": "video/mp4"
           },
           "imageUrl": "https://cgbox.jp/wp-content/uploads/2025/04/image_processing20250409-2-uf3z5n.jpg"
-        },
-        {
-          "id": "https://cgbox.jp/?p=62874",
-          "author": "kasahara",
-          "description": "こんばんは！ 今回はアドオンの「」を紹介します。 こちらのリンクから購入することができます。 Timemaster 「Timemaster」は、映像やアニメーションにスローモーション効果を簡単に付け加えられるツールです。 […]",
-          "link": "https://cgbox.jp/2025/04/09/news-addon-timemaster/",
-          "publishedOn": "2025-04-09T05:07:42.000Z",
-          "wordCount": 2269,
-          "title": "【アドオン紹介】Timemaster – アニメーションをスローモーション再生！",
-          "enclosure": {
-            "url": "https://cgbox.jp/wp-content/uploads/2025/04/432-1.mp4",
-            "length": "0",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://cgbox.jp/wp-content/uploads/2025/04/image_processing20250408-2-lp2gfl.jpg"
         }
       ]
     },
@@ -420,6 +420,21 @@
       "feedUrl": "https://3dnchu.com/feed/",
       "siteUrl": "https://3dnchu.com",
       "articles": [
+        {
+          "id": "https://3dnchu.com/?p=1054738",
+          "author": "Ymt3D -3dnchu-",
+          "description": "ゲームプログラマのノゾクサ氏（ @nozoxa_0131 ）による、ボーンを利用した位置ベースの物理シミュレーションUnreal Engineプラグイン「Hagoromo」がリリースされました！オープンソースで無料です！",
+          "link": "https://3dnchu.com/archives/hagoromo-v1-0/",
+          "publishedOn": "2025-05-08T21:11:05.000Z",
+          "wordCount": 8889,
+          "title": "Hagoromo v1.0 - 物理挙動でボーンを揺らすことが可能なUnreal Engine向けオープンソースプラグインが登場！Github上で無料公開！",
+          "enclosure": {
+            "url": "https://3dnchu.com/wp-content/uploads/Hagoromo-v1-0.webp",
+            "length": "1105388",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://3dnchu.com/wp-content/uploads/Hagoromo-v1-0.webp"
+        },
         {
           "id": "https://3dnchu.com/?p=1054717",
           "author": "Ymt3D -3dnchu-",
@@ -899,51 +914,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "https://3dnchu.com/wp-content/uploads/stylized-2d-anime-cartoon-render.jpg"
-        },
-        {
-          "id": "https://3dnchu.com/?p=1053809",
-          "author": "Ymt3D -3dnchu-",
-          "description": "NVIDIAは、長年にわたり物理演算の基盤技術として活用されてきたPhysXおよびFlowのソースコードを完全にオープンソース化しました。対応するGPUカーネルも含め、BSD-3ライセンスでの公開となり、誰でも利用・改変が可能に。",
-          "link": "https://3dnchu.com/archives/physx-and-flow-gpu-opensource/",
-          "publishedOn": "2025-04-09T10:33:51.000Z",
-          "wordCount": 8941,
-          "title": "PhysX and Flow GPU Source Code Now Available - NVIDIAの物理エンジン「PhysX」と流体シミュレーションライブラリ「Flow」のソースコードを完全にオープンソース公開！",
-          "enclosure": {
-            "url": "https://3dnchu.com/wp-content/uploads/PhysX-and-Flow-GPU-Source-Code-Now-Available.png",
-            "length": "34262",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://3dnchu.com/wp-content/uploads/PhysX-and-Flow-GPU-Source-Code-Now-Available.png"
-        },
-        {
-          "id": "https://3dnchu.com/?p=1053797",
-          "author": "Ymt3D -3dnchu-",
-          "description": "Rocket Lasso氏による、CINEMA 4D向けボクセルメッシュ化プラグイン「RKT Voxel Mesher for CINEMA 4D」がリリースされています！",
-          "link": "https://3dnchu.com/archives/rkt-voxel-mesher-cinema-4d/",
-          "publishedOn": "2025-04-09T09:26:35.000Z",
-          "wordCount": 8895,
-          "title": "RKT Voxel Mesher - ボリュームビルダーをボクセル化！Mographとの相性抜群！CINEMA 4D向けボクセルメッシュ化プラグイン！",
-          "enclosure": {
-            "url": "https://3dnchu.com/wp-content/uploads/Voxel-Mesher-c4d.webp",
-            "length": "1166938",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://3dnchu.com/wp-content/uploads/Voxel-Mesher-c4d.webp"
-        },
-        {
-          "id": "https://3dnchu.com/?p=1053775",
-          "author": "Ymt3D -3dnchu-",
-          "description": "3DVisionによるBlender向けプロシージャル空生成アドオンのメジャーアップデート版「Pure-Sky Pro 7.0」がリリースされました！",
-          "link": "https://3dnchu.com/archives/pure-sky-pro-7-0/",
-          "publishedOn": "2025-04-09T08:02:27.000Z",
-          "wordCount": 8900,
-          "title": "Pure-Sky Pro 7.0 - プロシージャルな空生成Blenderアドオン！最新のメジャーアップデートが公開！EEVEEにボリューメトリックな影を落とすことが可能！",
-          "enclosure": {
-            "url": "https://3dnchu.com/wp-content/uploads/Pure-Sky-Pro-7-0.webp",
-            "length": "796508",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://3dnchu.com/wp-content/uploads/Pure-Sky-Pro-7-0.webp"
         }
       ]
     },
@@ -1621,36 +1591,6 @@
           "wordCount": 772,
           "title": "『劇場版モノノ怪 唐傘』（2）ツール開発篇 〜物語の舞台となる大奥を浮世絵風に3DCGで再現！ - 特集",
           "imageUrl": "https://cgworld.jp/article/assets_c/2025/03/mononoke%20%281%29-thumb-1920x1080-67351.jpg"
-        },
-        {
-          "id": "https://cgworld.jp/flashnews/2504-charabans.html",
-          "author": null,
-          "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
-          "link": "https://cgworld.jp/flashnews/2504-charabans.html",
-          "publishedOn": "2025-04-09T05:20:00.000Z",
-          "wordCount": 715,
-          "title": "5/9（金）開催！　26卒向けウェビナー‟数字で解説！圧倒的に理解しやすい『映えるポートフォリオの作りかた』\" - ニュース",
-          "imageUrl": "https://cgworld.jp/flashnews/assets_c/2025/04/20250214%20%281%29-thumb-1280x720-68055.png"
-        },
-        {
-          "id": "https://cgworld.jp/flashnews/01-202504-PFN-VP.html",
-          "author": null,
-          "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
-          "link": "https://cgworld.jp/flashnews/01-202504-PFN-VP.html",
-          "publishedOn": "2025-04-09T04:11:07.000Z",
-          "wordCount": 768,
-          "title": "PFN、空間全体を高精細な3Dデータに再構成する技術を開発！　3D Gaussian Splattingとスパコンを活用、UEプラグインでは4K・30〜60fpsのリアルタイムレンダリングも可能 - ニュース",
-          "imageUrl": "https://cgworld.jp/flashnews/assets_c/2025/04/PFN_3DGS-01-thumb-1080x607-68077.jpg"
-        },
-        {
-          "id": "https://cgworld.jp/article/cg320-acg-mononoke01.html",
-          "author": null,
-          "description": "『劇場版 モノノ怪 唐傘』のアニメCGメイキングを紹介。",
-          "link": "https://cgworld.jp/article/cg320-acg-mononoke01.html",
-          "publishedOn": "2025-04-09T01:00:27.000Z",
-          "wordCount": 792,
-          "title": "『劇場版モノノ怪 唐傘』（1）背景制作篇 〜物語の舞台となる大奥を浮世絵風に3DCGで再現！ - 特集",
-          "imageUrl": "https://cgworld.jp/article/assets_c/2025/03/922c244e6ad28c21cf66c9fc74a798dc3ca5cefc-thumb-1000x419-67195.jpg"
         }
       ]
     },
@@ -1715,6 +1655,26 @@
       "feedUrl": "https://modelinghappy.com/feed",
       "siteUrl": "https://modelinghappy.com",
       "articles": [
+        {
+          "id": "https://modelinghappy.com/?p=62957",
+          "author": "modelinghappy",
+          "description": "Free Assets For Kimi No Nawa Tutorial in Blender youtubeチャンネルMix 3Dさんが映画、君の名は。と似たようなアニメシーンをBlenderで３時間以上掛けて再現す\nThe post 映画 君の名は。と似たようなアニメシーンをBlenderで３時間以上掛けて再現するチュートリアル動画がyoutube上で公開 first appeared on 3DCG最新情報サイト MODELING HAPPY.",
+          "link": "https://modelinghappy.com/archives/62957",
+          "publishedOn": "2025-05-09T00:19:37.000Z",
+          "wordCount": 3478,
+          "title": "映画 君の名は。と似たようなアニメシーンをBlenderで３時間以上掛けて再現するチュートリアル動画がyoutube上で公開",
+          "imageUrl": "https://modelinghappy.com/wp-content/uploads/2025/05/20250509_kiminona_01.jpg"
+        },
+        {
+          "id": "https://modelinghappy.com/?p=62952",
+          "author": "modelinghappy",
+          "description": "DECODED#8217;s Mesh Cleaner for Blender Blenderでモデルの不要な物を削除したり出来る整理アドオンDECODED#8217;s Mesh Cleaner for Blend\nThe post Blenderで重なってる面の削除、不要なエンプティの削除、不要な親の削除、不要なマテリアルの削除を１クリックで可能な機能が追加された無料アドオンDECODED’s Mesh Cleaner for Blender first appeared on 3DCG最新情報サイト MODELING HAPPY.",
+          "link": "https://modelinghappy.com/archives/62952",
+          "publishedOn": "2025-05-08T22:58:33.000Z",
+          "wordCount": 3481,
+          "title": "Blenderで重なってる面の削除、不要なエンプティの削除、不要な親の削除、不要なマテリアルの削除を１クリックで可能な機能が追加された無料アドオンDECODED’s Mesh Cleaner for Blender",
+          "imageUrl": "https://modelinghappy.com/wp-content/uploads/2025/05/20250509_mesh_cleaner.jpg"
+        },
         {
           "id": "https://modelinghappy.com/?p=62942",
           "author": "modelinghappy",
@@ -2094,36 +2054,6 @@
           "wordCount": 3490,
           "title": "5000種類以上の商用利用可能なPBRマテリアルや HDRIを含むアセットをBlender内に１クリックで適用出来るアドオンMega Assets",
           "imageUrl": "https://modelinghappy.com/wp-content/uploads/2025/04/20250410_mega_assets_00.jpg"
-        },
-        {
-          "id": "https://modelinghappy.com/?p=62572",
-          "author": "modelinghappy",
-          "description": "instantMerge for Maya Beta instantMergeはMayaで便利なプラグインを多数作成している#8211; Im3dJoe #8211; Maya Polygon Lab #8211;\nThe post instantMerge for Maya Beta 選択した頂点から丸い枠を拡大して枠内に入ってる頂点を最初の頂点に全て結合出来る無料プラグイン first appeared on 3DCG最新情報サイト MODELING HAPPY.",
-          "link": "https://modelinghappy.com/archives/62572",
-          "publishedOn": "2025-04-09T08:38:16.000Z",
-          "wordCount": 3481,
-          "title": "instantMerge for Maya Beta 選択した頂点から丸い枠を拡大して枠内に入ってる頂点を最初の頂点に全て結合出来る無料プラグイン",
-          "imageUrl": "https://modelinghappy.com/wp-content/uploads/2025/04/20250409_instantMerge_04.jpg"
-        },
-        {
-          "id": "https://modelinghappy.com/?p=62567",
-          "author": "modelinghappy",
-          "description": "uv stretch uv stretchはBlenderでUVのゆがみを青はUVの圧縮、赤はUVの伸長、黄色はニュートラルと3Dビューポート上で表示してくれるジオメトリーノードです。 ジオメトリーノードデータをモデルに\nThe post uv stretch UVの歪みを青、赤、黄色、チェッカーマップでビューポート上で表示してくれるBlender用無料ジオメトリーノードデータ first appeared on 3DCG最新情報サイト MODELING HAPPY.",
-          "link": "https://modelinghappy.com/archives/62567",
-          "publishedOn": "2025-04-09T07:53:08.000Z",
-          "wordCount": 3464,
-          "title": "uv stretch UVの歪みを青、赤、黄色、チェッカーマップでビューポート上で表示してくれるBlender用無料ジオメトリーノードデータ",
-          "imageUrl": "https://modelinghappy.com/wp-content/uploads/2025/04/20250409_UV_Stretch_preview.jpg"
-        },
-        {
-          "id": "https://modelinghappy.com/?p=62556",
-          "author": "modelinghappy",
-          "description": "2004年にMayaを学び始めて20年以上の経験があるJL MussiさんがMayaでモデリングする時に覚えておくと便利な10個のモデリングテクニックを紹介している動画が公開されています。 いつも同じ機能でモデリングして\nThe post 20年以上の経験から学んだMayaでモデリングする時に覚えておくと便利な10個のモデリングテクニック first appeared on 3DCG最新情報サイト MODELING HAPPY.",
-          "link": "https://modelinghappy.com/archives/62556",
-          "publishedOn": "2025-04-09T07:07:30.000Z",
-          "wordCount": 3484,
-          "title": "20年以上の経験から学んだMayaでモデリングする時に覚えておくと便利な10個のモデリングテクニック",
-          "imageUrl": "https://modelinghappy.com/wp-content/uploads/2025/04/20250409_maya_tips_00.jpg"
         }
       ]
     },
@@ -2601,26 +2531,6 @@
           "wordCount": 489,
           "title": "トム・クルーズ主演、映画『ミッション：インポッシブル／ファイナル・レコニング』のトレーラー（英語／日本語）",
           "imageUrl": "https://3dtotal.jp/wp-content/uploads/2025/04/mibfr_jtrailer.jpg"
-        },
-        {
-          "id": "https://3dtotal.jp/?p=50631",
-          "author": "3dtotal管理人T",
-          "description": "★Virgin Media Whizzer | Untold Studios | Houdini Connect（4分52秒/ 制作：Untold Studios） この Houdini Connect では、Untol […]\nThe post Houdini 使用事例：高速セイウチ!? ヴァージン・メディアのプロモ映像「Walrus Whizzer」 first appeared on 3dtotal 日本語オフィシャルサイト.",
-          "link": "https://3dtotal.jp/news/50631/",
-          "publishedOn": "2025-04-09T02:00:24.000Z",
-          "wordCount": 612,
-          "title": "Houdini 使用事例：高速セイウチ!? ヴァージン・メディアのプロモ映像「Walrus Whizzer」",
-          "imageUrl": "https://3dtotal.jp/wp-content/uploads/2025/04/hconnect_WW.jpg"
-        },
-        {
-          "id": "https://3dtotal.jp/?p=50627",
-          "author": "3dtotal管理人T",
-          "description": "★Imagine Design Believe（33秒） 無限の創造性を、あなたのビジョンを楽に共有できることを想像してください。私たちはあなたのためにここにいます。非凡なものは想像するだけではありません。あなたの手によ […]\nThe post 建築、VFX からプロダクトデザイン、Eコマースまで。Chaos のプロモーション映像「Imagine Design Believe」 first appeared on 3dtotal 日本語オフィシャルサイト.",
-          "link": "https://3dtotal.jp/news/50627/",
-          "publishedOn": "2025-04-09T01:54:50.000Z",
-          "wordCount": 554,
-          "title": "建築、VFX からプロダクトデザイン、Eコマースまで。Chaos のプロモーション映像「Imagine Design Believe」",
-          "imageUrl": "https://3dtotal.jp/wp-content/uploads/2025/04/chaosidb.jpg"
         }
       ]
     },

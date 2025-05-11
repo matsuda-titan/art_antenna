@@ -2,10 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-05-10T12:17:39.057Z</updated>
+    <updated>2025-05-11T00:56:35.609Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[千種キャンパスの謎のオブジェクトをBlenderで再現した話ーっ！]]></title>
+        <id>https://zenn.dev/akupilin/articles/7808b9680c4db7</id>
+        <link href="https://zenn.dev/akupilin/articles/7808b9680c4db7"/>
+        <updated>2025-05-10T15:30:38.000Z</updated>
+        <summary type="html"><![CDATA[みなさまこんにちは！アクピリンと申します！
+私は趣味でプログラミングや3Dモデリングを利用して作品を作っている学生です！
+今回は、N高等学校の名古屋千種キャンパスの前にあるオブジェクトをBlenderで再現してみました！
+正式名称が不明なのでタイトルが長くなっていますが、ご了承ください！
+※ 以降は『Nオブジェクト』と呼びます。
+『目次』
+・Nオブジェクトとは
+・こだわり
+・まとめ
+・振り返り
+・最後に
+『Nオブジェクトとは』
+実物を見ないと何のことかわからないと思うので、まずはこちらの画像をご覧ください！
+
+3年間、スクーリングやテストなどでこのオブジェクトを目にしているのですが、調べ...]]></summary>
+        <author>
+            <name>アクピリン</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Maya上で動作するチャットボットを作る]]></title>
         <id>https://qiita.com/scixarts/items/2bf4adb00bc9f71bb501</id>
@@ -20,6 +44,27 @@ Maya上でOllamaを使用する
 チャットボットを作成するために Ollama を使用します。Ollama はローカル環境で大規模言語モ…]]></summary>
         <author>
             <name>mayaタグが付けられた新着記事 - Qiita</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[モバイル環境においてtex2Dで色をfloatで取れない場合の対処方法]]></title>
+        <id>https://zenn.dev/dimebag29/articles/d180b5faf68f97</id>
+        <link href="https://zenn.dev/dimebag29/articles/d180b5faf68f97"/>
+        <updated>2025-05-10T09:25:54.000Z</updated>
+        <summary type="html"><![CDATA[概要
+VRChatのQuest単機やAndroidスマホ環境において、tex2Dを使って32bitのDepth Textureなどの色の値をfloatで取得しようとすると、取得値の精度が勝手にhalfかfixedに落とされることがあります。この問題の対処方法をご紹介します。
+
+ 環境
+
+Unity 2022.3.22f1
+VRChat SDK - Base 3.7.6
+VRChat SDK - Worlds 3.7.6
+
+
+ 対処方法
+以下のように、本来の処理に影響のないくらいの小さい値を演算してあげると、テクスチャの色をfloatで取得できるようになります。詳しい理由はわかりません...]]></summary>
+        <author>
+            <name>dimebag29</name>
         </author>
     </entry>
     <entry>
@@ -2569,110 +2614,6 @@ The post Measure and Scale ２つの頂点の距離を測ったり、２つの�
         <summary type="html"><![CDATA[Web ページにインタラクティブな 3D グラフィックスを取り入れたい、ゲーム開発やデータビジュアライゼーション、あるいはクリエイティブな表現に挑戦したいけれど、何から始めればいいかわからない... そんなあなたへ贈る、WebGL/GLSL と Three.js の入門から実践までを網羅した決定版ガイドブックです。]]></summary>
         <author>
             <name>sawayamakouji</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【アセット紹介】Sanctus Wood Works – 木目マテリアルをカスタムして作る！]]></title>
-        <id>https://cgbox.jp/?p=62886</id>
-        <link href="https://cgbox.jp/2025/04/11/news-addon-sanctus-wood-works/"/>
-        <updated>2025-04-11T07:26:05.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは！ 今回はアドオンの「Sanctus Wood Works」を紹介します。 こちらのリンクから購入することができます。 Sanctus Wood Works 「Sanctus Wood Works」は、高品質な […]]]></summary>
-        <author>
-            <name>kasahara</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Metaら、映画レベルの自然な発話アニメーションが生成できるAIモデル「MoCha」発表！　自然言語・音声入力から直接対話アニメーションを生成可能 - ニュース]]></title>
-        <id>https://cgworld.jp/flashnews/01-202504-MoCha.html</id>
-        <link href="https://cgworld.jp/flashnews/01-202504-MoCha.html"/>
-        <updated>2025-04-11T05:37:48.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[UVを3DモデルにしてBlenderのスカルプトブラシやモデリング機能で調整して適用出来るアドオン UV Model as Mesh]]></title>
-        <id>https://modelinghappy.com/?p=62602</id>
-        <link href="https://modelinghappy.com/archives/62602"/>
-        <updated>2025-04-11T05:29:39.000Z</updated>
-        <summary type="html"><![CDATA[UV Model as Mesh UV Model as MeshはBlenderで用意したモデルのUVを１クリックでモデルとして3Dビューポート上に表示して、スカルプトブラシや3Dモデリングツールを使用してUVを調整し
-The post UVを3DモデルにしてBlenderのスカルプトブラシやモデリング機能で調整して適用出来るアドオン UV Model as Mesh first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
-        <author>
-            <name>modelinghappy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Blenderで大人気有料アドオンとアセット30種類セットで30ドルと超お得なバンドルパックが4月17日に発売します]]></title>
-        <id>https://modelinghappy.com/?p=62596</id>
-        <link href="https://modelinghappy.com/archives/62596"/>
-        <updated>2025-04-11T04:38:42.000Z</updated>
-        <summary type="html"><![CDATA[The Superhive Launch Bundle Blenderが便利になるアドオンやアセットが大量に販売されているサイトBlendermarketは先日Superhive marketと名前が変更されましたが、そ
-The post Blenderで大人気有料アドオンとアセット30種類セットで30ドルと超お得なバンドルパックが4月17日に発売します first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
-        <author>
-            <name>modelinghappy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[『ロード・オブ・ザ・リング：力の指輪』シーズン2 の FXシミュレーションの舞台裏]]></title>
-        <id>https://3dtotal.jp/?p=50638</id>
-        <link href="https://3dtotal.jp/news/50638/"/>
-        <updated>2025-04-11T02:26:20.000Z</updated>
-        <summary type="html"><![CDATA[★Behind the FX of The Rings of Power - Season 2（55分36秒） 『ロード・オブ・ザ・リング：力の指輪』シーズン2 の FXシミュレーションのメイキングに深く潜入。大規模な水 […]
-The post 『ロード・オブ・ザ・リング：力の指輪』シーズン2 の FXシミュレーションの舞台裏 first appeared on 3dtotal 日本語オフィシャルサイト.]]></summary>
-        <author>
-            <name>3dtotal管理人T</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[VFX＆CGアニメーションスタジオ Goodbye Kansas のハウスリール 2025 春]]></title>
-        <id>https://3dtotal.jp/?p=50672</id>
-        <link href="https://3dtotal.jp/news/50672/"/>
-        <updated>2025-04-11T02:26:02.000Z</updated>
-        <summary type="html"><![CDATA[★House Reel | Spring 2025 | Goodbye Kansas（2分48秒） VFX、シネマティクス、アニメーション、そしてリアルタイムの融合! Goodbye Kansas は、記憶に残るプロジェ […]
-The post VFX＆CGアニメーションスタジオ Goodbye Kansas のハウスリール 2025 春 first appeared on 3dtotal 日本語オフィシャルサイト.]]></summary>
-        <author>
-            <name>3dtotal管理人T</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[オートデスク協賛 絵本『あめだま』をそのまま動かす！奇跡のプロジェクトを支えたMaya活用事例]]></title>
-        <id>https://area.autodesk.jp/event/autodesk/amedama-making/</id>
-        <link href="https://area.autodesk.jp/event/autodesk/amedama-making/"/>
-        <updated>2025-04-11T02:00:00.000Z</updated>
-        <summary type="html"><![CDATA[【第97回アカデミー賞】短編アニメーション部門にノミネートされた『あめだま』。 		作品を見終わった後の余韻は短編とは思えないような作品に仕上がっている本作。 		ストーリー、世界観の美しさはもちろんですが、この作品の素晴らしさは原作の再現力の素晴らしさにあります。 		 		『あめだま』公式サイトはこちら 		 		原作の絵本の世界...・・・]]></summary>
-        <author>
-            <name>AREA JAPAN | Autodesk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ボーンデジタルが4/16（水）にオンラインセミナー「今こそ知りたい3D Gaussian Splatting」を開催。exAgentの中山智博氏を講師に迎えノウハウを紹介。 - ニュース]]></title>
-        <id>https://cgworld.jp/flashnews/02-2504-3d-gaussian-splatting.html</id>
-        <link href="https://cgworld.jp/flashnews/02-2504-3d-gaussian-splatting.html"/>
-        <updated>2025-04-11T01:14:12.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[『劇場版モノノ怪 唐傘』（3）カット制作篇 〜物語の舞台となる大奥を浮世絵風に3DCGで再現！ - 特集]]></title>
-        <id>https://cgworld.jp/article/cg320-acg-mononoke03.html</id>
-        <link href="https://cgworld.jp/article/cg320-acg-mononoke03.html"/>
-        <updated>2025-04-11T01:00:11.000Z</updated>
-        <summary type="html"><![CDATA[『劇場版 モノノ怪 唐傘』のアニメCGメイキングを紹介。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Preview UV Stretch - UVの伸び具合を視覚化するGeometry Nodesモディファイアのblendファイル！無料公開！]]></title>
-        <id>https://3dnchu.com/?p=1053846</id>
-        <link href="https://3dnchu.com/archives/preview-uv-stretch/"/>
-        <updated>2025-04-11T00:30:19.000Z</updated>
-        <summary type="html"><![CDATA[数多くのBlender向けGeometry Nodesモディファイアを公開しているNodes Interactive（@BeltMakerTool）による、UVの伸び具合を視覚化する「Preview UV Stretch」の.blendファイルが無償公開されています。]]></summary>
-        <author>
-            <name>Ymt3D -3dnchu-</name>
         </author>
     </entry>
 </feed>

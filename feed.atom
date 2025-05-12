@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-05-11T12:18:35.338Z</updated>
+    <updated>2025-05-12T00:55:37.571Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【アドオン紹介】Cutz Tools – ワンクリックで]]></title>
+        <id>https://cgbox.jp/?p=63096</id>
+        <link href="https://cgbox.jp/2025/05/11/news-addon-cutz-tools/"/>
+        <updated>2025-05-11T06:18:35.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは！ 今回はアドオンの「Cutz Tools」を紹介します。 こちらのリンクから購入することができます。 Cutz Tools 「Cutz Tools」は、Blenderでのハードサーフェスモデリングを効率化する […]]]></summary>
+        <author>
+            <name>kasahara</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[千種キャンパスの謎のオブジェクトをBlenderで再現した話ーっ！]]></title>
         <id>https://zenn.dev/akupilin/articles/7808b9680c4db7</id>
@@ -2555,55 +2565,6 @@ Shaderでstepを使用している処理で単純な0、1ではなくフェー�
 しかし、stepの第二引…]]></summary>
         <author>
             <name>HLSLタグが付けられた新着記事 - Qiita</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RustでGPUシェーダーが書ける【Rust GPU】]]></title>
-        <id>https://qiita.com/yonaka15/items/eebeaba894f6532762e3</id>
-        <link href="https://qiita.com/yonaka15/items/eebeaba894f6532762e3"/>
-        <updated>2025-04-12T11:23:53.000Z</updated>
-        <summary type="html"><![CDATA[はじめに
-GPUプログラミングといえば、GLSL、HLSL、WGSLなどの専用シェーダー言語を使うのが一般的です。しかし、これらの言語は大規模なコードベースの管理が難しく、現代的なプログラミング言語…]]></summary>
-        <author>
-            <name>Shaderタグが付けられた新着記事 - Qiita</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【エクステンション紹介】X-Ray Selection Tools – 透過選択をより効率化！]]></title>
-        <id>https://cgbox.jp/?p=62890</id>
-        <link href="https://cgbox.jp/2025/04/12/news-addon-x-ray-selection-tools/"/>
-        <updated>2025-04-12T05:27:05.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは！ 今回はアドオンの「X-Ray Selection Tools」を紹介します。 こちらのリンクから購入することができます。 X-Ray Selection Tools 「X-Ray Selection Too […]]]></summary>
-        <author>
-            <name>kasahara</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mayaに同梱されているUSDツールセットの利用方法]]></title>
-        <id>https://qiita.com/scixarts/items/fd99520317e8c8a30c71</id>
-        <link href="https://qiita.com/scixarts/items/fd99520317e8c8a30c71"/>
-        <updated>2025-04-12T03:49:49.000Z</updated>
-        <summary type="html"><![CDATA[環境
-
-Windows
-Autodesk Maya 2026
-
-MayaのUSDツールセット
-MayaにはUSDのライブラリと一緒に USDツールセット も同梱されています。
-Mayaに同梱されているU…]]></summary>
-        <author>
-            <name>mayaタグが付けられた新着記事 - Qiita</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Measure and Scale ２つの頂点の距離を測ったり、２つの頂点の距離に合わて任意の数値にモデル全体を均一に拡大縮小出来るBlender用無料アドオン]]></title>
-        <id>https://modelinghappy.com/?p=62608</id>
-        <link href="https://modelinghappy.com/archives/62608"/>
-        <updated>2025-04-12T01:03:35.000Z</updated>
-        <summary type="html"><![CDATA[Measure and Scale Measure and ScaleはBlenderで2つの頂点の距離をメートル、センチ、ミリメートル、フィート、インチで測定したり、２つの頂点の距離に合わて任意の数値にモデル全体を均一
-The post Measure and Scale ２つの頂点の距離を測ったり、２つの頂点の距離に合わて任意の数値にモデル全体を均一に拡大縮小出来るBlender用無料アドオン first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
-        <author>
-            <name>modelinghappy</name>
         </author>
     </entry>
 </feed>

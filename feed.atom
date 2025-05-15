@@ -2,10 +2,58 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-05-14T12:20:54.709Z</updated>
+    <updated>2025-05-15T00:52:23.008Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【特別篇】After Effectsのプラグイン「Red Giant Trapcode」を使ってみよう 〜その3（Starglow篇：パート2） - 連載]]></title>
+        <id>https://cgworld.jp/regular/202505-tipsnote.html</id>
+        <link href="https://cgworld.jp/regular/202505-tipsnote.html"/>
+        <updated>2025-05-15T01:00:08.000Z</updated>
+        <summary type="html"><![CDATA[After Effectsの人気プラグインン「Red Giant Trapcode」の「Starglow」をご紹介]]></summary>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unreal Engine 5.6Preview版が公開]]></title>
+        <id>https://modelinghappy.com/?p=63013</id>
+        <link href="https://modelinghappy.com/archives/63013"/>
+        <updated>2025-05-15T00:24:24.000Z</updated>
+        <summary type="html"><![CDATA[Unrela Engine5.6  Public Roadmap  Unreal Engine 5.6Preview版が公開されました。 Lumenでのハードウェアレイトレーシングの最適化がされ広大なオープンワールドでも
+The post Unreal Engine 5.6Preview版が公開 first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
+        <author>
+            <name>modelinghappy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GUILTY GEAR Xrd開発スタッフが送るアニメ調キャラモデリング - アークシステムワークスのTAによるアニメ調キャラモデリングTIPS紹介講演動画がYoutube上で公開中]]></title>
+        <id>https://3dnchu.com/?p=1054736</id>
+        <link href="https://3dnchu.com/archives/ggxrd-chara-modeling-tips/"/>
+        <updated>2025-05-14T15:45:34.000Z</updated>
+        <summary type="html"><![CDATA[アークシステムワークス開発陣による、アニメ調キャラモデリングTIPS紹介講演「GUILTY GEAR Xrd開発スタッフが送るアニメ調キャラモデリング」の録画動画がYoutube上で公開されました！]]></summary>
+        <author>
+            <name>Ymt3D -3dnchu-</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Unity][SRP]自作レンダーパイプラインにVFX Graphを導入する]]></title>
+        <id>https://zenn.dev/nithink/articles/3875574342765a</id>
+        <link href="https://zenn.dev/nithink/articles/3875574342765a"/>
+        <updated>2025-05-14T13:03:20.000Z</updated>
+        <summary type="html"><![CDATA[概要
+自作レンダーパイプラインでVFXGraphのパッケージを使えるようにする方法について調査しました。
+
+Unityのバージョンは6000.0.42です。
+自作レンダーパイプラインというのはURPやHDRPを改造するという話ではなく、Core RP Libraryで一から作成するレンダーパイプラインという意味です。詳しくは以下もご覧ください。
+https://zenn.dev/nithink/articles/3810a563f2e2d6
+この記事では、レンダーパイプラインをパッケージとして開発していて、既に最低限の描画フローは実装できている前提とします。
+またVFXGraphのツ...]]></summary>
+        <author>
+            <name>Nithink</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Modstack 複数のモディファイアでも設定をそのまま保存して別のモデルに一度に反映できるBlender用アドオン]]></title>
         <id>https://modelinghappy.com/?p=63004</id>
@@ -55,6 +103,16 @@ The post トークンや月額料金不要でBlender内でプロンプト入力�
         <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
         <author>
             <name>CGWORLD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【アドオン紹介】Easy B2U – Blender/Unityを数クリックで同期！]]></title>
+        <id>https://cgbox.jp/?p=63109</id>
+        <link href="https://cgbox.jp/2025/05/14/news-addon-easy-b2u/"/>
+        <updated>2025-05-14T05:34:36.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは！ 今回はアドオンの「Easy B2U」を紹介します。 こちらのリンクから購入することができます。 Easy B2U 「Easy B2U」は、BlenderからUnityへのデータ移行をスムーズに行うためのアド […]]]></summary>
+        <author>
+            <name>kasahara</name>
         </author>
     </entry>
     <entry>
@@ -2563,98 +2621,6 @@ Neural 3D Video Synthesis from Multi-view Videoの論文で同時に提案され
 提供: Meta Res...]]></summary>
         <author>
             <name>masanory</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「KIRI Engine」が無料Blenderアドオン「3DGS Render 3.0」リリース！　3D Gaussian Splattingのインポートからペイント、編集、変換、マージ、レンダリング、エクスポートまでをBlender内で完結 - ニュース]]></title>
-        <id>https://cgworld.jp/flashnews/01-202504-KIRI-3DGS-Blender-3.html</id>
-        <link href="https://cgworld.jp/flashnews/01-202504-KIRI-3DGS-Blender-3.html"/>
-        <updated>2025-04-15T10:48:12.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【インタビュー】日々の業務を個人的な挑戦に：3Dアーティスト Oleg Bozhko 氏]]></title>
-        <id>https://3dtotal.jp/?p=50699</id>
-        <link href="https://3dtotal.jp/features/50699/"/>
-        <updated>2025-04-15T09:55:30.000Z</updated>
-        <summary type="html"><![CDATA[Q. 自己紹介をお願いします 皆さん、こんにちは。Oleg Bozhkoです。ウクライナのハルキウにある スタジオ Plarium で 3Dアーティストとして勤務しています。Plarium では『RAID: Shadow […]
-The post 【インタビュー】日々の業務を個人的な挑戦に：3Dアーティスト Oleg Bozhko 氏 first appeared on 3dtotal 日本語オフィシャルサイト.]]></summary>
-        <author>
-            <name>3dtotal管理人T</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WetaFX より、映画『ゴジラxコング 新たなる帝国』のメイキング映像]]></title>
-        <id>https://3dtotal.jp/?p=50392</id>
-        <link href="https://3dtotal.jp/news/50392/"/>
-        <updated>2025-04-15T08:25:53.000Z</updated>
-        <summary type="html"><![CDATA[★エフェクト シミュレーション：Effects Simulations in Godzilla X Kong: The New Empire（2分15秒） 溶岩、残火、水のシミュレーション、舞い上がる砂埃。コングとスーコ […]
-The post WetaFX より、映画『ゴジラxコング 新たなる帝国』のメイキング映像 first appeared on 3dtotal 日本語オフィシャルサイト.]]></summary>
-        <author>
-            <name>3dtotal管理人T</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【新講座】ルックデブの基礎を固めるためのオンライン講座『アセットルックデブ基礎講座～プリレンダーのルックデブとPBRを知る～』が5月13日(火)に開催決定 - ニュース]]></title>
-        <id>https://cgworld.jp/flashnews/pbr513.html</id>
-        <link href="https://cgworld.jp/flashnews/pbr513.html"/>
-        <updated>2025-04-15T07:13:58.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【アドオン紹介】Soft Body Painter – ペイントした部分にソフトボディを追加！]]></title>
-        <id>https://cgbox.jp/?p=62914</id>
-        <link href="https://cgbox.jp/2025/04/15/news-addon-soft-body-painter/"/>
-        <updated>2025-04-15T07:05:14.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは！ 今回はアドオンの「Soft Body Painter」を紹介します。 こちらのリンクから購入することができます。 Soft Body Painter 「Soft Body Painter」は、ペイント部分に […]]]></summary>
-        <author>
-            <name>kasahara</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2D、3D、UIデザイナー志望者必見！　26卒クリ博ポートフォリオオンライン選考会の開催が決定　※6/2（月）締切 - ニュース]]></title>
-        <id>https://cgworld.jp/flashnews/2504-kurihaku.html</id>
-        <link href="https://cgworld.jp/flashnews/2504-kurihaku.html"/>
-        <updated>2025-04-15T06:00:00.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AIアシストキャラクターアニメーションツール「Cascadeur 2025.1」リリース！　ポーズ間のモーション自動生成、操作性向上、AutoPhysics・AutoPosing・Ragdollの更新など - ニュース]]></title>
-        <id>https://cgworld.jp/flashnews/01-202504-Cascadeur20251.html</id>
-        <link href="https://cgworld.jp/flashnews/01-202504-Cascadeur20251.html"/>
-        <updated>2025-04-15T03:41:20.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Animation Deformer Tool for Maya - パスで生成した地面に沿って歩行アニメーションなどを足滑りせずに変形出来るMaya用ツール！]]></title>
-        <id>https://3dnchu.com/?p=1053965</id>
-        <link href="https://3dnchu.com/archives/animation-deformer-tool-for-maya/"/>
-        <updated>2025-04-15T02:56:58.000Z</updated>
-        <summary type="html"><![CDATA[Animation Deformer Tool for Maya - パスで生成した地面に沿って歩行アニメーションなどを足滑りせずに変形出来るMaya用ツール！]]></summary>
-        <author>
-            <name>Ymt3D -3dnchu-</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【特別篇】After Effectsのプラグイン「Red Giant Trapcode」を使ってみよう 〜その2（Starglow篇：パート1） - 連載]]></title>
-        <id>https://cgworld.jp/regular/202504-tipsnote.html</id>
-        <link href="https://cgworld.jp/regular/202504-tipsnote.html"/>
-        <updated>2025-04-15T01:00:41.000Z</updated>
-        <summary type="html"><![CDATA[After Effectsの人気プラグインン「Red Giant Trapcode」の「Starglow」をご紹介]]></summary>
-        <author>
-            <name>CGWORLD</name>
         </author>
     </entry>
 </feed>

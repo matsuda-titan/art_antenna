@@ -2,10 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-05-15T00:52:23.008Z</updated>
+    <updated>2025-05-15T03:36:20.295Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Macで Hunyuan-3DをComfyUI から動かした話]]></title>
+        <id>https://zenn.dev/renue/articles/144cd47fbe9d7a</id>
+        <link href="https://zenn.dev/renue/articles/144cd47fbe9d7a"/>
+        <updated>2025-05-15T01:48:24.000Z</updated>
+        <summary type="html"><![CDATA[はじめに
+Tencent Hunyuan-3D は複数枚の静止画から 3D メッシュを生成する先進モデルです。
+Apple Silicon（M シリーズ）環境では MPS 制約や依存ライブラリ不足が障壁となりがちですが、本稿では Mac mini M2 Pro と MacBook Air M2 のローカル環境で実際に動作させた検証結果を整理し、「まず動かす」ための最短手順をまとめます。
+Blenderの拡張プラグインとしてHunyuan-3Dを動かす方法もありますが、BlenderだとCPU機能のみが使われてしまう(Macだと)ので非常に生成が遅いです。
+なのでComfyUIを経由す...]]></summary>
+        <author>
+            <name>renue</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【特別篇】After Effectsのプラグイン「Red Giant Trapcode」を使ってみよう 〜その3（Starglow篇：パート2） - 連載]]></title>
         <id>https://cgworld.jp/regular/202505-tipsnote.html</id>
@@ -2582,45 +2596,6 @@ The post Houdini 使用事例：Karma XPU の活用 - Cause and FX のバーチ�
         <summary type="html"><![CDATA[「あにつく2024」グラフィニカ セミナー「実験的ショートフィルム『Forest Tale』山あり谷あり」レポート]]></summary>
         <author>
             <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RopesScript ２つのロケーターを選択するだけで垂れ下がったカーブを簡単作成出来るMaya用無料プラグイン]]></title>
-        <id>https://modelinghappy.com/?p=62653</id>
-        <link href="https://modelinghappy.com/archives/62653"/>
-        <updated>2025-04-15T13:36:35.000Z</updated>
-        <summary type="html"><![CDATA[RopesScript RopesScriptはmayaで作成した２つのロケーターの間に垂れ下がったカーブを作成してくれる無料プラグインです。 ２つのロケーターからはプラグインで指定した距離で垂れ下がったカーブを複数作成
-The post RopesScript ２つのロケーターを選択するだけで垂れ下がったカーブを簡単作成出来るMaya用無料プラグイン first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
-        <author>
-            <name>modelinghappy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Blender Auto Focus Camera Addon スマホとBlenderのカメラを連携してスマホを動かすとBlender側のカメラも動いて中心部分にだけピントをスムーズに合わせてくれるBlender用アドオン]]></title>
-        <id>https://modelinghappy.com/?p=62649</id>
-        <link href="https://modelinghappy.com/archives/62649"/>
-        <updated>2025-04-15T13:25:16.000Z</updated>
-        <summary type="html"><![CDATA[Blender Auto Focus Camera Addon Blender Auto Focus Camera AddonはBlenderでスマホと連携してビューポートの中心にあるものにフォーカスが合って自動的に被写
-The post Blender Auto Focus Camera Addon スマホとBlenderのカメラを連携してスマホを動かすとBlender側のカメラも動いて中心部分にだけピントをスムーズに合わせてくれるBlender用アドオン first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
-        <author>
-            <name>modelinghappy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[4D Gaussian Splattingのデータセットに関するメモ]]></title>
-        <id>https://zenn.dev/masanory/articles/e1cf2d7b2dae18</id>
-        <link href="https://zenn.dev/masanory/articles/e1cf2d7b2dae18"/>
-        <updated>2025-04-15T13:10:15.000Z</updated>
-        <summary type="html"><![CDATA[最近4D系のNeRF、Gaussian Splattingについて興味があるので調べています。今回は4D Gaussian Splatting for Real-Time Dynamic Scene Renderingなどのベンチマークで使用されているNeural 3D Video Synthesis Datasetについてまとめます。
-
- Neural 3D Video Synthesis Dataset
-
-
-Neural 3D Video Synthesis from Multi-view Videoの論文で同時に提案されたデータセット
-データセットlink
-提供: Meta Res...]]></summary>
-        <author>
-            <name>masanory</name>
         </author>
     </entry>
 </feed>

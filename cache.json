@@ -2089,26 +2089,6 @@
           "wordCount": 3469,
           "title": "Grovescape Blenderで17種類のプリセットの樹木から大量配置、ペイント配置等出来る無料ジオメトリーノードデータ",
           "imageUrl": "https://modelinghappy.com/wp-content/uploads/2025/04/20250417_Grovescape_01.jpg"
-        },
-        {
-          "id": "https://modelinghappy.com/?p=62653",
-          "author": "modelinghappy",
-          "description": "RopesScript RopesScriptはmayaで作成した２つのロケーターの間に垂れ下がったカーブを作成してくれる無料プラグインです。 ２つのロケーターからはプラグインで指定した距離で垂れ下がったカーブを複数作成\nThe post RopesScript ２つのロケーターを選択するだけで垂れ下がったカーブを簡単作成出来るMaya用無料プラグイン first appeared on 3DCG最新情報サイト MODELING HAPPY.",
-          "link": "https://modelinghappy.com/archives/62653",
-          "publishedOn": "2025-04-15T13:36:35.000Z",
-          "wordCount": 3460,
-          "title": "RopesScript ２つのロケーターを選択するだけで垂れ下がったカーブを簡単作成出来るMaya用無料プラグイン",
-          "imageUrl": "https://modelinghappy.com/wp-content/uploads/2025/04/20250415_ropescript_01.jpg"
-        },
-        {
-          "id": "https://modelinghappy.com/?p=62649",
-          "author": "modelinghappy",
-          "description": "Blender Auto Focus Camera Addon Blender Auto Focus Camera AddonはBlenderでスマホと連携してビューポートの中心にあるものにフォーカスが合って自動的に被写\nThe post Blender Auto Focus Camera Addon スマホとBlenderのカメラを連携してスマホを動かすとBlender側のカメラも動いて中心部分にだけピントをスムーズに合わせてくれるBlender用アドオン first appeared on 3DCG最新情報サイト MODELING HAPPY.",
-          "link": "https://modelinghappy.com/archives/62649",
-          "publishedOn": "2025-04-15T13:25:16.000Z",
-          "wordCount": 3480,
-          "title": "Blender Auto Focus Camera Addon スマホとBlenderのカメラを連携してスマホを動かすとBlender側のカメラも動いて中心部分にだけピントをスムーズに合わせてくれるBlender用アドオン",
-          "imageUrl": "https://modelinghappy.com/wp-content/uploads/2025/04/20250415_Auto_Focus_Camera.jpg"
         }
       ]
     },
@@ -2681,6 +2661,21 @@
       "siteUrl": "https://zenn.dev/topics/3dcg",
       "articles": [
         {
+          "id": "https://zenn.dev/renue/articles/144cd47fbe9d7a",
+          "author": "renue",
+          "description": "はじめに\nTencent Hunyuan-3D は複数枚の静止画から 3D メッシュを生成する先進モデルです。\nApple Silicon（M シリーズ）環境では MPS 制約や依存ライブラリ不足が障壁となりがちですが、本稿では Mac mini M2 Pro と MacBook Air M2 のローカル環境で実際に動作させた検証結果を整理し、「まず動かす」ための最短手順をまとめます。\nBlenderの拡張プラグインとしてHunyuan-3Dを動かす方法もありますが、BlenderだとCPU機能のみが使われてしまう(Macだと)ので非常に生成が遅いです。\nなのでComfyUIを経由す...",
+          "link": "https://zenn.dev/renue/articles/144cd47fbe9d7a",
+          "publishedOn": "2025-05-15T01:48:24.000Z",
+          "wordCount": 1050,
+          "title": "Macで Hunyuan-3DをComfyUI から動かした話",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--ocNBoNdV--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Mac%25E3%2581%25A7%2520Hunyuan-3D%25E3%2582%2592ComfyUI%2520%25E3%2581%258B%25E3%2582%2589%25E5%258B%2595%25E3%2581%258B%25E3%2581%2597%25E3%2581%259F%25E8%25A9%25B1%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:renue%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2QyMTQ0YTkzZjMuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png",
+            "length": "0",
+            "type": "image/png"
+          },
+          "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--ocNBoNdV--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Mac%25E3%2581%25A7%2520Hunyuan-3D%25E3%2582%2592ComfyUI%2520%25E3%2581%258B%25E3%2582%2589%25E5%258B%2595%25E3%2581%258B%25E3%2581%2597%25E3%2581%259F%25E8%25A9%25B1%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:renue%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2QyMTQ0YTkzZjMuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
+        },
+        {
           "id": "https://zenn.dev/akupilin/articles/7808b9680c4db7",
           "author": "アクピリン",
           "description": "みなさまこんにちは！アクピリンと申します！\n私は趣味でプログラミングや3Dモデリングを利用して作品を作っている学生です！\n今回は、N高等学校の名古屋千種キャンパスの前にあるオブジェクトをBlenderで再現してみました！\n正式名称が不明なのでタイトルが長くなっていますが、ご了承ください！\n※ 以降は『Nオブジェクト』と呼びます。\n『目次』\n・Nオブジェクトとは\n・こだわり\n・まとめ\n・振り返り\n・最後に\n『Nオブジェクトとは』\n実物を見ないと何のことかわからないと思うので、まずはこちらの画像をご覧ください！\n\n3年間、スクーリングやテストなどでこのオブジェクトを目にしているのですが、調べ...",
@@ -2694,21 +2689,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--sqtVmS7T--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E5%258D%2583%25E7%25A8%25AE%25E3%2582%25AD%25E3%2583%25A3%25E3%2583%25B3%25E3%2583%2591%25E3%2582%25B9%25E3%2581%25AE%25E8%25AC%258E%25E3%2581%25AE%25E3%2582%25AA%25E3%2583%2596%25E3%2582%25B8%25E3%2582%25A7%25E3%2582%25AF%25E3%2583%2588%25E3%2582%2592Blender%25E3%2581%25A7%25E5%2586%258D%25E7%258F%25BE%25E3%2581%2597%25E3%2581%259F%25E8%25A9%25B1%25E3%2583%25BC%25E3%2581%25A3%25EF%25BC%2581%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2582%25A2%25E3%2582%25AF%25E3%2583%2594%25E3%2583%25AA%25E3%2583%25B3%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jTDNNdUpEUjI4TEJaUEN4aXdFODJZZ3loVUxHRWMzdlhxb2dVaU9VMGtRMnh4TFVFTT1zOTYtYw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
-        },
-        {
-          "id": "https://zenn.dev/masanory/articles/e1cf2d7b2dae18",
-          "author": "masanory",
-          "description": "最近4D系のNeRF、Gaussian Splattingについて興味があるので調べています。今回は4D Gaussian Splatting for Real-Time Dynamic Scene Renderingなどのベンチマークで使用されているNeural 3D Video Synthesis Datasetについてまとめます。\n\n Neural 3D Video Synthesis Dataset\n\n\nNeural 3D Video Synthesis from Multi-view Videoの論文で同時に提案されたデータセット\nデータセットlink\n提供: Meta Res...",
-          "link": "https://zenn.dev/masanory/articles/e1cf2d7b2dae18",
-          "publishedOn": "2025-04-15T13:10:15.000Z",
-          "wordCount": 469,
-          "title": "4D Gaussian Splattingのデータセットに関するメモ",
-          "enclosure": {
-            "url": "https://res.cloudinary.com/zenn/image/upload/s--PDO_oyuZ--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:4D%2520Gaussian%2520Splatting%25E3%2581%25AE%25E3%2583%2587%25E3%2583%25BC%25E3%2582%25BF%25E3%2582%25BB%25E3%2583%2583%25E3%2583%2588%25E3%2581%25AB%25E9%2596%25A2%25E3%2581%2599%25E3%2582%258B%25E3%2583%25A1%25E3%2583%25A2%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:masanory%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2hyTEtfTGl4U2psZE1rN2l5ekxtUXU4a1pzRHhGRVJ0c1hfMEVtQmo4PXM5Ni1j%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png",
-            "length": "0",
-            "type": "image/png"
-          },
-          "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--PDO_oyuZ--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:4D%2520Gaussian%2520Splatting%25E3%2581%25AE%25E3%2583%2587%25E3%2583%25BC%25E3%2582%25BF%25E3%2582%25BB%25E3%2583%2583%25E3%2583%2588%25E3%2581%25AB%25E9%2596%25A2%25E3%2581%2599%25E3%2582%258B%25E3%2583%25A1%25E3%2583%25A2%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:masanory%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2hyTEtfTGl4U2psZE1rN2l5ekxtUXU4a1pzRHhGRVJ0c1hfMEVtQmo4PXM5Ni1j%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
         }
       ]
     },

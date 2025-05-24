@@ -2575,6 +2575,21 @@
       "siteUrl": "https://zenn.dev/topics/shader",
       "articles": [
         {
+          "id": "https://zenn.dev/tkagawa/articles/ab1975c2cbac23",
+          "author": "TKAGAWA",
+          "description": "Unityで炎をShaderのHLSL言語での作成方法をChatGTPに聞いてみました。\n\"あなたは、優秀なUnityエンジニアです。\n炎のエフェクトを、Shaderだけで、作っていただきたいです。\n作り方をご教授お願いしたいのと、どのように炎がみえるか、画像を提供してください\"\n以下が、ChatGTPの回答です。\n\n承知しました！ここではUnityのURP（Universal Render Pipeline）環境で、Shader（HLSL）だけで炎のエフェクトを作る方法をご紹介します。以下の要素を組み合わせることで、リアルタイムで揺らぐ炎のようなビジュアルを表現できます。\n🔥 炎のSh...",
+          "link": "https://zenn.dev/tkagawa/articles/ab1975c2cbac23",
+          "publishedOn": "2025-05-24T05:58:15.000Z",
+          "wordCount": 1002,
+          "title": "Unityで炎をShaderのHLSL言語での作成方法をChatGTPに聞いてみた<その1>",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--UsR1jan3--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Unity%25E3%2581%25A7%25E7%2582%258E%25E3%2582%2592Shader%25E3%2581%25AEHLSL%25E8%25A8%2580%25E8%25AA%259E%25E3%2581%25A7%25E3%2581%25AE%25E4%25BD%259C%25E6%2588%2590%25E6%2596%25B9%25E6%25B3%2595%25E3%2582%2592ChatGTP%25E3%2581%25AB%25E8%2581%259E%25E3%2581%2584%25E3%2581%25A6%25E3%2581%25BF%25E3%2581%259F%253C%25E3%2581%259D%25E3%2581%25AE1%253E%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:TKAGAWA%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jSmItNzBTcWtSV0lHT2NDd1pMa05ocjBHamo0YlRBWmZWa1Vhamk0dnJKYXlualBnPXM5Ni1j%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png",
+            "length": "0",
+            "type": "image/png"
+          },
+          "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--UsR1jan3--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Unity%25E3%2581%25A7%25E7%2582%258E%25E3%2582%2592Shader%25E3%2581%25AEHLSL%25E8%25A8%2580%25E8%25AA%259E%25E3%2581%25A7%25E3%2581%25AE%25E4%25BD%259C%25E6%2588%2590%25E6%2596%25B9%25E6%25B3%2595%25E3%2582%2592ChatGTP%25E3%2581%25AB%25E8%2581%259E%25E3%2581%2584%25E3%2581%25A6%25E3%2581%25BF%25E3%2581%259F%253C%25E3%2581%259D%25E3%2581%25AE1%253E%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:TKAGAWA%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jSmItNzBTcWtSV0lHT2NDd1pMa05ocjBHamo0YlRBWmZWa1Vhamk0dnJKYXlualBnPXM5Ni1j%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
+        },
+        {
           "id": "https://zenn.dev/dimebag29/articles/d180b5faf68f97",
           "author": "dimebag29",
           "description": "概要\nVRChatのQuest単機やAndroidスマホ環境において、tex2Dを使って32bitのDepth Textureなどの色の値をfloatで取得しようとすると、取得値の精度が勝手にhalfかfixedに落とされることがあります。この問題の対処方法をご紹介します。\n\n 環境\n\nUnity 2022.3.22f1\nVRChat SDK - Base 3.7.6\nVRChat SDK - Worlds 3.7.6\n\n\n 対処方法\n以下のように、本来の処理に影響のないくらいの小さい値を演算してあげると、テクスチャの色をfloatで取得できるようになります。詳しい理由はわかりません...",
@@ -3112,6 +3127,36 @@
       "siteUrl": "https://note.com/hashtag/3DCG",
       "articles": [
         {
+          "id": "https://note.com/juntominaga/n/nc7407e53035e",
+          "author": null,
+          "description": "🟦 冒頭文（導入）\n\n雨上がりのように、しっとりと濡れた石。\n今回は、Substance 3D Painterで「にじみ × 反射 × 凹凸」を組み合わせたマテリアル表現を実験しました。\nAR空間でも映える“リアルな湿り感”をどう表現するか、その構成と工夫を丁寧にまとめています。\n続きをみる",
+          "link": "https://note.com/juntominaga/n/nc7407e53035e",
+          "publishedOn": "2025-05-24T06:42:21.000Z",
+          "wordCount": 2524,
+          "title": "「濡れた石 × にじみ × 反射」Substanceマテリアル実験記録｜実践チュートリアル",
+          "imageUrl": "https://assets.st-note.com/production/uploads/images/187521009/rectangle_large_type_2_e851faaffdab8f10484bd2262c16f6ef.png?width=800"
+        },
+        {
+          "id": "https://note.com/central_wolf/n/na42c18a1c609",
+          "author": null,
+          "description": "Blenderを始めたばかりの人にとって、最初にぶつかる疑問の一つが「EeveeとCycles、どっちでレンダリングすればいいの？」という問題です。\nこの記事では、それぞれの特徴と違い、そして「どんな考え方で使い分ければいいか」を初心者向けに解説します。\n続きをみる",
+          "link": "https://note.com/central_wolf/n/na42c18a1c609",
+          "publishedOn": "2025-05-24T05:44:07.000Z",
+          "wordCount": 2368,
+          "title": "EeveeとCycles、どっち使えばいいの？",
+          "imageUrl": "https://assets.st-note.com/production/uploads/images/191855234/rectangle_large_type_2_9c4f710b9ae0f6c39a32c05e186e4068.png?width=800"
+        },
+        {
+          "id": "https://note.com/mochisora123/n/n7c9c7ba8f2ff",
+          "author": null,
+          "description": "あれからどれほどの時が流れたでしょう…\n前回の投稿からずいぶん間が空いてしまいました。\nこんにちは。開いてくれてありがとう。\n私は餅村(もちむら)、おもちと呼んでください。\n続きをみる",
+          "link": "https://note.com/mochisora123/n/n7c9c7ba8f2ff",
+          "publishedOn": "2025-05-24T05:30:09.000Z",
+          "wordCount": 2524,
+          "title": "絵と漫画と3D混ぜ日記",
+          "imageUrl": "https://assets.st-note.com/production/uploads/images/191853468/rectangle_large_type_2_691aff39dc1b531a6add17ce12a9fa19.png?width=800"
+        },
+        {
           "id": "https://note.com/zebia/n/n5e31b429ed26",
           "author": null,
           "description": "はじめまして。地方競馬、中央競馬問わず予想をします。基本的に馬複、3連複、3連単の予想を載せてますが、もちろんアレンジして単勝だけとか複勝だけ、あるいは相手を増やして総流しにしても構いません👍\n皆様のお役に立てれば嬉しいです🙂\n必ず結果を出しますのでよろしくお願い致します🙂\n続きをみる",
@@ -3415,6 +3460,16 @@
       "feedUrl": "https://note.com/hashtag/substancepainter/rss",
       "siteUrl": "https://note.com/hashtag/substancepainter",
       "articles": [
+        {
+          "id": "https://note.com/juntominaga/n/nc7407e53035e",
+          "author": null,
+          "description": "🟦 冒頭文（導入）\n\n雨上がりのように、しっとりと濡れた石。\n今回は、Substance 3D Painterで「にじみ × 反射 × 凹凸」を組み合わせたマテリアル表現を実験しました。\nAR空間でも映える“リアルな湿り感”をどう表現するか、その構成と工夫を丁寧にまとめています。\n続きをみる",
+          "link": "https://note.com/juntominaga/n/nc7407e53035e",
+          "publishedOn": "2025-05-24T06:42:21.000Z",
+          "wordCount": 2524,
+          "title": "「濡れた石 × にじみ × 反射」Substanceマテリアル実験記録｜実践チュートリアル",
+          "imageUrl": "https://assets.st-note.com/production/uploads/images/187521009/rectangle_large_type_2_e851faaffdab8f10484bd2262c16f6ef.png?width=800"
+        },
         {
           "id": "https://note.com/skymill_techblog/n/n3ea3ea71d52d",
           "author": null,

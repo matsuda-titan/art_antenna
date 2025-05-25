@@ -2,10 +2,83 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-05-24T12:18:49.956Z</updated>
+    <updated>2025-05-25T00:58:51.742Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Blenderでの3DCGの習作 第５弾(金属バネ)]]></title>
+        <id>https://note.com/avocadowasabi/n/n5366bdf76908</id>
+        <link href="https://note.com/avocadowasabi/n/n5366bdf76908"/>
+        <updated>2025-05-24T22:51:19.000Z</updated>
+        <summary type="html"><![CDATA[バネを作るには、断面の円を作っておいて、スクリューモディファイヤーでねじれた回転体を作るとあっさりできます。Blenderはモディファイヤーだけでも本当に多機能ですね！勉強しがいがあります。
+続きをみる]]></summary>
+        <author>
+            <name>#3DCGタグ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Houdini で Arnold が使えないときのメモ]]></title>
+        <id>https://note.com/hrtk_mrn/n/n41062a6bca67</id>
+        <link href="https://note.com/hrtk_mrn/n/n41062a6bca67"/>
+        <updated>2025-05-24T16:50:27.000Z</updated>
+        <summary type="html"><![CDATA[Houdini20.5 HtoA6.3.7.0を使っていた際にArnoldでレンダリングされない問題が起きました。レンダリングウィンドウ右上に''generating scene''とだけ表示され真っ暗。OBJ階層にはカメラもArnold lightも作成していました。
+
+続きをみる]]></summary>
+        <author>
+            <name>#Houdiniタグ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【UE5】MetaHuman Creatorを使って人物モデルを作る方法【初心者向け】]]></title>
+        <id>https://cgbox.jp/?p=63053</id>
+        <link href="https://cgbox.jp/2025/05/24/ue5-metahuman-creator-beginner/"/>
+        <updated>2025-05-24T14:01:15.000Z</updated>
+        <summary type="html"><![CDATA[Epic Gamesから提供されている無料ツール「MetaHuman Creator」を使うことで、Unreal Engine 5（以下、UE5）上で操作できるリアルな人物モデルを制作することができます。 この記事では、 […]]]></summary>
+        <author>
+            <name>CGbox編集部</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「悪魔のささやき」ネガティブ思考との闘い]]></title>
+        <id>https://note.com/renji2ren8/n/nacff35b536a9</id>
+        <link href="https://note.com/renji2ren8/n/nacff35b536a9"/>
+        <updated>2025-05-24T13:05:16.000Z</updated>
+        <summary type="html"><![CDATA[まず最初に、電子書籍『土方歳三の謎』とリンクさせる検証③の「動画の説明」を少々（告知）。
+検証③　土方歳三の上半身座像写真と３Ｄの照合（電子書籍リンク動画）
+続きをみる]]></summary>
+        <author>
+            <name>#3DCGタグ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【Blender教本】中級者向けのセルルックキャラクター作成の本③]]></title>
+        <id>https://note.com/baum001/n/n10e4b2639c47</id>
+        <link href="https://note.com/baum001/n/n10e4b2639c47"/>
+        <updated>2025-05-24T12:52:50.000Z</updated>
+        <summary type="html"><![CDATA[そろそろセルルック教本やアバター作成の方もやろう…と思った矢先に、また体調不良に💦
+別に寝てた訳ではないけど、今週何回病院行ったんや…ってくらい通院してました
+で、今日はまぁまぁ体調も良かったので、午後からBlenderを立ち上げて、とりあえす教本の方を少し進めとこうと
+久しぶりに前回のデータ開いたら、何かようわからんことになってた💧
+続きをみる]]></summary>
+        <author>
+            <name>#3DCGタグ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【中編】居場所がなかった私が、Blenderで“理想の部屋”を作った理由｜部屋と推しと、少しの自信の話]]></title>
+        <id>https://note.com/clever_auk549/n/nf34f0f15a5e6</id>
+        <link href="https://note.com/clever_auk549/n/nf34f0f15a5e6"/>
+        <updated>2025-05-24T12:51:33.000Z</updated>
+        <summary type="html"><![CDATA[前編では「自分の居場所」を3Dで作りたいと思ったきっかけと、Blenderを始めた理由、そして100日チャレンジの始まりについて書きました。
+中編となる今回は、3月に制作した“理想の部屋”と、“推し”へのお祝いとして並行して行ったモデリングについて。ひとつずつ積み上げていくことで、少しずつ自信と「自分の空間」が形になっていった記録です。
+
+
+続きをみる]]></summary>
+        <author>
+            <name>#3DCGタグ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【Blender4】ミストやAOでCGのクオリティを上げる]]></title>
         <id>https://note.com/maccro55/n/nb01d61b88826</id>
@@ -118,6 +191,36 @@ AR空間でも映える“リアルな湿り感”をどう表現するか、そ
 続きをみる]]></summary>
         <author>
             <name>#3DCGタグ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DCCツールのスクリプト・プラグイン開発で愛用しているPythonライブラリ]]></title>
+        <id>https://qiita.com/scixarts/items/033c0e948be2666fe498</id>
+        <link href="https://qiita.com/scixarts/items/033c0e948be2666fe498"/>
+        <updated>2025-05-24T03:28:31.000Z</updated>
+        <summary type="html"><![CDATA[Pythonライブラリ一覧
+2025年5月現在、DCCツールのスクリプト・プラグイン開発において個人的に愛用しているPythonライブラリ一覧を紹介します。
+パッケージ・プロジェクト管理ツール
+uv
+
+https://docs.astral.sh/uv/guides/install-python…]]></summary>
+        <author>
+            <name>mayaタグが付けられた新着記事 - Qiita</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DCCツールのスクリプト・プラグイン開発で愛用しているPythonライブラリ]]></title>
+        <id>https://qiita.com/scixarts/items/033c0e948be2666fe498</id>
+        <link href="https://qiita.com/scixarts/items/033c0e948be2666fe498"/>
+        <updated>2025-05-24T03:28:31.000Z</updated>
+        <summary type="html"><![CDATA[Pythonライブラリ一覧
+2025年5月現在、DCCツールのスクリプト・プラグイン開発において個人的に愛用しているPythonライブラリ一覧を紹介します。
+パッケージ・プロジェクト管理ツール
+uv
+
+https://docs.astral.sh/uv/guides/install-python…]]></summary>
+        <author>
+            <name>SubstancePainterタグが付けられた新着記事 - Qiita</name>
         </author>
     </entry>
     <entry>
@@ -3239,91 +3342,6 @@ MayaでMCPサーバーを試す
         <summary type="html"><![CDATA[こんばんは！ 今回はアドオンの「Mountains」を紹介します。 こちらのリンクから購入することができます。 Mountains 「Mountains」は、BlenderのGeometry Nodesを活用して、無限の […]]]></summary>
         <author>
             <name>kasahara</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Intersection Analysis / 重なりのないスキャッター]]></title>
-        <id>https://note.com/aoi/n/na0fad531ef62</id>
-        <link href="https://note.com/aoi/n/na0fad531ef62"/>
-        <updated>2025-04-25T06:59:10.000Z</updated>
-        <summary type="html"><![CDATA[地面に木をランダムで配置する時等、ScatterとCopy To Pointの組み合わせをよく使うと思いますが、重なってほしくないんだよなーということがあります。
-重なってしまっているモデル達
-続きをみる]]></summary>
-        <author>
-            <name>#Houdiniタグ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【アセット紹介】Droplet It – 水滴をオブジェクトに適用！]]></title>
-        <id>https://cgbox.jp/?p=62994</id>
-        <link href="https://cgbox.jp/2025/04/25/news-addon-droplet-it/"/>
-        <updated>2025-04-25T06:27:31.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは！ 今回はアドオンの「Droplet It」を紹介します。 こちらのリンクから購入することができます。 Droplet It 「Droplet It」は、オブジェクトに水滴を適用できるアドオン。 選択オブジェク […]]]></summary>
-        <author>
-            <name>kasahara</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「Tripo」のVastが3Dモデルをパーツごとに分解して生成できる3D生成AIモデル「HoloPart」をオープンソースで公開！　隠れた部分まで生成可能 - ニュース]]></title>
-        <id>https://cgworld.jp/flashnews/01-202504-Vast-HoloPart.html</id>
-        <link href="https://cgworld.jp/flashnews/01-202504-Vast-HoloPart.html"/>
-        <updated>2025-04-25T06:03:49.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ティム・ミラー＆デヴィッド・フィンチャーのアニメーション・アンソロジー。『ラブ、デス&ロボット』Vol.4 のトレーラー]]></title>
-        <id>https://3dtotal.jp/?p=50651</id>
-        <link href="https://3dtotal.jp/news/50651/"/>
-        <updated>2025-04-25T05:30:08.000Z</updated>
-        <summary type="html"><![CDATA[★LOVE DEATH + ROBOTS VOLUME 4 | Official Trailer（2分13秒） ★『ラブ、デス&ロボット』VOL 4 予告編（2分13秒） 不気味な魔物、度肝を抜く展開、ダークな笑いなど  […]
-The post ティム・ミラー＆デヴィッド・フィンチャーのアニメーション・アンソロジー。『ラブ、デス&ロボット』Vol.4 のトレーラー first appeared on 3dtotal 日本語オフィシャルサイト.]]></summary>
-        <author>
-            <name>3dtotal管理人T</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「漫画・アニメの著作権・法務トラブル対処法講座」5月21日（水）に築地で開催、講師は福井健策弁護士 - ニュース]]></title>
-        <id>https://cgworld.jp/flashnews/2504-news-vipomanani.html</id>
-        <link href="https://cgworld.jp/flashnews/2504-news-vipomanani.html"/>
-        <updated>2025-04-25T03:49:25.000Z</updated>
-        <summary type="html"><![CDATA[福井健策弁護士法律セミナー「漫画・アニメの著作権・法務トラブル対処法講座」についてのニュース。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Substance 3D の最新情報、テクニック、使用事例..。イベント Substance Days（@GDC 2025）の講演映像]]></title>
-        <id>https://3dtotal.jp/?p=50950</id>
-        <link href="https://3dtotal.jp/news/50950/"/>
-        <updated>2025-04-25T02:53:45.000Z</updated>
-        <summary type="html"><![CDATA[イベント Substance Days（@GDC 2025 3/17 米サンフランシスコ）の 講演映像。 　 ★キーノート：Substance Days Keynote at GDC 2025（57分20秒） Adobe […]
-The post Substance 3D の最新情報、テクニック、使用事例..。イベント Substance Days（@GDC 2025）の講演映像 first appeared on 3dtotal 日本語オフィシャルサイト.]]></summary>
-        <author>
-            <name>3dtotal管理人T</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Houdini を活用、映画『ガーディアンと魔法の虎』のエフェクト（Houdini HUG Paris 講演映像）]]></title>
-        <id>https://3dtotal.jp/?p=50942</id>
-        <link href="https://3dtotal.jp/news/50942/"/>
-        <updated>2025-04-25T02:43:57.000Z</updated>
-        <summary type="html"><![CDATA[★Paris HUG Mikros Animation Presentation（38分8秒） Mikros Animation と一緒に『ガーディアンと魔法の虎』(2024)を支えた魔法をご覧ください! イベント Ho […]
-The post Houdini を活用、映画『ガーディアンと魔法の虎』のエフェクト（Houdini HUG Paris 講演映像） first appeared on 3dtotal 日本語オフィシャルサイト.]]></summary>
-        <author>
-            <name>3dtotal管理人T</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[日南クリエイティブベースが実践する次世代の工業デザイン〜RizomUV＋Substance 3D Painterによる質感制作フロー - 特集]]></title>
-        <id>https://cgworld.jp/article/202504-cgw321-nichinan.html</id>
-        <link href="https://cgworld.jp/article/202504-cgw321-nichinan.html"/>
-        <updated>2025-04-25T01:39:00.000Z</updated>
-        <summary type="html"><![CDATA[RizomUVとSubstance 3D Painterを活用した質感制作の手法を中心に、日南クリエイティブベーの制作フローを紹介する。]]></summary>
-        <author>
-            <name>CGWORLD</name>
         </author>
     </entry>
 </feed>

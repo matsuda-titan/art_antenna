@@ -843,6 +843,16 @@
       "siteUrl": "https://cgworld.jp/",
       "articles": [
         {
+          "id": "https://cgworld.jp/article/202505-houdini-2.html",
+          "author": null,
+          "description": "関連記事 ・Houdini Tech Seminarレポート No.1：Hou...",
+          "link": "https://cgworld.jp/article/202505-houdini-2.html",
+          "publishedOn": "2025-05-26T01:30:00.000Z",
+          "wordCount": 964,
+          "title": "Houdini Tech Seminarレポート No.2：PDGによるキャッシュパブリッシュフローを支える、ポリゴン・ピクチュアズのツール群 - 特集",
+          "imageUrl": "https://cgworld.jp/article/assets_c/2025/05/202505-houdini-f3_2_ED88420-thumb-1000x667-69240.jpg"
+        },
+        {
           "id": "https://cgworld.jp/flashnews/2505-plusone-fujioka.html",
           "author": null,
           "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
@@ -2745,16 +2755,6 @@
           "wordCount": 632,
           "title": "MayaでJupyter Notebookを使用する",
           "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnNlY3VyZS5ncmF2YXRhci5jb20lMkZhdmF0YXIlMkYwNTUwM2ExMzBiOTdmZmM5ZGQ4YTY4Y2M1NzJkNGZlMT9peGxpYj1yYi00LjAuMCZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmZm09cG5nMzImcz04NTM2OTYxNmJhMmViNTRjZWExOTRlMGYzM2E4ZDFkYQ%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D7f87386c08f818f62b56401e43004403?ixlib=rb-4.0.0&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9TWF5YSVFMyU4MSVBN0p1cHl0ZXIlMjBOb3RlYm9vayVFMyU4MiU5MiVFNCVCRCVCRiVFNyU5NCVBOCVFMyU4MSU5OSVFMyU4MiU4QiZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnR4dC1wYWQ9MCZzPTQ3Y2Y2NmMxZjBiMjAzYWYyMDliMzI5OTQyMzJjZmUw&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBzY2l4YXJ0cyZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPTExNjdhNzEyODc0OWI0Yzg4ZjlmYmZmNjY1NTE0NzA4&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=c2618e9ab156700e2f479300328a6316"
-        },
-        {
-          "id": "https://qiita.com/scixarts/items/213959e8155aeb2fd875",
-          "author": null,
-          "description": "環境\n\nWindows\nAutodesk Maya 2026\nClaude for Desktop\n\nMayaでMCPサーバーを試す\nローカル環境でMCPサーバーを作成し、実際にMayaと連携させるため…",
-          "link": "https://qiita.com/scixarts/items/213959e8155aeb2fd875",
-          "publishedOn": "2025-04-26T06:03:26.000Z",
-          "wordCount": 1036,
-          "title": "MayaでMCPサーバーを試すためのシンプルなサンプル",
-          "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnNlY3VyZS5ncmF2YXRhci5jb20lMkZhdmF0YXIlMkYwNTUwM2ExMzBiOTdmZmM5ZGQ4YTY4Y2M1NzJkNGZlMT9peGxpYj1yYi00LjAuMCZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmZm09cG5nMzImcz04NTM2OTYxNmJhMmViNTRjZWExOTRlMGYzM2E4ZDFkYQ%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D7f87386c08f818f62b56401e43004403?ixlib=rb-4.0.0&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9TWF5YSVFMyU4MSVBN01DUCVFMyU4MiVCNSVFMyU4MyVCQyVFMyU4MyU5MCVFMyU4MyVCQyVFMyU4MiU5MiVFOCVBOSVBNiVFMyU4MSU5OSVFMyU4MSU5RiVFMyU4MiU4MSVFMyU4MSVBRSVFMyU4MiVCNyVFMyU4MyVCMyVFMyU4MyU5NyVFMyU4MyVBQiVFMyU4MSVBQSVFMyU4MiVCNSVFMyU4MyVCMyVFMyU4MyU5NyVFMyU4MyVBQiZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnR4dC1wYWQ9MCZzPTg5ZmRkOTVlNDc5NmE1OTE4OWZiMmZmNDAwN2YxOWFl&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBzY2l4YXJ0cyZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPTExNjdhNzEyODc0OWI0Yzg4ZjlmYmZmNjY1NTE0NzA4&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=df7d9e0089e5d8046b5a1a2fb11ff880"
         }
       ]
     },
@@ -2888,7 +2888,18 @@
       "title": "グラフィックスタグが付けられた新着記事 - Qiita",
       "feedUrl": "https://qiita.com/tags/%e3%82%b0%e3%83%a9%e3%83%95%e3%82%a3%e3%83%83%e3%82%af%e3%82%b9/feed",
       "siteUrl": "https://qiita.com",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://qiita.com/ntks0708/items/990d0373fbf428244940",
+          "author": null,
+          "description": "【初心者向け】Processingの基本描画関数まとめ【ビジュアルプログラミング】\nProcessingは、ビジュアルアートやインタラクティブな作品制作に強いプログラミング環境です。この記事では、初…",
+          "link": "https://qiita.com/ntks0708/items/990d0373fbf428244940",
+          "publishedOn": "2025-05-25T14:30:13.000Z",
+          "wordCount": 655,
+          "title": "【初心者向け】Processingの基本描画関数まとめ【ビジュアルプログラミング】",
+          "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkY1NzkxMzQlMkZmOTAzYjU3ZjJkMzlmZWJmZjExMGZhMjljZDE3ZTJjNTNkNjAxMzNiJTJGeF9sYXJnZS5wbmclM0YxNjExNDQ5ODE1P2l4bGliPXJiLTQuMC4wJmFyPTElM0ExJmZpdD1jcm9wJm1hc2s9ZWxsaXBzZSZmbT1wbmczMiZzPTc3NTMyNDUxNmEyYTM5NDhjODJjNjU4NzBhYzYzNWEw%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3Dd83731fa83e97a72e1392c6c516ec417?ixlib=rb-4.0.0&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9JUUzJTgwJTkwJUU1JTg4JTlEJUU1JUJGJTgzJUU4JTgwJTg1JUU1JTkwJTkxJUUzJTgxJTkxJUUzJTgwJTkxUHJvY2Vzc2luZyVFMyU4MSVBRSVFNSU5RiVCQSVFNiU5QyVBQyVFNiU4RiU4RiVFNyU5NCVCQiVFOSU5NiVBMiVFNiU5NSVCMCVFMyU4MSVCRSVFMyU4MSVBOCVFMyU4MiU4MSVFMyU4MCU5MCVFMyU4MyU5MyVFMyU4MiVCOCVFMyU4MyVBNSVFMyU4MiVBMiVFMyU4MyVBQiVFMyU4MyU5NyVFMyU4MyVBRCVFMyU4MiVCMCVFMyU4MyVBOSVFMyU4MyU5RiVFMyU4MyVCMyVFMyU4MiVCMCVFMyU4MCU5MSZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnR4dC1wYWQ9MCZzPTYwOGNjNWZiNzg0MmM0MjY4MmE5Yjc3ZGFiYTMxNzJm&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBudGtzMDcwOCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPWVmNGIzYWQwZjRhNmI2ZTQwYTA1OGE0MzIwOTYzYWJk&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=6e265e3fbfa790012836fdae39cf3d4f"
+        }
+      ]
     },
     {
       "title": "CGタグが付けられた新着記事 - Qiita",
@@ -2996,6 +3007,16 @@
       "siteUrl": "https://note.com/hashtag/Houdini",
       "articles": [
         {
+          "id": "https://note.com/thesaurus/n/n43731e7ae0ee",
+          "author": null,
+          "description": "第22回Houdiniゆるゆる会のテーマは「つながり」でした。\n今回は、最近仕事で手を伸ばし始めたHoudiniによるキャラクター制御に少し触れつつ、連休中に進めていたHoudiniの書籍「ひたすら実践！Houdiniエフェクト」の復習も兼ねて、「鎖で繋がれたキャラクターがぐるぐる回り、それに合わせて鎖が物理的に動く」というシーンを作ってみました。\n\nHoudiniゆるゆる会、今回はテーマが「つながり」だったので鎖で繋がれたキャラクターの鎖のシミュレーションを行いました。 pic.twitter.com/uQxxluq38D\n— くろさわ (@kurosaurus) May 24, 2025\n\n続きをみる",
+          "link": "https://note.com/thesaurus/n/n43731e7ae0ee",
+          "publishedOn": "2025-05-25T13:16:42.000Z",
+          "wordCount": 2680,
+          "title": "鎖で繋がれたキャラクターを作る",
+          "imageUrl": "https://assets.st-note.com/production/uploads/images/192149577/rectangle_large_type_2_459499bf5c6e2dcbe7a35473ea96020c.png?width=800"
+        },
+        {
           "id": "https://note.com/hrtk_mrn/n/n41062a6bca67",
           "author": null,
           "description": "Houdini20.5 HtoA6.3.7.0を使っていた際にArnoldでレンダリングされない問題が起きました。レンダリングウィンドウ右上に''generating scene''とだけ表示され真っ暗。OBJ階層にはカメラもArnold lightも作成していました。\n\n続きをみる",
@@ -3083,6 +3104,56 @@
       "siteUrl": "https://note.com/hashtag/3DCG",
       "articles": [
         {
+          "id": "https://note.com/onemorevision/n/n8f19e37c116e",
+          "author": null,
+          "description": "こんにちは。STUDIO55技術統括の入江です。\n前回は、AI モデル を客観的に比較・分析できる注目のウェブサイト『Artificial Analysis（アーティフィシャル・アナリシス）』をご紹介しました。\n“とにかくスゴイ” とされがちな AI の世界で、何がどうスゴイのか、本当に注目すべき AI はどれなのか──そうした本質をつかむヒントを、具体的に得られたのではないかと思います。\n続きをみる",
+          "link": "https://note.com/onemorevision/n/n8f19e37c116e",
+          "publishedOn": "2025-05-25T23:00:00.000Z",
+          "wordCount": 5007,
+          "title": "【2025年最新】AIツール・ランキングサイト4選｜②LLMチャットボットをプロンプト別にベンチマーク！『Chatbot Arena』徹底解説",
+          "imageUrl": "https://assets.st-note.com/production/uploads/images/190878625/rectangle_large_type_2_7c3e546d0cf6041d11898b0f5b31312d.png?width=800"
+        },
+        {
+          "id": "https://note.com/art_miyano958/n/ne2020941e349",
+          "author": null,
+          "description": "3D作品を作るようになって、\nこれまでイラストでは当たり前だったデフォルメ表現について、\n実はちゃんと作ることって難しいんじゃないかと思い始めたので\nこれについて考えていることをつらつら書いてみたいと思います。\n\nデフォルメとは\n続きをみる",
+          "link": "https://note.com/art_miyano958/n/ne2020941e349",
+          "publishedOn": "2025-05-25T15:36:59.000Z",
+          "wordCount": 2270,
+          "title": "デフォルメについて考える",
+          "imageUrl": "https://assets.st-note.com/production/uploads/images/191680882/rectangle_large_type_2_8a15b12f609939487082781e763da801.png?width=800"
+        },
+        {
+          "id": "https://note.com/enqueue/n/n0956d85da9d6",
+          "author": null,
+          "description": "次の記事に関する活動に伴い確認した各生成AI回答資料です。\n\n続きをみる",
+          "link": "https://note.com/enqueue/n/n0956d85da9d6",
+          "publishedOn": "2025-05-25T14:19:43.000Z",
+          "wordCount": 4959,
+          "title": "参考資料(7)3DCGでの初歩的な物理運動",
+          "imageUrl": "https://assets.st-note.com/production/uploads/images/192158017/rectangle_large_type_2_4a148b6afc61cd1d4f941f67cf4b3437.png?width=800"
+        },
+        {
+          "id": "https://note.com/renji2ren8/n/n2340ca2aa305",
+          "author": null,
+          "description": "検証④　土方歳三の全身座像写真と３Ｄの照合（電子書籍リンク動画）\n  \n続きをみる",
+          "link": "https://note.com/renji2ren8/n/n2340ca2aa305",
+          "publishedOn": "2025-05-25T13:45:00.000Z",
+          "wordCount": 2670,
+          "title": "ブーツ写真の人体構造が歪んでいる謎",
+          "imageUrl": "https://assets.st-note.com/production/uploads/images/192149392/rectangle_large_type_2_0cff9ef737fc4d38e7025b7dfcac8ba3.png?width=800"
+        },
+        {
+          "id": "https://note.com/maccro55/n/ne25c8e0bfb93",
+          "author": null,
+          "description": "最近は3DCGだけではなくモーショングラフィックスの製作もしています。そのなかに疑似3Dという表現があるんですが、作りたいアニメーションによっては１つの立方体を制御するだけで30近いレイヤーが必要です。\nそういう経緯で疑似3Dを3DCGで作ってみれないか挑戦しています。今回はジオメトリーノードとかシェーダーノードについて色々と試したことをメモ書きします。\n続きをみる",
+          "link": "https://note.com/maccro55/n/ne25c8e0bfb93",
+          "publishedOn": "2025-05-25T12:39:13.000Z",
+          "wordCount": 2365,
+          "title": "【Blender4】ジオメトリノードでモーショングラフィックスを作ってみる",
+          "imageUrl": "https://assets.st-note.com/production/uploads/images/192142310/rectangle_large_type_2_06f09072f9fe6274ed1d80c24c78ce5c.png?width=800"
+        },
+        {
           "id": "https://note.com/shibatamai/n/na98f20f4fe71",
           "author": null,
           "description": "Spacedesigner検定をご存じですか？CAD利用技術者検定などを主催している一般社団法人コンピューター教育振興協会（ASCP）が主催する検定です。(BIM利用技術者検定を主催している協会です）\n\n試験の概要\n続きをみる",
@@ -3111,6 +3182,16 @@
           "wordCount": 2798,
           "title": "参考資料(6)ヘビ型ロボットの地形追従運動を構築する場合のステップ",
           "imageUrl": "https://assets.st-note.com/production/uploads/images/192043003/rectangle_large_type_2_04fa2ba632b65dabf39a1638b0449169.png?width=800"
+        },
+        {
+          "id": "https://note.com/legit_prawn4418/n/nd37222dda5b6",
+          "author": null,
+          "description": "始めに\n　本記事では、僕がこれまでにBlenderを勉強するために使用した書籍等を紹介していこうと思います。もしBlenderを始めるか迷っている方でこの記事を読んだ方がいたら、是非参考にしてみてください。自分もまだまだ勉強中の身ですので、今後書籍を購入することなどあれば追記していこうかと思います。\n\n続きをみる",
+          "link": "https://note.com/legit_prawn4418/n/nd37222dda5b6",
+          "publishedOn": "2025-05-25T03:57:17.000Z",
+          "wordCount": 2529,
+          "title": "Blenderの学習方法について",
+          "imageUrl": "https://assets.st-note.com/production/uploads/images/192039978/rectangle_large_type_2_2d901306491151c6b732e893783f81d8.png?width=800"
         },
         {
           "id": "https://note.com/avocadowasabi/n/n5366bdf76908",
@@ -3151,6 +3232,16 @@
           "wordCount": 2428,
           "title": "【中編】居場所がなかった私が、Blenderで“理想の部屋”を作った理由｜部屋と推しと、少しの自信の話",
           "imageUrl": "https://assets.st-note.com/production/uploads/images/191869421/rectangle_large_type_2_0fef589abaffa62184b804b2af63ad4a.png?width=800"
+        },
+        {
+          "id": "https://note.com/legit_prawn4418/n/nf527397ecd8d",
+          "author": null,
+          "description": "こんにちは、練刃です。今回は残る装甲部分を作成していこうと思いますが……やっぱり記事を分けようと思います。それぞれのパーツを作っての感想とかも書きたいと思ったら、一緒だとやりにくいなと思ったので。\n　それでは早速始めていきます。まずは完成イメージから。\n続きをみる",
+          "link": "https://note.com/legit_prawn4418/n/nf527397ecd8d",
+          "publishedOn": "2025-05-24T12:40:35.000Z",
+          "wordCount": 2500,
+          "title": "Blenderでダブルアームリザードを作る#6",
+          "imageUrl": "https://assets.st-note.com/production/uploads/images/191910998/rectangle_large_type_2_a3e967f349d835b8af6bd9ae57ebe7aa.png?width=800"
         },
         {
           "id": "https://note.com/maccro55/n/nb01d61b88826",

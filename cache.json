@@ -2707,6 +2707,21 @@
       "siteUrl": "https://zenn.dev/topics/3dcg",
       "articles": [
         {
+          "id": "https://zenn.dev/matrixsoftware/articles/147a76006af386",
+          "author": "株式会社マトリックス",
+          "description": "こんにちは！\n株式会社マトリックス デザイン一課のMです！\n私事ですが最近3Dプリンターを購入しました。\n3Dプリンターといえばフィギュア作り！\nということで同期のデザイナーKさんと協力してオリジナルフィギュアを作ったのでその工程を紹介します。\n\n 出力準備\n今回作るのはこちらのヤギのキャラクター。\nこちらは新人研修の時に作ったもので思い入れのあるキャラクターです。\n\n\n\n データの修正\nまずは3Dプリンター用のデータに直していきます。\n元はゲーム用のモデルでポリゴン数が少ないのでZBrushでハイポリゴンにしつつパーツ分けをしていきます。\n\n元データ\n\n3Dプリンター用データ\n\n 出力...",
+          "link": "https://zenn.dev/matrixsoftware/articles/147a76006af386",
+          "publishedOn": "2025-05-28T08:06:08.000Z",
+          "wordCount": null,
+          "title": "3Dプリンターでフィギュア作り！！",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--DS5ahr8d--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:3D%25E3%2583%2597%25E3%2583%25AA%25E3%2583%25B3%25E3%2582%25BF%25E3%2583%25BC%25E3%2581%25A7%25E3%2583%2595%25E3%2582%25A3%25E3%2582%25AE%25E3%2583%25A5%25E3%2582%25A2%25E4%25BD%259C%25E3%2582%258A%25EF%25BC%2581%25EF%25BC%2581%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E6%25A0%25AA%25E5%25BC%258F%25E4%25BC%259A%25E7%25A4%25BE%25E3%2583%259E%25E3%2583%2588%25E3%2583%25AA%25E3%2583%2583%25E3%2582%25AF%25E3%2582%25B9%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2FmODRhNGY0MTEuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png",
+            "length": "0",
+            "type": "image/png"
+          },
+          "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--DS5ahr8d--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:3D%25E3%2583%2597%25E3%2583%25AA%25E3%2583%25B3%25E3%2582%25BF%25E3%2583%25BC%25E3%2581%25A7%25E3%2583%2595%25E3%2582%25A3%25E3%2582%25AE%25E3%2583%25A5%25E3%2582%25A2%25E4%25BD%259C%25E3%2582%258A%25EF%25BC%2581%25EF%25BC%2581%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E6%25A0%25AA%25E5%25BC%258F%25E4%25BC%259A%25E7%25A4%25BE%25E3%2583%259E%25E3%2583%2588%25E3%2583%25AA%25E3%2583%2583%25E3%2582%25AF%25E3%2582%25B9%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2FmODRhNGY0MTEuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
+        },
+        {
           "id": "https://zenn.dev/renue/articles/144cd47fbe9d7a",
           "author": "renue",
           "description": "はじめに\nTencent Hunyuan-3D は複数枚の静止画から 3D メッシュを生成する先進モデルです。\nApple Silicon（M シリーズ）環境では MPS 制約や依存ライブラリ不足が障壁となりがちですが、本稿では Mac mini M2 Pro と MacBook Air M2 のローカル環境で実際に動作させた検証結果を整理し、「まず動かす」ための最短手順をまとめます。\nBlenderの拡張プラグインとしてHunyuan-3Dを動かす方法もありますが、BlenderだとCPU機能のみが使われてしまう(Macだと)ので非常に生成が遅いです。\nなのでComfyUIを経由す...",
@@ -2743,6 +2758,21 @@
       "feedUrl": "https://zenn.dev/topics/maya/feed",
       "siteUrl": "https://zenn.dev/topics/maya",
       "articles": [
+        {
+          "id": "https://zenn.dev/matrixsoftware/articles/147a76006af386",
+          "author": "株式会社マトリックス",
+          "description": "こんにちは！\n株式会社マトリックス デザイン一課のMです！\n私事ですが最近3Dプリンターを購入しました。\n3Dプリンターといえばフィギュア作り！\nということで同期のデザイナーKさんと協力してオリジナルフィギュアを作ったのでその工程を紹介します。\n\n 出力準備\n今回作るのはこちらのヤギのキャラクター。\nこちらは新人研修の時に作ったもので思い入れのあるキャラクターです。\n\n\n\n データの修正\nまずは3Dプリンター用のデータに直していきます。\n元はゲーム用のモデルでポリゴン数が少ないのでZBrushでハイポリゴンにしつつパーツ分けをしていきます。\n\n元データ\n\n3Dプリンター用データ\n\n 出力...",
+          "link": "https://zenn.dev/matrixsoftware/articles/147a76006af386",
+          "publishedOn": "2025-05-28T08:06:08.000Z",
+          "wordCount": 273,
+          "title": "3Dプリンターでフィギュア作り！！",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--DS5ahr8d--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:3D%25E3%2583%2597%25E3%2583%25AA%25E3%2583%25B3%25E3%2582%25BF%25E3%2583%25BC%25E3%2581%25A7%25E3%2583%2595%25E3%2582%25A3%25E3%2582%25AE%25E3%2583%25A5%25E3%2582%25A2%25E4%25BD%259C%25E3%2582%258A%25EF%25BC%2581%25EF%25BC%2581%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E6%25A0%25AA%25E5%25BC%258F%25E4%25BC%259A%25E7%25A4%25BE%25E3%2583%259E%25E3%2583%2588%25E3%2583%25AA%25E3%2583%2583%25E3%2582%25AF%25E3%2582%25B9%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2FmODRhNGY0MTEuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png",
+            "length": "0",
+            "type": "image/png"
+          },
+          "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--DS5ahr8d--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:3D%25E3%2583%2597%25E3%2583%25AA%25E3%2583%25B3%25E3%2582%25BF%25E3%2583%25BC%25E3%2581%25A7%25E3%2583%2595%25E3%2582%25A3%25E3%2582%25AE%25E3%2583%25A5%25E3%2582%25A2%25E4%25BD%259C%25E3%2582%258A%25EF%25BC%2581%25EF%25BC%2581%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E6%25A0%25AA%25E5%25BC%258F%25E4%25BC%259A%25E7%25A4%25BE%25E3%2583%259E%25E3%2583%2588%25E3%2583%25AA%25E3%2583%2583%25E3%2582%25AF%25E3%2582%25B9%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2FmODRhNGY0MTEuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
+        },
         {
           "id": "https://zenn.dev/hph/articles/cpucontrol_codec",
           "author": "wef",
@@ -3162,6 +3192,66 @@
       "feedUrl": "https://note.com/hashtag/3DCG/rss",
       "siteUrl": "https://note.com/hashtag/3DCG",
       "articles": [
+        {
+          "id": "https://note.com/fine_zinnia285/n/n13ad3b52275b",
+          "author": null,
+          "description": "つまんない話が続いたので私が生きてる世界セカンドライフの事を書こう。\nセカンドライフは自分の作ったCG作品、テクスチャ、アバターのシェイプなどを売ることが出来る。\n実際それで生活をしている人もいる。\n\n続きをみる",
+          "link": "https://note.com/fine_zinnia285/n/n13ad3b52275b",
+          "publishedOn": "2025-05-28T07:27:23.000Z",
+          "wordCount": 2310,
+          "title": "セカンドライフで初心者が制作物を売るとどうなるって？現実はこうっ！て話",
+          "imageUrl": "https://assets.st-note.com/production/uploads/images/192664164/rectangle_large_type_2_6c8a7757e171c1e009d340f2f6613b25.jpeg?width=800"
+        },
+        {
+          "id": "https://note.com/magic_prawn2508/n/n5fc7d39c52f5",
+          "author": null,
+          "description": "第3回となる今回は、実制作でキャプチャデータを修正する際に重要となってくるＦカーブへの理解とアプローチ法、並びにどこから調整するべきかのポイントに関してご紹介いたします。\n\n\n続きをみる",
+          "link": "https://note.com/magic_prawn2508/n/n5fc7d39c52f5",
+          "publishedOn": "2025-05-28T05:55:41.000Z",
+          "wordCount": 2404,
+          "title": "[MotionBuilder]　～第3回～　　　　　Fカーブの向き合い方と見るべきポイント",
+          "imageUrl": "https://assets.st-note.com/production/uploads/images/181755494/rectangle_large_type_2_15a751564ef143b6372152935dbc6600.png?width=800"
+        },
+        {
+          "id": "https://note.com/magic_prawn2508/n/n9d2072cd653f",
+          "author": null,
+          "description": "手付けアニメーションを作成する際、動きの滑らかさだけでなく動きの抑揚も欠かせません。本記事では、手付けアニメーションにおける重要な2つの要素、スペーシングそして気持ちの良い演技について詳しく説明したいと思います。\n\n\n続きをみる",
+          "link": "https://note.com/magic_prawn2508/n/n9d2072cd653f",
+          "publishedOn": "2025-05-28T05:50:12.000Z",
+          "wordCount": 2291,
+          "title": "[手付けアニメーション]　Maya編　　　～第3回～　　　　　　　　　　　　　　手付けアニメーションにおけるスペーシングや気持ちの良い演技",
+          "imageUrl": "https://assets.st-note.com/production/uploads/images/186056994/rectangle_large_type_2_0a2dbc0464b91ee7f0dd3fdd87fba2ce.png?width=800"
+        },
+        {
+          "id": "https://note.com/abby_sata_create/n/n19a38e6daa7e",
+          "author": null,
+          "description": "今回参考にした講座はこちらです。\n  \n続きをみる",
+          "link": "https://note.com/abby_sata_create/n/n19a38e6daa7e",
+          "publishedOn": "2025-05-28T05:18:12.000Z",
+          "wordCount": 2319,
+          "title": "【その５】難しいけど面白い",
+          "imageUrl": "https://assets.st-note.com/production/uploads/images/192639795/rectangle_large_type_2_5f7891bb128f55042558b4139fc6d3b9.png?width=800"
+        },
+        {
+          "id": "https://note.com/3dcg_withjukem/n/n9d1a4c33d2ac",
+          "author": null,
+          "description": "noteはじめます！\n続きをみる",
+          "link": "https://note.com/3dcg_withjukem/n/n9d1a4c33d2ac",
+          "publishedOn": "2025-05-28T04:45:42.000Z",
+          "wordCount": 2405,
+          "title": "noteはじめます！",
+          "imageUrl": "https://assets.st-note.com/production/uploads/images/192632581/rectangle_large_type_2_5c44e6e43e0ae85a63fb8487a7159093.png?width=800"
+        },
+        {
+          "id": "https://dcolors.dag-inc.co.jp/n/n516979f7746e",
+          "author": null,
+          "description": "こんにちは。株式会社Ｄ・Ａ・Ｇ公式note『D.COLORS』編集部です。\n今回登場するのは、東京本社で活躍する入社4年目のモーションデザイナー。就職活動時は「周りと比べて焦り、自信を無くした時期もあった」そんな就活のリアルを経て、現在はコンシューマーゲームプロジェクトの第一線で活躍しています。\n好きなことを仕事にしたいと願うすべての学生さんに届けたい、迷い、努力、そして成長のストーリーをお届けします。\n続きをみる",
+          "link": "https://dcolors.dag-inc.co.jp/n/n516979f7746e",
+          "publishedOn": "2025-05-28T04:00:00.000Z",
+          "wordCount": 2701,
+          "title": "入社４年目のモーションデザイナーが語る、”めっちゃしんどい” 就活の先にあった景色とは？ #Dカラ_025",
+          "imageUrl": "https://assets.st-note.com/production/uploads/images/190153774/rectangle_large_type_2_271463aac3de40f6e827b34b02619b39.png?width=800"
+        },
         {
           "id": "https://note.com/aoi/n/n08cba99ea9ab",
           "author": null,

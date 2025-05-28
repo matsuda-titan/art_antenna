@@ -391,6 +391,21 @@
       "siteUrl": "https://3dnchu.com",
       "articles": [
         {
+          "id": "https://3dnchu.com/?p=1055205",
+          "author": "Ymt3D -3dnchu-",
+          "description": "Dmitry Karpukhin氏によるUnreal Engine向けアンチエイリアシングプラグイン「CMAA2（Conservative Morphological Anti-Aliasing 2）」がFab上でリリースされています！",
+          "link": "https://3dnchu.com/archives/cmaa2-ue5/",
+          "publishedOn": "2025-05-28T09:24:35.000Z",
+          "wordCount": 8986,
+          "title": "CMAA2 (Anti-Aliasing) - 軽量でシャープ！Intelのアンチエイリアシング技術「Conservative Morphological Anti-Aliasing 2（CMAA2）」を実装できるUnreal Engine 5用プラグイン！",
+          "enclosure": {
+            "url": "https://3dnchu.com/wp-content/uploads/CMAA2-small.gif",
+            "length": "250069",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://3dnchu.com/wp-content/uploads/CMAA2-small.gif"
+        },
+        {
           "id": "https://3dnchu.com/?p=1055160",
           "author": "Ymt3D -3dnchu-",
           "description": "Unreal Engine向け物理挙動チュートリアルでお馴染みLusiogenicから、物理演算を活用したプラットフォーマーツールキット「Physics Platformer Toolkit」がFab上でリリースされました！",
@@ -2908,6 +2923,16 @@
       "siteUrl": "https://qiita.com",
       "articles": [
         {
+          "id": "https://qiita.com/yuri_tsukimi/items/721c4f49e7228c0865db",
+          "author": null,
+          "description": "概要\nアバターのシェーダーで Depth テクスチャを使用する場合，VRChat で動作させるために追加のセットアップが必要だったので，そのメモです．\nシェーダー\nシェーダー内で Depth テクス…",
+          "link": "https://qiita.com/yuri_tsukimi/items/721c4f49e7228c0865db",
+          "publishedOn": "2025-05-28T11:58:03.000Z",
+          "wordCount": 616,
+          "title": "【VRChat】アバターで Depth テクスチャを使う場合の注意点",
+          "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYzODI1NzczJTJGZTUzOGI2MGJkYTY3M2ZhOWQwMTdhMzg5NThlNDhiM2ZhOGYwMzg5MyUyRnhfbGFyZ2UucG5nJTNGMTcxOTQ5Njg2OT9peGxpYj1yYi00LjAuMCZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmZm09cG5nMzImcz01YmRjZjU4N2FmNjRmMWU5YTNiNDI1MDliNzM4ZjgzNw%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3Dc10cc1f71d41fd95792a614869950d8b?ixlib=rb-4.0.0&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9JUUzJTgwJTkwVlJDaGF0JUUzJTgwJTkxJUUzJTgyJUEyJUUzJTgzJTkwJUUzJTgyJUJGJUUzJTgzJUJDJUUzJTgxJUE3JTIwRGVwdGglMjAlRTMlODMlODYlRTMlODIlQUYlRTMlODIlQjklRTMlODMlODElRTMlODMlQTMlRTMlODIlOTIlRTQlQkQlQkYlRTMlODElODYlRTUlQTAlQjQlRTUlOTAlODglRTMlODElQUUlRTYlQjMlQTglRTYlODQlOEYlRTclODIlQjkmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz01NDIyZjBmZTMyYzk1YjdlMGE2Y2VjMTNjNzBkMDRjYQ&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDB5dXJpX3RzdWtpbWkmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz1hNTk1ZWExZTNjN2EyODM1Y2E2YThhNjg4NWI1NzdjNg&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=8333fdc168f26b1247ebc9c1b1285a49"
+        },
+        {
           "id": "https://qiita.com/tori_momo/items/6d08d21ba291e9180074",
           "author": null,
           "description": "はじめに\n\n※本記事ではHoudini 20.5.522、UE 5.2.1　を使用しています。\n\nここしばらく、こんなものを作っていました。\nhttps://x.com/torimomo_9/statu…",
@@ -3192,6 +3217,26 @@
       "feedUrl": "https://note.com/hashtag/3DCG/rss",
       "siteUrl": "https://note.com/hashtag/3DCG",
       "articles": [
+        {
+          "id": "https://note.com/txx_cg/n/n23cddd957b5e",
+          "author": null,
+          "description": "先日、Blenderを使ってキャラクター制作の仕事を行いたい人に向けて、実際の制作フローとそれぞれの工程で求められる技術を具体的に深掘りした記事を書いてみました。\n\n続きをみる",
+          "link": "https://note.com/txx_cg/n/n23cddd957b5e",
+          "publishedOn": "2025-05-28T11:08:47.000Z",
+          "wordCount": 2305,
+          "title": "Blenderでキャラクターの仕事をするにはどんな技術が必要？【後編】",
+          "imageUrl": "https://assets.st-note.com/production/uploads/images/192698753/rectangle_large_type_2_886557a59b6659558af3cde62c2db9ef.jpeg?width=800"
+        },
+        {
+          "id": "https://note.com/aoukiwa/n/ncade6a5a3337",
+          "author": null,
+          "description": "先日、私が好きなゲームの学園アイドルマスターが5月16日に1周年を迎えました。お祝いの気持ちを込めて、記念にアフターヌーンティー風のスイーツをBlenderで制作✨\n\n遅くなりましたが、学マス1周年おめでとうございます✨💐\n12人のキャラクター衣装モチーフスイーツを心を込めて作りました🎂\nアフターヌーンティー風でプロデューサーさんとお祝いするイメージ🥂\nこのゲームに出会えて本当に良かったです💖#学マス #祝学マス1周年#blender #b3d #3DCG pic.twitter.com/xa9ySdbSzc\n— あおうきわ (@aoukiwa) May 22, 2025\n\n続きをみる",
+          "link": "https://note.com/aoukiwa/n/ncade6a5a3337",
+          "publishedOn": "2025-05-28T10:15:33.000Z",
+          "wordCount": 3084,
+          "title": "【Blender制作日記】全キャラ12種類のスイーツ、アフタヌーンティー作り【学マス衣装モチーフ】",
+          "imageUrl": "https://assets.st-note.com/production/uploads/images/192691532/rectangle_large_type_2_f3ecb8f42dc4766764c3d070b6912422.png?width=800"
+        },
         {
           "id": "https://note.com/fine_zinnia285/n/n13ad3b52275b",
           "author": null,

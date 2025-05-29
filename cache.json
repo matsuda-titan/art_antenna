@@ -355,21 +355,6 @@
             "type": "video/mp4"
           },
           "imageUrl": "https://cgbox.jp/wp-content/uploads/2025/04/image_processing20250429-2-sywrou.jpg"
-        },
-        {
-          "id": "https://cgbox.jp/?p=63029",
-          "author": "kasahara",
-          "description": "こんばんは！ 今回はアドオンの「Video Depth Ai」を紹介します。 こちらのリンクから購入することができます。 Video Depth Ai 「Video Depth Ai」は、動画からリアルタイムに3Dアニメ […]",
-          "link": "https://cgbox.jp/2025/04/29/news-addon-video-depth-ai/",
-          "publishedOn": "2025-04-29T04:54:20.000Z",
-          "wordCount": 2237,
-          "title": "【アドオン紹介】Video Depth Ai – 動画を立体化！",
-          "enclosure": {
-            "url": "https://cgbox.jp/wp-content/uploads/2025/04/customgif2_1-1-1.mp4",
-            "length": "0",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://cgbox.jp/wp-content/uploads/2025/04/image_processing20250425-2-3vj2x2.jpg"
         }
       ]
     },
@@ -839,21 +824,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "https://3dnchu.com/wp-content/uploads/aswacademy-pt03-ggx-outline-small.gif"
-        },
-        {
-          "id": "https://3dnchu.com/?p=1054381",
-          "author": "Ymt3D -3dnchu-",
-          "description": "UVPackmasterなどのアドオンでお馴染みglukoz（ @glukozUVP）によるSIGGRAPH 2024論文「Vertex Block Descent（VBD）」を採用した高速＆安定の物理シミュレーションBlenderアドオン「VeeDynamics v1.0」のベータ板がリリースされました！",
-          "link": "https://3dnchu.com/archives/veedynamics-v1-0-beta/",
-          "publishedOn": "2025-04-29T15:25:33.000Z",
-          "wordCount": 8974,
-          "title": "VeeDynamics v1.0 Beta - SIGGRAPH 2024論文「Vertex Block Descent（VBD）」を採用した高速＆安定の弾性物理シミュレーションBlenderアドオンが登場！",
-          "enclosure": {
-            "url": "https://3dnchu.com/wp-content/uploads/veedynamics-v1-0-beta.webp",
-            "length": "818618",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://3dnchu.com/wp-content/uploads/veedynamics-v1-0-beta.webp"
         }
       ]
     },
@@ -862,6 +832,16 @@
       "feedUrl": "https://cgworld.jp/atom.xml",
       "siteUrl": "https://cgworld.jp/",
       "articles": [
+        {
+          "id": "https://cgworld.jp/article/202505-cgkiso-2.html",
+          "author": null,
+          "description": "関連記事 ・セガの新人研修を紐解く No.1／開発の全体像を理解する ゲーム開...",
+          "link": "https://cgworld.jp/article/202505-cgkiso-2.html",
+          "publishedOn": "2025-05-29T01:30:00.000Z",
+          "wordCount": 762,
+          "title": "セガの新人研修を紐解く No.2／制約の中で、成果を出す手段を考える - 特集",
+          "imageUrl": "https://cgworld.jp/article/assets_c/2025/05/202505-cgkiso-2_d3-thumb-1000x565-68938.jpg"
+        },
         {
           "id": "https://cgworld.jp/article/202505-cgkiso-1.html",
           "author": null,
@@ -3169,16 +3149,6 @@
           "wordCount": 2560,
           "title": "海外スタジオで培った動物表現の極意──西田健一が語る、CGシーンに届ける“リアル”とこだわり",
           "imageUrl": "https://assets.st-note.com/production/uploads/images/187388757/rectangle_large_type_2_bbfb48d54cc6fca1be0555d217396e5e.png?width=800"
-        },
-        {
-          "id": "https://note.com/oja_bitterlife/n/nef9f0766ff25",
-          "author": null,
-          "description": "３月１日～４月２９日まで制作していました。1日2～3時間の制作ですが１０日間ほどは試験勉強のため制作を禁止にしてたので、100時間くらいの作品になると思います。\n  \n続きをみる",
-          "link": "https://note.com/oja_bitterlife/n/nef9f0766ff25",
-          "publishedOn": "2025-04-29T14:16:20.000Z",
-          "wordCount": 3077,
-          "title": "Houdiniで君の名は。のPVの背景をフル3Dで作った振り返り",
-          "imageUrl": "https://assets.st-note.com/production/uploads/images/187038453/rectangle_large_type_2_dc39b533481884e5fa10cb3cdfeff9de.png?width=800"
         }
       ]
     },
@@ -3216,6 +3186,16 @@
           "wordCount": 2693,
           "title": "アニメ制作に特化した 3D Layout addon",
           "imageUrl": "https://assets.st-note.com/production/uploads/images/192753069/rectangle_large_type_2_f9f1147b38042c34643cf2b873b33326.png?width=800"
+        },
+        {
+          "id": "https://note.com/054/n/ndd9b23bdce61",
+          "author": null,
+          "description": "私はモデラーではないのでBlendShapeの新規作成は避けていましたが、調べたら簡単すぎてびっくりしてしまった…。\n検索すれば出てくるような基本ですが、ここに備忘録として残します。\n続きをみる",
+          "link": "https://note.com/054/n/ndd9b23bdce61",
+          "publishedOn": "2025-05-28T11:49:17.000Z",
+          "wordCount": 2434,
+          "title": "MayaでBlendShapeを新規追加するやり方【私的備忘録】",
+          "imageUrl": "https://assets.st-note.com/production/uploads/images/192710786/rectangle_large_type_2_abb9c0a6c236bdfd4a5951017e6e2e61.png?width=800"
         },
         {
           "id": "https://note.com/txx_cg/n/n23cddd957b5e",

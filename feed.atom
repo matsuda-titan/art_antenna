@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-05-29T00:54:52.106Z</updated>
+    <updated>2025-05-29T03:39:14.094Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[セガの新人研修を紐解く No.2／制約の中で、成果を出す手段を考える - 特集]]></title>
+        <id>https://cgworld.jp/article/202505-cgkiso-2.html</id>
+        <link href="https://cgworld.jp/article/202505-cgkiso-2.html"/>
+        <updated>2025-05-29T01:30:00.000Z</updated>
+        <summary type="html"><![CDATA[関連記事 ・セガの新人研修を紐解く No.1／開発の全体像を理解する ゲーム開...]]></summary>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【保存版】 Nomad SculptのミニTips＆設定ガイドまとめ]]></title>
         <id>https://note.com/_jane_artwork/n/n9da273ea45d7</id>
@@ -61,6 +71,18 @@
 シェーダー内で Depth テクス…]]></summary>
         <author>
             <name>Shaderタグが付けられた新着記事 - Qiita</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MayaでBlendShapeを新規追加するやり方【私的備忘録】]]></title>
+        <id>https://note.com/054/n/ndd9b23bdce61</id>
+        <link href="https://note.com/054/n/ndd9b23bdce61"/>
+        <updated>2025-05-28T11:49:17.000Z</updated>
+        <summary type="html"><![CDATA[私はモデラーではないのでBlendShapeの新規作成は避けていましたが、調べたら簡単すぎてびっくりしてしまった…。
+検索すれば出てくるような基本ですが、ここに備忘録として残します。
+続きをみる]]></summary>
+        <author>
+            <name>#3DCGタグ</name>
         </author>
     </entry>
     <entry>
@@ -4098,38 +4120,6 @@ The post 雪に覆われた氷河から果てしない砂漠まで。Rodeo FX �
         <summary type="html"><![CDATA[東映アニメーションによる「studio MOTHER デジタル制作で描き上げる ～CSP・デジタルタイムシートフォーマット例と、制作管理ツールの紹介～」の模様をレポートする。]]></summary>
         <author>
             <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[VeeDynamics v1.0 Beta - SIGGRAPH 2024論文「Vertex Block Descent（VBD）」を採用した高速＆安定の弾性物理シミュレーションBlenderアドオンが登場！]]></title>
-        <id>https://3dnchu.com/?p=1054381</id>
-        <link href="https://3dnchu.com/archives/veedynamics-v1-0-beta/"/>
-        <updated>2025-04-29T15:25:33.000Z</updated>
-        <summary type="html"><![CDATA[UVPackmasterなどのアドオンでお馴染みglukoz（ @glukozUVP）によるSIGGRAPH 2024論文「Vertex Block Descent（VBD）」を採用した高速＆安定の物理シミュレーションBlenderアドオン「VeeDynamics v1.0」のベータ板がリリースされました！]]></summary>
-        <author>
-            <name>Ymt3D -3dnchu-</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Houdiniで君の名は。のPVの背景をフル3Dで作った振り返り]]></title>
-        <id>https://note.com/oja_bitterlife/n/nef9f0766ff25</id>
-        <link href="https://note.com/oja_bitterlife/n/nef9f0766ff25"/>
-        <updated>2025-04-29T14:16:20.000Z</updated>
-        <summary type="html"><![CDATA[３月１日～４月２９日まで制作していました。1日2～3時間の制作ですが１０日間ほどは試験勉強のため制作を禁止にしてたので、100時間くらいの作品になると思います。
-  
-続きをみる]]></summary>
-        <author>
-            <name>#Houdiniタグ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【アドオン紹介】Video Depth Ai – 動画を立体化！]]></title>
-        <id>https://cgbox.jp/?p=63029</id>
-        <link href="https://cgbox.jp/2025/04/29/news-addon-video-depth-ai/"/>
-        <updated>2025-04-29T04:54:20.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは！ 今回はアドオンの「Video Depth Ai」を紹介します。 こちらのリンクから購入することができます。 Video Depth Ai 「Video Depth Ai」は、動画からリアルタイムに3Dアニメ […]]]></summary>
-        <author>
-            <name>kasahara</name>
         </author>
     </entry>
 </feed>

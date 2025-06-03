@@ -401,6 +401,21 @@
       "siteUrl": "https://3dnchu.com",
       "articles": [
         {
+          "id": "https://3dnchu.com/?p=1055365",
+          "author": "Ymt3D -3dnchu-",
+          "description": "Stéphane Ginier氏が開発した人気の3Dスカルプトアプリ「Nomad Sculpt」のデスクトップ版が、WindowsとmacOS向けに無料ベータとして公開されました。",
+          "link": "https://3dnchu.com/archives/nomad-sculpt-for-desktop-beta/",
+          "publishedOn": "2025-06-03T00:26:43.000Z",
+          "wordCount": 8849,
+          "title": "Nomad Sculpt for Desktop Beta - 人気の3Dスカルプトアプリ「Nomad Sculpt」のデスクトップ版がWindowsとmacOS向けに無料ベータとして公開されました！",
+          "enclosure": {
+            "url": "https://3dnchu.com/wp-content/uploads/nomad-sculpt-for-desktop-beta.jpg",
+            "length": "50156",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://3dnchu.com/wp-content/uploads/nomad-sculpt-for-desktop-beta.jpg"
+        },
+        {
           "id": "https://3dnchu.com/?p=1055324",
           "author": "Ymt3D -3dnchu-",
           "description": "Sascha Rode氏（@sascharode1986）によるSDFモデリングツールの最新アップデート『SDF Modeler v0.53』がリリースされていました！",
@@ -849,21 +864,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "https://3dnchu.com/wp-content/uploads/wingfox-gw-japan-sale-2025-2.webp"
-        },
-        {
-          "id": "https://3dnchu.com/?p=1054655",
-          "author": "Ymt3D -3dnchu-",
-          "description": "MrCiciによるUnreal Engine 5向けのトゥーンシェーダー「CiciToon Character Shader Pak V1.0」がリリースされています！個人向けは無料ダウンロード可能です！",
-          "link": "https://3dnchu.com/archives/cicitoon-character-shader-pak-v1-0/",
-          "publishedOn": "2025-05-04T12:11:47.000Z",
-          "wordCount": 8931,
-          "title": "CiciToon Character Shader Pak V1.0 - Unreal Engine 5向けの軽量なトゥーンシェーダーパッケージ！個人＆非商用は無料！",
-          "enclosure": {
-            "url": "https://3dnchu.com/wp-content/uploads/cicitoon-character-shader-pak-v1-0.webp",
-            "length": "928948",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://3dnchu.com/wp-content/uploads/cicitoon-character-shader-pak-v1-0.webp"
         }
       ]
     },
@@ -872,6 +872,16 @@
       "feedUrl": "https://cgworld.jp/atom.xml",
       "siteUrl": "https://cgworld.jp/",
       "articles": [
+        {
+          "id": "https://cgworld.jp/flashnews/01-202506-Google-Veo-3.html",
+          "author": null,
+          "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
+          "link": "https://cgworld.jp/flashnews/01-202506-Google-Veo-3.html",
+          "publishedOn": "2025-06-02T21:49:26.000Z",
+          "wordCount": 819,
+          "title": "Googleの動画生成AIモデル「Veo 3」発表！　音声生成、物理法則や人間の自然な動きと表情、高品質4K出力など - ニュース",
+          "imageUrl": "https://cgworld.jp/flashnews/assets_c/2025/06/Google_Veo3-01-thumb-1080x607-69873.jpg"
+        },
         {
           "id": "https://cgworld.jp/flashnews/2505-kurihakugp.html",
           "author": null,
@@ -1640,6 +1650,16 @@
       "siteUrl": "https://3d.crdg.jp/tech",
       "articles": [
         {
+          "id": "https://3d.crdg.jp/tech/?p=5749",
+          "author": "tajima shota",
+          "description": "初めまして！ COYOTE 3DCG STUDIO COYOTE 3DCG STUDIO テクニカルチーム所属 TAの田島です。 Havok Clot […]\n続きを読む\n投稿 「Havok Cloth」エクスポート編（UE） は TECH-COYOTE｜C&R Creative Studios に最初に表示されました。",
+          "link": "https://3d.crdg.jp/tech/archives/5749",
+          "publishedOn": "2025-06-02T15:00:26.000Z",
+          "wordCount": 3159,
+          "title": "「Havok Cloth」エクスポート編（UE）",
+          "imageUrl": "https://3d.crdg.jp/tech/wp-content/uploads/2025/06/サムネイル1-7.png"
+        },
+        {
           "id": "https://3d.crdg.jp/tech/?p=5637",
           "author": "yokoyama taichi",
           "description": "どうも！ クリーク・アンド・リバー社 COYOTE 3DCG STUDIO テクニカルチーム所属 TAの横山です！ 梅雨ですね、ちょっと油断するとパン […]\n続きを読む\n投稿 【Havok Cloth】ネクタイ 時計編 （基礎） は TECH-COYOTE｜C&R Creative Studios に最初に表示されました。",
@@ -1705,6 +1725,36 @@
       "feedUrl": "https://modelinghappy.com/feed",
       "siteUrl": "https://modelinghappy.com",
       "articles": [
+        {
+          "id": "https://modelinghappy.com/?p=63248",
+          "author": "modelinghappy",
+          "description": "画像差分チェックツール 画像差分チェックツールはトミナガハルキさんが作成した、オリジナル画像と、比較したい修正画像をドラッグアンドドロップで読み込ませると、差分を検出してどこの部分が変更されているのか点滅表示で差分が分か\nThe post 画像差分チェックツール オリジナルと修正後の画像を読み込む事で変更部分を瞬時に判断出来る無料WEBサービスが公開 first appeared on 3DCG最新情報サイト MODELING HAPPY.",
+          "link": "https://modelinghappy.com/archives/63248",
+          "publishedOn": "2025-06-02T23:27:29.000Z",
+          "wordCount": 3466,
+          "title": "画像差分チェックツール オリジナルと修正後の画像を読み込む事で変更部分を瞬時に判断出来る無料WEBサービスが公開",
+          "imageUrl": "https://modelinghappy.com/wp-content/uploads/2025/06/20250603_gazousabun_check_01.jpg"
+        },
+        {
+          "id": "https://modelinghappy.com/?p=63243",
+          "author": "modelinghappy",
+          "description": "After Effects配置整列スクリプト_Grupico(無償配布中) UI演出デザイナーのたかゆさんが作成した、After Effectsでレイヤーをグループ化して整理出来る配置整列スクリプト_Grupicoが期間\nThe post After Effectsでレイヤーをグループ化出来るプラグインGrupicoが期間限定無料配布中 first appeared on 3DCG最新情報サイト MODELING HAPPY.",
+          "link": "https://modelinghappy.com/archives/63243",
+          "publishedOn": "2025-06-02T23:13:56.000Z",
+          "wordCount": 3476,
+          "title": "After Effectsでレイヤーをグループ化出来るプラグインGrupicoが期間限定無料配布中",
+          "imageUrl": "https://modelinghappy.com/wp-content/uploads/2025/06/20250603_grupico_01.jpg"
+        },
+        {
+          "id": "https://modelinghappy.com/?p=63237",
+          "author": "modelinghappy",
+          "description": "Flexible Renamer for Blender Flexible Renamer for Blenderは選択したオブジェクト、メッシュ、マテリアル、画像の名前を変更出来る無料のアドオンです。 プロバージョンで\nThe post Flexible Renamer for Blender オブジェクト、マテリアル、画像の名前を変更出来る軽量の無料アドオン PROバージョンもあり first appeared on 3DCG最新情報サイト MODELING HAPPY.",
+          "link": "https://modelinghappy.com/archives/63237",
+          "publishedOn": "2025-06-02T14:09:13.000Z",
+          "wordCount": 3488,
+          "title": "Flexible Renamer for Blender オブジェクト、マテリアル、画像の名前を変更出来る軽量の無料アドオン PROバージョンもあり",
+          "imageUrl": "https://modelinghappy.com/wp-content/uploads/2025/06/20250602_flexibleRenamer_03.jpg"
+        },
         {
           "id": "https://modelinghappy.com/?p=63224",
           "author": "modelinghappy",
@@ -3021,7 +3071,18 @@
       "title": "CGタグが付けられた新着記事 - Qiita",
       "feedUrl": "https://qiita.com/tags/cg/feed",
       "siteUrl": "https://qiita.com",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://qiita.com/harycurl/items/8398034c08e704c9bb20",
+          "author": null,
+          "description": "もはや名物\n今日は韓国大統領選挙の投開票日である。\nそして韓国の選挙といえばテレビ局がCGを駆使した投開票速報番組をぶち抜き放送するのが恒例となっている。\n投票時間中は各地域の投票率をCGとともに紹…",
+          "link": "https://qiita.com/harycurl/items/8398034c08e704c9bb20",
+          "publishedOn": "2025-06-02T15:08:22.000Z",
+          "wordCount": 565,
+          "title": "韓国大統領選挙は投開票速報の演出が熱い",
+          "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYzOTQzNzc0JTJGNGNkNjRmNjc3MDAxYTc3OGI3ZWViZTE2NTNjYzNkZTQ3NjQxMmU5NCUyRmxhcmdlLnBuZyUzRjE3MzI0NjgwOTg_aXhsaWI9cmItNC4wLjAmYXI9MSUzQTEmZml0PWNyb3AmbWFzaz1lbGxpcHNlJmZtPXBuZzMyJnM9ODUzOThiOGE0MTJhOGU1ZTg4YmMwZmZmNDljMzMyMGY%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D3a90b66a57ac41213c52eb3fee96415c?ixlib=rb-4.0.0&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9JUU5JTlGJTkzJUU1JTlCJUJEJUU1JUE0JUE3JUU3JUI1JUIxJUU5JUEwJTk4JUU5JTgxJUI4JUU2JThDJTk5JUUzJTgxJUFGJUU2JThBJTk1JUU5JTk2JThCJUU3JUE1JUE4JUU5JTgwJTlGJUU1JUEwJUIxJUUzJTgxJUFFJUU2JUJDJTk0JUU1JTg3JUJBJUUzJTgxJThDJUU3JTg2JUIxJUUzJTgxJTg0JnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9OGJlYTA4ZDY5Njk4NGU4ZDk2YTExZmY0MzZjODBkNDU&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBoYXJ5Y3VybCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPTlmNjJkNGExZTE2ZmQ1YWE4MzdlMDQ3MjMxZTIxZTJj&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=73ac4646367375402561c666dde526e6"
+        }
+      ]
     },
     {
       "title": "HLSLタグが付けられた新着記事 - Qiita",
@@ -3079,6 +3140,16 @@
       "feedUrl": "https://area.autodesk.jp/rss.xml",
       "siteUrl": "https://area.autodesk.jp/",
       "articles": [
+        {
+          "id": "https://area.autodesk.jp/column/tutorial/prop-rig/05-rig-module-dev-setup-4/",
+          "author": null,
+          "description": "今回は前回作成した宝箱をアップデートしたいと思います。宝箱なので何か中身を追加します。宝箱の中身といえば・・・・宝・化け物・空っぽ大体この3択でしょうか。空っぽは現状で問題ないので、宝と化け物をモデルとして追加してみました。・・・",
+          "link": "https://area.autodesk.jp/column/tutorial/prop-rig/05-rig-module-dev-setup-4/",
+          "publishedOn": "2025-06-03T00:30:00.000Z",
+          "wordCount": 791,
+          "title": "Mayaにおける魅惑のプロップリグ～モジュラーリギングシステムの基本と応用～ 第5回：リグモジュールの開発とセットアップ その4〜宝箱の中身のアニメーション〜",
+          "imageUrl": "https://area.autodesk.jp/column/assets_c/2025/05/ic_prop_rig_05_1200x670-thumb-1200xauto-5675.jpg"
+        },
         {
           "id": "https://area.autodesk.jp/event/autodesk/flow-capture/",
           "author": null,
@@ -3280,6 +3351,66 @@
       "feedUrl": "https://note.com/hashtag/3DCG/rss",
       "siteUrl": "https://note.com/hashtag/3DCG",
       "articles": [
+        {
+          "id": "https://note.com/dazgen/n/ne74097169946",
+          "author": null,
+          "description": "できるだけ平易な表現で初心者向けの「AIモデルづくり」マニュアルを書いてみようかと、過去の記事の表現がわかりにくかった反省を踏まえ、できるだけわかりやすい技術的な表現を目指します。\n\n\n続きをみる",
+          "link": "https://note.com/dazgen/n/ne74097169946",
+          "publishedOn": "2025-06-03T00:29:46.000Z",
+          "wordCount": 2810,
+          "title": "無料で始める「AIモデルづくり」初心者マニュアル｜イントロダクション",
+          "imageUrl": "https://assets.st-note.com/production/uploads/images/193841482/rectangle_large_type_2_0644c019a177d423468c0694ccfc8212.jpeg?width=800"
+        },
+        {
+          "id": "https://note.com/kitaniosam/n/nf010b3661ae9",
+          "author": null,
+          "description": "使用頻度の高いモディファイアから、可能なかぎり、すべてのオプション、機能を整理しています。今回は、波紋や波形の起伏をアニメーションで生成できる波モディファイアです。\n\n続きをみる",
+          "link": "https://note.com/kitaniosam/n/nf010b3661ae9",
+          "publishedOn": "2025-06-03T00:19:48.000Z",
+          "wordCount": 2957,
+          "title": "blender 4.4 モディファイア 詳説 - Wave - 波",
+          "imageUrl": "https://assets.st-note.com/production/uploads/images/191630326/rectangle_large_type_2_8a8bad72520950d9d30e55b213d8de70.png?width=800"
+        },
+        {
+          "id": "https://note.com/tama_7777/n/nde27f0a42067",
+          "author": null,
+          "description": "1. 風船チックにしたいオブジェクトを作成する\n続きをみる",
+          "link": "https://note.com/tama_7777/n/nde27f0a42067",
+          "publishedOn": "2025-06-02T21:26:32.000Z",
+          "wordCount": 2314,
+          "title": "Blenderでメタリックな風船オブジェクトを作る🎈",
+          "imageUrl": "https://assets.st-note.com/production/uploads/images/193736343/rectangle_large_type_2_da949f1eba5a66988cf14422b5086618.png?width=800"
+        },
+        {
+          "id": "https://note.com/hikaru_cg_/n/nefbd261a9450",
+          "author": null,
+          "description": "最近、Blenderでも「アニメっぽいライン表現」を追求できるようになってきました。\nその中でも特に注目されているのが、**PSOFT製「Pencil+ 4 Line for Blender」**です。\nこの記事では、「Pencil+ってなに？」というところから、Blender版の導入ポイント、使ってみた感想までをまとめました。\n続きをみる",
+          "link": "https://note.com/hikaru_cg_/n/nefbd261a9450",
+          "publishedOn": "2025-06-02T16:30:39.000Z",
+          "wordCount": 2408,
+          "title": "Blenderでアニメ線を極める。",
+          "imageUrl": "https://assets.st-note.com/production/uploads/images/193808040/rectangle_large_type_2_e80f0701ae1d2bfd53b8b29f1782a898.png?width=800"
+        },
+        {
+          "id": "https://note.com/designpeke/n/nb767ecc9a389",
+          "author": null,
+          "description": "Speed Sculptで時短\nボディ生成は、顔と同様UV球からコネコネ作戦が今までのやり方なのですが、今回は試したかったアドオンを使用しました。第3回の記事で紹介した「Speed Sculpt」です。\n続きをみる",
+          "link": "https://note.com/designpeke/n/nb767ecc9a389",
+          "publishedOn": "2025-06-02T14:55:59.000Z",
+          "wordCount": 2428,
+          "title": "第5回：モデリング（胴体）　〜アリスと一緒に地の底をさまよう篇〜　blenderダンジョン冒険記",
+          "imageUrl": "https://assets.st-note.com/production/uploads/images/193445063/rectangle_large_type_2_34adf0a1fdace8e4e3575b8e64a5fae4.png?width=800"
+        },
+        {
+          "id": "https://note.com/legit_prawn4418/n/n4303c8b87c79",
+          "author": null,
+          "description": "お疲れ様です。練刃です。早いもので6月に入ってしまいました。6月は祝日が存在せず、5月のGWを終えると次の祝日は7月3週目までお預けということで、さすがにきついんで6月末に有休をとることにしました。週休3日ほしい今日この頃。\n　さて、今回の作業です。モデリング編を前回で終え、今回からリギング編に入っていきます。早速作業を始めます。まずは完成イメージから。\n完成イメージ\n続きをみる",
+          "link": "https://note.com/legit_prawn4418/n/n4303c8b87c79",
+          "publishedOn": "2025-06-02T14:27:26.000Z",
+          "wordCount": 2417,
+          "title": "Blenderでダブルアームリザードを作る#11",
+          "imageUrl": "https://assets.st-note.com/production/uploads/images/193791577/rectangle_large_type_2_2309f7869080e3a5c4e689b0dacb616c.png?width=800"
+        },
         {
           "id": "https://note.com/tama_7777/n/ncdd14709a7d2",
           "author": null,

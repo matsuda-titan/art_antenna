@@ -350,21 +350,6 @@
             "type": "video/mp4"
           },
           "imageUrl": "https://cgbox.jp/wp-content/uploads/2025/05/image_processing20250508-2-l7565y.jpg"
-        },
-        {
-          "id": "https://cgbox.jp/?p=63100",
-          "author": "kasahara",
-          "description": "こんばんは！ 今回はアドオンの「Foam And Bubbles」を紹介します。 こちらのリンクから購入することができます。 Foam And Bubbles 「Foam And Bubbles」は、Blenderでリア […]",
-          "link": "https://cgbox.jp/2025/05/12/news-addon-foam-and-bubbles/",
-          "publishedOn": "2025-05-12T06:14:57.000Z",
-          "wordCount": 2313,
-          "title": "【アセット紹介】Foam And Bubbles – 泡のアセットパック！",
-          "enclosure": {
-            "url": "https://cgbox.jp/wp-content/uploads/2025/05/ezgif-48db3d5ee8c1d8_7.mp4",
-            "length": "0",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://cgbox.jp/wp-content/uploads/2025/05/image_processing20250509-2-voony3.jpg"
         }
       ]
     },
@@ -385,6 +370,21 @@
       "feedUrl": "https://3dnchu.com/feed/",
       "siteUrl": "https://3dnchu.com",
       "articles": [
+        {
+          "id": "https://3dnchu.com/?p=1055535",
+          "author": "Ymt3D -3dnchu-",
+          "description": "Nino DefoQによるBlender向けの物理制御可能なヘアー＆ファーライブラリー「StrandKit | The Hair Fur & Dynamics Library」が登場！",
+          "link": "https://3dnchu.com/archives/strandkit/",
+          "publishedOn": "2025-06-11T00:29:44.000Z",
+          "wordCount": 8840,
+          "title": "StrandKit | The Hair Fur & Dynamics Library - Blender向けの物理制御可能なヘアー＆ファーライブラリーが登場！",
+          "enclosure": {
+            "url": "https://3dnchu.com/wp-content/uploads/StrandKit.webp",
+            "length": "1130132",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://3dnchu.com/wp-content/uploads/StrandKit.webp"
+        },
         {
           "id": "https://3dnchu.com/?p=1055635",
           "author": "Ymt3D -3dnchu-",
@@ -894,36 +894,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "https://3dnchu.com/wp-content/uploads/WHOS-NEXT-25v1.jpg"
-        },
-        {
-          "id": "https://3dnchu.com/?p=1054867",
-          "author": "Ymt3D -3dnchu-",
-          "description": "Antoine Bagattini氏によるModifier Nodes、Geometry Nodesをベースとした便利ツールセットアドオンの最新メジャーアップデート「BagaPie 11」がリリースされました！",
-          "link": "https://3dnchu.com/archives/bagapie-11/",
-          "publishedOn": "2025-05-12T12:19:17.000Z",
-          "wordCount": 8860,
-          "title": "BagaPie 11 - 50を超える便利機能を備えたツールセットBlenderアドオン！最新メジャーアップデートがリリース！アドオン本体は無料！",
-          "enclosure": {
-            "url": "https://3dnchu.com/wp-content/uploads/BagaPie-11.webp",
-            "length": "1167522",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://3dnchu.com/wp-content/uploads/BagaPie-11.webp"
-        },
-        {
-          "id": "https://3dnchu.com/?p=1054844",
-          "author": "Ymt3D -3dnchu-",
-          "description": "Tencentが3Dプリミティブ形状の組み合わせでオブジェクトを再現する技術「PrimitiveAnything: Human-Crafted 3D Primitive Assembly Generation with Auto-Regressive Transformer」を公開しました！",
-          "link": "https://3dnchu.com/archives/primitive-anything/",
-          "publishedOn": "2025-05-12T10:08:39.000Z",
-          "wordCount": 8714,
-          "title": "PrimitiveAnything - Tencentが単純な3Dプリミティブ形状の組み合わせでオブジェクトを生成する技術をオープンソース公開！SIGGRAPH 2025",
-          "enclosure": {
-            "url": "https://3dnchu.com/wp-content/uploads/PrimitiveAnything.mp4",
-            "length": "3360539",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://3dnchu.com/wp-content/uploads/PrimitiveAnything.webp"
         }
       ]
     },
@@ -932,6 +902,16 @@
       "feedUrl": "https://cgworld.jp/atom.xml",
       "siteUrl": "https://cgworld.jp/",
       "articles": [
+        {
+          "id": "https://cgworld.jp/flashnews/01-202506-Kling-21.html",
+          "author": null,
+          "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
+          "link": "https://cgworld.jp/flashnews/01-202506-Kling-21.html",
+          "publishedOn": "2025-06-10T21:26:28.000Z",
+          "wordCount": 873,
+          "title": "動画生成AI「Kling 2.1」リリース！　1080p対応、ビジュアル品質や動きのダイナミクス、プロンプトの忠実性が向上 - ニュース",
+          "imageUrl": "https://cgworld.jp/flashnews/assets_c/2025/06/Klling21-01-thumb-1080x607-70160.jpg"
+        },
         {
           "id": "https://cgworld.jp/flashnews/202506-wow.html",
           "author": null,
@@ -1761,26 +1741,6 @@
           "wordCount": 801,
           "title": "第6回：キャラクターモーション＜その1＞ - 連載",
           "imageUrl": "https://cgworld.jp/regular/assets_c/2025/04/Lee_006_Banner-thumb-1000x450-68404.jpg"
-        },
-        {
-          "id": "https://cgworld.jp/regular/202505-cgw322-book.html",
-          "author": null,
-          "description": "CGキャラクターをつくる力をレベルアップしたい方向けの書籍を紹介。",
-          "link": "https://cgworld.jp/regular/202505-cgw322-book.html",
-          "publishedOn": "2025-05-12T08:20:00.000Z",
-          "wordCount": 812,
-          "title": "#08：CGキャラ制作力をレベルアップ！『Blenderでつくる：亥と卯流 セルルックキャラクター』 - 連載",
-          "imageUrl": "https://cgworld.jp/regular/assets_c/2025/05/book_of_the_month_202505-thumb-1000x563-68915.jpg"
-        },
-        {
-          "id": "https://cgworld.jp/flashnews/01-202505-Vidu-Q1.html",
-          "author": null,
-          "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
-          "link": "https://cgworld.jp/flashnews/01-202505-Vidu-Q1.html",
-          "publishedOn": "2025-05-12T05:43:28.000Z",
-          "wordCount": 772,
-          "title": "動画生成AI「Vidu Q1」リリース！　1080p・5秒、2枚の画像とテキストプロンプトから一貫性あるシネマティックな映像を生成、アニメスタイルも強化 - ニュース",
-          "imageUrl": "https://cgworld.jp/flashnews/assets_c/2025/05/ViduQ1-01-thumb-1280x720-69223.jpg"
         }
       ]
     },
@@ -2730,26 +2690,6 @@
           "wordCount": 561,
           "title": "映画やTV、広告における 車両撮影方法を変革!? 最先端システム「PXO AKIRA」",
           "imageUrl": "https://3dtotal.jp/wp-content/uploads/2025/01/pxoakira_ue.jpg"
-        },
-        {
-          "id": "https://3dtotal.jp/?p=51125",
-          "author": "3dtotal管理人T",
-          "description": "★第一章 鏡：Where's Alice? | Chapter One: The Mirror（1分49秒） 好奇心旺盛な猫。不思議な鏡。逆さまの世界。『Where's Alice? (アリスはどこに?)』は、Aaron […]\nThe post アリスはどこに? Aaron Sims Creative の実験的ショートフィルム『Where's Alice?』 first appeared on 3dtotal 日本語オフィシャルサイト.",
-          "link": "https://3dtotal.jp/news/51125/",
-          "publishedOn": "2025-05-12T02:20:36.000Z",
-          "wordCount": 571,
-          "title": "アリスはどこに? Aaron Sims Creative の実験的ショートフィルム『Where’s Alice?』",
-          "imageUrl": "https://3dtotal.jp/wp-content/uploads/2025/05/whereisalice_ASC.jpg"
-        },
-        {
-          "id": "https://3dtotal.jp/?p=51136",
-          "author": "3dtotal管理人T",
-          "description": "★Celebrating Disney Mothers | Compilation（3分53秒） 私たちを気遣い、歌い、育ててくれた。ディズニーの大好きなお母さんたちと一緒に母の日をお祝いしましょう。（youtube よ […]\nThe post 心温まる母との瞬間。ディズニー＆ピクサーの 母の日コンピレーション映像 first appeared on 3dtotal 日本語オフィシャルサイト.",
-          "link": "https://3dtotal.jp/news/51136/",
-          "publishedOn": "2025-05-12T02:19:58.000Z",
-          "wordCount": 520,
-          "title": "心温まる母との瞬間。ディズニー＆ピクサーの 母の日コンピレーション映像",
-          "imageUrl": "https://3dtotal.jp/wp-content/uploads/2025/05/motherday_comp_dp.jpg"
         }
       ]
     },
@@ -2825,6 +2765,21 @@
       "feedUrl": "https://zenn.dev/topics/graphics/feed",
       "siteUrl": "https://zenn.dev/topics/graphics",
       "articles": [
+        {
+          "id": "https://zenn.dev/r_ngtm/articles/unity-reduce-constantbuffer",
+          "author": "かもそば",
+          "description": "環境\nUnity6000.1.6f1\nUniversal RP 17.1.0\nXCode 16.3 (16E140)\niPhoneX (iOS)\n\n はじめに\nシェーダーのConstantBuffer(CBUFFER)は自分で定義することができます。\nCBUFFER_START(MyCustomLight)  \nfloat4 _DirectionalLightColor;  \nfloat3 _DirectionalLightDirection;  \nCBUFFER_END  \nそして、CBUFFERを定義しておくことで、C#から複数のデータをまとめて渡すことができます。\nprivat...",
+          "link": "https://zenn.dev/r_ngtm/articles/unity-reduce-constantbuffer",
+          "publishedOn": "2025-06-11T00:16:02.000Z",
+          "wordCount": 2327,
+          "title": "【Unity / iOS】シェーダーのConstantBufferを自作する",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--mpB8WPzD--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2580%2590Unity%2520%252F%2520iOS%25E3%2580%2591%25E3%2582%25B7%25E3%2582%25A7%25E3%2583%25BC%25E3%2583%2580%25E3%2583%25BC%25E3%2581%25AEConstantBuffer%25E3%2582%2592%25E8%2587%25AA%25E4%25BD%259C%25E3%2581%2599%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%258B%25E3%2582%2582%25E3%2581%259D%25E3%2581%25B0%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzBkZmM3ODFiOTQuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png",
+            "length": "0",
+            "type": "image/png"
+          },
+          "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--mpB8WPzD--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2580%2590Unity%2520%252F%2520iOS%25E3%2580%2591%25E3%2582%25B7%25E3%2582%25A7%25E3%2583%25BC%25E3%2583%2580%25E3%2583%25BC%25E3%2581%25AEConstantBuffer%25E3%2582%2592%25E8%2587%25AA%25E4%25BD%259C%25E3%2581%2599%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%258B%25E3%2582%2582%25E3%2581%259D%25E3%2581%25B0%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzBkZmM3ODFiOTQuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
+        },
         {
           "id": "https://zenn.dev/nithink/articles/3875574342765a",
           "author": "Nithink",
@@ -3430,16 +3385,6 @@
           "wordCount": 4950,
           "title": "MotionBuilder Pythonスクリプト用 SDK（pyfbsdk）ドキュメントの読み方",
           "imageUrl": "https://assets.st-note.com/production/uploads/images/188758773/rectangle_large_type_2_c1eaf4aa480fdc692a2adc8f898488a6.png?width=800"
-        },
-        {
-          "id": "https://note.com/dftalk/n/n45c4f031e6d7",
-          "author": null,
-          "description": "こんにちは。開発室の齊藤です。\n今回はVICON社が開発するモーションキャプチャソフトウェア「SHŌGUN」に焦点をあて、SHŌGUNを構成するソフトウェアの1つ「SHŌGUN Post」に対してPythonから命令を出せるようになる所までを紹介します。こんな風にSHŌGUNも機能拡張が出来るのかと掴んでもらえれば嬉しいです。\n続きをみる",
-          "link": "https://note.com/dftalk/n/n45c4f031e6d7",
-          "publishedOn": "2025-05-12T05:46:35.000Z",
-          "wordCount": 2822,
-          "title": "SHŌGUN PostをPythonで拡張しよう",
-          "imageUrl": "https://assets.st-note.com/production/uploads/images/188616435/rectangle_large_type_2_9f4394f11c1e953a43a60609da06ef5c.png?width=800"
         }
       ]
     },
@@ -3555,6 +3500,56 @@
       "feedUrl": "https://note.com/hashtag/3DCG/rss",
       "siteUrl": "https://note.com/hashtag/3DCG",
       "articles": [
+        {
+          "id": "https://note.com/grack/n/n1ca45e64cb28",
+          "author": null,
+          "description": "天啓、降る\nドロボー戦術SLG開発中のさなか、突如として神（に相当する自分のシナプス）から天啓が降りた。\n『今すぐアバターを作るのだ、ぐらっくよ。』\n「いいえ、できません。私にはほかにやることがあるのです。３Dモデリングには時間がかかる。それを始めるのは、今作っているゲームを仕上げてからでも遅くない。」そう言いながら僕の手は外付けのテンキーをUSB端子に差し込み、もう片方の手でBlenderをインストールしている。なかなかどうして身体を己の望むままに動かすのは難しい。\n続きをみる",
+          "link": "https://note.com/grack/n/n1ca45e64cb28",
+          "publishedOn": "2025-06-10T23:54:02.000Z",
+          "wordCount": 2582,
+          "title": "天啓が降りたので３週間で自キャラの３Dモデルを勉強しながら作った話",
+          "imageUrl": "https://assets.st-note.com/production/uploads/images/194714127/rectangle_large_type_2_1119ec8f05b28e30dc9b3f344437c6b4.png?width=800"
+        },
+        {
+          "id": "https://note.com/miraiagencymt8/n/ndb065cd1dd3a",
+          "author": null,
+          "description": "これは、人が書いたのか、AIが書いたのか？\n\nひとりで書くのは、孤独ではない。\nAIと書くのは、反響だ。\n言葉が跳ね返ってくるから、自分の音が聞こえる。\n\n\n続きをみる",
+          "link": "https://note.com/miraiagencymt8/n/ndb065cd1dd3a",
+          "publishedOn": "2025-06-10T23:25:36.000Z",
+          "wordCount": 2316,
+          "title": "AIと書いてみたら、なんか“自分”が見えてきた話",
+          "imageUrl": "https://assets.st-note.com/production/uploads/images/195421096/rectangle_large_type_2_ffc567d511d32fa95bb8c800b0f81297.png?width=800"
+        },
+        {
+          "id": "https://note.com/lucky_peony1309/n/n363351954aa9",
+          "author": null,
+          "description": "続きをみる",
+          "link": "https://note.com/lucky_peony1309/n/n363351954aa9",
+          "publishedOn": "2025-06-10T15:37:29.000Z",
+          "wordCount": 1154,
+          "title": "ダースモール",
+          "imageUrl": "https://assets.st-note.com/production/uploads/images/195389846/picture_pc_f3a4397a98b4ddd15451e89348d63528.png?width=800"
+        },
+        {
+          "id": "https://note.com/designpeke/n/n47c5f6d8052f",
+          "author": null,
+          "description": "着色するということは、色をつけるということだと、私は常々思っています（某構文）。\n本作品では着色のメイン手段として、頂点ペイントを採用しました。\n頂点ペイントのおさらいを復習します（某構以下略）\n続きをみる",
+          "link": "https://note.com/designpeke/n/n47c5f6d8052f",
+          "publishedOn": "2025-06-10T14:07:20.000Z",
+          "wordCount": 2339,
+          "title": "第9回：色をつける　〜アリスと一緒に地の底をさまよう篇〜　blenderダンジョン冒険記",
+          "imageUrl": "https://assets.st-note.com/production/uploads/images/194986642/rectangle_large_type_2_5a0d1817335955e11802cebad88d8c84.png?width=800"
+        },
+        {
+          "id": "https://note.com/renkey/n/n07f58bf99d1e",
+          "author": null,
+          "description": "（映像学科非常勤講師　松永昂史）\n本授業は、前半でCinema4Dを使用した基礎的なCGアニメーションの技術を学び、後半ではそれらを応用して1分間ほどの映像作品を制作するという構成で、今年で4年目を迎えます。授業の基本的な流れは大きく変わっていませんが、日々変化するCGやAI、映像制作の環境をふまえ、これからの表現者に求められる素養について考えながら、内容を少しずつアップデートしています。\nまた講義内では、ハンズオンの合間にできるだけ多くの映像作家や作品を紹介し、それぞれがどのような表現アプローチをしているのかに触れるようにしています。その影響もあってか、年々学生たちの作品の幅が広がっていることを実感しています。\n続きをみる",
+          "link": "https://note.com/renkey/n/n07f58bf99d1e",
+          "publishedOn": "2025-06-10T13:17:03.000Z",
+          "wordCount": 2876,
+          "title": "モーションビジュアル 2025まとめ",
+          "imageUrl": "https://assets.st-note.com/production/uploads/images/195329145/rectangle_large_type_2_0ef5caa41be1177bc6ddb063a9731236.jpeg?width=800"
+        },
         {
           "id": "https://note.com/8eyukio8/n/n73b739d90b37",
           "author": null,

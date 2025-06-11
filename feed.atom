@@ -2,10 +2,120 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-06-10T12:21:52.325Z</updated>
+    <updated>2025-06-11T00:55:05.791Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[StrandKit | The Hair Fur & Dynamics Library - Blender向けの物理制御可能なヘアー＆ファーライブラリーが登場！]]></title>
+        <id>https://3dnchu.com/?p=1055535</id>
+        <link href="https://3dnchu.com/archives/strandkit/"/>
+        <updated>2025-06-11T00:29:44.000Z</updated>
+        <summary type="html"><![CDATA[Nino DefoQによるBlender向けの物理制御可能なヘアー＆ファーライブラリー「StrandKit | The Hair Fur & Dynamics Library」が登場！]]></summary>
+        <author>
+            <name>Ymt3D -3dnchu-</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【Unity / iOS】シェーダーのConstantBufferを自作する]]></title>
+        <id>https://zenn.dev/r_ngtm/articles/unity-reduce-constantbuffer</id>
+        <link href="https://zenn.dev/r_ngtm/articles/unity-reduce-constantbuffer"/>
+        <updated>2025-06-11T00:16:02.000Z</updated>
+        <summary type="html"><![CDATA[環境
+Unity6000.1.6f1
+Universal RP 17.1.0
+XCode 16.3 (16E140)
+iPhoneX (iOS)
+
+ はじめに
+シェーダーのConstantBuffer(CBUFFER)は自分で定義することができます。
+CBUFFER_START(MyCustomLight)  
+float4 _DirectionalLightColor;  
+float3 _DirectionalLightDirection;  
+CBUFFER_END  
+そして、CBUFFERを定義しておくことで、C#から複数のデータをまとめて渡すことができます。
+privat...]]></summary>
+        <author>
+            <name>かもそば</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[天啓が降りたので３週間で自キャラの３Dモデルを勉強しながら作った話]]></title>
+        <id>https://note.com/grack/n/n1ca45e64cb28</id>
+        <link href="https://note.com/grack/n/n1ca45e64cb28"/>
+        <updated>2025-06-10T23:54:02.000Z</updated>
+        <summary type="html"><![CDATA[天啓、降る
+ドロボー戦術SLG開発中のさなか、突如として神（に相当する自分のシナプス）から天啓が降りた。
+『今すぐアバターを作るのだ、ぐらっくよ。』
+「いいえ、できません。私にはほかにやることがあるのです。３Dモデリングには時間がかかる。それを始めるのは、今作っているゲームを仕上げてからでも遅くない。」そう言いながら僕の手は外付けのテンキーをUSB端子に差し込み、もう片方の手でBlenderをインストールしている。なかなかどうして身体を己の望むままに動かすのは難しい。
+続きをみる]]></summary>
+        <author>
+            <name>#3DCGタグ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AIと書いてみたら、なんか“自分”が見えてきた話]]></title>
+        <id>https://note.com/miraiagencymt8/n/ndb065cd1dd3a</id>
+        <link href="https://note.com/miraiagencymt8/n/ndb065cd1dd3a"/>
+        <updated>2025-06-10T23:25:36.000Z</updated>
+        <summary type="html"><![CDATA[これは、人が書いたのか、AIが書いたのか？
+
+ひとりで書くのは、孤独ではない。
+AIと書くのは、反響だ。
+言葉が跳ね返ってくるから、自分の音が聞こえる。
+
+
+続きをみる]]></summary>
+        <author>
+            <name>#3DCGタグ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[動画生成AI「Kling 2.1」リリース！　1080p対応、ビジュアル品質や動きのダイナミクス、プロンプトの忠実性が向上 - ニュース]]></title>
+        <id>https://cgworld.jp/flashnews/01-202506-Kling-21.html</id>
+        <link href="https://cgworld.jp/flashnews/01-202506-Kling-21.html"/>
+        <updated>2025-06-10T21:26:28.000Z</updated>
+        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ダースモール]]></title>
+        <id>https://note.com/lucky_peony1309/n/n363351954aa9</id>
+        <link href="https://note.com/lucky_peony1309/n/n363351954aa9"/>
+        <updated>2025-06-10T15:37:29.000Z</updated>
+        <summary type="html"><![CDATA[続きをみる]]></summary>
+        <author>
+            <name>#3DCGタグ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[第9回：色をつける　〜アリスと一緒に地の底をさまよう篇〜　blenderダンジョン冒険記]]></title>
+        <id>https://note.com/designpeke/n/n47c5f6d8052f</id>
+        <link href="https://note.com/designpeke/n/n47c5f6d8052f"/>
+        <updated>2025-06-10T14:07:20.000Z</updated>
+        <summary type="html"><![CDATA[着色するということは、色をつけるということだと、私は常々思っています（某構文）。
+本作品では着色のメイン手段として、頂点ペイントを採用しました。
+頂点ペイントのおさらいを復習します（某構以下略）
+続きをみる]]></summary>
+        <author>
+            <name>#3DCGタグ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[モーションビジュアル 2025まとめ]]></title>
+        <id>https://note.com/renkey/n/n07f58bf99d1e</id>
+        <link href="https://note.com/renkey/n/n07f58bf99d1e"/>
+        <updated>2025-06-10T13:17:03.000Z</updated>
+        <summary type="html"><![CDATA[（映像学科非常勤講師　松永昂史）
+本授業は、前半でCinema4Dを使用した基礎的なCGアニメーションの技術を学び、後半ではそれらを応用して1分間ほどの映像作品を制作するという構成で、今年で4年目を迎えます。授業の基本的な流れは大きく変わっていませんが、日々変化するCGやAI、映像制作の環境をふまえ、これからの表現者に求められる素養について考えながら、内容を少しずつアップデートしています。
+また講義内では、ハンズオンの合間にできるだけ多くの映像作家や作品を紹介し、それぞれがどのような表現アプローチをしているのかに触れるようにしています。その影響もあってか、年々学生たちの作品の幅が広がっていることを実感しています。
+続きをみる]]></summary>
+        <author>
+            <name>#3DCGタグ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Simply Tear 洋服や布にペイントしてアドオンからシミュレーションを実行するとリアルな裂け目のあるダメージ加工を簡単作成出来るBlender用アドオン]]></title>
         <id>https://modelinghappy.com/?p=63297</id>
@@ -6108,90 +6218,6 @@ The post 映画やTV、広告における 車両撮影方法を変革!? 最先�
 投稿 【Havok Cloth】内側コート編 （基礎） は TECH-COYOTE｜C&R Creative Studios に最初に表示されました。]]></summary>
         <author>
             <name>yokoyama taichi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BagaPie 11 - 50を超える便利機能を備えたツールセットBlenderアドオン！最新メジャーアップデートがリリース！アドオン本体は無料！]]></title>
-        <id>https://3dnchu.com/?p=1054867</id>
-        <link href="https://3dnchu.com/archives/bagapie-11/"/>
-        <updated>2025-05-12T12:19:17.000Z</updated>
-        <summary type="html"><![CDATA[Antoine Bagattini氏によるModifier Nodes、Geometry Nodesをベースとした便利ツールセットアドオンの最新メジャーアップデート「BagaPie 11」がリリースされました！]]></summary>
-        <author>
-            <name>Ymt3D -3dnchu-</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PrimitiveAnything - Tencentが単純な3Dプリミティブ形状の組み合わせでオブジェクトを生成する技術をオープンソース公開！SIGGRAPH 2025]]></title>
-        <id>https://3dnchu.com/?p=1054844</id>
-        <link href="https://3dnchu.com/archives/primitive-anything/"/>
-        <updated>2025-05-12T10:08:39.000Z</updated>
-        <summary type="html"><![CDATA[Tencentが3Dプリミティブ形状の組み合わせでオブジェクトを再現する技術「PrimitiveAnything: Human-Crafted 3D Primitive Assembly Generation with Auto-Regressive Transformer」を公開しました！]]></summary>
-        <author>
-            <name>Ymt3D -3dnchu-</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[#08：CGキャラ制作力をレベルアップ！『Blenderでつくる：亥と卯流 セルルックキャラクター』 - 連載]]></title>
-        <id>https://cgworld.jp/regular/202505-cgw322-book.html</id>
-        <link href="https://cgworld.jp/regular/202505-cgw322-book.html"/>
-        <updated>2025-05-12T08:20:00.000Z</updated>
-        <summary type="html"><![CDATA[CGキャラクターをつくる力をレベルアップしたい方向けの書籍を紹介。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【アセット紹介】Foam And Bubbles – 泡のアセットパック！]]></title>
-        <id>https://cgbox.jp/?p=63100</id>
-        <link href="https://cgbox.jp/2025/05/12/news-addon-foam-and-bubbles/"/>
-        <updated>2025-05-12T06:14:57.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは！ 今回はアドオンの「Foam And Bubbles」を紹介します。 こちらのリンクから購入することができます。 Foam And Bubbles 「Foam And Bubbles」は、Blenderでリア […]]]></summary>
-        <author>
-            <name>kasahara</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SHŌGUN PostをPythonで拡張しよう]]></title>
-        <id>https://note.com/dftalk/n/n45c4f031e6d7</id>
-        <link href="https://note.com/dftalk/n/n45c4f031e6d7"/>
-        <updated>2025-05-12T05:46:35.000Z</updated>
-        <summary type="html"><![CDATA[こんにちは。開発室の齊藤です。
-今回はVICON社が開発するモーションキャプチャソフトウェア「SHŌGUN」に焦点をあて、SHŌGUNを構成するソフトウェアの1つ「SHŌGUN Post」に対してPythonから命令を出せるようになる所までを紹介します。こんな風にSHŌGUNも機能拡張が出来るのかと掴んでもらえれば嬉しいです。
-続きをみる]]></summary>
-        <author>
-            <name>DF TALK</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[動画生成AI「Vidu Q1」リリース！　1080p・5秒、2枚の画像とテキストプロンプトから一貫性あるシネマティックな映像を生成、アニメスタイルも強化 - ニュース]]></title>
-        <id>https://cgworld.jp/flashnews/01-202505-Vidu-Q1.html</id>
-        <link href="https://cgworld.jp/flashnews/01-202505-Vidu-Q1.html"/>
-        <updated>2025-05-12T05:43:28.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[アリスはどこに? Aaron Sims Creative の実験的ショートフィルム『Where’s Alice?』]]></title>
-        <id>https://3dtotal.jp/?p=51125</id>
-        <link href="https://3dtotal.jp/news/51125/"/>
-        <updated>2025-05-12T02:20:36.000Z</updated>
-        <summary type="html"><![CDATA[★第一章 鏡：Where's Alice? | Chapter One: The Mirror（1分49秒） 好奇心旺盛な猫。不思議な鏡。逆さまの世界。『Where's Alice? (アリスはどこに?)』は、Aaron […]
-The post アリスはどこに? Aaron Sims Creative の実験的ショートフィルム『Where's Alice?』 first appeared on 3dtotal 日本語オフィシャルサイト.]]></summary>
-        <author>
-            <name>3dtotal管理人T</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[心温まる母との瞬間。ディズニー＆ピクサーの 母の日コンピレーション映像]]></title>
-        <id>https://3dtotal.jp/?p=51136</id>
-        <link href="https://3dtotal.jp/news/51136/"/>
-        <updated>2025-05-12T02:19:58.000Z</updated>
-        <summary type="html"><![CDATA[★Celebrating Disney Mothers | Compilation（3分53秒） 私たちを気遣い、歌い、育ててくれた。ディズニーの大好きなお母さんたちと一緒に母の日をお祝いしましょう。（youtube よ […]
-The post 心温まる母との瞬間。ディズニー＆ピクサーの 母の日コンピレーション映像 first appeared on 3dtotal 日本語オフィシャルサイト.]]></summary>
-        <author>
-            <name>3dtotal管理人T</name>
         </author>
     </entry>
 </feed>

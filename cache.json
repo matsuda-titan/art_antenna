@@ -355,16 +355,6 @@
             "type": "video/mp4"
           },
           "imageUrl": "https://cgbox.jp/wp-content/uploads/2025/05/image_processing20250514-2-tx4xzs.jpg"
-        },
-        {
-          "id": "https://cgbox.jp/?p=63109",
-          "author": "kasahara",
-          "description": "こんばんは！ 今回はアドオンの「Easy B2U」を紹介します。 こちらのリンクから購入することができます。 Easy B2U 「Easy B2U」は、BlenderからUnityへのデータ移行をスムーズに行うためのアド […]",
-          "link": "https://cgbox.jp/2025/05/14/news-addon-easy-b2u/",
-          "publishedOn": "2025-05-14T05:34:36.000Z",
-          "wordCount": 2300,
-          "title": "【アドオン紹介】Easy B2U – Blender/Unityを数クリックで同期！",
-          "imageUrl": "https://cgbox.jp/wp-content/uploads/2025/05/image_processing20250306-2-1uyj0c4.jpg"
         }
       ]
     },
@@ -385,6 +375,36 @@
       "feedUrl": "https://3dnchu.com/feed/",
       "siteUrl": "https://3dnchu.com",
       "articles": [
+        {
+          "id": "https://3dnchu.com/?p=1055733",
+          "author": "Ymt3D -3dnchu-",
+          "description": "数多くのBlenderアセットやアドオンを公開しているSanctus氏による、オブジェクトの変形にも対応するプロシージャルマッピングシェーダーノードを使用可能にするBlenderアドオン「Sanctus Procedural Mapping」がリリースされました！",
+          "link": "https://3dnchu.com/archives/sanctus-procedural-mapping/",
+          "publishedOn": "2025-06-12T17:30:52.000Z",
+          "wordCount": 8838,
+          "title": "Sanctus Procedural Mapping - オブジェクトの変形にも対応するプロシージャルマッピングシェーダーノードを使用可能にするBlenderアドオンが登場！",
+          "enclosure": {
+            "url": "https://3dnchu.com/wp-content/uploads/Sanctus-Procedural-Mapping-1.webp",
+            "length": "618042",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://3dnchu.com/wp-content/uploads/Sanctus-Procedural-Mapping-1.webp"
+        },
+        {
+          "id": "https://3dnchu.com/?p=1055715",
+          "author": "Ymt3D -3dnchu-",
+          "description": "SpaghetMeNotによるUVを自動的に展開してくれるGeometry Nodesモディファイア「uvFactory for Blender」がリリースされました！",
+          "link": "https://3dnchu.com/archives/uvfactory-for-blender/",
+          "publishedOn": "2025-06-12T17:06:35.000Z",
+          "wordCount": 8971,
+          "title": "uvFactory for Blender - UVを自動的に展開してくれるGeometry Nodesモディファイア！",
+          "enclosure": {
+            "url": "https://3dnchu.com/wp-content/uploads/uvFactory-for-Blender-1.webp",
+            "length": "804638",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://3dnchu.com/wp-content/uploads/uvFactory-for-Blender-1.webp"
+        },
         {
           "id": "https://3dnchu.com/?p=1055699",
           "author": "Ymt3D -3dnchu-",
@@ -864,36 +884,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "https://3dnchu.com/wp-content/uploads/ggxrd-chara-modeling-tips-small.gif"
-        },
-        {
-          "id": "https://3dnchu.com/?p=1054963",
-          "author": "Ymt3D -3dnchu-",
-          "description": "lobolabo氏が指定カメラから定期的にタイムラプス用連番画像を保存してくれるアドオン「Timelapse Recorder（Blenderでタイムラプスを撮るやつ）v0.2」をBOOTH上で無料公開しました！",
-          "link": "https://3dnchu.com/archives/timelapse-recorder-v0-2/",
-          "publishedOn": "2025-05-14T08:57:39.000Z",
-          "wordCount": 8759,
-          "title": "Timelapse Recorder v0.2 - 指定カメラから定期的にタイムラプス用連番画像を保存してくれるアドオン「Blenderでタイムラプスを撮るやつ v0.2」が無料公開！",
-          "enclosure": {
-            "url": "https://3dnchu.com/wp-content/uploads/timelapse-recorder-v0-2-small.gif",
-            "length": "400234",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://3dnchu.com/wp-content/uploads/timelapse-recorder-v0-2-small.gif"
-        },
-        {
-          "id": "https://3dnchu.com/?p=1054952",
-          "author": "Ymt3D -3dnchu-",
-          "description": "Unreal Engine 5次期アップデートプレビュー板「Unreal Engine 5.6 Preview」がリリースされました！",
-          "link": "https://3dnchu.com/archives/unreal-engine-5-6-preview/",
-          "publishedOn": "2025-05-14T03:26:52.000Z",
-          "wordCount": 9037,
-          "title": "Unreal Engine 5.6 Preview - UE5の次期アップデートプレビュー板がリリース！ロードマップも公開！",
-          "enclosure": {
-            "url": "https://3dnchu.com/wp-content/uploads/Unreal-Engine-5.6-Preview.jpg",
-            "length": "49808",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://3dnchu.com/wp-content/uploads/Unreal-Engine-5.6-Preview.jpg"
         }
       ]
     },
@@ -902,6 +892,16 @@
       "feedUrl": "https://cgworld.jp/atom.xml",
       "siteUrl": "https://cgworld.jp/",
       "articles": [
+        {
+          "id": "https://cgworld.jp/flashnews/01-202506-Tripo-Studio.html",
+          "author": null,
+          "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
+          "link": "https://cgworld.jp/flashnews/01-202506-Tripo-Studio.html",
+          "publishedOn": "2025-06-12T21:31:11.000Z",
+          "wordCount": 858,
+          "title": "3Dモデル生成AIワークスペース「Tripo Studio」公開！　高度なパーツ分割、ローポリ生成、自動リグ「Uni-Rig」実装、AIテクスチャなど見どころ多数 - ニュース",
+          "imageUrl": "https://cgworld.jp/flashnews/assets_c/2025/06/TripoStudio-01-thumb-1080x608-70251.jpg"
+        },
         {
           "id": "https://cgworld.jp/article/level-designers-matrix628.html",
           "author": null,
@@ -1761,26 +1761,6 @@
           "wordCount": 767,
           "title": "【特別篇】After Effectsのプラグイン「Red Giant Trapcode」を使ってみよう 〜その3（Starglow篇：パート2） - 連載",
           "imageUrl": "https://cgworld.jp/regular/assets_c/2025/05/Tipsnote-photo-2025187-thumb-800x445-69174.png"
-        },
-        {
-          "id": "https://cgworld.jp/regular/202505-ue5tool-15.html",
-          "author": null,
-          "description": "",
-          "link": "https://cgworld.jp/regular/202505-ue5tool-15.html",
-          "publishedOn": "2025-05-14T07:54:00.000Z",
-          "wordCount": 897,
-          "title": "第15回：PIEの実行を制御するツール - 連載",
-          "imageUrl": "https://cgworld.jp/regular/assets_c/2025/04/UE5_EditorUtility_banner_vol15-thumb-1000x563-68863.jpg"
-        },
-        {
-          "id": "https://cgworld.jp/flashnews/01-202505-Adobe-Firefly.html",
-          "author": null,
-          "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
-          "link": "https://cgworld.jp/flashnews/01-202505-Adobe-Firefly.html",
-          "publishedOn": "2025-05-14T06:12:27.000Z",
-          "wordCount": 801,
-          "title": "「Adobe Firefly」更新！　画像生成AIモデルのアップデート、動画生成モデルの一般提供、ベクターグラフィックの生成、モバイルアプリも近日登場 - ニュース",
-          "imageUrl": "https://cgworld.jp/flashnews/assets_c/2025/05/Adobe_Firefly01-thumb-1032x580-69255.jpg"
         }
       ]
     },
@@ -1834,6 +1814,26 @@
       "feedUrl": "https://modelinghappy.com/feed",
       "siteUrl": "https://modelinghappy.com",
       "articles": [
+        {
+          "id": "https://modelinghappy.com/?p=63316",
+          "author": "modelinghappy",
+          "description": "「Odyssey」2D アニメーション プラグインが Fab で無料公開 FAB Odyssey 2025年6月11日フランスに拠点を置くPraxinos社の2DアニメーションソフトだったOdysseyがUnreal E\nThe post Unreal Engine内で直接2Dアニメーションを作成出来るプラグインとしてOdysseyがFabで無料公開されました first appeared on 3DCG最新情報サイト MODELING HAPPY.",
+          "link": "https://modelinghappy.com/archives/63316",
+          "publishedOn": "2025-06-12T20:35:54.000Z",
+          "wordCount": 3530,
+          "title": "Unreal Engine内で直接2Dアニメーションを作成出来るプラグインとしてOdysseyがFabで無料公開されました",
+          "imageUrl": "https://modelinghappy.com/wp-content/uploads/2025/06/20250613_odyssey_02.jpg"
+        },
+        {
+          "id": "https://modelinghappy.com/?p=63312",
+          "author": "modelinghappy",
+          "description": "Sanctus Procedural Mapping Sanctus Procedural MappingはBlenderでUVを必要とせずにプロシージャルマテリアルを使用した場合に、リグを使ったアニメーション、シェイプ\nThe post プロシージャルマテリアルを使用した場合にリグを使用したアニメーション、シェイプキー、モディファイア等を使用してもマッピングがずれないようになるBlender専用ノードSanctus Procedural Mapping first appeared on 3DCG最新情報サイト MODELING HAPPY.",
+          "link": "https://modelinghappy.com/archives/63312",
+          "publishedOn": "2025-06-12T14:21:13.000Z",
+          "wordCount": 3465,
+          "title": "プロシージャルマテリアルを使用した場合にリグを使用したアニメーション、シェイプキー、モディファイア等を使用してもマッピングがずれないようになるBlender専用ノードSanctus Procedural Mapping",
+          "imageUrl": "https://modelinghappy.com/wp-content/uploads/2025/06/20250612_Sanctus_Procedural_Mapping_01.jpg"
+        },
         {
           "id": "https://modelinghappy.com/?p=63309",
           "author": "modelinghappy",
@@ -2203,26 +2203,6 @@
           "wordCount": 3487,
           "title": "Unreal Engine 5.6Preview版が公開",
           "imageUrl": "https://modelinghappy.com/wp-content/uploads/2025/05/20250515_unrealengine5_6_01.jpg"
-        },
-        {
-          "id": "https://modelinghappy.com/?p=63004",
-          "author": "modelinghappy",
-          "description": "Modstack #8211; Save amp; Reuse Modifier Presets In One Click ModstackはBlenderのモディファイアを何種類も作成した場合でも全て保存して、別の\nThe post Modstack 複数のモディファイアでも設定をそのまま保存して別のモデルに一度に反映できるBlender用アドオン first appeared on 3DCG最新情報サイト MODELING HAPPY.",
-          "link": "https://modelinghappy.com/archives/63004",
-          "publishedOn": "2025-05-14T11:46:17.000Z",
-          "wordCount": 3471,
-          "title": "Modstack 複数のモディファイアでも設定をそのまま保存して別のモデルに一度に反映できるBlender用アドオン",
-          "imageUrl": "https://modelinghappy.com/wp-content/uploads/2025/05/20250514_Modstack_01.jpg"
-        },
-        {
-          "id": "https://modelinghappy.com/?p=62990",
-          "author": "modelinghappy",
-          "description": "Blender Ai Assistant Blender Ai AssistantはBlenderでトークンや月額のサブスクリプション不要でプロンプト入力でAIによって生成したコードを実行する事が可能になるアドオンです。\nThe post トークンや月額料金不要でBlender内でプロンプト入力で独自のスクリプトやアクション、4Kテクスチャ画像HDRIを作成出来るBlender Ai Assistant first appeared on 3DCG最新情報サイト MODELING HAPPY.",
-          "link": "https://modelinghappy.com/archives/62990",
-          "publishedOn": "2025-05-14T09:01:27.000Z",
-          "wordCount": 3493,
-          "title": "トークンや月額料金不要でBlender内でプロンプト入力で独自のスクリプトやアクション、4Kテクスチャ画像HDRIを作成出来るBlender Ai Assistant",
-          "imageUrl": "https://modelinghappy.com/wp-content/uploads/2025/05/20250514_blenderAI_01.jpg"
         }
       ]
     },
@@ -2710,16 +2690,6 @@
           "wordCount": 559,
           "title": "Houdini 使用事例：モバイルゲーム『MONOPOLY GO!』のキャンペーン映像「Go Friends Gather」",
           "imageUrl": "https://3dtotal.jp/wp-content/uploads/2025/05/hconnect_monopolyjamm.jpg"
-        },
-        {
-          "id": "https://3dtotal.jp/?p=51175",
-          "author": "3dtotal管理人T",
-          "description": "★Time Bandits VFX breakdown by Rodeo FX（2分20秒） 伝説のトロイの都市から明王朝の壮大な時代まで、ポータルから足を踏み入れ、忘れられない冒険の旅に出かけよう。 失われたトロイの都 […]\nThe post 時空を超えた冒険。海外ドラマ『タイム・バンディット』のVFXブレイクダウン映像 first appeared on 3dtotal 日本語オフィシャルサイト.",
-          "link": "https://3dtotal.jp/news/51175/",
-          "publishedOn": "2025-05-14T02:30:02.000Z",
-          "wordCount": 508,
-          "title": "時空を超えた冒険。海外ドラマ『タイム・バンディット』のVFXブレイクダウン映像",
-          "imageUrl": "https://3dtotal.jp/wp-content/uploads/2025/05/timebandits_rodeo04.jpg"
         }
       ]
     },
@@ -3530,6 +3500,26 @@
       "feedUrl": "https://note.com/hashtag/3DCG/rss",
       "siteUrl": "https://note.com/hashtag/3DCG",
       "articles": [
+        {
+          "id": "https://note.com/juntominaga/n/nc35a5a5b62eb",
+          "author": null,
+          "description": "光と質感で魅せる、ARインテリア表現の世界\n── Unreal Engine × Substance Painter 実践 ──\nこんにちは。今回は、レストラン風のインテリア空間をテーマに、\n「光 × 空気感 × 質感」 の3要素を徹底的に追求しました。\n続きをみる",
+          "link": "https://note.com/juntominaga/n/nc35a5a5b62eb",
+          "publishedOn": "2025-06-13T00:34:39.000Z",
+          "wordCount": 2448,
+          "title": "光と質感で魅せる、ARインテリア表現の世界",
+          "imageUrl": "https://assets.st-note.com/production/uploads/images/195812728/rectangle_large_type_2_0e6abfcd65396ab1257e8a9d1ed040f3.png?width=800"
+        },
+        {
+          "id": "https://note.com/designpeke/n/n052c8948a0ad",
+          "author": null,
+          "description": "アニメーションの準備をしていきます。\nせっかく髪の毛やスカートにもボーンを入れたのでそれを活かせるよう、想定よりも少し大きく動かしたいと思いました。ズバリ歩行チャレンジです。\n焦るんじゃない、おれは歩かせたいだけなんだ\n続きをみる",
+          "link": "https://note.com/designpeke/n/n052c8948a0ad",
+          "publishedOn": "2025-06-12T14:12:23.000Z",
+          "wordCount": 2667,
+          "title": "第10回：リギング　〜アリスと一緒に地の底をさまよう篇〜　blenderダンジョン冒険記",
+          "imageUrl": "https://assets.st-note.com/production/uploads/images/194868811/rectangle_large_type_2_3092d7021bdf35a396cb4db4b2a68dae.png?width=800"
+        },
         {
           "id": "https://note.com/kitaniosam/n/nd6c6f4f3794a",
           "author": null,
@@ -5834,6 +5824,16 @@
       "feedUrl": "https://note.com/hashtag/substancepainter/rss",
       "siteUrl": "https://note.com/hashtag/substancepainter",
       "articles": [
+        {
+          "id": "https://note.com/juntominaga/n/nc35a5a5b62eb",
+          "author": null,
+          "description": "光と質感で魅せる、ARインテリア表現の世界\n── Unreal Engine × Substance Painter 実践 ──\nこんにちは。今回は、レストラン風のインテリア空間をテーマに、\n「光 × 空気感 × 質感」 の3要素を徹底的に追求しました。\n続きをみる",
+          "link": "https://note.com/juntominaga/n/nc35a5a5b62eb",
+          "publishedOn": "2025-06-13T00:34:39.000Z",
+          "wordCount": 2448,
+          "title": "光と質感で魅せる、ARインテリア表現の世界",
+          "imageUrl": "https://assets.st-note.com/production/uploads/images/195812728/rectangle_large_type_2_0e6abfcd65396ab1257e8a9d1ed040f3.png?width=800"
+        },
         {
           "id": "https://note.com/ad_fsg/n/n8b80500a1b0d",
           "author": null,

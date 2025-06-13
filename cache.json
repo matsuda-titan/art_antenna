@@ -12,6 +12,21 @@
       "siteUrl": "https://cgbox.jp",
       "articles": [
         {
+          "id": "https://cgbox.jp/?p=63419",
+          "author": "kasahara",
+          "description": "こんばんは！ 今回はアドオンの「X-Over」を紹介します。 こちらのリンクがアドオンの商品ページになります。 X-Over 「X-Over」は、曲線が自分自身を交差せずに編み込む（上下を行き来する）**ような表現を可能 […]",
+          "link": "https://cgbox.jp/2025/06/13/news-addon-x-over/",
+          "publishedOn": "2025-06-13T02:24:47.000Z",
+          "wordCount": 2275,
+          "title": "【アドオン紹介】X-Over – 重なり合わないロープをペンツールで作成！",
+          "enclosure": {
+            "url": "https://cgbox.jp/wp-content/uploads/2025/06/ezgif-48db3d5ee8c1d8_3-1.mp4",
+            "length": "0",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://cgbox.jp/wp-content/uploads/2025/06/image_processing20250612-2-qarko3.jpg"
+        },
+        {
           "id": "https://cgbox.jp/?p=63413",
           "author": "kasahara",
           "description": "こんばんは！ 今回はアドオンの「Image Tracers」を紹介します。 こちらのリンクから購入することができます。 Image Tracers 「Image Tracers」は、Blender用の2つの強力なイメージ […]",
@@ -2212,6 +2227,26 @@
       "siteUrl": "https://3dtotal.jp",
       "articles": [
         {
+          "id": "https://3dtotal.jp/?p=51622",
+          "author": "3dtotal管理人T",
+          "description": "★Creating Seasmoke in House of the Dragon S2（2分15秒） 才能豊かな Weta FX のアーティストたちが、『ハウス・オブ・ザ・ドラゴン』シーズン2 でドラゴン、シースモーク […]\nThe post ドラゴン、シースモークのできるまで。海外ドラマ『ハウス・オブ・ザ・ドラゴン』シーズン2 のメイキング映像 first appeared on 3dtotal 日本語オフィシャルサイト.",
+          "link": "https://3dtotal.jp/news/51622/",
+          "publishedOn": "2025-06-13T02:21:51.000Z",
+          "wordCount": 511,
+          "title": "ドラゴン、シースモークのできるまで。海外ドラマ『ハウス・オブ・ザ・ドラゴン』シーズン2 のメイキング映像",
+          "imageUrl": "https://3dtotal.jp/wp-content/uploads/2025/06/hod2_weta.jpg"
+        },
+        {
+          "id": "https://3dtotal.jp/?p=51619",
+          "author": "3dtotal管理人T",
+          "description": "★Main Road Post Film Reel 2025（2分1秒） ロシアの VFXスタジオ Main Road Post のフィルムリール 2025   　 編集部からのおすすめ：TV、映画、映像制作に […]\nThe post ロシアの VFXスタジオ Main Road Post の フィルムリール 2025 first appeared on 3dtotal 日本語オフィシャルサイト.",
+          "link": "https://3dtotal.jp/news/51619/",
+          "publishedOn": "2025-06-13T02:16:15.000Z",
+          "wordCount": 568,
+          "title": "ロシアの VFXスタジオ Main Road Post の フィルムリール 2025",
+          "imageUrl": "https://3dtotal.jp/wp-content/uploads/2025/06/mainroadpost_reel25.jpg"
+        },
+        {
           "id": "https://3dtotal.jp/?p=51601",
           "author": "3dtotal管理人T",
           "description": "★The Wheel of Time S3 VFX Breakdown（1分36秒） Amazon Studios の VFXスーパーバイザー Andy Scrase とチームを組んだ Framestore の Owen […]\nThe post 海外ファンタジードラマ『ホイール・オブ・タイム』シーズン3 のVFXブレイクダウン映像 first appeared on 3dtotal 日本語オフィシャルサイト.",
@@ -2779,21 +2814,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--mpB8WPzD--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2580%2590Unity%2520%252F%2520iOS%25E3%2580%2591%25E3%2582%25B7%25E3%2582%25A7%25E3%2583%25BC%25E3%2583%2580%25E3%2583%25BC%25E3%2581%25AEConstantBuffer%25E3%2582%2592%25E8%2587%25AA%25E4%25BD%259C%25E3%2581%2599%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%258B%25E3%2582%2582%25E3%2581%259D%25E3%2581%25B0%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzBkZmM3ODFiOTQuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
-        },
-        {
-          "id": "https://zenn.dev/nithink/articles/3875574342765a",
-          "author": "Nithink",
-          "description": "概要\n自作レンダーパイプラインでVFXGraphのパッケージを使えるようにする方法について調査しました。\n\nUnityのバージョンは6000.0.42です。\n自作レンダーパイプラインというのはURPやHDRPを改造するという話ではなく、Core RP Libraryで一から作成するレンダーパイプラインという意味です。詳しくは以下もご覧ください。\nhttps://zenn.dev/nithink/articles/3810a563f2e2d6\nこの記事では、レンダーパイプラインをパッケージとして開発していて、既に最低限の描画フローは実装できている前提とします。\nまたVFXGraphのツ...",
-          "link": "https://zenn.dev/nithink/articles/3875574342765a",
-          "publishedOn": "2025-05-14T13:03:20.000Z",
-          "wordCount": 5980,
-          "title": "[Unity][SRP]自作レンダーパイプラインにVFX Graphを導入する",
-          "enclosure": {
-            "url": "https://res.cloudinary.com/zenn/image/upload/s--K0XCwt4D--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%255BUnity%255D%255BSRP%255D%25E8%2587%25AA%25E4%25BD%259C%25E3%2583%25AC%25E3%2583%25B3%25E3%2583%2580%25E3%2583%25BC%25E3%2583%2591%25E3%2582%25A4%25E3%2583%2597%25E3%2583%25A9%25E3%2582%25A4%25E3%2583%25B3%25E3%2581%25ABVFX%2520Graph%25E3%2582%2592%25E5%25B0%258E%25E5%2585%25A5%25E3%2581%2599%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Nithink%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jSW9tSmZJMk9nMlRQWDVyMEpHakQtcTVheEVydlVwcHR6bWlVeDN6cjNmb3JIZ1NSQT1zOTYtYw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png",
-            "length": "0",
-            "type": "image/png"
-          },
-          "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--K0XCwt4D--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%255BUnity%255D%255BSRP%255D%25E8%2587%25AA%25E4%25BD%259C%25E3%2583%25AC%25E3%2583%25B3%25E3%2583%2580%25E3%2583%25BC%25E3%2583%2591%25E3%2582%25A4%25E3%2583%2597%25E3%2583%25A9%25E3%2582%25A4%25E3%2583%25B3%25E3%2581%25ABVFX%2520Graph%25E3%2582%2592%25E5%25B0%258E%25E5%2585%25A5%25E3%2581%2599%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Nithink%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jSW9tSmZJMk9nMlRQWDVyMEpHakQtcTVheEVydlVwcHR6bWlVeDN6cjNmb3JIZ1NSQT1zOTYtYw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
         }
       ]
     },
@@ -3500,6 +3520,36 @@
       "feedUrl": "https://note.com/hashtag/3DCG/rss",
       "siteUrl": "https://note.com/hashtag/3DCG",
       "articles": [
+        {
+          "id": "https://note.com/emoria_inc/n/n664326b93f01",
+          "author": null,
+          "description": "こんにちは、広報エーモンですっ！\n【ボディメカニクス】！の記事です。\nちなみにボディメカニクス？ 何それ？？\n【ボディメカニクス】とは？\n続きをみる",
+          "link": "https://note.com/emoria_inc/n/n664326b93f01",
+          "publishedOn": "2025-06-13T01:53:56.000Z",
+          "wordCount": 2958,
+          "title": "人体知識【ボディメカニクス】",
+          "imageUrl": "https://assets.st-note.com/production/uploads/images/195721878/rectangle_large_type_2_13edc53f3d8d03fa5646754cb438963a.png?width=800"
+        },
+        {
+          "id": "https://note.com/3774/n/n15274436b3b3",
+          "author": null,
+          "description": "手直し前\n\n続きをみる",
+          "link": "https://note.com/3774/n/n15274436b3b3",
+          "publishedOn": "2025-06-13T00:56:39.000Z",
+          "wordCount": 2343,
+          "title": "完成したけど納得できなかったから、修正してみたPart1",
+          "imageUrl": "https://assets.st-note.com/production/uploads/images/195739690/rectangle_large_type_2_0fb7122e2d32aa08c70a6daa07e89576.png?width=800"
+        },
+        {
+          "id": "https://note.com/3774/n/n820fa6e0960e",
+          "author": null,
+          "description": "Part1\n    \n        \n                    \n    \n\n続きをみる",
+          "link": "https://note.com/3774/n/n820fa6e0960e",
+          "publishedOn": "2025-06-13T00:54:51.000Z",
+          "wordCount": 2371,
+          "title": "完成したけど納得できなかったから、修正してみたPart2",
+          "imageUrl": "https://assets.st-note.com/production/uploads/images/195748063/rectangle_large_type_2_b5749199af833caf499415c07e971caa.jpg?width=800"
+        },
         {
           "id": "https://note.com/juntominaga/n/nc35a5a5b62eb",
           "author": null,

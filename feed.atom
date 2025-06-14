@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-06-14T03:38:18.746Z</updated>
+    <updated>2025-06-14T08:13:13.195Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【Unity / SRP Batcher】CBUFFER外パラメータによる描画崩れ]]></title>
+        <id>https://zenn.dev/r_ngtm/articles/unity-srpbatch-globalparameter-bug</id>
+        <link href="https://zenn.dev/r_ngtm/articles/unity-srpbatch-globalparameter-bug"/>
+        <updated>2025-06-14T04:34:32.000Z</updated>
+        <summary type="html"><![CDATA[はじめに
+SRP Batcherを利用している場合、
+CBUFFER_START(UnityPerMaterial)  ~ CBUFFER_END で囲った変数は、
+マテリアル固有のパラメータとして扱われます。
+CBUFFERの外にあるパラメータはグローバルなものとして扱われます。
+half4 _Color; // グローバルなパラメータ
+CBUFFER_START(UnityPerMaterial)  
+float4 _MainTex_ST; // マテリアル固有のパラメータ
+CBUFFER_END
+この時、マテリアルに対して上記のグローバルパラメータをセットすると、
+他のマテリア...]]></summary>
+        <author>
+            <name>かもそば</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【アドオン紹介】Uv Factory – UV展開を自動化・効率化するアドオン！]]></title>
         <id>https://cgbox.jp/?p=63426</id>

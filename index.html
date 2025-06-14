@@ -361,11 +361,53 @@ footer {
             data-action="toggle-accordions"
             title="Click to toggle the day, Ctrl + click to toggle all."
           >
-            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2025-06-14 datetime="2025-06-14T03:15:07.000Z">2025-06-14</time>
-            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2025-06-14 datetime="2025-06-14T03:15:07.000Z"></time>
+            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2025-06-14 datetime="2025-06-14T04:34:32.000Z">2025-06-14</time>
+            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2025-06-14 datetime="2025-06-14T04:34:32.000Z"></time>
           </button>
         </h2>
         <ul class="sources card">
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >Zennの「graphics」のフィード</button>
+                  <a class="source-heading__link" href="https://zenn.dev/topics/graphics">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://zenn.dev/r_ngtm/articles/unity-srpbatch-globalparameter-bug"
+                        open
+                      >
+                        <summary class="article-expander__title">【Unity / SRP Batcher】CBUFFER外パラメータによる描画崩れ</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://zenn.dev/r_ngtm/articles/unity-srpbatch-globalparameter-bug">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://res.cloudinary.com/zenn/image/upload/s--jfcNKnSK--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2580%2590Unity%2520%252F%2520SRP%2520Batcher%25E3%2580%2591CBUFFER%25E5%25A4%2596%25E3%2583%2591%25E3%2583%25A9%25E3%2583%25A1%25E3%2583%25BC%25E3%2582%25BF%25E3%2581%25AB%25E3%2582%2588%25E3%2582%258B%25E6%258F%258F%25E7%2594%25BB%25E5%25B4%25A9%25E3%2582%258C%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%258B%25E3%2582%2582%25E3%2581%259D%25E3%2581%25B0%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzBkZmM3ODFiOTQuanBlZw&#x3D;&#x3D;%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>はじめに
+SRP Batcherを利用している場合、
+CBUFFER_START(UnityPerMaterial)  ~ CBUFFER_END で囲った変数は、
+マテリアル固有のパラメータとして扱われます。
+CBUFFERの外にあるパラメータはグローバルなものとして扱われます。
+half4 _Color; // グローバルなパラメータ
+CBUFFER_START(UnityPerMaterial)  
+float4 _MainTex_ST; // マテリアル固有のパラメータ
+CBUFFER_END
+この時、マテリアルに対して上記のグローバルパラメータをセットすると、
+他のマテリア...</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
             <li class="card__section">
               <section class="js-toggle-accordions-scope">
                 <h3 class="source-heading">
@@ -9340,8 +9382,8 @@ The post カメラトラッキングを自動化し 3D再構築プロセスを�
       </section>
 
     <footer>
-      <a class="footer-link" href="https://github.com/matsuda-titan/art_antenna/actions/runs/15648018008">
-        <time id="build-timestamp" datetime="2025-06-14T03:38:18.719Z">2025-06-14T03:38:18.719Z</time>
+      <a class="footer-link" href="https://github.com/matsuda-titan/art_antenna/actions/runs/15650088963">
+        <time id="build-timestamp" datetime="2025-06-14T08:13:13.161Z">2025-06-14T08:13:13.161Z</time>
       </a>
       <a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.15.1</a>
     </footer>

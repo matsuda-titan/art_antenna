@@ -2736,6 +2736,21 @@
       "siteUrl": "https://zenn.dev/topics/graphics",
       "articles": [
         {
+          "id": "https://zenn.dev/r_ngtm/articles/unity-srpbatch-globalparameter-bug",
+          "author": "かもそば",
+          "description": "はじめに\nSRP Batcherを利用している場合、\nCBUFFER_START(UnityPerMaterial)  ~ CBUFFER_END で囲った変数は、\nマテリアル固有のパラメータとして扱われます。\nCBUFFERの外にあるパラメータはグローバルなものとして扱われます。\nhalf4 _Color; // グローバルなパラメータ\nCBUFFER_START(UnityPerMaterial)  \nfloat4 _MainTex_ST; // マテリアル固有のパラメータ\nCBUFFER_END\nこの時、マテリアルに対して上記のグローバルパラメータをセットすると、\n他のマテリア...",
+          "link": "https://zenn.dev/r_ngtm/articles/unity-srpbatch-globalparameter-bug",
+          "publishedOn": "2025-06-14T04:34:32.000Z",
+          "wordCount": null,
+          "title": "【Unity / SRP Batcher】CBUFFER外パラメータによる描画崩れ",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--jfcNKnSK--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2580%2590Unity%2520%252F%2520SRP%2520Batcher%25E3%2580%2591CBUFFER%25E5%25A4%2596%25E3%2583%2591%25E3%2583%25A9%25E3%2583%25A1%25E3%2583%25BC%25E3%2582%25BF%25E3%2581%25AB%25E3%2582%2588%25E3%2582%258B%25E6%258F%258F%25E7%2594%25BB%25E5%25B4%25A9%25E3%2582%258C%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%258B%25E3%2582%2582%25E3%2581%259D%25E3%2581%25B0%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzBkZmM3ODFiOTQuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png",
+            "length": "0",
+            "type": "image/png"
+          },
+          "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--jfcNKnSK--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2580%2590Unity%2520%252F%2520SRP%2520Batcher%25E3%2580%2591CBUFFER%25E5%25A4%2596%25E3%2583%2591%25E3%2583%25A9%25E3%2583%25A1%25E3%2583%25BC%25E3%2582%25BF%25E3%2581%25AB%25E3%2582%2588%25E3%2582%258B%25E6%258F%258F%25E7%2594%25BB%25E5%25B4%25A9%25E3%2582%258C%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%258B%25E3%2582%2582%25E3%2581%259D%25E3%2581%25B0%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzBkZmM3ODFiOTQuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
+        },
+        {
           "id": "https://zenn.dev/r_ngtm/articles/unity-reduce-constantbuffer",
           "author": "かもそば",
           "description": "環境\nUnity6000.1.6f1\nUniversal RP 17.1.0\nXCode 16.3 (16E140)\niPhoneX (iOS)\n\n はじめに\nシェーダーのConstantBuffer(CBUFFER)は自分で定義することができます。\nCBUFFER_START(MyCustomLight)  \nfloat4 _DirectionalLightColor;  \nfloat3 _DirectionalLightDirection;  \nCBUFFER_END  \nそして、CBUFFERを定義しておくことで、C#から複数のデータをまとめて渡すことができます。\nprivat...",

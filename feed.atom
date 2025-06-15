@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-06-15T03:47:09.993Z</updated>
+    <updated>2025-06-15T08:13:08.931Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[シミュレーションとCopernicusでタイリングテクスチャを作る]]></title>
+        <id>https://note.com/thesaurus/n/n0f721015e122</id>
+        <link href="https://note.com/thesaurus/n/n0f721015e122"/>
+        <updated>2025-06-15T04:28:39.000Z</updated>
+        <summary type="html"><![CDATA[第22回Houdiniゆるゆる会のテーマは「パターン」でした。今回はそのテーマにちなんで、薬のカプセルが大量に並んだようなシームレステクスチャを、HoudiniのCopernicus機能を使って作ってみました。
+こういったルックのテクスチャは、通常Substance Designerで制作することが多いですが、Houdiniならではの強みとして、物理シミュレーションを取り入れた説得力のある表現が可能になります。
+続きをみる]]></summary>
+        <author>
+            <name>#Houdiniタグ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【アドオン紹介】Geo Particles Assets – ベースとなる色んなパーティクルアセット集！]]></title>
+        <id>https://cgbox.jp/?p=63430</id>
+        <link href="https://cgbox.jp/2025/06/15/news-addon-geo-particles-assets/"/>
+        <updated>2025-06-15T03:53:18.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは！ 今回はアドオンの「Geo Particles Assets」を紹介します。 こちらのリンクがアドオンの商品ページになります。 Geo Particles Assets 「Geo Particles Asse […]]]></summary>
+        <author>
+            <name>kasahara</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DCCツールのファイルをLLMで読み込む方法]]></title>
         <id>https://qiita.com/scixarts/items/253e8ebb450b73cd97c8</id>
@@ -3349,18 +3371,6 @@ JetBrains製のC/C++向けのIDEです。…]]></summary>
         <summary type="html"><![CDATA[こんばんは！ 今回はアセットの「Lightning Fxs」を紹介します。 こちらのリンクから購入することができます。 Lightning Fxs 「Lightning Fxs」は、Blenderでリアルかつスタイライズ […]]]></summary>
         <author>
             <name>kasahara</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PolyExpand2Dで穴あきN-Gonをオフセットするには？]]></title>
-        <id>https://note.com/thesaurus/n/n0f52a472b700</id>
-        <link href="https://note.com/thesaurus/n/n0f52a472b700"/>
-        <updated>2025-05-16T16:14:43.000Z</updated>
-        <summary type="html"><![CDATA[穴の空いたN-Gonを内側にオフセットするには？
-アルファベットの「B」のような、穴の空いたメッシュを内側にオフセットする場合、PolyExtrudeでInsetに値を入れて、FrontGroup以外を削除することで簡単に内側にオフセットできます。
-続きをみる]]></summary>
-        <author>
-            <name>#Houdiniタグ</name>
         </author>
     </entry>
 </feed>

@@ -350,21 +350,6 @@
             "type": "video/mp4"
           },
           "imageUrl": "https://cgbox.jp/wp-content/uploads/2025/05/c1498ff9077d14e5dd5dafc31ea007d33df30cf76df1d75b70c41cefceceb134_640x360-1.webp"
-        },
-        {
-          "id": "https://cgbox.jp/?p=63124",
-          "author": "kasahara",
-          "description": "こんばんは！ 今回はアセットの「Lightning Fxs」を紹介します。 こちらのリンクから購入することができます。 Lightning Fxs 「Lightning Fxs」は、Blenderでリアルかつスタイライズ […]",
-          "link": "https://cgbox.jp/2025/05/17/news-addon-lightning-fxs/",
-          "publishedOn": "2025-05-17T04:54:47.000Z",
-          "wordCount": 2260,
-          "title": "【アセット紹介】Lightning Fxs – 電撃エフェクトのアセット集！",
-          "enclosure": {
-            "url": "https://cgbox.jp/wp-content/uploads/2025/05/fdsaf.mp4",
-            "length": "0",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://cgbox.jp/wp-content/uploads/2025/05/image_processing20250427-2-9dod0r.jpg"
         }
       ]
     },
@@ -864,21 +849,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "https://3dnchu.com/wp-content/uploads/Maxon-Party-25-spring-small.gif"
-        },
-        {
-          "id": "https://3dnchu.com/?p=1055008",
-          "author": "Ymt3D -3dnchu-",
-          "description": "BoneCracker GamesによるUnity向けのリアルな戦車制御システム「Realistic Tank Controller Pro」がリリースされています！",
-          "link": "https://3dnchu.com/archives/realistic-tank-controller-pro/",
-          "publishedOn": "2025-05-17T05:51:02.000Z",
-          "wordCount": 8799,
-          "title": "Realistic Tank Controller Pro - Unity向けのリアルな戦車制御システム！",
-          "enclosure": {
-            "url": "https://3dnchu.com/wp-content/uploads/Realistic-Tank-Controller-Pro.webp",
-            "length": "1252962",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://3dnchu.com/wp-content/uploads/Realistic-Tank-Controller-Pro.webp"
         }
       ]
     },
@@ -887,6 +857,36 @@
       "feedUrl": "https://cgworld.jp/atom.xml",
       "siteUrl": "https://cgworld.jp/",
       "articles": [
+        {
+          "id": "https://cgworld.jp/regular/202506-tipsnote.html",
+          "author": null,
+          "description": "Illustrator 2025の新機能「新しいカラーコード入力規則」を紹介します",
+          "link": "https://cgworld.jp/regular/202506-tipsnote.html",
+          "publishedOn": "2025-06-16T05:00:28.000Z",
+          "wordCount": 736,
+          "title": "【Illustrator 2025】カラーコードをナビゲーション機能で簡単に入力！ - 連載",
+          "imageUrl": "https://cgworld.jp/regular/assets_c/2025/06/Tipsnote-photo-2025188-thumb-800x445-70094.png"
+        },
+        {
+          "id": "https://cgworld.jp/regular/kyoto01.html",
+          "author": null,
+          "description": "",
+          "link": "https://cgworld.jp/regular/kyoto01.html",
+          "publishedOn": "2025-06-16T03:10:46.000Z",
+          "wordCount": 744,
+          "title": "第1回：WACHAJACK 京都スタジオ・アトリエタヌキ - 連載",
+          "imageUrl": "https://cgworld.jp/regular/assets_c/2025/06/01_wachajack_v3-thumb-1440x810-69882.jpg"
+        },
+        {
+          "id": "https://cgworld.jp/flashnews/01-202506-SuperDec.html",
+          "author": null,
+          "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
+          "link": "https://cgworld.jp/flashnews/01-202506-SuperDec.html",
+          "publishedOn": "2025-06-15T21:45:39.000Z",
+          "wordCount": 747,
+          "title": "新しい3Dシーン表現手法「SuperDec」発表！　\"スーパー二次曲面\"プリミティブでシーンやオブジェクトを分解し表現 - ニュース",
+          "imageUrl": "https://cgworld.jp/flashnews/assets_c/2025/06/SuperDec-01-thumb-1080x607-70344.jpg"
+        },
         {
           "id": "https://cgworld.jp/flashnews/02-2506-icoma.html",
           "author": null,
@@ -2874,16 +2874,6 @@
           "wordCount": 631,
           "title": "DCCツールのスクリプト・プラグイン開発で愛用しているPythonライブラリ",
           "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnNlY3VyZS5ncmF2YXRhci5jb20lMkZhdmF0YXIlMkYwNTUwM2ExMzBiOTdmZmM5ZGQ4YTY4Y2M1NzJkNGZlMT9peGxpYj1yYi00LjAuMCZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmZm09cG5nMzImcz04NTM2OTYxNmJhMmViNTRjZWExOTRlMGYzM2E4ZDFkYQ%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D7f87386c08f818f62b56401e43004403?ixlib=rb-4.0.0&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9RENDJUUzJTgzJTg0JUUzJTgzJUJDJUUzJTgzJUFCJUUzJTgxJUFFJUUzJTgyJUI5JUUzJTgyJUFGJUUzJTgzJUFBJUUzJTgzJTk3JUUzJTgzJTg4JUUzJTgzJUJCJUUzJTgzJTk3JUUzJTgzJUE5JUUzJTgyJUIwJUUzJTgyJUE0JUUzJTgzJUIzJUU5JTk2JThCJUU3JTk5JUJBJUUzJTgxJUE3JUU2JTg0JTlCJUU3JTk0JUE4JUUzJTgxJTk3JUUzJTgxJUE2JUUzJTgxJTg0JUUzJTgyJThCUHl0aG9uJUUzJTgzJUE5JUUzJTgyJUE0JUUzJTgzJTk2JUUzJTgzJUE5JUUzJTgzJUFBJnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9MWRlZDM0NDc0NTI5ODUzZTVkMDAwZWFiZTUyNDk4OTY&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBzY2l4YXJ0cyZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPTExNjdhNzEyODc0OWI0Yzg4ZjlmYmZmNjY1NTE0NzA4&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=d20350abaa112a063f9216ca11b8f46d"
-        },
-        {
-          "id": "https://qiita.com/scixarts/items/de8f39fdb29b792dbcfd",
-          "author": null,
-          "description": "環境\n\nWindows\nAutodesk Maya 2026\nCLion 2025.1.1\nVisual Studio 2022\n\nCLionについて\nJetBrains製のC/C++向けのIDEです。…",
-          "link": "https://qiita.com/scixarts/items/de8f39fdb29b792dbcfd",
-          "publishedOn": "2025-05-17T05:56:09.000Z",
-          "wordCount": 1043,
-          "title": "Mayaプラグインの開発環境をCLionで構築する方法",
-          "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnNlY3VyZS5ncmF2YXRhci5jb20lMkZhdmF0YXIlMkYwNTUwM2ExMzBiOTdmZmM5ZGQ4YTY4Y2M1NzJkNGZlMT9peGxpYj1yYi00LjAuMCZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmZm09cG5nMzImcz04NTM2OTYxNmJhMmViNTRjZWExOTRlMGYzM2E4ZDFkYQ%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D7f87386c08f818f62b56401e43004403?ixlib=rb-4.0.0&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9TWF5YSVFMyU4MyU5NyVFMyU4MyVBOSVFMyU4MiVCMCVFMyU4MiVBNCVFMyU4MyVCMyVFMyU4MSVBRSVFOSU5NiU4QiVFNyU5OSVCQSVFNyU5MiVCMCVFNSVBMiU4MyVFMyU4MiU5MkNMaW9uJUUzJTgxJUE3JUU2JUE3JThCJUU3JUFGJTg5JUUzJTgxJTk5JUUzJTgyJThCJUU2JTk2JUI5JUU2JUIzJTk1JnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9NWJlYmY5N2JjMGUzNTc4ZjRhNTRiNjVhM2QxNWY3MzM&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBzY2l4YXJ0cyZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPTExNjdhNzEyODc0OWI0Yzg4ZjlmYmZmNjY1NTE0NzA4&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=44ba936ee64b45e60965a7ddee734875"
         }
       ]
     },
@@ -3412,6 +3402,16 @@
       "feedUrl": "https://note.com/hashtag/substancepainter/rss",
       "siteUrl": "https://note.com/hashtag/substancepainter",
       "articles": [
+        {
+          "id": "https://note.com/memest_3dcg/n/nb6dc0e4b4571",
+          "author": null,
+          "description": "ゲーム・VRChat向けモデルを制作していると、ポリゴン数を抑えたローポリモデルだけで仕上げなければいけないことがよくあります。\nただ、ローポリモデルはエッジがカクカクしやすく、のっぺり見えてしまうという問題も…。\n続きをみる",
+          "link": "https://note.com/memest_3dcg/n/nb6dc0e4b4571",
+          "publishedOn": "2025-06-15T18:01:47.000Z",
+          "wordCount": 2221,
+          "title": "SubstancePainterでLowモデルだけでベベル風処理を行う方法",
+          "imageUrl": "https://assets.st-note.com/production/uploads/images/196382183/rectangle_large_type_2_7ce32612926be8e305b1da3fa0b95567.jpeg?width=800"
+        },
         {
           "id": "https://note.com/juntominaga/n/nc35a5a5b62eb",
           "author": null,

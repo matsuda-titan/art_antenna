@@ -350,21 +350,6 @@
             "type": "video/mp4"
           },
           "imageUrl": "https://cgbox.jp/wp-content/uploads/2025/05/image_processing20250516-2-be333s.jpg"
-        },
-        {
-          "id": "https://cgbox.jp/?p=63132",
-          "author": "kasahara",
-          "description": "こんばんは！ 今回はアドオンの「rmKit」を紹介します。 こちらのリンクから購入することができます。 rmKit 「rmKit」は、モデリングに役立つ様々な機能が含まれたエクステンションです。 パイメニューで操作するこ […]",
-          "link": "https://cgbox.jp/2025/05/18/news-addon-rmkit/",
-          "publishedOn": "2025-05-18T06:01:28.000Z",
-          "wordCount": 2234,
-          "title": "【無料アドオン紹介】rmKit – ベベル幅を調整できるアドオン",
-          "enclosure": {
-            "url": "https://cgbox.jp/wp-content/uploads/2025/05/fdsa.mp4",
-            "length": "0",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://cgbox.jp/wp-content/uploads/2025/05/c1498ff9077d14e5dd5dafc31ea007d33df30cf76df1d75b70c41cefceceb134_640x360-1.webp"
         }
       ]
     },
@@ -872,6 +857,36 @@
       "feedUrl": "https://cgworld.jp/atom.xml",
       "siteUrl": "https://cgworld.jp/",
       "articles": [
+        {
+          "id": "https://cgworld.jp/flashnews/79.html",
+          "author": null,
+          "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
+          "link": "https://cgworld.jp/flashnews/79.html",
+          "publishedOn": "2025-06-16T23:01:03.000Z",
+          "wordCount": 742,
+          "title": "【新講座】7/9(水)開催オンライン講座『教科書に載ってないライティング~シネマティックな絵づくりについて~』 - ニュース",
+          "imageUrl": "https://cgworld.jp/flashnews/assets_c/2025/06/169_seminar_lighting_full%20%281%29-thumb-1920x1080-70441.jpg"
+        },
+        {
+          "id": "https://cgworld.jp/regular/24godot-enginevisionos.html",
+          "author": null,
+          "description": "",
+          "link": "https://cgworld.jp/regular/24godot-enginevisionos.html",
+          "publishedOn": "2025-06-16T22:36:47.000Z",
+          "wordCount": 782,
+          "title": "第24回：Godot Engine、visionOS対応へ - 連載",
+          "imageUrl": "https://cgworld.jp/regular/assets_c/2025/06/24-thumb-1920x1080-70437.jpg"
+        },
+        {
+          "id": "https://cgworld.jp/flashnews/01-202506-Nomad-Sculpt-Desktop.html",
+          "author": null,
+          "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
+          "link": "https://cgworld.jp/flashnews/01-202506-Nomad-Sculpt-Desktop.html",
+          "publishedOn": "2025-06-16T21:06:35.000Z",
+          "wordCount": 758,
+          "title": "3Dスカルプトツール「Nomad Sculpt」デスクトップ版ベータリリース！Win／Mac対応、無料でテスト可能だが機能は限定的 - ニュース",
+          "imageUrl": "https://cgworld.jp/flashnews/assets_c/2025/06/Nomad%20Sculpt-01-thumb-1080x802-70424.jpg"
+        },
         {
           "id": "https://cgworld.jp/special-feature/kakamihara-hs-2504.html",
           "author": null,
@@ -1751,16 +1766,6 @@
           "wordCount": 608,
           "title": "Houdiniのプロシージャル技術とOpenUSD活用で進化を遂げるモノリスソフト〜R&Dの最前線と求める人材像を聞く - スペシャルコンテンツ",
           "imageUrl": "https://cgworld.jp/special-feature/assets_c/2025/04/monolithsoft_banner_v2-thumb-1000x563-68603.jpg"
-        },
-        {
-          "id": "https://cgworld.jp/flashnews/01-202505-Marvelous-Designer-2025.html",
-          "author": null,
-          "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
-          "link": "https://cgworld.jp/flashnews/01-202505-Marvelous-Designer-2025.html",
-          "publishedOn": "2025-05-18T10:02:11.000Z",
-          "wordCount": 785,
-          "title": "3D衣装作成ツール「Marvelous Designer 2025.0」リリース！　四角ポリゴンのメッシュ品質向上、IKジョイントマッピング、側面・背面UV拡張、キーフレームアニメーションなど - ニュース",
-          "imageUrl": "https://cgworld.jp/flashnews/assets_c/2025/05/MarvelousDesigner2025-01-thumb-1280x720-69406.jpg"
         }
       ]
     },
@@ -1769,6 +1774,16 @@
       "feedUrl": "https://3d.crdg.jp/tech/feed/",
       "siteUrl": "https://3d.crdg.jp/tech",
       "articles": [
+        {
+          "id": "https://3d.crdg.jp/tech/?p=5807",
+          "author": "tajima shota",
+          "description": "お久しぶりです！ COYOTE 3DCG STUDIO テクニカルアーティストチームの田島です。 【後編】である今回は前回作成したエクスポートデータを […]\n続きを読む\n投稿 【Havok Cloth】インポート編（UE） は TECH-COYOTE｜C&R Creative Studios に最初に表示されました。",
+          "link": "https://3d.crdg.jp/tech/archives/5807",
+          "publishedOn": "2025-06-16T15:00:08.000Z",
+          "wordCount": 3080,
+          "title": "【Havok Cloth】インポート編（UE）",
+          "imageUrl": "https://3d.crdg.jp/tech/wp-content/uploads/2025/06/サムネイル1-12.png"
+        },
         {
           "id": "https://3d.crdg.jp/tech/?p=5749",
           "author": "tajima shota",
@@ -3422,16 +3437,6 @@
           "wordCount": 2604,
           "title": "Houdini で Arnold が使えないときのメモ",
           "imageUrl": "https://assets.st-note.com/production/uploads/images/191970326/rectangle_large_type_2_613476f2e786d75343edcc9546ce0851.png?width=800"
-        },
-        {
-          "id": "https://note.com/aaa_5s/n/na75fd9909d5c",
-          "author": null,
-          "description": "HIPを公開したので、概説する。疑問点あればX@__aaa_5sか、Dicord aaa_5s@aaa_5sまで、お気軽にご連絡ください。中級者向けかも…といいつつ自分もそんなにずっとHoudini触っているわけではないので、変な処理とか改善できる処理があるかもしれません。\nプロジェクト全体で使っている道具を前提1-3で説明する。そのあと、各プロジェクトファイルごとの説明をする。\n続きをみる",
-          "link": "https://note.com/aaa_5s/n/na75fd9909d5c",
-          "publishedOn": "2025-05-18T06:57:56.000Z",
-          "wordCount": 3788,
-          "title": "The Taima Effect HIP概説",
-          "imageUrl": "https://assets.st-note.com/production/uploads/images/190225259/rectangle_large_type_2_6fc27b602382d5d869274d25ad206d96.png?width=800"
         }
       ]
     },

@@ -2,10 +2,80 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-06-18T08:15:47.549Z</updated>
+    <updated>2025-06-18T12:21:53.272Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[レベルデザインの教科書〈ゲーム制作のための建築的アプローチ〉 - 「An Architectural Approach to Level Design 2nd Edition」の日本語版が2025年6月21日に発売！！！]]></title>
+        <id>https://3dnchu.com/?p=1055512</id>
+        <link href="https://3dnchu.com/archives/aaa-level-design-book-2nd/"/>
+        <updated>2025-06-18T11:30:48.000Z</updated>
+        <summary type="html"><![CDATA[レベルデザインについて深いところまで解説した良書の改訂第2版「An Architectural Approach to Level Design 2nd Edition」を日本化した『レベルデザインの教科書〈ゲーム制作のための建築的アプローチ〉』が2025年6月21日にボーンデジタルから販売されます！]]></summary>
+        <author>
+            <name>Ymt3D -3dnchu-</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【Blender x Three.js】車の3DモデルViewer実装で試したこと]]></title>
+        <id>https://zenn.dev/fabrica/articles/a4177b5cf72658</id>
+        <link href="https://zenn.dev/fabrica/articles/a4177b5cf72658"/>
+        <updated>2025-06-18T10:05:40.000Z</updated>
+        <summary type="html"><![CDATA[Webで車の3Dモデルをプレビューするページを実装する中で試したことをまとめていきます。
+
+ 制作したもの
+まだ演出やその他機能は制作中ですが、制作しているページは下記になります。
+
+https://projects-car-show.vercel.app/?a4177b5cf72658
+【実装内容】
+
+Blenderで制作したモデルを Three.js で表示
+車・ワールドの色合いのカスタマイズ
+カメラワーク、モデルの反射設定、その他環境設定、などをUIで操作
+
+車以外のモデルは Blender で自作して、車のモデルはこちらからダウンロードして活用、それらを Three.js で読み...]]></summary>
+        <author>
+            <name>冨岡司</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【Three.js x ハイポリモデル】パフォーマンスで気をつけたこと]]></title>
+        <id>https://zenn.dev/fabrica/articles/91add47f1f72e0</id>
+        <link href="https://zenn.dev/fabrica/articles/91add47f1f72e0"/>
+        <updated>2025-06-18T10:05:30.000Z</updated>
+        <summary type="html"><![CDATA[Blender から書き出した3Dモデルを Three.js で実装する環境で、パフォーマンス面で気をつけたことをまとめていきます。
+主に、renderer.setPixelRatio と FPS のコントロールで、重い問題がかなり改善されました。調整無しの状態だと、デバイス本来のFPSから40%減（60FPS -> 36FPS）くらいだったのですが、調整することで、本来のFPSに近づくくらいには安定しました。
+制作ページのまとめは下記の記事に記載しています。
+https://zenn.dev/fabrica/articles/a4177b5cf72658
+
+ 制作ページ
+
+htt...]]></summary>
+        <author>
+            <name>冨岡司</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【発表まとめ】Adobe、FireflyやPhotoshopなどクリエイティブクラウドアプリの2025年6月アップデートをリリース！]]></title>
+        <id>https://cginterest.com/?p=46967</id>
+        <link href="https://cginterest.com/2025/06/18/%e3%80%90%e7%99%ba%e8%a1%a8%e3%81%be%e3%81%a8%e3%82%81%e3%80%91adobe%e3%80%81firefly%e3%82%84photoshop%e3%81%aa%e3%81%a9%e3%82%af%e3%83%aa%e3%82%a8%e3%82%a4%e3%83%86%e3%82%a3%e3%83%96%e3%82%af/"/>
+        <updated>2025-06-18T08:29:00.000Z</updated>
+        <summary type="html"><![CDATA[2025年6月18日 – アドビは、同社の生成AI「Adobe Firefly」のモバイルアプリ版の提供開始と、Adobe Creative Cloudの主要製品における6月のアップデートを発表しました。 Adobe F […]
+【発表まとめ】Adobe、FireflyやPhotoshopなどクリエイティブクラウドアプリの2025年6月アップデートをリリース！ first appeared on CGinterest.]]></summary>
+        <author>
+            <name>.me</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【来日講演決定】Pixarのアニメーターを育てるレジェンドアニメーターによる『ANIMATION MASTER CLASS』が7月10(木)-13日(日)開催。 - 特集]]></title>
+        <id>https://cgworld.jp/article/pixaranimation-master-class710-13.html</id>
+        <link href="https://cgworld.jp/article/pixaranimation-master-class710-13.html"/>
+        <updated>2025-06-18T07:30:38.000Z</updated>
+        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Illustrator デスクトップ版 2025年6月アップデートがリリース！ベクターグラフィックをシームレスに拡張できる「生成拡張」が追加]]></title>
         <id>https://cginterest.com/?p=46950</id>
@@ -3629,16 +3699,6 @@ The post 【インタビュー】制作活動の軌跡：3Dアーティスト Mo
         <id>https://cgworld.jp/flashnews/01-202505-DreamMachine-Reframe.html</id>
         <link href="https://cgworld.jp/flashnews/01-202505-DreamMachine-Reframe.html"/>
         <updated>2025-05-20T00:39:43.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「Meta 3D AssetGen 2.0」発表！　Metaの3Dアセット生成AI基盤モデルがアップデート、2025年後半よりHorizonクリエイターに提供予定 - ニュース]]></title>
-        <id>https://cgworld.jp/flashnews/01-202505-Meta-3D-AssetGen-20.html</id>
-        <link href="https://cgworld.jp/flashnews/01-202505-Meta-3D-AssetGen-20.html"/>
-        <updated>2025-05-20T00:17:27.000Z</updated>
         <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
         <author>
             <name>CGWORLD</name>

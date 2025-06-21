@@ -12,6 +12,21 @@
       "siteUrl": "https://cgbox.jp",
       "articles": [
         {
+          "id": "https://cgbox.jp/?p=63460",
+          "author": "kasahara",
+          "description": "こんばんは！ 今回はアドオンの「memsaver」を紹介します。 こちらのリンクがアドオンの商品ページになります。 memsaver 「memsaver」は、見た目のクオリティを保ちつつ、シーンのVRAM消費を最小限に抑 […]",
+          "link": "https://cgbox.jp/2025/06/21/news-addon-memsaver/",
+          "publishedOn": "2025-06-21T03:54:31.000Z",
+          "wordCount": 2313,
+          "title": "【アドオン紹介】memsaver – レンダリング時のテクスチャサイズを自動調整！",
+          "enclosure": {
+            "url": "https://cgbox.jp/wp-content/uploads/2025/06/ezgif-48db3d5ee8c1d8_2-3.mp4",
+            "length": "0",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://cgbox.jp/wp-content/uploads/2025/06/image_processing20250619-2-pravn2.jpg"
+        },
+        {
           "id": "https://cgbox.jp/?p=63454",
           "author": "kasahara",
           "description": "こんばんは！ 今回はアドオンの「Easy Comp Fx」を紹介します。 こちらのリンクがアドオンの商品ページになります。 Easy Comp Fx 「Easy Comp Fx」は、ワンクリックで映画のようなポストエフェ […]",
@@ -2846,6 +2861,21 @@
       "siteUrl": "https://zenn.dev/topics/graphics",
       "articles": [
         {
+          "id": "https://zenn.dev/yushimatenjin/articles/playcanvas-sogs",
+          "author": "はが",
+          "description": "はじめに\n3D Gaussian Splatting（3DGS）は写実的な3Dシーンを生成できる優れた技術ですが、ファイルサイズが非常に大きいという課題があります。数百MB～数GBのファイルサイズになることが多く、Web配信には実用的ではありません。\nこの問題を解決する技術として、PlayCanvasが発表した「SOGS（Self-Organizing Gaussians）」があります。この技術により20倍以上の圧縮が可能とされています。\n今回は実際にSOGSを使用して、その効果を検証してみました。\n\n SOGSについて\nSOGSは、ドイツのFraunhofer HHIとPlayCa...",
+          "link": "https://zenn.dev/yushimatenjin/articles/playcanvas-sogs",
+          "publishedOn": "2025-06-21T06:26:48.000Z",
+          "wordCount": null,
+          "title": "PlayCanvas新技術「SOGS」で3DGSが20倍軽量化！実際に試してみた結果",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--jvKwYh-E--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:PlayCanvas%25E6%2596%25B0%25E6%258A%2580%25E8%25A1%2593%25E3%2580%258CSOGS%25E3%2580%258D%25E3%2581%25A73DGS%25E3%2581%258C20%25E5%2580%258D%25E8%25BB%25BD%25E9%2587%258F%25E5%258C%2596%25EF%25BC%2581%25E5%25AE%259F%25E9%259A%259B%25E3%2581%25AB%25E8%25A9%25A6%25E3%2581%2597%25E3%2581%25A6%25E3%2581%25BF%25E3%2581%259F%25E7%25B5%2590%25E6%259E%259C%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%25AF%25E3%2581%258C%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2ZiOGEyMzdkZTAuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png",
+            "length": "0",
+            "type": "image/png"
+          },
+          "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--jvKwYh-E--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:PlayCanvas%25E6%2596%25B0%25E6%258A%2580%25E8%25A1%2593%25E3%2580%258CSOGS%25E3%2580%258D%25E3%2581%25A73DGS%25E3%2581%258C20%25E5%2580%258D%25E8%25BB%25BD%25E9%2587%258F%25E5%258C%2596%25EF%25BC%2581%25E5%25AE%259F%25E9%259A%259B%25E3%2581%25AB%25E8%25A9%25A6%25E3%2581%2597%25E3%2581%25A6%25E3%2581%25BF%25E3%2581%259F%25E7%25B5%2590%25E6%259E%259C%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%25AF%25E3%2581%258C%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2ZiOGEyMzdkZTAuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
+        },
+        {
           "id": "https://zenn.dev/r_ngtm/articles/unity-srpbatch-globalparameter-bug",
           "author": "かもそば",
           "description": "はじめに\nSRP Batcherを利用している場合、\nCBUFFER_START(UnityPerMaterial)  ~ CBUFFER_END で囲った変数は、\nマテリアル固有のパラメータとして扱われます。\nCBUFFERの外にあるパラメータはグローバルなものとして扱われます。\nhalf4 _Color; // グローバルなパラメータ\nCBUFFER_START(UnityPerMaterial)  \nfloat4 _MainTex_ST; // マテリアル固有のパラメータ\nCBUFFER_END\nこの時、マテリアルに対して上記のグローバルパラメータをセットすると、\n他のマテリア...",
@@ -3693,6 +3723,31 @@
       "feedUrl": "https://cginterest.com/feed/",
       "siteUrl": "https://cginterest.com",
       "articles": [
+        {
+          "id": "https://cginterest.com/?p=47092",
+          "author": ".me",
+          "description": "Blenderユーザーにとって重要なVRAM（ビデオメモリ）の使用量を最適化するための人気アドオン「memsaver」が、新機能の追加と大幅な改善を含むメジャーアップデート「バージョン1.3」をリリースしました。 新機能 […]\nBlender用のVRAM最適化アドオン「memsaver」バージョン1.3がリリース！プレビュー機能、メモリ使用量推定機能の改良など first appeared on CGinterest.",
+          "link": "https://cginterest.com/2025/06/21/blender%e7%94%a8%e3%81%aevram%e6%9c%80%e9%81%a9%e5%8c%96%e3%82%a2%e3%83%89%e3%82%aa%e3%83%b3%e3%80%8cmemsaver%e3%80%8d%e3%83%90%e3%83%bc%e3%82%b8%e3%83%a7%e3%83%b31-3%e3%81%8c%e3%83%aa%e3%83%aa/",
+          "publishedOn": "2025-06-21T08:08:00.000Z",
+          "wordCount": 1482,
+          "title": "Blender用のVRAM最適化アドオン「memsaver」バージョン1.3がリリース！プレビュー機能、メモリ使用量推定機能の改良など",
+          "enclosure": {
+            "url": "https://cginterest.com/wp-content/uploads/2023/05/Ezgif-6Db08f72158eb51.mp4",
+            "length": "117976",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://cginterest.com/wp-content/uploads/2025/06/20250620_memsaver_13.webp"
+        },
+        {
+          "id": "https://cginterest.com/?p=47109",
+          "author": ".me",
+          "description": "動画クリエイター向けツールで知られる MotionVFX で開催されているセールの開催情報です。 30%OFFクーポンの配布に加えてFinal Cut Pro 向けのサブスクリプション購入者向けキャッシュバックキャンペー […]\n映像クリエイター向けのプラグイン＆エレメントを提供する Motion VFX で30% OFF セール＆キャッシュバックキャンペーンが開催！ first appeared on CGinterest.",
+          "link": "https://cginterest.com/2025/06/21/%e6%98%a0%e5%83%8f%e3%82%af%e3%83%aa%e3%82%a8%e3%82%a4%e3%82%bf%e3%83%bc%e5%90%91%e3%81%91%e3%81%ae%e3%83%97%e3%83%a9%e3%82%b0%e3%82%a4%e3%83%b3%ef%bc%86%e3%82%a8%e3%83%ac%e3%83%a1%e3%83%b3%e3%83%88/",
+          "publishedOn": "2025-06-21T07:16:00.000Z",
+          "wordCount": 1808,
+          "title": "映像クリエイター向けのプラグイン＆エレメントを提供する Motion VFX で30% OFF セール＆キャッシュバックキャンペーンが開催！",
+          "imageUrl": "https://cginterest.com/wp-content/uploads/2025/06/20250620_motionvfx-sale.webp"
+        },
         {
           "id": "https://cginterest.com/?p=47098",
           "author": ".me",

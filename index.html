@@ -361,11 +361,56 @@ footer {
             data-action="toggle-accordions"
             title="Click to toggle the day, Ctrl + click to toggle all."
           >
-            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2025-06-23 datetime="2025-06-23T03:03:59.000Z">2025-06-23</time>
-            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2025-06-23 datetime="2025-06-23T03:03:59.000Z"></time>
+            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2025-06-23 datetime="2025-06-23T05:51:20.000Z">2025-06-23</time>
+            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2025-06-23 datetime="2025-06-23T05:51:20.000Z"></time>
           </button>
         </h2>
         <ul class="sources card">
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >Zennの「shader」のフィード</button>
+                  <a class="source-heading__link" href="https://zenn.dev/topics/shader">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://zenn.dev/ebimonaca/articles/508462b7fb9594"
+                        open
+                      >
+                        <summary class="article-expander__title">10万オブジェクトを低レイヤーの力で描画する</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://zenn.dev/ebimonaca/articles/508462b7fb9594">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://res.cloudinary.com/zenn/image/upload/s--ItrVcWnw--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:10%25E4%25B8%2587%25E3%2582%25AA%25E3%2583%2596%25E3%2582%25B8%25E3%2582%25A7%25E3%2582%25AF%25E3%2583%2588%25E3%2582%2592%25E4%25BD%258E%25E3%2583%25AC%25E3%2582%25A4%25E3%2583%25A4%25E3%2583%25BC%25E3%2581%25AE%25E5%258A%259B%25E3%2581%25A7%25E6%258F%258F%25E7%2594%25BB%25E3%2581%2599%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:ebimonaca%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzNkNWRlMjE3MzEuanBlZw&#x3D;&#x3D;%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>問題のコード
+using System.Collections.Generic;
+using UnityEngine;
+
+public class Performance : MonoBehaviour
+{
+    public float speed &#x3D; 0.1f;
+    public GameObject target;
+    List gameobjects &#x3D; new List();
+    void Start()
+    {
+        for (int i &#x3D; 0; i &lt; 10000...</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;10
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
             <li class="card__section">
               <section class="js-toggle-accordions-scope">
                 <h3 class="source-heading">
@@ -10282,8 +10327,8 @@ The post Arbitrary Align 選択した面やエッジ部分にもModoと同じよ
       </section>
 
     <footer>
-      <a class="footer-link" href="https://github.com/matsuda-titan/art_antenna/actions/runs/15818943252">
-        <time id="build-timestamp" datetime="2025-06-23T08:16:49.256Z">2025-06-23T08:16:49.256Z</time>
+      <a class="footer-link" href="https://github.com/matsuda-titan/art_antenna/actions/runs/15824085505">
+        <time id="build-timestamp" datetime="2025-06-23T12:22:26.117Z">2025-06-23T12:22:26.117Z</time>
       </a>
       <a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.15.1</a>
     </footer>

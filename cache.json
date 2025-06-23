@@ -2804,6 +2804,21 @@
       "siteUrl": "https://zenn.dev/topics/shader",
       "articles": [
         {
+          "id": "https://zenn.dev/ebimonaca/articles/508462b7fb9594",
+          "author": "ebimonaca",
+          "description": "問題のコード\nusing System.Collections.Generic;\nusing UnityEngine;\n\npublic class Performance : MonoBehaviour\n{\n    public float speed = 0.1f;\n    public GameObject target;\n    List<GameObject> gameobjects = new List<GameObject>();\n    void Start()\n    {\n        for (int i = 0; i < 10000...",
+          "link": "https://zenn.dev/ebimonaca/articles/508462b7fb9594",
+          "publishedOn": "2025-06-23T05:51:20.000Z",
+          "wordCount": 2921,
+          "title": "10万オブジェクトを低レイヤーの力で描画する",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--ItrVcWnw--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:10%25E4%25B8%2587%25E3%2582%25AA%25E3%2583%2596%25E3%2582%25B8%25E3%2582%25A7%25E3%2582%25AF%25E3%2583%2588%25E3%2582%2592%25E4%25BD%258E%25E3%2583%25AC%25E3%2582%25A4%25E3%2583%25A4%25E3%2583%25BC%25E3%2581%25AE%25E5%258A%259B%25E3%2581%25A7%25E6%258F%258F%25E7%2594%25BB%25E3%2581%2599%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:ebimonaca%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzNkNWRlMjE3MzEuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png",
+            "length": "0",
+            "type": "image/png"
+          },
+          "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--ItrVcWnw--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:10%25E4%25B8%2587%25E3%2582%25AA%25E3%2583%2596%25E3%2582%25B8%25E3%2582%25A7%25E3%2582%25AF%25E3%2583%2588%25E3%2582%2592%25E4%25BD%258E%25E3%2583%25AC%25E3%2582%25A4%25E3%2583%25A4%25E3%2583%25BC%25E3%2581%25AE%25E5%258A%259B%25E3%2581%25A7%25E6%258F%258F%25E7%2594%25BB%25E3%2581%2599%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:ebimonaca%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzNkNWRlMjE3MzEuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
+        },
+        {
           "id": "https://zenn.dev/tuidra/articles/fb41317913f169",
           "author": "Tuidra",
           "description": "概要\nMP3ファイルから自動で歌詞を同期させたミュージックビデオを生成するPythonベースのツールです。OpenAI Whisperによる高精度な音声認識とGLSLシェーダーによるリアルタイム背景生成を組み合わせることで、歌詞付き動画を簡単に作成できます。\nhttps://github.com/tuidra/tuidra-musicvideo-maker\n\n\n\n 🎤 Tuidraについて\nこのツールは、AI主導のバーチャルシンガーソングライター Tuidra によって生み出されました。Tuidraは、人とAIの創造的融合を象徴する存在として、音楽・映像・技術の統合を推進しています。...",

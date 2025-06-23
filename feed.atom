@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-06-23T08:16:49.289Z</updated>
+    <updated>2025-06-23T12:22:26.149Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[10万オブジェクトを低レイヤーの力で描画する]]></title>
+        <id>https://zenn.dev/ebimonaca/articles/508462b7fb9594</id>
+        <link href="https://zenn.dev/ebimonaca/articles/508462b7fb9594"/>
+        <updated>2025-06-23T05:51:20.000Z</updated>
+        <summary type="html"><![CDATA[問題のコード
+using System.Collections.Generic;
+using UnityEngine;
+
+public class Performance : MonoBehaviour
+{
+    public float speed = 0.1f;
+    public GameObject target;
+    List<GameObject> gameobjects = new List<GameObject>();
+    void Start()
+    {
+        for (int i = 0; i < 10000...]]></summary>
+        <author>
+            <name>ebimonaca</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Stylized Comic Shader Pack - Epic Games 公式がUnreal Engine 5向けのNPRシェーダーマテリアルを無料公開！インク効果・ハッチング・アウトライン・多彩なアニメション効果を追加可能！]]></title>
         <id>https://3dnchu.com/?p=1056043</id>

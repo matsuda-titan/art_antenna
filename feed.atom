@@ -2,10 +2,101 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-06-22T12:18:48.671Z</updated>
+    <updated>2025-06-23T00:58:40.206Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【アドオン紹介】Adaptive Subdivision – カメラの距離に応じて細分化！]]></title>
+        <id>https://cgbox.jp/?p=63474</id>
+        <link href="https://cgbox.jp/2025/06/23/news-addon-adaptive-subdivision-2/"/>
+        <updated>2025-06-23T00:46:06.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは！ 今回はアドオンの「Adaptive Subdivision」を紹介します。 こちらのリンクがアドオンの商品ページになります。 Adaptive Subdivision 「Adaptive Subdivisi […]]]></summary>
+        <author>
+            <name>kasahara</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[polydex ハードドライブにはいってるあらゆるテクスチャ、マテリアル、3Dモデル、HDRIをプレビュー表示して検索、使用が簡単になるソフトのベータ版が無料公開]]></title>
+        <id>https://modelinghappy.com/?p=63462</id>
+        <link href="https://modelinghappy.com/archives/63462"/>
+        <updated>2025-06-23T00:26:47.000Z</updated>
+        <summary type="html"><![CDATA[polydex 高品質なテクスチャやモデル等を販売しているPOLIGONから、3Dモデル、テクスチャ、HDRIを自動的に表示、関連するアセットファイルは自動的にグループ化表示、PBRテクスチャはプレビューでマテリアル表示
+The post polydex ハードドライブにはいってるあらゆるテクスチャ、マテリアル、3Dモデル、HDRIをプレビュー表示して検索、使用が簡単になるソフトのベータ版が無料公開 first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
+        <author>
+            <name>modelinghappy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[コロプラ✕金子一馬新作『神魔狩りのツクヨミ』インタビュー。生成AIを採り入れたゲーム開発のねらいを聞く - 特集]]></title>
+        <id>https://cgworld.jp/article/202506-tsukuyomi.html</id>
+        <link href="https://cgworld.jp/article/202506-tsukuyomi.html"/>
+        <updated>2025-06-23T00:12:00.000Z</updated>
+        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[マルウェアに感染したBlenderファイルに注意！　椅子のモデルファイルにPythonスクリプトが埋め込まれ、設定次第で自動実行される危険性あり - ニュース]]></title>
+        <id>https://cgworld.jp/flashnews/01-202506-Blender-Malware.html</id>
+        <link href="https://cgworld.jp/flashnews/01-202506-Blender-Malware.html"/>
+        <updated>2025-06-22T21:19:03.000Z</updated>
+        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Blender用都市作成アドオンIcityが1.5にアップデート！実際の地図データ上に高速道路と通常道路を繋げて短時間で広い都市の一部を作成出来る機能等追加]]></title>
+        <id>https://modelinghappy.com/?p=63457</id>
+        <link href="https://modelinghappy.com/archives/63457"/>
+        <updated>2025-06-22T13:58:09.000Z</updated>
+        <summary type="html"><![CDATA[Icity | City Generator Addon blenderで大規模な街並みを作成出来るアドオンiCityが1.5にアップデートされ、リアルワールド対応の地図データ、自動的にT路地や十字路なに標識など作成され
+The post Blender用都市作成アドオンIcityが1.5にアップデート！実際の地図データ上に高速道路と通常道路を繋げて短時間で広い都市の一部を作成出来る機能等追加 first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
+        <author>
+            <name>modelinghappy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unreal Engine 5のマテリアルにおけるLWC対応をHLSLから確認]]></title>
+        <id>https://qiita.com/yorung/items/49b1ecf7d4a70fb2ae1f</id>
+        <link href="https://qiita.com/yorung/items/49b1ecf7d4a70fb2ae1f"/>
+        <updated>2025-06-22T13:32:54.000Z</updated>
+        <summary type="html"><![CDATA[概要
+UE5のマテリアルではUE4の感覚でワールド座標値を使うとLWC(Large World Coordinate)が使われ、パフォーマンスの低下を起こす事があります。これは、LWCが必要となるオ…]]></summary>
+        <author>
+            <name>Shaderタグが付けられた新着記事 - Qiita</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unreal Engine 5のマテリアルにおけるLWC対応をHLSLから確認]]></title>
+        <id>https://qiita.com/yorung/items/49b1ecf7d4a70fb2ae1f</id>
+        <link href="https://qiita.com/yorung/items/49b1ecf7d4a70fb2ae1f"/>
+        <updated>2025-06-22T13:32:54.000Z</updated>
+        <summary type="html"><![CDATA[概要
+UE5のマテリアルではUE4の感覚でワールド座標値を使うとLWC(Large World Coordinate)が使われ、パフォーマンスの低下を起こす事があります。これは、LWCが必要となるオ…]]></summary>
+        <author>
+            <name>HLSLタグが付けられた新着記事 - Qiita</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[音声認識とシェーダーで作る自動歌詞同期ミュージックビデオメーカー]]></title>
+        <id>https://zenn.dev/tuidra/articles/fb41317913f169</id>
+        <link href="https://zenn.dev/tuidra/articles/fb41317913f169"/>
+        <updated>2025-06-22T09:39:00.000Z</updated>
+        <summary type="html"><![CDATA[概要
+MP3ファイルから自動で歌詞を同期させたミュージックビデオを生成するPythonベースのツールです。OpenAI Whisperによる高精度な音声認識とGLSLシェーダーによるリアルタイム背景生成を組み合わせることで、歌詞付き動画を簡単に作成できます。
+https://github.com/tuidra/tuidra-musicvideo-maker
+
+
+
+ 🎤 Tuidraについて
+このツールは、AI主導のバーチャルシンガーソングライター Tuidra によって生み出されました。Tuidraは、人とAIの創造的融合を象徴する存在として、音楽・映像・技術の統合を推進しています。...]]></summary>
+        <author>
+            <name>Tuidra</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Cutz Tools Blnederで溝を作成したり消したり幅を調整したりいつでも変更可能なアドオンがバージョン1.2にアップデート！]]></title>
         <id>https://modelinghappy.com/?p=63449</id>
@@ -3598,88 +3689,6 @@ The post Arbitrary Align 選択した面やエッジ部分にもModoと同じよ
         <summary type="html"><![CDATA[Epic Gamesから提供されている無料ツール「MetaHuman Creator」を使うことで、Unreal Engine 5（以下、UE5）上で操作できるリアルな人物モデルを制作することができます。 この記事では、 […]]]></summary>
         <author>
             <name>CGbox編集部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「濡れた石 × にじみ × 反射」Substanceマテリアル実験記録｜実践チュートリアル]]></title>
-        <id>https://note.com/juntominaga/n/nc7407e53035e</id>
-        <link href="https://note.com/juntominaga/n/nc7407e53035e"/>
-        <updated>2025-05-24T06:42:21.000Z</updated>
-        <summary type="html"><![CDATA[🟦 冒頭文（導入）
-
-雨上がりのように、しっとりと濡れた石。
-今回は、Substance 3D Painterで「にじみ × 反射 × 凹凸」を組み合わせたマテリアル表現を実験しました。
-AR空間でも映える“リアルな湿り感”をどう表現するか、その構成と工夫を丁寧にまとめています。
-続きをみる]]></summary>
-        <author>
-            <name>#substancepainterタグ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Unityで炎をShaderのHLSL言語での作成方法をChatGTPに聞いてみた<その1>]]></title>
-        <id>https://zenn.dev/tkagawa/articles/ab1975c2cbac23</id>
-        <link href="https://zenn.dev/tkagawa/articles/ab1975c2cbac23"/>
-        <updated>2025-05-24T05:58:15.000Z</updated>
-        <summary type="html"><![CDATA[Unityで炎をShaderのHLSL言語での作成方法をChatGTPに聞いてみました。
-"あなたは、優秀なUnityエンジニアです。
-炎のエフェクトを、Shaderだけで、作っていただきたいです。
-作り方をご教授お願いしたいのと、どのように炎がみえるか、画像を提供してください"
-以下が、ChatGTPの回答です。
-
-承知しました！ここではUnityのURP（Universal Render Pipeline）環境で、Shader（HLSL）だけで炎のエフェクトを作る方法をご紹介します。以下の要素を組み合わせることで、リアルタイムで揺らぐ炎のようなビジュアルを表現できます。
-🔥 炎のSh...]]></summary>
-        <author>
-            <name>TKAGAWA</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DCCツールのスクリプト・プラグイン開発で愛用しているPythonライブラリ]]></title>
-        <id>https://qiita.com/scixarts/items/033c0e948be2666fe498</id>
-        <link href="https://qiita.com/scixarts/items/033c0e948be2666fe498"/>
-        <updated>2025-05-24T03:28:31.000Z</updated>
-        <summary type="html"><![CDATA[Pythonライブラリ一覧
-2025年5月現在、DCCツールのスクリプト・プラグイン開発において個人的に愛用しているPythonライブラリ一覧を紹介します。
-パッケージ・プロジェクト管理ツール
-uv
-
-https://docs.astral.sh/uv/guides/install-python…]]></summary>
-        <author>
-            <name>mayaタグが付けられた新着記事 - Qiita</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DCCツールのスクリプト・プラグイン開発で愛用しているPythonライブラリ]]></title>
-        <id>https://qiita.com/scixarts/items/033c0e948be2666fe498</id>
-        <link href="https://qiita.com/scixarts/items/033c0e948be2666fe498"/>
-        <updated>2025-05-24T03:28:31.000Z</updated>
-        <summary type="html"><![CDATA[Pythonライブラリ一覧
-2025年5月現在、DCCツールのスクリプト・プラグイン開発において個人的に愛用しているPythonライブラリ一覧を紹介します。
-パッケージ・プロジェクト管理ツール
-uv
-
-https://docs.astral.sh/uv/guides/install-python…]]></summary>
-        <author>
-            <name>SubstancePainterタグが付けられた新着記事 - Qiita</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3Dconnexion SpaceMouse Review - 作業効率を次の次元へ！直感的にカメラやオブジェクトを動かす！3Dマウス（6DoF入力）3機種の比較レビュー！]]></title>
-        <id>https://3dnchu.com/?p=1053098</id>
-        <link href="https://3dnchu.com/archives/3dconnexion-spacemouse-review/"/>
-        <updated>2025-05-24T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[3DconnexionのSpaceMouseシリーズは、独自の3Dマウス（6Dof入力）を備えた、3DモデリングやCAD作業における視点操作を直感的かつ効率的に行うためのデバイスです。今回主な3モデルである「SpaceMouse Wireless」「SpaceMouse Pro Wireless」「SpaceMouse Enterprise」をご提供いただきましたので、特徴や使用感を比較レビューします！]]></summary>
-        <author>
-            <name>Ymt3D -3dnchu-</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HERITAGE | A Blender Animated Short - Josué Zabeau氏によるBlenderを使用した自動車ショートアニメーション！]]></title>
-        <id>https://3dnchu.com/?p=1055095</id>
-        <link href="https://3dnchu.com/archives/heritage-a-blender-animated-short/"/>
-        <updated>2025-05-24T01:05:31.000Z</updated>
-        <summary type="html"><![CDATA[3DアーティストのJosué Zabeau氏によるBlenderを使用した自動車ショートアニメーション作品「HERITAGE」がYoutube上で公開されています！]]></summary>
-        <author>
-            <name>Ymt3D -3dnchu-</name>
         </author>
     </entry>
 </feed>

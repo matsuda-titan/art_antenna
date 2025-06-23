@@ -12,6 +12,21 @@
       "siteUrl": "https://cgbox.jp",
       "articles": [
         {
+          "id": "https://cgbox.jp/?p=63474",
+          "author": "kasahara",
+          "description": "こんばんは！ 今回はアドオンの「Adaptive Subdivision」を紹介します。 こちらのリンクがアドオンの商品ページになります。 Adaptive Subdivision 「Adaptive Subdivisi […]",
+          "link": "https://cgbox.jp/2025/06/23/news-addon-adaptive-subdivision-2/",
+          "publishedOn": "2025-06-23T00:46:06.000Z",
+          "wordCount": 2288,
+          "title": "【アドオン紹介】Adaptive Subdivision – カメラの距離に応じて細分化！",
+          "enclosure": {
+            "url": "https://cgbox.jp/wp-content/uploads/2025/06/ezgif-48db3d5ee8c1d8_4-3.mp4",
+            "length": "0",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://cgbox.jp/wp-content/uploads/2025/06/image_processing20250616-2-ulixxv.jpg"
+        },
+        {
           "id": "https://cgbox.jp/?p=63465",
           "author": "kasahara",
           "description": "こんばんは！ 今回はアドオンの「Grid Dimensions」を紹介します。 こちらのリンクがアドオンの商品ページになります。 Grid Dimensions 「Grid Dimensions」は、Blenderのビュ […]",
@@ -994,36 +1009,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "https://3dnchu.com/wp-content/uploads/Physics-Platformer-Toolkit.webp"
-        },
-        {
-          "id": "https://3dnchu.com/?p=1053098",
-          "author": "Ymt3D -3dnchu-",
-          "description": "3DconnexionのSpaceMouseシリーズは、独自の3Dマウス（6Dof入力）を備えた、3DモデリングやCAD作業における視点操作を直感的かつ効率的に行うためのデバイスです。今回主な3モデルである「SpaceMouse Wireless」「SpaceMouse Pro Wireless」「SpaceMouse Enterprise」をご提供いただきましたので、特徴や使用感を比較レビューします！",
-          "link": "https://3dnchu.com/archives/3dconnexion-spacemouse-review/",
-          "publishedOn": "2025-05-24T03:00:00.000Z",
-          "wordCount": 9702,
-          "title": "3Dconnexion SpaceMouse Review - 作業効率を次の次元へ！直感的にカメラやオブジェクトを動かす！3Dマウス（6DoF入力）3機種の比較レビュー！",
-          "enclosure": {
-            "url": "https://3dnchu.com/wp-content/uploads/3dconnexion-spacemouse-review.webp",
-            "length": "1423730",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://3dnchu.com/wp-content/uploads/3dconnexion-spacemouse-review.webp"
-        },
-        {
-          "id": "https://3dnchu.com/?p=1055095",
-          "author": "Ymt3D -3dnchu-",
-          "description": "3DアーティストのJosué Zabeau氏によるBlenderを使用した自動車ショートアニメーション作品「HERITAGE」がYoutube上で公開されています！",
-          "link": "https://3dnchu.com/archives/heritage-a-blender-animated-short/",
-          "publishedOn": "2025-05-24T01:05:31.000Z",
-          "wordCount": 8604,
-          "title": "HERITAGE | A Blender Animated Short - Josué Zabeau氏によるBlenderを使用した自動車ショートアニメーション！",
-          "enclosure": {
-            "url": "https://3dnchu.com/wp-content/uploads/HERITAGE-Blender-Short.webp",
-            "length": "1384670",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://3dnchu.com/wp-content/uploads/HERITAGE-Blender-Short.webp"
         }
       ]
     },
@@ -1032,6 +1017,26 @@
       "feedUrl": "https://cgworld.jp/atom.xml",
       "siteUrl": "https://cgworld.jp/",
       "articles": [
+        {
+          "id": "https://cgworld.jp/article/202506-tsukuyomi.html",
+          "author": null,
+          "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
+          "link": "https://cgworld.jp/article/202506-tsukuyomi.html",
+          "publishedOn": "2025-06-23T00:12:00.000Z",
+          "wordCount": 746,
+          "title": "コロプラ✕金子一馬新作『神魔狩りのツクヨミ』インタビュー。生成AIを採り入れたゲーム開発のねらいを聞く - 特集",
+          "imageUrl": "https://cgworld.jp/article/assets_c/2025/06/98c9b9a263fc81827ee10a7860da6c9a7844aab5-thumb-1000x489-70022.jpg"
+        },
+        {
+          "id": "https://cgworld.jp/flashnews/01-202506-Blender-Malware.html",
+          "author": null,
+          "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
+          "link": "https://cgworld.jp/flashnews/01-202506-Blender-Malware.html",
+          "publishedOn": "2025-06-22T21:19:03.000Z",
+          "wordCount": 817,
+          "title": "マルウェアに感染したBlenderファイルに注意！　椅子のモデルファイルにPythonスクリプトが埋め込まれ、設定次第で自動実行される危険性あり - ニュース",
+          "imageUrl": "https://cgworld.jp/flashnews/assets_c/2025/06/Blender_Malware-01-thumb-1080x608-70607.jpg"
+        },
         {
           "id": "https://cgworld.jp/flashnews/inei-aa-book.html",
           "author": null,
@@ -1874,6 +1879,26 @@
       "feedUrl": "https://modelinghappy.com/feed",
       "siteUrl": "https://modelinghappy.com",
       "articles": [
+        {
+          "id": "https://modelinghappy.com/?p=63462",
+          "author": "modelinghappy",
+          "description": "polydex 高品質なテクスチャやモデル等を販売しているPOLIGONから、3Dモデル、テクスチャ、HDRIを自動的に表示、関連するアセットファイルは自動的にグループ化表示、PBRテクスチャはプレビューでマテリアル表示\nThe post polydex ハードドライブにはいってるあらゆるテクスチャ、マテリアル、3Dモデル、HDRIをプレビュー表示して検索、使用が簡単になるソフトのベータ版が無料公開 first appeared on 3DCG最新情報サイト MODELING HAPPY.",
+          "link": "https://modelinghappy.com/archives/63462",
+          "publishedOn": "2025-06-23T00:26:47.000Z",
+          "wordCount": 3441,
+          "title": "polydex ハードドライブにはいってるあらゆるテクスチャ、マテリアル、3Dモデル、HDRIをプレビュー表示して検索、使用が簡単になるソフトのベータ版が無料公開",
+          "imageUrl": "https://modelinghappy.com/wp-content/uploads/2025/06/20250623_polydex_00.jpg"
+        },
+        {
+          "id": "https://modelinghappy.com/?p=63457",
+          "author": "modelinghappy",
+          "description": "Icity | City Generator Addon blenderで大規模な街並みを作成出来るアドオンiCityが1.5にアップデートされ、リアルワールド対応の地図データ、自動的にT路地や十字路なに標識など作成され\nThe post Blender用都市作成アドオンIcityが1.5にアップデート！実際の地図データ上に高速道路と通常道路を繋げて短時間で広い都市の一部を作成出来る機能等追加 first appeared on 3DCG最新情報サイト MODELING HAPPY.",
+          "link": "https://modelinghappy.com/archives/63457",
+          "publishedOn": "2025-06-22T13:58:09.000Z",
+          "wordCount": 3459,
+          "title": "Blender用都市作成アドオンIcityが1.5にアップデート！実際の地図データ上に高速道路と通常道路を繋げて短時間で広い都市の一部を作成出来る機能等追加",
+          "imageUrl": "https://modelinghappy.com/wp-content/uploads/2025/06/20250622_icity_01.jpg"
+        },
         {
           "id": "https://modelinghappy.com/?p=63449",
           "author": "modelinghappy",
@@ -2739,6 +2764,21 @@
       "siteUrl": "https://zenn.dev/topics/shader",
       "articles": [
         {
+          "id": "https://zenn.dev/tuidra/articles/fb41317913f169",
+          "author": "Tuidra",
+          "description": "概要\nMP3ファイルから自動で歌詞を同期させたミュージックビデオを生成するPythonベースのツールです。OpenAI Whisperによる高精度な音声認識とGLSLシェーダーによるリアルタイム背景生成を組み合わせることで、歌詞付き動画を簡単に作成できます。\nhttps://github.com/tuidra/tuidra-musicvideo-maker\n\n\n\n 🎤 Tuidraについて\nこのツールは、AI主導のバーチャルシンガーソングライター Tuidra によって生み出されました。Tuidraは、人とAIの創造的融合を象徴する存在として、音楽・映像・技術の統合を推進しています。...",
+          "link": "https://zenn.dev/tuidra/articles/fb41317913f169",
+          "publishedOn": "2025-06-22T09:39:00.000Z",
+          "wordCount": 683,
+          "title": "音声認識とシェーダーで作る自動歌詞同期ミュージックビデオメーカー",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--c0lMAr5v--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E9%259F%25B3%25E5%25A3%25B0%25E8%25AA%258D%25E8%25AD%2598%25E3%2581%25A8%25E3%2582%25B7%25E3%2582%25A7%25E3%2583%25BC%25E3%2583%2580%25E3%2583%25BC%25E3%2581%25A7%25E4%25BD%259C%25E3%2582%258B%25E8%2587%25AA%25E5%258B%2595%25E6%25AD%258C%25E8%25A9%259E%25E5%2590%258C%25E6%259C%259F%25E3%2583%259F%25E3%2583%25A5%25E3%2583%25BC%25E3%2582%25B8%25E3%2583%2583%25E3%2582%25AF%25E3%2583%2593%25E3%2583%2587%25E3%2582%25AA%25E3%2583%25A1%25E3%2583%25BC%25E3%2582%25AB%25E3%2583%25BC%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Tuidra%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jSVMwQnByRGlRLUdDV2ltb0ZRTi1QQ3V4aWs5cFV2YllmdUw2TEhGRUw4VjBjb0Nncz1zOTYtYw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png",
+            "length": "0",
+            "type": "image/png"
+          },
+          "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--c0lMAr5v--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E9%259F%25B3%25E5%25A3%25B0%25E8%25AA%258D%25E8%25AD%2598%25E3%2581%25A8%25E3%2582%25B7%25E3%2582%25A7%25E3%2583%25BC%25E3%2583%2580%25E3%2583%25BC%25E3%2581%25A7%25E4%25BD%259C%25E3%2582%258B%25E8%2587%25AA%25E5%258B%2595%25E6%25AD%258C%25E8%25A9%259E%25E5%2590%258C%25E6%259C%259F%25E3%2583%259F%25E3%2583%25A5%25E3%2583%25BC%25E3%2582%25B8%25E3%2583%2583%25E3%2582%25AF%25E3%2583%2593%25E3%2583%2587%25E3%2582%25AA%25E3%2583%25A1%25E3%2583%25BC%25E3%2582%25AB%25E3%2583%25BC%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Tuidra%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jSVMwQnByRGlRLUdDV2ltb0ZRTi1QQ3V4aWs5cFV2YllmdUw2TEhGRUw4VjBjb0Nncz1zOTYtYw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
+        },
+        {
           "id": "https://zenn.dev/yumemi_inc/articles/dc429fb9fc56a3",
           "author": "みはるん",
           "description": "!\nこの記事は2025年5月31日（土）〜2025年6月15日（日）に開催される「技術書典18」で配布予定の「ゆめみ大技林 '25」に寄稿したものです。加筆や修正が必要な場合は、このZennの記事を更新して対応します。\n\n4月に開催されたtry! Swift Tokyo 2025では、Metal関連のトークがいくつもありましたね。\n普段見慣れないSwiftではない言語が出てきたので、少し抵抗感を持ってしまった方もいれば、この機会にもっと知りたいと思った方もいるのではないでしょうか？\nあるいは、この記事ではじめてMetalについて目にしたという方もいるかもしれませんね。\nこの記事では、そん...",
@@ -2782,21 +2822,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--K9j9HNp---/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Shader%2520Variant%2520Loading%2520Settings%25E3%2581%25AB%25E9%2596%25A2%25E3%2581%2597%25E3%2581%25A6%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Fumo%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2RjODA2ZDdmZjcuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
-        },
-        {
-          "id": "https://zenn.dev/tkagawa/articles/ab1975c2cbac23",
-          "author": "TKAGAWA",
-          "description": "Unityで炎をShaderのHLSL言語での作成方法をChatGTPに聞いてみました。\n\"あなたは、優秀なUnityエンジニアです。\n炎のエフェクトを、Shaderだけで、作っていただきたいです。\n作り方をご教授お願いしたいのと、どのように炎がみえるか、画像を提供してください\"\n以下が、ChatGTPの回答です。\n\n承知しました！ここではUnityのURP（Universal Render Pipeline）環境で、Shader（HLSL）だけで炎のエフェクトを作る方法をご紹介します。以下の要素を組み合わせることで、リアルタイムで揺らぐ炎のようなビジュアルを表現できます。\n🔥 炎のSh...",
-          "link": "https://zenn.dev/tkagawa/articles/ab1975c2cbac23",
-          "publishedOn": "2025-05-24T05:58:15.000Z",
-          "wordCount": 1002,
-          "title": "Unityで炎をShaderのHLSL言語での作成方法をChatGTPに聞いてみた<その1>",
-          "enclosure": {
-            "url": "https://res.cloudinary.com/zenn/image/upload/s--UsR1jan3--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Unity%25E3%2581%25A7%25E7%2582%258E%25E3%2582%2592Shader%25E3%2581%25AEHLSL%25E8%25A8%2580%25E8%25AA%259E%25E3%2581%25A7%25E3%2581%25AE%25E4%25BD%259C%25E6%2588%2590%25E6%2596%25B9%25E6%25B3%2595%25E3%2582%2592ChatGTP%25E3%2581%25AB%25E8%2581%259E%25E3%2581%2584%25E3%2581%25A6%25E3%2581%25BF%25E3%2581%259F%253C%25E3%2581%259D%25E3%2581%25AE1%253E%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:TKAGAWA%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jSmItNzBTcWtSV0lHT2NDd1pMa05ocjBHamo0YlRBWmZWa1Vhamk0dnJKYXlualBnPXM5Ni1j%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png",
-            "length": "0",
-            "type": "image/png"
-          },
-          "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--UsR1jan3--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Unity%25E3%2581%25A7%25E7%2582%258E%25E3%2582%2592Shader%25E3%2581%25AEHLSL%25E8%25A8%2580%25E8%25AA%259E%25E3%2581%25A7%25E3%2581%25AE%25E4%25BD%259C%25E6%2588%2590%25E6%2596%25B9%25E6%25B3%2595%25E3%2582%2592ChatGTP%25E3%2581%25AB%25E8%2581%259E%25E3%2581%2584%25E3%2581%25A6%25E3%2581%25BF%25E3%2581%259F%253C%25E3%2581%259D%25E3%2581%25AE1%253E%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:TKAGAWA%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jSmItNzBTcWtSV0lHT2NDd1pMa05ocjBHamo0YlRBWmZWa1Vhamk0dnJKYXlualBnPXM5Ni1j%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
         }
       ]
     },
@@ -3060,16 +3085,6 @@
           "wordCount": 700,
           "title": "DCCツールのファイルをLLMで読み込む方法",
           "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnNlY3VyZS5ncmF2YXRhci5jb20lMkZhdmF0YXIlMkYwNTUwM2ExMzBiOTdmZmM5ZGQ4YTY4Y2M1NzJkNGZlMT9peGxpYj1yYi00LjAuMCZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmZm09cG5nMzImcz04NTM2OTYxNmJhMmViNTRjZWExOTRlMGYzM2E4ZDFkYQ%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D7f87386c08f818f62b56401e43004403?ixlib=rb-4.0.0&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9RENDJUUzJTgzJTg0JUUzJTgzJUJDJUUzJTgzJUFCJUUzJTgxJUFFJUUzJTgzJTk1JUUzJTgyJUExJUUzJTgyJUE0JUUzJTgzJUFCJUUzJTgyJTkyTExNJUUzJTgxJUE3JUU4JUFBJUFEJUUzJTgxJUJGJUU4JUJFJUJDJUUzJTgyJTgwJUU2JTk2JUI5JUU2JUIzJTk1JnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9MWIyMzhkMzEzOGRjOGE0MzMzOGExMDY1NWVkM2FiYWM&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBzY2l4YXJ0cyZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPTExNjdhNzEyODc0OWI0Yzg4ZjlmYmZmNjY1NTE0NzA4&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=e156e1e2b21a57636eca19547c6a778a"
-        },
-        {
-          "id": "https://qiita.com/scixarts/items/033c0e948be2666fe498",
-          "author": null,
-          "description": "Pythonライブラリ一覧\n2025年5月現在、DCCツールのスクリプト・プラグイン開発において個人的に愛用しているPythonライブラリ一覧を紹介します。\nパッケージ・プロジェクト管理ツール\nuv\n\nhttps://docs.astral.sh/uv/guides/install-python…",
-          "link": "https://qiita.com/scixarts/items/033c0e948be2666fe498",
-          "publishedOn": "2025-05-24T03:28:31.000Z",
-          "wordCount": 631,
-          "title": "DCCツールのスクリプト・プラグイン開発で愛用しているPythonライブラリ",
-          "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnNlY3VyZS5ncmF2YXRhci5jb20lMkZhdmF0YXIlMkYwNTUwM2ExMzBiOTdmZmM5ZGQ4YTY4Y2M1NzJkNGZlMT9peGxpYj1yYi00LjAuMCZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmZm09cG5nMzImcz04NTM2OTYxNmJhMmViNTRjZWExOTRlMGYzM2E4ZDFkYQ%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D7f87386c08f818f62b56401e43004403?ixlib=rb-4.0.0&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9RENDJUUzJTgzJTg0JUUzJTgzJUJDJUUzJTgzJUFCJUUzJTgxJUFFJUUzJTgyJUI5JUUzJTgyJUFGJUUzJTgzJUFBJUUzJTgzJTk3JUUzJTgzJTg4JUUzJTgzJUJCJUUzJTgzJTk3JUUzJTgzJUE5JUUzJTgyJUIwJUUzJTgyJUE0JUUzJTgzJUIzJUU5JTk2JThCJUU3JTk5JUJBJUUzJTgxJUE3JUU2JTg0JTlCJUU3JTk0JUE4JUUzJTgxJTk3JUUzJTgxJUE2JUUzJTgxJTg0JUUzJTgyJThCUHl0aG9uJUUzJTgzJUE5JUUzJTgyJUE0JUUzJTgzJTk2JUUzJTgzJUE5JUUzJTgzJUFBJnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9MWRlZDM0NDc0NTI5ODUzZTVkMDAwZWFiZTUyNDk4OTY&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBzY2l4YXJ0cyZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPTExNjdhNzEyODc0OWI0Yzg4ZjlmYmZmNjY1NTE0NzA4&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=d20350abaa112a063f9216ca11b8f46d"
         }
       ]
     },
@@ -3095,18 +3110,7 @@
       "title": "SubstancePainterタグが付けられた新着記事 - Qiita",
       "feedUrl": "https://qiita.com/tags/substancepainter/feed",
       "siteUrl": "https://qiita.com",
-      "articles": [
-        {
-          "id": "https://qiita.com/scixarts/items/033c0e948be2666fe498",
-          "author": null,
-          "description": "Pythonライブラリ一覧\n2025年5月現在、DCCツールのスクリプト・プラグイン開発において個人的に愛用しているPythonライブラリ一覧を紹介します。\nパッケージ・プロジェクト管理ツール\nuv\n\nhttps://docs.astral.sh/uv/guides/install-python…",
-          "link": "https://qiita.com/scixarts/items/033c0e948be2666fe498",
-          "publishedOn": "2025-05-24T03:28:31.000Z",
-          "wordCount": 635,
-          "title": "DCCツールのスクリプト・プラグイン開発で愛用しているPythonライブラリ",
-          "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnNlY3VyZS5ncmF2YXRhci5jb20lMkZhdmF0YXIlMkYwNTUwM2ExMzBiOTdmZmM5ZGQ4YTY4Y2M1NzJkNGZlMT9peGxpYj1yYi00LjAuMCZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmZm09cG5nMzImcz04NTM2OTYxNmJhMmViNTRjZWExOTRlMGYzM2E4ZDFkYQ%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D7f87386c08f818f62b56401e43004403?ixlib=rb-4.0.0&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9RENDJUUzJTgzJTg0JUUzJTgzJUJDJUUzJTgzJUFCJUUzJTgxJUFFJUUzJTgyJUI5JUUzJTgyJUFGJUUzJTgzJUFBJUUzJTgzJTk3JUUzJTgzJTg4JUUzJTgzJUJCJUUzJTgzJTk3JUUzJTgzJUE5JUUzJTgyJUIwJUUzJTgyJUE0JUUzJTgzJUIzJUU5JTk2JThCJUU3JTk5JUJBJUUzJTgxJUE3JUU2JTg0JTlCJUU3JTk0JUE4JUUzJTgxJTk3JUUzJTgxJUE2JUUzJTgxJTg0JUUzJTgyJThCUHl0aG9uJUUzJTgzJUE5JUUzJTgyJUE0JUUzJTgzJTk2JUUzJTgzJUE5JUUzJTgzJUFBJnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9MWRlZDM0NDc0NTI5ODUzZTVkMDAwZWFiZTUyNDk4OTY&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBzY2l4YXJ0cyZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPTExNjdhNzEyODc0OWI0Yzg4ZjlmYmZmNjY1NTE0NzA4&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=d20350abaa112a063f9216ca11b8f46d"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "3DCGタグが付けられた新着記事 - Qiita",
@@ -3148,6 +3152,16 @@
       "feedUrl": "https://qiita.com/tags/shader/feed",
       "siteUrl": "https://qiita.com",
       "articles": [
+        {
+          "id": "https://qiita.com/yorung/items/49b1ecf7d4a70fb2ae1f",
+          "author": null,
+          "description": "概要\nUE5のマテリアルではUE4の感覚でワールド座標値を使うとLWC(Large World Coordinate)が使われ、パフォーマンスの低下を起こす事があります。これは、LWCが必要となるオ…",
+          "link": "https://qiita.com/yorung/items/49b1ecf7d4a70fb2ae1f",
+          "publishedOn": "2025-06-22T13:32:54.000Z",
+          "wordCount": 1498,
+          "title": "Unreal Engine 5のマテリアルにおけるLWC対応をHLSLから確認",
+          "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Ftech-festa-ogp-background-4b5015b2c518c7e6b9062a7c9f5f5e90.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkY2NjE2MCUyRmU5ZTgwYTYzNzk0ZDViNGU2NTYzNjY3ZGI2OTM0ZjA2YzAyMjY3ZWElMkZ4X2xhcmdlLnBuZyUzRjE3MTE5NDA4OTg_aXhsaWI9cmItNC4wLjAmYXI9MSUzQTEmZml0PWNyb3AmbWFzaz1lbGxpcHNlJmZtPXBuZzMyJnM9YmE0Yzg2YWZhYzIwYjEzMzk0NGZhMWM0ZGYwMDc5ZDQ%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D6574dd300bb899b4c799cbd873cb7faa?ixlib=rb-4.0.0&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9VW5yZWFsJTIwRW5naW5lJTIwNSVFMyU4MSVBRSVFMyU4MyU5RSVFMyU4MyU4NiVFMyU4MyVBQSVFMyU4MiVBMiVFMyU4MyVBQiVFMyU4MSVBQiVFMyU4MSU4QSVFMyU4MSU5MSVFMyU4MiU4QkxXQyVFNSVBRiVCRSVFNSVCRiU5QyVFMyU4MiU5MkhMU0wlRTMlODElOEIlRTMlODIlODklRTclQTIlQkElRTglQUElOEQmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyM0ZGRkZGRiZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz0zZmM2NTQxM2U2OWM0YzQ0MzM2OWI1MWYyNjBhOWZhOQ&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDB5b3J1bmcmdHh0LWNvbG9yPSUyM0ZGRkZGRiZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz03NGQzM2RjMmI4MGEwOWExOTQxYjUzMmRiMGYxMDIwYg&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=e397a20970e0029dcd94bfbe87d12c7a"
+        },
         {
           "id": "https://qiita.com/dsz1468288273/items/ee9deb108b17928b4f51",
           "author": null,
@@ -3218,7 +3232,18 @@
       "title": "HLSLタグが付けられた新着記事 - Qiita",
       "feedUrl": "https://qiita.com/tags/hlsl/feed",
       "siteUrl": "https://qiita.com",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://qiita.com/yorung/items/49b1ecf7d4a70fb2ae1f",
+          "author": null,
+          "description": "概要\nUE5のマテリアルではUE4の感覚でワールド座標値を使うとLWC(Large World Coordinate)が使われ、パフォーマンスの低下を起こす事があります。これは、LWCが必要となるオ…",
+          "link": "https://qiita.com/yorung/items/49b1ecf7d4a70fb2ae1f",
+          "publishedOn": "2025-06-22T13:32:54.000Z",
+          "wordCount": 1494,
+          "title": "Unreal Engine 5のマテリアルにおけるLWC対応をHLSLから確認",
+          "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Ftech-festa-ogp-background-4b5015b2c518c7e6b9062a7c9f5f5e90.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkY2NjE2MCUyRmU5ZTgwYTYzNzk0ZDViNGU2NTYzNjY3ZGI2OTM0ZjA2YzAyMjY3ZWElMkZ4X2xhcmdlLnBuZyUzRjE3MTE5NDA4OTg_aXhsaWI9cmItNC4wLjAmYXI9MSUzQTEmZml0PWNyb3AmbWFzaz1lbGxpcHNlJmZtPXBuZzMyJnM9YmE0Yzg2YWZhYzIwYjEzMzk0NGZhMWM0ZGYwMDc5ZDQ%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D6574dd300bb899b4c799cbd873cb7faa?ixlib=rb-4.0.0&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9VW5yZWFsJTIwRW5naW5lJTIwNSVFMyU4MSVBRSVFMyU4MyU5RSVFMyU4MyU4NiVFMyU4MyVBQSVFMyU4MiVBMiVFMyU4MyVBQiVFMyU4MSVBQiVFMyU4MSU4QSVFMyU4MSU5MSVFMyU4MiU4QkxXQyVFNSVBRiVCRSVFNSVCRiU5QyVFMyU4MiU5MkhMU0wlRTMlODElOEIlRTMlODIlODklRTclQTIlQkElRTglQUElOEQmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyM0ZGRkZGRiZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz0zZmM2NTQxM2U2OWM0YzQ0MzM2OWI1MWYyNjBhOWZhOQ&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDB5b3J1bmcmdHh0LWNvbG9yPSUyM0ZGRkZGRiZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz03NGQzM2RjMmI4MGEwOWExOTQxYjUzMmRiMGYxMDIwYg&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=e397a20970e0029dcd94bfbe87d12c7a"
+        }
+      ]
     },
     {
       "title": "GLSLタグが付けられた新着記事 - Qiita",
@@ -3607,16 +3632,6 @@
           "wordCount": 2278,
           "title": "個性光る未来のクリエイター達の挑戦！Vol.001",
           "imageUrl": "https://d2l930y2yx77uc.cloudfront.net/production/social_images/568dc374bdab2689c56be56c6b89f98f2922ae3e.png"
-        },
-        {
-          "id": "https://note.com/juntominaga/n/nc7407e53035e",
-          "author": null,
-          "description": "🟦 冒頭文（導入）\n\n雨上がりのように、しっとりと濡れた石。\n今回は、Substance 3D Painterで「にじみ × 反射 × 凹凸」を組み合わせたマテリアル表現を実験しました。\nAR空間でも映える“リアルな湿り感”をどう表現するか、その構成と工夫を丁寧にまとめています。\n続きをみる",
-          "link": "https://note.com/juntominaga/n/nc7407e53035e",
-          "publishedOn": "2025-05-24T06:42:21.000Z",
-          "wordCount": 2524,
-          "title": "「濡れた石 × にじみ × 反射」Substanceマテリアル実験記録｜実践チュートリアル",
-          "imageUrl": "https://assets.st-note.com/production/uploads/images/187521009/rectangle_large_type_2_e851faaffdab8f10484bd2262c16f6ef.png?width=800"
         }
       ]
     },

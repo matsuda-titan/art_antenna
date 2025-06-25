@@ -448,13 +448,54 @@
       "title": "TECH ART ONLINE",
       "feedUrl": "https://tech-art.online/feed/",
       "siteUrl": "https://tech-art.online",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://tech-art.online/?p=1965",
+          "author": "管理人",
+          "description": "Mayaを使ったnCloth＋Wrap構成で、ゲーム開発に必須な布や髪のリアルな物理シミュレーションを実制作向けに解説。ジオメトリ分離による効率的な運用方法も紹介。\n仕事でシミュレーションってどう進めるの？シミュレーションアセットの設計をしてみよう。 first appeared on TECH ART ONLINE.",
+          "link": "https://tech-art.online/gamedev-maya-sim/?utm_source=rss&utm_medium=rss&utm_campaign=gamedev-maya-sim",
+          "publishedOn": "2025-06-24T14:02:29.000Z",
+          "wordCount": 14527,
+          "title": "仕事でシミュレーションってどう進めるの？シミュレーションアセットの設計をしてみよう。",
+          "imageUrl": "https://tech-art.online/wordpress/wp-content/uploads/2025/06/gamedev-maya-sim.jpg"
+        }
+      ]
     },
     {
       "title": "3D人-3dnchu-",
       "feedUrl": "https://3dnchu.com/feed/",
       "siteUrl": "https://3dnchu.com",
       "articles": [
+        {
+          "id": "https://3dnchu.com/?p=1056090",
+          "author": "Ymt3D -3dnchu-",
+          "description": "PolygonflowによるUnreal Engine向けワールド構築支援プラグイン『Dash』の2025年トレーラーが公開されています！",
+          "link": "https://3dnchu.com/archives/dash-2025-trailer/",
+          "publishedOn": "2025-06-24T16:29:26.000Z",
+          "wordCount": 8828,
+          "title": "DASH 2025 TRAILER - Unreal Engine 5での世界構築に役立つツールを多数提供するプラグイン「DASH」の最新トレーラーが公開！",
+          "enclosure": {
+            "url": "https://3dnchu.com/wp-content/uploads/DASH-2025-TRAILER.webp",
+            "length": "1400826",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://3dnchu.com/wp-content/uploads/DASH-2025-TRAILER.webp"
+        },
+        {
+          "id": "https://3dnchu.com/?p=1056084",
+          "author": "Ymt3D -3dnchu-",
+          "description": "数多くのUE5向け動画などを配信している CodeLikeMeによる、Unreal Engineのディスタンスフィールドを活用した地面の草のリアクション解説チュートリアル動画「Distance Field Based Reactive Grass」が公開されています。",
+          "link": "https://3dnchu.com/archives/distance-field-based-reactive-grass-ue5/",
+          "publishedOn": "2025-06-24T15:54:46.000Z",
+          "wordCount": 8952,
+          "title": "Distance Field Based Reactive Grass - Unreal Engineのディスタンスフィールドを活用した地面の草のリアクション制作チュートリアル動画！",
+          "enclosure": {
+            "url": "https://3dnchu.com/wp-content/uploads/Distance-Field-Based-Reactive-Grass.webp",
+            "length": "641892",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://3dnchu.com/wp-content/uploads/Distance-Field-Based-Reactive-Grass.webp"
+        },
         {
           "id": "https://3dnchu.com/?p=1056043",
           "author": "Ymt3D -3dnchu-",
@@ -1062,6 +1103,16 @@
       "feedUrl": "https://cgworld.jp/atom.xml",
       "siteUrl": "https://cgworld.jp/",
       "articles": [
+        {
+          "id": "https://cgworld.jp/flashnews/01-202506-WebcamMotionCapture1105.html",
+          "author": null,
+          "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
+          "link": "https://cgworld.jp/flashnews/01-202506-WebcamMotionCapture1105.html",
+          "publishedOn": "2025-06-24T23:31:17.000Z",
+          "wordCount": 780,
+          "title": "AIマーカーレスモーションキャプチャツール「Webcam Motion Capture 1.10.5」リリース！　無料または月199円、モーションデータのFBX保存も可 - ニュース",
+          "imageUrl": "https://cgworld.jp/flashnews/assets_c/2025/06/WebcamMotionCapture-01-thumb-1080x607-70734.jpg"
+        },
         {
           "id": "https://cgworld.jp/flashnews/2506-news-makaizo.html",
           "author": null,
@@ -1861,36 +1912,6 @@
           "wordCount": 702,
           "title": "今回のテーマは《流体》！　個人クリエイターの作品を紹介する「CGWORLD GALLERY」作品募集スタート。6/29（日）まで - ニュース",
           "imageUrl": "https://cgworld.jp/flashnews/assets_c/2025/05/vol.019_gallery_banner_19_B_web-thumb-1000x563-69641.jpg"
-        },
-        {
-          "id": "https://cgworld.jp/article/cgworld-masterclass-online-vol17.html",
-          "author": null,
-          "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
-          "link": "https://cgworld.jp/article/cgworld-masterclass-online-vol17.html",
-          "publishedOn": "2025-05-26T09:55:14.000Z",
-          "wordCount": 757,
-          "title": "色と光で心を動かす技術を学ぶ！トンコハウス堤大介監督登壇の特別講義も！CGWORLD MASTERCLASS ONLINE vol.17 開催 - 特集",
-          "imageUrl": "https://cgworld.jp/article/assets_c/2025/05/772108e7b2e4c28046df5f9b504cee886bc82682-thumb-1920x1080-69582-thumb-1920x1080-69640.jpg"
-        },
-        {
-          "id": "https://cgworld.jp/flashnews/01-202505-PrimitiveAnything.html",
-          "author": null,
-          "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
-          "link": "https://cgworld.jp/flashnews/01-202505-PrimitiveAnything.html",
-          "publishedOn": "2025-05-26T04:22:21.000Z",
-          "wordCount": 746,
-          "title": "Tencentの3Dモデル生成AI「PrimitiveAnything」オープンソースで公開！　複雑な形状をプリミティブに分解して構築するモデル - ニュース",
-          "imageUrl": "https://cgworld.jp/flashnews/assets_c/2025/05/PrimitiveAnything-01-thumb-1080x607-69610.jpg"
-        },
-        {
-          "id": "https://cgworld.jp/article/202505-houdini-2.html",
-          "author": null,
-          "description": "関連記事 ・Houdini Tech Seminarレポート No.1：Hou...",
-          "link": "https://cgworld.jp/article/202505-houdini-2.html",
-          "publishedOn": "2025-05-26T01:30:00.000Z",
-          "wordCount": 964,
-          "title": "Houdini Tech Seminarレポート No.2：PDGによるキャッシュパブリッシュフローを支える、ポリゴン・ピクチュアズのツール群 - 特集",
-          "imageUrl": "https://cgworld.jp/article/assets_c/2025/05/202505-houdini-f3_2_ED88420-thumb-1000x667-69240.jpg"
         }
       ]
     },
@@ -1944,6 +1965,16 @@
       "feedUrl": "https://modelinghappy.com/feed",
       "siteUrl": "https://modelinghappy.com",
       "articles": [
+        {
+          "id": "https://modelinghappy.com/?p=63475",
+          "author": "modelinghappy",
+          "description": "Zen Cage v1.0.0 for Blender Zen CageはBlenderでオブジェクトを直感的に整列、フィット、分散、クランプ、配列、回転、スケールなどを行える専用ケージが表示されて調整出来るようになるア\nThe post Zen Cage 複数オブジェクトを専用ケージで直感的に綺麗に整列、フィット、分散、回転など行えるBlender用アドオン first appeared on 3DCG最新情報サイト MODELING HAPPY.",
+          "link": "https://modelinghappy.com/archives/63475",
+          "publishedOn": "2025-06-24T23:50:34.000Z",
+          "wordCount": 3530,
+          "title": "Zen Cage 複数オブジェクトを専用ケージで直感的に綺麗に整列、フィット、分散、回転など行えるBlender用アドオン",
+          "imageUrl": "https://modelinghappy.com/wp-content/uploads/2025/06/20250625_zen_cage_01.jpg"
+        },
         {
           "id": "https://modelinghappy.com/?p=63468",
           "author": "modelinghappy",
@@ -2313,16 +2344,6 @@
           "wordCount": 3471,
           "title": "Uv+ エッジの角度、円柱、球体、プラナー、ボックス等、どのUV展開方法が良いのか瞬時に項目を切り替えて選べるBlender用モディファイア",
           "imageUrl": "https://modelinghappy.com/wp-content/uploads/2025/05/20250527_uvplus_01.jpg"
-        },
-        {
-          "id": "https://modelinghappy.com/?p=63156",
-          "author": "modelinghappy",
-          "description": "Bbrush BbrushはBlenderのスカルプト作業をタブレットを使って使用する場合に、Zbrushの操作性に似せたショートカットと、常に左上にモデルのシルエットを表示して作業がしやすくなるBlenderExten\nThe post Bbrush  Zbrushと似たショートカットと左上に常にシルエット表示させてスカルプト作業出来るBlender用無料アドオン first appeared on 3DCG最新情報サイト MODELING HAPPY.",
-          "link": "https://modelinghappy.com/archives/63156",
-          "publishedOn": "2025-05-26T06:02:34.000Z",
-          "wordCount": 3453,
-          "title": "Bbrush  Zbrushと似たショートカットと左上に常にシルエット表示させてスカルプト作業出来るBlender用無料アドオン",
-          "imageUrl": "https://modelinghappy.com/wp-content/uploads/2025/05/20250526_Bbrush.jpg"
         }
       ]
     },
@@ -2840,26 +2861,6 @@
           "wordCount": 577,
           "title": "日用品の秘密の生活!? CGショート『The Secret Life of Everyday Things』＆メイキング映像",
           "imageUrl": "https://3dtotal.jp/wp-content/uploads/2025/05/secretlifeofET.jpg"
-        },
-        {
-          "id": "https://3dtotal.jp/?p=50541",
-          "author": "3dtotal管理人T",
-          "description": "★THE KARATE KID – Lasting Legacy（2分7秒） 1984年に始まり、ラルフ・マッチオ、ジャッキー・チェン、ベン・ウォンが出演した 映画「ベスト・キッド」の歴史を振り返りましょう。週末などに  […]\nThe post 空手とカンフー、師匠はジャッキー・チェンと..。映画『ベスト・キッド：レジェンズ』のトレーラー（英語／日本語） first appeared on 3dtotal 日本語オフィシャルサイト.",
-          "link": "https://3dtotal.jp/news/50541/",
-          "publishedOn": "2025-05-26T04:45:33.000Z",
-          "wordCount": 541,
-          "title": "空手とカンフー、師匠はジャッキー・チェンと..。映画『ベスト・キッド：レジェンズ』のトレーラー（英語／日本語）",
-          "imageUrl": "https://3dtotal.jp/wp-content/uploads/2025/05/bestkid_legacy.jpg"
-        },
-        {
-          "id": "https://3dtotal.jp/?p=51307",
-          "author": "3dtotal管理人T",
-          "description": "★Using Trend Insights to Guide Product Design | Adobe Substance 3D x Peclers Paris（4分6秒） 数ヶ月後に どんな色や素材が注目されるか  […]\nThe post トレンドを見抜く、プロダクトデザインへの Substance 3D の活用 first appeared on 3dtotal 日本語オフィシャルサイト.",
-          "link": "https://3dtotal.jp/news/51307/",
-          "publishedOn": "2025-05-26T04:13:07.000Z",
-          "wordCount": 573,
-          "title": "トレンドを見抜く、プロダクトデザインへの Substance 3D の活用",
-          "imageUrl": "https://3dtotal.jp/wp-content/uploads/2025/05/subtrendinsight_01.jpg"
         }
       ]
     },
@@ -3187,6 +3188,16 @@
       "siteUrl": "https://qiita.com",
       "articles": [
         {
+          "id": "https://qiita.com/hextomino/items/4e933290c870a066272e",
+          "author": null,
+          "description": "https://puarts.com/?pid=873\nこちらの記事を参考に、拡張しました。\n感謝します。\n\n手順\npSphere1を分割したいとして、\nboundingBoxで、範囲を取得\nロケータ…",
+          "link": "https://qiita.com/hextomino/items/4e933290c870a066272e",
+          "publishedOn": "2025-06-24T22:13:19.000Z",
+          "wordCount": 1334,
+          "title": "mayaでボロノイ分割する",
+          "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnFpaXRhLWltYWdlLXN0b3JlLnMzLmFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkYwJTJGNTEwMjU3JTJGcHJvZmlsZS1pbWFnZXMlMkYxNzA5NTg5OTA0P2l4bGliPXJiLTQuMC4wJmFyPTElM0ExJmZpdD1jcm9wJm1hc2s9ZWxsaXBzZSZmbT1wbmczMiZzPTY5YjkyYTM5MzY1MWEzOTAyODBiY2VjMDU4YjFlYmRm%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3Ded32894352f2e56910cd9791c2dbb595?ixlib=rb-4.0.0&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9bWF5YSVFMyU4MSVBNyVFMyU4MyU5QyVFMyU4MyVBRCVFMyU4MyU4RSVFMyU4MiVBNCVFNSU4OCU4NiVFNSU4OSVCMiVFMyU4MSU5OSVFMyU4MiU4QiZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnR4dC1wYWQ9MCZzPTAzYjIyMDFlM2MyMTE2YzNjNDQ5ZWNhMTQ1MmE3NTE5&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBoZXh0b21pbm8mdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz0wYmZhNzUxNjYyMDg1OGRhNWI5YWQwODAwOTQxYTMyYw&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=20087f40a7a77b2446678cf402f7626b"
+        },
+        {
           "id": "https://qiita.com/scixarts/items/556c319df4e2a29584f3",
           "author": null,
           "description": "環境\n\nWindows\nMaya 2026.1\nCopilot for Windows\n\nはじめに\n本記事では、MayaのGUIのコードをLLMで生成する例を紹介します。\n注意点として、同じプロンプトや…",
@@ -3237,6 +3248,16 @@
       "feedUrl": "https://qiita.com/tags/3dcg/feed",
       "siteUrl": "https://qiita.com",
       "articles": [
+        {
+          "id": "https://qiita.com/riicon72/items/0595866d2db08205fbd5",
+          "author": null,
+          "description": "Blenderを始めてたった2日。Pythonでここまでできた！？\nPythonは、「データ分析」とか「スクレイピング」みたいな業務で使うことが多かったのですが、\nまさかポップコーンが飛び出す3DC…",
+          "link": "https://qiita.com/riicon72/items/0595866d2db08205fbd5",
+          "publishedOn": "2025-06-24T22:50:20.000Z",
+          "wordCount": 6592,
+          "title": "まだまだある　pythonの可能性",
+          "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Ftech-festa-ogp-background-4b5015b2c518c7e6b9062a7c9f5f5e90.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnFpaXRhLWltYWdlLXN0b3JlLnMzLmFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkYwJTJGMzYzNjI4NyUyRnByb2ZpbGUtaW1hZ2VzJTJGMTcyNTgwODcxOT9peGxpYj1yYi00LjAuMCZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmZm09cG5nMzImcz0yOGZlMWIwNjZiYTRmYzgzMjFjMzI2NWFiYzkzMTA1Ng%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D26913861a7192f77fd790d8d8cba4e61?ixlib=rb-4.0.0&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9JUUzJTgxJUJFJUUzJTgxJUEwJUUzJTgxJUJFJUUzJTgxJUEwJUUzJTgxJTgyJUUzJTgyJThCJUUzJTgwJTgwcHl0aG9uJUUzJTgxJUFFJUU1JThGJUFGJUU4JTgzJUJEJUU2JTgwJUE3JnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjNGRkZGRkYmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9MjhhNTMyMjk1NTQ0ZDMwOTc1OWQwNjRiNmViYTIzZjA&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDByaWljb243MiZ0eHQtY29sb3I9JTIzRkZGRkZGJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPTdiZjIwM2RhY2JmYjkzOWJlOTI4MzAxNzUzMmVmZTgz&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=dd1b4080211a9894f1a4f1a669b816c0"
+        },
         {
           "id": "https://qiita.com/sinsen9000/items/0348c89dbd66c5a1c225",
           "author": null,
@@ -3664,7 +3685,88 @@
       "title": "#SubstanceDesignerタグ",
       "feedUrl": "https://note.com/hashtag/SubstanceDesigner/rss",
       "siteUrl": "https://note.com/hashtag/SubstanceDesigner",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://note.com/rozen_cg/n/ncfa605f5b55f",
+          "author": null,
+          "description": "続きをみる",
+          "link": "https://note.com/rozen_cg/n/ncfa605f5b55f",
+          "publishedOn": "2025-06-24T16:50:36.000Z",
+          "wordCount": 2327,
+          "title": "[SD]Tiling Sampler Grayscale / color",
+          "imageUrl": "https://d2l930y2yx77uc.cloudfront.net/production/social_images/3cf875394930a89afe93a9d5f50c9a4359a6666c.png"
+        },
+        {
+          "id": "https://note.com/rozen_cg/n/n93811e4ae96d",
+          "author": null,
+          "description": "続きをみる",
+          "link": "https://note.com/rozen_cg/n/n93811e4ae96d",
+          "publishedOn": "2025-06-24T16:49:33.000Z",
+          "wordCount": 2295,
+          "title": "[SD]Blend",
+          "imageUrl": "https://d2l930y2yx77uc.cloudfront.net/production/social_images/5d2ce07d3f7cd3f697d67e27b38d4a06400d571a.png"
+        },
+        {
+          "id": "https://note.com/rozen_cg/n/n202f03c74fd2",
+          "author": null,
+          "description": "続きをみる",
+          "link": "https://note.com/rozen_cg/n/n202f03c74fd2",
+          "publishedOn": "2025-06-24T16:48:38.000Z",
+          "wordCount": 2330,
+          "title": "[SD]Shape Mapper",
+          "imageUrl": "https://d2l930y2yx77uc.cloudfront.net/production/social_images/4a38a29e24687e1e05b825c5fc372d09588f9bb5.png"
+        },
+        {
+          "id": "https://note.com/rozen_cg/n/nc3f8db362d73",
+          "author": null,
+          "description": "続きをみる",
+          "link": "https://note.com/rozen_cg/n/nc3f8db362d73",
+          "publishedOn": "2025-06-24T16:47:52.000Z",
+          "wordCount": 2516,
+          "title": "[SD]SplatterCircularGrayscale / Color",
+          "imageUrl": "https://d2l930y2yx77uc.cloudfront.net/production/social_images/320a029917b5864866ae28089e0e611bcf214685.png"
+        },
+        {
+          "id": "https://note.com/rozen_cg/n/n25d0ca91e842",
+          "author": null,
+          "description": "基本ノード\n続きをみる",
+          "link": "https://note.com/rozen_cg/n/n25d0ca91e842",
+          "publishedOn": "2025-06-24T16:46:51.000Z",
+          "wordCount": 2244,
+          "title": "[SD]ノード一覧",
+          "imageUrl": "https://d2l930y2yx77uc.cloudfront.net/production/social_images/5db3b9c9213d52a69215460a8381bc29620f6282.png"
+        },
+        {
+          "id": "https://note.com/rozen_cg/n/n7507a622668a",
+          "author": null,
+          "description": "ソフトの概要は分かったけど何から始めたら良いのか..\n分かりませんよね..\n自分のお勧めは既存データの解析と複製をするのが良いかと思います。\n\n\n続きをみる",
+          "link": "https://note.com/rozen_cg/n/n7507a622668a",
+          "publishedOn": "2025-06-24T16:45:34.000Z",
+          "wordCount": 2387,
+          "title": "[SD]何から手を付けたら良いのか",
+          "imageUrl": "https://d2l930y2yx77uc.cloudfront.net/production/social_images/64a0ce7eacf6025505e408adaba5911768092271.png"
+        },
+        {
+          "id": "https://note.com/rozen_cg/n/nbfb0e77190ac",
+          "author": null,
+          "description": "各ノードには必ず持っているパラメータがあります。\n各種ノードを選択した際、パラメータの一番上にあるBASE PARAMETERSです。\n実際に操作する事があるのは一部かと思いますし、作ったノードの大半では弄る必要は有りませんがノイズや配置系ノードでは大事になります。\n\n続きをみる",
+          "link": "https://note.com/rozen_cg/n/nbfb0e77190ac",
+          "publishedOn": "2025-06-24T16:44:35.000Z",
+          "wordCount": 2280,
+          "title": "[SD]各ノードの共通パラメータについて",
+          "imageUrl": "https://d2l930y2yx77uc.cloudfront.net/production/social_images/79e8c464b503df862951afcc1ed0426c7d3d2612.png"
+        },
+        {
+          "id": "https://note.com/rozen_cg/n/n1431710bace0",
+          "author": null,
+          "description": "個人的な記録として主にノードについて残しています。\nまた、触らないと忘れるタイプのソフトなので可能な限り０からでも分かるように書くよう心掛けているので初心者の方も読み易いかも。\n参考になれば幸いです。\nまた、随時内容については更新を行い精度を上げる予定です。\n\n\n続きをみる",
+          "link": "https://note.com/rozen_cg/n/n1431710bace0",
+          "publishedOn": "2025-06-24T16:42:54.000Z",
+          "wordCount": 2266,
+          "title": "SubstanceDesignerメモ",
+          "imageUrl": "https://d2l930y2yx77uc.cloudfront.net/production/social_images/4d4189c2b29534df291204e11db9df6678a7efca.png"
+        }
+      ]
     },
     {
       "title": "#substancepainterタグ",
@@ -3802,6 +3904,21 @@
       "feedUrl": "https://cginterest.com/feed/",
       "siteUrl": "https://cginterest.com",
       "articles": [
+        {
+          "id": "https://cginterest.com/?p=47181",
+          "author": ".me",
+          "description": "南洋理工大学、インペリアル カレッジ ロンドン、Math Magicの研究チームによって発表された論文「Sparse Representation and Construction for High-Resolution […]\n高品質の3Dモデルを生成できる次世代3D生成AIフレームワーク「Sparc3D」 first appeared on CGinterest.",
+          "link": "https://cginterest.com/2025/06/25/%e9%ab%98%e5%93%81%e8%b3%aa%e3%81%ae3d%e3%83%a2%e3%83%87%e3%83%ab%e3%82%92%e7%94%9f%e6%88%90%e3%81%a7%e3%81%8d%e3%82%8b%e6%ac%a1%e4%b8%96%e4%bb%a33d%e7%94%9f%e6%88%90ai%e3%83%95%e3%83%ac%e3%83%bc/",
+          "publishedOn": "2025-06-24T23:43:00.000Z",
+          "wordCount": 716,
+          "title": "高品質の3Dモデルを生成できる次世代3D生成AIフレームワーク「Sparc3D」",
+          "enclosure": {
+            "url": "https://cginterest.com/wp-content/uploads/2025/06/Test-2-0001-0200.mp4",
+            "length": "259319",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://cginterest.com/wp-content/uploads/2025/06/20250624_sparc3d.webp"
+        },
         {
           "id": "https://cginterest.com/?p=47177",
           "author": ".me",

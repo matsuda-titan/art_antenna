@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-06-25T08:16:00.216Z</updated>
+    <updated>2025-06-25T12:21:52.418Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[mGear5.0とueGear1.0のダウンロードからインストールまで]]></title>
+        <id>https://tech-art.online/?p=1970</id>
+        <link href="https://tech-art.online/mgear-uegear-install/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=mgear-uegear-install"/>
+        <updated>2025-06-25T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Maya用mGearとUnreal Engine用ueGearのインストール手順を初心者向けにステップバイステップで解説します。
+mGear5.0とueGear1.0のダウンロードからインストールまで first appeared on TECH ART ONLINE.]]></summary>
+        <author>
+            <name>管理人</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CustomRenderTextureを使用してReflectionProbeで使用するBakeされたCubeMapを調整する]]></title>
+        <id>https://qiita.com/marv_ootake/items/5a4afec9577b4e90660e</id>
+        <link href="https://qiita.com/marv_ootake/items/5a4afec9577b4e90660e"/>
+        <updated>2025-06-25T08:40:26.000Z</updated>
+        <summary type="html"><![CDATA[はじめに
+ReflectionProbeでBakeしたCubeMap使用するとライティングが変わっても反射結果はBakeしたときのライティングになってしまいます。(Bakeなので当たり前ではあります…]]></summary>
+        <author>
+            <name>Shaderタグが付けられた新着記事 - Qiita</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【サイコム】Unreal Engine 5のパフォーマンスが劇的に向上。CafeGroupクリエイターが実力を試す「Lepton Motion Pro X870/A」 - スペシャルコンテンツ]]></title>
         <id>https://cgworld.jp/special-feature/202506-sycom-cafegroup.html</id>

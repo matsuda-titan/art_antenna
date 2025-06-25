@@ -12,6 +12,21 @@
       "siteUrl": "https://cgbox.jp",
       "articles": [
         {
+          "id": "https://cgbox.jp/?p=63502",
+          "author": "kasahara",
+          "description": "こんばんは！ 今回はアドオンの「Zen Cage」を紹介します。 こちらのリンクがアドオンの商品ページになります。 Zen Cage 「Zen Cage」は、Zen Cageは、直感的なバウンディングボックス操作で、オブ […]",
+          "link": "https://cgbox.jp/2025/06/25/news-addon-zen-cage/",
+          "publishedOn": "2025-06-25T02:24:20.000Z",
+          "wordCount": 2292,
+          "title": "【アドオン紹介】Zen Cage V1.0.0 – 特定の範囲内のオブジェクトを整列！",
+          "enclosure": {
+            "url": "https://cgbox.jp/wp-content/uploads/2025/06/ezgif-48db3d5ee8cdwq1d8.mp4",
+            "length": "0",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://cgbox.jp/wp-content/uploads/2025/06/image_processing20250624-2-li7n08.jpg"
+        },
+        {
           "id": "https://cgbox.jp/?p=63496",
           "author": "kasahara",
           "description": "こんばんは！ 今回はアドオンの「Cinespline」を紹介します。 こちらのリンクがアドオンの商品ページになります。 Cinespline 「Cinespline」は、CineSplineは、映画のようなスムーズなカメ […]",
@@ -466,6 +481,51 @@
       "feedUrl": "https://3dnchu.com/feed/",
       "siteUrl": "https://3dnchu.com",
       "articles": [
+        {
+          "id": "https://3dnchu.com/?p=1056101",
+          "author": "Ymt3D -3dnchu-",
+          "description": "sharpenedによる、Blender上で手軽にVAT（頂点アニメーションテクスチャ）をベイク出来る無料アドオン「OpenVAT」のUnreal Engine向けアセットと紹介動画が公開されました！",
+          "link": "https://3dnchu.com/archives/openvat-v1-03/",
+          "publishedOn": "2025-06-25T02:20:42.000Z",
+          "wordCount": 8816,
+          "title": "OpenVAT v1.03 - VAT（頂点アニメーションテクスチャ）をベイクできるBlender用無料アドオン！UE5向けマテリアルと設定手順を解説した動画が公開！",
+          "enclosure": {
+            "url": "https://3dnchu.com/wp-content/uploads/OpenVAT-v1.03.webp",
+            "length": "810834",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://3dnchu.com/wp-content/uploads/OpenVAT-v1.03.webp"
+        },
+        {
+          "id": "https://3dnchu.com/?p=1056105",
+          "author": "Ymt3D -3dnchu-",
+          "description": "Apex Assetsによる物理ベースのスキャッターBlenderアドオン「Scatterflow」がリリースされました！",
+          "link": "https://3dnchu.com/archives/scatterflow/",
+          "publishedOn": "2025-06-25T01:36:36.000Z",
+          "wordCount": 8833,
+          "title": "ScatterFlow - 450超のアセットパック付き！物理ベースのスキャッターBlenderアドオンが登場！クロスシミュレーションにも対応！",
+          "enclosure": {
+            "url": "https://3dnchu.com/wp-content/uploads/ScatterFlow.webp",
+            "length": "1611790",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://3dnchu.com/wp-content/uploads/ScatterFlow.webp"
+        },
+        {
+          "id": "https://3dnchu.com/?p=1056104",
+          "author": "Ymt3D -3dnchu-",
+          "description": "Sergey Tyapkin氏によるBlenderアドオンZenシリーズ新作「Zen Cage v1.0」がリリースされまさした！",
+          "link": "https://3dnchu.com/archives/zen-cage-v1-0/",
+          "publishedOn": "2025-06-25T01:06:36.000Z",
+          "wordCount": 8867,
+          "title": "Zen Cage v1.0 - バウンディングボックスを基準に直感操作でオブジェクトを配置・整列できるBlenderアドオンが登場！",
+          "enclosure": {
+            "url": "https://3dnchu.com/wp-content/uploads/Zen-Cage-v1-0-small.gif",
+            "length": "619663",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://3dnchu.com/wp-content/uploads/Zen-Cage-v1-0-small.gif"
+        },
         {
           "id": "https://3dnchu.com/?p=1056090",
           "author": "Ymt3D -3dnchu-",
@@ -1103,6 +1163,16 @@
       "feedUrl": "https://cgworld.jp/atom.xml",
       "siteUrl": "https://cgworld.jp/",
       "articles": [
+        {
+          "id": "https://cgworld.jp/article/202506-rad-1.html",
+          "author": null,
+          "description": "※本記事は月刊 『CGWORLD + digital video』vol.32...",
+          "link": "https://cgworld.jp/article/202506-rad-1.html",
+          "publishedOn": "2025-06-25T01:30:00.000Z",
+          "wordCount": 869,
+          "title": "アニメづくりのR&D座談会 2025 No.1／アニメ業界の未来を拓く、攻めと守りのR&D戦略 - 特集",
+          "imageUrl": "https://cgworld.jp/article/assets_c/2025/06/202506-rad_a1-thumb-1000x563-69902.jpg"
+        },
         {
           "id": "https://cgworld.jp/flashnews/01-202506-WebcamMotionCapture1105.html",
           "author": null,
@@ -1902,16 +1972,6 @@
           "wordCount": 921,
           "title": "Houdini Tech Seminarレポート No.3：ポリゴン・ピクチュアズにおける、PDGによるキャッシュパブリッシュフローの自動化 - 特集",
           "imageUrl": "https://cgworld.jp/article/assets_c/2025/05/202505-houdini-i2_2_ED88651-thumb-1000x667-69241.jpg"
-        },
-        {
-          "id": "https://cgworld.jp/flashnews/cgwg-v019.html",
-          "author": null,
-          "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
-          "link": "https://cgworld.jp/flashnews/cgwg-v019.html",
-          "publishedOn": "2025-05-26T14:00:00.000Z",
-          "wordCount": 702,
-          "title": "今回のテーマは《流体》！　個人クリエイターの作品を紹介する「CGWORLD GALLERY」作品募集スタート。6/29（日）まで - ニュース",
-          "imageUrl": "https://cgworld.jp/flashnews/assets_c/2025/05/vol.019_gallery_banner_19_B_web-thumb-1000x563-69641.jpg"
         }
       ]
     },
@@ -1965,6 +2025,16 @@
       "feedUrl": "https://modelinghappy.com/feed",
       "siteUrl": "https://modelinghappy.com",
       "articles": [
+        {
+          "id": "https://modelinghappy.com/?p=63491",
+          "author": "modelinghappy",
+          "description": "Scatterflow ScatterflowはBlenderで450種類以上の瓦礫、木、ゴミ袋、ゴミ、錆びた空き缶などのアセットに、そのオブジェクトを地面や容器の中などに複数配置する場合に便利な機能が用意されているアド\nThe post Scatterflow 450種類以上の付属ゴミ系アセットを大量に落として配置したり出来るBlender用アドオン first appeared on 3DCG最新情報サイト MODELING HAPPY.",
+          "link": "https://modelinghappy.com/archives/63491",
+          "publishedOn": "2025-06-25T01:01:04.000Z",
+          "wordCount": 3447,
+          "title": "Scatterflow 450種類以上の付属ゴミ系アセットを大量に落として配置したり出来るBlender用アドオン",
+          "imageUrl": "https://modelinghappy.com/wp-content/uploads/2025/06/20250625_Scatterflow_01.jpg"
+        },
         {
           "id": "https://modelinghappy.com/?p=63475",
           "author": "modelinghappy",
@@ -2352,6 +2422,26 @@
       "feedUrl": "https://3dtotal.jp/feed/",
       "siteUrl": "https://3dtotal.jp",
       "articles": [
+        {
+          "id": "https://3dtotal.jp/?p=51822",
+          "author": "3dtotal管理人T",
+          "description": "★Godfather of Harlem S4 VFX Breakdown（54秒） 『ゴッドファーザー・オブ・ハーレム』シーズン4 では、Jonathan Jobin 率いる Framestore の VFXアーティス […]\nThe post 海外ドラマ『ゴッドファーザー・オブ・ハーレム』シーズン4 の VFXブレイクダウン映像 first appeared on 3dtotal 日本語オフィシャルサイト.",
+          "link": "https://3dtotal.jp/news/51822/",
+          "publishedOn": "2025-06-25T03:16:33.000Z",
+          "wordCount": 538,
+          "title": "海外ドラマ『ゴッドファーザー・オブ・ハーレム』シーズン4 の VFXブレイクダウン映像",
+          "imageUrl": "https://3dtotal.jp/wp-content/uploads/2025/06/gfatherh4_fstore04.jpg"
+        },
+        {
+          "id": "https://3dtotal.jp/?p=51819",
+          "author": "3dtotal管理人T",
+          "description": "★季節やバリエーションが選べるCinema 4Dの植物アセット（1分42秒） Cinema 4D 2025.3 に、Laubwerk プラント が統合されました。質の高い植物が含まれている Laubwerk の広範なライ […]\nThe post 季節やバリエーションを選べる Cinema 4D の植物アセット Laubwerk プラント first appeared on 3dtotal 日本語オフィシャルサイト.",
+          "link": "https://3dtotal.jp/news/51819/",
+          "publishedOn": "2025-06-25T01:24:30.000Z",
+          "wordCount": 537,
+          "title": "季節やバリエーションを選べる Cinema 4D の植物アセット Laubwerk プラント",
+          "imageUrl": "https://3dtotal.jp/wp-content/uploads/2025/06/c4d_laubwerk.jpg"
+        },
         {
           "id": "https://3dtotal.jp/?p=51792",
           "author": "3dtotal管理人T",
@@ -3426,6 +3516,16 @@
       "siteUrl": "https://area.autodesk.jp/",
       "articles": [
         {
+          "id": "https://area.autodesk.jp/information/inews-202506/",
+          "author": null,
+          "description": "オートデスク メディア＆エンターテインメント事業部の メールマガジン の 2025 年 6 月号を配信しました。ゲームや映画・TV、CM、デザインビジュアライゼーションといったメディア&エンターテインメント業界に関する業界動向やオートデスクからのニュースをお届けしています。・・・",
+          "link": "https://area.autodesk.jp/information/inews-202506/",
+          "publishedOn": "2025-06-25T04:00:00.000Z",
+          "wordCount": 216,
+          "title": "Media & Entertainment メールマガジン 2025 年 6 月号",
+          "imageUrl": "https://area.autodesk.jp/information/assets_c/2021/11/ic_inews_black_1200x670-thumb-1200xauto-4980.png"
+        },
+        {
           "id": "https://area.autodesk.jp/event/autodesk/cedec2025/",
           "author": null,
           "description": "CEDEC2025はコンピュータエンターテインメント開発者を対象とした、ゲームに関する技術や知識を共有する国内最大規模のカンファレンスです。毎年3日間にわたって、約200ものセッションが行われます。カンファレンスでは Autodeskはスポンサーセッションを予定しています。・・・",
@@ -3668,16 +3768,6 @@
           "wordCount": 2317,
           "title": "「もっと自由に、もっと早く」創作の扉を開ける——Fox Renderfarmが贈るクラウドレンダリング革命​",
           "imageUrl": "https://assets.st-note.com/production/uploads/images/192827182/rectangle_large_type_2_8763b553195cfea84f00669934950951.png?width=800"
-        },
-        {
-          "id": "https://note.com/hrtk_mrn/n/n944484682931",
-          "author": null,
-          "description": "続きをみる",
-          "link": "https://note.com/hrtk_mrn/n/n944484682931",
-          "publishedOn": "2025-05-26T13:24:12.000Z",
-          "wordCount": 3012,
-          "title": "Notes and solutions when Arnold HtoA is not available in Houdini 20.5",
-          "imageUrl": "https://assets.st-note.com/production/uploads/images/192344724/rectangle_large_type_2_1fe6a6b5a253a075ec1fd77a79587f0a.png?width=800"
         }
       ]
     },

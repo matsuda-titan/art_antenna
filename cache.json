@@ -1204,6 +1204,16 @@
       "siteUrl": "https://cgworld.jp/",
       "articles": [
         {
+          "id": "https://cgworld.jp/flashnews/3d.html",
+          "author": null,
+          "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
+          "link": "https://cgworld.jp/flashnews/3d.html",
+          "publishedOn": "2025-06-27T08:04:33.000Z",
+          "wordCount": 724,
+          "title": "シリコンスタジオが山岳トンネルの建設現場を3D化－ゲームエンジンでリアルタイム可視化を支援 - ニュース",
+          "imageUrl": "https://cgworld.jp/flashnews/assets_c/2025/06/2506_silicon_main%20%281%29-thumb-1000x563-70815.png"
+        },
+        {
           "id": "https://cgworld.jp/flashnews/01-202506-Sparc3D-Hitem3D.html",
           "author": null,
           "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
@@ -3428,6 +3438,16 @@
       "feedUrl": "https://qiita.com/tags/shader/feed",
       "siteUrl": "https://qiita.com",
       "articles": [
+        {
+          "id": "https://qiita.com/yuri_tsukimi/items/e122b1c5185041b8d8d3",
+          "author": null,
+          "description": "概要\nジオメトリシェーダーの出力形式は3種類あります．[^1]\n\n普段使うのはTriangleStreamですが，エディタ表示用に線をたくさん書きたくなったので，LineStreamの使い方を調べまし…",
+          "link": "https://qiita.com/yuri_tsukimi/items/e122b1c5185041b8d8d3",
+          "publishedOn": "2025-06-27T09:40:22.000Z",
+          "wordCount": 1633,
+          "title": "【Unity】シェーダーでLineジオメトリを出力する",
+          "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYzODI1NzczJTJGZTUzOGI2MGJkYTY3M2ZhOWQwMTdhMzg5NThlNDhiM2ZhOGYwMzg5MyUyRnhfbGFyZ2UucG5nJTNGMTcxOTQ5Njg2OT9peGxpYj1yYi00LjAuMCZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmZm09cG5nMzImcz01YmRjZjU4N2FmNjRmMWU5YTNiNDI1MDliNzM4ZjgzNw%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3Dc10cc1f71d41fd95792a614869950d8b?ixlib=rb-4.0.0&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9JUUzJTgwJTkwVW5pdHklRTMlODAlOTElRTMlODIlQjclRTMlODIlQTclRTMlODMlQkMlRTMlODMlODAlRTMlODMlQkMlRTMlODElQTdMaW5lJUUzJTgyJUI4JUUzJTgyJUFBJUUzJTgzJUExJUUzJTgzJTg4JUUzJTgzJUFBJUUzJTgyJTkyJUU1JTg3JUJBJUU1JThBJTlCJUUzJTgxJTk5JUUzJTgyJThCJnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9YTFhNzM2OWVjNzY1NGM5ODY1NmZlZGNjMzk1NDA0ZDE&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDB5dXJpX3RzdWtpbWkmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz1hNTk1ZWExZTNjN2EyODM1Y2E2YThhNjg4NWI1NzdjNg&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=38b873fe46a986acfe1a1de137ab3330"
+        },
         {
           "id": "https://qiita.com/bino_rdl/items/2cee6e2bbfe77618d113",
           "author": null,

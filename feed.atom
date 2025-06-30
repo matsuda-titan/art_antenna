@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-06-30T08:16:32.173Z</updated>
+    <updated>2025-06-30T12:21:30.506Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[『3時間でマスター！ソフビ入門講座 by 怪奇里紗～フィギュア原型師のための完全マスター講座～』7月20日開催 - ニュース]]></title>
+        <id>https://cgworld.jp/flashnews/2506-plusone-kaiki.html</id>
+        <link href="https://cgworld.jp/flashnews/2506-plusone-kaiki.html"/>
+        <updated>2025-06-30T11:11:29.000Z</updated>
+        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《宇宙》にまつわる3DCG作品を募集！　個人クリエイターの作品を紹介する「CGWORLD GALLERY」応募期間は7/27（日）まで - ニュース]]></title>
+        <id>https://cgworld.jp/flashnews/cgwg-v020.html</id>
+        <link href="https://cgworld.jp/flashnews/cgwg-v020.html"/>
+        <updated>2025-06-30T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[個人で活動するクリエイターの作品を紹介する月刊『CGWORLD』の連載「CGWORLD GALLERY」。毎号異なるテーマを設けて、CGWORLDが独自の視点でピックアップする作品を掲載いたします。併せて作品の募集も実施！]]></summary>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[3DLEDディスプレイシステム「Immersive LED System」と、マーカレスモーションキャプチャ「AR51」の組み合わせで切り開く、没入型コンテンツの新境地 - スペシャルコンテンツ]]></title>
+        <id>https://cgworld.jp/special-feature/202506-heltec-hibino.html</id>
+        <link href="https://cgworld.jp/special-feature/202506-heltec-hibino.html"/>
+        <updated>2025-06-30T09:29:23.000Z</updated>
+        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#03【Flix】Photoshopとの連携でストーリーボード制作を効率化！ - 連載]]></title>
+        <id>https://cgworld.jp/regular/202506-cgw323-tr03.html</id>
+        <link href="https://cgworld.jp/regular/202506-cgw323-tr03.html"/>
+        <updated>2025-06-30T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[FoundryのFlixは、ストーリーボード制作を支援する管理システムで、映像制作全般におけるプリプロダクションや企画段階で活用されているソフトウェアです。いくつかの製品と連携するプラグインやAPIが用意されていますが、今回はPhotoshopとの連携に注目して、その活用方法やTipsを紹介していきます！]]></summary>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Unity の 生成AIツール Muse と Sentis が統合！AIツールスイート「Unity AI」として Unity 6.2 に実装へ]]></title>
         <id>https://cginterest.com/?p=47367</id>
@@ -3935,22 +3975,6 @@ The post Substance 3D Painter 使用、スマートマテリアルの作成＆�
         <summary type="html"><![CDATA[こんばんは！ 今回はアドオンの「Flexi Building Generator」を紹介します。 こちらのリンクから購入することができます。 Flexi Building Generator 「Flexi Buildin […]]]></summary>
         <author>
             <name>kasahara</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Houdini Pythonでsticky noteテンプレートを作る（備忘録6）]]></title>
-        <id>https://zenn.dev/mj31000/articles/5653030b728976</id>
-        <link href="https://zenn.dev/mj31000/articles/5653030b728976"/>
-        <updated>2025-06-01T00:19:47.000Z</updated>
-        <summary type="html"><![CDATA[複雑なネットワークを見やすくするためにsticky noteを使いたい
-Houdiniのネットワークが複雑になると、どの部分でどのような作業をしたのか見失いやすくなります。そこで私は、各ノードの役割や作業内容を分かりやすくするために、sticky noteを用いてラベルを配置する方法を採用しています。しかし、毎回手動でsticky noteを作成し、位置を調整し、テキスト入力やフォントサイズの変更を行うのは非常に手間です。そこで、よく使う設定をテンプレート化し、Pythonスクリプトを使ってワンクリックで配置できるように工夫しました。
-
-
- 環境
-Windows10 Pro
-Houd...]]></summary>
-        <author>
-            <name>Hidetake Miyajima</name>
         </author>
     </entry>
 </feed>

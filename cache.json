@@ -2845,6 +2845,21 @@
       "siteUrl": "https://zenn.dev/topics/shader",
       "articles": [
         {
+          "id": "https://zenn.dev/suzuhiki/articles/d590d6642d758f",
+          "author": "すずひき",
+          "description": "はじめに\n3Dゲーム開発においてテクスチャ作成は手間がかかり、手っ取り早くシーンを作成する場合にネックになります。\nそこで、Tales of Ariseの表現を参考に、いい感じの質感を表現できるshader graphを作成したので共有します。\n\n 着想\nTales of Ariseは3DのRPGで、グラフィックに力が入っている作品です。\n特に、わずかにノイズが入ったようなshader表現はグラフィックの質に貢献していると思います。\n下に参考画像を用意しました。\n特に右手前の白っぽい柱の部分が分かりやすいのですが、ランダム性のある形をしたタイルの組み合わせで質感が表現されていることが...",
+          "link": "https://zenn.dev/suzuhiki/articles/d590d6642d758f",
+          "publishedOn": "2025-07-06T03:56:57.000Z",
+          "wordCount": 419,
+          "title": "Tales of Ariseを参考にしたタイルっぽいshaderで作るそれっぽい質感",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--47f-pELa--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Tales%2520of%2520Arise%25E3%2582%2592%25E5%258F%2582%25E8%2580%2583%25E3%2581%25AB%25E3%2581%2597%25E3%2581%259F%25E3%2582%25BF%25E3%2582%25A4%25E3%2583%25AB%25E3%2581%25A3%25E3%2581%25BD%25E3%2581%2584shader%25E3%2581%25A7%25E4%25BD%259C%25E3%2582%258B%25E3%2581%259D%25E3%2582%258C%25E3%2581%25A3%25E3%2581%25BD%25E3%2581%2584%25E8%25B3%25AA%25E6%2584%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%2599%25E3%2581%259A%25E3%2581%25B2%25E3%2581%258D%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzMzM2RkMzVhZjIuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png",
+            "length": "0",
+            "type": "image/png"
+          },
+          "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--47f-pELa--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Tales%2520of%2520Arise%25E3%2582%2592%25E5%258F%2582%25E8%2580%2583%25E3%2581%25AB%25E3%2581%2597%25E3%2581%259F%25E3%2582%25BF%25E3%2582%25A4%25E3%2583%25AB%25E3%2581%25A3%25E3%2581%25BD%25E3%2581%2584shader%25E3%2581%25A7%25E4%25BD%259C%25E3%2582%258B%25E3%2581%259D%25E3%2582%258C%25E3%2581%25A3%25E3%2581%25BD%25E3%2581%2584%25E8%25B3%25AA%25E6%2584%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%2599%25E3%2581%259A%25E3%2581%25B2%25E3%2581%258D%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzMzM2RkMzVhZjIuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
+        },
+        {
           "id": "https://zenn.dev/ebimonaca/articles/508462b7fb9594",
           "author": "ebimonaca",
           "description": "問題のコード\nusing System.Collections.Generic;\nusing UnityEngine;\n\npublic class Performance : MonoBehaviour\n{\n    public float speed = 0.1f;\n    public GameObject target;\n    List<GameObject> gameobjects = new List<GameObject>();\n    void Start()\n    {\n        for (int i = 0; i < 10000...",
@@ -3159,6 +3174,16 @@
       "siteUrl": "https://qiita.com",
       "articles": [
         {
+          "id": "https://qiita.com/pik/items/29683dfc5c6593b93b47",
+          "author": null,
+          "description": "Filter おさらい\n前回の記事で TEffect の実体は TFilter のラッパーのような役目であることを紹介しました。\n実際に効果を付与しているのは Filter です。\nそこで、今回は Filter そのものの作り方を紹介します。\nとはいえ解説が煩雑になったの...",
+          "link": "https://qiita.com/pik/items/29683dfc5c6593b93b47",
+          "publishedOn": "2025-07-06T11:30:00.000Z",
+          "wordCount": 4884,
+          "title": "[Delphi] Filter の作り方",
+          "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnFpaXRhLWltYWdlLXN0b3JlLnMzLmFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkYwJTJGMTI5NzclMkZwcm9maWxlLWltYWdlcyUyRjE1OTA4NTE1MTA_aXhsaWI9cmItNC4wLjAmYXI9MSUzQTEmZml0PWNyb3AmbWFzaz1lbGxpcHNlJmZtPXBuZzMyJnM9MjkwNWY5ZmMzNjhkNTFmMTVkNTdiMjM5N2ZjMGRjMWQ%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3Df3ea5e3661bfaa9b949a90d87cdfd3ea?ixlib=rb-4.0.0&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9JTVCRGVscGhpJTVEJTIwRmlsdGVyJTIwJUUzJTgxJUFFJUU0JUJEJTlDJUUzJTgyJThBJUU2JTk2JUI5JnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9ZmY3M2U2MTAwNDYxZjU4MmExNDJlMmM0YTMzYmY2NTk&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBwaWsmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz03NmE2MDNjZjk5Yzg4NmEyYWIxNTk5NDQ4YTlmMGJjZg&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=2d42e731d2d555977f68019869f89fd5"
+        },
+        {
           "id": "https://qiita.com/dsz1468288273/items/c87ef55f00af3997fbef",
           "author": null,
           "description": "はじめに\n前回、テクスチャを分析し、レンダーフィーチャーの準備作業を行い、環境光と直接光の両方を計算しました。次に、残りのRamp、ハイライト、リムライト、ストッキングを計算します。\n本記事はあくまで個人の学習記録であり、著作権等の問題があれば即削除いたします。内容に誤り...",
@@ -3268,6 +3293,16 @@
       "siteUrl": "https://qiita.com",
       "articles": [
         {
+          "id": "https://qiita.com/pik/items/29683dfc5c6593b93b47",
+          "author": null,
+          "description": "Filter おさらい\n前回の記事で TEffect の実体は TFilter のラッパーのような役目であることを紹介しました。\n実際に効果を付与しているのは Filter です。\nそこで、今回は Filter そのものの作り方を紹介します。\nとはいえ解説が煩雑になったの...",
+          "link": "https://qiita.com/pik/items/29683dfc5c6593b93b47",
+          "publishedOn": "2025-07-06T11:30:00.000Z",
+          "wordCount": 4888,
+          "title": "[Delphi] Filter の作り方",
+          "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnFpaXRhLWltYWdlLXN0b3JlLnMzLmFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkYwJTJGMTI5NzclMkZwcm9maWxlLWltYWdlcyUyRjE1OTA4NTE1MTA_aXhsaWI9cmItNC4wLjAmYXI9MSUzQTEmZml0PWNyb3AmbWFzaz1lbGxpcHNlJmZtPXBuZzMyJnM9MjkwNWY5ZmMzNjhkNTFmMTVkNTdiMjM5N2ZjMGRjMWQ%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3Df3ea5e3661bfaa9b949a90d87cdfd3ea?ixlib=rb-4.0.0&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9JTVCRGVscGhpJTVEJTIwRmlsdGVyJTIwJUUzJTgxJUFFJUU0JUJEJTlDJUUzJTgyJThBJUU2JTk2JUI5JnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9ZmY3M2U2MTAwNDYxZjU4MmExNDJlMmM0YTMzYmY2NTk&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBwaWsmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz03NmE2MDNjZjk5Yzg4NmEyYWIxNTk5NDQ4YTlmMGJjZg&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=2d42e731d2d555977f68019869f89fd5"
+        },
+        {
           "id": "https://qiita.com/dsz1468288273/items/c87ef55f00af3997fbef",
           "author": null,
           "description": "はじめに\n前回、テクスチャを分析し、レンダーフィーチャーの準備作業を行い、環境光と直接光の両方を計算しました。次に、残りのRamp、ハイライト、リムライト、ストッキングを計算します。\n本記事はあくまで個人の学習記録であり、著作権等の問題があれば即削除いたします。内容に誤り...",
@@ -3313,7 +3348,18 @@
       "title": "GLSLタグが付けられた新着記事 - Qiita",
       "feedUrl": "https://qiita.com/tags/glsl/feed",
       "siteUrl": "https://qiita.com",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://qiita.com/pik/items/29683dfc5c6593b93b47",
+          "author": null,
+          "description": "Filter おさらい\n前回の記事で TEffect の実体は TFilter のラッパーのような役目であることを紹介しました。\n実際に効果を付与しているのは Filter です。\nそこで、今回は Filter そのものの作り方を紹介します。\nとはいえ解説が煩雑になったの...",
+          "link": "https://qiita.com/pik/items/29683dfc5c6593b93b47",
+          "publishedOn": "2025-07-06T11:30:00.000Z",
+          "wordCount": 4884,
+          "title": "[Delphi] Filter の作り方",
+          "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnFpaXRhLWltYWdlLXN0b3JlLnMzLmFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkYwJTJGMTI5NzclMkZwcm9maWxlLWltYWdlcyUyRjE1OTA4NTE1MTA_aXhsaWI9cmItNC4wLjAmYXI9MSUzQTEmZml0PWNyb3AmbWFzaz1lbGxpcHNlJmZtPXBuZzMyJnM9MjkwNWY5ZmMzNjhkNTFmMTVkNTdiMjM5N2ZjMGRjMWQ%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3Df3ea5e3661bfaa9b949a90d87cdfd3ea?ixlib=rb-4.0.0&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9JTVCRGVscGhpJTVEJTIwRmlsdGVyJTIwJUUzJTgxJUFFJUU0JUJEJTlDJUUzJTgyJThBJUU2JTk2JUI5JnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9ZmY3M2U2MTAwNDYxZjU4MmExNDJlMmM0YTMzYmY2NTk&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBwaWsmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz03NmE2MDNjZjk5Yzg4NmEyYWIxNTk5NDQ4YTlmMGJjZg&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=2d42e731d2d555977f68019869f89fd5"
+        }
+      ]
     },
     {
       "title": "Zennの「HLSL」のフィード",

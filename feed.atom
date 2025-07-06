@@ -2,10 +2,52 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-07-06T08:13:26.298Z</updated>
+    <updated>2025-07-06T12:19:14.075Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[[Delphi] Filter の作り方]]></title>
+        <id>https://qiita.com/pik/items/29683dfc5c6593b93b47</id>
+        <link href="https://qiita.com/pik/items/29683dfc5c6593b93b47"/>
+        <updated>2025-07-06T11:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Filter おさらい
+前回の記事で TEffect の実体は TFilter のラッパーのような役目であることを紹介しました。
+実際に効果を付与しているのは Filter です。
+そこで、今回は Filter そのものの作り方を紹介します。
+とはいえ解説が煩雑になったの...]]></summary>
+        <author>
+            <name>Shaderタグが付けられた新着記事 - Qiita</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Delphi] Filter の作り方]]></title>
+        <id>https://qiita.com/pik/items/29683dfc5c6593b93b47</id>
+        <link href="https://qiita.com/pik/items/29683dfc5c6593b93b47"/>
+        <updated>2025-07-06T11:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Filter おさらい
+前回の記事で TEffect の実体は TFilter のラッパーのような役目であることを紹介しました。
+実際に効果を付与しているのは Filter です。
+そこで、今回は Filter そのものの作り方を紹介します。
+とはいえ解説が煩雑になったの...]]></summary>
+        <author>
+            <name>HLSLタグが付けられた新着記事 - Qiita</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Delphi] Filter の作り方]]></title>
+        <id>https://qiita.com/pik/items/29683dfc5c6593b93b47</id>
+        <link href="https://qiita.com/pik/items/29683dfc5c6593b93b47"/>
+        <updated>2025-07-06T11:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Filter おさらい
+前回の記事で TEffect の実体は TFilter のラッパーのような役目であることを紹介しました。
+実際に効果を付与しているのは Filter です。
+そこで、今回は Filter そのものの作り方を紹介します。
+とはいえ解説が煩雑になったの...]]></summary>
+        <author>
+            <name>GLSLタグが付けられた新着記事 - Qiita</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【無料アドオン紹介】Grid Layout – UVを重ねる＆並べるアドオン]]></title>
         <id>https://cgbox.jp/?p=63613</id>
@@ -14,6 +56,24 @@
         <summary type="html"><![CDATA[こんばんは！ 今回はアドオンの「Grid Layout」を紹介します。 こちらのリンクがアドオンの商品ページになります。 Grid Layout 「Grid Layout」は、UV展開の作業を効率化するためのツール集です […]]]></summary>
         <author>
             <name>kasahara</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tales of Ariseを参考にしたタイルっぽいshaderで作るそれっぽい質感]]></title>
+        <id>https://zenn.dev/suzuhiki/articles/d590d6642d758f</id>
+        <link href="https://zenn.dev/suzuhiki/articles/d590d6642d758f"/>
+        <updated>2025-07-06T03:56:57.000Z</updated>
+        <summary type="html"><![CDATA[はじめに
+3Dゲーム開発においてテクスチャ作成は手間がかかり、手っ取り早くシーンを作成する場合にネックになります。
+そこで、Tales of Ariseの表現を参考に、いい感じの質感を表現できるshader graphを作成したので共有します。
+
+ 着想
+Tales of Ariseは3DのRPGで、グラフィックに力が入っている作品です。
+特に、わずかにノイズが入ったようなshader表現はグラフィックの質に貢献していると思います。
+下に参考画像を用意しました。
+特に右手前の白っぽい柱の部分が分かりやすいのですが、ランダム性のある形をしたタイルの組み合わせで質感が表現されていることが...]]></summary>
+        <author>
+            <name>すずひき</name>
         </author>
     </entry>
     <entry>

@@ -2,10 +2,61 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-07-05T12:18:58.656Z</updated>
+    <updated>2025-07-06T01:00:47.465Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[VRChatのシェーダーで状態を持つ方法]]></title>
+        <id>https://zenn.dev/toru3/articles/e407322087baf1</id>
+        <link href="https://zenn.dev/toru3/articles/e407322087baf1"/>
+        <updated>2025-07-05T23:00:01.000Z</updated>
+        <summary type="html"><![CDATA[TL;DR
+https://phi16.hatenablog.com/entry/2023/09/25/235421
+を参考にやってみた記事なので特に新規性はありません。
+ただ、Unity初心者(≠プログラミング初心者)でも分かりやすいかなと思います。
+完成するものは以下のようになります。
+https://x.com/Toru31415926535/status/1941510078705828296
+
+ 準備
+ワールド自体の作り方はここでは説明しないので以下などを参考にして下さい。
+https://note.com/shimenin/n/na902379cf717
+また、普通のカス...]]></summary>
+        <author>
+            <name>Toru3</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MayaでPythonを使ってみよう！③～条件分岐～]]></title>
+        <id>https://zenn.dev/kazinos/articles/0d0d20e9e52551</id>
+        <link href="https://zenn.dev/kazinos/articles/0d0d20e9e52551"/>
+        <updated>2025-07-05T16:11:05.000Z</updated>
+        <summary type="html"><![CDATA[こんにちはkazinosです。
+前回、Pythonを扱う上で必要な「変数」「データ型」「計算方法」の簡単な説明と、
+cmdsをつかってオブジェクトの操作「生成」「取得」「情報の変更」を解説しました。
+とりあえず触ってみたいけど、どうしたらいいかわからない！という方は見てみてください。
+▼前回の記事「MayaでPythonを使ってみよう！②～object操作編～」
+https://zenn.dev/kazinos/articles/55494977b2c322
+今回は、「特定条件の場合、処理を変更する方法」について書いて行きます。
+
+ 環境
+Autodesk Maya2024.2
+※別のバ...]]></summary>
+        <author>
+            <name>kazinos</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Blender内でUVパッキング出来るPacker-IO 1.3がリリースされました！無料使用可能]]></title>
+        <id>https://modelinghappy.com/?p=63614</id>
+        <link href="https://modelinghappy.com/archives/63614"/>
+        <updated>2025-07-05T15:05:56.000Z</updated>
+        <summary type="html"><![CDATA[Packer-IO 1.3 Released Packer-IO 1.3 がリリースされました。BlenderにPacker-IOが統合された事により直接Blender内でUVパッキング出来るようになりました。 また、B
+The post Blender内でUVパッキング出来るPacker-IO 1.3がリリースされました！無料使用可能 first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
+        <author>
+            <name>modelinghappy</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Blenderを学べる人気コース30本が97%オフ！期間限定教育バンドル「Best Of Blender Education」が登場！]]></title>
         <id>https://cginterest.com/?p=47472</id>
@@ -3861,108 +3912,6 @@ The post 面とエッジを選択してモデルをぴったり別の場所に�
         <summary type="html"><![CDATA[こんばんは！ 今回はアドオンの「Cad_Dimensions」を紹介します。 こちらのリンクから購入することができます。 Cad_Dimensions 「Cad_Dimensions」は、BlenderでCADスタイルの […]]]></summary>
         <author>
             <name>kasahara</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Procedural Railway Generator - 藤田将氏によるBlenderのGeometry Nodesを活用したプロシージャル線路ジェネレーターがリリース！]]></title>
-        <id>https://3dnchu.com/?p=1055573</id>
-        <link href="https://3dnchu.com/archives/procedural-railway-generator/"/>
-        <updated>2025-06-06T10:40:01.000Z</updated>
-        <summary type="html"><![CDATA[藤田将氏（@noveldrum）がBlenderのGeometry Nodesで構築した線路ジェネレーター「Procedural Railway Generator」をリリースしました！]]></summary>
-        <author>
-            <name>Ymt3D -3dnchu-</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Draw-Polyline - マウスクリックでサクッ直感的にポリゴンラインを構築できる無料のBlenderアドオンが公開！]]></title>
-        <id>https://3dnchu.com/?p=1055563</id>
-        <link href="https://3dnchu.com/archives/draw-polyline/"/>
-        <updated>2025-06-06T08:26:22.000Z</updated>
-        <summary type="html"><![CDATA[ふぁにー氏（@Yos_ei3）によるマウスクリックで手軽にポリゴンラインを引く事ができるBlenderアドオン「Draw-Polyline」 が公開！]]></summary>
-        <author>
-            <name>Ymt3D -3dnchu-</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[#02【D5 Render】イラストや背景制作にも活用できるか？　Viz向けリアルタイムレンダラ - 連載]]></title>
-        <id>https://cgworld.jp/regular/202506-cgw322-tr02.html</id>
-        <link href="https://cgworld.jp/regular/202506-cgw322-tr02.html"/>
-        <updated>2025-06-06T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[建築業界で徐々に導入が増えてきているビジュアライゼーション（Viz）向けリアルタイムレンダラ、D5 Render。実は海外では、イラストや動画の背景制作に活用する例もあると言います。 そこで今回は、D5 Renderの機能がそういった制作にどう役立つのか、検証してみました。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Blenderで無料の椅子と装ってマルウェアが仕込まれているデータが配布されているので注意してください]]></title>
-        <id>https://modelinghappy.com/?p=63276</id>
-        <link href="https://modelinghappy.com/archives/63276"/>
-        <updated>2025-06-06T07:12:35.000Z</updated>
-        <summary type="html"><![CDATA[Warning: Malware Discovered In Blender File Circulating Online Blenderの無料の椅子モデルを装ってDisocrd、Gmail、Fiverr経由で無料配布
-The post Blenderで無料の椅子と装ってマルウェアが仕込まれているデータが配布されているので注意してください first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
-        <author>
-            <name>modelinghappy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ワコムが6/26（木）に進化した液晶ペンタブレット「Wacom Cintiq」最新モデルを発売。描き心地と集中しやすさを追求した16型と23.8型の3モデルが登場 - ニュース]]></title>
-        <id>https://cgworld.jp/flashnews/02-2506-wacom-cintiq.html</id>
-        <link href="https://cgworld.jp/flashnews/02-2506-wacom-cintiq.html"/>
-        <updated>2025-06-06T06:18:26.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【アドオン紹介】Uniform Subdivide – UVを維持したまま細分化！]]></title>
-        <id>https://cgbox.jp/?p=63392</id>
-        <link href="https://cgbox.jp/2025/06/06/news-addon-uniform-subdivide/"/>
-        <updated>2025-06-06T03:24:54.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは！ 今回はアドオンの「Uniform Subdivide」を紹介します。 こちらのリンクから購入することができます。 Uniform Subdivide 「Uniform Subdivide」は、Blender […]]]></summary>
-        <author>
-            <name>kasahara</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【BenQ】Mayaでの作業とゲーム機での確認が1台で可能。セガのモーションデザイナーが感じた「PD3226G」の魅力 - スペシャルコンテンツ]]></title>
-        <id>https://cgworld.jp/special-feature/202506-BenQ-PD3226G-SEGA.html</id>
-        <link href="https://cgworld.jp/special-feature/202506-BenQ-PD3226G-SEGA.html"/>
-        <updated>2025-06-06T02:35:00.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[立体機動装置を駆使し巨人を倒せ！ 『進撃の巨人』の世界をVRで追体験『進撃の巨人VR: Unbreakable』 - 特集]]></title>
-        <id>https://cgworld.jp/article/202506-cgw321-aotvr.html</id>
-        <link href="https://cgworld.jp/article/202506-cgw321-aotvr.html"/>
-        <updated>2025-06-06T02:33:00.000Z</updated>
-        <summary type="html"><![CDATA[『進撃の巨人VR: Unbreakable』のゲームCGメイキングを紹介。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MetaHuman で作られた リアルなデジタルヒューマンたち。MetaHuman シズル リール]]></title>
-        <id>https://3dtotal.jp/?p=51521</id>
-        <link href="https://3dtotal.jp/news/51521/"/>
-        <updated>2025-06-06T01:39:58.000Z</updated>
-        <summary type="html"><![CDATA[★MetaHuman Sizzle Reel（1分30秒） ★MetaHuman シズル リール（1分29秒） この動画では、Unreal Fest 2025 で公開された、ゲーム開発コミュニティやさまざまな分野のクリエ […]
-The post MetaHuman で作られた リアルなデジタルヒューマンたち。MetaHuman シズル リール first appeared on 3dtotal 日本語オフィシャルサイト.]]></summary>
-        <author>
-            <name>3dtotal管理人T</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【注意】Blenderファイル（.blend）にマルウェア混入の報告！オンライン配布データに注意！]]></title>
-        <id>https://3dnchu.com/?p=1055543</id>
-        <link href="https://3dnchu.com/archives/warning-malware-blender-file/"/>
-        <updated>2025-06-06T00:47:48.000Z</updated>
-        <summary type="html"><![CDATA[海外フォーラムRedditと情報サイトで80LVで、マルウェアが仕込まれたBlenderファイルが出回っているとの注意喚起がされました。]]></summary>
-        <author>
-            <name>Ymt3D -3dnchu-</name>
         </author>
     </entry>
 </feed>

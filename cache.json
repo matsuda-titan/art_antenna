@@ -472,6 +472,36 @@
       "siteUrl": "https://3dnchu.com",
       "articles": [
         {
+          "id": "https://3dnchu.com/?p=1056484",
+          "author": "Ymt3D -3dnchu-",
+          "description": "インディゲームデベロッパーのBubblebird Studioによるオープンソースのノイズテクスチャ生成ツール「Online Noise Generation Tool」が公開されています！",
+          "link": "https://3dnchu.com/archives/online-noise-generation-tool/",
+          "publishedOn": "2025-07-07T06:18:28.000Z",
+          "wordCount": 8794,
+          "title": "Online Noise Generation Tool - ブラウザ上で動作するオープンソースのノイズテクスチャ生成ツール！",
+          "enclosure": {
+            "url": "https://3dnchu.com/wp-content/uploads/Online-Noise-Generation-Tool.mp4",
+            "length": "2628317",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://3dnchu.com/wp-content/uploads/Online-Noise-Generation-Tool.webp"
+        },
+        {
+          "id": "https://3dnchu.com/?p=1056456",
+          "author": "Ymt3D -3dnchu-",
+          "description": "keKITなどのBlenderアドオンでお馴染みKjell Emanuelsson氏による、レンダリングパスシステムを利用したベイク用の無料Blenderアドオン！「keWT（ke World Texture）」がいろいろとUpdateされていました。",
+          "link": "https://3dnchu.com/archives/kewt-v2-0/",
+          "publishedOn": "2025-07-07T04:41:56.000Z",
+          "wordCount": 8825,
+          "title": "keWT v2.0 - レンダリングパスシステムを活用しPBRテクスチャ素材を制作できる無料のベイクツールセットBlenderアドオン！完全に書き換えられた最新版！",
+          "enclosure": {
+            "url": "https://3dnchu.com/wp-content/uploads/keWT-Render-Pass-Baking-for-Blender.webp",
+            "length": "51882",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://3dnchu.com/wp-content/uploads/keWT-Render-Pass-Baking-for-Blender.webp"
+        },
+        {
           "id": "https://3dnchu.com/?p=1056458",
           "author": "Ymt3D -3dnchu-",
           "description": "Ahmed Essam氏がによる、メッシュベースのモーショントラッキングBlenderアドオン「Polychase v0.0.4」がBlender extensionsのレビュー待ちに登場していました。",
@@ -2081,6 +2111,16 @@
       "siteUrl": "https://modelinghappy.com",
       "articles": [
         {
+          "id": "https://modelinghappy.com/?p=63638",
+          "author": "modelinghappy",
+          "description": "Rigflow RigflowはBlenderでキャラクター等にボーンを配置したいモデル部分をなぞるとモデルの中心にボーンが配置されるアドオンです。キャラクターの腕や指をなぞるだけで自動的にボーンを連続して複数配置する事\nThe post Rigflow モデルをなぞるだけで連続してボーンを配置出来るBlender用アドオン first appeared on 3DCG最新情報サイト MODELING HAPPY.",
+          "link": "https://modelinghappy.com/archives/63638",
+          "publishedOn": "2025-07-07T06:05:08.000Z",
+          "wordCount": 3435,
+          "title": "Rigflow モデルをなぞるだけで連続してボーンを配置出来るBlender用アドオン",
+          "imageUrl": "https://modelinghappy.com/wp-content/uploads/2025/07/20250707_rigflow_01.jpg"
+        },
+        {
           "id": "https://modelinghappy.com/?p=63630",
           "author": "modelinghappy",
           "description": "Grid Layout Grid LayoutはBlenderでUVのUDIMを整理するのに便利な機能が入ったアドオンです。 UVをUDIMに綺麗に収まるように整理して複数配置され、一杯になった場合は次の上の段に配置して\nThe post Grid Layout BlenderでUVのUDIMを綺麗に収まるように整列、シフト移動、選択、UVの比率を合わせる機能が備わった無料アドオン first appeared on 3DCG最新情報サイト MODELING HAPPY.",
@@ -2467,6 +2507,16 @@
       "feedUrl": "https://3dtotal.jp/feed/",
       "siteUrl": "https://3dtotal.jp",
       "articles": [
+        {
+          "id": "https://3dtotal.jp/?p=51964",
+          "author": "3dtotal管理人T",
+          "description": "★Expedition 33 | Sandfall Interactive | Houdini Connect（3分21秒） Sandfall Interactive のテクニカルアーティスト Alexandre Bre […]\nThe post Houdini 使用事例： ゲーム『Expedition 33』- Sandfall Interactive first appeared on 3dtotal 日本語オフィシャルサイト.",
+          "link": "https://3dtotal.jp/news/51964/",
+          "publishedOn": "2025-07-07T05:17:52.000Z",
+          "wordCount": 601,
+          "title": "Houdini 使用事例： ゲーム『Expedition 33』- Sandfall Interactive",
+          "imageUrl": "https://3dtotal.jp/wp-content/uploads/2025/07/expedition33_hconnect.jpg"
+        },
         {
           "id": "https://3dtotal.jp/?p=51954",
           "author": "3dtotal管理人T",
@@ -3114,6 +3164,21 @@
       "siteUrl": "https://zenn.dev/topics/maya",
       "articles": [
         {
+          "id": "https://zenn.dev/hph/articles/rendersetup2",
+          "author": "wef",
+          "description": "Maya rendersetup メモ2\nrendersetupを追加で触ったので、前回書きそびれてたやつも含めてメモ\n前回: https://zenn.dev/hph/articles/ddcf4a9a62229e\n\n pythonでの操作\nそのままコピペしても、rsインスタンスやlayerなどは未定義状態の可能性があるので前回とかを参照して変数は作っておいてください。\n\n 辞書形式の rendersetup のレイヤーを出力\nencode() でrendersetupを辞書で出力できるので、そこからlayerを取得する。\nこれを取得したらよしなにJSONで保存すればOK。\nrs....",
+          "link": "https://zenn.dev/hph/articles/rendersetup2",
+          "publishedOn": "2025-07-07T05:16:26.000Z",
+          "wordCount": 749,
+          "title": "Maya rendersetup メモ2",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--HGJwLmvy--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_72:Maya%2520rendersetup%2520%25E3%2583%25A1%25E3%2583%25A22%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:wef%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzU5ODIxOWUzN2MuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png",
+            "length": "0",
+            "type": "image/png"
+          },
+          "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--HGJwLmvy--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_72:Maya%2520rendersetup%2520%25E3%2583%25A1%25E3%2583%25A22%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:wef%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzU5ODIxOWUzN2MuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
+        },
+        {
           "id": "https://zenn.dev/kazinos/articles/0d0d20e9e52551",
           "author": "kazinos",
           "description": "こんにちはkazinosです。\n前回、Pythonを扱う上で必要な「変数」「データ型」「計算方法」の簡単な説明と、\ncmdsをつかってオブジェクトの操作「生成」「取得」「情報の変更」を解説しました。\nとりあえず触ってみたいけど、どうしたらいいかわからない！という方は見てみてください。\n▼前回の記事「MayaでPythonを使ってみよう！②～object操作編～」\nhttps://zenn.dev/kazinos/articles/55494977b2c322\n今回は、「特定条件の場合、処理を変更する方法」について書いて行きます。\n\n 環境\nAutodesk Maya2024.2\n※別のバ...",
@@ -3196,7 +3261,7 @@
       "articles": []
     },
     {
-      "title": "Zennの「substancedesigner」のフィード",
+      "title": "Zennの「Substance Designer」のフィード",
       "feedUrl": "https://zenn.dev/topics/substancedesigner/feed",
       "siteUrl": "https://zenn.dev/topics/substancedesigner",
       "articles": []

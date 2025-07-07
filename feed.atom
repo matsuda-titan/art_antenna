@@ -2,10 +2,72 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-07-07T03:51:07.596Z</updated>
+    <updated>2025-07-07T08:17:07.541Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Online Noise Generation Tool - ブラウザ上で動作するオープンソースのノイズテクスチャ生成ツール！]]></title>
+        <id>https://3dnchu.com/?p=1056484</id>
+        <link href="https://3dnchu.com/archives/online-noise-generation-tool/"/>
+        <updated>2025-07-07T06:18:28.000Z</updated>
+        <summary type="html"><![CDATA[インディゲームデベロッパーのBubblebird Studioによるオープンソースのノイズテクスチャ生成ツール「Online Noise Generation Tool」が公開されています！]]></summary>
+        <author>
+            <name>Ymt3D -3dnchu-</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rigflow モデルをなぞるだけで連続してボーンを配置出来るBlender用アドオン]]></title>
+        <id>https://modelinghappy.com/?p=63638</id>
+        <link href="https://modelinghappy.com/archives/63638"/>
+        <updated>2025-07-07T06:05:08.000Z</updated>
+        <summary type="html"><![CDATA[Rigflow RigflowはBlenderでキャラクター等にボーンを配置したいモデル部分をなぞるとモデルの中心にボーンが配置されるアドオンです。キャラクターの腕や指をなぞるだけで自動的にボーンを連続して複数配置する事
+The post Rigflow モデルをなぞるだけで連続してボーンを配置出来るBlender用アドオン first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
+        <author>
+            <name>modelinghappy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Houdini 使用事例： ゲーム『Expedition 33』- Sandfall Interactive]]></title>
+        <id>https://3dtotal.jp/?p=51964</id>
+        <link href="https://3dtotal.jp/news/51964/"/>
+        <updated>2025-07-07T05:17:52.000Z</updated>
+        <summary type="html"><![CDATA[★Expedition 33 | Sandfall Interactive | Houdini Connect（3分21秒） Sandfall Interactive のテクニカルアーティスト Alexandre Bre […]
+The post Houdini 使用事例： ゲーム『Expedition 33』- Sandfall Interactive first appeared on 3dtotal 日本語オフィシャルサイト.]]></summary>
+        <author>
+            <name>3dtotal管理人T</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Maya rendersetup メモ2]]></title>
+        <id>https://zenn.dev/hph/articles/rendersetup2</id>
+        <link href="https://zenn.dev/hph/articles/rendersetup2"/>
+        <updated>2025-07-07T05:16:26.000Z</updated>
+        <summary type="html"><![CDATA[Maya rendersetup メモ2
+rendersetupを追加で触ったので、前回書きそびれてたやつも含めてメモ
+前回: https://zenn.dev/hph/articles/ddcf4a9a62229e
+
+ pythonでの操作
+そのままコピペしても、rsインスタンスやlayerなどは未定義状態の可能性があるので前回とかを参照して変数は作っておいてください。
+
+ 辞書形式の rendersetup のレイヤーを出力
+encode() でrendersetupを辞書で出力できるので、そこからlayerを取得する。
+これを取得したらよしなにJSONで保存すればOK。
+rs....]]></summary>
+        <author>
+            <name>wef</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[keWT v2.0 - レンダリングパスシステムを活用しPBRテクスチャ素材を制作できる無料のベイクツールセットBlenderアドオン！完全に書き換えられた最新版！]]></title>
+        <id>https://3dnchu.com/?p=1056456</id>
+        <link href="https://3dnchu.com/archives/kewt-v2-0/"/>
+        <updated>2025-07-07T04:41:56.000Z</updated>
+        <summary type="html"><![CDATA[keKITなどのBlenderアドオンでお馴染みKjell Emanuelsson氏による、レンダリングパスシステムを利用したベイク用の無料Blenderアドオン！「keWT（ke World Texture）」がいろいろとUpdateされていました。]]></summary>
+        <author>
+            <name>Ymt3D -3dnchu-</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Polychase v0.0.4 - KeenTools GeoTracker にインスピレーションを得たメッシュベースのモーショントラッキングBlenderアドオンが開発中！オープンソース＆無料！]]></title>
         <id>https://3dnchu.com/?p=1056458</id>

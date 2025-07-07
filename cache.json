@@ -430,21 +430,6 @@
             "type": "video/mp4"
           },
           "imageUrl": "https://cgbox.jp/wp-content/uploads/2025/06/image_processing20250602-2-jnpstf.jpg"
-        },
-        {
-          "id": "https://cgbox.jp/?p=63396",
-          "author": "kasahara",
-          "description": "こんばんは！ 今回はアドオンの「Cad_Dimensions」を紹介します。 こちらのリンクから購入することができます。 Cad_Dimensions 「Cad_Dimensions」は、BlenderでCADスタイルの […]",
-          "link": "https://cgbox.jp/2025/06/07/news-addon-cad_dimensions/",
-          "publishedOn": "2025-06-07T03:03:33.000Z",
-          "wordCount": 2227,
-          "title": "【無料アドオン】Cad_Dimensions – CADのようにXYZ軸で長さを測定！",
-          "enclosure": {
-            "url": "https://cgbox.jp/wp-content/uploads/2025/06/ezgif-48db3d5ee8c1d8_4-1.mp4",
-            "length": "0",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://cgbox.jp/wp-content/uploads/2025/06/42fcae5804f60bda4727133ce522b2695c913976715d3ddef186f28169d8a877_640x360.webp"
         }
       ]
     },
@@ -486,6 +471,36 @@
       "feedUrl": "https://3dnchu.com/feed/",
       "siteUrl": "https://3dnchu.com",
       "articles": [
+        {
+          "id": "https://3dnchu.com/?p=1056446",
+          "author": "Ymt3D -3dnchu-",
+          "description": "Polycount氏による手軽に絵画風エフェクトを追加できるBlender用Geometry Nodesモディファイア「Painterly Modifier」が公開されています！！",
+          "link": "https://3dnchu.com/archives/painterly-modifier/",
+          "publishedOn": "2025-07-06T17:39:10.000Z",
+          "wordCount": 8832,
+          "title": "Painterly Modifier - 手軽に絵画風エフェクトを追加できるBlender用Geometry Nodesモディファイア！",
+          "enclosure": {
+            "url": "https://3dnchu.com/wp-content/uploads/Painterly-Modifier.webp",
+            "length": "280150",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://3dnchu.com/wp-content/uploads/Painterly-Modifier.webp"
+        },
+        {
+          "id": "https://3dnchu.com/?p=1056425",
+          "author": "Ymt3D -3dnchu-",
+          "description": "AIによる3Dメッシュ生成技術「SPARC3D」の公式サービスサイト「Hitem3D」がアップデートでテクスチャ生成やFBX出力＆日本語表記に対応しました！",
+          "link": "https://3dnchu.com/archives/hitem3d-update-25july/",
+          "publishedOn": "2025-07-06T16:12:14.000Z",
+          "wordCount": 8981,
+          "title": "Hitem3D - 高精度な3Dモデル生成が可能なサービス！テクスチャ付き生成やFBX出力＆日本語表記に対応！",
+          "enclosure": {
+            "url": "https://3dnchu.com/wp-content/uploads/Hitem3D-Update.webp",
+            "length": "619774",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://3dnchu.com/wp-content/uploads/Hitem3D-Update.webp"
+        },
         {
           "id": "https://3dnchu.com/?p=1056405",
           "author": "Ymt3D -3dnchu-",
@@ -1138,6 +1153,26 @@
       "feedUrl": "https://cgworld.jp/atom.xml",
       "siteUrl": "https://cgworld.jp/",
       "articles": [
+        {
+          "id": "https://cgworld.jp/regular/202507-tipsnote.html",
+          "author": null,
+          "description": "今回はPhotoshop 2025から新機能で「ダイナミックテキスト」をご紹介します。",
+          "link": "https://cgworld.jp/regular/202507-tipsnote.html",
+          "publishedOn": "2025-07-07T01:00:00.000Z",
+          "wordCount": 721,
+          "title": "【Photoshop 2025】特定のエリア内に複数行のテキストが収まるよう自動的に調整できる「ダイナミックテキスト」 - 連載",
+          "imageUrl": "https://cgworld.jp/regular/assets_c/2025/07/Tipsnote-photo-2025189-thumb-800x445-71050.png"
+        },
+        {
+          "id": "https://cgworld.jp/flashnews/01-202507-Oakley-Meta-HSTN.html",
+          "author": null,
+          "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
+          "link": "https://cgworld.jp/flashnews/01-202507-Oakley-Meta-HSTN.html",
+          "publishedOn": "2025-07-06T23:08:31.000Z",
+          "wordCount": 750,
+          "title": "Meta×OakleyのAIスマートグラス「Oakley Meta HSTN」発売！　Meta AI搭載、高解像度カメラ、IPX4防水、オープンイヤースピーカー - ニュース",
+          "imageUrl": "https://cgworld.jp/flashnews/assets_c/2025/07/Oakley_Meta_HSTN-01-thumb-1080x608-71163.jpg"
+        },
         {
           "id": "https://cgworld.jp/flashnews/823blender.html",
           "author": null,
@@ -2030,6 +2065,26 @@
       "feedUrl": "https://modelinghappy.com/feed",
       "siteUrl": "https://modelinghappy.com",
       "articles": [
+        {
+          "id": "https://modelinghappy.com/?p=63630",
+          "author": "modelinghappy",
+          "description": "Grid Layout Grid LayoutはBlenderでUVのUDIMを整理するのに便利な機能が入ったアドオンです。 UVをUDIMに綺麗に収まるように整理して複数配置され、一杯になった場合は次の上の段に配置して\nThe post Grid Layout BlenderでUVのUDIMを綺麗に収まるように整列、シフト移動、選択、UVの比率を合わせる機能が備わった無料アドオン first appeared on 3DCG最新情報サイト MODELING HAPPY.",
+          "link": "https://modelinghappy.com/archives/63630",
+          "publishedOn": "2025-07-06T23:49:14.000Z",
+          "wordCount": 3449,
+          "title": "Grid Layout BlenderでUVのUDIMを綺麗に収まるように整列、シフト移動、選択、UVの比率を合わせる機能が備わった無料アドオン",
+          "imageUrl": "https://modelinghappy.com/wp-content/uploads/2025/07/20250707_gridLayout_01.jpg"
+        },
+        {
+          "id": "https://modelinghappy.com/?p=63626",
+          "author": "modelinghappy",
+          "description": "NoiseGenerator オンライン上で無料で誰でもノイズを作成出来るジェネレーターNoiseGeneratorが公開されています。 解像度は8~1024まで変更可能でRondom、Perline、Voronoiから\nThe post NoiseGenerator WEB上からノイズを作成出来る無料使用可能なノイズジェネレーター first appeared on 3DCG最新情報サイト MODELING HAPPY.",
+          "link": "https://modelinghappy.com/archives/63626",
+          "publishedOn": "2025-07-06T22:52:06.000Z",
+          "wordCount": 3422,
+          "title": "NoiseGenerator WEB上からノイズを作成出来る無料使用可能なノイズジェネレーター",
+          "imageUrl": "https://modelinghappy.com/wp-content/uploads/2025/07/20250707_NoiseGenerator_01.jpg"
+        },
         {
           "id": "https://modelinghappy.com/?p=63617",
           "author": "modelinghappy",
@@ -2948,6 +3003,21 @@
       "feedUrl": "https://zenn.dev/topics/shadergraph/feed",
       "siteUrl": "https://zenn.dev/topics/shadergraph",
       "articles": [
+        {
+          "id": "https://zenn.dev/suzuhiki/articles/d590d6642d758f",
+          "author": "すずひき",
+          "description": "はじめに\n3Dゲーム開発においてテクスチャ作成は手間がかかり、手っ取り早くシーンを作成する場合にネックになります。\nそこで、Tales of Ariseの表現を参考に、いい感じの質感を表現できるshader graphを作成したので共有します。\n\n 着想\nTales of Ariseは3DのRPGで、グラフィックに力が入っている作品です。\n特に、わずかにノイズが入ったようなshader表現はグラフィックの質に貢献していると思います。\n下に参考画像を用意しました。\n特に右手前の白っぽい柱の部分が分かりやすいのですが、ランダム性のある形をしたタイルの組み合わせで質感が表現されていることが...",
+          "link": "https://zenn.dev/suzuhiki/articles/d590d6642d758f",
+          "publishedOn": "2025-07-06T03:56:57.000Z",
+          "wordCount": null,
+          "title": "Tales of Ariseを参考にしたタイルっぽいshaderで作るそれっぽい質感",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--47f-pELa--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Tales%2520of%2520Arise%25E3%2582%2592%25E5%258F%2582%25E8%2580%2583%25E3%2581%25AB%25E3%2581%2597%25E3%2581%259F%25E3%2582%25BF%25E3%2582%25A4%25E3%2583%25AB%25E3%2581%25A3%25E3%2581%25BD%25E3%2581%2584shader%25E3%2581%25A7%25E4%25BD%259C%25E3%2582%258B%25E3%2581%259D%25E3%2582%258C%25E3%2581%25A3%25E3%2581%25BD%25E3%2581%2584%25E8%25B3%25AA%25E6%2584%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%2599%25E3%2581%259A%25E3%2581%25B2%25E3%2581%258D%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzMzM2RkMzVhZjIuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png",
+            "length": "0",
+            "type": "image/png"
+          },
+          "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--47f-pELa--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Tales%2520of%2520Arise%25E3%2582%2592%25E5%258F%2582%25E8%2580%2583%25E3%2581%25AB%25E3%2581%2597%25E3%2581%259F%25E3%2582%25BF%25E3%2582%25A4%25E3%2583%25AB%25E3%2581%25A3%25E3%2581%25BD%25E3%2581%2584shader%25E3%2581%25A7%25E4%25BD%259C%25E3%2582%258B%25E3%2581%259D%25E3%2582%258C%25E3%2581%25A3%25E3%2581%25BD%25E3%2581%2584%25E8%25B3%25AA%25E6%2584%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%2599%25E3%2581%259A%25E3%2581%25B2%25E3%2581%258D%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzMzM2RkMzVhZjIuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
+        },
         {
           "id": "https://zenn.dev/kaibaoke/articles/art14_concentrate_line_for_vr",
           "author": "Kaiba",

@@ -2162,16 +2162,6 @@
           "wordCount": 730,
           "title": "ピラミッドフィルムによる初の全AI映画作品であり、串田壮史監督の最新作の『ラストドリーム』第29回プチョン国際ファンタスティック映画祭にてワールドプレミア決定！ - ニュース",
           "imageUrl": "https://cgworld.jp/flashnews/assets_c/2025/06/2506_lastdream_main-thumb-1000x563-70169.jpg"
-        },
-        {
-          "id": "https://cgworld.jp/flashnews/01-202506-Kling-21.html",
-          "author": null,
-          "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
-          "link": "https://cgworld.jp/flashnews/01-202506-Kling-21.html",
-          "publishedOn": "2025-06-10T21:26:28.000Z",
-          "wordCount": 873,
-          "title": "動画生成AI「Kling 2.1」リリース！　1080p対応、ビジュアル品質や動きのダイナミクス、プロンプトの忠実性が向上 - ニュース",
-          "imageUrl": "https://cgworld.jp/flashnews/assets_c/2025/06/Klling21-01-thumb-1080x607-70160.jpg"
         }
       ]
     },
@@ -3211,21 +3201,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--jfcNKnSK--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2580%2590Unity%2520%252F%2520SRP%2520Batcher%25E3%2580%2591CBUFFER%25E5%25A4%2596%25E3%2583%2591%25E3%2583%25A9%25E3%2583%25A1%25E3%2583%25BC%25E3%2582%25BF%25E3%2581%25AB%25E3%2582%2588%25E3%2582%258B%25E6%258F%258F%25E7%2594%25BB%25E5%25B4%25A9%25E3%2582%258C%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%258B%25E3%2582%2582%25E3%2581%259D%25E3%2581%25B0%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzBkZmM3ODFiOTQuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
-        },
-        {
-          "id": "https://zenn.dev/r_ngtm/articles/unity-reduce-constantbuffer",
-          "author": "かもそば",
-          "description": "環境\nUnity6000.1.6f1\nUniversal RP 17.1.0\nXCode 16.3 (16E140)\niPhoneX (iOS)\n\n はじめに\nシェーダーのConstantBuffer(CBUFFER)は自分で定義することができます。\nCBUFFER_START(MyCustomLight)  \nfloat4 _DirectionalLightColor;  \nfloat3 _DirectionalLightDirection;  \nCBUFFER_END  \nそして、CBUFFERを定義しておくことで、C#から複数のデータをまとめて渡すことができます。\nprivat...",
-          "link": "https://zenn.dev/r_ngtm/articles/unity-reduce-constantbuffer",
-          "publishedOn": "2025-06-11T00:16:02.000Z",
-          "wordCount": 2327,
-          "title": "【Unity / iOS】シェーダーのConstantBufferを自作する",
-          "enclosure": {
-            "url": "https://res.cloudinary.com/zenn/image/upload/s--mpB8WPzD--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2580%2590Unity%2520%252F%2520iOS%25E3%2580%2591%25E3%2582%25B7%25E3%2582%25A7%25E3%2583%25BC%25E3%2583%2580%25E3%2583%25BC%25E3%2581%25AEConstantBuffer%25E3%2582%2592%25E8%2587%25AA%25E4%25BD%259C%25E3%2581%2599%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%258B%25E3%2582%2582%25E3%2581%259D%25E3%2581%25B0%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzBkZmM3ODFiOTQuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png",
-            "length": "0",
-            "type": "image/png"
-          },
-          "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--mpB8WPzD--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2580%2590Unity%2520%252F%2520iOS%25E3%2580%2591%25E3%2582%25B7%25E3%2582%25A7%25E3%2583%25BC%25E3%2583%2580%25E3%2583%25BC%25E3%2581%25AEConstantBuffer%25E3%2582%2592%25E8%2587%25AA%25E4%25BD%259C%25E3%2581%2599%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%258B%25E3%2582%2582%25E3%2581%259D%25E3%2581%25B0%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzBkZmM3ODFiOTQuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
         }
       ]
     },

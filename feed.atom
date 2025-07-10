@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-07-10T08:16:10.729Z</updated>
+    <updated>2025-07-10T12:22:06.698Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
@@ -4282,39 +4282,6 @@ Topaz lab、最大4Kの解像度にアップスケール可能な動画向けク
         <summary type="html"><![CDATA[Nino DefoQによるBlender向けの物理制御可能なヘアー＆ファーライブラリー「StrandKit | The Hair Fur & Dynamics Library」が登場！]]></summary>
         <author>
             <name>Ymt3D -3dnchu-</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【Unity / iOS】シェーダーのConstantBufferを自作する]]></title>
-        <id>https://zenn.dev/r_ngtm/articles/unity-reduce-constantbuffer</id>
-        <link href="https://zenn.dev/r_ngtm/articles/unity-reduce-constantbuffer"/>
-        <updated>2025-06-11T00:16:02.000Z</updated>
-        <summary type="html"><![CDATA[環境
-Unity6000.1.6f1
-Universal RP 17.1.0
-XCode 16.3 (16E140)
-iPhoneX (iOS)
-
- はじめに
-シェーダーのConstantBuffer(CBUFFER)は自分で定義することができます。
-CBUFFER_START(MyCustomLight)  
-float4 _DirectionalLightColor;  
-float3 _DirectionalLightDirection;  
-CBUFFER_END  
-そして、CBUFFERを定義しておくことで、C#から複数のデータをまとめて渡すことができます。
-privat...]]></summary>
-        <author>
-            <name>かもそば</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[動画生成AI「Kling 2.1」リリース！　1080p対応、ビジュアル品質や動きのダイナミクス、プロンプトの忠実性が向上 - ニュース]]></title>
-        <id>https://cgworld.jp/flashnews/01-202506-Kling-21.html</id>
-        <link href="https://cgworld.jp/flashnews/01-202506-Kling-21.html"/>
-        <updated>2025-06-10T21:26:28.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
         </author>
     </entry>
 </feed>

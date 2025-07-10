@@ -12,6 +12,21 @@
       "siteUrl": "https://cgbox.jp",
       "articles": [
         {
+          "id": "https://cgbox.jp/?p=63636",
+          "author": "kasahara",
+          "description": "こんばんは！ 今回はアドオンの「Creature Kitbash」を紹介します。 こちらのリンクがアドオンの商品ページになります。 Creature Kitbash 「Creature Kitbash」は、虫やエイリアン […]",
+          "link": "https://cgbox.jp/2025/07/10/news-addon-creature-kitbash/",
+          "publishedOn": "2025-07-10T04:02:49.000Z",
+          "wordCount": 2283,
+          "title": "【アドオン紹介】Creature Kitbash – パーツごとに分かれたクリーチャーアセットパック！",
+          "enclosure": {
+            "url": "https://cgbox.jp/wp-content/uploads/2025/07/ezgif-48db3d5ee8c1d8_31.mp4",
+            "length": "0",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://cgbox.jp/wp-content/uploads/2025/07/image_processing20250709-2-b8qttc.jpg"
+        },
+        {
           "id": "https://cgbox.jp/?p=63631",
           "author": "kasahara",
           "description": "こんばんは！ 今回はアドオンの「Tear Cards Generator」を紹介します。 こちらのリンクがアドオンの商品ページになります。 Tear Cards Generator 「Tear Cards Generat […]",
@@ -1309,6 +1324,16 @@
       "siteUrl": "https://cgworld.jp/",
       "articles": [
         {
+          "id": "https://cgworld.jp/flashnews/vicon-motioncapture-202510.html",
+          "author": null,
+          "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
+          "link": "https://cgworld.jp/flashnews/vicon-motioncapture-202510.html",
+          "publishedOn": "2025-07-10T06:12:11.000Z",
+          "wordCount": 726,
+          "title": "需要が高まるモーションキャプチャ人材を育成する！モーションキャプチャ・スペシャリスト養成講座が10月より開催 - ニュース",
+          "imageUrl": "https://cgworld.jp/flashnews/assets_c/2025/07/vicon_main-thumb-1920x1080-71251.jpg"
+        },
+        {
           "id": "https://cgworld.jp/flashnews/cgworld-324-present.html",
           "author": null,
           "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
@@ -2193,7 +2218,18 @@
       "title": "SPARKCREATIVE Tech Blog",
       "feedUrl": "https://tech.spark-creative.co.jp/feed",
       "siteUrl": "https://tech.spark-creative.co.jp/",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://tech.spark-creative.co.jp/entry/2025/07/10/141204",
+          "author": null,
+          "description": "初めに 前提 LODとは 本題 なぜエンジン改造か 実装 コンポーネントのフラグ作成 RenderThreadで使うProxyに値渡し LODの強制 デバック 見た目 処理負荷 終わり 初めに はじめまして、クライアントエンジニアの下野です。去年入社の新卒ですが、バタバタしてたらブログ公開前にもう1年経っていました。時の流れは速いです。今回はUE5の負荷最適化として、影のLODを指定値にする処理を行います。 前提 エンジンのバージョンは5.6です。バージョンによってはコードが変わったり増えたり減ったりするので完全にコードを一致させても動かない場合があります。（一応5.4では動確してます）Nan…",
+          "link": "https://tech.spark-creative.co.jp/entry/2025/07/10/141204",
+          "publishedOn": "2025-07-10T05:12:04.000Z",
+          "wordCount": 413,
+          "title": "【UE5】影のLODを最低値にするエンジン改造",
+          "imageUrl": "https://cdn.image.st-hatena.com/image/scale/166ddeada878b124dfb5d9df36a68b35e5397157/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fs%2Fspark-shimono-ryota%2F20250624%2F20250624140511.png"
+        }
+      ]
     },
     {
       "title": "3DCG最新情報サイト MODELING HAPPY",

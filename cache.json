@@ -12,6 +12,21 @@
       "siteUrl": "https://cgbox.jp",
       "articles": [
         {
+          "id": "https://cgbox.jp/?p=63649",
+          "author": "kasahara",
+          "description": "こんばんは！ 今回はアドオンの「Retro Console」を紹介します。 こちらのリンクがアドオンの商品ページになります。 Retro Console 「Retro Console」は、数秒でモダンなテクスチャをPS1 […]",
+          "link": "https://cgbox.jp/2025/07/12/news-addon-retro-console/",
+          "publishedOn": "2025-07-12T04:16:55.000Z",
+          "wordCount": 2313,
+          "title": "【アドオン紹介】Retro Console – レトロなゲーム画面のように変換！",
+          "enclosure": {
+            "url": "https://cgbox.jp/wp-content/uploads/2025/07/ezgif-48db3d5ee8c1d8_32.mp4",
+            "length": "0",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://cgbox.jp/wp-content/uploads/2025/07/image_processing20250711-2-da5elf.jpg"
+        },
+        {
           "id": "https://cgbox.jp/?p=63644",
           "author": "kasahara",
           "description": "こんばんは！ 今回はアドオンの「Material Merger」を紹介します。 こちらのリンクがアドオンの商品ページになります。 Material Merger 「Material Merger」は、複数のマテリアルが設 […]",
@@ -1250,36 +1265,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "https://3dnchu.com/wp-content/uploads/level-designers-matrix-small.gif"
-        },
-        {
-          "id": "https://3dnchu.com/?p=1055733",
-          "author": "Ymt3D -3dnchu-",
-          "description": "数多くのBlenderアセットやアドオンを公開しているSanctus氏による、オブジェクトの変形にも対応するプロシージャルマッピングシェーダーノードを使用可能にするBlenderアドオン「Sanctus Procedural Mapping」がリリースされました！",
-          "link": "https://3dnchu.com/archives/sanctus-procedural-mapping/",
-          "publishedOn": "2025-06-12T17:30:52.000Z",
-          "wordCount": 8838,
-          "title": "Sanctus Procedural Mapping - オブジェクトの変形にも対応するプロシージャルマッピングシェーダーノードを使用可能にするBlenderアドオンが登場！",
-          "enclosure": {
-            "url": "https://3dnchu.com/wp-content/uploads/Sanctus-Procedural-Mapping-1.webp",
-            "length": "618042",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://3dnchu.com/wp-content/uploads/Sanctus-Procedural-Mapping-1.webp"
-        },
-        {
-          "id": "https://3dnchu.com/?p=1055715",
-          "author": "Ymt3D -3dnchu-",
-          "description": "SpaghetMeNotによるUVを自動的に展開してくれるGeometry Nodesモディファイア「uvFactory for Blender」がリリースされました！",
-          "link": "https://3dnchu.com/archives/uvfactory-for-blender/",
-          "publishedOn": "2025-06-12T17:06:35.000Z",
-          "wordCount": 8971,
-          "title": "uvFactory for Blender - UVを自動的に展開してくれるGeometry Nodesモディファイア！",
-          "enclosure": {
-            "url": "https://3dnchu.com/wp-content/uploads/uvFactory-for-Blender-1.webp",
-            "length": "804638",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://3dnchu.com/wp-content/uploads/uvFactory-for-Blender-1.webp"
         }
       ]
     },
@@ -3343,6 +3328,16 @@
       "siteUrl": "https://qiita.com",
       "articles": [
         {
+          "id": "https://qiita.com/scixarts/items/e26f416c14764703c72a",
+          "author": null,
+          "description": "環境\n\nWindows\nMaya 2026.1\nJetBrains Rider 2025.1.4\n.NET 8.0 SDK (v8.0.412)\n\nC#でのプラグイン作成について\nMayaのプラグインはC++やPythonに加えて、C#でも公式に作成できます。詳細は公式...",
+          "link": "https://qiita.com/scixarts/items/e26f416c14764703c72a",
+          "publishedOn": "2025-07-12T05:37:26.000Z",
+          "wordCount": 863,
+          "title": "MayaのプラグインをC#で作成する",
+          "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnNlY3VyZS5ncmF2YXRhci5jb20lMkZhdmF0YXIlMkYwNTUwM2ExMzBiOTdmZmM5ZGQ4YTY4Y2M1NzJkNGZlMT9peGxpYj1yYi00LjAuMCZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9OGY3NjM1MzA2ZmM1NTNlYmRlNWQ2MWI1OWM1Nzk2ODM%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D4288f72bd1abfdda18b1ec88baa3dafd?ixlib=rb-4.0.0&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9TWF5YSVFMyU4MSVBRSVFMyU4MyU5NyVFMyU4MyVBOSVFMyU4MiVCMCVFMyU4MiVBNCVFMyU4MyVCMyVFMyU4MiU5MkMlMjMlRTMlODElQTclRTQlQkQlOUMlRTYlODglOTAlRTMlODElOTklRTMlODIlOEImdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz0yZTY1OGRkNzBiMWY0MDBlZDEzNDA2NDRjYWNkMDdmMw&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBzY2l4YXJ0cyZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPTExNjdhNzEyODc0OWI0Yzg4ZjlmYmZmNjY1NTE0NzA4&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=6187de0dc5b3737b1d3cfbb76b5a16b0"
+        },
+        {
           "id": "https://qiita.com/scixarts/items/a0e14c3e5f2edb1d225c",
           "author": null,
           "description": "型スタブファイル (.pyi) について\nPython 3 以降では、関数やクラスに型注釈を加える「型ヒント（type hints）」が導入され、静的型チェックによる品質管理が可能になりました。mypyなどの静的解析ツールを活用することで、潜在的なバグを事前に検知したり、...",
@@ -3815,6 +3810,16 @@
       "siteUrl": "https://note.com/hashtag/Houdini",
       "articles": [
         {
+          "id": "https://note.com/satoshiro310/n/nde3b0da4ae3e",
+          "author": null,
+          "description": "Dop Networkで液体を表現した時に、どうしても変なノイズが入ってしまうため、それらを取り除き、きれいに処理する方法をメモしておきます。\nノードの確認\n続きをみる",
+          "link": "https://note.com/satoshiro310/n/nde3b0da4ae3e",
+          "publishedOn": "2025-07-12T07:57:10.000Z",
+          "wordCount": 2517,
+          "title": "【Houdini】Fluidの液体をなめらかにする方法",
+          "imageUrl": "https://d2l930y2yx77uc.cloudfront.net/production/social_images/55fa6d36db0fc82f19d794f8a384ead37321d013.png"
+        },
+        {
           "id": "https://note.com/fuji_houdini/n/n16acc4ae130d",
           "author": null,
           "description": "こんにちは! Houdiniわからないゴリラです。\n\nすっかり「Houdini」にハマってしまい、\n最近、学習や創作の様子、Tips等をSNSで投稿しているアカウントです。\n続きをみる",
@@ -4129,6 +4134,21 @@
       "feedUrl": "https://cginterest.com/feed/",
       "siteUrl": "https://cginterest.com",
       "articles": [
+        {
+          "id": "https://cginterest.com/?p=47664",
+          "author": ".me",
+          "description": "2025年7月10日（現地時間）- アーティスト向けCAD、3Dモデリングソフト「Plasticity 25.2」のリリースが発表されました。 新機能ハイライト Plasticity 2025.2では、サーフェスモデリン […]\nアーティスト向け CAD Plasticity 25.2がリリース！サーフェスモデリングの向上、シェーディングの強化など first appeared on CGinterest.",
+          "link": "https://cginterest.com/2025/07/12/%e3%82%a2%e3%83%bc%e3%83%86%e3%82%a3%e3%82%b9%e3%83%88%e5%90%91%e3%81%91-cad-plasticity-25-2%e3%81%8c%e3%83%aa%e3%83%aa%e3%83%bc%e3%82%b9%ef%bc%81%e3%82%b5%e3%83%bc%e3%83%95%e3%82%a7%e3%82%b9%e3%83%a2/",
+          "publishedOn": "2025-07-12T07:24:20.000Z",
+          "wordCount": 814,
+          "title": "アーティスト向け CAD Plasticity 25.2がリリース！サーフェスモデリングの向上、シェーディングの強化など",
+          "enclosure": {
+            "url": "https://cginterest.com/wp-content/uploads/2025/07/20250712_Plasticity25_2__align_1.mp4",
+            "length": "5488098",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://cginterest.com/wp-content/uploads/2025/07/image-2025-07-12T162248.315.webp"
+        },
         {
           "id": "https://cginterest.com/?p=47632",
           "author": ".me",

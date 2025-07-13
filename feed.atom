@@ -2,10 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-07-13T08:13:57.619Z</updated>
+    <updated>2025-07-13T12:20:08.845Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[USD(Universal Scene Description)をローカルビルドして、Viewerをカスタムしてみる]]></title>
+        <id>https://zenn.dev/testkun08080/articles/python-usdview-a51e8bdf7222cf</id>
+        <link href="https://zenn.dev/testkun08080/articles/python-usdview-a51e8bdf7222cf"/>
+        <updated>2025-07-13T08:50:31.000Z</updated>
+        <summary type="html"><![CDATA[はじめに
+USD(Universal Scene Description)Viewerを触ることがあったので、色々まとめたいと思います。
+会社でUSD Viewerを導入するにあたって、まずは手始めにスタンドアローンでプレビューするのに使ったり。または、モジュールとして組み込みで使える様になどを行っていました。
+最初は訳わかんなった（ビルド）ですけど、僕みたいなエンジニアではない人や、USDこれから触ろうとしている人に向けて記録として残しておきます。
+ゴールとしては、ビルドしたものをカスタムしてViewerをコントロールするところまでとします。
+とりあえず、サンプルのデータ見てみたい...]]></summary>
+        <author>
+            <name>testkun08080</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Unreal Engine5のモデリング機能だけを使って中世の塔をモデリングする動画がWingfoxで販売開始！]]></title>
         <id>https://modelinghappy.com/?p=63742</id>
@@ -4214,17 +4229,6 @@ CBUFFER_END
 500種類以上の膨大なHDRIライブラリを含むBlender用ライティングアドオン「GlobalHDRI」 first appeared on CGinterest.]]></summary>
         <author>
             <name>.me</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hair Card Studio Blender内で髪の毛の束間や量などを自由に調整してヘアカードを作成出来るアドオン]]></title>
-        <id>https://modelinghappy.com/?p=63339</id>
-        <link href="https://modelinghappy.com/archives/63339"/>
-        <updated>2025-06-13T23:12:15.000Z</updated>
-        <summary type="html"><![CDATA[Hair Card Studio (Hair Card Creator Addon for Blender) Hair Card StudioはBlenderでゲーム等に使えるヘアカードスタイルの髪型テクスチャを簡単に作
-The post Hair Card Studio Blender内で髪の毛の束間や量などを自由に調整してヘアカードを作成出来るアドオン first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
-        <author>
-            <name>modelinghappy</name>
         </author>
     </entry>
 </feed>

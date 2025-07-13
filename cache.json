@@ -2550,16 +2550,6 @@
           "wordCount": 3464,
           "title": "Nvidia Researchが1枚の画像を読み込むだけでパーツ別けされた3Dモデルを生成してくれるPartPackerを公開",
           "imageUrl": "https://modelinghappy.com/wp-content/uploads/2025/06/20250617_PartPacker_01.jpg"
-        },
-        {
-          "id": "https://modelinghappy.com/?p=63339",
-          "author": "modelinghappy",
-          "description": "Hair Card Studio (Hair Card Creator Addon for Blender) Hair Card StudioはBlenderでゲーム等に使えるヘアカードスタイルの髪型テクスチャを簡単に作\nThe post Hair Card Studio Blender内で髪の毛の束間や量などを自由に調整してヘアカードを作成出来るアドオン first appeared on 3DCG最新情報サイト MODELING HAPPY.",
-          "link": "https://modelinghappy.com/archives/63339",
-          "publishedOn": "2025-06-13T23:12:15.000Z",
-          "wordCount": 3491,
-          "title": "Hair Card Studio Blender内で髪の毛の束間や量などを自由に調整してヘアカードを作成出来るアドオン",
-          "imageUrl": "https://modelinghappy.com/wp-content/uploads/2025/06/20250614_haricardstuio_01.jpg"
         }
       ]
     },
@@ -3265,7 +3255,23 @@
       "title": "Zennの「usd」のフィード",
       "feedUrl": "https://zenn.dev/topics/usd/feed",
       "siteUrl": "https://zenn.dev/topics/usd",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://zenn.dev/testkun08080/articles/python-usdview-a51e8bdf7222cf",
+          "author": "testkun08080",
+          "description": "はじめに\nUSD(Universal Scene Description)Viewerを触ることがあったので、色々まとめたいと思います。\n会社でUSD Viewerを導入するにあたって、まずは手始めにスタンドアローンでプレビューするのに使ったり。または、モジュールとして組み込みで使える様になどを行っていました。\n最初は訳わかんなった（ビルド）ですけど、僕みたいなエンジニアではない人や、USDこれから触ろうとしている人に向けて記録として残しておきます。\nゴールとしては、ビルドしたものをカスタムしてViewerをコントロールするところまでとします。\nとりあえず、サンプルのデータ見てみたい...",
+          "link": "https://zenn.dev/testkun08080/articles/python-usdview-a51e8bdf7222cf",
+          "publishedOn": "2025-07-13T08:50:31.000Z",
+          "wordCount": null,
+          "title": "USD(Universal Scene Description)をローカルビルドして、Viewerをカスタムしてみる",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--i28XJBEe--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:USD%2528Universal%2520Scene%2520Description%2529%25E3%2582%2592%25E3%2583%25AD%25E3%2583%25BC%25E3%2582%25AB%25E3%2583%25AB%25E3%2583%2593%25E3%2583%25AB%25E3%2583%2589%25E3%2581%2597%25E3%2581%25A6%25E3%2580%2581Viewer%25E3%2582%2592%25E3%2582%25AB%25E3%2582%25B9%25E3%2582%25BF%25E3%2583%25A0%25E3%2581%2597%25E3%2581%25A6%25E3%2581%25BF%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:testkun08080%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzYxMjE5ZTQ2YzguanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png",
+            "length": "0",
+            "type": "image/png"
+          },
+          "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--i28XJBEe--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:USD%2528Universal%2520Scene%2520Description%2529%25E3%2582%2592%25E3%2583%25AD%25E3%2583%25BC%25E3%2582%25AB%25E3%2583%25AB%25E3%2583%2593%25E3%2583%25AB%25E3%2583%2589%25E3%2581%2597%25E3%2581%25A6%25E3%2580%2581Viewer%25E3%2582%2592%25E3%2582%25AB%25E3%2582%25B9%25E3%2582%25BF%25E3%2583%25A0%25E3%2581%2597%25E3%2581%25A6%25E3%2581%25BF%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:testkun08080%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzYxMjE5ZTQ2YzguanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
+        }
+      ]
     },
     {
       "title": "mayaタグが付けられた新着記事 - Qiita",

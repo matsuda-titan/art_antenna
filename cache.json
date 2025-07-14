@@ -440,21 +440,6 @@
           "wordCount": 2316,
           "title": "【アドオン紹介】Geo Particles Assets – ベースとなる色んなパーティクルアセット集！",
           "imageUrl": "https://cgbox.jp/wp-content/uploads/2025/06/image_processing20250613-2-5dvda3.jpg"
-        },
-        {
-          "id": "https://cgbox.jp/?p=63426",
-          "author": "kasahara",
-          "description": "こんばんは！ 今回はアドオンの「Uv Factory」を紹介します。 こちらのリンクがアドオンの商品ページになります。 Uv Factory 「Uv Factory」は、BlenderでのUV展開作業を自動化、効率化、ま […]",
-          "link": "https://cgbox.jp/2025/06/14/news-addon-uv-factory/",
-          "publishedOn": "2025-06-14T03:15:07.000Z",
-          "wordCount": 2291,
-          "title": "【アドオン紹介】Uv Factory – UV展開を自動化・効率化するアドオン！",
-          "enclosure": {
-            "url": "https://cgbox.jp/wp-content/uploads/2025/06/ezgif-48db3d5ee8c1d8_4-2.mp4",
-            "length": "0",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://cgbox.jp/wp-content/uploads/2022/05/cropped-favicon.png"
         }
       ]
     },
@@ -1268,6 +1253,26 @@
       "feedUrl": "https://cgworld.jp/atom.xml",
       "siteUrl": "https://cgworld.jp/",
       "articles": [
+        {
+          "id": "https://cgworld.jp/article/cgw232-acgrock01.html",
+          "author": null,
+          "description": "『ロックは淑女の嗜みでして』のアニメCGメイキングを紹介。",
+          "link": "https://cgworld.jp/article/cgw232-acgrock01.html",
+          "publishedOn": "2025-07-14T01:00:26.000Z",
+          "wordCount": 748,
+          "title": "アニメ『ロックは淑女の嗜みでして』　ガールズロックバンド「BAND-MAID」によるモーションキャプチャが話題！　（1）ワークフロー篇 - 特集",
+          "imageUrl": "https://cgworld.jp/article/assets_c/2025/06/img7-%281%29_______-thumb-1000x563-70353.jpg"
+        },
+        {
+          "id": "https://cgworld.jp/flashnews/01-202507-PlayCanvas-290.html",
+          "author": null,
+          "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
+          "link": "https://cgworld.jp/flashnews/01-202507-PlayCanvas-290.html",
+          "publishedOn": "2025-07-13T23:30:26.000Z",
+          "wordCount": 856,
+          "title": "「PlayCanvas v2.9.0」公開！　3DGSで物理演算・シャドウ生成・ダイナミックなリライティングに対応、オープンソースのゲームエンジン - ニュース",
+          "imageUrl": "https://cgworld.jp/flashnews/assets_c/2025/07/PlayCanvas_290-01-thumb-1080x623-71294.jpg"
+        },
         {
           "id": "https://cgworld.jp/regular/25visionos-26.html",
           "author": null,
@@ -3101,21 +3106,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--jvKwYh-E--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:PlayCanvas%25E6%2596%25B0%25E6%258A%2580%25E8%25A1%2593%25E3%2580%258CSOGS%25E3%2580%258D%25E3%2581%25A73DGS%25E3%2581%258C20%25E5%2580%258D%25E8%25BB%25BD%25E9%2587%258F%25E5%258C%2596%25EF%25BC%2581%25E5%25AE%259F%25E9%259A%259B%25E3%2581%25AB%25E8%25A9%25A6%25E3%2581%2597%25E3%2581%25A6%25E3%2581%25BF%25E3%2581%259F%25E7%25B5%2590%25E6%259E%259C%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%25AF%25E3%2581%258C%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2ZiOGEyMzdkZTAuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
-        },
-        {
-          "id": "https://zenn.dev/r_ngtm/articles/unity-srpbatch-globalparameter-bug",
-          "author": "かもそば",
-          "description": "はじめに\nSRP Batcherを利用している場合、\nCBUFFER_START(UnityPerMaterial)  ~ CBUFFER_END で囲った変数は、\nマテリアル固有のパラメータとして扱われます。\nCBUFFERの外にあるパラメータはグローバルなものとして扱われます。\nhalf4 _Color; // グローバルなパラメータ\nCBUFFER_START(UnityPerMaterial)  \nfloat4 _MainTex_ST; // マテリアル固有のパラメータ\nCBUFFER_END\nこの時、マテリアルに対して上記のグローバルパラメータをセットすると、\n他のマテリア...",
-          "link": "https://zenn.dev/r_ngtm/articles/unity-srpbatch-globalparameter-bug",
-          "publishedOn": "2025-06-14T04:34:32.000Z",
-          "wordCount": null,
-          "title": "【Unity / SRP Batcher】CBUFFER外パラメータによる描画崩れ",
-          "enclosure": {
-            "url": "https://res.cloudinary.com/zenn/image/upload/s--jfcNKnSK--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2580%2590Unity%2520%252F%2520SRP%2520Batcher%25E3%2580%2591CBUFFER%25E5%25A4%2596%25E3%2583%2591%25E3%2583%25A9%25E3%2583%25A1%25E3%2583%25BC%25E3%2582%25BF%25E3%2581%25AB%25E3%2582%2588%25E3%2582%258B%25E6%258F%258F%25E7%2594%25BB%25E5%25B4%25A9%25E3%2582%258C%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%258B%25E3%2582%2582%25E3%2581%259D%25E3%2581%25B0%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzBkZmM3ODFiOTQuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png",
-            "length": "0",
-            "type": "image/png"
-          },
-          "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--jfcNKnSK--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2580%2590Unity%2520%252F%2520SRP%2520Batcher%25E3%2580%2591CBUFFER%25E5%25A4%2596%25E3%2583%2591%25E3%2583%25A9%25E3%2583%25A1%25E3%2583%25BC%25E3%2582%25BF%25E3%2581%25AB%25E3%2582%2588%25E3%2582%258B%25E6%258F%258F%25E7%2594%25BB%25E5%25B4%25A9%25E3%2582%258C%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%258B%25E3%2582%2582%25E3%2581%259D%25E3%2581%25B0%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzBkZmM3ODFiOTQuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
         }
       ]
     },
@@ -3317,16 +3307,6 @@
           "wordCount": 2744,
           "title": "MayaのGUIのコードをLLMで生成する",
           "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnNlY3VyZS5ncmF2YXRhci5jb20lMkZhdmF0YXIlMkYwNTUwM2ExMzBiOTdmZmM5ZGQ4YTY4Y2M1NzJkNGZlMT9peGxpYj1yYi00LjAuMCZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmZm09cG5nMzImcz04NTM2OTYxNmJhMmViNTRjZWExOTRlMGYzM2E4ZDFkYQ%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D7f87386c08f818f62b56401e43004403?ixlib=rb-4.0.0&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9TWF5YSVFMyU4MSVBRUdVSSVFMyU4MSVBRSVFMyU4MiVCMyVFMyU4MyVCQyVFMyU4MyU4OSVFMyU4MiU5MkxMTSVFMyU4MSVBNyVFNyU5NCU5RiVFNiU4OCU5MCVFMyU4MSU5OSVFMyU4MiU4QiZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnR4dC1wYWQ9MCZzPTAxNzA0MTAyODIxNDAwZTI0YmMzYzkwOTFiYzBlZjlk&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBzY2l4YXJ0cyZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPTExNjdhNzEyODc0OWI0Yzg4ZjlmYmZmNjY1NTE0NzA4&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=33c1597d9137de2174c9de8a5355f4aa"
-        },
-        {
-          "id": "https://qiita.com/scixarts/items/253e8ebb450b73cd97c8",
-          "author": null,
-          "description": "環境\n\nWindows\nMaya 2026.1\nJetBrains AI\n\nはじめに\nこの記事ではDCCツールのファイルをLLMで読み込む方法を説明します。LLMによるファイル解析の優位性を示すものでは…",
-          "link": "https://qiita.com/scixarts/items/253e8ebb450b73cd97c8",
-          "publishedOn": "2025-06-14T08:26:00.000Z",
-          "wordCount": 700,
-          "title": "DCCツールのファイルをLLMで読み込む方法",
-          "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnNlY3VyZS5ncmF2YXRhci5jb20lMkZhdmF0YXIlMkYwNTUwM2ExMzBiOTdmZmM5ZGQ4YTY4Y2M1NzJkNGZlMT9peGxpYj1yYi00LjAuMCZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmZm09cG5nMzImcz04NTM2OTYxNmJhMmViNTRjZWExOTRlMGYzM2E4ZDFkYQ%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D7f87386c08f818f62b56401e43004403?ixlib=rb-4.0.0&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9RENDJUUzJTgzJTg0JUUzJTgzJUJDJUUzJTgzJUFCJUUzJTgxJUFFJUUzJTgzJTk1JUUzJTgyJUExJUUzJTgyJUE0JUUzJTgzJUFCJUUzJTgyJTkyTExNJUUzJTgxJUE3JUU4JUFBJUFEJUUzJTgxJUJGJUU4JUJFJUJDJUUzJTgyJTgwJUU2JTk2JUI5JUU2JUIzJTk1JnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9MWIyMzhkMzEzOGRjOGE0MzMzOGExMDY1NWVkM2FiYWM&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBzY2l4YXJ0cyZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPTExNjdhNzEyODc0OWI0Yzg4ZjlmYmZmNjY1NTE0NzA4&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=e156e1e2b21a57636eca19547c6a778a"
         }
       ]
     },
@@ -3626,6 +3606,16 @@
       "feedUrl": "https://area.autodesk.jp/rss.xml",
       "siteUrl": "https://area.autodesk.jp/",
       "articles": [
+        {
+          "id": "https://area.autodesk.jp/column/tutorial/3ds-max-plugin/06-real-world-cameras-3ds-max-vray/",
+          "author": null,
+          "description": "今回は3ds MaxとV-Ray、撮影機材を用いてカメラとCGの関係性を説明する内容となっております。特に、3ds Maxのカメラ設定をあまり気にした事がない方や、少しでもリアルなカメラを知りたい方向けに極力入門編として記載して参ります。記載している内容に専門用語などは散りばめておきますので、それらをヒントに検索をしてカメラの奥深さに気づいて頂ければ幸いです。・・・",
+          "link": "https://area.autodesk.jp/column/tutorial/3ds-max-plugin/06-real-world-cameras-3ds-max-vray/",
+          "publishedOn": "2025-07-14T01:00:00.000Z",
+          "wordCount": 788,
+          "title": "3ds Max：プラグイン活用で表現の幅を拡げよう！ 第6回：3ds MaxとV-Rayで現実世界のカメラを理解する",
+          "imageUrl": "https://area.autodesk.jp/column/assets_c/2025/07/ic_3ds_max_plugin_vol06_1400x782-thumb-1200xauto-5699.jpg"
+        },
         {
           "id": "https://area.autodesk.jp/event/siggraph-2025/",
           "author": null,
@@ -4028,6 +4018,16 @@
       "feedUrl": "https://3d.crdg.jp/env/feed/",
       "siteUrl": "https://3d.crdg.jp/env/",
       "articles": [
+        {
+          "id": "https://3d.crdg.jp/env/?p=7550",
+          "author": "Kosuke.Kawai",
+          "description": "はじめに ゲーム制作では、容量を抑えつつ質感やディテールを細かく表現するために、ゲームエンジン上でテクスチャを組み合わせて見た目を作ることがよくありま […]\n続きを読む\n投稿 【Maya】Shader FXを使ってみよう(前編) は エンホリ - ENVIRONMENT HOLIC｜C&R Creative Studios に最初に表示されました。",
+          "link": "https://3d.crdg.jp/env/2025/07/13/7550/?utm_source=rss&utm_medium=rss&utm_campaign=%25e3%2580%2590maya%25e3%2580%2591shader-fx%25e3%2582%2592%25e4%25bd%25bf%25e3%2581%25a3%25e3%2581%25a6%25e3%2581%25bf%25e3%2582%2588%25e3%2581%2586%25e5%2589%258d%25e7%25b7%25a8",
+          "publishedOn": "2025-07-13T13:20:32.000Z",
+          "wordCount": 3132,
+          "title": "【Maya】Shader FXを使ってみよう(前編)",
+          "imageUrl": "https://3d.crdg.jp/env/wp-content/uploads/2025/07/アイキャッチ画像__【MAYA】ShaderFXをつかってみよう.png"
+        },
         {
           "id": "https://3d.crdg.jp/env/?p=7403",
           "author": "Hisako.Nishimura",
@@ -4604,36 +4604,6 @@
             "type": "video/mp4"
           },
           "imageUrl": "https://cginterest.com/wp-content/uploads/2025/06/20250616_siggraph2025technicalpapers.webp"
-        },
-        {
-          "id": "https://cginterest.com/?p=46817",
-          "author": ".me",
-          "description": "2025年6月13日（現地時間）- Chaos は、3ds Max ＆Cinema4D 用建築ビジュアライゼーション向けのレンダリングソフトウェアの最新アップデート Corona 13 のリリースを発表しました。 新機能 […]\nChaos Corona 13 がリリース！トゥーンレンダリング、VantageでのGPUレンダリング、AI画像強化など first appeared on CGinterest.",
-          "link": "https://cginterest.com/2025/06/14/chaos-corona-13-%e3%81%8c%e3%83%aa%e3%83%aa%e3%83%bc%e3%82%b9%ef%bc%81%e3%83%88%e3%82%a5%e3%83%bc%e3%83%b3%e3%83%ac%e3%83%b3%e3%83%80%e3%83%aa%e3%83%b3%e3%82%b0%e3%80%81vantage%e3%81%a7%e3%81%aegpu/",
-          "publishedOn": "2025-06-14T07:11:00.000Z",
-          "wordCount": 926,
-          "title": "Chaos Corona 13 がリリース！トゥーンレンダリング、VantageでのGPUレンダリング、AI画像強化など",
-          "enclosure": {
-            "url": "https://cginterest.com/wp-content/uploads/2025/06/20250614-Chaoscorona13-Gpu-Animation.mp4",
-            "length": "643987",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://cginterest.com/wp-content/uploads/2025/06/20250614_chaoscorona13.webp"
-        },
-        {
-          "id": "https://cginterest.com/?p=46768",
-          "author": ".me",
-          "description": "Blendify によるBlender用アドオン「GlobalHDRI」の紹介です。 「GlobalHDRI」とは 「GlobalHDRI」とは、BlenderのHDRIライティングを統合的に制御するための強力なアドオン […]\n500種類以上の膨大なHDRIライブラリを含むBlender用ライティングアドオン「GlobalHDRI」 first appeared on CGinterest.",
-          "link": "https://cginterest.com/2025/06/14/500%e7%a8%ae%e9%a1%9e%e4%bb%a5%e4%b8%8a%e3%81%ae%e8%86%a8%e5%a4%a7%e3%81%aahdri%e3%83%a9%e3%82%a4%e3%83%96%e3%83%a9%e3%83%aa%e3%82%92%e5%90%ab%e3%82%80blender%e7%94%a8%e3%83%a9%e3%82%a4%e3%83%86/",
-          "publishedOn": "2025-06-14T00:34:03.000Z",
-          "wordCount": 703,
-          "title": "500種類以上の膨大なHDRIライブラリを含むBlender用ライティングアドオン「GlobalHDRI」",
-          "enclosure": {
-            "url": "https://cginterest.com/wp-content/uploads/2025/06/Basic-Settings-2X2.mp4",
-            "length": "452719",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://cginterest.com/wp-content/uploads/2025/06/20250613_globalhdri.webp"
         }
       ]
     }

@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-07-17T08:16:30.848Z</updated>
+    <updated>2025-07-17T12:22:13.763Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Boolean Bevel Addon ブーリアンとベベルを同時に処理してエッジを自動で滑らかにするBlenderアドオン]]></title>
+        <id>https://modelinghappy.com/?p=63832</id>
+        <link href="https://modelinghappy.com/archives/63832"/>
+        <updated>2025-07-17T09:09:50.000Z</updated>
+        <summary type="html"><![CDATA[Boolean Bevel Addon Boolean Bevel AddonはBlenderで複数モデルを用意して、ブーリアンすると穴の開いた形状のエッジが通常鋭角になりますが、穴の開いたエッジ部分にエッジベベルが掛か
+The post Boolean Bevel Addon ブーリアンとベベルを同時に処理してエッジを自動で滑らかにするBlenderアドオン first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
+        <author>
+            <name>modelinghappy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CGWORLD vol.325（2025年9月号）「セガの現在地」特集号を先行告知！ - ニュース]]></title>
+        <id>https://cgworld.jp/flashnews/cgw325-pr.html</id>
+        <link href="https://cgworld.jp/flashnews/cgw325-pr.html"/>
+        <updated>2025-07-17T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【1日限定セール】Blender・Maya・ZBrush・UE5など人気3DCG講座が1500円〜！Udemyセール実施中！]]></title>
         <id>https://modelinghappy.com/?p=63819</id>
@@ -4377,35 +4398,6 @@ The post BlenderのUV展開にラティスを追加して変形出来るアド�
 The post BlenderのUV展開にラティスを追加して変形出来るアドオンFamiliar and Intuitive first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
         <author>
             <name>modelinghappy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【期間限定無料】2025年7月10日までの FAB 無料コンテンツをチェック！]]></title>
-        <id>https://cginterest.com/?p=46929</id>
-        <link href="https://cginterest.com/2025/06/18/%e3%80%90%e6%9c%9f%e9%96%93%e9%99%90%e5%ae%9a%e7%84%a1%e6%96%99%e3%80%912025%e5%b9%b47%e6%9c%8810%e6%97%a5%e3%81%be%e3%81%a7%e3%81%ae-fab-%e7%84%a1%e6%96%99%e3%82%b3%e3%83%b3%e3%83%86%e3%83%b3/"/>
-        <updated>2025-06-17T22:13:00.000Z</updated>
-        <summary type="html"><![CDATA[期間限定で無料となっているEpicのマーケットプレイスFABの無料コンテンツの紹介です。 Epic Games の統合マーケットプレイスFABでは、クリエイターとのパートナーシップによって、2週間ごとに選ばれたコンテンツ […]
-【期間限定無料】2025年7月10日までの FAB 無料コンテンツをチェック！ first appeared on CGinterest.]]></summary>
-        <author>
-            <name>.me</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[VR向け集中線Quadシェーダーの作り方]]></title>
-        <id>https://zenn.dev/kaibaoke/articles/art14_concentrate_line_for_vr</id>
-        <link href="https://zenn.dev/kaibaoke/articles/art14_concentrate_line_for_vr"/>
-        <updated>2025-06-17T21:07:03.000Z</updated>
-        <summary type="html"><![CDATA[はじめに
-こんにちは。Kaibaです。今回はVR向けの集中線シェーダーの作り方について解説します。
-集中線は、アニメや漫画でよく使用される視覚効果の一つで、キャラクターの集中や緊張を表現する際に使用されます。VRゲームでも集中線を画面周囲に配置することで、実際の移動速度よりも高速に移動している感覚を与えることができます。
-なお、この記事ではplaneに貼り付けるShaderを作成します。CameraRigの
-
- ShaderGraph
-まあとっとと完成形を出せという人向けに概観。
-
-そんな複雑なShaderGraphではないですね。ミソ？は(0.5,0.5)を中心にUVを引き延ばすと...]]></summary>
-        <author>
-            <name>Kaiba</name>
         </author>
     </entry>
 </feed>

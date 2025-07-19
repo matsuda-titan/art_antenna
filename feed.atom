@@ -2,10 +2,67 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-07-19T03:48:11.350Z</updated>
+    <updated>2025-07-19T08:14:18.898Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA["【初心者向け】ゲーム開発における描画とレンダリングの違いをわかりやすく解説（Unity / C++ / DirectX 対応）"]]></title>
+        <id>https://qiita.com/nel2116/items/b699094e99817c4cc8fc</id>
+        <link href="https://qiita.com/nel2116/items/b699094e99817c4cc8fc"/>
+        <updated>2025-07-19T08:09:59.000Z</updated>
+        <summary type="html"><![CDATA[TL;DR
+
+描画 (Draw) = 「ジオメトリ（頂点データなど）を GPU に送り ポリゴンを塗る」フェーズ。いわゆる ドローコール を発行する段階。
+
+レンダリング (Render) = ライティングやポストエフェクトを含め「最終的な画像を出力するまで」の全体プロ...]]></summary>
+        <author>
+            <name>Shaderタグが付けられた新着記事 - Qiita</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unity Assets Storeで夏のセールが開催！ベストセーラー商品が50%オフ、日替わりで1日最大70%オフ！]]></title>
+        <id>https://modelinghappy.com/?p=63889</id>
+        <link href="https://modelinghappy.com/archives/63889"/>
+        <updated>2025-07-19T06:02:44.000Z</updated>
+        <summary type="html"><![CDATA[Unity Assets Store SUMMER SALE 2025年8月13日までUnity Assets Storeでベストセーラー商品300点以上が50%オフ、さらに日替わりで１日限り最大70%オフ~になるフラッ
+The post Unity Assets Storeで夏のセールが開催！ベストセーラー商品が50%オフ、日替わりで1日最大70%オフ！ first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
+        <author>
+            <name>modelinghappy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cut & Wrap – 複数画像を一括ポリゴン化して一列配置で原点移動＆オブジェクトに自動マッピング出来るBlneder用アドオン！デカールや葉っぱ等のテクスチャ素材を簡単作成！]]></title>
+        <id>https://modelinghappy.com/?p=63876</id>
+        <link href="https://modelinghappy.com/archives/63876"/>
+        <updated>2025-07-19T05:22:29.000Z</updated>
+        <summary type="html"><![CDATA[Cut amp; Wrap Cut amp; WrapアドオンはBlenderで、用意した正方形のPNG画像から、透明以外を自動で切り抜き、四角形のメッシュポリゴンのデカール素材に簡単に作成して、モデルに沿わるシュリ
+The post Cut & Wrap – 複数画像を一括ポリゴン化して一列配置で原点移動＆オブジェクトに自動マッピング出来るBlneder用アドオン！デカールや葉っぱ等のテクスチャ素材を簡単作成！ first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
+        <author>
+            <name>modelinghappy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【アドオン紹介】Shoemaster_Beta – 靴を簡単作成するためのアドオン]]></title>
+        <id>https://cgbox.jp/?p=63708</id>
+        <link href="https://cgbox.jp/2025/07/19/news-addon-shoemaster_beta/"/>
+        <updated>2025-07-19T05:05:46.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは！ 今回はアドオンの「Shoemaster_Beta」を紹介します。 こちらのリンクがアドオンの商品ページになります。 Shoemaster_Beta 「Shoemaster_Beta」は、Shoemaster […]]]></summary>
+        <author>
+            <name>kasahara</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Blender、UE5、Zbrush、Gaea、Subsutanceを使用して中世の街並みをスタイライズド調で作成するチュートリアル動画がWingfoxで販売開始！]]></title>
+        <id>https://modelinghappy.com/?p=63865</id>
+        <link href="https://modelinghappy.com/archives/63865"/>
+        <updated>2025-07-19T04:13:27.000Z</updated>
+        <summary type="html"><![CDATA[Creating Stylized Worlds from Concept to Reality 世界中のチュートリアル動画を販売しているWingfoxのサイトでBlender、Unreal Engine5、Zbrush
+The post Blender、UE5、Zbrush、Gaea、Subsutanceを使用して中世の街並みをスタイライズド調で作成するチュートリアル動画がWingfoxで販売開始！ first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
+        <author>
+            <name>modelinghappy</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Topaz Video AI 7.1 がリリース！フレーム補間の改善、古いフィルム映像向けの新しいプリセットの追加など]]></title>
         <id>https://cginterest.com/?p=47922</id>
@@ -4171,26 +4228,6 @@ The post 絵コンテ＆完成映像。海外ドラマ『フレンズ&ネイバ�
         <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
         <author>
             <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Blender Meetup Sapporo 2025 - 北海道 札幌にてBlenderイベントが2025年8月2日に開催！参加無料！豪華クリエイターの登壇＆交流会！]]></title>
-        <id>https://3dnchu.com/?p=1055910</id>
-        <link href="https://3dnchu.com/archives/blender-meetup-sapporo-2025/"/>
-        <updated>2025-06-19T16:45:33.000Z</updated>
-        <summary type="html"><![CDATA[北海道 札幌にて2025年8月2日(土)に無料のBlenderイベント「Blender Meetup Sapporo 2025」が開催されます！豪華著名人による講演や交流会が行われるそうですよ！]]></summary>
-        <author>
-            <name>Ymt3D -3dnchu-</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mantis Rigging Nodes - ノードベースのリギングが可能な無料＆オープンソースBlenderアドオン！]]></title>
-        <id>https://3dnchu.com/?p=1055914</id>
-        <link href="https://3dnchu.com/archives/mantis-rigging-nodes/"/>
-        <updated>2025-06-19T15:57:11.000Z</updated>
-        <summary type="html"><![CDATA[Node Spaghettiによる、Blender向けリギングノードアドオン「Mantis Rigging Nodes」がリリースされていました。]]></summary>
-        <author>
-            <name>Ymt3D -3dnchu-</name>
         </author>
     </entry>
 </feed>

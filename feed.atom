@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-07-20T12:20:20.280Z</updated>
+    <updated>2025-07-21T01:01:54.322Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[手軽にノイズテクスチャを生成できる無料Webアプリ「Noise Generator」！　Random・Perlin・Voronoiの3種ノイズモデル、オープンソース - ニュース]]></title>
+        <id>https://cgworld.jp/flashnews/01-202507-NoiseGenerator.html</id>
+        <link href="https://cgworld.jp/flashnews/01-202507-NoiseGenerator.html"/>
+        <updated>2025-07-20T22:43:16.000Z</updated>
+        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【Unity】自作したシャドウマップにソフトシャドウをつけてみる]]></title>
+        <id>https://qiita.com/ayaha401/items/dc8a291533d6c16b7219</id>
+        <link href="https://qiita.com/ayaha401/items/dc8a291533d6c16b7219"/>
+        <updated>2025-07-20T19:08:26.000Z</updated>
+        <summary type="html"><![CDATA[はじめに
+最近シャドウマップの実装を勉強しています。
+元々カスケードシャドウの実装方法を勉強したかったのですがそもそもシャドウマップがどのように作成されるのかを理解しないとカスケードシャドウの実装を読めなかったりし、1からシャドウマップやシャドウについて勉強しています。
+...]]></summary>
+        <author>
+            <name>Shaderタグが付けられた新着記事 - Qiita</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[第24回 Houdiniゆるゆる会備忘録]]></title>
+        <id>https://zenn.dev/kickbase/articles/16c9413ccab64b</id>
+        <link href="https://zenn.dev/kickbase/articles/16c9413ccab64b"/>
+        <updated>2025-07-20T14:21:50.000Z</updated>
+        <summary type="html"><![CDATA[毎月開催している勉強会「Houdiniゆるゆる会」の振り返り記事と発表資料の紹介を今回から始めます。
+https://houdini-teaparty.connpass.com/
+この勉強会は一つのお題に対して各参加者がシーンを作成して発表するスタイルで、視聴のみの枠はありません。主体的な勉強会です。シーンの配布は参加者のみに限定しているため、本ブログでは僕の発表内容を断片的に紹介します。
+
+ 今回のお題
+「10ノード縛り」
+今回のテーマはイメージや具体的なオブジェクトではなく、何かしらの機能や表現を10ノード以内で作成するというものです。
+10ノードというのは絶妙な縛りで、多くの参加...]]></summary>
+        <author>
+            <name>めんたいこ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【UE5】プロフェッショナルなSF映画シーンを作成するチュートリアルをレビュー]]></title>
         <id>https://cgbox.jp/?p=63713</id>
@@ -4036,102 +4076,6 @@ The post Fill Color 選択した面やオブジェクトに色を1ボタンで�
 The post Blender4.4について様々な機能を広く学べる25時間以上のチュートリアル動画がWingfoxで販売開始！ first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
         <author>
             <name>modelinghappy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MayaのGUIのコードをLLMで生成する]]></title>
-        <id>https://qiita.com/scixarts/items/556c319df4e2a29584f3</id>
-        <link href="https://qiita.com/scixarts/items/556c319df4e2a29584f3"/>
-        <updated>2025-06-21T10:14:50.000Z</updated>
-        <summary type="html"><![CDATA[環境
-
-Windows
-Maya 2026.1
-Copilot for Windows
-
-はじめに
-本記事では、MayaのGUIのコードをLLMで生成する例を紹介します。
-注意点として、同じプロンプトや…]]></summary>
-        <author>
-            <name>mayaタグが付けられた新着記事 - Qiita</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Blender用のVRAM最適化アドオン「memsaver」バージョン1.3がリリース！プレビュー機能、メモリ使用量推定機能の改良など]]></title>
-        <id>https://cginterest.com/?p=47092</id>
-        <link href="https://cginterest.com/2025/06/21/blender%e7%94%a8%e3%81%aevram%e6%9c%80%e9%81%a9%e5%8c%96%e3%82%a2%e3%83%89%e3%82%aa%e3%83%b3%e3%80%8cmemsaver%e3%80%8d%e3%83%90%e3%83%bc%e3%82%b8%e3%83%a7%e3%83%b31-3%e3%81%8c%e3%83%aa%e3%83%aa/"/>
-        <updated>2025-06-21T08:08:00.000Z</updated>
-        <summary type="html"><![CDATA[Blenderユーザーにとって重要なVRAM（ビデオメモリ）の使用量を最適化するための人気アドオン「memsaver」が、新機能の追加と大幅な改善を含むメジャーアップデート「バージョン1.3」をリリースしました。 新機能 […]
-Blender用のVRAM最適化アドオン「memsaver」バージョン1.3がリリース！プレビュー機能、メモリ使用量推定機能の改良など first appeared on CGinterest.]]></summary>
-        <author>
-            <name>.me</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[映像クリエイター向けのプラグイン＆エレメントを提供する Motion VFX で30% OFF セール＆キャッシュバックキャンペーンが開催！]]></title>
-        <id>https://cginterest.com/?p=47109</id>
-        <link href="https://cginterest.com/2025/06/21/%e6%98%a0%e5%83%8f%e3%82%af%e3%83%aa%e3%82%a8%e3%82%a4%e3%82%bf%e3%83%bc%e5%90%91%e3%81%91%e3%81%ae%e3%83%97%e3%83%a9%e3%82%b0%e3%82%a4%e3%83%b3%ef%bc%86%e3%82%a8%e3%83%ac%e3%83%a1%e3%83%b3%e3%83%88/"/>
-        <updated>2025-06-21T07:16:00.000Z</updated>
-        <summary type="html"><![CDATA[動画クリエイター向けツールで知られる MotionVFX で開催されているセールの開催情報です。 30%OFFクーポンの配布に加えてFinal Cut Pro 向けのサブスクリプション購入者向けキャッシュバックキャンペー […]
-映像クリエイター向けのプラグイン＆エレメントを提供する Motion VFX で30% OFF セール＆キャッシュバックキャンペーンが開催！ first appeared on CGinterest.]]></summary>
-        <author>
-            <name>.me</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PlayCanvas新技術「SOGS」で3DGSが20倍軽量化！実際に試してみた結果]]></title>
-        <id>https://zenn.dev/yushimatenjin/articles/playcanvas-sogs</id>
-        <link href="https://zenn.dev/yushimatenjin/articles/playcanvas-sogs"/>
-        <updated>2025-06-21T06:26:48.000Z</updated>
-        <summary type="html"><![CDATA[はじめに
-3D Gaussian Splatting（3DGS）は写実的な3Dシーンを生成できる優れた技術ですが、ファイルサイズが非常に大きいという課題があります。数百MB～数GBのファイルサイズになることが多く、Web配信には実用的ではありません。
-この問題を解決する技術として、PlayCanvasが発表した「SOGS（Self-Organizing Gaussians）」があります。この技術により20倍以上の圧縮が可能とされています。
-今回は実際にSOGSを使用して、その効果を検証してみました。
-
- SOGSについて
-SOGSは、ドイツのFraunhofer HHIとPlayCa...]]></summary>
-        <author>
-            <name>はが</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【アドオン紹介】memsaver – レンダリング時のテクスチャサイズを自動調整！]]></title>
-        <id>https://cgbox.jp/?p=63460</id>
-        <link href="https://cgbox.jp/2025/06/21/news-addon-memsaver/"/>
-        <updated>2025-06-21T03:54:31.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは！ 今回はアドオンの「memsaver」を紹介します。 こちらのリンクがアドオンの商品ページになります。 memsaver 「memsaver」は、見た目のクオリティを保ちつつ、シーンのVRAM消費を最小限に抑 […]]]></summary>
-        <author>
-            <name>kasahara</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Effectぱれっと - エフェクト制作専門企業によるエフェクト素材（テクスチャ画像や3Dメッシュ）作成ツールセット！無料版もあります！]]></title>
-        <id>https://3dnchu.com/?p=1055965</id>
-        <link href="https://3dnchu.com/archives/effect-palette/"/>
-        <updated>2025-06-21T03:26:15.000Z</updated>
-        <summary type="html"><![CDATA[数多くのゲームタイトルでエフェクト制作などを手掛けた株式会社ブラッシュアップによる、エフェクト素材作成ツール「Effectぱれっと」が公開されています！テクスチャ画像や3Dメッシュを手軽に生成できる本ツールは、主要ツールと連携し、誰でエフェクト素材を素早く作成する事が可能！無料版もあるよ！]]></summary>
-        <author>
-            <name>Ymt3D -3dnchu-</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Netflix パートナーヘルプセンター 視覚効果の仕様とベストプラクティス - VFX制作現場で必須となる命名規則や納品ルールが掲載中！]]></title>
-        <id>https://3dnchu.com/?p=1055984</id>
-        <link href="https://3dnchu.com/archives/netflixstudios-vfx-guideline/"/>
-        <updated>2025-06-21T01:03:29.000Z</updated>
-        <summary type="html"><![CDATA[Houdini FX TDのShohei Okazaki氏（ @_ShoHey_ ）が「NetflixのVFX指南書、読んでる人少なくない？」とXで呼びかけ話題に。まずは命名ルールから見直してみては？]]></summary>
-        <author>
-            <name>Ymt3D -3dnchu-</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[通知君 - Discord経由でレンダリング完了通知が可能なBlender用スクリプトと設定手順！無料公開！]]></title>
-        <id>https://3dnchu.com/?p=1055974</id>
-        <link href="https://3dnchu.com/archives/notifykun-b3d/"/>
-        <updated>2025-06-21T00:34:26.000Z</updated>
-        <summary type="html"><![CDATA[37℃（ @Celsius37）氏がDiscord経由でレンダリング完了通知が可能なBlender用スクリプトと設定手順を無料公開しています！]]></summary>
-        <author>
-            <name>Ymt3D -3dnchu-</name>
         </author>
     </entry>
 </feed>

@@ -2,10 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-07-21T12:23:44.859Z</updated>
+    <updated>2025-07-22T00:58:16.270Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[テンセントの新3D生成AIモデル「Hunyuan3D-PolyGen」公開！　独自開発のメッシュ自己回帰モデルと高圧縮技術により複雑かつ精密なトポロジーを生成 - ニュース]]></title>
+        <id>https://cgworld.jp/flashnews/01-202507-Hunyuan3D-PolyGen.html</id>
+        <link href="https://cgworld.jp/flashnews/01-202507-Hunyuan3D-PolyGen.html"/>
+        <updated>2025-07-21T23:05:53.000Z</updated>
+        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[O3DE 25.05.0 がリリース！パフォーマンスとグラフィックス、ロボット工学シミュレーションの強化など]]></title>
+        <id>https://cginterest.com/?p=47854</id>
+        <link href="https://cginterest.com/2025/07/22/o3de-25-05-0-%e3%81%8c%e3%83%aa%e3%83%aa%e3%83%bc%e3%82%b9%ef%bc%81%e3%83%91%e3%83%95%e3%82%a9%e3%83%bc%e3%83%9e%e3%83%b3%e3%82%b9%e3%81%a8%e3%82%b0%e3%83%a9%e3%83%95%e3%82%a3%e3%83%83%e3%82%af/"/>
+        <updated>2025-07-21T22:59:00.000Z</updated>
+        <summary type="html"><![CDATA[2025年6月18日（現地時間） – オープンソースの3Dエンジン開発を推進するOpen 3D Foundation（O3DF）は、Open 3D Engine（O3DE）の最新バージョン「25.05.0」の […]
+O3DE 25.05.0 がリリース！パフォーマンスとグラフィックス、ロボット工学シミュレーションの強化など first appeared on CGinterest.]]></summary>
+        <author>
+            <name>.me</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[10ノード縛り　折り畳み傘を作る]]></title>
+        <id>https://note.com/thesaurus/n/nca50afa60c28</id>
+        <link href="https://note.com/thesaurus/n/nca50afa60c28"/>
+        <updated>2025-07-21T15:11:57.000Z</updated>
+        <summary type="html"><![CDATA[第24回 Houdiniゆるゆる会のテーマは「10ノード縛り」でした。
+今回はそのお題に沿って、2つの作例を制作しました。そのうちのひとつ、折りたたみ傘の作成についてご紹介します。
+ネットワーク全体
+続きをみる]]></summary>
+        <author>
+            <name>#Houdiniタグ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Live2D サマーセール 2025が開催！2025年7月28日までPROライセンスが20%OFF！]]></title>
         <id>https://cginterest.com/?p=47976</id>
@@ -3989,83 +4023,6 @@ UE5のマテリアルではUE4の感覚でワールド座標値を使うとLWC(L
 UE5のマテリアルではUE4の感覚でワールド座標値を使うとLWC(Large World Coordinate)が使われ、パフォーマンスの低下を起こす事があります。これは、LWCが必要となるオ…]]></summary>
         <author>
             <name>HLSLタグが付けられた新着記事 - Qiita</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[音声認識とシェーダーで作る自動歌詞同期ミュージックビデオメーカー]]></title>
-        <id>https://zenn.dev/tuidra/articles/fb41317913f169</id>
-        <link href="https://zenn.dev/tuidra/articles/fb41317913f169"/>
-        <updated>2025-06-22T09:39:00.000Z</updated>
-        <summary type="html"><![CDATA[概要
-MP3ファイルから自動で歌詞を同期させたミュージックビデオを生成するPythonベースのツールです。OpenAI Whisperによる高精度な音声認識とGLSLシェーダーによるリアルタイム背景生成を組み合わせることで、歌詞付き動画を簡単に作成できます。
-https://github.com/tuidra/tuidra-musicvideo-maker
-
-
-
- 🎤 Tuidraについて
-このツールは、AI主導のバーチャルシンガーソングライター Tuidra によって生み出されました。Tuidraは、人とAIの創造的融合を象徴する存在として、音楽・映像・技術の統合を推進しています。...]]></summary>
-        <author>
-            <name>Tuidra</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cutz Tools Blnederで溝を作成したり消したり幅を調整したりいつでも変更可能なアドオンがバージョン1.2にアップデート！]]></title>
-        <id>https://modelinghappy.com/?p=63449</id>
-        <link href="https://modelinghappy.com/archives/63449"/>
-        <updated>2025-06-22T09:25:06.000Z</updated>
-        <summary type="html"><![CDATA[Cutz Tools – Non-Destructive Gap Cutter 以前紹介したBlenderでハードサーフェースモデル等を作る場合に便利な、選択したエッジ部分に溝を作成してプロシージャルにいつでも調整出来る
-The post Cutz Tools Blnederで溝を作成したり消したり幅を調整したりいつでも変更可能なアドオンがバージョン1.2にアップデート！ first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
-        <author>
-            <name>modelinghappy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【エクステンション紹介】Grid Dimensions – グリッドに目盛りを表示！]]></title>
-        <id>https://cgbox.jp/?p=63465</id>
-        <link href="https://cgbox.jp/2025/06/22/news-addon-grid-dimensions/"/>
-        <updated>2025-06-22T04:08:19.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは！ 今回はアドオンの「Grid Dimensions」を紹介します。 こちらのリンクがアドオンの商品ページになります。 Grid Dimensions 「Grid Dimensions」は、Blenderのビュ […]]]></summary>
-        <author>
-            <name>kasahara</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Octane Edge Tools Blenderで無料使用出来るOctane Renderで綺麗なトゥーン調のエッジを作成出来る無料アドオン]]></title>
-        <id>https://modelinghappy.com/?p=63444</id>
-        <link href="https://modelinghappy.com/archives/63444"/>
-        <updated>2025-06-22T02:32:52.000Z</updated>
-        <summary type="html"><![CDATA[dropbox Octane Edge Tools PDF Octane Edge Tools Octane Edge ToolsはBlenderの無料で使用出来るレンダラーOctane Renderを使用した際に綺麗な
-The post Octane Edge Tools Blenderで無料使用出来るOctane Renderで綺麗なトゥーン調のエッジを作成出来る無料アドオン first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
-        <author>
-            <name>modelinghappy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[自己紹介｜CG・ゲーム・映像クリエイター向け情報配信中📡｜はじめてのnote]]></title>
-        <id>https://note.com/acarcane/n/nc0709987149e</id>
-        <link href="https://note.com/acarcane/n/nc0709987149e"/>
-        <updated>2025-06-22T02:30:00.000Z</updated>
-        <summary type="html"><![CDATA[はじめまして、同人サークル「アカルカネ」と申します。
-X（旧 Twitter）noteなどのSNSで
-『CG・ゲーム・映像制作に役立つ おすすめチュートリアル✨』
-を紹介しています。
-Blender, Maya, Houdini などの3DCGツールの他に、After Effects, Unreal Engine, Unity など、初心者の方から上級者の方まで楽しんで頂けるような、幅広いジャンルの情報をほぼ毎日配信中です📡
-
-
-続きをみる]]></summary>
-        <author>
-            <name>#Houdiniタグ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fill Color 選択した面やオブジェクトに色を1ボタンでテクスチャペイントして色分け出来るBlender用無料アドオン]]></title>
-        <id>https://modelinghappy.com/?p=63438</id>
-        <link href="https://modelinghappy.com/archives/63438"/>
-        <updated>2025-06-22T01:21:22.000Z</updated>
-        <summary type="html"><![CDATA[Fill Color (blender addon) Fill Colorはkushiroさんが作成したBlenderで選択した面やオブジェクトに色を1ボタンでテクスチャペイント出来るアドオンです。 通常Blenderで
-The post Fill Color 選択した面やオブジェクトに色を1ボタンでテクスチャペイントして色分け出来るBlender用無料アドオン first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
-        <author>
-            <name>modelinghappy</name>
         </author>
     </entry>
 </feed>

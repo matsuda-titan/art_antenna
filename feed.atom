@@ -2,10 +2,56 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-07-22T12:22:45.676Z</updated>
+    <updated>2025-07-23T00:59:06.335Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[無料のBlenderアドオン「Easy Custom Normals v2.0.0」リリース！　トゥーンキャラに適した滑らかなシェーディングを実現、有料版では顔のノーマル制御システムも利用可能 - ニュース]]></title>
+        <id>https://cgworld.jp/flashnews/01-202507-EasyCustomNormals-v2.html</id>
+        <link href="https://cgworld.jp/flashnews/01-202507-EasyCustomNormals-v2.html"/>
+        <updated>2025-07-23T00:04:17.000Z</updated>
+        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Envision 1.1 がリリース！交通シミュレーションシステム、近接センサー、新しいレンダリングキューなど]]></title>
+        <id>https://cginterest.com/?p=47981</id>
+        <link href="https://cginterest.com/2025/07/23/envision-1-1-%e3%81%8c%e3%83%aa%e3%83%aa%e3%83%bc%e3%82%b9%ef%bc%81%e4%ba%a4%e9%80%9a%e3%82%b7%e3%83%9f%e3%83%a5%e3%83%ac%e3%83%bc%e3%82%b7%e3%83%a7%e3%83%b3%e3%82%b7%e3%82%b9%e3%83%86%e3%83%a0/"/>
+        <updated>2025-07-22T22:39:00.000Z</updated>
+        <summary type="html"><![CDATA[2025年7月16日（現地時間）- Chaos は、リアルタイムビジュアライゼーションプラットフォーム Chaos Envision 1.1 のリリースを発表しました。 新機能ハイライト Envision 1.1では、交 […]
+Envision 1.1 がリリース！交通シミュレーションシステム、近接センサー、新しいレンダリングキューなど first appeared on CGinterest.]]></summary>
+        <author>
+            <name>.me</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【Houdini】HeightFieldのVolumeSampleの値の取得について]]></title>
+        <id>https://zenn.dev/yuzutarou/articles/8ef5426fc8e823</id>
+        <link href="https://zenn.dev/yuzutarou/articles/8ef5426fc8e823"/>
+        <updated>2025-07-22T17:14:21.000Z</updated>
+        <summary type="html"><![CDATA[調べたこと
+Wrangleノードの０番目につないでいる3次元ボクセルデータの座標から指定のボリューム値をとれるVolumeSample VEXですが、
+HeightFieldの場合、ボクセルの座標から取れなかったので、取得の方法についてまとめました。
+https://www.sidefx.com/ja/docs/houdini/vex/functions/volumesample.html
+Convert HeightFieldノードでポリゴンに変換すると、マスク値が自動的にFloat値などで格納されるので、単純にこちらを使って取得してもいいのですが、HeightFieldの解像度が...]]></summary>
+        <author>
+            <name>ゆずたろう</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[公式ドキュメントの情報を網羅したAI（NotebookLM）を作ってみる]]></title>
+        <id>https://note.com/takakusaki_vrc/n/nc8f3a220fc5b</id>
+        <link href="https://note.com/takakusaki_vrc/n/nc8f3a220fc5b"/>
+        <updated>2025-07-22T16:06:06.000Z</updated>
+        <summary type="html"><![CDATA[まえがき
+続きをみる]]></summary>
+        <author>
+            <name>#SubstanceDesignerタグ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[クリエイティブ分野の出版社など9社が合同展示！1日限りの『CREATOR'S BOOK MARKET』8月2日（土）立川にて開催！（ボーンデジタル） - ニュース]]></title>
         <id>https://cgworld.jp/flashnews/02-2507-book-market.html</id>
@@ -3906,112 +3952,6 @@ Unreal Engine 用の無料メッシュ最適化ツール「Mesh Optimizer Champ�
         <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
         <author>
             <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【Photoshop】テクスチャを使ったブラシを作成しよう]]></title>
-        <id>https://3d.crdg.jp/env/?p=7429</id>
-        <link href="https://3d.crdg.jp/env/2025/06/23/7429/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=%25e3%2580%2590photoshop%25e3%2580%2591%25e3%2583%2586%25e3%2582%25af%25e3%2582%25b9%25e3%2583%2581%25e3%2583%25a3%25e3%2582%2592%25e4%25bd%25bf%25e3%2581%25a3%25e3%2581%259f%25e3%2583%2596%25e3%2583%25a9%25e3%2582%25b7%25e3%2582%2592%25e4%25bd%259c%25e6%2588%2590%25e3%2581%2597%25e3%2582%2588%25e3%2581%2586"/>
-        <updated>2025-06-23T12:51:32.000Z</updated>
-        <summary type="html"><![CDATA[Photoshopでテクスチャを作成する際にテクスチャブラシで質感を加えることができます。まずは使いたいテクスチャ画像を用意しましょう。ここではユニー […]
-続きを読む
-投稿 【Photoshop】テクスチャを使ったブラシを作成しよう は エンホリ - ENVIRONMENT HOLIC｜C&R Creative Studios に最初に表示されました。]]></summary>
-        <author>
-            <name>Jun.Matsumiya</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[10万オブジェクトを低レイヤーの力で描画する]]></title>
-        <id>https://zenn.dev/ebimonaca/articles/508462b7fb9594</id>
-        <link href="https://zenn.dev/ebimonaca/articles/508462b7fb9594"/>
-        <updated>2025-06-23T05:51:20.000Z</updated>
-        <summary type="html"><![CDATA[問題のコード
-using System.Collections.Generic;
-using UnityEngine;
-
-public class Performance : MonoBehaviour
-{
-    public float speed = 0.1f;
-    public GameObject target;
-    List<GameObject> gameobjects = new List<GameObject>();
-    void Start()
-    {
-        for (int i = 0; i < 10000...]]></summary>
-        <author>
-            <name>ebimonaca</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stylized Comic Shader Pack - Epic Games 公式がUnreal Engine 5向けのNPRシェーダーマテリアルを無料公開！インク効果・ハッチング・アウトライン・多彩なアニメション効果を追加可能！]]></title>
-        <id>https://3dnchu.com/?p=1056043</id>
-        <link href="https://3dnchu.com/archives/stylized-comic-shader-pack/"/>
-        <updated>2025-06-23T03:03:59.000Z</updated>
-        <summary type="html"><![CDATA[Epic GamesがUnreal Engine 5向けのNPRシェーダーマテリアル「Stylized Comic Shader Pack」を無料公開しました！]]></summary>
-        <author>
-            <name>Ymt3D -3dnchu-</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[〆切2025年07月06日] Blenderコミュニティ クリエイティブチャレンジ『Worlds Next Door Challenge』]]></title>
-        <id>https://cginterest.com/?p=47125</id>
-        <link href="https://cginterest.com/2025/06/23/%e3%80%86%e5%88%872025%e5%b9%b407%e6%9c%8806%e6%97%a5-blender%e3%82%b3%e3%83%9f%e3%83%a5%e3%83%8b%e3%83%86%e3%82%a3-%e3%82%af%e3%83%aa%e3%82%a8%e3%82%a4%e3%83%86%e3%82%a3%e3%83%96%e3%83%81%e3%83%a3/"/>
-        <updated>2025-06-23T02:16:04.000Z</updated>
-        <summary type="html"><![CDATA[Calver SchoolとBlenderコミュニティによるクリエイティブチャレンジ「Worlds Next Door Challenge」の開催情報です。 開催概要 このチャレンジは、提供されるBlenderテンプレー […]
-[〆切2025年07月06日] Blenderコミュニティ クリエイティブチャレンジ『Worlds Next Door Challenge』 first appeared on CGinterest.]]></summary>
-        <author>
-            <name>.me</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mio3 ShapeKeys 3.0 Beta - 複数シェイプキーの合成や同期などが可能なキャラクターのシェイプキー設定超効率化Blenderアドオン！最新ベータ版が公開！無料！]]></title>
-        <id>https://3dnchu.com/?p=1056033</id>
-        <link href="https://3dnchu.com/archives/mio3-shapekeys-3-0-beta/"/>
-        <updated>2025-06-23T02:04:57.000Z</updated>
-        <summary type="html"><![CDATA[多くの便利Blenderアドオンなどを公開しているMio3氏（@mio3io）がBlender Fesなどでも紹介されたシェイプキー作成補助アドオン「Mio3 ShapeKeys」の最新版であるv3.0のベータ版を一般公開しました！]]></summary>
-        <author>
-            <name>Ymt3D -3dnchu-</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ドラゴンの炎のエフェクト。海外ドラマ『ハウス・オブ・ザ・ドラゴン』シーズン2 のメイキング映像]]></title>
-        <id>https://3dtotal.jp/?p=51768</id>
-        <link href="https://3dtotal.jp/news/51768/"/>
-        <updated>2025-06-23T01:31:00.000Z</updated>
-        <summary type="html"><![CDATA[★Effects Simulations in House of the Dragon S2（2分15秒） 『ハウス・オブ・ザ・ドラゴン』 シーズン2 の エピソード7 で Weta FX が作成した FXシミュレーショ […]
-The post ドラゴンの炎のエフェクト。海外ドラマ『ハウス・オブ・ザ・ドラゴン』シーズン2 のメイキング映像 first appeared on 3dtotal 日本語オフィシャルサイト.]]></summary>
-        <author>
-            <name>3dtotal管理人T</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【UE5】建築ビジュアリゼーションのチュートリアルをレビュー！]]></title>
-        <id>https://cgbox.jp/?p=63470</id>
-        <link href="https://cgbox.jp/2025/06/23/wingfox-tutorial-ue5archviz/"/>
-        <updated>2025-06-23T01:28:11.000Z</updated>
-        <summary type="html"><![CDATA[こんにちは！ 今回はWingfoxで公開されている「Interactive Visualization in Unreal Engine 5.2 for ArchViz」を受講したので、レビューしていきたいと思います！  […]]]></summary>
-        <author>
-            <name>CGbox編集部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【アドオン紹介】Adaptive Subdivision – カメラの距離に応じて細分化！]]></title>
-        <id>https://cgbox.jp/?p=63474</id>
-        <link href="https://cgbox.jp/2025/06/23/news-addon-adaptive-subdivision-2/"/>
-        <updated>2025-06-23T00:46:06.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは！ 今回はアドオンの「Adaptive Subdivision」を紹介します。 こちらのリンクがアドオンの商品ページになります。 Adaptive Subdivision 「Adaptive Subdivisi […]]]></summary>
-        <author>
-            <name>kasahara</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[polydex ハードドライブにはいってるあらゆるテクスチャ、マテリアル、3Dモデル、HDRIをプレビュー表示して検索、使用が簡単になるソフトのベータ版が無料公開]]></title>
-        <id>https://modelinghappy.com/?p=63462</id>
-        <link href="https://modelinghappy.com/archives/63462"/>
-        <updated>2025-06-23T00:26:47.000Z</updated>
-        <summary type="html"><![CDATA[polydex 高品質なテクスチャやモデル等を販売しているPOLIGONから、3Dモデル、テクスチャ、HDRIを自動的に表示、関連するアセットファイルは自動的にグループ化表示、PBRテクスチャはプレビューでマテリアル表示
-The post polydex ハードドライブにはいってるあらゆるテクスチャ、マテリアル、3Dモデル、HDRIをプレビュー表示して検索、使用が簡単になるソフトのベータ版が無料公開 first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
-        <author>
-            <name>modelinghappy</name>
         </author>
     </entry>
 </feed>

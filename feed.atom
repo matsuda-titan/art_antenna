@@ -2,10 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-07-26T08:14:07.081Z</updated>
+    <updated>2025-07-26T12:20:04.211Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Arnold for Mayaのプラグインを作成するためのビルド設定について]]></title>
+        <id>https://qiita.com/scixarts/items/092f23ce3613857ce73a</id>
+        <link href="https://qiita.com/scixarts/items/092f23ce3613857ce73a"/>
+        <updated>2025-07-26T10:10:06.000Z</updated>
+        <summary type="html"><![CDATA[環境
+
+Windows
+Autodesk Maya 2026.1
+MtoA (Arnold for Maya) 5.5.4
+Visual Studio 2022
+
+Arnoldのプラグイン作成について
+ArnoldのプラグインはC++で作成できます。サンプルコードは公式...]]></summary>
+        <author>
+            <name>mayaタグが付けられた新着記事 - Qiita</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[昔作ったHoudniの投稿まとめ]]></title>
+        <id>https://note.com/tunasaba/n/n38ae3e9916d2</id>
+        <link href="https://note.com/tunasaba/n/n38ae3e9916d2"/>
+        <updated>2025-07-26T08:53:26.000Z</updated>
+        <summary type="html"><![CDATA[最近VrChatを始めて、Houdiniの情報交換をする機会が増えたので
+昔の投稿まとめました。(5年経ってる・・・)
+時系列順にどんどん貼ってきます
+続きをみる]]></summary>
+        <author>
+            <name>#Houdiniタグ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2025年7月発売のCG関連書籍をチェック！]]></title>
         <id>https://cginterest.com/?p=47204</id>
@@ -3815,27 +3846,6 @@ The post ZBrush で作成した 髪の毛 を 3ds Max (Ornatrix) へ：ZBrush to
 The post ディズニー・ピクサー映画『星つなぎのエリオ』のトレーラー（英語／日本語） first appeared on 3dtotal 日本語オフィシャルサイト.]]></summary>
         <author>
             <name>3dtotal管理人T</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Procedural Tiles 31種類以上のパターン模様をプロシージャルに調整出来る無料ノードデータ]]></title>
-        <id>https://modelinghappy.com/?p=63518</id>
-        <link href="https://modelinghappy.com/archives/63518"/>
-        <updated>2025-06-26T23:51:33.000Z</updated>
-        <summary type="html"><![CDATA[Procedural Tiles Procedural Tilesは31種類以上のノードが用意されていて、床や壁に使えるタイルパターンのサイズ、目地、色、角の丸み、幅などをパラメーターで調整したり、トゥーンシェーディング
-The post Procedural Tiles 31種類以上のパターン模様をプロシージャルに調整出来る無料ノードデータ first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
-        <author>
-            <name>modelinghappy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3Dモデル生成AI「PartCrafter」オープンソースで公開！  1枚の写真から編集可能な3Dパーツを瞬時に生成 - ニュース]]></title>
-        <id>https://cgworld.jp/flashnews/01-202506-PartCrafter.html</id>
-        <link href="https://cgworld.jp/flashnews/01-202506-PartCrafter.html"/>
-        <updated>2025-06-26T22:36:24.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
         </author>
     </entry>
 </feed>

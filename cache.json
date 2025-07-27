@@ -360,21 +360,6 @@
             "type": "video/mp4"
           },
           "imageUrl": "https://cgbox.jp/wp-content/uploads/2025/06/e0231715b7f512c81bf318dbec2b2790a85b58343618231e89bc3d8136d121de_640x360.webp"
-        },
-        {
-          "id": "https://cgbox.jp/?p=63511",
-          "author": "kasahara",
-          "description": "こんばんは！ 今回はアドオンの「Imposter Cards」を紹介します。 こちらのリンクがアドオンの商品ページになります。 Imposter Cards 「Imposter Cards」は、複数の高ポリゴン3Dオブジ […]",
-          "link": "https://cgbox.jp/2025/06/27/news-addon-imposter-cards/",
-          "publishedOn": "2025-06-27T03:28:10.000Z",
-          "wordCount": 2260,
-          "title": "【アドオン紹介】Imposter Cards –",
-          "enclosure": {
-            "url": "https://cgbox.jp/wp-content/uploads/2025/06/ezgif-48db3d5ee8c1d8_2-4.mp4",
-            "length": "0",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://cgbox.jp/wp-content/uploads/2025/06/image_processing20250621-2-h1wabm.jpg"
         }
       ]
     },
@@ -395,6 +380,21 @@
       "feedUrl": "https://3dnchu.com/feed/",
       "siteUrl": "https://3dnchu.com",
       "articles": [
+        {
+          "id": "https://3dnchu.com/?p=1056971",
+          "author": "Ymt3D -3dnchu-",
+          "description": "CUHK、UCL、Adobe Research、UESTCの研究者らによる、指定したシェイプに対して適切な手影用ハンドポーズを提示してくれる技術「Hand Shadow Poser」のご紹介。SIGGRAPH 2025発表技術論文です。",
+          "link": "https://3dnchu.com/archives/hand-shadow-poser/",
+          "publishedOn": "2025-07-26T18:25:47.000Z",
+          "wordCount": 8678,
+          "title": "Hand Shadow Poser - 多彩な形状に対応した手影絵のハンドポーズを生成できる技術！",
+          "enclosure": {
+            "url": "https://3dnchu.com/wp-content/uploads/Hand-Shadow-Poser.webp",
+            "length": "903722",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://3dnchu.com/wp-content/uploads/Hand-Shadow-Poser.webp"
+        },
         {
           "id": "https://3dnchu.com/?p=1056961",
           "author": "Ymt3D -3dnchu-",
@@ -1062,6 +1062,16 @@
       "feedUrl": "https://cgworld.jp/atom.xml",
       "siteUrl": "https://cgworld.jp/",
       "articles": [
+        {
+          "id": "https://cgworld.jp/flashnews/01-202507-VRChatGaussianSplatting-v2.html",
+          "author": null,
+          "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
+          "link": "https://cgworld.jp/flashnews/01-202507-VRChatGaussianSplatting-v2.html",
+          "publishedOn": "2025-07-26T23:28:22.000Z",
+          "wordCount": 837,
+          "title": "「VRChat Gaussian Splatting v2」公開！　VRChatで3DGSデータをレンダリングできるオープンソースツール - ニュース",
+          "imageUrl": "https://cgworld.jp/flashnews/assets_c/2025/07/VRChat_GSv2-01-thumb-1080x675-71770.jpg"
+        },
         {
           "id": "https://cgworld.jp/flashnews/01-202507-Blender45LTS.html",
           "author": null,
@@ -1821,46 +1831,6 @@
           "wordCount": 953,
           "title": "完全オープンソースの3Dモデル生成AI「Hunyuan 3D 2.1」公開！　モデルウェイトとトレーニングコードが提供されるコミュニティ向け基盤モデル - ニュース",
           "imageUrl": "https://cgworld.jp/flashnews/assets_c/2025/06/Hunyuan3D21-01-thumb-900x506-70858.jpg"
-        },
-        {
-          "id": "https://cgworld.jp/flashnews/3d.html",
-          "author": null,
-          "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
-          "link": "https://cgworld.jp/flashnews/3d.html",
-          "publishedOn": "2025-06-27T08:04:33.000Z",
-          "wordCount": 724,
-          "title": "シリコンスタジオが山岳トンネルの建設現場を3D化－ゲームエンジンでリアルタイム可視化を支援 - ニュース",
-          "imageUrl": "https://cgworld.jp/flashnews/assets_c/2025/06/2506_silicon_main%20%281%29-thumb-1000x563-70815.png"
-        },
-        {
-          "id": "https://cgworld.jp/flashnews/01-202506-Sparc3D-Hitem3D.html",
-          "author": null,
-          "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
-          "link": "https://cgworld.jp/flashnews/01-202506-Sparc3D-Hitem3D.html",
-          "publishedOn": "2025-06-27T03:41:16.000Z",
-          "wordCount": 780,
-          "title": "3Dモデル生成AI「Sparc3D」リリース！　高精細な形状推定が特徴、Webアプリ「Hitem3D」上で1日5回まで無料で生成可能 - ニュース",
-          "imageUrl": "https://cgworld.jp/flashnews/assets_c/2025/06/Sparc3D-01-thumb-1280x720-70835.jpg"
-        },
-        {
-          "id": "https://cgworld.jp/special-feature/AMD-okada-202506.html",
-          "author": null,
-          "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
-          "link": "https://cgworld.jp/special-feature/AMD-okada-202506.html",
-          "publishedOn": "2025-06-27T02:45:00.000Z",
-          "wordCount": 679,
-          "title": "直感を止めない究極のマシン構成──ZBrushアーティスト岡田恵太氏が選んだ、AMD Ryzen Threadripper PRO 7995WX搭載マシンの真価 - スペシャルコンテンツ",
-          "imageUrl": "https://cgworld.jp/special-feature/assets_c/2025/06/e78394570f3e04dcd28d27472995f22051686c29-thumb-1440x810-70754.jpg"
-        },
-        {
-          "id": "https://cgworld.jp/regular/guncys-ue5-009.html",
-          "author": null,
-          "description": "プロシージャルフロー×UE5で挑む映像制作",
-          "link": "https://cgworld.jp/regular/guncys-ue5-009.html",
-          "publishedOn": "2025-06-27T01:49:00.000Z",
-          "wordCount": 786,
-          "title": "第9回：プロジェクトの進捗と現状の課題をゲストと共にふり返る - 連載",
-          "imageUrl": "https://cgworld.jp/regular/assets_c/2025/06/main_09-thumb-1000x563-70834.png"
         }
       ]
     },
@@ -2786,56 +2756,6 @@
           "wordCount": 565,
           "title": "映画、TV、ゲーム、デザイン..。Autodesk Media & Entertainment のショーリール 2025",
           "imageUrl": "https://3dtotal.jp/wp-content/uploads/2025/06/autodesk_sreel25.jpg"
-        },
-        {
-          "id": "https://3dtotal.jp/?p=51853",
-          "author": "3dtotal管理人T",
-          "description": "★Assets Spaceships Reel by RodeoFX（2分8秒） 車を集める人はいます。私たちは宇宙船を集めています! 洗練された SFクルーザーから、戦いに明け暮れた反乱軍の船まで、私たち Rodeo  […]\nThe post 宇宙船、SFクルーザーから反乱軍の船まで。Rodeo FX の Assets Spaceship リール 2025 first appeared on 3dtotal 日本語オフィシャルサイト.",
-          "link": "https://3dtotal.jp/news/51853/",
-          "publishedOn": "2025-06-27T02:34:50.000Z",
-          "wordCount": 544,
-          "title": "宇宙船、SFクルーザーから反乱軍の船まで。Rodeo FX の Assets Spaceship リール 2025",
-          "imageUrl": "https://3dtotal.jp/wp-content/uploads/2025/06/rodeo_spaceshipreel25.jpg"
-        },
-        {
-          "id": "https://3dtotal.jp/?p=51849",
-          "author": "3dtotal管理人T",
-          "description": "★Emirates ICE | Framestore（3分4秒） Framestore Pictures の Murray Butler が監督を務めた「Emirates ICE」は、エミレーツ航空 と Framesto […]\nThe post サッカーするペンギン、墜落した宇宙船..。エミレーツ航空の機内エンターテインメントシステム ICE の紹介映像 first appeared on 3dtotal 日本語オフィシャルサイト.",
-          "link": "https://3dtotal.jp/news/51849/",
-          "publishedOn": "2025-06-27T02:32:08.000Z",
-          "wordCount": 524,
-          "title": "サッカーするペンギン、墜落した宇宙船..。エミレーツ航空の機内エンターテインメントシステム ICE の紹介映像",
-          "imageUrl": "https://3dtotal.jp/wp-content/uploads/2025/06/emiratesice_fstore.jpg"
-        },
-        {
-          "id": "https://3dtotal.jp/?p=51844",
-          "author": "3dtotal管理人T",
-          "description": "★GUILTY GEAR Xrd開発スタッフが送るスキニングのためのモデリングTIPS Part1（17分25秒） スキニング作業がしやすい環境づくりと、よくあるミス「モデルの関節を曲げたら細くなっちゃった」が起こる理由 […]\nThe post GUILTY GEAR Xrd 開発スタッフが送る スキニングのためのモデリング TIPS first appeared on 3dtotal 日本語オフィシャルサイト.",
-          "link": "https://3dtotal.jp/tutorials/51844/",
-          "publishedOn": "2025-06-27T02:27:14.000Z",
-          "wordCount": 542,
-          "title": "GUILTY GEAR Xrd 開発スタッフが送る スキニングのためのモデリング TIPS",
-          "imageUrl": "https://3dtotal.jp/wp-content/uploads/2025/06/ggxrd_modelingforskin3.jpg"
-        },
-        {
-          "id": "https://3dtotal.jp/?p=51859",
-          "author": "3dtotal管理人T",
-          "description": "★Mastering ZBrush Hair in 3ds Max with ORNATRIX. Ep 1（5分20秒） 皆さん、こんにちは! Charly です。このエピソード1では、Ornatrix を使って ZBr […]\nThe post ZBrush で作成した 髪の毛 を 3ds Max (Ornatrix) へ：ZBrush to Ornatrix 3ds Max（※英語ムービー） first appeared on 3dtotal 日本語オフィシャルサイト.",
-          "link": "https://3dtotal.jp/tutorials/51859/",
-          "publishedOn": "2025-06-27T01:10:59.000Z",
-          "wordCount": 600,
-          "title": "ZBrush で作成した 髪の毛 を 3ds Max (Ornatrix) へ：ZBrush to Ornatrix 3ds Max（※英語ムービー）",
-          "imageUrl": "https://3dtotal.jp/wp-content/uploads/2025/06/hair_ZBtoMax.jpg"
-        },
-        {
-          "id": "https://3dtotal.jp/?p=42319",
-          "author": "3dtotal管理人T",
-          "description": "★「星つなぎのエリオ」日本版本予告（2分14秒） ★Elio | Final Trailer（2分24秒） ★Elio | Behind the Scenes with Zoe Saldaña（1分15秒） ★Elio  […]\nThe post ディズニー・ピクサー映画『星つなぎのエリオ』のトレーラー（英語／日本語） first appeared on 3dtotal 日本語オフィシャルサイト.",
-          "link": "https://3dtotal.jp/news/42319/",
-          "publishedOn": "2025-06-27T01:00:53.000Z",
-          "wordCount": 532,
-          "title": "ディズニー・ピクサー映画『星つなぎのエリオ』のトレーラー（英語／日本語）",
-          "imageUrl": "https://3dtotal.jp/wp-content/uploads/2025/05/elio_jtrailer.jpg"
         }
       ]
     },
@@ -3162,26 +3082,6 @@
           "wordCount": 2322,
           "title": "【Unity URP Shader】崩壊：スターレイル風トゥーンシェーダー再現 学習記録1",
           "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRmxoMy5nb29nbGV1c2VyY29udGVudC5jb20lMkZhJTJGQUNnOG9jSmtJXzhmNnRIWVJzR3lySWpfX0R4NW1XUTNqeTVzdzJPdHdVSjNvSlA4N283MU9GRSUzRHM5Ni1jP2l4bGliPXJiLTQuMC4wJmFyPTElM0ExJmZpdD1jcm9wJm1hc2s9ZWxsaXBzZSZmbT1wbmczMiZzPTAwZjMxOTM4NWRkYjQxYzNiMGE2YWJhZjI1NDJmMmFi%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D07c031f85b5d6e31a8fac277f2f88a85?ixlib=rb-4.0.0&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9JUUzJTgwJTkwVW5pdHklMjBVUlAlMjBTaGFkZXIlRTMlODAlOTElRTUlQjQlQTklRTUlQTMlOEElRUYlQkMlOUElRTMlODIlQjklRTMlODIlQkYlRTMlODMlQkMlRTMlODMlQUMlRTMlODIlQTQlRTMlODMlQUIlRTklQTIlQTglRTMlODMlODglRTMlODIlQTUlRTMlODMlQkMlRTMlODMlQjMlRTMlODIlQjclRTMlODIlQTclRTMlODMlQkMlRTMlODMlODAlRTMlODMlQkMlRTUlODYlOEQlRTclOEYlQkUlMjAlRTUlQUQlQTYlRTclQkYlOTIlRTglQTglOTglRTklOEMlQjIxJnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9NTdhM2JiNDc4ODY3YWY1NWYxMTZlMTcxNTZkMGMzZjY&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBkc3oxNDY4Mjg4MjczJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9ZmIyYzJkOWNlYzc3ZTQ0Yzc4YjJlOTc3Nzk5YjRhOGE&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=f27ca283f390a3fe108c69b3bb8ef3f4"
-        },
-        {
-          "id": "https://qiita.com/yuri_tsukimi/items/e122b1c5185041b8d8d3",
-          "author": null,
-          "description": "概要\nジオメトリシェーダーの出力形式は3種類あります．[^1]\n\n普段使うのはTriangleStreamですが，エディタ表示用に線をたくさん書きたくなったので，LineStreamの使い方を調べまし…",
-          "link": "https://qiita.com/yuri_tsukimi/items/e122b1c5185041b8d8d3",
-          "publishedOn": "2025-06-27T09:40:22.000Z",
-          "wordCount": 1633,
-          "title": "【Unity】シェーダーでLineジオメトリを出力する",
-          "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYzODI1NzczJTJGZTUzOGI2MGJkYTY3M2ZhOWQwMTdhMzg5NThlNDhiM2ZhOGYwMzg5MyUyRnhfbGFyZ2UucG5nJTNGMTcxOTQ5Njg2OT9peGxpYj1yYi00LjAuMCZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmZm09cG5nMzImcz01YmRjZjU4N2FmNjRmMWU5YTNiNDI1MDliNzM4ZjgzNw%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3Dc10cc1f71d41fd95792a614869950d8b?ixlib=rb-4.0.0&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9JUUzJTgwJTkwVW5pdHklRTMlODAlOTElRTMlODIlQjclRTMlODIlQTclRTMlODMlQkMlRTMlODMlODAlRTMlODMlQkMlRTMlODElQTdMaW5lJUUzJTgyJUI4JUUzJTgyJUFBJUUzJTgzJUExJUUzJTgzJTg4JUUzJTgzJUFBJUUzJTgyJTkyJUU1JTg3JUJBJUU1JThBJTlCJUUzJTgxJTk5JUUzJTgyJThCJnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9YTFhNzM2OWVjNzY1NGM5ODY1NmZlZGNjMzk1NDA0ZDE&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDB5dXJpX3RzdWtpbWkmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz1hNTk1ZWExZTNjN2EyODM1Y2E2YThhNjg4NWI1NzdjNg&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=38b873fe46a986acfe1a1de137ab3330"
-        },
-        {
-          "id": "https://qiita.com/bino_rdl/items/2cee6e2bbfe77618d113",
-          "author": null,
-          "description": "1. はじめに\n初めまして\nゲーム事業部でUnityエンジニアをしている日比野です\n演出や描画周りに興味があり、個人的にいろいろ作ったりしています\n今回は勉強がてらスポットライトとシャドウマップを…",
-          "link": "https://qiita.com/bino_rdl/items/2cee6e2bbfe77618d113",
-          "publishedOn": "2025-06-27T03:53:05.000Z",
-          "wordCount": 1455,
-          "title": "Unity上でスポットライトとシャドウマップを自作してみた",
-          "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Ftech-festa-ogp-background-4b5015b2c518c7e6b9062a7c9f5f5e90.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkY0MDM2MDQ2JTJGMGY2MmY2YjZiYzI5YTA0ZWY5YWUxNTMzYTgxOTIwNzZhZmYxMjdlNCUyRnhfbGFyZ2UucG5nJTNGMTc0MTk0NzA2OT9peGxpYj1yYi00LjAuMCZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmZm09cG5nMzImcz1kODBkODFmZTExYmMyMTM0MDdhNTM5Yzk4ZjViMzk2Yg%26blend-x%3D120%26blend-y%3D462%26blend-w%3D90%26blend-h%3D90%26blend-mode%3Dnormal%26mark64%3DaHR0cHM6Ly9xaWl0YS1vcmdhbml6YXRpb24taW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1vcmdhbml6YXRpb24taW1hZ2UlMkYyMjc0Y2VmYzM3ZDI5ZDI2YWNmYTA0OGM3MmViMDM5YWQ3ZTQ2ODJmJTJGb3JpZ2luYWwuanBnJTNGMTczNDM5OTM2ND9peGxpYj1yYi00LjAuMCZ3PTQ0Jmg9NDQmZml0PWNyb3AmbWFzaz1jb3JuZXJzJmNvcm5lci1yYWRpdXM9OCZib3JkZXI9MiUyQ0ZGRkZGRiZmbT1wbmczMiZzPTkwYTdlZmEwNjQyZWE4MTI4MzViMzgzMzNkNTk2ODY1%26mark-x%3D186%26mark-y%3D515%26mark-w%3D40%26mark-h%3D40%26s%3Dd34225ba674cd507f250494536e94d04?ixlib=rb-4.0.0&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9VW5pdHklRTQlQjglOEElRTMlODElQTclRTMlODIlQjklRTMlODMlOUQlRTMlODMlODMlRTMlODMlODglRTMlODMlQTklRTMlODIlQTQlRTMlODMlODglRTMlODElQTglRTMlODIlQjclRTMlODMlQTMlRTMlODMlODklRTMlODIlQTYlRTMlODMlOUUlRTMlODMlODMlRTMlODMlOTclRTMlODIlOTIlRTglODclQUElRTQlQkQlOUMlRTMlODElOTclRTMlODElQTYlRTMlODElQkYlRTMlODElOUYmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyM0ZGRkZGRiZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz1kOGE2ZWE5NTM5YjI4OTJlMDc3YTRmNmY4NGEwNjhkZA&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBiaW5vX3JkbCZ0eHQtY29sb3I9JTIzRkZGRkZGJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPTRjNzRlZmI3ZDQxNTdjZWRjZWViNjBjMzJlZmFhZmNi&blend-x=242&blend-y=454&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&txt64=5qCq5byP5Lya56S-44Os44Ki44K-44Oz44O744Ob44O844Or44OH44Kj44Oz44Kw44K5&txt-x=242&txt-y=539&txt-width=838&txt-clip=end%2Cellipsis&txt-color=%23FFFFFF&txt-font=Hiragino%20Sans%20W6&txt-size=28&s=f2f46e95750224eb14d53047b56bb2ee"
         }
       ]
     },
@@ -3373,16 +3273,6 @@
           "wordCount": 182,
           "title": "オートデスク協賛 CGWORLD JAM ONLINE 2025",
           "imageUrl": "https://area.autodesk.jp/event/assets_c/2025/06/ic_cgwjam_online_2025_1400x782-thumb-1200xauto-5695.jpg"
-        },
-        {
-          "id": "https://area.autodesk.jp/information/showreel-2025/",
-          "author": null,
-          "description": "Autodesk のソフトウェアを使用して制作された作品のショーケースとして、毎年恒例の Autodesk Media & Entertainment Showreel を公開しています。 \t \t優れた作品を制作されたアーティストの皆様に感謝の意を表し、Autodesk のソフトウェアを使用して制作された作品の一部を紹介します。 \t \t \t\t \t \t...・・・",
-          "link": "https://area.autodesk.jp/information/showreel-2025/",
-          "publishedOn": "2025-06-27T05:45:49.000Z",
-          "wordCount": 224,
-          "title": "Autodesk Media & Entertainment Showreel 2025",
-          "imageUrl": "https://area.autodesk.jp/information/assets_c/2025/06/ic_showreal_2025-thumb-1200xauto-5692.jpg"
         }
       ]
     },
@@ -3572,6 +3462,16 @@
       "feedUrl": "https://note.com/hashtag/substancepainter/rss",
       "siteUrl": "https://note.com/hashtag/substancepainter",
       "articles": [
+        {
+          "id": "https://note.com/juntominaga/n/n4b3de1785f16",
+          "author": null,
+          "description": "― マスクと直接設定の使い分けも交えて整理 ―\n🪨 Marble Veins（マーブルベイン）\n続きをみる",
+          "link": "https://note.com/juntominaga/n/n4b3de1785f16",
+          "publishedOn": "2025-07-26T23:51:08.000Z",
+          "wordCount": 2383,
+          "title": "📘 用語ノート｜グリーン系大理石マテリアル編",
+          "imageUrl": "https://assets.st-note.com/production/uploads/images/204275601/rectangle_large_type_2_13e9f6903101978fb08ecbf3cc4da515.png?width=800"
+        },
         {
           "id": "https://note.com/juntominaga/n/nd420fc6cf4fa",
           "author": null,
@@ -4231,31 +4131,6 @@
             "type": "video/mp4"
           },
           "imageUrl": "https://cginterest.com/wp-content/uploads/2025/06/20250627_Pulldownit6for3dsmax.webp"
-        },
-        {
-          "id": "https://cginterest.com/?p=47318",
-          "author": ".me",
-          "description": "2025年6月26日 – Sony は、XYN Motion Studioおよびmocopi関連アプリケーションのバージョンアップデートのリリースを発表しました。 あわせて「CLIP STUDIO ASSET […]\nXYN Motion Studio&mocopi関連アプリがアップデート！モーションフォーマット変換機能追加、CLIP STUDIO向け無料サンプルモーション公開など first appeared on CGinterest.",
-          "link": "https://cginterest.com/2025/06/27/xyn-motion-studiomocopi%e9%96%a2%e9%80%a3%e3%82%a2%e3%83%97%e3%83%aa%e3%81%8c%e3%82%a2%e3%83%83%e3%83%97%e3%83%87%e3%83%bc%e3%83%88%ef%bc%81%e3%83%a2%e3%83%bc%e3%82%b7%e3%83%a7%e3%83%b3%e3%83%95/",
-          "publishedOn": "2025-06-27T06:34:48.000Z",
-          "wordCount": 749,
-          "title": "XYN Motion Studio&mocopi関連アプリがアップデート！モーションフォーマット変換機能追加、CLIP STUDIO向け無料サンプルモーション公開など",
-          "enclosure": {
-            "url": "https://cginterest.com/wp-content/uploads/2025/06/20250627-Xyn-Clipstudiomotion.mp4",
-            "length": "299113",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://cginterest.com/wp-content/uploads/2025/06/20250627_xyn-studio-mocopi-update.webp"
-        },
-        {
-          "id": "https://cginterest.com/?p=47311",
-          "author": ".me",
-          "description": "EIZOダイレクトで開催されているセールの紹介です。 セール概要 アカデミー科学技術賞を受賞したColorEdge CGシリーズ、写真プリントとの色合わせが好評のColorEdge CSシリーズや、長時間のPC作業でも目 […]\n【2025年7月31日まで】EIZO ColorEdge CG＆CSシリーズディスプレイが期間限定で15％オフに！ first appeared on CGinterest.",
-          "link": "https://cginterest.com/2025/06/27/%e3%80%902025%e5%b9%b47%e6%9c%8831%e6%97%a5%e3%81%be%e3%81%a7%e3%80%91eizo-coloredge-cg%ef%bc%86cs%e3%82%b7%e3%83%aa%e3%83%bc%e3%82%ba%e3%83%87%e3%82%a3%e3%82%b9%e3%83%97%e3%83%ac%e3%82%a4%e3%81%8c/",
-          "publishedOn": "2025-06-27T04:55:46.000Z",
-          "wordCount": 727,
-          "title": "【2025年7月31日まで】EIZO ColorEdge CG＆CSシリーズディスプレイが期間限定で15％オフに！",
-          "imageUrl": "https://cginterest.com/wp-content/uploads/2025/06/20241026_eizocoloredgeCGsale.webp"
         }
       ]
     }

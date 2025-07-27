@@ -1870,7 +1870,18 @@
       "title": "UnPySide",
       "feedUrl": "https://unpyside.com/feed/",
       "siteUrl": "https://unpyside.com",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://unpyside.com/?p=2331",
+          "author": "ringosan",
+          "description": "どうもお久しぶりです。ちょうど、カナダ、トロントに来ましておおよそ8か月目に突入する手前、半年間の語学学校での英語漬けも終わりました。英語力に関しては、私が目標にしていたCEFR C1にはぎりぎり到達しませんでしたが以前 […]",
+          "link": "https://unpyside.com/blog/2025/07/27/game-industry-layoffs-toronto-2025/?utm_source=rss&utm_medium=rss&utm_campaign=game-industry-layoffs-toronto-2025",
+          "publishedOn": "2025-07-27T03:22:37.000Z",
+          "wordCount": 4836,
+          "title": "北米のゲーム業界は想像以上に厳しかった — 現地で感じたレイオフの波",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "StudioBros Tech blog | スタジオブロス テックブログ",
@@ -3023,6 +3034,16 @@
       "feedUrl": "https://qiita.com/tags/shader/feed",
       "siteUrl": "https://qiita.com",
       "articles": [
+        {
+          "id": "https://qiita.com/yuri_tsukimi/items/87a34245abfce47d1960",
+          "author": null,
+          "description": "概要\nメッシュを変形するとUVも一緒に曲がりますが，UVは三角形で補間されるので，ポリゴンフローで見るとガビガビになってしまいます．\nこれをシェーダーで補正します．ただし，本手法は制約が厳しいので応用先は限定的です．\n\n前提条件\n本手法でUVを補正するためには，メッシュ...",
+          "link": "https://qiita.com/yuri_tsukimi/items/87a34245abfce47d1960",
+          "publishedOn": "2025-07-27T03:45:06.000Z",
+          "wordCount": 2200,
+          "title": "【Unity】四角形の変形によるUVの褶曲をシェーダーで補正する",
+          "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYzODI1NzczJTJGZTUzOGI2MGJkYTY3M2ZhOWQwMTdhMzg5NThlNDhiM2ZhOGYwMzg5MyUyRnhfbGFyZ2UucG5nJTNGMTcxOTQ5Njg2OT9peGxpYj1yYi00LjAuMCZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9MzczMjIwMmUxZDFmMDQyNTkwNmVmYzJlMTUxOTk2NDE%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D2c44d83ab4a01f8bb86566291a9414a7?ixlib=rb-4.0.0&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9JUUzJTgwJTkwVW5pdHklRTMlODAlOTElRTUlOUIlOUIlRTglQTclOTIlRTUlQkQlQTIlRTMlODElQUUlRTUlQTQlODklRTUlQkQlQTIlRTMlODElQUIlRTMlODIlODglRTMlODIlOEJVViVFMyU4MSVBRSVFOCVBNCVCNiVFNiU5QiVCMiVFMyU4MiU5MiVFMyU4MiVCNyVFMyU4MiVBNyVFMyU4MyVCQyVFMyU4MyU4MCVFMyU4MyVCQyVFMyU4MSVBNyVFOCVBMyU5QyVFNiVBRCVBMyVFMyU4MSU5OSVFMyU4MiU4QiZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnR4dC1wYWQ9MCZzPWViNWY2ZTk4OTFlMzAzYWZjMTM0YTY4ODJiZGI0YTRk&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDB5dXJpX3RzdWtpbWkmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz1hNTk1ZWExZTNjN2EyODM1Y2E2YThhNjg4NWI1NzdjNg&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=362d69f92bd308f309193883504e44ae"
+        },
         {
           "id": "https://qiita.com/ayaha401/items/dc8a291533d6c16b7219",
           "author": null,

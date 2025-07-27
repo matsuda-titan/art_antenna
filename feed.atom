@@ -2,10 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-07-27T01:04:04.137Z</updated>
+    <updated>2025-07-27T04:01:36.790Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【Unity】四角形の変形によるUVの褶曲をシェーダーで補正する]]></title>
+        <id>https://qiita.com/yuri_tsukimi/items/87a34245abfce47d1960</id>
+        <link href="https://qiita.com/yuri_tsukimi/items/87a34245abfce47d1960"/>
+        <updated>2025-07-27T03:45:06.000Z</updated>
+        <summary type="html"><![CDATA[概要
+メッシュを変形するとUVも一緒に曲がりますが，UVは三角形で補間されるので，ポリゴンフローで見るとガビガビになってしまいます．
+これをシェーダーで補正します．ただし，本手法は制約が厳しいので応用先は限定的です．
+
+前提条件
+本手法でUVを補正するためには，メッシュ...]]></summary>
+        <author>
+            <name>Shaderタグが付けられた新着記事 - Qiita</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[北米のゲーム業界は想像以上に厳しかった — 現地で感じたレイオフの波]]></title>
+        <id>https://unpyside.com/?p=2331</id>
+        <link href="https://unpyside.com/blog/2025/07/27/game-industry-layoffs-toronto-2025/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=game-industry-layoffs-toronto-2025"/>
+        <updated>2025-07-27T03:22:37.000Z</updated>
+        <summary type="html"><![CDATA[どうもお久しぶりです。ちょうど、カナダ、トロントに来ましておおよそ8か月目に突入する手前、半年間の語学学校での英語漬けも終わりました。英語力に関しては、私が目標にしていたCEFR C1にはぎりぎり到達しませんでしたが以前 […]]]></summary>
+        <author>
+            <name>ringosan</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[📘 用語ノート｜グリーン系大理石マテリアル編]]></title>
         <id>https://note.com/juntominaga/n/n4b3de1785f16</id>

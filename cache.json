@@ -391,6 +391,21 @@
       "siteUrl": "https://3dnchu.com",
       "articles": [
         {
+          "id": "https://3dnchu.com/?p=1056998",
+          "author": "Ymt3D -3dnchu-",
+          "description": "レイヤー方式とノードベース処理を融合し、非破壊でプロシージャルな編集を可能にする 無料・オープンソースの2Dグラフィックエディタ「Graphite」のご紹介。",
+          "link": "https://3dnchu.com/archives/graphite/",
+          "publishedOn": "2025-07-28T10:16:07.000Z",
+          "wordCount": 8845,
+          "title": "Graphite - レイヤー方式とノードベース処理を融合！非破壊＆プロシージャル編集が可能な無料かつオープンソースの2Dグラフィック編集ツール！",
+          "enclosure": {
+            "url": "https://3dnchu.com/wp-content/uploads/Graphite.webp",
+            "length": "1283598",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://3dnchu.com/wp-content/uploads/Graphite.webp"
+        },
+        {
           "id": "https://3dnchu.com/?p=1056985",
           "author": "Ymt3D -3dnchu-",
           "description": "レンダラーGuerilla Render なども手掛けるMercenaries Engineeringによる3Dアニメーション制作ソフトのメジャーアップデート「Rumba 2.0」がリリースされました！",
@@ -2390,16 +2405,6 @@
           "wordCount": 3460,
           "title": "Jiggle Physics リギング済みモデルに揺れや弾みの物理挙動をリアルタイムに加えることができるBlender用無料アドオン",
           "imageUrl": "https://modelinghappy.com/wp-content/uploads/2025/06/20250629_JigglePhysics_01.jpg"
-        },
-        {
-          "id": "https://modelinghappy.com/?p=63523",
-          "author": "modelinghappy",
-          "description": "Full Process of Leather Backpack 世界中のチュートリアル動画を販売しているWingfoxのサイトでレザーで作られたパーツ類が多いバックパックを作成するチュートリアル動画が販売開始されました\nThe post レザーで作られたパーツ類の多いバックパックを１からBlender、RizomUV、Substance 3D Painterを使用して作成するチュートリアル動画がWingfoxで販売開始！ first appeared on 3DCG最新情報サイト MODELING HAPPY.",
-          "link": "https://modelinghappy.com/archives/63523",
-          "publishedOn": "2025-06-29T00:21:16.000Z",
-          "wordCount": 3470,
-          "title": "レザーで作られたパーツ類の多いバックパックを１からBlender、RizomUV、Substance 3D Painterを使用して作成するチュートリアル動画がWingfoxで販売開始！",
-          "imageUrl": "https://modelinghappy.com/wp-content/uploads/2025/06/20250629_full_process_00.jpg"
         }
       ]
     },
@@ -3105,6 +3110,16 @@
       "siteUrl": "https://qiita.com",
       "articles": [
         {
+          "id": "https://qiita.com/Uehara1124/items/7769dc97b21edb4f1df5",
+          "author": null,
+          "description": "概要\nシェーダーでWorleyNoiseを適度に高速かつ省メモリ、ハイクオリティに取得する方法を提案するということ。\n\n点からの距離関数 (1D)\nまずは1Dを考える。\n$0≦x≦1$ で、$x=p$ の位置に点を置く。\n\n位置 $x$ における $p$ からの距離は当然...",
+          "link": "https://qiita.com/Uehara1124/items/7769dc97b21edb4f1df5",
+          "publishedOn": "2025-07-28T12:21:27.000Z",
+          "wordCount": 8442,
+          "title": "Worley Noise をちょっと賢く実装",
+          "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnFpaXRhLWltYWdlLXN0b3JlLnMzLmFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkYwJTJGNTMxMzcxJTJGcHJvZmlsZS1pbWFnZXMlMkYxNzUyNTg1NzczP2l4bGliPXJiLTQuMC4wJmFyPTElM0ExJmZpdD1jcm9wJm1hc2s9ZWxsaXBzZSZiZz1GRkZGRkYmZm09cG5nMzImcz1kMTUzMWU1YWMxNzExZjNiZDIyNmI2YTliZDVjMjFiMw%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3Dbed50bf27b18ef88dacedecd55a8b23c?ixlib=rb-4.0.0&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9V29ybGV5JTIwTm9pc2UlMjAlRTMlODIlOTIlRTMlODElQTElRTMlODIlODclRTMlODElQTMlRTMlODElQTglRTglQjMlQTIlRTMlODElOEYlRTUlQUUlOUYlRTglQTMlODUmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz03YmFhNzE5OGM2ZGFmYzI2ZDMxNzNkZjFkYmRlODE4MA&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBVZWhhcmExMTI0JnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9MTAzZWE1OWRiOTg5ZDkwNTA2MmZjNmZiYTcyMmIzNmM&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=d5d47f32ce30438f7d633d2f258ff7a7"
+        },
+        {
           "id": "https://qiita.com/yuri_tsukimi/items/87a34245abfce47d1960",
           "author": null,
           "description": "概要\nメッシュを変形するとUVも一緒に曲がりますが，UVは三角形で補間されるので，ポリゴンフローで見るとガビガビになってしまいます．\nこれをシェーダーで補正します．ただし，本手法は制約が厳しいので応用先は限定的です．\n\n前提条件\n本手法でUVを補正するためには，メッシュ...",
@@ -3220,6 +3235,16 @@
       "feedUrl": "https://qiita.com/tags/glsl/feed",
       "siteUrl": "https://qiita.com",
       "articles": [
+        {
+          "id": "https://qiita.com/ShuMatsumoto/items/55f74568d466ed59885d",
+          "author": null,
+          "description": "😇 はじめに\n今回は簡単に、3Dアニメーション実装で「ツイストする画像」のご紹介です。\nこちらはCodeMafiaさんの「Not Equal」で学んだ内容となります。\n\n🌸 今回取り扱うエフェクト\n\n🌸 この記事で分かること／できること\n\nglslify、glsl-ro...",
+          "link": "https://qiita.com/ShuMatsumoto/items/55f74568d466ed59885d",
+          "publishedOn": "2025-07-28T11:07:44.000Z",
+          "wordCount": 1075,
+          "title": "3Dツイストする画像（glslify：glsl-rotate）",
+          "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnFpaXRhLWltYWdlLXN0b3JlLnMzLmFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkYwJTJGMjY4MTk4JTJGcHJvZmlsZS1pbWFnZXMlMkYxNjcwNjg4NzIwP2l4bGliPXJiLTQuMC4wJmFyPTElM0ExJmZpdD1jcm9wJm1hc2s9ZWxsaXBzZSZiZz1GRkZGRkYmZm09cG5nMzImcz03MjhmYjNkMDUxMzEwNWMxZjkxZTA2ZjljYjQ0ZTZlOA%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D4717a67d049dfd5063d7c56a345703f8?ixlib=rb-4.0.0&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9M0QlRTMlODMlODQlRTMlODIlQTQlRTMlODIlQjklRTMlODMlODglRTMlODElOTklRTMlODIlOEIlRTclOTQlQkIlRTUlODMlOEYlRUYlQkMlODhnbHNsaWZ5JUVGJUJDJTlBZ2xzbC1yb3RhdGUlRUYlQkMlODkmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz1iNmY4NzMyODQzZWI5ZGFhZmI3YjFlYWM3NDc0YWVlOA&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBTaHVNYXRzdW1vdG8mdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz03ZTE1ZDQ1N2Q2NzAxMGVjMGMzN2Y2ZWM4NDg0YTJkZg&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=03ea9c9d71c182534fb8b9b60682251d"
+        },
         {
           "id": "https://qiita.com/pik/items/29683dfc5c6593b93b47",
           "author": null,

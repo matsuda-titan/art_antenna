@@ -2,10 +2,55 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-07-28T08:18:17.337Z</updated>
+    <updated>2025-07-28T12:23:35.451Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Worley Noise をちょっと賢く実装]]></title>
+        <id>https://qiita.com/Uehara1124/items/7769dc97b21edb4f1df5</id>
+        <link href="https://qiita.com/Uehara1124/items/7769dc97b21edb4f1df5"/>
+        <updated>2025-07-28T12:21:27.000Z</updated>
+        <summary type="html"><![CDATA[概要
+シェーダーでWorleyNoiseを適度に高速かつ省メモリ、ハイクオリティに取得する方法を提案するということ。
+
+点からの距離関数 (1D)
+まずは1Dを考える。
+$0≦x≦1$ で、$x=p$ の位置に点を置く。
+
+位置 $x$ における $p$ からの距離は当然...]]></summary>
+        <author>
+            <name>Shaderタグが付けられた新着記事 - Qiita</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[3Dツイストする画像（glslify：glsl-rotate）]]></title>
+        <id>https://qiita.com/ShuMatsumoto/items/55f74568d466ed59885d</id>
+        <link href="https://qiita.com/ShuMatsumoto/items/55f74568d466ed59885d"/>
+        <updated>2025-07-28T11:07:44.000Z</updated>
+        <summary type="html"><![CDATA[😇 はじめに
+今回は簡単に、3Dアニメーション実装で「ツイストする画像」のご紹介です。
+こちらはCodeMafiaさんの「Not Equal」で学んだ内容となります。
+
+🌸 今回取り扱うエフェクト
+
+🌸 この記事で分かること／できること
+
+glslify、glsl-ro...]]></summary>
+        <author>
+            <name>GLSLタグが付けられた新着記事 - Qiita</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Graphite - レイヤー方式とノードベース処理を融合！非破壊＆プロシージャル編集が可能な無料かつオープンソースの2Dグラフィック編集ツール！]]></title>
+        <id>https://3dnchu.com/?p=1056998</id>
+        <link href="https://3dnchu.com/archives/graphite/"/>
+        <updated>2025-07-28T10:16:07.000Z</updated>
+        <summary type="html"><![CDATA[レイヤー方式とノードベース処理を融合し、非破壊でプロシージャルな編集を可能にする 無料・オープンソースの2Dグラフィックエディタ「Graphite」のご紹介。]]></summary>
+        <author>
+            <name>Ymt3D -3dnchu-</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Substance 3D Painterでパーティクルペイントする事で紙が焼けたような表現など出来る21種類のスマートマテリアルパック]]></title>
         <id>https://modelinghappy.com/?p=63990</id>
@@ -3766,17 +3811,6 @@ https://iquilezles.org/artic…]]></summary>
         <updated>2025-06-29T01:34:00.000Z</updated>
         <summary type="html"><![CDATA[Jiggle Physics Jiggle Physicsは、過去にリリースされたWiggle 2アドオンを改良・拡張した新バージョンで、Blender上でリギング済みモデルに揺れや弾みの物理挙動をリアルタイムに加えるこ
 The post Jiggle Physics リギング済みモデルに揺れや弾みの物理挙動をリアルタイムに加えることができるBlender用無料アドオン first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
-        <author>
-            <name>modelinghappy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[レザーで作られたパーツ類の多いバックパックを１からBlender、RizomUV、Substance 3D Painterを使用して作成するチュートリアル動画がWingfoxで販売開始！]]></title>
-        <id>https://modelinghappy.com/?p=63523</id>
-        <link href="https://modelinghappy.com/archives/63523"/>
-        <updated>2025-06-29T00:21:16.000Z</updated>
-        <summary type="html"><![CDATA[Full Process of Leather Backpack 世界中のチュートリアル動画を販売しているWingfoxのサイトでレザーで作られたパーツ類が多いバックパックを作成するチュートリアル動画が販売開始されました
-The post レザーで作られたパーツ類の多いバックパックを１からBlender、RizomUV、Substance 3D Painterを使用して作成するチュートリアル動画がWingfoxで販売開始！ first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
         <author>
             <name>modelinghappy</name>
         </author>

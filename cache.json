@@ -376,6 +376,21 @@
       "siteUrl": "https://3dnchu.com",
       "articles": [
         {
+          "id": "https://3dnchu.com/?p=1057117",
+          "author": "Ymt3D -3dnchu-",
+          "description": "カナダのバンクーバーで2025年8月10から14日まで開催されるコンピュータグラフィックスとインタラクティブ技術の世界的なイベント「SIGGRAPH 2025」の各種トレーラーが公開されています。",
+          "link": "https://3dnchu.com/archives/siggraph-2025-trailers/",
+          "publishedOn": "2025-08-04T05:42:57.000Z",
+          "wordCount": 8990,
+          "title": "SIGGRAPH 2025 Trailers - カナダのバンクーバーで2025年8月10-14日に開催されるコンピュータグラフィックスとインタラクティブ技術のイベント！各種トレーラーが公開！",
+          "enclosure": {
+            "url": "https://3dnchu.com/wp-content/uploads/SIGGRAPH-2025-Trailers.webp",
+            "length": "1283176",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://3dnchu.com/wp-content/uploads/SIGGRAPH-2025-Trailers.webp"
+        },
+        {
           "id": "https://3dnchu.com/?p=1057015",
           "author": "Ymt3D -3dnchu-",
           "description": "スコットランド グラスゴー大学（University of Glasgow）の 研究チームが発表した「Multi-Person Interaction Generation from Two-Person Motion Priors」。 既存の2人モーション拡散モデルを再利用して、多人数同時のリアルなインタラクション生成を可能にする技術！SIGGRAPH 2025 発表技術論文です。",
@@ -2898,21 +2913,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--HGJwLmvy--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_72:Maya%2520rendersetup%2520%25E3%2583%25A1%25E3%2583%25A22%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:wef%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzU5ODIxOWUzN2MuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
-        },
-        {
-          "id": "https://zenn.dev/kazinos/articles/0d0d20e9e52551",
-          "author": "kazinos",
-          "description": "こんにちはkazinosです。\n前回、Pythonを扱う上で必要な「変数」「データ型」「計算方法」の簡単な説明と、\ncmdsをつかってオブジェクトの操作「生成」「取得」「情報の変更」を解説しました。\nとりあえず触ってみたいけど、どうしたらいいかわからない！という方は見てみてください。\n▼前回の記事「MayaでPythonを使ってみよう！②～object操作編～」\nhttps://zenn.dev/kazinos/articles/55494977b2c322\n今回は、「特定条件の場合、処理を変更する方法」について書いて行きます。\n\n 環境\nAutodesk Maya2024.2\n※別のバ...",
-          "link": "https://zenn.dev/kazinos/articles/0d0d20e9e52551",
-          "publishedOn": "2025-07-05T16:11:05.000Z",
-          "wordCount": 695,
-          "title": "MayaでPythonを使ってみよう！③～条件分岐～",
-          "enclosure": {
-            "url": "https://res.cloudinary.com/zenn/image/upload/s--bY_ZctBu--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Maya%25E3%2581%25A7Python%25E3%2582%2592%25E4%25BD%25BF%25E3%2581%25A3%25E3%2581%25A6%25E3%2581%25BF%25E3%2582%2588%25E3%2581%2586%25EF%25BC%2581%25E2%2591%25A2%25EF%25BD%259E%25E6%259D%25A1%25E4%25BB%25B6%25E5%2588%2586%25E5%25B2%2590%25EF%25BD%259E%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:kazinos%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzRmODg3NjQ3YTYuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png",
-            "length": "0",
-            "type": "image/png"
-          },
-          "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--bY_ZctBu--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Maya%25E3%2581%25A7Python%25E3%2582%2592%25E4%25BD%25BF%25E3%2581%25A3%25E3%2581%25A6%25E3%2581%25BF%25E3%2582%2588%25E3%2581%2586%25EF%25BC%2581%25E2%2591%25A2%25EF%25BD%259E%25E6%259D%25A1%25E4%25BB%25B6%25E5%2588%2586%25E5%25B2%2590%25EF%25BD%259E%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:kazinos%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzRmODg3NjQ3YTYuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
         }
       ]
     },
@@ -3629,6 +3629,16 @@
       "feedUrl": "https://cginterest.com/feed/",
       "siteUrl": "https://cginterest.com",
       "articles": [
+        {
+          "id": "https://cginterest.com/?p=48478",
+          "author": ".me",
+          "description": "2025年8月1日、NTTドコモは、同社の新規事業創出プログラム「docomo STARTUP」を通じて社員が発案した、AIを活用した次世代のアニメ制作支援基盤「ANICRA（アニクラ）」の独立を発表しました。 アニメ制 […]\nNTTドコモ、次世代のアニメ制作支援基盤「ANICRA（アニクラ）」の独立を発表！ first appeared on CGinterest.",
+          "link": "https://cginterest.com/2025/08/04/ntt%e3%83%89%e3%82%b3%e3%83%a2%e3%80%81%e6%ac%a1%e4%b8%96%e4%bb%a3%e3%81%ae%e3%82%a2%e3%83%8b%e3%83%a1%e5%88%b6%e4%bd%9c%e6%94%af%e6%8f%b4%e5%9f%ba%e7%9b%a4%e3%80%8canicra%ef%bc%88%e3%82%a2%e3%83%8b/",
+          "publishedOn": "2025-08-04T06:02:25.000Z",
+          "wordCount": 627,
+          "title": "NTTドコモ、次世代のアニメ制作支援基盤「ANICRA（アニクラ）」の独立を発表！",
+          "imageUrl": "https://cginterest.com/wp-content/uploads/2025/08/20250804_anicra.webp"
+        },
         {
           "id": "https://cginterest.com/?p=48274",
           "author": ".me",

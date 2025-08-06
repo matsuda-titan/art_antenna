@@ -12,6 +12,16 @@
       "siteUrl": "https://cgbox.jp",
       "articles": [
         {
+          "id": "https://cgbox.jp/?p=63902",
+          "author": "kasahara",
+          "description": "こんばんは！ 今回はアドオンの「Cullr」を紹介します。 こちらのリンクがアドオンの商品ページになります。 Cullr 「Cullr」は、Blenderで作業中に「最終的に見えない部分」のデータを自動でクリーンアップし […]",
+          "link": "https://cgbox.jp/2025/08/06/news-addon-cullr/",
+          "publishedOn": "2025-08-06T00:57:44.000Z",
+          "wordCount": 2147,
+          "title": "【アドオン紹介】Cullr – カメラに写っている部分のみ表示＆細分化！",
+          "imageUrl": "https://cgbox.jp/wp-content/uploads/2025/08/image_processing20250729-2-i8vy45.jpg"
+        },
+        {
           "id": "https://cgbox.jp/?p=63897",
           "author": "kasahara",
           "description": "こんばんは！ 今回はアドオンの「」を紹介します。 こちらのリンクがアドオンの商品ページになります。 Shape Key Smoother 「Shape Key Smoother」は、Blenderのシェイプキー編集をより […]",
@@ -340,21 +350,6 @@
             "type": "video/mp4"
           },
           "imageUrl": "https://cgbox.jp/wp-content/uploads/2025/07/image_processing20250708-2-d40h2n.jpg"
-        },
-        {
-          "id": "https://cgbox.jp/?p=63626",
-          "author": "kasahara",
-          "description": "こんばんは！ 今回はアドオンの「Rigflow」を紹介します。 こちらのリンクがアドオンの商品ページになります。 Rigflow 「Rigflow」は、キャラクターやクリーチャーの「骨（ボーン）」を手書き感覚で直感的に作 […]",
-          "link": "https://cgbox.jp/2025/07/07/news-addon-rigflow/",
-          "publishedOn": "2025-07-07T10:46:53.000Z",
-          "wordCount": 2272,
-          "title": "【アドオン紹介】Rigflow – ペンツールでリギング！",
-          "enclosure": {
-            "url": "https://cgbox.jp/wp-content/uploads/2025/07/ezgif-48db3d5ee8c1d8_4-4.mp4",
-            "length": "0",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://cgbox.jp/wp-content/uploads/2025/07/image_processing20250706-2-sxp7hw.jpg"
         }
       ]
     },
@@ -375,6 +370,36 @@
       "feedUrl": "https://3dnchu.com/feed/",
       "siteUrl": "https://3dnchu.com",
       "articles": [
+        {
+          "id": "https://3dnchu.com/?p=1057164",
+          "author": "Ymt3D -3dnchu-",
+          "description": "SideFXの「Houdini」次期メジャーアップデートのスニークピーク映像「Houdini 21 Sneak Peek」が公開されました！",
+          "link": "https://3dnchu.com/archives/houdini-21-sneak-peek/",
+          "publishedOn": "2025-08-05T18:26:26.000Z",
+          "wordCount": 9054,
+          "title": "Houdini 21 Sneak Peek - 「Houdini」次期メジャーアップデートのスニークピーク映像が公開！筋肉も流体も自動車破壊も地形生成もCOPも幅広く強化！",
+          "enclosure": {
+            "url": "https://3dnchu.com/wp-content/uploads/Houdini-21-Sneak-Peek.webp",
+            "length": "1259006",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://3dnchu.com/wp-content/uploads/Houdini-21-Sneak-Peek.webp"
+        },
+        {
+          "id": "https://3dnchu.com/?p=1057142",
+          "author": "Ymt3D -3dnchu-",
+          "description": "数多くの3Dスキャンアセットを販売しているScansLibraryから、Unreal EngineのPCGを活用したワールド生成ツールセット「Procedural World Generator」がFab上でリリースされました。",
+          "link": "https://3dnchu.com/archives/procedural-world-generator-scanslibrary/",
+          "publishedOn": "2025-08-05T17:07:28.000Z",
+          "wordCount": 8726,
+          "title": "Procedural World Generator - PCGと3Dスキャンされた高品質なアセットを活用しプロシージャルなフィールドを構築できるUnreal Engine 5向けアセットがScansLibraryからリリース！",
+          "enclosure": {
+            "url": "https://3dnchu.com/wp-content/uploads/Procedural-World-Generator.webp",
+            "length": "1352494",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://3dnchu.com/wp-content/uploads/Procedural-World-Generator.webp"
+        },
         {
           "id": "https://3dnchu.com/?p=1057117",
           "author": "Ymt3D -3dnchu-",
@@ -959,51 +984,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "https://3dnchu.com/wp-content/uploads/QuickDraw-for-Unreal-Engine.webp"
-        },
-        {
-          "id": "https://3dnchu.com/?p=1056484",
-          "author": "Ymt3D -3dnchu-",
-          "description": "インディゲームデベロッパーのBubblebird Studioによるオープンソースのノイズテクスチャ生成ツール「Online Noise Generation Tool」が公開されています！",
-          "link": "https://3dnchu.com/archives/online-noise-generation-tool/",
-          "publishedOn": "2025-07-07T06:18:28.000Z",
-          "wordCount": 8794,
-          "title": "Online Noise Generation Tool - ブラウザ上で動作するオープンソースのノイズテクスチャ生成ツール！",
-          "enclosure": {
-            "url": "https://3dnchu.com/wp-content/uploads/Online-Noise-Generation-Tool.mp4",
-            "length": "2628317",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://3dnchu.com/wp-content/uploads/Online-Noise-Generation-Tool.webp"
-        },
-        {
-          "id": "https://3dnchu.com/?p=1056456",
-          "author": "Ymt3D -3dnchu-",
-          "description": "keKITなどのBlenderアドオンでお馴染みKjell Emanuelsson氏による、レンダリングパスシステムを利用したベイク用の無料Blenderアドオン！「keWT（ke World Texture）」がいろいろとUpdateされていました。",
-          "link": "https://3dnchu.com/archives/kewt-v2-0/",
-          "publishedOn": "2025-07-07T04:41:56.000Z",
-          "wordCount": 8825,
-          "title": "keWT v2.0 - レンダリングパスシステムを活用しPBRテクスチャ素材を制作できる無料のベイクツールセットBlenderアドオン！完全に書き換えられた最新版！",
-          "enclosure": {
-            "url": "https://3dnchu.com/wp-content/uploads/keWT-Render-Pass-Baking-for-Blender.webp",
-            "length": "51882",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://3dnchu.com/wp-content/uploads/keWT-Render-Pass-Baking-for-Blender.webp"
-        },
-        {
-          "id": "https://3dnchu.com/?p=1056458",
-          "author": "Ymt3D -3dnchu-",
-          "description": "Ahmed Essam氏がによる、メッシュベースのモーショントラッキングBlenderアドオン「Polychase v0.0.4」がBlender extensionsのレビュー待ちに登場していました。",
-          "link": "https://3dnchu.com/archives/polychase-v0-0-4/",
-          "publishedOn": "2025-07-07T02:36:25.000Z",
-          "wordCount": 8868,
-          "title": "Polychase v0.0.4 - KeenTools GeoTracker にインスピレーションを得たメッシュベースのモーショントラッキングBlenderアドオンが開発中！オープンソース＆無料！",
-          "enclosure": {
-            "url": "https://3dnchu.com/wp-content/uploads/Polychase.webp",
-            "length": "943928",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://3dnchu.com/wp-content/uploads/Polychase.webp"
         }
       ]
     },
@@ -1892,6 +1872,16 @@
       "siteUrl": "https://modelinghappy.com",
       "articles": [
         {
+          "id": "https://modelinghappy.com/?p=64091",
+          "author": "modelinghappy",
+          "description": "Simple N-Panel Simple N-PanelはBlenderでNキーを押した時に表示されるアドオンが大量にある場合に、下までスクロールしなければいけなくなり探しずらい場合がありますが、そんな時に右上のアイコ\nThe post Simple N-Panel 大量のアドオンでも分かりやすく短く一覧表示してくれるBlender用アドオン first appeared on 3DCG最新情報サイト MODELING HAPPY.",
+          "link": "https://modelinghappy.com/archives/64091",
+          "publishedOn": "2025-08-06T00:12:45.000Z",
+          "wordCount": 3714,
+          "title": "Simple N-Panel 大量のアドオンでも分かりやすく短く一覧表示してくれるBlender用アドオン",
+          "imageUrl": "https://modelinghappy.com/wp-content/uploads/2025/08/20250806_simple_n_panel_01.jpg"
+        },
+        {
           "id": "https://modelinghappy.com/?p=64086",
           "author": "modelinghappy",
           "description": "Shape Key Smoother Shape Key SmootherはBlenderでシェイプキーを大まかに作って周りのモデルを選択してアドオンを使用する事で、通常のスムーズと違い、元のベースのシェイプキーのボリュ\nThe post Shape Key Smoother シェイプキーを使用する事で元のボリュームと形状を維持しながら滑らかな形状にしてくれるBlender用アドオン first appeared on 3DCG最新情報サイト MODELING HAPPY.",
@@ -2310,16 +2300,6 @@
           "wordCount": 3449,
           "title": "SwitchLight 2.0 映像からPBRマップを作成して再度ライティング出来るクラウドベースのサービスがバージョンアップ",
           "imageUrl": "https://modelinghappy.com/wp-content/uploads/2025/07/20250708_switchlight2_0_01.jpg"
-        },
-        {
-          "id": "https://modelinghappy.com/?p=63638",
-          "author": "modelinghappy",
-          "description": "Rigflow RigflowはBlenderでキャラクター等にボーンを配置したいモデル部分をなぞるとモデルの中心にボーンが配置されるアドオンです。キャラクターの腕や指をなぞるだけで自動的にボーンを連続して複数配置する事\nThe post Rigflow モデルをなぞるだけで連続してボーンを配置出来るBlender用アドオン first appeared on 3DCG最新情報サイト MODELING HAPPY.",
-          "link": "https://modelinghappy.com/archives/63638",
-          "publishedOn": "2025-07-07T06:05:08.000Z",
-          "wordCount": 3435,
-          "title": "Rigflow モデルをなぞるだけで連続してボーンを配置出来るBlender用アドオン",
-          "imageUrl": "https://modelinghappy.com/wp-content/uploads/2025/07/20250707_rigflow_01.jpg"
         }
       ]
     },
@@ -2767,16 +2747,6 @@
           "wordCount": 549,
           "title": "展示会やテーマ型アトラクションなどの没入型体験。Weta Workshop の Immersive Experiences ショーリール 2025",
           "imageUrl": "https://3dtotal.jp/wp-content/uploads/2025/07/weta_immersivereel25.jpg"
-        },
-        {
-          "id": "https://3dtotal.jp/?p=51964",
-          "author": "3dtotal管理人T",
-          "description": "★Expedition 33 | Sandfall Interactive | Houdini Connect（3分21秒） Sandfall Interactive のテクニカルアーティスト Alexandre Bre […]\nThe post Houdini 使用事例： ゲーム『Expedition 33』- Sandfall Interactive first appeared on 3dtotal 日本語オフィシャルサイト.",
-          "link": "https://3dtotal.jp/news/51964/",
-          "publishedOn": "2025-07-07T05:17:52.000Z",
-          "wordCount": 601,
-          "title": "Houdini 使用事例： ゲーム『Expedition 33』- Sandfall Interactive",
-          "imageUrl": "https://3dtotal.jp/wp-content/uploads/2025/07/expedition33_hconnect.jpg"
         }
       ]
     },
@@ -2892,23 +2862,7 @@
       "title": "Zennの「maya」のフィード",
       "feedUrl": "https://zenn.dev/topics/maya/feed",
       "siteUrl": "https://zenn.dev/topics/maya",
-      "articles": [
-        {
-          "id": "https://zenn.dev/hph/articles/rendersetup2",
-          "author": "wef",
-          "description": "Maya rendersetup メモ2\nrendersetupを追加で触ったので、前回書きそびれてたやつも含めてメモ\n前回: https://zenn.dev/hph/articles/ddcf4a9a62229e\n\n pythonでの操作\nそのままコピペしても、rsインスタンスやlayerなどは未定義状態の可能性があるので前回とかを参照して変数は作っておいてください。\n\n 辞書形式の rendersetup のレイヤーを出力\nencode() でrendersetupを辞書で出力できるので、そこからlayerを取得する。\nこれを取得したらよしなにJSONで保存すればOK。\nrs....",
-          "link": "https://zenn.dev/hph/articles/rendersetup2",
-          "publishedOn": "2025-07-07T05:16:26.000Z",
-          "wordCount": 749,
-          "title": "Maya rendersetup メモ2",
-          "enclosure": {
-            "url": "https://res.cloudinary.com/zenn/image/upload/s--HGJwLmvy--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_72:Maya%2520rendersetup%2520%25E3%2583%25A1%25E3%2583%25A22%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:wef%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzU5ODIxOWUzN2MuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png",
-            "length": "0",
-            "type": "image/png"
-          },
-          "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--HGJwLmvy--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_72:Maya%2520rendersetup%2520%25E3%2583%25A1%25E3%2583%25A22%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:wef%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzU5ODIxOWUzN2MuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Zennの「usd」のフィード",
@@ -3207,16 +3161,6 @@
           "wordCount": 201,
           "title": "「Autodesk Golaem 発表ウェビナー ～Mayaで群衆を自在に操る。Golaemで広がる表現力～」オンデマンド配信スタート",
           "imageUrl": "https://area.autodesk.jp/information/assets_c/2025/07/ic_webinar_golaem_1400x782-thumb-1200xauto-5697.jpg"
-        },
-        {
-          "id": "https://area.autodesk.jp/column/trend_tech/digital-contents-future/11-tanaka-seiichi/",
-          "author": null,
-          "description": "CGと縁の深い方々にお話をうかがい、デジタルコンテンツの未来を見通していく記事をお届けする本連載。今回はJCGLやオムニバス・ジャパンで長年勤務し、CGの歴史上重要な『子鹿物語』や『レンズマン』、そして『攻殻機動隊』、『劇場版エヴァンゲリオン』など錚々たる作品に携わった田中誠一氏に登場していただいた。制作当時のエピソードはもちろん、現在もなおVR(XR)コンテンツで精力的に創作活動を続ける氏のクリエイティビティの足跡を聞いた。・・・",
-          "link": "https://area.autodesk.jp/column/trend_tech/digital-contents-future/11-tanaka-seiichi/",
-          "publishedOn": "2025-07-07T01:30:00.000Z",
-          "wordCount": 445,
-          "title": "デジタルコンテンツの未来〜温故知新〜 第11回：田中 誠一（CGディレクター/アニメーター）",
-          "imageUrl": "https://area.autodesk.jp/column/assets_c/2025/06/ic_digital_contents_11_1400x782-thumb-1200xauto-5693.jpg"
         }
       ]
     },
@@ -3252,6 +3196,16 @@
       "feedUrl": "https://note.com/hashtag/Houdini/rss",
       "siteUrl": "https://note.com/hashtag/Houdini",
       "articles": [
+        {
+          "id": "https://note.com/hachikobo/n/n0ca5d9d9584b",
+          "author": null,
+          "description": "壁に窓穴を開けました。天井も作りたかったですが力尽きたので壁だけ。\nざっくりこんなノード\n続きをみる",
+          "link": "https://note.com/hachikobo/n/n0ca5d9d9584b",
+          "publishedOn": "2025-08-05T13:24:48.000Z",
+          "wordCount": 2432,
+          "title": "Houdini初心者日記　壁に穴を開ける",
+          "imageUrl": "https://d2l930y2yx77uc.cloudfront.net/production/social_images/49d1a00acb80aef51401f3a8a3ffebf9deb9af53.png"
+        },
         {
           "id": "https://note.com/hachikobo/n/n44aea7130e02",
           "author": null,
@@ -3416,6 +3370,16 @@
       "feedUrl": "https://note.com/hashtag/substancepainter/rss",
       "siteUrl": "https://note.com/hashtag/substancepainter",
       "articles": [
+        {
+          "id": "https://note.com/toshia_fuji/n/n1b6378db79d5",
+          "author": null,
+          "description": "まいどです。\n本日の生成AIニュース+テクノロジー情報。\n\n続きをみる",
+          "link": "https://note.com/toshia_fuji/n/n1b6378db79d5",
+          "publishedOn": "2025-08-05T13:22:14.000Z",
+          "wordCount": 6349,
+          "title": "【生成AIニュース+】『Qwen-Image』『Camera Control』『Grok Imagine』『Multi-Cut Prompts』『Lucid Origin』『3D-R1』『Tasker AI』『FastVideo』『PixNerd』『Creator Assistant』『Lindy 3.0』『SWE-Exp』『Blender 4.5.1 LTS』『MaterialPlus』『DAEDAL』『KT2 Kungfu Turtle』",
+          "imageUrl": "https://assets.st-note.com/production/uploads/images/206635785/rectangle_large_type_2_5820fc17ee9ae14e95c17add10b0a65c.png?width=800"
+        },
         {
           "id": "https://note.com/hiro_bitpranks/n/nc33be411ea2b",
           "author": null,
@@ -3596,6 +3560,31 @@
       "feedUrl": "https://cginterest.com/feed/",
       "siteUrl": "https://cginterest.com",
       "articles": [
+        {
+          "id": "https://cginterest.com/?p=48547",
+          "author": ".me",
+          "description": "25年8月5日（現地時間）- SideFX は、Houdini 21 の新機能を紹介するスニークピーク動画を公開しました。 この動画では、Houdini 21 で登場する新機能の一部をみることができます。 動画で確認でき […]\nHoudini 21 を紹介するスニークピーク動画が公開！ first appeared on CGinterest.",
+          "link": "https://cginterest.com/2025/08/06/houdini-21-%e3%82%92%e7%b4%b9%e4%bb%8b%e3%81%99%e3%82%8b%e3%82%b9%e3%83%8b%e3%83%bc%e3%82%af%e3%83%94%e3%83%bc%e3%82%af%e5%8b%95%e7%94%bb%e3%81%8c%e5%85%ac%e9%96%8b%ef%bc%81/",
+          "publishedOn": "2025-08-05T22:30:00.000Z",
+          "wordCount": 827,
+          "title": "Houdini 21 を紹介するスニークピーク動画が公開！",
+          "imageUrl": "https://cginterest.com/wp-content/uploads/2025/08/image-2025-08-06T012353.008.webp"
+        },
+        {
+          "id": "https://cginterest.com/?p=48435",
+          "author": ".me",
+          "description": "2025年8月5日（現地時間）- Google DeepMindは、多様性とリアリズムを備えたインタラクティブ環境を生成できるワールドモデル「Genie 3」の発表を行いました。 ワールドシミュレーションに向けた取り組み […]\nGoogle DeepMindがインタラクティブな世界を生成可能な汎用ワールドモデル「Genie 3」を発表！ first appeared on CGinterest.",
+          "link": "https://cginterest.com/2025/08/06/google-deepmind%e3%81%8c%e3%82%a4%e3%83%b3%e3%82%bf%e3%83%a9%e3%82%af%e3%83%86%e3%82%a3%e3%83%96%e3%81%aa%e4%b8%96%e7%95%8c%e3%82%92%e7%94%9f%e6%88%90%e5%8f%af%e8%83%bd%e3%81%aa%e6%b1%8e%e7%94%a8/",
+          "publishedOn": "2025-08-05T22:10:00.000Z",
+          "wordCount": 682,
+          "title": "Google DeepMindがインタラクティブな世界を生成可能な汎用ワールドモデル「Genie 3」を発表！",
+          "enclosure": {
+            "url": "https://cginterest.com/wp-content/uploads/2025/08/20250805-Genie2-1.mp4",
+            "length": "179405",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://cginterest.com/wp-content/uploads/2025/08/20250805-Genie3.webp"
+        },
         {
           "id": "https://cginterest.com/?p=48503",
           "author": ".me",
@@ -4220,16 +4209,6 @@
           "wordCount": 703,
           "title": "3Dスカルプティングアプリ「Forger」の開発が終了へ！",
           "imageUrl": "https://cginterest.com/wp-content/uploads/2025/07/20250707_Forger-the-end.webp"
-        },
-        {
-          "id": "https://cginterest.com/?p=47566",
-          "author": ".me",
-          "description": "CG・映像業界に特化したオンラインイベント「CGWORLD JAM ONLINE 2025」の紹介です。 開催概要 初心者からプロまで楽しめる、CG・映像に特化したスキルアップ＆就職フェスです。 注目作のメイキングやクリ […]\nスキルアップ＆就職フェス「CGWORLD JAM ONLINE 2025」 first appeared on CGinterest.",
-          "link": "https://cginterest.com/2025/07/07/%e3%82%b9%e3%82%ad%e3%83%ab%e3%82%a2%e3%83%83%e3%83%97%ef%bc%86%e5%b0%b1%e8%81%b7%e3%83%95%e3%82%a7%e3%82%b9%e3%80%8ccgworld-jam-online-2025%e3%80%8d/",
-          "publishedOn": "2025-07-07T09:06:14.000Z",
-          "wordCount": 818,
-          "title": "スキルアップ＆就職フェス「CGWORLD JAM ONLINE 2025」",
-          "imageUrl": "https://cginterest.com/wp-content/uploads/2025/07/20250707_cgworldjamonline2025.webp"
         }
       ]
     }

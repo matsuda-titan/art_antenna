@@ -2,10 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-06T04:00:42.634Z</updated>
+    <updated>2025-08-06T08:16:58.462Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Blender タブレット版の開発が進行中！　まずはオブジェクト操作とスカルプトの実現を目指す、SIGGRAPH 2025で技術デモ公開 - ニュース]]></title>
+        <id>https://cgworld.jp/flashnews/01-202508-Blender-Tablet.html</id>
+        <link href="https://cgworld.jp/flashnews/01-202508-Blender-Tablet.html"/>
+        <updated>2025-08-06T05:45:07.000Z</updated>
+        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[『リヴァイアサン』美術の最前線【第3回】：世界観や内面まで描き出す発想と技術 - 特集]]></title>
+        <id>https://cgworld.jp/article/202508-leviathan-3.html</id>
+        <link href="https://cgworld.jp/article/202508-leviathan-3.html"/>
+        <updated>2025-08-06T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[関連記事 ・『リヴァイアサン』美術の最前線【第1回】：オレンジ社内に新設された...]]></summary>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[マトリックスからTransform値を求める計算について]]></title>
+        <id>https://note.com/dftalk/n/n0e6362d8ae62</id>
+        <link href="https://note.com/dftalk/n/n0e6362d8ae62"/>
+        <updated>2025-08-06T04:11:20.000Z</updated>
+        <summary type="html"><![CDATA[まえがき
+はじめましてTD室で一番の下っ端、中村です。
+偉大な先輩方がスクリプトやマテリアルの解説などザ・テクニカルな記事を続々と投稿されていてハードルが上がっている今日この頃…今回は少し趣向を変えて難しそうで何かと敬遠されがちな？マトリックスについて、特にマトリックス値からTransform値を計算する手順について解説していこうかと思います。CGの深い知識がなくても理解できる内容になるよう努めてまいりますのでどうか温かい目でご覧ください<(*_ _)> 
+以下注意点です。
+続きをみる]]></summary>
+        <author>
+            <name>DF TALK</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[OptiPloy - リンク＆アペンドの欠点を解消！リグ付きモデルを軽量かつベストな状態で参照インポートしアニメーション制作が可能な無料Blenderアドオン！Extensionsにも登場！]]></title>
         <id>https://3dnchu.com/?p=1057175</id>
@@ -3814,16 +3848,6 @@ The post SwitchLight 2.0 映像からPBRマップを作成して再度ライテ�
 続きをみる]]></summary>
         <author>
             <name>#substancepainterタグ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[QuickDraw for Unreal Engine -  コンセプトアート制作に最適！直感的に3Dメッシュを作成できるUnreal Engine 5.6向けツールセット！]]></title>
-        <id>https://3dnchu.com/?p=1056506</id>
-        <link href="https://3dnchu.com/archives/quickdraw-for-ue/"/>
-        <updated>2025-07-07T19:39:48.000Z</updated>
-        <summary type="html"><![CDATA[Jama Jurabaev氏とALKSNDR氏によるUnreal Engine 5.6向けの直感的なメッシュ生成ツールセット「QuickDraw for Unreal Engine」がリリースされました！]]></summary>
-        <author>
-            <name>Ymt3D -3dnchu-</name>
         </author>
     </entry>
 </feed>

@@ -2,10 +2,62 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-09T12:20:08.847Z</updated>
+    <updated>2025-08-10T01:03:17.231Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[パソコン工房お盆セールが開催！ワークステーション・クリエイターパソコンが限定特価に！]]></title>
+        <id>https://cginterest.com/?p=48604</id>
+        <link href="https://cginterest.com/2025/08/10/%e3%83%91%e3%82%bd%e3%82%b3%e3%83%b3%e5%b7%a5%e6%88%bf%e3%81%8a%e7%9b%86%e3%82%bb%e3%83%bc%e3%83%ab%e3%81%8c%e9%96%8b%e5%82%ac%ef%bc%81%e3%83%af%e3%83%bc%e3%82%af%e3%82%b9%e3%83%86%e3%83%bc%e3%82%b7/"/>
+        <updated>2025-08-09T22:42:00.000Z</updated>
+        <summary type="html"><![CDATA[パソコン工房インターネット通販で開催中の『お盆セール』の紹介です。 セール概要 今回のセールでは、GeForce RTX 40・50シリーズやRadeon シリーズ搭載ゲーミングPC、NVIDIA RTX Aシリーズ搭載 […]
+パソコン工房お盆セールが開催！ワークステーション・クリエイターパソコンが限定特価に！ first appeared on CGinterest.]]></summary>
+        <author>
+            <name>.me</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【アセット紹介】Terrain Library – カスタムできるランドスケープライブラリ！]]></title>
+        <id>https://cgbox.jp/?p=63917</id>
+        <link href="https://cgbox.jp/2025/08/10/news-addon-terrain-library/"/>
+        <updated>2025-08-09T21:42:06.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは！ 今回はアセットの「」を紹介します。 こちらのリンクがアセットの商品ページになります。 Terrain Library 「Terrain Library」は、300種類以上のランドスケープライブラリ。 様々な […]]]></summary>
+        <author>
+            <name>kasahara</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Houdini : 破壊の手法3種]]></title>
+        <id>https://note.com/cute_hound3582/n/n1d635811c4dd</id>
+        <link href="https://note.com/cute_hound3582/n/n1d635811c4dd"/>
+        <updated>2025-08-09T15:37:35.000Z</updated>
+        <summary type="html"><![CDATA[【破壊の手法】
+破壊をする時には何かしらの力を加えるのですが、力の加え方を３種類紹介したいと思います。具体的には以下の３種類です。
+【01：物理的な衝突】
+実際に決まった物が当たって壊れるというシチュエーションならこれで問題ありません。ただし内部からの爆発や老朽化による崩れなどはHoudiniで仮のオブジェクトをぶつけてしまうと望んでいない破片の衝突が見えてしまいます。
+【02：Dop内でのForce】
+Forceは加速度です。なので老朽化など徐々に力が加わるというシチュエーションにむいています。ただしDOP内でForceを置いていくのですが感覚的にどう力が加わるのかが少し分かりにくい気がします。
+【03：SopでCustomVelocity】
+Velocityは均等な力です。一気に内部から強い力が加わる場合はこの手法が適しています。VelocityはSopで置いていくので感覚的にもとても分かりやすいのと、ゲームの破壊は一気にバーンと壊すことが多いので個人的にこの手法を多用しています。
+続きをみる]]></summary>
+        <author>
+            <name>#Houdiniタグ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Houdini歴が浅い初心者でも案件対応できた理由]]></title>
+        <id>https://note.com/fuji_houdini/n/n3ec48cd14319</id>
+        <link href="https://note.com/fuji_houdini/n/n3ec48cd14319"/>
+        <updated>2025-08-09T14:41:20.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは! Houdiniわからないゴリラです。
+
+
+続きをみる]]></summary>
+        <author>
+            <name>#Houdiniタグ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[UnrealEngine : 任意の形の煙連番テクスチャ制作]]></title>
         <id>https://note.com/cute_hound3582/n/ne47763b798bb</id>
@@ -3805,167 +3857,6 @@ MayaのプラグインはC++やPythonに加えて、C#でも公式に作成で�
 The post Adobe Creative Cloud12か月版がアマゾンで43,000円で購入出来るお得なセールが開催中！さらにアマゾンポイント1290円分もらえます！ first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
         <author>
             <name>modelinghappy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【最優秀賞50万円！】フランス発ベストセラー『空、はてしない青』PVコンテスト開催！ - ニュース]]></title>
-        <id>https://cgworld.jp/flashnews/02-2506-sorahate.html</id>
-        <link href="https://cgworld.jp/flashnews/02-2506-sorahate.html"/>
-        <updated>2025-07-11T09:00:00.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[あなたの絵を 1分で劇的改善!? Marc Brunet氏 の「Can we improve these drawings in 1 min?」(※英語ムービー)]]></title>
-        <id>https://3dtotal.jp/?p=52092</id>
-        <link href="https://3dtotal.jp/tutorials/52092/"/>
-        <updated>2025-07-11T08:22:29.000Z</updated>
-        <summary type="html"><![CDATA[★Can we improve these drawings in 1 min?（10分26秒） オンラインアートスクール Cubebrush の設立者でもある コンセプトアーティスト/ イラストレーター Marc Br […]
-The post あなたの絵を 1分で劇的改善!? Marc Brunet氏 の「Can we improve these drawings in 1 min?」(※英語ムービー) first appeared on 3dtotal 日本語オフィシャルサイト.]]></summary>
-        <author>
-            <name>3dtotal管理人T</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GeoMatch 違うトポロジーを持つ似たようなメッシュを一致してくれるBlender用無料アドオン]]></title>
-        <id>https://modelinghappy.com/?p=63714</id>
-        <link href="https://modelinghappy.com/archives/63714"/>
-        <updated>2025-07-11T07:44:23.000Z</updated>
-        <summary type="html"><![CDATA[GeoMatch Blender Bobさんが同じトポロジーではない似たような形状の別々のモデルを、片方のモデルに一致させる事が可能なアドオンGeoMatchを無料リリースしました。四角形でも三角形でも動作します。 アド
-The post GeoMatch 違うトポロジーを持つ似たようなメッシュを一致してくれるBlender用無料アドオン first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
-        <author>
-            <name>modelinghappy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Universal Blender Material (No UV) UV展開しない多角形モデルでもスライダーとチェックボックスだけで簡単に汚れや傷などをつけれるBlender用マテリアル]]></title>
-        <id>https://modelinghappy.com/?p=63706</id>
-        <link href="https://modelinghappy.com/archives/63706"/>
-        <updated>2025-07-11T06:21:40.000Z</updated>
-        <summary type="html"><![CDATA[Universal Blender Material (No UV) @munsplitさんがUniversal Blender Material (No UV)をリリースしました。 BlenderでUV展開しなくてもモ
-The post Universal Blender Material (No UV) UV展開しない多角形モデルでもスライダーとチェックボックスだけで簡単に汚れや傷などをつけれるBlender用マテリアル first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
-        <author>
-            <name>modelinghappy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Houdiniを始めて3か月でやったコト: 本や講座を紹介します]]></title>
-        <id>https://note.com/fuji_houdini/n/n16acc4ae130d</id>
-        <link href="https://note.com/fuji_houdini/n/n16acc4ae130d"/>
-        <updated>2025-07-11T05:34:40.000Z</updated>
-        <summary type="html"><![CDATA[こんにちは! Houdiniわからないゴリラです。
-
-すっかり「Houdini」にハマってしまい、
-最近、学習や創作の様子、Tips等をSNSで投稿しているアカウントです。
-続きをみる]]></summary>
-        <author>
-            <name>#Houdiniタグ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【アドオン紹介】Material Merger – 複数マテリアルを統合！]]></title>
-        <id>https://cgbox.jp/?p=63644</id>
-        <link href="https://cgbox.jp/2025/07/11/news-addon-material-merger/"/>
-        <updated>2025-07-11T04:55:11.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは！ 今回はアドオンの「Material Merger」を紹介します。 こちらのリンクがアドオンの商品ページになります。 Material Merger 「Material Merger」は、複数のマテリアルが設 […]]]></summary>
-        <author>
-            <name>kasahara</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【FlexiSpot】C5 – 見た目＆機能性のバランスが良いオフィスチェア]]></title>
-        <id>https://cgbox.jp/?p=62516</id>
-        <link href="https://cgbox.jp/2025/07/11/gadget-c5/"/>
-        <updated>2025-07-11T04:44:42.000Z</updated>
-        <summary type="html"><![CDATA[こんにちは。 今回はガジェットレビュー記事です！ オシャレなオフィスチェア「C5」を提供していただいたので、CGbox編集部がレビューしていきます。 ▼【公式製品ページ】はこちら！ ▼【販売サイト】はこちら！ C5の基本 […]]]></summary>
-        <author>
-            <name>kasahara</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Live2Dモデルの活用に特化したオンライン動画エディター「nizima ACTION!!」ベータ版がリリース！]]></title>
-        <id>https://cginterest.com/?p=47632</id>
-        <link href="https://cginterest.com/2025/07/11/live2d%e3%83%a2%e3%83%87%e3%83%ab%e3%81%ae%e6%b4%bb%e7%94%a8%e3%81%ab%e7%89%b9%e5%8c%96%e3%81%97%e3%81%9f%e3%82%aa%e3%83%b3%e3%83%a9%e3%82%a4%e3%83%b3%e5%8b%95%e7%94%bb%e3%82%a8%e3%83%87%e3%82%a3/"/>
-        <updated>2025-07-11T03:52:06.000Z</updated>
-        <summary type="html"><![CDATA[2025年7月9日 –  Live2D は、Live2Dモデルの活用に特化したオンライン動画エディター「nizima ACTION!!」ベータ版のリリースを発表しました。 「nizima ACTION!!」と […]
-Live2Dモデルの活用に特化したオンライン動画エディター「nizima ACTION!!」ベータ版がリリース！ first appeared on CGinterest.]]></summary>
-        <author>
-            <name>.me</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[年に１回のアマゾンプライムデーセールが開催！ワコムや液タブに仕事を効率化出来るお得なガジェット商品をリストアップ！]]></title>
-        <id>https://modelinghappy.com/?p=63685</id>
-        <link href="https://modelinghappy.com/archives/63685"/>
-        <updated>2025-07-11T03:51:22.000Z</updated>
-        <summary type="html"><![CDATA[アマゾンプライムデーセール 2025年7月14日23:59分までアマゾンでの商品がお得になる年に１度の大型セール「アマゾンプライムデーセール」が開催しています。 今年は昨年より割引率が高い液晶タブレットがあったりしていま
-The post 年に１回のアマゾンプライムデーセールが開催！ワコムや液タブに仕事を効率化出来るお得なガジェット商品をリストアップ！ first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
-        <author>
-            <name>modelinghappy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[夢みた映像企画、実現しませんか？ 「Film Pitch Boost 2025」を講談社・キングレコード・講談社VRラボが共催！ - ニュース]]></title>
-        <id>https://cgworld.jp/flashnews/02-2506-film-pitch-boost-2025.html</id>
-        <link href="https://cgworld.jp/flashnews/02-2506-film-pitch-boost-2025.html"/>
-        <updated>2025-07-11T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CGWORLD、未来のスター育成プロジェクト「CG部」始動 ― 中高生向け3DCGコンテスト「CG部ネクストスターズ」開催！ - ニュース]]></title>
-        <id>https://cgworld.jp/flashnews/02-2507-cgworld-cgbu.html</id>
-        <link href="https://cgworld.jp/flashnews/02-2507-cgworld-cgbu.html"/>
-        <updated>2025-07-11T02:33:48.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[毒の雪、混沌、巨大甲虫..。海外ドラマ『エテルナウタ』のVFXブレイクダウン映像]]></title>
-        <id>https://3dtotal.jp/?p=52085</id>
-        <link href="https://3dtotal.jp/news/52085/"/>
-        <updated>2025-07-11T02:16:31.000Z</updated>
-        <summary type="html"><![CDATA[★The Eternaut: VFX Breakdown by Scanline VFX & Miagui（1分22秒） 毒の雪、混沌、巨大甲虫。Miagui と Scanline VFX は『エテルナウタ』の凍てつくブ […]
-The post 毒の雪、混沌、巨大甲虫..。海外ドラマ『エテルナウタ』のVFXブレイクダウン映像 first appeared on 3dtotal 日本語オフィシャルサイト.]]></summary>
-        <author>
-            <name>3dtotal管理人T</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[激しい空中戦、命を狙われる英首相と米大統領！ アクション・コメディ映画『ヘッド・オブ・ステイト』のVFXブレイクダウン映像]]></title>
-        <id>https://3dtotal.jp/?p=52081</id>
-        <link href="https://3dtotal.jp/news/52081/"/>
-        <updated>2025-07-11T02:11:37.000Z</updated>
-        <summary type="html"><![CDATA[★Heads of State | VFX Breakdown | DNEG（1分38秒） 激しい空中戦からベラルーシの荒野に不時着する大惨事まで、私たち DNEG は最もスリリングで複雑なシークエンスで、アクションに命 […]
-The post 激しい空中戦、命を狙われる英首相と米大統領！ アクション・コメディ映画『ヘッド・オブ・ステイト』のVFXブレイクダウン映像 first appeared on 3dtotal 日本語オフィシャルサイト.]]></summary>
-        <author>
-            <name>3dtotal管理人T</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[8/30（土）東京にて「ゲームメーカーズ スクランブル2025」開催決定！ - ニュース]]></title>
-        <id>https://cgworld.jp/flashnews/02-2507-gamemakers.html</id>
-        <link href="https://cgworld.jp/flashnews/02-2507-gamemakers.html"/>
-        <updated>2025-07-11T02:00:00.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Autodesk at SIGGRAPH 2025]]></title>
-        <id>https://area.autodesk.jp/event/siggraph-2025/</id>
-        <link href="https://area.autodesk.jp/event/siggraph-2025/"/>
-        <updated>2025-07-11T01:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Autodesk at SIGGRAPH 2025がバンクーバーコンベンションセンターで2025 年 8 月 10 日（日）～ 14 日（木）に開催されます。AIの進歩からチーム間の新しいコラボレーション方法まで、エンターテイメントが今日どのように制作されているかを示す最新のイノベーションを探求するためにご参加ください。・・・]]></summary>
-        <author>
-            <name>AREA JAPAN | Autodesk</name>
         </author>
     </entry>
 </feed>

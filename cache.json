@@ -903,6 +903,16 @@
       "siteUrl": "https://cgworld.jp/",
       "articles": [
         {
+          "id": "https://cgworld.jp/flashnews/animelookstepup0926.html",
+          "author": null,
+          "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
+          "link": "https://cgworld.jp/flashnews/animelookstepup0926.html",
+          "publishedOn": "2025-08-09T12:03:37.000Z",
+          "wordCount": 721,
+          "title": "【新講座】アニメルック表現の可能性を広げる！オンライン講座『アニメルックステップアップ講座 アニメ的な構成要素と3Dでの再現方法について』が9/26(金)に開催決定 - ニュース",
+          "imageUrl": "https://cgworld.jp/flashnews/assets_c/2025/08/169_seminar_animelook_full_B%20%281%29-thumb-1920x1080-72436.jpg"
+        },
+        {
           "id": "https://cgworld.jp/flashnews/02-2508-kyo-working.html",
           "author": null,
           "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
@@ -2642,7 +2652,23 @@
       "title": "Zennの「maya」のフィード",
       "feedUrl": "https://zenn.dev/topics/maya/feed",
       "siteUrl": "https://zenn.dev/topics/maya",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://zenn.dev/kazinos/articles/d0d835599f6788",
+          "author": "kazinos",
+          "description": "こんにちはkazinosです。\n前回は条件分岐（if文）の解説と簡単な例題を解説しました。\n今回の記事で紹介する繰り返し処理　for文は似たような処理を何度も実行したいときに使用される記法です。\nif文と今回紹介するfor文はMayaの操作に関わらずどんな処理をする上でも必要な基礎知識なので、しっかりと覚えておきましょう！\n▼前回の記事「MayaでPythonを使ってみよう！③～条件分岐～」\nhttps://zenn.dev/kazinos/articles/0d0d20e9e52551\n今回は、「特定の処理を繰り返し行う方法」について執筆したいと思います。\n\n 環境\nAutodesk ...",
+          "link": "https://zenn.dev/kazinos/articles/d0d835599f6788",
+          "publishedOn": "2025-08-10T02:36:50.000Z",
+          "wordCount": null,
+          "title": "MayaでPythonを使ってみよう！④～繰り返し処理～",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--UvYgZVXG--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Maya%25E3%2581%25A7Python%25E3%2582%2592%25E4%25BD%25BF%25E3%2581%25A3%25E3%2581%25A6%25E3%2581%25BF%25E3%2582%2588%25E3%2581%2586%25EF%25BC%2581%25E2%2591%25A3%25EF%25BD%259E%25E7%25B9%25B0%25E3%2582%258A%25E8%25BF%2594%25E3%2581%2597%25E5%2587%25A6%25E7%2590%2586%25EF%25BD%259E%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:kazinos%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzRmODg3NjQ3YTYuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png",
+            "length": "0",
+            "type": "image/png"
+          },
+          "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--UvYgZVXG--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Maya%25E3%2581%25A7Python%25E3%2582%2592%25E4%25BD%25BF%25E3%2581%25A3%25E3%2581%25A6%25E3%2581%25BF%25E3%2582%2588%25E3%2581%2586%25EF%25BC%2581%25E2%2591%25A3%25EF%25BD%259E%25E7%25B9%25B0%25E3%2582%258A%25E8%25BF%2594%25E3%2581%2597%25E5%2587%25A6%25E7%2590%2586%25EF%25BD%259E%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:kazinos%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzRmODg3NjQ3YTYuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
+        }
+      ]
     },
     {
       "title": "Zennの「usd」のフィード",
@@ -3169,6 +3195,16 @@
       "feedUrl": "https://note.com/hashtag/substancepainter/rss",
       "siteUrl": "https://note.com/hashtag/substancepainter",
       "articles": [
+        {
+          "id": "https://note.com/juntominaga/n/nb8d8929386a1",
+          "author": null,
+          "description": "Unreal Engine × 建築ビジュアライゼーション\n🎯 今回の目標\n続きをみる",
+          "link": "https://note.com/juntominaga/n/nb8d8929386a1",
+          "publishedOn": "2025-08-10T04:36:44.000Z",
+          "wordCount": 2622,
+          "title": "🛠 技ノート｜布マテリアル × カメラ調整 × レンダリング実践",
+          "imageUrl": "https://assets.st-note.com/production/uploads/images/206808090/rectangle_large_type_2_4273a4d792e3b31ee9a88a28a7dd139d.png?width=800"
+        },
         {
           "id": "https://note.com/juntominaga/n/n6ba41890f46e",
           "author": null,

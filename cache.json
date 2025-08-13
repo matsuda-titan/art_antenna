@@ -2846,6 +2846,16 @@
       "siteUrl": "https://qiita.com",
       "articles": [
         {
+          "id": "https://qiita.com/fuziki/items/72a87af8b8ade5a3aabb",
+          "author": null,
+          "description": "はじめに\nthree.jsでInstancedMeshを使って、サイリウムを表示し、Shaderでサイリウムを振る挙動を実装してみました\n\nInstancedMeshを使用することで、描画呼び出し回数を削減し、アプリケーション全体のレンダリングパフォーマンスを向上させるこ...",
+          "link": "https://qiita.com/fuziki/items/72a87af8b8ade5a3aabb",
+          "publishedOn": "2025-08-13T05:55:38.000Z",
+          "wordCount": 4210,
+          "title": "three.jsでサイリウムをInstancedMeshで表示してShaderで振る",
+          "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnFpaXRhLWltYWdlLXN0b3JlLnMzLmFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkYwJTJGMjE0MzEzJTJGcHJvZmlsZS1pbWFnZXMlMkYxNjkwMDk0MTM1P2l4bGliPXJiLTQuMC4wJmFyPTElM0ExJmZpdD1jcm9wJm1hc2s9ZWxsaXBzZSZiZz1GRkZGRkYmZm09cG5nMzImcz0wNjM4ZDYyNjM1MTYzZDBhOTJkNTM0ZmJmNWQxM2VhYw%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3Ddd6681eef4598bc1ac4a47d618becc3f?ixlib=rb-4.0.0&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9dGhyZWUuanMlRTMlODElQTclRTMlODIlQjUlRTMlODIlQTQlRTMlODMlQUElRTMlODIlQTYlRTMlODMlQTAlRTMlODIlOTJJbnN0YW5jZWRNZXNoJUUzJTgxJUE3JUU4JUExJUE4JUU3JUE0JUJBJUUzJTgxJTk3JUUzJTgxJUE2U2hhZGVyJUUzJTgxJUE3JUU2JThDJUFGJUUzJTgyJThCJnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9YTZlNGFkMWQyNTE5N2Q3ZDQ1OWUwYmVhMzJmMjlmNzU&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBmdXppa2kmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz1mODM5OTc4MDQ1MGRhMzg2MzZmN2NlZWM1NjQxZTI1MA&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=670f2c74ec4dc2f8debbb5fb1d642c1d"
+        },
+        {
           "id": "https://qiita.com/Uehara1124/items/7769dc97b21edb4f1df5",
           "author": null,
           "description": "概要\nシェーダーでWorleyNoiseを適度に高速かつ省メモリ、ハイクオリティに取得する方法を提案するということ。\n\n点からの距離関数 (1D)\nまずは1Dを考える。\n$0≦x≦1$ で、$x=p$ の位置に点を置く。\n\n位置 $x$ における $p$ からの距離は当然...",
@@ -2921,6 +2931,16 @@
       "feedUrl": "https://qiita.com/tags/glsl/feed",
       "siteUrl": "https://qiita.com",
       "articles": [
+        {
+          "id": "https://qiita.com/fuziki/items/72a87af8b8ade5a3aabb",
+          "author": null,
+          "description": "はじめに\nthree.jsでInstancedMeshを使って、サイリウムを表示し、Shaderでサイリウムを振る挙動を実装してみました\n\nInstancedMeshを使用することで、描画呼び出し回数を削減し、アプリケーション全体のレンダリングパフォーマンスを向上させるこ...",
+          "link": "https://qiita.com/fuziki/items/72a87af8b8ade5a3aabb",
+          "publishedOn": "2025-08-13T05:55:38.000Z",
+          "wordCount": 4206,
+          "title": "three.jsでサイリウムをInstancedMeshで表示してShaderで振る",
+          "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnFpaXRhLWltYWdlLXN0b3JlLnMzLmFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkYwJTJGMjE0MzEzJTJGcHJvZmlsZS1pbWFnZXMlMkYxNjkwMDk0MTM1P2l4bGliPXJiLTQuMC4wJmFyPTElM0ExJmZpdD1jcm9wJm1hc2s9ZWxsaXBzZSZiZz1GRkZGRkYmZm09cG5nMzImcz0wNjM4ZDYyNjM1MTYzZDBhOTJkNTM0ZmJmNWQxM2VhYw%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3Ddd6681eef4598bc1ac4a47d618becc3f?ixlib=rb-4.0.0&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9dGhyZWUuanMlRTMlODElQTclRTMlODIlQjUlRTMlODIlQTQlRTMlODMlQUElRTMlODIlQTYlRTMlODMlQTAlRTMlODIlOTJJbnN0YW5jZWRNZXNoJUUzJTgxJUE3JUU4JUExJUE4JUU3JUE0JUJBJUUzJTgxJTk3JUUzJTgxJUE2U2hhZGVyJUUzJTgxJUE3JUU2JThDJUFGJUUzJTgyJThCJnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9YTZlNGFkMWQyNTE5N2Q3ZDQ1OWUwYmVhMzJmMjlmNzU&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBmdXppa2kmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz1mODM5OTc4MDQ1MGRhMzg2MzZmN2NlZWM1NjQxZTI1MA&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=670f2c74ec4dc2f8debbb5fb1d642c1d"
+        },
         {
           "id": "https://qiita.com/ShuMatsumoto/items/55f74568d466ed59885d",
           "author": null,
@@ -3249,6 +3269,16 @@
       "siteUrl": "https://note.com/hashtag/substancepainter",
       "articles": [
         {
+          "id": "https://note.com/creatorsaki_vlog/n/nc6d001770b05",
+          "author": null,
+          "description": "絶賛案件受付中ではあるのですが、先日来たお見積もりをお断りました。。\n理由はというと、\nクライアント様とのご予算やご希望条件が合わなかったからです。\n時にはかなり低いご予算でのお見積もりを出されるクライアント様もいらっしゃいます。もちろん私のようなひよっこのクリエイターにはお客様を選ぶ権利など到底ないとは思っております。\nしかしながら、私も一生懸命勉強をしその私の技術に対して対価を払ってくださったお客様がいらっしゃる。\nその上で、そのお客様だけに予算を下げてご提供することはなかなか難しいかと思っています。また、双方の思いが同じでないと結果的にトラブルが生じると判断いたしました。どのような案件でも受けたい気持ちはありますが、焦らず判断することが双方にとってのいい決断だと信じています。今回ご縁がなかったクライアント様にも伝わっていればいいなと思います。\n続きをみる",
+          "link": "https://note.com/creatorsaki_vlog/n/nc6d001770b05",
+          "publishedOn": "2025-08-13T04:34:55.000Z",
+          "wordCount": 2268,
+          "title": "新規案件、お断りしました(/ _ ; )",
+          "imageUrl": "https://assets.st-note.com/production/uploads/images/208211937/rectangle_large_type_2_5a49129dddc73b667737b8f49078ecbc.png?width=800"
+        },
+        {
           "id": "https://note.com/juntominaga/n/nb8d8929386a1",
           "author": null,
           "description": "Unreal Engine × 建築ビジュアライゼーション\n🎯 今回の目標\n続きをみる",
@@ -3468,6 +3498,26 @@
       "feedUrl": "https://cginterest.com/feed/",
       "siteUrl": "https://cginterest.com",
       "articles": [
+        {
+          "id": "https://cginterest.com/?p=48897",
+          "author": ".me",
+          "description": "2025年8月12日（現地時間）- Autodesk は、「Autodesk Flow Studio」（旧Wonder Studio）の新たな価格体系を発表しました。これには、初の無料プランと、Liteプランの価格を20 […]\nAutodesk、AI搭載VFXツール「Autodesk Flow Studio」のフリーミアム版を提供開始。新価格帯で誰もが利用しやすく。 first appeared on CGinterest.",
+          "link": "https://cginterest.com/2025/08/13/autodesk%e3%80%81ai%e6%90%ad%e8%bc%89vfx%e3%83%84%e3%83%bc%e3%83%ab%e3%80%8cautodesk-flow-studio%e3%80%8d%e3%81%ae%e3%83%95%e3%83%aa%e3%83%bc%e3%83%9f%e3%82%a2%e3%83%a0%e7%89%88%e3%82%92%e6%8f%90/",
+          "publishedOn": "2025-08-13T08:03:54.000Z",
+          "wordCount": 683,
+          "title": "Autodesk、AI搭載VFXツール「Autodesk Flow Studio」のフリーミアム版を提供開始。新価格帯で誰もが利用しやすく。",
+          "imageUrl": "https://cginterest.com/wp-content/uploads/2025/08/20250813_autodesk-launches-freemium-access.webp"
+        },
+        {
+          "id": "https://cginterest.com/?p=48898",
+          "author": ".me",
+          "description": "2025年8月12日（現地時間） – Nvidia は、Studioドライバの最新アップデートをリリースしました。 8月の NVIDIA Studio Driver アップデート 8月のNVIDIA Stud […]\n2025年8月の NVIDIA Studio Driver アップデートがリリース！ first appeared on CGinterest.",
+          "link": "https://cginterest.com/2025/08/13/2025%e5%b9%b48%e6%9c%88%e3%81%ae-nvidia-studio-driver-%e3%82%a2%e3%83%83%e3%83%97%e3%83%87%e3%83%bc%e3%83%88%e3%81%8c%e3%83%aa%e3%83%aa%e3%83%bc%e3%82%b9%ef%bc%81/",
+          "publishedOn": "2025-08-13T05:50:57.000Z",
+          "wordCount": 728,
+          "title": "2025年8月の NVIDIA Studio Driver アップデートがリリース！",
+          "imageUrl": "https://cginterest.com/wp-content/uploads/2025/08/20250813_nvidiastudiodriver.webp"
+        },
         {
           "id": "https://cginterest.com/?p=48868",
           "author": ".me",

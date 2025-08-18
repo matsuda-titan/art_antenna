@@ -280,6 +280,16 @@
       "siteUrl": "https://tech-art.online",
       "articles": [
         {
+          "id": "https://tech-art.online/?p=1989",
+          "author": "管理人",
+          "description": "Pivot Painter の使い方とUE5での実装方法について解説しました。\nPivot Painter入門！Houdiniで加工し、UEで動かす！ first appeared on TECH ART ONLINE.",
+          "link": "https://tech-art.online/houdini-pivot-painter/?utm_source=rss&utm_medium=rss&utm_campaign=houdini-pivot-painter",
+          "publishedOn": "2025-08-18T09:00:00.000Z",
+          "wordCount": 14227,
+          "title": "Pivot Painter入門！Houdiniで加工し、UEで動かす！",
+          "imageUrl": "https://tech-art.online/wordpress/wp-content/uploads/2025/08/20250816_152443_low-485x300.jpg"
+        },
+        {
           "id": "https://tech-art.online/?p=1986",
           "author": "管理人",
           "description": "HoudiniでVATを作成し、それをUnreal Engine 5（UE5）で動かすまでの流れをわかりやすく解説しています。\nVertex Animation Texture完全チュートリアル（Houdini→Unreal） first appeared on TECH ART ONLINE.",
@@ -316,6 +326,21 @@
       "feedUrl": "https://3dnchu.com/feed/",
       "siteUrl": "https://3dnchu.com",
       "articles": [
+        {
+          "id": "https://3dnchu.com/?p=1057612",
+          "author": "Ymt3D -3dnchu-",
+          "description": "CGWORLDとIntelによる無料オンラインイベント「Intel Boot Up -Creative Sparks Begin Here!-」が8月28日（木）に開催されます！著名なクリエイター陣が制作ノウハウを紹介！",
+          "link": "https://3dnchu.com/archives/intel-boot-up-creative-sparks-begin-here/",
+          "publishedOn": "2025-08-18T11:49:16.000Z",
+          "wordCount": 8792,
+          "title": "Intel Boot Up -Creative Sparks Begin Here!- - 著名なクリエイター陣が制作ノウハウを紹介する無料オンラインイベント！2025年8月28日（木）に開催！",
+          "enclosure": {
+            "url": "https://3dnchu.com/wp-content/uploads/intel-boot-up-creative-sparks-begin-here-small.gif",
+            "length": "886571",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://3dnchu.com/wp-content/uploads/intel-boot-up-creative-sparks-begin-here-small.gif"
+        },
         {
           "id": "https://3dnchu.com/?p=1057497",
           "author": "Ymt3D -3dnchu-",
@@ -2597,6 +2622,21 @@
       "siteUrl": "https://zenn.dev/topics/3dcg",
       "articles": [
         {
+          "id": "https://zenn.dev/tachikure/articles/8b52f4b85e3d94",
+          "author": "たちくれ",
+          "description": "CGソフトごとの行列の違い\nCGソフトによって、同じ変換を表現する行列演算の見た目が異なる。\n例えば、座標(1,2,3)の点をY軸方向に5移動する変換は、以下のようになる。\n・MayaやHoudini\n\n\\begin{bmatrix}\n1 &2 &3\n\\end{bmatrix}\n\\begin{bmatrix}\n1 &0 &0 &0\\\\\n0 &1 &0 &0\\\\\n0 &0 &1 &0\\\\\n0 &5 &0 &1\n\\end{bmatrix}\n\n・BlenderやBifrost\n\n...",
+          "link": "https://zenn.dev/tachikure/articles/8b52f4b85e3d94",
+          "publishedOn": "2025-08-18T11:43:15.000Z",
+          "wordCount": 823,
+          "title": "CGソフトごとの行列(matrix)の違い(行優先/列優先)",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--binGMWic--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:CG%25E3%2582%25BD%25E3%2583%2595%25E3%2583%2588%25E3%2581%2594%25E3%2581%25A8%25E3%2581%25AE%25E8%25A1%258C%25E5%2588%2597%2528matrix%2529%25E3%2581%25AE%25E9%2581%2595%25E3%2581%2584%2528%25E8%25A1%258C%25E5%2584%25AA%25E5%2585%2588%252F%25E5%2588%2597%25E5%2584%25AA%25E5%2585%2588%2529%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%259F%25E3%2581%25A1%25E3%2581%258F%25E3%2582%258C%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzQwZjczMjE1OTcuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png",
+            "length": "0",
+            "type": "image/png"
+          },
+          "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--binGMWic--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:CG%25E3%2582%25BD%25E3%2583%2595%25E3%2583%2588%25E3%2581%2594%25E3%2581%25A8%25E3%2581%25AE%25E8%25A1%258C%25E5%2588%2597%2528matrix%2529%25E3%2581%25AE%25E9%2581%2595%25E3%2581%2584%2528%25E8%25A1%258C%25E5%2584%25AA%25E5%2585%2588%252F%25E5%2588%2597%25E5%2584%25AA%25E5%2585%2588%2529%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%259F%25E3%2581%25A1%25E3%2581%258F%25E3%2582%258C%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzQwZjczMjE1OTcuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
+        },
+        {
           "id": "https://zenn.dev/tkagawa/articles/104566fb7a7eec",
           "author": "TKAGAWA",
           "description": "<その1>では、主人公のスカイエイについて紹介しました。\n本記事では、スカイエイが登場する舞台について、紹介します。\n\n 1.『エアリアル・シンフォニー』の世界観\n**『エアリアル・シンフォニー』は、空を泳ぐ未来生物スカイエイ（Sky Ray）**たちが、\n音楽とともに空を舞うファンタジーアニメーションです。\n\n 2.舞台設定\n物語の舞台は、西暦3025年。\n地上は気候変動の影響で荒廃し、多くの都市は雲の上に浮かぶ空中都市へと移りました。\nその広大な空域を優雅に舞うのが、今回の主役であるスカイエイたちです。\n空は、濃い群青色から朝焼けのオレンジへと変化し、\n雲海は音楽のリズ...",
@@ -4349,16 +4389,6 @@
           "wordCount": 1516,
           "title": "Live2D サマーセール 2025が開催！2025年7月28日までPROライセンスが20%OFF！",
           "imageUrl": "https://cginterest.com/wp-content/uploads/2025/07/image-2025-07-21T142958.722.webp"
-        },
-        {
-          "id": "https://cginterest.com/?p=47957",
-          "author": ".me",
-          "description": "Unity Asset Store で開催されているスプリングセールの紹介です。 セール概要 Unity Asset Store スプリングセールでは、期間中 300 を超える人気のアセットが 50% オフになります。  […]\n人気のアセットが最大 70% オフ！Unity Asset Store サマーセールが開催！フラッシュディールアセットをチェック！ first appeared on CGinterest.",
-          "link": "https://cginterest.com/2025/07/20/%e4%ba%ba%e6%b0%97%e3%81%ae%e3%82%a2%e3%82%bb%e3%83%83%e3%83%88%e3%81%8c%e6%9c%80%e5%a4%a7-70-%e3%82%aa%e3%83%95%ef%bc%81unity-asset-store-%e3%82%b5%e3%83%9e%e3%83%bc%e3%82%bb%e3%83%bc%e3%83%ab/",
-          "publishedOn": "2025-07-19T23:35:00.000Z",
-          "wordCount": 1212,
-          "title": "人気のアセットが最大 70% オフ！Unity Asset Store サマーセールが開催！フラッシュディールアセットをチェック！",
-          "imageUrl": "https://cginterest.com/wp-content/uploads/2025/07/20250719_UnityAssetStre-SummerSale.webp"
         }
       ]
     }

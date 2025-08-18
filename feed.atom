@@ -2,10 +2,58 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-18T08:17:34.271Z</updated>
+    <updated>2025-08-18T12:22:39.578Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Intel Boot Up -Creative Sparks Begin Here!- - 著名なクリエイター陣が制作ノウハウを紹介する無料オンラインイベント！2025年8月28日（木）に開催！]]></title>
+        <id>https://3dnchu.com/?p=1057612</id>
+        <link href="https://3dnchu.com/archives/intel-boot-up-creative-sparks-begin-here/"/>
+        <updated>2025-08-18T11:49:16.000Z</updated>
+        <summary type="html"><![CDATA[CGWORLDとIntelによる無料オンラインイベント「Intel Boot Up -Creative Sparks Begin Here!-」が8月28日（木）に開催されます！著名なクリエイター陣が制作ノウハウを紹介！]]></summary>
+        <author>
+            <name>Ymt3D -3dnchu-</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CGソフトごとの行列(matrix)の違い(行優先/列優先)]]></title>
+        <id>https://zenn.dev/tachikure/articles/8b52f4b85e3d94</id>
+        <link href="https://zenn.dev/tachikure/articles/8b52f4b85e3d94"/>
+        <updated>2025-08-18T11:43:15.000Z</updated>
+        <summary type="html"><![CDATA[CGソフトごとの行列の違い
+CGソフトによって、同じ変換を表現する行列演算の見た目が異なる。
+例えば、座標(1,2,3)の点をY軸方向に5移動する変換は、以下のようになる。
+・MayaやHoudini
+
+\begin{bmatrix}
+1 &2 &3
+\end{bmatrix}
+\begin{bmatrix}
+1 &0 &0 &0\\
+0 &1 &0 &0\\
+0 &0 &1 &0\\
+0 &5 &0 &1
+\end{bmatrix}
+
+・BlenderやBifrost
+
+...]]></summary>
+        <author>
+            <name>たちくれ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pivot Painter入門！Houdiniで加工し、UEで動かす！]]></title>
+        <id>https://tech-art.online/?p=1989</id>
+        <link href="https://tech-art.online/houdini-pivot-painter/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=houdini-pivot-painter"/>
+        <updated>2025-08-18T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Pivot Painter の使い方とUE5での実装方法について解説しました。
+Pivot Painter入門！Houdiniで加工し、UEで動かす！ first appeared on TECH ART ONLINE.]]></summary>
+        <author>
+            <name>管理人</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[BeamNG.tech - Platform Showcase - リアルなソフトボディシミュレーションで自動車の挙動や破壊が可能なゲームの研究・産業向けシミュレーション基盤！最新ショーケース映像が公開！]]></title>
         <id>https://3dnchu.com/?p=1057497</id>
@@ -4009,17 +4057,6 @@ https://houdini-teaparty.connpass.com/
         <summary type="html"><![CDATA[こんにちは！ 今回はWingfoxで公開されている「Basics, AAA Environment, and Professional Cinematics in Unreal Engine」を受講したので、レビューして […]]]></summary>
         <author>
             <name>CGbox編集部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[人気のアセットが最大 70% オフ！Unity Asset Store サマーセールが開催！フラッシュディールアセットをチェック！]]></title>
-        <id>https://cginterest.com/?p=47957</id>
-        <link href="https://cginterest.com/2025/07/20/%e4%ba%ba%e6%b0%97%e3%81%ae%e3%82%a2%e3%82%bb%e3%83%83%e3%83%88%e3%81%8c%e6%9c%80%e5%a4%a7-70-%e3%82%aa%e3%83%95%ef%bc%81unity-asset-store-%e3%82%b5%e3%83%9e%e3%83%bc%e3%82%bb%e3%83%bc%e3%83%ab/"/>
-        <updated>2025-07-19T23:35:00.000Z</updated>
-        <summary type="html"><![CDATA[Unity Asset Store で開催されているスプリングセールの紹介です。 セール概要 Unity Asset Store スプリングセールでは、期間中 300 を超える人気のアセットが 50% オフになります。  […]
-人気のアセットが最大 70% オフ！Unity Asset Store サマーセールが開催！フラッシュディールアセットをチェック！ first appeared on CGinterest.]]></summary>
-        <author>
-            <name>.me</name>
         </author>
     </entry>
 </feed>

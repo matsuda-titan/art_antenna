@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-17T12:19:52.535Z</updated>
+    <updated>2025-08-18T00:59:38.088Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Autodesk Flow Studioがプロダクトページに追加されました]]></title>
+        <id>https://area.autodesk.jp/information/flow-studio/</id>
+        <link href="https://area.autodesk.jp/information/flow-studio/"/>
+        <updated>2025-08-18T01:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Autodesk Flow Studio（旧称：Wonder Studio）は、Autodeskの一員であるWonder Dynamics社が開発した高度なクラウドベースのAI 3Dツールセットです。 これにより、現実の映像を複雑な設定なしで完全に編集可能なパイプライン対応のCGシーンに変換できます。 モーションキャプチャデータ、カメラトラッ...・・・]]></summary>
+        <author>
+            <name>AREA JAPAN | Autodesk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bolt GraphicsのGPU「Zeus」のスペックが明らかに！　最大384GBメモリ、400GbEネイティブネットワークポート、RISC-V CPUコア内蔵、2026年にデベロッパーキット、2027年に量産開始 - ニュース]]></title>
+        <id>https://cgworld.jp/flashnews/01-202508-Bolt-Graphics-Zeus.html</id>
+        <link href="https://cgworld.jp/flashnews/01-202508-Bolt-Graphics-Zeus.html"/>
+        <updated>2025-08-17T23:41:44.000Z</updated>
+        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Vertex Animation Texture完全チュートリアル（Houdini→Unreal）]]></title>
         <id>https://tech-art.online/?p=1986</id>
@@ -55,6 +75,16 @@ Vertex Animation Texture完全チュートリアル（Houdini→Unreal） first 
         <summary type="html"><![CDATA[TreetyによるUnreal Engine 5向けの呼吸サウンド システムコンポーネント「Easy Breath Audio Component」がFab上で公開されており、個人ユーザーは無料で入手可能です。]]></summary>
         <author>
             <name>Ymt3D -3dnchu-</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[シーンビューの背景色をすばやく切り替えたい！]]></title>
+        <id>https://unpyside.com/?p=2433</id>
+        <link href="https://unpyside.com/blog/2025/08/17/houdini-viewport-background-hotkey/"/>
+        <updated>2025-08-17T01:58:40.000Z</updated>
+        <summary type="html"><![CDATA[Houdiniで作業しているときにふと思ったのですが、シーンビューの背景色切り替えるのめんどくさくない？ というのも、Houdiniで背景色を変更する場合、シーンビュー上で ホットキー D を押して Display Op […]]]></summary>
+        <author>
+            <name>ringosan</name>
         </author>
     </entry>
     <entry>
@@ -1023,6 +1053,16 @@ Reallusion、ComfyUIと連携する iClone＆Character Creator プラグイン�
         <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
         <author>
             <name>CGWORLD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ポリゴンメッシュの角を見つけるには？頂点の隣接数カウントで簡単判定]]></title>
+        <id>https://unpyside.com/?p=2389</id>
+        <link href="https://unpyside.com/blog/2025/08/10/vex-neighbourcount-find-corners/"/>
+        <updated>2025-08-10T14:54:42.000Z</updated>
+        <summary type="html"><![CDATA[四角形のオブジェクトの角を取得したい場合は、各ポイント（頂点）に隣接しているポイントの数を調べることで判別できます。 例えば、2x4（Row=2, Col=3）のポイント構成で作られた四角形を考えると、隣接するポイントの […]]]></summary>
+        <author>
+            <name>ringosan</name>
         </author>
     </entry>
     <entry>
@@ -2370,6 +2410,16 @@ The post Houdini を活用、FXテクニカルディレクター が語る 映�
     <entry>
         <title type="html"><![CDATA[PySide6でQUiLoaderがハングする問題とその回避方法【6.8.1で解決？】]]></title>
         <id>https://unpyside.com/?p=2382</id>
+        <link href="https://unpyside.com/blog/2025/08/01/pyside6-quiloader-hang-bug/"/>
+        <updated>2025-07-31T18:46:57.000Z</updated>
+        <summary type="html"><![CDATA[PySide を使ってカスタムウィジェットを作成する際、.ui ファイルを利用することはよくあるかと思います。しかしその中で、PySide6 の QUiLoader が正しく動作しない不具合が報告されています。 from […]]]></summary>
+        <author>
+            <name>ringosan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PySide6でQUiLoaderがハングする問題とその回避方法【6.8.1で解決？】]]></title>
+        <id>https://unpyside.com/?p=2382</id>
         <link href="https://unpyside.com/blog/2025/08/01/pyside6-quiloader-hang-bug/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=pyside6-quiloader-hang-bug"/>
         <updated>2025-07-31T18:46:57.000Z</updated>
         <summary type="html"><![CDATA[PySide を使ってカスタムウィジェットを作成する際、.ui ファイルを利用することはよくあるかと思います。しかしその中で、PySide6 の QUiLoader が正しく動作しない不具合が報告されています。 from […]]]></summary>
@@ -2866,6 +2916,16 @@ The post Houdini ＋ Unreal Engine で ワールド ビルディング：Project
     <entry>
         <title type="html"><![CDATA[日本からカナダに猫を連れていくための準備 2  – 出国]]></title>
         <id>https://unpyside.com/?p=2308</id>
+        <link href="https://unpyside.com/blog/2025/07/29/canada-cats-02/"/>
+        <updated>2025-07-29T01:43:29.000Z</updated>
+        <summary type="html"><![CDATA[日本を出るための必要な書類や検疫について、動物検疫所のサイトを確認すると狂犬病の予防注射について必ず事前に日本にある相手国大使館（外部リンク）または動物検疫機関に入国条件を確認してくださいとありました 日本から海外への犬 […]]]></summary>
+        <author>
+            <name>ringosan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[日本からカナダに猫を連れていくための準備 2  – 出国]]></title>
+        <id>https://unpyside.com/?p=2308</id>
         <link href="https://unpyside.com/blog/2025/07/29/canada-cats-02/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=canada-cats-02"/>
         <updated>2025-07-29T01:43:29.000Z</updated>
         <summary type="html"><![CDATA[日本を出るための必要な書類や検疫について、動物検疫所のサイトを確認すると狂犬病の予防注射について必ず事前に日本にある相手国大使館（外部リンク）または動物検疫機関に入国条件を確認してくださいとありました 日本から海外への犬 […]]]></summary>
@@ -3123,6 +3183,16 @@ The post Blender Pro Hair Suite ヘアカードを編集可能なカーブに変
 本手法でUVを補正するためには，メッシュ...]]></summary>
         <author>
             <name>Shaderタグが付けられた新着記事 - Qiita</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[北米のゲーム業界は想像以上に厳しかった — 現地で感じたレイオフの波]]></title>
+        <id>https://unpyside.com/?p=2331</id>
+        <link href="https://unpyside.com/blog/2025/07/27/game-industry-layoffs-toronto-2025/"/>
+        <updated>2025-07-27T03:22:37.000Z</updated>
+        <summary type="html"><![CDATA[どうもお久しぶりです。ちょうどカナダ・トロントに来てからおよそ8か月目に突入するところで、半年間の語学学校での英語漬けも終わりました。英語力に関しては、私が目標にしていたCEFR C1にはぎりぎり到達しませんでしたが、以 […]]]></summary>
+        <author>
+            <name>ringosan</name>
         </author>
     </entry>
     <entry>
@@ -3893,114 +3963,6 @@ https://houdini-teaparty.connpass.com/
         <updated>2025-07-19T23:35:00.000Z</updated>
         <summary type="html"><![CDATA[Unity Asset Store で開催されているスプリングセールの紹介です。 セール概要 Unity Asset Store スプリングセールでは、期間中 300 を超える人気のアセットが 50% オフになります。  […]
 人気のアセットが最大 70% オフ！Unity Asset Store サマーセールが開催！フラッシュディールアセットをチェック！ first appeared on CGinterest.]]></summary>
-        <author>
-            <name>.me</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SMIRK Freeform Facial Features：Blenderでメッシュを壊さず、Grease Pencilで口を自由に動かしてカートゥーン表現ができる無料モディファイア【サンプルファイル付き】]]></title>
-        <id>https://modelinghappy.com/?p=63899</id>
-        <link href="https://modelinghappy.com/archives/63899"/>
-        <updated>2025-07-19T11:01:55.000Z</updated>
-        <summary type="html"><![CDATA[SMIRK #8211; Freeform Facial Features v1.0 SMIRKは、Pixarの『Win or Lose』で採用された「分離型顔パーツ」の表現手法を、Blender上で再現できるモディフ
-The post SMIRK Freeform Facial Features：Blenderでメッシュを壊さず、Grease Pencilで口を自由に動かしてカートゥーン表現ができる無料モディファイア【サンプルファイル付き】 first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
-        <author>
-            <name>modelinghappy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2025年第1弾　背景・プロップ部門　結果発表！ 優秀賞&審査員講評コメント一挙公開 - 連載]]></title>
-        <id>https://cgworld.jp/regular/20251-1.html</id>
-        <link href="https://cgworld.jp/regular/20251-1.html"/>
-        <updated>2025-07-19T09:14:40.000Z</updated>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2025年第1弾　キャラクター部門　結果発表！ 優秀賞&審査員講評コメント一挙公開 - 連載]]></title>
-        <id>https://cgworld.jp/regular/20251.html</id>
-        <link href="https://cgworld.jp/regular/20251.html"/>
-        <updated>2025-07-19T09:01:20.000Z</updated>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[リアルな川を素早く作成できるBlender用ツール BagaRiver V2 がリリース！プロシージャルな泡生成、地形への自然な彫り込みの追加など]]></title>
-        <id>https://cginterest.com/?p=47745</id>
-        <link href="https://cginterest.com/2025/07/19/%e3%83%aa%e3%82%a2%e3%83%ab%e3%81%aa%e5%b7%9d%e3%82%92%e7%b4%a0%e6%97%a9%e3%81%8f%e4%bd%9c%e6%88%90%e3%81%a7%e3%81%8d%e3%82%8bblender%e7%94%a8%e3%83%84%e3%83%bc%e3%83%ab-bagariver-v2-%e3%81%8c/"/>
-        <updated>2025-07-19T08:48:46.000Z</updated>
-        <summary type="html"><![CDATA[2025年7月15日（現地時間） – リアルな川を素早く作成できるBlender用ツール BagaRiver V2 がリリースされました。ここではその新機能を紹介したいと思います。 新機能ハイライト 今回のア […]
-リアルな川を素早く作成できるBlender用ツール BagaRiver V2 がリリース！プロシージャルな泡生成、地形への自然な彫り込みの追加など first appeared on CGinterest.]]></summary>
-        <author>
-            <name>.me</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["【初心者向け】ゲーム開発における描画とレンダリングの違いをわかりやすく解説（Unity / C++ / DirectX 対応）"]]></title>
-        <id>https://qiita.com/nel2116/items/b699094e99817c4cc8fc</id>
-        <link href="https://qiita.com/nel2116/items/b699094e99817c4cc8fc"/>
-        <updated>2025-07-19T08:09:59.000Z</updated>
-        <summary type="html"><![CDATA[TL;DR
-
-描画 (Draw) = 「ジオメトリ（頂点データなど）を GPU に送り ポリゴンを塗る」フェーズ。いわゆる ドローコール を発行する段階。
-
-レンダリング (Render) = ライティングやポストエフェクトを含め「最終的な画像を出力するまで」の全体プロ...]]></summary>
-        <author>
-            <name>Shaderタグが付けられた新着記事 - Qiita</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Unity Assets Storeで夏のセールが開催！ベストセーラー商品が50%オフ、日替わりで1日最大70%オフ！]]></title>
-        <id>https://modelinghappy.com/?p=63889</id>
-        <link href="https://modelinghappy.com/archives/63889"/>
-        <updated>2025-07-19T06:02:44.000Z</updated>
-        <summary type="html"><![CDATA[Unity Assets Store SUMMER SALE 2025年8月13日までUnity Assets Storeでベストセーラー商品300点以上が50%オフ、さらに日替わりで１日限り最大70%オフ~になるフラッ
-The post Unity Assets Storeで夏のセールが開催！ベストセーラー商品が50%オフ、日替わりで1日最大70%オフ！ first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
-        <author>
-            <name>modelinghappy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cut & Wrap – 複数画像を一括ポリゴン化して一列配置で原点移動＆オブジェクトに自動マッピング出来るBlneder用アドオン！デカールや葉っぱ等のテクスチャ素材を簡単作成！]]></title>
-        <id>https://modelinghappy.com/?p=63876</id>
-        <link href="https://modelinghappy.com/archives/63876"/>
-        <updated>2025-07-19T05:22:29.000Z</updated>
-        <summary type="html"><![CDATA[Cut amp; Wrap Cut amp; WrapアドオンはBlenderで、用意した正方形のPNG画像から、透明以外を自動で切り抜き、四角形のメッシュポリゴンのデカール素材に簡単に作成して、モデルに沿わるシュリ
-The post Cut & Wrap – 複数画像を一括ポリゴン化して一列配置で原点移動＆オブジェクトに自動マッピング出来るBlneder用アドオン！デカールや葉っぱ等のテクスチャ素材を簡単作成！ first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
-        <author>
-            <name>modelinghappy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【アドオン紹介】Shoemaster_Beta – 靴を簡単作成するためのアドオン]]></title>
-        <id>https://cgbox.jp/?p=63708</id>
-        <link href="https://cgbox.jp/2025/07/19/news-addon-shoemaster_beta/"/>
-        <updated>2025-07-19T05:05:46.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは！ 今回はアドオンの「Shoemaster_Beta」を紹介します。 こちらのリンクがアドオンの商品ページになります。 Shoemaster_Beta 「Shoemaster_Beta」は、Shoemaster […]]]></summary>
-        <author>
-            <name>kasahara</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Blender、UE5、Zbrush、Gaea、Subsutanceを使用して中世の街並みをスタイライズド調で作成するチュートリアル動画がWingfoxで販売開始！]]></title>
-        <id>https://modelinghappy.com/?p=63865</id>
-        <link href="https://modelinghappy.com/archives/63865"/>
-        <updated>2025-07-19T04:13:27.000Z</updated>
-        <summary type="html"><![CDATA[Creating Stylized Worlds from Concept to Reality 世界中のチュートリアル動画を販売しているWingfoxのサイトでBlender、Unreal Engine5、Zbrush
-The post Blender、UE5、Zbrush、Gaea、Subsutanceを使用して中世の街並みをスタイライズド調で作成するチュートリアル動画がWingfoxで販売開始！ first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
-        <author>
-            <name>modelinghappy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Topaz Video AI 7.1 がリリース！フレーム補間の改善、古いフィルム映像向けの新しいプリセットの追加など]]></title>
-        <id>https://cginterest.com/?p=47922</id>
-        <link href="https://cginterest.com/2025/07/19/topaz-video-ai-7-1-%e3%81%8c%e3%83%aa%e3%83%aa%e3%83%bc%e3%82%b9%ef%bc%81%e3%83%95%e3%83%ac%e3%83%bc%e3%83%a0%e8%a3%9c%e9%96%93%e3%81%ae%e6%94%b9%e5%96%84%e3%80%81%e5%8f%a4%e3%81%84%e3%83%95%e3%82%a3/"/>
-        <updated>2025-07-19T01:48:00.000Z</updated>
-        <summary type="html"><![CDATA[2025年7月17日（現地時間）- Topaz LabsはAIを活用した動画品質強化ソフトウェアのメジャーアップデート版である Topaz Video AI 7.1 をリリースしました。 新機能ハイライト 今回のアップデ […]
-Topaz Video AI 7.1 がリリース！フレーム補間の改善、古いフィルム映像向けの新しいプリセットの追加など first appeared on CGinterest.]]></summary>
         <author>
             <name>.me</name>
         </author>

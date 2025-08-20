@@ -1892,6 +1892,16 @@
       "siteUrl": "https://modelinghappy.com",
       "articles": [
         {
+          "id": "https://modelinghappy.com/?p=64221",
+          "author": "modelinghappy",
+          "description": "ワコムと世界的オープンソース3D制作ソフトウェア『Blender』、戦略的パートナーシップを強化 ペンだブレット大手のワコムと3DCG制作ソフトのBlenderが戦略的パートナーシップを強化すると発表しました。その中でワ\nThe post ワコムとBlenderが戦略的パートナーシップを強化すると発表 first appeared on 3DCG最新情報サイト MODELING HAPPY.",
+          "link": "https://modelinghappy.com/archives/64221",
+          "publishedOn": "2025-08-19T14:00:23.000Z",
+          "wordCount": 3668,
+          "title": "ワコムとBlenderが戦略的パートナーシップを強化すると発表",
+          "imageUrl": "https://modelinghappy.com/wp-content/uploads/2025/08/20250819_waom_Blender.jpg"
+        },
+        {
           "id": "https://modelinghappy.com/?p=64213",
           "author": "modelinghappy",
           "description": "Recalculate Origin Orientation Recalculate Origin OrientationはEndertainer007さんが作成した、Blenderで選択した面の法線を基準にオブジェクト\nThe post Recalculate Origin Orientation Blenderで選択した面の法線を基準にオブジェクトの原点の向きを変更出来る無料アドオン first appeared on 3DCG最新情報サイト MODELING HAPPY.",
@@ -2834,6 +2844,21 @@
       "siteUrl": "https://zenn.dev/topics/maya",
       "articles": [
         {
+          "id": "https://zenn.dev/tachikure/articles/7e867a15a3e75e",
+          "author": "たちくれ",
+          "description": "目的\n\nUIで選択中(=水色にハイライトされている)のRender Setup LayerをPythonで取得したい。\n\n\n 解決策\nmaya.cmds.renderSetupSelect()で取得できる。\nimport maya.cmds as cmds\n\nselected_layers = cmds.renderSetupSelect(q=1)\nprint(selected_layers)\n\n# Result: ['renderSetupLayer2']\nまたは、maya.app.renderSetup.views.viewCmds.getSelection()で取得できる。\ni...",
+          "link": "https://zenn.dev/tachikure/articles/7e867a15a3e75e",
+          "publishedOn": "2025-08-19T15:44:46.000Z",
+          "wordCount": 569,
+          "title": "[Maya Python]UIで選択中のRender Setupを取得",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--B3thhVX3--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%255BMaya%2520Python%255DUI%25E3%2581%25A7%25E9%2581%25B8%25E6%258A%259E%25E4%25B8%25AD%25E3%2581%25AERender%2520Setup%25E3%2582%2592%25E5%258F%2596%25E5%25BE%2597%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%259F%25E3%2581%25A1%25E3%2581%258F%25E3%2582%258C%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzQwZjczMjE1OTcuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png",
+            "length": "0",
+            "type": "image/png"
+          },
+          "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--B3thhVX3--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%255BMaya%2520Python%255DUI%25E3%2581%25A7%25E9%2581%25B8%25E6%258A%259E%25E4%25B8%25AD%25E3%2581%25AERender%2520Setup%25E3%2582%2592%25E5%258F%2596%25E5%25BE%2597%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%259F%25E3%2581%25A1%25E3%2581%258F%25E3%2582%258C%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzQwZjczMjE1OTcuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
+        },
+        {
           "id": "https://zenn.dev/kazinos/articles/d0d835599f6788",
           "author": "kazinos",
           "description": "こんにちはkazinosです。\n前回は条件分岐（if文）の解説と簡単な例題を解説しました。\n今回の記事で紹介する繰り返し処理　for文は似たような処理を何度も実行したいときに使用される記法です。\nif文と今回紹介するfor文はMayaの操作に関わらずどんな処理をする上でも必要な基礎知識なので、しっかりと覚えておきましょう！\n▼前回の記事「MayaでPythonを使ってみよう！③～条件分岐～」\nhttps://zenn.dev/kazinos/articles/0d0d20e9e52551\n今回は、「特定の処理を繰り返し行う方法」について執筆したいと思います。\n\n 環境\nAutodesk ...",
@@ -2974,6 +2999,16 @@
       "feedUrl": "https://qiita.com/tags/%e3%82%b0%e3%83%a9%e3%83%95%e3%82%a3%e3%83%83%e3%82%af%e3%82%b9/feed",
       "siteUrl": "https://qiita.com",
       "articles": [
+        {
+          "id": "https://qiita.com/Tadataka_Takahashi/items/ddc70e043bef60d798df",
+          "author": null,
+          "description": "はじめに\n\nPowerShellでも3Dグラフィックスが作れます。WPF（Windows Presentation Foundation）の3D機能を使えば、追加ライブラリ不要でインタラクティブな3Dアプリケーションを開発できます。\n今回は、マウスで操作できるカラフルな立...",
+          "link": "https://qiita.com/Tadataka_Takahashi/items/ddc70e043bef60d798df",
+          "publishedOn": "2025-08-19T13:53:07.000Z",
+          "wordCount": 6691,
+          "title": "PowerShellで3D立方体をグリグリ回転させてみた",
+          "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYyNjQ4MDY5JTJGMGU0YTU4OTYzNzI5ZTIyYjkwODM5NDY4YjkzYWNkMGNmNWM4YWFhOCUyRmxhcmdlLnBuZyUzRjE2NTE1ODc2MzQ_aXhsaWI9cmItNC4wLjAmYXI9MSUzQTEmZml0PWNyb3AmbWFzaz1lbGxpcHNlJmJnPUZGRkZGRiZmbT1wbmczMiZzPThkYTliYzk4NDcyNTdmMGZkOTg2Njk2ZWVjZmRmMTQx%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3Df1d5ffd93e01fc76c1b836b76a80d5b6?ixlib=rb-4.0.0&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9UG93ZXJTaGVsbCVFMyU4MSVBNzNEJUU3JUFCJThCJUU2JTk2JUI5JUU0JUJEJTkzJUUzJTgyJTkyJUUzJTgyJUIwJUUzJTgzJUFBJUUzJTgyJUIwJUUzJTgzJUFBJUU1JTlCJTlFJUU4JUJCJUEyJUUzJTgxJTk1JUUzJTgxJTlCJUUzJTgxJUE2JUUzJTgxJUJGJUUzJTgxJTlGJnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9NzNjMDAyMjBiMzJjYTJmNDAzNDUzZDNlNjFlYWU3ODA&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBUYWRhdGFrYV9UYWthaGFzaGkmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz01YWM4MmFhMTM4Y2ZkZDI1MzAyNzNkMmI1YzJiNDBhMQ&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=387351612af0d62f4a9d6a4ed11abd51"
+        },
         {
           "id": "https://qiita.com/OishiiShishamo/items/07efd7704533e1451413",
           "author": null,
@@ -3176,6 +3211,16 @@
       "feedUrl": "https://note.com/hashtag/Houdini/rss",
       "siteUrl": "https://note.com/hashtag/Houdini",
       "articles": [
+        {
+          "id": "https://note.com/cute_hound3582/n/n629e03f3e1b1",
+          "author": null,
+          "description": "【汎用的な形状】\n爆発を大量に出した時、全てが同じように見えてしまうのは避けたいのですが、爆発は解像度が高めに必要なのでインゲーム用に何枚も連番テクスチャを用意するのは気が引けます。今回は試しにディスク容量を考慮したリソースを作ってみようかと思います。具体的には放射状に丸い爆発の連番テクスチャを1枚だけ作り回転させて上半分を地面から出します。DCCはHoudiniを使用しています。\n続きをみる",
+          "link": "https://note.com/cute_hound3582/n/n629e03f3e1b1",
+          "publishedOn": "2025-08-19T16:23:36.000Z",
+          "wordCount": 2453,
+          "title": "UnrealEngine : 汎用的に使える爆発連番テクスチャ",
+          "imageUrl": "https://assets.st-note.com/production/uploads/images/209611748/rectangle_large_type_2_ef4edfae90f266b4ac25970c20e54fcb.jpeg?width=800"
+        },
         {
           "id": "https://note.com/polymorph_design/n/nff940cc2c813",
           "author": null,
@@ -3650,6 +3695,21 @@
       "feedUrl": "https://cginterest.com/feed/",
       "siteUrl": "https://cginterest.com",
       "articles": [
+        {
+          "id": "https://cginterest.com/?p=49242",
+          "author": ".me",
+          "description": "2025年8月12日（現地時間）- Unity 6.2 が利用可能になったことが発表されました。 新機能ハイライト このアップデートでは、エディターに統合されたUnity AIベータ版、Android XR開発を強化する […]\nUnity 6.2 が正式リリース！Unity AIベータ版がエディタに統合！Android XR、メッシュLOD、ワールドスペースUIなど first appeared on CGinterest.",
+          "link": "https://cginterest.com/2025/08/20/49242/",
+          "publishedOn": "2025-08-19T22:15:00.000Z",
+          "wordCount": 1579,
+          "title": "Unity 6.2 が正式リリース！Unity AIベータ版がエディタに統合！Android XR、メッシュLOD、ワールドスペースUIなど",
+          "enclosure": {
+            "url": "https://cginterest.com/wp-content/uploads/2025/08/2025081-Unity6-2-Ai1.mp4",
+            "length": "341301",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://cginterest.com/wp-content/uploads/2025/08/20250820_Unity6_2.webp"
+        },
         {
           "id": "https://cginterest.com/?p=49295",
           "author": ".me",
@@ -4569,16 +4629,6 @@
           "wordCount": 714,
           "title": "O3DE 25.05.0 がリリース！パフォーマンスとグラフィックス、ロボット工学シミュレーションの強化など",
           "imageUrl": "https://cginterest.com/wp-content/uploads/2025/07/20250722_o3de-25050.webp"
-        },
-        {
-          "id": "https://cginterest.com/?p=47976",
-          "author": ".me",
-          "description": "Live2D GWセール2025の開催情報です。 セール概要 映像/アニメーション制作やVTuberモデルの制作ができる『Live2D Cubism 』のPROライセンスを20%OFFで購入できるクーポンが期間限定で配布 […]\nLive2D サマーセール 2025が開催！2025年7月28日までPROライセンスが20%OFF！ first appeared on CGinterest.",
-          "link": "https://cginterest.com/2025/07/21/live2d-%e3%82%b5%e3%83%9e%e3%83%bc%e3%82%bb%e3%83%bc%e3%83%ab-2025%e3%81%8c%e9%96%8b%e5%82%ac%ef%bc%812025%e5%b9%b47%e6%9c%8828%e6%97%a5%e3%81%be%e3%81%a7pro%e3%83%a9%e3%82%a4%e3%82%bb%e3%83%b3/",
-          "publishedOn": "2025-07-21T06:11:00.000Z",
-          "wordCount": 1516,
-          "title": "Live2D サマーセール 2025が開催！2025年7月28日までPROライセンスが20%OFF！",
-          "imageUrl": "https://cginterest.com/wp-content/uploads/2025/07/image-2025-07-21T142958.722.webp"
         }
       ]
     }

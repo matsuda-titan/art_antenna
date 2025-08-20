@@ -2,10 +2,81 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-19T12:21:09.539Z</updated>
+    <updated>2025-08-20T00:51:56.504Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Unity 6.2 が正式リリース！Unity AIベータ版がエディタに統合！Android XR、メッシュLOD、ワールドスペースUIなど]]></title>
+        <id>https://cginterest.com/?p=49242</id>
+        <link href="https://cginterest.com/2025/08/20/49242/"/>
+        <updated>2025-08-19T22:15:00.000Z</updated>
+        <summary type="html"><![CDATA[2025年8月12日（現地時間）- Unity 6.2 が利用可能になったことが発表されました。 新機能ハイライト このアップデートでは、エディターに統合されたUnity AIベータ版、Android XR開発を強化する […]
+Unity 6.2 が正式リリース！Unity AIベータ版がエディタに統合！Android XR、メッシュLOD、ワールドスペースUIなど first appeared on CGinterest.]]></summary>
+        <author>
+            <name>.me</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[UnrealEngine : 汎用的に使える爆発連番テクスチャ]]></title>
+        <id>https://note.com/cute_hound3582/n/n629e03f3e1b1</id>
+        <link href="https://note.com/cute_hound3582/n/n629e03f3e1b1"/>
+        <updated>2025-08-19T16:23:36.000Z</updated>
+        <summary type="html"><![CDATA[【汎用的な形状】
+爆発を大量に出した時、全てが同じように見えてしまうのは避けたいのですが、爆発は解像度が高めに必要なのでインゲーム用に何枚も連番テクスチャを用意するのは気が引けます。今回は試しにディスク容量を考慮したリソースを作ってみようかと思います。具体的には放射状に丸い爆発の連番テクスチャを1枚だけ作り回転させて上半分を地面から出します。DCCはHoudiniを使用しています。
+続きをみる]]></summary>
+        <author>
+            <name>#Houdiniタグ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Maya Python]UIで選択中のRender Setupを取得]]></title>
+        <id>https://zenn.dev/tachikure/articles/7e867a15a3e75e</id>
+        <link href="https://zenn.dev/tachikure/articles/7e867a15a3e75e"/>
+        <updated>2025-08-19T15:44:46.000Z</updated>
+        <summary type="html"><![CDATA[目的
+
+UIで選択中(=水色にハイライトされている)のRender Setup LayerをPythonで取得したい。
+
+
+ 解決策
+maya.cmds.renderSetupSelect()で取得できる。
+import maya.cmds as cmds
+
+selected_layers = cmds.renderSetupSelect(q=1)
+print(selected_layers)
+
+# Result: ['renderSetupLayer2']
+または、maya.app.renderSetup.views.viewCmds.getSelection()で取得できる。
+i...]]></summary>
+        <author>
+            <name>たちくれ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ワコムとBlenderが戦略的パートナーシップを強化すると発表]]></title>
+        <id>https://modelinghappy.com/?p=64221</id>
+        <link href="https://modelinghappy.com/archives/64221"/>
+        <updated>2025-08-19T14:00:23.000Z</updated>
+        <summary type="html"><![CDATA[ワコムと世界的オープンソース3D制作ソフトウェア『Blender』、戦略的パートナーシップを強化 ペンだブレット大手のワコムと3DCG制作ソフトのBlenderが戦略的パートナーシップを強化すると発表しました。その中でワ
+The post ワコムとBlenderが戦略的パートナーシップを強化すると発表 first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
+        <author>
+            <name>modelinghappy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PowerShellで3D立方体をグリグリ回転させてみた]]></title>
+        <id>https://qiita.com/Tadataka_Takahashi/items/ddc70e043bef60d798df</id>
+        <link href="https://qiita.com/Tadataka_Takahashi/items/ddc70e043bef60d798df"/>
+        <updated>2025-08-19T13:53:07.000Z</updated>
+        <summary type="html"><![CDATA[はじめに
+
+PowerShellでも3Dグラフィックスが作れます。WPF（Windows Presentation Foundation）の3D機能を使えば、追加ライブラリ不要でインタラクティブな3Dアプリケーションを開発できます。
+今回は、マウスで操作できるカラフルな立...]]></summary>
+        <author>
+            <name>グラフィックスタグが付けられた新着記事 - Qiita</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Recalculate Origin Orientation Blenderで選択した面の法線を基準にオブジェクトの原点の向きを変更出来る無料アドオン]]></title>
         <id>https://modelinghappy.com/?p=64213</id>
@@ -4261,17 +4332,6 @@ O3DE 25.05.0 がリリース！パフォーマンスとグラフィックス、�
 続きをみる]]></summary>
         <author>
             <name>#Houdiniタグ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Live2D サマーセール 2025が開催！2025年7月28日までPROライセンスが20%OFF！]]></title>
-        <id>https://cginterest.com/?p=47976</id>
-        <link href="https://cginterest.com/2025/07/21/live2d-%e3%82%b5%e3%83%9e%e3%83%bc%e3%82%bb%e3%83%bc%e3%83%ab-2025%e3%81%8c%e9%96%8b%e5%82%ac%ef%bc%812025%e5%b9%b47%e6%9c%8828%e6%97%a5%e3%81%be%e3%81%a7pro%e3%83%a9%e3%82%a4%e3%82%bb%e3%83%b3/"/>
-        <updated>2025-07-21T06:11:00.000Z</updated>
-        <summary type="html"><![CDATA[Live2D GWセール2025の開催情報です。 セール概要 映像/アニメーション制作やVTuberモデルの制作ができる『Live2D Cubism 』のPROライセンスを20%OFFで購入できるクーポンが期間限定で配布 […]
-Live2D サマーセール 2025が開催！2025年7月28日までPROライセンスが20%OFF！ first appeared on CGinterest.]]></summary>
-        <author>
-            <name>.me</name>
         </author>
     </entry>
 </feed>

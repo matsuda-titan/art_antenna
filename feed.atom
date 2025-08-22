@@ -2,10 +2,113 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-22T03:35:27.306Z</updated>
+    <updated>2025-08-22T08:15:04.979Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[揺れ物のシミュレーション設定を効率化するためのBlenderアドオン『JiggleGen』]]></title>
+        <id>https://cginterest.com/?p=49443</id>
+        <link href="https://cginterest.com/2025/08/22/%e6%8f%ba%e3%82%8c%e7%89%a9%e3%81%ae%e3%82%b7%e3%83%9f%e3%83%a5%e3%83%ac%e3%83%bc%e3%82%b7%e3%83%a7%e3%83%b3%e8%a8%ad%e5%ae%9a%e3%82%92%e5%8a%b9%e7%8e%87%e5%8c%96%e3%81%99%e3%82%8b%e3%81%9f%e3%82%81/"/>
+        <updated>2025-08-22T08:13:00.000Z</updated>
+        <summary type="html"><![CDATA[pathnode によるBlenderアドオン『JiggleGen』の紹介です。 JiggleGen とは JiggleGenは、クロスシミュレーション（布の揺れ計算）用のプロキシメッシュを作成・管理するためのBlend […]
+揺れ物のシミュレーション設定を効率化するためのBlenderアドオン『JiggleGen』 first appeared on CGinterest.]]></summary>
+        <author>
+            <name>.me</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TRIPO3.0 画像やテキストからAIを使用して3Dモデルを作成出来る機能がバージョンアップでさらに綺麗なデティール、Tポーズ、モデルを分割して書き出し可能に！]]></title>
+        <id>https://modelinghappy.com/?p=64255</id>
+        <link href="https://modelinghappy.com/archives/64255"/>
+        <updated>2025-08-22T07:22:51.000Z</updated>
+        <summary type="html"><![CDATA[TRIPO3d AIを使用して画像から高品質な3Dモデルを作成してくれるTRIPOがバージョンアップして3.0が公開されました。 バージョン3.0ではよりシャープでエッジが綺麗で細かな情報を持った複雑なメッシュを作成する
+The post TRIPO3.0 画像やテキストからAIを使用して3Dモデルを作成出来る機能がバージョンアップでさらに綺麗なデティール、Tポーズ、モデルを分割して書き出し可能に！ first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
+        <author>
+            <name>modelinghappy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【Unity】ワイヤーフレームシェーダー]]></title>
+        <id>https://zenn.dev/lilytechlab/articles/9d2a9f7fad1d37</id>
+        <link href="https://zenn.dev/lilytechlab/articles/9d2a9f7fad1d37"/>
+        <updated>2025-08-22T07:04:20.000Z</updated>
+        <summary type="html"><![CDATA[ポリゴンのワイヤーフレームを描画するシェーダーを作りました。
+
+
+ 実現方法
+
+ ポリゴンの辺
+ジオメトリシェーダーを使います。
+ジオメトリシェーダーではポリゴンの三角形単位で処理を行えるので、XYZそれぞれを各頂点に対応させて1.0を代入する項目を作ります。
+
+重心座標系の値の元ネタを仕込む処理
+/**
+ * [ジオメトリシェーダー用]
+ * パラメータをジオメトリックシェーダーの返却値となるTriangleStreamに追加する
+ */
+void SetTriVerticesToStream(g2f param[3], inout TriangleStream<g2f> ...]]></summary>
+        <author>
+            <name>masamin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【Unity】ワイヤーフレームシェーダー]]></title>
+        <id>https://zenn.dev/lilytechlab/articles/9d2a9f7fad1d37</id>
+        <link href="https://zenn.dev/lilytechlab/articles/9d2a9f7fad1d37"/>
+        <updated>2025-08-22T07:04:20.000Z</updated>
+        <summary type="html"><![CDATA[ポリゴンのワイヤーフレームを描画するシェーダーを作りました。
+
+
+ 実現方法
+
+ ポリゴンの辺
+ジオメトリシェーダーを使います。
+ジオメトリシェーダーではポリゴンの三角形単位で処理を行えるので、XYZそれぞれを各頂点に対応させて1.0を代入する項目を作ります。
+
+重心座標系の値の元ネタを仕込む処理
+/**
+ * [ジオメトリシェーダー用]
+ * パラメータをジオメトリックシェーダーの返却値となるTriangleStreamに追加する
+ */
+void SetTriVerticesToStream(g2f param[3], inout TriangleStream<g2f> ...]]></summary>
+        <author>
+            <name>masamin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Houdini20を使用して1からフォトリアルなフェニックスのモデリング、ファー、レンダリングをプロダクションパイプラインで学べるチュートリアル動画が販売開始！]]></title>
+        <id>https://modelinghappy.com/?p=64247</id>
+        <link href="https://modelinghappy.com/archives/64247"/>
+        <updated>2025-08-22T06:57:34.000Z</updated>
+        <summary type="html"><![CDATA[Houdini 20 Feather FX: #8220;Phoenix Ascendant#8221; Full Production Pipeline 世界中のチュートリアル動画を販売しているWingfoxのサイ
+The post Houdini20を使用して1からフォトリアルなフェニックスのモデリング、ファー、レンダリングをプロダクションパイプラインで学べるチュートリアル動画が販売開始！ first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
+        <author>
+            <name>modelinghappy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[〆切2025年09月19日]Adobe Expressと映画『８番出口』のコラボチャレンジ「Adobe Expressで８番出口」が開催！]]></title>
+        <id>https://cginterest.com/?p=49549</id>
+        <link href="https://cginterest.com/2025/08/22/%e3%80%86%e5%88%872025%e5%b9%b409%e6%9c%8819%e6%97%a5adobe-express%e3%81%a8%e6%98%a0%e7%94%bb%e3%80%8e%ef%bc%98%e7%95%aa%e5%87%ba%e5%8f%a3%e3%80%8f%e3%81%ae%e3%82%b3%e3%83%a9%e3%83%9c%e3%83%81/"/>
+        <updated>2025-08-22T06:13:03.000Z</updated>
+        <summary type="html"><![CDATA[アドビ株式会社は、2025年8月29日（金）公開の映画『８番出口』（配給：東宝株式会社）とのコラボレーションチャレンジの開催を発表しました。 チャレンジ概要 本チャレンジ企画では、社会現象となった“異変”探し無限ループゲ […]
+[〆切2025年09月19日]Adobe Expressと映画『８番出口』のコラボチャレンジ「Adobe Expressで８番出口」が開催！ first appeared on CGinterest.]]></summary>
+        <author>
+            <name>.me</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Zibra AI、リアルタイムボリューメトリックVFXツール「ZibraVDB」をインディー制作者向けに無償化]]></title>
+        <id>https://cginterest.com/?p=49551</id>
+        <link href="https://cginterest.com/2025/08/22/zibra-ai%e3%80%81%e3%83%aa%e3%82%a2%e3%83%ab%e3%82%bf%e3%82%a4%e3%83%a0%e3%83%9c%e3%83%aa%e3%83%a5%e3%83%bc%e3%83%a1%e3%83%88%e3%83%aa%e3%83%83%e3%82%afvfx%e3%83%84%e3%83%bc%e3%83%ab%e3%80%8czibravdb/"/>
+        <updated>2025-08-22T05:14:11.000Z</updated>
+        <summary type="html"><![CDATA[2025年8月14日（現地時間）- Zibra AI は、同社が開発するリアルタイム・ボリュメトリックVFXツール「ZibraVDB」を、Unreal EngineまたはHoudiniを使用するすべてのインディー開発者お […]
+Zibra AI、リアルタイムボリューメトリックVFXツール「ZibraVDB」をインディー制作者向けに無償化 first appeared on CGinterest.]]></summary>
+        <author>
+            <name>.me</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[meshoptimizer v0.25 - 3Dメッシュ最適化オープンソースライブラリの最新リリース！高品質LODとWebP対応で3Dモデル最適化がさらに進化！]]></title>
         <id>https://3dnchu.com/?p=1057729</id>

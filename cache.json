@@ -2012,6 +2012,26 @@
       "siteUrl": "https://modelinghappy.com",
       "articles": [
         {
+          "id": "https://modelinghappy.com/?p=64255",
+          "author": "modelinghappy",
+          "description": "TRIPO3d AIを使用して画像から高品質な3Dモデルを作成してくれるTRIPOがバージョンアップして3.0が公開されました。 バージョン3.0ではよりシャープでエッジが綺麗で細かな情報を持った複雑なメッシュを作成する\nThe post TRIPO3.0 画像やテキストからAIを使用して3Dモデルを作成出来る機能がバージョンアップでさらに綺麗なデティール、Tポーズ、モデルを分割して書き出し可能に！ first appeared on 3DCG最新情報サイト MODELING HAPPY.",
+          "link": "https://modelinghappy.com/archives/64255",
+          "publishedOn": "2025-08-22T07:22:51.000Z",
+          "wordCount": 3688,
+          "title": "TRIPO3.0 画像やテキストからAIを使用して3Dモデルを作成出来る機能がバージョンアップでさらに綺麗なデティール、Tポーズ、モデルを分割して書き出し可能に！",
+          "imageUrl": "https://modelinghappy.com/wp-content/uploads/2025/08/20250822_triopo3D_00.jpg"
+        },
+        {
+          "id": "https://modelinghappy.com/?p=64247",
+          "author": "modelinghappy",
+          "description": "Houdini 20 Feather FX: #8220;Phoenix Ascendant#8221; Full Production Pipeline 世界中のチュートリアル動画を販売しているWingfoxのサイ\nThe post Houdini20を使用して1からフォトリアルなフェニックスのモデリング、ファー、レンダリングをプロダクションパイプラインで学べるチュートリアル動画が販売開始！ first appeared on 3DCG最新情報サイト MODELING HAPPY.",
+          "link": "https://modelinghappy.com/archives/64247",
+          "publishedOn": "2025-08-22T06:57:34.000Z",
+          "wordCount": 3693,
+          "title": "Houdini20を使用して1からフォトリアルなフェニックスのモデリング、ファー、レンダリングをプロダクションパイプラインで学べるチュートリアル動画が販売開始！",
+          "imageUrl": "https://modelinghappy.com/wp-content/uploads/2025/08/20250822_wingfox_01.jpg"
+        },
+        {
           "id": "https://modelinghappy.com/?p=64242",
           "author": "modelinghappy",
           "description": "Textura #8211; Smart Pbr Automation TexturaはBlenderで用意したフォルダに入ってる複数のPBR用テクスチャを1度に自動的に繋げて表示してくれるアドオンです。 ベースカラー\nThe post Textura Blenderで用意したフォルダに入ってる複数のPBR用テクスチャを1度に自動的に繋げて表示してくれるアドオン first appeared on 3DCG最新情報サイト MODELING HAPPY.",
@@ -2816,6 +2836,21 @@
       "siteUrl": "https://zenn.dev/topics/shader",
       "articles": [
         {
+          "id": "https://zenn.dev/lilytechlab/articles/9d2a9f7fad1d37",
+          "author": "masamin",
+          "description": "ポリゴンのワイヤーフレームを描画するシェーダーを作りました。\n\n\n 実現方法\n\n ポリゴンの辺\nジオメトリシェーダーを使います。\nジオメトリシェーダーではポリゴンの三角形単位で処理を行えるので、XYZそれぞれを各頂点に対応させて1.0を代入する項目を作ります。\n\n重心座標系の値の元ネタを仕込む処理\n/**\n * [ジオメトリシェーダー用]\n * パラメータをジオメトリックシェーダーの返却値となるTriangleStreamに追加する\n */\nvoid SetTriVerticesToStream(g2f param[3], inout TriangleStream<g2f> ...",
+          "link": "https://zenn.dev/lilytechlab/articles/9d2a9f7fad1d37",
+          "publishedOn": "2025-08-22T07:04:20.000Z",
+          "wordCount": null,
+          "title": "【Unity】ワイヤーフレームシェーダー",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--te3_aafg--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2580%2590Unity%25E3%2580%2591%25E3%2583%25AF%25E3%2582%25A4%25E3%2583%25A4%25E3%2583%25BC%25E3%2583%2595%25E3%2583%25AC%25E3%2583%25BC%25E3%2583%25A0%25E3%2582%25B7%25E3%2582%25A7%25E3%2583%25BC%25E3%2583%2580%25E3%2583%25BC%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:masamin%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzZiMzlmMjRmNDIuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E3%2583%25AA%25E3%2583%25AA%25E3%2583%2586%25E3%2583%2583%25E3%2582%25AF%25E3%2583%25A9%25E3%2583%259C%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jSTNhdjNHNkphRjZfQ3V0RXU1RFk1T3NlcmtnQ1dqWUVnS0JyeGU1UlhjSGIwT0NXWHM9czk2LWM=%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png",
+            "length": "0",
+            "type": "image/png"
+          },
+          "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--te3_aafg--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2580%2590Unity%25E3%2580%2591%25E3%2583%25AF%25E3%2582%25A4%25E3%2583%25A4%25E3%2583%25BC%25E3%2583%2595%25E3%2583%25AC%25E3%2583%25BC%25E3%2583%25A0%25E3%2582%25B7%25E3%2582%25A7%25E3%2583%25BC%25E3%2583%2580%25E3%2583%25BC%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:masamin%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzZiMzlmMjRmNDIuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E3%2583%25AA%25E3%2583%25AA%25E3%2583%2586%25E3%2583%2583%25E3%2582%25AF%25E3%2583%25A9%25E3%2583%259C%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jSTNhdjNHNkphRjZfQ3V0RXU1RFk1T3NlcmtnQ1dqWUVnS0JyeGU1UlhjSGIwT0NXWHM9czk2LWM=%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png"
+        },
+        {
           "id": "https://zenn.dev/toropippi/articles/8a8f497af4c80c",
           "author": "toropippi",
           "description": "はじめに\n2025年登場のRDNA 4では Out-of-Order Memory が導入されました。この記事では、その挙動がどのようなものかを、架空のコードで解説します。私はRDNA 4のGPU(Radeon RX 9070 XT等)をもってないので実際に検証できていなく、こうなんじゃないか?、という話です。\n\n 1. 背景\nRDNA 4の海外解説記事 [1][2][3]を読んでいたら\"Out of Order Memory\"の説明が目に止まりました。\n\n\n出典:「Better, more capable than expected: RDNA 4 architecture dee...",
@@ -3199,7 +3234,23 @@
       "title": "Zennの「HLSL」のフィード",
       "feedUrl": "https://zenn.dev/topics/hlsl/feed",
       "siteUrl": "https://zenn.dev/topics/hlsl",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://zenn.dev/lilytechlab/articles/9d2a9f7fad1d37",
+          "author": "masamin",
+          "description": "ポリゴンのワイヤーフレームを描画するシェーダーを作りました。\n\n\n 実現方法\n\n ポリゴンの辺\nジオメトリシェーダーを使います。\nジオメトリシェーダーではポリゴンの三角形単位で処理を行えるので、XYZそれぞれを各頂点に対応させて1.0を代入する項目を作ります。\n\n重心座標系の値の元ネタを仕込む処理\n/**\n * [ジオメトリシェーダー用]\n * パラメータをジオメトリックシェーダーの返却値となるTriangleStreamに追加する\n */\nvoid SetTriVerticesToStream(g2f param[3], inout TriangleStream<g2f> ...",
+          "link": "https://zenn.dev/lilytechlab/articles/9d2a9f7fad1d37",
+          "publishedOn": "2025-08-22T07:04:20.000Z",
+          "wordCount": null,
+          "title": "【Unity】ワイヤーフレームシェーダー",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--te3_aafg--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2580%2590Unity%25E3%2580%2591%25E3%2583%25AF%25E3%2582%25A4%25E3%2583%25A4%25E3%2583%25BC%25E3%2583%2595%25E3%2583%25AC%25E3%2583%25BC%25E3%2583%25A0%25E3%2582%25B7%25E3%2582%25A7%25E3%2583%25BC%25E3%2583%2580%25E3%2583%25BC%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:masamin%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzZiMzlmMjRmNDIuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E3%2583%25AA%25E3%2583%25AA%25E3%2583%2586%25E3%2583%2583%25E3%2582%25AF%25E3%2583%25A9%25E3%2583%259C%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jSTNhdjNHNkphRjZfQ3V0RXU1RFk1T3NlcmtnQ1dqWUVnS0JyeGU1UlhjSGIwT0NXWHM9czk2LWM=%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png",
+            "length": "0",
+            "type": "image/png"
+          },
+          "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--te3_aafg--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2580%2590Unity%25E3%2580%2591%25E3%2583%25AF%25E3%2582%25A4%25E3%2583%25A4%25E3%2583%25BC%25E3%2583%2595%25E3%2583%25AC%25E3%2583%25BC%25E3%2583%25A0%25E3%2582%25B7%25E3%2582%25A7%25E3%2583%25BC%25E3%2583%2580%25E3%2583%25BC%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:masamin%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzZiMzlmMjRmNDIuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E3%2583%25AA%25E3%2583%25AA%25E3%2583%2586%25E3%2583%2583%25E3%2582%25AF%25E3%2583%25A9%25E3%2583%259C%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jSTNhdjNHNkphRjZfQ3V0RXU1RFk1T3NlcmtnQ1dqWUVnS0JyeGU1UlhjSGIwT0NXWHM9czk2LWM=%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png"
+        }
+      ]
     },
     {
       "title": "Zennの「GLSL」のフィード",
@@ -3820,6 +3871,41 @@
       "feedUrl": "https://cginterest.com/feed/",
       "siteUrl": "https://cginterest.com",
       "articles": [
+        {
+          "id": "https://cginterest.com/?p=49443",
+          "author": ".me",
+          "description": "pathnode によるBlenderアドオン『JiggleGen』の紹介です。 JiggleGen とは JiggleGenは、クロスシミュレーション（布の揺れ計算）用のプロキシメッシュを作成・管理するためのBlend […]\n揺れ物のシミュレーション設定を効率化するためのBlenderアドオン『JiggleGen』 first appeared on CGinterest.",
+          "link": "https://cginterest.com/2025/08/22/%e6%8f%ba%e3%82%8c%e7%89%a9%e3%81%ae%e3%82%b7%e3%83%9f%e3%83%a5%e3%83%ac%e3%83%bc%e3%82%b7%e3%83%a7%e3%83%b3%e8%a8%ad%e5%ae%9a%e3%82%92%e5%8a%b9%e7%8e%87%e5%8c%96%e3%81%99%e3%82%8b%e3%81%9f%e3%82%81/",
+          "publishedOn": "2025-08-22T08:13:00.000Z",
+          "wordCount": 613,
+          "title": "揺れ物のシミュレーション設定を効率化するためのBlenderアドオン『JiggleGen』",
+          "enclosure": {
+            "url": "https://cginterest.com/wp-content/uploads/2025/08/20250822-Jigglegen-Paint-Generate.mp4",
+            "length": "85534",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://cginterest.com/wp-content/uploads/2025/08/20250822-Jigglegen.webp"
+        },
+        {
+          "id": "https://cginterest.com/?p=49549",
+          "author": ".me",
+          "description": "アドビ株式会社は、2025年8月29日（金）公開の映画『８番出口』（配給：東宝株式会社）とのコラボレーションチャレンジの開催を発表しました。 チャレンジ概要 本チャレンジ企画では、社会現象となった“異変”探し無限ループゲ […]\n[〆切2025年09月19日]Adobe Expressと映画『８番出口』のコラボチャレンジ「Adobe Expressで８番出口」が開催！ first appeared on CGinterest.",
+          "link": "https://cginterest.com/2025/08/22/%e3%80%86%e5%88%872025%e5%b9%b409%e6%9c%8819%e6%97%a5adobe-express%e3%81%a8%e6%98%a0%e7%94%bb%e3%80%8e%ef%bc%98%e7%95%aa%e5%87%ba%e5%8f%a3%e3%80%8f%e3%81%ae%e3%82%b3%e3%83%a9%e3%83%9c%e3%83%81/",
+          "publishedOn": "2025-08-22T06:13:03.000Z",
+          "wordCount": 1476,
+          "title": "[〆切2025年09月19日]Adobe Expressと映画『８番出口』のコラボチャレンジ「Adobe Expressで８番出口」が開催！",
+          "imageUrl": "https://cginterest.com/wp-content/uploads/2025/08/20250822_exit8-adobeexpresschallenge.webp"
+        },
+        {
+          "id": "https://cginterest.com/?p=49551",
+          "author": ".me",
+          "description": "2025年8月14日（現地時間）- Zibra AI は、同社が開発するリアルタイム・ボリュメトリックVFXツール「ZibraVDB」を、Unreal EngineまたはHoudiniを使用するすべてのインディー開発者お […]\nZibra AI、リアルタイムボリューメトリックVFXツール「ZibraVDB」をインディー制作者向けに無償化 first appeared on CGinterest.",
+          "link": "https://cginterest.com/2025/08/22/zibra-ai%e3%80%81%e3%83%aa%e3%82%a2%e3%83%ab%e3%82%bf%e3%82%a4%e3%83%a0%e3%83%9c%e3%83%aa%e3%83%a5%e3%83%bc%e3%83%a1%e3%83%88%e3%83%aa%e3%83%83%e3%82%afvfx%e3%83%84%e3%83%bc%e3%83%ab%e3%80%8czibravdb/",
+          "publishedOn": "2025-08-22T05:14:11.000Z",
+          "wordCount": 1486,
+          "title": "Zibra AI、リアルタイムボリューメトリックVFXツール「ZibraVDB」をインディー制作者向けに無償化",
+          "imageUrl": "https://cginterest.com/wp-content/uploads/2025/08/20250822_zibraVDBgoFreefoindiew.webp"
+        },
         {
           "id": "https://cginterest.com/?p=49524",
           "author": ".me",

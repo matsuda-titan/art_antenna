@@ -1812,16 +1812,6 @@
           "wordCount": 818,
           "title": "『モンスターハンターワイルズ』キャラクター制作の舞台裏。ZBrushによるチャタカブラやレ・ダウの造形工程【MAXON PARTY '25春】 - 特集",
           "imageUrl": "https://cgworld.jp/article/assets_c/2025/07/001-thumb-1000x563-71101.jpg"
-        },
-        {
-          "id": "https://cgworld.jp/flashnews/01-202507-Lighting-MariaYue.html",
-          "author": null,
-          "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
-          "link": "https://cgworld.jp/flashnews/01-202507-Lighting-MariaYue.html",
-          "publishedOn": "2025-07-24T21:58:26.000Z",
-          "wordCount": 1160,
-          "title": "ライティングアーティストによる照明デザインのブレイクダウン投稿が話題！　Romero Games・Maria Yue氏 - ニュース",
-          "imageUrl": "https://cgworld.jp/flashnews/assets_c/2025/07/Lighting_MariaYue-01-thumb-1080x608-71645.jpg"
         }
       ]
     },
@@ -2820,6 +2810,21 @@
       "siteUrl": "https://zenn.dev/topics/houdini",
       "articles": [
         {
+          "id": "https://zenn.dev/kickbase/articles/fbad27e7d41812",
+          "author": "めんたいこ",
+          "description": "「第25回Houdiniゆるゆる会」の振り返りと発表資料の紹介です。\nhttps://houdini-teaparty.connpass.com/event/364583/\n今月もマジ忙しかったですが、なんとか発表できました。いやあ、危険が危ない。では振り返りから行ってみましょう。\n\n 今回のお題\n「自然」\n今回のテーマは「自然」をテーマとしました。かなり幅が広いテーマなので、様々なアイデア・表現が集結しました。\n\n 僕の発表\n今回僕は自然界にしばしば見られるフィボナッチ数列とそのあらわれであるフィボナッチスパイラルについて発表しました。\nフィボナッチ数列の連続する2つの数を割ると黄金...",
+          "link": "https://zenn.dev/kickbase/articles/fbad27e7d41812",
+          "publishedOn": "2025-08-23T09:39:53.000Z",
+          "wordCount": null,
+          "title": "第25回 Houdiniゆるゆる会備忘録",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--ul9owxAJ--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E7%25AC%25AC25%25E5%259B%259E%2520Houdini%25E3%2582%2586%25E3%2582%258B%25E3%2582%2586%25E3%2582%258B%25E4%25BC%259A%25E5%2582%2599%25E5%25BF%2598%25E9%258C%25B2%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2582%2581%25E3%2582%2593%25E3%2581%259F%25E3%2581%2584%25E3%2581%2593%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2pvTlNrRXEtOVdEUlNaa2dKcFBxeFlFZGpZTm5TcGl3SzFUeXZOPXMyNTAtYw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png",
+            "length": "0",
+            "type": "image/png"
+          },
+          "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--ul9owxAJ--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E7%25AC%25AC25%25E5%259B%259E%2520Houdini%25E3%2582%2586%25E3%2582%258B%25E3%2582%2586%25E3%2582%258B%25E4%25BC%259A%25E5%2582%2599%25E5%25BF%2598%25E9%258C%25B2%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2582%2581%25E3%2582%2593%25E3%2581%259F%25E3%2581%2584%25E3%2581%2593%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2pvTlNrRXEtOVdEUlNaa2dKcFBxeFlFZGpZTm5TcGl3SzFUeXZOPXMyNTAtYw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
+        },
+        {
           "id": "https://zenn.dev/tachikure/articles/cd0f78ab392c0a",
           "author": "たちくれ",
           "description": "Houdiniでは様々なレンダラを使用することができる。\nここでは標準搭載されている、Mantraを使った方法とKarmaを使った方法を記載する。\n\n Mantraによるレンダリングの一例\nジオメトリ、カメラ、ライト、マテリアル、レンダラ(ROP)を作成/設定すればいい。\n\n ジオメトリ\nobj階層でGeometryノードを作成する。\n\n\n 　\nSOP階層(Geometry内部)で好きなようにモデリングする。\n出力したいノードにレンダーフラグを立てる(レンダーフラグが立っていない場合はディスプレイフラグが立っているノードがレンダリングされる)。\n\n\n カメラ\nobj階層でCam...",
@@ -3343,6 +3348,26 @@
       "siteUrl": "https://note.com/hashtag/Houdini",
       "articles": [
         {
+          "id": "https://note.com/polymorph_design/n/n2a9668bbf1f9",
+          "author": null,
+          "description": "Houdiniは非常に多様なVFXを実現できますが、その技術は４つの基本技術さえ押さえれば、その応用に過ぎません。\n\n\nGeometryの扱い（Attributeも含めて）\n\n\nVOP及びVEXの理解（VOPも結局はVEXに変換される）\n\n\nPOPの扱い（POPはParticleを扱うノード群）\n\n\nVolumeの扱い（VolumeとはVoxelと呼ばれる四角い箱の集合としてオブジェクトを扱う概念、3次元版のピクセル表現だと考えるとわかりやすい）\n\n\n続きをみる",
+          "link": "https://note.com/polymorph_design/n/n2a9668bbf1f9",
+          "publishedOn": "2025-08-23T09:55:12.000Z",
+          "wordCount": 2244,
+          "title": "HoudiniのVFXは４つの基本技術の応用で理解できる。",
+          "imageUrl": "https://d2l930y2yx77uc.cloudfront.net/production/social_images/31274bac4f0d0b76b17e879e1bbe250299030668.png"
+        },
+        {
+          "id": "https://note.com/polymorph_design/n/n7a01aa5b72c0",
+          "author": null,
+          "description": "前回の記事に誤りがあったので修正します。前回の記事は削除済み。\n前回の記事でArch系やFedoraは使わないということを書きましたが、Fedoraはちゃんとサポートされていました。（ただしFedoraは開発スピードが早く、最新ディストリビーションをサポートしていない。これはUbuntuも同じ）\n下のリンクは現在のバージョン20.05で推奨されているディストリビーションです。\nhttps://www.sidefx.com/Support/system-requirements/20.5/\nLinux (64bit):\n続きをみる",
+          "link": "https://note.com/polymorph_design/n/n7a01aa5b72c0",
+          "publishedOn": "2025-08-23T08:41:10.000Z",
+          "wordCount": 2391,
+          "title": "Houdini推奨Linuxディストリビーションについて",
+          "imageUrl": "https://d2l930y2yx77uc.cloudfront.net/production/social_images/dabc1a9a2fe8fc0080b679afc3d67783be980f93.png"
+        },
+        {
           "id": "https://note.com/kinuko_mizusawa/n/n742423ca245a",
           "author": null,
           "description": "＜この記事は全5編からなる有料記事のシリーズものになります＞\n\n\n概要編\n\n\n工夫したところ編\n\n\n3Dアクションゲーム編\n\n\n3Dアクションゲームのステージエディタ編\n\n\n追加作品（Mayaスクリプト＆Houdini HDA, Unity＆Blenderの作例）編（今回の記事はこちらです）\n\n\n続きをみる",
@@ -3511,16 +3536,6 @@
           "wordCount": 2997,
           "title": "昔作ったHoudniの投稿まとめ",
           "imageUrl": "https://d2l930y2yx77uc.cloudfront.net/production/social_images/8a512a13956f261a50617dfa57e2fdc360f80fe1.png"
-        },
-        {
-          "id": "https://note.com/kibun3/n/n1f515d7f1d22",
-          "author": null,
-          "description": "学校でCGの非常勤講師をしてるんですが…\n7月末、講義している学校の前期の授業も終盤に。\n最後はだいたい習った機能を使って”自由課題”で作ってもらうんですが…\n私が最近感じているのは「自由っていいことのかな？」ってこと。\n”自由に作って”って課題出すと、みんな悩んじゃうんですよ。\nなんか「すごいもの作んなきゃ！」とか、プレッシャーを与えちゃってるかも。\n私は、習った機能を使って楽しく作ってくれればいいと思ってるんやけど…う～ん。\n逆に「このキャラを使って自分でクラス内で撮影した実写と合成してください」とか限定した方が作りやすいのかもなぁ。\nだから、生徒にこんなサンプルムービー作って見せたのよ。\n  \n続きをみる",
-          "link": "https://note.com/kibun3/n/n1f515d7f1d22",
-          "publishedOn": "2025-07-24T20:13:51.000Z",
-          "wordCount": 2314,
-          "title": "愛という名の、自由と不自由（「自由に作って」はプレッシャーなのかも）",
-          "imageUrl": "https://assets.st-note.com/production/uploads/images/204240142/rectangle_large_type_2_6f4580f0498c7f6cbf37c811d1137409.jpeg?width=800"
         }
       ]
     },
@@ -4815,21 +4830,6 @@
             "type": "video/mp4"
           },
           "imageUrl": "https://cginterest.com/wp-content/uploads/2025/07/20250726_RunwayAleph.webp"
-        },
-        {
-          "id": "https://cginterest.com/?p=48029",
-          "author": ".me",
-          "description": "2025年7月17日（現地時間）- Dimension 5 は、建築ビジュアライゼーション向けリアルタイムレンダリングツールの最新アップデート D5 Render 2.11のリリースを発表しました。 新機能ハイ […]\nD5 Render 2.11 がリリース！AIエージェント や AI PBR マテリアルスナップなど10以上のAI機能が追加！ first appeared on CGinterest.",
-          "link": "https://cginterest.com/2025/07/25/d5-render-2-11-%e3%81%8c%e3%83%aa%e3%83%aa%e3%83%bc%e3%82%b9%ef%bc%81ai%e3%82%a8%e3%83%bc%e3%82%b8%e3%82%a7%e3%83%b3%e3%83%88-%e3%82%84-ai-pbr-%e3%83%9e%e3%83%86%e3%83%aa%e3%82%a2%e3%83%ab%e3%82%b9/",
-          "publishedOn": "2025-07-25T00:12:00.000Z",
-          "wordCount": 944,
-          "title": "D5 Render 2.11 がリリース！AIエージェント や AI PBR マテリアルスナップなど10以上のAI機能が追加！",
-          "enclosure": {
-            "url": "https://cginterest.com/wp-content/uploads/2025/07/20250725-D5render211-Smartplanting2.mp4",
-            "length": "109950",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://cginterest.com/wp-content/uploads/2025/07/20250725_D5render211.webp"
         }
       ]
     }

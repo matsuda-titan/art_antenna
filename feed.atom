@@ -2,10 +2,70 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-23T08:13:06.824Z</updated>
+    <updated>2025-08-23T12:18:18.643Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[HoudiniのVFXは４つの基本技術の応用で理解できる。]]></title>
+        <id>https://note.com/polymorph_design/n/n2a9668bbf1f9</id>
+        <link href="https://note.com/polymorph_design/n/n2a9668bbf1f9"/>
+        <updated>2025-08-23T09:55:12.000Z</updated>
+        <summary type="html"><![CDATA[Houdiniは非常に多様なVFXを実現できますが、その技術は４つの基本技術さえ押さえれば、その応用に過ぎません。
+
+
+Geometryの扱い（Attributeも含めて）
+
+
+VOP及びVEXの理解（VOPも結局はVEXに変換される）
+
+
+POPの扱い（POPはParticleを扱うノード群）
+
+
+Volumeの扱い（VolumeとはVoxelと呼ばれる四角い箱の集合としてオブジェクトを扱う概念、3次元版のピクセル表現だと考えるとわかりやすい）
+
+
+続きをみる]]></summary>
+        <author>
+            <name>#Houdiniタグ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[第25回 Houdiniゆるゆる会備忘録]]></title>
+        <id>https://zenn.dev/kickbase/articles/fbad27e7d41812</id>
+        <link href="https://zenn.dev/kickbase/articles/fbad27e7d41812"/>
+        <updated>2025-08-23T09:39:53.000Z</updated>
+        <summary type="html"><![CDATA[「第25回Houdiniゆるゆる会」の振り返りと発表資料の紹介です。
+https://houdini-teaparty.connpass.com/event/364583/
+今月もマジ忙しかったですが、なんとか発表できました。いやあ、危険が危ない。では振り返りから行ってみましょう。
+
+ 今回のお題
+「自然」
+今回のテーマは「自然」をテーマとしました。かなり幅が広いテーマなので、様々なアイデア・表現が集結しました。
+
+ 僕の発表
+今回僕は自然界にしばしば見られるフィボナッチ数列とそのあらわれであるフィボナッチスパイラルについて発表しました。
+フィボナッチ数列の連続する2つの数を割ると黄金...]]></summary>
+        <author>
+            <name>めんたいこ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Houdini推奨Linuxディストリビーションについて]]></title>
+        <id>https://note.com/polymorph_design/n/n7a01aa5b72c0</id>
+        <link href="https://note.com/polymorph_design/n/n7a01aa5b72c0"/>
+        <updated>2025-08-23T08:41:10.000Z</updated>
+        <summary type="html"><![CDATA[前回の記事に誤りがあったので修正します。前回の記事は削除済み。
+前回の記事でArch系やFedoraは使わないということを書きましたが、Fedoraはちゃんとサポートされていました。（ただしFedoraは開発スピードが早く、最新ディストリビーションをサポートしていない。これはUbuntuも同じ）
+下のリンクは現在のバージョン20.05で推奨されているディストリビーションです。
+https://www.sidefx.com/Support/system-requirements/20.5/
+Linux (64bit):
+続きをみる]]></summary>
+        <author>
+            <name>#Houdiniタグ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[他者が書いたDCCツールのコード保守を、AIコーディングアシスタントで効率化する]]></title>
         <id>https://qiita.com/scixarts/items/4754ba447f9c3b347b83</id>
@@ -4507,47 +4567,6 @@ The post Mesh Match for Maya 異なるトポロジーでもメッシュ、UV、�
 続きをみる]]></summary>
         <author>
             <name>#substancepainterタグ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[D5 Render 2.11 がリリース！AIエージェント や AI PBR マテリアルスナップなど10以上のAI機能が追加！]]></title>
-        <id>https://cginterest.com/?p=48029</id>
-        <link href="https://cginterest.com/2025/07/25/d5-render-2-11-%e3%81%8c%e3%83%aa%e3%83%aa%e3%83%bc%e3%82%b9%ef%bc%81ai%e3%82%a8%e3%83%bc%e3%82%b8%e3%82%a7%e3%83%b3%e3%83%88-%e3%82%84-ai-pbr-%e3%83%9e%e3%83%86%e3%83%aa%e3%82%a2%e3%83%ab%e3%82%b9/"/>
-        <updated>2025-07-25T00:12:00.000Z</updated>
-        <summary type="html"><![CDATA[2025年7月17日（現地時間）- Dimension 5 は、建築ビジュアライゼーション向けリアルタイムレンダリングツールの最新アップデート D5 Render 2.11のリリースを発表しました。 新機能ハイ […]
-D5 Render 2.11 がリリース！AIエージェント や AI PBR マテリアルスナップなど10以上のAI機能が追加！ first appeared on CGinterest.]]></summary>
-        <author>
-            <name>.me</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ライティングアーティストによる照明デザインのブレイクダウン投稿が話題！　Romero Games・Maria Yue氏 - ニュース]]></title>
-        <id>https://cgworld.jp/flashnews/01-202507-Lighting-MariaYue.html</id>
-        <link href="https://cgworld.jp/flashnews/01-202507-Lighting-MariaYue.html"/>
-        <updated>2025-07-24T21:58:26.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[愛という名の、自由と不自由（「自由に作って」はプレッシャーなのかも）]]></title>
-        <id>https://note.com/kibun3/n/n1f515d7f1d22</id>
-        <link href="https://note.com/kibun3/n/n1f515d7f1d22"/>
-        <updated>2025-07-24T20:13:51.000Z</updated>
-        <summary type="html"><![CDATA[学校でCGの非常勤講師をしてるんですが…
-7月末、講義している学校の前期の授業も終盤に。
-最後はだいたい習った機能を使って”自由課題”で作ってもらうんですが…
-私が最近感じているのは「自由っていいことのかな？」ってこと。
-”自由に作って”って課題出すと、みんな悩んじゃうんですよ。
-なんか「すごいもの作んなきゃ！」とか、プレッシャーを与えちゃってるかも。
-私は、習った機能を使って楽しく作ってくれればいいと思ってるんやけど…う～ん。
-逆に「このキャラを使って自分でクラス内で撮影した実写と合成してください」とか限定した方が作りやすいのかもなぁ。
-だから、生徒にこんなサンプルムービー作って見せたのよ。
-  
-続きをみる]]></summary>
-        <author>
-            <name>#Houdiniタグ</name>
         </author>
     </entry>
 </feed>

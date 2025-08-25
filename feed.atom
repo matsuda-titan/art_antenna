@@ -2,10 +2,63 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-24T12:18:48.225Z</updated>
+    <updated>2025-08-25T00:54:41.342Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[アニメ『ウマ娘 シンデレラグレイ』作画アニメを支えるBlenderを活用したCGワーク〜（1）プリビズ篇 - 特集]]></title>
+        <id>https://cgworld.jp/article/cgw234-acguma01.html</id>
+        <link href="https://cgworld.jp/article/cgw234-acguma01.html"/>
+        <updated>2025-08-25T01:00:23.000Z</updated>
+        <summary type="html"><![CDATA[アニメ『ウマ娘 シンデレラグレイ』のCGメイキングを紹介。]]></summary>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【アドオン紹介】Revolve – Mesh Looper – アニメーションをシームレスループ再生]]></title>
+        <id>https://cgbox.jp/?p=64008</id>
+        <link href="https://cgbox.jp/2025/08/25/news-addon-revolve-mesh-looper/"/>
+        <updated>2025-08-24T23:39:33.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは！ 今回はアドオンの「Revolve – Mesh Looper」を紹介します。 こちらのリンクがアドオンの商品ページになります。 Revolve – Mesh Looper 「Revo […]]]></summary>
+        <author>
+            <name>kasahara</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unityでシンプルな波シミュレーション　第１回　単一の正弦波で頂点シェーダを動かす]]></title>
+        <id>https://zenn.dev/kakilemon/articles/1047d0d04c1f00</id>
+        <link href="https://zenn.dev/kakilemon/articles/1047d0d04c1f00"/>
+        <updated>2025-08-24T13:24:06.000Z</updated>
+        <summary type="html"><![CDATA[概要
+前回：
+https://zenn.dev/kakilemon/articles/9c757c05e1d745
+https://developer.nvidia.com/gpugems/gpugems/part-i-natural-effects/chapter-1-effective-water-simulation-physical-models
+GPU Gems Chapter 1を参考に、波のシミュレーションをUnityで実装する。
+今回は、ひとまず頂点シェーダが動くところまでを目標にする。そのため波のモデルはシンプルに、正弦波１つだけにする。
+
+ 波モデルの計算式
+
+ ...]]></summary>
+        <author>
+            <name>カキレモン</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unityでシンプルな波シミュレーション　第０回準備編]]></title>
+        <id>https://zenn.dev/kakilemon/articles/9c757c05e1d745</id>
+        <link href="https://zenn.dev/kakilemon/articles/9c757c05e1d745"/>
+        <updated>2025-08-24T12:31:04.000Z</updated>
+        <summary type="html"><![CDATA[概要
+NVIDIAが公開しているGPU Gems Chapter 1を参考に、簡単な波のシミュレーションをUnityで実装してみる。
+https://developer.nvidia.com/gpugems/gpugems/part-i-natural-effects/chapter-1-effective-water-simulation-physical-models
+GPU Gemsの手法では、正弦波の足し合わせをベースにしたシンプルなモデルで波のシミュレーションを行う。
+これをUnity上で実装するにあたって、まずは波の表示に使うメッシュや効率よくシェーダコードを書いていくた...]]></summary>
+        <author>
+            <name>カキレモン</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Blenderアドオン「MatPlus」リリース！　マテリアルエディタをプロシージャルなレイヤーベースのペイントツールに置き換え、リアルタイムエフェクトやマスク、ベイク機能も実装 - ニュース]]></title>
         <id>https://cgworld.jp/flashnews/01-202508-MatPlus.html</id>
@@ -4373,91 +4426,6 @@ The post Blender Pro Hair Suite ヘアカードを編集可能なカーブに変
         <summary type="html"><![CDATA[CUHK、UCL、Adobe Research、UESTCの研究者らによる、指定したシェイプに対して適切な手影用ハンドポーズを提示してくれる技術「Hand Shadow Poser」のご紹介。SIGGRAPH 2025発表技術論文です。]]></summary>
         <author>
             <name>Ymt3D -3dnchu-</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Arnold for Mayaのプラグインを作成するためのビルド設定について]]></title>
-        <id>https://qiita.com/scixarts/items/092f23ce3613857ce73a</id>
-        <link href="https://qiita.com/scixarts/items/092f23ce3613857ce73a"/>
-        <updated>2025-07-26T10:10:06.000Z</updated>
-        <summary type="html"><![CDATA[環境
-
-Windows
-Autodesk Maya 2026.1
-MtoA (Arnold for Maya) 5.5.4
-Visual Studio 2022
-
-Arnoldのプラグイン作成について
-ArnoldのプラグインはC++で作成できます。サンプルコードは公式...]]></summary>
-        <author>
-            <name>mayaタグが付けられた新着記事 - Qiita</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[昔作ったHoudniの投稿まとめ]]></title>
-        <id>https://note.com/tunasaba/n/n38ae3e9916d2</id>
-        <link href="https://note.com/tunasaba/n/n38ae3e9916d2"/>
-        <updated>2025-07-26T08:53:26.000Z</updated>
-        <summary type="html"><![CDATA[最近VrChatを始めて、Houdiniの情報交換をする機会が増えたので
-昔の投稿まとめました。(5年経ってる・・・)
-時系列順にどんどん貼ってきます
-続きをみる]]></summary>
-        <author>
-            <name>#Houdiniタグ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2025年7月発売のCG関連書籍をチェック！]]></title>
-        <id>https://cginterest.com/?p=47204</id>
-        <link href="https://cginterest.com/2025/07/26/2025%e5%b9%b47%e6%9c%88%e7%99%ba%e5%a3%b2%e3%81%aecg%e9%96%a2%e9%80%a3%e6%9b%b8%e7%b1%8d%e3%82%92%e3%83%81%e3%82%a7%e3%83%83%e3%82%af%ef%bc%81/"/>
-        <updated>2025-07-26T07:29:00.000Z</updated>
-        <summary type="html"><![CDATA[今月発売、2025年7月以降に発売予定*のあるCG関連書籍を紹介するコーナーです(Amazon調べ)。 CGソフトの入門本、テクニック本、アートブック、リファレンス（参考資料）、その他気になるおすすめ書籍を紹介していきま […]
-2025年7月発売のCG関連書籍をチェック！ first appeared on CGinterest.]]></summary>
-        <author>
-            <name>.me</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Mokume Dataset and Inverse Modeling of Solid Wood Textures - 190点の立方体型木材サンプルの年輪やCTスキャンをもとにしたデータセット＆逆モデリング技術！]]></title>
-        <id>https://3dnchu.com/?p=1056961</id>
-        <link href="https://3dnchu.com/archives/the-mokume-dataset/"/>
-        <updated>2025-07-26T05:43:06.000Z</updated>
-        <summary type="html"><![CDATA[東京大学や創作系研究者らによる共同研究チームが、190点の立方体型木材サンプルを収録した「Mokumeデータセット（The Mokume Dataset and Inverse Modeling of Solid Wood Textures）」の情報を公開。それを活用して、外観の写真から内部構造と色テクスチャを推定する画期的な逆モデリング技術を発表！SIGGRAPH 2025発表技術論文です。]]></summary>
-        <author>
-            <name>Ymt3D -3dnchu-</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DuetGen - 音楽駆動による二人のペアダンスモーション生成システム！音楽とシナジーするインタラクティブなダンスを自動生成！]]></title>
-        <id>https://3dnchu.com/?p=1056951</id>
-        <link href="https://3dnchu.com/archives/duetgen/"/>
-        <updated>2025-07-26T04:20:46.000Z</updated>
-        <summary type="html"><![CDATA[DFKI、Max Planck、Snap Inc.などの研究チームが手がけた、音楽を入力するだけで、二人ペアでシンクロするインタラクティブなダンスシーンを自動生成するAI技術「DuetGen」が登場。音楽とキャラクター同士のやり取りまで自然に再現します。SIGGRTAPH 2025発表技術です。]]></summary>
-        <author>
-            <name>Ymt3D -3dnchu-</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[✨技ノート｜グリーン系大理石マテリアルの構成と工夫]]></title>
-        <id>https://note.com/juntominaga/n/nd420fc6cf4fa</id>
-        <link href="https://note.com/juntominaga/n/nd420fc6cf4fa"/>
-        <updated>2025-07-26T04:02:23.000Z</updated>
-        <summary type="html"><![CDATA[上品 × 個性 × マスクとレイヤー直接の使い分けも整理
-🧭 この技ノートの目的
-続きをみる]]></summary>
-        <author>
-            <name>#substancepainterタグ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Unreal Engine 5でリアルな水を完全再現！キャラの動きに反応する波・濡れ表現も学べるWingfoxのチュートリアル動画が販売開始！]]></title>
-        <id>https://modelinghappy.com/?p=63955</id>
-        <link href="https://modelinghappy.com/archives/63955"/>
-        <updated>2025-07-26T02:52:42.000Z</updated>
-        <summary type="html"><![CDATA[UE5 Water Interaction System #8211; Comprehensive Workflow Tutorial 世界中のチュートリアル動画を販売しているWingfoxのサイトでUnreal En
-The post Unreal Engine 5でリアルな水を完全再現！キャラの動きに反応する波・濡れ表現も学べるWingfoxのチュートリアル動画が販売開始！ first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
-        <author>
-            <name>modelinghappy</name>
         </author>
     </entry>
 </feed>

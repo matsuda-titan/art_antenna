@@ -412,6 +412,36 @@
       "siteUrl": "https://3dnchu.com",
       "articles": [
         {
+          "id": "https://3dnchu.com/?p=1057727",
+          "author": "Ymt3D -3dnchu-",
+          "description": "ジェネラリストでHoudini FX TDのGhost3dee（ @ghost3dee ）（Alexander Zabei Vorota氏）によるHoudiniを使用しシンビオートクリーチャーを制作するフルチュートリアルコース「Houdini Full VFX Course Crawling Creature」がYoutube上で全編公開されました！",
+          "link": "https://3dnchu.com/archives/houdini-full-vfx-course-crawling-creature-ghost3dee/",
+          "publishedOn": "2025-08-25T05:53:52.000Z",
+          "wordCount": 9053,
+          "title": "Houdini Full VFX Course Crawling Creature - Houdiniを使用し地面を這い回るシンビオートクリーチャーを制作する7時間のフルチュートリアルコースがYoutube上で全編無償公開！",
+          "enclosure": {
+            "url": "https://3dnchu.com/wp-content/uploads/Houdini-Full-VFX-Course-Crawling-Creature.webp",
+            "length": "1214118",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://3dnchu.com/wp-content/uploads/Houdini-Full-VFX-Course-Crawling-Creature.webp"
+        },
+        {
+          "id": "https://3dnchu.com/?p=1057764",
+          "author": "Ymt3D -3dnchu-",
+          "description": "シニアVFXアーティストのGuangying Huofu氏によるHoudiniのFeather FX使用した羽の制作解説チュートリアルコース『Houdini 20 Feather FX: \"Phoenix Ascendant\" Full Production Pipeline』がCG＆デジタルアート関連チュートリアルサービス-Wingfoxにて取り扱い開始！",
+          "link": "https://3dnchu.com/archives/houdini-20-feather-fx-guangying-huofu-wingfox/",
+          "publishedOn": "2025-08-25T05:30:28.000Z",
+          "wordCount": 8731,
+          "title": "【PR】Houdini 20 Feather FX: \"Phoenix Ascendant\" Full Production Pipeline - Houdiniでリアルな羽毛が構築できる機能をメインに解説したチュートリアルコース！Wingfoxにて取り扱い開始！",
+          "enclosure": {
+            "url": "https://3dnchu.com/wp-content/uploads/houdini-20-feather-fx-guangying-huofu-wingfox.webp",
+            "length": "1186588",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://3dnchu.com/wp-content/uploads/houdini-20-feather-fx-guangying-huofu-wingfox.webp"
+        },
+        {
           "id": "https://3dnchu.com/?p=1057748",
           "author": "Ymt3D -3dnchu-",
           "description": "都市生成アドオン「iCity」などを手掛けたHothifa Smair氏（ @HothifaSmair ）による、自動車アニメーションBlenderアドオン「iCars 1.0」がリリースされました！",
@@ -1055,21 +1085,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "https://3dnchu.com/wp-content/uploads/Rumba-2.0.webp"
-        },
-        {
-          "id": "https://3dnchu.com/?p=1056971",
-          "author": "Ymt3D -3dnchu-",
-          "description": "CUHK、UCL、Adobe Research、UESTCの研究者らによる、指定したシェイプに対して適切な手影用ハンドポーズを提示してくれる技術「Hand Shadow Poser」のご紹介。SIGGRAPH 2025発表技術論文です。",
-          "link": "https://3dnchu.com/archives/hand-shadow-poser/",
-          "publishedOn": "2025-07-26T18:25:47.000Z",
-          "wordCount": 8678,
-          "title": "Hand Shadow Poser - 多彩な形状に対応した手影絵のハンドポーズを生成できる技術！",
-          "enclosure": {
-            "url": "https://3dnchu.com/wp-content/uploads/Hand-Shadow-Poser.webp",
-            "length": "903722",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://3dnchu.com/wp-content/uploads/Hand-Shadow-Poser.webp"
         }
       ]
     },
@@ -1934,6 +1949,16 @@
       "feedUrl": "https://tech.spark-creative.co.jp/feed",
       "siteUrl": "https://tech.spark-creative.co.jp/",
       "articles": [
+        {
+          "id": "https://tech.spark-creative.co.jp/entry/2025/08/25/143818",
+          "author": null,
+          "description": "初めに 前提 ショートカットキー色々 ショートカットキーの追加方法 実際にショートカットキーを作成する 確認 終わり ノードの新規作成 作るノードの紹介 クラス作成 クラス実装 マテリアルIRの構築 シェーダー対応 カテゴリー付け 本当に終わり 初めに こんにちは、クライアントエンジニアの下野です。ブログ書くのにちょうどいい感じのネタが残ってたので割と早めに2回目です。前回は最適化をしましたが、今回はエディター拡張とマテリアルエディターに独自のショートカットキーを用意したりします。 前提 エンジンのバージョンは5.6です。バージョンによってはiniファイルの場所が違ったりする可能性もあるため完…",
+          "link": "https://tech.spark-creative.co.jp/entry/2025/08/25/143818",
+          "publishedOn": "2025-08-25T05:38:18.000Z",
+          "wordCount": 571,
+          "title": "【UE5】マテリアルエディターのショートカットキー追加 + ノードを新規作成する",
+          "imageUrl": "https://cdn.image.st-hatena.com/image/scale/edbc005ce17bbcb88de2c1c49355c35cbe668be6/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fs%2Fspark-shimono-ryota%2F20250820%2F20250820171228.png"
+        },
         {
           "id": "https://tech.spark-creative.co.jp/entry/2025/08/01/100128",
           "author": null,
@@ -3302,6 +3327,16 @@
       "feedUrl": "https://note.com/hashtag/Houdini/rss",
       "siteUrl": "https://note.com/hashtag/Houdini",
       "articles": [
+        {
+          "id": "https://note.com/thesaurus/n/ne8ced8f77a48",
+          "author": null,
+          "description": "第25回Houdiniゆるゆる会、今回のテーマは「自然」。魚豊さんの漫画『チ。-地球の運動について-』に触発され、天動説的な宇宙観をHoudiniでビジュアライズしてみました。\n私たちが普段目にするのは「地動説（太陽中心説）」に基づいた太陽系のモデルです。そこで今回は、まず地動説的な太陽系をHoudiniで構築し、そのデータを基準にして「もし天動説で宇宙を描いたらどう見えるのか？」を再現してみます。\n続きをみる",
+          "link": "https://note.com/thesaurus/n/ne8ced8f77a48",
+          "publishedOn": "2025-08-25T05:18:33.000Z",
+          "wordCount": 2804,
+          "title": "エピサイクルを用いて天動説的宇宙観を表現する",
+          "imageUrl": "https://assets.st-note.com/production/uploads/images/210671287/rectangle_large_type_2_184b3d728d1e37636ded0c9bee66a33a.jpeg?width=800"
+        },
         {
           "id": "https://note.com/polymorph_design/n/n053390033edf",
           "author": null,

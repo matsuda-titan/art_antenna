@@ -2,10 +2,54 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-26T08:16:41.876Z</updated>
+    <updated>2025-08-26T12:22:15.793Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Houdiniのこんなところが魅力]]></title>
+        <id>https://note.com/polymorph_design/n/nb444769a8182</id>
+        <link href="https://note.com/polymorph_design/n/nb444769a8182"/>
+        <updated>2025-08-26T11:10:22.000Z</updated>
+        <summary type="html"><![CDATA[注意：この記事は日々こんなところが凄いと感激した事を追記していく予定です。
+
+
+attributeという属性をpoint, vertex, primitive, ditailと細かいgeometeryの単位（他のソフトにこんな細かい分類ない）でつけられて、ノードを辿って他の使用するまで引き継いでいける。しかもAttributeは一覧表パネルやvisualizeオプションで、自分の作ったカスタムattributeまで可視化できる。
+
+
+数千万ボクセルぐらいまでしか試したことがないが、1臆単位のvoxelのvolumeでも普通に落ちないとChatGPTは言っている。VDBという中身の詰まってないボクセルを持たせることで軽くもなる。Blanderは数百万ボクセルで落ちる。（逆にBlenderが無料ソフトに関わらずVolume扱えることが凄いんだけど）
+
+
+Vexという並列処理で大量のpoint等のattribute値を読み取って同時に計算をして結果をattributeに入れるプログラミング言語が使える。しかも、そのノードバージョンがVOPとして存在しており、プログラミングが苦手な人でもノードをつなぐだけで同じ結果を、ほぼ同等の速度で得られる。
+
+
+続きをみる]]></summary>
+        <author>
+            <name>#Houdiniタグ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【インタビュー】新しいことを学び、経験を広げる：ライティング ジェネラリスト Prasanth Chundakkattil 氏]]></title>
+        <id>https://3dtotal.jp/?p=52765</id>
+        <link href="https://3dtotal.jp/features/52765/"/>
+        <updated>2025-08-26T09:35:53.000Z</updated>
+        <summary type="html"><![CDATA[Q. 自己紹介をお願いします インタビューの機会をいただき、ありがとうございます。名前は Prasanth、インド出身のアーティストです。Maya の資格コースを修了し、2007年に インド、バンガロールの Techni […]
+The post 【インタビュー】新しいことを学び、経験を広げる：ライティング ジェネラリスト Prasanth Chundakkattil 氏 first appeared on 3dtotal 日本語オフィシャルサイト.]]></summary>
+        <author>
+            <name>3dtotal管理人T</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[クリーンなトポロジーで頭部をすばやくリトポロジーできるBlenderアドオン「OkTopo Remesher」]]></title>
+        <id>https://cginterest.com/?p=49779</id>
+        <link href="https://cginterest.com/2025/08/26/%e3%82%af%e3%83%aa%e3%83%bc%e3%83%b3%e3%81%aa%e3%83%88%e3%83%9d%e3%83%ad%e3%82%b8%e3%83%bc%e3%81%a7%e9%a0%ad%e9%83%a8%e3%82%92%e3%81%99%e3%81%b0%e3%82%84%e3%81%8f%e3%83%aa%e3%83%88%e3%83%9d%e3%83%ad/"/>
+        <updated>2025-08-26T07:55:17.000Z</updated>
+        <summary type="html"><![CDATA[Blenderアドオン「OkTopo Remesher」の紹介です。 OkTopo Remesherとは OkTopo Remesherは、頭部の自動リトポロジーを行うためのBlenderアドオンです。 マーカーを配置し […]
+クリーンなトポロジーで頭部をすばやくリトポロジーできるBlenderアドオン「OkTopo Remesher」 first appeared on CGinterest.]]></summary>
+        <author>
+            <name>.me</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[🎓 Unreal Engine 実践用語ノート]]></title>
         <id>https://note.com/juntominaga/n/n264e1e31796e</id>
@@ -36,6 +80,17 @@ Unreal Engine 内でアセット（モデル・マテリアル・テクスチャ
         <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
         <author>
             <name>CGWORLD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2025年8月発売のCG関連書籍をチェック！]]></title>
+        <id>https://cginterest.com/?p=48099</id>
+        <link href="https://cginterest.com/2025/08/26/2025%e5%b9%b48%e6%9c%88%e7%99%ba%e5%a3%b2%e3%81%aecg%e9%96%a2%e9%80%a3%e6%9b%b8%e7%b1%8d%e3%82%92%e3%83%81%e3%82%a7%e3%83%83%e3%82%af%ef%bc%81/"/>
+        <updated>2025-08-26T05:10:08.000Z</updated>
+        <summary type="html"><![CDATA[今月発売、2025年8月以降に発売予定*のあるCG関連書籍を紹介するコーナーです(Amazon調べ)。 CGソフトの入門本、テクニック本、アートブック、リファレンス（参考資料）、その他気になるおすすめ書籍を紹介していきま […]
+2025年8月発売のCG関連書籍をチェック！ first appeared on CGinterest.]]></summary>
+        <author>
+            <name>.me</name>
         </author>
     </entry>
     <entry>
@@ -4590,36 +4645,6 @@ The post Blender Pro Hair Suite ヘアカードを編集可能なカーブに変
         <summary type="html"><![CDATA[IMAGICA GEEQが主催する「ゲームクリエイターズドラフト」にオートデスクは協力をしています。2025年8月1日 エントリー受付開始＆参加企業随時募集中！・・・]]></summary>
         <author>
             <name>AREA JAPAN | Autodesk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MIFA2025（仏・アヌシー）に東京都のスタジオ、個人クリエイターが出展！～10周年を迎えた東京都MIFA出展の成果をレポ―ト～ - スペシャルコンテンツ]]></title>
-        <id>https://cgworld.jp/special-feature/tokyo-pitch10mifa-2025-2.html</id>
-        <link href="https://cgworld.jp/special-feature/tokyo-pitch10mifa-2025-2.html"/>
-        <updated>2025-07-28T00:19:35.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[おかず氏開発の無料UE5物理プラグイン「Kawaii Physics v1.19.1」リリース！ UE5.6対応、ワールド座標系対応、サンプル一新、FabとGitHubから開発支援も可能に - ニュース]]></title>
-        <id>https://cgworld.jp/flashnews/01-202507-KawaiiPhysics-v1191.html</id>
-        <link href="https://cgworld.jp/flashnews/01-202507-KawaiiPhysics-v1191.html"/>
-        <updated>2025-07-27T22:33:39.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【アドオン紹介】Dynamically Roots Growth – オブジェクトにくっつく木の根を作成！]]></title>
-        <id>https://cgbox.jp/?p=63770</id>
-        <link href="https://cgbox.jp/2025/07/28/news-addon-dynamically-roots-growth/"/>
-        <updated>2025-07-27T21:38:04.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは！ 今回はアドオンの「Dynamically Roots Growth」を紹介します。 こちらのリンクがアドオンの商品ページになります。 Dynamically Roots Growth 「Dynamicall […]]]></summary>
-        <author>
-            <name>kasahara</name>
         </author>
     </entry>
 </feed>

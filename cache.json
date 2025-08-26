@@ -330,16 +330,6 @@
             "type": "video/mp4"
           },
           "imageUrl": "https://cgbox.jp/wp-content/uploads/2025/07/64613be9ddf284e1abae5b6a2583f04c011ceb18982094f6de39c5a9249dc1ee_640x360.webp"
-        },
-        {
-          "id": "https://cgbox.jp/?p=63770",
-          "author": "kasahara",
-          "description": "こんばんは！ 今回はアドオンの「Dynamically Roots Growth」を紹介します。 こちらのリンクがアドオンの商品ページになります。 Dynamically Roots Growth 「Dynamicall […]",
-          "link": "https://cgbox.jp/2025/07/28/news-addon-dynamically-roots-growth/",
-          "publishedOn": "2025-07-27T21:38:04.000Z",
-          "wordCount": 2094,
-          "title": "【アドオン紹介】Dynamically Roots Growth – オブジェクトにくっつく木の根を作成！",
-          "imageUrl": "https://cgbox.jp/wp-content/uploads/2025/07/image_processing20250726-2-mhwxqt.jpg"
         }
       ]
     },
@@ -1837,26 +1827,6 @@
           "wordCount": 766,
           "title": "無料のBlenderアドオン「SMIRK」リリース！　グリースペンシルで独立したフェイシャルアニメーションを描画 - ニュース",
           "imageUrl": "https://cgworld.jp/flashnews/assets_c/2025/07/SMIRK-01-thumb-1080x608-71851.jpg"
-        },
-        {
-          "id": "https://cgworld.jp/special-feature/tokyo-pitch10mifa-2025-2.html",
-          "author": null,
-          "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
-          "link": "https://cgworld.jp/special-feature/tokyo-pitch10mifa-2025-2.html",
-          "publishedOn": "2025-07-28T00:19:35.000Z",
-          "wordCount": 619,
-          "title": "MIFA2025（仏・アヌシー）に東京都のスタジオ、個人クリエイターが出展！～10周年を迎えた東京都MIFA出展の成果をレポ―ト～ - スペシャルコンテンツ",
-          "imageUrl": "https://cgworld.jp/special-feature/assets_c/2025/07/7167630e39cacd89b9cfe51d80a2248a75d80dba-thumb-912x606-71248.png"
-        },
-        {
-          "id": "https://cgworld.jp/flashnews/01-202507-KawaiiPhysics-v1191.html",
-          "author": null,
-          "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
-          "link": "https://cgworld.jp/flashnews/01-202507-KawaiiPhysics-v1191.html",
-          "publishedOn": "2025-07-27T22:33:39.000Z",
-          "wordCount": 841,
-          "title": "おかず氏開発の無料UE5物理プラグイン「Kawaii Physics v1.19.1」リリース！ UE5.6対応、ワールド座標系対応、サンプル一新、FabとGitHubから開発支援も可能に - ニュース",
-          "imageUrl": "https://cgworld.jp/flashnews/assets_c/2025/07/KawaiiPhysics_v1191-01-thumb-1080x613-71776.jpg"
         }
       ]
     },
@@ -2338,6 +2308,16 @@
       "feedUrl": "https://3dtotal.jp/feed/",
       "siteUrl": "https://3dtotal.jp",
       "articles": [
+        {
+          "id": "https://3dtotal.jp/?p=52765",
+          "author": "3dtotal管理人T",
+          "description": "Q. 自己紹介をお願いします インタビューの機会をいただき、ありがとうございます。名前は Prasanth、インド出身のアーティストです。Maya の資格コースを修了し、2007年に インド、バンガロールの Techni […]\nThe post 【インタビュー】新しいことを学び、経験を広げる：ライティング ジェネラリスト Prasanth Chundakkattil 氏 first appeared on 3dtotal 日本語オフィシャルサイト.",
+          "link": "https://3dtotal.jp/features/52765/",
+          "publishedOn": "2025-08-26T09:35:53.000Z",
+          "wordCount": 707,
+          "title": "【インタビュー】新しいことを学び、経験を広げる：ライティング ジェネラリスト Prasanth Chundakkattil 氏",
+          "imageUrl": "https://3dtotal.jp/wp-content/uploads/2025/08/i130_t.jpg"
+        },
         {
           "id": "https://3dtotal.jp/?p=52742",
           "author": "3dtotal管理人T",
@@ -3394,6 +3374,16 @@
       "siteUrl": "https://note.com/hashtag/Houdini",
       "articles": [
         {
+          "id": "https://note.com/polymorph_design/n/nb444769a8182",
+          "author": null,
+          "description": "注意：この記事は日々こんなところが凄いと感激した事を追記していく予定です。\n\n\nattributeという属性をpoint, vertex, primitive, ditailと細かいgeometeryの単位（他のソフトにこんな細かい分類ない）でつけられて、ノードを辿って他の使用するまで引き継いでいける。しかもAttributeは一覧表パネルやvisualizeオプションで、自分の作ったカスタムattributeまで可視化できる。\n\n\n数千万ボクセルぐらいまでしか試したことがないが、1臆単位のvoxelのvolumeでも普通に落ちないとChatGPTは言っている。VDBという中身の詰まってないボクセルを持たせることで軽くもなる。Blanderは数百万ボクセルで落ちる。（逆にBlenderが無料ソフトに関わらずVolume扱えることが凄いんだけど）\n\n\nVexという並列処理で大量のpoint等のattribute値を読み取って同時に計算をして結果をattributeに入れるプログラミング言語が使える。しかも、そのノードバージョンがVOPとして存在しており、プログラミングが苦手な人でもノードをつなぐだけで同じ結果を、ほぼ同等の速度で得られる。\n\n\n続きをみる",
+          "link": "https://note.com/polymorph_design/n/nb444769a8182",
+          "publishedOn": "2025-08-26T11:10:22.000Z",
+          "wordCount": 2269,
+          "title": "Houdiniのこんなところが魅力",
+          "imageUrl": "https://d2l930y2yx77uc.cloudfront.net/production/social_images/6e90386e3480ef34d1527259235724a7ed54be2a.png"
+        },
+        {
           "id": "https://note.com/thesaurus/n/ne8ced8f77a48",
           "author": null,
           "description": "第25回Houdiniゆるゆる会、今回のテーマは「自然」。魚豊さんの漫画『チ。-地球の運動について-』に触発され、天動説的な宇宙観をHoudiniでビジュアライズしてみました。\n私たちが普段目にするのは「地動説（太陽中心説）」に基づいた太陽系のモデルです。そこで今回は、まず地動説的な太陽系をHoudiniで構築し、そのデータを基準にして「もし天動説で宇宙を描いたらどう見えるのか？」を再現してみます。\n続きをみる",
@@ -3877,6 +3867,31 @@
       "feedUrl": "https://cginterest.com/feed/",
       "siteUrl": "https://cginterest.com",
       "articles": [
+        {
+          "id": "https://cginterest.com/?p=49779",
+          "author": ".me",
+          "description": "Blenderアドオン「OkTopo Remesher」の紹介です。 OkTopo Remesherとは OkTopo Remesherは、頭部の自動リトポロジーを行うためのBlenderアドオンです。 マーカーを配置し […]\nクリーンなトポロジーで頭部をすばやくリトポロジーできるBlenderアドオン「OkTopo Remesher」 first appeared on CGinterest.",
+          "link": "https://cginterest.com/2025/08/26/%e3%82%af%e3%83%aa%e3%83%bc%e3%83%b3%e3%81%aa%e3%83%88%e3%83%9d%e3%83%ad%e3%82%b8%e3%83%bc%e3%81%a7%e9%a0%ad%e9%83%a8%e3%82%92%e3%81%99%e3%81%b0%e3%82%84%e3%81%8f%e3%83%aa%e3%83%88%e3%83%9d%e3%83%ad/",
+          "publishedOn": "2025-08-26T07:55:17.000Z",
+          "wordCount": 1592,
+          "title": "クリーンなトポロジーで頭部をすばやくリトポロジーできるBlenderアドオン「OkTopo Remesher」",
+          "enclosure": {
+            "url": "https://cginterest.com/wp-content/uploads/2025/08/20250826_Oktoporemesher_Remesh-1.5X.mp4",
+            "length": "352345",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://cginterest.com/wp-content/uploads/2025/08/20250826_oktopoRemesher.webp"
+        },
+        {
+          "id": "https://cginterest.com/?p=48099",
+          "author": ".me",
+          "description": "今月発売、2025年8月以降に発売予定*のあるCG関連書籍を紹介するコーナーです(Amazon調べ)。 CGソフトの入門本、テクニック本、アートブック、リファレンス（参考資料）、その他気になるおすすめ書籍を紹介していきま […]\n2025年8月発売のCG関連書籍をチェック！ first appeared on CGinterest.",
+          "link": "https://cginterest.com/2025/08/26/2025%e5%b9%b48%e6%9c%88%e7%99%ba%e5%a3%b2%e3%81%aecg%e9%96%a2%e9%80%a3%e6%9b%b8%e7%b1%8d%e3%82%92%e3%83%81%e3%82%a7%e3%83%83%e3%82%af%ef%bc%81/",
+          "publishedOn": "2025-08-26T05:10:08.000Z",
+          "wordCount": 3468,
+          "title": "2025年8月発売のCG関連書籍をチェック！",
+          "imageUrl": "https://cginterest.com/wp-content/uploads/2025/08/20250826_bookcorner-2025-8.webp"
+        },
         {
           "id": "https://cginterest.com/?p=49698",
           "author": ".me",

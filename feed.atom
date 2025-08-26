@@ -2,10 +2,74 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-26T03:36:22.393Z</updated>
+    <updated>2025-08-26T08:16:41.876Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[🎓 Unreal Engine 実践用語ノート]]></title>
+        <id>https://note.com/juntominaga/n/n264e1e31796e</id>
+        <link href="https://note.com/juntominaga/n/n264e1e31796e"/>
+        <updated>2025-08-26T07:17:33.000Z</updated>
+        <summary type="html"><![CDATA[🗂 インポート関連
+
+
+FBX
+3Dモデルを取り込むファイル形式。Blenderや他ソフトからエクスポートしてUnrealに読み込むときに使用。
+
+
+Content Browser
+Unreal Engine 内でアセット（モデル・マテリアル・テクスチャなど）を管理する場所。
+インポートしたモデルや素材をフォルダ分けして整理できる。
+
+
+続きをみる]]></summary>
+        <author>
+            <name>#substancepainterタグ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[27卒向けオンライン選考会がスタート！　ゲームプログラマーオンライン選考会Vol.1【作品応募〆：10/1（水）】 - ニュース]]></title>
+        <id>https://cgworld.jp/flashnews/2508-27pgo1.html</id>
+        <link href="https://cgworld.jp/flashnews/2508-27pgo1.html"/>
+        <updated>2025-08-26T05:25:00.000Z</updated>
+        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[3D生成AI「Meshy 5」正式リリース！　PBRテクスチャの自動生成、マルチビュー生成、A/Tポーズ生成、複数アセットの一括生成など - ニュース]]></title>
+        <id>https://cgworld.jp/flashnews/01-202508-Meshy5.html</id>
+        <link href="https://cgworld.jp/flashnews/01-202508-Meshy5.html"/>
+        <updated>2025-08-26T04:46:47.000Z</updated>
+        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[リアルで素晴らしい 犬たちの演技!? ドラマ『The Last of US』シーズン2 の VFXブレイクダウン映像]]></title>
+        <id>https://3dtotal.jp/?p=52742</id>
+        <link href="https://3dtotal.jp/news/52742/"/>
+        <updated>2025-08-26T04:35:22.000Z</updated>
+        <summary type="html"><![CDATA[★Crafting the Dogs for The Last of Us S2（1分22秒） この インターナショナル ドッグ デー（犬の日、8/26）私たち Weta FX は「The Last of Us」シーズン […]
+The post リアルで素晴らしい 犬たちの演技!? ドラマ『The Last of US』シーズン2 の VFXブレイクダウン映像 first appeared on 3dtotal 日本語オフィシャルサイト.]]></summary>
+        <author>
+            <name>3dtotal管理人T</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Scanline VFX より、コメディ映画『俺は飛ばし屋/プロゴルファー・ギル2』のVFXブレイクダウン映像]]></title>
+        <id>https://3dtotal.jp/?p=52739</id>
+        <link href="https://3dtotal.jp/news/52739/"/>
+        <updated>2025-08-26T04:30:50.000Z</updated>
+        <summary type="html"><![CDATA[★Happy Gilmore 2 VFX Breakdown Reel（2分48秒/ 制作：Scanline VFX） 　 ★『俺は飛ばし屋/プロゴルファー・ギル2』予告編（2分32秒） ハッピー・ギルモアのゴルフ人生は […]
+The post Scanline VFX より、コメディ映画『俺は飛ばし屋/プロゴルファー・ギル2』のVFXブレイクダウン映像 first appeared on 3dtotal 日本語オフィシャルサイト.]]></summary>
+        <author>
+            <name>3dtotal管理人T</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Resample Edges 選択したエッジ上の頂点数をそのまま、または再度数を変更して細かく均等に配置して角を滑らかに出来るBlender用無料アドオン]]></title>
         <id>https://modelinghappy.com/?p=64294</id>
@@ -4556,16 +4620,6 @@ The post Blender Pro Hair Suite ヘアカードを編集可能なカーブに変
         <summary type="html"><![CDATA[こんばんは！ 今回はアドオンの「Dynamically Roots Growth」を紹介します。 こちらのリンクがアドオンの商品ページになります。 Dynamically Roots Growth 「Dynamicall […]]]></summary>
         <author>
             <name>kasahara</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rumba 2.0 - 非商用なら無料でフル機能が使える！直感操作のリグ制御が特徴的な3Dアニメーション制作ソフト！メジャーアップデートがリリース！物理挙動やMayaとの連携も強化！]]></title>
-        <id>https://3dnchu.com/?p=1056985</id>
-        <link href="https://3dnchu.com/archives/rumba-2-0/"/>
-        <updated>2025-07-27T16:33:34.000Z</updated>
-        <summary type="html"><![CDATA[レンダラーGuerilla Render なども手掛けるMercenaries Engineeringによる3Dアニメーション制作ソフトのメジャーアップデート「Rumba 2.0」がリリースされました！]]></summary>
-        <author>
-            <name>Ymt3D -3dnchu-</name>
         </author>
     </entry>
 </feed>

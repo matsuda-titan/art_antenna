@@ -12,6 +12,21 @@
       "siteUrl": "https://cgbox.jp",
       "articles": [
         {
+          "id": "https://cgbox.jp/?p=64016",
+          "author": "kasahara",
+          "description": "こんばんは！ 今回はアドオンの「optiploy」を紹介します。 こちらのリンクがアドオンの商品ページになります。 optiploy 「optiploy」は、Blender の 「Append（追加）」 と 「Link（ […]",
+          "link": "https://cgbox.jp/2025/08/27/news-addon-optiploy/",
+          "publishedOn": "2025-08-26T23:52:25.000Z",
+          "wordCount": 2087,
+          "title": "【無料アドオン】optiploy – アペンドとリンクの上位互換機能を実装！",
+          "enclosure": {
+            "url": "https://cgbox.jp/wp-content/uploads/2025/08/ezgif-c-1.mp4",
+            "length": "0",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://cgbox.jp/wp-content/uploads/2025/08/f050beb743c8ad4b96419f0650503c9dcc7beb1f088cc3726c01b866d5e5cc76_1920x1080.webp"
+        },
+        {
           "id": "https://cgbox.jp/?p=64012",
           "author": "kasahara",
           "description": "こんばんは！ 今回はアドオンの「Water Caustic Animated Preset Shaders」を紹介します。 こちらのリンクがアドオンの商品ページになります。 Water Caustic Animated  […]",
@@ -1045,21 +1060,6 @@
             "type": "video/mp4"
           },
           "imageUrl": "https://3dnchu.com/wp-content/uploads/IlluGen-1.0.webp"
-        },
-        {
-          "id": "https://3dnchu.com/?p=1056998",
-          "author": "Ymt3D -3dnchu-",
-          "description": "レイヤー方式とノードベース処理を融合し、非破壊でプロシージャルな編集を可能にする 無料・オープンソースの2Dグラフィックエディタ「Graphite」のご紹介。",
-          "link": "https://3dnchu.com/archives/graphite/",
-          "publishedOn": "2025-07-28T10:16:07.000Z",
-          "wordCount": 8845,
-          "title": "Graphite - レイヤー方式とノードベース処理を融合！非破壊＆プロシージャル編集が可能な無料かつオープンソースの2Dグラフィック編集ツール！",
-          "enclosure": {
-            "url": "https://3dnchu.com/wp-content/uploads/Graphite.webp",
-            "length": "1283598",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://3dnchu.com/wp-content/uploads/Graphite.webp"
         }
       ]
     },
@@ -1068,6 +1068,36 @@
       "feedUrl": "https://cgworld.jp/atom.xml",
       "siteUrl": "https://cgworld.jp/",
       "articles": [
+        {
+          "id": "https://cgworld.jp/article/cgw234-acguma03.html",
+          "author": null,
+          "description": "アニメ『ウマ娘 シンデレラグレイ』のCGメイキングを紹介。",
+          "link": "https://cgworld.jp/article/cgw234-acguma03.html",
+          "publishedOn": "2025-08-27T01:00:36.000Z",
+          "wordCount": 775,
+          "title": "アニメ『ウマ娘 シンデレラグレイ』作画アニメを支えるBlenderを活用したCGワーク〜（3）カサマツレース場篇 - 特集",
+          "imageUrl": "https://cgworld.jp/article/assets_c/2025/08/uma02-thumb-1920x1080-72259.jpg"
+        },
+        {
+          "id": "https://cgworld.jp/flashnews/01-202508-LL3M.html",
+          "author": null,
+          "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
+          "link": "https://cgworld.jp/flashnews/01-202508-LL3M.html",
+          "publishedOn": "2025-08-26T23:46:42.000Z",
+          "wordCount": 795,
+          "title": "Blenderで利用できるオープンソースのAIエージェント「LL3M」発表！　テキストプロンプトからPythonコードを生成し3Dモデルを自動生成、部分修正・追加生成にも対応 - ニュース",
+          "imageUrl": "https://cgworld.jp/flashnews/assets_c/2025/08/2cb673512632af688e876580ad9be5ce560b7a71-thumb-1080x607-73106.jpg"
+        },
+        {
+          "id": "https://cgworld.jp/flashnews/01-202508-VIVE-Eagle.html",
+          "author": null,
+          "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
+          "link": "https://cgworld.jp/flashnews/01-202508-VIVE-Eagle.html",
+          "publishedOn": "2025-08-26T23:10:48.000Z",
+          "wordCount": 760,
+          "title": "HTCがAIグラス「VIVE Eagle」発表！ AIへの質問、写真ベースの翻訳、写真・動画撮影などを音声操作で実現、9月より台湾で発売開始 - ニュース",
+          "imageUrl": "https://cgworld.jp/flashnews/assets_c/2025/08/VIVE_Eagle-01-thumb-1080x608-73092.jpg"
+        },
         {
           "id": "https://cgworld.jp/flashnews/2508-27pgo1.html",
           "author": null,
@@ -2260,46 +2290,6 @@
           "wordCount": 3425,
           "title": "ドスパラでPC購入で最大10万円引き、3,000円以上購入で最大10万ポイント分還元してくれるキャンペーンが開催中！",
           "imageUrl": "https://modelinghappy.com/wp-content/uploads/2025/07/20250729_dosupara_01.jpg"
-        },
-        {
-          "id": "https://modelinghappy.com/?p=63990",
-          "author": "modelinghappy",
-          "description": "Surface Imperfection Brush Smart Materials Vol 03 Surface Imperfection Brush Smart Materials Vol 03はSubstance\nThe post Substance 3D Painterでパーティクルペイントする事で紙が焼けたような表現など出来る21種類のスマートマテリアルパック first appeared on 3DCG最新情報サイト MODELING HAPPY.",
-          "link": "https://modelinghappy.com/archives/63990",
-          "publishedOn": "2025-07-28T07:15:45.000Z",
-          "wordCount": 3461,
-          "title": "Substance 3D Painterでパーティクルペイントする事で紙が焼けたような表現など出来る21種類のスマートマテリアルパック",
-          "imageUrl": "https://modelinghappy.com/wp-content/uploads/2025/07/20250728_paper_BURN_FX_01.jpg"
-        },
-        {
-          "id": "https://modelinghappy.com/?p=63986",
-          "author": "modelinghappy",
-          "description": "STTUUUUFFFFF STTUUUUFFFFFはBlenderでリギング作業を便利にしてくれる無料アドオンです。 ボーンの名前を接頭辞や接尾辞の一括追加、置き換え、独自ルールでのリネーム、ボーンを複製しながら名前変更\nThe post STTUUUUFFFFF Blenderでリグの名前変更・チェーン作成・整列を自動化してくれる無料アドオン first appeared on 3DCG最新情報サイト MODELING HAPPY.",
-          "link": "https://modelinghappy.com/archives/63986",
-          "publishedOn": "2025-07-28T06:03:31.000Z",
-          "wordCount": 3444,
-          "title": "STTUUUUFFFFF Blenderでリグの名前変更・チェーン作成・整列を自動化してくれる無料アドオン",
-          "imageUrl": "https://modelinghappy.com/wp-content/uploads/2025/07/20250728_sttuuuuffff.jpg"
-        },
-        {
-          "id": "https://modelinghappy.com/?p=63966",
-          "author": "modelinghappy",
-          "description": "instantQPatch for Maya v1.0 InstantQPatchは、Mayaで大きく穴の開いたポリゴン部分でも、NURBSサーフェスのように、周囲のサーフェスの曲率に沿う四角形パッチを自動的に作成してく\nThe post instantQPatch for Maya v1.0  大きく穴の開いたポリゴン部分を綺麗に曲線を保ちながら面を張ってくれる無料プラグイン first appeared on 3DCG最新情報サイト MODELING HAPPY.",
-          "link": "https://modelinghappy.com/archives/63966",
-          "publishedOn": "2025-07-28T03:39:52.000Z",
-          "wordCount": 3488,
-          "title": "instantQPatch for Maya v1.0  大きく穴の開いたポリゴン部分を綺麗に曲線を保ちながら面を張ってくれる無料プラグイン",
-          "imageUrl": "https://modelinghappy.com/wp-content/uploads/2025/07/20250728_instantQPatch_01.jpg"
-        },
-        {
-          "id": "https://modelinghappy.com/?p=63962",
-          "author": "modelinghappy",
-          "description": "Blender Pro Hair Suite Blender Pro Hair SuiteはBlenderで複雑なヘアカードを、編集可能なヘアカーブに高精度に変換できるアドオンです。UVの重複、トポロジの崩れ、特殊なレイ\nThe post Blender Pro Hair Suite ヘアカードを編集可能なカーブに変換出来る無料アドオン first appeared on 3DCG最新情報サイト MODELING HAPPY.",
-          "link": "https://modelinghappy.com/archives/63962",
-          "publishedOn": "2025-07-28T01:45:46.000Z",
-          "wordCount": 3477,
-          "title": "Blender Pro Hair Suite ヘアカードを編集可能なカーブに変換出来る無料アドオン",
-          "imageUrl": "https://modelinghappy.com/wp-content/uploads/2025/07/20250728_Blender_Pro_Hair_Suite.jpg"
         }
       ]
     },
@@ -2737,26 +2727,6 @@
           "wordCount": 576,
           "title": "Houdini ＋ Unreal Engine で ワールド ビルディング：Project Elderwood",
           "imageUrl": "https://3dtotal.jp/wp-content/uploads/2025/07/pelderwood.jpg"
-        },
-        {
-          "id": "https://3dtotal.jp/?p=52326",
-          "author": "3dtotal管理人T",
-          "description": "★From Previs to Final | Better Man | Wētā FX（2分） 『BETTER MAN/ベター・マン』は、マイケル・グレイシー 監督のよる 音楽界の伝説 ロビー・ウィリアムス の伝記映画 […]\nThe post プリビズから完成まで。映画『BETTER MAN／ベター・マン』のメイキング映像 first appeared on 3dtotal 日本語オフィシャルサイト.",
-          "link": "https://3dtotal.jp/news/52326/",
-          "publishedOn": "2025-07-28T02:20:40.000Z",
-          "wordCount": 524,
-          "title": "プリビズから完成まで。映画『BETTER MAN／ベター・マン』のメイキング映像",
-          "imageUrl": "https://3dtotal.jp/wp-content/uploads/2025/07/betterman_previz.jpg"
-        },
-        {
-          "id": "https://3dtotal.jp/?p=52323",
-          "author": "3dtotal管理人T",
-          "description": "★Wētā Workshop | Showreel | SDCC25（2分） ミドル・アースの果てから博物館の展示物まで、Weta Workshop はあらゆる形で創造性を現実のものにします。 サンディエゴ・コミコン 2 […]\nThe post ミドル・アースの果てから 博物館の展示物まで。Weta Workshop の コミコン 2025 ショーリール first appeared on 3dtotal 日本語オフィシャルサイト.",
-          "link": "https://3dtotal.jp/news/52323/",
-          "publishedOn": "2025-07-28T02:16:36.000Z",
-          "wordCount": 539,
-          "title": "ミドル・アースの果てから 博物館の展示物まで。Weta Workshop の コミコン 2025 ショーリール",
-          "imageUrl": "https://3dtotal.jp/wp-content/uploads/2025/07/wetaws_reelsdcc25_01.jpg"
         }
       ]
     },
@@ -3116,16 +3086,6 @@
           "wordCount": 4210,
           "title": "three.jsでサイリウムをInstancedMeshで表示してShaderで振る",
           "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnFpaXRhLWltYWdlLXN0b3JlLnMzLmFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkYwJTJGMjE0MzEzJTJGcHJvZmlsZS1pbWFnZXMlMkYxNjkwMDk0MTM1P2l4bGliPXJiLTQuMC4wJmFyPTElM0ExJmZpdD1jcm9wJm1hc2s9ZWxsaXBzZSZiZz1GRkZGRkYmZm09cG5nMzImcz0wNjM4ZDYyNjM1MTYzZDBhOTJkNTM0ZmJmNWQxM2VhYw%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3Ddd6681eef4598bc1ac4a47d618becc3f?ixlib=rb-4.0.0&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9dGhyZWUuanMlRTMlODElQTclRTMlODIlQjUlRTMlODIlQTQlRTMlODMlQUElRTMlODIlQTYlRTMlODMlQTAlRTMlODIlOTJJbnN0YW5jZWRNZXNoJUUzJTgxJUE3JUU4JUExJUE4JUU3JUE0JUJBJUUzJTgxJTk3JUUzJTgxJUE2U2hhZGVyJUUzJTgxJUE3JUU2JThDJUFGJUUzJTgyJThCJnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9YTZlNGFkMWQyNTE5N2Q3ZDQ1OWUwYmVhMzJmMjlmNzU&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBmdXppa2kmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz1mODM5OTc4MDQ1MGRhMzg2MzZmN2NlZWM1NjQxZTI1MA&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=670f2c74ec4dc2f8debbb5fb1d642c1d"
-        },
-        {
-          "id": "https://qiita.com/Uehara1124/items/7769dc97b21edb4f1df5",
-          "author": null,
-          "description": "概要\nシェーダーでWorleyNoiseを適度に高速かつ省メモリ、ハイクオリティに取得する方法を提案するということ。\n\n点からの距離関数 (1D)\nまずは1Dを考える。\n$0≦x≦1$ で、$x=p$ の位置に点を置く。\n\n位置 $x$ における $p$ からの距離は当然...",
-          "link": "https://qiita.com/Uehara1124/items/7769dc97b21edb4f1df5",
-          "publishedOn": "2025-07-28T12:21:27.000Z",
-          "wordCount": 8442,
-          "title": "Worley Noise をちょっと賢く実装",
-          "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnFpaXRhLWltYWdlLXN0b3JlLnMzLmFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkYwJTJGNTMxMzcxJTJGcHJvZmlsZS1pbWFnZXMlMkYxNzUyNTg1NzczP2l4bGliPXJiLTQuMC4wJmFyPTElM0ExJmZpdD1jcm9wJm1hc2s9ZWxsaXBzZSZiZz1GRkZGRkYmZm09cG5nMzImcz1kMTUzMWU1YWMxNzExZjNiZDIyNmI2YTliZDVjMjFiMw%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3Dbed50bf27b18ef88dacedecd55a8b23c?ixlib=rb-4.0.0&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9V29ybGV5JTIwTm9pc2UlMjAlRTMlODIlOTIlRTMlODElQTElRTMlODIlODclRTMlODElQTMlRTMlODElQTglRTglQjMlQTIlRTMlODElOEYlRTUlQUUlOUYlRTglQTMlODUmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz03YmFhNzE5OGM2ZGFmYzI2ZDMxNzNkZjFkYmRlODE4MA&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBVZWhhcmExMTI0JnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9MTAzZWE1OWRiOTg5ZDkwNTA2MmZjNmZiYTcyMmIzNmM&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=d5d47f32ce30438f7d633d2f258ff7a7"
         }
       ]
     },
@@ -3193,16 +3153,6 @@
           "wordCount": 4206,
           "title": "three.jsでサイリウムをInstancedMeshで表示してShaderで振る",
           "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnFpaXRhLWltYWdlLXN0b3JlLnMzLmFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkYwJTJGMjE0MzEzJTJGcHJvZmlsZS1pbWFnZXMlMkYxNjkwMDk0MTM1P2l4bGliPXJiLTQuMC4wJmFyPTElM0ExJmZpdD1jcm9wJm1hc2s9ZWxsaXBzZSZiZz1GRkZGRkYmZm09cG5nMzImcz0wNjM4ZDYyNjM1MTYzZDBhOTJkNTM0ZmJmNWQxM2VhYw%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3Ddd6681eef4598bc1ac4a47d618becc3f?ixlib=rb-4.0.0&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9dGhyZWUuanMlRTMlODElQTclRTMlODIlQjUlRTMlODIlQTQlRTMlODMlQUElRTMlODIlQTYlRTMlODMlQTAlRTMlODIlOTJJbnN0YW5jZWRNZXNoJUUzJTgxJUE3JUU4JUExJUE4JUU3JUE0JUJBJUUzJTgxJTk3JUUzJTgxJUE2U2hhZGVyJUUzJTgxJUE3JUU2JThDJUFGJUUzJTgyJThCJnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9YTZlNGFkMWQyNTE5N2Q3ZDQ1OWUwYmVhMzJmMjlmNzU&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBmdXppa2kmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz1mODM5OTc4MDQ1MGRhMzg2MzZmN2NlZWM1NjQxZTI1MA&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=670f2c74ec4dc2f8debbb5fb1d642c1d"
-        },
-        {
-          "id": "https://qiita.com/ShuMatsumoto/items/55f74568d466ed59885d",
-          "author": null,
-          "description": "😇 はじめに\n今回は簡単に、3Dアニメーション実装で「ツイストする画像」のご紹介です。\nこちらはCodeMafiaさんの「Not Equal」で学んだ内容となります。\n\n🌸 今回取り扱うエフェクト\n\n🌸 この記事で分かること／できること\n\nglslify、glsl-ro...",
-          "link": "https://qiita.com/ShuMatsumoto/items/55f74568d466ed59885d",
-          "publishedOn": "2025-07-28T11:07:44.000Z",
-          "wordCount": 1075,
-          "title": "3Dツイストする画像（glslify：glsl-rotate）",
-          "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnFpaXRhLWltYWdlLXN0b3JlLnMzLmFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkYwJTJGMjY4MTk4JTJGcHJvZmlsZS1pbWFnZXMlMkYxNjcwNjg4NzIwP2l4bGliPXJiLTQuMC4wJmFyPTElM0ExJmZpdD1jcm9wJm1hc2s9ZWxsaXBzZSZiZz1GRkZGRkYmZm09cG5nMzImcz03MjhmYjNkMDUxMzEwNWMxZjkxZTA2ZjljYjQ0ZTZlOA%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D4717a67d049dfd5063d7c56a345703f8?ixlib=rb-4.0.0&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9M0QlRTMlODMlODQlRTMlODIlQTQlRTMlODIlQjklRTMlODMlODglRTMlODElOTklRTMlODIlOEIlRTclOTQlQkIlRTUlODMlOEYlRUYlQkMlODhnbHNsaWZ5JUVGJUJDJTlBZ2xzbC1yb3RhdGUlRUYlQkMlODkmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz1iNmY4NzMyODQzZWI5ZGFhZmI3YjFlYWM3NDc0YWVlOA&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBTaHVNYXRzdW1vdG8mdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz03ZTE1ZDQ1N2Q2NzAxMGVjMGMzN2Y2ZWM4NDg0YTJkZg&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=03ea9c9d71c182534fb8b9b60682251d"
         }
       ]
     },
@@ -3308,16 +3258,6 @@
           "wordCount": 237,
           "title": "Media & Entertainment メールマガジン 2025 年 7 月号",
           "imageUrl": "https://area.autodesk.jp/information/assets_c/2021/11/ic_inews_black_1200x670-thumb-1200xauto-4980.png"
-        },
-        {
-          "id": "https://area.autodesk.jp/event/autodesk/game-creators-draft/",
-          "author": null,
-          "description": "IMAGICA GEEQが主催する「ゲームクリエイターズドラフト」にオートデスクは協力をしています。2025年8月1日 エントリー受付開始＆参加企業随時募集中！・・・",
-          "link": "https://area.autodesk.jp/event/autodesk/game-creators-draft/",
-          "publishedOn": "2025-07-28T01:00:00.000Z",
-          "wordCount": 164,
-          "title": "オートデスク協力 ゲームクリエイターズドラフト",
-          "imageUrl": "https://area.autodesk.jp/event/assets_c/2025/07/ic_game_creators_draft-thumb-1200xauto-5704.png"
         }
       ]
     },
@@ -3373,6 +3313,16 @@
       "feedUrl": "https://note.com/hashtag/Houdini/rss",
       "siteUrl": "https://note.com/hashtag/Houdini",
       "articles": [
+        {
+          "id": "https://note.com/pontayamazato/n/n9931f709a6fc",
+          "author": null,
+          "description": "「Houdini 21」\nhttps://www.sidefx.com/ja/products/whats-new-in-h21/\n続きをみる",
+          "link": "https://note.com/pontayamazato/n/n9931f709a6fc",
+          "publishedOn": "2025-08-26T22:25:53.000Z",
+          "wordCount": 2371,
+          "title": "Houdini 21",
+          "imageUrl": "https://assets.st-note.com/production/uploads/images/211101032/rectangle_large_type_2_e2b755dca26fce656a798326b4c082dd.png?width=800"
+        },
         {
           "id": "https://note.com/polymorph_design/n/nb444769a8182",
           "author": null,
@@ -3867,6 +3817,16 @@
       "feedUrl": "https://cginterest.com/feed/",
       "siteUrl": "https://cginterest.com",
       "articles": [
+        {
+          "id": "https://cginterest.com/?p=49843",
+          "author": ".me",
+          "description": "期間限定で無料となっているEpicのマーケットプレイスFABの無料コンテンツの紹介です。 Epic Games の統合マーケットプレイスFABでは、クリエイターとのパートナーシップによって、2週間ごとに選ばれたコンテンツ […]\n【期間限定無料】2025年9月9日までの FAB 無料コンテンツをチェック！ first appeared on CGinterest.",
+          "link": "https://cginterest.com/2025/08/27/%e3%80%90%e6%9c%9f%e9%96%93%e9%99%90%e5%ae%9a%e7%84%a1%e6%96%99%e3%80%912025%e5%b9%b49%e6%9c%889%e6%97%a5%e3%81%be%e3%81%a7%e3%81%ae-fab-%e7%84%a1%e6%96%99%e3%82%b3%e3%83%b3%e3%83%86%e3%83%b3%e3%83%84/",
+          "publishedOn": "2025-08-26T22:09:00.000Z",
+          "wordCount": 1583,
+          "title": "【期間限定無料】2025年9月9日までの FAB 無料コンテンツをチェック！",
+          "imageUrl": "https://cginterest.com/wp-content/uploads/2025/08/20250827_FABfreecontet.webp"
+        },
         {
           "id": "https://cginterest.com/?p=49779",
           "author": ".me",
@@ -4866,21 +4826,6 @@
             "type": "video/mp4"
           },
           "imageUrl": "https://cginterest.com/wp-content/uploads/2025/07/20250728_LiquiGen1.webp"
-        },
-        {
-          "id": "https://cginterest.com/?p=48003",
-          "author": ".me",
-          "description": "2025年7月9日(現地時間) – リアルタイム3Dプラットフォームを開発するUNIGINEは、同社のSDKの最新メジャーアップデート「UNIGINE SDK 2.20」をリリースしました。 新機能ハイライト […]\nUNIGINE 2.20 がリリース！最適化、UI ツールキット、VR/XR の改善、ガウススプラットサポートなど first appeared on CGinterest.",
-          "link": "https://cginterest.com/2025/07/28/unigine-2-20-%e3%81%8c%e3%83%aa%e3%83%aa%e3%83%bc%e3%82%b9%ef%bc%81%e6%9c%80%e9%81%a9%e5%8c%96%e3%80%81ui-%e3%83%84%e3%83%bc%e3%83%ab%e3%82%ad%e3%83%83%e3%83%88%e3%80%81vr-xr-%e3%81%ae%e6%94%b9/",
-          "publishedOn": "2025-07-28T05:55:00.000Z",
-          "wordCount": 802,
-          "title": "UNIGINE 2.20 がリリース！最適化、UI ツールキット、VR/XR の改善、ガウススプラットサポートなど",
-          "enclosure": {
-            "url": "https://cginterest.com/wp-content/uploads/2025/07/20250728_Unigine2_20_impostors.mp4",
-            "length": "288873",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://cginterest.com/wp-content/uploads/2025/07/20250728_Unigine2_20.webp"
         }
       ]
     }

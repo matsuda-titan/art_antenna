@@ -2,10 +2,47 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-28T03:29:40.102Z</updated>
+    <updated>2025-08-28T08:14:17.693Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[波打つUVでぷるぷる背景を作る]]></title>
+        <id>https://qiita.com/sekiguchi-hl/items/6dfb793fd9d77de0028b</id>
+        <link href="https://qiita.com/sekiguchi-hl/items/6dfb793fd9d77de0028b"/>
+        <updated>2025-08-28T07:46:33.000Z</updated>
+        <summary type="html"><![CDATA[はじめに
+「HLSLって難しそう…」と思っていたけど、実は短いコードで動く表現が作れると知りました。
+今回は、テクスチャを水面のように波打たせるシェーダーを作ります。
+影やライティングは一切なし、Unlitでシンプルに。
+
+環境
+
+Unity 6 (6000.0.28f1...]]></summary>
+        <author>
+            <name>Shaderタグが付けられた新着記事 - Qiita</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GUILTY GEAR Xrd開発スタッフが送るスキニングのためのモデリングTIPS 総集編動画と講演スライドが公開！]]></title>
+        <id>https://3dnchu.com/?p=1057876</id>
+        <link href="https://3dnchu.com/archives/ggxrd-chara-skinning-tips/"/>
+        <updated>2025-08-28T06:34:30.000Z</updated>
+        <summary type="html"><![CDATA[アークシステムワークス開発陣による、キャラクターのスキニングTIPS「GUILTY GEAR Xrd開発スタッフが送るスキニングのためのモデリング」の方の動画とスライドが公開されております！]]></summary>
+        <author>
+            <name>Ymt3D -3dnchu-</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[面白いゲームを作る常識「レベルデザイン」とは？没入させるために必要な考え方を、知久 温氏に聞いた - 特集]]></title>
+        <id>https://cgworld.jp/article/2508-leveldesign.html</id>
+        <link href="https://cgworld.jp/article/2508-leveldesign.html"/>
+        <updated>2025-08-28T03:27:04.000Z</updated>
+        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Morphin - iPhoneやiPadなどのiOS端末上で手軽に3Dリギング＆アニメーション制作可能なアプリ！]]></title>
         <id>https://3dnchu.com/?p=1057241</id>
@@ -46,6 +83,16 @@ The post ジャスティス・ギャング＆レックス・ルーサー：映�
         <summary type="html"><![CDATA[シカゴ大学の研究者らによるAIでBlender内で3Dアセットを作成・編集するPythonコードを生成できるオープンソース技術「LL3M: Large Language 3D Modelers」が発表されています。]]></summary>
         <author>
             <name>Ymt3D -3dnchu-</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[明暗でストーリーを表現する。伊藤より子氏の人気講座『ライティングデザインワークショップ』が9月27日より開催 - ニュース]]></title>
+        <id>https://cgworld.jp/flashnews/2509-plusone-yoriko.html</id>
+        <link href="https://cgworld.jp/flashnews/2509-plusone-yoriko.html"/>
+        <updated>2025-08-28T01:47:32.000Z</updated>
+        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
+        <author>
+            <name>CGWORLD</name>
         </author>
     </entry>
     <entry>
@@ -4646,36 +4693,6 @@ The post Photoshopベータ版に背景に合わせて画像を自動でライ�
 AI写真リサイズソフトウェア ON1 Resize AI 2026 がまもなくリリース！プレセールが開催 first appeared on CGinterest.]]></summary>
         <author>
             <name>.me</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sky - BlenderのGeometry Nodesで構築！Cycles専用の大気表現アセット！無料ダウンロード可能！]]></title>
-        <id>https://3dnchu.com/?p=1057067</id>
-        <link href="https://3dnchu.com/archives/sky-wolf-b3d/"/>
-        <updated>2025-07-29T18:55:38.000Z</updated>
-        <summary type="html"><![CDATA[Blenderアドオンやアセットでお馴染みWolf氏によるBlenderのGeometry Nodesで構築！Cycles専用の大気表現アセット「Sky」が無料公開されました！]]></summary>
-        <author>
-            <name>Ymt3D -3dnchu-</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[UE5 Water Interaction System - Comprehensive Workflow Tutorial - Unreal Engine上でインタラクティブな水面システムをBPやC++で構築する制作解説チュートリアルコース！Wingfoxにて取り扱い開始！]]></title>
-        <id>https://3dnchu.com/?p=1057065</id>
-        <link href="https://3dnchu.com/archives/ue5-water-interaction-system-xiaoyi-studio/"/>
-        <updated>2025-07-29T18:18:40.000Z</updated>
-        <summary type="html"><![CDATA[XiaoYi-StudioによるUnreal Engineにてインタラクティブな水面システムをBluePrintまたはC++で構築する制作解説チュートリアルコース『UE5 Water Interaction System - Comprehensive Workflow Tutorial』がCG＆デジタルアート関連チュートリアルサービス-Wingfoxにて取り扱い開始！]]></summary>
-        <author>
-            <name>Ymt3D -3dnchu-</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Offset Geometric Contact（OGC） - より貫通の無いクロスシミュレーションを実現可能な技術アプローチ！]]></title>
-        <id>https://3dnchu.com/?p=1057055</id>
-        <link href="https://3dnchu.com/archives/offset-geometric-contact/"/>
-        <updated>2025-07-29T15:46:24.000Z</updated>
-        <summary type="html"><![CDATA[ユタ大学の研究者らによるより貫通の無いクロスシミュレーションを実現可能な技術アプローチ「Offset Geometric Contact（OGC）」！SIGGRAPH 2025発表技術論文です。]]></summary>
-        <author>
-            <name>Ymt3D -3dnchu-</name>
         </author>
     </entry>
 </feed>

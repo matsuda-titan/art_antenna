@@ -417,6 +417,36 @@
       "siteUrl": "https://3dnchu.com",
       "articles": [
         {
+          "id": "https://3dnchu.com/?p=1057241",
+          "author": "Ymt3D -3dnchu-",
+          "description": "Ademola Adenekan氏によるによる、キャラクターのリギングやアニメーション制作ができるiOSアプリ「Morphin」のご紹介。",
+          "link": "https://3dnchu.com/archives/morphin/",
+          "publishedOn": "2025-08-28T03:17:34.000Z",
+          "wordCount": 8804,
+          "title": "Morphin - iPhoneやiPadなどのiOS端末上で手軽に3Dリギング＆アニメーション制作可能なアプリ！",
+          "enclosure": {
+            "url": "https://3dnchu.com/wp-content/uploads/Morphin-.webp",
+            "length": "811334",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://3dnchu.com/wp-content/uploads/Morphin-.webp"
+        },
+        {
+          "id": "https://3dnchu.com/?p=1057677",
+          "author": "Ymt3D -3dnchu-",
+          "description": "シカゴ大学の研究者らによるAIでBlender内で3Dアセットを作成・編集するPythonコードを生成できるオープンソース技術「LL3M: Large Language 3D Modelers」が発表されています。",
+          "link": "https://3dnchu.com/archives/ll3m-large-language-3d-modeler/",
+          "publishedOn": "2025-08-28T02:27:40.000Z",
+          "wordCount": 8707,
+          "title": "LL3M: Large Language 3D Modelers  - AIでBlender内で3Dアセットを作成・編集するPythonコードを生成できるオープンソース技術！プロジェクトページが公開！",
+          "enclosure": {
+            "url": "https://3dnchu.com/wp-content/uploads/LL3M-small.gif",
+            "length": "151036",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://3dnchu.com/wp-content/uploads/LL3M-small.gif"
+        },
+        {
           "id": "https://3dnchu.com/?p=1057817",
           "author": "Ymt3D -3dnchu-",
           "description": "Greenleaf Visionが7周年を記念しNaniteとPivot Painter 2対応の低木メッシュアセット「Free Shrubs Pack (Ultra Realistic Wind)」をFab上で無料公開しました！",
@@ -2314,6 +2344,16 @@
       "siteUrl": "https://3dtotal.jp",
       "articles": [
         {
+          "id": "https://3dtotal.jp/?p=52777",
+          "author": "3dtotal管理人T",
+          "description": "★Superman | The Justice Gang | Behind the Scenes（10分36秒） 0:00　The Justice Gang（ジャスティス・ギャング） 0:49　Guy Gardner（ガ […]\nThe post ジャスティス・ギャング＆レックス・ルーサー：映画『スーパーマン』の ビハインド・ザ・シーン映像 first appeared on 3dtotal 日本語オフィシャルサイト.",
+          "link": "https://3dtotal.jp/news/52777/",
+          "publishedOn": "2025-08-28T02:48:34.000Z",
+          "wordCount": 580,
+          "title": "ジャスティス・ギャング＆レックス・ルーサー：映画『スーパーマン』の ビハインド・ザ・シーン映像",
+          "imageUrl": "https://3dtotal.jp/wp-content/uploads/2025/08/superman_bts_jg.jpg"
+        },
+        {
           "id": "https://3dtotal.jp/?p=52765",
           "author": "3dtotal管理人T",
           "description": "Q. 自己紹介をお願いします インタビューの機会をいただき、ありがとうございます。名前は Prasanth、インド出身のアーティストです。Maya の資格コースを修了し、2007年に インド、バンガロールの Techni […]\nThe post 【インタビュー】新しいことを学び、経験を広げる：ライティング ジェネラリスト Prasanth Chundakkattil 氏 first appeared on 3dtotal 日本語オフィシャルサイト.",
@@ -2710,6 +2750,21 @@
       "feedUrl": "https://zenn.dev/topics/shader/feed",
       "siteUrl": "https://zenn.dev/topics/shader",
       "articles": [
+        {
+          "id": "https://zenn.dev/toropippi/articles/016f3f36f8c6ce",
+          "author": "toropippi",
+          "description": "SASSをみてみる\n主要ベンダーGPUには、単精度の sin/cos を高速に近似計算する専用ハードウェアが備わっています。ここでは NVIDIA RTX 2080 Ti（Turing, sm_75） で、CUDA の __sinf() が SASS（GPUアセンブリ）でどのような命令列になるかを調査しました。\nCUDAコード\nfor (uint32_t i = 0; i < iterations; ++i) {\n            for (int j = 0; j < 8; ++j) {\n                x = __sinf(x);\n       ...",
+          "link": "https://zenn.dev/toropippi/articles/016f3f36f8c6ce",
+          "publishedOn": "2025-08-27T17:38:53.000Z",
+          "wordCount": null,
+          "title": "CUDAの__sinf()はSASSでFMUL → MUFU.SINに展開される",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--dbl4nU_t--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:CUDA%25E3%2581%25AE__sinf%2528%2529%25E3%2581%25AFSASS%25E3%2581%25A7FMUL%2520%25E2%2586%2592%2520MUFU.SIN%25E3%2581%25AB%25E5%25B1%2595%25E9%2596%258B%25E3%2581%2595%25E3%2582%258C%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:toropippi%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzk5YWI1ZjZjZTQuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png",
+            "length": "0",
+            "type": "image/png"
+          },
+          "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--dbl4nU_t--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:CUDA%25E3%2581%25AE__sinf%2528%2529%25E3%2581%25AFSASS%25E3%2581%25A7FMUL%2520%25E2%2586%2592%2520MUFU.SIN%25E3%2581%25AB%25E5%25B1%2595%25E9%2596%258B%25E3%2581%2595%25E3%2582%258C%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:toropippi%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzk5YWI1ZjZjZTQuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
+        },
         {
           "id": "https://zenn.dev/kakilemon/articles/1047d0d04c1f00",
           "author": "カキレモン",
@@ -3832,6 +3887,26 @@
       "feedUrl": "https://cginterest.com/feed/",
       "siteUrl": "https://cginterest.com",
       "articles": [
+        {
+          "id": "https://cginterest.com/?p=49694",
+          "author": ".me",
+          "description": "2025年8月27日（現地時間）-  Reallusion は、同社のキャラクター作成ソフトウェアのメジャーアップグレード「Character Creator 5 (CC5)」を正式にリリースしました。 Cha […]\n Reallusion、次世代 HD キャラクター作成を実現する Character Creator 5 を正式リリース！ first appeared on CGinterest.",
+          "link": "https://cginterest.com/2025/08/28/reallusion%e3%80%81%e6%ac%a1%e4%b8%96%e4%bb%a3-hd-%e3%82%ad%e3%83%a3%e3%83%a9%e3%82%af%e3%82%bf%e3%83%bc%e4%bd%9c%e6%88%90%e3%82%92%e5%ae%9f%e7%8f%be%e3%81%99%e3%82%8bcharacter-creator-5/",
+          "publishedOn": "2025-08-28T03:17:06.000Z",
+          "wordCount": 1723,
+          "title": "Reallusion、次世代 HD キャラクター作成を実現する Character Creator 5 を正式リリース！",
+          "imageUrl": "https://cginterest.com/wp-content/uploads/2025/08/20250828_cc5.webp"
+        },
+        {
+          "id": "https://cginterest.com/?p=49889",
+          "author": ".me",
+          "description": "Wacomオンラインセミナー「【アニメを作ろう！】CLIP STUDIO PAINT＋DaVinci Resolve アニメ制作講座」の紹介です。 今回のゲストはアニメーターの小嶋慶祐さん X▶ とDaVinci Res […]\nワコムオンラインセミナー『 【アニメを作ろう！】CLIP STUDIO PAINT＋DaVinci Resolve アニメ制作講座 』 first appeared on CGinterest.",
+          "link": "https://cginterest.com/2025/08/28/%e3%83%af%e3%82%b3%e3%83%a0%e3%82%aa%e3%83%b3%e3%83%a9%e3%82%a4%e3%83%b3%e3%82%bb%e3%83%9f%e3%83%8a%e3%83%bc%e3%80%8e-%e3%80%90%e3%82%a2%e3%83%8b%e3%83%a1%e3%82%92%e4%bd%9c%e3%82%8d%e3%81%86%ef%bc%81/",
+          "publishedOn": "2025-08-28T01:39:10.000Z",
+          "wordCount": 1376,
+          "title": "ワコムオンラインセミナー『 【アニメを作ろう！】CLIP STUDIO PAINT＋DaVinci Resolve アニメ制作講座 』",
+          "imageUrl": "https://cginterest.com/wp-content/uploads/2025/08/20250828_wacomonlineseminar_DVR.webp"
+        },
         {
           "id": "https://cginterest.com/?p=49877",
           "author": ".me",

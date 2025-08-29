@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-29T00:50:43.952Z</updated>
+    <updated>2025-08-29T03:29:07.675Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Houdini 21 の数々の新機能：SIGGRAPH HIVE 2025 の講演映像]]></title>
+        <id>https://3dtotal.jp/?p=52781</id>
+        <link href="https://3dtotal.jp/news/52781/"/>
+        <updated>2025-08-29T03:13:30.000Z</updated>
+        <summary type="html"><![CDATA[SIGGRAPH 2025（8/10-14 カナダ・バンクーバー開催）における SideFX のプレゼンテーション SIGGRAPH HIVE 2025 の映像。 　 ★CFX - Otis による筋肉と軟部組織：CFX […]
+The post Houdini 21 の数々の新機能：SIGGRAPH HIVE 2025 の講演映像 first appeared on 3dtotal 日本語オフィシャルサイト.]]></summary>
+        <author>
+            <name>3dtotal管理人T</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pixie Pivotトランスフォーム座標系を切り替えずに面やエッジを選ぶ事で好きな方向へ移動できるBlender用アドオン]]></title>
+        <id>https://modelinghappy.com/?p=64329</id>
+        <link href="https://modelinghappy.com/archives/64329"/>
+        <updated>2025-08-29T01:48:47.000Z</updated>
+        <summary type="html"><![CDATA[Pixie Pivot Pixie PivotはBlenderで移動させたい方向の面やエッジを選ぶ事で直ぐにその方向にギズモやピボットポイントを変更出来るアドオンです。 面倒な座標系切替が不要になるので、一々ノーマル等に
+The post Pixie Pivotトランスフォーム座標系を切り替えずに面やエッジを選ぶ事で好きな方向へ移動できるBlender用アドオン first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
+        <author>
+            <name>modelinghappy</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[3D生成AI「Rodin Gen-2」アーリーアクセス開始！　プロンプトや画像への忠実度向上、3Dプリント対応のパーツ単位での出力など - ニュース]]></title>
         <id>https://cgworld.jp/flashnews/01-202508-Rodin-Gen-2.html</id>
@@ -4582,23 +4604,6 @@ The post Houdini 使用事例：海外ドラマ『エトワール』の海洋シ
 Cascadeur 2025.2 がリリース！中間ポーズ生成機能の強化、軌道の接線編集機能の追加など first appeared on CGinterest.]]></summary>
         <author>
             <name>.me</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[お手軽にC++でHSVからRGBに変換する]]></title>
-        <id>https://qiita.com/OishiiShishamo/items/07efd7704533e1451413</id>
-        <link href="https://qiita.com/OishiiShishamo/items/07efd7704533e1451413"/>
-        <updated>2025-07-30T14:20:32.000Z</updated>
-        <summary type="html"><![CDATA[はじめに
-HSVからRGBに変換したいとき、正確な計算より「手軽で速い近似値」で十分な場面ってよくありますよね。
-今回は、そんなときに使える軽量な近似式によるHSV→RGB変換をC++で書いてみました。
-STLだけで動作します。
-
-動作環境
-C++17以上で行けるはず。
-...]]></summary>
-        <author>
-            <name>グラフィックスタグが付けられた新着記事 - Qiita</name>
         </author>
     </entry>
 </feed>

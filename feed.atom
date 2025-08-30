@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-30T03:22:58.066Z</updated>
+    <updated>2025-08-30T08:12:26.277Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[MeshBlend - スクリーンスペースのメッシュブレンド技術でメッシュの交差部分を自然に馴染ませる事が可能なUnreal Engine 5向けプラグイン！]]></title>
+        <id>https://3dnchu.com/?p=1057947</id>
+        <link href="https://3dnchu.com/archives/meshblend/"/>
+        <updated>2025-08-30T05:19:53.000Z</updated>
+        <summary type="html"><![CDATA[Tore Lervik氏によるスクリーンスペースでメッシュブレンドが可能なUnreal Engine 5向けプラグイン「MeshBlend」のご紹介！]]></summary>
+        <author>
+            <name>Ymt3D -3dnchu-</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Mesh Seam Blending - ポストプロセスを使用したスクリーンスペースのメッシュブレンド技術！Unityアセットと実装技術情報が無料公開中！]]></title>
         <id>https://3dnchu.com/?p=1057937</id>
@@ -4651,26 +4661,6 @@ The post Houdini を活用、FXテクニカルディレクター が語る 映�
         <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
         <author>
             <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PySide6でQUiLoaderがハングする問題とその回避方法【6.8.1で解決？】]]></title>
-        <id>https://unpyside.com/?p=2382</id>
-        <link href="https://unpyside.com/blog/2025/08/01/pyside6-quiloader-hang-bug/"/>
-        <updated>2025-07-31T18:46:57.000Z</updated>
-        <summary type="html"><![CDATA[PySide を使ってカスタムウィジェットを作成する際、.ui ファイルを利用することはよくあるかと思います。しかしその中で、PySide6 の QUiLoader が正しく動作しない不具合が報告されています。 from […]]]></summary>
-        <author>
-            <name>ringosan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PySide6でQUiLoaderがハングする問題とその回避方法【6.8.1で解決？】]]></title>
-        <id>https://unpyside.com/?p=2382</id>
-        <link href="https://unpyside.com/blog/2025/08/01/pyside6-quiloader-hang-bug/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=pyside6-quiloader-hang-bug"/>
-        <updated>2025-07-31T18:46:57.000Z</updated>
-        <summary type="html"><![CDATA[PySide を使ってカスタムウィジェットを作成する際、.ui ファイルを利用することはよくあるかと思います。しかしその中で、PySide6 の QUiLoader が正しく動作しない不具合が報告されています。 from […]]]></summary>
-        <author>
-            <name>ringosan</name>
         </author>
     </entry>
 </feed>

@@ -397,6 +397,21 @@
       "siteUrl": "https://3dnchu.com",
       "articles": [
         {
+          "id": "https://3dnchu.com/?p=1057947",
+          "author": "Ymt3D -3dnchu-",
+          "description": "Tore Lervik氏によるスクリーンスペースでメッシュブレンドが可能なUnreal Engine 5向けプラグイン「MeshBlend」のご紹介！",
+          "link": "https://3dnchu.com/archives/meshblend/",
+          "publishedOn": "2025-08-30T05:19:53.000Z",
+          "wordCount": 8860,
+          "title": "MeshBlend - スクリーンスペースのメッシュブレンド技術でメッシュの交差部分を自然に馴染ませる事が可能なUnreal Engine 5向けプラグイン！",
+          "enclosure": {
+            "url": "https://3dnchu.com/wp-content/uploads/MeshBlend.webp",
+            "length": "1019284",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://3dnchu.com/wp-content/uploads/MeshBlend.webp"
+        },
+        {
           "id": "https://3dnchu.com/?p=1057937",
           "author": "Ymt3D -3dnchu-",
           "description": "グラフィックプログラマーのJack Tollenaar氏が、ポストプロセスを使用したスクリーンスペースのメッシュブレンド技術のUnity向け実装アセット「Mesh Seam Blending」と実装技術解説記事を無料公開しています！",
@@ -1924,26 +1939,6 @@
           "publishedOn": "2025-08-10T14:54:42.000Z",
           "wordCount": 4613,
           "title": "ポリゴンメッシュの角を見つけるには？頂点の隣接数カウントで簡単判定",
-          "imageUrl": null
-        },
-        {
-          "id": "https://unpyside.com/?p=2382",
-          "author": "ringosan",
-          "description": "PySide を使ってカスタムウィジェットを作成する際、.ui ファイルを利用することはよくあるかと思います。しかしその中で、PySide6 の QUiLoader が正しく動作しない不具合が報告されています。 from […]",
-          "link": "https://unpyside.com/blog/2025/08/01/pyside6-quiloader-hang-bug/",
-          "publishedOn": "2025-07-31T18:46:57.000Z",
-          "wordCount": 4209,
-          "title": "PySide6でQUiLoaderがハングする問題とその回避方法【6.8.1で解決？】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://unpyside.com/?p=2382",
-          "author": "ringosan",
-          "description": "PySide を使ってカスタムウィジェットを作成する際、.ui ファイルを利用することはよくあるかと思います。しかしその中で、PySide6 の QUiLoader が正しく動作しない不具合が報告されています。 from […]",
-          "link": "https://unpyside.com/blog/2025/08/01/pyside6-quiloader-hang-bug/?utm_source=rss&utm_medium=rss&utm_campaign=pyside6-quiloader-hang-bug",
-          "publishedOn": "2025-07-31T18:46:57.000Z",
-          "wordCount": 4581,
-          "title": "PySide6でQUiLoaderがハングする問題とその回避方法【6.8.1で解決？】",
           "imageUrl": null
         }
       ]

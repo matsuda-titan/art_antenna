@@ -2,10 +2,45 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-29T12:19:54.423Z</updated>
+    <updated>2025-08-30T00:47:21.651Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【アドオン紹介】Decalify – ジオメトリーノードベースのデカール！]]></title>
+        <id>https://cgbox.jp/?p=64028</id>
+        <link href="https://cgbox.jp/2025/08/30/news-addon-decalify/"/>
+        <updated>2025-08-29T23:30:49.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは！ 今回はアドオンの「Decalify」を紹介します。 こちらのリンクがアドオンの商品ページになります。 Decalify 「Decalify」は、ジオメトリーベースのデカールツールです。 通常のテクスチャーベ […]]]></summary>
+        <author>
+            <name>kasahara</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[3DCG用語はきちんと正しく理解しよう。特にテクスチャ周りは重要。]]></title>
+        <id>https://note.com/tsukasa_yamato/n/n3b6d2539eccd</id>
+        <link href="https://note.com/tsukasa_yamato/n/n3b6d2539eccd"/>
+        <updated>2025-08-29T16:26:41.000Z</updated>
+        <summary type="html"><![CDATA[今日もサブスタンス3Dペインター（Substance 3D Painter）でめっちゃ勉強した。今まで曖昧だった「マップ、テクスチャ、ファイル、チャンネル」について更なる知見を得た。今回ハマったのはBlenderでの「ディスプレイスメント」という用語の使われ方が、一般的な「ディスプレイスメントマッピング」とは異なる使われ方をしていたことに疑問を持って、深掘りするハメになってしまった。
+
+ただし専門記事になるのでnoteには書きませんが😱 
+
+
+続きをみる]]></summary>
+        <author>
+            <name>#substancepainterタグ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【PR】Create Two Anime-Stylized Scenes in Blender - 2つのアニメ風背景をBlenderで制作するチュートリアルコース！Wingfoxにて取り扱い開始！]]></title>
+        <id>https://3dnchu.com/?p=1057918</id>
+        <link href="https://3dnchu.com/archives/rcreate-two-anime-stylized-scenes-aniket-rawat/"/>
+        <updated>2025-08-29T14:55:35.000Z</updated>
+        <summary type="html"><![CDATA[環境・プロップ・アーティストのAniket Rawat氏によるBlenderを使用しアニメ風の部屋シーンを制作する解説チュートリアルコース『Create Two Anime-Stylized Scenes in Blender』がCG＆デジタルアート関連チュートリアルサービス-Wingfoxにて取り扱い開始！]]></summary>
+        <author>
+            <name>Ymt3D -3dnchu-</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Runtime Deformation for Static Meshes Plugin – 静的メッシュをリアルタイムに変形！汎用版＆植物特化＆自動車破壊特化の3種のUnreal Engine 5プラグインがリリース！]]></title>
         <id>https://3dnchu.com/?p=1057900</id>
@@ -4611,173 +4646,6 @@ The post Houdini を活用、FXテクニカルディレクター が語る 映�
         <id>https://cgworld.jp/flashnews/02-2508-hirai.html</id>
         <link href="https://cgworld.jp/flashnews/02-2508-hirai.html"/>
         <updated>2025-07-31T13:23:09.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Multi-Person Interaction Generation from Two-Person Motion Priors - 複数人の人間のモーションや関係性を2人の関係から作り出す技術アプローチ！]]></title>
-        <id>https://3dnchu.com/?p=1057015</id>
-        <link href="https://3dnchu.com/archives/mulper-interaction-gen2permot-priors/"/>
-        <updated>2025-07-31T12:24:22.000Z</updated>
-        <summary type="html"><![CDATA[スコットランド グラスゴー大学（University of Glasgow）の 研究チームが発表した「Multi-Person Interaction Generation from Two-Person Motion Priors」。 既存の2人モーション拡散モデルを再利用して、多人数同時のリアルなインタラクション生成を可能にする技術！SIGGRAPH 2025 発表技術論文です。]]></summary>
-        <author>
-            <name>Ymt3D -3dnchu-</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BLENDER – Post-it 3D モデルの表面に自由に付箋を配置してメモを残して置けるアドオン]]></title>
-        <id>https://modelinghappy.com/?p=64063</id>
-        <link href="https://modelinghappy.com/archives/64063"/>
-        <updated>2025-07-31T11:04:24.000Z</updated>
-        <summary type="html"><![CDATA[BLENDER #8211; Post-it 3D BLENDER #8211; Post-it 3DはBlenderで作成したモデル表面に直接付箋のポストイットを配置出来るアドオンです。付箋はモデル表面に自由に配置
-The post BLENDER – Post-it 3D モデルの表面に自由に付箋を配置してメモを残して置けるアドオン first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
-        <author>
-            <name>modelinghappy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gomaya BlenderとMayaで１ボタンでモデルを転送、インポート出来るツール]]></title>
-        <id>https://modelinghappy.com/?p=64060</id>
-        <link href="https://modelinghappy.com/archives/64060"/>
-        <updated>2025-07-31T10:15:52.000Z</updated>
-        <summary type="html"><![CDATA[Blender Addon Gomaya GomayaはBlenderとMayaでアドオン、プラグインボタンから簡単にモデルをそれぞれ転送、受け取りが出来るツールです。 アドオンではトランスフォームの数値等もそのまま転送
-The post Gomaya BlenderとMayaで１ボタンでモデルを転送、インポート出来るツール first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
-        <author>
-            <name>modelinghappy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[群馬県×Vook『ぐんま次世代映像クリエイターコンペ2025』開催　制作資金100万円を10組に支援 - ニュース]]></title>
-        <id>https://cgworld.jp/flashnews/02-2507-vook2025.html</id>
-        <link href="https://cgworld.jp/flashnews/02-2507-vook2025.html"/>
-        <updated>2025-07-31T09:45:00.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Netflix映画『新幹線大爆破』｜Spade&Co.の定評あるVFXが、質と量の両面でスケールアップ - 連載]]></title>
-        <id>https://cgworld.jp/regular/202507-Netflix-TheBulletTrain-Spade&amp;Co.html</id>
-        <link href="https://cgworld.jp/regular/202507-Netflix-TheBulletTrain-Spade&amp;Co.html"/>
-        <updated>2025-07-31T09:28:00.000Z</updated>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[#04【Golaem】群衆を制す！　Maya＆UEのシミュレーション活用術 - 連載]]></title>
-        <id>https://cgworld.jp/regular/202507-cgw324-tr04.html</id>
-        <link href="https://cgworld.jp/regular/202507-cgw324-tr04.html"/>
-        <updated>2025-07-31T09:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Golaemは、簡単に群衆にモーションを付けることができる群衆シミュレーションソフトで、今年からAutodeskのMedia & Entertainment Collectionに同梱されました。Web上では既存のGolaem Character Packを用いた情報が多かったので、今回は自作キャラクターや外部アセットを用いて、Golaemの機能を紹介します！]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ultimate Blueprint Generator - Unreal Engine上でAI（Gemini or GPT）と連携し自然言語で書いた目的に応じて自動でBlueprintのノードグラフを生成してくれるプラグイン！]]></title>
-        <id>https://3dnchu.com/?p=1057031</id>
-        <link href="https://3dnchu.com/archives/ultimate-blueprint-generator/"/>
-        <updated>2025-07-31T08:55:37.000Z</updated>
-        <summary type="html"><![CDATA[BlueprintsLabによるUnreal EngineとAIサービス（GeminiやGPT）を連動させBlueprintノードグラフを生成可能なプラグイン「Ultimate Blueprint Generator」がFab上でリリースされています。]]></summary>
-        <author>
-            <name>Ymt3D -3dnchu-</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Blender用植物アセットライブラリbotaniq 7.1 がリリース！新しいカーブアセットを含む400以上のアセットが追加]]></title>
-        <id>https://cginterest.com/?p=48341</id>
-        <link href="https://cginterest.com/2025/07/31/blender%e7%94%a8%e6%a4%8d%e7%89%a9%e3%82%a2%e3%82%bb%e3%83%83%e3%83%88%e3%83%a9%e3%82%a4%e3%83%96%e3%83%a9%e3%83%aabotaniq-7-1-%e3%81%8c%e3%83%aa%e3%83%aa%e3%83%bc%e3%82%b9%ef%bc%81%e6%96%b0%e3%81%97/"/>
-        <updated>2025-07-31T07:32:42.000Z</updated>
-        <summary type="html"><![CDATA[2025年7月21日（現地時間）- Polygoniq は、Blender用植物アセットライブラリbotaniqの最新アップデートバージョン7.1をリリースしました。 ここでは新機能を含むすべての機能を紹介したいと思いま […]
-Blender用植物アセットライブラリbotaniq 7.1 がリリース！新しいカーブアセットを含む400以上のアセットが追加 first appeared on CGinterest.]]></summary>
-        <author>
-            <name>.me</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[3DCG]Javascript three で鉄道模型を作ったから紹介する為の記事]]></title>
-        <id>https://zenn.dev/mtur/articles/b2fb52ae23148b</id>
-        <link href="https://zenn.dev/mtur/articles/b2fb52ae23148b"/>
-        <updated>2025-07-31T06:36:20.000Z</updated>
-        <summary type="html"><![CDATA[初めての [3DCG]JavaScript_Three、個人レベルと制作途中なのに、鉄道模型を作ってたら紹介したくなったのでリンクを貼ります。
-
-
- 🐈‍⬛ Github・レポジトリへのアクセス
-https://github.com/mtur2007/java_three_3D
-良いと思ったらぜひスターをお願いします🌟
-
-
-🗺️ マップへのダイレクトアクセス
-https://mtur2007.github.io/java_three_3D/
-
-プログラミングによる自動化という利点を活かし、駅舎よりプラットホーム上の
-ホームドア、エスカレータ、エレベータを動作させることに特化して、
-部...]]></summary>
-        <author>
-            <name>mtur2007</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[『KEMURI』&quot;ポップ&quot;と&quot;不気味&quot;が共存する唯一無二のアートスタイル - 特集]]></title>
-        <id>https://cgworld.jp/article/202507-cgw323-kemuri02.html</id>
-        <link href="https://cgworld.jp/article/202507-cgw323-kemuri02.html"/>
-        <updated>2025-07-31T04:45:00.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[立ちはだかる 新たな強敵。映画『オールド・ガード 2』の VFXブレイクダウン映像]]></title>
-        <id>https://3dtotal.jp/?p=52382</id>
-        <link href="https://3dtotal.jp/news/52382/"/>
-        <updated>2025-07-31T03:33:54.000Z</updated>
-        <summary type="html"><![CDATA[★The Old Guard 2 | Breakdown Reel（2分55秒/ 制作：Image Engine） ヘリコプター、傷の治癒、顔の入れ替え から 断崖絶壁からのダイブまで。『オールド・ガード 2』の舞台裏を […]
-The post 立ちはだかる 新たな強敵。映画『オールド・ガード 2』の VFXブレイクダウン映像 first appeared on 3dtotal 日本語オフィシャルサイト.]]></summary>
-        <author>
-            <name>3dtotal管理人T</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Houdini 使用事例：海外ドラマ『エトワール』の海洋シーン]]></title>
-        <id>https://3dtotal.jp/?p=52378</id>
-        <link href="https://3dtotal.jp/news/52378/"/>
-        <updated>2025-07-31T03:25:29.000Z</updated>
-        <summary type="html"><![CDATA[★Étoile | The Yard VFX | Houdini Connect（4分1秒） The Yard VFX の Harry Bardak と Fabian Nowak が、Amazon プライム シリーズ『エ […]
-The post Houdini 使用事例：海外ドラマ『エトワール』の海洋シーン first appeared on 3dtotal 日本語オフィシャルサイト.]]></summary>
-        <author>
-            <name>3dtotal管理人T</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Blender 4.5 LTSの新機能を紹介！]]></title>
-        <id>https://cgbox.jp/?p=63729</id>
-        <link href="https://cgbox.jp/2025/07/31/blender-4-5-lts/"/>
-        <updated>2025-07-31T03:13:07.000Z</updated>
-        <summary type="html"><![CDATA[こんにちは！ 今回は、2025年7月15日に正式リリースされた、フリーの3DCGソフト「Blender」の新バージョン「Blender 4.5 LTS」の新機能について紹介したいと思います！ バージョンアップに伴って数多 […]]]></summary>
-        <author>
-            <name>CGbox編集部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【アドオン紹介】Hdri Environment Builder – HDRIをオブジェクトに投影！]]></title>
-        <id>https://cgbox.jp/?p=63862</id>
-        <link href="https://cgbox.jp/2025/07/31/news-addon-hdri-environment-builder/"/>
-        <updated>2025-07-31T03:03:32.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは！ 今回はアドオンの「Hdri Environment Builder」を紹介します。 こちらのリンクがアドオンの商品ページになります。 Hdri Environment Builder 「Hdri Envir […]]]></summary>
-        <author>
-            <name>kasahara</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[低解像度のGoogle Earthのスクリーンショットを高解像度のドローン写真に変換！　Ismail Seleit氏がFLUX Kontext LoRAのトレーニングで実現、無料ダウンロード可能 - ニュース]]></title>
-        <id>https://cgworld.jp/flashnews/01-202507-RealEarth-Kontext.html</id>
-        <link href="https://cgworld.jp/flashnews/01-202507-RealEarth-Kontext.html"/>
-        <updated>2025-07-31T00:27:48.000Z</updated>
         <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
         <author>
             <name>CGWORLD</name>

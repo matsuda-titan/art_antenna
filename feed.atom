@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-31T03:31:51.529Z</updated>
+    <updated>2025-08-31T08:12:37.264Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
@@ -4558,23 +4558,6 @@ The post MeshBlend 複数メッシュをブレンドしてなじませれるUnre
 [〆切2025年08月31日]Unreal Engine 5の学習を目的としたコンテスト『第24回UE5ぷちコン』 first appeared on CGinterest.]]></summary>
         <author>
             <name>.me</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AMD RDNA 4のOut-of-Order Memoryとは何か？コード例で理解するGPU進化]]></title>
-        <id>https://zenn.dev/toropippi/articles/8a8f497af4c80c</id>
-        <link href="https://zenn.dev/toropippi/articles/8a8f497af4c80c"/>
-        <updated>2025-08-01T16:16:02.000Z</updated>
-        <summary type="html"><![CDATA[はじめに
-2025年登場のRDNA 4では Out-of-Order Memory が導入されました。この記事では、その挙動がどのようなものかを、架空のコードで解説します。私はRDNA 4のGPU(Radeon RX 9070 XT等)をもってないので実際に検証できていなく、こうなんじゃないか?、という話です。
-
- 1. 背景
-RDNA 4の海外解説記事 [1][2][3]を読んでいたら"Out of Order Memory"の説明が目に止まりました。
-
-
-出典:「Better, more capable than expected: RDNA 4 architecture dee...]]></summary>
-        <author>
-            <name>toropippi</name>
         </author>
     </entry>
 </feed>

@@ -2704,21 +2704,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--te3_aafg--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2580%2590Unity%25E3%2580%2591%25E3%2583%25AF%25E3%2582%25A4%25E3%2583%25A4%25E3%2583%25BC%25E3%2583%2595%25E3%2583%25AC%25E3%2583%25BC%25E3%2583%25A0%25E3%2582%25B7%25E3%2582%25A7%25E3%2583%25BC%25E3%2583%2580%25E3%2583%25BC%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:masamin%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzZiMzlmMjRmNDIuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E3%2583%25AA%25E3%2583%25AA%25E3%2583%2586%25E3%2583%2583%25E3%2582%25AF%25E3%2583%25A9%25E3%2583%259C%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jSTNhdjNHNkphRjZfQ3V0RXU1RFk1T3NlcmtnQ1dqWUVnS0JyeGU1UlhjSGIwT0NXWHM9czk2LWM=%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png"
-        },
-        {
-          "id": "https://zenn.dev/toropippi/articles/8a8f497af4c80c",
-          "author": "toropippi",
-          "description": "はじめに\n2025年登場のRDNA 4では Out-of-Order Memory が導入されました。この記事では、その挙動がどのようなものかを、架空のコードで解説します。私はRDNA 4のGPU(Radeon RX 9070 XT等)をもってないので実際に検証できていなく、こうなんじゃないか?、という話です。\n\n 1. 背景\nRDNA 4の海外解説記事 [1][2][3]を読んでいたら\"Out of Order Memory\"の説明が目に止まりました。\n\n\n出典:「Better, more capable than expected: RDNA 4 architecture dee...",
-          "link": "https://zenn.dev/toropippi/articles/8a8f497af4c80c",
-          "publishedOn": "2025-08-01T16:16:02.000Z",
-          "wordCount": null,
-          "title": "AMD RDNA 4のOut-of-Order Memoryとは何か？コード例で理解するGPU進化",
-          "enclosure": {
-            "url": "https://res.cloudinary.com/zenn/image/upload/s--V3TAC-Kh--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:AMD%2520RDNA%25204%25E3%2581%25AEOut-of-Order%2520Memory%25E3%2581%25A8%25E3%2581%25AF%25E4%25BD%2595%25E3%2581%258B%25EF%25BC%259F%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2589%25E4%25BE%258B%25E3%2581%25A7%25E7%2590%2586%25E8%25A7%25A3%25E3%2581%2599%25E3%2582%258BGPU%25E9%2580%25B2%25E5%258C%2596%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:toropippi%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzk5YWI1ZjZjZTQuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png",
-            "length": "0",
-            "type": "image/png"
-          },
-          "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--V3TAC-Kh--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:AMD%2520RDNA%25204%25E3%2581%25AEOut-of-Order%2520Memory%25E3%2581%25A8%25E3%2581%25AF%25E4%25BD%2595%25E3%2581%258B%25EF%25BC%259F%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2589%25E4%25BE%258B%25E3%2581%25A7%25E7%2590%2586%25E8%25A7%25A3%25E3%2581%2599%25E3%2582%258BGPU%25E9%2580%25B2%25E5%258C%2596%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:toropippi%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzk5YWI1ZjZjZTQuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
         }
       ]
     },

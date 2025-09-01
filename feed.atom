@@ -2,10 +2,107 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-31T12:18:23.407Z</updated>
+    <updated>2025-09-01T01:00:44.488Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[映画『ソニック×シャドウ TOKYO MISSION』No.1／USDパイプライン最前線。マーザが挑んだ「森の死闘」 - 特集]]></title>
+        <id>https://cgworld.jp/article/202509-sonic3-1.html</id>
+        <link href="https://cgworld.jp/article/202509-sonic3-1.html"/>
+        <updated>2025-09-01T01:00:00.000Z</updated>
+        <summary type="html"><![CDATA[※本記事は月刊 『CGWORLD + digital video』vol.32...]]></summary>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ポイントクラウドからBlender用のPythonスクリプトを生成する「MeshCoder」発表！ LLMを活用した3Dモデル再構築のフレームワーク - ニュース]]></title>
+        <id>https://cgworld.jp/flashnews/01-202509-MeshCoder.html</id>
+        <link href="https://cgworld.jp/flashnews/01-202509-MeshCoder.html"/>
+        <updated>2025-08-31T23:37:05.000Z</updated>
+        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[3D生成AI「Tripo 3.0」ベータ版リリース！ アルゴリズム刷新でジオメトリ＆テクスチャ品質向上、自動リギング、パーツ分割、ブラシによるテクスチャ修正機能など - ニュース]]></title>
+        <id>https://cgworld.jp/flashnews/01-202509-Tripo3beta.html</id>
+        <link href="https://cgworld.jp/flashnews/01-202509-Tripo3beta.html"/>
+        <updated>2025-08-31T23:18:01.000Z</updated>
+        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【Unity Shader】ボーダーシェーダーを作ってみた]]></title>
+        <id>https://qiita.com/foriver4725/items/d16086063f3355a6132b</id>
+        <link href="https://qiita.com/foriver4725/items/d16086063f3355a6132b"/>
+        <updated>2025-08-31T17:54:03.000Z</updated>
+        <summary type="html"><![CDATA[概要
+ボーダーみたいな見た目のシェーダーを作ってみました。
+
+ソースコード
+全体図です。
+Shader "MyShader/Border"
+{
+    Properties
+    {
+        _Color ("Color", Color) = (1, 0, 0...]]></summary>
+        <author>
+            <name>Shaderタグが付けられた新着記事 - Qiita</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[サブペ学習は概念と英単語の暗記が日常茶飯事。英語嫌いには茨道。]]></title>
+        <id>https://note.com/tsukasa_yamato/n/n6731fabb91e4</id>
+        <link href="https://note.com/tsukasa_yamato/n/n6731fabb91e4"/>
+        <updated>2025-08-31T16:18:25.000Z</updated>
+        <summary type="html"><![CDATA[今日も地道にサブスタンス3Dペインター（Substance 3D Painter）学習中。昨日と今日の学習で出てきた新たな単語や概念などの列記。
+
+
+ACES, Linear、その違い
+
+
+GPU側でリアルタイムハイポリ化＋Displacement＝Tessellation、UE5では非推奨
+
+
+Parallax Occlusion Mapping
+
+
+Bump, Height, Normal mapの違い
+
+
+Blender特有の「ディスプレイスメント」という用語の使い方、バンプマップとハイトマップの違い
+
+
+Position map, World Space Normals map, ID map、用はサブペ専用ね
+
+
+Triplanar
+
+
+続きをみる]]></summary>
+        <author>
+            <name>#substancepainterタグ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【Unity】メッシュの頂点カラーを制御データとして使う]]></title>
+        <id>https://qiita.com/yuri_tsukimi/items/a3a034dc52c851519f41</id>
+        <link href="https://qiita.com/yuri_tsukimi/items/a3a034dc52c851519f41"/>
+        <updated>2025-08-31T14:37:27.000Z</updated>
+        <summary type="html"><![CDATA[メッシュの頂点カラーは色の表現にも使えますが，シェーダーの制御データとして利用することもできます．
+
+Blender から頂点カラーを持ってくる
+Blenderでメッシュに頂点カラーを付けます．Unityでもできますが，Blenderのほうがやりやすいです．
+メッシュデータ...]]></summary>
+        <author>
+            <name>Shaderタグが付けられた新着記事 - Qiita</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ComfyUI、音声駆動ビデオ生成モデル「Wan2.2 S2V」をネイティブサポート！]]></title>
         <id>https://cginterest.com/?p=49966</id>
@@ -4471,72 +4568,6 @@ Blender ジオメトリノードワークショップ（2025年7月）の内容�
 続きをみる]]></summary>
         <author>
             <name>#Houdiniタグ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MotionVFX による DaVinci Resolve 向けのプラグインが期間限定セール！6つのベストセラーが50%OFF！]]></title>
-        <id>https://cginterest.com/?p=48457</id>
-        <link href="https://cginterest.com/2025/08/02/motionvfx-%e3%81%ab%e3%82%88%e3%82%8b-davinci-resolve-%e5%90%91%e3%81%91%e3%81%ae%e3%83%97%e3%83%a9%e3%82%b0%e3%82%a4%e3%83%b3%e3%81%8c%e6%9c%9f%e9%96%93%e9%99%90%e5%ae%9a%e3%82%bb%e3%83%bc%e3%83%ab/"/>
-        <updated>2025-08-02T08:21:00.000Z</updated>
-        <summary type="html"><![CDATA[MotionVFX で開催中のDaVinci Resolveアニバーサリーセールの紹介です。 セール概要 DaVinci Resolveアニバーサリーセールが開催！6つのベストセラーツールを期間限定で半額で手に入れるチャ […]
-MotionVFX による DaVinci Resolve 向けのプラグインが期間限定セール！6つのベストセラーが50%OFF！ first appeared on CGinterest.]]></summary>
-        <author>
-            <name>.me</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Black Forest Labs、独自のスタイルを持つテキストから画像生成モデル「FLUX.1 Krea [dev]」をリリース！]]></title>
-        <id>https://cginterest.com/?p=48447</id>
-        <link href="https://cginterest.com/2025/08/02/black-forest-labs%e3%80%81%e7%8b%ac%e8%87%aa%e3%81%ae%e3%82%b9%e3%82%bf%e3%82%a4%e3%83%ab%e3%82%92%e6%8c%81%e3%81%a4%e3%83%86%e3%82%ad%e3%82%b9%e3%83%88%e3%81%8b%e3%82%89%e7%94%bb%e5%83%8f%e7%94%9f/"/>
-        <updated>2025-08-02T07:12:00.000Z</updated>
-        <summary type="html"><![CDATA[2025年7月31日（現地時間）- Black Forest Labs は、Krea AIとの共同開発によって開発されたテキスト画像生成モデルFLUX.1 Krea [dev]のリリースを発表しました。 独自のスタイルを […]
-Black Forest Labs、独自のスタイルを持つテキストから画像生成モデル「FLUX.1 Krea [dev]」をリリース！ first appeared on CGinterest.]]></summary>
-        <author>
-            <name>.me</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MoEアーキテクチャを採用した初のオープンソース動画生成モデル「Wan2.2」]]></title>
-        <id>https://cginterest.com/?p=48434</id>
-        <link href="https://cginterest.com/2025/08/02/moe%e3%82%a2%e3%83%bc%e3%82%ad%e3%83%86%e3%82%af%e3%83%81%e3%83%a3%e3%82%92%e6%8e%a1%e7%94%a8%e3%81%97%e3%81%9f%e5%88%9d%e3%81%ae%e3%82%aa%e3%83%bc%e3%83%97%e3%83%b3%e3%82%bd%e3%83%bc%e3%82%b9/"/>
-        <updated>2025-08-02T06:53:32.000Z</updated>
-        <summary type="html"><![CDATA[2025年7月28日（現地時間） – アリババグループのTongyi Labが開発した動画生成モデル「Wan2.2」が公開されました。 Wan2.2 とは Wan2.2は、前バージョンWan2.1をベースに、 […]
-MoEアーキテクチャを採用した初のオープンソース動画生成モデル「Wan2.2」 first appeared on CGinterest.]]></summary>
-        <author>
-            <name>.me</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Addon Search Blenderで大量にあるアドオンでも検索窓から使いたいアドオンを直ぐに探して使用出来る無料アドオン]]></title>
-        <id>https://modelinghappy.com/?p=64083</id>
-        <link href="https://modelinghappy.com/archives/64083"/>
-        <updated>2025-08-02T02:18:53.000Z</updated>
-        <summary type="html"><![CDATA[Addon Search Addon Searchは@Un1cornHuntrSamさんが作成した大量にあるBlenderアドオンでもファイル名を検索して直ぐに使用出来るようになるアドオンです。デフォルトでのショートカッ
-The post Addon Search Blenderで大量にあるアドオンでも検索窓から使いたいアドオンを直ぐに探して使用出来る無料アドオン first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
-        <author>
-            <name>modelinghappy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cinema 4D用の無料ノードアセットコレクション「Druckli Tools V1」]]></title>
-        <id>https://cginterest.com/?p=48427</id>
-        <link href="https://cginterest.com/2025/08/02/cinema-4d%e7%94%a8%e3%81%ae%e7%84%a1%e6%96%99%e3%83%8e%e3%83%bc%e3%83%89%e3%82%a2%e3%82%bb%e3%83%83%e3%83%88%e3%82%b3%e3%83%ac%e3%82%af%e3%82%b7%e3%83%a7%e3%83%b3%e3%80%8cdruckli-tools-v1%e3%80%8d/"/>
-        <updated>2025-08-02T02:11:58.000Z</updated>
-        <summary type="html"><![CDATA[Dominik Ruckli 氏による Cinema4D 用の無料ノードアセット「Druckli Tools V1」の紹介です。 Druckli Tools V1 とは 「Druckli Tools」は、Dominik  […]
-Cinema 4D用の無料ノードアセットコレクション「Druckli Tools V1」 first appeared on CGinterest.]]></summary>
-        <author>
-            <name>.me</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MeshBlend 複数メッシュをブレンドしてなじませれるUnreal Engine用プラグイン]]></title>
-        <id>https://modelinghappy.com/?p=64068</id>
-        <link href="https://modelinghappy.com/archives/64068"/>
-        <updated>2025-08-02T01:01:26.000Z</updated>
-        <summary type="html"><![CDATA[MeshBlend MeshBlendはTore Lervikさんが作成したUnreal Engineでメッシュとメッシュをブレンド出来るプラグインで、例えば用意した砂の地面に岩モデルを配置してもつなぎ目がはっきりせずに
-The post MeshBlend 複数メッシュをブレンドしてなじませれるUnreal Engine用プラグイン first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
-        <author>
-            <name>modelinghappy</name>
         </author>
     </entry>
 </feed>

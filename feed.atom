@@ -2,10 +2,52 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-09-03T12:20:29.505Z</updated>
+    <updated>2025-09-04T00:48:00.749Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[第1回 exsa 前編：学生から社会人へ。新人研修でマインドを切り替える - 連載]]></title>
+        <id>https://cgworld.jp/regular/202509-manabi1-1.html</id>
+        <link href="https://cgworld.jp/regular/202509-manabi1-1.html"/>
+        <updated>2025-09-04T01:00:00.000Z</updated>
+        <summary type="html"><![CDATA[技術革新が絶えないCG映像・ゲーム業界で、クリエイターはどう学び、成長していくのか。各社の教育・研修の取り組みに迫る新連載が始動。第1回では、マインドと専門性の両面から新人育成に注力する、exsaの取り組みを紹介しよう。前編では、exsaの研修方針や、社会人としての意識を育むためのマインドセット教育、全国拠点をまたいだ集合研修の工夫について解説する。]]></summary>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【アドオン紹介】Mesh Blend – オブジェクト同士の接着面を作成！]]></title>
+        <id>https://cgbox.jp/?p=64058</id>
+        <link href="https://cgbox.jp/2025/09/04/news-addon-mesh-blend/"/>
+        <updated>2025-09-04T00:40:14.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは！ 今回はアドオンの「Mesh Blend」を紹介します。 こちらのリンクがアドオンの商品ページになります。 Mesh Blend 「Mesh Blend」は、あるオブジェクトが別のオブジェクトに押し付けられた […]]]></summary>
+        <author>
+            <name>kasahara</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NVIDIAが3DGS技術「LongSplat」発表！　スマホで撮影したカジュアルな動画から空間の3DGSモデルを生成し、自由な視点の映像をつくり出す - ニュース]]></title>
+        <id>https://cgworld.jp/flashnews/01-202509-LongSplat.html</id>
+        <link href="https://cgworld.jp/flashnews/01-202509-LongSplat.html"/>
+        <updated>2025-09-03T23:49:05.000Z</updated>
+        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[サブスタンス3DペインターでPBRの基礎学習。問題はきっかけとモチベーション]]></title>
+        <id>https://note.com/tsukasa_yamato/n/nb7f3124864a5</id>
+        <link href="https://note.com/tsukasa_yamato/n/nb7f3124864a5"/>
+        <updated>2025-09-03T15:39:07.000Z</updated>
+        <summary type="html"><![CDATA[サブスタンス3Dペインター（Substance 3D Painter）の基本学習が終わった。ほぼ基本は全て押さえられたと思う。結構時間がかかったが、それなりに楽しかった。Rhino 3Dみたいにストレスフルではなかった。Udemy講師の腕が良かったことが一番大きい。
+さて、疲れ果てたのでブログに専門日記を書く気力もなく。なのでnoteでサラッと書きたいことだけを完結に。今日こそはサラッと書く。
+続きをみる]]></summary>
+        <author>
+            <name>#substancepainterタグ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Curtain Maker Pro 数クリックでプロシージャルなカーテンを作成出来る無料アドオン]]></title>
         <id>https://modelinghappy.com/?p=64402</id>
@@ -4702,110 +4744,6 @@ Google DeepMindがインタラクティブな世界を生成可能な汎用ワ�
 続きをみる]]></summary>
         <author>
             <name>#substancepainterタグ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Houdini初級メモ　建物の外壁①]]></title>
-        <id>https://note.com/hachikobo/n/n44aea7130e02</id>
-        <link href="https://note.com/hachikobo/n/n44aea7130e02"/>
-        <updated>2025-08-05T11:55:58.000Z</updated>
-        <summary type="html"><![CDATA[Parametric Modering（パラメトリックモデリング）
-Procedual Modering（プロシージャルモデリング）
-頂点を追加して、結んだ線を押し出し→建物外壁の底面を作る方法。
-続きをみる]]></summary>
-        <author>
-            <name>#Houdiniタグ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ComfyUI、Wan2.2 FLF2Vのネイティブサポートを発表！開始・終了フレームからのビデオ生成が可能に]]></title>
-        <id>https://cginterest.com/?p=48503</id>
-        <link href="https://cginterest.com/2025/08/05/comfyui%e3%80%81wan2-2-flf2v%e3%81%ae%e3%83%8d%e3%82%a4%e3%83%86%e3%82%a3%e3%83%96%e3%82%b5%e3%83%9d%e3%83%bc%e3%83%88%e3%82%92%e7%99%ba%e8%a1%a8%ef%bc%81%e9%96%8b%e5%a7%8b%e3%83%bb%e7%b5%82%e4%ba%86/"/>
-        <updated>2025-08-05T08:56:46.000Z</updated>
-        <summary type="html"><![CDATA[2025年8月3日（現地時間）- AI画像・ビデオ生成ツールであるComfyUIは、最新のアップデートで「Wan2.2 FLF2V」モデルのネイティブサポートを開始したことを発表しました。 ComfyUIがFLF2Vをネ […]
-ComfyUI、Wan2.2 FLF2Vのネイティブサポートを発表！開始・終了フレームからのビデオ生成が可能に first appeared on CGinterest.]]></summary>
-        <author>
-            <name>.me</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BASSDRUM清水幹太氏、欧州発・空間体験スタジオ「jangled nerves」の日本法人代表に就任！ - ニュース]]></title>
-        <id>https://cgworld.jp/flashnews/02-2508-jangled-nerves.html</id>
-        <link href="https://cgworld.jp/flashnews/02-2508-jangled-nerves.html"/>
-        <updated>2025-08-05T07:30:49.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[被写界深度 と 空気遠近法 で描く『A Small Fish in the Ocean』]]></title>
-        <id>https://3dtotal.jp/?p=52423</id>
-        <link href="https://3dtotal.jp/tutorials/52423/"/>
-        <updated>2025-08-05T06:31:25.000Z</updated>
-        <summary type="html"><![CDATA[イラストレーター Gregor Kari氏 が Photoshop で 独自のクマノミを制作。スケッチから彩色までのプロセスを解説します。さらに、空気遠近法 と 被写界深度 の重要性について説明します。 はじめに 水中の […]
-The post 被写界深度 と 空気遠近法 で描く『A Small Fish in the Ocean』 first appeared on 3dtotal 日本語オフィシャルサイト.]]></summary>
-        <author>
-            <name>3dtotal管理人T</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Maxon 社員が教える：Cinema 4D の魅力と可能性]]></title>
-        <id>https://3dtotal.jp/?p=52457</id>
-        <link href="https://3dtotal.jp/tutorials/52457/"/>
-        <updated>2025-08-05T04:28:33.000Z</updated>
-        <summary type="html"><![CDATA[★Maxon 社員が教える：Cinema 4D の魅力と可能性（29分47秒） このビデオでは、入社後に Cinema 4D を学んだ Maxon のスタッフが、初心者時代の経験を活かして、MoGraph の魅力やシミュ […]
-The post Maxon 社員が教える：Cinema 4D の魅力と可能性 first appeared on 3dtotal 日本語オフィシャルサイト.]]></summary>
-        <author>
-            <name>3dtotal管理人T</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Blenderで「スカイエイ」を主役にした3Dアニメ制作に挑む｜b3dコンテスト企画挑戦記<その1>]]></title>
-        <id>https://zenn.dev/tkagawa/articles/d213ae6246f19a</id>
-        <link href="https://zenn.dev/tkagawa/articles/d213ae6246f19a"/>
-        <updated>2025-08-05T03:37:34.000Z</updated>
-        <summary type="html"><![CDATA[1.はじめに：b3dコンテストに応募しようと思った理由
-
- 応募のきっかけ（コンテスト概要、挑戦の目的）
-Blenderユーザー限定の3DCG作品コンテスト「b3d創作祭」(https://cgworld.jp/flashnews/b3d-3025.html)に応募しようと思います。
-今回、b3dコンテストに応募しようと思ったのは、
-「Blenderを使って自分のアイデアを形にし、映像作品として発表してみたい」という思いがあったからです。
-3Dアニメーション制作は、これまで自分にとっては、どこか“専門的でハードルの高い世界”だと感じていました。
-しかし、無料で本格的な3D制作ができ...]]></summary>
-        <author>
-            <name>TKAGAWA</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[『リヴァイアサン』美術の最前線【第2回】：作品を支える3D美術の3種の手法 - 特集]]></title>
-        <id>https://cgworld.jp/article/202508-leviathan-2.html</id>
-        <link href="https://cgworld.jp/article/202508-leviathan-2.html"/>
-        <updated>2025-08-05T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[関連記事 ・『リヴァイアサン』美術の最前線【第1回】：オレンジ社内に新設された...]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[次バージョン 21 の新機能は!? Houdini 21 のスニークピーク映像]]></title>
-        <id>https://3dtotal.jp/?p=52448</id>
-        <link href="https://3dtotal.jp/news/52448/"/>
-        <updated>2025-08-05T01:41:33.000Z</updated>
-        <summary type="html"><![CDATA[★Houdini 21 Sneak Peek（6分51秒） こちらは、Houdini 21 に搭載される新機能のプレビューです! 8月11日からバンクーバーで開催される SIGGRAPH 2025 の基調講演、HIVEプ […]
-The post 次バージョン 21 の新機能は!? Houdini 21 のスニークピーク映像 first appeared on 3dtotal 日本語オフィシャルサイト.]]></summary>
-        <author>
-            <name>3dtotal管理人T</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【アドオン紹介】Shape Key Smoother – シェイプキーで頂点スムーズ！]]></title>
-        <id>https://cgbox.jp/?p=63897</id>
-        <link href="https://cgbox.jp/2025/08/05/news-addon-shape-key-smoother/"/>
-        <updated>2025-08-05T00:49:36.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは！ 今回はアドオンの「」を紹介します。 こちらのリンクがアドオンの商品ページになります。 Shape Key Smoother 「Shape Key Smoother」は、Blenderのシェイプキー編集をより […]]]></summary>
-        <author>
-            <name>kasahara</name>
         </author>
     </entry>
 </feed>

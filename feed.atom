@@ -2,10 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-09-06T03:19:56.643Z</updated>
+    <updated>2025-09-06T08:11:45.692Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[HLSLシェーダーの魔導書 第1章まとめ：CPU・GPUとレンダリング基礎]]></title>
+        <id>https://qiita.com/T4kumin/items/71de2dea94f162ebf0c6</id>
+        <link href="https://qiita.com/T4kumin/items/71de2dea94f162ebf0c6"/>
+        <updated>2025-09-06T07:55:59.000Z</updated>
+        <summary type="html"><![CDATA[今回は、HLSLシェーダーの魔導書について学習の記録を残していきます。
+
+CPUとGPU
+CPUはキャラクターの移動や音楽の再生など、ゲーム進行に必要な処理を行います。
+GPUはCPUからの指示を受けて画面描画を行う。描画は高速で行う必要があるため、多数のコアを扱いま...]]></summary>
+        <author>
+            <name>Shaderタグが付けられた新着記事 - Qiita</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[3Dスキャンアプリ KIRI Engine 4.0 がリリース！写真スキャンの高速化、新しい AR モード、AI 搭載 PBR など]]></title>
         <id>https://cginterest.com/?p=50223</id>
@@ -4761,16 +4775,6 @@ AMD、Unreal Engine 5向け「TressFX 5.0」の提供を開始！ first appeared
 続きをみる]]></summary>
         <author>
             <name>#substancepainterタグ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[SD]Normal ＆ Curvature]]></title>
-        <id>https://note.com/rozen_cg/n/n39da1ee28aa3</id>
-        <link href="https://note.com/rozen_cg/n/n39da1ee28aa3"/>
-        <updated>2025-08-07T15:34:19.000Z</updated>
-        <summary type="html"><![CDATA[続きをみる]]></summary>
-        <author>
-            <name>#SubstanceDesignerタグ</name>
         </author>
     </entry>
 </feed>

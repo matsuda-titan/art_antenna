@@ -3089,6 +3089,16 @@
       "siteUrl": "https://qiita.com",
       "articles": [
         {
+          "id": "https://qiita.com/T4kumin/items/71de2dea94f162ebf0c6",
+          "author": null,
+          "description": "今回は、HLSLシェーダーの魔導書について学習の記録を残していきます。\n\nCPUとGPU\nCPUはキャラクターの移動や音楽の再生など、ゲーム進行に必要な処理を行います。\nGPUはCPUからの指示を受けて画面描画を行う。描画は高速で行う必要があるため、多数のコアを扱いま...",
+          "link": "https://qiita.com/T4kumin/items/71de2dea94f162ebf0c6",
+          "publishedOn": "2025-09-06T07:55:59.000Z",
+          "wordCount": 858,
+          "title": "HLSLシェーダーの魔導書 第1章まとめ：CPU・GPUとレンダリング基礎",
+          "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnFpaXRhLWltYWdlLXN0b3JlLnMzLmFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkYwJTJGMTU1MDk2MiUyRnByb2ZpbGUtaW1hZ2VzJTJGMTc1MjI5NzA5Nj9peGxpYj1yYi00LjAuMCZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9ZmQ1NWMwYTFiOWNlM2Q5ZjI4NzFjOWNmZDdiMTE4N2Q%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D7b204fda6e011fe0e4e0d2ffb9a62f2e?ixlib=rb-4.0.0&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9SExTTCVFMyU4MiVCNyVFMyU4MiVBNyVFMyU4MyVCQyVFMyU4MyU4MCVFMyU4MyVCQyVFMyU4MSVBRSVFOSVBRCU5NCVFNSVCMCU4RSVFNiU5QiVCOCUyMCVFNyVBQyVBQzElRTclQUIlQTAlRTMlODElQkUlRTMlODElQTglRTMlODIlODElRUYlQkMlOUFDUFUlRTMlODMlQkJHUFUlRTMlODElQTglRTMlODMlQUMlRTMlODMlQjMlRTMlODMlODAlRTMlODMlQUElRTMlODMlQjMlRTMlODIlQjAlRTUlOUYlQkElRTclQTQlOEUmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz03MTc4NDVjZDVlNTFiNDUxOTE5MDg3YzI1ZjM4YzI2NQ&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBUNGt1bWluJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9MGZkZjQ4OGQyZGMzNTBmZWY5YTE0ZWMzY2E0NzYwODM&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=c1860caec06970a104127bb55101ec42"
+        },
+        {
           "id": "https://qiita.com/ono-honeycomb/items/7796d61d7c443c57d9bf",
           "author": null,
           "description": "AIにプログラミングさせて、そのコードをランタイムで実行したいですよね\nでも、簡単にエラーのコードを返してきますよね\nエラーのないコードをくださいっていうのも信用できません\nプロンプトを工夫するのもいいですが、AIにエラーを修正させるのはどうなんだろう\n\n今回やってみたこ...",
@@ -3656,16 +3666,6 @@
           "wordCount": 2590,
           "title": "SDでフローマップを自作する",
           "imageUrl": "https://assets.st-note.com/production/uploads/images/209539009/rectangle_large_type_2_a5c8b86d5d1f28b8a1b348fc34b30fda.jpeg?width=800"
-        },
-        {
-          "id": "https://note.com/rozen_cg/n/n39da1ee28aa3",
-          "author": null,
-          "description": "続きをみる",
-          "link": "https://note.com/rozen_cg/n/n39da1ee28aa3",
-          "publishedOn": "2025-08-07T15:34:19.000Z",
-          "wordCount": 2331,
-          "title": "[SD]Normal ＆ Curvature",
-          "imageUrl": "https://d2l930y2yx77uc.cloudfront.net/production/social_images/50b7477b5efb791892235bcd5103f0ddcec43191.png"
         }
       ]
     },

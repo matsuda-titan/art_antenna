@@ -2,10 +2,84 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-09-05T12:19:46.557Z</updated>
+    <updated>2025-09-06T00:47:48.846Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[個人的にHoudini21の最大のメリットはこれかも、本格採用されたVulkanって何かご存知ですか？]]></title>
+        <id>https://note.com/polymorph_design/n/nc972717468f9</id>
+        <link href="https://note.com/polymorph_design/n/nc972717468f9"/>
+        <updated>2025-09-06T00:13:39.000Z</updated>
+        <summary type="html"><![CDATA[私も今日知りました。OpenGLを置き換える新世代リアルタイムレンダリングAPIがVulkanです。
+
+Vulkanとは
+Vulkanとは、完全な制御機能を必要とする開発者に、GPUの直接アクセスを提供する低レベルAPIです。よりシンプルかつスリムなドライバを採用したVulkanでは、従来のOpenGLやDirect3Dに比べ、レイテンシとオーバーヘッドが抑えられています。また、効率的なマルチスレッド機能も搭載されているので、マルチコアCPUでグラフィックス・パイプラインのロードを維持できるようになり、既存のハードウェアから新たなレベルのパフォーマンスを引き出すことが可能になります。
+Vulkanは、クロスプラットフォームの、初の新世代・低レベルAPIです。Vulkanによって、開発者は、各種のオペレーティング システムを使用するさまざまなPC、モバイル・デバイス、埋め込みデバイスに対応するアプリケーションを開発できるようになります。OpenGLと同様、Vulkanは、どのプラットフォームでも採用できる、オープンでロイヤルティ・フリーの業界標準です。OpenGLやOpenGL ESを使い続けることを希望される開発者のために、NVIDIAは、こうした従来のAPIに基づくイノベーションの促進にも引き続き取り組みます。
+
+NVidiaホームページより引用
+続きをみる]]></summary>
+        <author>
+            <name>#Houdiniタグ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ZBrush内でAIを活用して一枚の画像から深度マップを生成して利用できるZBrushプラグイン「ZDepth」]]></title>
+        <id>https://cginterest.com/?p=50222</id>
+        <link href="https://cginterest.com/2025/09/06/zbrush%e5%86%85%e3%81%a7ai%e3%82%92%e6%b4%bb%e7%94%a8%e3%81%97%e3%81%a6%e4%b8%80%e6%9e%9a%e3%81%ae%e7%94%bb%e5%83%8f%e3%81%8b%e3%82%89%e6%b7%b1%e5%ba%a6%e3%83%9e%e3%83%83%e3%83%97%e3%82%92%e7%94%9f/"/>
+        <updated>2025-09-06T00:10:40.000Z</updated>
+        <summary type="html"><![CDATA[ZM Polygon によるZBrush用のプラグイン「ZDepth」の紹介です。 ZM Polygon とは 「ZDepth」は、AIを活用し、インポートまたはペーストした一枚の画像から、自動的に高品質な深度マップ（デ […]
+ZBrush内でAIを活用して一枚の画像から深度マップを生成して利用できるZBrushプラグイン「ZDepth」 first appeared on CGinterest.]]></summary>
+        <author>
+            <name>.me</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【アドオン紹介】Alt Tab Easy Decals – デカール加工を効率化！]]></title>
+        <id>https://cgbox.jp/?p=64068</id>
+        <link href="https://cgbox.jp/2025/09/06/news-addon-alt-tab-easy-decals/"/>
+        <updated>2025-09-05T23:29:36.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは！ 今回はアドオンの「Alt Tab Easy Decals」を紹介します。 こちらのリンクがアドオンの商品ページになります。 Alt Tab Easy Decals 「Alt Tab Easy Decals」 […]]]></summary>
+        <author>
+            <name>kasahara</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PBRマテリアルをセルシェーディングで表現できるかテストしてみた]]></title>
+        <id>https://note.com/tsukasa_yamato/n/nb40a93e3c46a</id>
+        <link href="https://note.com/tsukasa_yamato/n/nb40a93e3c46a"/>
+        <updated>2025-09-05T20:01:03.000Z</updated>
+        <summary type="html"><![CDATA[昨日作ったPBRマテリアルの消化器をUE5上でセルシェーディングにしてみた。果たして満足のいく表現になるのか？今回はnote日記なので技術的な解説ではなくて「こんな絵が手に入りました」という報告のみ。
+（約 2,000文字の記事です。）
+続きをみる]]></summary>
+        <author>
+            <name>#substancepainterタグ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Houdini21.0がリリースされた！]]></title>
+        <id>https://note.com/tachikure/n/nbced6cd38531</id>
+        <link href="https://note.com/tachikure/n/nbced6cd38531"/>
+        <updated>2025-09-05T13:39:58.000Z</updated>
+        <summary type="html"><![CDATA[2025年8月27日、ついにHoudini21.0がリリースされた。
+早速リリース初日からインストールして使っている。
+Houdiniをまともに勉強し出してから日の浅い初心者である自分にとって、
+アップデートによって追加された多くの新機能は、「なんか凄そう」という感想が出てくるばかりで、活用できるとしてもかなり先のことになりそうだ。
+続きをみる]]></summary>
+        <author>
+            <name>#Houdiniタグ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Instance Damage System v2.0 - インスタンス化されたスタティックメッシュとのインタラクションを可能にするUnreal Engine 5向けプラグイン！]]></title>
+        <id>https://3dnchu.com/?p=1058122</id>
+        <link href="https://3dnchu.com/archives/instance-damage-system-v2-0/"/>
+        <updated>2025-09-05T13:30:07.000Z</updated>
+        <summary type="html"><![CDATA[Adiによる、スタティックメッシュインスタンスに「ダメージ表現」などを追加できるプラグイン「Instance Damage System v2.0」のご紹介！ダメージを受けたインスタンスを置き換え物理挙動を実行させたり、再スポーンさせたりといった仕組みを簡単に導入できます。]]></summary>
+        <author>
+            <name>Ymt3D -3dnchu-</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[C++ Generator - C++のスニペットやマクロ、アクターやクラスを自動作成可能な開発支援ツールプラグイン！]]></title>
         <id>https://3dnchu.com/?p=1058105</id>
@@ -4675,108 +4749,6 @@ AMD、Unreal Engine 5向け「TressFX 5.0」の提供を開始！ first appeared
         <summary type="html"><![CDATA[続きをみる]]></summary>
         <author>
             <name>#SubstanceDesignerタグ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CGWORLD27周年記念 特大プレゼント企画 - アンケートに答えて豪華プレゼント企画に応募しよう！締切は2025年8月8日（金）午前10時まで！]]></title>
-        <id>https://3dnchu.com/?p=1057246</id>
-        <link href="https://3dnchu.com/archives/cgworld-27th-present/"/>
-        <updated>2025-08-07T12:28:50.000Z</updated>
-        <summary type="html"><![CDATA[CGWORLDが27周年記念の特大プレゼント企画を実施中！「CGWORLD27周年記念 特大プレゼント企画」の応募締切は2025年8月8日（金）のAM10:00までです！]]></summary>
-        <author>
-            <name>Ymt3D -3dnchu-</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Adobe Express に新機能「コンビニプリント」が登場！全国のコンビニで手軽に印刷可能に！]]></title>
-        <id>https://cginterest.com/?p=48608</id>
-        <link href="https://cginterest.com/2025/08/07/adobe-express-%e3%81%ab%e6%96%b0%e6%a9%9f%e8%83%bd%e3%80%8c%e3%82%b3%e3%83%b3%e3%83%93%e3%83%8b%e3%83%97%e3%83%aa%e3%83%b3%e3%83%88%e3%80%8d%e3%81%8c%e7%99%bb%e5%a0%b4%ef%bc%81%e5%85%a8%e5%9b%bd/"/>
-        <updated>2025-08-07T06:11:02.000Z</updated>
-        <summary type="html"><![CDATA[2025年8月7日 – Adobe は、は、同社が提供するデザインツール「Adobe Express」において、作成したデザインを全国の主要なコンビニエンスストアで手軽に印刷できる新機能「コンビニプリント」の […]
-Adobe Express に新機能「コンビニプリント」が登場！全国のコンビニで手軽に印刷可能に！ first appeared on CGinterest.]]></summary>
-        <author>
-            <name>.me</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[8/30（土）東京にて開催予定の「ゲームメーカーズ スクランブル2025」講演情報＆タイムテーブルを公開！ - ニュース]]></title>
-        <id>https://cgworld.jp/flashnews/02-2508-gamemakers-25.html</id>
-        <link href="https://cgworld.jp/flashnews/02-2508-gamemakers-25.html"/>
-        <updated>2025-08-07T05:21:05.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DCコミックスの人気シリーズを映像化。『サンドマン』シーズン2 の VFXブレイクダウン映像]]></title>
-        <id>https://3dtotal.jp/?p=52468</id>
-        <link href="https://3dtotal.jp/news/52468/"/>
-        <updated>2025-08-07T05:10:01.000Z</updated>
-        <summary type="html"><![CDATA[★The Sandman S2 VOL 1 VFX Breakdown（1分16秒） 『サンドマン』シーズン2 ボリューム1 の超現実的な世界へようこそ。この 高い評価を受けた Netflixシリーズ での制作過程を、独 […]
-The post DCコミックスの人気シリーズを映像化。『サンドマン』シーズン2 の VFXブレイクダウン映像 first appeared on 3dtotal 日本語オフィシャルサイト.]]></summary>
-        <author>
-            <name>3dtotal管理人T</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3ds Max：プラグイン活用で表現の幅を拡げよう！ 第7回：3ds Maxでレイアウトして tyDiffusionでAI生成をしてみよう！]]></title>
-        <id>https://area.autodesk.jp/column/tutorial/3ds-max-plugin/07-3ds-max-tydiffusion-ai/</id>
-        <link href="https://area.autodesk.jp/column/tutorial/3ds-max-plugin/07-3ds-max-tydiffusion-ai/"/>
-        <updated>2025-08-07T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[世の中はAI生成に関して様々なアプローチや手法が行われてますね！実は3ds Max内でもAI生成出来るのをご存じでしたか！？私の連載記事の第1回から活用しているtyFlowをインストールするだけで作成することができます！その名もtyDiffusion！まずは実験動画を作成したのでご覧ください！・・・]]></summary>
-        <author>
-            <name>AREA JAPAN | Autodesk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[『Origami』金森 慧氏とStudio Wrong青松洸司氏が登壇。2周年を迎え大規模開催となった「クリエイターズHUB v2.00」 - 特集]]></title>
-        <id>https://cgworld.jp/article/202508-creatorshub.html</id>
-        <link href="https://cgworld.jp/article/202508-creatorshub.html"/>
-        <updated>2025-08-07T02:30:00.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【EXPO 2025】WOWによる洗練されたビジュアルデザインが、大阪・関西万博にも華を添える。『BLUE OCEAN DOME』＆『null²』 - 特集]]></title>
-        <id>https://cgworld.jp/article/202508-EXPO2025-WOW.html</id>
-        <link href="https://cgworld.jp/article/202508-EXPO2025-WOW.html"/>
-        <updated>2025-08-07T02:17:00.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[テンセント、オープンソースの世界モデル「Hunyuan3D World Model 1.0」リリース！　文章や画像から没入型・インタラクティブな3Dワールドを生成 - ニュース]]></title>
-        <id>https://cgworld.jp/flashnews/01-202508-HunyuanWorld.html</id>
-        <link href="https://cgworld.jp/flashnews/01-202508-HunyuanWorld.html"/>
-        <updated>2025-08-07T01:12:46.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Maya 2026.2 リリース]]></title>
-        <id>https://area.autodesk.jp/information/maya-2026-2/</id>
-        <link href="https://area.autodesk.jp/information/maya-2026-2/"/>
-        <updated>2025-08-07T00:58:24.000Z</updated>
-        <summary type="html"><![CDATA[Autodesk Maya 2026.2 がリリースされました。MotionMaker がアップデートされ、エディタ配置保存・ラインカラー設定・ホットキーのカスタマイズが可能になりました。LookdevX 1.9.0 for Maya では、MaterialXノードのプレビュー機能が追加され、外部ファイルとのリンクを保持した編集が可能になりました。USD for Maya 0.33 は USD 24.11／25.05 の両方に対応し、ライト・カメラのアニメーションカーブの入出力が可能になりました。Arnold MtoA 5.5.3 で VDBポイントデータのレンダリングや、GPUによるトゥーンシェーダと輪郭フィルタのサポートが追加されました。・・・]]></summary>
-        <author>
-            <name>AREA JAPAN | Autodesk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3ds Max 2026.2 リリース]]></title>
-        <id>https://area.autodesk.jp/information/3ds-max-2026-2/</id>
-        <link href="https://area.autodesk.jp/information/3ds-max-2026-2/"/>
-        <updated>2025-08-07T00:54:13.000Z</updated>
-        <summary type="html"><![CDATA[3ds Max 2026.2 がリリースされました。このリリースには、USD for 3ds MaxやArnoldの更新が含まれます。新機能情報の詳細はヘルプドキュメントの「3ds Max 2026.2 Update の新機能」からご確認いただけます。その他修正された項目、並びに既知の問題はリリースノートをご確認ください。・・・]]></summary>
-        <author>
-            <name>AREA JAPAN | Autodesk</name>
         </author>
     </entry>
 </feed>

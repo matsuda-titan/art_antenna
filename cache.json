@@ -1049,6 +1049,16 @@
       "siteUrl": "https://cgworld.jp/",
       "articles": [
         {
+          "id": "https://cgworld.jp/flashnews/02-2509-autodesk-flow-studio.html",
+          "author": null,
+          "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
+          "link": "https://cgworld.jp/flashnews/02-2509-autodesk-flow-studio.html",
+          "publishedOn": "2025-09-08T02:52:34.000Z",
+          "wordCount": 725,
+          "title": "Autodeskが9/29（月）「はじめてのFlow Studio ウェビナー」を開催－映像からキャラクターモーションを取得できるAIツールを解説 - ニュース",
+          "imageUrl": "https://cgworld.jp/flashnews/assets_c/2025/09/2509_autodesk_Main_Image-thumb-1000x563-73653.jpg"
+        },
+        {
           "id": "https://cgworld.jp/regular/111-tokunaga.html",
           "author": null,
           "description": "Lola Visual Effectsで働く德永修久氏の海外就業ストーリー。",
@@ -1952,6 +1962,16 @@
       "feedUrl": "https://modelinghappy.com/feed",
       "siteUrl": "https://modelinghappy.com",
       "articles": [
+        {
+          "id": "https://modelinghappy.com/?p=64479",
+          "author": "modelinghappy",
+          "description": "FS Rope Swinging System FS Rope Swinging Systemは、アンチャーテッド風のロープでぶら下がって移動するゲームプレイをプロジェクトに簡単追加できるアセットです。 指定したフックポ\nThe post FS Rope Swinging System – Unityでアンチャーテッド風のロープ移動を追加できるアセットが無料配布中 first appeared on 3DCG最新情報サイト MODELING HAPPY.",
+          "link": "https://modelinghappy.com/archives/64479",
+          "publishedOn": "2025-09-08T06:10:41.000Z",
+          "wordCount": 3760,
+          "title": "FS Rope Swinging System – Unityでアンチャーテッド風のロープ移動を追加できるアセットが無料配布中",
+          "imageUrl": "https://modelinghappy.com/wp-content/uploads/2025/09/20250908_FS_Rope_Swinging_System_01.jpg"
+        },
         {
           "id": "https://modelinghappy.com/?p=64474",
           "author": "modelinghappy",
@@ -3579,16 +3599,6 @@
           "wordCount": 2754,
           "title": "Lab空間とクラスタリングで画像を色分けする",
           "imageUrl": "https://assets.st-note.com/production/uploads/images/207664499/rectangle_large_type_2_8471942504a2ce223661b522e76dcb18.png?width=800"
-        },
-        {
-          "id": "https://note.com/cute_hound3582/n/n1d635811c4dd",
-          "author": null,
-          "description": "【破壊の手法】\n破壊をする時には何かしらの力を加えるのですが、力の加え方を３種類紹介したいと思います。具体的には以下の３種類です。\n【01：物理的な衝突】\n実際に決まった物が当たって壊れるというシチュエーションならこれで問題ありません。ただし内部からの爆発や老朽化による崩れなどはHoudiniで仮のオブジェクトをぶつけてしまうと望んでいない破片の衝突が見えてしまいます。\n【02：Dop内でのForce】\nForceは加速度です。なので老朽化など徐々に力が加わるというシチュエーションにむいています。ただしDOP内でForceを置いていくのですが感覚的にどう力が加わるのかが少し分かりにくい気がします。\n【03：SopでCustomVelocity】\nVelocityは均等な力です。一気に内部から強い力が加わる場合はこの手法が適しています。VelocityはSopで置いていくので感覚的にもとても分かりやすいのと、ゲームの破壊は一気にバーンと壊すことが多いので個人的にこの手法を多用しています。\n続きをみる",
-          "link": "https://note.com/cute_hound3582/n/n1d635811c4dd",
-          "publishedOn": "2025-08-09T15:37:35.000Z",
-          "wordCount": 2299,
-          "title": "Houdini : 破壊の手法3種",
-          "imageUrl": "https://assets.st-note.com/production/uploads/images/207479335/rectangle_large_type_2_5d1b7bb53320039ff58ff5330c84a04c.jpeg?width=800"
         }
       ]
     },

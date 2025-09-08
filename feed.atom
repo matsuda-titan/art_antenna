@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-09-08T03:33:19.683Z</updated>
+    <updated>2025-09-08T08:15:27.585Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[FS Rope Swinging System – Unityでアンチャーテッド風のロープ移動を追加できるアセットが無料配布中]]></title>
+        <id>https://modelinghappy.com/?p=64479</id>
+        <link href="https://modelinghappy.com/archives/64479"/>
+        <updated>2025-09-08T06:10:41.000Z</updated>
+        <summary type="html"><![CDATA[FS Rope Swinging System FS Rope Swinging Systemは、アンチャーテッド風のロープでぶら下がって移動するゲームプレイをプロジェクトに簡単追加できるアセットです。 指定したフックポ
+The post FS Rope Swinging System – Unityでアンチャーテッド風のロープ移動を追加できるアセットが無料配布中 first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
+        <author>
+            <name>modelinghappy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Autodeskが9/29（月）「はじめてのFlow Studio ウェビナー」を開催－映像からキャラクターモーションを取得できるAIツールを解説 - ニュース]]></title>
+        <id>https://cgworld.jp/flashnews/02-2509-autodesk-flow-studio.html</id>
+        <link href="https://cgworld.jp/flashnews/02-2509-autodesk-flow-studio.html"/>
+        <updated>2025-09-08T02:52:34.000Z</updated>
+        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[「訪れたチャンスは必ず逃さないことが大切」旅先で就業オファーを得て、当選確率5倍以上の抽選を突破し就労ビザを取得！ 第111回：德永修久（Flame Compositor / Lola Visual Effects） - 連載]]></title>
         <id>https://cgworld.jp/regular/111-tokunaga.html</id>
@@ -4525,24 +4546,6 @@ Autodesk ...]]></summary>
         <summary type="html"><![CDATA[こんばんは！ 今回はアセットの「」を紹介します。 こちらのリンクがアセットの商品ページになります。 Terrain Library 「Terrain Library」は、300種類以上のランドスケープライブラリ。 様々な […]]]></summary>
         <author>
             <name>kasahara</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Houdini : 破壊の手法3種]]></title>
-        <id>https://note.com/cute_hound3582/n/n1d635811c4dd</id>
-        <link href="https://note.com/cute_hound3582/n/n1d635811c4dd"/>
-        <updated>2025-08-09T15:37:35.000Z</updated>
-        <summary type="html"><![CDATA[【破壊の手法】
-破壊をする時には何かしらの力を加えるのですが、力の加え方を３種類紹介したいと思います。具体的には以下の３種類です。
-【01：物理的な衝突】
-実際に決まった物が当たって壊れるというシチュエーションならこれで問題ありません。ただし内部からの爆発や老朽化による崩れなどはHoudiniで仮のオブジェクトをぶつけてしまうと望んでいない破片の衝突が見えてしまいます。
-【02：Dop内でのForce】
-Forceは加速度です。なので老朽化など徐々に力が加わるというシチュエーションにむいています。ただしDOP内でForceを置いていくのですが感覚的にどう力が加わるのかが少し分かりにくい気がします。
-【03：SopでCustomVelocity】
-Velocityは均等な力です。一気に内部から強い力が加わる場合はこの手法が適しています。VelocityはSopで置いていくので感覚的にもとても分かりやすいのと、ゲームの破壊は一気にバーンと壊すことが多いので個人的にこの手法を多用しています。
-続きをみる]]></summary>
-        <author>
-            <name>#Houdiniタグ</name>
         </author>
     </entry>
 </feed>

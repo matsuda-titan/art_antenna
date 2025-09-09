@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-09-08T12:21:32.852Z</updated>
+    <updated>2025-09-09T00:50:12.612Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[2025年度 技術科学エミー賞の受賞者が発表！Boris FX Continuum の開発者らが受賞！]]></title>
+        <id>https://cginterest.com/?p=50318</id>
+        <link href="https://cginterest.com/2025/09/09/2025%e5%b9%b4%e5%ba%a6-%e6%8a%80%e8%a1%93%e7%a7%91%e5%ad%a6%e3%82%a8%e3%83%9f%e3%83%bc%e8%b3%9e%e3%81%ae%e5%8f%97%e8%b3%9e%e8%80%85%e3%81%8c%e7%99%ba%e8%a1%a8%ef%bc%81boris-fx-continuum%e3%81%8c/"/>
+        <updated>2025-09-08T22:37:00.000Z</updated>
+        <summary type="html"><![CDATA[2025年9月2日（現地時間）- テレビジョン・アカデミーは、放送技術の発展に貢献した個人、企業、または団体を称える2025年度の技術科学エミー賞 (Engineering, Science & Technolo […]
+2025年度 技術科学エミー賞の受賞者が発表！Boris FX Continuum の開発者らが受賞！ first appeared on CGinterest.]]></summary>
+        <author>
+            <name>.me</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[1枚の画像からシームレスなバンプ、ノーマル、デプスマップを生成できるBlenderアドオン「Shader Shaper」]]></title>
         <id>https://cginterest.com/?p=50264</id>
@@ -4503,49 +4514,6 @@ Reallusion、ComfyUIと連携する iClone＆Character Creator プラグイン�
         <summary type="html"><![CDATA[四角形のオブジェクトの角を取得したい場合は、各ポイント（頂点）に隣接しているポイントの数を調べることで判別できます。 例えば、2x4（Row=2, Col=3）のポイント構成で作られた四角形を考えると、隣接するポイントの […]]]></summary>
         <author>
             <name>ringosan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lab空間とクラスタリングで画像を色分けする]]></title>
-        <id>https://note.com/thesaurus/n/ncc14823b8b2b</id>
-        <link href="https://note.com/thesaurus/n/ncc14823b8b2b"/>
-        <updated>2025-08-10T12:16:39.000Z</updated>
-        <summary type="html"><![CDATA[X（旧Twitter）で「画像から家具の色を決める」という実験の投稿を見かけ、興味を持ったので自分でも試してみました。やってみると知らなかったことが多く、まだ納得しきれていない部分もありますが、ひとまず現時点の結果をまとめておきます。
-画像を読み込み、頂点カラー化する
-続きをみる]]></summary>
-        <author>
-            <name>#Houdiniタグ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🛠 技ノート｜布マテリアル × カメラ調整 × レンダリング実践]]></title>
-        <id>https://note.com/juntominaga/n/nb8d8929386a1</id>
-        <link href="https://note.com/juntominaga/n/nb8d8929386a1"/>
-        <updated>2025-08-10T04:36:44.000Z</updated>
-        <summary type="html"><![CDATA[Unreal Engine × 建築ビジュアライゼーション
-🎯 今回の目標
-続きをみる]]></summary>
-        <author>
-            <name>#substancepainterタグ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MayaでPythonを使ってみよう！④～繰り返し処理～]]></title>
-        <id>https://zenn.dev/kazinos/articles/d0d835599f6788</id>
-        <link href="https://zenn.dev/kazinos/articles/d0d835599f6788"/>
-        <updated>2025-08-10T02:36:50.000Z</updated>
-        <summary type="html"><![CDATA[こんにちはkazinosです。
-前回は条件分岐（if文）の解説と簡単な例題を解説しました。
-今回の記事で紹介する繰り返し処理　for文は似たような処理を何度も実行したいときに使用される記法です。
-if文と今回紹介するfor文はMayaの操作に関わらずどんな処理をする上でも必要な基礎知識なので、しっかりと覚えておきましょう！
-▼前回の記事「MayaでPythonを使ってみよう！③～条件分岐～」
-https://zenn.dev/kazinos/articles/0d0d20e9e52551
-今回は、「特定の処理を繰り返し行う方法」について執筆したいと思います。
-
- 環境
-Autodesk ...]]></summary>
-        <author>
-            <name>kazinos</name>
         </author>
     </entry>
 </feed>

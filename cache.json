@@ -402,6 +402,21 @@
       "siteUrl": "https://3dnchu.com",
       "articles": [
         {
+          "id": "https://3dnchu.com/?p=1058182",
+          "author": "Ymt3D -3dnchu-",
+          "description": "架空のカーカスタムデザインなどを公開しているZephyr Designzが初のBlender制作タイムラプス動画を公開しました！",
+          "link": "https://3dnchu.com/archives/zephyr-designz-turning-the-toyota-mr2/",
+          "publishedOn": "2025-09-10T00:33:34.000Z",
+          "wordCount": 8947,
+          "title": "Turning the Toyota MR2 into a MODERN CLASSIC - 架空のカーカスタムデザインなどを公開しているZephyr Designzが初のBlender制作タイムラプス動画を公開！",
+          "enclosure": {
+            "url": "https://3dnchu.com/wp-content/uploads/turning-the-toyota-mr2-into-a-mo.jpg",
+            "length": "52538",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://3dnchu.com/wp-content/uploads/turning-the-toyota-mr2-into-a-mo.jpg"
+        },
+        {
           "id": "https://3dnchu.com/?p=1058122",
           "author": "Ymt3D -3dnchu-",
           "description": "Adiによる、スタティックメッシュインスタンスに「ダメージ表現」などを追加できるプラグイン「Instance Damage System v2.0」のご紹介！ダメージを受けたインスタンスを置き換え物理挙動を実行させたり、再スポーンさせたりといった仕組みを簡単に導入できます。",
@@ -1030,21 +1045,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "https://3dnchu.com/wp-content/uploads/BANG.webp"
-        },
-        {
-          "id": "https://3dnchu.com/?p=1057341",
-          "author": "Ymt3D -3dnchu-",
-          "description": "株式会社セガ 協力、紀平拓男 氏著書の、初心者向けゲームプログラミング入門「わかる！ ぷよぷよプログラミング SEGA公式ガイドブック」が2025年8月8日に販売されました！",
-          "link": "https://3dnchu.com/archives/puyopuyo-pg-guidebook/",
-          "publishedOn": "2025-08-11T02:25:32.000Z",
-          "wordCount": 9026,
-          "title": "わかる！ ぷよぷよプログラミング SEGA公式ガイドブック - ブラウザ環境＆JavaScript＆Monaca Educationでゲーム開発を学ぶ入門書が登場！「ぷよぷよプログラミング 2.0」のソースコードを全文掲載！",
-          "enclosure": {
-            "url": "https://3dnchu.com/wp-content/uploads/puyopuyo-pg-guidebook-small.gif",
-            "length": "743699",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://3dnchu.com/wp-content/uploads/puyopuyo-pg-guidebook-small.gif"
         }
       ]
     },
@@ -1053,6 +1053,16 @@
       "feedUrl": "https://cgworld.jp/atom.xml",
       "siteUrl": "https://cgworld.jp/",
       "articles": [
+        {
+          "id": "https://cgworld.jp/flashnews/01-202509-Strandbeest-Blender.html",
+          "author": null,
+          "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
+          "link": "https://cgworld.jp/flashnews/01-202509-Strandbeest-Blender.html",
+          "publishedOn": "2025-09-10T00:16:39.000Z",
+          "wordCount": 752,
+          "title": "テオ・ヤンセン『Strandbeest』の動きをBlenderのリギングで再現！　DemNikoArt氏がチュートリアルをYouTubeで公開 - ニュース",
+          "imageUrl": "https://cgworld.jp/flashnews/assets_c/2025/09/Strandbeest-01-thumb-1280x720-73720.jpg"
+        },
         {
           "id": "https://cgworld.jp/flashnews/03-2509-pixel-pixel.html",
           "author": null,
@@ -2903,6 +2913,21 @@
       "siteUrl": "https://zenn.dev/topics/3dcg",
       "articles": [
         {
+          "id": "https://zenn.dev/tkagawa/articles/716ede76ba5190",
+          "author": "TKAGAWA",
+          "description": "AIで3Dモデルを作るときに気をつけたい「商用利用」の観点と実体験\n最近は Tripo Studio や Meshy、Shap-E などのAIツールで、テキストや画像から手軽に3Dモデルを作れるようになりました。ただ、実際に仕事やコンテスト応募に使うとなると「商用利用できるのか？」という問題に直面します。\nこの記事では、私がオリジナルの「Sky Ray（空を飛ぶエイのようなクリーチャー）」を作る過程で調べ、実際に試したことをまとめます。\n\n\n 各ツールとライセンスの特徴\n\n Shap-E（OpenAI）\n\nMITライセンスで公開\n商用利用可能\n無料で自由度高いが、出力品質は研究段階...",
+          "link": "https://zenn.dev/tkagawa/articles/716ede76ba5190",
+          "publishedOn": "2025-09-09T13:03:35.000Z",
+          "wordCount": 560,
+          "title": "Blenderで「スカイエイ」を主役にした3Dアニメ制作に挑む｜b3dコンテスト企画挑戦<その3>",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--fJ9TbPCd--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Blender%25E3%2581%25A7%25E3%2580%258C%25E3%2582%25B9%25E3%2582%25AB%25E3%2582%25A4%25E3%2582%25A8%25E3%2582%25A4%25E3%2580%258D%25E3%2582%2592%25E4%25B8%25BB%25E5%25BD%25B9%25E3%2581%25AB%25E3%2581%2597%25E3%2581%259F3D%25E3%2582%25A2%25E3%2583%258B%25E3%2583%25A1%25E5%2588%25B6%25E4%25BD%259C%25E3%2581%25AB%25E6%258C%2591%25E3%2582%2580%25EF%25BD%259Cb3d%25E3%2582%25B3%25E3%2583%25B3%25E3%2583%2586%25E3%2582%25B9%25E3%2583%2588%25E4%25BC%2581%25E7%2594%25BB%25E6%258C%2591%25E6%2588%25A6%253C%25E3%2581%259D%25E3%2581%25AE3%253E%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:TKAGAWA%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jSmItNzBTcWtSV0lHT2NDd1pMa05ocjBHamo0YlRBWmZWa1Vhamk0dnJKYXlualBnPXM5Ni1j%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png",
+            "length": "0",
+            "type": "image/png"
+          },
+          "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--fJ9TbPCd--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Blender%25E3%2581%25A7%25E3%2580%258C%25E3%2582%25B9%25E3%2582%25AB%25E3%2582%25A4%25E3%2582%25A8%25E3%2582%25A4%25E3%2580%258D%25E3%2582%2592%25E4%25B8%25BB%25E5%25BD%25B9%25E3%2581%25AB%25E3%2581%2597%25E3%2581%259F3D%25E3%2582%25A2%25E3%2583%258B%25E3%2583%25A1%25E5%2588%25B6%25E4%25BD%259C%25E3%2581%25AB%25E6%258C%2591%25E3%2582%2580%25EF%25BD%259Cb3d%25E3%2582%25B3%25E3%2583%25B3%25E3%2583%2586%25E3%2582%25B9%25E3%2583%2588%25E4%25BC%2581%25E7%2594%25BB%25E6%258C%2591%25E6%2588%25A6%253C%25E3%2581%259D%25E3%2581%25AE3%253E%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:TKAGAWA%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jSmItNzBTcWtSV0lHT2NDd1pMa05ocjBHamo0YlRBWmZWa1Vhamk0dnJKYXlualBnPXM5Ni1j%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
+        },
+        {
           "id": "https://zenn.dev/tachikure/articles/cd0f78ab392c0a",
           "author": "たちくれ",
           "description": "Houdiniでは様々なレンダラを使用することができる。\nここでは標準搭載されている、Mantraを使った方法とKarmaを使った方法を記載する。\n\n Mantraによるレンダリングの一例\nジオメトリ、カメラ、ライト、マテリアル、レンダラ(ROP)を作成/設定すればいい。\n\n ジオメトリ\nobj階層でGeometryノードを作成する。\n\n\n 　\nSOP階層(Geometry内部)で好きなようにモデリングする。\n出力したいノードにレンダーフラグを立てる(レンダーフラグが立っていない場合はディスプレイフラグが立っているノードがレンダリングされる)。\n\n\n カメラ\nobj階層でCam...",
@@ -2931,21 +2956,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--binGMWic--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:CG%25E3%2582%25BD%25E3%2583%2595%25E3%2583%2588%25E3%2581%2594%25E3%2581%25A8%25E3%2581%25AE%25E8%25A1%258C%25E5%2588%2597%2528matrix%2529%25E3%2581%25AE%25E9%2581%2595%25E3%2581%2584%2528%25E8%25A1%258C%25E5%2584%25AA%25E5%2585%2588%252F%25E5%2588%2597%25E5%2584%25AA%25E5%2585%2588%2529%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%259F%25E3%2581%25A1%25E3%2581%258F%25E3%2582%258C%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzQwZjczMjE1OTcuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
-        },
-        {
-          "id": "https://zenn.dev/tkagawa/articles/104566fb7a7eec",
-          "author": "TKAGAWA",
-          "description": "<その1>では、主人公のスカイエイについて紹介しました。\n本記事では、スカイエイが登場する舞台について、紹介します。\n\n 1.『エアリアル・シンフォニー』の世界観\n**『エアリアル・シンフォニー』は、空を泳ぐ未来生物スカイエイ（Sky Ray）**たちが、\n音楽とともに空を舞うファンタジーアニメーションです。\n\n 2.舞台設定\n物語の舞台は、西暦3025年。\n地上は気候変動の影響で荒廃し、多くの都市は雲の上に浮かぶ空中都市へと移りました。\nその広大な空域を優雅に舞うのが、今回の主役であるスカイエイたちです。\n空は、濃い群青色から朝焼けのオレンジへと変化し、\n雲海は音楽のリズ...",
-          "link": "https://zenn.dev/tkagawa/articles/104566fb7a7eec",
-          "publishedOn": "2025-08-11T07:23:06.000Z",
-          "wordCount": null,
-          "title": "Blenderで「スカイエイ」を主役にした3Dアニメ制作に挑む｜b3dコンテスト企画挑戦記<その2>",
-          "enclosure": {
-            "url": "https://res.cloudinary.com/zenn/image/upload/s--3q-NHF7J--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Blender%25E3%2581%25A7%25E3%2580%258C%25E3%2582%25B9%25E3%2582%25AB%25E3%2582%25A4%25E3%2582%25A8%25E3%2582%25A4%25E3%2580%258D%25E3%2582%2592%25E4%25B8%25BB%25E5%25BD%25B9%25E3%2581%25AB%25E3%2581%2597%25E3%2581%259F3D%25E3%2582%25A2%25E3%2583%258B%25E3%2583%25A1%25E5%2588%25B6%25E4%25BD%259C%25E3%2581%25AB%25E6%258C%2591%25E3%2582%2580%25EF%25BD%259Cb3d%25E3%2582%25B3%25E3%2583%25B3%25E3%2583%2586%25E3%2582%25B9%25E3%2583%2588%25E4%25BC%2581%25E7%2594%25BB%25E6%258C%2591%25E6%2588%25A6%25E8%25A8%2598%253C%25E3%2581%259D%25E3%2581%25AE2%253E%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:TKAGAWA%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jSmItNzBTcWtSV0lHT2NDd1pMa05ocjBHamo0YlRBWmZWa1Vhamk0dnJKYXlualBnPXM5Ni1j%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png",
-            "length": "0",
-            "type": "image/png"
-          },
-          "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--3q-NHF7J--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Blender%25E3%2581%25A7%25E3%2580%258C%25E3%2582%25B9%25E3%2582%25AB%25E3%2582%25A4%25E3%2582%25A8%25E3%2582%25A4%25E3%2580%258D%25E3%2582%2592%25E4%25B8%25BB%25E5%25BD%25B9%25E3%2581%25AB%25E3%2581%2597%25E3%2581%259F3D%25E3%2582%25A2%25E3%2583%258B%25E3%2583%25A1%25E5%2588%25B6%25E4%25BD%259C%25E3%2581%25AB%25E6%258C%2591%25E3%2582%2580%25EF%25BD%259Cb3d%25E3%2582%25B3%25E3%2583%25B3%25E3%2583%2586%25E3%2582%25B9%25E3%2583%2588%25E4%25BC%2581%25E7%2594%25BB%25E6%258C%2591%25E6%2588%25A6%25E8%25A8%2598%253C%25E3%2581%259D%25E3%2581%25AE2%253E%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:TKAGAWA%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jSmItNzBTcWtSV0lHT2NDd1pMa05ocjBHamo0YlRBWmZWa1Vhamk0dnJKYXlualBnPXM5Ni1j%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
         }
       ]
     },
@@ -3078,6 +3088,16 @@
       "feedUrl": "https://qiita.com/tags/shader/feed",
       "siteUrl": "https://qiita.com",
       "articles": [
+        {
+          "id": "https://qiita.com/T4kumin/items/a8d30b0cd0a8df9d14c4",
+          "author": null,
+          "description": "DirectX7.1以前のレンダリングパイプライン\n\nDirectX7.1以前のレンダリングパイプラインでは、CPUがDrawCallを実行したら、GPUが動きだします。上の図のように。頂点バッファーから頂点を取得し、座標変換、ラスタライズ、ピクセルのカラー決定の流れで処...",
+          "link": "https://qiita.com/T4kumin/items/a8d30b0cd0a8df9d14c4",
+          "publishedOn": "2025-09-09T15:19:28.000Z",
+          "wordCount": 1537,
+          "title": "HLSLシェーダーの魔導書 第2章まとめ:はじめてのシェーダー",
+          "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnFpaXRhLWltYWdlLXN0b3JlLnMzLmFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkYwJTJGMTU1MDk2MiUyRnByb2ZpbGUtaW1hZ2VzJTJGMTc1MjI5NzA5Nj9peGxpYj1yYi00LjAuMCZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9ZmQ1NWMwYTFiOWNlM2Q5ZjI4NzFjOWNmZDdiMTE4N2Q%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D7b204fda6e011fe0e4e0d2ffb9a62f2e?ixlib=rb-4.0.0&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9SExTTCVFMyU4MiVCNyVFMyU4MiVBNyVFMyU4MyVCQyVFMyU4MyU4MCVFMyU4MyVCQyVFMyU4MSVBRSVFOSVBRCU5NCVFNSVCMCU4RSVFNiU5QiVCOCUyMCVFNyVBQyVBQzIlRTclQUIlQTAlRTMlODElQkUlRTMlODElQTglRTMlODIlODElM0ElRTMlODElQUYlRTMlODElOTglRTMlODIlODElRTMlODElQTYlRTMlODElQUUlRTMlODIlQjclRTMlODIlQTclRTMlODMlQkMlRTMlODMlODAlRTMlODMlQkMmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz00NGM2Y2ZhNWRiNzJhOWMzYzA5N2E2MWIyZDlhZDk1Mg&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBUNGt1bWluJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9MGZkZjQ4OGQyZGMzNTBmZWY5YTE0ZWMzY2E0NzYwODM&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=c4b434d63dd95c5efd4b86ec2886a502"
+        },
         {
           "id": "https://qiita.com/T4kumin/items/71de2dea94f162ebf0c6",
           "author": null,
@@ -3665,6 +3685,16 @@
       "siteUrl": "https://note.com/hashtag/substancepainter",
       "articles": [
         {
+          "id": "https://note.com/0_blender/n/nff77560c1dfc",
+          "author": null,
+          "description": "着物の袖の柄をサブスタで塗っていきます\n続きをみる",
+          "link": "https://note.com/0_blender/n/nff77560c1dfc",
+          "publishedOn": "2025-09-09T13:17:56.000Z",
+          "wordCount": 2551,
+          "title": "サブスタンスペインターでイラストルックなテクスチャを塗ってみよう",
+          "imageUrl": "https://assets.st-note.com/production/uploads/images/214253223/rectangle_large_type_2_c4e30b5d6010d2bc65916debc9ee8869.png?width=800"
+        },
+        {
           "id": "https://note.com/creatorsaki_vlog/n/n8864b09f2c08",
           "author": null,
           "description": "卒業制作が終わって、過去の作品を見直して修正しようと思い、現在部屋の制作をしています。\nテクスチャはまだ何もしていません。UV展開後Substance Painterで作成する予定です。\n続きをみる",
@@ -3868,6 +3898,16 @@
       "siteUrl": "https://3d.crdg.jp/env/",
       "articles": [
         {
+          "id": "https://3d.crdg.jp/env/?p=7993",
+          "author": "Antonov.Ivan",
+          "description": "初めに 現代のゲーム開発において、スキャンマテリアルを活用することは、リアリズムや本物らしさを実現するための強力な近道となっています。Megascan […]\n続きを読む\n投稿 【Substance Designer】スキャンマテリアル改造:カスタムなハイトマップで個性を加える は エンホリ - ENVIRONMENT HOLIC｜C&R Creative Studios に最初に表示されました。",
+          "link": "https://3d.crdg.jp/env/2025/09/09/7993/?utm_source=rss&utm_medium=rss&utm_campaign=substance-designer-material-warp",
+          "publishedOn": "2025-09-09T12:20:18.000Z",
+          "wordCount": 3415,
+          "title": "【Substance Designer】スキャンマテリアル改造:カスタムなハイトマップで個性を加える",
+          "imageUrl": "https://3d.crdg.jp/env/wp-content/uploads/2025/08/00_Cover.jpg"
+        },
+        {
           "id": "https://3d.crdg.jp/env/?p=8272",
           "author": "Akito.Yamakawa",
           "description": "今回は、Mayaと同じ回転軸にする方法をご紹介します。 画面右側のY軸回転を押すだけです。 XYZ軸から途中で変更した場合は、Y軸を押した後にフレーム […]\n続きを読む\n投稿 【ZBrush】Mayaと同じ回転軸にする方法。 は エンホリ - ENVIRONMENT HOLIC｜C&R Creative Studios に最初に表示されました。",
@@ -3944,6 +3984,16 @@
       "feedUrl": "https://cginterest.com/feed/",
       "siteUrl": "https://cginterest.com",
       "articles": [
+        {
+          "id": "https://cginterest.com/?p=50355",
+          "author": ".me",
+          "description": "期間限定で無料となっているEpicのマーケットプレイスFABの無料コンテンツの紹介です。 Epic Games の統合マーケットプレイスFABでは、クリエイターとのパートナーシップによって、2週間ごとに選ばれたコンテンツ […]\n【期間限定無料】2025年9月24日までの FAB 無料コンテンツをチェック！ first appeared on CGinterest.",
+          "link": "https://cginterest.com/2025/09/10/%e3%80%90%e6%9c%9f%e9%96%93%e9%99%90%e5%ae%9a%e7%84%a1%e6%96%99%e3%80%912025%e5%b9%b49%e6%9c%8824%e6%97%a5%e3%81%be%e3%81%a7%e3%81%ae-fab-%e7%84%a1%e6%96%99%e3%82%b3%e3%83%b3%e3%83%86%e3%83%b3/",
+          "publishedOn": "2025-09-09T22:32:00.000Z",
+          "wordCount": 1490,
+          "title": "【期間限定無料】2025年9月24日までの FAB 無料コンテンツをチェック！",
+          "imageUrl": "https://cginterest.com/wp-content/uploads/2025/09/FABfreecontet0910.webp"
+        },
         {
           "id": "https://cginterest.com/?p=50300",
           "author": ".me",
@@ -4743,31 +4793,6 @@
           "wordCount": 731,
           "title": "MetaHuman for Maya プラグインがアップデート！Pose Editor が搭載！",
           "imageUrl": "https://cginterest.com/wp-content/uploads/2025/08/20250811_metahumanformaya-poseeditor.webp"
-        },
-        {
-          "id": "https://cginterest.com/?p=48803",
-          "author": ".me",
-          "description": "2025年8月4日（現地時間）- 2Dおよび3Dアニメーションソフトウェア開発するReallusionは創立25周年迎えました。この大きな節目を迎え、新しいAIを活用した新しいツールや新しいポリシーを発表しました。注目は […]\nReallusion、ComfyUIと連携する iClone＆Character Creator プラグイン「AI Render」のオープンベータ版を発表！ first appeared on CGinterest.",
-          "link": "https://cginterest.com/2025/08/11/reallusion%e3%80%81comfyui%e3%81%a8%e9%80%a3%e6%90%ba%e3%81%99%e3%82%8b-iclone%ef%bc%86character-creator-%e3%83%97%e3%83%a9%e3%82%b0%e3%82%a4%e3%83%b3%e3%80%8cai-render%e3%80%8d%e3%81%ae%e3%82%aa/",
-          "publishedOn": "2025-08-11T07:35:16.000Z",
-          "wordCount": 914,
-          "title": "Reallusion、ComfyUIと連携する iClone＆Character Creator プラグイン「AI Render」のオープンベータ版を発表！",
-          "enclosure": {
-            "url": "https://cginterest.com/wp-content/uploads/2025/08/20250811_reallusion-airender_preset.mp4",
-            "length": "1896894",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://cginterest.com/wp-content/uploads/2025/08/20250811_reallusion-airender.webp"
-        },
-        {
-          "id": "https://cginterest.com/?p=48796",
-          "author": ".me",
-          "description": "2025年8月7日（現地時間）- Khronos Group、Open Geospatial Consortium (OGC)、Niantic Spatial、Cesium (Bentley)、Esriといった地理空間情 […]\n「3D Gaussian Splats」が3DアセットフォーマットglTF標準に統合へ first appeared on CGinterest.",
-          "link": "https://cginterest.com/2025/08/11/%e3%80%8c3d-gaussian-splats%e3%80%8d%e3%81%8c3d%e3%82%a2%e3%82%bb%e3%83%83%e3%83%88%e3%83%95%e3%82%a9%e3%83%bc%e3%83%9e%e3%83%83%e3%83%88gltf%e6%a8%99%e6%ba%96%e3%81%ab%e7%b5%b1%e5%90%88%e3%81%b8/",
-          "publishedOn": "2025-08-11T02:14:02.000Z",
-          "wordCount": 693,
-          "title": "「3D Gaussian Splats」が3DアセットフォーマットglTF標準に統合へ",
-          "imageUrl": "https://cginterest.com/wp-content/uploads/2025/08/20250811_khronos-ogc-and-geospatial-leaders-add-3d-gaussian-splats-to-the-gltf-asset-standard.webp"
         }
       ]
     }

@@ -2,10 +2,54 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-09-13T12:17:23.891Z</updated>
+    <updated>2025-09-14T00:53:19.280Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[自然にオブジェクトを散らすことができるBlender用の物理ベースのスキャタリングツール「Drop Cast」]]></title>
+        <id>https://cginterest.com/?p=50517</id>
+        <link href="https://cginterest.com/2025/09/14/%e8%87%aa%e7%84%b6%e3%81%ab%e3%82%aa%e3%83%96%e3%82%b8%e3%82%a7%e3%82%af%e3%83%88%e3%82%92%e6%95%a3%e3%82%89%e3%81%99%e3%81%93%e3%81%a8%e3%81%8c%e3%81%a7%e3%81%8d%e3%82%8bblender%e7%94%a8%e3%81%ae/"/>
+        <updated>2025-09-14T00:01:00.000Z</updated>
+        <summary type="html"><![CDATA[Casey_Sheep 氏によるBlender 用アドオン「Drop Cast」の紹介です。 Drop Cast とは Drop Castは、物理演算を使用してオブジェクトを落として配置することができるBlender用の […]
+自然にオブジェクトを散らすことができるBlender用の物理ベースのスキャタリングツール「Drop Cast」 first appeared on CGinterest.]]></summary>
+        <author>
+            <name>.me</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HLSLシェーダーの魔導書 第3章まとめ:シェーダープログラミングの基本]]></title>
+        <id>https://qiita.com/T4kumin/items/e04555a2c628918e2f66</id>
+        <link href="https://qiita.com/T4kumin/items/e04555a2c628918e2f66"/>
+        <updated>2025-09-13T16:36:36.000Z</updated>
+        <summary type="html"><![CDATA[座標変換
+
+◇行列とベクトルの乗算
+ベクトルに行列を乗算すると、別の空間に変換することが出来るので、頂点座標変換は、行列とベクトルの乗算で表現できる。
+ゲームをスクリーンに表示するには、3つの行列が必要になる
+
+ワールド行列
+カメラ行列
+透視変換行列
+
+学習書籍では、変換...]]></summary>
+        <author>
+            <name>Shaderタグが付けられた新着記事 - Qiita</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【Houdini】KINEFX/APEXリグ導入①【チュートリアル分解】]]></title>
+        <id>https://note.com/makeinufilm/n/n6e3dc339993f</id>
+        <link href="https://note.com/makeinufilm/n/n6e3dc339993f"/>
+        <updated>2025-09-13T12:54:36.000Z</updated>
+        <summary type="html"><![CDATA[※未完成の記事です
+Introduction into KINEFX/APEX | SideFX
+最近houdiniが難し楽しすぎて禿げてるので、あらゆる分野のhoudiniに必要な要素をnoteにまとめてみようと思う
+続きをみる]]></summary>
+        <author>
+            <name>#Houdiniタグ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Drop Cast v1.0 - お手軽で多機能な物理ベースの散布ツールBlenderアドオンが登場！]]></title>
         <id>https://3dnchu.com/?p=1058249</id>
@@ -4360,136 +4404,6 @@ https://godofsuama.hatenablog.com/entry/2021/01/14/100000
 続きをみる]]></summary>
         <author>
             <name>#Houdiniタグ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Blenderでのワールド構築のための物理ベースのスキャッタリングツール「ScatterFlow」]]></title>
-        <id>https://cginterest.com/?p=49024</id>
-        <link href="https://cginterest.com/2025/08/15/blender%e3%81%a7%e3%81%ae%e3%83%af%e3%83%bc%e3%83%ab%e3%83%89%e6%a7%8b%e7%af%89%e3%81%ae%e3%81%9f%e3%82%81%e3%81%ae%e7%89%a9%e7%90%86%e3%83%99%e3%83%bc%e3%82%b9%e3%81%ae%e3%82%b9%e3%82%ad%e3%83%a3/"/>
-        <updated>2025-08-15T08:22:00.000Z</updated>
-        <summary type="html"><![CDATA[Apex Assets（旧TRB Assets）によるBlenderアドオン「ScatterFlow」の紹介です。 ScatterFlowとは ScatterFlow は、ワールドビルディングのために設計された物理ベース […]
-Blenderでのワールド構築のための物理ベースのスキャッタリングツール「ScatterFlow」 first appeared on CGinterest.]]></summary>
-        <author>
-            <name>.me</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【アドオン紹介】Tree Vegetation V6 – 老舗プラントライブラリーがアップデート]]></title>
-        <id>https://cgbox.jp/?p=63944</id>
-        <link href="https://cgbox.jp/2025/08/15/news-addon-tree-vegetation-v6/"/>
-        <updated>2025-08-15T07:53:55.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは！ 今回はアドオンの「Tree Vegetation V6」を紹介します。 こちらのリンクがアドオンの商品ページになります。 Tree Vegetation V6 「Tree Vegetation V6」は、高 […]]]></summary>
-        <author>
-            <name>kasahara</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI を駆使して驚異的な VFXを作成。Autodesk Flow Studio の機能紹介ムービー]]></title>
-        <id>https://3dtotal.jp/?p=52622</id>
-        <link href="https://3dtotal.jp/news/52622/"/>
-        <updated>2025-08-15T07:17:14.000Z</updated>
-        <summary type="html"><![CDATA[★Autodesk Flow Studio（1分8秒） Autodesk Flow Studio（旧 Wonder Studio）は、AI を搭載したクラウドベースの 3Dツールセットです。複雑な設定を行う必要もなく、ラ […]
-The post AI を駆使して驚異的な VFXを作成。Autodesk Flow Studio の機能紹介ムービー first appeared on 3dtotal 日本語オフィシャルサイト.]]></summary>
-        <author>
-            <name>3dtotal管理人T</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[無料オンラインイベント「Intel Boot Up 」8/28（木）開催決定。『銀河特急 ミルキー☆サブウェイ』監督 亀山陽平氏、khaki 横原大和氏など、異業種のクリエイターが集い、制作ノウハウを紹介 - ニュース]]></title>
-        <id>https://cgworld.jp/flashnews/02-2508-intel-boot-up.html</id>
-        <link href="https://cgworld.jp/flashnews/02-2508-intel-boot-up.html"/>
-        <updated>2025-08-15T05:24:09.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meta、自己教師あり学習（SSL）を用いた汎用ビジョンモデル「DINOv3」を発表！]]></title>
-        <id>https://cginterest.com/?p=49044</id>
-        <link href="https://cginterest.com/2025/08/15/meta%e3%80%81%e8%87%aa%e5%b7%b1%e6%95%99%e5%b8%ab%e3%81%82%e3%82%8a%e5%ad%a6%e7%bf%92%ef%bc%88ssl%ef%bc%89%e3%82%92%e7%94%a8%e3%81%84%e3%81%9f%e6%b1%8e%e7%94%a8%e3%83%93%e3%82%b8%e3%83%a7%e3%83%b3/"/>
-        <updated>2025-08-15T04:45:00.000Z</updated>
-        <summary type="html"><![CDATA[2025年8月14日（現地時間）- Meta FAIR（Fundamental AI Research） は、汎用画像認識モデル「DINOv3」を発表しました。 SSLのみで学習した汎用ビジョンモデル「DINOv3」 自 […]
-Meta、自己教師あり学習（SSL）を用いた汎用ビジョンモデル「DINOv3」を発表！ first appeared on CGinterest.]]></summary>
-        <author>
-            <name>.me</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[リュック・ベッソン監督のドラキュラ。映画『Dracula : A Love Tale』のVFXブレイクダウン映像]]></title>
-        <id>https://3dtotal.jp/?p=52619</id>
-        <link href="https://3dtotal.jp/news/52619/"/>
-        <updated>2025-08-15T03:49:13.000Z</updated>
-        <summary type="html"><![CDATA[★Dracula : A Love Tale VFX Breakdown（51秒/ 制作：Rodeo FX） 不死の王子が真の愛を探し求める。リュック・ベッソン監督の最新作『Dracula : A Love Tale』の […]
-The post リュック・ベッソン監督のドラキュラ。映画『Dracula : A Love Tale』のVFXブレイクダウン映像 first appeared on 3dtotal 日本語オフィシャルサイト.]]></summary>
-        <author>
-            <name>3dtotal管理人T</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[初代「ジュラシック・パーク」の世界に。ゲーム『ジュラシック・パーク：サバイバル』のメイキング映像]]></title>
-        <id>https://3dtotal.jp/?p=52616</id>
-        <link href="https://3dtotal.jp/news/52616/"/>
-        <updated>2025-08-15T03:44:51.000Z</updated>
-        <summary type="html"><![CDATA[★Jurassic Park: Survival | Behind-The-Scenes Featurette（5分55秒） Saber Interactive、ユニバーサル・ピクチャーズ、Univerrsal Prod […]
-The post 初代「ジュラシック・パーク」の世界に。ゲーム『ジュラシック・パーク：サバイバル』のメイキング映像 first appeared on 3dtotal 日本語オフィシャルサイト.]]></summary>
-        <author>
-            <name>3dtotal管理人T</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3Dペイントツール MARI 入門：Mari in Minutes（※英語ムービー）]]></title>
-        <id>https://3dtotal.jp/?p=52193</id>
-        <link href="https://3dtotal.jp/tutorials/52193/"/>
-        <updated>2025-08-15T03:40:34.000Z</updated>
-        <summary type="html"><![CDATA[★01 テクスチャ入門：Lesson 1: Introduction to textures（1分40秒） VFXやアニメーションにおけるテクスチャペインティングの旅を始めましょう。「テクスチャとは何か」「なぜ重要なのか […]
-The post 3Dペイントツール MARI 入門：Mari in Minutes（※英語ムービー） first appeared on 3dtotal 日本語オフィシャルサイト.]]></summary>
-        <author>
-            <name>3dtotal管理人T</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[デジタル・フロンティアへの行き方（渋谷駅から）]]></title>
-        <id>https://note.com/dftalk/n/ndcdd381966fe</id>
-        <link href="https://note.com/dftalk/n/ndcdd381966fe"/>
-        <updated>2025-08-15T03:00:01.000Z</updated>
-        <summary type="html"><![CDATA[デジタル・フロンティアへお越しになる方のために、渋谷駅からの道順を写真付きでご案内します。
-はじめての方でも迷わず来られるよう、分かりやすくご説明します。
-
-
-続きをみる]]></summary>
-        <author>
-            <name>DF TALK</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Revopoint Trackit Review - マーカー不要の光学トラッキング式3Dスキャナーを使ってみたよ！CAMPFIREでのオトクな早期予約は8月15日まで！]]></title>
-        <id>https://3dnchu.com/?p=1057310</id>
-        <link href="https://3dnchu.com/archives/revopoint-trackit-review/"/>
-        <updated>2025-08-15T02:56:23.000Z</updated>
-        <summary type="html"><![CDATA[日本では7月1日にCAMPFIREにて予約受け付けスタートしたRevopointの新型光学トラッキング式3Dスキャナー「Trackit」をご提供いただきましたのでレビューいたします！早期早割は8月15日まで！]]></summary>
-        <author>
-            <name>Ymt3D -3dnchu-</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Blenderを使いアニメ調の部屋を作るチュートリアル動画がWingfoxで販売開始！]]></title>
-        <id>https://modelinghappy.com/?p=64169</id>
-        <link href="https://modelinghappy.com/archives/64169"/>
-        <updated>2025-08-15T01:50:38.000Z</updated>
-        <summary type="html"><![CDATA[Create an Anime-Stylized Room in Blender 世界中のチュートリアル動画を販売しているWingfoxのサイトで、Blenderを使いアニメ風の部屋を作るチュートリアル動画が販売開始され
-The post Blenderを使いアニメ調の部屋を作るチュートリアル動画がWingfoxで販売開始！ first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
-        <author>
-            <name>modelinghappy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【Illustrator 2025】裁ち落としのガイドまでオブジェクトを自動で拡張できる「裁ち落としを印刷」と「生成拡張」 - 連載]]></title>
-        <id>https://cgworld.jp/regular/202508-tipsnote.html</id>
-        <link href="https://cgworld.jp/regular/202508-tipsnote.html"/>
-        <updated>2025-08-15T01:00:25.000Z</updated>
-        <author>
-            <name>CGWORLD</name>
         </author>
     </entry>
 </feed>

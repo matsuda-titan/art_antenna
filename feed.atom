@@ -2,10 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-09-15T00:53:27.568Z</updated>
+    <updated>2025-09-15T03:34:10.502Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[OSとは？WebGLのレンダリングフローの理解まで①]]></title>
+        <id>https://zenn.dev/ycode/articles/06c27b660cc2cf</id>
+        <link href="https://zenn.dev/ycode/articles/06c27b660cc2cf"/>
+        <updated>2025-09-15T00:04:26.000Z</updated>
+        <summary type="html"><![CDATA[執筆理由
+こんにちは、フロントエンドのyです。
+WebGL難しいですね...。
+glslは1行のコードを解読するのに数時間かかることもあります。
+JavaScriptの処理は直列で実行されるのに対して、glslは並列で実行される言語なので頂点やフラグメントが一斉に動きます。
+JavaScriptの直列の処理、glslの並列の処理の2つを考慮して実装にあたらなければなりません。
+それに加えて内積、外積などの線形代数の理解も必須です。
+骨が折れるとはこのことですね...
+これらを抑えた実装者はそう多くはいないのではないでしょうか。
+それゆえWebGLは他の実装者との大きな差別化となり、実...]]></summary>
+        <author>
+            <name>y</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AIによる長尺動画生成技術「Mixture of Contexts」発表！　関連性の高い文脈（コンテキスト）を動的に選択することで低コストで1分超の動画生成を実現 - ニュース]]></title>
         <id>https://cgworld.jp/flashnews/01-202509-MixtureOfContexts.html</id>

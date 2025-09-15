@@ -3075,6 +3075,21 @@
       "siteUrl": "https://zenn.dev/topics/glsl",
       "articles": [
         {
+          "id": "https://zenn.dev/ycode/articles/06c27b660cc2cf",
+          "author": "y",
+          "description": "執筆理由\nこんにちは、フロントエンドのyです。\nWebGL難しいですね...。\nglslは1行のコードを解読するのに数時間かかることもあります。\nJavaScriptの処理は直列で実行されるのに対して、glslは並列で実行される言語なので頂点やフラグメントが一斉に動きます。\nJavaScriptの直列の処理、glslの並列の処理の2つを考慮して実装にあたらなければなりません。\nそれに加えて内積、外積などの線形代数の理解も必須です。\n骨が折れるとはこのことですね...\nこれらを抑えた実装者はそう多くはいないのではないでしょうか。\nそれゆえWebGLは他の実装者との大きな差別化となり、実...",
+          "link": "https://zenn.dev/ycode/articles/06c27b660cc2cf",
+          "publishedOn": "2025-09-15T00:04:26.000Z",
+          "wordCount": 749,
+          "title": "OSとは？WebGLのレンダリングフローの理解まで①",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--AlkCTfwW--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:OS%25E3%2581%25A8%25E3%2581%25AF%25EF%25BC%259FWebGL%25E3%2581%25AE%25E3%2583%25AC%25E3%2583%25B3%25E3%2583%2580%25E3%2583%25AA%25E3%2583%25B3%25E3%2582%25B0%25E3%2583%2595%25E3%2583%25AD%25E3%2583%25BC%25E3%2581%25AE%25E7%2590%2586%25E8%25A7%25A3%25E3%2581%25BE%25E3%2581%25A7%25E2%2591%25A0%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:y%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2RhOGM4ZmVhNTQuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png",
+            "length": "0",
+            "type": "image/png"
+          },
+          "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--AlkCTfwW--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:OS%25E3%2581%25A8%25E3%2581%25AF%25EF%25BC%259FWebGL%25E3%2581%25AE%25E3%2583%25AC%25E3%2583%25B3%25E3%2583%2580%25E3%2583%25AA%25E3%2583%25B3%25E3%2582%25B0%25E3%2583%2595%25E3%2583%25AD%25E3%2583%25BC%25E3%2581%25AE%25E7%2590%2586%25E8%25A7%25A3%25E3%2581%25BE%25E3%2581%25A7%25E2%2591%25A0%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:y%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2RhOGM4ZmVhNTQuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
+        },
+        {
           "id": "https://zenn.dev/tkyko13/articles/c90908b5c11b41",
           "author": "おの",
           "description": "結論のソースコード\n\nlet myShader;\nlet vertCode;\nlet fragCode;\n\nfunction preload() {\n  // 頂点シェーダーは変更しないので事前に読み込む\n  vertCode = `\n    precision highp float;\n    // p5.jsのデフォルトの頂点位置属性\n    attribute vec3 aPosition;\n    void main() {\n      gl_Position = vec4(aPosition, 1.0);\n    }\n  `;\n}\n\nfunction setup() {\n ...",

@@ -373,16 +373,6 @@
           "wordCount": 14227,
           "title": "Pivot Painter入門！Houdiniで加工し、UEで動かす！",
           "imageUrl": "https://tech-art.online/wordpress/wp-content/uploads/2025/08/20250816_152443_low-485x300.jpg"
-        },
-        {
-          "id": "https://tech-art.online/?p=1986",
-          "author": "管理人",
-          "description": "HoudiniでVATを作成し、それをUnreal Engine 5（UE5）で動かすまでの流れをわかりやすく解説しています。\nVertex Animation Texture完全チュートリアル（Houdini→Unreal） first appeared on TECH ART ONLINE.",
-          "link": "https://tech-art.online/vertex-animation-texture/?utm_source=rss&utm_medium=rss&utm_campaign=vertex-animation-texture",
-          "publishedOn": "2025-08-17T09:00:00.000Z",
-          "wordCount": 14196,
-          "title": "Vertex Animation Texture完全チュートリアル（Houdini→Unreal）",
-          "imageUrl": "https://tech-art.online/wordpress/wp-content/uploads/2025/08/20250816_151116_low-485x300.jpg"
         }
       ]
     },
@@ -391,6 +381,51 @@
       "feedUrl": "https://3dnchu.com/feed/",
       "siteUrl": "https://3dnchu.com",
       "articles": [
+        {
+          "id": "https://3dnchu.com/?p=1058360",
+          "author": "Ymt3D -3dnchu-",
+          "description": "Rizom-LabはUV展開専用ツールの2025年メジャーアップデート「RizomUV 2025.0」をリリースしました！",
+          "link": "https://3dnchu.com/archives/rizomuv-2025-0/",
+          "publishedOn": "2025-09-15T15:21:01.000Z",
+          "wordCount": 8869,
+          "title": "RizomUV 2025.0 - UV展開専用ツールの2025年メジャーアップデートがリリース！GPUによる高速パッキングや多くの新機能＆改善！",
+          "enclosure": {
+            "url": "https://3dnchu.com/wp-content/uploads/RizomUV-2025.0.webp",
+            "length": "404140",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://3dnchu.com/wp-content/uploads/RizomUV-2025.0.webp"
+        },
+        {
+          "id": "https://3dnchu.com/?p=1058325",
+          "author": "Ymt3D -3dnchu-",
+          "description": "Kushiro氏がテクスチャエディタでドット絵（ピクセルアート）を描きやすくするツールを搭載したBlenderアドオン「Pixel Dot Drawer v1.0」を無料公開しました！",
+          "link": "https://3dnchu.com/archives/pixel-dot-drawer-v1-0/",
+          "publishedOn": "2025-09-15T13:26:25.000Z",
+          "wordCount": 8837,
+          "title": "Pixel Dot Drawer v1.0 - Blenderのテクスチャエディタでドット絵（ピクセルアート）を描きやすくするツールを搭載した無料アドオンを公開！",
+          "enclosure": {
+            "url": "https://3dnchu.com/wp-content/uploads/Pixel-Dot-Drawer-v1.0-small.gif",
+            "length": "314567",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://3dnchu.com/wp-content/uploads/Pixel-Dot-Drawer-v1.0-small.gif"
+        },
+        {
+          "id": "https://3dnchu.com/?p=1058334",
+          "author": "Ymt3D -3dnchu-",
+          "description": "Lazy3Dによる多彩な生物の群衆シミュレーションをシーンに追加し制御出来るBlenderアドオン「Fauna Master Pro」がリリースされました！",
+          "link": "https://3dnchu.com/archives/fauna-master-pro/",
+          "publishedOn": "2025-09-15T13:07:31.000Z",
+          "wordCount": 8771,
+          "title": "Fauna Master Pro - 1クリックで150種以上の鳥＆昆虫＆陸生動物＆魚などの生物の群衆シミュレーションをシーンに追加＆制御出来るBlenderアドオンが登場！ローンチ記念で80%OFF！",
+          "enclosure": {
+            "url": "https://3dnchu.com/wp-content/uploads/Fauna-Master-Pro.webp",
+            "length": "968624",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://3dnchu.com/wp-content/uploads/Fauna-Master-Pro.webp"
+        },
         {
           "id": "https://3dnchu.com/?p=1058286",
           "author": "Ymt3D -3dnchu-",
@@ -945,66 +980,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "https://3dnchu.com/wp-content/uploads/BeamNG-tech-Platform-Showcase.webp"
-        },
-        {
-          "id": "https://3dnchu.com/?p=1057587",
-          "author": "Ymt3D -3dnchu-",
-          "description": "DevDingDangDongによるNiagaraとBone Animation Texture (BAT)を活用した大規模群衆シミュレーション＆アニメーション用Unreal Engine 5 プラグインが「Maaass Particle」がFab上で無料公開されました！",
-          "link": "https://3dnchu.com/archives/maaass-particle/",
-          "publishedOn": "2025-08-17T07:48:30.000Z",
-          "wordCount": 8762,
-          "title": "Maaass Particle -  NiagaraとBone Animation Texture (BAT)を活用した大規模群衆シミュレーション＆アニメーション用Unreal Engine 5 プラグインが無料公開！",
-          "enclosure": {
-            "url": "https://3dnchu.com/wp-content/uploads/Maaass-Particle.webp",
-            "length": "1453476",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://3dnchu.com/wp-content/uploads/Maaass-Particle.webp"
-        },
-        {
-          "id": "https://3dnchu.com/?p=1057574",
-          "author": "Ymt3D -3dnchu-",
-          "description": "PinpointによるオーディオをGPUでリアルタイムレイトレーシングしサウンドの反射やオクルージョンを自動的に計算できるUnreal Engine 5向けプラグイン「Audio Tracing」が無料公開されました！",
-          "link": "https://3dnchu.com/archives/audio-tracing-ue5/",
-          "publishedOn": "2025-08-17T06:36:43.000Z",
-          "wordCount": 8705,
-          "title": "Audio Tracing - オーディオをGPUでリアルタイムレイトレーシングしサウンドの反射やオクルージョンを自動的に計算！より立体的な音響を実現するUnreal Engine 5向けプラグインが無料公開！",
-          "enclosure": {
-            "url": "https://3dnchu.com/wp-content/uploads/Audio-Tracing.gif",
-            "length": "224062",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://3dnchu.com/wp-content/uploads/Audio-Tracing.gif"
-        },
-        {
-          "id": "https://3dnchu.com/?p=1057563",
-          "author": "Ymt3D -3dnchu-",
-          "description": "SINGEUNSU AMPUTATION LABによるスケルタルメッシュを切断出来るUnreal Engine 5向けプラグイン「Slice SkeletalMesh」がFab上で無料公開されました！",
-          "link": "https://3dnchu.com/archives/slice-skeletalmesh/",
-          "publishedOn": "2025-08-17T05:50:48.000Z",
-          "wordCount": 8592,
-          "title": "Slice SkeletalMesh - スケルタルメッシュを切断出来るUnreal Engine 5向けプラグインが無料公開！一度のカットで2つの新しいスケルタルメッシュを生成！",
-          "enclosure": {
-            "url": "https://3dnchu.com/wp-content/uploads/Slice-SkeletalMesh-small.gif",
-            "length": "413936",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://3dnchu.com/wp-content/uploads/Slice-SkeletalMesh-small.gif"
-        },
-        {
-          "id": "https://3dnchu.com/?p=1057525",
-          "author": "Ymt3D -3dnchu-",
-          "description": "TreetyによるUnreal Engine 5向けの呼吸サウンド システムコンポーネント「Easy Breath Audio Component」がFab上で公開されており、個人ユーザーは無料で入手可能です。",
-          "link": "https://3dnchu.com/archives/easy-breath-audio-component/",
-          "publishedOn": "2025-08-17T03:11:22.000Z",
-          "wordCount": 8598,
-          "title": "Easy Breath Audio Component - Unreal Engine 5向け呼吸サウンド システムコンポーネント！個人向けは無料入手可能！",
-          "enclosure": {
-            "url": "https://3dnchu.com/wp-content/uploads/easy-breath-audio-component-unre.jpg",
-            "length": "46914",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://3dnchu.com/wp-content/uploads/easy-breath-audio-component-unre.jpg"
         }
       ]
     },
@@ -1013,6 +988,16 @@
       "feedUrl": "https://cgworld.jp/atom.xml",
       "siteUrl": "https://cgworld.jp/",
       "articles": [
+        {
+          "id": "https://cgworld.jp/flashnews/01-202509-Blender-Mouth.html",
+          "author": null,
+          "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
+          "link": "https://cgworld.jp/flashnews/01-202509-Blender-Mouth.html",
+          "publishedOn": "2025-09-15T23:51:14.000Z",
+          "wordCount": 793,
+          "title": "Blenderでプロシージャルな2D風の\"口\"のメッシュを作成！　ブーリアンモディファイアーとジオメトリノードを活用したPoole氏のチュートリアル - ニュース",
+          "imageUrl": "https://cgworld.jp/flashnews/assets_c/2025/09/BooleanMouth-01-thumb-1080x607-73886.jpg"
+        },
         {
           "id": "https://cgworld.jp/flashnews/01-202509-MixtureOfContexts.html",
           "author": null,
@@ -1926,28 +1911,7 @@
       "title": "UnPySide",
       "feedUrl": "https://unpyside.com/feed/",
       "siteUrl": "https://unpyside.com",
-      "articles": [
-        {
-          "id": "https://unpyside.com/?p=2433",
-          "author": "ringosan",
-          "description": "Houdiniで作業しているときにふと思ったのですが、シーンビューの背景色切り替えるのめんどくさくない？ というのも、Houdiniで背景色を変更する場合、シーンビュー上で ホットキー D を押して Display Op […]",
-          "link": "https://unpyside.com/blog/2025/08/17/houdini-viewport-background-hotkey/",
-          "publishedOn": "2025-08-17T01:58:40.000Z",
-          "wordCount": 4167,
-          "title": "シーンビューの背景色をすばやく切り替えたい！",
-          "imageUrl": null
-        },
-        {
-          "id": "https://unpyside.com/?p=2433",
-          "author": "ringosan",
-          "description": "Houdiniで作業しているときにふと思ったのですが、シーンビューの背景色切り替えるのめんどくさくない？ というのも、Houdiniで背景色を変更する場合、シーンビュー上で ホットキー D を押して Display Op […]",
-          "link": "https://unpyside.com/blog/2025/08/17/houdini-viewport-background-hotkey/?utm_source=rss&utm_medium=rss&utm_campaign=houdini-viewport-background-hotkey",
-          "publishedOn": "2025-08-17T01:58:40.000Z",
-          "wordCount": 4602,
-          "title": "シーンビューの背景色をすばやく切り替えたい！",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "StudioBros Tech blog | スタジオブロス テックブログ",
@@ -3764,6 +3728,26 @@
       "feedUrl": "https://cginterest.com/feed/",
       "siteUrl": "https://cginterest.com",
       "articles": [
+        {
+          "id": "https://cginterest.com/?p=50339",
+          "author": ".me",
+          "description": "先日、クリエイティブアーツエミー賞が発表され、特殊視覚効果賞の受賞者が発表されました。 今年のノミネート作品は、壮大なファンタジー世界の創造から、荒廃した近未来のリアルな描写、そして緻密なSFスリラーの世界観構築まで、多 […]\n2025年 エミー賞 特殊視覚効果賞 VFXブレイクダウン動画をチェック！ first appeared on CGinterest.",
+          "link": "https://cginterest.com/2025/09/16/2025%e5%b9%b4-%e3%82%a8%e3%83%9f%e3%83%bc%e8%b3%9e-%e7%89%b9%e6%ae%8a%e8%a6%96%e8%a6%9a%e5%8a%b9%e6%9e%9c%e8%b3%9e-vfx%e3%83%96%e3%83%ac%e3%82%a4%e3%82%af%e3%83%80%e3%82%a6%e3%83%b3%e5%8b%95%e7%94%bb/",
+          "publishedOn": "2025-09-15T23:56:00.000Z",
+          "wordCount": 1528,
+          "title": "2025年 エミー賞 特殊視覚効果賞 VFXブレイクダウン動画をチェック！",
+          "imageUrl": "https://cginterest.com/wp-content/uploads/2025/09/emmys2025vfx.webp"
+        },
+        {
+          "id": "https://cginterest.com/?p=50572",
+          "author": ".me",
+          "description": "2025年9月16日（現地時間）- 物理ベースのアニメーション制作ソフトウェア「Cascadeur」を開発するNekkiは、Epic Games社が提供する助成金プログラム「Epic MegaGrant」から5万ドルを授 […]\n物理ベースアニメーション制作ソフトウェア「Cascadeur」が、Epic MegaGrantを獲得しUE専用ライブリンクを構築へ first appeared on CGinterest.",
+          "link": "https://cginterest.com/2025/09/16/%e7%89%a9%e7%90%86%e3%83%99%e3%83%bc%e3%82%b9%e3%82%a2%e3%83%8b%e3%83%a1%e3%83%bc%e3%82%b7%e3%83%a7%e3%83%b3%e5%88%b6%e4%bd%9c%e3%82%bd%e3%83%95%e3%83%88%e3%82%a6%e3%82%a7%e3%82%a2%e3%80%8ccascadeur/",
+          "publishedOn": "2025-09-15T22:26:00.000Z",
+          "wordCount": 1389,
+          "title": "物理ベースアニメーション制作ソフトウェア「Cascadeur」が、Epic MegaGrantを獲得しUE専用ライブリンクを構築へ",
+          "imageUrl": "https://cginterest.com/wp-content/uploads/2025/09/20250916_Cascadeur-epicmegagrant.webp"
+        },
         {
           "id": "https://cginterest.com/?p=50484",
           "author": ".me",

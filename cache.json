@@ -964,6 +964,16 @@
       "siteUrl": "https://cgworld.jp/",
       "articles": [
         {
+          "id": "https://cgworld.jp/flashnews/02-2509-houdini-60-minutes.html",
+          "author": null,
+          "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
+          "link": "https://cgworld.jp/flashnews/02-2509-houdini-60-minutes.html",
+          "publishedOn": "2025-09-17T03:30:00.000Z",
+          "wordCount": 770,
+          "title": "10/8（水）渋谷にて「Houdini 60 Minutes」開催決定！ 4人のクリエイターが60分でお題制作に挑戦 - ニュース",
+          "imageUrl": "https://cgworld.jp/flashnews/assets_c/2025/09/Houdini60min-thumb-1920x1079-74025.jpg"
+        },
+        {
           "id": "https://cgworld.jp/flashnews/02-2509-telmic.html",
           "author": null,
           "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
@@ -972,6 +982,16 @@
           "wordCount": 729,
           "title": "生成AIとバーチャルプロダクションを掛け合わせた新しい映像制作フロー～撮影＋AIで高品質な映像と制作効率の向上を実現～ - ニュース",
           "imageUrl": "https://cgworld.jp/flashnews/assets_c/2025/09/2509_telmic_main-thumb-1000x563-73731.jpg"
+        },
+        {
+          "id": "https://cgworld.jp/flashnews/02-2509-eto.html",
+          "author": null,
+          "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
+          "link": "https://cgworld.jp/flashnews/02-2509-eto.html",
+          "publishedOn": "2025-09-17T01:13:13.000Z",
+          "wordCount": 724,
+          "title": "クリーチャー専門アーティスト集団「干支」、初のリアルイベント10/4（土）東京で開催－ライブスカルプト×音楽で五感を刺激 - ニュース",
+          "imageUrl": "https://cgworld.jp/flashnews/assets_c/2025/09/2509_eto%20%281%29-thumb-1000x563-73941.png"
         },
         {
           "id": "https://cgworld.jp/article/cgw325-kamitsubaki02.html",
@@ -3489,16 +3509,6 @@
           "wordCount": 2453,
           "title": "UnrealEngine : 汎用的に使える爆発連番テクスチャ",
           "imageUrl": "https://assets.st-note.com/production/uploads/images/209611748/rectangle_large_type_2_ef4edfae90f266b4ac25970c20e54fcb.jpeg?width=800"
-        },
-        {
-          "id": "https://note.com/polymorph_design/n/nff940cc2c813",
-          "author": null,
-          "description": "Houdiniを使用するのにModeling知識は後回しで良いです\n理由は後で述べます\n公式の基本チュートリアルはSolarisにやたらと注力して解説していますが、\nSolarisは複数人が携わる大きなプロジェクトでしか使いません。オブジェクトをアニメーション付きのデータで書き出して、ライティングとカメラのハンドルに注力するためのスタジオセットのようなものと考えてよいでしょう。複数の人が作ったアニメーションデータを読み込んで組み合わせられるので分業するなら役立ちます。オブジェクトの階層でライティングとカメラをおいたほうが一人のときは楽です。\nということで\n私の経験から今度Houdiniを勉強するならこうします。\nHoudini-CourseのBasicチュートリアル、掘り下げ方が物凄く実践的。\n１月で終わらせれば$45\n↓RedShiftを使う人はRedShiftのHoudini向けチュートリアル - Youtube　２週間\n↓geometeryの基礎を徹底的に覚えるHipFlapのチュートリアル。$399.99　\n細かすぎて心が折れそうですが、価格以上に時間がかかってとても詳しいです。２〜３ヶ月かかかります。\n↓Intro to VOPS - Houdini Beginner Tutorial - You Tube 無料　３週間\n（私は先にVOPをやってHipFlaskに戻りました。）\n↓\n続きをみる",
-          "link": "https://note.com/polymorph_design/n/nff940cc2c813",
-          "publishedOn": "2025-08-18T18:24:27.000Z",
-          "wordCount": 2333,
-          "title": "Houdiniを学ぶ順番",
-          "imageUrl": "https://d2l930y2yx77uc.cloudfront.net/production/social_images/cc22dfb0739855f928dd1e2873f71b34b7575d0a.png"
         }
       ]
     },

@@ -315,16 +315,6 @@
             "type": "video/mp4"
           },
           "imageUrl": "https://cgbox.jp/wp-content/uploads/2025/08/image_processing20250818-2-iyrxfa.jpg"
-        },
-        {
-          "id": "https://cgbox.jp/?p=63927",
-          "author": "kasahara",
-          "description": "こちらの記事にはプロモーションが含まれます。 XPPENは今年の夏、20周年記念キャンペーンを開催中！ 単なる割引だけでなく、20周年だけの限定プレゼントや豪華プレゼント企画も実施されています。 今回は、 この2つをまと […]",
-          "link": "https://cgbox.jp/2025/08/19/gadjet-20yearsale-xppen/",
-          "publishedOn": "2025-08-19T08:22:42.000Z",
-          "wordCount": 2816,
-          "title": "【XPPEN】20周年のお得キャンペーン実施！最大40%OFF",
-          "imageUrl": "https://cgbox.jp/wp-content/uploads/2025/08/6c3d39435500edd25976e99c6f2c9da9.jpg"
         }
       ]
     },
@@ -338,24 +328,28 @@
       "title": "TECH ART ONLINE",
       "feedUrl": "https://tech-art.online/feed/",
       "siteUrl": "https://tech-art.online",
-      "articles": [
-        {
-          "id": "https://tech-art.online/?p=1993",
-          "author": "管理人",
-          "description": "通常、マテリアル内で繰り返し使用される複雑なUVオフセットやスケーリング処理は、 ピクセルシェーダで毎フレーム評価されます。 これをCustomized UVで事前に頂点ごとに評価することで、より低コストで済ませることができますよ！\nCustomized UV入門！それ、ピクセルじゃなくて頂点でやろう！ first appeared on TECH ART ONLINE.",
-          "link": "https://tech-art.online/ue-customized-uv/?utm_source=rss&utm_medium=rss&utm_campaign=ue-customized-uv",
-          "publishedOn": "2025-08-19T09:00:00.000Z",
-          "wordCount": 14184,
-          "title": "Customized UV入門！それ、ピクセルじゃなくて頂点でやろう！",
-          "imageUrl": "https://tech-art.online/wordpress/wp-content/uploads/2025/08/20250816_163201_low-485x300.jpg"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "3D人-3dnchu-",
       "feedUrl": "https://3dnchu.com/feed/",
       "siteUrl": "https://3dnchu.com",
       "articles": [
+        {
+          "id": "https://3dnchu.com/?p=1058432",
+          "author": "Ymt3D -3dnchu-",
+          "description": "Edouard Boudet氏による、レベル内にフィードバック用メモと座標を残す事が出来るUnreal Engine 5向けの無料プラグイン「UNote」がリリースされています！",
+          "link": "https://3dnchu.com/archives/unote/",
+          "publishedOn": "2025-09-17T18:12:48.000Z",
+          "wordCount": 8813,
+          "title": "UNote - レベル内にフィードバック用メモと座標を残す事が出来るUnreal Engine 5向けの無料プラグイン！修正タスク共有やコラボレーレーションを効率化！",
+          "enclosure": {
+            "url": "https://3dnchu.com/wp-content/uploads/UNote.webp",
+            "length": "797008",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://3dnchu.com/wp-content/uploads/UNote.webp"
+        },
         {
           "id": "https://3dnchu.com/?p=1058398",
           "author": "Ymt3D -3dnchu-",
@@ -940,21 +934,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "https://3dnchu.com/wp-content/uploads/cinematic-compositor-v2.jpg"
-        },
-        {
-          "id": "https://3dnchu.com/?p=1057656",
-          "author": "Ymt3D -3dnchu-",
-          "description": "数多くのBlender関連チュートリアルやリソースをシェアしているCartesian Caramel氏がGeometry Nodesとシェーダーを活用した皺生成Blendファイル「Wrinkle Tension Shader v2 - Goemetry Nodesとシェーダーを」を無料公開しました！",
-          "link": "https://3dnchu.com/archives/wrinkle-tension-shader-v2/",
-          "publishedOn": "2025-08-19T05:21:55.000Z",
-          "wordCount": 8785,
-          "title": "Wrinkle Tension Shader v2 - Cartesian Caramel氏がGoemetry Nodesとシェーダーを活用した皺生成のBlender 4.5向けBlendファイルを無料公開！",
-          "enclosure": {
-            "url": "https://3dnchu.com/wp-content/uploads/Wrinkle-Tension-Shader-v2.webp",
-            "length": "932798",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://3dnchu.com/wp-content/uploads/Wrinkle-Tension-Shader-v2.webp"
         }
       ]
     },
@@ -963,6 +942,26 @@
       "feedUrl": "https://cgworld.jp/atom.xml",
       "siteUrl": "https://cgworld.jp/",
       "articles": [
+        {
+          "id": "https://cgworld.jp/article/cgw325-kamitsubaki03.html",
+          "author": null,
+          "description": "TVアニメ『神椿市建設中。』のアニメCGメイキング。",
+          "link": "https://cgworld.jp/article/cgw325-kamitsubaki03.html",
+          "publishedOn": "2025-09-18T01:00:27.000Z",
+          "wordCount": 761,
+          "title": "TVアニメ『神椿市建設中。』KAMITSUBAKI STUDIO原作のオリジナルCGアニメに迫る〜（3）美術篇 - 特集",
+          "imageUrl": "https://cgworld.jp/article/assets_c/2025/09/kamitsubaki01-thumb-1920x1080-73561.jpg"
+        },
+        {
+          "id": "https://cgworld.jp/flashnews/01-202509-Midjourney-Style.html",
+          "author": null,
+          "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
+          "link": "https://cgworld.jp/flashnews/01-202509-Midjourney-Style.html",
+          "publishedOn": "2025-09-17T23:54:26.000Z",
+          "wordCount": 849,
+          "title": "画像生成AI「Midjourney」が「Style Explorer V1」を実装！　直感的かつ効率的にスタイルを探し画像に適用可能 - ニュース",
+          "imageUrl": "https://cgworld.jp/flashnews/assets_c/2025/09/Midjourney_Style-01-thumb-1080x579-74033.jpg"
+        },
         {
           "id": "https://cgworld.jp/flashnews/02-2509-houdini-60-minutes.html",
           "author": null,
@@ -1862,56 +1861,6 @@
           "wordCount": 754,
           "title": "Blenderアドオン「Shape Key Smoother」リリース！　スムーズなシェイプキーを素早く作成、オリジナルの形状を保持したまま調整可能 - ニュース",
           "imageUrl": "https://cgworld.jp/flashnews/assets_c/2025/08/ShapeKeySmoother-01-thumb-1080x608-72711.jpg"
-        },
-        {
-          "id": "https://cgworld.jp/flashnews/02-2508-wachajack.html",
-          "author": null,
-          "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
-          "link": "https://cgworld.jp/flashnews/02-2508-wachajack.html",
-          "publishedOn": "2025-08-19T10:43:37.000Z",
-          "wordCount": 742,
-          "title": "9/6（土）WACHAJACKイベント開催！ 京都での貴重なクリエイティブ体験 「描く前に考える ー コンセプトアーティストのアイデア発想術」 - ニュース",
-          "imageUrl": "https://cgworld.jp/flashnews/assets_c/2025/08/2508_art_kyoto_main-thumb-1000x563-72670.jpg"
-        },
-        {
-          "id": "https://cgworld.jp/flashnews/02-2508-wacom-blender.html",
-          "author": null,
-          "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
-          "link": "https://cgworld.jp/flashnews/02-2508-wacom-blender.html",
-          "publishedOn": "2025-08-19T09:28:01.000Z",
-          "wordCount": 713,
-          "title": "ワコムとBlenderが戦略的パートナーシップを強化。モバイル版Blenderの開発などで連携 - ニュース",
-          "imageUrl": "https://cgworld.jp/flashnews/assets_c/2025/08/2508_wacom_main-thumb-1000x563-72710.jpg"
-        },
-        {
-          "id": "https://cgworld.jp/flashnews/cgwhos-next-202502.html",
-          "author": null,
-          "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
-          "link": "https://cgworld.jp/flashnews/cgwhos-next-202502.html",
-          "publishedOn": "2025-08-19T02:10:08.000Z",
-          "wordCount": 740,
-          "title": "学生CGトライアル「WHO'S NEXT？」 2025年第2弾作品募集スタート！ 作品締切：10/27（月） - ニュース",
-          "imageUrl": "https://cgworld.jp/flashnews/assets_c/2025/08/whosnext2025vol2s-thumb-1440x810-72673.jpg"
-        },
-        {
-          "id": "https://cgworld.jp/flashnews/cgw326-pr.html",
-          "author": null,
-          "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
-          "link": "https://cgworld.jp/flashnews/cgw326-pr.html",
-          "publishedOn": "2025-08-19T02:00:04.000Z",
-          "wordCount": 781,
-          "title": "CGWORLD vol.326（2025年10月号）「実用デジタルツイン ショーケース」特集号を先行告知！ - ニュース",
-          "imageUrl": "https://cgworld.jp/flashnews/assets_c/2025/08/326_infobanner_before_web-thumb-1000x563-72681.jpg"
-        },
-        {
-          "id": "https://cgworld.jp/article/202508-sandfall.html",
-          "author": null,
-          "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
-          "link": "https://cgworld.jp/article/202508-sandfall.html",
-          "publishedOn": "2025-08-19T00:58:00.000Z",
-          "wordCount": 862,
-          "title": "世界的大ヒットを記録した独創的RPGは、いかにしてわずか30人でつくられたのか？『Clair Obscur: Expedition 33』Sandfall Interactiveインタビュー - 特集",
-          "imageUrl": "https://cgworld.jp/article/assets_c/2025/08/Expedition-33_Cast_Reveal_Screenshot-02-thumb-1000x563-72149.jpg"
         }
       ]
     },
@@ -2355,26 +2304,6 @@
           "wordCount": 3668,
           "title": "ワコムとBlenderが戦略的パートナーシップを強化すると発表",
           "imageUrl": "https://modelinghappy.com/wp-content/uploads/2025/08/20250819_waom_Blender.jpg"
-        },
-        {
-          "id": "https://modelinghappy.com/?p=64213",
-          "author": "modelinghappy",
-          "description": "Recalculate Origin Orientation Recalculate Origin OrientationはEndertainer007さんが作成した、Blenderで選択した面の法線を基準にオブジェクト\nThe post Recalculate Origin Orientation Blenderで選択した面の法線を基準にオブジェクトの原点の向きを変更出来る無料アドオン first appeared on 3DCG最新情報サイト MODELING HAPPY.",
-          "link": "https://modelinghappy.com/archives/64213",
-          "publishedOn": "2025-08-19T11:59:23.000Z",
-          "wordCount": 3696,
-          "title": "Recalculate Origin Orientation Blenderで選択した面の法線を基準にオブジェクトの原点の向きを変更出来る無料アドオン",
-          "imageUrl": "https://modelinghappy.com/wp-content/uploads/2025/08/20250819_recalculate_origin_00.jpg"
-        },
-        {
-          "id": "https://modelinghappy.com/?p=64208",
-          "author": "modelinghappy",
-          "description": "Wrinkle Tension Shader v2 Wrinkle Tension Shader v2はCartesian Caramelさんが作成した、Blenderでキャラクター等が動いた時に、引き延ばされたり縮まっ\nThe post Wrinkle Tension Shader v2   キャラクターが動いたりした時に細かいリアルなシワを表現できる無料シェーダーセット。 first appeared on 3DCG最新情報サイト MODELING HAPPY.",
-          "link": "https://modelinghappy.com/archives/64208",
-          "publishedOn": "2025-08-19T11:01:55.000Z",
-          "wordCount": 3749,
-          "title": "Wrinkle Tension Shader v2   キャラクターが動いたりした時に細かいリアルなシワを表現できる無料シェーダーセット。",
-          "imageUrl": "https://modelinghappy.com/wp-content/uploads/2025/08/20250819_wrinkle_tension_shader_00.jpg"
         }
       ]
     },
@@ -2632,26 +2561,6 @@
           "wordCount": 619,
           "title": "Unreal Engine の活用事例＆現場の声。エピック ゲームズ ジャパン の自動車業界向けイベント「Build: Tokyo’25 for Automotive」の講演映像",
           "imageUrl": "https://3dtotal.jp/wp-content/uploads/2025/08/ue_build_tyo25.jpg"
-        },
-        {
-          "id": "https://3dtotal.jp/?p=52669",
-          "author": "3dtotal管理人T",
-          "description": "Q. 自己紹介をお願いします こんにちは。Burak です。1992年生まれで、トルコのブルサという美しい街に住んでいます。昔からアートと音楽に夢中で、趣味や興味のあることはすべて独学で身につけました。3D には 200 […]\nThe post 【インタビュー】練習こそが完璧への道：3Dアーティスト Burak Gok 氏 first appeared on 3dtotal 日本語オフィシャルサイト.",
-          "link": "https://3dtotal.jp/features/52669/",
-          "publishedOn": "2025-08-19T07:53:56.000Z",
-          "wordCount": 698,
-          "title": "【インタビュー】練習こそが完璧への道：3Dアーティスト Burak Gok 氏",
-          "imageUrl": "https://3dtotal.jp/wp-content/uploads/2025/08/i129_t.jpg"
-        },
-        {
-          "id": "https://3dtotal.jp/?p=52651",
-          "author": "3dtotal管理人T",
-          "description": "★The Last of Us Season 2 VFX Highlights（1分53秒/ 制作：Weta FX） ドラマ「The Last of Us」シーズン2 の過酷で緊張感あふれる世界を現実のものにするため、プ […]\nThe post 襲い来る感染者たち。ドラマ『The Last of US』シーズン2 の VFXブレイクダウン映像 first appeared on 3dtotal 日本語オフィシャルサイト.",
-          "link": "https://3dtotal.jp/news/52651/",
-          "publishedOn": "2025-08-19T04:47:41.000Z",
-          "wordCount": 562,
-          "title": "襲い来る感染者たち。ドラマ『The Last of US』シーズン2 の VFXブレイクダウン映像",
-          "imageUrl": "https://3dtotal.jp/wp-content/uploads/2025/08/lasus2_weta.jpg"
         }
       ]
     },
@@ -3295,16 +3204,6 @@
           "wordCount": 242,
           "title": "Media & Entertainment メールマガジン 2025 年 8 月号",
           "imageUrl": "https://area.autodesk.jp/information/assets_c/2021/11/ic_inews_black_1200x670-thumb-1200xauto-4980.png"
-        },
-        {
-          "id": "https://area.autodesk.jp/column/trend_tech/digital-contents-future/12-nozaki-kouji/",
-          "author": null,
-          "description": "CGと縁の深い方々にお話をうかがい、デジタルコンテンツの未来を見通していく記事をお届けする本連載。今回はVFXスーパーバイザーで株式会社N-DESIGN創業者である野﨑宏二氏に登場していただいた。宇多田ヒカルのミュージックビデオや『CASSHERN』 ほか、20年以上に渡って邦画の大型タイトルに多数携わるN-DESIGNと野﨑氏。それらの監督との仕事を通じて経験したさまざまなエピソードやVFXスーパーバイザーの仕事の要点、会社組織としての発展と哲学についてたっぷりと語っていただいた。・・・",
-          "link": "https://area.autodesk.jp/column/trend_tech/digital-contents-future/12-nozaki-kouji/",
-          "publishedOn": "2025-08-19T01:00:00.000Z",
-          "wordCount": 474,
-          "title": "デジタルコンテンツの未来〜温故知新〜 第12回：野﨑 宏二（VFXスーパーバイザー／株式会社N-DESIGN代表取締役）",
-          "imageUrl": "https://area.autodesk.jp/column/assets_c/2025/08/ic_digital_contents_12_1400x782-thumb-1200xauto-5708.jpg"
         }
       ]
     },
@@ -3728,6 +3627,16 @@
       "siteUrl": "https://3d.crdg.jp/env/",
       "articles": [
         {
+          "id": "https://3d.crdg.jp/env/?p=8472",
+          "author": "Kosei.Hatanaka",
+          "description": "意外に便利な ワープ投影（Warp Projection） についてご紹介します。投影方法にはさまざまな種類がありますが、その中でもワープ投影は、ベー […]\n続きを読む\n投稿 【Substance Painter】投影方法：ワープ投影(Warp Projection)について は エンホリ - ENVIRONMENT HOLIC｜C&R Creative Studios に最初に表示されました。",
+          "link": "https://3d.crdg.jp/env/2025/09/17/8472/?utm_source=rss&utm_medium=rss&utm_campaign=%25e3%2580%2590substance-painter%25e3%2580%2591%25e6%258a%2595%25e5%25bd%25b1%25e6%2596%25b9%25e6%25b3%2595%25ef%25bc%259a%25e3%2583%25af%25e3%2583%25bc%25e3%2583%2597%25e6%258a%2595%25e5%25bd%25b1warp-projection%25e3%2581%25ab%25e3%2581%25a4%25e3%2581%2584%25e3%2581%25a6",
+          "publishedOn": "2025-09-17T13:16:50.000Z",
+          "wordCount": 3043,
+          "title": "【Substance Painter】投影方法：ワープ投影(Warp Projection)について",
+          "imageUrl": "https://3d.crdg.jp/env/wp-content/uploads/2025/09/アイキャッチ画像_『投影方法：ワープ投影Warp-Projectionについて』_250917.jpg"
+        },
+        {
           "id": "https://3d.crdg.jp/env/?p=7584",
           "author": "Daichi.Matsumura",
           "description": "ハイトのペイントやノーマルテクスチャを貼ってディテールを作ることはよくあると思いますが、そういったディテールはジェネレーターで調整しようとすると思った […]\n続きを読む\n投稿 【Substance Painter】ペイントしたハイト/ノーマルだけにかかるマスクを作る は エンホリ - ENVIRONMENT HOLIC｜C&R Creative Studios に最初に表示されました。",
@@ -3804,6 +3713,21 @@
       "feedUrl": "https://cginterest.com/feed/",
       "siteUrl": "https://cginterest.com",
       "articles": [
+        {
+          "id": "https://cginterest.com/?p=50647",
+          "author": ".me",
+          "description": "2025年9月17日（現地時間）- Blender Conference 2025 の基調講演で、Blender の創設者であるトン・ローセンダール (Ton Roosendaal) 氏は2026年1月1日をも […]\nBlender Conference 2025 基調講演が開催！創設者 Ton Roosendaal 氏がCEO退任へ first appeared on CGinterest.",
+          "link": "https://cginterest.com/2025/09/18/blender-conference-2025-%e5%9f%ba%e8%aa%bf%e8%ac%9b%e6%bc%94%e3%81%8c%e9%96%8b%e5%82%ac%ef%bc%81%e5%89%b5%e8%a8%ad%e8%80%85-ton-roosendaal-%e6%b0%8f%e3%81%8cceo%e9%80%80%e4%bb%bb%e3%81%b8/",
+          "publishedOn": "2025-09-17T23:06:00.000Z",
+          "wordCount": 1718,
+          "title": "Blender Conference 2025 基調講演が開催！創設者 Ton Roosendaal 氏がCEO退任へ",
+          "enclosure": {
+            "url": "https://cginterest.com/wp-content/uploads/2025/09/20250918-Blender5-Physicsnodes1.mp4",
+            "length": "98558",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://cginterest.com/wp-content/uploads/2025/09/20250918_BCON2025.webp"
+        },
         {
           "id": "https://cginterest.com/?p=50584",
           "author": ".me",
@@ -4548,31 +4472,6 @@
             "type": "video/mp4"
           },
           "imageUrl": "https://cginterest.com/wp-content/uploads/2025/08/20250820_Unity6_2.webp"
-        },
-        {
-          "id": "https://cginterest.com/?p=49295",
-          "author": ".me",
-          "description": "2025年8月18日（現地時間）- Nvidia は、Gamescom 2025にて、NVIDIAはNVIDIA RTXニューラルレンダリングとNVIDIA ACE生成AI技術のアップデートを発表しました。 開発者向けD […]\nNVIDIA、ニューラルレンダリング技術の拡大と新しいACEモデルと推論バックエンドを発表！ first appeared on CGinterest.",
-          "link": "https://cginterest.com/2025/08/19/nvidia%e3%80%81%e3%83%8b%e3%83%a5%e3%83%bc%e3%83%a9%e3%83%ab%e3%83%ac%e3%83%b3%e3%83%80%e3%83%aa%e3%83%b3%e3%82%b0%e6%8a%80%e8%a1%93%e3%81%ae%e6%8b%a1%e5%a4%a7%e3%81%a8%e6%96%b0%e3%81%97%e3%81%84ace/",
-          "publishedOn": "2025-08-19T06:35:00.000Z",
-          "wordCount": 1647,
-          "title": "NVIDIA、ニューラルレンダリング技術の拡大と新しいACEモデルと推論バックエンドを発表！",
-          "imageUrl": "https://cginterest.com/wp-content/uploads/2025/08/20250819_nvidiaannouncing-the-latest-nvidia-gaming-ai-and-neural-rendering-technologies.webp"
-        },
-        {
-          "id": "https://cginterest.com/?p=48961",
-          "author": ".me",
-          "description": "2025年8月13日（現地時間）- SideFXは、SIGGRAPH 2025にてHoudini 21 基調講演「H21 Keynote Vancouver」を行い、Houdini 21の新機能をプレビューしました。 基 […]\nHoudini 21 新機能をチェック！GPU Pyro、Vulkan対応、機械学習ツール、MetaHumans連携などなど first appeared on CGinterest.",
-          "link": "https://cginterest.com/2025/08/19/houdini-21-%e6%96%b0%e6%a9%9f%e8%83%bd%e3%82%92%e3%83%81%e3%82%a7%e3%83%83%e3%82%af%ef%bc%81gpu-pyro%e3%80%81vulkan%e5%af%be%e5%bf%9c%e3%80%81%e6%a9%9f%e6%a2%b0%e5%ad%a6%e7%bf%92%e3%83%84%e3%83%bc/",
-          "publishedOn": "2025-08-19T01:57:00.000Z",
-          "wordCount": 1799,
-          "title": "Houdini 21 新機能をチェック！GPU Pyro、Vulkan対応、機械学習ツール、MetaHumans連携などなど",
-          "enclosure": {
-            "url": "https://cginterest.com/wp-content/uploads/2025/08/20250815-H21-Keynote-Newfeatrure-11.mp4",
-            "length": "282876",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://cginterest.com/wp-content/uploads/2025/08/20250818_Houdini21.webp"
         }
       ]
     }

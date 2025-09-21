@@ -2,10 +2,81 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-09-21T00:54:39.101Z</updated>
+    <updated>2025-09-21T03:33:12.336Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[HLSLシェーダーの魔導書 第5章まとめ:ライティング発展]]></title>
+        <id>https://qiita.com/T4kumin/items/c0300d4e4b7190087fde</id>
+        <link href="https://qiita.com/T4kumin/items/c0300d4e4b7190087fde"/>
+        <updated>2025-09-21T03:07:58.000Z</updated>
+        <summary type="html"><![CDATA[ポイントライト
+ポイントライトはディレクショナルライトとは異なり、下記点を考慮する必要がある。
+
+入射してくる光の方向
+光源との距離による光の減衰。
+
+◇入射してくる光の方向
+ポイントライトでも光の方向ベクトルの計算を行います。
+ポイントライトのワールド座標とサーフェー...]]></summary>
+        <author>
+            <name>Shaderタグが付けられた新着記事 - Qiita</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【UE5】ハイクオリティなゲーム環境を作成するチュートリアルをレビュー]]></title>
+        <id>https://cgbox.jp/?p=64171</id>
+        <link href="https://cgbox.jp/2025/09/21/wingfox-tutorial-ue5aaaenvironment/"/>
+        <updated>2025-09-21T02:28:22.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは！ 今回はWingfoxで公開されている「AAA Environment creation in Unreal Engine 5」を受講したので、レビューしていきたいと思います！ 講座の特徴 今回受講したチュー […]]]></summary>
+        <author>
+            <name>CGbox編集部</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HLSLシェーダーの魔導書 第4章まとめ:ライティング基礎]]></title>
+        <id>https://qiita.com/T4kumin/items/f9a6397b39fee139db8a</id>
+        <link href="https://qiita.com/T4kumin/items/f9a6397b39fee139db8a"/>
+        <updated>2025-09-21T02:24:24.000Z</updated>
+        <summary type="html"><![CDATA[ライトの種類
+
+ディレクショナルライト
+ポイントライト
+スポットライト
+
+基本的なライトはこの３つです。
+
+反射:Phong反射モデル
+ライトは、物体に光が反射したり影を作ることで初めて意味を持ちます。
+今回はPhongの反射モデルについて学習します。
+
+◇Lambert...]]></summary>
+        <author>
+            <name>Shaderタグが付けられた新着記事 - Qiita</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RenderMan 26 - ディズニー・ピクサーのフラッグシップ・レンダラーの最新アップデートと機能紹介リールが公開！機械学習によるインタラクティブデノイズ！]]></title>
+        <id>https://3dnchu.com/?p=1058452</id>
+        <link href="https://3dnchu.com/archives/renderman-26/"/>
+        <updated>2025-09-21T02:18:18.000Z</updated>
+        <summary type="html"><![CDATA[ディズニー・ピクサーのフラッグシップ・レンダラー「RenderMan」の最新板「RenderMan 26」がリリースされています！]]></summary>
+        <author>
+            <name>Ymt3D -3dnchu-</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Metaballs-Apple Vision Proでリアルタイムの空間で粘土をこねるように3D体験できる無料アプリMetaballsがリリース]]></title>
+        <id>https://modelinghappy.com/?p=64734</id>
+        <link href="https://modelinghappy.com/archives/64734"/>
+        <updated>2025-09-21T00:55:24.000Z</updated>
+        <summary type="html"><![CDATA[Metaballs Apple Vision Proでリアルタイムの空間で粘土をこねるように3D体験できるアプリMetaballsがリリースされました。 手を伸ばして形を掴み、メタボールのメッシュがリアルタイムでスムーズ
+The post Metaballs-Apple Vision Proでリアルタイムの空間で粘土をこねるように3D体験できる無料アプリMetaballsがリリース first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
+        <author>
+            <name>modelinghappy</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Camera Tracker – Blenderでiphone等で撮影した動画から2クリックで点群生成＆カメラトラッキングできるアドオンを試してみました。]]></title>
         <id>https://modelinghappy.com/?p=64701</id>

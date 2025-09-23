@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-09-23T08:14:17.514Z</updated>
+    <updated>2025-09-23T12:21:07.983Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Substance Designerでデザインされたボロノイを作成する]]></title>
+        <id>https://note.com/thesaurus/n/na07d13161098</id>
+        <link href="https://note.com/thesaurus/n/na07d13161098"/>
+        <updated>2025-09-23T09:34:32.000Z</updated>
+        <summary type="html"><![CDATA[久しぶりに Substance Designer に関する記事を投稿します。
+Substance Designer には「Voronoi」というノイズ生成用のノードがあります。通常はノイズ生成に使われますが、この Voronoi の考え方 は、有機的な模様や 3D 形状のデザインにも広く応用されます。
+今回は、Substance Designer の基本的なノードを組み合わせて「意味を持った Voronoi」を作る方法を解説します。
+続きをみる]]></summary>
+        <author>
+            <name>#SubstanceDesignerタグ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[効率的ゲームプレイアニメーション実践 ~Clair Obscur: Expedition 33を実例にゲームアニメーション技術を学ぶ~ - ゲーム用アニメについて学ぶ技術解説講座！2025年9月24日（水）にCGWORLD ONLINE ACADEMYにてオンライン開催！]]></title>
         <id>https://3dnchu.com/?p=1058500</id>
@@ -4055,16 +4068,6 @@ Attributeとはプログラミングでいうところの変数、これがPoint
         <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
         <author>
             <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【アドオン紹介】Revolve – Mesh Looper – アニメーションをシームレスループ再生]]></title>
-        <id>https://cgbox.jp/?p=64008</id>
-        <link href="https://cgbox.jp/2025/08/25/news-addon-revolve-mesh-looper/"/>
-        <updated>2025-08-24T23:39:33.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは！ 今回はアドオンの「Revolve – Mesh Looper」を紹介します。 こちらのリンクがアドオンの商品ページになります。 Revolve – Mesh Looper 「Revo […]]]></summary>
-        <author>
-            <name>kasahara</name>
         </author>
     </entry>
 </feed>

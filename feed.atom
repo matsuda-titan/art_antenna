@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-09-23T00:48:56.554Z</updated>
+    <updated>2025-09-23T03:24:23.578Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
@@ -4055,25 +4055,6 @@ Attributeとはプログラミングでいうところの変数、これがPoint
         <summary type="html"><![CDATA[こんばんは！ 今回はアドオンの「Revolve – Mesh Looper」を紹介します。 こちらのリンクがアドオンの商品ページになります。 Revolve – Mesh Looper 「Revo […]]]></summary>
         <author>
             <name>kasahara</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Unityでシンプルな波シミュレーション　第１回　単一の正弦波で頂点シェーダを動かす]]></title>
-        <id>https://zenn.dev/kakilemon/articles/1047d0d04c1f00</id>
-        <link href="https://zenn.dev/kakilemon/articles/1047d0d04c1f00"/>
-        <updated>2025-08-24T13:24:06.000Z</updated>
-        <summary type="html"><![CDATA[概要
-前回：
-https://zenn.dev/kakilemon/articles/9c757c05e1d745
-https://developer.nvidia.com/gpugems/gpugems/part-i-natural-effects/chapter-1-effective-water-simulation-physical-models
-GPU Gems Chapter 1を参考に、波のシミュレーションをUnityで実装する。
-今回は、ひとまず頂点シェーダが動くところまでを目標にする。そのため波のモデルはシンプルに、正弦波１つだけにする。
-
- 波モデルの計算式
-
- ...]]></summary>
-        <author>
-            <name>カキレモン</name>
         </author>
     </entry>
 </feed>

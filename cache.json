@@ -2543,21 +2543,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--dbl4nU_t--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:CUDA%25E3%2581%25AE__sinf%2528%2529%25E3%2581%25AFSASS%25E3%2581%25A7FMUL%2520%25E2%2586%2592%2520MUFU.SIN%25E3%2581%25AB%25E5%25B1%2595%25E9%2596%258B%25E3%2581%2595%25E3%2582%258C%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:toropippi%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzk5YWI1ZjZjZTQuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
-        },
-        {
-          "id": "https://zenn.dev/kakilemon/articles/1047d0d04c1f00",
-          "author": "カキレモン",
-          "description": "概要\n前回：\nhttps://zenn.dev/kakilemon/articles/9c757c05e1d745\nhttps://developer.nvidia.com/gpugems/gpugems/part-i-natural-effects/chapter-1-effective-water-simulation-physical-models\nGPU Gems Chapter 1を参考に、波のシミュレーションをUnityで実装する。\n今回は、ひとまず頂点シェーダが動くところまでを目標にする。そのため波のモデルはシンプルに、正弦波１つだけにする。\n\n 波モデルの計算式\n\n ...",
-          "link": "https://zenn.dev/kakilemon/articles/1047d0d04c1f00",
-          "publishedOn": "2025-08-24T13:24:06.000Z",
-          "wordCount": 1565,
-          "title": "Unityでシンプルな波シミュレーション　第１回　単一の正弦波で頂点シェーダを動かす",
-          "enclosure": {
-            "url": "https://res.cloudinary.com/zenn/image/upload/s--FVjRh3sP--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Unity%25E3%2581%25A7%25E3%2582%25B7%25E3%2583%25B3%25E3%2583%2597%25E3%2583%25AB%25E3%2581%25AA%25E6%25B3%25A2%25E3%2582%25B7%25E3%2583%259F%25E3%2583%25A5%25E3%2583%25AC%25E3%2583%25BC%25E3%2582%25B7%25E3%2583%25A7%25E3%2583%25B3%25E3%2580%2580%25E7%25AC%25AC%25EF%25BC%2591%25E5%259B%259E%25E3%2580%2580%25E5%258D%2598%25E4%25B8%2580%25E3%2581%25AE%25E6%25AD%25A3%25E5%25BC%25A6%25E6%25B3%25A2%25E3%2581%25A7%25E9%25A0%2582%25E7%2582%25B9%25E3%2582%25B7%25E3%2582%25A7%25E3%2583%25BC%25E3%2583%2580%25E3%2582%2592%25E5%258B%2595%25E3%2581%258B%25E3%2581%2599%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2582%25AB%25E3%2582%25AD%25E3%2583%25AC%25E3%2583%25A2%25E3%2583%25B3%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2ZjNGNlNzdjZTQuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png",
-            "length": "0",
-            "type": "image/png"
-          },
-          "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--FVjRh3sP--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Unity%25E3%2581%25A7%25E3%2582%25B7%25E3%2583%25B3%25E3%2583%2597%25E3%2583%25AB%25E3%2581%25AA%25E6%25B3%25A2%25E3%2582%25B7%25E3%2583%259F%25E3%2583%25A5%25E3%2583%25AC%25E3%2583%25BC%25E3%2582%25B7%25E3%2583%25A7%25E3%2583%25B3%25E3%2580%2580%25E7%25AC%25AC%25EF%25BC%2591%25E5%259B%259E%25E3%2580%2580%25E5%258D%2598%25E4%25B8%2580%25E3%2581%25AE%25E6%25AD%25A3%25E5%25BC%25A6%25E6%25B3%25A2%25E3%2581%25A7%25E9%25A0%2582%25E7%2582%25B9%25E3%2582%25B7%25E3%2582%25A7%25E3%2583%25BC%25E3%2583%2580%25E3%2582%2592%25E5%258B%2595%25E3%2581%258B%25E3%2581%2599%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2582%25AB%25E3%2582%25AD%25E3%2583%25AC%25E3%2583%25A2%25E3%2583%25B3%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2ZjNGNlNzdjZTQuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
         }
       ]
     },

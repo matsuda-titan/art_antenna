@@ -2,10 +2,71 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-09-24T03:25:29.125Z</updated>
+    <updated>2025-09-24T08:14:45.248Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[UnityのBRPにおけるスフィアトレーシングを用いたレイマーチングのTips]]></title>
+        <id>https://zenn.dev/koturn/articles/koturn-unity-sphere-tracing-tips</id>
+        <link href="https://zenn.dev/koturn/articles/koturn-unity-sphere-tracing-tips"/>
+        <updated>2025-09-24T08:08:32.000Z</updated>
+        <summary type="html"><![CDATA[この記事はUnityでスフィアトレーシングによるレイマーチングシェーダーを書くときのTipsを紹介する．
+対象読者としてはVRChatでどうしても レイマーチングをしたいあなたへ贈る本【Ver 1.1】の内容を予め理解しているものとする．
+
+ ベースとなるシェーダー
+サンプルコード: Assets/koturn/SphereTracingTips/01_Basic/Shaders/Basic.shader
+本記事では最低限の機能を実装した下記のシェーダーをベースとして変更・解説を行っていく．
+
+ 関数名・変数名
+
+ 頂点シェーダーの出力・フラグメントシェーダーの入力構造体
+SV_POSI...]]></summary>
+        <author>
+            <name>koturn</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[UnityのBRPにおけるスフィアトレーシングを用いたレイマーチングのTips]]></title>
+        <id>https://zenn.dev/koturn/articles/koturn-unity-sphere-tracing-tips</id>
+        <link href="https://zenn.dev/koturn/articles/koturn-unity-sphere-tracing-tips"/>
+        <updated>2025-09-24T08:08:32.000Z</updated>
+        <summary type="html"><![CDATA[この記事はUnityでスフィアトレーシングによるレイマーチングシェーダーを書くときのTipsを紹介する．
+対象読者としてはVRChatでどうしても レイマーチングをしたいあなたへ贈る本【Ver 1.1】の内容を予め理解しているものとする．
+
+ ベースとなるシェーダー
+サンプルコード: Assets/koturn/SphereTracingTips/01_Basic/Shaders/Basic.shader
+本記事では最低限の機能を実装した下記のシェーダーをベースとして変更・解説を行っていく．
+
+ 関数名・変数名
+
+ 頂点シェーダーの出力・フラグメントシェーダーの入力構造体
+SV_POSI...]]></summary>
+        <author>
+            <name>koturn</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Houdini Magic！ゲーム、VFX、産業分野まで、活躍の場は無限大。CGを学ぶ、仕事にしたい人のためのフリーペーパー「CGWORLD Entry vol.29」配布開始 - ニュース]]></title>
+        <id>https://cgworld.jp/flashnews/02-2509-cgworld-entry-vol29.html</id>
+        <link href="https://cgworld.jp/flashnews/02-2509-cgworld-entry-vol29.html"/>
+        <updated>2025-09-24T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[日本のスタジオ作品も多数！ Houdini の フィルム・TV・ゲーム リール 2025]]></title>
+        <id>https://3dtotal.jp/?p=53030</id>
+        <link href="https://3dtotal.jp/news/53030/"/>
+        <updated>2025-09-24T05:32:23.000Z</updated>
+        <summary type="html"><![CDATA[★2025 Houdini Film-TV-Games Reel（3分） 世界中のアーティストやスタジオが Houdini を使って制作した素晴らしい作品を紹介します。Houdini コミュニティの皆様、いつも インスピ […]
+The post 日本のスタジオ作品も多数！ Houdini の フィルム・TV・ゲーム リール 2025 first appeared on 3dtotal 日本語オフィシャルサイト.]]></summary>
+        <author>
+            <name>3dtotal管理人T</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[第2回：モグ  渡辺一基氏 in 静岡市 - 連載]]></title>
         <id>https://cgworld.jp/regular/2509-4-mog.html</id>
@@ -13,6 +74,16 @@
         <updated>2025-09-24T05:17:14.000Z</updated>
         <author>
             <name>CGWORLD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Animatrix Polisher - ブレンドシェイプ＆スカルプトを使用した変形アニメーションを簡単に制作出来るMaya用ツールスクリプト！]]></title>
+        <id>https://3dnchu.com/?p=1058328</id>
+        <link href="https://3dnchu.com/archives/animatrix-polisher/"/>
+        <updated>2025-09-24T03:28:44.000Z</updated>
+        <summary type="html"><![CDATA[Animatrix Studioによるブレンドシェイプ＆スカルプトを使用した変形アニメーションを簡単に制作出来るMaya用ツールスクリプト「Animatrix Polisher」のご紹介！]]></summary>
+        <author>
+            <name>Ymt3D -3dnchu-</name>
         </author>
     </entry>
     <entry>
@@ -3995,21 +4066,6 @@ The post Resample Edges 選択したエッジ上の頂点数をそのまま、�
         <summary type="html"><![CDATA[こんばんは！ 今回はアドオンの「Water Caustic Animated Preset Shaders」を紹介します。 こちらのリンクがアドオンの商品ページになります。 Water Caustic Animated  […]]]></summary>
         <author>
             <name>kasahara</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【シェーダー】法線の変換をちゃんと理解する]]></title>
-        <id>https://qiita.com/foriver4725/items/6785a1549fc96ba56552</id>
-        <link href="https://qiita.com/foriver4725/items/6785a1549fc96ba56552"/>
-        <updated>2025-08-25T16:32:47.000Z</updated>
-        <summary type="html"><![CDATA[導入
-こんな感じのプログラムについての話です。
-かっこが多い！
-// normalOS : オブジェクトローカル座標系の法線
-// normal   : ビュー　　　　　　　座標系の法線
-// MY_IT_MV 行列を用いて, normalOS → normal に変換 ...]]></summary>
-        <author>
-            <name>HLSLタグが付けられた新着記事 - Qiita</name>
         </author>
     </entry>
 </feed>

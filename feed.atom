@@ -2,10 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-09-28T03:32:56.618Z</updated>
+    <updated>2025-09-28T08:12:48.530Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Steam版Houdini IndieのSideFXLabs導入、更新]]></title>
+        <id>https://zenn.dev/illevell/articles/80b1957b38c282</id>
+        <link href="https://zenn.dev/illevell/articles/80b1957b38c282"/>
+        <updated>2025-09-28T04:13:38.000Z</updated>
+        <summary type="html"><![CDATA[21.0へのアップデートタイミングでSideFXLabsToolを見失ったので
+この機会に導入の仕方からまとめておこうかと
+あと記事として残す癖もつけたかった
+
+
+ 1.公式GitHubから「SideFXLabs-Development」を落としてくる
+
+GitHub - sideeffects/SideFXLabs
+
+
+ 2.Steam版のHoudini Indieインストール先に解凍
+
+C:\Program Files (x86)\Steam\steamapps\common\Houdini Indie\packages
+
+ 3.解凍したフォルダ名を変更
+
+「SideFXLabs-D...]]></summary>
+        <author>
+            <name>illevell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SurfacePsycho - Geometry Nodesベースの非破壊NURBSモデリングを実現するBlender向け無料アドオン！Extensionsに登場！STEP／IGESインポートなども可能！]]></title>
         <id>https://3dnchu.com/?p=1037129</id>
@@ -3856,21 +3882,6 @@ The post ドスパラで10万円以上のパソコン購入すると購入者全
         <summary type="html"><![CDATA[こんばんは！ 今回はアドオンの「Decalify」を紹介します。 こちらのリンクがアドオンの商品ページになります。 Decalify 「Decalify」は、ジオメトリーベースのデカールツールです。 通常のテクスチャーベ […]]]></summary>
         <author>
             <name>kasahara</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3DCG用語はきちんと正しく理解しよう。特にテクスチャ周りは重要。]]></title>
-        <id>https://note.com/tsukasa_yamato/n/n3b6d2539eccd</id>
-        <link href="https://note.com/tsukasa_yamato/n/n3b6d2539eccd"/>
-        <updated>2025-08-29T16:26:41.000Z</updated>
-        <summary type="html"><![CDATA[今日もサブスタンス3Dペインター（Substance 3D Painter）でめっちゃ勉強した。今まで曖昧だった「マップ、テクスチャ、ファイル、チャンネル」について更なる知見を得た。今回ハマったのはBlenderでの「ディスプレイスメント」という用語の使われ方が、一般的な「ディスプレイスメントマッピング」とは異なる使われ方をしていたことに疑問を持って、深掘りするハメになってしまった。
-
-ただし専門記事になるのでnoteには書きませんが😱 
-
-
-続きをみる]]></summary>
-        <author>
-            <name>#substancepainterタグ</name>
         </author>
     </entry>
 </feed>

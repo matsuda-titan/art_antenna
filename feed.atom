@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-09-30T03:25:06.194Z</updated>
+    <updated>2025-09-30T08:16:24.863Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[今こそ知りたい3D Gaussian Splatting ―― 基礎解説からUnityベースの企業向けオフラインソリューションまで - スペシャルコンテンツ]]></title>
+        <id>https://cgworld.jp/special-feature/2509-3d-gaussian-splatting.html</id>
+        <link href="https://cgworld.jp/special-feature/2509-3d-gaussian-splatting.html"/>
+        <updated>2025-09-30T06:20:00.000Z</updated>
+        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[OverCrowd - Massive Crowd Simulation - 頂点アニメーションテクスチャ（VAT）とNiagaraを活用した超大規模な群衆シミュレーションが可能なUnreal Engine 5向けプラグインが登場！]]></title>
         <id>https://3dnchu.com/?p=1058832</id>
@@ -3915,59 +3925,6 @@ Blender 用スマート衣服作成アドオン Divine Cut 4.0 がリリース�
         <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
         <author>
             <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【Unity Shader】ボーダーシェーダーを作ってみた]]></title>
-        <id>https://qiita.com/foriver4725/items/d16086063f3355a6132b</id>
-        <link href="https://qiita.com/foriver4725/items/d16086063f3355a6132b"/>
-        <updated>2025-08-31T17:54:03.000Z</updated>
-        <summary type="html"><![CDATA[概要
-ボーダーみたいな見た目のシェーダーを作ってみました。
-
-ソースコード
-全体図です。
-Shader "MyShader/Border"
-{
-    Properties
-    {
-        _Color ("Color", Color) = (1, 0, 0...]]></summary>
-        <author>
-            <name>Shaderタグが付けられた新着記事 - Qiita</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[サブペ学習は概念と英単語の暗記が日常茶飯事。英語嫌いには茨道。]]></title>
-        <id>https://note.com/tsukasa_yamato/n/n6731fabb91e4</id>
-        <link href="https://note.com/tsukasa_yamato/n/n6731fabb91e4"/>
-        <updated>2025-08-31T16:18:25.000Z</updated>
-        <summary type="html"><![CDATA[今日も地道にサブスタンス3Dペインター（Substance 3D Painter）学習中。昨日と今日の学習で出てきた新たな単語や概念などの列記。
-
-
-ACES, Linear、その違い
-
-
-GPU側でリアルタイムハイポリ化＋Displacement＝Tessellation、UE5では非推奨
-
-
-Parallax Occlusion Mapping
-
-
-Bump, Height, Normal mapの違い
-
-
-Blender特有の「ディスプレイスメント」という用語の使い方、バンプマップとハイトマップの違い
-
-
-Position map, World Space Normals map, ID map、用はサブペ専用ね
-
-
-Triplanar
-
-
-続きをみる]]></summary>
-        <author>
-            <name>#substancepainterタグ</name>
         </author>
     </entry>
 </feed>

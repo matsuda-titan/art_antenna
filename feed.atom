@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-09-30T00:50:28.387Z</updated>
+    <updated>2025-09-30T03:25:06.194Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[OverCrowd - Massive Crowd Simulation - 頂点アニメーションテクスチャ（VAT）とNiagaraを活用した超大規模な群衆シミュレーションが可能なUnreal Engine 5向けプラグインが登場！]]></title>
+        <id>https://3dnchu.com/?p=1058832</id>
+        <link href="https://3dnchu.com/archives/overcrowd-ue5/"/>
+        <updated>2025-09-30T03:18:27.000Z</updated>
+        <summary type="html"><![CDATA[Unreal Engine 5向けの群衆シミュレーションプラグイン「OverCrowd」がFab上でリリースされました！頂点アニメーションテクスチャ（VAT）とNiagaraを活用し、大規模な群衆シミュレーションも軽快に動作させることが可能とのこと！]]></summary>
+        <author>
+            <name>Ymt3D -3dnchu-</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【GIGABYTE×大阪芸術大学】造形作家Yoshi.氏が学生に伝えたい「キャラクターデザインで大切なこと」 - スペシャルコンテンツ]]></title>
+        <id>https://cgworld.jp/special-feature/2509-gigabyte.html</id>
+        <link href="https://cgworld.jp/special-feature/2509-gigabyte.html"/>
+        <updated>2025-09-30T02:30:00.000Z</updated>
+        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[プラチナゲームズPMが解説「Flow PT」が『NINJA GAIDEN 4』開発チーム全体の土台となるまでのドキュメント]]></title>
+        <id>https://area.autodesk.jp/case/game/ninja-gaiden-4/</id>
+        <link href="https://area.autodesk.jp/case/game/ninja-gaiden-4/"/>
+        <updated>2025-09-30T01:00:00.000Z</updated>
+        <summary type="html"><![CDATA[CEDEC2025にて、「Flow PT で支える『NINJA GAIDEN 4』のプロジェクト運営術」と題したセッションが行われた。同作の開発元であるプラチナゲームズではこれまで、カットシーンの管理などで部分的に「Flow Production Tracking」（以下、Flow PT）を使用してきた経緯はあるものの、アセット制作からプログラム作業などゲーム開発に関われる全部門のタスク管理に採用したのは今回が初めて。導入までにどのような課題を抱えていたのかや、導入するにあたって上長へプレゼンをする方法まで明らかにするなど、導入を検討している同業者にとっても得るものが大きいセッションだった。セッションはこうした「導入編」と、導入後の詳細かつ具体的な運用方法を語った「詳細編」の2部構成で行われた。・・・]]></summary>
+        <author>
+            <name>AREA JAPAN | Autodesk</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【無料アドオン紹介】Physical Volume Generator – 干渉可能なボリュームオブジェクト]]></title>
         <id>https://cgbox.jp/?p=64309</id>
@@ -3938,20 +3968,6 @@ Triplanar
 続きをみる]]></summary>
         <author>
             <name>#substancepainterタグ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【Unity】メッシュの頂点カラーを制御データとして使う]]></title>
-        <id>https://qiita.com/yuri_tsukimi/items/a3a034dc52c851519f41</id>
-        <link href="https://qiita.com/yuri_tsukimi/items/a3a034dc52c851519f41"/>
-        <updated>2025-08-31T14:37:27.000Z</updated>
-        <summary type="html"><![CDATA[メッシュの頂点カラーは色の表現にも使えますが，シェーダーの制御データとして利用することもできます．
-
-Blender から頂点カラーを持ってくる
-Blenderでメッシュに頂点カラーを付けます．Unityでもできますが，Blenderのほうがやりやすいです．
-メッシュデータ...]]></summary>
-        <author>
-            <name>Shaderタグが付けられた新着記事 - Qiita</name>
         </author>
     </entry>
 </feed>

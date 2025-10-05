@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-10-05T08:12:16.816Z</updated>
+    <updated>2025-10-05T12:18:09.372Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
@@ -3731,44 +3731,6 @@ GPUはCPUからの指示を受けて画面描画を行う。描画は高速で�
 The post Blender 2D to 3D Location BlenderやAfter Effectsなどのソフトで作成したトラッキングデータに参照ポイントを手動で追加してモデルを作成出来るアドオン first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
         <author>
             <name>modelinghappy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[個人的にHoudini21の最大のメリットはこれかも、本格採用されたVulkanって何かご存知ですか？]]></title>
-        <id>https://note.com/polymorph_design/n/nc972717468f9</id>
-        <link href="https://note.com/polymorph_design/n/nc972717468f9"/>
-        <updated>2025-09-06T00:13:39.000Z</updated>
-        <summary type="html"><![CDATA[私も今日知りました。OpenGLを置き換える新世代リアルタイムレンダリングAPIがVulkanです。
-
-Vulkanとは
-Vulkanとは、完全な制御機能を必要とする開発者に、GPUの直接アクセスを提供する低レベルAPIです。よりシンプルかつスリムなドライバを採用したVulkanでは、従来のOpenGLやDirect3Dに比べ、レイテンシとオーバーヘッドが抑えられています。また、効率的なマルチスレッド機能も搭載されているので、マルチコアCPUでグラフィックス・パイプラインのロードを維持できるようになり、既存のハードウェアから新たなレベルのパフォーマンスを引き出すことが可能になります。
-Vulkanは、クロスプラットフォームの、初の新世代・低レベルAPIです。Vulkanによって、開発者は、各種のオペレーティング システムを使用するさまざまなPC、モバイル・デバイス、埋め込みデバイスに対応するアプリケーションを開発できるようになります。OpenGLと同様、Vulkanは、どのプラットフォームでも採用できる、オープンでロイヤルティ・フリーの業界標準です。OpenGLやOpenGL ESを使い続けることを希望される開発者のために、NVIDIAは、こうした従来のAPIに基づくイノベーションの促進にも引き続き取り組みます。
-
-NVidiaホームページより引用
-続きをみる]]></summary>
-        <author>
-            <name>#Houdiniタグ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ZBrush内でAIを活用して一枚の画像から深度マップを生成して利用できるZBrushプラグイン「ZDepth」]]></title>
-        <id>https://cginterest.com/?p=50222</id>
-        <link href="https://cginterest.com/2025/09/06/zbrush%e5%86%85%e3%81%a7ai%e3%82%92%e6%b4%bb%e7%94%a8%e3%81%97%e3%81%a6%e4%b8%80%e6%9e%9a%e3%81%ae%e7%94%bb%e5%83%8f%e3%81%8b%e3%82%89%e6%b7%b1%e5%ba%a6%e3%83%9e%e3%83%83%e3%83%97%e3%82%92%e7%94%9f/"/>
-        <updated>2025-09-06T00:10:40.000Z</updated>
-        <summary type="html"><![CDATA[ZM Polygon によるZBrush用のプラグイン「ZDepth」の紹介です。 ZM Polygon とは 「ZDepth」は、AIを活用し、インポートまたはペーストした一枚の画像から、自動的に高品質な深度マップ（デ […]
-ZBrush内でAIを活用して一枚の画像から深度マップを生成して利用できるZBrushプラグイン「ZDepth」 first appeared on CGinterest.]]></summary>
-        <author>
-            <name>.me</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【アドオン紹介】Alt Tab Easy Decals – デカール加工を効率化！]]></title>
-        <id>https://cgbox.jp/?p=64068</id>
-        <link href="https://cgbox.jp/2025/09/06/news-addon-alt-tab-easy-decals/"/>
-        <updated>2025-09-05T23:29:36.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは！ 今回はアドオンの「Alt Tab Easy Decals」を紹介します。 こちらのリンクがアドオンの商品ページになります。 Alt Tab Easy Decals 「Alt Tab Easy Decals」 […]]]></summary>
-        <author>
-            <name>kasahara</name>
         </author>
     </entry>
 </feed>

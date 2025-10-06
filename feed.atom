@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-10-05T12:18:09.372Z</updated>
+    <updated>2025-10-06T00:50:55.386Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[無料のMaya用キャラクターアニメーション効率化ツール「Pickify」公開！　キャラクターのリグコントローラをホットキーで素早く選択 - ニュース]]></title>
+        <id>https://cgworld.jp/flashnews/01-202510-Pickify.html</id>
+        <link href="https://cgworld.jp/flashnews/01-202510-Pickify.html"/>
+        <updated>2025-10-05T22:30:10.000Z</updated>
+        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[実践ノート【保存版】BlenderモデルをUnreal Engineへ：ライティング構築 → マテリアル割り当て → レンダリング 完全手順]]></title>
+        <id>https://note.com/juntominaga/n/nb54ed2b8789f</id>
+        <link href="https://note.com/juntominaga/n/nb54ed2b8789f"/>
+        <updated>2025-10-05T22:08:25.000Z</updated>
+        <summary type="html"><![CDATA[完成イメージ ／ この記事ではこのシーンを作るまでの流れを解説完成イメージ／ 本記事で解説するワークフローの完成形
+続きをみる]]></summary>
+        <author>
+            <name>#substancepainterタグ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hair Cards To Curves – ZBrushのFibermeshやBlenderのカーブからヘアカードを自動生成できるアドオン]]></title>
         <id>https://modelinghappy.com/?p=64874</id>
@@ -90,6 +111,15 @@ Sketchfabマンスリーピックアップ 2025年10月号 first appeared on CGi
         <summary type="html"><![CDATA[こんばんは！ 今回はアドオンの「Rig Align」を紹介します。 こちらのリンクがアドオンの商品ページになります。 Rig Align 「Rig Align」は、Blender用のアドオンで、異なるリグ同士を自動的に位 […]]]></summary>
         <author>
             <name>kasahara</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TVCM・MVを幅広く手がけるMARKが語る「CGの知識より大切なのは、人との関わり方」 - 連載]]></title>
+        <id>https://cgworld.jp/regular/2509-mark.html</id>
+        <link href="https://cgworld.jp/regular/2509-mark.html"/>
+        <updated>2025-10-03T12:26:33.000Z</updated>
+        <author>
+            <name>CGWORLD</name>
         </author>
     </entry>
     <entry>
@@ -3684,53 +3714,6 @@ ComfyUI アップデートを紹介！UI/UXの大幅改善、APIノードの並�
 続きをみる]]></summary>
         <author>
             <name>#substancepainterタグ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ComfyUI、Qwen-Image ControlNet をネイティブサポート！ワークフローを紹介！]]></title>
-        <id>https://cginterest.com/?p=50149</id>
-        <link href="https://cginterest.com/2025/09/06/comfyui%e3%80%81qwen-image-controlnet-%e3%82%92%e3%83%8d%e3%82%a4%e3%83%86%e3%82%a3%e3%83%96%e3%82%b5%e3%83%9d%e3%83%bc%e3%83%88%ef%bc%81%e3%83%af%e3%83%bc%e3%82%af%e3%83%95%e3%83%ad%e3%83%bc%e3%82%92/"/>
-        <updated>2025-09-06T09:09:00.000Z</updated>
-        <summary type="html"><![CDATA[2025年8月27日（現地時間）- ComfyUIで利用できる画像生成モデル 「Qwen-Image」がControlNet に対応したことが発表されました。 「Qwen-Image」は、AlibabaのQwenチームが […]
-ComfyUI、Qwen-Image ControlNet をネイティブサポート！ワークフローを紹介！ first appeared on CGinterest.]]></summary>
-        <author>
-            <name>.me</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HLSLシェーダーの魔導書 第1章まとめ：CPU・GPUとレンダリング基礎]]></title>
-        <id>https://qiita.com/T4kumin/items/71de2dea94f162ebf0c6</id>
-        <link href="https://qiita.com/T4kumin/items/71de2dea94f162ebf0c6"/>
-        <updated>2025-09-06T07:55:59.000Z</updated>
-        <summary type="html"><![CDATA[今回は、HLSLシェーダーの魔導書について学習の記録を残していきます。
-
-CPUとGPU
-CPUはキャラクターの移動や音楽の再生など、ゲーム進行に必要な処理を行います。
-GPUはCPUからの指示を受けて画面描画を行う。描画は高速で行う必要があるため、多数のコアを扱いま...]]></summary>
-        <author>
-            <name>Shaderタグが付けられた新着記事 - Qiita</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3Dスキャンアプリ KIRI Engine 4.0 がリリース！写真スキャンの高速化、新しい AR モード、AI 搭載 PBR など]]></title>
-        <id>https://cginterest.com/?p=50223</id>
-        <link href="https://cginterest.com/2025/09/06/3d%e3%82%b9%e3%82%ad%e3%83%a3%e3%83%b3%e3%82%a2%e3%83%97%e3%83%aa-kiri-engine-4-0-%e3%81%8c%e3%83%aa%e3%83%aa%e3%83%bc%e3%82%b9%ef%bc%81%e5%86%99%e7%9c%9f%e3%82%b9%e3%82%ad%e3%83%a3%e3%83%b3%e3%81%ae/"/>
-        <updated>2025-09-06T02:33:00.000Z</updated>
-        <summary type="html"><![CDATA[2025年9月5日、スマートフォン向け3Dスキャンアプリ「KIRI Engine」がメジャーアップデートとなるバージョン4.0をリリースしました。本記事では、KIRI Engineの基本機能から、今回のアップデートで追加 […]
-3Dスキャンアプリ KIRI Engine 4.0 がリリース！写真スキャンの高速化、新しい AR モード、AI 搭載 PBR など first appeared on CGinterest.]]></summary>
-        <author>
-            <name>.me</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Blender 2D to 3D Location BlenderやAfter Effectsなどのソフトで作成したトラッキングデータに参照ポイントを手動で追加してモデルを作成出来るアドオン]]></title>
-        <id>https://modelinghappy.com/?p=64443</id>
-        <link href="https://modelinghappy.com/archives/64443"/>
-        <updated>2025-09-06T01:18:14.000Z</updated>
-        <summary type="html"><![CDATA[Blender 2D to 3D Location Addon #8211; With Mesh Builder Blender 2D to 3D Location Addonは、Blenderで作成したトラッキングデ
-The post Blender 2D to 3D Location BlenderやAfter Effectsなどのソフトで作成したトラッキングデータに参照ポイントを手動で追加してモデルを作成出来るアドオン first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
-        <author>
-            <name>modelinghappy</name>
         </author>
     </entry>
 </feed>

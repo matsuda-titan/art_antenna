@@ -2924,16 +2924,6 @@
           "wordCount": 1209,
           "title": "HLSLシェーダーの魔導書 第4章まとめ:ライティング基礎",
           "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnFpaXRhLWltYWdlLXN0b3JlLnMzLmFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkYwJTJGMTU1MDk2MiUyRnByb2ZpbGUtaW1hZ2VzJTJGMTc1MjI5NzA5Nj9peGxpYj1yYi00LjAuMCZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9ZmQ1NWMwYTFiOWNlM2Q5ZjI4NzFjOWNmZDdiMTE4N2Q%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D7b204fda6e011fe0e4e0d2ffb9a62f2e?ixlib=rb-4.0.0&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9SExTTCVFMyU4MiVCNyVFMyU4MiVBNyVFMyU4MyVCQyVFMyU4MyU4MCVFMyU4MyVCQyVFMyU4MSVBRSVFOSVBRCU5NCVFNSVCMCU4RSVFNiU5QiVCOCUyMCVFNyVBQyVBQzQlRTclQUIlQTAlRTMlODElQkUlRTMlODElQTglRTMlODIlODElM0ElRTMlODMlQTklRTMlODIlQTQlRTMlODMlODYlRTMlODIlQTMlRTMlODMlQjMlRTMlODIlQjAlRTUlOUYlQkElRTclQTQlOEUmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz01NmExYzU5NWNlNGQwNTAwZGI2MjUyYjg2NjI4ZDI3ZA&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBUNGt1bWluJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9MGZkZjQ4OGQyZGMzNTBmZWY5YTE0ZWMzY2E0NzYwODM&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=f699e8dfde34a0d8e06d8df36ef4cd5e"
-        },
-        {
-          "id": "https://qiita.com/T4kumin/items/e04555a2c628918e2f66",
-          "author": null,
-          "description": "座標変換\n\n◇行列とベクトルの乗算\nベクトルに行列を乗算すると、別の空間に変換することが出来るので、頂点座標変換は、行列とベクトルの乗算で表現できる。\nゲームをスクリーンに表示するには、3つの行列が必要になる\n\nワールド行列\nカメラ行列\n透視変換行列\n\n学習書籍では、変換...",
-          "link": "https://qiita.com/T4kumin/items/e04555a2c628918e2f66",
-          "publishedOn": "2025-09-13T16:36:36.000Z",
-          "wordCount": 1271,
-          "title": "HLSLシェーダーの魔導書 第3章まとめ:シェーダープログラミングの基本",
-          "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnFpaXRhLWltYWdlLXN0b3JlLnMzLmFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkYwJTJGMTU1MDk2MiUyRnByb2ZpbGUtaW1hZ2VzJTJGMTc1MjI5NzA5Nj9peGxpYj1yYi00LjAuMCZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9ZmQ1NWMwYTFiOWNlM2Q5ZjI4NzFjOWNmZDdiMTE4N2Q%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D7b204fda6e011fe0e4e0d2ffb9a62f2e?ixlib=rb-4.0.0&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9SExTTCVFMyU4MiVCNyVFMyU4MiVBNyVFMyU4MyVCQyVFMyU4MyU4MCVFMyU4MyVCQyVFMyU4MSVBRSVFOSVBRCU5NCVFNSVCMCU4RSVFNiU5QiVCOCUyMCVFNyVBQyVBQzMlRTclQUIlQTAlRTMlODElQkUlRTMlODElQTglRTMlODIlODElM0ElRTMlODIlQjclRTMlODIlQTclRTMlODMlQkMlRTMlODMlODAlRTMlODMlQkMlRTMlODMlOTclRTMlODMlQUQlRTMlODIlQjAlRTMlODMlQTklRTMlODMlOUYlRTMlODMlQjMlRTMlODIlQjAlRTMlODElQUUlRTUlOUYlQkElRTYlOUMlQUMmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz0zNjk4ZWUxMGMwZjkzNjJkNDhhMjdhMjQwNTQ0ZmIwZg&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBUNGt1bWluJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9MGZkZjQ4OGQyZGMzNTBmZWY5YTE0ZWMzY2E0NzYwODM&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=441119531a02fb35cc2164b1441a0436"
         }
       ]
     },
@@ -3181,6 +3171,16 @@
       "feedUrl": "https://note.com/hashtag/Houdini/rss",
       "siteUrl": "https://note.com/hashtag/Houdini",
       "articles": [
+        {
+          "id": "https://note.com/makeinufilm/n/n790aa81ff7f9",
+          "author": null,
+          "description": "houdini難しすぎぃ！！\nhoudiniが難しいというよりノードを全部把握したい欲求が強い！\n続きをみる",
+          "link": "https://note.com/makeinufilm/n/n790aa81ff7f9",
+          "publishedOn": "2025-10-13T06:08:24.000Z",
+          "wordCount": 2866,
+          "title": "Houdiniメモ①Attributeノード周り",
+          "imageUrl": "https://d2l930y2yx77uc.cloudfront.net/production/social_images/90597a3be74255c7868ce686ab324b60f2ddaa8f.png"
+        },
         {
           "id": "https://note.com/forum_usd_tokyo/n/n58f7f0a4ae1f",
           "author": null,

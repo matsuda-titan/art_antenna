@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-10-13T03:36:57.468Z</updated>
+    <updated>2025-10-13T08:15:57.933Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Houdiniメモ①Attributeノード周り]]></title>
+        <id>https://note.com/makeinufilm/n/n790aa81ff7f9</id>
+        <link href="https://note.com/makeinufilm/n/n790aa81ff7f9"/>
+        <updated>2025-10-13T06:08:24.000Z</updated>
+        <summary type="html"><![CDATA[houdini難しすぎぃ！！
+houdiniが難しいというよりノードを全部把握したい欲求が強い！
+続きをみる]]></summary>
+        <author>
+            <name>#Houdiniタグ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【UE5】Unreal Engineの使い方を完全ガイドするチュートリアルをレビュー！]]></title>
         <id>https://cgbox.jp/?p=64365</id>
@@ -3635,26 +3647,6 @@ JavaScriptの直列の処理、glslの並列の処理の2つを考慮して実�
 自然にオブジェクトを散らすことができるBlender用の物理ベースのスキャタリングツール「Drop Cast」 first appeared on CGinterest.]]></summary>
         <author>
             <name>.me</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HLSLシェーダーの魔導書 第3章まとめ:シェーダープログラミングの基本]]></title>
-        <id>https://qiita.com/T4kumin/items/e04555a2c628918e2f66</id>
-        <link href="https://qiita.com/T4kumin/items/e04555a2c628918e2f66"/>
-        <updated>2025-09-13T16:36:36.000Z</updated>
-        <summary type="html"><![CDATA[座標変換
-
-◇行列とベクトルの乗算
-ベクトルに行列を乗算すると、別の空間に変換することが出来るので、頂点座標変換は、行列とベクトルの乗算で表現できる。
-ゲームをスクリーンに表示するには、3つの行列が必要になる
-
-ワールド行列
-カメラ行列
-透視変換行列
-
-学習書籍では、変換...]]></summary>
-        <author>
-            <name>Shaderタグが付けられた新着記事 - Qiita</name>
         </author>
     </entry>
 </feed>

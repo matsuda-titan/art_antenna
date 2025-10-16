@@ -12,6 +12,16 @@
       "siteUrl": "https://cgbox.jp",
       "articles": [
         {
+          "id": "https://cgbox.jp/?p=64396",
+          "author": "kasahara",
+          "description": "こんばんは！ 今回はアドオンの「Simply Shatter」を紹介します。 こちらのリンクがアドオンの商品ページになります。 Simply Shatter 「Simply Shatter」は、ガラスなど、あらゆる素材を […]",
+          "link": "https://cgbox.jp/2025/10/16/news-addon-simply-shatter/",
+          "publishedOn": "2025-10-16T01:11:34.000Z",
+          "wordCount": 2191,
+          "title": "【アドオン紹介】Simply Shatter – リアルで自在な破砕エフェクトを簡単に作れるアドオン",
+          "imageUrl": "https://cgbox.jp/wp-content/uploads/2025/10/image_processing20251013-2-uiofxh.gif"
+        },
+        {
           "id": "https://cgbox.jp/?p=64283",
           "author": "kasahara",
           "description": "こちらの記事はプロモーションを含みます。 こんにちは。 今回はガジェットレビュー記事です！ 今回はXPPENの最新液タブの「Artist Ultra 16」を提供していただいたので、CGbox編集部がレビューしていきます […]",
@@ -2723,21 +2733,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--tIGoJdgO--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2581%259D%25E3%2582%258D%25E3%2581%259D%25E3%2582%258DShader%25E3%2582%2592%25E3%2582%2584%25E3%2582%258B%25E3%2583%2591%25E3%2583%25BC%25E3%2583%258894%2520-URP%25E7%25B7%25A8-%2520%25E3%2582%25B0%25E3%2583%25AA%25E3%2583%2583%25E3%2583%2589%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:KENTO%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzljMzE5Nzg1ZjUuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
-        },
-        {
-          "id": "https://zenn.dev/minaduki/articles/ab9b6aa709b6fa",
-          "author": "Minaduki",
-          "description": "VolumetricFog\nVolumetricFogとはVolumeRenderingによって作成されるFogのことを指します。\n以下のように霧のようなものを作成することが出来ます。\n\n普段からよく見るShaderはSurfaceRenderingと呼ばれメッシュの表面に色を塗ることを指します。\nUnityのProjectViewで右クリックをした際にShaderの項目でStandardSurfaceShaderという名前を目にしたことがあると思いますがそれはこのことを指します。\n反対にVolumeRenderingは内部まで描画します。\nなので内部の詳細を描くことが出来るので雲や...",
-          "link": "https://zenn.dev/minaduki/articles/ab9b6aa709b6fa",
-          "publishedOn": "2025-09-16T13:01:22.000Z",
-          "wordCount": null,
-          "title": "UnityでRayｍarchingを用いてVolumetricFogを実装する",
-          "enclosure": {
-            "url": "https://res.cloudinary.com/zenn/image/upload/s--cTP1Ubdz--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Unity%25E3%2581%25A7Ray%25EF%25BD%258Darching%25E3%2582%2592%25E7%2594%25A8%25E3%2581%2584%25E3%2581%25A6VolumetricFog%25E3%2582%2592%25E5%25AE%259F%25E8%25A3%2585%25E3%2581%2599%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Minaduki%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly96ZW5uLWRldi5naXRodWIuaW8vZGVmYXVsdC1hdmF0YXJzL2RhcmsvbS5wbmc=%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png",
-            "length": "0",
-            "type": "image/png"
-          },
-          "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--cTP1Ubdz--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Unity%25E3%2581%25A7Ray%25EF%25BD%258Darching%25E3%2582%2592%25E7%2594%25A8%25E3%2581%2584%25E3%2581%25A6VolumetricFog%25E3%2582%2592%25E5%25AE%259F%25E8%25A3%2585%25E3%2581%2599%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Minaduki%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly96ZW5uLWRldi5naXRodWIuaW8vZGVmYXVsdC1hdmF0YXJzL2RhcmsvbS5wbmc=%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
         }
       ]
     },
@@ -2770,21 +2765,6 @@
           "wordCount": 228,
           "title": "C言語とOpenGLで作るゲームエンジン開発(2Dレンダリング編)",
           "imageUrl": "https://static.zenn.studio/images/logo-only-dark.png"
-        },
-        {
-          "id": "https://zenn.dev/minaduki/articles/ab9b6aa709b6fa",
-          "author": "Minaduki",
-          "description": "VolumetricFog\nVolumetricFogとはVolumeRenderingによって作成されるFogのことを指します。\n以下のように霧のようなものを作成することが出来ます。\n\n普段からよく見るShaderはSurfaceRenderingと呼ばれメッシュの表面に色を塗ることを指します。\nUnityのProjectViewで右クリックをした際にShaderの項目でStandardSurfaceShaderという名前を目にしたことがあると思いますがそれはこのことを指します。\n反対にVolumeRenderingは内部まで描画します。\nなので内部の詳細を描くことが出来るので雲や...",
-          "link": "https://zenn.dev/minaduki/articles/ab9b6aa709b6fa",
-          "publishedOn": "2025-09-16T13:01:22.000Z",
-          "wordCount": 3512,
-          "title": "UnityでRayｍarchingを用いてVolumetricFogを実装する",
-          "enclosure": {
-            "url": "https://res.cloudinary.com/zenn/image/upload/s--cTP1Ubdz--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Unity%25E3%2581%25A7Ray%25EF%25BD%258Darching%25E3%2582%2592%25E7%2594%25A8%25E3%2581%2584%25E3%2581%25A6VolumetricFog%25E3%2582%2592%25E5%25AE%259F%25E8%25A3%2585%25E3%2581%2599%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Minaduki%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly96ZW5uLWRldi5naXRodWIuaW8vZGVmYXVsdC1hdmF0YXJzL2RhcmsvbS5wbmc=%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png",
-            "length": "0",
-            "type": "image/png"
-          },
-          "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--cTP1Ubdz--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Unity%25E3%2581%25A7Ray%25EF%25BD%258Darching%25E3%2582%2592%25E7%2594%25A8%25E3%2581%2584%25E3%2581%25A6VolumetricFog%25E3%2582%2592%25E5%25AE%259F%25E8%25A3%2585%25E3%2581%2599%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Minaduki%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly96ZW5uLWRldi5naXRodWIuaW8vZGVmYXVsdC1hdmF0YXJzL2RhcmsvbS5wbmc=%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
         }
       ]
     },
@@ -3095,21 +3075,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--9Pvx522a--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Unity%25E3%2581%25AEBRP%25E3%2581%25AB%25E3%2581%258A%25E3%2581%2591%25E3%2582%258B%25E3%2582%25B9%25E3%2583%2595%25E3%2582%25A3%25E3%2582%25A2%25E3%2583%2588%25E3%2583%25AC%25E3%2583%25BC%25E3%2582%25B7%25E3%2583%25B3%25E3%2582%25B0%25E3%2582%2592%25E7%2594%25A8%25E3%2581%2584%25E3%2581%259F%25E3%2583%25AC%25E3%2582%25A4%25E3%2583%259E%25E3%2583%25BC%25E3%2583%2581%25E3%2583%25B3%25E3%2582%25B0%25E3%2581%25AETips%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:koturn%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jSTNrN0pQTTVPWVZnR2lpTFZGRkZZV2J4V2Q2WVhYQ3NkRXFIYzZvbDRwSG1IdGMxS3g9czk2LWM=%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
-        },
-        {
-          "id": "https://zenn.dev/minaduki/articles/ab9b6aa709b6fa",
-          "author": "Minaduki",
-          "description": "VolumetricFog\nVolumetricFogとはVolumeRenderingによって作成されるFogのことを指します。\n以下のように霧のようなものを作成することが出来ます。\n\n普段からよく見るShaderはSurfaceRenderingと呼ばれメッシュの表面に色を塗ることを指します。\nUnityのProjectViewで右クリックをした際にShaderの項目でStandardSurfaceShaderという名前を目にしたことがあると思いますがそれはこのことを指します。\n反対にVolumeRenderingは内部まで描画します。\nなので内部の詳細を描くことが出来るので雲や...",
-          "link": "https://zenn.dev/minaduki/articles/ab9b6aa709b6fa",
-          "publishedOn": "2025-09-16T13:01:22.000Z",
-          "wordCount": null,
-          "title": "UnityでRayｍarchingを用いてVolumetricFogを実装する",
-          "enclosure": {
-            "url": "https://res.cloudinary.com/zenn/image/upload/s--cTP1Ubdz--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Unity%25E3%2581%25A7Ray%25EF%25BD%258Darching%25E3%2582%2592%25E7%2594%25A8%25E3%2581%2584%25E3%2581%25A6VolumetricFog%25E3%2582%2592%25E5%25AE%259F%25E8%25A3%2585%25E3%2581%2599%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Minaduki%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly96ZW5uLWRldi5naXRodWIuaW8vZGVmYXVsdC1hdmF0YXJzL2RhcmsvbS5wbmc=%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png",
-            "length": "0",
-            "type": "image/png"
-          },
-          "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--cTP1Ubdz--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Unity%25E3%2581%25A7Ray%25EF%25BD%258Darching%25E3%2582%2592%25E7%2594%25A8%25E3%2581%2584%25E3%2581%25A6VolumetricFog%25E3%2582%2592%25E5%25AE%259F%25E8%25A3%2585%25E3%2581%2599%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Minaduki%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly96ZW5uLWRldi5naXRodWIuaW8vZGVmYXVsdC1hdmF0YXJzL2RhcmsvbS5wbmc=%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
         }
       ]
     },
@@ -3124,6 +3089,16 @@
       "feedUrl": "https://area.autodesk.jp/rss.xml",
       "siteUrl": "https://area.autodesk.jp/",
       "articles": [
+        {
+          "id": "https://area.autodesk.jp/case/designviz/signify/",
+          "author": null,
+          "description": "浜松市の市営野球場「浜松球場」が夜間照明塔の LED 化を完了した。中日ドラゴンズの公式戦が年 1、2 回開かれることもあり、日本プロ野球が設定する照明基準を満たすことが求められた。照明の計画立案から設計、機器提供に至るまで一連の業務に携わったのは、世界各国の主要スタジアムの照明計画を数多く手掛ける照明器具メーカーのシグニファイだった。・・・",
+          "link": "https://area.autodesk.jp/case/designviz/signify/",
+          "publishedOn": "2025-10-16T02:15:00.000Z",
+          "wordCount": 241,
+          "title": "3次元導くスポーツ照明の最適化 浜松球場に最先端ノウハウ - シグニファイジャパン合同会社",
+          "imageUrl": "https://area.autodesk.jp/case/assets_c/2025/10/ic_case_signify_1400x782-thumb-1200xauto-5749.jpg"
+        },
         {
           "id": "https://area.autodesk.jp/column/tutorial/3ds-max-plugin/09-tyflow-forestpack-01/",
           "author": null,

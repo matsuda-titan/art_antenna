@@ -1088,6 +1088,16 @@
       "siteUrl": "https://cgworld.jp/",
       "articles": [
         {
+          "id": "https://cgworld.jp/article/2510-housenka.html",
+          "author": null,
+          "description": "アニメ映画『ホウセンカ』木下 麦監督インタビュー",
+          "link": "https://cgworld.jp/article/2510-housenka.html",
+          "publishedOn": "2025-10-16T03:00:46.000Z",
+          "wordCount": 780,
+          "title": "アニメ映画『ホウセンカ』木下 麦監督インタビュー、TVアニメ『オッドタクシー』のヒットを経てさらなるチャレンジへ - 特集",
+          "imageUrl": "https://cgworld.jp/article/assets_c/2025/10/889cd97b654acf0f687873b8e6ea3b26e201c636-thumb-1000x563-74668.jpg"
+        },
+        {
           "id": "https://cgworld.jp/regular/202510-YUKIKAZE-VFX.html",
           "author": null,
           "description": "",
@@ -2031,6 +2041,16 @@
       "siteUrl": "https://modelinghappy.com",
       "articles": [
         {
+          "id": "https://modelinghappy.com/?p=65005",
+          "author": "modelinghappy",
+          "description": "Simply Shatter Simply Shatterは、Blenderで平面モデルを数クリックで、ガラスが割れて細かな破片が飛び散るようなアニメーションやモデルを簡単に作成できるアドオンです。 破壊された面や破片の\nThe post Simply Shatter–プリセットから選ぶだけでリアルなガラス破片が飛び散るアニメーションを作成・細かく制御できるBlender用アドオン first appeared on 3DCG最新情報サイト MODELING HAPPY.",
+          "link": "https://modelinghappy.com/archives/65005",
+          "publishedOn": "2025-10-16T04:35:01.000Z",
+          "wordCount": 3685,
+          "title": "Simply Shatter–プリセットから選ぶだけでリアルなガラス破片が飛び散るアニメーションを作成・細かく制御できるBlender用アドオン",
+          "imageUrl": "https://modelinghappy.com/wp-content/uploads/2025/10/20251016_Simply_Shatter_01.jpg"
+        },
+        {
           "id": "https://modelinghappy.com/?p=64997",
           "author": "modelinghappy",
           "description": "Surfaceflow #8211; Realtime Surface Deformation SurfaceFlowはBlenderで別のメッシュの表面にリアルタイムでラッピングできるモディファイアです。 単なる投影\nThe post SurfaceFlow – モデルをリアルタイムで曲面に沿わせられるBlender用モディファイア first appeared on 3DCG最新情報サイト MODELING HAPPY.",
@@ -2675,6 +2695,21 @@
       "siteUrl": "https://zenn.dev/topics/shader",
       "articles": [
         {
+          "id": "https://zenn.dev/testkun08080/articles/react-postshader-195d07b1ed77da",
+          "author": "testkun08080",
+          "description": "はじめに\nもう九月か。。。\n独り立ちして約１年ぐらい経とうとしている中、ポートフォリオページがまだUnder Maintenanceなので、\n重い腰を上げて、ポートフォリオページを作成することにしました。\nそこで、大好きなシェーダーをポートフォリオにもモリモリ使おうと思い立ったのがきっかけです。\n（ゲームだとそうは行かないので）\nこの記事では以下モジュール\n\n@react-three/drei\n@react-three/postprocessing\npostprocessing\n\nで用意されている一般的なポストエフェクトの実装と、カスタムシェーダーを使ったワールドノーマルを表示を行っ...",
+          "link": "https://zenn.dev/testkun08080/articles/react-postshader-195d07b1ed77da",
+          "publishedOn": "2025-10-16T03:30:00.000Z",
+          "wordCount": 5210,
+          "title": "ポストエフェクト祭り。React/ポストプロセスを触ってカスタムシェーダーの作り方をざっくり理解してみよう",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--ERxaD010--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%259D%25E3%2582%25B9%25E3%2583%2588%25E3%2582%25A8%25E3%2583%2595%25E3%2582%25A7%25E3%2582%25AF%25E3%2583%2588%25E7%25A5%25AD%25E3%2582%258A%25E3%2580%2582React%252F%25E3%2583%259D%25E3%2582%25B9%25E3%2583%2588%25E3%2583%2597%25E3%2583%25AD%25E3%2582%25BB%25E3%2582%25B9%25E3%2582%2592%25E8%25A7%25A6%25E3%2581%25A3%25E3%2581%25A6%25E3%2582%25AB%25E3%2582%25B9%25E3%2582%25BF%25E3%2583%25A0%25E3%2582%25B7%25E3%2582%25A7%25E3%2583%25BC%25E3%2583%2580%25E3%2583%25BC%25E3%2581%25AE%25E4%25BD%259C%25E3%2582%258A%25E6%2596%25B9%25E3%2582%2592%25E3%2581%2596%25E3%2581%25A3%25E3%2581%258F%25E3%2582%258A%25E7%2590%2586%25E8%25A7%25A3%25E3%2581%2597%25E3%2581%25A6%25E3%2581%25BF%25E3%2582%2588%25E3%2581%2586%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:testkun08080%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzYxMjE5ZTQ2YzguanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
+            "length": "0",
+            "type": "false"
+          },
+          "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--ERxaD010--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%259D%25E3%2582%25B9%25E3%2583%2588%25E3%2582%25A8%25E3%2583%2595%25E3%2582%25A7%25E3%2582%25AF%25E3%2583%2588%25E7%25A5%25AD%25E3%2582%258A%25E3%2580%2582React%252F%25E3%2583%259D%25E3%2582%25B9%25E3%2583%2588%25E3%2583%2597%25E3%2583%25AD%25E3%2582%25BB%25E3%2582%25B9%25E3%2582%2592%25E8%25A7%25A6%25E3%2581%25A3%25E3%2581%25A6%25E3%2582%25AB%25E3%2582%25B9%25E3%2582%25BF%25E3%2583%25A0%25E3%2582%25B7%25E3%2582%25A7%25E3%2583%25BC%25E3%2583%2580%25E3%2583%25BC%25E3%2581%25AE%25E4%25BD%259C%25E3%2582%258A%25E6%2596%25B9%25E3%2582%2592%25E3%2581%2596%25E3%2581%25A3%25E3%2581%258F%25E3%2582%258A%25E7%2590%2586%25E8%25A7%25A3%25E3%2581%2597%25E3%2581%25A6%25E3%2581%25BF%25E3%2582%2588%25E3%2581%2586%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:testkun08080%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzYxMjE5ZTQ2YzguanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"
+        },
+        {
           "id": "https://zenn.dev/matrixsoftware/articles/649027fbed6e36",
           "author": "株式会社マトリックス",
           "description": "秋涼の候、本ブログをご覧のゲーム好きの皆様におかれましてはTGS2025での発表も記憶に新しいことと存じますが、いかがお過ごしでしょうか。\nゲーム事業部 技術課のK.Yです。\n近頃は、描画の最適化対応やシェーダーの作成など、専ら描画周りの業務にあたっています。\n今回はUnityのステンシルバッファを利用した面白い描画表現を試してみましたので、簡単な解説を添えて紹介いたします！\n拙稿ではございますが、最後までお付き合いいただけますと幸いです。\n\n 概要\nさて、早速ではございますが、完成した動画をご覧ください！\nhttps://youtu.be/iEwkqXMawLY\nご覧いただいたのは、キ...",
@@ -3207,6 +3242,16 @@
       "siteUrl": "https://note.com/dftalk",
       "articles": [
         {
+          "id": "https://note.com/dftalk/n/ncc055906d4df",
+          "author": null,
+          "description": "前書き\nこんにちは。\nTD室でアニメーション関連のTDをしている浅野です。\n主にMotionBuilderやMaya関連のツールを作成しています。\n今後ともよろしくお願いいたします。\n早速ではありますが、今回はMotionBuilderのBatchモードによる\n自動処理方法を紹介します。\n続きをみる",
+          "link": "https://note.com/dftalk/n/ncc055906d4df",
+          "publishedOn": "2025-10-16T04:00:06.000Z",
+          "wordCount": 3316,
+          "title": "MotionBuilderでGUI不要！バッチファイル＆PythonによるFBX自動処理入門",
+          "imageUrl": "https://assets.st-note.com/production/uploads/images/222593065/rectangle_large_type_2_7d932b6753f29b6fe88ea0bc904c5c1f.png?width=800"
+        },
+        {
           "id": "https://note.com/dftalk/n/nee0da1abfa6a",
           "author": null,
           "description": "今回は、pyfbsdkを使ってアニメーション制御の入門編となる説明をします。\n担当はTD神原です、よろしくお願いいたします。\n対象読者\n続きをみる",
@@ -3426,16 +3471,6 @@
           "wordCount": 2409,
           "title": "InstaMatを使ってみた（ペイント編）",
           "imageUrl": "https://assets.st-note.com/production/uploads/images/216361875/rectangle_large_type_2_07440e219699b2bca38c293738f42b3a.png?width=800"
-        },
-        {
-          "id": "https://note.com/creatorsaki_vlog/n/nda9880d27452",
-          "author": null,
-          "description": "Substance Painterでテクスチャをつけ、キッチンはこんな感じに仕上がりました。\nSubstance Painterでは、基本的にはできるだけスマートマテリアルなどを使わずに思ったような質感になるよう工夫し制作していますが、まだまだだなと実感します。\n\n続きをみる",
-          "link": "https://note.com/creatorsaki_vlog/n/nda9880d27452",
-          "publishedOn": "2025-09-16T17:16:11.000Z",
-          "wordCount": 2339,
-          "title": "3DCG建築パース02",
-          "imageUrl": "https://assets.st-note.com/production/uploads/images/215884531/rectangle_large_type_2_b8693f3ec83ba13066afaa3ec8403dd8.png?width=800"
         }
       ]
     },

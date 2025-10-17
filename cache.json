@@ -1079,21 +1079,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "https://3dnchu.com/wp-content/uploads/renderman-26.jpg"
-        },
-        {
-          "id": "https://3dnchu.com/?p=1058432",
-          "author": "Ymt3D -3dnchu-",
-          "description": "Edouard Boudet氏による、レベル内にフィードバック用メモと座標を残す事が出来るUnreal Engine 5向けの無料プラグイン「UNote」がリリースされています！",
-          "link": "https://3dnchu.com/archives/unote/",
-          "publishedOn": "2025-09-17T18:12:48.000Z",
-          "wordCount": 8813,
-          "title": "UNote - レベル内にフィードバック用メモと座標を残す事が出来るUnreal Engine 5向けの無料プラグイン！修正タスク共有やコラボレーレーションを効率化！",
-          "enclosure": {
-            "url": "https://3dnchu.com/wp-content/uploads/UNote.webp",
-            "length": "797008",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://3dnchu.com/wp-content/uploads/UNote.webp"
         }
       ]
     },
@@ -1102,6 +1087,16 @@
       "feedUrl": "https://cgworld.jp/atom.xml",
       "siteUrl": "https://cgworld.jp/",
       "articles": [
+        {
+          "id": "https://cgworld.jp/article/202510-houdini-animal.html",
+          "author": null,
+          "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
+          "link": "https://cgworld.jp/article/202510-houdini-animal.html",
+          "publishedOn": "2025-10-17T02:48:00.000Z",
+          "wordCount": 891,
+          "title": "Houdiniを使ったリアルな動物の毛並み表現をCafeGroup西田健一氏が徹底解説！ 「INSIDE OF DIGITAL ANIMAL」レポート - 特集",
+          "imageUrl": "https://cgworld.jp/article/assets_c/2025/10/c253bd09bed31a1f70bdfc9adf0529b0c7fd4a4e-thumb-1822x977-74812.jpg"
+        },
         {
           "id": "https://cgworld.jp/flashnews/01-202510-OffsetGeometricContact.html",
           "author": null,
@@ -3573,6 +3568,31 @@
       "feedUrl": "https://cginterest.com/feed/",
       "siteUrl": "https://cginterest.com",
       "articles": [
+        {
+          "id": "https://cginterest.com/?p=51762",
+          "author": ".me",
+          "description": "TAngraFX によるBlenderアドオン「Simply Shatter」の紹介です。 Simply Shatter とは 「Simply Shatter」は、TAngraFXと Simply Cloth Studi […]\nBlender破砕エフェクト作成アドオン「Simply Shatter」がリリース！リアルな物理ベースの破砕エフェクト作成が簡単に！ first appeared on CGinterest.",
+          "link": "https://cginterest.com/2025/10/17/blender%e7%a0%b4%e7%a0%95%e3%82%a8%e3%83%95%e3%82%a7%e3%82%af%e3%83%88%e4%bd%9c%e6%88%90%e3%82%a2%e3%83%89%e3%82%aa%e3%83%b3%e3%80%8csimply-shatter%e3%80%8d%e3%81%8c%e3%83%aa%e3%83%aa%e3%83%bc/",
+          "publishedOn": "2025-10-17T07:40:00.000Z",
+          "wordCount": 29633,
+          "title": "Blender破砕エフェクト作成アドオン「Simply Shatter」がリリース！リアルな物理ベースの破砕エフェクト作成が簡単に！",
+          "enclosure": {
+            "url": "https://cginterest.com/wp-content/uploads/2025/10/Simply-Shatter-Hammer.mp4",
+            "length": "49325",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://cginterest.com/wp-content/uploads/2025/10/20251017_simply-shatter.webp"
+        },
+        {
+          "id": "https://cginterest.com/?p=51738",
+          "author": ".me",
+          "description": "2025年10月15日（現地時間）- Google は、AI映画制作ツールであるFlowの強化と Veo 3.1 を発表しました。 Veo 3.1 がリリース Google の最先端動画生成モデル「Veo 3.1 」が公 […]\nGoogle、動画生成AI「Veo 3.1」を発表！映画製作ツール Flow には新しいコントロール機能が追加 first appeared on CGinterest.",
+          "link": "https://cginterest.com/2025/10/17/google%e3%80%81%e5%8b%95%e7%94%bb%e7%94%9f%e6%88%90ai%e3%80%8cveo-3-1%e3%80%8d%e3%82%92%e7%99%ba%e8%a1%a8%ef%bc%81%e6%98%a0%e7%94%bb%e8%a3%bd%e4%bd%9c%e3%83%84%e3%83%bc%e3%83%ab-flow-%e3%81%ab/",
+          "publishedOn": "2025-10-17T04:47:48.000Z",
+          "wordCount": 29672,
+          "title": "Google、動画生成AI「Veo 3.1」を発表！映画製作ツール Flow には新しいコントロール機能が追加",
+          "imageUrl": "https://cginterest.com/wp-content/uploads/2025/10/20251017veo3_1.webp"
+        },
         {
           "id": "https://cginterest.com/?p=51740",
           "author": ".me",

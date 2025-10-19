@@ -2635,6 +2635,21 @@
       "siteUrl": "https://zenn.dev/topics/shader",
       "articles": [
         {
+          "id": "https://zenn.dev/h0r0/articles/6a2e86e4b7f076",
+          "author": "horo",
+          "description": "あくまで個人用メモなので、間違いがあるかもしれないです。\n\n\n 基本的な使い方\n\n\n#include \"Packages/com.llealloo.audiolink/Runtime/Shaders/AudioLink.cginc\"でAudioLinkの機能をインクルードする。\n\n\n上記でインクルードされた関数のうちの一つ、AudioLinkData()を使うと、AudioLinkが提供する音声解析データが載っているテクスチャから指定したピクセルの色データを取り出すことができる。引数はuint2で、ピクセルのxy座標を指定する。\n!\nこのテクスチャはAudioLink Textureと呼...",
+          "link": "https://zenn.dev/h0r0/articles/6a2e86e4b7f076",
+          "publishedOn": "2025-10-19T00:56:12.000Z",
+          "wordCount": 1730,
+          "title": "自作ShaderからAudioLinkを使う方法メモ",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--cDF9F0YV--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E8%2587%25AA%25E4%25BD%259CShader%25E3%2581%258B%25E3%2582%2589AudioLink%25E3%2582%2592%25E4%25BD%25BF%25E3%2581%2586%25E6%2596%25B9%25E6%25B3%2595%25E3%2583%25A1%25E3%2583%25A2%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:horo%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzI3NGE0YWU0N2MuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
+            "length": "0",
+            "type": "false"
+          },
+          "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--cDF9F0YV--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E8%2587%25AA%25E4%25BD%259CShader%25E3%2581%258B%25E3%2582%2589AudioLink%25E3%2582%2592%25E4%25BD%25BF%25E3%2581%2586%25E6%2596%25B9%25E6%25B3%2595%25E3%2583%25A1%25E3%2583%25A2%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:horo%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzI3NGE0YWU0N2MuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"
+        },
+        {
           "id": "https://zenn.dev/testkun08080/articles/react-postshader-195d07b1ed77da",
           "author": "testkun08080",
           "description": "はじめに\nもう九月か。。。\n独り立ちして約１年ぐらい経とうとしている中、ポートフォリオページがまだUnder Maintenanceなので、\n重い腰を上げて、ポートフォリオページを作成することにしました。\nそこで、大好きなシェーダーをポートフォリオにもモリモリ使おうと思い立ったのがきっかけです。\n（ゲームだとそうは行かないので）\nこの記事では以下モジュール\n\n@react-three/drei\n@react-three/postprocessing\npostprocessing\n\nで用意されている一般的なポストエフェクトの実装と、カスタムシェーダーを使ったワールドノーマルを表示を行っ...",

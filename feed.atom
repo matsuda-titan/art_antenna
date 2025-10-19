@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-10-19T00:56:46.918Z</updated>
+    <updated>2025-10-19T03:40:24.964Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[自作ShaderからAudioLinkを使う方法メモ]]></title>
+        <id>https://zenn.dev/h0r0/articles/6a2e86e4b7f076</id>
+        <link href="https://zenn.dev/h0r0/articles/6a2e86e4b7f076"/>
+        <updated>2025-10-19T00:56:12.000Z</updated>
+        <summary type="html"><![CDATA[あくまで個人用メモなので、間違いがあるかもしれないです。
+
+
+ 基本的な使い方
+
+
+#include "Packages/com.llealloo.audiolink/Runtime/Shaders/AudioLink.cginc"でAudioLinkの機能をインクルードする。
+
+
+上記でインクルードされた関数のうちの一つ、AudioLinkData()を使うと、AudioLinkが提供する音声解析データが載っているテクスチャから指定したピクセルの色データを取り出すことができる。引数はuint2で、ピクセルのxy座標を指定する。
+!
+このテクスチャはAudioLink Textureと呼...]]></summary>
+        <author>
+            <name>horo</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【アドオン紹介】Abo Connect – 8000種類以上の無料モデルにアクセスできるアドオン！]]></title>
         <id>https://cgbox.jp/?p=64421</id>

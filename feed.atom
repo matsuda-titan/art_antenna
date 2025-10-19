@@ -2,10 +2,39 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-10-19T03:40:24.964Z</updated>
+    <updated>2025-10-19T08:12:34.381Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【MotionBuilder】UnboundWrapper とエラー対策]]></title>
+        <id>https://zenn.dev/nadegata_memo/articles/mobu_pyfbsdk_unboundwrapper</id>
+        <link href="https://zenn.dev/nadegata_memo/articles/mobu_pyfbsdk_unboundwrapper"/>
+        <updated>2025-10-19T05:42:47.000Z</updated>
+        <summary type="html"><![CDATA[はじめに
+今回の記事では、MotionBuilder の Python SDK 開発における UnboundWrapper、およびそのエラーに焦点を当てて解説します。
+前半の1章・2章で、Python の基本的な知識と MotionBuilder における重要な Python Wrapper の動作を解説します。また、後半の3章で、UnboundWrapperError の発生ケースと対策例を紹介します。
+!
+内容は精査しましたが、非常に長くなってしまいました。必要に応じて飛ばしながらお読みください。また、誤謬等ございましたら、ご指摘いただけますと幸いです。
+
+
+
+ 1. 前提知識
+...]]></summary>
+        <author>
+            <name>Ndgt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Storm HydroFX Beta - GPUベースのFLIP Fluidソルバーを採用したリアルな流体シミュレーションソフト！オープンベータ版が無料公開！]]></title>
+        <id>https://3dnchu.com/?p=1059310</id>
+        <link href="https://3dnchu.com/archives/storm-hydrofx-beta/"/>
+        <updated>2025-10-19T05:22:42.000Z</updated>
+        <summary type="html"><![CDATA[STORMなどのエフェクトソフトの開発などを手掛けたエフェクトアーティストでツール開発者のSebastian Schäfer氏は、GPU駆動のFLIP Flluidソルバーを搭載したスタンドアロン流体シミュレーションソフト「Storm HydroFX」を公開しました！現在は 無料のオープンベータ版 としてダウンロード可能です。]]></summary>
+        <author>
+            <name>Ymt3D -3dnchu-</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[自作ShaderからAudioLinkを使う方法メモ]]></title>
         <id>https://zenn.dev/h0r0/articles/6a2e86e4b7f076</id>
@@ -3694,18 +3723,6 @@ Topaz Labs、全アプリを統合した新サブスクリプションサービ�
 イラストアプリ Procreate 5.4 がリリース！新しいブラシライブラリが登場 first appeared on CGinterest.]]></summary>
         <author>
             <name>.me</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Linux-mintとZorinOSとPop-OSのUIを比較して、Pop-OSを選んだ]]></title>
-        <id>https://note.com/polymorph_design/n/n23206e3df332</id>
-        <link href="https://note.com/polymorph_design/n/n23206e3df332"/>
-        <updated>2025-09-19T19:55:23.000Z</updated>
-        <summary type="html"><![CDATA[実はメインマシンには初めPop-OSを使用していたのだが、nVidia575ドライバーとの相性が悪く、画面がドライバーのアップデートで暗転した状態となるため使用を中止していた。
-今回インストールしたアップデートされたインストーラーでも、OSのアップデートをかけると画面が暗転したが、しばらく（１５分ぐらい）放置したあとで強制再起動をかけると復活するようになった。その後、nVidia580のドライバーがインストール出来るようになるので、それを入れる際は画面が暗転することなく問題なく動いている。
-続きをみる]]></summary>
-        <author>
-            <name>#Houdiniタグ</name>
         </author>
     </entry>
 </feed>

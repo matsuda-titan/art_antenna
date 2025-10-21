@@ -330,16 +330,6 @@
             "type": "video/mp4"
           },
           "imageUrl": "https://cgbox.jp/wp-content/uploads/2025/09/image_processing20250919-2-yuzbno.jpg"
-        },
-        {
-          "id": "https://cgbox.jp/?p=64171",
-          "author": "CGbox編集部",
-          "description": "こんにちは！ 今回はWingfoxで公開されている「AAA Environment creation in Unreal Engine 5」を受講したので、レビューしていきたいと思います！ 講座の特徴 今回受講したチュー […]",
-          "link": "https://cgbox.jp/2025/09/21/wingfox-tutorial-ue5aaaenvironment/",
-          "publishedOn": "2025-09-21T02:28:22.000Z",
-          "wordCount": 2079,
-          "title": "【UE5】ハイクオリティなゲーム環境を作成するチュートリアルをレビュー",
-          "imageUrl": "https://cgbox.jp/wp-content/uploads/2025/09/Review-article.jpg"
         }
       ]
     },
@@ -3066,26 +3056,6 @@
           "wordCount": 16704,
           "title": "【Unity】シェーダーの頂点アニメーションで機構物を動かす",
           "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYzODI1NzczJTJGZTUzOGI2MGJkYTY3M2ZhOWQwMTdhMzg5NThlNDhiM2ZhOGYwMzg5MyUyRnhfbGFyZ2UucG5nJTNGMTcxOTQ5Njg2OT9peGxpYj1yYi00LjAuMCZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9MzczMjIwMmUxZDFmMDQyNTkwNmVmYzJlMTUxOTk2NDE%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D2c44d83ab4a01f8bb86566291a9414a7?ixlib=rb-4.0.0&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9JUUzJTgwJTkwVW5pdHklRTMlODAlOTElRTMlODIlQjclRTMlODIlQTclRTMlODMlQkMlRTMlODMlODAlRTMlODMlQkMlRTMlODElQUUlRTklQTAlODIlRTclODIlQjklRTMlODIlQTIlRTMlODMlOEIlRTMlODMlQTElRTMlODMlQkMlRTMlODIlQjclRTMlODMlQTclRTMlODMlQjMlRTMlODElQTclRTYlQTklOUYlRTYlQTclOEIlRTclODklQTklRTMlODIlOTIlRTUlOEIlOTUlRTMlODElOEIlRTMlODElOTkmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz0xYzBkYWU0NjQzYzdlNTQ5MWMzODllNmM0OWQzMjVjZQ&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDB5dXJpX3RzdWtpbWkmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz1hNTk1ZWExZTNjN2EyODM1Y2E2YThhNjg4NWI1NzdjNg&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=8ea5d6db3ec9c3ae7ab04d81dfb72c91"
-        },
-        {
-          "id": "https://qiita.com/T4kumin/items/c0300d4e4b7190087fde",
-          "author": null,
-          "description": "ポイントライト\nポイントライトはディレクショナルライトとは異なり、下記点を考慮する必要がある。\n\n入射してくる光の方向\n光源との距離による光の減衰。\n\n◇入射してくる光の方向\nポイントライトでも光の方向ベクトルの計算を行います。\nポイントライトのワールド座標とサーフェー...",
-          "link": "https://qiita.com/T4kumin/items/c0300d4e4b7190087fde",
-          "publishedOn": "2025-09-21T03:07:58.000Z",
-          "wordCount": 2431,
-          "title": "HLSLシェーダーの魔導書 第5章まとめ:ライティング発展",
-          "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnFpaXRhLWltYWdlLXN0b3JlLnMzLmFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkYwJTJGMTU1MDk2MiUyRnByb2ZpbGUtaW1hZ2VzJTJGMTc1MjI5NzA5Nj9peGxpYj1yYi00LjAuMCZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9ZmQ1NWMwYTFiOWNlM2Q5ZjI4NzFjOWNmZDdiMTE4N2Q%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D7b204fda6e011fe0e4e0d2ffb9a62f2e?ixlib=rb-4.0.0&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9SExTTCVFMyU4MiVCNyVFMyU4MiVBNyVFMyU4MyVCQyVFMyU4MyU4MCVFMyU4MyVCQyVFMyU4MSVBRSVFOSVBRCU5NCVFNSVCMCU4RSVFNiU5QiVCOCUyMCVFNyVBQyVBQzUlRTclQUIlQTAlRTMlODElQkUlRTMlODElQTglRTMlODIlODElM0ElRTMlODMlQTklRTMlODIlQTQlRTMlODMlODYlRTMlODIlQTMlRTMlODMlQjMlRTMlODIlQjAlRTclOTklQkElRTUlQjElOTUmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz03NTJiOGExYWVmNjVjY2UwNzY5ZDA5MWIzMjQ1YTlhNg&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBUNGt1bWluJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9MGZkZjQ4OGQyZGMzNTBmZWY5YTE0ZWMzY2E0NzYwODM&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=f502ae2ce97e4bfbbdfc724aabefb7ae"
-        },
-        {
-          "id": "https://qiita.com/T4kumin/items/f9a6397b39fee139db8a",
-          "author": null,
-          "description": "ライトの種類\n\nディレクショナルライト\nポイントライト\nスポットライト\n\n基本的なライトはこの３つです。\n\n反射:Phong反射モデル\nライトは、物体に光が反射したり影を作ることで初めて意味を持ちます。\n今回はPhongの反射モデルについて学習します。\n\n◇Lambert...",
-          "link": "https://qiita.com/T4kumin/items/f9a6397b39fee139db8a",
-          "publishedOn": "2025-09-21T02:24:24.000Z",
-          "wordCount": 1209,
-          "title": "HLSLシェーダーの魔導書 第4章まとめ:ライティング基礎",
-          "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnFpaXRhLWltYWdlLXN0b3JlLnMzLmFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkYwJTJGMTU1MDk2MiUyRnByb2ZpbGUtaW1hZ2VzJTJGMTc1MjI5NzA5Nj9peGxpYj1yYi00LjAuMCZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9ZmQ1NWMwYTFiOWNlM2Q5ZjI4NzFjOWNmZDdiMTE4N2Q%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D7b204fda6e011fe0e4e0d2ffb9a62f2e?ixlib=rb-4.0.0&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9SExTTCVFMyU4MiVCNyVFMyU4MiVBNyVFMyU4MyVCQyVFMyU4MyU4MCVFMyU4MyVCQyVFMyU4MSVBRSVFOSVBRCU5NCVFNSVCMCU4RSVFNiU5QiVCOCUyMCVFNyVBQyVBQzQlRTclQUIlQTAlRTMlODElQkUlRTMlODElQTglRTMlODIlODElM0ElRTMlODMlQTklRTMlODIlQTQlRTMlODMlODYlRTMlODIlQTMlRTMlODMlQjMlRTMlODIlQjAlRTUlOUYlQkElRTclQTQlOEUmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz01NmExYzU5NWNlNGQwNTAwZGI2MjUyYjg2NjI4ZDI3ZA&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBUNGt1bWluJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9MGZkZjQ4OGQyZGMzNTBmZWY5YTE0ZWMzY2E0NzYwODM&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=f699e8dfde34a0d8e06d8df36ef4cd5e"
         }
       ]
     },
@@ -3334,6 +3304,16 @@
       "feedUrl": "https://note.com/hashtag/Houdini/rss",
       "siteUrl": "https://note.com/hashtag/Houdini",
       "articles": [
+        {
+          "id": "https://note.com/makeinufilm/n/n0eef444ed1f3",
+          "author": null,
+          "description": "SideFX公式チュートリアルドキュメント\nマテリアルベースの破壊チュートリアルの概要\n上の奴を読み解いて行こうと思います\n\nRBD Material Fracture\n続きをみる",
+          "link": "https://note.com/makeinufilm/n/n0eef444ed1f3",
+          "publishedOn": "2025-10-20T15:31:29.000Z",
+          "wordCount": 2965,
+          "title": "【Houdini】破壊シミュ、RBDのチュートリアル①",
+          "imageUrl": "https://assets.st-note.com/production/uploads/images/222303404/rectangle_large_type_2_7e594b9605c4915cc460b01a39ceaced.png?width=800"
+        },
         {
           "id": "https://note.com/makeinufilm/n/n790aa81ff7f9",
           "author": null,

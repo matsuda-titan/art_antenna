@@ -3043,6 +3043,16 @@
       "siteUrl": "https://qiita.com",
       "articles": [
         {
+          "id": "https://qiita.com/testkun08080/items/027dd68397f1fb18f8b7",
+          "author": null,
+          "description": "はじめに\nもう九月か。。。\n独り立ちして約１年ぐらい経とうとしている中、ポートフォリオページがまだUnder Maintenanceなので、\n重い腰を上げて、ポートフォリオページを作成することにしました。\nそこで、大好きなシェーダーをポートフォリオにもモリモリ使おうと思い...",
+          "link": "https://qiita.com/testkun08080/items/027dd68397f1fb18f8b7",
+          "publishedOn": "2025-10-25T06:22:25.000Z",
+          "wordCount": 4569,
+          "title": "ポストエフェクト祭り。React/ポストプロセスを触ってカスタムシェーダーの作り方をざっくり理解してみよう",
+          "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRmF2YXRhcnMuZ2l0aHVidXNlcmNvbnRlbnQuY29tJTJGdSUyRjE1NDA0NjkwNiUzRnYlM0Q0P2l4bGliPXJiLTQuMC4wJmFyPTElM0ExJmZpdD1jcm9wJm1hc2s9ZWxsaXBzZSZiZz1GRkZGRkYmZm09cG5nMzImcz1lM2JiMGFkZTc1ZmM2N2E0YTdkMzIzNzg3MTc5YjY3YQ%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D20b0d26fad40f503ca8ee9dd012d090a?ixlib=rb-4.0.0&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9JUUzJTgzJTlEJUUzJTgyJUI5JUUzJTgzJTg4JUUzJTgyJUE4JUUzJTgzJTk1JUUzJTgyJUE3JUUzJTgyJUFGJUUzJTgzJTg4JUU3JUE1JUFEJUUzJTgyJThBJUUzJTgwJTgyUmVhY3QlMkYlRTMlODMlOUQlRTMlODIlQjklRTMlODMlODglRTMlODMlOTclRTMlODMlQUQlRTMlODIlQkIlRTMlODIlQjklRTMlODIlOTIlRTglQTclQTYlRTMlODElQTMlRTMlODElQTYlRTMlODIlQUIlRTMlODIlQjklRTMlODIlQkYlRTMlODMlQTAlRTMlODIlQjclRTMlODIlQTclRTMlODMlQkMlRTMlODMlODAlRTMlODMlQkMlRTMlODElQUUlRTQlQkQlOUMlRTMlODIlOEElRTYlOTYlQjklRTMlODIlOTIlRTMlODElOTYlRTMlODElQTMlRTMlODElOEYlRTMlODIlOEElRTclOTAlODYlRTglQTclQTMlRTMlODElOTclRTMlODElQTYlRTMlODElQkYlRTMlODIlODglRTMlODElODYmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz03YjQ1ZTJkNzI0ZGJmZGFkMmE0ZjkwODBiOGQ2M2VjZQ&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDB0ZXN0a3VuMDgwODAmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz00ZTVmMDE5YmEyY2ZmMDM3YmJlMjA2YTE4Y2IzYmM3Yg&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=bbaba38469b280a097f7694d0d8ec23b"
+        },
+        {
           "id": "https://qiita.com/dimebag29/items/9cff0f17a58eadb68a66",
           "author": null,
           "description": "概要\nスマホやタブレットを使って、VRChatのモバイルプラットフォームのワールドのシェーダーのデバッグは完全に行えないので注意してください。\n同じモバイル端末でも、スマホやタブレット(単眼)だと普通に見えるが、いざQuest単機(複眼)で入ると見えないorバグるシェーダ...",
@@ -3668,6 +3678,16 @@
       "feedUrl": "https://cginterest.com/feed/",
       "siteUrl": "https://cginterest.com",
       "articles": [
+        {
+          "id": "https://cginterest.com/?p=52130",
+          "author": ".me",
+          "description": "Topaz Labsは、新しいツール「Mosaic」の正式な提供開始を発表しました。 「Mosaic」とは Mosaicは、AIを使用して画像のアップスケール、強調、復元を行うWebベースのツールです。古い写真、スキャン […]\nTopaz Labs、古い写真を復元・共有可能な新ウェブアプリ「Mosaic」を発表！ first appeared on CGinterest.",
+          "link": "https://cginterest.com/2025/10/25/topaz-labs%e3%80%81%e5%8f%a4%e3%81%84%e5%86%99%e7%9c%9f%e3%82%92%e5%be%a9%e5%85%83%e3%83%bb%e5%85%b1%e6%9c%89%e5%8f%af%e8%83%bd%e3%81%aa%e6%96%b0%e3%82%a6%e3%82%a7%e3%83%96%e3%82%a2%e3%83%97%e3%83%aa/",
+          "publishedOn": "2025-10-25T05:37:43.000Z",
+          "wordCount": 33013,
+          "title": "Topaz Labs、古い写真を復元・共有可能な新ウェブアプリ「Mosaic」を発表！",
+          "imageUrl": "https://cginterest.com/wp-content/uploads/2025/10/20251025_TOPAZLABS_MOSIC.webp"
+        },
         {
           "id": "https://cginterest.com/?p=52100",
           "author": ".me",

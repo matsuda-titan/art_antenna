@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-10-26T12:18:47.511Z</updated>
+    <updated>2025-10-27T00:56:53.256Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[iPhone用VFXツール「Simulon」リリース！　iPhoneで撮影した実写映像にフォトリアルな3DCGをシームレスに合成するインカメラVFXを実現 - ニュース]]></title>
+        <id>https://cgworld.jp/flashnews/01-202510-Simulon.html</id>
+        <link href="https://cgworld.jp/flashnews/01-202510-Simulon.html"/>
+        <updated>2025-10-26T22:14:44.000Z</updated>
+        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Undo Plus – Blenderのビューポート操作を自動記録してパン・ズーム・回転を戻せるアドオン]]></title>
         <id>https://modelinghappy.com/?p=65129</id>
@@ -3628,195 +3638,6 @@ The post Autoblend 複数個のオブジェクトとマテリアルをブレン�
         <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
         <author>
             <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LayerComp - After Effectsを意識したレイヤーベースのコンポジット用Blenderアドオン！Extensionsに登場！]]></title>
-        <id>https://3dnchu.com/?p=1058683</id>
-        <link href="https://3dnchu.com/archives/layercomp/"/>
-        <updated>2025-09-27T10:39:21.000Z</updated>
-        <summary type="html"><![CDATA[KENKEN氏による、After Effectsを意識したとされるBlender向けのコンポジットアドオン「LayerComp」がExtensionsに登場！]]></summary>
-        <author>
-            <name>Ymt3D -3dnchu-</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Paint System - シンプルで分かりやすいBlender向けレイヤーベースのテクスチャペイント用アドオン！Extensionsに登場！]]></title>
-        <id>https://3dnchu.com/?p=1058682</id>
-        <link href="https://3dnchu.com/archives/paint-system/"/>
-        <updated>2025-09-27T10:34:19.000Z</updated>
-        <summary type="html"><![CDATA[Tawan-Sunflower氏による、シンプルで分かりやすいBlender向けのレイヤーベーステクスチャペイント用アドオン「Paint System」がExtensionsに登場！]]></summary>
-        <author>
-            <name>Ymt3D -3dnchu-</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Shader Shaper - AIを活用し1枚の画像からバンプ＆法線＆深度マップを生成し立体的なマテリアル表現を実現出来るBlenderアドオン！]]></title>
-        <id>https://3dnchu.com/?p=1058158</id>
-        <link href="https://3dnchu.com/archives/shader-shaper/"/>
-        <updated>2025-09-27T10:32:44.000Z</updated>
-        <summary type="html"><![CDATA[3d illusionsによる、AIを活用し1枚の画像からバンプ＆法線＆深度マップを生成し立体的なマテリアル表現を実現出来るBlenderアドオン「Shader Shaper」がリリースされています！]]></summary>
-        <author>
-            <name>Ymt3D -3dnchu-</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Parallax Node - 手軽に扱えるシンプルかつ扱いやすい視差マップ用シェーダーノードをBlenderに追加出来る無料アドオン！Extensionsに登場！CyclesとEEVEEに対応！]]></title>
-        <id>https://3dnchu.com/?p=1058681</id>
-        <link href="https://3dnchu.com/archives/parallax-node/"/>
-        <updated>2025-09-27T10:30:17.000Z</updated>
-        <summary type="html"><![CDATA[MultLabsによる、お手軽な視差マップ用シェーダーノードをBlenderに追加出来る無料アドオン「Parallax Node」がExtensionsに登場！CyclesとEEVEEに対応しています！]]></summary>
-        <author>
-            <name>Ymt3D -3dnchu-</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Perfectly Normal - Softimageライクにフェイスコーナーの法線を描画＆制御しポリゴンの法線を手動で調整出来る無料のBlenderアドオン！Extensionsに登場！]]></title>
-        <id>https://3dnchu.com/?p=1058680</id>
-        <link href="https://3dnchu.com/archives/perfectly-normal/"/>
-        <updated>2025-09-27T10:26:29.000Z</updated>
-        <summary type="html"><![CDATA[Seth-Adam-Trowbridge氏によるBlender向けの法線編集アドオン「Perfectly Normal」がExtensionsから利用可能になっております！]]></summary>
-        <author>
-            <name>Ymt3D -3dnchu-</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[UV Maps+ - UVの並べ替えや部分的なコピペ＆最大８枚のUV格納数の限界突破が可能な無料のBlenderアドオン！Extensionsから利用可能！]]></title>
-        <id>https://3dnchu.com/?p=1058664</id>
-        <link href="https://3dnchu.com/archives/uv-maps-plus/"/>
-        <updated>2025-09-27T10:24:45.000Z</updated>
-        <summary type="html"><![CDATA[JR3DFUL氏によるBlender用のUV拡張アドオン「UV Maps+」がBlender Extensionsから利用可能となっております！]]></summary>
-        <author>
-            <name>Ymt3D -3dnchu-</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Secondary Language - ボタンやショートカットキーから言語切替が可能なBlenderアドオン！無料！Extensionsから利用可能！]]></title>
-        <id>https://3dnchu.com/?p=1058652</id>
-        <link href="https://3dnchu.com/archives/secondary-language/"/>
-        <updated>2025-09-27T10:22:02.000Z</updated>
-        <summary type="html"><![CDATA[mdlt7z氏によるBlender用の言語切替アドオン「Secondary Language」がBlender Extensionsから利用可能となっております！]]></summary>
-        <author>
-            <name>Ymt3D -3dnchu-</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Silhouette 2025.5 がリリース！テキストベースのAIオブジェクト検出、ワンクリック顔セグメンテーション機能の追加など]]></title>
-        <id>https://cginterest.com/?p=51156</id>
-        <link href="https://cginterest.com/2025/09/27/silhouette-2025-5-%e3%81%8c%e3%83%aa%e3%83%aa%e3%83%bc%e3%82%b9%ef%bc%81%e3%83%86%e3%82%ad%e3%82%b9%e3%83%88%e3%83%99%e3%83%bc%e3%82%b9%e3%81%aeai%e3%82%aa%e3%83%96%e3%82%b8%e3%82%a7%e3%82%af%e3%83%88/"/>
-        <updated>2025-09-27T09:57:00.000Z</updated>
-        <summary type="html"><![CDATA[2025年9月25日（現地時間）- Boris FXは、ロトスコープ＆ペイントツールの最新アップデート Silhouette 2025.5 をリリースしました。 新機能ハイライト このアップデートでは、AI機能の強化によ […]
-Silhouette 2025.5 がリリース！テキストベースのAIオブジェクト検出、ワンクリック顔セグメンテーション機能の追加など first appeared on CGinterest.]]></summary>
-        <author>
-            <name>.me</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「Boris FX + KitBash 3D」 お得な80%オフ期間限定3Dクリエイティブバンドルが登場！]]></title>
-        <id>https://cginterest.com/?p=51166</id>
-        <link href="https://cginterest.com/2025/09/27/%e3%80%8cboris-fx-kitbash-3d%e3%80%8d-%e3%81%8a%e5%be%97%e3%81%aa80%e3%82%aa%e3%83%95%e6%9c%9f%e9%96%93%e9%99%90%e5%ae%9a3d%e3%82%af%e3%83%aa%e3%82%a8%e3%82%a4%e3%83%86%e3%82%a3%e3%83%96%e3%83%90/"/>
-        <updated>2025-09-27T08:59:16.000Z</updated>
-        <summary type="html"><![CDATA[Boris FX とKitBash 3Dは、期間限定クリエイティブバンドルを発表しました。 お得な期間限定3Dクリエイティブバンドル この期間限定バンドルには、Boris FXのトラッキング、マスキング技術を搭載したソフ […]
-「Boris FX + KitBash 3D」 お得な80%オフ期間限定3Dクリエイティブバンドルが登場！ first appeared on CGinterest.]]></summary>
-        <author>
-            <name>.me</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【Unity】シェーダーの頂点アニメーションで機構物を動かす]]></title>
-        <id>https://qiita.com/yuri_tsukimi/items/571a1c4c2726c26262ec</id>
-        <link href="https://qiita.com/yuri_tsukimi/items/571a1c4c2726c26262ec"/>
-        <updated>2025-09-27T08:29:51.000Z</updated>
-        <summary type="html"><![CDATA[これを作ります．
-
-概要
-機構物を動かすときの汎用的な方法は，ボーンを入れて動かす，あるいは，パーツを分けてアニメーションクリップやスクリプトで動かす，だと思います．しかし，オブジェクトを1000個描画するような場合，この方法だと非常に高負荷になります．
-機構の動きをシェ...]]></summary>
-        <author>
-            <name>Shaderタグが付けられた新着記事 - Qiita</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【UE5初心者向け】キャラクターにヘアーを追加する方法]]></title>
-        <id>https://cgbox.jp/?p=64216</id>
-        <link href="https://cgbox.jp/2025/09/27/ue5-beginner-hair/"/>
-        <updated>2025-09-27T08:06:55.000Z</updated>
-        <summary type="html"><![CDATA[こんにちは！ 今回は、 ゲームエンジン「 Unreal Engine 5 (UE5)」初心者向けに、ヘアーを追加する方法を紹介します。 キャラクターの動きに合わせて揺れる髪を追加することができるので、ぜひ参考に […]]]></summary>
-        <author>
-            <name>CGbox編集部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[スタジオブロス、3DCG制作現場の効率化を実現する法人向け「3DCGデータ変換サービス」を開始]]></title>
-        <id>https://cginterest.com/?p=51136</id>
-        <link href="https://cginterest.com/2025/09/27/%e3%82%b9%e3%82%bf%e3%82%b8%e3%82%aa%e3%83%96%e3%83%ad%e3%82%b9%e3%80%813dcg%e5%88%b6%e4%bd%9c%e7%8f%be%e5%a0%b4%e3%81%ae%e5%8a%b9%e7%8e%87%e5%8c%96%e3%82%92%e5%ae%9f%e7%8f%be%e3%81%99%e3%82%8b/"/>
-        <updated>2025-09-27T07:13:00.000Z</updated>
-        <summary type="html"><![CDATA[2025年9月25日 – 株式会社スタジオブロスは、3DCG制作現場におけるデータ変換作業の効率化を目的とした法人向け「3DCGデータ変換サービス」の提供開始を発表しました。 市場背景と課題 総務省の令和7年 […]
-スタジオブロス、3DCG制作現場の効率化を実現する法人向け「3DCGデータ変換サービス」を開始 first appeared on CGinterest.]]></summary>
-        <author>
-            <name>.me</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Canva AI、会話型クリエイティブ機能「Canva AI」のグローバル展開を発！新たに日本語を含む16言語に対応]]></title>
-        <id>https://cginterest.com/?p=51137</id>
-        <link href="https://cginterest.com/2025/09/27/canva-ai%e3%80%81%e4%bc%9a%e8%a9%b1%e5%9e%8b%e3%82%af%e3%83%aa%e3%82%a8%e3%82%a4%e3%83%86%e3%82%a3%e3%83%96%e6%a9%9f%e8%83%bd%e3%80%8ccanva-ai%e3%80%8d%e3%81%ae%e3%82%b0%e3%83%ad%e3%83%bc%e3%83%90/"/>
-        <updated>2025-09-27T06:43:00.000Z</updated>
-        <summary type="html"><![CDATA[2025年9月19日（米国時間）- ビジュアルコミュニケーションプラットフォームのCanvaは、2025年4月に発表した画期的な会話型クリエイティブ機能「Canva AI」のグローバル展開を発表しました。 会話型AIによ […]
-Canva AI、会話型クリエイティブ機能「Canva AI」のグローバル展開を発！新たに日本語を含む16言語に対応 first appeared on CGinterest.]]></summary>
-        <author>
-            <name>.me</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Maxon、ZBrushとCinema 4DのSnapdragon対応を発表！2026年春、Windows PC向けに提供へ]]></title>
-        <id>https://cginterest.com/?p=51143</id>
-        <link href="https://cginterest.com/2025/09/27/maxon%e3%80%81zbrush%e3%81%a8cinema-4d%e3%81%aesnapdragon%e5%af%be%e5%bf%9c%e3%82%92%e7%99%ba%e8%a1%a8%ef%bc%812026%e5%b9%b4%e6%98%a5%e3%80%81windows-pc%e5%90%91%e3%81%91%e3%81%ab%e6%8f%90%e4%be%9b/"/>
-        <updated>2025-09-27T06:22:35.000Z</updated>
-        <summary type="html"><![CDATA[2025年9月25日（現地時間）- Maxon は、9月24日に開催された「Snapdragon Summit」において、同社の主要な3D制作ツールであるZBrushとCinema 4Dが、Windows on Snap […]
-Maxon、ZBrushとCinema 4DのSnapdragon対応を発表！2026年春、Windows PC向けに提供へ first appeared on CGinterest.]]></summary>
-        <author>
-            <name>.me</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Non-AAQP quad tool v1.0 - 正方形グリッドを投影し軽快な動作で全体を四角ポリゴン化出来る無料のBlenderアドオン！]]></title>
-        <id>https://3dnchu.com/?p=1058644</id>
-        <link href="https://3dnchu.com/archives/non-aaqp-quad-tool-v1-0/"/>
-        <updated>2025-09-27T04:30:46.000Z</updated>
-        <summary type="html"><![CDATA[Kushiro氏が正方形グリッドの投影をベースにした四角ポリゴン化Blenderアドオン「Non-AAQP quad tool v1.0」を無料公開しました！]]></summary>
-        <author>
-            <name>Ymt3D -3dnchu-</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【無料アドオン紹介】Parallax Node – 視差マッピングで立体感を演出！]]></title>
-        <id>https://cgbox.jp/?p=64249</id>
-        <link href="https://cgbox.jp/2025/09/27/news-addon-parallax-node/"/>
-        <updated>2025-09-27T02:39:41.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは！ 今回はアドオンの「Parallax Node」を紹介します。 こちらのリンクがアドオンの商品ページになります。 Parallax Node 「Parallax Node」は、シェーダーマテリアルにパララック […]]]></summary>
-        <author>
-            <name>kasahara</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tripo v3.0 Ultra Mode - 3D生成AIの高精細モデル生成可能なモードが正式リリース！]]></title>
-        <id>https://3dnchu.com/?p=1058632</id>
-        <link href="https://3dnchu.com/archives/tripo-v3-0-ultra/"/>
-        <updated>2025-09-27T00:45:04.000Z</updated>
-        <summary type="html"><![CDATA[3D生成AIではお馴染みTripoの最新リリース「Tripo v3.0 Ultra Mode」が公開されました。]]></summary>
-        <author>
-            <name>Ymt3D -3dnchu-</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hunyuan3D-Omni - 点群、ボクセル、スケルトン、バウンディングボックスなどを活用した業界初のマルチコンディション制御による3Dアセット作成フレームワーク！]]></title>
-        <id>https://3dnchu.com/?p=1058614</id>
-        <link href="https://3dnchu.com/archives/hunyuan3d-omni/"/>
-        <updated>2025-09-27T00:21:39.000Z</updated>
-        <summary type="html"><![CDATA[テンセントからマルチコンディション制御による3Dアセット作成フレームワーク「Hunyuan3D-Omni」がオープンソースで発表されました！]]></summary>
-        <author>
-            <name>Ymt3D -3dnchu-</name>
         </author>
     </entry>
 </feed>

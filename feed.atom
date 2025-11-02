@@ -2,10 +2,63 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-11-01T12:18:38.586Z</updated>
+    <updated>2025-11-02T00:56:34.722Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【Unity】Custom Render Texture の Wrap Update Zones が Double Buffered に与える影響について]]></title>
+        <id>https://qiita.com/yuri_tsukimi/items/aca9180ef64665f6c58b</id>
+        <link href="https://qiita.com/yuri_tsukimi/items/aca9180ef64665f6c58b"/>
+        <updated>2025-11-02T00:53:03.000Z</updated>
+        <summary type="html"><![CDATA[操作によっては Unity がクラッシュします（解説）．注意してください．
+
+検証環境：Unity 2022.3.22f
+
+背景
+Custom Render Texture を使ってシミュレーションを行う際，自分自身のテクスチャ（ _SelfTexture* ）を参照...]]></summary>
+        <author>
+            <name>Shaderタグが付けられた新着記事 - Qiita</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WebGPU入門]]></title>
+        <id>https://zenn.dev/slowhand/articles/c7f69fbdfe84ed</id>
+        <link href="https://zenn.dev/slowhand/articles/c7f69fbdfe84ed"/>
+        <updated>2025-11-01T16:04:38.000Z</updated>
+        <summary type="html"><![CDATA[概要
+今回はWebGPUに関して、以下リンクのドキュメントに沿って自分なりにキャッチアップした際のメモになります。
+https://developer.mozilla.org/ja/docs/Web/API/WebGPU_API
+
+ 動作環境
+
+MBA M3 Sequoia 15.6.1
+Chrome バージョン 141.0.7390.123（Official Build） （arm64）
+
+
+ WebGPUとは…?
+
+WebGLの後継で、最近の GPU API と互換性があり、汎用 GPU 計算に対応し、操作を速くし、さらに高度な GPU の機能へのアクセスを可能にします
+
+具体的...]]></summary>
+        <author>
+            <name>slowhand</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[3Delight NSI Python APIの練習]]></title>
+        <id>https://qiita.com/yokamak/items/ac0b92aa756220865536</id>
+        <link href="https://qiita.com/yokamak/items/ac0b92aa756220865536"/>
+        <updated>2025-11-01T13:57:11.000Z</updated>
+        <summary type="html"><![CDATA[3Delight NSIをPythonで記述する。
+Windowsの場合、C:\Program Files\3Delight\pythonのnsi.pyにpathを記述する。
+nsi.pyをコピーして、サンプルファイルと同じ場所に置く。
+# Load 3Delight
+i...]]></summary>
+        <author>
+            <name>3DCGタグが付けられた新着記事 - Qiita</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Reallusion、QuickMagicと提携して動画からモーションを作成できる「iClone Video Mocapプラグイン」をリリース！]]></title>
         <id>https://cginterest.com/?p=52476</id>
@@ -3469,182 +3522,6 @@ Sketchfabマンスリーピックアップ 2025年10月号 first appeared on CGi
         <summary type="html"><![CDATA[こんばんは！ 今回はアドオンの「Rig Align」を紹介します。 こちらのリンクがアドオンの商品ページになります。 Rig Align 「Rig Align」は、Blender用のアドオンで、異なるリグ同士を自動的に位 […]]]></summary>
         <author>
             <name>kasahara</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TVCM・MVを幅広く手がけるMARKが語る「CGの知識より大切なのは、人との関わり方」 - 連載]]></title>
-        <id>https://cgworld.jp/regular/2509-mark.html</id>
-        <link href="https://cgworld.jp/regular/2509-mark.html"/>
-        <updated>2025-10-03T12:26:33.000Z</updated>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rig Aling – 体のサイズが違っても衣服リグをキャラクターリグにワンクリックで正確に位置合わせできるBlender用アドオン]]></title>
-        <id>https://modelinghappy.com/?p=64854</id>
-        <link href="https://modelinghappy.com/archives/64854"/>
-        <updated>2025-10-03T11:37:34.000Z</updated>
-        <summary type="html"><![CDATA[Rig Aling #8211; Effortless Character Attire Adaptation Rig AlingはBlenderで体のサイズの違いに関係なく、衣服リグをキャラクターリグにたった1回のク
-The post Rig Aling – 体のサイズが違っても衣服リグをキャラクターリグにワンクリックで正確に位置合わせできるBlender用アドオン first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
-        <author>
-            <name>modelinghappy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用浏览器直接跑 GPU Benchmark —— VolumeShader 使用体验分享]]></title>
-        <id>https://qiita.com/jiangyifeng96/items/1ddb68f2de71ed7f2617</id>
-        <link href="https://qiita.com/jiangyifeng96/items/1ddb68f2de71ed7f2617"/>
-        <updated>2025-10-03T10:21:21.000Z</updated>
-        <summary type="html"><![CDATA[大家好，最近我在找一款可以直接在浏览器里测试 GPU 性能的工具，偶然发现了一个挺有意思的网站：VolumeShader 🎉
-它的特点是：
-
-纯前端运行：所有计算都在本地浏览器执行，不会上传你的数据，比较放心。
-
-体积渲染压力测试：不同于常见的 2D/3D demo，它主...]]></summary>
-        <author>
-            <name>Shaderタグが付けられた新着記事 - Qiita</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rebelle 8 - よりリアルな質感のブラシを搭載！アナログ感を売りとしたペイントソフトの最新メジャーアップデート！Win＆MacOS！]]></title>
-        <id>https://3dnchu.com/?p=1058902</id>
-        <link href="https://3dnchu.com/archives/rebelle-8/"/>
-        <updated>2025-10-03T09:41:41.000Z</updated>
-        <summary type="html"><![CDATA[Escape Motionsによるアナログ感を売りとしたリアル志向のペイントソフトの最新メジャーアップデート「Rebelle 8」がリリースされました！]]></summary>
-        <author>
-            <name>Ymt3D -3dnchu-</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Wacom、ポータブルクリエイティブパッド新製品「Wacom MovinkPad Pro 14」を発表！この秋発売へ]]></title>
-        <id>https://cginterest.com/?p=51279</id>
-        <link href="https://cginterest.com/2025/10/03/wacom%e3%80%81%e3%83%9d%e3%83%bc%e3%82%bf%e3%83%96%e3%83%ab%e3%82%af%e3%83%aa%e3%82%a8%e3%82%a4%e3%83%86%e3%82%a3%e3%83%96%e3%83%91%e3%83%83%e3%83%89%e6%96%b0%e8%a3%bd%e5%93%81%e3%80%8cwacom-movinkpad/"/>
-        <updated>2025-10-03T08:49:18.000Z</updated>
-        <summary type="html"><![CDATA[2025年10月1日 – 株式会社ワコムは、高いパフォーマンスと柔軟性を兼ね備えた「Wacom MovinkPad Pro 14」を発表し、ポータブルクリエイティブパッドのラインアップを拡充しました。 製品概 […]
-Wacom、ポータブルクリエイティブパッド新製品「Wacom MovinkPad Pro 14」を発表！この秋発売へ first appeared on CGinterest.]]></summary>
-        <author>
-            <name>.me</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JAPANNEXT 5K湾曲ウルトラワイドモニタレビュー：もう戻れない5Kの"視界革命" - スペシャルコンテンツ]]></title>
-        <id>https://cgworld.jp/special-feature/2509-japannext-5k.html</id>
-        <link href="https://cgworld.jp/special-feature/2509-japannext-5k.html"/>
-        <updated>2025-10-03T06:03:20.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenAI、次世代動画生成モデル「Sora 2」を発表！]]></title>
-        <id>https://cginterest.com/?p=51293</id>
-        <link href="https://cginterest.com/2025/10/03/openai%e3%80%81%e6%ac%a1%e4%b8%96%e4%bb%a3%e5%8b%95%e7%94%bb%e7%94%9f%e6%88%90%e3%83%a2%e3%83%87%e3%83%ab%e3%80%8csora-2%e3%80%8d%e3%82%92%e7%99%ba%e8%a1%a8%ef%bc%81/"/>
-        <updated>2025-10-03T04:54:12.000Z</updated>
-        <summary type="html"><![CDATA[2025年9月30日（現地時間）- OpenAIは、最新の動画生成モデル「Sora 2」を発表しました。 次世代動画生成モデル「Sora 2」とは 「Sora 2」は、従来のシステムよりも物理的に正確で、現実味があり、よ […]
-OpenAI、次世代動画生成モデル「Sora 2」を発表！ first appeared on CGinterest.]]></summary>
-        <author>
-            <name>.me</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Framestore より、サスペンス ドラマ『ブラック・ラビット』の VFXブレイクダウン映像]]></title>
-        <id>https://3dtotal.jp/?p=53122</id>
-        <link href="https://3dtotal.jp/news/53122/"/>
-        <updated>2025-10-03T03:56:26.000Z</updated>
-        <summary type="html"><![CDATA[★Black Rabbit VFX Breakdown | Framestore（1分16秒/ 制作：Framestore） ニューヨークで最も特別なゲストリストに加わり、Netflix の『ブラック・ラビット』のVFX […]
-The post Framestore より、サスペンス ドラマ『ブラック・ラビット』の VFXブレイクダウン映像 first appeared on 3dtotal 日本語オフィシャルサイト.]]></summary>
-        <author>
-            <name>3dtotal管理人T</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[バーチャルプロダクションツール Nuke Stage の機能紹介ムービー（英語／日本語）]]></title>
-        <id>https://3dtotal.jp/?p=52480</id>
-        <link href="https://3dtotal.jp/news/52480/"/>
-        <updated>2025-10-03T03:20:52.000Z</updated>
-        <summary type="html"><![CDATA[★Nuke Stage Overview（11分9秒） ★Nuke Stage 概要（11分9秒） Foundry のバーチャルプロダクション担当プロダクトマネージャー、Dan Caffrey が Nuke Stage  […]
-The post バーチャルプロダクションツール Nuke Stage の機能紹介ムービー（英語／日本語） first appeared on 3dtotal 日本語オフィシャルサイト.]]></summary>
-        <author>
-            <name>3dtotal管理人T</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【アドオン紹介】Render Stats – レンダリングの統計データを表示！]]></title>
-        <id>https://cgbox.jp/?p=64322</id>
-        <link href="https://cgbox.jp/2025/10/03/news-addon-render-stats/"/>
-        <updated>2025-10-03T02:45:36.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは！ 今回はアドオンの「Render Stats」を紹介します。 こちらのリンクがアドオンの商品ページになります。 Render Stats 「Render Stats」は、Blenderのレンダリング統計を 3 […]]]></summary>
-        <author>
-            <name>kasahara</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[パソコン工房『超総力祭SALE』が開催！AMD Ryzen 9 9950X クリエイターパソコンが特別価格に！]]></title>
-        <id>https://cginterest.com/?p=51272</id>
-        <link href="https://cginterest.com/2025/10/03/%e3%83%91%e3%82%bd%e3%82%b3%e3%83%b3%e5%b7%a5%e6%88%bf%e3%80%8e%e8%b6%85%e7%b7%8f%e5%8a%9b%e7%a5%adsale%e3%80%8f%e3%81%8c%e9%96%8b%e5%82%ac%ef%bc%81amd-ryzen-9-9950x-%e3%82%af%e3%83%aa%e3%82%a8/"/>
-        <updated>2025-10-03T02:02:00.000Z</updated>
-        <summary type="html"><![CDATA[パソコン工房インターネット通販で開催中の『超総力祭SALE』の紹介です。 セール概要 RTX 50シリーズ搭載ゲーミングPCやOffice 2024搭載ノートパソコン、ワークステーションなどがラインナップされています。  […]
-パソコン工房『超総力祭SALE』が開催！AMD Ryzen 9 9950X クリエイターパソコンが特別価格に！ first appeared on CGinterest.]]></summary>
-        <author>
-            <name>.me</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SolarisとUSDを用いたワークフロー導入について (Part5)]]></title>
-        <id>https://note.com/forum_usd_tokyo/n/n58f7f0a4ae1f</id>
-        <link href="https://note.com/forum_usd_tokyo/n/n58f7f0a4ae1f"/>
-        <updated>2025-10-03T01:14:36.000Z</updated>
-        <summary type="html"><![CDATA[本記事は、複数回に分けて公開されています。
-前回までの記事を読まれていない方は、以前の記事と合わせてご覧ください。
-
-続きをみる]]></summary>
-        <author>
-            <name>#Houdiniタグ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SolarisとUSDを用いたワークフロー導入について (Part5)]]></title>
-        <id>https://note.com/forum_usd_tokyo/n/n58f7f0a4ae1f</id>
-        <link href="https://note.com/forum_usd_tokyo/n/n58f7f0a4ae1f"/>
-        <updated>2025-10-03T01:14:36.000Z</updated>
-        <summary type="html"><![CDATA[本記事は、複数回に分けて公開されています。
-前回までの記事を読まれていない方は、以前の記事と合わせてご覧ください。
-
-続きをみる]]></summary>
-        <author>
-            <name>Forum OpenUSD Tokyo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[スタジオブロス、法人向け3DCGデータ変換サービスを正式リリース－3DCG制作現場の効率化を実現 - ニュース]]></title>
-        <id>https://cgworld.jp/flashnews/02-2510-studiobros.html</id>
-        <link href="https://cgworld.jp/flashnews/02-2510-studiobros.html"/>
-        <updated>2025-10-03T00:52:27.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3Dシーンへの3Dペインティング、動画内へのオブジェクト挿入、弾性素材のVR編集などが登場。XRとAIに関連した注目論文をピックアップ〜SIGGRAPH 2025（1） - 特集]]></title>
-        <id>https://cgworld.jp/article/202510-siggraph-ai.html</id>
-        <link href="https://cgworld.jp/article/202510-siggraph-ai.html"/>
-        <updated>2025-10-03T00:44:00.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[動画生成AI「Wan 2.5-Preview」リリース！　新アーキテクチャ採用によりテキスト・画像・動画・音声のより強力なモーダルアライメントを実現、1080p・10秒・24fps出力対応 - ニュース]]></title>
-        <id>https://cgworld.jp/flashnews/01-202510-Wan-25-Preview.html</id>
-        <link href="https://cgworld.jp/flashnews/01-202510-Wan-25-Preview.html"/>
-        <updated>2025-10-03T00:20:02.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
         </author>
     </entry>
 </feed>

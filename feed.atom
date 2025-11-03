@@ -2,10 +2,55 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-11-02T12:18:19.278Z</updated>
+    <updated>2025-11-03T00:56:13.018Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Blenderアドオン「Retopoflow 4」リリース！　定番リポトロジーツールが全面刷新、新機能追加、Blenderの編集モードとのシームレスな統合、パフォーマンス向上 - ニュース]]></title>
+        <id>https://cgworld.jp/flashnews/01-202511-Retopoflow4.html</id>
+        <link href="https://cgworld.jp/flashnews/01-202511-Retopoflow4.html"/>
+        <updated>2025-11-02T21:58:35.000Z</updated>
+        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Marmoset Toolbagのためにサブスタンス3Dペインターを学習（サブペ学習 14日目）]]></title>
+        <id>https://note.com/tsukasa_yamato/n/nc3b32c8ae9c4</id>
+        <link href="https://note.com/tsukasa_yamato/n/nc3b32c8ae9c4"/>
+        <updated>2025-11-02T13:46:42.000Z</updated>
+        <summary type="html"><![CDATA[Udemyで学習中のサブスタンス3Dペインター学習コース、7時間の「導入編」をようやく見終わった。全体で24時間のコースなので約3分の1が基礎編という大ボリュームなコースだが、おかげでほぼ抜け漏れなくサブペの基礎を理解したと言っていいだろう。そんなわけでMy解釈によるサブペの概要日記。
+学習中のUdemyコースはこちら。
+続きをみる]]></summary>
+        <author>
+            <name>#substancepainterタグ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unityで使うRBF補間：滑らかなアニメーションとAIの実装]]></title>
+        <id>https://zenn.dev/dsgarage/articles/529a2685eab09d</id>
+        <link href="https://zenn.dev/dsgarage/articles/529a2685eab09d"/>
+        <updated>2025-11-02T08:14:12.000Z</updated>
+        <summary type="html"><![CDATA[はじめに
+RBF（Radial Basis Function：放射基底関数）は、点群データから滑らかな連続関数を生成する補間手法です。本記事では、UnityでRBFを実装し、アニメーション補間やAI・パスファインディングに応用する方法を解説します。
+
+ RBFが解決する問題
+ゲーム開発では、以下のような「離散的なデータから連続的な値を得る」場面に頻繁に遭遇します。
+
+
+アニメーションブレンディング: 複数のキーフレーム間を滑らかに補間したい
+
+AIの意思決定: 複数の判断基準から最適な行動を選択したい
+
+影響範囲の計算: 複数の音源や光源の影響を合成したい
+
+従来の線形補間やスプライ...]]></summary>
+        <author>
+            <name>つかさんさん</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【アドオン紹介】Icrowds – 様々な群衆シミュレーションを実装できるアドオン！]]></title>
         <id>https://cgbox.jp/?p=64477</id>
@@ -3500,38 +3545,6 @@ The post Hair Cards To Curves – ZBrushのFibermeshやBlenderのカーブから
 The post Blender×Houdiniで学ぶカートゥーンキャラ制作と変形アニメーションのチュートリアル動画がWingfoxで販売開始！ first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
         <author>
             <name>modelinghappy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【2025年10月9日まで】EIZO ColorEdge CG＆CSシリーズディスプレイが期間限定で15％オフに！]]></title>
-        <id>https://cginterest.com/?p=51354</id>
-        <link href="https://cginterest.com/2025/10/04/%e3%80%902025%e5%b9%b410%e6%9c%889%e6%97%a5%e3%81%be%e3%81%a7%e3%80%91eizo-coloredge-cg%ef%bc%86cs%e3%82%b7%e3%83%aa%e3%83%bc%e3%82%ba%e3%83%87%e3%82%a3%e3%82%b9%e3%83%97%e3%83%ac%e3%82%a4%e3%81%8c/"/>
-        <updated>2025-10-04T08:10:54.000Z</updated>
-        <summary type="html"><![CDATA[EIZOダイレクトで開催されているセールの紹介です。 セール概要 アカデミー科学技術賞を受賞したColorEdge CGシリーズ、写真プリントとの色合わせが好評のColorEdge CSシリーズや、長時間のPC作業でも目 […]
-【2025年10月9日まで】EIZO ColorEdge CG＆CSシリーズディスプレイが期間限定で15％オフに！ first appeared on CGinterest.]]></summary>
-        <author>
-            <name>.me</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sketchfabマンスリーピックアップ 2025年10月号]]></title>
-        <id>https://cginterest.com/?p=51355</id>
-        <link href="https://cginterest.com/2025/10/04/sketchfab%e3%83%9e%e3%83%b3%e3%82%b9%e3%83%aa%e3%83%bc%e3%83%94%e3%83%83%e3%82%af%e3%82%a2%e3%83%83%e3%83%97-2025%e5%b9%b410%e6%9c%88%e5%8f%b7/"/>
-        <updated>2025-10-04T06:37:00.000Z</updated>
-        <summary type="html"><![CDATA[先月Sketchfabに投稿されたモデルを勝手にピックアップ(2025年10月4日調べ) するコーナーです。人気のある3Dモデルを中心に独断と偏見で選んでおります！ 通常のピックアップとは別に、無料でダウンロードできる3 […]
-Sketchfabマンスリーピックアップ 2025年10月号 first appeared on CGinterest.]]></summary>
-        <author>
-            <name>.me</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【アドオン紹介】Rig Align –]]></title>
-        <id>https://cgbox.jp/?p=64327</id>
-        <link href="https://cgbox.jp/2025/10/04/news-addon-rig-align/"/>
-        <updated>2025-10-04T01:42:25.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは！ 今回はアドオンの「Rig Align」を紹介します。 こちらのリンクがアドオンの商品ページになります。 Rig Align 「Rig Align」は、Blender用のアドオンで、異なるリグ同士を自動的に位 […]]]></summary>
-        <author>
-            <name>kasahara</name>
         </author>
     </entry>
 </feed>

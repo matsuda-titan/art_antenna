@@ -285,21 +285,6 @@
             "type": "video/mp4"
           },
           "imageUrl": "https://cgbox.jp/wp-content/uploads/2025/10/c4cde3e8db1bee778241674ff8a1c917ee40339190b842b7878b7bcb44e00090_1920x1080.webp"
-        },
-        {
-          "id": "https://cgbox.jp/?p=64327",
-          "author": "kasahara",
-          "description": "こんばんは！ 今回はアドオンの「Rig Align」を紹介します。 こちらのリンクがアドオンの商品ページになります。 Rig Align 「Rig Align」は、Blender用のアドオンで、異なるリグ同士を自動的に位 […]",
-          "link": "https://cgbox.jp/2025/10/04/news-addon-rig-align/",
-          "publishedOn": "2025-10-04T01:42:25.000Z",
-          "wordCount": 2169,
-          "title": "【アドオン紹介】Rig Align –",
-          "enclosure": {
-            "url": "https://cgbox.jp/wp-content/uploads/2025/10/IMG_2394_1.mp4",
-            "length": "0",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://cgbox.jp/wp-content/uploads/2025/10/image_processing20251003-2-2fjf6a.jpg"
         }
       ]
     },
@@ -837,6 +822,16 @@
       "feedUrl": "https://cgworld.jp/atom.xml",
       "siteUrl": "https://cgworld.jp/",
       "articles": [
+        {
+          "id": "https://cgworld.jp/flashnews/01-202511-Retopoflow4.html",
+          "author": null,
+          "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
+          "link": "https://cgworld.jp/flashnews/01-202511-Retopoflow4.html",
+          "publishedOn": "2025-11-02T21:58:35.000Z",
+          "wordCount": 791,
+          "title": "Blenderアドオン「Retopoflow 4」リリース！　定番リポトロジーツールが全面刷新、新機能追加、Blenderの編集モードとのシームレスな統合、パフォーマンス向上 - ニュース",
+          "imageUrl": "https://cgworld.jp/flashnews/assets_c/2025/11/Retopoflow4-01-thumb-1920x1080-75840.jpg"
+        },
         {
           "id": "https://cgworld.jp/special-feature/202510-hp-kazuya.html",
           "author": null,
@@ -2441,6 +2436,21 @@
       "siteUrl": "https://zenn.dev/topics/3dcg",
       "articles": [
         {
+          "id": "https://zenn.dev/dsgarage/articles/529a2685eab09d",
+          "author": "つかさんさん",
+          "description": "はじめに\nRBF（Radial Basis Function：放射基底関数）は、点群データから滑らかな連続関数を生成する補間手法です。本記事では、UnityでRBFを実装し、アニメーション補間やAI・パスファインディングに応用する方法を解説します。\n\n RBFが解決する問題\nゲーム開発では、以下のような「離散的なデータから連続的な値を得る」場面に頻繁に遭遇します。\n\n\nアニメーションブレンディング: 複数のキーフレーム間を滑らかに補間したい\n\nAIの意思決定: 複数の判断基準から最適な行動を選択したい\n\n影響範囲の計算: 複数の音源や光源の影響を合成したい\n\n従来の線形補間やスプライ...",
+          "link": "https://zenn.dev/dsgarage/articles/529a2685eab09d",
+          "publishedOn": "2025-11-02T08:14:12.000Z",
+          "wordCount": 8312,
+          "title": "Unityで使うRBF補間：滑らかなアニメーションとAIの実装",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--fmHO272X--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Unity%25E3%2581%25A7%25E4%25BD%25BF%25E3%2581%2586RBF%25E8%25A3%259C%25E9%2596%2593%25EF%25BC%259A%25E6%25BB%2591%25E3%2582%2589%25E3%2581%258B%25E3%2581%25AA%25E3%2582%25A2%25E3%2583%258B%25E3%2583%25A1%25E3%2583%25BC%25E3%2582%25B7%25E3%2583%25A7%25E3%2583%25B3%25E3%2581%25A8AI%25E3%2581%25AE%25E5%25AE%259F%25E8%25A3%2585%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%25A4%25E3%2581%258B%25E3%2581%2595%25E3%2582%2593%25E3%2581%2595%25E3%2582%2593%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2M2NzQ1N2RlMTguanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
+            "length": "0",
+            "type": "false"
+          },
+          "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--fmHO272X--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Unity%25E3%2581%25A7%25E4%25BD%25BF%25E3%2581%2586RBF%25E8%25A3%259C%25E9%2596%2593%25EF%25BC%259A%25E6%25BB%2591%25E3%2582%2589%25E3%2581%258B%25E3%2581%25AA%25E3%2582%25A2%25E3%2583%258B%25E3%2583%25A1%25E3%2583%25BC%25E3%2582%25B7%25E3%2583%25A7%25E3%2583%25B3%25E3%2581%25A8AI%25E3%2581%25AE%25E5%25AE%259F%25E8%25A3%2585%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%25A4%25E3%2581%258B%25E3%2581%2595%25E3%2582%2593%25E3%2581%2595%25E3%2582%2593%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2M2NzQ1N2RlMTguanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"
+        },
+        {
           "id": "https://zenn.dev/nadegata_memo/articles/mobu_pyfbsdk_unboundwrapper",
           "author": "Ndgt",
           "description": "はじめに\n今回の記事では、MotionBuilder の Python SDK 開発における UnboundWrapper、およびそのエラーに焦点を当てて解説します。\n前半の1章・2章で、Python の基本的な知識と MotionBuilder における重要な Python Wrapper の動作を解説します。また、後半の3章で、UnboundWrapperError の発生ケースと対策例を紹介します。\n!\n内容は精査しましたが、非常に長くなってしまいました。必要に応じて飛ばしながらお読みください。また、誤謬等ございましたら、ご指摘いただけますと幸いです。\n\n\n\n 1. 前提知識\n...",
@@ -3027,6 +3037,16 @@
       "feedUrl": "https://note.com/hashtag/substancepainter/rss",
       "siteUrl": "https://note.com/hashtag/substancepainter",
       "articles": [
+        {
+          "id": "https://note.com/tsukasa_yamato/n/nc3b32c8ae9c4",
+          "author": null,
+          "description": "Udemyで学習中のサブスタンス3Dペインター学習コース、7時間の「導入編」をようやく見終わった。全体で24時間のコースなので約3分の1が基礎編という大ボリュームなコースだが、おかげでほぼ抜け漏れなくサブペの基礎を理解したと言っていいだろう。そんなわけでMy解釈によるサブペの概要日記。\n学習中のUdemyコースはこちら。\n続きをみる",
+          "link": "https://note.com/tsukasa_yamato/n/nc3b32c8ae9c4",
+          "publishedOn": "2025-11-02T13:46:42.000Z",
+          "wordCount": 3003,
+          "title": "Marmoset Toolbagのためにサブスタンス3Dペインターを学習（サブペ学習 14日目）",
+          "imageUrl": "https://assets.st-note.com/production/uploads/images/226599481/rectangle_large_type_2_d5b635764f913e748a58cd8a275d73d1.jpeg?width=800"
+        },
         {
           "id": "https://note.com/acarcane/n/nceed70c1e8d7",
           "author": null,
@@ -3836,26 +3856,6 @@
             "type": "video/mp4"
           },
           "imageUrl": "https://cginterest.com/wp-content/uploads/2025/10/20251006_godot4_5.webp"
-        },
-        {
-          "id": "https://cginterest.com/?p=51354",
-          "author": ".me",
-          "description": "EIZOダイレクトで開催されているセールの紹介です。 セール概要 アカデミー科学技術賞を受賞したColorEdge CGシリーズ、写真プリントとの色合わせが好評のColorEdge CSシリーズや、長時間のPC作業でも目 […]\n【2025年10月9日まで】EIZO ColorEdge CG＆CSシリーズディスプレイが期間限定で15％オフに！ first appeared on CGinterest.",
-          "link": "https://cginterest.com/2025/10/04/%e3%80%902025%e5%b9%b410%e6%9c%889%e6%97%a5%e3%81%be%e3%81%a7%e3%80%91eizo-coloredge-cg%ef%bc%86cs%e3%82%b7%e3%83%aa%e3%83%bc%e3%82%ba%e3%83%87%e3%82%a3%e3%82%b9%e3%83%97%e3%83%ac%e3%82%a4%e3%81%8c/",
-          "publishedOn": "2025-10-04T08:10:54.000Z",
-          "wordCount": null,
-          "title": "【2025年10月9日まで】EIZO ColorEdge CG＆CSシリーズディスプレイが期間限定で15％オフに！",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cginterest.com/?p=51355",
-          "author": ".me",
-          "description": "先月Sketchfabに投稿されたモデルを勝手にピックアップ(2025年10月4日調べ) するコーナーです。人気のある3Dモデルを中心に独断と偏見で選んでおります！ 通常のピックアップとは別に、無料でダウンロードできる3 […]\nSketchfabマンスリーピックアップ 2025年10月号 first appeared on CGinterest.",
-          "link": "https://cginterest.com/2025/10/04/sketchfab%e3%83%9e%e3%83%b3%e3%82%b9%e3%83%aa%e3%83%bc%e3%83%94%e3%83%83%e3%82%af%e3%82%a2%e3%83%83%e3%83%97-2025%e5%b9%b410%e6%9c%88%e5%8f%b7/",
-          "publishedOn": "2025-10-04T06:37:00.000Z",
-          "wordCount": 29522,
-          "title": "Sketchfabマンスリーピックアップ 2025年10月号",
-          "imageUrl": "https://cginterest.com/wp-content/uploads/2025/10/20251004sketchfabmontlypickup.webp"
         }
       ]
     }

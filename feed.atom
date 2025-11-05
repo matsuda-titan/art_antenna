@@ -2,10 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-11-05T08:15:27.319Z</updated>
+    <updated>2025-11-05T12:21:58.122Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ガンマ空間・リニア空間の自分なりの解釈]]></title>
+        <id>https://qiita.com/Haru86_/items/69daaceac3df3716833d</id>
+        <link href="https://qiita.com/Haru86_/items/69daaceac3df3716833d"/>
+        <updated>2025-11-05T10:04:42.000Z</updated>
+        <summary type="html"><![CDATA[ガンマ色空間・リニア色空間の理解まとめ
+・ガンマ空間はディスプレイが出力する色だけど、その出力する色は物理的に正しくない
+・リニア空間は物理的に正しい色が計算できる空間
+・シェーダーでこれらの補正をしなかった場合、その色はガンマ空間の色となる
+・なので物理的に正しい色を計...]]></summary>
+        <author>
+            <name>CGタグが付けられた新着記事 - Qiita</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Lambertをちょっと深く知ってみよう]]></title>
         <id>https://note.com/dftalk/n/nd472da7ad103</id>
@@ -3549,39 +3563,6 @@ Ruby ...]]></summary>
         <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
         <author>
             <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3D生成AIモデル「Hunyuan3D-Part」公開！　テキストプロンプトで既存の3Dモデルの特定パーツ編集や新規追加が可能なオープンソースのフレームワーク - ニュース]]></title>
-        <id>https://cgworld.jp/flashnews/01-202510-Hunyuan3D-Part.html</id>
-        <link href="https://cgworld.jp/flashnews/01-202510-Hunyuan3D-Part.html"/>
-        <updated>2025-10-07T00:03:00.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KYOTOの世界をMayaで。]]></title>
-        <id>https://note.com/creatorsaki_vlog/n/nae4d1fb984b2</id>
-        <link href="https://note.com/creatorsaki_vlog/n/nae4d1fb984b2"/>
-        <updated>2025-10-06T23:32:00.000Z</updated>
-        <summary type="html"><![CDATA[卒業制作で作った動画を静止画でレンダリングしたくて少し調整してみました！ライティングをもっと学びたいと思います。
-お昼Ver.
-続きをみる]]></summary>
-        <author>
-            <name>#substancepainterタグ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cesium、火星の3Dタイルセット「Cesium Mars」をリリース！Google Maps 2Dタイルも利用可能に]]></title>
-        <id>https://cginterest.com/?p=51375</id>
-        <link href="https://cginterest.com/2025/10/07/cesium%e3%80%81%e7%81%ab%e6%98%9f%e3%81%ae3d%e3%82%bf%e3%82%a4%e3%83%ab%e3%82%bb%e3%83%83%e3%83%88%e3%80%8ccesium-mars%e3%80%8d%e3%82%92%e3%83%aa%e3%83%aa%e3%83%bc%e3%82%b9%ef%bc%81google-maps-2d/"/>
-        <updated>2025-10-06T23:04:00.000Z</updated>
-        <summary type="html"><![CDATA[2025年10月2日（現地時間）- Cesium は、同社のプラットフォームの10月のアップデートを発表しました。 このアップデートでは、Cesium ionでGoogle Maps 2Dタイルのサポートなどの新機能が追 […]
-Cesium、火星の3Dタイルセット「Cesium Mars」をリリース！Google Maps 2Dタイルも利用可能に first appeared on CGinterest.]]></summary>
-        <author>
-            <name>.me</name>
         </author>
     </entry>
 </feed>

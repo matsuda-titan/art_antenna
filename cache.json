@@ -1611,16 +1611,6 @@
           "wordCount": 750,
           "title": "ヨルシカのMVに憧れてーフランスのアートスクールからMORIE.Incへ。インターン生「ジョナタン」が見た日本のアニメーション制作現場とは？ - 特集",
           "imageUrl": "https://cgworld.jp/article/assets_c/2025/10/_DSC2478-thumb-1000x667-74513.jpg"
-        },
-        {
-          "id": "https://cgworld.jp/flashnews/01-202510-Hunyuan3D-Part.html",
-          "author": null,
-          "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
-          "link": "https://cgworld.jp/flashnews/01-202510-Hunyuan3D-Part.html",
-          "publishedOn": "2025-10-07T00:03:00.000Z",
-          "wordCount": 900,
-          "title": "3D生成AIモデル「Hunyuan3D-Part」公開！　テキストプロンプトで既存の3Dモデルの特定パーツ編集や新規追加が可能なオープンソースのフレームワーク - ニュース",
-          "imageUrl": "https://cgworld.jp/flashnews/assets_c/2025/10/Hunyuan3D-Part-01-thumb-1920x1080-74782.jpg"
         }
       ]
     },
@@ -2776,6 +2766,16 @@
       "siteUrl": "https://qiita.com",
       "articles": [
         {
+          "id": "https://qiita.com/Haru86_/items/69daaceac3df3716833d",
+          "author": null,
+          "description": "ガンマ色空間・リニア色空間の理解まとめ\n・ガンマ空間はディスプレイが出力する色だけど、その出力する色は物理的に正しくない\n・リニア空間は物理的に正しい色が計算できる空間\n・シェーダーでこれらの補正をしなかった場合、その色はガンマ空間の色となる\n・なので物理的に正しい色を計...",
+          "link": "https://qiita.com/Haru86_/items/69daaceac3df3716833d",
+          "publishedOn": "2025-11-05T10:04:42.000Z",
+          "wordCount": 562,
+          "title": "ガンマ空間・リニア空間の自分なりの解釈",
+          "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkY0NjE2MDklMkZmOWZhMTQzOGFkNzdlNTllNjNhYTQ0MDc3MGEzMjhmMTI1MGM0N2UwJTJGbGFyZ2UucG5nJTNGMTYyMzczMTczOD9peGxpYj1yYi00LjAuMCZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9YmFkM2VkOTZmZmZmNGQzOTY1MjE4ZDZiZDJjMGY3NzY%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D60edc1e5aaa329b639bef79c2d2f3cca?ixlib=rb-4.0.0&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9JUUzJTgyJUFDJUUzJTgzJUIzJUUzJTgzJTlFJUU3JUE5JUJBJUU5JTk2JTkzJUUzJTgzJUJCJUUzJTgzJUFBJUUzJTgzJThCJUUzJTgyJUEyJUU3JUE5JUJBJUU5JTk2JTkzJUUzJTgxJUFFJUU4JTg3JUFBJUU1JTg4JTg2JUUzJTgxJUFBJUUzJTgyJThBJUUzJTgxJUFFJUU4JUE3JUEzJUU5JTg3JTg4JnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9YjUyZmRkNzhiYjFkNmJjZWFjMTRhM2U2ZDI3NDNmMzE&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBIYXJ1ODZfJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9YTFiZDg2MDEwMWU5MDczYTU5MzM3ZTgzODhhMDIwNjI&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=d67469a2d099eebdc46924d778386765"
+        },
+        {
           "id": "https://qiita.com/game-tsukuru/items/2a55944c79a41ad9e404",
           "author": null,
           "description": "「CGアニメーターって、絵が上手くないと無理ですよね？」\nわたしも最初、そう思ってました。\nでも実際にやってみると、「絵が下手＝向いてない」ではなくて、「観察力と粘り強さがあれば大丈夫」なんですよね。\nこの記事では、絵が下手なままCGアニメーターを目指したわたしの体験と、ど...",
@@ -3155,16 +3155,6 @@
           "wordCount": 4901,
           "title": "実践シリーズ：用語ノート（ライティング × マテリアル × レンダリング）",
           "imageUrl": "https://assets.st-note.com/production/uploads/images/219142561/rectangle_large_type_2_2bcc56029084a5400f9d7786c272112e.png?width=800"
-        },
-        {
-          "id": "https://note.com/creatorsaki_vlog/n/nae4d1fb984b2",
-          "author": null,
-          "description": "卒業制作で作った動画を静止画でレンダリングしたくて少し調整してみました！ライティングをもっと学びたいと思います。\nお昼Ver.\n続きをみる",
-          "link": "https://note.com/creatorsaki_vlog/n/nae4d1fb984b2",
-          "publishedOn": "2025-10-06T23:32:00.000Z",
-          "wordCount": 2342,
-          "title": "KYOTOの世界をMayaで。",
-          "imageUrl": "https://assets.st-note.com/production/uploads/images/220538254/rectangle_large_type_2_3a48d9652e1dea137d998217e9672d9a.jpeg?width=800"
         }
       ]
     },
@@ -3870,16 +3860,6 @@
           "wordCount": 30373,
           "title": "Amazonプライム感謝祭が開催！ワコムペンタブやグラフィックスカードなどがお買い得に！",
           "imageUrl": "https://cginterest.com/wp-content/uploads/2025/10/20251007_primiekanshasaisale.webp"
-        },
-        {
-          "id": "https://cginterest.com/?p=51375",
-          "author": ".me",
-          "description": "2025年10月2日（現地時間）- Cesium は、同社のプラットフォームの10月のアップデートを発表しました。 このアップデートでは、Cesium ionでGoogle Maps 2Dタイルのサポートなどの新機能が追 […]\nCesium、火星の3Dタイルセット「Cesium Mars」をリリース！Google Maps 2Dタイルも利用可能に first appeared on CGinterest.",
-          "link": "https://cginterest.com/2025/10/07/cesium%e3%80%81%e7%81%ab%e6%98%9f%e3%81%ae3d%e3%82%bf%e3%82%a4%e3%83%ab%e3%82%bb%e3%83%83%e3%83%88%e3%80%8ccesium-mars%e3%80%8d%e3%82%92%e3%83%aa%e3%83%aa%e3%83%bc%e3%82%b9%ef%bc%81google-maps-2d/",
-          "publishedOn": "2025-10-06T23:04:00.000Z",
-          "wordCount": 29628,
-          "title": "Cesium、火星の3Dタイルセット「Cesium Mars」をリリース！Google Maps 2Dタイルも利用可能に",
-          "imageUrl": "https://cginterest.com/wp-content/uploads/2025/10/20251006_cesium-ion-updates.webp"
         }
       ]
     }

@@ -306,6 +306,21 @@
       "siteUrl": "https://3dnchu.com",
       "articles": [
         {
+          "id": "https://3dnchu.com/?p=1059750",
+          "author": "Ymt3D -3dnchu-",
+          "description": "Beebleは動画からPBR素材を生成するモデル「SwitchLight」のv3.0をリリースしました！クラウド版「Beeble」と新たなデスクトップアプリ「Beeble Studio」の何方でも利用可能です！",
+          "link": "https://3dnchu.com/archives/switchlight-3-0-beeble/",
+          "publishedOn": "2025-11-08T04:59:27.000Z",
+          "wordCount": 8767,
+          "title": "SwitchLight 3.0 - 「Beeble」のAIソリューションで使用可能な動画から法線などのPBR素材を生成する機能の最新アップデートがリリース！新デスクトップアプリ「Beeble Studio」ではローカルGPUで実行可能！",
+          "enclosure": {
+            "url": "https://3dnchu.com/wp-content/uploads/switchlight-3-0-beeble.webp",
+            "length": "1059064",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://3dnchu.com/wp-content/uploads/switchlight-3-0-beeble.webp"
+        },
+        {
           "id": "https://3dnchu.com/?p=1059476",
           "author": "Ymt3D -3dnchu-",
           "description": "Colosoで現在公開中のVTuberアバター制作解説フルチュートリアル講座『完全攻略53講：VTuberデビュー向け！Blenderで制作する3Dバーチャルアバター』を受講いたしましたのでその感想を語りたいと思います！",
@@ -2445,7 +2460,28 @@
       "title": "Zennの「graphics」のフィード",
       "feedUrl": "https://zenn.dev/topics/graphics/feed",
       "siteUrl": "https://zenn.dev/topics/graphics",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://zenn.dev/chocolate_pie24/books/2d_rendering_step2",
+          "author": "chocolate-pie24",
+          "description": "本Bookでは、プラットフォーム基盤の構築とウィンドウ生成を行っていきます。",
+          "link": "https://zenn.dev/chocolate_pie24/books/2d_rendering_step2",
+          "publishedOn": "2025-11-08T04:12:23.000Z",
+          "wordCount": 236,
+          "title": "C言語とOpenGLで作るゲームエンジン開発(2Dレンダリング編 - Step2)",
+          "imageUrl": "https://static.zenn.studio/images/logo-only-dark.png"
+        },
+        {
+          "id": "https://zenn.dev/chocolate_pie24/books/2d_rendering_step1",
+          "author": "chocolate-pie24",
+          "description": "本Bookでは、実行基盤とメモリ管理レイヤの初期化を行なっていきます。",
+          "link": "https://zenn.dev/chocolate_pie24/books/2d_rendering_step1",
+          "publishedOn": "2025-11-08T04:12:19.000Z",
+          "wordCount": 234,
+          "title": "C言語とOpenGLで作るゲームエンジン開発(2Dレンダリング編 - Step1)",
+          "imageUrl": "https://static.zenn.studio/images/logo-only-dark.png"
+        }
+      ]
     },
     {
       "title": "Zennの「Shader Graph」のフィード",
@@ -3205,16 +3241,6 @@
           "wordCount": 2737,
           "title": "Blender ポートレートスカルプティング",
           "imageUrl": "https://assets.st-note.com/production/uploads/images/219695037/rectangle_large_type_2_007d871a56725dbbe7e4748e161db36e.jpeg?width=800"
-        },
-        {
-          "id": "https://note.com/tsukasa_yamato/n/nb88c6a33cf8d",
-          "author": null,
-          "description": "聞いたことがない人のほうが多そうなMarmoset Toolbag。だがなぜ今さらになって私がMarmoset Toolbagを学ぼうと思ったのか、についての日記。\n（約 5,100文字の記事です。）😱 ドウシテコウナッタ……。\n続きをみる",
-          "link": "https://note.com/tsukasa_yamato/n/nb88c6a33cf8d",
-          "publishedOn": "2025-10-09T15:44:57.000Z",
-          "wordCount": 3083,
-          "title": "なぜMarmoset Toolbagが必要なのか？を考えてみた結果。「やっぱり必要」",
-          "imageUrl": "https://assets.st-note.com/production/uploads/images/221169322/rectangle_large_type_2_e70d5b90d096c7f5b49142d5e002f5ac.jpeg?width=800"
         }
       ]
     },

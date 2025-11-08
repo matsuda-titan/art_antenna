@@ -1591,36 +1591,6 @@
           "wordCount": 762,
           "title": "27卒学生向け就活イベント「クリ博　ポートフォリオオンライン選考会 12月」が開催決定！　2D / 3D / UI デザイナー志望者向け　※12/1（月）まで - ニュース",
           "imageUrl": "https://cgworld.jp/flashnews/assets_c/2025/10/16-9%20%283%29-thumb-1920x1080-74667.jpg"
-        },
-        {
-          "id": "https://cgworld.jp/flashnews/01-202510-Meshy6Preview.html",
-          "author": null,
-          "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
-          "link": "https://cgworld.jp/flashnews/01-202510-Meshy6Preview.html",
-          "publishedOn": "2025-10-09T23:47:35.000Z",
-          "wordCount": 895,
-          "title": "3D生成AIモデル「Meshy 6 Preview」リリース！　メッシュ品質向上、ワークフロー強化、Text-to-3DとImage-to-3Dを同社ワークスペースとAPIで提供開始 - ニュース",
-          "imageUrl": "https://cgworld.jp/flashnews/assets_c/2025/10/Meshy6Pre-01-thumb-1280x720-74967.jpg"
-        },
-        {
-          "id": "https://cgworld.jp/article/2510-ututor.html",
-          "author": null,
-          "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
-          "link": "https://cgworld.jp/article/2510-ututor.html",
-          "publishedOn": "2025-10-09T23:11:00.000Z",
-          "wordCount": 741,
-          "title": "AIはクリエイターの教師になれるか？　デジタルハリウッドの教育AI「Ututor」発表会レポ＆先行レビュー - 特集",
-          "imageUrl": "https://cgworld.jp/article/assets_c/2025/10/2510_ututor_main-thumb-1000x562-74936.jpg"
-        },
-        {
-          "id": "https://cgworld.jp/regular/202510-cgw327-book.html",
-          "author": null,
-          "description": "",
-          "link": "https://cgworld.jp/regular/202510-cgw327-book.html",
-          "publishedOn": "2025-10-09T22:56:00.000Z",
-          "wordCount": 803,
-          "title": "#13：2,000以上のバリエーションを大公開！『Cinema 4D モーショングラフィックス』 - 連載",
-          "imageUrl": "https://cgworld.jp/regular/assets_c/2025/10/book_of_the_month_202510-thumb-1000x563-74921.jpg"
         }
       ]
     },
@@ -1675,6 +1645,16 @@
       "feedUrl": "https://modelinghappy.com/feed",
       "siteUrl": "https://modelinghappy.com",
       "articles": [
+        {
+          "id": "https://modelinghappy.com/?p=65324",
+          "author": "modelinghappy",
+          "description": "Arclink City #8211; Data Megapolis Kitbash Buildings 3Dモデルのキットバッシュ素材を販売しているGreeble Townが２周年を記念して、150以上のメッシュオブ\nThe post 【無料】近未来都市を作れる150種類以上の3Dアセット＆テクスチャが2週間限定配布中！ first appeared on 3DCG最新情報サイト MODELING HAPPY.",
+          "link": "https://modelinghappy.com/archives/65324",
+          "publishedOn": "2025-11-08T11:55:55.000Z",
+          "wordCount": 3690,
+          "title": "【無料】近未来都市を作れる150種類以上の3Dアセット＆テクスチャが2週間限定配布中！",
+          "imageUrl": "https://modelinghappy.com/wp-content/uploads/2025/11/20251108_3d_assets_01.jpg"
+        },
         {
           "id": "https://modelinghappy.com/?p=65292",
           "author": "modelinghappy",
@@ -2493,7 +2473,23 @@
       "title": "Zennの「Houdini」のフィード",
       "feedUrl": "https://zenn.dev/topics/houdini/feed",
       "siteUrl": "https://zenn.dev/topics/houdini",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://zenn.dev/eke/articles/2ae58aabf41a08",
+          "author": "ぁゅ",
+          "description": "はじめに\n制作中に参考にしたサイト等のURLを Sticky Note に書いていましたが、\nそこからURLを開くのが面倒だと感じたので\n\"ボタンを押すと入力欄のURLをブラウザで開く\"\n機能を持ったNullノードを用意できたので紹介します。\nスクリプトだけで大丈夫な方は目次のスクリプトからどうぞ🙇\n\n今回の成果 : ボタンを押すだけでURLが開ける\n\n今まで : URLを開くときにコピペが面倒\n\n 作成手順\n\n 1.入力欄のURLを開くボタンの作成\nまずは入力欄のURLを開くボタンを持つNullノードを作成してみます。\n\n\nNullノードを作成 > Edit Paramete...",
+          "link": "https://zenn.dev/eke/articles/2ae58aabf41a08",
+          "publishedOn": "2025-11-08T11:40:08.000Z",
+          "wordCount": 1188,
+          "title": "【Houdini】URLを開くノードを用意する (Scriptあり)",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--37PB7pje--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2580%2590Houdini%25E3%2580%2591URL%25E3%2582%2592%25E9%2596%258B%25E3%2581%258F%25E3%2583%258E%25E3%2583%25BC%25E3%2583%2589%25E3%2582%2592%25E7%2594%25A8%25E6%2584%258F%25E3%2581%2599%25E3%2582%258B%2520%2528Script%25E3%2581%2582%25E3%2582%258A%2529%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%2581%25E3%2582%2585%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzA1ZTE2MDY5YjYuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
+            "length": "0",
+            "type": "false"
+          },
+          "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--37PB7pje--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2580%2590Houdini%25E3%2580%2591URL%25E3%2582%2592%25E9%2596%258B%25E3%2581%258F%25E3%2583%258E%25E3%2583%25BC%25E3%2583%2589%25E3%2582%2592%25E7%2594%25A8%25E6%2584%258F%25E3%2581%2599%25E3%2582%258B%2520%2528Script%25E3%2581%2582%25E3%2582%258A%2529%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%2581%25E3%2582%2585%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzA1ZTE2MDY5YjYuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"
+        }
+      ]
     },
     {
       "title": "Zennの「3DCG」のフィード",
@@ -3322,6 +3318,31 @@
       "feedUrl": "https://cginterest.com/feed/",
       "siteUrl": "https://cginterest.com",
       "articles": [
+        {
+          "id": "https://cginterest.com/?p=52702",
+          "author": ".me",
+          "description": "パソコン工房インターネット通販で開催中の『先取りボーナスセール』の紹介です。 セール概要 GeForce RTX 50・40シリーズ搭載ゲーミングPCやOffice 2024搭載ノートパソコン、ワークステーションなどがラ […]\nパソコン工房『先取りボーナスセール』が開催！AMD Ryzen 9 9950X3D クリエイターパソコンが特別価格に！ first appeared on CGinterest.",
+          "link": "https://cginterest.com/2025/11/08/%e3%83%91%e3%82%bd%e3%82%b3%e3%83%b3%e5%b7%a5%e6%88%bf%e3%80%8e%e5%85%88%e5%8f%96%e3%82%8a%e3%83%9c%e3%83%bc%e3%83%8a%e3%82%b9%e3%82%bb%e3%83%bc%e3%83%ab%e3%80%8f%e3%81%8c%e9%96%8b%e5%82%ac%ef%bc%81am/",
+          "publishedOn": "2025-11-08T10:46:16.000Z",
+          "wordCount": 33075,
+          "title": "パソコン工房『先取りボーナスセール』が開催！AMD Ryzen 9 9950X3D クリエイターパソコンが特別価格に！",
+          "imageUrl": "https://cginterest.com/wp-content/uploads/2025/11/pckobo-sale-bonus-sale-2025-11.webp"
+        },
+        {
+          "id": "https://cginterest.com/?p=52690",
+          "author": ".me",
+          "description": "2025年11月5日（現地時間）- Beeble.aiは、同社最新のVideo-to-PBRモデル「SwitchLight 3.0」を発表しました。 SwitchLight 3.0とは 「SwitchLight 3.0」 […]\n再照明を可能にするVFX向け Video-to-PBR 最新モデル「SwitchLight 3.0」がリリース！品質と安定性が向上！ first appeared on CGinterest.",
+          "link": "https://cginterest.com/2025/11/08/%e5%86%8d%e7%85%a7%e6%98%8e%e3%82%92%e5%8f%af%e8%83%bd%e3%81%ab%e3%81%99%e3%82%8bvfx%e5%90%91%e3%81%91-video-to-pbr-%e6%9c%80%e6%96%b0%e3%83%a2%e3%83%87%e3%83%ab%e3%80%8cswitchlight-3-0%e3%80%8d/",
+          "publishedOn": "2025-11-08T09:11:22.000Z",
+          "wordCount": 32648,
+          "title": "再照明を可能にするVFX向け Video-to-PBR 最新モデル「SwitchLight 3.0」がリリース！品質と安定性が向上！",
+          "enclosure": {
+            "url": "https://cginterest.com/wp-content/uploads/2025/11/20251108-Switchlight3-Demo31.mp4",
+            "length": "473906",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://cginterest.com/wp-content/uploads/2025/11/20251108_SwitchLight3.webp"
+        },
         {
           "id": "https://cginterest.com/?p=52648",
           "author": ".me",

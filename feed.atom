@@ -2,10 +2,180 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-11-07T12:20:59.105Z</updated>
+    <updated>2025-11-08T00:50:02.062Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Mayaで自作シェーダーを使う ～ OSL編 ～]]></title>
+        <id>https://zenn.dev/tachikure/articles/807bb71b0feef0</id>
+        <link href="https://zenn.dev/tachikure/articles/807bb71b0feef0"/>
+        <updated>2025-11-07T17:31:14.000Z</updated>
+        <summary type="html"><![CDATA[MayaでOSLシェーダーを使用する手順。
+aiOslShaderを使う方法と、Arnold シェーダとして読み込む方法がある。
+
+ aiOslShaderを使う
+[aiOslShader]ノードを作成する。
+
+オブジェクトに適当なマテリアル(Lambertなど)を割り当てる。
+
+SGノードのSurface Shaderの接続を[aiOslShader]のOut Valueにつなぎ変える。
+
+※代わりにオブジェクトに[aiToon]等を割り当てて[aiOslShader]のOut Valueを[aiToon]のbase Toonmapに割り当てたり、その他マテリアルの入力に[aiOslS...]]></summary>
+        <author>
+            <name>たちくれ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mayaで自作シェーダーを使う ～ OSL編 ～]]></title>
+        <id>https://zenn.dev/tachikure/articles/807bb71b0feef0</id>
+        <link href="https://zenn.dev/tachikure/articles/807bb71b0feef0"/>
+        <updated>2025-11-07T17:31:14.000Z</updated>
+        <summary type="html"><![CDATA[MayaでOSLシェーダーを使用する手順。
+aiOslShaderを使う方法と、Arnold シェーダとして読み込む方法がある。
+
+ aiOslShaderを使う
+[aiOslShader]ノードを作成する。
+
+オブジェクトに適当なマテリアル(Lambertなど)を割り当てる。
+
+SGノードのSurface Shaderの接続を[aiOslShader]のOut Valueにつなぎ変える。
+
+※代わりにオブジェクトに[aiToon]等を割り当てて[aiOslShader]のOut Valueを[aiToon]のbase Toonmapに割り当てたり、その他マテリアルの入力に[aiOslS...]]></summary>
+        <author>
+            <name>たちくれ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mayaで自作シェーダーを使う ～ OSL編 ～]]></title>
+        <id>https://zenn.dev/tachikure/articles/807bb71b0feef0</id>
+        <link href="https://zenn.dev/tachikure/articles/807bb71b0feef0"/>
+        <updated>2025-11-07T17:31:14.000Z</updated>
+        <summary type="html"><![CDATA[MayaでOSLシェーダーを使用する手順。
+aiOslShaderを使う方法と、Arnold シェーダとして読み込む方法がある。
+
+ aiOslShaderを使う
+[aiOslShader]ノードを作成する。
+
+オブジェクトに適当なマテリアル(Lambertなど)を割り当てる。
+
+SGノードのSurface Shaderの接続を[aiOslShader]のOut Valueにつなぎ変える。
+
+※代わりにオブジェクトに[aiToon]等を割り当てて[aiOslShader]のOut Valueを[aiToon]のbase Toonmapに割り当てたり、その他マテリアルの入力に[aiOslS...]]></summary>
+        <author>
+            <name>たちくれ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mayaで自作シェーダーを使う ～ HLSL編 ～]]></title>
+        <id>https://zenn.dev/tachikure/articles/499b212e9fe6c9</id>
+        <link href="https://zenn.dev/tachikure/articles/499b212e9fe6c9"/>
+        <updated>2025-11-07T16:06:59.000Z</updated>
+        <summary type="html"><![CDATA[MayaでHLSLシェーダーを表示するまでの手順。
+
+ シェーダーファイルの用意
+拡張子を.fxにしたHLSLファイルを用意する。
+赤単色のシンプルなシェーダー ↓ ↓ ↓
+
+sample.fx
+// グローバル変数
+float4x4 WVP: WorldViewProjection;
+
+// 頂点シェーダーの入出力(ピクセルシェーダーの入力)構造体
+struct VSInput{ float4 pos: POSITION;};
+struct VSOutput{ float4 pos: SV_Position;};
+
+// 頂点シェーダー
+VSOutput VS(VSInput In){...]]></summary>
+        <author>
+            <name>たちくれ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mayaで自作シェーダーを使う ～ HLSL編 ～]]></title>
+        <id>https://zenn.dev/tachikure/articles/499b212e9fe6c9</id>
+        <link href="https://zenn.dev/tachikure/articles/499b212e9fe6c9"/>
+        <updated>2025-11-07T16:06:59.000Z</updated>
+        <summary type="html"><![CDATA[MayaでHLSLシェーダーを表示するまでの手順。
+
+ シェーダーファイルの用意
+拡張子を.fxにしたHLSLファイルを用意する。
+赤単色のシンプルなシェーダー ↓ ↓ ↓
+
+sample.fx
+// グローバル変数
+float4x4 WVP: WorldViewProjection;
+
+// 頂点シェーダーの入出力(ピクセルシェーダーの入力)構造体
+struct VSInput{ float4 pos: POSITION;};
+struct VSOutput{ float4 pos: SV_Position;};
+
+// 頂点シェーダー
+VSOutput VS(VSInput In){...]]></summary>
+        <author>
+            <name>たちくれ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mayaで自作シェーダーを使う ～ HLSL編 ～]]></title>
+        <id>https://zenn.dev/tachikure/articles/499b212e9fe6c9</id>
+        <link href="https://zenn.dev/tachikure/articles/499b212e9fe6c9"/>
+        <updated>2025-11-07T16:06:59.000Z</updated>
+        <summary type="html"><![CDATA[MayaでHLSLシェーダーを表示するまでの手順。
+
+ シェーダーファイルの用意
+拡張子を.fxにしたHLSLファイルを用意する。
+赤単色のシンプルなシェーダー ↓ ↓ ↓
+
+sample.fx
+// グローバル変数
+float4x4 WVP: WorldViewProjection;
+
+// 頂点シェーダーの入出力(ピクセルシェーダーの入力)構造体
+struct VSInput{ float4 pos: POSITION;};
+struct VSOutput{ float4 pos: SV_Position;};
+
+// 頂点シェーダー
+VSOutput VS(VSInput In){...]]></summary>
+        <author>
+            <name>たちくれ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mayaで自作シェーダーを使う ～ HLSL編 ～]]></title>
+        <id>https://zenn.dev/tachikure/articles/499b212e9fe6c9</id>
+        <link href="https://zenn.dev/tachikure/articles/499b212e9fe6c9"/>
+        <updated>2025-11-07T16:06:59.000Z</updated>
+        <summary type="html"><![CDATA[MayaでHLSLシェーダーを表示するまでの手順。
+
+ シェーダーファイルの用意
+拡張子を.fxにしたHLSLファイルを用意する。
+赤単色のシンプルなシェーダー ↓ ↓ ↓
+
+sample.fx
+// グローバル変数
+float4x4 WVP: WorldViewProjection;
+
+// 頂点シェーダーの入出力(ピクセルシェーダーの入力)構造体
+struct VSInput{ float4 pos: POSITION;};
+struct VSOutput{ float4 pos: SV_Position;};
+
+// 頂点シェーダー
+VSOutput VS(VSInput In){...]]></summary>
+        <author>
+            <name>たちくれ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tokyo Anim Unite 2025 - 豪華ゲストによる講演や交流が可能なイベント！2025年11月8・9日の2日間ベルサール新宿グランドコンファレンスセンターにて開催！]]></title>
+        <id>https://3dnchu.com/?p=1059846</id>
+        <link href="https://3dnchu.com/archives/tokyo-anim-unite-2025/"/>
+        <updated>2025-11-07T12:50:23.000Z</updated>
+        <summary type="html"><![CDATA[映像やゲームなどのエンタメ制作に携わるすべての人に向けた大イベントの第2回「Tokyo Anim Unite 2025」が2025年11月8～9日の2日間 ベルサール新宿グランドコンファレンスセンターにて開催されます！]]></summary>
+        <author>
+            <name>Ymt3D -3dnchu-</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Affinity - 『Designer』『Photo』『Publisher』3ソフトが統合され完全無料化！商用利用もOK！Win＆macOS！iPad版もリリース予定！]]></title>
         <id>https://3dnchu.com/?p=1059753</id>
@@ -3443,172 +3613,6 @@ The post Smart Extrude – 押し出すだけでジオメトリが交差して�
 続きをみる]]></summary>
         <author>
             <name>#substancepainterタグ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GPU対応FLIP流体ソルバーを搭載したシミュレーションツール Storm HydroFX が無料のオープンベータでリリース！]]></title>
-        <id>https://cginterest.com/?p=51595</id>
-        <link href="https://cginterest.com/2025/10/09/gpu%e5%af%be%e5%bf%9cflip%e6%b5%81%e4%bd%93%e3%82%bd%e3%83%ab%e3%83%90%e3%83%bc%e3%82%92%e6%90%ad%e8%bc%89%e3%81%97%e3%81%9f%e3%82%b7%e3%83%9f%e3%83%a5%e3%83%ac%e3%83%bc%e3%82%b7%e3%83%a7%e3%83%b3/"/>
-        <updated>2025-10-09T09:01:05.000Z</updated>
-        <summary type="html"><![CDATA[流体シミュレーションツール Storm HydroFX が無料のオープンベータとして利用可能になりました。 Storm HydroFX とは Storm HydroFXは、シミュレーションツール「Storm」を基盤に構築 […]
-GPU対応FLIP流体ソルバーを搭載したシミュレーションツール Storm HydroFX が無料のオープンベータでリリース！ first appeared on CGinterest.]]></summary>
-        <author>
-            <name>.me</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[スター・ウォーズ、トランスフォーマー..。ILM のコンポジット スーパーバイザー が語る VFXの秘密]]></title>
-        <id>https://3dtotal.jp/?p=53207</id>
-        <link href="https://3dtotal.jp/news/53207/"/>
-        <updated>2025-10-09T06:45:02.000Z</updated>
-        <summary type="html"><![CDATA[★ILM's VFX Secrets Behind Star Wars, Transformers & More（27分34分/ 制作：Vanity Fair） 『スター・ウォーズ』三部作の息をのむような革新から『トラン […]
-The post スター・ウォーズ、トランスフォーマー..。ILM のコンポジット スーパーバイザー が語る VFXの秘密 first appeared on 3dtotal 日本語オフィシャルサイト.]]></summary>
-        <author>
-            <name>3dtotal管理人T</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GUILTY GEAR -STRIVE- におけるエフェクト制作テクニック - アークシステムワークスのエフェクトアーティスト小川 和哉氏によるエフェクト表現技術解説動画が公開！ #ASWアカデミー]]></title>
-        <id>https://3dnchu.com/?p=1059054</id>
-        <link href="https://3dnchu.com/archives/guilty-gear-strive-vfx/"/>
-        <updated>2025-10-09T05:54:23.000Z</updated>
-        <summary type="html"><![CDATA[アークシステムワークス開発陣による、エフェクト制作TIPS「GUILTY GEAR -STRIVE- におけるエフェクト制作テクニック」の方の動画とスライドが公開されております！]]></summary>
-        <author>
-            <name>Ymt3D -3dnchu-</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ストーリボード と 本編映像 を比較。ピクサー映画『トイ・ストーリー』の “Side by Side”]]></title>
-        <id>https://3dtotal.jp/?p=53199</id>
-        <link href="https://3dtotal.jp/news/53199/"/>
-        <updated>2025-10-09T04:47:32.000Z</updated>
-        <summary type="html"><![CDATA[★Toy Story Side by Side | "Falling with Style" Scene | Storyboards vs Film（1分32秒） 名作映画『トイ・ストーリー』の舞台裏を見てみましょう。ウ […]
-The post ストーリボード と 本編映像 を比較。ピクサー映画『トイ・ストーリー』の "Side by Side" first appeared on 3dtotal 日本語オフィシャルサイト.]]></summary>
-        <author>
-            <name>3dtotal管理人T</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ShaderGlass v1.2 - 1200以上のレトロ表現GPUシェーダーをウインドウ上にリアルタイムオーバーレイ出来るツール！無料！]]></title>
-        <id>https://3dnchu.com/?p=1059055</id>
-        <link href="https://3dnchu.com/archives/shaderglass-v1-2/"/>
-        <updated>2025-10-09T04:40:45.000Z</updated>
-        <summary type="html"><![CDATA[Piotr Kowalski氏によるレトロ表現GPUシェーダーをウインドウ上にリアルタイムオーバーレイ出来るツール「ShaderGlass v1.2」が公開されています。オープンソースで無料ダウンロード可能です。]]></summary>
-        <author>
-            <name>Ymt3D -3dnchu-</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ガレオン難破船の発見、劇的な列車事故。『プレイ・ダーティ』の VFXブレイクダウン映像]]></title>
-        <id>https://3dtotal.jp/?p=53191</id>
-        <link href="https://3dtotal.jp/news/53191/"/>
-        <updated>2025-10-09T04:11:53.000Z</updated>
-        <summary type="html"><![CDATA[★Play Dirty | VFX Breakdown（2分30秒/ 制作：DNEG） シェーン・ブラック監督の『プレイ・ダーティ』のアクションを生き生きと表現するため、才能あふれるチームが究極の強盗を成功させました。検 […]
-The post ガレオン難破船の発見、劇的な列車事故。『プレイ・ダーティ』の VFXブレイクダウン映像 first appeared on 3dtotal 日本語オフィシャルサイト.]]></summary>
-        <author>
-            <name>3dtotal管理人T</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[カシオ、AI効果音生成サービス「Waves Place」を本格展開－日本語入力で理想の音を直感的に制作 - ニュース]]></title>
-        <id>https://cgworld.jp/flashnews/02-2510-waves-place.html</id>
-        <link href="https://cgworld.jp/flashnews/02-2510-waves-place.html"/>
-        <updated>2025-10-09T03:27:58.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Framestore開発のレンダリング技術『OpenQMC』がASWFの新プロジェクトに！]]></title>
-        <id>https://cginterest.com/?p=51581</id>
-        <link href="https://cginterest.com/2025/10/09/framestore%e9%96%8b%e7%99%ba%e3%81%ae%e3%83%ac%e3%83%b3%e3%83%80%e3%83%aa%e3%83%b3%e3%82%b0%e6%8a%80%e8%a1%93%e3%80%8eopenqmc%e3%80%8f%e3%81%8caswf%e3%81%ae%e6%96%b0%e3%83%97%e3%83%ad%e3%82%b8/"/>
-        <updated>2025-10-09T03:04:57.000Z</updated>
-        <summary type="html"><![CDATA[2025年10月7日（現地時間）- 映画業界におけるオープンソースソフトウェア開発を推進する主要組織であるアカデミーソフトウェア財団（ASWF）は、最新プロジェクトとして「OpenQMC」が加わったことを発表しました。O […]
-Framestore開発のレンダリング技術『OpenQMC』がASWFの新プロジェクトに！ first appeared on CGinterest.]]></summary>
-        <author>
-            <name>.me</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DaVinci Resolve 20.2 新機能を紹介！リップルトリムコントロール改善、新しいエフェクトなどなど]]></title>
-        <id>https://cginterest.com/?p=50993</id>
-        <link href="https://cginterest.com/2025/10/09/davinci-resolve-20-2-%e6%96%b0%e6%a9%9f%e8%83%bd%e3%82%92%e7%b4%b9%e4%bb%8b%ef%bc%81%e3%83%aa%e3%83%83%e3%83%97%e3%83%ab%e3%83%88%e3%83%aa%e3%83%a0%e3%82%b3%e3%83%b3%e3%83%88%e3%83%ad%e3%83%bc/"/>
-        <updated>2025-10-09T02:59:56.000Z</updated>
-        <summary type="html"><![CDATA[DaVinci Resolve 20.2の新機能の紹介です。 新機能ハイライト 主な強化点として、編集者のワークフローを簡素化・高速化するタイムラインコントロールの大幅な改善、よりシネマティックな映像表現を可能にする新し […]
-DaVinci Resolve 20.2 新機能を紹介！リップルトリムコントロール改善、新しいエフェクトなどなど first appeared on CGinterest.]]></summary>
-        <author>
-            <name>.me</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[カットシーンのデータ管理 第3回：TimeEditorを⼯夫して管理を効率化してみよう③]]></title>
-        <id>https://area.autodesk.jp/column/tutorial/cut-scene-data-management/03-time-editor-03/</id>
-        <link href="https://area.autodesk.jp/column/tutorial/cut-scene-data-management/03-time-editor-03/"/>
-        <updated>2025-10-09T02:40:00.000Z</updated>
-        <summary type="html"><![CDATA[今回も前回に引き続き、「TimeEditorを⼯夫して管理を効率化してみよう」のお話です。前回は、Maya上でのカットシーン制作においてTimeEditorのGUIを利⽤して、データベース的に利⽤してみる、といった趣旨の運⽤提案のお話でした。今回は、スクリプトでTimeEditorを操作する話題を中⼼に取り上げます。・・・]]></summary>
-        <author>
-            <name>AREA JAPAN | Autodesk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[V-Ray for 3ds Max／Maya／SketchUp スタートアップトレーニング ― 即戦力スキルを身につける実践講座開講！ - ニュース]]></title>
-        <id>https://cgworld.jp/flashnews/02-2510-vray.html</id>
-        <link href="https://cgworld.jp/flashnews/02-2510-vray.html"/>
-        <updated>2025-10-09T01:59:01.000Z</updated>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ghost of Yotei Details Comparison - 『ゴーストオブヨウテイ』と前作『ゴーストオブツシマ』や『アサクリシャドウズ』『RDR2』との環境＆インタラクション＆ディテール作り込み比較動画！]]></title>
-        <id>https://3dnchu.com/?p=1058941</id>
-        <link href="https://3dnchu.com/archives/ghost-of-yotei-details-comparisons/"/>
-        <updated>2025-10-09T01:55:56.000Z</updated>
-        <summary type="html"><![CDATA[個人的に色々気になって見ていた比較動画の紹介メモです。2025年発売の『Ghost of Yotei』と2022年発売の前作『Ghost of Tsushima』、そして同じく2025年発売の『Assassin's Creed Shadows』、2018年発売『Red Dead Redemption 2』との環境＆インタラクション＆ディテール作り込み比較動画です。]]></summary>
-        <author>
-            <name>Ymt3D -3dnchu-</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[アニメ『キミとアイドルプリキュア♪』プリキュア5人がそろった後期EDを解説！ 〜No.4／背景＆コンポジット篇 - 特集]]></title>
-        <id>https://cgworld.jp/article/cgw326-kimito04.html</id>
-        <link href="https://cgworld.jp/article/cgw326-kimito04.html"/>
-        <updated>2025-10-09T01:00:56.000Z</updated>
-        <summary type="html"><![CDATA[アニメ『キミとアイドル プリキュア』のCGメイキングを紹介。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Av: Bisect – 直感操作で複数個所でもエッジを挿入、サブディビジョンモデルも作成しやすくなるBlender用アドオン]]></title>
-        <id>https://modelinghappy.com/?p=64912</id>
-        <link href="https://modelinghappy.com/archives/64912"/>
-        <updated>2025-10-09T00:43:55.000Z</updated>
-        <summary type="html"><![CDATA[Av: Bisect Av: BisectはBlenderのBisectをもっと使いやすく機能が改善されたアドオンで、選択した面に青いカットラインのプレビューが表示され、スライド移動して位置を決定すると、その位置でエッジ
-The post Av: Bisect – 直感操作で複数個所でもエッジを挿入、サブディビジョンモデルも作成しやすくなるBlender用アドオン first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
-        <author>
-            <name>modelinghappy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【開催直前】10/17（金）～10/19（日）札幌のゲーム開発企業が集結するイベント「Sapporo Game Camp 2025」開催！ ゲーム制作体験からeスポーツ大会まで充実の3日間 - ニュース]]></title>
-        <id>https://cgworld.jp/flashnews/02-2510-sgc-2025.html</id>
-        <link href="https://cgworld.jp/flashnews/02-2510-sgc-2025.html"/>
-        <updated>2025-10-09T00:40:41.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Blenderアドオン「AutoBlend」リリース！　コンポジターとCryptomatteを利用してオブジェクト同士を自然にブレンド - ニュース]]></title>
-        <id>https://cgworld.jp/flashnews/01-202510-AutoBlend.html</id>
-        <link href="https://cgworld.jp/flashnews/01-202510-AutoBlend.html"/>
-        <updated>2025-10-09T00:38:01.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
         </author>
     </entry>
 </feed>

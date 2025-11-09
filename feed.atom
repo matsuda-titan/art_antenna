@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-11-09T00:56:25.007Z</updated>
+    <updated>2025-11-09T03:38:36.645Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[VulkanをVSCodeで書く方法]]></title>
+        <id>https://zenn.dev/k4do/articles/42e8a88dab4e1a</id>
+        <link href="https://zenn.dev/k4do/articles/42e8a88dab4e1a"/>
+        <updated>2025-11-09T02:29:37.000Z</updated>
+        <summary type="html"><![CDATA[開発環境
+エディタ: Visual Studio Code
+OS: Windows 11
+
+ 操作方法
+Visual Studio CodeではCtrl + Shift + Bでビルドが可能。
+Visual Studio CodeではF5でデバックの開始が可能。
+
+ 手法
+1, フォルダやファイルの作成
+2, バッチファイルの記入
+3, jsonファイルの記入
+4, 完成
+
+ フォルダやファイルの作成
+フォルダやファイル構成を以下に示す。
+
+
+ バッチファイルの記入
+build.batファイルの記入
+callの部分は各自によって異なる。vcvars64.batファイルパスを指定する。...]]></summary>
+        <author>
+            <name>K4DO</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【アドオン紹介】Reproject Key – ローポリをハイポリに転写できるアドオン。]]></title>
+        <id>https://cgbox.jp/?p=64518</id>
+        <link href="https://cgbox.jp/2025/11/09/news-addon-reproject-key/"/>
+        <updated>2025-11-09T01:04:10.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは！ 今回はアドオンの「Reproject Key」を紹介します。 こちらのリンクがアドオンの商品ページになります。 Reproject Key 「Reproject Key」は、スカルプト専用の高効率プロジェク […]]]></summary>
+        <author>
+            <name>kasahara</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[arkhive 5周年記念 感謝祭が開催！おススメ限定PCや連動PCパーツセールを紹介！]]></title>
         <id>https://cginterest.com/?p=52712</id>
@@ -15,6 +55,29 @@
 arkhive 5周年記念 感謝祭が開催！おススメ限定PCや連動PCパーツセールを紹介！ first appeared on CGinterest.]]></summary>
         <author>
             <name>.me</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mayaで自作シェーダーを使う ～ GLSL編 ～]]></title>
+        <id>https://zenn.dev/tachikure/articles/d7e77385549637</id>
+        <link href="https://zenn.dev/tachikure/articles/d7e77385549637"/>
+        <updated>2025-11-08T14:40:51.000Z</updated>
+        <summary type="html"><![CDATA[MayaでGLSLシェーダーを表示するまでの手順。
+HLSL編 →　https://zenn.dev/tachikure/articles/499b212e9fe6c9
+OSL編  →　https://zenn.dev/tachikure/articles/807bb71b0feef0
+
+ シェーダーファイルの用意
+拡張子を.ogsfxにしたGLSLファイルを用意する。
+赤単色のシンプルなシェーダー ↓ ↓ ↓
+
+sample.ogsfx
+// 変数宣言
+uniform mat4 WVP_mat: WorldViewProjection;
+
+// アトリビュート
+attribute VS...]]></summary>
+        <author>
+            <name>たちくれ</name>
         </author>
     </entry>
     <entry>
@@ -3677,17 +3740,6 @@ Blender 自動リギングツール Auto-Rig Pro がアップデートでAIを�
         <summary type="html"><![CDATA[Deville Julien氏によるHunyuan 3Dで生成したモデルをベースにBlender＆Substance 3D Painter＆Mixamo＆Unreal Engineを使用しゲーム用キャラクターを制作する解説チュートリアルコース『Character Creation from AI to Unreal Engine』がCG＆デジタルアート関連チュートリアルサービス-Wingfoxにて取り扱い開始！]]></summary>
         <author>
             <name>Ymt3D -3dnchu-</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Blender 5.0 Beta版がリリース！正式リリースは11月11日予定！]]></title>
-        <id>https://modelinghappy.com/?p=64941</id>
-        <link href="https://modelinghappy.com/archives/64941"/>
-        <updated>2025-10-10T13:06:06.000Z</updated>
-        <summary type="html"><![CDATA[Blender 5.0 Beta 2025年10月8日に Blender 5.0Beta版 がリリースされ、正式リリースは11月11日 に予定されています。早速こちらのページからBlender5.0 Beta版をダウンロ
-The post Blender 5.0 Beta版がリリース！正式リリースは11月11日予定！ first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
-        <author>
-            <name>modelinghappy</name>
         </author>
     </entry>
 </feed>

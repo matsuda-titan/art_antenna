@@ -2,10 +2,78 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-11-08T12:18:47.916Z</updated>
+    <updated>2025-11-09T00:56:25.007Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[arkhive 5周年記念 感謝祭が開催！おススメ限定PCや連動PCパーツセールを紹介！]]></title>
+        <id>https://cginterest.com/?p=52712</id>
+        <link href="https://cginterest.com/2025/11/09/arkhive-5%e5%91%a8%e5%b9%b4%e8%a8%98%e5%bf%b5-%e6%84%9f%e8%ac%9d%e7%a5%ad%e3%81%8c%e9%96%8b%e5%82%ac%ef%bc%81%e3%81%8a%e3%82%b9%e3%82%b9%e3%83%a1%e9%99%90%e5%ae%9apc%e3%82%84%e9%80%a3%e5%8b%95pc/"/>
+        <updated>2025-11-09T00:26:00.000Z</updated>
+        <summary type="html"><![CDATA[arkhive（アークハイブ）の5周年を祝う、お得なキャンペーンや限定モデル、連動セールの紹介です。 セール概要 PCブランド「arkhive（アークハイブ）」は、2025年で発売開始から5周年を迎えました。これを記念し […]
+arkhive 5周年記念 感謝祭が開催！おススメ限定PCや連動PCパーツセールを紹介！ first appeared on CGinterest.]]></summary>
+        <author>
+            <name>.me</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mayaで自作シェーダーを使う ～ GLSL編 ～]]></title>
+        <id>https://zenn.dev/tachikure/articles/d7e77385549637</id>
+        <link href="https://zenn.dev/tachikure/articles/d7e77385549637"/>
+        <updated>2025-11-08T14:40:51.000Z</updated>
+        <summary type="html"><![CDATA[MayaでGLSLシェーダーを表示するまでの手順。
+HLSL編 →　https://zenn.dev/tachikure/articles/499b212e9fe6c9
+OSL編  →　https://zenn.dev/tachikure/articles/807bb71b0feef0
+
+ シェーダーファイルの用意
+拡張子を.ogsfxにしたGLSLファイルを用意する。
+赤単色のシンプルなシェーダー ↓ ↓ ↓
+
+sample.ogsfx
+// 変数宣言
+uniform mat4 WVP_mat: WorldViewProjection;
+
+// アトリビュート
+attribute VS...]]></summary>
+        <author>
+            <name>たちくれ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mayaで自作シェーダーを使う ～ GLSL編 ～]]></title>
+        <id>https://zenn.dev/tachikure/articles/d7e77385549637</id>
+        <link href="https://zenn.dev/tachikure/articles/d7e77385549637"/>
+        <updated>2025-11-08T14:40:51.000Z</updated>
+        <summary type="html"><![CDATA[MayaでGLSLシェーダーを表示するまでの手順。
+HLSL編 →　https://zenn.dev/tachikure/articles/499b212e9fe6c9
+OSL編  →　https://zenn.dev/tachikure/articles/807bb71b0feef0
+
+ シェーダーファイルの用意
+拡張子を.ogsfxにしたGLSLファイルを用意する。
+赤単色のシンプルなシェーダー ↓ ↓ ↓
+
+sample.ogsfx
+// 変数宣言
+uniform mat4 WVP_mat: WorldViewProjection;
+
+// アトリビュート
+attribute VS...]]></summary>
+        <author>
+            <name>たちくれ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Smart Flow v13.0 – Maya似の原点移動・左右対称モデルでポリグループを自動生成・コレクション毎の複数オブジェクト一括整理などモデリングを快適にする8つの多機能アドオン]]></title>
+        <id>https://modelinghappy.com/?p=65306</id>
+        <link href="https://modelinghappy.com/archives/65306"/>
+        <updated>2025-11-08T12:57:26.000Z</updated>
+        <summary type="html"><![CDATA[Smart Flow Blenderのモデリング時に多機能便利アドオン、Smart Flow v13.0がリリースされました。 Smart Flowには、作業効率を大幅に高める多彩な機能が搭載されています。Mayaのよう
+The post Smart Flow v13.0 – Maya似の原点移動・左右対称モデルでポリグループを自動生成・コレクション毎の複数オブジェクト一括整理などモデリングを快適にする8つの多機能アドオン first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
+        <author>
+            <name>modelinghappy</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【無料】近未来都市を作れる150種類以上の3Dアセット＆テクスチャが2週間限定配布中！]]></title>
         <id>https://modelinghappy.com/?p=65324</id>
@@ -3618,79 +3686,6 @@ Blender 自動リギングツール Auto-Rig Pro がアップデートでAIを�
         <updated>2025-10-10T13:06:06.000Z</updated>
         <summary type="html"><![CDATA[Blender 5.0 Beta 2025年10月8日に Blender 5.0Beta版 がリリースされ、正式リリースは11月11日 に予定されています。早速こちらのページからBlender5.0 Beta版をダウンロ
 The post Blender 5.0 Beta版がリリース！正式リリースは11月11日予定！ first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
-        <author>
-            <name>modelinghappy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CGDive Auto Rig – Blenderでキャラクターを自動リギングできる無料の新しいアドオンが登場！]]></title>
-        <id>https://modelinghappy.com/?p=64931</id>
-        <link href="https://modelinghappy.com/archives/64931"/>
-        <updated>2025-10-10T11:32:10.000Z</updated>
-        <summary type="html"><![CDATA[CGDive Auto Rig (Alpha 1.0) CGDive Auto RigはBlenderでキャラクターに自動リギング出来るアドオンです。 アドオンからは自動でリギング用のベースボーンが作成されるので、キャラ
-The post CGDive Auto Rig – Blenderでキャラクターを自動リギングできる無料の新しいアドオンが登場！ first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
-        <author>
-            <name>modelinghappy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[V-Ray 7 update 2 for SketchUp, Rhino, Revit がリリース！AIアップスケーラー、夜空シミュレーション、3Dストリーミングなど]]></title>
-        <id>https://cginterest.com/?p=51608</id>
-        <link href="https://cginterest.com/2025/10/10/v-ray-7-update-2-for-sketchup-rhino-revit-%e3%81%8c%e3%83%aa%e3%83%aa%e3%83%bc%e3%82%b9%ef%bc%81ai%e3%82%a2%e3%83%83%e3%83%97%e3%82%b9%e3%82%b1%e3%83%bc%e3%83%a9%e3%83%bc%e3%80%81%e5%a4%9c%e7%a9%ba/"/>
-        <updated>2025-10-10T08:06:10.000Z</updated>
-        <summary type="html"><![CDATA[2025年10月8日（現地時間）- Chaos は、同社のレンダリングソフトウェアの最新アップデート V-Ray 7 update 2 for SketchUp, Rhino, Revit のリリースを発表しました。 新 […]
-V-Ray 7 update 2 for SketchUp, Rhino, Revit がリリース！AIアップスケーラー、夜空シミュレーション、3Dストリーミングなど first appeared on CGinterest.]]></summary>
-        <author>
-            <name>.me</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【アドオン紹介】Style Thief – 2つの画像をブレンドして新しい画像を生成！]]></title>
-        <id>https://cgbox.jp/?p=64354</id>
-        <link href="https://cgbox.jp/2025/10/10/news-addon-style-thief/"/>
-        <updated>2025-10-10T07:16:08.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは！ 今回はアドオンの「Style Thief」を紹介します。 こちらのリンクがアドオンの商品ページになります。 Style Thief 「Style Thief」は、任意の画像（または画像バッチ）をターゲット画 […]]]></summary>
-        <author>
-            <name>kasahara</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Deemos、革新的な直感的3D生成のための生成AI「Rodin Gen-2」を発表 - ニュース]]></title>
-        <id>https://cgworld.jp/flashnews/02-2510-rodin-gen-2.html</id>
-        <link href="https://cgworld.jp/flashnews/02-2510-rodin-gen-2.html"/>
-        <updated>2025-10-10T05:54:33.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ワコム主催「Tokyo Anim Unite 2025」11/8（土）11/9（日）開催決定－『スパイダーバース』アニメーターら世界的クリエイターが登壇 - ニュース]]></title>
-        <id>https://cgworld.jp/flashnews/02-2510-tokyo-anim-unite.html</id>
-        <link href="https://cgworld.jp/flashnews/02-2510-tokyo-anim-unite.html"/>
-        <updated>2025-10-10T04:22:15.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[27卒学生向け就活イベント「クリ博　ポートフォリオオンライン選考会 12月」が開催決定！　2D / 3D / UI デザイナー志望者向け　※12/1（月）まで - ニュース]]></title>
-        <id>https://cgworld.jp/flashnews/2510-27pfo12.html</id>
-        <link href="https://cgworld.jp/flashnews/2510-27pfo12.html"/>
-        <updated>2025-10-10T03:50:00.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Smart Extrude – 押し出すだけでジオメトリが交差しても自動で切り分け、接合してくれるBlender用無料アドオン]]></title>
-        <id>https://modelinghappy.com/?p=64924</id>
-        <link href="https://modelinghappy.com/archives/64924"/>
-        <updated>2025-10-10T00:27:19.000Z</updated>
-        <summary type="html"><![CDATA[Smart Extrude Smart ExtrudeはBlenderで、3dsMaxのSmart Extrude（スマート押し出し機能に似た動作を実現してくれるアドオンです。 このアドオンを使うと、押し出した形状が他の
-The post Smart Extrude – 押し出すだけでジオメトリが交差しても自動で切り分け、接合してくれるBlender用無料アドオン first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
         <author>
             <name>modelinghappy</name>
         </author>

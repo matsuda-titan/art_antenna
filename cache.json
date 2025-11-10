@@ -1616,6 +1616,16 @@
       "siteUrl": "https://modelinghappy.com",
       "articles": [
         {
+          "id": "https://modelinghappy.com/?p=65346",
+          "author": "modelinghappy",
+          "description": "Orbiter OrbiterはBlenderでオブジェクトを選択し、再生ボタンを押すと、その周りを周回してくれるアドオンです。 周回中はすべての機能がアクティブなままなので、スカルプトしたりモデルを調整することも可能。\nThe post Orbiter – オブジェクトの周りを自動で周回！スカルプトや調整も可能な無料Blenderアドオン first appeared on 3DCG最新情報サイト MODELING HAPPY.",
+          "link": "https://modelinghappy.com/archives/65346",
+          "publishedOn": "2025-11-10T11:45:31.000Z",
+          "wordCount": 3685,
+          "title": "Orbiter – オブジェクトの周りを自動で周回！スカルプトや調整も可能な無料Blenderアドオン",
+          "imageUrl": "https://modelinghappy.com/wp-content/uploads/2025/11/20251110_orbiter_01.jpg"
+        },
+        {
           "id": "https://modelinghappy.com/?p=65340",
           "author": "modelinghappy",
           "description": "True-VFX 2025年11月14日までSUPERE HIVE(旧Blender market)で、UvPackmaster3、Lens Sim、Flip Fluids、Voxel Heat Diffuse Skin\nThe post UvPackmaster3やFlip Fluidsなど7種類のBlenderアドオンが半額になるお得なバンドルパックが登場！ first appeared on 3DCG最新情報サイト MODELING HAPPY.",
@@ -2417,6 +2427,21 @@
       "siteUrl": "https://zenn.dev/topics/graphics",
       "articles": [
         {
+          "id": "https://zenn.dev/k4do/articles/a17120875c0f17",
+          "author": "K4DO",
+          "description": "開発環境\nエディタ: Visual Studio Code\nOS: Windows11\n\n スワップチェインの解像度を設定するための処理\n全体のコード。\n    VkSurfaceCapabilitiesKHR caps;\n    vkGetPhysicalDeviceSurfaceCapabilitiesKHR(vkPhysicalDevice, vkSurface, &caps);\n    VkExtent2D extent = caps.currentExtent;\n    if (extent.width == UINT32_MAX)\n    {\n        ex...",
+          "link": "https://zenn.dev/k4do/articles/a17120875c0f17",
+          "publishedOn": "2025-11-10T12:16:46.000Z",
+          "wordCount": 2479,
+          "title": "【Vulkan】 SwapChainの作成",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--T7rOEVlv--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2580%2590Vulkan%25E3%2580%2591%2520SwapChain%25E3%2581%25AE%25E4%25BD%259C%25E6%2588%2590%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:K4DO%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2M4ZmY3ZDI0MzAuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
+            "length": "0",
+            "type": "false"
+          },
+          "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--T7rOEVlv--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2580%2590Vulkan%25E3%2580%2591%2520SwapChain%25E3%2581%25AE%25E4%25BD%259C%25E6%2588%2590%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:K4DO%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2M4ZmY3ZDI0MzAuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"
+        },
+        {
           "id": "https://zenn.dev/k4do/articles/5f6b1123e91d44",
           "author": "K4DO",
           "description": "開発環境\nエディタ: Visual Studio Code\nOS: Windows11\n\n インスタンス作成時に拡張機能とレイヤー機能を追加\nvalidation layerを有効にするには、インスタンス作成時に、拡張機能とレイヤー機能を追加する必要があります。\n拡張機能-> VK_EXT_DEBUG_UTILS_EXTENSION_NAME\nレイヤー機能-> \"VK_LAYER_KHRONOS_validation\"\n    const char *extensions[] = {VK_KHR_SURFACE_EXTENSION_NAME, \"VK_KHR_win32_...",
@@ -3080,6 +3105,16 @@
       "feedUrl": "https://note.com/hashtag/Houdini/rss",
       "siteUrl": "https://note.com/hashtag/Houdini",
       "articles": [
+        {
+          "id": "https://note.com/cos_kaz701/n/n9b11eb72ed44",
+          "author": null,
+          "description": "新しい表現を模索する過程でエフェクトデザインを模索中。\n結果を出力していきます。\n  \n続きをみる",
+          "link": "https://note.com/cos_kaz701/n/n9b11eb72ed44",
+          "publishedOn": "2025-11-10T09:33:43.000Z",
+          "wordCount": 2462,
+          "title": "Effect Test Drive List #cos_kaz",
+          "imageUrl": "https://assets.st-note.com/production/uploads/images/228406091/rectangle_large_type_2_bbc1498e614ab4d33d9a2aed2a3d87a8.png?width=800"
+        },
         {
           "id": "https://note.com/thesaurus/n/n1df408a93f5b",
           "author": null,

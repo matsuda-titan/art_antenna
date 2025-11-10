@@ -2,10 +2,55 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-11-10T08:16:53.384Z</updated>
+    <updated>2025-11-10T12:22:08.951Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【Vulkan】 SwapChainの作成]]></title>
+        <id>https://zenn.dev/k4do/articles/a17120875c0f17</id>
+        <link href="https://zenn.dev/k4do/articles/a17120875c0f17"/>
+        <updated>2025-11-10T12:16:46.000Z</updated>
+        <summary type="html"><![CDATA[開発環境
+エディタ: Visual Studio Code
+OS: Windows11
+
+ スワップチェインの解像度を設定するための処理
+全体のコード。
+    VkSurfaceCapabilitiesKHR caps;
+    vkGetPhysicalDeviceSurfaceCapabilitiesKHR(vkPhysicalDevice, vkSurface, &caps);
+    VkExtent2D extent = caps.currentExtent;
+    if (extent.width == UINT32_MAX)
+    {
+        ex...]]></summary>
+        <author>
+            <name>K4DO</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Orbiter – オブジェクトの周りを自動で周回！スカルプトや調整も可能な無料Blenderアドオン]]></title>
+        <id>https://modelinghappy.com/?p=65346</id>
+        <link href="https://modelinghappy.com/archives/65346"/>
+        <updated>2025-11-10T11:45:31.000Z</updated>
+        <summary type="html"><![CDATA[Orbiter OrbiterはBlenderでオブジェクトを選択し、再生ボタンを押すと、その周りを周回してくれるアドオンです。 周回中はすべての機能がアクティブなままなので、スカルプトしたりモデルを調整することも可能。
+The post Orbiter – オブジェクトの周りを自動で周回！スカルプトや調整も可能な無料Blenderアドオン first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
+        <author>
+            <name>modelinghappy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Effect Test Drive List #cos_kaz]]></title>
+        <id>https://note.com/cos_kaz701/n/n9b11eb72ed44</id>
+        <link href="https://note.com/cos_kaz701/n/n9b11eb72ed44"/>
+        <updated>2025-11-10T09:33:43.000Z</updated>
+        <summary type="html"><![CDATA[新しい表現を模索する過程でエフェクトデザインを模索中。
+結果を出力していきます。
+  
+続きをみる]]></summary>
+        <author>
+            <name>#Houdiniタグ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[#13：最新・最強の「GPT-5」の機能を丸ごと学べる『OpenAI GPT-5／ChatGPT 人工知能プログラミング実践入門』 - 連載]]></title>
         <id>https://cgworld.jp/regular/202511-cgw328-book.html</id>

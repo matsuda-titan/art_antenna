@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-11-10T00:56:28.381Z</updated>
+    <updated>2025-11-10T03:44:55.301Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【UE5】FMeshDescriptionを使ってShadowのドローコール削減]]></title>
+        <id>https://tech.spark-creative.co.jp/entry/2025/11/10/111137</id>
+        <link href="https://tech.spark-creative.co.jp/entry/2025/11/10/111137"/>
+        <updated>2025-11-10T02:11:37.000Z</updated>
+        <summary type="html"><![CDATA[初めに 前提 なぜShadowを最適化するのか 本題 余談 FMeshDescriptionとは 実装 解説 Descriptionの生成 メッシュとマテリアルの生成 コンポーネントの設定 デバック 見た目 負荷 終わり 初めに こんにちは、クライアントエンジニアの下野です。 今回はFMeshDescriptionを使ってShadowのマテリアルを統合してドローコールを減らす遊びをします。 これをうまくやれば最適化になる気もしますが、一旦は触って遊んでみた所感とかがメインです。 前提 エンジンのバージョンは5.6です。バージョンによってはコードが変わったりするので完全にコードを一致させても動か…]]></summary>
+        <author>
+            <name>SPARKCREATIVE Tech Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【アドオン紹介】Curve Hair – ヘアカーブの幅を細かく調整できるアドオン]]></title>
+        <id>https://cgbox.jp/?p=64524</id>
+        <link href="https://cgbox.jp/2025/11/10/news-addon-curve-hair/"/>
+        <updated>2025-11-10T01:36:46.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは！ 今回はアドオンの「Curve Hair」を紹介します。 こちらのリンクがアドオンの商品ページになります。 Curve Hair 「Curve Hair」は、アニメ調・Vtuber制作時に役に立つカーブの断面 […]]]></summary>
+        <author>
+            <name>kasahara</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[オープンソースの動画生成AIエンジン「LTX-2」リリース！　ネイティブ4K対応、50fps・20秒の音声付きシーンを生成 - ニュース]]></title>
         <id>https://cgworld.jp/flashnews/01-202511-LTX-2.html</id>

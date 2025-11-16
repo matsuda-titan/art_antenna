@@ -12,6 +12,21 @@
       "siteUrl": "https://cgbox.jp",
       "articles": [
         {
+          "id": "https://cgbox.jp/?p=64558",
+          "author": "kasahara",
+          "description": "こんばんは！ 今回はアセットの「Sanctus Viz」を紹介します。 こちらのリンクがアセットの商品ページになります。 Sanctus Viz 「Sanctus Viz」は、建築系のアセットがプロジーシャルでカスタムで […]",
+          "link": "https://cgbox.jp/2025/11/16/news-addon-sanctus-viz/",
+          "publishedOn": "2025-11-16T01:23:55.000Z",
+          "wordCount": 2195,
+          "title": "【アセット紹介】Sanctus Viz – 500種類以上のプロジーシャルマテリアルのセット！",
+          "enclosure": {
+            "url": "https://cgbox.jp/wp-content/uploads/2025/11/auto_uvs-1.mp4",
+            "length": "0",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://cgbox.jp/wp-content/uploads/2025/11/image_processing20251115-2-pi8fvc.jpg"
+        },
+        {
           "id": "https://cgbox.jp/?p=64550",
           "author": "kasahara",
           "description": "こんばんは！ 今回はアドオンの「Fpv Control」を紹介します。 こちらのリンクがアドオンの商品ページになります。 Fpv Control 「Fpv Control」は、Blender内でリアルなFPVドローン飛行 […]",
@@ -2599,21 +2614,6 @@
             "type": "false"
           },
           "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--nhyNmXP3--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:OpenUSD%2520usdcat%2520%25E3%2581%25A8%25E3%2581%258B%25E3%2581%258C%25E5%258B%2595%25E3%2581%258B%25E3%2582%2593%25E3%2581%25A8%25E3%2581%258D%25E3%2581%25AE%25E5%25AF%25BE%25E7%25AD%2596%25E3%2583%25A1%25E3%2583%25A2%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:syoyo%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2FiZTYxMTY5ZTYuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"
-        },
-        {
-          "id": "https://zenn.dev/akasan/articles/0b0a014a5eb790",
-          "author": "Akasan",
-          "description": "今回はふと気になったので、OpenUSDで二つのCubeを生成してその重なっているところを削除したような図形を作る方法を調べてみました。\n※ ChatGPTに作り方を聞きました。いつもお世話になっております。\n\n 今回やってみたかったこと\nもう少し厳密に今回やってみたかったことを文字起こしすると以下のようになります。\n\n二つのCubeをA、Bとする\nAとBには重なる部分があるとする\nAからAとBが重なっている場所を削除する\n\n\n 早速ChatGPTに聞いてみた\n質問内容としては以下のように問い合わせました。\n\npxr.UsdGeom.Cubeで作成したキューブAとBがあるとします。例えば...",
-          "link": "https://zenn.dev/akasan/articles/0b0a014a5eb790",
-          "publishedOn": "2025-10-17T13:58:23.000Z",
-          "wordCount": 3304,
-          "title": "二つのCubeの重なり部分を削除したUSD primの生成方法",
-          "enclosure": {
-            "url": "https://res.cloudinary.com/zenn/image/upload/s--i23QP5PC--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E4%25BA%258C%25E3%2581%25A4%25E3%2581%25AECube%25E3%2581%25AE%25E9%2587%258D%25E3%2581%25AA%25E3%2582%258A%25E9%2583%25A8%25E5%2588%2586%25E3%2582%2592%25E5%2589%258A%25E9%2599%25A4%25E3%2581%2597%25E3%2581%259FUSD%2520prim%25E3%2581%25AE%25E7%2594%259F%25E6%2588%2590%25E6%2596%25B9%25E6%25B3%2595%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Akasan%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUVkRlRwNXJfNDFtel9OY3dPYUtMRE1vc09tbVB6YmxHM0V5N3lNZzI3QWM9czk2LWM=%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
-            "length": "0",
-            "type": "false"
-          },
-          "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--i23QP5PC--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E4%25BA%258C%25E3%2581%25A4%25E3%2581%25AECube%25E3%2581%25AE%25E9%2587%258D%25E3%2581%25AA%25E3%2582%258A%25E9%2583%25A8%25E5%2588%2586%25E3%2582%2592%25E5%2589%258A%25E9%2599%25A4%25E3%2581%2597%25E3%2581%259FUSD%2520prim%25E3%2581%25AE%25E7%2594%259F%25E6%2588%2590%25E6%2596%25B9%25E6%25B3%2595%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Akasan%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUVkRlRwNXJfNDFtel9OY3dPYUtMRE1vc09tbVB6YmxHM0V5N3lNZzI3QWM9czk2LWM=%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"
         }
       ]
     },
@@ -3233,6 +3233,16 @@
       "feedUrl": "https://cginterest.com/feed/",
       "siteUrl": "https://cginterest.com",
       "articles": [
+        {
+          "id": "https://cginterest.com/?p=52921",
+          "author": ".me",
+          "description": "Unreal Engine 5.7 に合わせて無料で公開された、高品質なプロシージャル植物アセット「Quixel Megaplants」紹介です。 Quixel Megaplantsとは？ Megaplantsは、Unr […]\nUE 5.7 新機能プロシージャル植生エディタと連携して機能する高品質な無料プロシージャル植物アセット「Quixel Megaplants」 first appeared on CGinterest.",
+          "link": "https://cginterest.com/2025/11/16/ue-5-7-%e6%96%b0%e6%a9%9f%e8%83%bd%e3%83%97%e3%83%ad%e3%82%b7%e3%83%bc%e3%82%b8%e3%83%a3%e3%83%ab%e6%a4%8d%e7%94%9f%e3%82%a8%e3%83%87%e3%82%a3%e3%82%bf%e3%81%a8%e9%80%a3%e6%90%ba%e3%81%97%e3%81%a6/",
+          "publishedOn": "2025-11-16T01:17:00.000Z",
+          "wordCount": 36837,
+          "title": "UE 5.7 新機能プロシージャル植生エディタと連携して機能する高品質な無料プロシージャル植物アセット「Quixel Megaplants」",
+          "imageUrl": "https://cginterest.com/wp-content/uploads/2025/11/20251115_QuixelMEGAPlants.webp"
+        },
         {
           "id": "https://cginterest.com/?p=52935",
           "author": ".me",

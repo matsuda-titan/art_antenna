@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-11-16T00:57:57.040Z</updated>
+    <updated>2025-11-16T03:43:38.603Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【アセット紹介】Sanctus Viz – 500種類以上のプロジーシャルマテリアルのセット！]]></title>
+        <id>https://cgbox.jp/?p=64558</id>
+        <link href="https://cgbox.jp/2025/11/16/news-addon-sanctus-viz/"/>
+        <updated>2025-11-16T01:23:55.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは！ 今回はアセットの「Sanctus Viz」を紹介します。 こちらのリンクがアセットの商品ページになります。 Sanctus Viz 「Sanctus Viz」は、建築系のアセットがプロジーシャルでカスタムで […]]]></summary>
+        <author>
+            <name>kasahara</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[UE 5.7 新機能プロシージャル植生エディタと連携して機能する高品質な無料プロシージャル植物アセット「Quixel Megaplants」]]></title>
+        <id>https://cginterest.com/?p=52921</id>
+        <link href="https://cginterest.com/2025/11/16/ue-5-7-%e6%96%b0%e6%a9%9f%e8%83%bd%e3%83%97%e3%83%ad%e3%82%b7%e3%83%bc%e3%82%b8%e3%83%a3%e3%83%ab%e6%a4%8d%e7%94%9f%e3%82%a8%e3%83%87%e3%82%a3%e3%82%bf%e3%81%a8%e9%80%a3%e6%90%ba%e3%81%97%e3%81%a6/"/>
+        <updated>2025-11-16T01:17:00.000Z</updated>
+        <summary type="html"><![CDATA[Unreal Engine 5.7 に合わせて無料で公開された、高品質なプロシージャル植物アセット「Quixel Megaplants」紹介です。 Quixel Megaplantsとは？ Megaplantsは、Unr […]
+UE 5.7 新機能プロシージャル植生エディタと連携して機能する高品質な無料プロシージャル植物アセット「Quixel Megaplants」 first appeared on CGinterest.]]></summary>
+        <author>
+            <name>.me</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[After Effects 2025年11月アップデートがリリース！新しいベータ版にパラメトリックメッシュ、Substance 3D マテリアルサポートなどが追加！]]></title>
         <id>https://cginterest.com/?p=52935</id>
@@ -3672,30 +3693,6 @@ The post Tq Substancelink – BlenderとSubstance 3D Painterをワンクリッ�
 人体や動物の骨格・筋肉構造を比較表示できるアーティストのための比較解剖学ソフトウェア「ANASTOMIA 」 first appeared on CGinterest.]]></summary>
         <author>
             <name>.me</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[二つのCubeの重なり部分を削除したUSD primの生成方法]]></title>
-        <id>https://zenn.dev/akasan/articles/0b0a014a5eb790</id>
-        <link href="https://zenn.dev/akasan/articles/0b0a014a5eb790"/>
-        <updated>2025-10-17T13:58:23.000Z</updated>
-        <summary type="html"><![CDATA[今回はふと気になったので、OpenUSDで二つのCubeを生成してその重なっているところを削除したような図形を作る方法を調べてみました。
-※ ChatGPTに作り方を聞きました。いつもお世話になっております。
-
- 今回やってみたかったこと
-もう少し厳密に今回やってみたかったことを文字起こしすると以下のようになります。
-
-二つのCubeをA、Bとする
-AとBには重なる部分があるとする
-AからAとBが重なっている場所を削除する
-
-
- 早速ChatGPTに聞いてみた
-質問内容としては以下のように問い合わせました。
-
-pxr.UsdGeom.Cubeで作成したキューブAとBがあるとします。例えば...]]></summary>
-        <author>
-            <name>Akasan</name>
         </author>
     </entry>
 </feed>

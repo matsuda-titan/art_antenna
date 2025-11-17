@@ -773,6 +773,16 @@
       "siteUrl": "https://cgworld.jp/",
       "articles": [
         {
+          "id": "https://cgworld.jp/special-feature/2511-touhoku.html",
+          "author": null,
+          "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
+          "link": "https://cgworld.jp/special-feature/2511-touhoku.html",
+          "publishedOn": "2025-11-17T07:00:00.000Z",
+          "wordCount": 641,
+          "title": "東北芸術工科大学が3DCG・デジタルアートを教える4コースで人材を積極募集中。教員が語る、東北の土地で培う芸術教育の魅力とは？ - スペシャルコンテンツ",
+          "imageUrl": "https://cgworld.jp/special-feature/assets_c/2025/11/yamagata_main-thumb-1000x563-76173.jpg"
+        },
+        {
           "id": "https://cgworld.jp/article/202510-applibot.html",
           "author": null,
           "description": "進化したアプリボットリグのメイキングを開発者が紹介。",
@@ -1903,6 +1913,26 @@
       "siteUrl": "https://3dtotal.jp",
       "articles": [
         {
+          "id": "https://3dtotal.jp/?p=53730",
+          "author": "3dtotal管理人T",
+          "description": "★MPC - Colours of Time / La Venue de l'Avenir（2分35秒） 『La Venue de l'avenir』(2025年) 監督 セドリック・クラピッシュ 本作は MPCパリのチ […]\nThe post セドリック・クラピッシュ監督作、フランス映画『La Venue de l'Avenir』の VFXブレイクダウン映像 first appeared on 3dtotal 日本語オフィシャルサイト.",
+          "link": "https://3dtotal.jp/news/53730/",
+          "publishedOn": "2025-11-17T08:05:42.000Z",
+          "wordCount": 561,
+          "title": "セドリック・クラピッシュ監督作、フランス映画『La Venue de l’Avenir』の VFXブレイクダウン映像",
+          "imageUrl": "https://3dtotal.jp/wp-content/uploads/2025/11/coloroftime_mpc.jpg"
+        },
+        {
+          "id": "https://3dtotal.jp/?p=53720",
+          "author": "3dtotal管理人T",
+          "description": "★【新機能紹介】Marvelous Designer 2025.2 主要新機能紹介（6分14秒） より多くの選択肢、さらなる創作を。リアリズム、効率性、そして創造性を高める5つの新機能を搭載。Marvelous Desi […]\nThe post 衣装デザインツール Marvelous Designer 2025.2 の新機能紹介映像（日本語） first appeared on 3dtotal 日本語オフィシャルサイト.",
+          "link": "https://3dtotal.jp/news/53720/",
+          "publishedOn": "2025-11-17T07:11:41.000Z",
+          "wordCount": 545,
+          "title": "衣装デザインツール Marvelous Designer 2025.2 の新機能紹介映像（日本語）",
+          "imageUrl": "https://3dtotal.jp/wp-content/uploads/2025/11/mdesigner5_2_nf.jpg"
+        },
+        {
           "id": "https://3dtotal.jp/?p=53712",
           "author": "3dtotal管理人T",
           "description": "★The Art and Design Behind The Lord of the Rings: The War of the Rohirrim（7分26秒） Weta Workshop のクリエイティブ コンサルタン […]\nThe post Weta Workshop より、アニメ映画『ロード・オブ・ザ・リング：ローハンの戦い』のメイキング映像 first appeared on 3dtotal 日本語オフィシャルサイト.",
@@ -2539,6 +2569,21 @@
       "siteUrl": "https://zenn.dev/topics/maya",
       "articles": [
         {
+          "id": "https://zenn.dev/tachikure/articles/e229c5d954e6f7",
+          "author": "たちくれ",
+          "description": "変換行列の取得\nノードエディタ等で[transform]ノードを表示する。\n〇〇 Matrixという名前のアトリビュートからそれぞれの変換行列を取得できる。\nただし、配列になっているもの(画像青枠)もあるので、行列アトリビュート横の＋ボタンを押して展開する。\n\n\n 行列の作成\n\n SRTから作成\n[composeMatrix]を作成し、TranslateやRotateを入力につなぐ。\nまたは、Attribute Editorで直接Input Propertiesを入力する。\nOutput Matrixが作成された行列を出力する。\n\n!\nTransformノードでShearを表示したい...",
+          "link": "https://zenn.dev/tachikure/articles/e229c5d954e6f7",
+          "publishedOn": "2025-11-17T00:06:01.000Z",
+          "wordCount": 354,
+          "title": "[Maya] 行列(Matrix)の取得/作成と要素の取得",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--LuUA8wtf--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%255BMaya%255D%2520%25E8%25A1%258C%25E5%2588%2597%2528Matrix%2529%25E3%2581%25AE%25E5%258F%2596%25E5%25BE%2597%252F%25E4%25BD%259C%25E6%2588%2590%25E3%2581%25A8%25E8%25A6%2581%25E7%25B4%25A0%25E3%2581%25AE%25E5%258F%2596%25E5%25BE%2597%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%259F%25E3%2581%25A1%25E3%2581%258F%25E3%2582%258C%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzQwZjczMjE1OTcuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
+            "length": "0",
+            "type": "false"
+          },
+          "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--LuUA8wtf--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%255BMaya%255D%2520%25E8%25A1%258C%25E5%2588%2597%2528Matrix%2529%25E3%2581%25AE%25E5%258F%2596%25E5%25BE%2597%252F%25E4%25BD%259C%25E6%2588%2590%25E3%2581%25A8%25E8%25A6%2581%25E7%25B4%25A0%25E3%2581%25AE%25E5%258F%2596%25E5%25BE%2597%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%259F%25E3%2581%25A1%25E3%2581%258F%25E3%2582%258C%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzQwZjczMjE1OTcuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"
+        },
+        {
           "id": "https://zenn.dev/tachikure/articles/d7e77385549637",
           "author": "たちくれ",
           "description": "MayaでGLSLシェーダーを表示するまでの手順。\nHLSL編 →　https://zenn.dev/tachikure/articles/499b212e9fe6c9\nOSL編  →　https://zenn.dev/tachikure/articles/807bb71b0feef0\n\n シェーダーファイルの用意\n拡張子を.ogsfxにしたGLSLファイルを用意する。\n赤単色のシンプルなシェーダー ↓ ↓ ↓\n\nsample.ogsfx\n// 変数宣言\nuniform mat4 WVP_mat: WorldViewProjection;\n\n// アトリビュート\nattribute VS...",
@@ -2892,6 +2937,16 @@
       "siteUrl": "https://area.autodesk.jp/",
       "articles": [
         {
+          "id": "https://area.autodesk.jp/column/tutorial/3ds-max-plugin/10-tyflow-forestpack-02/",
+          "author": null,
+          "description": "今回は前回の告知通り、tyFlowとForest Packを活用して、シーンを作成していく手順の後編を紹介させて頂ければと思います！tyFlowの地形作成オペレーターに関しては前回の前編にて細かくお伝えさせて頂きましたので、引き続きForest Pack PROを用いて、樹木などを配置していきます。・・・",
+          "link": "https://area.autodesk.jp/column/tutorial/3ds-max-plugin/10-tyflow-forestpack-02/",
+          "publishedOn": "2025-11-17T05:30:00.000Z",
+          "wordCount": 578,
+          "title": "3ds Max：プラグイン活用で表現の幅を拡げよう！ 第10回：tyFlowで地形を作成してForest Packを絡めてみよう！後編",
+          "imageUrl": "https://area.autodesk.jp/column/assets_c/2025/11/ic_3ds_max_plugin_vol10_1400x782-thumb-1200xauto-5763.jpg"
+        },
+        {
           "id": "https://area.autodesk.jp/case/movie_tv/boxel-studio/",
           "author": null,
           "description": "Boxel Studio 社は、テクノロジーと芸術性の融合点で活躍し、ビジュアル エフェクトとアニメーションの可能性の限界を常に押し広げています。過去 2 年間で映画およびテレビ業界が大きく進化する中、同社は、機械学習（ML）が制作プロセスの効率化に果たす変革的な役割を認識しました。この変化により、Boxel Studio 社は制作能力を強化するために、新しいツールやテクノロジーへの研究開発投資を行うようになりました。これらのイノベーションの中には、創設当初からその可能性が明らかだった先駆的企業、Wonder Dynamics 社も含まれていました。彼らのソリューションによって Boxel Studio 社のワークフローは拡張され、制作プロセスの効率化がこれまでになくスムーズに実現しました。・・・",
@@ -2995,6 +3050,16 @@
       "feedUrl": "https://note.com/hashtag/Houdini/rss",
       "siteUrl": "https://note.com/hashtag/Houdini",
       "articles": [
+        {
+          "id": "https://note.com/ojin_2002/n/n84c265123259",
+          "author": null,
+          "description": "初めまして！Akiraといいます！！\n3Dモデリング駆け出しの赤ちゃんでございます\nTAを目指して日々精進しております\nマイペースに発見したことを発信していきたいと思います\n\n\n続きをみる",
+          "link": "https://note.com/ojin_2002/n/n84c265123259",
+          "publishedOn": "2025-11-17T06:21:01.000Z",
+          "wordCount": 2341,
+          "title": "Houdiniとお友達になりたい人です！",
+          "imageUrl": "https://assets.st-note.com/production/uploads/images/230033546/rectangle_large_type_2_d47a2a6b0a0227af43512517f8dac40d.png?width=800"
+        },
         {
           "id": "https://note.com/cute_hound3582/n/n2ff05afb7a3f",
           "author": null,

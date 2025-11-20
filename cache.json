@@ -12,6 +12,21 @@
       "siteUrl": "https://cgbox.jp",
       "articles": [
         {
+          "id": "https://cgbox.jp/?p=64616",
+          "author": "kasahara",
+          "description": "こんばんは！ 今回はアドオンの「Loft Curves」を紹介します。 こちらのリンクがアドオンの商品ページになります。 Loft Curves 「Loft Curves」は、複数のプロファイルカーブを使って、滑らかなサ […]",
+          "link": "https://cgbox.jp/2025/11/20/news-addon-loft-curves/",
+          "publishedOn": "2025-11-19T23:24:34.000Z",
+          "wordCount": 2112,
+          "title": "【アドオン紹介】Loft Curves – ガイドに沿ってサーフェスを作成！",
+          "enclosure": {
+            "url": "https://cgbox.jp/wp-content/uploads/2025/11/IMG_2394_28.mp4",
+            "length": "0",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://cgbox.jp/wp-content/uploads/2022/05/cropped-favicon.png"
+        },
+        {
           "id": "https://cgbox.jp/?p=64586",
           "author": "kasahara",
           "description": "こんばんは！ 今回はアドオンの「True Sky 3」を紹介します。 こちらのリンクがアドオンの商品ページになります。 True Sky 3 「True Sky 3」は、地球スケールの大気を物理ベースで再現し、地上から宇 […]",
@@ -275,16 +290,6 @@
             "type": "video/mp4"
           },
           "imageUrl": "https://cgbox.jp/wp-content/uploads/2025/10/image_processing20251016-2-68zp6.jpg"
-        },
-        {
-          "id": "https://cgbox.jp/?p=64435",
-          "author": "kasahara",
-          "description": "こんばんは！ 今回はアドオンの「Quad Filler」を紹介します。 こちらのリンクがアドオンの商品ページになります。 Quad Filler 「Quad Filler」は、選択したエッジをもとにクリーンな四角面（Qu […]",
-          "link": "https://cgbox.jp/2025/10/21/news-addon-quad-filler/",
-          "publishedOn": "2025-10-21T03:35:39.000Z",
-          "wordCount": 2191,
-          "title": "【アドオン紹介】Quad Filler – 四角面でブリッジ！",
-          "imageUrl": "https://cgbox.jp/wp-content/uploads/2025/10/image_processing20251020-2-pr0vy6.gif"
         }
       ]
     },
@@ -754,36 +759,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "https://3dnchu.com/wp-content/uploads/camerabag-2026-0.jpg"
-        },
-        {
-          "id": "https://3dnchu.com/?p=1059422",
-          "author": "Ymt3D -3dnchu-",
-          "description": "数多くの便利アドオンを開発＆販売しているCasey_Sheep氏による３エッジと１エッジをワンクリックで理想的な四角形で埋めてくれるシンプルなBlenderアドオン「Quad Filler v0.1」のベータ版が早期アクセスリリースされました！",
-          "link": "https://3dnchu.com/archives/quad-filler-v0-1-beta-ea/",
-          "publishedOn": "2025-10-21T07:06:01.000Z",
-          "wordCount": 8768,
-          "title": "Quad Filler v0.1 Beta Early Access - ３エッジと１エッジをワンクリックで理想的な四角形で埋めてくれるシンプルなBlenderアドオン！ベータ＆早期アクセス版がリリース！",
-          "enclosure": {
-            "url": "https://3dnchu.com/wp-content/uploads/quad-filler-v0-1-beta-ea.webp",
-            "length": "619694",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://3dnchu.com/wp-content/uploads/quad-filler-v0-1-beta-ea.webp"
-        },
-        {
-          "id": "https://3dnchu.com/?p=1059429",
-          "author": "Ymt3D -3dnchu-",
-          "description": "Orange Turbine氏によるBlender向けリトポロジーアドオンの最新メジャーアップデート「Retopoflow 4」が正式リリースされました！",
-          "link": "https://3dnchu.com/archives/retopoflow-4/",
-          "publishedOn": "2025-10-21T06:27:42.000Z",
-          "wordCount": 8627,
-          "title": "Retopoflow 4 - v1登場から10年！Blender向けリトポロジー専用ツールセットアドオンの最新メジャーアップデートが遂に正式リリース！全書き直し！編集モードに統合！1日限定77%OFFクーポンもあるよ！",
-          "enclosure": {
-            "url": "https://3dnchu.com/wp-content/uploads/Retopoflow-4-main.webp",
-            "length": "629548",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://3dnchu.com/wp-content/uploads/Retopoflow-4-main.webp"
         }
       ]
     },
@@ -792,6 +767,16 @@
       "feedUrl": "https://cgworld.jp/atom.xml",
       "siteUrl": "https://cgworld.jp/",
       "articles": [
+        {
+          "id": "https://cgworld.jp/flashnews/01-202511-ClothRipper.html",
+          "author": null,
+          "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
+          "link": "https://cgworld.jp/flashnews/01-202511-ClothRipper.html",
+          "publishedOn": "2025-11-19T21:47:56.000Z",
+          "wordCount": 736,
+          "title": "ジーンズなどあらゆる布地の破れやほつれを再現するBlender用セットアップ「Cloth Ripper」リリース！ ジオメトリノードベースでプロシージャル、アニメ--ション＆UV対応 - ニュース",
+          "imageUrl": "https://cgworld.jp/flashnews/assets_c/2025/11/ClothRipper-01-thumb-1920x1081-76402.jpg"
+        },
         {
           "id": "https://cgworld.jp/article/2511-alicemovie01.html",
           "author": null,
@@ -1521,36 +1506,6 @@
           "wordCount": 811,
           "title": "Blenderアドオン「Style Thief」リリース！　ソース画像の色をターゲット画像のスタイルと色に自然に一致させるツール - ニュース",
           "imageUrl": "https://cgworld.jp/flashnews/assets_c/2025/10/StyleThief-01-thumb-1920x1080-75390.jpg"
-        },
-        {
-          "id": "https://cgworld.jp/special-feature/2510-big-koike.html",
-          "author": null,
-          "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
-          "link": "https://cgworld.jp/special-feature/2510-big-koike.html",
-          "publishedOn": "2025-10-21T02:40:00.000Z",
-          "wordCount": 637,
-          "title": "「NOT A HOTEL SETOUCHI」を手がけるBjarke Ingels Group（BIG）小池良平氏、来日記念特別インタビュー - スペシャルコンテンツ",
-          "imageUrl": "https://cgworld.jp/special-feature/assets_c/2025/10/big_v2_web-thumb-1920x1080-75252.jpg"
-        },
-        {
-          "id": "https://cgworld.jp/flashnews/01-202510-Krita-Blender.html",
-          "author": null,
-          "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
-          "link": "https://cgworld.jp/flashnews/01-202510-Krita-Blender.html",
-          "publishedOn": "2025-10-21T01:10:37.000Z",
-          "wordCount": 777,
-          "title": "オープンソース「Krita」でノーマルマップ画像を作成しBlenderで活用！　mokunachoi氏によるチュートリアルが話題 - ニュース",
-          "imageUrl": "https://cgworld.jp/flashnews/assets_c/2025/10/Normals_Krita-01-thumb-1920x1080-75315.jpg"
-        },
-        {
-          "id": "https://cgworld.jp/article/202510-houdini21-2.html",
-          "author": null,
-          "description": "※本記事は月刊 『CGWORLD + digital video』vol.32...",
-          "link": "https://cgworld.jp/article/202510-houdini21-2.html",
-          "publishedOn": "2025-10-21T01:00:00.000Z",
-          "wordCount": 910,
-          "title": "Houdini 21.0  新機能紹介 No.2：APEXで進化するアニメーション＆リギング - 特集",
-          "imageUrl": "https://cgworld.jp/article/assets_c/2025/10/202510-houdini21_c1-thumb-1000x533-74888.jpg"
         }
       ]
     },
@@ -1615,6 +1570,16 @@
       "feedUrl": "https://modelinghappy.com/feed",
       "siteUrl": "https://modelinghappy.com",
       "articles": [
+        {
+          "id": "https://modelinghappy.com/?p=65555",
+          "author": "modelinghappy",
+          "description": "The Black Friday Sale is HERE! GET 40% OFF SITE-WIDE! Use code: BR40 2025年11月28日まで、世界中のチュートリアル動画を販売しているWingfox\nThe post WingfoxでBlender、Maya、UE5、Houdiniチュートリアル講座が40％オフになる！年に１度のお得なブラックフライデーセールが開催中！ first appeared on 3DCG最新情報サイト MODELING HAPPY.",
+          "link": "https://modelinghappy.com/archives/65555",
+          "publishedOn": "2025-11-19T23:57:46.000Z",
+          "wordCount": 3723,
+          "title": "WingfoxでBlender、Maya、UE5、Houdiniチュートリアル講座が40％オフになる！年に１度のお得なブラックフライデーセールが開催中！",
+          "imageUrl": "https://modelinghappy.com/wp-content/uploads/2025/11/20251120_wingfox_blackfriday_00.jpg"
+        },
         {
           "id": "https://modelinghappy.com/?p=65549",
           "author": "modelinghappy",
@@ -1974,26 +1939,6 @@
           "wordCount": 3687,
           "title": "Maya用無料プラグイン Vectorify – パスに沿って歩行方向を自由に変更し、地形に沿って自然に歩かせる事が可能",
           "imageUrl": "https://modelinghappy.com/wp-content/uploads/2025/10/20251022_vectorify_01.jpg"
-        },
-        {
-          "id": "https://modelinghappy.com/?p=65064",
-          "author": "modelinghappy",
-          "description": "Retopoflow 4 Blenderで2013年に開発が開始され、リトポロジーするな必須アドオンとして定番のアドオンRetopoflowですが、随時機能を追加してバージョンアップしたRetopoFlow4が正式リリー\nThe post Retopoflow 4 Blenderでリトポロジーするな便利なツールが多数入ってるアドオンが正式リリース！1日限定77%オフ！ first appeared on 3DCG最新情報サイト MODELING HAPPY.",
-          "link": "https://modelinghappy.com/archives/65064",
-          "publishedOn": "2025-10-21T09:50:00.000Z",
-          "wordCount": 3692,
-          "title": "Retopoflow 4 Blenderでリトポロジーするな便利なツールが多数入ってるアドオンが正式リリース！1日限定77%オフ！",
-          "imageUrl": "https://modelinghappy.com/wp-content/uploads/2025/10/20251021_retopoflow4_01.jpg"
-        },
-        {
-          "id": "https://modelinghappy.com/?p=65058",
-          "author": "modelinghappy",
-          "description": "Quad Filler (Beta) Quad Filler (Beta)はBlenderで１クリックで片方が３つのエッジで、もう片方が１つのエッジの場合にShift+Fキーを押すだけで全て四角形の面で作成出来るアドオン\nThe post Quad Filler – 3つのエッジから1クリックで綺麗な四角面を作れるBlender用アドオン first appeared on 3DCG最新情報サイト MODELING HAPPY.",
-          "link": "https://modelinghappy.com/archives/65058",
-          "publishedOn": "2025-10-21T09:17:14.000Z",
-          "wordCount": 3713,
-          "title": "Quad Filler – 3つのエッジから1クリックで綺麗な四角面を作れるBlender用アドオン",
-          "imageUrl": "https://modelinghappy.com/wp-content/uploads/2025/10/20251021_quad_filler_01.jpg"
         }
       ]
     },
@@ -2401,46 +2346,6 @@
           "wordCount": 533,
           "title": "超リアルなデジタルヒューマンからエンバイロメントまで。Goodbye Kansas の シネマティックリール 2025",
           "imageUrl": "https://3dtotal.jp/wp-content/uploads/2025/10/gkansas_creel25.jpg"
-        },
-        {
-          "id": "https://3dtotal.jp/?p=53318",
-          "author": "3dtotal管理人T",
-          "description": "01 記憶に残る場面のコンセプトデザイン エンターテインメント業界のコンセプトデザイナーはみな、ゲームや映画に登場する重要な場面すなわち「記憶に残る場面」をうまく設定して、視覚的に表現できなければなりません。この種のコン […]\nThe post 記憶に残る場面のコンセプトデザイン『審判の日』のメイキング first appeared on 3dtotal 日本語オフィシャルサイト.",
-          "link": "https://3dtotal.jp/tutorials/53318/",
-          "publishedOn": "2025-10-21T09:11:13.000Z",
-          "wordCount": 553,
-          "title": "記憶に残る場面のコンセプトデザイン『審判の日』のメイキング",
-          "imageUrl": "https://3dtotal.jp/wp-content/uploads/2025/10/t374_t.jpg"
-        },
-        {
-          "id": "https://3dtotal.jp/?p=53306",
-          "author": "3dtotal管理人T",
-          "description": "★The Fantastic Four: First Steps | VFX Breakdown | Framestore（3分44秒） マーベル・スタジオの『ファンタスティック4：ファースト・ステップ』の舞台裏を見てみ […]\nThe post Framestore より、マーベル映画『ファンタスティック4：ファースト・ステップ』の VFXブレイクダウン映像 first appeared on 3dtotal 日本語オフィシャルサイト.",
-          "link": "https://3dtotal.jp/news/53306/",
-          "publishedOn": "2025-10-21T07:55:14.000Z",
-          "wordCount": 518,
-          "title": "Framestore より、マーベル映画『ファンタスティック4：ファースト・ステップ』の VFXブレイクダウン映像",
-          "imageUrl": "https://3dtotal.jp/wp-content/uploads/2025/10/f41s_fstore_03.jpg"
-        },
-        {
-          "id": "https://3dtotal.jp/?p=53298",
-          "author": "3dtotal管理人T",
-          "description": "★MPC - Néro The Assassin VFX Breakdown（2分45秒） MPC の VFXスーパーバイザー Arnaud Fouquet は、Netflix との過去の作品（『セーヌ川の水面の下に』『 […]\nThe post 生き別れの娘と暗殺者の旅。海外ドラマ『ワンス・アポン・アン・アサシン』の VFXブレイクダウン映像 first appeared on 3dtotal 日本語オフィシャルサイト.",
-          "link": "https://3dtotal.jp/news/53298/",
-          "publishedOn": "2025-10-21T07:35:28.000Z",
-          "wordCount": 519,
-          "title": "生き別れの娘と暗殺者の旅。海外ドラマ『ワンス・アポン・アン・アサシン』の VFXブレイクダウン映像",
-          "imageUrl": "https://3dtotal.jp/wp-content/uploads/2025/10/neroassasin_mpc.jpg"
-        },
-        {
-          "id": "https://3dtotal.jp/?p=53294",
-          "author": "3dtotal管理人T",
-          "description": "★This is EYELINE | Vision Video（1分26秒） 本日、当社にとって新たな時代の幕開けとなります。Scanline VFX と Eyeline Studios が一つとなり、新たなブランド「E […]\nThe post ScanlineVFX と Eyeline Studios が統合。新ブランド EYELINE の紹介映像「This is EYELINE」 first appeared on 3dtotal 日本語オフィシャルサイト.",
-          "link": "https://3dtotal.jp/news/53294/",
-          "publishedOn": "2025-10-21T05:48:33.000Z",
-          "wordCount": 544,
-          "title": "ScanlineVFX と Eyeline Studios が統合。新ブランド EYELINE の紹介映像「This is EYELINE」",
-          "imageUrl": "https://3dtotal.jp/wp-content/uploads/2025/10/thisiseyeline.jpg"
         }
       ]
     },
@@ -2917,16 +2822,6 @@
           "wordCount": 2414,
           "title": "UnityのShaderを使うためにコードフォーマッタを自作した話",
           "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRmxoMy5nb29nbGV1c2VyY29udGVudC5jb20lMkZhJTJGQUFUWEFKd214Z0hZd2U4VGVEOHZqQkJBRmJRYkhLaHRqbjZjN2JLMFFmUnclM0RzNTAtbW8_aXhsaWI9cmItNC4wLjAmYXI9MSUzQTEmZml0PWNyb3AmbWFzaz1lbGxpcHNlJmJnPUZGRkZGRiZmbT1wbmczMiZzPTk2N2IwNTc4ZWUxMTIyNjU2YjAyMGUwNzM4YmNlNDAw%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3Daf65b1cad5c84cfe88daf7aaf6ac11c0?ixlib=rb-4.0.0&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9VW5pdHklRTMlODElQUVTaGFkZXIlRTMlODIlOTIlRTQlQkQlQkYlRTMlODElODYlRTMlODElOUYlRTMlODIlODElRTMlODElQUIlRTMlODIlQjMlRTMlODMlQkMlRTMlODMlODklRTMlODMlOTUlRTMlODIlQTklRTMlODMlQkMlRTMlODMlOUUlRTMlODMlODMlRTMlODIlQkYlRTMlODIlOTIlRTglODclQUElRTQlQkQlOUMlRTMlODElOTclRTMlODElOUYlRTglQTklQjEmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz01ODk1YmJjZTgyMjdlNjg5ZTdhOTk3YTlhOTE1NjZlNQ&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBzdXp1a2lfTm8wMDAzMiZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPTZiOWFiN2U1Y2EwZmZjZjc4MDA4YWZlOGM3MTE4MjFi&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=4c02cca42b54fec081ab865c34a3b6eb"
-        },
-        {
-          "id": "https://qiita.com/dsz1468288273/items/8243a97352fbc4bdfc13",
-          "author": null,
-          "description": "はじめに\n最後に、アウトラインと前髪越しに眉毛が透けて見える効果を実現しました。\nアウトラインの実現には、主にNormalを滑らかにして外側に膨張させる方法を用いました。\n\nOutline\n\nPreparation work\nモデルの元々の法線をそのまま利用してメッシュを...",
-          "link": "https://qiita.com/dsz1468288273/items/8243a97352fbc4bdfc13",
-          "publishedOn": "2025-10-21T12:12:17.000Z",
-          "wordCount": 2247,
-          "title": "【Unity URP Shader】崩壊：スターレイル風トゥーンシェーダー再現 学習記録3",
-          "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRmxoMy5nb29nbGV1c2VyY29udGVudC5jb20lMkZhJTJGQUNnOG9jSmtJXzhmNnRIWVJzR3lySWpfX0R4NW1XUTNqeTVzdzJPdHdVSjNvSlA4N283MU9GRSUzRHM5Ni1jP2l4bGliPXJiLTQuMC4wJmFyPTElM0ExJmZpdD1jcm9wJm1hc2s9ZWxsaXBzZSZiZz1GRkZGRkYmZm09cG5nMzImcz1iNzdiMWU3NDAxMzIyOGJlMjI0YjA0NTc3NjQyNmRkMg%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D1bbcc5fc64c6abe9b03bb227ed3e317b?ixlib=rb-4.0.0&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9JUUzJTgwJTkwVW5pdHklMjBVUlAlMjBTaGFkZXIlRTMlODAlOTElRTUlQjQlQTklRTUlQTMlOEElRUYlQkMlOUElRTMlODIlQjklRTMlODIlQkYlRTMlODMlQkMlRTMlODMlQUMlRTMlODIlQTQlRTMlODMlQUIlRTklQTIlQTglRTMlODMlODglRTMlODIlQTUlRTMlODMlQkMlRTMlODMlQjMlRTMlODIlQjclRTMlODIlQTclRTMlODMlQkMlRTMlODMlODAlRTMlODMlQkMlRTUlODYlOEQlRTclOEYlQkUlMjAlRTUlQUQlQTYlRTclQkYlOTIlRTglQTglOTglRTklOEMlQjIzJnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9ZWMwMWJkMWI3NzY1ZTVkZGQ5NTIzMTU5ZTQ4YzMxMmM&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBkc3oxNDY4Mjg4MjczJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9ZmIyYzJkOWNlYzc3ZTQ0Yzc4YjJlOTc3Nzk5YjRhOGE&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=8756af2691c56b1ab662b4b46535a554"
         }
       ]
     },
@@ -2957,18 +2852,7 @@
       "title": "HLSLタグが付けられた新着記事 - Qiita",
       "feedUrl": "https://qiita.com/tags/hlsl/feed",
       "siteUrl": "https://qiita.com",
-      "articles": [
-        {
-          "id": "https://qiita.com/dsz1468288273/items/8243a97352fbc4bdfc13",
-          "author": null,
-          "description": "はじめに\n最後に、アウトラインと前髪越しに眉毛が透けて見える効果を実現しました。\nアウトラインの実現には、主にNormalを滑らかにして外側に膨張させる方法を用いました。\n\nOutline\n\nPreparation work\nモデルの元々の法線をそのまま利用してメッシュを...",
-          "link": "https://qiita.com/dsz1468288273/items/8243a97352fbc4bdfc13",
-          "publishedOn": "2025-10-21T12:12:17.000Z",
-          "wordCount": 2247,
-          "title": "【Unity URP Shader】崩壊：スターレイル風トゥーンシェーダー再現 学習記録3",
-          "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRmxoMy5nb29nbGV1c2VyY29udGVudC5jb20lMkZhJTJGQUNnOG9jSmtJXzhmNnRIWVJzR3lySWpfX0R4NW1XUTNqeTVzdzJPdHdVSjNvSlA4N283MU9GRSUzRHM5Ni1jP2l4bGliPXJiLTQuMC4wJmFyPTElM0ExJmZpdD1jcm9wJm1hc2s9ZWxsaXBzZSZiZz1GRkZGRkYmZm09cG5nMzImcz1iNzdiMWU3NDAxMzIyOGJlMjI0YjA0NTc3NjQyNmRkMg%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D1bbcc5fc64c6abe9b03bb227ed3e317b?ixlib=rb-4.0.0&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9JUUzJTgwJTkwVW5pdHklMjBVUlAlMjBTaGFkZXIlRTMlODAlOTElRTUlQjQlQTklRTUlQTMlOEElRUYlQkMlOUElRTMlODIlQjklRTMlODIlQkYlRTMlODMlQkMlRTMlODMlQUMlRTMlODIlQTQlRTMlODMlQUIlRTklQTIlQTglRTMlODMlODglRTMlODIlQTUlRTMlODMlQkMlRTMlODMlQjMlRTMlODIlQjclRTMlODIlQTclRTMlODMlQkMlRTMlODMlODAlRTMlODMlQkMlRTUlODYlOEQlRTclOEYlQkUlMjAlRTUlQUQlQTYlRTclQkYlOTIlRTglQTglOTglRTklOEMlQjIzJnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9ZWMwMWJkMWI3NzY1ZTVkZGQ5NTIzMTU5ZTQ4YzMxMmM&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBkc3oxNDY4Mjg4MjczJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9ZmIyYzJkOWNlYzc3ZTQ0Yzc4YjJlOTc3Nzk5YjRhOGE&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=8756af2691c56b1ab662b4b46535a554"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "GLSLタグが付けられた新着記事 - Qiita",
@@ -3239,16 +3123,6 @@
           "wordCount": 2721,
           "title": "【Houdini】RBD Car Rigのチュートリアル①",
           "imageUrl": "https://assets.st-note.com/production/uploads/images/223878321/rectangle_large_type_2_430d29620a298b13b51ff4ad7fb17eea.png?width=800"
-        },
-        {
-          "id": "https://note.com/makeinufilm/n/na83354ddf861",
-          "author": null,
-          "description": "【Houdini】破壊シミュ、RBDのチュートリアル①｜makeInuFilm\n前回のパターンは破壊のみの基本表現で\nRBD ConfigureとRBD Constraint Propertiesで結合の設定を行いつつRBDMaterialFractureとRBDBulletSolverを使って破壊シミュをするという流れでした（おさらい）\n続きをみる",
-          "link": "https://note.com/makeinufilm/n/na83354ddf861",
-          "publishedOn": "2025-10-21T09:56:36.000Z",
-          "wordCount": 2580,
-          "title": "【Houdini】破壊シミュ、RBDのチュートリアル②粘着stickey/ガイド",
-          "imageUrl": "https://assets.st-note.com/production/uploads/images/223829483/rectangle_large_type_2_7657cc967b6cbc64f01b312927c2f66a.png?width=800"
         }
       ]
     },
@@ -3348,6 +3222,16 @@
       "siteUrl": "https://3d.crdg.jp/env/",
       "articles": [
         {
+          "id": "https://3d.crdg.jp/env/?p=8757",
+          "author": "Kosei.Hatanaka",
+          "description": "カーブを使用したモデリング手法をご紹介します。使用頻度自体はそこまで多くありませんが、知っているかどうかで作業効率に大きな差が出るテクニックです。ぼく […]\n続きを読む\n投稿 【Maya】カーブを使用したモデリング は エンホリ - ENVIRONMENT HOLIC｜C&R Creative Studios に最初に表示されました。",
+          "link": "https://3d.crdg.jp/env/2025/11/19/8757/?utm_source=rss&utm_medium=rss&utm_campaign=%25e3%2580%2590maya%25e3%2580%2591%25e3%2582%25ab%25e3%2583%25bc%25e3%2583%2596%25e3%2582%2592%25e4%25bd%25bf%25e7%2594%25a8%25e3%2581%2597%25e3%2581%259f%25e3%2583%25a2%25e3%2583%2587%25e3%2583%25aa%25e3%2583%25b3%25e3%2582%25b0",
+          "publishedOn": "2025-11-19T13:44:01.000Z",
+          "wordCount": 3117,
+          "title": "【Maya】カーブを使用したモデリング",
+          "imageUrl": "https://3d.crdg.jp/env/wp-content/uploads/2025/11/アイキャッチ画像_『カーブを使用したモデリング』_251119-1.jpg"
+        },
+        {
           "id": "https://3d.crdg.jp/env/?p=8672",
           "author": "Akito.Yamakawa",
           "description": "ハイモデルをいじらずに、Substance Painter内でAmbient occlusionの編集の仕方をご紹介します。 Ambient occl […]\n続きを読む\n投稿 【Substance Painter】Ambient occlusionの強さを編集する方法 は エンホリ - ENVIRONMENT HOLIC｜C&R Creative Studios に最初に表示されました。",
@@ -3386,16 +3270,6 @@
           "wordCount": 3135,
           "title": "【Substance Painter】リソースアップデーターで画像を入れ替えよう",
           "imageUrl": "https://3d.crdg.jp/env/wp-content/uploads/2025/10/リソースアップデーターで画像を入れ替えよう.jpg"
-        },
-        {
-          "id": "https://3d.crdg.jp/env/?p=8608",
-          "author": "Jun.Matsumiya",
-          "description": "前回に引き続き植物を作りましょう。今回はモノクロで模様を付けた後色を付けていきます。 ノイズを入れていきましょう。Fractal Sum BaseにS […]\n続きを読む\n投稿 【Substance Designer】スタイライズドな植物を作ろう　後編 は エンホリ - ENVIRONMENT HOLIC｜C&R Creative Studios に最初に表示されました。",
-          "link": "https://3d.crdg.jp/env/2025/10/21/8608/?utm_source=rss&utm_medium=rss&utm_campaign=%25e3%2580%2590substance-designer%25e3%2580%2591%25e3%2582%25b9%25e3%2582%25bf%25e3%2582%25a4%25e3%2583%25a9%25e3%2582%25a4%25e3%2582%25ba%25e3%2583%2589%25e3%2581%25aa%25e6%25a4%258d%25e7%2589%25a9%25e3%2582%2592%25e4%25bd%259c%25e3%2582%258d%25e3%2581%2586%25e3%2580%2580%25e5%25be%258c%25e7%25b7%25a8",
-          "publishedOn": "2025-10-21T03:05:00.000Z",
-          "wordCount": 3153,
-          "title": "【Substance Designer】スタイライズドな植物を作ろう　後編",
-          "imageUrl": "https://3d.crdg.jp/env/wp-content/uploads/5000/01/アイキャッチ画像_ガイド.jpg"
         }
       ]
     },
@@ -4028,51 +3902,6 @@
           "wordCount": 32930,
           "title": "【期間限定無料】2025年11月4日までの FAB 無料コンテンツをチェック！",
           "imageUrl": "https://cginterest.com/wp-content/uploads/2025/10/FABfreecontet20251022.webp"
-        },
-        {
-          "id": "https://cginterest.com/?p=51850",
-          "author": ".me",
-          "description": "2025年10月15日（現地時間）- Appleは、新しいM5チップを搭載した新しいiPad Proを発表しました。 新しい iPad Pro (M5)の概要 新しい iPad Pro は M5 チップを搭載し、処理性能 […]\nApple、M5チップを搭載した新しいiPad Proを発表！ first appeared on CGinterest.",
-          "link": "https://cginterest.com/2025/10/21/apple%e3%80%81m5%e3%83%81%e3%83%83%e3%83%97%e3%82%92%e6%90%ad%e8%bc%89%e3%81%97%e3%81%9f%e6%96%b0%e3%81%97%e3%81%84ipad-pro%e3%82%92%e7%99%ba%e8%a1%a8%ef%bc%81/",
-          "publishedOn": "2025-10-21T07:12:00.000Z",
-          "wordCount": 30502,
-          "title": "Apple、M5チップを搭載した新しいiPad Proを発表！",
-          "imageUrl": "https://cginterest.com/wp-content/uploads/2025/10/20251021_iPadProM5.webp"
-        },
-        {
-          "id": "https://cginterest.com/?p=51849",
-          "author": ".me",
-          "description": "2025年10月15日（現地時間）- Apple は、M5チップを搭載した新しい14インチMacBook Proを発表しました。 新しい14インチMacBook Pro（M5）の概要 新しいMacBook Proは、M5 […]\nApple、M5チップを搭載した新しい14インチMacBook Proを発表！ first appeared on CGinterest.",
-          "link": "https://cginterest.com/2025/10/21/apple%e3%80%81m5%e3%83%81%e3%83%83%e3%83%97%e3%82%92%e6%90%ad%e8%bc%89%e3%81%97%e3%81%9f%e6%96%b0%e3%81%97%e3%81%8414%e3%82%a4%e3%83%b3%e3%83%81macbook-pro%e3%82%92%e7%99%ba%e8%a1%a8%ef%bc%81/",
-          "publishedOn": "2025-10-21T07:04:00.000Z",
-          "wordCount": 30258,
-          "title": "Apple、M5チップを搭載した新しい14インチMacBook Proを発表！",
-          "imageUrl": "https://cginterest.com/wp-content/uploads/2025/10/20251021_14macbookproM5.webp"
-        },
-        {
-          "id": "https://cginterest.com/?p=51848",
-          "author": ".me",
-          "description": "2025年10月15日（現地時間）- Apple は、新しく発表されたM5チップを搭載したApple Vision Proを発表しました。 新しいApple Vision Proの概要 この新しいモデルは、新しいM5チッ […]\nApple、新しいM5チップ搭載「Apple Vision Pro」を発表！クッション性のあるデュアルニットバンドでより快適に first appeared on CGinterest.",
-          "link": "https://cginterest.com/2025/10/21/apple%e3%80%81%e6%96%b0%e3%81%97%e3%81%84m5%e3%83%81%e3%83%83%e3%83%97%e6%90%ad%e8%bc%89%e3%80%8capple-vision-pro%e3%80%8d%e3%82%92%e7%99%ba%e8%a1%a8%ef%bc%81%e3%82%af%e3%83%83%e3%82%b7%e3%83%a7/",
-          "publishedOn": "2025-10-21T07:03:00.000Z",
-          "wordCount": 30163,
-          "title": "Apple、新しいM5チップ搭載「Apple Vision Pro」を発表！クッション性のあるデュアルニットバンドでより快適に",
-          "enclosure": {
-            "url": "https://cginterest.com/wp-content/uploads/2025/10/Apple-Vision-Pro-Immersive-video1.mp4",
-            "length": "364869",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://cginterest.com/wp-content/uploads/2025/10/20251020_applevisionPro-m5.webp"
-        },
-        {
-          "id": "https://cginterest.com/?p=51842",
-          "author": ".me",
-          "description": "2025年10月15日（現地時間）- Appleは、AI性能を向上させ、チップの多くの側面を進化させた「M5」を発表しました。 新チップ「M5」の概要 第3世代の3ナノメートルテクノロジーを用いて製造されたM5は、AI性 […]\nApple、AppleシリコンのAI性能を向上させた新チップ「M5」を発表！ first appeared on CGinterest.",
-          "link": "https://cginterest.com/2025/10/21/apple%e3%80%81apple%e3%82%b7%e3%83%aa%e3%82%b3%e3%83%b3%e3%81%aeai%e6%80%a7%e8%83%bd%e3%82%92%e5%90%91%e4%b8%8a%e3%81%95%e3%81%9b%e3%81%9f%e6%96%b0%e3%83%81%e3%83%83%e3%83%97%e3%80%8cm5%e3%80%8d/",
-          "publishedOn": "2025-10-21T06:45:35.000Z",
-          "wordCount": 29932,
-          "title": "Apple、AppleシリコンのAI性能を向上させた新チップ「M5」を発表！",
-          "imageUrl": "https://cginterest.com/wp-content/uploads/2025/10/20251020_apple-m5.webp"
         }
       ]
     }

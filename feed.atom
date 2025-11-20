@@ -2,10 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-11-19T12:22:09.728Z</updated>
+    <updated>2025-11-20T00:52:46.563Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[WingfoxでBlender、Maya、UE5、Houdiniチュートリアル講座が40％オフになる！年に１度のお得なブラックフライデーセールが開催中！]]></title>
+        <id>https://modelinghappy.com/?p=65555</id>
+        <link href="https://modelinghappy.com/archives/65555"/>
+        <updated>2025-11-19T23:57:46.000Z</updated>
+        <summary type="html"><![CDATA[The Black Friday Sale is HERE! GET 40% OFF SITE-WIDE! Use code: BR40 2025年11月28日まで、世界中のチュートリアル動画を販売しているWingfox
+The post WingfoxでBlender、Maya、UE5、Houdiniチュートリアル講座が40％オフになる！年に１度のお得なブラックフライデーセールが開催中！ first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
+        <author>
+            <name>modelinghappy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【アドオン紹介】Loft Curves – ガイドに沿ってサーフェスを作成！]]></title>
+        <id>https://cgbox.jp/?p=64616</id>
+        <link href="https://cgbox.jp/2025/11/20/news-addon-loft-curves/"/>
+        <updated>2025-11-19T23:24:34.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは！ 今回はアドオンの「Loft Curves」を紹介します。 こちらのリンクがアドオンの商品ページになります。 Loft Curves 「Loft Curves」は、複数のプロファイルカーブを使って、滑らかなサ […]]]></summary>
+        <author>
+            <name>kasahara</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ジーンズなどあらゆる布地の破れやほつれを再現するBlender用セットアップ「Cloth Ripper」リリース！ ジオメトリノードベースでプロシージャル、アニメ--ション＆UV対応 - ニュース]]></title>
+        <id>https://cgworld.jp/flashnews/01-202511-ClothRipper.html</id>
+        <link href="https://cgworld.jp/flashnews/01-202511-ClothRipper.html"/>
+        <updated>2025-11-19T21:47:56.000Z</updated>
+        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【Maya】カーブを使用したモデリング]]></title>
+        <id>https://3d.crdg.jp/env/?p=8757</id>
+        <link href="https://3d.crdg.jp/env/2025/11/19/8757/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=%25e3%2580%2590maya%25e3%2580%2591%25e3%2582%25ab%25e3%2583%25bc%25e3%2583%2596%25e3%2582%2592%25e4%25bd%25bf%25e7%2594%25a8%25e3%2581%2597%25e3%2581%259f%25e3%2583%25a2%25e3%2583%2587%25e3%2583%25aa%25e3%2583%25b3%25e3%2582%25b0"/>
+        <updated>2025-11-19T13:44:01.000Z</updated>
+        <summary type="html"><![CDATA[カーブを使用したモデリング手法をご紹介します。使用頻度自体はそこまで多くありませんが、知っているかどうかで作業効率に大きな差が出るテクニックです。ぼく […]
+続きを読む
+投稿 【Maya】カーブを使用したモデリング は エンホリ - ENVIRONMENT HOLIC｜C&R Creative Studios に最初に表示されました。]]></summary>
+        <author>
+            <name>Kosei.Hatanaka</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Casey_Sheep Free Bundle - Blender用の5つのシェーダー＆GeometryNodesアセットをSuperhive上でバンドル形式で公開！]]></title>
         <id>https://3dnchu.com/?p=1060085</id>
@@ -3634,235 +3677,6 @@ Python DLL のパスが通っていなかった.
         <summary type="html"><![CDATA[Nevercenterによる写真や動画編集の為のスタンドアロンソフト「CameraBag 2026.0」がリリースされました！]]></summary>
         <author>
             <name>Ymt3D -3dnchu-</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【Unity URP Shader】崩壊：スターレイル風トゥーンシェーダー再現 学習記録3]]></title>
-        <id>https://qiita.com/dsz1468288273/items/8243a97352fbc4bdfc13</id>
-        <link href="https://qiita.com/dsz1468288273/items/8243a97352fbc4bdfc13"/>
-        <updated>2025-10-21T12:12:17.000Z</updated>
-        <summary type="html"><![CDATA[はじめに
-最後に、アウトラインと前髪越しに眉毛が透けて見える効果を実現しました。
-アウトラインの実現には、主にNormalを滑らかにして外側に膨張させる方法を用いました。
-
-Outline
-
-Preparation work
-モデルの元々の法線をそのまま利用してメッシュを...]]></summary>
-        <author>
-            <name>Shaderタグが付けられた新着記事 - Qiita</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【Unity URP Shader】崩壊：スターレイル風トゥーンシェーダー再現 学習記録3]]></title>
-        <id>https://qiita.com/dsz1468288273/items/8243a97352fbc4bdfc13</id>
-        <link href="https://qiita.com/dsz1468288273/items/8243a97352fbc4bdfc13"/>
-        <updated>2025-10-21T12:12:17.000Z</updated>
-        <summary type="html"><![CDATA[はじめに
-最後に、アウトラインと前髪越しに眉毛が透けて見える効果を実現しました。
-アウトラインの実現には、主にNormalを滑らかにして外側に膨張させる方法を用いました。
-
-Outline
-
-Preparation work
-モデルの元々の法線をそのまま利用してメッシュを...]]></summary>
-        <author>
-            <name>HLSLタグが付けられた新着記事 - Qiita</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【Houdini】破壊シミュ、RBDのチュートリアル②粘着stickey/ガイド]]></title>
-        <id>https://note.com/makeinufilm/n/na83354ddf861</id>
-        <link href="https://note.com/makeinufilm/n/na83354ddf861"/>
-        <updated>2025-10-21T09:56:36.000Z</updated>
-        <summary type="html"><![CDATA[【Houdini】破壊シミュ、RBDのチュートリアル①｜makeInuFilm
-前回のパターンは破壊のみの基本表現で
-RBD ConfigureとRBD Constraint Propertiesで結合の設定を行いつつRBDMaterialFractureとRBDBulletSolverを使って破壊シミュをするという流れでした（おさらい）
-続きをみる]]></summary>
-        <author>
-            <name>#Houdiniタグ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Retopoflow 4 Blenderでリトポロジーするな便利なツールが多数入ってるアドオンが正式リリース！1日限定77%オフ！]]></title>
-        <id>https://modelinghappy.com/?p=65064</id>
-        <link href="https://modelinghappy.com/archives/65064"/>
-        <updated>2025-10-21T09:50:00.000Z</updated>
-        <summary type="html"><![CDATA[Retopoflow 4 Blenderで2013年に開発が開始され、リトポロジーするな必須アドオンとして定番のアドオンRetopoflowですが、随時機能を追加してバージョンアップしたRetopoFlow4が正式リリー
-The post Retopoflow 4 Blenderでリトポロジーするな便利なツールが多数入ってるアドオンが正式リリース！1日限定77%オフ！ first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
-        <author>
-            <name>modelinghappy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Quad Filler – 3つのエッジから1クリックで綺麗な四角面を作れるBlender用アドオン]]></title>
-        <id>https://modelinghappy.com/?p=65058</id>
-        <link href="https://modelinghappy.com/archives/65058"/>
-        <updated>2025-10-21T09:17:14.000Z</updated>
-        <summary type="html"><![CDATA[Quad Filler (Beta) Quad Filler (Beta)はBlenderで１クリックで片方が３つのエッジで、もう片方が１つのエッジの場合にShift+Fキーを押すだけで全て四角形の面で作成出来るアドオン
-The post Quad Filler – 3つのエッジから1クリックで綺麗な四角面を作れるBlender用アドオン first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
-        <author>
-            <name>modelinghappy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[記憶に残る場面のコンセプトデザイン『審判の日』のメイキング]]></title>
-        <id>https://3dtotal.jp/?p=53318</id>
-        <link href="https://3dtotal.jp/tutorials/53318/"/>
-        <updated>2025-10-21T09:11:13.000Z</updated>
-        <summary type="html"><![CDATA[01 記憶に残る場面のコンセプトデザイン エンターテインメント業界のコンセプトデザイナーはみな、ゲームや映画に登場する重要な場面すなわち「記憶に残る場面」をうまく設定して、視覚的に表現できなければなりません。この種のコン […]
-The post 記憶に残る場面のコンセプトデザイン『審判の日』のメイキング first appeared on 3dtotal 日本語オフィシャルサイト.]]></summary>
-        <author>
-            <name>3dtotal管理人T</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Framestore より、マーベル映画『ファンタスティック4：ファースト・ステップ』の VFXブレイクダウン映像]]></title>
-        <id>https://3dtotal.jp/?p=53306</id>
-        <link href="https://3dtotal.jp/news/53306/"/>
-        <updated>2025-10-21T07:55:14.000Z</updated>
-        <summary type="html"><![CDATA[★The Fantastic Four: First Steps | VFX Breakdown | Framestore（3分44秒） マーベル・スタジオの『ファンタスティック4：ファースト・ステップ』の舞台裏を見てみ […]
-The post Framestore より、マーベル映画『ファンタスティック4：ファースト・ステップ』の VFXブレイクダウン映像 first appeared on 3dtotal 日本語オフィシャルサイト.]]></summary>
-        <author>
-            <name>3dtotal管理人T</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[生き別れの娘と暗殺者の旅。海外ドラマ『ワンス・アポン・アン・アサシン』の VFXブレイクダウン映像]]></title>
-        <id>https://3dtotal.jp/?p=53298</id>
-        <link href="https://3dtotal.jp/news/53298/"/>
-        <updated>2025-10-21T07:35:28.000Z</updated>
-        <summary type="html"><![CDATA[★MPC - Néro The Assassin VFX Breakdown（2分45秒） MPC の VFXスーパーバイザー Arnaud Fouquet は、Netflix との過去の作品（『セーヌ川の水面の下に』『 […]
-The post 生き別れの娘と暗殺者の旅。海外ドラマ『ワンス・アポン・アン・アサシン』の VFXブレイクダウン映像 first appeared on 3dtotal 日本語オフィシャルサイト.]]></summary>
-        <author>
-            <name>3dtotal管理人T</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apple、M5チップを搭載した新しいiPad Proを発表！]]></title>
-        <id>https://cginterest.com/?p=51850</id>
-        <link href="https://cginterest.com/2025/10/21/apple%e3%80%81m5%e3%83%81%e3%83%83%e3%83%97%e3%82%92%e6%90%ad%e8%bc%89%e3%81%97%e3%81%9f%e6%96%b0%e3%81%97%e3%81%84ipad-pro%e3%82%92%e7%99%ba%e8%a1%a8%ef%bc%81/"/>
-        <updated>2025-10-21T07:12:00.000Z</updated>
-        <summary type="html"><![CDATA[2025年10月15日（現地時間）- Appleは、新しいM5チップを搭載した新しいiPad Proを発表しました。 新しい iPad Pro (M5)の概要 新しい iPad Pro は M5 チップを搭載し、処理性能 […]
-Apple、M5チップを搭載した新しいiPad Proを発表！ first appeared on CGinterest.]]></summary>
-        <author>
-            <name>.me</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Quad Filler v0.1 Beta Early Access - ３エッジと１エッジをワンクリックで理想的な四角形で埋めてくれるシンプルなBlenderアドオン！ベータ＆早期アクセス版がリリース！]]></title>
-        <id>https://3dnchu.com/?p=1059422</id>
-        <link href="https://3dnchu.com/archives/quad-filler-v0-1-beta-ea/"/>
-        <updated>2025-10-21T07:06:01.000Z</updated>
-        <summary type="html"><![CDATA[数多くの便利アドオンを開発＆販売しているCasey_Sheep氏による３エッジと１エッジをワンクリックで理想的な四角形で埋めてくれるシンプルなBlenderアドオン「Quad Filler v0.1」のベータ版が早期アクセスリリースされました！]]></summary>
-        <author>
-            <name>Ymt3D -3dnchu-</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apple、M5チップを搭載した新しい14インチMacBook Proを発表！]]></title>
-        <id>https://cginterest.com/?p=51849</id>
-        <link href="https://cginterest.com/2025/10/21/apple%e3%80%81m5%e3%83%81%e3%83%83%e3%83%97%e3%82%92%e6%90%ad%e8%bc%89%e3%81%97%e3%81%9f%e6%96%b0%e3%81%97%e3%81%8414%e3%82%a4%e3%83%b3%e3%83%81macbook-pro%e3%82%92%e7%99%ba%e8%a1%a8%ef%bc%81/"/>
-        <updated>2025-10-21T07:04:00.000Z</updated>
-        <summary type="html"><![CDATA[2025年10月15日（現地時間）- Apple は、M5チップを搭載した新しい14インチMacBook Proを発表しました。 新しい14インチMacBook Pro（M5）の概要 新しいMacBook Proは、M5 […]
-Apple、M5チップを搭載した新しい14インチMacBook Proを発表！ first appeared on CGinterest.]]></summary>
-        <author>
-            <name>.me</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apple、新しいM5チップ搭載「Apple Vision Pro」を発表！クッション性のあるデュアルニットバンドでより快適に]]></title>
-        <id>https://cginterest.com/?p=51848</id>
-        <link href="https://cginterest.com/2025/10/21/apple%e3%80%81%e6%96%b0%e3%81%97%e3%81%84m5%e3%83%81%e3%83%83%e3%83%97%e6%90%ad%e8%bc%89%e3%80%8capple-vision-pro%e3%80%8d%e3%82%92%e7%99%ba%e8%a1%a8%ef%bc%81%e3%82%af%e3%83%83%e3%82%b7%e3%83%a7/"/>
-        <updated>2025-10-21T07:03:00.000Z</updated>
-        <summary type="html"><![CDATA[2025年10月15日（現地時間）- Apple は、新しく発表されたM5チップを搭載したApple Vision Proを発表しました。 新しいApple Vision Proの概要 この新しいモデルは、新しいM5チッ […]
-Apple、新しいM5チップ搭載「Apple Vision Pro」を発表！クッション性のあるデュアルニットバンドでより快適に first appeared on CGinterest.]]></summary>
-        <author>
-            <name>.me</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apple、AppleシリコンのAI性能を向上させた新チップ「M5」を発表！]]></title>
-        <id>https://cginterest.com/?p=51842</id>
-        <link href="https://cginterest.com/2025/10/21/apple%e3%80%81apple%e3%82%b7%e3%83%aa%e3%82%b3%e3%83%b3%e3%81%aeai%e6%80%a7%e8%83%bd%e3%82%92%e5%90%91%e4%b8%8a%e3%81%95%e3%81%9b%e3%81%9f%e6%96%b0%e3%83%81%e3%83%83%e3%83%97%e3%80%8cm5%e3%80%8d/"/>
-        <updated>2025-10-21T06:45:35.000Z</updated>
-        <summary type="html"><![CDATA[2025年10月15日（現地時間）- Appleは、AI性能を向上させ、チップの多くの側面を進化させた「M5」を発表しました。 新チップ「M5」の概要 第3世代の3ナノメートルテクノロジーを用いて製造されたM5は、AI性 […]
-Apple、AppleシリコンのAI性能を向上させた新チップ「M5」を発表！ first appeared on CGinterest.]]></summary>
-        <author>
-            <name>.me</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Retopoflow 4 - v1登場から10年！Blender向けリトポロジー専用ツールセットアドオンの最新メジャーアップデートが遂に正式リリース！全書き直し！編集モードに統合！1日限定77%OFFクーポンもあるよ！]]></title>
-        <id>https://3dnchu.com/?p=1059429</id>
-        <link href="https://3dnchu.com/archives/retopoflow-4/"/>
-        <updated>2025-10-21T06:27:42.000Z</updated>
-        <summary type="html"><![CDATA[Orange Turbine氏によるBlender向けリトポロジーアドオンの最新メジャーアップデート「Retopoflow 4」が正式リリースされました！]]></summary>
-        <author>
-            <name>Ymt3D -3dnchu-</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ScanlineVFX と Eyeline Studios が統合。新ブランド EYELINE の紹介映像「This is EYELINE」]]></title>
-        <id>https://3dtotal.jp/?p=53294</id>
-        <link href="https://3dtotal.jp/news/53294/"/>
-        <updated>2025-10-21T05:48:33.000Z</updated>
-        <summary type="html"><![CDATA[★This is EYELINE | Vision Video（1分26秒） 本日、当社にとって新たな時代の幕開けとなります。Scanline VFX と Eyeline Studios が一つとなり、新たなブランド「E […]
-The post ScanlineVFX と Eyeline Studios が統合。新ブランド EYELINE の紹介映像「This is EYELINE」 first appeared on 3dtotal 日本語オフィシャルサイト.]]></summary>
-        <author>
-            <name>3dtotal管理人T</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【アドオン紹介】Quad Filler – 四角面でブリッジ！]]></title>
-        <id>https://cgbox.jp/?p=64435</id>
-        <link href="https://cgbox.jp/2025/10/21/news-addon-quad-filler/"/>
-        <updated>2025-10-21T03:35:39.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは！ 今回はアドオンの「Quad Filler」を紹介します。 こちらのリンクがアドオンの商品ページになります。 Quad Filler 「Quad Filler」は、選択したエッジをもとにクリーンな四角面（Qu […]]]></summary>
-        <author>
-            <name>kasahara</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【Substance Designer】スタイライズドな植物を作ろう　後編]]></title>
-        <id>https://3d.crdg.jp/env/?p=8608</id>
-        <link href="https://3d.crdg.jp/env/2025/10/21/8608/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=%25e3%2580%2590substance-designer%25e3%2580%2591%25e3%2582%25b9%25e3%2582%25bf%25e3%2582%25a4%25e3%2583%25a9%25e3%2582%25a4%25e3%2582%25ba%25e3%2583%2589%25e3%2581%25aa%25e6%25a4%258d%25e7%2589%25a9%25e3%2582%2592%25e4%25bd%259c%25e3%2582%258d%25e3%2581%2586%25e3%2580%2580%25e5%25be%258c%25e7%25b7%25a8"/>
-        <updated>2025-10-21T03:05:00.000Z</updated>
-        <summary type="html"><![CDATA[前回に引き続き植物を作りましょう。今回はモノクロで模様を付けた後色を付けていきます。 ノイズを入れていきましょう。Fractal Sum BaseにS […]
-続きを読む
-投稿 【Substance Designer】スタイライズドな植物を作ろう　後編 は エンホリ - ENVIRONMENT HOLIC｜C&R Creative Studios に最初に表示されました。]]></summary>
-        <author>
-            <name>Jun.Matsumiya</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「NOT A HOTEL SETOUCHI」を手がけるBjarke Ingels Group（BIG）小池良平氏、来日記念特別インタビュー - スペシャルコンテンツ]]></title>
-        <id>https://cgworld.jp/special-feature/2510-big-koike.html</id>
-        <link href="https://cgworld.jp/special-feature/2510-big-koike.html"/>
-        <updated>2025-10-21T02:40:00.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[オープンソース「Krita」でノーマルマップ画像を作成しBlenderで活用！　mokunachoi氏によるチュートリアルが話題 - ニュース]]></title>
-        <id>https://cgworld.jp/flashnews/01-202510-Krita-Blender.html</id>
-        <link href="https://cgworld.jp/flashnews/01-202510-Krita-Blender.html"/>
-        <updated>2025-10-21T01:10:37.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Houdini 21.0  新機能紹介 No.2：APEXで進化するアニメーション＆リギング - 特集]]></title>
-        <id>https://cgworld.jp/article/202510-houdini21-2.html</id>
-        <link href="https://cgworld.jp/article/202510-houdini21-2.html"/>
-        <updated>2025-10-21T01:00:00.000Z</updated>
-        <summary type="html"><![CDATA[※本記事は月刊 『CGWORLD + digital video』vol.32...]]></summary>
-        <author>
-            <name>CGWORLD</name>
         </author>
     </entry>
 </feed>

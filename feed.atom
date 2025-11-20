@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-11-20T08:16:30.672Z</updated>
+    <updated>2025-11-20T12:22:08.116Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[クラフト感を生む「奥行き」とは？ ディレクターデュオ・NIOの制作哲学と、インテル® Core™ Ultra 9 プロセッサー 285K 搭載 DAIV FX-I7G80の実力 - スペシャルコンテンツ]]></title>
+        <id>https://cgworld.jp/special-feature/2511-nio.html</id>
+        <link href="https://cgworld.jp/special-feature/2511-nio.html"/>
+        <updated>2025-11-20T09:45:26.000Z</updated>
+        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[大作ドラマの特殊効果映像。DNEG の Episodic VFXショーリール 2025]]></title>
         <id>https://3dtotal.jp/?p=53774</id>
@@ -2393,6 +2403,19 @@ The post Even Loop – 乱れたエッジやエッジループを等間隔に整
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[せっかくの三連休を、充実した日にしたい。（日曜編）]]></title>
+        <id>https://note.com/ichiniisan/n/nfcc4c914c234</id>
+        <link href="https://note.com/ichiniisan/n/nfcc4c914c234"/>
+        <updated>2025-11-02T14:03:51.000Z</updated>
+        <summary type="html"><![CDATA[朝の10時までたっぷり寝ました。
+その後Youtubeや漫画を２時間もみちゃいました。
+あぁ～疲れた。寝ようかな。
+続きをみる]]></summary>
+        <author>
+            <name>#substancepainterタグ</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Marmoset Toolbagのためにサブスタンス3Dペインターを学習（サブペ学習 14日目）]]></title>
         <id>https://note.com/tsukasa_yamato/n/nc3b32c8ae9c4</id>
         <link href="https://note.com/tsukasa_yamato/n/nc3b32c8ae9c4"/>
@@ -3741,47 +3764,6 @@ The post 超リアルなデジタルヒューマンからエンバイロメン�
 The post Maya用無料プラグイン Vectorify – パスに沿って歩行方向を自由に変更し、地形に沿って自然に歩かせる事が可能 first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
         <author>
             <name>modelinghappy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenUSD usdcat とかが動かんときの対策メモ]]></title>
-        <id>https://zenn.dev/syoyo/articles/16f424f28172ec</id>
-        <link href="https://zenn.dev/syoyo/articles/16f424f28172ec"/>
-        <updated>2025-10-21T22:59:17.000Z</updated>
-        <summary type="html"><![CDATA[OpenUSD ビルドした!
-(Python binding つき)
-でも usdcat.exe しても動かん...(なんも print せん). usd と tbb の path 通しているのに...
-
- 原因
-Python DLL のパスが通っていなかった.
-
- 解決
-こーゆーときは Claude code くん使ってみましょう
-私も Claude code で原因突き止めました.
-結果としては usdcat.exe は tbb と usd の dll, そして usd dll は python binding つきでビルドしてあるので python.dll のパスも設定必要だった....]]></summary>
-        <author>
-            <name>syoyo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Blenderアドオン「Style Thief」リリース！　ソース画像の色をターゲット画像のスタイルと色に自然に一致させるツール - ニュース]]></title>
-        <id>https://cgworld.jp/flashnews/01-202510-StyleThief.html</id>
-        <link href="https://cgworld.jp/flashnews/01-202510-StyleThief.html"/>
-        <updated>2025-10-21T22:16:46.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【期間限定無料】2025年11月4日までの FAB 無料コンテンツをチェック！]]></title>
-        <id>https://cginterest.com/?p=52019</id>
-        <link href="https://cginterest.com/2025/10/22/%e3%80%90%e6%9c%9f%e9%96%93%e9%99%90%e5%ae%9a%e7%84%a1%e6%96%99%e3%80%912025%e5%b9%b411%e6%9c%884%e6%97%a5%e3%81%be%e3%81%a7%e3%81%ae-fab-%e7%84%a1%e6%96%99%e3%82%b3%e3%83%b3%e3%83%86%e3%83%b3/"/>
-        <updated>2025-10-21T22:14:00.000Z</updated>
-        <summary type="html"><![CDATA[期間限定で無料となっているEpicのマーケットプレイスFABの無料コンテンツの紹介です。 Epic Games の統合マーケットプレイスFABでは、クリエイターとのパートナーシップによって、2週間ごとに選ばれたコンテンツ […]
-【期間限定無料】2025年11月4日までの FAB 無料コンテンツをチェック！ first appeared on CGinterest.]]></summary>
-        <author>
-            <name>.me</name>
         </author>
     </entry>
 </feed>

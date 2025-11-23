@@ -2,10 +2,59 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-11-22T12:18:48.835Z</updated>
+    <updated>2025-11-23T01:00:55.814Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[オープンソースのテクスチャペイントBlenderアドオン「Ucupaint 2.4.1」リリース！ Extensions Platform対応、デカールとディスプレイスメントの高度なブレンドに対応 - ニュース]]></title>
+        <id>https://cgworld.jp/flashnews/01-202511-Ucupaint241.html</id>
+        <link href="https://cgworld.jp/flashnews/01-202511-Ucupaint241.html"/>
+        <updated>2025-11-22T23:04:40.000Z</updated>
+        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[コンポジターへ送る Movie Render Queue]]></title>
+        <id>https://zenn.dev/rosa_iceberg/articles/3c8d1190683b33</id>
+        <link href="https://zenn.dev/rosa_iceberg/articles/3c8d1190683b33"/>
+        <updated>2025-11-22T10:11:23.000Z</updated>
+        <summary type="html"><![CDATA[はじめに
+今回は Unreal Engine 5（以下 UE）でレンダーパスを書き出す方法 をまとめました。
+特に「UE をレンダラーとして活用したいコンポジター向け」に書いてみました。
+少しでも参考になれば幸いです。
+
+ 前提条件
+
+UE バージョン：5.5
+
+使用するプラグイン
+
+Movie Render Queue
+Movie Render Queue Additional Render Passes
+
+
+
+
+
+本記事で使用するサンプルプロジェクトはこちらです。
+https://www.fab.com/listings/3277687b-a06f-4ef7-a285-63b9...]]></summary>
+        <author>
+            <name>haruki</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[C言語とOpenGLで作るゲームエンジン開発(2Dレンダリング編 - Step3)]]></title>
+        <id>https://zenn.dev/chocolate_pie24/books/2d_rendering_step3</id>
+        <link href="https://zenn.dev/chocolate_pie24/books/2d_rendering_step3"/>
+        <updated>2025-11-22T05:10:49.000Z</updated>
+        <summary type="html"><![CDATA[本Bookでは、プラットフォーム基盤にイベントシステムを追加していきます。]]></summary>
+        <author>
+            <name>chocolate-pie24</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【アドオン紹介】Blender Mograph Toolbox – モーショングラフィック作成お助けキット！]]></title>
         <id>https://cgbox.jp/?p=64631</id>
@@ -3670,94 +3719,6 @@ Topaz Labs、古い写真を復元・共有可能な新ウェブアプリ「Mosa
         <link href="https://cgworld.jp/flashnews/01-202510-Blender50.html"/>
         <updated>2025-10-24T22:12:07.000Z</updated>
         <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HoudiniでゆゆゆPVの背景をフル3Dで作った振り返り(キャラ・エフェクト)]]></title>
-        <id>https://note.com/oja_bitterlife/n/n2997d668bafe</id>
-        <link href="https://note.com/oja_bitterlife/n/n2997d668bafe"/>
-        <updated>2025-10-24T10:00:37.000Z</updated>
-        <summary type="html"><![CDATA[背景の続きで１０月２２日まで制作していました。結局トータルで２５０時間ほどかけた作品になります。背景練習がメインのはずなのに、背景の制作時間が全体の１／３でしかないとか／(^o^)＼
-  
-続きをみる]]></summary>
-        <author>
-            <name>#Houdiniタグ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[UnityのShaderを使うためにコードフォーマッタを自作した話]]></title>
-        <id>https://qiita.com/suzuki_No00032/items/91610ad1b51697b716e3</id>
-        <link href="https://qiita.com/suzuki_No00032/items/91610ad1b51697b716e3"/>
-        <updated>2025-10-24T07:31:23.000Z</updated>
-        <summary type="html"><![CDATA[はじめに
-UnityにはShader（シェーダー）という、描画方法をプログラムとして記述できる言語があります。
-Shaderを使用すると、オブジェクトの質感や反射、透過、発光など、見た目を細かく制御できます。
-例えば、金属の反射をリアルに表現したり、UIボタンに立体感や光...]]></summary>
-        <author>
-            <name>Shaderタグが付けられた新着記事 - Qiita</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Blender ジオメトリノードワークショップ（2025年9月）の内容を紹介！]]></title>
-        <id>https://cginterest.com/?p=52100</id>
-        <link href="https://cginterest.com/2025/10/24/blender-%e3%82%b8%e3%82%aa%e3%83%a1%e3%83%88%e3%83%aa%e3%83%8e%e3%83%bc%e3%83%89%e3%83%af%e3%83%bc%e3%82%af%e3%82%b7%e3%83%a7%e3%83%83%e3%83%97%ef%bc%882025%e5%b9%b49%e6%9c%88%ef%bc%89%e3%81%ae/"/>
-        <updated>2025-10-24T06:19:08.000Z</updated>
-        <summary type="html"><![CDATA[2025年10月22日（現地時間）- 2025年9月に開催されたジオメトリノードのワークショップの内容が共有されました。 Blenderカンファレンス後に開催されたワークショップでは多くの設計トピックについて議論が行われ […]
-Blender ジオメトリノードワークショップ（2025年9月）の内容を紹介！ first appeared on CGinterest.]]></summary>
-        <author>
-            <name>.me</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[山﨑賢人 × 土屋太鳳 主演。Netflixドラマ『今際の国のアリス』シーズン3 の VFXメイキング映像]]></title>
-        <id>https://3dtotal.jp/?p=53359</id>
-        <link href="https://3dtotal.jp/news/53359/"/>
-        <updated>2025-10-24T06:03:23.000Z</updated>
-        <summary type="html"><![CDATA[★「今際の国のアリス」シーズン3｜VFXメイキング映像（8分7秒） ★「今際の国のアリス」シーズン3｜メイキング映像（2分14秒） 日本発の Netflix作品として全世界で最も視聴されたサバイバルアクションシリーズ「今 […]
-The post 山﨑賢人 × 土屋太鳳 主演。Netflixドラマ『今際の国のアリス』シーズン3 の VFXメイキング映像 first appeared on 3dtotal 日本語オフィシャルサイト.]]></summary>
-        <author>
-            <name>3dtotal管理人T</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[燃えあがる炎のエフェクト。VFXスタジオ MPC の炎のデモリール]]></title>
-        <id>https://3dtotal.jp/?p=53352</id>
-        <link href="https://3dtotal.jp/news/53352/"/>
-        <updated>2025-10-24T05:46:43.000Z</updated>
-        <summary type="html"><![CDATA[★MPC - Fire Demo Reel 2025（1分12秒） 燃えあがる炎のエフェクト。VFXスタジオ MPC の炎のデモリール 00:00　Notre-Dame, La Part du Feu（Notre-Dam […]
-The post 燃えあがる炎のエフェクト。VFXスタジオ MPC の炎のデモリール first appeared on 3dtotal 日本語オフィシャルサイト.]]></summary>
-        <author>
-            <name>3dtotal管理人T</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「これは"時間"への投資」Blenderアーティスト・Huseki氏が検証！ハイエンドワークステーション「HP Z2 Tower G1i Workstation」の実力 - スペシャルコンテンツ]]></title>
-        <id>https://cgworld.jp/special-feature/2510-HP-huseki.html</id>
-        <link href="https://cgworld.jp/special-feature/2510-HP-huseki.html"/>
-        <updated>2025-10-24T02:04:14.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【無料アドオン】UV Maps+ – UVマップをコピー＆ペースト]]></title>
-        <id>https://cgbox.jp/?p=64452</id>
-        <link href="https://cgbox.jp/2025/10/24/news-addon-uv-maps/"/>
-        <updated>2025-10-24T01:16:08.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは！ 今回はアドオンの「UV Maps+」を紹介します。 こちらのリンクがアドオンの商品ページになります。 UV Maps+ 「UV Maps+」は、UVマップを自由に追加・整理・コピー・並べ替えできるツールです […]]]></summary>
-        <author>
-            <name>kasahara</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[第2回 サブリメイション 後編：現場主導の学びとしくみで、挑戦できる人材を育てる - 連載]]></title>
-        <id>https://cgworld.jp/regular/202510-manabi2-2.html</id>
-        <link href="https://cgworld.jp/regular/202510-manabi2-2.html"/>
-        <updated>2025-10-24T01:00:00.000Z</updated>
-        <summary type="html"><![CDATA[技術革新が絶えないCG映像・ゲーム業界で、クリエイターはどう学び、成長していくのか。各社の教育・研修の取り組みに迫る連載企画、第2回はサブリメイションを紹介。セル調のアニメCGを得意とする同社の、現場主導の育成文化と多彩な学びに迫る。後編では、メンター制度や現場主導の勉強会、スキル支援制度など、配属後も学び続けられる育成環境について解説しよう。]]></summary>
         <author>
             <name>CGWORLD</name>
         </author>

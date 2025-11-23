@@ -2,10 +2,64 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-11-23T03:52:52.889Z</updated>
+    <updated>2025-11-23T08:13:53.507Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Lutaya Viewport Camera – 角度のある面を真上から並行投影で見て、回転・ビュー保存もできるモデリング効率化無料アドオン]]></title>
+        <id>https://modelinghappy.com/?p=65647</id>
+        <link href="https://modelinghappy.com/archives/65647"/>
+        <updated>2025-11-23T07:04:51.000Z</updated>
+        <summary type="html"><![CDATA[Lutaya Viewport Camera Lutaya Viewport CameraはBlenderでビューポートカメラ位置を保存・管理し、ワンクリックで素早く切り替えられるアドオンです。 例えば、ある角度のビュー
+The post Lutaya Viewport Camera – 角度のある面を真上から並行投影で見て、回転・ビュー保存もできるモデリング効率化無料アドオン first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
+        <author>
+            <name>modelinghappy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BlenderからエクスポートしたGLBモデルのライト調節]]></title>
+        <id>https://zenn.dev/hokugo_wd/articles/ac0186361c0f1a</id>
+        <link href="https://zenn.dev/hokugo_wd/articles/ac0186361c0f1a"/>
+        <updated>2025-11-23T04:19:21.000Z</updated>
+        <summary type="html"><![CDATA[はじめに
+Blenderが作成した3DモデルをThree.jsで使用する際、シーンを思ったように表示できないことが多々あります。
+この記事ではライト強度調節と環境光追加について説明します。
+
+ 環境
+Blender3.4
+
+ 問題の例
+エクスポートしたいモデル(サンライトの強さ: 1)
+
+出力したglbファイルをそのままThree.js表示
+ライトが強すぎて真っ白になっています
+
+
+ blenderからエクスポート(今回はglb形式)
+gltfのエクスポート設定で内容>Punctualライトをチェックon
+
+
+ サンライトの強度調整
+GLBファイルに含まれるLightオブジェク...]]></summary>
+        <author>
+            <name>hokugo_wd</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[41th ☕]]></title>
+        <id>https://note.com/hyeon_1225/n/naafa17493a76</id>
+        <link href="https://note.com/hyeon_1225/n/naafa17493a76"/>
+        <updated>2025-11-23T03:54:01.000Z</updated>
+        <summary type="html"><![CDATA[substance painter を学んだ！ 
+思い通りにテクスチャを作成できるなんて、すごく面白かった。
+
+
+続きをみる]]></summary>
+        <author>
+            <name>#substancepainterタグ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Udemyブラックフライデーセール開催！Blender・Maya・UE5・Unity講座が年に1度の最大85%オフ！]]></title>
         <id>https://modelinghappy.com/?p=65632</id>

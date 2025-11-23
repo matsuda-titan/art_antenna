@@ -1691,6 +1691,16 @@
       "siteUrl": "https://modelinghappy.com",
       "articles": [
         {
+          "id": "https://modelinghappy.com/?p=65647",
+          "author": "modelinghappy",
+          "description": "Lutaya Viewport Camera Lutaya Viewport CameraはBlenderでビューポートカメラ位置を保存・管理し、ワンクリックで素早く切り替えられるアドオンです。 例えば、ある角度のビュー\nThe post Lutaya Viewport Camera – 角度のある面を真上から並行投影で見て、回転・ビュー保存もできるモデリング効率化無料アドオン first appeared on 3DCG最新情報サイト MODELING HAPPY.",
+          "link": "https://modelinghappy.com/archives/65647",
+          "publishedOn": "2025-11-23T07:04:51.000Z",
+          "wordCount": 3717,
+          "title": "Lutaya Viewport Camera – 角度のある面を真上から並行投影で見て、回転・ビュー保存もできるモデリング効率化無料アドオン",
+          "imageUrl": "https://modelinghappy.com/wp-content/uploads/2025/11/20251123_lutaya_viewpoert_01.jpg"
+        },
+        {
           "id": "https://modelinghappy.com/?p=65632",
           "author": "modelinghappy",
           "description": "Udemyブラックフライデー セール Blender、Maya、ZBrush、Unreal Engine、Unityなどの人気ソフトを学べるUdemyのチュートリアル講座が、ブラックフライデーセール（11月17日～28日\nThe post Udemyブラックフライデーセール開催！Blender・Maya・UE5・Unity講座が年に1度の最大85%オフ！ first appeared on 3DCG最新情報サイト MODELING HAPPY.",
@@ -2642,6 +2652,21 @@
       "siteUrl": "https://zenn.dev/topics/3dcg",
       "articles": [
         {
+          "id": "https://zenn.dev/hokugo_wd/articles/ac0186361c0f1a",
+          "author": "hokugo_wd",
+          "description": "はじめに\nBlenderが作成した3DモデルをThree.jsで使用する際、シーンを思ったように表示できないことが多々あります。\nこの記事ではライト強度調節と環境光追加について説明します。\n\n 環境\nBlender3.4\n\n 問題の例\nエクスポートしたいモデル(サンライトの強さ: 1)\n\n出力したglbファイルをそのままThree.js表示\nライトが強すぎて真っ白になっています\n\n\n blenderからエクスポート(今回はglb形式)\ngltfのエクスポート設定で内容>Punctualライトをチェックon\n\n\n サンライトの強度調整\nGLBファイルに含まれるLightオブジェク...",
+          "link": "https://zenn.dev/hokugo_wd/articles/ac0186361c0f1a",
+          "publishedOn": "2025-11-23T04:19:21.000Z",
+          "wordCount": 817,
+          "title": "BlenderからエクスポートしたGLBモデルのライト調節",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--bUOoRjqM--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Blender%25E3%2581%258B%25E3%2582%2589%25E3%2582%25A8%25E3%2582%25AF%25E3%2582%25B9%25E3%2583%259D%25E3%2583%25BC%25E3%2583%2588%25E3%2581%2597%25E3%2581%259FGLB%25E3%2583%25A2%25E3%2583%2587%25E3%2583%25AB%25E3%2581%25AE%25E3%2583%25A9%25E3%2582%25A4%25E3%2583%2588%25E8%25AA%25BF%25E7%25AF%2580%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:hokugo_wd%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzc3NTlkNmI1OGEuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
+            "length": "0",
+            "type": "false"
+          },
+          "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--bUOoRjqM--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Blender%25E3%2581%258B%25E3%2582%2589%25E3%2582%25A8%25E3%2582%25AF%25E3%2582%25B9%25E3%2583%259D%25E3%2583%25BC%25E3%2583%2588%25E3%2581%2597%25E3%2581%259FGLB%25E3%2583%25A2%25E3%2583%2587%25E3%2583%25AB%25E3%2581%25AE%25E3%2583%25A9%25E3%2582%25A4%25E3%2583%2588%25E8%25AA%25BF%25E7%25AF%2580%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:hokugo_wd%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzc3NTlkNmI1OGEuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"
+        },
+        {
           "id": "https://zenn.dev/rosa_iceberg/articles/3c8d1190683b33",
           "author": "haruki",
           "description": "はじめに\n今回は Unreal Engine 5（以下 UE）でレンダーパスを書き出す方法 をまとめました。\n特に「UE をレンダラーとして活用したいコンポジター向け」に書いてみました。\n少しでも参考になれば幸いです。\n\n 前提条件\n\nUE バージョン：5.5\n\n使用するプラグイン\n\nMovie Render Queue\nMovie Render Queue Additional Render Passes\n\n\n\n\n\n本記事で使用するサンプルプロジェクトはこちらです。\nhttps://www.fab.com/listings/3277687b-a06f-4ef7-a285-63b9...",
@@ -3257,6 +3282,16 @@
       "feedUrl": "https://note.com/hashtag/substancepainter/rss",
       "siteUrl": "https://note.com/hashtag/substancepainter",
       "articles": [
+        {
+          "id": "https://note.com/hyeon_1225/n/naafa17493a76",
+          "author": null,
+          "description": "substance painter を学んだ！ \n思い通りにテクスチャを作成できるなんて、すごく面白かった。\n\n\n続きをみる",
+          "link": "https://note.com/hyeon_1225/n/naafa17493a76",
+          "publishedOn": "2025-11-23T03:54:01.000Z",
+          "wordCount": 2346,
+          "title": "41th ☕",
+          "imageUrl": "https://assets.st-note.com/production/uploads/images/231357248/rectangle_large_type_2_1f42cb93db3d92648c745d309318576f.png?width=800"
+        },
         {
           "id": "https://note.com/haru_shakuya/n/n96953b85b819",
           "author": null,

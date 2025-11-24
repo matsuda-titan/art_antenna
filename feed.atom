@@ -2,10 +2,202 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-11-23T12:18:25.976Z</updated>
+    <updated>2025-11-24T00:57:45.240Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[[Maya] HLSLでlightの情報を自動取得する]]></title>
+        <id>https://zenn.dev/tachikure/articles/1c9fa3596866c5</id>
+        <link href="https://zenn.dev/tachikure/articles/1c9fa3596866c5"/>
+        <updated>2025-11-24T00:07:05.000Z</updated>
+        <summary type="html"><![CDATA[ライトを手動で取得する
+ライト用のセマンティクスを使用して変数宣言すると、ライトの情報を手動で取得できるUIが作成される。
+float3 light_dir: Direction; // 型 変数名: セマンティクス;
+
+
+プルダウンから選んだライトをバインドでき、変数にバインドしたライトの情報が入る。
+
+主なライト用のセマンティクス
+
+
+
+セマンティクス
+
+型
+
+
+
+
+Direction
+方向
+float3/4
+
+
+Position
+位置
+float3/4
+
+
+LightIntensity
+強度
+float
+
+
+LightColor
+色
+float3/4
+
+
+
+その他のライト用の主...]]></summary>
+        <author>
+            <name>たちくれ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Maya] HLSLでlightの情報を自動取得する]]></title>
+        <id>https://zenn.dev/tachikure/articles/1c9fa3596866c5</id>
+        <link href="https://zenn.dev/tachikure/articles/1c9fa3596866c5"/>
+        <updated>2025-11-24T00:07:05.000Z</updated>
+        <summary type="html"><![CDATA[ライトを手動で取得する
+ライト用のセマンティクスを使用して変数宣言すると、ライトの情報を手動で取得できるUIが作成される。
+float3 light_dir: Direction; // 型 変数名: セマンティクス;
+
+
+プルダウンから選んだライトをバインドでき、変数にバインドしたライトの情報が入る。
+
+主なライト用のセマンティクス
+
+
+
+セマンティクス
+
+型
+
+
+
+
+Direction
+方向
+float3/4
+
+
+Position
+位置
+float3/4
+
+
+LightIntensity
+強度
+float
+
+
+LightColor
+色
+float3/4
+
+
+
+その他のライト用の主...]]></summary>
+        <author>
+            <name>たちくれ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Maya] HLSLでlightの情報を自動取得する]]></title>
+        <id>https://zenn.dev/tachikure/articles/1c9fa3596866c5</id>
+        <link href="https://zenn.dev/tachikure/articles/1c9fa3596866c5"/>
+        <updated>2025-11-24T00:07:05.000Z</updated>
+        <summary type="html"><![CDATA[ライトを手動で取得する
+ライト用のセマンティクスを使用して変数宣言すると、ライトの情報を手動で取得できるUIが作成される。
+float3 light_dir: Direction; // 型 変数名: セマンティクス;
+
+
+プルダウンから選んだライトをバインドでき、変数にバインドしたライトの情報が入る。
+
+主なライト用のセマンティクス
+
+
+
+セマンティクス
+
+型
+
+
+
+
+Direction
+方向
+float3/4
+
+
+Position
+位置
+float3/4
+
+
+LightIntensity
+強度
+float
+
+
+LightColor
+色
+float3/4
+
+
+
+その他のライト用の主...]]></summary>
+        <author>
+            <name>たちくれ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google DeepMind、バーチャル3D空間用AIエージェント「SIMA 2」発表！　Gemini駆動、インタラクティブな環境で自律的に思考・理解・行動し、人間と共に学習 - ニュース]]></title>
+        <id>https://cgworld.jp/flashnews/01-202511-SIMA2.html</id>
+        <link href="https://cgworld.jp/flashnews/01-202511-SIMA2.html"/>
+        <updated>2025-11-23T21:58:44.000Z</updated>
+        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Developing Procedural Animation Tools in Maya Using Python — Loop System & AI Motion Sync]]></title>
+        <id>https://qiita.com/Hamed-Behrouzi/items/e445c67977443032b421</id>
+        <link href="https://qiita.com/Hamed-Behrouzi/items/e445c67977443032b421"/>
+        <updated>2025-11-23T15:56:11.000Z</updated>
+        <summary type="html"><![CDATA[Developing Procedural Animation Tools in Maya Using Python
+Loop System, AI Motion Sync, and Intelligent Motion Drivers
+Hello everyone,
+My...]]></summary>
+        <author>
+            <name>mayaタグが付けられた新着記事 - Qiita</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【DirectX11】三角形を描いてみよう!]]></title>
+        <id>https://qiita.com/tsukino_/items/3bca0e3c3ae87ea06f0b</id>
+        <link href="https://qiita.com/tsukino_/items/3bca0e3c3ae87ea06f0b"/>
+        <updated>2025-11-23T14:06:07.000Z</updated>
+        <summary type="html"><![CDATA[前回はDirextXの初期化と画面のクリア方法を紹介しました。
+
+今回はようやく、HLSLというシェーダー言語を使用して、三角形を描画してみたいと思います。
+
+前提知識
+
+C++の基礎構文を理解している
+
+DirectXの初期化を行える
+
+コード例
+
+三角形を描画す...]]></summary>
+        <author>
+            <name>Shaderタグが付けられた新着記事 - Qiita</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[学生CGトライアル「WHO'S NEXT？」2025年第2弾　背景・プロップ部門　結果発表！ 優秀賞&審査員講評コメント一挙公開 - 連載]]></title>
         <id>https://cgworld.jp/regular/whosnextbg2025v2.html</id>
@@ -3772,43 +3964,6 @@ https://thebookofshaders.com/?lan=jp...]]></summary>
 The post 【1日限定】SUPER HIVEで無料アドオン＆アセット16種類＋開発者商品が23%オフになる特別キャンペーン開催！ first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
         <author>
             <name>modelinghappy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ポストエフェクト祭り。React/ポストプロセスを触ってカスタムシェーダーの作り方をざっくり理解してみよう]]></title>
-        <id>https://qiita.com/testkun08080/items/027dd68397f1fb18f8b7</id>
-        <link href="https://qiita.com/testkun08080/items/027dd68397f1fb18f8b7"/>
-        <updated>2025-10-25T06:22:25.000Z</updated>
-        <summary type="html"><![CDATA[はじめに
-もう九月か。。。
-独り立ちして約１年ぐらい経とうとしている中、ポートフォリオページがまだUnder Maintenanceなので、
-重い腰を上げて、ポートフォリオページを作成することにしました。
-そこで、大好きなシェーダーをポートフォリオにもモリモリ使おうと思い...]]></summary>
-        <author>
-            <name>Shaderタグが付けられた新着記事 - Qiita</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Topaz Labs、古い写真を復元・共有可能な新ウェブアプリ「Mosaic」を発表！]]></title>
-        <id>https://cginterest.com/?p=52130</id>
-        <link href="https://cginterest.com/2025/10/25/topaz-labs%e3%80%81%e5%8f%a4%e3%81%84%e5%86%99%e7%9c%9f%e3%82%92%e5%be%a9%e5%85%83%e3%83%bb%e5%85%b1%e6%9c%89%e5%8f%af%e8%83%bd%e3%81%aa%e6%96%b0%e3%82%a6%e3%82%a7%e3%83%96%e3%82%a2%e3%83%97%e3%83%aa/"/>
-        <updated>2025-10-25T05:37:43.000Z</updated>
-        <summary type="html"><![CDATA[Topaz Labsは、新しいツール「Mosaic」の正式な提供開始を発表しました。 「Mosaic」とは Mosaicは、AIを使用して画像のアップスケール、強調、復元を行うWebベースのツールです。古い写真、スキャン […]
-Topaz Labs、古い写真を復元・共有可能な新ウェブアプリ「Mosaic」を発表！ first appeared on CGinterest.]]></summary>
-        <author>
-            <name>.me</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【VRChat】スマホやタブレットを使ったワールドデバッグの注意点]]></title>
-        <id>https://qiita.com/dimebag29/items/9cff0f17a58eadb68a66</id>
-        <link href="https://qiita.com/dimebag29/items/9cff0f17a58eadb68a66"/>
-        <updated>2025-10-25T02:41:05.000Z</updated>
-        <summary type="html"><![CDATA[概要
-スマホやタブレットを使って、VRChatのモバイルプラットフォームのワールドのシェーダーのデバッグは完全に行えないので注意してください。
-同じモバイル端末でも、スマホやタブレット(単眼)だと普通に見えるが、いざQuest単機(複眼)で入ると見えないorバグるシェーダ...]]></summary>
-        <author>
-            <name>Shaderタグが付けられた新着記事 - Qiita</name>
         </author>
     </entry>
 </feed>

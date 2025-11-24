@@ -783,6 +783,16 @@
       "siteUrl": "https://cgworld.jp/",
       "articles": [
         {
+          "id": "https://cgworld.jp/flashnews/01-202511-SIMA2.html",
+          "author": null,
+          "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
+          "link": "https://cgworld.jp/flashnews/01-202511-SIMA2.html",
+          "publishedOn": "2025-11-23T21:58:44.000Z",
+          "wordCount": 902,
+          "title": "Google DeepMind、バーチャル3D空間用AIエージェント「SIMA 2」発表！　Gemini駆動、インタラクティブな環境で自律的に思考・理解・行動し、人間と共に学習 - ニュース",
+          "imageUrl": "https://cgworld.jp/flashnews/assets_c/2025/11/SIMA2-01-thumb-1920x1080-76636.jpg"
+        },
+        {
           "id": "https://cgworld.jp/regular/whosnextbg2025v2.html",
           "author": null,
           "description": "",
@@ -2470,6 +2480,21 @@
       "siteUrl": "https://zenn.dev/topics/shader",
       "articles": [
         {
+          "id": "https://zenn.dev/tachikure/articles/1c9fa3596866c5",
+          "author": "たちくれ",
+          "description": "ライトを手動で取得する\nライト用のセマンティクスを使用して変数宣言すると、ライトの情報を手動で取得できるUIが作成される。\nfloat3 light_dir: Direction; // 型 変数名: セマンティクス;\n\n\nプルダウンから選んだライトをバインドでき、変数にバインドしたライトの情報が入る。\n\n主なライト用のセマンティクス\n\n\n\nセマンティクス\n\n型\n\n\n\n\nDirection\n方向\nfloat3/4\n\n\nPosition\n位置\nfloat3/4\n\n\nLightIntensity\n強度\nfloat\n\n\nLightColor\n色\nfloat3/4\n\n\n\nその他のライト用の主...",
+          "link": "https://zenn.dev/tachikure/articles/1c9fa3596866c5",
+          "publishedOn": "2025-11-24T00:07:05.000Z",
+          "wordCount": 870,
+          "title": "[Maya] HLSLでlightの情報を自動取得する",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--WEKmbENO--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%255BMaya%255D%2520HLSL%25E3%2581%25A7light%25E3%2581%25AE%25E6%2583%2585%25E5%25A0%25B1%25E3%2582%2592%25E8%2587%25AA%25E5%258B%2595%25E5%258F%2596%25E5%25BE%2597%25E3%2581%2599%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%259F%25E3%2581%25A1%25E3%2581%258F%25E3%2582%258C%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzQwZjczMjE1OTcuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
+            "length": "0",
+            "type": "false"
+          },
+          "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--WEKmbENO--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%255BMaya%255D%2520HLSL%25E3%2581%25A7light%25E3%2581%25AE%25E6%2583%2585%25E5%25A0%25B1%25E3%2582%2592%25E8%2587%25AA%25E5%258B%2595%25E5%258F%2596%25E5%25BE%2597%25E3%2581%2599%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%259F%25E3%2581%25A1%25E3%2581%258F%25E3%2582%258C%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzQwZjczMjE1OTcuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"
+        },
+        {
           "id": "https://zenn.dev/tachikure/articles/d7e77385549637",
           "author": "たちくれ",
           "description": "MayaでGLSLシェーダーを表示するまでの手順。\nHLSL編 →　https://zenn.dev/tachikure/articles/499b212e9fe6c9\nOSL編  →　https://zenn.dev/tachikure/articles/807bb71b0feef0\n\n シェーダーファイルの用意\n拡張子を.ogsfxにしたGLSLファイルを用意する。\n赤単色のシンプルなシェーダー ↓ ↓ ↓\n\nsample.ogsfx\n// 変数宣言\nuniform mat4 WVP_mat: WorldViewProjection;\n\n// アトリビュート\nattribute VS...",
@@ -2729,6 +2754,21 @@
       "siteUrl": "https://zenn.dev/topics/maya",
       "articles": [
         {
+          "id": "https://zenn.dev/tachikure/articles/1c9fa3596866c5",
+          "author": "たちくれ",
+          "description": "ライトを手動で取得する\nライト用のセマンティクスを使用して変数宣言すると、ライトの情報を手動で取得できるUIが作成される。\nfloat3 light_dir: Direction; // 型 変数名: セマンティクス;\n\n\nプルダウンから選んだライトをバインドでき、変数にバインドしたライトの情報が入る。\n\n主なライト用のセマンティクス\n\n\n\nセマンティクス\n\n型\n\n\n\n\nDirection\n方向\nfloat3/4\n\n\nPosition\n位置\nfloat3/4\n\n\nLightIntensity\n強度\nfloat\n\n\nLightColor\n色\nfloat3/4\n\n\n\nその他のライト用の主...",
+          "link": "https://zenn.dev/tachikure/articles/1c9fa3596866c5",
+          "publishedOn": "2025-11-24T00:07:05.000Z",
+          "wordCount": 870,
+          "title": "[Maya] HLSLでlightの情報を自動取得する",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--WEKmbENO--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%255BMaya%255D%2520HLSL%25E3%2581%25A7light%25E3%2581%25AE%25E6%2583%2585%25E5%25A0%25B1%25E3%2582%2592%25E8%2587%25AA%25E5%258B%2595%25E5%258F%2596%25E5%25BE%2597%25E3%2581%2599%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%259F%25E3%2581%25A1%25E3%2581%258F%25E3%2582%258C%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzQwZjczMjE1OTcuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
+            "length": "0",
+            "type": "false"
+          },
+          "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--WEKmbENO--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%255BMaya%255D%2520HLSL%25E3%2581%25A7light%25E3%2581%25AE%25E6%2583%2585%25E5%25A0%25B1%25E3%2582%2592%25E8%2587%25AA%25E5%258B%2595%25E5%258F%2596%25E5%25BE%2597%25E3%2581%2599%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%259F%25E3%2581%25A1%25E3%2581%258F%25E3%2582%258C%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzQwZjczMjE1OTcuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"
+        },
+        {
           "id": "https://zenn.dev/tachikure/articles/e229c5d954e6f7",
           "author": "たちくれ",
           "description": "変換行列の取得\nノードエディタ等で[transform]ノードを表示する。\n〇〇 Matrixという名前のアトリビュートからそれぞれの変換行列を取得できる。\nただし、配列になっているもの(画像青枠)もあるので、行列アトリビュート横の＋ボタンを押して展開する。\n\n\n 行列の作成\n\n SRTから作成\n[composeMatrix]を作成し、TranslateやRotateを入力につなぐ。\nまたは、Attribute Editorで直接Input Propertiesを入力する。\nOutput Matrixが作成された行列を出力する。\n\n!\nTransformノードでShearを表示したい...",
@@ -2815,7 +2855,18 @@
       "title": "mayaタグが付けられた新着記事 - Qiita",
       "feedUrl": "https://qiita.com/tags/maya/feed",
       "siteUrl": "https://qiita.com",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://qiita.com/Hamed-Behrouzi/items/e445c67977443032b421",
+          "author": null,
+          "description": "Developing Procedural Animation Tools in Maya Using Python\nLoop System, AI Motion Sync, and Intelligent Motion Drivers\nHello everyone,\nMy...",
+          "link": "https://qiita.com/Hamed-Behrouzi/items/e445c67977443032b421",
+          "publishedOn": "2025-11-23T15:56:11.000Z",
+          "wordCount": 1142,
+          "title": "Developing Procedural Animation Tools in Maya Using Python — Loop System & AI Motion Sync",
+          "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRmxoMy5nb29nbGV1c2VyY29udGVudC5jb20lMkZhJTJGQUNnOG9jS3ZMV283cFZqRVNyQmJkdVdYUGdGUW83OXlHR3l1N1JWT2lUUzNpYTBVTzU2Y2pBJTNEczk2LWM_aXhsaWI9cmItNC4wLjAmYXI9MSUzQTEmZml0PWNyb3AmbWFzaz1lbGxpcHNlJmJnPUZGRkZGRiZmbT1wbmczMiZzPWQ5YzQ4MzRjYjE1ZmMxMGUwNzU1NDZkODdlM2UzMTJk%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D473cf785fa900564d32c7c8ecf90c6c3?ixlib=rb-4.0.0&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9RGV2ZWxvcGluZyUyMFByb2NlZHVyYWwlMjBBbmltYXRpb24lMjBUb29scyUyMGluJTIwTWF5YSUyMFVzaW5nJTIwUHl0aG9uJTIwJUUyJTgwJTk0JTIwTG9vcCUyMFN5c3RlbSUyMCUyNiUyMEFJJTIwTW90aW9uJTIwJUUyJTgwJUE2JnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9Y2YwOTBkOTNmODA3NjY1ZjExY2ZmZjMzZDIxMjVjZWU&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBIYW1lZC1CZWhyb3V6aSZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPTgxMWQ5MDBkMjI0MWFmNDRlMzc3YTE2MTEwNDU2OTlh&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=a7ca84721354e447af2e8109c160686f"
+        }
+      ]
     },
     {
       "title": "Zennの「substancepainter」のフィード",
@@ -2893,6 +2944,16 @@
       "siteUrl": "https://qiita.com",
       "articles": [
         {
+          "id": "https://qiita.com/tsukino_/items/3bca0e3c3ae87ea06f0b",
+          "author": null,
+          "description": "前回はDirextXの初期化と画面のクリア方法を紹介しました。\n\n今回はようやく、HLSLというシェーダー言語を使用して、三角形を描画してみたいと思います。\n\n前提知識\n\nC++の基礎構文を理解している\n\nDirectXの初期化を行える\n\nコード例\n\n三角形を描画す...",
+          "link": "https://qiita.com/tsukino_/items/3bca0e3c3ae87ea06f0b",
+          "publishedOn": "2025-11-23T14:06:07.000Z",
+          "wordCount": 9756,
+          "title": "【DirectX11】三角形を描いてみよう!",
+          "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYzOTQzMTQ4JTJGZGJhOTI4MmI5OWFlNGQ4NmFjYjI4MDk1NGVhNGFjYzI2ZGYyODM0ZSUyRmxhcmdlLnBuZyUzRjE3NTAxNDEwMzM_aXhsaWI9cmItNC4wLjAmYXI9MSUzQTEmZml0PWNyb3AmbWFzaz1lbGxpcHNlJmJnPUZGRkZGRiZmbT1wbmczMiZzPTQ1M2E1NzFkNDM5NTVkNmIxNzAzY2YyYjkyNzhiZDhh%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3Dc8735c3a4f967a68e5aaca8ce71d2d6c?ixlib=rb-4.0.0&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9JUUzJTgwJTkwRGlyZWN0WDExJUUzJTgwJTkxJUU0JUI4JTg5JUU4JUE3JTkyJUU1JUJEJUEyJUUzJTgyJTkyJUU2JThGJThGJUUzJTgxJTg0JUUzJTgxJUE2JUUzJTgxJUJGJUUzJTgyJTg4JUUzJTgxJTg2JTIxJnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9NGU3NzRkZjc4MWE4ZTU2MGZkNzU3OGJlODE1ZjRhMmI&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDB0c3VraW5vXyZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPWQ2NTBhYWVjYzRmZjFlYWYzNzI5ODdmN2JlZDBlZDQ1&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=c9ba61c884810896c1a99bddf61ebcd3"
+        },
+        {
           "id": "https://qiita.com/testkun08080/items/8601df90fbd4295cff3a",
           "author": null,
           "description": "はじめに\nもう九月か。。。\n独り立ちして約１年ぐらい経とうとしている中、ポートフォリオページがまだUnder Maintenanceなので、\n重い腰を上げて、ポートフォリオページを作成することにしました。\nそこで、大好きなシェーダーをポートフォリオにもモリモリ使おうと思い...",
@@ -2941,26 +3002,6 @@
           "wordCount": 2185,
           "title": "【Unity】Custom Render Texture で存在しない Pass を参照するとクラッシュする",
           "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYzODI1NzczJTJGZTUzOGI2MGJkYTY3M2ZhOWQwMTdhMzg5NThlNDhiM2ZhOGYwMzg5MyUyRnhfbGFyZ2UucG5nJTNGMTcxOTQ5Njg2OT9peGxpYj1yYi00LjAuMCZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9MzczMjIwMmUxZDFmMDQyNTkwNmVmYzJlMTUxOTk2NDE%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D2c44d83ab4a01f8bb86566291a9414a7?ixlib=rb-4.0.0&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9JUUzJTgwJTkwVW5pdHklRTMlODAlOTFDdXN0b20lMjBSZW5kZXIlMjBUZXh0dXJlJTIwJUUzJTgxJUE3JUU1JUFEJTk4JUU1JTlDJUE4JUUzJTgxJTk3JUUzJTgxJUFBJUUzJTgxJTg0JTIwUGFzcyUyMCVFMyU4MiU5MiVFNSU4RiU4MiVFNyU4NSVBNyVFMyU4MSU5OSVFMyU4MiU4QiVFMyU4MSVBOCVFMyU4MiVBRiVFMyU4MyVBOSVFMyU4MyU4MyVFMyU4MiVCNyVFMyU4MyVBNSVFMyU4MSU5OSVFMyU4MiU4QiZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnR4dC1wYWQ9MCZzPTlkNTM5YTA3OGUzMjJhZTgzY2JjOTE0OTcwYTEzMjBk&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDB5dXJpX3RzdWtpbWkmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz1hNTk1ZWExZTNjN2EyODM1Y2E2YThhNjg4NWI1NzdjNg&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=2a663c268a65442fe404874e8094cf9b"
-        },
-        {
-          "id": "https://qiita.com/testkun08080/items/027dd68397f1fb18f8b7",
-          "author": null,
-          "description": "はじめに\nもう九月か。。。\n独り立ちして約１年ぐらい経とうとしている中、ポートフォリオページがまだUnder Maintenanceなので、\n重い腰を上げて、ポートフォリオページを作成することにしました。\nそこで、大好きなシェーダーをポートフォリオにもモリモリ使おうと思い...",
-          "link": "https://qiita.com/testkun08080/items/027dd68397f1fb18f8b7",
-          "publishedOn": "2025-10-25T06:22:25.000Z",
-          "wordCount": 4569,
-          "title": "ポストエフェクト祭り。React/ポストプロセスを触ってカスタムシェーダーの作り方をざっくり理解してみよう",
-          "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRmF2YXRhcnMuZ2l0aHVidXNlcmNvbnRlbnQuY29tJTJGdSUyRjE1NDA0NjkwNiUzRnYlM0Q0P2l4bGliPXJiLTQuMC4wJmFyPTElM0ExJmZpdD1jcm9wJm1hc2s9ZWxsaXBzZSZiZz1GRkZGRkYmZm09cG5nMzImcz1lM2JiMGFkZTc1ZmM2N2E0YTdkMzIzNzg3MTc5YjY3YQ%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D20b0d26fad40f503ca8ee9dd012d090a?ixlib=rb-4.0.0&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9JUUzJTgzJTlEJUUzJTgyJUI5JUUzJTgzJTg4JUUzJTgyJUE4JUUzJTgzJTk1JUUzJTgyJUE3JUUzJTgyJUFGJUUzJTgzJTg4JUU3JUE1JUFEJUUzJTgyJThBJUUzJTgwJTgyUmVhY3QlMkYlRTMlODMlOUQlRTMlODIlQjklRTMlODMlODglRTMlODMlOTclRTMlODMlQUQlRTMlODIlQkIlRTMlODIlQjklRTMlODIlOTIlRTglQTclQTYlRTMlODElQTMlRTMlODElQTYlRTMlODIlQUIlRTMlODIlQjklRTMlODIlQkYlRTMlODMlQTAlRTMlODIlQjclRTMlODIlQTclRTMlODMlQkMlRTMlODMlODAlRTMlODMlQkMlRTMlODElQUUlRTQlQkQlOUMlRTMlODIlOEElRTYlOTYlQjklRTMlODIlOTIlRTMlODElOTYlRTMlODElQTMlRTMlODElOEYlRTMlODIlOEElRTclOTAlODYlRTglQTclQTMlRTMlODElOTclRTMlODElQTYlRTMlODElQkYlRTMlODIlODglRTMlODElODYmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz03YjQ1ZTJkNzI0ZGJmZGFkMmE0ZjkwODBiOGQ2M2VjZQ&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDB0ZXN0a3VuMDgwODAmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz00ZTVmMDE5YmEyY2ZmMDM3YmJlMjA2YTE4Y2IzYmM3Yg&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=bbaba38469b280a097f7694d0d8ec23b"
-        },
-        {
-          "id": "https://qiita.com/dimebag29/items/9cff0f17a58eadb68a66",
-          "author": null,
-          "description": "概要\nスマホやタブレットを使って、VRChatのモバイルプラットフォームのワールドのシェーダーのデバッグは完全に行えないので注意してください。\n同じモバイル端末でも、スマホやタブレット(単眼)だと普通に見えるが、いざQuest単機(複眼)で入ると見えないorバグるシェーダ...",
-          "link": "https://qiita.com/dimebag29/items/9cff0f17a58eadb68a66",
-          "publishedOn": "2025-10-25T02:41:05.000Z",
-          "wordCount": 621,
-          "title": "【VRChat】スマホやタブレットを使ったワールドデバッグの注意点",
-          "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYzODY0ODEyJTJGZmM3Y2NiZTRjYTk1ZWVlMjdlZDA4MDE2ZDkyYWJhZjE5NzVlZWVhMiUyRmxhcmdlLnBuZyUzRjE3MjQwNDI4MDE_aXhsaWI9cmItNC4wLjAmYXI9MSUzQTEmZml0PWNyb3AmbWFzaz1lbGxpcHNlJmJnPUZGRkZGRiZmbT1wbmczMiZzPTk0NjU2ZWFiNGY1NmU3YmQ2MjliNWViMWQyNDAwYWZj%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D1d30de1d595abebe4835c6e6b8e2c5b7?ixlib=rb-4.0.0&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9JUUzJTgwJTkwVlJDaGF0JUUzJTgwJTkxJUUzJTgyJUI5JUUzJTgzJTlFJUUzJTgzJTlCJUUzJTgyJTg0JUUzJTgyJUJGJUUzJTgzJTk2JUUzJTgzJUFDJUUzJTgzJTgzJUUzJTgzJTg4JUUzJTgyJTkyJUU0JUJEJUJGJUUzJTgxJUEzJUUzJTgxJTlGJUUzJTgzJUFGJUUzJTgzJUJDJUUzJTgzJUFCJUUzJTgzJTg5JUUzJTgzJTg3JUUzJTgzJTkwJUUzJTgzJTgzJUUzJTgyJUIwJUUzJTgxJUFFJUU2JUIzJUE4JUU2JTg0JThGJUU3JTgyJUI5JnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9ZjM5NWRiZDQwZjUyN2M0NzRhZjZkYTMwYTdhNDc1NTg&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBkaW1lYmFnMjkmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz0yNTRmYzk3MzdhM2JhNDFkMDE2YzRkMTczOTY4NmIxMQ&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=1f5eba37cd44a3d2bb74dc0efc4b1fff"
         }
       ]
     },
@@ -3015,6 +3056,21 @@
       "feedUrl": "https://zenn.dev/topics/hlsl/feed",
       "siteUrl": "https://zenn.dev/topics/hlsl",
       "articles": [
+        {
+          "id": "https://zenn.dev/tachikure/articles/1c9fa3596866c5",
+          "author": "たちくれ",
+          "description": "ライトを手動で取得する\nライト用のセマンティクスを使用して変数宣言すると、ライトの情報を手動で取得できるUIが作成される。\nfloat3 light_dir: Direction; // 型 変数名: セマンティクス;\n\n\nプルダウンから選んだライトをバインドでき、変数にバインドしたライトの情報が入る。\n\n主なライト用のセマンティクス\n\n\n\nセマンティクス\n\n型\n\n\n\n\nDirection\n方向\nfloat3/4\n\n\nPosition\n位置\nfloat3/4\n\n\nLightIntensity\n強度\nfloat\n\n\nLightColor\n色\nfloat3/4\n\n\n\nその他のライト用の主...",
+          "link": "https://zenn.dev/tachikure/articles/1c9fa3596866c5",
+          "publishedOn": "2025-11-24T00:07:05.000Z",
+          "wordCount": 870,
+          "title": "[Maya] HLSLでlightの情報を自動取得する",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--WEKmbENO--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%255BMaya%255D%2520HLSL%25E3%2581%25A7light%25E3%2581%25AE%25E6%2583%2585%25E5%25A0%25B1%25E3%2582%2592%25E8%2587%25AA%25E5%258B%2595%25E5%258F%2596%25E5%25BE%2597%25E3%2581%2599%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%259F%25E3%2581%25A1%25E3%2581%258F%25E3%2582%258C%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzQwZjczMjE1OTcuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
+            "length": "0",
+            "type": "false"
+          },
+          "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--WEKmbENO--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%255BMaya%255D%2520HLSL%25E3%2581%25A7light%25E3%2581%25AE%25E6%2583%2585%25E5%25A0%25B1%25E3%2582%2592%25E8%2587%25AA%25E5%258B%2595%25E5%258F%2596%25E5%25BE%2597%25E3%2581%2599%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%259F%25E3%2581%25A1%25E3%2581%258F%25E3%2582%258C%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzQwZjczMjE1OTcuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"
+        },
         {
           "id": "https://zenn.dev/tachikure/articles/499b212e9fe6c9",
           "author": "たちくれ",
@@ -4011,16 +4067,6 @@
           "wordCount": 34122,
           "title": "【期間限定】複数開発者のBlenderアドオン・アセットが詰まったお得な23周年記念バンドルが登場！",
           "imageUrl": "https://cginterest.com/wp-content/uploads/2025/10/20251027_superhive-multicreatorbundle-1.webp"
-        },
-        {
-          "id": "https://cginterest.com/?p=52130",
-          "author": ".me",
-          "description": "Topaz Labsは、新しいツール「Mosaic」の正式な提供開始を発表しました。 「Mosaic」とは Mosaicは、AIを使用して画像のアップスケール、強調、復元を行うWebベースのツールです。古い写真、スキャン […]\nTopaz Labs、古い写真を復元・共有可能な新ウェブアプリ「Mosaic」を発表！ first appeared on CGinterest.",
-          "link": "https://cginterest.com/2025/10/25/topaz-labs%e3%80%81%e5%8f%a4%e3%81%84%e5%86%99%e7%9c%9f%e3%82%92%e5%be%a9%e5%85%83%e3%83%bb%e5%85%b1%e6%9c%89%e5%8f%af%e8%83%bd%e3%81%aa%e6%96%b0%e3%82%a6%e3%82%a7%e3%83%96%e3%82%a2%e3%83%97%e3%83%aa/",
-          "publishedOn": "2025-10-25T05:37:43.000Z",
-          "wordCount": 33013,
-          "title": "Topaz Labs、古い写真を復元・共有可能な新ウェブアプリ「Mosaic」を発表！",
-          "imageUrl": "https://cginterest.com/wp-content/uploads/2025/10/20251025_TOPAZLABS_MOSIC.webp"
         }
       ]
     }

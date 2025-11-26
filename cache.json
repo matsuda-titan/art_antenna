@@ -336,6 +336,21 @@
       "siteUrl": "https://3dnchu.com",
       "articles": [
         {
+          "id": "https://3dnchu.com/?p=1060264",
+          "author": "Ymt3D -3dnchu-",
+          "description": "香港中文大学（深圳）、香港科技大学・香港大学・北京大学、そして企業研究部門 LIGHTSPEED に所属する研究者らによる共同研究チームは、新しいPBRテクスチャ生成手法「LumiTex」を発表していました。ICLR 2026向け技術論文。",
+          "link": "https://3dnchu.com/archives/lumitex/",
+          "publishedOn": "2025-11-25T19:52:14.000Z",
+          "wordCount": 8899,
+          "title": "LumiTex: Towards High-Fidelity PBR Texture Generation with Illlumination Context - 3Dモデルの照明情報を理解して“本物っぽいPBRテクスチャ”を生成する技術！",
+          "enclosure": {
+            "url": "https://3dnchu.com/wp-content/uploads/lumitex-towards-high-fidelity-pb.jpg",
+            "length": "273654",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://3dnchu.com/wp-content/uploads/lumitex-towards-high-fidelity-pb.jpg"
+        },
+        {
           "id": "https://3dnchu.com/?p=1060229",
           "author": "Ymt3D -3dnchu-",
           "description": "Mad Processor（Vlad Erium氏）によるメッシュの穴埋めを行うオープンソースのコマンドラインインターフェース＆Blenderアドオン「Mesh Repair」がGithub上で公開されています！",
@@ -852,6 +867,16 @@
       "feedUrl": "https://cgworld.jp/atom.xml",
       "siteUrl": "https://cgworld.jp/",
       "articles": [
+        {
+          "id": "https://cgworld.jp/flashnews/01-202511-SuperSplat214.html",
+          "author": null,
+          "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
+          "link": "https://cgworld.jp/flashnews/01-202511-SuperSplat214.html",
+          "publishedOn": "2025-11-26T00:02:28.000Z",
+          "wordCount": 836,
+          "title": "オープンソースの3DGSエディタ「SuperSplat Editor 2.14.0」リリース！ 指定のタイムライン範囲内をMP4・MOV・MKV・WebM形式で動画レンダリング、コーデックの選択にも対応 - ニュース",
+          "imageUrl": "https://cgworld.jp/flashnews/assets_c/2025/11/SuperSplat214-01-thumb-1920x1080-76654.jpg"
+        },
         {
           "id": "https://cgworld.jp/regular/202511-DF-ImawaAlice03.html",
           "author": null,
@@ -1681,26 +1706,6 @@
           "wordCount": 844,
           "title": "【コンセプトアート】WACHAJACKとマドリードのクリエイティブスクールVOXEL SCHOOLが目指す、グローバルな創作コミュニティとは？ - 特集",
           "imageUrl": "https://cgworld.jp/article/assets_c/2025/10/MAT02521%2B-thumb-1920x1080-75103.jpg"
-        },
-        {
-          "id": "https://cgworld.jp/flashnews/02-2510-unityuday-tokyo.html",
-          "author": null,
-          "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
-          "link": "https://cgworld.jp/flashnews/02-2510-unityuday-tokyo.html",
-          "publishedOn": "2025-10-27T10:06:11.000Z",
-          "wordCount": 809,
-          "title": "Unityのゲーム開発者向けカンファレンス「U/Day Tokyo 2025」12/11（木）開催決定－Unity最新技術と注目タイトルの開発事例を一挙公開 - ニュース",
-          "imageUrl": "https://cgworld.jp/flashnews/assets_c/2025/10/56aed9b3f6e4f81a53f8a989401b6a534c9695cc-thumb-1000x563-75455.jpg"
-        },
-        {
-          "id": "https://cgworld.jp/article/202510-siggraph-et.html",
-          "author": null,
-          "description": "SIGGRAPH 2025のエレクトロニック・シアター上映作品を紹介。",
-          "link": "https://cgworld.jp/article/202510-siggraph-et.html",
-          "publishedOn": "2025-10-27T01:19:00.000Z",
-          "wordCount": 1050,
-          "title": "世界の最前線をスクリーンで体感！ Electronic Theaterで上映された全17作品を紹介〜SIGGRAPH 2025（2） - 特集",
-          "imageUrl": "https://cgworld.jp/article/assets_c/2025/10/main-thumb-1301x598-74981.jpg"
         }
       ]
     },
@@ -1757,16 +1762,6 @@
           "wordCount": 956,
           "title": "【UE5】FMeshDescriptionを使ってShadowのドローコール削減",
           "imageUrl": "https://cdn.image.st-hatena.com/image/scale/255198769e5b8cceafd2fcda5395964d0c72d0e9/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fs%2Fspark-shimono-ryota%2F20251106%2F20251106145134.png"
-        },
-        {
-          "id": "https://tech.spark-creative.co.jp/entry/2025/10/27/163028",
-          "author": null,
-          "description": "初めに 前提 コマンドレットとは マテリアルのパラメータとプロパティ パラメータ プロパティ 本題 実装 コード解説 Main アセットデータの取得 マテリアルインスタンスの取得 値の変更 変更したアセットの保存 起動方法 デバック 終わり 初めに こんにちは、クライアントエンジニアの下野です。 今回はUE5のコマンドレットが結構便利だと布教したかったので、何回かに分けていろんなコードを紹介しようかなと思います。（気持ち的には3回位やりたいかな感） 第1回はマテリアルインスタンスのパラメーター変更です。 前提 エンジンのバージョンは5.6です。バージョンによってはコードが変わったりするので完全…",
-          "link": "https://tech.spark-creative.co.jp/entry/2025/10/27/163028",
-          "publishedOn": "2025-10-27T07:30:28.000Z",
-          "wordCount": 760,
-          "title": "【UE5】コマンドレット活用術その１- マテリアルのパラメータ変更 -",
-          "imageUrl": "https://cdn.image.st-hatena.com/image/scale/bfd95d84bba86d9f688449992574fa8ed2fef3fb/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fs%2Fspark-shimono-ryota%2F20251024%2F20251024110018.png"
         }
       ]
     },
@@ -1775,6 +1770,36 @@
       "feedUrl": "https://modelinghappy.com/feed",
       "siteUrl": "https://modelinghappy.com",
       "articles": [
+        {
+          "id": "https://modelinghappy.com/?p=65732",
+          "author": "modelinghappy",
+          "description": "Blender Guruさんが新しいBlender5.0対応版のドーナッツチュートリアル動画をyoutubeで公開しました。 これからBlenderを始めたい人向けの超初心者動画で、Blender5.0のインストール、ナ\nThe post Blender5.0を使ってドーナッツを１から作るBlender超初心者向けチュートリアル動画が公開 first appeared on 3DCG最新情報サイト MODELING HAPPY.",
+          "link": "https://modelinghappy.com/archives/65732",
+          "publishedOn": "2025-11-26T00:27:38.000Z",
+          "wordCount": 3664,
+          "title": "Blender5.0を使ってドーナッツを１から作るBlender超初心者向けチュートリアル動画が公開",
+          "imageUrl": "https://modelinghappy.com/wp-content/uploads/2025/11/20251126_blenderguru_01.jpg"
+        },
+        {
+          "id": "https://modelinghappy.com/?p=65726",
+          "author": "modelinghappy",
+          "description": "ゼロからスタート! Blender 1冊目の教科書 Blenderで可愛いキャラクターを作る事で有名な、キャラクターアーティストのTom Studioさんが2026年1月16日に「ゼロからスタート! Blender 1冊\nThe post キャラクターアーティストのTom StudioさんがBlender初心者向けの書籍「ゼロからスタート! Blender 1冊目の教科書」を発売します first appeared on 3DCG最新情報サイト MODELING HAPPY.",
+          "link": "https://modelinghappy.com/archives/65726",
+          "publishedOn": "2025-11-26T00:03:30.000Z",
+          "wordCount": 3737,
+          "title": "キャラクターアーティストのTom StudioさんがBlender初心者向けの書籍「ゼロからスタート! Blender 1冊目の教科書」を発売します",
+          "imageUrl": "https://modelinghappy.com/wp-content/uploads/2025/11/20251126_tomsutdio.jpg"
+        },
+        {
+          "id": "https://modelinghappy.com/?p=65719",
+          "author": "modelinghappy",
+          "description": "SUPER HIVE mark kingsnorth 2025年11月26日15時まで、mark kingsnorthさんが作成したBlenderのモデリングが便利になるアドオンが30%オフになるセールを開催しています。\nThe post SUPER HIVEで1日限定30%オフ！Perspective PlotterやConform Objectなど人気アドオンがセール中 first appeared on 3DCG最新情報サイト MODELING HAPPY.",
+          "link": "https://modelinghappy.com/archives/65719",
+          "publishedOn": "2025-11-25T23:47:49.000Z",
+          "wordCount": 3735,
+          "title": "SUPER HIVEで1日限定30%オフ！Perspective PlotterやConform Objectなど人気アドオンがセール中",
+          "imageUrl": "https://modelinghappy.com/wp-content/uploads/2025/11/20251124_mark_kingsnorth_sale.jpg"
+        },
         {
           "id": "https://modelinghappy.com/?p=65697",
           "author": "modelinghappy",
@@ -2144,16 +2169,6 @@
           "wordCount": 3730,
           "title": "StableGen – Blender内でComfyUIのAIを使用してUV展開済みモデルに自動テクスチャ生成できる無料アドオン",
           "imageUrl": "https://modelinghappy.com/wp-content/uploads/2025/10/20251029_stablegen_01.jpg"
-        },
-        {
-          "id": "https://modelinghappy.com/?p=65134",
-          "author": "modelinghappy",
-          "description": "Multi-Creator Bundles SUPER HIVE(旧Blender Market)で35％～49%オフのバンドルパックが11月18日までの23日間限定でお得な値段で販売開始されました。(今回のセールは単品\nThe post Auto Rig ProやRetopoFlowも！SUPER HIVEで最大49%オフ！リギング・アニメ・スカルプトなどお得なバンドルパック23種類がセール中！ first appeared on 3DCG最新情報サイト MODELING HAPPY.",
-          "link": "https://modelinghappy.com/archives/65134",
-          "publishedOn": "2025-10-27T09:10:45.000Z",
-          "wordCount": 3885,
-          "title": "Auto Rig ProやRetopoFlowも！SUPER HIVEで最大49%オフ！リギング・アニメ・スカルプトなどお得なバンドルパック23種類がセール中！",
-          "imageUrl": "https://modelinghappy.com/wp-content/uploads/2025/10/20251027_superhive.jpg"
         }
       ]
     },
@@ -2521,26 +2536,6 @@
           "wordCount": 497,
           "title": "DC の過激派ヒーローのスピンオフ。ドラマ『ピースメイカー』シーズン2 のVFXブレイクダウン映像",
           "imageUrl": "https://3dtotal.jp/wp-content/uploads/2025/10/pmaker2_rodeo.jpg"
-        },
-        {
-          "id": "https://3dtotal.jp/?p=53372",
-          "author": "3dtotal管理人T",
-          "description": "★Last Samurai Standing | Official Trailer（1分58秒） ★「イクサガミ」｜予告編（1分58秒） 原作は 今村翔吾 の小説『イクサガミ』 その命につき、一点。時代に取り残されし志士 […]\nThe post 岡田准一 主演・プロデュース.. Netflix ドラマ『イクサガミ』のトレーラー first appeared on 3dtotal 日本語オフィシャルサイト.",
-          "link": "https://3dtotal.jp/news/53372/",
-          "publishedOn": "2025-10-27T02:43:36.000Z",
-          "wordCount": 502,
-          "title": "岡田准一 主演・プロデュース.. Netflix ドラマ『イクサガミ』のトレーラー",
-          "imageUrl": "https://3dtotal.jp/wp-content/uploads/2025/10/ikusagami_trailer.jpg"
-        },
-        {
-          "id": "https://3dtotal.jp/?p=53364",
-          "author": "3dtotal管理人T",
-          "description": "★Wildwood First Look: Where Magic Takes Flight | LAIKA Studios（2分52秒） LAIKA の『Wildwood』の世界へようこそ。力強いイヌワシが空を支配し、 […]\nThe post 「コラライン」「KUBO」の LAIKA より、ストップモーションアニメ映画『Wildwood』のトレーラー first appeared on 3dtotal 日本語オフィシャルサイト.",
-          "link": "https://3dtotal.jp/news/53364/",
-          "publishedOn": "2025-10-27T01:39:29.000Z",
-          "wordCount": 530,
-          "title": "「コラライン」「KUBO」の LAIKA より、ストップモーションアニメ映画『Wildwood』のトレーラー",
-          "imageUrl": "https://3dtotal.jp/wp-content/uploads/2025/10/wildwood_laika_fl.jpg"
         }
       ]
     },
@@ -4152,16 +4147,6 @@
           "wordCount": 33505,
           "title": "[〆切2025年11月18日] 第三十四回デジタル塗り絵コンテスト「塗りマス！」MILGRAM -ミルグラム-とコラボ！",
           "imageUrl": "https://cginterest.com/wp-content/uploads/2025/10/20251028_nurimasu34th.webp"
-        },
-        {
-          "id": "https://cginterest.com/?p=52189",
-          "author": ".me",
-          "description": "2025年10月27日 – Blenderクリエイター向けのマーケットプレイスSuperhiveは、「Superhive October Blend Fest」の一環として大規模なバンドルセールを開始しました […]\n【期間限定】複数開発者のBlenderアドオン・アセットが詰まったお得な23周年記念バンドルが登場！ first appeared on CGinterest.",
-          "link": "https://cginterest.com/2025/10/27/%e3%80%90%e6%9c%9f%e9%96%93%e9%99%90%e5%ae%9a%e3%80%91%e8%a4%87%e6%95%b0%e9%96%8b%e7%99%ba%e8%80%85%e3%81%aeblender%e3%82%a2%e3%83%89%e3%82%aa%e3%83%b3%e3%83%bb%e3%82%a2%e3%82%bb%e3%83%83%e3%83%88/",
-          "publishedOn": "2025-10-27T03:23:43.000Z",
-          "wordCount": 34122,
-          "title": "【期間限定】複数開発者のBlenderアドオン・アセットが詰まったお得な23周年記念バンドルが登場！",
-          "imageUrl": "https://cginterest.com/wp-content/uploads/2025/10/20251027_superhive-multicreatorbundle-1.webp"
         }
       ]
     }

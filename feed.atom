@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-11-27T08:16:58.855Z</updated>
+    <updated>2025-11-27T12:22:48.101Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[VEXでネストにすることができない配列に、複数の配列を入れてから配列単位で取り出す方法]]></title>
+        <id>https://note.com/maxima_hikky/n/n051e90ff8247</id>
+        <link href="https://note.com/maxima_hikky/n/n051e90ff8247"/>
+        <updated>2025-11-27T10:31:15.000Z</updated>
+        <summary type="html"><![CDATA[はじめに
+このページでは、Houdini の VEX で「配列の中に配列をネストしたい」と思ったときに、実際にはどういう挙動になるのか、そしてその代替手段として「辞書型（dict）」を使う方法を、Python との比較を交えながら説明します。
+続きをみる]]></summary>
+        <author>
+            <name>#Houdiniタグ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[プレミアムアーツ、点群データをVR化する新ソリューション「LiveXR Point Cloud」を12/1（月）リリース－工場・プラントの大型施設を短期間・低コストでデジタルツイン化 - ニュース]]></title>
         <id>https://cgworld.jp/flashnews/02-2511-livexr-point-cloud.html</id>
@@ -4105,27 +4117,6 @@ The post VFX＆CGアニメーションスタジオ Goodbye Kansas の紹介映�
         <summary type="html"><![CDATA[CG＆デジタルアート関連チュートリアルサービス「Wingfox」にてブラックフライデー早期アクセス関連セールが実施中で新コースの各種が20%OFFで入手できるようです❗️！]]></summary>
         <author>
             <name>Ymt3D -3dnchu-</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[StableGen – Blender内でComfyUIのAIを使用してUV展開済みモデルに自動テクスチャ生成できる無料アドオン]]></title>
-        <id>https://modelinghappy.com/?p=65151</id>
-        <link href="https://modelinghappy.com/archives/65151"/>
-        <updated>2025-10-28T23:42:13.000Z</updated>
-        <summary type="html"><![CDATA[StableGen StableGenはBlender内で直接ComfyUIのAIを使用して、UVのある3Dモデルにプロンプト入力からテクスチャを自動作成出来るアドオンです。 １つのメッシュだけではなく、カメラの視点から
-The post StableGen – Blender内でComfyUIのAIを使用してUV展開済みモデルに自動テクスチャ生成できる無料アドオン first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
-        <author>
-            <name>modelinghappy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[リアルタイム生成の世界モデル「RTFM」発表！　ユーザーが操作すると同時にリアルタイムで動画を生成し、ワールド探索が可能 - ニュース]]></title>
-        <id>https://cgworld.jp/flashnews/01-202510-RTFM.html</id>
-        <link href="https://cgworld.jp/flashnews/01-202510-RTFM.html"/>
-        <updated>2025-10-28T22:27:48.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
         </author>
     </entry>
 </feed>

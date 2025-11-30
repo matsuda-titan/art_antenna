@@ -2465,6 +2465,21 @@
       "siteUrl": "https://zenn.dev/topics/shader",
       "articles": [
         {
+          "id": "https://zenn.dev/kurie/books/b9d72e741d2db6",
+          "author": "Kurie's VFX Knowledge",
+          "description": "「UE5 でエフェクトを作りたい！でもマテリアルの作り方が分からない！」という方向けの本になります。\n\n超初心者向けで第一歩を示す内容になっているため、すぐにかゆいところに手が届かなくなると思いますが、これから学習開始する人はまずは読みながら試してみてください。\n\nUE5.7 で解説。\nそれまで長年変わっていなかった Blend Mode などが少し変わっていたりするのでご注意ください。",
+          "link": "https://zenn.dev/kurie/books/b9d72e741d2db6",
+          "publishedOn": "2025-11-30T11:58:52.000Z",
+          "wordCount": 311,
+          "title": "VFX Artist のための UE5 マテリアル入門",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--O5Ik31Jm--/g_center%2Ch_280%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYm9va19jb3Zlci85ZWZkZDMzNmFmLmpwZWc=%2Cw_200/v1627283836/default/og-base-book_yz4z02.jpg?_a=BACAGSGT",
+            "length": "0",
+            "type": "false"
+          },
+          "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--O5Ik31Jm--/g_center%2Ch_280%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYm9va19jb3Zlci85ZWZkZDMzNmFmLmpwZWc=%2Cw_200/v1627283836/default/og-base-book_yz4z02.jpg?_a=BACAGSGT"
+        },
+        {
           "id": "https://zenn.dev/tachikure/articles/1c9fa3596866c5",
           "author": "たちくれ",
           "description": "ライトを手動で取得する\nライト用のセマンティクスを使用して変数宣言すると、ライトの情報を手動で取得できるUIが作成される。\nfloat3 light_dir: Direction; // 型 変数名: セマンティクス;\n\n\nプルダウンから選んだライトをバインドでき、変数にバインドしたライトの情報が入る。\n\n主なライト用のセマンティクス\n\n\n\nセマンティクス\n\n型\n\n\n\n\nDirection\n方向\nfloat3/4\n\n\nPosition\n位置\nfloat3/4\n\n\nLightIntensity\n強度\nfloat\n\n\nLightColor\n色\nfloat3/4\n\n\n\nその他のライト用の主...",
@@ -3317,6 +3332,16 @@
       "siteUrl": "https://note.com/hashtag/SubstanceDesigner",
       "articles": [
         {
+          "id": "https://note.com/creatorsaki_vlog/n/n455952a35a3c",
+          "author": null,
+          "description": "今取り組んでいるウィンタープロジェクトの進捗です！\n本業はマーケティングマネージャーとしてフルタイムで働いているのですが、3dの制作がとても楽しくて夜遅くまで作業してしまう…\n技術はまだまだですが、ぜひ見ていってください🙇‍♀️\nこれからのto do としては下記のようなことを考えています。\n現状：Mayaである程度のモデリングと、サブスタンスペインターでペイントが可能\n次のステップ：\n・データを軽くするためにハイポリ→ローポリテクスチャ\n・ライティングの勉強をするためにカメラの勉強\n・サブスタンスデザイナーの勉強\n\n続きをみる",
+          "link": "https://note.com/creatorsaki_vlog/n/n455952a35a3c",
+          "publishedOn": "2025-11-30T10:34:35.000Z",
+          "wordCount": 2365,
+          "title": "3DCGウィンタープロジェクトの進捗🎅🎄⛄️",
+          "imageUrl": "https://assets.st-note.com/production/uploads/images/233036326/rectangle_large_type_2_7cfb32babb646aba209a9c49b1aa9348.png?width=800"
+        },
+        {
           "id": "https://note.com/pky3d/n/n93a4d1f7360b",
           "author": null,
           "description": "こちらの記事は、Houdini Apprentice Advent Calendar2020 / 15日目の記事になります。\n Houdini Apprentice - Qiita Advent Calendar 2020 - QiitaCalendar page for Qiita Advent Calendar 2020 regarding Houdinqiita.com \n続きをみる",
@@ -3363,6 +3388,16 @@
       "feedUrl": "https://note.com/hashtag/substancepainter/rss",
       "siteUrl": "https://note.com/hashtag/substancepainter",
       "articles": [
+        {
+          "id": "https://note.com/creatorsaki_vlog/n/n455952a35a3c",
+          "author": null,
+          "description": "今取り組んでいるウィンタープロジェクトの進捗です！\n本業はマーケティングマネージャーとしてフルタイムで働いているのですが、3dの制作がとても楽しくて夜遅くまで作業してしまう…\n技術はまだまだですが、ぜひ見ていってください🙇‍♀️\nこれからのto do としては下記のようなことを考えています。\n現状：Mayaである程度のモデリングと、サブスタンスペインターでペイントが可能\n次のステップ：\n・データを軽くするためにハイポリ→ローポリテクスチャ\n・ライティングの勉強をするためにカメラの勉強\n・サブスタンスデザイナーの勉強\n\n続きをみる",
+          "link": "https://note.com/creatorsaki_vlog/n/n455952a35a3c",
+          "publishedOn": "2025-11-30T10:34:35.000Z",
+          "wordCount": 2365,
+          "title": "3DCGウィンタープロジェクトの進捗🎅🎄⛄️",
+          "imageUrl": "https://assets.st-note.com/production/uploads/images/233036326/rectangle_large_type_2_7cfb32babb646aba209a9c49b1aa9348.png?width=800"
+        },
         {
           "id": "https://note.com/hyeon_1225/n/n92db88807556",
           "author": null,
@@ -4102,16 +4137,6 @@
             "type": "video/mp4"
           },
           "imageUrl": "https://cginterest.com/wp-content/uploads/2025/11/20251101_rokoko-text-to-motion.webp"
-        },
-        {
-          "id": "https://cginterest.com/?p=52168",
-          "author": ".me",
-          "description": "2025年10月30日（現地時間）- Boris FX は、ビジュアルエフェクトプラグインコレクションの最新アップデート 「Continuum 2026」をリリースしました。 新機能ハイライト 今回のアップデートには、A […]\nビジュアルエフェクトプラグイン Boris FX Continuum 2026 がリリース！AIマスキングツールやAIトランジションの追加など first appeared on CGinterest.",
-          "link": "https://cginterest.com/2025/11/01/%e3%83%93%e3%82%b8%e3%83%a5%e3%82%a2%e3%83%ab%e3%82%a8%e3%83%95%e3%82%a7%e3%82%af%e3%83%88%e3%83%97%e3%83%a9%e3%82%b0%e3%82%a4%e3%83%b3-boris-fx-continuum-2026-%e3%81%8c%e3%83%aa%e3%83%aa%e3%83%bc/",
-          "publishedOn": "2025-10-31T22:54:00.000Z",
-          "wordCount": 32693,
-          "title": "ビジュアルエフェクトプラグイン Boris FX Continuum 2026 がリリース！AIマスキングツールやAIトランジションの追加など",
-          "imageUrl": "https://cginterest.com/wp-content/uploads/2025/11/20251031_continuum2026.webp"
         }
       ]
     }

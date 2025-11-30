@@ -2,10 +2,65 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-11-30T08:14:01.996Z</updated>
+    <updated>2025-11-30T12:20:23.401Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[VFX Artist のための UE5 マテリアル入門]]></title>
+        <id>https://zenn.dev/kurie/books/b9d72e741d2db6</id>
+        <link href="https://zenn.dev/kurie/books/b9d72e741d2db6"/>
+        <updated>2025-11-30T11:58:52.000Z</updated>
+        <summary type="html"><![CDATA[「UE5 でエフェクトを作りたい！でもマテリアルの作り方が分からない！」という方向けの本になります。
+
+超初心者向けで第一歩を示す内容になっているため、すぐにかゆいところに手が届かなくなると思いますが、これから学習開始する人はまずは読みながら試してみてください。
+
+UE5.7 で解説。
+それまで長年変わっていなかった Blend Mode などが少し変わっていたりするのでご注意ください。]]></summary>
+        <author>
+            <name>Kurie's VFX Knowledge</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[3DCGウィンタープロジェクトの進捗🎅🎄⛄️]]></title>
+        <id>https://note.com/creatorsaki_vlog/n/n455952a35a3c</id>
+        <link href="https://note.com/creatorsaki_vlog/n/n455952a35a3c"/>
+        <updated>2025-11-30T10:34:35.000Z</updated>
+        <summary type="html"><![CDATA[今取り組んでいるウィンタープロジェクトの進捗です！
+本業はマーケティングマネージャーとしてフルタイムで働いているのですが、3dの制作がとても楽しくて夜遅くまで作業してしまう…
+技術はまだまだですが、ぜひ見ていってください🙇‍♀️
+これからのto do としては下記のようなことを考えています。
+現状：Mayaである程度のモデリングと、サブスタンスペインターでペイントが可能
+次のステップ：
+・データを軽くするためにハイポリ→ローポリテクスチャ
+・ライティングの勉強をするためにカメラの勉強
+・サブスタンスデザイナーの勉強
+
+続きをみる]]></summary>
+        <author>
+            <name>#SubstanceDesignerタグ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[3DCGウィンタープロジェクトの進捗🎅🎄⛄️]]></title>
+        <id>https://note.com/creatorsaki_vlog/n/n455952a35a3c</id>
+        <link href="https://note.com/creatorsaki_vlog/n/n455952a35a3c"/>
+        <updated>2025-11-30T10:34:35.000Z</updated>
+        <summary type="html"><![CDATA[今取り組んでいるウィンタープロジェクトの進捗です！
+本業はマーケティングマネージャーとしてフルタイムで働いているのですが、3dの制作がとても楽しくて夜遅くまで作業してしまう…
+技術はまだまだですが、ぜひ見ていってください🙇‍♀️
+これからのto do としては下記のようなことを考えています。
+現状：Mayaである程度のモデリングと、サブスタンスペインターでペイントが可能
+次のステップ：
+・データを軽くするためにハイポリ→ローポリテクスチャ
+・ライティングの勉強をするためにカメラの勉強
+・サブスタンスデザイナーの勉強
+
+続きをみる]]></summary>
+        <author>
+            <name>#substancepainterタグ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SideFX Labs / Substanceプラグイン応用と実例]]></title>
         <id>https://note.com/pky3d/n/n93a4d1f7360b</id>
@@ -4011,17 +4066,6 @@ Rokoko、テキストから3Dアニメーションを生成する「Text-to-Moti
         <summary type="html"><![CDATA[こんばんは！ 今回はアドオンの「Roads」を紹介します。 こちらのリンクがアドオンの商品ページになります。 Roads 「Roads」は、頂点を押し出すだけで道路を自動生成できるBlenderアドオンです。 頂点を動か […]]]></summary>
         <author>
             <name>kasahara</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ビジュアルエフェクトプラグイン Boris FX Continuum 2026 がリリース！AIマスキングツールやAIトランジションの追加など]]></title>
-        <id>https://cginterest.com/?p=52168</id>
-        <link href="https://cginterest.com/2025/11/01/%e3%83%93%e3%82%b8%e3%83%a5%e3%82%a2%e3%83%ab%e3%82%a8%e3%83%95%e3%82%a7%e3%82%af%e3%83%88%e3%83%97%e3%83%a9%e3%82%b0%e3%82%a4%e3%83%b3-boris-fx-continuum-2026-%e3%81%8c%e3%83%aa%e3%83%aa%e3%83%bc/"/>
-        <updated>2025-10-31T22:54:00.000Z</updated>
-        <summary type="html"><![CDATA[2025年10月30日（現地時間）- Boris FX は、ビジュアルエフェクトプラグインコレクションの最新アップデート 「Continuum 2026」をリリースしました。 新機能ハイライト 今回のアップデートには、A […]
-ビジュアルエフェクトプラグイン Boris FX Continuum 2026 がリリース！AIマスキングツールやAIトランジションの追加など first appeared on CGinterest.]]></summary>
-        <author>
-            <name>.me</name>
         </author>
     </entry>
 </feed>

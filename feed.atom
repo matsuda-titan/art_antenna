@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-12-01T04:06:47.898Z</updated>
+    <updated>2025-12-01T08:18:56.978Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【UE5】Renderdocでピクセルデバックする際に]]></title>
+        <id>https://tech.spark-creative.co.jp/entry/2025/12/01/153348</id>
+        <link href="https://tech.spark-creative.co.jp/entry/2025/12/01/153348"/>
+        <updated>2025-12-01T06:33:48.000Z</updated>
+        <summary type="html"><![CDATA[はじめに 前提 Renderdocとは 本題 原因とか 終わり はじめに こんにちは、クライアントエンジニアの下野です。 今回はUE5.6以降でピクセルデバック際に対応必要だったのでメモです。 前提 エンジンのバージョンは5.6です。バージョンによってはコードが変わったりするので完全にコードを一致させても動かない場合があります。 Renderdocのバージョンはこの時点の最新バージョン、v1.41.1です。 Renderdocとは シェーダーのデバックをするための外部ツールです。Unityでも使えます。 基本的な仕様とかは本題から外れるので、過去のブログを参照していただければです。 さて、UE…]]></summary>
+        <author>
+            <name>SPARKCREATIVE Tech Blog</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[VSCodeとBlenderをMCPで連携させてAI 3Dモデリング環境を構築する]]></title>
         <id>https://zenn.dev/sloth255/articles/dfccc9699718a3</id>
@@ -289,6 +299,16 @@ UE5.7 で解説。
 続きをみる]]></summary>
         <author>
             <name>#SubstanceDesignerタグ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CGWORLD vol.329（2026年1月号）「映画『果てしなきスカーレット』」特集号を先行告知！ - ニュース]]></title>
+        <id>https://cgworld.jp/flashnews/cgw329-pr.html</id>
+        <link href="https://cgworld.jp/flashnews/cgw329-pr.html"/>
+        <updated>2025-11-30T04:00:00.000Z</updated>
+        <summary type="html"><![CDATA[【12/10発売】CGWORLD vol.329（2026年1月号）「映画『果てしなきスカーレット』」特集号を先行告知！　CG制作を担当したデジタル・フロンティアが挑んだ新たな試みと、その舞台裏を紐解きます。]]></summary>
+        <author>
+            <name>CGWORLD</name>
         </author>
     </entry>
     <entry>

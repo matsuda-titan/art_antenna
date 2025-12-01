@@ -3159,6 +3159,16 @@
       "siteUrl": "https://qiita.com",
       "articles": [
         {
+          "id": "https://qiita.com/warotarock/items/55ef6f1b8f999a640f08",
+          "author": null,
+          "description": "この記事は グラフィックス全般 Advent Calendar 2025 1日目の記事です。\n作者は個人でElectron＆Webなお絵かきアプリを制作中です（たぶん9年目）\n今回の記事のソースコードはGitHubで公開しています。\n\n背景\n今年に入って某お絵描きアプリの鉛...",
+          "link": "https://qiita.com/warotarock/items/55ef6f1b8f999a640f08",
+          "publishedOn": "2025-12-01T08:35:14.000Z",
+          "wordCount": 1252,
+          "title": "単純な座標変換によるシンプレックスグリッドの試作",
+          "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Fadvent-calendar-ogp-background-7940cd1c8db80a7ec40711d90f43539e.jpg%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnFpaXRhLWltYWdlLXN0b3JlLnMzLmFtYXpvbmF3cy5jb20lMkYwJTJGNTkxOTElMkZwcm9maWxlLWltYWdlcyUyRjE0NzM2OTQ4NTI_aXhsaWI9cmItNC4wLjAmYXI9MSUzQTEmZml0PWNyb3AmbWFzaz1lbGxpcHNlJmJnPUZGRkZGRiZmbT1wbmczMiZzPTZmNzRiOTFhM2NjOTg5NmJkNjc2MWQ0ZmE2YjBlNDNh%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3Dcafa5002f83c488a9287d32e996abfbf?ixlib=rb-4.0.0&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9JUU1JThEJTk4JUU3JUI0JTk0JUUzJTgxJUFBJUU1JUJBJUE3JUU2JUE4JTk5JUU1JUE0JTg5JUU2JThGJTlCJUUzJTgxJUFCJUUzJTgyJTg4JUUzJTgyJThCJUUzJTgyJUI3JUUzJTgzJUIzJUUzJTgzJTk3JUUzJTgzJUFDJUUzJTgzJTgzJUUzJTgyJUFGJUUzJTgyJUI5JUUzJTgyJUIwJUUzJTgzJUFBJUUzJTgzJTgzJUUzJTgzJTg5JUUzJTgxJUFFJUU4JUE5JUE2JUU0JUJEJTlDJnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMzQTNDM0MmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9ZTE3ZjEzMjkyNjdmZDJlMjQ0NTNiYzM2MzA4M2QwZWI&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDB3YXJvdGFyb2NrJnR4dC1jb2xvcj0lMjMzQTNDM0MmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9OThjZWFiZjAwNDRmNzNmNDUxMjY2NDUxNTVmODg0MjI&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=339b2607c209780571706ab9d97584fd"
+        },
+        {
           "id": "https://qiita.com/fuziki/items/2b3a6e7d5a373d95f8bf",
           "author": null,
           "description": "はじめに\nthree.jsでInstancedMeshを使って、サイリウムを表示し、Shaderでサイリウムを振る挙動を実装してみました\n\nInstancedMeshを使用することで、描画呼び出し回数を削減し、アプリケーション全体のレンダリングパフォーマンスを向上させるこ...",
@@ -3662,6 +3672,21 @@
       "feedUrl": "https://cginterest.com/feed/",
       "siteUrl": "https://cginterest.com",
       "articles": [
+        {
+          "id": "https://cginterest.com/?p=53524",
+          "author": ".me",
+          "description": "Blendify によるBlender用アドオン「Global Hair」の紹介です。 Global Hairとは Global Hairとは、Blender用にジオメトリノードとカーブベースで構築されたプロシージャルヘ […]\n180種類のカスタマイズ可能なプリセットが含まれたBlender用のプロシージャルヘア作成アドオン「Global Hair」 first appeared on CGinterest.",
+          "link": "https://cginterest.com/2025/12/01/180%e7%a8%ae%e9%a1%9e%e3%81%ae%e3%82%ab%e3%82%b9%e3%82%bf%e3%83%9e%e3%82%a4%e3%82%ba%e5%8f%af%e8%83%bd%e3%81%aa%e3%83%97%e3%83%aa%e3%82%bb%e3%83%83%e3%83%88%e3%81%8c%e5%90%ab%e3%81%be%e3%82%8c/",
+          "publishedOn": "2025-12-01T08:21:43.000Z",
+          "wordCount": 31689,
+          "title": "180種類のカスタマイズ可能なプリセットが含まれたBlender用のプロシージャルヘア作成アドオン「Global Hair」",
+          "enclosure": {
+            "url": "https://cginterest.com/wp-content/uploads/2025/12/Globalhair1-1.mp4",
+            "length": "225456",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://cginterest.com/wp-content/uploads/2025/12/20251201_GrobalHair.webp"
+        },
         {
           "id": "https://cginterest.com/?p=53456",
           "author": ".me",

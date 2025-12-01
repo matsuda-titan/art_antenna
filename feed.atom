@@ -2,10 +2,130 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-11-30T12:20:23.401Z</updated>
+    <updated>2025-12-01T01:05:41.917Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【12/1限定】RetopoFlowにZenUVなど人気アドオン9種類+動画2本で定価342ドルが82％オフの62ドルで販売！]]></title>
+        <id>https://modelinghappy.com/?p=65850</id>
+        <link href="https://modelinghappy.com/archives/65850"/>
+        <updated>2025-11-30T23:22:37.000Z</updated>
+        <summary type="html"><![CDATA[MODELING+UV BUNDLE SUPERHIVE(旧BlnederMarkt)でサイバーセールが開催されていますが、2025年12月1日１日限定でモデリングとUV展開に人気アドオン9種類+動画2の合計11種類、3
+The post 【12/1限定】RetopoFlowにZenUVなど人気アドオン9種類+動画2本で定価342ドルが82％オフの62ドルで販売！ first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
+        <author>
+            <name>modelinghappy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[テンセント、オープンソースの動画生成AIモデル「HunyuanVideo 1.5」公開！ 超軽量8.3Bパラメータで14GB VRAMのGPUにデプロイ可能 - ニュース]]></title>
+        <id>https://cgworld.jp/flashnews/01-202512-HunyuanVideo15.html</id>
+        <link href="https://cgworld.jp/flashnews/01-202512-HunyuanVideo15.html"/>
+        <updated>2025-11-30T22:43:25.000Z</updated>
+        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Maya] 円形や帯状のノイズを作成する]]></title>
+        <id>https://zenn.dev/tachikure/articles/974195cdd886a7</id>
+        <link href="https://zenn.dev/tachikure/articles/974195cdd886a7"/>
+        <updated>2025-11-30T22:10:01.000Z</updated>
+        <summary type="html"><![CDATA[全面ではなく限られた範囲にノイズをかけたい。
+ただしマスクをかけるのはイメージと違う。(輪郭にノイズがかかってほしい)
+
+こういうことではない
+
+こんな感じのイメージ
+!
+ちなみに前者は単にlayeredTextureでノイズに円形のrampノードを重ねたもの。
+
+
+ 単純な場合
+rampノードを作成する。
+
+Out Colorを適当なマテリアルにつなぎ、オブジェクトに割り当てる。
+ここではSurfaceShaderのOut Colorに接続。
+
+帯状
+rampノードのランプを調整し、Noise、Noise Freqを設定する。
+
+
+円形
+この方法だと、設定項目が2つしかなくアニメーショ...]]></summary>
+        <author>
+            <name>たちくれ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Maya] 円形や帯状のノイズを作成する]]></title>
+        <id>https://zenn.dev/tachikure/articles/974195cdd886a7</id>
+        <link href="https://zenn.dev/tachikure/articles/974195cdd886a7"/>
+        <updated>2025-11-30T22:10:01.000Z</updated>
+        <summary type="html"><![CDATA[全面ではなく限られた範囲にノイズをかけたい。
+ただしマスクをかけるのはイメージと違う。(輪郭にノイズがかかってほしい)
+
+こういうことではない
+
+こんな感じのイメージ
+!
+ちなみに前者は単にlayeredTextureでノイズに円形のrampノードを重ねたもの。
+
+
+ 単純な場合
+rampノードを作成する。
+
+Out Colorを適当なマテリアルにつなぎ、オブジェクトに割り当てる。
+ここではSurfaceShaderのOut Colorに接続。
+
+帯状
+rampノードのランプを調整し、Noise、Noise Freqを設定する。
+
+
+円形
+この方法だと、設定項目が2つしかなくアニメーショ...]]></summary>
+        <author>
+            <name>たちくれ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[オブジェクトが非表示なのかどうか確認したい]]></title>
+        <id>https://qiita.com/9boz/items/5593e172a4eadef12b5c</id>
+        <link href="https://qiita.com/9boz/items/5593e172a4eadef12b5c"/>
+        <updated>2025-11-30T22:07:26.000Z</updated>
+        <summary type="html"><![CDATA[mayaにおいてオブジェクトの可視性を制御する方法はいくつかあると思いますがー
+
+visibility / LOD visibility
+親ノードの visibility / LOD visibility
+displayLayer
+
+複雑なシーンで、上記どれかの方法で非表示...]]></summary>
+        <author>
+            <name>mayaタグが付けられた新着記事 - Qiita</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[画角の端になるにつれ透過する環境を作る（XREAL Air2Ultra）]]></title>
+        <id>https://zenn.dev/boichi/articles/1dc7604f252d33</id>
+        <link href="https://zenn.dev/boichi/articles/1dc7604f252d33"/>
+        <updated>2025-11-30T15:33:54.000Z</updated>
+        <summary type="html"><![CDATA[はじめに
+この記事は サイバーエージェント26卒内定者 Advent Calendarの1日目として投稿しています。
+1日目を投稿できるなんて光栄ですね。今世は運がいい
+
+ この記事でやること
+XREALってどうしてもVRに比べてCGを表示できる視野が限られているんですよね。
+だから目の前に大きめのオブジェクトを出そうとしても表示可能な視野角を出るとプツッと表示されなくなっちゃってちょっと冷める、的な現象があります。
+それを防ぐために、視野角外に近づく領域ほど透過していく、そんな実装を簡単に紹介します。
+
+ 使用技術
+・Unity 6000.0.58f2
+・XREAL SDK 3.0...]]></summary>
+        <author>
+            <name>ぼいち</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[VFX Artist のための UE5 マテリアル入門]]></title>
         <id>https://zenn.dev/kurie/books/b9d72e741d2db6</id>
@@ -4034,38 +4154,6 @@ nsi.pyをコピーして、サンプルファイルと同じ場所に置く。
 i...]]></summary>
         <author>
             <name>3DCGタグが付けられた新着記事 - Qiita</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Reallusion、QuickMagicと提携して動画からモーションを作成できる「iClone Video Mocapプラグイン」をリリース！]]></title>
-        <id>https://cginterest.com/?p=52476</id>
-        <link href="https://cginterest.com/2025/11/01/reallusion%e3%80%81quickmagic%e3%81%a8%e6%8f%90%e6%90%ba%e3%81%97%e3%81%a6%e5%8b%95%e7%94%bb%e3%81%8b%e3%82%89%e3%83%a2%e3%83%bc%e3%82%b7%e3%83%a7%e3%83%b3%e3%82%92%e4%bd%9c%e6%88%90%e3%81%a7%e3%81%8d/"/>
-        <updated>2025-11-01T06:49:47.000Z</updated>
-        <summary type="html"><![CDATA[2025年10月29日（現地時間）- Reallusion は、iClone Video Mocapプラグインとそれに対応するアニメーションソフトウェアの最新アップデートiClone v8.63を発表しました。 iClo […]
-Reallusion、QuickMagicと提携して動画からモーションを作成できる「iClone Video Mocapプラグイン」をリリース！ first appeared on CGinterest.]]></summary>
-        <author>
-            <name>.me</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rokoko、テキストから3Dアニメーションを生成する「Text-to-Motion」を発表！]]></title>
-        <id>https://cginterest.com/?p=52475</id>
-        <link href="https://cginterest.com/2025/11/01/rokoko%e3%80%81%e3%83%86%e3%82%ad%e3%82%b9%e3%83%88%e3%81%8b%e3%82%893d%e3%82%a2%e3%83%8b%e3%83%a1%e3%83%bc%e3%82%b7%e3%83%a7%e3%83%b3%e3%82%92%e7%94%9f%e6%88%90%e3%81%99%e3%82%8b%e3%80%8ctext-to-moti/"/>
-        <updated>2025-11-01T05:51:36.000Z</updated>
-        <summary type="html"><![CDATA[2025年10月23日（現地時間）- モーションキャプチャ（mocap）ソリューションで知られるRokokoは、同社のプラットフォームでテキストから3Dアニメーションを生成する「Text-to-Motion」を発表しまし […]
-Rokoko、テキストから3Dアニメーションを生成する「Text-to-Motion」を発表！ first appeared on CGinterest.]]></summary>
-        <author>
-            <name>.me</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【アセット紹介】Roads – ベーシックな道路をカスタムできるアセット！]]></title>
-        <id>https://cgbox.jp/?p=64470</id>
-        <link href="https://cgbox.jp/2025/11/01/news-addon-roads/"/>
-        <updated>2025-11-01T02:32:11.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは！ 今回はアドオンの「Roads」を紹介します。 こちらのリンクがアドオンの商品ページになります。 Roads 「Roads」は、頂点を押し出すだけで道路を自動生成できるBlenderアドオンです。 頂点を動か […]]]></summary>
-        <author>
-            <name>kasahara</name>
         </author>
     </entry>
 </feed>

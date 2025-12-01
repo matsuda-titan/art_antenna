@@ -2,10 +2,72 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-12-01T01:05:41.917Z</updated>
+    <updated>2025-12-01T04:06:47.898Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[VSCodeとBlenderをMCPで連携させてAI 3Dモデリング環境を構築する]]></title>
+        <id>https://zenn.dev/sloth255/articles/dfccc9699718a3</id>
+        <link href="https://zenn.dev/sloth255/articles/dfccc9699718a3"/>
+        <updated>2025-12-01T03:00:06.000Z</updated>
+        <summary type="html"><![CDATA[VSCodeとBlenderをMCPで連携させてAI 3Dモデリング環境を構築する
+
+ はじめに
+本記事では、VSCode上のAIアシスタント(GitHub Copilot)とBlenderをMCP(Model Context Protocol)で連携させ、AIによる3Dモデリング環境を構築する手順を紹介します。MCPを利用することで、VSCodeから直接Blenderを操作し、自然言語による指示で3Dオブジェクトを生成できるようになります。
+
+ 前提条件
+以下の環境が整っていることを前提とします。
+
+Windows OS
+Blender インストール済み
+VSCode インストール...]]></summary>
+        <author>
+            <name>Sloth255｜個人開発🔧💻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CharacterBank、新作VRアクションRPG『Knights of Fiona -フィオナ騎士団-』を発表 - ニュース]]></title>
+        <id>https://cgworld.jp/flashnews/02-2512-characterbank.html</id>
+        <link href="https://cgworld.jp/flashnews/02-2512-characterbank.html"/>
+        <updated>2025-12-01T02:45:27.000Z</updated>
+        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[アーロと父親のシーン。ピクサー映画『アーロと少年』の 絵コンテ と 完成映像 比較ムービー “Side by Side”]]></title>
+        <id>https://3dtotal.jp/?p=53870</id>
+        <link href="https://3dtotal.jp/news/53870/"/>
+        <updated>2025-12-01T01:56:34.000Z</updated>
+        <summary type="html"><![CDATA[★The Good Dinosaur Side by Side | "The Storm" Scene | Storyboards vs. Film（2分45秒） 名作映画『アーロと少年』の舞台裏をのぞいてみましょう。ア […]
+The post アーロと父親のシーン。ピクサー映画『アーロと少年』の 絵コンテ と 完成映像 比較ムービー "Side by Side" first appeared on 3dtotal 日本語オフィシャルサイト.]]></summary>
+        <author>
+            <name>3dtotal管理人T</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[本物そっくりのロボット動物に 人の意識をホップ!? ディズニー・ピクサー映画『私がビーバーになる時』のトレーラー（英語／日本語）]]></title>
+        <id>https://3dtotal.jp/?p=52186</id>
+        <link href="https://3dtotal.jp/news/52186/"/>
+        <updated>2025-12-01T01:50:21.000Z</updated>
+        <summary type="html"><![CDATA[★Hoppers | Official Trailer（2分24秒） ★「私がビーバーになる時」US版予告（2分24秒） ディズニー＆ピクサー最新作！ もしもビーバーになって、＜動物の世界＞に潜入できたら？ ある目的のた […]
+The post 本物そっくりのロボット動物に 人の意識をホップ!? ディズニー・ピクサー映画『私がビーバーになる時』のトレーラー（英語／日本語） first appeared on 3dtotal 日本語オフィシャルサイト.]]></summary>
+        <author>
+            <name>3dtotal管理人T</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「海外で働くというのは、その国とご縁があるからだと考えています」報道とCMで培ったキャリアを武器に、LAで映像ディレクターとして活躍 第114回：柴田夏未（Director） - 連載]]></title>
+        <id>https://cgworld.jp/regular/114-shibata.html</id>
+        <link href="https://cgworld.jp/regular/114-shibata.html"/>
+        <updated>2025-12-01T01:30:00.000Z</updated>
+        <summary type="html"><![CDATA[LA在住の映像ディレクター柴田夏未氏の海外就業ストーリー。]]></summary>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【12/1限定】RetopoFlowにZenUVなど人気アドオン9種類+動画2本で定価342ドルが82％オフの62ドルで販売！]]></title>
         <id>https://modelinghappy.com/?p=65850</id>
@@ -4116,44 +4178,6 @@ AIの意思決定: 複数の判断基準から最適な行動を選択したい
 Custom Render Texture を使ってシミュレーションを行う際，自分自身のテクスチャ（ _SelfTexture* ）を参照...]]></summary>
         <author>
             <name>Shaderタグが付けられた新着記事 - Qiita</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WebGPU入門]]></title>
-        <id>https://zenn.dev/slowhand/articles/c7f69fbdfe84ed</id>
-        <link href="https://zenn.dev/slowhand/articles/c7f69fbdfe84ed"/>
-        <updated>2025-11-01T16:04:38.000Z</updated>
-        <summary type="html"><![CDATA[概要
-今回はWebGPUに関して、以下リンクのドキュメントに沿って自分なりにキャッチアップした際のメモになります。
-https://developer.mozilla.org/ja/docs/Web/API/WebGPU_API
-
- 動作環境
-
-MBA M3 Sequoia 15.6.1
-Chrome バージョン 141.0.7390.123（Official Build） （arm64）
-
-
- WebGPUとは…?
-
-WebGLの後継で、最近の GPU API と互換性があり、汎用 GPU 計算に対応し、操作を速くし、さらに高度な GPU の機能へのアクセスを可能にします
-
-具体的...]]></summary>
-        <author>
-            <name>slowhand</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3Delight NSI Python APIの練習]]></title>
-        <id>https://qiita.com/yokamak/items/ac0b92aa756220865536</id>
-        <link href="https://qiita.com/yokamak/items/ac0b92aa756220865536"/>
-        <updated>2025-11-01T13:57:11.000Z</updated>
-        <summary type="html"><![CDATA[3Delight NSIをPythonで記述する。
-Windowsの場合、C:\Program Files\3Delight\pythonのnsi.pyにpathを記述する。
-nsi.pyをコピーして、サンプルファイルと同じ場所に置く。
-# Load 3Delight
-i...]]></summary>
-        <author>
-            <name>3DCGタグが付けられた新着記事 - Qiita</name>
         </author>
     </entry>
 </feed>

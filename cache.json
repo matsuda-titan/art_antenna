@@ -888,6 +888,26 @@
       "siteUrl": "https://cgworld.jp/",
       "articles": [
         {
+          "id": "https://cgworld.jp/flashnews/02-2512-singulab.html",
+          "author": null,
+          "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
+          "link": "https://cgworld.jp/flashnews/02-2512-singulab.html",
+          "publishedOn": "2025-12-02T05:07:51.000Z",
+          "wordCount": 721,
+          "title": "スペースデータ、シンギュラリティに適応する未来人材育成コミュニティ「Singulab」開設および第1期メンバー募集開始 - ニュース",
+          "imageUrl": "https://cgworld.jp/flashnews/assets_c/2025/12/s-2104x1180_v-frms_webp_ae35f14b-b3e0-427f-8385-71eda5467457_middle-thumb-1000x563-76880.jpg"
+        },
+        {
+          "id": "https://cgworld.jp/flashnews/01-202512-Spade-and-Co.html",
+          "author": null,
+          "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
+          "link": "https://cgworld.jp/flashnews/01-202512-Spade-and-Co.html",
+          "publishedOn": "2025-12-02T04:33:57.000Z",
+          "wordCount": 735,
+          "title": "Spade&Co.が映画『宝島』VFXメイキングを公開！ 戦後沖縄の風景、リアルな火災シーン、大迫力のコザ暴動などを緻密な3DCGで再現 - ニュース",
+          "imageUrl": "https://cgworld.jp/flashnews/assets_c/2025/12/HerosIsland-01-thumb-1920x1080-76855.jpg"
+        },
+        {
           "id": "https://cgworld.jp/flashnews/2512-news-ecrito.html",
           "author": null,
           "description": "批評誌『エクリヲ』が、最新号となるvol.16で「リミナルスペース」を特集している。同誌は文学フリマ東京41をはじめ、通販（BOOTH）および全国の書店で販売中だ。",
@@ -2645,6 +2665,36 @@
       "siteUrl": "https://zenn.dev/topics/shader",
       "articles": [
         {
+          "id": "https://zenn.dev/iuti/articles/b1ae1a61fd88bd",
+          "author": "iuchico",
+          "description": "はじめに\nメタボール（Metaball）とは、複数の球体が近づくと滑らかに融合するような、有機的で流動的な形状を表現する技術です。1980年代にCG分野で開発され、現在でもゲームやアート作品で広く使用されています。\nこの記事では、ProcessingとGLSLシェーダーを使って、リアルタイムで動くメタボールを実装する方法を解説します。\n\n 完成イメージ\nhttps://x.com/chicochoo/status/1994839341584232584\n今回作るのは、以下のような特徴を持つメタボールアニメーションです：\n\nボールが重力と摩擦の影響を受けながら動く\nボール同士が近づくと...",
+          "link": "https://zenn.dev/iuti/articles/b1ae1a61fd88bd",
+          "publishedOn": "2025-12-02T02:54:01.000Z",
+          "wordCount": 2349,
+          "title": "Processingでメタボールを作る - GLSLシェーダーで有機的なアニメーション",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--Fh321Amw--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Processing%25E3%2581%25A7%25E3%2583%25A1%25E3%2582%25BF%25E3%2583%259C%25E3%2583%25BC%25E3%2583%25AB%25E3%2582%2592%25E4%25BD%259C%25E3%2582%258B%2520-%2520GLSL%25E3%2582%25B7%25E3%2582%25A7%25E3%2583%25BC%25E3%2583%2580%25E3%2583%25BC%25E3%2581%25A7%25E6%259C%2589%25E6%25A9%259F%25E7%259A%2584%25E3%2581%25AA%25E3%2582%25A2%25E3%2583%258B%25E3%2583%25A1%25E3%2583%25BC%25E3%2582%25B7%25E3%2583%25A7%25E3%2583%25B3%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:iuchico%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzY2N2RjNWU0NTMuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
+            "length": "0",
+            "type": "false"
+          },
+          "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--Fh321Amw--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Processing%25E3%2581%25A7%25E3%2583%25A1%25E3%2582%25BF%25E3%2583%259C%25E3%2583%25BC%25E3%2583%25AB%25E3%2582%2592%25E4%25BD%259C%25E3%2582%258B%2520-%2520GLSL%25E3%2582%25B7%25E3%2582%25A7%25E3%2583%25BC%25E3%2583%2580%25E3%2583%25BC%25E3%2581%25A7%25E6%259C%2589%25E6%25A9%259F%25E7%259A%2584%25E3%2581%25AA%25E3%2582%25A2%25E3%2583%258B%25E3%2583%25A1%25E3%2583%25BC%25E3%2582%25B7%25E3%2583%25A7%25E3%2583%25B3%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:iuchico%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzY2N2RjNWU0NTMuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"
+        },
+        {
+          "id": "https://zenn.dev/team411/articles/77339eacea5dec",
+          "author": "てるよし",
+          "description": "この記事はteam411 Advent Calender 2025の2日目の記事です。\n当アドベントカレンダーの他の記事はこちらから閲覧できます。\n\nおはこんばんにちは(死語)、team411のてるよしです。\nこの記事ではシェーダーの基礎概念と作品例、そしてシェーダーを始めるにあたって便利なサービスやサイトを紹介します。詳細なシェーダープログラミングの書き方などはすでに多くのチュートリアル記事があるので、ここでは割愛します。\n\n シェーダーとは\nMinecraftの影モッドや、Unity・UEなどのゲームエンジンに触れていれば聞いたことがあるかもしれません。名前からわかる通り、影(sh...",
+          "link": "https://zenn.dev/team411/articles/77339eacea5dec",
+          "publishedOn": "2025-12-02T00:00:02.000Z",
+          "wordCount": 448,
+          "title": "シェーダープログラミングのはじめかた",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--EPuuV1yB--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2582%25B7%25E3%2582%25A7%25E3%2583%25BC%25E3%2583%2580%25E3%2583%25BC%25E3%2583%2597%25E3%2583%25AD%25E3%2582%25B0%25E3%2583%25A9%25E3%2583%259F%25E3%2583%25B3%25E3%2582%25B0%25E3%2581%25AE%25E3%2581%25AF%25E3%2581%2598%25E3%2582%2581%25E3%2581%258B%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:%25E3%2581%25A6%25E3%2582%258B%25E3%2582%2588%25E3%2581%2597%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzA4YzQxYWIxYjYuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:team411%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2Y0ZDdjMWUwOWIuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
+            "length": "0",
+            "type": "false"
+          },
+          "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--EPuuV1yB--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2582%25B7%25E3%2582%25A7%25E3%2583%25BC%25E3%2583%2580%25E3%2583%25BC%25E3%2583%2597%25E3%2583%25AD%25E3%2582%25B0%25E3%2583%25A9%25E3%2583%259F%25E3%2583%25B3%25E3%2582%25B0%25E3%2581%25AE%25E3%2581%25AF%25E3%2581%2598%25E3%2582%2581%25E3%2581%258B%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:%25E3%2581%25A6%25E3%2582%258B%25E3%2582%2588%25E3%2581%2597%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzA4YzQxYWIxYjYuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:team411%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2Y0ZDdjMWUwOWIuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"
+        },
+        {
           "id": "https://zenn.dev/boichi/articles/ad58e85f88c5a3",
           "author": "ぼいち",
           "description": "はじめに\nこの記事は サイバーエージェント26卒内定者 Advent Calendarの2日目として投稿しています。\n2日目も投稿できるなんて光栄ですね。前世もいいことをしたのでしょう\n\n この記事でできること\nUnity URP環境で、\n最終的に以下のようなスキャン表現を実装します！\n\n（Ap○xの某キャラクターのスキルを参考にしています）\n\n この記事の対象\n基本的なUnityの操作ができることを前提としています。\n新たなプロジェクトを開いた状態からこの記事はスタートします。\n\n 作成環境\nUnity 6000.0.58f2 URP 3D\n\n まずはRender Objectsを...",
@@ -3530,6 +3580,16 @@
       "siteUrl": "https://note.com/hashtag/Houdini",
       "articles": [
         {
+          "id": "https://note.com/torutanno/n/nad2154527fe0",
+          "author": null,
+          "description": "【006/365】2025年12月2日\n画像生成界隈の進化が速すぎて、どのツールから始めていいかわからなくなってしまいそうです。\nですが、この技術について知見を得るには今が好機なのは間違いないと思うのです。能力の高い方々が寄ってたかって発信をしてくださっていますから、信頼できる方を見極めてnote、SNSをフォローしているだけで質の高い知見や習得すべきこと、タイミングがうっすらと見えてきます。\nその結果まずはAdobe FireFly とNano Banana Proをきちんと使えるようになることを当面の目標にしました。\n最終的な書き出し形式をpsdにできること、推論モードに適したプロンプトに慣れておきたいというのが、主な理由です。\n続きをみる",
+          "link": "https://note.com/torutanno/n/nad2154527fe0",
+          "publishedOn": "2025-12-02T02:38:45.000Z",
+          "wordCount": 2515,
+          "title": "Why I Chose Firefly & Nano Banana Pro: A Strategic Approach — Beyond Luck: The Joy of Mastering AI Workflows",
+          "imageUrl": "https://assets.st-note.com/production/uploads/images/233437718/rectangle_large_type_2_26ffef9c8b39c980d800e554c51616fb.png?width=800"
+        },
+        {
           "id": "https://note.com/pky3d/n/n93a4d1f7360b",
           "author": null,
           "description": "こちらの記事は、Houdini Apprentice Advent Calendar2020 / 15日目の記事になります。\n Houdini Apprentice - Qiita Advent Calendar 2020 - QiitaCalendar page for Qiita Advent Calendar 2020 regarding Houdinqiita.com \n続きをみる",
@@ -3762,26 +3822,6 @@
           "wordCount": 2345,
           "title": "新しいプロジェクト開始！",
           "imageUrl": "https://assets.st-note.com/production/uploads/images/227310273/rectangle_large_type_2_9d4a8aa19a9629ec483aa219f4ee45d8.jpeg?width=800"
-        },
-        {
-          "id": "https://note.com/ichiniisan/n/nfcc4c914c234",
-          "author": null,
-          "description": "朝の10時までたっぷり寝ました。\nその後Youtubeや漫画を２時間もみちゃいました。\nあぁ～疲れた。寝ようかな。\n続きをみる",
-          "link": "https://note.com/ichiniisan/n/nfcc4c914c234",
-          "publishedOn": "2025-11-02T14:03:51.000Z",
-          "wordCount": 2583,
-          "title": "せっかくの三連休を、充実した日にしたい。（日曜編）",
-          "imageUrl": "https://assets.st-note.com/production/uploads/images/230776824/rectangle_large_type_2_9cb2ff74348c37e568731539a69c747f.png?width=800"
-        },
-        {
-          "id": "https://note.com/tsukasa_yamato/n/nc3b32c8ae9c4",
-          "author": null,
-          "description": "Udemyで学習中のサブスタンス3Dペインター学習コース、7時間の「導入編」をようやく見終わった。全体で24時間のコースなので約3分の1が基礎編という大ボリュームなコースだが、おかげでほぼ抜け漏れなくサブペの基礎を理解したと言っていいだろう。そんなわけでMy解釈によるサブペの概要日記。\n学習中のUdemyコースはこちら。\n続きをみる",
-          "link": "https://note.com/tsukasa_yamato/n/nc3b32c8ae9c4",
-          "publishedOn": "2025-11-02T13:46:42.000Z",
-          "wordCount": 3003,
-          "title": "Marmoset Toolbagのためにサブスタンス3Dペインターを学習（サブペ学習 14日目）",
-          "imageUrl": "https://assets.st-note.com/production/uploads/images/226599481/rectangle_large_type_2_d5b635764f913e748a58cd8a275d73d1.jpeg?width=800"
         }
       ]
     },

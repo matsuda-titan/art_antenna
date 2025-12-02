@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-12-02T03:47:04.557Z</updated>
+    <updated>2025-12-02T08:17:43.675Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[スペースデータ、シンギュラリティに適応する未来人材育成コミュニティ「Singulab」開設および第1期メンバー募集開始 - ニュース]]></title>
+        <id>https://cgworld.jp/flashnews/02-2512-singulab.html</id>
+        <link href="https://cgworld.jp/flashnews/02-2512-singulab.html"/>
+        <updated>2025-12-02T05:07:51.000Z</updated>
+        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Spade&Co.が映画『宝島』VFXメイキングを公開！ 戦後沖縄の風景、リアルな火災シーン、大迫力のコザ暴動などを緻密な3DCGで再現 - ニュース]]></title>
+        <id>https://cgworld.jp/flashnews/01-202512-Spade-and-Co.html</id>
+        <link href="https://cgworld.jp/flashnews/01-202512-Spade-and-Co.html"/>
+        <updated>2025-12-02T04:33:57.000Z</updated>
+        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Geo-Scatter 5.6リリース！Physics Scattering Mode追加で“落とす・ぶつける・投げる”シミュレーション配置機能が追加！]]></title>
         <id>https://modelinghappy.com/?p=65905</id>
@@ -35,6 +55,40 @@ The post Geo-Scatter 5.6リリース！Physics Scattering Mode追加で“落と
         <summary type="html"><![CDATA[批評誌『エクリヲ』が、最新号となるvol.16で「リミナルスペース」を特集している。同誌は文学フリマ東京41をはじめ、通販（BOOTH）および全国の書店で販売中だ。]]></summary>
         <author>
             <name>CGWORLD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Processingでメタボールを作る - GLSLシェーダーで有機的なアニメーション]]></title>
+        <id>https://zenn.dev/iuti/articles/b1ae1a61fd88bd</id>
+        <link href="https://zenn.dev/iuti/articles/b1ae1a61fd88bd"/>
+        <updated>2025-12-02T02:54:01.000Z</updated>
+        <summary type="html"><![CDATA[はじめに
+メタボール（Metaball）とは、複数の球体が近づくと滑らかに融合するような、有機的で流動的な形状を表現する技術です。1980年代にCG分野で開発され、現在でもゲームやアート作品で広く使用されています。
+この記事では、ProcessingとGLSLシェーダーを使って、リアルタイムで動くメタボールを実装する方法を解説します。
+
+ 完成イメージ
+https://x.com/chicochoo/status/1994839341584232584
+今回作るのは、以下のような特徴を持つメタボールアニメーションです：
+
+ボールが重力と摩擦の影響を受けながら動く
+ボール同士が近づくと...]]></summary>
+        <author>
+            <name>iuchico</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why I Chose Firefly & Nano Banana Pro: A Strategic Approach — Beyond Luck: The Joy of Mastering AI Workflows]]></title>
+        <id>https://note.com/torutanno/n/nad2154527fe0</id>
+        <link href="https://note.com/torutanno/n/nad2154527fe0"/>
+        <updated>2025-12-02T02:38:45.000Z</updated>
+        <summary type="html"><![CDATA[【006/365】2025年12月2日
+画像生成界隈の進化が速すぎて、どのツールから始めていいかわからなくなってしまいそうです。
+ですが、この技術について知見を得るには今が好機なのは間違いないと思うのです。能力の高い方々が寄ってたかって発信をしてくださっていますから、信頼できる方を見極めてnote、SNSをフォローしているだけで質の高い知見や習得すべきこと、タイミングがうっすらと見えてきます。
+その結果まずはAdobe FireFly とNano Banana Proをきちんと使えるようになることを当面の目標にしました。
+最終的な書き出し形式をpsdにできること、推論モードに適したプロンプトに慣れておきたいというのが、主な理由です。
+続きをみる]]></summary>
+        <author>
+            <name>#Houdiniタグ</name>
         </author>
     </entry>
     <entry>
@@ -77,6 +131,23 @@ The post 君もジェダイに!? ILM や ルーカスフィルムのインター
         <summary type="html"><![CDATA[映画『ホウセンカ』の3DCGと撮影のメイキングを紹介。]]></summary>
         <author>
             <name>CGWORLD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[シェーダープログラミングのはじめかた]]></title>
+        <id>https://zenn.dev/team411/articles/77339eacea5dec</id>
+        <link href="https://zenn.dev/team411/articles/77339eacea5dec"/>
+        <updated>2025-12-02T00:00:02.000Z</updated>
+        <summary type="html"><![CDATA[この記事はteam411 Advent Calender 2025の2日目の記事です。
+当アドベントカレンダーの他の記事はこちらから閲覧できます。
+
+おはこんばんにちは(死語)、team411のてるよしです。
+この記事ではシェーダーの基礎概念と作品例、そしてシェーダーを始めるにあたって便利なサービスやサイトを紹介します。詳細なシェーダープログラミングの書き方などはすでに多くのチュートリアル記事があるので、ここでは割愛します。
+
+ シェーダーとは
+Minecraftの影モッドや、Unity・UEなどのゲームエンジンに触れていれば聞いたことがあるかもしれません。名前からわかる通り、影(sh...]]></summary>
+        <author>
+            <name>てるよし</name>
         </author>
     </entry>
     <entry>
@@ -4418,31 +4489,6 @@ The post Even Loop – 乱れたエッジやエッジループを等間隔に整
         <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
         <author>
             <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[せっかくの三連休を、充実した日にしたい。（日曜編）]]></title>
-        <id>https://note.com/ichiniisan/n/nfcc4c914c234</id>
-        <link href="https://note.com/ichiniisan/n/nfcc4c914c234"/>
-        <updated>2025-11-02T14:03:51.000Z</updated>
-        <summary type="html"><![CDATA[朝の10時までたっぷり寝ました。
-その後Youtubeや漫画を２時間もみちゃいました。
-あぁ～疲れた。寝ようかな。
-続きをみる]]></summary>
-        <author>
-            <name>#substancepainterタグ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Marmoset Toolbagのためにサブスタンス3Dペインターを学習（サブペ学習 14日目）]]></title>
-        <id>https://note.com/tsukasa_yamato/n/nc3b32c8ae9c4</id>
-        <link href="https://note.com/tsukasa_yamato/n/nc3b32c8ae9c4"/>
-        <updated>2025-11-02T13:46:42.000Z</updated>
-        <summary type="html"><![CDATA[Udemyで学習中のサブスタンス3Dペインター学習コース、7時間の「導入編」をようやく見終わった。全体で24時間のコースなので約3分の1が基礎編という大ボリュームなコースだが、おかげでほぼ抜け漏れなくサブペの基礎を理解したと言っていいだろう。そんなわけでMy解釈によるサブペの概要日記。
-学習中のUdemyコースはこちら。
-続きをみる]]></summary>
-        <author>
-            <name>#substancepainterタグ</name>
         </author>
     </entry>
 </feed>

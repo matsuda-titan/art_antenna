@@ -2,10 +2,59 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-12-02T12:24:15.670Z</updated>
+    <updated>2025-12-03T00:55:31.251Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Blenderのジオメトリノードを駆使した甲冑の宝飾デザインが話題！ ファイル無償配布、Erindale Woodford氏の投稿 - ニュース]]></title>
+        <id>https://cgworld.jp/flashnews/01-202512-GeoNodesArmor.html</id>
+        <link href="https://cgworld.jp/flashnews/01-202512-GeoNodesArmor.html"/>
+        <updated>2025-12-02T22:27:01.000Z</updated>
+        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[mayaのカメラをなんとかしたい2 ~vartical を horizontal へ~ おかわり]]></title>
+        <id>https://qiita.com/9boz/items/c9c9064acef11fb8d5b7</id>
+        <link href="https://qiita.com/9boz/items/c9c9064acef11fb8d5b7"/>
+        <updated>2025-12-02T22:06:15.000Z</updated>
+        <summary type="html"><![CDATA[以前のこれですが、なんかうまくいかない
+
+getRenderingFrustum　が取れたり取れなかったりなので、
+なんだか安定しないんですよねぇ
+
+整理して考える
+filmApertureの横基準か、縦基準かを考慮して
+設定された解像度からresolutionGate...]]></summary>
+        <author>
+            <name>mayaタグが付けられた新着記事 - Qiita</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ShapeScape Studio - Painterly Tree & Flora Creator - ビルボードメッシュによる手描き感溢れる植物などを手軽に制作可能なBlender用NPRツールキットがリリース！]]></title>
+        <id>https://3dnchu.com/?p=1060307</id>
+        <link href="https://3dnchu.com/archives/shapescape-studio/"/>
+        <updated>2025-12-02T18:32:26.000Z</updated>
+        <summary type="html"><![CDATA[Cody Gindy＆Tradigital3D（Alan Wyatt氏）による手描き感溢れる植物などを手軽に制作可能なBlender用NPRツールキット「ShapeScape Studio - Painterly Tree & Flora Creator」がリリースされました！]]></summary>
+        <author>
+            <name>Ymt3D -3dnchu-</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Houdini初心者の私から新規へ 2025]]></title>
+        <id>https://note.com/kei_nozaki/n/n91e2f3986ec8</id>
+        <link href="https://note.com/kei_nozaki/n/n91e2f3986ec8"/>
+        <updated>2025-12-02T15:02:30.000Z</updated>
+        <summary type="html"><![CDATA[Houdini Apprentice Advent Calendar 2025、3日目の記事です。
+いまだに初心者の私ですが、Houdiniが気になって仕方ない方たちへ向けてQ&Aっぽくつらつらと書いてみようと思います。画像少なめ。
+続きをみる]]></summary>
+        <author>
+            <name>#Houdiniタグ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[来週開催！受講者数NO1！意味ある背景のつくり方『背景モデリング講座～背景に必要な空間要素と意味のある背景作り～』が12月10日にオンライン配信 - ニュース]]></title>
         <id>https://cgworld.jp/flashnews/2512-plusone-suzuki.html</id>
@@ -87,6 +136,25 @@ The post Geo-Scatter 5.6リリース！Physics Scattering Mode追加で“落と
         <summary type="html"><![CDATA[批評誌『エクリヲ』が、最新号となるvol.16で「リミナルスペース」を特集している。同誌は文学フリマ東京41をはじめ、通販（BOOTH）および全国の書店で販売中だ。]]></summary>
         <author>
             <name>CGWORLD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Processingでメタボールを作る - GLSLシェーダーで有機的なアニメーション]]></title>
+        <id>https://zenn.dev/iuti/articles/b1ae1a61fd88bd</id>
+        <link href="https://zenn.dev/iuti/articles/b1ae1a61fd88bd"/>
+        <updated>2025-12-02T02:54:01.000Z</updated>
+        <summary type="html"><![CDATA[はじめに
+メタボール（Metaball）とは、複数の球体が近づくと滑らかに融合するような、有機的で流動的な形状を表現する技術です。1980年代にCG分野で開発され、現在でもゲームやアート作品で広く使用されています。
+この記事では、ProcessingとGLSLシェーダーを使って、リアルタイムで動くメタボールを実装する方法を解説します。
+
+ 完成イメージ
+https://x.com/chicochoo/status/1994839341584232584
+今回作るのは、以下のような特徴を持つメタボールアニメーションです：
+
+ボールが重力と摩擦の影響を受けながら動く
+ボール同士が近づくと...]]></summary>
+        <author>
+            <name>iuchico</name>
         </author>
     </entry>
     <entry>
@@ -4457,60 +4525,6 @@ The post The Mill × MPC、Framestore、VFXスタジオのハロウィンリー�
 Adobe Photoshop 2025年10月アップデートがリリース！パートナーAIモデルや「調和」機能が正式版に登場！ first appeared on CGinterest.]]></summary>
         <author>
             <name>.me</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Unreal EngineとBlenderを使って光と影を操る4種類のコンセプトアート制作講座がWingfoxで登場！]]></title>
-        <id>https://modelinghappy.com/?p=65268</id>
-        <link href="https://modelinghappy.com/archives/65268"/>
-        <updated>2025-11-03T09:16:04.000Z</updated>
-        <summary type="html"><![CDATA[Unreal Engine CG Concept Art: [Four Major Scenes | Mastering Light and Shadow] 世界中のチュートリアル動画を販売しているWingfoxのサイト
-The post Unreal EngineとBlenderを使って光と影を操る4種類のコンセプトアート制作講座がWingfoxで登場！ first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
-        <author>
-            <name>modelinghappy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Blenderで別メッシュにリアルタイムで形状を沿わせる便利モディファイアーを使ってみました。]]></title>
-        <id>https://modelinghappy.com/?p=65233</id>
-        <link href="https://modelinghappy.com/archives/65233"/>
-        <updated>2025-11-03T08:07:36.000Z</updated>
-        <summary type="html"><![CDATA[Surfaceflow – Realtime Surface Deformation Blenderで別のメッシュの表面にモデルを沿わせて配置できるモディファイアを実際に使ってみましたが便利だったので記事にしました。 ま
-The post Blenderで別メッシュにリアルタイムで形状を沿わせる便利モディファイアーを使ってみました。 first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
-        <author>
-            <name>modelinghappy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【無料アドオン紹介】Kushiro Tools – 20個の便利なモデリング系アドオン！]]></title>
-        <id>https://cgbox.jp/?p=64485</id>
-        <link href="https://cgbox.jp/2025/11/03/news-addon-kushiro-tools/"/>
-        <updated>2025-11-03T02:24:55.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは！ 今回はアドオンの「Kushiro Tools」を紹介します。 こちらのリンクがアドオンの商品ページになります。 Kushiro Tools 「Kushiro Tools」は、gumroadで10,000回以 […]]]></summary>
-        <author>
-            <name>kasahara</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Emo Eff Rig [Ver 1.0] Mayaで使える36種類の様々なリグとアニメーションが付いた無料の感情エフェクトデータ]]></title>
-        <id>https://modelinghappy.com/?p=65229</id>
-        <link href="https://modelinghappy.com/archives/65229"/>
-        <updated>2025-11-03T01:48:17.000Z</updated>
-        <summary type="html"><![CDATA[Emo Eff Rig [Ver 1.0] Emo Eff Rig [Ver 1.0]はokawaiikaさんが作成した、Mayaで使えるクエスチョンマーク、ビックリマーク、汗、星、キラキラ、音符マークなど36種類の様々
-The post Emo Eff Rig [Ver 1.0] Mayaで使える36種類の様々なリグとアニメーションが付いた無料の感情エフェクトデータ first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
-        <author>
-            <name>modelinghappy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Even Loop – 乱れたエッジやエッジループを等間隔に整列・中央配置できる無料Blenderアドオン]]></title>
-        <id>https://modelinghappy.com/?p=65220</id>
-        <link href="https://modelinghappy.com/archives/65220"/>
-        <updated>2025-11-03T01:20:00.000Z</updated>
-        <summary type="html"><![CDATA[Even Loop Even Loopは、Kushiroさんが作成したBlender用アドオンで、選択したエッジループを隣のエッジループとのちょうど真ん中に移動させたり、選択したエッジループを等間隔に整理・調整出来るアド
-The post Even Loop – 乱れたエッジやエッジループを等間隔に整列・中央配置できる無料Blenderアドオン first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
-        <author>
-            <name>modelinghappy</name>
         </author>
     </entry>
 </feed>

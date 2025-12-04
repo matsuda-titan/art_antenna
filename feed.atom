@@ -2,10 +2,52 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-12-03T12:23:49.045Z</updated>
+    <updated>2025-12-04T00:55:56.853Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[VoxelKei氏、無料の3DGS編集用Unityエディタ拡張「Spatialograph Maker」ベータ版をBOOTHで公開！　小規模・大規模・ボクセル化の3種モードを搭載 - ニュース]]></title>
+        <id>https://cgworld.jp/flashnews/01-202512-SpatialographMaker.html</id>
+        <link href="https://cgworld.jp/flashnews/01-202512-SpatialographMaker.html"/>
+        <updated>2025-12-03T22:38:33.000Z</updated>
+        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ぶつ切りモデルを楽に生成したい]]></title>
+        <id>https://qiita.com/9boz/items/00035885fbf2882e9e3c</id>
+        <link href="https://qiita.com/9boz/items/00035885fbf2882e9e3c"/>
+        <updated>2025-12-03T22:05:07.000Z</updated>
+        <summary type="html"><![CDATA[リグをセットアップしてると
+モデルをぶつ切りにして軽量化したセットアップを作ることがまぁあります。
+とりあえず手作業でやってましたが、面倒すぎるので何とかしたいなぁと
+以前作ったこの処理を使ってなんとかかんとか
+
+もう少し解像度をあげる
+ぶつ切りモデルを作ったところで...]]></summary>
+        <author>
+            <name>mayaタグが付けられた新着記事 - Qiita</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[激推しターミナルアプリ「Ghostty」でカスタムシェーダーを設定してみる]]></title>
+        <id>https://zenn.dev/applibot_tech/articles/47fc427a5defa0</id>
+        <link href="https://zenn.dev/applibot_tech/articles/47fc427a5defa0"/>
+        <updated>2025-12-03T16:56:12.000Z</updated>
+        <summary type="html"><![CDATA[この記事は Applibot Advent Calendar 2025 4日目の記事です。
+前回の記事は、@nodyさんのRedis Streamsをローカルで動かしてみたです。
+
+ はじめに
+みなさん、ターミナルは使っていますか？
+今回は私の激推しターミナルである Ghostty のカスタムシェーダー機能の設定方法をご紹介したいと思います。
+Ghosttyは、HashiCorpの共同創業者であるMitchell Hashimoto氏が開発したGPUベースのターミナルエミュレータです。macOSではMetal、LinuxではOpenGLを使用してGPUレンダリングを行っており、その特性を...]]></summary>
+        <author>
+            <name>FirstSS</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【Maya】ピボット位置を一軸だけエッジや頂点の位置に移動させる方法]]></title>
         <id>https://3d.crdg.jp/env/?p=8784</id>
@@ -37,6 +79,22 @@
         <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
         <author>
             <name>CGWORLD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ゲームにおける実践的なレイマーチング ― ラスタライズ方式と併用]]></title>
+        <id>https://zenn.dev/sashi0034/articles/3f268022b4df9f</id>
+        <link href="https://zenn.dev/sashi0034/articles/3f268022b4df9f"/>
+        <updated>2025-12-03T06:04:02.000Z</updated>
+        <summary type="html"><![CDATA[KMC Advent Calender 2025 の 4 日目の記事です。
+本記事ではラスタライズ方式とレイマーチング方式を組み合わせた描画について、実際に自作エンジンでR&Dした内容を紹介します。
+ゲームのグラフィック技術についてまだまだ勉強中であり、本業の方からすれば拙い内容となっているかもしれませんが、大目に見ていただけると幸いです。
+
+
+ 1. ポリゴンを用いた現代の3D描画手法
+この記事を読んでいる方であれば、「ポリゴン」という言葉を一度は耳にしたことがあるのではないでしょうか。本記事では、三角形を基本単位とする 3D 形状の構成要素をポリゴンと呼ぶことにします。現代の...]]></summary>
+        <author>
+            <name>sashi</name>
         </author>
     </entry>
     <entry>
@@ -4526,91 +4584,6 @@ Illustrator 2025年10月アップデートがリリース！2Dオブジェクト
         <summary type="html"><![CDATA[DaDaDaDaBingによるNiagaraとBlueprintのみで構築されたUnreal Engine 5向け群衆制御システム「EasyCrowds」がFab上でリリースされています！]]></summary>
         <author>
             <name>Ymt3D -3dnchu-</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【Substance Painter】Ambient occlusionの強さを編集する方法]]></title>
-        <id>https://3d.crdg.jp/env/?p=8672</id>
-        <link href="https://3d.crdg.jp/env/2025/11/04/8672/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=%25e3%2580%2590substance-painter%25e3%2580%2591ambient-occlusion%25e3%2581%25ae%25e5%25bc%25b7%25e3%2581%2595%25e3%2582%2592%25e7%25b7%25a8%25e9%259b%2586%25e3%2581%2599%25e3%2582%258b%25e6%2596%25b9%25e6%25b3%2595"/>
-        <updated>2025-11-04T10:26:18.000Z</updated>
-        <summary type="html"><![CDATA[ハイモデルをいじらずに、Substance Painter内でAmbient occlusionの編集の仕方をご紹介します。 Ambient occl […]
-続きを読む
-投稿 【Substance Painter】Ambient occlusionの強さを編集する方法 は エンホリ - ENVIRONMENT HOLIC｜C&R Creative Studios に最初に表示されました。]]></summary>
-        <author>
-            <name>Akito.Yamakawa</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ペイントオーバー用 3Dモデルの作成：ペイント編（※データダウンロードあり）]]></title>
-        <id>https://3dtotal.jp/?p=53490</id>
-        <link href="https://3dtotal.jp/tutorials/53490/"/>
-        <updated>2025-11-04T08:20:01.000Z</updated>
-        <summary type="html"><![CDATA[>>> 1. モデリング編 >>> データダウンロード：Ztool、FBX はじめに 前回は ZBrush を使って、アイデア出しと制作を同時に進めることができました。これにより、通常ならサムネイル作成、スケッチ、イテレ […]
-The post ペイントオーバー用 3Dモデルの作成：ペイント編（※データダウンロードあり） first appeared on 3dtotal 日本語オフィシャルサイト.]]></summary>
-        <author>
-            <name>3dtotal管理人T</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ILM×マーベル×ディズニーのコラボ。リアルタイムで動く「ガーディアンズ・オブ・ギャラクシー」のロケット・ラクーン]]></title>
-        <id>https://3dtotal.jp/?p=53474</id>
-        <link href="https://3dtotal.jp/news/53474/"/>
-        <updated>2025-11-04T07:24:11.000Z</updated>
-        <summary type="html"><![CDATA[★Behind the Magic | Real-Time Rocket（5分10秒） 2024年の夏、ディズニーのファンイベント D23エキスポ でTVA のタイムドアの前に立つと、マーベル・スタジオの「ガーディアンズ […]
-The post ILM×マーベル×ディズニーのコラボ。リアルタイムで動く「ガーディアンズ・オブ・ギャラクシー」のロケット・ラクーン first appeared on 3dtotal 日本語オフィシャルサイト.]]></summary>
-        <author>
-            <name>3dtotal管理人T</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Mill × MPC、Framestore、VFXスタジオのハロウィンリール 2025]]></title>
-        <id>https://3dtotal.jp/?p=53468</id>
-        <link href="https://3dtotal.jp/news/53468/"/>
-        <updated>2025-11-04T07:17:28.000Z</updated>
-        <summary type="html"><![CDATA[★The Mill x MPC - Halloween 2025（1分4秒） ピュアな悪夢の燃料を凝縮した1カット。このハロウィン2025 デモでは、MPC と The Mill が手掛けた最も血みどろでグロテスク、そし […]
-The post The Mill × MPC、Framestore、VFXスタジオのハロウィンリール 2025 first appeared on 3dtotal 日本語オフィシャルサイト.]]></summary>
-        <author>
-            <name>3dtotal管理人T</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【アドオン紹介】Bend Flow X – 直感的なインターフェイスで折り曲げ！]]></title>
-        <id>https://cgbox.jp/?p=64493</id>
-        <link href="https://cgbox.jp/2025/11/04/news-addon-bend-flow-x/"/>
-        <updated>2025-11-04T04:48:57.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは！ 今回はアドオンの「Bend Flow X」を紹介します。 こちらのリンクがアドオンの商品ページになります。 Bend Flow X 「Bend Flow X」は、直感的な操作でメッシュを自在に曲げるアドオン […]]]></summary>
-        <author>
-            <name>kasahara</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BakeFlow v1.1 - BlenderからToolbagでのベイクワークフローに適した便利なサポートツールセットBlenderアドオン！無料！]]></title>
-        <id>https://3dnchu.com/?p=1059683</id>
-        <link href="https://3dnchu.com/archives/bakeflow-v1-1-kostia-perry/"/>
-        <updated>2025-11-04T03:35:26.000Z</updated>
-        <summary type="html"><![CDATA[TAで環境アーティストのKostia Perry氏による、Marmoset Toolbagでのベイクへ向けた支援をしてくれるBlenderアドオン「BakeFlow」のご紹介！無料でダウンロード可能です！]]></summary>
-        <author>
-            <name>Ymt3D -3dnchu-</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pivot Painter v3.1 - Unreal EngineのPivot Painter 2.0対応のピボットデータを構築するためのBlender向け無料アドオン！Blender 4.5対応の最新版がリリース！]]></title>
-        <id>https://3dnchu.com/?p=1059682</id>
-        <link href="https://3dnchu.com/archives/pivot-painter-v3-1-kostia-perry/"/>
-        <updated>2025-11-04T03:13:18.000Z</updated>
-        <summary type="html"><![CDATA[TAで環境アーティストのKostia Perry氏による、Unreal Engine 5のPivot Painter 2.0対応データを構築するBlenderアドオン「Pivot Painter」のv3.1がリリースされました！無料でダウンロード可能です！]]></summary>
-        <author>
-            <name>Ymt3D -3dnchu-</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「プリビズは、日本のアニメの構成力や演出、独特のタイミング感を活かせる分野です」日本で培った表現力を武器に、欧州映像業界へ 第113回：荒井将人（Previs・VFX Layout Artist / freelance） - 連載]]></title>
-        <id>https://cgworld.jp/regular/113-arai.html</id>
-        <link href="https://cgworld.jp/regular/113-arai.html"/>
-        <updated>2025-11-04T01:30:00.000Z</updated>
-        <summary type="html"><![CDATA[ドイツで働く荒井将人氏の海外就業ストーリー。]]></summary>
-        <author>
-            <name>CGWORLD</name>
         </author>
     </entry>
 </feed>

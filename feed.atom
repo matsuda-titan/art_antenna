@@ -2,10 +2,74 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-12-06T03:37:32.865Z</updated>
+    <updated>2025-12-06T08:14:06.982Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[GPUのパストレはやっぱり速くてよい]]></title>
+        <id>https://qiita.com/hextomino/items/133e5397bafa0448fd18</id>
+        <link href="https://qiita.com/hextomino/items/133e5397bafa0448fd18"/>
+        <updated>2025-12-06T07:25:39.000Z</updated>
+        <summary type="html"><![CDATA[レイトレをGPU実装するのは、再帰処理できない場合、大変。再帰的処理をコードで展開する必要があるから。
+それに比べて、パストレをGPU実装するのは、楽である。確率で処理するので、上記の心配がない。ただし、確立計算に伴うノイズが絶対に生じる。デノイズ必須。
+
+このGPUパスト...]]></summary>
+        <author>
+            <name>Shaderタグが付けられた新着記事 - Qiita</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GPUのパストレはやっぱり速くてよい]]></title>
+        <id>https://qiita.com/hextomino/items/133e5397bafa0448fd18</id>
+        <link href="https://qiita.com/hextomino/items/133e5397bafa0448fd18"/>
+        <updated>2025-12-06T07:25:39.000Z</updated>
+        <summary type="html"><![CDATA[レイトレをGPU実装するのは、再帰処理できない場合、大変。再帰的処理をコードで展開する必要があるから。
+それに比べて、パストレをGPU実装するのは、楽である。確率で処理するので、上記の心配がない。ただし、確立計算に伴うノイズが絶対に生じる。デノイズ必須。
+
+このGPUパスト...]]></summary>
+        <author>
+            <name>GLSLタグが付けられた新着記事 - Qiita</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[レイトレーシング GLSL]]></title>
+        <id>https://qiita.com/hextomino/items/37f3f25f847088d2b2b5</id>
+        <link href="https://qiita.com/hextomino/items/37f3f25f847088d2b2b5"/>
+        <updated>2025-12-06T03:52:08.000Z</updated>
+        <summary type="html"><![CDATA[シェーダでの実装は高速ですが、
+再帰が使えないので、
+とくにガラス素材は苦手
+
+raytrace.pde
+PShader RTShader;
+
+void setup() {
+  pixelDensity(1);
+  size(512, 512, P2D);   // P2...]]></summary>
+        <author>
+            <name>Shaderタグが付けられた新着記事 - Qiita</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[レイトレーシング GLSL]]></title>
+        <id>https://qiita.com/hextomino/items/37f3f25f847088d2b2b5</id>
+        <link href="https://qiita.com/hextomino/items/37f3f25f847088d2b2b5"/>
+        <updated>2025-12-06T03:52:08.000Z</updated>
+        <summary type="html"><![CDATA[シェーダでの実装は高速ですが、
+再帰が使えないので、
+とくにガラス素材は苦手
+
+raytrace.pde
+PShader RTShader;
+
+void setup() {
+  pixelDensity(1);
+  size(512, 512, P2D);   // P2...]]></summary>
+        <author>
+            <name>GLSLタグが付けられた新着記事 - Qiita</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【無料アドオン】Bone Widget – ボーン表示をカスタムできるアドオン]]></title>
         <id>https://cgbox.jp/?p=64785</id>
@@ -4733,18 +4797,6 @@ The post 差し迫る火山噴火の兆候。ノルウェーのドラマ『ラ�
 柔軟な群衆システムを搭載したBlender用のリアルな群衆シミュレーションアドオン「iCrowds」 first appeared on CGinterest.]]></summary>
         <author>
             <name>.me</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[自作関数を作ってPhotoshopのオーバーレイを頂点カラーに適用する]]></title>
-        <id>https://note.com/thesaurus/n/n1df408a93f5b</id>
-        <link href="https://note.com/thesaurus/n/n1df408a93f5b"/>
-        <updated>2025-11-06T16:33:51.000Z</updated>
-        <summary type="html"><![CDATA[VEXで自作関数を作る方法は忘れやすいので、メモも兼ねて、Photoshopのオーバーレイを頂点カラーに使う関数を作成してみます。
-
-続きをみる]]></summary>
-        <author>
-            <name>#Houdiniタグ</name>
         </author>
     </entry>
 </feed>

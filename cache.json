@@ -3375,6 +3375,26 @@
       "siteUrl": "https://qiita.com",
       "articles": [
         {
+          "id": "https://qiita.com/hextomino/items/133e5397bafa0448fd18",
+          "author": null,
+          "description": "レイトレをGPU実装するのは、再帰処理できない場合、大変。再帰的処理をコードで展開する必要があるから。\nそれに比べて、パストレをGPU実装するのは、楽である。確率で処理するので、上記の心配がない。ただし、確立計算に伴うノイズが絶対に生じる。デノイズ必須。\n\nこのGPUパスト...",
+          "link": "https://qiita.com/hextomino/items/133e5397bafa0448fd18",
+          "publishedOn": "2025-12-06T07:25:39.000Z",
+          "wordCount": 6180,
+          "title": "GPUのパストレはやっぱり速くてよい",
+          "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnFpaXRhLWltYWdlLXN0b3JlLnMzLmFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkYwJTJGNTEwMjU3JTJGcHJvZmlsZS1pbWFnZXMlMkYxNzA5NTg5OTA0P2l4bGliPXJiLTQuMC4wJmFyPTElM0ExJmZpdD1jcm9wJm1hc2s9ZWxsaXBzZSZiZz1GRkZGRkYmZm09cG5nMzImcz1kNTJiYjA4OTMzM2M4NzNhOTYyNzc0NmZhOWU4NzYxNw%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D391c02f1169debba7ba7402a11c55c27?ixlib=rb-4.0.0&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9R1BVJUUzJTgxJUFFJUUzJTgzJTkxJUUzJTgyJUI5JUUzJTgzJTg4JUUzJTgzJUFDJUUzJTgxJUFGJUUzJTgyJTg0JUUzJTgxJUEzJUUzJTgxJUIxJUUzJTgyJThBJUU5JTgwJTlGJUUzJTgxJThGJUUzJTgxJUE2JUUzJTgyJTg4JUUzJTgxJTg0JnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9NGNmZTU0ZDVmMTcyOTI4N2E1Y2E5MTk2N2ZhNmM0YTQ&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBoZXh0b21pbm8mdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz0wYmZhNzUxNjYyMDg1OGRhNWI5YWQwODAwOTQxYTMyYw&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=12e0f12b36ecb1e3df3f47e8fc6443ac"
+        },
+        {
+          "id": "https://qiita.com/hextomino/items/37f3f25f847088d2b2b5",
+          "author": null,
+          "description": "シェーダでの実装は高速ですが、\n再帰が使えないので、\nとくにガラス素材は苦手\n\nraytrace.pde\nPShader RTShader;\n\nvoid setup() {\n  pixelDensity(1);\n  size(512, 512, P2D);   // P2...",
+          "link": "https://qiita.com/hextomino/items/37f3f25f847088d2b2b5",
+          "publishedOn": "2025-12-06T03:52:08.000Z",
+          "wordCount": 4422,
+          "title": "レイトレーシング GLSL",
+          "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnFpaXRhLWltYWdlLXN0b3JlLnMzLmFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkYwJTJGNTEwMjU3JTJGcHJvZmlsZS1pbWFnZXMlMkYxNzA5NTg5OTA0P2l4bGliPXJiLTQuMC4wJmFyPTElM0ExJmZpdD1jcm9wJm1hc2s9ZWxsaXBzZSZiZz1GRkZGRkYmZm09cG5nMzImcz1kNTJiYjA4OTMzM2M4NzNhOTYyNzc0NmZhOWU4NzYxNw%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D391c02f1169debba7ba7402a11c55c27?ixlib=rb-4.0.0&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9JUUzJTgzJUFDJUUzJTgyJUE0JUUzJTgzJTg4JUUzJTgzJUFDJUUzJTgzJUJDJUUzJTgyJUI3JUUzJTgzJUIzJUUzJTgyJUIwJTIwR0xTTCZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnR4dC1wYWQ9MCZzPTBmODE1NmJiMjMwYTU4ZjhiMGRlZDY5YTkyZTI3NTRk&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBoZXh0b21pbm8mdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz0wYmZhNzUxNjYyMDg1OGRhNWI5YWQwODAwOTQxYTMyYw&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=59e05efc611678291d63505905bba37a"
+        },
+        {
           "id": "https://qiita.com/tyanmahou/items/89bf2654c8b76063a8e4",
           "author": null,
           "description": "はじめに\n\nカラーグレーディングとは\n一言で言うと\n色合いを調整するポストプロセス\nコントラストや彩度などのパラメータ調整をして扱うケースも多いですが\n今回はシンプルに Lookup Table (LUT) (もしくはLookup Textureといったりする) を使って...",
@@ -3491,6 +3511,26 @@
       "feedUrl": "https://qiita.com/tags/glsl/feed",
       "siteUrl": "https://qiita.com",
       "articles": [
+        {
+          "id": "https://qiita.com/hextomino/items/133e5397bafa0448fd18",
+          "author": null,
+          "description": "レイトレをGPU実装するのは、再帰処理できない場合、大変。再帰的処理をコードで展開する必要があるから。\nそれに比べて、パストレをGPU実装するのは、楽である。確率で処理するので、上記の心配がない。ただし、確立計算に伴うノイズが絶対に生じる。デノイズ必須。\n\nこのGPUパスト...",
+          "link": "https://qiita.com/hextomino/items/133e5397bafa0448fd18",
+          "publishedOn": "2025-12-06T07:25:39.000Z",
+          "wordCount": 6184,
+          "title": "GPUのパストレはやっぱり速くてよい",
+          "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnFpaXRhLWltYWdlLXN0b3JlLnMzLmFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkYwJTJGNTEwMjU3JTJGcHJvZmlsZS1pbWFnZXMlMkYxNzA5NTg5OTA0P2l4bGliPXJiLTQuMC4wJmFyPTElM0ExJmZpdD1jcm9wJm1hc2s9ZWxsaXBzZSZiZz1GRkZGRkYmZm09cG5nMzImcz1kNTJiYjA4OTMzM2M4NzNhOTYyNzc0NmZhOWU4NzYxNw%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D391c02f1169debba7ba7402a11c55c27?ixlib=rb-4.0.0&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9R1BVJUUzJTgxJUFFJUUzJTgzJTkxJUUzJTgyJUI5JUUzJTgzJTg4JUUzJTgzJUFDJUUzJTgxJUFGJUUzJTgyJTg0JUUzJTgxJUEzJUUzJTgxJUIxJUUzJTgyJThBJUU5JTgwJTlGJUUzJTgxJThGJUUzJTgxJUE2JUUzJTgyJTg4JUUzJTgxJTg0JnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9NGNmZTU0ZDVmMTcyOTI4N2E1Y2E5MTk2N2ZhNmM0YTQ&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBoZXh0b21pbm8mdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz0wYmZhNzUxNjYyMDg1OGRhNWI5YWQwODAwOTQxYTMyYw&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=12e0f12b36ecb1e3df3f47e8fc6443ac"
+        },
+        {
+          "id": "https://qiita.com/hextomino/items/37f3f25f847088d2b2b5",
+          "author": null,
+          "description": "シェーダでの実装は高速ですが、\n再帰が使えないので、\nとくにガラス素材は苦手\n\nraytrace.pde\nPShader RTShader;\n\nvoid setup() {\n  pixelDensity(1);\n  size(512, 512, P2D);   // P2...",
+          "link": "https://qiita.com/hextomino/items/37f3f25f847088d2b2b5",
+          "publishedOn": "2025-12-06T03:52:08.000Z",
+          "wordCount": 4418,
+          "title": "レイトレーシング GLSL",
+          "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnFpaXRhLWltYWdlLXN0b3JlLnMzLmFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkYwJTJGNTEwMjU3JTJGcHJvZmlsZS1pbWFnZXMlMkYxNzA5NTg5OTA0P2l4bGliPXJiLTQuMC4wJmFyPTElM0ExJmZpdD1jcm9wJm1hc2s9ZWxsaXBzZSZiZz1GRkZGRkYmZm09cG5nMzImcz1kNTJiYjA4OTMzM2M4NzNhOTYyNzc0NmZhOWU4NzYxNw%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D391c02f1169debba7ba7402a11c55c27?ixlib=rb-4.0.0&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9JUUzJTgzJUFDJUUzJTgyJUE0JUUzJTgzJTg4JUUzJTgzJUFDJUUzJTgzJUJDJUUzJTgyJUI3JUUzJTgzJUIzJUUzJTgyJUIwJTIwR0xTTCZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnR4dC1wYWQ9MCZzPTBmODE1NmJiMjMwYTU4ZjhiMGRlZDY5YTkyZTI3NTRk&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBoZXh0b21pbm8mdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz0wYmZhNzUxNjYyMDg1OGRhNWI5YWQwODAwOTQxYTMyYw&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=59e05efc611678291d63505905bba37a"
+        },
         {
           "id": "https://qiita.com/warotarock/items/55ef6f1b8f999a640f08",
           "author": null,
@@ -3865,16 +3905,6 @@
           "wordCount": 2462,
           "title": "Effect Test Drive List #cos_kaz",
           "imageUrl": "https://assets.st-note.com/production/uploads/images/228406091/rectangle_large_type_2_bbc1498e614ab4d33d9a2aed2a3d87a8.png?width=800"
-        },
-        {
-          "id": "https://note.com/thesaurus/n/n1df408a93f5b",
-          "author": null,
-          "description": "VEXで自作関数を作る方法は忘れやすいので、メモも兼ねて、Photoshopのオーバーレイを頂点カラーに使う関数を作成してみます。\n\n続きをみる",
-          "link": "https://note.com/thesaurus/n/n1df408a93f5b",
-          "publishedOn": "2025-11-06T16:33:51.000Z",
-          "wordCount": 2730,
-          "title": "自作関数を作ってPhotoshopのオーバーレイを頂点カラーに適用する",
-          "imageUrl": "https://assets.st-note.com/production/uploads/images/227555579/rectangle_large_type_2_54a55aa3fbf05784a416e4d65c9464dd.png?width=800"
         }
       ]
     },

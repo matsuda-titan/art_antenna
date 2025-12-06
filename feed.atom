@@ -2,10 +2,93 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-12-05T12:23:00.003Z</updated>
+    <updated>2025-12-06T00:53:00.803Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[PhotoshopとLightroom用エフェクトプラグイン『Optics 2026』がリリース！顔認識、深度マップなどAIフィルターが追加]]></title>
+        <id>https://cginterest.com/?p=53772</id>
+        <link href="https://cginterest.com/2025/12/06/photoshop%e3%81%a8lightroom%e7%94%a8%e3%82%a8%e3%83%95%e3%82%a7%e3%82%af%e3%83%88%e3%83%97%e3%83%a9%e3%82%b0%e3%82%a4%e3%83%b3%e3%80%8eoptics-2026%e3%80%8f%e3%81%8c%e3%83%aa%e3%83%aa%e3%83%bc%e3%82%b9/"/>
+        <updated>2025-12-05T23:42:00.000Z</updated>
+        <summary type="html"><![CDATA[2025年12月1日（現地時間）- Boris FX は、PhotoshopとLightroom用エフェクトプラグインの最新アップデート『Optics 2026』のリリースを発表しました。 新機能ハイライト このアップデ […]
+PhotoshopとLightroom用エフェクトプラグイン『Optics 2026』がリリース！顔認識、深度マップなどAIフィルターが追加 first appeared on CGinterest.]]></summary>
+        <author>
+            <name>.me</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[面積0ポリゴンを発見したい]]></title>
+        <id>https://qiita.com/9boz/items/2699bee050506bf33ae1</id>
+        <link href="https://qiita.com/9boz/items/2699bee050506bf33ae1"/>
+        <updated>2025-12-05T22:05:23.000Z</updated>
+        <summary type="html"><![CDATA[たまーにあるんですが
+マージのし忘れだったりで面積が０になってしまっているポリゴン　と遭遇します。
+見た感じ判らないのですが、
+
+UV展開時にUV領域も0になる。　そうするとたまにarnoldレンダラーに怒られる。
+smoothを掛けると思ってた形状と違った感じになってしま...]]></summary>
+        <author>
+            <name>mayaタグが付けられた新着記事 - Qiita</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Siv3Dでカラーグレーディング(LUT)]]></title>
+        <id>https://qiita.com/tyanmahou/items/89bf2654c8b76063a8e4</id>
+        <link href="https://qiita.com/tyanmahou/items/89bf2654c8b76063a8e4"/>
+        <updated>2025-12-05T22:03:14.000Z</updated>
+        <summary type="html"><![CDATA[はじめに
+
+カラーグレーディングとは
+一言で言うと
+色合いを調整するポストプロセス
+コントラストや彩度などのパラメータ調整をして扱うケースも多いですが
+今回はシンプルに Lookup Table (LUT) (もしくはLookup Textureといったりする) を使って...]]></summary>
+        <author>
+            <name>Shaderタグが付けられた新着記事 - Qiita</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Siv3Dでカラーグレーディング(LUT)]]></title>
+        <id>https://qiita.com/tyanmahou/items/89bf2654c8b76063a8e4</id>
+        <link href="https://qiita.com/tyanmahou/items/89bf2654c8b76063a8e4"/>
+        <updated>2025-12-05T22:03:14.000Z</updated>
+        <summary type="html"><![CDATA[はじめに
+
+カラーグレーディングとは
+一言で言うと
+色合いを調整するポストプロセス
+コントラストや彩度などのパラメータ調整をして扱うケースも多いですが
+今回はシンプルに Lookup Table (LUT) (もしくはLookup Textureといったりする) を使って...]]></summary>
+        <author>
+            <name>HLSLタグが付けられた新着記事 - Qiita</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[パース歪みをShaderGraphでやってみた]]></title>
+        <id>https://zenn.dev/sasanuki/articles/00d52d4d625e60</id>
+        <link href="https://zenn.dev/sasanuki/articles/00d52d4d625e60"/>
+        <updated>2025-12-05T11:59:21.000Z</updated>
+        <summary type="html"><![CDATA[Unity6.3LTSが発表されたので
+https://unity.com/ja/blog/unity-6-3-lts-is-now-available
+そして以前から注目していた、こちらを元に実践してみました。
+https://www.youtube.com/shorts/3syhDWqyMCs
+何も難しいことは無く素直に組めば良さそうです。
+
+
+ どんな感じになるか
+良い感じです。
+
+テーブルの天板は形状が単純ですがもし真面目に考えるなら、どんな風にパースが歪むか少し考えながらメッシュを割る必要がありそうです。
+※こちらは天板のメッシュ
+
+
+ 参考
+Custom Interpol...]]></summary>
+        <author>
+            <name>sasanuki</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[UEの最新情報や活用事例を紹介。イベント「Unreal Fest Tokyo 2025」の講演映像]]></title>
         <id>https://3dtotal.jp/?p=53960</id>
@@ -4648,99 +4731,6 @@ The post 差し迫る火山噴火の兆候。ノルウェーのドラマ『ラ�
 The post Lazy Select – 「1・2・3」が不要！マウスオーバーで面・エッジ・頂点を直感的に選択できる無料Blenderアドオン first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
         <author>
             <name>modelinghappy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AIと共に生きるクリエイターたちが語る『AI × CREATIVE FRONTLINE 2025』11月28日開催 - ニュース]]></title>
-        <id>https://cgworld.jp/flashnews/2511-ai-creative-frontline-2025.html</id>
-        <link href="https://cgworld.jp/flashnews/2511-ai-creative-frontline-2025.html"/>
-        <updated>2025-11-06T11:29:27.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[映像制作向けプラグイン・アセットが最大50％オフ！MotionVFX「THE FINAL PRICE CUT」セールが開催！]]></title>
-        <id>https://cginterest.com/?p=52635</id>
-        <link href="https://cginterest.com/2025/11/06/%e6%98%a0%e5%83%8f%e5%88%b6%e4%bd%9c%e5%90%91%e3%81%91%e3%83%97%e3%83%a9%e3%82%b0%e3%82%a4%e3%83%b3%e3%83%bb%e3%82%a2%e3%82%bb%e3%83%83%e3%83%88%e3%81%8c%e6%9c%80%e5%a4%a750%ef%bc%85%e3%82%aa%e3%83%95/"/>
-        <updated>2025-11-06T09:06:33.000Z</updated>
-        <summary type="html"><![CDATA[MotionVFX が開催中の「THE FINAL PRICE CUT」セールの紹介です。 セール概要 今回のセールでは次の3種類のセールが開催されています。 詳細は以下の通りです。 ストア全体セール Final Cut […]
-映像制作向けプラグイン・アセットが最大50％オフ！MotionVFX「THE FINAL PRICE CUT」セールが開催！ first appeared on CGinterest.]]></summary>
-        <author>
-            <name>.me</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[教育現場で3Dスキャンを導入するメリットとは？　産学連携によって生まれた静岡市ならではの地域密着プロジェクト - 特集]]></title>
-        <id>https://cgworld.jp/article/shidude-xgrids-2511.html</id>
-        <link href="https://cgworld.jp/article/shidude-xgrids-2511.html"/>
-        <updated>2025-11-06T07:47:42.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lazy Select - Alt＋Qで頂点＆エッジ＆面のハイブリッド選択モードを可能にする無料のBlenderアドオン！]]></title>
-        <id>https://3dnchu.com/?p=1059795</id>
-        <link href="https://3dnchu.com/archives/lazy-select-bala/"/>
-        <updated>2025-11-06T06:29:41.000Z</updated>
-        <summary type="html"><![CDATA[Bala氏によるAlt＋Qで頂点＆エッジ＆面のはハイブリッド選択モードを可能にする無料のBlenderアドオン「Lazy Select」がリリースされました！]]></summary>
-        <author>
-            <name>Ymt3D -3dnchu-</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ソニーと角川大映スタジオ、バーチャルプロダクションの最前線を体感する「Virtual Production Boost 2025」を11/13（木）、11/15（土）開催 - ニュース]]></title>
-        <id>https://cgworld.jp/flashnews/02-2511-virtual-production-boost-2025.html</id>
-        <link href="https://cgworld.jp/flashnews/02-2511-virtual-production-boost-2025.html"/>
-        <updated>2025-11-06T05:42:13.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[バドワイザー の FIFAクラブワールドカップ 2025 の CMムービー「Thunderstruck」＆ VFXブレイクダウン映像]]></title>
-        <id>https://3dtotal.jp/?p=53508</id>
-        <link href="https://3dtotal.jp/news/53508/"/>
-        <updated>2025-11-06T05:12:56.000Z</updated>
-        <summary type="html"><![CDATA[★CMムービー：Budweiser | "ThunderBud" | FIFA Club World Cup '25（1分） 君が盛り上げる。 俺たちがビールを用意する。 さあ、祝おう。 　 ★VFXブレイクダウン：Bu […]
-The post バドワイザー の FIFAクラブワールドカップ 2025 の CMムービー「Thunderstruck」＆ VFXブレイクダウン映像 first appeared on 3dtotal 日本語オフィシャルサイト.]]></summary>
-        <author>
-            <name>3dtotal管理人T</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[読んで触ってよくわかる！Mayaを使いこなす為のAtoZ 第112回： 知っておくと便利な関数]]></title>
-        <id>https://area.autodesk.jp/column/tutorial/maya_atoz/useful-functions/</id>
-        <link href="https://area.autodesk.jp/column/tutorial/maya_atoz/useful-functions/"/>
-        <updated>2025-11-06T02:15:00.000Z</updated>
-        <summary type="html"><![CDATA[今回はすぐに使える便利な関数について、取りとめなくご紹介します！Mayaの中にはスクリプトもコマンドも含めて、大量の関数が存在します。コマンドリファレンスに記載があればまだ使われるチャンスもありますが、ドキュメント化されていないものもたくさんあります。そこで、そんな日陰に暮らす関数にスポットライトを当ててみます！・・・]]></summary>
-        <author>
-            <name>AREA JAPAN | Autodesk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sketchfabマンスリーピックアップ 2025年11月号]]></title>
-        <id>https://cginterest.com/?p=42328</id>
-        <link href="https://cginterest.com/2025/11/06/sketchfab%e3%83%9e%e3%83%b3%e3%82%b9%e3%83%aa%e3%83%bc%e3%83%94%e3%83%83%e3%82%af%e3%82%a2%e3%83%83%e3%83%97-2025%e5%b9%b411%e6%9c%88%e5%8f%b7/"/>
-        <updated>2025-11-06T01:45:00.000Z</updated>
-        <summary type="html"><![CDATA[先月Sketchfabに投稿されたモデルを勝手にピックアップ(2025年11月4日調べ) するコーナーです。人気のある3Dモデルを中心に独断と偏見で選んでおります！ 通常のピックアップとは別に、無料でダウンロードできる3 […]
-Sketchfabマンスリーピックアップ 2025年11月号 first appeared on CGinterest.]]></summary>
-        <author>
-            <name>.me</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sapporo Game Camp 2025 基調講演 レポート：『ロックマン』の稲船敬二氏が直伝、「好き」をIPに変える方法 - 特集]]></title>
-        <id>https://cgworld.jp/article/202511-sgc.html</id>
-        <link href="https://cgworld.jp/article/202511-sgc.html"/>
-        <updated>2025-11-06T01:00:00.000Z</updated>
-        <summary type="html"><![CDATA[ゼロからイチを生み出すのは「積極性」。受け身ではなく、自ら攻める力をもて 竹部...]]></summary>
-        <author>
-            <name>CGWORLD</name>
         </author>
     </entry>
 </feed>

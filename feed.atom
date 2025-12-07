@@ -2,10 +2,69 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-12-06T12:20:10.709Z</updated>
+    <updated>2025-12-07T01:00:47.746Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[RealityScan 2.1 がリリース！自動化機能、高度なLiDAR機能の追加など]]></title>
+        <id>https://cginterest.com/?p=53788</id>
+        <link href="https://cginterest.com/2025/12/07/realityscan-2-1-%e3%81%8c%e3%83%aa%e3%83%aa%e3%83%bc%e3%82%b9%ef%bc%81%e8%87%aa%e5%8b%95%e5%8c%96%e6%a9%9f%e8%83%bd%e3%80%81%e9%ab%98%e5%ba%a6%e3%81%aalidar%e6%a9%9f%e8%83%bd%e3%81%ae%e8%bf%bd/"/>
+        <updated>2025-12-06T22:58:00.000Z</updated>
+        <summary type="html"><![CDATA[2025年11月26日（現地時間） – EpicGames は、フォトグラメトリソフト RealityScan 2.1 をリリースしました。 新機能ハイライト 今回のリリースでは、自動化ワークフローの強化と高 […]
+RealityScan 2.1 がリリース！自動化機能、高度なLiDAR機能の追加など first appeared on CGinterest.]]></summary>
+        <author>
+            <name>.me</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[空っぽのグループを抽出したい]]></title>
+        <id>https://qiita.com/9boz/items/c9ff643754ea2c596294</id>
+        <link href="https://qiita.com/9boz/items/c9ff643754ea2c596294"/>
+        <updated>2025-12-06T22:07:15.000Z</updated>
+        <summary type="html"><![CDATA[データを整理していく過程で、コンバインしたり階層移動させたりすると
+空のグループが出てきてしまいます。
+まぁ不要なので削除したいのですがー
+例えばこんなデータがあったとして
+
+null1 は空っぽです。
+なので削除します。
+
+そうすると今度は group1 が空っぽになりま...]]></summary>
+        <author>
+            <name>mayaタグが付けられた新着記事 - Qiita</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Intelligent Traffic System v2 - 複雑かつ高度なトラフィック＆レースの車両挙動を実現するUnreal Engine 5向け車両AIシステムプラグイン！]]></title>
+        <id>https://3dnchu.com/?p=1060242</id>
+        <link href="https://3dnchu.com/archives/intelligent-traffic-system-v2/"/>
+        <updated>2025-12-06T18:38:58.000Z</updated>
+        <summary type="html"><![CDATA[Jumpzoidによる複雑かつ高度なトラフィック＆レースの車両挙動を実現するUnreal Engine 5向け車両AIシステムプラグイン「Intelligent Traffic System v2」のご紹介！]]></summary>
+        <author>
+            <name>Ymt3D -3dnchu-</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Entering Gerudo Fortress - RwanLinkによる個人制作ファンメイド「ゼルダの伝説：時のオカリナ」アニメーション作品！Unreal Engine 5をフル活用！]]></title>
+        <id>https://3dnchu.com/?p=1060415</id>
+        <link href="https://3dnchu.com/archives/entering-gerudo-fortress-rwanlink/"/>
+        <updated>2025-12-06T17:15:52.000Z</updated>
+        <summary type="html"><![CDATA[RwanLinkによるUnreal Engine 5を使用し制作された『ゼルダの伝説時のオカリナ』のファンメイドアニメーション＆リアルタイム技術デモ作品『Entering Gerudo Fortress』の映像が公開されていました。]]></summary>
+        <author>
+            <name>Ymt3D -3dnchu-</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【最大35%OFF】XPPENクリスマスキャンペーン開催！対象商品まとめ！]]></title>
+        <id>https://cgbox.jp/?p=64725</id>
+        <link href="https://cgbox.jp/2025/12/06/gadjet-xppen-xmas2025/"/>
+        <updated>2025-12-06T14:06:36.000Z</updated>
+        <summary type="html"><![CDATA[この記事にはプロモーションが含まれます。 12/5 – 12/25までXPPENクリスマスキャンペーンが実施中！ 今までCGbox内で紹介した液タブ・板タブも一部セール対象になっております。 今回は今までCG […]]]></summary>
+        <author>
+            <name>kasahara</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Sketchfabマンスリーピックアップ 2025年12月号]]></title>
         <id>https://cginterest.com/?p=53722</id>
@@ -4715,78 +4774,6 @@ struct VSOutput{ float4 pos: SV_Position;};
 VSOutput VS(VSInput In){...]]></summary>
         <author>
             <name>たちくれ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tokyo Anim Unite 2025 - 豪華ゲストによる講演や交流が可能なイベント！2025年11月8・9日の2日間ベルサール新宿グランドコンファレンスセンターにて開催！]]></title>
-        <id>https://3dnchu.com/?p=1059846</id>
-        <link href="https://3dnchu.com/archives/tokyo-anim-unite-2025/"/>
-        <updated>2025-11-07T12:50:23.000Z</updated>
-        <summary type="html"><![CDATA[映像やゲームなどのエンタメ制作に携わるすべての人に向けた大イベントの第2回「Tokyo Anim Unite 2025」が2025年11月8～9日の2日間 ベルサール新宿グランドコンファレンスセンターにて開催されます！]]></summary>
-        <author>
-            <name>Ymt3D -3dnchu-</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Affinity - 『Designer』『Photo』『Publisher』3ソフトが統合され完全無料化！商用利用もOK！Win＆macOS！iPad版もリリース予定！]]></title>
-        <id>https://3dnchu.com/?p=1059753</id>
-        <link href="https://3dnchu.com/archives/affinity-free/"/>
-        <updated>2025-11-07T09:51:53.000Z</updated>
-        <summary type="html"><![CDATA[『Affinity』シリーズを手掛けるSerifを2024年にCanvaが買収しましたが、この度遂にCanvaは『Affinity Designer』『Affinity Photo』『Affinity Publisher』をひとつに統合した新ツール『Affinity』を完全無料化でリリースしました。ということで業界が色々と盛り上がっていますね。]]></summary>
-        <author>
-            <name>Ymt3D -3dnchu-</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Silicone Printing on the Prusa XL - Filament2と提携！専用ツールヘッドで可能にする液体フィラメントを使用した耐熱シリコンの3Dプリント！]]></title>
-        <id>https://3dnchu.com/?p=1059649</id>
-        <link href="https://3dnchu.com/archives/silicone-printing-on-the-prusa-xl/"/>
-        <updated>2025-11-07T06:09:43.000Z</updated>
-        <summary type="html"><![CDATA[3DプリントメーカーPrusaがスタートアップ企業Filament2と提携し液体フィラメントを実現してます。とりあえず耐熱シリコンの出力が可能になるとか。]]></summary>
-        <author>
-            <name>Ymt3D -3dnchu-</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WAVE - KhakiのCEO 水野 正毅氏によるAIで独特な「ノイズ」表現を追求した映像作品！メイキング映像も公開！]]></title>
-        <id>https://3dnchu.com/?p=1059742</id>
-        <link href="https://3dnchu.com/archives/wave-khaki/"/>
-        <updated>2025-11-07T03:02:19.000Z</updated>
-        <summary type="html"><![CDATA[Khakiの CEOでVFXディレクターの水野 正毅（Masaki Mizuno）氏がAIを活用した映像作品「WAVE」とそのメイキング映像を公開しております！]]></summary>
-        <author>
-            <name>Ymt3D -3dnchu-</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[拡がり続けるビジュアライゼーション領域に応える技術力、求む！　新たな案件に挑み続ける、スマートエンジニアの未来 - スペシャルコンテンツ]]></title>
-        <id>https://cgworld.jp/special-feature/202510-SmartEngineer-DesignVis.html</id>
-        <link href="https://cgworld.jp/special-feature/202510-SmartEngineer-DesignVis.html"/>
-        <updated>2025-11-07T02:25:59.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LAIKA より、ストップモーション・アニメ映画『パラノーマン』の舞台裏映像]]></title>
-        <id>https://3dtotal.jp/?p=53514</id>
-        <link href="https://3dtotal.jp/news/53514/"/>
-        <updated>2025-11-07T02:11:21.000Z</updated>
-        <summary type="html"><![CDATA[★Behind the Scenes: Animating Norman – ParaNorman（2分1秒） 「パラノーマン」のアニメーターたちは、ノーマンのボディランゲージを使って、この若い主人公の成長を描きました。 […]
-The post LAIKA より、ストップモーション・アニメ映画『パラノーマン』の舞台裏映像 first appeared on 3dtotal 日本語オフィシャルサイト.]]></summary>
-        <author>
-            <name>3dtotal管理人T</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[差し迫る火山噴火の兆候。ノルウェーのドラマ『ラ・パルマ』の VFXブレイクダウン映像]]></title>
-        <id>https://3dtotal.jp/?p=53512</id>
-        <link href="https://3dtotal.jp/news/53512/"/>
-        <updated>2025-11-07T02:04:38.000Z</updated>
-        <summary type="html"><![CDATA[★Storm Studios | La Palma - VFX Breakdown（1分58秒） ノルウェーのドラマ『ラ・パルマ』が、Netflix 史上 全世界で最も人気の高い非英語番組トップ10入りを果たしました。本 […]
-The post 差し迫る火山噴火の兆候。ノルウェーのドラマ『ラ・パルマ』の VFXブレイクダウン映像 first appeared on 3dtotal 日本語オフィシャルサイト.]]></summary>
-        <author>
-            <name>3dtotal管理人T</name>
         </author>
     </entry>
 </feed>

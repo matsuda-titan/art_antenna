@@ -2758,36 +2758,6 @@
             "type": "false"
           },
           "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--PM5dt791--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Maya%25E3%2581%25A7%25E8%2587%25AA%25E4%25BD%259C%25E3%2582%25B7%25E3%2582%25A7%25E3%2583%25BC%25E3%2583%2580%25E3%2583%25BC%25E3%2582%2592%25E4%25BD%25BF%25E3%2581%2586%2520%25EF%25BD%259E%2520GLSL%25E7%25B7%25A8%2520%25EF%25BD%259E%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%259F%25E3%2581%25A1%25E3%2581%258F%25E3%2582%258C%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzQwZjczMjE1OTcuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"
-        },
-        {
-          "id": "https://zenn.dev/tachikure/articles/807bb71b0feef0",
-          "author": "たちくれ",
-          "description": "MayaでOSLシェーダーを使用する手順。\naiOslShaderを使う方法と、Arnold シェーダとして読み込む方法がある。\n\n aiOslShaderを使う\n[aiOslShader]ノードを作成する。\n\nオブジェクトに適当なマテリアル(Lambertなど)を割り当てる。\n\nSGノードのSurface Shaderの接続を[aiOslShader]のOut Valueにつなぎ変える。\n\n※代わりにオブジェクトに[aiToon]等を割り当てて[aiOslShader]のOut Valueを[aiToon]のbase Toonmapに割り当てたり、その他マテリアルの入力に[aiOslS...",
-          "link": "https://zenn.dev/tachikure/articles/807bb71b0feef0",
-          "publishedOn": "2025-11-07T17:31:14.000Z",
-          "wordCount": 444,
-          "title": "Mayaで自作シェーダーを使う ～ OSL編 ～",
-          "enclosure": {
-            "url": "https://res.cloudinary.com/zenn/image/upload/s--652SE4c0--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Maya%25E3%2581%25A7%25E8%2587%25AA%25E4%25BD%259C%25E3%2582%25B7%25E3%2582%25A7%25E3%2583%25BC%25E3%2583%2580%25E3%2583%25BC%25E3%2582%2592%25E4%25BD%25BF%25E3%2581%2586%2520%25EF%25BD%259E%2520OSL%25E7%25B7%25A8%2520%25EF%25BD%259E%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%259F%25E3%2581%25A1%25E3%2581%258F%25E3%2582%258C%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzQwZjczMjE1OTcuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
-            "length": "0",
-            "type": "false"
-          },
-          "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--652SE4c0--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Maya%25E3%2581%25A7%25E8%2587%25AA%25E4%25BD%259C%25E3%2582%25B7%25E3%2582%25A7%25E3%2583%25BC%25E3%2583%2580%25E3%2583%25BC%25E3%2582%2592%25E4%25BD%25BF%25E3%2581%2586%2520%25EF%25BD%259E%2520OSL%25E7%25B7%25A8%2520%25EF%25BD%259E%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%259F%25E3%2581%25A1%25E3%2581%258F%25E3%2582%258C%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzQwZjczMjE1OTcuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"
-        },
-        {
-          "id": "https://zenn.dev/tachikure/articles/499b212e9fe6c9",
-          "author": "たちくれ",
-          "description": "MayaでHLSLシェーダーを表示するまでの手順。\n\n シェーダーファイルの用意\n拡張子を.fxにしたHLSLファイルを用意する。\n赤単色のシンプルなシェーダー ↓ ↓ ↓\n\nsample.fx\n// グローバル変数\nfloat4x4 WVP: WorldViewProjection;\n\n// 頂点シェーダーの入出力(ピクセルシェーダーの入力)構造体\nstruct VSInput{ float4 pos: POSITION;};\nstruct VSOutput{ float4 pos: SV_Position;};\n\n// 頂点シェーダー\nVSOutput VS(VSInput In){...",
-          "link": "https://zenn.dev/tachikure/articles/499b212e9fe6c9",
-          "publishedOn": "2025-11-07T16:06:59.000Z",
-          "wordCount": 589,
-          "title": "Mayaで自作シェーダーを使う ～ HLSL編 ～",
-          "enclosure": {
-            "url": "https://res.cloudinary.com/zenn/image/upload/s--yJnvzaUt--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Maya%25E3%2581%25A7%25E8%2587%25AA%25E4%25BD%259C%25E3%2582%25B7%25E3%2582%25A7%25E3%2583%25BC%25E3%2583%2580%25E3%2583%25BC%25E3%2582%2592%25E4%25BD%25BF%25E3%2581%2586%2520%25EF%25BD%259E%2520HLSL%25E7%25B7%25A8%2520%25EF%25BD%259E%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%259F%25E3%2581%25A1%25E3%2581%258F%25E3%2582%258C%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzQwZjczMjE1OTcuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
-            "length": "0",
-            "type": "false"
-          },
-          "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--yJnvzaUt--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Maya%25E3%2581%25A7%25E8%2587%25AA%25E4%25BD%259C%25E3%2582%25B7%25E3%2582%25A7%25E3%2583%25BC%25E3%2583%2580%25E3%2583%25BC%25E3%2582%2592%25E4%25BD%25BF%25E3%2581%2586%2520%25EF%25BD%259E%2520HLSL%25E7%25B7%25A8%2520%25EF%25BD%259E%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%259F%25E3%2581%25A1%25E3%2581%258F%25E3%2582%258C%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzQwZjczMjE1OTcuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"
         }
       ]
     },
@@ -3026,36 +2996,6 @@
             "type": "false"
           },
           "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--7JqArutx--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2582%25B3%25E3%2583%25B3%25E3%2583%259D%25E3%2582%25B8%25E3%2582%25BF%25E3%2583%25BC%25E3%2581%25B8%25E9%2580%2581%25E3%2582%258B%2520Movie%2520Render%2520Queue%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:haruki%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jS2ctaEV6M3dLdHdya1o5a1ZHNU1hX3Z0LVZaazY1cHl0aUNfX0RlYlh2NGxvUjQ3Zz1zOTYtYw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"
-        },
-        {
-          "id": "https://zenn.dev/tachikure/articles/807bb71b0feef0",
-          "author": "たちくれ",
-          "description": "MayaでOSLシェーダーを使用する手順。\naiOslShaderを使う方法と、Arnold シェーダとして読み込む方法がある。\n\n aiOslShaderを使う\n[aiOslShader]ノードを作成する。\n\nオブジェクトに適当なマテリアル(Lambertなど)を割り当てる。\n\nSGノードのSurface Shaderの接続を[aiOslShader]のOut Valueにつなぎ変える。\n\n※代わりにオブジェクトに[aiToon]等を割り当てて[aiOslShader]のOut Valueを[aiToon]のbase Toonmapに割り当てたり、その他マテリアルの入力に[aiOslS...",
-          "link": "https://zenn.dev/tachikure/articles/807bb71b0feef0",
-          "publishedOn": "2025-11-07T17:31:14.000Z",
-          "wordCount": 444,
-          "title": "Mayaで自作シェーダーを使う ～ OSL編 ～",
-          "enclosure": {
-            "url": "https://res.cloudinary.com/zenn/image/upload/s--652SE4c0--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Maya%25E3%2581%25A7%25E8%2587%25AA%25E4%25BD%259C%25E3%2582%25B7%25E3%2582%25A7%25E3%2583%25BC%25E3%2583%2580%25E3%2583%25BC%25E3%2582%2592%25E4%25BD%25BF%25E3%2581%2586%2520%25EF%25BD%259E%2520OSL%25E7%25B7%25A8%2520%25EF%25BD%259E%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%259F%25E3%2581%25A1%25E3%2581%258F%25E3%2582%258C%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzQwZjczMjE1OTcuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
-            "length": "0",
-            "type": "false"
-          },
-          "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--652SE4c0--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Maya%25E3%2581%25A7%25E8%2587%25AA%25E4%25BD%259C%25E3%2582%25B7%25E3%2582%25A7%25E3%2583%25BC%25E3%2583%2580%25E3%2583%25BC%25E3%2582%2592%25E4%25BD%25BF%25E3%2581%2586%2520%25EF%25BD%259E%2520OSL%25E7%25B7%25A8%2520%25EF%25BD%259E%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%259F%25E3%2581%25A1%25E3%2581%258F%25E3%2582%258C%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzQwZjczMjE1OTcuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"
-        },
-        {
-          "id": "https://zenn.dev/tachikure/articles/499b212e9fe6c9",
-          "author": "たちくれ",
-          "description": "MayaでHLSLシェーダーを表示するまでの手順。\n\n シェーダーファイルの用意\n拡張子を.fxにしたHLSLファイルを用意する。\n赤単色のシンプルなシェーダー ↓ ↓ ↓\n\nsample.fx\n// グローバル変数\nfloat4x4 WVP: WorldViewProjection;\n\n// 頂点シェーダーの入出力(ピクセルシェーダーの入力)構造体\nstruct VSInput{ float4 pos: POSITION;};\nstruct VSOutput{ float4 pos: SV_Position;};\n\n// 頂点シェーダー\nVSOutput VS(VSInput In){...",
-          "link": "https://zenn.dev/tachikure/articles/499b212e9fe6c9",
-          "publishedOn": "2025-11-07T16:06:59.000Z",
-          "wordCount": 589,
-          "title": "Mayaで自作シェーダーを使う ～ HLSL編 ～",
-          "enclosure": {
-            "url": "https://res.cloudinary.com/zenn/image/upload/s--yJnvzaUt--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Maya%25E3%2581%25A7%25E8%2587%25AA%25E4%25BD%259C%25E3%2582%25B7%25E3%2582%25A7%25E3%2583%25BC%25E3%2583%2580%25E3%2583%25BC%25E3%2582%2592%25E4%25BD%25BF%25E3%2581%2586%2520%25EF%25BD%259E%2520HLSL%25E7%25B7%25A8%2520%25EF%25BD%259E%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%259F%25E3%2581%25A1%25E3%2581%258F%25E3%2582%258C%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzQwZjczMjE1OTcuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
-            "length": "0",
-            "type": "false"
-          },
-          "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--yJnvzaUt--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Maya%25E3%2581%25A7%25E8%2587%25AA%25E4%25BD%259C%25E3%2582%25B7%25E3%2582%25A7%25E3%2583%25BC%25E3%2583%2580%25E3%2583%25BC%25E3%2582%2592%25E4%25BD%25BF%25E3%2581%2586%2520%25EF%25BD%259E%2520HLSL%25E7%25B7%25A8%2520%25EF%25BD%259E%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%259F%25E3%2581%25A1%25E3%2581%258F%25E3%2582%258C%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzQwZjczMjE1OTcuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"
         }
       ]
     },
@@ -3123,36 +3063,6 @@
             "type": "false"
           },
           "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--PM5dt791--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Maya%25E3%2581%25A7%25E8%2587%25AA%25E4%25BD%259C%25E3%2582%25B7%25E3%2582%25A7%25E3%2583%25BC%25E3%2583%2580%25E3%2583%25BC%25E3%2582%2592%25E4%25BD%25BF%25E3%2581%2586%2520%25EF%25BD%259E%2520GLSL%25E7%25B7%25A8%2520%25EF%25BD%259E%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%259F%25E3%2581%25A1%25E3%2581%258F%25E3%2582%258C%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzQwZjczMjE1OTcuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"
-        },
-        {
-          "id": "https://zenn.dev/tachikure/articles/807bb71b0feef0",
-          "author": "たちくれ",
-          "description": "MayaでOSLシェーダーを使用する手順。\naiOslShaderを使う方法と、Arnold シェーダとして読み込む方法がある。\n\n aiOslShaderを使う\n[aiOslShader]ノードを作成する。\n\nオブジェクトに適当なマテリアル(Lambertなど)を割り当てる。\n\nSGノードのSurface Shaderの接続を[aiOslShader]のOut Valueにつなぎ変える。\n\n※代わりにオブジェクトに[aiToon]等を割り当てて[aiOslShader]のOut Valueを[aiToon]のbase Toonmapに割り当てたり、その他マテリアルの入力に[aiOslS...",
-          "link": "https://zenn.dev/tachikure/articles/807bb71b0feef0",
-          "publishedOn": "2025-11-07T17:31:14.000Z",
-          "wordCount": 444,
-          "title": "Mayaで自作シェーダーを使う ～ OSL編 ～",
-          "enclosure": {
-            "url": "https://res.cloudinary.com/zenn/image/upload/s--652SE4c0--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Maya%25E3%2581%25A7%25E8%2587%25AA%25E4%25BD%259C%25E3%2582%25B7%25E3%2582%25A7%25E3%2583%25BC%25E3%2583%2580%25E3%2583%25BC%25E3%2582%2592%25E4%25BD%25BF%25E3%2581%2586%2520%25EF%25BD%259E%2520OSL%25E7%25B7%25A8%2520%25EF%25BD%259E%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%259F%25E3%2581%25A1%25E3%2581%258F%25E3%2582%258C%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzQwZjczMjE1OTcuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
-            "length": "0",
-            "type": "false"
-          },
-          "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--652SE4c0--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Maya%25E3%2581%25A7%25E8%2587%25AA%25E4%25BD%259C%25E3%2582%25B7%25E3%2582%25A7%25E3%2583%25BC%25E3%2583%2580%25E3%2583%25BC%25E3%2582%2592%25E4%25BD%25BF%25E3%2581%2586%2520%25EF%25BD%259E%2520OSL%25E7%25B7%25A8%2520%25EF%25BD%259E%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%259F%25E3%2581%25A1%25E3%2581%258F%25E3%2582%258C%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzQwZjczMjE1OTcuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"
-        },
-        {
-          "id": "https://zenn.dev/tachikure/articles/499b212e9fe6c9",
-          "author": "たちくれ",
-          "description": "MayaでHLSLシェーダーを表示するまでの手順。\n\n シェーダーファイルの用意\n拡張子を.fxにしたHLSLファイルを用意する。\n赤単色のシンプルなシェーダー ↓ ↓ ↓\n\nsample.fx\n// グローバル変数\nfloat4x4 WVP: WorldViewProjection;\n\n// 頂点シェーダーの入出力(ピクセルシェーダーの入力)構造体\nstruct VSInput{ float4 pos: POSITION;};\nstruct VSOutput{ float4 pos: SV_Position;};\n\n// 頂点シェーダー\nVSOutput VS(VSInput In){...",
-          "link": "https://zenn.dev/tachikure/articles/499b212e9fe6c9",
-          "publishedOn": "2025-11-07T16:06:59.000Z",
-          "wordCount": 589,
-          "title": "Mayaで自作シェーダーを使う ～ HLSL編 ～",
-          "enclosure": {
-            "url": "https://res.cloudinary.com/zenn/image/upload/s--yJnvzaUt--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Maya%25E3%2581%25A7%25E8%2587%25AA%25E4%25BD%259C%25E3%2582%25B7%25E3%2582%25A7%25E3%2583%25BC%25E3%2583%2580%25E3%2583%25BC%25E3%2582%2592%25E4%25BD%25BF%25E3%2581%2586%2520%25EF%25BD%259E%2520HLSL%25E7%25B7%25A8%2520%25EF%25BD%259E%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%259F%25E3%2581%25A1%25E3%2581%258F%25E3%2582%258C%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzQwZjczMjE1OTcuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
-            "length": "0",
-            "type": "false"
-          },
-          "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--yJnvzaUt--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Maya%25E3%2581%25A7%25E8%2587%25AA%25E4%25BD%259C%25E3%2582%25B7%25E3%2582%25A7%25E3%2583%25BC%25E3%2583%2580%25E3%2583%25BC%25E3%2582%2592%25E4%25BD%25BF%25E3%2581%2586%2520%25EF%25BD%259E%2520HLSL%25E7%25B7%25A8%2520%25EF%25BD%259E%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%259F%25E3%2581%25A1%25E3%2581%258F%25E3%2582%258C%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzQwZjczMjE1OTcuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"
         }
       ]
     },
@@ -3453,6 +3363,16 @@
       "siteUrl": "https://qiita.com",
       "articles": [
         {
+          "id": "https://qiita.com/ryomasanpei/items/cc54a4e27302dd61af2a",
+          "author": null,
+          "description": "はじめに\n\nHoudini Apprentice Advent Calendar 2025の7日目の記事です。\n今回初参戦で、予約したのを直前で気づいて急いで書いたのでかなり雑ではあるかもしれませんがよろしくお願いします。\n今回作るのはパーティクルで作る簡易的なビッグバン...",
+          "link": "https://qiita.com/ryomasanpei/items/cc54a4e27302dd61af2a",
+          "publishedOn": "2025-12-07T05:12:43.000Z",
+          "wordCount": 723,
+          "title": "パーティクルでビッグバン作ってみた",
+          "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Fadvent-calendar-ogp-background-7940cd1c8db80a7ec40711d90f43539e.jpg%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRmxoMy5nb29nbGV1c2VyY29udGVudC5jb20lMkZhJTJGQUNnOG9jTFQ5UXhndTVwcjZ6WmJrakx5RVN2NFpTMjlKTUdtdTNLTldnUGk5NWJzeDMtcHE0SSUzRHM5Ni1jP2l4bGliPXJiLTQuMC4wJmFyPTElM0ExJmZpdD1jcm9wJm1hc2s9ZWxsaXBzZSZiZz1GRkZGRkYmZm09cG5nMzImcz02N2FlODA4M2FiMmRjZmEyYTkzNWY3MDQzNzU2MDM4MA%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D7229127d2cf05b580e3b67a17f59de13?ixlib=rb-4.0.0&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9JUUzJTgzJTkxJUUzJTgzJUJDJUUzJTgzJTg2JUUzJTgyJUEzJUUzJTgyJUFGJUUzJTgzJUFCJUUzJTgxJUE3JUUzJTgzJTkzJUUzJTgzJTgzJUUzJTgyJUIwJUUzJTgzJTkwJUUzJTgzJUIzJUU0JUJEJTlDJUUzJTgxJUEzJUUzJTgxJUE2JUUzJTgxJUJGJUUzJTgxJTlGJnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMzQTNDM0MmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9MzAzZDU5OTc3ODQ0Y2MzNGM3MDkzNWRiYTU3MWQ4ZGQ&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDByeW9tYXNhbnBlaSZ0eHQtY29sb3I9JTIzM0EzQzNDJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPTlkMjVkNDJlZjJkY2ZjMjQ0Y2QxYmQyYmY5MTRkNDI2&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=d98811ddca4ff477cc4b011b336cc298"
+        },
+        {
           "id": "https://qiita.com/rioriver/items/e15b88181716ef8d52f4",
           "author": null,
           "description": "Marbleとは\n2025年11月World Labs社が3D生成AIサービス「Marble」をリリースしました。\nテキスト、画像、動画、360度パノラマ、あるいは粗めの3Dレイアウトから、3Dデータを生成できます。\n\nSNS見てるとなんだかすごそう、ということで早速...",
@@ -3572,21 +3492,6 @@
             "type": "false"
           },
           "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--WEKmbENO--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%255BMaya%255D%2520HLSL%25E3%2581%25A7light%25E3%2581%25AE%25E6%2583%2585%25E5%25A0%25B1%25E3%2582%2592%25E8%2587%25AA%25E5%258B%2595%25E5%258F%2596%25E5%25BE%2597%25E3%2581%2599%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%259F%25E3%2581%25A1%25E3%2581%258F%25E3%2582%258C%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzQwZjczMjE1OTcuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"
-        },
-        {
-          "id": "https://zenn.dev/tachikure/articles/499b212e9fe6c9",
-          "author": "たちくれ",
-          "description": "MayaでHLSLシェーダーを表示するまでの手順。\n\n シェーダーファイルの用意\n拡張子を.fxにしたHLSLファイルを用意する。\n赤単色のシンプルなシェーダー ↓ ↓ ↓\n\nsample.fx\n// グローバル変数\nfloat4x4 WVP: WorldViewProjection;\n\n// 頂点シェーダーの入出力(ピクセルシェーダーの入力)構造体\nstruct VSInput{ float4 pos: POSITION;};\nstruct VSOutput{ float4 pos: SV_Position;};\n\n// 頂点シェーダー\nVSOutput VS(VSInput In){...",
-          "link": "https://zenn.dev/tachikure/articles/499b212e9fe6c9",
-          "publishedOn": "2025-11-07T16:06:59.000Z",
-          "wordCount": 589,
-          "title": "Mayaで自作シェーダーを使う ～ HLSL編 ～",
-          "enclosure": {
-            "url": "https://res.cloudinary.com/zenn/image/upload/s--yJnvzaUt--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Maya%25E3%2581%25A7%25E8%2587%25AA%25E4%25BD%259C%25E3%2582%25B7%25E3%2582%25A7%25E3%2583%25BC%25E3%2583%2580%25E3%2583%25BC%25E3%2582%2592%25E4%25BD%25BF%25E3%2581%2586%2520%25EF%25BD%259E%2520HLSL%25E7%25B7%25A8%2520%25EF%25BD%259E%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%259F%25E3%2581%25A1%25E3%2581%258F%25E3%2582%258C%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzQwZjczMjE1OTcuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
-            "length": "0",
-            "type": "false"
-          },
-          "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--yJnvzaUt--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Maya%25E3%2581%25A7%25E8%2587%25AA%25E4%25BD%259C%25E3%2582%25B7%25E3%2582%25A7%25E3%2583%25BC%25E3%2583%2580%25E3%2583%25BC%25E3%2582%2592%25E4%25BD%25BF%25E3%2581%2586%2520%25EF%25BD%259E%2520HLSL%25E7%25B7%25A8%2520%25EF%25BD%259E%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%259F%25E3%2581%25A1%25E3%2581%258F%25E3%2582%258C%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzQwZjczMjE1OTcuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"
         }
       ]
     },
@@ -3771,6 +3676,16 @@
       "feedUrl": "https://note.com/hashtag/Houdini/rss",
       "siteUrl": "https://note.com/hashtag/Houdini",
       "articles": [
+        {
+          "id": "https://note.com/hip_curlew8703/n/n6e30af3a6de7",
+          "author": null,
+          "description": "背景\nこれまで Houdini Apprentice（無料版）を使用していたが、\n新しく Houdini Indie を購入したため、ライセンスを切り替える必要がある。\n続きをみる",
+          "link": "https://note.com/hip_curlew8703/n/n6e30af3a6de7",
+          "publishedOn": "2025-12-07T05:20:07.000Z",
+          "wordCount": 2383,
+          "title": "Houdini Indie版のインストール方法",
+          "imageUrl": "https://d2l930y2yx77uc.cloudfront.net/production/social_images/24ad066c5f929ba5375d6b87462b0b191d0548e1.png"
+        },
         {
           "id": "https://note.com/maxima_hikky/n/n159e8948b83a",
           "author": null,

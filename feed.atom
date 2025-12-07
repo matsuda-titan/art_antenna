@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-12-07T03:52:56.504Z</updated>
+    <updated>2025-12-07T08:13:54.766Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Houdini Indie版のインストール方法]]></title>
+        <id>https://note.com/hip_curlew8703/n/n6e30af3a6de7</id>
+        <link href="https://note.com/hip_curlew8703/n/n6e30af3a6de7"/>
+        <updated>2025-12-07T05:20:07.000Z</updated>
+        <summary type="html"><![CDATA[背景
+これまで Houdini Apprentice（無料版）を使用していたが、
+新しく Houdini Indie を購入したため、ライセンスを切り替える必要がある。
+続きをみる]]></summary>
+        <author>
+            <name>#Houdiniタグ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[パーティクルでビッグバン作ってみた]]></title>
+        <id>https://qiita.com/ryomasanpei/items/cc54a4e27302dd61af2a</id>
+        <link href="https://qiita.com/ryomasanpei/items/cc54a4e27302dd61af2a"/>
+        <updated>2025-12-07T05:12:43.000Z</updated>
+        <summary type="html"><![CDATA[はじめに
+
+Houdini Apprentice Advent Calendar 2025の7日目の記事です。
+今回初参戦で、予約したのを直前で気づいて急いで書いたのでかなり雑ではあるかもしれませんがよろしくお願いします。
+今回作るのはパーティクルで作る簡易的なビッグバン...]]></summary>
+        <author>
+            <name>CGタグが付けられた新着記事 - Qiita</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[Unity 6] RenderGraphで実装するBayer Matrix ディザリング【URPポストプロセス】]]></title>
         <id>https://qiita.com/KeichiMizutani/items/cf4eeb7f70e4da6f203f</id>
@@ -4652,166 +4679,6 @@ The post Reproject Key – BlenderでZBrushの「Project All」が使える！�
         <summary type="html"><![CDATA[こんばんは！ 今回はアドオンの「Camera Aspect Ratio Guides」を紹介します。 こちらのリンクがアドオンの商品ページになります。 Camera Aspect Ratio Guides 「Camera […]]]></summary>
         <author>
             <name>kasahara</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mayaで自作シェーダーを使う ～ OSL編 ～]]></title>
-        <id>https://zenn.dev/tachikure/articles/807bb71b0feef0</id>
-        <link href="https://zenn.dev/tachikure/articles/807bb71b0feef0"/>
-        <updated>2025-11-07T17:31:14.000Z</updated>
-        <summary type="html"><![CDATA[MayaでOSLシェーダーを使用する手順。
-aiOslShaderを使う方法と、Arnold シェーダとして読み込む方法がある。
-
- aiOslShaderを使う
-[aiOslShader]ノードを作成する。
-
-オブジェクトに適当なマテリアル(Lambertなど)を割り当てる。
-
-SGノードのSurface Shaderの接続を[aiOslShader]のOut Valueにつなぎ変える。
-
-※代わりにオブジェクトに[aiToon]等を割り当てて[aiOslShader]のOut Valueを[aiToon]のbase Toonmapに割り当てたり、その他マテリアルの入力に[aiOslS...]]></summary>
-        <author>
-            <name>たちくれ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mayaで自作シェーダーを使う ～ OSL編 ～]]></title>
-        <id>https://zenn.dev/tachikure/articles/807bb71b0feef0</id>
-        <link href="https://zenn.dev/tachikure/articles/807bb71b0feef0"/>
-        <updated>2025-11-07T17:31:14.000Z</updated>
-        <summary type="html"><![CDATA[MayaでOSLシェーダーを使用する手順。
-aiOslShaderを使う方法と、Arnold シェーダとして読み込む方法がある。
-
- aiOslShaderを使う
-[aiOslShader]ノードを作成する。
-
-オブジェクトに適当なマテリアル(Lambertなど)を割り当てる。
-
-SGノードのSurface Shaderの接続を[aiOslShader]のOut Valueにつなぎ変える。
-
-※代わりにオブジェクトに[aiToon]等を割り当てて[aiOslShader]のOut Valueを[aiToon]のbase Toonmapに割り当てたり、その他マテリアルの入力に[aiOslS...]]></summary>
-        <author>
-            <name>たちくれ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mayaで自作シェーダーを使う ～ OSL編 ～]]></title>
-        <id>https://zenn.dev/tachikure/articles/807bb71b0feef0</id>
-        <link href="https://zenn.dev/tachikure/articles/807bb71b0feef0"/>
-        <updated>2025-11-07T17:31:14.000Z</updated>
-        <summary type="html"><![CDATA[MayaでOSLシェーダーを使用する手順。
-aiOslShaderを使う方法と、Arnold シェーダとして読み込む方法がある。
-
- aiOslShaderを使う
-[aiOslShader]ノードを作成する。
-
-オブジェクトに適当なマテリアル(Lambertなど)を割り当てる。
-
-SGノードのSurface Shaderの接続を[aiOslShader]のOut Valueにつなぎ変える。
-
-※代わりにオブジェクトに[aiToon]等を割り当てて[aiOslShader]のOut Valueを[aiToon]のbase Toonmapに割り当てたり、その他マテリアルの入力に[aiOslS...]]></summary>
-        <author>
-            <name>たちくれ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mayaで自作シェーダーを使う ～ HLSL編 ～]]></title>
-        <id>https://zenn.dev/tachikure/articles/499b212e9fe6c9</id>
-        <link href="https://zenn.dev/tachikure/articles/499b212e9fe6c9"/>
-        <updated>2025-11-07T16:06:59.000Z</updated>
-        <summary type="html"><![CDATA[MayaでHLSLシェーダーを表示するまでの手順。
-
- シェーダーファイルの用意
-拡張子を.fxにしたHLSLファイルを用意する。
-赤単色のシンプルなシェーダー ↓ ↓ ↓
-
-sample.fx
-// グローバル変数
-float4x4 WVP: WorldViewProjection;
-
-// 頂点シェーダーの入出力(ピクセルシェーダーの入力)構造体
-struct VSInput{ float4 pos: POSITION;};
-struct VSOutput{ float4 pos: SV_Position;};
-
-// 頂点シェーダー
-VSOutput VS(VSInput In){...]]></summary>
-        <author>
-            <name>たちくれ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mayaで自作シェーダーを使う ～ HLSL編 ～]]></title>
-        <id>https://zenn.dev/tachikure/articles/499b212e9fe6c9</id>
-        <link href="https://zenn.dev/tachikure/articles/499b212e9fe6c9"/>
-        <updated>2025-11-07T16:06:59.000Z</updated>
-        <summary type="html"><![CDATA[MayaでHLSLシェーダーを表示するまでの手順。
-
- シェーダーファイルの用意
-拡張子を.fxにしたHLSLファイルを用意する。
-赤単色のシンプルなシェーダー ↓ ↓ ↓
-
-sample.fx
-// グローバル変数
-float4x4 WVP: WorldViewProjection;
-
-// 頂点シェーダーの入出力(ピクセルシェーダーの入力)構造体
-struct VSInput{ float4 pos: POSITION;};
-struct VSOutput{ float4 pos: SV_Position;};
-
-// 頂点シェーダー
-VSOutput VS(VSInput In){...]]></summary>
-        <author>
-            <name>たちくれ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mayaで自作シェーダーを使う ～ HLSL編 ～]]></title>
-        <id>https://zenn.dev/tachikure/articles/499b212e9fe6c9</id>
-        <link href="https://zenn.dev/tachikure/articles/499b212e9fe6c9"/>
-        <updated>2025-11-07T16:06:59.000Z</updated>
-        <summary type="html"><![CDATA[MayaでHLSLシェーダーを表示するまでの手順。
-
- シェーダーファイルの用意
-拡張子を.fxにしたHLSLファイルを用意する。
-赤単色のシンプルなシェーダー ↓ ↓ ↓
-
-sample.fx
-// グローバル変数
-float4x4 WVP: WorldViewProjection;
-
-// 頂点シェーダーの入出力(ピクセルシェーダーの入力)構造体
-struct VSInput{ float4 pos: POSITION;};
-struct VSOutput{ float4 pos: SV_Position;};
-
-// 頂点シェーダー
-VSOutput VS(VSInput In){...]]></summary>
-        <author>
-            <name>たちくれ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mayaで自作シェーダーを使う ～ HLSL編 ～]]></title>
-        <id>https://zenn.dev/tachikure/articles/499b212e9fe6c9</id>
-        <link href="https://zenn.dev/tachikure/articles/499b212e9fe6c9"/>
-        <updated>2025-11-07T16:06:59.000Z</updated>
-        <summary type="html"><![CDATA[MayaでHLSLシェーダーを表示するまでの手順。
-
- シェーダーファイルの用意
-拡張子を.fxにしたHLSLファイルを用意する。
-赤単色のシンプルなシェーダー ↓ ↓ ↓
-
-sample.fx
-// グローバル変数
-float4x4 WVP: WorldViewProjection;
-
-// 頂点シェーダーの入出力(ピクセルシェーダーの入力)構造体
-struct VSInput{ float4 pos: POSITION;};
-struct VSOutput{ float4 pos: SV_Position;};
-
-// 頂点シェーダー
-VSOutput VS(VSInput In){...]]></summary>
-        <author>
-            <name>たちくれ</name>
         </author>
     </entry>
 </feed>

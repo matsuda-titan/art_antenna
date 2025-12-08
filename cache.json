@@ -868,6 +868,16 @@
       "siteUrl": "https://cgworld.jp/",
       "articles": [
         {
+          "id": "https://cgworld.jp/flashnews/01-202512-Hunyuan3DEngine.html",
+          "author": null,
+          "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
+          "link": "https://cgworld.jp/flashnews/01-202512-Hunyuan3DEngine.html",
+          "publishedOn": "2025-12-08T00:38:52.000Z",
+          "wordCount": 994,
+          "title": "テンセント、3D生成AIモデル「Hunyuan 3D Engine」を全世界のクリエイターと企業向けに提供開始 - ニュース",
+          "imageUrl": "https://cgworld.jp/flashnews/assets_c/2025/12/Hunyuan3DEng-01-thumb-1920x1079-77078.jpg"
+        },
+        {
           "id": "https://cgworld.jp/regular/2510-hadegaku-01.html",
           "author": null,
           "description": "",
@@ -2219,16 +2229,6 @@
           "wordCount": 3721,
           "title": "UvPackmaster3やFlip Fluidsなど7種類のBlenderアドオンが半額になるお得なバンドルパックが登場！",
           "imageUrl": "https://modelinghappy.com/wp-content/uploads/2025/11/20251109_ture_vfx.jpg"
-        },
-        {
-          "id": "https://modelinghappy.com/?p=65306",
-          "author": "modelinghappy",
-          "description": "Smart Flow Blenderのモデリング時に多機能便利アドオン、Smart Flow v13.0がリリースされました。 Smart Flowには、作業効率を大幅に高める多彩な機能が搭載されています。Mayaのよう\nThe post Smart Flow v13.0 – Maya似の原点移動・左右対称モデルでポリグループを自動生成・コレクション毎の複数オブジェクト一括整理などモデリングを快適にする8つの多機能アドオン first appeared on 3DCG最新情報サイト MODELING HAPPY.",
-          "link": "https://modelinghappy.com/archives/65306",
-          "publishedOn": "2025-11-08T12:57:26.000Z",
-          "wordCount": 3738,
-          "title": "Smart Flow v13.0 – Maya似の原点移動・左右対称モデルでポリグループを自動生成・コレクション毎の複数オブジェクト一括整理などモデリングを快適にする8つの多機能アドオン",
-          "imageUrl": "https://modelinghappy.com/wp-content/uploads/2025/11/1108_Smart_Flow_000.jpg"
         }
       ]
     },
@@ -2738,21 +2738,6 @@
             "type": "false"
           },
           "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--WEKmbENO--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%255BMaya%255D%2520HLSL%25E3%2581%25A7light%25E3%2581%25AE%25E6%2583%2585%25E5%25A0%25B1%25E3%2582%2592%25E8%2587%25AA%25E5%258B%2595%25E5%258F%2596%25E5%25BE%2597%25E3%2581%2599%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%259F%25E3%2581%25A1%25E3%2581%258F%25E3%2582%258C%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzQwZjczMjE1OTcuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"
-        },
-        {
-          "id": "https://zenn.dev/tachikure/articles/d7e77385549637",
-          "author": "たちくれ",
-          "description": "MayaでGLSLシェーダーを表示するまでの手順。\nHLSL編 →　https://zenn.dev/tachikure/articles/499b212e9fe6c9\nOSL編  →　https://zenn.dev/tachikure/articles/807bb71b0feef0\n\n シェーダーファイルの用意\n拡張子を.ogsfxにしたGLSLファイルを用意する。\n赤単色のシンプルなシェーダー ↓ ↓ ↓\n\nsample.ogsfx\n// 変数宣言\nuniform mat4 WVP_mat: WorldViewProjection;\n\n// アトリビュート\nattribute VS...",
-          "link": "https://zenn.dev/tachikure/articles/d7e77385549637",
-          "publishedOn": "2025-11-08T14:40:51.000Z",
-          "wordCount": 628,
-          "title": "Mayaで自作シェーダーを使う ～ GLSL編 ～",
-          "enclosure": {
-            "url": "https://res.cloudinary.com/zenn/image/upload/s--PM5dt791--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Maya%25E3%2581%25A7%25E8%2587%25AA%25E4%25BD%259C%25E3%2582%25B7%25E3%2582%25A7%25E3%2583%25BC%25E3%2583%2580%25E3%2583%25BC%25E3%2582%2592%25E4%25BD%25BF%25E3%2581%2586%2520%25EF%25BD%259E%2520GLSL%25E7%25B7%25A8%2520%25EF%25BD%259E%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%259F%25E3%2581%25A1%25E3%2581%258F%25E3%2582%258C%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzQwZjczMjE1OTcuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
-            "length": "0",
-            "type": "false"
-          },
-          "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--PM5dt791--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Maya%25E3%2581%25A7%25E8%2587%25AA%25E4%25BD%259C%25E3%2582%25B7%25E3%2582%25A7%25E3%2583%25BC%25E3%2583%2580%25E3%2583%25BC%25E3%2582%2592%25E4%25BD%25BF%25E3%2581%2586%2520%25EF%25BD%259E%2520GLSL%25E7%25B7%25A8%2520%25EF%25BD%259E%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%259F%25E3%2581%25A1%25E3%2581%258F%25E3%2582%258C%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzQwZjczMjE1OTcuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"
         }
       ]
     },
@@ -3038,21 +3023,6 @@
             "type": "false"
           },
           "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--LuUA8wtf--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%255BMaya%255D%2520%25E8%25A1%258C%25E5%2588%2597%2528Matrix%2529%25E3%2581%25AE%25E5%258F%2596%25E5%25BE%2597%252F%25E4%25BD%259C%25E6%2588%2590%25E3%2581%25A8%25E8%25A6%2581%25E7%25B4%25A0%25E3%2581%25AE%25E5%258F%2596%25E5%25BE%2597%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%259F%25E3%2581%25A1%25E3%2581%258F%25E3%2582%258C%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzQwZjczMjE1OTcuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"
-        },
-        {
-          "id": "https://zenn.dev/tachikure/articles/d7e77385549637",
-          "author": "たちくれ",
-          "description": "MayaでGLSLシェーダーを表示するまでの手順。\nHLSL編 →　https://zenn.dev/tachikure/articles/499b212e9fe6c9\nOSL編  →　https://zenn.dev/tachikure/articles/807bb71b0feef0\n\n シェーダーファイルの用意\n拡張子を.ogsfxにしたGLSLファイルを用意する。\n赤単色のシンプルなシェーダー ↓ ↓ ↓\n\nsample.ogsfx\n// 変数宣言\nuniform mat4 WVP_mat: WorldViewProjection;\n\n// アトリビュート\nattribute VS...",
-          "link": "https://zenn.dev/tachikure/articles/d7e77385549637",
-          "publishedOn": "2025-11-08T14:40:51.000Z",
-          "wordCount": 628,
-          "title": "Mayaで自作シェーダーを使う ～ GLSL編 ～",
-          "enclosure": {
-            "url": "https://res.cloudinary.com/zenn/image/upload/s--PM5dt791--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Maya%25E3%2581%25A7%25E8%2587%25AA%25E4%25BD%259C%25E3%2582%25B7%25E3%2582%25A7%25E3%2583%25BC%25E3%2583%2580%25E3%2583%25BC%25E3%2582%2592%25E4%25BD%25BF%25E3%2581%2586%2520%25EF%25BD%259E%2520GLSL%25E7%25B7%25A8%2520%25EF%25BD%259E%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%259F%25E3%2581%25A1%25E3%2581%258F%25E3%2582%258C%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzQwZjczMjE1OTcuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
-            "length": "0",
-            "type": "false"
-          },
-          "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--PM5dt791--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Maya%25E3%2581%25A7%25E8%2587%25AA%25E4%25BD%259C%25E3%2582%25B7%25E3%2582%25A7%25E3%2583%25BC%25E3%2583%2580%25E3%2583%25BC%25E3%2582%2592%25E4%25BD%25BF%25E3%2581%2586%2520%25EF%25BD%259E%2520GLSL%25E7%25B7%25A8%2520%25EF%25BD%259E%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%259F%25E3%2581%25A1%25E3%2581%258F%25E3%2582%258C%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzQwZjczMjE1OTcuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"
         }
       ]
     },
@@ -3525,21 +3495,6 @@
           "title": "シェーダープログラミングのはじめかた",
           "enclosure": {
             "url": "https://res.cloudinary.com/zenn/image/upload/s--EPuuV1yB--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2582%25B7%25E3%2582%25A7%25E3%2583%25BC%25E3%2583%2580%25E3%2583%25BC%25E3%2583%2597%25E3%2583%25AD%25E3%2582%25B0%25E3%2583%25A9%25E3%2583%259F%25E3%2583%25B3%25E3%2582%25B0%25E3%2581%25AE%25E3%2581%25AF%25E3%2581%2598%25E3%2582%2581%25E3%2581%258B%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:%25E3%2581%25A6%25E3%2582%258B%25E3%2582%2588%25E3%2581%2597%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzA4YzQxYWIxYjYuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:team411%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2Y0ZDdjMWUwOWIuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
-            "length": "0",
-            "type": "false"
-          },
-          "imageUrl": null
-        },
-        {
-          "id": "https://zenn.dev/tachikure/articles/d7e77385549637",
-          "author": "たちくれ",
-          "description": "MayaでGLSLシェーダーを表示するまでの手順。\nHLSL編 →　https://zenn.dev/tachikure/articles/499b212e9fe6c9\nOSL編  →　https://zenn.dev/tachikure/articles/807bb71b0feef0\n\n シェーダーファイルの用意\n拡張子を.ogsfxにしたGLSLファイルを用意する。\n赤単色のシンプルなシェーダー ↓ ↓ ↓\n\nsample.ogsfx\n// 変数宣言\nuniform mat4 WVP_mat: WorldViewProjection;\n\n// アトリビュート\nattribute VS...",
-          "link": "https://zenn.dev/tachikure/articles/d7e77385549637",
-          "publishedOn": "2025-11-08T14:40:51.000Z",
-          "wordCount": null,
-          "title": "Mayaで自作シェーダーを使う ～ GLSL編 ～",
-          "enclosure": {
-            "url": "https://res.cloudinary.com/zenn/image/upload/s--PM5dt791--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Maya%25E3%2581%25A7%25E8%2587%25AA%25E4%25BD%259C%25E3%2582%25B7%25E3%2582%25A7%25E3%2583%25BC%25E3%2583%2580%25E3%2583%25BC%25E3%2582%2592%25E4%25BD%25BF%25E3%2581%2586%2520%25EF%25BD%259E%2520GLSL%25E7%25B7%25A8%2520%25EF%25BD%259E%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%259F%25E3%2581%25A1%25E3%2581%258F%25E3%2582%258C%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzQwZjczMjE1OTcuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
             "length": "0",
             "type": "false"
           },

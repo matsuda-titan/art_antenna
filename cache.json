@@ -425,16 +425,6 @@
           "wordCount": 2220,
           "title": "【無料アドオン紹介】Nyanneco Shoelace Tool – 靴ひも作成補助アドオン！",
           "imageUrl": "https://cgbox.jp/wp-content/uploads/2025/11/29e1efcd-dbd1-40fd-8dd3-00f11d889f28_base_resized.jpg"
-        },
-        {
-          "id": "https://cgbox.jp/?p=64524",
-          "author": "kasahara",
-          "description": "こんばんは！ 今回はアドオンの「Curve Hair」を紹介します。 こちらのリンクがアドオンの商品ページになります。 Curve Hair 「Curve Hair」は、アニメ調・Vtuber制作時に役に立つカーブの断面 […]",
-          "link": "https://cgbox.jp/2025/11/10/news-addon-curve-hair/",
-          "publishedOn": "2025-11-10T01:36:46.000Z",
-          "wordCount": 2189,
-          "title": "【アドオン紹介】Curve Hair – ヘアカーブの幅を細かく調整できるアドオン",
-          "imageUrl": "https://cgbox.jp/wp-content/uploads/2025/11/image_processing20251109-2-f0toqf.png"
         }
       ]
     },
@@ -455,6 +445,36 @@
       "feedUrl": "https://3dnchu.com/feed/",
       "siteUrl": "https://3dnchu.com",
       "articles": [
+        {
+          "id": "https://3dnchu.com/?p=1060510",
+          "author": "Ymt3D -3dnchu-",
+          "description": "Elly Kher氏がUnreal Engine 5向けの手描き感溢れるシェーダーの制作解説動画＆プロジェクトファイル「Painterly Shader Material 」をGithub上で無料公開しています！",
+          "link": "https://3dnchu.com/archives/painterly-shader-material/",
+          "publishedOn": "2025-12-09T17:21:03.000Z",
+          "wordCount": 9042,
+          "title": "Painterly Shader Material - Unreal Engine 5向けの手描き感溢れるシェーダーの制作解説動画＆プロジェクトファイルがGithub上で無料公開！",
+          "enclosure": {
+            "url": "https://3dnchu.com/wp-content/uploads/painterly-shader-material-unreal.jpg",
+            "length": "50457",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://3dnchu.com/wp-content/uploads/painterly-shader-material-unreal.jpg"
+        },
+        {
+          "id": "https://3dnchu.com/?p=1060491",
+          "author": "Ymt3D -3dnchu-",
+          "description": "Blender内で高品質の流体エフェクトを作成できる強力な液体シミュレーションアドオン「FLIP Fluids」のv1.8.5がリリースされていました。",
+          "link": "https://3dnchu.com/archives/flip-fluids-1-8-5/",
+          "publishedOn": "2025-12-09T15:04:22.000Z",
+          "wordCount": 8980,
+          "title": "FLIP Fluids 1.8.5 - Blender向けの定番流体シミュレーションアドオン！Blender 5.0対応や異なる密度の流体を同時にシミュレーション可能な機能を追加！",
+          "enclosure": {
+            "url": "https://3dnchu.com/wp-content/uploads/flip-fluids-1-8-5.webp",
+            "length": "878386",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://3dnchu.com/wp-content/uploads/flip-fluids-1-8-5.webp"
+        },
         {
           "id": "https://3dnchu.com/?p=1060471",
           "author": "Ymt3D -3dnchu-",
@@ -904,21 +924,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "https://3dnchu.com/wp-content/uploads/Blender-Lab.png"
-        },
-        {
-          "id": "https://3dnchu.com/?p=1059874",
-          "author": "Ymt3D -3dnchu-",
-          "description": "3Dレベルアーティストの太陽蛋（Solar Egg）氏によるUnreal EngineやBlender使用したコンセプトアートシーン制作解説コース「Unreal Engine CG Concept Art: [Four Major Scenes | Mastering Light and Shadow]」がCG＆デジタルアート関連チュートリアルサービス-Wingfoxにて取り扱い開始！",
-          "link": "https://3dnchu.com/archives/solar-egg-wingfox-ue-b3d-art/",
-          "publishedOn": "2025-11-10T05:00:25.000Z",
-          "wordCount": 8959,
-          "title": "【PR】Unreal Engine CG Concept Art: [Four Major Scenes | Mastering Light and Shadow] - 4つのシーンで光と影の演出を学ぶ！UE5とBlenderを使用したCGコンセプトシーン構築解説コース！Wingfoxにて取り扱い開始！",
-          "enclosure": {
-            "url": "https://3dnchu.com/wp-content/uploads/solar-egg-wingfox-ue-b3d-art.jpg",
-            "length": "52471",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://3dnchu.com/wp-content/uploads/solar-egg-wingfox-ue-b3d-art.jpg"
         }
       ]
     },
@@ -927,6 +932,16 @@
       "feedUrl": "https://cgworld.jp/atom.xml",
       "siteUrl": "https://cgworld.jp/",
       "articles": [
+        {
+          "id": "https://cgworld.jp/flashnews/01-202512-SimAnimGraph.html",
+          "author": null,
+          "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
+          "link": "https://cgworld.jp/flashnews/01-202512-SimAnimGraph.html",
+          "publishedOn": "2025-12-09T22:50:22.000Z",
+          "wordCount": 909,
+          "title": "Blenderアドオン「Simple animation graph」アップデート！ 軌跡の描写により直感的に2D/3Dアニメーションを適用、フルポーズ3Dアニメーション、Blender 5.0対応 - ニュース",
+          "imageUrl": "https://cgworld.jp/flashnews/assets_c/2025/12/SimAnimGraph-01-thumb-1280x720-77259.jpg"
+        },
         {
           "id": "https://cgworld.jp/article/houdini-maze11718.html",
           "author": null,
@@ -1826,16 +1841,6 @@
           "wordCount": 977,
           "title": "AIアバター用動画モデル「Argil Atom」リリース！　1枚の写真とプロンプトから一貫性あるアバターを生成して長尺のAIアバター動画を作成、API経由で利用可能 - ニュース",
           "imageUrl": "https://cgworld.jp/flashnews/assets_c/2025/11/ArgilAtom-01-thumb-1920x1080-76020.jpg"
-        },
-        {
-          "id": "https://cgworld.jp/regular/202511-cgw328-book.html",
-          "author": null,
-          "description": "",
-          "link": "https://cgworld.jp/regular/202511-cgw328-book.html",
-          "publishedOn": "2025-11-10T07:14:00.000Z",
-          "wordCount": 807,
-          "title": "#13：最新・最強の「GPT-5」の機能を丸ごと学べる『OpenAI GPT-5／ChatGPT 人工知能プログラミング実践入門』 - 連載",
-          "imageUrl": "https://cgworld.jp/regular/assets_c/2025/11/book_of_the_month_202511-thumb-1000x563-75927.jpg"
         }
       ]
     },
@@ -1882,16 +1887,6 @@
           "wordCount": 439,
           "title": "【UE5】Renderdocでピクセルデバックする際に",
           "imageUrl": "https://cdn.image.st-hatena.com/image/scale/e9e05203df62e4c0d2032444ad1420587a42a666/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fs%2Fspark-shimono-ryota%2F20251201%2F20251201125135.png"
-        },
-        {
-          "id": "https://tech.spark-creative.co.jp/entry/2025/11/10/111137",
-          "author": null,
-          "description": "初めに 前提 なぜShadowを最適化するのか 本題 余談 FMeshDescriptionとは 実装 解説 Descriptionの生成 メッシュとマテリアルの生成 コンポーネントの設定 デバック 見た目 負荷 終わり 初めに こんにちは、クライアントエンジニアの下野です。 今回はFMeshDescriptionを使ってShadowのマテリアルを統合してドローコールを減らす遊びをします。 これをうまくやれば最適化になる気もしますが、一旦は触って遊んでみた所感とかがメインです。 前提 エンジンのバージョンは5.6です。バージョンによってはコードが変わったりするので完全にコードを一致させても動か…",
-          "link": "https://tech.spark-creative.co.jp/entry/2025/11/10/111137",
-          "publishedOn": "2025-11-10T02:11:37.000Z",
-          "wordCount": 956,
-          "title": "【UE5】FMeshDescriptionを使ってShadowのドローコール削減",
-          "imageUrl": "https://cdn.image.st-hatena.com/image/scale/255198769e5b8cceafd2fcda5395964d0c72d0e9/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fs%2Fspark-shimono-ryota%2F20251106%2F20251106145134.png"
         }
       ]
     },
@@ -1900,6 +1895,26 @@
       "feedUrl": "https://modelinghappy.com/feed",
       "siteUrl": "https://modelinghappy.com",
       "articles": [
+        {
+          "id": "https://modelinghappy.com/?p=65986",
+          "author": "modelinghappy",
+          "description": "Morphisec Thwarts Russian-Linked StealC V2 Campaign Targeting Blender Users via Malicious .blend Files 過去にもBle\nThe post 普通の3Dモデルがマルウェアに！CGTraderの.blendファイルでBlenderユーザーが狙われる攻撃が発生 first appeared on 3DCG最新情報サイト MODELING HAPPY.",
+          "link": "https://modelinghappy.com/archives/65986",
+          "publishedOn": "2025-12-09T13:38:17.000Z",
+          "wordCount": 3703,
+          "title": "普通の3Dモデルがマルウェアに！CGTraderの.blendファイルでBlenderユーザーが狙われる攻撃が発生",
+          "imageUrl": "https://modelinghappy.com/wp-content/uploads/2025/12/20251209_blender_hacck_01.jpg"
+        },
+        {
+          "id": "https://modelinghappy.com/?p=65978",
+          "author": "modelinghappy",
+          "description": "Coretools #8211; Edge Project CoretoolsはBlenderでエッジを周囲の見えているジオメトリへ向かって投影、延長するアドオンです。 例えば、ゴーグルのパーツを作って顔に沿ってエッジ\nThe post Coretools – 選択したエッジを見えている面へ自動投影！複雑な形状にも沿わせてモデリング出来るBlender用アドオン first appeared on 3DCG最新情報サイト MODELING HAPPY.",
+          "link": "https://modelinghappy.com/archives/65978",
+          "publishedOn": "2025-12-09T12:58:21.000Z",
+          "wordCount": 3692,
+          "title": "Coretools – 選択したエッジを見えている面へ自動投影！複雑な形状にも沿わせてモデリング出来るBlender用アドオン",
+          "imageUrl": "https://modelinghappy.com/wp-content/uploads/2025/12/20251209_coretools_01.jpg"
+        },
         {
           "id": "https://modelinghappy.com/?p=65970",
           "author": "modelinghappy",
@@ -2339,16 +2354,6 @@
           "wordCount": 3692,
           "title": "Blender無料ペイントアドオンUcupaint2.4.0アップデート！透明ペイント・モデルに沿ってデカール配置・作成マテリアルの再利用が簡単になっています。",
           "imageUrl": "https://modelinghappy.com/wp-content/uploads/2025/11/20251112_ucupaint_01.jpg"
-        },
-        {
-          "id": "https://modelinghappy.com/?p=65346",
-          "author": "modelinghappy",
-          "description": "Orbiter OrbiterはBlenderでオブジェクトを選択し、再生ボタンを押すと、その周りを周回してくれるアドオンです。 周回中はすべての機能がアクティブなままなので、スカルプトしたりモデルを調整することも可能。\nThe post Orbiter – オブジェクトの周りを自動で周回！スカルプトや調整も可能な無料Blenderアドオン first appeared on 3DCG最新情報サイト MODELING HAPPY.",
-          "link": "https://modelinghappy.com/archives/65346",
-          "publishedOn": "2025-11-10T11:45:31.000Z",
-          "wordCount": 3685,
-          "title": "Orbiter – オブジェクトの周りを自動で周回！スカルプトや調整も可能な無料Blenderアドオン",
-          "imageUrl": "https://modelinghappy.com/wp-content/uploads/2025/11/20251110_orbiter_01.jpg"
         }
       ]
     },
@@ -2915,21 +2920,6 @@
           "wordCount": 231,
           "title": "C言語とOpenGLで作るゲームエンジン開発(2Dレンダリング編 - Step3)",
           "imageUrl": "https://static.zenn.studio/images/logo-only-dark.png"
-        },
-        {
-          "id": "https://zenn.dev/k4do/articles/a17120875c0f17",
-          "author": "K4DO",
-          "description": "開発環境\nエディタ: Visual Studio Code\nOS: Windows11\n\n スワップチェインの解像度を設定するための処理\n全体のコード。\n    VkSurfaceCapabilitiesKHR caps;\n    vkGetPhysicalDeviceSurfaceCapabilitiesKHR(vkPhysicalDevice, vkSurface, &caps);\n    VkExtent2D extent = caps.currentExtent;\n    if (extent.width == UINT32_MAX)\n    {\n        ex...",
-          "link": "https://zenn.dev/k4do/articles/a17120875c0f17",
-          "publishedOn": "2025-11-10T12:16:46.000Z",
-          "wordCount": 2479,
-          "title": "【Vulkan】 SwapChainの作成",
-          "enclosure": {
-            "url": "https://res.cloudinary.com/zenn/image/upload/s--T7rOEVlv--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2580%2590Vulkan%25E3%2580%2591%2520SwapChain%25E3%2581%25AE%25E4%25BD%259C%25E6%2588%2590%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:K4DO%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2M4ZmY3ZDI0MzAuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
-            "length": "0",
-            "type": "false"
-          },
-          "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--T7rOEVlv--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2580%2590Vulkan%25E3%2580%2591%2520SwapChain%25E3%2581%25AE%25E4%25BD%259C%25E6%2588%2590%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:K4DO%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2M4ZmY3ZDI0MzAuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"
         }
       ]
     },
@@ -3167,6 +3157,16 @@
       "feedUrl": "https://qiita.com/tags/maya/feed",
       "siteUrl": "https://qiita.com",
       "articles": [
+        {
+          "id": "https://qiita.com/9boz/items/8b8633d908a58ce24b81",
+          "author": null,
+          "description": "ビューポートのレンダラーをスクリプトから変えたいなぁーと思いまして。\n貰ったシーンのレンダラーが重い奴になってたりとか\nプレイブラスト時に一時的に別のレンダラーに切り替えたいとか\nそんな場面が何度かありまして。\nものすごくピンポイントで言うと、 pencil4+レンダラーに...",
+          "link": "https://qiita.com/9boz/items/8b8633d908a58ce24b81",
+          "publishedOn": "2025-12-09T22:04:46.000Z",
+          "wordCount": 730,
+          "title": "viewPortのレンダラーを切り替えたい 特に pencil4+",
+          "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Fadvent-calendar-ogp-background-7940cd1c8db80a7ec40711d90f43539e.jpg%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnBicy50d2ltZy5jb20lMkZwcm9maWxlX2ltYWdlcyUyRjUzNzk1NjE0OTcwNjc3MjQ4MCUyRkZCUmk0WUVPX2JpZ2dlci5wbmc_aXhsaWI9cmItNC4wLjAmYXI9MSUzQTEmZml0PWNyb3AmbWFzaz1lbGxpcHNlJmJnPUZGRkZGRiZmbT1wbmczMiZzPWExZThhMjQ1ZjJlOGI0MDFlNmZmNDdjMzM4ODNkZmEx%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3Df6a03fa17d0939a5431e8030eb57bbf7?ixlib=rb-4.0.0&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9dmlld1BvcnQlRTMlODElQUUlRTMlODMlQUMlRTMlODMlQjMlRTMlODMlODAlRTMlODMlQTklRTMlODMlQkMlRTMlODIlOTIlRTUlODglODclRTMlODIlOEElRTYlOUIlQkYlRTMlODElODglRTMlODElOUYlRTMlODElODQlMjAlRTclODklQjklRTMlODElQUIlMjBwZW5jaWw0JTJCJnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMzQTNDM0MmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9OWQxODc2NTM5Yzc4ODNiZjA0NWI4MGNkM2EwMTc2MDg&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDA5Ym96JnR4dC1jb2xvcj0lMjMzQTNDM0MmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9MzZlY2M2NjU5OWE5M2Y5Mzg2MGExZGZlZjkxZDllY2U&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=e2436c7e226d774be78e762684bb48b6"
+        },
         {
           "id": "https://qiita.com/9boz/items/1a22eb0c402aa21e64f5",
           "author": null,
@@ -3941,16 +3941,6 @@
           "wordCount": 2451,
           "title": "Houdini : UVに歪みがない螺旋モデル",
           "imageUrl": "https://assets.st-note.com/production/uploads/images/229902836/rectangle_large_type_2_bf53524e0ac25f4c2a14ab4fc78c3fbf.jpeg?width=800"
-        },
-        {
-          "id": "https://note.com/cos_kaz701/n/n9b11eb72ed44",
-          "author": null,
-          "description": "新しい表現を模索する過程でエフェクトデザインを模索中。\n結果を出力していきます。\n  \n続きをみる",
-          "link": "https://note.com/cos_kaz701/n/n9b11eb72ed44",
-          "publishedOn": "2025-11-10T09:33:43.000Z",
-          "wordCount": 2462,
-          "title": "Effect Test Drive List #cos_kaz",
-          "imageUrl": "https://assets.st-note.com/production/uploads/images/228406091/rectangle_large_type_2_bbc1498e614ab4d33d9a2aed2a3d87a8.png?width=800"
         }
       ]
     },
@@ -4105,16 +4095,6 @@
           "wordCount": 2378,
           "title": "芸術未経験専門学生の「サンタテレサ」制作と、これからへの祈り。",
           "imageUrl": "https://assets.st-note.com/production/uploads/images/230249919/rectangle_large_type_2_f840171d912421c5b675fc5b9bfb5805.png?width=800"
-        },
-        {
-          "id": "https://note.com/juntominaga/n/n7aeb62d6377d",
-          "author": null,
-          "description": "─ 上品・整い・透明感 × Unreal Engine 実践記録 ─\n\n続きをみる",
-          "link": "https://note.com/juntominaga/n/n7aeb62d6377d",
-          "publishedOn": "2025-11-10T04:38:04.000Z",
-          "wordCount": 3627,
-          "title": "🏡【実践ノート】スカンジナビアシーンの光と質感",
-          "imageUrl": "https://assets.st-note.com/production/uploads/images/228355281/rectangle_large_type_2_2d9adcc71941db28c47899924940a3af.png?width=800"
         }
       ]
     },
@@ -4855,16 +4835,6 @@
           "wordCount": 30928,
           "title": "【期間限定無料】SF都市景観をテーマにした Blender用3Dアセットパック「Arclink City」が期間限定で無料！",
           "imageUrl": "https://cginterest.com/wp-content/uploads/2025/11/20251112_greebletown-arclinkcity.webp"
-        },
-        {
-          "id": "https://cginterest.com/?p=52738",
-          "author": ".me",
-          "description": "VRスカルプティングツールのShapelabと、3D制作ソフトウェアのBlender共同のスカルプティングチャレンジ「The Darkest Night of the Year」の開催情報です。 チャレンジ概要 このコン […]\n［〆切2025年12月01日］Shapelab x Blender 3Dチャレンジ「The Darkest Night of the Year」 first appeared on CGinterest.",
-          "link": "https://cginterest.com/2025/11/10/%ef%bc%bb%e3%80%86%e5%88%872025%e5%b9%b412%e6%9c%8801%e6%97%a5%ef%bc%bdshapelab-x-blender-3d%e3%83%81%e3%83%a3%e3%83%ac%e3%83%b3%e3%82%b8%e3%80%8cthe-darkest-night-of-the-year%e3%80%8d/",
-          "publishedOn": "2025-11-10T07:09:05.000Z",
-          "wordCount": 31861,
-          "title": "［〆切2025年12月01日］Shapelab x Blender 3Dチャレンジ「The Darkest Night of the Year」",
-          "imageUrl": "https://cginterest.com/wp-content/uploads/2025/11/20251110shapelabxBlenderchallenge.webp"
         }
       ]
     }

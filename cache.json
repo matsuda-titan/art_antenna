@@ -1961,16 +1961,6 @@
           "wordCount": 760,
           "title": "第3回 紺吉 後編：オリジナル企画『REKKA（烈火）』を通じた育成 - 連載",
           "imageUrl": "https://cgworld.jp/regular/assets_c/2025/10/202511-manabi3_d9-thumb-1000x419-75733.jpg"
-        },
-        {
-          "id": "https://cgworld.jp/flashnews/01-202511-Seed3D.html",
-          "author": null,
-          "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
-          "link": "https://cgworld.jp/flashnews/01-202511-Seed3D.html",
-          "publishedOn": "2025-11-12T21:45:40.000Z",
-          "wordCount": 929,
-          "title": "ByteDanceの3Dアセット生成基盤モデル「Seed3D 1.0」発表！　画像1枚から物理シミュレーションに対応可能な高品質アセットを生成 - ニュース",
-          "imageUrl": "https://cgworld.jp/flashnews/assets_c/2025/11/Seed3D-01-thumb-1920x1080-76116.jpg"
         }
       ]
     },
@@ -4391,6 +4381,16 @@
       "siteUrl": "https://3d.crdg.jp/env/",
       "articles": [
         {
+          "id": "https://3d.crdg.jp/env/?p=8839",
+          "author": "Akito.Yamakawa",
+          "description": "組み合わせたモデルをSubstance Painter内で見る方法ご紹介します。 配置する場所は自分が見やすい場所で大丈夫です。　　　　　　　　　　　 […]\n続きを読む\n投稿 【Substance Painter】組み合わせたモデルをSubstance Painter内で見る方法 は エンホリ - ENVIRONMENT HOLIC｜C&R Creative Studios に最初に表示されました。",
+          "link": "https://3d.crdg.jp/env/2025/12/12/8839/?utm_source=rss&utm_medium=rss&utm_campaign=%25e3%2580%2590substance-painter%25e3%2580%2591%25e7%25b5%2584%25e3%2581%25bf%25e5%2590%2588%25e3%2582%258f%25e3%2581%259b%25e3%2581%259f%25e3%2583%25a2%25e3%2583%2587%25e3%2583%25ab%25e3%2582%2592substance-painter%25e5%2586%2585%25e3%2581%25a7%25e8%25a6%258b%25e3%2582%258b%25e6%2596%25b9%25e6%25b3%2595",
+          "publishedOn": "2025-12-12T10:23:06.000Z",
+          "wordCount": 3140,
+          "title": "【Substance Painter】組み合わせたモデルをSubstance Painter内で見る方法",
+          "imageUrl": "https://3d.crdg.jp/env/wp-content/uploads/2025/12/sssa-1.jpg"
+        },
+        {
           "id": "https://3d.crdg.jp/env/?p=8784",
           "author": "Kaho.Nobukawa",
           "description": "よく見かけるピボットの位置変更方法は、DキーかInsertキーを押してエッジや頂点、フェースを選択する方法だと思います。ただ、この方法だと選択した頂点 […]\n続きを読む\n投稿 【Maya】ピボット位置を一軸だけエッジや頂点の位置に移動させる方法 は エンホリ - ENVIRONMENT HOLIC｜C&R Creative Studios に最初に表示されました。",
@@ -5146,36 +5146,6 @@
             "type": "video/mp4"
           },
           "imageUrl": "https://cginterest.com/wp-content/uploads/2025/11/20251113_mUpscalerAI.webp"
-        },
-        {
-          "id": "https://cginterest.com/?p=52803",
-          "author": ".me",
-          "description": "2025年11月12日（現地時間）- EpicGames は、Unreal Engine 5.7の正式リリースを発表しました。 新機能ハイライト このバージョンには、広大でリアルなワールドを構築し、ディテールを追加し、そ […]\nUnreal Engine 5.7が正式リリース！PCG、Substrateマテリアルが製品版に！Naniteフォリッジ、 AIアシスタントの追加などなど first appeared on CGinterest.",
-          "link": "https://cginterest.com/2025/11/13/unreal-engine-5-7%e3%81%8c%e6%ad%a3%e5%bc%8f%e3%83%aa%e3%83%aa%e3%83%bc%e3%82%b9%ef%bc%81pcg%e3%80%81substrate%e3%83%9e%e3%83%86%e3%83%aa%e3%82%a2%e3%83%ab%e3%81%8c%e8%a3%bd%e5%93%81%e7%89%88%e3%81%ab/",
-          "publishedOn": "2025-11-12T23:37:00.000Z",
-          "wordCount": 31043,
-          "title": "Unreal Engine 5.7が正式リリース！PCG、Substrateマテリアルが製品版に！Naniteフォリッジ、 AIアシスタントの追加などなど",
-          "enclosure": {
-            "url": "https://cginterest.com/wp-content/uploads/2025/11/20251113_EU57_PCG_OS_V3A-1-1.mp4",
-            "length": "9052440",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://cginterest.com/wp-content/uploads/2025/11/20251113_UE57.webp"
-        },
-        {
-          "id": "https://cginterest.com/?p=52777",
-          "author": ".me",
-          "description": "Autodesk Maya 2026.3 アップデートの新機能情報です。 新機能ハイライト このアップデートでは、アニメーション、モデリング、USDワークフローなど、多岐にわたる機能強化が行われています。 グラフ エディ […]\nMaya 2026.3 アップデートがリリース！ジオメトリ分析ツール、Bifrostのリジッドボディサポートの追加など first appeared on CGinterest.",
-          "link": "https://cginterest.com/2025/11/13/maya-2026-3-%e3%82%a2%e3%83%83%e3%83%97%e3%83%87%e3%83%bc%e3%83%88%e3%81%8c%e3%83%aa%e3%83%aa%e3%83%bc%e3%82%b9%ef%bc%81%e3%82%b8%e3%82%aa%e3%83%a1%e3%83%88%e3%83%aa%e5%88%86%e6%9e%90%e3%83%84/",
-          "publishedOn": "2025-11-12T22:37:00.000Z",
-          "wordCount": 31355,
-          "title": "Maya 2026.3 アップデートがリリース！ジオメトリ分析ツール、Bifrostのリジッドボディサポートの追加など",
-          "enclosure": {
-            "url": "https://cginterest.com/wp-content/uploads/2025/11/20251112_autodesk-maya2026_3_grapheditor.mp4",
-            "length": "76116",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://cginterest.com/wp-content/uploads/2025/11/20251112_autodesk-maya2026_3.webp"
         }
       ]
     }

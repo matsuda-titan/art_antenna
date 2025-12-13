@@ -2,10 +2,47 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-12-13T08:14:17.642Z</updated>
+    <updated>2025-12-13T12:20:19.505Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[SubstanceDesignerとCopernicus]]></title>
+        <id>https://note.com/thesaurus/n/n32e672cca02b</id>
+        <link href="https://note.com/thesaurus/n/n32e672cca02b"/>
+        <updated>2025-12-13T11:27:54.000Z</updated>
+        <summary type="html"><![CDATA[Houdini Advent Calendar 2025 の13日目の記事です。
+Houdini 21 で Copernicus が正式にリリースされました。
+しばらく触ってみて感じたのは、Substance Desinger と比べるとできることよりも考え方が思っていた以上に違う、という点でした。
+今回は、Substance Designer（以下 SD）と Copernicus（以下 COP）を
+「SD のこの機能は、COP ではどうなるのか？」という視点で整理しつつ、
+そこから見えてきた違いについて書いています。
+続きをみる]]></summary>
+        <author>
+            <name>#Houdiniタグ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Selection Mode Cycler – マウスの左右にあるボタンで頂点、エッジ、面選択が切り替えれるBlender用無料アドオン]]></title>
+        <id>https://modelinghappy.com/?p=66023</id>
+        <link href="https://modelinghappy.com/archives/66023"/>
+        <updated>2025-12-13T09:48:09.000Z</updated>
+        <summary type="html"><![CDATA[Selection Mode Cycler Blenderで頂点、エッジ、面の選択の切り替えはキーボードの１、２、３キーを押しますが、Selection Mode Cyclerを使用するとマウスの横にある２つのボタンで前
+The post Selection Mode Cycler – マウスの左右にあるボタンで頂点、エッジ、面選択が切り替えれるBlender用無料アドオン first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
+        <author>
+            <name>modelinghappy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CGboxの姉妹サイト！TextureLogをリリース！]]></title>
+        <id>https://cgbox.jp/?p=64854</id>
+        <link href="https://cgbox.jp/2025/12/13/cgbox-texturelog/"/>
+        <updated>2025-12-13T08:26:07.000Z</updated>
+        <summary type="html"><![CDATA[どうも！CGbox管理人のKと申します。 この度、CGクリエイター向けの新しいwebサービス「TextureLog」をリリースしました！ TextureLogとは？ TextureLogとは「CGクリエイター向けのテクス […]]]></summary>
+        <author>
+            <name>kasahara</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【Substance Designer】 制作解説⑤]]></title>
         <id>https://note.com/natty_violet4982/n/ne076a8fd0c7b</id>
@@ -5213,27 +5250,6 @@ KeyShot Studio 2025.3 がリリース！OpenPBR、Cryptomatte対応とパフォ�
         <summary type="html"><![CDATA[Boxel Studio 社は、テクノロジーと芸術性の融合点で活躍し、ビジュアル エフェクトとアニメーションの可能性の限界を常に押し広げています。過去 2 年間で映画およびテレビ業界が大きく進化する中、同社は、機械学習（ML）が制作プロセスの効率化に果たす変革的な役割を認識しました。この変化により、Boxel Studio 社は制作能力を強化するために、新しいツールやテクノロジーへの研究開発投資を行うようになりました。これらのイノベーションの中には、創設当初からその可能性が明らかだった先駆的企業、Wonder Dynamics 社も含まれていました。彼らのソリューションによって Boxel Studio 社のワークフローは拡張され、制作プロセスの効率化がこれまでになくスムーズに実現しました。・・・]]></summary>
         <author>
             <name>AREA JAPAN | Autodesk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chaos Corona 14 がリリース！AIツール群やNight Skyの追加、Gaussian Splatsサポートなど]]></title>
-        <id>https://cginterest.com/?p=52867</id>
-        <link href="https://cginterest.com/2025/11/14/chaos-corona-14-%e3%81%8c%e3%83%aa%e3%83%aa%e3%83%bc%e3%82%b9%ef%bc%81ai%e3%83%84%e3%83%bc%e3%83%ab%e7%be%a4%e3%82%84night-sky%e3%81%ae%e8%bf%bd%e5%8a%a0%e3%80%81gaussian-splats%e3%82%b5%e3%83%9d/"/>
-        <updated>2025-11-13T23:07:00.000Z</updated>
-        <summary type="html"><![CDATA[2025年11月12日(現地時間) – Chaosは、レンダリングソフトウェアの最新バージョン「Corona 14」をリリースしました。 新機能ハイライト このアップデートでは、AIによるワークフローのサポー […]
-Chaos Corona 14 がリリース！AIツール群やNight Skyの追加、Gaussian Splatsサポートなど first appeared on CGinterest.]]></summary>
-        <author>
-            <name>.me</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Blender内でAIテクスチャ生成ができるオープンソースのアドオン「StableGen」リリース！　SDXLとControlNetによる画像生成、Qwen-Image-Editも近日実装 - ニュース]]></title>
-        <id>https://cgworld.jp/flashnews/01-202511-StableGen.html</id>
-        <link href="https://cgworld.jp/flashnews/01-202511-StableGen.html"/>
-        <updated>2025-11-13T21:59:11.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
         </author>
     </entry>
 </feed>

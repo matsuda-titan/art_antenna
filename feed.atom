@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-12-16T08:18:09.286Z</updated>
+    <updated>2025-12-16T12:25:18.631Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【インタビュー】1つのことに集中する：3Dアーティスト Riyad Hasan 氏]]></title>
+        <id>https://3dtotal.jp/?p=54098</id>
+        <link href="https://3dtotal.jp/features/54098/"/>
+        <updated>2025-12-16T08:27:01.000Z</updated>
+        <summary type="html"><![CDATA[Q. 自己紹介をお願いします こんにちは、3Dアーティストの Riyad Hasan です。バングラデシュのダッカで育ち、現在はシカゴに住んでいます。子供の頃から、3Dキャラクターやクリーチャーを作ることにずっと夢中でし […]
+The post 【インタビュー】1つのことに集中する：3Dアーティスト Riyad Hasan 氏 first appeared on 3dtotal 日本語オフィシャルサイト.]]></summary>
+        <author>
+            <name>3dtotal管理人T</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[historia、JAXAとの共同研究によって作成したリアルな月面探索シミュレーター「REAL MOON」を無料でリリース！]]></title>
         <id>https://cginterest.com/?p=54028</id>
@@ -5504,40 +5515,6 @@ TAを目指して日々精進しております
         <link href="https://cgworld.jp/article/202510-applibot.html"/>
         <updated>2025-11-17T01:00:05.000Z</updated>
         <summary type="html"><![CDATA[進化したアプリボットリグのメイキングを開発者が紹介。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Maya] 行列(Matrix)の取得/作成と要素の取得]]></title>
-        <id>https://zenn.dev/tachikure/articles/e229c5d954e6f7</id>
-        <link href="https://zenn.dev/tachikure/articles/e229c5d954e6f7"/>
-        <updated>2025-11-17T00:06:01.000Z</updated>
-        <summary type="html"><![CDATA[変換行列の取得
-ノードエディタ等で[transform]ノードを表示する。
-〇〇 Matrixという名前のアトリビュートからそれぞれの変換行列を取得できる。
-ただし、配列になっているもの(画像青枠)もあるので、行列アトリビュート横の＋ボタンを押して展開する。
-
-
- 行列の作成
-
- SRTから作成
-[composeMatrix]を作成し、TranslateやRotateを入力につなぐ。
-または、Attribute Editorで直接Input Propertiesを入力する。
-Output Matrixが作成された行列を出力する。
-
-!
-TransformノードでShearを表示したい...]]></summary>
-        <author>
-            <name>たちくれ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[動画生成AIモデル「Hailuo 2.3」リリース！　物理動作・スタイライズ・キャラクターの表情描写などが改善、高速・低価格モデル「Hailuo 2.3 Fast」も提供 - ニュース]]></title>
-        <id>https://cgworld.jp/flashnews/01-202511-Hailuo23.html</id>
-        <link href="https://cgworld.jp/flashnews/01-202511-Hailuo23.html"/>
-        <updated>2025-11-16T22:05:30.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
         <author>
             <name>CGWORLD</name>
         </author>

@@ -12,6 +12,21 @@
       "siteUrl": "https://cgbox.jp",
       "articles": [
         {
+          "id": "https://cgbox.jp/?p=64871",
+          "author": "kasahara",
+          "description": "こんばんは！ 今回はアドオンの「Adjustable Tire Pack」を紹介します。 こちらのリンクがアドオンの商品ページになります。 Adjustable Tire Pack 「Adjustable Tire Pa […]",
+          "link": "https://cgbox.jp/2025/12/16/news-addon-adjustable-tire-pack/",
+          "publishedOn": "2025-12-15T22:39:11.000Z",
+          "wordCount": 2480,
+          "title": "【アセット紹介】Adjustable Tire Pack – タイヤを自由自在にカスタム！",
+          "enclosure": {
+            "url": "https://cgbox.jp/wp-content/uploads/2025/12/TextureLog-Google-Chrome-2025-12-09-21-45-37_5.mp4",
+            "length": "0",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://cgbox.jp/wp-content/uploads/2025/12/image_processing20251118-2-gs23s1.jpg"
+        },
+        {
           "id": "https://cgbox.jp/?p=64867",
           "author": "kasahara",
           "description": "こんばんは！ 今回はアドオンの「Cloudify」を紹介します。 こちらのリンクがアドオンの商品ページになります。 Cloudify 「Cloudify」は、Blender 5の新しい「グリッドボリュームシステム」を活用 […]",
@@ -440,21 +455,6 @@
             "type": "video/mp4"
           },
           "imageUrl": "https://cgbox.jp/wp-content/uploads/2025/11/5a3b31a68ec8986cca17eb85c4e8be1fd45f4516c871b46b21765f18b36082d3_1920x1080.webp"
-        },
-        {
-          "id": "https://cgbox.jp/?p=64558",
-          "author": "kasahara",
-          "description": "こんばんは！ 今回はアセットの「Sanctus Viz」を紹介します。 こちらのリンクがアセットの商品ページになります。 Sanctus Viz 「Sanctus Viz」は、建築系のアセットがプロジーシャルでカスタムで […]",
-          "link": "https://cgbox.jp/2025/11/16/news-addon-sanctus-viz/",
-          "publishedOn": "2025-11-16T01:23:55.000Z",
-          "wordCount": 2195,
-          "title": "【アセット紹介】Sanctus Viz – 500種類以上のプロジーシャルマテリアルのセット！",
-          "enclosure": {
-            "url": "https://cgbox.jp/wp-content/uploads/2025/11/auto_uvs-1.mp4",
-            "length": "0",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://cgbox.jp/wp-content/uploads/2025/11/image_processing20251115-2-pi8fvc.jpg"
         }
       ]
     },
@@ -1007,6 +1007,16 @@
       "feedUrl": "https://cgworld.jp/atom.xml",
       "siteUrl": "https://cgworld.jp/",
       "articles": [
+        {
+          "id": "https://cgworld.jp/flashnews/01-202512-KlingO1.html",
+          "author": null,
+          "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
+          "link": "https://cgworld.jp/flashnews/01-202512-KlingO1.html",
+          "publishedOn": "2025-12-15T22:48:51.000Z",
+          "wordCount": 783,
+          "title": "マルチモーダル動画生成AIモデル「Kling O1」リリース！ テキスト・画像・動画・特定の被写体を組み合わた入力に対応、動画生成から編集・スタイル変換まで1モデルに統合 - ニュース",
+          "imageUrl": "https://cgworld.jp/flashnews/assets_c/2025/12/KlingO1-01-thumb-1920x1080-77506.jpg"
+        },
         {
           "id": "https://cgworld.jp/flashnews/02-2512-adobe-chatgpt.html",
           "author": null,
@@ -2091,6 +2101,16 @@
       "siteUrl": "https://modelinghappy.com",
       "articles": [
         {
+          "id": "https://modelinghappy.com/?p=66061",
+          "author": "modelinghappy",
+          "description": "Cross Select Cross SelectはBlenderでRhino、CAD、3dsMaxと同じ選択ツールのように、左から右へドラッグして選択すると頂点が正方形の範囲に全て含まれているオブジェクトのみが選択され\nThe post Cross Select – BlenderでCAD風選択！全部囲む／触れたら選択を使い分けられる無料アドオン first appeared on 3DCG最新情報サイト MODELING HAPPY.",
+          "link": "https://modelinghappy.com/archives/66061",
+          "publishedOn": "2025-12-15T14:00:35.000Z",
+          "wordCount": 3693,
+          "title": "Cross Select – BlenderでCAD風選択！全部囲む／触れたら選択を使い分けられる無料アドオン",
+          "imageUrl": "https://modelinghappy.com/wp-content/uploads/2025/12/20251215_cross_select_01.jpg"
+        },
+        {
           "id": "https://modelinghappy.com/?p=66040",
           "author": "modelinghappy",
           "description": "V-Ray for Blender update 2 V-Ray for Blenderの２回目のアップデートが公開されています。 今回のアップデートでは主に、Blender5.0の対応、ファーの作成、AIを活用したマテ\nThe post V-Ray for Blender Update 2｜ファー機能の追加・Blender 5.0対応・１枚画像からPBRマテリアル作成・Mac対応・AIを使用した画像アップスケール機能等が追加まとめ first appeared on 3DCG最新情報サイト MODELING HAPPY.",
@@ -2529,16 +2549,6 @@
           "wordCount": 3717,
           "title": "3D Onion Skinning – Blenderで前後フレームを立体表示できるアニメーター必須アドオン",
           "imageUrl": "https://modelinghappy.com/wp-content/uploads/2025/11/20251117_3D_Onion-Skinning_01.jpg"
-        },
-        {
-          "id": "https://modelinghappy.com/?p=65433",
-          "author": "modelinghappy",
-          "description": "Marble Marbleは、建物の室内や屋外など様々な画像、動画、テキストをアップロードするだけで3Dワールドを自動生成してくれるwebサービスです。 AIが素材を解析して立体空間を構築してくれるため、専門的な3Dスキ\nThe post Marble – 写真・動画・テキストから3D空間を生成し、VRシーンや3D Gaussian Splatting・高解像度3Dモデルとしてエクスポート可能なAIサービス first appeared on 3DCG最新情報サイト MODELING HAPPY.",
-          "link": "https://modelinghappy.com/archives/65433",
-          "publishedOn": "2025-11-16T07:25:53.000Z",
-          "wordCount": 3726,
-          "title": "Marble – 写真・動画・テキストから3D空間を生成し、VRシーンや3D Gaussian Splatting・高解像度3Dモデルとしてエクスポート可能なAIサービス",
-          "imageUrl": "https://modelinghappy.com/wp-content/uploads/2025/11/20251116_marble_01.jpg"
         }
       ]
     },
@@ -3353,6 +3363,26 @@
       "siteUrl": "https://qiita.com",
       "articles": [
         {
+          "id": "https://qiita.com/9boz/items/2adcdb635f629aca7b05",
+          "author": null,
+          "description": "色々調整して気づいたんですがー\n\nうーん\n\nnearClipPlaneを動かすと　ずれちゃいますね。\ntranslate値に対して、nearClipPlane移動時のスケール比が考慮されてないのでずれちゃうわけですね。\nなので、それを考慮した構造にしようかと思います。...",
+          "link": "https://qiita.com/9boz/items/2adcdb635f629aca7b05",
+          "publishedOn": "2025-12-15T22:08:17.000Z",
+          "wordCount": 3223,
+          "title": "mayaのカメラをなんとかしたい5　~2Dカメラアニメーション~　改",
+          "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Fadvent-calendar-ogp-background-7940cd1c8db80a7ec40711d90f43539e.jpg%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnBicy50d2ltZy5jb20lMkZwcm9maWxlX2ltYWdlcyUyRjUzNzk1NjE0OTcwNjc3MjQ4MCUyRkZCUmk0WUVPX2JpZ2dlci5wbmc_aXhsaWI9cmItNC4wLjAmYXI9MSUzQTEmZml0PWNyb3AmbWFzaz1lbGxpcHNlJmJnPUZGRkZGRiZmbT1wbmczMiZzPWExZThhMjQ1ZjJlOGI0MDFlNmZmNDdjMzM4ODNkZmEx%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3Df6a03fa17d0939a5431e8030eb57bbf7?ixlib=rb-4.0.0&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9bWF5YSVFMyU4MSVBRSVFMyU4MiVBQiVFMyU4MyVBMSVFMyU4MyVBOSVFMyU4MiU5MiVFMyU4MSVBQSVFMyU4MiU5MyVFMyU4MSVBOCVFMyU4MSU4QiVFMyU4MSU5NyVFMyU4MSU5RiVFMyU4MSU4NDUlRTMlODAlODB-MkQlRTMlODIlQUIlRTMlODMlQTElRTMlODMlQTklRTMlODIlQTIlRTMlODMlOEIlRTMlODMlQTElRTMlODMlQkMlRTMlODIlQjclRTMlODMlQTclRTMlODMlQjN-JUUzJTgwJTgwJUU2JTk0JUI5JnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMzQTNDM0MmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9N2FkZmZhNjdmNDgxNDk5ZDRmMzkxMGVmNzRhMWE4ZTM&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDA5Ym96JnR4dC1jb2xvcj0lMjMzQTNDM0MmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9MzZlY2M2NjU5OWE5M2Y5Mzg2MGExZGZlZjkxZDllY2U&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=80df959f5e26a02b951e17403307758f"
+        },
+        {
+          "id": "https://qiita.com/11mako12/items/759a4953d74509f81184",
+          "author": null,
+          "description": "はじめまして。\n今回、Houdini Advent Calendar に初参加します。\n普段は CG 制作をしていますが、\nPythonについては最近勉強をし始めた初心者です。\n今回は、\nPython を使って、毎日の作業を少しだけ楽にした話\nを書いてみようと思います。\nテ...",
+          "link": "https://qiita.com/11mako12/items/759a4953d74509f81184",
+          "publishedOn": "2025-12-15T22:04:58.000Z",
+          "wordCount": 2540,
+          "title": "MayaからHoudiniへ：Alembicを書き出してそのまま読み込む仕組み",
+          "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Fadvent-calendar-ogp-background-7940cd1c8db80a7ec40711d90f43539e.jpg%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkY0MjczNzM1JTJGYjIyMmI5NzUwZjEzN2QxYzdjZWU1NmM3MWRjYmI5YjMzZTE3NTY2YSUyRnhfbGFyZ2UucG5nJTNGMTc2Mzk0MTcwMj9peGxpYj1yYi00LjAuMCZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9MTQ5YjBiMDUyMWYyZThlOWI1NTRiZmZjYzhmZDU4NWM%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D509e8b2383c202ffaf207014837e7905?ixlib=rb-4.0.0&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9TWF5YSVFMyU4MSU4QiVFMyU4MiU4OUhvdWRpbmklRTMlODElQjglRUYlQkMlOUFBbGVtYmljJUUzJTgyJTkyJUU2JTlCJUI4JUUzJTgxJThEJUU1JTg3JUJBJUUzJTgxJTk3JUUzJTgxJUE2JUUzJTgxJTlEJUUzJTgxJUFFJUUzJTgxJUJFJUUzJTgxJUJFJUU4JUFBJUFEJUUzJTgxJUJGJUU4JUJFJUJDJUUzJTgyJTgwJUU0JUJCJTk1JUU3JUI1JTg0JUUzJTgxJUJGJnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMzQTNDM0MmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9MDdlNTBlZDhiYTNmNTI0ZmRkNzRmYzZhNTcxZmM2MjQ&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDAxMW1ha28xMiZ0eHQtY29sb3I9JTIzM0EzQzNDJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPWNjN2Y3ZTdiMjI4OTc2NzkzMGViZjlhYTY2NDFlNjM5&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=66a49ae573abc0ce4cb6552637b00e76"
+        },
+        {
           "id": "https://qiita.com/inouwe/items/b0038cd47d29de35515b",
           "author": null,
           "description": "UE5.7のリリースで、MetaHumanのアップデートが入り、Mayaに持ってくる手段がガラリと変わりました。\n以前はQuixel Bridgeを経由してMayaにMetaHumanを出力していましたが、現在はUE5→Mayaに直に持ってくることができます。\nもうMeta...",
@@ -3599,18 +3629,7 @@
       "title": "レイトレタグが付けられた新着記事 - Qiita",
       "feedUrl": "https://qiita.com/tags/%e3%83%ac%e3%82%a4%e3%83%88%e3%83%ac/feed",
       "siteUrl": "https://qiita.com",
-      "articles": [
-        {
-          "id": "https://qiita.com/shinjiogaki/items/3d5dea59858a7a851a17",
-          "author": null,
-          "description": "はじめに\n11回目の今回は、11/14、11/15、11/16の三日間、高尾山で開催されました。3日間とも素晴らしい天気でした。会場のタカオネという施設は駅から近く、温泉も徒歩圏内という恵まれた立地です。\n\n立派な駅舎です。\n\n...",
-          "link": "https://qiita.com/shinjiogaki/items/3d5dea59858a7a851a17",
-          "publishedOn": "2025-11-16T12:10:26.000Z",
-          "wordCount": 836,
-          "title": "レイトレ合宿11参加レポート",
-          "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnFpaXRhLWltYWdlLXN0b3JlLnMzLmFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkYwJTJGNTY0ODQlMkZwcm9maWxlLWltYWdlcyUyRjE1NjgwNzc2NzI_aXhsaWI9cmItNC4wLjAmYXI9MSUzQTEmZml0PWNyb3AmbWFzaz1lbGxpcHNlJmJnPUZGRkZGRiZmbT1wbmczMiZzPWNiYmU1NTIzMjM3ODAyOTgwZGE3MzY5YzJiMzQ4YWE3%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D9b1a84bfafccf77ad74e3c24c425ce3b?ixlib=rb-4.0.0&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9JUUzJTgzJUFDJUUzJTgyJUE0JUUzJTgzJTg4JUUzJTgzJUFDJUU1JTkwJTg4JUU1JUFFJUJGMTElRTUlOEYlODIlRTUlOEElQTAlRTMlODMlQUMlRTMlODMlOUQlRTMlODMlQkMlRTMlODMlODgmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz00NGFlNTI4MDI0YWM5YTFlMTIyZjg1NWJmNWIyZjQ3MQ&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBzaGluamlvZ2FraSZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPWI4Zjg5MjdkNDM1ZDhkMTgzMTQ3YzU3OWExNWUwMDhm&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=f1674780750a4b21db26e067a790c75b"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Zennの「Ray Tracing」のフィード",
@@ -3660,6 +3679,16 @@
       "feedUrl": "https://qiita.com/tags/shader/feed",
       "siteUrl": "https://qiita.com",
       "articles": [
+        {
+          "id": "https://qiita.com/ratura/items/71d7952347be3270976a",
+          "author": null,
+          "description": "初投稿の記事になります。\n至らぬところ多々あると思いますが、優しい目で見ていただけると嬉しいです\n\n映写機ってなんかおしゃれだよねー\n皆さんも思いませんか？映写機ってなんかエモいというか演出として良いものだと私は思います。\nえ？「映写機ってなんぞや？」\nあらまぁ、ご...",
+          "link": "https://qiita.com/ratura/items/71d7952347be3270976a",
+          "publishedOn": "2025-12-15T15:09:25.000Z",
+          "wordCount": 1560,
+          "title": "映写機の演出っていいよね。よし作ろう。",
+          "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Fadvent-calendar-ogp-background-7940cd1c8db80a7ec40711d90f43539e.jpg%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRmxoMy5nb29nbGV1c2VyY29udGVudC5jb20lMkZhJTJGQUNnOG9jSUE4T2FEMk5rRTBpc1k2YWxIeUVBblpLSlpFeENFT1NFZWlMZl9sUGhvelc5YllOayUzRHM5Ni1jP2l4bGliPXJiLTQuMC4wJmFyPTElM0ExJmZpdD1jcm9wJm1hc2s9ZWxsaXBzZSZiZz1GRkZGRkYmZm09cG5nMzImcz00OGNkMmU2NzFkOWFmMTRkYTkxOGNjMTMxYjU1OGMwMA%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D53697e699fa1232da868e80ebbcb1192?ixlib=rb-4.0.0&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9JUU2JTk4JUEwJUU1JTg2JTk5JUU2JUE5JTlGJUUzJTgxJUFFJUU2JUJDJTk0JUU1JTg3JUJBJUUzJTgxJUEzJUUzJTgxJUE2JUUzJTgxJTg0JUUzJTgxJTg0JUUzJTgyJTg4JUUzJTgxJUFEJUUzJTgwJTgyJUUzJTgyJTg4JUUzJTgxJTk3JUU0JUJEJTlDJUUzJTgyJThEJUUzJTgxJTg2JUUzJTgwJTgyJnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMzQTNDM0MmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9YjFlMjgyNWM3MzViOGE1NTFkNjBjM2JhMjdjY2M3MDc&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDByYXR1cmEmdHh0LWNvbG9yPSUyMzNBM0MzQyZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz1jOTUwOWEzMDQ0YmEwMDE3N2YxM2E2MWE3MjNmZjVmZQ&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=1ec116b0be366f223fecca165584915d"
+        },
         {
           "id": "https://qiita.com/TBjustice/items/5e3fc429220431c30fad",
           "author": null,
@@ -3848,6 +3877,16 @@
       "feedUrl": "https://qiita.com/tags/glsl/feed",
       "siteUrl": "https://qiita.com",
       "articles": [
+        {
+          "id": "https://qiita.com/hisaakinagase/items/7a0e9ef11b7652b65215",
+          "author": null,
+          "description": "この記事はHTアドベントカレンダー16日目の記事です🛷\n\n2025年は「均質化リスク」元年？\n2025年も残すところあと半月ほど。\n今年も生成AIまわりの技術革新は勢いを失うことなく、私たちに次々と新しい驚きを投げかけてきました。いまやプロダクトを試作したいと思え...",
+          "link": "https://qiita.com/hisaakinagase/items/7a0e9ef11b7652b65215",
+          "publishedOn": "2025-12-15T22:03:14.000Z",
+          "wordCount": 977,
+          "title": "「なんでも生成AI時代」のぼくらが今こそ、クリエイティブコーディングをする理由",
+          "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Fadvent-calendar-ogp-background-7940cd1c8db80a7ec40711d90f43539e.jpg%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYxNDgzOTglMkY0YWMyZjk1MjI5NTkyYzMyNTAxMjQ4NjFmYTg3NDA0YWM3YWJjZjU5JTJGeF9sYXJnZS5wbmclM0YxNjk1MjYwNzk5P2l4bGliPXJiLTQuMC4wJmFyPTElM0ExJmZpdD1jcm9wJm1hc2s9ZWxsaXBzZSZiZz1GRkZGRkYmZm09cG5nMzImcz01MGE5NTcyYmM2MWY2MjkyZDJiNDhhMDZmNmQ2N2IwOA%26blend-x%3D120%26blend-y%3D462%26blend-w%3D90%26blend-h%3D90%26blend-mode%3Dnormal%26mark64%3DaHR0cHM6Ly9xaWl0YS1vcmdhbml6YXRpb24taW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1vcmdhbml6YXRpb24taW1hZ2UlMkY5YThlMGQ5ZDQwNTZkMDhhMDBlYTRjYmYxOGVkNGU4NDVkMzFkM2Y3JTJGb3JpZ2luYWwuanBnJTNGMTY4NzIzNzE3OD9peGxpYj1yYi00LjAuMCZ3PTQ0Jmg9NDQmZml0PWNyb3AmbWFzaz1jb3JuZXJzJmNvcm5lci1yYWRpdXM9OCZiZz1GRkZGRkYmYm9yZGVyPTIlMkNGRkZGRkYmZm09cG5nMzImcz01OGI1YmE0NWJjYjM3ZDA0Njk2MGMxMTg0NDU1M2QyMg%26mark-x%3D186%26mark-y%3D515%26mark-w%3D40%26mark-h%3D40%26s%3D3fe25a5a0350163eeaca3f26ed85172b?ixlib=rb-4.0.0&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9JUUzJTgwJThDJUUzJTgxJUFBJUUzJTgyJTkzJUUzJTgxJUE3JUUzJTgyJTgyJUU3JTk0JTlGJUU2JTg4JTkwQUklRTYlOTklODIlRTQlQkIlQTMlRTMlODAlOEQlRTMlODElQUUlRTMlODElQkMlRTMlODElOEYlRTMlODIlODklRTMlODElOEMlRTQlQkIlOEElRTMlODElOTMlRTMlODElOUQlRTMlODAlODElRTMlODIlQUYlRTMlODMlQUElRTMlODIlQTglRTMlODIlQTQlRTMlODMlODYlRTMlODIlQTMlRTMlODMlOTYlRTMlODIlQjMlRTMlODMlQkMlRTMlODMlODclRTMlODIlQTMlRTMlODMlQjMlRTMlODIlQjAlRTMlODIlOTIlRTMlODElOTklRTMlODIlOEIlRTclOTAlODYlRTclOTQlQjEmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzNBM0MzQyZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz03NmE3NGU5MGI4ZTk0NzhhYjE4ZmVhYjhmZmM4NjY1NQ&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBoaXNhYWtpbmFnYXNlJnR4dC1jb2xvcj0lMjMzQTNDM0MmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9ZDFmOTU2YWYwZWY1Mjg4ZTExM2M3OTQzNTU4YmE2MDE&blend-x=242&blend-y=454&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&txt64=5qCq5byP5Lya56S-5Y2a5aCx5aCC44OG44Kv44OO44Ot44K444O844K6&txt-x=242&txt-y=539&txt-width=838&txt-clip=end%2Cellipsis&txt-color=%233A3C3C&txt-font=Hiragino%20Sans%20W6&txt-size=28&s=609489d9eb88ef7af152370f337130fa"
+        },
         {
           "id": "https://qiita.com/TBjustice/items/5e3fc429220431c30fad",
           "author": null,
@@ -4643,6 +4682,21 @@
       "siteUrl": "https://cginterest.com",
       "articles": [
         {
+          "id": "https://cginterest.com/?p=54014",
+          "author": ".me",
+          "description": "Blender用リギングアドオンの開発元であるArtellは、最新バージョンとなる「Auto-Rig Pro 3.76」を正式にリリースしました。 新機能ハイライト 今回のアップデートは、将来のBlenderバージョンを […]\nAuto-Rig Pro 3.76 アップデートがリリース！AI顔マーカー自動推定機能、自然な口元の動きを実現する新しいオプションの追加など first appeared on CGinterest.",
+          "link": "https://cginterest.com/2025/12/16/auto-rig-pro-3-76-%e3%82%a2%e3%83%83%e3%83%97%e3%83%87%e3%83%bc%e3%83%88%e3%81%8c%e3%83%aa%e3%83%aa%e3%83%bc%e3%82%b9%ef%bc%81ai%e9%a1%94%e3%83%9e%e3%83%bc%e3%82%ab%e3%83%bc%e8%87%aa%e5%8b%95%e6%8e%a8/",
+          "publishedOn": "2025-12-15T22:46:00.000Z",
+          "wordCount": 30635,
+          "title": "Auto-Rig Pro 3.76 アップデートがリリース！AI顔マーカー自動推定機能、自然な口元の動きを実現する新しいオプションの追加など",
+          "enclosure": {
+            "url": "https://cginterest.com/wp-content/uploads/2025/12/Ai-Facial21.mp4",
+            "length": "52594",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://cginterest.com/wp-content/uploads/2025/12/auto-rigProv376.webp"
+        },
+        {
           "id": "https://cginterest.com/?p=53986",
           "author": ".me",
           "description": "Vjaceslav T.氏とOmid Ghotbi氏が共同開発したBlender用アドオン「Simply Tear Pro」の最新アップデートバージョン 2.0.17 がリリースされました。 新機能ハ […]\nSimply Tear Pro V2.0 がリリース！破断を発生させる新しいトリガー、ランダム引き裂きにシステムの刷新など first appeared on CGinterest.",
@@ -5271,16 +5325,6 @@
           "wordCount": 35779,
           "title": "HDフェイシャルリグに完全対応した Cinema 4D と Reallusion キャラクター連携ツール「CC4D Tools」",
           "imageUrl": "https://cginterest.com/wp-content/uploads/2025/11/cc4dtool105.webp"
-        },
-        {
-          "id": "https://cginterest.com/?p=52921",
-          "author": ".me",
-          "description": "Unreal Engine 5.7 に合わせて無料で公開された、高品質なプロシージャル植物アセット「Quixel Megaplants」紹介です。 Quixel Megaplantsとは？ Megaplantsは、Unr […]\nUE 5.7 新機能プロシージャル植生エディタと連携して機能する高品質な無料プロシージャル植物アセット「Quixel Megaplants」 first appeared on CGinterest.",
-          "link": "https://cginterest.com/2025/11/16/ue-5-7-%e6%96%b0%e6%a9%9f%e8%83%bd%e3%83%97%e3%83%ad%e3%82%b7%e3%83%bc%e3%82%b8%e3%83%a3%e3%83%ab%e6%a4%8d%e7%94%9f%e3%82%a8%e3%83%87%e3%82%a3%e3%82%bf%e3%81%a8%e9%80%a3%e6%90%ba%e3%81%97%e3%81%a6/",
-          "publishedOn": "2025-11-16T01:17:00.000Z",
-          "wordCount": 36837,
-          "title": "UE 5.7 新機能プロシージャル植生エディタと連携して機能する高品質な無料プロシージャル植物アセット「Quixel Megaplants」",
-          "imageUrl": "https://cginterest.com/wp-content/uploads/2025/11/20251115_QuixelMEGAPlants.webp"
         }
       ]
     }

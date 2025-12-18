@@ -2,10 +2,56 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-12-17T12:24:06.385Z</updated>
+    <updated>2025-12-18T00:54:41.214Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Googleら、空間をメッシュを用いたラディアンスフィールドとして再定義する3D描画技術「Radiance Meshes」公開！ 3DGSより高速描画、オープンソース - ニュース]]></title>
+        <id>https://cgworld.jp/flashnews/01-202512-RadianceMeshes.html</id>
+        <link href="https://cgworld.jp/flashnews/01-202512-RadianceMeshes.html"/>
+        <updated>2025-12-17T23:36:18.000Z</updated>
+        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mayaのカメラで何とかしたい8　~カメラをつなげる~]]></title>
+        <id>https://qiita.com/9boz/items/24ab6b7dab686453c7df</id>
+        <link href="https://qiita.com/9boz/items/24ab6b7dab686453c7df"/>
+        <updated>2025-12-17T22:11:32.000Z</updated>
+        <summary type="html"><![CDATA[シーン内に複数のカメラがあったとして、
+それをつぎつぎ切り替えて1つのカメラとして再生したいなぁと
+A,カメラシーケンサを使いましょう
+まぁそれでもいいですが、無理やりつなげてみたくなりました。
+
+ラフに考える
+1つのカメラで複数のカメラの動きを切り替えて受信すればいいのか...]]></summary>
+        <author>
+            <name>mayaタグが付けられた新着記事 - Qiita</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Creators Coalition on AI (CCAI) - 生成AIの急速な普及を受けエンターテインメント業界におけるAI活用の在り方を議論・整理するための新団体が発足！クリエティブに携わるすべての人への呼びかけ！現在署名参加が可能！]]></title>
+        <id>https://3dnchu.com/?p=1060802</id>
+        <link href="https://3dnchu.com/archives/ccai/"/>
+        <updated>2025-12-17T17:31:34.000Z</updated>
+        <summary type="html"><![CDATA[生成AIの急速な普及を受けエンターテインメント業界におけるAI活用の在り方を議論・整理するための新団「Creators Coalition on AI (CCAI)」が発足！]]></summary>
+        <author>
+            <name>Ymt3D -3dnchu-</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sharp Monocular View Synthesis in Less Than a Second - Appleが１枚の画像から1秒以内に3Dシーン（3D Gaussian Splatting）を生成する技術「SHARP」を発表！]]></title>
+        <id>https://3dnchu.com/?p=1060785</id>
+        <link href="https://3dnchu.com/archives/sharp-apple/"/>
+        <updated>2025-12-17T17:14:39.000Z</updated>
+        <summary type="html"><![CDATA[Appleが１枚の画像から3Dシーン（3D Gaussian Splatting）を生成する技術「Sharp Monocular View Synthesis in Less Than a Second」を発表しました！]]></summary>
+        <author>
+            <name>Ymt3D -3dnchu-</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Microsoft、40億パラメータを持つ最先端の3D生成モデル「TRELLIS.2」をオープンソースでリリース！]]></title>
         <id>https://cginterest.com/?p=54085</id>
@@ -5424,121 +5470,6 @@ The post すべてが新しい!? オープンソースの 3DCG・アニメーシ
         <summary type="html"><![CDATA[2025年11月18日（現地時間） 無料＆オープンソースのCGソフトウェアの最新メジャーアップデート「Blender 5.0」が正式リリースされました！]]></summary>
         <author>
             <name>Ymt3D -3dnchu-</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Xencelabs、4K OLEDペンディスプレイ「Xencelabs ペンディスプレイ 16 Lite」を発表－本体重量約1.2kg、厚さ12mmの薄型・軽量モデル - ニュース]]></title>
-        <id>https://cgworld.jp/flashnews/02-2511-xencelabspendisplay16lite.html</id>
-        <link href="https://cgworld.jp/flashnews/02-2511-xencelabspendisplay16lite.html"/>
-        <updated>2025-11-18T09:41:38.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[様式化されたフィクション：『Bang on Time』のメイキング]]></title>
-        <id>https://3dtotal.jp/?p=53387</id>
-        <link href="https://3dtotal.jp/tutorials/53387/"/>
-        <updated>2025-11-18T08:09:41.000Z</updated>
-        <summary type="html"><![CDATA[01 コンセプト 「Bang on Time (定刻の一撃)」は、粗削りで危険な雰囲気の環境（エンバイロメント）で、動きを強調した作品にしたいと思いました。大ざっぱで抽象的なスタイルを選び、全体のダイナミックな印象を出す […]
-The post 様式化されたフィクション：『Bang on Time』のメイキング first appeared on 3dtotal 日本語オフィシャルサイト.]]></summary>
-        <author>
-            <name>3dtotal管理人T</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[廃墟と化した世界。人間の記憶の断片を探し求める1体のロボット。ショートフィルム『MEMORIES』＆メイキング映像]]></title>
-        <id>https://3dtotal.jp/?p=53738</id>
-        <link href="https://3dtotal.jp/news/53738/"/>
-        <updated>2025-11-18T08:01:24.000Z</updated>
-        <summary type="html"><![CDATA[★MEMORIES by Mehdi Hadi（1分48秒） 廃墟と化した世界で、1体のロボットが人間の記憶の断片を探し求める。記憶と喪失、そして希望の物語。 ZBrush、Cinema 4D、Redshift、Red  […]
-The post 廃墟と化した世界。人間の記憶の断片を探し求める1体のロボット。ショートフィルム『MEMORIES』＆メイキング映像 first appeared on 3dtotal 日本語オフィシャルサイト.]]></summary>
-        <author>
-            <name>3dtotal管理人T</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中高生が企画から運営まで担う「学生CG映像フェスティバル in TOKAI」11/29（土）開催 - ニュース]]></title>
-        <id>https://cgworld.jp/flashnews/02-2511-cg-tokai.html</id>
-        <link href="https://cgworld.jp/flashnews/02-2511-cg-tokai.html"/>
-        <updated>2025-11-18T05:08:13.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Blendini – HoudiniとBlenderを双方にワンクリック同期して、パーティクル・ジオメトリ・カメラ・ライト等を転送できるツール]]></title>
-        <id>https://modelinghappy.com/?p=65451</id>
-        <link href="https://modelinghappy.com/archives/65451"/>
-        <updated>2025-11-18T04:12:57.000Z</updated>
-        <summary type="html"><![CDATA[Blendini: Export Any Geometry from Houdini to Blender BlendiniはHoudiniとBlenderでワンクリックで同期して、お互いのデータを自動転送できるBlen
-The post Blendini – HoudiniとBlenderを双方にワンクリック同期して、パーティクル・ジオメトリ・カメラ・ライト等を転送できるツール first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
-        <author>
-            <name>modelinghappy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[芸術未経験専門学生の「サンタテレサ」制作と、これからへの祈り。]]></title>
-        <id>https://note.com/haru_shakuya/n/n96953b85b819</id>
-        <link href="https://note.com/haru_shakuya/n/n96953b85b819"/>
-        <updated>2025-11-18T02:35:13.000Z</updated>
-        <summary type="html"><![CDATA[サンタテレサ
-制作期間　2025年5月　30時間
-使用ツール　blender、Substance３DPainter
-続きをみる]]></summary>
-        <author>
-            <name>#substancepainterタグ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ゲームもカフェも映像も――SAFEHOUSEの多彩な舞台を輝かせる広報の現場 - スペシャルコンテンツ]]></title>
-        <id>https://cgworld.jp/special-feature/2511-safehouse.html</id>
-        <link href="https://cgworld.jp/special-feature/2511-safehouse.html"/>
-        <updated>2025-11-18T02:25:00.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【アセット紹介】Procedural Detail – 劣化や傷を追加できるシェーダーエディタ]]></title>
-        <id>https://cgbox.jp/?p=64574</id>
-        <link href="https://cgbox.jp/2025/11/18/news-addon-procedural-detail/"/>
-        <updated>2025-11-18T02:21:23.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは！ 今回はアドオンの「Procedural Detail」を紹介します。 こちらのリンクがアドオンの商品ページになります。 Procedural Detail 「Procedural Detail」は、あらゆる […]]]></summary>
-        <author>
-            <name>kasahara</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[World Labs Marble - テキスト、画像、動画から3D世界（3D Gaussian Splatting）を生成する世界生成モデルが正式リリース！]]></title>
-        <id>https://3dnchu.com/?p=1060043</id>
-        <link href="https://3dnchu.com/archives/world-labs-marble/"/>
-        <updated>2025-11-18T02:19:29.000Z</updated>
-        <summary type="html"><![CDATA[2025年11月12日（現地時間）、AI企業World Labsが、テキスト、画像、動画から3D世界を生成する世界生成モデル「 Marble」を一般公開しました！]]></summary>
-        <author>
-            <name>Ymt3D -3dnchu-</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LDH Animation【モーションキャプチャスタジオ】 - 連載]]></title>
-        <id>https://cgworld.jp/regular/2510-ldh-animation.html</id>
-        <link href="https://cgworld.jp/regular/2510-ldh-animation.html"/>
-        <updated>2025-11-18T01:30:26.000Z</updated>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["重みのある動き"を学べる女性騎士が登場、Maya用フリーリグ「アプリボットリグ」開発チームインタビュー：後篇～ガーネット＆「General Rig」篇 - 特集]]></title>
-        <id>https://cgworld.jp/article/202510-applibot02.html</id>
-        <link href="https://cgworld.jp/article/202510-applibot02.html"/>
-        <updated>2025-11-18T01:00:46.000Z</updated>
-        <summary type="html"><![CDATA[進化したアプリボットリグのメイキングを開発者が紹介。]]></summary>
-        <author>
-            <name>CGWORLD</name>
         </author>
     </entry>
 </feed>

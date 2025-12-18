@@ -430,16 +430,6 @@
             "type": "video/mp4"
           },
           "imageUrl": "https://cgbox.jp/wp-content/uploads/2025/11/image_processing20251118-2-9z2np2.jpg"
-        },
-        {
-          "id": "https://cgbox.jp/?p=64574",
-          "author": "kasahara",
-          "description": "こんばんは！ 今回はアドオンの「Procedural Detail」を紹介します。 こちらのリンクがアドオンの商品ページになります。 Procedural Detail 「Procedural Detail」は、あらゆる […]",
-          "link": "https://cgbox.jp/2025/11/18/news-addon-procedural-detail/",
-          "publishedOn": "2025-11-18T02:21:23.000Z",
-          "wordCount": 2256,
-          "title": "【アセット紹介】Procedural Detail – 劣化や傷を追加できるシェーダーエディタ",
-          "imageUrl": "https://cgbox.jp/wp-content/uploads/2025/11/image_processing20251115-2-dh8p2d.jpg"
         }
       ]
     },
@@ -460,6 +450,36 @@
       "feedUrl": "https://3dnchu.com/feed/",
       "siteUrl": "https://3dnchu.com",
       "articles": [
+        {
+          "id": "https://3dnchu.com/?p=1060802",
+          "author": "Ymt3D -3dnchu-",
+          "description": "生成AIの急速な普及を受けエンターテインメント業界におけるAI活用の在り方を議論・整理するための新団「Creators Coalition on AI (CCAI)」が発足！",
+          "link": "https://3dnchu.com/archives/ccai/",
+          "publishedOn": "2025-12-17T17:31:34.000Z",
+          "wordCount": 8824,
+          "title": "Creators Coalition on AI (CCAI) - 生成AIの急速な普及を受けエンターテインメント業界におけるAI活用の在り方を議論・整理するための新団体が発足！クリエティブに携わるすべての人への呼びかけ！現在署名参加が可能！",
+          "enclosure": {
+            "url": "https://3dnchu.com/wp-content/uploads/CCAI.png",
+            "length": "93023",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://3dnchu.com/wp-content/uploads/CCAI.png"
+        },
+        {
+          "id": "https://3dnchu.com/?p=1060785",
+          "author": "Ymt3D -3dnchu-",
+          "description": "Appleが１枚の画像から3Dシーン（3D Gaussian Splatting）を生成する技術「Sharp Monocular View Synthesis in Less Than a Second」を発表しました！",
+          "link": "https://3dnchu.com/archives/sharp-apple/",
+          "publishedOn": "2025-12-17T17:14:39.000Z",
+          "wordCount": 8858,
+          "title": "Sharp Monocular View Synthesis in Less Than a Second - Appleが１枚の画像から1秒以内に3Dシーン（3D Gaussian Splatting）を生成する技術「SHARP」を発表！",
+          "enclosure": {
+            "url": "https://3dnchu.com/wp-content/uploads/SHARP.mp4",
+            "length": "10107297",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://3dnchu.com/wp-content/uploads/SHARP-apple.webp"
+        },
         {
           "id": "https://3dnchu.com/?p=1060754",
           "author": "Ymt3D -3dnchu-",
@@ -999,21 +1019,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "https://3dnchu.com/wp-content/uploads/Blender-5-0.webp"
-        },
-        {
-          "id": "https://3dnchu.com/?p=1060043",
-          "author": "Ymt3D -3dnchu-",
-          "description": "2025年11月12日（現地時間）、AI企業World Labsが、テキスト、画像、動画から3D世界を生成する世界生成モデル「 Marble」を一般公開しました！",
-          "link": "https://3dnchu.com/archives/world-labs-marble/",
-          "publishedOn": "2025-11-18T02:19:29.000Z",
-          "wordCount": 8855,
-          "title": "World Labs Marble - テキスト、画像、動画から3D世界（3D Gaussian Splatting）を生成する世界生成モデルが正式リリース！",
-          "enclosure": {
-            "url": "https://3dnchu.com/wp-content/uploads/World-Labs-Marble.webp",
-            "length": "992546",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://3dnchu.com/wp-content/uploads/World-Labs-Marble.webp"
         }
       ]
     },
@@ -1022,6 +1027,16 @@
       "feedUrl": "https://cgworld.jp/atom.xml",
       "siteUrl": "https://cgworld.jp/",
       "articles": [
+        {
+          "id": "https://cgworld.jp/flashnews/01-202512-RadianceMeshes.html",
+          "author": null,
+          "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
+          "link": "https://cgworld.jp/flashnews/01-202512-RadianceMeshes.html",
+          "publishedOn": "2025-12-17T23:36:18.000Z",
+          "wordCount": 826,
+          "title": "Googleら、空間をメッシュを用いたラディアンスフィールドとして再定義する3D描画技術「Radiance Meshes」公開！ 3DGSより高速描画、オープンソース - ニュース",
+          "imageUrl": "https://cgworld.jp/flashnews/assets_c/2025/12/RadianceMeshes-01-thumb-1920x1080-77532.jpg"
+        },
         {
           "id": "https://cgworld.jp/article/animecg136-wandance01.html",
           "author": null,
@@ -1981,56 +1996,6 @@
           "wordCount": 760,
           "title": "靴ひものモデリングを補助するBlenderアドオン「Nyanneco Shoelace Tool」リリース！ ジオメトリノードベースのツール＋アドオン、無料版あり - ニュース",
           "imageUrl": "https://cgworld.jp/flashnews/assets_c/2025/11/ShoelaceTool-01-thumb-1920x1080-76361.jpg"
-        },
-        {
-          "id": "https://cgworld.jp/flashnews/02-2511-xencelabspendisplay16lite.html",
-          "author": null,
-          "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
-          "link": "https://cgworld.jp/flashnews/02-2511-xencelabspendisplay16lite.html",
-          "publishedOn": "2025-11-18T09:41:38.000Z",
-          "wordCount": 738,
-          "title": "Xencelabs、4K OLEDペンディスプレイ「Xencelabs ペンディスプレイ 16 Lite」を発表－本体重量約1.2kg、厚さ12mmの薄型・軽量モデル - ニュース",
-          "imageUrl": "https://cgworld.jp/flashnews/assets_c/2025/11/b7bb71e1be6a75915ccfe7e6422bb1fcef9515af-thumb-1000x563-75989.jpg"
-        },
-        {
-          "id": "https://cgworld.jp/flashnews/02-2511-cg-tokai.html",
-          "author": null,
-          "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
-          "link": "https://cgworld.jp/flashnews/02-2511-cg-tokai.html",
-          "publishedOn": "2025-11-18T05:08:13.000Z",
-          "wordCount": 734,
-          "title": "中高生が企画から運営まで担う「学生CG映像フェスティバル in TOKAI」11/29（土）開催 - ニュース",
-          "imageUrl": "https://cgworld.jp/flashnews/assets_c/2025/11/fedSw0Grfe-thumb-1000x563-76321.jpg"
-        },
-        {
-          "id": "https://cgworld.jp/special-feature/2511-safehouse.html",
-          "author": null,
-          "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
-          "link": "https://cgworld.jp/special-feature/2511-safehouse.html",
-          "publishedOn": "2025-11-18T02:25:00.000Z",
-          "wordCount": 567,
-          "title": "ゲームもカフェも映像も――SAFEHOUSEの多彩な舞台を輝かせる広報の現場 - スペシャルコンテンツ",
-          "imageUrl": "https://cgworld.jp/special-feature/assets_c/2025/11/B-%281%29-thumb-960x540-75952.png"
-        },
-        {
-          "id": "https://cgworld.jp/regular/2510-ldh-animation.html",
-          "author": null,
-          "description": "",
-          "link": "https://cgworld.jp/regular/2510-ldh-animation.html",
-          "publishedOn": "2025-11-18T01:30:26.000Z",
-          "wordCount": 636,
-          "title": "LDH Animation【モーションキャプチャスタジオ】 - 連載",
-          "imageUrl": "https://cgworld.jp/regular/assets_c/2025/11/ldh-thumb-1000x563-75862.jpg"
-        },
-        {
-          "id": "https://cgworld.jp/article/202510-applibot02.html",
-          "author": null,
-          "description": "進化したアプリボットリグのメイキングを開発者が紹介。",
-          "link": "https://cgworld.jp/article/202510-applibot02.html",
-          "publishedOn": "2025-11-18T01:00:46.000Z",
-          "wordCount": 829,
-          "title": "\"重みのある動き\"を学べる女性騎士が登場、Maya用フリーリグ「アプリボットリグ」開発チームインタビュー：後篇～ガーネット＆「General Rig」篇 - 特集",
-          "imageUrl": "https://cgworld.jp/article/assets_c/2025/10/main-thumb-1000x454-75610.jpg"
         }
       ]
     },
@@ -2564,16 +2529,6 @@
           "wordCount": 3955,
           "title": "Blender 5.0 正式リリース新機能まとめ｜モデリング・Geometry Nodes・アニメーション・Cyclesなど大幅強化",
           "imageUrl": "https://modelinghappy.com/wp-content/uploads/2025/11/20251119_blender_5_1.jpg"
-        },
-        {
-          "id": "https://modelinghappy.com/?p=65451",
-          "author": "modelinghappy",
-          "description": "Blendini: Export Any Geometry from Houdini to Blender BlendiniはHoudiniとBlenderでワンクリックで同期して、お互いのデータを自動転送できるBlen\nThe post Blendini – HoudiniとBlenderを双方にワンクリック同期して、パーティクル・ジオメトリ・カメラ・ライト等を転送できるツール first appeared on 3DCG最新情報サイト MODELING HAPPY.",
-          "link": "https://modelinghappy.com/archives/65451",
-          "publishedOn": "2025-11-18T04:12:57.000Z",
-          "wordCount": 3705,
-          "title": "Blendini – HoudiniとBlenderを双方にワンクリック同期して、パーティクル・ジオメトリ・カメラ・ライト等を転送できるツール",
-          "imageUrl": "https://modelinghappy.com/wp-content/uploads/2025/11/20251118_Blendini_01.jpg"
         }
       ]
     },
@@ -2941,26 +2896,6 @@
           "wordCount": 621,
           "title": "すべてが新しい!? オープンソースの 3DCG・アニメーション制作ツール Blender 5 リリース",
           "imageUrl": "https://3dtotal.jp/wp-content/uploads/2025/11/blender5_wnew.jpg"
-        },
-        {
-          "id": "https://3dtotal.jp/?p=53387",
-          "author": "3dtotal管理人T",
-          "description": "01 コンセプト 「Bang on Time (定刻の一撃)」は、粗削りで危険な雰囲気の環境（エンバイロメント）で、動きを強調した作品にしたいと思いました。大ざっぱで抽象的なスタイルを選び、全体のダイナミックな印象を出す […]\nThe post 様式化されたフィクション：『Bang on Time』のメイキング first appeared on 3dtotal 日本語オフィシャルサイト.",
-          "link": "https://3dtotal.jp/tutorials/53387/",
-          "publishedOn": "2025-11-18T08:09:41.000Z",
-          "wordCount": 569,
-          "title": "様式化されたフィクション：『Bang on Time』のメイキング",
-          "imageUrl": "https://3dtotal.jp/wp-content/uploads/2025/10/t375_t.jpg"
-        },
-        {
-          "id": "https://3dtotal.jp/?p=53738",
-          "author": "3dtotal管理人T",
-          "description": "★MEMORIES by Mehdi Hadi（1分48秒） 廃墟と化した世界で、1体のロボットが人間の記憶の断片を探し求める。記憶と喪失、そして希望の物語。 ZBrush、Cinema 4D、Redshift、Red  […]\nThe post 廃墟と化した世界。人間の記憶の断片を探し求める1体のロボット。ショートフィルム『MEMORIES』＆メイキング映像 first appeared on 3dtotal 日本語オフィシャルサイト.",
-          "link": "https://3dtotal.jp/news/53738/",
-          "publishedOn": "2025-11-18T08:01:24.000Z",
-          "wordCount": 515,
-          "title": "廃墟と化した世界。人間の記憶の断片を探し求める1体のロボット。ショートフィルム『MEMORIES』＆メイキング映像",
-          "imageUrl": "https://3dtotal.jp/wp-content/uploads/2025/11/memories_short.jpg"
         }
       ]
     },
@@ -3402,6 +3337,16 @@
       "feedUrl": "https://qiita.com/tags/maya/feed",
       "siteUrl": "https://qiita.com",
       "articles": [
+        {
+          "id": "https://qiita.com/9boz/items/24ab6b7dab686453c7df",
+          "author": null,
+          "description": "シーン内に複数のカメラがあったとして、\nそれをつぎつぎ切り替えて1つのカメラとして再生したいなぁと\nA,カメラシーケンサを使いましょう\nまぁそれでもいいですが、無理やりつなげてみたくなりました。\n\nラフに考える\n1つのカメラで複数のカメラの動きを切り替えて受信すればいいのか...",
+          "link": "https://qiita.com/9boz/items/24ab6b7dab686453c7df",
+          "publishedOn": "2025-12-17T22:11:32.000Z",
+          "wordCount": 1225,
+          "title": "Mayaのカメラで何とかしたい8　~カメラをつなげる~",
+          "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Fadvent-calendar-ogp-background-7940cd1c8db80a7ec40711d90f43539e.jpg%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnBicy50d2ltZy5jb20lMkZwcm9maWxlX2ltYWdlcyUyRjUzNzk1NjE0OTcwNjc3MjQ4MCUyRkZCUmk0WUVPX2JpZ2dlci5wbmc_aXhsaWI9cmItNC4wLjAmYXI9MSUzQTEmZml0PWNyb3AmbWFzaz1lbGxpcHNlJmJnPUZGRkZGRiZmbT1wbmczMiZzPWExZThhMjQ1ZjJlOGI0MDFlNmZmNDdjMzM4ODNkZmEx%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3Df6a03fa17d0939a5431e8030eb57bbf7?ixlib=rb-4.0.0&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9TWF5YSVFMyU4MSVBRSVFMyU4MiVBQiVFMyU4MyVBMSVFMyU4MyVBOSVFMyU4MSVBNyVFNCVCRCU5NSVFMyU4MSVBOCVFMyU4MSU4QiVFMyU4MSU5NyVFMyU4MSU5RiVFMyU4MSU4NDglRTMlODAlODB-JUUzJTgyJUFCJUUzJTgzJUExJUUzJTgzJUE5JUUzJTgyJTkyJUUzJTgxJUE0JUUzJTgxJUFBJUUzJTgxJTkyJUUzJTgyJThCfiZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZ0eHQtY29sb3I9JTIzM0EzQzNDJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnR4dC1wYWQ9MCZzPTE2NjA1YWFiMmQzM2Y3MjkwNThhN2Q1NzkwYTllZjA3&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDA5Ym96JnR4dC1jb2xvcj0lMjMzQTNDM0MmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9MzZlY2M2NjU5OWE5M2Y5Mzg2MGExZGZlZjkxZDllY2U&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=9fe54719fa397df30504e2237301d118"
+        },
         {
           "id": "https://qiita.com/9boz/items/7b7423ed6984c1c8f043",
           "author": null,
@@ -4640,16 +4585,6 @@
           "wordCount": 2346,
           "title": "41th ☕",
           "imageUrl": "https://assets.st-note.com/production/uploads/images/231357248/rectangle_large_type_2_1f42cb93db3d92648c745d309318576f.png?width=800"
-        },
-        {
-          "id": "https://note.com/haru_shakuya/n/n96953b85b819",
-          "author": null,
-          "description": "サンタテレサ\n制作期間　2025年5月　30時間\n使用ツール　blender、Substance３DPainter\n続きをみる",
-          "link": "https://note.com/haru_shakuya/n/n96953b85b819",
-          "publishedOn": "2025-11-18T02:35:13.000Z",
-          "wordCount": 2378,
-          "title": "芸術未経験専門学生の「サンタテレサ」制作と、これからへの祈り。",
-          "imageUrl": "https://assets.st-note.com/production/uploads/images/230249919/rectangle_large_type_2_f840171d912421c5b675fc5b9bfb5805.png?width=800"
         }
       ]
     },

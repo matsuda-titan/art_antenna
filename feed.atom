@@ -2,10 +2,63 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-12-20T12:20:12.802Z</updated>
+    <updated>2025-12-21T01:00:55.208Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Web用3DCG描画用JSライブラリ「Three.js r182」リリース！ WebGLRendererのシャドウマッピング刷新、マテリアルの物理的な正確性の向上、TSL機能強化 - ニュース]]></title>
+        <id>https://cgworld.jp/flashnews/01-202512-Threejs-r182.html</id>
+        <link href="https://cgworld.jp/flashnews/01-202512-Threejs-r182.html"/>
+        <updated>2025-12-20T23:27:30.000Z</updated>
+        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[やってみた　~ソフト選択でvtxカラーグラデーション~]]></title>
+        <id>https://qiita.com/9boz/items/563e9811687cb65b85c4</id>
+        <link href="https://qiita.com/9boz/items/563e9811687cb65b85c4"/>
+        <updated>2025-12-20T22:12:17.000Z</updated>
+        <summary type="html"><![CDATA[Xで見かけたお題をやってみた。
+ソフト選択の内容で、vtXColorを設定したい。　ってやつですね
+まずはソフト選択の内容をweight付で取得したいですね。
+なんかskinWeightで似たようなことをやってた方が居たような
+とかまぁ色々先人の方々の足跡を調べまして・・・...]]></summary>
+        <author>
+            <name>mayaタグが付けられた新着記事 - Qiita</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[MMD]3DCGの場違いな工芸品]]></title>
+        <id>https://qiita.com/banshee_lit17/items/089a9f2b939aa8993e5e</id>
+        <link href="https://qiita.com/banshee_lit17/items/089a9f2b939aa8993e5e"/>
+        <updated>2025-12-20T19:29:43.000Z</updated>
+        <summary type="html"><![CDATA[この記事は Life is Tech ! Advent Calendar 2025 21日目の記事です。
+
+はじめに
+こんにちは、MMDer歴8年、ばんしぃです。
+突然だが貴方は「オーパーツ」というものをご存じだろうか。
+オーパーツとは、発見された時代や文明の技術水準では製...]]></summary>
+        <author>
+            <name>3DCGタグが付けられた新着記事 - Qiita</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[シェーダーのホットリロードを書いてみた]]></title>
+        <id>https://qiita.com/je-pu-pu/items/336c721af09eaffd1aa9</id>
+        <link href="https://qiita.com/je-pu-pu/items/336c721af09eaffd1aa9"/>
+        <updated>2025-12-20T17:31:16.000Z</updated>
+        <summary type="html"><![CDATA[———「アプリ再起動？そんな昭和みたいなことはしない！」———
+
+はじめに
+HLSL を書き換えるたびにアプリを再起動して、全シェーダーを再コンパイルして、シーンが消えて…という流れを毎回繰り返していると、人間の集中力は簡単に蒸発してしまいます。
+「ちょっと色味を変えただけ...]]></summary>
+        <author>
+            <name>HLSLタグが付けられた新着記事 - Qiita</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Topaz Video 1.1.0 がリリース！質感を制御するグレインやデノイズの刷新など]]></title>
         <id>https://cginterest.com/?p=54224</id>
@@ -5409,194 +5462,6 @@ https://www.fab.com/listings/3277687b-a06f-4ef7-a285-63b9...]]></summary>
         <updated>2025-11-21T13:50:21.000Z</updated>
         <summary type="html"><![CDATA[Loft Curves Loft CurvesはBlenderで便利なアドオンを多数開発しているMark Kingsnorthさんが作成した、２つ以上の複数のカーブからサーフェスを作成出来るアドオンで、カーブで作成した形
 The post Loft Curves – 2つ以上の複数カーブで有機的な形状を作れるBlender用アドオン first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
-        <author>
-            <name>modelinghappy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ポストエフェクト祭り。React/ポストプロセスを触ってカスタムシェーダーの作り方をざっくり理解してみよう]]></title>
-        <id>https://qiita.com/testkun08080/items/8601df90fbd4295cff3a</id>
-        <link href="https://qiita.com/testkun08080/items/8601df90fbd4295cff3a"/>
-        <updated>2025-11-21T10:56:06.000Z</updated>
-        <summary type="html"><![CDATA[はじめに
-もう九月か。。。
-独り立ちして約１年ぐらい経とうとしている中、ポートフォリオページがまだUnder Maintenanceなので、
-重い腰を上げて、ポートフォリオページを作成することにしました。
-そこで、大好きなシェーダーをポートフォリオにもモリモリ使おうと思い...]]></summary>
-        <author>
-            <name>Shaderタグが付けられた新着記事 - Qiita</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[スタジオSoup.【モーションキャプチャスタジオ】 - 連載]]></title>
-        <id>https://cgworld.jp/regular/2510-soup.html</id>
-        <link href="https://cgworld.jp/regular/2510-soup.html"/>
-        <updated>2025-11-21T09:54:10.000Z</updated>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PhotoshopとFireflyで最新モデル「Gemini 3 (Nano Banana Pro)」が利用可能に]]></title>
-        <id>https://cginterest.com/?p=53205</id>
-        <link href="https://cginterest.com/2025/11/21/photoshop%e3%81%a8firefly%e3%81%a7%e6%9c%80%e6%96%b0%e3%83%a2%e3%83%87%e3%83%ab%e3%80%8cgemini-3-nano-banana-pro%e3%80%8d%e3%81%8c%e5%88%a9%e7%94%a8%e5%8f%af%e8%83%bd%e3%81%ab/"/>
-        <updated>2025-11-21T09:53:00.000Z</updated>
-        <summary type="html"><![CDATA[2025年11月20日（現地時間）- Adobe は、同社のクリエイティブツールにおける生成AIモデルのラインナップ拡張を発表しました。 PhotoshopとFireflyにNano Banana Pro が統合 Pho […]
-PhotoshopとFireflyで最新モデル「Gemini 3 (Nano Banana Pro)」が利用可能に first appeared on CGinterest.]]></summary>
-        <author>
-            <name>.me</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Premier Insights Vol.2 - テーマは『モデリング』！世界の一流スタジオで活躍するモデラー・背景アーティスト達によるオンラインスキルアップイベント！2025年12月13～14日に開催！！早期割引は12月12日まで！]]></title>
-        <id>https://3dnchu.com/?p=1060161</id>
-        <link href="https://3dnchu.com/archives/premier-insights-vol-2/"/>
-        <updated>2025-11-21T09:12:22.000Z</updated>
-        <summary type="html"><![CDATA[2025年12月13日（土）と14日（日）にCGWORLDによる、世界の一流スタジオで活躍するアーティストを迎えて講演いただくスキルアップイベント『Premier Insights Vol.2』が開催！第２回は「モデリング」をテーマに合計8セッションがオンライン配信されます！]]></summary>
-        <author>
-            <name>Ymt3D -3dnchu-</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google、次世代画像生成AI「Nano Banana Pro」を発表！]]></title>
-        <id>https://cginterest.com/?p=53204</id>
-        <link href="https://cginterest.com/2025/11/21/google%e3%80%81%e6%ac%a1%e4%b8%96%e4%bb%a3%e7%94%bb%e5%83%8f%e7%94%9f%e6%88%90ai%e3%80%8cnano-banana-pro%e3%80%8d%e3%82%92%e7%99%ba%e8%a1%a8%ef%bc%81/"/>
-        <updated>2025-11-21T08:59:31.000Z</updated>
-        <summary type="html"><![CDATA[2025年11月20日（現地時間）- Google は、最新の画像生成および編集モデルである「Nano Banana Pro (Gemini 3 Pro Image)」を発表しました。 主な機能と特徴 Nano Bana […]
-Google、次世代画像生成AI「Nano Banana Pro」を発表！ first appeared on CGinterest.]]></summary>
-        <author>
-            <name>.me</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【Substance Painter】ハイトを使ってシャープなラインを入れる方法]]></title>
-        <id>https://3d.crdg.jp/env/?p=7553</id>
-        <link href="https://3d.crdg.jp/env/2025/11/21/7553/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=%25e3%2580%2590substance-painter%25e3%2580%2591%25e3%2583%258f%25e3%2582%25a4%25e3%2583%2588%25e3%2582%2592%25e4%25bd%25bf%25e3%2581%25a3%25e3%2581%25a6%25e3%2582%25b7%25e3%2583%25a3%25e3%2583%25bc%25e3%2583%2597%25e3%2581%25aa%25e3%2583%25a9%25e3%2582%25a4%25e3%2583%25b3%25e3%2582%2592%25e5%2585%25a5%25e3%2582%258c"/>
-        <updated>2025-11-21T08:09:22.000Z</updated>
-        <summary type="html"><![CDATA[ハイトチャンネルを使ってラインを描くと、ふんわりした丸みのあるラインになってしまうことがあると思います。細い線なら気にならないことも多いのですが、太く […]
-続きを読む
-投稿 【Substance Painter】ハイトを使ってシャープなラインを入れる方法 は エンホリ - ENVIRONMENT HOLIC｜C&R Creative Studios に最初に表示されました。]]></summary>
-        <author>
-            <name>Daichi.Matsumura</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI×XRの新スタジオ「DNP XR STUDIO」を市谷に開設。映像制作の課題解決と新表現創出を推進 - ニュース]]></title>
-        <id>https://cgworld.jp/flashnews/02-2511-dnp-xrstudio.html</id>
-        <link href="https://cgworld.jp/flashnews/02-2511-dnp-xrstudio.html"/>
-        <updated>2025-11-21T07:19:56.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【XPPEN】ブラックフライデーセール開催！XPPENの対象商品まとめ！]]></title>
-        <id>https://cgbox.jp/?p=64592</id>
-        <link href="https://cgbox.jp/2025/11/21/xppen-blackfriday2025/"/>
-        <updated>2025-11-21T07:10:00.000Z</updated>
-        <summary type="html"><![CDATA[この記事にはプロモーションが含まれます。 11/21~12/1までAmazonブラックフライデーセールが実施中！ 今までCGbox内で紹介した液タブ・板タブも一部セール対象になっております。 今回は今までCGbox編集部 […]]]></summary>
-        <author>
-            <name>kasahara</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Substance 3D Painter 11.1 がリリース！新しいリボンパスツール、Vulkanサポートなどなど]]></title>
-        <id>https://cginterest.com/?p=53171</id>
-        <link href="https://cginterest.com/2025/11/21/substance-3d-painter-11-1-%e3%81%8c%e3%83%aa%e3%83%aa%e3%83%bc%e3%82%b9%ef%bc%81%e6%96%b0%e3%81%97%e3%81%84%e3%83%aa%e3%83%9c%e3%83%b3%e3%83%91%e3%82%b9%e3%83%84%e3%83%bc%e3%83%ab%e3%80%81vulkan/"/>
-        <updated>2025-11-21T05:56:54.000Z</updated>
-        <summary type="html"><![CDATA[2025年11月18日（現地時間）- Adobe は、3Dペイントソフトウェアの最新アップデート Substance 3D Painter 11.1 のリリースを発表しました。 新機能ハイライト 今回のアップデートには、 […]
-Substance 3D Painter 11.1 がリリース！新しいリボンパスツール、Vulkanサポートなどなど first appeared on CGinterest.]]></summary>
-        <author>
-            <name>.me</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[学生を応援するWOWのクリエイティブプログラム 「WOW Student Program 2025 ― Ignite Your Creativity」開催レポート - 特集]]></title>
-        <id>https://cgworld.jp/article/2511-wow-student-program-2025.html</id>
-        <link href="https://cgworld.jp/article/2511-wow-student-program-2025.html"/>
-        <updated>2025-11-21T04:00:07.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[vol.001：コンセプトデザインをZBrushで立体化！「ケルベロス」 - 連載]]></title>
-        <id>https://cgworld.jp/regular/202511-portfolio-01.html</id>
-        <link href="https://cgworld.jp/regular/202511-portfolio-01.html"/>
-        <updated>2025-11-21T03:31:00.000Z</updated>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[vol.001：コンセプトデザインをZBrushで立体化！「ケルベロス」 - 連載]]></title>
-        <id>https://cgworld.jp/regular/202512-portfolio-01.html</id>
-        <link href="https://cgworld.jp/regular/202512-portfolio-01.html"/>
-        <updated>2025-11-21T03:31:00.000Z</updated>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AMD Radeon™ PRO グラフィックスの実力、現場の"本音" ――セガ・ソニックチームが明かす、ハイエンドGPU導入の舞台裏 - スペシャルコンテンツ]]></title>
-        <id>https://cgworld.jp/special-feature/2511-AMD-SEGA.html</id>
-        <link href="https://cgworld.jp/special-feature/2511-AMD-SEGA.html"/>
-        <updated>2025-11-21T03:30:00.000Z</updated>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Houdini と AI/ML の融合。イベント Houdini HIVE AI 2025 の講演映像]]></title>
-        <id>https://3dtotal.jp/?p=53790</id>
-        <link href="https://3dtotal.jp/news/53790/"/>
-        <updated>2025-11-21T02:38:34.000Z</updated>
-        <summary type="html"><![CDATA[10/6(月)、英ロンドンで開催された イベント Houdini HIVE AI 2025 の講演映像。 ■Houdini HIVE AI 2025 https://www.sidefx.com/houdini-hive […]
-The post Houdini と AI/ML の融合。イベント Houdini HIVE AI 2025 の講演映像 first appeared on 3dtotal 日本語オフィシャルサイト.]]></summary>
-        <author>
-            <name>3dtotal管理人T</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[新リボンパスツール：Substance 3D Painter 11.1 の新機能紹介映像]]></title>
-        <id>https://3dtotal.jp/?p=53779</id>
-        <link href="https://3dtotal.jp/news/53779/"/>
-        <updated>2025-11-21T02:07:40.000Z</updated>
-        <summary type="html"><![CDATA[★New Ribbon Paths in Substance 3D Painter（7分12秒） Substance 3D Painter 11.1 では、おなじみのパスツールを操作する新たな方法として「リボンパス」が追 […]
-The post 新リボンパスツール：Substance 3D Painter 11.1 の新機能紹介映像 first appeared on 3dtotal 日本語オフィシャルサイト.]]></summary>
-        <author>
-            <name>3dtotal管理人T</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【アドオン紹介】Globalhair – あらゆるパターンの髪の毛を作成！]]></title>
-        <id>https://cgbox.jp/?p=64626</id>
-        <link href="https://cgbox.jp/2025/11/21/news-addon-globalhair/"/>
-        <updated>2025-11-21T02:02:32.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは！ 今回はアドオンの「GlobalhairGlobalhair」を紹介します。 こちらのリンクがアドオンの商品ページになります。 Globalhair 「Globalhair」は、Blender 用のヘアスタイ […]]]></summary>
-        <author>
-            <name>kasahara</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[劇場アニメ『不思議の国でアリスと -Dive in Wonderland-』、小説『不思議の国のアリス』のワンダーランドをアニメで表現！ 〜No.3／ハートの女王のお城＆トンネル篇 - 特集]]></title>
-        <id>https://cgworld.jp/article/2511-alicemovie03.html</id>
-        <link href="https://cgworld.jp/article/2511-alicemovie03.html"/>
-        <updated>2025-11-21T01:00:08.000Z</updated>
-        <summary type="html"><![CDATA[劇場アニメ『不思議の国でアリスと -Dive in Wonderland-』のアニメCGメイキングを紹介。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Metaが「SAM 3 / SAM 3D」を発表！動画の自動マスク＆画像から3Dモデル生成まで可能！無料デモ公開中]]></title>
-        <id>https://modelinghappy.com/?p=65586</id>
-        <link href="https://modelinghappy.com/archives/65586"/>
-        <updated>2025-11-21T00:24:37.000Z</updated>
-        <summary type="html"><![CDATA[SAM ３D (Segment Anything Model) Metaが2025年11月19日に、新しいAIモデルのSAM 3とSAM 3Dを(Segment Anything 3D)を発表しました。デモ版の為商用利用
-The post Metaが「SAM 3 / SAM 3D」を発表！動画の自動マスク＆画像から3Dモデル生成まで可能！無料デモ公開中 first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
         <author>
             <name>modelinghappy</name>
         </author>

@@ -1831,26 +1831,6 @@
           "wordCount": 760,
           "title": "オープンソースのテクスチャペイントBlenderアドオン「Ucupaint 2.4.1」リリース！ Extensions Platform対応、デカールとディスプレイスメントの高度なブレンドに対応 - ニュース",
           "imageUrl": "https://cgworld.jp/flashnews/assets_c/2025/11/Ucupaint24-01-thumb-1920x1080-76616.jpg"
-        },
-        {
-          "id": "https://cgworld.jp/flashnews/01-202511-Meta-SAM3D.html",
-          "author": null,
-          "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
-          "link": "https://cgworld.jp/flashnews/01-202511-Meta-SAM3D.html",
-          "publishedOn": "2025-11-22T00:01:24.000Z",
-          "wordCount": 1173,
-          "title": "Metaの3D生成AI技術「SAM 3D」発表！ 単一の2D画像から精密な3Dオブジェクトや人物を再構築、GitHubとHugging Faceでコード＆データ公開 - ニュース",
-          "imageUrl": "https://cgworld.jp/flashnews/assets_c/2025/11/SAM3D-1-thumb-1920x1080-76534.jpg"
-        },
-        {
-          "id": "https://cgworld.jp/flashnews/01-202511-Blender50.html",
-          "author": null,
-          "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
-          "link": "https://cgworld.jp/flashnews/01-202511-Blender50.html",
-          "publishedOn": "2025-11-21T23:38:50.000Z",
-          "wordCount": 851,
-          "title": "「Blender 5.0」正式リリース！　VSEとコンポジターの統合、グリースペンシル強化、ACESネイティブ対応、UV選択同期の改善など更新多数 - ニュース",
-          "imageUrl": "https://cgworld.jp/flashnews/assets_c/2025/11/Blender5R-01-thumb-1920x960-76516.jpg"
         }
       ]
     },
@@ -2965,6 +2945,21 @@
       "feedUrl": "https://zenn.dev/topics/houdini/feed",
       "siteUrl": "https://zenn.dev/topics/houdini",
       "articles": [
+        {
+          "id": "https://zenn.dev/kickbase/articles/ccc2af3dae7533",
+          "author": "めんたいこ",
+          "description": "もうアドベントカレンダーの季節とか嘘でしょう…（2回目）？\n気を取り直して皆さんいかがお過ごしでしょう。僕は今年もHoudini三昧の毎日でした。\n今回は初学者向け学習の手引き2025と題して、理解が難しいネットワークを読む方法について解説します。\n本記事はHoudini Apprentice アドベントカレンダー2025 21日目の記事です。\n\n データ配布\nシーンファイルのダウンロード\n\n どんな状況を想定してる？\n本ネットワークは昨日12/20の記事で詳しく解説していますので、ご興味がある方はそちらの記事をご参考にしてください。シンプルな機能ですが初学者向けの考え方が詰まった作例...",
+          "link": "https://zenn.dev/kickbase/articles/ccc2af3dae7533",
+          "publishedOn": "2025-12-21T02:00:05.000Z",
+          "wordCount": 787,
+          "title": "Houdini: 初学者向け学習の手引き2025",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--jSJdcout--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Houdini%253A%2520%25E5%2588%259D%25E5%25AD%25A6%25E8%2580%2585%25E5%2590%2591%25E3%2581%2591%25E5%25AD%25A6%25E7%25BF%2592%25E3%2581%25AE%25E6%2589%258B%25E5%25BC%2595%25E3%2581%258D2025%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2582%2581%25E3%2582%2593%25E3%2581%259F%25E3%2581%2584%25E3%2581%2593%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2pvTlNrRXEtOVdEUlNaa2dKcFBxeFlFZGpZTm5TcGl3SzFUeXZOPXMyNTAtYw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
+            "length": "0",
+            "type": "false"
+          },
+          "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--jSJdcout--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Houdini%253A%2520%25E5%2588%259D%25E5%25AD%25A6%25E8%2580%2585%25E5%2590%2591%25E3%2581%2591%25E5%25AD%25A6%25E7%25BF%2592%25E3%2581%25AE%25E6%2589%258B%25E5%25BC%2595%25E3%2581%258D2025%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2582%2581%25E3%2582%2593%25E3%2581%259F%25E3%2581%2584%25E3%2581%2593%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2pvTlNrRXEtOVdEUlNaa2dKcFBxeFlFZGpZTm5TcGl3SzFUeXZOPXMyNTAtYw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"
+        },
         {
           "id": "https://zenn.dev/kickbase/articles/66b4591cd39dd5",
           "author": "めんたいこ",
@@ -4476,6 +4471,16 @@
       "feedUrl": "https://note.com/hashtag/substancepainter/rss",
       "siteUrl": "https://note.com/hashtag/substancepainter",
       "articles": [
+        {
+          "id": "https://note.com/juntominaga/n/n0044ac8797e1",
+          "author": null,
+          "description": "建築ビジュアライゼーション向けに設計した、日本住宅・日本インテリアに最適化されたニュートラル壁マテリアルパックです。\n白すぎず、黄ばみすぎず、暗くなりすぎない。\n実務で「一番困る壁色」を、最初から事故らない設計でまとめました。\n続きをみる",
+          "link": "https://note.com/juntominaga/n/n0044ac8797e1",
+          "publishedOn": "2025-12-21T09:03:13.000Z",
+          "wordCount": 2507,
+          "title": "ARCHVIZ MATERIAL SERIESP NEUTRAL WALL PACK",
+          "imageUrl": "https://assets.st-note.com/production/uploads/images/237697185/rectangle_large_type_2_94a57ea59f105d3a3ec273bbb5a7bb4b.png?width=800"
+        },
         {
           "id": "https://note.com/gifted_aster7978/n/nafd1fd4ea604",
           "author": null,

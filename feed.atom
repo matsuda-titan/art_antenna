@@ -2,10 +2,159 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-12-21T12:20:53.671Z</updated>
+    <updated>2025-12-22T00:59:49.569Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[HoudiniとUSDが支える自動運転シミュレーション。Aurora Innovationが実現するプロシージャルな環境構築術 - 特集]]></title>
+        <id>https://cgworld.jp/article/202512-cgw326-aurora.html</id>
+        <link href="https://cgworld.jp/article/202512-cgw326-aurora.html"/>
+        <updated>2025-12-22T00:22:00.000Z</updated>
+        <summary type="html"><![CDATA[自動運転システム「Aurora Driver」を開発する米Aurora Innovationに、Houdini＋USDと内製レンダラ「Alba」を用いたシミュレーション構築について話を聞いた。]]></summary>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Maya Python  UI ]リサイズ可能な下部ボタン]]></title>
+        <id>https://zenn.dev/tachikure/articles/c55ab2ae7c3638</id>
+        <link href="https://zenn.dev/tachikure/articles/c55ab2ae7c3638"/>
+        <updated>2025-12-22T00:20:05.000Z</updated>
+        <summary type="html"><![CDATA[作りたいもの
+
+
+ウィンドウリサイズすると均等にスケールされる
+
+ コード
+import maya.cmds as cmds
+
+window = cmds.window(
+    title='タイトル ラベル', w=400, h=150,
+    sizeable=True,
+    resizeToFitChildren=True
+)
+
+lo = cmds.formLayout(numberOfDivisions=100)
+apply_and_close_btn = cmds.button(l='Apply and Close', h=27)
+apply_btn = cmds....]]></summary>
+        <author>
+            <name>たちくれ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[無料Blenderアドオン「Mesh Wrap by KIRI Engine v1.0.0」リリース！ 3Dスキャンした地形・レンガ・サーフェスなどを、ベースメッシュに対して自然にラップ - ニュース]]></title>
+        <id>https://cgworld.jp/flashnews/01-202512-MeshWrap.html</id>
+        <link href="https://cgworld.jp/flashnews/01-202512-MeshWrap.html"/>
+        <updated>2025-12-21T23:55:34.000Z</updated>
+        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Googleに頼らずにストリートビューを自作した話]]></title>
+        <id>https://qiita.com/satoshi7190/items/8fc2b274174e8575117f</id>
+        <link href="https://qiita.com/satoshi7190/items/8fc2b274174e8575117f"/>
+        <updated>2025-12-21T23:32:52.000Z</updated>
+        <summary type="html"><![CDATA[これは MIERUNE Advent Calendar 2025 の22日目の記事です。
+昨日は @bordorayさんによる 猿でもわかる座標系 でした。
+
+DEMOはこちら
+
+はじめに
+ストリートビューのような機能を実現したい、という話が出たとき、真っ先に...]]></summary>
+        <author>
+            <name>Shaderタグが付けられた新着記事 - Qiita</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Googleに頼らずにストリートビューを自作した話]]></title>
+        <id>https://qiita.com/satoshi7190/items/8fc2b274174e8575117f</id>
+        <link href="https://qiita.com/satoshi7190/items/8fc2b274174e8575117f"/>
+        <updated>2025-12-21T23:32:52.000Z</updated>
+        <summary type="html"><![CDATA[これは MIERUNE Advent Calendar 2025 の22日目の記事です。
+昨日は @bordorayさんによる 猿でもわかる座標系 でした。
+
+DEMOはこちら
+
+はじめに
+ストリートビューのような機能を実現したい、という話が出たとき、真っ先に...]]></summary>
+        <author>
+            <name>GLSLタグが付けられた新着記事 - Qiita</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ステップアップさせていくMatCap実装]]></title>
+        <id>https://qiita.com/takemode/items/092f8d28eccaa59456ba</id>
+        <link href="https://qiita.com/takemode/items/092f8d28eccaa59456ba"/>
+        <updated>2025-12-21T22:11:10.000Z</updated>
+        <summary type="html"><![CDATA[はじめに
+こんにちは。ゲーム会社新卒2年目のクライアントエンジニアです。
+技術記事を投稿してみるのは今回が初になります。
+この記事はKLab Engineer Advent Calendar 2025の22日目の記事です。
+
+MatCapとは？
+MatCapは光源計算を行...]]></summary>
+        <author>
+            <name>Shaderタグが付けられた新着記事 - Qiita</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[advancedSkeleton ~pickerさわってみた~]]></title>
+        <id>https://qiita.com/9boz/items/6c9576e40ed573386f3b</id>
+        <link href="https://qiita.com/9boz/items/6c9576e40ed573386f3b"/>
+        <updated>2025-12-21T16:21:14.000Z</updated>
+        <summary type="html"><![CDATA[advancedSkeletonを触って見まして、ピッカー新しくなったそうなので使ってみたいなぁと
+
+なるほどー
+編集はどうやってやるのかなぁ？
+マニュアルは・・・・・・・・・ない？
+ないかぁー、とりあえずデータを見てみますか。
+
+データ確認
+AdvancedSkele...]]></summary>
+        <author>
+            <name>mayaタグが付けられた新着記事 - Qiita</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Houdini初心者がApex auto rig builderを使ってセットアップしてみたお話]]></title>
+        <id>https://note.com/nightskymap/n/n522726579f91</id>
+        <link href="https://note.com/nightskymap/n/n522726579f91"/>
+        <updated>2025-12-21T15:05:37.000Z</updated>
+        <summary type="html"><![CDATA[※この記事は、Houdini Apprentice Advent Calendar 2025　の22日目の記事になります。
+成果物
+続きをみる]]></summary>
+        <author>
+            <name>#Houdiniタグ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[UnityのURPで徐々に実体化するホログラムシェーダーを作ってみる]]></title>
+        <id>https://qiita.com/mizusawa_kinuko/items/84b01c7ec092335da613</id>
+        <link href="https://qiita.com/mizusawa_kinuko/items/84b01c7ec092335da613"/>
+        <updated>2025-12-21T13:42:31.000Z</updated>
+        <summary type="html"><![CDATA[この記事は
+グラフィックス全般 Advent Calendar 2025 21日目の記事です。
+Advent Calendar は久々に参加している最中のミズサワキヌコです。
+よろしくお願いします。
+※本記事は Chat GPT から得られた情報、構成案、本文を精査、リライ...]]></summary>
+        <author>
+            <name>Shaderタグが付けられた新着記事 - Qiita</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DMMブックスでBlender・Mayaなどの3D書籍が50%以上ポイント還元！過去購入者も誰でも対象]]></title>
+        <id>https://modelinghappy.com/?p=66288</id>
+        <link href="https://modelinghappy.com/archives/66288"/>
+        <updated>2025-12-21T13:11:35.000Z</updated>
+        <summary type="html"><![CDATA[DMMブックス SUPER SLAEぜーんぶ50%ポイント還元！ 2026年1月14日まで、DMMブックスで販売される全ての書籍が、初めての場合は70%ポイント還元され、過去に購入した事のある人でも、BlenderやMa
+The post DMMブックスでBlender・Mayaなどの3D書籍が50%以上ポイント還元！過去購入者も誰でも対象 first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
+        <author>
+            <name>modelinghappy</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ARCHVIZ MATERIAL SERIESP NEUTRAL WALL PACK]]></title>
         <id>https://note.com/juntominaga/n/n0044ac8797e1</id>
@@ -5467,55 +5616,6 @@ The post Udemyブラックフライデーセール開催！Blender・Maya・UE5�
         <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
         <author>
             <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[コンポジターへ送る Movie Render Queue]]></title>
-        <id>https://zenn.dev/rosa_iceberg/articles/3c8d1190683b33</id>
-        <link href="https://zenn.dev/rosa_iceberg/articles/3c8d1190683b33"/>
-        <updated>2025-11-22T10:11:23.000Z</updated>
-        <summary type="html"><![CDATA[はじめに
-今回は Unreal Engine 5（以下 UE）でレンダーパスを書き出す方法 をまとめました。
-特に「UE をレンダラーとして活用したいコンポジター向け」に書いてみました。
-少しでも参考になれば幸いです。
-
- 前提条件
-
-UE バージョン：5.5
-
-使用するプラグイン
-
-Movie Render Queue
-Movie Render Queue Additional Render Passes
-
-
-
-
-
-本記事で使用するサンプルプロジェクトはこちらです。
-https://www.fab.com/listings/3277687b-a06f-4ef7-a285-63b9...]]></summary>
-        <author>
-            <name>haruki</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[C言語とOpenGLで作るゲームエンジン開発(2Dレンダリング編 - Step3)]]></title>
-        <id>https://zenn.dev/chocolate_pie24/books/2d_rendering_step3</id>
-        <link href="https://zenn.dev/chocolate_pie24/books/2d_rendering_step3"/>
-        <updated>2025-11-22T05:10:49.000Z</updated>
-        <summary type="html"><![CDATA[本Bookでは、プラットフォーム基盤にイベントシステムを追加していきます。]]></summary>
-        <author>
-            <name>chocolate-pie24</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【アドオン紹介】Blender Mograph Toolbox – モーショングラフィック作成お助けキット！]]></title>
-        <id>https://cgbox.jp/?p=64631</id>
-        <link href="https://cgbox.jp/2025/11/22/news-addon-blender-mograph-toolbox/"/>
-        <updated>2025-11-22T03:23:33.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは！ 今回はアドオンの「Blender Mograph Toolbox」を紹介します。 こちらのリンクがアドオンの商品ページになります。 Blender Mograph Toolbox 「Blender Mogr […]]]></summary>
-        <author>
-            <name>kasahara</name>
         </author>
     </entry>
 </feed>

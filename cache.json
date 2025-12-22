@@ -405,21 +405,6 @@
             "type": "video/mp4"
           },
           "imageUrl": "https://cgbox.jp/wp-content/uploads/2025/11/image_processing20251119-2-opmsv1.jpg"
-        },
-        {
-          "id": "https://cgbox.jp/?p=64631",
-          "author": "kasahara",
-          "description": "こんばんは！ 今回はアドオンの「Blender Mograph Toolbox」を紹介します。 こちらのリンクがアドオンの商品ページになります。 Blender Mograph Toolbox 「Blender Mogr […]",
-          "link": "https://cgbox.jp/2025/11/22/news-addon-blender-mograph-toolbox/",
-          "publishedOn": "2025-11-22T03:23:33.000Z",
-          "wordCount": 2136,
-          "title": "【アドオン紹介】Blender Mograph Toolbox – モーショングラフィック作成お助けキット！",
-          "enclosure": {
-            "url": "https://cgbox.jp/wp-content/uploads/2025/11/IMG_2394_31-1.mp4",
-            "length": "0",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://cgbox.jp/wp-content/uploads/2025/11/image_processing20251117-2-ws3na1.jpg"
         }
       ]
     },
@@ -972,6 +957,26 @@
       "feedUrl": "https://cgworld.jp/atom.xml",
       "siteUrl": "https://cgworld.jp/",
       "articles": [
+        {
+          "id": "https://cgworld.jp/article/202512-cgw326-aurora.html",
+          "author": null,
+          "description": "自動運転システム「Aurora Driver」を開発する米Aurora Innovationに、Houdini＋USDと内製レンダラ「Alba」を用いたシミュレーション構築について話を聞いた。",
+          "link": "https://cgworld.jp/article/202512-cgw326-aurora.html",
+          "publishedOn": "2025-12-22T00:22:00.000Z",
+          "wordCount": 849,
+          "title": "HoudiniとUSDが支える自動運転シミュレーション。Aurora Innovationが実現するプロシージャルな環境構築術 - 特集",
+          "imageUrl": "https://cgworld.jp/article/assets_c/2025/11/main_final_vincent_siggraph_2024_swss_production.032-thumb-1000x563-76485.jpg"
+        },
+        {
+          "id": "https://cgworld.jp/flashnews/01-202512-MeshWrap.html",
+          "author": null,
+          "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
+          "link": "https://cgworld.jp/flashnews/01-202512-MeshWrap.html",
+          "publishedOn": "2025-12-21T23:55:34.000Z",
+          "wordCount": 865,
+          "title": "無料Blenderアドオン「Mesh Wrap by KIRI Engine v1.0.0」リリース！ 3Dスキャンした地形・レンガ・サーフェスなどを、ベースメッシュに対して自然にラップ - ニュース",
+          "imageUrl": "https://cgworld.jp/flashnews/assets_c/2025/12/MeshWrap-01-thumb-1920x1074-77831.jpg"
+        },
         {
           "id": "https://cgworld.jp/flashnews/01-202512-Threejs-r182.html",
           "author": null,
@@ -1885,6 +1890,16 @@
       "feedUrl": "https://modelinghappy.com/feed",
       "siteUrl": "https://modelinghappy.com",
       "articles": [
+        {
+          "id": "https://modelinghappy.com/?p=66288",
+          "author": "modelinghappy",
+          "description": "DMMブックス SUPER SLAEぜーんぶ50%ポイント還元！ 2026年1月14日まで、DMMブックスで販売される全ての書籍が、初めての場合は70%ポイント還元され、過去に購入した事のある人でも、BlenderやMa\nThe post DMMブックスでBlender・Mayaなどの3D書籍が50%以上ポイント還元！過去購入者も誰でも対象 first appeared on 3DCG最新情報サイト MODELING HAPPY.",
+          "link": "https://modelinghappy.com/archives/66288",
+          "publishedOn": "2025-12-21T13:11:35.000Z",
+          "wordCount": 3758,
+          "title": "DMMブックスでBlender・Mayaなどの3D書籍が50%以上ポイント還元！過去購入者も誰でも対象",
+          "imageUrl": "https://modelinghappy.com/wp-content/uploads/2025/12/20251221_dmm_books.jpg"
+        },
         {
           "id": "https://modelinghappy.com/?p=66279",
           "author": "modelinghappy",
@@ -2890,18 +2905,7 @@
       "title": "Zennの「graphics」のフィード",
       "feedUrl": "https://zenn.dev/topics/graphics/feed",
       "siteUrl": "https://zenn.dev/topics/graphics",
-      "articles": [
-        {
-          "id": "https://zenn.dev/chocolate_pie24/books/2d_rendering_step3",
-          "author": "chocolate-pie24",
-          "description": "本Bookでは、プラットフォーム基盤にイベントシステムを追加していきます。",
-          "link": "https://zenn.dev/chocolate_pie24/books/2d_rendering_step3",
-          "publishedOn": "2025-11-22T05:10:49.000Z",
-          "wordCount": 231,
-          "title": "C言語とOpenGLで作るゲームエンジン開発(2Dレンダリング編 - Step3)",
-          "imageUrl": "https://static.zenn.studio/images/logo-only-dark.png"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Zennの「Shader Graph」のフィード",
@@ -3101,21 +3105,6 @@
             "type": "false"
           },
           "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--bUOoRjqM--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Blender%25E3%2581%258B%25E3%2582%2589%25E3%2582%25A8%25E3%2582%25AF%25E3%2582%25B9%25E3%2583%259D%25E3%2583%25BC%25E3%2583%2588%25E3%2581%2597%25E3%2581%259FGLB%25E3%2583%25A2%25E3%2583%2587%25E3%2583%25AB%25E3%2581%25AE%25E3%2583%25A9%25E3%2582%25A4%25E3%2583%2588%25E8%25AA%25BF%25E7%25AF%2580%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:hokugo_wd%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzc3NTlkNmI1OGEuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"
-        },
-        {
-          "id": "https://zenn.dev/rosa_iceberg/articles/3c8d1190683b33",
-          "author": "haruki",
-          "description": "はじめに\n今回は Unreal Engine 5（以下 UE）でレンダーパスを書き出す方法 をまとめました。\n特に「UE をレンダラーとして活用したいコンポジター向け」に書いてみました。\n少しでも参考になれば幸いです。\n\n 前提条件\n\nUE バージョン：5.5\n\n使用するプラグイン\n\nMovie Render Queue\nMovie Render Queue Additional Render Passes\n\n\n\n\n\n本記事で使用するサンプルプロジェクトはこちらです。\nhttps://www.fab.com/listings/3277687b-a06f-4ef7-a285-63b9...",
-          "link": "https://zenn.dev/rosa_iceberg/articles/3c8d1190683b33",
-          "publishedOn": "2025-11-22T10:11:23.000Z",
-          "wordCount": 1020,
-          "title": "コンポジターへ送る Movie Render Queue",
-          "enclosure": {
-            "url": "https://res.cloudinary.com/zenn/image/upload/s--7JqArutx--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2582%25B3%25E3%2583%25B3%25E3%2583%259D%25E3%2582%25B8%25E3%2582%25BF%25E3%2583%25BC%25E3%2581%25B8%25E9%2580%2581%25E3%2582%258B%2520Movie%2520Render%2520Queue%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:haruki%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jS2ctaEV6M3dLdHdya1o5a1ZHNU1hX3Z0LVZaazY1cHl0aUNfX0RlYlh2NGxvUjQ3Zz1zOTYtYw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
-            "length": "0",
-            "type": "false"
-          },
-          "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--7JqArutx--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2582%25B3%25E3%2583%25B3%25E3%2583%259D%25E3%2582%25B8%25E3%2582%25BF%25E3%2583%25BC%25E3%2581%25B8%25E9%2580%2581%25E3%2582%258B%2520Movie%2520Render%2520Queue%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:haruki%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jS2ctaEV6M3dLdHdya1o5a1ZHNU1hX3Z0LVZaazY1cHl0aUNfX0RlYlh2NGxvUjQ3Zz1zOTYtYw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"
         }
       ]
     },
@@ -3124,6 +3113,21 @@
       "feedUrl": "https://zenn.dev/topics/maya/feed",
       "siteUrl": "https://zenn.dev/topics/maya",
       "articles": [
+        {
+          "id": "https://zenn.dev/tachikure/articles/c55ab2ae7c3638",
+          "author": "たちくれ",
+          "description": "作りたいもの\n\n\nウィンドウリサイズすると均等にスケールされる\n\n コード\nimport maya.cmds as cmds\n\nwindow = cmds.window(\n    title='タイトル ラベル', w=400, h=150,\n    sizeable=True,\n    resizeToFitChildren=True\n)\n\nlo = cmds.formLayout(numberOfDivisions=100)\napply_and_close_btn = cmds.button(l='Apply and Close', h=27)\napply_btn = cmds....",
+          "link": "https://zenn.dev/tachikure/articles/c55ab2ae7c3638",
+          "publishedOn": "2025-12-22T00:20:05.000Z",
+          "wordCount": 1257,
+          "title": "[Maya Python  UI ]リサイズ可能な下部ボタン",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--9aPLpClW--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%255BMaya%2520Python%2520%2520UI%2520%255D%25E3%2583%25AA%25E3%2582%25B5%25E3%2582%25A4%25E3%2582%25BA%25E5%258F%25AF%25E8%2583%25BD%25E3%2581%25AA%25E4%25B8%258B%25E9%2583%25A8%25E3%2583%259C%25E3%2582%25BF%25E3%2583%25B3%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%259F%25E3%2581%25A1%25E3%2581%258F%25E3%2582%258C%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzQwZjczMjE1OTcuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
+            "length": "0",
+            "type": "false"
+          },
+          "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--9aPLpClW--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%255BMaya%2520Python%2520%2520UI%2520%255D%25E3%2583%25AA%25E3%2582%25B5%25E3%2582%25A4%25E3%2582%25BA%25E5%258F%25AF%25E8%2583%25BD%25E3%2581%25AA%25E4%25B8%258B%25E9%2583%25A8%25E3%2583%259C%25E3%2582%25BF%25E3%2583%25B3%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%259F%25E3%2581%25A1%25E3%2581%258F%25E3%2582%258C%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzQwZjczMjE1OTcuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"
+        },
         {
           "id": "https://zenn.dev/tachikure/articles/41be433c89a6cb",
           "author": "たちくれ",
@@ -3212,6 +3216,16 @@
       "feedUrl": "https://qiita.com/tags/maya/feed",
       "siteUrl": "https://qiita.com",
       "articles": [
+        {
+          "id": "https://qiita.com/9boz/items/6c9576e40ed573386f3b",
+          "author": null,
+          "description": "advancedSkeletonを触って見まして、ピッカー新しくなったそうなので使ってみたいなぁと\n\nなるほどー\n編集はどうやってやるのかなぁ？\nマニュアルは・・・・・・・・・ない？\nないかぁー、とりあえずデータを見てみますか。\n\nデータ確認\nAdvancedSkele...",
+          "link": "https://qiita.com/9boz/items/6c9576e40ed573386f3b",
+          "publishedOn": "2025-12-21T16:21:14.000Z",
+          "wordCount": 814,
+          "title": "advancedSkeleton ~pickerさわってみた~",
+          "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Fadvent-calendar-ogp-background-7940cd1c8db80a7ec40711d90f43539e.jpg%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnBicy50d2ltZy5jb20lMkZwcm9maWxlX2ltYWdlcyUyRjUzNzk1NjE0OTcwNjc3MjQ4MCUyRkZCUmk0WUVPX2JpZ2dlci5wbmc_aXhsaWI9cmItNC4wLjAmYXI9MSUzQTEmZml0PWNyb3AmbWFzaz1lbGxpcHNlJmJnPUZGRkZGRiZmbT1wbmczMiZzPWExZThhMjQ1ZjJlOGI0MDFlNmZmNDdjMzM4ODNkZmEx%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3Df6a03fa17d0939a5431e8030eb57bbf7?ixlib=rb-4.0.0&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9YWR2YW5jZWRTa2VsZXRvbiUyMH5waWNrZXIlRTMlODElOTUlRTMlODIlOEYlRTMlODElQTMlRTMlODElQTYlRTMlODElQkYlRTMlODElOUZ-JnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMzQTNDM0MmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9Y2FiNmY0MjJiOTVkZGMwNGIwYzU3MDBlMWU1NjI5YjA&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDA5Ym96JnR4dC1jb2xvcj0lMjMzQTNDM0MmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9MzZlY2M2NjU5OWE5M2Y5Mzg2MGExZGZlZjkxZDllY2U&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=302924c74a35c411c0712a86d9ca4b63"
+        },
         {
           "id": "https://qiita.com/9boz/items/563e9811687cb65b85c4",
           "author": null,
@@ -3600,6 +3614,36 @@
       "siteUrl": "https://qiita.com",
       "articles": [
         {
+          "id": "https://qiita.com/satoshi7190/items/8fc2b274174e8575117f",
+          "author": null,
+          "description": "これは MIERUNE Advent Calendar 2025 の22日目の記事です。\n昨日は @bordorayさんによる 猿でもわかる座標系 でした。\n\nDEMOはこちら\n\nはじめに\nストリートビューのような機能を実現したい、という話が出たとき、真っ先に...",
+          "link": "https://qiita.com/satoshi7190/items/8fc2b274174e8575117f",
+          "publishedOn": "2025-12-21T23:32:52.000Z",
+          "wordCount": 6562,
+          "title": "Googleに頼らずにストリートビューを自作した話",
+          "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Fadvent-calendar-ogp-background-7940cd1c8db80a7ec40711d90f43539e.jpg%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnFpaXRhLWltYWdlLXN0b3JlLnMzLmFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkYwJTJGMTU3NTc2NSUyRnByb2ZpbGUtaW1hZ2VzJTJGMTc2MTQzMjg4Nz9peGxpYj1yYi00LjAuMCZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9YjJlNDM0ZTJjZjEzM2M5ZWEwMjgwYTkzNTc5MmU4ZTE%26blend-x%3D120%26blend-y%3D462%26blend-w%3D90%26blend-h%3D90%26blend-mode%3Dnormal%26mark64%3DaHR0cHM6Ly9xaWl0YS1vcmdhbml6YXRpb24taW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1vcmdhbml6YXRpb24taW1hZ2UlMkY4N2JkYTVlOGYyYTJjY2Q1ZDYwOGRmNGQyYzg2ODFmYTNiMTE3MjIzJTJGb3JpZ2luYWwuanBnJTNGMTY2ODQwODI5OD9peGxpYj1yYi00LjAuMCZ3PTQ0Jmg9NDQmZml0PWNyb3AmbWFzaz1jb3JuZXJzJmNvcm5lci1yYWRpdXM9OCZiZz1GRkZGRkYmYm9yZGVyPTIlMkNGRkZGRkYmZm09cG5nMzImcz1mZDNmYjY1ZGExODkzZDk4OTIyNTgyNjRjMjI3NTNhYw%26mark-x%3D186%26mark-y%3D515%26mark-w%3D40%26mark-h%3D40%26s%3D1b188245befa7fc3a9a62499063713e7?ixlib=rb-4.0.0&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9R29vZ2xlJUUzJTgxJUFCJUU5JUEwJUJDJUUzJTgyJTg5JUUzJTgxJTlBJUUzJTgxJUFCJUUzJTgyJUI5JUUzJTgzJTg4JUUzJTgzJUFBJUUzJTgzJUJDJUUzJTgzJTg4JUUzJTgzJTkzJUUzJTgzJUE1JUUzJTgzJUJDJUUzJTgyJTkyJUU4JTg3JUFBJUU0JUJEJTlDJUUzJTgxJTk3JUUzJTgxJTlGJUU4JUE5JUIxJnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMzQTNDM0MmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9OTA2MDMyYTI0NGU3MWQyOTRmOTJkMzE1NTk4OTE3OWY&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBzYXRvc2hpNzE5MCZ0eHQtY29sb3I9JTIzM0EzQzNDJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPTNiNDY5MzlhMDEwZTIzYzdiM2NjODUwODM3YTk5NmU1&blend-x=242&blend-y=454&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&txt64=TUlFUlVORQ&txt-x=242&txt-y=539&txt-width=838&txt-clip=end%2Cellipsis&txt-color=%233A3C3C&txt-font=Hiragino%20Sans%20W6&txt-size=28&s=34bed756d5000967f38f3d2c33dcdfc0"
+        },
+        {
+          "id": "https://qiita.com/takemode/items/092f8d28eccaa59456ba",
+          "author": null,
+          "description": "はじめに\nこんにちは。ゲーム会社新卒2年目のクライアントエンジニアです。\n技術記事を投稿してみるのは今回が初になります。\nこの記事はKLab Engineer Advent Calendar 2025の22日目の記事です。\n\nMatCapとは？\nMatCapは光源計算を行...",
+          "link": "https://qiita.com/takemode/items/092f8d28eccaa59456ba",
+          "publishedOn": "2025-12-21T22:11:10.000Z",
+          "wordCount": 1663,
+          "title": "ステップアップさせていくMatCap実装",
+          "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Fadvent-calendar-ogp-background-7940cd1c8db80a7ec40711d90f43539e.jpg%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnNlY3VyZS5ncmF2YXRhci5jb20lMkZhdmF0YXIlMkZlMDQzNTI4ODJiN2ZmNGE5N2VkZDBjNWUxODg1NmQ3Yj9peGxpYj1yYi00LjAuMCZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9ODQyYTMxNmM1MmI0ODA3ZTMxYTZmZjlkZDc1MmI5MDk%26blend-x%3D120%26blend-y%3D462%26blend-w%3D90%26blend-h%3D90%26blend-mode%3Dnormal%26mark64%3DaHR0cHM6Ly9xaWl0YS1vcmdhbml6YXRpb24taW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1vcmdhbml6YXRpb24taW1hZ2UlMkYzODExOGI3NzYzYTNlYjE2YTExYjVhY2QwZjlkNzI0NTdkOWJlZDNjJTJGb3JpZ2luYWwuanBnJTNGMTYwODY0MDUxOT9peGxpYj1yYi00LjAuMCZ3PTQ0Jmg9NDQmZml0PWNyb3AmbWFzaz1jb3JuZXJzJmNvcm5lci1yYWRpdXM9OCZiZz1GRkZGRkYmYm9yZGVyPTIlMkNGRkZGRkYmZm09cG5nMzImcz01OWQ2MTQ5NWI5MzEzYmFkNzc4ZDM1M2RjMjkwMjJkMA%26mark-x%3D186%26mark-y%3D515%26mark-w%3D40%26mark-h%3D40%26s%3D58addb60edf246f480b97bace72a3c6b?ixlib=rb-4.0.0&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9JUUzJTgyJUI5JUUzJTgzJTg2JUUzJTgzJTgzJUUzJTgzJTk3JUUzJTgyJUEyJUUzJTgzJTgzJUUzJTgzJTk3JUUzJTgxJTk1JUUzJTgxJTlCJUUzJTgxJUE2JUUzJTgxJTg0JUUzJTgxJThGTWF0Q2FwJUU1JUFFJTlGJUU4JUEzJTg1JnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMzQTNDM0MmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9YWZjZGI2YTczZGVkYTVjMDNkYzliMTg3ZTI3ZjY0YmY&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDB0YWtlbW9kZSZ0eHQtY29sb3I9JTIzM0EzQzNDJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPTQxNGMzN2U1NWQ0ODViMTQ1MDUxZWU3MWFhY2U2NjNh&blend-x=242&blend-y=454&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&txt64=S0xhYiDmoKrlvI_kvJrnpL4&txt-x=242&txt-y=539&txt-width=838&txt-clip=end%2Cellipsis&txt-color=%233A3C3C&txt-font=Hiragino%20Sans%20W6&txt-size=28&s=96f6f0e39a9ffc71501965b14a36fd2c"
+        },
+        {
+          "id": "https://qiita.com/mizusawa_kinuko/items/84b01c7ec092335da613",
+          "author": null,
+          "description": "この記事は\nグラフィックス全般 Advent Calendar 2025 21日目の記事です。\nAdvent Calendar は久々に参加している最中のミズサワキヌコです。\nよろしくお願いします。\n※本記事は Chat GPT から得られた情報、構成案、本文を精査、リライ...",
+          "link": "https://qiita.com/mizusawa_kinuko/items/84b01c7ec092335da613",
+          "publishedOn": "2025-12-21T13:42:31.000Z",
+          "wordCount": 5580,
+          "title": "UnityのURPで徐々に実体化するホログラムシェーダーを作ってみる",
+          "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Fadvent-calendar-ogp-background-7940cd1c8db80a7ec40711d90f43539e.jpg%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYyMTU3NDAlMkY2ZDYwNDgxZjE0MjNjMTZhZGQyMDExMzFjODQwZDkxNWJmMjM0ZmYzJTJGeF9sYXJnZS5wbmclM0YxNzY0NTk3ODU0P2l4bGliPXJiLTQuMC4wJmFyPTElM0ExJmZpdD1jcm9wJm1hc2s9ZWxsaXBzZSZiZz1GRkZGRkYmZm09cG5nMzImcz1iMDgzMDc0NWIzMTBiYWU3ZTM3MzZiYTBiOWVmNWRmMw%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D047aa7cfbf7a2ae4ee6920a1a5eac60a?ixlib=rb-4.0.0&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9VW5pdHklRTMlODElQUVVUlAlRTMlODElQTclRTUlQkUlOTAlRTMlODAlODUlRTMlODElQUIlRTUlQUUlOUYlRTQlQkQlOTMlRTUlOEMlOTYlRTMlODElOTklRTMlODIlOEIlRTMlODMlOUIlRTMlODMlQUQlRTMlODIlQjAlRTMlODMlQTklRTMlODMlQTAlRTMlODIlQjclRTMlODIlQTclRTMlODMlQkMlRTMlODMlODAlRTMlODMlQkMlRTMlODIlOTIlRTQlQkQlOUMlRTMlODElQTMlRTMlODElQTYlRTMlODElQkYlRTMlODIlOEImdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzNBM0MzQyZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz1mOTc3NjQwOGRhZWVkZGZjZmFlNDRiZWE5ODQwMmExOQ&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBtaXp1c2F3YV9raW51a28mdHh0LWNvbG9yPSUyMzNBM0MzQyZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz01YWQyNjAwYzMwMTVlNjNkYzYzODNmYThhYTk2ZGZkNw&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=ba7f90cd883448d79936b735b92bed4c"
+        },
+        {
           "id": "https://qiita.com/Rom_zai/items/94434b7687a4df8c1469",
           "author": null,
           "description": "本記事は サムザップ Advent Calendar 2025 の20日目の記事です。\n\nはじめに\nUnity の Universal Render Pipeline (URP) で Renderer Features を管理する際、標準の Inspector には以下のよ...",
@@ -3867,6 +3911,16 @@
       "feedUrl": "https://qiita.com/tags/glsl/feed",
       "siteUrl": "https://qiita.com",
       "articles": [
+        {
+          "id": "https://qiita.com/satoshi7190/items/8fc2b274174e8575117f",
+          "author": null,
+          "description": "これは MIERUNE Advent Calendar 2025 の22日目の記事です。\n昨日は @bordorayさんによる 猿でもわかる座標系 でした。\n\nDEMOはこちら\n\nはじめに\nストリートビューのような機能を実現したい、という話が出たとき、真っ先に...",
+          "link": "https://qiita.com/satoshi7190/items/8fc2b274174e8575117f",
+          "publishedOn": "2025-12-21T23:32:52.000Z",
+          "wordCount": 6562,
+          "title": "Googleに頼らずにストリートビューを自作した話",
+          "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Fadvent-calendar-ogp-background-7940cd1c8db80a7ec40711d90f43539e.jpg%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnFpaXRhLWltYWdlLXN0b3JlLnMzLmFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkYwJTJGMTU3NTc2NSUyRnByb2ZpbGUtaW1hZ2VzJTJGMTc2MTQzMjg4Nz9peGxpYj1yYi00LjAuMCZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9YjJlNDM0ZTJjZjEzM2M5ZWEwMjgwYTkzNTc5MmU4ZTE%26blend-x%3D120%26blend-y%3D462%26blend-w%3D90%26blend-h%3D90%26blend-mode%3Dnormal%26mark64%3DaHR0cHM6Ly9xaWl0YS1vcmdhbml6YXRpb24taW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1vcmdhbml6YXRpb24taW1hZ2UlMkY4N2JkYTVlOGYyYTJjY2Q1ZDYwOGRmNGQyYzg2ODFmYTNiMTE3MjIzJTJGb3JpZ2luYWwuanBnJTNGMTY2ODQwODI5OD9peGxpYj1yYi00LjAuMCZ3PTQ0Jmg9NDQmZml0PWNyb3AmbWFzaz1jb3JuZXJzJmNvcm5lci1yYWRpdXM9OCZiZz1GRkZGRkYmYm9yZGVyPTIlMkNGRkZGRkYmZm09cG5nMzImcz1mZDNmYjY1ZGExODkzZDk4OTIyNTgyNjRjMjI3NTNhYw%26mark-x%3D186%26mark-y%3D515%26mark-w%3D40%26mark-h%3D40%26s%3D1b188245befa7fc3a9a62499063713e7?ixlib=rb-4.0.0&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9R29vZ2xlJUUzJTgxJUFCJUU5JUEwJUJDJUUzJTgyJTg5JUUzJTgxJTlBJUUzJTgxJUFCJUUzJTgyJUI5JUUzJTgzJTg4JUUzJTgzJUFBJUUzJTgzJUJDJUUzJTgzJTg4JUUzJTgzJTkzJUUzJTgzJUE1JUUzJTgzJUJDJUUzJTgyJTkyJUU4JTg3JUFBJUU0JUJEJTlDJUUzJTgxJTk3JUUzJTgxJTlGJUU4JUE5JUIxJnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMzQTNDM0MmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9OTA2MDMyYTI0NGU3MWQyOTRmOTJkMzE1NTk4OTE3OWY&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBzYXRvc2hpNzE5MCZ0eHQtY29sb3I9JTIzM0EzQzNDJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPTNiNDY5MzlhMDEwZTIzYzdiM2NjODUwODM3YTk5NmU1&blend-x=242&blend-y=454&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&txt64=TUlFUlVORQ&txt-x=242&txt-y=539&txt-width=838&txt-clip=end%2Cellipsis&txt-color=%233A3C3C&txt-font=Hiragino%20Sans%20W6&txt-size=28&s=34bed756d5000967f38f3d2c33dcdfc0"
+        },
         {
           "id": "https://qiita.com/hisaakinagase/items/7a0e9ef11b7652b65215",
           "author": null,
@@ -4197,6 +4251,16 @@
       "feedUrl": "https://note.com/hashtag/Houdini/rss",
       "siteUrl": "https://note.com/hashtag/Houdini",
       "articles": [
+        {
+          "id": "https://note.com/nightskymap/n/n522726579f91",
+          "author": null,
+          "description": "※この記事は、Houdini Apprentice Advent Calendar 2025　の22日目の記事になります。\n成果物\n続きをみる",
+          "link": "https://note.com/nightskymap/n/n522726579f91",
+          "publishedOn": "2025-12-21T15:05:37.000Z",
+          "wordCount": 4967,
+          "title": "Houdini初心者がApex auto rig builderを使ってセットアップしてみたお話",
+          "imageUrl": "https://assets.st-note.com/production/uploads/images/237869707/rectangle_large_type_2_a6e8fb0f41e287ba6c6b1879ded691f7.png?width=800"
+        },
         {
           "id": "https://note.com/fuji_houdini/n/n834917bdd5df",
           "author": null,

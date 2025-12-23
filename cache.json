@@ -1003,6 +1003,16 @@
       "siteUrl": "https://cgworld.jp/",
       "articles": [
         {
+          "id": "https://cgworld.jp/article/202511-cgbu-nextstars.html",
+          "author": null,
+          "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
+          "link": "https://cgworld.jp/article/202511-cgbu-nextstars.html",
+          "publishedOn": "2025-12-23T02:50:04.000Z",
+          "wordCount": 938,
+          "title": "CG部ネクストスターズ　結果発表！　入賞作品&審査員講評コメント一挙公開 - 特集",
+          "imageUrl": "https://cgworld.jp/article/assets_c/2025/12/55cb777618db3d7665ccc4b84bdd2097815cd1eb-thumb-768x432-76854.png"
+        },
+        {
           "id": "https://cgworld.jp/article/202512-cgw327-td.html",
           "author": null,
           "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
@@ -3867,16 +3877,6 @@
           "wordCount": 4265,
           "title": "three.jsでサイリウムをInstancedMeshで表示してShaderで振る",
           "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnFpaXRhLWltYWdlLXN0b3JlLnMzLmFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkYwJTJGMjE0MzEzJTJGcHJvZmlsZS1pbWFnZXMlMkYxNjkwMDk0MTM1P2l4bGliPXJiLTQuMC4wJmFyPTElM0ExJmZpdD1jcm9wJm1hc2s9ZWxsaXBzZSZiZz1GRkZGRkYmZm09cG5nMzImcz0wNjM4ZDYyNjM1MTYzZDBhOTJkNTM0ZmJmNWQxM2VhYw%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3Ddd6681eef4598bc1ac4a47d618becc3f?ixlib=rb-4.0.0&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9dGhyZWUuanMlRTMlODElQTclRTMlODIlQjUlRTMlODIlQTQlRTMlODMlQUElRTMlODIlQTYlRTMlODMlQTAlRTMlODIlOTJJbnN0YW5jZWRNZXNoJUUzJTgxJUE3JUU4JUExJUE4JUU3JUE0JUJBJUUzJTgxJTk3JUUzJTgxJUE2U2hhZGVyJUUzJTgxJUE3JUU2JThDJUFGJUUzJTgyJThCJnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9YTZlNGFkMWQyNTE5N2Q3ZDQ1OWUwYmVhMzJmMjlmNzU&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBmdXppa2kmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz1mODM5OTc4MDQ1MGRhMzg2MzZmN2NlZWM1NjQxZTI1MA&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=670f2c74ec4dc2f8debbb5fb1d642c1d"
-        },
-        {
-          "id": "https://qiita.com/tsukino_/items/3bca0e3c3ae87ea06f0b",
-          "author": null,
-          "description": "前回はDirextXの初期化と画面のクリア方法を紹介しました。\n\n今回はようやく、HLSLというシェーダー言語を使用して、三角形を描画してみたいと思います。\n\n前提知識\n\nC++の基礎構文を理解している\n\nDirectXの初期化を行える\n\nコード例\n\n三角形を描画す...",
-          "link": "https://qiita.com/tsukino_/items/3bca0e3c3ae87ea06f0b",
-          "publishedOn": "2025-11-23T14:06:07.000Z",
-          "wordCount": 9756,
-          "title": "【DirectX11】三角形を描いてみよう!",
-          "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYzOTQzMTQ4JTJGZGJhOTI4MmI5OWFlNGQ4NmFjYjI4MDk1NGVhNGFjYzI2ZGYyODM0ZSUyRmxhcmdlLnBuZyUzRjE3NTAxNDEwMzM_aXhsaWI9cmItNC4wLjAmYXI9MSUzQTEmZml0PWNyb3AmbWFzaz1lbGxpcHNlJmJnPUZGRkZGRiZmbT1wbmczMiZzPTQ1M2E1NzFkNDM5NTVkNmIxNzAzY2YyYjkyNzhiZDhh%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3Dc8735c3a4f967a68e5aaca8ce71d2d6c?ixlib=rb-4.0.0&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9JUUzJTgwJTkwRGlyZWN0WDExJUUzJTgwJTkxJUU0JUI4JTg5JUU4JUE3JTkyJUU1JUJEJUEyJUUzJTgyJTkyJUU2JThGJThGJUUzJTgxJTg0JUUzJTgxJUE2JUUzJTgxJUJGJUUzJTgyJTg4JUUzJTgxJTg2JTIxJnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9NGU3NzRkZjc4MWE4ZTU2MGZkNzU3OGJlODE1ZjRhMmI&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDB0c3VraW5vXyZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPWQ2NTBhYWVjYzRmZjFlYWYzNzI5ODdmN2JlZDBlZDQ1&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=c9ba61c884810896c1a99bddf61ebcd3"
         }
       ]
     },
@@ -4222,6 +4222,16 @@
       "feedUrl": "https://area.autodesk.jp/rss.xml",
       "siteUrl": "https://area.autodesk.jp/",
       "articles": [
+        {
+          "id": "https://area.autodesk.jp/information/capcom-games-competition-results/",
+          "author": null,
+          "description": "オートデスクが協賛参加したRE ENGINEを使用した学生向けゲーム制作コンペティション『CAPCOM GAMES COMPETITION』ですが、先日授賞式があり最終結果が発表されました！・・・",
+          "link": "https://area.autodesk.jp/information/capcom-games-competition-results/",
+          "publishedOn": "2025-12-23T01:00:00.000Z",
+          "wordCount": 220,
+          "title": "CAPCOM GAMES COMPETITION 結果発表",
+          "imageUrl": "https://area.autodesk.jp/information/assets_c/2025/12/ic_capcom_games_competition-thumb-1200xauto-5781.png"
+        },
         {
           "id": "https://area.autodesk.jp/information/lowpoly-book/",
           "author": null,

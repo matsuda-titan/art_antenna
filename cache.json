@@ -12,6 +12,21 @@
       "siteUrl": "https://cgbox.jp",
       "articles": [
         {
+          "id": "https://cgbox.jp/?p=64904",
+          "author": "kasahara",
+          "description": "こんばんは！ 今回はアドオンの「Splashsurf Studio」を紹介します。 こちらのリンクがアドオンの商品ページになります。 Splashsurf Studio 「Splashsurf Studio」は、流体シミ […]",
+          "link": "https://cgbox.jp/2025/12/24/news-addon-splashsurf-studio/",
+          "publishedOn": "2025-12-24T02:47:26.000Z",
+          "wordCount": 2469,
+          "title": "【無料アドオン】Splashsurf Studio -流体シミュレーション粒子からオブジェクト化！",
+          "enclosure": {
+            "url": "https://cgbox.jp/wp-content/uploads/2025/12/2831ba0af942cf414df3c8bcf200da70-1.mp4",
+            "length": "0",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://cgbox.jp/wp-content/uploads/2025/12/b47cc4d9981c1d204be904fd2f29f6fa6d3c541e9311e85c4f2febaad15685d1_640x360.webp"
+        },
+        {
           "id": "https://cgbox.jp/?p=64899",
           "author": "kasahara",
           "description": "こんばんは！ 今回はアドオンの「Global Copy Nodes」を紹介します。 こちらのリンクがアドオンの商品ページになります。 Global Copy Nodes 「Global Copy Nodes」は、Blen […]",
@@ -425,6 +440,21 @@
       "feedUrl": "https://3dnchu.com/feed/",
       "siteUrl": "https://3dnchu.com",
       "articles": [
+        {
+          "id": "https://3dnchu.com/?p=1060932",
+          "author": "Ymt3D -3dnchu-",
+          "description": "テンセントゲームズは 12月15日から18日まで香港で開催されたSIGGRAPH Asiaにて、次世代AIアニメーション制作システム「VISVISE」を基盤とした、エンドツーエンドの3Dキャラクターアニメーションパイプラインを発表しました！",
+          "link": "https://3dnchu.com/archives/visvise-siggraph-asia-25/",
+          "publishedOn": "2025-12-24T02:09:51.000Z",
+          "wordCount": 8787,
+          "title": "VISVISE - テンセントゲームズが業界初となるAI搭載のエンドツーエンド3Dキャラクターアニメーションパイプラインを発表！",
+          "enclosure": {
+            "url": "https://3dnchu.com/wp-content/uploads/visvise-siggraph-asia-25.webp",
+            "length": "1233816",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://3dnchu.com/wp-content/uploads/visvise-siggraph-asia-25.webp"
+        },
         {
           "id": "https://3dnchu.com/?p=1060896",
           "author": "Ymt3D -3dnchu-",
@@ -964,51 +994,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "https://3dnchu.com/wp-content/uploads/lumitex-towards-high-fidelity-pb.jpg"
-        },
-        {
-          "id": "https://3dnchu.com/?p=1060229",
-          "author": "Ymt3D -3dnchu-",
-          "description": "Mad Processor（Vlad Erium氏）によるメッシュの穴埋めを行うオープンソースのコマンドラインインターフェース＆Blenderアドオン「Mesh Repair」がGithub上で公開されています！",
-          "link": "https://3dnchu.com/archives/mesh-repair-mad-processor/",
-          "publishedOn": "2025-11-24T14:13:22.000Z",
-          "wordCount": 8943,
-          "title": "Mesh Repair - スキャンメッシュの修復に最適！メッシュの穴埋めを行うオープンソースのコマンドラインインターフェース＆Blenderアドオン！",
-          "enclosure": {
-            "url": "https://3dnchu.com/wp-content/uploads/Mesh-Repair-cliengine-Blender-addon-Patreon.gif",
-            "length": "1208116",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://3dnchu.com/wp-content/uploads/Mesh-Repair-cliengine-Blender-addon-Patreon.gif"
-        },
-        {
-          "id": "https://3dnchu.com/?p=1060217",
-          "author": "Ymt3D -3dnchu-",
-          "description": "VoxelKei氏が3D Gaussian Splatting（PLY）データをVRChatなどで活用できるように取り扱うUnityエディタ拡張ツール「Spatialograph Maker」のベータ版をBOOTH上で無料公開しました！",
-          "link": "https://3dnchu.com/archives/spatialograph-maker-beta/",
-          "publishedOn": "2025-11-24T13:46:16.000Z",
-          "wordCount": 8966,
-          "title": "Spatialograph Maker Beta - 3D Gaussian Splatting（PLY）データをVRChatなどで活用できるように取り扱うUnityエディタ拡張ツール！BOOTH上でリリース！無料！",
-          "enclosure": {
-            "url": "https://3dnchu.com/wp-content/uploads/spatialograph-maker-beta.webp",
-            "length": "1106398",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://3dnchu.com/wp-content/uploads/spatialograph-maker-beta.webp"
-        },
-        {
-          "id": "https://3dnchu.com/?p=1060205",
-          "author": "Ymt3D -3dnchu-",
-          "description": "Terraform Studiosのシニア環境アーティストEde László氏によるBlender＆Cinema 4D＆Octaneを使用したチュートリアルコース「Create Cinematic Environments Using Blender and Cinema 4D」がCG＆デジタルアート関連チュートリアルサービス-Wingfoxにて取り扱い開始！",
-          "link": "https://3dnchu.com/archives/cinematic-env-wingfox-edelaszlo/",
-          "publishedOn": "2025-11-24T13:30:12.000Z",
-          "wordCount": 8929,
-          "title": "【PR】Create Cinematic Environments Using Blender and Cinema 4D - BlenderとCinema4D＆Octaneを使用したシネマティックな背景制作解説コース！Wingfoxにて取り扱い開始！",
-          "enclosure": {
-            "url": "https://3dnchu.com/wp-content/uploads/Create-Cinematic-Environments-Using-Blender-and-Cinema-4D.jpg",
-            "length": "124162",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://3dnchu.com/wp-content/uploads/Create-Cinematic-Environments-Using-Blender-and-Cinema-4D.jpg"
         }
       ]
     },
@@ -1017,6 +1002,16 @@
       "feedUrl": "https://cgworld.jp/atom.xml",
       "siteUrl": "https://cgworld.jp/",
       "articles": [
+        {
+          "id": "https://cgworld.jp/article/202512-cgw327-tdbasic.html",
+          "author": null,
+          "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
+          "link": "https://cgworld.jp/article/202512-cgw327-tdbasic.html",
+          "publishedOn": "2025-12-24T01:36:00.000Z",
+          "wordCount": 881,
+          "title": "セットアップから簡単な制作まで。TouchDesignerの基本を知ろう - 特集",
+          "imageUrl": "https://cgworld.jp/article/assets_c/2025/12/05-15_11-100-thumb-964x695-77210.jpg"
+        },
         {
           "id": "https://cgworld.jp/flashnews/01-202512-GlobalBuildingAtlas.html",
           "author": null,
@@ -1973,16 +1968,6 @@
           "wordCount": 3042,
           "title": "【Maya】品質を保証するチェックツール",
           "imageUrl": "https://3d.crdg.jp/tech/wp-content/uploads/2025/11/checkTool.png"
-        },
-        {
-          "id": "https://3d.crdg.jp/tech/?p=6391",
-          "author": "nakabayashi nobukazu",
-          "description": "戦国時代で最も早い建造物は豊臣秀吉の墨俣の一夜城。その速さの秘訣は、「上流でしっかりと印の規則を決めて素材を作り、下流でそのに印に従って短時間で組み上 […]\n続きを読む\n投稿 【命名規則】いつ決める、誰が決める は TECH-COYOTE｜C&R Creative Studios に最初に表示されました。",
-          "link": "https://3d.crdg.jp/tech/archives/6391",
-          "publishedOn": "2025-11-24T15:00:50.000Z",
-          "wordCount": 3204,
-          "title": "【命名規則】いつ決める、誰が決める",
-          "imageUrl": "https://3d.crdg.jp/tech/wp-content/uploads/2025/10/nameRuleアイキャッチ.png"
         }
       ]
     },
@@ -2497,6 +2482,26 @@
       "feedUrl": "https://3dtotal.jp/feed/",
       "siteUrl": "https://3dtotal.jp",
       "articles": [
+        {
+          "id": "https://3dtotal.jp/?p=54195",
+          "author": "3dtotal管理人T",
+          "description": "★Klaus Encounters — Rodeo FX 2025 animated holiday short（1分20秒） Rodeo FX のショートアニメで、ホリデーの伝統が続きます! 今年はサンタが異世界の存在 […]\nThe post サンタの未知との遭遇!? ホリデーショート『Klaus Encounters』 first appeared on 3dtotal 日本語オフィシャルサイト.",
+          "link": "https://3dtotal.jp/news/54195/",
+          "publishedOn": "2025-12-24T01:50:28.000Z",
+          "wordCount": 533,
+          "title": "サンタの未知との遭遇!? ホリデーショート『Klaus Encounters』",
+          "imageUrl": "https://3dtotal.jp/wp-content/uploads/2025/12/klausEncounters_rodeo.jpg"
+        },
+        {
+          "id": "https://3dtotal.jp/?p=54192",
+          "author": "3dtotal管理人T",
+          "description": "★Building the World | That Christmas | DNEG Animation（2分11秒） 『あの年のクリスマス』のアニメーションの魔法を 詳しく見てみましょう! このメイキング映像では、D […]\nThe post 素晴らしく幻想的な世界。DNEG より『あの年のクリスマス』のメイキング映像 first appeared on 3dtotal 日本語オフィシャルサイト.",
+          "link": "https://3dtotal.jp/news/54192/",
+          "publishedOn": "2025-12-24T01:48:08.000Z",
+          "wordCount": 523,
+          "title": "素晴らしく幻想的な世界。DNEG より『あの年のクリスマス』のメイキング映像",
+          "imageUrl": "https://3dtotal.jp/wp-content/uploads/2025/12/thatchristmas_making.jpg"
+        },
         {
           "id": "https://3dtotal.jp/?p=54179",
           "author": "3dtotal管理人T",
@@ -4237,6 +4242,16 @@
       "feedUrl": "https://area.autodesk.jp/rss.xml",
       "siteUrl": "https://area.autodesk.jp/",
       "articles": [
+        {
+          "id": "https://area.autodesk.jp/column/trend_tech/digital-contents-future/16-hanawa-mei/",
+          "author": null,
+          "description": "CGと縁の深い方々にお話をうかがい、デジタルコンテンツの未来を見通していく記事をお届けする本連載。今回は連載開始以来初めての女性制作者である塙芽衣氏に登場していただいた。『国宝』や『キングダム』シリーズなど、日本の映画業界で大活躍するSpade&Co.でVFXプロデューサーを務める塙氏。VFX業界における女性の働き方のモデルケースのひとつであるだけでなく、外からはなかなか伺い知れないVFXプロデューサーの仕事の内容やSpade&Co.の哲学まで自身のキャリアと重ねて多方面からお話いただいた。・・・",
+          "link": "https://area.autodesk.jp/column/trend_tech/digital-contents-future/16-hanawa-mei/",
+          "publishedOn": "2025-12-24T01:00:00.000Z",
+          "wordCount": 551,
+          "title": "デジタルコンテンツの未来〜温故知新〜 第16回：塙 芽衣（Spade&Co. VFXプロデューサー）",
+          "imageUrl": "https://area.autodesk.jp/column/assets_c/2025/12/ic_digital_contents_16_1400x782-thumb-1200xauto-5782.jpg"
+        },
         {
           "id": "https://area.autodesk.jp/information/capcom-games-competition-results/",
           "author": null,

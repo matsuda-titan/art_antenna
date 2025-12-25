@@ -2,10 +2,48 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-12-25T08:16:30.019Z</updated>
+    <updated>2025-12-25T12:22:34.275Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[texel と pixel の違い]]></title>
+        <id>https://qiita.com/ysmreg1/items/99e60654b36131828aa9</id>
+        <link href="https://qiita.com/ysmreg1/items/99e60654b36131828aa9"/>
+        <updated>2025-12-25T11:45:54.000Z</updated>
+        <summary type="html"><![CDATA[はじめに
+グラフィックスや 3D、ゲーム開発の文脈で
+・pixel（ピクセル）
+・texel（テクセル）
+という言葉が出てきます。
+どちらも「小さな点」を意味しているように見えますが、
+指しているものはまったく違います。
+この記事では
+・pixel と texel の定義...]]></summary>
+        <author>
+            <name>グラフィックスタグが付けられた新着記事 - Qiita</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Blenderのノード構成を公開！藤田将が一人で制作したSFアニメーション作品『MARIONETTE』がついに完成。「HP Z2 Tower G1i Workstation」の検証も - スペシャルコンテンツ]]></title>
+        <id>https://cgworld.jp/special-feature/2512-hp-marionette.html</id>
+        <link href="https://cgworld.jp/special-feature/2512-hp-marionette.html"/>
+        <updated>2025-12-25T08:39:40.000Z</updated>
+        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[クリエイティブユニットNIOが語る、高速試行錯誤の3DCG制作とDAIV活用術～CGWCC2025（1） - スペシャルコンテンツ]]></title>
+        <id>https://cgworld.jp/special-feature/2512-nio-cgwcc2025.html</id>
+        <link href="https://cgworld.jp/special-feature/2512-nio-cgwcc2025.html"/>
+        <updated>2025-12-25T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[独自の質感と鮮烈な色彩感覚で注目を集めるクリエイティブユニット・NIO。彼らの制作スタイルは、企画段階から3DCGを駆使して「初動で圧倒する」というアグレッシブなものだ。  11月23日（日）に文京学院大学本郷キャンパスで開催された「CGWORLD 2025 CREATIVE CONFERENCE」に登壇した彼らは、Vaundy『replica』MVなどのメイキングを通じ、思考回数を最大化するための独自ワークフローを公開。さらに、その高速な試行錯誤を支えるマウスコンピューター「DAIV FX-I7G80」]]></summary>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[生成AIを使ってアプリに使用出来る家具の3Dモデルを作成する]]></title>
         <id>https://qiita.com/KouuAo/items/00847af05f8745438be8</id>
@@ -392,6 +430,16 @@ The post 素晴らしく幻想的な世界。DNEG より『あの年のクリス
         <id>https://cgworld.jp/article/202512-cgw327-tdbasic.html</id>
         <link href="https://cgworld.jp/article/202512-cgw327-tdbasic.html"/>
         <updated>2025-12-24T01:36:00.000Z</updated>
+        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【早期割引は1/9(金)まで】Houdiniアーティスト向け新オンラインスキルアップイベント『Houdini Maze』 - 特集]]></title>
+        <id>https://cgworld.jp/article/19houdinihoudini-maze.html</id>
+        <link href="https://cgworld.jp/article/19houdinihoudini-maze.html"/>
+        <updated>2025-12-24T01:20:00.000Z</updated>
         <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
         <author>
             <name>CGWORLD</name>
@@ -5960,38 +6008,6 @@ The post 制限時間内に配達!? 未来型フードデリバリー。ショ�
         <updated>2025-11-26T00:27:38.000Z</updated>
         <summary type="html"><![CDATA[Blender Guruさんが新しいBlender5.0対応版のドーナッツチュートリアル動画をyoutubeで公開しました。 これからBlenderを始めたい人向けの超初心者動画で、Blender5.0のインストール、ナ
 The post Blender5.0を使ってドーナッツを１から作るBlender超初心者向けチュートリアル動画が公開 first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
-        <author>
-            <name>modelinghappy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[キャラクターアーティストのTom StudioさんがBlender初心者向けの書籍「ゼロからスタート! Blender 1冊目の教科書」を発売します]]></title>
-        <id>https://modelinghappy.com/?p=65726</id>
-        <link href="https://modelinghappy.com/archives/65726"/>
-        <updated>2025-11-26T00:03:30.000Z</updated>
-        <summary type="html"><![CDATA[ゼロからスタート! Blender 1冊目の教科書 Blenderで可愛いキャラクターを作る事で有名な、キャラクターアーティストのTom Studioさんが2026年1月16日に「ゼロからスタート! Blender 1冊
-The post キャラクターアーティストのTom StudioさんがBlender初心者向けの書籍「ゼロからスタート! Blender 1冊目の教科書」を発売します first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
-        <author>
-            <name>modelinghappy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[オープンソースの3DGSエディタ「SuperSplat Editor 2.14.0」リリース！ 指定のタイムライン範囲内をMP4・MOV・MKV・WebM形式で動画レンダリング、コーデックの選択にも対応 - ニュース]]></title>
-        <id>https://cgworld.jp/flashnews/01-202511-SuperSplat214.html</id>
-        <link href="https://cgworld.jp/flashnews/01-202511-SuperSplat214.html"/>
-        <updated>2025-11-26T00:02:28.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SUPER HIVEで1日限定30%オフ！Perspective PlotterやConform Objectなど人気アドオンがセール中]]></title>
-        <id>https://modelinghappy.com/?p=65719</id>
-        <link href="https://modelinghappy.com/archives/65719"/>
-        <updated>2025-11-25T23:47:49.000Z</updated>
-        <summary type="html"><![CDATA[SUPER HIVE mark kingsnorth 2025年11月26日15時まで、mark kingsnorthさんが作成したBlenderのモデリングが便利になるアドオンが30%オフになるセールを開催しています。
-The post SUPER HIVEで1日限定30%オフ！Perspective PlotterやConform Objectなど人気アドオンがセール中 first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
         <author>
             <name>modelinghappy</name>
         </author>

@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-12-27T12:20:49.824Z</updated>
+    <updated>2025-12-28T01:04:09.380Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【Unity】float4 に 1 byte 分の付加データを格納する]]></title>
+        <id>https://qiita.com/yuri_tsukimi/items/da4f1359cf71a3aa9c7f</id>
+        <link href="https://qiita.com/yuri_tsukimi/items/da4f1359cf71a3aa9c7f"/>
+        <updated>2025-12-27T22:00:18.000Z</updated>
+        <summary type="html"><![CDATA[概要
+Custom Render Texture でパーティクルのシミュレーションなどをしていると，「パーティクル1つ分のデータを格納するのに，4 pixel だとちょっと足りない... でも 8 pixel は多すぎる...」ということがよくあります．
+そういう時に，f...]]></summary>
+        <author>
+            <name>Shaderタグが付けられた新着記事 - Qiita</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【アドオン紹介！】Track Tools V2 Beta – 道路を自由自在にカスタムできる！]]></title>
         <id>https://cgbox.jp/?p=64919</id>
@@ -6016,101 +6028,6 @@ The post Blenderで大人気アドオン35種類 合計1,000ドル分(日本円1
 The post SUPER HIVE(旧Blendermarket)で25%OFFのサイバーセールが開始！人気アドオン・アセットまとめ！ first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
         <author>
             <name>modelinghappy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【Houdini】Wrangleを学ぶ①]]></title>
-        <id>https://3d.crdg.jp/env/?p=8723</id>
-        <link href="https://3d.crdg.jp/env/2025/11/28/8723/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=%25e3%2580%2590houdini%25e3%2580%2591wrangle%25e3%2582%2592%25e5%25ad%25a6%25e3%2581%25b6%25e2%2591%25a0"/>
-        <updated>2025-11-28T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[背景モデラーがHoudiniを扱う際にぶつかる壁の一つであるWrangleについて、複数回に分けてどんなことができるのかを紹介できればと思います。プロ […]
-続きを読む
-投稿 【Houdini】Wrangleを学ぶ① は エンホリ - ENVIRONMENT HOLIC｜C&R Creative Studios に最初に表示されました。]]></summary>
-        <author>
-            <name>Makito.Noguchi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon ブラックフライデーが開催！ワコムペンタブやグラフィックスカードなどがお買い得に！]]></title>
-        <id>https://cginterest.com/?p=53429</id>
-        <link href="https://cginterest.com/2025/11/28/amazon-%e3%83%96%e3%83%a9%e3%83%83%e3%82%af%e3%83%95%e3%83%a9%e3%82%a4%e3%83%87%e3%83%bc%e3%81%8c%e9%96%8b%e5%82%ac%ef%bc%81%e3%83%af%e3%82%b3%e3%83%a0%e3%83%9a%e3%83%b3%e3%82%bf%e3%83%96%e3%82%84/"/>
-        <updated>2025-11-28T08:45:00.000Z</updated>
-        <summary type="html"><![CDATA[Amazonブラックフライデーセール紹介です。 セール概要 2025年12月1日(月) 23:59までの期間、Amazonでブラックフライデーセールが開催！ このセールではPCパーツやディスプレイ、後に紹介する Waco […]
-Amazon ブラックフライデーが開催！ワコムペンタブやグラフィックスカードなどがお買い得に！ first appeared on CGinterest.]]></summary>
-        <author>
-            <name>.me</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[パソコン工房ブラックフライデーセールが開催！セール対象 クリエイター向けパソコンを紹介]]></title>
-        <id>https://cginterest.com/?p=53416</id>
-        <link href="https://cginterest.com/2025/11/28/%e3%83%91%e3%82%bd%e3%82%b3%e3%83%b3%e5%b7%a5%e6%88%bf%e3%83%96%e3%83%a9%e3%83%83%e3%82%af%e3%83%95%e3%83%a9%e3%82%a4%e3%83%87%e3%83%bc%e3%82%bb%e3%83%bc%e3%83%ab%e3%81%8c%e9%96%8b%e5%82%ac%ef%bc%81/"/>
-        <updated>2025-11-28T08:04:05.000Z</updated>
-        <summary type="html"><![CDATA[パソコン工房インターネット通販で開催中の『ブラックフライデーセール』の紹介です。 セール概要 今回のセールでは、GeForce RTX 50シリーズ搭載ゲーミングPCや高リフレッシュレート対応ノートパソコン、10万円未満 […]
-パソコン工房ブラックフライデーセールが開催！セール対象 クリエイター向けパソコンを紹介 first appeared on CGinterest.]]></summary>
-        <author>
-            <name>.me</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[＜クリ博＞27卒向けゲームプログラマーオンライン選考会Vol.2の開催が決定！【作品応募〆：2026/1/14（水）】 - ニュース]]></title>
-        <id>https://cgworld.jp/flashnews/2511-27pgo2.html</id>
-        <link href="https://cgworld.jp/flashnews/2511-27pgo2.html"/>
-        <updated>2025-11-28T06:00:00.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CGWORLD MASTERCLASS ONLINE第19弾！テーマは『テクスチャ＆マテリアル』12月20日～21日オンライン開催 - ニュース]]></title>
-        <id>https://cgworld.jp/flashnews/cgwmco-19-news.html</id>
-        <link href="https://cgworld.jp/flashnews/cgwmco-19-news.html"/>
-        <updated>2025-11-28T05:36:06.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[VFX の魔法。DNEG の ハリー・ポッター ショーリール]]></title>
-        <id>https://3dtotal.jp/?p=53831</id>
-        <link href="https://3dtotal.jp/news/53831/"/>
-        <updated>2025-11-28T04:37:12.000Z</updated>
-        <summary type="html"><![CDATA[★Harry Potter | Showreel | DNEG（2分37秒） 1日を始める魔法を探していますか? DNEG x ハリー・ポッター のショーリールをお楽しみください! 才能あふれる私たち DNEG のチーム […]
-The post VFX の魔法。DNEG の ハリー・ポッター ショーリール first appeared on 3dtotal 日本語オフィシャルサイト.]]></summary>
-        <author>
-            <name>3dtotal管理人T</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[熊本にて1/26（月）から2/1（日）「Kumamoto Game Jam Festival 2026」開催決定－熊本でゲーム制作を体験できるコンペ形式イベント - ニュース]]></title>
-        <id>https://cgworld.jp/flashnews/02-2511-kumamoto-game-jam-festival-2026.html</id>
-        <link href="https://cgworld.jp/flashnews/02-2511-kumamoto-game-jam-festival-2026.html"/>
-        <updated>2025-11-28T04:36:19.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【アドオン紹介】Uv Deformer – UVをデフォーマで調整！]]></title>
-        <id>https://cgbox.jp/?p=64704</id>
-        <link href="https://cgbox.jp/2025/11/28/news-addon-uv-deformer/"/>
-        <updated>2025-11-28T04:06:52.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは！ 今回はアドオンの「Uv Deformer」を紹介します。 こちらのリンクがアドオンの商品ページになります。 Uv Deformer 「Uv Deformer」は、UV Deformerは、UVエディター上で […]]]></summary>
-        <author>
-            <name>kasahara</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ANOが出張型XRサービスを提供開始－あらゆる場所を"モーキャプスタジオ"に - ニュース]]></title>
-        <id>https://cgworld.jp/flashnews/02-2511-anoxr.html</id>
-        <link href="https://cgworld.jp/flashnews/02-2511-anoxr.html"/>
-        <updated>2025-11-28T02:13:07.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
         </author>
     </entry>
 </feed>

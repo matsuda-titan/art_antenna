@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-12-30T08:17:33.276Z</updated>
+    <updated>2025-12-30T12:23:58.633Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[自動運転のVirtual Testingは『AI』ではない ─ シミュレーション基盤が果たす本当の役割]]></title>
+        <id>https://note.com/synular/n/ne5e790a2b0e3</id>
+        <link href="https://note.com/synular/n/ne5e790a2b0e3"/>
+        <updated>2025-12-30T12:12:32.000Z</updated>
+        <summary type="html"><![CDATA[自動運転車の開発では、安全性を確保するために実車試験だけでなく仮想環境でのテスト（Virtual Testing）が不可欠です。Virtual Testingは、実世界では試せない危険事象や稀なケースをコンピューターシミュレーションで再現し検証する技術です。この手法は、AI（機械学習）そのものではなく、物理モデルや映像レンダリングなどを用いた「シミュレーション基盤」に基づきます。SIGGRAPH 2024の発表によれば、シミュレーション基盤では最先端のコンピュータグラフィックス技術を活用し、リアルかつ大規模な環境を作り上げます。例えば、カメラ映像だけでなくLiDARやレーダーのマルチモーダルセンサー情報を物理ベースで再現するフレームワーク（Alba）では、正確性や規模の最適化が重視されています。このように、Virtual Testingでは物理的・映像的にリアルなシミュレーションを実現する技術が中核であり、「AI」という学習アルゴリズムとは異なる技術基盤であることが明確です。
+Aurora Innovationの自動運転開発でもVirtual Testingは中核ツールです。同社CEOのクリス・アーミン氏は、「大規模なシミュレーションと機械学習は技術開発の礎石であり、AWS上で何百万もの仮想テストを可能にする」と述べています。AuroraのVirtual Testing Suiteでは、1日に何百万回もの走行シナリオを仮想環境で検証できるため、実車試験では到底到達できない速度と網羅性を実現します。例えば、実際の左折シーン1件から得た情報を元に数百万通りの左折シナリオを生成し、シミュレーター上で約230万回もの左折練習を行うことで、実走行前に問題点をつぶし込んでいます。こうして仮想テストで得られた知見に基づき欠陥を早期発見・修正することで、新しいソフトウェアの実装前に安全性を担保します。
+続きをみる]]></summary>
+        <author>
+            <name>#Houdiniタグ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[監督の哲学、パフォーマンスキャプチャー..。映画『アバター：ファイヤー・アンド・アッシュ』のメイキング映像]]></title>
         <id>https://3dtotal.jp/?p=54255</id>
@@ -15,6 +27,16 @@
 The post 監督の哲学、パフォーマンスキャプチャー..。映画『アバター：ファイヤー・アンド・アッシュ』のメイキング映像 first appeared on 3dtotal 日本語オフィシャルサイト.]]></summary>
         <author>
             <name>3dtotal管理人T</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[8.3K収録・4K合成が1台で完結！？　DEFTが編み出したAMD Ryzen Threadripper活用法とは～CGWCC2025（2） - スペシャルコンテンツ]]></title>
+        <id>https://cgworld.jp/special-feature/202512-sycom-deft-cgwcc2025.html</id>
+        <link href="https://cgworld.jp/special-feature/202512-sycom-deft-cgwcc2025.html"/>
+        <updated>2025-12-30T05:07:33.000Z</updated>
+        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
+        <author>
+            <name>CGWORLD</name>
         </author>
     </entry>
     <entry>
@@ -5762,105 +5784,6 @@ The post 本物そっくりのロボット動物に 人の意識をホップ!? �
         <summary type="html"><![CDATA[LA在住の映像ディレクター柴田夏未氏の海外就業ストーリー。]]></summary>
         <author>
             <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【12/1限定】RetopoFlowにZenUVなど人気アドオン9種類+動画2本で定価342ドルが82％オフの62ドルで販売！]]></title>
-        <id>https://modelinghappy.com/?p=65850</id>
-        <link href="https://modelinghappy.com/archives/65850"/>
-        <updated>2025-11-30T23:22:37.000Z</updated>
-        <summary type="html"><![CDATA[MODELING+UV BUNDLE SUPERHIVE(旧BlnederMarkt)でサイバーセールが開催されていますが、2025年12月1日１日限定でモデリングとUV展開に人気アドオン9種類+動画2の合計11種類、3
-The post 【12/1限定】RetopoFlowにZenUVなど人気アドオン9種類+動画2本で定価342ドルが82％オフの62ドルで販売！ first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
-        <author>
-            <name>modelinghappy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[テンセント、オープンソースの動画生成AIモデル「HunyuanVideo 1.5」公開！ 超軽量8.3Bパラメータで14GB VRAMのGPUにデプロイ可能 - ニュース]]></title>
-        <id>https://cgworld.jp/flashnews/01-202512-HunyuanVideo15.html</id>
-        <link href="https://cgworld.jp/flashnews/01-202512-HunyuanVideo15.html"/>
-        <updated>2025-11-30T22:43:25.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Maya] 円形や帯状のノイズを作成する]]></title>
-        <id>https://zenn.dev/tachikure/articles/974195cdd886a7</id>
-        <link href="https://zenn.dev/tachikure/articles/974195cdd886a7"/>
-        <updated>2025-11-30T22:10:01.000Z</updated>
-        <summary type="html"><![CDATA[全面ではなく限られた範囲にノイズをかけたい。
-ただしマスクをかけるのはイメージと違う。(輪郭にノイズがかかってほしい)
-
-こういうことではない
-
-こんな感じのイメージ
-!
-ちなみに前者は単にlayeredTextureでノイズに円形のrampノードを重ねたもの。
-
-
- 単純な場合
-rampノードを作成する。
-
-Out Colorを適当なマテリアルにつなぎ、オブジェクトに割り当てる。
-ここではSurfaceShaderのOut Colorに接続。
-
-帯状
-rampノードのランプを調整し、Noise、Noise Freqを設定する。
-
-
-円形
-この方法だと、設定項目が2つしかなくアニメーショ...]]></summary>
-        <author>
-            <name>たちくれ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Maya] 円形や帯状のノイズを作成する]]></title>
-        <id>https://zenn.dev/tachikure/articles/974195cdd886a7</id>
-        <link href="https://zenn.dev/tachikure/articles/974195cdd886a7"/>
-        <updated>2025-11-30T22:10:01.000Z</updated>
-        <summary type="html"><![CDATA[全面ではなく限られた範囲にノイズをかけたい。
-ただしマスクをかけるのはイメージと違う。(輪郭にノイズがかかってほしい)
-
-こういうことではない
-
-こんな感じのイメージ
-!
-ちなみに前者は単にlayeredTextureでノイズに円形のrampノードを重ねたもの。
-
-
- 単純な場合
-rampノードを作成する。
-
-Out Colorを適当なマテリアルにつなぎ、オブジェクトに割り当てる。
-ここではSurfaceShaderのOut Colorに接続。
-
-帯状
-rampノードのランプを調整し、Noise、Noise Freqを設定する。
-
-
-円形
-この方法だと、設定項目が2つしかなくアニメーショ...]]></summary>
-        <author>
-            <name>たちくれ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[オブジェクトが非表示なのかどうか確認したい]]></title>
-        <id>https://qiita.com/9boz/items/5593e172a4eadef12b5c</id>
-        <link href="https://qiita.com/9boz/items/5593e172a4eadef12b5c"/>
-        <updated>2025-11-30T22:07:26.000Z</updated>
-        <summary type="html"><![CDATA[mayaにおいてオブジェクトの可視性を制御する方法はいくつかあると思いますがー
-
-visibility / LOD visibility
-親ノードの visibility / LOD visibility
-displayLayer
-
-複雑なシーンで、上記どれかの方法で非表示...]]></summary>
-        <author>
-            <name>mayaタグが付けられた新着記事 - Qiita</name>
         </author>
     </entry>
 </feed>

@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-12-30T00:57:23.891Z</updated>
+    <updated>2025-12-30T03:57:00.287Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【アドオン紹介】Ez Stitches –]]></title>
+        <id>https://cgbox.jp/?p=64931</id>
+        <link href="https://cgbox.jp/2025/12/30/news-addon-ez-stitches/"/>
+        <updated>2025-12-30T03:02:12.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは！ 今回はアドオンの「Ez Stitches」を紹介します。 こちらのリンクがアドオンの商品ページになります。 Ez Stitches 「Ez Stitches」は、Blender上でメッシュのエッジに沿ってリ […]]]></summary>
+        <author>
+            <name>kasahara</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[MODO（国内・海外・関連ソフト）がダウンロード終了予定！ 最新版 17.1 は現在無料配布中！]]></title>
         <id>https://modelinghappy.com/?p=66378</id>
@@ -5840,27 +5850,6 @@ displayLayer
 複雑なシーンで、上記どれかの方法で非表示...]]></summary>
         <author>
             <name>mayaタグが付けられた新着記事 - Qiita</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[画角の端になるにつれ透過する環境を作る（XREAL Air2Ultra）]]></title>
-        <id>https://zenn.dev/boichi/articles/1dc7604f252d33</id>
-        <link href="https://zenn.dev/boichi/articles/1dc7604f252d33"/>
-        <updated>2025-11-30T15:33:54.000Z</updated>
-        <summary type="html"><![CDATA[はじめに
-この記事は サイバーエージェント26卒内定者 Advent Calendarの1日目として投稿しています。
-1日目を投稿できるなんて光栄ですね。今世は運がいい
-
- この記事でやること
-XREALってどうしてもVRに比べてCGを表示できる視野が限られているんですよね。
-だから目の前に大きめのオブジェクトを出そうとしても表示可能な視野角を出るとプツッと表示されなくなっちゃってちょっと冷める、的な現象があります。
-それを防ぐために、視野角外に近づく領域ほど透過していく、そんな実装を簡単に紹介します。
-
- 使用技術
-・Unity 6000.0.58f2
-・XREAL SDK 3.0...]]></summary>
-        <author>
-            <name>ぼいち</name>
         </author>
     </entry>
 </feed>

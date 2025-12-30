@@ -12,6 +12,21 @@
       "siteUrl": "https://cgbox.jp",
       "articles": [
         {
+          "id": "https://cgbox.jp/?p=64931",
+          "author": "kasahara",
+          "description": "こんばんは！ 今回はアドオンの「Ez Stitches」を紹介します。 こちらのリンクがアドオンの商品ページになります。 Ez Stitches 「Ez Stitches」は、Blender上でメッシュのエッジに沿ってリ […]",
+          "link": "https://cgbox.jp/2025/12/30/news-addon-ez-stitches/",
+          "publishedOn": "2025-12-30T03:02:12.000Z",
+          "wordCount": 2502,
+          "title": "【アドオン紹介】Ez Stitches –",
+          "enclosure": {
+            "url": "https://cgbox.jp/wp-content/uploads/2025/12/5a9612d50e33feff2e182314a3fb2f75.mp4",
+            "length": "0",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://cgbox.jp/wp-content/uploads/2025/12/image_processing20251229-2-ghn2f.jpg"
+        },
+        {
           "id": "https://cgbox.jp/?p=64924",
           "author": "kasahara",
           "description": "こんばんは！ 今回はアドオンの「Chain Generator 」を紹介します。 こちらのリンクがアドオンの商品ページになります。 Chain Generator 「Chain Generator 」は、カーブに沿ってリ […]",
@@ -2948,21 +2963,6 @@
             "type": "false"
           },
           "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--Qnp5ym3N--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Earth%252C%2520Wind%2520%2526%2520Fire%25E3%2581%25A3%25E3%2581%25BD%25E3%2581%2584%25E3%2582%25A8%25E3%2583%2595%25E3%2582%25A7%25E3%2582%25AF%25E3%2583%2588%25E3%2582%2592RenderGraph%25E3%2581%25A7%25E5%25AE%259F%25E8%25A3%2585%25E3%2581%2599%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%25B6%25E3%2582%2593%25E3%2581%25B6%25E3%2582%2593%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzY0ODA5YmE3MjUuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"
-        },
-        {
-          "id": "https://zenn.dev/boichi/articles/1dc7604f252d33",
-          "author": "ぼいち",
-          "description": "はじめに\nこの記事は サイバーエージェント26卒内定者 Advent Calendarの1日目として投稿しています。\n1日目を投稿できるなんて光栄ですね。今世は運がいい\n\n この記事でやること\nXREALってどうしてもVRに比べてCGを表示できる視野が限られているんですよね。\nだから目の前に大きめのオブジェクトを出そうとしても表示可能な視野角を出るとプツッと表示されなくなっちゃってちょっと冷める、的な現象があります。\nそれを防ぐために、視野角外に近づく領域ほど透過していく、そんな実装を簡単に紹介します。\n\n 使用技術\n・Unity 6000.0.58f2\n・XREAL SDK 3.0...",
-          "link": "https://zenn.dev/boichi/articles/1dc7604f252d33",
-          "publishedOn": "2025-11-30T15:33:54.000Z",
-          "wordCount": 1332,
-          "title": "画角の端になるにつれ透過する環境を作る（XREAL Air2Ultra）",
-          "enclosure": {
-            "url": "https://res.cloudinary.com/zenn/image/upload/s--olqHnKvs--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E7%2594%25BB%25E8%25A7%2592%25E3%2581%25AE%25E7%25AB%25AF%25E3%2581%25AB%25E3%2581%25AA%25E3%2582%258B%25E3%2581%25AB%25E3%2581%25A4%25E3%2582%258C%25E9%2580%258F%25E9%2581%258E%25E3%2581%2599%25E3%2582%258B%25E7%2592%25B0%25E5%25A2%2583%25E3%2582%2592%25E4%25BD%259C%25E3%2582%258B%25EF%25BC%2588XREAL%2520Air2Ultra%25EF%25BC%2589%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%25BC%25E3%2581%2584%25E3%2581%25A1%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2EwN2NlZGNkYjkuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
-            "length": "0",
-            "type": "false"
-          },
-          "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--olqHnKvs--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E7%2594%25BB%25E8%25A7%2592%25E3%2581%25AE%25E7%25AB%25AF%25E3%2581%25AB%25E3%2581%25AA%25E3%2582%258B%25E3%2581%25AB%25E3%2581%25A4%25E3%2582%258C%25E9%2580%258F%25E9%2581%258E%25E3%2581%2599%25E3%2582%258B%25E7%2592%25B0%25E5%25A2%2583%25E3%2582%2592%25E4%25BD%259C%25E3%2582%258B%25EF%25BC%2588XREAL%2520Air2Ultra%25EF%25BC%2589%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%25BC%25E3%2581%2584%25E3%2581%25A1%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2EwN2NlZGNkYjkuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"
         }
       ]
     },

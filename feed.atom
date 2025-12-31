@@ -2,10 +2,47 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-12-30T12:23:58.633Z</updated>
+    <updated>2025-12-31T00:58:47.029Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Houdiniへの挑戦と小さな成長を感じられた1年を振り返る2025]]></title>
+        <id>https://note.com/fuji_houdini/n/nc8de1b35e7b3</id>
+        <link href="https://note.com/fuji_houdini/n/nc8de1b35e7b3"/>
+        <updated>2025-12-30T23:12:23.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは! Houdiniわからないゴリラです。
+こちらは「Houdini」にハマり、
+最近、学習や創作の様子、Tips等をSNSで投稿しているアカウントです。
+
+
+続きをみる]]></summary>
+        <author>
+            <name>#Houdiniタグ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2025年11月発売のCG関連書籍をチェック！[決定版]]]></title>
+        <id>https://cginterest.com/?p=52254</id>
+        <link href="https://cginterest.com/2025/12/30/2025%e5%b9%b411%e6%9c%88%e7%99%ba%e5%a3%b2%e3%81%aecg%e9%96%a2%e9%80%a3%e6%9b%b8%e7%b1%8d%e3%82%92%e3%83%81%e3%82%a7%e3%83%83%e3%82%af%ef%bc%81%e6%b1%ba%e5%ae%9a%e7%89%88/"/>
+        <updated>2025-12-30T14:59:00.000Z</updated>
+        <summary type="html"><![CDATA[今月発売、2025年11月以降に発売予定*のあるCG関連書籍を紹介するコーナーです(Amazon調べ)。 CGソフトの入門本、テクニック本、アートブック、リファレンス（参考資料）、その他気になるおすすめ書籍を紹介していき […]
+2025年11月発売のCG関連書籍をチェック！[決定版] first appeared on CGinterest.]]></summary>
+        <author>
+            <name>.me</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【Unity6.0 URP/HDRP】SkinnedMeshRendererのテクスチャ空間上におけるしわのシミュレーション]]></title>
+        <id>https://qiita.com/GossiperLoturot/items/919d88a5a9337c6a2b4c</id>
+        <link href="https://qiita.com/GossiperLoturot/items/919d88a5a9337c6a2b4c"/>
+        <updated>2025-12-30T13:44:16.000Z</updated>
+        <summary type="html"><![CDATA[はじめに
+キャラクターの肌や布、フィルムなど変形が発生する物体において、物体表面のしわをUnity上でリアルタイムにシミュレートする表現の実現に取り組みましたので共有します。しわの動的な表現は、ゲームのリアリズム、没入性を向上させる表現となりえます。本記事では、そのような...]]></summary>
+        <author>
+            <name>Shaderタグが付けられた新着記事 - Qiita</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[自動運転のVirtual Testingは『AI』ではない ─ シミュレーション基盤が果たす本当の役割]]></title>
         <id>https://note.com/synular/n/ne5e790a2b0e3</id>
@@ -5635,155 +5672,6 @@ Unity 6000.0.58f2 URP 3D
 The post Blenderで使えるネオン素材70種類+大型産業構造物15種類＋地面ゴミ20種類+7時間以上のチュートリアル動画が12.36ドルと激安アセットを購入してみました first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
         <author>
             <name>modelinghappy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Earth, Wind & FireっぽいエフェクトをRenderGraphで実装する]]></title>
-        <id>https://zenn.dev/adoring_onion/articles/lets-groove-effect</id>
-        <link href="https://zenn.dev/adoring_onion/articles/lets-groove-effect"/>
-        <updated>2025-12-01T11:52:18.000Z</updated>
-        <summary type="html"><![CDATA[この記事は Anthrotech Advent Calendar 2025 の1日目の記事です。Anthrotech Advent Calendar 2025については こちら をご覧ください。
-
- はじめに
-RenderGraphはUnity6からURPに導入され、6.4からはデフォルトになって従来の書き方ができなくなるので今のうちに慣れておこうと思い、エフェクトを作ってみます。
-今回作るのはEarth Wind and FireのLet's Grooveっぽいエフェクトです。
-https://youtu.be/Lrle0x_DHBM?si=gDZG7Sx1TySWDIH4&t...]]></summary>
-        <author>
-            <name>ぶんぶん</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[単純な座標変換によるシンプレックスグリッドの試作]]></title>
-        <id>https://qiita.com/warotarock/items/55ef6f1b8f999a640f08</id>
-        <link href="https://qiita.com/warotarock/items/55ef6f1b8f999a640f08"/>
-        <updated>2025-12-01T08:35:14.000Z</updated>
-        <summary type="html"><![CDATA[この記事は グラフィックス全般 Advent Calendar 2025 1日目の記事です。
-作者は個人でElectron＆Webなお絵かきアプリを制作中です（たぶん9年目）
-今回の記事のソースコードはGitHubで公開しています。
-
-背景
-今年に入って某お絵描きアプリの鉛...]]></summary>
-        <author>
-            <name>GLSLタグが付けられた新着記事 - Qiita</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[180種類のカスタマイズ可能なプリセットが含まれたBlender用のプロシージャルヘア作成アドオン「Global Hair」]]></title>
-        <id>https://cginterest.com/?p=53524</id>
-        <link href="https://cginterest.com/2025/12/01/180%e7%a8%ae%e9%a1%9e%e3%81%ae%e3%82%ab%e3%82%b9%e3%82%bf%e3%83%9e%e3%82%a4%e3%82%ba%e5%8f%af%e8%83%bd%e3%81%aa%e3%83%97%e3%83%aa%e3%82%bb%e3%83%83%e3%83%88%e3%81%8c%e5%90%ab%e3%81%be%e3%82%8c/"/>
-        <updated>2025-12-01T08:21:43.000Z</updated>
-        <summary type="html"><![CDATA[Blendify によるBlender用アドオン「Global Hair」の紹介です。 Global Hairとは Global Hairとは、Blender用にジオメトリノードとカーブベースで構築されたプロシージャルヘ […]
-180種類のカスタマイズ可能なプリセットが含まれたBlender用のプロシージャルヘア作成アドオン「Global Hair」 first appeared on CGinterest.]]></summary>
-        <author>
-            <name>.me</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【UE5】Renderdocでピクセルデバックする際に]]></title>
-        <id>https://tech.spark-creative.co.jp/entry/2025/12/01/153348</id>
-        <link href="https://tech.spark-creative.co.jp/entry/2025/12/01/153348"/>
-        <updated>2025-12-01T06:33:48.000Z</updated>
-        <summary type="html"><![CDATA[はじめに 前提 Renderdocとは 本題 原因とか 終わり はじめに こんにちは、クライアントエンジニアの下野です。 今回はUE5.6以降でピクセルデバック際に対応必要だったのでメモです。 前提 エンジンのバージョンは5.6です。バージョンによってはコードが変わったりするので完全にコードを一致させても動かない場合があります。 Renderdocのバージョンはこの時点の最新バージョン、v1.41.1です。 Renderdocとは シェーダーのデバックをするための外部ツールです。Unityでも使えます。 基本的な仕様とかは本題から外れるので、過去のブログを参照していただければです。 さて、UE…]]></summary>
-        <author>
-            <name>SPARKCREATIVE Tech Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[汚そうに見える壁をShaderGraphで作る]]></title>
-        <id>https://zenn.dev/sasanuki/articles/b6696c0d658505</id>
-        <link href="https://zenn.dev/sasanuki/articles/b6696c0d658505"/>
-        <updated>2025-12-01T05:52:43.000Z</updated>
-        <summary type="html"><![CDATA[次回作のホラーゲームに使用する壁を考えたい
-そんな動機で色々考えてみました。
-特にScaleで引き延ばされてもドット粒度が影響しない壁が作りたい。
-
- こんな感じの出来を目指します
-
-
-
- 全容
-
-
- 解説
-
-Posterizeで階調を少なくします
-
-Stepsを変えて好みの粒度を調整出来ます。
-このままUVからPosterizeを繋げるだけでも、Scale変更しないならOKです。
-
-
-ノイズを載せます
-
-ここはお好みでノイズのノードを選ぶと良いと思います。
-Scaleもお好みで。
-※もっと凝りたければ自前のノイズテクスチャを用意しても良いと思います
-
-
-もう一回Posterizeし...]]></summary>
-        <author>
-            <name>sasanuki</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[VSCodeとBlenderをMCPで連携させてAI 3Dモデリング環境を構築する]]></title>
-        <id>https://zenn.dev/sloth255/articles/dfccc9699718a3</id>
-        <link href="https://zenn.dev/sloth255/articles/dfccc9699718a3"/>
-        <updated>2025-12-01T03:00:06.000Z</updated>
-        <summary type="html"><![CDATA[VSCodeとBlenderをMCPで連携させてAI 3Dモデリング環境を構築する
-
- はじめに
-本記事では、VSCode上のAIアシスタント(GitHub Copilot)とBlenderをMCP(Model Context Protocol)で連携させ、AIによる3Dモデリング環境を構築する手順を紹介します。MCPを利用することで、VSCodeから直接Blenderを操作し、自然言語による指示で3Dオブジェクトを生成できるようになります。
-
- 前提条件
-以下の環境が整っていることを前提とします。
-
-Windows OS
-Blender インストール済み
-VSCode インストール...]]></summary>
-        <author>
-            <name>Sloth255｜個人開発🔧💻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CharacterBank、新作VRアクションRPG『Knights of Fiona -フィオナ騎士団-』を発表 - ニュース]]></title>
-        <id>https://cgworld.jp/flashnews/02-2512-characterbank.html</id>
-        <link href="https://cgworld.jp/flashnews/02-2512-characterbank.html"/>
-        <updated>2025-12-01T02:45:27.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[アーロと父親のシーン。ピクサー映画『アーロと少年』の 絵コンテ と 完成映像 比較ムービー “Side by Side”]]></title>
-        <id>https://3dtotal.jp/?p=53870</id>
-        <link href="https://3dtotal.jp/news/53870/"/>
-        <updated>2025-12-01T01:56:34.000Z</updated>
-        <summary type="html"><![CDATA[★The Good Dinosaur Side by Side | "The Storm" Scene | Storyboards vs. Film（2分45秒） 名作映画『アーロと少年』の舞台裏をのぞいてみましょう。ア […]
-The post アーロと父親のシーン。ピクサー映画『アーロと少年』の 絵コンテ と 完成映像 比較ムービー "Side by Side" first appeared on 3dtotal 日本語オフィシャルサイト.]]></summary>
-        <author>
-            <name>3dtotal管理人T</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[本物そっくりのロボット動物に 人の意識をホップ!? ディズニー・ピクサー映画『私がビーバーになる時』のトレーラー（英語／日本語）]]></title>
-        <id>https://3dtotal.jp/?p=52186</id>
-        <link href="https://3dtotal.jp/news/52186/"/>
-        <updated>2025-12-01T01:50:21.000Z</updated>
-        <summary type="html"><![CDATA[★Hoppers | Official Trailer（2分24秒） ★「私がビーバーになる時」US版予告（2分24秒） ディズニー＆ピクサー最新作！ もしもビーバーになって、＜動物の世界＞に潜入できたら？ ある目的のた […]
-The post 本物そっくりのロボット動物に 人の意識をホップ!? ディズニー・ピクサー映画『私がビーバーになる時』のトレーラー（英語／日本語） first appeared on 3dtotal 日本語オフィシャルサイト.]]></summary>
-        <author>
-            <name>3dtotal管理人T</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「海外で働くというのは、その国とご縁があるからだと考えています」報道とCMで培ったキャリアを武器に、LAで映像ディレクターとして活躍 第114回：柴田夏未（Director） - 連載]]></title>
-        <id>https://cgworld.jp/regular/114-shibata.html</id>
-        <link href="https://cgworld.jp/regular/114-shibata.html"/>
-        <updated>2025-12-01T01:30:00.000Z</updated>
-        <summary type="html"><![CDATA[LA在住の映像ディレクター柴田夏未氏の海外就業ストーリー。]]></summary>
-        <author>
-            <name>CGWORLD</name>
         </author>
     </entry>
 </feed>

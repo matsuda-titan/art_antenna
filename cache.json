@@ -1891,16 +1891,6 @@
           "wordCount": 780,
           "title": "アニメ映画『ホウセンカ』、3DCGで表現された美しい花火と洗練された魅力を引き出した撮影 - 特集",
           "imageUrl": "https://cgworld.jp/article/assets_c/2025/11/main-thumb-1100x618-75953.jpg"
-        },
-        {
-          "id": "https://cgworld.jp/flashnews/01-202512-Storm.html",
-          "author": null,
-          "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
-          "link": "https://cgworld.jp/flashnews/01-202512-Storm.html",
-          "publishedOn": "2025-12-01T22:57:40.000Z",
-          "wordCount": 778,
-          "title": "Blender Studio、Blender 5.0の高品質なキャラクターリグプロジェクト「Storm」公開！　アドオンベースのボディリグ、カスタムフェイシャルリグ、アドオンを提供 - ニュース",
-          "imageUrl": "https://cgworld.jp/flashnews/assets_c/2025/12/Storm-01-thumb-1920x1080-76835.jpg"
         }
       ]
     },
@@ -2882,21 +2872,6 @@
             "type": "false"
           },
           "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--Fh321Amw--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Processing%25E3%2581%25A7%25E3%2583%25A1%25E3%2582%25BF%25E3%2583%259C%25E3%2583%25BC%25E3%2583%25AB%25E3%2582%2592%25E4%25BD%259C%25E3%2582%258B%2520-%2520GLSL%25E3%2582%25B7%25E3%2582%25A7%25E3%2583%25BC%25E3%2583%2580%25E3%2583%25BC%25E3%2581%25A7%25E6%259C%2589%25E6%25A9%259F%25E7%259A%2584%25E3%2581%25AA%25E3%2582%25A2%25E3%2583%258B%25E3%2583%25A1%25E3%2583%25BC%25E3%2582%25B7%25E3%2583%25A7%25E3%2583%25B3%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:iuchico%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzY2N2RjNWU0NTMuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"
-        },
-        {
-          "id": "https://zenn.dev/team411/articles/77339eacea5dec",
-          "author": "てるよし",
-          "description": "この記事はteam411 Advent Calender 2025の2日目の記事です。\n当アドベントカレンダーの他の記事はこちらから閲覧できます。\n\nおはこんばんにちは(死語)、team411のてるよしです。\nこの記事ではシェーダーの基礎概念と作品例、そしてシェーダーを始めるにあたって便利なサービスやサイトを紹介します。詳細なシェーダープログラミングの書き方などはすでに多くのチュートリアル記事があるので、ここでは割愛します。\n\n シェーダーとは\nMinecraftの影モッドや、Unity・UEなどのゲームエンジンに触れていれば聞いたことがあるかもしれません。名前からわかる通り、影(sh...",
-          "link": "https://zenn.dev/team411/articles/77339eacea5dec",
-          "publishedOn": "2025-12-02T00:00:02.000Z",
-          "wordCount": 448,
-          "title": "シェーダープログラミングのはじめかた",
-          "enclosure": {
-            "url": "https://res.cloudinary.com/zenn/image/upload/s--EPuuV1yB--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2582%25B7%25E3%2582%25A7%25E3%2583%25BC%25E3%2583%2580%25E3%2583%25BC%25E3%2583%2597%25E3%2583%25AD%25E3%2582%25B0%25E3%2583%25A9%25E3%2583%259F%25E3%2583%25B3%25E3%2582%25B0%25E3%2581%25AE%25E3%2581%25AF%25E3%2581%2598%25E3%2582%2581%25E3%2581%258B%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:%25E3%2581%25A6%25E3%2582%258B%25E3%2582%2588%25E3%2581%2597%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzA4YzQxYWIxYjYuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:team411%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2Y0ZDdjMWUwOWIuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
-            "length": "0",
-            "type": "false"
-          },
-          "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--EPuuV1yB--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2582%25B7%25E3%2582%25A7%25E3%2583%25BC%25E3%2583%2580%25E3%2583%25BC%25E3%2583%2597%25E3%2583%25AD%25E3%2582%25B0%25E3%2583%25A9%25E3%2583%259F%25E3%2583%25B3%25E3%2582%25B0%25E3%2581%25AE%25E3%2581%25AF%25E3%2581%2598%25E3%2582%2581%25E3%2581%258B%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:%25E3%2581%25A6%25E3%2582%258B%25E3%2582%2588%25E3%2581%2597%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzA4YzQxYWIxYjYuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:team411%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2Y0ZDdjMWUwOWIuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"
         }
       ]
     },
@@ -3419,16 +3394,6 @@
           "wordCount": 1171,
           "title": "mayaのカメラをなんとかしたい2 ~vartical を horizontal へ~ おかわり",
           "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Fadvent-calendar-ogp-background-7940cd1c8db80a7ec40711d90f43539e.jpg%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnBicy50d2ltZy5jb20lMkZwcm9maWxlX2ltYWdlcyUyRjUzNzk1NjE0OTcwNjc3MjQ4MCUyRkZCUmk0WUVPX2JpZ2dlci5wbmc_aXhsaWI9cmItNC4wLjAmYXI9MSUzQTEmZml0PWNyb3AmbWFzaz1lbGxpcHNlJmJnPUZGRkZGRiZmbT1wbmczMiZzPWExZThhMjQ1ZjJlOGI0MDFlNmZmNDdjMzM4ODNkZmEx%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3Df6a03fa17d0939a5431e8030eb57bbf7?ixlib=rb-4.0.0&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9bWF5YSVFMyU4MSVBRSVFMyU4MiVBQiVFMyU4MyVBMSVFMyU4MyVBOSVFMyU4MiU5MiVFMyU4MSVBQSVFMyU4MiU5MyVFMyU4MSVBOCVFMyU4MSU4QiVFMyU4MSU5NyVFMyU4MSU5RiVFMyU4MSU4NDIlMjB-dmFydGljYWwlMjAlRTMlODIlOTIlMjBob3Jpem9udGFsJTIwJUUzJTgxJUI4fiUyMCVFMyU4MSU4QSVFMyU4MSU4QiVFMyU4MiU4RiVFMyU4MiU4QSZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZ0eHQtY29sb3I9JTIzM0EzQzNDJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnR4dC1wYWQ9MCZzPTExZWQ4YTUxZmFmZmI0OTE5YmVjYzMyMjI4MjVjNWE3&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDA5Ym96JnR4dC1jb2xvcj0lMjMzQTNDM0MmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9MzZlY2M2NjU5OWE5M2Y5Mzg2MGExZGZlZjkxZDllY2U&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=7c65f4fd63564f4d4f8c83109c3c5c09"
-        },
-        {
-          "id": "https://qiita.com/9boz/items/d262b85ab744d1139edc",
-          "author": null,
-          "description": "諸般の事情から、ハードエッジを設定したモデルを多く扱います。\nハードエッジに線が出るので、それを境界に塗り分けとかをしないとイカンのですよ。\n最初は手動でポチポチをポリゴンを選択していたわけですが・・・・\nまぁ面倒で時間がかかるので何とかしたいなぁと。\n\n処理設計\nこの領域...",
-          "link": "https://qiita.com/9boz/items/d262b85ab744d1139edc",
-          "publishedOn": "2025-12-01T22:04:42.000Z",
-          "wordCount": 1623,
-          "title": "ハードエッジ内を選択したい",
-          "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Fadvent-calendar-ogp-background-7940cd1c8db80a7ec40711d90f43539e.jpg%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnBicy50d2ltZy5jb20lMkZwcm9maWxlX2ltYWdlcyUyRjUzNzk1NjE0OTcwNjc3MjQ4MCUyRkZCUmk0WUVPX2JpZ2dlci5wbmc_aXhsaWI9cmItNC4wLjAmYXI9MSUzQTEmZml0PWNyb3AmbWFzaz1lbGxpcHNlJmJnPUZGRkZGRiZmbT1wbmczMiZzPWExZThhMjQ1ZjJlOGI0MDFlNmZmNDdjMzM4ODNkZmEx%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3Df6a03fa17d0939a5431e8030eb57bbf7?ixlib=rb-4.0.0&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9JUUzJTgzJThGJUUzJTgzJUJDJUUzJTgzJTg5JUUzJTgyJUE4JUUzJTgzJTgzJUUzJTgyJUI4JUU1JTg2JTg1JUUzJTgyJTkyJUU5JTgxJUI4JUU2JThBJTlFJUUzJTgxJTk3JUUzJTgxJTlGJUUzJTgxJTg0JnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMzQTNDM0MmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9MWI3YTI4NzE4NmJkNTRjOWFjN2UwN2I2YTgwNWVjZTE&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDA5Ym96JnR4dC1jb2xvcj0lMjMzQTNDM0MmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9MzZlY2M2NjU5OWE5M2Y5Mzg2MGExZGZlZjkxZDllY2U&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=5c5fd89d1abb65ff9d6bdc7c28a7ce63"
         }
       ]
     },
@@ -3910,16 +3875,6 @@
           "wordCount": 723,
           "title": "パーティクルでビッグバン作ってみた",
           "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Fadvent-calendar-ogp-background-7940cd1c8db80a7ec40711d90f43539e.jpg%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRmxoMy5nb29nbGV1c2VyY29udGVudC5jb20lMkZhJTJGQUNnOG9jTFQ5UXhndTVwcjZ6WmJrakx5RVN2NFpTMjlKTUdtdTNLTldnUGk5NWJzeDMtcHE0SSUzRHM5Ni1jP2l4bGliPXJiLTQuMC4wJmFyPTElM0ExJmZpdD1jcm9wJm1hc2s9ZWxsaXBzZSZiZz1GRkZGRkYmZm09cG5nMzImcz02N2FlODA4M2FiMmRjZmEyYTkzNWY3MDQzNzU2MDM4MA%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D7229127d2cf05b580e3b67a17f59de13?ixlib=rb-4.0.0&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9JUUzJTgzJTkxJUUzJTgzJUJDJUUzJTgzJTg2JUUzJTgyJUEzJUUzJTgyJUFGJUUzJTgzJUFCJUUzJTgxJUE3JUUzJTgzJTkzJUUzJTgzJTgzJUUzJTgyJUIwJUUzJTgzJTkwJUUzJTgzJUIzJUU0JUJEJTlDJUUzJTgxJUEzJUUzJTgxJUE2JUUzJTgxJUJGJUUzJTgxJTlGJnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMzQTNDM0MmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9MzAzZDU5OTc3ODQ0Y2MzNGM3MDkzNWRiYTU3MWQ4ZGQ&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDByeW9tYXNhbnBlaSZ0eHQtY29sb3I9JTIzM0EzQzNDJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPTlkMjVkNDJlZjJkY2ZjMjQ0Y2QxYmQyYmY5MTRkNDI2&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=d98811ddca4ff477cc4b011b336cc298"
-        },
-        {
-          "id": "https://qiita.com/rioriver/items/e15b88181716ef8d52f4",
-          "author": null,
-          "description": "Marbleとは\n2025年11月World Labs社が3D生成AIサービス「Marble」をリリースしました。\nテキスト、画像、動画、360度パノラマ、あるいは粗めの3Dレイアウトから、3Dデータを生成できます。\n\nSNS見てるとなんだかすごそう、ということで早速...",
-          "link": "https://qiita.com/rioriver/items/e15b88181716ef8d52f4",
-          "publishedOn": "2025-12-01T22:04:02.000Z",
-          "wordCount": 729,
-          "title": "3DGS新時代「Marble」を触ってみた",
-          "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Fadvent-calendar-ogp-background-7940cd1c8db80a7ec40711d90f43539e.jpg%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnNlY3VyZS5ncmF2YXRhci5jb20lMkZhdmF0YXIlMkZkZDZlZTJmMjk4ZDMyN2JjNzNjODU2NmE0YzM0YjdjZD9peGxpYj1yYi00LjAuMCZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9MmMwNTI3ZWNjNWY3NjdlYmJmYjZkMGE5YjliZTg3YzQ%26blend-x%3D120%26blend-y%3D462%26blend-w%3D90%26blend-h%3D90%26blend-mode%3Dnormal%26mark64%3DaHR0cHM6Ly9xaWl0YS1vcmdhbml6YXRpb24taW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1vcmdhbml6YXRpb24taW1hZ2UlMkYyYjViZjlhNTdiNDhkZWY0YWRiYjA1ZGQ4MDk5NGI5Yzk3NzBjZmYwJTJGb3JpZ2luYWwuanBnJTNGMTY2NzM4MzA1MT9peGxpYj1yYi00LjAuMCZ3PTQ0Jmg9NDQmZml0PWNyb3AmbWFzaz1jb3JuZXJzJmNvcm5lci1yYWRpdXM9OCZiZz1GRkZGRkYmYm9yZGVyPTIlMkNGRkZGRkYmZm09cG5nMzImcz00MzcwNmJmZGE5ZjU1MWE4MjljNTU1NjMxMGZhZGI0OQ%26mark-x%3D186%26mark-y%3D515%26mark-w%3D40%26mark-h%3D40%26s%3De0eb1ca2476537dd17eaf0ecdbcd57df?ixlib=rb-4.0.0&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9M0RHUyVFNiU5NiVCMCVFNiU5OSU4MiVFNCVCQiVBMyVFMyU4MCU4Q01hcmJsZSVFMyU4MCU4RCVFMyU4MiU5MiVFOCVBNyVBNiVFMyU4MSVBMyVFMyU4MSVBNiVFMyU4MSVCRiVFMyU4MSU5RiZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZ0eHQtY29sb3I9JTIzM0EzQzNDJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnR4dC1wYWQ9MCZzPWI1YTM5OWNmMjUxMGNkNWVmYzc2N2M1MGZhYTg0NTk1&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDByaW9yaXZlciZ0eHQtY29sb3I9JTIzM0EzQzNDJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPTVkODE3ODU5YzdiZTc0NWM5ZjM1NWJkNGEyYzc3YTRj&blend-x=242&blend-y=454&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&txt64=5qCq5byP5Lya56S-S0RESeODhuOCr-ODjuODreOCuOODvA&txt-x=242&txt-y=539&txt-width=838&txt-clip=end%2Cellipsis&txt-color=%233A3C3C&txt-font=Hiragino%20Sans%20W6&txt-size=28&s=8f7eebd99d36cc813004a4088f6fd6c0"
         }
       ]
     },
@@ -4076,21 +4031,6 @@
             "type": "false"
           },
           "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--LHsntgzY--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E5%2580%258B%25E4%25BA%25BA%25E8%25A3%25BD%25E4%25BD%259C%25E3%2582%25B2%25E3%2583%25BC%25E3%2583%25A0%25E3%2582%25A8%25E3%2583%25B3%25E3%2582%25B8%25E3%2583%25B3%25E3%2581%25A7%25E3%2580%2581%25E3%2582%25B7%25E3%2582%25A7%25E3%2583%25BC%25E3%2583%2580%25E3%2583%25BC%25E3%2583%2584%25E3%2583%25BC%25E3%2583%25AB%25E3%2582%2592%25E4%25BD%259C%25E3%2582%258A%25E5%25A7%258B%25E3%2582%2581%25E3%2581%259F%25E7%2590%2586%25E7%2594%25B1%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E4%25B8%2589%25E5%258D%2583%25E9%2599%25A2%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2VkZTIyOTk1ZDEuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"
-        },
-        {
-          "id": "https://zenn.dev/team411/articles/77339eacea5dec",
-          "author": "てるよし",
-          "description": "この記事はteam411 Advent Calender 2025の2日目の記事です。\n当アドベントカレンダーの他の記事はこちらから閲覧できます。\n\nおはこんばんにちは(死語)、team411のてるよしです。\nこの記事ではシェーダーの基礎概念と作品例、そしてシェーダーを始めるにあたって便利なサービスやサイトを紹介します。詳細なシェーダープログラミングの書き方などはすでに多くのチュートリアル記事があるので、ここでは割愛します。\n\n シェーダーとは\nMinecraftの影モッドや、Unity・UEなどのゲームエンジンに触れていれば聞いたことがあるかもしれません。名前からわかる通り、影(sh...",
-          "link": "https://zenn.dev/team411/articles/77339eacea5dec",
-          "publishedOn": "2025-12-02T00:00:02.000Z",
-          "wordCount": 448,
-          "title": "シェーダープログラミングのはじめかた",
-          "enclosure": {
-            "url": "https://res.cloudinary.com/zenn/image/upload/s--EPuuV1yB--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2582%25B7%25E3%2582%25A7%25E3%2583%25BC%25E3%2583%2580%25E3%2583%25BC%25E3%2583%2597%25E3%2583%25AD%25E3%2582%25B0%25E3%2583%25A9%25E3%2583%259F%25E3%2583%25B3%25E3%2582%25B0%25E3%2581%25AE%25E3%2581%25AF%25E3%2581%2598%25E3%2582%2581%25E3%2581%258B%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:%25E3%2581%25A6%25E3%2582%258B%25E3%2582%2588%25E3%2581%2597%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzA4YzQxYWIxYjYuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:team411%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2Y0ZDdjMWUwOWIuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
-            "length": "0",
-            "type": "false"
-          },
-          "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--EPuuV1yB--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2582%25B7%25E3%2582%25A7%25E3%2583%25BC%25E3%2583%2580%25E3%2583%25BC%25E3%2583%2597%25E3%2583%25AD%25E3%2582%25B0%25E3%2583%25A9%25E3%2583%259F%25E3%2583%25B3%25E3%2582%25B0%25E3%2581%25AE%25E3%2581%25AF%25E3%2581%2598%25E3%2582%2581%25E3%2581%258B%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:%25E3%2581%25A6%25E3%2582%258B%25E3%2582%2588%25E3%2581%2597%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzA4YzQxYWIxYjYuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:team411%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2Y0ZDdjMWUwOWIuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"
         }
       ]
     },
@@ -4173,21 +4113,6 @@
             "type": "false"
           },
           "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--Fh321Amw--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Processing%25E3%2581%25A7%25E3%2583%25A1%25E3%2582%25BF%25E3%2583%259C%25E3%2583%25BC%25E3%2583%25AB%25E3%2582%2592%25E4%25BD%259C%25E3%2582%258B%2520-%2520GLSL%25E3%2582%25B7%25E3%2582%25A7%25E3%2583%25BC%25E3%2583%2580%25E3%2583%25BC%25E3%2581%25A7%25E6%259C%2589%25E6%25A9%259F%25E7%259A%2584%25E3%2581%25AA%25E3%2582%25A2%25E3%2583%258B%25E3%2583%25A1%25E3%2583%25BC%25E3%2582%25B7%25E3%2583%25A7%25E3%2583%25B3%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:iuchico%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzY2N2RjNWU0NTMuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"
-        },
-        {
-          "id": "https://zenn.dev/team411/articles/77339eacea5dec",
-          "author": "てるよし",
-          "description": "この記事はteam411 Advent Calender 2025の2日目の記事です。\n当アドベントカレンダーの他の記事はこちらから閲覧できます。\n\nおはこんばんにちは(死語)、team411のてるよしです。\nこの記事ではシェーダーの基礎概念と作品例、そしてシェーダーを始めるにあたって便利なサービスやサイトを紹介します。詳細なシェーダープログラミングの書き方などはすでに多くのチュートリアル記事があるので、ここでは割愛します。\n\n シェーダーとは\nMinecraftの影モッドや、Unity・UEなどのゲームエンジンに触れていれば聞いたことがあるかもしれません。名前からわかる通り、影(sh...",
-          "link": "https://zenn.dev/team411/articles/77339eacea5dec",
-          "publishedOn": "2025-12-02T00:00:02.000Z",
-          "wordCount": null,
-          "title": "シェーダープログラミングのはじめかた",
-          "enclosure": {
-            "url": "https://res.cloudinary.com/zenn/image/upload/s--EPuuV1yB--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2582%25B7%25E3%2582%25A7%25E3%2583%25BC%25E3%2583%2580%25E3%2583%25BC%25E3%2583%2597%25E3%2583%25AD%25E3%2582%25B0%25E3%2583%25A9%25E3%2583%259F%25E3%2583%25B3%25E3%2582%25B0%25E3%2581%25AE%25E3%2581%25AF%25E3%2581%2598%25E3%2582%2581%25E3%2581%258B%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:%25E3%2581%25A6%25E3%2582%258B%25E3%2582%2588%25E3%2581%2597%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzA4YzQxYWIxYjYuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:team411%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2Y0ZDdjMWUwOWIuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
-            "length": "0",
-            "type": "false"
-          },
-          "imageUrl": null
         }
       ]
     },
@@ -5463,21 +5388,6 @@
             "type": "video/mp4"
           },
           "imageUrl": "https://cginterest.com/wp-content/uploads/2025/12/treezy2.webp"
-        },
-        {
-          "id": "https://cginterest.com/?p=53555",
-          "author": ".me",
-          "description": "2025年12月1日（現地時間）- Runwayは、動画生成AIモデルの最新版「Gen-4.5」を発表しました。 最新動画生成モデル「Gen-4.5」とは 2年前に公開された初期モデル「Gen-1」から改良を重ね、今回の […]\nRunway、最新動画生成モデル「Gen-4.5」を発表！ first appeared on CGinterest.",
-          "link": "https://cginterest.com/2025/12/02/runway%e3%80%81%e6%9c%80%e6%96%b0%e5%8b%95%e7%94%bb%e7%94%9f%e6%88%90%e3%83%a2%e3%83%87%e3%83%ab%e3%80%8cgen-4-5%e3%80%8d%e3%82%92%e7%99%ba%e8%a1%a8%ef%bc%81/",
-          "publishedOn": "2025-12-01T22:18:00.000Z",
-          "wordCount": 31944,
-          "title": "Runway、最新動画生成モデル「Gen-4.5」を発表！",
-          "enclosure": {
-            "url": "https://cginterest.com/wp-content/uploads/2025/12/20251202-Runway4-5-Sample1a.mp4",
-            "length": "262826",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://cginterest.com/wp-content/uploads/2025/12/20251202_runway4_5.webp"
         }
       ]
     }

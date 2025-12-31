@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-12-31T00:58:47.029Z</updated>
+    <updated>2025-12-31T03:56:55.095Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[WebXRアプリ展示レポート #2]]></title>
+        <id>https://zenn.dev/tatta_chotdog/articles/2bb2f843bced9f</id>
+        <link href="https://zenn.dev/tatta_chotdog/articles/2bb2f843bced9f"/>
+        <updated>2025-12-31T03:51:37.000Z</updated>
+        <summary type="html"><![CDATA[はじめに
+先日開催された LODGE XR Talk Vol.34 に、個人開発したWebXRアプリを出展してきました。
+この記事では実装において工夫した点をまとめます。
+
+ アプリ概要
+テーマ: AR Boombox
+
+私がこれまで作曲した曲を生きているラジカセと戯れながら聴くARアプリ。
+技術スタックと役割は以下の通りです。
+
+
+WebXR: ARセッション開始/終了処理
+
+React Three Fiber: 3Dグラフィックスやレンダリング処理
+
+GLSL: ラジカセの色調変化やアニメーション
+
+Vite: ビルドツール
+
+↓アプリURLはこちら
+https://my-mus...]]></summary>
+        <author>
+            <name>tatta_chotdog</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Houdiniへの挑戦と小さな成長を感じられた1年を振り返る2025]]></title>
         <id>https://note.com/fuji_houdini/n/nc8de1b35e7b3</id>
@@ -106,6 +136,17 @@ The post MODO（国内・海外・関連ソフト）がダウンロード終了�
 PCVR向け3Dモデリングツール「Shapelab Max 2026」がリリース！ギズモの刷新、ボクセルリメッシュの強化、新しい弾性変形ツールなど first appeared on CGinterest.]]></summary>
         <author>
             <name>.me</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[本物そっくりのロボット動物に 人の意識をホップ!? ディズニー・ピクサー映画『私がビーバーになる時』のトレーラー（英語／日本語）]]></title>
+        <id>https://3dtotal.jp/?p=52186</id>
+        <link href="https://3dtotal.jp/news/52186/"/>
+        <updated>2025-12-29T04:14:21.000Z</updated>
+        <summary type="html"><![CDATA[★Hoppers | Official Trailer（2分24秒） ★「私がビーバーになる時」次のモフモフ映画は…＜わたビバ＞（2分8秒） ディズニー＆ピクサー最新作！ もしもビーバーになって、＜動物の世界＞に潜入でき […]
+The post 本物そっくりのロボット動物に 人の意識をホップ!? ディズニー・ピクサー映画『私がビーバーになる時』のトレーラー（英語／日本語） first appeared on 3dtotal 日本語オフィシャルサイト.]]></summary>
+        <author>
+            <name>3dtotal管理人T</name>
         </author>
     </entry>
     <entry>
@@ -5622,56 +5663,6 @@ SNS見てるとなんだかすごそう、ということで早速...]]></summar
         <summary type="html"><![CDATA[Beyond Dev（Tyler Walker氏）がカメラとの相対角度に基づきシェイプキーを制御するBlenderアドオン「CamKeys v3.0」がリリースされています！]]></summary>
         <author>
             <name>Ymt3D -3dnchu-</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[隠れたオブジェクトをスキャンで表示する（URP/Render Objects）]]></title>
-        <id>https://zenn.dev/boichi/articles/ad58e85f88c5a3</id>
-        <link href="https://zenn.dev/boichi/articles/ad58e85f88c5a3"/>
-        <updated>2025-12-01T15:04:12.000Z</updated>
-        <summary type="html"><![CDATA[はじめに
-この記事は サイバーエージェント26卒内定者 Advent Calendarの2日目として投稿しています。
-2日目も投稿できるなんて光栄ですね。前世もいいことをしたのでしょう
-
- この記事でできること
-Unity URP環境で、
-最終的に以下のようなスキャン表現を実装します！
-
-（Ap○xの某キャラクターのスキルを参考にしています）
-
- この記事の対象
-基本的なUnityの操作ができることを前提としています。
-新たなプロジェクトを開いた状態からこの記事はスタートします。
-
- 作成環境
-Unity 6000.0.58f2 URP 3D
-
- まずはRender Objectsを...]]></summary>
-        <author>
-            <name>ぼいち</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🟦 Technique Guide – ArchViz向け 上品クローム（Substance 3D Painter]]></title>
-        <id>https://note.com/juntominaga/n/n90ee8d1dd9d0</id>
-        <link href="https://note.com/juntominaga/n/n90ee8d1dd9d0"/>
-        <updated>2025-12-01T13:23:14.000Z</updated>
-        <summary type="html"><![CDATA[建築ビジュアライゼーション（ArchViz）では、金属の仕上がりが作品全体の“質感の説得力”を大きく左右します。
-中でも クローム（金属脚・水回りパーツ・照明パーツ） は、“鏡のように美しいのに、上品で落ち着いた光を持つ質感” が求められる素材。
-続きをみる]]></summary>
-        <author>
-            <name>#substancepainterタグ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Blenderで使えるネオン素材70種類+大型産業構造物15種類＋地面ゴミ20種類+7時間以上のチュートリアル動画が12.36ドルと激安アセットを購入してみました]]></title>
-        <id>https://modelinghappy.com/?p=65860</id>
-        <link href="https://modelinghappy.com/archives/65860"/>
-        <updated>2025-12-01T13:16:10.000Z</updated>
-        <summary type="html"><![CDATA[Blender Beginner Workflow For Cinematic Art, 2 Tutorials (7+H) + 100 Assets ７時間越えのシネマティックシーンのチュートリアル動画に100種類のア
-The post Blenderで使えるネオン素材70種類+大型産業構造物15種類＋地面ゴミ20種類+7時間以上のチュートリアル動画が12.36ドルと激安アセットを購入してみました first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
-        <author>
-            <name>modelinghappy</name>
         </author>
     </entry>
 </feed>

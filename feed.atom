@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-01-01T12:23:16.267Z</updated>
+    <updated>2026-01-02T00:58:55.904Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
@@ -5287,129 +5287,6 @@ The post ZBrush 2026.1がリリース！Retopo Brush、ipadカメラでのフォ
 Ghosttyは、HashiCorpの共同創業者であるMitchell Hashimoto氏が開発したGPUベースのターミナルエミュレータです。macOSではMetal、LinuxではOpenGLを使用してGPUレンダリングを行っており、その特性を...]]></summary>
         <author>
             <name>FirstSS</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【Maya】ピボット位置を一軸だけエッジや頂点の位置に移動させる方法]]></title>
-        <id>https://3d.crdg.jp/env/?p=8784</id>
-        <link href="https://3d.crdg.jp/env/2025/12/03/8784/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=%25e3%2580%2590maya%25e3%2580%2591%25e3%2583%2594%25e3%2583%259c%25e3%2583%2583%25e3%2583%2588%25e4%25bd%258d%25e7%25bd%25ae%25e3%2582%2592%25e4%25b8%2580%25e8%25bb%25b8%25e3%2581%25a0%25e3%2581%2591%25e3%2582%25a8%25e3%2583%2583%25e3%2582%25b8%25e3%2582%2584%25e9%25a0%2582%25e7%2582%25b9%25e3%2581%25ae%25e4%25bd%258d"/>
-        <updated>2025-12-03T11:15:31.000Z</updated>
-        <summary type="html"><![CDATA[よく見かけるピボットの位置変更方法は、DキーかInsertキーを押してエッジや頂点、フェースを選択する方法だと思います。ただ、この方法だと選択した頂点 […]
-続きを読む
-投稿 【Maya】ピボット位置を一軸だけエッジや頂点の位置に移動させる方法 は エンホリ - ENVIRONMENT HOLIC｜C&R Creative Studios に最初に表示されました。]]></summary>
-        <author>
-            <name>Kaho.Nobukawa</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[物理演算を活用した配置ツールを搭載したBlender定番スキャッタリングアドオン Geo-Scatter 5.6]]></title>
-        <id>https://cginterest.com/?p=53583</id>
-        <link href="https://cginterest.com/2025/12/03/%e7%89%a9%e7%90%86%e6%bc%94%e7%ae%97%e3%82%92%e6%b4%bb%e7%94%a8%e3%81%97%e3%81%9f%e9%85%8d%e7%bd%ae%e3%83%84%e3%83%bc%e3%83%ab%e3%82%92%e6%90%ad%e8%bc%89%e3%81%97%e3%81%9fblender%e5%ae%9a%e7%95%aa/"/>
-        <updated>2025-12-03T09:04:56.000Z</updated>
-        <summary type="html"><![CDATA[BD3DDによるBlenderスキャッタリングアドオン Geo-Scatter の紹介です。 Geo-Scatter とは Geo-Scatter は、Blenderでの背景制作や環境構築において、もはや定番とも言える散 […]
-物理演算を活用した配置ツールを搭載したBlender定番スキャッタリングアドオン Geo-Scatter 5.6 first appeared on CGinterest.]]></summary>
-        <author>
-            <name>.me</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[新講座！短時間で"発想力 × 構図力"を鍛える！ スピードペインティング特訓講座12月18日オンライン開催 - ニュース]]></title>
-        <id>https://cgworld.jp/flashnews/2512-plusone-inei.html</id>
-        <link href="https://cgworld.jp/flashnews/2512-plusone-inei.html"/>
-        <updated>2025-12-03T07:55:46.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ゲームにおける実践的なレイマーチング ― ラスタライズ方式と併用]]></title>
-        <id>https://zenn.dev/sashi0034/articles/3f268022b4df9f</id>
-        <link href="https://zenn.dev/sashi0034/articles/3f268022b4df9f"/>
-        <updated>2025-12-03T06:04:02.000Z</updated>
-        <summary type="html"><![CDATA[KMC Advent Calender 2025 の 4 日目の記事です。
-本記事ではラスタライズ方式とレイマーチング方式を組み合わせた描画について、実際に自作エンジンでR&Dした内容を紹介します。
-ゲームのグラフィック技術についてまだまだ勉強中であり、本業の方からすれば拙い内容となっているかもしれませんが、大目に見ていただけると幸いです。
-
-
- 1. ポリゴンを用いた現代の3D描画手法
-この記事を読んでいる方であれば、「ポリゴン」という言葉を一度は耳にしたことがあるのではないでしょうか。本記事では、三角形を基本単位とする 3D 形状の構成要素をポリゴンと呼ぶことにします。現代の...]]></summary>
-        <author>
-            <name>sashi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Payload – マテリアルを一覧表示して割り当て・カテゴリ分け・使用数まで確認できる多機能Blenderアドオン]]></title>
-        <id>https://modelinghappy.com/?p=65932</id>
-        <link href="https://modelinghappy.com/archives/65932"/>
-        <updated>2025-12-03T05:18:23.000Z</updated>
-        <summary type="html"><![CDATA[Payload PayloadはBlenderで、マテリアルの割り当てや管理がしやすくなるアドオンです。 専用パネルにシーン内のすべてのマテリアルが一覧表示され、小さなプレビューアイコン付きで見やすく、さらに どのマテリ
-The post Payload – マテリアルを一覧表示して割り当て・カテゴリ分け・使用数まで確認できる多機能Blenderアドオン first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
-        <author>
-            <name>modelinghappy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[映像演出の"核"を解き明かす『映像演出論～構図とそのロジックについて～』12月17日オンライン開催 - ニュース]]></title>
-        <id>https://cgworld.jp/flashnews/2512-plusone-momose.html</id>
-        <link href="https://cgworld.jp/flashnews/2512-plusone-momose.html"/>
-        <updated>2025-12-03T04:18:50.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[彫刻や絵画など様々なアート作品を収録したBlender用3Dアートアセットライブラリ「aesthetiq」]]></title>
-        <id>https://cginterest.com/?p=53586</id>
-        <link href="https://cginterest.com/2025/12/03/%e5%bd%ab%e5%88%bb%e3%82%84%e7%b5%b5%e7%94%bb%e3%81%aa%e3%81%a9%e6%a7%98%e3%80%85%e3%81%aa%e3%82%a2%e3%83%bc%e3%83%88%e4%bd%9c%e5%93%81%e3%82%92%e5%8f%8e%e9%8c%b2%e3%81%97%e3%81%9fblender%e7%94%a83d/"/>
-        <updated>2025-12-03T03:11:00.000Z</updated>
-        <summary type="html"><![CDATA[polygoniqによるBlender用3Dアートアセットライブラリ「aesthetiq」の紹介です。 aesthetiq とは 「aesthetiq」は、建築ビジュアライゼーション（ArchViz）、環境デザイン、ゲー […]
-彫刻や絵画など様々なアート作品を収録したBlender用3Dアートアセットライブラリ「aesthetiq」 first appeared on CGinterest.]]></summary>
-        <author>
-            <name>.me</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Blenderのボリューム機能を活用したシミュレーションエフェクトパック「Procedural Volume Simulation Pack」]]></title>
-        <id>https://cginterest.com/?p=53584</id>
-        <link href="https://cginterest.com/2025/12/03/blender%e3%81%ae%e3%83%9c%e3%83%aa%e3%83%a5%e3%83%bc%e3%83%a0%e6%a9%9f%e8%83%bd%e3%82%92%e6%b4%bb%e7%94%a8%e3%81%97%e3%81%9f%e3%82%b7%e3%83%9f%e3%83%a5%e3%83%ac%e3%83%bc%e3%82%b7%e3%83%a7%e3%83%b3/"/>
-        <updated>2025-12-03T03:01:48.000Z</updated>
-        <summary type="html"><![CDATA[Blender Procedural によるアセットライブラリ「Procedural Volume Simulation Pack」の紹介です。 Procedural Volume Simulation Packとは 「 […]
-Blenderのボリューム機能を活用したシミュレーションエフェクトパック「Procedural Volume Simulation Pack」 first appeared on CGinterest.]]></summary>
-        <author>
-            <name>.me</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【無料配布】選択エッジや面から１クリックで自動ボーン生成！だっすーさんのBlenderアドオンが公開中]]></title>
-        <id>https://modelinghappy.com/?p=65927</id>
-        <link href="https://modelinghappy.com/archives/65927"/>
-        <updated>2025-12-03T01:56:46.000Z</updated>
-        <summary type="html"><![CDATA[【Blenderアドオン】エッジ/面からボーン生成 Blenderでキャラクター作成過程をアップしたり、Boothでメカ・ファンタジー・武器などを販売しているだっすーさんが、選択したエッジまたは連続面からボーンを自動生成
-The post 【無料配布】選択エッジや面から１クリックで自動ボーン生成！だっすーさんのBlenderアドオンが公開中 first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
-        <author>
-            <name>modelinghappy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Flow Studio 学生版（無償） 提供開始]]></title>
-        <id>https://area.autodesk.jp/information/flow-studio-education/</id>
-        <link href="https://area.autodesk.jp/information/flow-studio-education/"/>
-        <updated>2025-12-03T01:38:33.000Z</updated>
-        <summary type="html"><![CDATA[学生・教員の皆さまを対象に、Flow Studio および Golaem の学生版（無償）の提供を開始いたしました。プロダクションでも使用されているツールを、学習環境にて自由にご活用いただけます。・・・]]></summary>
-        <author>
-            <name>AREA JAPAN | Autodesk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mayaにおける魅惑のプロップリグ～モジュラーリギングシステムの基本と応用～ 第6回：リグモジュールの開発とセットアップ その5〜永遠に終わりが来ない廊下〜]]></title>
-        <id>https://area.autodesk.jp/column/tutorial/prop-rig/06-rig-module-dev-setup-5/</id>
-        <link href="https://area.autodesk.jp/column/tutorial/prop-rig/06-rig-module-dev-setup-5/"/>
-        <updated>2025-12-03T01:30:00.000Z</updated>
-        <summary type="html"><![CDATA[今回は新しい題材でセットアップをやってみようかと思います。さて、今回の題材はこちらです。長そうでそんなに長くない廊下ですね。そんなに長くないので、廊下を誰かに走ってもらうとすぐに終わりが来てしまいます。なので永遠に終わりが来ない廊下を作ってみようと思います。・・・]]></summary>
-        <author>
-            <name>AREA JAPAN | Autodesk</name>
         </author>
     </entry>
 </feed>

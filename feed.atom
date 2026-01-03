@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-01-03T00:55:32.044Z</updated>
+    <updated>2026-01-03T03:50:32.274Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Udemy新年セール開催中！Blender・Maya・Unreal・Unity講座が1,300円～【2026年1月10日まで】]]></title>
+        <id>https://modelinghappy.com/?p=66435</id>
+        <link href="https://modelinghappy.com/archives/66435"/>
+        <updated>2026-01-03T03:02:23.000Z</updated>
+        <summary type="html"><![CDATA[Udemy 新年のビッグセール開催中！ Blender、Maya、ZBrush、Unreal Engine、Unityなどの人気3DCGソフトを学べるUdemyのチュートリアル講座が、2026年1月10日まで1,300円
+The post Udemy新年セール開催中！Blender・Maya・Unreal・Unity講座が1,300円～【2026年1月10日まで】 first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
+        <author>
+            <name>modelinghappy</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[NVIDIA Mental Rayのシーン記述言語]]></title>
         <id>https://qiita.com/yokamak/items/94e6b8c2b2ce941033f3</id>
@@ -5162,36 +5173,6 @@ import hounode: hou.SopNode = hou.pwd()geo: hou.Geometry = node.geometry()
 続きをみる]]></summary>
         <author>
             <name>#Houdiniタグ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[For-Each で 形状変化を全部並べて比較したい！]]></title>
-        <id>https://zenn.dev/unpyside/articles/e53908873c69f0</id>
-        <link href="https://zenn.dev/unpyside/articles/e53908873c69f0"/>
-        <updated>2025-12-04T15:00:02.000Z</updated>
-        <summary type="html"><![CDATA[この記事はHoudiniアドベントカレンダー2025　5日目の記事です。
-
-
-Houdiniを触っているとき、いろいろなノードを触ると思います。boxのようなプリミティブなものからswitchのような機能的なもの・・・
-そういったノードの中で形状の変化を与えるようなノードがあります。
-
-例えば、mountainノードなんかはよく使われる形状の変化を与えるようなノードの一つだと思います。
-こういった形状を変化するノードを使うときどんな見た目になるか視覚的に見たいとき、比較したいときってありますよね？
-今回はその形状を比較する方法を紹介しようと思います。
-考え方はいたって簡単で変化の種類の数...]]></summary>
-        <author>
-            <name>unpyside</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[絵画のような木々の作成が簡単に！Blender用NPRツールキット「ShapeScape: Trees & Flora」]]></title>
-        <id>https://cginterest.com/?p=53684</id>
-        <link href="https://cginterest.com/2025/12/04/%e7%b5%b5%e7%94%bb%e3%81%ae%e3%82%88%e3%81%86%e3%81%aa%e6%9c%a8%e3%80%85%e3%81%ae%e4%bd%9c%e6%88%90%e3%81%8c%e7%b0%a1%e5%8d%98%e3%81%ab%ef%bc%81blender%e7%94%a8npr%e3%83%84%e3%83%bc%e3%83%ab%e3%82%ad/"/>
-        <updated>2025-12-04T01:19:00.000Z</updated>
-        <summary type="html"><![CDATA[Tradigital3D（Alan Wyatt氏）による「ShapeScape: Trees & Flora」の紹介です。 ShapeScape: Trees & Flora とは 「ShapeScape […]
-絵画のような木々の作成が簡単に！Blender用NPRツールキット「ShapeScape: Trees & Flora」 first appeared on CGinterest.]]></summary>
-        <author>
-            <name>.me</name>
         </author>
     </entry>
 </feed>

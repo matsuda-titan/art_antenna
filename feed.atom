@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-01-03T12:21:10.943Z</updated>
+    <updated>2026-01-04T01:04:50.914Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[オープンソースの高速な動画生成AIモデル「TurboDiffusion」公開！ 単一のRTX 5090で従来技術比100～205倍高速 - ニュース]]></title>
+        <id>https://cgworld.jp/flashnews/01-202601-TurboDiffusion.html</id>
+        <link href="https://cgworld.jp/flashnews/01-202601-TurboDiffusion.html"/>
+        <updated>2026-01-04T00:10:06.000Z</updated>
+        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Apple、単一画像から高品質な3DGSを生成する技術「SHARP」公開！ 一般的GPU環境で高速3Dシーン構築可能 - ニュース]]></title>
         <id>https://cgworld.jp/flashnews/01-202601-SHARP.html</id>
@@ -4942,178 +4952,6 @@ smoothを掛けると思ってた形状と違った感じになってしま...]]
 今回はシンプルに Lookup Table (LUT) (もしくはLookup Textureといったりする) を使って...]]></summary>
         <author>
             <name>HLSLタグが付けられた新着記事 - Qiita</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[パース歪みをShaderGraphでやってみた]]></title>
-        <id>https://zenn.dev/sasanuki/articles/00d52d4d625e60</id>
-        <link href="https://zenn.dev/sasanuki/articles/00d52d4d625e60"/>
-        <updated>2025-12-05T11:59:21.000Z</updated>
-        <summary type="html"><![CDATA[Unity6.3LTSが発表されたので
-https://unity.com/ja/blog/unity-6-3-lts-is-now-available
-そして以前から注目していた、こちらを元に実践してみました。
-https://www.youtube.com/shorts/3syhDWqyMCs
-何も難しいことは無く素直に組めば良さそうです。
-
-
- どんな感じになるか
-良い感じです。
-
-テーブルの天板は形状が単純ですがもし真面目に考えるなら、どんな風にパースが歪むか少し考えながらメッシュを割る必要がありそうです。
-※こちらは天板のメッシュ
-
-
- 参考
-Custom Interpol...]]></summary>
-        <author>
-            <name>sasanuki</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[UEの最新情報や活用事例を紹介。イベント「Unreal Fest Tokyo 2025」の講演映像]]></title>
-        <id>https://3dtotal.jp/?p=53960</id>
-        <link href="https://3dtotal.jp/news/53960/"/>
-        <updated>2025-12-05T09:44:24.000Z</updated>
-        <summary type="html"><![CDATA[Unreal Engine の最新情報や活用事例を紹介。イベント「Unreal Fest Tokyo 2025」(開催：11/14-15 高輪ゲートウェイ)の講演映像。 　 ★基調講演（25分14秒/ 講演者：Tim S […]
-The post UEの最新情報や活用事例を紹介。イベント「Unreal Fest Tokyo 2025」の講演映像 first appeared on 3dtotal 日本語オフィシャルサイト.]]></summary>
-        <author>
-            <name>3dtotal管理人T</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Redshift 2026.2 がリリース！分割不要のテクスチャディスプレイスメントの追加など]]></title>
-        <id>https://cginterest.com/?p=53744</id>
-        <link href="https://cginterest.com/2025/12/05/redshift-2026-2-%e3%81%8c%e3%83%aa%e3%83%aa%e3%83%bc%e3%82%b9%ef%bc%81%e5%88%86%e5%89%b2%e4%b8%8d%e8%a6%81%e3%81%ae%e3%83%86%e3%82%af%e3%82%b9%e3%83%81%e3%83%a3%e3%83%87%e3%82%a3%e3%82%b9%e3%83%97/"/>
-        <updated>2025-12-05T08:56:00.000Z</updated>
-        <summary type="html"><![CDATA[2025年12月3日（現地時間）- Maxon は、同社の製品群の最新アップデートを発表しました。今回のアップデートには、Cinema4D、Redshift 、ZBrush、Redgiantが含まれています。 ここでは  […]
-Redshift 2026.2 がリリース！分割不要のテクスチャディスプレイスメントの追加など first appeared on CGinterest.]]></summary>
-        <author>
-            <name>.me</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cinema 4D 2026.1 がリリース！MoGraphの強化、新しい流体エミッターの追加など]]></title>
-        <id>https://cginterest.com/?p=53703</id>
-        <link href="https://cginterest.com/2025/12/05/cinema-4d-2026-1-%e3%81%8c%e3%83%aa%e3%83%aa%e3%83%bc%e3%82%b9%ef%bc%81mograph%e3%81%ae%e5%bc%b7%e5%8c%96%e3%80%81%e6%96%b0%e3%81%97%e3%81%84%e6%b5%81%e4%bd%93%e3%82%a8%e3%83%9f%e3%83%83%e3%82%bf/"/>
-        <updated>2025-12-05T08:46:17.000Z</updated>
-        <summary type="html"><![CDATA[2025年12月3日（現地時間）- Maxon は、同社の製品群の最新アップデートを発表しました。今回のアップデートには、Cinema4D、Redshift 、ZBrush、Redgiantが含まれています。 ここでは  […]
-Cinema 4D 2026.1 がリリース！MoGraphの強化、新しい流体エミッターの追加など first appeared on CGinterest.]]></summary>
-        <author>
-            <name>.me</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Red Giant 2026.2がリリース！プラグインを一箇所で効率的に管理できる「プラグインページ」が追加]]></title>
-        <id>https://cginterest.com/?p=53764</id>
-        <link href="https://cginterest.com/2025/12/05/red-giant-2026-2%e3%81%8c%e3%83%aa%e3%83%aa%e3%83%bc%e3%82%b9%ef%bc%81%e3%83%97%e3%83%a9%e3%82%b0%e3%82%a4%e3%83%b3%e3%82%92%e4%b8%80%e7%ae%87%e6%89%80%e3%81%a7%e5%8a%b9%e7%8e%87%e7%9a%84%e3%81%ab/"/>
-        <updated>2025-12-05T08:43:35.000Z</updated>
-        <summary type="html"><![CDATA[2025年12月3日（現地時間）- Maxon は、同社の製品群の最新アップデートを発表しました。今回のアップデートには、Cinema4D、Redshift 、ZBrush、RedGiantが含まれています。 ここでは  […]
-Red Giant 2026.2がリリース！プラグインを一箇所で効率的に管理できる「プラグインページ」が追加 first appeared on CGinterest.]]></summary>
-        <author>
-            <name>.me</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[12/18（木）「MAXON PARTY '25 Xmas」開催 海外アーティスト集結！世界基準の発想とスキルに出会うスペシャルイベント【参加無料】 - ニュース]]></title>
-        <id>https://cgworld.jp/flashnews/02-2512-maxon-party.html</id>
-        <link href="https://cgworld.jp/flashnews/02-2512-maxon-party.html"/>
-        <updated>2025-12-05T07:45:00.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Unreal Fest Tokyo 2025 Videos - 2025年11月14・15日に高輪ゲートウェイで開催されたUnreal Festの講演映像が一挙公開！]]></title>
-        <id>https://3dnchu.com/?p=1060389</id>
-        <link href="https://3dnchu.com/archives/unreal-fest-tokyo-2025-videos/"/>
-        <updated>2025-12-05T06:29:43.000Z</updated>
-        <summary type="html"><![CDATA[2025年11月14・15日に東京・高輪ゲートウェイにて2日間にわたり開催された「Unreal Fest Tokyo 2025」の講演映像がYoutubeチャンネルに一挙公開されました！]]></summary>
-        <author>
-            <name>Ymt3D -3dnchu-</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[武右ェ門のオリジナル短編アニメ『星の子どもとはじまりの樹』、絵本調のルックに込めたメッセージ～あにつく2025（1） - 特集]]></title>
-        <id>https://cgworld.jp/article/2510-atsuc-buemon.html</id>
-        <link href="https://cgworld.jp/article/2510-atsuc-buemon.html"/>
-        <updated>2025-12-05T06:00:02.000Z</updated>
-        <summary type="html"><![CDATA[「あにつく2025」から武右ェ門による「オリジナル短編アニメ『星の子どもとはじまりの樹』に込めた企画と世界観のつくり方」の内容を紹介する。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ギレルモ・デル・トロ監督が新たな視点で映像化。映画『フランケンシュタイン』のメイキング映像]]></title>
-        <id>https://3dtotal.jp/?p=53948</id>
-        <link href="https://3dtotal.jp/news/53948/"/>
-        <updated>2025-12-05T02:57:11.000Z</updated>
-        <summary type="html"><![CDATA[★Behind the VFX of Frankenstein with Guillermo del Toro | Netflix（5分16秒） 脚本・監督の ギレルモ・デル・トロ と VFXスーパーバイザー デニース・ […]
-The post ギレルモ・デル・トロ監督が新たな視点で映像化。映画『フランケンシュタイン』のメイキング映像 first appeared on 3dtotal 日本語オフィシャルサイト.]]></summary>
-        <author>
-            <name>3dtotal管理人T</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【12/20 リアル開催】3Dキャラモデラー/アートディレクター向けイベント参加者募集！　豪華ゲストによる座談会『FINAL FANTASY VII EVER CRISIS』1周年制作秘話 ほか - ニュース]]></title>
-        <id>https://cgworld.jp/flashnews/01-202512-CyberAgent.html</id>
-        <link href="https://cgworld.jp/flashnews/01-202512-CyberAgent.html"/>
-        <updated>2025-12-05T02:30:00.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【無料アドオン】Surface Diagnostics – サーフェスの診断ツール！]]></title>
-        <id>https://cgbox.jp/?p=64781</id>
-        <link href="https://cgbox.jp/2025/12/05/news-addon-surface-diagnostics/"/>
-        <updated>2025-12-05T02:26:11.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは！ 今回はアドオンの「Surface Diagnostics」を紹介します。 こちらのリンクがアドオンの商品ページになります。 Surface Diagnostics 「Surface Diagnostics」 […]]]></summary>
-        <author>
-            <name>kasahara</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[伝説の超大型ドラゴン、レッド・デス：映画『ヒックとドラゴン』のメイキング映像]]></title>
-        <id>https://3dtotal.jp/?p=53942</id>
-        <link href="https://3dtotal.jp/news/53942/"/>
-        <updated>2025-12-05T02:25:09.000Z</updated>
-        <summary type="html"><![CDATA[★How to Train Your Dragon| Unleashing the Red Death | Framestore（4分22秒） あらゆる壮大な冒険には、立ち向かうべき巨大で凶悪な敵が必要です。そして、伝説 […]
-The post 伝説の超大型ドラゴン、レッド・デス：映画『ヒックとドラゴン』のメイキング映像 first appeared on 3dtotal 日本語オフィシャルサイト.]]></summary>
-        <author>
-            <name>3dtotal管理人T</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3Dペイント＆テクスチャリングツール Mari 7.5 の新機能紹介ムービー]]></title>
-        <id>https://3dtotal.jp/?p=53934</id>
-        <link href="https://3dtotal.jp/news/53934/"/>
-        <updated>2025-12-05T01:24:26.000Z</updated>
-        <summary type="html"><![CDATA[★Mari 7.5 | Overview（2分52秒） Mari 7.5 が登場。最も要望の多かった機能「マルチペイント」を搭載しました。 単一のマルチチャンネルペイントノードから最大8ストリームまでペイント可能に。クロ […]
-The post 3Dペイント＆テクスチャリングツール Mari 7.5 の新機能紹介ムービー first appeared on 3dtotal 日本語オフィシャルサイト.]]></summary>
-        <author>
-            <name>3dtotal管理人T</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Shapelab Max 2026 - VR＆デスクトップ対応の3Dスカルプトツール！次期アップデート内容が紹介されたトレーラーが公開！2025年12月9日にリリース予定！]]></title>
-        <id>https://3dnchu.com/?p=1060360</id>
-        <link href="https://3dnchu.com/archives/shapelab-max-2026/"/>
-        <updated>2025-12-05T00:37:06.000Z</updated>
-        <summary type="html"><![CDATA[LeopolyによるVR対応の3Dスカルプト・デザインアプリケーション「ShapeLab」の次期アップデートスニークピーク映像「Shapelab Max 2026」が公開！]]></summary>
-        <author>
-            <name>Ymt3D -3dnchu-</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Unity 6.3 LTS - ローレベル2D物理API！パフォーマンスと安定性の向上！地形シェーダー！Switch2対応！長期サポートリリース！]]></title>
-        <id>https://3dnchu.com/?p=1060377</id>
-        <link href="https://3dnchu.com/archives/unity-6-3-lts/"/>
-        <updated>2025-12-05T00:25:47.000Z</updated>
-        <summary type="html"><![CDATA[2025年12月3日（現地時間）Unity Technologiesはコンテンツ開発エンジンの最新LTS（長期サポート）バージョンである「Unity 6.3」をリリースしました！]]></summary>
-        <author>
-            <name>Ymt3D -3dnchu-</name>
         </author>
     </entry>
 </feed>

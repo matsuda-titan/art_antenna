@@ -325,21 +325,6 @@
           "wordCount": 3707,
           "title": "【最大35%OFF】XPPENクリスマスキャンペーン開催！対象商品まとめ！",
           "imageUrl": "https://cgbox.jp/wp-content/uploads/2025/12/37fbb4c152417abd684d5bea91c9a022.jpg"
-        },
-        {
-          "id": "https://cgbox.jp/?p=64785",
-          "author": "kasahara",
-          "description": "こんばんは！ 今回はアドオンの「Bone Widget」を紹介します。 こちらのリンクがアドオンの商品ページになります。 Bone Widget 「Bone Widget」は、カスタムボーンシェイプの作成・管理を効率化す […]",
-          "link": "https://cgbox.jp/2025/12/06/news-addon-bone-widget/",
-          "publishedOn": "2025-12-06T02:40:34.000Z",
-          "wordCount": 2455,
-          "title": "【無料アドオン】Bone Widget – ボーン表示をカスタムできるアドオン",
-          "enclosure": {
-            "url": "https://cgbox.jp/wp-content/uploads/2025/12/f9b2a8e1c23851b03cfff8bc36616090.mp4",
-            "length": "0",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://cgbox.jp/wp-content/uploads/2025/12/da9412f854ee155f45694ddd38197332055ee580a8c9b4e1e603fe61b56ef42e_640x360.webp"
         }
       ]
     },
@@ -877,6 +862,26 @@
       "feedUrl": "https://cgworld.jp/atom.xml",
       "siteUrl": "https://cgworld.jp/",
       "articles": [
+        {
+          "id": "https://cgworld.jp/regular/202601-pga-030.html",
+          "author": null,
+          "description": "",
+          "link": "https://cgworld.jp/regular/202601-pga-030.html",
+          "publishedOn": "2026-01-05T00:00:00.000Z",
+          "wordCount": 810,
+          "title": "vol.030： 干支 ～午～ / 「集い、組み合わせる」 - 連載",
+          "imageUrl": "https://cgworld.jp/regular/assets_c/2025/12/20251212_plusga_main-thumb-1920x1080-77460.jpg"
+        },
+        {
+          "id": "https://cgworld.jp/flashnews/01-202601-HYWorld15.html",
+          "author": null,
+          "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
+          "link": "https://cgworld.jp/flashnews/01-202601-HYWorld15.html",
+          "publishedOn": "2026-01-04T22:47:08.000Z",
+          "wordCount": 864,
+          "title": "オープンソースのリアルタイム世界モデル「HY World 1.5（WorldPlay）」リリース！ 720P・24fps、一人称と三人称の両視点をサポート - ニュース",
+          "imageUrl": "https://cgworld.jp/flashnews/assets_c/2026/01/HYWorld15-01-thumb-1920x1080-78234.jpg"
+        },
         {
           "id": "https://cgworld.jp/flashnews/01-202601-TurboDiffusion.html",
           "author": null,
@@ -1702,7 +1707,18 @@
       "title": "SPARK CREATIVE Tech Blog",
       "feedUrl": "https://tech.spark-creative.co.jp/feed",
       "siteUrl": "https://tech.spark-creative.co.jp/",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://tech.spark-creative.co.jp/entry/2026/01/05/091531",
+          "author": null,
+          "description": "はじめに こんにちは。株式会社スパーククリエイティブCTOの広本です。 普段は SPARK GEARの開発をしたり、UEでエンジンの改造をしたり、Unityでレンダラーや揺れもの物理を作ったりしています。 先日「0から始める流体シミュレーション」という内容で社内勉強会に参加しました。 80ページ以上の資料を作ったのですがせっかくなのでブログにも残しておこうと思います。 今回作成した流体シミュレーションです。 流体シミュレーションにおいて、計算そのものの精度（ナビエ・ストークス方程式の解法など）はもちろん重要ですが、最終的なアウトプットの質を左右するのはやはり描画技術です。 本記事では、ボリュー…",
+          "link": "https://tech.spark-creative.co.jp/entry/2026/01/05/091531",
+          "publishedOn": "2026-01-05T00:15:31.000Z",
+          "wordCount": 1066,
+          "title": "流体シミュレーションを実装してみたい その１（レンダリング編）",
+          "imageUrl": "https://cdn.image.st-hatena.com/image/scale/58dce5a13402b2121fe36225dcbd47eb9f2af312/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fs%2Fsparkcreative%2F20251231%2F20251231144035.gif"
+        }
+      ]
     },
     {
       "title": "3DCG最新情報サイト MODELING HAPPY",
@@ -2544,7 +2560,23 @@
       "title": "Zennの「graphics」のフィード",
       "feedUrl": "https://zenn.dev/topics/graphics/feed",
       "siteUrl": "https://zenn.dev/topics/graphics",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://zenn.dev/shika_gfx/articles/shika-soft-rend",
+          "author": "Shika-gfx",
+          "description": "はじめに : 真っ黒なコンソール画面と、グラフィックスへの渇望\n私は現在、韓国で兵役の義務を遂行中の現役軍人です。\n目前には、簡単なウェブサーフィン、ネット講義用として支給された共用PCがあります。\nしかし、私はこのPCで派手な3Dグラフィックスを画面に表示させることはできません。\n軍隊の厳格なセキュリティシステムが、未知のプログラムによる 「ウィンドウ生成（Window Creation）」や 「ドライバへのアクセス」を完全に遮断しているからです。\nこの記事は、色んな制約を越え、C++の標準ライブラリ（STL）だけでグラフィックス数学ライブラリとソフトウェアレンダラーをゼロから実装...",
+          "link": "https://zenn.dev/shika_gfx/articles/shika-soft-rend",
+          "publishedOn": "2026-01-04T01:23:51.000Z",
+          "wordCount": 1391,
+          "title": "韓国軍のPCで「ソフトウェアレンダリング」してみた",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--STfiOify--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E9%259F%2593%25E5%259B%25BD%25E8%25BB%258D%25E3%2581%25AEPC%25E3%2581%25A7%25E3%2580%258C%25E3%2582%25BD%25E3%2583%2595%25E3%2583%2588%25E3%2582%25A6%25E3%2582%25A7%25E3%2582%25A2%25E3%2583%25AC%25E3%2583%25B3%25E3%2583%2580%25E3%2583%25AA%25E3%2583%25B3%25E3%2582%25B0%25E3%2580%258D%25E3%2581%2597%25E3%2581%25A6%25E3%2581%25BF%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Shika-gfx%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jSVBFOHQ5ejk0Ym1aQjctd1NOYUZRM3ZibXRTV3NHS2hjdUlGcURTRF8tN09LNHNoWT1zMjUwLWM=%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
+            "length": "0",
+            "type": "false"
+          },
+          "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--STfiOify--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E9%259F%2593%25E5%259B%25BD%25E8%25BB%258D%25E3%2581%25AEPC%25E3%2581%25A7%25E3%2580%258C%25E3%2582%25BD%25E3%2583%2595%25E3%2583%2588%25E3%2582%25A6%25E3%2582%25A7%25E3%2582%25A2%25E3%2583%25AC%25E3%2583%25B3%25E3%2583%2580%25E3%2583%25AA%25E3%2583%25B3%25E3%2582%25B0%25E3%2580%258D%25E3%2581%2597%25E3%2581%25A6%25E3%2581%25BF%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Shika-gfx%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jSVBFOHQ5ejk0Ym1aQjctd1NOYUZRM3ZibXRTV3NHS2hjdUlGcURTRF8tN09LNHNoWT1zMjUwLWM=%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"
+        }
+      ]
     },
     {
       "title": "Zennの「Shader Graph」のフィード",
@@ -2586,21 +2618,6 @@
             "type": "false"
           },
           "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--8gOwF0NF--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Houdini%253A%2520%25E3%2583%2591%25E3%2583%25BC%25E3%2583%2586%25E3%2582%25A3%25E3%2582%25AF%25E3%2583%25AB%25E3%2582%25B3%25E3%2583%25B3%25E3%2583%2588%25E3%2583%25AD%25E3%2583%25BC%25E3%2583%25AB%25E5%259F%25BA%25E7%25A4%258E%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2582%2581%25E3%2582%2593%25E3%2581%259F%25E3%2581%2584%25E3%2581%2593%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2pvTlNrRXEtOVdEUlNaa2dKcFBxeFlFZGpZTm5TcGl3SzFUeXZOPXMyNTAtYw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"
-        },
-        {
-          "id": "https://zenn.dev/kickbase/articles/f2df6619636774",
-          "author": "めんたいこ",
-          "description": "もうアドベントカレンダーの季節とか嘘でしょう…？\n気を取り直して皆さんいかがお過ごしでしょう。僕は今年もHoudini三昧の毎日でした。\n今回は無限ループ・リキッドアニメーションと題して、下から上へ湧き上がり、小さくなって消えていく無限ループのリキッドアニメーションを作成する方法について解説します。\nまたこのシーンは僕が運営しているHoudiniゆるゆる会という勉強会で発表したシーンを簡略化したものです。本勉強会にご興味がある方は以下勉強会のモットーをご確認の上Xで@めんたいこまでご連絡ください。皆さんの参加をお待ちしています。\nHoudiniゆるゆる会 - connpass\n本記事は...",
-          "link": "https://zenn.dev/kickbase/articles/f2df6619636774",
-          "publishedOn": "2025-12-06T02:00:05.000Z",
-          "wordCount": 2020,
-          "title": "Houdini: 無限ループ・リキッドアニメーション",
-          "enclosure": {
-            "url": "https://res.cloudinary.com/zenn/image/upload/s--3cyAp8ZF--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Houdini%253A%2520%25E7%2584%25A1%25E9%2599%2590%25E3%2583%25AB%25E3%2583%25BC%25E3%2583%2597%25E3%2583%25BB%25E3%2583%25AA%25E3%2582%25AD%25E3%2583%2583%25E3%2583%2589%25E3%2582%25A2%25E3%2583%258B%25E3%2583%25A1%25E3%2583%25BC%25E3%2582%25B7%25E3%2583%25A7%25E3%2583%25B3%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2582%2581%25E3%2582%2593%25E3%2581%259F%25E3%2581%2584%25E3%2581%2593%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2pvTlNrRXEtOVdEUlNaa2dKcFBxeFlFZGpZTm5TcGl3SzFUeXZOPXMyNTAtYw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
-            "length": "0",
-            "type": "false"
-          },
-          "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--3cyAp8ZF--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Houdini%253A%2520%25E7%2584%25A1%25E9%2599%2590%25E3%2583%25AB%25E3%2583%25BC%25E3%2583%2597%25E3%2583%25BB%25E3%2583%25AA%25E3%2582%25AD%25E3%2583%2583%25E3%2583%2589%25E3%2582%25A2%25E3%2583%258B%25E3%2583%25A1%25E3%2583%25BC%25E3%2582%25B7%25E3%2583%25A7%25E3%2583%25B3%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2582%2581%25E3%2582%2593%25E3%2581%259F%25E3%2581%2584%25E3%2581%2593%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2pvTlNrRXEtOVdEUlNaa2dKcFBxeFlFZGpZTm5TcGl3SzFUeXZOPXMyNTAtYw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"
         }
       ]
     },
@@ -3315,26 +3332,6 @@
           "wordCount": 2817,
           "title": "[Unity 6] RenderGraphで実装するBayer Matrix ディザリング【URPポストプロセス】",
           "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Fadvent-calendar-ogp-background-7940cd1c8db80a7ec40711d90f43539e.jpg%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRmF2YXRhcnMxLmdpdGh1YnVzZXJjb250ZW50LmNvbSUyRnUlMkYzMjk1NDA0OCUzRnYlM0Q0P2l4bGliPXJiLTQuMC4wJmFyPTElM0ExJmZpdD1jcm9wJm1hc2s9ZWxsaXBzZSZiZz1GRkZGRkYmZm09cG5nMzImcz1kNzI5M2NiOGIyMDc1OThiMjlmOThkNzJlNmZiYzA3ZA%26blend-x%3D120%26blend-y%3D462%26blend-w%3D90%26blend-h%3D90%26blend-mode%3Dnormal%26mark64%3DaHR0cHM6Ly9xaWl0YS1vcmdhbml6YXRpb24taW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1vcmdhbml6YXRpb24taW1hZ2UlMkY4OTc2MjMzMGNkM2FkNGM1NzBlMjk1YzU4ZDMxYWU4MWM5YWNjNDU2JTJGb3JpZ2luYWwuanBnJTNGMTU3NTg1OTgwMj9peGxpYj1yYi00LjAuMCZ3PTQ0Jmg9NDQmZml0PWNyb3AmbWFzaz1jb3JuZXJzJmNvcm5lci1yYWRpdXM9OCZiZz1GRkZGRkYmYm9yZGVyPTIlMkNGRkZGRkYmZm09cG5nMzImcz0wNjYwY2JhMWI3MmZmZTlhMWQ2ZTdkNmFjNWQ4NTVhOQ%26mark-x%3D186%26mark-y%3D515%26mark-w%3D40%26mark-h%3D40%26s%3D7fdafb13988d42bfa42c263d2cf2e0f4?ixlib=rb-4.0.0&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9JTVCVW5pdHklMjA2JTVEJTIwUmVuZGVyR3JhcGglRTMlODElQTclRTUlQUUlOUYlRTglQTMlODUlRTMlODElOTklRTMlODIlOEJCYXllciUyME1hdHJpeCUyMCVFMyU4MyU4NyVFMyU4MiVBMyVFMyU4MiVCNiVFMyU4MyVBQSVFMyU4MyVCMyVFMyU4MiVCMCVFMyU4MCU5MFVSUCVFMyU4MyU5RCVFMyU4MiVCOSVFMyU4MyU4OCVFMyU4MyU5NyVFMyU4MyVBRCVFMyU4MiVCQiVFMyU4MiVCOSVFMyU4MCU5MSZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZ0eHQtY29sb3I9JTIzM0EzQzNDJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnR4dC1wYWQ9MCZzPWQxNTUyNGE4YzBjYTg1ODcxZjE4OTBmZGM2YzYwOWZk&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBLZWljaGlNaXp1dGFuaSZ0eHQtY29sb3I9JTIzM0EzQzNDJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPWQwOGU2ZTRiN2RmNTMyZmE5OTc0YmZhYWI5ZmZhMWQz&blend-x=242&blend-y=454&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&txt64=44K144Og44K244OD44OX&txt-x=242&txt-y=539&txt-width=838&txt-clip=end%2Cellipsis&txt-color=%233A3C3C&txt-font=Hiragino%20Sans%20W6&txt-size=28&s=2f975cbd051944b1503294cb76a34c6f"
-        },
-        {
-          "id": "https://qiita.com/hextomino/items/133e5397bafa0448fd18",
-          "author": null,
-          "description": "レイトレをGPU実装するのは、再帰処理できない場合、大変。再帰的処理をコードで展開する必要があるから。\nそれに比べて、パストレをGPU実装するのは、楽である。確率で処理するので、上記の心配がない。ただし、確立計算に伴うノイズが絶対に生じる。デノイズ必須。\n\nこのGPUパスト...",
-          "link": "https://qiita.com/hextomino/items/133e5397bafa0448fd18",
-          "publishedOn": "2025-12-06T07:25:39.000Z",
-          "wordCount": 6180,
-          "title": "GPUのパストレはやっぱり速くてよい",
-          "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnFpaXRhLWltYWdlLXN0b3JlLnMzLmFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkYwJTJGNTEwMjU3JTJGcHJvZmlsZS1pbWFnZXMlMkYxNzA5NTg5OTA0P2l4bGliPXJiLTQuMC4wJmFyPTElM0ExJmZpdD1jcm9wJm1hc2s9ZWxsaXBzZSZiZz1GRkZGRkYmZm09cG5nMzImcz1kNTJiYjA4OTMzM2M4NzNhOTYyNzc0NmZhOWU4NzYxNw%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D391c02f1169debba7ba7402a11c55c27?ixlib=rb-4.0.0&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9R1BVJUUzJTgxJUFFJUUzJTgzJTkxJUUzJTgyJUI5JUUzJTgzJTg4JUUzJTgzJUFDJUUzJTgxJUFGJUUzJTgyJTg0JUUzJTgxJUEzJUUzJTgxJUIxJUUzJTgyJThBJUU5JTgwJTlGJUUzJTgxJThGJUUzJTgxJUE2JUUzJTgyJTg4JUUzJTgxJTg0JnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9NGNmZTU0ZDVmMTcyOTI4N2E1Y2E5MTk2N2ZhNmM0YTQ&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBoZXh0b21pbm8mdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz0wYmZhNzUxNjYyMDg1OGRhNWI5YWQwODAwOTQxYTMyYw&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=12e0f12b36ecb1e3df3f47e8fc6443ac"
-        },
-        {
-          "id": "https://qiita.com/hextomino/items/37f3f25f847088d2b2b5",
-          "author": null,
-          "description": "シェーダでの実装は高速ですが、\n再帰が使えないので、\nとくにガラス素材は苦手\n\nraytrace.pde\nPShader RTShader;\n\nvoid setup() {\n  pixelDensity(1);\n  size(512, 512, P2D);   // P2...",
-          "link": "https://qiita.com/hextomino/items/37f3f25f847088d2b2b5",
-          "publishedOn": "2025-12-06T03:52:08.000Z",
-          "wordCount": 4422,
-          "title": "レイトレーシング GLSL",
-          "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnFpaXRhLWltYWdlLXN0b3JlLnMzLmFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkYwJTJGNTEwMjU3JTJGcHJvZmlsZS1pbWFnZXMlMkYxNzA5NTg5OTA0P2l4bGliPXJiLTQuMC4wJmFyPTElM0ExJmZpdD1jcm9wJm1hc2s9ZWxsaXBzZSZiZz1GRkZGRkYmZm09cG5nMzImcz1kNTJiYjA4OTMzM2M4NzNhOTYyNzc0NmZhOWU4NzYxNw%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D391c02f1169debba7ba7402a11c55c27?ixlib=rb-4.0.0&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9JUUzJTgzJUFDJUUzJTgyJUE0JUUzJTgzJTg4JUUzJTgzJUFDJUUzJTgzJUJDJUUzJTgyJUI3JUUzJTgzJUIzJUUzJTgyJUIwJTIwR0xTTCZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnR4dC1wYWQ9MCZzPTBmODE1NmJiMjMwYTU4ZjhiMGRlZDY5YTkyZTI3NTRk&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBoZXh0b21pbm8mdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz0wYmZhNzUxNjYyMDg1OGRhNWI5YWQwODAwOTQxYTMyYw&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=59e05efc611678291d63505905bba37a"
         }
       ]
     },
@@ -3573,26 +3570,6 @@
           "wordCount": 7917,
           "title": "Godotで「水」を作ってみる",
           "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Fadvent-calendar-ogp-background-7940cd1c8db80a7ec40711d90f43539e.jpg%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRmF2YXRhcnMuZ2l0aHVidXNlcmNvbnRlbnQuY29tJTJGdSUyRjU2ODU3MzY3JTNGdiUzRDQ_aXhsaWI9cmItNC4wLjAmYXI9MSUzQTEmZml0PWNyb3AmbWFzaz1lbGxpcHNlJmJnPUZGRkZGRiZmbT1wbmczMiZzPWVhZWVjZTU0Yzk4ZGYzNzhhN2E0MzE0YTA2NTVlNmMz%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D5d5a74f691427da01edd35ce9f3d1385?ixlib=rb-4.0.0&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9R29kb3QlRTMlODElQTclRTMlODAlOEMlRTYlQjAlQjQlRTMlODAlOEQlRTMlODIlOTIlRTQlQkQlOUMlRTMlODElQTMlRTMlODElQTYlRTMlODElQkYlRTMlODIlOEImdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzNBM0MzQyZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz0xOGQzOGU2NTk3N2ZmYWYxYTRkZTA0MjU4YmQ1YTBhNg&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBUQmp1c3RpY2UmdHh0LWNvbG9yPSUyMzNBM0MzQyZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz0yNGJhMDZmYTYzNzJiNDQ5NGFlNjQwNjJiYjBjYjQ3MA&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=32811fa864e045c13b4453efff6cfc47"
-        },
-        {
-          "id": "https://qiita.com/hextomino/items/133e5397bafa0448fd18",
-          "author": null,
-          "description": "レイトレをGPU実装するのは、再帰処理できない場合、大変。再帰的処理をコードで展開する必要があるから。\nそれに比べて、パストレをGPU実装するのは、楽である。確率で処理するので、上記の心配がない。ただし、確立計算に伴うノイズが絶対に生じる。デノイズ必須。\n\nこのGPUパスト...",
-          "link": "https://qiita.com/hextomino/items/133e5397bafa0448fd18",
-          "publishedOn": "2025-12-06T07:25:39.000Z",
-          "wordCount": 6184,
-          "title": "GPUのパストレはやっぱり速くてよい",
-          "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnFpaXRhLWltYWdlLXN0b3JlLnMzLmFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkYwJTJGNTEwMjU3JTJGcHJvZmlsZS1pbWFnZXMlMkYxNzA5NTg5OTA0P2l4bGliPXJiLTQuMC4wJmFyPTElM0ExJmZpdD1jcm9wJm1hc2s9ZWxsaXBzZSZiZz1GRkZGRkYmZm09cG5nMzImcz1kNTJiYjA4OTMzM2M4NzNhOTYyNzc0NmZhOWU4NzYxNw%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D391c02f1169debba7ba7402a11c55c27?ixlib=rb-4.0.0&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9R1BVJUUzJTgxJUFFJUUzJTgzJTkxJUUzJTgyJUI5JUUzJTgzJTg4JUUzJTgzJUFDJUUzJTgxJUFGJUUzJTgyJTg0JUUzJTgxJUEzJUUzJTgxJUIxJUUzJTgyJThBJUU5JTgwJTlGJUUzJTgxJThGJUUzJTgxJUE2JUUzJTgyJTg4JUUzJTgxJTg0JnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9NGNmZTU0ZDVmMTcyOTI4N2E1Y2E5MTk2N2ZhNmM0YTQ&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBoZXh0b21pbm8mdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz0wYmZhNzUxNjYyMDg1OGRhNWI5YWQwODAwOTQxYTMyYw&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=12e0f12b36ecb1e3df3f47e8fc6443ac"
-        },
-        {
-          "id": "https://qiita.com/hextomino/items/37f3f25f847088d2b2b5",
-          "author": null,
-          "description": "シェーダでの実装は高速ですが、\n再帰が使えないので、\nとくにガラス素材は苦手\n\nraytrace.pde\nPShader RTShader;\n\nvoid setup() {\n  pixelDensity(1);\n  size(512, 512, P2D);   // P2...",
-          "link": "https://qiita.com/hextomino/items/37f3f25f847088d2b2b5",
-          "publishedOn": "2025-12-06T03:52:08.000Z",
-          "wordCount": 4418,
-          "title": "レイトレーシング GLSL",
-          "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnFpaXRhLWltYWdlLXN0b3JlLnMzLmFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkYwJTJGNTEwMjU3JTJGcHJvZmlsZS1pbWFnZXMlMkYxNzA5NTg5OTA0P2l4bGliPXJiLTQuMC4wJmFyPTElM0ExJmZpdD1jcm9wJm1hc2s9ZWxsaXBzZSZiZz1GRkZGRkYmZm09cG5nMzImcz1kNTJiYjA4OTMzM2M4NzNhOTYyNzc0NmZhOWU4NzYxNw%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D391c02f1169debba7ba7402a11c55c27?ixlib=rb-4.0.0&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9JUUzJTgzJUFDJUUzJTgyJUE0JUUzJTgzJTg4JUUzJTgzJUFDJUUzJTgzJUJDJUUzJTgyJUI3JUUzJTgzJUIzJUUzJTgyJUIwJTIwR0xTTCZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnR4dC1wYWQ9MCZzPTBmODE1NmJiMjMwYTU4ZjhiMGRlZDY5YTkyZTI3NTRk&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBoZXh0b21pbm8mdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz0wYmZhNzUxNjYyMDg1OGRhNWI5YWQwODAwOTQxYTMyYw&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=59e05efc611678291d63505905bba37a"
         }
       ]
     },
@@ -3690,6 +3667,16 @@
       "feedUrl": "https://area.autodesk.jp/rss.xml",
       "siteUrl": "https://area.autodesk.jp/",
       "articles": [
+        {
+          "id": "https://area.autodesk.jp/column/tutorial/journey-with-flow-studio/01-4project-types/",
+          "author": null,
+          "description": "このコラムでは、実写映像からキャラクターアニメーションを作成することができるAI搭載ソフトウェア「Autodesk Flow Studio」に関する情報をお届けします。機能解説や、綺麗にモーションをとるためのノウハウ、様々な作業の検証やその結果など、皆様が今後Flow Studioを使ったり検証したりする際に参考にしていただけそうな情報をお伝えできるよう努めさせていただきます！・・・",
+          "link": "https://area.autodesk.jp/column/tutorial/journey-with-flow-studio/01-4project-types/",
+          "publishedOn": "2026-01-05T01:00:00.000Z",
+          "wordCount": 415,
+          "title": "Flow Studioと往く～キャラクターアニメーションの新しい世界～ 第1回：ここに4つのプロジェクトタイプがあるじゃろ？",
+          "imageUrl": "https://area.autodesk.jp/column/assets_c/2025/12/ic_journey_with_flow_studio_01_1400x782-thumb-1200xauto-5783.jpg"
+        },
         {
           "id": "https://area.autodesk.jp/column/trend_tech/digital-contents-future/16-hanawa-mei/",
           "author": null,
@@ -4712,16 +4699,6 @@
           "wordCount": 31721,
           "title": "RealityScan 2.1 がリリース！自動化機能、高度なLiDAR機能の追加など",
           "imageUrl": "https://cginterest.com/wp-content/uploads/2025/12/RealityScan2_1.webp"
-        },
-        {
-          "id": "https://cginterest.com/?p=53722",
-          "author": ".me",
-          "description": "先月Sketchfabに投稿されたモデルを勝手にピックアップ(2025年12月5日調べ) するコーナーです。人気のある3Dモデルを中心に独断と偏見で選んでおります！ 通常のピックアップとは別に、無料でダウンロードできる3 […]\nSketchfabマンスリーピックアップ 2025年12月号 first appeared on CGinterest.",
-          "link": "https://cginterest.com/2025/12/06/sketchfab%e3%83%9e%e3%83%b3%e3%82%b9%e3%83%aa%e3%83%bc%e3%83%94%e3%83%83%e3%82%af%e3%82%a2%e3%83%83%e3%83%97-2025%e5%b9%b412%e6%9c%88%e5%8f%b7/",
-          "publishedOn": "2025-12-06T09:19:00.000Z",
-          "wordCount": 31611,
-          "title": "Sketchfabマンスリーピックアップ 2025年12月号",
-          "imageUrl": "https://cginterest.com/wp-content/uploads/2025/12/sketchfabmontlypickup2025-12.webp"
         }
       ]
     }

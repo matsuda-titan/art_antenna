@@ -814,36 +814,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "https://3dnchu.com/wp-content/uploads/AdvAAAEnvArt-The-Factory.jpg"
-        },
-        {
-          "id": "https://3dnchu.com/?p=1060242",
-          "author": "Ymt3D -3dnchu-",
-          "description": "Jumpzoidによる複雑かつ高度なトラフィック＆レースの車両挙動を実現するUnreal Engine 5向け車両AIシステムプラグイン「Intelligent Traffic System v2」のご紹介！",
-          "link": "https://3dnchu.com/archives/intelligent-traffic-system-v2/",
-          "publishedOn": "2025-12-06T18:38:58.000Z",
-          "wordCount": 8922,
-          "title": "Intelligent Traffic System v2 - 複雑かつ高度なトラフィック＆レースの車両挙動を実現するUnreal Engine 5向け車両AIシステムプラグイン！",
-          "enclosure": {
-            "url": "https://3dnchu.com/wp-content/uploads/intelligent-traffic-system-v2.webp",
-            "length": "1026898",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://3dnchu.com/wp-content/uploads/intelligent-traffic-system-v2.webp"
-        },
-        {
-          "id": "https://3dnchu.com/?p=1060415",
-          "author": "Ymt3D -3dnchu-",
-          "description": "RwanLinkによるUnreal Engine 5を使用し制作された『ゼルダの伝説時のオカリナ』のファンメイドアニメーション＆リアルタイム技術デモ作品『Entering Gerudo Fortress』の映像が公開されていました。",
-          "link": "https://3dnchu.com/archives/entering-gerudo-fortress-rwanlink/",
-          "publishedOn": "2025-12-06T17:15:52.000Z",
-          "wordCount": 8916,
-          "title": "Entering Gerudo Fortress - RwanLinkによる個人制作ファンメイド「ゼルダの伝説：時のオカリナ」アニメーション作品！Unreal Engine 5をフル活用！",
-          "enclosure": {
-            "url": "https://3dnchu.com/wp-content/uploads/entering-gerudo-fortress-rwanlin.jpg",
-            "length": "92408",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://3dnchu.com/wp-content/uploads/entering-gerudo-fortress-rwanlin.jpg"
         }
       ]
     },
@@ -1708,6 +1678,36 @@
       "feedUrl": "https://tech.spark-creative.co.jp/feed",
       "siteUrl": "https://tech.spark-creative.co.jp/",
       "articles": [
+        {
+          "id": "https://tech.spark-creative.co.jp/entry/2026/01/05/145649",
+          "author": null,
+          "description": "はじめに こんにちは。株式会社スパーククリエイティブCTOの広本です。 普段は SPARK GEARの開発をしたり、UEでエンジンの改造をしたり、Unityでレンダラーや揺れもの物理を作ったりしています。 第3回までの内容で爆発のシミュレーションを作ることは出来ました、しかしこれら実装できたとしても、高解像度で実行すると、FPSは一桁に落ち込みます。 流体シミュレーションは、計算量とメモリ帯域の塊です。 今回は、リアルタイム動作を実現するための最適化に関して解説します。 はじめに 1. データ構造の最適化 バッファ精度の半減化 (FP32 → FP16) 遮蔽マップの低解像度化 2. カーネル…",
+          "link": "https://tech.spark-creative.co.jp/entry/2026/01/05/145649",
+          "publishedOn": "2026-01-05T05:56:49.000Z",
+          "wordCount": 798,
+          "title": "流体シミュレーションを実装してみたい その４（最適化編）",
+          "imageUrl": "https://cdn.image.st-hatena.com/image/scale/5c4ebbac363dc78850670befc30cfb5983105910/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fs%2Fsparkcreative%2F20251231%2F20251231235324.gif"
+        },
+        {
+          "id": "https://tech.spark-creative.co.jp/entry/2026/01/05/145355",
+          "author": null,
+          "description": "はじめに こんにちは。株式会社スパーククリエイティブCTOの広本です。 普段は SPARK GEARの開発をしたり、UEでエンジンの改造をしたり、Unityでレンダラーや揺れもの物理を作ったりしています。 前回までは、ナビエ・ストークス方程式を解き、マコーマック法でディテールを維持するところまで解説しました。 しかし、それだけでは「煙が漂う」だけで、「爆発」にはなりません。 爆発とは、物理的には「急激な化学反応による熱エネルギーの放出と、それに伴う気体の体積膨張」です。 今回は、単なるパーティクルエフェクトでは到達できない、密度・燃料・温度・酸素の4要素を連成させた、物理ベースの燃焼モデルの実…",
+          "link": "https://tech.spark-creative.co.jp/entry/2026/01/05/145355",
+          "publishedOn": "2026-01-05T05:53:55.000Z",
+          "wordCount": 595,
+          "title": "流体シミュレーションを実装してみたい その３（燃焼モデル編）",
+          "imageUrl": "https://cdn.image.st-hatena.com/image/scale/e58fa0da6cb00da421b224bf0b992b8e5ae4afb7/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fs%2Fsparkcreative%2F20251231%2F20251231220256.gif"
+        },
+        {
+          "id": "https://tech.spark-creative.co.jp/entry/2026/01/05/133320",
+          "author": null,
+          "description": "はじめに こんにちは。株式会社スパーククリエイティブCTOの広本です。 普段は SPARK GEARの開発をしたり、UEでエンジンの改造をしたり、Unityでレンダラーや揺れもの物理を作ったりしています。 前回はレンダリング周りの技術について解説しましたが、今回はその裏側で動いている心臓部、流体シミュレーションの実装についてを雑に解説していきます。 単に教科書通りのナビエ・ストークス方程式を解くだけでは、ゲームや映像で使えるような「派手な爆発」や「カッコいい煙」にはなりません。 今回は、基本実装からスタートし、マコーマック法や渦度閉じ込めといった技術をどのように組み込んで理想の挙動に近づけてい…",
+          "link": "https://tech.spark-creative.co.jp/entry/2026/01/05/133320",
+          "publishedOn": "2026-01-05T04:33:20.000Z",
+          "wordCount": 1165,
+          "title": "流体シミュレーションを実装してみたい その２（シミュレーション編）",
+          "imageUrl": "https://cdn.image.st-hatena.com/image/scale/184693f72bb474842eebb4651765bb7e6546efb5/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fs%2Fsparkcreative%2F20251231%2F20251231151352.gif"
+        },
         {
           "id": "https://tech.spark-creative.co.jp/entry/2026/01/05/091531",
           "author": null,

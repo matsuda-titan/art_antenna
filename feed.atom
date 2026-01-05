@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-01-05T04:12:14.603Z</updated>
+    <updated>2026-01-05T08:19:55.064Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[流体シミュレーションを実装してみたい その４（最適化編）]]></title>
+        <id>https://tech.spark-creative.co.jp/entry/2026/01/05/145649</id>
+        <link href="https://tech.spark-creative.co.jp/entry/2026/01/05/145649"/>
+        <updated>2026-01-05T05:56:49.000Z</updated>
+        <summary type="html"><![CDATA[はじめに こんにちは。株式会社スパーククリエイティブCTOの広本です。 普段は SPARK GEARの開発をしたり、UEでエンジンの改造をしたり、Unityでレンダラーや揺れもの物理を作ったりしています。 第3回までの内容で爆発のシミュレーションを作ることは出来ました、しかしこれら実装できたとしても、高解像度で実行すると、FPSは一桁に落ち込みます。 流体シミュレーションは、計算量とメモリ帯域の塊です。 今回は、リアルタイム動作を実現するための最適化に関して解説します。 はじめに 1. データ構造の最適化 バッファ精度の半減化 (FP32 → FP16) 遮蔽マップの低解像度化 2. カーネル…]]></summary>
+        <author>
+            <name>SPARK CREATIVE Tech Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[流体シミュレーションを実装してみたい その３（燃焼モデル編）]]></title>
+        <id>https://tech.spark-creative.co.jp/entry/2026/01/05/145355</id>
+        <link href="https://tech.spark-creative.co.jp/entry/2026/01/05/145355"/>
+        <updated>2026-01-05T05:53:55.000Z</updated>
+        <summary type="html"><![CDATA[はじめに こんにちは。株式会社スパーククリエイティブCTOの広本です。 普段は SPARK GEARの開発をしたり、UEでエンジンの改造をしたり、Unityでレンダラーや揺れもの物理を作ったりしています。 前回までは、ナビエ・ストークス方程式を解き、マコーマック法でディテールを維持するところまで解説しました。 しかし、それだけでは「煙が漂う」だけで、「爆発」にはなりません。 爆発とは、物理的には「急激な化学反応による熱エネルギーの放出と、それに伴う気体の体積膨張」です。 今回は、単なるパーティクルエフェクトでは到達できない、密度・燃料・温度・酸素の4要素を連成させた、物理ベースの燃焼モデルの実…]]></summary>
+        <author>
+            <name>SPARK CREATIVE Tech Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[流体シミュレーションを実装してみたい その２（シミュレーション編）]]></title>
+        <id>https://tech.spark-creative.co.jp/entry/2026/01/05/133320</id>
+        <link href="https://tech.spark-creative.co.jp/entry/2026/01/05/133320"/>
+        <updated>2026-01-05T04:33:20.000Z</updated>
+        <summary type="html"><![CDATA[はじめに こんにちは。株式会社スパーククリエイティブCTOの広本です。 普段は SPARK GEARの開発をしたり、UEでエンジンの改造をしたり、Unityでレンダラーや揺れもの物理を作ったりしています。 前回はレンダリング周りの技術について解説しましたが、今回はその裏側で動いている心臓部、流体シミュレーションの実装についてを雑に解説していきます。 単に教科書通りのナビエ・ストークス方程式を解くだけでは、ゲームや映像で使えるような「派手な爆発」や「カッコいい煙」にはなりません。 今回は、基本実装からスタートし、マコーマック法や渦度閉じ込めといった技術をどのように組み込んで理想の挙動に近づけてい…]]></summary>
+        <author>
+            <name>SPARK CREATIVE Tech Blog</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[服飾理論×CG技術でゲーム衣装などをデザインするための脱初心者バイブル。『Marvelous Designerネクストレベル』発売 - ニュース]]></title>
         <id>https://cgworld.jp/flashnews/2601-book-marvelous-designer.html</id>
@@ -4839,26 +4869,6 @@ null1 は空っぽです。
 そうすると今度は group1 が空っぽになりま...]]></summary>
         <author>
             <name>mayaタグが付けられた新着記事 - Qiita</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Intelligent Traffic System v2 - 複雑かつ高度なトラフィック＆レースの車両挙動を実現するUnreal Engine 5向け車両AIシステムプラグイン！]]></title>
-        <id>https://3dnchu.com/?p=1060242</id>
-        <link href="https://3dnchu.com/archives/intelligent-traffic-system-v2/"/>
-        <updated>2025-12-06T18:38:58.000Z</updated>
-        <summary type="html"><![CDATA[Jumpzoidによる複雑かつ高度なトラフィック＆レースの車両挙動を実現するUnreal Engine 5向け車両AIシステムプラグイン「Intelligent Traffic System v2」のご紹介！]]></summary>
-        <author>
-            <name>Ymt3D -3dnchu-</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Entering Gerudo Fortress - RwanLinkによる個人制作ファンメイド「ゼルダの伝説：時のオカリナ」アニメーション作品！Unreal Engine 5をフル活用！]]></title>
-        <id>https://3dnchu.com/?p=1060415</id>
-        <link href="https://3dnchu.com/archives/entering-gerudo-fortress-rwanlink/"/>
-        <updated>2025-12-06T17:15:52.000Z</updated>
-        <summary type="html"><![CDATA[RwanLinkによるUnreal Engine 5を使用し制作された『ゼルダの伝説時のオカリナ』のファンメイドアニメーション＆リアルタイム技術デモ作品『Entering Gerudo Fortress』の映像が公開されていました。]]></summary>
-        <author>
-            <name>Ymt3D -3dnchu-</name>
         </author>
     </entry>
 </feed>

@@ -361,11 +361,105 @@ footer {
             data-action="toggle-accordions"
             title="Click to toggle the day, Ctrl + click to toggle all."
           >
-            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2026-01-05 datetime="2026-01-05T01:15:20.000Z">2026-01-05</time>
-            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2026-01-05 datetime="2026-01-05T01:15:20.000Z"></time>
+            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2026-01-05 datetime="2026-01-05T05:56:49.000Z">2026-01-05</time>
+            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2026-01-05 datetime="2026-01-05T05:56:49.000Z"></time>
           </button>
         </h2>
         <ul class="sources card">
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >SPARK CREATIVE Tech Blog</button>
+                  <a class="source-heading__link" href="https://tech.spark-creative.co.jp/">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://tech.spark-creative.co.jp/entry/2026/01/05/145649"
+                        open
+                      >
+                        <summary class="article-expander__title">流体シミュレーションを実装してみたい その４（最適化編）</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://tech.spark-creative.co.jp/entry/2026/01/05/145649">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://cdn.image.st-hatena.com/image/scale/5c4ebbac363dc78850670befc30cfb5983105910/backend&#x3D;imagemagick;version&#x3D;1;width&#x3D;1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fs%2Fsparkcreative%2F20251231%2F20251231235324.gif" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>はじめに こんにちは。株式会社スパーククリエイティブCTOの広本です。 普段は SPARK GEARの開発をしたり、UEでエンジンの改造をしたり、Unityでレンダラーや揺れもの物理を作ったりしています。 第3回までの内容で爆発のシミュレーションを作ることは出来ました、しかしこれら実装できたとしても、高解像度で実行すると、FPSは一桁に落ち込みます。 流体シミュレーションは、計算量とメモリ帯域の塊です。 今回は、リアルタイム動作を実現するための最適化に関して解説します。 はじめに 1. データ構造の最適化 バッファ精度の半減化 (FP32 → FP16) 遮蔽マップの低解像度化 2. カーネル…</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;3
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://tech.spark-creative.co.jp/entry/2026/01/05/145355"
+                        open
+                      >
+                        <summary class="article-expander__title">流体シミュレーションを実装してみたい その３（燃焼モデル編）</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://tech.spark-creative.co.jp/entry/2026/01/05/145355">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://cdn.image.st-hatena.com/image/scale/e58fa0da6cb00da421b224bf0b992b8e5ae4afb7/backend&#x3D;imagemagick;version&#x3D;1;width&#x3D;1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fs%2Fsparkcreative%2F20251231%2F20251231220256.gif" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>はじめに こんにちは。株式会社スパーククリエイティブCTOの広本です。 普段は SPARK GEARの開発をしたり、UEでエンジンの改造をしたり、Unityでレンダラーや揺れもの物理を作ったりしています。 前回までは、ナビエ・ストークス方程式を解き、マコーマック法でディテールを維持するところまで解説しました。 しかし、それだけでは「煙が漂う」だけで、「爆発」にはなりません。 爆発とは、物理的には「急激な化学反応による熱エネルギーの放出と、それに伴う気体の体積膨張」です。 今回は、単なるパーティクルエフェクトでは到達できない、密度・燃料・温度・酸素の4要素を連成させた、物理ベースの燃焼モデルの実…</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;2
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://tech.spark-creative.co.jp/entry/2026/01/05/133320"
+                        open
+                      >
+                        <summary class="article-expander__title">流体シミュレーションを実装してみたい その２（シミュレーション編）</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://tech.spark-creative.co.jp/entry/2026/01/05/133320">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://cdn.image.st-hatena.com/image/scale/184693f72bb474842eebb4651765bb7e6546efb5/backend&#x3D;imagemagick;version&#x3D;1;width&#x3D;1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fs%2Fsparkcreative%2F20251231%2F20251231151352.gif" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>はじめに こんにちは。株式会社スパーククリエイティブCTOの広本です。 普段は SPARK GEARの開発をしたり、UEでエンジンの改造をしたり、Unityでレンダラーや揺れもの物理を作ったりしています。 前回はレンダリング周りの技術について解説しましたが、今回はその裏側で動いている心臓部、流体シミュレーションの実装についてを雑に解説していきます。 単に教科書通りのナビエ・ストークス方程式を解くだけでは、ゲームや映像で使えるような「派手な爆発」や「カッコいい煙」にはなりません。 今回は、基本実装からスタートし、マコーマック法や渦度閉じ込めといった技術をどのように組み込んで理想の挙動に近づけてい…</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;4
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://tech.spark-creative.co.jp/entry/2026/01/05/091531"
+                        open
+                      >
+                        <summary class="article-expander__title">流体シミュレーションを実装してみたい その１（レンダリング編）</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://tech.spark-creative.co.jp/entry/2026/01/05/091531">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://cdn.image.st-hatena.com/image/scale/58dce5a13402b2121fe36225dcbd47eb9f2af312/backend&#x3D;imagemagick;version&#x3D;1;width&#x3D;1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fs%2Fsparkcreative%2F20251231%2F20251231144035.gif" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>はじめに こんにちは。株式会社スパーククリエイティブCTOの広本です。 普段は SPARK GEARの開発をしたり、UEでエンジンの改造をしたり、Unityでレンダラーや揺れもの物理を作ったりしています。 先日「0から始める流体シミュレーション」という内容で社内勉強会に参加しました。 80ページ以上の資料を作ったのですがせっかくなのでブログにも残しておこうと思います。 今回作成した流体シミュレーションです。 流体シミュレーションにおいて、計算そのものの精度（ナビエ・ストークス方程式の解法など）はもちろん重要ですが、最終的なアウトプットの質を左右するのはやはり描画技術です。 本記事では、ボリュー…</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;4
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
             <li class="card__section">
               <section class="js-toggle-accordions-scope">
                 <h3 class="source-heading">
@@ -445,40 +539,6 @@ footer {
                             <span class="media-object__text">
                               <span>このコラムでは、実写映像からキャラクターアニメーションを作成することができるAI搭載ソフトウェア「Autodesk Flow Studio」に関する情報をお届けします。機能解説や、綺麗にモーションをとるためのノウハウ、様々な作業の検証やその結果など、皆様が今後Flow Studioを使ったり検証したりする際に参考にしていただけそうな情報をお伝えできるよう努めさせていただきます！・・・</span>
                                 &ensp;<span class="article-reading-time">(&hairsp;1
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                </section>
-              </section>
-            </li>
-            <li class="card__section">
-              <section class="js-toggle-accordions-scope">
-                <h3 class="source-heading">
-                  <button
-                    class="source-heading__name"
-                    data-action="toggle-accordions"
-                    title="Click to toggle the source, Ctrl + click to toggle all."
-                  >SPARK CREATIVE Tech Blog</button>
-                  <a class="source-heading__link" href="https://tech.spark-creative.co.jp/">Open</a>
-                </h3>
-                <section class="articles-per-source">
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://tech.spark-creative.co.jp/entry/2026/01/05/091531"
-                        open
-                      >
-                        <summary class="article-expander__title">流体シミュレーションを実装してみたい その１（レンダリング編）</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://tech.spark-creative.co.jp/entry/2026/01/05/091531">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://cdn.image.st-hatena.com/image/scale/58dce5a13402b2121fe36225dcbd47eb9f2af312/backend&#x3D;imagemagick;version&#x3D;1;width&#x3D;1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fs%2Fsparkcreative%2F20251231%2F20251231144035.gif" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>はじめに こんにちは。株式会社スパーククリエイティブCTOの広本です。 普段は SPARK GEARの開発をしたり、UEでエンジンの改造をしたり、Unityでレンダラーや揺れもの物理を作ったりしています。 先日「0から始める流体シミュレーション」という内容で社内勉強会に参加しました。 80ページ以上の資料を作ったのですがせっかくなのでブログにも残しておこうと思います。 今回作成した流体シミュレーションです。 流体シミュレーションにおいて、計算そのものの精度（ナビエ・ストークス方程式の解法など）はもちろん重要ですが、最終的なアウトプットの質を左右するのはやはり描画技術です。 本記事では、ボリュー…</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;4
                                   min&hairsp;)</span>
                             </span>
                           </div>
@@ -12782,66 +12842,12 @@ null1 は空っぽです。
                 </section>
               </section>
             </li>
-            <li class="card__section">
-              <section class="js-toggle-accordions-scope">
-                <h3 class="source-heading">
-                  <button
-                    class="source-heading__name"
-                    data-action="toggle-accordions"
-                    title="Click to toggle the source, Ctrl + click to toggle all."
-                  >3D人-3dnchu-</button>
-                  <a class="source-heading__link" href="https://3dnchu.com">Open</a>
-                </h3>
-                <section class="articles-per-source">
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://3dnchu.com/?p&#x3D;1060242"
-                        open
-                      >
-                        <summary class="article-expander__title">Intelligent Traffic System v2 - 複雑かつ高度なトラフィック＆レースの車両挙動を実現するUnreal Engine 5向け車両AIシステムプラグイン！</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://3dnchu.com/archives/intelligent-traffic-system-v2/">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://3dnchu.com/wp-content/uploads/intelligent-traffic-system-v2.webp" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>Jumpzoidによる複雑かつ高度なトラフィック＆レースの車両挙動を実現するUnreal Engine 5向け車両AIシステムプラグイン「Intelligent Traffic System v2」のご紹介！</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;30
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://3dnchu.com/?p&#x3D;1060415"
-                        open
-                      >
-                        <summary class="article-expander__title">Entering Gerudo Fortress - RwanLinkによる個人制作ファンメイド「ゼルダの伝説：時のオカリナ」アニメーション作品！Unreal Engine 5をフル活用！</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://3dnchu.com/archives/entering-gerudo-fortress-rwanlink/">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://3dnchu.com/wp-content/uploads/entering-gerudo-fortress-rwanlin.jpg" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>RwanLinkによるUnreal Engine 5を使用し制作された『ゼルダの伝説時のオカリナ』のファンメイドアニメーション＆リアルタイム技術デモ作品『Entering Gerudo Fortress』の映像が公開されていました。</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;30
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                </section>
-              </section>
-            </li>
         </ul>
       </section>
 
     <footer>
-      <a class="footer-link" href="https://github.com/matsuda-titan/art_antenna/actions/runs/20704824759">
-        <time id="build-timestamp" datetime="2026-01-05T04:12:14.566Z">2026-01-05T04:12:14.566Z</time>
+      <a class="footer-link" href="https://github.com/matsuda-titan/art_antenna/actions/runs/20709286953">
+        <time id="build-timestamp" datetime="2026-01-05T08:19:55.025Z">2026-01-05T08:19:55.025Z</time>
       </a>
       <a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.15.1</a>
     </footer>

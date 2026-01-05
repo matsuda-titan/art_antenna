@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-01-05T08:19:55.064Z</updated>
+    <updated>2026-01-05T12:25:17.452Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Sketchfabマンスリーピックアップ 2026年1月号]]></title>
+        <id>https://cginterest.com/?p=54652</id>
+        <link href="https://cginterest.com/2026/01/05/sketchfab%e3%83%9e%e3%83%b3%e3%82%b9%e3%83%aa%e3%83%bc%e3%83%94%e3%83%83%e3%82%af%e3%82%a2%e3%83%83%e3%83%97-2026%e5%b9%b41%e6%9c%88%e5%8f%b7/"/>
+        <updated>2026-01-05T08:56:00.000Z</updated>
+        <summary type="html"><![CDATA[あけましておめでとうございます！今年一発目の投稿となります。いつもご覧いただき感謝です。 私は年初から風邪をひいて幸先が悪いですが、今年はなんとかウェブサイトの改良取り掛かりたいと思っております。何卒今年もよろしくお願い […]
+Sketchfabマンスリーピックアップ 2026年1月号 first appeared on CGinterest.]]></summary>
+        <author>
+            <name>.me</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[流体シミュレーションを実装してみたい その４（最適化編）]]></title>
         <id>https://tech.spark-creative.co.jp/entry/2026/01/05/145649</id>
@@ -4840,35 +4851,6 @@ Houdini Apprentice Advent Calendar 2025の7日目の記事です。
         <summary type="html"><![CDATA[こんばんは！ 今回はアドオンの「Sync | Lock Viewport」を紹介します。 こちらのリンクがアドオンの商品ページになります。 Sync | Lock Viewport 「Sync | Lock Viewpo […]]]></summary>
         <author>
             <name>kasahara</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RealityScan 2.1 がリリース！自動化機能、高度なLiDAR機能の追加など]]></title>
-        <id>https://cginterest.com/?p=53788</id>
-        <link href="https://cginterest.com/2025/12/07/realityscan-2-1-%e3%81%8c%e3%83%aa%e3%83%aa%e3%83%bc%e3%82%b9%ef%bc%81%e8%87%aa%e5%8b%95%e5%8c%96%e6%a9%9f%e8%83%bd%e3%80%81%e9%ab%98%e5%ba%a6%e3%81%aalidar%e6%a9%9f%e8%83%bd%e3%81%ae%e8%bf%bd/"/>
-        <updated>2025-12-06T22:58:00.000Z</updated>
-        <summary type="html"><![CDATA[2025年11月26日（現地時間） – EpicGames は、フォトグラメトリソフト RealityScan 2.1 をリリースしました。 新機能ハイライト 今回のリリースでは、自動化ワークフローの強化と高 […]
-RealityScan 2.1 がリリース！自動化機能、高度なLiDAR機能の追加など first appeared on CGinterest.]]></summary>
-        <author>
-            <name>.me</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[空っぽのグループを抽出したい]]></title>
-        <id>https://qiita.com/9boz/items/c9ff643754ea2c596294</id>
-        <link href="https://qiita.com/9boz/items/c9ff643754ea2c596294"/>
-        <updated>2025-12-06T22:07:15.000Z</updated>
-        <summary type="html"><![CDATA[データを整理していく過程で、コンバインしたり階層移動させたりすると
-空のグループが出てきてしまいます。
-まぁ不要なので削除したいのですがー
-例えばこんなデータがあったとして
-
-null1 は空っぽです。
-なので削除します。
-
-そうすると今度は group1 が空っぽになりま...]]></summary>
-        <author>
-            <name>mayaタグが付けられた新着記事 - Qiita</name>
         </author>
     </entry>
 </feed>

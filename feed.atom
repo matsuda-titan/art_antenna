@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-01-05T12:25:17.452Z</updated>
+    <updated>2026-01-06T00:58:23.738Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【アドオン紹介】Multi-Image Importer – 複数の画像を一括インポート！]]></title>
+        <id>https://cgbox.jp/?p=64936</id>
+        <link href="https://cgbox.jp/2026/01/06/news-addon-multi-image-importer/"/>
+        <updated>2026-01-06T00:20:41.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは！ 今回はアドオンの「Multi-Image Importer」を紹介します。 こちらのリンクがアドオンの商品ページになります。 Multi-Image Importer 「Multi-Image Import […]]]></summary>
+        <author>
+            <name>kasahara</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[インタラクティブな会話型AI動画モデル「Lemon Slice-2」リリース！  写真1枚から手の動きと全身のモーションを生成、APIまたは埋め込みウィジェットとして利用可能 - ニュース]]></title>
+        <id>https://cgworld.jp/flashnews/01-202601-LemonSlice.html</id>
+        <link href="https://cgworld.jp/flashnews/01-202601-LemonSlice.html"/>
+        <updated>2026-01-05T22:57:22.000Z</updated>
+        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Sketchfabマンスリーピックアップ 2026年1月号]]></title>
         <id>https://cginterest.com/?p=54652</id>
@@ -45,6 +65,20 @@ Sketchfabマンスリーピックアップ 2026年1月号 first appeared on CGin
         <summary type="html"><![CDATA[はじめに こんにちは。株式会社スパーククリエイティブCTOの広本です。 普段は SPARK GEARの開発をしたり、UEでエンジンの改造をしたり、Unityでレンダラーや揺れもの物理を作ったりしています。 前回はレンダリング周りの技術について解説しましたが、今回はその裏側で動いている心臓部、流体シミュレーションの実装についてを雑に解説していきます。 単に教科書通りのナビエ・ストークス方程式を解くだけでは、ゲームや映像で使えるような「派手な爆発」や「カッコいい煙」にはなりません。 今回は、基本実装からスタートし、マコーマック法や渦度閉じ込めといった技術をどのように組み込んで理想の挙動に近づけてい…]]></summary>
         <author>
             <name>SPARK CREATIVE Tech Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[試してみたLuaJIT — a Just-In-Time Compiler for Lua]]></title>
+        <id>https://qiita.com/yokamak/items/9701890bbfd4019c2f75</id>
+        <link href="https://qiita.com/yokamak/items/9701890bbfd4019c2f75"/>
+        <updated>2026-01-05T01:36:48.000Z</updated>
+        <summary type="html"><![CDATA[ビルドしてみました。
+以前インストールしたmakeを探す。
+> C:\Windows\System32\where.exe mingw32-make
+ C:\Qt\Qt5.14.2\Tools\mingw730_64\bin\mingw32-make.exe
+ C:\...]]></summary>
+        <author>
+            <name>3DCGタグが付けられた新着記事 - Qiita</name>
         </author>
     </entry>
     <entry>
@@ -4772,85 +4806,6 @@ Toonは固いモデルに適用する分には割とやりやすいのですが�
 続きをみる]]></summary>
         <author>
             <name>#Houdiniタグ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【Substance Designer】 制作解説④]]></title>
-        <id>https://note.com/natty_violet4982/n/ne14145f405cf</id>
-        <link href="https://note.com/natty_violet4982/n/ne14145f405cf"/>
-        <updated>2025-12-07T12:30:31.000Z</updated>
-        <summary type="html"><![CDATA[こんにちは！taka(nCuU6Ct8gZtpLBo)です！
-今回は『水のオーラ』っぽいTexture制作をご紹介します！
-
-
-続きをみる]]></summary>
-        <author>
-            <name>#SubstanceDesignerタグ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Houdini Indie版のインストール方法]]></title>
-        <id>https://note.com/hip_curlew8703/n/n6e30af3a6de7</id>
-        <link href="https://note.com/hip_curlew8703/n/n6e30af3a6de7"/>
-        <updated>2025-12-07T05:20:07.000Z</updated>
-        <summary type="html"><![CDATA[背景
-これまで Houdini Apprentice（無料版）を使用していたが、
-新しく Houdini Indie を購入したため、ライセンスを切り替える必要がある。
-続きをみる]]></summary>
-        <author>
-            <name>#Houdiniタグ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[パーティクルでビッグバン作ってみた]]></title>
-        <id>https://qiita.com/ryomasanpei/items/cc54a4e27302dd61af2a</id>
-        <link href="https://qiita.com/ryomasanpei/items/cc54a4e27302dd61af2a"/>
-        <updated>2025-12-07T05:12:43.000Z</updated>
-        <summary type="html"><![CDATA[はじめに
-
-Houdini Apprentice Advent Calendar 2025の7日目の記事です。
-今回初参戦で、予約したのを直前で気づいて急いで書いたのでかなり雑ではあるかもしれませんがよろしくお願いします。
-今回作るのはパーティクルで作る簡易的なビッグバン...]]></summary>
-        <author>
-            <name>CGタグが付けられた新着記事 - Qiita</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Unity 6] RenderGraphで実装するBayer Matrix ディザリング【URPポストプロセス】]]></title>
-        <id>https://qiita.com/KeichiMizutani/items/cf4eeb7f70e4da6f203f</id>
-        <link href="https://qiita.com/KeichiMizutani/items/cf4eeb7f70e4da6f203f"/>
-        <updated>2025-12-07T02:49:18.000Z</updated>
-        <summary type="html"><![CDATA[本記事は サムザップ Advent Calendar 2025の7日目の記事です。
-
-はじめに
-本記事では、Unity 6環境において、RenderGraphを用いたBayer Matrix ディザリングのポストプロセスエフェクトを実装する手順を紹介します。
-
-完成イメージ...]]></summary>
-        <author>
-            <name>Shaderタグが付けられた新着記事 - Qiita</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ゲーム用キャラをHumanIK対応に！ユニティちゃんで学ぶMayaリグ入門]]></title>
-        <id>https://qiita.com/salt-k2t/items/ead9e572d92ca08ec312</id>
-        <link href="https://qiita.com/salt-k2t/items/ead9e572d92ca08ec312"/>
-        <updated>2025-12-07T02:33:37.000Z</updated>
-        <summary type="html"><![CDATA[はじめに
-本記事は、「QualiArts Advent Calender 2025」の7日目の記事になります。
-ユニティちゃんとは、Unity Technologies Japan様が提供する開発者のためのオリジナルキャラクターです。
-公式サイトにてアセットのダウンロード...]]></summary>
-        <author>
-            <name>mayaタグが付けられた新着記事 - Qiita</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【無料アドオン】Sync | Lock Viewport – 複数ビューポート画面のリアルタイム同期]]></title>
-        <id>https://cgbox.jp/?p=64799</id>
-        <link href="https://cgbox.jp/2025/12/07/news-addon-sync-lock-viewport/"/>
-        <updated>2025-12-07T01:33:38.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは！ 今回はアドオンの「Sync | Lock Viewport」を紹介します。 こちらのリンクがアドオンの商品ページになります。 Sync | Lock Viewport 「Sync | Lock Viewpo […]]]></summary>
-        <author>
-            <name>kasahara</name>
         </author>
     </entry>
 </feed>

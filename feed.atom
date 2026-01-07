@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-01-07T08:17:54.710Z</updated>
+    <updated>2026-01-07T12:25:20.038Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Solarisまわりの勉強をした]]></title>
+        <id>https://note.com/dogemperor/n/nd55d978589b3</id>
+        <link href="https://note.com/dogemperor/n/nd55d978589b3"/>
+        <updated>2026-01-07T11:07:10.000Z</updated>
+        <summary type="html"><![CDATA[概要
+11/1~11/6の六日間にHoudiniのSolarisを勉強する目的でシーンをひとつ制作した。その過程のnoteです。初学者の自分用メモなので経験者の方が見たら（そんなところに…）ってところがあると思いますが、そんなところに驚きっぱなしな著者ですのでご容赦ください。てかHoudiniおもしれー！
+続きをみる]]></summary>
+        <author>
+            <name>#Houdiniタグ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[流体シミュレーションを実装してみたい その５（続・最適化編）]]></title>
+        <id>https://tech.spark-creative.co.jp/entry/2026/01/07/192834</id>
+        <link href="https://tech.spark-creative.co.jp/entry/2026/01/07/192834"/>
+        <updated>2026-01-07T10:28:34.000Z</updated>
+        <summary type="html"><![CDATA[はじめに こんにちは。株式会社スパーククリエイティブCTOの広本です。 普段は SPARK GEARの開発をしたり、UEでエンジンの改造をしたり、Unityでレンダラーや揺れもの物理を作ったりしています。 第4回までの内容でやりたかったことは大体できました。 本来は前回で終わりだったのですが、予想外に最適化の話は興味を持ってもらえたので、今回はおまけとして小細工的な最適化を紹介したいと思います。 前回はソルバーそのものの最適化をアルゴリズムレベルで行いましたが、今回はより重箱の隅をつつくような最適化をしていきます。 こういった面倒な最適化は出来ればしたくないのですが、リアルタイム用途ではスペッ…]]></summary>
+        <author>
+            <name>SPARK CREATIVE Tech Blog</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[STUDIO4℃新作フルCG映画『ALL YOU NEED IS KILL』秋本監督インタビュー 〜日本発の世界的SF小説がついにアニメ化！ - 特集]]></title>
         <id>https://cgworld.jp/article/2601-aynk-anime.html</id>
@@ -4859,56 +4881,6 @@ The post 『キル・ビル』の未公開シーンを UEで再現!「失われ�
         <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
         <author>
             <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[オープンソースの画像生成AI基盤モデル「Z-Image」公開！　60億パラメータ、フォトリアルな画像生成とバイリンガルテキストのレンダリングを両立 - ニュース]]></title>
-        <id>https://cgworld.jp/flashnews/01-202512-Z-Image.html</id>
-        <link href="https://cgworld.jp/flashnews/01-202512-Z-Image.html"/>
-        <updated>2025-12-08T22:48:38.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2025年12月の NVIDIA Studio Driver アップデートがリリース！]]></title>
-        <id>https://cginterest.com/?p=53822</id>
-        <link href="https://cginterest.com/2025/12/09/2025%e5%b9%b412%e6%9c%88%e3%81%ae-nvidia-studio-driver-%e3%82%a2%e3%83%83%e3%83%97%e3%83%87%e3%83%bc%e3%83%88%e3%81%8c%e3%83%aa%e3%83%aa%e3%83%bc%e3%82%b9%ef%bc%81/"/>
-        <updated>2025-12-08T22:42:00.000Z</updated>
-        <summary type="html"><![CDATA[2025年12月4日（現地時間） – Nvidia は、Studioドライバの最新アップデートをリリースしました。 12月の NVIDIA Studio Driver アップデート 12 月の NVIDIA  […]
-2025年12月の NVIDIA Studio Driver アップデートがリリース！ first appeared on CGinterest.]]></summary>
-        <author>
-            <name>.me</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[viewportの背景色を変えたい]]></title>
-        <id>https://qiita.com/9boz/items/1a22eb0c402aa21e64f5</id>
-        <link href="https://qiita.com/9boz/items/1a22eb0c402aa21e64f5"/>
-        <updated>2025-12-08T22:04:21.000Z</updated>
-        <summary type="html"><![CDATA[viewPortの背景色って、alt + B で数パターン切り替えることができるんですが、
-任意の色にしてしまいたいなぁという欲望がわいてきました。
-そもそも背景色はどこで設定されているのかを見てみます。
-UIから見るとここですね。
-
-んで、　この backGround ...]]></summary>
-        <author>
-            <name>mayaタグが付けられた新着記事 - Qiita</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[プリパラ１期感想 ~ 魅力とグッドコミュニケーションの学び ~]]></title>
-        <id>https://qiita.com/RiTa-23/items/093ca392c238cb93c0ec</id>
-        <link href="https://qiita.com/RiTa-23/items/093ca392c238cb93c0ec"/>
-        <updated>2025-12-08T22:03:47.000Z</updated>
-        <summary type="html"><![CDATA[はじめに
-彼女が女児アニメ好きで、「見て！」と勧められてプリパラを見ることになりました。
-現在は一期を見終え、二期を視聴中です。
-正直にいうと、最初は「見るのめんどくさいなぁ」と思いながら頑張って見ていました。
-しかし回を重ねるごとにだんだんプリパラの魅力や面白さに気づき...]]></summary>
-        <author>
-            <name>3DCGタグが付けられた新着記事 - Qiita</name>
         </author>
     </entry>
 </feed>

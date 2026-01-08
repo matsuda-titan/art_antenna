@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-01-08T00:58:56.715Z</updated>
+    <updated>2026-01-08T03:58:03.028Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[第1回：ポーズをつけよう - 連載]]></title>
+        <id>https://cgworld.jp/regular/202512-est3-01.html</id>
+        <link href="https://cgworld.jp/regular/202512-est3-01.html"/>
+        <updated>2026-01-08T03:00:00.000Z</updated>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[高品質なオブジェクトのルック表現を実現する新手法「Spherical Voronoi」発表！ 3DGSに統合、球面上をボロノイ分割し自由に変形することで関数を最適化 - ニュース]]></title>
         <id>https://cgworld.jp/flashnews/01-202601-SphericalVoronoi.html</id>
@@ -4776,27 +4785,6 @@ The post ノルウェーの怪獣映画!? 『トロール2』の VFXブレイク
         <summary type="html"><![CDATA[Elly Kher氏がUnreal Engine 5向けの手描き感溢れるシェーダーの制作解説動画＆プロジェクトファイル「Painterly Shader Material 」をGithub上で無料公開しています！]]></summary>
         <author>
             <name>Ymt3D -3dnchu-</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FLIP Fluids 1.8.5 - Blender向けの定番流体シミュレーションアドオン！Blender 5.0対応や異なる密度の流体を同時にシミュレーション可能な機能を追加！]]></title>
-        <id>https://3dnchu.com/?p=1060491</id>
-        <link href="https://3dnchu.com/archives/flip-fluids-1-8-5/"/>
-        <updated>2025-12-09T15:04:22.000Z</updated>
-        <summary type="html"><![CDATA[Blender内で高品質の流体エフェクトを作成できる強力な液体シミュレーションアドオン「FLIP Fluids」のv1.8.5がリリースされていました。]]></summary>
-        <author>
-            <name>Ymt3D -3dnchu-</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[普通の3Dモデルがマルウェアに！CGTraderの.blendファイルでBlenderユーザーが狙われる攻撃が発生]]></title>
-        <id>https://modelinghappy.com/?p=65986</id>
-        <link href="https://modelinghappy.com/archives/65986"/>
-        <updated>2025-12-09T13:38:17.000Z</updated>
-        <summary type="html"><![CDATA[Morphisec Thwarts Russian-Linked StealC V2 Campaign Targeting Blender Users via Malicious .blend Files 過去にもBle
-The post 普通の3Dモデルがマルウェアに！CGTraderの.blendファイルでBlenderユーザーが狙われる攻撃が発生 first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
-        <author>
-            <name>modelinghappy</name>
         </author>
     </entry>
 </feed>

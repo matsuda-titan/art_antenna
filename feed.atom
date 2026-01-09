@@ -2,10 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-01-09T01:00:28.442Z</updated>
+    <updated>2026-01-09T03:58:30.315Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【申込締切間近】牧野淳氏が語る、自由な映像づくり－モンブラン・ピクチャーズによる「MontBlanc CAMP_US Vol.02」1/23（金）福岡にて開催 - ニュース]]></title>
+        <id>https://cgworld.jp/flashnews/02-2601-montblanc.html</id>
+        <link href="https://cgworld.jp/flashnews/02-2601-montblanc.html"/>
+        <updated>2026-01-09T02:20:49.000Z</updated>
+        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[第19回：様々なポップアップウィンドウ - 連載]]></title>
+        <id>https://cgworld.jp/regular/202601-ue5tool-19.html</id>
+        <link href="https://cgworld.jp/regular/202601-ue5tool-19.html"/>
+        <updated>2026-01-09T01:06:00.000Z</updated>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[NVIDIAら、最大5分間生成可能な世界モデル「LongVie 2」公開！ ユーザー制御性、長時間生成における品質劣化防止、一貫性の確保 - ニュース]]></title>
         <id>https://cgworld.jp/flashnews/01-202601-LongVie2.html</id>
@@ -4726,17 +4745,6 @@ maya再起動すれば消えるんですがー
 ただ面倒なの...]]></summary>
         <author>
             <name>mayaタグが付けられた新着記事 - Qiita</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Maya C++] UV 間の距離チェックをするプラグインを書く]]></title>
-        <id>https://zenn.dev/reality_tech/articles/f92c7a22267df0</id>
-        <link href="https://zenn.dev/reality_tech/articles/f92c7a22267df0"/>
-        <updated>2025-12-10T15:00:07.000Z</updated>
-        <summary type="html"><![CDATA[UV 間の距離チェックをしたい
-Maya に限らず、UV 展開をする際に隣り合う UV シェル（Blender では "UV アイランド" といいます）に属する UV 同士の距離が近すぎると、予期しないにじみなどが発生してしまう恐れがあり、UV シェル間の距離を一定ピクセル以上離すように気を付けている人は多いと思います。Maya の UV Editor には UV 間の距離を計測するツールがあり、これを使えば指定した UV 間の距離を実際の画像サイズを参照しながら確認することができます。このツールは UV Editor の Image メニューから "Measure Pixel Di...]]></summary>
-        <author>
-            <name>Iguchi [REALITY]</name>
         </author>
     </entry>
 </feed>

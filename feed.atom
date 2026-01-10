@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-01-10T00:57:24.546Z</updated>
+    <updated>2026-01-10T03:52:20.290Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[3Dメッシュ生成AI技術「MeshRipple」発表！ 水面の波紋のようにメッシュを拡張することで整合性を保ちつつ高品質な3Dモデルを生成 - ニュース]]></title>
+        <id>https://cgworld.jp/flashnews/01-202601-MeshRipple.html</id>
+        <link href="https://cgworld.jp/flashnews/01-202601-MeshRipple.html"/>
+        <updated>2026-01-10T02:46:45.000Z</updated>
+        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Mesh Analysis Overlay｜面・エッジ・頂点の問題を色分け表示＆パネル確認できる無料Blenderアドオン]]></title>
         <id>https://modelinghappy.com/?p=66561</id>
@@ -4601,22 +4611,6 @@ https://orangelily.hatenablog.com/entry/2024/...]]></summary>
 また、コンパイラバイナリだけでなくライブラリの形でも提供されており、そのライブラリが提供するAPIによってコンパイルフローを自身のアプリに組み込むことができるほか、今回の題材のReflection A...]]></summary>
         <author>
             <name>S.Percentage</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ray Tracing from Scratch in Rust ~ 簡易CPUレンダラの自作と仕組みの勉強 ~]]></title>
-        <id>https://zenn.dev/oyatomo/articles/9cebd37807cd4c</id>
-        <link href="https://zenn.dev/oyatomo/articles/9cebd37807cd4c"/>
-        <updated>2025-12-11T14:48:34.000Z</updated>
-        <summary type="html"><![CDATA[はじめに
-皆さんこんにちは，一関高専 村上研究室所属 小山田です。
-今回は，Ray Tracingの基礎的な仕組みを学ぶために，自作した簡易CPUレンダラについて紹介します．
-筆者は，CGの分野とはあまり縁がなかったのですが，最近は3Dシミュレーションを行うことが多いため，実は結構気になっていた分野ではありました．
-制作を進める中で，どこがそんなに時間のかかる処理なのか，RTコアの無いGPUはなんでシミュレーションが若干重いのかなど，気になっていた疑問を少しだけ解消できたように思います．
-
-この制作を行う上で，GitHub CopilotとAIをゴリゴリに使っていますし，論文も何も追...]]></summary>
-        <author>
-            <name>OyaTomo</name>
         </author>
     </entry>
 </feed>

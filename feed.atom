@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-01-10T03:52:20.290Z</updated>
+    <updated>2026-01-10T08:15:22.300Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
@@ -4598,19 +4598,6 @@ https://orangelily.hatenablog.com/entry/2024/...]]></summary>
 続きをみる]]></summary>
         <author>
             <name>#Houdiniタグ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Slang Shader Reflectionと戯れる]]></title>
-        <id>https://zenn.dev/pctg_x8/articles/1c8950f59741f9</id>
-        <link href="https://zenn.dev/pctg_x8/articles/1c8950f59741f9"/>
-        <updated>2025-12-11T15:55:10.000Z</updated>
-        <summary type="html"><![CDATA[この記事はKLab Engineer Advent Calendar 2025の12日目の記事です。
-
-最近(2024年末ごろ？に)あたらしく出てきたSlangというシェーダ記述言語があります。この言語は従来使われてきたGLSLやHLSLよりもっと高度な言語機能をもっており[1]、それらをうまく使うことでシェーダでありながら高度な抽象化をおこなったり可読性を向上させたりすることが可能です。
-また、コンパイラバイナリだけでなくライブラリの形でも提供されており、そのライブラリが提供するAPIによってコンパイルフローを自身のアプリに組み込むことができるほか、今回の題材のReflection A...]]></summary>
-        <author>
-            <name>S.Percentage</name>
         </author>
     </entry>
 </feed>

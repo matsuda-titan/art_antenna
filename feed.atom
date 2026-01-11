@@ -2,10 +2,59 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-01-10T12:21:14.689Z</updated>
+    <updated>2026-01-11T01:04:28.445Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Quad Filler 1.0 アップデート｜1クリックで異なるエッジ数でも四角形ブリッジ＆自動トポロジー生成できるBlenderアドオン]]></title>
+        <id>https://modelinghappy.com/?p=66571</id>
+        <link href="https://modelinghappy.com/archives/66571"/>
+        <updated>2026-01-11T00:51:51.000Z</updated>
+        <summary type="html"><![CDATA[Quad Filler 1.0 (2026 New Update) Blenderでエッジを繋げる際に、１クリックで自動的に四角形の面を作成してくれるアドオンQuad Filler 1.0がアップデートされ、様々なエッジ
+The post Quad Filler 1.0 アップデート｜1クリックで異なるエッジ数でも四角形ブリッジ＆自動トポロジー生成できるBlenderアドオン first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
+        <author>
+            <name>modelinghappy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NVIDIAら、数千種類のゲームをプレイ可能な汎用AI基盤モデル「NitroGen」を発表！  AIが人間と同様に「画面を見る」ことだけで状況を判断しボタン操作を実行 - ニュース]]></title>
+        <id>https://cgworld.jp/flashnews/01-202601-NitroGen.html</id>
+        <link href="https://cgworld.jp/flashnews/01-202601-NitroGen.html"/>
+        <updated>2026-01-10T23:17:51.000Z</updated>
+        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SDF Face Shadowマッピング を SDF無しでお手軽に再現する]]></title>
+        <id>https://qiita.com/tori_momo/items/949eb49747f425a33f57</id>
+        <link href="https://qiita.com/tori_momo/items/949eb49747f425a33f57"/>
+        <updated>2026-01-10T16:22:37.000Z</updated>
+        <summary type="html"><![CDATA[はじめに
+皆さんは「SDF Face Shadowマッピング」のSDFテクスチャを自作したことはあるでしょうか？
+キャラモデラーの方で、特にセルルック表現に関心の高い方は経験があるかもしれません。
+
+私も一度、テクスチャ出力ツールまで含めて、イチから作ってみたことが...]]></summary>
+        <author>
+            <name>Shaderタグが付けられた新着記事 - Qiita</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rust + wgpu v28 でハードウェアレイトレーシングに入門する]]></title>
+        <id>https://zenn.dev/kokutoupan/articles/eefc517ac4210d</id>
+        <link href="https://zenn.dev/kokutoupan/articles/eefc517ac4210d"/>
+        <updated>2026-01-10T14:12:23.000Z</updated>
+        <summary type="html"><![CDATA[Rust + wgpu v28 でハードウェアレイトレーシングに入門する
+RustのWebGPU実装である wgpu は日々進化していますが、v28時点でも ハードウェアアクセラレーションを利用したレイトレーシング（Ray Query / Inline Ray Tracing） に関する日本語情報はほぼ皆無です。
+「wgpu レイトレ」で検索しても出てくるのはCompute Shaderで交差判定を自作する「ソフトウェアレイトレ」ばかり……。
+しかし、私たちは RTコア を使いたいのです。
+この記事では、wgpu v28 の experimental 機能を使い、TLAS/BLAS ...]]></summary>
+        <author>
+            <name>黒糖ぱん</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SketchUp 2026 新機能を紹介！フィードバック機能の追加、SketchUp AIの搭載などなど]]></title>
         <id>https://cginterest.com/?p=53588</id>
@@ -4405,131 +4454,6 @@ viwportのカラーマネージメントはUIから1クリックでOFFにでき�
         <summary type="html"><![CDATA[Dincairwen（Keven Ouellet氏）がシェーディング制御用のSDFテクスチャを生成するツール「Face SDF Generator」を無料公開しています！]]></summary>
         <author>
             <name>Ymt3D -3dnchu-</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【Substance Painter】組み合わせたモデルをSubstance Painter内で見る方法]]></title>
-        <id>https://3d.crdg.jp/env/?p=8839</id>
-        <link href="https://3d.crdg.jp/env/2025/12/12/8839/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=%25e3%2580%2590substance-painter%25e3%2580%2591%25e7%25b5%2584%25e3%2581%25bf%25e5%2590%2588%25e3%2582%258f%25e3%2581%259b%25e3%2581%259f%25e3%2583%25a2%25e3%2583%2587%25e3%2583%25ab%25e3%2582%2592substance-painter%25e5%2586%2585%25e3%2581%25a7%25e8%25a6%258b%25e3%2582%258b%25e6%2596%25b9%25e6%25b3%2595"/>
-        <updated>2025-12-12T10:23:06.000Z</updated>
-        <summary type="html"><![CDATA[組み合わせたモデルをSubstance Painter内で見る方法ご紹介します。 配置する場所は自分が見やすい場所で大丈夫です。　　　　　　　　　　　 […]
-続きを読む
-投稿 【Substance Painter】組み合わせたモデルをSubstance Painter内で見る方法 は エンホリ - ENVIRONMENT HOLIC｜C&R Creative Studios に最初に表示されました。]]></summary>
-        <author>
-            <name>Akito.Yamakawa</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AREA JAPANにて『モンスターハンターワイルズ』メイキング記事公開－カプコン開発陣によるFlow PT／Maya／MotionBuilder活用術 - ニュース]]></title>
-        <id>https://cgworld.jp/flashnews/02-2512-capcom.html</id>
-        <link href="https://cgworld.jp/flashnews/02-2512-capcom.html"/>
-        <updated>2025-12-12T08:05:00.000Z</updated>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[V-Ray for Blender アップデート 2 がリリース！macOS対応とマテリアルジェネレータなどAI機能が追加！]]></title>
-        <id>https://cginterest.com/?p=53953</id>
-        <link href="https://cginterest.com/2025/12/12/v-ray-for-blender-%e3%82%a2%e3%83%83%e3%83%97%e3%83%87%e3%83%bc%e3%83%88-2-%e3%81%8c%e3%83%aa%e3%83%aa%e3%83%bc%e3%82%b9%ef%bc%81macos%e5%af%be%e5%bf%9c%e3%81%a8%e3%83%9e%e3%83%86%e3%83%aa%e3%82%a2/"/>
-        <updated>2025-12-12T07:34:00.000Z</updated>
-        <summary type="html"><![CDATA[2025年12月10日（現地時間）- Chaosは、Blender向けレンダリングエンジンの最新版となる「V-Ray for Blender, update 2」を公開しました。 主な新機能のハイライト 今回のアップデー […]
-V-Ray for Blender アップデート 2 がリリース！macOS対応とマテリアルジェネレータなどAI機能が追加！ first appeared on CGinterest.]]></summary>
-        <author>
-            <name>.me</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chaos Vantage 3 アップデート1がリリース！リアルタイム流体シミュレーターの追加など]]></title>
-        <id>https://cginterest.com/?p=53942</id>
-        <link href="https://cginterest.com/2025/12/12/chaos-vantage-3-%e3%82%a2%e3%83%83%e3%83%97%e3%83%87%e3%83%bc%e3%83%881%e3%81%8c%e3%83%aa%e3%83%aa%e3%83%bc%e3%82%b9%ef%bc%81%e3%83%aa%e3%82%a2%e3%83%ab%e3%82%bf%e3%82%a4%e3%83%a0%e6%b5%81%e4%bd%93/"/>
-        <updated>2025-12-12T07:04:13.000Z</updated>
-        <summary type="html"><![CDATA[2025年12月9日（現地時間）- Chaos は、建築ビジュアライゼーションとVFXアーティスト向けのリアルタイムツールのメジャーアップデート Chaos Vantage 3 アップデート 1 のリリースを発表しまし […]
-Chaos Vantage 3 アップデート1がリリース！リアルタイム流体シミュレーターの追加など first appeared on CGinterest.]]></summary>
-        <author>
-            <name>.me</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【アドオン紹介】Shape Key Fixer – シェイプキー管理を効率化！]]></title>
-        <id>https://cgbox.jp/?p=64836</id>
-        <link href="https://cgbox.jp/2025/12/12/news-addon-shape-key-fixer/"/>
-        <updated>2025-12-12T06:11:47.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは！ 今回はアドオンの「Shape Key Fixer」を紹介します。 こちらのリンクがアドオンの商品ページになります。 Shape Key Fixer 「Shape Key Fixer」は、シーン内すべてのシェ […]]]></summary>
-        <author>
-            <name>kasahara</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ZOTAC、GeForce RTX 5060 Ti搭載の世界最小クラスミニPC「MAGNUS EN275060TC」を発売 - ニュース]]></title>
-        <id>https://cgworld.jp/flashnews/02-2512-zotac.html</id>
-        <link href="https://cgworld.jp/flashnews/02-2512-zotac.html"/>
-        <updated>2025-12-12T03:52:58.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[VFXスーパーバイザーが語る 実写版『ヒックとドラゴン』の舞台裏]]></title>
-        <id>https://3dtotal.jp/?p=54035</id>
-        <link href="https://3dtotal.jp/news/54035/"/>
-        <updated>2025-12-12T03:50:08.000Z</updated>
-        <summary type="html"><![CDATA[★Discovering How to Train Your Dragon | Framestore（47分3秒） 00:00　Introduction（はじめに） 03:02　Reimagining Toothless […]
-The post VFXスーパーバイザーが語る 実写版『ヒックとドラゴン』の舞台裏 first appeared on 3dtotal 日本語オフィシャルサイト.]]></summary>
-        <author>
-            <name>3dtotal管理人T</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nuke 17 ベータ版、ガウシアン・スプラッティングにネイティブ対応]]></title>
-        <id>https://3dtotal.jp/?p=54032</id>
-        <link href="https://3dtotal.jp/news/54032/"/>
-        <updated>2025-12-12T03:24:32.000Z</updated>
-        <summary type="html"><![CDATA[★Nuke 17 | Intro to Gaussian Splats（2分） Nuke 17.0 オープンベータ では、Gaussian Splatting (ガウシアン・スプラッティング) のネイティブ対応機能が導入 […]
-The post Nuke 17 ベータ版、ガウシアン・スプラッティングにネイティブ対応 first appeared on 3dtotal 日本語オフィシャルサイト.]]></summary>
-        <author>
-            <name>3dtotal管理人T</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[映像チェックバックの新ツール「Autodesk Flow Capture」とは？開発裏話とQ&A - スペシャルコンテンツ]]></title>
-        <id>https://cgworld.jp/special-feature/2512-autodesk-flow-capture.html</id>
-        <link href="https://cgworld.jp/special-feature/2512-autodesk-flow-capture.html"/>
-        <updated>2025-12-12T02:50:00.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[なぜPC更新は「3年サイクル」なのか？ AMD×旭プロ TSUKUMOコラボモデルに宿る"現場的"設計思想 - スペシャルコンテンツ]]></title>
-        <id>https://cgworld.jp/special-feature/01-2512-amd-asahi-tsukumo.html</id>
-        <link href="https://cgworld.jp/special-feature/01-2512-amd-asahi-tsukumo.html"/>
-        <updated>2025-12-12T02:25:00.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[アジア13の国・地域から選ばれた13作品が受賞。韓国クリエイターの才能が光った第27回「DigiCon6 ASIA Awards」授賞式 - 特集]]></title>
-        <id>https://cgworld.jp/article/202512-digicon6.html</id>
-        <link href="https://cgworld.jp/article/202512-digicon6.html"/>
-        <updated>2025-12-12T01:59:00.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3ds Max：プラグイン活用で表現の幅を拡げよう！ 第11回：Forest Packって楽しい！]]></title>
-        <id>https://area.autodesk.jp/column/tutorial/3ds-max-plugin/11-forestpack/</id>
-        <link href="https://area.autodesk.jp/column/tutorial/3ds-max-plugin/11-forestpack/"/>
-        <updated>2025-12-12T01:00:00.000Z</updated>
-        <summary type="html"><![CDATA[今回は前回の予告通り、Forest Packをもう少しだけ掘り下げて解説させて頂きます！前回はtyFlowと絡めて広大なシーンを作成する手法の解説でしたが、今回は小さなシーンでの構築となります。・・・]]></summary>
-        <author>
-            <name>AREA JAPAN | Autodesk</name>
         </author>
     </entry>
 </feed>

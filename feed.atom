@@ -2,10 +2,66 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-01-12T08:19:20.925Z</updated>
+    <updated>2026-01-12T12:26:32.344Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[カラーアトリビュートを割り当てたい【Houdini】]]></title>
+        <id>https://note.com/tou_artist/n/n571971566e0b</id>
+        <link href="https://note.com/tou_artist/n/n571971566e0b"/>
+        <updated>2026-01-12T12:12:28.000Z</updated>
+        <summary type="html"><![CDATA[今回はカラーアトリビュートをジオメトリエレメントに割り当てる、４つのノードとその使い分けを紹介します。
+この4つはできることが似ているけれど、目的・操作感・柔軟性が違います。
+続きをみる]]></summary>
+        <author>
+            <name>#Houdiniタグ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ポケポケのホログラム表現に挑戦③]]></title>
+        <id>https://qiita.com/tsuchinokoman/items/a9cb369f77dc0914af18</id>
+        <link href="https://qiita.com/tsuchinokoman/items/a9cb369f77dc0914af18"/>
+        <updated>2026-01-12T11:29:07.000Z</updated>
+        <summary type="html"><![CDATA[ポケポケのホログラム表現に挑戦③
+この記事は前回の記事
+「ポケポケのホログラム表現に挑戦②」の続編です
+初めての方は①～②を読んでからこの記事を読んでください
+
+前回はセルラーノイズを応用し、マーブル模様を表示するところまでやっていました。
+今回は以下映像のような表現...]]></summary>
+        <author>
+            <name>HLSLタグが付けられた新着記事 - Qiita</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[触りたくなる3D表示：Unityで作るCADライク強調輪郭]]></title>
+        <id>https://zenn.dev/wogo_techblog/articles/c7f20164e5266f</id>
+        <link href="https://zenn.dev/wogo_techblog/articles/c7f20164e5266f"/>
+        <updated>2026-01-12T10:23:05.000Z</updated>
+        <summary type="html"><![CDATA[自己紹介
+初めまして、WOGO でソフトウェアエンジニアのインターンをやっている坪井星汰です。普段は東京大学の大学院で量子計算機やコンピュータアーキテクチャなどの研究を行っています。インターンでは Web 開発や Unity を使ったソフトウェアの開発などに取り組んでいます。WOGO はとてもアットホームな雰囲気ですが、技術的には手加減をせず本当に高度なことに取りくむことができる環境で、エンジニアとして大きく成長していると感じています。
+
+ 本題
+上でも述べましたが、最近はUnityを使ったソフトウェアを作っています。そんな中でこのような要件が生まれました。
+
+「Unityで3D C...]]></summary>
+        <author>
+            <name>seitsubo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TECHNIQUE GUIDEUE（Lumen）で斑点が出ない日本向けオーク床マテリアルの作り方（考え方編）]]></title>
+        <id>https://note.com/juntominaga/n/ndf1b8e7654b2</id>
+        <link href="https://note.com/juntominaga/n/ndf1b8e7654b2"/>
+        <updated>2026-01-12T08:28:45.000Z</updated>
+        <summary type="html"><![CDATA[はじめに
+Unreal Engine（Lumen）で床マテリアルを使うと、丸い斑点・反射ムラ・ギラつきが出てしまうことがあります。
+続きをみる]]></summary>
+        <author>
+            <name>#substancepainterタグ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[3DCG制作への熱い想いと始めるきっかけ]]></title>
         <id>https://note.com/creatorsaki_vlog/n/n446759f888d9</id>
@@ -32,6 +88,18 @@
 続きをみる]]></summary>
         <author>
             <name>#substancepainterタグ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kristof Dedeneさんによるblender漫画風ハッチングシェーダーのまとめ]]></title>
+        <id>https://zenn.dev/1610/articles/a2f8b1add7be64</id>
+        <link href="https://zenn.dev/1610/articles/a2f8b1add7be64"/>
+        <updated>2026-01-12T01:18:41.000Z</updated>
+        <summary type="html"><![CDATA[Blenderで使える漫画用のシェーダー。
+これが全部ってわけでなく、もちろんカスタムできる。
+ここからダウンロードできます。]]></summary>
+        <author>
+            <name>Red Lantern</name>
         </author>
     </entry>
     <entry>
@@ -4283,35 +4351,6 @@ The post ZBrushをメインにスタイライズド調の可愛い悪魔のキ�
 続きをみる]]></summary>
         <author>
             <name>#substancepainterタグ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[アニメーションツール「Cascadeur 2025.3」リリース！ AIによる中間フレーム補間、四足歩行キャラサポート、レンダリングエンジン刷新、改良された物理ツールなど - ニュース]]></title>
-        <id>https://cgworld.jp/flashnews/01-202512-Cascadeur20253.html</id>
-        <link href="https://cgworld.jp/flashnews/01-202512-Cascadeur20253.html"/>
-        <updated>2025-12-13T22:36:47.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[mayaのカメラをなんとかしたい5　~2Dカメラアニメーション~]]></title>
-        <id>https://qiita.com/9boz/items/f439c4ae6ce0bea8e98c</id>
-        <link href="https://qiita.com/9boz/items/f439c4ae6ce0bea8e98c"/>
-        <updated>2025-12-13T22:10:23.000Z</updated>
-        <summary type="html"><![CDATA[アニメーション作業をしている人を見ながら　ふと
-2次元カメラのアニメーションを確認するために
-プレイブラスト書き出して、
-AE起動して読み込ませて・・・・・
-ん～めんどそう。
-maya内である程度完結できんものかなぁ
-
-カメラの機能を確認
-この辺のアトリビュートですよねぇ
-...]]></summary>
-        <author>
-            <name>mayaタグが付けられた新着記事 - Qiita</name>
         </author>
     </entry>
 </feed>

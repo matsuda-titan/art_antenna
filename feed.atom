@@ -2,10 +2,45 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-01-13T03:58:21.085Z</updated>
+    <updated>2026-01-13T08:17:57.771Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[象徴的な場所をデジタルで拡張。映画『ウィキッド 永遠の約束』の VFXブレイクダウン映像]]></title>
+        <id>https://3dtotal.jp/?p=54337</id>
+        <link href="https://3dtotal.jp/news/54337/"/>
+        <updated>2026-01-13T07:47:29.000Z</updated>
+        <summary type="html"><![CDATA[★Wicked: For Good VFX Breakdown | Framestore（3分57秒） オズへの帰還には、スケールの飛躍的な拡大が必要でした。私たち Framestore のチームは ネイサン・クロウリー […]
+The post 象徴的な場所をデジタルで拡張。映画『ウィキッド 永遠の約束』の VFXブレイクダウン映像 first appeared on 3dtotal 日本語オフィシャルサイト.]]></summary>
+        <author>
+            <name>3dtotal管理人T</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[自作ゲームエンジンでシェーダーツールを実用レベルまで作った話]]></title>
+        <id>https://zenn.dev/sanzenin/articles/87cdb18dee5cce</id>
+        <link href="https://zenn.dev/sanzenin/articles/87cdb18dee5cce"/>
+        <updated>2026-01-13T04:55:38.000Z</updated>
+        <summary type="html"><![CDATA[作り始めたきっかけ
+シェーダーのツールと聞くと、
+シェーダーグラフを思い浮かべる方が多いと思います。
+ノードベースで繋いでいくシェーダーグラフは非常に便利ですが、
+ノードが増えてくると見た目をきれいに保ち、
+全体の流れを把握することが難しいと感じる場面がありました。
+そこで、ノードベースとは別のアプローチで
+シェーダーを構築できないかと考えたのが、
+このツールを作り始めたきっかけです。
+
+ 設計案１
+最初に、シェーダーの１行分をモジュール１つとして考えて
+GUI上で並べて構築していく方法で実装しました。
+この方法でも構築自体は可能でしたが、
+１行単位という粒度が荒すぎてモジュール数が...]]></summary>
+        <author>
+            <name>三千院</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[リアルイベントでより深まるクリエイター同士の絆。「CGWORLD 2025 クリエイティブカンファレンス」全体レポート - スペシャルコンテンツ]]></title>
         <id>https://cgworld.jp/special-feature/2501-cgcc-2025.html</id>

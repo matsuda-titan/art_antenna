@@ -2018,6 +2018,16 @@
       "siteUrl": "https://3dtotal.jp",
       "articles": [
         {
+          "id": "https://3dtotal.jp/?p=54337",
+          "author": "3dtotal管理人T",
+          "description": "★Wicked: For Good VFX Breakdown | Framestore（3分57秒） オズへの帰還には、スケールの飛躍的な拡大が必要でした。私たち Framestore のチームは ネイサン・クロウリー […]\nThe post 象徴的な場所をデジタルで拡張。映画『ウィキッド 永遠の約束』の VFXブレイクダウン映像 first appeared on 3dtotal 日本語オフィシャルサイト.",
+          "link": "https://3dtotal.jp/news/54337/",
+          "publishedOn": "2026-01-13T07:47:29.000Z",
+          "wordCount": 518,
+          "title": "象徴的な場所をデジタルで拡張。映画『ウィキッド 永遠の約束』の VFXブレイクダウン映像",
+          "imageUrl": "https://3dtotal.jp/wp-content/uploads/2026/01/wickedfg_fstore.jpg"
+        },
+        {
           "id": "https://3dtotal.jp/?p=54323",
           "author": "3dtotal管理人T",
           "description": "★Toon Material In Blender（8分16秒） コンセプトデザイナー＆アートディレクター Neil Blevins氏 制作 の Blender トゥーンシェーダー作成チュートリアル。 Blender で […]\nThe post Blender でトゥーンシェーダーを作成する方法（※英語ムービー） first appeared on 3dtotal 日本語オフィシャルサイト.",
@@ -3247,6 +3257,21 @@
       "feedUrl": "https://zenn.dev/topics/hlsl/feed",
       "siteUrl": "https://zenn.dev/topics/hlsl",
       "articles": [
+        {
+          "id": "https://zenn.dev/sanzenin/articles/87cdb18dee5cce",
+          "author": "三千院",
+          "description": "作り始めたきっかけ\nシェーダーのツールと聞くと、\nシェーダーグラフを思い浮かべる方が多いと思います。\nノードベースで繋いでいくシェーダーグラフは非常に便利ですが、\nノードが増えてくると見た目をきれいに保ち、\n全体の流れを把握することが難しいと感じる場面がありました。\nそこで、ノードベースとは別のアプローチで\nシェーダーを構築できないかと考えたのが、\nこのツールを作り始めたきっかけです。\n\n 設計案１\n最初に、シェーダーの１行分をモジュール１つとして考えて\nGUI上で並べて構築していく方法で実装しました。\nこの方法でも構築自体は可能でしたが、\n１行単位という粒度が荒すぎてモジュール数が...",
+          "link": "https://zenn.dev/sanzenin/articles/87cdb18dee5cce",
+          "publishedOn": "2026-01-13T04:55:38.000Z",
+          "wordCount": 506,
+          "title": "自作ゲームエンジンでシェーダーツールを実用レベルまで作った話",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--K7csb8n0--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E8%2587%25AA%25E4%25BD%259C%25E3%2582%25B2%25E3%2583%25BC%25E3%2583%25A0%25E3%2582%25A8%25E3%2583%25B3%25E3%2582%25B8%25E3%2583%25B3%25E3%2581%25A7%25E3%2582%25B7%25E3%2582%25A7%25E3%2583%25BC%25E3%2583%2580%25E3%2583%25BC%25E3%2583%2584%25E3%2583%25BC%25E3%2583%25AB%25E3%2582%2592%25E5%25AE%259F%25E7%2594%25A8%25E3%2583%25AC%25E3%2583%2599%25E3%2583%25AB%25E3%2581%25BE%25E3%2581%25A7%25E4%25BD%259C%25E3%2581%25A3%25E3%2581%259F%25E8%25A9%25B1%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E4%25B8%2589%25E5%258D%2583%25E9%2599%25A2%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2VkZTIyOTk1ZDEuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
+            "length": "0",
+            "type": "false"
+          },
+          "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--K7csb8n0--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E8%2587%25AA%25E4%25BD%259C%25E3%2582%25B2%25E3%2583%25BC%25E3%2583%25A0%25E3%2582%25A8%25E3%2583%25B3%25E3%2582%25B8%25E3%2583%25B3%25E3%2581%25A7%25E3%2582%25B7%25E3%2582%25A7%25E3%2583%25BC%25E3%2583%2580%25E3%2583%25BC%25E3%2583%2584%25E3%2583%25BC%25E3%2583%25AB%25E3%2582%2592%25E5%25AE%259F%25E7%2594%25A8%25E3%2583%25AC%25E3%2583%2599%25E3%2583%25AB%25E3%2581%25BE%25E3%2581%25A7%25E4%25BD%259C%25E3%2581%25A3%25E3%2581%259F%25E8%25A9%25B1%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E4%25B8%2589%25E5%258D%2583%25E9%2599%25A2%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2VkZTIyOTk1ZDEuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"
+        },
         {
           "id": "https://zenn.dev/sanzenin/articles/033343ab19eb8c",
           "author": "三千院",

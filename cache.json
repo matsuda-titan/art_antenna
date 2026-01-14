@@ -728,6 +728,16 @@
       "siteUrl": "https://cgworld.jp/",
       "articles": [
         {
+          "id": "https://cgworld.jp/regular/202601-rururig-08.html",
+          "author": null,
+          "description": "",
+          "link": "https://cgworld.jp/regular/202601-rururig-08.html",
+          "publishedOn": "2026-01-14T01:21:00.000Z",
+          "wordCount": 842,
+          "title": "第8回：キャラクターモーション＜その3＞ - 連載",
+          "imageUrl": "https://cgworld.jp/regular/assets_c/2025/12/Lee_008_Banner-thumb-1000x450-77830.jpg"
+        },
+        {
           "id": "https://cgworld.jp/flashnews/01-202601-Hitem3D20.html",
           "author": null,
           "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
@@ -1939,16 +1949,6 @@
           "wordCount": 3904,
           "title": "【2025年冬】ドスパラ最大10万円OFF＆ポイント還元！Blender・3DCG向けおすすめPC構成まとめ",
           "imageUrl": "https://modelinghappy.com/wp-content/uploads/2025/12/20251216_dosupara_00.jpg"
-        },
-        {
-          "id": "https://modelinghappy.com/?p=66061",
-          "author": "modelinghappy",
-          "description": "Cross Select Cross SelectはBlenderでRhino、CAD、3dsMaxと同じ選択ツールのように、左から右へドラッグして選択すると頂点が正方形の範囲に全て含まれているオブジェクトのみが選択され\nThe post Cross Select – BlenderでCAD風選択！全部囲む／触れたら選択を使い分けられる無料アドオン first appeared on 3DCG最新情報サイト MODELING HAPPY.",
-          "link": "https://modelinghappy.com/archives/66061",
-          "publishedOn": "2025-12-15T14:00:35.000Z",
-          "wordCount": 3693,
-          "title": "Cross Select – BlenderでCAD風選択！全部囲む／触れたら選択を使い分けられる無料アドオン",
-          "imageUrl": "https://modelinghappy.com/wp-content/uploads/2025/12/20251215_cross_select_01.jpg"
         }
       ]
     },
@@ -2922,16 +2922,6 @@
           "wordCount": 1226,
           "title": "UnityでToonShaderを自作してみる",
           "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Fadvent-calendar-ogp-background-7940cd1c8db80a7ec40711d90f43539e.jpg%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRmxoMy5nb29nbGV1c2VyY29udGVudC5jb20lMkZhLSUyRkFPaDE0R2hEZjZrRVVmREtUcWswYWF5LWZsV1BFbGg2UlN4OFo0UHlJdkIzJTNEczUwP2l4bGliPXJiLTQuMC4wJmFyPTElM0ExJmZpdD1jcm9wJm1hc2s9ZWxsaXBzZSZiZz1GRkZGRkYmZm09cG5nMzImcz01MjI1YzE0NTMwZDJmMDQ4YTAzMTZmOThlZjI4ZDVmYw%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D7cca5553f74a138131cf0d18689e2766?ixlib=rb-4.0.0&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9VW5pdHklRTMlODElQTdUb29uU2hhZGVyJUUzJTgyJTkyJUU4JTg3JUFBJUU0JUJEJTlDJUUzJTgxJTk3JUUzJTgxJUE2JUUzJTgxJUJGJUUzJTgyJThCJnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMzQTNDM0MmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9NTI3ZmZhMzdmNjNkMDAxYzE0YzZlMDEyZjc2YzhhMGI&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBhaW91a3UmdHh0LWNvbG9yPSUyMzNBM0MzQyZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz05NmRjYWYyNTI3Mzc3NDExYTFiNWExZmJlN2ExYjFiMw&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=4b26464b939d7f3a81e2ae0f1d76e18f"
-        },
-        {
-          "id": "https://qiita.com/ratura/items/71d7952347be3270976a",
-          "author": null,
-          "description": "初投稿の記事になります。\n至らぬところ多々あると思いますが、優しい目で見ていただけると嬉しいです\n\n映写機ってなんかおしゃれだよねー\n皆さんも思いませんか？映写機ってなんかエモいというか演出として良いものだと私は思います。\nえ？「映写機ってなんぞや？」\nあらまぁ、ご...",
-          "link": "https://qiita.com/ratura/items/71d7952347be3270976a",
-          "publishedOn": "2025-12-15T15:09:25.000Z",
-          "wordCount": 1560,
-          "title": "映写機の演出っていいよね。よし作ろう。",
-          "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Fadvent-calendar-ogp-background-7940cd1c8db80a7ec40711d90f43539e.jpg%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRmxoMy5nb29nbGV1c2VyY29udGVudC5jb20lMkZhJTJGQUNnOG9jSUE4T2FEMk5rRTBpc1k2YWxIeUVBblpLSlpFeENFT1NFZWlMZl9sUGhvelc5YllOayUzRHM5Ni1jP2l4bGliPXJiLTQuMC4wJmFyPTElM0ExJmZpdD1jcm9wJm1hc2s9ZWxsaXBzZSZiZz1GRkZGRkYmZm09cG5nMzImcz00OGNkMmU2NzFkOWFmMTRkYTkxOGNjMTMxYjU1OGMwMA%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D53697e699fa1232da868e80ebbcb1192?ixlib=rb-4.0.0&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9JUU2JTk4JUEwJUU1JTg2JTk5JUU2JUE5JTlGJUUzJTgxJUFFJUU2JUJDJTk0JUU1JTg3JUJBJUUzJTgxJUEzJUUzJTgxJUE2JUUzJTgxJTg0JUUzJTgxJTg0JUUzJTgyJTg4JUUzJTgxJUFEJUUzJTgwJTgyJUUzJTgyJTg4JUUzJTgxJTk3JUU0JUJEJTlDJUUzJTgyJThEJUUzJTgxJTg2JUUzJTgwJTgyJnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMzQTNDM0MmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9YjFlMjgyNWM3MzViOGE1NTFkNjBjM2JhMjdjY2M3MDc&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDByYXR1cmEmdHh0LWNvbG9yPSUyMzNBM0MzQyZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz1jOTUwOWEzMDQ0YmEwMDE3N2YxM2E2MWE3MjNmZjVmZQ&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=1ec116b0be366f223fecca165584915d"
         }
       ]
     },

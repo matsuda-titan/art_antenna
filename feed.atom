@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-01-17T12:21:05.888Z</updated>
+    <updated>2026-01-18T01:03:41.989Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
@@ -67,6 +67,26 @@ Cinema4D内で複数の画像生成AIにアクセスして画像を生成でき�
         <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
         <author>
             <name>CGWORLD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[UnityのカスタムシェーダーでUVスクロールを実装する]]></title>
+        <id>https://qiita.com/Proto13/items/51a2868f1381791f163f</id>
+        <link href="https://qiita.com/Proto13/items/51a2868f1381791f163f"/>
+        <updated>2026-01-16T14:58:29.000Z</updated>
+        <summary type="html"><![CDATA[概要
+本記事では、Unityのカスタムシェーダーを用いてシンプルなUVスクロールを実装する方法を紹介します。
+
+環境
+Unity: 6000.3.2f1
+プロジェクトテンプレート: Universal 2D
+
+実装
+
+1. ImageのWrap ModeをRepeatに
+...]]></summary>
+        <author>
+            <name>Shaderタグが付けられた新着記事 - Qiita</name>
         </author>
     </entry>
     <entry>
@@ -3752,218 +3772,6 @@ Unity の Universal Render Pipeline (URP) で Renderer Features を管理する�
 Unity の Universal Render Pipeline (URP) で Renderer Features を管理する際、標準の Inspector には以下のよ...]]></summary>
         <author>
             <name>グラフィックスタグが付けられた新着記事 - Qiita</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Adobeが動画生成AI機能を強化！Runwayとの戦略的パートナーシップ締結とFireflyビデオ制作ワークフローの刷新を発表]]></title>
-        <id>https://cginterest.com/?p=54232</id>
-        <link href="https://cginterest.com/2025/12/19/adobe%e3%81%8c%e5%8b%95%e7%94%bb%e7%94%9f%e6%88%90ai%e6%a9%9f%e8%83%bd%e3%82%92%e5%bc%b7%e5%8c%96%ef%bc%81runway%e3%81%a8%e3%81%ae%e6%88%a6%e7%95%a5%e7%9a%84%e3%83%91%e3%83%bc%e3%83%88%e3%83%8a/"/>
-        <updated>2025-12-19T10:33:40.000Z</updated>
-        <summary type="html"><![CDATA[2025年12月18日 – アドビは、AI動画生成分野のリーダーであるRunwayとの複数年にわたる戦略的パートナーシップの締結を発表しました。同時に、「Adobe Firefly」におけるビデオ制作ワークフ […]
-Adobeが動画生成AI機能を強化！Runwayとの戦略的パートナーシップ締結とFireflyビデオ制作ワークフローの刷新を発表 first appeared on CGinterest.]]></summary>
-        <author>
-            <name>.me</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【Three.js × GLSL】Glitch Effects : Starting from the Basics 🔰]]></title>
-        <id>https://zenn.dev/er/articles/6c696c5a0ddc41</id>
-        <link href="https://zenn.dev/er/articles/6c696c5a0ddc41"/>
-        <updated>2025-12-19T06:17:13.000Z</updated>
-        <summary type="html"><![CDATA[This article is the December 19th post of the Money Forward Engineers Advent Calendar 2025 🎅
-This article is also available in Japanese: Read the Japanese version of this article
-
- Introduction
-In this article, I explain how to implement glitch effects using shaders, while covering the basics of ...]]></summary>
-        <author>
-            <name>ERI</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【Three.js × GLSL】基礎から始めるグリッチ表現🔰初心者向け]]></title>
-        <id>https://zenn.dev/er/articles/bfa3bfdfe1ac9b</id>
-        <link href="https://zenn.dev/er/articles/bfa3bfdfe1ac9b"/>
-        <updated>2025-12-19T05:27:29.000Z</updated>
-        <summary type="html"><![CDATA[この記事は、Money Forward Engineers Advent Calendar 2025の12月19日の投稿です🎅
-この記事は英語版もあります🦌→英語版の記事を読む
-
- はじめに
-この記事では、Three.jsとGLSLの基礎を押さえながら、シェーダーを使ったグリッチ表現の実装方法を解説します。
-
-素材は、unsplashからお借りしています。
-なお、本業の業務とは直接関係のない内容ですが、前職でアニメーションを担当することが多かったこともあり、クリエイティブコーディングには以前から関心がありました。
-ある日、社内のエンジニアから同じような興味を持っていると聞き、それをきっか...]]></summary>
-        <author>
-            <name>ERI</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Geminiとゆるゆるデザイン「Geminiとつくるクリスマスグラフィック」]]></title>
-        <id>https://qiita.com/yorm/items/727be9ff5df63161804a</id>
-        <link href="https://qiita.com/yorm/items/727be9ff5df63161804a"/>
-        <updated>2025-12-19T04:07:55.000Z</updated>
-        <summary type="html"><![CDATA[「こんなものできる？」豪華ツリーの無謀な始まり
-こんにちは。子ども向けプログラミング教室「LITALICOワンダー」に関わる販促物を、日々テンション高くつくっています。
-クリスマスといえば子どもにとって爆裂アゲアゲな最重要イベント。
-この記事を書いている今すでに12月。繁...]]></summary>
-        <author>
-            <name>グラフィックスタグが付けられた新着記事 - Qiita</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CLIP STUDIO PAINTが30%引き！ 年末スーパーSALEが開催中！]]></title>
-        <id>https://modelinghappy.com/?p=66175</id>
-        <link href="https://modelinghappy.com/archives/66175"/>
-        <updated>2025-12-19T03:57:37.000Z</updated>
-        <summary type="html"><![CDATA[CLIP STUDIO PAINT 年末スーパーSALE 2025年12月25日まで、CLIP STUDIO PAINTの買い切り版、サブスク版、アップグレード版がそれぞれ30%引きになるセールを開催中です。 CLIP
-The post CLIP STUDIO PAINTが30%引き！ 年末スーパーSALEが開催中！ first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
-        <author>
-            <name>modelinghappy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[納品前夜のこと。Framestore のホリデーアニメーション「’Twas the Night Before Delivery」]]></title>
-        <id>https://3dtotal.jp/?p=54162</id>
-        <link href="https://3dtotal.jp/news/54162/"/>
-        <updated>2025-12-19T02:48:21.000Z</updated>
-        <summary type="html"><![CDATA[★'Twas the Night Before Delivery（52秒/ 制作：Framestore） 納品前夜のこと、 スタジオ中じゅう アーティストたちは皆、 一列に並んだピクセルを描いていた。 監督も誰も動かない […]
-The post 納品前夜のこと。Framestore のホリデーアニメーション「'Twas the Night Before Delivery」 first appeared on 3dtotal 日本語オフィシャルサイト.]]></summary>
-        <author>
-            <name>3dtotal管理人T</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【GIGABYTE】Cinema 4DとAfter EffectsによるVFX作業が快適に行えた！ きむらえいじゅんが「AERO X16 Copilot+ PC」を試す - 特集]]></title>
-        <id>https://cgworld.jp/article/202512-GIGABYTE-AERO-X16-KimuraEijun.html</id>
-        <link href="https://cgworld.jp/article/202512-GIGABYTE-AERO-X16-KimuraEijun.html"/>
-        <updated>2025-12-19T02:41:50.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【有料チュートリアル紹介！】Eevee Realistic Lighting And Rendering – Blender5.0でEEVEEのライティング講座！]]></title>
-        <id>https://cgbox.jp/?p=64884</id>
-        <link href="https://cgbox.jp/2025/12/19/news-addon-eevee-realistic-lighting-and-rendering/"/>
-        <updated>2025-12-19T02:34:51.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは！ 今回は”Creative Shrimp”さんの動画を紹介します。 Eevee Realistic Lighting And Rendering 「Eevee Realistic Lighting And R […]]]></summary>
-        <author>
-            <name>kasahara</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TRELLIS 2 - Microsoftが1枚の画像から複雑かつシャープなトポロジー・PBRマテリアルを備えた高品質な3Dアセットを生成する技術をオープンソース公開！]]></title>
-        <id>https://3dnchu.com/?p=1060780</id>
-        <link href="https://3dnchu.com/archives/trellis-2/"/>
-        <updated>2025-12-19T02:24:19.000Z</updated>
-        <summary type="html"><![CDATA[Microsoft Research、清華大学、中国科学技術大学などの研究チームが1枚の画像から複雑かつシャープなトポロジー・PBRマテリアルを備えた高品質な3Dアセットを生成する技術「TRELLIS 2」をオープンソース公開しました！]]></summary>
-        <author>
-            <name>Ymt3D -3dnchu-</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[澤田友明氏と見るAMD Ryzen™・Radeon™搭載PC！　クリエイターの視点でおすすめハードをご紹介　CGWORLD 2025 クリエイティブカンファレンス イベントレポート - スペシャルコンテンツ]]></title>
-        <id>https://cgworld.jp/special-feature/2512-amd-CGW2025CC.html</id>
-        <link href="https://cgworld.jp/special-feature/2512-amd-CGW2025CC.html"/>
-        <updated>2025-12-19T02:20:00.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nuke のパーティクルで リアルな炎をつくる方法（データダウンロード/ ※英語ムービー）]]></title>
-        <id>https://3dtotal.jp/?p=54154</id>
-        <link href="https://3dtotal.jp/tutorials/54154/"/>
-        <updated>2025-12-19T02:08:52.000Z</updated>
-        <summary type="html"><![CDATA[★パート1 炎：Creating fire with particles in Nuke - Part 1（33分31秒） Nuke で直接、リアルな炎・煙・火の粉を作成するための、コンポジットに特化した完全なワークフロ […]
-The post Nuke のパーティクルで リアルな炎をつくる方法（データダウンロード/ ※英語ムービー） first appeared on 3dtotal 日本語オフィシャルサイト.]]></summary>
-        <author>
-            <name>3dtotal管理人T</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Maxon の 2025年、振り返り映像「Maxon’s 2025 Year in Review」]]></title>
-        <id>https://3dtotal.jp/?p=54152</id>
-        <link href="https://3dtotal.jp/news/54152/"/>
-        <updated>2025-12-19T01:57:55.000Z</updated>
-        <summary type="html"><![CDATA[★Maxon's 2025 Year in Review（2分2秒） Maxon の 2025年、振り返り映像「Maxon's 2025 Year in Review」 　 編集部からのおすすめ： 色、構図.. アートの […]
-The post Maxon の 2025年、振り返り映像「Maxon's 2025 Year in Review」 first appeared on 3dtotal 日本語オフィシャルサイト.]]></summary>
-        <author>
-            <name>3dtotal管理人T</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[100名以上に豪華プレゼント！CGクリエイター制作環境調査 - スペシャルコンテンツ]]></title>
-        <id>https://cgworld.jp/special-feature/2512-100cg.html</id>
-        <link href="https://cgworld.jp/special-feature/2512-100cg.html"/>
-        <updated>2025-12-19T01:35:04.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[VRChatワールド向け雪シェーダ「GPU Snow - GPU Particle Volumes」リリース！ ローエンドGPUでも数十万のパーティクルをレンダリング可能、基盤技術はオープンソースで公開 - ニュース]]></title>
-        <id>https://cgworld.jp/flashnews/01-202512-GPUSnow.html</id>
-        <link href="https://cgworld.jp/flashnews/01-202512-GPUSnow.html"/>
-        <updated>2025-12-19T01:30:12.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TVアニメ『ワンダンス』ダンサーが描くダンスアニメの制作舞台裏を解説 〜No.3／キャラクター＆エフェクト篇 - 特集]]></title>
-        <id>https://cgworld.jp/article/animecg136-wandance03.html</id>
-        <link href="https://cgworld.jp/article/animecg136-wandance03.html"/>
-        <updated>2025-12-19T01:00:05.000Z</updated>
-        <summary type="html"><![CDATA[TVアニメ『ワンダンス』のアニメCGメイキング。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[リアルタイムレンダリングにおける透過手法まとめ]]></title>
-        <id>https://zenn.dev/hello_5246/articles/9eaa18b2641b3f</id>
-        <link href="https://zenn.dev/hello_5246/articles/9eaa18b2641b3f"/>
-        <updated>2025-12-19T01:00:01.000Z</updated>
-        <summary type="html"><![CDATA[はじめに
-この記事はQualiArts Advent Calendar 2025の19日目の記事です。
-こんにちは、はろーです。1年振りの記事になります。（ごめんなさい）
-気が付けば社会人も２年目になりました。早いものです。
-そんな話は置いておいて早速始めましょう。
-
- 概要
-まず、なぜこの記事について書こうと思い立ったかの話をします。
-私自身透過について研究している際に日本語で体系的にまとめられた記事が少なく、学習する機会も意外と少ないと感じたため、まとめてみると中々面白い記事になるかなと思い執筆しました。
-記事で書いている内容のサンプルは下記URLから確認できます。
-https:...]]></summary>
-        <author>
-            <name>はろ～</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ローカル軸とピボットを一括修正｜ゲーム向けアセットを正しく揃えられるBlender用無料アドオン「Pivot」]]></title>
-        <id>https://modelinghappy.com/?p=66164</id>
-        <link href="https://modelinghappy.com/archives/66164"/>
-        <updated>2025-12-19T00:46:30.000Z</updated>
-        <summary type="html"><![CDATA[Pivot: Fix Local Space amp; Standardize Assets Pivot: Fix Local Space amp; Standardize Assetsは、Blenderで角度のある
-The post ローカル軸とピボットを一括修正｜ゲーム向けアセットを正しく揃えられるBlender用無料アドオン「Pivot」 first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
-        <author>
-            <name>modelinghappy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[スタイライズされた森を素早く作成することができるBlenderアドオン「Stylized Forest Generator Addon – Trees & Plants Assets」]]></title>
-        <id>https://cginterest.com/?p=54147</id>
-        <link href="https://cginterest.com/2025/12/19/%e3%82%b9%e3%82%bf%e3%82%a4%e3%83%a9%e3%82%a4%e3%82%ba%e3%81%95%e3%82%8c%e3%81%9f%e6%a3%ae%e3%82%92%e7%b4%a0%e6%97%a9%e3%81%8f%e4%bd%9c%e6%88%90%e3%81%99%e3%82%8b%e3%81%93%e3%81%a8%e3%81%8c%e3%81%a7/"/>
-        <updated>2025-12-19T00:38:00.000Z</updated>
-        <summary type="html"><![CDATA[Casey_Sheep氏とMeiU氏によって開発されたBlenderアドオン「Stylized Forest Generator Addon – Trees & Plants Assets」 Styl […]
-スタイライズされた森を素早く作成することができるBlenderアドオン「Stylized Forest Generator Addon – Trees & Plants Assets」 first appeared on CGinterest.]]></summary>
-        <author>
-            <name>.me</name>
         </author>
     </entry>
 </feed>

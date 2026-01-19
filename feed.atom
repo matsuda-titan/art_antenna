@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-01-18T12:21:26.261Z</updated>
+    <updated>2026-01-19T01:03:38.515Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[第4回 StudioGOONEYS 後編：ストーリー分析からオリジナル作品へ - 連載]]></title>
+        <id>https://cgworld.jp/regular/202601-manabi4-2.html</id>
+        <link href="https://cgworld.jp/regular/202601-manabi4-2.html"/>
+        <updated>2026-01-19T01:30:00.000Z</updated>
+        <summary type="html"><![CDATA[技術やツールだけでなく、「他者の視点で考える力」が問われる時代に、クリエイターはいかに成長していくのか。各社の教育・研修の取り組みに迫る連載企画、第4回はStudioGOONEYSを紹介する。後編では、社内で行われてきたストーリー分析会での学びと、その延長線上に生まれたオリジナル短編作品『BRIDGE -My Little Friends-』の制作を通じて培われた思考力と表現力に迫る。]]></summary>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[オープンソースの3D生成AIモデル「UltraShape 1.0」リリース！　全体構造の整合性とディテールのジオメトリ的ディテールを両立 - ニュース]]></title>
+        <id>https://cgworld.jp/flashnews/01-202601-UltraShape.html</id>
+        <link href="https://cgworld.jp/flashnews/01-202601-UltraShape.html"/>
+        <updated>2026-01-19T00:02:43.000Z</updated>
+        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[RefBoard – 複数案件・制作ファイル・納期・請求書・資料用の複数画像を1クリック管理できる無料ソフトがリリース]]></title>
         <id>https://modelinghappy.com/?p=66688</id>
@@ -3708,55 +3728,6 @@ Topaz Video 1.1.0 がリリース！質感を制御するグレインやデノ�
 Topaz Photo v1.1.0 がリリース！野生動物や人物写真に特化した新AIモデルの追加など first appeared on CGinterest.]]></summary>
         <author>
             <name>.me</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[リグ  ~伸びないジャケットを目指して~]]></title>
-        <id>https://qiita.com/9boz/items/cecbdda3f752f8d9de7d</id>
-        <link href="https://qiita.com/9boz/items/cecbdda3f752f8d9de7d"/>
-        <updated>2025-12-20T03:08:30.000Z</updated>
-        <summary type="html"><![CDATA[たまにはリガーっぽい内容も。
-たまに見かけるこういう感じのジャケットとかコート。
-前を開いてお洒落な感じですね。
-
-さぁセットアップししますかー
-骨打って～スキニングして～
-こんな感じ。
-
-正直メインのキャラじゃない　
-服はクロスシミュレーションする
-
-とかであればまぁ問...]]></summary>
-        <author>
-            <name>mayaタグが付けられた新着記事 - Qiita</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DirectX12 -レンダリング系バックエンドを参照なしで取得したい。-]]></title>
-        <id>https://qiita.com/MrKado/items/a0e70312854677017d76</id>
-        <link href="https://qiita.com/MrKado/items/a0e70312854677017d76"/>
-        <updated>2025-12-20T01:48:12.000Z</updated>
-        <summary type="html"><![CDATA[はじめに
-例えば、デバイス等が必要になった場合ほとんどは、引数で渡すかシングルトンで渡すかだと思います。ですが、オブジェクトが多くなると引数が多くなりごちゃごちゃになると思います。今回はそれを解消するため、Serviceという書き方を勉強していきたいと思います。
-
-全体の...]]></summary>
-        <author>
-            <name>グラフィックスタグが付けられた新着記事 - Qiita</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Houdini: パーティクルコントロール基礎]]></title>
-        <id>https://zenn.dev/kickbase/articles/66b4591cd39dd5</id>
-        <link href="https://zenn.dev/kickbase/articles/66b4591cd39dd5"/>
-        <updated>2025-12-20T01:00:01.000Z</updated>
-        <summary type="html"><![CDATA[もうアドベントカレンダーの季節とか嘘でしょう…？
-気を取り直して皆さんいかがお過ごしでしょう。僕は今年もHoudini三昧の毎日でした。
-今回はパーティクルコントロール基礎と題して、パーティクルのコントロールを通してHoudiniの基本的な考え方を学ぼうという内容になっています。
-またこのシーンは僕が運営しているHoudiniゆるゆる会という勉強会で発表したシーンを簡略化したものです。本勉強会にご興味がある方は以下勉強会のモットーをご確認の上Xで@めんたいこまでご連絡ください。皆さんの参加をお待ちしています。
-Houdiniゆるゆる会 - connpass
-本記事はHoudini Ap...]]></summary>
-        <author>
-            <name>めんたいこ</name>
         </author>
     </entry>
 </feed>

@@ -2,10 +2,62 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-01-21T04:02:11.582Z</updated>
+    <updated>2026-01-21T08:18:56.897Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Adobe Premiere にAIオブジェクトマスクが追加！After Effects はモーションデザイン機能が大幅強化]]></title>
+        <id>https://cginterest.com/?p=55117</id>
+        <link href="https://cginterest.com/2026/01/21/adobe-premiere-%e3%81%abai%e3%82%aa%e3%83%96%e3%82%b8%e3%82%a7%e3%82%af%e3%83%88%e3%83%9e%e3%82%b9%e3%82%af%e3%81%8c%e8%bf%bd%e5%8a%a0%ef%bc%81after-effects-%e3%81%af%e3%83%a2%e3%83%bc%e3%82%b7/"/>
+        <updated>2026-01-21T06:51:24.000Z</updated>
+        <summary type="html"><![CDATA[2026年1月20日（現地時間）- Adobeは、サンダンス国際映画祭に先立ち、Adobe PremiereとAdobe After Effectsのアップデートを発表しました。またアドビは、次世代映像クリエイター育成の […]
+Adobe Premiere にAIオブジェクトマスクが追加！After Effects はモーションデザイン機能が大幅強化 first appeared on CGinterest.]]></summary>
+        <author>
+            <name>.me</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MotionBuilder(pyfbsdk)によるアニメーション制御入門(2)]]></title>
+        <id>https://note.com/dftalk/n/n81ba5cffbbf0</id>
+        <link href="https://note.com/dftalk/n/n81ba5cffbbf0"/>
+        <updated>2026-01-21T06:15:05.000Z</updated>
+        <summary type="html"><![CDATA[今回も、pyfbsdkを使ってアニメーション制御の入門編となる説明をします。
+担当はTD神原です、よろしくお願いいたします。
+前回の続きとして、MotionBuilderのpyfbsdkにおけるKeysAdd機能、タンジェント制御についての解説をします。
+説明用の実装例を通じ、アニメーション制御のための技術基盤の知識構築を目指します。
+続きをみる]]></summary>
+        <author>
+            <name>DF TALK</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rustでコンピューターグラフィックスの基礎を学ぶ その2]]></title>
+        <id>https://qiita.com/sumikawa@github/items/3f5762ce0469740e5502</id>
+        <link href="https://qiita.com/sumikawa@github/items/3f5762ce0469740e5502"/>
+        <updated>2026-01-21T05:22:43.000Z</updated>
+        <summary type="html"><![CDATA[フルコードはgithubにあります。
+
+前回使ってなかった関数の動作確認
+動作確認も兼ねて単位ベクトルを計算させてみる。はじめて自分でコードを書くw
+use myraytracing::Vec3;
+
+fn main() {
+    let a = Vec3::new(0.1...]]></summary>
+        <author>
+            <name>CGタグが付けられた新着記事 - Qiita</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2Day集中：Houdini KineFX / APEX 次世代アニメーション機能 ハンズオンセミナー 2/12（木）～13（金）開催！（ボーンデジタル） - ニュース]]></title>
+        <id>https://cgworld.jp/flashnews/02-2601-houdini-21.html</id>
+        <link href="https://cgworld.jp/flashnews/02-2601-houdini-21.html"/>
+        <updated>2026-01-21T04:50:00.000Z</updated>
+        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[実写映像とシームレスに融合。MPCパリの デジタルセット＆エンバイロメント デモリール 2026]]></title>
         <id>https://3dtotal.jp/?p=54428</id>
@@ -26,6 +78,17 @@ The post 実写映像とシームレスに融合。MPCパリの デジタルセ�
 The post Weta FX のスタッフが語る 映画『アバター:ファイヤー・アンド・アッシュ』のお気に入りショット first appeared on 3dtotal 日本語オフィシャルサイト.]]></summary>
         <author>
             <name>3dtotal管理人T</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Simply Cloth Studio v2.0 がリリース！UIの刷新、新しいシワ生成システムの追加など]]></title>
+        <id>https://cginterest.com/?p=55062</id>
+        <link href="https://cginterest.com/2026/01/21/simply-cloth-studio-v2-0-%e3%81%8c%e3%83%aa%e3%83%aa%e3%83%bc%e3%82%b9%ef%bc%81ui%e3%81%ae%e5%88%b7%e6%96%b0%e3%80%81%e6%96%b0%e3%81%97%e3%81%84%e3%82%b7%e3%83%af%e7%94%9f%e6%88%90%e3%82%b7%e3%82%b9/"/>
+        <updated>2026-01-21T01:25:00.000Z</updated>
+        <summary type="html"><![CDATA[VjaceslavT氏によるBlender用のアドオン「Simply Cloth Studio」のメジャーアップデートとなるバージョン2.0がリリースされました。 新機能ハイライト このバージョンはBlender 5.0 […]
+Simply Cloth Studio v2.0 がリリース！UIの刷新、新しいシワ生成システムの追加など first appeared on CGinterest.]]></summary>
+        <author>
+            <name>.me</name>
         </author>
     </entry>
     <entry>

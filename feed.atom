@@ -2,10 +2,48 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-01-21T08:18:56.897Z</updated>
+    <updated>2026-01-21T12:27:26.975Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Rustでコンピューターグラフィックスの基礎を学ぶ その3]]></title>
+        <id>https://qiita.com/sumikawa@github/items/3b9acd2ca03948c36fbe</id>
+        <link href="https://qiita.com/sumikawa@github/items/3b9acd2ca03948c36fbe"/>
+        <updated>2026-01-21T11:50:32.000Z</updated>
+        <summary type="html"><![CDATA[フルコードはgithubにあります。
+
+球をレンダリングする
+まずはレイと球が衝突したら赤くするだけのコード
+fn hit_sphere(center: Point3, radius: f64, r: &Ray) -> bool {
+    let oc: Vec3 = r...]]></summary>
+        <author>
+            <name>CGタグが付けられた新着記事 - Qiita</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「Blenderで作る放課後の教室風景」＆「Blenderで作る幻想的な神社風景」＆「Blenderで作る幻想的な神社風景」 | 背景イラストレーター カミワダ テル氏が Blenderを使用した解説付き背景メイキング動画を公開中！]]></title>
+        <id>https://3dnchu.com/?p=1061140</id>
+        <link href="https://3dnchu.com/archives/t_kamiwada_b3d_making/"/>
+        <updated>2026-01-21T11:41:52.000Z</updated>
+        <summary type="html"><![CDATA[背景イラストレーター カミワダ テル 氏がYoutube上で幾つかBlenderのメイキング動画を昨年末から公開しております。
+「Blenderで作る放課後の教室風景」＆「Blenderで作る幻想的な神社風景」に続き先程第3弾の「Blenderで作る幻想的な神社風景」が公開されました！]]></summary>
+        <author>
+            <name>Ymt3D -3dnchu-</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【Maya】境界エッジを太線表示する方法]]></title>
+        <id>https://3d.crdg.jp/env/?p=9008</id>
+        <link href="https://3d.crdg.jp/env/2026/01/21/9008/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=%25e3%2580%2590maya%25e3%2580%2591%25e5%25a2%2583%25e7%2595%258c%25e3%2582%25a8%25e3%2583%2583%25e3%2582%25b8%25e3%2582%2592%25e5%25a4%25aa%25e7%25b7%259a%25e8%25a1%25a8%25e7%25a4%25ba%25e3%2581%2599%25e3%2582%258b%25e6%2596%25b9%25e6%25b3%2595"/>
+        <updated>2026-01-21T09:43:31.000Z</updated>
+        <summary type="html"><![CDATA[モデルのエラー対策に使える便利な表示を紹介します。 境界エッジとは？ 境界エッジとはポリゴンメッシュの外側、内側にあるエッジのことで、オブジェクトの切 […]
+続きを読む
+投稿 【Maya】境界エッジを太線表示する方法 は エンホリ - ENVIRONMENT HOLIC｜C&R Creative Studios に最初に表示されました。]]></summary>
+        <author>
+            <name>Erika.Yamanaka</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Adobe Premiere にAIオブジェクトマスクが追加！After Effects はモーションデザイン機能が大幅強化]]></title>
         <id>https://cginterest.com/?p=55117</id>
@@ -3666,98 +3704,6 @@ The post 公開10周年。ILM より、映画『スター・ウォーズ／フ�
 The post リアルな CG のシカ＆イノシシ。コメディ映画『Chasse Gardée 2』のVFXブレイクダウン映像 first appeared on 3dtotal 日本語オフィシャルサイト.]]></summary>
         <author>
             <name>3dtotal管理人T</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[開発元Derivativeに聞く、空間演出の必携ツール「TouchDesigner」とは？ - 特集]]></title>
-        <id>https://cgworld.jp/article/202512-cgw327-td.html</id>
-        <link href="https://cgworld.jp/article/202512-cgw327-td.html"/>
-        <updated>2025-12-23T00:27:00.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【無料アドオン】Global Copy Nodes – ファイル間でノードをコピーできるアドオン]]></title>
-        <id>https://cgbox.jp/?p=64899</id>
-        <link href="https://cgbox.jp/2025/12/23/news-addon-global-copy-nodes/"/>
-        <updated>2025-12-23T00:21:19.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは！ 今回はアドオンの「Global Copy Nodes」を紹介します。 こちらのリンクがアドオンの商品ページになります。 Global Copy Nodes 「Global Copy Nodes」は、Blen […]]]></summary>
-        <author>
-            <name>kasahara</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[無料Webアプリ「CMYK Halftone Emulator」更新！  プレフィルタの設定項目増強、ぼかし・アンチエイリアスの向上、MP4録画対応など - ニュース]]></title>
-        <id>https://cgworld.jp/flashnews/01-202512-HalftoneEmu.html</id>
-        <link href="https://cgworld.jp/flashnews/01-202512-HalftoneEmu.html"/>
-        <updated>2025-12-22T23:58:53.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[コンポジット処理に頼らずにシネマティックなレンズ効果を再現できるBlenderアドオン「Baga Cam Osl」]]></title>
-        <id>https://cginterest.com/?p=54290</id>
-        <link href="https://cginterest.com/2025/12/23/%e3%82%b3%e3%83%b3%e3%83%9d%e3%82%b8%e3%83%83%e3%83%88%e5%87%a6%e7%90%86%e3%81%ab%e9%a0%bc%e3%82%89%e3%81%9a%e3%81%ab%e3%82%b7%e3%83%8d%e3%83%9e%e3%83%86%e3%82%a3%e3%83%83%e3%82%af%e3%81%aa%e3%83%ac/"/>
-        <updated>2025-12-22T23:21:00.000Z</updated>
-        <summary type="html"><![CDATA[antoine（Kiara）bagattini 氏によるBlender アドオン「Baga Cam Osl」の紹介です。 Baga Cam Oslとは Baga Cam Oslは、コンポジット処理に頼らず、3D空間内で直 […]
-コンポジット処理に頼らずにシネマティックなレンズ効果を再現できるBlenderアドオン「Baga Cam Osl」 first appeared on CGinterest.]]></summary>
-        <author>
-            <name>.me</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ソニー、mocopi Receiver Plugin for Unity をオープンソース化！]]></title>
-        <id>https://cginterest.com/?p=54311</id>
-        <link href="https://cginterest.com/2025/12/23/%e3%82%bd%e3%83%8b%e3%83%bc%e3%80%81mocopi-receiver-plugin-for-unity-%e3%82%92%e3%82%aa%e3%83%bc%e3%83%97%e3%83%b3%e3%82%bd%e3%83%bc%e3%82%b9%e5%8c%96%ef%bc%81/"/>
-        <updated>2025-12-22T22:52:00.000Z</updated>
-        <summary type="html"><![CDATA[2025年12月18日（現地時間）- ソニーは、モバイルモーションキャプチャー「mocopi」のUnity向けプラグインである「mocopi Receiver Plugin for Unity」をオープンソースソフトウェ […]
-ソニー、mocopi Receiver Plugin for Unity をオープンソース化！ first appeared on CGinterest.]]></summary>
-        <author>
-            <name>.me</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Houdini CopernicusとSubstance Designerを点字ブロックで比較]]></title>
-        <id>https://note.com/pky3d/n/nb497d02ea096</id>
-        <link href="https://note.com/pky3d/n/nb497d02ea096"/>
-        <updated>2025-12-22T22:35:05.000Z</updated>
-        <summary type="html"><![CDATA[こんにちは。この記事は、Houdini Apprentice Advent Calendar 2025 / 23日目の記事となります🌀
- Houdini Apprentice - Qiita Advent Calendar 2025 - QiitaCalendar page for Qiita Advent Calendar 2025 regarding Houdinqiita.com 
-続きをみる]]></summary>
-        <author>
-            <name>#Houdiniタグ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Houdini CopernicusとSubstance Designerを点字ブロックで比較]]></title>
-        <id>https://note.com/pky3d/n/nb497d02ea096</id>
-        <link href="https://note.com/pky3d/n/nb497d02ea096"/>
-        <updated>2025-12-22T22:35:05.000Z</updated>
-        <summary type="html"><![CDATA[こんにちは。この記事は、Houdini Apprentice Advent Calendar 2025 / 23日目の記事となります🌀
- Houdini Apprentice - Qiita Advent Calendar 2025 - QiitaCalendar page for Qiita Advent Calendar 2025 regarding Houdinqiita.com 
-続きをみる]]></summary>
-        <author>
-            <name>#SubstanceDesignerタグ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[アニメーションベイクしてexport しようとしたら困った]]></title>
-        <id>https://qiita.com/9boz/items/a63a2a50fc1fa14da689</id>
-        <link href="https://qiita.com/9boz/items/a63a2a50fc1fa14da689"/>
-        <updated>2025-12-22T22:12:52.000Z</updated>
-        <summary type="html"><![CDATA[animationシーンでbakeして editMAをexportして、再現しようとしたら・・・・
-いらんもん(constraint)がついてきちゃいました。
-bakeしてるはずなのになぁ・・・
-
-挙動確認
-データ的にはこんなかんじですね。
-キーフレームが入ってる物に対して...]]></summary>
-        <author>
-            <name>mayaタグが付けられた新着記事 - Qiita</name>
         </author>
     </entry>
 </feed>

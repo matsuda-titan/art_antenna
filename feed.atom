@@ -2,10 +2,48 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-01-23T04:01:12.847Z</updated>
+    <updated>2026-01-23T08:18:12.258Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Rustでコンピューターグラフィックスの基礎を学ぶ その4]]></title>
+        <id>https://qiita.com/sumikawa@github/items/cb1ae0a697cea6296b93</id>
+        <link href="https://qiita.com/sumikawa@github/items/cb1ae0a697cea6296b93"/>
+        <updated>2026-01-23T07:35:30.000Z</updated>
+        <summary type="html"><![CDATA[フルコードはgithubにあります。
+
+オブジェクトのリスト
+例によってGemini CLIに書いてもらう。
+use crate::hittable::{HitRecord, Hittable};
+use crate::ray::Ray;
+use std::sync::Ar...]]></summary>
+        <author>
+            <name>CGタグが付けられた新着記事 - Qiita</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TA Nightレポート　Unityで描く『コードギアス 反逆のルルーシュ ロストストーリーズ』の世界]]></title>
+        <id>https://3d.crdg.jp/tech/?p=6611</id>
+        <link href="https://3d.crdg.jp/tech/archives/6611"/>
+        <updated>2026-01-23T06:58:41.000Z</updated>
+        <summary type="html"><![CDATA[2025年10月24日、秋葉原UDX14階にある株式会社f4samurai本社にて「TA Night」が開催されました。今回のテーマは、人気スマートフ […]
+続きを読む
+投稿 TA Nightレポート　Unityで描く『コードギアス 反逆のルルーシュ ロストストーリーズ』の世界 は TECH-COYOTE｜C&R Creative Studios に最初に表示されました。]]></summary>
+        <author>
+            <name>nakabayashi nobukazu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【新講座】「流れ」で画が変わる。オンライン講座『画面の流れのコントロール 』が3/13(金)に開催決定！ - ニュース]]></title>
+        <id>https://cgworld.jp/flashnews/-313.html</id>
+        <link href="https://cgworld.jp/flashnews/-313.html"/>
+        <updated>2026-01-23T05:28:00.000Z</updated>
+        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【アドオン紹介】Fast Snow – シーン全体をワンクリックで雪景色に！]]></title>
         <id>https://cgbox.jp/?p=64994</id>
@@ -3397,22 +3435,6 @@ Unity Award 2025 受賞者を紹介！ first appeared on CGinterest.]]></summary
 本記事はSTYLY Advent Calendar 2025の25日目の記事です。エントリーするのが...]]></summary>
         <author>
             <name>Shaderタグが付けられた新着記事 - Qiita</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mayaのカメラをなんとかしたい9 ~きりかえ~]]></title>
-        <id>https://qiita.com/9boz/items/bdd134c26abaca32c0cb</id>
-        <link href="https://qiita.com/9boz/items/bdd134c26abaca32c0cb"/>
-        <updated>2025-12-24T18:54:08.000Z</updated>
-        <summary type="html"><![CDATA[Mayaのカメラ切り替えですがー
-viewPortのメニューバーからできるんですけどもー
-まぁーちょっとやりづらいときもあるのでー
-そんなわけで作ってみました。
-色々カメラネタの機能を足そうと思ったのですが、時間切れなのでとりあえず最低限な感じです。
-
-SSCamer...]]></summary>
-        <author>
-            <name>mayaタグが付けられた新着記事 - Qiita</name>
         </author>
     </entry>
 </feed>

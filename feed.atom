@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-01-24T00:57:27.764Z</updated>
+    <updated>2026-01-24T03:55:57.839Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[plunkerでp5.js その2]]></title>
+        <id>https://qiita.com/ohisama@github/items/abe70ada35b5a9326e76</id>
+        <link href="https://qiita.com/ohisama@github/items/abe70ada35b5a9326e76"/>
+        <updated>2026-01-24T01:56:19.000Z</updated>
+        <summary type="html"><![CDATA[概要
+plunkerでp5.jsやってみた。
+webgl、見つけたのでやってみた。
+
+参考にしたページ
+
+写真
+
+成果物
+
+以上。]]></summary>
+        <author>
+            <name>Shaderタグが付けられた新着記事 - Qiita</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2026/01/24 今日のQiitaトレンド記事をポッドキャストで聴こう！]]></title>
         <id>https://qiita.com/ennagara128/items/8bf6e3c0b4bbe3e84fe7</id>
@@ -643,6 +663,17 @@ The post TextPro – Blenderで複数装飾やプリセットから様々なデ�
         <updated>2026-01-20T03:20:29.000Z</updated>
         <summary type="html"><![CDATA[★『Wildwood』映像初公開：神秘が宿る場所 | LAIKA Studios（1分52秒） ポートランドの最も象徴的なランドマークの一つ、ピトック邸の影に足を踏み入れます。『Wildwood』のために一から再構築され […]
 The post 「コラライン」「KUBO」の LAIKA より、ストップモーションアニメ映画『Wildwood』のトレーラー first appeared on 3dtotal 日本語オフィシャルサイト.]]></summary>
+        <author>
+            <name>3dtotal管理人T</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ヒーローたちが帰ってくる。映画『アベンジャーズ／ドゥームズデイ』のトレーラー（英語／日本語）]]></title>
+        <id>https://3dtotal.jp/?p=50471</id>
+        <link href="https://3dtotal.jp/news/50471/"/>
+        <updated>2026-01-20T03:00:48.000Z</updated>
+        <summary type="html"><![CDATA[★Avengers: Doomsday | Only in Theaters December 18, 2026（1分4秒） ★「アベンジャーズ／ドゥームズデイ」特別映像「『アベンジャーズ／ドゥームズデイ』でワカンダとフ […]
+The post ヒーローたちが帰ってくる。映画『アベンジャーズ／ドゥームズデイ』のトレーラー（英語／日本語） first appeared on 3dtotal 日本語オフィシャルサイト.]]></summary>
         <author>
             <name>3dtotal管理人T</name>
         </author>
@@ -3032,241 +3063,6 @@ The post Wingfoxクリスマスセール開催中！3DCG講座を1本買うと1�
 1,000以上のアセットが50%オフ！Unity Asset Store ニューイヤーセールが開催！カウントダウン無料アセット配布も！ first appeared on CGinterest.]]></summary>
         <author>
             <name>.me</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【C++】レイトレーサー自作Part6：パストレーシングでリアルなレンダリング]]></title>
-        <id>https://qiita.com/Aqua-218/items/b4bd39a3479831976f06</id>
-        <link href="https://qiita.com/Aqua-218/items/b4bd39a3479831976f06"/>
-        <updated>2025-12-25T15:03:25.000Z</updated>
-        <summary type="html"><![CDATA[C++レイトレーサー自作シリーズ
-
-Part1 レイ/ベクトル
-Part2 交差判定
-Part3 反射/屈折
-Part4 マテリアル
-Part5 BVH
-Part6 パストレ
-
-✅
-✅
-✅
-✅
-✅
-👈 Now
-
-はじめに
-ここまでで、かなり綺麗な画像が作れる...]]></summary>
-        <author>
-            <name>3DCGタグが付けられた新着記事 - Qiita</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【C++】レイトレーサー自作Part5：BVHで1000倍高速化する]]></title>
-        <id>https://qiita.com/Aqua-218/items/606f4741c4863d5b090a</id>
-        <link href="https://qiita.com/Aqua-218/items/606f4741c4863d5b090a"/>
-        <updated>2025-12-25T14:58:11.000Z</updated>
-        <summary type="html"><![CDATA[C++レイトレーサー自作シリーズ
-
-Part1 レイ/ベクトル
-Part2 交差判定
-Part3 反射/屈折
-Part4 マテリアル
-Part5 BVH
-Part6 パストレ
-
-✅
-✅
-✅
-✅
-👈 Now
--
-
-はじめに
-前回までで、テクスチャのある球がレン...]]></summary>
-        <author>
-            <name>3DCGタグが付けられた新着記事 - Qiita</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【C++】レイトレーサー自作Part4：マテリアルとテクスチャで見た目を豊かに]]></title>
-        <id>https://qiita.com/Aqua-218/items/c568025d19df1e5dfce9</id>
-        <link href="https://qiita.com/Aqua-218/items/c568025d19df1e5dfce9"/>
-        <updated>2025-12-25T14:57:35.000Z</updated>
-        <summary type="html"><![CDATA[C++レイトレーサー自作シリーズ
-
-Part1 レイ/ベクトル
-Part2 交差判定
-Part3 反射/屈折
-Part4 マテリアル
-Part5 BVH
-Part6 パストレ
-
-✅
-✅
-✅
-👈 Now
--
--
-
-はじめに
-前回は反射と屈折を実装した。
-でも、...]]></summary>
-        <author>
-            <name>3DCGタグが付けられた新着記事 - Qiita</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【C++】レイトレーサー自作Part4：マテリアルとテクスチャで見た目を豊かに]]></title>
-        <id>https://qiita.com/Aqua-218/items/c568025d19df1e5dfce9</id>
-        <link href="https://qiita.com/Aqua-218/items/c568025d19df1e5dfce9"/>
-        <updated>2025-12-25T14:57:35.000Z</updated>
-        <summary type="html"><![CDATA[C++レイトレーサー自作シリーズ
-
-Part1 レイ/ベクトル
-Part2 交差判定
-Part3 反射/屈折
-Part4 マテリアル
-Part5 BVH
-Part6 パストレ
-
-✅
-✅
-✅
-👈 Now
--
--
-
-はじめに
-前回は反射と屈折を実装した。
-でも、...]]></summary>
-        <author>
-            <name>グラフィックスタグが付けられた新着記事 - Qiita</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【C++】レイトレーサー自作Part3：反射と屈折で鏡とガラスを表現]]></title>
-        <id>https://qiita.com/Aqua-218/items/cddac52ddc8fb7901146</id>
-        <link href="https://qiita.com/Aqua-218/items/cddac52ddc8fb7901146"/>
-        <updated>2025-12-25T14:57:03.000Z</updated>
-        <summary type="html"><![CDATA[C++レイトレーサー自作シリーズ
-
-Part1 レイ/ベクトル
-Part2 交差判定
-Part3 反射/屈折
-Part4 マテリアル
-Part5 BVH
-Part6 パストレ
-
-✅
-✅
-👈 Now
--
--
--
-
-はじめに
-前回は球や平面を描けるようになった。...]]></summary>
-        <author>
-            <name>3DCGタグが付けられた新着記事 - Qiita</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【C++】レイトレーサー自作Part3：反射と屈折で鏡とガラスを表現]]></title>
-        <id>https://qiita.com/Aqua-218/items/cddac52ddc8fb7901146</id>
-        <link href="https://qiita.com/Aqua-218/items/cddac52ddc8fb7901146"/>
-        <updated>2025-12-25T14:57:03.000Z</updated>
-        <summary type="html"><![CDATA[C++レイトレーサー自作シリーズ
-
-Part1 レイ/ベクトル
-Part2 交差判定
-Part3 反射/屈折
-Part4 マテリアル
-Part5 BVH
-Part6 パストレ
-
-✅
-✅
-👈 Now
--
--
--
-
-はじめに
-前回は球や平面を描けるようになった。...]]></summary>
-        <author>
-            <name>グラフィックスタグが付けられた新着記事 - Qiita</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【C++】レイトレーサー自作Part2：球と平面の交差判定で物体を描く]]></title>
-        <id>https://qiita.com/Aqua-218/items/d2af5b5e6eb624d688c5</id>
-        <link href="https://qiita.com/Aqua-218/items/d2af5b5e6eb624d688c5"/>
-        <updated>2025-12-25T14:56:35.000Z</updated>
-        <summary type="html"><![CDATA[C++レイトレーサー自作シリーズ
-
-Part1 レイ/ベクトル
-Part2 交差判定
-Part3 反射/屈折
-Part4 マテリアル
-Part5 BVH
-Part6 パストレ
-
-✅
-👈 Now
--
--
--
--
-
-はじめに
-前回は空っぽの空をレンダリングした。...]]></summary>
-        <author>
-            <name>グラフィックスタグが付けられた新着記事 - Qiita</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【C++】レイトレーサーを自作して3DCGの仕組みを理解する【Part1：レイとベクトル数学】]]></title>
-        <id>https://qiita.com/Aqua-218/items/b757f5e953004ad2356c</id>
-        <link href="https://qiita.com/Aqua-218/items/b757f5e953004ad2356c"/>
-        <updated>2025-12-25T14:56:04.000Z</updated>
-        <summary type="html"><![CDATA[C++レイトレーサー自作シリーズ
-
-Part1 レイ/ベクトル
-Part2 交差判定
-Part3 反射/屈折
-Part4 マテリアル
-Part5 BVH
-Part6 パストレ
-
-👈 Now
--
--
--
--
--
-
-はじめに
-3DCGってどうやって作られてるか知...]]></summary>
-        <author>
-            <name>グラフィックスタグが付けられた新着記事 - Qiita</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[チェックを楽にしたい]]></title>
-        <id>https://qiita.com/9boz/items/e1c701fa981fb816cb2b</id>
-        <link href="https://qiita.com/9boz/items/e1c701fa981fb816cb2b"/>
-        <updated>2025-12-25T13:28:04.000Z</updated>
-        <summary type="html"><![CDATA[正直　@cr_coyote さんの記事と被ったなー　と思いました。
-でもまぁいっかー！　ということで。
-
-チェックは苦行？
-モデラーさんでチェック項目を準備されているチームは割とよく見るのですが、
-チェック者（クオリティ管理者）さんのお話を聞いてみると
-
-チェック項目...]]></summary>
-        <author>
-            <name>mayaタグが付けられた新着記事 - Qiita</name>
         </author>
     </entry>
 </feed>

@@ -1221,16 +1221,6 @@
           "wordCount": 767,
           "title": "第0回：連載予告 - 連載",
           "imageUrl": "https://cgworld.jp/regular/assets_c/2025/12/%230_B-thumb-1000x563-77521.jpg"
-        },
-        {
-          "id": "https://cgworld.jp/flashnews/01-202512-Wan2.6.html",
-          "author": null,
-          "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
-          "link": "https://cgworld.jp/flashnews/01-202512-Wan2.6.html",
-          "publishedOn": "2025-12-25T23:52:17.000Z",
-          "wordCount": 903,
-          "title": "マルチモーダル生成AIモデル「Wan2.6」リリース！ 1080p15秒、リファレンスキャラクターのインポート、マルチショット生成によるストーリーの自動構築など - ニュース",
-          "imageUrl": "https://cgworld.jp/flashnews/assets_c/2025/12/Wan26-01-thumb-1920x1080-78076.jpg"
         }
       ]
     },
@@ -2328,6 +2318,16 @@
       "siteUrl": "https://qiita.com",
       "articles": [
         {
+          "id": "https://qiita.com/yorung/items/5b6e916fc058bd1b4c38",
+          "author": null,
+          "description": "調査目的\nUE5.7でBlendable GBufferが追加されました。一方でレガシーマテリアルも使い続けられます。これは、Substrateという新システムがレガシーを捨てるのではなく機能の一部として取り込んだように見えます。\nしかし、新旧GBufferと新旧マテリア...",
+          "link": "https://qiita.com/yorung/items/5b6e916fc058bd1b4c38",
+          "publishedOn": "2026-01-24T10:16:22.000Z",
+          "wordCount": 1048,
+          "title": "UE5.7のSubstrateが従来形式のGBufferを扱う様子をHLSLで確認",
+          "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkY2NjE2MCUyRmU5ZTgwYTYzNzk0ZDViNGU2NTYzNjY3ZGI2OTM0ZjA2YzAyMjY3ZWElMkZ4X2xhcmdlLnBuZyUzRjE3MTE5NDA4OTg_aXhsaWI9cmItNC4wLjAmYXI9MSUzQTEmZml0PWNyb3AmbWFzaz1lbGxpcHNlJmJnPUZGRkZGRiZmbT1wbmczMiZzPTU0MzQ3YTU2N2JiOGY3NDc4OWM3NDU5ZjVkMDhhMzNj%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D8fdccb9e4f7027bfc0adb20740b20248?ixlib=rb-4.0.0&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9VUU1LjclRTMlODElQUVTdWJzdHJhdGUlRTMlODElOEMlRTUlQkUlOTMlRTYlOUQlQTUlRTUlQkQlQTIlRTUlQkMlOEYlRTMlODElQUVHQnVmZmVyJUUzJTgyJTkyJUU2JTg5JUIxJUUzJTgxJTg2JUU2JUE3JTk4JUU1JUFEJTkwJUUzJTgyJTkySExTTCVFMyU4MSVBNyVFNyVBMiVCQSVFOCVBQSU4RCZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnR4dC1wYWQ9MCZzPTFhODdlYjRhYzBjZTkxOWMzNmE0OWVjMjNkMDM2NjRj&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDB5b3J1bmcmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz1mMDQ4MjY0ZWYyNTg4YTJmZmM1MzEzYjIzYzlmMDFiNg&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=42157b5d2a333d9cac4e61339b162b70"
+        },
+        {
           "id": "https://qiita.com/kociden2/items/5f1bc3dd891743f17754",
           "author": null,
           "description": "はじめに\nはじめまして。kocidenといいます。\n北大工学部情報学科2年です、Unityを2年触っていて、最近は専らXR開発をしています。\n今回は、ずっと目を背けていたシェーダーのことを勉強しよう！というハナシです\nつまり、初心者の開発記録と思っていただいて問題ないです...",
@@ -3287,16 +3287,6 @@
           "wordCount": 30641,
           "title": "UNREAL FEST TOKYO 2025 講演動画が公開！",
           "imageUrl": "https://cginterest.com/wp-content/uploads/2025/10/20251003_unrealfest.webp"
-        },
-        {
-          "id": "https://cginterest.com/?p=54411",
-          "author": ".me",
-          "description": "Unity Asset Store で開催されているニューイヤーセールの紹介です。 セール概要 このセールでは、期間中 2026年をスタートさせるのにぴったりの1,000以上のアセットが50%オフとなります。 さらに、年 […]\n1,000以上のアセットが50%オフ！Unity Asset Store ニューイヤーセールが開催！カウントダウン無料アセット配布も！ first appeared on CGinterest.",
-          "link": "https://cginterest.com/2025/12/26/1000%e4%bb%a5%e4%b8%8a%e3%81%ae%e3%82%a2%e3%82%bb%e3%83%83%e3%83%88%e3%81%8c50%e3%82%aa%e3%83%95%ef%bc%81unity-asset-store-%e3%83%8b%e3%83%a5%e3%83%bc%e3%82%a4%e3%83%a4%e3%83%bc%e3%82%bb%e3%83%bc/",
-          "publishedOn": "2025-12-25T23:16:00.000Z",
-          "wordCount": 30334,
-          "title": "1,000以上のアセットが50%オフ！Unity Asset Store ニューイヤーセールが開催！カウントダウン無料アセット配布も！",
-          "imageUrl": "https://cginterest.com/wp-content/uploads/2025/12/newyearsale-Unityassetsale.webp"
         }
       ]
     }

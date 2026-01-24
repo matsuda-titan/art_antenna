@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-01-24T08:15:50.899Z</updated>
+    <updated>2026-01-24T12:21:36.283Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[UE5.7のSubstrateが従来形式のGBufferを扱う様子をHLSLで確認]]></title>
+        <id>https://qiita.com/yorung/items/5b6e916fc058bd1b4c38</id>
+        <link href="https://qiita.com/yorung/items/5b6e916fc058bd1b4c38"/>
+        <updated>2026-01-24T10:16:22.000Z</updated>
+        <summary type="html"><![CDATA[調査目的
+UE5.7でBlendable GBufferが追加されました。一方でレガシーマテリアルも使い続けられます。これは、Substrateという新システムがレガシーを捨てるのではなく機能の一部として取り込んだように見えます。
+しかし、新旧GBufferと新旧マテリア...]]></summary>
+        <author>
+            <name>HLSLタグが付けられた新着記事 - Qiita</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Niantic 行弘進氏によるWHO'S NEXT? 作品レビュー＆ブラッシュアップ　ストーリーを伝える画づくりを学べ！！ - 特集]]></title>
         <id>https://cgworld.jp/article/whosnext-review-2601.html</id>
@@ -3052,27 +3064,6 @@ The post Quick Slice｜1クリックで直線分割・長方形分割・亀裂�
 The post Wingfoxクリスマスセール開催中！3DCG講座を1本買うと1本無料＋お得なバンドルセットも多数販売中【12月28日まで】 first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
         <author>
             <name>modelinghappy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[マルチモーダル生成AIモデル「Wan2.6」リリース！ 1080p15秒、リファレンスキャラクターのインポート、マルチショット生成によるストーリーの自動構築など - ニュース]]></title>
-        <id>https://cgworld.jp/flashnews/01-202512-Wan2.6.html</id>
-        <link href="https://cgworld.jp/flashnews/01-202512-Wan2.6.html"/>
-        <updated>2025-12-25T23:52:17.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[1,000以上のアセットが50%オフ！Unity Asset Store ニューイヤーセールが開催！カウントダウン無料アセット配布も！]]></title>
-        <id>https://cginterest.com/?p=54411</id>
-        <link href="https://cginterest.com/2025/12/26/1000%e4%bb%a5%e4%b8%8a%e3%81%ae%e3%82%a2%e3%82%bb%e3%83%83%e3%83%88%e3%81%8c50%e3%82%aa%e3%83%95%ef%bc%81unity-asset-store-%e3%83%8b%e3%83%a5%e3%83%bc%e3%82%a4%e3%83%a4%e3%83%bc%e3%82%bb%e3%83%bc/"/>
-        <updated>2025-12-25T23:16:00.000Z</updated>
-        <summary type="html"><![CDATA[Unity Asset Store で開催されているニューイヤーセールの紹介です。 セール概要 このセールでは、期間中 2026年をスタートさせるのにぴったりの1,000以上のアセットが50%オフとなります。 さらに、年 […]
-1,000以上のアセットが50%オフ！Unity Asset Store ニューイヤーセールが開催！カウントダウン無料アセット配布も！ first appeared on CGinterest.]]></summary>
-        <author>
-            <name>.me</name>
         </author>
     </entry>
 </feed>

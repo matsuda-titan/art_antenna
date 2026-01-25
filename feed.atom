@@ -2,10 +2,45 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-01-24T12:21:36.283Z</updated>
+    <updated>2026-01-25T01:05:15.988Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[軽量のグラフィックスライブラリ micro{gl} を試す]]></title>
+        <id>https://zenn.dev/slowhand/articles/1f048e5291a14b</id>
+        <link href="https://zenn.dev/slowhand/articles/1f048e5291a14b"/>
+        <updated>2026-01-24T13:53:35.000Z</updated>
+        <summary type="html"><![CDATA[概要
+今回は軽量のグラフィックスライブラリの micro{gl} を試してみようと思います。
+
+ micro{gl}とは?
+https://micro-gl.github.io/docs/microgl
+
+高速、超スリム、組み込み可能、ヘッダのみの C++11 ベクターグラフィックスライブラリ。標準ライブラリは必要ありません。
+
+GPU・FPU（浮動小数点演算器）不要、標準ライブラリ（STL）不要を掲げており、32/64bit環境で動かせる、軽量のCPUでレンダリングする“ベクターグラフィックス寄り”のライブラリという位置付けになっています。ウェアラブルデバイスやIoTデバイスなどの...]]></summary>
+        <author>
+            <name>slowhand</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rustでコンピューターグラフィックスの基礎を学ぶ その5]]></title>
+        <id>https://qiita.com/sumikawa@github/items/04488cc9109217dcef0a</id>
+        <link href="https://qiita.com/sumikawa@github/items/04488cc9109217dcef0a"/>
+        <updated>2026-01-24T12:23:36.000Z</updated>
+        <summary type="html"><![CDATA[フルコードはgithubにあります。
+週末レイトレーシングのここをやります。
+
+ランダムな vec3 を計算するユーティリティ関数
+Vec3モジュールに下記を追加。
+pub fn random() -> Self {
+    Self {
+        x: random...]]></summary>
+        <author>
+            <name>CGタグが付けられた新着記事 - Qiita</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[UE5.7のSubstrateが従来形式のGBufferを扱う様子をHLSLで確認]]></title>
         <id>https://qiita.com/yorung/items/5b6e916fc058bd1b4c38</id>
@@ -2960,110 +2995,6 @@ Custom Render Texture でパーティクルのシミュレーションなどを�
 建築ビジュアライゼーションセミナー「BIG in Japan: From Vision to Visualization」イベントレポート！ first appeared on CGinterest.]]></summary>
         <author>
             <name>.me</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AIを用いた作品制作で重要なPCパーツはVRAM！？　AI導入の極意とともに解説 ――「HP ZBook Ultra G1a 14inch Mobile Workstation」レビュー - スペシャルコンテンツ]]></title>
-        <id>https://cgworld.jp/special-feature/hp-ai-kusakabe-2512.html</id>
-        <link href="https://cgworld.jp/special-feature/hp-ai-kusakabe-2512.html"/>
-        <updated>2025-12-26T11:30:00.000Z</updated>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【Houdini】Wrangleを学ぶ②]]></title>
-        <id>https://3d.crdg.jp/env/?p=8746</id>
-        <link href="https://3d.crdg.jp/env/2025/12/26/8746/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=%25e3%2580%2590houdini%25e3%2580%2591wrangle%25e3%2582%2592%25e5%25ad%25a6%25e3%2581%25b6%25e2%2591%25a1"/>
-        <updated>2025-12-26T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[前回に引き続き、どんなことができるのか、紹介できればと思います。プログラミングのお作法については至らない点もあるかと思いますが、よろしくお願い致します […]
-続きを読む
-投稿 【Houdini】Wrangleを学ぶ② は エンホリ - ENVIRONMENT HOLIC｜C&R Creative Studios に最初に表示されました。]]></summary>
-        <author>
-            <name>Makito.Noguchi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Unreal Engine 5（UE5）の勉強会「Cinematic Deep Dive’25」の講演動画が公開！]]></title>
-        <id>https://cginterest.com/?p=54403</id>
-        <link href="https://cginterest.com/2025/12/26/unreal-engine-5%ef%bc%88ue5%ef%bc%89%e3%81%ae%e5%8b%89%e5%bc%b7%e4%bc%9a%e3%80%8ccinematic-deep-dive25%e3%80%8d%e3%81%ae%e8%ac%9b%e6%bc%94%e5%8b%95%e7%94%bb%e3%81%8c%e5%85%ac%e9%96%8b/"/>
-        <updated>2025-12-26T07:18:00.000Z</updated>
-        <summary type="html"><![CDATA[エピック ゲームズ ジャパン主催による映像制作に焦点をあてたUnreal Engine 5（UE5）の勉強会「Cinematic Deep Dive’25」の講演動画アーカイブの紹介です。 Cinematic Deep  […]
-Unreal Engine 5（UE5）の勉強会「Cinematic Deep Dive’25」の講演動画が公開！ first appeared on CGinterest.]]></summary>
-        <author>
-            <name>.me</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[これからHoudiniをはじめたいデザイナー＆初心者へ、「Houdiniで始めるUSD-Solarisワークフロー実践セミナー-」レポート～後篇 - 特集]]></title>
-        <id>https://cgworld.jp/article/2510-usdsoa02.html</id>
-        <link href="https://cgworld.jp/article/2510-usdsoa02.html"/>
-        <updated>2025-12-26T07:00:12.000Z</updated>
-        <summary type="html"><![CDATA[「Houdiniで始めるUSD -Solarisワークフロー実践セミナー –」をレポート。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CGWORLD vol.330（2026年2月号）「映像制作ニュースタンダード」特集号を先行告知！ - ニュース]]></title>
-        <id>https://cgworld.jp/flashnews/cgw330-pr.html</id>
-        <link href="https://cgworld.jp/flashnews/cgw330-pr.html"/>
-        <updated>2025-12-26T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[【1/9発売】CGWORLD vol.330（2026年2月号）特集「映像制作ニュースタンダード」。バーチャルプロダクションや3DGSなど、急速に普及が進む技術群を、注目作品のメイキングを通して深掘り！]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[UNREAL FEST TOKYO 2025 講演動画が公開！]]></title>
-        <id>https://cginterest.com/?p=54252</id>
-        <link href="https://cginterest.com/2025/12/26/unreal-fest-tokyo-2025-%e8%ac%9b%e6%bc%94%e5%8b%95%e7%94%bb%e3%81%8c%e5%85%ac%e9%96%8b%ef%bc%81/"/>
-        <updated>2025-12-26T06:16:14.000Z</updated>
-        <summary type="html"><![CDATA[UNREAL FEST TOKYO 2025 講演動画が公開されました。 イベント概要 エピック ゲームズ ジャパンが主催する公式大型イベント「UNREAL FEST TOKYO 2025」が、東京・高輪ゲートウェイにて […]
-UNREAL FEST TOKYO 2025 講演動画が公開！ first appeared on CGinterest.]]></summary>
-        <author>
-            <name>.me</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【アドオン紹介】V-Render – レンダリングとビューポートを分割表示！]]></title>
-        <id>https://cgbox.jp/?p=64915</id>
-        <link href="https://cgbox.jp/2025/12/26/news-addon-v-render/"/>
-        <updated>2025-12-26T02:24:25.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは！ 今回はアドオンの「V-Render」を紹介します。 こちらのリンクがアドオンの商品ページになります。 V-Render 「V-Render」は、ビューポートとレンダリング結果を比較して表示できるアドオン。  […]]]></summary>
-        <author>
-            <name>kasahara</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Quick Slice｜1クリックで直線分割・長方形分割・亀裂クラック表現ができるBlender無料アドオン]]></title>
-        <id>https://modelinghappy.com/?p=66364</id>
-        <link href="https://modelinghappy.com/archives/66364"/>
-        <updated>2025-12-26T02:17:19.000Z</updated>
-        <summary type="html"><![CDATA[Quick Slice Quick SliceはBlenderでXYZ方向にワンクリックで一直線にラインを入れてカットし、パーツごとに分けることができる無料アドオンです。 XYZ軸以外に、一部のパーツだけ任意の方向にライ
-The post Quick Slice｜1クリックで直線分割・長方形分割・亀裂クラック表現ができるBlender無料アドオン first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
-        <author>
-            <name>modelinghappy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[第0回：連載予告 - 連載]]></title>
-        <id>https://cgworld.jp/regular/202601-est3-000.html</id>
-        <link href="https://cgworld.jp/regular/202601-est3-000.html"/>
-        <updated>2025-12-26T01:15:00.000Z</updated>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Wingfoxクリスマスセール開催中！3DCG講座を1本買うと1本無料＋お得なバンドルセットも多数販売中【12月28日まで】]]></title>
-        <id>https://modelinghappy.com/?p=66357</id>
-        <link href="https://modelinghappy.com/archives/66357"/>
-        <updated>2025-12-26T00:50:07.000Z</updated>
-        <summary type="html"><![CDATA[Wingfox Chrismas Sale 世界中のチュートリアル動画を販売しているWingfoxのサイトで12月28日までクリスマスセール中で、1つの動画を購入すると１つの動画がプレゼントされるキャンペーンが開催中です
-The post Wingfoxクリスマスセール開催中！3DCG講座を1本買うと1本無料＋お得なバンドルセットも多数販売中【12月28日まで】 first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
-        <author>
-            <name>modelinghappy</name>
         </author>
     </entry>
 </feed>

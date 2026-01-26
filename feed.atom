@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-01-26T08:19:18.151Z</updated>
+    <updated>2026-01-26T12:26:48.071Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
@@ -3111,18 +3111,6 @@ https://qiita.com/tsuchinokoman/items/c91967c61e6c1c305987
         <summary type="html"><![CDATA[こんばんは！ 今回はアドオンの「Chain Generator 」を紹介します。 こちらのリンクがアドオンの商品ページになります。 Chain Generator 「Chain Generator 」は、カーブに沿ってリ […]]]></summary>
         <author>
             <name>kasahara</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【Unity】float4 に 1 byte 分の付加データを格納する]]></title>
-        <id>https://qiita.com/yuri_tsukimi/items/da4f1359cf71a3aa9c7f</id>
-        <link href="https://qiita.com/yuri_tsukimi/items/da4f1359cf71a3aa9c7f"/>
-        <updated>2025-12-27T22:00:18.000Z</updated>
-        <summary type="html"><![CDATA[概要
-Custom Render Texture でパーティクルのシミュレーションなどをしていると，「パーティクル1つ分のデータを格納するのに，4 pixel だとちょっと足りない... でも 8 pixel は多すぎる...」ということがよくあります．
-そういう時に，f...]]></summary>
-        <author>
-            <name>Shaderタグが付けられた新着記事 - Qiita</name>
         </author>
     </entry>
 </feed>

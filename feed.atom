@@ -2,10 +2,75 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-01-28T12:27:51.140Z</updated>
+    <updated>2026-01-29T01:07:57.461Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Advanced Stylization Material | 多彩な機能を搭載したUnreal Engine 5向けスタイライズドマテリアルパック！Fabにて販売中！]]></title>
+        <id>https://3dnchu.com/?p=1061461</id>
+        <link href="https://3dnchu.com/archives/advanced-stylization-material-firas/"/>
+        <updated>2026-01-29T00:10:46.000Z</updated>
+        <summary type="html"><![CDATA[Firas Maayah氏による多彩な機能を搭載したUnreal Engine 5向けスタイライズドマテリアルパック「Advanced Stylization Material」がFabにて販売中！]]></summary>
+        <author>
+            <name>Ymt3D -3dnchu-</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Netflix Animation Studios が、Blender開発基金に「Corporate Patron」として参加！]]></title>
+        <id>https://cginterest.com/?p=55332</id>
+        <link href="https://cginterest.com/2026/01/29/netflix-animation-studios%e3%80%81blender%e9%96%8b%e7%99%ba%e5%9f%ba%e9%87%91%e3%81%ab%e3%80%8ccorporate-patron%e3%80%8d%e3%81%a8%e3%81%97%e3%81%a6%e5%8f%82%e5%8a%a0/"/>
+        <updated>2026-01-28T22:05:00.000Z</updated>
+        <summary type="html"><![CDATA[2026年1月27日（現地時間）- Blender Foundationは、Netflix Animation Studiosが「Blender開発基金（Blender Development Fund）」のコーポレート […]
+Netflix Animation Studios が、Blender開発基金に「Corporate Patron」として参加！ first appeared on CGinterest.]]></summary>
+        <author>
+            <name>.me</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[sbsarファイルは7ZIPで解凍できて、メタ情報を簡単に確認できる]]></title>
+        <id>https://note.com/harayoki/n/n9b55854ee24f</id>
+        <link href="https://note.com/harayoki/n/n9b55854ee24f"/>
+        <updated>2026-01-28T17:37:02.000Z</updated>
+        <summary type="html"><![CDATA[今、サブスタンスファイルを使ったツールをこしらえているのですが、その際に活用している小ネタを投稿します。
+
+
+続きをみる]]></summary>
+        <author>
+            <name>#SubstanceDesignerタグ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[テクセル密度の決め方①]]></title>
+        <id>https://3d.crdg.jp/env/?p=9079</id>
+        <link href="https://3d.crdg.jp/env/2026/01/28/9079/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=%25e3%2583%2586%25e3%2582%25af%25e3%2582%25bb%25e3%2583%25ab%25e5%25af%2586%25e5%25ba%25a6%25e3%2581%25ae%25e6%25b1%25ba%25e3%2582%2581%25e6%2596%25b9%25e2%2591%25a0"/>
+        <updated>2026-01-28T13:00:17.000Z</updated>
+        <summary type="html"><![CDATA[プロジェクトによっては、「テクセル密度がまだ決まっていない状態」から制作を始め、指標そのものを提案することが求められるケースがあります。今回は、そもそ […]
+続きを読む
+投稿 テクセル密度の決め方① は エンホリ - ENVIRONMENT HOLIC｜C&R Creative Studios に最初に表示されました。]]></summary>
+        <author>
+            <name>Kosei.Hatanaka</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rustでコンピューターグラフィックスの基礎を学ぶ その7]]></title>
+        <id>https://qiita.com/sumikawa@github/items/516ccc52dfc07d8a0237</id>
+        <link href="https://qiita.com/sumikawa@github/items/516ccc52dfc07d8a0237"/>
+        <updated>2026-01-28T12:49:56.000Z</updated>
+        <summary type="html"><![CDATA[フルコードはgithubにあります。
+週末レイトレーシングのここをやります。
+
+金属マテリアル
+Materialモジュールに、Metal構造体を追加する。拡散の代わりに反射する。
+pub struct Metal {
+    pub albedo: Color,
+}
+
+im...]]></summary>
+        <author>
+            <name>CGタグが付けられた新着記事 - Qiita</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Dream Machineの新動画モデル「Ray3.14」が公開！1080p解像度対応、画質の向上と生成効率が改善]]></title>
         <id>https://cginterest.com/?p=55262</id>
@@ -3325,60 +3390,6 @@ https://my-mus...]]></summary>
 キャラクターの肌や布、フィルムなど変形が発生する物体において、物体表面のしわをUnity上でリアルタイムにシミュレートする表現の実現に取り組みましたので共有します。しわの動的な表現は、ゲームのリアリズム、没入性を向上させる表現となりえます。本記事では、そのような...]]></summary>
         <author>
             <name>Shaderタグが付けられた新着記事 - Qiita</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[自動運転のVirtual Testingは『AI』ではない ─ シミュレーション基盤が果たす本当の役割]]></title>
-        <id>https://note.com/synular/n/ne5e790a2b0e3</id>
-        <link href="https://note.com/synular/n/ne5e790a2b0e3"/>
-        <updated>2025-12-30T12:12:32.000Z</updated>
-        <summary type="html"><![CDATA[自動運転車の開発では、安全性を確保するために実車試験だけでなく仮想環境でのテスト（Virtual Testing）が不可欠です。Virtual Testingは、実世界では試せない危険事象や稀なケースをコンピューターシミュレーションで再現し検証する技術です。この手法は、AI（機械学習）そのものではなく、物理モデルや映像レンダリングなどを用いた「シミュレーション基盤」に基づきます。SIGGRAPH 2024の発表によれば、シミュレーション基盤では最先端のコンピュータグラフィックス技術を活用し、リアルかつ大規模な環境を作り上げます。例えば、カメラ映像だけでなくLiDARやレーダーのマルチモーダルセンサー情報を物理ベースで再現するフレームワーク（Alba）では、正確性や規模の最適化が重視されています。このように、Virtual Testingでは物理的・映像的にリアルなシミュレーションを実現する技術が中核であり、「AI」という学習アルゴリズムとは異なる技術基盤であることが明確です。
-Aurora Innovationの自動運転開発でもVirtual Testingは中核ツールです。同社CEOのクリス・アーミン氏は、「大規模なシミュレーションと機械学習は技術開発の礎石であり、AWS上で何百万もの仮想テストを可能にする」と述べています。AuroraのVirtual Testing Suiteでは、1日に何百万回もの走行シナリオを仮想環境で検証できるため、実車試験では到底到達できない速度と網羅性を実現します。例えば、実際の左折シーン1件から得た情報を元に数百万通りの左折シナリオを生成し、シミュレーター上で約230万回もの左折練習を行うことで、実走行前に問題点をつぶし込んでいます。こうして仮想テストで得られた知見に基づき欠陥を早期発見・修正することで、新しいソフトウェアの実装前に安全性を担保します。
-続きをみる]]></summary>
-        <author>
-            <name>#Houdiniタグ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[監督の哲学、パフォーマンスキャプチャー..。映画『アバター：ファイヤー・アンド・アッシュ』のメイキング映像]]></title>
-        <id>https://3dtotal.jp/?p=54255</id>
-        <link href="https://3dtotal.jp/news/54255/"/>
-        <updated>2025-12-30T05:26:41.000Z</updated>
-        <summary type="html"><![CDATA[★『アバター：ファイヤー・アンド・アッシュ』特別映像｜なぜライトストーム社の3D映画は美しいのか？キャメロン監督の哲学（3分50秒） ★Avatar: Fire and Ash | Behind the Camera（3 […]
-The post 監督の哲学、パフォーマンスキャプチャー..。映画『アバター：ファイヤー・アンド・アッシュ』のメイキング映像 first appeared on 3dtotal 日本語オフィシャルサイト.]]></summary>
-        <author>
-            <name>3dtotal管理人T</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[8.3K収録・4K合成が1台で完結！？　DEFTが編み出したAMD Ryzen Threadripper活用法とは～CGWCC2025（2） - スペシャルコンテンツ]]></title>
-        <id>https://cgworld.jp/special-feature/202512-sycom-deft-cgwcc2025.html</id>
-        <link href="https://cgworld.jp/special-feature/202512-sycom-deft-cgwcc2025.html"/>
-        <updated>2025-12-30T05:07:33.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【アドオン紹介】Ez Stitches –]]></title>
-        <id>https://cgbox.jp/?p=64931</id>
-        <link href="https://cgbox.jp/2025/12/30/news-addon-ez-stitches/"/>
-        <updated>2025-12-30T03:02:12.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは！ 今回はアドオンの「Ez Stitches」を紹介します。 こちらのリンクがアドオンの商品ページになります。 Ez Stitches 「Ez Stitches」は、Blender上でメッシュのエッジに沿ってリ […]]]></summary>
-        <author>
-            <name>kasahara</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MODO（国内・海外・関連ソフト）がダウンロード終了予定！ 最新版 17.1 は現在無料配布中！]]></title>
-        <id>https://modelinghappy.com/?p=66378</id>
-        <link href="https://modelinghappy.com/archives/66378"/>
-        <updated>2025-12-30T00:50:22.000Z</updated>
-        <summary type="html"><![CDATA[【重要】 Modo ならびに Modo 関連製品 ダウンロードサイト閉鎖のお知らせ FOUNDRY社からの通知により、2025年12月末をもって、すべてのModo関連製品のダウンロード提供、および Modo EOL（En
-The post MODO（国内・海外・関連ソフト）がダウンロード終了予定！ 最新版 17.1 は現在無料配布中！ first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
-        <author>
-            <name>modelinghappy</name>
         </author>
     </entry>
 </feed>

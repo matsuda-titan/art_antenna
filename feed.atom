@@ -2,10 +2,56 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-01-30T08:26:22.173Z</updated>
+    <updated>2026-01-30T12:31:17.812Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[MEL:選択中の正三角面を「正四面体」状に持ち上げるツール]]></title>
+        <id>https://qiita.com/hextomino/items/a32497c2abd07a06815f</id>
+        <link href="https://qiita.com/hextomino/items/a32497c2abd07a06815f"/>
+        <updated>2026-01-30T10:07:53.000Z</updated>
+        <summary type="html"><![CDATA[水戸芸術館は正四面体の集合なのか知りませんが、ぱっと見、そう見えます。
+建築設計は磯崎新です。
+
+この手のモデリングが面倒なので、半自動化しました。
+面選択(手動)　→　延長(MEL)
+
+手順
+フェース法線取得 → polySubdivideFacetで重心頂点追加 ...]]></summary>
+        <author>
+            <name>mayaタグが付けられた新着記事 - Qiita</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Free Basic Rigging | リグ専門会社Studio JoinがMaya向けの無料リグ付きモデルデータを無料配布！]]></title>
+        <id>https://3dnchu.com/?p=1061624</id>
+        <link href="https://3dnchu.com/archives/free-basic-rigging-studio-join/"/>
+        <updated>2026-01-30T09:18:07.000Z</updated>
+        <summary type="html"><![CDATA[リグ専門会社Studio JoinがMaya向けの無料リグ付きモデルデータ「Basic Rigging 」を無料配布しています！運営するcgテクニカルチャンネル「JOINUNIVERSE」にて解説動画も公開されています。]]></summary>
+        <author>
+            <name>Ymt3D -3dnchu-</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[vol.002：映像資産を"意味"に変える――「VSS」が実現する、監視カメラから始めるデジタルツイン - 連載]]></title>
+        <id>https://cgworld.jp/regular/202601-physicalai-002.html</id>
+        <link href="https://cgworld.jp/regular/202601-physicalai-002.html"/>
+        <updated>2026-01-30T09:00:00.000Z</updated>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2/12（木）コンテンツ産業の"これから"を語る 「静岡県 Creators MeetUp」開催 - ニュース]]></title>
+        <id>https://cgworld.jp/flashnews/02-2601-shizuoka.html</id>
+        <link href="https://cgworld.jp/flashnews/02-2601-shizuoka.html"/>
+        <updated>2026-01-30T08:33:50.000Z</updated>
+        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2026年1月発売のCG関連書籍をチェック！]]></title>
         <id>https://cginterest.com/?p=54608</id>
@@ -38,6 +84,16 @@ Black Beard Design Studio エフェクトセクションのデザイナー、宮
         <id>https://cgworld.jp/article/2601-atsuc-graphinica.html</id>
         <link href="https://cgworld.jp/article/2601-atsuc-graphinica.html"/>
         <updated>2026-01-30T06:00:43.000Z</updated>
+        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[テーマは「NEW TOKYO」Blenderユーザー限定CG作品コンテスト「b3d創作祭」第四回を開催 - ニュース]]></title>
+        <id>https://cgworld.jp/flashnews/3025blender3dcgb3d3914.html</id>
+        <link href="https://cgworld.jp/flashnews/3025blender3dcgb3d3914.html"/>
+        <updated>2026-01-30T05:42:39.000Z</updated>
         <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
         <author>
             <name>CGWORLD</name>
@@ -3452,17 +3508,6 @@ VFXの、しかもゲームVFX向けというニッチすぎる分野ですが�
         <updated>2026-01-01T01:47:17.000Z</updated>
         <summary type="html"><![CDATA[2026年あけましておめでとうございます。 本年もModelinghappyをどうぞよろしくお願いします。 2025年の1月~12月にXで多くの人にリツイートされた人気記事をリストアップしてみました。 2025年１月 1
 The post 2026年明けましておめでとうございます。2025年人気記事リストアップまとめ first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
-        <author>
-            <name>modelinghappy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2026年1月 初売りBTOセール総まとめ｜ドスパラ／TSUKUMO／アーク／FRONTIERのお買い得モデル紹介]]></title>
-        <id>https://modelinghappy.com/?p=66388</id>
-        <link href="https://modelinghappy.com/archives/66388"/>
-        <updated>2026-01-01T00:09:26.000Z</updated>
-        <summary type="html"><![CDATA[2026年1月１日よりドスパラ、TSUKUMO、STORM、アーク、パソコンショップ7 SEVEN、FRONTIERなどの日本のBTOメーカーで新春初売りセールが開催しているのでまとめてみました。 ドスパラ ドスパラでは
-The post 2026年1月 初売りBTOセール総まとめ｜ドスパラ／TSUKUMO／アーク／FRONTIERのお買い得モデル紹介 first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
         <author>
             <name>modelinghappy</name>
         </author>

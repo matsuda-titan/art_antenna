@@ -251,6 +251,21 @@
       "siteUrl": "https://3dnchu.com",
       "articles": [
         {
+          "id": "https://3dnchu.com/?p=1061610",
+          "author": "Ymt3D -3dnchu-",
+          "description": "クリエイティブディレクターの John Likens氏が「ティーンエイジ・ミュータント・ニンジャ・タートルズ」のファンメイドCGテストフッテージ最新作「TMNT : RAPHAEL : TEST FOOTAGE」をYoutube上に公開しました！",
+          "link": "https://3dnchu.com/archives/tmnt-raphael-test-footage-john-likens/",
+          "publishedOn": "2026-01-29T16:00:08.000Z",
+          "wordCount": 8880,
+          "title": "TMNT : RAPHAEL : TEST FOOTAGE | クリエイティブディレクターの John Likens氏が手掛けた「ティーンエイジ・ミュータント・ニンジャ・タートルズ」のファンメイドCGテストフッテージ！最新作がYoutube上で公開！",
+          "enclosure": {
+            "url": "https://3dnchu.com/wp-content/uploads/tmnt-raphael-test-footage-john-likens.webp",
+            "length": "910050",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://3dnchu.com/wp-content/uploads/tmnt-raphael-test-footage-john-likens.webp"
+        },
+        {
           "id": "https://3dnchu.com/?p=1061461",
           "author": "Ymt3D -3dnchu-",
           "description": "Firas Maayah氏による多彩な機能を搭載したUnreal Engine 5向けスタイライズドマテリアルパック「Advanced Stylization Material」がFabにて販売中！",
@@ -639,36 +654,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "https://3dnchu.com/wp-content/uploads/3dnchu-Best-Articles-of-2025.jpg"
-        },
-        {
-          "id": "https://3dnchu.com/?p=1060967",
-          "author": "Ymt3D -3dnchu-",
-          "description": "A Vie Guy Studiosによるスプラインを使用したメッシュ配置しすてむ「All-in-1 Spline Mesh Blueprint」の最新アップデート v1.2を無料で公開中。そしてインスタンスのパフォーマンス解説動画「ISM／HISMs Deep Dive」も公開されています！",
-          "link": "https://3dnchu.com/archives/all-in-1-spline-mesh-blueprint-v1-2/",
-          "publishedOn": "2025-12-31T05:48:03.000Z",
-          "wordCount": 8970,
-          "title": "All-in-1 Spline Mesh Blueprint v1.2 - スプラインを使用したメッシュインスタンスプループリントが無料ダウンロード可能！開発者によるインスタンスのパフォーマンス解説動画「ISM／HISMs Deep Dive」も公開！",
-          "enclosure": {
-            "url": "https://3dnchu.com/wp-content/uploads/all-in-1-spline-mesh-blueprint-v.jpg",
-            "length": "95861",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://3dnchu.com/wp-content/uploads/all-in-1-spline-mesh-blueprint-v.jpg"
-        },
-        {
-          "id": "https://3dnchu.com/?p=1060697",
-          "author": "Ymt3D -3dnchu-",
-          "description": "ゲームの分析や解析コンテンツなどでお馴染みDigital Foundryが、ゲームの「雪表現」の歴史を、当時のハード構成とフレームレートの厳しさ込みで振り返る動画「The Evolution of Snow Rendering」がYoutube上で公開！",
-          "link": "https://3dnchu.com/archives/the-evolution-of-snow-digital-foundry/",
-          "publishedOn": "2025-12-31T04:39:03.000Z",
-          "wordCount": 8889,
-          "title": "The Evolution of Snow Rendering - Digital Foundryがゲーム（リアルタイムレンダリング）における雪表現技術の歴史紹介動画を公開！",
-          "enclosure": {
-            "url": "https://3dnchu.com/wp-content/uploads/the-evolution-of-snow-rendering.jpg",
-            "length": "76497",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://3dnchu.com/wp-content/uploads/the-evolution-of-snow-rendering.jpg"
         }
       ]
     },
@@ -677,6 +662,16 @@
       "feedUrl": "https://cgworld.jp/atom.xml",
       "siteUrl": "https://cgworld.jp/",
       "articles": [
+        {
+          "id": "https://cgworld.jp/flashnews/02-2601-kobe-exciting2026.html",
+          "author": null,
+          "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
+          "link": "https://cgworld.jp/flashnews/02-2601-kobe-exciting2026.html",
+          "publishedOn": "2026-01-30T00:55:13.000Z",
+          "wordCount": 760,
+          "title": "神戸市、プロジェクションマッピングコンテスト 「KOBE Projection Mapping Award 2026」を実施 - ニュース",
+          "imageUrl": "https://cgworld.jp/flashnews/assets_c/2026/01/20260128141618-thumb-1000x563-79315.jpg"
+        },
         {
           "id": "https://cgworld.jp/flashnews/01-202601-Niji7.html",
           "author": null,
@@ -2652,23 +2647,7 @@
       "title": "Zennの「GLSL」のフィード",
       "feedUrl": "https://zenn.dev/topics/glsl/feed",
       "siteUrl": "https://zenn.dev/topics/glsl",
-      "articles": [
-        {
-          "id": "https://zenn.dev/tatta_chotdog/articles/2bb2f843bced9f",
-          "author": "tatta_chotdog",
-          "description": "はじめに\n先日開催された LODGE XR Talk Vol.34 に、個人開発したWebXRアプリを出展してきました。\nこの記事では実装において工夫した点をまとめます。\n\n アプリ概要\nテーマ: AR Boombox\n\n私がこれまで作曲した曲を生きているラジカセと戯れながら聴くARアプリ。\n技術スタックと役割は以下の通りです。\n\n\nWebXR: ARセッション開始/終了処理\n\nReact Three Fiber: 3Dグラフィックスやレンダリング処理\n\nGLSL: ラジカセの色調変化やアニメーション\n\nVite: ビルドツール\n\n↓アプリURLはこちら\nhttps://my-mus...",
-          "link": "https://zenn.dev/tatta_chotdog/articles/2bb2f843bced9f",
-          "publishedOn": "2025-12-31T03:51:37.000Z",
-          "wordCount": 477,
-          "title": "WebXRアプリ展示レポート #2",
-          "enclosure": {
-            "url": "https://res.cloudinary.com/zenn/image/upload/s--ibff9qkw--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:WebXR%25E3%2582%25A2%25E3%2583%2597%25E3%2583%25AA%25E5%25B1%2595%25E7%25A4%25BA%25E3%2583%25AC%25E3%2583%259D%25E3%2583%25BC%25E3%2583%2588%2520%25232%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:tatta_chotdog%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUFjSFR0Y2NldFpKNGZjdGNxSFdUazh5WWd1XzlKeDYtLTJIUjBGWjdtQlQ9czk2LWM=%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
-            "length": "0",
-            "type": "false"
-          },
-          "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--ibff9qkw--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:WebXR%25E3%2582%25A2%25E3%2583%2597%25E3%2583%25AA%25E5%25B1%2595%25E7%25A4%25BA%25E3%2583%25AC%25E3%2583%259D%25E3%2583%25BC%25E3%2583%2588%2520%25232%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:tatta_chotdog%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUFjSFR0Y2NldFpKNGZjdGNxSFdUazh5WWd1XzlKeDYtLTJIUjBGWjdtQlQ9czk2LWM=%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "AREA JAPAN | Autodesk",
@@ -3627,16 +3606,6 @@
           "wordCount": 30237,
           "title": "Sketchfabマンスリーピックアップ 2026年1月号",
           "imageUrl": "https://cginterest.com/wp-content/uploads/2026/01/sketchfabmontlypickup2026-1.webp"
-        },
-        {
-          "id": "https://cginterest.com/?p=54528",
-          "author": ".me",
-          "description": "今月発売、2025年12月以降に発売予定*のあるCG関連書籍を紹介するコーナーです(Amazon調べ)。 CGソフトの入門本、テクニック本、アートブック、リファレンス（参考資料）、その他気になるおすすめ書籍を紹介していき […]\n2025年12月発売のCG関連書籍をチェック！ first appeared on CGinterest.",
-          "link": "https://cginterest.com/2025/12/31/2025%e5%b9%b412%e6%9c%88%e7%99%ba%e5%a3%b2%e3%81%aecg%e9%96%a2%e9%80%a3%e6%9b%b8%e7%b1%8d%e3%82%92%e3%83%81%e3%82%a7%e3%83%83%e3%82%af%ef%bc%81/",
-          "publishedOn": "2025-12-31T08:15:54.000Z",
-          "wordCount": 32921,
-          "title": "2025年12月発売のCG関連書籍をチェック！",
-          "imageUrl": "https://cginterest.com/wp-content/uploads/2025/12/bookcorner-2025-12.webp"
         }
       ]
     }

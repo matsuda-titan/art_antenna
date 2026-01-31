@@ -2,10 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-01-30T12:31:17.812Z</updated>
+    <updated>2026-01-31T01:05:09.177Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【Unity】Custom Render Texture で整数型を扱う]]></title>
+        <id>https://qiita.com/yuri_tsukimi/items/a7bea614e919e87b2770</id>
+        <link href="https://qiita.com/yuri_tsukimi/items/a7bea614e919e87b2770"/>
+        <updated>2026-01-31T01:03:56.000Z</updated>
+        <summary type="html"><![CDATA[Unity の Custom Render Texture ではテスクチャのフォーマットに整数型を選択できます．しかし，シェーダー内で普通に tex2Dlod() でサンプルすると float4 でサンプルされてしまいます．これを，ちゃんと uint4 でサンプルできるよう...]]></summary>
+        <author>
+            <name>Shaderタグが付けられた新着記事 - Qiita</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Genie 3｜次世代のゲーム？3Dモデル不要のフレーム生成型オープンワールドAIをGoogleが公開]]></title>
+        <id>https://modelinghappy.com/?p=66846</id>
+        <link href="https://modelinghappy.com/archives/66846"/>
+        <updated>2026-01-31T00:44:11.000Z</updated>
+        <summary type="html"><![CDATA[Genie 3 Googleが簡単なプロンプトまたは画像をアップロードするだけで、フォトリアルでオープンワールドな環境を生成して、そこをキャラクターとなるユーザーが歩く、走る、飛ぶ、運転するなどしてリアルタイムに動けるG
+The post Genie 3｜次世代のゲーム？3Dモデル不要のフレーム生成型オープンワールドAIをGoogleが公開 first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
+        <author>
+            <name>modelinghappy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wacomオンラインセミナー『館田ダン先生に聞く 表情＆カラー塗り込みテクニック』]]></title>
+        <id>https://cginterest.com/?p=55431</id>
+        <link href="https://cginterest.com/2026/01/31/wacom%e3%82%aa%e3%83%b3%e3%83%a9%e3%82%a4%e3%83%b3%e3%82%bb%e3%83%9f%e3%83%8a%e3%83%bc%e3%80%8e%e9%a4%a8%e7%94%b0%e3%83%80%e3%83%b3%e5%85%88%e7%94%9f%e3%81%ab%e8%81%9e%e3%81%8f-%e8%a1%a8%e6%83%85/"/>
+        <updated>2026-01-30T22:47:00.000Z</updated>
+        <summary type="html"><![CDATA[Wacomオンラインセミナー『館田ダン先生に聞く 表情＆カラー塗り込みテクニック』の紹介です。 ゲスト講師は、イラストレーターの館田ダンさん。 作品の描き込みのステップを中心に、キャラクターの魅力を引き出す表情やニュアン […]
+Wacomオンラインセミナー『館田ダン先生に聞く 表情＆カラー塗り込みテクニック』 first appeared on CGinterest.]]></summary>
+        <author>
+            <name>.me</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Align Edges-最後に選択したエッジの向きに統一する、エッジリング・ループ対応Blender無料アドオン]]></title>
+        <id>https://modelinghappy.com/?p=66837</id>
+        <link href="https://modelinghappy.com/archives/66837"/>
+        <updated>2026-01-30T13:23:12.000Z</updated>
+        <summary type="html"><![CDATA[Align Edges Align EdgesはBlenderで様々なアドオンを作成しているKushiroさんが、複数の選択したエッジを、最後に選択したビューポート上で白く表示されるアクティブえエッジの方向に揃えてくれる
+The post Align Edges-最後に選択したエッジの向きに統一する、エッジリング・ループ対応Blender無料アドオン first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
+        <author>
+            <name>modelinghappy</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[MEL:選択中の正三角面を「正四面体」状に持ち上げるツール]]></title>
         <id>https://qiita.com/hextomino/items/a32497c2abd07a06815f</id>
@@ -3486,30 +3529,6 @@ VFXの、しかもゲームVFX向けというニッチすぎる分野ですが�
 この記事では、Maya Pythonでツールを開発してBOOTHで販売するまでの流れを、技術的な知見も含めてまとめます。本職プログラマーでもなんでもないただのVFXデザイナーですが、なん...]]></summary>
         <author>
             <name>あの鳥</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[明けましておめでとうございます🎍2026年のチュートリアルの方針と発信について]]></title>
-        <id>https://note.com/juntominaga/n/n8a6c1c1d42c1</id>
-        <link href="https://note.com/juntominaga/n/n8a6c1c1d42c1"/>
-        <updated>2026-01-01T06:05:05.000Z</updated>
-        <summary type="html"><![CDATA[🎍明けましておめでとうございます。
-本年も、建築ビジュアライゼーションとマテリアル制作を軸に、実践とチュートリアル制作を継続していきます。
-2026年は、「作れるようになること」よりも、なぜそう作るのかを説明できることを重視する一年にします。
-続きをみる]]></summary>
-        <author>
-            <name>#substancepainterタグ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2026年明けましておめでとうございます。2025年人気記事リストアップまとめ]]></title>
-        <id>https://modelinghappy.com/?p=66412</id>
-        <link href="https://modelinghappy.com/archives/66412"/>
-        <updated>2026-01-01T01:47:17.000Z</updated>
-        <summary type="html"><![CDATA[2026年あけましておめでとうございます。 本年もModelinghappyをどうぞよろしくお願いします。 2025年の1月~12月にXで多くの人にリツイートされた人気記事をリストアップしてみました。 2025年１月 1
-The post 2026年明けましておめでとうございます。2025年人気記事リストアップまとめ first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
-        <author>
-            <name>modelinghappy</name>
         </author>
     </entry>
 </feed>

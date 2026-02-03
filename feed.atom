@@ -2,10 +2,69 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-02-03T08:26:02.321Z</updated>
+    <updated>2026-02-03T12:35:25.767Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【DxLib】3Dモデルの法線の方向を再計算する方法]]></title>
+        <id>https://qiita.com/tsukino_/items/9da520814f6c1b5fcd44</id>
+        <link href="https://qiita.com/tsukino_/items/9da520814f6c1b5fcd44"/>
+        <updated>2026-02-03T09:47:58.000Z</updated>
+        <summary type="html"><![CDATA[DxLibを使いつつシェーダーを併用した際に、法線方向の整合性が取れないことがあります。
+今回はDxLibModelViewerの機能を利用して、法線を再計算する方法を紹介します。
+
+前提知識
+
+DxLibで3Dゲーム開発をしたことがある
+
+DxLibModelViewe...]]></summary>
+        <author>
+            <name>Shaderタグが付けられた新着記事 - Qiita</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【Maya編】MayaでCGを作成し、UnityでAndroidとXREAL One ProにAR表示する]]></title>
+        <id>https://qiita.com/Ai_Kimimura/items/7b3ddb3fed0c2c840892</id>
+        <link href="https://qiita.com/Ai_Kimimura/items/7b3ddb3fed0c2c840892"/>
+        <updated>2026-02-03T09:29:05.000Z</updated>
+        <summary type="html"><![CDATA[はじめに
+　株式会社GENEROSITY様でインターンをさせていただき、ARコンテンツの企画からデモの作成までを行いました。その過程をここに記させていただきます。
+
+目次
+
+概要
+開発環境
+Mayaで編み物のCGを作成
+UnityでAR化(次回)
+
+概要
+　AR編み物学...]]></summary>
+        <author>
+            <name>mayaタグが付けられた新着記事 - Qiita</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【インタビュー】インスピレーションは 実生活や好きなものから：3Dアーティスト Gal Yosef 氏]]></title>
+        <id>https://3dtotal.jp/?p=54572</id>
+        <link href="https://3dtotal.jp/features/54572/"/>
+        <updated>2026-02-03T09:26:00.000Z</updated>
+        <summary type="html"><![CDATA[Q. 自己紹介をお願いします イスラエル出身で、現在 米国で活動している 3Dアーティスト／CGディレクターの Gal Yosef です。スタイリッシュ キャラクター、カートゥーン キャラクター、ビジュアルアートに重点を […]
+The post 【インタビュー】インスピレーションは 実生活や好きなものから：3Dアーティスト Gal Yosef 氏 first appeared on 3dtotal 日本語オフィシャルサイト.]]></summary>
+        <author>
+            <name>3dtotal管理人T</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Control Rig Modules For Vehicles | 車両関係のアニメーション制作に適したUnreal Engine向けビークルコントロールリグモジュールアセット！Fabにて販売中！]]></title>
+        <id>https://3dnchu.com/?p=1061467</id>
+        <link href="https://3dnchu.com/archives/control-rig-modules-for-vehicles-ue5/"/>
+        <updated>2026-02-03T08:50:29.000Z</updated>
+        <summary type="html"><![CDATA[RenderEverythingによる車両関係のアニメーション制作に適したUnreal Engine向けビークルコントロールリグモジュールアセット「Control Rig Modules For Vehicles」がFabにて販売中！]]></summary>
+        <author>
+            <name>Ymt3D -3dnchu-</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[XYN Motion Studio が Mixamoデータのインポート対応！オープンソースmocopi レシーバープラグインも公開！]]></title>
         <id>https://cginterest.com/?p=55486</id>
@@ -3825,35 +3884,6 @@ Sketchfabマンスリーピックアップ 2026年1月号 first appeared on CGin
         <summary type="html"><![CDATA[このコラムでは、実写映像からキャラクターアニメーションを作成することができるAI搭載ソフトウェア「Autodesk Flow Studio」に関する情報をお届けします。機能解説や、綺麗にモーションをとるためのノウハウ、様々な作業の検証やその結果など、皆様が今後Flow Studioを使ったり検証したりする際に参考にしていただけそうな情報をお伝えできるよう努めさせていただきます！・・・]]></summary>
         <author>
             <name>AREA JAPAN | Autodesk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[流体シミュレーションを実装してみたい その１（レンダリング編）]]></title>
-        <id>https://tech.spark-creative.co.jp/entry/2026/01/05/091531</id>
-        <link href="https://tech.spark-creative.co.jp/entry/2026/01/05/091531"/>
-        <updated>2026-01-05T00:15:31.000Z</updated>
-        <summary type="html"><![CDATA[はじめに こんにちは。株式会社スパーククリエイティブCTOの広本です。 普段は SPARK GEARの開発をしたり、UEでエンジンの改造をしたり、Unityでレンダラーや揺れもの物理を作ったりしています。 先日「0から始める流体シミュレーション」という内容で社内勉強会に参加しました。 80ページ以上の資料を作ったのですがせっかくなのでブログにも残しておこうと思います。 今回作成した流体シミュレーションです。 流体シミュレーションにおいて、計算そのものの精度（ナビエ・ストークス方程式の解法など）はもちろん重要ですが、最終的なアウトプットの質を左右するのはやはり描画技術です。 本記事では、ボリュー…]]></summary>
-        <author>
-            <name>SPARK CREATIVE Tech Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[vol.030： 干支 ～午～ / 「集い、組み合わせる」 - 連載]]></title>
-        <id>https://cgworld.jp/regular/202601-pga-030.html</id>
-        <link href="https://cgworld.jp/regular/202601-pga-030.html"/>
-        <updated>2026-01-05T00:00:00.000Z</updated>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[オープンソースのリアルタイム世界モデル「HY World 1.5（WorldPlay）」リリース！ 720P・24fps、一人称と三人称の両視点をサポート - ニュース]]></title>
-        <id>https://cgworld.jp/flashnews/01-202601-HYWorld15.html</id>
-        <link href="https://cgworld.jp/flashnews/01-202601-HYWorld15.html"/>
-        <updated>2026-01-04T22:47:08.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
         </author>
     </entry>
 </feed>

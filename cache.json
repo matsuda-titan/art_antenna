@@ -783,6 +783,16 @@
       "siteUrl": "https://cgworld.jp/",
       "articles": [
         {
+          "id": "https://cgworld.jp/flashnews/01-202602-Waypoint-1.html",
+          "author": null,
+          "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
+          "link": "https://cgworld.jp/flashnews/01-202602-Waypoint-1.html",
+          "publishedOn": "2026-02-03T22:06:07.000Z",
+          "wordCount": 946,
+          "title": "オープンソースの世界モデル「Waypoint-1」リリース！ コンシューマ向けGPUでローカル実行でき一貫した世界シミュレーションを継続、360P・60fpsを達成 - ニュース",
+          "imageUrl": "https://cgworld.jp/flashnews/assets_c/2026/02/Waypoint1-01-thumb-1920x1080-79506.jpg"
+        },
+        {
           "id": "https://cgworld.jp/regular/202602-manabi5-2.html",
           "author": null,
           "description": "新人はどのように現場へ溶け込み、やがて“一人前”のクリエイターへと成長していくのか。各社の教育・研修の取り組みに迫る連載企画、第5回はデジタル・メディア・ラボ（以下、DML）を紹介する。後編では、メンター制度や定期面談、作品添削会といった日常的な対話と実践の積み重ねを通じて、若手が自ら声を上げ、キャリアを切り拓いていくDML流の育成と成長支援のあり方に迫る。",
@@ -1591,16 +1601,6 @@
           "wordCount": 926,
           "title": "インタラクティブな会話型AI動画モデル「Lemon Slice-2」リリース！  写真1枚から手の動きと全身のモーションを生成、APIまたは埋め込みウィジェットとして利用可能 - ニュース",
           "imageUrl": "https://cgworld.jp/flashnews/assets_c/2026/01/LemonSlice-01-thumb-1920x1080-78289.jpg"
-        },
-        {
-          "id": "https://cgworld.jp/flashnews/2601-book-marvelous-designer.html",
-          "author": null,
-          "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
-          "link": "https://cgworld.jp/flashnews/2601-book-marvelous-designer.html",
-          "publishedOn": "2026-01-05T01:15:20.000Z",
-          "wordCount": 744,
-          "title": "服飾理論×CG技術でゲーム衣装などをデザインするための脱初心者バイブル。『Marvelous Designerネクストレベル』発売 - ニュース",
-          "imageUrl": "https://cgworld.jp/flashnews/assets_c/2026/01/md_nextlevel-thumb-1920x1080-78215.jpg"
         }
       ]
     },
@@ -1657,36 +1657,6 @@
           "wordCount": 603,
           "title": "流体シミュレーションを実装してみたい その５（続・最適化編）",
           "imageUrl": "https://cdn.image.st-hatena.com/image/scale/c54e201531280e2f35887908b73741f35eb17b9b/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fs%2Fsparkcreative%2F20260107%2F20260107160748.png"
-        },
-        {
-          "id": "https://tech.spark-creative.co.jp/entry/2026/01/05/145649",
-          "author": null,
-          "description": "はじめに こんにちは。株式会社スパーククリエイティブCTOの広本です。 普段は SPARK GEARの開発をしたり、UEでエンジンの改造をしたり、Unityでレンダラーや揺れもの物理を作ったりしています。 第3回までの内容で爆発のシミュレーションを作ることは出来ました、しかしこれら実装できたとしても、高解像度で実行すると、FPSは一桁に落ち込みます。 流体シミュレーションは、計算量とメモリ帯域の塊です。 今回は、リアルタイム動作を実現するための最適化に関して解説します。 はじめに 1. データ構造の最適化 バッファ精度の半減化 (FP32 → FP16) 遮蔽マップの低解像度化 2. カーネル…",
-          "link": "https://tech.spark-creative.co.jp/entry/2026/01/05/145649",
-          "publishedOn": "2026-01-05T05:56:49.000Z",
-          "wordCount": 798,
-          "title": "流体シミュレーションを実装してみたい その４（最適化編）",
-          "imageUrl": "https://cdn.image.st-hatena.com/image/scale/5c4ebbac363dc78850670befc30cfb5983105910/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fs%2Fsparkcreative%2F20251231%2F20251231235324.gif"
-        },
-        {
-          "id": "https://tech.spark-creative.co.jp/entry/2026/01/05/145355",
-          "author": null,
-          "description": "はじめに こんにちは。株式会社スパーククリエイティブCTOの広本です。 普段は SPARK GEARの開発をしたり、UEでエンジンの改造をしたり、Unityでレンダラーや揺れもの物理を作ったりしています。 前回までは、ナビエ・ストークス方程式を解き、マコーマック法でディテールを維持するところまで解説しました。 しかし、それだけでは「煙が漂う」だけで、「爆発」にはなりません。 爆発とは、物理的には「急激な化学反応による熱エネルギーの放出と、それに伴う気体の体積膨張」です。 今回は、単なるパーティクルエフェクトでは到達できない、密度・燃料・温度・酸素の4要素を連成させた、物理ベースの燃焼モデルの実…",
-          "link": "https://tech.spark-creative.co.jp/entry/2026/01/05/145355",
-          "publishedOn": "2026-01-05T05:53:55.000Z",
-          "wordCount": 595,
-          "title": "流体シミュレーションを実装してみたい その３（燃焼モデル編）",
-          "imageUrl": "https://cdn.image.st-hatena.com/image/scale/e58fa0da6cb00da421b224bf0b992b8e5ae4afb7/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fs%2Fsparkcreative%2F20251231%2F20251231220256.gif"
-        },
-        {
-          "id": "https://tech.spark-creative.co.jp/entry/2026/01/05/133320",
-          "author": null,
-          "description": "はじめに こんにちは。株式会社スパーククリエイティブCTOの広本です。 普段は SPARK GEARの開発をしたり、UEでエンジンの改造をしたり、Unityでレンダラーや揺れもの物理を作ったりしています。 前回はレンダリング周りの技術について解説しましたが、今回はその裏側で動いている心臓部、流体シミュレーションの実装についてを雑に解説していきます。 単に教科書通りのナビエ・ストークス方程式を解くだけでは、ゲームや映像で使えるような「派手な爆発」や「カッコいい煙」にはなりません。 今回は、基本実装からスタートし、マコーマック法や渦度閉じ込めといった技術をどのように組み込んで理想の挙動に近づけてい…",
-          "link": "https://tech.spark-creative.co.jp/entry/2026/01/05/133320",
-          "publishedOn": "2026-01-05T04:33:20.000Z",
-          "wordCount": 1165,
-          "title": "流体シミュレーションを実装してみたい その２（シミュレーション編）",
-          "imageUrl": "https://cdn.image.st-hatena.com/image/scale/184693f72bb474842eebb4651765bb7e6546efb5/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fs%2Fsparkcreative%2F20251231%2F20251231151352.gif"
         }
       ]
     },
@@ -1695,6 +1665,26 @@
       "feedUrl": "https://modelinghappy.com/feed",
       "siteUrl": "https://modelinghappy.com",
       "articles": [
+        {
+          "id": "https://modelinghappy.com/?p=66939",
+          "author": "modelinghappy",
+          "description": "FrameRef FrameRefはFrameRef はクリエイティブ プロフェッショナル向けの最新のリファレンス ボードで、画像、ビデオ、PDFを1つの無限のキャンバスに組み合わせ、ユーザーからのフィードバックに基づい\nThe post FrameRef｜画像・動画・YouTubeをまとめて整理できるクリエイター向けリファレンスボード first appeared on 3DCG最新情報サイト MODELING HAPPY.",
+          "link": "https://modelinghappy.com/archives/66939",
+          "publishedOn": "2026-02-03T23:19:12.000Z",
+          "wordCount": 3668,
+          "title": "FrameRef｜画像・動画・YouTubeをまとめて整理できるクリエイター向けリファレンスボード",
+          "imageUrl": "https://modelinghappy.com/wp-content/uploads/2026/02/20260204_frameref_01.jpg"
+        },
+        {
+          "id": "https://modelinghappy.com/?p=66931",
+          "author": "modelinghappy",
+          "description": "Pivot Tools Pivot Toolsは、Blenderで選択したオブジェクトの境界に27個の黄色いポイントを表示して、選んだ部分にピボットを自動的に移動させたり、自分で選んだ頂点部分にピボットを移動、オブジェク\nThe post Pivot Tools｜ピボット位置を境界ポイントから即移動・底面にも1クリックで配置できる無料Blenderアドオン first appeared on 3DCG最新情報サイト MODELING HAPPY.",
+          "link": "https://modelinghappy.com/archives/66931",
+          "publishedOn": "2026-02-03T14:04:30.000Z",
+          "wordCount": 3678,
+          "title": "Pivot Tools｜ピボット位置を境界ポイントから即移動・底面にも1クリックで配置できる無料Blenderアドオン",
+          "imageUrl": "https://modelinghappy.com/wp-content/uploads/2026/02/20260203_Pivot_Tools_01.jpg"
+        },
         {
           "id": "https://modelinghappy.com/?p=66920",
           "author": "modelinghappy",
@@ -2619,16 +2609,6 @@
           "wordCount": 6669,
           "title": "ワンクリックでSubstance Painterのフィルターやジェネレーターを追加するプラグインを作ってみた",
           "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYxMzkzODcxJTJGNGM5NTYzMmIyMTU3MzdkYWQ0NGJmNTg1MGNhNmE3OGM2ZWMxYTQ1MCUyRnhfbGFyZ2UucG5nJTNGMTcyMDQzMDEzOT9peGxpYj1yYi00LjAuMCZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9ODhiZTg2NDVmYzU2MWRlMWUzYTI1MDI2MzYzMDI0N2M%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D67d53b41b4e22df803e4f7f72572e86a?ixlib=rb-4.0.0&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9JUUzJTgzJUFGJUUzJTgzJUIzJUUzJTgyJUFGJUUzJTgzJUFBJUUzJTgzJTgzJUUzJTgyJUFGJUUzJTgxJUE3U3Vic3RhbmNlJTIwUGFpbnRlciVFMyU4MSVBRSVFMyU4MyU5NSVFMyU4MiVBMyVFMyU4MyVBQiVFMyU4MiVCRiVFMyU4MyVCQyVFMyU4MiU4NCVFMyU4MiVCOCVFMyU4MiVBNyVFMyU4MyU4RCVFMyU4MyVBQyVFMyU4MyVCQyVFMyU4MiVCRiVFMyU4MyVCQyVFMyU4MiU5MiVFOCVCRiVCRCVFNSU4QSVBMCVFMyU4MSU5OSVFMyU4MiU4QiVFMyU4MyU5NyVFMyU4MyVBOSVFMyU4MiVCMCVFMyU4MiVBNCVFMyU4MyVCMyVFMyU4MiU5MiVFNCVCRCU5QyVFMyU4MSVBMyVFMyU4MSVBNiVFMyU4MSVCRiVFMyU4MSU5RiZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnR4dC1wYWQ9MCZzPWQ1ZTAzZDQ2MWNlZjI4YjJiY2U1YzA3YzRhMDcxYzg2&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDByeW9zeW8mdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz00Y2E4YjY0ZTRhN2JiYjZkNTU3MjQ1YTIyNjc0ZmUyZg&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=170189b43670d2188096866fc7b8e1ee"
-        },
-        {
-          "id": "https://qiita.com/yokamak/items/9701890bbfd4019c2f75",
-          "author": null,
-          "description": "ビルドしてみました。\n以前インストールしたmakeを探す。\n> C:\\Windows\\System32\\where.exe mingw32-make\n C:\\Qt\\Qt5.14.2\\Tools\\mingw730_64\\bin\\mingw32-make.exe\n C:\\...",
-          "link": "https://qiita.com/yokamak/items/9701890bbfd4019c2f75",
-          "publishedOn": "2026-01-05T01:36:48.000Z",
-          "wordCount": 1431,
-          "title": "試してみたLuaJIT — a Just-In-Time Compiler for Lua",
-          "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkY0MjQzODEyJTJGODk0YTE5NzBlNjgwY2JlNmJkMGY2MWFiODUxOWY3OWRkZDVkMTM4ZSUyRmxhcmdlLnBuZyUzRjE3NjE5NTQ4ODU_aXhsaWI9cmItNC4wLjAmYXI9MSUzQTEmZml0PWNyb3AmbWFzaz1lbGxpcHNlJmJnPUZGRkZGRiZmbT1wbmczMiZzPWE2MjRjMmJmZmJlNDg3OWVhZTg2YzJhNTZjNjRkZmZj%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3Da1de8355a8ee3b10abc18d1ad0cf92f6?ixlib=rb-4.0.0&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9JUU4JUE5JUE2JUUzJTgxJTk3JUUzJTgxJUE2JUUzJTgxJUJGJUUzJTgxJTlGTHVhSklUJTIwJUUyJTgwJTk0JTIwYSUyMEp1c3QtSW4tVGltZSUyMENvbXBpbGVyJTIwZm9yJTIwTHVhJnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9ZWNiZThkOGRhMjAwNWM1ODQxMDViYmU4ZWM3NWMzNzE&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDB5b2thbWFrJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9OTljMmQyZGNjYTIzYzQwYjEwMWViYWM4ODlhZjNiNzc&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=e7d0577f53ae6e8f4ca1aa6fb67e4e24"
         }
       ]
     },
@@ -3043,16 +3023,6 @@
           "wordCount": 195,
           "title": "MotionBuilder 初心者向け入門チュートリアル",
           "imageUrl": "https://area.autodesk.jp/information/assets_c/2026/01/ic_motionbuilder_tutorial_1200x670-thumb-1200xauto-5785.png"
-        },
-        {
-          "id": "https://area.autodesk.jp/column/tutorial/journey-with-flow-studio/01-4project-types/",
-          "author": null,
-          "description": "このコラムでは、実写映像からキャラクターアニメーションを作成することができるAI搭載ソフトウェア「Autodesk Flow Studio」に関する情報をお届けします。機能解説や、綺麗にモーションをとるためのノウハウ、様々な作業の検証やその結果など、皆様が今後Flow Studioを使ったり検証したりする際に参考にしていただけそうな情報をお伝えできるよう努めさせていただきます！・・・",
-          "link": "https://area.autodesk.jp/column/tutorial/journey-with-flow-studio/01-4project-types/",
-          "publishedOn": "2026-01-05T01:00:00.000Z",
-          "wordCount": 415,
-          "title": "Flow Studioと往く～キャラクターアニメーションの新しい世界～ 第1回：ここに4つのプロジェクトタイプがあるじゃろ？",
-          "imageUrl": "https://area.autodesk.jp/column/assets_c/2025/12/ic_journey_with_flow_studio_01_1400x782-thumb-1200xauto-5783.jpg"
         }
       ]
     },

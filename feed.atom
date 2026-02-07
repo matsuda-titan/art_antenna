@@ -2,10 +2,72 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-02-07T08:18:32.325Z</updated>
+    <updated>2026-02-07T12:25:44.571Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[SeExpr 技術解説レポート：プロシージャル表現の基盤と実践]]></title>
+        <id>https://qiita.com/yokamak/items/40b880f5838c350128b2</id>
+        <link href="https://qiita.com/yokamak/items/40b880f5838c350128b2"/>
+        <updated>2026-02-07T10:51:32.000Z</updated>
+        <summary type="html"><![CDATA[以下、NotebookLMでレポート作成したものを基にまとめました。
+
+1. イントロダクション：SeExprが変えるデジタル表現の地平
+現代のVFX制作において、アセットの複雑性は幾何級数的に増大しています。ウォルト・ディズニー・アニメーション・スタジオ（WDAS）が開発...]]></summary>
+        <author>
+            <name>Shaderタグが付けられた新着記事 - Qiita</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SeExprプロシージャル生成入門 サンプルスクリプト20個]]></title>
+        <id>https://qiita.com/yokamak/items/b0cd65008784295036fc</id>
+        <link href="https://qiita.com/yokamak/items/b0cd65008784295036fc"/>
+        <updated>2026-02-07T10:15:40.000Z</updated>
+        <summary type="html"><![CDATA[SeExprのサンプルスクリプト
+
+01.
+$red=[1,0,0];
+$green=[0,1,0];
+$a=linearstep($u,0.4,0.4);
+mix($red,$green,$a)
+
+02.
+$red=[1,0,0];
+$blue=[0,0,1]...]]></summary>
+        <author>
+            <name>Shaderタグが付けられた新着記事 - Qiita</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[大雑把にとらえる、コンピュートシェーダーでソフトウェアラスタライザ　HLSLによるラスタライザ本体とパイプライン実装]]></title>
+        <id>https://qiita.com/YKVKDX12/items/35392b9eaae784b39bee</id>
+        <link href="https://qiita.com/YKVKDX12/items/35392b9eaae784b39bee"/>
+        <updated>2026-02-07T10:03:22.000Z</updated>
+        <summary type="html"><![CDATA[注意
+実装とイメージ画には生成AIを使用しています。忌避されている方はブラウザバックをお願いいたします
+
+前回( https://qiita.com/YKVKDX12/items/9b236c97522ee15f1583)
+にて短いながらもラスタライザの中核部分のみに焦点...]]></summary>
+        <author>
+            <name>HLSLタグが付けられた新着記事 - Qiita</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rustでポリゴンの基礎を学ぶ その2]]></title>
+        <id>https://qiita.com/sumikawa@github/items/7b7bd9b0e4a27c6a4122</id>
+        <link href="https://qiita.com/sumikawa@github/items/7b7bd9b0e4a27c6a4122"/>
+        <updated>2026-02-07T09:07:56.000Z</updated>
+        <summary type="html"><![CDATA[フルコードはgithubにあります。
+
+右肩下がりの線を引く
+その1で書いたブレゼンハムのアルゴリズムは、右肩上がりの線しか動かない。右肩下がりの線を引くためには、絶対値と符号を分けてやる必要がある。
+    let dx = (x1 - x0).abs();
+    le...]]></summary>
+        <author>
+            <name>CGタグが付けられた新着記事 - Qiita</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Blender用群衆シミュレーションアドオン iCrowds 2.0 アップデート！ラグドールシステムが追加！]]></title>
         <id>https://cginterest.com/?p=55644</id>
@@ -28,6 +90,19 @@ Kritaで描く数式の魔法：SeExprプロシージャル生成入門
 こんにちは！デジタルアーティストの皆さん。普段、ブラシを使って一筆ずつ色を置いていく作業に慣れているあなたに、今日は「数式で絵を描く」とい...]]></summary>
         <author>
             <name>Shaderタグが付けられた新着記事 - Qiita</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[073/365]First Snow and Seven Identities: A Systematic Approach to Character Design]]></title>
+        <id>https://note.com/torutanno/n/n7681beee9b70</id>
+        <link href="https://note.com/torutanno/n/n7681beee9b70"/>
+        <updated>2026-02-07T07:15:16.000Z</updated>
+        <summary type="html"><![CDATA[【073/365】2026年2月7日
+とても寒い日。今冬はじめて雪が降りました。
+積らない程度にちょびっと。
+続きをみる]]></summary>
+        <author>
+            <name>#Houdiniタグ</name>
         </author>
     </entry>
     <entry>
@@ -3750,26 +3825,6 @@ PBRテクスチャは「PolyHaven」など、無料で手に入るサイトも�
         <updated>2026-01-09T01:06:00.000Z</updated>
         <author>
             <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NVIDIAら、最大5分間生成可能な世界モデル「LongVie 2」公開！ ユーザー制御性、長時間生成における品質劣化防止、一貫性の確保 - ニュース]]></title>
-        <id>https://cgworld.jp/flashnews/01-202601-LongVie2.html</id>
-        <link href="https://cgworld.jp/flashnews/01-202601-LongVie2.html"/>
-        <updated>2026-01-09T00:06:47.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【アドオン紹介】Stylized Water Shaders And Generator – アニメ調の水表現を簡単実装！]]></title>
-        <id>https://cgbox.jp/?p=64946</id>
-        <link href="https://cgbox.jp/2026/01/09/news-addon-stylized-water-shaders-and-generator/"/>
-        <updated>2026-01-08T23:29:18.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは！ 今回はアドオンの「Stylized Water Shaders And Generator」を紹介します。 こちらのリンクがアドオンの商品ページになります。 Stylized Water Shaders A […]]]></summary>
-        <author>
-            <name>kasahara</name>
         </author>
     </entry>
 </feed>

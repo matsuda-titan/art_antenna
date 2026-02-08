@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-02-08T04:55:45.611Z</updated>
+    <updated>2026-02-08T08:21:06.983Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[256フェス 2026 | 2026年2月8日！△256ポリゴンの3Dモデルを制作し各種SNSにハッシュタグ付きで投稿するお祭りイベントが引き続き開催！ #256fes]]></title>
+        <id>https://3dnchu.com/?p=1061874</id>
+        <link href="https://3dnchu.com/archives/256fes-2026/"/>
+        <updated>2026-02-08T07:31:02.000Z</updated>
+        <summary type="html"><![CDATA[毎年恒例となった「256フェス（256fes）」が引き続き開催中！zen氏が立ち上げたこの「256フェス」は、256三角ポリゴンの制限で制作した作品を公開し共有するモデリングお祭りイベントです。]]></summary>
+        <author>
+            <name>Ymt3D -3dnchu-</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SeExpr 構文実践チュートリアル：コードで描く魔法のパターン]]></title>
+        <id>https://qiita.com/yokamak/items/755b141050e77578e034</id>
+        <link href="https://qiita.com/yokamak/items/755b141050e77578e034"/>
+        <updated>2026-02-08T06:38:29.000Z</updated>
+        <summary type="html"><![CDATA[以下、notebookLMで生成(22分)したレポートです。検証追記編集しました。ありがとうございます。
+
+1. イントロダクション：SeExprとは何か？
+**SeExpr（エスイーエックスパー）**は、Disney Animationによって開発された、オープンソースの...]]></summary>
+        <author>
+            <name>Shaderタグが付けられた新着記事 - Qiita</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rustでポリゴンの基礎を学ぶ その3]]></title>
+        <id>https://qiita.com/sumikawa@github/items/fc72f3b90fde8eeaef41</id>
+        <link href="https://qiita.com/sumikawa@github/items/fc72f3b90fde8eeaef41"/>
+        <updated>2026-02-08T05:28:51.000Z</updated>
+        <summary type="html"><![CDATA[フルコードはgithubにあります。
+
+グラデーション
+次の課題はポリゴンをグラデーションで塗ること。このため、三角形の各頂点に色を持つ構造体を作る。
+use crate::color::Color;
+
+#[derive(Copy, Clone)]
+pub struct V...]]></summary>
+        <author>
+            <name>CGタグが付けられた新着記事 - Qiita</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Sketchify | ワンクリックで手描き風アウトライン＆絵画風表現を追加できる無料のBlenderアドオンが登場！]]></title>
         <id>https://3dnchu.com/?p=1061865</id>

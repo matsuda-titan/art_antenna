@@ -261,6 +261,21 @@
       "siteUrl": "https://3dnchu.com",
       "articles": [
         {
+          "id": "https://3dnchu.com/?p=1061874",
+          "author": "Ymt3D -3dnchu-",
+          "description": "毎年恒例となった「256フェス（256fes）」が引き続き開催中！zen氏が立ち上げたこの「256フェス」は、256三角ポリゴンの制限で制作した作品を公開し共有するモデリングお祭りイベントです。",
+          "link": "https://3dnchu.com/archives/256fes-2026/",
+          "publishedOn": "2026-02-08T07:31:02.000Z",
+          "wordCount": 8989,
+          "title": "256フェス 2026 | 2026年2月8日！△256ポリゴンの3Dモデルを制作し各種SNSにハッシュタグ付きで投稿するお祭りイベントが引き続き開催！ #256fes",
+          "enclosure": {
+            "url": "https://3dnchu.com/wp-content/uploads/256fes-2026.png",
+            "length": "257411",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://3dnchu.com/wp-content/uploads/256fes-2026.png"
+        },
+        {
           "id": "https://3dnchu.com/?p=1061865",
           "author": "Ymt3D -3dnchu-",
           "description": "crzyzhaa 氏が、Blender上で手描き風アニメーション表現を簡単に追加できる無料アドオン「Sketchify」を公開しました。\nアウトラインの揺らぎやフレーム単位の変化を自動生成し、2Dアニメ調・スケッチ風表現を3Dシーンに取り入れることができます。",
@@ -2426,6 +2441,16 @@
       "siteUrl": "https://qiita.com",
       "articles": [
         {
+          "id": "https://qiita.com/yokamak/items/755b141050e77578e034",
+          "author": null,
+          "description": "以下、notebookLMで生成(22分)したレポートです。検証追記編集しました。ありがとうございます。\n\n1. イントロダクション：SeExprとは何か？\n**SeExpr（エスイーエックスパー）**は、Disney Animationによって開発された、オープンソースの...",
+          "link": "https://qiita.com/yokamak/items/755b141050e77578e034",
+          "publishedOn": "2026-02-08T06:38:29.000Z",
+          "wordCount": 1418,
+          "title": "SeExpr 構文実践チュートリアル：コードで描く魔法のパターン",
+          "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkY0MjQzODEyJTJGODk0YTE5NzBlNjgwY2JlNmJkMGY2MWFiODUxOWY3OWRkZDVkMTM4ZSUyRmxhcmdlLnBuZyUzRjE3NjE5NTQ4ODU_aXhsaWI9cmItNC4wLjAmYXI9MSUzQTEmZml0PWNyb3AmbWFzaz1lbGxpcHNlJmJnPUZGRkZGRiZmbT1wbmczMiZzPWE2MjRjMmJmZmJlNDg3OWVhZTg2YzJhNTZjNjRkZmZj%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3Da1de8355a8ee3b10abc18d1ad0cf92f6?ixlib=rb-4.0.0&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9U2VFeHByJTIwJUU2JUE3JThCJUU2JTk2JTg3JUU1JUFFJTlGJUU4JUI3JUI1JUUzJTgzJTgxJUUzJTgzJUE1JUUzJTgzJUJDJUUzJTgzJTg4JUUzJTgzJUFBJUUzJTgyJUEyJUUzJTgzJUFCJUVGJUJDJTlBJUUzJTgyJUIzJUUzJTgzJUJDJUUzJTgzJTg5JUUzJTgxJUE3JUU2JThGJThGJUUzJTgxJThGJUU5JUFEJTk0JUU2JUIzJTk1JUUzJTgxJUFFJUUzJTgzJTkxJUUzJTgyJUJGJUUzJTgzJUJDJUUzJTgzJUIzJnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9ZDNmZWQ4OTdjMDJkMjRiOTM1NTBlNzBkOWRkZDY3Y2E&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDB5b2thbWFrJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9OTljMmQyZGNjYTIzYzQwYjEwMWViYWM4ODlhZjNiNzc&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=3c843d171bcb32ffda5a07b624bdc0df"
+        },
+        {
           "id": "https://qiita.com/yokamak/items/40b880f5838c350128b2",
           "author": null,
           "description": "以下、NotebookLMでレポート作成したものを基にまとめました。\n\n1. イントロダクション：SeExprが変えるデジタル表現の地平\n現代のVFX制作において、アセットの複雑性は幾何級数的に増大しています。ウォルト・ディズニー・アニメーション・スタジオ（WDAS）が開発...",
@@ -2568,6 +2593,16 @@
       "feedUrl": "https://qiita.com/tags/cg/feed",
       "siteUrl": "https://qiita.com",
       "articles": [
+        {
+          "id": "https://qiita.com/sumikawa@github/items/fc72f3b90fde8eeaef41",
+          "author": null,
+          "description": "フルコードはgithubにあります。\n\nグラデーション\n次の課題はポリゴンをグラデーションで塗ること。このため、三角形の各頂点に色を持つ構造体を作る。\nuse crate::color::Color;\n\n#[derive(Copy, Clone)]\npub struct V...",
+          "link": "https://qiita.com/sumikawa@github/items/fc72f3b90fde8eeaef41",
+          "publishedOn": "2026-02-08T05:28:51.000Z",
+          "wordCount": 3317,
+          "title": "Rustでポリゴンの基礎を学ぶ その3",
+          "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnFpaXRhLWltYWdlLXN0b3JlLnMzLmFtYXpvbmF3cy5jb20lMkYwJTJGMTM0MDAlMkZwcm9maWxlLWltYWdlcyUyRjE0NzM2ODI3ODY_aXhsaWI9cmItNC4wLjAmYXI9MSUzQTEmZml0PWNyb3AmbWFzaz1lbGxpcHNlJmJnPUZGRkZGRiZmbT1wbmczMiZzPTY1YjNkZGZlM2ZmMTNmNGQ3YzkxMjc1ODQ0NzRmM2U2%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D1af31c82a32a237c1f86f670c42e154f?ixlib=rb-4.0.0&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9UnVzdCVFMyU4MSVBNyVFMyU4MyU5RCVFMyU4MyVBQSVFMyU4MiVCNCVFMyU4MyVCMyVFMyU4MSVBRSVFNSU5RiVCQSVFNyVBNCU4RSVFMyU4MiU5MiVFNSVBRCVBNiVFMyU4MSVCNiUyMCVFMyU4MSU5RCVFMyU4MSVBRTMmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz1kM2RkMmU0YmQ0M2JmNTQzYTZjYmE0MGFhYjZmMmNmYQ&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBzdW1pa2F3YSU0MGdpdGh1YiZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPWU0ZWQ2ZmQyYWVjZDBjZGM4MmE2OTUzNGY2ZDJhYzA4&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=f99e39cf4fffae7f4c28711843c04424"
+        },
         {
           "id": "https://qiita.com/sumikawa@github/items/7b7bd9b0e4a27c6a4122",
           "author": null,

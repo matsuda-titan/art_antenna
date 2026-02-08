@@ -2,10 +2,59 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-02-08T08:21:06.983Z</updated>
+    <updated>2026-02-08T12:26:39.241Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[CELSTOMP｜誰でも直感的にアニメーションが作れるシンプルなWEBブラウザ用無料ツールが公開]]></title>
+        <id>https://modelinghappy.com/?p=67024</id>
+        <link href="https://modelinghappy.com/archives/67024"/>
+        <updated>2026-02-08T12:03:42.000Z</updated>
+        <summary type="html"><![CDATA[CELSTOMP アーティストでアニメーターのginyoagoldieさんが、誰でも自由にアニメーションを作成出来るツールCELSTOMPを公開しました。 CELSTOMP は「アニメーションをもっと直感的で、誰でも触り
+The post CELSTOMP｜誰でも直感的にアニメーションが作れるシンプルなWEBブラウザ用無料ツールが公開 first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
+        <author>
+            <name>modelinghappy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ディズニーのSeExprによるプロシージャル表現]]></title>
+        <id>https://zenn.dev/yokamak/articles/67ce98e40ebb0c</id>
+        <link href="https://zenn.dev/yokamak/articles/67ce98e40ebb0c"/>
+        <updated>2026-02-08T11:39:57.000Z</updated>
+        <summary type="html"><![CDATA[はじめに
+ディズニーのSeExprは、数式で画を制御するオープンソースのスクリプト言語です。プロシージャルな質感やアニメーション生成に優れ、『アナと雪の女王2』の目に見えない風の精霊ゲイルの表現にも貢献しました。KritaやRenderMan等の主要ツールに統合され、表現の幅を広げています。
+以下、kseexprのQT6版をビルドして検証しました。
+https://github.com/yokamak/kseexpr/tree/qt6-imageeditor2-portable-paths
+
+ 1. 対角線で2色に分けるスクリプト
+ディズニー・アニメーション・スタジオが開発した式言語...]]></summary>
+        <author>
+            <name>yokamak</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chili3D｜CADモデルを作成・編集・レンダリングできるWebベースの3D CADアプリ]]></title>
+        <id>https://modelinghappy.com/?p=67019</id>
+        <link href="https://modelinghappy.com/archives/67019"/>
+        <updated>2026-02-08T10:04:12.000Z</updated>
+        <summary type="html"><![CDATA[Chili3D Chili3Dは、Webブラウザ上でCADモデルを作成・編集・レンダリングできる、オープンソースで開発されている、無料の3D CADアプリケーションです。 ボックスや円柱等の基本図形から、2Dスケッチ、ブ
+The post Chili3D｜CADモデルを作成・編集・レンダリングできるWebベースの3D CADアプリ first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
+        <author>
+            <name>modelinghappy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BlenderとSubstance Painterをリアルタイム反映してくれるアドオン-Blender To Substance Painter Live Link Plugin]]></title>
+        <id>https://modelinghappy.com/?p=67012</id>
+        <link href="https://modelinghappy.com/archives/67012"/>
+        <updated>2026-02-08T09:33:43.000Z</updated>
+        <summary type="html"><![CDATA[Blender To Substance Painter Live Link Plugin Blender To Substance Painter Live Link Pluginは、BlenderとAdobe Sub
+The post BlenderとSubstance Painterをリアルタイム反映してくれるアドオン-Blender To Substance Painter Live Link Plugin first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
+        <author>
+            <name>modelinghappy</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[256フェス 2026 | 2026年2月8日！△256ポリゴンの3Dモデルを制作し各種SNSにハッシュタグ付きで投稿するお祭りイベントが引き続き開催！ #256fes]]></title>
         <id>https://3dnchu.com/?p=1061874</id>
@@ -3818,27 +3867,6 @@ SketchUp 2026 新機能を紹介！フィードバック機能の追加、Sketch
         <updated>2026-01-10T00:42:42.000Z</updated>
         <summary type="html"><![CDATA[Mesh Analysis Overlay Mesh Analysis Overlayは、Blenderでモデルの特手の面・エッジ・頂点をカラー表示してメッシュの問題部分を発見できるアドオンです。 一見モデルが繋がってい
 The post Mesh Analysis Overlay｜面・エッジ・頂点の問題を色分け表示＆パネル確認できる無料Blenderアドオン first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
-        <author>
-            <name>modelinghappy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【アドオン紹介】Smart Auto Focus – カメラのようなオートフォーカス!]]></title>
-        <id>https://cgbox.jp/?p=64953</id>
-        <link href="https://cgbox.jp/2026/01/10/news-addon-smart-auto-focus/"/>
-        <updated>2026-01-09T23:39:13.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは！ 今回はアドオンの「Smart Auto Focus」を紹介します。 こちらのリンクがアドオンの商品ページになります。 Smart Auto Focus 「Smart Auto Focus」は、Blender […]]]></summary>
-        <author>
-            <name>kasahara</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Wingfoxで3DCGチュートリアル動画が25%オフで購入できる新年のお得なクーポンコード発行中]]></title>
-        <id>https://modelinghappy.com/?p=66548</id>
-        <link href="https://modelinghappy.com/archives/66548"/>
-        <updated>2026-01-09T23:05:08.000Z</updated>
-        <summary type="html"><![CDATA[Afresh start begins Dec 31.invest inyourfuture with 25%OFF. Code: AP25 世界中のチュートリアル動画を販売しているWingfoxのサイトで2025年12
-The post Wingfoxで3DCGチュートリアル動画が25%オフで購入できる新年のお得なクーポンコード発行中 first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
         <author>
             <name>modelinghappy</name>
         </author>

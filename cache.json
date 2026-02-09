@@ -688,6 +688,16 @@
       "siteUrl": "https://cgworld.jp/",
       "articles": [
         {
+          "id": "https://cgworld.jp/article/202602-mellow-1.html",
+          "author": null,
+          "description": "※本記事は月刊 『CGWORLD + digital video』vol.33...",
+          "link": "https://cgworld.jp/article/202602-mellow-1.html",
+          "publishedOn": "2026-02-09T01:30:00.000Z",
+          "wordCount": 831,
+          "title": "『あんスタ！！』 マスターピースMV／MELLOW DEAR US「Dear World」／No.1：監督が3Dプリビズで可視化した、「最強」アイドルを魅せる演出 - 特集",
+          "imageUrl": "https://cgworld.jp/article/assets_c/2026/01/202602-mellow_a1-thumb-1000x563-79133.jpg"
+        },
+        {
           "id": "https://cgworld.jp/flashnews/01-202602-CLIPSTUDIO5.html",
           "author": null,
           "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
@@ -1967,6 +1977,16 @@
       "siteUrl": "https://3dtotal.jp",
       "articles": [
         {
+          "id": "https://3dtotal.jp/?p=54169",
+          "author": "3dtotal管理人T",
+          "description": "★Project Hail Mary | Final Traile（2分43秒） ★映画『プロジェクト・ヘイル・メアリー』（2分49秒） 未知の原因によって太陽エネルギーが奪われる異常事態が発生。このままでは地球の気温は […]\nThe post 地球滅亡、解決策はたった一人の教師。映画『プロジェクト・ヘイル・メアリー』のトレーラー（英語／日本語） first appeared on 3dtotal 日本語オフィシャルサイト.",
+          "link": "https://3dtotal.jp/news/54169/",
+          "publishedOn": "2026-02-09T04:08:34.000Z",
+          "wordCount": 517,
+          "title": "地球滅亡、解決策はたった一人の教師。映画『プロジェクト・ヘイル・メアリー』のトレーラー（英語／日本語）",
+          "imageUrl": "https://3dtotal.jp/wp-content/uploads/2026/02/phailmary_ftrailer.jpg"
+        },
+        {
           "id": "https://3dtotal.jp/?p=54611",
           "author": "3dtotal管理人T",
           "description": "★DIGIC Demo Reel 2024-2025（2分28秒） ハンガリーの3Dアニメーションスタジオ DIGIC PICTURES のデモリール 2024-2025 　 編集部のおすすめ：ゲームにおけるキャラクター […]\nThe post ハンガリーの 3Dアニメーションスタジオ DIGIC Pictures のデモリール 2024-2025 first appeared on 3dtotal 日本語オフィシャルサイト.",
@@ -2496,23 +2516,7 @@
       "title": "Zennの「Ray Tracing」のフィード",
       "feedUrl": "https://zenn.dev/topics/raytracing/feed",
       "siteUrl": "https://zenn.dev/topics/raytracing",
-      "articles": [
-        {
-          "id": "https://zenn.dev/kokutoupan/articles/eefc517ac4210d",
-          "author": "黒糖ぱん",
-          "description": "Rust + wgpu v28 でハードウェアレイトレーシングに入門する\nRustのWebGPU実装である wgpu は日々進化していますが、v28時点でも ハードウェアアクセラレーションを利用したレイトレーシング（Ray Query / Inline Ray Tracing） に関する日本語情報はほぼ皆無です。\n「wgpu レイトレ」で検索しても出てくるのはCompute Shaderで交差判定を自作する「ソフトウェアレイトレ」ばかり……。\nしかし、私たちは RTコア を使いたいのです。\nこの記事では、wgpu v28 の experimental 機能を使い、TLAS/BLAS ...",
-          "link": "https://zenn.dev/kokutoupan/articles/eefc517ac4210d",
-          "publishedOn": "2026-01-10T14:12:23.000Z",
-          "wordCount": null,
-          "title": "Rust + wgpu v28 でハードウェアレイトレーシングに入門する",
-          "enclosure": {
-            "url": "https://res.cloudinary.com/zenn/image/upload/s--CWa9uswg--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Rust%2520%252B%2520wgpu%2520v28%2520%25E3%2581%25A7%25E3%2583%258F%25E3%2583%25BC%25E3%2583%2589%25E3%2582%25A6%25E3%2582%25A7%25E3%2582%25A2%25E3%2583%25AC%25E3%2582%25A4%25E3%2583%2588%25E3%2583%25AC%25E3%2583%25BC%25E3%2582%25B7%25E3%2583%25B3%25E3%2582%25B0%25E3%2581%25AB%25E5%2585%25A5%25E9%2596%2580%25E3%2581%2599%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E9%25BB%2592%25E7%25B3%2596%25E3%2581%25B1%25E3%2582%2593%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2YyYmYwYzE5YjQuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
-            "length": "0",
-            "type": "false"
-          },
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "3DGraphicsタグが付けられた新着記事 - Qiita",
@@ -2654,16 +2658,6 @@
           "wordCount": 1305,
           "title": "UnityのカスタムシェーダーでUVスクロールを実装する",
           "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYzNjg4NTAlMkY1ZTYwMjUxYTMxZWYyZWUxMTNjZTUwOWNlNmZjMTYxNGJhZWM3MDg4JTJGeF9sYXJnZS5wbmclM0YxNjM0MzYyNTc2P2l4bGliPXJiLTQuMC4wJmFyPTElM0ExJmZpdD1jcm9wJm1hc2s9ZWxsaXBzZSZiZz1GRkZGRkYmZm09cG5nMzImcz04NjI0OGJlMmExMTNlYzk2NTdlMjNkOWZmNGI5NTI3Yw%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D96b1c6e3620e44587fb04583994a1bc2?ixlib=rb-4.0.0&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9VW5pdHklRTMlODElQUUlRTMlODIlQUIlRTMlODIlQjklRTMlODIlQkYlRTMlODMlQTAlRTMlODIlQjclRTMlODIlQTclRTMlODMlQkMlRTMlODMlODAlRTMlODMlQkMlRTMlODElQTdVViVFMyU4MiVCOSVFMyU4MiVBRiVFMyU4MyVBRCVFMyU4MyVCQyVFMyU4MyVBQiVFMyU4MiU5MiVFNSVBRSU5RiVFOCVBMyU4NSVFMyU4MSU5OSVFMyU4MiU4QiZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnR4dC1wYWQ9MCZzPWU5Yzc4NWRhNjBiNjMyNTg1Mjg2OGQwODVhYmIwMTRl&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBha3Vyb2JpdCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPTUzMTE2NzhlNTJkNDg3NGEwODc0NGYzZGE4NmUyM2Mx&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=3c73129fb0c2563af6bff7b63c237c06"
-        },
-        {
-          "id": "https://qiita.com/tori_momo/items/949eb49747f425a33f57",
-          "author": null,
-          "description": "はじめに\n皆さんは「SDF Face Shadowマッピング」のSDFテクスチャを自作したことはあるでしょうか？\nキャラモデラーの方で、特にセルルック表現に関心の高い方は経験があるかもしれません。\n\n私も一度、テクスチャ出力ツールまで含めて、イチから作ってみたことが...",
-          "link": "https://qiita.com/tori_momo/items/949eb49747f425a33f57",
-          "publishedOn": "2026-01-10T16:22:37.000Z",
-          "wordCount": 1432,
-          "title": "SDF Face Shadowマッピング を SDF無しでお手軽に再現する",
-          "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnFpaXRhLWltYWdlLXN0b3JlLnMzLmFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkYwJTJGMjcxMDc2JTJGcHJvZmlsZS1pbWFnZXMlMkYxNzM1Mjk0MzM5P2l4bGliPXJiLTQuMC4wJmFyPTElM0ExJmZpdD1jcm9wJm1hc2s9ZWxsaXBzZSZiZz1GRkZGRkYmZm09cG5nMzImcz04M2RlY2MzNTYzOTc1NTI0YjBjYzk3YzIxMWQ0NDExZQ%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3Da9a7e98a90f01f88d02900b45a3b8203?ixlib=rb-4.0.0&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9U0RGJTIwRmFjZSUyMFNoYWRvdyVFMyU4MyU5RSVFMyU4MyU4MyVFMyU4MyU5NCVFMyU4MyVCMyVFMyU4MiVCMCUyMCVFMyU4MiU5MiUyMFNERiVFNyU4NCVBMSVFMyU4MSU5NyVFMyU4MSVBNyVFMyU4MSU4QSVFNiU4OSU4QiVFOCVCQiVCRCVFMyU4MSVBQiVFNSU4NiU4RCVFNyU4RiVCRSVFMyU4MSU5OSVFMyU4MiU4QiZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnR4dC1wYWQ9MCZzPWI3ODgzZDM1MjQzYWQzNDU0MzFmYTA3OGFiZmMzN2Yy&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDB0b3JpX21vbW8mdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz1lODE4ZGU2YjE0NjNjZDkzMjY2NjIyMGFjMjZlZTIzOA&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=253327be9fdfa34eea03f99f28957c39"
         }
       ]
     },
@@ -4090,21 +4084,6 @@
           "wordCount": 30251,
           "title": "アニメ調の画像生成に特化した Niji journey 最新モデル「Niji V7」が公開！アニメ特有の線画表現や構成力が向上",
           "imageUrl": "https://cginterest.com/wp-content/uploads/2026/01/nijijourneyv7.webp"
-        },
-        {
-          "id": "https://cginterest.com/?p=53588",
-          "author": ".me",
-          "description": "3Dモデリングツール SketchUp 2026 の新機能情報です。2025年10月7日に2026.0、2025年12月9日に2026.1がリリースされています。 ここではこの2つのリリースの新機能をまとめて紹介したいと […]\nSketchUp 2026 新機能を紹介！フィードバック機能の追加、SketchUp AIの搭載などなど first appeared on CGinterest.",
-          "link": "https://cginterest.com/2026/01/10/sketchup-2026-%e6%96%b0%e6%a9%9f%e8%83%bd%e3%82%92%e7%b4%b9%e4%bb%8b%ef%bc%81%e3%83%95%e3%82%a3%e3%83%bc%e3%83%89%e3%83%90%e3%83%83%e3%82%af%e6%a9%9f%e8%83%bd%e3%81%ae%e8%bf%bd%e5%8a%a0%e3%80%81sketch/",
-          "publishedOn": "2026-01-10T10:58:43.000Z",
-          "wordCount": 30741,
-          "title": "SketchUp 2026 新機能を紹介！フィードバック機能の追加、SketchUp AIの搭載などなど",
-          "enclosure": {
-            "url": "https://cginterest.com/wp-content/uploads/2026/01/20260110-Sketchup2026-Newtool1-1.mp4",
-            "length": "70723",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://cginterest.com/wp-content/uploads/2026/01/sketchup2026.webp"
         }
       ]
     }

@@ -2,10 +2,133 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-02-08T12:26:39.241Z</updated>
+    <updated>2026-02-09T01:13:55.810Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[UnsafePassでうまくシャドウが扱えない問題]]></title>
+        <id>https://zenn.dev/minaduki/articles/202df983444eb0</id>
+        <link href="https://zenn.dev/minaduki/articles/202df983444eb0"/>
+        <updated>2026-02-09T00:00:01.000Z</updated>
+        <summary type="html"><![CDATA[はじめに
+前に書いたVolumetricFogがうまく機能しない問題が起きました。
+FrameDebuggerを見るとShadowMapは送られているのにFogのライティングが反映されていませんでした。
+なぜだろうと思ったらUnsafePassが問題でした。
+
+ UnsafePassだと_MainLightShadowParamsを設定してくれない
+色々調べた結果UnsafePassだと_MainLightShadowParamsを設定してくれないようです。
+なのでRenderPass側で設定する必要があります。
+
+ _MainLightShadowParamsとは
+_MainLig...]]></summary>
+        <author>
+            <name>Minaduki</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[UnsafePassでうまくシャドウが扱えない問題]]></title>
+        <id>https://zenn.dev/minaduki/articles/202df983444eb0</id>
+        <link href="https://zenn.dev/minaduki/articles/202df983444eb0"/>
+        <updated>2026-02-09T00:00:01.000Z</updated>
+        <summary type="html"><![CDATA[はじめに
+前に書いたVolumetricFogがうまく機能しない問題が起きました。
+FrameDebuggerを見るとShadowMapは送られているのにFogのライティングが反映されていませんでした。
+なぜだろうと思ったらUnsafePassが問題でした。
+
+ UnsafePassだと_MainLightShadowParamsを設定してくれない
+色々調べた結果UnsafePassだと_MainLightShadowParamsを設定してくれないようです。
+なのでRenderPass側で設定する必要があります。
+
+ _MainLightShadowParamsとは
+_MainLig...]]></summary>
+        <author>
+            <name>Minaduki</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ガウシアン・スプラッティングを “ちゃんと理解する” ための入門編]]></title>
+        <id>https://note.com/onemorevision/n/nf73fe74fb41e</id>
+        <link href="https://note.com/onemorevision/n/nf73fe74fb41e"/>
+        <updated>2026-02-09T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは、STUDIO55技術統括の入江です。
+続きをみる]]></summary>
+        <author>
+            <name>#Houdiniタグ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[実践ノート｜UE5 ウォークスルー＋MP4書き出し]]></title>
+        <id>https://note.com/juntominaga/n/n35a9267b5f3a</id>
+        <link href="https://note.com/juntominaga/n/n35a9267b5f3a"/>
+        <updated>2026-02-08T23:24:04.000Z</updated>
+        <summary type="html"><![CDATA[実践の目的
+
+
+Unreal Engine 5 で制作した室内シーンに ウォークスルー（内覧）動線を付ける
+
+
+そのまま再生できる動画（MP4想定）を最短で書き出す
+
+
+Movie Render Queue（MRQ）は使わず、確認・SNS用途に特化する
+
+
+続きをみる]]></summary>
+        <author>
+            <name>#substancepainterタグ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「CLIP STUDIO PAINT バージョン5.0」2026年3月リリース！ 3Dハンドモデル、スマートシェイプ、描画性能の向上、作業効率化のためのUI更新など - ニュース]]></title>
+        <id>https://cgworld.jp/flashnews/01-202602-CLIPSTUDIO5.html</id>
+        <link href="https://cgworld.jp/flashnews/01-202602-CLIPSTUDIO5.html"/>
+        <updated>2026-02-08T22:13:50.000Z</updated>
+        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Blender To Substance Painter Live Link Plugin | Substance 3D PainterとBlenderを手軽に同期出来るアドオンが登場！]]></title>
+        <id>https://3dnchu.com/?p=1061961</id>
+        <link href="https://3dnchu.com/archives/blender-to-substance-painter-live-link/"/>
+        <updated>2026-02-08T18:26:47.000Z</updated>
+        <summary type="html"><![CDATA[Milad Kambari氏によるBlenderとSubstance 3D Painterとのブリッジ＆ライブリンクアドオン「Blender To Substance Painter Live Link Plugin」がリリースされています！]]></summary>
+        <author>
+            <name>Ymt3D -3dnchu-</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[魔灯Modeng Student Artwork | 中国のベテランアーティストが教えるUnreal Engine 5を使用したコースの生徒作品最新動画が一挙公開！]]></title>
+        <id>https://3dnchu.com/?p=1061839</id>
+        <link href="https://3dnchu.com/archives/modeng-student-artwork-202602/"/>
+        <updated>2026-02-08T16:08:18.000Z</updated>
+        <summary type="html"><![CDATA[ゲーム業界で20年のキャリアがある、中国の「魔灯Modeng」の展開する学習コースの生徒作品が一挙公開されています。]]></summary>
+        <author>
+            <name>Ymt3D -3dnchu-</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Complete Blender Beginner Workflow For Cinematic Art 2025 + Smart Trees Free | Blenderを使用したシネマティックアート制作解説！20ドル相当のアセット付き！CG＆デジタルアート関連チュートリアルサービスWingfoxにて取り扱い開始！]]></title>
+        <id>https://3dnchu.com/?p=1061930</id>
+        <link href="https://3dnchu.com/archives/complete-blender-cine-art-25-sime-bugarija-wingfox/"/>
+        <updated>2026-02-08T15:28:37.000Z</updated>
+        <summary type="html"><![CDATA[フリーランスアーティスト Šime Bugarija 氏による、Blenderを使用したシネマティックアート制作解説コース「Complete Blender Beginner Workflow For Cinematic Art 2025 + Smart Trees Free」がCG＆デジタルアート関連チュートリアルサービスWingfoxにて取り扱い開始！]]></summary>
+        <author>
+            <name>Ymt3D -3dnchu-</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Modeler 26 for Houdini | 手動モデリングを便利にするHoudini向けツールセットアドオンの最新アップデート！]]></title>
+        <id>https://3dnchu.com/?p=1061916</id>
+        <link href="https://3dnchu.com/archives/modeler-26-for-houdini/"/>
+        <updated>2026-02-08T15:07:38.000Z</updated>
+        <summary type="html"><![CDATA[Alexey Vanzhula氏によるHoudini向けの手動モデリング支援アドオン最新アップデート「Modeler 26 for Houdini」がリリースされています！]]></summary>
+        <author>
+            <name>Ymt3D -3dnchu-</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CELSTOMP｜誰でも直感的にアニメーションが作れるシンプルなWEBブラウザ用無料ツールが公開]]></title>
         <id>https://modelinghappy.com/?p=67024</id>
@@ -3848,27 +3971,6 @@ RustのWebGPU実装である wgpu は日々進化していますが、v28時点�
 SketchUp 2026 新機能を紹介！フィードバック機能の追加、SketchUp AIの搭載などなど first appeared on CGinterest.]]></summary>
         <author>
             <name>.me</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3Dメッシュ生成AI技術「MeshRipple」発表！ 水面の波紋のようにメッシュを拡張することで整合性を保ちつつ高品質な3Dモデルを生成 - ニュース]]></title>
-        <id>https://cgworld.jp/flashnews/01-202601-MeshRipple.html</id>
-        <link href="https://cgworld.jp/flashnews/01-202601-MeshRipple.html"/>
-        <updated>2026-01-10T02:46:45.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mesh Analysis Overlay｜面・エッジ・頂点の問題を色分け表示＆パネル確認できる無料Blenderアドオン]]></title>
-        <id>https://modelinghappy.com/?p=66561</id>
-        <link href="https://modelinghappy.com/archives/66561"/>
-        <updated>2026-01-10T00:42:42.000Z</updated>
-        <summary type="html"><![CDATA[Mesh Analysis Overlay Mesh Analysis Overlayは、Blenderでモデルの特手の面・エッジ・頂点をカラー表示してメッシュの問題部分を発見できるアドオンです。 一見モデルが繋がってい
-The post Mesh Analysis Overlay｜面・エッジ・頂点の問題を色分け表示＆パネル確認できる無料Blenderアドオン first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
-        <author>
-            <name>modelinghappy</name>
         </author>
     </entry>
 </feed>

@@ -2,10 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-02-10T12:48:48.240Z</updated>
+    <updated>2026-02-11T01:20:41.423Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[「VRoid Studio v2.10.0」リリース！ VRoid編集でアクセサリーがカスタムアイテムとして扱えるように - ニュース]]></title>
+        <id>https://cgworld.jp/flashnews/01-202602-VRoidStudio.html</id>
+        <link href="https://cgworld.jp/flashnews/01-202602-VRoidStudio.html"/>
+        <updated>2026-02-10T23:15:08.000Z</updated>
+        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Khronosグループ、glTF向けの「Gaussian Splatting」拡張機能のリリース候補を発表]]></title>
+        <id>https://cginterest.com/?p=55694</id>
+        <link href="https://cginterest.com/2026/02/11/khronos%e3%82%b0%e3%83%ab%e3%83%bc%e3%83%97%e3%80%81gltf%e5%90%91%e3%81%91%e3%81%ae%e3%80%8cgaussian-splatting%e3%80%8d%e6%8b%a1%e5%bc%b5%e6%a9%9f%e8%83%bd%e3%81%ae%e3%83%aa%e3%83%aa%e3%83%bc%e3%82%b9/"/>
+        <updated>2026-02-10T22:41:00.000Z</updated>
+        <summary type="html"><![CDATA[2026年2月3日（現地時間） – グラフィックスおよび空間コンピューティングの標準化団体である The Khronos® Group は、glTF® 2.0向けの新しい拡張機能「KHR_gaussian_s […]
+Khronosグループ、glTF向けの「Gaussian Splatting」拡張機能のリリース候補を発表 first appeared on CGinterest.]]></summary>
+        <author>
+            <name>.me</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Duplicate Finder｜Mayaのシーン全体で重複ノードを自動検出＆一括リネームできる無料プラグイン]]></title>
+        <id>https://modelinghappy.com/?p=67054</id>
+        <link href="https://modelinghappy.com/archives/67054"/>
+        <updated>2026-02-10T13:54:16.000Z</updated>
+        <summary type="html"><![CDATA[Duplicate Finder Duplicate Finderは、Julenさんが作成した、Mayaでシーン全体を対象に名前が重複しているノードを一括で検出できるツールです。作業中にOutliner上の名前を一括で検
+The post Duplicate Finder｜Mayaのシーン全体で重複ノードを自動検出＆一括リネームできる無料プラグイン first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
+        <author>
+            <name>modelinghappy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Retarget｜Mixamo・Unreal・VRoidのモーションを自分のキャラに転送できる無料Blenderアドオン]]></title>
+        <id>https://modelinghappy.com/?p=67049</id>
+        <link href="https://modelinghappy.com/archives/67049"/>
+        <updated>2026-02-10T13:24:44.000Z</updated>
+        <summary type="html"><![CDATA[Retarget RetargetはBlenderで、リグの付いたアニメーションを別のリグに転送できるアドオンです。例えばMixamoや他のアニメーションデータの動きを自分のキャラクターのリグに適用することが可能で、リグ
+The post Retarget｜Mixamo・Unreal・VRoidのモーションを自分のキャラに転送できる無料Blenderアドオン first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
+        <author>
+            <name>modelinghappy</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【新チュートリアル】CLOの基礎から応用まで体系的に学べる「CLOではじめるバーチャル衣装制作」が販売開始！ - ニュース]]></title>
         <id>https://cgworld.jp/flashnews/cloclo.html</id>
@@ -3954,102 +3997,6 @@ The post CardCutter – 画像1枚から葉っぱなど均一な三角形のメ�
         <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
         <author>
             <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[カラーアトリビュートを割り当てたい【Houdini】]]></title>
-        <id>https://note.com/tou_artist/n/n571971566e0b</id>
-        <link href="https://note.com/tou_artist/n/n571971566e0b"/>
-        <updated>2026-01-12T12:12:28.000Z</updated>
-        <summary type="html"><![CDATA[今回はカラーアトリビュートをジオメトリエレメントに割り当てる、４つのノードとその使い分けを紹介します。
-この4つはできることが似ているけれど、目的・操作感・柔軟性が違います。
-続きをみる]]></summary>
-        <author>
-            <name>#Houdiniタグ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ポケポケのホログラム表現に挑戦③]]></title>
-        <id>https://qiita.com/tsuchinokoman/items/a9cb369f77dc0914af18</id>
-        <link href="https://qiita.com/tsuchinokoman/items/a9cb369f77dc0914af18"/>
-        <updated>2026-01-12T11:29:07.000Z</updated>
-        <summary type="html"><![CDATA[ポケポケのホログラム表現に挑戦③
-この記事は前回の記事
-「ポケポケのホログラム表現に挑戦②」の続編です
-初めての方は①～②を読んでからこの記事を読んでください
-
-前回はセルラーノイズを応用し、マーブル模様を表示するところまでやっていました。
-今回は以下映像のような表現...]]></summary>
-        <author>
-            <name>HLSLタグが付けられた新着記事 - Qiita</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[触りたくなる3D表示：Unityで作るCADライク強調輪郭]]></title>
-        <id>https://zenn.dev/wogo_techblog/articles/c7f20164e5266f</id>
-        <link href="https://zenn.dev/wogo_techblog/articles/c7f20164e5266f"/>
-        <updated>2026-01-12T10:23:05.000Z</updated>
-        <summary type="html"><![CDATA[自己紹介
-初めまして、WOGO でソフトウェアエンジニアのインターンをやっている坪井星汰です。普段は東京大学の大学院で量子計算機やコンピュータアーキテクチャなどの研究を行っています。インターンでは Web 開発や Unity を使ったソフトウェアの開発などに取り組んでいます。WOGO はとてもアットホームな雰囲気ですが、技術的には手加減をせず本当に高度なことに取りくむことができる環境で、エンジニアとして大きく成長していると感じています。
-
- 本題
-上でも述べましたが、最近はUnityを使ったソフトウェアを作っています。そんな中でこのような要件が生まれました。
-
-「Unityで3D C...]]></summary>
-        <author>
-            <name>seitsubo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TECHNIQUE GUIDEUE（Lumen）で斑点が出ない日本向けオーク床マテリアルの作り方（考え方編）]]></title>
-        <id>https://note.com/juntominaga/n/ndf1b8e7654b2</id>
-        <link href="https://note.com/juntominaga/n/ndf1b8e7654b2"/>
-        <updated>2026-01-12T08:28:45.000Z</updated>
-        <summary type="html"><![CDATA[はじめに
-Unreal Engine（Lumen）で床マテリアルを使うと、丸い斑点・反射ムラ・ギラつきが出てしまうことがあります。
-続きをみる]]></summary>
-        <author>
-            <name>#substancepainterタグ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3DCG制作への熱い想いと始めるきっかけ]]></title>
-        <id>https://note.com/creatorsaki_vlog/n/n446759f888d9</id>
-        <link href="https://note.com/creatorsaki_vlog/n/n446759f888d9"/>
-        <updated>2026-01-12T06:55:00.000Z</updated>
-        <summary type="html"><![CDATA[今日は3DCGに対する熱い思いと、なぜ3DCGを勉強することになったかを全て話したいと思います。
-3DCGをやる直前、イギリスの会社でPMやマーケティング関連の仕事をしていて職場環境もすごくよかったものの、クリエイティブな仕事やスキルが世界で通用するような仕事に興味があったのでマーケティングは転職ではないなと薄々と感じており、ずっと何年もキャリアに悩んでいました。
-そこで、現在のパートナーである彼の友人にソニーアニメーションスタジオで働くカップルがおり、たまたまblenderで3DCGをやってみることを勧められました。芸大に出ていたわけでもない、絵を描くことが好きなわけでもない私にとって、まさに未知の世界でした。エンターテイメント業界や音楽業界などに興味はかなりあったものの、できっこない世界だと勝手に思っていました。しかしここが人生の大きな分岐点になりました。やり始めると楽しくて楽しくて・・気がつくと、学校を申し込んでました。
-小さい頃からアイデアが頭に浮かぶことがよくあったのですが、頭の中に作りたいものが溢れ出てきたことを今でも思い出します。
-続きをみる]]></summary>
-        <author>
-            <name>#SubstanceDesignerタグ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3DCG制作への熱い想いと始めるきっかけ]]></title>
-        <id>https://note.com/creatorsaki_vlog/n/n446759f888d9</id>
-        <link href="https://note.com/creatorsaki_vlog/n/n446759f888d9"/>
-        <updated>2026-01-12T06:55:00.000Z</updated>
-        <summary type="html"><![CDATA[今日は3DCGに対する熱い思いと、なぜ3DCGを勉強することになったかを全て話したいと思います。
-3DCGをやる直前、イギリスの会社でPMやマーケティング関連の仕事をしていて職場環境もすごくよかったものの、クリエイティブな仕事やスキルが世界で通用するような仕事に興味があったのでマーケティングは転職ではないなと薄々と感じており、ずっと何年もキャリアに悩んでいました。
-そこで、現在のパートナーである彼の友人にソニーアニメーションスタジオで働くカップルがおり、たまたまblenderで3DCGをやってみることを勧められました。芸大に出ていたわけでもない、絵を描くことが好きなわけでもない私にとって、まさに未知の世界でした。エンターテイメント業界や音楽業界などに興味はかなりあったものの、できっこない世界だと勝手に思っていました。しかしここが人生の大きな分岐点になりました。やり始めると楽しくて楽しくて・・気がつくと、学校を申し込んでました。
-小さい頃からアイデアが頭に浮かぶことがよくあったのですが、頭の中に作りたいものが溢れ出てきたことを今でも思い出します。
-続きをみる]]></summary>
-        <author>
-            <name>#substancepainterタグ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kristof Dedeneさんによるblender漫画風ハッチングシェーダーのまとめ]]></title>
-        <id>https://zenn.dev/1610/articles/a2f8b1add7be64</id>
-        <link href="https://zenn.dev/1610/articles/a2f8b1add7be64"/>
-        <updated>2026-01-12T01:18:41.000Z</updated>
-        <summary type="html"><![CDATA[Blenderで使える漫画用のシェーダー。
-これが全部ってわけでなく、もちろんカスタムできる。
-ここからダウンロードできます。]]></summary>
-        <author>
-            <name>Red Lantern</name>
         </author>
     </entry>
 </feed>

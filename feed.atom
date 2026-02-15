@@ -2,10 +2,45 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-02-14T12:25:06.494Z</updated>
+    <updated>2026-02-15T01:16:24.419Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[CPUによる描画ができるようにフレームワークを作った。]]></title>
+        <id>https://qiita.com/MachiaWorx/items/a5ae269e03ee5898e53d</id>
+        <link href="https://qiita.com/MachiaWorx/items/a5ae269e03ee5898e53d"/>
+        <updated>2026-02-15T00:21:04.000Z</updated>
+        <summary type="html"><![CDATA[経緯
+
+現状のゲームプログラムにおいて描画対象をGPUに投げるのがメインで、自前でレンダリング命令を構築するとかは行うことは少ない（＝CPU側で描画を制御することは少なくなる）
+ただ基礎知識は必要
+応用しやすい。例えば内部でテクスチャに描画だけを行って表示する等が可能。ま...]]></summary>
+        <author>
+            <name>グラフィックスタグが付けられた新着記事 - Qiita</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[キャドセンター、UE5.6で実装の「Water Advanced」プラグインの検証記事を公開！　道頓堀に水をながすシミュレーションのノウハウ - ニュース]]></title>
+        <id>https://cgworld.jp/flashnews/01-202602-UE-Water.html</id>
+        <link href="https://cgworld.jp/flashnews/01-202602-UE-Water.html"/>
+        <updated>2026-02-14T23:54:29.000Z</updated>
+        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Simply Cloth Studio 2｜型紙から服を作れるBlender布生成アドオンがBlender5.0対応で大幅アップデート]]></title>
+        <id>https://modelinghappy.com/?p=67133</id>
+        <link href="https://modelinghappy.com/archives/67133"/>
+        <updated>2026-02-14T14:45:13.000Z</updated>
+        <summary type="html"><![CDATA[Simply Cloth Studio 2 Blenderで型紙からモデルの洋服や、布モデルを作成しやすくなるアドオンSimply Cloth Studio 2がアップデートされました。 バージョン２では、Blender
+The post Simply Cloth Studio 2｜型紙から服を作れるBlender布生成アドオンがBlender5.0対応で大幅アップデート first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
+        <author>
+            <name>modelinghappy</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Live 2D クリエイターカンファレンス「alive 2025」のアーカイブ動画が公開！]]></title>
         <id>https://cginterest.com/?p=55822</id>
@@ -3997,120 +4032,6 @@ ImageのWrap ModeをRepeatに
 Ima...]]></summary>
         <author>
             <name>Shaderタグが付けられた新着記事 - Qiita</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[アマゾンでAdobe CCが激安50,900円のセール中！新規も更新も対象！実際に延長できた手順まとめ]]></title>
-        <id>https://modelinghappy.com/?p=66649</id>
-        <link href="https://modelinghappy.com/archives/66649"/>
-        <updated>2026-01-16T12:47:28.000Z</updated>
-        <summary type="html"><![CDATA[「新規対象キャンペーン」Adobe Creative Cloud AmazonでAdobe Creative Cloud１年分が、定価102,960円が50,900円の51%オフになるお得なセールが開催しています。 過去
-The post アマゾンでAdobe CCが激安50,900円のセール中！新規も更新も対象！実際に延長できた手順まとめ first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
-        <author>
-            <name>modelinghappy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[UVPackmaster 4 for Blender - UVパッキングBlenderアドオン！3年ぶりのメジャーアップデート！高度なタイルオプション！アーキテクチャの再構築！最新Blenderにも対応！]]></title>
-        <id>https://3dnchu.com/?p=1061317</id>
-        <link href="https://3dnchu.com/archives/uvpackmaster-4-for-blender/"/>
-        <updated>2026-01-16T07:11:15.000Z</updated>
-        <summary type="html"><![CDATA[glukoz氏による、人気UVパッキングアドオンの新バージョン「UVPackmaster 4」がリリースされました！]]></summary>
-        <author>
-            <name>Ymt3D -3dnchu-</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[D5 Render 3.0 がリリース！リアルな海や雲の作成機能、AIエージェント、画像からの3D生成などなど]]></title>
-        <id>https://cginterest.com/?p=54961</id>
-        <link href="https://cginterest.com/2026/01/16/d5-render-3-0/"/>
-        <updated>2026-01-16T06:42:00.000Z</updated>
-        <summary type="html"><![CDATA[2026年1月13日(現地時間) – DIMENSION 5 は、建築ビジュアライゼーション向けリアルタイムレンダリングツールの最新アップデート D5 Render 3.0のリリースを発表しました。 新機能ハ […]
-D5 Render 3.0 がリリース！リアルな海や雲の作成機能、AIエージェント、画像からの3D生成などなど first appeared on CGinterest.]]></summary>
-        <author>
-            <name>.me</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[世界観を織り成す糸。Weta Workshop による 映画『アバター：ファイヤー・アンド・アッシュ』のコスチューム メイキング]]></title>
-        <id>https://3dtotal.jp/?p=54373</id>
-        <link href="https://3dtotal.jp/news/54373/"/>
-        <updated>2026-01-16T04:41:19.000Z</updated>
-        <summary type="html"><![CDATA[★Creating Avatar: Fire and Ash’s Extraordinary Costumes（4分53秒） ジェームズ・キャメロン 監督作、映画『アバター：ファイヤー・アンド・アッシュ』で、パンドラの豊 […]
-The post 世界観を織り成す糸。Weta Workshop による 映画『アバター：ファイヤー・アンド・アッシュ』のコスチューム メイキング first appeared on 3dtotal 日本語オフィシャルサイト.]]></summary>
-        <author>
-            <name>3dtotal管理人T</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[1/27（火）開催！ゲーム・映像・アニメ 業界別 Flow PT 活用事例セミナー【制作進行、ディレクター、プロデューサーの方向け】 - ニュース]]></title>
-        <id>https://cgworld.jp/flashnews/02-2601-flow-pt.html</id>
-        <link href="https://cgworld.jp/flashnews/02-2601-flow-pt.html"/>
-        <updated>2026-01-16T04:15:00.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[27卒学生向け就活イベント「クリ博　ポートフォリオオンライン選考会 3月」開催決定！　2D / 3D / UI デザイナー志望者向け　※3/2（月）作品締切 - ニュース]]></title>
-        <id>https://cgworld.jp/flashnews/2601-pfo3.html</id>
-        <link href="https://cgworld.jp/flashnews/2601-pfo3.html"/>
-        <updated>2026-01-16T04:08:19.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Uvpackmaster 4がリリース！新機能&過去バージョン利用者は9ドルでアップグレード方法解説！]]></title>
-        <id>https://modelinghappy.com/?p=66638</id>
-        <link href="https://modelinghappy.com/archives/66638"/>
-        <updated>2026-01-16T04:08:05.000Z</updated>
-        <summary type="html"><![CDATA[Uvpackmaster 4 BlenderでUVを整理・高速パッキングするのに便利なアドオンUvpackmaster 4が4年の歳月を経てUVpackmaster4がリリースされました。 Uvpackmaster３は4
-The post Uvpackmaster 4がリリース！新機能&過去バージョン利用者は9ドルでアップグレード方法解説！ first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
-        <author>
-            <name>modelinghappy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CGWORLD vol.331（2026年3月号）「デジタルファッション制作ハンドブック2026」特集号を先行告知！ - ニュース]]></title>
-        <id>https://cgworld.jp/flashnews/cgw331-pr.html</id>
-        <link href="https://cgworld.jp/flashnews/cgw331-pr.html"/>
-        <updated>2026-01-16T03:30:00.000Z</updated>
-        <summary type="html"><![CDATA[【2/10発売】CGWORLD vol.331（2026年3月号）特集「デジタルファッション制作ハンドブック2026」。服づくりの基本知識から、Marvelous Designerユーザー必見のTIPS、VRChat・ゲーム・ライブなどの制作事例まで、リアリティある衣服表現のノウハウが詰まった大特集！]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Don't use height maps - ハイトマップ使用の際に縦方向だけではなく法線方向への変位を入れ込むことでリアルな表現になるよ！というGeometry Nodesテクニック動画が公開！]]></title>
-        <id>https://3dnchu.com/?p=1061305</id>
-        <link href="https://3dnchu.com/archives/dont-use-height-maps-default-cube/"/>
-        <updated>2026-01-16T01:22:55.000Z</updated>
-        <summary type="html"><![CDATA[CGMatterのセカンドチャンネルDefault Cubeにてハイトマップ＆GeometryNodesをつかった表現テクニックが紹介されております！]]></summary>
-        <author>
-            <name>Ymt3D -3dnchu-</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[第4回 StudioGOONEYS 前編：クライアントチェックで育てる提案力 - 連載]]></title>
-        <id>https://cgworld.jp/regular/202601-manabi4-1.html</id>
-        <link href="https://cgworld.jp/regular/202601-manabi4-1.html"/>
-        <updated>2026-01-16T01:00:00.000Z</updated>
-        <summary type="html"><![CDATA[技術革新が絶えないCG映像業界で、クリエイターはどのように学び、成長していくのか。各社の教育・研修の取り組みに迫る連載企画、第4回はStudioGOONEYSを紹介する。同社では入社直後から実案件に参加する“実践型OJT”を重視し、新人であってもクライアントチェックの場に同席させる。前編では、その現場参加型の育成方針と、提案力や判断力を育てる教育の考え方に迫る。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[人体構造を意識したキャラクターセットアップ方法 ～ゼロから始めるMayaリギングの基本～ 第8回：人体セットアップリアル編/下半身の解説]]></title>
-        <id>https://area.autodesk.jp/column/tutorial/maya-rigging-basic/08-setup-lower-body/</id>
-        <link href="https://area.autodesk.jp/column/tutorial/maya-rigging-basic/08-setup-lower-body/"/>
-        <updated>2026-01-16T01:00:00.000Z</updated>
-        <summary type="html"><![CDATA[皆様こんにちは。インテグラル・ヴィジョン・グラフィックスのリードリガーの古屋です。前回は、補助骨を使った上半身のセットアップについて解説しました。今回は、この連載の最終回として「下半身」のセットアップと、データの最終確認についてお送りいたします！・・・]]></summary>
-        <author>
-            <name>AREA JAPAN | Autodesk</name>
         </author>
     </entry>
 </feed>

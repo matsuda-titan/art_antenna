@@ -2,10 +2,38 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-02-15T08:20:55.140Z</updated>
+    <updated>2026-02-15T12:27:09.207Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Houdini: 公式サイトを高速に表示しよう]]></title>
+        <id>https://zenn.dev/kickbase/articles/58c8f5d52f1c30</id>
+        <link href="https://zenn.dev/kickbase/articles/58c8f5d52f1c30"/>
+        <updated>2026-02-15T10:00:02.000Z</updated>
+        <summary type="html"><![CDATA[アドベントカレンダーの記事にしようかなと思ってたんですけど、流石に気が長い話なので公開しちゃいます。
+今回はHoudiniそのもののお話ではなく、SideFX公式サイト（日本語ドキュメント）をストレスなく閲覧する方法についてのTipsです。
+
+ SideFX 公式サイトをフォント読み込みなしで高速表示する Chrome 拡張を作った話
+SideFX公式サイトは情報量が多く、フォントなどのリソース読み込みで表示が重く感じることがあります。  この記事では、日本語ドキュメントのフォント読み込みだけをブロックして表示を軽くする、最小構成の Chrome 拡張の作り方と、ブラウザへの読み込み方...]]></summary>
+        <author>
+            <name>めんたいこ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ゲーム用アセット製作-鳥居]]></title>
+        <id>https://note.com/limber_snipe4821/n/n395b251b49a7</id>
+        <link href="https://note.com/limber_snipe4821/n/n395b251b49a7"/>
+        <updated>2026-02-15T08:35:34.000Z</updated>
+        <summary type="html"><![CDATA[鳥居を作りましたよっと。
+無料のアセット使えばいいんだけどね。
+作るのが好きなんですよ。
+Substance 3D Painter
+続きをみる]]></summary>
+        <author>
+            <name>#substancepainterタグ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Blender初心者向け！アニメ調ファンタジー背景を作る講座がWingfoxで販売開始！]]></title>
         <id>https://modelinghappy.com/?p=67141</id>
@@ -3972,37 +4000,6 @@ Substance 3D Designer 15.1 アップデート！グラフ作成ウィンドウ�
 The post Blender初心者でも映画みたいな背景が作れる講座がWingfoxで販売開始！動画+樹木データ+フォトスキャン素材付き first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
         <author>
             <name>modelinghappy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【アドオン紹介】Dynamic Flow – リアルタイムのウォーターシミュレーション！]]></title>
-        <id>https://cgbox.jp/?p=64977</id>
-        <link href="https://cgbox.jp/2026/01/17/news-addon-dynamic-flow/"/>
-        <updated>2026-01-16T23:39:35.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは！ 今回はアドオンの「Dynamic Flow」を紹介します。 こちらのリンクがアドオンの商品ページになります。 Dynamic Flow 「Dynamic Flow」は、Geometry Nodesで構築され […]]]></summary>
-        <author>
-            <name>kasahara</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cinema4D内で複数の画像生成AIにアクセスして画像を生成できるプラグイン「Nano Pro」]]></title>
-        <id>https://cginterest.com/?p=54995</id>
-        <link href="https://cginterest.com/2026/01/17/cinema4d%e5%86%85%e3%81%a7%e8%a4%87%e6%95%b0%e3%81%ae%e7%94%bb%e5%83%8f%e7%94%9f%e6%88%90ai%e3%81%ab%e3%82%a2%e3%82%af%e3%82%bb%e3%82%b9%e3%81%97%e3%81%a6%e7%94%bb%e5%83%8f%e3%82%92%e7%94%9f%e6%88%90/"/>
-        <updated>2026-01-16T23:36:00.000Z</updated>
-        <summary type="html"><![CDATA[Dani Zaitcev氏による Cinema 4D プラグイン「Nano Pro」の紹介です。 Nano Proとは 「Nano Pro」は、Cinema 4D ビューポート上でレンダリングされた画像に対し、外部の生成 […]
-Cinema4D内で複数の画像生成AIにアクセスして画像を生成できるプラグイン「Nano Pro」 first appeared on CGinterest.]]></summary>
-        <author>
-            <name>.me</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[テンセント、オープンソースのモーション生成モデル「HY-Motion 1.0」リリース！  テキストプロンプトから3Dキャラクターのモーションを生成 - ニュース]]></title>
-        <id>https://cgworld.jp/flashnews/01-202601-HY-Motion.html</id>
-        <link href="https://cgworld.jp/flashnews/01-202601-HY-Motion.html"/>
-        <updated>2026-01-16T22:42:19.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
         </author>
     </entry>
 </feed>

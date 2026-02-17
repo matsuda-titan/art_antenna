@@ -244,12 +244,6 @@
       ]
     },
     {
-      "title": "CGトラッキング",
-      "feedUrl": "https://cgtracking.net/feed/",
-      "siteUrl": "https://cgtracking.net",
-      "articles": []
-    },
-    {
       "title": "TECH ART ONLINE",
       "feedUrl": "https://tech-art.online/feed/",
       "siteUrl": "https://tech-art.online",
@@ -260,6 +254,21 @@
       "feedUrl": "https://3dnchu.com/feed/",
       "siteUrl": "https://3dnchu.com",
       "articles": [
+        {
+          "id": "https://3dnchu.com/?p=1062082",
+          "author": "Ymt3D -3dnchu-",
+          "description": "2026年3月7日（土）＆8日（日）に、CGWORLDによる、世界の一流スタジオで活躍するアーティストを迎え講演いただくスキルアップイベント『Premier Insights Vol.3』が開催！\n第３回となる今回は「アニメーション」をテーマに合計8セッションがオンライン配信されます！",
+          "link": "https://3dnchu.com/archives/premier-insights-vol-3/",
+          "publishedOn": "2026-02-17T03:59:11.000Z",
+          "wordCount": 9135,
+          "title": "Premier Insights Vol.3 | テーマは『アニメーション』！世界の一流スタジオで活躍するアーティストによるオンラインスキルアップイベント！2026年3月7・8日に開催！！早期割引は3月6日まで！",
+          "enclosure": {
+            "url": "https://3dnchu.com/wp-content/uploads/premier-insights-vol-3.webp",
+            "length": "469862",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://3dnchu.com/wp-content/uploads/premier-insights-vol-3.webp"
+        },
         {
           "id": "https://3dnchu.com/?p=1062053",
           "author": "Ymt3D -3dnchu-",
@@ -724,21 +733,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "https://3dnchu.com/wp-content/uploads/landscape-b3d-tutor-sime-bugarija-wingfox.jpg"
-        },
-        {
-          "id": "https://3dnchu.com/?p=1061336",
-          "author": "Ymt3D -3dnchu-",
-          "description": "Yuri Sizov氏が開発した効果音のライブラリー管理や簡易編集が可能なツール「SLAMY v1.2」のご紹介！Godotで開発され無料＆オープンソースで公開されております！",
-          "link": "https://3dnchu.com/archives/slamy-v1-2/",
-          "publishedOn": "2026-01-18T02:37:10.000Z",
-          "wordCount": 8915,
-          "title": "SLAMY v1.2 - 膨大なサウンドファイルをライブラリ管理！トリミングやフェード・重ね合わせなどの簡易的な編集も可能な無料＆オープンソースツール！Win＆Mac＆Linux！",
-          "enclosure": {
-            "url": "https://3dnchu.com/wp-content/uploads/slamy-v1-2-small-1.gif",
-            "length": "210348",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://3dnchu.com/wp-content/uploads/slamy-v1-2-small-1.gif"
         }
       ]
     },
@@ -747,6 +741,46 @@
       "feedUrl": "https://cgworld.jp/atom.xml",
       "siteUrl": "https://cgworld.jp/",
       "articles": [
+        {
+          "id": "https://cgworld.jp/regular/202602-5cm-movie-jitto.html",
+          "author": null,
+          "description": "",
+          "link": "https://cgworld.jp/regular/202602-5cm-movie-jitto.html",
+          "publishedOn": "2026-02-17T01:18:00.000Z",
+          "wordCount": 900,
+          "title": "映画『秒速5センチメートル』｜奥山由之監督のシネマティックに寄り添ったVFXワーク【jitto】 - 連載",
+          "imageUrl": "https://cgworld.jp/regular/assets_c/2026/02/79640a07206d59191e87c6e86756106ab956f511-thumb-1920x1080-79560.jpg"
+        },
+        {
+          "id": "https://cgworld.jp/flashnews/02-2602-fukuoka-houdini.html",
+          "author": null,
+          "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
+          "link": "https://cgworld.jp/flashnews/02-2602-fukuoka-houdini.html",
+          "publishedOn": "2026-02-17T01:15:00.000Z",
+          "wordCount": 656,
+          "title": "3/19（木）福岡にて開催！　USD for Small Studios - Houdiniから始める「少人数・高効率」の制作ワークフロー - - ニュース",
+          "imageUrl": "https://cgworld.jp/flashnews/assets_c/2026/02/225_seminar_inbetween_full_web-thumb-1800x1013-80027.jpg"
+        },
+        {
+          "id": "https://cgworld.jp/flashnews/02-2602-shizuoka-0307.html",
+          "author": null,
+          "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
+          "link": "https://cgworld.jp/flashnews/02-2602-shizuoka-0307.html",
+          "publishedOn": "2026-02-17T00:33:52.000Z",
+          "wordCount": 622,
+          "title": "3/7（土）東京にてリアル開催！　静岡市クリエイター移住計画～クリエイターにちょうどいい、相当いい静岡市～ - ニュース",
+          "imageUrl": "https://cgworld.jp/flashnews/assets_c/2026/02/c7c515d3502be4368940b699c9dcbe10b0051278-thumb-1102x634-80028.jpg"
+        },
+        {
+          "id": "https://cgworld.jp/flashnews/01-202602-SuperSplat.html",
+          "author": null,
+          "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
+          "link": "https://cgworld.jp/flashnews/01-202602-SuperSplat.html",
+          "publishedOn": "2026-02-16T22:50:24.000Z",
+          "wordCount": 1063,
+          "title": "オープンソースの3DGSエディタ「SuperSplat」アップデート！　バーチャルツアーなど演出を適用できる新アプリ「SuperSplat Studio」も発表！ - ニュース",
+          "imageUrl": "https://cgworld.jp/flashnews/assets_c/2026/02/SuperSplat-01-thumb-1920x1080-80018.jpg"
+        },
         {
           "id": "https://cgworld.jp/flashnews/2603-gameeffects-masterclass.html",
           "author": null,
@@ -1641,6 +1675,26 @@
       "siteUrl": "https://modelinghappy.com",
       "articles": [
         {
+          "id": "https://modelinghappy.com/?p=67182",
+          "author": "modelinghappy",
+          "description": "Coretools #8211; Mkit Coretools #8211; Mkitは、Blender標準機能では時間が掛かったり、出来ない機能が複数入ったアドオンです。 位置合わせ・配置系では、2～3点指定による\nThe post Coretools – Mkit – Blender作業を高速化！標準機能では難しい配置・スナップ・モデリング補助が12種類以上入ったアドオン first appeared on 3DCG最新情報サイト MODELING HAPPY.",
+          "link": "https://modelinghappy.com/archives/67182",
+          "publishedOn": "2026-02-17T00:24:16.000Z",
+          "wordCount": 3753,
+          "title": "Coretools – Mkit – Blender作業を高速化！標準機能では難しい配置・スナップ・モデリング補助が12種類以上入ったアドオン",
+          "imageUrl": "https://modelinghappy.com/wp-content/uploads/2026/02/20260217_coretools_mkit_01.jpg"
+        },
+        {
+          "id": "https://modelinghappy.com/?p=67176",
+          "author": "modelinghappy",
+          "description": "DJV  DJVはメディアの再生とレビューのためのgithubから無料でダウンロードして使える無料ソフトです。 高解像度の画像シーケンスや動画を、オーディオ、A/B比較、カラーマネジメントなどを備えながらリアルタイムで\nThe post DJV｜OpenEXR対応！映像・画像シーケンスを高速再生できるCG/VFX制作向け無料ソフト first appeared on 3DCG最新情報サイト MODELING HAPPY.",
+          "link": "https://modelinghappy.com/archives/67176",
+          "publishedOn": "2026-02-16T23:33:36.000Z",
+          "wordCount": 3703,
+          "title": "DJV｜OpenEXR対応！映像・画像シーケンスを高速再生できるCG/VFX制作向け無料ソフト",
+          "imageUrl": "https://modelinghappy.com/wp-content/uploads/2026/02/20260217_DJV_00.jpg"
+        },
+        {
           "id": "https://modelinghappy.com/?p=67167",
           "author": "modelinghappy",
           "description": "Close Bone Picker 映像制作作家のぽぷりかさんが、Blenderでキャラクターアニメーション中のボーン選択を効率化するために設計されたアドオンClose Bone Pickerをリリースしました。 キーボ\nThe post Close Bone Picker｜ボーン選択をショートカットで簡単＆高速化するBlenderアドオン first appeared on 3DCG最新情報サイト MODELING HAPPY.",
@@ -2129,26 +2183,6 @@
           "wordCount": 3664,
           "title": "安岡篤志さん制作の沖縄発オリジナルCG短編映像『ウチナー★ヒーローズ』クラファン開始！",
           "imageUrl": "https://modelinghappy.com/wp-content/uploads/2026/01/20260119_uchina_01.jpg"
-        },
-        {
-          "id": "https://modelinghappy.com/?p=66688",
-          "author": "modelinghappy",
-          "description": "RefBoard RefBoardは、Riesz(りーす)さんが作成した、クリエイターのための、複数案件・制作ファイル・納期・請求書・資料用の複数画像を1クリック管理できる無料ソフトです。 現在進行している案件の名前、納\nThe post RefBoard – 複数案件・制作ファイル・納期・請求書・資料用の複数画像を1クリック管理できる無料ソフトがリリース first appeared on 3DCG最新情報サイト MODELING HAPPY.",
-          "link": "https://modelinghappy.com/archives/66688",
-          "publishedOn": "2026-01-18T02:57:00.000Z",
-          "wordCount": 3699,
-          "title": "RefBoard – 複数案件・制作ファイル・納期・請求書・資料用の複数画像を1クリック管理できる無料ソフトがリリース",
-          "imageUrl": "https://modelinghappy.com/wp-content/uploads/2026/01/20260118_refboard_01.jpg"
-        },
-        {
-          "id": "https://modelinghappy.com/?p=66683",
-          "author": "modelinghappy",
-          "description": "Majik Blender Edu Majik Blender EduはBlenderで講師が生徒の作品を検証する為に作られたアドオンで、メッシュの編集、モディファイアの追加、アセットのインポート、シーンの統計情報（頂点\nThe post Majik Blender Edu – Blenderの操作ログを記録して課題の改ざんをチェックできる講師と生徒用の無料アドオン first appeared on 3DCG最新情報サイト MODELING HAPPY.",
-          "link": "https://modelinghappy.com/archives/66683",
-          "publishedOn": "2026-01-18T02:22:41.000Z",
-          "wordCount": 3729,
-          "title": "Majik Blender Edu – Blenderの操作ログを記録して課題の改ざんをチェックできる講師と生徒用の無料アドオン",
-          "imageUrl": "https://modelinghappy.com/wp-content/uploads/2026/01/20260118_Majik_Blender_Edu.jpg"
         }
       ]
     },
@@ -2157,6 +2191,16 @@
       "feedUrl": "https://3dtotal.jp/feed/",
       "siteUrl": "https://3dtotal.jp",
       "articles": [
+        {
+          "id": "https://3dtotal.jp/?p=54683",
+          "author": "3dtotal管理人T",
+          "description": "★The Making of ParaNorman: The Thrifting（2分41秒） Thibault Leclercq 監督は、LAIKA のオリジナル 短編映画『ParaNorman: The Thrift […]\nThe post LAIKA より、「パラノーマン」の 短編映画『ParaNorman: The Thrifting』のメイキング映像 first appeared on 3dtotal 日本語オフィシャルサイト.",
+          "link": "https://3dtotal.jp/news/54683/",
+          "publishedOn": "2026-02-17T02:04:23.000Z",
+          "wordCount": 572,
+          "title": "LAIKA より、「パラノーマン」の 短編映画『ParaNorman: The Thrifting』のメイキング映像",
+          "imageUrl": "https://3dtotal.jp/wp-content/uploads/2026/02/paranorman_t_making.jpg"
+        },
         {
           "id": "https://3dtotal.jp/?p=54677",
           "author": "3dtotal管理人T",
@@ -3553,6 +3597,21 @@
       "feedUrl": "https://cginterest.com/feed/",
       "siteUrl": "https://cginterest.com",
       "articles": [
+        {
+          "id": "https://cginterest.com/?p=55787",
+          "author": ".me",
+          "description": "2026年1月25日（現地時間）- Godot Foundationと開発コミュニティは、無料オープンソースのゲームエンジンの最新アップデートGodot 4.6 をリリースしました。 ハイライトとより詳しい新機能情報に分 […]\nオープンソースゲームエンジン Godot 4.6 がリリース！UIの改善、デフォルトの物理エンジン「Jolt Physics」、IKの強化など first appeared on CGinterest.",
+          "link": "https://cginterest.com/2026/02/17/%e3%82%aa%e3%83%bc%e3%83%97%e3%83%b3%e3%82%bd%e3%83%bc%e3%82%b9%e3%82%b2%e3%83%bc%e3%83%a0%e3%82%a8%e3%83%b3%e3%82%b8%e3%83%b3-godot-4-6-%e3%81%8c%e3%83%aa%e3%83%aa%e3%83%bc%e3%82%b9%ef%bc%81ui/",
+          "publishedOn": "2026-02-16T22:51:00.000Z",
+          "wordCount": 29650,
+          "title": "オープンソースゲームエンジン Godot 4.6 がリリース！UIの改善、デフォルトの物理エンジン「Jolt Physics」、IKの強化など",
+          "enclosure": {
+            "url": "https://cginterest.com/wp-content/uploads/2026/02/godot46_highlight_Jolt-Preview.mp4",
+            "length": "303273",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://cginterest.com/wp-content/uploads/2026/02/godot46.webp"
+        },
         {
           "id": "https://cginterest.com/?p=55822",
           "author": ".me",

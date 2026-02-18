@@ -2,10 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-02-18T04:46:52.086Z</updated>
+    <updated>2026-02-18T08:33:38.792Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[NukeのGUIを起動せず、レンダリングを実行してみよう]]></title>
+        <id>https://note.com/dftalk/n/nbd1a3d3b1f8c</id>
+        <link href="https://note.com/dftalk/n/nbd1a3d3b1f8c"/>
+        <updated>2026-02-18T05:57:04.000Z</updated>
+        <summary type="html"><![CDATA[お久しぶりです。TDの安田です。
+今回はNukeのシーンファイルの仕組みとバッチ実行について、簡単な例とともにご紹介します。
+仕様を理解して工夫できれば、自動化でちょっぴり楽できるかも…?
+動作環境
+続きをみる]]></summary>
+        <author>
+            <name>DF TALK</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[UEのマテリアルエディタに染まった人間がUnity Shader Graphに行ったら混乱したので対応表を作った]]></title>
+        <id>https://zenn.dev/tutupizizizi/articles/ue-unity-shortcut-guide-shadergraph</id>
+        <link href="https://zenn.dev/tutupizizizi/articles/ue-unity-shortcut-guide-shadergraph"/>
+        <updated>2026-02-18T02:51:39.000Z</updated>
+        <summary type="html"><![CDATA[UEに染まった手は、そう簡単にUnityに馴染まない
+UEのマテリアルエディタで何年もやってると、手が勝手に動くようになる。
+T押してTexture Sample。M押してMultiply。L押してLerp。
+ノード名もショートカットも全部身体に入ってる状態で、ある日Unityを開いた。
+Shader Graphを開いて、右クリック。
+「Sample Texture 2D……？ TextureSampleどこ？？」
+名前が違う。操作が違う。ノードの分類が違う。UEで「ComponentMask」って呼んでたやつが「Split」になってる。ンンンンなああああ！！！！！（発狂）
+これ、U...]]></summary>
+        <author>
+            <name>あの鳥</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[HoudiniのApprenticeライセンスでの起動方法について]]></title>
         <id>https://note.com/genial_ferret575/n/neb400ca73edd</id>

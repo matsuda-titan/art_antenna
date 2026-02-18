@@ -2621,7 +2621,23 @@
       "title": "Zennの「Shader Graph」のフィード",
       "feedUrl": "https://zenn.dev/topics/shadergraph/feed",
       "siteUrl": "https://zenn.dev/topics/shadergraph",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://zenn.dev/tutupizizizi/articles/ue-unity-shortcut-guide-shadergraph",
+          "author": "あの鳥",
+          "description": "UEに染まった手は、そう簡単にUnityに馴染まない\nUEのマテリアルエディタで何年もやってると、手が勝手に動くようになる。\nT押してTexture Sample。M押してMultiply。L押してLerp。\nノード名もショートカットも全部身体に入ってる状態で、ある日Unityを開いた。\nShader Graphを開いて、右クリック。\n「Sample Texture 2D……？ TextureSampleどこ？？」\n名前が違う。操作が違う。ノードの分類が違う。UEで「ComponentMask」って呼んでたやつが「Split」になってる。ンンンンなああああ！！！！！（発狂）\nこれ、U...",
+          "link": "https://zenn.dev/tutupizizizi/articles/ue-unity-shortcut-guide-shadergraph",
+          "publishedOn": "2026-02-18T02:51:39.000Z",
+          "wordCount": 1426,
+          "title": "UEのマテリアルエディタに染まった人間がUnity Shader Graphに行ったら混乱したので対応表を作った",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--0xAYmeSl--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:UE%25E3%2581%25AE%25E3%2583%259E%25E3%2583%2586%25E3%2583%25AA%25E3%2582%25A2%25E3%2583%25AB%25E3%2582%25A8%25E3%2583%2587%25E3%2582%25A3%25E3%2582%25BF%25E3%2581%25AB%25E6%259F%2593%25E3%2581%25BE%25E3%2581%25A3%25E3%2581%259F%25E4%25BA%25BA%25E9%2596%2593%25E3%2581%258CUnity%2520Shader%2520Graph%25E3%2581%25AB%25E8%25A1%258C%25E3%2581%25A3%25E3%2581%259F%25E3%2582%2589%25E6%25B7%25B7%25E4%25B9%25B1%25E3%2581%2597%25E3%2581%259F%25E3%2581%25AE%25E3%2581%25A7%25E5%25AF%25BE%25E5%25BF%259C%25E8%25A1%25A8%25E3%2582%2592%25E4%25BD%259C%25E3%2581%25A3%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%2582%25E3%2581%25AE%25E9%25B3%25A5%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2FiOWIwMDViNzcuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
+            "length": "0",
+            "type": "false"
+          },
+          "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--0xAYmeSl--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:UE%25E3%2581%25AE%25E3%2583%259E%25E3%2583%2586%25E3%2583%25AA%25E3%2582%25A2%25E3%2583%25AB%25E3%2582%25A8%25E3%2583%2587%25E3%2582%25A3%25E3%2582%25BF%25E3%2581%25AB%25E6%259F%2593%25E3%2581%25BE%25E3%2581%25A3%25E3%2581%259F%25E4%25BA%25BA%25E9%2596%2593%25E3%2581%258CUnity%2520Shader%2520Graph%25E3%2581%25AB%25E8%25A1%258C%25E3%2581%25A3%25E3%2581%259F%25E3%2582%2589%25E6%25B7%25B7%25E4%25B9%25B1%25E3%2581%2597%25E3%2581%259F%25E3%2581%25AE%25E3%2581%25A7%25E5%25AF%25BE%25E5%25BF%259C%25E8%25A1%25A8%25E3%2582%2592%25E4%25BD%259C%25E3%2581%25A3%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%2582%25E3%2581%25AE%25E9%25B3%25A5%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2FiOWIwMDViNzcuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"
+        }
+      ]
     },
     {
       "title": "Zennの「Houdini」のフィード",
@@ -3261,6 +3277,16 @@
       "feedUrl": "https://note.com/dftalk/rss",
       "siteUrl": "https://note.com/dftalk",
       "articles": [
+        {
+          "id": "https://note.com/dftalk/n/nbd1a3d3b1f8c",
+          "author": null,
+          "description": "お久しぶりです。TDの安田です。\n今回はNukeのシーンファイルの仕組みとバッチ実行について、簡単な例とともにご紹介します。\n仕様を理解して工夫できれば、自動化でちょっぴり楽できるかも…?\n動作環境\n続きをみる",
+          "link": "https://note.com/dftalk/n/nbd1a3d3b1f8c",
+          "publishedOn": "2026-02-18T05:57:04.000Z",
+          "wordCount": 2913,
+          "title": "NukeのGUIを起動せず、レンダリングを実行してみよう",
+          "imageUrl": "https://assets.st-note.com/production/uploads/images/251109515/rectangle_large_type_2_f5e70536623d2a6ada45fc9c5b451a49.png?width=800"
+        },
         {
           "id": "https://note.com/dftalk/n/n8bf0370749ad",
           "author": null,

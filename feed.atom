@@ -2,10 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-02-17T12:37:50.039Z</updated>
+    <updated>2026-02-18T01:14:29.050Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[MAPPAがBlenderを初導入、アニメ『LAZARUS ラザロ』の3DCG制作フローと画面設計を解説～あにつく2025（4） - 特集]]></title>
+        <id>https://cgworld.jp/article/2601-atsuc-mappa.html</id>
+        <link href="https://cgworld.jp/article/2601-atsuc-mappa.html"/>
+        <updated>2026-02-18T01:00:58.000Z</updated>
+        <summary type="html"><![CDATA[株式会社MAPPAのセッション「TVアニメ『LAZARUS ラザロ』制作事例：Blenderで挑んだCGワークと画面づくりの舞台裏」の模様をレポートする。]]></summary>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[読んで触ってよくわかる！Mayaを使いこなす為のAtoZ 第113回： 同じUIを別のウィンドウで使い回す標準的な方法]]></title>
+        <id>https://area.autodesk.jp/column/tutorial/maya_atoz/how-to-reuse-ui/</id>
+        <link href="https://area.autodesk.jp/column/tutorial/maya_atoz/how-to-reuse-ui/"/>
+        <updated>2026-02-18T01:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Mayaでは色々なツールで同じUIを再利用しています。詳しい方法についてはヘルプドキュメントのスクリプトのガイドにも載っていないので、今回取り上げてみます。例えばOrient Joint。選択したジョイントの軸を再設定するためのあのオプションを開いてみると、Primary Axisなど軸を指定するオプションが出てきます。でもこれ、他の場所でもなんとなく見かけたことがありませんか？・・・]]></summary>
+        <author>
+            <name>AREA JAPAN | Autodesk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「VRM SpringBoneをKawaiiPhysicsに変換するツール」無償公開！  VTuberクリエイター向けの揺れもの変換ツール - ニュース]]></title>
+        <id>https://cgworld.jp/flashnews/01-202602-VRM-to-Kawaii.html</id>
+        <link href="https://cgworld.jp/flashnews/01-202602-VRM-to-Kawaii.html"/>
+        <updated>2026-02-18T00:26:47.000Z</updated>
+        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MotionVFX、DaVinci Resolve 向けのプラグインが期間限定セール！人気パック8種が50% OFF！]]></title>
+        <id>https://cginterest.com/?p=55913</id>
+        <link href="https://cginterest.com/2026/02/18/motionvfx%e3%80%81davinci-resolve-%e5%90%91%e3%81%91%e3%81%ae%e3%83%97%e3%83%a9%e3%82%b0%e3%82%a4%e3%83%b3%e3%81%8c%e6%9c%9f%e9%96%93%e9%99%90%e5%ae%9a%e3%82%bb%e3%83%bc%e3%83%ab%ef%bc%81%e4%ba%ba-2/"/>
+        <updated>2026-02-17T23:10:00.000Z</updated>
+        <summary type="html"><![CDATA[MotionVFX で開催中の期間限定セールの紹介です。 セール概要 このセールでは8つDaVinci Resolve 向けのプラグインが期間限定で半額になります！買い切りの人気プラグインをお得に購入できるチャンス！ 映 […]
+MotionVFX、DaVinci Resolve 向けのプラグインが期間限定セール！人気パック8種が50% OFF！ first appeared on CGinterest.]]></summary>
+        <author>
+            <name>.me</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Mac用アプリでシェーダーを使った描画を少し試す（VS Code での Swift開発）]]></title>
         <id>https://qiita.com/youtoy/items/8fb6618f6404848c235c</id>
@@ -4048,84 +4089,6 @@ The post Dissolve 2-Edge Vertices – モデルの不要な頂点を１クリッ
 The post 安岡篤志さん制作の沖縄発オリジナルCG短編映像『ウチナー★ヒーローズ』クラファン開始！ first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
         <author>
             <name>modelinghappy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[1,300以上の無料アセットを含むLotPixelライブラリにアクセスできるBlender対応のデスクトップツール「LotPixel Hub」ベータ版が公開！]]></title>
-        <id>https://cginterest.com/?p=54996</id>
-        <link href="https://cginterest.com/2026/01/19/1300%e4%bb%a5%e4%b8%8a%e3%81%ae%e7%84%a1%e6%96%99%e3%82%a2%e3%82%bb%e3%83%83%e3%83%88%e3%82%92%e5%90%ab%e3%82%80lotpixel%e3%83%a9%e3%82%a4%e3%83%96%e3%83%a9%e3%83%aa%e3%81%ab%e3%82%a2%e3%82%af/"/>
-        <updated>2026-01-19T07:38:00.000Z</updated>
-        <summary type="html"><![CDATA[高品質な3Dアセットを提供するLotPixelが、制作フローを効率化するためのデスクトップアプリ「LotPixel Hub」をリリースしました。 LotPixel とは LotPixelは、世界中のトップ3Dアーティスト […]
-1,300以上の無料アセットを含むLotPixelライブラリにアクセスできるBlender対応のデスクトップツール「LotPixel Hub」ベータ版が公開！ first appeared on CGinterest.]]></summary>
-        <author>
-            <name>.me</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【Houdini】ProjectSkylarkのボトルを作る]]></title>
-        <id>https://note.com/konve/n/nf525f277f147</id>
-        <link href="https://note.com/konve/n/nf525f277f147"/>
-        <updated>2026-01-19T06:04:39.000Z</updated>
-        <summary type="html"><![CDATA[Houdiniも覚えたいなぁと思いつつ、全く触れてこなかったので
-ニートの今のうちに勉強しておこうと思う
-やりたいチュートリアルはこのProject Skylark↓
-チュートリアルとはいえ、せっかくならｶｯｺｲｲものが作りたい😌
- Project Skylark  | SideFXHoudini および Unreal Engine 5 によるツール作成の基礎を学びましょう。Project Skylarwww.sidefx.com 
-続きをみる]]></summary>
-        <author>
-            <name>#Houdiniタグ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ウチナー★ヒーローズ | 安岡 篤志氏が制作中の沖縄を舞台としたオリジナルCG短編映画！2026年内の完成を目指しCAMPFIREにてクラウドファンディング開始！]]></title>
-        <id>https://3dnchu.com/?p=1061361</id>
-        <link href="https://3dnchu.com/archives/uchina-heroes-campfire/"/>
-        <updated>2026-01-19T05:30:41.000Z</updated>
-        <summary type="html"><![CDATA[CG/VFXアーティストで監督の安岡 篤志氏（@noribros）が、個人で制作中の短編CG映画「ウチナー★ヒーローズ」のクラウドファンディングページをCAMPFIREにて最新の映像と共に公開されています！]]></summary>
-        <author>
-            <name>Ymt3D -3dnchu-</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【PR】Landscape In Blender Tutorial + Smart (And Low-Poly) Trees asset (or +Trees assets) | Blenderを使用した風景アート解説コース！30ドル相当のアセットも付属！CG＆デジタルアート関連チュートリアルサービスWingfoxにて取り扱い開始！]]></title>
-        <id>https://3dnchu.com/?p=1061354</id>
-        <link href="https://3dnchu.com/archives/landscape-b3d-tutor-sime-bugarija-wingfox/"/>
-        <updated>2026-01-19T05:11:56.000Z</updated>
-        <summary type="html"><![CDATA[クロアチアのフリーランスアーティスト Šime Bugarija氏によるBlenderを使用した風景制作解説コース「Landscape In Blender Tutorial + Smart (And Low-Poly) Trees asset (or +Trees assets)」がCG＆デジタルアート関連チュートリアルサービスWingfoxにて取り扱い開始！]]></summary>
-        <author>
-            <name>Ymt3D -3dnchu-</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[サバイバルホラー映画『罪人たち』の VFXブレイクダウン映像]]></title>
-        <id>https://3dtotal.jp/?p=54384</id>
-        <link href="https://3dtotal.jp/news/54384/"/>
-        <updated>2026-01-19T05:06:50.000Z</updated>
-        <summary type="html"><![CDATA[★Behind The Magic | The Visual Effects of Sinners（2分） 魔法の舞台裏へようこそ。ライアン・クーグラー監督作品『罪人たち』における ILM の技術を体感してください。本作 […]
-The post サバイバルホラー映画『罪人たち』の VFXブレイクダウン映像 first appeared on 3dtotal 日本語オフィシャルサイト.]]></summary>
-        <author>
-            <name>3dtotal管理人T</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[映画、ドラマ、ゲーム..。VFXスタジオ Rodeo FX の シズルリール 2026]]></title>
-        <id>https://3dtotal.jp/?p=54382</id>
-        <link href="https://3dtotal.jp/news/54382/"/>
-        <updated>2026-01-19T04:59:35.000Z</updated>
-        <summary type="html"><![CDATA[★2026 Sizzle Reel — Rodeo FX（1分27秒） Rodeo FX にとって、大胆な想像力、絶え間ない革新、圧倒的なビジュアル、そして創造の限界を押し広げる物語に彩られた1年が また過ぎ去りました。 […]
-The post 映画、ドラマ、ゲーム..。VFXスタジオ Rodeo FX の シズルリール 2026 first appeared on 3dtotal 日本語オフィシャルサイト.]]></summary>
-        <author>
-            <name>3dtotal管理人T</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[第4回 StudioGOONEYS 後編：ストーリー分析からオリジナル作品へ - 連載]]></title>
-        <id>https://cgworld.jp/regular/202601-manabi4-2.html</id>
-        <link href="https://cgworld.jp/regular/202601-manabi4-2.html"/>
-        <updated>2026-01-19T01:30:00.000Z</updated>
-        <summary type="html"><![CDATA[技術やツールだけでなく、「他者の視点で考える力」が問われる時代に、クリエイターはいかに成長していくのか。各社の教育・研修の取り組みに迫る連載企画、第4回はStudioGOONEYSを紹介する。後編では、社内で行われてきたストーリー分析会での学びと、その延長線上に生まれたオリジナル短編作品『BRIDGE -My Little Friends-』の制作を通じて培われた思考力と表現力に迫る。]]></summary>
-        <author>
-            <name>CGWORLD</name>
         </author>
     </entry>
 </feed>

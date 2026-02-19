@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-02-19T04:46:30.463Z</updated>
+    <updated>2026-02-19T08:31:47.762Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Autodesk Game Developer Series]]></title>
+        <id>https://area.autodesk.jp/event/game-developer-series/</id>
+        <link href="https://area.autodesk.jp/event/game-developer-series/"/>
+        <updated>2026-02-19T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[3月9日から13日までサンフランシスコで開催される GDC 2026。オートデスクはそれに先立ち、3月4日と5日にゲーム開発にフォーカスしたオンラインイベントを開催します。EA、SOKRISPYMEDIAなどの特別ゲストを迎えたAutodesk Game Developer Series は、Autodesk Flow Studioの AI を活用したワークフローやMaya の MotionMakerから、今年の大作ゲームの制作まで、ゲーム開発の未来を形作る最新の進歩について詳しく説明するライブのオンラインイベントです。・・・]]></summary>
+        <author>
+            <name>AREA JAPAN | Autodesk</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ゲームカットシーンデザイナーの仕事とは？『ゲーム開発におけるカットシーンの作り方』著者、昇 大祐氏による無料講座3月14日開催（デジタルスケープ） - ニュース]]></title>
         <id>https://cgworld.jp/flashnews/02-2602-cutseminar.html</id>
@@ -4022,23 +4032,6 @@ Ephere、スタンドアロンのヘア作成ツール「Ornatrix App」ベー�
         <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
         <author>
             <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rustでコンピューターグラフィックスの基礎を学ぶ その1]]></title>
-        <id>https://qiita.com/sumikawa@github/items/9093f26b1df1f747f544</id>
-        <link href="https://qiita.com/sumikawa@github/items/9093f26b1df1f747f544"/>
-        <updated>2026-01-20T17:29:29.000Z</updated>
-        <summary type="html"><![CDATA[はじめに
-学生時代から今まで、CGのアルゴリズムを学ぶ機会がなかったので、Rustの勉強がてらプログラムを書いてみる。
-まずはレイトレーシングを学ぶ。
-方針は下記
-
-週末レイトレーシングを順番にやっていく
-C++の代わりにRustで記述する
-書いてみるといいつつAIには...]]></summary>
-        <author>
-            <name>CGタグが付けられた新着記事 - Qiita</name>
         </author>
     </entry>
 </feed>

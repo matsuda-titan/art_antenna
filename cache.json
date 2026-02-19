@@ -2997,16 +2997,6 @@
           "wordCount": 2122,
           "title": "Rustでコンピューターグラフィックスの基礎を学ぶ その2",
           "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnFpaXRhLWltYWdlLXN0b3JlLnMzLmFtYXpvbmF3cy5jb20lMkYwJTJGMTM0MDAlMkZwcm9maWxlLWltYWdlcyUyRjE0NzM2ODI3ODY_aXhsaWI9cmItNC4wLjAmYXI9MSUzQTEmZml0PWNyb3AmbWFzaz1lbGxpcHNlJmJnPUZGRkZGRiZmbT1wbmczMiZzPTY1YjNkZGZlM2ZmMTNmNGQ3YzkxMjc1ODQ0NzRmM2U2%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D1af31c82a32a237c1f86f670c42e154f?ixlib=rb-4.0.0&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9UnVzdCVFMyU4MSVBNyVFMyU4MiVCMyVFMyU4MyVCMyVFMyU4MyU5NCVFMyU4MyVBNSVFMyU4MyVCQyVFMyU4MiVCRiVFMyU4MyVCQyVFMyU4MiVCMCVFMyU4MyVBOSVFMyU4MyU5NSVFMyU4MiVBMyVFMyU4MyU4MyVFMyU4MiVBRiVFMyU4MiVCOSVFMyU4MSVBRSVFNSU5RiVCQSVFNyVBNCU4RSVFMyU4MiU5MiVFNSVBRCVBNiVFMyU4MSVCNiUyMCVFMyU4MSU5RCVFMyU4MSVBRTImdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz1jOTc5OWUwNDg4ZWJmYWViYThkOTQ4Nzg5NmJhMGJkYQ&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBzdW1pa2F3YSU0MGdpdGh1YiZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPWU0ZWQ2ZmQyYWVjZDBjZGM4MmE2OTUzNGY2ZDJhYzA4&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=fbf681347a1ffb9a905cc658a76eaf19"
-        },
-        {
-          "id": "https://qiita.com/sumikawa@github/items/9093f26b1df1f747f544",
-          "author": null,
-          "description": "はじめに\n学生時代から今まで、CGのアルゴリズムを学ぶ機会がなかったので、Rustの勉強がてらプログラムを書いてみる。\nまずはレイトレーシングを学ぶ。\n方針は下記\n\n週末レイトレーシングを順番にやっていく\nC++の代わりにRustで記述する\n書いてみるといいつつAIには...",
-          "link": "https://qiita.com/sumikawa@github/items/9093f26b1df1f747f544",
-          "publishedOn": "2026-01-20T17:29:29.000Z",
-          "wordCount": 2273,
-          "title": "Rustでコンピューターグラフィックスの基礎を学ぶ その1",
-          "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnFpaXRhLWltYWdlLXN0b3JlLnMzLmFtYXpvbmF3cy5jb20lMkYwJTJGMTM0MDAlMkZwcm9maWxlLWltYWdlcyUyRjE0NzM2ODI3ODY_aXhsaWI9cmItNC4wLjAmYXI9MSUzQTEmZml0PWNyb3AmbWFzaz1lbGxpcHNlJmJnPUZGRkZGRiZmbT1wbmczMiZzPTY1YjNkZGZlM2ZmMTNmNGQ3YzkxMjc1ODQ0NzRmM2U2%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D1af31c82a32a237c1f86f670c42e154f?ixlib=rb-4.0.0&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9UnVzdCVFMyU4MSVBNyVFMyU4MiVCMyVFMyU4MyVCMyVFMyU4MyU5NCVFMyU4MyVBNSVFMyU4MyVCQyVFMyU4MiVCRiVFMyU4MyVCQyVFMyU4MiVCMCVFMyU4MyVBOSVFMyU4MyU5NSVFMyU4MiVBMyVFMyU4MyU4MyVFMyU4MiVBRiVFMyU4MiVCOSVFMyU4MSVBRSVFNSU5RiVCQSVFNyVBNCU4RSVFMyU4MiU5MiVFNSVBRCVBNiVFMyU4MSVCNiUyMCVFMyU4MSU5RCVFMyU4MSVBRTEmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz1mZTMwMTM1OTg2NWFmM2U5Y2ViNTgwYTcwNTM5YzI2NA&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBzdW1pa2F3YSU0MGdpdGh1YiZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPWU0ZWQ2ZmQyYWVjZDBjZGM4MmE2OTUzNGY2ZDJhYzA4&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=2d89cc809f88d76a3fdc24be68410fa3"
         }
       ]
     },
@@ -3152,6 +3142,16 @@
       "feedUrl": "https://area.autodesk.jp/rss.xml",
       "siteUrl": "https://area.autodesk.jp/",
       "articles": [
+        {
+          "id": "https://area.autodesk.jp/event/game-developer-series/",
+          "author": null,
+          "description": "3月9日から13日までサンフランシスコで開催される GDC 2026。オートデスクはそれに先立ち、3月4日と5日にゲーム開発にフォーカスしたオンラインイベントを開催します。EA、SOKRISPYMEDIAなどの特別ゲストを迎えたAutodesk Game Developer Series は、Autodesk Flow Studioの AI を活用したワークフローやMaya の MotionMakerから、今年の大作ゲームの制作まで、ゲーム開発の未来を形作る最新の進歩について詳しく説明するライブのオンラインイベントです。・・・",
+          "link": "https://area.autodesk.jp/event/game-developer-series/",
+          "publishedOn": "2026-02-19T07:00:00.000Z",
+          "wordCount": 218,
+          "title": "Autodesk Game Developer Series",
+          "imageUrl": "https://area.autodesk.jp/event/assets_c/2026/02/ic_game_dev_series_1400x782-thumb-1200xauto-5799.jpg"
+        },
         {
           "id": "https://area.autodesk.jp/column/tutorial/maya_atoz/how-to-reuse-ui/",
           "author": null,

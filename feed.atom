@@ -2,10 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-02-22T04:43:08.639Z</updated>
+    <updated>2026-02-23T08:57:24.193Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[オープンソースのVRアバター軽量化ユーティリティ「AAO: Avatar Optimizer v1.9.0」リリース！  Animator最適化の強化、PhysBoneの自動マージ、自動Freeze強化、Merge Materialなど - ニュース]]></title>
+        <id>https://cgworld.jp/flashnews/01-202602-AvatarOptimizer.html</id>
+        <link href="https://cgworld.jp/flashnews/01-202602-AvatarOptimizer.html"/>
+        <updated>2026-02-22T23:52:18.000Z</updated>
+        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Better Cutter｜平面・曲線・カーブで自由に等間隔・リアルタイムカット・ベベル調整できるBlender用アドオン]]></title>
+        <id>https://modelinghappy.com/?p=67258</id>
+        <link href="https://modelinghappy.com/archives/67258"/>
+        <updated>2026-02-22T12:31:24.000Z</updated>
+        <summary type="html"><![CDATA[Better Cutter Better Cutterは、Blenderでメッシュを平面・曲線・カーブを使って自由にリアルタイムカットできるアドオンです。 モデルを等間隔の複数平面でカット・分割したり、内側だけを残すカッ
+The post Better Cutter｜平面・曲線・カーブで自由に等間隔・リアルタイムカット・ベベル調整できるBlender用アドオン first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
+        <author>
+            <name>modelinghappy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Houdiniで爆発エフェクトの練習をした振り返り]]></title>
+        <id>https://note.com/oja_bitterlife/n/n966ffb46df54</id>
+        <link href="https://note.com/oja_bitterlife/n/n966ffb46df54"/>
+        <updated>2026-02-22T10:21:12.000Z</updated>
+        <summary type="html"><![CDATA[11月1日から2月19日の間で1日1～3時間くらい、全部で250時間くらいの学習の成果です。
+  
+続きをみる]]></summary>
+        <author>
+            <name>#Houdiniタグ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Foundryが「Katana 9.0」をリリース ーUSD編集の新機能と「Hydra 2.0」(アルファ版）を搭載 - ニュース]]></title>
+        <id>https://cgworld.jp/flashnews/2602-katana9.0.html</id>
+        <link href="https://cgworld.jp/flashnews/2602-katana9.0.html"/>
+        <updated>2026-02-22T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ゲーム用アセット製作-勾玉、机、石碑、本棚01]]></title>
         <id>https://note.com/limber_snipe4821/n/n87e1fdb0d10e</id>
@@ -750,6 +793,16 @@ The post Close Bone Picker｜ボーン選択をショートカットで簡単＆
         <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
         <author>
             <name>CGWORLD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unreal Engine の AI Assistantを使用しながらBlueprintを扱ってみる]]></title>
+        <id>hatenablog://entry/17179246901345713538</id>
+        <link href="https://tech.bros.studio/entry/2026/02/16/090000"/>
+        <updated>2026-02-16T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[みなさんこんにちは。スタジオブロスの嶋田です。 前回に引き続きAI Assistantを触っていきますが、今回は「AI AssistantでBlueprintを扱ったらどうなるか」という検証記事になります。 2026年1月19日の段階ではAI Assistantは仕様上、レベル内のアクターの数を調べたり、レベルの中のオブジェクトを参照することができず、あくまで「OOをしたい」「OOをしてください」というアシスタントがメインとなっている機能です。そのため、今回は既にあるBlueprintの解説をAI Assistantにお願いしつつ、そのBlueprintに対して追加機能を実装してもらえないか、…]]></summary>
+        <author>
+            <name>スタジオブロス TECH BLOG</name>
         </author>
     </entry>
     <entry>
@@ -3792,144 +3845,6 @@ Gemsはなかなか良い具合で機能しています。
 The post Universal Animation Library 2登場！130種のモーション追加＆個人・商用利用OKの無料版もあり first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
         <author>
             <name>modelinghappy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[軽量のグラフィックスライブラリ micro{gl} を試す]]></title>
-        <id>https://zenn.dev/slowhand/articles/1f048e5291a14b</id>
-        <link href="https://zenn.dev/slowhand/articles/1f048e5291a14b"/>
-        <updated>2026-01-24T13:53:35.000Z</updated>
-        <summary type="html"><![CDATA[概要
-今回は軽量のグラフィックスライブラリの micro{gl} を試してみようと思います。
-
- micro{gl}とは?
-https://micro-gl.github.io/docs/microgl
-
-高速、超スリム、組み込み可能、ヘッダのみの C++11 ベクターグラフィックスライブラリ。標準ライブラリは必要ありません。
-
-GPU・FPU（浮動小数点演算器）不要、標準ライブラリ（STL）不要を掲げており、32/64bit環境で動かせる、軽量のCPUでレンダリングする“ベクターグラフィックス寄り”のライブラリという位置付けになっています。ウェアラブルデバイスやIoTデバイスなどの...]]></summary>
-        <author>
-            <name>slowhand</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rustでコンピューターグラフィックスの基礎を学ぶ その5]]></title>
-        <id>https://qiita.com/sumikawa@github/items/04488cc9109217dcef0a</id>
-        <link href="https://qiita.com/sumikawa@github/items/04488cc9109217dcef0a"/>
-        <updated>2026-01-24T12:23:36.000Z</updated>
-        <summary type="html"><![CDATA[フルコードはgithubにあります。
-週末レイトレーシングのここをやります。
-
-ランダムな vec3 を計算するユーティリティ関数
-Vec3モジュールに下記を追加。
-pub fn random() -> Self {
-    Self {
-        x: random...]]></summary>
-        <author>
-            <name>CGタグが付けられた新着記事 - Qiita</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[UE5.7のSubstrateが従来形式のGBufferを扱う様子をHLSLで確認]]></title>
-        <id>https://qiita.com/yorung/items/5b6e916fc058bd1b4c38</id>
-        <link href="https://qiita.com/yorung/items/5b6e916fc058bd1b4c38"/>
-        <updated>2026-01-24T10:16:22.000Z</updated>
-        <summary type="html"><![CDATA[調査目的
-UE5.7でBlendable GBufferが追加されました。一方でレガシーマテリアルも使い続けられます。これは、Substrateという新システムがレガシーを捨てるのではなく機能の一部として取り込んだように見えます。
-しかし、新旧GBufferと新旧マテリア...]]></summary>
-        <author>
-            <name>HLSLタグが付けられた新着記事 - Qiita</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Niantic 行弘進氏によるWHO'S NEXT? 作品レビュー＆ブラッシュアップ　ストーリーを伝える画づくりを学べ！！ - 特集]]></title>
-        <id>https://cgworld.jp/article/whosnext-review-2601.html</id>
-        <link href="https://cgworld.jp/article/whosnext-review-2601.html"/>
-        <updated>2026-01-24T06:25:29.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[plunkerでp5.js その2]]></title>
-        <id>https://qiita.com/ohisama@github/items/abe70ada35b5a9326e76</id>
-        <link href="https://qiita.com/ohisama@github/items/abe70ada35b5a9326e76"/>
-        <updated>2026-01-24T01:56:19.000Z</updated>
-        <summary type="html"><![CDATA[概要
-plunkerでp5.jsやってみた。
-webgl、見つけたのでやってみた。
-
-参考にしたページ
-
-写真
-
-成果物
-
-以上。]]></summary>
-        <author>
-            <name>Shaderタグが付けられた新着記事 - Qiita</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2026/01/24 今日のQiitaトレンド記事をポッドキャストで聴こう！]]></title>
-        <id>https://qiita.com/ennagara128/items/8bf6e3c0b4bbe3e84fe7</id>
-        <link href="https://qiita.com/ennagara128/items/8bf6e3c0b4bbe3e84fe7"/>
-        <updated>2026-01-24T00:52:31.000Z</updated>
-        <summary type="html"><![CDATA[前日夜の最新トレンド記事のAIポッドキャストを毎日朝7時に更新しています。
-通勤中などにながら聴きしよう！
-（Qiita投稿は通勤には間に合わないと思われますが）
-フィードバックとか助かりますのでください
-↓こちらから
-
-出典
-本当に使える！海外Tech動画爆速キャッチアッ...]]></summary>
-        <author>
-            <name>CGタグが付けられた新着記事 - Qiita</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fusion 360でハードサーフェス3Dキャラ制作を学ぶ！Marvelous・Marmoset対応のWingfox講座が販売開始]]></title>
-        <id>https://modelinghappy.com/?p=66765</id>
-        <link href="https://modelinghappy.com/archives/66765"/>
-        <updated>2026-01-24T00:44:54.000Z</updated>
-        <summary type="html"><![CDATA[3D Character Modeling Pipeline with Fusion 360 世界中のチュートリアル動画を販売しているWingfoxのサイトで、Fusion360の基礎からプロの制作フローまで学べる講座が
-The post Fusion 360でハードサーフェス3Dキャラ制作を学ぶ！Marvelous・Marmoset対応のWingfox講座が販売開始 first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
-        <author>
-            <name>modelinghappy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Live2Dで1枚絵を3Dのように立体的に動かす!めてねぇさんのVTuber用Live2Dモデル制作講座レビュー]]></title>
-        <id>https://modelinghappy.com/?p=66419</id>
-        <link href="https://modelinghappy.com/archives/66419"/>
-        <updated>2026-01-23T23:50:49.000Z</updated>
-        <summary type="html"><![CDATA[ダイナミックな表現を可能にするVTuber用Live2Dモデル制作 世界中のさまざまなトップクリエイターが、3DCG・イラスト・動画編集などの専門分野を学べる Colosoのサイトで、イラストを使って正面絵を3Dのように
-The post Live2Dで1枚絵を3Dのように立体的に動かす!めてねぇさんのVTuber用Live2Dモデル制作講座レビュー first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
-        <author>
-            <name>modelinghappy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Black Forest Labs、最先端の画質を維持しながら高速な画像生成モデル「FLUX.2 [klein]」を発表！]]></title>
-        <id>https://cginterest.com/?p=55168</id>
-        <link href="https://cginterest.com/2026/01/24/black-forest-labs%e3%80%81%e6%9c%80%e5%85%88%e7%ab%af%e3%81%ae%e7%94%bb%e8%b3%aa%e3%82%92%e7%b6%ad%e6%8c%81%e3%81%97%e3%81%aa%e3%81%8c%e3%82%89%e9%ab%98%e9%80%9f%e3%81%aa%e7%94%bb%e5%83%8f%e7%94%9f/"/>
-        <updated>2026-01-23T23:41:00.000Z</updated>
-        <summary type="html"><![CDATA[2026年1月15日（現地時間）- Black Forest Labsは、同社史上最速となる画像生成モデルファミリー「FLUX.2 [klein]」を発表しました。 FLUX.2 [klein]とは FLUX.2 [kl […]
-Black Forest Labs、最先端の画質を維持しながら高速な画像生成モデル「FLUX.2 [klein]」を発表！ first appeared on CGinterest.]]></summary>
-        <author>
-            <name>.me</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[写真向けエフェクトソフト「ON1 Effects 2026」 が登場！AIマスク機能の強化と新フィルター追加など]]></title>
-        <id>https://cginterest.com/?p=55169</id>
-        <link href="https://cginterest.com/2026/01/24/%e5%86%99%e7%9c%9f%e5%90%91%e3%81%91%e3%82%a8%e3%83%95%e3%82%a7%e3%82%af%e3%83%88%e3%82%bd%e3%83%95%e3%83%88%e3%80%8con1-effects-2026%e3%80%8d-%e3%81%8c%e7%99%bb%e5%a0%b4%ef%bc%81ai%e3%83%9e%e3%82%b9/"/>
-        <updated>2026-01-23T22:39:00.000Z</updated>
-        <summary type="html"><![CDATA[2026年1月15日、ON1社より写真編集ソフトウェアの最新版「ON1 Effects 2026」がリリースされました。 Adobe Lightroom ClassicやPhotoshopのプラグインとして、あるいは単体 […]
-写真向けエフェクトソフト「ON1 Effects 2026」 が登場！AIマスク機能の強化と新フィルター追加など first appeared on CGinterest.]]></summary>
-        <author>
-            <name>.me</name>
         </author>
     </entry>
 </feed>

@@ -712,6 +712,26 @@
       "siteUrl": "https://cgworld.jp/",
       "articles": [
         {
+          "id": "https://cgworld.jp/flashnews/01-202602-AvatarOptimizer.html",
+          "author": null,
+          "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
+          "link": "https://cgworld.jp/flashnews/01-202602-AvatarOptimizer.html",
+          "publishedOn": "2026-02-22T23:52:18.000Z",
+          "wordCount": 791,
+          "title": "オープンソースのVRアバター軽量化ユーティリティ「AAO: Avatar Optimizer v1.9.0」リリース！  Animator最適化の強化、PhysBoneの自動マージ、自動Freeze強化、Merge Materialなど - ニュース",
+          "imageUrl": "https://cgworld.jp/flashnews/assets_c/2026/02/AAO-01-thumb-1920x1080-80259.jpg"
+        },
+        {
+          "id": "https://cgworld.jp/flashnews/2602-katana9.0.html",
+          "author": null,
+          "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
+          "link": "https://cgworld.jp/flashnews/2602-katana9.0.html",
+          "publishedOn": "2026-02-22T05:00:00.000Z",
+          "wordCount": 734,
+          "title": "Foundryが「Katana 9.0」をリリース ーUSD編集の新機能と「Hydra 2.0」(アルファ版）を搭載 - ニュース",
+          "imageUrl": "https://cgworld.jp/flashnews/assets_c/2026/02/Product%20page%20-%20UsdSuperLayer%20-%201440x810-thumb-1440x810-80238.jpg"
+        },
+        {
           "id": "https://cgworld.jp/flashnews/01-202602-GimmickCreator.html",
           "author": null,
           "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
@@ -1560,16 +1580,6 @@
           "wordCount": 787,
           "title": "オープンソースのBlenderアドオン「Mio3 Flex」リリース！ 選択したエッジループをカーブで滑らかに整形＆変形 - ニュース",
           "imageUrl": "https://cgworld.jp/flashnews/assets_c/2026/01/Mio3Flex-01-thumb-1920x1080-79137.jpg"
-        },
-        {
-          "id": "https://cgworld.jp/article/whosnext-review-2601.html",
-          "author": null,
-          "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
-          "link": "https://cgworld.jp/article/whosnext-review-2601.html",
-          "publishedOn": "2026-01-24T06:25:29.000Z",
-          "wordCount": 830,
-          "title": "Niantic 行弘進氏によるWHO'S NEXT? 作品レビュー＆ブラッシュアップ　ストーリーを伝える画づくりを学べ！！ - 特集",
-          "imageUrl": "https://cgworld.jp/article/assets_c/2026/01/WHOSNEXT_202502reviewss-thumb-889x500-79016.jpg"
         }
       ]
     },
@@ -1618,10 +1628,26 @@
       ]
     },
     {
-      "title": "StudioBros Tech blog | スタジオブロス テックブログ",
-      "feedUrl": "https://bros.studio/fukano_blog/feed/",
-      "siteUrl": "https://bros.studio/fukano_blog",
-      "articles": []
+      "title": "スタジオブロス TECH BLOG",
+      "feedUrl": "https://tech.bros.studio/rss",
+      "siteUrl": "https://tech.bros.studio/",
+      "articles": [
+        {
+          "id": "hatenablog://entry/17179246901345713538",
+          "author": null,
+          "description": "みなさんこんにちは。スタジオブロスの嶋田です。 前回に引き続きAI Assistantを触っていきますが、今回は「AI AssistantでBlueprintを扱ったらどうなるか」という検証記事になります。 2026年1月19日の段階ではAI Assistantは仕様上、レベル内のアクターの数を調べたり、レベルの中のオブジェクトを参照することができず、あくまで「OOをしたい」「OOをしてください」というアシスタントがメインとなっている機能です。そのため、今回は既にあるBlueprintの解説をAI Assistantにお願いしつつ、そのBlueprintに対して追加機能を実装してもらえないか、…",
+          "link": "https://tech.bros.studio/entry/2026/02/16/090000",
+          "publishedOn": "2026-02-16T00:00:00.000Z",
+          "wordCount": 657,
+          "title": "Unreal Engine の AI Assistantを使用しながらBlueprintを扱ってみる",
+          "enclosure": {
+            "url": "https://cdn.image.st-hatena.com/image/scale/83cccb410e630753f8340fcdcd007005040486b9/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fy%2Fy-shimada1028%2F20260119%2F20260119193655.png",
+            "type": "image/png",
+            "length": "0"
+          },
+          "imageUrl": "https://cdn.image.st-hatena.com/image/scale/83cccb410e630753f8340fcdcd007005040486b9/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fy%2Fy-shimada1028%2F20260119%2F20260119193655.png"
+        }
+      ]
     },
     {
       "title": "SPARK CREATIVE Tech Blog",
@@ -1634,6 +1660,16 @@
       "feedUrl": "https://modelinghappy.com/feed",
       "siteUrl": "https://modelinghappy.com",
       "articles": [
+        {
+          "id": "https://modelinghappy.com/?p=67258",
+          "author": "modelinghappy",
+          "description": "Better Cutter Better Cutterは、Blenderでメッシュを平面・曲線・カーブを使って自由にリアルタイムカットできるアドオンです。 モデルを等間隔の複数平面でカット・分割したり、内側だけを残すカッ\nThe post Better Cutter｜平面・曲線・カーブで自由に等間隔・リアルタイムカット・ベベル調整できるBlender用アドオン first appeared on 3DCG最新情報サイト MODELING HAPPY.",
+          "link": "https://modelinghappy.com/archives/67258",
+          "publishedOn": "2026-02-22T12:31:24.000Z",
+          "wordCount": 3700,
+          "title": "Better Cutter｜平面・曲線・カーブで自由に等間隔・リアルタイムカット・ベベル調整できるBlender用アドオン",
+          "imageUrl": "https://modelinghappy.com/wp-content/uploads/2026/02/20260222_better_cutter_01.jpg"
+        },
         {
           "id": "https://modelinghappy.com/?p=67249",
           "author": "modelinghappy",
@@ -2123,26 +2159,6 @@
           "wordCount": 3712,
           "title": "Universal Animation Library 2登場！130種のモーション追加＆個人・商用利用OKの無料版もあり",
           "imageUrl": "https://modelinghappy.com/wp-content/uploads/2026/01/20260125_universal_animation_library_01.jpg"
-        },
-        {
-          "id": "https://modelinghappy.com/?p=66765",
-          "author": "modelinghappy",
-          "description": "3D Character Modeling Pipeline with Fusion 360 世界中のチュートリアル動画を販売しているWingfoxのサイトで、Fusion360の基礎からプロの制作フローまで学べる講座が\nThe post Fusion 360でハードサーフェス3Dキャラ制作を学ぶ！Marvelous・Marmoset対応のWingfox講座が販売開始 first appeared on 3DCG最新情報サイト MODELING HAPPY.",
-          "link": "https://modelinghappy.com/archives/66765",
-          "publishedOn": "2026-01-24T00:44:54.000Z",
-          "wordCount": 3724,
-          "title": "Fusion 360でハードサーフェス3Dキャラ制作を学ぶ！Marvelous・Marmoset対応のWingfox講座が販売開始",
-          "imageUrl": "https://modelinghappy.com/wp-content/uploads/2026/01/20260124_wingfox_00.jpg"
-        },
-        {
-          "id": "https://modelinghappy.com/?p=66419",
-          "author": "modelinghappy",
-          "description": "ダイナミックな表現を可能にするVTuber用Live2Dモデル制作 世界中のさまざまなトップクリエイターが、3DCG・イラスト・動画編集などの専門分野を学べる Colosoのサイトで、イラストを使って正面絵を3Dのように\nThe post Live2Dで1枚絵を3Dのように立体的に動かす!めてねぇさんのVTuber用Live2Dモデル制作講座レビュー first appeared on 3DCG最新情報サイト MODELING HAPPY.",
-          "link": "https://modelinghappy.com/archives/66419",
-          "publishedOn": "2026-01-23T23:50:49.000Z",
-          "wordCount": 3778,
-          "title": "Live2Dで1枚絵を3Dのように立体的に動かす!めてねぇさんのVTuber用Live2Dモデル制作講座レビュー",
-          "imageUrl": "https://modelinghappy.com/wp-content/uploads/2026/01/20260102_menetey_00.jpg"
         }
       ]
     },
@@ -2544,21 +2560,6 @@
             "type": "false"
           },
           "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--7MMBlqWW--/g_center%2Ch_280%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYm9va19jb3Zlci9mN2JjOWUzMzFjLnBuZw==%2Cw_200/v1627283836/default/og-base-book_yz4z02.jpg?_a=BACAGSGT"
-        },
-        {
-          "id": "https://zenn.dev/slowhand/articles/1f048e5291a14b",
-          "author": "slowhand",
-          "description": "概要\n今回は軽量のグラフィックスライブラリの micro{gl} を試してみようと思います。\n\n micro{gl}とは?\nhttps://micro-gl.github.io/docs/microgl\n\n高速、超スリム、組み込み可能、ヘッダのみの C++11 ベクターグラフィックスライブラリ。標準ライブラリは必要ありません。\n\nGPU・FPU（浮動小数点演算器）不要、標準ライブラリ（STL）不要を掲げており、32/64bit環境で動かせる、軽量のCPUでレンダリングする“ベクターグラフィックス寄り”のライブラリという位置付けになっています。ウェアラブルデバイスやIoTデバイスなどの...",
-          "link": "https://zenn.dev/slowhand/articles/1f048e5291a14b",
-          "publishedOn": "2026-01-24T13:53:35.000Z",
-          "wordCount": 2159,
-          "title": "軽量のグラフィックスライブラリ micro{gl} を試す",
-          "enclosure": {
-            "url": "https://res.cloudinary.com/zenn/image/upload/s--GdJGcFai--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E8%25BB%25BD%25E9%2587%258F%25E3%2581%25AE%25E3%2582%25B0%25E3%2583%25A9%25E3%2583%2595%25E3%2582%25A3%25E3%2583%2583%25E3%2582%25AF%25E3%2582%25B9%25E3%2583%25A9%25E3%2582%25A4%25E3%2583%2596%25E3%2583%25A9%25E3%2583%25AA%2520micro%257Bgl%257D%2520%25E3%2582%2592%25E8%25A9%25A6%25E3%2581%2599%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:slowhand%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzEwY2YzMGUzMDAuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
-            "length": "0",
-            "type": "false"
-          },
-          "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--GdJGcFai--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E8%25BB%25BD%25E9%2587%258F%25E3%2581%25AE%25E3%2582%25B0%25E3%2583%25A9%25E3%2583%2595%25E3%2582%25A3%25E3%2583%2583%25E3%2582%25AF%25E3%2582%25B9%25E3%2583%25A9%25E3%2582%25A4%25E3%2583%2596%25E3%2583%25A9%25E3%2583%25AA%2520micro%257Bgl%257D%2520%25E3%2582%2592%25E8%25A9%25A6%25E3%2581%2599%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:slowhand%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzEwY2YzMGUzMDAuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"
         }
       ]
     },
@@ -2803,16 +2804,6 @@
           "wordCount": 1742,
           "title": "【Unity】Custom Render Texture で整数型を扱う",
           "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYzODI1NzczJTJGZTUzOGI2MGJkYTY3M2ZhOWQwMTdhMzg5NThlNDhiM2ZhOGYwMzg5MyUyRnhfbGFyZ2UucG5nJTNGMTcxOTQ5Njg2OT9peGxpYj1yYi00LjAuMCZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9MzczMjIwMmUxZDFmMDQyNTkwNmVmYzJlMTUxOTk2NDE%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D2c44d83ab4a01f8bb86566291a9414a7?ixlib=rb-4.0.0&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9JUUzJTgwJTkwVW5pdHklRTMlODAlOTFDdXN0b20lMjBSZW5kZXIlMjBUZXh0dXJlJTIwJUUzJTgxJUE3JUU2JTk1JUI0JUU2JTk1JUIwJUU1JTlFJThCJUUzJTgyJTkyJUU2JTg5JUIxJUUzJTgxJTg2JnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9N2IxYjdmM2FmNzkwODQ1NTI4OTU0MDIyZDE2MDk1NjI&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDB5dXJpX3RzdWtpbWkmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz1hNTk1ZWExZTNjN2EyODM1Y2E2YThhNjg4NWI1NzdjNg&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=c340ff9044c113fb626074d0a30ad867"
-        },
-        {
-          "id": "https://qiita.com/ohisama@github/items/abe70ada35b5a9326e76",
-          "author": null,
-          "description": "概要\nplunkerでp5.jsやってみた。\nwebgl、見つけたのでやってみた。\n\n参考にしたページ\n\n写真\n\n成果物\n\n以上。",
-          "link": "https://qiita.com/ohisama@github/items/abe70ada35b5a9326e76",
-          "publishedOn": "2026-01-24T01:56:19.000Z",
-          "wordCount": 581,
-          "title": "plunkerでp5.js その2",
-          "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYxODEwNCUyRmZiMGEzYjAxNmI3NWM3NWZhYjQyMGUxMGIyYTc1YWZjNGQzMTIxMWMlMkZ4X2xhcmdlLnBuZyUzRjE3NTc5ODAzMTA_aXhsaWI9cmItNC4wLjAmYXI9MSUzQTEmZml0PWNyb3AmbWFzaz1lbGxpcHNlJmJnPUZGRkZGRiZmbT1wbmczMiZzPTkwMjUyY2FhZTA0MjQ2YWM1MGNkMjE3YWU1YmVkY2U3%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3Dd731fbbc1ace96cad766155c8678350e?ixlib=rb-4.0.0&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9cGx1bmtlciVFMyU4MSVBN3A1LmpzJTIwJUUzJTgxJTlEJUUzJTgxJUFFMiZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnR4dC1wYWQ9MCZzPTA2ZmVmMjMwMTUyMmJlYzMzMDU4OGI0OTA0ZDNkYWY1&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBvaGlzYW1hJTQwZ2l0aHViJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9YzAwZmU1MDczYWE4ZTAyNjc4ZDE5MTRlOTU3NjdhNjc&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=ba6c7bc8098332a697bfeffeecc3f9e6"
         }
       ]
     },
@@ -2907,26 +2898,6 @@
           "wordCount": 1832,
           "title": "Rustでコンピューターグラフィックスの基礎を学ぶ その6",
           "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnFpaXRhLWltYWdlLXN0b3JlLnMzLmFtYXpvbmF3cy5jb20lMkYwJTJGMTM0MDAlMkZwcm9maWxlLWltYWdlcyUyRjE0NzM2ODI3ODY_aXhsaWI9cmItNC4wLjAmYXI9MSUzQTEmZml0PWNyb3AmbWFzaz1lbGxpcHNlJmJnPUZGRkZGRiZmbT1wbmczMiZzPTY1YjNkZGZlM2ZmMTNmNGQ3YzkxMjc1ODQ0NzRmM2U2%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D1af31c82a32a237c1f86f670c42e154f?ixlib=rb-4.0.0&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9UnVzdCVFMyU4MSVBNyVFMyU4MiVCMyVFMyU4MyVCMyVFMyU4MyU5NCVFMyU4MyVBNSVFMyU4MyVCQyVFMyU4MiVCRiVFMyU4MyVCQyVFMyU4MiVCMCVFMyU4MyVBOSVFMyU4MyU5NSVFMyU4MiVBMyVFMyU4MyU4MyVFMyU4MiVBRiVFMyU4MiVCOSVFMyU4MSVBRSVFNSU5RiVCQSVFNyVBNCU4RSVFMyU4MiU5MiVFNSVBRCVBNiVFMyU4MSVCNiUyMCVFMyU4MSU5RCVFMyU4MSVBRTYmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz03M2MzYzFjZDMzYjM1YTMzZjAyOTlmOWVlNjJlZjg3Mg&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBzdW1pa2F3YSU0MGdpdGh1YiZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPWU0ZWQ2ZmQyYWVjZDBjZGM4MmE2OTUzNGY2ZDJhYzA4&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=5a5aa8e056779e461285a5608cec4214"
-        },
-        {
-          "id": "https://qiita.com/sumikawa@github/items/04488cc9109217dcef0a",
-          "author": null,
-          "description": "フルコードはgithubにあります。\n週末レイトレーシングのここをやります。\n\nランダムな vec3 を計算するユーティリティ関数\nVec3モジュールに下記を追加。\npub fn random() -> Self {\n    Self {\n        x: random...",
-          "link": "https://qiita.com/sumikawa@github/items/04488cc9109217dcef0a",
-          "publishedOn": "2026-01-24T12:23:36.000Z",
-          "wordCount": 2548,
-          "title": "Rustでコンピューターグラフィックスの基礎を学ぶ その5",
-          "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnFpaXRhLWltYWdlLXN0b3JlLnMzLmFtYXpvbmF3cy5jb20lMkYwJTJGMTM0MDAlMkZwcm9maWxlLWltYWdlcyUyRjE0NzM2ODI3ODY_aXhsaWI9cmItNC4wLjAmYXI9MSUzQTEmZml0PWNyb3AmbWFzaz1lbGxpcHNlJmJnPUZGRkZGRiZmbT1wbmczMiZzPTY1YjNkZGZlM2ZmMTNmNGQ3YzkxMjc1ODQ0NzRmM2U2%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D1af31c82a32a237c1f86f670c42e154f?ixlib=rb-4.0.0&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9UnVzdCVFMyU4MSVBNyVFMyU4MiVCMyVFMyU4MyVCMyVFMyU4MyU5NCVFMyU4MyVBNSVFMyU4MyVCQyVFMyU4MiVCRiVFMyU4MyVCQyVFMyU4MiVCMCVFMyU4MyVBOSVFMyU4MyU5NSVFMyU4MiVBMyVFMyU4MyU4MyVFMyU4MiVBRiVFMyU4MiVCOSVFMyU4MSVBRSVFNSU5RiVCQSVFNyVBNCU4RSVFMyU4MiU5MiVFNSVBRCVBNiVFMyU4MSVCNiUyMCVFMyU4MSU5RCVFMyU4MSVBRTUmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz1kZTQxNzY1YTAwMjQ5MGQ5NTMxNmQyNTQ0NWEwNzNkMg&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBzdW1pa2F3YSU0MGdpdGh1YiZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPWU0ZWQ2ZmQyYWVjZDBjZGM4MmE2OTUzNGY2ZDJhYzA4&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=8c6d2c877a81f3d24b1ef0c5e28b9fec"
-        },
-        {
-          "id": "https://qiita.com/ennagara128/items/8bf6e3c0b4bbe3e84fe7",
-          "author": null,
-          "description": "前日夜の最新トレンド記事のAIポッドキャストを毎日朝7時に更新しています。\n通勤中などにながら聴きしよう！\n（Qiita投稿は通勤には間に合わないと思われますが）\nフィードバックとか助かりますのでください\n↓こちらから\n\n出典\n本当に使える！海外Tech動画爆速キャッチアッ...",
-          "link": "https://qiita.com/ennagara128/items/8bf6e3c0b4bbe3e84fe7",
-          "publishedOn": "2026-01-24T00:52:31.000Z",
-          "wordCount": 737,
-          "title": "2026/01/24 今日のQiitaトレンド記事をポッドキャストで聴こう！",
-          "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnFpaXRhLWltYWdlLXN0b3JlLnMzLmFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkYwJTJGNDE1NjU3OCUyRnByb2ZpbGUtaW1hZ2VzJTJGMTc2NjEwOTAyNT9peGxpYj1yYi00LjAuMCZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9YzVmYThjMjg1MTNmYTk1MDg3NmI4ZTEyZWY5YmM2ZjA%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3De0e88bd41db4341d9d0be08858fdc77d?ixlib=rb-4.0.0&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9MjAyNiUyRjAxJTJGMjQlMjAlRTQlQkIlOEElRTYlOTclQTUlRTMlODElQUVRaWl0YSVFMyU4MyU4OCVFMyU4MyVBQyVFMyU4MyVCMyVFMyU4MyU4OSVFOCVBOCU5OCVFNCVCQSU4QiVFMyU4MiU5MiVFMyU4MyU5RCVFMyU4MyU4MyVFMyU4MyU4OSVFMyU4MiVBRCVFMyU4MyVBMyVFMyU4MiVCOSVFMyU4MyU4OCVFMyU4MSVBNyVFOCU4MSVCNCVFMyU4MSU5MyVFMyU4MSU4NiVFRiVCQyU4MSZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnR4dC1wYWQ9MCZzPWIzN2ViOTYzNmQ4Y2FkODQ0NDM0YWNmZjZjZmY1NTJl&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBlbm5hZ2FyYTEyOCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPTUxY2ZiZTE2M2MxMzEwMmEwYjk2ZWMwMjEyZTRiMjA4&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=7c670660e6b6d7d053823d2ea5806718"
         }
       ]
     },
@@ -2974,16 +2945,6 @@
           "wordCount": 1001,
           "title": "HLSLファイルのより良い扱い方",
           "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkY0MzQ1MTgxJTJGNjkzOGUxNzk4OGRkZWIyODMzYmMwMjg2NjYwNjMyOTY1ZmVkMjY2MyUyRnhfbGFyZ2UucG5nJTNGMTc2OTQ0MjQwMj9peGxpYj1yYi00LjAuMCZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9MmI5YTIzYjg5YjhiNjJlZGQyZTEwMzMwMmE1MDliMTc%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3Da6fd8531a502d7f4a3957a9942e2ed2a?ixlib=rb-4.0.0&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9SExTTCVFMyU4MyU5NSVFMyU4MiVBMSVFMyU4MiVBNCVFMyU4MyVBQiVFMyU4MSVBRSVFMyU4MiU4OCVFMyU4MiU4QSVFOCU4OSVBRiVFMyU4MSU4NCVFNiU4OSVCMSVFMyU4MSU4NCVFNiU5NiVCOSZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnR4dC1wYWQ9MCZzPWYwYTA3ZjI0ZWNiYzhhNmIzZjBjNTI1ZWJmZDY2ZTIw&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBQcm9ncmFtRWt1cmVhJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9Yjc2N2VlYjc1NWM0NmVlNzlmNDdiOTQ2M2UwNzc3NmQ&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=599dd35dc2a14b9103f5e0e29a35c371"
-        },
-        {
-          "id": "https://qiita.com/yorung/items/5b6e916fc058bd1b4c38",
-          "author": null,
-          "description": "調査目的\nUE5.7でBlendable GBufferが追加されました。一方でレガシーマテリアルも使い続けられます。これは、Substrateという新システムがレガシーを捨てるのではなく機能の一部として取り込んだように見えます。\nしかし、新旧GBufferと新旧マテリア...",
-          "link": "https://qiita.com/yorung/items/5b6e916fc058bd1b4c38",
-          "publishedOn": "2026-01-24T10:16:22.000Z",
-          "wordCount": 1048,
-          "title": "UE5.7のSubstrateが従来形式のGBufferを扱う様子をHLSLで確認",
-          "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkY2NjE2MCUyRmU5ZTgwYTYzNzk0ZDViNGU2NTYzNjY3ZGI2OTM0ZjA2YzAyMjY3ZWElMkZ4X2xhcmdlLnBuZyUzRjE3MTE5NDA4OTg_aXhsaWI9cmItNC4wLjAmYXI9MSUzQTEmZml0PWNyb3AmbWFzaz1lbGxpcHNlJmJnPUZGRkZGRiZmbT1wbmczMiZzPTU0MzQ3YTU2N2JiOGY3NDc4OWM3NDU5ZjVkMDhhMzNj%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D8fdccb9e4f7027bfc0adb20740b20248?ixlib=rb-4.0.0&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9VUU1LjclRTMlODElQUVTdWJzdHJhdGUlRTMlODElOEMlRTUlQkUlOTMlRTYlOUQlQTUlRTUlQkQlQTIlRTUlQkMlOEYlRTMlODElQUVHQnVmZmVyJUUzJTgyJTkyJUU2JTg5JUIxJUUzJTgxJTg2JUU2JUE3JTk4JUU1JUFEJTkwJUUzJTgyJTkySExTTCVFMyU4MSVBNyVFNyVBMiVCQSVFOCVBQSU4RCZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnR4dC1wYWQ9MCZzPTFhODdlYjRhYzBjZTkxOWMzNmE0OWVjMjNkMDM2NjRj&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDB5b3J1bmcmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz1mMDQ4MjY0ZWYyNTg4YTJmZmM1MzEzYjIzYzlmMDFiNg&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=42157b5d2a333d9cac4e61339b162b70"
         }
       ]
     },
@@ -3166,6 +3127,16 @@
       "feedUrl": "https://note.com/hashtag/Houdini/rss",
       "siteUrl": "https://note.com/hashtag/Houdini",
       "articles": [
+        {
+          "id": "https://note.com/oja_bitterlife/n/n966ffb46df54",
+          "author": null,
+          "description": "11月1日から2月19日の間で1日1～3時間くらい、全部で250時間くらいの学習の成果です。\n  \n続きをみる",
+          "link": "https://note.com/oja_bitterlife/n/n966ffb46df54",
+          "publishedOn": "2026-02-22T10:21:12.000Z",
+          "wordCount": 3091,
+          "title": "Houdiniで爆発エフェクトの練習をした振り返り",
+          "imageUrl": "https://assets.st-note.com/production/uploads/images/253749206/rectangle_large_type_2_c2f9361240086188de44333df4a039b9.png?width=800"
+        },
         {
           "id": "https://note.com/genial_ferret575/n/neb400ca73edd",
           "author": null,
@@ -4094,31 +4065,6 @@
           "wordCount": 31975,
           "title": "穴や指定領域を四角ポリゴンで埋めることができるZBrush用プラグイン「ZReQuad」",
           "imageUrl": "https://cginterest.com/wp-content/uploads/2026/01/zrequadplugin.webp"
-        },
-        {
-          "id": "https://cginterest.com/?p=55168",
-          "author": ".me",
-          "description": "2026年1月15日（現地時間）- Black Forest Labsは、同社史上最速となる画像生成モデルファミリー「FLUX.2 [klein]」を発表しました。 FLUX.2 [klein]とは FLUX.2 [kl […]\nBlack Forest Labs、最先端の画質を維持しながら高速な画像生成モデル「FLUX.2 [klein]」を発表！ first appeared on CGinterest.",
-          "link": "https://cginterest.com/2026/01/24/black-forest-labs%e3%80%81%e6%9c%80%e5%85%88%e7%ab%af%e3%81%ae%e7%94%bb%e8%b3%aa%e3%82%92%e7%b6%ad%e6%8c%81%e3%81%97%e3%81%aa%e3%81%8c%e3%82%89%e9%ab%98%e9%80%9f%e3%81%aa%e7%94%bb%e5%83%8f%e7%94%9f/",
-          "publishedOn": "2026-01-23T23:41:00.000Z",
-          "wordCount": 29188,
-          "title": "Black Forest Labs、最先端の画質を維持しながら高速な画像生成モデル「FLUX.2 [klein]」を発表！",
-          "enclosure": {
-            "url": "https://cginterest.com/wp-content/uploads/2026/01/FLUX.2-kleindemo.mp4",
-            "length": "245998",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://cginterest.com/wp-content/uploads/2026/01/FLUX2klein.webp"
-        },
-        {
-          "id": "https://cginterest.com/?p=55169",
-          "author": ".me",
-          "description": "2026年1月15日、ON1社より写真編集ソフトウェアの最新版「ON1 Effects 2026」がリリースされました。 Adobe Lightroom ClassicやPhotoshopのプラグインとして、あるいは単体 […]\n写真向けエフェクトソフト「ON1 Effects 2026」 が登場！AIマスク機能の強化と新フィルター追加など first appeared on CGinterest.",
-          "link": "https://cginterest.com/2026/01/24/%e5%86%99%e7%9c%9f%e5%90%91%e3%81%91%e3%82%a8%e3%83%95%e3%82%a7%e3%82%af%e3%83%88%e3%82%bd%e3%83%95%e3%83%88%e3%80%8con1-effects-2026%e3%80%8d-%e3%81%8c%e7%99%bb%e5%a0%b4%ef%bc%81ai%e3%83%9e%e3%82%b9/",
-          "publishedOn": "2026-01-23T22:39:00.000Z",
-          "wordCount": 29051,
-          "title": "写真向けエフェクトソフト「ON1 Effects 2026」 が登場！AIマスク機能の強化と新フィルター追加など",
-          "imageUrl": "https://cginterest.com/wp-content/uploads/2026/01/ONEffects2026.webp"
         }
       ]
     }

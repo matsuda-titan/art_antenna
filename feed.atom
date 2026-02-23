@@ -2,10 +2,63 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-02-23T08:57:24.193Z</updated>
+    <updated>2026-02-23T12:38:52.983Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[#07【3Dスキャン】ヘリに乗ってレッツ空撮！　失敗率を下げる撮影ノウハウを伝授 - 連載]]></title>
+        <id>https://cgworld.jp/regular/202602-cgw327-tr07.html</id>
+        <link href="https://cgworld.jp/regular/202602-cgw327-tr07.html"/>
+        <updated>2026-02-23T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[exAgentの中山智博さんをゲストにお迎えして、後編では空撮による大規模3Dスキャンの実際を伺っていきます。  3Dスキャンを使用してデータを作成する場合、 撮影データが作品のクオリティに直結します。空撮という特殊な状況下での工夫点や、 地上と同じく意識している原則まで、空撮の成功例と失敗例を交えてご紹介します！]]></summary>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unreal Engineのシェーダー内でエンジンのバージョンを判定する方法]]></title>
+        <id>https://qiita.com/yorung/items/7526d7d4329322f721e5</id>
+        <link href="https://qiita.com/yorung/items/7526d7d4329322f721e5"/>
+        <updated>2026-02-23T10:41:20.000Z</updated>
+        <summary type="html"><![CDATA[UE5.3～UE5.7を判定する方法
+#include "/Engine/Private/Common.ush"
+
+#ifdef PLATFORM_SUPPORTS_FMA
+#define UE5_4_OR_LATER 1
+#else
+#define UE5_4_OR_L...]]></summary>
+        <author>
+            <name>Shaderタグが付けられた新着記事 - Qiita</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unreal Engineのシェーダー内でエンジンのバージョンを判定する方法]]></title>
+        <id>https://qiita.com/yorung/items/7526d7d4329322f721e5</id>
+        <link href="https://qiita.com/yorung/items/7526d7d4329322f721e5"/>
+        <updated>2026-02-23T10:41:20.000Z</updated>
+        <summary type="html"><![CDATA[UE5.3～UE5.7を判定する方法
+#include "/Engine/Private/Common.ush"
+
+#ifdef PLATFORM_SUPPORTS_FMA
+#define UE5_4_OR_LATER 1
+#else
+#define UE5_4_OR_L...]]></summary>
+        <author>
+            <name>HLSLタグが付けられた新着記事 - Qiita</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Blender内で画像・動画・3Dモデルを生成！チャットやMCPにも対応するAIワークフロー統合アドオン- OpenBlender]]></title>
+        <id>https://cginterest.com/?p=56042</id>
+        <link href="https://cginterest.com/2026/02/23/blender%e5%86%85%e3%81%a7%e7%94%bb%e5%83%8f%e3%83%bb%e5%8b%95%e7%94%bb%e3%83%bb3d%e3%83%a2%e3%83%87%e3%83%ab%e3%82%92%e7%94%9f%e6%88%90%ef%bc%81%e3%83%81%e3%83%a3%e3%83%83%e3%83%88%e3%82%84mcp/"/>
+        <updated>2026-02-23T09:20:47.000Z</updated>
+        <summary type="html"><![CDATA[CRT (pgcrt)氏によるBlenderアドオン「OpenBlender」の紹介です。 OpenBlenderとは OpenBlenderは、生成AIなワークフローをBlenderに直接統合することができるアドオンで […]
+Blender内で画像・動画・3Dモデルを生成！チャットやMCPにも対応するAIワークフロー統合アドオン- OpenBlender first appeared on CGinterest.]]></summary>
+        <author>
+            <name>.me</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[オープンソースのVRアバター軽量化ユーティリティ「AAO: Avatar Optimizer v1.9.0」リリース！  Animator最適化の強化、PhysBoneの自動マージ、自動Freeze強化、Merge Materialなど - ニュース]]></title>
         <id>https://cgworld.jp/flashnews/01-202602-AvatarOptimizer.html</id>

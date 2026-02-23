@@ -712,6 +712,16 @@
       "siteUrl": "https://cgworld.jp/",
       "articles": [
         {
+          "id": "https://cgworld.jp/regular/202602-cgw327-tr07.html",
+          "author": null,
+          "description": "exAgentの中山智博さんをゲストにお迎えして、後編では空撮による大規模3Dスキャンの実際を伺っていきます。  3Dスキャンを使用してデータを作成する場合、 撮影データが作品のクオリティに直結します。空撮という特殊な状況下での工夫点や、 地上と同じく意識している原則まで、空撮の成功例と失敗例を交えてご紹介します！",
+          "link": "https://cgworld.jp/regular/202602-cgw327-tr07.html",
+          "publishedOn": "2026-02-23T11:00:00.000Z",
+          "wordCount": 777,
+          "title": "#07【3Dスキャン】ヘリに乗ってレッツ空撮！　失敗率を下げる撮影ノウハウを伝授 - 連載",
+          "imageUrl": "https://cgworld.jp/regular/assets_c/2026/02/techroom_07_web-thumb-1000x563-80288.jpg"
+        },
+        {
           "id": "https://cgworld.jp/flashnews/01-202602-AvatarOptimizer.html",
           "author": null,
           "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
@@ -2706,6 +2716,16 @@
       "siteUrl": "https://qiita.com",
       "articles": [
         {
+          "id": "https://qiita.com/yorung/items/7526d7d4329322f721e5",
+          "author": null,
+          "description": "UE5.3～UE5.7を判定する方法\n#include \"/Engine/Private/Common.ush\"\n\n#ifdef PLATFORM_SUPPORTS_FMA\n#define UE5_4_OR_LATER 1\n#else\n#define UE5_4_OR_L...",
+          "link": "https://qiita.com/yorung/items/7526d7d4329322f721e5",
+          "publishedOn": "2026-02-23T10:41:20.000Z",
+          "wordCount": 601,
+          "title": "Unreal Engineのシェーダー内でエンジンのバージョンを判定する方法",
+          "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkY2NjE2MCUyRmU5ZTgwYTYzNzk0ZDViNGU2NTYzNjY3ZGI2OTM0ZjA2YzAyMjY3ZWElMkZ4X2xhcmdlLnBuZyUzRjE3MTE5NDA4OTg_aXhsaWI9cmItNC4wLjAmYXI9MSUzQTEmZml0PWNyb3AmbWFzaz1lbGxpcHNlJmJnPUZGRkZGRiZmbT1wbmczMiZzPTU0MzQ3YTU2N2JiOGY3NDc4OWM3NDU5ZjVkMDhhMzNj%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D8fdccb9e4f7027bfc0adb20740b20248?ixlib=rb-4.0.0&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9VW5yZWFsJTIwRW5naW5lJUUzJTgxJUFFJUUzJTgyJUI3JUUzJTgyJUE3JUUzJTgzJUJDJUUzJTgzJTgwJUUzJTgzJUJDJUU1JTg2JTg1JUUzJTgxJUE3JUUzJTgyJUE4JUUzJTgzJUIzJUUzJTgyJUI4JUUzJTgzJUIzJUUzJTgxJUFFJUUzJTgzJTkwJUUzJTgzJUJDJUUzJTgyJUI4JUUzJTgzJUE3JUUzJTgzJUIzJUUzJTgyJTkyJUU1JTg4JUE0JUU1JUFFJTlBJUUzJTgxJTk5JUUzJTgyJThCJUU2JTk2JUI5JUU2JUIzJTk1JnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9NmEyMjVmMzlkMTU0NWJmYmJjMjBkMWI0ODE0NDgyOGU&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDB5b3J1bmcmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz1mMDQ4MjY0ZWYyNTg4YTJmZmM1MzEzYjIzYzlmMDFiNg&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=190ea18301f0a583dd59984cf429463c"
+        },
+        {
           "id": "https://qiita.com/youtoy/items/ea5f6c3392b975d99b1a",
           "author": null,
           "description": "はじめに\n以下の記事の話の続きです。\n●Mac用アプリでシェーダーを使った描画を少し試す（VS Code での Swift開発） - Qiita\n　https://qiita.com/youtoy/items/8fb6618f6404848c235c\n上記記事の手順では、...",
@@ -2906,6 +2926,16 @@
       "feedUrl": "https://qiita.com/tags/hlsl/feed",
       "siteUrl": "https://qiita.com",
       "articles": [
+        {
+          "id": "https://qiita.com/yorung/items/7526d7d4329322f721e5",
+          "author": null,
+          "description": "UE5.3～UE5.7を判定する方法\n#include \"/Engine/Private/Common.ush\"\n\n#ifdef PLATFORM_SUPPORTS_FMA\n#define UE5_4_OR_LATER 1\n#else\n#define UE5_4_OR_L...",
+          "link": "https://qiita.com/yorung/items/7526d7d4329322f721e5",
+          "publishedOn": "2026-02-23T10:41:20.000Z",
+          "wordCount": 597,
+          "title": "Unreal Engineのシェーダー内でエンジンのバージョンを判定する方法",
+          "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkY2NjE2MCUyRmU5ZTgwYTYzNzk0ZDViNGU2NTYzNjY3ZGI2OTM0ZjA2YzAyMjY3ZWElMkZ4X2xhcmdlLnBuZyUzRjE3MTE5NDA4OTg_aXhsaWI9cmItNC4wLjAmYXI9MSUzQTEmZml0PWNyb3AmbWFzaz1lbGxpcHNlJmJnPUZGRkZGRiZmbT1wbmczMiZzPTU0MzQ3YTU2N2JiOGY3NDc4OWM3NDU5ZjVkMDhhMzNj%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D8fdccb9e4f7027bfc0adb20740b20248?ixlib=rb-4.0.0&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9VW5yZWFsJTIwRW5naW5lJUUzJTgxJUFFJUUzJTgyJUI3JUUzJTgyJUE3JUUzJTgzJUJDJUUzJTgzJTgwJUUzJTgzJUJDJUU1JTg2JTg1JUUzJTgxJUE3JUUzJTgyJUE4JUUzJTgzJUIzJUUzJTgyJUI4JUUzJTgzJUIzJUUzJTgxJUFFJUUzJTgzJTkwJUUzJTgzJUJDJUUzJTgyJUI4JUUzJTgzJUE3JUUzJTgzJUIzJUUzJTgyJTkyJUU1JTg4JUE0JUU1JUFFJTlBJUUzJTgxJTk5JUUzJTgyJThCJUU2JTk2JUI5JUU2JUIzJTk1JnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9NmEyMjVmMzlkMTU0NWJmYmJjMjBkMWI0ODE0NDgyOGU&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDB5b3J1bmcmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz1mMDQ4MjY0ZWYyNTg4YTJmZmM1MzEzYjIzYzlmMDFiNg&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=190ea18301f0a583dd59984cf429463c"
+        },
         {
           "id": "https://qiita.com/yy_108/items/2fd4ee9dd221b87cfd99",
           "author": null,
@@ -3461,6 +3491,16 @@
       "feedUrl": "https://cginterest.com/feed/",
       "siteUrl": "https://cginterest.com",
       "articles": [
+        {
+          "id": "https://cginterest.com/?p=56042",
+          "author": ".me",
+          "description": "CRT (pgcrt)氏によるBlenderアドオン「OpenBlender」の紹介です。 OpenBlenderとは OpenBlenderは、生成AIなワークフローをBlenderに直接統合することができるアドオンで […]\nBlender内で画像・動画・3Dモデルを生成！チャットやMCPにも対応するAIワークフロー統合アドオン- OpenBlender first appeared on CGinterest.",
+          "link": "https://cginterest.com/2026/02/23/blender%e5%86%85%e3%81%a7%e7%94%bb%e5%83%8f%e3%83%bb%e5%8b%95%e7%94%bb%e3%83%bb3d%e3%83%a2%e3%83%87%e3%83%ab%e3%82%92%e7%94%9f%e6%88%90%ef%bc%81%e3%83%81%e3%83%a3%e3%83%83%e3%83%88%e3%82%84mcp/",
+          "publishedOn": "2026-02-23T09:20:47.000Z",
+          "wordCount": 29699,
+          "title": "Blender内で画像・動画・3Dモデルを生成！チャットやMCPにも対応するAIワークフロー統合アドオン- OpenBlender",
+          "imageUrl": "https://cginterest.com/wp-content/uploads/2026/02/openBlender.webp"
+        },
         {
           "id": "https://cginterest.com/?p=56032",
           "author": ".me",

@@ -738,21 +738,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "https://3dnchu.com/wp-content/uploads/universal-animation-library-2-quaternius.webp"
-        },
-        {
-          "id": "https://3dnchu.com/?p=1061469",
-          "author": "Ymt3D -3dnchu-",
-          "description": "CGDiveによる「Jiggle Physics（揺れ物理）」の手動ワークフロー解説動画。\nアドオンを使わず、Blender標準のCloth機能を応用してキャラクターの腹や胸などに柔らかい揺れを追加する方法を紹介しています。",
-          "link": "https://3dnchu.com/archives/simple-jiggle-physics-cgdive/",
-          "publishedOn": "2026-01-26T16:35:11.000Z",
-          "wordCount": 8858,
-          "title": "My simple recipe for Jiggle Physics in Blender (no addons) - アドオン無しでプニプニ柔らか揺れもの物理表現を行うBlender制作手順紹介動画が公開中！",
-          "enclosure": {
-            "url": "https://3dnchu.com/wp-content/uploads/my-simple-recipe-for-jiggle-phys.jpg",
-            "length": "76879",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://3dnchu.com/wp-content/uploads/my-simple-recipe-for-jiggle-phys.jpg"
         }
       ]
     },
@@ -770,6 +755,16 @@
           "wordCount": 806,
           "title": "劇場アニメ『ALL YOU NEED IS KILL』STUDIO4℃の伝統と革新を象徴するキャラクター像、著名小説をフルCGアニメで描く 〜No.2／モデリング＆ルックデヴ篇 - 特集",
           "imageUrl": "https://cgworld.jp/article/assets_c/2026/02/330_01-thumb-1920x1080-79499.jpg"
+        },
+        {
+          "id": "https://cgworld.jp/flashnews/02-2602-amazon1000.html",
+          "author": null,
+          "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
+          "link": "https://cgworld.jp/flashnews/02-2602-amazon1000.html",
+          "publishedOn": "2026-02-25T01:00:00.000Z",
+          "wordCount": 617,
+          "title": "【Amazonギフトカード1,000円分を100名様にプレゼント】Houdiniユーザー制作環境一斉調査企画 sponsored by 日本HP - ニュース",
+          "imageUrl": "https://cgworld.jp/flashnews/assets_c/2026/02/9b3bbfe92c9bc1379a60889a60cb2d1b0fcfc778-thumb-1000x563-80051.jpg"
         },
         {
           "id": "https://cgworld.jp/flashnews/01-202602-BlenderFundamentals.html",
@@ -1667,16 +1662,6 @@
           "wordCount": 2915,
           "title": "【Illustrator】Pythonで操作してみよう",
           "imageUrl": "https://3d.crdg.jp/tech/wp-content/uploads/2026/02/Illustrator01.png"
-        },
-        {
-          "id": "https://3d.crdg.jp/tech/?p=6531",
-          "author": "kawai ryotaro",
-          "description": "迫りくる30代という現実に目を背けるため、金髪にしました。 クリーク・アンド・リバー社 COYOTE 3DCG STUDIO テクニカルチーム 川合で […]\n続きを読む\n投稿 【Maya】バインドポーズについて は TECH-COYOTE｜C&R Creative Studios に最初に表示されました。",
-          "link": "https://3d.crdg.jp/tech/archives/6531",
-          "publishedOn": "2026-01-26T15:00:26.000Z",
-          "wordCount": 2892,
-          "title": "【Maya】バインドポーズについて",
-          "imageUrl": "https://3d.crdg.jp/tech/wp-content/uploads/2026/01/blogThumbnail-1.png"
         }
       ]
     },
@@ -1733,7 +1718,18 @@
       "title": "SPARK CREATIVE Tech Blog",
       "feedUrl": "https://tech.spark-creative.co.jp/feed",
       "siteUrl": "https://tech.spark-creative.co.jp/",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://tech.spark-creative.co.jp/entry/2026/02/25/125843",
+          "author": null,
+          "description": "はじめに ディザとは 実装 最適化を考えよう 常駐の負荷を減らす 余談（MaterialInstanceDynamicを減らす） 終わり はじめに こんにちは、クライアントエンジニアの下野です。 今回は初心に立ち返り、ディザ抜きのマテリアルを作っていこうと思います。 エンジンのバージョンは5.6を使用しています。 ディザとは ディザは、透明度を扱えないマテリアル設定（Masked）で、アンチエイリアス機能を利用して「擬似的な半透明」を表現する手法です。 実体と透過を網掛けのように表示して、TAAなどのアンチエイリアシングでぼかす事で半透明の見た目を再現してます。 よく使われるのは、プレイヤーと…",
+          "link": "https://tech.spark-creative.co.jp/entry/2026/02/25/125843",
+          "publishedOn": "2026-02-25T03:58:43.000Z",
+          "wordCount": 691,
+          "title": "【UE5】ディザを嗜む（ついでに最適化）",
+          "imageUrl": "https://cdn.image.st-hatena.com/image/scale/2ed41012483f605d63120ea30333194e48aba098/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fs%2Fspark-shimono-ryota%2F20260224%2F20260224110809.png"
+        }
+      ]
     },
     {
       "title": "3DCG最新情報サイト MODELING HAPPY",
@@ -2239,16 +2235,6 @@
           "wordCount": 3709,
           "title": "Easeit – 29種類のイージングプリセットでカーブを1クリック調整できるBlender無料アドオン",
           "imageUrl": "https://modelinghappy.com/wp-content/uploads/2026/01/20260127_easeit_01.jpg"
-        },
-        {
-          "id": "https://modelinghappy.com/?p=66812",
-          "author": "modelinghappy",
-          "description": "Animation Helper Animation Helperは、Mayaでモーショントレイル表示・選択セット・アニメ復元・キーのブレンドやタイムオフセット（Tween調整など）をまとめて使えてアニメ作業を効率化でき\nThe post Animation Helper：Mayaのモーショントレイル・揺れ・Tween補完・復元まで9機能入り無料プラグイン first appeared on 3DCG最新情報サイト MODELING HAPPY.",
-          "link": "https://modelinghappy.com/archives/66812",
-          "publishedOn": "2026-01-26T15:03:07.000Z",
-          "wordCount": 3726,
-          "title": "Animation Helper：Mayaのモーショントレイル・揺れ・Tween補完・復元まで9機能入り無料プラグイン",
-          "imageUrl": "https://modelinghappy.com/wp-content/uploads/2026/01/20260127_animation_helper_01.jpg"
         }
       ]
     },
@@ -2257,6 +2243,16 @@
       "feedUrl": "https://3dtotal.jp/feed/",
       "siteUrl": "https://3dtotal.jp",
       "articles": [
+        {
+          "id": "https://3dtotal.jp/?p=54803",
+          "author": "3dtotal管理人T",
+          "description": "★The Choice | Pepsi | Super Bowl（45秒） アカデミー賞受賞 監督 タイカ・ワイティティ が手がけた ペプシ のスーパーボウルCM「The Choice」では、コーラ好きのホッキョクグマが […]\nThe post フルCG の ホッキョクグマをリアルに。ペプシ のスーパーボウルCM「The Choise」＆メイキング映像 first appeared on 3dtotal 日本語オフィシャルサイト.",
+          "link": "https://3dtotal.jp/news/54803/",
+          "publishedOn": "2026-02-25T04:41:24.000Z",
+          "wordCount": 563,
+          "title": "フルCG の ホッキョクグマをリアルに。ペプシ のスーパーボウルCM「The Choise」＆メイキング映像",
+          "imageUrl": "https://3dtotal.jp/wp-content/uploads/2026/02/choice_pepsi.jpg"
+        },
         {
           "id": "https://3dtotal.jp/?p=54791",
           "author": "3dtotal管理人T",

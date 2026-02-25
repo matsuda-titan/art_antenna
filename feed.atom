@@ -2,16 +2,47 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-02-25T01:16:39.683Z</updated>
+    <updated>2026-02-25T04:46:42.110Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[フルCG の ホッキョクグマをリアルに。ペプシ のスーパーボウルCM「The Choise」＆メイキング映像]]></title>
+        <id>https://3dtotal.jp/?p=54803</id>
+        <link href="https://3dtotal.jp/news/54803/"/>
+        <updated>2026-02-25T04:41:24.000Z</updated>
+        <summary type="html"><![CDATA[★The Choice | Pepsi | Super Bowl（45秒） アカデミー賞受賞 監督 タイカ・ワイティティ が手がけた ペプシ のスーパーボウルCM「The Choice」では、コーラ好きのホッキョクグマが […]
+The post フルCG の ホッキョクグマをリアルに。ペプシ のスーパーボウルCM「The Choise」＆メイキング映像 first appeared on 3dtotal 日本語オフィシャルサイト.]]></summary>
+        <author>
+            <name>3dtotal管理人T</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【UE5】ディザを嗜む（ついでに最適化）]]></title>
+        <id>https://tech.spark-creative.co.jp/entry/2026/02/25/125843</id>
+        <link href="https://tech.spark-creative.co.jp/entry/2026/02/25/125843"/>
+        <updated>2026-02-25T03:58:43.000Z</updated>
+        <summary type="html"><![CDATA[はじめに ディザとは 実装 最適化を考えよう 常駐の負荷を減らす 余談（MaterialInstanceDynamicを減らす） 終わり はじめに こんにちは、クライアントエンジニアの下野です。 今回は初心に立ち返り、ディザ抜きのマテリアルを作っていこうと思います。 エンジンのバージョンは5.6を使用しています。 ディザとは ディザは、透明度を扱えないマテリアル設定（Masked）で、アンチエイリアス機能を利用して「擬似的な半透明」を表現する手法です。 実体と透過を網掛けのように表示して、TAAなどのアンチエイリアシングでぼかす事で半透明の見た目を再現してます。 よく使われるのは、プレイヤーと…]]></summary>
+        <author>
+            <name>SPARK CREATIVE Tech Blog</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[劇場アニメ『ALL YOU NEED IS KILL』STUDIO4℃の伝統と革新を象徴するキャラクター像、著名小説をフルCGアニメで描く 〜No.2／モデリング＆ルックデヴ篇 - 特集]]></title>
         <id>https://cgworld.jp/article/cgw330-allyou02.html</id>
         <link href="https://cgworld.jp/article/cgw330-allyou02.html"/>
         <updated>2026-02-25T01:00:14.000Z</updated>
         <summary type="html"><![CDATA[劇場アニメ『ALL YOU NEED IS KILL』のCGメイキング。]]></summary>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【Amazonギフトカード1,000円分を100名様にプレゼント】Houdiniユーザー制作環境一斉調査企画 sponsored by 日本HP - ニュース]]></title>
+        <id>https://cgworld.jp/flashnews/02-2602-amazon1000.html</id>
+        <link href="https://cgworld.jp/flashnews/02-2602-amazon1000.html"/>
+        <updated>2026-02-25T01:00:00.000Z</updated>
+        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
         <author>
             <name>CGWORLD</name>
         </author>
@@ -4010,40 +4041,6 @@ DirectX実行環境
 ...]]></summary>
         <author>
             <name>HLSLタグが付けられた新着記事 - Qiita</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[My simple recipe for Jiggle Physics in Blender (no addons) - アドオン無しでプニプニ柔らか揺れもの物理表現を行うBlender制作手順紹介動画が公開中！]]></title>
-        <id>https://3dnchu.com/?p=1061469</id>
-        <link href="https://3dnchu.com/archives/simple-jiggle-physics-cgdive/"/>
-        <updated>2026-01-26T16:35:11.000Z</updated>
-        <summary type="html"><![CDATA[CGDiveによる「Jiggle Physics（揺れ物理）」の手動ワークフロー解説動画。
-アドオンを使わず、Blender標準のCloth機能を応用してキャラクターの腹や胸などに柔らかい揺れを追加する方法を紹介しています。]]></summary>
-        <author>
-            <name>Ymt3D -3dnchu-</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Animation Helper：Mayaのモーショントレイル・揺れ・Tween補完・復元まで9機能入り無料プラグイン]]></title>
-        <id>https://modelinghappy.com/?p=66812</id>
-        <link href="https://modelinghappy.com/archives/66812"/>
-        <updated>2026-01-26T15:03:07.000Z</updated>
-        <summary type="html"><![CDATA[Animation Helper Animation Helperは、Mayaでモーショントレイル表示・選択セット・アニメ復元・キーのブレンドやタイムオフセット（Tween調整など）をまとめて使えてアニメ作業を効率化でき
-The post Animation Helper：Mayaのモーショントレイル・揺れ・Tween補完・復元まで9機能入り無料プラグイン first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
-        <author>
-            <name>modelinghappy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【Maya】バインドポーズについて]]></title>
-        <id>https://3d.crdg.jp/tech/?p=6531</id>
-        <link href="https://3d.crdg.jp/tech/archives/6531"/>
-        <updated>2026-01-26T15:00:26.000Z</updated>
-        <summary type="html"><![CDATA[迫りくる30代という現実に目を背けるため、金髪にしました。 クリーク・アンド・リバー社 COYOTE 3DCG STUDIO テクニカルチーム 川合で […]
-続きを読む
-投稿 【Maya】バインドポーズについて は TECH-COYOTE｜C&R Creative Studios に最初に表示されました。]]></summary>
-        <author>
-            <name>kawai ryotaro</name>
         </author>
     </entry>
     <entry>

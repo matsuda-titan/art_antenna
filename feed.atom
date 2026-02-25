@@ -2,10 +2,27 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-02-25T04:46:42.110Z</updated>
+    <updated>2026-02-25T08:36:22.159Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[3DCG ラスタライザの概要 1]]></title>
+        <id>https://qiita.com/YKVKDX12/items/bbe6e5f358444a92b22c</id>
+        <link href="https://qiita.com/YKVKDX12/items/bbe6e5f358444a92b22c"/>
+        <updated>2026-02-25T08:14:27.000Z</updated>
+        <summary type="html"><![CDATA[https://qiita.com/YKVKDX12/items/9b236c97522ee15f1583
+この記事の改訂版となります
+
+ラスタライザって何？
+3DCGを描くパソコンの部品に
+絵のひながたを描いてもらうのを
+「画像化」と呼ぶのだが・・・・
+それを難しく言うと...]]></summary>
+        <author>
+            <name>3DCGタグが付けられた新着記事 - Qiita</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[フルCG の ホッキョクグマをリアルに。ペプシ のスーパーボウルCM「The Choise」＆メイキング映像]]></title>
         <id>https://3dtotal.jp/?p=54803</id>
@@ -42,6 +59,16 @@ The post フルCG の ホッキョクグマをリアルに。ペプシ のスー
         <id>https://cgworld.jp/flashnews/02-2602-amazon1000.html</id>
         <link href="https://cgworld.jp/flashnews/02-2602-amazon1000.html"/>
         <updated>2026-02-25T01:00:00.000Z</updated>
+        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[スタジオブロス、3/23（月より）全10回セミナー「Twinmotion 建築パースセミナー」を開講－Twinmotionで学ぶ"伝わる"建築パース - ニュース]]></title>
+        <id>https://cgworld.jp/flashnews/02-2602-studiobros-twinmotion.html</id>
+        <link href="https://cgworld.jp/flashnews/02-2602-studiobros-twinmotion.html"/>
+        <updated>2026-02-25T00:49:19.000Z</updated>
         <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
         <author>
             <name>CGWORLD</name>
@@ -1069,6 +1096,22 @@ The post DJV｜OpenEXR対応！映像・画像シーケンスを高速再生で�
         <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
         <author>
             <name>CGWORLD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[082/365]The Fear of Stagnation: Why I Won't Slow Down]]></title>
+        <id>https://note.com/torutanno/n/nbd1b85982d02</id>
+        <link href="https://note.com/torutanno/n/nbd1b85982d02"/>
+        <updated>2026-02-16T14:26:35.000Z</updated>
+        <summary type="html"><![CDATA[【082/365】2026年2月16日
+今日は年表をつくっていました。気づいたらこんな時間に…
+またもや後日加筆します。
+あと、修理に出したMacBook Proの進捗がありません…
+4日も経つのにまだ届いていないらしく… 不安です。
+
+続きをみる]]></summary>
+        <author>
+            <name>#Houdiniタグ</name>
         </author>
     </entry>
     <entry>
@@ -4024,23 +4067,6 @@ The post Easeit – 29種類のイージングプリセットでカーブを1ク
         <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
         <author>
             <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HLSLファイルのより良い扱い方]]></title>
-        <id>https://qiita.com/ProgramEkurea/items/09f5bd675ebdaee59095</id>
-        <link href="https://qiita.com/ProgramEkurea/items/09f5bd675ebdaee59095"/>
-        <updated>2026-01-26T16:59:32.000Z</updated>
-        <summary type="html"><![CDATA[ゲームアプリケーションには最適なシェーダーファイルを使おう
-今回はDirectX環境でゲームを作る人向けに「シェーダーを事前にコンパイルし、アプリケーションでコンパイル済みシェーダーを扱う」ということを解説していこうと思います。
-
-必要なもの
-
-DirectX実行環境
-
-...]]></summary>
-        <author>
-            <name>HLSLタグが付けられた新着記事 - Qiita</name>
         </author>
     </entry>
     <entry>

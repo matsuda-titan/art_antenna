@@ -2,10 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-02-27T04:29:14.737Z</updated>
+    <updated>2026-02-27T08:30:36.636Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[3DCG ラスタライザの概要　ジオメトリパイプライン2 アフィン変換をざっくりおおまかに]]></title>
+        <id>https://qiita.com/YKVKDX12/items/036bb227d87e48481254</id>
+        <link href="https://qiita.com/YKVKDX12/items/036bb227d87e48481254"/>
+        <updated>2026-02-27T07:23:00.000Z</updated>
+        <summary type="html"><![CDATA[注意
+このページには変換行列の詳細な数式は掲載しておりません
+
+アフィン変換
+
+ワールド空間に座標変換するときに行う
+モデルのサイズをスケールアップ、スケールダウンする
+拡大縮小
+
+モデルを回転させる
+** 回転 **
+平行移動
+
+(いずれも行列演算)
+ざっくばらんに言え...]]></summary>
+        <author>
+            <name>3DCGタグが付けられた新着記事 - Qiita</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unreal Engineを「今」覚えておく理由]]></title>
+        <id>https://note.com/juntominaga/n/na1fd27ccf29a</id>
+        <link href="https://note.com/juntominaga/n/na1fd27ccf29a"/>
+        <updated>2026-02-27T05:56:50.000Z</updated>
+        <summary type="html"><![CDATA[Unreal Engineは、もともとゲームエンジンです。
+建築ビジュアライゼーションの世界では、リアルタイムレンダリングやウォークスルー用途で使われることが多いですが、自分は今、製品CGの視点からUnrealを使っています。
+続きをみる]]></summary>
+        <author>
+            <name>#substancepainterタグ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[1920年代のロンドンを細部まで再現。ドラマ『アガサ・クリスティのセブンダイヤルズ』のVFXブレイクダウン映像]]></title>
         <id>https://3dtotal.jp/?p=54835</id>
@@ -4135,19 +4171,6 @@ The post 「スパイダーバース」のアーティストたちが制作。�
 Netflix Animation Studios が、Blender開発基金に「Corporate Patron」として参加！ first appeared on CGinterest.]]></summary>
         <author>
             <name>.me</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[sbsarファイルは7ZIPで解凍できて、メタ情報を簡単に確認できる]]></title>
-        <id>https://note.com/harayoki/n/n9b55854ee24f</id>
-        <link href="https://note.com/harayoki/n/n9b55854ee24f"/>
-        <updated>2026-01-28T17:37:02.000Z</updated>
-        <summary type="html"><![CDATA[今、サブスタンスファイルを使ったツールをこしらえているのですが、その際に活用している小ネタを投稿します。
-
-
-続きをみる]]></summary>
-        <author>
-            <name>#SubstanceDesignerタグ</name>
         </author>
     </entry>
 </feed>

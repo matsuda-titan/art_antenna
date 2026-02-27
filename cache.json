@@ -693,21 +693,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "https://3dnchu.com/wp-content/uploads/tmnt-raphael-test-footage-john-likens.webp"
-        },
-        {
-          "id": "https://3dnchu.com/?p=1061461",
-          "author": "Ymt3D -3dnchu-",
-          "description": "Firas Maayah氏による多彩な機能を搭載したUnreal Engine 5向けスタイライズドマテリアルパック「Advanced Stylization Material」がFabにて販売中！",
-          "link": "https://3dnchu.com/archives/advanced-stylization-material-firas/",
-          "publishedOn": "2026-01-29T00:10:46.000Z",
-          "wordCount": 9128,
-          "title": "Advanced Stylization Material | 多彩な機能を搭載したUnreal Engine 5向けスタイライズドマテリアルパック！Fabにて販売中！",
-          "enclosure": {
-            "url": "https://3dnchu.com/wp-content/uploads/advanced-stylization-material-Firas.webp",
-            "length": "1422914",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://3dnchu.com/wp-content/uploads/advanced-stylization-material-Firas.webp"
         }
       ]
     },
@@ -716,6 +701,46 @@
       "feedUrl": "https://cgworld.jp/atom.xml",
       "siteUrl": "https://cgworld.jp/",
       "articles": [
+        {
+          "id": "https://cgworld.jp/flashnews/cgwg-v027.html",
+          "author": null,
+          "description": "",
+          "link": "https://cgworld.jp/flashnews/cgwg-v027.html",
+          "publishedOn": "2026-02-27T12:00:00.000Z",
+          "wordCount": null,
+          "title": "募集テーマは《夜》。「CGWORLD GALLERY」作品応募受付は3/29（日）まで - ニュース",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cgworld.jp/special-feature/2602-adobe-firefly.html",
+          "author": null,
+          "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
+          "link": "https://cgworld.jp/special-feature/2602-adobe-firefly.html",
+          "publishedOn": "2026-02-27T11:00:00.000Z",
+          "wordCount": 614,
+          "title": "\"実験\"から\"実務\"のフェーズへ――企業が安全に商用利用できる生成AI「Adobe Firefly」の現在地と未来 - スペシャルコンテンツ",
+          "imageUrl": "https://cgworld.jp/special-feature/assets_c/2026/02/iwamoto05-thumb-1000x561-80273.jpg"
+        },
+        {
+          "id": "https://cgworld.jp/flashnews/02-2602-entry30.html",
+          "author": null,
+          "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
+          "link": "https://cgworld.jp/flashnews/02-2602-entry30.html",
+          "publishedOn": "2026-02-27T08:33:08.000Z",
+          "wordCount": 647,
+          "title": "テーマは「世界を狙うVFXの仕事」－CGWORLD Entry vol.30 Foundry特別協力号、2/27（金）配布開始 - ニュース",
+          "imageUrl": "https://cgworld.jp/flashnews/assets_c/2026/02/60bccada0041b0ecd5bf37ed19f7bba20c1dc675-thumb-1000x563-80029.png"
+        },
+        {
+          "id": "https://cgworld.jp/regular/202602-portfolio-04.html",
+          "author": null,
+          "description": "",
+          "link": "https://cgworld.jp/regular/202602-portfolio-04.html",
+          "publishedOn": "2026-02-27T08:19:00.000Z",
+          "wordCount": 781,
+          "title": "vol.004：アバターとして動かすことを意識した制作！「ルミス・ウールヴ」 - 連載",
+          "imageUrl": "https://cgworld.jp/regular/assets_c/2026/02/portfoliopoint_4-thumb-1000x563-80498.jpg"
+        },
         {
           "id": "https://cgworld.jp/flashnews/02-2602-cyberagent.html",
           "author": null,
@@ -2561,6 +2586,21 @@
       "siteUrl": "https://zenn.dev/topics/shader",
       "articles": [
         {
+          "id": "https://zenn.dev/mikan0141/articles/89cffe90c15a14",
+          "author": "Mikan0141",
+          "description": "※今回作る霧の完成イメージ\n!\nこれは初心者が試してて少なくともうまくいった方法を乗っけてるだけです\nもっとしっかりした情報を見たい場合は他の人の記事を見るべし\n\n\n TL;DR\n\nとりあえずこれを見れば分かる...ハズ...\n\n 調整方法\n!\n自分的には表示したままいじってリアルタイムにどんなのか見るのがおすすめ\n\n\n 密度を調整したい\n->カラーランプのバーをいじる(基本は黒だけで事足りるはず)\n\n 複雑/簡単にしたい\n->ノイズテクスチャのスケールを変える、絶対値が大きいほど複雑\n\n アニメーションをつけたい\n\n 1. ランダムに変化させたい\n->ノイズテクスチ...",
+          "link": "https://zenn.dev/mikan0141/articles/89cffe90c15a14",
+          "publishedOn": "2026-02-27T12:26:10.000Z",
+          "wordCount": 472,
+          "title": "忙しい人に送る、暗くても見える霧の作り方 【Blender 5.0.1】",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--lXvDuFRe--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E5%25BF%2599%25E3%2581%2597%25E3%2581%2584%25E4%25BA%25BA%25E3%2581%25AB%25E9%2580%2581%25E3%2582%258B%25E3%2580%2581%25E6%259A%2597%25E3%2581%258F%25E3%2581%25A6%25E3%2582%2582%25E8%25A6%258B%25E3%2581%2588%25E3%2582%258B%25E9%259C%25A7%25E3%2581%25AE%25E4%25BD%259C%25E3%2582%258A%25E6%2596%25B9%2520%25E3%2580%2590Blender%25205.0.1%25E3%2580%2591%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Mikan0141%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jS0l3N2h3US1XSWdfNDI2elY3bi1xelU3b3lzWFVTcXJ4ZEswZFV2dlkwcWo0V1NOZz1zMjUwLWM=%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
+            "length": "0",
+            "type": "false"
+          },
+          "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--lXvDuFRe--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E5%25BF%2599%25E3%2581%2597%25E3%2581%2584%25E4%25BA%25BA%25E3%2581%25AB%25E9%2580%2581%25E3%2582%258B%25E3%2580%2581%25E6%259A%2597%25E3%2581%258F%25E3%2581%25A6%25E3%2582%2582%25E8%25A6%258B%25E3%2581%2588%25E3%2582%258B%25E9%259C%25A7%25E3%2581%25AE%25E4%25BD%259C%25E3%2582%258A%25E6%2596%25B9%2520%25E3%2580%2590Blender%25205.0.1%25E3%2580%2591%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Mikan0141%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jS0l3N2h3US1XSWdfNDI2elY3bi1xelU3b3lzWFVTcXJ4ZEswZFV2dlkwcWo0V1NOZz1zMjUwLWM=%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"
+        },
+        {
           "id": "https://zenn.dev/minaduki/articles/202df983444eb0",
           "author": "Minaduki",
           "description": "はじめに\n前に書いたVolumetricFogがうまく機能しない問題が起きました。\nFrameDebuggerを見るとShadowMapは送られているのにFogのライティングが反映されていませんでした。\nなぜだろうと思ったらUnsafePassが問題でした。\n\n UnsafePassだと_MainLightShadowParamsを設定してくれない\n色々調べた結果UnsafePassだと_MainLightShadowParamsを設定してくれないようです。\nなのでRenderPass側で設定する必要があります。\n\n _MainLightShadowParamsとは\n_MainLig...",
@@ -2677,7 +2717,23 @@
       "title": "Zennの「3DCG」のフィード",
       "feedUrl": "https://zenn.dev/topics/3dcg/feed",
       "siteUrl": "https://zenn.dev/topics/3dcg",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://zenn.dev/mikan0141/articles/89cffe90c15a14",
+          "author": "Mikan0141",
+          "description": "※今回作る霧の完成イメージ\n!\nこれは初心者が試してて少なくともうまくいった方法を乗っけてるだけです\nもっとしっかりした情報を見たい場合は他の人の記事を見るべし\n\n\n TL;DR\n\nとりあえずこれを見れば分かる...ハズ...\n\n 調整方法\n!\n自分的には表示したままいじってリアルタイムにどんなのか見るのがおすすめ\n\n\n 密度を調整したい\n->カラーランプのバーをいじる(基本は黒だけで事足りるはず)\n\n 複雑/簡単にしたい\n->ノイズテクスチャのスケールを変える、絶対値が大きいほど複雑\n\n アニメーションをつけたい\n\n 1. ランダムに変化させたい\n->ノイズテクスチ...",
+          "link": "https://zenn.dev/mikan0141/articles/89cffe90c15a14",
+          "publishedOn": "2026-02-27T12:26:10.000Z",
+          "wordCount": 472,
+          "title": "忙しい人に送る、暗くても見える霧の作り方 【Blender 5.0.1】",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--lXvDuFRe--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E5%25BF%2599%25E3%2581%2597%25E3%2581%2584%25E4%25BA%25BA%25E3%2581%25AB%25E9%2580%2581%25E3%2582%258B%25E3%2580%2581%25E6%259A%2597%25E3%2581%258F%25E3%2581%25A6%25E3%2582%2582%25E8%25A6%258B%25E3%2581%2588%25E3%2582%258B%25E9%259C%25A7%25E3%2581%25AE%25E4%25BD%259C%25E3%2582%258A%25E6%2596%25B9%2520%25E3%2580%2590Blender%25205.0.1%25E3%2580%2591%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Mikan0141%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jS0l3N2h3US1XSWdfNDI2elY3bi1xelU3b3lzWFVTcXJ4ZEswZFV2dlkwcWo0V1NOZz1zMjUwLWM=%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
+            "length": "0",
+            "type": "false"
+          },
+          "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--lXvDuFRe--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E5%25BF%2599%25E3%2581%2597%25E3%2581%2584%25E4%25BA%25BA%25E3%2581%25AB%25E9%2580%2581%25E3%2582%258B%25E3%2580%2581%25E6%259A%2597%25E3%2581%258F%25E3%2581%25A6%25E3%2582%2582%25E8%25A6%258B%25E3%2581%2588%25E3%2582%258B%25E9%259C%25A7%25E3%2581%25AE%25E4%25BD%259C%25E3%2582%258A%25E6%2596%25B9%2520%25E3%2580%2590Blender%25205.0.1%25E3%2580%2591%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Mikan0141%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jS0l3N2h3US1XSWdfNDI2elY3bi1xelU3b3lzWFVTcXJ4ZEswZFV2dlkwcWo0V1NOZz1zMjUwLWM=%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"
+        }
+      ]
     },
     {
       "title": "Zennの「Maya」のフィード",
@@ -3714,6 +3770,31 @@
       "siteUrl": "https://cginterest.com",
       "articles": [
         {
+          "id": "https://cginterest.com/?p=56201",
+          "author": ".me",
+          "description": "2026年2月26日（現地時間）- Google DeepMindは、最新の画像生成AIモデル「Nano Banana 2」を発表しました。 Nano Banana 2 概要 Googleの画像生成モデル「Nano Ba […]\nGoogleが「Nano Banana 2」を公開！高品質と高速処理を両立する次世代モデルが登場 first appeared on CGinterest.",
+          "link": "https://cginterest.com/2026/02/27/google%e3%81%8c%e3%80%8cnano-banana-2%e3%80%8d%e3%82%92%e5%85%ac%e9%96%8b%ef%bc%81%e9%ab%98%e5%93%81%e8%b3%aa%e3%81%a8%e9%ab%98%e9%80%9f%e5%87%a6%e7%90%86%e3%82%92%e4%b8%a1%e7%ab%8b%e3%81%99%e3%82%8b/",
+          "publishedOn": "2026-02-27T11:00:04.000Z",
+          "wordCount": 29650,
+          "title": "Googleが「Nano Banana 2」を公開！高品質と高速処理を両立する次世代モデルが登場",
+          "enclosure": {
+            "url": "https://cginterest.com/wp-content/uploads/2026/02/Windowseat-Nomodelname-Aa0csx3-2X.mp4",
+            "length": "277936",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://cginterest.com/wp-content/uploads/2026/02/nanobanana2.webp"
+        },
+        {
+          "id": "https://cginterest.com/?p=55355",
+          "author": ".me",
+          "description": "今月発売、2026年2月以降に発売予定*のあるCG関連書籍を紹介するコーナーです(Amazon調べ)。 CGソフトの入門本、テクニック本、アートブック、リファレンス（参考資料）、その他気になるおすすめ書籍を紹介していきま […]\n2026年2月発売のCG関連書籍をチェック！ first appeared on CGinterest.",
+          "link": "https://cginterest.com/2026/02/27/2026%e5%b9%b42%e6%9c%88%e7%99%ba%e5%a3%b2%e3%81%aecg%e9%96%a2%e9%80%a3%e6%9b%b8%e7%b1%8d%e3%82%92%e3%83%81%e3%82%a7%e3%83%83%e3%82%af%ef%bc%81/",
+          "publishedOn": "2026-02-27T08:40:26.000Z",
+          "wordCount": 31767,
+          "title": "2026年2月発売のCG関連書籍をチェック！",
+          "imageUrl": "https://cginterest.com/wp-content/uploads/2026/02/bookcorner-2026-2.webp"
+        },
+        {
           "id": "https://cginterest.com/?p=56183",
           "author": ".me",
           "description": "Epic Games は、Unreal Engine の次世代マテリアルシステム「Substrate」を用いて完全に構築された、280 種類以上のプロダクションレディな自動車用マテリアルパックを無料で公開しました。 Au […]\nUnreal Engine 5.7向け「Automotive Substrate Materials」パックがFabにて無料公開！ first appeared on CGinterest.",
@@ -4322,16 +4403,6 @@
             "type": "video/mp4"
           },
           "imageUrl": "https://cginterest.com/wp-content/uploads/2026/01/IC8.7-Motion-Planning_Key-Visual_1920x1080_v1-3.webp"
-        },
-        {
-          "id": "https://cginterest.com/?p=55332",
-          "author": ".me",
-          "description": "2026年1月27日（現地時間）- Blender Foundationは、Netflix Animation Studiosが「Blender開発基金（Blender Development Fund）」のコーポレート […]\nNetflix Animation Studios が、Blender開発基金に「Corporate Patron」として参加！ first appeared on CGinterest.",
-          "link": "https://cginterest.com/2026/01/29/netflix-animation-studios%e3%80%81blender%e9%96%8b%e7%99%ba%e5%9f%ba%e9%87%91%e3%81%ab%e3%80%8ccorporate-patron%e3%80%8d%e3%81%a8%e3%81%97%e3%81%a6%e5%8f%82%e5%8a%a0/",
-          "publishedOn": "2026-01-28T22:05:00.000Z",
-          "wordCount": 31974,
-          "title": "Netflix Animation Studios が、Blender開発基金に「Corporate Patron」として参加！",
-          "imageUrl": "https://cginterest.com/wp-content/uploads/2026/01/netflix_dev_fund.webp"
         }
       ]
     }

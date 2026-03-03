@@ -12,6 +12,21 @@
       "siteUrl": "https://cgbox.jp",
       "articles": [
         {
+          "id": "https://cgbox.jp/?p=65093",
+          "author": "kasahara",
+          "description": "こんばんは！ 今回はアドオンの「Zombie Pack」を紹介します。 こちらのリンクがアドオンの商品ページになります。 Zombie Pack 「Zombie Pack」は、ホラーやポストアポカリプス向けの高品質ゾンビ […]",
+          "link": "https://cgbox.jp/2026/03/03/news-addon-zombie-pack/",
+          "publishedOn": "2026-03-03T02:53:21.000Z",
+          "wordCount": 2489,
+          "title": "【アドオン紹介】Zombie Pack – ゾンビの群衆を簡単作成！",
+          "enclosure": {
+            "url": "https://cgbox.jp/wp-content/uploads/2026/03/Video-Project-17-1.mp4",
+            "length": "0",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://cgbox.jp/wp-content/uploads/2026/03/image_processing20260302-2-barto6.jpg"
+        },
+        {
           "id": "https://cgbox.jp/?p=65082",
           "author": "kasahara",
           "description": "こんばんは！ 今回はアドオンの「Better Cutter」を紹介します。 こちらのリンクがアドオンの商品ページになります。 「Better Cutter」は、Blender標準機能を拡張する高機能メッシュカットツールで […]",
@@ -154,6 +169,21 @@
       "feedUrl": "https://3dnchu.com/feed/",
       "siteUrl": "https://3dnchu.com",
       "articles": [
+        {
+          "id": "https://3dnchu.com/?p=1061255",
+          "author": "Ymt3D -3dnchu-",
+          "description": "今回、サイコム様よりコンパクトワークステーション「Lepton Mini」をご提供いただき、現役で使用しているCG制作用PCとの比較検証を行いました。価格やスペックの比較、定番ベンチマークに加え、愛用しているBlenderやUnreal Engineでの実動検証を通して、「本当に制作現場で使えるPCなのか？」という視点でチェックしていきます！",
+          "link": "https://3dnchu.com/archives/sycom-lepton-mini-b850a-review/",
+          "publishedOn": "2026-03-03T03:31:00.000Z",
+          "wordCount": 9710,
+          "title": "【買い替え？】サイコムのコンパクトワークステーション Lepton Mini B850A レビュー | CG制作に使える？現役PCと比較検証！【制作PC】",
+          "enclosure": {
+            "url": "https://3dnchu.com/wp-content/uploads/sycom-lepton-mini-b850a-review.webp",
+            "length": "1091532",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://3dnchu.com/wp-content/uploads/sycom-lepton-mini-b850a-review.webp"
+        },
         {
           "id": "https://3dnchu.com/?p=1062494",
           "author": "Ymt3D -3dnchu-",
@@ -663,36 +693,6 @@
             "type": "video/mp4"
           },
           "imageUrl": "https://3dnchu.com/wp-content/uploads/autotrack.webp"
-        },
-        {
-          "id": "https://3dnchu.com/?p=1061681",
-          "author": "Ymt3D -3dnchu-",
-          "description": "Blender界隈ではお馴染みの Tom StudioによるBlender入門書 『ゼロからスタート! Blender 1冊目の教科書』が2026年1月に販売開始！！現在好評発売中！",
-          "link": "https://3dnchu.com/archives/tom-studio-1st-blender-book/",
-          "publishedOn": "2026-02-01T16:03:27.000Z",
-          "wordCount": 9295,
-          "title": "ゼロからスタート! Blender 1冊目の教科書 | Tom StudioによるBlender入門書！好評発売中！",
-          "enclosure": {
-            "url": "https://3dnchu.com/wp-content/uploads/tom-studio-1st-blender-book-small.gif",
-            "length": "1250267",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://3dnchu.com/wp-content/uploads/tom-studio-1st-blender-book-small.gif"
-        },
-        {
-          "id": "https://3dnchu.com/?p=1061557",
-          "author": "Ymt3D -3dnchu-",
-          "description": "Colosoさんのサイトで現在公開中の、Blender界隈ではお馴染み ふさこ氏による VTuberアバター制作解説フルチュートリアル講座『VTuber用3Dモデル制作：モデリングからセットアップまで』を受講いたしましたので、その感想を語りたいと思います！",
-          "link": "https://3dnchu.com/archives/coloso-3dcgmodeler-fusako-jp/",
-          "publishedOn": "2026-02-01T15:50:29.000Z",
-          "wordCount": 8943,
-          "title": "VTuber用3Dモデル制作：モデリングからセットアップまで | 3DCGモデラー ふさこ氏によるVTuber用3Dモデル制作解説コースを受講してみた！ 【Coloso Japan】",
-          "enclosure": {
-            "url": "https://3dnchu.com/wp-content/uploads/coloso-3dcgmodeler-fusako-jp-1.webp",
-            "length": "1369844",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://3dnchu.com/wp-content/uploads/coloso-3dcgmodeler-fusako-jp-1.webp"
         }
       ]
     },
@@ -3710,6 +3710,16 @@
       "feedUrl": "https://cginterest.com/feed/",
       "siteUrl": "https://cginterest.com",
       "articles": [
+        {
+          "id": "https://cginterest.com/?p=56284",
+          "author": ".me",
+          "description": "3D環境アセットスタジオとして知られるLeartesから、Unreal Engine向けの新しいAIアシスタントツール「Nwiro」のアルファ版がリリースされました。 Nwiroとは Nwiroは、テキストプロンプト（自 […]\n自然言語からPCGグラフ生成、環境作成などが可能なUE向けAIアシスタントツール「Nwiro」アルファ版が公開！ first appeared on CGinterest.",
+          "link": "https://cginterest.com/2026/03/03/%e8%87%aa%e7%84%b6%e8%a8%80%e8%aa%9e%e3%81%8b%e3%82%89pcg%e3%82%b0%e3%83%a9%e3%83%95%e7%94%9f%e6%88%90%e3%80%81%e7%92%b0%e5%a2%83%e4%bd%9c%e6%88%90%e3%81%aa%e3%81%a9%e3%81%8c%e5%8f%af%e8%83%bd/",
+          "publishedOn": "2026-03-03T02:13:17.000Z",
+          "wordCount": 29702,
+          "title": "自然言語からPCGグラフ生成、環境作成などが可能なUE向けAIアシスタントツール「Nwiro」アルファ版が公開！",
+          "imageUrl": "https://cginterest.com/wp-content/uploads/2026/03/image-8.webp"
+        },
         {
           "id": "https://cginterest.com/?p=56079",
           "author": ".me",

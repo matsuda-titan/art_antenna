@@ -2,10 +2,27 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-03-04T08:27:29.728Z</updated>
+    <updated>2026-03-04T12:33:28.174Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ShaderLab(HLSL) の各関数の実行時間の検証]]></title>
+        <id>https://zenn.dev/bekosan/articles/79b4ef641a681b</id>
+        <link href="https://zenn.dev/bekosan/articles/79b4ef641a681b"/>
+        <updated>2026-03-04T11:35:50.000Z</updated>
+        <summary type="html"><![CDATA[（この記事は2024年の再公開であり、古い情報が含まれている可能性があります）
+
+ はじめに
+シェーダーではよく「三角関数は重いから可能な限り避けろ」とか言われますが、具体的にどのくらい重いのか、他にはどんな関数が重たいのか具体的に記されている文献が見当たらなかったので、自分で測定してみました。
+
+ 検証環境
+UnityのShaderlabで実行しました。なお、エディタ上でプロファイラで実行時間を計測しています。実環境では動作が異なる可能性があることをご承知おきください。
+測定はカメラの視界をQuadメッシュで完全に覆い、解像度を8k(7640x4320)に設定してプロファイラのOpaq...]]></summary>
+        <author>
+            <name>Bekosan</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[MaterialXのすゝめ ツールに依存しない共有マテリアル 2026年1月最新版]]></title>
         <id>https://note.com/dftalk/n/n55483de2bf3e</id>
@@ -4302,16 +4319,6 @@ The post UE5 をベースに。ミラノ・コルティナ2026冬季オリンピ
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[AutoTrack | Blenderでのカメラトラッキングを最適かつ半自動で完了してくれる無料アドオン！メッシュも生成可能！Extensionsにて公開中！]]></title>
-        <id>https://3dnchu.com/?p=1061761</id>
-        <link href="https://3dnchu.com/archives/autotrack/"/>
-        <updated>2026-02-03T00:17:51.000Z</updated>
-        <summary type="html"><![CDATA[Siemen-LensによるBlenderでのカメラトラッキングを手軽にしてくれる無料アドオン「AutoTrack」がBlender Extensionsにて公開中です！]]></summary>
-        <author>
-            <name>Ymt3D -3dnchu-</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Blender用のリアルタイム水流＆水面作成ツール「Dynamic Flow」]]></title>
         <id>https://cginterest.com/?p=55475</id>
         <link href="https://cginterest.com/2026/02/03/blender%e7%94%a8%e3%81%ae%e3%83%aa%e3%82%a2%e3%83%ab%e3%82%bf%e3%82%a4%e3%83%a0%e6%b0%b4%e6%b5%81%ef%bc%86%e6%b0%b4%e9%9d%a2%e4%bd%9c%e6%88%90%e3%83%84%e3%83%bc%e3%83%ab%e3%80%8cdynamic-flow%e3%80%8d/"/>
@@ -4320,16 +4327,6 @@ The post UE5 をベースに。ミラノ・コルティナ2026冬季オリンピ
 Blender用のリアルタイム水流＆水面作成ツール「Dynamic Flow」 first appeared on CGinterest.]]></summary>
         <author>
             <name>.me</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Metaら、3Dシーン生成AIモデル「ShapeR」リリース！　ラフな日常撮影の動画シーケンスからロバストな3Dシーンを再構築 - ニュース]]></title>
-        <id>https://cgworld.jp/flashnews/01-202602-ShapeR.html</id>
-        <link href="https://cgworld.jp/flashnews/01-202602-ShapeR.html"/>
-        <updated>2026-02-02T21:51:31.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
         </author>
     </entry>
 </feed>

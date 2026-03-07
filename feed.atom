@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-03-06T12:32:01.337Z</updated>
+    <updated>2026-03-07T01:06:24.967Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[オープンソースのThree.js向け3DGSレンダラ「Spark 2.0」Developer Previewリリース！ LoDレンダリング、巨大な3DGSシーンの効率的なストリーミングに対応 - ニュース]]></title>
+        <id>https://cgworld.jp/flashnews/01-202603-Spark2.html</id>
+        <link href="https://cgworld.jp/flashnews/01-202603-Spark2.html"/>
+        <updated>2026-03-06T23:09:30.000Z</updated>
+        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CrumplePop 2026がリリース！AI技術を用いた高精度なオーディオ分離機能が搭載]]></title>
+        <id>https://cginterest.com/?p=56438</id>
+        <link href="https://cginterest.com/2026/03/07/crumplepop-2026%e3%81%8c%e3%83%aa%e3%83%aa%e3%83%bc%e3%82%b9%ef%bc%81ai%e6%8a%80%e8%a1%93%e3%82%92%e7%94%a8%e3%81%84%e3%81%9f%e9%ab%98%e7%b2%be%e5%ba%a6%e3%81%aa%e3%82%aa%e3%83%bc%e3%83%87%e3%82%a3/"/>
+        <updated>2026-03-06T22:47:00.000Z</updated>
+        <summary type="html"><![CDATA[2026年3月5日（現地時間）- BorisFX は、- Boris FX は、映像編集者向けの AIを活用した音声修復・補正ツール CrumplePop の新バージョン「CrumplePop 2026」をリリースしまし […]
+CrumplePop 2026がリリース！AI技術を用いた高精度なオーディオ分離機能が搭載 first appeared on CGinterest.]]></summary>
+        <author>
+            <name>.me</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[手のひらや足に指モデルを配置するだけで様々な手足を作成できるBlender無料ツール「LimbKit」]]></title>
         <id>https://modelinghappy.com/?p=67459</id>
@@ -4156,133 +4177,6 @@ The post ハンガリーの 3Dアニメーションスタジオ DIGIC Pictures �
         <updated>2026-02-05T15:01:36.000Z</updated>
         <summary type="html"><![CDATA[Unity Asset Store で開催されているフラッシュディールセールの紹介です。 セール概要 このセールでは、厳選されたワールド制作に必要なアセットが最大 70% オフになります。 セール対象アセットは毎日追加さ […]
 ワールド制作アセットにぴったりのアセットが最大 70%オフ！Unity Asset Store フラッシュセールが開催！ first appeared on CGinterest.]]></summary>
-        <author>
-            <name>.me</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【Maya】頂点カラーをR、G、Bそれぞれ個別で確認したいとき]]></title>
-        <id>https://3d.crdg.jp/env/?p=9105</id>
-        <link href="https://3d.crdg.jp/env/2026/02/05/9105/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=%25e3%2580%2590maya%25e3%2580%2591%25e9%25a0%2582%25e7%2582%25b9%25e3%2582%25ab%25e3%2583%25a9%25e3%2583%25bc%25e3%2582%2592r%25e3%2580%2581g%25e3%2580%2581b%25e3%2581%259d%25e3%2582%258c%25e3%2581%259e%25e3%2582%258c%25e5%2580%258b%25e5%2588%25a5%25e3%2581%25a7%25e7%25a2%25ba%25e8%25aa%258d%25e3%2581%2597%25e3%2581%259f"/>
-        <updated>2026-02-05T12:38:57.000Z</updated>
-        <summary type="html"><![CDATA[頂点カラーを確認するときに色がまざってしまって確認しづらいときがあります。 R（赤）だけ、のように個別に選んで確認する方法をお伝えします！ Attri […]
-続きを読む
-投稿 【Maya】頂点カラーをR、G、Bそれぞれ個別で確認したいとき は エンホリ - ENVIRONMENT HOLIC｜C&R Creative Studios に最初に表示されました。]]></summary>
-        <author>
-            <name>Hisako.Nishimura</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GPUのない場所で作るレンダラー：C++とSIMDで積み上げるグラフィックス数学]]></title>
-        <id>https://zenn.dev/shika_gfx/books/shika-graphics-math-cpp</id>
-        <link href="https://zenn.dev/shika_gfx/books/shika-graphics-math-cpp"/>
-        <updated>2026-02-05T12:37:31.000Z</updated>
-        <summary type="html"><![CDATA[軍隊という制約された環境下で、alignas(16)からソフトウェアラスタライザまでをゼロから実装し、その過程で学んだグラフィックス数学の原理をまとめます。]]></summary>
-        <author>
-            <name>Shika-gfx</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Select Pro｜三角形分割メッシュでもエッジループ・面・親子関係で簡単選択できるBlenderアドオン]]></title>
-        <id>https://modelinghappy.com/?p=66967</id>
-        <link href="https://modelinghappy.com/archives/66967"/>
-        <updated>2026-02-05T12:16:38.000Z</updated>
-        <summary type="html"><![CDATA[Select Pro  Select Proは、BlenderでCADモデルなどのように面・エッジ・オブジェクトが複雑に分割されたメッシュを、素早く・直感的に選択できるようになるアドオンです。 三角形ポリゴンで構成された
-The post Select Pro｜三角形分割メッシュでもエッジループ・面・親子関係で簡単選択できるBlenderアドオン first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
-        <author>
-            <name>modelinghappy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2/18（水）Nuke Meetup Online 2026 開催！ Maya × Nukeによる実践的なフォトリアル・コンポジット手法 ～日本デザインセンター事例～ - ニュース]]></title>
-        <id>https://cgworld.jp/flashnews/02-2602-218-nuke-seminar.html</id>
-        <link href="https://cgworld.jp/flashnews/02-2602-218-nuke-seminar.html"/>
-        <updated>2026-02-05T08:50:00.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[30周年は「これから」への入口。スタジオカラーの未来を担うクリエイターが挑む、『エヴァンゲリオン』初の大型フェス「EVANGELION:30+； 」直前インタビュー - 特集]]></title>
-        <id>https://cgworld.jp/article/202602-eva30th-01.html</id>
-        <link href="https://cgworld.jp/article/202602-eva30th-01.html"/>
-        <updated>2026-02-05T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sketchfabマンスリーピックアップ 2026年2月号]]></title>
-        <id>https://cginterest.com/?p=55587</id>
-        <link href="https://cginterest.com/2026/02/05/sketchfab%e3%83%9e%e3%83%b3%e3%82%b9%e3%83%aa%e3%83%bc%e3%83%94%e3%83%83%e3%82%af%e3%82%a2%e3%83%83%e3%83%97-2026%e5%b9%b42%e6%9c%88%e5%8f%b7/"/>
-        <updated>2026-02-05T06:50:00.000Z</updated>
-        <summary type="html"><![CDATA[先月Sketchfabに投稿されたモデルを勝手にピックアップ(2026年2月5日調べ) するコーナーです。人気のある3Dモデルを中心に独断と偏見で選んでおります！ 通常のピックアップとは別に、無料でダウンロードできる3D […]
-Sketchfabマンスリーピックアップ 2026年2月号 first appeared on CGinterest.]]></summary>
-        <author>
-            <name>.me</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ghosttyおすすめシェーダー集｜花火・CRT・カーソルトレイルでターミナルを彩る]]></title>
-        <id>https://zenn.dev/kki2ne/articles/ghostty-shader-collection-2026</id>
-        <link href="https://zenn.dev/kki2ne/articles/ghostty-shader-collection-2026"/>
-        <updated>2026-02-05T06:46:13.000Z</updated>
-        <summary type="html"><![CDATA[Claude CodeやCodex CLIみたいなAIコーディングエージェントが増えて、ターミナルに張り付く時間が長くなってませんか？黒い画面とにらめっこし続けると、正直飽きる。たまにはド派手な演出で気分転換なんてどうですか？
-Ghosttyにカスタムシェーダー機能があるのでピッタシです。ターミナルの画面にGPUシェーダーを適用して、花火を飛ばしたり、CRTモニター風にしたり、星空を背景にしたりできます。
-僕はパステルカラーの花火エフェクトを作って、カーソルを動かすたびにキラキラさせています。おじさんキュンキュンしちゃう可愛さ。
-Ghosttyの基本設定がまだの人は、先にこちらを読んでお...]]></summary>
-        <author>
-            <name>きつね</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ghosttyおすすめシェーダー集｜花火・CRT・カーソルトレイルでターミナルを彩る]]></title>
-        <id>https://zenn.dev/kki2ne/articles/ghostty-shader-collection-2026</id>
-        <link href="https://zenn.dev/kki2ne/articles/ghostty-shader-collection-2026"/>
-        <updated>2026-02-05T06:46:13.000Z</updated>
-        <summary type="html"><![CDATA[Claude CodeやCodex CLIみたいなAIコーディングエージェントが増えて、ターミナルに張り付く時間が長くなってませんか？黒い画面とにらめっこし続けると、正直飽きる。たまにはド派手な演出で気分転換なんてどうですか？
-Ghosttyにカスタムシェーダー機能があるのでピッタシです。ターミナルの画面にGPUシェーダーを適用して、花火を飛ばしたり、CRTモニター風にしたり、星空を背景にしたりできます。
-僕はパステルカラーの花火エフェクトを作って、カーソルを動かすたびにキラキラさせています。おじさんキュンキュンしちゃう可愛さ。
-Ghosttyの基本設定がまだの人は、先にこちらを読んでお...]]></summary>
-        <author>
-            <name>きつね</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WebGLシェーダーとLottieアニメーションを使って、AIコーチを実装する]]></title>
-        <id>https://zenn.dev/mento_techblog/articles/2026-02-ai_coach_implements</id>
-        <link href="https://zenn.dev/mento_techblog/articles/2026-02-ai_coach_implements"/>
-        <updated>2026-02-05T06:41:03.000Z</updated>
-        <summary type="html"><![CDATA[こんにちは、mentoでデザインエンジニアを担当している竹末です。
-昨日、デザイナーの視点から、AIコーチのコンセプトやデザインプロセスについてお伝えしました。
-https://note.com/mento_design/n/n81c92e6a3514
-後編となる本記事では、エンジニアの視点から「FigmaとAfter Effectsで作成されたアニメーション、インタラクティブなデザインを、どのようにWebアプリケーション上で忠実に再現したか」についてお話しします。
-結論から言うと、WebGLシェーダー、CSS合成モード、Lottieアニメーションという3つの技術を組み合わせることで、...]]></summary>
-        <author>
-            <name>h-takesue</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[QT6対応kseexpr]]></title>
-        <id>https://qiita.com/yokamak/items/65c69e5d1dbc29f70a5f</id>
-        <link href="https://qiita.com/yokamak/items/65c69e5d1dbc29f70a5f"/>
-        <updated>2026-02-05T06:32:42.000Z</updated>
-        <summary type="html"><![CDATA[githubデビューしました。
-Windowsにおいて、QT6対応版mingwを使ってビルドできます。imageEditor2でSeExprの記述が学べます。
-シェーダー学習に使えます。一歩一歩です。ありがとうございます。]]></summary>
-        <author>
-            <name>Shaderタグが付けられた新着記事 - Qiita</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2026年に開発予定の Blender プロジェクトをチェック！]]></title>
-        <id>https://cginterest.com/?p=55569</id>
-        <link href="https://cginterest.com/2026/02/05/2026%e5%b9%b4%e3%81%ab%e9%96%8b%e7%99%ba%e4%ba%88%e5%ae%9a%e3%81%ae-blender-%e3%83%97%e3%83%ad%e3%82%b8%e3%82%a7%e3%82%af%e3%83%88%e3%82%92%e3%83%81%e3%82%a7%e3%83%83%e3%82%af%ef%bc%81/"/>
-        <updated>2026-02-04T22:57:00.000Z</updated>
-        <summary type="html"><![CDATA[Blenderでは、伝統のひとつとして、年の始めに開発予定が発表されます。この度2026年のBlenderの開発目標が発表されましたので、その内容を紹介したいと思います。 2025年のリリースの振り返り 昨年は計画通り3 […]
-2026年に開発予定の Blender プロジェクトをチェック！ first appeared on CGinterest.]]></summary>
         <author>
             <name>.me</name>
         </author>

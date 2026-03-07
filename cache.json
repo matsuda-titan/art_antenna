@@ -12,6 +12,21 @@
       "siteUrl": "https://cgbox.jp",
       "articles": [
         {
+          "id": "https://cgbox.jp/?p=65108",
+          "author": "kasahara",
+          "description": "こんばんは！ 今回はアドオンの「Grease Mesh」を紹介します。 こちらのリンクがアドオンの商品ページになります。 Grease Mesh 「Grease Mesh」は、Grease Pencilの描画を3Dメッシ […]",
+          "link": "https://cgbox.jp/2026/03/07/news-addon-grease-mesh/",
+          "publishedOn": "2026-03-07T01:21:35.000Z",
+          "wordCount": 2500,
+          "title": "【無料アドオン】Grease Mesh – グリースペンシルでガイドを書いてメッシュ作成！",
+          "enclosure": {
+            "url": "https://cgbox.jp/wp-content/uploads/2026/03/Video-Project-23.mp4",
+            "length": "0",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://cgbox.jp/wp-content/uploads/2026/03/0c9eff4e943d121d4dc7dd9aacf24930f22cbf035c9aef2f1c19207b832b75f7_640x360.webp"
+        },
+        {
           "id": "https://cgbox.jp/?p=65104",
           "author": "kasahara",
           "description": "こんばんは！ 今回はアドオンの「Home Builder 5」を紹介します。 こちらのリンクがアドオンの商品ページになります。 Home Builder 5 「Home Builder 5」は、キッチン・バスルーム・クロ […]",
@@ -688,21 +703,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "https://3dnchu.com/wp-content/uploads/Sketchify-.webp"
-        },
-        {
-          "id": "https://3dnchu.com/?p=1061823",
-          "author": "Ymt3D -3dnchu-",
-          "description": "3D CADenceによるBlender向けPieメニューアドオン「Swift Pie Menu 2.0 Beta」が公開されています！",
-          "link": "https://3dnchu.com/archives/swift-pie-menu-2-0-beta/",
-          "publishedOn": "2026-02-05T16:14:21.000Z",
-          "wordCount": 9021,
-          "title": "Swift Pie Menu 2.0 Beta | 最大180ボタンを表示！自由に好きな機能を登録可能！高密度なPieメニューを扱える無料のBlenderアドオン！最新ベータ版が公開！",
-          "enclosure": {
-            "url": "https://3dnchu.com/wp-content/uploads/swift-pie-menu-2-0-beta.webp",
-            "length": "1159408",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://3dnchu.com/wp-content/uploads/swift-pie-menu-2-0-beta.webp"
         }
       ]
     },
@@ -2995,7 +2995,18 @@
       "title": "GLSLタグが付けられた新着記事 - Qiita",
       "feedUrl": "https://qiita.com/tags/glsl/feed",
       "siteUrl": "https://qiita.com",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://qiita.com/mk18/items/859400306e2d3e8d8955",
+          "author": null,
+          "description": "はじめに\nノベルゲームエンジンにポスト処理エフェクトフィルター17種を実装した。PC98風の16色パレット、CRTの走査線、グリッチノイズ、雨のパーティクル——すべて GLSL シェーダーで書き、PixiJS v8 の Filter API に統合した。\nエディタからはド...",
+          "link": "https://qiita.com/mk18/items/859400306e2d3e8d8955",
+          "publishedOn": "2026-03-07T04:08:11.000Z",
+          "wordCount": 2100,
+          "title": "ノベルゲームにGLSLフィルター17種を一括実装した：PC98風からグリッチまで全設計",
+          "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnFpaXRhLWltYWdlLXN0b3JlLnMzLmFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkYwJTJGMTgxNDUlMkZwcm9maWxlLWltYWdlcyUyRjE2NDc5NTU1ODA_aXhsaWI9cmItNC4wLjAmYXI9MSUzQTEmZml0PWNyb3AmbWFzaz1lbGxpcHNlJmJnPUZGRkZGRiZmbT1wbmczMiZzPWI3ODc0NTQ5NzIxMzRmMjQ4ZWY0YTgwZDRkNjZiZDJl%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D3e616073d47f8c1163eda64995c7dfaf?ixlib=rb-4.0.0&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9JUUzJTgzJThFJUUzJTgzJTk5JUUzJTgzJUFCJUUzJTgyJUIyJUUzJTgzJUJDJUUzJTgzJUEwJUUzJTgxJUFCR0xTTCVFMyU4MyU5NSVFMyU4MiVBMyVFMyU4MyVBQiVFMyU4MiVCRiVFMyU4MyVCQzE3JUU3JUE4JUFFJUUzJTgyJTkyJUU0JUI4JTgwJUU2JThCJUFDJUU1JUFFJTlGJUU4JUEzJTg1JUUzJTgxJTk3JUUzJTgxJTlGJUVGJUJDJTlBUEM5OCVFOSVBMiVBOCVFMyU4MSU4QiVFMyU4MiU4OSVFMyU4MiVCMCVFMyU4MyVBQSVFMyU4MyU4MyVFMyU4MyU4MSVFMyU4MSVCRSVFMyU4MSVBNyVFNSU4NSVBOCVFOCVBOCVBRCVFOCVBOCU4OCZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnR4dC1wYWQ9MCZzPTc2ZWIzZTVkOTQ0ZDViNDdiYmM2NmQ3MGRmZTdiMWFm&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBtazE4JnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9Y2U5NWJkOWY5Y2Q4NWY4N2FhZGU4OTNjNzk0YzRmYzU&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=15119a03a33cff3961740655fcf7ca71"
+        }
+      ]
     },
     {
       "title": "Zennの「HLSL」のフィード",
@@ -3680,6 +3691,21 @@
       "siteUrl": "https://cginterest.com",
       "articles": [
         {
+          "id": "https://cginterest.com/?p=56451",
+          "author": ".me",
+          "description": "Jörg GrubmüllerによるBlender用の無料ツール「LimbKit」の紹介です。 LimbKit とは 「LimbKit」は、Blenderで手や足を素早くプロシージャルに作成できるジオメトリノードベースの […]\nBlenderジオメトリノードベースの無料プロシージャル手足モデリングツール「LimbKit」 first appeared on CGinterest.",
+          "link": "https://cginterest.com/2026/03/07/blender%e3%82%b8%e3%82%aa%e3%83%a1%e3%83%88%e3%83%aa%e3%83%8e%e3%83%bc%e3%83%89%e3%83%99%e3%83%bc%e3%82%b9%e3%81%ae%e7%84%a1%e6%96%99%e3%83%97%e3%83%ad%e3%82%b7%e3%83%bc%e3%82%b8%e3%83%a3%e3%83%ab/",
+          "publishedOn": "2026-03-07T01:41:00.000Z",
+          "wordCount": 29410,
+          "title": "Blenderジオメトリノードベースの無料プロシージャル手足モデリングツール「LimbKit」",
+          "enclosure": {
+            "url": "https://cginterest.com/wp-content/uploads/2026/03/20260307-Limbkit-Vertexgroup1.mp4",
+            "length": "350894",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://cginterest.com/wp-content/uploads/2026/03/limbkit.webp"
+        },
+        {
           "id": "https://cginterest.com/?p=56438",
           "author": ".me",
           "description": "2026年3月5日（現地時間）- BorisFX は、- Boris FX は、映像編集者向けの AIを活用した音声修復・補正ツール CrumplePop の新バージョン「CrumplePop 2026」をリリースしまし […]\nCrumplePop 2026がリリース！AI技術を用いた高精度なオーディオ分離機能が搭載 first appeared on CGinterest.",
@@ -4288,16 +4314,6 @@
             "type": "video/mp4"
           },
           "imageUrl": "https://cginterest.com/wp-content/uploads/2026/02/MatPLUSv1_1.webp"
-        },
-        {
-          "id": "https://cginterest.com/?p=55595",
-          "author": ".me",
-          "description": "Unity Asset Store で開催されているフラッシュディールセールの紹介です。 セール概要 このセールでは、厳選されたワールド制作に必要なアセットが最大 70% オフになります。 セール対象アセットは毎日追加さ […]\nワールド制作アセットにぴったりのアセットが最大 70%オフ！Unity Asset Store フラッシュセールが開催！ first appeared on CGinterest.",
-          "link": "https://cginterest.com/2026/02/06/%e3%83%af%e3%83%bc%e3%83%ab%e3%83%89%e5%88%b6%e4%bd%9c%e3%82%a2%e3%82%bb%e3%83%83%e3%83%88%e3%81%ab%e3%81%b4%e3%81%a3%e3%81%9f%e3%82%8a%e3%81%ae%e3%82%a2%e3%82%bb%e3%83%83%e3%83%88%e3%81%8c%e6%9c%80/",
-          "publishedOn": "2026-02-05T15:01:36.000Z",
-          "wordCount": 33105,
-          "title": "ワールド制作アセットにぴったりのアセットが最大 70%オフ！Unity Asset Store フラッシュセールが開催！",
-          "imageUrl": "https://cginterest.com/wp-content/uploads/2026/02/unityassetstore-flashsale2026-2.webp"
         }
       ]
     }

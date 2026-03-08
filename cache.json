@@ -732,6 +732,16 @@
       "siteUrl": "https://cgworld.jp/",
       "articles": [
         {
+          "id": "https://cgworld.jp/flashnews/02-2603-vrc2.html",
+          "author": null,
+          "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
+          "link": "https://cgworld.jp/flashnews/02-2603-vrc2.html",
+          "publishedOn": "2026-03-08T01:16:55.000Z",
+          "wordCount": 745,
+          "title": "VRCくりえいてぃ部、4/12（日）池袋で「出張版！VRCくりえいてぃ部2」開催－VRChat上で活動するクリエイターの交流イベント - ニュース",
+          "imageUrl": "https://cgworld.jp/flashnews/assets_c/2026/03/oQmp_mch-thumb-680x383-80668.jpg"
+        },
+        {
           "id": "https://cgworld.jp/flashnews/01-202603-Spark2.html",
           "author": null,
           "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
@@ -1680,16 +1690,6 @@
           "wordCount": 770,
           "title": "PNGTuberソフト「Diff Motion」リリース！ 最小4枚の画像を用意するだけで音声入力に連動したまばたき＋リップシンクのアニメーションを作成 - ニュース",
           "imageUrl": "https://cgworld.jp/flashnews/assets_c/2026/02/DiffMotion-01-thumb-1920x1080-79643.jpg"
-        },
-        {
-          "id": "https://cgworld.jp/flashnews/01-202602-VIGA.html",
-          "author": null,
-          "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
-          "link": "https://cgworld.jp/flashnews/01-202602-VIGA.html",
-          "publishedOn": "2026-02-06T22:58:43.000Z",
-          "wordCount": 965,
-          "title": "オープンソースのBlender用AIエージェント「VIGA」リリース！ 入力画像を解析し、Blender上で再現可能な実行コードへと変換し実行、物理シミュ＆ライティング込みのシーンを構築 - ニュース",
-          "imageUrl": "https://cgworld.jp/flashnews/assets_c/2026/02/VIGA-01-thumb-1920x1080-79601.jpg"
         }
       ]
     },
@@ -2515,6 +2515,21 @@
       "feedUrl": "https://zenn.dev/topics/shader/feed",
       "siteUrl": "https://zenn.dev/topics/shader",
       "articles": [
+        {
+          "id": "https://zenn.dev/yokamak/books/eb8c19938432d8",
+          "author": "yokamak",
+          "description": "BlenderやAutodesk Mayaを使ってPixar RenderManを使うことができますが、シーンを記述するRIBファイルがどのようになっているか、シーン記述言語RIBを確認・検証していきます。エディタと、ターミナルと、レンダラがあれば、画像を生成できます。基本的な仕組みを理解することで、様々なDCCツールの使い方も身につきます。面倒と思うかもしれませんが、コンピュータグラフィックスに貢献されてきた人たちのレガシー・歴史でもあります。いろいろと体験していくことで、リスペクトできることがあると思います。何かの気づきになれば幸いです。Happy Rendering. ありがとうございます。\n本書は、オープンソースPixie Rendererを使います。\nOSは、WindowsまたはLinux(virtualboxまたはpodmanでレガシーLinuxを使うとレンダリング速いです)で利用できます。Macは対応レンダラについて検証をしておりません。\n本書の続きとして、shaderの使い方をまとめる予定です。",
+          "link": "https://zenn.dev/yokamak/books/eb8c19938432d8",
+          "publishedOn": "2026-03-08T09:47:09.000Z",
+          "wordCount": 235,
+          "title": "17歳からはじめるRenderMan",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--l8n4rhkV--/g_center%2Ch_280%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYm9va19jb3Zlci83ZjYxNzQzNWU2LmpwZWc=%2Cw_200/v1627283836/default/og-base-book_yz4z02.jpg?_a=BACAGSGT",
+            "length": "0",
+            "type": "false"
+          },
+          "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--l8n4rhkV--/g_center%2Ch_280%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYm9va19jb3Zlci83ZjYxNzQzNWU2LmpwZWc=%2Cw_200/v1627283836/default/og-base-book_yz4z02.jpg?_a=BACAGSGT"
+        },
         {
           "id": "https://zenn.dev/mikan0141/articles/89cffe90c15a14",
           "author": "Mikan0141",

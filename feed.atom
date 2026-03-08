@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-03-08T08:19:29.493Z</updated>
+    <updated>2026-03-08T12:26:30.461Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[17歳からはじめるRenderMan]]></title>
+        <id>https://zenn.dev/yokamak/books/eb8c19938432d8</id>
+        <link href="https://zenn.dev/yokamak/books/eb8c19938432d8"/>
+        <updated>2026-03-08T09:47:09.000Z</updated>
+        <summary type="html"><![CDATA[BlenderやAutodesk Mayaを使ってPixar RenderManを使うことができますが、シーンを記述するRIBファイルがどのようになっているか、シーン記述言語RIBを確認・検証していきます。エディタと、ターミナルと、レンダラがあれば、画像を生成できます。基本的な仕組みを理解することで、様々なDCCツールの使い方も身につきます。面倒と思うかもしれませんが、コンピュータグラフィックスに貢献されてきた人たちのレガシー・歴史でもあります。いろいろと体験していくことで、リスペクトできることがあると思います。何かの気づきになれば幸いです。Happy Rendering. ありがとうございます。
+本書は、オープンソースPixie Rendererを使います。
+OSは、WindowsまたはLinux(virtualboxまたはpodmanでレガシーLinuxを使うとレンダリング速いです)で利用できます。Macは対応レンダラについて検証をしておりません。
+本書の続きとして、shaderの使い方をまとめる予定です。]]></summary>
+        <author>
+            <name>yokamak</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【無料アドオン】Import Paint Brushes – ブラシファイルをインポート！]]></title>
         <id>https://cgbox.jp/?p=65112</id>
@@ -14,6 +27,16 @@
         <summary type="html"><![CDATA[こんばんは！ 今回はアドオンの「Import Paint Brushes」を紹介します。 こちらのリンクがアドオンの商品ページになります。 Import Paint Brushes 「Import Paint Brush […]]]></summary>
         <author>
             <name>kasahara</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[VRCくりえいてぃ部、4/12（日）池袋で「出張版！VRCくりえいてぃ部2」開催－VRChat上で活動するクリエイターの交流イベント - ニュース]]></title>
+        <id>https://cgworld.jp/flashnews/02-2603-vrc2.html</id>
+        <link href="https://cgworld.jp/flashnews/02-2603-vrc2.html"/>
+        <updated>2026-03-08T01:16:55.000Z</updated>
+        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
+        <author>
+            <name>CGWORLD</name>
         </author>
     </entry>
     <entry>
@@ -4178,16 +4201,6 @@ GitHub Copilot(...]]></summary>
         <summary type="html"><![CDATA[こんばんは！ 今回はアドオンの「Select Pro」を紹介します。 こちらのリンクがアドオンの商品ページになります。 Select Pro 「Select Pro」は、Select Proは、Blenderのあらゆる選 […]]]></summary>
         <author>
             <name>kasahara</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[オープンソースのBlender用AIエージェント「VIGA」リリース！ 入力画像を解析し、Blender上で再現可能な実行コードへと変換し実行、物理シミュ＆ライティング込みのシーンを構築 - ニュース]]></title>
-        <id>https://cgworld.jp/flashnews/01-202602-VIGA.html</id>
-        <link href="https://cgworld.jp/flashnews/01-202602-VIGA.html"/>
-        <updated>2026-02-06T22:58:43.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
         </author>
     </entry>
 </feed>

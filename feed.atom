@@ -2,16 +2,58 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-03-11T01:06:35.271Z</updated>
+    <updated>2026-03-11T04:26:52.190Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【Unity】エフェクトのインパクトタイミングで画面モノクロ化]]></title>
+        <id>https://zenn.dev/illevell/articles/61828d7f22a862</id>
+        <link href="https://zenn.dev/illevell/articles/61828d7f22a862"/>
+        <updated>2026-03-11T03:39:58.000Z</updated>
+        <summary type="html"><![CDATA[はじめに
+ゲームの必殺技などでインパクトのあるタイミングで画面がモノクロでピカピカするやつがかっこよくて実現したかったので、自分なりにやってみたものの備忘録。
+記事の書き方は勉強中。
+↓最終結果（エフェクトはブルーアーカイブの模倣）
+
+
+ 1.ShaderGraphの作成
+画面全体にかけるのでFullScreen用のシェーダーを作成する
+
+エフェクトも描画するためにURPSamplerBufferで「BlitSource」を取得
+DotProductで画面のモノクロ化
+あとでタイミングの制御に使うための「Invert」プロパティをLerpで管理
+ここまでだけだとぼやっとしていたのでP...]]></summary>
+        <author>
+            <name>illevell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[求人情報 IMAGICA GEEQ]]></title>
+        <id>https://area.autodesk.jp/jobs/imagica-geeq/</id>
+        <link href="https://area.autodesk.jp/jobs/imagica-geeq/"/>
+        <updated>2026-03-11T02:00:00.000Z</updated>
+        <summary type="html"><![CDATA[会社紹介 	 	IMAGICA GEEQ（イマジカジーク）は、IMAGICA GROUPにおけるゲーム関連事業を担う事業会社として設立されました。お客様に高品質で信頼のEnd to Endサービスを提供することにより、期待を超える顧客価値を創造し、グローバルなゲーム事業領域で進化することを目指しています。 	 		 			オートデスク製品について ...・・・]]></summary>
+        <author>
+            <name>AREA JAPAN | Autodesk</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【特集一部転載】初学者のためのファッション用語解説〜パターン／ダーツ／フレア - 特集]]></title>
         <id>https://cgworld.jp/article/202603-fashion-1.html</id>
         <link href="https://cgworld.jp/article/202603-fashion-1.html"/>
         <updated>2026-03-11T01:30:00.000Z</updated>
         <summary type="html"><![CDATA[パターン 服を立体的につくるための設計図をパターンという。服は最初から立体とし...]]></summary>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Shateiel氏、MetaHuman DNAアドオンを使ってBlenderでMetaHumanを活用するワークフローを公開！ プロジェクトファイル無償配布 - ニュース]]></title>
+        <id>https://cgworld.jp/flashnews/01-202603-MetaHuman-Blender.html</id>
+        <link href="https://cgworld.jp/flashnews/01-202603-MetaHuman-Blender.html"/>
+        <updated>2026-03-11T00:58:17.000Z</updated>
+        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
         <author>
             <name>CGWORLD</name>
         </author>
@@ -4079,16 +4121,6 @@ Boris FX Sequoia 2026 がリリース！新しいビデオエンジン搭載、�
         <updated>2026-02-09T21:10:00.000Z</updated>
         <author>
             <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dræm Sequence 3D Community Challenge - Clinton Jones氏によるCGチャレンジ！2026年1回目が開催！テンプレートカメラと提供されるビートに同期した独自のCG作品を制作！豪華賞品あり！Marvelous Designerなどのライセンスが1ヶ月間無料！]]></title>
-        <id>https://3dnchu.com/?p=1061988</id>
-        <link href="https://3dnchu.com/archives/draem-sequence/"/>
-        <updated>2026-02-09T15:13:26.000Z</updated>
-        <summary type="html"><![CDATA[数多くのユニークなチャレンジを開催している事でお馴染みVFXアーティストClinton Jones氏（@_Pwnisher_）が、2026年第1回目となる新コンテストを開催しております！『Dræm Sequence（夢のシークエンス）』です。前回同様、今回も賞品付きの大規模な3Dコミュニティレンダリングチャレンジとなっております。]]></summary>
-        <author>
-            <name>Ymt3D -3dnchu-</name>
         </author>
     </entry>
 </feed>

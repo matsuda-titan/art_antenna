@@ -683,21 +683,6 @@
             "type": "video/mp4"
           },
           "imageUrl": "https://3dnchu.com/wp-content/uploads/Top-3D-AI.webp"
-        },
-        {
-          "id": "https://3dnchu.com/?p=1061988",
-          "author": "Ymt3D -3dnchu-",
-          "description": "数多くのユニークなチャレンジを開催している事でお馴染みVFXアーティストClinton Jones氏（@_Pwnisher_）が、2026年第1回目となる新コンテストを開催しております！『Dræm Sequence（夢のシークエンス）』です。前回同様、今回も賞品付きの大規模な3Dコミュニティレンダリングチャレンジとなっております。",
-          "link": "https://3dnchu.com/archives/draem-sequence/",
-          "publishedOn": "2026-02-09T15:13:26.000Z",
-          "wordCount": 9227,
-          "title": "Dræm Sequence 3D Community Challenge - Clinton Jones氏によるCGチャレンジ！2026年1回目が開催！テンプレートカメラと提供されるビートに同期した独自のCG作品を制作！豪華賞品あり！Marvelous Designerなどのライセンスが1ヶ月間無料！",
-          "enclosure": {
-            "url": "https://3dnchu.com/wp-content/uploads/draem-sequence.webp",
-            "length": "1262882",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://3dnchu.com/wp-content/uploads/draem-sequence.webp"
         }
       ]
     },
@@ -715,6 +700,16 @@
           "wordCount": 765,
           "title": "【特集一部転載】初学者のためのファッション用語解説〜パターン／ダーツ／フレア - 特集",
           "imageUrl": "https://cgworld.jp/article/assets_c/2026/02/202603-fashion_b3-thumb-1000x689-80281.jpg"
+        },
+        {
+          "id": "https://cgworld.jp/flashnews/01-202603-MetaHuman-Blender.html",
+          "author": null,
+          "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
+          "link": "https://cgworld.jp/flashnews/01-202603-MetaHuman-Blender.html",
+          "publishedOn": "2026-03-11T00:58:17.000Z",
+          "wordCount": 785,
+          "title": "Shateiel氏、MetaHuman DNAアドオンを使ってBlenderでMetaHumanを活用するワークフローを公開！ プロジェクトファイル無償配布 - ニュース",
+          "imageUrl": "https://cgworld.jp/flashnews/assets_c/2026/03/Blender_Metahuman-01-thumb-1920x1080-80912.jpg"
         },
         {
           "id": "https://cgworld.jp/article/202603-marza-4.html",
@@ -2620,6 +2615,21 @@
       "siteUrl": "https://zenn.dev/topics/shadergraph",
       "articles": [
         {
+          "id": "https://zenn.dev/illevell/articles/61828d7f22a862",
+          "author": "illevell",
+          "description": "はじめに\nゲームの必殺技などでインパクトのあるタイミングで画面がモノクロでピカピカするやつがかっこよくて実現したかったので、自分なりにやってみたものの備忘録。\n記事の書き方は勉強中。\n↓最終結果（エフェクトはブルーアーカイブの模倣）\n\n\n 1.ShaderGraphの作成\n画面全体にかけるのでFullScreen用のシェーダーを作成する\n\nエフェクトも描画するためにURPSamplerBufferで「BlitSource」を取得\nDotProductで画面のモノクロ化\nあとでタイミングの制御に使うための「Invert」プロパティをLerpで管理\nここまでだけだとぼやっとしていたのでP...",
+          "link": "https://zenn.dev/illevell/articles/61828d7f22a862",
+          "publishedOn": "2026-03-11T03:39:58.000Z",
+          "wordCount": 430,
+          "title": "【Unity】エフェクトのインパクトタイミングで画面モノクロ化",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--UD7s0oPs--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2580%2590Unity%25E3%2580%2591%25E3%2582%25A8%25E3%2583%2595%25E3%2582%25A7%25E3%2582%25AF%25E3%2583%2588%25E3%2581%25AE%25E3%2582%25A4%25E3%2583%25B3%25E3%2583%2591%25E3%2582%25AF%25E3%2583%2588%25E3%2582%25BF%25E3%2582%25A4%25E3%2583%259F%25E3%2583%25B3%25E3%2582%25B0%25E3%2581%25A7%25E7%2594%25BB%25E9%259D%25A2%25E3%2583%25A2%25E3%2583%258E%25E3%2582%25AF%25E3%2583%25AD%25E5%258C%2596%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:illevell%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2RjMGZjZDIxMGUuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
+            "length": "0",
+            "type": "false"
+          },
+          "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--UD7s0oPs--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2580%2590Unity%25E3%2580%2591%25E3%2582%25A8%25E3%2583%2595%25E3%2582%25A7%25E3%2582%25AF%25E3%2583%2588%25E3%2581%25AE%25E3%2582%25A4%25E3%2583%25B3%25E3%2583%2591%25E3%2582%25AF%25E3%2583%2588%25E3%2582%25BF%25E3%2582%25A4%25E3%2583%259F%25E3%2583%25B3%25E3%2582%25B0%25E3%2581%25A7%25E7%2594%25BB%25E9%259D%25A2%25E3%2583%25A2%25E3%2583%258E%25E3%2582%25AF%25E3%2583%25AD%25E5%258C%2596%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:illevell%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2RjMGZjZDIxMGUuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"
+        },
+        {
           "id": "https://zenn.dev/tutupizizizi/articles/ue-unity-shortcut-guide-shadergraph",
           "author": "あの鳥",
           "description": "UEに染まった手は、そう簡単にUnityに馴染まない\nUEのマテリアルエディタで何年もやってると、手が勝手に動くようになる。\nT押してTexture Sample。M押してMultiply。L押してLerp。\nノード名もショートカットも全部身体に入ってる状態で、ある日Unityを開いた。\nShader Graphを開いて、右クリック。\n「Sample Texture 2D……？ TextureSampleどこ？？」\n名前が違う。操作が違う。ノードの分類が違う。UEで「ComponentMask」って呼んでたやつが「Split」になってる。ンンンンなああああ！！！！！（発狂）\nこれ、U...",
@@ -2997,6 +3007,16 @@
       "feedUrl": "https://area.autodesk.jp/rss.xml",
       "siteUrl": "https://area.autodesk.jp/",
       "articles": [
+        {
+          "id": "https://area.autodesk.jp/jobs/imagica-geeq/",
+          "author": null,
+          "description": "会社紹介 \t \tIMAGICA GEEQ（イマジカジーク）は、IMAGICA GROUPにおけるゲーム関連事業を担う事業会社として設立されました。お客様に高品質で信頼のEnd to Endサービスを提供することにより、期待を超える顧客価値を創造し、グローバルなゲーム事業領域で進化することを目指しています。 \t \t\t \t\t\tオートデスク製品について ...・・・",
+          "link": "https://area.autodesk.jp/jobs/imagica-geeq/",
+          "publishedOn": "2026-03-11T02:00:00.000Z",
+          "wordCount": 270,
+          "title": "求人情報 IMAGICA GEEQ",
+          "imageUrl": "https://area.autodesk.jp/jobs/assets_c/2024/02/ic_jobs_imagica_geeq_1200x670-thumb-1200xauto-5405.png"
+        },
         {
           "id": "https://area.autodesk.jp/event/animation-days-2026/",
           "author": null,

@@ -2,10 +2,59 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-03-11T08:28:34.336Z</updated>
+    <updated>2026-03-11T12:36:09.236Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【Unity】「なんとなく」を卒業する。4種類のブラーシェーダーの処理を紐解いてみた。]]></title>
+        <id>https://zenn.dev/zero_0r0/articles/c26827e7aa5e81</id>
+        <link href="https://zenn.dev/zero_0r0/articles/c26827e7aa5e81"/>
+        <updated>2026-03-11T10:00:05.000Z</updated>
+        <summary type="html"><![CDATA[はじめに
+
+Unityで映像制作やゲーム開発をしているとよくある「ぼかし（ブラー）」の表現ですが、『アセット等で使ってはいるものの、処理の中身はなんとなくしか知らない』『用途に合わせて適切なブラーを選べるようになりたい』といった方に向けて、今回はシェーダーにおけるブラーの仕組みを基礎から紐解いていこうと思います。
+ちなみに自分もシェーダー表現に関して詳しくはない為、ちゃんと調べるまで「なんか色混ぜてるんでしょ？」とか「畳み込みってやつやってるんでしょ？」くらいしか思ってなかったので、読んでいる方も一緒に学んでいきましょう。
+筆者のプロフィール
+
+1社目：ソーシャルゲーム開発（7年半）...]]></summary>
+        <author>
+            <name>ゼロ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【Houdini】Wrangleを学ぶ④]]></title>
+        <id>https://3d.crdg.jp/env/?p=8815</id>
+        <link href="https://3d.crdg.jp/env/2026/03/11/8815/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=%25e3%2580%2590houdini%25e3%2580%2591wrangle%25e3%2582%2592%25e5%25ad%25a6%25e3%2581%25b6%25e2%2591%25a3"/>
+        <updated>2026-03-11T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[今記事の目的： マスクを使用して地形を任意の形状に調整、任意の箇所にマスクを作成する方法を試してみたいと思います。 基本セットアップ ノイズのスケール […]
+続きを読む
+投稿 【Houdini】Wrangleを学ぶ④ は エンホリ - ENVIRONMENT HOLIC｜C&R Creative Studios に最初に表示されました。]]></summary>
+        <author>
+            <name>Makito.Noguchi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[新入社員必見！人気講座『背景モデリング講座～背景に必要な空間要素と意味のある背景作り～』が4月21日にオンライン配信 - ニュース]]></title>
+        <id>https://cgworld.jp/flashnews/2604-plusone-suzuki.html</id>
+        <link href="https://cgworld.jp/flashnews/2604-plusone-suzuki.html"/>
+        <updated>2026-03-11T09:57:00.000Z</updated>
+        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Adobe、Photoshop Web/モバイル版に「AIアシスタント」を提供開始！Firefly画像エディターのアップデートも発表！]]></title>
+        <id>https://cginterest.com/?p=56550</id>
+        <link href="https://cginterest.com/2026/03/11/adobe%e3%80%81photoshop-web-%e3%83%a2%e3%83%90%e3%82%a4%e3%83%ab%e7%89%88%e3%81%ab%e3%80%8cai%e3%82%a2%e3%82%b7%e3%82%b9%e3%82%bf%e3%83%b3%e3%83%88%e3%80%8d%e3%82%92%e6%8f%90%e4%be%9b%e9%96%8b/"/>
+        <updated>2026-03-11T08:30:53.000Z</updated>
+        <summary type="html"><![CDATA[2026年3月11日- Adobe 、Adobe PhotoshopのWeb版およびモバイル版において、新機能となる「AIアシスタント」のパブリックベータ版を提供開始したことを発表しました。 また同時に、AI画像生成ツー […]
+Adobe、Photoshop Web/モバイル版に「AIアシスタント」を提供開始！Firefly画像エディターのアップデートも発表！ first appeared on CGinterest.]]></summary>
+        <author>
+            <name>.me</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[人体のポーズやアナトミー確認に便利な3Dリファレンスツール「HAELE 3D – Pose Studio Max」Steamストアページ公開]]></title>
         <id>https://modelinghappy.com/?p=67563</id>
@@ -4163,36 +4212,6 @@ The post シリーズ最新作！ 映画『ミニオンズ＆モンスターズ�
         <summary type="html"><![CDATA[私北海道出身でして、よく東京の方に「北海道の人は東京の冬なんて寒くないでしょ？」と言われるのですが、そんなことはございません。そもそも北海道にいた時は今よりずっと厚着していましたから、外気に直接触れる部分以外の体感温度は東京も北海道もそれほど変わらないのでは？と思ってしまいます。・・・]]></summary>
         <author>
             <name>AREA JAPAN | Autodesk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Boris FX Sequoia 2026 がリリース！新しいビデオエンジン搭載、映像制作との連携強化や外部コントロールの柔軟性向上など]]></title>
-        <id>https://cginterest.com/?p=55675</id>
-        <link href="https://cginterest.com/2026/02/10/boris-fx-sequoia-2026-%e3%81%8c%e3%83%aa%e3%83%aa%e3%83%bc%e3%82%b9%ef%bc%81%e6%96%b0%e3%81%97%e3%81%84%e3%83%93%e3%83%87%e3%82%aa%e3%82%a8%e3%83%b3%e3%82%b8%e3%83%b3%e6%90%ad%e8%bc%89%e3%80%81/"/>
-        <updated>2026-02-09T23:03:00.000Z</updated>
-        <summary type="html"><![CDATA[Boris FXは、ハイエンドDAWソフトウェア「Sequoia」の最新バージョンとなる「Sequoia 2026」をリリースしました。 主な新機能 放送局やマスタリングスタジオなど、絶対的な安定性と精度が求められる現場 […]
-Boris FX Sequoia 2026 がリリース！新しいビデオエンジン搭載、映像制作との連携強化や外部コントロールの柔軟性向上など first appeared on CGinterest.]]></summary>
-        <author>
-            <name>.me</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Unity用のリアルタイムガラスシェーダのチュートリアル公開！ Unity 6.2、URP向けの屈折表現の実装方法を解説 - ニュース]]></title>
-        <id>https://cgworld.jp/flashnews/01-202602-Unity-GlassShader.html</id>
-        <link href="https://cgworld.jp/flashnews/01-202602-Unity-GlassShader.html"/>
-        <updated>2026-02-09T22:10:45.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[#17：服飾理論×CG技術 脱初心者向けバイブル！ 『Marvelous Designer ネクストレベル』 - 連載]]></title>
-        <id>https://cgworld.jp/regular/202602-cgw331-book.html</id>
-        <link href="https://cgworld.jp/regular/202602-cgw331-book.html"/>
-        <updated>2026-02-09T21:10:00.000Z</updated>
-        <author>
-            <name>CGWORLD</name>
         </author>
     </entry>
 </feed>

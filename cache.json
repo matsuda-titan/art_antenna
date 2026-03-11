@@ -707,6 +707,16 @@
       "siteUrl": "https://cgworld.jp/",
       "articles": [
         {
+          "id": "https://cgworld.jp/flashnews/2604-plusone-suzuki.html",
+          "author": null,
+          "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
+          "link": "https://cgworld.jp/flashnews/2604-plusone-suzuki.html",
+          "publishedOn": "2026-03-11T09:57:00.000Z",
+          "wordCount": 746,
+          "title": "新入社員必見！人気講座『背景モデリング講座～背景に必要な空間要素と意味のある背景作り～』が4月21日にオンライン配信 - ニュース",
+          "imageUrl": "https://cgworld.jp/flashnews/assets_c/2026/03/suzuki_main_new-thumb-1000x563-76892-thumb-1000x563-80884.jpg"
+        },
+        {
           "id": "https://cgworld.jp/flashnews/02-2603-dena.html",
           "author": null,
           "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
@@ -1745,26 +1755,6 @@
           "wordCount": 805,
           "title": "『あんスタ！！』 マスターピースMV／MELLOW DEAR US「Dear World」／No.2：飛行機ステージの意外性が引き出す、ファンの熱量 - 特集",
           "imageUrl": "https://cgworld.jp/article/assets_c/2026/01/202602-mellow_a2-thumb-1000x563-79134.jpg"
-        },
-        {
-          "id": "https://cgworld.jp/flashnews/01-202602-Unity-GlassShader.html",
-          "author": null,
-          "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
-          "link": "https://cgworld.jp/flashnews/01-202602-Unity-GlassShader.html",
-          "publishedOn": "2026-02-09T22:10:45.000Z",
-          "wordCount": 936,
-          "title": "Unity用のリアルタイムガラスシェーダのチュートリアル公開！ Unity 6.2、URP向けの屈折表現の実装方法を解説 - ニュース",
-          "imageUrl": "https://cgworld.jp/flashnews/assets_c/2026/02/Unity_GlassShader-01-thumb-1920x1080-79742.jpg"
-        },
-        {
-          "id": "https://cgworld.jp/regular/202602-cgw331-book.html",
-          "author": null,
-          "description": "",
-          "link": "https://cgworld.jp/regular/202602-cgw331-book.html",
-          "publishedOn": "2026-02-09T21:10:00.000Z",
-          "wordCount": 823,
-          "title": "#17：服飾理論×CG技術 脱初心者向けバイブル！ 『Marvelous Designer ネクストレベル』 - 連載",
-          "imageUrl": "https://cgworld.jp/regular/assets_c/2026/02/e2bcd0f20dfffaa20bdf8b287da1d0ef4ccb94e4-thumb-1000x563-79549.jpg"
         }
       ]
     },
@@ -2630,6 +2620,21 @@
       "feedUrl": "https://zenn.dev/topics/shader/feed",
       "siteUrl": "https://zenn.dev/topics/shader",
       "articles": [
+        {
+          "id": "https://zenn.dev/zero_0r0/articles/c26827e7aa5e81",
+          "author": "ゼロ",
+          "description": "はじめに\n\nUnityで映像制作やゲーム開発をしているとよくある「ぼかし（ブラー）」の表現ですが、『アセット等で使ってはいるものの、処理の中身はなんとなくしか知らない』『用途に合わせて適切なブラーを選べるようになりたい』といった方に向けて、今回はシェーダーにおけるブラーの仕組みを基礎から紐解いていこうと思います。\nちなみに自分もシェーダー表現に関して詳しくはない為、ちゃんと調べるまで「なんか色混ぜてるんでしょ？」とか「畳み込みってやつやってるんでしょ？」くらいしか思ってなかったので、読んでいる方も一緒に学んでいきましょう。\n筆者のプロフィール\n\n1社目：ソーシャルゲーム開発（7年半）...",
+          "link": "https://zenn.dev/zero_0r0/articles/c26827e7aa5e81",
+          "publishedOn": "2026-03-11T10:00:05.000Z",
+          "wordCount": 2534,
+          "title": "【Unity】「なんとなく」を卒業する。4種類のブラーシェーダーの処理を紐解いてみた。",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--cn-i5vVS--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2580%2590Unity%25E3%2580%2591%25E3%2580%258C%25E3%2581%25AA%25E3%2582%2593%25E3%2581%25A8%25E3%2581%25AA%25E3%2581%258F%25E3%2580%258D%25E3%2582%2592%25E5%258D%2592%25E6%25A5%25AD%25E3%2581%2599%25E3%2582%258B%25E3%2580%25824%25E7%25A8%25AE%25E9%25A1%259E%25E3%2581%25AE%25E3%2583%2596%25E3%2583%25A9%25E3%2583%25BC%25E3%2582%25B7%25E3%2582%25A7%25E3%2583%25BC%25E3%2583%2580%25E3%2583%25BC%25E3%2581%25AE%25E5%2587%25A6%25E7%2590%2586%25E3%2582%2592%25E7%25B4%2590%25E8%25A7%25A3%25E3%2581%2584%25E3%2581%25A6%25E3%2581%25BF%25E3%2581%259F%25E3%2580%2582%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2582%25BC%25E3%2583%25AD%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2U5NGY3YjdiYTAuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
+            "length": "0",
+            "type": "false"
+          },
+          "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--cn-i5vVS--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2580%2590Unity%25E3%2580%2591%25E3%2580%258C%25E3%2581%25AA%25E3%2582%2593%25E3%2581%25A8%25E3%2581%25AA%25E3%2581%258F%25E3%2580%258D%25E3%2582%2592%25E5%258D%2592%25E6%25A5%25AD%25E3%2581%2599%25E3%2582%258B%25E3%2580%25824%25E7%25A8%25AE%25E9%25A1%259E%25E3%2581%25AE%25E3%2583%2596%25E3%2583%25A9%25E3%2583%25BC%25E3%2582%25B7%25E3%2582%25A7%25E3%2583%25BC%25E3%2583%2580%25E3%2583%25BC%25E3%2581%25AE%25E5%2587%25A6%25E7%2590%2586%25E3%2582%2592%25E7%25B4%2590%25E8%25A7%25A3%25E3%2581%2584%25E3%2581%25A6%25E3%2581%25BF%25E3%2581%259F%25E3%2580%2582%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2582%25BC%25E3%2583%25AD%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2U5NGY3YjdiYTAuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"
+        },
         {
           "id": "https://zenn.dev/yokamak/books/eb8c19938432d8",
           "author": "yokamak",
@@ -3624,6 +3629,16 @@
       "siteUrl": "https://3d.crdg.jp/env/",
       "articles": [
         {
+          "id": "https://3d.crdg.jp/env/?p=8815",
+          "author": "Makito.Noguchi",
+          "description": "今記事の目的： マスクを使用して地形を任意の形状に調整、任意の箇所にマスクを作成する方法を試してみたいと思います。 基本セットアップ ノイズのスケール […]\n続きを読む\n投稿 【Houdini】Wrangleを学ぶ④ は エンホリ - ENVIRONMENT HOLIC｜C&R Creative Studios に最初に表示されました。",
+          "link": "https://3d.crdg.jp/env/2026/03/11/8815/?utm_source=rss&utm_medium=rss&utm_campaign=%25e3%2580%2590houdini%25e3%2580%2591wrangle%25e3%2582%2592%25e5%25ad%25a6%25e3%2581%25b6%25e2%2591%25a3",
+          "publishedOn": "2026-03-11T10:00:00.000Z",
+          "wordCount": 3287,
+          "title": "【Houdini】Wrangleを学ぶ④",
+          "imageUrl": "https://3d.crdg.jp/env/wp-content/uploads/2025/11/アイキャッチ画像_Houdini_251130.png"
+        },
+        {
           "id": "https://3d.crdg.jp/env/?p=9272",
           "author": "Hisako.Nishimura",
           "description": "Substance Painterでひととおりマテリアルを作成した後、全体の色調補正やRoughnessの調整をしたい場合があると思います。そんなとき […]\n続きを読む\n投稿 【Substance Painter】Passthroughで全体調整用のレイヤーを作る は エンホリ - ENVIRONMENT HOLIC｜C&R Creative Studios に最初に表示されました。",
@@ -3690,6 +3705,21 @@
       "feedUrl": "https://cginterest.com/feed/",
       "siteUrl": "https://cginterest.com",
       "articles": [
+        {
+          "id": "https://cginterest.com/?p=56550",
+          "author": ".me",
+          "description": "2026年3月11日- Adobe 、Adobe PhotoshopのWeb版およびモバイル版において、新機能となる「AIアシスタント」のパブリックベータ版を提供開始したことを発表しました。 また同時に、AI画像生成ツー […]\nAdobe、Photoshop Web/モバイル版に「AIアシスタント」を提供開始！Firefly画像エディターのアップデートも発表！ first appeared on CGinterest.",
+          "link": "https://cginterest.com/2026/03/11/adobe%e3%80%81photoshop-web-%e3%83%a2%e3%83%90%e3%82%a4%e3%83%ab%e7%89%88%e3%81%ab%e3%80%8cai%e3%82%a2%e3%82%b7%e3%82%b9%e3%82%bf%e3%83%b3%e3%83%88%e3%80%8d%e3%82%92%e6%8f%90%e4%be%9b%e9%96%8b/",
+          "publishedOn": "2026-03-11T08:30:53.000Z",
+          "wordCount": 29414,
+          "title": "Adobe、Photoshop Web/モバイル版に「AIアシスタント」を提供開始！Firefly画像エディターのアップデートも発表！",
+          "enclosure": {
+            "url": "https://cginterest.com/wp-content/uploads/2026/03/Ai-Markup-1.5X.mp4",
+            "length": "279616",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://cginterest.com/wp-content/uploads/2026/03/Phtoshopweb-aiassistant-1.webp"
+        },
         {
           "id": "https://cginterest.com/?p=56536",
           "author": ".me",
@@ -4334,16 +4364,6 @@
           "wordCount": 29720,
           "title": "Khronosグループ、glTF向けの「Gaussian Splatting」拡張機能のリリース候補を発表",
           "imageUrl": "https://cginterest.com/wp-content/uploads/2026/02/gltfkhrgaussiansplatting.webp"
-        },
-        {
-          "id": "https://cginterest.com/?p=55675",
-          "author": ".me",
-          "description": "Boris FXは、ハイエンドDAWソフトウェア「Sequoia」の最新バージョンとなる「Sequoia 2026」をリリースしました。 主な新機能 放送局やマスタリングスタジオなど、絶対的な安定性と精度が求められる現場 […]\nBoris FX Sequoia 2026 がリリース！新しいビデオエンジン搭載、映像制作との連携強化や外部コントロールの柔軟性向上など first appeared on CGinterest.",
-          "link": "https://cginterest.com/2026/02/10/boris-fx-sequoia-2026-%e3%81%8c%e3%83%aa%e3%83%aa%e3%83%bc%e3%82%b9%ef%bc%81%e6%96%b0%e3%81%97%e3%81%84%e3%83%93%e3%83%87%e3%82%aa%e3%82%a8%e3%83%b3%e3%82%b8%e3%83%b3%e6%90%ad%e8%bc%89%e3%80%81/",
-          "publishedOn": "2026-02-09T23:03:00.000Z",
-          "wordCount": 32220,
-          "title": "Boris FX Sequoia 2026 がリリース！新しいビデオエンジン搭載、映像制作との連携強化や外部コントロールの柔軟性向上など",
-          "imageUrl": "https://cginterest.com/wp-content/uploads/2026/02/sequoia2026.webp"
         }
       ]
     }

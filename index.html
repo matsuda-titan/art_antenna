@@ -361,8 +361,8 @@ footer {
             data-action="toggle-accordions"
             title="Click to toggle the day, Ctrl + click to toggle all."
           >
-            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2026-03-11 datetime="2026-03-11T07:45:26.000Z">2026-03-11</time>
-            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2026-03-11 datetime="2026-03-11T07:45:26.000Z"></time>
+            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2026-03-11 datetime="2026-03-11T10:00:05.000Z">2026-03-11</time>
+            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2026-03-11 datetime="2026-03-11T10:00:05.000Z"></time>
           </button>
         </h2>
         <ul class="sources card">
@@ -373,25 +373,66 @@ footer {
                     class="source-heading__name"
                     data-action="toggle-accordions"
                     title="Click to toggle the source, Ctrl + click to toggle all."
-                  >3DCG最新情報サイト MODELING HAPPY</button>
-                  <a class="source-heading__link" href="https://modelinghappy.com">Open</a>
+                  >Zennの「shader」のフィード</button>
+                  <a class="source-heading__link" href="https://zenn.dev/topics/shader">Open</a>
                 </h3>
                 <section class="articles-per-source">
                     <article>
                       <details
                         class="article-expander"
                         data-action="toggle-native-accordion"
-                        data-accordion-key="https://modelinghappy.com/?p&#x3D;67563"
+                        data-accordion-key="https://zenn.dev/zero_0r0/articles/c26827e7aa5e81"
                         open
                       >
-                        <summary class="article-expander__title">人体のポーズやアナトミー確認に便利な3Dリファレンスツール「HAELE 3D – Pose Studio Max」Steamストアページ公開</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://modelinghappy.com/archives/67563">
+                        <summary class="article-expander__title">【Unity】「なんとなく」を卒業する。4種類のブラーシェーダーの処理を紐解いてみた。</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://zenn.dev/zero_0r0/articles/c26827e7aa5e81">
                           <div class="article-summary-box-inner media-object">
-                              <img src="https://modelinghappy.com/wp-content/uploads/2026/03/20260311_HAELE_3D_01.jpg" loading="lazy" class="media-object__media article-image" />
+                              <img src="https://res.cloudinary.com/zenn/image/upload/s--cn-i5vVS--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2580%2590Unity%25E3%2580%2591%25E3%2580%258C%25E3%2581%25AA%25E3%2582%2593%25E3%2581%25A8%25E3%2581%25AA%25E3%2581%258F%25E3%2580%258D%25E3%2582%2592%25E5%258D%2592%25E6%25A5%25AD%25E3%2581%2599%25E3%2582%258B%25E3%2580%25824%25E7%25A8%25AE%25E9%25A1%259E%25E3%2581%25AE%25E3%2583%2596%25E3%2583%25A9%25E3%2583%25BC%25E3%2582%25B7%25E3%2582%25A7%25E3%2583%25BC%25E3%2583%2580%25E3%2583%25BC%25E3%2581%25AE%25E5%2587%25A6%25E7%2590%2586%25E3%2582%2592%25E7%25B4%2590%25E8%25A7%25A3%25E3%2581%2584%25E3%2581%25A6%25E3%2581%25BF%25E3%2581%259F%25E3%2580%2582%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2582%25BC%25E3%2583%25AD%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2U5NGY3YjdiYTAuanBlZw&#x3D;&#x3D;%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a&#x3D;BACAGSGT" loading="lazy" class="media-object__media article-image" />
                             <span class="media-object__text">
-                              <span>HAELE 3D #8211; ポーズスタジオ Max #8211; 解剖学作画リファレンス 人物の手足に顔などを自由に配置、ライティングしてアーティスト向けの資料用ソフトとして人気のHAELE 3Dに、初心者から上
-The post 人体のポーズやアナトミー確認に便利な3Dリファレンスツール「HAELE 3D – Pose Studio Max」Steamストアページ公開 first appeared on 3DCG最新情報サイト MODELING HAPPY.</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;12
+                              <span>はじめに
+
+Unityで映像制作やゲーム開発をしているとよくある「ぼかし（ブラー）」の表現ですが、『アセット等で使ってはいるものの、処理の中身はなんとなくしか知らない』『用途に合わせて適切なブラーを選べるようになりたい』といった方に向けて、今回はシェーダーにおけるブラーの仕組みを基礎から紐解いていこうと思います。
+ちなみに自分もシェーダー表現に関して詳しくはない為、ちゃんと調べるまで「なんか色混ぜてるんでしょ？」とか「畳み込みってやつやってるんでしょ？」くらいしか思ってなかったので、読んでいる方も一緒に学んでいきましょう。
+筆者のプロフィール
+
+1社目：ソーシャルゲーム開発（7年半）...</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;8
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >エンホリ – ENVIRONMENT HOLIC｜C&amp;R Creative Studios</button>
+                  <a class="source-heading__link" href="https://3d.crdg.jp/env/">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://3d.crdg.jp/env/?p&#x3D;8815"
+                        open
+                      >
+                        <summary class="article-expander__title">【Houdini】Wrangleを学ぶ④</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://3d.crdg.jp/env/2026/03/11/8815/?utm_source&#x3D;rss&amp;utm_medium&#x3D;rss&amp;utm_campaign&#x3D;%25e3%2580%2590houdini%25e3%2580%2591wrangle%25e3%2582%2592%25e5%25ad%25a6%25e3%2581%25b6%25e2%2591%25a3">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://3d.crdg.jp/env/wp-content/uploads/2025/11/アイキャッチ画像_Houdini_251130.png" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>今記事の目的： マスクを使用して地形を任意の形状に調整、任意の箇所にマスクを作成する方法を試してみたいと思います。 基本セットアップ ノイズのスケール […]
+続きを読む
+投稿 【Houdini】Wrangleを学ぶ④ は エンホリ - ENVIRONMENT HOLIC｜C&amp;R Creative Studios に最初に表示されました。</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;11
                                   min&hairsp;)</span>
                             </span>
                           </div>
@@ -412,6 +453,26 @@ The post 人体のポーズやアナトミー確認に便利な3Dリファレン
                   <a class="source-heading__link" href="https://cgworld.jp/">Open</a>
                 </h3>
                 <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://cgworld.jp/flashnews/2604-plusone-suzuki.html"
+                        open
+                      >
+                        <summary class="article-expander__title">新入社員必見！人気講座『背景モデリング講座～背景に必要な空間要素と意味のある背景作り～』が4月21日にオンライン配信 - ニュース</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://cgworld.jp/flashnews/2604-plusone-suzuki.html">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://cgworld.jp/flashnews/assets_c/2026/03/suzuki_main_new-thumb-1000x563-76892-thumb-1000x563-80884.jpg" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;2
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
                     <article>
                       <details
                         class="article-expander"
@@ -506,6 +567,97 @@ The post 人体のポーズやアナトミー確認に便利な3Dリファレン
                             <span class="media-object__text">
                               <span>月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。</span>
                                 &ensp;<span class="article-reading-time">(&hairsp;3
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >CGinterest</button>
+                  <a class="source-heading__link" href="https://cginterest.com">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://cginterest.com/?p&#x3D;56550"
+                        open
+                      >
+                        <summary class="article-expander__title">Adobe、Photoshop Web/モバイル版に「AIアシスタント」を提供開始！Firefly画像エディターのアップデートも発表！</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://cginterest.com/2026/03/11/adobe%e3%80%81photoshop-web-%e3%83%a2%e3%83%90%e3%82%a4%e3%83%ab%e7%89%88%e3%81%ab%e3%80%8cai%e3%82%a2%e3%82%b7%e3%82%b9%e3%82%bf%e3%83%b3%e3%83%88%e3%80%8d%e3%82%92%e6%8f%90%e4%be%9b%e9%96%8b/">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://cginterest.com/wp-content/uploads/2026/03/Phtoshopweb-aiassistant-1.webp" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>2026年3月11日- Adobe 、Adobe PhotoshopのWeb版およびモバイル版において、新機能となる「AIアシスタント」のパブリックベータ版を提供開始したことを発表しました。 また同時に、AI画像生成ツー […]
+Adobe、Photoshop Web/モバイル版に「AIアシスタント」を提供開始！Firefly画像エディターのアップデートも発表！ first appeared on CGinterest.</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;98
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://cginterest.com/?p&#x3D;56536"
+                        open
+                      >
+                        <summary class="article-expander__title">Substance 3D Painter 12.0 がリリース！レイヤーのフラット化、表面に沿った投影モード、ポストプロセスエフェクトの刷新など！</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://cginterest.com/2026/03/11/substance-3d-painter-12-0-%e3%81%8c%e3%83%aa%e3%83%aa%e3%83%bc%e3%82%b9%ef%bc%81%e3%83%ac%e3%82%a4%e3%83%a4%e3%83%bc%e3%81%ae%e3%83%95%e3%83%a9%e3%83%83%e3%83%88%e5%8c%96%e3%80%81%e8%a1%a8%e9%9d%a2/">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://cginterest.com/wp-content/uploads/2026/03/adobesubstance3dpainter12.webp" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>2026年3月9日（現地時間）- Adobe は、3Dペイントソフトウェアの最新アップデート Substance 3D Painter 12.0 をリリースしました。 新機能ハイライト 今回のメジャーアップデートでは、 […]
+Substance 3D Painter 12.0 がリリース！レイヤーのフラット化、表面に沿った投影モード、ポストプロセスエフェクトの刷新など！ first appeared on CGinterest.</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;99
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >3DCG最新情報サイト MODELING HAPPY</button>
+                  <a class="source-heading__link" href="https://modelinghappy.com">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://modelinghappy.com/?p&#x3D;67563"
+                        open
+                      >
+                        <summary class="article-expander__title">人体のポーズやアナトミー確認に便利な3Dリファレンスツール「HAELE 3D – Pose Studio Max」Steamストアページ公開</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://modelinghappy.com/archives/67563">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://modelinghappy.com/wp-content/uploads/2026/03/20260311_HAELE_3D_01.jpg" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>HAELE 3D #8211; ポーズスタジオ Max #8211; 解剖学作画リファレンス 人物の手足に顔などを自由に配置、ライティングしてアーティスト向けの資料用ソフトとして人気のHAELE 3Dに、初心者から上
+The post 人体のポーズやアナトミー確認に便利な3Dリファレンスツール「HAELE 3D – Pose Studio Max」Steamストアページ公開 first appeared on 3DCG最新情報サイト MODELING HAPPY.</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;12
                                   min&hairsp;)</span>
                             </span>
                           </div>
@@ -676,41 +828,6 @@ DotProductで画面のモノクロ化
                             <span class="media-object__text">
                               <span>会社紹介 	 	IMAGICA GEEQ（イマジカジーク）は、IMAGICA GROUPにおけるゲーム関連事業を担う事業会社として設立されました。お客様に高品質で信頼のEnd to Endサービスを提供することにより、期待を超える顧客価値を創造し、グローバルなゲーム事業領域で進化することを目指しています。 	 		 			オートデスク製品について ...・・・</span>
                                 &ensp;<span class="article-reading-time">(&hairsp;1
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                </section>
-              </section>
-            </li>
-            <li class="card__section">
-              <section class="js-toggle-accordions-scope">
-                <h3 class="source-heading">
-                  <button
-                    class="source-heading__name"
-                    data-action="toggle-accordions"
-                    title="Click to toggle the source, Ctrl + click to toggle all."
-                  >CGinterest</button>
-                  <a class="source-heading__link" href="https://cginterest.com">Open</a>
-                </h3>
-                <section class="articles-per-source">
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://cginterest.com/?p&#x3D;56536"
-                        open
-                      >
-                        <summary class="article-expander__title">Substance 3D Painter 12.0 がリリース！レイヤーのフラット化、表面に沿った投影モード、ポストプロセスエフェクトの刷新など！</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://cginterest.com/2026/03/11/substance-3d-painter-12-0-%e3%81%8c%e3%83%aa%e3%83%aa%e3%83%bc%e3%82%b9%ef%bc%81%e3%83%ac%e3%82%a4%e3%83%a4%e3%83%bc%e3%81%ae%e3%83%95%e3%83%a9%e3%83%83%e3%83%88%e5%8c%96%e3%80%81%e8%a1%a8%e9%9d%a2/">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://cginterest.com/wp-content/uploads/2026/03/adobesubstance3dpainter12.webp" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>2026年3月9日（現地時間）- Adobe は、3Dペイントソフトウェアの最新アップデート Substance 3D Painter 12.0 をリリースしました。 新機能ハイライト 今回のメジャーアップデートでは、 […]
-Substance 3D Painter 12.0 がリリース！レイヤーのフラット化、表面に沿った投影モード、ポストプロセスエフェクトの刷新など！ first appeared on CGinterest.</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;99
                                   min&hairsp;)</span>
                             </span>
                           </div>
@@ -11384,113 +11501,10 @@ The post シリーズ最新作！ 映画『ミニオンズ＆モンスターズ�
             </li>
         </ul>
       </section>
-      <section class="daily-content js-toggle-accordions-scope">
-        <h2 class="daily-heading">
-          <button
-            class="daily-heading-toggle"
-            data-action="toggle-accordions"
-            title="Click to toggle the day, Ctrl + click to toggle all."
-          >
-            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2026-02-09 datetime="2026-02-09T23:03:00.000Z">2026-02-09</time>
-            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2026-02-09 datetime="2026-02-09T23:03:00.000Z"></time>
-          </button>
-        </h2>
-        <ul class="sources card">
-            <li class="card__section">
-              <section class="js-toggle-accordions-scope">
-                <h3 class="source-heading">
-                  <button
-                    class="source-heading__name"
-                    data-action="toggle-accordions"
-                    title="Click to toggle the source, Ctrl + click to toggle all."
-                  >CGinterest</button>
-                  <a class="source-heading__link" href="https://cginterest.com">Open</a>
-                </h3>
-                <section class="articles-per-source">
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://cginterest.com/?p&#x3D;55675"
-                        open
-                      >
-                        <summary class="article-expander__title">Boris FX Sequoia 2026 がリリース！新しいビデオエンジン搭載、映像制作との連携強化や外部コントロールの柔軟性向上など</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://cginterest.com/2026/02/10/boris-fx-sequoia-2026-%e3%81%8c%e3%83%aa%e3%83%aa%e3%83%bc%e3%82%b9%ef%bc%81%e6%96%b0%e3%81%97%e3%81%84%e3%83%93%e3%83%87%e3%82%aa%e3%82%a8%e3%83%b3%e3%82%b8%e3%83%b3%e6%90%ad%e8%bc%89%e3%80%81/">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://cginterest.com/wp-content/uploads/2026/02/sequoia2026.webp" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>Boris FXは、ハイエンドDAWソフトウェア「Sequoia」の最新バージョンとなる「Sequoia 2026」をリリースしました。 主な新機能 放送局やマスタリングスタジオなど、絶対的な安定性と精度が求められる現場 […]
-Boris FX Sequoia 2026 がリリース！新しいビデオエンジン搭載、映像制作との連携強化や外部コントロールの柔軟性向上など first appeared on CGinterest.</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;107
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                </section>
-              </section>
-            </li>
-            <li class="card__section">
-              <section class="js-toggle-accordions-scope">
-                <h3 class="source-heading">
-                  <button
-                    class="source-heading__name"
-                    data-action="toggle-accordions"
-                    title="Click to toggle the source, Ctrl + click to toggle all."
-                  >CGWORLD</button>
-                  <a class="source-heading__link" href="https://cgworld.jp/">Open</a>
-                </h3>
-                <section class="articles-per-source">
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://cgworld.jp/flashnews/01-202602-Unity-GlassShader.html"
-                        open
-                      >
-                        <summary class="article-expander__title">Unity用のリアルタイムガラスシェーダのチュートリアル公開！ Unity 6.2、URP向けの屈折表現の実装方法を解説 - ニュース</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://cgworld.jp/flashnews/01-202602-Unity-GlassShader.html">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://cgworld.jp/flashnews/assets_c/2026/02/Unity_GlassShader-01-thumb-1920x1080-79742.jpg" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;3
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://cgworld.jp/regular/202602-cgw331-book.html"
-                        open
-                      >
-                        <summary class="article-expander__title">#17：服飾理論×CG技術 脱初心者向けバイブル！ 『Marvelous Designer ネクストレベル』 - 連載</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://cgworld.jp/regular/202602-cgw331-book.html">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://cgworld.jp/regular/assets_c/2026/02/e2bcd0f20dfffaa20bdf8b287da1d0ef4ccb94e4-thumb-1000x563-79549.jpg" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>No content preview</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;3
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                </section>
-              </section>
-            </li>
-        </ul>
-      </section>
 
     <footer>
-      <a class="footer-link" href="https://github.com/matsuda-titan/art_antenna/actions/runs/22943549140">
-        <time id="build-timestamp" datetime="2026-03-11T08:28:34.301Z">2026-03-11T08:28:34.301Z</time>
+      <a class="footer-link" href="https://github.com/matsuda-titan/art_antenna/actions/runs/22952849306">
+        <time id="build-timestamp" datetime="2026-03-11T12:36:09.206Z">2026-03-11T12:36:09.206Z</time>
       </a>
       <a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.15.1</a>
     </footer>

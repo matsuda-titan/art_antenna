@@ -2811,6 +2811,21 @@
       "siteUrl": "https://zenn.dev/topics/maya",
       "articles": [
         {
+          "id": "https://zenn.dev/hph/articles/ncache_rendering_error",
+          "author": "wef",
+          "description": "問題の概要\nMayaでnParticleとnCacheを使用したシーンにおいて、Deadlineを使用したレンダリング時にパーティクルの位置がMayaビューポートでの表示と異なる問題が発生しました。\n解決に時間がかかったため、ここに解決方法をまとめます。\n\n 環境・構成\n\n\n使用要素: nParticle + nCache + nucleus\n\nレンダリング環境: Deadline（レンダーファーム）\n\n問題: パーティクルの位置がローカルのMayaビューポートとDeadlineでのレンダリング結果で異なる\n\n\n 問題1\ndeadlineでのレンダリング結果でパーティクルの位置がMa...",
+          "link": "https://zenn.dev/hph/articles/ncache_rendering_error",
+          "publishedOn": "2026-03-13T01:59:26.000Z",
+          "wordCount": 652,
+          "title": "MayaでnCacheを使ったときに出力された画像がMayaのビューポートのものと異なる",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--yuJkG9mw--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Maya%25E3%2581%25A7nCache%25E3%2582%2592%25E4%25BD%25BF%25E3%2581%25A3%25E3%2581%259F%25E3%2581%25A8%25E3%2581%258D%25E3%2581%25AB%25E5%2587%25BA%25E5%258A%259B%25E3%2581%2595%25E3%2582%258C%25E3%2581%259F%25E7%2594%25BB%25E5%2583%258F%25E3%2581%258CMaya%25E3%2581%25AE%25E3%2583%2593%25E3%2583%25A5%25E3%2583%25BC%25E3%2583%259D%25E3%2583%25BC%25E3%2583%2588%25E3%2581%25AE%25E3%2582%2582%25E3%2581%25AE%25E3%2581%25A8%25E7%2595%25B0%25E3%2581%25AA%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:wef%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzU5ODIxOWUzN2MuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
+            "length": "0",
+            "type": "false"
+          },
+          "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--yuJkG9mw--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Maya%25E3%2581%25A7nCache%25E3%2582%2592%25E4%25BD%25BF%25E3%2581%25A3%25E3%2581%259F%25E3%2581%25A8%25E3%2581%258D%25E3%2581%25AB%25E5%2587%25BA%25E5%258A%259B%25E3%2581%2595%25E3%2582%258C%25E3%2581%259F%25E7%2594%25BB%25E5%2583%258F%25E3%2581%258CMaya%25E3%2581%25AE%25E3%2583%2593%25E3%2583%25A5%25E3%2583%25BC%25E3%2583%259D%25E3%2583%25BC%25E3%2583%2588%25E3%2581%25AE%25E3%2582%2582%25E3%2581%25AE%25E3%2581%25A8%25E7%2595%25B0%25E3%2581%25AA%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:wef%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzU5ODIxOWUzN2MuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"
+        },
+        {
           "id": "https://zenn.dev/inouwe/articles/64b741fb742643",
           "author": "Kanon Inoue",
           "description": "リギング作業をやっているときに、骨関連のアトリビュートだけスプレッドシートで見たいなあというシチュエーションが多かったので書きました。\nattrsの中身を書き換えれば、お好きなアトリビュートをフィルターできます。\nimport maya.cmds as cmds\n\ndef make_spread_sheet(attrs, window_name):\n    if cmds.window(window_name, exists=True):\n        cmds.deleteUI(window_name)\n\n    window = cmds.window(window_name, w...",

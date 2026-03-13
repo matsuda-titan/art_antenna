@@ -12,6 +12,21 @@
       "siteUrl": "https://cgbox.jp",
       "articles": [
         {
+          "id": "https://cgbox.jp/?p=65132",
+          "author": "kasahara",
+          "description": "こんばんは！ 今回はアドオンの「Procedural Clouds」を紹介します。 こちらのリンクがアドオンの商品ページになります。 Procedural Clouds 「Procedural Clouds」は、Geom […]",
+          "link": "https://cgbox.jp/2026/03/13/news-addon-procedural-clouds/",
+          "publishedOn": "2026-03-13T08:46:54.000Z",
+          "wordCount": 2497,
+          "title": "【アドオン紹介】Procedural Clouds – 自由自在に雲・霧を作成できるアドオン",
+          "enclosure": {
+            "url": "https://cgbox.jp/wp-content/uploads/2026/03/Video-Project-48.mp4",
+            "length": "0",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://cgbox.jp/wp-content/uploads/2026/03/image_processing20260312-2-ntuz0m.jpg"
+        },
+        {
           "id": "https://cgbox.jp/?p=65128",
           "author": "kasahara",
           "description": "こんばんは！ 今回はアドオンの「Scene Enrichener V2」を紹介します。 こちらのリンクがアドオンの商品ページになります。 Scene Enrichener V2 「Scene Enrichener V2」 […]",
@@ -706,6 +721,16 @@
       "feedUrl": "https://cgworld.jp/atom.xml",
       "siteUrl": "https://cgworld.jp/",
       "articles": [
+        {
+          "id": "https://cgworld.jp/special-feature/2603-lunchtime.html",
+          "author": null,
+          "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
+          "link": "https://cgworld.jp/special-feature/2603-lunchtime.html",
+          "publishedOn": "2026-03-13T10:00:00.000Z",
+          "wordCount": 604,
+          "title": "【未経験から6ヶ月でプロのエフェクトデザイナーに】Unreal Engineコース新設・完全オンライン対応・就職サポート・内定制度まで！「エフェクトラボ」大規模リニューアルの全貌 - スペシャルコンテンツ",
+          "imageUrl": "https://cgworld.jp/special-feature/assets_c/2026/03/effectlabo_v2%20%281%29-thumb-1920x1080-80986.jpg"
+        },
         {
           "id": "https://cgworld.jp/regular/202603-tipsnote.html",
           "author": null,
@@ -1775,16 +1800,6 @@
           "wordCount": 817,
           "title": "『あんスタ！！』 マスターピースMV／MELLOW DEAR US「Dear World」／No.3：顔・影・髪、造形刷新が生んだ「理想のアイドル像」 - 特集",
           "imageUrl": "https://cgworld.jp/article/assets_c/2026/01/202602-mellow_a3-thumb-1000x563-79135.jpg"
-        },
-        {
-          "id": "https://cgworld.jp/flashnews/01-202602-trackers.html",
-          "author": null,
-          "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
-          "link": "https://cgworld.jp/flashnews/01-202602-trackers.html",
-          "publishedOn": "2026-02-11T21:32:12.000Z",
-          "wordCount": 977,
-          "title": "オープンソースのモーショントラッキングツール「trackers v2.1.0」リリース！ ByteTrackサポート、セグメンテーションモデルRF-DETRとの連携 - ニュース",
-          "imageUrl": "https://cgworld.jp/flashnews/assets_c/2026/02/trackers-01-thumb-1920x1080-79839.jpg"
         }
       ]
     },
@@ -1811,6 +1826,16 @@
       "siteUrl": "https://unpyside.com",
       "articles": [
         {
+          "id": "https://unpyside.com/?p=2972",
+          "author": "ringosan",
+          "description": "Houdiniを使っていると、$HIPや$JOBのような環境変数はとても便利ですよねHoudiniではHoudini Package機能を使うことで自分独自のカスタム環境変数を簡単に定義できます。 Packageの確認方 […]\nThe post $HIP や $JOB のようなカスタム環境変数を定義する first appeared on UnPySide.",
+          "link": "https://unpyside.com/blog/2026/03/13/hip-%e3%82%84-job-%e3%81%ae%e3%82%88%e3%81%86%e3%81%aa%e3%82%ab%e3%82%b9%e3%82%bf%e3%83%a0%e7%92%b0%e5%a2%83%e5%a4%89%e6%95%b0%e3%82%92%e5%ae%9a%e7%be%a9%e3%81%99%e3%82%8b/?utm_source=rss&utm_medium=rss&utm_campaign=hip-%25e3%2582%2584-job-%25e3%2581%25ae%25e3%2582%2588%25e3%2581%2586%25e3%2581%25aa%25e3%2582%25ab%25e3%2582%25b9%25e3%2582%25bf%25e3%2583%25a0%25e7%2592%25b0%25e5%25a2%2583%25e5%25a4%2589%25e6%2595%25b0%25e3%2582%2592%25e5%25ae%259a%25e7%25be%25a9%25e3%2581%2599%25e3%2582%258b",
+          "publishedOn": "2026-03-13T11:29:59.000Z",
+          "wordCount": 2315,
+          "title": "$HIP や $JOB のようなカスタム環境変数を定義する",
+          "imageUrl": "https://unpyside.com/wp-content/uploads/2026/03/20260313_eye-catch.png"
+        },
+        {
           "id": "https://unpyside.com/?p=2964",
           "author": "ringosan",
           "description": "Box から特定の方向を向いている面だけを残したい場合は、「面の向き（法線）」を基準にして削除するのがシンプルで確実です。 基本的な考え方は以下の通りです。 下の設定は「法線が (0, 1, 0) 方向を向いているプリミ […]",
@@ -1818,16 +1843,6 @@
           "publishedOn": "2026-02-15T23:00:19.000Z",
           "wordCount": 2207,
           "title": "Boxの特定方向以外の面を削除する方法",
-          "imageUrl": null
-        },
-        {
-          "id": "https://unpyside.com/?p=2959",
-          "author": "ringosan",
-          "description": "ポリゴン上に直線状に並んだ不要なポイントが多いと、後工程での編集や最適化がやりづらくなることがあります。 そんなときは Facet SOP の「Remove Inline Points」 を使うのがおすすめです。 このオ […]",
-          "link": "https://unpyside.com/blog/2026/02/12/%e7%9b%b4%e7%b7%9a%e4%b8%8a%e3%81%ae%e4%b8%8d%e8%a6%81%e3%81%aa%e3%83%9d%e3%82%a4%e3%83%b3%e3%83%88%e3%82%92%e3%81%be%e3%81%a8%e3%82%81%e3%81%a6%e5%89%8a%e9%99%a4%e3%81%99%e3%82%8b/?utm_source=rss&utm_medium=rss&utm_campaign=%25e7%259b%25b4%25e7%25b7%259a%25e4%25b8%258a%25e3%2581%25ae%25e4%25b8%258d%25e8%25a6%2581%25e3%2581%25aa%25e3%2583%259d%25e3%2582%25a4%25e3%2583%25b3%25e3%2583%2588%25e3%2582%2592%25e3%2581%25be%25e3%2581%25a8%25e3%2582%2581%25e3%2581%25a6%25e5%2589%258a%25e9%2599%25a4%25e3%2581%2599%25e3%2582%258b",
-          "publishedOn": "2026-02-11T23:00:07.000Z",
-          "wordCount": 2149,
-          "title": "直線上の不要なポイントをまとめて削除する",
           "imageUrl": null
         }
       ]
@@ -2275,16 +2290,6 @@
           "wordCount": 3732,
           "title": "Procedural Topstich Generator｜曲線やロゴから縫い目を自動生成できるBlender用無料Geometry Nodesセットアップ",
           "imageUrl": "https://modelinghappy.com/wp-content/uploads/2026/02/20260212_topstich_01.jpg"
-        },
-        {
-          "id": "https://modelinghappy.com/?p=67099",
-          "author": "modelinghappy",
-          "description": "Scatter By Kiri Engine Scatter By Kiri Engineは、iphoneでスキャン出来る事でおなじみのKiri EngineがBlenderで登録した複数モデルをランダムにクリックで棚や\nThe post クリックで配置＆重力で自然に落とせる！モデル散布を実現するBlender用無料アドオン「Scatter By Kiri Engine」 first appeared on 3DCG最新情報サイト MODELING HAPPY.",
-          "link": "https://modelinghappy.com/archives/67099",
-          "publishedOn": "2026-02-11T23:59:26.000Z",
-          "wordCount": 3704,
-          "title": "クリックで配置＆重力で自然に落とせる！モデル散布を実現するBlender用無料アドオン「Scatter By Kiri Engine」",
-          "imageUrl": "https://modelinghappy.com/wp-content/uploads/2026/02/20260212_Scatter_By_Kiri_Engine_01.jpg"
         }
       ]
     },
@@ -3726,6 +3731,36 @@
       "siteUrl": "https://cginterest.com",
       "articles": [
         {
+          "id": "https://cginterest.com/?p=56624",
+          "author": ".me",
+          "description": "NVIDIAより、GPUコンピューティングプラットフォームの最新版であるCUDA 13.2がリリースされました。 今回のアップデートでは、NVIDIA CUDA Tileがコンピュート機能8.x（NVIDIA Amper […]\nNVIDIA、「CUDA 13.2」をリリース！CUDA Tileのサポート強化とPython向け新機能を導入 first appeared on CGinterest.",
+          "link": "https://cginterest.com/2026/03/13/nvidia%e3%80%81%e3%80%8ccuda-13-2%e3%80%8d%e3%82%92%e3%83%aa%e3%83%aa%e3%83%bc%e3%82%b9%ef%bc%81cuda-tile%e3%81%ae%e3%82%b5%e3%83%9d%e3%83%bc%e3%83%88%e5%bc%b7%e5%8c%96%e3%81%a8python%e5%90%91/",
+          "publishedOn": "2026-03-13T11:09:01.000Z",
+          "wordCount": 30518,
+          "title": "NVIDIA、「CUDA 13.2」をリリース！CUDA Tileのサポート強化とPython向け新機能を導入",
+          "imageUrl": "https://cginterest.com/wp-content/uploads/2026/03/cuda-13-2-introduces-enhanced-cuda-tile-support-and-new-python-features.webp"
+        },
+        {
+          "id": "https://cginterest.com/?p=56610",
+          "author": ".me",
+          "description": "2026年3月10日（現地時間）- ゲーム開発の祭典であるGDC（Game Developers Conference） 2026にて、NVIDIAはゲーム開発のワークフローとビジュアル品質を強化する最新の技術群を発表し […]\nNVIDIA、数百万の植物を描画可能な「RTX Mega Geometry」やオンデバイスAI「ACE」など次世代RTX技術を発表！ first appeared on CGinterest.",
+          "link": "https://cginterest.com/2026/03/13/nvidia%e3%80%81%e6%95%b0%e7%99%be%e4%b8%87%e3%81%ae%e6%a4%8d%e7%89%a9%e3%82%92%e6%8f%8f%e7%94%bb%e5%8f%af%e8%83%bd%e3%81%aa%e3%80%8crtx-mega-geometry%e3%80%8d%e3%82%84%e3%82%aa%e3%83%b3%e3%83%87/",
+          "publishedOn": "2026-03-13T09:01:27.000Z",
+          "wordCount": 30321,
+          "title": "NVIDIA、数百万の植物を描画可能な「RTX Mega Geometry」やオンデバイスAI「ACE」など次世代RTX技術を発表！",
+          "imageUrl": "https://cginterest.com/wp-content/uploads/2026/03/GDC2026-rtxtec.webp"
+        },
+        {
+          "id": "https://cginterest.com/?p=56604",
+          "author": ".me",
+          "description": "2026年3月10日（現地時間）- ゲーム開発の祭典であるGDC（Game Developers Conference） Festival of Gamingにて、NVIDIAおよびパートナー企業より、ゲーマー、クリエイ […]\nNVIDIA、DLSS 4.5ダイナミックマルチフレーム生成やRTX RemixのパーティクルVFXを発表！ first appeared on CGinterest.",
+          "link": "https://cginterest.com/2026/03/13/nvidia%e3%80%81dlss-4-5%e3%83%80%e3%82%a4%e3%83%8a%e3%83%9f%e3%83%83%e3%82%af%e3%83%9e%e3%83%ab%e3%83%81%e3%83%95%e3%83%ac%e3%83%bc%e3%83%a0%e7%94%9f%e6%88%90%e3%82%84rtx-remix%e3%81%ae%e3%83%91/",
+          "publishedOn": "2026-03-13T08:57:27.000Z",
+          "wordCount": 30586,
+          "title": "NVIDIA、DLSS 4.5ダイナミックマルチフレーム生成やRTX RemixのパーティクルVFXを発表！",
+          "imageUrl": "https://cginterest.com/wp-content/uploads/2026/03/gdc2026geforceupdate.webp"
+        },
+        {
           "id": "https://cginterest.com/?p=56596",
           "author": ".me",
           "description": "2026年3月11日（現地時間）- PlayCanvas の CEO Will Eastcott氏は、ウェブベースのGaussian Splatting（ガウシアンスプラッティング）プラットフォームである「SuperSp […]\nSuperSplat にウォークモード、ストリーミングLOD、簡単アップロード機能が実装！ first appeared on CGinterest.",
@@ -4399,21 +4434,6 @@
             "type": "video/mp4"
           },
           "imageUrl": "https://cginterest.com/wp-content/uploads/2026/02/scatterbykiriengine.webp"
-        },
-        {
-          "id": "https://cginterest.com/?p=55719",
-          "author": ".me",
-          "description": "Skylum は、写真編集ソフトウェア Luminar Neo の4周年を記念したセールを開催しました。 4周年記念セール概要 Luminar Neo 4周年記念セールでは、最大74%OFFの特別キャンペーンを実施中です […]\n最大74%OFF！写真編集ソフトウェア Luminar Neo 4周年記念セール が開催！ first appeared on CGinterest.",
-          "link": "https://cginterest.com/2026/02/12/%e6%9c%80%e5%a4%a774off%ef%bc%81%e5%86%99%e7%9c%9f%e7%b7%a8%e9%9b%86%e3%82%bd%e3%83%95%e3%83%88%e3%82%a6%e3%82%a7%e3%82%a2-luminar-neo-4%e5%91%a8%e5%b9%b4%e8%a8%98%e5%bf%b5%e3%82%bb%e3%83%bc/",
-          "publishedOn": "2026-02-11T22:50:00.000Z",
-          "wordCount": 29414,
-          "title": "最大74%OFF！写真編集ソフトウェア Luminar Neo 4周年記念セール が開催！",
-          "enclosure": {
-            "url": "https://cginterest.com/wp-content/uploads/2026/02/Hero-Ecosystem-2X.mp4",
-            "length": "400049",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://cginterest.com/wp-content/uploads/2026/02/luminarneo-4thsale.webp"
         }
       ]
     }

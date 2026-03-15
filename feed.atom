@@ -2,10 +2,75 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-03-14T12:28:37.484Z</updated>
+    <updated>2026-03-15T01:20:41.335Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Blenderで光造形3Dプリンタ用サポートを自動生成できる無料ツールが公開]]></title>
+        <id>https://modelinghappy.com/?p=67616</id>
+        <link href="https://modelinghappy.com/archives/67616"/>
+        <updated>2026-03-15T00:02:27.000Z</updated>
+        <summary type="html"><![CDATA[【全機能無料】光造形3Dプリンタ用サポート生成ツール【for Blender5.0～】 morokkoさんが、Blenderで光造形3Dプリンタ用のサポートを素早くモデリングできる補助ツール光造形3Dプリンタ用サポート生
+The post Blenderで光造形3Dプリンタ用サポートを自動生成できる無料ツールが公開 first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
+        <author>
+            <name>modelinghappy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[XR用OS「PICO OS 6」を開発者向けに発表！ 2026後半リリース予定のヘッドセット「Project Swan」向けアプリの開発が可能に - ニュース]]></title>
+        <id>https://cgworld.jp/flashnews/xrospico-os-6-2026project-swan.html</id>
+        <link href="https://cgworld.jp/flashnews/xrospico-os-6-2026project-swan.html"/>
+        <updated>2026-03-14T23:22:51.000Z</updated>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Conformal Mapを用いたモーフについて]]></title>
+        <id>https://note.com/thesaurus/n/n45d1d4e84fcd</id>
+        <link href="https://note.com/thesaurus/n/n45d1d4e84fcd"/>
+        <updated>2026-03-14T14:35:20.000Z</updated>
+        <summary type="html"><![CDATA[モーフを「データの移行」として考える
+この記事では、Konstantin Magnus さんの動画をもとに、モーフをデータの移行という視点から考えてみます。
+続きをみる]]></summary>
+        <author>
+            <name>#Houdiniタグ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pixie Renderer フォトンマップ3パス構成のデバッグ記録]]></title>
+        <id>https://zenn.dev/yokamak/articles/a99d6d8054c9c7</id>
+        <link href="https://zenn.dev/yokamak/articles/a99d6d8054c9c7"/>
+        <updated>2026-03-14T12:32:26.000Z</updated>
+        <summary type="html"><![CDATA[Pixie 2.x フォトンマップ3パス構成のデバッグ記録
+
+ ── indirectsurf1sided + fakesky 球体によるICF生成失敗と解決まで ──
+
+
+
+ 概要
+Pixie 2.2.6（RenderMan互換レンダラー）で、環境球（fakesky）を使ったスカイライトシーンにフォトンマップGIを適用しようとした際、イラディアンスキャッシュファイル（ICF）が 1KB（実質空）しか生成されない問題に遭遇した。
+Pixieは、オープンソースとして公開されている歴史的なレンダラーである
+https://sourceforge.net/projects/pixie/
+本...]]></summary>
+        <author>
+            <name>yokamak</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Houdini: 古いノードを一発で追加。「Add Old Node」ツール]]></title>
+        <id>https://zenn.dev/kickbase/articles/d4409b6d1acbfb</id>
+        <link href="https://zenn.dev/kickbase/articles/d4409b6d1acbfb"/>
+        <updated>2026-03-14T07:41:47.000Z</updated>
+        <summary type="html"><![CDATA[古いチュートリアルや書籍で学んでいると、手順に登場するノードが TAB メニューにない……という経験はありませんか。本記事では、TAB に表示されない（hidden）ノードや非推奨（deprecated）ノードを、現在のコンテキストに合わせて検索・追加できる Python ツール「Add Old Node」の概要・使い方・ホットキー設定、そしてコードのポイントを解説します。
+
+ どんな課題を解決するか
+Houdini はバージョンアップのたびにノードが整理され、TAB メニューからは出てこないが、まだ内部的には存在するノードが増えていきます。初学者が古い学習リソース（動画・書籍・記事）...]]></summary>
+        <author>
+            <name>めんたいこ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Adobe、解約手数料問題で米政府と1.5億ドル（約220億円）で和解。ユーザーに7500万ドル相当の無料サービス提供へ]]></title>
         <id>https://modelinghappy.com/?p=67613</id>
@@ -4099,125 +4164,6 @@ Arnold レンダラー 7.4.5.0 がリリース！新しいラインシェーダ�
 The post Amaterasu｜ファイル管理・モデリング・リグ・レンダリングまで網羅する100種以上のMaya用プラグインセットが無料配布中！ first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
         <author>
             <name>modelinghappy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Alibaba、テキスト描画とリアルさが向上した生成・編集統合型モデル「Qwen-Image-2.0」を発表！]]></title>
-        <id>https://cginterest.com/?p=55791</id>
-        <link href="https://cginterest.com/2026/02/13/alibaba%e3%80%81%e3%83%86%e3%82%ad%e3%82%b9%e3%83%88%e6%8f%8f%e7%94%bb%e3%81%a8%e3%83%aa%e3%82%a2%e3%83%ab%e3%81%95%e3%81%8c%e5%90%91%e4%b8%8a%e3%81%97%e3%81%9f%e7%94%9f%e6%88%90%e3%83%bb%e7%b7%a8/"/>
-        <updated>2026-02-13T10:49:10.000Z</updated>
-        <summary type="html"><![CDATA[2026年2月10日（現地時間）- Alibaba Cloud の Qwen開発チームは、次世代の基盤画像生成モデルとなる「Qwen-Image-2.0」を発表しました。 Qwen-Image-2.0とは Qwen-Im […]
-Alibaba、テキスト描画とリアルさが向上した生成・編集統合型モデル「Qwen-Image-2.0」を発表！ first appeared on CGinterest.]]></summary>
-        <author>
-            <name>.me</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【After Effects 2026】シェイプレイヤーの3D版といえる、3Dオブジェクトを作成できる「立方体ツール」（パラメトリックメッシュツール） - 連載]]></title>
-        <id>https://cgworld.jp/regular/202602-tipsnote.html</id>
-        <link href="https://cgworld.jp/regular/202602-tipsnote.html"/>
-        <updated>2026-02-13T05:00:12.000Z</updated>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[『HIDARI』を手がけるWhateverと金融事業を展開するQuestryが、新たなコンテンツファイナンスを目指し戦略的業務提携を締結 - ニュース]]></title>
-        <id>https://cgworld.jp/flashnews/02-2602-questrywhatever.html</id>
-        <link href="https://cgworld.jp/flashnews/02-2602-questrywhatever.html"/>
-        <updated>2026-02-13T04:26:29.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[079/365] Tax Season vs. Creative Soul: My 2026 Priorities]]></title>
-        <id>https://note.com/torutanno/n/n623af3919549</id>
-        <link href="https://note.com/torutanno/n/n623af3919549"/>
-        <updated>2026-02-13T04:24:29.000Z</updated>
-        <summary type="html"><![CDATA[【079/365】2026年2月13日
-昨日書いた記事、公開するの忘れて下書きに残っていました。
-
-続きをみる]]></summary>
-        <author>
-            <name>#Houdiniタグ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[078/365] A Week of Trivialities]]></title>
-        <id>https://note.com/torutanno/n/n5cf0de83ea98</id>
-        <link href="https://note.com/torutanno/n/n5cf0de83ea98"/>
-        <updated>2026-02-13T04:22:19.000Z</updated>
-        <summary type="html"><![CDATA[【078/365】2026年2月12日
-明日からMacBook Proが修理の為、一週間ほど不在にします。ただ今梱包作業中… 戻るまでnoteの更新がどうでもいいことばかりになりますがご容赦ください。
-続きをみる]]></summary>
-        <author>
-            <name>#Houdiniタグ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[iPad向けアニメーション制作アプリ Procreate Dreams バージョン2.0.2 がリリース！自動選択、アルファロック、音声分離機能の追加など]]></title>
-        <id>https://cginterest.com/?p=55770</id>
-        <link href="https://cginterest.com/2026/02/13/ipad%e5%90%91%e3%81%91%e3%82%a2%e3%83%8b%e3%83%a1%e3%83%bc%e3%82%b7%e3%83%a7%e3%83%b3%e5%88%b6%e4%bd%9c%e3%82%a2%e3%83%97%e3%83%aa-procreate-dreams-%e3%83%90%e3%83%bc%e3%82%b8%e3%83%a7%e3%83%b32-0-2/"/>
-        <updated>2026-02-13T02:56:01.000Z</updated>
-        <summary type="html"><![CDATA[2026年2月13日- iPad向けアニメーション制作アプリ「Procreate Dreams」の2026年最初となるアップデート、バージョン2.0.2がリリースされました。 主な新機能 今回は大規模アップデートの間に挟 […]
-iPad向けアニメーション制作アプリ Procreate Dreams バージョン2.0.2 がリリース！自動選択、アルファロック、音声分離機能の追加など first appeared on CGinterest.]]></summary>
-        <author>
-            <name>.me</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[全10名の豪華審査員陣が遂に公開！Blenderユーザー対象のCGコンテスト b3d創作祭「NEW TOKYO」 - 特集]]></title>
-        <id>https://cgworld.jp/article/blendercgb3d10new-tokyo.html</id>
-        <link href="https://cgworld.jp/article/blendercgb3d10new-tokyo.html"/>
-        <updated>2026-02-13T02:31:15.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ガウシアン・スプラッティングの採用：映画『スーパーマン』の VFXメイキング映像]]></title>
-        <id>https://3dtotal.jp/?p=54677</id>
-        <link href="https://3dtotal.jp/news/54677/"/>
-        <updated>2026-02-13T02:09:48.000Z</updated>
-        <summary type="html"><![CDATA[★Gaussian Splatting in Superman | Framestore（2分33秒） Framestore では、優れたVFXは 常に優れた技術によって支えられています。長編映画として初めて、映画『スー […]
-The post ガウシアン・スプラッティングの採用：映画『スーパーマン』の VFXメイキング映像 first appeared on 3dtotal 日本語オフィシャルサイト.]]></summary>
-        <author>
-            <name>3dtotal管理人T</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[大ヒットホラー映画の 27年前を描く。ドラマ『IT／イット ウェルカム・トゥ・デリー “それ”が見えたら、終わり。』の VFXブレイクダウン映像]]></title>
-        <id>https://3dtotal.jp/?p=53771</id>
-        <link href="https://3dtotal.jp/news/53771/"/>
-        <updated>2026-02-13T02:05:35.000Z</updated>
-        <summary type="html"><![CDATA[★Welcome To Derry S1 VFX Breakdown（1分54秒/ 制作：Rodeo FX） 警告：過激な VFXを含みます – すべてのエフェクトはフル シミュレートされています。 IT はあなたを見て […]
-The post 大ヒットホラー映画の 27年前を描く。ドラマ『IT／イット ウェルカム・トゥ・デリー "それ"が見えたら、終わり。』の VFXブレイクダウン映像 first appeared on 3dtotal 日本語オフィシャルサイト.]]></summary>
-        <author>
-            <name>3dtotal管理人T</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[スーパーマジシャンが悪を暴く！ 映画『グランド・イリュージョン／ダイヤモンド・ミッション』の VFXブレイクダウン映像]]></title>
-        <id>https://3dtotal.jp/?p=54672</id>
-        <link href="https://3dtotal.jp/news/54672/"/>
-        <updated>2026-02-13T02:00:01.000Z</updated>
-        <summary type="html"><![CDATA[★Now You See Me Now You Don't VFX Breakdown — Rodeo FX（1分32秒/ 制作：Rodeo FX） マジシャンだって、騙すには少しの助けが必要だ。映画『グランド・イリュー […]
-The post スーパーマジシャンが悪を暴く！ 映画『グランド・イリュージョン／ダイヤモンド・ミッション』の VFXブレイクダウン映像 first appeared on 3dtotal 日本語オフィシャルサイト.]]></summary>
-        <author>
-            <name>3dtotal管理人T</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[『あんスタ！！』 マスターピースMV／MELLOW DEAR US「Dear World」／No.4：Blender×Cyclesで挑む、フォトリアルな3DBG - 特集]]></title>
-        <id>https://cgworld.jp/article/202602-mellow-4.html</id>
-        <link href="https://cgworld.jp/article/202602-mellow-4.html"/>
-        <updated>2026-02-13T01:30:00.000Z</updated>
-        <summary type="html"><![CDATA[※本記事は月刊 『CGWORLD + digital video』vol.33...]]></summary>
-        <author>
-            <name>CGWORLD</name>
         </author>
     </entry>
 </feed>

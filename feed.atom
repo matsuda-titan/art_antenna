@@ -2,10 +2,68 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-03-16T01:20:10.453Z</updated>
+    <updated>2026-03-16T05:08:19.000Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【Unity】「なんとなく」を卒業する。Bloom（ブルーム）の基本処理を紐解いてみる。]]></title>
+        <id>https://zenn.dev/zero_0r0/articles/b8460bed827b60</id>
+        <link href="https://zenn.dev/zero_0r0/articles/b8460bed827b60"/>
+        <updated>2026-03-16T03:15:05.000Z</updated>
+        <summary type="html"><![CDATA[はじめに
+
+ゲーム開発において、魔法のエフェクトやネオンサイン、太陽の光などを「まぶしい！」とプレイヤーに直感させるために欠かせない表現、それが Bloom（ブルーム） です。
+Unity標準のPost ProcessingやURP Volumeを使えば、アセットをポンと置いて数値をいじるだけで簡単にリッチな画面が作れます。
+しかし、 「ThresholdやScatterといったパラメーターが、裏側で具体的に何の計算をしているのか」 を説明できるでしょうか？
+この記事では、「なんとなく数値をいじっている」状態から一歩ステップアップし、Bloomエフェクトの正体である「3つのステップ」...]]></summary>
+        <author>
+            <name>ゼロ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【Unity/ Compute Shader】10年前のiGPUで動く！海を丸ごと表現するAPIC-SWE-FFTハイブリッド流体　後編]]></title>
+        <id>https://zenn.dev/quickbrush/articles/fafedf2726bf47</id>
+        <link href="https://zenn.dev/quickbrush/articles/fafedf2726bf47"/>
+        <updated>2026-03-16T03:06:44.000Z</updated>
+        <summary type="html"><![CDATA[4. 既存の流体シミュレーション手法の比較と限界
+海全体を表現するにあたり、単一のインタラクティブな計算手法で構築することは最新のGPUをもってしても難しいと思います。今回は限られたリソース(内蔵GPU)での動作を目標としているため、プレイヤーからの距離に応じて計算手法を切り替えるLOD (Level of Detail)の導入が必須 となります。
+手法を一つずつ解説すると相当長くなってしまうため、ここでは、今回比較検討のために実装した代表的な流体シミュレーション手法について、2次元断面を載せつつ要点のみ解説します。
+流体は一般にナビエ・ストークス方程式に従いますが、これを数値的...]]></summary>
+        <author>
+            <name>Narita Yugo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【Unity/Compute Shader】10年前のiGPUで動く！海を丸ごと表現するAPIC-SWE-FFTハイブリッド流体　前編]]></title>
+        <id>https://zenn.dev/quickbrush/articles/0b5c77222bf078</id>
+        <link href="https://zenn.dev/quickbrush/articles/0b5c77222bf078"/>
+        <updated>2026-03-16T03:04:55.000Z</updated>
+        <summary type="html"><![CDATA[1. はじめに
+低スペックGPUで海全体とインタラクションできる流体システムを実装しました。
+
+ 完成デモ
+https://youtu.be/wG5bqn34c7w
+
+
+ 概略
+既存の多くのゲームでは、広大な海全体に対して直接インタラクションすることができません。これは流体シミュレーションの計算コストが非常に大きく、ゲーム用途では処理負荷が大きすぎるためです。
+そこで今回、特性の異なる3種類の流体手法を組み合わせ、ローエンド環境でも海全体にインタラクション可能なリアルタイム流体エンジンをUnityの Universal Render Pipeline (URP)で実装しました。
+本記...]]></summary>
+        <author>
+            <name>Narita Yugo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【無料アドオン】Batch Render View Layers – 複数のカメラ設定を一括レンダリング！]]></title>
+        <id>https://cgbox.jp/?p=65139</id>
+        <link href="https://cgbox.jp/2026/03/16/news-addon-batch-render-view-layers/"/>
+        <updated>2026-03-16T02:10:51.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは！ 今回はアドオンの「Batch Render View Layers 」を紹介します。 こちらのリンクがアドオンの商品ページになります。 Batch Render View Layers 「Batch Ren […]]]></summary>
+        <author>
+            <name>kasahara</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Mayaのアウトライナーを整理・並び替え・カラー管理できる無料プラグイン「Outliner X for Maya」がリリース]]></title>
         <id>https://modelinghappy.com/?p=67619</id>
@@ -25,6 +83,17 @@ The post Mayaのアウトライナーを整理・並び替え・カラー管理�
         <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
         <author>
             <name>CGWORLD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Photoshop ベータ版テクノロジープレビューに「オブジェクトの回転」が追加！2D画像を3D空間で回転可能に]]></title>
+        <id>https://cginterest.com/?p=56657</id>
+        <link href="https://cginterest.com/2026/03/16/photoshop-%e3%83%99%e3%83%bc%e3%82%bf%e7%89%88%e3%83%86%e3%82%af%e3%83%8e%e3%83%ad%e3%82%b8%e3%83%bc%e3%83%97%e3%83%ac%e3%83%93%e3%83%a5%e3%83%bc%e3%81%ab%e3%80%8c%e3%82%aa%e3%83%96%e3%82%b8%e3%82%a7/"/>
+        <updated>2026-03-15T22:22:00.000Z</updated>
+        <summary type="html"><![CDATA[Adobe PhotoshopのBeta版において、画像を立体的に扱える「オブジェクトの回転（Rotate Object）」が追加されました。 まだ投稿時点でも公式ドキュメントにも記載されていないようですが、他にもテクノ […]
+Photoshop ベータ版テクノロジープレビューに「オブジェクトの回転」が追加！2D画像を3D空間で回転可能に first appeared on CGinterest.]]></summary>
+        <author>
+            <name>.me</name>
         </author>
     </entry>
     <entry>
@@ -4151,17 +4220,6 @@ The post Blender初心者向け！アニメ調ファンタジー背景を作る�
 続きをみる]]></summary>
         <author>
             <name>#Houdiniタグ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Simply Cloth Studio 2｜型紙から服を作れるBlender布生成アドオンがBlender5.0対応で大幅アップデート]]></title>
-        <id>https://modelinghappy.com/?p=67133</id>
-        <link href="https://modelinghappy.com/archives/67133"/>
-        <updated>2026-02-14T14:45:13.000Z</updated>
-        <summary type="html"><![CDATA[Simply Cloth Studio 2 Blenderで型紙からモデルの洋服や、布モデルを作成しやすくなるアドオンSimply Cloth Studio 2がアップデートされました。 バージョン２では、Blender
-The post Simply Cloth Studio 2｜型紙から服を作れるBlender布生成アドオンがBlender5.0対応で大幅アップデート first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
-        <author>
-            <name>modelinghappy</name>
         </author>
     </entry>
 </feed>

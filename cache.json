@@ -12,6 +12,21 @@
       "siteUrl": "https://cgbox.jp",
       "articles": [
         {
+          "id": "https://cgbox.jp/?p=65139",
+          "author": "kasahara",
+          "description": "こんばんは！ 今回はアドオンの「Batch Render View Layers 」を紹介します。 こちらのリンクがアドオンの商品ページになります。 Batch Render View Layers 「Batch Ren […]",
+          "link": "https://cgbox.jp/2026/03/16/news-addon-batch-render-view-layers/",
+          "publishedOn": "2026-03-16T02:10:51.000Z",
+          "wordCount": 2535,
+          "title": "【無料アドオン】Batch Render View Layers – 複数のカメラ設定を一括レンダリング！",
+          "enclosure": {
+            "url": "https://cgbox.jp/wp-content/uploads/2026/03/Video-Project-58.mp4",
+            "length": "0",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://cgbox.jp/wp-content/uploads/2026/03/d97538ba0f1f37f91382d640d031f2aeb9fe6c82535f073bac499d91346809fd_640x360.webp"
+        },
+        {
           "id": "https://cgbox.jp/?p=65132",
           "author": "kasahara",
           "description": "こんばんは！ 今回はアドオンの「Procedural Clouds」を紹介します。 こちらのリンクがアドオンの商品ページになります。 Procedural Clouds 「Procedural Clouds」は、Geom […]",
@@ -2190,16 +2205,6 @@
           "wordCount": 3693,
           "title": "Blender初心者向け！アニメ調ファンタジー背景を作る講座がWingfoxで販売開始！",
           "imageUrl": "https://modelinghappy.com/wp-content/uploads/2026/02/20260215_wingfox_01.jpg"
-        },
-        {
-          "id": "https://modelinghappy.com/?p=67133",
-          "author": "modelinghappy",
-          "description": "Simply Cloth Studio 2 Blenderで型紙からモデルの洋服や、布モデルを作成しやすくなるアドオンSimply Cloth Studio 2がアップデートされました。 バージョン２では、Blender\nThe post Simply Cloth Studio 2｜型紙から服を作れるBlender布生成アドオンがBlender5.0対応で大幅アップデート first appeared on 3DCG最新情報サイト MODELING HAPPY.",
-          "link": "https://modelinghappy.com/archives/67133",
-          "publishedOn": "2026-02-14T14:45:13.000Z",
-          "wordCount": 3729,
-          "title": "Simply Cloth Studio 2｜型紙から服を作れるBlender布生成アドオンがBlender5.0対応で大幅アップデート",
-          "imageUrl": "https://modelinghappy.com/wp-content/uploads/2026/02/20260214_simply_cloth_01.jpg"
         }
       ]
     },
@@ -2525,6 +2530,51 @@
       "feedUrl": "https://zenn.dev/topics/shader/feed",
       "siteUrl": "https://zenn.dev/topics/shader",
       "articles": [
+        {
+          "id": "https://zenn.dev/zero_0r0/articles/b8460bed827b60",
+          "author": "ゼロ",
+          "description": "はじめに\n\nゲーム開発において、魔法のエフェクトやネオンサイン、太陽の光などを「まぶしい！」とプレイヤーに直感させるために欠かせない表現、それが Bloom（ブルーム） です。\nUnity標準のPost ProcessingやURP Volumeを使えば、アセットをポンと置いて数値をいじるだけで簡単にリッチな画面が作れます。\nしかし、 「ThresholdやScatterといったパラメーターが、裏側で具体的に何の計算をしているのか」 を説明できるでしょうか？\nこの記事では、「なんとなく数値をいじっている」状態から一歩ステップアップし、Bloomエフェクトの正体である「3つのステップ」...",
+          "link": "https://zenn.dev/zero_0r0/articles/b8460bed827b60",
+          "publishedOn": "2026-03-16T03:15:05.000Z",
+          "wordCount": 1243,
+          "title": "【Unity】「なんとなく」を卒業する。Bloom（ブルーム）の基本処理を紐解いてみる。",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--6DdQXEYz--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2580%2590Unity%25E3%2580%2591%25E3%2580%258C%25E3%2581%25AA%25E3%2582%2593%25E3%2581%25A8%25E3%2581%25AA%25E3%2581%258F%25E3%2580%258D%25E3%2582%2592%25E5%258D%2592%25E6%25A5%25AD%25E3%2581%2599%25E3%2582%258B%25E3%2580%2582Bloom%25EF%25BC%2588%25E3%2583%2596%25E3%2583%25AB%25E3%2583%25BC%25E3%2583%25A0%25EF%25BC%2589%25E3%2581%25AE%25E5%259F%25BA%25E6%259C%25AC%25E5%2587%25A6%25E7%2590%2586%25E3%2582%2592%25E7%25B4%2590%25E8%25A7%25A3%25E3%2581%2584%25E3%2581%25A6%25E3%2581%25BF%25E3%2582%258B%25E3%2580%2582%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2582%25BC%25E3%2583%25AD%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2U5NGY3YjdiYTAuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
+            "length": "0",
+            "type": "false"
+          },
+          "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--6DdQXEYz--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2580%2590Unity%25E3%2580%2591%25E3%2580%258C%25E3%2581%25AA%25E3%2582%2593%25E3%2581%25A8%25E3%2581%25AA%25E3%2581%258F%25E3%2580%258D%25E3%2582%2592%25E5%258D%2592%25E6%25A5%25AD%25E3%2581%2599%25E3%2582%258B%25E3%2580%2582Bloom%25EF%25BC%2588%25E3%2583%2596%25E3%2583%25AB%25E3%2583%25BC%25E3%2583%25A0%25EF%25BC%2589%25E3%2581%25AE%25E5%259F%25BA%25E6%259C%25AC%25E5%2587%25A6%25E7%2590%2586%25E3%2582%2592%25E7%25B4%2590%25E8%25A7%25A3%25E3%2581%2584%25E3%2581%25A6%25E3%2581%25BF%25E3%2582%258B%25E3%2580%2582%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2582%25BC%25E3%2583%25AD%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2U5NGY3YjdiYTAuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"
+        },
+        {
+          "id": "https://zenn.dev/quickbrush/articles/fafedf2726bf47",
+          "author": "Narita Yugo",
+          "description": "4. 既存の流体シミュレーション手法の比較と限界\n海全体を表現するにあたり、単一のインタラクティブな計算手法で構築することは最新のGPUをもってしても難しいと思います。今回は限られたリソース(内蔵GPU)での動作を目標としているため、プレイヤーからの距離に応じて計算手法を切り替えるLOD (Level of Detail)の導入が必須 となります。\n手法を一つずつ解説すると相当長くなってしまうため、ここでは、今回比較検討のために実装した代表的な流体シミュレーション手法について、2次元断面を載せつつ要点のみ解説します。\n流体は一般にナビエ・ストークス方程式に従いますが、これを数値的...",
+          "link": "https://zenn.dev/quickbrush/articles/fafedf2726bf47",
+          "publishedOn": "2026-03-16T03:06:44.000Z",
+          "wordCount": 2883,
+          "title": "【Unity/ Compute Shader】10年前のiGPUで動く！海を丸ごと表現するAPIC-SWE-FFTハイブリッド流体　後編",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--Z0-yp1AP--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2580%2590Unity%252F%2520Compute%2520Shader%25E3%2580%259110%25E5%25B9%25B4%25E5%2589%258D%25E3%2581%25AEiGPU%25E3%2581%25A7%25E5%258B%2595%25E3%2581%258F%25EF%25BC%2581%25E6%25B5%25B7%25E3%2582%2592%25E4%25B8%25B8%25E3%2581%2594%25E3%2581%25A8%25E8%25A1%25A8%25E7%258F%25BE%25E3%2581%2599%25E3%2582%258BAPIC-SWE-FFT...%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Narita%2520Yugo%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly96ZW5uLWRldi5naXRodWIuaW8vZGVmYXVsdC1hdmF0YXJzL2RhcmsvcS5wbmc=%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
+            "length": "0",
+            "type": "false"
+          },
+          "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--Z0-yp1AP--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2580%2590Unity%252F%2520Compute%2520Shader%25E3%2580%259110%25E5%25B9%25B4%25E5%2589%258D%25E3%2581%25AEiGPU%25E3%2581%25A7%25E5%258B%2595%25E3%2581%258F%25EF%25BC%2581%25E6%25B5%25B7%25E3%2582%2592%25E4%25B8%25B8%25E3%2581%2594%25E3%2581%25A8%25E8%25A1%25A8%25E7%258F%25BE%25E3%2581%2599%25E3%2582%258BAPIC-SWE-FFT...%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Narita%2520Yugo%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly96ZW5uLWRldi5naXRodWIuaW8vZGVmYXVsdC1hdmF0YXJzL2RhcmsvcS5wbmc=%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"
+        },
+        {
+          "id": "https://zenn.dev/quickbrush/articles/0b5c77222bf078",
+          "author": "Narita Yugo",
+          "description": "1. はじめに\n低スペックGPUで海全体とインタラクションできる流体システムを実装しました。\n\n 完成デモ\nhttps://youtu.be/wG5bqn34c7w\n\n\n 概略\n既存の多くのゲームでは、広大な海全体に対して直接インタラクションすることができません。これは流体シミュレーションの計算コストが非常に大きく、ゲーム用途では処理負荷が大きすぎるためです。\nそこで今回、特性の異なる3種類の流体手法を組み合わせ、ローエンド環境でも海全体にインタラクション可能なリアルタイム流体エンジンをUnityの Universal Render Pipeline (URP)で実装しました。\n本記...",
+          "link": "https://zenn.dev/quickbrush/articles/0b5c77222bf078",
+          "publishedOn": "2026-03-16T03:04:55.000Z",
+          "wordCount": 581,
+          "title": "【Unity/Compute Shader】10年前のiGPUで動く！海を丸ごと表現するAPIC-SWE-FFTハイブリッド流体　前編",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--6lex_POP--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2580%2590Unity%252FCompute%2520Shader%25E3%2580%259110%25E5%25B9%25B4%25E5%2589%258D%25E3%2581%25AEiGPU%25E3%2581%25A7%25E5%258B%2595%25E3%2581%258F%25EF%25BC%2581%25E6%25B5%25B7%25E3%2582%2592%25E4%25B8%25B8%25E3%2581%2594%25E3%2581%25A8%25E8%25A1%25A8%25E7%258F%25BE%25E3%2581%2599%25E3%2582%258BAPIC-SWE-FFT%25E3%2583%258F...%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Narita%2520Yugo%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly96ZW5uLWRldi5naXRodWIuaW8vZGVmYXVsdC1hdmF0YXJzL2RhcmsvcS5wbmc=%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
+            "length": "0",
+            "type": "false"
+          },
+          "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--6lex_POP--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2580%2590Unity%252FCompute%2520Shader%25E3%2580%259110%25E5%25B9%25B4%25E5%2589%258D%25E3%2581%25AEiGPU%25E3%2581%25A7%25E5%258B%2595%25E3%2581%258F%25EF%25BC%2581%25E6%25B5%25B7%25E3%2582%2592%25E4%25B8%25B8%25E3%2581%2594%25E3%2581%25A8%25E8%25A1%25A8%25E7%258F%25BE%25E3%2581%2599%25E3%2582%258BAPIC-SWE-FFT%25E3%2583%258F...%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Narita%2520Yugo%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly96ZW5uLWRldi5naXRodWIuaW8vZGVmYXVsdC1hdmF0YXJzL2RhcmsvcS5wbmc=%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"
+        },
         {
           "id": "https://zenn.dev/yokamak/articles/a99d6d8054c9c7",
           "author": "yokamak",
@@ -3640,6 +3690,16 @@
       "feedUrl": "https://cginterest.com/feed/",
       "siteUrl": "https://cginterest.com",
       "articles": [
+        {
+          "id": "https://cginterest.com/?p=56657",
+          "author": ".me",
+          "description": "Adobe PhotoshopのBeta版において、画像を立体的に扱える「オブジェクトの回転（Rotate Object）」が追加されました。 まだ投稿時点でも公式ドキュメントにも記載されていないようですが、他にもテクノ […]\nPhotoshop ベータ版テクノロジープレビューに「オブジェクトの回転」が追加！2D画像を3D空間で回転可能に first appeared on CGinterest.",
+          "link": "https://cginterest.com/2026/03/16/photoshop-%e3%83%99%e3%83%bc%e3%82%bf%e7%89%88%e3%83%86%e3%82%af%e3%83%8e%e3%83%ad%e3%82%b8%e3%83%bc%e3%83%97%e3%83%ac%e3%83%93%e3%83%a5%e3%83%bc%e3%81%ab%e3%80%8c%e3%82%aa%e3%83%96%e3%82%b8%e3%82%a7/",
+          "publishedOn": "2026-03-15T22:22:00.000Z",
+          "wordCount": 29709,
+          "title": "Photoshop ベータ版テクノロジープレビューに「オブジェクトの回転」が追加！2D画像を3D空間で回転可能に",
+          "imageUrl": "https://cginterest.com/wp-content/uploads/2026/03/Photoshop-rotateobject.webp"
+        },
         {
           "id": "https://cginterest.com/?p=56633",
           "author": ".me",

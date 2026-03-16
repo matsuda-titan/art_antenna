@@ -1725,16 +1725,6 @@
           "wordCount": 782,
           "title": "無料のドット絵エディタ「DOTTORIE（ドトリエ）」公開！ Webブラウザから利用可能 - ニュース",
           "imageUrl": "https://cgworld.jp/flashnews/assets_c/2026/02/61044eec80f1cfc5bae9403dff99979928347260-thumb-1920x1080-79982.jpg"
-        },
-        {
-          "id": "https://cgworld.jp/flashnews/01-202602-UE-Water.html",
-          "author": null,
-          "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
-          "link": "https://cgworld.jp/flashnews/01-202602-UE-Water.html",
-          "publishedOn": "2026-02-14T23:54:29.000Z",
-          "wordCount": 856,
-          "title": "キャドセンター、UE5.6で実装の「Water Advanced」プラグインの検証記事を公開！　道頓堀に水をながすシミュレーションのノウハウ - ニュース",
-          "imageUrl": "https://cgworld.jp/flashnews/assets_c/2026/02/UE_WaterAdvanced-01-thumb-1920x982-79969.jpg"
         }
       ]
     },
@@ -3015,18 +3005,7 @@
       "title": "グラフィックスタグが付けられた新着記事 - Qiita",
       "feedUrl": "https://qiita.com/tags/%e3%82%b0%e3%83%a9%e3%83%95%e3%82%a3%e3%83%83%e3%82%af%e3%82%b9/feed",
       "siteUrl": "https://qiita.com",
-      "articles": [
-        {
-          "id": "https://qiita.com/MachiaWorx/items/a5ae269e03ee5898e53d",
-          "author": null,
-          "description": "経緯\n\n現状のゲームプログラムにおいて描画対象をGPUに投げるのがメインで、自前でレンダリング命令を構築するとかは行うことは少ない（＝CPU側で描画を制御することは少なくなる）\nただ基礎知識は必要\n応用しやすい。例えば内部でテクスチャに描画だけを行って表示する等が可能。ま...",
-          "link": "https://qiita.com/MachiaWorx/items/a5ae269e03ee5898e53d",
-          "publishedOn": "2026-02-15T00:21:04.000Z",
-          "wordCount": 1491,
-          "title": "CPUによる描画ができるようにフレームワークを作った。",
-          "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnFpaXRhLWltYWdlLXN0b3JlLnMzLmFtYXpvbmF3cy5jb20lMkYwJTJGMTQyNjQ1JTJGcHJvZmlsZS1pbWFnZXMlMkYxNTQ0MzI4MDg5P2l4bGliPXJiLTQuMC4wJmFyPTElM0ExJmZpdD1jcm9wJm1hc2s9ZWxsaXBzZSZiZz1GRkZGRkYmZm09cG5nMzImcz0zNjNlMTNiNGJiMTI3ZjAzYzdhMzk4OWVmMTVjNDgzYQ%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D8459ed6403d778c897644794bb127a30?ixlib=rb-4.0.0&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9Q1BVJUUzJTgxJUFCJUUzJTgyJTg4JUUzJTgyJThCJUU2JThGJThGJUU3JTk0JUJCJUUzJTgxJThDJUUzJTgxJUE3JUUzJTgxJThEJUUzJTgyJThCJUUzJTgyJTg4JUUzJTgxJTg2JUUzJTgxJUFCJUUzJTgzJTk1JUUzJTgzJUFDJUUzJTgzJUJDJUUzJTgzJUEwJUUzJTgzJUFGJUUzJTgzJUJDJUUzJTgyJUFGJUUzJTgyJTkyJUU0JUJEJTlDJUUzJTgxJUEzJUUzJTgxJTlGJUUzJTgwJTgyJnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9MTQ0M2Q3YWM4MzQyZjlkMWIyZmExZTdiN2VjYWJiZWE&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBNYWNoaWFXb3J4JnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9ZjE3YzJkMDdmYTg1NTViYjU4NjM4NjE4NzE3NTEwZTc&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=79435397164b54c0156cb744e862748f"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "CGタグが付けられた新着記事 - Qiita",
@@ -3505,16 +3484,6 @@
           "wordCount": 2422,
           "title": "[082/365]The Fear of Stagnation: Why I Won't Slow Down",
           "imageUrl": "https://assets.st-note.com/production/uploads/images/254522913/rectangle_large_type_2_d033c9753bfa98134efe1276582538a2.png?width=800"
-        },
-        {
-          "id": "https://note.com/torutanno/n/n6ba253306ea2",
-          "author": null,
-          "description": "【081/365】2026年2月15日\n一昨日の記事の続きです。\n\n続きをみる",
-          "link": "https://note.com/torutanno/n/n6ba253306ea2",
-          "publishedOn": "2026-02-14T22:46:51.000Z",
-          "wordCount": 2892,
-          "title": "[081/365] Traces of Passage: Proving the Invisible High-Dimensional Space",
-          "imageUrl": "https://assets.st-note.com/production/uploads/images/254400466/rectangle_large_type_2_49f5f405dfc7b6eefbf98403265bdd98.png?width=800"
         }
       ]
     },

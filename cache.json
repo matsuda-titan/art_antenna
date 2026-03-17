@@ -205,6 +205,36 @@
       "siteUrl": "https://3dnchu.com",
       "articles": [
         {
+          "id": "https://3dnchu.com/?p=1062944",
+          "author": "Ymt3D -3dnchu-",
+          "description": "Johan Peitz氏によるミニマルな3Dモデリングツールのメジャーアップデート版「picoCAD 2」がリリースされました！Windows、MacOS、に対応しitch.ioやSteamから入手可能です！",
+          "link": "https://3dnchu.com/archives/picocad-2/",
+          "publishedOn": "2026-03-17T07:08:36.000Z",
+          "wordCount": 9035,
+          "title": "picoCAD 2 | 話題のレトロ＆ミニマルな3Dモデリングソフト！ゼロから書き直されたメジャーアップデート版がリリース！Steam上でも公開！",
+          "enclosure": {
+            "url": "https://3dnchu.com/wp-content/uploads/picoCAD-2.webp",
+            "length": "1183596",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://3dnchu.com/wp-content/uploads/picoCAD-2.webp"
+        },
+        {
+          "id": "https://3dnchu.com/?p=1062933",
+          "author": "Ymt3D -3dnchu-",
+          "description": "ふぁにー氏（ @Yos_ei3 ）がギズモやスナップ設定をヘッドアップディスプレイに表示可能なBlenderアドオン「Info Gizmo HUD v1.0」をGithub上で無料公開しています！",
+          "link": "https://3dnchu.com/archives/info-gizmo-hud-v1/",
+          "publishedOn": "2026-03-17T06:09:10.000Z",
+          "wordCount": 8818,
+          "title": "Info Gizmo HUD v1.0 | 多用するモード切替＆ギズモ設定＆スナップ設定をヘッドアップディスプレイに表示可能な無料のBlenderアドオンが登場！",
+          "enclosure": {
+            "url": "https://3dnchu.com/wp-content/uploads/info-gizmo-hud-v1.webp",
+            "length": "666306",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://3dnchu.com/wp-content/uploads/info-gizmo-hud-v1.webp"
+        },
+        {
           "id": "https://3dnchu.com/?p=1062903",
           "author": "Ymt3D -3dnchu-",
           "description": "NVIDIAは3月17日、超解像技術の最新アップデート「DLSS 5」を発表しました。2026年秋に提供する予定です。",
@@ -1917,6 +1947,16 @@
       "siteUrl": "https://modelinghappy.com",
       "articles": [
         {
+          "id": "https://modelinghappy.com/?p=67624",
+          "author": "modelinghappy",
+          "description": "HEISEI-VHS ひめやしさんが作成した、平成初期のビデオ映像のように劣化した画像を作成してくれるwebサービスHEISEI-VHSをリリースしました。 画像をアップロードすると自動的に懐かしい画像補正が入り、パラメ\nThe post 平成初期のビデオ映像のように劣化した画像を作成してくれる無料webサービス「HEISEI-VHS」がリリース first appeared on 3DCG最新情報サイト MODELING HAPPY.",
+          "link": "https://modelinghappy.com/archives/67624",
+          "publishedOn": "2026-03-17T07:35:27.000Z",
+          "wordCount": 3701,
+          "title": "平成初期のビデオ映像のように劣化した画像を作成してくれる無料webサービス「HEISEI-VHS」がリリース",
+          "imageUrl": "https://modelinghappy.com/wp-content/uploads/2026/03/20260317_retro.jpg"
+        },
+        {
           "id": "https://modelinghappy.com/?p=67619",
           "author": "modelinghappy",
           "description": "outliner X for Maya outliner X for Mayaは、#8211; Im3dJoe #8211; Maya Polygon Lab #8211;さんが作成した、Mayaのアウトライナーを\nThe post Mayaのアウトライナーを整理・並び替え・カラー管理できる無料プラグイン「Outliner X for Maya」がリリース first appeared on 3DCG最新情報サイト MODELING HAPPY.",
@@ -2303,6 +2343,16 @@
       "feedUrl": "https://3dtotal.jp/feed/",
       "siteUrl": "https://3dtotal.jp",
       "articles": [
+        {
+          "id": "https://3dtotal.jp/?p=55008",
+          "author": "3dtotal管理人T",
+          "description": "はじめに 「アニマルドローイング」は独特な芸術表現の一分野ですが、特別に難解なものではありません。 ただし、人物画家がドローイングに向き合うのと同じように「強い関心」と「継続的な努力」が必要です。こうした姿勢で望めば、見 […]\nThe post 動物を描く・造る秘訣：アーティストのための 動物解剖学 入門 first appeared on 3dtotal 日本語オフィシャルサイト.",
+          "link": "https://3dtotal.jp/tutorials/55008/",
+          "publishedOn": "2026-03-17T08:26:17.000Z",
+          "wordCount": 595,
+          "title": "動物を描く・造る秘訣：アーティストのための 動物解剖学 入門",
+          "imageUrl": "https://3dtotal.jp/wp-content/uploads/2026/03/t384_t.jpg"
+        },
         {
           "id": "https://3dtotal.jp/?p=55004",
           "author": "3dtotal管理人T",
@@ -2861,6 +2911,21 @@
       "siteUrl": "https://zenn.dev/topics/maya",
       "articles": [
         {
+          "id": "https://zenn.dev/hph/articles/maya-setattr-not-change",
+          "author": "wef",
+          "description": "MayaのsetAttrで値が変更されない\nMayaでスクリプトからsetAttrコマンドを使ってアトリビュートの値を変更しようとした際、連続してコマンドを実行すると意図した通りに値が変更されないことがありました。\n今回は、Arnoldのレンダリング設定で遭遇した事例とその解決法について解説します。\n\n 問題の再現\nArnold利用時、レンダリング設定の tiffFormat を1に、colorManagement を1に設定しようと以下のコードを実行しました。\nimport maya.cmds as cmds\n\ncmds.setAttr('defaultArnoldDriver.t...",
+          "link": "https://zenn.dev/hph/articles/maya-setattr-not-change",
+          "publishedOn": "2026-03-13T01:59:26.000Z",
+          "wordCount": 786,
+          "title": "MayaのsetAttrを連続で行うと値が変更されない。（ネタバレ:犯人はScriptJob）",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--n0xOtfbj--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Maya%25E3%2581%25AEsetAttr%25E3%2582%2592%25E9%2580%25A3%25E7%25B6%259A%25E3%2581%25A7%25E8%25A1%258C%25E3%2581%2586%25E3%2581%25A8%25E5%2580%25A4%25E3%2581%258C%25E5%25A4%2589%25E6%259B%25B4%25E3%2581%2595%25E3%2582%258C%25E3%2581%25AA%25E3%2581%2584%25E3%2580%2582%25EF%25BC%2588%25E3%2583%258D%25E3%2582%25BF%25E3%2583%2590%25E3%2583%25AC%253A%25E7%258A%25AF%25E4%25BA%25BA%25E3%2581%25AFScriptJob%25EF%25BC%2589%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:wef%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzU5ODIxOWUzN2MuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
+            "length": "0",
+            "type": "false"
+          },
+          "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--n0xOtfbj--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Maya%25E3%2581%25AEsetAttr%25E3%2582%2592%25E9%2580%25A3%25E7%25B6%259A%25E3%2581%25A7%25E8%25A1%258C%25E3%2581%2586%25E3%2581%25A8%25E5%2580%25A4%25E3%2581%258C%25E5%25A4%2589%25E6%259B%25B4%25E3%2581%2595%25E3%2582%258C%25E3%2581%25AA%25E3%2581%2584%25E3%2580%2582%25EF%25BC%2588%25E3%2583%258D%25E3%2582%25BF%25E3%2583%2590%25E3%2583%25AC%253A%25E7%258A%25AF%25E4%25BA%25BA%25E3%2581%25AFScriptJob%25EF%25BC%2589%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:wef%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzU5ODIxOWUzN2MuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"
+        },
+        {
           "id": "https://zenn.dev/hph/articles/ncache_rendering_error",
           "author": "wef",
           "description": "問題の概要\nMayaでnParticleとnCacheを使用したシーンにおいて、Deadlineを使用したレンダリング時にパーティクルの位置がMayaビューポートでの表示と異なる問題が発生しました。\n解決に時間がかかったため、ここに解決方法をまとめます。\n\n 環境・構成\n\n\n使用要素: nParticle + nCache + nucleus\n\nレンダリング環境: Deadline（レンダーファーム）\n\n問題: パーティクルの位置がローカルのMayaビューポートとDeadlineでのレンダリング結果で異なる\n\n\n 問題1\ndeadlineでのレンダリング結果でパーティクルの位置がMa...",
@@ -2949,6 +3014,16 @@
       "feedUrl": "https://qiita.com/tags/3dcg/feed",
       "siteUrl": "https://qiita.com",
       "articles": [
+        {
+          "id": "https://qiita.com/matumu20/items/4403015a6c1133a3fe41",
+          "author": null,
+          "description": "PaMO: Parallel Mesh Optimization for Intersection-Free Low-Poly Modeling on the GPU (Seonghun Oh, 2025)\n\n                              ...",
+          "link": "https://qiita.com/matumu20/items/4403015a6c1133a3fe41",
+          "publishedOn": "2026-03-17T06:43:22.000Z",
+          "wordCount": 2419,
+          "title": "PaMO: Parallel Mesh Optimization for Intersection-Free Low-Poly Modeling on the GPU (2025)",
+          "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYyOTgxNjYwJTJGOTViNDExMjY5MmU5NDc5M2U2NTY5ODQ5MzdmM2I4ZjliMmE3MDc2YSUyRmxhcmdlLnBuZyUzRjE2Njg2MDM2MDk_aXhsaWI9cmItNC4wLjAmYXI9MSUzQTEmZml0PWNyb3AmbWFzaz1lbGxpcHNlJmJnPUZGRkZGRiZmbT1wbmczMiZzPThjYzIzNTRlZmFhMzVmYjVlYTQyZmFmODQ4MTQ4ZGFi%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D7f60b1d1e382b2846816e47d59804e3d?ixlib=rb-4.0.0&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9UGFNTyUzQSUyMFBhcmFsbGVsJTIwTWVzaCUyME9wdGltaXphdGlvbiUyMGZvciUyMEludGVyc2VjdGlvbi1GcmVlJTIwTG93LVBvbHklMjBNb2RlbGluZyUyMG9uJTIwdGhlJTIwR1BVJTIwJTI4MjAlRTIlODAlQTYmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz00MjU3YzEwYzYzNmVkMGNhMGFkM2IxOTRhZWRlZTQ3ZA&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBtYXR1bXUyMCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPTAxMGQyZDE2MDI5MGI5M2Y2YjJlYmRkZDM1YzgzMDQw&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=87b8bb10554a11a1cc2a2824fa1a55d5"
+        },
         {
           "id": "https://qiita.com/shominai2024/items/a67fdf2ec2fcc11bafec",
           "author": null,
@@ -3765,6 +3840,26 @@
       "feedUrl": "https://cginterest.com/feed/",
       "siteUrl": "https://cginterest.com",
       "articles": [
+        {
+          "id": "https://cginterest.com/?p=56690",
+          "author": ".me",
+          "description": "2026年3月11日（現地時間） – Canvaは、フラットな静止画像を、Canva内で完全に編集可能なマルチレイヤーのデザインへと変換する新機能「Magic Layers」を発表しました。 AI生成画像にお […]\nCanva、静止画を編集可能なマルチレイヤーに変換する新機能「Magic Layers」を発表 first appeared on CGinterest.",
+          "link": "https://cginterest.com/2026/03/17/56690/",
+          "publishedOn": "2026-03-17T08:03:37.000Z",
+          "wordCount": 29415,
+          "title": "Canva、静止画を編集可能なマルチレイヤーに変換する新機能「Magic Layers」を発表",
+          "imageUrl": "https://cginterest.com/wp-content/uploads/2026/03/canva-magiclayers.webp"
+        },
+        {
+          "id": "https://cginterest.com/?p=56682",
+          "author": ".me",
+          "description": "2026年3月17日 – AdobeとNVIDIAは、AIを活用したコンテンツ制作およびパーソナライゼーションの加速を目的とした戦略的パートナーシップを発表しました。 この提携により、NVIDIAの高度なコン […]\nAdobeとNVIDIA、AIモデル「Adobe Firefly」と3D・エージェントワークフロー強化に向けた戦略的提携を発表！ first appeared on CGinterest.",
+          "link": "https://cginterest.com/2026/03/17/adobe%e3%81%a8nvidia%e3%80%81ai%e3%83%a2%e3%83%87%e3%83%ab%e3%80%8cadobe-firefly%e3%80%8d%e3%81%a83d%e3%83%bb%e3%82%a8%e3%83%bc%e3%82%b8%e3%82%a7%e3%83%b3%e3%83%88%e3%83%af%e3%83%bc%e3%82%af%e3%83%95/",
+          "publishedOn": "2026-03-17T05:55:40.000Z",
+          "wordCount": 29486,
+          "title": "AdobeとNVIDIA、AIモデル「Adobe Firefly」と3D・エージェントワークフロー強化に向けた戦略的提携を発表！",
+          "imageUrl": "https://cginterest.com/wp-content/uploads/2026/03/adobe-nvidia-partnership.webp"
+        },
         {
           "id": "https://cginterest.com/?p=56657",
           "author": ".me",

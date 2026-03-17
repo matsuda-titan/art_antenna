@@ -205,6 +205,21 @@
       "siteUrl": "https://3dnchu.com",
       "articles": [
         {
+          "id": "https://3dnchu.com/?p=1062903",
+          "author": "Ymt3D -3dnchu-",
+          "description": "NVIDIAは3月17日、超解像技術の最新アップデート「DLSS 5」を発表しました。2026年秋に提供する予定です。",
+          "link": "https://3dnchu.com/archives/nvidia-dlss-5/",
+          "publishedOn": "2026-03-17T01:26:03.000Z",
+          "wordCount": 8907,
+          "title": "NVIDIA DLSS 5 発表！| 生成AIを活用し照明や顔までハイディテールに！ただし批判意見多数！",
+          "enclosure": {
+            "url": "https://3dnchu.com/wp-content/uploads/NVIDIA-DLSS-5.webp",
+            "length": "1336404",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://3dnchu.com/wp-content/uploads/NVIDIA-DLSS-5.webp"
+        },
+        {
           "id": "https://3dnchu.com/?p=1059216",
           "author": "Ymt3D -3dnchu-",
           "description": "Carsten Baars氏とArvid Schneider氏による「SpeedTree Controller 3.0」はHoudini用のSpeedTreeアセット制御＆パイプライン統合用ツールセットです。",
@@ -751,6 +766,26 @@
       "feedUrl": "https://cgworld.jp/atom.xml",
       "siteUrl": "https://cgworld.jp/",
       "articles": [
+        {
+          "id": "https://cgworld.jp/special-feature/2603-libernovo-omni.html",
+          "author": null,
+          "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
+          "link": "https://cgworld.jp/special-feature/2603-libernovo-omni.html",
+          "publishedOn": "2026-03-17T02:19:01.000Z",
+          "wordCount": 604,
+          "title": "長時間の作業でも疲れにくいフィット感。電動ワークチェア「LiberNovo Omni」を鈴木卓矢が検証 - スペシャルコンテンツ",
+          "imageUrl": "https://cgworld.jp/special-feature/assets_c/2026/03/libernovo_safehouse_v2-thumb-768x432-80985.png"
+        },
+        {
+          "id": "https://cgworld.jp/regular/202603-UE-GARO-StB.html",
+          "author": null,
+          "description": "",
+          "link": "https://cgworld.jp/regular/202603-UE-GARO-StB.html",
+          "publishedOn": "2026-03-17T00:46:00.000Z",
+          "wordCount": 856,
+          "title": "【Unreal Engine】グリーンバック方式のバーチャルプロダクションを全面導入｜TVドラマ『牙狼＜GARO＞ 東ノ界楼』 - 連載",
+          "imageUrl": "https://cgworld.jp/regular/assets_c/2026/03/85d57a0d94cf32aba11ee9a52185fd0fe0f5eba2-thumb-1920x1080-80817.jpg"
+        },
         {
           "id": "https://cgworld.jp/flashnews/01-202603-GBDotConverter.html",
           "author": null,
@@ -1855,6 +1890,16 @@
       "siteUrl": "https://tech.spark-creative.co.jp/",
       "articles": [
         {
+          "id": "https://tech.spark-creative.co.jp/entry/2026/03/17/121142",
+          "author": null,
+          "description": "はじめに MPCとは シーケンサーで値を変える 本題 エンジン改造で解決 変数追加 セッターを追加 値変わったらセット デバック 余談 終わり はじめに こんにちは、クライアントエンジニアの下野です。 今回はマテリアルパラメータコレクション（以下MPC）の、実行中の値を確認できるようにする処理を行います。 MPCとは 複数のマテリアルで共有できる変数群みたいなものです。 ScalarとVectorの2種類が選べます CollectionParameterで呼び出せます 通常マテリアルの値を変えるにはScalarParameterなどを使用しますが、マスターマテリアルが異なる場合は同じ用途同じ値…",
+          "link": "https://tech.spark-creative.co.jp/entry/2026/03/17/121142",
+          "publishedOn": "2026-03-17T03:11:42.000Z",
+          "wordCount": 488,
+          "title": "【UE5】MPCのランタイムの値を見たいよねっていう話",
+          "imageUrl": "https://cdn.image.st-hatena.com/image/scale/2aa0b6e0397058b92bdee4494bee2d5dc59d63b9/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fs%2Fspark-shimono-ryota%2F20260317%2F20260317093831.png"
+        },
+        {
           "id": "https://tech.spark-creative.co.jp/entry/2026/02/25/125843",
           "author": null,
           "description": "はじめに ディザとは 実装 最適化を考えよう 常駐の負荷を減らす 余談（MaterialInstanceDynamicを減らす） 終わり はじめに こんにちは、クライアントエンジニアの下野です。 今回は初心に立ち返り、ディザ抜きのマテリアルを作っていこうと思います。 エンジンのバージョンは5.6を使用しています。 ディザとは ディザは、透明度を扱えないマテリアル設定（Masked）で、アンチエイリアス機能を利用して「擬似的な半透明」を表現する手法です。 実体と透過を網掛けのように表示して、TAAなどのアンチエイリアシングでぼかす事で半透明の見た目を再現してます。 よく使われるのは、プレイヤーと…",
@@ -2250,16 +2295,6 @@
           "wordCount": 3692,
           "title": "Close Bone Picker｜ボーン選択をショートカットで簡単＆高速化するBlenderアドオン",
           "imageUrl": "https://modelinghappy.com/wp-content/uploads/2026/02/20260216_close_bone_picker_01.jpg"
-        },
-        {
-          "id": "https://modelinghappy.com/?p=67153",
-          "author": "modelinghappy",
-          "description": "Lazy Interiors Addon Lazy Interiors AddonはBlenderで使える高品質なインテリア用のアセット380種類に、直ぐにインテリアが並べられてる完成されたシーンデータ34種類、マテリア\nThe post 家具380種＋完成シーン34種収録！45GBのBlender用インテリアアセットが25ドルセール価格で販売中！｜Lazy Interiors Addon first appeared on 3DCG最新情報サイト MODELING HAPPY.",
-          "link": "https://modelinghappy.com/archives/67153",
-          "publishedOn": "2026-02-15T14:32:33.000Z",
-          "wordCount": 3702,
-          "title": "家具380種＋完成シーン34種収録！45GBのBlender用インテリアアセットが25ドルセール価格で販売中！｜Lazy Interiors Addon",
-          "imageUrl": "https://modelinghappy.com/wp-content/uploads/2026/02/20260215_lazy_interiors_01.jpg"
         }
       ]
     },
@@ -2268,6 +2303,16 @@
       "feedUrl": "https://3dtotal.jp/feed/",
       "siteUrl": "https://3dtotal.jp",
       "articles": [
+        {
+          "id": "https://3dtotal.jp/?p=55004",
+          "author": "3dtotal管理人T",
+          "description": "★The Pixar Show: HOPPERS | Exclusive Short Film + \"Hoppers\" was almost about WHAT?!（16分12秒） 00:19 The Pixar Sh […]\nThe post ピクサーの映画制作チームが さまざまなコンテンツを直接お届け！「The Pixar Show」 first appeared on 3dtotal 日本語オフィシャルサイト.",
+          "link": "https://3dtotal.jp/news/55004/",
+          "publishedOn": "2026-03-17T01:37:47.000Z",
+          "wordCount": 582,
+          "title": "ピクサーの映画制作チームが さまざまなコンテンツを直接お届け！「The Pixar Show」",
+          "imageUrl": "https://3dtotal.jp/wp-content/uploads/2026/03/pixarshow_hoppers.jpg"
+        },
         {
           "id": "https://3dtotal.jp/?p=54238",
           "author": "3dtotal管理人T",

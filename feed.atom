@@ -2,10 +2,74 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-03-20T01:11:30.131Z</updated>
+    <updated>2026-03-20T04:29:39.804Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【Blender】VRMアドオンはどこから入れる？正しい入手方法]]></title>
+        <id>https://zenn.dev/ryo_ta_24/articles/efaa73ce760e27</id>
+        <link href="https://zenn.dev/ryo_ta_24/articles/efaa73ce760e27"/>
+        <updated>2026-03-20T04:00:07.000Z</updated>
+        <summary type="html"><![CDATA[はじめに
+Blender 4.2にしたらVRMエクスポートが壊れました。
+最初、どこから入れるのが正解か分からず、
+アドオンから入れてエラーになりました。
+結果、古いアドオンが残ってるのが原因でした。
+同じ症状の人、これで直ると思います。
+
+- 環境 -
+blender 4.2.17 LTS
+VRM format 3.19.4　←　これにアップデートしたい
+
+
+ 結論（急いでる人）
+一度VRMアドオンを完全削除 → 最新版を入れ直す
+これだけです。
+
+
+ 症状
+僕の場合は、エクスポートできない（エラーが出る）
+
+
+ 原因
+Blender 4.2からアドオン管理が「Extensions...]]></summary>
+        <author>
+            <name>りょーた</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【無料】Grease Pencilで描いた線をそのまま立体化！枝・ケーブル・植物を簡単作成できるBlenderアドオン「InkForm」]]></title>
+        <id>https://modelinghappy.com/?p=67688</id>
+        <link href="https://modelinghappy.com/archives/67688"/>
+        <updated>2026-03-20T02:18:42.000Z</updated>
+        <summary type="html"><![CDATA[InkFormは、Kevandramさんが作成した、BlenderのGrease Pencilで描いたストロークを、そのまま太さを維持した状態でメッシュに変換できる無料のアドオンです。 線の太さの変化をそのまま立体化でき
+The post 【無料】Grease Pencilで描いた線をそのまま立体化！枝・ケーブル・植物を簡単作成できるBlenderアドオン「InkForm」 first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
+        <author>
+            <name>modelinghappy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Snapshot Blenderでマテリアル・ライティングを履歴管理！Snapshotで復元＆比較が可能になるアドオン]]></title>
+        <id>https://modelinghappy.com/?p=67683</id>
+        <link href="https://modelinghappy.com/archives/67683"/>
+        <updated>2026-03-20T01:46:01.000Z</updated>
+        <summary type="html"><![CDATA[Snapshot [Beta 0.2] Snapshotは、Blenderで作業中のライティングやマテリアルなどをスナップショットとして複数保存し、あとから自由に戻してバリエーションを簡単に作成・修正可能になるアドオンで
+The post Snapshot Blenderでマテリアル・ライティングを履歴管理！Snapshotで復元＆比較が可能になるアドオン first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
+        <author>
+            <name>modelinghappy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[コーディング不要の産業向け3Dアプリケーション制作ツール「Unity Studio」リリース！　Webブラウザで迅速にプロトタイプやシミュレーションアプリを制作・共有 - ニュース]]></title>
+        <id>https://cgworld.jp/flashnews/01-202603-UnityStudio.html</id>
+        <link href="https://cgworld.jp/flashnews/01-202603-UnityStudio.html"/>
+        <updated>2026-03-20T00:31:05.000Z</updated>
+        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Blender 5.1 が正式リリース！パフォーマンス強化、ジオメトリ＆グリースペンシルの強化、新レイキャストノード、などなど]]></title>
         <id>https://cginterest.com/?p=56778</id>
@@ -4205,39 +4269,6 @@ Epic Games、Quixel Mixer の最終版となる「オフラインバージョン
         <summary type="html"><![CDATA[ものづくり系の情報Webメディア「FabScene（ファブシーン）」のYoutubeチャンネルが開設！動画第1弾として『【完全解説】3Dプリンターはなぜ「誰でも買える」ようになったのか』が公開されています！]]></summary>
         <author>
             <name>Ymt3D -3dnchu-</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【Unity】SDFとステンシルで実装する、ROUNDS風の動く三角形背景]]></title>
-        <id>https://qiita.com/yy_108/items/2fd4ee9dd221b87cfd99</id>
-        <link href="https://qiita.com/yy_108/items/2fd4ee9dd221b87cfd99"/>
-        <updated>2026-02-18T15:33:29.000Z</updated>
-        <summary type="html"><![CDATA[概要
-以下のようなシェーダーのコードや実装手順を以下に示します．
-この表現はROUNDSを参考にしました．
-
-開発環境
-Unity 6000.0.58f2
-
-実装
-
-1. コード
-Create -> Shader -> Unlit Shaderで作成し，以下のように編集...]]></summary>
-        <author>
-            <name>HLSLタグが付けられた新着記事 - Qiita</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[084/365]Frozen Starlight: A Night Under the Shivering Sky]]></title>
-        <id>https://note.com/torutanno/n/nd5220d54bcc8</id>
-        <link href="https://note.com/torutanno/n/nd5220d54bcc8"/>
-        <updated>2026-02-18T13:28:00.000Z</updated>
-        <summary type="html"><![CDATA[【084/365】2026年2月18日
-とある場所に撮影にいっておりました。
-
-続きをみる]]></summary>
-        <author>
-            <name>#Houdiniタグ</name>
         </author>
     </entry>
 </feed>

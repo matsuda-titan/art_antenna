@@ -797,6 +797,16 @@
       "siteUrl": "https://cgworld.jp/",
       "articles": [
         {
+          "id": "https://cgworld.jp/flashnews/01-202603-UnityStudio.html",
+          "author": null,
+          "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
+          "link": "https://cgworld.jp/flashnews/01-202603-UnityStudio.html",
+          "publishedOn": "2026-03-20T00:31:05.000Z",
+          "wordCount": 755,
+          "title": "コーディング不要の産業向け3Dアプリケーション制作ツール「Unity Studio」リリース！　Webブラウザで迅速にプロトタイプやシミュレーションアプリを制作・共有 - ニュース",
+          "imageUrl": "https://cgworld.jp/flashnews/assets_c/2026/03/UnityStudio-01-thumb-1920x1081-81301.jpg"
+        },
+        {
           "id": "https://cgworld.jp/special-feature/2603-AMD-Unitcom-chiharu.html",
           "author": null,
           "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
@@ -1871,6 +1881,26 @@
       "siteUrl": "https://modelinghappy.com",
       "articles": [
         {
+          "id": "https://modelinghappy.com/?p=67688",
+          "author": "modelinghappy",
+          "description": "InkFormは、Kevandramさんが作成した、BlenderのGrease Pencilで描いたストロークを、そのまま太さを維持した状態でメッシュに変換できる無料のアドオンです。 線の太さの変化をそのまま立体化でき\nThe post 【無料】Grease Pencilで描いた線をそのまま立体化！枝・ケーブル・植物を簡単作成できるBlenderアドオン「InkForm」 first appeared on 3DCG最新情報サイト MODELING HAPPY.",
+          "link": "https://modelinghappy.com/archives/67688",
+          "publishedOn": "2026-03-20T02:18:42.000Z",
+          "wordCount": 3734,
+          "title": "【無料】Grease Pencilで描いた線をそのまま立体化！枝・ケーブル・植物を簡単作成できるBlenderアドオン「InkForm」",
+          "imageUrl": "https://modelinghappy.com/wp-content/uploads/2026/03/20260320_inkform_01.jpg"
+        },
+        {
+          "id": "https://modelinghappy.com/?p=67683",
+          "author": "modelinghappy",
+          "description": "Snapshot [Beta 0.2] Snapshotは、Blenderで作業中のライティングやマテリアルなどをスナップショットとして複数保存し、あとから自由に戻してバリエーションを簡単に作成・修正可能になるアドオンで\nThe post Snapshot Blenderでマテリアル・ライティングを履歴管理！Snapshotで復元＆比較が可能になるアドオン first appeared on 3DCG最新情報サイト MODELING HAPPY.",
+          "link": "https://modelinghappy.com/archives/67683",
+          "publishedOn": "2026-03-20T01:46:01.000Z",
+          "wordCount": 3719,
+          "title": "Snapshot Blenderでマテリアル・ライティングを履歴管理！Snapshotで復元＆比較が可能になるアドオン",
+          "imageUrl": "https://modelinghappy.com/wp-content/uploads/2026/03/20260320_Snapshot_01.jpg"
+        },
+        {
           "id": "https://modelinghappy.com/?p=67654",
           "author": "modelinghappy",
           "description": "Blender5.1 Blender5.1がリリースされ公式サイトからダウンロード可能となっています。 今回のアップデートでは、Ray Castノードがマテリアルでも使用可能になり、CyclesとEeveeの両方でNPR\nThe post Blender 5.1リリース！NPR表現と処理速度が大幅強化など まとめ first appeared on 3DCG最新情報サイト MODELING HAPPY.",
@@ -2753,6 +2783,21 @@
       "siteUrl": "https://zenn.dev/topics/3dcg",
       "articles": [
         {
+          "id": "https://zenn.dev/ryo_ta_24/articles/efaa73ce760e27",
+          "author": "りょーた",
+          "description": "はじめに\nBlender 4.2にしたらVRMエクスポートが壊れました。\n最初、どこから入れるのが正解か分からず、\nアドオンから入れてエラーになりました。\n結果、古いアドオンが残ってるのが原因でした。\n同じ症状の人、これで直ると思います。\n\n- 環境 -\nblender 4.2.17 LTS\nVRM format 3.19.4　←　これにアップデートしたい\n\n\n 結論（急いでる人）\n一度VRMアドオンを完全削除 → 最新版を入れ直す\nこれだけです。\n\n\n 症状\n僕の場合は、エクスポートできない（エラーが出る）\n\n\n 原因\nBlender 4.2からアドオン管理が「Extensions...",
+          "link": "https://zenn.dev/ryo_ta_24/articles/efaa73ce760e27",
+          "publishedOn": "2026-03-20T04:00:07.000Z",
+          "wordCount": 494,
+          "title": "【Blender】VRMアドオンはどこから入れる？正しい入手方法",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--R1C8fb6_--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2580%2590Blender%25E3%2580%2591VRM%25E3%2582%25A2%25E3%2583%2589%25E3%2582%25AA%25E3%2583%25B3%25E3%2581%25AF%25E3%2581%25A9%25E3%2581%2593%25E3%2581%258B%25E3%2582%2589%25E5%2585%25A5%25E3%2582%258C%25E3%2582%258B%25EF%25BC%259F%25E6%25AD%25A3%25E3%2581%2597%25E3%2581%2584%25E5%2585%25A5%25E6%2589%258B%25E6%2596%25B9%25E6%25B3%2595%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2582%258A%25E3%2582%2587%25E3%2583%25BC%25E3%2581%259F%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jSUpqaE5DZkVtMk5JeHdla1FEWTRMb3Ixal93Ul9EdFNnMWVZUUlJZUdONXpENXhEUT1zMjUwLWM=%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
+            "length": "0",
+            "type": "false"
+          },
+          "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--R1C8fb6_--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2580%2590Blender%25E3%2580%2591VRM%25E3%2582%25A2%25E3%2583%2589%25E3%2582%25AA%25E3%2583%25B3%25E3%2581%25AF%25E3%2581%25A9%25E3%2581%2593%25E3%2581%258B%25E3%2582%2589%25E5%2585%25A5%25E3%2582%258C%25E3%2582%258B%25EF%25BC%259F%25E6%25AD%25A3%25E3%2581%2597%25E3%2581%2584%25E5%2585%25A5%25E6%2589%258B%25E6%2596%25B9%25E6%25B3%2595%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2582%258A%25E3%2582%2587%25E3%2583%25BC%25E3%2581%259F%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jSUpqaE5DZkVtMk5JeHdla1FEWTRMb3Ixal93Ul9EdFNnMWVZUUlJZUdONXpENXhEUT1zMjUwLWM=%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"
+        },
+        {
           "id": "https://zenn.dev/layer3d/articles/disney-level-vtuber-with-ai",
           "author": "layer3d",
           "description": "2026年、Claude Codeがあれば、Webアプリはもう誰でも作れる時代になった。\nじゃあ、3DCGは？\n声を入れたら、ディズニーみたいに滑らかに口が動くVTuber。これをリアルタイムで、遅延なしで作れるだろうか。最新のAIモデルを全部使って、本気で挑戦してみることにした。\n\n実際に作ったリアルタイムデモ。マイクに向かって喋ると、AIが口の動きを生成し、VRMアバターに即座に反映される。\n\n音声入力に対してリアルタイムで口が動く様子。AIが52次元のブレンドシェイプを毎フレーム予測している。\n\n なぜこれが難しいのか\nディズニーやピクサーの映画を思い出してほしい。キャラクターの表...",
@@ -3072,16 +3117,6 @@
           "wordCount": 597,
           "title": "Unreal Engineのシェーダー内でエンジンのバージョンを判定する方法",
           "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkY2NjE2MCUyRmU5ZTgwYTYzNzk0ZDViNGU2NTYzNjY3ZGI2OTM0ZjA2YzAyMjY3ZWElMkZ4X2xhcmdlLnBuZyUzRjE3MTE5NDA4OTg_aXhsaWI9cmItNC4wLjAmYXI9MSUzQTEmZml0PWNyb3AmbWFzaz1lbGxpcHNlJmJnPUZGRkZGRiZmbT1wbmczMiZzPTU0MzQ3YTU2N2JiOGY3NDc4OWM3NDU5ZjVkMDhhMzNj%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D8fdccb9e4f7027bfc0adb20740b20248?ixlib=rb-4.0.0&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9VW5yZWFsJTIwRW5naW5lJUUzJTgxJUFFJUUzJTgyJUI3JUUzJTgyJUE3JUUzJTgzJUJDJUUzJTgzJTgwJUUzJTgzJUJDJUU1JTg2JTg1JUUzJTgxJUE3JUUzJTgyJUE4JUUzJTgzJUIzJUUzJTgyJUI4JUUzJTgzJUIzJUUzJTgxJUFFJUUzJTgzJTkwJUUzJTgzJUJDJUUzJTgyJUI4JUUzJTgzJUE3JUUzJTgzJUIzJUUzJTgyJTkyJUU1JTg4JUE0JUU1JUFFJTlBJUUzJTgxJTk5JUUzJTgyJThCJUU2JTk2JUI5JUU2JUIzJTk1JnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9NmEyMjVmMzlkMTU0NWJmYmJjMjBkMWI0ODE0NDgyOGU&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDB5b3J1bmcmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz1mMDQ4MjY0ZWYyNTg4YTJmZmM1MzEzYjIzYzlmMDFiNg&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=190ea18301f0a583dd59984cf429463c"
-        },
-        {
-          "id": "https://qiita.com/yy_108/items/2fd4ee9dd221b87cfd99",
-          "author": null,
-          "description": "概要\n以下のようなシェーダーのコードや実装手順を以下に示します．\nこの表現はROUNDSを参考にしました．\n\n開発環境\nUnity 6000.0.58f2\n\n実装\n\n1. コード\nCreate -> Shader -> Unlit Shaderで作成し，以下のように編集...",
-          "link": "https://qiita.com/yy_108/items/2fd4ee9dd221b87cfd99",
-          "publishedOn": "2026-02-18T15:33:29.000Z",
-          "wordCount": 3220,
-          "title": "【Unity】SDFとステンシルで実装する、ROUNDS風の動く三角形背景",
-          "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYzMDc3MTc1JTJGODUyODM2MTUyMGZlZTJjYzIxNjVjMzhhMjNjZTRjNmFkN2RjYTI3NCUyRnhfbGFyZ2UucG5nJTNGMTcxMzE1NzA2NT9peGxpYj1yYi00LjAuMCZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9OGJkZWE0MzJiZjc0YzAyMzdjMmQ2YjE4MmEzODE4Njk%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D998196ca4688cc97676c795d01d3b45a?ixlib=rb-4.0.0&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9JUUzJTgwJTkwVW5pdHklRTMlODAlOTFTREYlRTMlODElQTglRTMlODIlQjklRTMlODMlODYlRTMlODMlQjMlRTMlODIlQjclRTMlODMlQUIlRTMlODElQTclRTUlQUUlOUYlRTglQTMlODUlRTMlODElOTklRTMlODIlOEIlRTMlODAlODFST1VORFMlRTklQTIlQTglRTMlODElQUUlRTUlOEIlOTUlRTMlODElOEYlRTQlQjglODklRTglQTclOTIlRTUlQkQlQTIlRTglODMlOEMlRTYlOTklQUYmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz1kYjg3MTBjOTJjMjliNTAwZTg5ODA5M2U3ZWY3NTYzZA&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDB5eV8xMDgmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz02YmYyZjI1ODZmZGNjMDY1YjEzNzMxNGZjOTJmZTdjNA&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=6bab67bcb17a5b6c0b1581dcf3f6fa8d"
         }
       ]
     },
@@ -3499,16 +3534,6 @@
           "wordCount": 2509,
           "title": "[085/365]Copyrighting the Self: The Dawn of the \"Human-as-Content\" Era",
           "imageUrl": "https://assets.st-note.com/production/uploads/images/254625183/rectangle_large_type_2_bb2076ae42e391bd40bbd0656bfc4994.png?width=800"
-        },
-        {
-          "id": "https://note.com/torutanno/n/nd5220d54bcc8",
-          "author": null,
-          "description": "【084/365】2026年2月18日\nとある場所に撮影にいっておりました。\n\n続きをみる",
-          "link": "https://note.com/torutanno/n/nd5220d54bcc8",
-          "publishedOn": "2026-02-18T13:28:00.000Z",
-          "wordCount": 2400,
-          "title": "[084/365]Frozen Starlight: A Night Under the Shivering Sky",
-          "imageUrl": "https://assets.st-note.com/production/uploads/images/254582385/rectangle_large_type_2_cffd1e27e2c3c2b38aac9154c0c6bb8a.png?width=800"
         }
       ]
     },

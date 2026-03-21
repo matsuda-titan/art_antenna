@@ -2,10 +2,102 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-03-20T12:35:07.572Z</updated>
+    <updated>2026-03-21T01:07:00.560Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Unity、Webベースのノーコード3Dエディタ「Unity Studio」を正式リリース！]]></title>
+        <id>https://cginterest.com/?p=56860</id>
+        <link href="https://cginterest.com/2026/03/21/unity%e3%80%81web%e3%83%99%e3%83%bc%e3%82%b9%e3%81%ae%e3%83%8e%e3%83%bc%e3%82%b3%e3%83%bc%e3%83%893d%e3%82%a8%e3%83%87%e3%82%a3%e3%82%bf%e3%80%8cunity-studio%e3%80%8d%e3%82%92%e6%ad%a3%e5%bc%8f/"/>
+        <updated>2026-03-21T00:00:22.000Z</updated>
+        <summary type="html"><![CDATA[2026年3月19日 – Unityは、Webベースのノーコード3Dエディタ「Unity Studio」を発表しました。 Unity Studioとは？ Unity Studio は、コーディングや複雑なワー […]
+Unity、Webベースのノーコード3Dエディタ「Unity Studio」を正式リリース！ first appeared on CGinterest.]]></summary>
+        <author>
+            <name>.me</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【第3章】AIジェスチャー生成を3手法試して全部失敗した話 ── 推論4秒、肘880度回転、そしてプリセットに戻った]]></title>
+        <id>https://zenn.dev/layer3d/articles/ai-avatar-gesture-generation</id>
+        <link href="https://zenn.dev/layer3d/articles/ai-avatar-gesture-generation"/>
+        <updated>2026-03-20T18:41:12.000Z</updated>
+        <summary type="html"><![CDATA[口が動く。表情も変わる。でも、棒立ちだ。
+リップシンクAIと感情表情システムを作り、口は滑らかに動き、目は感情に応じて変化する。数字の上では成功だった。だが実際にアバターと会話してみると、体が微動だにしない。顔だけが動く不気味な人形だった。
+この記事は、音声からジェスチャーを自動生成するためにDiffSHEG（拡散モデル）、GRU直接回帰、GestureLSM（Flow Matching）の3つを試して、全部ダメだった記録だ。そして最終的に「AIの使いどころが違った」と気づいた話を書く。
+!
+対象読者: Stable Diffusionなど生成AIの基本概念を知っている人。VTuber/...]]></summary>
+        <author>
+            <name>layer3d</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【第2章】AIアバターに感情を宿す技術 ── emotion2vecを使わず、なぜLLM+プロシージャルを選んだのか]]></title>
+        <id>https://zenn.dev/layer3d/articles/ai-avatar-emotion-system</id>
+        <link href="https://zenn.dev/layer3d/articles/ai-avatar-emotion-system"/>
+        <updated>2026-03-20T18:38:29.000Z</updated>
+        <summary type="html"><![CDATA[口が動くだけのアバターは、どれだけ精巧に作っても「人形」だ。
+前回の記事で、音声からリアルタイムに口を動かすリップシンクAIを作った。精度0.89、75倍速。数字の上では成功だった。
+だが、実際に動かしてみると、違和感が消えない。
+口だけが機械的に動き、目は死んでいる。何を喋っても同じ顔。これは「喋る人形」であって、「生きたキャラクター」ではない。
+人間が相手を「生きている」と感じるのは、口ではなく目だ。嬉しいときに目尻が下がる。怒ったときに眉間にしわが寄る。驚いたときにまぶたが大きく開く。無意識にそれを読み取っている。
+口の動きは「何を喋っているか」を伝え、目の動きは「何を感じているか...]]></summary>
+        <author>
+            <name>layer3d</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Inkform v1.0 | Grease Pencilのストロークを3Dメッシュに変換する幾つかのツールを搭載した無料のBlenderアドオン！]]></title>
+        <id>https://3dnchu.com/?p=1063099</id>
+        <link href="https://3dnchu.com/archives/inkform-v1-0/"/>
+        <updated>2026-03-20T18:22:29.000Z</updated>
+        <summary type="html"><![CDATA[Kevandramによる、Grease Pencilのストロークを3Dメッシュに変換する幾つかのツールを搭載した無料のBlenderアドオン「Inkform v1.0」が公開されています！]]></summary>
+        <author>
+            <name>Ymt3D -3dnchu-</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HiPhyEngine v1.1 | 元Walt Disney Animation Studiosのエンジニアが開発したBlender向けオールインワン型マルチ物理シミュレーションエンジン！交差や破綻の少ない計算が可能！無料体験版もあるよ！]]></title>
+        <id>https://3dnchu.com/?p=1063074</id>
+        <link href="https://3dnchu.com/archives/hiphyengine-v1-1/"/>
+        <updated>2026-03-20T16:42:45.000Z</updated>
+        <summary type="html"><![CDATA[元WDAS（Walt Disney Animation Studios）のシミュレーションエンジニア Haixiang Liu氏が開発したBlender向けオールインワン型マルチ物理シミュレーションエンジン「HiPhyEngine」がSuperhive上でリリースされています！]]></summary>
+        <author>
+            <name>Ymt3D -3dnchu-</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[続・Maya - Bifrost+USDとLookdevXでシェーダー表現]]></title>
+        <id>https://qiita.com/jet-misoshil/items/fea2e85bb04469057baf</id>
+        <link href="https://qiita.com/jet-misoshil/items/fea2e85bb04469057baf"/>
+        <updated>2026-03-20T15:58:54.000Z</updated>
+        <summary type="html"><![CDATA[はじめに
+この記事は 2025年末のMaya AdventCalender2025の記事を補間するものです
+元記事
+
+ちゃんとした高速化
+去年の記事では高速化？という、自身でコントロールできる範囲外のもので実際高速偽装する内容を取り上げましたが
+USDかどうかによらずより...]]></summary>
+        <author>
+            <name>mayaタグが付けられた新着記事 - Qiita</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【Unity】「なんとなく」を卒業する。Blur, Bloom応用編]]></title>
+        <id>https://zenn.dev/zero_0r0/articles/e235a8aa535800</id>
+        <link href="https://zenn.dev/zero_0r0/articles/e235a8aa535800"/>
+        <updated>2026-03-20T10:59:37.000Z</updated>
+        <summary type="html"><![CDATA[はじめに
+前回の記事では、Bloom（ブルーム）エフェクトの裏側で動いている「3つのステップ（抽出・ブラー・合成）」について解説しました。
+「Threshold（閾値）で明るいピクセルを抽出し、Scatter（散乱）でそれをぼかし、Intensity（強度）で元の絵に足し算する」。
+このバケツリレーの仕組みが分かれば、もうインスペクターの数値を「なんとなく」いじる状態からは完全に卒業できたはずです。
+今回はそこからさらに一歩踏み込みます。
+仕組みは分かったけれど、それを 「もっと綺麗に」「もっと便利に」使うための応用テクニック とです。
+また実装でUnityの標準に少し近づけてみよう...]]></summary>
+        <author>
+            <name>ゼロ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[3DCGアセットストア「FlippedNormals」がマーケットプレイスの閉鎖を発表！今後はオリジナルコンテンツに特化へ]]></title>
         <id>https://cginterest.com/?p=56859</id>
@@ -4185,126 +4277,6 @@ The post 新しいライバルはタブレット!? ピクサー映画『トイ�
 The post Lip Deformer for Maya｜リアルな唇の接触・粘り付きまでシミュレーションできるMayaプラグイン first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
         <author>
             <name>modelinghappy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Attribute Manager｜頂点ウェイトやクリース値などをスプレッドシート形式で一括編集できるBlenderアドオン]]></title>
-        <id>https://modelinghappy.com/?p=67209</id>
-        <link href="https://modelinghappy.com/archives/67209"/>
-        <updated>2026-02-19T12:32:15.000Z</updated>
-        <summary type="html"><![CDATA[Attribute Manager for Blender Attribute Manager for BlenderはYoshiaki Tazakiさんが作成した、Blenderでメッシュやオブジェクトの属性を スプレ
-The post Attribute Manager｜頂点ウェイトやクリース値などをスプレッドシート形式で一括編集できるBlenderアドオン first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
-        <author>
-            <name>modelinghappy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KTT for Houdini | 50種以上の地景処理用ノードを搭載！Houdini向け地景生成ツールセット！非商用向け無料版もあるよ！by Samuel Krug]]></title>
-        <id>https://3dnchu.com/?p=1062154</id>
-        <link href="https://3dnchu.com/archives/ktt-for-houdini/"/>
-        <updated>2026-02-19T12:18:47.000Z</updated>
-        <summary type="html"><![CDATA[3D環境＆テクニカルアーティストのSamuel Krug氏（@samuel_krug）による、Houdini向け地景生成ツールセット「KTT fo Houdini」のご紹介！]]></summary>
-        <author>
-            <name>Ymt3D -3dnchu-</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mac用アプリでシェーダーを使った描画を少し試す（VS Code での Swift開発）【その2】]]></title>
-        <id>https://qiita.com/youtoy/items/ea5f6c3392b975d99b1a</id>
-        <link href="https://qiita.com/youtoy/items/ea5f6c3392b975d99b1a"/>
-        <updated>2026-02-19T12:16:12.000Z</updated>
-        <summary type="html"><![CDATA[はじめに
-以下の記事の話の続きです。
-●Mac用アプリでシェーダーを使った描画を少し試す（VS Code での Swift開発） - Qiita
-　https://qiita.com/youtoy/items/8fb6618f6404848c235c
-上記記事の手順では、...]]></summary>
-        <author>
-            <name>Shaderタグが付けられた新着記事 - Qiita</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[085/365]Copyrighting the Self: The Dawn of the "Human-as-Content" Era]]></title>
-        <id>https://note.com/torutanno/n/n48476a1c2eda</id>
-        <link href="https://note.com/torutanno/n/n48476a1c2eda"/>
-        <updated>2026-02-19T11:15:11.000Z</updated>
-        <summary type="html"><![CDATA[【085/365】2026年2月19日
-大掃除。春の準備。様々なセッティング。
-
-続きをみる]]></summary>
-        <author>
-            <name>#Houdiniタグ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Epic Games、Quixel Mixer の最終版となる「オフラインバージョン」をリリース]]></title>
-        <id>https://cginterest.com/?p=55928</id>
-        <link href="https://cginterest.com/2026/02/19/epic-games%e3%80%81quixel-mixer-%e3%81%ae%e6%9c%80%e7%b5%82%e7%89%88%e3%81%a8%e3%81%aa%e3%82%8b%e3%80%8c%e3%82%aa%e3%83%95%e3%83%a9%e3%82%a4%e3%83%b3%e3%83%90%e3%83%bc%e3%82%b8%e3%83%a7%e3%83%b3/"/>
-        <updated>2026-02-19T09:13:28.000Z</updated>
-        <summary type="html"><![CDATA[2026年2月18日（現地時間）- Epic Games は、3Dテクスチャ作成ツール「Quixel Mixer」の最終版となるオフラインバージョンをリリースしました。 このリリースをもって、同ソフトウェアのアップデート […]
-Epic Games、Quixel Mixer の最終版となる「オフラインバージョン」をリリース first appeared on CGinterest.]]></summary>
-        <author>
-            <name>.me</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Autodesk Game Developer Series]]></title>
-        <id>https://area.autodesk.jp/event/game-developer-series/</id>
-        <link href="https://area.autodesk.jp/event/game-developer-series/"/>
-        <updated>2026-02-19T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[3月9日から13日までサンフランシスコで開催される GDC 2026。オートデスクはそれに先立ち、3月4日と5日にゲーム開発にフォーカスしたオンラインイベントを開催します。EA、SOKRISPYMEDIAなどの特別ゲストを迎えたAutodesk Game Developer Series は、Autodesk Flow Studioの AI を活用したワークフローやMaya の MotionMakerから、今年の大作ゲームの制作まで、ゲーム開発の未来を形作る最新の進歩について詳しく説明するライブのオンラインイベントです。・・・]]></summary>
-        <author>
-            <name>AREA JAPAN | Autodesk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ゲームカットシーンデザイナーの仕事とは？『ゲーム開発におけるカットシーンの作り方』著者、昇 大祐氏による無料講座3月14日開催（デジタルスケープ） - ニュース]]></title>
-        <id>https://cgworld.jp/flashnews/02-2602-cutseminar.html</id>
-        <link href="https://cgworld.jp/flashnews/02-2602-cutseminar.html"/>
-        <updated>2026-02-19T03:33:50.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【Unity 6.3 LTS対応】Unityアーティスト向け2Dゲーム開発ガイドブックがアップデート！]]></title>
-        <id>https://cginterest.com/?p=55922</id>
-        <link href="https://cginterest.com/2026/02/19/%e3%80%90unity-6-3-lts%e5%af%be%e5%bf%9c%e3%80%91unity%e3%82%a2%e3%83%bc%e3%83%86%e3%82%a3%e3%82%b9%e3%83%88%e5%90%91%e3%81%912d%e3%82%b2%e3%83%bc%e3%83%a0%e9%96%8b%e7%99%ba%e3%82%ac%e3%82%a4%e3%83%89/"/>
-        <updated>2026-02-19T03:14:44.000Z</updated>
-        <summary type="html"><![CDATA[2026年2月16日（現地時間）- Unityは、人気の高い電子書籍「アーティストとテクニカルアーティストのための2Dゲーム開発ガイド（Ultimate guide to 2D game development）」のアッ […]
-【Unity 6.3 LTS対応】Unityアーティスト向け2Dゲーム開発ガイドブックがアップデート！ first appeared on CGinterest.]]></summary>
-        <author>
-            <name>.me</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[映画『国宝』のVFX制作におけるNuke活用事例がFoundry日本サイトにて公開 - ニュース]]></title>
-        <id>https://cgworld.jp/flashnews/2602-kokuho.html</id>
-        <link href="https://cgworld.jp/flashnews/2602-kokuho.html"/>
-        <updated>2026-02-19T02:20:00.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RenderMan 27 ＆ Showreel 2026 | XPUによる高速レンダリングを実現！インタラクティブノイズ除去！PIXARのフラッグシップレンダラーの最新バージョンがリリース＆ショーリールが公開！]]></title>
-        <id>https://3dnchu.com/?p=1062142</id>
-        <link href="https://3dnchu.com/archives/renderman-27/"/>
-        <updated>2026-02-19T02:19:20.000Z</updated>
-        <summary type="html"><![CDATA[Pixarが開発するプロダクション向けレンダラーRenderManの最新バージョン「RenderMan 27」がリリース！合わせて2026年ショーリールも公開！]]></summary>
-        <author>
-            <name>Ymt3D -3dnchu-</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[第11回 後編：セルシスCTOが語る、開発基盤と理想のユーザー体験 - 連載]]></title>
-        <id>https://cgworld.jp/regular/202602-chiyama-t-11-2.html</id>
-        <link href="https://cgworld.jp/regular/202602-chiyama-t-11-2.html"/>
-        <updated>2026-02-19T01:30:00.000Z</updated>
-        <summary type="html"><![CDATA[本連載では、CG映像制作におけるテクニカル系スタッフの仕事の現状と課題を、パイプライン開発の専門家である痴山紘史氏（日本CGサービス（JCGS）代表）が探っていく。第11回では、イラスト・マンガ・Webtoon・アニメーション制作アプリ「CLIP STUDIO PAINT」の開発・販売で知られるセルシスを取材。同社のテクニカル系スタッフの仕事を前後編にわたって深掘りする。]]></summary>
-        <author>
-            <name>CGWORLD</name>
         </author>
     </entry>
 </feed>

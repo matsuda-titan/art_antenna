@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-03-23T08:43:07.137Z</updated>
+    <updated>2026-03-23T12:41:20.990Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Pixie | ローカル環境で動作するAIを活用し説明文やタグの追加も可能な画像管理ツールが登場！]]></title>
+        <id>https://3dnchu.com/?p=1063138</id>
+        <link href="https://3dnchu.com/archives/pixie-bbtools/"/>
+        <updated>2026-03-23T11:38:48.000Z</updated>
+        <summary type="html"><![CDATA[BBToolsによるローカル環境で動作するAIを活用し説明文やタグの追加も可能な画像管理ツール「Pixie」がリリースされました！]]></summary>
+        <author>
+            <name>Ymt3D -3dnchu-</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unity 6.4 正式リリース！将来の基盤となる技術的アップデートやQoL改善など]]></title>
+        <id>https://cginterest.com/?p=56880</id>
+        <link href="https://cginterest.com/2026/03/23/unity-6-4-%e6%ad%a3%e5%bc%8f%e3%83%aa%e3%83%aa%e3%83%bc%e3%82%b9%ef%bc%81%e5%b0%86%e6%9d%a5%e3%81%ae%e5%9f%ba%e7%9b%a4%e3%81%a8%e3%81%aa%e3%82%8b%e6%8a%80%e8%a1%93%e7%9a%84%e3%82%a2%e3%83%83%e3%83%97/"/>
+        <updated>2026-03-23T08:57:06.000Z</updated>
+        <summary type="html"><![CDATA[2026年3月18日（現地時間）- Unity Technologiesは、Unity 6.4 のリリースを発表しました。 Unity 6.4 リリースの主なハイライト Unity 6 は、より高速で信頼性が高く、安定し […]
+Unity 6.4 正式リリース！将来の基盤となる技術的アップデートやQoL改善など first appeared on CGinterest.]]></summary>
+        <author>
+            <name>.me</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[アニメ『DIGIMON BEATBREAK』 Unreal Engineを活用してデジタル感あふれるミラーワールドを構築！ 〜No.1／概要篇 - 特集]]></title>
         <id>https://cgworld.jp/article/cgw331-digimonbb01.html</id>
@@ -14,6 +35,23 @@
         <summary type="html"><![CDATA[『DIGIMON BEATBREAK』のアニメCGメイキングを紹介。]]></summary>
         <author>
             <name>CGWORLD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【Unity】「なんとなく」を卒業する。被写界深度（DoF）編]]></title>
+        <id>https://zenn.dev/zero_0r0/articles/2baf7fd23c0ef8</id>
+        <link href="https://zenn.dev/zero_0r0/articles/2baf7fd23c0ef8"/>
+        <updated>2026-03-23T03:30:05.000Z</updated>
+        <summary type="html"><![CDATA[はじめに
+これまで、ブラー（Kawase Blur）の基礎から始まり、それを応用したBloomエフェクトの実装までを解説してきました。
+ポストプロセスシリーズの締めくくりとなる今回は、これまでの知識を総動員して 「被写界深度（Depth of Field : DoF）」 を実装します。
+被写界深度とは、カメラのピントが合っている距離だけがくっきりと見え、それより手前や奥にある背景がぼやけて映る現象のことです。画面の奥行きや空気感を表現する上で欠かせないエフェクトですが、自作しようとすると特有の「罠」に引っかかりやすい分野でもあります。
+
+ この記事のターゲット層
+
+前回のブラー編・B...]]></summary>
+        <author>
+            <name>ゼロ</name>
         </author>
     </entry>
     <entry>
@@ -4158,27 +4196,6 @@ The post Better Cutter｜平面・曲線・カーブで自由に等間隔・リ�
 続きをみる]]></summary>
         <author>
             <name>#substancepainterタグ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[エラーで止まらない！Cinema 4D用無料バッチレンダリングツール – 4D Render Queue]]></title>
-        <id>https://cginterest.com/?p=56032</id>
-        <link href="https://cginterest.com/2026/02/22/%e3%82%a8%e3%83%a9%e3%83%bc%e3%81%a7%e6%ad%a2%e3%81%be%e3%82%89%e3%81%aa%e3%81%84%ef%bc%81cinema-4d%e7%94%a8%e7%84%a1%e6%96%99%e3%83%90%e3%83%83%e3%83%81%e3%83%ac%e3%83%b3%e3%83%80%e3%83%aa%e3%83%b3/"/>
-        <updated>2026-02-21T23:32:00.000Z</updated>
-        <summary type="html"><![CDATA[Cinema 4D 向けの無料ツール「4D Render Queue」の紹介です。 4D Render Queueとは 4D Render Queueは、Cinema 4Dネイティブのコマンドラインレンダラーをベースに構 […]
-エラーで止まらない！Cinema 4D用無料バッチレンダリングツール – 4D Render Queue first appeared on CGinterest.]]></summary>
-        <author>
-            <name>.me</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[無料のUnityエディタ拡張「BlendShape Gimmick Creator ― シェイプキーかんたんメニュー化ツール」リリース！ シェイプキーで行うVRChatアバターの調整項目を手軽にメニュー化 - ニュース]]></title>
-        <id>https://cgworld.jp/flashnews/01-202602-GimmickCreator.html</id>
-        <link href="https://cgworld.jp/flashnews/01-202602-GimmickCreator.html"/>
-        <updated>2026-02-21T22:38:57.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
         </author>
     </entry>
 </feed>

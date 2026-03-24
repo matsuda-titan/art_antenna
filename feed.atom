@@ -2,10 +2,52 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-03-23T12:41:20.990Z</updated>
+    <updated>2026-03-24T01:09:02.081Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[アニメ『DIGIMON BEATBREAK』 Unreal Engineを活用してデジタル感あふれるミラーワールドを構築！ 〜No.2／コンセプトアート篇 - 特集]]></title>
+        <id>https://cgworld.jp/article/cgw331-digimonbb02.html</id>
+        <link href="https://cgworld.jp/article/cgw331-digimonbb02.html"/>
+        <updated>2026-03-24T01:00:17.000Z</updated>
+        <summary type="html"><![CDATA[『DIGIMON BEATBREAK』のアニメCGメイキングを紹介。]]></summary>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unity上で動作する照明制御システム「Art-Net DMX Lighting for Unity」リリース！ オープンソース、商用利用可 - ニュース]]></title>
+        <id>https://cgworld.jp/flashnews/01-202603-Art-NetDMX.html</id>
+        <link href="https://cgworld.jp/flashnews/01-202603-Art-NetDMX.html"/>
+        <updated>2026-03-23T23:46:36.000Z</updated>
+        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【無料】ドラッグ＆ドロップで簡単にデカールテクスチャをモデルに貼り付け！Blender用アドオン「Decal Beast Free」]]></title>
+        <id>https://modelinghappy.com/?p=67732</id>
+        <link href="https://modelinghappy.com/archives/67732"/>
+        <updated>2026-03-23T23:06:03.000Z</updated>
+        <summary type="html"><![CDATA[Decal Beast (Free Version) Decal Beast Freeは、Blenderで3Dモデルにステッカーや汚れ、グラフィティなどの「デカール」を簡単に貼り付けられるアドオンです。 ドラッグ＆ドロッ
+The post 【無料】ドラッグ＆ドロップで簡単にデカールテクスチャをモデルに貼り付け！Blender用アドオン「Decal Beast Free」 first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
+        <author>
+            <name>modelinghappy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Affinity 2026年3月アップデートが公開！選択範囲のベクター変換や非破壊的なレイヤー合成機能の追加など]]></title>
+        <id>https://cginterest.com/?p=56874</id>
+        <link href="https://cginterest.com/2026/03/24/affinity-2026%e5%b9%b43%e6%9c%88%e3%82%a2%e3%83%83%e3%83%97%e3%83%87%e3%83%bc%e3%83%88%e3%81%8c%e5%85%ac%e9%96%8b%ef%bc%81%e9%81%b8%e6%8a%9e%e7%af%84%e5%9b%b2%e3%81%ae%e3%83%99%e3%82%af%e3%82%bf/"/>
+        <updated>2026-03-23T22:12:00.000Z</updated>
+        <summary type="html"><![CDATA[2026年3月16日(現地時間) – Canva は、クリエイティブソフトウェアスイート「Affinity」の最新のアップデートを公開しました。 新機能ハイライト このアップデートでは、「ライトUI」の実装 […]
+Affinity 2026年3月アップデートが公開！選択範囲のベクター変換や非破壊的なレイヤー合成機能の追加など first appeared on CGinterest.]]></summary>
+        <author>
+            <name>.me</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Pixie | ローカル環境で動作するAIを活用し説明文やタグの追加も可能な画像管理ツールが登場！]]></title>
         <id>https://3dnchu.com/?p=1063138</id>
@@ -4139,63 +4181,6 @@ Blender内で画像・動画・3Dモデルを生成！チャットやMCPにも�
         <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
         <author>
             <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Better Cutter｜平面・曲線・カーブで自由に等間隔・リアルタイムカット・ベベル調整できるBlender用アドオン]]></title>
-        <id>https://modelinghappy.com/?p=67258</id>
-        <link href="https://modelinghappy.com/archives/67258"/>
-        <updated>2026-02-22T12:31:24.000Z</updated>
-        <summary type="html"><![CDATA[Better Cutter Better Cutterは、Blenderでメッシュを平面・曲線・カーブを使って自由にリアルタイムカットできるアドオンです。 モデルを等間隔の複数平面でカット・分割したり、内側だけを残すカッ
-The post Better Cutter｜平面・曲線・カーブで自由に等間隔・リアルタイムカット・ベベル調整できるBlender用アドオン first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
-        <author>
-            <name>modelinghappy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Houdiniで爆発エフェクトの練習をした振り返り]]></title>
-        <id>https://note.com/oja_bitterlife/n/n966ffb46df54</id>
-        <link href="https://note.com/oja_bitterlife/n/n966ffb46df54"/>
-        <updated>2026-02-22T10:21:12.000Z</updated>
-        <summary type="html"><![CDATA[11月1日から2月19日の間で1日1～3時間くらい、全部で250時間くらいの学習の成果です。
-  
-続きをみる]]></summary>
-        <author>
-            <name>#Houdiniタグ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[088/365]The RAW Truth: The Analog Reality of Digital Sensors]]></title>
-        <id>https://note.com/torutanno/n/n3b800127db6b</id>
-        <link href="https://note.com/torutanno/n/n3b800127db6b"/>
-        <updated>2026-02-22T09:40:10.000Z</updated>
-        <summary type="html"><![CDATA[【088/365】2026年2月22日
-2026.2.26生成
-続きをみる]]></summary>
-        <author>
-            <name>#Houdiniタグ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Foundryが「Katana 9.0」をリリース ーUSD編集の新機能と「Hydra 2.0」(アルファ版）を搭載 - ニュース]]></title>
-        <id>https://cgworld.jp/flashnews/2602-katana9.0.html</id>
-        <link href="https://cgworld.jp/flashnews/2602-katana9.0.html"/>
-        <updated>2026-02-22T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ゲーム用アセット製作-勾玉、机、石碑、本棚01]]></title>
-        <id>https://note.com/limber_snipe4821/n/n87e1fdb0d10e</id>
-        <link href="https://note.com/limber_snipe4821/n/n87e1fdb0d10e"/>
-        <updated>2026-02-22T01:10:33.000Z</updated>
-        <summary type="html"><![CDATA[今のところ職場の休憩時間にモデリングができているから、進捗が良い
-机
-続きをみる]]></summary>
-        <author>
-            <name>#substancepainterタグ</name>
         </author>
     </entry>
 </feed>

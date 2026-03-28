@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-03-28T01:13:50.811Z</updated>
+    <updated>2026-03-28T04:47:07.561Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Boop – メッシュを解析してスライダー操作で軽量化できるBlender用Decimationアドオン（50ダウンロード限定無料）]]></title>
+        <id>https://modelinghappy.com/?p=67811</id>
+        <link href="https://modelinghappy.com/archives/67811"/>
+        <updated>2026-03-28T02:23:05.000Z</updated>
+        <summary type="html"><![CDATA[Blender Smart Decimation Addon #8211; Boop Boopは、3Dモデルのポリゴン数を減らして軽量化できるツールで、Blenderアドオンです。 一度メッシュを解析すれば、その後はス
+The post Boop – メッシュを解析してスライダー操作で軽量化できるBlender用Decimationアドオン（50ダウンロード限定無料） first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
+        <author>
+            <name>modelinghappy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WrapKit – 曲面でもメッシュを歪ませず別の表面にぴったり配置できるBlender用無料Geometry Nodesデータ]]></title>
+        <id>https://modelinghappy.com/?p=67807</id>
+        <link href="https://modelinghappy.com/archives/67807"/>
+        <updated>2026-03-28T01:56:15.000Z</updated>
+        <summary type="html"><![CDATA[WrapKit – Surface Wrapping for Blender WrapKitは、Jörg Grubmüllerさんが作成した、Blenderの1つのオブジェクトを別のオブジェクトの表面に正確に沿わせて配置
+The post WrapKit – 曲面でもメッシュを歪ませず別の表面にぴったり配置できるBlender用無料Geometry Nodesデータ first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
+        <author>
+            <name>modelinghappy</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Wafer for Windows PC Public Beta | iPad向け3DテクスチャペイントアプリのWindowsバージョンが登場！パブリックベータ版が公開中！]]></title>
         <id>https://3dnchu.com/?p=1063432</id>
@@ -1224,6 +1246,17 @@ The post いま最終章へ。映画『DUNE／デューン 砂の惑星 PART3』
         <updated>2026-03-19T01:34:55.000Z</updated>
         <summary type="html"><![CDATA[★Global Design Reel | Framestore（1分47秒） VFXスタジオ Framestore の グローバル デザイン ショーリール 　 編集部からのおすすめ：TV、映画、映像制作における特殊効果 […]
 The post VFXスタジオ Framestore の グローバル デザイン ショーリール first appeared on 3dtotal 日本語オフィシャルサイト.]]></summary>
+        <author>
+            <name>3dtotal管理人T</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[映画『ザ・スーパーマリオギャラクシー・ムービー』のトレーラー（英語／日本語）]]></title>
+        <id>https://3dtotal.jp/?p=52940</id>
+        <link href="https://3dtotal.jp/news/52940/"/>
+        <updated>2026-03-19T01:30:25.000Z</updated>
+        <summary type="html"><![CDATA[★『ザ・スーパーマリオギャラクシー・ムービー』マリオシアター告知映像（15秒） ★The Super Mario Galaxy Movie | Final Trailer（2分23秒） ★『ザ・スーパーマリオギャラクシー […]
+The post 映画『ザ・スーパーマリオギャラクシー・ムービー』のトレーラー（英語／日本語） first appeared on 3dtotal 日本語オフィシャルサイト.]]></summary>
         <author>
             <name>3dtotal管理人T</name>
         </author>
@@ -4302,24 +4335,6 @@ Epic Games、高品質なマーカーレスモーションキャプチャやモ�
 ジオメトリパイプラインはGPUの外部からVRAMなりメモリ領域に貯...]]></summary>
         <author>
             <name>3DCGタグが付けられた新着記事 - Qiita</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【Maya】リギング中に見たいアトリビュートだけスプレッドシート表示]]></title>
-        <id>https://zenn.dev/inouwe/articles/64b741fb742643</id>
-        <link href="https://zenn.dev/inouwe/articles/64b741fb742643"/>
-        <updated>2026-02-26T13:47:27.000Z</updated>
-        <summary type="html"><![CDATA[リギング作業をやっているときに、骨関連のアトリビュートだけスプレッドシートで見たいなあというシチュエーションが多かったので書きました。
-attrsの中身を書き換えれば、お好きなアトリビュートをフィルターできます。
-import maya.cmds as cmds
-
-def make_spread_sheet(attrs, window_name):
-    if cmds.window(window_name, exists=True):
-        cmds.deleteUI(window_name)
-
-    window = cmds.window(window_name, w...]]></summary>
-        <author>
-            <name>Kanon Inoue</name>
         </author>
     </entry>
 </feed>

@@ -2,10 +2,74 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-03-29T12:32:17.637Z</updated>
+    <updated>2026-03-30T01:23:30.403Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[第12回 前編：ワコムのテクニカル系スタッフの仕事 - 連載]]></title>
+        <id>https://cgworld.jp/regular/202603-chiyama-t-12-1.html</id>
+        <link href="https://cgworld.jp/regular/202603-chiyama-t-12-1.html"/>
+        <updated>2026-03-30T01:00:00.000Z</updated>
+        <summary type="html"><![CDATA[本連載では、CG映像制作におけるテクニカル系スタッフの仕事の現状と課題を、パイプライン開発の専門家である痴山紘史氏（日本CGサービス（JCGS）代表）が探っていく。第12回では、ペンタブレットで世界的に知られるワコムを取材。製品企画、ハードウェア開発、ソフトウェア開発の各担当者への取材を通して、ペン入力技術と「かく体験」を支えるテクニカル系スタッフの仕事を前後編にわたって深掘りする。]]></summary>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[フォトグラメトリ数学｜02：射影とは何か（透視投影の正体）]]></title>
+        <id>https://zenn.dev/s_hashida/articles/647ba9aaff2858</id>
+        <link href="https://zenn.dev/s_hashida/articles/647ba9aaff2858"/>
+        <updated>2026-03-29T21:30:05.000Z</updated>
+        <summary type="html"><![CDATA[はじめに
+前回は「カメラとは何か」を簡単に説明しましたが、今回はその中で起きている変換の正体に踏み込みます。
+キーワードは 射影（projection） です。
+
+ 射影とは何か
+まず「射影」という言葉をシンプルに捉えると、
+
+ある点から特定の方向（直線）に沿って、別の空間へ写す操作
+
+です。
+フォトグラメトリでは、
+
+3D空間の点を画像（2D平面）へ写すこと
+
+を考えます。
+
+ 射影のイメージ
+射影のイメージを簡単に書くと下の図のようになります。
+
+このように、
+
+3D上の点Pと原点Oを結ぶ直線（光線）を取り、平面との交点pを求める
+
+これが「射影」です。
+射影にはいくつか種類が...]]></summary>
+        <author>
+            <name>s_hashida</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wake up | CGクリエイターのおとり氏が監督を務めた短編アニメーションがYoutube上で公開！Blenderを使用し制作！]]></title>
+        <id>https://3dnchu.com/?p=1063609</id>
+        <link href="https://3dnchu.com/archives/wake-up-otori/"/>
+        <updated>2026-03-29T14:44:43.000Z</updated>
+        <summary type="html"><![CDATA[CGクリエイターの おとり 氏（@to10Toppa）が手掛けた短編アニメーション「Wake up」が公開されました！]]></summary>
+        <author>
+            <name>Ymt3D -3dnchu-</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Revopoint INSPIRE 2 REVIEW | お手頃3Dスキャナーの最新モデル！複数ライン＆最大90FPSで瞬時にスキャンが可能！早速使ってみました！]]></title>
+        <id>https://3dnchu.com/?p=1062274</id>
+        <link href="https://3dnchu.com/archives/revopoint-inspire-2-review/"/>
+        <updated>2026-03-29T13:36:20.000Z</updated>
+        <summary type="html"><![CDATA[Revopoint様より最新のエントリー向け小型3Dスキャナー「INSPIRE 2」をご提供いただきましたので、実際に使用してみてどこまで使えるのか紹介していきたいと思います！]]></summary>
+        <author>
+            <name>Ymt3D -3dnchu-</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Tiltility | Webカメラから入力された体の姿勢などをキーボードやゲームコントローラーの入力に変換して活用する事が出来るアプリ！Steamにてリリース！Windows]]></title>
         <id>https://3dnchu.com/?p=1063594</id>
@@ -4163,69 +4227,6 @@ The post BlenderからUnreal Engineへモデル・マテリアル・ノードを
         <summary type="html"><![CDATA[ブルガリアのCGアーティストStefan Tsvetkov氏（lolpoly）が、複数オブジェクトに対してスカルプト＆頂点ペイント＆テクスチャペイント＆ウェイトペイントを実現できるBlenderアドオン『Multisculpt v2.0』のご紹介！]]></summary>
         <author>
             <name>Ymt3D -3dnchu-</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ソニー・インタラクティブエンタテインメント新卒正社員初任給引き上げへ 、PlayStation Studios「Team ASOBI」新卒・経験者の募集開始 - ニュース]]></title>
-        <id>https://cgworld.jp/flashnews/01-202602-SIE-TeamASOBI.html</id>
-        <link href="https://cgworld.jp/flashnews/01-202602-SIE-TeamASOBI.html"/>
-        <updated>2026-02-28T10:28:14.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【2026年3月31日まで】EIZO ColorEdge CG＆CSシリーズディスプレイが期間限定で15％オフに！]]></title>
-        <id>https://cginterest.com/?p=56223</id>
-        <link href="https://cginterest.com/2026/02/28/%e3%80%902026%e5%b9%b43%e6%9c%8831%e6%97%a5%e3%81%be%e3%81%a7%e3%80%91eizo-coloredge-cg%ef%bc%86cs%e3%82%b7%e3%83%aa%e3%83%bc%e3%82%ba%e3%83%87%e3%82%a3%e3%82%b9%e3%83%97%e3%83%ac%e3%82%a4%e3%81%8c/"/>
-        <updated>2026-02-28T05:45:00.000Z</updated>
-        <summary type="html"><![CDATA[EIZOの公式オンライン直販サイト「EIZOダイレクト」にて開催されているクリエイター向けカラーマネジメントモニター「ColorEdge」シリーズを中心としたセールの紹介です。 セール概要 今回のセールは、期間限定のオン […]
-【2026年3月31日まで】EIZO ColorEdge CG＆CSシリーズディスプレイが期間限定で15％オフに！ first appeared on CGinterest.]]></summary>
-        <author>
-            <name>.me</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rigacar for Blender 5 | 古のBlender向け無料のカーリギングアドオン！有志による最新Blender 5.x系に対応した修正バージョンが共有されています！]]></title>
-        <id>https://3dnchu.com/?p=1062162</id>
-        <link href="https://3dnchu.com/archives/rigacar-for-blender-5/"/>
-        <updated>2026-02-28T05:25:06.000Z</updated>
-        <summary type="html"><![CDATA[JeanYan 3D氏が、Blender用の有名な無料カーリグアドオン『Rigacar』をBlender 5.x系に対応した修正版を共有しています。]]></summary>
-        <author>
-            <name>Ymt3D -3dnchu-</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【PR】Create a Stylized Fantasy Environment in Blender | アニメ風ファンタジー背景を制作する解説コース！CG＆デジタルアート関連チュートリアルサービスWingfoxにて取り扱い開始！]]></title>
-        <id>https://3dnchu.com/?p=1062394</id>
-        <link href="https://3dnchu.com/archives/stylized-fantasy-env-b3d-aniket-rawat-wingfox/"/>
-        <updated>2026-02-28T05:03:49.000Z</updated>
-        <summary type="html"><![CDATA[エンバイロメントアーティストの Aniket Rawat 氏による、Blender使用したアニメ風ファンタジー背景アート制作解説コース「Create a Stylized Fantasy Environment in Blender」がCG＆デジタルアート関連チュートリアルサービスWingfoxにて取り扱い開始！]]></summary>
-        <author>
-            <name>Ymt3D -3dnchu-</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Unreal Engineを使ったシェーダー制作とVFXに特化した講座がWingfoxで販売開始！]]></title>
-        <id>https://modelinghappy.com/?p=67358</id>
-        <link href="https://modelinghappy.com/archives/67358"/>
-        <updated>2026-02-28T03:56:54.000Z</updated>
-        <summary type="html"><![CDATA[Unreal Generalist: Practical Materials amp; Effects 世界中のチュートリアル動画を販売しているWingfoxのサイトでUnreal Engineを使ったシェーダー制作と
-The post Unreal Engineを使ったシェーダー制作とVFXに特化した講座がWingfoxで販売開始！ first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
-        <author>
-            <name>modelinghappy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Blender向けツタ生成アドオン「BagaIvy」V3アップデート！シミュレーションによる成長アニメーション機能が追加！]]></title>
-        <id>https://cginterest.com/?p=56075</id>
-        <link href="https://cginterest.com/2026/02/28/blender%e5%90%91%e3%81%91%e3%83%84%e3%82%bf%e7%94%9f%e6%88%90%e3%82%a2%e3%83%89%e3%82%aa%e3%83%b3%e3%80%8cbagaivy%e3%80%8dv3%e3%82%a2%e3%83%83%e3%83%97%e3%83%87%e3%83%bc%e3%83%88%ef%bc%81%e3%82%b7/"/>
-        <updated>2026-02-28T00:43:00.000Z</updated>
-        <summary type="html"><![CDATA[Blender内でリアルなツタ（アイビー）をプロシージャルに生成できる人気アドオン「BagaIvy」がV3へアップデートされました。 BagaIvyとは BagaIvy Generatorは、Blenderでツタやつる植 […]
-Blender向けツタ生成アドオン「BagaIvy」V3アップデート！シミュレーションによる成長アニメーション機能が追加！ first appeared on CGinterest.]]></summary>
-        <author>
-            <name>.me</name>
         </author>
     </entry>
 </feed>

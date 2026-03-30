@@ -2073,6 +2073,16 @@
       "siteUrl": "https://tech.spark-creative.co.jp/",
       "articles": [
         {
+          "id": "https://tech.spark-creative.co.jp/entry/2026/03/30/190853",
+          "author": null,
+          "description": "はじめに：スマホで映画みたいなモクモクを出したい！🌟 こんにちは！✨ 株式会社スパーククリエイティブ CTO 広本です。 普段はUnityとかUnrealEngineとかでグラフィックスとか最適化とかをやっています。 皆さんはゲームを作っていて、「リアルな炎🔥や、ふわふわの煙☁️を出したいな〜」と思ったことはありませんか？ でも、映画みたいな本格的な流体シミュレーション（ボリュメトリックレンダリング）って、PC向けでとっても重たいイメージがありますよね💦 「スマホで出したら端末がホッカイロになってFPSが一桁になっちゃう……」 そこで今回は！スマホでも余裕で 60FPS で動いちゃう、 超軽量…",
+          "link": "https://tech.spark-creative.co.jp/entry/2026/03/30/190853",
+          "publishedOn": "2026-03-30T10:08:53.000Z",
+          "wordCount": 572,
+          "title": "【Unity URP】スマホでサクサク！60FPSで動くふわふわ流体シミュレーションを作ろう☁️✨",
+          "imageUrl": "https://cdn.image.st-hatena.com/image/scale/926cdf28bbbbcefb070dae9b6898f1a9ef22cfb5/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fs%2Fsparkcreative%2F20260330%2F20260330175001.gif"
+        },
+        {
           "id": "https://tech.spark-creative.co.jp/entry/2026/03/17/121142",
           "author": null,
           "description": "はじめに MPCとは シーケンサーで値を変える 本題 エンジン改造で解決 変数追加 セッターを追加 値変わったらセット デバック 余談 終わり はじめに こんにちは、クライアントエンジニアの下野です。 今回はマテリアルパラメータコレクション（以下MPC）の、実行中の値を確認できるようにする処理を行います。 MPCとは 複数のマテリアルで共有できる変数群みたいなものです。 ScalarとVectorの2種類が選べます CollectionParameterで呼び出せます 通常マテリアルの値を変えるにはScalarParameterなどを使用しますが、マスターマテリアルが異なる場合は同じ用途同じ値…",
@@ -3197,6 +3207,16 @@
       "siteUrl": "https://qiita.com",
       "articles": [
         {
+          "id": "https://qiita.com/scixarts/items/c84bec0a4879d77ae438",
+          "author": null,
+          "description": "環境\n\nWindows\nMaya 2027\n\nはじめに\nMaya 2027 に搭載された「Autodesk Assistant」について、汎用的な自律型AIエージェントが台頭する中、Mayaに最適化されたAIがどこまでの実力を持つのか、直接インタビュー形式で検証してみま...",
+          "link": "https://qiita.com/scixarts/items/c84bec0a4879d77ae438",
+          "publishedOn": "2026-03-30T10:32:00.000Z",
+          "wordCount": 5205,
+          "title": "Maya 2027 の Autodesk Assistant の回答力の検証",
+          "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnNlY3VyZS5ncmF2YXRhci5jb20lMkZhdmF0YXIlMkYwNTUwM2ExMzBiOTdmZmM5ZGQ4YTY4Y2M1NzJkNGZlMT9peGxpYj1yYi00LjAuMCZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9OGY3NjM1MzA2ZmM1NTNlYmRlNWQ2MWI1OWM1Nzk2ODM%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D4288f72bd1abfdda18b1ec88baa3dafd?ixlib=rb-4.0.0&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9TWF5YSUyMDIwMjclMjAlRTMlODElQUUlMjBBdXRvZGVzayUyMEFzc2lzdGFudCUyMCVFMyU4MSVBRSVFNSU5QiU5RSVFNyVBRCU5NCVFNSU4QSU5QiVFMyU4MSVBRSVFNiVBNCU5QyVFOCVBOCVCQyZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnR4dC1wYWQ9MCZzPWVmYzIyNjY2ZWNhNGJhZmIwMGVkMGE2YzlhNThhNjEw&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBzY2l4YXJ0cyZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPTExNjdhNzEyODc0OWI0Yzg4ZjlmYmZmNjY1NTE0NzA4&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=c88b539827e8a515c742f43561b81eab"
+        },
+        {
           "id": "https://qiita.com/jet-misoshil/items/fea2e85bb04469057baf",
           "author": null,
           "description": "はじめに\nこの記事は 2025年末のMaya AdventCalender2025の記事を補間するものです\n元記事\n\nちゃんとした高速化\n去年の記事では高速化？という、自身でコントロールできる範囲外のもので実際高速偽装する内容を取り上げましたが\nUSDかどうかによらずより...",
@@ -3812,16 +3832,6 @@
           "wordCount": 3843,
           "title": "Substance Painterが難しすぎる！でもVRChat向けPropを作りたくて格闘した全記録",
           "imageUrl": "https://assets.st-note.com/production/uploads/images/255625945/rectangle_large_type_2_c77a3f267bb77b6df90b44be080a5ec4.png?width=800"
-        },
-        {
-          "id": "https://note.com/limber_snipe4821/n/n3a5523d26e6a",
-          "author": null,
-          "description": "カメラ\n続きをみる",
-          "link": "https://note.com/limber_snipe4821/n/n3a5523d26e6a",
-          "publishedOn": "2026-02-28T23:39:58.000Z",
-          "wordCount": 2388,
-          "title": "ゲーム用アセット製作：カメラ、玉、鍵",
-          "imageUrl": "https://d2l930y2yx77uc.cloudfront.net/production/social_images/e0f0267a56a036a2e1ed89dc970c70a7423c515d.png"
         }
       ]
     },
@@ -3847,6 +3857,16 @@
       "feedUrl": "https://3d.crdg.jp/env/feed/",
       "siteUrl": "https://3d.crdg.jp/env/",
       "articles": [
+        {
+          "id": "https://3d.crdg.jp/env/?p=9313",
+          "author": "Erika.Yamanaka",
+          "description": "２重に重なったフェース（ラミナフェース）ができる理由 ラミナフェースを見つけるには？ 以下のモデルは正面から見て右面にラミナフェースがありますが、様々 […]\n続きを読む\n投稿 【Maya】2重に重なったフェースを削除する方法 は エンホリ - ENVIRONMENT HOLIC｜C&R Creative Studios に最初に表示されました。",
+          "link": "https://3d.crdg.jp/env/2026/03/30/9313/?utm_source=rss&utm_medium=rss&utm_campaign=%25e3%2580%2590maya%25e3%2580%25912%25e9%2587%258d%25e3%2581%25ab%25e9%2587%258d%25e3%2581%25aa%25e3%2581%25a3%25e3%2581%259f%25e3%2583%2595%25e3%2582%25a7%25e3%2583%25bc%25e3%2582%25b9%25e3%2582%2592%25e5%2589%258a%25e9%2599%25a4%25e3%2581%2599%25e3%2582%258b%25e6%2596%25b9%25e6%25b3%2595",
+          "publishedOn": "2026-03-30T09:49:38.000Z",
+          "wordCount": 3100,
+          "title": "【Maya】2重に重なったフェースを削除する方法",
+          "imageUrl": "https://3d.crdg.jp/env/wp-content/uploads/2026/03/0330_サムネ-1.png"
+        },
         {
           "id": "https://3d.crdg.jp/env/?p=9299",
           "author": "Akito.Yamakawa",
@@ -3904,6 +3924,16 @@
       "feedUrl": "https://cginterest.com/feed/",
       "siteUrl": "https://cginterest.com",
       "articles": [
+        {
+          "id": "https://cginterest.com/?p=56064",
+          "author": ".me",
+          "description": "今月発売、2026年3月以降に発売予定*のあるCG関連書籍を紹介するコーナーです(Amazon調べ)。 CGソフトの入門本、テクニック本、アートブック、リファレンス（参考資料）、その他気になるおすすめ書籍を紹介していきま […]\n2026年3月発売のCG関連書籍をチェック！ first appeared on CGinterest.",
+          "link": "https://cginterest.com/2026/03/30/2026%e5%b9%b43%e6%9c%88%e7%99%ba%e5%a3%b2%e3%81%aecg%e9%96%a2%e9%80%a3%e6%9b%b8%e7%b1%8d%e3%82%92%e3%83%81%e3%82%a7%e3%83%83%e3%82%af%ef%bc%81/",
+          "publishedOn": "2026-03-30T11:59:46.000Z",
+          "wordCount": 33796,
+          "title": "2026年3月発売のCG関連書籍をチェック！",
+          "imageUrl": "https://cginterest.com/wp-content/uploads/2026/03/bookcorner-2026-3.webp"
+        },
         {
           "id": "https://cginterest.com/?p=57111",
           "author": ".me",

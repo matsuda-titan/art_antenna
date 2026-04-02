@@ -2,10 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-04-02T08:44:07.444Z</updated>
+    <updated>2026-04-02T12:48:17.065Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Nyanneco Quad Divide – 四角ポリゴンを維持したまま3-1・4-2・5-3分割ができるBlender用無料アドオン]]></title>
+        <id>https://modelinghappy.com/?p=67877</id>
+        <link href="https://modelinghappy.com/archives/67877"/>
+        <updated>2026-04-02T10:57:09.000Z</updated>
+        <summary type="html"><![CDATA[ポリゴン割り支援アドオン「Nyanneco Quad Divide」 Nyanneco Quad Divideは、にゃんねこさんが作成した、Blenderで四角ポリゴンを維持したままトポロジーの流れを 3-1（1-3）・
+The post Nyanneco Quad Divide – 四角ポリゴンを維持したまま3-1・4-2・5-3分割ができるBlender用無料アドオン first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
+        <author>
+            <name>modelinghappy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CG制作の裏側｜『果てしなきスカーレット』若手クリエイターインタビュー③ 新卒2ヶ月で主役シーンを担当したアニメーター]]></title>
+        <id>https://note.com/dftalk/n/nb26222381efb</id>
+        <link href="https://note.com/dftalk/n/nb26222381efb"/>
+        <updated>2026-04-02T10:00:59.000Z</updated>
+        <summary type="html"><![CDATA[細田守監督作品『果てしなきスカーレット』では、《死者の国》の世界を中心にデジタル・フロンティアがCG制作を担当しています。
+続きをみる]]></summary>
+        <author>
+            <name>DF TALK</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[UE][Houdini][Tool] RegexActorSelector]]></title>
+        <id>https://zenn.dev/kickbase/articles/50877940269bc5</id>
+        <link href="https://zenn.dev/kickbase/articles/50877940269bc5"/>
+        <updated>2026-04-02T10:00:06.000Z</updated>
+        <summary type="html"><![CDATA[UnrealEngineのスクリーンショット
+Unreal Engine（以下 UE）で Houdini Engine for Unreal を使用している時、もっと楽にHDAにアクターを渡してえと思うことがありませんか。僕はあります。
+そこでOutlinerラベルを正規表現フィルタし、Houdini Engineの入力へ渡すツールがあると便利そうですね。
+というわけで作りました。
+本記事ではエディタ専用 AActor（C++） ARegexActorSelector の概要と、ヘッダ・ソースの全文とその解説をまとめます。
+
+
+ どんな課題を解決するか
+
+HDAの入力コストを削減するの...]]></summary>
+        <author>
+            <name>めんたいこ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Plasticity Bridge for Cinema 4D v1.0 | Cinema 4DとPlasticityを連携！リアルタイムライブリンクなども可能なブリッジプラグイン！Github上で公開！]]></title>
         <id>https://3dnchu.com/?p=1063711</id>
@@ -4575,31 +4616,6 @@ MaterialXを社内に布教したい委員会、会員のTD髙橋です。
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[個性光る未来のクリエイター達の挑戦！Vol.022]]></title>
-        <id>https://note.com/ad_fsg/n/n2e55a4894460</id>
-        <link href="https://note.com/ad_fsg/n/n2e55a4894460"/>
-        <updated>2026-03-04T00:20:46.000Z</updated>
-        <summary type="html"><![CDATA[こんにちは、ゲーム・CG科担当の大槻です。
-今回は、私が指導している学生の3DCG作品をご紹介します。
-日々の課題に真剣に取り組みながら、業界知識や技術の習得をしています。
-作品紹介　「仙蓬境」
-続きをみる]]></summary>
-        <author>
-            <name>#Houdiniタグ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[複数オブジェクトのテクスチャを1枚にまとめて最適化！メッシュ結合＋テクスチャアトラスを自動生成するBlenderアドオン「Mesh Combine」]]></title>
-        <id>https://modelinghappy.com/?p=67441</id>
-        <link href="https://modelinghappy.com/archives/67441"/>
-        <updated>2026-03-04T00:01:27.000Z</updated>
-        <summary type="html"><![CDATA[Mesh Combine Mesh Combineは、Blenderで複数のオブジェクトを1つのメッシュに統合し、それぞれのテクスチャを整理されたテクスチャをアトラスとして１枚にまとめてくれるアドオンです。 カラーテクス
-The post 複数オブジェクトのテクスチャを1枚にまとめて最適化！メッシュ結合＋テクスチャアトラスを自動生成するBlenderアドオン「Mesh Combine」 first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
-        <author>
-            <name>modelinghappy</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Blenderでインテリア空間を素早く作成できる無料＆オープンソースアドオン「Home Builder 5」]]></title>
         <id>https://cginterest.com/?p=56340</id>
         <link href="https://cginterest.com/2026/03/04/blender%e3%81%a7%e3%82%a4%e3%83%b3%e3%83%86%e3%83%aa%e3%82%a2%e7%a9%ba%e9%96%93%e3%82%92%e7%b4%a0%e6%97%a9%e3%81%8f%e4%bd%9c%e6%88%90%e3%81%a7%e3%81%8d%e3%82%8b%e7%84%a1%e6%96%99%ef%bc%86%e3%82%aa/"/>
@@ -4608,16 +4624,6 @@ The post 複数オブジェクトのテクスチャを1枚にまとめて最適�
 Blenderでインテリア空間を素早く作成できる無料＆オープンソースアドオン「Home Builder 5」 first appeared on CGinterest.]]></summary>
         <author>
             <name>.me</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CC0で商用利用可能な3Dアセットを集めたサイト「Open Source 3D Assets」オープン！ GLB／glTF規格に基づき構築 - ニュース]]></title>
-        <id>https://cgworld.jp/flashnews/01-202603-OS3A.html</id>
-        <link href="https://cgworld.jp/flashnews/01-202603-OS3A.html"/>
-        <updated>2026-03-03T23:09:38.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
         </author>
     </entry>
 </feed>

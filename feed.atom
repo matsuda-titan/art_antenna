@@ -2,10 +2,93 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-04-02T12:48:17.065Z</updated>
+    <updated>2026-04-03T01:20:35.753Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[[Maya HLSL] トゥーンシェーダのアウトラインをカスタマイズする]]></title>
+        <id>https://zenn.dev/reality_tech/articles/1aa89eddbbcf71</id>
+        <link href="https://zenn.dev/reality_tech/articles/1aa89eddbbcf71"/>
+        <updated>2026-04-03T00:00:16.000Z</updated>
+        <summary type="html"><![CDATA[Maya でアウトライン付きのトゥーンシェーダを書く機会があり、MayaToonOutlineShader を参考にして独自のアウトラインを実装しました。この記事ではその実装、特に頂点カラーを使ってアウトラインの太さや深度オフセットをアーティストが頂点ごと個別に制御できる仕組みについて説明します。
+
+ 1. Maya DirectX シェーダの前提知識
+Maya の Viewport 2.0 は DirectX 11 ベースのレンダリングパイプラインを持っており、.fx 形式のシェーダファイルを読み込むことができます。シェーダ内に書いたアノテーション（string UIGroup、str...]]></summary>
+        <author>
+            <name>Iguchi [REALITY]</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[オープンソースのAviutl2プラグイン「SAM3 BB/GB Generator」リリース！ SAM 3を活用し、クリックするだけで動画から簡単にオブジェクトを切り抜き - ニュース]]></title>
+        <id>https://cgworld.jp/flashnews/01-202604-SAM3BBGBGen.html</id>
+        <link href="https://cgworld.jp/flashnews/01-202604-SAM3BBGBGen.html"/>
+        <updated>2026-04-02T23:14:13.000Z</updated>
+        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[UNIGINE SDK 2.21 がリリース！新アニメーションシステムやAI対応ワークフローを搭載など]]></title>
+        <id>https://cginterest.com/?p=57280</id>
+        <link href="https://cginterest.com/2026/04/03/unigine-sdk-2-21-%e3%81%8c%e3%83%aa%e3%83%aa%e3%83%bc%e3%82%b9%ef%bc%81%e6%96%b0%e3%82%a2%e3%83%8b%e3%83%a1%e3%83%bc%e3%82%b7%e3%83%a7%e3%83%b3%e3%82%b7%e3%82%b9%e3%83%86%e3%83%a0%e3%82%84ai%e5%af%be/"/>
+        <updated>2026-04-02T22:19:00.000Z</updated>
+        <summary type="html"><![CDATA[2026年3月30日(現地時間)- UNIGINEは、リアルタイム3Dアプリケーション開発環境の最新バージョンである「UNIGINE SDK 2.21」をリリースしました。 このバージョンでは、ノードベースの新しいアニメ […]
+UNIGINE SDK 2.21 がリリース！新アニメーションシステムやAI対応ワークフローを搭載など first appeared on CGinterest.]]></summary>
+        <author>
+            <name>.me</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[フォトグラメトリ数学｜04：カメラ行列とは何か]]></title>
+        <id>https://zenn.dev/s_hashida/articles/4bf1ae353a09f5</id>
+        <link href="https://zenn.dev/s_hashida/articles/4bf1ae353a09f5"/>
+        <updated>2026-04-02T21:45:05.000Z</updated>
+        <summary type="html"><![CDATA[はじめに
+これまでの流れを簡単に振り返ります。
+
+01 カメラとは何か（モデル）
+02 射影とは何か（3D→2Dの現象）
+03 同次座標（扱いやすくする道具）
+
+ここまでで、
+
+「3Dの点が2Dに写る仕組み」
+
+は理解いただけたと思います。
+
+ただ、まだ一つ問題が残っています。
+
+それを「どう計算するのか？」
+
+今回のテーマはここです。
+
+ これまでの式
+射影の関係は、次のように表現できました。
+
+x = f \frac{X}{Z}, \quad y = f \frac{Y}{Z}
+
+これは直感的には分かりやすいですが、
+
+「Z」 で割っている（非線形）
+行列でまとめにくい
+
+とい...]]></summary>
+        <author>
+            <name>s_hashida</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【PR】The Spring Evolution: Game Art Flash Sale | WingfoxにてGame Artカテゴリーのコースが25% OFFなどの大規模セールを2026年4月12日まで実施中！]]></title>
+        <id>https://3dnchu.com/?p=1063756</id>
+        <link href="https://3dnchu.com/archives/the-spring-evolution-game-art-flash-sale-wingfox/"/>
+        <updated>2026-04-02T18:51:17.000Z</updated>
+        <summary type="html"><![CDATA[2026年4月12日まで WingfoxにてGame Artカテゴリーのコースが25% OFFなどの大規模セール「The Spring Evolution: Game Art Flash Sale」を実施中！]]></summary>
+        <author>
+            <name>Ymt3D -3dnchu-</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Nyanneco Quad Divide – 四角ポリゴンを維持したまま3-1・4-2・5-3分割ができるBlender用無料アドオン]]></title>
         <id>https://modelinghappy.com/?p=67877</id>
@@ -4502,126 +4585,6 @@ Apple、M5 ProおよびM5 Maxチップ搭載の新型「MacBook Pro」を発表�
         <updated>2026-03-04T22:20:00.000Z</updated>
         <summary type="html"><![CDATA[2026年3月3日（現地時間）- Appleは、プロフェッショナル向けの次世代チップ「M5 Pro」および「M5 Max」を発表しました。これらを搭載した新しいMacBook Proは、発表翌日より予約が開始され、3月1 […]
 Apple、プロフェッショナル向けの次世代チップ「M5 Pro」および「M5 Max」を発表 first appeared on CGinterest.]]></summary>
-        <author>
-            <name>.me</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ShaderLab(HLSL) の各関数の実行時間の検証]]></title>
-        <id>https://zenn.dev/bekosan/articles/79b4ef641a681b</id>
-        <link href="https://zenn.dev/bekosan/articles/79b4ef641a681b"/>
-        <updated>2026-03-04T11:35:50.000Z</updated>
-        <summary type="html"><![CDATA[（この記事は2024年の再公開であり、古い情報が含まれている可能性があります）
-
- はじめに
-シェーダーではよく「三角関数は重いから可能な限り避けろ」とか言われますが、具体的にどのくらい重いのか、他にはどんな関数が重たいのか具体的に記されている文献が見当たらなかったので、自分で測定してみました。
-
- 検証環境
-UnityのShaderlabで実行しました。なお、エディタ上でプロファイラで実行時間を計測しています。実環境では動作が異なる可能性があることをご承知おきください。
-測定はカメラの視界をQuadメッシュで完全に覆い、解像度を8k(7640x4320)に設定してプロファイラのOpaq...]]></summary>
-        <author>
-            <name>Bekosan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apple、プロ向けディスプレイの新型「Studio Display」と新しい「Studio Display XDR」を発表！]]></title>
-        <id>https://cginterest.com/?p=56351</id>
-        <link href="https://cginterest.com/2026/03/04/apple%e3%80%81%e3%83%97%e3%83%ad%e5%90%91%e3%81%91%e3%83%87%e3%82%a3%e3%82%b9%e3%83%97%e3%83%ac%e3%82%a4%e3%81%ae%e6%96%b0%e5%9e%8b%e3%80%8cstudio-display%e3%80%8d%e3%81%a8%e6%96%b0%e3%81%97%e3%81%84/"/>
-        <updated>2026-03-04T09:16:08.000Z</updated>
-        <summary type="html"><![CDATA[2026年3月3日 – Appleは、新しい外部ディスプレイとして新型のStudio Displayおよび新しいStudio Display XDRを発表しました。 最新の超高速規格「Thunderbolt  […]
-Apple、プロ向けディスプレイの新型「Studio Display」と新しい「Studio Display XDR」を発表！ first appeared on CGinterest.]]></summary>
-        <author>
-            <name>.me</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MaterialXのすゝめ ツールに依存しない共有マテリアル 2026年1月最新版]]></title>
-        <id>https://note.com/dftalk/n/n55483de2bf3e</id>
-        <link href="https://note.com/dftalk/n/n55483de2bf3e"/>
-        <updated>2026-03-04T04:00:32.000Z</updated>
-        <summary type="html"><![CDATA[ご無沙汰しております。
-MaterialXを社内に布教したい委員会、会員のTD髙橋です。
-前回に引き続き、各DCCツールにおけるMaterialXのレンダリング結果について記事を書かせていただきます。
-今回は、比較対象となるツールにKarmaとOmniverseを追加し、かつ、なるべく見た目が一致するような対応を行ってみましたので、そちらを共有できればと思います。
-(あくまで2026年1月時点での対応であるため、今後変更がある可能性があります。ご了承ください)
-過去記事はこちら
-続きをみる]]></summary>
-        <author>
-            <name>DF TALK</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MaterialXのすゝめ ツールに依存しない共有マテリアル 2026年1月最新版]]></title>
-        <id>https://note.com/dftalk/n/n55483de2bf3e</id>
-        <link href="https://note.com/dftalk/n/n55483de2bf3e"/>
-        <updated>2026-03-04T04:00:32.000Z</updated>
-        <summary type="html"><![CDATA[ご無沙汰しております。
-MaterialXを社内に布教したい委員会、会員のTD髙橋です。
-前回に引き続き、各DCCツールにおけるMaterialXのレンダリング結果について記事を書かせていただきます。
-今回は、比較対象となるツールにKarmaとOmniverseを追加し、かつ、なるべく見た目が一致するような対応を行ってみましたので、そちらを共有できればと思います。
-(あくまで2026年1月時点での対応であるため、今後変更がある可能性があります。ご了承ください)
-過去記事はこちら
-続きをみる]]></summary>
-        <author>
-            <name>#Houdiniタグ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Netflix映画『超かぐや姫！』 仮想空間『ツクヨミ』を多彩な3DCGで彩った話題作！ 〜No.1／スタッフインタビュー篇 - 特集]]></title>
-        <id>https://cgworld.jp/article/cgw331-chokaguyahime01.html</id>
-        <link href="https://cgworld.jp/article/cgw331-chokaguyahime01.html"/>
-        <updated>2026-03-04T04:00:26.000Z</updated>
-        <summary type="html"><![CDATA[Netflix映画『超かぐや姫！』のメイキングを紹介。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Foundry、Nuke 17.0をリリース　USDベースの新3DシステムとGaussian Splatsをネイティブサポート - ニュース]]></title>
-        <id>https://cgworld.jp/flashnews/2603-nuke17.0.html</id>
-        <link href="https://cgworld.jp/flashnews/2603-nuke17.0.html"/>
-        <updated>2026-03-04T02:50:00.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[『シュガシュガルーン』連載20周年記念短編映像「SUGAR SUGAR RUNE Les deux sorcières」ショコラとバニラの新たな魅力を堪能できる充実の短編映像 〜No.3／カット制作篇 - 特集]]></title>
-        <id>https://cgworld.jp/article/animecg137-sugarrune03.html</id>
-        <link href="https://cgworld.jp/article/animecg137-sugarrune03.html"/>
-        <updated>2026-03-04T01:00:18.000Z</updated>
-        <summary type="html"><![CDATA[スタジオカラーによる『シュガシュガルーン』連載20周年記念短編映像、「SUGAR SUGAR RUNE Les deux sorcières」のメイキングを紹介。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[カットシーンのデータ管理 第4回：TimeEditorを⼯夫して管理を効率化してみよう④]]></title>
-        <id>https://area.autodesk.jp/column/tutorial/cut-scene-data-management/04-time-editor-04/</id>
-        <link href="https://area.autodesk.jp/column/tutorial/cut-scene-data-management/04-time-editor-04/"/>
-        <updated>2026-03-04T01:00:00.000Z</updated>
-        <summary type="html"><![CDATA[今回はカットシーンのデータ管理「TimeEditor編」の最後として、拡張したTimeEditorを使ったファイル連携…「登録したクリップからFBXアニメーションの出⼒する」「登録クリップからアニメーションの情報をcsvで出⼒する」…についてご紹介します。・・・]]></summary>
-        <author>
-            <name>AREA JAPAN | Autodesk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LOGIC&MAGIC STUDIO（旧名TUNEDiD）【モーションキャプチャスタジオ】 - 連載]]></title>
-        <id>https://cgworld.jp/regular/2510-LOGICMAGICSTUDIO.html</id>
-        <link href="https://cgworld.jp/regular/2510-LOGICMAGICSTUDIO.html"/>
-        <updated>2026-03-04T00:50:29.000Z</updated>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Blenderでインテリア空間を素早く作成できる無料＆オープンソースアドオン「Home Builder 5」]]></title>
-        <id>https://cginterest.com/?p=56340</id>
-        <link href="https://cginterest.com/2026/03/04/blender%e3%81%a7%e3%82%a4%e3%83%b3%e3%83%86%e3%83%aa%e3%82%a2%e7%a9%ba%e9%96%93%e3%82%92%e7%b4%a0%e6%97%a9%e3%81%8f%e4%bd%9c%e6%88%90%e3%81%a7%e3%81%8d%e3%82%8b%e7%84%a1%e6%96%99%ef%bc%86%e3%82%aa/"/>
-        <updated>2026-03-03T23:12:00.000Z</updated>
-        <summary type="html"><![CDATA[2026年2月28日（現地時間）- Andrew Peele 氏は、無料で利用できるオープンソースの Blender 用アドオン「Home Builder 5」をリリースしました。 Home Builder とは Hom […]
-Blenderでインテリア空間を素早く作成できる無料＆オープンソースアドオン「Home Builder 5」 first appeared on CGinterest.]]></summary>
         <author>
             <name>.me</name>
         </author>

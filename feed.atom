@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-04-06T05:15:00.403Z</updated>
+    <updated>2026-04-06T09:00:27.578Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[MeshTailor: Cutting Seams via Generative Mesh Traversal | プロの制作したUVシーム設定データでトレーニングされたUVシーム設定のためのフレームワーク！]]></title>
+        <id>https://3dnchu.com/?p=1063902</id>
+        <link href="https://3dnchu.com/archives/meshtailor/"/>
+        <updated>2026-04-06T08:00:23.000Z</updated>
+        <summary type="html"><![CDATA[深セン大学 サイモン・フレイザー大学 の研究者らによる、UVシーム設定の技術「MeshTailor: Cutting Seams via Generative Mesh Traversal」が公開されています！]]></summary>
+        <author>
+            <name>Ymt3D -3dnchu-</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[UniEdge Remesher | 形状をある程度維持したまま均一な頂点密度でリメッシュ可能なBlender用Geometry Nodesモディファイア！]]></title>
+        <id>https://3dnchu.com/?p=1063846</id>
+        <link href="https://3dnchu.com/archives/uniedge-remesher/"/>
+        <updated>2026-04-06T07:39:09.000Z</updated>
+        <summary type="html"><![CDATA[Mac Orion氏が形状をある程度維持したまま均一な頂点密度でリメッシュ可能な「UniEdge Remesher」というGeometry NodesをGumroad上で販売しています。]]></summary>
+        <author>
+            <name>Ymt3D -3dnchu-</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Unity ↔ Cascadeur: Real-Time Sync & Workflow Pipeline リアルタイム同期ツール | 「Unity」と「Cascadeur」をリアルタイムに同期可能にするツールがリリース予定！紹介動画がYoutube上で公開！]]></title>
         <id>https://3dnchu.com/?p=1063871</id>
@@ -4527,16 +4547,6 @@ OSは、WindowsまたはLinux(virtualboxまたはpodmanでレガシーLinuxを�
 Amazon 新生活セール特集！ワコムペンタブやグラフィックスカードなどがお買い得に！ first appeared on CGinterest.]]></summary>
         <author>
             <name>.me</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kawaii Fluid | Unreal Engine 5向けのGPUベースPBF（粘性流体）シミュレーションプラグイン！無料！]]></title>
-        <id>https://3dnchu.com/?p=1062625</id>
-        <link href="https://3dnchu.com/archives/kawaii-fluid/"/>
-        <updated>2026-03-07T18:16:01.000Z</updated>
-        <summary type="html"><![CDATA[Team BruteForceによるUnreal Engine 5向けのGPUベースPBF（粘性流体）シミュレーションプラグイン「Kawaii Fluid」がFab上で無料公開されています！]]></summary>
-        <author>
-            <name>Ymt3D -3dnchu-</name>
         </author>
     </entry>
 </feed>

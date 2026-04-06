@@ -275,6 +275,36 @@
       "siteUrl": "https://3dnchu.com",
       "articles": [
         {
+          "id": "https://3dnchu.com/?p=1063902",
+          "author": "Ymt3D -3dnchu-",
+          "description": "深セン大学 サイモン・フレイザー大学 の研究者らによる、UVシーム設定の技術「MeshTailor: Cutting Seams via Generative Mesh Traversal」が公開されています！",
+          "link": "https://3dnchu.com/archives/meshtailor/",
+          "publishedOn": "2026-04-06T08:00:23.000Z",
+          "wordCount": 9039,
+          "title": "MeshTailor: Cutting Seams via Generative Mesh Traversal | プロの制作したUVシーム設定データでトレーニングされたUVシーム設定のためのフレームワーク！",
+          "enclosure": {
+            "url": "https://meshtailor.github.io/static/videos/vid_teaser_short.mp4",
+            "length": "47590544",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://3dnchu.com/wp-content/uploads/meshtailor.webp"
+        },
+        {
+          "id": "https://3dnchu.com/?p=1063846",
+          "author": "Ymt3D -3dnchu-",
+          "description": "Mac Orion氏が形状をある程度維持したまま均一な頂点密度でリメッシュ可能な「UniEdge Remesher」というGeometry NodesをGumroad上で販売しています。",
+          "link": "https://3dnchu.com/archives/uniedge-remesher/",
+          "publishedOn": "2026-04-06T07:39:09.000Z",
+          "wordCount": 8977,
+          "title": "UniEdge Remesher | 形状をある程度維持したまま均一な頂点密度でリメッシュ可能なBlender用Geometry Nodesモディファイア！",
+          "enclosure": {
+            "url": "https://3dnchu.com/wp-content/uploads/UniEdge-Remesher-Blender-Geometry-Node-video.mp4",
+            "length": "3055844",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://3dnchu.com/wp-content/uploads/UniEdge-Remesher.webp"
+        },
+        {
           "id": "https://3dnchu.com/?p=1063871",
           "author": "Ymt3D -3dnchu-",
           "description": "Team GadgetがUnityとCascadeurをリアルタイムに同期する事ができるツールを開発中とのことで、最新映像をYoutube上で公開しています！",
@@ -1203,21 +1233,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "https://3dnchu.com/wp-content/uploads/PolyRig-Early-Access.png"
-        },
-        {
-          "id": "https://3dnchu.com/?p=1062625",
-          "author": "Ymt3D -3dnchu-",
-          "description": "Team BruteForceによるUnreal Engine 5向けのGPUベースPBF（粘性流体）シミュレーションプラグイン「Kawaii Fluid」がFab上で無料公開されています！",
-          "link": "https://3dnchu.com/archives/kawaii-fluid/",
-          "publishedOn": "2026-03-07T18:16:01.000Z",
-          "wordCount": 8852,
-          "title": "Kawaii Fluid | Unreal Engine 5向けのGPUベースPBF（粘性流体）シミュレーションプラグイン！無料！",
-          "enclosure": {
-            "url": "https://3dnchu.com/wp-content/uploads/Kawaii-Fluid.webp",
-            "length": "1149318",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://3dnchu.com/wp-content/uploads/Kawaii-Fluid.webp"
         }
       ]
     },

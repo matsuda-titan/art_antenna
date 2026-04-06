@@ -2,10 +2,126 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-04-05T12:33:45.536Z</updated>
+    <updated>2026-04-06T01:23:53.619Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Blenderアドオン「GUI Slider」リリース！ シェイプキーやカスタムプロパティ、データパスをスライダとジョイスティックに統合して調整を効率化 - ニュース]]></title>
+        <id>https://cgworld.jp/flashnews/01-202604-GUISlider.html</id>
+        <link href="https://cgworld.jp/flashnews/01-202604-GUISlider.html"/>
+        <updated>2026-04-06T00:21:37.000Z</updated>
+        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sketchfabマンスリーピックアップ 2026年4月号]]></title>
+        <id>https://cginterest.com/?p=57382</id>
+        <link href="https://cginterest.com/2026/04/06/57382/"/>
+        <updated>2026-04-05T22:09:00.000Z</updated>
+        <summary type="html"><![CDATA[先月Sketchfabに投稿されたモデルを勝手にピックアップ(2026年4月5日調べ) するコーナーです。人気のある3Dモデルを中心に独断と偏見で選んでおります！ 通常のピックアップとは別に、無料でダウンロードできる3D […]
+Sketchfabマンスリーピックアップ 2026年4月号 first appeared on CGinterest.]]></summary>
+        <author>
+            <name>.me</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[フォトグラメトリ数学｜05：内部パラメータとは何か]]></title>
+        <id>https://zenn.dev/s_hashida/articles/50125d8c0b6caa</id>
+        <link href="https://zenn.dev/s_hashida/articles/50125d8c0b6caa"/>
+        <updated>2026-04-05T21:50:45.000Z</updated>
+        <summary type="html"><![CDATA[はじめに
+前回は、カメラ行列
+
+\mathbf{p} \sim K [R \mid t] \mathbf{P}
+
+について説明しました。
+
+
+[R \mid t]：世界座標 → カメラ座標
+
+K：カメラによる射影
+
+という役割でした。
+ではここで一つ疑問が出てきます。
+
+この K は、具体的に何をしているのでしょうか？
+
+今回は、この内部パラメータ K の中身を見ていきます。
+
+ K をもう一度見る
+前回は、次のような形で K を導入しました。
+
+K =
+\begin{bmatrix}
+f & 0 & 0 \\
+0 & f & 0 \\
+0 &...]]></summary>
+        <author>
+            <name>s_hashida</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Animated Texture Brush | 画像シーケンステクスチャを使ったブラシでテクスチャ＆頂点ペイントを実現する無料のBlenderアドオン＆ブラシパックが公開！]]></title>
+        <id>https://3dnchu.com/?p=1063836</id>
+        <link href="https://3dnchu.com/archives/animated-texture-brush/"/>
+        <updated>2026-04-05T16:07:24.000Z</updated>
+        <summary type="html"><![CDATA[Kvendy氏が画像シーケンステクスチャを使ったブラシでテクスチャや頂点ペイントを実現するBlenderアドオン「Animated Texture Brush」とブラシパック「Ayo Brushpack」を無料公開しています！]]></summary>
+        <author>
+            <name>Ymt3D -3dnchu-</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Top 100 VJ Loops Montage Dream Sequence | ビートに合わせたカメラアングルのテンプレシーンからオリジナル作品を作るCGチャレンジ！上位100作品＆参加者1,498名の全作品モンタージュ映像が公開中！]]></title>
+        <id>https://3dnchu.com/?p=1063850</id>
+        <link href="https://3dnchu.com/archives/top-100-draem-sequence/"/>
+        <updated>2026-04-05T15:57:25.000Z</updated>
+        <summary type="html"><![CDATA[数多くのユニークなチャレンジを開催している事でお馴染みVFXアーティストClinton Jones氏（@_Pwnisher_）による、2026年1回目のコンテスト『Dream Sequence』のトップ100作品&全参加者の作品モンタージュが公開されました！]]></summary>
+        <author>
+            <name>Ymt3D -3dnchu-</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[UE5.7] SubstrateのBlendable GBufferに自作グローバルシェーダーで描画する]]></title>
+        <id>https://qiita.com/yorung/items/b18dbe014c61947d1da1</id>
+        <link href="https://qiita.com/yorung/items/b18dbe014c61947d1da1"/>
+        <updated>2026-04-05T15:33:31.000Z</updated>
+        <summary type="html"><![CDATA[概要
+UE5.7のSubstrateに追加されたBlendable GBufferを使用すると、Substrate以前のLegacy GBufferのレイアウトをSubstrate上で引き続き使えます。
+今回、このSubstrateのシステム上で動くLegacy GBuf...]]></summary>
+        <author>
+            <name>HLSLタグが付けられた新着記事 - Qiita</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HardCuts – ボクセルとSDFベースでハードサーフェスモデリングができる3Dソフト・Alpha版は無料で利用可能]]></title>
+        <id>https://modelinghappy.com/?p=67895</id>
+        <link href="https://modelinghappy.com/archives/67895"/>
+        <updated>2026-04-05T13:48:57.000Z</updated>
+        <summary type="html"><![CDATA[HARDCUTS HardCutsは、@JayAnAmGamesさんが作成した、ボクセルとSDFベースのハードサーフェスモデリング向けの3Dソフトです。 ブーリアン操作を中心に素早く作成できるよう設計されているので、ポリ
+The post HardCuts – ボクセルとSDFベースでハードサーフェスモデリングができる3Dソフト・Alpha版は無料で利用可能 first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
+        <author>
+            <name>modelinghappy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenUSD を学んでいく(その1) ファイルフォーマットとPython API 環境構築]]></title>
+        <id>https://zenn.dev/regonn/articles/open-usd-001</id>
+        <link href="https://zenn.dev/regonn/articles/open-usd-001"/>
+        <updated>2026-04-05T06:48:34.000Z</updated>
+        <summary type="html"><![CDATA[前回の記事では、Omniverse の環境を構築し、usdview で OpenUSD を表示できるようにしました。
+https://zenn.dev/regonn/articles/open-usd-000
+今回は、Python API で OpenUSD ファイルを作成していきます。
+
+ OpenUSD とファイルフォーマット
+OpenUSD には、用途に応じて最適化された複数のファイルフォーマットがあります。テキスト（.usda など）とバイナリ（.usdc など）のどちらを採用するかで、ロード速度および差分の見やすさのバランスは大きく変わります。
+また、フォーマットの混在も可能で...]]></summary>
+        <author>
+            <name>regonn</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Puppet Studio – Blenderでリグ作成・自動スキニング機能・アニメーション生成まで行えるキャラクター制作アドオン]]></title>
         <id>https://modelinghappy.com/?p=67882</id>
@@ -874,6 +990,22 @@ The post 小説をもとに ナラティブに 表現：『Rats on the Loose』�
         <summary type="html"><![CDATA[カナダ・モントリオール在住の3DCGアニメーター Hoshi 氏が自身のYoutubeチャンネル「アニメーターのホシ」にて「CG業界の残酷なリアル。エンドロールの人数を数えてわかった雇用と人気のギャップ」という動画を公開しました！]]></summary>
         <author>
             <name>Ymt3D -3dnchu-</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenUSD を学んでいく(その0) Omniverse で表示環境構築]]></title>
+        <id>https://zenn.dev/regonn/articles/open-usd-000</id>
+        <link href="https://zenn.dev/regonn/articles/open-usd-000"/>
+        <updated>2026-03-31T06:10:24.000Z</updated>
+        <summary type="html"><![CDATA[NVIDIAが最近推している OpenUSD を勉強していこうと思います。
+NVIDIA が公式で資格だったり、教材を扱っているので、それを見ながらやっていきます。
+https://www.nvidia.com/en-us/learn/certification/openusd-development-professional/
+https://github.com/NVIDIA-Omniverse/LearnOpenUSD
+
+ この記事でやること
+最初に、OpenUSD を触っていくにあたって、実際にPython API だったりで触れる環境を作っていきたいので、Omniverse を...]]></summary>
+        <author>
+            <name>regonn</name>
         </author>
     </entry>
     <entry>
@@ -4363,102 +4495,6 @@ Amazon 新生活セール特集！ワコムペンタブやグラフィックス�
         <summary type="html"><![CDATA[Team BruteForceによるUnreal Engine 5向けのGPUベースPBF（粘性流体）シミュレーションプラグイン「Kawaii Fluid」がFab上で無料公開されています！]]></summary>
         <author>
             <name>Ymt3D -3dnchu-</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[UE5] PCGシステムで「超かぐや姫」のツクヨミ空中劇場を再現してみた]]></title>
-        <id>https://qiita.com/nlnnn/items/f9dfb0d13b880594561b</id>
-        <link href="https://qiita.com/nlnnn/items/f9dfb0d13b880594561b"/>
-        <updated>2026-03-07T09:16:32.000Z</updated>
-        <summary type="html"><![CDATA[この記事で基本的に原作のストーリーには触れませんが、必要最低限の設定内容と数枚のリファレンス画像を含んでいるので、一応ネタバレ注意です。
-
-Demo
-
-1 はじめに
-先日、最近大ヒットしたアニメ映画「超かぐや姫」を映画館で観ました。（ちなみに立川のシネマシティ...]]></summary>
-        <author>
-            <name>3DCGタグが付けられた新着記事 - Qiita</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ゲーム用アセット製作：車内]]></title>
-        <id>https://note.com/limber_snipe4821/n/n356ce05f4d12</id>
-        <link href="https://note.com/limber_snipe4821/n/n356ce05f4d12"/>
-        <updated>2026-03-07T08:46:58.000Z</updated>
-        <summary type="html"><![CDATA[クルマの中から、シーン用
-車内
-続きをみる]]></summary>
-        <author>
-            <name>#substancepainterタグ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[UE5] PCGシステムで「超かぐや姫」のツクヨミ空中劇場を再現してみた]]></title>
-        <id>https://zenn.dev/nlnnn/articles/c19551e508c076</id>
-        <link href="https://zenn.dev/nlnnn/articles/c19551e508c076"/>
-        <updated>2026-03-07T05:32:55.000Z</updated>
-        <summary type="html"><![CDATA[!
-この記事で基本的に原作のストーリーには触れませんが、必要最低限の設定内容と数枚のリファレンス画像を含んでいるので、一応ネタバレ注意です。
-
-
- Demo
-https://youtu.be/A1sRSCbUxM8
-
-
-
- 1 はじめに
-先日、最近大ヒットしたアニメ映画「超かぐや姫」を映画館で観ました。（ちなみに立川のシネマシティに行ったので、映画館のすぐ外が聖地であることはめっちゃ新鮮でした。）
-映画自体はもちろん楽しみましたし、本作の3DCGを活用した演出にも興味を引きました。その中で特に印象に残ったのは、これです。
-
-©コロリド・ツインエンジンパートナーズ
-
-©コロリド・ツインエン...]]></summary>
-        <author>
-            <name>Enlin Li</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Maxon、Tencent Cloud との提携を発表！Cinema 4Dに「HY 3D AIエンジン」を統合へ]]></title>
-        <id>https://cginterest.com/?p=56461</id>
-        <link href="https://cginterest.com/2026/03/07/maxon%e3%80%81tencent-cloud-%e3%81%a8%e3%81%ae%e6%8f%90%e6%90%ba%e3%82%92%e7%99%ba%e8%a1%a8%ef%bc%81cinema-4d%e3%81%ab%e3%80%8chy-3d-ai%e3%82%a8%e3%83%b3%e3%82%b8%e3%83%b3%e3%80%8d%e3%82%92%e7%b5%b1/"/>
-        <updated>2026-03-07T05:09:13.000Z</updated>
-        <summary type="html"><![CDATA[2026年3月6日（現地時間）- 3Dデザインやモーション・グラフィックス向けのプロフェッショナルソフトウェアを提供するMaxonは、Tencent Cloudとの戦略的パートナーシップを締結したことを発表しました。 C […]
-Maxon、Tencent Cloud との提携を発表！Cinema 4Dに「HY 3D AIエンジン」を統合へ first appeared on CGinterest.]]></summary>
-        <author>
-            <name>.me</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ノベルゲームにGLSLフィルター17種を一括実装した：PC98風からグリッチまで全設計]]></title>
-        <id>https://qiita.com/mk18/items/859400306e2d3e8d8955</id>
-        <link href="https://qiita.com/mk18/items/859400306e2d3e8d8955"/>
-        <updated>2026-03-07T04:08:11.000Z</updated>
-        <summary type="html"><![CDATA[はじめに
-ノベルゲームエンジンにポスト処理エフェクトフィルター17種を実装した。PC98風の16色パレット、CRTの走査線、グリッチノイズ、雨のパーティクル——すべて GLSL シェーダーで書き、PixiJS v8 の Filter API に統合した。
-エディタからはド...]]></summary>
-        <author>
-            <name>GLSLタグが付けられた新着記事 - Qiita</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Blenderジオメトリノードベースの無料プロシージャル手足モデリングツール「LimbKit」]]></title>
-        <id>https://cginterest.com/?p=56451</id>
-        <link href="https://cginterest.com/2026/03/07/blender%e3%82%b8%e3%82%aa%e3%83%a1%e3%83%88%e3%83%aa%e3%83%8e%e3%83%bc%e3%83%89%e3%83%99%e3%83%bc%e3%82%b9%e3%81%ae%e7%84%a1%e6%96%99%e3%83%97%e3%83%ad%e3%82%b7%e3%83%bc%e3%82%b8%e3%83%a3%e3%83%ab/"/>
-        <updated>2026-03-07T01:41:00.000Z</updated>
-        <summary type="html"><![CDATA[Jörg GrubmüllerによるBlender用の無料ツール「LimbKit」の紹介です。 LimbKit とは 「LimbKit」は、Blenderで手や足を素早くプロシージャルに作成できるジオメトリノードベースの […]
-Blenderジオメトリノードベースの無料プロシージャル手足モデリングツール「LimbKit」 first appeared on CGinterest.]]></summary>
-        <author>
-            <name>.me</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【無料アドオン】Grease Mesh – グリースペンシルでガイドを書いてメッシュ作成！]]></title>
-        <id>https://cgbox.jp/?p=65108</id>
-        <link href="https://cgbox.jp/2026/03/07/news-addon-grease-mesh/"/>
-        <updated>2026-03-07T01:21:35.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは！ 今回はアドオンの「Grease Mesh」を紹介します。 こちらのリンクがアドオンの商品ページになります。 Grease Mesh 「Grease Mesh」は、Grease Pencilの描画を3Dメッシ […]]]></summary>
-        <author>
-            <name>kasahara</name>
         </author>
     </entry>
 </feed>

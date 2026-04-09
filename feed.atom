@@ -2,10 +2,27 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-04-09T08:58:05.014Z</updated>
+    <updated>2026-04-09T12:58:35.656Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[[UE5] CineCameraのアナモルフィックレンズをもっと映画風にしてみた]]></title>
+        <id>https://zenn.dev/nlnnn/articles/afcff82193ec1a</id>
+        <link href="https://zenn.dev/nlnnn/articles/afcff82193ec1a"/>
+        <updated>2026-04-09T12:48:26.000Z</updated>
+        <summary type="html"><![CDATA[1 はじめに
+先日、UE5のPCGとChaos Destructionを組み合わせた破壊演出を作る際に、Cine Cameraを使ってシネマティックス映像をレンダリングしました。
+https://zenn.dev/nlnnn/articles/d3b4fc8918f29a
+そこで、Cine Cameraのレンズを、Squeeze Factor 1.33xのアナモルフィックに設定し、2.35:1の横長の映画風画面を表現してみました。
+
+出力した映像はこんな感じでした。
+https://www.youtube.com/watch?v=LLSptw_Coj4
+特に問題があるわけではありませ...]]></summary>
+        <author>
+            <name>Enlin Li</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Intel 発のパスガイディングライブラリ「OpenPGL」が、ASWFのホストプロジェクトに]]></title>
         <id>https://cginterest.com/?p=57490</id>
@@ -4643,49 +4660,6 @@ DotProductで画面のモノクロ化
         <summary type="html"><![CDATA[パターン 服を立体的につくるための設計図をパターンという。服は最初から立体とし...]]></summary>
         <author>
             <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Shateiel氏、MetaHuman DNAアドオンを使ってBlenderでMetaHumanを活用するワークフローを公開！ プロジェクトファイル無償配布 - ニュース]]></title>
-        <id>https://cgworld.jp/flashnews/01-202603-MetaHuman-Blender.html</id>
-        <link href="https://cgworld.jp/flashnews/01-202603-MetaHuman-Blender.html"/>
-        <updated>2026-03-11T00:58:17.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Substance 3D Painter 12.0 がリリース！レイヤーのフラット化、表面に沿った投影モード、ポストプロセスエフェクトの刷新など！]]></title>
-        <id>https://cginterest.com/?p=56536</id>
-        <link href="https://cginterest.com/2026/03/11/substance-3d-painter-12-0-%e3%81%8c%e3%83%aa%e3%83%aa%e3%83%bc%e3%82%b9%ef%bc%81%e3%83%ac%e3%82%a4%e3%83%a4%e3%83%bc%e3%81%ae%e3%83%95%e3%83%a9%e3%83%83%e3%83%88%e5%8c%96%e3%80%81%e8%a1%a8%e9%9d%a2/"/>
-        <updated>2026-03-11T00:41:00.000Z</updated>
-        <summary type="html"><![CDATA[2026年3月9日（現地時間）- Adobe は、3Dペイントソフトウェアの最新アップデート Substance 3D Painter 12.0 をリリースしました。 新機能ハイライト 今回のメジャーアップデートでは、 […]
-Substance 3D Painter 12.0 がリリース！レイヤーのフラット化、表面に沿った投影モード、ポストプロセスエフェクトの刷新など！ first appeared on CGinterest.]]></summary>
-        <author>
-            <name>.me</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Substance 3D Painter 12.0アップデート！デカールを曲面に沿わせるWarp Projection・複数レイヤーを１枚にまとめるフラット化機能等が追加]]></title>
-        <id>https://modelinghappy.com/?p=67551</id>
-        <link href="https://modelinghappy.com/archives/67551"/>
-        <updated>2026-03-10T23:13:53.000Z</updated>
-        <summary type="html"><![CDATA[Version 12.0 | Substance 3D Painter Substance 3D Painterが12.0にアップデートされました。 今回のアップデートでは、デカールを曲面に沿わせて配置できるWarp P
-The post Substance 3D Painter 12.0アップデート！デカールを曲面に沿わせるWarp Projection・複数レイヤーを１枚にまとめるフラット化機能等が追加 first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
-        <author>
-            <name>modelinghappy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nuke 17.0 がリリース！ガウススプラット対応、新しい3Dシステムや機械学習ツールの拡張など]]></title>
-        <id>https://cginterest.com/?p=56487</id>
-        <link href="https://cginterest.com/2026/03/11/nuke-17-0-%e3%81%8c%e3%83%aa%e3%83%aa%e3%83%bc%e3%82%b9%ef%bc%81%e3%82%ac%e3%82%a6%e3%82%b9%e3%82%b9%e3%83%97%e3%83%a9%e3%83%83%e3%83%88%e5%af%be%e5%bf%9c%e3%80%81%e6%96%b0%e3%81%97%e3%81%843d/"/>
-        <updated>2026-03-10T22:22:00.000Z</updated>
-        <summary type="html"><![CDATA[Foundry は、ノードベースのデジタルコンポジットツールの最新アップデート Nuke 17.0 をリリースしました。 新機能ハイライト Nuke 17.0では、コンポジットや3DCGワークフローをより効率的かつ柔軟に […]
-Nuke 17.0 がリリース！ガウススプラット対応、新しい3Dシステムや機械学習ツールの拡張など first appeared on CGinterest.]]></summary>
-        <author>
-            <name>.me</name>
         </author>
     </entry>
 </feed>

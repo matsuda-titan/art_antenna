@@ -2,10 +2,108 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-04-12T12:37:37.087Z</updated>
+    <updated>2026-04-13T01:29:50.871Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【初心者向け】理屈編：フレネル反射について]]></title>
+        <id>https://qiita.com/reina-csharp/items/5d6f21526d40ca53cce6</id>
+        <link href="https://qiita.com/reina-csharp/items/5d6f21526d40ca53cce6"/>
+        <updated>2026-04-13T00:24:39.000Z</updated>
+        <summary type="html"><![CDATA[はじめに
+今回の記事は、数学知識・物理知識ゼロな私が「本物のような海面の動きをUnityで表現するにはどうしたらいいのか？」を初心者に向けて分かりやすいようにまとめたものです。
+さまざまな情報を参考にしつつ、かなり初歩的な内容を取り扱ったものです。あらかじめご了承ください...]]></summary>
+        <author>
+            <name>Shaderタグが付けられた新着記事 - Qiita</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Blender内からCGAxisの1万以上のアセットを直接ブラウズ＆インポート出来る「CGAxis Add-on」 無料版は約120種類のアセット利用可能]]></title>
+        <id>https://modelinghappy.com/?p=68062</id>
+        <link href="https://modelinghappy.com/archives/68062"/>
+        <updated>2026-04-13T00:00:10.000Z</updated>
+        <summary type="html"><![CDATA[CGAxis Add-on #8211; Browse amp; Import Assets Directly in Blender CGAxis Add-on #8211; Browse amp; Import
+The post Blender内からCGAxisの1万以上のアセットを直接ブラウズ＆インポート出来る「CGAxis Add-on」 無料版は約120種類のアセット利用可能 first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
+        <author>
+            <name>modelinghappy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[［〆切2026年04月30日］期間限定でUnreal Engine / Unity用の高品質な刑務所アセット「Haunted Prison Environment」が無料公開！]]></title>
+        <id>https://cginterest.com/?p=57628</id>
+        <link href="https://cginterest.com/2026/04/13/%ef%bc%bb%e3%80%86%e5%88%872026%e5%b9%b404%e6%9c%8830%e6%97%a5%ef%bc%bd%e6%9c%9f%e9%96%93%e9%99%90%e5%ae%9a%e3%81%a7unreal-engine-unity%e7%94%a8%e3%81%ae%e9%ab%98%e5%93%81%e8%b3%aa%e3%81%aa%e5%88%91/"/>
+        <updated>2026-04-12T23:14:00.000Z</updated>
+        <summary type="html"><![CDATA[3DCGアセットスタジオのLeartes Studiosは、「MONTHLY RELIGHT CONTEST（月例リライトコンテスト）」の一環として、今月の無料環境アセットを公開しました。 この企画では、毎月同社の運営す […]
+［〆切2026年04月30日］期間限定でUnreal Engine / Unity用の高品質な刑務所アセット「Haunted Prison Environment」が無料公開！ first appeared on CGinterest.]]></summary>
+        <author>
+            <name>.me</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[アニメイラスト画像のパーツ分割技術「See-through」オープンソース化　1枚のイラスト画像から奥行き順序付けされたレイヤー状態のPSDを - ニュース]]></title>
+        <id>https://cgworld.jp/flashnews/01-202604-See-through.html</id>
+        <link href="https://cgworld.jp/flashnews/01-202604-See-through.html"/>
+        <updated>2026-04-12T21:56:58.000Z</updated>
+        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[フォトグラメトリ数学｜08：三角測量とは何か]]></title>
+        <id>https://zenn.dev/s_hashida/articles/bb940b717cae87</id>
+        <link href="https://zenn.dev/s_hashida/articles/bb940b717cae87"/>
+        <updated>2026-04-12T21:33:05.000Z</updated>
+        <summary type="html"><![CDATA[はじめに
+前回は、レンズ歪みについて説明しました。
+現実の観測は
+
+\mathbf{p} = D\bigl( K [R \mid t] \mathbf{P} \bigr)
+
+という形で、
+
+理想投影
+歪み
+
+の組み合わせで表されることを見ました。
+ここまでで、
+カメラがどう写すか
+は理解できました。
+
+では、次の疑問です。
+
+
+写った画像から、元の3Dはどうやって求めるのでしょうか？
+
+
+
+その答えが
+三角測量（Triangulation）
+です。
+
+ 三角測量の直感
+
+ 1枚の画像では何が起きるか
+1枚の画像で、ある点 \mathbf{p} が観測されたとします。
+
+このとき分か...]]></summary>
+        <author>
+            <name>s_hashida</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ゼロから始めるAIシステム開発 #24 「3D生成AI ”Hitem3D” 使用感」]]></title>
+        <id>https://qiita.com/shominai2024/items/b7fe59ba73815e054811</id>
+        <link href="https://qiita.com/shominai2024/items/b7fe59ba73815e054811"/>
+        <updated>2026-04-12T14:56:37.000Z</updated>
+        <summary type="html"><![CDATA[Hitem3Dとは
+
+Hitem3D（ハイテムスリーディー）は香港のMathmagicという企業が運営する3D生成AIプラットフォーム。 前回紹介したMeshyと似たようなサービスである。なぜ似たサービスを取り上げたかというと、Meshyは課金しないと出来ないことが多かっ...]]></summary>
+        <author>
+            <name>3DCGタグが付けられた新着記事 - Qiita</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[RepeaTile – 正方形の枠内で1つのタイルを作りながらリアルタイムでタイリング結果を確認・調整できるBlender用アドオン]]></title>
         <id>https://modelinghappy.com/?p=68054</id>
@@ -4378,79 +4476,6 @@ The post Blenderで光造形3Dプリンタ用サポートを自動生成でき�
 続きをみる]]></summary>
         <author>
             <name>#Houdiniタグ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pixie Renderer フォトンマップ3パス構成のデバッグ記録]]></title>
-        <id>https://zenn.dev/yokamak/articles/a99d6d8054c9c7</id>
-        <link href="https://zenn.dev/yokamak/articles/a99d6d8054c9c7"/>
-        <updated>2026-03-14T12:32:26.000Z</updated>
-        <summary type="html"><![CDATA[Pixie 2.x フォトンマップ3パス構成のデバッグ記録
-
- ── indirectsurf1sided + fakesky 球体によるICF生成失敗と解決まで ──
-
-
-
- 概要
-Pixie 2.2.6（RenderMan互換レンダラー）で、環境球（fakesky）を使ったスカイライトシーンにフォトンマップGIを適用しようとした際、イラディアンスキャッシュファイル（ICF）が 1KB（実質空）しか生成されない問題に遭遇した。
-Pixieは、オープンソースとして公開されている歴史的なレンダラーである
-https://sourceforge.net/projects/pixie/
-本...]]></summary>
-        <author>
-            <name>yokamak</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Houdini: 古いノードを一発で追加。「Add Old Node」ツール]]></title>
-        <id>https://zenn.dev/kickbase/articles/d4409b6d1acbfb</id>
-        <link href="https://zenn.dev/kickbase/articles/d4409b6d1acbfb"/>
-        <updated>2026-03-14T07:41:47.000Z</updated>
-        <summary type="html"><![CDATA[古いチュートリアルや書籍で学んでいると、手順に登場するノードが TAB メニューにない……という経験はありませんか。本記事では、TAB に表示されない（hidden）ノードや非推奨（deprecated）ノードを、現在のコンテキストに合わせて検索・追加できる Python ツール「Add Old Node」の概要・使い方・ホットキー設定、そしてコードのポイントを解説します。
-
- どんな課題を解決するか
-Houdini はバージョンアップのたびにノードが整理され、TAB メニューからは出てこないが、まだ内部的には存在するノードが増えていきます。初学者が古い学習リソース（動画・書籍・記事）...]]></summary>
-        <author>
-            <name>めんたいこ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Adobe、解約手数料問題で米政府と1.5億ドル（約220億円）で和解。ユーザーに7500万ドル相当の無料サービス提供へ]]></title>
-        <id>https://modelinghappy.com/?p=67613</id>
-        <link href="https://modelinghappy.com/archives/67613"/>
-        <updated>2026-03-14T07:40:38.000Z</updated>
-        <summary type="html"><![CDATA[Reuters Adobe reaches $150 million settlement of US lawsuit over termination fees, subscription cancellations
-The post Adobe、解約手数料問題で米政府と1.5億ドル（約220億円）で和解。ユーザーに7500万ドル相当の無料サービス提供へ first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
-        <author>
-            <name>modelinghappy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[UE用ワールド構築プラグインDASH 1.10 がリリース！ 新しいプリセットシステムとプリセットライブラリが追加！]]></title>
-        <id>https://cginterest.com/?p=56633</id>
-        <link href="https://cginterest.com/2026/03/14/ue%e7%94%a8%e3%83%af%e3%83%bc%e3%83%ab%e3%83%89%e6%a7%8b%e7%af%89%e3%83%97%e3%83%a9%e3%82%b0%e3%82%a4%e3%83%b3dash-1-10-%e3%81%8c%e3%83%aa%e3%83%aa%e3%83%bc%e3%82%b9%ef%bc%81-%e6%96%b0%e3%81%97/"/>
-        <updated>2026-03-14T05:13:00.000Z</updated>
-        <summary type="html"><![CDATA[Polygonflow は、UE用ワールド構築プラグイン Dash の最新アップデートバージョン 1.10 をリリースしました。 主な新機能 Dash 1.10 では、ワークフローを再利用できる新機能が追加されました。  […]
-UE用ワールド構築プラグインDASH 1.10 がリリース！ 新しいプリセットシステムとプリセットライブラリが追加！ first appeared on CGinterest.]]></summary>
-        <author>
-            <name>.me</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ゼロから始めるAIシステム開発 #23 「3D生成AI ”Meshy” 使用感」]]></title>
-        <id>https://qiita.com/shominai2024/items/a67fdf2ec2fcc11bafec</id>
-        <link href="https://qiita.com/shominai2024/items/a67fdf2ec2fcc11bafec"/>
-        <updated>2026-03-14T01:12:07.000Z</updated>
-        <summary type="html"><![CDATA[Meshyとは
-
-Meshyは、米国の同名企業が開発・運営する3D生成AIプラットフォーム。以下のようなことができるらしい。
-
-文章から3Dモデルを作る
-画像から3Dモデルを作る
-作ったモデルにテクスチャを貼る
-モデルの形を整える
-キャラにリグを入れてアニメーションさせる...]]></summary>
-        <author>
-            <name>3DCGタグが付けられた新着記事 - Qiita</name>
         </author>
     </entry>
 </feed>

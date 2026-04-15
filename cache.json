@@ -3162,6 +3162,21 @@
       "siteUrl": "https://zenn.dev/topics/3dcg",
       "articles": [
         {
+          "id": "https://zenn.dev/suijo_tsukasa/articles/fb940bdf3dbc7d",
+          "author": "水城 宰",
+          "description": "はじめに\nRust Bevy はまだまだ発展途上であり、公式情報も丁寧に整備されていません。\n特に 3D ゲームに関しては、Solari の動作確認手順も分かりやすく提供されていない現状となっております。\nそこで、私が実際に Solari の動作確認を試して成功するまでの手順を、公式情報より嚙み砕いた形でお届けできればと思います。\n\n 動作環境\n!\nBevy v0.18 時点で、Bevy Solari の動作には NVIDIA 製の GPU カードが必須です。\nBevy Solari は現時点で「NVIDIA DLSS SDK」に依存しているためになります。\n\n!\nRust Bevy...",
+          "link": "https://zenn.dev/suijo_tsukasa/articles/fb940bdf3dbc7d",
+          "publishedOn": "2026-04-15T05:58:14.000Z",
+          "wordCount": null,
+          "title": "【Rust Bevy】3Dゲームの動かし方の第一歩【Solari】",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--8KVr9dQT--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2580%2590Rust%2520Bevy%25E3%2580%25913D%25E3%2582%25B2%25E3%2583%25BC%25E3%2583%25A0%25E3%2581%25AE%25E5%258B%2595%25E3%2581%258B%25E3%2581%2597%25E6%2596%25B9%25E3%2581%25AE%25E7%25AC%25AC%25E4%25B8%2580%25E6%25AD%25A9%25E3%2580%2590Solari%25E3%2580%2591%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E6%25B0%25B4%25E5%259F%258E%2520%25E5%25AE%25B0%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2I5ZDA5MDg2ZGQuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
+            "length": "0",
+            "type": "false"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "https://zenn.dev/exxxna/articles/23aba317e1174c",
           "author": "えな【aVentuRine】",
           "description": "順次追加予定\n\n シェーダーノード\n\n Node Arrange\nhttps://extensions.blender.org/add-ons/node-arrange\nノードを自動整理してくれる。\n\n Node Note/节点随记\nhttps://extensions.blender.org/add-ons/node-note\nノードにメモを追加したり、メモからノードを探すことができる。\n\n Node Tree Screenshot\nhttps://extensions.blender.org/add-ons/node-tree-screenshot\nシェーダーノードの全体図をスクショ...",
@@ -4226,6 +4241,16 @@
       "feedUrl": "https://cginterest.com/feed/",
       "siteUrl": "https://cginterest.com",
       "articles": [
+        {
+          "id": "https://cginterest.com/?p=57710",
+          "author": ".me",
+          "description": "Unity Asset Store で開催されている「Spring Sale」の紹介です。 Spring Sale セール概要 このセールでは、4月13日から5月7日までの期間中、ゲーム開発や3DCG制作で人気の幅広いア […]\n最大95%オフ！Unity Asset Store Spring セールが開催！ first appeared on CGinterest.",
+          "link": "https://cginterest.com/2026/04/15/%e6%9c%80%e5%a4%a795%e3%82%aa%e3%83%95%ef%bc%81unity-asset-store-spring-%e3%82%bb%e3%83%bc%e3%83%ab%e3%81%8c%e9%96%8b%e5%82%ac%ef%bc%81/",
+          "publishedOn": "2026-04-15T08:00:05.000Z",
+          "wordCount": null,
+          "title": "最大95%オフ！Unity Asset Store Spring セールが開催！",
+          "imageUrl": null
+        },
         {
           "id": "https://cginterest.com/?p=56975",
           "author": ".me",

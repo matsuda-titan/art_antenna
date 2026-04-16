@@ -2176,6 +2176,16 @@
       "siteUrl": "https://modelinghappy.com",
       "articles": [
         {
+          "id": "https://modelinghappy.com/?p=67368",
+          "author": "modelinghappy",
+          "description": "REVOPOINT MetroY Pro 今回はREVOPOINTさんより、ブルーレーザー方式で最大0.01mm精度で、黒い物体や細かい髪の毛までスキャンできる高精度3Dスキャナー「REVOPOINT MetroY Pr\nThe post REVOPOINT MetroY Pro レビュー｜最大0.01mm精度のブルーレーザー3Dスキャナーを実機検証 first appeared on 3DCG最新情報サイト MODELING HAPPY.",
+          "link": "https://modelinghappy.com/archives/67368",
+          "publishedOn": "2026-04-16T07:01:08.000Z",
+          "wordCount": 3504,
+          "title": "REVOPOINT MetroY Pro レビュー｜最大0.01mm精度のブルーレーザー3Dスキャナーを実機検証",
+          "imageUrl": "https://modelinghappy.com/wp-content/uploads/2026/03/20260301_revopoint_00.jpg"
+        },
+        {
           "id": "https://modelinghappy.com/?p=68106",
           "author": "modelinghappy",
           "description": "MaxonがZbrush 2026.2.0で、ZbrushからSubstance 3D Painteへ１クリックで転送する機能「Substance Bridge」を追加したと発表しました。 これまで必要だったFBX書き出\nThe post ZBrushからSubstance Painterへ1クリック転送！新機能「Substance Bridge」が登場 自動ベイク・UV対応で作業効率が大幅向上 first appeared on 3DCG最新情報サイト MODELING HAPPY.",
@@ -2919,6 +2929,21 @@
       "feedUrl": "https://zenn.dev/topics/shader/feed",
       "siteUrl": "https://zenn.dev/topics/shader",
       "articles": [
+        {
+          "id": "https://zenn.dev/daikichi228/articles/df6e84af4435d6",
+          "author": "ダイキチ",
+          "description": "いろんな章\n\n サンプリング\n\n座標(u, v)における色が周囲のピクセルから計算して何色にするべきかを決定するプロセスのこと\n「n番目のピクセルの色を取り出す」といった直接的指定ではなく、「周囲のピクセルで補完して推定する」という認識が近い\n\n// texture: 画像データ\n// sampler: サンプリングのルール（フィルタ設定など）\n// 画面の端を超えたらどうするか（繰り返す、端の色を伸ばすなど）というルールセット\n// uv: 取り出したい場所 (0.0 ~ 1.0)\nfloat4 color = texture.Sample(sampler, uv);\n\n satu...",
+          "link": "https://zenn.dev/daikichi228/articles/df6e84af4435d6",
+          "publishedOn": "2026-04-16T05:05:09.000Z",
+          "wordCount": 1708,
+          "title": "HLSLシェーダーの魔導書を勉強して躓いた個所や覚えておきたいこと",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--iNA430uQ--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:HLSL%25E3%2582%25B7%25E3%2582%25A7%25E3%2583%25BC%25E3%2583%2580%25E3%2583%25BC%25E3%2581%25AE%25E9%25AD%2594%25E5%25B0%258E%25E6%259B%25B8%25E3%2582%2592%25E5%258B%2589%25E5%25BC%25B7%25E3%2581%2597%25E3%2581%25A6%25E8%25BA%2593%25E3%2581%2584%25E3%2581%259F%25E5%2580%258B%25E6%2589%2580%25E3%2582%2584%25E8%25A6%259A%25E3%2581%2588%25E3%2581%25A6%25E3%2581%258A%25E3%2581%258D%25E3%2581%259F%25E3%2581%2584%25E3%2581%2593%25E3%2581%25A8%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2583%2580%25E3%2582%25A4%25E3%2582%25AD%25E3%2583%2581%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jSnVrSk9FU2laeDNxLVJaOGtfSFZxOUJwY0E0WENOTmlUUllLR2NuaGtLWmxlSmJ3PXMyNTAtYw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
+            "length": "0",
+            "type": "false"
+          },
+          "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--iNA430uQ--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:HLSL%25E3%2582%25B7%25E3%2582%25A7%25E3%2583%25BC%25E3%2583%2580%25E3%2583%25BC%25E3%2581%25AE%25E9%25AD%2594%25E5%25B0%258E%25E6%259B%25B8%25E3%2582%2592%25E5%258B%2589%25E5%25BC%25B7%25E3%2581%2597%25E3%2581%25A6%25E8%25BA%2593%25E3%2581%2584%25E3%2581%259F%25E5%2580%258B%25E6%2589%2580%25E3%2582%2584%25E8%25A6%259A%25E3%2581%2588%25E3%2581%25A6%25E3%2581%258A%25E3%2581%258D%25E3%2581%259F%25E3%2581%2584%25E3%2581%2593%25E3%2581%25A8%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2583%2580%25E3%2582%25A4%25E3%2582%25AD%25E3%2583%2581%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jSnVrSk9FU2laeDNxLVJaOGtfSFZxOUJwY0E0WENOTmlUUllLR2NuaGtLWmxlSmJ3PXMyNTAtYw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"
+        },
         {
           "id": "https://zenn.dev/zn_ryg12/articles/shader-note-20260410",
           "author": "ryuga.",
@@ -3710,6 +3735,21 @@
       "siteUrl": "https://zenn.dev/topics/hlsl",
       "articles": [
         {
+          "id": "https://zenn.dev/daikichi228/articles/df6e84af4435d6",
+          "author": "ダイキチ",
+          "description": "いろんな章\n\n サンプリング\n\n座標(u, v)における色が周囲のピクセルから計算して何色にするべきかを決定するプロセスのこと\n「n番目のピクセルの色を取り出す」といった直接的指定ではなく、「周囲のピクセルで補完して推定する」という認識が近い\n\n// texture: 画像データ\n// sampler: サンプリングのルール（フィルタ設定など）\n// 画面の端を超えたらどうするか（繰り返す、端の色を伸ばすなど）というルールセット\n// uv: 取り出したい場所 (0.0 ~ 1.0)\nfloat4 color = texture.Sample(sampler, uv);\n\n satu...",
+          "link": "https://zenn.dev/daikichi228/articles/df6e84af4435d6",
+          "publishedOn": "2026-04-16T05:05:09.000Z",
+          "wordCount": 1708,
+          "title": "HLSLシェーダーの魔導書を勉強して躓いた個所や覚えておきたいこと",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--iNA430uQ--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:HLSL%25E3%2582%25B7%25E3%2582%25A7%25E3%2583%25BC%25E3%2583%2580%25E3%2583%25BC%25E3%2581%25AE%25E9%25AD%2594%25E5%25B0%258E%25E6%259B%25B8%25E3%2582%2592%25E5%258B%2589%25E5%25BC%25B7%25E3%2581%2597%25E3%2581%25A6%25E8%25BA%2593%25E3%2581%2584%25E3%2581%259F%25E5%2580%258B%25E6%2589%2580%25E3%2582%2584%25E8%25A6%259A%25E3%2581%2588%25E3%2581%25A6%25E3%2581%258A%25E3%2581%258D%25E3%2581%259F%25E3%2581%2584%25E3%2581%2593%25E3%2581%25A8%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2583%2580%25E3%2582%25A4%25E3%2582%25AD%25E3%2583%2581%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jSnVrSk9FU2laeDNxLVJaOGtfSFZxOUJwY0E0WENOTmlUUllLR2NuaGtLWmxlSmJ3PXMyNTAtYw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
+            "length": "0",
+            "type": "false"
+          },
+          "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--iNA430uQ--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:HLSL%25E3%2582%25B7%25E3%2582%25A7%25E3%2583%25BC%25E3%2583%2580%25E3%2583%25BC%25E3%2581%25AE%25E9%25AD%2594%25E5%25B0%258E%25E6%259B%25B8%25E3%2582%2592%25E5%258B%2589%25E5%25BC%25B7%25E3%2581%2597%25E3%2581%25A6%25E8%25BA%2593%25E3%2581%2584%25E3%2581%259F%25E5%2580%258B%25E6%2589%2580%25E3%2582%2584%25E8%25A6%259A%25E3%2581%2588%25E3%2581%25A6%25E3%2581%258A%25E3%2581%258D%25E3%2581%259F%25E3%2581%2584%25E3%2581%2593%25E3%2581%25A8%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2583%2580%25E3%2582%25A4%25E3%2582%25AD%25E3%2583%2581%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jSnVrSk9FU2laeDNxLVJaOGtfSFZxOUJwY0E0WENOTmlUUllLR2NuaGtLWmxlSmJ3PXMyNTAtYw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"
+        },
+        {
           "id": "https://zenn.dev/reality_tech/articles/1aa89eddbbcf71",
           "author": "Iguchi [REALITY]",
           "description": "Maya でアウトライン付きのトゥーンシェーダを書く機会があり、MayaToonOutlineShader を参考にして独自のアウトラインを実装しました。この記事ではその実装、特に頂点カラーを使ってアウトラインの太さや深度オフセットをアーティストが頂点ごと個別に制御できる仕組みについて説明します。\n\n 1. Maya DirectX シェーダの前提知識\nMaya の Viewport 2.0 は DirectX 11 ベースのレンダリングパイプラインを持っており、.fx 形式のシェーダファイルを読み込むことができます。シェーダ内に書いたアノテーション（string UIGroup、str...",
@@ -4171,6 +4211,31 @@
       "feedUrl": "https://cginterest.com/feed/",
       "siteUrl": "https://cginterest.com",
       "articles": [
+        {
+          "id": "https://cginterest.com/?p=57808",
+          "author": ".me",
+          "description": "2026年4月16日（現地時間）- アドビ株式会社は、ビデオ制作ワークフロー向けの複数の新機能を発表しました。 今回の発表は、生成AIモデル群「Adobe Firefly」を活用した動画生成や編集機能の拡張、Adobe  […]\nアドビ、動画制作向けのアップデートを発表！FireflyにおけるAI制作体験向上と、Premiere向けのカラーグレーディング環境の追加など first appeared on CGinterest.",
+          "link": "https://cginterest.com/2026/04/16/%e3%82%a2%e3%83%89%e3%83%93%e3%80%81%e5%8b%95%e7%94%bb%e5%88%b6%e4%bd%9c%e5%90%91%e3%81%91%e3%81%ae%e3%82%a2%e3%83%83%e3%83%97%e3%83%87%e3%83%bc%e3%83%88%e3%82%92%e7%99%ba%e8%a1%a8%ef%bc%81firefly/",
+          "publishedOn": "2026-04-16T08:05:10.000Z",
+          "wordCount": 31202,
+          "title": "アドビ、動画制作向けのアップデートを発表！FireflyにおけるAI制作体験向上と、Premiere向けのカラーグレーディング環境の追加など",
+          "enclosure": {
+            "url": "https://cginterest.com/wp-content/uploads/2026/04/After-Effects-26.2-Gif1.mp4",
+            "length": "276228",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://cginterest.com/wp-content/uploads/2026/04/adobevideoupdate.webp"
+        },
+        {
+          "id": "https://cginterest.com/?p=57683",
+          "author": ".me",
+          "description": "2026年4月14日（現地時間）- Blackmagic Design は、同社の動画編集ソフトウェアの最新アップデート DaVinci Resolve 21 のベータ版のリリースを発表しました。 DaVinc […]\nDaVinci Resolve 21 ベータ版がリリース！写真編集「Photoページ」搭載、顔の年齢調整など次世代AIツールの追加など first appeared on CGinterest.",
+          "link": "https://cginterest.com/2026/04/16/davinci-resolve-21-%e3%83%99%e3%83%bc%e3%82%bf%e7%89%88%e3%81%8c%e3%83%aa%e3%83%aa%e3%83%bc%e3%82%b9%ef%bc%81%e5%86%99%e7%9c%9f%e7%b7%a8%e9%9b%86%e3%80%8cphoto%e3%83%9a%e3%83%bc%e3%82%b8%e3%80%8d/",
+          "publishedOn": "2026-04-16T06:12:42.000Z",
+          "wordCount": 31858,
+          "title": "DaVinci Resolve 21 ベータ版がリリース！写真編集「Photoページ」搭載、顔の年齢調整など次世代AIツールの追加など",
+          "imageUrl": "https://cginterest.com/wp-content/uploads/2026/04/DavinciResolve21.webp"
+        },
         {
           "id": "https://cginterest.com/?p=57710",
           "author": ".me",

@@ -260,6 +260,21 @@
       "siteUrl": "https://3dnchu.com",
       "articles": [
         {
+          "id": "https://3dnchu.com/?p=1064108",
+          "author": "Ymt3D -3dnchu-",
+          "description": "Maxonはモーショングラフィックス＆VFX＆コンポジットツールの最新版「Autograph 2026.0.0」をリリース！個人ユーザーは無料で使用できます！",
+          "link": "https://3dnchu.com/archives/autograph-2026-0/",
+          "publishedOn": "2026-04-16T12:03:25.000Z",
+          "wordCount": 8780,
+          "title": "Autograph 2026.0 for Free | Maxonがモーショングラフィックス＆VFX＆コンポジットアプリを個人向けに無料化し再リリース！商用利用OK！",
+          "enclosure": {
+            "url": "https://3dnchu.com/wp-content/uploads/autograph-2026-0.webp",
+            "length": "1249444",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://3dnchu.com/wp-content/uploads/autograph-2026-0.webp"
+        },
+        {
           "id": "https://3dnchu.com/?p=1064076",
           "author": "Ymt3D -3dnchu-",
           "description": "林氏による、色を混ぜてグレーディングするという思想から生まれたDaVinci Resolve Studio 21向けグレーディングシステム「Monet Grading System V2.0」がリリースされています！",
@@ -1151,6 +1166,26 @@
       "feedUrl": "https://cgworld.jp/atom.xml",
       "siteUrl": "https://cgworld.jp/",
       "articles": [
+        {
+          "id": "https://cgworld.jp/flashnews/2605-vicon.html",
+          "author": null,
+          "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
+          "link": "https://cgworld.jp/flashnews/2605-vicon.html",
+          "publishedOn": "2026-04-16T10:29:29.000Z",
+          "wordCount": 732,
+          "title": "国内初！VICON認定講座！モーションキャプチャ・スペシャリスト養成講座が5月より開催 - ニュース",
+          "imageUrl": "https://cgworld.jp/flashnews/assets_c/2025/07/vicon_main-thumb-1920x1080-71251.jpg"
+        },
+        {
+          "id": "https://cgworld.jp/flashnews/02-2604-protopie.html",
+          "author": null,
+          "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
+          "link": "https://cgworld.jp/flashnews/02-2604-protopie.html",
+          "publishedOn": "2026-04-16T07:21:52.000Z",
+          "wordCount": 698,
+          "title": "4/24（金）UXデザインの新ワークフローを学ぶウェビナー開催。ProtoPie AI×ユーザーテストを徹底解説 - ニュース",
+          "imageUrl": "https://cgworld.jp/flashnews/assets_c/2026/04/254_seminar_protopieai_page-1-1536x665-thumb-1000x563-82333.jpg"
+        },
         {
           "id": "https://cgworld.jp/regular/202604-tipsnote.html",
           "author": null,
@@ -2100,16 +2135,6 @@
           "wordCount": 622,
           "title": "Revopoint、すべての3Dスキャナーおよびアクセサリーが15%OFF・ソフトウェアが20%OFFになる春キャンペーンを開催【CGWORLD限定クーポン有】 - ニュース",
           "imageUrl": "https://cgworld.jp/flashnews/assets_c/2026/03/Banner-thumb-1000x563-81192.jpg"
-        },
-        {
-          "id": "https://cgworld.jp/flashnews/01-202603-Wonder3D.html",
-          "author": null,
-          "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
-          "link": "https://cgworld.jp/flashnews/01-202603-Wonder3D.html",
-          "publishedOn": "2026-03-17T22:37:33.000Z",
-          "wordCount": 776,
-          "title": "オートデスク、「Wonder 3D」リリース！　Flow Studio内でAIによる3Dモデル生成が利用可能に - ニュース",
-          "imageUrl": "https://cgworld.jp/flashnews/assets_c/2026/03/Wonder3D-01-thumb-1920x1080-81226.jpg"
         }
       ]
     },
@@ -2929,6 +2954,21 @@
       "feedUrl": "https://zenn.dev/topics/shader/feed",
       "siteUrl": "https://zenn.dev/topics/shader",
       "articles": [
+        {
+          "id": "https://zenn.dev/zn_ryg12/articles/shader-note-20260416",
+          "author": "ryuga.",
+          "description": "※URPの2D前提で書いてます。\n\n\n UVって何？\n\n3Dモデル界隈でよく出てくる、このグラデーションの画像のこと\n紫外線ではない\n平面画像の話に限って言うと、「画像の見え方を決めるときに参照する座標」と言える\nxyzは3Dの座標で使ってるので、被らないようにuとvの値を使っている\n赤がu軸で、緑がv軸\n\n\nu軸の赤とv軸の緑がグラデーションで足されて、右上の部分は黄色で表されている\n光の三原色の赤+緑と同じ原理\n\n\nUnityではUVの左下が（0，0）、右上が（1，1）で\n対応する画像の色情報を参照している\n\n\n画像にUVを重ねたイメージ図\nそれぞれ0～1の位置に対応した画像の色が参...",
+          "link": "https://zenn.dev/zn_ryg12/articles/shader-note-20260416",
+          "publishedOn": "2026-04-16T10:15:05.000Z",
+          "wordCount": 503,
+          "title": "Unity ShaderGraph備忘録 part1-UVとUVスクロール",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--vYhSTxSy--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Unity%2520ShaderGraph%25E5%2582%2599%25E5%25BF%2598%25E9%258C%25B2%2520part1-UV%25E3%2581%25A8UV%25E3%2582%25B9%25E3%2582%25AF%25E3%2583%25AD%25E3%2583%25BC%25E3%2583%25AB%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:ryuga.%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jS1lsU1ZRcnpMYW1lRXUzY3lqQW9JdGhFQW8wMGNhaGpLY1JnRkh0a3JYRnJRdjBlSTU9czI1MC1j%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
+            "length": "0",
+            "type": "false"
+          },
+          "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--vYhSTxSy--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Unity%2520ShaderGraph%25E5%2582%2599%25E5%25BF%2598%25E9%258C%25B2%2520part1-UV%25E3%2581%25A8UV%25E3%2582%25B9%25E3%2582%25AF%25E3%2583%25AD%25E3%2583%25BC%25E3%2583%25AB%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:ryuga.%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jS1lsU1ZRcnpMYW1lRXUzY3lqQW9JdGhFQW8wMGNhaGpLY1JnRkh0a3JYRnJRdjBlSTU9czI1MC1j%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"
+        },
         {
           "id": "https://zenn.dev/daikichi228/articles/df6e84af4435d6",
           "author": "ダイキチ",
@@ -3891,6 +3931,16 @@
       "siteUrl": "https://note.com/dftalk",
       "articles": [
         {
+          "id": "https://note.com/dftalk/n/nbcb66003123a",
+          "author": null,
+          "description": "本記事は、\nNetflixシリーズ「今際の国のアリス」シーズン3 VFX制作の裏側シリーズです。\n続きをみる",
+          "link": "https://note.com/dftalk/n/nbcb66003123a",
+          "publishedOn": "2026-04-16T10:37:49.000Z",
+          "wordCount": 2566,
+          "title": "VFX制作の裏側｜Netflixシリーズ「今際の国のアリス」シーズン3 若手クリエイターインタビュー③ 1周10時間の巨大渦エフェクトはどう作られたのか",
+          "imageUrl": "https://assets.st-note.com/production/uploads/images/262577827/rectangle_large_type_2_06fd84560f5a0abdbbce15a306006aae.png?width=800"
+        },
+        {
           "id": "https://note.com/dftalk/n/n99df722e01f6",
           "author": null,
           "description": "本記事は、\nNetflixシリーズ「今際の国のアリス」シーズン3 VFX制作の裏側シリーズです。\n続きをみる",
@@ -4007,6 +4057,16 @@
       "feedUrl": "https://note.com/hashtag/Houdini/rss",
       "siteUrl": "https://note.com/hashtag/Houdini",
       "articles": [
+        {
+          "id": "https://note.com/aoi/n/n30190e01beed",
+          "author": null,
+          "description": "Copernicusとは\nCopernicusとは何でしょうか?\nHoudiniの公式サイトにはこんなページがあります。\n続きをみる",
+          "link": "https://note.com/aoi/n/n30190e01beed",
+          "publishedOn": "2026-04-16T11:45:54.000Z",
+          "wordCount": 3301,
+          "title": "絶対に挫折しないHoudini入門 - Copernicus",
+          "imageUrl": "https://assets.st-note.com/production/uploads/images/267904178/rectangle_large_type_2_a4542a797d008c258f30f4ab7e2f777c.png?width=800"
+        },
         {
           "id": "https://note.com/aoi/n/n6a8ef3539b8b",
           "author": null,
@@ -4860,26 +4920,6 @@
           "wordCount": 29641,
           "title": "Khronos Group、glTFのサンプルアセットとレンダリング比較ウェブサイトを大幅アップデート",
           "imageUrl": "https://cginterest.com/wp-content/uploads/2026/03/gltfsampleasset.webp"
-        },
-        {
-          "id": "https://cginterest.com/?p=56703",
-          "author": ".me",
-          "description": "2026年3月17日（現地時間）- Maxonは、建築・エンジニアリング・建設（AEC）市場向けの新たなレンダリングソリューションとして、「Redshift for Vectorworks」の商用リリースと、「Redsh […]\nMaxon、建築ビジュアライゼーション市場に本格参入！「Redshift for Vectorworks」を正式発表！ first appeared on CGinterest.",
-          "link": "https://cginterest.com/2026/03/18/maxon%e3%80%81%e5%bb%ba%e7%af%89%e3%83%93%e3%82%b8%e3%83%a5%e3%82%a2%e3%83%a9%e3%82%a4%e3%82%bc%e3%83%bc%e3%82%b7%e3%83%a7%e3%83%b3%e5%b8%82%e5%a0%b4%e3%81%ab%e6%9c%ac%e6%a0%bc%e5%8f%82%e5%85%a5/",
-          "publishedOn": "2026-03-17T23:38:00.000Z",
-          "wordCount": 30320,
-          "title": "Maxon、建築ビジュアライゼーション市場に本格参入！「Redshift for Vectorworks」を正式発表！",
-          "imageUrl": "https://cginterest.com/wp-content/uploads/2026/03/maxon-redshiftforvectorworks.webp"
-        },
-        {
-          "id": "https://cginterest.com/?p=56720",
-          "author": ".me",
-          "description": "2026年3月16日（現地時間）- NVIDIAは、GTCにて、コンピュータグラフィックスにおける新技術「NVIDIA DLSS 5」を発表しました。 DLSS 5とは DLSS 5 は、リアルタイムで動作するニューラル […]\nNVIDIA「DLSS 5」発表！AIニューラルレンダリングがゲームのビジュアル品質を大幅向上 first appeared on CGinterest.",
-          "link": "https://cginterest.com/2026/03/18/nvidia%e3%80%8cdlss-5%e3%80%8d%e7%99%ba%e8%a1%a8%ef%bc%81ai%e3%83%8b%e3%83%a5%e3%83%bc%e3%83%a9%e3%83%ab%e3%83%ac%e3%83%b3%e3%83%80%e3%83%aa%e3%83%b3%e3%82%b0%e3%81%8c%e3%82%b2%e3%83%bc%e3%83%a0/",
-          "publishedOn": "2026-03-17T21:36:23.000Z",
-          "wordCount": 29766,
-          "title": "NVIDIA「DLSS 5」発表！AIニューラルレンダリングがゲームのビジュアル品質を大幅向上",
-          "imageUrl": "https://cginterest.com/wp-content/uploads/2026/03/nvidiadlss5.webp"
         }
       ]
     }

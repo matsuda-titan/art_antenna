@@ -2,10 +2,86 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-04-16T09:08:52.378Z</updated>
+    <updated>2026-04-16T13:04:25.960Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Autograph 2026.0 for Free | Maxonがモーショングラフィックス＆VFX＆コンポジットアプリを個人向けに無料化し再リリース！商用利用OK！]]></title>
+        <id>https://3dnchu.com/?p=1064108</id>
+        <link href="https://3dnchu.com/archives/autograph-2026-0/"/>
+        <updated>2026-04-16T12:03:25.000Z</updated>
+        <summary type="html"><![CDATA[Maxonはモーショングラフィックス＆VFX＆コンポジットツールの最新版「Autograph 2026.0.0」をリリース！個人ユーザーは無料で使用できます！]]></summary>
+        <author>
+            <name>Ymt3D -3dnchu-</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[絶対に挫折しないHoudini入門 - Copernicus]]></title>
+        <id>https://note.com/aoi/n/n30190e01beed</id>
+        <link href="https://note.com/aoi/n/n30190e01beed"/>
+        <updated>2026-04-16T11:45:54.000Z</updated>
+        <summary type="html"><![CDATA[Copernicusとは
+Copernicusとは何でしょうか?
+Houdiniの公式サイトにはこんなページがあります。
+続きをみる]]></summary>
+        <author>
+            <name>#Houdiniタグ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[VFX制作の裏側｜Netflixシリーズ「今際の国のアリス」シーズン3 若手クリエイターインタビュー③ 1周10時間の巨大渦エフェクトはどう作られたのか]]></title>
+        <id>https://note.com/dftalk/n/nbcb66003123a</id>
+        <link href="https://note.com/dftalk/n/nbcb66003123a"/>
+        <updated>2026-04-16T10:37:49.000Z</updated>
+        <summary type="html"><![CDATA[本記事は、
+Netflixシリーズ「今際の国のアリス」シーズン3 VFX制作の裏側シリーズです。
+続きをみる]]></summary>
+        <author>
+            <name>DF TALK</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[国内初！VICON認定講座！モーションキャプチャ・スペシャリスト養成講座が5月より開催 - ニュース]]></title>
+        <id>https://cgworld.jp/flashnews/2605-vicon.html</id>
+        <link href="https://cgworld.jp/flashnews/2605-vicon.html"/>
+        <updated>2026-04-16T10:29:29.000Z</updated>
+        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unity ShaderGraph備忘録 part1-UVとUVスクロール]]></title>
+        <id>https://zenn.dev/zn_ryg12/articles/shader-note-20260416</id>
+        <link href="https://zenn.dev/zn_ryg12/articles/shader-note-20260416"/>
+        <updated>2026-04-16T10:15:05.000Z</updated>
+        <summary type="html"><![CDATA[※URPの2D前提で書いてます。
+
+
+ UVって何？
+
+3Dモデル界隈でよく出てくる、このグラデーションの画像のこと
+紫外線ではない
+平面画像の話に限って言うと、「画像の見え方を決めるときに参照する座標」と言える
+xyzは3Dの座標で使ってるので、被らないようにuとvの値を使っている
+赤がu軸で、緑がv軸
+
+
+u軸の赤とv軸の緑がグラデーションで足されて、右上の部分は黄色で表されている
+光の三原色の赤+緑と同じ原理
+
+
+UnityではUVの左下が（0，0）、右上が（1，1）で
+対応する画像の色情報を参照している
+
+
+画像にUVを重ねたイメージ図
+それぞれ0～1の位置に対応した画像の色が参...]]></summary>
+        <author>
+            <name>ryuga.</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[アドビ、動画制作向けのアップデートを発表！FireflyにおけるAI制作体験向上と、Premiere向けのカラーグレーディング環境の追加など]]></title>
         <id>https://cginterest.com/?p=57808</id>
@@ -15,6 +91,16 @@
 アドビ、動画制作向けのアップデートを発表！FireflyにおけるAI制作体験向上と、Premiere向けのカラーグレーディング環境の追加など first appeared on CGinterest.]]></summary>
         <author>
             <name>.me</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[4/24（金）UXデザインの新ワークフローを学ぶウェビナー開催。ProtoPie AI×ユーザーテストを徹底解説 - ニュース]]></title>
+        <id>https://cgworld.jp/flashnews/02-2604-protopie.html</id>
+        <link href="https://cgworld.jp/flashnews/02-2604-protopie.html"/>
+        <updated>2026-04-16T07:21:52.000Z</updated>
+        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
+        <author>
+            <name>CGWORLD</name>
         </author>
     </entry>
     <entry>
@@ -4739,38 +4825,6 @@ The post FlippedNormalsのサイトが閉鎖します。購入データは4月30
 続きをみる]]></summary>
         <author>
             <name>#Houdiniタグ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Maxon、建築ビジュアライゼーション市場に本格参入！「Redshift for Vectorworks」を正式発表！]]></title>
-        <id>https://cginterest.com/?p=56703</id>
-        <link href="https://cginterest.com/2026/03/18/maxon%e3%80%81%e5%bb%ba%e7%af%89%e3%83%93%e3%82%b8%e3%83%a5%e3%82%a2%e3%83%a9%e3%82%a4%e3%82%bc%e3%83%bc%e3%82%b7%e3%83%a7%e3%83%b3%e5%b8%82%e5%a0%b4%e3%81%ab%e6%9c%ac%e6%a0%bc%e5%8f%82%e5%85%a5/"/>
-        <updated>2026-03-17T23:38:00.000Z</updated>
-        <summary type="html"><![CDATA[2026年3月17日（現地時間）- Maxonは、建築・エンジニアリング・建設（AEC）市場向けの新たなレンダリングソリューションとして、「Redshift for Vectorworks」の商用リリースと、「Redsh […]
-Maxon、建築ビジュアライゼーション市場に本格参入！「Redshift for Vectorworks」を正式発表！ first appeared on CGinterest.]]></summary>
-        <author>
-            <name>.me</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[オートデスク、「Wonder 3D」リリース！　Flow Studio内でAIによる3Dモデル生成が利用可能に - ニュース]]></title>
-        <id>https://cgworld.jp/flashnews/01-202603-Wonder3D.html</id>
-        <link href="https://cgworld.jp/flashnews/01-202603-Wonder3D.html"/>
-        <updated>2026-03-17T22:37:33.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NVIDIA「DLSS 5」発表！AIニューラルレンダリングがゲームのビジュアル品質を大幅向上]]></title>
-        <id>https://cginterest.com/?p=56720</id>
-        <link href="https://cginterest.com/2026/03/18/nvidia%e3%80%8cdlss-5%e3%80%8d%e7%99%ba%e8%a1%a8%ef%bc%81ai%e3%83%8b%e3%83%a5%e3%83%bc%e3%83%a9%e3%83%ab%e3%83%ac%e3%83%b3%e3%83%80%e3%83%aa%e3%83%b3%e3%82%b0%e3%81%8c%e3%82%b2%e3%83%bc%e3%83%a0/"/>
-        <updated>2026-03-17T21:36:23.000Z</updated>
-        <summary type="html"><![CDATA[2026年3月16日（現地時間）- NVIDIAは、GTCにて、コンピュータグラフィックスにおける新技術「NVIDIA DLSS 5」を発表しました。 DLSS 5とは DLSS 5 は、リアルタイムで動作するニューラル […]
-NVIDIA「DLSS 5」発表！AIニューラルレンダリングがゲームのビジュアル品質を大幅向上 first appeared on CGinterest.]]></summary>
-        <author>
-            <name>.me</name>
         </author>
     </entry>
 </feed>

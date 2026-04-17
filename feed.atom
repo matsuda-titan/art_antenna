@@ -2,10 +2,79 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-04-16T13:04:25.960Z</updated>
+    <updated>2026-04-17T01:27:06.207Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Gadget Entangle for Cascadeur | 「Unity」と「Cascadeur」をリアルタイムに同期可能にするツール！Github上で無償公開！]]></title>
+        <id>https://3dnchu.com/?p=1064121</id>
+        <link href="https://3dnchu.com/archives/gadget-entangle-for-cascadeur/"/>
+        <updated>2026-04-16T23:17:41.000Z</updated>
+        <summary type="html"><![CDATA[Team Gadgetが、UnityとCascadeurをリアルタイムに同期する事ができる機能などを備えたツール「Gadget Entangle for Cascadeur」をGithub上で無償公開しました！]]></summary>
+        <author>
+            <name>Ymt3D -3dnchu-</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[映像制作ソフト「Autograph」が商用利用OKで無料に！Maxonが公開]]></title>
+        <id>https://modelinghappy.com/?p=68123</id>
+        <link href="https://modelinghappy.com/archives/68123"/>
+        <updated>2026-04-16T21:54:26.000Z</updated>
+        <summary type="html"><![CDATA[Autograph MaxonはAfter Effectsと似たような映像編集が出来るソフト「Autograph」を個人ユーザーが商用利用でも、無料で利用できるように発表しました。 Autographは、モーショングラフ
+The post 映像制作ソフト「Autograph」が商用利用OKで無料に！Maxonが公開 first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
+        <author>
+            <name>modelinghappy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[iPadでCinema 4Dが使える！「Cinema 4D for iPad」ベータ登録開始]]></title>
+        <id>https://modelinghappy.com/?p=68120</id>
+        <link href="https://modelinghappy.com/archives/68120"/>
+        <updated>2026-04-16T21:31:15.000Z</updated>
+        <summary type="html"><![CDATA[Cinema4D for iPad Maxionが デスクトップ版ソフトとして人気にのCinema4Dのipad版、「Cinema 4D for iPad」のベータ版に登録するページを公開しました。 タッチ操作とモバイル
+The post iPadでCinema 4Dが使える！「Cinema 4D for iPad」ベータ登録開始 first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
+        <author>
+            <name>modelinghappy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[フォトグラメトリ数学｜10：エッセンシャル行列とカメラ姿勢の復元]]></title>
+        <id>https://zenn.dev/s_hashida/articles/5d17d16488f55a</id>
+        <link href="https://zenn.dev/s_hashida/articles/5d17d16488f55a"/>
+        <updated>2026-04-16T21:20:05.000Z</updated>
+        <summary type="html"><![CDATA[はじめに
+前回は、エピポーラ幾何について説明しました。
+その中で、
+対応点はエピポーラ線上に制約される
+という性質を見ました。
+そして、それは
+
+\mathbf{p}_2^T F \mathbf{p}_1 = 0
+
+という形で表されました。
+
+ここで次の疑問が生まれます。
+
+この F から何が分かるのか？
+カメラの位置や向きは分かるのか？
+
+
+結論から言うと、
+
+対応点だけからカメラの位置と向きを求めることができます
+
+ただし、そのためには
+カメラ固有の影響を取り除く必要があります。
+
+ 正規化座標
+内部パラメータ K を用いて、
+
+\tilde{\mathbf{p}} = K^{...]]></summary>
+        <author>
+            <name>s_hashida</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Autograph 2026.0 for Free | Maxonがモーショングラフィックス＆VFX＆コンポジットアプリを個人向けに無料化し再リリース！商用利用OK！]]></title>
         <id>https://3dnchu.com/?p=1064108</id>
@@ -49,6 +118,37 @@ Netflixシリーズ「今際の国のアリス」シーズン3 VFX制作の裏�
         <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
         <author>
             <name>CGWORLD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unity ShaderGraph備忘録 part1-UVとUVスクロール]]></title>
+        <id>https://zenn.dev/zn_ryg12/articles/shader-note-20260416</id>
+        <link href="https://zenn.dev/zn_ryg12/articles/shader-note-20260416"/>
+        <updated>2026-04-16T10:15:05.000Z</updated>
+        <summary type="html"><![CDATA[※URPの2D前提で書いてます。
+
+
+ UVって何？
+
+3Dモデル界隈でよく出てくる、このグラデーションの画像のこと
+紫外線ではない
+平面画像の話に限って言うと、「画像の見え方を決めるときに参照する座標」と言える
+xyzは3Dの座標で使ってるので、被らないようにuとvの値を使っている
+赤がu軸で、緑がv軸
+
+
+u軸の赤とv軸の緑がグラデーションで足されて、右上の部分は黄色で表されている
+光の三原色の赤+緑と同じ原理
+
+
+UnityではUVの左下が（0，0）、右上が（1，1）で
+対応する画像の色情報を参照している
+
+
+画像にUVを重ねたイメージ図
+それぞれ0～1の位置に対応した画像の色が参...]]></summary>
+        <author>
+            <name>ryuga.</name>
         </author>
     </entry>
     <entry>
@@ -4726,105 +4826,6 @@ Khronos Group、glTFのサンプルアセットとレンダリング比較ウェ
 ディズニーやピクサーの映画を思い出してほしい。キャラクターの表...]]></summary>
         <author>
             <name>layer3d</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【Substance Painter】初心者向け！ブレンドモードを活用しよう！]]></title>
-        <id>https://3d.crdg.jp/env/?p=8404</id>
-        <link href="https://3d.crdg.jp/env/2026/03/18/8404/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=%25e3%2580%2590substance-painter%25e3%2580%2591%25e5%2588%259d%25e5%25bf%2583%25e8%2580%2585%25e5%2590%2591%25e3%2581%2591%25ef%25bc%2581%25e3%2583%2596%25e3%2583%25ac%25e3%2583%25b3%25e3%2583%2589%25e3%2583%25a2%25e3%2583%25bc%25e3%2583%2589%25e3%2582%2592%25e6%25b4%25bb%25e7%2594%25a8%25e3%2581%2597%25e3%2582%2588"/>
-        <updated>2026-03-18T10:41:55.000Z</updated>
-        <summary type="html"><![CDATA[レイヤーのブレンドモードをノーマルしか使っていなかったりしませんか？ブレンドモードを使い分けるともっと表現の幅が広がります！今回はよく使うブレンドモー […]
-続きを読む
-投稿 【Substance Painter】初心者向け！ブレンドモードを活用しよう！ は エンホリ - ENVIRONMENT HOLIC｜C&R Creative Studios に最初に表示されました。]]></summary>
-        <author>
-            <name>Kaho.Nobukawa</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[広大かつ高解像度ディスプレイで作業効率を上げろ！ JAPANNEXT 6Kディスプレイ「JN-X6K」レビュー記事 - 特集]]></title>
-        <id>https://cgworld.jp/article/japannextjn-x6k.html</id>
-        <link href="https://cgworld.jp/article/japannextjn-x6k.html"/>
-        <updated>2026-03-18T09:02:52.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ゾンビ・コーディネーター直伝！"恐怖"のロジックを紐解く『クリエイターのためのホラー演出学』4/24（金）開催 - ニュース]]></title>
-        <id>https://cgworld.jp/flashnews/0424-plusone-kawamatsu.html</id>
-        <link href="https://cgworld.jp/flashnews/0424-plusone-kawamatsu.html"/>
-        <updated>2026-03-18T07:18:00.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[パフォーマンスと安定性の両立。オープンソースの 3DCG・アニメーション制作ツール Blender 5.1 リリース]]></title>
-        <id>https://3dtotal.jp/?p=55038</id>
-        <link href="https://3dtotal.jp/news/55038/"/>
-        <updated>2026-03-18T04:53:01.000Z</updated>
-        <summary type="html"><![CDATA[★What's New in Blender 5.1! Official Overview（13分43秒） Blender 5.1 がリリースされました！ CGCookie の Jonathan Lampel が、新機能 […]
-The post パフォーマンスと安定性の両立。オープンソースの 3DCG・アニメーション制作ツール Blender 5.1 リリース first appeared on 3dtotal 日本語オフィシャルサイト.]]></summary>
-        <author>
-            <name>3dtotal管理人T</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Revopoint、すべての3Dスキャナーおよびアクセサリーが15%OFF・ソフトウェアが20%OFFになる春キャンペーンを開催【CGWORLD限定クーポン有】 - ニュース]]></title>
-        <id>https://cgworld.jp/flashnews/02-2603-revopoint.html</id>
-        <link href="https://cgworld.jp/flashnews/02-2603-revopoint.html"/>
-        <updated>2026-03-18T04:41:25.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PythonでMayaのUSDデータをいじってみようの会 Vol.01]]></title>
-        <id>https://note.com/dftalk/n/n7a9522db608c</id>
-        <link href="https://note.com/dftalk/n/n7a9522db608c"/>
-        <updated>2026-03-18T04:00:12.000Z</updated>
-        <summary type="html"><![CDATA[まえがき
-こんにちは、TD室で一番の下っ端中村です。
-花粉が猛威を振るっている今日この頃、皆さまはどうお過ごしでしょうか？
-現在弊社ではUSDを使ったワークフローを絶賛開発中で、私も日々関連ツールの作成に追われています。そんな中、USDスクリプトに関して調べてみても実用例は全く見つからずモジュールのリファレンスは英語のものばかり。高校時代、英語のテストで赤点を回避しただけで大喜びしていた私が理解できる訳もなくAIがいなければ今頃どうなっていたことやら…「スクリプトの例がなければ作れば良いじゃない」と私の中のマリー王妃が仰っているので、これから先USDを扱おうとする同志のために今回からMayaのUSDデータをPythonで扱うスクリプトについて解説していこうかと思います。
-続きをみる]]></summary>
-        <author>
-            <name>DF TALK</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FlippedNormalsのサイトが閉鎖します。購入データは4月30日までにダウンロード必須となります]]></title>
-        <id>https://modelinghappy.com/?p=67650</id>
-        <link href="https://modelinghappy.com/archives/67650"/>
-        <updated>2026-03-18T03:39:40.000Z</updated>
-        <summary type="html"><![CDATA[FlippedNormals 世界中のユーザーが2D・3Dアセットやプラグインにチュートリアル動画など様々な商品を販売出来る大手サイトFlippedNormalsが、サイトを閉鎖する事を発表しました。 今まで大幅な給与削
-The post FlippedNormalsのサイトが閉鎖します。購入データは4月30日までにダウンロード必須となります first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
-        <author>
-            <name>modelinghappy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Blender 5.1 | 最新アップデート！高速化＆最適化＆細かな機能強化！Eevee改善や新Raycastノード！ボーン情報取得GeoNodeなどなど！]]></title>
-        <id>https://3dnchu.com/?p=1062968</id>
-        <link href="https://3dnchu.com/archives/blender-5-1/"/>
-        <updated>2026-03-18T02:21:59.000Z</updated>
-        <summary type="html"><![CDATA[2026年3月17日（現地時間） 無料＆オープンソースのCGソフトウェアの最新アップデート「Blender 5.1」が正式リリースされました！]]></summary>
-        <author>
-            <name>Ymt3D -3dnchu-</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GAME CREATORS CONFERENCE '26 登壇します！！]]></title>
-        <id>https://note.com/platinumgames/n/n6310a27483b3</id>
-        <link href="https://note.com/platinumgames/n/n6310a27483b3"/>
-        <updated>2026-03-18T02:19:04.000Z</updated>
-        <summary type="html"><![CDATA[GAME CREATORS CONFERENCE '26 登壇
-続きをみる]]></summary>
-        <author>
-            <name>#Houdiniタグ</name>
         </author>
     </entry>
 </feed>

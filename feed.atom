@@ -2,10 +2,54 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-04-18T08:37:51.121Z</updated>
+    <updated>2026-04-18T12:37:50.409Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[色収縮シェーダー 機能まとめ]]></title>
+        <id>https://zenn.dev/yrd_gs/articles/1c9b10c1fd9b5b</id>
+        <link href="https://zenn.dev/yrd_gs/articles/1c9b10c1fd9b5b"/>
+        <updated>2026-04-18T10:15:22.000Z</updated>
+        <summary type="html"><![CDATA[内容
+ギミック作成にあたって試した以下のシェーダーの各項目の役割をまとめた感じ。
+https://booth.pm/en/items/8018445
+ただ、シェーダー作成の知識なし、そもそも製作者ではない、なので各項目を触ってみての動作やChatGPTに.shaderの内容を接続した上でのやり取りをまとめ置く場所という扱い。
+
+ 表示
+
+
+ 各項目機能
+.shaderを繋ぎ、インスペクタのスクショを送って項目の機能リストを作成してもらった。
+
+ 動作する機能
+いくつかはコード上で定義はあるけど使われていなかったり、使われているけどUnity Editor上では動作を確認できなかった...]]></summary>
+        <author>
+            <name>ゆるど</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【発表まとめ】Maxon、2026年春の製品アップデート、無料VFXツール「Autograph」、iPad版Cinema 4Dベータ版などを発表！]]></title>
+        <id>https://cginterest.com/?p=57910</id>
+        <link href="https://cginterest.com/2026/04/18/%e3%80%90%e7%99%ba%e8%a1%a8%e3%81%be%e3%81%a8%e3%82%81%e3%80%91maxon%e3%80%812026%e5%b9%b4%e6%98%a5%e3%81%ae%e8%a3%bd%e5%93%81%e3%82%a2%e3%83%83%e3%83%97%e3%83%87%e3%83%bc%e3%83%88%e3%80%81%e7%84%a1/"/>
+        <updated>2026-04-18T08:44:00.000Z</updated>
+        <summary type="html"><![CDATA[2026年4月16日（現地時間）- Maxon は、同社の3Dグラフィックスと映像制作ソフトウェア製品群の最新アップデートを発表。合わせて、プロ向けのクリエイティブツールをもっと身近にするための新しい取り組みを発表しまし […]
+【発表まとめ】Maxon、2026年春の製品アップデート、無料VFXツール「Autograph」、iPad版Cinema 4Dベータ版などを発表！ first appeared on CGinterest.]]></summary>
+        <author>
+            <name>.me</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Maxon Autograph 入門チュートリアル]]></title>
+        <id>https://cginterest.com/?p=57972</id>
+        <link href="https://cginterest.com/2026/04/18/maxon-autograph-%e5%85%a5%e9%96%80%e3%83%81%e3%83%a5%e3%83%bc%e3%83%88%e3%83%aa%e3%82%a2%e3%83%ab/"/>
+        <updated>2026-04-18T08:37:00.000Z</updated>
+        <summary type="html"><![CDATA[Autographを使い始める方のための公式のチュートリアルビデオ（Getting Started series）をベースにしたチュートリアル動画のまとめを作成しました。 この動画により、モーショングラフィックスやVFX […]
+Maxon Autograph 入門チュートリアル first appeared on CGinterest.]]></summary>
+        <author>
+            <name>.me</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[1週間で『スター・ウォーズ』のVFXを再現してみた]]></title>
         <id>https://note.com/acarcane/n/n5e6fc76104cf</id>
@@ -4862,27 +4906,6 @@ The post 【無料】Grease Pencilで描いた線をそのまま立体化！枝�
 The post Snapshot Blenderでマテリアル・ライティングを履歴管理！Snapshotで復元＆比較が可能になるアドオン first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
         <author>
             <name>modelinghappy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[コーディング不要の産業向け3Dアプリケーション制作ツール「Unity Studio」リリース！　Webブラウザで迅速にプロトタイプやシミュレーションアプリを制作・共有 - ニュース]]></title>
-        <id>https://cgworld.jp/flashnews/01-202603-UnityStudio.html</id>
-        <link href="https://cgworld.jp/flashnews/01-202603-UnityStudio.html"/>
-        <updated>2026-03-20T00:31:05.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ソニーグループで共同開発中のアニメ制作ソフト「AnimeCanvas」紹介動画が公開]]></title>
-        <id>https://cginterest.com/?p=56664</id>
-        <link href="https://cginterest.com/2026/03/20/%e3%82%bd%e3%83%8b%e3%83%bc%e3%82%b0%e3%83%ab%e3%83%bc%e3%83%97%e3%81%a7%e5%85%b1%e5%90%8c%e9%96%8b%e7%99%ba%e4%b8%ad%e3%81%ae%e3%82%a2%e3%83%8b%e3%83%a1%e5%88%b6%e4%bd%9c%e3%82%bd%e3%83%95%e3%83%88/"/>
-        <updated>2026-03-19T22:29:00.000Z</updated>
-        <summary type="html"><![CDATA[ACTF2026 のブースで上映されている、A-1 Pictures、CloverWorks、ソニー・ミュージックエンタテインメント、そしてソニーグループが共同開発を進めている次世代アニメ制作ソフト「AnimeCanva […]
-ソニーグループで共同開発中のアニメ制作ソフト「AnimeCanvas」紹介動画が公開 first appeared on CGinterest.]]></summary>
-        <author>
-            <name>.me</name>
         </author>
     </entry>
 </feed>

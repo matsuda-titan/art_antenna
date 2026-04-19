@@ -3470,6 +3470,16 @@
       "siteUrl": "https://qiita.com",
       "articles": [
         {
+          "id": "https://qiita.com/yuri_tsukimi/items/2b767added1834ea73db",
+          "author": null,
+          "description": "先日公開した流体シミュレーション1のアバターインタラクションに少し特殊な方法を使ったので紹介します．\n今回はシェーダーを知っている人向けの記事になります．\n\n背景\nシェーダーでシミュレーションなどを行っていると，アバターとのインタラクションが必要になる場合があります．\nイ...",
+          "link": "https://qiita.com/yuri_tsukimi/items/2b767added1834ea73db",
+          "publishedOn": "2026-04-19T08:56:07.000Z",
+          "wordCount": 6678,
+          "title": "【Unity】シェーダーに対する空間的なアバターインタラクションの作成",
+          "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYzODI1NzczJTJGZTUzOGI2MGJkYTY3M2ZhOWQwMTdhMzg5NThlNDhiM2ZhOGYwMzg5MyUyRnhfbGFyZ2UucG5nJTNGMTcxOTQ5Njg2OT9peGxpYj1yYi00LjAuMCZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9MzczMjIwMmUxZDFmMDQyNTkwNmVmYzJlMTUxOTk2NDE%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D2c44d83ab4a01f8bb86566291a9414a7?ixlib=rb-4.0.0&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9JUUzJTgwJTkwVW5pdHklRTMlODAlOTElRTMlODIlQjclRTMlODIlQTclRTMlODMlQkMlRTMlODMlODAlRTMlODMlQkMlRTMlODElQUIlRTUlQUYlQkUlRTMlODElOTklRTMlODIlOEIlRTclQTklQkElRTklOTYlOTMlRTclOUElODQlRTMlODElQUElRTMlODIlQTIlRTMlODMlOTAlRTMlODIlQkYlRTMlODMlQkMlRTMlODIlQTQlRTMlODMlQjMlRTMlODIlQkYlRTMlODMlQTklRTMlODIlQUYlRTMlODIlQjclRTMlODMlQTclRTMlODMlQjMlRTMlODElQUUlRTQlQkQlOUMlRTYlODglOTAmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz05MDhjZDUzY2FiZTM5YjljZTNlY2U1MTQ4Mjk0NGE3NA&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDB5dXJpX3RzdWtpbWkmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz1hNTk1ZWExZTNjN2EyODM1Y2E2YThhNjg4NWI1NzdjNg&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=ad595e144194301409c51d2d41bcd364"
+        },
+        {
           "id": "https://qiita.com/marv_ootake/items/6a6d6d21afb4c44535fe",
           "author": null,
           "description": "始めに\nUEでShaderのコードの単位で負荷を計測したいことがあると思います。そこでNVIDI​A Nsight Graphicsを使用すると負荷を計測することが出来るのでその方法を紹介したいと思います。\n\nNVIDI​A Nsight Graphicsとは\nNVIDI...",
@@ -4800,16 +4810,6 @@
           "wordCount": 29995,
           "title": "第98回アカデミー賞視覚効果賞：受賞＆最終候補作品のVFXブレイクダウンをチェック！",
           "imageUrl": "https://cginterest.com/wp-content/uploads/2026/03/oscar98th-visualeffects.webp"
-        },
-        {
-          "id": "https://cginterest.com/?p=56860",
-          "author": ".me",
-          "description": "2026年3月19日 – Unityは、Webベースのノーコード3Dエディタ「Unity Studio」を発表しました。 Unity Studioとは？ Unity Studio は、コーディングや複雑なワー […]\nUnity、Webベースのノーコード3Dエディタ「Unity Studio」を正式リリース！ first appeared on CGinterest.",
-          "link": "https://cginterest.com/2026/03/21/unity%e3%80%81web%e3%83%99%e3%83%bc%e3%82%b9%e3%81%ae%e3%83%8e%e3%83%bc%e3%82%b3%e3%83%bc%e3%83%893d%e3%82%a8%e3%83%87%e3%82%a3%e3%82%bf%e3%80%8cunity-studio%e3%80%8d%e3%82%92%e6%ad%a3%e5%bc%8f/",
-          "publishedOn": "2026-03-21T00:00:22.000Z",
-          "wordCount": 29729,
-          "title": "Unity、Webベースのノーコード3Dエディタ「Unity Studio」を正式リリース！",
-          "imageUrl": "https://cginterest.com/wp-content/uploads/2026/03/Unitystudio.webp"
         }
       ]
     }

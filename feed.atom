@@ -2,10 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-04-19T08:42:11.164Z</updated>
+    <updated>2026-04-19T12:37:24.290Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【Unity】シェーダーに対する空間的なアバターインタラクションの作成]]></title>
+        <id>https://qiita.com/yuri_tsukimi/items/2b767added1834ea73db</id>
+        <link href="https://qiita.com/yuri_tsukimi/items/2b767added1834ea73db"/>
+        <updated>2026-04-19T08:56:07.000Z</updated>
+        <summary type="html"><![CDATA[先日公開した流体シミュレーション1のアバターインタラクションに少し特殊な方法を使ったので紹介します．
+今回はシェーダーを知っている人向けの記事になります．
+
+背景
+シェーダーでシミュレーションなどを行っていると，アバターとのインタラクションが必要になる場合があります．
+イ...]]></summary>
+        <author>
+            <name>Shaderタグが付けられた新着記事 - Qiita</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[色収縮シェーダー 機能まとめ]]></title>
         <id>https://zenn.dev/yrd_gs/articles/1c9b10c1fd9b5b</id>
@@ -4715,17 +4730,6 @@ The post Unity 6.4がリリース｜ECS標準搭載やRender Graph移行など�
 The post Unity Studio｜コード不要で3D製品コンフィギュレーターが作れるWebツールが登場【30日無料】 first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
         <author>
             <name>modelinghappy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Unity、Webベースのノーコード3Dエディタ「Unity Studio」を正式リリース！]]></title>
-        <id>https://cginterest.com/?p=56860</id>
-        <link href="https://cginterest.com/2026/03/21/unity%e3%80%81web%e3%83%99%e3%83%bc%e3%82%b9%e3%81%ae%e3%83%8e%e3%83%bc%e3%82%b3%e3%83%bc%e3%83%893d%e3%82%a8%e3%83%87%e3%82%a3%e3%82%bf%e3%80%8cunity-studio%e3%80%8d%e3%82%92%e6%ad%a3%e5%bc%8f/"/>
-        <updated>2026-03-21T00:00:22.000Z</updated>
-        <summary type="html"><![CDATA[2026年3月19日 – Unityは、Webベースのノーコード3Dエディタ「Unity Studio」を発表しました。 Unity Studioとは？ Unity Studio は、コーディングや複雑なワー […]
-Unity、Webベースのノーコード3Dエディタ「Unity Studio」を正式リリース！ first appeared on CGinterest.]]></summary>
-        <author>
-            <name>.me</name>
         </author>
     </entry>
 </feed>

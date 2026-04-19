@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-04-18T12:37:50.409Z</updated>
+    <updated>2026-04-19T01:43:27.065Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
@@ -4791,121 +4791,6 @@ Unity、Webベースのノーコード3Dエディタ「Unity Studio」を正式�
 USDかどうかによらずより...]]></summary>
         <author>
             <name>mayaタグが付けられた新着記事 - Qiita</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【Unity】「なんとなく」を卒業する。Blur, Bloom応用編]]></title>
-        <id>https://zenn.dev/zero_0r0/articles/e235a8aa535800</id>
-        <link href="https://zenn.dev/zero_0r0/articles/e235a8aa535800"/>
-        <updated>2026-03-20T10:59:37.000Z</updated>
-        <summary type="html"><![CDATA[はじめに
-前回の記事では、Bloom（ブルーム）エフェクトの裏側で動いている「3つのステップ（抽出・ブラー・合成）」について解説しました。
-「Threshold（閾値）で明るいピクセルを抽出し、Scatter（散乱）でそれをぼかし、Intensity（強度）で元の絵に足し算する」。
-このバケツリレーの仕組みが分かれば、もうインスペクターの数値を「なんとなく」いじる状態からは完全に卒業できたはずです。
-今回はそこからさらに一歩踏み込みます。
-仕組みは分かったけれど、それを 「もっと綺麗に」「もっと便利に」使うための応用テクニック とです。
-また実装でUnityの標準に少し近づけてみよう...]]></summary>
-        <author>
-            <name>ゼロ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3DCGアセットストア「FlippedNormals」がマーケットプレイスの閉鎖を発表！今後はオリジナルコンテンツに特化へ]]></title>
-        <id>https://cginterest.com/?p=56859</id>
-        <link href="https://cginterest.com/2026/03/20/3dcg%e3%82%a2%e3%82%bb%e3%83%83%e3%83%88%e3%82%b9%e3%83%88%e3%82%a2%e3%80%8cflippednormals%e3%80%8d%e3%81%8c%e3%83%9e%e3%83%bc%e3%82%b1%e3%83%83%e3%83%88%e3%83%97%e3%83%ac%e3%82%a4%e3%82%b9%e3%81%ae/"/>
-        <updated>2026-03-20T06:58:39.000Z</updated>
-        <summary type="html"><![CDATA[2026年3月18日（現地時間）- 高品質なCGチュートリアルやアセットを販売するプラットフォーム「FlippedNormals」が、2026年3月31日をもって現在のマーケットプレイスを閉鎖することを発表しました。Fl […]
-3DCGアセットストア「FlippedNormals」がマーケットプレイスの閉鎖を発表！今後はオリジナルコンテンツに特化へ first appeared on CGinterest.]]></summary>
-        <author>
-            <name>.me</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[XPPen Artist Pro 27 (Gen 2) | プロ向け27インチ4K大画面＆応答速度5ms＆120Hz表示の大型液晶ペンタブレットが本日販売開始！]]></title>
-        <id>https://3dnchu.com/?p=1063047</id>
-        <link href="https://3dnchu.com/archives/xppen-artist-pro-27-gen-2/"/>
-        <updated>2026-03-20T06:48:22.000Z</updated>
-        <summary type="html"><![CDATA[2026年3月20日、XPPenはプロフェッショナル向けのハイエンドの大型液晶ペンタブレット「Artist Pro 27 (Gen 2)」を全世界で販売開始しました。]]></summary>
-        <author>
-            <name>Ymt3D -3dnchu-</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【アドオン紹介】Light Textures Pro – 50種類以上のライト用テクスチャセット！]]></title>
-        <id>https://cgbox.jp/?p=65144</id>
-        <link href="https://cgbox.jp/2026/03/20/news-addon-light-textures-pro/"/>
-        <updated>2026-03-20T05:05:46.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは！ 今回はアドオンの「Light Textures Pro」を紹介します。 こちらのリンクがアドオンの商品ページになります。 「Light Textures Pro」は、Light Textures Proは、 […]]]></summary>
-        <author>
-            <name>kasahara</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【Unity x Render Graph】 Screen Space Reflection について]]></title>
-        <id>https://qiita.com/KEN_GameProject/items/40fb2a20e78f69d58bde</id>
-        <link href="https://qiita.com/KEN_GameProject/items/40fb2a20e78f69d58bde"/>
-        <updated>2026-03-20T04:48:44.000Z</updated>
-        <summary type="html"><![CDATA[はじめに
-UnityのRender Graphを使用してScreen Space Reflectionを実装しました。
-(以降はSSRと呼んでいきます。)
-shader学習中ということもあり相当てこずりましたが、実装までたどり着きましたのでご紹介したいと思います。
-Git...]]></summary>
-        <author>
-            <name>HLSLタグが付けられた新着記事 - Qiita</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【Blender】VRMアドオンはどこから入れる？正しい入手方法]]></title>
-        <id>https://zenn.dev/ryo_ta_24/articles/efaa73ce760e27</id>
-        <link href="https://zenn.dev/ryo_ta_24/articles/efaa73ce760e27"/>
-        <updated>2026-03-20T04:00:07.000Z</updated>
-        <summary type="html"><![CDATA[はじめに
-Blender 4.2にしたらVRMエクスポートが壊れました。
-最初、どこから入れるのが正解か分からず、
-アドオンから入れてエラーになりました。
-結果、古いアドオンが残ってるのが原因でした。
-同じ症状の人、これで直ると思います。
-
-- 環境 -
-blender 4.2.17 LTS
-VRM format 3.19.4　←　これにアップデートしたい
-
-
- 結論（急いでる人）
-一度VRMアドオンを完全削除 → 最新版を入れ直す
-これだけです。
-
-
- 症状
-僕の場合は、エクスポートできない（エラーが出る）
-
-
- 原因
-Blender 4.2からアドオン管理が「Extensions...]]></summary>
-        <author>
-            <name>りょーた</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【無料】Grease Pencilで描いた線をそのまま立体化！枝・ケーブル・植物を簡単作成できるBlenderアドオン「InkForm」]]></title>
-        <id>https://modelinghappy.com/?p=67688</id>
-        <link href="https://modelinghappy.com/archives/67688"/>
-        <updated>2026-03-20T02:18:42.000Z</updated>
-        <summary type="html"><![CDATA[InkFormは、Kevandramさんが作成した、BlenderのGrease Pencilで描いたストロークを、そのまま太さを維持した状態でメッシュに変換できる無料のアドオンです。 線の太さの変化をそのまま立体化でき
-The post 【無料】Grease Pencilで描いた線をそのまま立体化！枝・ケーブル・植物を簡単作成できるBlenderアドオン「InkForm」 first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
-        <author>
-            <name>modelinghappy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Snapshot Blenderでマテリアル・ライティングを履歴管理！Snapshotで復元＆比較が可能になるアドオン]]></title>
-        <id>https://modelinghappy.com/?p=67683</id>
-        <link href="https://modelinghappy.com/archives/67683"/>
-        <updated>2026-03-20T01:46:01.000Z</updated>
-        <summary type="html"><![CDATA[Snapshot [Beta 0.2] Snapshotは、Blenderで作業中のライティングやマテリアルなどをスナップショットとして複数保存し、あとから自由に戻してバリエーションを簡単に作成・修正可能になるアドオンで
-The post Snapshot Blenderでマテリアル・ライティングを履歴管理！Snapshotで復元＆比較が可能になるアドオン first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
-        <author>
-            <name>modelinghappy</name>
         </author>
     </entry>
 </feed>

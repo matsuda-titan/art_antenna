@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-04-19T05:20:56.080Z</updated>
+    <updated>2026-04-19T08:42:11.164Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
@@ -4726,45 +4726,6 @@ The post Unity Studio｜コード不要で3D製品コンフィギュレーター
 Unity、Webベースのノーコード3Dエディタ「Unity Studio」を正式リリース！ first appeared on CGinterest.]]></summary>
         <author>
             <name>.me</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【第3章】AIジェスチャー生成を3手法試して全部失敗した話 ── 推論4秒、肘880度回転、そしてプリセットに戻った]]></title>
-        <id>https://zenn.dev/layer3d/articles/ai-avatar-gesture-generation</id>
-        <link href="https://zenn.dev/layer3d/articles/ai-avatar-gesture-generation"/>
-        <updated>2026-03-20T18:41:12.000Z</updated>
-        <summary type="html"><![CDATA[口が動く。表情も変わる。でも、棒立ちだ。
-リップシンクAIと感情表情システムを作り、口は滑らかに動き、目は感情に応じて変化する。数字の上では成功だった。だが実際にアバターと会話してみると、体が微動だにしない。顔だけが動く不気味な人形だった。
-この記事は、音声からジェスチャーを自動生成するためにDiffSHEG（拡散モデル）、GRU直接回帰、GestureLSM（Flow Matching）の3つを試して、全部ダメだった記録だ。そして最終的に「AIの使いどころが違った」と気づいた話を書く。
-!
-対象読者: Stable Diffusionなど生成AIの基本概念を知っている人。VTuber/...]]></summary>
-        <author>
-            <name>layer3d</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【第2章】AIアバターに感情を宿す技術 ── emotion2vecを使わず、なぜLLM+プロシージャルを選んだのか]]></title>
-        <id>https://zenn.dev/layer3d/articles/ai-avatar-emotion-system</id>
-        <link href="https://zenn.dev/layer3d/articles/ai-avatar-emotion-system"/>
-        <updated>2026-03-20T18:38:29.000Z</updated>
-        <summary type="html"><![CDATA[口が動くだけのアバターは、どれだけ精巧に作っても「人形」だ。
-前回の記事で、音声からリアルタイムに口を動かすリップシンクAIを作った。精度0.89、75倍速。数字の上では成功だった。
-だが、実際に動かしてみると、違和感が消えない。
-口だけが機械的に動き、目は死んでいる。何を喋っても同じ顔。これは「喋る人形」であって、「生きたキャラクター」ではない。
-人間が相手を「生きている」と感じるのは、口ではなく目だ。嬉しいときに目尻が下がる。怒ったときに眉間にしわが寄る。驚いたときにまぶたが大きく開く。無意識にそれを読み取っている。
-口の動きは「何を喋っているか」を伝え、目の動きは「何を感じているか...]]></summary>
-        <author>
-            <name>layer3d</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Inkform v1.0 | Grease Pencilのストロークを3Dメッシュに変換する幾つかのツールを搭載した無料のBlenderアドオン！]]></title>
-        <id>https://3dnchu.com/?p=1063099</id>
-        <link href="https://3dnchu.com/archives/inkform-v1-0/"/>
-        <updated>2026-03-20T18:22:29.000Z</updated>
-        <summary type="html"><![CDATA[Kevandramによる、Grease Pencilのストロークを3Dメッシュに変換する幾つかのツールを搭載した無料のBlenderアドオン「Inkform v1.0」が公開されています！]]></summary>
-        <author>
-            <name>Ymt3D -3dnchu-</name>
         </author>
     </entry>
 </feed>

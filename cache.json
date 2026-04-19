@@ -1098,21 +1098,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "https://3dnchu.com/wp-content/uploads/prunreal-generalist-blueprints-f.jpg"
-        },
-        {
-          "id": "https://3dnchu.com/?p=1063099",
-          "author": "Ymt3D -3dnchu-",
-          "description": "Kevandramによる、Grease Pencilのストロークを3Dメッシュに変換する幾つかのツールを搭載した無料のBlenderアドオン「Inkform v1.0」が公開されています！",
-          "link": "https://3dnchu.com/archives/inkform-v1-0/",
-          "publishedOn": "2026-03-20T18:22:29.000Z",
-          "wordCount": 8929,
-          "title": "Inkform v1.0 | Grease Pencilのストロークを3Dメッシュに変換する幾つかのツールを搭載した無料のBlenderアドオン！",
-          "enclosure": {
-            "url": "https://3dnchu.com/wp-content/uploads/inkform-v1-0-grease-pencil3d.jpg",
-            "length": "93209",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://3dnchu.com/wp-content/uploads/inkform-v1-0-grease-pencil3d.jpg"
         }
       ]
     },
@@ -3265,36 +3250,6 @@
             "type": "false"
           },
           "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--aM7c3Bex--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%2595%25E3%2582%25A9%25E3%2583%2588%25E3%2582%25B0%25E3%2583%25A9%25E3%2583%25A1%25E3%2583%2588%25E3%2583%25AA%25E6%2595%25B0%25E5%25AD%25A6%25E2%2591%25A0%25EF%25BC%259A%25E3%2582%25AB%25E3%2583%25A1%25E3%2583%25A9%25E3%2581%25A8%25E3%2581%25AF%25E4%25BD%2595%25E3%2581%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:s_hashida%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly96ZW5uLWRldi5naXRodWIuaW8vZGVmYXVsdC1hdmF0YXJzL2Rhcmsvcy5wbmc=%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"
-        },
-        {
-          "id": "https://zenn.dev/layer3d/articles/ai-avatar-gesture-generation",
-          "author": "layer3d",
-          "description": "口が動く。表情も変わる。でも、棒立ちだ。\nリップシンクAIと感情表情システムを作り、口は滑らかに動き、目は感情に応じて変化する。数字の上では成功だった。だが実際にアバターと会話してみると、体が微動だにしない。顔だけが動く不気味な人形だった。\nこの記事は、音声からジェスチャーを自動生成するためにDiffSHEG（拡散モデル）、GRU直接回帰、GestureLSM（Flow Matching）の3つを試して、全部ダメだった記録だ。そして最終的に「AIの使いどころが違った」と気づいた話を書く。\n!\n対象読者: Stable Diffusionなど生成AIの基本概念を知っている人。VTuber/...",
-          "link": "https://zenn.dev/layer3d/articles/ai-avatar-gesture-generation",
-          "publishedOn": "2026-03-20T18:41:12.000Z",
-          "wordCount": 1162,
-          "title": "【第3章】AIジェスチャー生成を3手法試して全部失敗した話 ── 推論4秒、肘880度回転、そしてプリセットに戻った",
-          "enclosure": {
-            "url": "https://res.cloudinary.com/zenn/image/upload/s--0zDGOhvq--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2580%2590%25E7%25AC%25AC3%25E7%25AB%25A0%25E3%2580%2591AI%25E3%2582%25B8%25E3%2582%25A7%25E3%2582%25B9%25E3%2583%2581%25E3%2583%25A3%25E3%2583%25BC%25E7%2594%259F%25E6%2588%2590%25E3%2582%25923%25E6%2589%258B%25E6%25B3%2595%25E8%25A9%25A6%25E3%2581%2597%25E3%2581%25A6%25E5%2585%25A8%25E9%2583%25A8%25E5%25A4%25B1%25E6%2595%2597%25E3%2581%2597%25E3%2581%259F%25E8%25A9%25B1%2520%25E2%2594%2580%25E2%2594%2580%2520%25E6%258E%25A8%25E8%25AB%25964%25E7%25A7%2592%25E3%2580%2581%25E8%2582%2598880%25E5%25BA%25A6%25E5%259B%259E%25E8%25BB%25A2%25E3%2580%2581%25E3%2581%259D%25E3%2581%2597%25E3%2581%25A6%25E3%2583%2597%25E3%2583%25AA%25E3%2582%25BB%25E3%2583%2583%25E3%2583%2588%25E3%2581%25AB%25E6%2588%25BB%25E3%2581%25A3%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:layer3d%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2U2MmE4ZDM3ODcuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
-            "length": "0",
-            "type": "false"
-          },
-          "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--0zDGOhvq--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2580%2590%25E7%25AC%25AC3%25E7%25AB%25A0%25E3%2580%2591AI%25E3%2582%25B8%25E3%2582%25A7%25E3%2582%25B9%25E3%2583%2581%25E3%2583%25A3%25E3%2583%25BC%25E7%2594%259F%25E6%2588%2590%25E3%2582%25923%25E6%2589%258B%25E6%25B3%2595%25E8%25A9%25A6%25E3%2581%2597%25E3%2581%25A6%25E5%2585%25A8%25E9%2583%25A8%25E5%25A4%25B1%25E6%2595%2597%25E3%2581%2597%25E3%2581%259F%25E8%25A9%25B1%2520%25E2%2594%2580%25E2%2594%2580%2520%25E6%258E%25A8%25E8%25AB%25964%25E7%25A7%2592%25E3%2580%2581%25E8%2582%2598880%25E5%25BA%25A6%25E5%259B%259E%25E8%25BB%25A2%25E3%2580%2581%25E3%2581%259D%25E3%2581%2597%25E3%2581%25A6%25E3%2583%2597%25E3%2583%25AA%25E3%2582%25BB%25E3%2583%2583%25E3%2583%2588%25E3%2581%25AB%25E6%2588%25BB%25E3%2581%25A3%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:layer3d%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2U2MmE4ZDM3ODcuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"
-        },
-        {
-          "id": "https://zenn.dev/layer3d/articles/ai-avatar-emotion-system",
-          "author": "layer3d",
-          "description": "口が動くだけのアバターは、どれだけ精巧に作っても「人形」だ。\n前回の記事で、音声からリアルタイムに口を動かすリップシンクAIを作った。精度0.89、75倍速。数字の上では成功だった。\nだが、実際に動かしてみると、違和感が消えない。\n口だけが機械的に動き、目は死んでいる。何を喋っても同じ顔。これは「喋る人形」であって、「生きたキャラクター」ではない。\n人間が相手を「生きている」と感じるのは、口ではなく目だ。嬉しいときに目尻が下がる。怒ったときに眉間にしわが寄る。驚いたときにまぶたが大きく開く。無意識にそれを読み取っている。\n口の動きは「何を喋っているか」を伝え、目の動きは「何を感じているか...",
-          "link": "https://zenn.dev/layer3d/articles/ai-avatar-emotion-system",
-          "publishedOn": "2026-03-20T18:38:29.000Z",
-          "wordCount": 1931,
-          "title": "【第2章】AIアバターに感情を宿す技術 ── emotion2vecを使わず、なぜLLM+プロシージャルを選んだのか",
-          "enclosure": {
-            "url": "https://res.cloudinary.com/zenn/image/upload/s--2EdnIp0G--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2580%2590%25E7%25AC%25AC2%25E7%25AB%25A0%25E3%2580%2591AI%25E3%2582%25A2%25E3%2583%2590%25E3%2582%25BF%25E3%2583%25BC%25E3%2581%25AB%25E6%2584%259F%25E6%2583%2585%25E3%2582%2592%25E5%25AE%25BF%25E3%2581%2599%25E6%258A%2580%25E8%25A1%2593%2520%25E2%2594%2580%25E2%2594%2580%2520emotion2vec%25E3%2582%2592%25E4%25BD%25BF%25E3%2582%258F%25E3%2581%259A%25E3%2580%2581%25E3%2581%25AA%25E3%2581%259CLLM%252B%25E3%2583%2597%25E3%2583%25AD%25E3%2582%25B7%25E3%2583%25BC%25E3%2582%25B8%25E3%2583%25A3%25E3%2583%25AB%25E3%2582%2592%25E9%2581%25B8%25E3%2582%2593%25E3%2581%25A0%25E3%2581%25AE%25E3%2581%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:layer3d%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2U2MmE4ZDM3ODcuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
-            "length": "0",
-            "type": "false"
-          },
-          "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--2EdnIp0G--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2580%2590%25E7%25AC%25AC2%25E7%25AB%25A0%25E3%2580%2591AI%25E3%2582%25A2%25E3%2583%2590%25E3%2582%25BF%25E3%2583%25BC%25E3%2581%25AB%25E6%2584%259F%25E6%2583%2585%25E3%2582%2592%25E5%25AE%25BF%25E3%2581%2599%25E6%258A%2580%25E8%25A1%2593%2520%25E2%2594%2580%25E2%2594%2580%2520emotion2vec%25E3%2582%2592%25E4%25BD%25BF%25E3%2582%258F%25E3%2581%259A%25E3%2580%2581%25E3%2581%25AA%25E3%2581%259CLLM%252B%25E3%2583%2597%25E3%2583%25AD%25E3%2582%25B7%25E3%2583%25BC%25E3%2582%25B8%25E3%2583%25A3%25E3%2583%25AB%25E3%2582%2592%25E9%2581%25B8%25E3%2582%2593%25E3%2581%25A0%25E3%2581%25AE%25E3%2581%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:layer3d%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2U2MmE4ZDM3ODcuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"
         }
       ]
     },

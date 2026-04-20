@@ -2,10 +2,85 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-04-19T12:37:24.290Z</updated>
+    <updated>2026-04-20T01:46:00.020Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[劇場版『チェンソーマン レゼ篇』縁の下からキャラクターの完成度を引き上げる"見えない工程"の3DCG 〜No.1／デザイン＆モデリング篇 - 特集]]></title>
+        <id>https://cgworld.jp/article/cgw330-chainsawreze01.html</id>
+        <link href="https://cgworld.jp/article/cgw330-chainsawreze01.html"/>
+        <updated>2026-04-20T01:00:52.000Z</updated>
+        <summary type="html"><![CDATA[『チェンソーマン レゼ篇』のアニメ3DCGメイキング。]]></summary>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[スタジオブロス、6/11（木）より全10回のTwinmotionで建築パース制作を体系的に学ぶセミナー開講 - ニュース]]></title>
+        <id>https://cgworld.jp/flashnews/02-2604-twinmotion.html</id>
+        <link href="https://cgworld.jp/flashnews/02-2604-twinmotion.html"/>
+        <updated>2026-04-19T22:10:02.000Z</updated>
+        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「OpenUSD v26.03」リリース　3DGSのネイティブサポート、テスト用レンダラ同梱によりusdview内で表示確認可能 - ニュース]]></title>
+        <id>https://cgworld.jp/flashnews/01-202604-OpenUSDv26.03.html</id>
+        <link href="https://cgworld.jp/flashnews/01-202604-OpenUSDv26.03.html"/>
+        <updated>2026-04-19T22:08:01.000Z</updated>
+        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[フォトグラメトリ数学｜11：Structure from Motion（SfM）とは何か]]></title>
+        <id>https://zenn.dev/s_hashida/articles/6121d5859766bd</id>
+        <link href="https://zenn.dev/s_hashida/articles/6121d5859766bd"/>
+        <updated>2026-04-19T21:31:05.000Z</updated>
+        <summary type="html"><![CDATA[はじめに
+前回は、
+
+エッセンシャル行列から
+カメラの相対姿勢（R, t）を求める
+
+ことを見ました。
+
+ここで次の疑問です。
+
+では、3Dの形はどう復元するのか？
+複数の画像から空間そのものを作れるのか？
+
+その答えが
+
+Structure from Motion（SfM）
+
+です。
+
+ SfMとは何か
+SfMとは、
+
+複数の画像から
+カメラの動きと3D構造を同時に推定する手法
+
+です。
+つまり、
+
+Structure（構造） → 3D点
+Motion（運動） → カメラ姿勢
+
+の両方を同時に求める問題です。
+
+SfMの全体フロー図は以下のとおりです。
+
+※三角測量で得た初期3D...]]></summary>
+        <author>
+            <name>s_hashida</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【Unity】シェーダーに対する空間的なアバターインタラクションの作成]]></title>
         <id>https://qiita.com/yuri_tsukimi/items/2b767added1834ea73db</id>

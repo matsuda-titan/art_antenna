@@ -260,6 +260,21 @@
       "siteUrl": "https://3dnchu.com",
       "articles": [
         {
+          "id": "https://3dnchu.com/?p=1064322",
+          "author": "Ymt3D -3dnchu-",
+          "description": "CGMatterがBlender上でAIと対話しながら色々出来ちゃうBlenderアドオン「Blender Buddy」を無料公開しています！",
+          "link": "https://3dnchu.com/archives/blender-buddy/",
+          "publishedOn": "2026-04-22T06:48:35.000Z",
+          "wordCount": 8856,
+          "title": "Blender Buddy | APIキー不要！Llama.cppを採用し完全にローカル動作！Blenderのドキュメントを網羅したBlender向けAIエージェント！無料公開！ by CGMatter",
+          "enclosure": {
+            "url": "https://3dnchu.com/wp-content/uploads/Blender-Buddy.webp",
+            "length": "427824",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://3dnchu.com/wp-content/uploads/Blender-Buddy.webp"
+        },
+        {
           "id": "https://3dnchu.com/?p=1064297",
           "author": "Ymt3D -3dnchu-",
           "description": "Meta Research所属のPaul Starke氏とSebastian Starke氏がNumPy/PyTorch を用いた Python 環境で実現するAI駆動型キャラクターアニメーションのためのPythonフレームワーク「AI4AnimationPy」をGithub上で公開！",
@@ -2241,6 +2256,16 @@
       "siteUrl": "https://modelinghappy.com",
       "articles": [
         {
+          "id": "https://modelinghappy.com/?p=68209",
+          "author": "modelinghappy",
+          "description": "Blender Buddy (A Free Agent Of Chaos) BlenderBuddyはCGMatterさんが作成した、Blender内で操作や工程をガイドしながら制作を進められるアドオンです。 外部API\nThe post 「BlenderBuddy」Blenderの疑問を質問するだけで操作可能！Web検索・モデル作成にも対応したAIアドオンが無料リリース first appeared on 3DCG最新情報サイト MODELING HAPPY.",
+          "link": "https://modelinghappy.com/archives/68209",
+          "publishedOn": "2026-04-22T07:50:56.000Z",
+          "wordCount": 3085,
+          "title": "「BlenderBuddy」Blenderの疑問を質問するだけで操作可能！Web検索・モデル作成にも対応したAIアドオンが無料リリース",
+          "imageUrl": "https://modelinghappy.com/wp-content/uploads/2026/04/20260422_Blender_Buddy_01.jpg"
+        },
+        {
           "id": "https://modelinghappy.com/?p=68201",
           "author": "modelinghappy",
           "description": "Unreal Shader: Megascan Assets 世界中のチュートリアル動画を販売しているWingfoxのサイトでUnreal Engineで、Quixel Megascansの高品質素材を使いながら、さらに\nThe post AAA風環境を再現するUE5シェーダー講座「Unreal Shader: Megascan Assets」がWingfoxで販売開始！ first appeared on 3DCG最新情報サイト MODELING HAPPY.",
@@ -3872,6 +3897,21 @@
       "feedUrl": "https://zenn.dev/topics/glsl/feed",
       "siteUrl": "https://zenn.dev/topics/glsl",
       "articles": [
+        {
+          "id": "https://zenn.dev/sheep_silica/articles/90232ac0af6f48",
+          "author": "ひつじ",
+          "description": "はじめに\n以前試作の絵をツイートしてみたら反響があったので、コードをまとめて残しておきたくAIに解説してもらいました。プロトタイプの過程でできたんだけど、この感じでは使わなさそう。\n立体なんだけど輪郭がぼけて背景と溶け合うような表現をしてみました。普通にGLSLでもブラーをかければ近いことはできそうですが、大きくぼかそうとするほど負荷が高いので、レイマーチングなら良い感じになるんじゃない？と試したら良い感じになったように思えます。\n完成コードは記事末尾にまとめています。\n\n 全体構成\nシェーダーの処理フローは次のとおりです。\nUV座標 → カメラ構築 → レイマーチング → ヒッ...",
+          "link": "https://zenn.dev/sheep_silica/articles/90232ac0af6f48",
+          "publishedOn": "2026-04-22T07:11:22.000Z",
+          "wordCount": 5861,
+          "title": "レイマーチングで3Dモデルにトロッとしたぼかし&グラデーション表現を入れる",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--DDXdQ473--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%25AC%25E3%2582%25A4%25E3%2583%259E%25E3%2583%25BC%25E3%2583%2581%25E3%2583%25B3%25E3%2582%25B0%25E3%2581%25A73D%25E3%2583%25A2%25E3%2583%2587%25E3%2583%25AB%25E3%2581%25AB%25E3%2583%2588%25E3%2583%25AD%25E3%2583%2583%25E3%2581%25A8%25E3%2581%2597%25E3%2581%259F%25E3%2581%25BC%25E3%2581%258B%25E3%2581%2597%2526%25E3%2582%25B0%25E3%2583%25A9%25E3%2583%2587%25E3%2583%25BC%25E3%2582%25B7%25E3%2583%25A7%25E3%2583%25B3%25E8%25A1%25A8%25E7%258F%25BE%25E3%2582%2592%25E5%2585%25A5%25E3%2582%258C%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%25B2%25E3%2581%25A4%25E3%2581%2598%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzc1ZTkyMzRhZmIuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
+            "length": "0",
+            "type": "false"
+          },
+          "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--DDXdQ473--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%25AC%25E3%2582%25A4%25E3%2583%259E%25E3%2583%25BC%25E3%2583%2581%25E3%2583%25B3%25E3%2582%25B0%25E3%2581%25A73D%25E3%2583%25A2%25E3%2583%2587%25E3%2583%25AB%25E3%2581%25AB%25E3%2583%2588%25E3%2583%25AD%25E3%2583%2583%25E3%2581%25A8%25E3%2581%2597%25E3%2581%259F%25E3%2581%25BC%25E3%2581%258B%25E3%2581%2597%2526%25E3%2582%25B0%25E3%2583%25A9%25E3%2583%2587%25E3%2583%25BC%25E3%2582%25B7%25E3%2583%25A7%25E3%2583%25B3%25E8%25A1%25A8%25E7%258F%25BE%25E3%2582%2592%25E5%2585%25A5%25E3%2582%258C%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%25B2%25E3%2581%25A4%25E3%2581%2598%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzc1ZTkyMzRhZmIuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"
+        },
         {
           "id": "https://zenn.dev/keita2399/articles/flutter-web-multi-app-architecture",
           "author": "松井慶太",

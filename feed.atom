@@ -2,10 +2,48 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-04-22T05:16:37.854Z</updated>
+    <updated>2026-04-22T09:11:10.180Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[「BlenderBuddy」Blenderの疑問を質問するだけで操作可能！Web検索・モデル作成にも対応したAIアドオンが無料リリース]]></title>
+        <id>https://modelinghappy.com/?p=68209</id>
+        <link href="https://modelinghappy.com/archives/68209"/>
+        <updated>2026-04-22T07:50:56.000Z</updated>
+        <summary type="html"><![CDATA[Blender Buddy (A Free Agent Of Chaos) BlenderBuddyはCGMatterさんが作成した、Blender内で操作や工程をガイドしながら制作を進められるアドオンです。 外部API
+The post 「BlenderBuddy」Blenderの疑問を質問するだけで操作可能！Web検索・モデル作成にも対応したAIアドオンが無料リリース first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
+        <author>
+            <name>modelinghappy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[レイマーチングで3Dモデルにトロッとしたぼかし&グラデーション表現を入れる]]></title>
+        <id>https://zenn.dev/sheep_silica/articles/90232ac0af6f48</id>
+        <link href="https://zenn.dev/sheep_silica/articles/90232ac0af6f48"/>
+        <updated>2026-04-22T07:11:22.000Z</updated>
+        <summary type="html"><![CDATA[はじめに
+以前試作の絵をツイートしてみたら反響があったので、コードをまとめて残しておきたくAIに解説してもらいました。プロトタイプの過程でできたんだけど、この感じでは使わなさそう。
+立体なんだけど輪郭がぼけて背景と溶け合うような表現をしてみました。普通にGLSLでもブラーをかければ近いことはできそうですが、大きくぼかそうとするほど負荷が高いので、レイマーチングなら良い感じになるんじゃない？と試したら良い感じになったように思えます。
+完成コードは記事末尾にまとめています。
+
+ 全体構成
+シェーダーの処理フローは次のとおりです。
+UV座標 → カメラ構築 → レイマーチング → ヒッ...]]></summary>
+        <author>
+            <name>ひつじ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Blender Buddy | APIキー不要！Llama.cppを採用し完全にローカル動作！Blenderのドキュメントを網羅したBlender向けAIエージェント！無料公開！ by CGMatter]]></title>
+        <id>https://3dnchu.com/?p=1064322</id>
+        <link href="https://3dnchu.com/archives/blender-buddy/"/>
+        <updated>2026-04-22T06:48:35.000Z</updated>
+        <summary type="html"><![CDATA[CGMatterがBlender上でAIと対話しながら色々出来ちゃうBlenderアドオン「Blender Buddy」を無料公開しています！]]></summary>
+        <author>
+            <name>Ymt3D -3dnchu-</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[TightCCD: Efficient and Robust Continuous Collision Detection using Tight Error Bounds (2015)]]></title>
         <id>https://qiita.com/matumu20/items/a8143900c1df5ecd1308</id>

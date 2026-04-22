@@ -2,10 +2,107 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-04-21T12:59:31.565Z</updated>
+    <updated>2026-04-22T01:25:56.150Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Flow Studioと往く～キャラクターアニメーションの新しい世界～ 第4回：BlenderからFlow Studioへ]]></title>
+        <id>https://area.autodesk.jp/column/tutorial/journey-with-flow-studio/04-blender-to-flow-studio/</id>
+        <link href="https://area.autodesk.jp/column/tutorial/journey-with-flow-studio/04-blender-to-flow-studio/"/>
+        <updated>2026-04-22T01:00:00.000Z</updated>
+        <summary type="html"><![CDATA[今回はタイトルの通り、BlenderのキャラクターモデルをFlow Studioにアップロードする方法に触れていきます！ご存じの方もいらっしゃるかもしれませんが、Flow StudioにはMaya、Blenderからキャラクターをアップロードすることができます。Mayaを使用したキャラクターのアップロード方法に関しては過去のウェビナーで使い方を解説しているので、そちらをご参照いただければと思いますが、今までBlenderを使用した方法は解説していなかったので、この機会にご紹介できればと思います。・・・]]></summary>
+        <author>
+            <name>AREA JAPAN | Autodesk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AAA風環境を再現するUE5シェーダー講座「Unreal Shader: Megascan Assets」がWingfoxで販売開始！]]></title>
+        <id>https://modelinghappy.com/?p=68201</id>
+        <link href="https://modelinghappy.com/archives/68201"/>
+        <updated>2026-04-21T23:42:11.000Z</updated>
+        <summary type="html"><![CDATA[Unreal Shader: Megascan Assets 世界中のチュートリアル動画を販売しているWingfoxのサイトでUnreal Engineで、Quixel Megascansの高品質素材を使いながら、さらに
+The post AAA風環境を再現するUE5シェーダー講座「Unreal Shader: Megascan Assets」がWingfoxで販売開始！ first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
+        <author>
+            <name>modelinghappy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【期間限定無料】2026年5月5日までの FAB 無料コンテンツをチェック！]]></title>
+        <id>https://cginterest.com/?p=58133</id>
+        <link href="https://cginterest.com/2026/04/22/%e3%80%90%e6%9c%9f%e9%96%93%e9%99%90%e5%ae%9a%e7%84%a1%e6%96%99%e3%80%912026%e5%b9%b45%e6%9c%885%e6%97%a5%e3%81%be%e3%81%a7%e3%81%ae-fab-%e7%84%a1%e6%96%99%e3%82%b3%e3%83%b3%e3%83%86%e3%83%b3%e3%83%84/"/>
+        <updated>2026-04-21T23:42:04.000Z</updated>
+        <summary type="html"><![CDATA[期間限定で無料となっているEpicのマーケットプレイスFABの無料コンテンツの紹介です。 Epic Games の統合マーケットプレイスFABでは、クリエイターとのパートナーシップによって、2週間ごとに選ばれたコンテンツ […]
+【期間限定無料】2026年5月5日までの FAB 無料コンテンツをチェック！ first appeared on CGinterest.]]></summary>
+        <author>
+            <name>.me</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HoudiniとUnreal Engineによるプロシージャルジェネレータのブレイクダウン公開　『ゼルダの伝説 ティアーズ オブ ザ キングダム』の空島にインスパイア - ニュース]]></title>
+        <id>https://cgworld.jp/flashnews/01-202604-SkyIsland.html</id>
+        <link href="https://cgworld.jp/flashnews/01-202604-SkyIsland.html"/>
+        <updated>2026-04-21T22:40:10.000Z</updated>
+        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[フォトグラメトリ数学｜12：Bundle Adjustmentとは何か]]></title>
+        <id>https://zenn.dev/s_hashida/articles/362a652a8df531</id>
+        <link href="https://zenn.dev/s_hashida/articles/362a652a8df531"/>
+        <updated>2026-04-21T21:15:05.000Z</updated>
+        <summary type="html"><![CDATA[はじめに
+前回は、Structure from Motion（SfM）について説明しました。
+
+対応点を見つける
+幾何関係を求める
+三角測量で3Dを復元する
+
+そして最後に、
+
+Bundle Adjustmentで全体を最適化する
+
+という流れを見ました。
+
+ここで疑問です。
+
+なぜ最適化が必要なのか？
+それで何が良くなるのか？
+
+
+今回は、
+
+SfMの核心である Bundle Adjustment
+
+について掘り下げます。
+
+ なぜ最適化が必要なのか
+まず重要な事実があります。
+
+
+SfMの途中結果は、すべてズレている
+
+
+例えば：
+
+三角測量で求めた3D点
+エッセンシャル行列か...]]></summary>
+        <author>
+            <name>s_hashida</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI4AnimationPy | Metaの研究チームによるニューラルネットワークを用いたAI駆動型キャラクターアニメーションのためのPythonフレームワークをGithub上で公開！]]></title>
+        <id>https://3dnchu.com/?p=1064297</id>
+        <link href="https://3dnchu.com/archives/ai4animationpy/"/>
+        <updated>2026-04-21T16:48:36.000Z</updated>
+        <summary type="html"><![CDATA[Meta Research所属のPaul Starke氏とSebastian Starke氏がNumPy/PyTorch を用いた Python 環境で実現するAI駆動型キャラクターアニメーションのためのPythonフレームワーク「AI4AnimationPy」をGithub上で公開！]]></summary>
+        <author>
+            <name>Ymt3D -3dnchu-</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2Dのコンセプトから 3Dイメージまで。Blender 使用、SFシーン『Colony』のメイキング Part1]]></title>
         <id>https://3dtotal.jp/?p=55334</id>
@@ -4912,86 +5009,6 @@ The post 【無料】ドラッグ＆ドロップで簡単にデカールテク�
 Affinity 2026年3月アップデートが公開！選択範囲のベクター変換や非破壊的なレイヤー合成機能の追加など first appeared on CGinterest.]]></summary>
         <author>
             <name>.me</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pixie | ローカル環境で動作するAIを活用し説明文やタグの追加も可能な画像管理ツールが登場！]]></title>
-        <id>https://3dnchu.com/?p=1063138</id>
-        <link href="https://3dnchu.com/archives/pixie-bbtools/"/>
-        <updated>2026-03-23T11:38:48.000Z</updated>
-        <summary type="html"><![CDATA[BBToolsによるローカル環境で動作するAIを活用し説明文やタグの追加も可能な画像管理ツール「Pixie」がリリースされました！]]></summary>
-        <author>
-            <name>Ymt3D -3dnchu-</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Unity 6.4 正式リリース！将来の基盤となる技術的アップデートやQoL改善など]]></title>
-        <id>https://cginterest.com/?p=56880</id>
-        <link href="https://cginterest.com/2026/03/23/unity-6-4-%e6%ad%a3%e5%bc%8f%e3%83%aa%e3%83%aa%e3%83%bc%e3%82%b9%ef%bc%81%e5%b0%86%e6%9d%a5%e3%81%ae%e5%9f%ba%e7%9b%a4%e3%81%a8%e3%81%aa%e3%82%8b%e6%8a%80%e8%a1%93%e7%9a%84%e3%82%a2%e3%83%83%e3%83%97/"/>
-        <updated>2026-03-23T08:57:06.000Z</updated>
-        <summary type="html"><![CDATA[2026年3月18日（現地時間）- Unity Technologiesは、Unity 6.4 のリリースを発表しました。 Unity 6.4 リリースの主なハイライト Unity 6 は、より高速で信頼性が高く、安定し […]
-Unity 6.4 正式リリース！将来の基盤となる技術的アップデートやQoL改善など first appeared on CGinterest.]]></summary>
-        <author>
-            <name>.me</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[アニメ『DIGIMON BEATBREAK』 Unreal Engineを活用してデジタル感あふれるミラーワールドを構築！ 〜No.1／概要篇 - 特集]]></title>
-        <id>https://cgworld.jp/article/cgw331-digimonbb01.html</id>
-        <link href="https://cgworld.jp/article/cgw331-digimonbb01.html"/>
-        <updated>2026-03-23T05:00:55.000Z</updated>
-        <summary type="html"><![CDATA[『DIGIMON BEATBREAK』のアニメCGメイキングを紹介。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【Unity】「なんとなく」を卒業する。被写界深度（DoF）編]]></title>
-        <id>https://zenn.dev/zero_0r0/articles/2baf7fd23c0ef8</id>
-        <link href="https://zenn.dev/zero_0r0/articles/2baf7fd23c0ef8"/>
-        <updated>2026-03-23T03:30:05.000Z</updated>
-        <summary type="html"><![CDATA[はじめに
-これまで、ブラー（Kawase Blur）の基礎から始まり、それを応用したBloomエフェクトの実装までを解説してきました。
-ポストプロセスシリーズの締めくくりとなる今回は、これまでの知識を総動員して 「被写界深度（Depth of Field : DoF）」 を実装します。
-被写界深度とは、カメラのピントが合っている距離だけがくっきりと見え、それより手前や奥にある背景がぼやけて映る現象のことです。画面の奥行きや空気感を表現する上で欠かせないエフェクトですが、自作しようとすると特有の「罠」に引っかかりやすい分野でもあります。
-
- この記事のターゲット層
-
-前回のブラー編・B...]]></summary>
-        <author>
-            <name>ゼロ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[新たな始まり。映画『スパイダーマン：ブランド・ニュー・デイ』のトレーラー（英語／日本語）]]></title>
-        <id>https://3dtotal.jp/?p=52549</id>
-        <link href="https://3dtotal.jp/news/52549/"/>
-        <updated>2026-03-23T03:19:15.000Z</updated>
-        <summary type="html"><![CDATA[★SPIDER-MAN: BRAND NEW DAY – Official Trailer（2分40秒） ★『スパイダーマン：ブランド・ニュー・デイ』予告編（2分33秒） 誰一人 僕を覚えていなくても　僕は君の "親愛な […]
-The post 新たな始まり。映画『スパイダーマン：ブランド・ニュー・デイ』のトレーラー（英語／日本語） first appeared on 3dtotal 日本語オフィシャルサイト.]]></summary>
-        <author>
-            <name>3dtotal管理人T</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[第98回アカデミー賞視覚効果賞：受賞＆最終候補作品のVFXブレイクダウンをチェック！]]></title>
-        <id>https://cginterest.com/?p=56697</id>
-        <link href="https://cginterest.com/2026/03/23/%e7%ac%ac98%e5%9b%9e%e3%82%a2%e3%82%ab%e3%83%87%e3%83%9f%e3%83%bc%e8%b3%9e%e8%a6%96%e8%a6%9a%e5%8a%b9%e6%9e%9c%e8%b3%9e%ef%bc%9a%e5%8f%97%e8%b3%9e%ef%bc%86%e6%9c%80%e7%b5%82%e5%80%99%e8%a3%9c%e4%bd%9c/"/>
-        <updated>2026-03-23T02:51:53.000Z</updated>
-        <summary type="html"><![CDATA[2026年3月にロサンゼルスで開催された第98回アカデミー賞授賞式が開催されました。本年度の視覚効果賞にノミネートされた5作品は、それぞれが異なるアプローチで「現実とデジタル空間の融合」というテーマに取り組み、優れた映像 […]
-第98回アカデミー賞視覚効果賞：受賞＆最終候補作品のVFXブレイクダウンをチェック！ first appeared on CGinterest.]]></summary>
-        <author>
-            <name>.me</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[1クールの30分アニメをMMDで制作！？『ほっぺちゃん～サン王国と黒ほっぺ団の秘密～』の舞台裏 - 特集]]></title>
-        <id>https://cgworld.jp/article/2603-hoppechan.html</id>
-        <link href="https://cgworld.jp/article/2603-hoppechan.html"/>
-        <updated>2026-03-23T01:21:24.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
         </author>
     </entry>
 </feed>

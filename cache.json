@@ -12,6 +12,21 @@
       "siteUrl": "https://cgbox.jp",
       "articles": [
         {
+          "id": "https://cgbox.jp/?p=65265",
+          "author": "kasahara",
+          "description": "こんばんは！ 今回はアドオンの「Geomotion」を紹介します。 こちらのリンクがアドオンの商品ページになります。 Geomotion 「Geomotion」は、Geometry Nodesベースのモーションプリセット […]",
+          "link": "https://cgbox.jp/2026/04/23/news-addon-geomotion/",
+          "publishedOn": "2026-04-23T01:34:25.000Z",
+          "wordCount": 2068,
+          "title": "【アドオン紹介】Geomotion – GeometryNodeで作られたアニメーションアセット！",
+          "enclosure": {
+            "url": "https://cgbox.jp/wp-content/uploads/2026/04/1_gfvych.mp4",
+            "length": "0",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://cgbox.jp/wp-content/uploads/2026/04/image_processing20260419-2-54078t.jpg"
+        },
+        {
           "id": "https://cgbox.jp/?p=65256",
           "author": "kasahara",
           "description": "こんばんは！ 今回はアドオンの「Blender Buddy」を紹介します。 こちらのリンクがアドオンの商品ページになります。 Blender Buddy 「Blender Buddy」は、Blender Buddyは、B […]",
@@ -1158,21 +1173,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "https://3dnchu.com/wp-content/uploads/substance-painter-toolkit-plugin-small.webp"
-        },
-        {
-          "id": "https://3dnchu.com/?p=1063174",
-          "author": "Ymt3D -3dnchu-",
-          "description": "NVIDIA Spatial Intelligence Lab (SIL)による700時間分の光学モーションキャプチャデータで学習されたモーション拡散モデル「Kimodo（kinematic motion diffusion)」が発表されました！テキストなどから人間やロボットのモーションが生成可能です！",
-          "link": "https://3dnchu.com/archives/kimodo/",
-          "publishedOn": "2026-03-24T06:09:04.000Z",
-          "wordCount": 8869,
-          "title": "Kimodo: Scaling Controllable Human Motion Generation | NVIDIA Spatial Intelligence Lab による700時間分の光学モーションキャプチャデータで学習されたモーション拡散モデル！テキストなどによる指示で人体やロボットの動きを生成！",
-          "enclosure": {
-            "url": "https://3dnchu.com/wp-content/uploads/kimodo.mp4",
-            "length": "850853",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://3dnchu.com/wp-content/uploads/kimodo.webp"
         }
       ]
     },
@@ -1181,6 +1181,26 @@
       "feedUrl": "https://cgworld.jp/atom.xml",
       "siteUrl": "https://cgworld.jp/",
       "articles": [
+        {
+          "id": "https://cgworld.jp/article/202604-actf-sanzigen.html",
+          "author": null,
+          "description": "株式会社サンジゲンによる「Blenderで作るTVアニメ最新事情」の模様をレポート。",
+          "link": "https://cgworld.jp/article/202604-actf-sanzigen.html",
+          "publishedOn": "2026-04-23T01:00:55.000Z",
+          "wordCount": 816,
+          "title": "サンジゲンが語る「Blenderで作るTVアニメ最新事情」、Blender導入の背景から今後の展望を解説 ～ACTF2026 in TAAF（1） - 特集",
+          "imageUrl": "https://cgworld.jp/article/assets_c/2026/04/c574bf57d9c77823c87b32d7355b3cbe6c6e1ba1-thumb-1000x563-82194.jpg"
+        },
+        {
+          "id": "https://cgworld.jp/flashnews/01-202604-ProjectViolet.html",
+          "author": null,
+          "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
+          "link": "https://cgworld.jp/flashnews/01-202604-ProjectViolet.html",
+          "publishedOn": "2026-04-22T22:41:19.000Z",
+          "wordCount": 789,
+          "title": "SideFX、チュートリアル「Project Violet」公開　MetaHumanを用いたプロシージャルなキャラクターパイプラインの構築に焦点を当てた、Houdini 21の実践的なワークフロー解説 - ニュース",
+          "imageUrl": "https://cgworld.jp/flashnews/assets_c/2026/04/Houdini_Violet-01-thumb-1920x1080-82601.jpg"
+        },
         {
           "id": "https://cgworld.jp/article/cgw330-chainsaw-reze02.html",
           "author": null,
@@ -2160,26 +2180,6 @@
           "wordCount": 808,
           "title": "スタジオダックビル、Webブラウザだけで3DGSから仮想空間をつくるアプリ「SplatStroll Avatar」テスト版を公開！ 3DGS描画にThree.jsとSpark 2.0使用 - ニュース",
           "imageUrl": "https://cgworld.jp/flashnews/assets_c/2026/03/593d2fd3fe566e5f7c86fd8ee0affd03cad77ef5-thumb-1920x1080-81401.jpg"
-        },
-        {
-          "id": "https://cgworld.jp/flashnews/02-2603-one-dot.html",
-          "author": null,
-          "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
-          "link": "https://cgworld.jp/flashnews/02-2603-one-dot.html",
-          "publishedOn": "2026-03-24T03:46:06.000Z",
-          "wordCount": 744,
-          "title": "故・飯野賢治が開発した「世界一ミニマルなゲーム」を継ぐ「ONE-DOT GAMES」が5月にリリース決定 - ニュース",
-          "imageUrl": "https://cgworld.jp/flashnews/assets_c/2026/03/fytologo%20%281%29-thumb-1000x563-81153.png"
-        },
-        {
-          "id": "https://cgworld.jp/article/cgw331-digimonbb02.html",
-          "author": null,
-          "description": "『DIGIMON BEATBREAK』のアニメCGメイキングを紹介。",
-          "link": "https://cgworld.jp/article/cgw331-digimonbb02.html",
-          "publishedOn": "2026-03-24T01:00:17.000Z",
-          "wordCount": 783,
-          "title": "アニメ『DIGIMON BEATBREAK』 Unreal Engineを活用してデジタル感あふれるミラーワールドを構築！ 〜No.2／コンセプトアート篇 - 特集",
-          "imageUrl": "https://cgworld.jp/article/assets_c/2026/03/331_digimon01-thumb-1000x563-81224.png"
         }
       ]
     },
@@ -2245,6 +2245,26 @@
       "feedUrl": "https://modelinghappy.com/feed",
       "siteUrl": "https://modelinghappy.com",
       "articles": [
+        {
+          "id": "https://modelinghappy.com/?p=68224",
+          "author": "modelinghappy",
+          "description": "Twinmotion Live Link for Blender Twinmotion Live Link for BlenderはBlenderとTwinmotionをリアルタイムで連携出来るアドオンです。 エクスポー\nThe post BlenderとTwinmotionをリアルタイム連携！エクスポート不要の「Twinmotion Live Link for Blender」が無料公開 first appeared on 3DCG最新情報サイト MODELING HAPPY.",
+          "link": "https://modelinghappy.com/archives/68224",
+          "publishedOn": "2026-04-22T23:35:42.000Z",
+          "wordCount": 3076,
+          "title": "BlenderとTwinmotionをリアルタイム連携！エクスポート不要の「Twinmotion Live Link for Blender」が無料公開",
+          "imageUrl": "https://modelinghappy.com/wp-content/uploads/2026/04/20260423_twinmotion_live_link.jpg"
+        },
+        {
+          "id": "https://modelinghappy.com/?p=68217",
+          "author": "modelinghappy",
+          "description": "Procedural Traffic Cone (Blender Geometry-Nodes) シニアデータサイエンティストのAlex Martinelliさんが、Blenderでパラメーター数値入力で様々な形状に変更\nThe post 【無料】様々な形状のトラフィックコーンを生成出来るGeometry Nodesデータ first appeared on 3DCG最新情報サイト MODELING HAPPY.",
+          "link": "https://modelinghappy.com/archives/68217",
+          "publishedOn": "2026-04-22T23:15:47.000Z",
+          "wordCount": 3101,
+          "title": "【無料】様々な形状のトラフィックコーンを生成出来るGeometry Nodesデータ",
+          "imageUrl": "https://modelinghappy.com/wp-content/uploads/2026/04/20260423_traffic_cone_01.jpg"
+        },
         {
           "id": "https://modelinghappy.com/?p=68209",
           "author": "modelinghappy",
@@ -2961,26 +2981,6 @@
           "wordCount": 517,
           "title": "ピクサーのアニメーターが語る アニメーションの魅力。短編ドキュメンタリー「Animation Motivation」",
           "imageUrl": "https://3dtotal.jp/wp-content/uploads/2026/03/animotivation_pixar.jpg"
-        },
-        {
-          "id": "https://3dtotal.jp/?p=55085",
-          "author": "3dtotal管理人T",
-          "description": "コンセプトアーティスト Onur Can Cayli 氏 は Dreamworks Animation や Lola VFX などのスタジオ で『アベンジャーズ／エイジ・オブ・ウルトロン』から『ゲーム・オブ・スローンズ』 […]\nThe post 【インタビュー】新しい世界を創造することが目標：コンセプトアーティスト Onur Can Cayli 氏 first appeared on 3dtotal 日本語オフィシャルサイト.",
-          "link": "https://3dtotal.jp/features/55085/",
-          "publishedOn": "2026-03-24T09:08:08.000Z",
-          "wordCount": 644,
-          "title": "【インタビュー】新しい世界を創造することが目標：コンセプトアーティスト Onur Can Cayli 氏",
-          "imageUrl": "https://3dtotal.jp/wp-content/uploads/2026/03/i144_t.jpg"
-        },
-        {
-          "id": "https://3dtotal.jp/?p=55068",
-          "author": "3dtotal管理人T",
-          "description": "★Ride the VFX waves of our latest Water Reel（1分50秒） 「世界水の日」(3/22) に、私たち Goodbye Kansas と一緒に VFX の波に乗りましょう！ このシ […]\nThe post CGによる 水の表現。VFXの波に乗れ！ Goodbye Kansas のウォーターリール first appeared on 3dtotal 日本語オフィシャルサイト.",
-          "link": "https://3dtotal.jp/news/55068/",
-          "publishedOn": "2026-03-24T07:24:05.000Z",
-          "wordCount": 542,
-          "title": "CGによる 水の表現。VFXの波に乗れ！ Goodbye Kansas のウォーターリール",
-          "imageUrl": "https://3dtotal.jp/wp-content/uploads/2026/03/gkansas_waterreel26.jpg"
         }
       ]
     },
@@ -3145,6 +3145,21 @@
       "feedUrl": "https://zenn.dev/topics/houdini/feed",
       "siteUrl": "https://zenn.dev/topics/houdini",
       "articles": [
+        {
+          "id": "https://zenn.dev/kickbase/articles/e123193447c549",
+          "author": "めんたいこ",
+          "description": "新しいバージョンのHoudiniを入れた直後に、僕がまず触る設定を軽くまとめます。\n今回はGeneral User InterfaceとHUDとNotificationsだけに絞って、作業しやすさに直結するところをメモします。\n\n 先に結論\n\n\nGeneral User InterfaceのGlobal UI Scaleでアイコンをちょっと大きくしとこう。寄る年波には勝てない。\nビューポートをすっきり使いたいなら、HUDのShow the Heads Up Displayをオフ。\n通知はNotificationsのNotification AreaをStatus Barにして、表示位置...",
+          "link": "https://zenn.dev/kickbase/articles/e123193447c549",
+          "publishedOn": "2026-04-22T10:00:05.000Z",
+          "wordCount": 572,
+          "title": "Houdiniの設定まとめ 2026",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--tJ1hBc96--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Houdini%25E3%2581%25AE%25E8%25A8%25AD%25E5%25AE%259A%25E3%2581%25BE%25E3%2581%25A8%25E3%2582%2581%25202026%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2582%2581%25E3%2582%2593%25E3%2581%259F%25E3%2581%2584%25E3%2581%2593%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2pvTlNrRXEtOVdEUlNaa2dKcFBxeFlFZGpZTm5TcGl3SzFUeXZOPXMyNTAtYw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
+            "length": "0",
+            "type": "false"
+          },
+          "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--tJ1hBc96--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Houdini%25E3%2581%25AE%25E8%25A8%25AD%25E5%25AE%259A%25E3%2581%25BE%25E3%2581%25A8%25E3%2582%2581%25202026%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2582%2581%25E3%2582%2593%25E3%2581%259F%25E3%2581%2584%25E3%2581%2593%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2pvTlNrRXEtOVdEUlNaa2dKcFBxeFlFZGpZTm5TcGl3SzFUeXZOPXMyNTAtYw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"
+        },
         {
           "id": "https://zenn.dev/yuzutarou/articles/04ca113e1d912c",
           "author": "ゆずたろう",
@@ -3822,16 +3837,6 @@
           "wordCount": 936,
           "title": "Claude Code活用｜WEB上で紙をお焚き上げできるサイトを作りました",
           "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRmF2YXRhcnMuZ2l0aHVidXNlcmNvbnRlbnQuY29tJTJGdSUyRjIwMDYxMzMzNyUzRnYlM0Q0P2l4bGliPXJiLTQuMC4wJmFyPTElM0ExJmZpdD1jcm9wJm1hc2s9ZWxsaXBzZSZiZz1GRkZGRkYmZm09cG5nMzImcz1mN2JjYmQ3ODFmM2FkYzY5ZjE4YzE2NWFjZjRhM2IwOA%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D95f35113c7c1c4064f76333a1ecd1742?ixlib=rb-4.0.0&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9Q2xhdWRlJTIwQ29kZSVFNiVCNCVCQiVFNyU5NCVBOCVFRiVCRCU5Q1dFQiVFNCVCOCU4QSVFMyU4MSVBNyVFNyVCNCU5OSVFMyU4MiU5MiVFMyU4MSU4QSVFNyU4NCU5QSVFMyU4MSU4RCVFNCVCOCU4QSVFMyU4MSU5MiVFMyU4MSVBNyVFMyU4MSU4RCVFMyU4MiU4QiVFMyU4MiVCNSVFMyU4MiVBNCVFMyU4MyU4OCVFMyU4MiU5MiVFNCVCRCU5QyVFMyU4MiU4QSVFMyU4MSVCRSVFMyU4MSU5NyVFMyU4MSU5RiZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnR4dC1wYWQ9MCZzPTE0ODlmMzFkNTQ1MTcyNmJkZDllN2U2NjM3MjIxMDY0&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDB3YXNzYW41JnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9NDE2NTBmMTQ2ZTQ4OWZlMWFlY2E1NTRlNDRlNmEwZDE&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=055ae4aa7347a4ae1423ad80cb90d4ca"
-        },
-        {
-          "id": "https://qiita.com/keita2399_swimmer/items/27ed425e5e5a4acdb8c5",
-          "author": null,
-          "description": "はじめに\n前回の記事で、AI協働開発で2週間に複数のアプリを作った話を書きました。\nその中の一つ「アートさんぽシリーズ」は、世界の美術館APIを使ってスマホで名画を楽しめるFlutter Webアプリです。メトロポリタン美術館、シカゴ美術館、クリーブランド美術館、スミソニ...",
-          "link": "https://qiita.com/keita2399_swimmer/items/27ed425e5e5a4acdb8c5",
-          "publishedOn": "2026-03-24T04:03:56.000Z",
-          "wordCount": 2880,
-          "title": "1リポジトリで6つのアートアプリを生み出すFlutter Web設計術",
-          "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRmxoMy5nb29nbGV1c2VyY29udGVudC5jb20lMkZhJTJGQUNnOG9jSXZhSXIzMi1UdEdBT09BaktHY3h6R01aLWNmb1YtZWxkOHZaaS00UWw0QjhaWFdTZS0lM0RzOTYtYz9peGxpYj1yYi00LjAuMCZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9NWVmMmRmM2Y5NjNhZGUwNTUzMjhlMzhiOWQ4NDNlYmY%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3De5224f1267fd0dec4cd818b3dcf822d3?ixlib=rb-4.0.0&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9MSVFMyU4MyVBQSVFMyU4MyU5RCVFMyU4MiVCOCVFMyU4MyU4OCVFMyU4MyVBQSVFMyU4MSVBNzYlRTMlODElQTQlRTMlODElQUUlRTMlODIlQTIlRTMlODMlQkMlRTMlODMlODglRTMlODIlQTIlRTMlODMlOTclRTMlODMlQUElRTMlODIlOTIlRTclOTQlOUYlRTMlODElQkYlRTUlODclQkElRTMlODElOTlGbHV0dGVyJTIwV2ViJUU4JUE4JUFEJUU4JUE4JTg4JUU4JUExJTkzJnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9OTBhNmIxNmUwODM4MmE0OWFkOGE3OWFlYmFkM2U1ZWM&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBrZWl0YTIzOTlfc3dpbW1lciZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPTMzNTcxNDE5OGUyYjA5NDhhZjJiMWU4YjhmMTVjYTll&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=68c77ccd5d3e2282ae3d354de66e5c6e"
         }
       ]
     },
@@ -3891,21 +3896,6 @@
             "type": "false"
           },
           "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--DDXdQ473--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%25AC%25E3%2582%25A4%25E3%2583%259E%25E3%2583%25BC%25E3%2583%2581%25E3%2583%25B3%25E3%2582%25B0%25E3%2581%25A73D%25E3%2583%25A2%25E3%2583%2587%25E3%2583%25AB%25E3%2581%25AB%25E3%2583%2588%25E3%2583%25AD%25E3%2583%2583%25E3%2581%25A8%25E3%2581%2597%25E3%2581%259F%25E3%2581%25BC%25E3%2581%258B%25E3%2581%2597%2526%25E3%2582%25B0%25E3%2583%25A9%25E3%2583%2587%25E3%2583%25BC%25E3%2582%25B7%25E3%2583%25A7%25E3%2583%25B3%25E8%25A1%25A8%25E7%258F%25BE%25E3%2582%2592%25E5%2585%25A5%25E3%2582%258C%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%25B2%25E3%2581%25A4%25E3%2581%2598%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzc1ZTkyMzRhZmIuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"
-        },
-        {
-          "id": "https://zenn.dev/keita2399/articles/flutter-web-multi-app-architecture",
-          "author": "松井慶太",
-          "description": "はじめに\n前回の記事で、AI協働開発で2週間に複数のアプリを作った話を書きました。\nその中の一つ「アートさんぽシリーズ」は、世界の美術館APIを使ってスマホで名画を楽しめるFlutter Webアプリです。メトロポリタン美術館、シカゴ美術館、クリーブランド美術館、スミソニアン博物館、さらにフェルメールやレンブラントといった画家シリーズまで、1つのリポジトリから6つのアプリをビルドしています。\n\n\n\nカテゴリ\nアプリ名\nAPI\n\n\n\n\n美術館さんぽ\nメトロポリタン美術館さんぽ\nMet Museum API\n\n\n美術館さんぽ\nクリーブランド美術館さんぽ\nCleveland Museum ...",
-          "link": "https://zenn.dev/keita2399/articles/flutter-web-multi-app-architecture",
-          "publishedOn": "2026-03-24T03:51:10.000Z",
-          "wordCount": null,
-          "title": "1リポジトリで6つのアートアプリを生み出すFlutter Web設計術",
-          "enclosure": {
-            "url": "https://res.cloudinary.com/zenn/image/upload/s--yFU2wOQ5--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:1%25E3%2583%25AA%25E3%2583%259D%25E3%2582%25B8%25E3%2583%2588%25E3%2583%25AA%25E3%2581%25A76%25E3%2581%25A4%25E3%2581%25AE%25E3%2582%25A2%25E3%2583%25BC%25E3%2583%2588%25E3%2582%25A2%25E3%2583%2597%25E3%2583%25AA%25E3%2582%2592%25E7%2594%259F%25E3%2581%25BF%25E5%2587%25BA%25E3%2581%2599Flutter%2520Web%25E8%25A8%25AD%25E8%25A8%2588%25E8%25A1%2593%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E6%259D%25BE%25E4%25BA%2595%25E6%2585%25B6%25E5%25A4%25AA%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2VlNzdkNzc4NzguanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
-            "length": "0",
-            "type": "false"
-          },
-          "imageUrl": null
         }
       ]
     },
@@ -4149,6 +4139,16 @@
       "siteUrl": "https://note.com/hashtag/Houdini",
       "articles": [
         {
+          "id": "https://note.com/taishiyagyu/n/n640193dfa7e3",
+          "author": null,
+          "description": "こんにちは。inbetween代表の柳生です。\n今回は趣向を変えて、昨年初めて開催したボーンデジタルさんとの共催イベント「Houdini 60 Minutes」について書こうと思います。\n\n\n続きをみる",
+          "link": "https://note.com/taishiyagyu/n/n640193dfa7e3",
+          "publishedOn": "2026-04-22T15:24:00.000Z",
+          "wordCount": 2948,
+          "title": "AI時代だからこそ、手を動かしてつくる。初開催となった「Houdini 60 Minutes」。",
+          "imageUrl": "https://assets.st-note.com/production/uploads/images/269253659/rectangle_large_type_2_0ac25dd05fe578e43c898f542e64fddd.png?width=800"
+        },
+        {
           "id": "https://note.com/dapper_toucan148/n/n0215acbfb1f1",
           "author": null,
           "description": "やっぱりカッコいいですねー😆\n続きをみる",
@@ -4372,6 +4372,16 @@
       "feedUrl": "https://cginterest.com/feed/",
       "siteUrl": "https://cginterest.com",
       "articles": [
+        {
+          "id": "https://cginterest.com/?p=58174",
+          "author": ".me",
+          "description": "2026年4月21日（現地時間）- OpenAIより、画像生成モデルの最新版となる「ChatGPT Images 2.0」が発表されました。 約1年前の初期リリースからアップデートが行われ、複雑な視覚的タスクを処理し、実 […]\nOpenAI、画像生成モデル「ChatGPT Images 2.0」を発表！推論モデルとの統合や2K出力、高精細な文字描画に対応 first appeared on CGinterest.",
+          "link": "https://cginterest.com/2026/04/23/openai%e3%80%81%e7%94%bb%e5%83%8f%e7%94%9f%e6%88%90%e3%83%a2%e3%83%87%e3%83%ab%e3%80%8cchatgpt-images-2-0%e3%80%8d%e3%82%92%e7%99%ba%e8%a1%a8%ef%bc%81%e6%8e%a8%e8%ab%96%e3%83%a2%e3%83%87%e3%83%ab/",
+          "publishedOn": "2026-04-22T21:43:00.000Z",
+          "wordCount": 29964,
+          "title": "OpenAI、画像生成モデル「ChatGPT Images 2.0」を発表！推論モデルとの統合や2K出力、高精細な文字描画に対応",
+          "imageUrl": "https://cginterest.com/wp-content/uploads/2026/04/chatgptimages2.webp"
+        },
         {
           "id": "https://cginterest.com/?p=58133",
           "author": ".me",
@@ -5131,16 +5141,6 @@
           "wordCount": 30012,
           "title": "InstaMAT 2026 がリリース！カーブブラシや改良されたシンメトリー、新しいマスク機能などが追加",
           "imageUrl": "https://cginterest.com/wp-content/uploads/2026/03/instamat2026.webp"
-        },
-        {
-          "id": "https://cginterest.com/?p=56903",
-          "author": ".me",
-          "description": "2026年3月23日（現地時間）- AMDは同社の開発者向けポータルサイト「GPUOpen」にて、最新の「AMD FSR SDK 2.2」を公開しました。このアップデートは、2025年12月に発表された「Redstone […]\nAMD、機械学習ベースの次世代アップスケーリング技術を搭載した「AMD FSR SDK 2.2」を公開！ first appeared on CGinterest.",
-          "link": "https://cginterest.com/2026/03/24/amd%e3%80%81%e6%a9%9f%e6%a2%b0%e5%ad%a6%e7%bf%92%e3%83%99%e3%83%bc%e3%82%b9%e3%81%ae%e6%ac%a1%e4%b8%96%e4%bb%a3%e3%82%a2%e3%83%83%e3%83%97%e3%82%b9%e3%82%b1%e3%83%bc%e3%83%aa%e3%83%b3%e3%82%b0/",
-          "publishedOn": "2026-03-24T08:14:05.000Z",
-          "wordCount": 29557,
-          "title": "AMD、機械学習ベースの次世代アップスケーリング技術を搭載した「AMD FSR SDK 2.2」を公開！",
-          "imageUrl": "https://cginterest.com/wp-content/uploads/2026/03/amdfsrsdk22.webp"
         }
       ]
     }

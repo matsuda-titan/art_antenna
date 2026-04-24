@@ -12,6 +12,21 @@
       "siteUrl": "https://cgbox.jp",
       "articles": [
         {
+          "id": "https://cgbox.jp/?p=65271",
+          "author": "kasahara",
+          "description": "こんばんは！ 今回はアドオンの「FST ForgePolish」を紹介します。 こちらのリンクがアドオンの商品ページになります。 FST ForgePolish 「FST ForgePolish」は、ハードサーフェス向け […]",
+          "link": "https://cgbox.jp/2026/04/24/news-addon-fst-forgepolish/",
+          "publishedOn": "2026-04-24T03:03:53.000Z",
+          "wordCount": 2116,
+          "title": "【無料アドオン】FST ForgePolish – 選択メッシュをスムージング",
+          "enclosure": {
+            "url": "https://cgbox.jp/wp-content/uploads/2026/04/2995f4538b791f7799a0b2b6c6739917.mp4",
+            "length": "0",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://cgbox.jp/wp-content/uploads/2026/04/d8a6cd8eb69feb99b2fc55a9a3d244395f28c1fe2b35d4772c270dcee83e7d94_1920x1080.webp"
+        },
+        {
           "id": "https://cgbox.jp/?p=65265",
           "author": "kasahara",
           "description": "こんばんは！ 今回はアドオンの「Geomotion」を紹介します。 こちらのリンクがアドオンの商品ページになります。 Geomotion 「Geomotion」は、Geometry Nodesベースのモーションプリセット […]",
@@ -245,21 +260,6 @@
           "wordCount": 3414,
           "title": "【XPPEN】Artist Pro 27（Gen 2）をレビュー – 最高峰のクオリティの液タブの実力を検証！",
           "imageUrl": "https://cgbox.jp/wp-content/uploads/2026/03/cd870b09dc62a3a9e4f99756bdf7a271.jpg"
-        },
-        {
-          "id": "https://cgbox.jp/?p=65180",
-          "author": "kasahara",
-          "description": "こんばんは！ 今回はアドオンの「Stitch Generator」を紹介します。 こちらのリンクがアドオンの商品ページになります。 Stitch Generator 「Stitch Generator」は、エッジ選択から […]",
-          "link": "https://cgbox.jp/2026/03/25/news-addon-stitch-generator/",
-          "publishedOn": "2026-03-25T14:31:08.000Z",
-          "wordCount": 2482,
-          "title": "【アドオン紹介】Stitch Generator – 辺から50種類のスティッチを作成！",
-          "enclosure": {
-            "url": "https://cgbox.jp/wp-content/uploads/2026/03/Video-Project-20b.mp4",
-            "length": "0",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://cgbox.jp/wp-content/uploads/2022/05/cropped-favicon.png"
         }
       ]
     },
@@ -3728,18 +3728,7 @@
       "title": "CGタグが付けられた新着記事 - Qiita",
       "feedUrl": "https://qiita.com/tags/cg/feed",
       "siteUrl": "https://qiita.com",
-      "articles": [
-        {
-          "id": "https://qiita.com/plinecom/items/fdca43e894ac7202fa10",
-          "author": null,
-          "description": "自己紹介\n株式会社digitalbigmoのテクニカルサポートの小池@plinecomです。\n最近はDeadline Cloud と日々戦っています\n\nこれは何？\nDeadline Cloudでカスタマーマネージメントフリート（CMF）を動かすと、Blenderのバージョ...",
-          "link": "https://qiita.com/plinecom/items/fdca43e894ac7202fa10",
-          "publishedOn": "2026-03-25T16:57:36.000Z",
-          "wordCount": 1627,
-          "title": "AWS Deadline Cloudで、環境変数にBlenderのバージョンを入れたかった",
-          "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnFpaXRhLWltYWdlLXN0b3JlLnMzLmFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkYwJTJGNTIwNTclMkZwcm9maWxlLWltYWdlcyUyRjE3NzM4NDM4MDU_aXhsaWI9cmItNC4wLjAmYXI9MSUzQTEmZml0PWNyb3AmbWFzaz1lbGxpcHNlJmJnPUZGRkZGRiZmbT1wbmczMiZzPWFiMTZmMTA1YmZhZTRhOWIwOWVlN2RlNjI0NDdlNjQx%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3Dd725efc72ef4f3b30fde01ceae2044f3?ixlib=rb-4.0.0&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9QVdTJTIwRGVhZGxpbmUlMjBDbG91ZCVFMyU4MSVBNyVFMyU4MCU4MSVFNyU5MiVCMCVFNSVBMiU4MyVFNSVBNCU4OSVFNiU5NSVCMCVFMyU4MSVBQkJsZW5kZXIlRTMlODElQUUlRTMlODMlOTAlRTMlODMlQkMlRTMlODIlQjglRTMlODMlQTclRTMlODMlQjMlRTMlODIlOTIlRTUlODUlQTUlRTMlODIlOEMlRTMlODElOUYlRTMlODElOEIlRTMlODElQTMlRTMlODElOUYmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz02MjFmODg5MzdiMGRmNTM2MjJmMjY4Y2JlZGU5MTkwMg&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBwbGluZWNvbSZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPTY3M2YwMzdmNjM3NmQ1OTM5MjJiMWMwODQ3ZGQ4YWJl&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=a740431f9ef47cf845b426eeeeb3fc3d"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "HLSLタグが付けられた新着記事 - Qiita",
@@ -3849,6 +3838,16 @@
       "feedUrl": "https://area.autodesk.jp/rss.xml",
       "siteUrl": "https://area.autodesk.jp/",
       "articles": [
+        {
+          "id": "https://area.autodesk.jp/column/tutorial/bifrost-rigging-challenge/10-cog-visualization-support/",
+          "author": null,
+          "description": "本コラムではMayaのプラグイン\"Bifrost\"を使って、リグ、アニメーション、物理シミュレーションなどの観点から作例を紹介していきます。今回はちょっと趣向を変えて、キャラクターなどの姿勢制御は一切行わず、サポートに特化した機能をリグに加えてみたいと思います。Bifrostのデバッグ描画機能を主に使っていきます。・・・",
+          "link": "https://area.autodesk.jp/column/tutorial/bifrost-rigging-challenge/10-cog-visualization-support/",
+          "publishedOn": "2026-04-24T01:00:00.000Z",
+          "wordCount": 594,
+          "title": "Bifrost for Maya Rigging Challenge～一歩先のリグ・アニメーションに挑戦～ 第10回：重心の可視化を行うサポートユニット",
+          "imageUrl": "https://area.autodesk.jp/column/assets_c/2026/04/ic_bifrost_rigging_challenge_v10_1200x670-thumb-1200xauto-5824.jpg"
+        },
         {
           "id": "https://area.autodesk.jp/column/tutorial/journey-with-flow-studio/04-blender-to-flow-studio/",
           "author": null,

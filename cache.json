@@ -12,6 +12,21 @@
       "siteUrl": "https://cgbox.jp",
       "articles": [
         {
+          "id": "https://cgbox.jp/?p=65283",
+          "author": "kasahara",
+          "description": "こんばんは！ 今回はアドオンの「Batch Import Images to Brushes」を紹介します。 こちらのリンクがアドオンの商品ページになります。 Batch Import Images to Brushes […]",
+          "link": "https://cgbox.jp/2026/04/26/news-addon-batch-import-images-to-brushes/",
+          "publishedOn": "2026-04-26T03:03:05.000Z",
+          "wordCount": 2129,
+          "title": "【アドオン紹介】Batch Import Images to Brushes – ブラシ画像を一括インポート",
+          "enclosure": {
+            "url": "https://cgbox.jp/wp-content/uploads/2026/04/step-concrete-1.mp4",
+            "length": "0",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://cgbox.jp/wp-content/uploads/2026/04/486a3747fb7ed1242a015432994b512558c663b237cbf57c344a7fa38ac33d41_640x360.webp"
+        },
+        {
           "id": "https://cgbox.jp/?p=65277",
           "author": "kasahara",
           "description": "こんばんは！ 今回はアドオンの「Procedural Pipe Generator」を紹介します。 こちらのリンクがアドオンの商品ページになります。 Procedural Pipe Generator 「Procedur […]",
@@ -2106,6 +2121,16 @@
       "siteUrl": "https://modelinghappy.com",
       "articles": [
         {
+          "id": "https://modelinghappy.com/?p=68277",
+          "author": "modelinghappy",
+          "description": "Unreal Shader : Vegetation 世界中のチュートリアル動画を販売しているWingfoxのサイトで、リアルな植物表現を作りたい人向けの講座「Unreal Shader: Vegetation」が販売開\nThe post UE5でリアルな草・葉の植物表現を学べる！マテリアル特化講座「Unreal Shader: Vegetation」がWingfoxで販売開始！ first appeared on 3DCG最新情報サイト MODELING HAPPY.",
+          "link": "https://modelinghappy.com/archives/68277",
+          "publishedOn": "2026-04-26T03:10:40.000Z",
+          "wordCount": 3100,
+          "title": "UE5でリアルな草・葉の植物表現を学べる！マテリアル特化講座「Unreal Shader: Vegetation」がWingfoxで販売開始！",
+          "imageUrl": "https://modelinghappy.com/wp-content/uploads/2026/04/20260426_wingfox_01.jpg"
+        },
+        {
           "id": "https://modelinghappy.com/?p=68271",
           "author": "modelinghappy",
           "description": "Blender Light Mixer Blender Light Mixerは、BlenderのCycles専用アドオンで、シーン内のライト・HDRI・発光オブジェクトをすべて1つのパネルから、リアルタイムに調整・プリ\nThe post Blenderのライト・HDRI・発光を一括管理！プリセット保存もできる便利アドオン「Blender Light Mixer」 first appeared on 3DCG最新情報サイト MODELING HAPPY.",
@@ -3286,21 +3311,6 @@
             "type": "false"
           },
           "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--iDKKvTcN--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%2595%25E3%2582%25A9%25E3%2583%2588%25E3%2582%25B0%25E3%2583%25A9%25E3%2583%25A1%25E3%2583%2588%25E3%2583%25AA%25E6%2595%25B0%25E5%25AD%25A6%25EF%25BD%259C02%25EF%25BC%259A%25E5%25B0%2584%25E5%25BD%25B1%25E3%2581%25A8%25E3%2581%25AF%25E4%25BD%2595%25E3%2581%258B%25EF%25BC%2588%25E9%2580%258F%25E8%25A6%2596%25E6%258A%2595%25E5%25BD%25B1%25E3%2581%25AE%25E6%25AD%25A3%25E4%25BD%2593%25EF%25BC%2589%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:s_hashida%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2JmNmU5NjMzMTEuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"
-        },
-        {
-          "id": "https://zenn.dev/s_hashida/articles/89a158155beb7a",
-          "author": "s_hashida",
-          "description": "はじめに\nまず、フォトグラメトリ数学とは\n3Dの物体を2Dの画像に変換すること　もしくは　2Dの画像から3Dの物体を復元すること\nに関連する数学です。\nまずは、カメラとは何かからスタートします。\n\n カメラとは何か\nスマートフォンのカメラで写真を撮る機会は多くあると思います。\nカメラで写真を撮ることとは「現実の3Dの物体を2Dの画像に変換すること」と同じです。\nもう少し数学的に見ると、これは「3Dの点を2Dの画像のピクセルに割り当てること」です。\n数式で書くと3D物体の点\n\nP = (X,Y,Z)\n\nに対し画像の点\n\np = (x,y)\n\nを割り当てることです。\n簡単に絵で描くと次の...",
-          "link": "https://zenn.dev/s_hashida/articles/89a158155beb7a",
-          "publishedOn": "2026-03-27T15:48:12.000Z",
-          "wordCount": 401,
-          "title": "フォトグラメトリ数学①：カメラとは何か",
-          "enclosure": {
-            "url": "https://res.cloudinary.com/zenn/image/upload/s--aM7c3Bex--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%2595%25E3%2582%25A9%25E3%2583%2588%25E3%2582%25B0%25E3%2583%25A9%25E3%2583%25A1%25E3%2583%2588%25E3%2583%25AA%25E6%2595%25B0%25E5%25AD%25A6%25E2%2591%25A0%25EF%25BC%259A%25E3%2582%25AB%25E3%2583%25A1%25E3%2583%25A9%25E3%2581%25A8%25E3%2581%25AF%25E4%25BD%2595%25E3%2581%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:s_hashida%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly96ZW5uLWRldi5naXRodWIuaW8vZGVmYXVsdC1hdmF0YXJzL2Rhcmsvcy5wbmc=%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
-            "length": "0",
-            "type": "false"
-          },
-          "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--aM7c3Bex--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%2595%25E3%2582%25A9%25E3%2583%2588%25E3%2582%25B0%25E3%2583%25A9%25E3%2583%25A1%25E3%2583%2588%25E3%2583%25AA%25E6%2595%25B0%25E5%25AD%25A6%25E2%2591%25A0%25EF%25BC%259A%25E3%2582%25AB%25E3%2583%25A1%25E3%2583%25A9%25E3%2581%25A8%25E3%2581%25AF%25E4%25BD%2595%25E3%2581%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:s_hashida%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly96ZW5uLWRldi5naXRodWIuaW8vZGVmYXVsdC1hdmF0YXJzL2Rhcmsvcy5wbmc=%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"
         }
       ]
     },
@@ -3957,6 +3967,16 @@
       "feedUrl": "https://note.com/hashtag/Houdini/rss",
       "siteUrl": "https://note.com/hashtag/Houdini",
       "articles": [
+        {
+          "id": "https://note.com/sm_i_o/n/nb597c8fcc79a",
+          "author": null,
+          "description": "まずは、国土交通省が主導している PLATEAUのWEBビュアー\"PLATEAU VIEW\" にアクセスして、地形の概要を把握しましょう\n PLATEAU VIEW 5.0PLATEAUは、国土交通省が主導する、日本全国の3D都市モデルの整備・活用・オープンデータ化プロジェクトです。PLATEplateauview.mlit.go.jp \n続きをみる",
+          "link": "https://note.com/sm_i_o/n/nb597c8fcc79a",
+          "publishedOn": "2026-04-26T04:45:30.000Z",
+          "wordCount": 2742,
+          "title": "HoudiniでGISを扱う-GISから下北沢の街を再現してみた(データDL編)",
+          "imageUrl": "https://d2l930y2yx77uc.cloudfront.net/production/social_images/8852702092da34b519cfa911b3e6a3c0c1fbcbad.png"
+        },
         {
           "id": "https://note.com/toshia_fuji/n/n26554f459897",
           "author": null,

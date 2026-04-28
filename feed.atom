@@ -2,10 +2,57 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-04-28T05:49:12.813Z</updated>
+    <updated>2026-04-28T10:04:59.759Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【ZBrush】境界をまたいでも途切れない模様にする方法]]></title>
+        <id>https://3d.crdg.jp/env/?p=9458</id>
+        <link href="https://3d.crdg.jp/env/2026/04/28/9458/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=%25e3%2580%2590zbrush%25e3%2580%2591%25e5%25a2%2583%25e7%2595%258c%25e3%2582%2592%25e3%2581%25be%25e3%2581%259f%25e3%2581%2584%25e3%2581%25a7%25e3%2582%2582%25e9%2580%2594%25e5%2588%2587%25e3%2582%258c%25e3%2581%25aa%25e3%2581%2584%25e6%25a8%25a1%25e6%25a7%2598%25e3%2581%25ab%25e3%2581%2599%25e3%2582%258b%25e6%2596%25b9"/>
+        <updated>2026-04-28T09:41:30.000Z</updated>
+        <summary type="html"><![CDATA[今回は、境界をまたいでも途切れない模様にする方法をご紹介します。また、木目以外の角部分の掘り込みについては本記事では扱っていません。制作方法としては、 […]
+続きを読む
+投稿 【ZBrush】境界をまたいでも途切れない模様にする方法 は エンホリ - ENVIRONMENT HOLIC｜C&R Creative Studios に最初に表示されました。]]></summary>
+        <author>
+            <name>Akito.Yamakawa</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HLSL Shader Model 6.10の新機能  D3D12 Linear Algebra (LinAlg) APIの翻訳をざっくばらんに]]></title>
+        <id>https://qiita.com/YKVKDX12/items/e70041fb8c5d104dba71</id>
+        <link href="https://qiita.com/YKVKDX12/items/e70041fb8c5d104dba71"/>
+        <updated>2026-04-28T09:33:37.000Z</updated>
+        <summary type="html"><![CDATA[何これ？
+従来の行列演算とは違って、機械学習を使ったニューラルレンダリング関連のアルゴリズム実装をやりやすくなる。
+たしかに、
+たとえば深層学習アルゴリズムを使ってテクスチャのデノイズに、アップスケーリングとフレームレートの向上に成功した云々の論文があるしねぇ・・・
+ht...]]></summary>
+        <author>
+            <name>HLSLタグが付けられた新着記事 - Qiita</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Houdini IGNITE Workshopが5/16（土）・17（日）の2日間にわたって開催、3つのワークショップを実施 - ニュース]]></title>
+        <id>https://cgworld.jp/flashnews/03-2604-houdiniignite.html</id>
+        <link href="https://cgworld.jp/flashnews/03-2604-houdiniignite.html"/>
+        <updated>2026-04-28T09:25:00.000Z</updated>
+        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2Dのコンセプトから 3Dイメージまで。Blender 使用、SFシーン『Colony』のメイキング Part2]]></title>
+        <id>https://3dtotal.jp/?p=55390</id>
+        <link href="https://3dtotal.jp/tutorials/55390/"/>
+        <updated>2026-04-28T07:45:14.000Z</updated>
+        <summary type="html"><![CDATA[はじめに この Part2 では、前回の Part1 から引き続き「形態(フォーム)は機能に従う」という理論を軸に、2Dコンセプトから最終3Dデザインまでの制作プロセスを解説します。Blender での構図検討やプロップ […]
+The post 2Dのコンセプトから 3Dイメージまで。Blender 使用、SFシーン『Colony』のメイキング Part2 first appeared on 3dtotal 日本語オフィシャルサイト.]]></summary>
+        <author>
+            <name>3dtotal管理人T</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【無料アドオン】ClothDrop – 布を簡単にかぶせられるアドオン]]></title>
         <id>https://cgbox.jp/?p=65287</id>
@@ -4941,40 +4988,6 @@ The post Houdini 使用事例：Historia と JAXA の共同研究。月面探索
         <summary type="html"><![CDATA[本連載では、CG映像制作におけるテクニカル系スタッフの仕事の現状と課題を、パイプライン開発の専門家である痴山紘史氏（日本CGサービス（JCGS）代表）が探っていく。第12回では、ペンタブレットで世界的に知られるワコムを取材。製品企画、ハードウェア開発、ソフトウェア開発の各担当者への取材を通して、ペン入力技術と「かく体験」を支えるテクニカル系スタッフの仕事を前後編にわたって深掘りする。]]></summary>
         <author>
             <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[フォトグラメトリ数学｜02：射影とは何か（透視投影の正体）]]></title>
-        <id>https://zenn.dev/s_hashida/articles/647ba9aaff2858</id>
-        <link href="https://zenn.dev/s_hashida/articles/647ba9aaff2858"/>
-        <updated>2026-03-29T21:30:05.000Z</updated>
-        <summary type="html"><![CDATA[はじめに
-前回は「カメラとは何か」を簡単に説明しましたが、今回はその中で起きている変換の正体に踏み込みます。
-キーワードは 射影（projection） です。
-
- 射影とは何か
-まず「射影」という言葉をシンプルに捉えると、
-
-ある点から特定の方向（直線）に沿って、別の空間へ写す操作
-
-です。
-フォトグラメトリでは、
-
-3D空間の点を画像（2D平面）へ写すこと
-
-を考えます。
-
- 射影のイメージ
-射影のイメージを簡単に書くと下の図のようになります。
-
-このように、
-
-3D上の点Pと原点Oを結ぶ直線（光線）を取り、平面との交点pを求める
-
-これが「射影」です。
-射影にはいくつか種類が...]]></summary>
-        <author>
-            <name>s_hashida</name>
         </author>
     </entry>
 </feed>

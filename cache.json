@@ -932,6 +932,16 @@
       "siteUrl": "https://cgworld.jp/",
       "articles": [
         {
+          "id": "https://cgworld.jp/flashnews/03-2604-houdiniignite.html",
+          "author": null,
+          "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
+          "link": "https://cgworld.jp/flashnews/03-2604-houdiniignite.html",
+          "publishedOn": "2026-04-28T09:25:00.000Z",
+          "wordCount": 802,
+          "title": "Houdini IGNITE Workshopが5/16（土）・17（日）の2日間にわたって開催、3つのワークショップを実施 - ニュース",
+          "imageUrl": "https://cgworld.jp/flashnews/assets_c/2026/04/ignite-thumb-1920x1047-82736.jpg"
+        },
+        {
           "id": "https://cgworld.jp/article/202604-hathaway.html",
           "author": null,
           "description": "映画『機動戦士ガンダム 閃光のハサウェイ キルケーの魔女』 公開日：2026年...",
@@ -2519,6 +2529,16 @@
       "siteUrl": "https://3dtotal.jp",
       "articles": [
         {
+          "id": "https://3dtotal.jp/?p=55390",
+          "author": "3dtotal管理人T",
+          "description": "はじめに この Part2 では、前回の Part1 から引き続き「形態(フォーム)は機能に従う」という理論を軸に、2Dコンセプトから最終3Dデザインまでの制作プロセスを解説します。Blender での構図検討やプロップ […]\nThe post 2Dのコンセプトから 3Dイメージまで。Blender 使用、SFシーン『Colony』のメイキング Part2 first appeared on 3dtotal 日本語オフィシャルサイト.",
+          "link": "https://3dtotal.jp/tutorials/55390/",
+          "publishedOn": "2026-04-28T07:45:14.000Z",
+          "wordCount": 626,
+          "title": "2Dのコンセプトから 3Dイメージまで。Blender 使用、SFシーン『Colony』のメイキング Part2",
+          "imageUrl": "https://3dtotal.jp/wp-content/uploads/2026/04/t387_01.jpg"
+        },
+        {
           "id": "https://3dtotal.jp/?p=55004",
           "author": "3dtotal管理人T",
           "description": "★Incredibles 3, Elemental, Turning Red Directors Face-Off on The Pixar Show!（16分34秒） 00:00 Welcome to the Pixa […]\nThe post ピクサーの映画制作チームが さまざまなコンテンツを直接お届け！「The Pixar Show」 first appeared on 3dtotal 日本語オフィシャルサイト.",
@@ -3217,21 +3237,6 @@
             "type": "false"
           },
           "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--F3RtYTz4--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%2595%25E3%2582%25A9%25E3%2583%2588%25E3%2582%25B0%25E3%2583%25A9%25E3%2583%25A1%25E3%2583%2588%25E3%2583%25AA%25E6%2595%25B0%25E5%25AD%25A6%25EF%25BD%259C03%25EF%25BC%259A%25E5%2590%258C%25E6%25AC%25A1%25E5%25BA%25A7%25E6%25A8%2599%25E3%2581%25A8%25E3%2581%25AF%25E4%25BD%2595%25E3%2581%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:s_hashida%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2JmNmU5NjMzMTEuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"
-        },
-        {
-          "id": "https://zenn.dev/s_hashida/articles/647ba9aaff2858",
-          "author": "s_hashida",
-          "description": "はじめに\n前回は「カメラとは何か」を簡単に説明しましたが、今回はその中で起きている変換の正体に踏み込みます。\nキーワードは 射影（projection） です。\n\n 射影とは何か\nまず「射影」という言葉をシンプルに捉えると、\n\nある点から特定の方向（直線）に沿って、別の空間へ写す操作\n\nです。\nフォトグラメトリでは、\n\n3D空間の点を画像（2D平面）へ写すこと\n\nを考えます。\n\n 射影のイメージ\n射影のイメージを簡単に書くと下の図のようになります。\n\nこのように、\n\n3D上の点Pと原点Oを結ぶ直線（光線）を取り、平面との交点pを求める\n\nこれが「射影」です。\n射影にはいくつか種類が...",
-          "link": "https://zenn.dev/s_hashida/articles/647ba9aaff2858",
-          "publishedOn": "2026-03-29T21:30:05.000Z",
-          "wordCount": 564,
-          "title": "フォトグラメトリ数学｜02：射影とは何か（透視投影の正体）",
-          "enclosure": {
-            "url": "https://res.cloudinary.com/zenn/image/upload/s--iDKKvTcN--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%2595%25E3%2582%25A9%25E3%2583%2588%25E3%2582%25B0%25E3%2583%25A9%25E3%2583%25A1%25E3%2583%2588%25E3%2583%25AA%25E6%2595%25B0%25E5%25AD%25A6%25EF%25BD%259C02%25EF%25BC%259A%25E5%25B0%2584%25E5%25BD%25B1%25E3%2581%25A8%25E3%2581%25AF%25E4%25BD%2595%25E3%2581%258B%25EF%25BC%2588%25E9%2580%258F%25E8%25A6%2596%25E6%258A%2595%25E5%25BD%25B1%25E3%2581%25AE%25E6%25AD%25A3%25E4%25BD%2593%25EF%25BC%2589%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:s_hashida%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2JmNmU5NjMzMTEuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
-            "length": "0",
-            "type": "false"
-          },
-          "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--iDKKvTcN--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%2595%25E3%2582%25A9%25E3%2583%2588%25E3%2582%25B0%25E3%2583%25A9%25E3%2583%25A1%25E3%2583%2588%25E3%2583%25AA%25E6%2595%25B0%25E5%25AD%25A6%25EF%25BD%259C02%25EF%25BC%259A%25E5%25B0%2584%25E5%25BD%25B1%25E3%2581%25A8%25E3%2581%25AF%25E4%25BD%2595%25E3%2581%258B%25EF%25BC%2588%25E9%2580%258F%25E8%25A6%2596%25E6%258A%2595%25E5%25BD%25B1%25E3%2581%25AE%25E6%25AD%25A3%25E4%25BD%2593%25EF%25BC%2589%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:s_hashida%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2JmNmU5NjMzMTEuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"
         }
       ]
     },
@@ -3591,6 +3596,16 @@
       "feedUrl": "https://qiita.com/tags/hlsl/feed",
       "siteUrl": "https://qiita.com",
       "articles": [
+        {
+          "id": "https://qiita.com/YKVKDX12/items/e70041fb8c5d104dba71",
+          "author": null,
+          "description": "何これ？\n従来の行列演算とは違って、機械学習を使ったニューラルレンダリング関連のアルゴリズム実装をやりやすくなる。\nたしかに、\nたとえば深層学習アルゴリズムを使ってテクスチャのデノイズに、アップスケーリングとフレームレートの向上に成功した云々の論文があるしねぇ・・・\nht...",
+          "link": "https://qiita.com/YKVKDX12/items/e70041fb8c5d104dba71",
+          "publishedOn": "2026-04-28T09:33:37.000Z",
+          "wordCount": 807,
+          "title": "HLSL Shader Model 6.10の新機能  D3D12 Linear Algebra (LinAlg) APIの翻訳をざっくばらんに",
+          "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnBicy50d2ltZy5jb20lMkZwcm9maWxlX2ltYWdlcyUyRjk1NjUzNTU5Mzc3NjgyNDMyMSUyRjZKUkVNZ1BpX25vcm1hbC5qcGc_aXhsaWI9cmItNC4wLjAmYXI9MSUzQTEmZml0PWNyb3AmbWFzaz1lbGxpcHNlJmJnPUZGRkZGRiZmbT1wbmczMiZzPTc4OTRkNzZiYmY1OTRmNDdiNjQ2MTFhNjM3YTY4YWM4%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D1fd3fee01fc794110d3ced74677a6396?ixlib=rb-4.0.0&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9SExTTCUyMFNoYWRlciUyME1vZGVsJTIwNi4xMCVFMyU4MSVBRSVFNiU5NiVCMCVFNiVBOSU5RiVFOCU4MyVCRCUyMCUyMEQzRDEyJTIwTGluZWFyJTIwQWxnZWJyYSUyMCUyOExpbkFsZyUyOSUyMEFQSSVFMyU4MSVBRSVFNyVCRiVCQiVFOCVBOCVCMyVFMyU4MiU5MiVFMyU4MSU5NiVFMyU4MSVBMyVFMyU4MSU4RiVFMyU4MSVCMCVFMyU4MiU4OSVFMyU4MiU5MyVFMyU4MSVBQiZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnR4dC1wYWQ9MCZzPTZlNWFjMzFmYjQ3ZGI1YjAwYjFhZmU5YTczYjA5MWJj&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBZS1ZLRFgxMiZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPTQ5YWQ3ZDRmMjkzZGViNDEzM2I3ZGUzN2U4NzA1NzU5&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=3d45f57111cb2b66f35043dfb480c352"
+        },
         {
           "id": "https://qiita.com/ciDaCa/items/285492ebe3569c7b0a02",
           "author": null,
@@ -4125,6 +4140,16 @@
       "feedUrl": "https://3d.crdg.jp/env/feed/",
       "siteUrl": "https://3d.crdg.jp/env/",
       "articles": [
+        {
+          "id": "https://3d.crdg.jp/env/?p=9458",
+          "author": "Akito.Yamakawa",
+          "description": "今回は、境界をまたいでも途切れない模様にする方法をご紹介します。また、木目以外の角部分の掘り込みについては本記事では扱っていません。制作方法としては、 […]\n続きを読む\n投稿 【ZBrush】境界をまたいでも途切れない模様にする方法 は エンホリ - ENVIRONMENT HOLIC｜C&R Creative Studios に最初に表示されました。",
+          "link": "https://3d.crdg.jp/env/2026/04/28/9458/?utm_source=rss&utm_medium=rss&utm_campaign=%25e3%2580%2590zbrush%25e3%2580%2591%25e5%25a2%2583%25e7%2595%258c%25e3%2582%2592%25e3%2581%25be%25e3%2581%259f%25e3%2581%2584%25e3%2581%25a7%25e3%2582%2582%25e9%2580%2594%25e5%2588%2587%25e3%2582%258c%25e3%2581%25aa%25e3%2581%2584%25e6%25a8%25a1%25e6%25a7%2598%25e3%2581%25ab%25e3%2581%2599%25e3%2582%258b%25e6%2596%25b9",
+          "publishedOn": "2026-04-28T09:41:30.000Z",
+          "wordCount": 3070,
+          "title": "【ZBrush】境界をまたいでも途切れない模様にする方法",
+          "imageUrl": "https://3d.crdg.jp/env/wp-content/uploads/2026/04/サムネイル_テンプレート_260120-のコピー.jpg"
+        },
         {
           "id": "https://3d.crdg.jp/env/?p=9407",
           "author": "Kaho.Nobukawa",

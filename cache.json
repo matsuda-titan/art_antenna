@@ -908,36 +908,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "https://3dnchu.com/wp-content/uploads/360-gaussian-3603d-gaussian-spla.jpg"
-        },
-        {
-          "id": "https://3dnchu.com/?p=1063688",
-          "author": "Ymt3D -3dnchu-",
-          "description": "ミュンヘン工科大学とバージニア大学の研究者らが、 不完全な実世界の3Dスキャンデータの抜けたエリアを再構築する技術アプローチ「Seen2Scene: Completing Realistic 3D Scenes with Visibility-Guided Flow」の情報を公開しました！",
-          "link": "https://3dnchu.com/archives/seen2scene/",
-          "publishedOn": "2026-03-31T20:14:23.000Z",
-          "wordCount": 8891,
-          "title": "Seen2Scene: Completing Realistic 3D Scenes with Visibility-Guided Flow | 不完全な実世界の3Dスキャンデータの抜けたエリアを再構築する新たな技術アプローチ！",
-          "enclosure": {
-            "url": "https://3dnchu.com/wp-content/uploads/seen2scene-completing-realistic.jpg",
-            "length": "39335",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://3dnchu.com/wp-content/uploads/seen2scene-completing-realistic.jpg"
-        },
-        {
-          "id": "https://3dnchu.com/?p=1063694",
-          "author": "Ymt3D -3dnchu-",
-          "description": "2026年5月29日（全米予定）に公開される「バックルーム（Backrooms）」の最新トレーラーが公開されました！",
-          "link": "https://3dnchu.com/archives/backrooms-official-trailer/",
-          "publishedOn": "2026-03-31T20:08:50.000Z",
-          "wordCount": 8826,
-          "title": "Backrooms Official Trailer | 2026年5月29日（全米予定）に公開される実写映画版「バックルーム（Backrooms）」の最新トレーラーが公開！",
-          "enclosure": {
-            "url": "https://3dnchu.com/wp-content/uploads/backrooms-official-trailer-20265.jpg",
-            "length": "44966",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://3dnchu.com/wp-content/uploads/backrooms-official-trailer-20265.jpg"
         }
       ]
     },
@@ -946,6 +916,16 @@
       "feedUrl": "https://cgworld.jp/atom.xml",
       "siteUrl": "https://cgworld.jp/",
       "articles": [
+        {
+          "id": "https://cgworld.jp/special-feature/flowpt-freee-202604.html",
+          "author": null,
+          "description": "「クリエイターの熱量」をいかに最大化し、同時に「赤字リスク」を回避して持続可能な経営を実現するか。マンガボックスの安江亮太氏とダンデライオンアニメーションスタジオの西川和宏氏が登壇。",
+          "link": "https://cgworld.jp/special-feature/flowpt-freee-202604.html",
+          "publishedOn": "2026-04-30T07:45:00.000Z",
+          "wordCount": 616,
+          "title": "【イベントレポート】ダンデライオン西川氏×マンガボックス安江氏が語る「ヒット作を生む組織」――Flow PT×freee連携が見据える、クリエイターファーストなプロジェクト管理 - スペシャルコンテンツ",
+          "imageUrl": "https://cgworld.jp/special-feature/assets_c/2026/04/efe90a1be5415fca90bc033ec7b9be2a6c22c1b4-thumb-1000x563-82608.jpg"
+        },
         {
           "id": "https://cgworld.jp/flashnews/03-2604-griptapenodes.html",
           "author": null,
@@ -3091,21 +3071,6 @@
             "type": "false"
           },
           "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--dSfug7Um--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%255BUE5%255D%2520Chaos%2520Destruction%25E3%2581%25A8PCG%25E3%2582%2592%25E7%25B5%2584%25E3%2581%25BF%25E5%2590%2588%25E3%2582%258F%25E3%2581%259B%25E3%2581%25A6%25E7%2584%25A1%25E9%2599%2590%25E3%2581%25AB%25E7%25A0%25B4%25E5%25A3%258A%25E3%2581%25A7%25E3%2581%258D%25E3%2582%258B%25E3%2582%25B7%25E3%2582%25B9%25E3%2583%2586%25E3%2583%25A0%25E3%2582%2592%25E4%25BD%259C%25E3%2581%25A3%25E3%2581%25A6%25E3%2581%25BF%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Enlin%2520Li%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly96ZW5uLWRldi5naXRodWIuaW8vZGVmYXVsdC1hdmF0YXJzL2Rhcmsvbi5wbmc=%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"
-        },
-        {
-          "id": "https://zenn.dev/s_hashida/articles/255da52f882659",
-          "author": "s_hashida",
-          "description": "はじめに\n前回は「射影（projection）」について説明しました。\n3Dの点がカメラを通して2Dに写る──\nこの「現象」としての理解はいただけたと思います。\nただ、ここで1つ問題があります。\n\n\nこの射影を、どうやって数学として扱うのか？\n\n\n\n今回のテーマはそのための準備となる概念：\n\n同次座標（homogeneous coordinates）\n\nです。\n\n 射影を数式で考えると何が起きるか\n前回の内容で登場した、数式をもう一度振り返ります。\nカメラでは、遠いものほど小さく見えます。\nこれは次のように表現できます：\n\nx = \\frac{X}{Z}, \\quad y = \\f...",
-          "link": "https://zenn.dev/s_hashida/articles/255da52f882659",
-          "publishedOn": "2026-03-31T21:45:05.000Z",
-          "wordCount": 666,
-          "title": "フォトグラメトリ数学｜03：同次座標とは何か",
-          "enclosure": {
-            "url": "https://res.cloudinary.com/zenn/image/upload/s--F3RtYTz4--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%2595%25E3%2582%25A9%25E3%2583%2588%25E3%2582%25B0%25E3%2583%25A9%25E3%2583%25A1%25E3%2583%2588%25E3%2583%25AA%25E6%2595%25B0%25E5%25AD%25A6%25EF%25BD%259C03%25EF%25BC%259A%25E5%2590%258C%25E6%25AC%25A1%25E5%25BA%25A7%25E6%25A8%2599%25E3%2581%25A8%25E3%2581%25AF%25E4%25BD%2595%25E3%2581%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:s_hashida%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2JmNmU5NjMzMTEuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
-            "length": "0",
-            "type": "false"
-          },
-          "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--F3RtYTz4--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%2595%25E3%2582%25A9%25E3%2583%2588%25E3%2582%25B0%25E3%2583%25A9%25E3%2583%25A1%25E3%2583%2588%25E3%2583%25AA%25E6%2595%25B0%25E5%25AD%25A6%25EF%25BD%259C03%25EF%25BC%259A%25E5%2590%258C%25E6%25AC%25A1%25E5%25BA%25A7%25E6%25A8%2599%25E3%2581%25A8%25E3%2581%25AF%25E4%25BD%2595%25E3%2581%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:s_hashida%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2JmNmU5NjMzMTEuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"
         }
       ]
     },
@@ -4060,6 +4025,16 @@
       "feedUrl": "https://cginterest.com/feed/",
       "siteUrl": "https://cginterest.com",
       "articles": [
+        {
+          "id": "https://cginterest.com/?p=58484",
+          "author": ".me",
+          "description": "2026年4月30日（現地時間）- Adobe は、画像編集ソフトウェアAdobe Photoshopおよび写真編集・管理ツールAdobe Lightroomの最新アップデート、ならびに独自のクリエイティブAIエージェン […]\nAdobe、独自のクリエイティブAIエージェントを搭載した「Adobe Firefly AIアシスタント」パブリックベータ版をリリース first appeared on CGinterest.",
+          "link": "https://cginterest.com/2026/04/30/adobe%e3%80%81%e7%8b%ac%e8%87%aa%e3%81%ae%e3%82%af%e3%83%aa%e3%82%a8%e3%82%a4%e3%83%86%e3%82%a3%e3%83%96ai%e3%82%a8%e3%83%bc%e3%82%b8%e3%82%a7%e3%83%b3%e3%83%88%e3%82%92%e6%90%ad%e8%bc%89%e3%81%97/",
+          "publishedOn": "2026-04-30T07:54:30.000Z",
+          "wordCount": 29203,
+          "title": "Adobe、独自のクリエイティブAIエージェントを搭載した「Adobe Firefly AIアシスタント」パブリックベータ版をリリース",
+          "imageUrl": "https://cginterest.com/wp-content/uploads/2026/04/adobe-ai-assistant-publicbeta.webp"
+        },
         {
           "id": "https://cginterest.com/?p=58346",
           "author": ".me",

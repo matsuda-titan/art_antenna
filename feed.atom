@@ -2,10 +2,101 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-04-29T13:21:19.054Z</updated>
+    <updated>2026-04-30T01:58:32.635Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[vol.006：チュートリアルエリアも設定したレベルデザイン！「Grimoire」 - 連載]]></title>
+        <id>https://cgworld.jp/regular/202604-portfolio-06.html</id>
+        <link href="https://cgworld.jp/regular/202604-portfolio-06.html"/>
+        <updated>2026-04-30T01:25:00.000Z</updated>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[第12回 後編：ワコムが磨き続ける「描く体験」と開発の思想 - 連載]]></title>
+        <id>https://cgworld.jp/regular/202604-chiyama-t-12-2.html</id>
+        <link href="https://cgworld.jp/regular/202604-chiyama-t-12-2.html"/>
+        <updated>2026-04-30T01:00:00.000Z</updated>
+        <summary type="html"><![CDATA[本連載では、CG映像制作におけるテクニカル系スタッフの仕事の現状と課題を、パイプライン開発の専門家である痴山紘史氏（日本CGサービス（JCGS）代表）が探っていく。第12回では、ペンタブレットで世界的に知られるワコムを取材。後編では、製品企画と技術開発のすり合わせの実態や、「利用時品質」という独自の評価軸、そしてペンを核にハードウェアとソフトウェアを横断して体験を設計していく開発思想に焦点を当てる。ワコムが「描く体験」をいかに構想し、実装しているのか、その舞台裏に迫る。]]></summary>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Arnold公式、Mayaのトゥーンシェーダを用いたレンダリングのチュートリアル動画を公開　プラモの取扱説明書に掲載されているようなNPRルックを実現 - ニュース]]></title>
+        <id>https://cgworld.jp/flashnews/01-202604-Arnold-Toon.html</id>
+        <link href="https://cgworld.jp/flashnews/01-202604-Arnold-Toon.html"/>
+        <updated>2026-04-29T23:37:23.000Z</updated>
+        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[フォトグラメトリ数学｜14：Levenberg–Marquardt法とは何か]]></title>
+        <id>https://zenn.dev/s_hashida/articles/bbd0b6f2e6d443</id>
+        <link href="https://zenn.dev/s_hashida/articles/bbd0b6f2e6d443"/>
+        <updated>2026-04-29T22:05:05.000Z</updated>
+        <summary type="html"><![CDATA[はじめに
+前回は、Bundle Adjustmentを
+
+\min_\theta \| \mathbf{r}(\theta) \|^2
+
+という形に整理し、
+さらに
+
+線形化
+Gauss-Newton法
+
+によって、
+
+(J^T J)\,\Delta \theta = - J^T \mathbf{r}
+
+を解くことで、
+「最もよい一歩」 を求める方法を見ました。
+
+しかし、この方法には問題があります。
+
+
+ Gauss-Newtonの限界
+Gauss-Newton法は、
+
+近似が正しい前提で動く
+
+方法でした。
+
+つまり、
+
+\mathbf{r}(\theta + \Delta \...]]></summary>
+        <author>
+            <name>s_hashida</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HoudiniでGISを扱う-GISから下北沢の街を再現してみた(Blender編)]]></title>
+        <id>https://note.com/sm_i_o/n/n4cb9c975da87</id>
+        <link href="https://note.com/sm_i_o/n/n4cb9c975da87"/>
+        <updated>2026-04-29T20:57:51.000Z</updated>
+        <summary type="html"><![CDATA[前回は、国土交通省が主導している地形データサイトPLATEAUから地形データをダウンロードするところまでを説明しました
+
+続きをみる]]></summary>
+        <author>
+            <name>#Houdiniタグ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ZibraGDS Open Beta | 巨大なジオメトリデータのシーケンスを超高速＆軽量再生させる為のUnreal Engine 5向けプラグイン！無料のオープンベータが公開！]]></title>
+        <id>https://3dnchu.com/?p=1064540</id>
+        <link href="https://3dnchu.com/archives/zibragds-open-beta/"/>
+        <updated>2026-04-29T16:49:07.000Z</updated>
+        <summary type="html"><![CDATA[ZibraAIが少し前に発表した「ZibraGDS」のオープンベータ版を公開しました！巨大なジオメトリデータのシーケンスを超高速＆軽量再生させる為のUnreal Engine 5向けプラグインです！]]></summary>
+        <author>
+            <name>Ymt3D -3dnchu-</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2026年4月発売のCG関連書籍をチェック！]]></title>
         <id>https://cginterest.com/?p=57118</id>
@@ -4732,17 +4823,6 @@ The post Theme Property Finder – Blenderのテーマ設定をキーワード�
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Animates Free Selects and Retimer｜Graph Editorのキーフレーム操作を高速化できるBlender無料アドオン]]></title>
-        <id>https://modelinghappy.com/?p=67849</id>
-        <link href="https://modelinghappy.com/archives/67849"/>
-        <updated>2026-03-31T13:36:20.000Z</updated>
-        <summary type="html"><![CDATA[Animates Free Selects And Retimer Animates Free Selects and Retimerは、Blenderでアニメーション編集を行う際のキーフレーム操作を効率化できる無料アド
-The post Animates Free Selects and Retimer｜Graph Editorのキーフレーム操作を高速化できるBlender無料アドオン first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
-        <author>
-            <name>modelinghappy</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Boris FX 新体制での初リリース「Vegas Pro 2026」がリリース！Continuum タイトルパックの標準搭載、Z-Depth 2.0、AI音声機能の追加など]]></title>
         <id>https://cginterest.com/?p=57219</id>
         <link href="https://cginterest.com/2026/03/31/boris-fx-%e6%96%b0%e4%bd%93%e5%88%b6%e3%81%a7%e3%81%ae%e5%88%9d%e3%83%aa%e3%83%aa%e3%83%bc%e3%82%b9%e3%80%8cvegas-pro-2026%e3%80%8d%e3%81%8c%e3%83%aa%e3%83%aa%e3%83%bc%e3%82%b9%ef%bc%81continuum/"/>
@@ -4751,37 +4831,6 @@ The post Animates Free Selects and Retimer｜Graph Editorのキーフレーム�
 Boris FX 新体制での初リリース「Vegas Pro 2026」がリリース！Continuum タイトルパックの標準搭載、Z-Depth 2.0、AI音声機能の追加など first appeared on CGinterest.]]></summary>
         <author>
             <name>.me</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CG制作の裏側｜『果てしなきスカーレット』若手クリエイターインタビュー① モデリングからライティングまで初挑戦]]></title>
-        <id>https://note.com/dftalk/n/n775f28a3f53f</id>
-        <link href="https://note.com/dftalk/n/n775f28a3f53f"/>
-        <updated>2026-03-31T10:00:08.000Z</updated>
-        <summary type="html"><![CDATA[細田守監督作品『果てしなきスカーレット』では、《死者の国》のパートを中心にデジタル・フロンティアがCG制作を担当しています。
-続きをみる]]></summary>
-        <author>
-            <name>DF TALK</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KiraStudio 1.0 | 軽量動作するクロスプラットフォーム対応の音楽制作ソフト！Win＆Mac＆iOS＆Android！Win版は無料！]]></title>
-        <id>https://3dnchu.com/?p=1063336</id>
-        <link href="https://3dnchu.com/archives/kirastudio-1-0/"/>
-        <updated>2026-03-31T09:29:43.000Z</updated>
-        <summary type="html"><![CDATA[FamiStudioなどの開発者であるBleuBleu氏による、軽量動作する音楽制作ソフト「KiraStudio 1.0」のご紹介！クロスプラットフォーム対応で、Windows＆MacOS＆iOS＆Androidと幅広く対応しています！]]></summary>
-        <author>
-            <name>Ymt3D -3dnchu-</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【セミナーレポート】プログラミング初心者でもできる！Unityで実践する産業DX ― 3時間で作るハンズフリーARドキュメント - スペシャルコンテンツ]]></title>
-        <id>https://cgworld.jp/special-feature/2603-kddi-unity.html</id>
-        <link href="https://cgworld.jp/special-feature/2603-kddi-unity.html"/>
-        <updated>2026-03-31T09:00:00.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
         </author>
     </entry>
     <entry>
@@ -4796,65 +4845,6 @@ Boris FX 新体制での初リリース「Vegas Pro 2026」がリリース！Con
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[モデリング、リギング、シミュレーション..。CG のキャラクターアセットができるまで]]></title>
-        <id>https://3dtotal.jp/?p=55156</id>
-        <link href="https://3dtotal.jp/news/55156/"/>
-        <updated>2026-03-31T07:21:12.000Z</updated>
-        <summary type="html"><![CDATA[★MPC - Steps to create an asset（34秒） SideFX のカンファレンス「Workflow In and Around Houdini: Beyond the Interface」（パリ、 […]
-The post モデリング、リギング、シミュレーション..。CG のキャラクターアセットができるまで first appeared on 3dtotal 日本語オフィシャルサイト.]]></summary>
-        <author>
-            <name>3dtotal管理人T</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[小説をもとに ナラティブに 表現：『Rats on the Loose』のメイキング]]></title>
-        <id>https://3dtotal.jp/?p=55163</id>
-        <link href="https://3dtotal.jp/tutorials/55163/"/>
-        <updated>2026-03-31T07:20:51.000Z</updated>
-        <summary type="html"><![CDATA[▼ フラッシュフィクション（超短編小説） 　 ネズミたちが飼育されている その部屋は、まばゆい光に包まれていた。天井の細長いライトが室内を照らし、壁に埋め込まれた ガラスのケージ一つひとつから、保温ランプの温かい光が漏れ […]
-The post 小説をもとに ナラティブに 表現：『Rats on the Loose』のメイキング first appeared on 3dtotal 日本語オフィシャルサイト.]]></summary>
-        <author>
-            <name>3dtotal管理人T</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CG業界の残酷なリアル。エンドロールの人数を数えてわかった雇用と人気のギャップ | カナダ・モントリオール在住の3DCGアニメーター Hoshi 氏がエンドクレジットからCG業界の職種需要などについて紹介する動画を公開！]]></title>
-        <id>https://3dnchu.com/?p=1063633</id>
-        <link href="https://3dnchu.com/archives/the-harsh-reality-of-the-cg-industry-hoshi/"/>
-        <updated>2026-03-31T06:19:48.000Z</updated>
-        <summary type="html"><![CDATA[カナダ・モントリオール在住の3DCGアニメーター Hoshi 氏が自身のYoutubeチャンネル「アニメーターのホシ」にて「CG業界の残酷なリアル。エンドロールの人数を数えてわかった雇用と人気のギャップ」という動画を公開しました！]]></summary>
-        <author>
-            <name>Ymt3D -3dnchu-</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenUSD を学んでいく(その0) Omniverse で表示環境構築]]></title>
-        <id>https://zenn.dev/regonn/articles/open-usd-000</id>
-        <link href="https://zenn.dev/regonn/articles/open-usd-000"/>
-        <updated>2026-03-31T06:10:24.000Z</updated>
-        <summary type="html"><![CDATA[NVIDIAが最近推している OpenUSD を勉強していこうと思います。
-NVIDIA が公式で資格だったり、教材を扱っているので、それを見ながらやっていきます。
-https://www.nvidia.com/en-us/learn/certification/openusd-development-professional/
-https://github.com/NVIDIA-Omniverse/LearnOpenUSD
-
- この記事でやること
-最初に、OpenUSD を触っていくにあたって、実際にPython API だったりで触れる環境を作っていきたいので、Omniverse を...]]></summary>
-        <author>
-            <name>regonn</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Camera Tracker 5 – トラッキング速度最大5倍！静止カメラ映像にも対応したBlender用トラッキングアドオンがアップデート！]]></title>
-        <id>https://modelinghappy.com/?p=67840</id>
-        <link href="https://modelinghappy.com/archives/67840"/>
-        <updated>2026-03-31T05:45:38.000Z</updated>
-        <summary type="html"><![CDATA[Camera Tracker 5 (New Update!) Camera Trackerは、Blenderで実写動画のカメラ動きを1クリックで自動解析して3Dシーンに再現できるアドオンですが、バージョン5では性能・対応
-The post Camera Tracker 5 – トラッキング速度最大5倍！静止カメラ映像にも対応したBlender用トラッキングアドオンがアップデート！ first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
-        <author>
-            <name>modelinghappy</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Adobe Illustrator 2026年3月アップデート！2Dオブジェクトを立体的に回転できる「ターンテーブル」機能が正式実装！]]></title>
         <id>https://cginterest.com/?p=57187</id>
         <link href="https://cginterest.com/2026/03/31/adobe-illustrator-2026%e5%b9%b43%e6%9c%88%e3%82%a2%e3%83%83%e3%83%97%e3%83%87%e3%83%bc%e3%83%88%ef%bc%812d%e3%82%aa%e3%83%96%e3%82%b8%e3%82%a7%e3%82%af%e3%83%88%e3%82%92%e7%ab%8b%e4%bd%93%e7%9a%84/"/>
@@ -4863,108 +4853,6 @@ The post Camera Tracker 5 – トラッキング速度最大5倍！静止カメ�
 Adobe Illustrator 2026年3月アップデート！2Dオブジェクトを立体的に回転できる「ターンテーブル」機能が正式実装！ first appeared on CGinterest.]]></summary>
         <author>
             <name>.me</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TRELLIS.2 – 画像1枚から3Dモデルを生成出来るMicrosoftのAI研究プロジェクトが公開]]></title>
-        <id>https://modelinghappy.com/?p=67833</id>
-        <link href="https://modelinghappy.com/archives/67833"/>
-        <updated>2026-03-31T05:25:37.000Z</updated>
-        <summary type="html"><![CDATA[TRELLIS.2 TRELLIS.2は、Microsoftが公開した画像から3Dモデルを生成できるAI研究プロジェクトです。 1枚の画像を入力するだけで、メッシュ形状とテクスチャを持った3Dモデルを自動生成できるのが特
-The post TRELLIS.2 – 画像1枚から3Dモデルを生成出来るMicrosoftのAI研究プロジェクトが公開 first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
-        <author>
-            <name>modelinghappy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ピクサーのクリエーターたちが語る『ウィン OR ルーズ』ハウスパーティーのシーン]]></title>
-        <id>https://3dtotal.jp/?p=55135</id>
-        <link href="https://3dtotal.jp/news/55135/"/>
-        <updated>2026-03-31T04:52:43.000Z</updated>
-        <summary type="html"><![CDATA[★Pixar's Set the Scene: Win or Lose Creators Break Down House Party Scene（9分28秒） ピクサー の『ウィン OR ルーズ』の脚本・監督を務める  […]
-The post ピクサーのクリエーターたちが語る『ウィン OR ルーズ』ハウスパーティーのシーン first appeared on 3dtotal 日本語オフィシャルサイト.]]></summary>
-        <author>
-            <name>3dtotal管理人T</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[襲い来るデモゴルゴン！ ILM より『ストレンジャー・シングス 未知の世界 5』のメイキング映像]]></title>
-        <id>https://3dtotal.jp/?p=55151</id>
-        <link href="https://3dtotal.jp/news/55151/"/>
-        <updated>2026-03-31T04:51:16.000Z</updated>
-        <summary type="html"><![CDATA[★Behind the Magic | Stranger Things | Demogorgons（1分59秒） 『ストレンジャー・シングス 未知の世界 5』の デモゴルゴン制作の舞台裏、ILM の魔法に迫ります。（yo […]
-The post 襲い来るデモゴルゴン！ ILM より『ストレンジャー・シングス 未知の世界 5』のメイキング映像 first appeared on 3dtotal 日本語オフィシャルサイト.]]></summary>
-        <author>
-            <name>3dtotal管理人T</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[なぜフランスから世界トップクラスのCGアーティストが生まれるのか ~ESMAに見るフランスCG教育の現在形と、それを支える産業エコシステム~ - 特集]]></title>
-        <id>https://cgworld.jp/article/franceCG-ESMA.html</id>
-        <link href="https://cgworld.jp/article/franceCG-ESMA.html"/>
-        <updated>2026-03-31T04:25:43.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FlippedNormals Marketplace Closing Down | オンラインプラットフォーム「FlippedNormals」のマーケットプレイス機能が閉鎖！3月31日に運営終了！現在最終セール中！ダウンロードは4月30日まで！]]></title>
-        <id>https://3dnchu.com/?p=1063630</id>
-        <link href="https://3dnchu.com/archives/flippednormals-marketplace-closing-down/"/>
-        <updated>2026-03-31T04:08:04.000Z</updated>
-        <summary type="html"><![CDATA[3Dアセットやチュートリアルを扱うプラットフォーム「FlippedNormals」が、2026年3月31日をもってマーケットプレイス機能を終了します！現在最終セールを実施中！]]></summary>
-        <author>
-            <name>Ymt3D -3dnchu-</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[手付けか？　モーションキャプチャーか？　 taka v3氏がBlender個人制作で見出したmocopiの実力と活用法 - スペシャルコンテンツ]]></title>
-        <id>https://cgworld.jp/special-feature/202603-mocopi-takav3.html</id>
-        <link href="https://cgworld.jp/special-feature/202603-mocopi-takav3.html"/>
-        <updated>2026-03-31T03:45:00.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[100台を超えるライトで構成される、TBSの照明演出 クリエイター向けノートPC「DAIV」×Vectorworks Spotlight Showcaseの活用事例 - スペシャルコンテンツ]]></title>
-        <id>https://cgworld.jp/special-feature/2603-tbs-mouse-daiv.html</id>
-        <link href="https://cgworld.jp/special-feature/2603-tbs-mouse-daiv.html"/>
-        <updated>2026-03-31T03:10:00.000Z</updated>
-        <summary type="html"><![CDATA[TBSアクトのスタジオ照明部が、Vectorworks Spotlight Showcaseを活用したプリビズ導入事例を解説。100台超の照明演出を支えるワークフローと、クリエイター向けノートPC「DAIV」の導入効果に迫る。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[vol.005：Unreal EngineとAdobe Frescoによる水彩画表現！「まちかどdays」 - 連載]]></title>
-        <id>https://cgworld.jp/regular/202603-portfolio-05.html</id>
-        <link href="https://cgworld.jp/regular/202603-portfolio-05.html"/>
-        <updated>2026-03-31T03:08:00.000Z</updated>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【アドオン紹介】Easy Mat Blend – オブジェクトの距離に応じてマテリアルを自動ブレンド]]></title>
-        <id>https://cgbox.jp/?p=65193</id>
-        <link href="https://cgbox.jp/2026/03/31/news-addon-easy-mat-blend/"/>
-        <updated>2026-03-31T02:22:20.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは！ 今回はアドオンの「Easy Mat Blend」を紹介します。 こちらのリンクがアドオンの商品ページになります。 Easy Mat Blend 「Easy Mat Blend」は、オブジェクトの距離に応じて […]]]></summary>
-        <author>
-            <name>kasahara</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[4/12（日）東京にて開催！ 「出張版！VRCくりえいてぃ部2」出展サークル＆企業一覧公開！ - ニュース]]></title>
-        <id>https://cgworld.jp/flashnews/02-2603-412-vrc2.html</id>
-        <link href="https://cgworld.jp/flashnews/02-2603-412-vrc2.html"/>
-        <updated>2026-03-31T01:26:46.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
         </author>
     </entry>
 </feed>

@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-05-02T08:56:43.539Z</updated>
+    <updated>2026-05-02T12:44:51.320Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【完全ガイド】iPadで本格3Dペイント！新アプリ「Wafer」実践チュートリアル]]></title>
+        <id>https://note.com/ipadde3d/n/n4a6abd5a0d0d</id>
+        <link href="https://note.com/ipadde3d/n/n4a6abd5a0d0d"/>
+        <updated>2026-05-02T12:26:52.000Z</updated>
+        <summary type="html"><![CDATA[iPad 3Dペイントの最適解「Wafer」
+iPadで手軽に、かつ本格的な3Dテクスチャペイントができるツール「Wafer」をご存知でしょうか？
+続きをみる]]></summary>
+        <author>
+            <name>#substancepainterタグ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[岩やプロップの接地を自然に！Maya用ブレンドツール「Mesh Blend」]]></title>
         <id>https://modelinghappy.com/?p=68410</id>
@@ -4601,105 +4613,6 @@ The post ジェームズ・ガン監督が贈る 新生DCユニバース最新�
         <summary type="html"><![CDATA[SPI活躍する、古屋隆介氏の海外就業ストーリー。]]></summary>
         <author>
             <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Maya HLSL] トゥーンシェーダのアウトラインをカスタマイズする]]></title>
-        <id>https://zenn.dev/reality_tech/articles/1aa89eddbbcf71</id>
-        <link href="https://zenn.dev/reality_tech/articles/1aa89eddbbcf71"/>
-        <updated>2026-04-03T00:00:16.000Z</updated>
-        <summary type="html"><![CDATA[Maya でアウトライン付きのトゥーンシェーダを書く機会があり、MayaToonOutlineShader を参考にして独自のアウトラインを実装しました。この記事ではその実装、特に頂点カラーを使ってアウトラインの太さや深度オフセットをアーティストが頂点ごと個別に制御できる仕組みについて説明します。
-
- 1. Maya DirectX シェーダの前提知識
-Maya の Viewport 2.0 は DirectX 11 ベースのレンダリングパイプラインを持っており、.fx 形式のシェーダファイルを読み込むことができます。シェーダ内に書いたアノテーション（string UIGroup、str...]]></summary>
-        <author>
-            <name>Iguchi [REALITY]</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Maya HLSL] トゥーンシェーダのアウトラインをカスタマイズする]]></title>
-        <id>https://zenn.dev/reality_tech/articles/1aa89eddbbcf71</id>
-        <link href="https://zenn.dev/reality_tech/articles/1aa89eddbbcf71"/>
-        <updated>2026-04-03T00:00:16.000Z</updated>
-        <summary type="html"><![CDATA[Maya でアウトライン付きのトゥーンシェーダを書く機会があり、MayaToonOutlineShader を参考にして独自のアウトラインを実装しました。この記事ではその実装、特に頂点カラーを使ってアウトラインの太さや深度オフセットをアーティストが頂点ごと個別に制御できる仕組みについて説明します。
-
- 1. Maya DirectX シェーダの前提知識
-Maya の Viewport 2.0 は DirectX 11 ベースのレンダリングパイプラインを持っており、.fx 形式のシェーダファイルを読み込むことができます。シェーダ内に書いたアノテーション（string UIGroup、str...]]></summary>
-        <author>
-            <name>Iguchi [REALITY]</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Maya HLSL] トゥーンシェーダのアウトラインをカスタマイズする]]></title>
-        <id>https://zenn.dev/reality_tech/articles/1aa89eddbbcf71</id>
-        <link href="https://zenn.dev/reality_tech/articles/1aa89eddbbcf71"/>
-        <updated>2026-04-03T00:00:16.000Z</updated>
-        <summary type="html"><![CDATA[Maya でアウトライン付きのトゥーンシェーダを書く機会があり、MayaToonOutlineShader を参考にして独自のアウトラインを実装しました。この記事ではその実装、特に頂点カラーを使ってアウトラインの太さや深度オフセットをアーティストが頂点ごと個別に制御できる仕組みについて説明します。
-
- 1. Maya DirectX シェーダの前提知識
-Maya の Viewport 2.0 は DirectX 11 ベースのレンダリングパイプラインを持っており、.fx 形式のシェーダファイルを読み込むことができます。シェーダ内に書いたアノテーション（string UIGroup、str...]]></summary>
-        <author>
-            <name>Iguchi [REALITY]</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[オープンソースのAviutl2プラグイン「SAM3 BB/GB Generator」リリース！ SAM 3を活用し、クリックするだけで動画から簡単にオブジェクトを切り抜き - ニュース]]></title>
-        <id>https://cgworld.jp/flashnews/01-202604-SAM3BBGBGen.html</id>
-        <link href="https://cgworld.jp/flashnews/01-202604-SAM3BBGBGen.html"/>
-        <updated>2026-04-02T23:14:13.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[UNIGINE SDK 2.21 がリリース！新アニメーションシステムやAI対応ワークフローを搭載など]]></title>
-        <id>https://cginterest.com/?p=57280</id>
-        <link href="https://cginterest.com/2026/04/03/unigine-sdk-2-21-%e3%81%8c%e3%83%aa%e3%83%aa%e3%83%bc%e3%82%b9%ef%bc%81%e6%96%b0%e3%82%a2%e3%83%8b%e3%83%a1%e3%83%bc%e3%82%b7%e3%83%a7%e3%83%b3%e3%82%b7%e3%82%b9%e3%83%86%e3%83%a0%e3%82%84ai%e5%af%be/"/>
-        <updated>2026-04-02T22:19:00.000Z</updated>
-        <summary type="html"><![CDATA[2026年3月30日(現地時間)- UNIGINEは、リアルタイム3Dアプリケーション開発環境の最新バージョンである「UNIGINE SDK 2.21」をリリースしました。 このバージョンでは、ノードベースの新しいアニメ […]
-UNIGINE SDK 2.21 がリリース！新アニメーションシステムやAI対応ワークフローを搭載など first appeared on CGinterest.]]></summary>
-        <author>
-            <name>.me</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[フォトグラメトリ数学｜04：カメラ行列とは何か]]></title>
-        <id>https://zenn.dev/s_hashida/articles/4bf1ae353a09f5</id>
-        <link href="https://zenn.dev/s_hashida/articles/4bf1ae353a09f5"/>
-        <updated>2026-04-02T21:45:05.000Z</updated>
-        <summary type="html"><![CDATA[はじめに
-これまでの流れを簡単に振り返ります。
-
-01 カメラとは何か（モデル）
-02 射影とは何か（3D→2Dの現象）
-03 同次座標（扱いやすくする道具）
-
-ここまでで、
-
-「3Dの点が2Dに写る仕組み」
-
-は理解いただけたと思います。
-
-ただ、まだ一つ問題が残っています。
-
-それを「どう計算するのか？」
-
-今回のテーマはここです。
-
- これまでの式
-射影の関係は、次のように表現できました。
-
-x = f \frac{X}{Z}, \quad y = f \frac{Y}{Z}
-
-これは直感的には分かりやすいですが、
-
-「Z」 で割っている（非線形）
-行列でまとめにくい
-
-とい...]]></summary>
-        <author>
-            <name>s_hashida</name>
         </author>
     </entry>
 </feed>

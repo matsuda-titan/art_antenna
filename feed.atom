@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-05-01T12:54:33.153Z</updated>
+    <updated>2026-05-02T01:49:13.611Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[キャラモデラーに向けたMayaで仕上げる3Dキャラモデリング講座レビュー｜中級者~のレベルアップに最適な内容でした！]]></title>
+        <id>https://modelinghappy.com/?p=68134</id>
+        <link href="https://modelinghappy.com/archives/68134"/>
+        <updated>2026-05-01T23:35:49.000Z</updated>
+        <summary type="html"><![CDATA[キャラモデラーに向けたMayaで仕上げる3Dキャラモデリング講座 世界中の様々なトップクリエイターが3DCG、イラスト、動画編集などの専門分野で勉強出来るColosoのサイトで、3Dモデラーのコルドロン3DさんがMaya
+The post キャラモデラーに向けたMayaで仕上げる3Dキャラモデリング講座レビュー｜中級者~のレベルアップに最適な内容でした！ first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
+        <author>
+            <name>modelinghappy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[技術更新プロジェクト2026(BG編)]]></title>
+        <id>https://note.com/oja_bitterlife/n/n415347d36531</id>
+        <link href="https://note.com/oja_bitterlife/n/n415347d36531"/>
+        <updated>2026-05-01T15:55:22.000Z</updated>
+        <summary type="html"><![CDATA[そうだ、キャラクタを３Dで作るのをやめよう
+続きをみる]]></summary>
+        <author>
+            <name>#Houdiniタグ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ShaderShift: Engine Shader Overrides | エンジン未改造でシェーダー（Tonemapper＆DiffuseBRDF＆SpecularBRDF＆Bloom）を切り替えたり独自のカスタムを施す事が可能なUnreal Engineプラグイン！]]></title>
         <id>https://3dnchu.com/?p=1064474</id>
@@ -4658,57 +4680,6 @@ x = f \frac{X}{Z}, \quad y = f \frac{Y}{Z}
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Nyanneco Quad Divide – 四角ポリゴンを維持したまま3-1・4-2・5-3分割ができるBlender用無料アドオン]]></title>
-        <id>https://modelinghappy.com/?p=67877</id>
-        <link href="https://modelinghappy.com/archives/67877"/>
-        <updated>2026-04-02T10:57:09.000Z</updated>
-        <summary type="html"><![CDATA[ポリゴン割り支援アドオン「Nyanneco Quad Divide」 Nyanneco Quad Divideは、にゃんねこさんが作成した、Blenderで四角ポリゴンを維持したままトポロジーの流れを 3-1（1-3）・
-The post Nyanneco Quad Divide – 四角ポリゴンを維持したまま3-1・4-2・5-3分割ができるBlender用無料アドオン first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
-        <author>
-            <name>modelinghappy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CG制作の裏側｜『果てしなきスカーレット』若手クリエイターインタビュー③ 新卒2ヶ月で主役シーンを担当したアニメーター]]></title>
-        <id>https://note.com/dftalk/n/nb26222381efb</id>
-        <link href="https://note.com/dftalk/n/nb26222381efb"/>
-        <updated>2026-04-02T10:00:59.000Z</updated>
-        <summary type="html"><![CDATA[細田守監督作品『果てしなきスカーレット』では、《死者の国》の世界を中心にデジタル・フロンティアがCG制作を担当しています。
-続きをみる]]></summary>
-        <author>
-            <name>DF TALK</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[UE][Houdini][Tool] RegexActorSelector]]></title>
-        <id>https://zenn.dev/kickbase/articles/50877940269bc5</id>
-        <link href="https://zenn.dev/kickbase/articles/50877940269bc5"/>
-        <updated>2026-04-02T10:00:06.000Z</updated>
-        <summary type="html"><![CDATA[UnrealEngineのスクリーンショット
-Unreal Engine（以下 UE）で Houdini Engine for Unreal を使用している時、もっと楽にHDAにアクターを渡してえと思うことがありませんか。僕はあります。
-そこでOutlinerラベルを正規表現フィルタし、Houdini Engineの入力へ渡すツールがあると便利そうですね。
-というわけで作りました。
-本記事ではエディタ専用 AActor（C++） ARegexActorSelector の概要と、ヘッダ・ソースの全文とその解説をまとめます。
-
-
- どんな課題を解決するか
-
-HDAの入力コストを削減するの...]]></summary>
-        <author>
-            <name>めんたいこ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Plasticity Bridge for Cinema 4D v1.0 | Cinema 4DとPlasticityを連携！リアルタイムライブリンクなども可能なブリッジプラグイン！Github上で公開！]]></title>
-        <id>https://3dnchu.com/?p=1063711</id>
-        <link href="https://3dnchu.com/archives/plasticity-bridge-for-cinema-4d-v1-0/"/>
-        <updated>2026-04-02T08:22:42.000Z</updated>
-        <summary type="html"><![CDATA[Nursultan Akim氏がCinema 4DとPlasticityを連携する為のブリッジプラグイン「Plasticity Bridge for Cinema 4D」をGithub上で無料公開しています！]]></summary>
-        <author>
-            <name>Ymt3D -3dnchu-</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【iPad＆Windows対応】NPRや手書き風のアセット制作向けの3Dテクスチャペイントソフトウェア「Wafer」]]></title>
         <id>https://cginterest.com/?p=56446</id>
         <link href="https://cginterest.com/2026/04/02/%e3%80%90ipad%ef%bc%86windows%e5%af%be%e5%bf%9c%e3%80%91npr%e3%82%84%e6%89%8b%e6%9b%b8%e3%81%8d%e9%a2%a8%e3%81%ae%e3%82%a2%e3%82%bb%e3%83%83%e3%83%88%e5%88%b6%e4%bd%9c%e5%90%91%e3%81%91%e3%81%ae3d/"/>
@@ -4717,55 +4688,6 @@ HDAの入力コストを削減するの...]]></summary>
 【iPad＆Windows対応】NPRや手書き風のアセット制作向けの3Dテクスチャペイントソフトウェア「Wafer」 first appeared on CGinterest.]]></summary>
         <author>
             <name>.me</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AIMSより初のフルAIタレント「NEU（ニウ）」デビュー。身体拡張パーツを身につけたスニーカー好きのAIヒューマン - ニュース]]></title>
-        <id>https://cgworld.jp/flashnews/02-2604-neu.html</id>
-        <link href="https://cgworld.jp/flashnews/02-2604-neu.html"/>
-        <updated>2026-04-02T03:26:18.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【無料アドオン紹介】Bezier Curve Editor – 自作のベジェカーブを適用！]]></title>
-        <id>https://cgbox.jp/?p=65204</id>
-        <link href="https://cgbox.jp/2026/04/02/news-addon-bezier-curve-editor/"/>
-        <updated>2026-04-02T03:00:08.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは！ 今回はアドオンの「Bezier Curve Editor 」を紹介します。 こちらのリンクがアドオンの商品ページになります。 Bezier Curve Editor 「Bezier Curve Editor […]]]></summary>
-        <author>
-            <name>kasahara</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[第1回：UMGを始めよう - 連載]]></title>
-        <id>https://cgworld.jp/regular/202604-ueui-01.html</id>
-        <link href="https://cgworld.jp/regular/202604-ueui-01.html"/>
-        <updated>2026-04-02T02:31:00.000Z</updated>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[VRChat向けのカメラシステム「OmniVisionSystem」リリース！ VRChatワールド内の360°空間を記録・再生 - ニュース]]></title>
-        <id>https://cgworld.jp/flashnews/01-202604-OmniVisionSystem.html</id>
-        <link href="https://cgworld.jp/flashnews/01-202604-OmniVisionSystem.html"/>
-        <updated>2026-04-02T01:07:53.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[第6回 ロケットスタジオ 後編：リーダー塾が育てる、100人組織の当事者意識 - 連載]]></title>
-        <id>https://cgworld.jp/regular/202604-manabi6-2.html</id>
-        <link href="https://cgworld.jp/regular/202604-manabi6-2.html"/>
-        <updated>2026-04-02T01:00:00.000Z</updated>
-        <summary type="html"><![CDATA[組織が成長するとき、チームを支えるリーダー層はどのように育っていくのか。各社の教育・研修の取り組みに迫る連載企画、第6回はロケットスタジオを取り上げる。後編では、リーダー向けに実施されている「リーダー塾」と、その学びを通して生まれつつある組織の変化に焦点を当てる。若手・リーダー・経営層それぞれの視点から、稲船塾とリーダー塾がどのように会社の文化とキャリア観に影響を与えているのかを探る。]]></summary>
-        <author>
-            <name>CGWORLD</name>
         </author>
     </entry>
 </feed>

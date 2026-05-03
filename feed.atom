@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-05-03T09:13:09.214Z</updated>
+    <updated>2026-05-03T12:44:27.061Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Houdiniから平面図、断面図を起こす方法]]></title>
+        <id>https://note.com/sm_i_o/n/n24e53c594906</id>
+        <link href="https://note.com/sm_i_o/n/n24e53c594906"/>
+        <updated>2026-05-03T09:57:08.000Z</updated>
+        <summary type="html"><![CDATA[Houdiniでモデリングした建築のデータからAutoCADに出す、平面図や断面図を出力する方法です
+尚、今回はHoudini ver21.0.6 Apprentice版を使っています
+1:1 スケールでモデリングする
+続きをみる]]></summary>
+        <author>
+            <name>#Houdiniタグ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Blenderがちょっと楽しくなる！喋って動くドット猫を表示出来るアドオン「Cat Companion」]]></title>
         <id>https://modelinghappy.com/?p=68443</id>
@@ -4507,27 +4520,6 @@ ShaderGraphを構成し...]]></summary>
         <summary type="html"><![CDATA[こんばんは！ 今回はアドオンの「Inkform」を紹介します。 こちらのリンクがアドオンの商品ページになります。 Inkform 「Inkform」は、Grease Pencilのストロークをそのままメッシュ化できるアド […]]]></summary>
         <author>
             <name>kasahara</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「Blender 5.1」リリース！ アニメーションやCycles、EEVEEのパフォーマンス向上、Raycastノード新搭載、グリースペンシルのフィルワークフロー改善など - ニュース]]></title>
-        <id>https://cgworld.jp/flashnews/01-202604-blender51.html</id>
-        <link href="https://cgworld.jp/flashnews/01-202604-blender51.html"/>
-        <updated>2026-04-04T00:08:33.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ComfyUIが新メモリシステム「Dynamic VRAM」を実装。限られたメモリで大規模モデルの効率的な実行が可能に]]></title>
-        <id>https://cginterest.com/?p=57371</id>
-        <link href="https://cginterest.com/2026/04/04/comfyui%e3%81%8c%e6%96%b0%e3%83%a1%e3%83%a2%e3%83%aa%e3%82%b7%e3%82%b9%e3%83%86%e3%83%a0%e3%80%8cdynamic-vram%e3%80%8d%e3%82%92%e5%ae%9f%e8%a3%85%e3%80%82%e9%99%90%e3%82%89%e3%82%8c%e3%81%9f%e3%83%a1/"/>
-        <updated>2026-04-03T22:47:00.000Z</updated>
-        <summary type="html"><![CDATA[2026年3月26日（現地時間）- 生成AIプラットフォーム「ComfyUI」の開発チームはシステムRAMの使用量を大幅に削減し、限られたメモリ環境下でも大規模なモデルを効率的に実行可能にする新しいメモリ最適 […]
-ComfyUIが新メモリシステム「Dynamic VRAM」を実装。限られたメモリで大規模モデルの効率的な実行が可能に first appeared on CGinterest.]]></summary>
-        <author>
-            <name>.me</name>
         </author>
     </entry>
 </feed>

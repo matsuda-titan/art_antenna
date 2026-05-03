@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-05-02T12:44:51.320Z</updated>
+    <updated>2026-05-03T01:51:42.320Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[なでしこさんで、円形ゲージを描画する]]></title>
+        <id>https://qiita.com/mikecat_mixc/items/419de006e2e0e638d1ee</id>
+        <link href="https://qiita.com/mikecat_mixc/items/419de006e2e0e638d1ee"/>
+        <updated>2026-05-03T00:08:37.000Z</updated>
+        <summary type="html"><![CDATA[今回の目的
+なでしこで、0～1 の値を扇形の中心の角度として表示する。
+たとえば、以下のような図形を描画する。
+
+準備：キャンバスへの描画
+ここでは、なでしこの描画命令のうち、今回使うものを紹介する。
+また、ここで紹介する命令の呼び出し方は一例である。
+
+ここで紹介す...]]></summary>
+        <author>
+            <name>グラフィックスタグが付けられた新着記事 - Qiita</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【完全ガイド】iPadで本格3Dペイント！新アプリ「Wafer」実践チュートリアル]]></title>
         <id>https://note.com/ipadde3d/n/n4a6abd5a0d0d</id>
@@ -4499,120 +4517,6 @@ ShaderGraphを構成し...]]></summary>
 ComfyUIが新メモリシステム「Dynamic VRAM」を実装。限られたメモリで大規模モデルの効率的な実行が可能に first appeared on CGinterest.]]></summary>
         <author>
             <name>.me</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Blender用3Dペイント「MatPlus 1.2」アップデート！Eeveeベイクにより大幅にパフォーマンスが向上]]></title>
-        <id>https://cginterest.com/?p=57354</id>
-        <link href="https://cginterest.com/2026/04/03/blender%e7%94%a83d%e3%83%9a%e3%82%a4%e3%83%b3%e3%83%88%e3%80%8cmatplus-1-2%e3%80%8d%e3%82%a2%e3%83%83%e3%83%97%e3%83%87%e3%83%bc%e3%83%88%ef%bc%81eevee%e3%83%99%e3%82%a4%e3%82%af%e3%81%ab%e3%82%88/"/>
-        <updated>2026-04-03T07:57:00.000Z</updated>
-        <summary type="html"><![CDATA[BFX Studiosが提供するBlender向けマテリアル・テクスチャリングアドオン「MatPlus」のバージョン1.2がリリースされました。 今回のアップデートでは、Eeveeベイクシステムの導入が行われており、デー […]
-Blender用3Dペイント「MatPlus 1.2」アップデート！Eeveeベイクにより大幅にパフォーマンスが向上 first appeared on CGinterest.]]></summary>
-        <author>
-            <name>.me</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CG制作の裏側｜『果てしなきスカーレット』若手クリエイターインタビュー④ アニメ美術に挑戦した背景表現]]></title>
-        <id>https://note.com/dftalk/n/nf5607e2d8a80</id>
-        <link href="https://note.com/dftalk/n/nf5607e2d8a80"/>
-        <updated>2026-04-03T07:47:41.000Z</updated>
-        <summary type="html"><![CDATA[細田守監督作品『果てしなきスカーレット』では、《死者の国》のパートを中心にデジタル・フロンティアがCG制作を担当しています。
-続きをみる]]></summary>
-        <author>
-            <name>DF TALK</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[『Ray Tracing Gems』— リアルタイムレイトレの実践知が詰まった一冊]]></title>
-        <id>https://qiita.com/dsgarage/items/eb47740d02b88389cb86</id>
-        <link href="https://qiita.com/dsgarage/items/eb47740d02b88389cb86"/>
-        <updated>2026-04-03T06:31:24.000Z</updated>
-        <summary type="html"><![CDATA[『Ray Tracing Gems』— リアルタイムレイトレの実践知が詰まった一冊
-
-サマリー
-
-この本を一言で言うと: リアルタイムレイトレーシングの「理論は知っている、だが実装でつまずく」を全32章で解決する実践レシピ集。
-
-項目
-内容
-
-著者
-Eric ...]]></summary>
-        <author>
-            <name>グラフィックスタグが付けられた新着記事 - Qiita</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lazy Weight Tool v2.0 | Blender向け多機能ウェイトツールの最新アップデート！より柔軟に調整可能になったGPUウェイトテーブルを追加！]]></title>
-        <id>https://3dnchu.com/?p=1063788</id>
-        <link href="https://3dnchu.com/archives/lazy-weight-tool-v2-0/"/>
-        <updated>2026-04-03T06:29:03.000Z</updated>
-        <summary type="html"><![CDATA[Blenderアドオンなどの開発などでもお馴染み 忘却野 氏（@Bookyakuno）がBlender向けウェイトツールの最新アップデート「Lazy Weight Tool v2.0」をリリースしました！]]></summary>
-        <author>
-            <name>Ymt3D -3dnchu-</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【無料アドオン】Match Color – マテリアルの色を簡単に調整可能！]]></title>
-        <id>https://cgbox.jp/?p=65210</id>
-        <link href="https://cgbox.jp/2026/04/03/news-addon-match-color/"/>
-        <updated>2026-04-03T05:36:25.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは！ 今回はアドオンの「Match Color」を紹介します。 こちらのリンクがアドオンの商品ページになります。 Match Color 「Match Color」は、マテリアルの色を簡単に調整できるアドオンです […]]]></summary>
-        <author>
-            <name>kasahara</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The RC-Chassis | 開発に5年！開発費6万ドル！Bricks, Blocks And MOCsによるレゴブロック互換のRCシャーシ！早期サポーター募集中！]]></title>
-        <id>https://3dnchu.com/?p=1063704</id>
-        <link href="https://3dnchu.com/archives/the-rc-chassis-bricks-blocks-and-mocs/"/>
-        <updated>2026-04-03T03:18:54.000Z</updated>
-        <summary type="html"><![CDATA[開発に5年と6万ドル…。Bricks, Blocks And MOCsがレゴブロックに対応したRCシャーシを開発するプロジェクト「The RC-Chassis」！現在完成に向けて進行中です！]]></summary>
-        <author>
-            <name>Ymt3D -3dnchu-</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[家族と社会のために働いてこられた親御さんたちへ。ピクサーの短編アニメーション『Lightbulb』]]></title>
-        <id>https://3dtotal.jp/?p=55201</id>
-        <link href="https://3dtotal.jp/news/55201/"/>
-        <updated>2026-04-03T02:53:12.000Z</updated>
-        <summary type="html"><![CDATA[★Lightbulb | A Pixar Artist's Short Film with Introduction（3分3秒） 『Lightbulb』は、ピクサー のアーティスト Hye Sung Park が監督を務 […]
-The post 家族と社会のために働いてこられた親御さんたちへ。ピクサーの短編アニメーション『Lightbulb』 first appeared on 3dtotal 日本語オフィシャルサイト.]]></summary>
-        <author>
-            <name>3dtotal管理人T</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ジェームズ・ガン監督が贈る 新生DCユニバース最新作。映画『スーパーガール』のトレーラー（英語／日本語）]]></title>
-        <id>https://3dtotal.jp/?p=55199</id>
-        <link href="https://3dtotal.jp/news/55199/"/>
-        <updated>2026-04-03T02:47:13.000Z</updated>
-        <summary type="html"><![CDATA[★SUPERGIRL | Official Trailer（2分56秒） ★映画『スーパーガール』本予告（2分52秒） 宇宙のどこかに、自分自身の居場所がある── 映画『スーパーガール』6月26日（金）日米同時公開 　  […]
-The post ジェームズ・ガン監督が贈る 新生DCユニバース最新作。映画『スーパーガール』のトレーラー（英語／日本語） first appeared on 3dtotal 日本語オフィシャルサイト.]]></summary>
-        <author>
-            <name>3dtotal管理人T</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[県内外から34社が参加！　静岡デザイン専門学校開催の「ポートフォリオ交流会」レポート - 特集]]></title>
-        <id>https://cgworld.jp/article/shizude-portfolio-2603.html</id>
-        <link href="https://cgworld.jp/article/shizude-portfolio-2603.html"/>
-        <updated>2026-04-03T01:44:08.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「大切なのは"つくり続ける意識"をもち続けること」2年越しの挑戦を経てカナダへ 第118回：古屋隆介（Sony Pictures Imageworks / Senior Animator） - 連載]]></title>
-        <id>https://cgworld.jp/regular/118-furuya.html</id>
-        <link href="https://cgworld.jp/regular/118-furuya.html"/>
-        <updated>2026-04-03T01:30:00.000Z</updated>
-        <summary type="html"><![CDATA[SPI活躍する、古屋隆介氏の海外就業ストーリー。]]></summary>
-        <author>
-            <name>CGWORLD</name>
         </author>
     </entry>
 </feed>

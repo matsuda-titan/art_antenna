@@ -1660,16 +1660,6 @@
           "wordCount": 746,
           "title": "Blenderアドオン「GUI Slider」リリース！ シェイプキーやカスタムプロパティ、データパスをスライダとジョイスティックに統合して調整を効率化 - ニュース",
           "imageUrl": "https://cgworld.jp/flashnews/assets_c/2026/04/GUISlider-01-thumb-1920x1080-82016.jpg"
-        },
-        {
-          "id": "https://cgworld.jp/flashnews/01-202604-Kimodo.html",
-          "author": null,
-          "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
-          "link": "https://cgworld.jp/flashnews/01-202604-Kimodo.html",
-          "publishedOn": "2026-04-04T22:50:15.000Z",
-          "wordCount": 796,
-          "title": "NVIDIA、キネマティック・モーション拡散モデル「Kimodo」リリース！ 大規模な光学式モーションキャプチャデータで学習、オープンソース - ニュース",
-          "imageUrl": "https://cgworld.jp/flashnews/assets_c/2026/04/Kimodo-01-thumb-1920x1080-82006.jpg"
         }
       ]
     },
@@ -3029,6 +3019,16 @@
       "siteUrl": "https://qiita.com",
       "articles": [
         {
+          "id": "https://qiita.com/ciDaCa/items/1eeadd386fd95ae9f00e",
+          "author": null,
+          "description": "はじめに\nUnity Toon Shader3 (UTS3) をベースにして独自のシェーダー機能を実装する際、「シェーダーの Properties に変数を追加したのに、マテリアルのインスペクターに表示されない！」とつまずくことが（よく？）あります。\n本記事では、パッケー...",
+          "link": "https://qiita.com/ciDaCa/items/1eeadd386fd95ae9f00e",
+          "publishedOn": "2026-05-04T11:32:03.000Z",
+          "wordCount": 2406,
+          "title": "【Unity】Unity Toon Shader 3（UTS3）のインスペクターに独自パラメーターを追加する方法",
+          "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkY0NDA1NzgxJTJGNTI2NjIzY2Y1NGMzYjc0MWVhMWNlY2FmNDNmOTE1NzFiMWUzNjBiYyUyRmxhcmdlLnBuZyUzRjE3NzU4MTA0MzA_aXhsaWI9cmItNC4wLjAmYXI9MSUzQTEmZml0PWNyb3AmbWFzaz1lbGxpcHNlJmJnPUZGRkZGRiZmbT1wbmczMiZzPTJmMzc2OTk5YzRkNjgyNzMzZWU3YzU1ZmJhMzhlZDY1%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3Df99c243d8ee6946ea0122deaa611a1a2?ixlib=rb-4.0.0&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9JUUzJTgwJTkwVW5pdHklRTMlODAlOTFVbml0eSUyMFRvb24lMjBTaGFkZXIlMjAzJUVGJUJDJTg4VVRTMyVFRiVCQyU4OSVFMyU4MSVBRSVFMyU4MiVBNCVFMyU4MyVCMyVFMyU4MiVCOSVFMyU4MyU5QSVFMyU4MiVBRiVFMyU4MiVCRiVFMyU4MyVCQyVFMyU4MSVBQiVFNyU4QiVBQyVFOCU4NyVBQSVFMyU4MyU5MSVFMyU4MyVBOSVFMyU4MyVBMSVFMyU4MyVCQyVFMyU4MiVCRiVFMyU4MyVCQyVFMyU4MiU5MiVFOCVCRiVCRCVFNSU4QSVBMCVFMyU4MSU5OSVFMyU4MiU4QiVFNiU5NiVCOSVFNiVCMyU5NSZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnR4dC1wYWQ9MCZzPWY3NjA2YThiNmYxZGM5MThhZTQ5MzljODQxY2FlNmMw&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBjaURhQ2EmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz02MzdmODk4YTNlNjFkYTQyNDViYzczNzJjNWViZGU0Nw&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=737baf4834f921cfc87f176cf55a8ced"
+        },
+        {
           "id": "https://qiita.com/sen-ltd/items/b96ba6d74e31e7e974a9",
           "author": null,
           "description": "作ったもの\n3D Cube — https://sen.ltd/portfolio/cube-3d/\n\nPure WebGL 1.0（ライブラリ不使用）\n4×4 行列を手書き実装（12 関数）\nマウスドラッグで回転、スクロールでズーム\nワイヤフレームオーバーレイ\n行列の...",
@@ -3148,6 +3148,16 @@
       "feedUrl": "https://qiita.com/tags/hlsl/feed",
       "siteUrl": "https://qiita.com",
       "articles": [
+        {
+          "id": "https://qiita.com/ciDaCa/items/1eeadd386fd95ae9f00e",
+          "author": null,
+          "description": "はじめに\nUnity Toon Shader3 (UTS3) をベースにして独自のシェーダー機能を実装する際、「シェーダーの Properties に変数を追加したのに、マテリアルのインスペクターに表示されない！」とつまずくことが（よく？）あります。\n本記事では、パッケー...",
+          "link": "https://qiita.com/ciDaCa/items/1eeadd386fd95ae9f00e",
+          "publishedOn": "2026-05-04T11:32:03.000Z",
+          "wordCount": 2406,
+          "title": "【Unity】Unity Toon Shader 3（UTS3）のインスペクターに独自パラメーターを追加する方法",
+          "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkY0NDA1NzgxJTJGNTI2NjIzY2Y1NGMzYjc0MWVhMWNlY2FmNDNmOTE1NzFiMWUzNjBiYyUyRmxhcmdlLnBuZyUzRjE3NzU4MTA0MzA_aXhsaWI9cmItNC4wLjAmYXI9MSUzQTEmZml0PWNyb3AmbWFzaz1lbGxpcHNlJmJnPUZGRkZGRiZmbT1wbmczMiZzPTJmMzc2OTk5YzRkNjgyNzMzZWU3YzU1ZmJhMzhlZDY1%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3Df99c243d8ee6946ea0122deaa611a1a2?ixlib=rb-4.0.0&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9JUUzJTgwJTkwVW5pdHklRTMlODAlOTFVbml0eSUyMFRvb24lMjBTaGFkZXIlMjAzJUVGJUJDJTg4VVRTMyVFRiVCQyU4OSVFMyU4MSVBRSVFMyU4MiVBNCVFMyU4MyVCMyVFMyU4MiVCOSVFMyU4MyU5QSVFMyU4MiVBRiVFMyU4MiVCRiVFMyU4MyVCQyVFMyU4MSVBQiVFNyU4QiVBQyVFOCU4NyVBQSVFMyU4MyU5MSVFMyU4MyVBOSVFMyU4MyVBMSVFMyU4MyVCQyVFMyU4MiVCRiVFMyU4MyVCQyVFMyU4MiU5MiVFOCVCRiVCRCVFNSU4QSVBMCVFMyU4MSU5OSVFMyU4MiU4QiVFNiU5NiVCOSVFNiVCMyU5NSZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnR4dC1wYWQ9MCZzPWY3NjA2YThiNmYxZGM5MThhZTQ5MzljODQxY2FlNmMw&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBjaURhQ2EmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz02MzdmODk4YTNlNjFkYTQyNDViYzczNzJjNWViZGU0Nw&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=737baf4834f921cfc87f176cf55a8ced"
+        },
         {
           "id": "https://qiita.com/YKVKDX12/items/e70041fb8c5d104dba71",
           "author": null,

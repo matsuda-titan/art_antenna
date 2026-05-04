@@ -2,10 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-05-04T05:54:02.650Z</updated>
+    <updated>2026-05-04T10:04:18.825Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[3DCAD形状をパターンとしてsubstanceで表現/displacementでメッシュ化し、３Dプリントする一連のワークフロー]]></title>
+        <id>https://note.com/sketch_nendo/n/n80fd6281fc93</id>
+        <link href="https://note.com/sketch_nendo/n/n80fd6281fc93"/>
+        <updated>2026-05-04T09:25:54.000Z</updated>
+        <summary type="html"><![CDATA[Grasshopperは便利だが、複雑な複合面にパターンを敷き詰めるのは大変な苦労を伴う。そこで、シミュレーションとしてheight mapを活用する方法があるが、substance 3D painterを使えば、表現にかなり融通が利く。
+Adobe社としては、Designer→3D painterというやり方を推奨しているが、CADが使えるのであれば、CAD→3D painterという手法が最も使いやすく、あなたが元々持っているCAD上での高い表現力をフルに発揮できる。Designerという新しいソフトも覚える必要がない。
+テストとして、前回作成したgrasshopperパターンを使ってみる。substanceは正方形の画像しか使用できないので、正方形の形状に展開したパターンをベイクし、同じく正方形の最小単位パーツを切り出す。（下図参照）
+続きをみる]]></summary>
+        <author>
+            <name>#substancepainterタグ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NTE Character MMD Models | 話題のゲーム『NTE（Neverness to Everness）』のキャラクター3Dモデルが「模之屋 PlayBox」にて無料配布中！MMD（PMX）形式！]]></title>
+        <id>https://3dnchu.com/?p=1064671</id>
+        <link href="https://3dnchu.com/archives/nte-character-mmd-models/"/>
+        <updated>2026-05-04T08:00:17.000Z</updated>
+        <summary type="html"><![CDATA[中国のモデル制作・共有コミュニティ「模之屋 PlayBox」にて、Hotta Studioが開発しリリースした基本プレイ無料の都市型オープンワールドゲーム「NTE（Neverness to Everness）」のキャラクターモデルの配布が開始されました！]]></summary>
+        <author>
+            <name>Ymt3D -3dnchu-</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[World Labs、Web向け3DGSストリーミングLoDシステム「Spark 2.0」リリース　Three.jsを基盤に構築、オープンソース - ニュース]]></title>
         <id>https://cgworld.jp/flashnews/01-202605-Spark20.html</id>
@@ -4516,21 +4539,6 @@ The post Puppet Studio – Blenderでリグ作成・自動スキニング機能�
         <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
         <author>
             <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【Unity】海シェーダー制作備忘録  ①Saturate編]]></title>
-        <id>https://qiita.com/reina-csharp/items/1312d3ba0566be7fc9f4</id>
-        <link href="https://qiita.com/reina-csharp/items/1312d3ba0566be7fc9f4"/>
-        <updated>2026-04-04T19:19:40.000Z</updated>
-        <summary type="html"><![CDATA[はじめに
-この記事は、こちらを参考にShaderGraphで海を制作した際、個人的に疑問を感じた点やその解決過程を整理した備忘録です。
-初歩的な内容ですが、自身の理解を深めるための壁打ちとしてまとめています。
-
-Saturateとは？
-ShaderGraphを構成し...]]></summary>
-        <author>
-            <name>Shaderタグが付けられた新着記事 - Qiita</name>
         </author>
     </entry>
 </feed>

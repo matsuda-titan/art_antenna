@@ -2,10 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-05-05T05:33:29.277Z</updated>
+    <updated>2026-05-05T09:51:56.334Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【Maya】インスタンスを自動検出＆一括管理！アウトライナで色分け表示できる無料ツール「Instance Utility」]]></title>
+        <id>https://modelinghappy.com/?p=68500</id>
+        <link href="https://modelinghappy.com/archives/68500"/>
+        <updated>2026-05-05T09:43:40.000Z</updated>
+        <summary type="html"><![CDATA[【Maya】Instance Utility #8211; インスタンス管理ツール【Python】 3Dモデラーのぽめさんが作成した、Mayaでシーン内にあるインスタンスを自動検出・管理するツールを公開しました。 イン
+The post 【Maya】インスタンスを自動検出＆一括管理！アウトライナで色分け表示できる無料ツール「Instance Utility」 first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
+        <author>
+            <name>modelinghappy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[substance 3D painter/基本面に対してパターンを盛るか、掘るかの位置調整]]></title>
+        <id>https://note.com/sketch_nendo/n/ne0aa97f4be52</id>
+        <link href="https://note.com/sketch_nendo/n/ne0aa97f4be52"/>
+        <updated>2026-05-05T06:51:43.000Z</updated>
+        <summary type="html"><![CDATA[CADで作った白黒画像を用いて、substance 3D painterでメッシュデータを作る方法を解説したが、設計要件やデザイナーの意思によって、基本面に対してパターンを上下させて動かしたい場合があると思う。CADで基本面をオフセットして微調整するというのはいかにも面倒くさいので、手っ取り早い方法は無いだろうか？
+
+painterで新規塗りつぶしレイヤー追加
+続きをみる]]></summary>
+        <author>
+            <name>#substancepainterタグ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[3Dキャプチャ用 写真測量ソフト Substance 3D Sampler 6.0 の機能紹介ムービー]]></title>
         <id>https://3dtotal.jp/?p=55418</id>
@@ -4577,42 +4601,6 @@ The post Stylized BSDF：複雑なノード不要でスタイライズド表現�
 Sketchfabマンスリーピックアップ 2026年4月号 first appeared on CGinterest.]]></summary>
         <author>
             <name>.me</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[フォトグラメトリ数学｜05：内部パラメータとは何か]]></title>
-        <id>https://zenn.dev/s_hashida/articles/50125d8c0b6caa</id>
-        <link href="https://zenn.dev/s_hashida/articles/50125d8c0b6caa"/>
-        <updated>2026-04-05T21:50:45.000Z</updated>
-        <summary type="html"><![CDATA[はじめに
-前回は、カメラ行列
-
-\mathbf{p} \sim K [R \mid t] \mathbf{P}
-
-について説明しました。
-
-
-[R \mid t]：世界座標 → カメラ座標
-
-K：カメラによる射影
-
-という役割でした。
-ではここで一つ疑問が出てきます。
-
-この K は、具体的に何をしているのでしょうか？
-
-今回は、この内部パラメータ K の中身を見ていきます。
-
- K をもう一度見る
-前回は、次のような形で K を導入しました。
-
-K =
-\begin{bmatrix}
-f & 0 & 0 \\
-0 & f & 0 \\
-0 &...]]></summary>
-        <author>
-            <name>s_hashida</name>
         </author>
     </entry>
 </feed>

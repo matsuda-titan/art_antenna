@@ -1711,6 +1711,16 @@
       "siteUrl": "https://modelinghappy.com",
       "articles": [
         {
+          "id": "https://modelinghappy.com/?p=68500",
+          "author": "modelinghappy",
+          "description": "【Maya】Instance Utility #8211; インスタンス管理ツール【Python】 3Dモデラーのぽめさんが作成した、Mayaでシーン内にあるインスタンスを自動検出・管理するツールを公開しました。 イン\nThe post 【Maya】インスタンスを自動検出＆一括管理！アウトライナで色分け表示できる無料ツール「Instance Utility」 first appeared on 3DCG最新情報サイト MODELING HAPPY.",
+          "link": "https://modelinghappy.com/archives/68500",
+          "publishedOn": "2026-05-05T09:43:40.000Z",
+          "wordCount": 3024,
+          "title": "【Maya】インスタンスを自動検出＆一括管理！アウトライナで色分け表示できる無料ツール「Instance Utility」",
+          "imageUrl": "https://modelinghappy.com/wp-content/uploads/2026/05/20260505_Instance_Utility.jpg"
+        },
+        {
           "id": "https://modelinghappy.com/?p=68493",
           "author": "modelinghappy",
           "description": "Project Falcon Autodeskが、ブラウザ上で誰でも簡単に3Dモデルを作成できる新しいツール「Project Falcon」を公開しました。 Autodesk Flowをベースに構築されたProject\nThe post Autodeskが無料公開！数千種類のアセットを置くだけで3Dモデルが作れる「Project Falcon」 first appeared on 3DCG最新情報サイト MODELING HAPPY.",
@@ -2886,21 +2896,6 @@
             "type": "false"
           },
           "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--NuFliK27--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%2595%25E3%2582%25A9%25E3%2583%2588%25E3%2582%25B0%25E3%2583%25A9%25E3%2583%25A1%25E3%2583%2588%25E3%2583%25AA%25E6%2595%25B0%25E5%25AD%25A6%25EF%25BD%259C06%25EF%25BC%259A%25E3%2582%25AB%25E3%2583%25A1%25E3%2583%25A9%25E3%2583%2591%25E3%2583%25A9%25E3%2583%25A1%25E3%2583%25BC%25E3%2582%25BF%25E3%2581%25AF%25E3%2581%25A9%25E3%2581%2586%25E6%25B1%2582%25E3%2582%2581%25E3%2582%258B%25E3%2581%25AE%25E3%2581%258B%25EF%25BC%2588%25E3%2582%25AD%25E3%2583%25A3%25E3%2583%25AA%25E3%2583%2596%25E3%2583%25AC%25E3%2583%25BC%25E3%2582%25B7%25E3%2583%25A7%25E3%2583%25B3%25EF%25BC%2589%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:s_hashida%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2JmNmU5NjMzMTEuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"
-        },
-        {
-          "id": "https://zenn.dev/s_hashida/articles/50125d8c0b6caa",
-          "author": "s_hashida",
-          "description": "はじめに\n前回は、カメラ行列\n\n\\mathbf{p} \\sim K [R \\mid t] \\mathbf{P}\n\nについて説明しました。\n\n\n[R \\mid t]：世界座標 → カメラ座標\n\nK：カメラによる射影\n\nという役割でした。\nではここで一つ疑問が出てきます。\n\nこの K は、具体的に何をしているのでしょうか？\n\n今回は、この内部パラメータ K の中身を見ていきます。\n\n K をもう一度見る\n前回は、次のような形で K を導入しました。\n\nK =\n\\begin{bmatrix}\nf & 0 & 0 \\\\\n0 & f & 0 \\\\\n0 &...",
-          "link": "https://zenn.dev/s_hashida/articles/50125d8c0b6caa",
-          "publishedOn": "2026-04-05T21:50:45.000Z",
-          "wordCount": 832,
-          "title": "フォトグラメトリ数学｜05：内部パラメータとは何か",
-          "enclosure": {
-            "url": "https://res.cloudinary.com/zenn/image/upload/s--IHPnTN1o--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%2595%25E3%2582%25A9%25E3%2583%2588%25E3%2582%25B0%25E3%2583%25A9%25E3%2583%25A1%25E3%2583%2588%25E3%2583%25AA%25E6%2595%25B0%25E5%25AD%25A6%25EF%25BD%259C05%25EF%25BC%259A%25E5%2586%2585%25E9%2583%25A8%25E3%2583%2591%25E3%2583%25A9%25E3%2583%25A1%25E3%2583%25BC%25E3%2582%25BF%25E3%2581%25A8%25E3%2581%25AF%25E4%25BD%2595%25E3%2581%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:s_hashida%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2JmNmU5NjMzMTEuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
-            "length": "0",
-            "type": "false"
-          },
-          "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--IHPnTN1o--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%2595%25E3%2582%25A9%25E3%2583%2588%25E3%2582%25B0%25E3%2583%25A9%25E3%2583%25A1%25E3%2583%2588%25E3%2583%25AA%25E6%2595%25B0%25E5%25AD%25A6%25EF%25BD%259C05%25EF%25BC%259A%25E5%2586%2585%25E9%2583%25A8%25E3%2583%2591%25E3%2583%25A9%25E3%2583%25A1%25E3%2583%25BC%25E3%2582%25BF%25E3%2581%25A8%25E3%2581%25AF%25E4%25BD%2595%25E3%2581%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:s_hashida%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2JmNmU5NjMzMTEuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"
         }
       ]
     },
@@ -3658,6 +3653,16 @@
       "feedUrl": "https://note.com/hashtag/substancepainter/rss",
       "siteUrl": "https://note.com/hashtag/substancepainter",
       "articles": [
+        {
+          "id": "https://note.com/sketch_nendo/n/ne0aa97f4be52",
+          "author": null,
+          "description": "CADで作った白黒画像を用いて、substance 3D painterでメッシュデータを作る方法を解説したが、設計要件やデザイナーの意思によって、基本面に対してパターンを上下させて動かしたい場合があると思う。CADで基本面をオフセットして微調整するというのはいかにも面倒くさいので、手っ取り早い方法は無いだろうか？\n\npainterで新規塗りつぶしレイヤー追加\n続きをみる",
+          "link": "https://note.com/sketch_nendo/n/ne0aa97f4be52",
+          "publishedOn": "2026-05-05T06:51:43.000Z",
+          "wordCount": 2343,
+          "title": "substance 3D painter/基本面に対してパターンを盛るか、掘るかの位置調整",
+          "imageUrl": "https://assets.st-note.com/production/uploads/images/273222932/rectangle_large_type_2_d2aef5d54ebb762b194ccfe44eac72ae.png?width=800"
+        },
         {
           "id": "https://note.com/sketch_nendo/n/n80fd6281fc93",
           "author": null,

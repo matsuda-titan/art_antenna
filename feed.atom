@@ -2,10 +2,139 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-05-04T13:20:49.427Z</updated>
+    <updated>2026-05-05T01:53:04.325Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Autodesk、新しいキットバッシングツール「Project Falcon」テックプレビューを無料公開！]]></title>
+        <id>https://cginterest.com/?p=58552</id>
+        <link href="https://cginterest.com/2026/05/05/autodesk%e3%80%81%e6%96%b0%e3%81%97%e3%81%84%e3%82%ad%e3%83%83%e3%83%88%e3%83%90%e3%83%83%e3%82%b7%e3%83%b3%e3%82%b0%e3%83%84%e3%83%bc%e3%83%ab%e3%80%8cproject-falcon%e3%80%8d%e3%83%86%e3%83%83/"/>
+        <updated>2026-05-05T01:40:06.000Z</updated>
+        <summary type="html"><![CDATA[2026年5月5日（現地時間）-  Autodesk は、新しい無料キットバッシュツール「Project Falcon」を公開しました。 Project Falconとは 「Project Falcon」は、パーツを組み […]
+Autodesk、新しいキットバッシングツール「Project Falcon」テックプレビューを無料公開！ first appeared on CGinterest.]]></summary>
+        <author>
+            <name>.me</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Autodeskが無料公開！数千種類のアセットを置くだけで3Dモデルが作れる「Project Falcon」]]></title>
+        <id>https://modelinghappy.com/?p=68493</id>
+        <link href="https://modelinghappy.com/archives/68493"/>
+        <updated>2026-05-05T00:59:21.000Z</updated>
+        <summary type="html"><![CDATA[Project Falcon Autodeskが、ブラウザ上で誰でも簡単に3Dモデルを作成できる新しいツール「Project Falcon」を公開しました。 Autodesk Flowをベースに構築されたProject
+The post Autodeskが無料公開！数千種類のアセットを置くだけで3Dモデルが作れる「Project Falcon」 first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
+        <author>
+            <name>modelinghappy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[エッジや面などの中間ポイントも自由に取れる！無料Blender用スナップ強化アドオン「Snapline」]]></title>
+        <id>https://modelinghappy.com/?p=68486</id>
+        <link href="https://modelinghappy.com/archives/68486"/>
+        <updated>2026-05-05T00:34:27.000Z</updated>
+        <summary type="html"><![CDATA[Snapline Snaplineは、Blenderでモデルの頂点・エッジ・面に対してスナップ用のポイントを可視化し、さらにそのポイントを基準に細かいスナップ位置を簡単に生成できるアドオンです。 通常のスナップでは取りづ
+The post エッジや面などの中間ポイントも自由に取れる！無料Blender用スナップ強化アドオン「Snapline」 first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
+        <author>
+            <name>modelinghappy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NVIDIA、物理シミュレーション対応の3D環境構築フレームワーク「Lyra 2.0」公開　長時間のウォークスルー動画生成と高品質な3Dシーン出力で大規模な環境構築を実現 - ニュース]]></title>
+        <id>https://cgworld.jp/flashnews/01-202605-Lyra2.html</id>
+        <link href="https://cgworld.jp/flashnews/01-202605-Lyra2.html"/>
+        <updated>2026-05-05T00:26:13.000Z</updated>
+        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unityキャラルック検証: 軽量SSS/髪の異方性反射/肌Bloomメモ]]></title>
+        <id>https://zenn.dev/toshikun/articles/unity-lightweight-sss-hair-anisotropy-memo</id>
+        <link href="https://zenn.dev/toshikun/articles/unity-lightweight-sss-hair-anisotropy-memo"/>
+        <updated>2026-05-04T19:01:26.000Z</updated>
+        <summary type="html"><![CDATA[バーチャルライブ制作メモ総目次 に戻る。
+ライブ照明の中でキャラを見せるとき、肌や髪は通常のToon影だけだと固く見えやすいです。
+軽量SSS、キャラBloom、髪の異方性反射、逆光時のグラデーションを分けて見ると、セル画っぽさとライブ照明の間を調整しやすくなります。
+実践リポジトリはVLiveKit系として整理中です。軽量SSSと髪反射は、キャラシェーダの追加要素として整理したいです。
+
+ この記事の持ち帰り: 肌は影の境界、髪は方向性のある反射を見る
+
+軽量SSSは、多灯時にどこが影になるかを近似して、肌にじわっとしたグラデーションを足す方向で見る。
+キャラBloomは、肌やキャラだ...]]></summary>
+        <author>
+            <name>toshi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unity LEDVisionシェーダ検証: 板ポリ/ShaderGraph/VJ/DMXメモ]]></title>
+        <id>https://zenn.dev/toshikun/articles/unity-ledvision-shadergraph-vj-memo</id>
+        <link href="https://zenn.dev/toshikun/articles/unity-ledvision-shadergraph-vj-memo"/>
+        <updated>2026-05-04T19:01:25.000Z</updated>
+        <summary type="html"><![CDATA[バーチャルライブ制作メモ総目次 に戻る。
+ライブっぽい背景をUnityで作るとき、LEDは「映像を貼る板」だけで済ませると軽く見えやすいです。
+LEDVisionシェーダは、板ポリに映像を出すだけではなく、ベゼル、ノーマル、テクスチャ、モザイク、ライトの当たり方まで含めてLEDっぽく見せるための検証として整理しています。
+実践リポジトリはVLiveKit系として整理中です。LEDVisionまわりは、既存の公開リポジトリとVLiveKit側の整理中リポジトリがあります。
+
+ この記事の持ち帰り: LEDは映像ソースより、面の厚みと光の受け方を見る
+
+板ポリでも、ベゼル、ノーマル、テクスチ...]]></summary>
+        <author>
+            <name>toshi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HDRP Toonで顔の影と髪影を調整する: Custom Light/HairShadow/Stencilメモ]]></title>
+        <id>https://zenn.dev/toshikun/articles/hdrp-toon-custom-light-hairshadow-memo</id>
+        <link href="https://zenn.dev/toshikun/articles/hdrp-toon-custom-light-hairshadow-memo"/>
+        <updated>2026-05-04T19:01:20.000Z</updated>
+        <summary type="html"><![CDATA[バーチャルライブ制作メモ総目次 に戻る。
+HDRPでToon寄りのキャラルックを扱うとき、通常のライトだけで顔をきれいに見せようとすると詰まりやすいです。
+法線、ライト方向、髪影、Stencil、Custom Passを分けて見ると、顔まわりを調整するための観点が増えます。
+実践リポジトリはVLiveKit系として整理中です。HDRP Toonまわりは、キャラシェーダとCustom Passを分けて整理したいです。
+
+ この記事の持ち帰り: 顔はライトだけでなく、影の作り方で守る
+
+法線球面化だけだと、顔がのっぺりすることがある。
+ライト方向制限、レンブラントっぽい影、HairShado...]]></summary>
+        <author>
+            <name>toshi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【アドオン紹介】Light Master Pro –]]></title>
+        <id>https://cgbox.jp/?p=65302</id>
+        <link href="https://cgbox.jp/2026/05/05/news-addon-light-master-pro/"/>
+        <updated>2026-05-04T16:15:54.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは！ 今回はアドオンの「Light Master Pro」を紹介します。 こちらのリンクがアドオンの商品ページになります。 Light Master Pro 「Light Master Pro」は、アーティスティ […]]]></summary>
+        <author>
+            <name>kasahara</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【Houdini】COPで作成したテクスチャーをモデルやUV画面で表示する]]></title>
+        <id>https://zenn.dev/yuzutarou/articles/ea3fe4e50836a0</id>
+        <link href="https://zenn.dev/yuzutarou/articles/ea3fe4e50836a0"/>
+        <updated>2026-05-04T15:11:45.000Z</updated>
+        <summary type="html"><![CDATA[調べたこと
+Copernicsで作成したテクスチャーをモデルやUV画面でプレビューする方法について
+
+ Houdiniバージョン
+Houdini Indie 21.0440で確認
+
+ モデルにテクスチャを表示する方法について
+モデルにテクスチャを適用した状態を確認する方法についてまとめた。
+今回はCOPで下のようなOUT_Textureノードの見た目をテクスチャとして読み込み表示したいとする。
+
+
+ COPPreviewMaterialを使う
+COPで作成したテクスチャをSOP階層でプレビューするのはCOPPreviewMaterialを使うのが無難かも。
+DiffsueやNorma...]]></summary>
+        <author>
+            <name>ゆずたろう</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【Unity】Unity Toon Shader 3（UTS3）のインスペクターに独自パラメーターを追加する方法]]></title>
         <id>https://qiita.com/ciDaCa/items/1eeadd386fd95ae9f00e</id>
@@ -4505,54 +4634,6 @@ UE5.7のSubstrateに追加されたBlendable GBufferを使用すると、Substra
 今回、このSubstrateのシステム上で動くLegacy GBuf...]]></summary>
         <author>
             <name>HLSLタグが付けられた新着記事 - Qiita</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HardCuts – ボクセルとSDFベースでハードサーフェスモデリングができる3Dソフト・Alpha版は無料で利用可能]]></title>
-        <id>https://modelinghappy.com/?p=67895</id>
-        <link href="https://modelinghappy.com/archives/67895"/>
-        <updated>2026-04-05T13:48:57.000Z</updated>
-        <summary type="html"><![CDATA[HARDCUTS HardCutsは、@JayAnAmGamesさんが作成した、ボクセルとSDFベースのハードサーフェスモデリング向けの3Dソフトです。 ブーリアン操作を中心に素早く作成できるよう設計されているので、ポリ
-The post HardCuts – ボクセルとSDFベースでハードサーフェスモデリングができる3Dソフト・Alpha版は無料で利用可能 first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
-        <author>
-            <name>modelinghappy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenUSD を学んでいく(その1) ファイルフォーマットとPython API 環境構築]]></title>
-        <id>https://zenn.dev/regonn/articles/open-usd-001</id>
-        <link href="https://zenn.dev/regonn/articles/open-usd-001"/>
-        <updated>2026-04-05T06:48:34.000Z</updated>
-        <summary type="html"><![CDATA[前回の記事では、Omniverse の環境を構築し、usdview で OpenUSD を表示できるようにしました。
-https://zenn.dev/regonn/articles/open-usd-000
-今回は、Python API で OpenUSD ファイルを作成していきます。
-
- OpenUSD とファイルフォーマット
-OpenUSD には、用途に応じて最適化された複数のファイルフォーマットがあります。テキスト（.usda など）とバイナリ（.usdc など）のどちらを採用するかで、ロード速度および差分の見やすさのバランスは大きく変わります。
-また、フォーマットの混在も可能で...]]></summary>
-        <author>
-            <name>regonn</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Puppet Studio – Blenderでリグ作成・自動スキニング機能・アニメーション生成まで行えるキャラクター制作アドオン]]></title>
-        <id>https://modelinghappy.com/?p=67882</id>
-        <link href="https://modelinghappy.com/archives/67882"/>
-        <updated>2026-04-05T03:56:12.000Z</updated>
-        <summary type="html"><![CDATA[Puppet Studio (Beta) Puppet Studio (Beta)は、Blenderでキャラクターのリグ作成からアニメーション生成までをシンプルな操作で行えるアドオンです。 インターフェースは初心者でも理
-The post Puppet Studio – Blenderでリグ作成・自動スキニング機能・アニメーション生成まで行えるキャラクター制作アドオン first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
-        <author>
-            <name>modelinghappy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【アドオン紹介】Snow Cover – シーンに積雪を追加！]]></title>
-        <id>https://cgbox.jp/?p=65219</id>
-        <link href="https://cgbox.jp/2026/04/05/news-addon-snow-cover/"/>
-        <updated>2026-04-05T02:32:19.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは！ 今回はアドオンの「Snow Cover」を紹介します。 こちらのリンクがアドオンの商品ページになります。 Snow Cover 「Snow Cover」は、シーン全体にリアルな雪を簡単に追加できるアドオンで […]]]></summary>
-        <author>
-            <name>kasahara</name>
         </author>
     </entry>
 </feed>

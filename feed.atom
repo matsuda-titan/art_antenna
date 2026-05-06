@@ -2,10 +2,74 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-05-05T13:10:04.917Z</updated>
+    <updated>2026-05-06T01:51:58.979Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[同じ Mandelbrot カーネルを CPU と GPU で並べて、`float32` が壊れるところまでズームしてみた]]></title>
+        <id>https://qiita.com/sen-ltd/items/4023524239fdbc332921</id>
+        <link href="https://qiita.com/sen-ltd/items/4023524239fdbc332921"/>
+        <updated>2026-05-06T00:52:20.000Z</updated>
+        <summary type="html"><![CDATA[同じ rendering ループを 2 通りで実装した: メインスレッド上の vanilla JavaScript と、まったく同じループを書いた GLSL fragment shader。浅いズームでは GPU が 30–100 倍速い。だが あるスケールを超えると、G...]]></summary>
+        <author>
+            <name>GLSLタグが付けられた新着記事 - Qiita</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【期間限定無料】2026年5月19日までの FAB 無料コンテンツをチェック！]]></title>
+        <id>https://cginterest.com/?p=58565</id>
+        <link href="https://cginterest.com/2026/05/06/%e3%80%90%e6%9c%9f%e9%96%93%e9%99%90%e5%ae%9a%e7%84%a1%e6%96%99%e3%80%912026%e5%b9%b45%e6%9c%8819%e6%97%a5%e3%81%be%e3%81%a7%e3%81%ae-fab-%e7%84%a1%e6%96%99%e3%82%b3%e3%83%b3%e3%83%86%e3%83%b3/"/>
+        <updated>2026-05-06T00:52:00.000Z</updated>
+        <summary type="html"><![CDATA[期間限定で無料となっているEpicのマーケットプレイスFABの無料コンテンツの紹介です。 Epic Games の統合マーケットプレイスFABでは、クリエイターとのパートナーシップによって、2週間ごとに選ばれたコンテンツ […]
+【期間限定無料】2026年5月19日までの FAB 無料コンテンツをチェック！ first appeared on CGinterest.]]></summary>
+        <author>
+            <name>.me</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sketchfabマンスリーピックアップ 2026年5月号]]></title>
+        <id>https://cginterest.com/?p=58558</id>
+        <link href="https://cginterest.com/2026/05/06/sketchfab%e3%83%9e%e3%83%b3%e3%82%b9%e3%83%aa%e3%83%bc%e3%83%94%e3%83%83%e3%82%af%e3%82%a2%e3%83%83%e3%83%97-2026%e5%b9%b45%e6%9c%88%e5%8f%b7/"/>
+        <updated>2026-05-06T00:30:00.000Z</updated>
+        <summary type="html"><![CDATA[先月Sketchfabに投稿されたモデルを勝手にピックアップ(2026年5月5日調べ) するコーナーです。人気のある3Dモデルを中心に独断と偏見で選んでおります！ 通常のピックアップとは別に、無料でダウンロードできる3D […]
+Sketchfabマンスリーピックアップ 2026年5月号 first appeared on CGinterest.]]></summary>
+        <author>
+            <name>.me</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Blenderの通常ループカットを大幅時短出来るアドオン「Loop Cut Pro」]]></title>
+        <id>https://modelinghappy.com/?p=68523</id>
+        <link href="https://modelinghappy.com/archives/68523"/>
+        <updated>2026-05-06T00:11:37.000Z</updated>
+        <summary type="html"><![CDATA[Loop Cut Pro Loop Cut Proは、Blenderで通常のループカットよりも少ない操作で、マウスカーソル位置に直接ループカットを追加できるアドオンです。 実際に使っている動画では、ガタガタしているカーブ
+The post Blenderの通常ループカットを大幅時短出来るアドオン「Loop Cut Pro」 first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
+        <author>
+            <name>modelinghappy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SideFX、HoudiniのCOPチュートリアル「COPius Amounts of Fun」動画公開　Gnomon HIVE 2026におけるNick Scarcella氏の講演 - ニュース]]></title>
+        <id>https://cgworld.jp/flashnews/01-202605-HoudiniCOPius.html</id>
+        <link href="https://cgworld.jp/flashnews/01-202605-HoudiniCOPius.html"/>
+        <updated>2026-05-05T23:38:50.000Z</updated>
+        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Blender人気アドオンが全品25%OFF｜SUPER HIVE 5月のスプリングセール開始！（実際に使ったおすすめ＆厳選まとめ）]]></title>
+        <id>https://modelinghappy.com/?p=68511</id>
+        <link href="https://modelinghappy.com/archives/68511"/>
+        <updated>2026-05-05T14:41:09.000Z</updated>
+        <summary type="html"><![CDATA[公式サイト SUPER HIVE  Blender用アドオンやアセットを販売しているSUPER HIVE（旧Blendermarket）で、2026年5月5日〜5月11日まで全品25％OFFのスプリングセールが開催してい
+The post Blender人気アドオンが全品25%OFF｜SUPER HIVE 5月のスプリングセール開始！（実際に使ったおすすめ＆厳選まとめ） first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
+        <author>
+            <name>modelinghappy</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【Maya】インスタンスを自動検出＆一括管理！アウトライナで色分け表示できる無料ツール「Instance Utility」]]></title>
         <id>https://modelinghappy.com/?p=68500</id>
@@ -4477,109 +4541,6 @@ Adobe、Substance 3D Painter 12.1.0 ベータ版を公開！ベイクの歪み�
         <summary type="html"><![CDATA[GAKU氏による短期間集中型のBlenderオンラインライブワークショップ『立体絵画教室, Blender & Deep Paintで描く3Dアート』が2026年4月に開催される予定！現在受講生を募集中です！]]></summary>
         <author>
             <name>Ymt3D -3dnchu-</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【Maya】メッシュを繋がずに地形に馴染ませる方法]]></title>
-        <id>https://3d.crdg.jp/env/?p=9351</id>
-        <link href="https://3d.crdg.jp/env/2026/04/06/9351/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=%25e3%2580%2590maya%25e3%2580%2591%25e3%2583%25a1%25e3%2583%2583%25e3%2582%25b7%25e3%2583%25a5%25e3%2582%2592%25e7%25b9%258b%25e3%2581%258c%25e3%2581%259a%25e3%2581%25ab%25e5%259c%25b0%25e5%25bd%25a2%25e3%2582%2592%25e9%25a6%25b4%25e6%259f%2593%25e3%2581%25be%25e3%2581%259b%25e3%2582%258b%25e6%2596%25b9%25e6%25b3%2595"/>
-        <updated>2026-04-06T13:43:39.000Z</updated>
-        <summary type="html"><![CDATA[レースゲームなどでベースとなる地形を作成した後、レベル調整のために追加で地形を足したいケースはよくあると思います。例えば下記のように、既存の地形に対し […]
-続きを読む
-投稿 【Maya】メッシュを繋がずに地形に馴染ませる方法 は エンホリ - ENVIRONMENT HOLIC｜C&R Creative Studios に最初に表示されました。]]></summary>
-        <author>
-            <name>Kosei.Hatanaka</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【サクッと解説 #5】Substance 3D Painter：魔法のように「質感」を塗り上げる(2026年最新版) #Substance3DPainter #3DCG #テクスチャ #ゲーム開発 #VRChat]]></title>
-        <id>https://note.com/papatomo50/n/nb98be07ce3c5</id>
-        <link href="https://note.com/papatomo50/n/nb98be07ce3c5"/>
-        <updated>2026-04-06T10:16:23.000Z</updated>
-        <summary type="html"><![CDATA[こんにちは。
-3DCGツール解説の第5弾となる今回は、
-ZBrushやMayaなどで作ったモデルに対して、
-金属のサビや使い込まれた革の質感をリアルに
-「塗装」する業界標準ツール
-Adobe Substance 3D Painter
-（サブスタンス・スリーディー・ペインター）
-について、2026年現在の最新状況を解説します。
-続きをみる]]></summary>
-        <author>
-            <name>#substancepainterタグ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[わずか2秒でクリーンなローポリトポロジーを生成できる「Tripo Smart Mesh P1.0」]]></title>
-        <id>https://cginterest.com/?p=57393</id>
-        <link href="https://cginterest.com/2026/04/06/%e3%82%8f%e3%81%9a%e3%81%8b2%e7%a7%92%e3%81%a7%e3%82%af%e3%83%aa%e3%83%bc%e3%83%b3%e3%81%aa%e3%83%ad%e3%83%bc%e3%83%9d%e3%83%aa%e3%83%88%e3%83%9d%e3%83%ad%e3%82%b8%e3%83%bc%e3%82%92%e7%94%9f%e6%88%90/"/>
-        <updated>2026-04-06T09:14:32.000Z</updated>
-        <summary type="html"><![CDATA[2026年3月7日、TripoはAIによる3Dモデル生成プロセスにおいて、わずか2秒で最適化されたローポリトポロジーを作成する新機能「Tripo Smart Mesh P1.0」を発表しました。 Smart Meshとは […]
-わずか2秒でクリーンなローポリトポロジーを生成できる「Tripo Smart Mesh P1.0」 first appeared on CGinterest.]]></summary>
-        <author>
-            <name>.me</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MeshTailor: Cutting Seams via Generative Mesh Traversal | プロの制作したUVシーム設定データでトレーニングされたUVシーム設定のためのフレームワーク！]]></title>
-        <id>https://3dnchu.com/?p=1063902</id>
-        <link href="https://3dnchu.com/archives/meshtailor/"/>
-        <updated>2026-04-06T08:00:23.000Z</updated>
-        <summary type="html"><![CDATA[深セン大学 サイモン・フレイザー大学 の研究者らによる、UVシーム設定の技術「MeshTailor: Cutting Seams via Generative Mesh Traversal」が公開されています！]]></summary>
-        <author>
-            <name>Ymt3D -3dnchu-</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[UniEdge Remesher | 形状をある程度維持したまま均一な頂点密度でリメッシュ可能なBlender用Geometry Nodesモディファイア！]]></title>
-        <id>https://3dnchu.com/?p=1063846</id>
-        <link href="https://3dnchu.com/archives/uniedge-remesher/"/>
-        <updated>2026-04-06T07:39:09.000Z</updated>
-        <summary type="html"><![CDATA[Mac Orion氏が形状をある程度維持したまま均一な頂点密度でリメッシュ可能な「UniEdge Remesher」というGeometry NodesをGumroad上で販売しています。]]></summary>
-        <author>
-            <name>Ymt3D -3dnchu-</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Unity ↔ Cascadeur: Real-Time Sync & Workflow Pipeline リアルタイム同期ツール | 「Unity」と「Cascadeur」をリアルタイムに同期可能にするツールがリリース予定！紹介動画がYoutube上で公開！]]></title>
-        <id>https://3dnchu.com/?p=1063871</id>
-        <link href="https://3dnchu.com/archives/unity-cascadeur-rt-sync-teamgadget/"/>
-        <updated>2026-04-06T04:48:51.000Z</updated>
-        <summary type="html"><![CDATA[Team GadgetがUnityとCascadeurをリアルタイムに同期する事ができるツールを開発中とのことで、最新映像をYoutube上で公開しています！]]></summary>
-        <author>
-            <name>Ymt3D -3dnchu-</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【アドオン紹介】Snapshot – スナップショットでシーンの状態を保存・復元]]></title>
-        <id>https://cgbox.jp/?p=65224</id>
-        <link href="https://cgbox.jp/2026/04/06/news-addon-snapshot/"/>
-        <updated>2026-04-06T03:31:34.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは！ 今回はアドオンの「Snapshot」を紹介します。 こちらのリンクがアドオンの商品ページになります。 Snapshot 「Snapshot」は、シーンの見た目をそのまま保存・比較できるルック開発用アドオンで […]]]></summary>
-        <author>
-            <name>kasahara</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CG制作の裏側｜『果てしなきスカーレット』若手クリエイターインタビュー⑤ 実写作品を学生時代に手がけていたコンポジターが挑んだアニメ表現]]></title>
-        <id>https://note.com/dftalk/n/n9287bd75a491</id>
-        <link href="https://note.com/dftalk/n/n9287bd75a491"/>
-        <updated>2026-04-06T03:08:51.000Z</updated>
-        <summary type="html"><![CDATA[細田守監督作品『果てしなきスカーレット』では、《死者の国》のパートを中心にデジタル・フロンティアがCG制作を担当しています。
-続きをみる]]></summary>
-        <author>
-            <name>DF TALK</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stylized BSDF：複雑なノード不要でスタイライズド表現が作れるBlender用NPRシェーダー]]></title>
-        <id>https://modelinghappy.com/?p=67905</id>
-        <link href="https://modelinghappy.com/archives/67905"/>
-        <updated>2026-04-06T02:01:29.000Z</updated>
-        <summary type="html"><![CDATA[Stylized Bsdf @pojoquietさんが作成したBlenderでNPR（Non-Photorealistic Rendering / 非写実レンダリング）用シェーダーがリリースされました。複雑なノードセット
-The post Stylized BSDF：複雑なノード不要でスタイライズド表現が作れるBlender用NPRシェーダー first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
-        <author>
-            <name>modelinghappy</name>
         </author>
     </entry>
 </feed>

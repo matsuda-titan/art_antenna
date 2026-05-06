@@ -220,21 +220,6 @@
             "type": "video/mp4"
           },
           "imageUrl": "https://cgbox.jp/wp-content/uploads/2026/04/image_processing20260401-2-jzzlqi.jpg"
-        },
-        {
-          "id": "https://cgbox.jp/?p=65224",
-          "author": "kasahara",
-          "description": "こんばんは！ 今回はアドオンの「Snapshot」を紹介します。 こちらのリンクがアドオンの商品ページになります。 Snapshot 「Snapshot」は、シーンの見た目をそのまま保存・比較できるルック開発用アドオンで […]",
-          "link": "https://cgbox.jp/2026/04/06/news-addon-snapshot/",
-          "publishedOn": "2026-04-06T03:31:34.000Z",
-          "wordCount": 2031,
-          "title": "【アドオン紹介】Snapshot – スナップショットでシーンの状態を保存・復元",
-          "enclosure": {
-            "url": "https://cgbox.jp/wp-content/uploads/2026/04/Video-Project-87csacscwsz.mp4",
-            "length": "0",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://cgbox.jp/wp-content/uploads/2026/04/image_processing20260314-2-7jwu9z.png"
         }
       ]
     },
@@ -788,51 +773,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "https://3dnchu.com/wp-content/uploads/deeppaintclassjpn-gaku-2026-1-small.gif"
-        },
-        {
-          "id": "https://3dnchu.com/?p=1063902",
-          "author": "Ymt3D -3dnchu-",
-          "description": "深セン大学 サイモン・フレイザー大学 の研究者らによる、UVシーム設定の技術「MeshTailor: Cutting Seams via Generative Mesh Traversal」が公開されています！",
-          "link": "https://3dnchu.com/archives/meshtailor/",
-          "publishedOn": "2026-04-06T08:00:23.000Z",
-          "wordCount": 9039,
-          "title": "MeshTailor: Cutting Seams via Generative Mesh Traversal | プロの制作したUVシーム設定データでトレーニングされたUVシーム設定のためのフレームワーク！",
-          "enclosure": {
-            "url": "https://meshtailor.github.io/static/videos/vid_teaser_short.mp4",
-            "length": "47590544",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://3dnchu.com/wp-content/uploads/meshtailor.webp"
-        },
-        {
-          "id": "https://3dnchu.com/?p=1063846",
-          "author": "Ymt3D -3dnchu-",
-          "description": "Mac Orion氏が形状をある程度維持したまま均一な頂点密度でリメッシュ可能な「UniEdge Remesher」というGeometry NodesをGumroad上で販売しています。",
-          "link": "https://3dnchu.com/archives/uniedge-remesher/",
-          "publishedOn": "2026-04-06T07:39:09.000Z",
-          "wordCount": 8977,
-          "title": "UniEdge Remesher | 形状をある程度維持したまま均一な頂点密度でリメッシュ可能なBlender用Geometry Nodesモディファイア！",
-          "enclosure": {
-            "url": "https://3dnchu.com/wp-content/uploads/UniEdge-Remesher-Blender-Geometry-Node-video.mp4",
-            "length": "3055844",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://3dnchu.com/wp-content/uploads/UniEdge-Remesher.webp"
-        },
-        {
-          "id": "https://3dnchu.com/?p=1063871",
-          "author": "Ymt3D -3dnchu-",
-          "description": "Team GadgetがUnityとCascadeurをリアルタイムに同期する事ができるツールを開発中とのことで、最新映像をYoutube上で公開しています！",
-          "link": "https://3dnchu.com/archives/unity-cascadeur-rt-sync-teamgadget/",
-          "publishedOn": "2026-04-06T04:48:51.000Z",
-          "wordCount": 8884,
-          "title": "Unity ↔ Cascadeur: Real-Time Sync & Workflow Pipeline リアルタイム同期ツール | 「Unity」と「Cascadeur」をリアルタイムに同期可能にするツールがリリース予定！紹介動画がYoutube上で公開！",
-          "enclosure": {
-            "url": "https://3dnchu.com/wp-content/uploads/unity-cascadeur-rt-sync-teamgadget.webp",
-            "length": "952308",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://3dnchu.com/wp-content/uploads/unity-cascadeur-rt-sync-teamgadget.webp"
         }
       ]
     },
@@ -841,6 +781,16 @@
       "feedUrl": "https://cgworld.jp/atom.xml",
       "siteUrl": "https://cgworld.jp/",
       "articles": [
+        {
+          "id": "https://cgworld.jp/flashnews/01-202605-HoudiniCOPius.html",
+          "author": null,
+          "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
+          "link": "https://cgworld.jp/flashnews/01-202605-HoudiniCOPius.html",
+          "publishedOn": "2026-05-05T23:38:50.000Z",
+          "wordCount": 829,
+          "title": "SideFX、HoudiniのCOPチュートリアル「COPius Amounts of Fun」動画公開　Gnomon HIVE 2026におけるNick Scarcella氏の講演 - ニュース",
+          "imageUrl": "https://cgworld.jp/flashnews/assets_c/2026/05/HoudiniCOP-01-thumb-1920x1080-83238.jpg"
+        },
         {
           "id": "https://cgworld.jp/flashnews/01-202605-Lyra2.html",
           "author": null,
@@ -1701,6 +1651,26 @@
       "siteUrl": "https://modelinghappy.com",
       "articles": [
         {
+          "id": "https://modelinghappy.com/?p=68523",
+          "author": "modelinghappy",
+          "description": "Loop Cut Pro Loop Cut Proは、Blenderで通常のループカットよりも少ない操作で、マウスカーソル位置に直接ループカットを追加できるアドオンです。 実際に使っている動画では、ガタガタしているカーブ\nThe post Blenderの通常ループカットを大幅時短出来るアドオン「Loop Cut Pro」 first appeared on 3DCG最新情報サイト MODELING HAPPY.",
+          "link": "https://modelinghappy.com/archives/68523",
+          "publishedOn": "2026-05-06T00:11:37.000Z",
+          "wordCount": 3044,
+          "title": "Blenderの通常ループカットを大幅時短出来るアドオン「Loop Cut Pro」",
+          "imageUrl": "https://modelinghappy.com/wp-content/uploads/2026/05/20260506_loopcutpro.jpg"
+        },
+        {
+          "id": "https://modelinghappy.com/?p=68511",
+          "author": "modelinghappy",
+          "description": "公式サイト SUPER HIVE  Blender用アドオンやアセットを販売しているSUPER HIVE（旧Blendermarket）で、2026年5月5日〜5月11日まで全品25％OFFのスプリングセールが開催してい\nThe post Blender人気アドオンが全品25%OFF｜SUPER HIVE 5月のスプリングセール開始！（実際に使ったおすすめ＆厳選まとめ） first appeared on 3DCG最新情報サイト MODELING HAPPY.",
+          "link": "https://modelinghappy.com/archives/68511",
+          "publishedOn": "2026-05-05T14:41:09.000Z",
+          "wordCount": 5411,
+          "title": "Blender人気アドオンが全品25%OFF｜SUPER HIVE 5月のスプリングセール開始！（実際に使ったおすすめ＆厳選まとめ）",
+          "imageUrl": "https://modelinghappy.com/wp-content/uploads/2026/05/20260505_springsale_000.jpg"
+        },
+        {
           "id": "https://modelinghappy.com/?p=68500",
           "author": "modelinghappy",
           "description": "【Maya】Instance Utility #8211; インスタンス管理ツール【Python】 3Dモデラーのぽめさんが作成した、Mayaでシーン内にあるインスタンスを自動検出・管理するツールを公開しました。 イン\nThe post 【Maya】インスタンスを自動検出＆一括管理！アウトライナで色分け表示できる無料ツール「Instance Utility」 first appeared on 3DCG最新情報サイト MODELING HAPPY.",
@@ -2199,16 +2169,6 @@
           "wordCount": 3759,
           "title": "複数の葉や草のPBRテクスチャを自動配置してアトラス化できるBlender用アドオン「FoliageLab Atlas」",
           "imageUrl": "https://modelinghappy.com/wp-content/uploads/2026/04/20260407_foliagelab_atlas_01.jpg"
-        },
-        {
-          "id": "https://modelinghappy.com/?p=67905",
-          "author": "modelinghappy",
-          "description": "Stylized Bsdf @pojoquietさんが作成したBlenderでNPR（Non-Photorealistic Rendering / 非写実レンダリング）用シェーダーがリリースされました。複雑なノードセット\nThe post Stylized BSDF：複雑なノード不要でスタイライズド表現が作れるBlender用NPRシェーダー first appeared on 3DCG最新情報サイト MODELING HAPPY.",
-          "link": "https://modelinghappy.com/archives/67905",
-          "publishedOn": "2026-04-06T02:01:29.000Z",
-          "wordCount": 3833,
-          "title": "Stylized BSDF：複雑なノード不要でスタイライズド表現が作れるBlender用NPRシェーダー",
-          "imageUrl": "https://modelinghappy.com/wp-content/uploads/2026/04/20260406_stylizedbsdf_01.jpg"
         }
       ]
     },
@@ -3205,6 +3165,16 @@
       "siteUrl": "https://qiita.com",
       "articles": [
         {
+          "id": "https://qiita.com/sen-ltd/items/4023524239fdbc332921",
+          "author": null,
+          "description": "同じ rendering ループを 2 通りで実装した: メインスレッド上の vanilla JavaScript と、まったく同じループを書いた GLSL fragment shader。浅いズームでは GPU が 30–100 倍速い。だが あるスケールを超えると、G...",
+          "link": "https://qiita.com/sen-ltd/items/4023524239fdbc332921",
+          "publishedOn": "2026-05-06T00:52:20.000Z",
+          "wordCount": 2184,
+          "title": "同じ Mandelbrot カーネルを CPU と GPU で並べて、`float32` が壊れるところまでズームしてみた",
+          "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkY0NDExNzkxJTJGYTZhNGM1MTg4NWFhYjAxNTEzNmVkNTdkN2M0NmE5Zjc1ZjVlOTZkOSUyRnhfbGFyZ2UucG5nJTNGMTc3NjczMzQ3NT9peGxpYj1yYi00LjAuMCZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9MTFhY2Q0MmIzMzk2MjAzZTQ5ZjMwMzMwNTlkNDc4MzI%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D59dd8e86f63e34196a452305d90aca93?ixlib=rb-4.0.0&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9JUU1JTkwJThDJUUzJTgxJTk4JTIwTWFuZGVsYnJvdCUyMCVFMyU4MiVBQiVFMyU4MyVCQyVFMyU4MyU4RCVFMyU4MyVBQiVFMyU4MiU5MiUyMENQVSUyMCVFMyU4MSVBOCUyMEdQVSUyMCVFMyU4MSVBNyVFNCVCOCVBNiVFMyU4MSVCOSVFMyU4MSVBNiVFMyU4MCU4MSU2MGZsb2F0MzIlNjAlMjAlRTMlODElOEMlRTUlQTMlOEElRTMlODIlOEMlRTMlODIlOEIlRTMlODElQTglRTMlODElOTMlRTMlODIlOEQlRTMlODElQkUlRTMlODElQTclRTMlODIlQkElRTMlODMlQkMlRTMlODMlQTAlRTMlODElOTclRTMlODElQTYlRTMlODElQkYlRTMlODElOUYmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz1jNThkZTVhYjY5ZjA3YzQ5ODY3NWY4NjdjZDYzNGUwZA&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBzZW4tbHRkJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9NTYyZjRjNmMzNTUzOTZlNjI3MGI1OGE1NzA1MGIzNzM&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=0cdcfddfff72ce93b084d3313d08445c"
+        },
+        {
           "id": "https://qiita.com/techsuwako/items/2596718c21282f7875c9",
           "author": null,
           "description": "Nintendo Switch向けのNVN及びVulkanプログラミングの完全なドキュメントを、０７６スタジオのイントラネットに書き終えました。\n将来的に新入社員が学ぶ為の資料です。\n近いうちにPC向けのVulkanガイドを此のブログで書き直す予定ですが、先ずはゲームエンジ...",
@@ -3431,16 +3401,6 @@
           "wordCount": 2480,
           "title": "CG制作の裏側｜『果てしなきスカーレット』若手クリエイターインタビュー⑥ 監督の意図を読み取るアニメーション",
           "imageUrl": "https://assets.st-note.com/production/uploads/images/263378640/rectangle_large_type_2_e6535e1ce0f2375f99dd51c26d2846e1.jpeg?width=800"
-        },
-        {
-          "id": "https://note.com/dftalk/n/n9287bd75a491",
-          "author": null,
-          "description": "細田守監督作品『果てしなきスカーレット』では、《死者の国》のパートを中心にデジタル・フロンティアがCG制作を担当しています。\n続きをみる",
-          "link": "https://note.com/dftalk/n/n9287bd75a491",
-          "publishedOn": "2026-04-06T03:08:51.000Z",
-          "wordCount": 2500,
-          "title": "CG制作の裏側｜『果てしなきスカーレット』若手クリエイターインタビュー⑤ 実写作品を学生時代に手がけていたコンポジターが挑んだアニメ表現",
-          "imageUrl": "https://assets.st-note.com/production/uploads/images/259517497/rectangle_large_type_2_b700e4d1bbce11956c25909a71c5d9ea.png?width=800"
         }
       ]
     },
@@ -3692,16 +3652,6 @@
           "wordCount": 2451,
           "title": "有名ゲームスタジオ様にご依頼いただきました！！！",
           "imageUrl": "https://assets.st-note.com/production/uploads/images/261747741/rectangle_large_type_2_2b12d297115622a21b9dd0491c4c7cf2.jpeg?width=800"
-        },
-        {
-          "id": "https://note.com/papatomo50/n/nb98be07ce3c5",
-          "author": null,
-          "description": "こんにちは。\n3DCGツール解説の第5弾となる今回は、\nZBrushやMayaなどで作ったモデルに対して、\n金属のサビや使い込まれた革の質感をリアルに\n「塗装」する業界標準ツール\nAdobe Substance 3D Painter\n（サブスタンス・スリーディー・ペインター）\nについて、2026年現在の最新状況を解説します。\n続きをみる",
-          "link": "https://note.com/papatomo50/n/nb98be07ce3c5",
-          "publishedOn": "2026-04-06T10:16:23.000Z",
-          "wordCount": 3081,
-          "title": "【サクッと解説 #5】Substance 3D Painter：魔法のように「質感」を塗り上げる(2026年最新版) #Substance3DPainter #3DCG #テクスチャ #ゲーム開発 #VRChat",
-          "imageUrl": "https://assets.st-note.com/production/uploads/images/265341047/rectangle_large_type_2_16d81ea35fe31d0a718db91fd0c65998.png?width=800"
         }
       ]
     },
@@ -3755,16 +3705,6 @@
           "wordCount": 3098,
           "title": "【Substance Painter】カラー選択の際に塗り残しができる場合の解決法",
           "imageUrl": "https://3d.crdg.jp/env/wp-content/uploads/2026/04/カラー選択の際に塗り残しができる場合の解決法.jpg"
-        },
-        {
-          "id": "https://3d.crdg.jp/env/?p=9351",
-          "author": "Kosei.Hatanaka",
-          "description": "レースゲームなどでベースとなる地形を作成した後、レベル調整のために追加で地形を足したいケースはよくあると思います。例えば下記のように、既存の地形に対し […]\n続きを読む\n投稿 【Maya】メッシュを繋がずに地形に馴染ませる方法 は エンホリ - ENVIRONMENT HOLIC｜C&R Creative Studios に最初に表示されました。",
-          "link": "https://3d.crdg.jp/env/2026/04/06/9351/?utm_source=rss&utm_medium=rss&utm_campaign=%25e3%2580%2590maya%25e3%2580%2591%25e3%2583%25a1%25e3%2583%2583%25e3%2582%25b7%25e3%2583%25a5%25e3%2582%2592%25e7%25b9%258b%25e3%2581%258c%25e3%2581%259a%25e3%2581%25ab%25e5%259c%25b0%25e5%25bd%25a2%25e3%2582%2592%25e9%25a6%25b4%25e6%259f%2593%25e3%2581%25be%25e3%2581%259b%25e3%2582%258b%25e6%2596%25b9%25e6%25b3%2595",
-          "publishedOn": "2026-04-06T13:43:39.000Z",
-          "wordCount": 3089,
-          "title": "【Maya】メッシュを繋がずに地形に馴染ませる方法",
-          "imageUrl": "https://3d.crdg.jp/env/wp-content/uploads/2026/04/アイキャッチ画像_『【Maya】メッシュを繋がずに地形に馴染ませる方法』_260406_01.jpg"
         }
       ]
     },
@@ -3773,6 +3713,26 @@
       "feedUrl": "https://cginterest.com/feed/",
       "siteUrl": "https://cginterest.com",
       "articles": [
+        {
+          "id": "https://cginterest.com/?p=58565",
+          "author": ".me",
+          "description": "期間限定で無料となっているEpicのマーケットプレイスFABの無料コンテンツの紹介です。 Epic Games の統合マーケットプレイスFABでは、クリエイターとのパートナーシップによって、2週間ごとに選ばれたコンテンツ […]\n【期間限定無料】2026年5月19日までの FAB 無料コンテンツをチェック！ first appeared on CGinterest.",
+          "link": "https://cginterest.com/2026/05/06/%e3%80%90%e6%9c%9f%e9%96%93%e9%99%90%e5%ae%9a%e7%84%a1%e6%96%99%e3%80%912026%e5%b9%b45%e6%9c%8819%e6%97%a5%e3%81%be%e3%81%a7%e3%81%ae-fab-%e7%84%a1%e6%96%99%e3%82%b3%e3%83%b3%e3%83%86%e3%83%b3/",
+          "publishedOn": "2026-05-06T00:52:00.000Z",
+          "wordCount": 29130,
+          "title": "【期間限定無料】2026年5月19日までの FAB 無料コンテンツをチェック！",
+          "imageUrl": "https://cginterest.com/wp-content/uploads/2026/05/FABfreecontet2026-5-6.webp"
+        },
+        {
+          "id": "https://cginterest.com/?p=58558",
+          "author": ".me",
+          "description": "先月Sketchfabに投稿されたモデルを勝手にピックアップ(2026年5月5日調べ) するコーナーです。人気のある3Dモデルを中心に独断と偏見で選んでおります！ 通常のピックアップとは別に、無料でダウンロードできる3D […]\nSketchfabマンスリーピックアップ 2026年5月号 first appeared on CGinterest.",
+          "link": "https://cginterest.com/2026/05/06/sketchfab%e3%83%9e%e3%83%b3%e3%82%b9%e3%83%aa%e3%83%bc%e3%83%94%e3%83%83%e3%82%af%e3%82%a2%e3%83%83%e3%83%97-2026%e5%b9%b45%e6%9c%88%e5%8f%b7/",
+          "publishedOn": "2026-05-06T00:30:00.000Z",
+          "wordCount": 28921,
+          "title": "Sketchfabマンスリーピックアップ 2026年5月号",
+          "imageUrl": "https://cginterest.com/wp-content/uploads/2026/05/sketchfabmontlypickup2026-5.webp"
+        },
         {
           "id": "https://cginterest.com/?p=58552",
           "author": ".me",
@@ -4502,21 +4462,6 @@
           "wordCount": 30617,
           "title": "Adobe、Substance 3D Painter 12.1.0 ベータ版を公開！ベイクの歪みの修正機能やOpenPBRに対応など",
           "imageUrl": "https://cginterest.com/wp-content/uploads/2026/04/substance3dpainterversion12_1.webp"
-        },
-        {
-          "id": "https://cginterest.com/?p=57393",
-          "author": ".me",
-          "description": "2026年3月7日、TripoはAIによる3Dモデル生成プロセスにおいて、わずか2秒で最適化されたローポリトポロジーを作成する新機能「Tripo Smart Mesh P1.0」を発表しました。 Smart Meshとは […]\nわずか2秒でクリーンなローポリトポロジーを生成できる「Tripo Smart Mesh P1.0」 first appeared on CGinterest.",
-          "link": "https://cginterest.com/2026/04/06/%e3%82%8f%e3%81%9a%e3%81%8b2%e7%a7%92%e3%81%a7%e3%82%af%e3%83%aa%e3%83%bc%e3%83%b3%e3%81%aa%e3%83%ad%e3%83%bc%e3%83%9d%e3%83%aa%e3%83%88%e3%83%9d%e3%83%ad%e3%82%b8%e3%83%bc%e3%82%92%e7%94%9f%e6%88%90/",
-          "publishedOn": "2026-04-06T09:14:32.000Z",
-          "wordCount": 30565,
-          "title": "わずか2秒でクリーンなローポリトポロジーを生成できる「Tripo Smart Mesh P1.0」",
-          "enclosure": {
-            "url": "https://cginterest.com/wp-content/uploads/2026/04/5F99ea3c-Db2b-4A78-925B-47Fd2d9e88544.mp4",
-            "length": "177847",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://cginterest.com/wp-content/uploads/2026/04/introducing-tripo-smart-mesh-p1-0-clean-low-poly-topology-in-2-seconds.webp"
         }
       ]
     }

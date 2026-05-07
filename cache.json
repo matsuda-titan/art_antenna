@@ -2926,21 +2926,6 @@
             "type": "false"
           },
           "imageUrl": null
-        },
-        {
-          "id": "https://zenn.dev/s_hashida/articles/d86cb2614f11a3",
-          "author": "s_hashida",
-          "description": "はじめに\n前回は、カメラ行列\n\n\\mathbf{p} \\sim K [R \\mid t] \\mathbf{P}\n\nについて説明しました。\n\n\n[R \\mid t]：どこから見るか\n\nK：どう写るか\n\nという役割でした。\nここまでで、カメラの仕組み自体は見えてきました。\nでは次の疑問です。\n\nこれらのパラメータは、どうやって求めるのでしょうか？\n\nさらに考えると、こんな疑問も出てきます。\n\n\nKが分からないと R,t も求められないのでは？\n\n\\mathbf{P}（3Dの点）はどうやって分かるのか？\n\nR,tは撮るたびに変わるのに、求める意味はあるのか？\n\n今回はこれらを整理しながら...",
-          "link": "https://zenn.dev/s_hashida/articles/d86cb2614f11a3",
-          "publishedOn": "2026-04-07T21:40:05.000Z",
-          "wordCount": 1016,
-          "title": "フォトグラメトリ数学｜06：カメラパラメータはどう求めるのか（キャリブレーション）",
-          "enclosure": {
-            "url": "https://res.cloudinary.com/zenn/image/upload/s--NuFliK27--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%2595%25E3%2582%25A9%25E3%2583%2588%25E3%2582%25B0%25E3%2583%25A9%25E3%2583%25A1%25E3%2583%2588%25E3%2583%25AA%25E6%2595%25B0%25E5%25AD%25A6%25EF%25BD%259C06%25EF%25BC%259A%25E3%2582%25AB%25E3%2583%25A1%25E3%2583%25A9%25E3%2583%2591%25E3%2583%25A9%25E3%2583%25A1%25E3%2583%25BC%25E3%2582%25BF%25E3%2581%25AF%25E3%2581%25A9%25E3%2581%2586%25E6%25B1%2582%25E3%2582%2581%25E3%2582%258B%25E3%2581%25AE%25E3%2581%258B%25EF%25BC%2588%25E3%2582%25AD%25E3%2583%25A3%25E3%2583%25AA%25E3%2583%2596%25E3%2583%25AC%25E3%2583%25BC%25E3%2582%25B7%25E3%2583%25A7%25E3%2583%25B3%25EF%25BC%2589%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:s_hashida%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2JmNmU5NjMzMTEuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
-            "length": "0",
-            "type": "false"
-          },
-          "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--NuFliK27--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%2595%25E3%2582%25A9%25E3%2583%2588%25E3%2582%25B0%25E3%2583%25A9%25E3%2583%25A1%25E3%2583%2588%25E3%2583%25AA%25E6%2595%25B0%25E5%25AD%25A6%25EF%25BD%259C06%25EF%25BC%259A%25E3%2582%25AB%25E3%2583%25A1%25E3%2583%25A9%25E3%2583%2591%25E3%2583%25A9%25E3%2583%25A1%25E3%2583%25BC%25E3%2582%25BF%25E3%2581%25AF%25E3%2581%25A9%25E3%2581%2586%25E6%25B1%2582%25E3%2582%2581%25E3%2582%258B%25E3%2581%25AE%25E3%2581%258B%25EF%25BC%2588%25E3%2582%25AD%25E3%2583%25A3%25E3%2583%25AA%25E3%2583%2596%25E3%2583%25AC%25E3%2583%25BC%25E3%2582%25B7%25E3%2583%25A7%25E3%2583%25B3%25EF%25BC%2589%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:s_hashida%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2JmNmU5NjMzMTEuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"
         }
       ]
     },
@@ -2991,6 +2976,16 @@
       "feedUrl": "https://qiita.com/tags/3dcg/feed",
       "siteUrl": "https://qiita.com",
       "articles": [
+        {
+          "id": "https://qiita.com/YKVKDX12/items/cae702c31655f2bd8cce",
+          "author": null,
+          "description": "スキニングの解説\n3DCGモデルのメッシュ（表面）を、内部の骨格（ボーン）の動きに連動させて変形させる技術\n\nボーンとは？\nボーンは身も蓋も無いことを言ってしまえば…\nメッシュという肉や皮を動かす骨のことを言うが、\nもっと正確に言うなら二部グラフ木構造をしているグラフとな...",
+          "link": "https://qiita.com/YKVKDX12/items/cae702c31655f2bd8cce",
+          "publishedOn": "2026-05-07T08:39:44.000Z",
+          "wordCount": 598,
+          "title": "1. 簡単に理論　DirectXTK +HLSLでスキニング（入門編）",
+          "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnBicy50d2ltZy5jb20lMkZwcm9maWxlX2ltYWdlcyUyRjk1NjUzNTU5Mzc3NjgyNDMyMSUyRjZKUkVNZ1BpX25vcm1hbC5qcGc_aXhsaWI9cmItNC4wLjAmYXI9MSUzQTEmZml0PWNyb3AmbWFzaz1lbGxpcHNlJmJnPUZGRkZGRiZmbT1wbmczMiZzPTc4OTRkNzZiYmY1OTRmNDdiNjQ2MTFhNjM3YTY4YWM4%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D1fd3fee01fc794110d3ced74677a6396?ixlib=rb-4.0.0&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9MS4lMjAlRTclQjAlQTElRTUlOEQlOTglRTMlODElQUIlRTclOTAlODYlRTglQUIlOTYlRTMlODAlODBEaXJlY3RYVEslMjAlMkJITFNMJUUzJTgxJUE3JUUzJTgyJUI5JUUzJTgyJUFEJUUzJTgzJThCJUUzJTgzJUIzJUUzJTgyJUIwJUVGJUJDJTg4JUU1JTg1JUE1JUU5JTk2JTgwJUU3JUI3JUE4JUVGJUJDJTg5JnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9YTdmMTQ3Yzc4NTg2MjAzZTgzOGVkMmMxMzg0YTA1YzM&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBZS1ZLRFgxMiZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPTQ5YWQ3ZDRmMjkzZGViNDEzM2I3ZGUzN2U4NzA1NzU5&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=1aa0a451a8c56dc2d387c58c0d6f3489"
+        },
         {
           "id": "https://qiita.com/matumu20/items/d8d8318ee545cb22bdaf",
           "author": null,
@@ -3212,6 +3207,16 @@
       "feedUrl": "https://qiita.com/tags/hlsl/feed",
       "siteUrl": "https://qiita.com",
       "articles": [
+        {
+          "id": "https://qiita.com/YKVKDX12/items/cae702c31655f2bd8cce",
+          "author": null,
+          "description": "スキニングの解説\n3DCGモデルのメッシュ（表面）を、内部の骨格（ボーン）の動きに連動させて変形させる技術\n\nボーンとは？\nボーンは身も蓋も無いことを言ってしまえば…\nメッシュという肉や皮を動かす骨のことを言うが、\nもっと正確に言うなら二部グラフ木構造をしているグラフとな...",
+          "link": "https://qiita.com/YKVKDX12/items/cae702c31655f2bd8cce",
+          "publishedOn": "2026-05-07T08:39:44.000Z",
+          "wordCount": 598,
+          "title": "1. 簡単に理論　DirectXTK +HLSLでスキニング（入門編）",
+          "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnBicy50d2ltZy5jb20lMkZwcm9maWxlX2ltYWdlcyUyRjk1NjUzNTU5Mzc3NjgyNDMyMSUyRjZKUkVNZ1BpX25vcm1hbC5qcGc_aXhsaWI9cmItNC4wLjAmYXI9MSUzQTEmZml0PWNyb3AmbWFzaz1lbGxpcHNlJmJnPUZGRkZGRiZmbT1wbmczMiZzPTc4OTRkNzZiYmY1OTRmNDdiNjQ2MTFhNjM3YTY4YWM4%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D1fd3fee01fc794110d3ced74677a6396?ixlib=rb-4.0.0&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9MS4lMjAlRTclQjAlQTElRTUlOEQlOTglRTMlODElQUIlRTclOTAlODYlRTglQUIlOTYlRTMlODAlODBEaXJlY3RYVEslMjAlMkJITFNMJUUzJTgxJUE3JUUzJTgyJUI5JUUzJTgyJUFEJUUzJTgzJThCJUUzJTgzJUIzJUUzJTgyJUIwJUVGJUJDJTg4JUU1JTg1JUE1JUU5JTk2JTgwJUU3JUI3JUE4JUVGJUJDJTg5JnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9YTdmMTQ3Yzc4NTg2MjAzZTgzOGVkMmMxMzg0YTA1YzM&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBZS1ZLRFgxMiZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPTQ5YWQ3ZDRmMjkzZGViNDEzM2I3ZGUzN2U4NzA1NzU5&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=1aa0a451a8c56dc2d387c58c0d6f3489"
+        },
         {
           "id": "https://qiita.com/ciDaCa/items/1eeadd386fd95ae9f00e",
           "author": null,

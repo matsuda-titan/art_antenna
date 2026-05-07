@@ -2,10 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-05-07T05:52:43.666Z</updated>
+    <updated>2026-05-07T10:13:31.415Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[1. 簡単に理論　DirectXTK +HLSLでスキニング（入門編）]]></title>
+        <id>https://qiita.com/YKVKDX12/items/cae702c31655f2bd8cce</id>
+        <link href="https://qiita.com/YKVKDX12/items/cae702c31655f2bd8cce"/>
+        <updated>2026-05-07T08:39:44.000Z</updated>
+        <summary type="html"><![CDATA[スキニングの解説
+3DCGモデルのメッシュ（表面）を、内部の骨格（ボーン）の動きに連動させて変形させる技術
+
+ボーンとは？
+ボーンは身も蓋も無いことを言ってしまえば…
+メッシュという肉や皮を動かす骨のことを言うが、
+もっと正確に言うなら二部グラフ木構造をしているグラフとな...]]></summary>
+        <author>
+            <name>3DCGタグが付けられた新着記事 - Qiita</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[1. 簡単に理論　DirectXTK +HLSLでスキニング（入門編）]]></title>
+        <id>https://qiita.com/YKVKDX12/items/cae702c31655f2bd8cce</id>
+        <link href="https://qiita.com/YKVKDX12/items/cae702c31655f2bd8cce"/>
+        <updated>2026-05-07T08:39:44.000Z</updated>
+        <summary type="html"><![CDATA[スキニングの解説
+3DCGモデルのメッシュ（表面）を、内部の骨格（ボーン）の動きに連動させて変形させる技術
+
+ボーンとは？
+ボーンは身も蓋も無いことを言ってしまえば…
+メッシュという肉や皮を動かす骨のことを言うが、
+もっと正確に言うなら二部グラフ木構造をしているグラフとな...]]></summary>
+        <author>
+            <name>HLSLタグが付けられた新着記事 - Qiita</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2Dのコンセプトから 3Dイメージまで。Blender 使用、SFシーン『Colony』のメイキング Part3]]></title>
         <id>https://3dtotal.jp/?p=55460</id>
@@ -4572,43 +4604,6 @@ Blenderリトポロジーアドオン RetopoFlow 4.1.5 がリリース！編集�
 アカウント・サブスク不要、マルチプラットフォームで利用可能なの軽量3Dスカルプティングアプリ「tamga」 first appeared on CGinterest.]]></summary>
         <author>
             <name>.me</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[フォトグラメトリ数学｜06：カメラパラメータはどう求めるのか（キャリブレーション）]]></title>
-        <id>https://zenn.dev/s_hashida/articles/d86cb2614f11a3</id>
-        <link href="https://zenn.dev/s_hashida/articles/d86cb2614f11a3"/>
-        <updated>2026-04-07T21:40:05.000Z</updated>
-        <summary type="html"><![CDATA[はじめに
-前回は、カメラ行列
-
-\mathbf{p} \sim K [R \mid t] \mathbf{P}
-
-について説明しました。
-
-
-[R \mid t]：どこから見るか
-
-K：どう写るか
-
-という役割でした。
-ここまでで、カメラの仕組み自体は見えてきました。
-では次の疑問です。
-
-これらのパラメータは、どうやって求めるのでしょうか？
-
-さらに考えると、こんな疑問も出てきます。
-
-
-Kが分からないと R,t も求められないのでは？
-
-\mathbf{P}（3Dの点）はどうやって分かるのか？
-
-R,tは撮るたびに変わるのに、求める意味はあるのか？
-
-今回はこれらを整理しながら...]]></summary>
-        <author>
-            <name>s_hashida</name>
         </author>
     </entry>
 </feed>

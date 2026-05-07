@@ -2,10 +2,112 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-05-06T13:28:55.517Z</updated>
+    <updated>2026-05-07T01:56:52.046Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Shape Splatter V2、OpenPBRのネイティブサポート..。Substance 3D Designer 16 の新機能紹介]]></title>
+        <id>https://3dtotal.jp/?p=55434</id>
+        <link href="https://3dtotal.jp/news/55434/"/>
+        <updated>2026-05-07T01:36:02.000Z</updated>
+        <summary type="html"><![CDATA[★What's New in Substance 3D Designer 16.0（1分7秒） Substance 3D Designer 16 が登場しました。今回のアップデートは、まさに画期的な内容となっています。  […]
+The post Shape Splatter V2、OpenPBRのネイティブサポート..。Substance 3D Designer 16 の新機能紹介 first appeared on 3dtotal 日本語オフィシャルサイト.]]></summary>
+        <author>
+            <name>3dtotal管理人T</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[デジタル・フロンティア、Netflix『今際の国のアリス』シーズン3のインタビュー企画5編をnoteで公開　若手クリエイター陣が語るVFX制作の裏側  - ニュース]]></title>
+        <id>https://cgworld.jp/flashnews/01-202605-DF-Imawa.html</id>
+        <link href="https://cgworld.jp/flashnews/01-202605-DF-Imawa.html"/>
+        <updated>2026-05-06T22:48:44.000Z</updated>
+        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[フォトグラメトリ数学｜15：最尤推定とは何か（なぜ二乗誤差になるのか）]]></title>
+        <id>https://zenn.dev/s_hashida/articles/8bff3bf5c18b36</id>
+        <link href="https://zenn.dev/s_hashida/articles/8bff3bf5c18b36"/>
+        <updated>2026-05-06T22:15:05.000Z</updated>
+        <summary type="html"><![CDATA[はじめに
+前回は、Bundle Adjustmentを
+
+\min_\theta \| \mathbf{r}(\theta) \|^2
+
+という形で整理し、
+
+Gauss-Newton法
+Levenberg–Marquardt法
+
+によって解く方法を見ました。
+
+ここで一つ、疑問があります。
+
+なぜ二乗誤差なのか？
+
+
+これは単なる都合ではなく、
+
+
+確率的に導かれるものです。
+
+
+
+ 観測には誤差がある
+理想的な投影は
+
+\hat{\mathbf{p}} = f(\theta)
+
+ですが、実際の観測は
+
+\mathbf{p} = f(\theta) + \boldsymbol{\...]]></summary>
+        <author>
+            <name>s_hashida</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Instance Utility | Mayaシーン内にあるインスタンスを検出＆管理する為の便利ツールスクリプト！無料！]]></title>
+        <id>https://3dnchu.com/?p=1064733</id>
+        <link href="https://3dnchu.com/archives/instance-utility-maya-pome/"/>
+        <updated>2026-05-06T18:39:54.000Z</updated>
+        <summary type="html"><![CDATA[3Dモデラーの ぽめ氏がMayaシーン内のインスタンスを検出＆管理する為のツールスクリプト「Instance Utility」を無料公開しました！]]></summary>
+        <author>
+            <name>Ymt3D -3dnchu-</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unity AI Open Beta | Unity公式のAI機能がオープンベータ公開！AIアシスタントやアセット作成、ワークフローの自動化、自然言語によるプロンプトを使用したプロジェクト操作などが可能！]]></title>
+        <id>https://3dnchu.com/?p=1064761</id>
+        <link href="https://3dnchu.com/archives/unity-ai-open-beta/"/>
+        <updated>2026-05-06T18:33:56.000Z</updated>
+        <summary type="html"><![CDATA[Unityが予告通り公式のAI機能をオープンベータリリースしました！Unity 6以降をご利用のすべての開発者向けに利用可能！]]></summary>
+        <author>
+            <name>Ymt3D -3dnchu-</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Substance 3D Designer 16.0 | Shape Splatter v2を搭載！OpenPBR対応！3D SDFノードでより多彩な表現が可能になったAdobeのテクスチャ＆マテリアルオーサリングツール最新アップデート！]]></title>
+        <id>https://3dnchu.com/?p=1064735</id>
+        <link href="https://3dnchu.com/archives/substance-3d-designer-16-0/"/>
+        <updated>2026-05-06T18:26:42.000Z</updated>
+        <summary type="html"><![CDATA[Adobeのテクスチャ＆マテリアルオーサリングツール最新アップデート「Adobe Substance 3D Designer 16.0」が公開されトレーラーがYoutube上で公開されています。]]></summary>
+        <author>
+            <name>Ymt3D -3dnchu-</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[VFX Mesh Builder | Unity上でエフェクト用の3Dメッシュをプロシージャルに生成出来るツールがリリース！]]></title>
+        <id>https://3dnchu.com/?p=1064352</id>
+        <link href="https://3dnchu.com/archives/vfx-mesh-builder-unity/"/>
+        <updated>2026-05-06T17:01:10.000Z</updated>
+        <summary type="html"><![CDATA[ArcLabからUnity上でVFXエフェクト用に最適なメッシュをプロシージャル生成出来るツール「VFX Mesh Builder」がリリースされました！]]></summary>
+        <author>
+            <name>Ymt3D -3dnchu-</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Blenderで塗装剥がれ・傷・汚れを1クリック追加出来る無料アドオン「Edge Wear」]]></title>
         <id>https://modelinghappy.com/?p=68536</id>
@@ -4399,128 +4501,6 @@ R,tは撮るたびに変わるのに、求める意味はあるのか？
 今回はこれらを整理しながら...]]></summary>
         <author>
             <name>s_hashida</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[平成女児チョコをつくる]]></title>
-        <id>https://note.com/thesaurus/n/n2c8fb2383b86</id>
-        <link href="https://note.com/thesaurus/n/n2c8fb2383b86"/>
-        <updated>2026-04-07T12:09:05.000Z</updated>
-        <summary type="html"><![CDATA[第29回 Houdini ゆるゆる会のテーマは「バレンタイン」でした。
-今回はそのお題に合わせて、いわゆる“平成女児チョコ”を作ってみました。
-今回の制作で意識したポイントは次の2つです。
-続きをみる]]></summary>
-        <author>
-            <name>#Houdiniタグ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[板ポリ植物モデルを生やすように配置できるBlenderアドオン「FoliageLab – Cluster」]]></title>
-        <id>https://modelinghappy.com/?p=67928</id>
-        <link href="https://modelinghappy.com/archives/67928"/>
-        <updated>2026-04-07T09:24:09.000Z</updated>
-        <summary type="html"><![CDATA[FoliageLab #8211; Cluster FoliageLab #8211; Clusterは、Blenderで、草や葉などのゲーム用に使う板ポリ植物のモデルを簡単に配置できるアドオンです。 メッシュが入っ
-The post 板ポリ植物モデルを生やすように配置できるBlenderアドオン「FoliageLab – Cluster」 first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
-        <author>
-            <name>modelinghappy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[草や葉のOpacityマップから最適メッシュを自動・手動生成できるBlenderアドオン「FoliageLab – Cutter」]]></title>
-        <id>https://modelinghappy.com/?p=67918</id>
-        <link href="https://modelinghappy.com/archives/67918"/>
-        <updated>2026-04-07T09:04:41.000Z</updated>
-        <summary type="html"><![CDATA[FoliageLab #8211; Cutter FoliageLab #8211; Cutterrは、Blenderで草や葉などのOpacityマップを読み込み、シルエットに沿った最適なメッシュを自動または手動で生
-The post 草や葉のOpacityマップから最適メッシュを自動・手動生成できるBlenderアドオン「FoliageLab – Cutter」 first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
-        <author>
-            <name>modelinghappy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[複数の葉や草のPBRテクスチャを自動配置してアトラス化できるBlender用アドオン「FoliageLab Atlas」]]></title>
-        <id>https://modelinghappy.com/?p=67911</id>
-        <link href="https://modelinghappy.com/archives/67911"/>
-        <updated>2026-04-07T08:42:54.000Z</updated>
-        <summary type="html"><![CDATA[FoliageLab #8211; Atlas FoliageLab #8211; Atlasは、Blenderで草や葉などのPBRテクスチャを自動検出し、複数の素材を1枚のテクスチャアトラスとしてまとめて整理できる
-The post 複数の葉や草のPBRテクスチャを自動配置してアトラス化できるBlender用アドオン「FoliageLab Atlas」 first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
-        <author>
-            <name>modelinghappy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ソフトウェアに依存しないアーティストの共通点とは？ 反響を呼んだ『上手いエフェクトアーティストのエッセンス』が5/13（水）再講演決定 - ニュース]]></title>
-        <id>https://cgworld.jp/flashnews/0513-plusone-sakaguchi.html</id>
-        <link href="https://cgworld.jp/flashnews/0513-plusone-sakaguchi.html"/>
-        <updated>2026-04-07T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【インタビュー】数々の印象的な建築ビジュアライゼーション作品：CGアーティスト Derda BAL 氏]]></title>
-        <id>https://3dtotal.jp/?p=55216</id>
-        <link href="https://3dtotal.jp/features/55216/"/>
-        <updated>2026-04-07T07:56:27.000Z</updated>
-        <summary type="html"><![CDATA[Q. 自己紹介をお願いします。アートに惹かれたきっかけや、影響を受けたものを教えてください こんにちは、Derda です。自分の会社 The Block Visual でアートディレクターとして働いています。この分野に入 […]
-The post 【インタビュー】数々の印象的な建築ビジュアライゼーション作品：CGアーティスト Derda BAL 氏 first appeared on 3dtotal 日本語オフィシャルサイト.]]></summary>
-        <author>
-            <name>3dtotal管理人T</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[デジタルコンテンツの未来〜温故知新〜 第17回：渡部 健司（東京国際工科専門職大学　デジタルエンタテインメント学科　CGアニメーションコース教授）]]></title>
-        <id>https://area.autodesk.jp/column/trend_tech/digital-contents-future/17-watanabe-kenji/</id>
-        <link href="https://area.autodesk.jp/column/trend_tech/digital-contents-future/17-watanabe-kenji/"/>
-        <updated>2026-04-07T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[CGと縁の深い方々にお話をうかがい、デジタルコンテンツの未来を見通していく記事をお届けする本連載。今回は日本の最初期のCGプロダクションであるJCGL、ナムコなどに勤め、1980年代中盤以降の日本のCG業界を横断する話から、CGを通じてさまざまなメディアや高等教育に携わることで見えた課題点など、未来志向の言葉を多数いただいた。・・・]]></summary>
-        <author>
-            <name>AREA JAPAN | Autodesk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fast Continuous Collision Detection using Parallel Filter in Subspace (2011)]]></title>
-        <id>https://qiita.com/matumu20/items/f66c470fbb90a16a69b1</id>
-        <link href="https://qiita.com/matumu20/items/f66c470fbb90a16a69b1"/>
-        <updated>2026-04-07T03:47:58.000Z</updated>
-        <summary type="html"><![CDATA[Fast Continuous Collision Detection using Parallel Filter in Subspace (Tang, 2011)
-
-## 高速な連続衝突検出：サブスペースにおける並列フィルタリング
-
-### 1. 問題点：なぜ高速な衝...]]></summary>
-        <author>
-            <name>3DCGタグが付けられた新着記事 - Qiita</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[次世代クリエイターの世界進出を後押し。IMAGICA GROUPオリジナル映画製作プロジェクト第2弾、カンヌで発表 - ニュース]]></title>
-        <id>https://cgworld.jp/flashnews/02-2604-imagica.html</id>
-        <link href="https://cgworld.jp/flashnews/02-2604-imagica.html"/>
-        <updated>2026-04-07T03:36:00.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CG制作の裏側｜『果てしなきスカーレット』若手クリエイターインタビュー⑥ 監督の意図を読み取るアニメーション]]></title>
-        <id>https://note.com/dftalk/n/ne67037ed3ccf</id>
-        <link href="https://note.com/dftalk/n/ne67037ed3ccf"/>
-        <updated>2026-04-07T03:01:02.000Z</updated>
-        <summary type="html"><![CDATA[細田守監督作品『果てしなきスカーレット』では、《死者の国》のパートを中心にデジタル・フロンティアがCG制作を担当しています。
-続きをみる]]></summary>
-        <author>
-            <name>DF TALK</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[アーティストが"そこにいる"という没入体験のつくりかた。HYBE JAPAN×IMAGICA EEX×ヒビノが挑むロケーションベースエンターテインメント - 特集]]></title>
-        <id>https://cgworld.jp/article/2604-enypen.html</id>
-        <link href="https://cgworld.jp/article/2604-enypen.html"/>
-        <updated>2026-04-07T03:00:59.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
         </author>
     </entry>
 </feed>

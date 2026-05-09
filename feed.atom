@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-05-08T13:07:11.445Z</updated>
+    <updated>2026-05-09T01:56:22.358Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[アドビ、Firefly AIアシスタントのパブリックベータ版を提供開始　言葉での指示によりCreative Cloudアプリ全体で複雑なマルチステップワークフローを自動実行 - ニュース]]></title>
+        <id>https://cgworld.jp/flashnews/01-202605-FireflyAI-Assist.html</id>
+        <link href="https://cgworld.jp/flashnews/01-202605-FireflyAI-Assist.html"/>
+        <updated>2026-05-08T22:55:22.000Z</updated>
+        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Run animation | Breakdown | 手描きスタイルが印象的！Blender＆Marvelous Designer＆Substance 3D Painterを活用したアニメーションのブレイクダウン！]]></title>
         <id>https://3dnchu.com/?p=1064875</id>
@@ -4445,114 +4455,6 @@ NOです。
         <updated>2026-04-09T19:14:00.000Z</updated>
         <author>
             <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[UE5] CineCameraのアナモルフィックレンズをもっと映画風にしてみた]]></title>
-        <id>https://zenn.dev/nlnnn/articles/afcff82193ec1a</id>
-        <link href="https://zenn.dev/nlnnn/articles/afcff82193ec1a"/>
-        <updated>2026-04-09T12:48:26.000Z</updated>
-        <summary type="html"><![CDATA[1 はじめに
-先日、UE5のPCGとChaos Destructionを組み合わせた破壊演出を作る際に、Cine Cameraを使ってシネマティックス映像をレンダリングしました。
-https://zenn.dev/nlnnn/articles/d3b4fc8918f29a
-そこで、Cine Cameraのレンズを、Squeeze Factor 1.33xのアナモルフィックに設定し、2.35:1の横長の映画風画面を表現してみました。
-
-出力した映像はこんな感じでした。
-https://www.youtube.com/watch?v=LLSptw_Coj4
-特に問題があるわけではありませ...]]></summary>
-        <author>
-            <name>Enlin Li</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Intel 発のパスガイディングライブラリ「OpenPGL」が、ASWFのホストプロジェクトに]]></title>
-        <id>https://cginterest.com/?p=57490</id>
-        <link href="https://cginterest.com/2026/04/09/intel-%e7%99%ba%e3%81%ae%e3%83%91%e3%82%b9%e3%82%ac%e3%82%a4%e3%83%87%e3%82%a3%e3%83%b3%e3%82%b0%e3%83%a9%e3%82%a4%e3%83%96%e3%83%a9%e3%83%aa%e3%80%8copenpgl%e3%80%8d%e3%81%8c%e3%80%81aswf%e3%81%ae/"/>
-        <updated>2026-04-09T06:45:20.000Z</updated>
-        <summary type="html"><![CDATA[2026年4月8日（現地時間）- 映像制作業界におけるオープンソースソフトウェア開発を推進する主要団体であるAcademy Software Foundation (ASWF) は、新たなホストプロジェクトとして「Ope […]
-Intel 発のパスガイディングライブラリ「OpenPGL」が、ASWFのホストプロジェクトに first appeared on CGinterest.]]></summary>
-        <author>
-            <name>.me</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[『Ray Tracing Gems』— リアルタイムレイトレの実践知が詰まった一冊]]></title>
-        <id>https://zenn.dev/dsgarage/articles/ray-tracing-gems-review</id>
-        <link href="https://zenn.dev/dsgarage/articles/ray-tracing-gems-review"/>
-        <updated>2026-04-09T02:35:41.000Z</updated>
-        <summary type="html"><![CDATA[『Ray Tracing Gems』— リアルタイムレイトレの実践知が詰まった一冊
-
- サマリー
-
-この本を一言で言うと: リアルタイムレイトレーシングの「理論は知っている、だが実装でつまずく」を全32章で解決する実践レシピ集。
-
-
-
-
-項目
-内容
-
-
-
-
-著者
-Eric Haines, Tomas Akenine-Moller 編 / NVIDIA・EA・Epicほか多数の執筆陣
-
-
-対象
-レイトレーシングをリアルタイムに載せたいグラフィックスエンジニア
-
-
-読後に得られるもの
-DXRパイプラインの設計判断、デノイジング戦略、ハイブリッドレンダリングの引き出し
-
-
-読了目安
-通読3...]]></summary>
-        <author>
-            <name>つかさんさん</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[マーザが挑んだ映画『たべっ子どうぶつ THE MOVIE』（3）お菓子の世界を描ききる画づくり - 特集]]></title>
-        <id>https://cgworld.jp/article/202604-tabekko-03.html</id>
-        <link href="https://cgworld.jp/article/202604-tabekko-03.html"/>
-        <updated>2026-04-09T02:07:00.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[複数のグラデーションテクスチャを簡単作成、モデル上のパスに沿ったグラデーション配置もできるBlenderアドオン「Palette Grid」]]></title>
-        <id>https://modelinghappy.com/?p=67951</id>
-        <link href="https://modelinghappy.com/archives/67951"/>
-        <updated>2026-04-09T01:56:12.000Z</updated>
-        <summary type="html"><![CDATA[Palette Grid #8211; Smart Palette Texture Builder Blender Addon Palette Gridは、Blender内で複数の小さなグラデーションテクスチャを作成し
-The post 複数のグラデーションテクスチャを簡単作成、モデル上のパスに沿ったグラデーション配置もできるBlenderアドオン「Palette Grid」 first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
-        <author>
-            <name>modelinghappy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3Dシーン補完生成技術「Seen2Scene」発表！ 不完全な実世界の3Dスキャンデータから現実的な3Dシーンを補完・生成 - ニュース]]></title>
-        <id>https://cgworld.jp/flashnews/01-202604-Seen2Scene.html</id>
-        <link href="https://cgworld.jp/flashnews/01-202604-Seen2Scene.html"/>
-        <updated>2026-04-09T01:28:35.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[インテリアデザイン向けの無料Blender用アドオン 「Home Builder 5.1」 アップデート！参照画像の改善、階段ツールや配置補助機能の追加など]]></title>
-        <id>https://cginterest.com/?p=57281</id>
-        <link href="https://cginterest.com/2026/04/09/%e3%82%a4%e3%83%b3%e3%83%86%e3%83%aa%e3%82%a2%e3%83%87%e3%82%b6%e3%82%a4%e3%83%b3%e5%90%91%e3%81%91%e3%81%ae%e7%84%a1%e6%96%99blender%e7%94%a8%e3%82%a2%e3%83%89%e3%82%aa%e3%83%b3-%e3%80%8chome-builder/"/>
-        <updated>2026-04-08T22:51:00.000Z</updated>
-        <summary type="html"><![CDATA[建築・インテリアデザイン向けのBlender用アドオン「Home Builder 5」のリリースから約1ヶ月、早くもアップデート版となる「Home Builder 5.1」がリリースされました。 今回のアップデートは、ユ […]
-インテリアデザイン向けの無料Blender用アドオン 「Home Builder 5.1」 アップデート！参照画像の改善、階段ツールや配置補助機能の追加など first appeared on CGinterest.]]></summary>
-        <author>
-            <name>.me</name>
         </author>
     </entry>
 </feed>

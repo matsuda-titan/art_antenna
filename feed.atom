@@ -2,10 +2,43 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-05-09T12:53:28.459Z</updated>
+    <updated>2026-05-10T01:55:29.500Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[スライダーやカラー設定まで配置可能になるBlender用オリジナルパイメニュー作成アドオン「PieMaster」ベータ版がリリース]]></title>
+        <id>https://modelinghappy.com/?p=68603</id>
+        <link href="https://modelinghappy.com/archives/68603"/>
+        <updated>2026-05-10T01:49:00.000Z</updated>
+        <summary type="html"><![CDATA[PieMaster Pitiwazouさんが作成した、Blenderで自由に細かくカスタマイズ出来るパイメニューエディタ「PieMaster」のベータ版がリリースしました。 通常のBlenderでは、ツールを探すために複
+The post スライダーやカラー設定まで配置可能になるBlender用オリジナルパイメニュー作成アドオン「PieMaster」ベータ版がリリース first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
+        <author>
+            <name>modelinghappy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[水流に削られたような谷や尾根のある地形を作れる無料Blender侵食ノード「Quick Erosion Filter」]]></title>
+        <id>https://modelinghappy.com/?p=68595</id>
+        <link href="https://modelinghappy.com/archives/68595"/>
+        <updated>2026-05-10T01:34:41.000Z</updated>
+        <summary type="html"><![CDATA[Quick Erosion Filter Quick Erosion Filterは、メッシュに対してリアルな雨・風・水流・時間の経過などで自然に削れたような形を侵食形状を追加できるBlender用ジオメトリノードです。
+The post 水流に削られたような谷や尾根のある地形を作れる無料Blender侵食ノード「Quick Erosion Filter」 first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
+        <author>
+            <name>modelinghappy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[UVをリアルタイムに切る・結合する・描いた形に変形出来るBlenderアドオン「Uv Flex」]]></title>
+        <id>https://modelinghappy.com/?p=68586</id>
+        <link href="https://modelinghappy.com/archives/68586"/>
+        <updated>2026-05-09T13:17:06.000Z</updated>
+        <summary type="html"><![CDATA[Uv Flex #8211; Interactive Editing Tools Uv FlexはBlenderでUV調整が便利になる機能が３つ入ったアドオンです。 １つ目はエッジを連続して選択する事で切り離す事が可能
+The post UVをリアルタイムに切る・結合する・描いた形に変形出来るBlenderアドオン「Uv Flex」 first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
+        <author>
+            <name>modelinghappy</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Blenderで200種類以上のシームレス汚れ素材が使える「Realistic Touch」実際に使ってみた。レビュー]]></title>
         <id>https://modelinghappy.com/?p=68563</id>
@@ -4289,98 +4322,6 @@ https://www.youtube.com/live/eJqFLsjPWcY?si=0w7RH-XJTxTtU0tf
 Unity ShaderGraph Coo...]]></summary>
         <author>
             <name>ryuga.</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[アドビ、Adobe Fontsに56の日本語フォントを追加！極太バリアブルフォント「ネオクロ」の開発状況も発表]]></title>
-        <id>https://cginterest.com/?p=57562</id>
-        <link href="https://cginterest.com/2026/04/10/%e3%82%a2%e3%83%89%e3%83%93%e3%80%81adobe-fonts%e3%81%ab56%e3%81%ae%e6%97%a5%e6%9c%ac%e8%aa%9e%e3%83%95%e3%82%a9%e3%83%b3%e3%83%88%e3%82%92%e8%bf%bd%e5%8a%a0%ef%bc%81%e6%a5%b5%e5%a4%aa%e3%83%90/"/>
-        <updated>2026-04-10T09:13:37.000Z</updated>
-        <summary type="html"><![CDATA[アドビは、2026年4月10日の「フォントの日」に合わせて、Adobe Fontsに56種類の日本語フォントを新たに追加したことを発表しました。また、現在開発中の新しい日本語バリアブルフォント「ネオクロ」に関する情報や、 […]
-アドビ、Adobe Fontsに56の日本語フォントを追加！極太バリアブルフォント「ネオクロ」の開発状況も発表 first appeared on CGinterest.]]></summary>
-        <author>
-            <name>.me</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Babylon.js 9 がリリース！ライティングやパーティクルシステムの強化、地理空間レンダリング、リターゲティング機能などなど]]></title>
-        <id>https://cginterest.com/?p=57499</id>
-        <link href="https://cginterest.com/2026/04/10/babylon-js-9-%e3%81%8c%e3%83%aa%e3%83%aa%e3%83%bc%e3%82%b9%ef%bc%81%e3%83%a9%e3%82%a4%e3%83%86%e3%82%a3%e3%83%b3%e3%82%b0%e3%82%84%e3%83%91%e3%83%bc%e3%83%86%e3%82%a3%e3%82%af%e3%83%ab%e3%82%b7/"/>
-        <updated>2026-04-10T06:55:00.000Z</updated>
-        <summary type="html"><![CDATA[Babylon.jsの開発チームは、オープンなWebレンダリングエンジンの最新アップデート「Babylon.js 9」をリリースしました。 新機能ハイライト 今回のアップデートは過去最大規模のアップデートとされており、「 […]
-Babylon.js 9 がリリース！ライティングやパーティクルシステムの強化、地理空間レンダリング、リターゲティング機能などなど first appeared on CGinterest.]]></summary>
-        <author>
-            <name>.me</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Framestore より、SF映画『ミッキー17』のVFXブレイクダウン映像]]></title>
-        <id>https://3dtotal.jp/?p=55232</id>
-        <link href="https://3dtotal.jp/news/55232/"/>
-        <updated>2026-04-10T02:28:11.000Z</updated>
-        <summary type="html"><![CDATA[★Mickey17 VFX Breakdown | Framestore（4分45秒） ポン・ジュノ 監督 が『ミッキー17』に描いたディストピア的な世界観を実現するには、陰鬱なホラーとブラックユーモアを融合させられるク […]
-The post Framestore より、SF映画『ミッキー17』のVFXブレイクダウン映像 first appeared on 3dtotal 日本語オフィシャルサイト.]]></summary>
-        <author>
-            <name>3dtotal管理人T</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AKIHABARA STUDIO【モーションキャプチャスタジオ】 - 連載]]></title>
-        <id>https://cgworld.jp/regular/2510-akihabara-studio.html</id>
-        <link href="https://cgworld.jp/regular/2510-akihabara-studio.html"/>
-        <updated>2026-04-10T02:24:49.000Z</updated>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[無料のBlenderアドオン「Bezier Curve Editor」リリース　タイムライン上でキーフレームのイージングカーブを直感的に編集 - ニュース]]></title>
-        <id>https://cgworld.jp/flashnews/01-202604-BezierCurve.html</id>
-        <link href="https://cgworld.jp/flashnews/01-202604-BezierCurve.html"/>
-        <updated>2026-04-10T02:10:04.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【アドオン紹介】Flow Navigation – 視点操作を滑らかにしてくれるアドオン]]></title>
-        <id>https://cgbox.jp/?p=65233</id>
-        <link href="https://cgbox.jp/2026/04/10/news-addon-flow-navigation/"/>
-        <updated>2026-04-10T02:08:35.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは！ 今回はアドオンの「Flow Navigation」を紹介します。 こちらのリンクがアドオンの商品ページになります。 Flow Navigation 「Flow Navigation」は、Blenderのビュ […]]]></summary>
-        <author>
-            <name>kasahara</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[求人情報 ジーン]]></title>
-        <id>https://area.autodesk.jp/jobs/xeen/</id>
-        <link href="https://area.autodesk.jp/jobs/xeen/"/>
-        <updated>2026-04-10T02:00:00.000Z</updated>
-        <summary type="html"><![CDATA[株式会社ジーンは、アーケードをはじめ、コンシューマ、スマートフォンと多彩なプラットフォーム向けにゲーム開発を行っている、大阪を拠点とした制作会社です。様々なプラットフォームでの開発経験からくる技術力の高さと、クオリティへのこだわりが弊社の強みであり、とくにアーケードゲームの世界では創業時から業界内で高い評価を受けています。・・・]]></summary>
-        <author>
-            <name>AREA JAPAN | Autodesk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[5/21（木）東京にて海外ゼネラリスト竹本宏樹氏による効率の良い背景制作のロジックセミナー開催。広大な背景を「最小の労力」で構築するための思考法を公開 - ニュース]]></title>
-        <id>https://cgworld.jp/flashnews/02-2604-haikei.html</id>
-        <link href="https://cgworld.jp/flashnews/02-2604-haikei.html"/>
-        <updated>2026-04-10T01:26:47.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mayaにおける魅惑のプロップリグ～モジュラーリギングシステムの基本と応用～ 第7回：リグモジュールの開発とセットアップ その6〜⾃動⾞〜]]></title>
-        <id>https://area.autodesk.jp/column/tutorial/prop-rig/07-rig-module-dev-setup-6/</id>
-        <link href="https://area.autodesk.jp/column/tutorial/prop-rig/07-rig-module-dev-setup-6/"/>
-        <updated>2026-04-10T01:00:00.000Z</updated>
-        <summary type="html"><![CDATA[こんにちは、久保です。今回もプロップのセットアップを進めていこうと思います。さて 今回の題材はこちら自動車（題材）はい自動車です。カッコいいスポーツカーでもよかったのですが、実用的なタイプにしてみました。・・・]]></summary>
-        <author>
-            <name>AREA JAPAN | Autodesk</name>
         </author>
     </entry>
 </feed>

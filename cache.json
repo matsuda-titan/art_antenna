@@ -887,6 +887,26 @@
       "siteUrl": "https://cgworld.jp/",
       "articles": [
         {
+          "id": "https://cgworld.jp/flashnews/01-202605-ZibraGDS.html",
+          "author": null,
+          "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
+          "link": "https://cgworld.jp/flashnews/01-202605-ZibraGDS.html",
+          "publishedOn": "2026-05-10T03:14:17.000Z",
+          "wordCount": 789,
+          "title": "Zibra AI、UE向けプラグイン「ZibraGDS」オープンベータ開始　独自圧縮技術とリアルタイムレンダリング技術により破壊や流体、キャラクターアニメーションなどのVFXを高速描画 - ニュース",
+          "imageUrl": "https://cgworld.jp/flashnews/assets_c/2026/05/ZibraGDS-01-thumb-1920x1080-83371.jpg"
+        },
+        {
+          "id": "https://cgworld.jp/flashnews/cgw335-pr.html",
+          "author": null,
+          "description": "【6/10発売】CGWORLD vol.335（2026年7月号）特集「スマスロ ミリオンゴッド-神々の軌跡-」。知られざる遊技機映像開発の全貌を初公開！",
+          "link": "https://cgworld.jp/flashnews/cgw335-pr.html",
+          "publishedOn": "2026-05-10T03:00:00.000Z",
+          "wordCount": 744,
+          "title": "CGWORLD vol.335（2026年7月号）「スマスロ ミリオンゴッド-神々の軌跡-」特集号を先行告知！ - ニュース",
+          "imageUrl": "https://cgworld.jp/flashnews/assets_c/2026/05/web_335_infobanner_before-thumb-1000x563-83369.jpg"
+        },
+        {
           "id": "https://cgworld.jp/flashnews/01-202605-FireflyAI-Assist.html",
           "author": null,
           "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
@@ -2498,21 +2518,6 @@
             "type": "false"
           },
           "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--iNA430uQ--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:HLSL%25E3%2582%25B7%25E3%2582%25A7%25E3%2583%25BC%25E3%2583%2580%25E3%2583%25BC%25E3%2581%25AE%25E9%25AD%2594%25E5%25B0%258E%25E6%259B%25B8%25E3%2582%2592%25E5%258B%2589%25E5%25BC%25B7%25E3%2581%2597%25E3%2581%25A6%25E8%25BA%2593%25E3%2581%2584%25E3%2581%259F%25E5%2580%258B%25E6%2589%2580%25E3%2582%2584%25E8%25A6%259A%25E3%2581%2588%25E3%2581%25A6%25E3%2581%258A%25E3%2581%258D%25E3%2581%259F%25E3%2581%2584%25E3%2581%2593%25E3%2581%25A8%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2583%2580%25E3%2582%25A4%25E3%2582%25AD%25E3%2583%2581%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jSnVrSk9FU2laeDNxLVJaOGtfSFZxOUJwY0E0WENOTmlUUllLR2NuaGtLWmxlSmJ3PXMyNTAtYw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"
-        },
-        {
-          "id": "https://zenn.dev/zn_ryg12/articles/shader-note-20260410",
-          "author": "ryuga.",
-          "description": "現在進行形で勉強しているので、参考にしたものを淡々と記載してます。\n\n Shader Graph\n\n\n\nUnity道場\nUnity　Japanの動画\nとりあえず触ってみるにあたって、動画を見ながら一緒に操作する事でどういうツールなのか知れる。\nシェーダーグラフ内の機能やノードの解説もわかりやすい。\n\nhttps://www.youtube.com/live/3TXHMS8xFJ0?si=dnOsyQpyAIUPC03P\nhttps://www.youtube.com/live/eJqFLsjPWcY?si=0w7RH-XJTxTtU0tf\n\n\n\nUnity ShaderGraph Coo...",
-          "link": "https://zenn.dev/zn_ryg12/articles/shader-note-20260410",
-          "publishedOn": "2026-04-10T14:57:38.000Z",
-          "wordCount": 470,
-          "title": "Unity ShaderGraph備忘録 part0.5-参考になった入門記事など",
-          "enclosure": {
-            "url": "https://res.cloudinary.com/zenn/image/upload/s--XMltFN1j--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Unity%2520ShaderGraph%25E5%2582%2599%25E5%25BF%2598%25E9%258C%25B2%2520part0.5-%25E5%258F%2582%25E8%2580%2583%25E3%2581%25AB%25E3%2581%25AA%25E3%2581%25A3%25E3%2581%259F%25E5%2585%25A5%25E9%2596%2580%25E8%25A8%2598%25E4%25BA%258B%25E3%2581%25AA%25E3%2581%25A9%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:ryuga.%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jS1lsU1ZRcnpMYW1lRXUzY3lqQW9JdGhFQW8wMGNhaGpLY1JnRkh0a3JYRnJRdjBlSTU9czI1MC1j%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
-            "length": "0",
-            "type": "false"
-          },
-          "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--XMltFN1j--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Unity%2520ShaderGraph%25E5%2582%2599%25E5%25BF%2598%25E9%258C%25B2%2520part0.5-%25E5%258F%2582%25E8%2580%2583%25E3%2581%25AB%25E3%2581%25AA%25E3%2581%25A3%25E3%2581%259F%25E5%2585%25A5%25E9%2596%2580%25E8%25A8%2598%25E4%25BA%258B%25E3%2581%25AA%25E3%2581%25A9%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:ryuga.%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jS1lsU1ZRcnpMYW1lRXUzY3lqQW9JdGhFQW8wMGNhaGpLY1JnRkh0a3JYRnJRdjBlSTU9czI1MC1j%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"
         }
       ]
     },
@@ -2587,21 +2592,6 @@
             "type": "false"
           },
           "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--vYhSTxSy--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Unity%2520ShaderGraph%25E5%2582%2599%25E5%25BF%2598%25E9%258C%25B2%2520part1-UV%25E3%2581%25A8UV%25E3%2582%25B9%25E3%2582%25AF%25E3%2583%25AD%25E3%2583%25BC%25E3%2583%25AB%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:ryuga.%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jS1lsU1ZRcnpMYW1lRXUzY3lqQW9JdGhFQW8wMGNhaGpLY1JnRkh0a3JYRnJRdjBlSTU9czI1MC1j%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"
-        },
-        {
-          "id": "https://zenn.dev/zn_ryg12/articles/shader-note-20260410",
-          "author": "ryuga.",
-          "description": "現在進行形で勉強しているので、参考にしたものを淡々と記載してます。\n\n Shader Graph\n\n\n\nUnity道場\nUnity　Japanの動画\nとりあえず触ってみるにあたって、動画を見ながら一緒に操作する事でどういうツールなのか知れる。\nシェーダーグラフ内の機能やノードの解説もわかりやすい。\n\nhttps://www.youtube.com/live/3TXHMS8xFJ0?si=dnOsyQpyAIUPC03P\nhttps://www.youtube.com/live/eJqFLsjPWcY?si=0w7RH-XJTxTtU0tf\n\n\n\nUnity ShaderGraph Coo...",
-          "link": "https://zenn.dev/zn_ryg12/articles/shader-note-20260410",
-          "publishedOn": "2026-04-10T14:57:38.000Z",
-          "wordCount": 470,
-          "title": "Unity ShaderGraph備忘録 part0.5-参考になった入門記事など",
-          "enclosure": {
-            "url": "https://res.cloudinary.com/zenn/image/upload/s--XMltFN1j--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Unity%2520ShaderGraph%25E5%2582%2599%25E5%25BF%2598%25E9%258C%25B2%2520part0.5-%25E5%258F%2582%25E8%2580%2583%25E3%2581%25AB%25E3%2581%25AA%25E3%2581%25A3%25E3%2581%259F%25E5%2585%25A5%25E9%2596%2580%25E8%25A8%2598%25E4%25BA%258B%25E3%2581%25AA%25E3%2581%25A9%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:ryuga.%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jS1lsU1ZRcnpMYW1lRXUzY3lqQW9JdGhFQW8wMGNhaGpLY1JnRkh0a3JYRnJRdjBlSTU9czI1MC1j%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
-            "length": "0",
-            "type": "false"
-          },
-          "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--XMltFN1j--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Unity%2520ShaderGraph%25E5%2582%2599%25E5%25BF%2598%25E9%258C%25B2%2520part0.5-%25E5%258F%2582%25E8%2580%2583%25E3%2581%25AB%25E3%2581%25AA%25E3%2581%25A3%25E3%2581%259F%25E5%2585%25A5%25E9%2596%2580%25E8%25A8%2598%25E4%25BA%258B%25E3%2581%25AA%25E3%2581%25A9%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:ryuga.%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jS1lsU1ZRcnpMYW1lRXUzY3lqQW9JdGhFQW8wMGNhaGpLY1JnRkh0a3JYRnJRdjBlSTU9czI1MC1j%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"
         }
       ]
     },

@@ -2,10 +2,204 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-05-10T12:54:27.354Z</updated>
+    <updated>2026-05-11T02:05:27.623Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[#19：CG数学の理解が深まり、プログラムを始めたくなる！『Blenderで学ぶ 数学のきほん ～そろそろ覚えたいベクトル・行列～』 - 連載]]></title>
+        <id>https://cgworld.jp/regular/202604-cgw334-book.html</id>
+        <link href="https://cgworld.jp/regular/202604-cgw334-book.html"/>
+        <updated>2026-05-11T01:18:10.000Z</updated>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[デジタルコンテンツの未来〜温故知新〜 第18回：浅野 秀二（株式会社IMAGICAエンタテインメントメディアサービス VFXプロデューサー／VFXスーパーバイザー）]]></title>
+        <id>https://area.autodesk.jp/column/trend_tech/digital-contents-future/18-asano-shuji/</id>
+        <link href="https://area.autodesk.jp/column/trend_tech/digital-contents-future/18-asano-shuji/"/>
+        <updated>2026-05-11T01:00:00.000Z</updated>
+        <summary type="html"><![CDATA[CGと縁の深い方々にお話をうかがい、デジタルコンテンツの未来を見通していく記事をお届けする本連載。今回はVFXプロデューサーの浅野秀二氏に登場して頂いた。自主制作映画からトーヨーリンクスに参加し、さまざまなCG作品を制作した後、VFXプロデューサーとしてこれまで日本で最多の作品を手掛けたキャリアを持つ人物だ。著名監督と過ごした学生時代の貴重な話から黎明期の日本のCGプロダクションの模様、VFXプロデューサーとして大切な能力についてまで、幅広く伺った。・・・]]></summary>
+        <author>
+            <name>AREA JAPAN | Autodesk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Blenderでシェイプキー編集中を枠と文字で警告表示出来る無料アドオン「yuzuShapeKeyAlert」]]></title>
+        <id>https://modelinghappy.com/?p=68611</id>
+        <link href="https://modelinghappy.com/archives/68611"/>
+        <updated>2026-05-11T00:03:33.000Z</updated>
+        <summary type="html"><![CDATA[yuzuShapeKeyAlert 3Dモデラーのゆづりんさんが、Blenderでシェイプキーを編集中にビューポートに枠と文字を表示してシェイプキー編集中であることを表示し、シェイプキー誤編集の事故を防いでてくれるアドオ
+The post Blenderでシェイプキー編集中を枠と文字で警告表示出来る無料アドオン「yuzuShapeKeyAlert」 first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
+        <author>
+            <name>modelinghappy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Maxon、ZBrushとSubstance 3D Painterを直接繋ぐ新機能「Substance Bridge」チュートリアル＆検証動画公開　ZBrushエキスパートIan Robinson氏が解説 - ニュース]]></title>
+        <id>https://cgworld.jp/flashnews/01-202605-SubstanceBridge.html</id>
+        <link href="https://cgworld.jp/flashnews/01-202605-SubstanceBridge.html"/>
+        <updated>2026-05-10T23:12:24.000Z</updated>
+        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[フォトグラメトリ数学｜16：重み付き最小二乗とは何か]]></title>
+        <id>https://zenn.dev/s_hashida/articles/ff4cc119f150c3</id>
+        <link href="https://zenn.dev/s_hashida/articles/ff4cc119f150c3"/>
+        <updated>2026-05-10T22:10:05.000Z</updated>
+        <summary type="html"><![CDATA[はじめに
+前回は、
+
+ガウスノイズ
+最尤推定
+
+から
+
+\min_\theta \|\mathbf{r}(\theta)\|^2
+
+が導かれることを見ました。
+しかしここには、暗黙の前提がありました。
+
+
+すべての観測が同じ精度である
+
+
+現実ではこれは成り立ちません。
+
+ 観測ごとに精度が違う
+実際のSfMでは、
+
+特徴点ごとに精度が違う
+マッチングの信頼度が違う
+センサーのノイズが違う
+
+といったことが普通に起こります。
+
+つまり
+
+ズレの「信頼度」が違う
+
+ということです。
+
+
+ 直感：信用できるものを強くする
+考え方はシンプルです。
+
+
+精度が高い → 強く効かせる
+ノイズ...]]></summary>
+        <author>
+            <name>s_hashida</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[VEX関係　早めに欲しかった系統のTIPS]]></title>
+        <id>https://note.com/tadano___hato/n/n4cddc24ee340</id>
+        <link href="https://note.com/tadano___hato/n/n4cddc24ee340"/>
+        <updated>2026-05-10T18:26:05.000Z</updated>
+        <summary type="html"><![CDATA[ガチ人ではないのであまり好ましくない手段とか間違いもあるかも、解説というよりブログみたいな感じです
+プログラミング非有識人間なのでわかる人には当たり前のような話もかなりある
+続きをみる]]></summary>
+        <author>
+            <name>#Houdiniタグ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Palette Grid | グラデーションカラーパレットを活用したテクスチャリングワークフローを実現するBlenderアドオン！]]></title>
+        <id>https://3dnchu.com/?p=1064945</id>
+        <link href="https://3dnchu.com/archives/palette-grid/"/>
+        <updated>2026-05-10T17:53:35.000Z</updated>
+        <summary type="html"><![CDATA[SavedPixelから、グラデーション付きカラーパレットをベースにテクスチャリングするワークフローを効率化するBlenderアドオン　「Palette Grid」がリリースされました！]]></summary>
+        <author>
+            <name>Ymt3D -3dnchu-</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unreal Sensei Master Material | レイヤーペイントやNaniteテッセレーションを設定済みのUnreal Engine 5.7用マスターマテリアル！Unreal Senseiが無料配布！]]></title>
+        <id>https://3dnchu.com/?p=1064919</id>
+        <link href="https://3dnchu.com/archives/unreal-sensei-master-material/"/>
+        <updated>2026-05-10T16:57:19.000Z</updated>
+        <summary type="html"><![CDATA[Unreal SenseiがUE5.7向けの背景用マスターマテリアル「Unreal Sensei Master Material」を無料公開しています！]]></summary>
+        <author>
+            <name>Ymt3D -3dnchu-</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unity ShaderGraph備忘録 part3-色収差]]></title>
+        <id>https://zenn.dev/zn_ryg12/articles/shader-note-20260510</id>
+        <link href="https://zenn.dev/zn_ryg12/articles/shader-note-20260510"/>
+        <updated>2026-05-10T10:46:19.000Z</updated>
+        <summary type="html"><![CDATA[色収差
+みんな大好き色収差
+端的に言うと画像のRGBがズレる現象の事
+英語だとChromatic Aberrationと呼びます
+元々はカメラレンズの色の歪みで発生していた効果で、
+その効果を模倣してイラストや映像媒体など、広く使われています
+モバイルゲームだと負荷軽減の兼ね合いでぼかしの代わりの奥行き表現に使われる事もしばしば
+
+クリスタにもVer.3.0からフィルタとして実装された
+
+クリスタで色収差を加えた例
+
+イラスト的用途であればクリスタやPhotoshopでいい感もありつつ
+もうちょい細かく調整がしたい・アニメーションする色収差が欲しい
+といった場合はUnityで色収差シ...]]></summary>
+        <author>
+            <name>ryuga.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unity ShaderGraph備忘録 part3-色収差]]></title>
+        <id>https://zenn.dev/zn_ryg12/articles/shader-note-20260510</id>
+        <link href="https://zenn.dev/zn_ryg12/articles/shader-note-20260510"/>
+        <updated>2026-05-10T10:46:19.000Z</updated>
+        <summary type="html"><![CDATA[色収差
+みんな大好き色収差
+端的に言うと画像のRGBがズレる現象の事
+英語だとChromatic Aberrationと呼びます
+元々はカメラレンズの色の歪みで発生していた効果で、
+その効果を模倣してイラストや映像媒体など、広く使われています
+モバイルゲームだと負荷軽減の兼ね合いでぼかしの代わりの奥行き表現に使われる事もしばしば
+
+クリスタにもVer.3.0からフィルタとして実装された
+
+クリスタで色収差を加えた例
+
+イラスト的用途であればクリスタやPhotoshopでいい感もありつつ
+もうちょい細かく調整がしたい・アニメーションする色収差が欲しい
+といった場合はUnityで色収差シ...]]></summary>
+        <author>
+            <name>ryuga.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mayaのcurve情報をUE5のSplineとして使用する方法]]></title>
+        <id>https://zenn.dev/midori_14/articles/dc980581b3d98c</id>
+        <link href="https://zenn.dev/midori_14/articles/dc980581b3d98c"/>
+        <updated>2026-05-10T07:40:57.000Z</updated>
+        <summary type="html"><![CDATA[作業環境
+Maya：2026Unreal
+Engine：UE5.6
+
+UE5にてSplineを手動で引くのではなく、DCCツールなどで制作したカーブ情報をSplineに反映させるために行った方法を記載しております。今回はMayaからPythonを使用してCSVで出力をしておりますが、CSVなどを書き出せるのであれば別DCCからも同じ手順で可能かと思います。
+
+
+ ①Mayaでカーブ情報を出力
+
+ 1. UE5に持っていきたいカーブ情報を制作。
+
+ 2. カーブ情報をCSVデータで出力
+Script Editorにて実行
+
+▼Geminiに作成してもらったPythonを使用。 ※保存先は...]]></summary>
+        <author>
+            <name>みどり</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Zibra AI、UE向けプラグイン「ZibraGDS」オープンベータ開始　独自圧縮技術とリアルタイムレンダリング技術により破壊や流体、キャラクターアニメーションなどのVFXを高速描画 - ニュース]]></title>
         <id>https://cgworld.jp/flashnews/01-202605-ZibraGDS.html</id>
@@ -4225,38 +4419,6 @@ The post Cinematic Studio Pro – スリーポイントライトなど8種類の
 ただ「そんな大仰なRendererFeatureを組みたいわけではなくて、単純にシェーダを１つ嚙ま...]]></summary>
         <author>
             <name>Shaderタグが付けられた新着記事 - Qiita</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[数クリックでアジア都市やサイバーパンク路地を生成！141種類の素材で街並みを作れるBlenderアドオン「Procedural Asian Building」]]></title>
-        <id>https://modelinghappy.com/?p=68041</id>
-        <link href="https://modelinghappy.com/archives/68041"/>
-        <updated>2026-04-11T08:53:48.000Z</updated>
-        <summary type="html"><![CDATA[Procedural Asian Building Procedural Asian Buildingは、Blenderで数クリックでアジア都市やサイバーパンク風路地の街並みをプロシージャルに生成できるアドオンです。 複
-The post 数クリックでアジア都市やサイバーパンク路地を生成！141種類の素材で街並みを作れるBlenderアドオン「Procedural Asian Building」 first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
-        <author>
-            <name>modelinghappy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[写真を読み込むだけでPBRマテリアル生成！Corona＆V-Ray対応の3ds Max用AIプラグイン「MatSnap AI」]]></title>
-        <id>https://modelinghappy.com/?p=68035</id>
-        <link href="https://modelinghappy.com/archives/68035"/>
-        <updated>2026-04-11T08:32:10.000Z</updated>
-        <summary type="html"><![CDATA[MatSnap AI MatSnap AIは、Vision AIを使用して用意したリファレンス写真を解析し、PBRテクスチャを生成、シーン内にCorona用のプロダクション品質マテリアルを自動作成できる3ds Max用プ
-The post 写真を読み込むだけでPBRマテリアル生成！Corona＆V-Ray対応の3ds Max用AIプラグイン「MatSnap AI」 first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
-        <author>
-            <name>modelinghappy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【アドオン紹介】Procedural Asian Building – プロジーシャルなアジアの建物]]></title>
-        <id>https://cgbox.jp/?p=65237</id>
-        <link href="https://cgbox.jp/2026/04/11/news-addon-procedural-asian-building/"/>
-        <updated>2026-04-11T02:07:54.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは！ 今回はアドオンの「Procedural Asian Building」を紹介します。 こちらのリンクがアドオンの商品ページになります。 Procedural Asian Building 「Procedur […]]]></summary>
-        <author>
-            <name>kasahara</name>
         </author>
     </entry>
     <entry>

@@ -2,10 +2,67 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-05-11T10:52:35.505Z</updated>
+    <updated>2026-05-12T02:01:02.971Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[BlenderのGrease Pencilを活用した温かみあるオープニング映像、TVアニメ『透明男と人間女～そのうち夫婦になるふたり～』OP 〜No.1／タイトルカット篇 - 特集]]></title>
+        <id>https://cgworld.jp/article/140-tomeiotoko01.html</id>
+        <link href="https://cgworld.jp/article/140-tomeiotoko01.html"/>
+        <updated>2026-05-12T09:00:12.000Z</updated>
+        <summary type="html"><![CDATA[アニメ『透明男と人間女～そのうち夫婦になるふたり～』のオープニングムービーCGメイキングを紹介。]]></summary>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[『SSFF & ASIA 2026』U-25プロジェクトに選出！ 武蔵美の現役学生たちによるオリジナル短編『A Small World in Your Hands』 - 特集]]></title>
+        <id>https://cgworld.jp/article/202605-aSWiYH-MAU.html</id>
+        <link href="https://cgworld.jp/article/202605-aSWiYH-MAU.html"/>
+        <updated>2026-05-12T01:53:31.000Z</updated>
+        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[アドビ、「Substance 3D Painter 12.1」ベータ版の新機能紹介動画を公開　ノーマルマップの歪み解消、ワークフロー高速化、OpenPBR対応も - ニュース]]></title>
+        <id>https://cgworld.jp/flashnews/01-202605-SP12-1beta.html</id>
+        <link href="https://cgworld.jp/flashnews/01-202605-SP12-1beta.html"/>
+        <updated>2026-05-12T01:05:57.000Z</updated>
+        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[エプソンPC無料貸し出しプログラムに、アニマ採用モデルハイエンドPC「Endeavor Pro9300」が追加！　 - ニュース]]></title>
+        <id>https://cgworld.jp/flashnews/01-2605-epsondirect.html</id>
+        <link href="https://cgworld.jp/flashnews/01-2605-epsondirect.html"/>
+        <updated>2026-05-12T00:43:20.000Z</updated>
+        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[たぶん世界初（？）3D/2D化合物を表示するマークダウン的記法を開発しました]]></title>
+        <id>https://zenn.dev/rollpie/articles/b0cd11d6fd7085</id>
+        <link href="https://zenn.dev/rollpie/articles/b0cd11d6fd7085"/>
+        <updated>2026-05-11T21:13:19.000Z</updated>
+        <summary type="html"><![CDATA[Rollpieで化合物を簡単に表示できるようになりました。
+
+マウスで化合物を回転したり拡大したりできます。3Dの表示は三種類、2Dにすると教科書的な見た目になります。
+
+これまでこうした画像を生成するには、プログラミングの知識やオンラインツールの利用が必要でしたが、Rollpieの記事は
+⟪chem 安息香酸⟫
+と書くだけで安息香酸の化合物が表示されます。⟪⟫という二重かっこ記号は<と入力すると候補に出てきます。chemの直後には半角スペースを入れ、そのあとに分子名を書いてください。⟪⟫はUnicodeの数学記号で、日本語の全角記号ではありません。
+化学系の記事を書いている方、ビ...]]></summary>
+        <author>
+            <name>Rollpie</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【Maya】メッシュを繋がずに地形に馴染ませる方法②]]></title>
         <id>https://3d.crdg.jp/env/?p=9443</id>
@@ -4470,52 +4527,6 @@ The post Blender内からCGAxisの1万以上のアセットを直接ブラウズ
 Hitem3D（ハイテムスリーディー）は香港のMathmagicという企業が運営する3D生成AIプラットフォーム。 前回紹介したMeshyと似たようなサービスである。なぜ似たサービスを取り上げたかというと、Meshyは課金しないと出来ないことが多かっ...]]></summary>
         <author>
             <name>3DCGタグが付けられた新着記事 - Qiita</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RepeaTile – 正方形の枠内で1つのタイルを作りながらリアルタイムでタイリング結果を確認・調整できるBlender用アドオン]]></title>
-        <id>https://modelinghappy.com/?p=68054</id>
-        <link href="https://modelinghappy.com/archives/68054"/>
-        <updated>2026-04-12T12:36:25.000Z</updated>
-        <summary type="html"><![CDATA[RepeaTile RepeaTileは、Blenderで正方形の枠内で1つのタイルを作りながらリアルタイムでタイリング結果を確認・調整できるアドオンです。実際に使っている内容はこちらから動画で確認する事ができます。 ア
-The post RepeaTile – 正方形の枠内で1つのタイルを作りながらリアルタイムでタイリング結果を確認・調整できるBlender用アドオン first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
-        <author>
-            <name>modelinghappy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【小ネタ】UI描画時のシェーダ(UI/Default)を差し替えるためのコンポーネント]]></title>
-        <id>https://qiita.com/ScreenPocket/items/ee245fcbf0752b37d038</id>
-        <link href="https://qiita.com/ScreenPocket/items/ee245fcbf0752b37d038"/>
-        <updated>2026-04-12T02:28:51.000Z</updated>
-        <summary type="html"><![CDATA[UIのImageや、RawImage（というかUnityEngine.UI.Graphic）を描画する際に自動的に設定される「UI/Default」シェーダですが、これをまとめて差し替えるにはどうするべきかな？
-と調べていて、解決法が分かったので記載しておきます
-
-前提
-...]]></summary>
-        <author>
-            <name>Shaderタグが付けられた新着記事 - Qiita</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【アドオン紹介】Geo Stacks – オブジェクトを積み上げるアドオン]]></title>
-        <id>https://cgbox.jp/?p=65243</id>
-        <link href="https://cgbox.jp/2026/04/12/news-addon-geo-stacks/"/>
-        <updated>2026-04-12T01:29:27.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは！ 今回はアドオンの「Geo Stacks」を紹介します。 こちらのリンクがアドオンの商品ページになります。 Geo Stacks 「Geo Stacks」は、オブジェクトを自動で積み重ねて配置できるアドオン。 […]]]></summary>
-        <author>
-            <name>kasahara</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cinematic Studio Pro – スリーポイントライトなど8種類のライトを1クリック作成してモデルに追従・個別調整出来る無料アドオン]]></title>
-        <id>https://modelinghappy.com/?p=68048</id>
-        <link href="https://modelinghappy.com/archives/68048"/>
-        <updated>2026-04-12T00:37:36.000Z</updated>
-        <summary type="html"><![CDATA[Cinematic Studio Pro (Addon Template) Cinematic Studio Proは、Blenderで選択したモデルに8種類のプリセットライトからワンクリックでモデルにライトを配置、さら
-The post Cinematic Studio Pro – スリーポイントライトなど8種類のライトを1クリック作成してモデルに追従・個別調整出来る無料アドオン first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
-        <author>
-            <name>modelinghappy</name>
         </author>
     </entry>
     <entry>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-05-13T02:06:30.706Z</updated>
+    <updated>2026-05-13T06:16:52.853Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
@@ -12,6 +12,37 @@
         <link href="https://cgworld.jp/article/140-tomeiotoko02.html"/>
         <updated>2026-05-13T08:00:35.000Z</updated>
         <summary type="html"><![CDATA[アニメ『透明男と人間女～そのうち夫婦になるふたり～』のオープニングムービーCGメイキングを紹介。]]></summary>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【6/12（金）リアル開催】カットシーンアーティスト必見！ Lee氏、アプリポット平田氏、Colorful Palette西口氏が登壇イベントを開催！－サイバーエージェント - ニュース]]></title>
+        <id>https://cgworld.jp/flashnews/02-2605-cyberagent.html</id>
+        <link href="https://cgworld.jp/flashnews/02-2605-cyberagent.html"/>
+        <updated>2026-05-13T02:57:16.000Z</updated>
+        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Blender Studio オープンムービー「SINGULARITY – Painterly Space Adventure 」が公開]]></title>
+        <id>https://cginterest.com/?p=58847</id>
+        <link href="https://cginterest.com/2026/05/13/blender-studio-%e3%82%aa%e3%83%bc%e3%83%97%e3%83%b3%e3%83%a0%e3%83%bc%e3%83%93%e3%83%bc%e3%80%8csingularity-painterly-space-adventure-%e3%80%8d%e3%81%8c%e5%85%ac%e9%96%8b/"/>
+        <updated>2026-05-13T02:47:20.000Z</updated>
+        <summary type="html"><![CDATA[2026年5月11日（現地時間）- Blender Studioは、短編アニメーション作品「Singularity: Painterly Space Adventure」をオンラインで公開しました。 SINGULARIT […]
+Blender Studio オープンムービー「SINGULARITY – Painterly Space Adventure 」が公開 first appeared on CGinterest.]]></summary>
+        <author>
+            <name>.me</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LiberNovo、新型電動ワークチェア3モデルを発表。プレオーダー受付開始 - ニュース]]></title>
+        <id>https://cgworld.jp/flashnews/02-2605-libernovo.html</id>
+        <link href="https://cgworld.jp/flashnews/02-2605-libernovo.html"/>
+        <updated>2026-05-13T02:00:05.000Z</updated>
+        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
         <author>
             <name>CGWORLD</name>
         </author>
@@ -4616,26 +4647,6 @@ Chaos、V-RayのBlenderユーザー向け無償版「V-Ray for Blender Community
 INSYDIUM、Blender向けに再構築したGPUシミュレーションツール「NeXus」プレビューを公開！ first appeared on CGinterest.]]></summary>
         <author>
             <name>.me</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【Houdini】HeightFieldのVolumeIndexとその値の取得など]]></title>
-        <id>https://zenn.dev/yuzutarou/articles/451d20ed8b9678</id>
-        <link href="https://zenn.dev/yuzutarou/articles/451d20ed8b9678"/>
-        <updated>2026-04-13T14:48:10.000Z</updated>
-        <summary type="html"><![CDATA[調べたこと
-VolumeWrangle（VEX）を使ったボリュームのインデックスの取得とそのインデックスのボリュームの値の取得方法がよく理解できていない部分があったので備忘録としてまとめました。
-サンプルファイル: HF_index.hiplc
-https://github.com/yuzutarou-maru/Houdini_Sample/tree/main/houdini/HeightField
-
- Houdiniバージョン
-Houdini Indie 21.0440で確認
-
- Volumeってなに？
-まずVolumeとはなに？という話ですが…すごく雑に説明すると
-画像ではピクセ...]]></summary>
-        <author>
-            <name>ゆずたろう</name>
         </author>
     </entry>
 </feed>

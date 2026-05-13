@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-05-13T06:16:52.853Z</updated>
+    <updated>2026-05-13T10:12:08.795Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
@@ -14,6 +14,49 @@
         <summary type="html"><![CDATA[アニメ『透明男と人間女～そのうち夫婦になるふたり～』のオープニングムービーCGメイキングを紹介。]]></summary>
         <author>
             <name>CGWORLD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DirectXTK HLSL スキニング　実装編]]></title>
+        <id>https://qiita.com/YKVKDX12/items/8077196a48f3f87dc48e</id>
+        <link href="https://qiita.com/YKVKDX12/items/8077196a48f3f87dc48e"/>
+        <updated>2026-05-13T07:55:32.000Z</updated>
+        <summary type="html"><![CDATA[https://qiita.com/YKVKDX12/items/cae702c31655f2bd8cce
+の続編です
+
+出力されるであろうアニメーション
+
+ボーンに紐づいたポリゴンが回転するアニメーションです
+画像ではわかりませんが、しばらく回転して、ウェイトの問題がある...]]></summary>
+        <author>
+            <name>3DCGタグが付けられた新着記事 - Qiita</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DirectXTK HLSL スキニング　実装編]]></title>
+        <id>https://qiita.com/YKVKDX12/items/8077196a48f3f87dc48e</id>
+        <link href="https://qiita.com/YKVKDX12/items/8077196a48f3f87dc48e"/>
+        <updated>2026-05-13T07:55:32.000Z</updated>
+        <summary type="html"><![CDATA[https://qiita.com/YKVKDX12/items/cae702c31655f2bd8cce
+の続編です
+
+出力されるであろうアニメーション
+
+ボーンに紐づいたポリゴンが回転するアニメーションです
+画像ではわかりませんが、しばらく回転して、ウェイトの問題がある...]]></summary>
+        <author>
+            <name>HLSLタグが付けられた新着記事 - Qiita</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ワコム、進化した回転検出ペン「Wacom Art Pen 2」を発売]]></title>
+        <id>https://cginterest.com/?p=58856</id>
+        <link href="https://cginterest.com/2026/05/13/%e3%83%af%e3%82%b3%e3%83%a0%e3%80%81%e9%80%b2%e5%8c%96%e3%81%97%e3%81%9f%e5%9b%9e%e8%bb%a2%e6%a4%9c%e5%87%ba%e3%83%9a%e3%83%b3%e3%80%8cwacom-art-pen-2%e3%80%8d%e3%82%92%e7%99%ba%e5%a3%b2/"/>
+        <updated>2026-05-13T06:30:43.000Z</updated>
+        <summary type="html"><![CDATA[2026年5月13日- 株式会社ワコムは、回転検出機能を搭載したクリエイター向けスタイラスペン「Wacom Art Pen 2」を、2026年5月13日（水）より発売しました。 主な特徴 本製品は、前モデルである「ワコム […]
+ワコム、進化した回転検出ペン「Wacom Art Pen 2」を発売 first appeared on CGinterest.]]></summary>
+        <author>
+            <name>.me</name>
         </author>
     </entry>
     <entry>
@@ -4634,17 +4677,6 @@ The post BlenderとRizomUVをリアルタイム同期！「Blender To RizomUV Li
         <updated>2026-04-13T22:14:00.000Z</updated>
         <summary type="html"><![CDATA[2026年4月13日（現地時間）- Chaosは、Blenderコミュニティ向けに、プロフェッショナル仕様のレンダリングエンジンを無償で提供する「V-Ray for Blender Community Edition」の […]
 Chaos、V-RayのBlenderユーザー向け無償版「V-Ray for Blender Community Edition」をリリース！ first appeared on CGinterest.]]></summary>
-        <author>
-            <name>.me</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[INSYDIUM、Blender向けに再構築したGPUシミュレーションツール「NeXus」プレビューを公開！]]></title>
-        <id>https://cginterest.com/?p=57652</id>
-        <link href="https://cginterest.com/2026/04/14/insydium%e3%80%81blender%e5%90%91%e3%81%91%e3%81%ab%e5%86%8d%e6%a7%8b%e7%af%89%e3%81%97%e3%81%9fgpu%e3%82%b7%e3%83%9f%e3%83%a5%e3%83%ac%e3%83%bc%e3%82%b7%e3%83%a7%e3%83%b3%e3%83%84%e3%83%bc%e3%83%ab/"/>
-        <updated>2026-04-13T21:43:00.000Z</updated>
-        <summary type="html"><![CDATA[Cinema 4D向けの高度なパーティクル・VFXシミュレーションプラグイン「INSYDIUM Fused」（X-Particlesなどを収録）で知られる INSYDIUM は、GPUシミュレーションシステム「NeXus […]
-INSYDIUM、Blender向けに再構築したGPUシミュレーションツール「NeXus」プレビューを公開！ first appeared on CGinterest.]]></summary>
         <author>
             <name>.me</name>
         </author>

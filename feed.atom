@@ -2,10 +2,141 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-05-12T13:52:22.201Z</updated>
+    <updated>2026-05-13T02:06:30.706Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[BlenderのGrease Pencilを活用した温かみあるオープニング映像、TVアニメ『透明男と人間女～そのうち夫婦になるふたり～』OP 〜No.2／背景を3DCGで描いたサビカット篇 - 特集]]></title>
+        <id>https://cgworld.jp/article/140-tomeiotoko02.html</id>
+        <link href="https://cgworld.jp/article/140-tomeiotoko02.html"/>
+        <updated>2026-05-13T08:00:35.000Z</updated>
+        <summary type="html"><![CDATA[アニメ『透明男と人間女～そのうち夫婦になるふたり～』のオープニングムービーCGメイキングを紹介。]]></summary>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SD ノード解説 3D texture volume renderについて]]></title>
+        <id>https://note.com/efeozi/n/nd257a76a39b2</id>
+        <link href="https://note.com/efeozi/n/nd257a76a39b2"/>
+        <updated>2026-05-13T01:16:58.000Z</updated>
+        <summary type="html"><![CDATA[続きをみる]]></summary>
+        <author>
+            <name>#SubstanceDesignerタグ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[スマホを実際のカメラのように使える「Blender Camera Controller v1.0.0」がリリース。World Tracking機能の改善・Google Play store配布にも対応]]></title>
+        <id>https://modelinghappy.com/?p=68642</id>
+        <link href="https://modelinghappy.com/archives/68642"/>
+        <updated>2026-05-13T00:19:18.000Z</updated>
+        <summary type="html"><![CDATA[Gumroad Blender | Camera Controller Addon Google Play store Blender Camera Controller Blender Camera Controlle
+The post スマホを実際のカメラのように使える「Blender Camera Controller v1.0.0」がリリース。World Tracking機能の改善・Google Play store配布にも対応 first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
+        <author>
+            <name>modelinghappy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[単一画像から顔と髪を切り離す頭部アバター生成手法「One-shot Compositional 3D Head Avatars with Deformable Hair」発表　3DGS、FLAME、物理演算の活用により自然なフェイシャル＆ヘアアニメーションを実現 - ニュース]]></title>
+        <id>https://cgworld.jp/flashnews/01-202605-1shotHead.html</id>
+        <link href="https://cgworld.jp/flashnews/01-202605-1shotHead.html"/>
+        <updated>2026-05-13T00:12:24.000Z</updated>
+        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unreal Engine 5.8 Preview公開！Mesh Terrain・MetaHuman Crowd・MegaLights正式対応など大規模アップデート]]></title>
+        <id>https://modelinghappy.com/?p=68638</id>
+        <link href="https://modelinghappy.com/archives/68638"/>
+        <updated>2026-05-12T23:42:50.000Z</updated>
+        <summary type="html"><![CDATA[Unreal Engine 5.8 Preview Unreal Engine 5.8 Previewが公開され、Epic Games Launcher・GitHub・Linux版からダウンロード可能になりました。 今回
+The post Unreal Engine 5.8 Preview公開！Mesh Terrain・MetaHuman Crowd・MegaLights正式対応など大規模アップデート first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
+        <author>
+            <name>modelinghappy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[フォトグラメトリ数学｜17：ロバスト推定とは何か]]></title>
+        <id>https://zenn.dev/s_hashida/articles/ef486a559d7b28</id>
+        <link href="https://zenn.dev/s_hashida/articles/ef486a559d7b28"/>
+        <updated>2026-05-12T22:05:05.000Z</updated>
+        <summary type="html"><![CDATA[はじめに
+前回は、
+
+観測ごとに精度が違う
+重み付き最小二乗
+
+を通して、
+
+\mathbf{r}^T \Sigma^{-1} \mathbf{r}
+
+という形に整理しました。
+
+ここで重要な理解がありました。
+
+重みとは「距離の定義」である
+
+
+つまり、
+
+どの誤差をどれだけ重要視するか
+
+を数学的に表現している、ということです。
+
+しかし現実では、さらに厄介な問題があります。
+
+ 外れ値（outlier）の存在
+SfMでは次のようなことが頻繁に起こります。
+
+誤ったマッチング
+動いている物体
+ノイズの異常値
+
+
+こうした観測は、
+
+明らかにおかしい誤差
+
+を生みます。
+これは大...]]></summary>
+        <author>
+            <name>s_hashida</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[原田勝弘氏、新スタジオ「VS STUDIO SNK」設立を発表。SNK支援のもと対人アクションゲーム開発へ。 - ニュース]]></title>
+        <id>https://cgworld.jp/flashnews/01-202605-VSSTUDIOSNK.html</id>
+        <link href="https://cgworld.jp/flashnews/01-202605-VSSTUDIOSNK.html"/>
+        <updated>2026-05-12T22:04:14.000Z</updated>
+        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pixal3D | 入力画像に対してピクセル単位でより忠実な3Dモデルを生成可能なImage-to-3D技術！オープンソース！SIGGRAPH 2026 論文！]]></title>
+        <id>https://3dnchu.com/?p=1064996</id>
+        <link href="https://3dnchu.com/archives/pixal3d/"/>
+        <updated>2026-05-12T15:19:04.000Z</updated>
+        <summary type="html"><![CDATA[Tsinghua University、Tencent ARC Lab、Victoria University of Wellingtonの共同研究チームによる「Pixal3D」が公開！入力画像に対して“ピクセル単位で忠実”な3Dモデル生成を目指したImage-to-3D技術！]]></summary>
+        <author>
+            <name>Ymt3D -3dnchu-</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ZBrushとHoudiniでスカルプトした頭部のモデルを自動的にリトポロジーとUV展開しよう]]></title>
+        <id>https://note.com/maxima_hikky/n/naedf991eba4a</id>
+        <link href="https://note.com/maxima_hikky/n/naedf991eba4a"/>
+        <updated>2026-05-12T15:00:05.000Z</updated>
+        <summary type="html"><![CDATA[注意
+続きをみる]]></summary>
+        <author>
+            <name>#Houdiniタグ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【期間限定】Unityプロジェクトの品質向上や開発の効率化に役立つ新作アセットをまとめた「Must-Have New Assets」バンドルが登場！]]></title>
         <id>https://cginterest.com/?p=58834</id>
@@ -4505,60 +4636,6 @@ Houdini Indie 21.0440で確認
 画像ではピクセ...]]></summary>
         <author>
             <name>ゆずたろう</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【Substance Painter】カラー選択の際に塗り残しができる場合の解決法]]></title>
-        <id>https://3d.crdg.jp/env/?p=9384</id>
-        <link href="https://3d.crdg.jp/env/2026/04/13/9384/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=%25e3%2580%2590substance-painter%25e3%2580%2591%25e3%2582%25ab%25e3%2583%25a9%25e3%2583%25bc%25e9%2581%25b8%25e6%258a%259e%25e3%2581%25ae%25e9%259a%259b%25e3%2581%25ab%25e5%25a1%2597%25e3%2582%258a%25e6%25ae%258b%25e3%2581%2597%25e3%2581%258c%25e3%2581%25a7%25e3%2581%258d%25e3%2582%258b%25e5%25a0%25b4%25e5%2590%2588"/>
-        <updated>2026-04-13T12:09:13.000Z</updated>
-        <summary type="html"><![CDATA[IDマップで色分けを行い、カラー選択でマスクを作成する際に所々塗り残しができてしまう場合があります。そのときの解決方法をご紹介します！ 許容値 カラー […]
-続きを読む
-投稿 【Substance Painter】カラー選択の際に塗り残しができる場合の解決法 は エンホリ - ENVIRONMENT HOLIC｜C&R Creative Studios に最初に表示されました。]]></summary>
-        <author>
-            <name>Hisako.Nishimura</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【クリ博】5/8（金）オンラインにて3DCGアニメーター講座（サブリメイション×サムライピクチャーズ）開催－OK例・NG例で学ぶポートフォリオ制作のポイント - ニュース]]></title>
-        <id>https://cgworld.jp/flashnews/02-2604-kurihaku.html</id>
-        <link href="https://cgworld.jp/flashnews/02-2604-kurihaku.html"/>
-        <updated>2026-04-13T07:25:51.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[デジタルスケープ、東京にて「さつき先生によるHoudini基礎講座」全3日間のライブ形式で開催 - ニュース]]></title>
-        <id>https://cgworld.jp/flashnews/02-2604-houdini.html</id>
-        <link href="https://cgworld.jp/flashnews/02-2604-houdini.html"/>
-        <updated>2026-04-13T06:31:36.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I Made a 6DoF SpaceMouse using Magnets (again)* | 完全自作された6DoFコントロール入力デバイスのメイキング！本家「SpaceMouse」との比較など！]]></title>
-        <id>https://3dnchu.com/?p=1063709</id>
-        <link href="https://3dnchu.com/archives/i-made-a-6dof-spacemouse-salim-benbouziyane/"/>
-        <updated>2026-04-13T03:48:37.000Z</updated>
-        <summary type="html"><![CDATA[Salim Benbouziyane氏が3Dマウスを自作！とても見ごたえのあるメイキング動画を公開しています！]]></summary>
-        <author>
-            <name>Ymt3D -3dnchu-</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fast and Exact Continuous Collision Detection with Bernstein Sign Classification (2014)]]></title>
-        <id>https://qiita.com/matumu20/items/3e16453730272422a61a</id>
-        <link href="https://qiita.com/matumu20/items/3e16453730272422a61a"/>
-        <updated>2026-04-13T03:42:29.000Z</updated>
-        <summary type="html"><![CDATA[Fast and Exact Continuous Collision Detection with Bernstein Sign Classification (Tang, 2014)
-
-高速かつ厳密な連続衝突検出 (CCD) with Bernstein Sign ...]]></summary>
-        <author>
-            <name>3DCGタグが付けられた新着記事 - Qiita</name>
         </author>
     </entry>
 </feed>

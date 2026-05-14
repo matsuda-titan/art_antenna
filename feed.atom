@@ -2,10 +2,52 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-05-14T02:08:57.604Z</updated>
+    <updated>2026-05-14T06:14:42.698Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[シネマティック品質のリアルタイムジオメトリ技術「ZibraGDS」オープンベータ開始]]></title>
+        <id>https://cginterest.com/?p=58897</id>
+        <link href="https://cginterest.com/2026/05/14/%e3%82%b7%e3%83%8d%e3%83%9e%e3%83%86%e3%82%a3%e3%83%83%e3%82%af%e5%93%81%e8%b3%aa%e3%81%ae%e3%83%aa%e3%82%a2%e3%83%ab%e3%82%bf%e3%82%a4%e3%83%a0%e3%82%b8%e3%82%aa%e3%83%a1%e3%83%88%e3%83%aa%e6%8a%80/"/>
+        <updated>2026-05-14T05:44:00.000Z</updated>
+        <summary type="html"><![CDATA[Zibra AI は、アニメーション化されたジオメトリデータを効率的に圧縮し、リアルタイムでレンダリングするための技術 「ZibraGDS（Geometry Data Structure）」 のオープンベータ版を公開しま […]
+シネマティック品質のリアルタイムジオメトリ技術「ZibraGDS」オープンベータ開始 first appeared on CGinterest.]]></summary>
+        <author>
+            <name>.me</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[空飛ぶリビング!? ピクサーアーカイブ：『カールじいさんの空飛ぶ家』の実物大模型]]></title>
+        <id>https://3dtotal.jp/?p=55496</id>
+        <link href="https://3dtotal.jp/news/55496/"/>
+        <updated>2026-05-14T04:22:22.000Z</updated>
+        <summary type="html"><![CDATA[★ASMR: Pixar's "Up" House, Carl & Ellie's Living Room Practical Model | PIX(ASM)R: ASMRchives（6分37秒） ピクサーのアーキビ […]
+The post 空飛ぶリビング!? ピクサーアーカイブ：『カールじいさんの空飛ぶ家』の実物大模型 first appeared on 3dtotal 日本語オフィシャルサイト.]]></summary>
+        <author>
+            <name>3dtotal管理人T</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[最終章ゲーム化で目指した原作の魅力とリッチなビジュアルの両立『僕のヒーローアカデミア All's Justice』 - 特集]]></title>
+        <id>https://cgworld.jp/article/202605-cgw331-mhaaj.html</id>
+        <link href="https://cgworld.jp/article/202605-cgw331-mhaaj.html"/>
+        <updated>2026-05-14T02:48:00.000Z</updated>
+        <summary type="html"><![CDATA[ゲーム『僕のヒーローアカデミア All’s Justice』のメイキングを紹介]]></summary>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【6/13 リアル開催】「PULSE Powered by AMD」安田現象・Entei Ryu・Nate・Lura登壇！AMD主催イベント開催 - ニュース]]></title>
+        <id>https://cgworld.jp/flashnews/01-2605-AMDPULSE.html</id>
+        <link href="https://cgworld.jp/flashnews/01-2605-AMDPULSE.html"/>
+        <updated>2026-05-14T02:30:00.000Z</updated>
+        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ブラウザで GLSL ライブエディタを書いた — WebGL の初期化 + コンパイルエラーを行番号付きで拾う + シェーダを URL hash で共有する話]]></title>
         <id>https://qiita.com/sen-ltd/items/2a00b2014ae86e99e727</id>
@@ -4570,27 +4612,6 @@ Twinmotion 2026.1 が正式リリース！新しいフォトマッチツール�
 は、1つの...]]></summary>
         <author>
             <name>s_hashida</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【Hoduini】xyzdistを複数回実行したい]]></title>
-        <id>https://zenn.dev/yuzutarou/articles/04ca113e1d912c</id>
-        <link href="https://zenn.dev/yuzutarou/articles/04ca113e1d912c"/>
-        <updated>2026-04-14T15:29:58.000Z</updated>
-        <summary type="html"><![CDATA[調べたこと
-xyzdistを複数回実行し、入力２番目の近いPrimを複数とりたかったので調べました。
-ブタさんの周辺にポイントを配置し、ポイントから近いPrimを複数取得してポイントとラインを引いた処理になります。（まち針でやられたみたいでかわいそう）
-
-サンプルファイル: near_prims.hiplc
-https://github.com/yuzutarou-maru/Houdini_Sample/tree/main/houdini/Vex
-
- Houdiniバージョン
-Houdini Indie 21.0440で確認
-
- xyzdist
-xyzdistは近いPrim（フェース...]]></summary>
-        <author>
-            <name>ゆずたろう</name>
         </author>
     </entry>
 </feed>

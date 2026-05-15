@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-05-15T02:06:55.427Z</updated>
+    <updated>2026-05-15T06:22:44.076Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Substance Designer / Voronoi fractalについて]]></title>
+        <id>https://note.com/efeozi/n/ne3d63a2cf9ee</id>
+        <link href="https://note.com/efeozi/n/ne3d63a2cf9ee"/>
+        <updated>2026-05-15T02:59:38.000Z</updated>
+        <summary type="html"><![CDATA[🔶公式リンク
+ボロノイに対して歪み処理や細かさを設定できる
+また、Invert設定もあり、歪んだラインも作ることができる
+🔶簡易解説、以下4つのパラメータは注視推奨
+Distortion intensity　=歪みの影響度
+Distortion scake multiplier　=歪みノイズのサイズ、小さいと細かく歪むMinLevel　=最小ノイズのサイズ
+MaxLevel　=最大ノイズのサイズ
+　同じ値にすることでノイズ量を少なくできる
+続きをみる]]></summary>
+        <author>
+            <name>#SubstanceDesignerタグ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[HLSL関数集]]></title>
         <id>https://zenn.dev/quickbrush/articles/80eca761149b6c</id>

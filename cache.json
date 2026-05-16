@@ -773,21 +773,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "https://3dnchu.com/wp-content/uploads/crimson-desert-spom-ssdm-small.webp"
-        },
-        {
-          "id": "https://3dnchu.com/?p=1064121",
-          "author": "Ymt3D -3dnchu-",
-          "description": "Team Gadgetが、UnityとCascadeurをリアルタイムに同期する事ができる機能などを備えたツール「Gadget Entangle for Cascadeur」をGithub上で無償公開しました！",
-          "link": "https://3dnchu.com/archives/gadget-entangle-for-cascadeur/",
-          "publishedOn": "2026-04-16T23:17:41.000Z",
-          "wordCount": 8938,
-          "title": "Gadget Entangle for Cascadeur | 「Unity」と「Cascadeur」をリアルタイムに同期可能にするツール！Github上で無償公開！",
-          "enclosure": {
-            "url": "https://3dnchu.com/wp-content/uploads/Gadget-Entangle-for-Cascadeur.webp",
-            "length": "923196",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://3dnchu.com/wp-content/uploads/Gadget-Entangle-for-Cascadeur.webp"
         }
       ]
     },
@@ -2114,26 +2099,6 @@
           "wordCount": 3038,
           "title": "2Dモーションデザイン制作ツール「Cavalry」が無料化！プロ仕様の機能を全て利用可能！",
           "imageUrl": "https://modelinghappy.com/wp-content/uploads/2026/04/20260418_cavalry.jpg"
-        },
-        {
-          "id": "https://modelinghappy.com/?p=68123",
-          "author": "modelinghappy",
-          "description": "Autograph MaxonはAfter Effectsと似たような映像編集が出来るソフト「Autograph」を個人ユーザーが商用利用でも、無料で利用できるように発表しました。 Autographは、モーショングラフ\nThe post 映像制作ソフト「Autograph」が商用利用OKで無料に！Maxonが公開 first appeared on 3DCG最新情報サイト MODELING HAPPY.",
-          "link": "https://modelinghappy.com/archives/68123",
-          "publishedOn": "2026-04-16T21:54:26.000Z",
-          "wordCount": 2970,
-          "title": "映像制作ソフト「Autograph」が商用利用OKで無料に！Maxonが公開",
-          "imageUrl": "https://modelinghappy.com/wp-content/uploads/2026/04/20260417_autograph.jpg"
-        },
-        {
-          "id": "https://modelinghappy.com/?p=68120",
-          "author": "modelinghappy",
-          "description": "Cinema4D for iPad Maxionが デスクトップ版ソフトとして人気にのCinema4Dのipad版、「Cinema 4D for iPad」のベータ版に登録するページを公開しました。 タッチ操作とモバイル\nThe post iPadでCinema 4Dが使える！「Cinema 4D for iPad」ベータ登録開始 first appeared on 3DCG最新情報サイト MODELING HAPPY.",
-          "link": "https://modelinghappy.com/archives/68120",
-          "publishedOn": "2026-04-16T21:31:15.000Z",
-          "wordCount": 3024,
-          "title": "iPadでCinema 4Dが使える！「Cinema 4D for iPad」ベータ登録開始",
-          "imageUrl": "https://modelinghappy.com/wp-content/uploads/2026/04/20260417_cinema4d.jpg"
         }
       ]
     },
@@ -2736,21 +2701,6 @@
             "type": "false"
           },
           "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--eciG_OR2--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%2595%25E3%2582%25A9%25E3%2583%2588%25E3%2582%25B0%25E3%2583%25A9%25E3%2583%25A1%25E3%2583%2588%25E3%2583%25AA%25E6%2595%25B0%25E5%25AD%25A6%25EF%25BD%259C11%25EF%25BC%259AStructure%2520from%2520Motion%25EF%25BC%2588SfM%25EF%25BC%2589%25E3%2581%25A8%25E3%2581%25AF%25E4%25BD%2595%25E3%2581%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:s_hashida%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2JmNmU5NjMzMTEuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"
-        },
-        {
-          "id": "https://zenn.dev/s_hashida/articles/5d17d16488f55a",
-          "author": "s_hashida",
-          "description": "はじめに\n前回は、エピポーラ幾何について説明しました。\nその中で、\n対応点はエピポーラ線上に制約される\nという性質を見ました。\nそして、それは\n\n\\mathbf{p}_2^T F \\mathbf{p}_1 = 0\n\nという形で表されました。\n\nここで次の疑問が生まれます。\n\nこの F から何が分かるのか？\nカメラの位置や向きは分かるのか？\n\n\n結論から言うと、\n\n対応点だけからカメラの位置と向きを求めることができます\n\nただし、そのためには\nカメラ固有の影響を取り除く必要があります。\n\n 正規化座標\n内部パラメータ K を用いて、\n\n\\tilde{\\mathbf{p}} = K^{...",
-          "link": "https://zenn.dev/s_hashida/articles/5d17d16488f55a",
-          "publishedOn": "2026-04-16T21:20:05.000Z",
-          "wordCount": 883,
-          "title": "フォトグラメトリ数学｜10：エッセンシャル行列とカメラ姿勢の復元",
-          "enclosure": {
-            "url": "https://res.cloudinary.com/zenn/image/upload/s--x76hpRF7--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%2595%25E3%2582%25A9%25E3%2583%2588%25E3%2582%25B0%25E3%2583%25A9%25E3%2583%25A1%25E3%2583%2588%25E3%2583%25AA%25E6%2595%25B0%25E5%25AD%25A6%25EF%25BD%259C10%25EF%25BC%259A%25E3%2582%25A8%25E3%2583%2583%25E3%2582%25BB%25E3%2583%25B3%25E3%2582%25B7%25E3%2583%25A3%25E3%2583%25AB%25E8%25A1%258C%25E5%2588%2597%25E3%2581%25A8%25E3%2582%25AB%25E3%2583%25A1%25E3%2583%25A9%25E5%25A7%25BF%25E5%258B%25A2%25E3%2581%25AE%25E5%25BE%25A9%25E5%2585%2583%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:s_hashida%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2JmNmU5NjMzMTEuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
-            "length": "0",
-            "type": "false"
-          },
-          "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--x76hpRF7--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%2595%25E3%2582%25A9%25E3%2583%2588%25E3%2582%25B0%25E3%2583%25A9%25E3%2583%25A1%25E3%2583%2588%25E3%2583%25AA%25E6%2595%25B0%25E5%25AD%25A6%25EF%25BD%259C10%25EF%25BC%259A%25E3%2582%25A8%25E3%2583%2583%25E3%2582%25BB%25E3%2583%25B3%25E3%2582%25B7%25E3%2583%25A3%25E3%2583%25AB%25E8%25A1%258C%25E5%2588%2597%25E3%2581%25A8%25E3%2582%25AB%25E3%2583%25A1%25E3%2583%25A9%25E5%25A7%25BF%25E5%258B%25A2%25E3%2581%25AE%25E5%25BE%25A9%25E5%2585%2583%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:s_hashida%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2JmNmU5NjMzMTEuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"
         }
       ]
     },
@@ -3589,6 +3539,26 @@
       "feedUrl": "https://cginterest.com/feed/",
       "siteUrl": "https://cginterest.com",
       "articles": [
+        {
+          "id": "https://cginterest.com/?p=59009",
+          "author": ".me",
+          "description": "パソコンSHOPアーク（ark）にて、創業27周年を記念した「アーク27周年記念祭セール」のセール情報です。 セール概要 このセールでは、長年のご愛顧に感謝を込めて、オリジナルBTOパソコン（arkhive）やPCパーツ […]\nパソコンSHOPアーク「アーク27周年記念祭セール」が開催！BTOパソコンやPCパーツがお得に！ first appeared on CGinterest.",
+          "link": "https://cginterest.com/2026/05/16/%e3%83%91%e3%82%bd%e3%82%b3%e3%83%b3shop%e3%82%a2%e3%83%bc%e3%82%af%e3%80%8c%e3%82%a2%e3%83%bc%e3%82%af27%e5%91%a8%e5%b9%b4%e8%a8%98%e5%bf%b5%e7%a5%ad%e3%82%bb%e3%83%bc%e3%83%ab%e3%80%8d%e3%81%8c/",
+          "publishedOn": "2026-05-16T12:30:00.000Z",
+          "wordCount": 30091,
+          "title": "パソコンSHOPアーク「アーク27周年記念祭セール」が開催！BTOパソコンやPCパーツがお得に！",
+          "imageUrl": "https://cginterest.com/wp-content/uploads/2026/05/ark27thsale.webp"
+        },
+        {
+          "id": "https://cginterest.com/?p=59006",
+          "author": ".me",
+          "description": "PCパーツやBTOパソコンを取り扱うツクモネットショップにて、新たに「PCライフ応援セール」が開催されています。 セール概要 このセールでは、PC パーツから完成品のデスクトップパソコン、周辺機器まで幅広い製品が対象とな […]\nツクモネットショップ「PCライフ応援セール」が開催！クリエイターPCや、GPUなどPCパーツがセール対象に！ first appeared on CGinterest.",
+          "link": "https://cginterest.com/2026/05/16/%e3%83%84%e3%82%af%e3%83%a2%e3%83%8d%e3%83%83%e3%83%88%e3%82%b7%e3%83%a7%e3%83%83%e3%83%97%e3%80%8cpc%e3%83%a9%e3%82%a4%e3%83%95%e5%bf%9c%e6%8f%b4%e3%82%bb%e3%83%bc%e3%83%ab%e3%80%8d%e3%81%8c%e9%96%8b/",
+          "publishedOn": "2026-05-16T11:59:27.000Z",
+          "wordCount": 30503,
+          "title": "ツクモネットショップ「PCライフ応援セール」が開催！クリエイターPCや、GPUなどPCパーツがセール対象に！",
+          "imageUrl": "https://cginterest.com/wp-content/uploads/2026/05/tsukumoPClifesale1.webp"
+        },
         {
           "id": "https://cginterest.com/?p=58975",
           "author": ".me",

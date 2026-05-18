@@ -2,10 +2,90 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-05-17T12:55:50.443Z</updated>
+    <updated>2026-05-18T02:13:17.602Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Blenderの3DモデルをPhotoshopで直接ペイント出来るアドオン「PaintBridge PS」]]></title>
+        <id>https://modelinghappy.com/?p=68721</id>
+        <link href="https://modelinghappy.com/archives/68721"/>
+        <updated>2026-05-18T00:14:15.000Z</updated>
+        <summary type="html"><![CDATA[PaintBridge PS PaintBridge PSは、PhotoshopでBlenderの3Dモデルに対して、Photoshopのブラシやレイヤーをそのまま利用してペイント出来るアドオンです。 Blenderのビ
+The post Blenderの3DモデルをPhotoshopで直接ペイント出来るアドオン「PaintBridge PS」 first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
+        <author>
+            <name>modelinghappy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Maya用カスタムデフォーマプラグイン「Profile Mover」、開発者がLinkedInで成果を報告　Pixarの論文をベースにMatin FalahManesh氏が独自実装 - ニュース]]></title>
+        <id>https://cgworld.jp/flashnews/01-202605-Maya-ProfileMover.html</id>
+        <link href="https://cgworld.jp/flashnews/01-202605-Maya-ProfileMover.html"/>
+        <updated>2026-05-17T22:14:00.000Z</updated>
+        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[フォトグラメトリ数学｜19：Bundle Adjustmentは何を最適化しているのか]]></title>
+        <id>https://zenn.dev/s_hashida/articles/b31ff24a779f06</id>
+        <link href="https://zenn.dev/s_hashida/articles/b31ff24a779f06"/>
+        <updated>2026-05-17T21:55:05.000Z</updated>
+        <summary type="html"><![CDATA[はじめに
+前回は、
+
+疎構造
+Schur補
+Bundle Adjustmentの計算構造
+
+について説明しました。
+
+そこで登場したのが、
+
+\Delta C
+
+という、
+カメラパラメータの更新量です。
+
+ではここで、自然な疑問が出てきます。
+
+「そもそもカメラパラメータとは何なのか？」
+「何を最適化しているのか？」
+
+
+Bundle Adjustmentでは、
+
+カメラ
+3D点
+
+を同時に最適化していました。
+
+しかし実は、
+カメラパラメータの中には、
+
+単純なベクトルとして扱えるもの
+そうでないもの
+
+が存在します。
+
+今回は、
+
+Bundle Adjustmentで最適化して...]]></summary>
+        <author>
+            <name>s_hashida</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[win-winになる「XのCG添削」のメリット！ | CGアーティストShiz氏による「 #CG添削希望 」の取り組み解説記事が公開！「添削をする側（レビュワー）」になるメリットとは！？]]></title>
+        <id>https://3dnchu.com/?p=1065143</id>
+        <link href="https://3dnchu.com/archives/win-win-x-cg-review-shiz/"/>
+        <updated>2026-05-17T17:02:44.000Z</updated>
+        <summary type="html"><![CDATA[ロンドン在住でハリウッド映画のコンポジット（合成）に携わるCGアーティストのShiz氏が「#CG添削希望」の取り組みについて、「添削をする側（レビュワー）」になるメリットを交えてnoteで解説しております。]]></summary>
+        <author>
+            <name>Ymt3D -3dnchu-</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DirectXTK12でAssimp　説明が必要なところのみ]]></title>
         <id>https://qiita.com/YKVKDX12/items/9858b451e81b5010480f</id>
@@ -297,6 +377,16 @@ float3 safeDivide(float3 divident, float3 diviso...]]></summary>
 The post 氷の世界、クリーパー..。SF映画『ミッキー17』のVFXブレイクダウン映像 first appeared on 3dtotal 日本語オフィシャルサイト.]]></summary>
         <author>
             <name>3dtotal管理人T</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[広島背景のMV撮影を3時間で完結させたXYN空間キャプチャ×バーチャルプロダクション｜Ooochie Koochie「ショーラー」MV - 特集]]></title>
+        <id>https://cgworld.jp/article/202605-cgw330-shoura.html</id>
+        <link href="https://cgworld.jp/article/202605-cgw330-shoura.html"/>
+        <updated>2026-05-15T01:30:00.000Z</updated>
+        <summary type="html"><![CDATA[広島の各所を舞台に、奥田民生氏と吉川晃司氏が歌うOoochie Koochie「ショーラー」のMV制作では、ソニーが提供する「XYN™（ジン）」の空間キャプチャーソリューションの先行プロトタイプを活用し、バーチャルプロダクション（以下、VP）に使用する高品質な3DCG背景制作を短期間で実現した。  ソニーおよびソニーPCLのスタッフ4名に、XYNと本MVの背景制作プロセスについて詳しく聞いた。]]></summary>
+        <author>
+            <name>CGWORLD</name>
         </author>
     </entry>
     <entry>
@@ -4196,93 +4286,6 @@ SfMの全体フロー図は以下のとおりです。
 イ...]]></summary>
         <author>
             <name>Shaderタグが付けられた新着記事 - Qiita</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[色収縮シェーダー 機能まとめ]]></title>
-        <id>https://zenn.dev/yrd_gs/articles/1c9b10c1fd9b5b</id>
-        <link href="https://zenn.dev/yrd_gs/articles/1c9b10c1fd9b5b"/>
-        <updated>2026-04-18T10:15:22.000Z</updated>
-        <summary type="html"><![CDATA[内容
-ギミック作成にあたって試した以下のシェーダーの各項目の役割をまとめた感じ。
-https://booth.pm/en/items/8018445
-ただ、シェーダー作成の知識なし、そもそも製作者ではない、なので各項目を触ってみての動作やChatGPTに.shaderの内容を接続した上でのやり取りをまとめ置く場所という扱い。
-
- 表示
-
-
- 各項目機能
-.shaderを繋ぎ、インスペクタのスクショを送って項目の機能リストを作成してもらった。
-
- 動作する機能
-いくつかはコード上で定義はあるけど使われていなかったり、使われているけどUnity Editor上では動作を確認できなかった...]]></summary>
-        <author>
-            <name>ゆるど</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【発表まとめ】Maxon、2026年春の製品アップデート、無料VFXツール「Autograph」、iPad版Cinema 4Dベータ版などを発表！]]></title>
-        <id>https://cginterest.com/?p=57910</id>
-        <link href="https://cginterest.com/2026/04/18/%e3%80%90%e7%99%ba%e8%a1%a8%e3%81%be%e3%81%a8%e3%82%81%e3%80%91maxon%e3%80%812026%e5%b9%b4%e6%98%a5%e3%81%ae%e8%a3%bd%e5%93%81%e3%82%a2%e3%83%83%e3%83%97%e3%83%87%e3%83%bc%e3%83%88%e3%80%81%e7%84%a1/"/>
-        <updated>2026-04-18T08:44:00.000Z</updated>
-        <summary type="html"><![CDATA[2026年4月16日（現地時間）- Maxon は、同社の3Dグラフィックスと映像制作ソフトウェア製品群の最新アップデートを発表。合わせて、プロ向けのクリエイティブツールをもっと身近にするための新しい取り組みを発表しまし […]
-【発表まとめ】Maxon、2026年春の製品アップデート、無料VFXツール「Autograph」、iPad版Cinema 4Dベータ版などを発表！ first appeared on CGinterest.]]></summary>
-        <author>
-            <name>.me</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Maxon Autograph 入門チュートリアル]]></title>
-        <id>https://cginterest.com/?p=57972</id>
-        <link href="https://cginterest.com/2026/04/18/maxon-autograph-%e5%85%a5%e9%96%80%e3%83%81%e3%83%a5%e3%83%bc%e3%83%88%e3%83%aa%e3%82%a2%e3%83%ab/"/>
-        <updated>2026-04-18T08:37:00.000Z</updated>
-        <summary type="html"><![CDATA[Autographを使い始める方のための公式のチュートリアルビデオ（Getting Started series）をベースにしたチュートリアル動画のまとめを作成しました。 この動画により、モーショングラフィックスやVFX […]
-Maxon Autograph 入門チュートリアル first appeared on CGinterest.]]></summary>
-        <author>
-            <name>.me</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[1週間で『スター・ウォーズ』のVFXを再現してみた]]></title>
-        <id>https://note.com/acarcane/n/n5e6fc76104cf</id>
-        <link href="https://note.com/acarcane/n/n5e6fc76104cf"/>
-        <updated>2026-04-18T08:30:00.000Z</updated>
-        <summary type="html"><![CDATA[続きをみる]]></summary>
-        <author>
-            <name>#Houdiniタグ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[プロ向けモーショングラフィックス、VFX、2D/3D合成ツールが無料！モダンなコンポジットアプリケーション「Autograph」]]></title>
-        <id>https://cginterest.com/?p=57735</id>
-        <link href="https://cginterest.com/2026/04/18/%e3%83%97%e3%83%ad%e5%90%91%e3%81%91%e3%83%a2%e3%83%bc%e3%82%b7%e3%83%a7%e3%83%b3%e3%82%b0%e3%83%a9%e3%83%95%e3%82%a3%e3%83%83%e3%82%af%e3%82%b9%e3%80%81vfx%e3%80%812d-3d%e5%90%88%e6%88%90%e3%83%84/"/>
-        <updated>2026-04-18T08:28:00.000Z</updated>
-        <summary type="html"><![CDATA[2026年4月16日（現地時間）- Maxon は、「Autograph」の個人向け無料提供を発表しました。ここでは、Autograph とはどのようなソフトか、その主な機能を紹介したいお思います。 Autograph  […]
-プロ向けモーショングラフィックス、VFX、2D/3D合成ツールが無料！モダンなコンポジットアプリケーション「Autograph」 first appeared on CGinterest.]]></summary>
-        <author>
-            <name>.me</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2Dモーションデザイン制作ツール「Cavalry」が無料化！プロ仕様の機能を全て利用可能！]]></title>
-        <id>https://modelinghappy.com/?p=68128</id>
-        <link href="https://modelinghappy.com/archives/68128"/>
-        <updated>2026-04-18T07:56:34.000Z</updated>
-        <summary type="html"><![CDATA[Cavalry Cavalryは、2Dアニメーションやモーショングラフィックス制作に特化したソフトで、Windows / Macで利用可能なプロ向けツールですが、プロ仕様の機能を全て利用制限なく無料使用出来ると発表されま
-The post 2Dモーションデザイン制作ツール「Cavalry」が無料化！プロ仕様の機能を全て利用可能！ first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
-        <author>
-            <name>modelinghappy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cinema 4D 2026.2 がリリース！布シミュレーションブラシの追加、ベンドデフォーマの強化など]]></title>
-        <id>https://cginterest.com/?p=57733</id>
-        <link href="https://cginterest.com/2026/04/18/cinema-4d-2026-2-%e3%81%8c%e3%83%aa%e3%83%aa%e3%83%bc%e3%82%b9%ef%bc%81%e5%b8%83%e3%82%b7%e3%83%9f%e3%83%a5%e3%83%ac%e3%83%bc%e3%82%b7%e3%83%a7%e3%83%b3%e3%83%96%e3%83%a9%e3%82%b7%e3%81%ae%e8%bf%bd/"/>
-        <updated>2026-04-18T01:09:00.000Z</updated>
-        <summary type="html"><![CDATA[2026年4月16日（現地時間）- Maxon は、同社の3Dグラフィックスと映像制作ソフトウェア製品群の最新アップデートを発表しました。 ここでは、Cinema 4Dの最新アップデート「Cinema 4D 2026.2 […]
-Cinema 4D 2026.2 がリリース！布シミュレーションブラシの追加、ベンドデフォーマの強化など first appeared on CGinterest.]]></summary>
-        <author>
-            <name>.me</name>
         </author>
     </entry>
 </feed>

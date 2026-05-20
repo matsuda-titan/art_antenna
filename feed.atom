@@ -2,10 +2,111 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-05-19T14:34:13.859Z</updated>
+    <updated>2026-05-20T02:11:43.606Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[世界最高峰のVFXスタジオを訪問！teamoveによるバンクーバーCG現地体験会が2026年9月22日〜27日開催！]]></title>
+        <id>https://modelinghappy.com/?p=68668</id>
+        <link href="https://modelinghappy.com/archives/68668"/>
+        <updated>2026-05-20T00:20:34.000Z</updated>
+        <summary type="html"><![CDATA[teamove バンクーバーVFX/CG現地体験会 2026年9月22日〜27日にカナダ・バンクーバーで『アバター』『デューン』『ジュラシック・ワールド』『ゴジラ』『ザ・バットマン』『スパイダーマン』の大作映画を制作して
+The post 世界最高峰のVFXスタジオを訪問！teamoveによるバンクーバーCG現地体験会が2026年9月22日〜27日開催！ first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
+        <author>
+            <name>modelinghappy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[画像から色抽出＆パレット管理可能。1クリックでカラーバリエーションを作成出来るBlender用無料アドオン「Color Helper」]]></title>
+        <id>https://modelinghappy.com/?p=68725</id>
+        <link href="https://modelinghappy.com/archives/68725"/>
+        <updated>2026-05-19T23:20:48.000Z</updated>
+        <summary type="html"><![CDATA[Color Helper Color Helperは、Blender上でカラーパレットの作成・管理・編集出来るアドオンです。3DビューやShader Node Editorのサイドパネルから直接使用でき、マテリアル制作時
+The post 画像から色抽出＆パレット管理可能。1クリックでカラーバリエーションを作成出来るBlender用無料アドオン「Color Helper」 first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
+        <author>
+            <name>modelinghappy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[入力画像のディテールを忠実に再現、ピクセル整列を用いた3D生成手法「Pixal3D」]]></title>
+        <id>https://cginterest.com/?p=58902</id>
+        <link href="https://cginterest.com/2026/05/20/%e5%85%a5%e5%8a%9b%e7%94%bb%e5%83%8f%e3%81%ae%e3%83%87%e3%82%a3%e3%83%86%e3%83%bc%e3%83%ab%e3%82%92%e5%bf%a0%e5%ae%9f%e3%81%ab%e5%86%8d%e7%8f%be%e3%80%81%e3%83%94%e3%82%af%e3%82%bb%e3%83%ab%e6%95%b4/"/>
+        <updated>2026-05-19T23:19:00.000Z</updated>
+        <summary type="html"><![CDATA[清華大学、Tencent ARC Lab、およびビクトリア大学ウェリントンの共同研究チームによって発表された研究「Pixal3D: Pixel-Aligned 3D Generation from Images」の紹介で […]
+入力画像のディテールを忠実に再現、ピクセル整列を用いた3D生成手法「Pixal3D」 first appeared on CGinterest.]]></summary>
+        <author>
+            <name>.me</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Substance 3D Painterを用いたクリーチャーのテクスチャ制作チュートリアル動画公開　リアルタイムレンダリングのゲーム向け制作ノウハウ - ニュース]]></title>
+        <id>https://cgworld.jp/flashnews/01-202605-SP-CreatureTex.html</id>
+        <link href="https://cgworld.jp/flashnews/01-202605-SP-CreatureTex.html"/>
+        <updated>2026-05-19T22:53:46.000Z</updated>
+        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[フォトグラメトリ数学｜20：回転行列とは何か]]></title>
+        <id>https://zenn.dev/s_hashida/articles/bd24ac22e7505f</id>
+        <link href="https://zenn.dev/s_hashida/articles/bd24ac22e7505f"/>
+        <updated>2026-05-19T22:03:05.000Z</updated>
+        <summary type="html"><![CDATA[前回は、
+
+Bundle Adjustment
+カメラパラメータ
+回転は単純加算できない
+
+という話を見ました。
+
+その中で重要だったのが、
+
+回転は普通のベクトルではない
+
+という点です。
+
+ではここで、自然な疑問が出てきます。
+
+そもそも回転とは何なのか？
+なぜ行列で表されるのか？
+なぜ回転だけ特別扱いが必要なのか？
+
+
+今回は、
+
+回転行列
+回転の制約
+なぜSO(3)が必要になるのか
+
+について、直感的に整理します。
+
+ 2次元の回転
+まずは、最も簡単な2次元から考えます。
+
+例えば、
+
+\mathbf{x}=
+\begin{bmatrix}
+x\\
+y
+\end{bmatrix...]]></summary>
+        <author>
+            <name>s_hashida</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PhotoGIMP 3 | 無料の画像編集ソフト「GIMP」を「Photoshop」ライクなレイアウトや操作性に切り替える無料のパッチ！]]></title>
+        <id>https://3dnchu.com/?p=1065157</id>
+        <link href="https://3dnchu.com/archives/photogimp-3/"/>
+        <updated>2026-05-19T19:44:14.000Z</updated>
+        <summary type="html"><![CDATA[無料の画像編集ソフトで定番の一つ「GIMP」を「Photoshop」ライクなインターフェースに変更してくれるパッチ「PhotoGIMP」なるものが存在するようです。]]></summary>
+        <author>
+            <name>Ymt3D -3dnchu-</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【PR】Live2D JUKU EX 2026 〜Shape the Future〜 | 著名クリエイターたちがLive2Dの実践ノウハウ共有する無料のオンラインイベント！2026年5月23日（土）に開催！]]></title>
         <id>https://3dnchu.com/?p=1065034</id>
@@ -4200,103 +4301,6 @@ The post 待望のハリウッド実写映画化!? 映画『ストリートフ�
         <updated>2026-04-20T22:17:00.000Z</updated>
         <summary type="html"><![CDATA[2026年4月16日（現地時間）- PlayCanvas CEO Will Eastcott氏は、3D Gaussian Splatting編集・共有プラットフォーム「SuperSplat.at」の最新アップデートを発表 […]
 SuperSplat 最新アップデート！Splatのダウンロード機能、ライセンス設定、ソーシャルリンクが追加！ first appeared on CGinterest.]]></summary>
-        <author>
-            <name>.me</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[画像1枚から3Dモデル生成！ローカルで動く無料AIツール「Modly」ただし商用利用は注意が必要]]></title>
-        <id>https://modelinghappy.com/?p=68192</id>
-        <link href="https://modelinghappy.com/archives/68192"/>
-        <updated>2026-04-20T12:18:32.000Z</updated>
-        <summary type="html"><![CDATA[Modly lightningpixelさんが、ローカルPCで動作する画像1枚から3Dモデルを自動生成できるAIツール「Modly」がGitHubで公開されています。 Modlyはクラウドにデータをアップロードする必要が
-The post 画像1枚から3Dモデル生成！ローカルで動く無料AIツール「Modly」ただし商用利用は注意が必要 first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
-        <author>
-            <name>modelinghappy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【Canva Create 発表まとめ】Canvaオフライン対応、Claude連携、2DアニメーションツールCavalry完全無料化、Affinityアップデートなどが発表！]]></title>
-        <id>https://cginterest.com/?p=58049</id>
-        <link href="https://cginterest.com/2026/04/20/%e3%80%90canva-create-%e7%99%ba%e8%a1%a8%e3%81%be%e3%81%a8%e3%82%81%e3%80%91canva%e3%82%aa%e3%83%95%e3%83%a9%e3%82%a4%e3%83%b3%e5%af%be%e5%bf%9c%e3%80%81claude%e9%80%a3%e6%90%ba%e3%80%812d%e3%82%a2/"/>
-        <updated>2026-04-20T11:36:15.000Z</updated>
-        <summary type="html"><![CDATA[先日開催された「Canva Create 2026」にて、デザインソフト「Affinity」や「Canva」本体に関する様々な発表が行われました。 ここでは、Affinityと外部プロツール（Capture OneやDa […]
-【Canva Create 発表まとめ】Canvaオフライン対応、Claude連携、2DアニメーションツールCavalry完全無料化、Affinityアップデートなどが発表！ first appeared on CGinterest.]]></summary>
-        <author>
-            <name>.me</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[VFX制作の裏側｜Netflixシリーズ「今際の国のアリス」シーズン3 若手クリエイターインタビュー⑤ 濁流シーンに挑んだ水表現のコンポジット]]></title>
-        <id>https://note.com/dftalk/n/nd13112cdf200</id>
-        <link href="https://note.com/dftalk/n/nd13112cdf200"/>
-        <updated>2026-04-20T10:01:49.000Z</updated>
-        <summary type="html"><![CDATA[本記事は、
-Netflixシリーズ「今際の国のアリス」シーズン3 VFX制作の裏側シリーズです。
-続きをみる]]></summary>
-        <author>
-            <name>DF TALK</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[無料2Dアニメーションツール Cavalry 入門チュートリアル]]></title>
-        <id>https://cginterest.com/?p=58066</id>
-        <link href="https://cginterest.com/2026/04/20/%e7%84%a1%e6%96%992d%e3%82%a2%e3%83%8b%e3%83%a1%e3%83%bc%e3%82%b7%e3%83%a7%e3%83%b3%e3%83%84%e3%83%bc%e3%83%ab-cavalry-%e5%85%a5%e9%96%80%e3%83%81%e3%83%a5%e3%83%bc%e3%83%88%e3%83%aa%e3%82%a2%e3%83%ab/"/>
-        <updated>2026-04-20T09:11:56.000Z</updated>
-        <summary type="html"><![CDATA[公式の入門チュートリアルをベースにした無料2Dアニメーションツール Cavalry のチュートリアル動画集です。 最近公開されたもの3つチュートリアル動画をチャプター付きで見ることができます。 ◀ ▶ Loading&# […]
-無料2Dアニメーションツール Cavalry 入門チュートリアル first appeared on CGinterest.]]></summary>
-        <author>
-            <name>.me</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Niagara Automotive | Unreal Engine 5.7のNiagaraを使用した自動車ビジュアライゼーション向けのリアルタイムVFXコース！日本語字幕もあるよ！by RedefineFX]]></title>
-        <id>https://3dnchu.com/?p=1064289</id>
-        <link href="https://3dnchu.com/archives/niagara-automotive-redefinefx/"/>
-        <updated>2026-04-20T08:58:33.000Z</updated>
-        <summary type="html"><![CDATA[RedefineFXから自動車ビジュアライゼーション用のNiagaraコース「Niagara Automotive」が発表されております！]]></summary>
-        <author>
-            <name>Ymt3D -3dnchu-</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[XYN Spatial Capture Solution | XYNが「空間キャプチャーソリューション」を法人向けに提供開始！専用アプリとカメラで現実空間を高品質な3DCGアセットへ再現！バーチャルプロダクションや映像／VFX制作向けに展開！]]></title>
-        <id>https://3dnchu.com/?p=1064256</id>
-        <link href="https://3dnchu.com/archives/xyn-spatial-capture-solution/"/>
-        <updated>2026-04-20T07:24:19.000Z</updated>
-        <summary type="html"><![CDATA[2026年4月14日、ソニーがXYNの「空間キャプチャーソリューション」 を法人向けに提供開始しました！]]></summary>
-        <author>
-            <name>Ymt3D -3dnchu-</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Affinity 2026年4月アップデートがリリース！Claudeを活用したAI自動化に対応！その他 DaVinci Resolveなどの新しい連携機能追加など]]></title>
-        <id>https://cginterest.com/?p=57914</id>
-        <link href="https://cginterest.com/2026/04/20/affinity-2026%e5%b9%b44%e6%9c%88%e3%82%a2%e3%83%83%e3%83%97%e3%83%87%e3%83%bc%e3%83%88%e3%81%8c%e3%83%aa%e3%83%aa%e3%83%bc%e3%82%b9%ef%bc%81mcp%e5%af%be%e5%bf%9c%e3%81%a7claude%e3%82%92%e6%b4%bb/"/>
-        <updated>2026-04-20T06:47:00.000Z</updated>
-        <summary type="html"><![CDATA[無料のクリエイティブスイート「Affinity」の最新バージョン（2026年4月号）がリリースされました。 主な新機能 このアップデートでは、AIを活用した作業の自動化やブランド管理の統合といった共通機能の拡充に加え、D […]
-Affinity 2026年4月アップデートがリリース！Claudeを活用したAI自動化に対応！その他 DaVinci Resolveなどの新しい連携機能追加など first appeared on CGinterest.]]></summary>
-        <author>
-            <name>.me</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「Marvelous Designer 2026」リリース ― 3Dペンシルや衣装リギング自動化機能を搭載 - ニュース]]></title>
-        <id>https://cgworld.jp/flashnews/03-2604-marvelousdesigner.html</id>
-        <link href="https://cgworld.jp/flashnews/03-2604-marvelousdesigner.html"/>
-        <updated>2026-04-20T06:40:00.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[過去最大級のアップデート「Canva AI 2.0」が発表！ 対話形式でレイヤー付きデザインを自動生成]]></title>
-        <id>https://cginterest.com/?p=57917</id>
-        <link href="https://cginterest.com/2026/04/20/%e9%81%8e%e5%8e%bb%e6%9c%80%e5%a4%a7%e7%b4%9a%e3%81%ae%e3%82%a2%e3%83%83%e3%83%97%e3%83%87%e3%83%bc%e3%83%88%e3%80%8ccanva-ai-2-0%e3%80%8d%e3%81%8c%e7%99%ba%e8%a1%a8%ef%bc%81-%e5%af%be%e8%a9%b1/"/>
-        <updated>2026-04-20T06:27:00.000Z</updated>
-        <summary type="html"><![CDATA[2026年4月16日（現地時間）- Canvaは、デザイン制作に新しいアプローチをもたらすアップデート「Canva AI 2.0」を発表しました。 約10年前の創業時は、専門的で分断化されていたソフトウェアを使いやすくま […]
-過去最大級のアップデート「Canva AI 2.0」が発表！ 対話形式でレイヤー付きデザインを自動生成 first appeared on CGinterest.]]></summary>
         <author>
             <name>.me</name>
         </author>

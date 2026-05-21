@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-05-21T06:41:22.555Z</updated>
+    <updated>2026-05-21T10:57:23.245Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
@@ -4274,61 +4274,6 @@ The post AAA風環境を再現するUE5シェーダー講座「Unreal Shader: Me
 【期間限定無料】2026年5月5日までの FAB 無料コンテンツをチェック！ first appeared on CGinterest.]]></summary>
         <author>
             <name>.me</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HoudiniとUnreal Engineによるプロシージャルジェネレータのブレイクダウン公開　『ゼルダの伝説 ティアーズ オブ ザ キングダム』の空島にインスパイア - ニュース]]></title>
-        <id>https://cgworld.jp/flashnews/01-202604-SkyIsland.html</id>
-        <link href="https://cgworld.jp/flashnews/01-202604-SkyIsland.html"/>
-        <updated>2026-04-21T22:40:10.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[フォトグラメトリ数学｜12：Bundle Adjustmentとは何か]]></title>
-        <id>https://zenn.dev/s_hashida/articles/362a652a8df531</id>
-        <link href="https://zenn.dev/s_hashida/articles/362a652a8df531"/>
-        <updated>2026-04-21T21:15:05.000Z</updated>
-        <summary type="html"><![CDATA[はじめに
-前回は、Structure from Motion（SfM）について説明しました。
-
-対応点を見つける
-幾何関係を求める
-三角測量で3Dを復元する
-
-そして最後に、
-
-Bundle Adjustmentで全体を最適化する
-
-という流れを見ました。
-
-ここで疑問です。
-
-なぜ最適化が必要なのか？
-それで何が良くなるのか？
-
-
-今回は、
-
-SfMの核心である Bundle Adjustment
-
-について掘り下げます。
-
- なぜ最適化が必要なのか
-まず重要な事実があります。
-
-
-SfMの途中結果は、すべてズレている
-
-
-例えば：
-
-三角測量で求めた3D点
-エッセンシャル行列か...]]></summary>
-        <author>
-            <name>s_hashida</name>
         </author>
     </entry>
 </feed>

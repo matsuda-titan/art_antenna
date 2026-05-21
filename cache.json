@@ -782,6 +782,16 @@
       "siteUrl": "https://cgworld.jp/",
       "articles": [
         {
+          "id": "https://cgworld.jp/flashnews/01-202605-Houdini-EvrSim.html",
+          "author": null,
+          "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
+          "link": "https://cgworld.jp/flashnews/01-202605-Houdini-EvrSim.html",
+          "publishedOn": "2026-05-20T22:11:44.000Z",
+          "wordCount": 833,
+          "title": "SideFX、Houdiniチュートリアル「Everything Is a Simulation」動画公開　 OFFF HIVE 2026イベントでのPaul Esteves氏による公演 - ニュース",
+          "imageUrl": "https://cgworld.jp/flashnews/assets_c/2026/05/Houdini_EvrSim-01-thumb-1920x1080-83847.jpg"
+        },
+        {
           "id": "https://cgworld.jp/flashnews/01-202605-SP-CreatureTex.html",
           "author": null,
           "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
@@ -1490,16 +1500,6 @@
           "wordCount": 774,
           "title": "HoudiniとUnreal Engineによるプロシージャルジェネレータのブレイクダウン公開　『ゼルダの伝説 ティアーズ オブ ザ キングダム』の空島にインスパイア - ニュース",
           "imageUrl": "https://cgworld.jp/flashnews/assets_c/2026/04/Houdini_UE_SkyIsland-01-thumb-1920x1080-82480.jpg"
-        },
-        {
-          "id": "https://cgworld.jp/flashnews/02-2604-sycom.html",
-          "author": null,
-          "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
-          "link": "https://cgworld.jp/flashnews/02-2604-sycom.html",
-          "publishedOn": "2026-04-21T03:00:10.000Z",
-          "wordCount": 883,
-          "title": "サイコム、映像編集向けPC「Lepton Motion Pro II」発売。高性能と静音性を両立 - ニュース",
-          "imageUrl": "https://cgworld.jp/flashnews/assets_c/2026/04/c26968c38696ce0684b6c821930fa1d1b3fe79a4-thumb-1000x563-82401.png"
         }
       ]
     },
@@ -2296,26 +2296,6 @@
           "wordCount": 538,
           "title": "トニー・ギルロイ と アラン・テュディック が語る『スター・ウォーズ：キャシアン・アンドー 』シーズン2 の舞台裏",
           "imageUrl": "https://3dtotal.jp/wp-content/uploads/2026/04/andor2_ilm_conv.jpg"
-        },
-        {
-          "id": "https://3dtotal.jp/?p=55334",
-          "author": "3dtotal管理人T",
-          "description": "はじめに この Part1 では「形態(フォーム)は機能に従う」という理論の重要性を軸に、2Dコンセプトから最終 3Dデザインまでの制作プロセスについて 解説します。Part1 から Part3 まで 3回にわたり、Bl […]\nThe post 2Dのコンセプトから 3Dイメージまで。Blender 使用、SFシーン『Colony』のメイキング Part1 first appeared on 3dtotal 日本語オフィシャルサイト.",
-          "link": "https://3dtotal.jp/tutorials/55334/",
-          "publishedOn": "2026-04-21T09:22:37.000Z",
-          "wordCount": 640,
-          "title": "2Dのコンセプトから 3Dイメージまで。Blender 使用、SFシーン『Colony』のメイキング Part1",
-          "imageUrl": "https://3dtotal.jp/wp-content/uploads/2026/04/t386_t.jpg"
-        },
-        {
-          "id": "https://3dtotal.jp/?p=54917",
-          "author": "3dtotal管理人T",
-          "description": "★Street Fighter | Official Trailer (2026 Movie)（2分52秒） ★映画『ストリートファイター／ザ・ムービー』ティザー予告編（2分47秒） \"俺より強いやつに会いに行く\" 映画 […]\nThe post 待望のハリウッド実写映画化!? 映画『ストリートファイター／ザ・ムービー』のトレーラー（英語／日本語） first appeared on 3dtotal 日本語オフィシャルサイト.",
-          "link": "https://3dtotal.jp/news/54917/",
-          "publishedOn": "2026-04-21T02:56:16.000Z",
-          "wordCount": 512,
-          "title": "待望のハリウッド実写映画化!? 映画『ストリートファイター／ザ・ムービー』のトレーラー（英語／日本語）",
-          "imageUrl": "https://3dtotal.jp/wp-content/uploads/2026/04/sfmovie_trailer.jpg"
         }
       ]
     },
@@ -3058,16 +3038,6 @@
           "wordCount": 2184,
           "title": "同じ Mandelbrot カーネルを CPU と GPU で並べて、`float32` が壊れるところまでズームしてみた",
           "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkY0NDExNzkxJTJGYTZhNGM1MTg4NWFhYjAxNTEzNmVkNTdkN2M0NmE5Zjc1ZjVlOTZkOSUyRnhfbGFyZ2UucG5nJTNGMTc3NjczMzQ3NT9peGxpYj1yYi00LjAuMCZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9MTFhY2Q0MmIzMzk2MjAzZTQ5ZjMwMzMwNTlkNDc4MzI%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D59dd8e86f63e34196a452305d90aca93?ixlib=rb-4.0.0&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9JUU1JTkwJThDJUUzJTgxJTk4JTIwTWFuZGVsYnJvdCUyMCVFMyU4MiVBQiVFMyU4MyVCQyVFMyU4MyU4RCVFMyU4MyVBQiVFMyU4MiU5MiUyMENQVSUyMCVFMyU4MSVBOCUyMEdQVSUyMCVFMyU4MSVBNyVFNCVCOCVBNiVFMyU4MSVCOSVFMyU4MSVBNiVFMyU4MCU4MSU2MGZsb2F0MzIlNjAlMjAlRTMlODElOEMlRTUlQTMlOEElRTMlODIlOEMlRTMlODIlOEIlRTMlODElQTglRTMlODElOTMlRTMlODIlOEQlRTMlODElQkUlRTMlODElQTclRTMlODIlQkElRTMlODMlQkMlRTMlODMlQTAlRTMlODElOTclRTMlODElQTYlRTMlODElQkYlRTMlODElOUYmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz1jNThkZTVhYjY5ZjA3YzQ5ODY3NWY4NjdjZDYzNGUwZA&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBzZW4tbHRkJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9NTYyZjRjNmMzNTUzOTZlNjI3MGI1OGE1NzA1MGIzNzM&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=0cdcfddfff72ce93b084d3313d08445c"
-        },
-        {
-          "id": "https://qiita.com/techsuwako/items/2596718c21282f7875c9",
-          "author": null,
-          "description": "Nintendo Switch向けのNVN及びVulkanプログラミングの完全なドキュメントを、０７６スタジオのイントラネットに書き終えました。\n将来的に新入社員が学ぶ為の資料です。\n近いうちにPC向けのVulkanガイドを此のブログで書き直す予定ですが、先ずはゲームエンジ...",
-          "link": "https://qiita.com/techsuwako/items/2596718c21282f7875c9",
-          "publishedOn": "2026-04-21T04:59:17.000Z",
-          "wordCount": 9296,
-          "title": "【Vulkan】ゲームエンジン １: 基本的なレンダラーセットアップ",
-          "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnFpaXRhLWltYWdlLXN0b3JlLnMzLmFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkYwJTJGNDMyOTA0NiUyRnByb2ZpbGUtaW1hZ2VzJTJGMTc2NzcwNTI2ND9peGxpYj1yYi00LjAuMCZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9ZGZkNGQ0MzU1ZmE4NThmYjY1YjI3YWQ3NWExMWFkOTk%26blend-x%3D120%26blend-y%3D462%26blend-w%3D90%26blend-h%3D90%26blend-mode%3Dnormal%26mark64%3DaHR0cHM6Ly9xaWl0YS1vcmdhbml6YXRpb24taW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1vcmdhbml6YXRpb24taW1hZ2UlMkZiZjg0MDA1Mjc5YmE4ZWViNzZlYmZlN2E3OTkyYWVmMDk4NDJkNjcwJTJGb3JpZ2luYWwuanBnJTNGMTc2NzY5ODU3Nz9peGxpYj1yYi00LjAuMCZ3PTQ0Jmg9NDQmZml0PWNyb3AmbWFzaz1jb3JuZXJzJmNvcm5lci1yYWRpdXM9OCZiZz1GRkZGRkYmYm9yZGVyPTIlMkNGRkZGRkYmZm09cG5nMzImcz1iNjRlNDUyOWIyOTlhNTQ1NGYyNDM2MjUyYjA1MmYxOQ%26mark-x%3D186%26mark-y%3D515%26mark-w%3D40%26mark-h%3D40%26s%3D299d87ee7bd76e25bd7401e0967bac9b?ixlib=rb-4.0.0&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9JUUzJTgwJTkwVnVsa2FuJUUzJTgwJTkxJUUzJTgyJUIyJUUzJTgzJUJDJUUzJTgzJUEwJUUzJTgyJUE4JUUzJTgzJUIzJUUzJTgyJUI4JUUzJTgzJUIzJTIwJUVGJUJDJTkxJTNBJTIwJUU1JTlGJUJBJUU2JTlDJUFDJUU3JTlBJTg0JUUzJTgxJUFBJUUzJTgzJUFDJUUzJTgzJUIzJUUzJTgzJTgwJUUzJTgzJUE5JUUzJTgzJUJDJUUzJTgyJUJCJUUzJTgzJTgzJUUzJTgzJTg4JUUzJTgyJUEyJUUzJTgzJTgzJUUzJTgzJTk3JnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9NjgxOTMyYjVjY2FiYWU5Nzk3ZTE5ZDQzYzAyNmFmZTA&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDB0ZWNoc3V3YWtvJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9NTAyZjFiZTgxYjUyNDgxM2E1YmI4N2M4ZTAyYjNmOGE&blend-x=242&blend-y=454&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&txt64=77yQ77yX77yW44K544K_44K444Kq5ZCI5ZCM5Lya56S-&txt-x=242&txt-y=539&txt-width=838&txt-clip=end%2Cellipsis&txt-color=%231E2121&txt-font=Hiragino%20Sans%20W6&txt-size=28&s=763b0f98107474b65b2813ab953265a6"
         }
       ]
     },
@@ -3120,6 +3090,26 @@
       "feedUrl": "https://area.autodesk.jp/rss.xml",
       "siteUrl": "https://area.autodesk.jp/",
       "articles": [
+        {
+          "id": "https://area.autodesk.jp/information/maya-2027-1/",
+          "author": null,
+          "description": "Maya 2027.1がリリースされました。このバージョンには、ver.2027で更新されたMotionMaker、シーケンサ、Bifrost、LookdevXなどに更なる改善が行われました。アップデートの詳細な情報についてはヘルプページの[Mayaの新機能]をご確認ください。・・・",
+          "link": "https://area.autodesk.jp/information/maya-2027-1/",
+          "publishedOn": "2026-05-21T00:33:18.000Z",
+          "wordCount": 204,
+          "title": "Maya 2027.1 リリース",
+          "imageUrl": "https://area.autodesk.jp/information/assets_c/2026/05/ic_maya_2027_01_1400x782-thumb-1200xauto-5834.jpg"
+        },
+        {
+          "id": "https://area.autodesk.jp/information/3ds-max-2027-1/",
+          "author": null,
+          "description": "3ds Max 2027.1がリリースされました。このバージョンにはver.2027で追加されたスマートベベルの機能強化、新しいオペレータが追加されたデータチャネル モディファイヤなどが含まれます。アップデートの詳細な情報についてはヘルプページから[3ds Maxの新機能]をご確認ください。・・・",
+          "link": "https://area.autodesk.jp/information/3ds-max-2027-1/",
+          "publishedOn": "2026-05-21T00:25:50.000Z",
+          "wordCount": 208,
+          "title": "3ds Max 2027.1 リリース",
+          "imageUrl": "https://area.autodesk.jp/information/assets_c/2026/05/ic_3ds_max_2027_01_1400x782-thumb-1200xauto-5832.jpg"
+        },
         {
           "id": "https://area.autodesk.jp/column/trend_tech/digital-contents-future/18-asano-shuji/",
           "author": null,
@@ -3333,26 +3323,6 @@
           "wordCount": 2948,
           "title": "AI時代だからこそ、手を動かしてつくる。初開催となった「Houdini 60 Minutes」。",
           "imageUrl": "https://assets.st-note.com/production/uploads/images/269253659/rectangle_large_type_2_0ac25dd05fe578e43c898f542e64fddd.png?width=800"
-        },
-        {
-          "id": "https://note.com/dapper_toucan148/n/n0215acbfb1f1",
-          "author": null,
-          "description": "やっぱりカッコいいですねー😆\n続きをみる",
-          "link": "https://note.com/dapper_toucan148/n/n0215acbfb1f1",
-          "publishedOn": "2026-04-21T03:50:32.000Z",
-          "wordCount": 2478,
-          "title": "【名曲紹介】　90s Melvins - Honey Bucket",
-          "imageUrl": "https://d2l930y2yx77uc.cloudfront.net/production/social_images/b6ccb2e81e06e141154b3eb7fc71d7b68f4e8ca5.png"
-        },
-        {
-          "id": "https://note.com/papatomo50/n/na268aed0254f",
-          "author": null,
-          "description": "こんにちは。\n3DCGツール解説の第8弾となる今回は、\n炎や爆発、街の自動生成など、プログラム的\n思考（ノード）を用いて複雑な現象を作り出す\nことに特化したプロ専用のツール、\nHoudini（フーディニ）について、\n2026年現在の最新状況を解説します。\n続きをみる",
-          "link": "https://note.com/papatomo50/n/na268aed0254f",
-          "publishedOn": "2026-04-21T03:47:12.000Z",
-          "wordCount": 3147,
-          "title": "【サクッと解説 #8】Houdini：破壊と魔法のエフェクトを生み出すVFXの最高峰(2026年最新版) #Houdini #VFX #3DCG #プロシージャル #エフェクト #映像制作 #ゲーム開発",
-          "imageUrl": "https://assets.st-note.com/production/uploads/images/269108147/rectangle_large_type_2_0abe4424018e2a2988da640327caffa5.png?width=800"
         }
       ]
     },
@@ -3410,16 +3380,6 @@
           "wordCount": 2388,
           "title": "SD ノード解説 3D texture volume renderについて",
           "imageUrl": "https://d2l930y2yx77uc.cloudfront.net/production/social_images/fd96acb33f3a8a85ef138057153e01596c8cfa68.png"
-        },
-        {
-          "id": "https://note.com/thesaurus/n/ne9e98e3dada8",
-          "author": null,
-          "description": "先日発表された Substance 3D Designer Version 16.0 で、SDF関連の機能が追加されました。\n今回は、このSDF機能の基本的な使い方の解説します。\n完成したテクスチャはこちらです。\n続きをみる",
-          "link": "https://note.com/thesaurus/n/ne9e98e3dada8",
-          "publishedOn": "2026-04-21T05:54:26.000Z",
-          "wordCount": 3097,
-          "title": "Substance Designer with SDF",
-          "imageUrl": "https://assets.st-note.com/production/uploads/images/269135045/rectangle_large_type_2_3480542d07c5ad7e9df705ae6499db02.png?width=800"
         }
       ]
     },
@@ -3492,6 +3452,16 @@
       "siteUrl": "https://3d.crdg.jp/env/",
       "articles": [
         {
+          "id": "https://3d.crdg.jp/env/?p=9626",
+          "author": "Hisako.Nishimura",
+          "description": "岩のスカルプトの際はTrimSmoothBorderブラシが便利です。TrimAdaptiveブラシと似ていますが、スカルプトした際のエッジが少しソフ […]\n続きを読む\n投稿 【ZBrush】岩のスカルプトに便利なTrimSmoothBorderブラシ は エンホリ - ENVIRONMENT HOLIC｜C&R Creative Studios に最初に表示されました。",
+          "link": "https://3d.crdg.jp/env/2026/05/20/9626/?utm_source=rss&utm_medium=rss&utm_campaign=%25e3%2580%2590zbrush%25e3%2580%2591%25e5%25b2%25a9%25e3%2581%25ae%25e3%2582%25b9%25e3%2582%25ab%25e3%2583%25ab%25e3%2583%2597%25e3%2583%2588%25e3%2581%25ab%25e4%25be%25bf%25e5%2588%25a9%25e3%2581%25aatrimsmoothborder%25e3%2583%2596%25e3%2583%25a9%25e3%2582%25b7",
+          "publishedOn": "2026-05-20T14:47:42.000Z",
+          "wordCount": 3094,
+          "title": "【ZBrush】岩のスカルプトに便利なTrimSmoothBorderブラシ",
+          "imageUrl": "https://3d.crdg.jp/env/wp-content/uploads/2026/05/TrimSmoothBorder-1.jpg"
+        },
+        {
           "id": "https://3d.crdg.jp/env/?p=9546",
           "author": "Kosei.Hatanaka",
           "description": "Maya と Substance Painter を併用していると「Painterではいい感じなのに、Mayaだと色が違いすぎる」という経験をしたこと […]\n続きを読む\n投稿 【Maya】ビューポートの色味をSubstance Painterに近づける方法 は エンホリ - ENVIRONMENT HOLIC｜C&R Creative Studios に最初に表示されました。",
@@ -3538,6 +3508,41 @@
       "feedUrl": "https://cginterest.com/feed/",
       "siteUrl": "https://cginterest.com",
       "articles": [
+        {
+          "id": "https://cginterest.com/?p=59086",
+          "author": ".me",
+          "description": "2026年5月19日（現地時間）- Academy Software Foundation は、DreamWorks Animationによって開発されたオープンソースのレンダラー「MoonRay」が、ホステッドプロジ […]\nDreamWorks Animationのオープンソースプロダクションレンダラー「MoonRay」がAcademy Software Foundationに加入 first appeared on CGinterest.",
+          "link": "https://cginterest.com/2026/05/21/dreamworks-animation%e3%81%ae%e3%82%aa%e3%83%bc%e3%83%97%e3%83%b3%e3%82%bd%e3%83%bc%e3%82%b9%e3%83%97%e3%83%ad%e3%83%80%e3%82%af%e3%82%b7%e3%83%a7%e3%83%b3%e3%83%ac%e3%83%b3%e3%83%80%e3%83%a9%e3%83%bc/",
+          "publishedOn": "2026-05-21T01:46:00.000Z",
+          "wordCount": 30348,
+          "title": "DreamWorks Animationのオープンソースプロダクションレンダラー「MoonRay」がAcademy Software Foundationに加入",
+          "imageUrl": "https://cginterest.com/wp-content/uploads/2026/05/moonray-join-aswf1.webp"
+        },
+        {
+          "id": "https://cginterest.com/?p=59080",
+          "author": ".me",
+          "description": "2026年5月14日（現地時間）- – PlayCanvas CEO Will Eastcott氏は、3D Gaussian Splatting編集・共有プラットフォーム「SuperSplat.at」の最新ア […]\nSuperSplatアップデート！使用ソフトウェアのタグ付け、コリジョン生成、GPUヒストグラム機能が追加 first appeared on CGinterest.",
+          "link": "https://cginterest.com/2026/05/21/supersplat%e3%82%a2%e3%83%83%e3%83%97%e3%83%87%e3%83%bc%e3%83%88%ef%bc%81%e4%bd%bf%e7%94%a8%e3%82%bd%e3%83%95%e3%83%88%e3%82%a6%e3%82%a7%e3%82%a2%e3%81%ae%e3%82%bf%e3%82%b0%e4%bb%98%e3%81%91%e3%80%81/",
+          "publishedOn": "2026-05-20T23:16:00.000Z",
+          "wordCount": 30318,
+          "title": "SuperSplatアップデート！使用ソフトウェアのタグ付け、コリジョン生成、GPUヒストグラム機能が追加",
+          "enclosure": {
+            "url": "https://cginterest.com/wp-content/uploads/2026/05/Supersplat-Software-Attribution2.mp4",
+            "length": "129499",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://cginterest.com/wp-content/uploads/2026/05/supersplatupdate2026-0520.webp"
+        },
+        {
+          "id": "https://cginterest.com/?p=59075",
+          "author": ".me",
+          "description": "2026年5月5日 – Niantic Spatialは、3D Gaussian Splatting向けの圧縮フォーマットの最新版となる「SPZ 4」を発表しました。 これまでの経緯 2024年後半にNian […]\nNiantic、3D Gaussian Splatting向け圧縮フォーマットの最新版「SPZ 4」を発表 first appeared on CGinterest.",
+          "link": "https://cginterest.com/2026/05/21/niantic%e3%80%813d-gaussian-splatting%e5%90%91%e3%81%91%e5%9c%a7%e7%b8%ae%e3%83%95%e3%82%a9%e3%83%bc%e3%83%9e%e3%83%83%e3%83%88%e3%81%ae%e6%9c%80%e6%96%b0%e7%89%88%e3%80%8cspz-4%e3%80%8d%e3%82%92/",
+          "publishedOn": "2026-05-20T22:15:00.000Z",
+          "wordCount": 30600,
+          "title": "Niantic、3D Gaussian Splatting向け圧縮フォーマットの最新版「SPZ 4」を発表",
+          "imageUrl": "https://cginterest.com/wp-content/uploads/2026/05/spz4.webp"
+        },
         {
           "id": "https://cginterest.com/?p=59050",
           "author": ".me",
@@ -4207,16 +4212,6 @@
           "wordCount": 30567,
           "title": "【期間限定無料】2026年5月5日までの FAB 無料コンテンツをチェック！",
           "imageUrl": "https://cginterest.com/wp-content/uploads/2026/04/FABfreecontet2026-0505.webp"
-        },
-        {
-          "id": "https://cginterest.com/?p=57919",
-          "author": ".me",
-          "description": "Adobe After Effectsの最新リリース（バージョン 26.2）と最新のベータ版にて追加・強化された新機能の紹介です。 今回のアップデートでは、Premiere Proの「オブジェクトマスク」と同じAIテクノ […]\nAfter Effects 2026年4月アップデート！AIを活用したオブジェクト選択、レイヤーの調整に便利な比例スクラブ機能の追加など！ first appeared on CGinterest.",
-          "link": "https://cginterest.com/2026/04/21/after-effects-2026%e5%b9%b44%e6%9c%88%e3%82%a2%e3%83%83%e3%83%97%e3%83%87%e3%83%bc%e3%83%88%ef%bc%81ai%e3%82%92%e6%b4%bb%e7%94%a8%e3%81%97%e3%81%9f%e3%82%aa%e3%83%96%e3%82%b8%e3%82%a7%e3%82%af/",
-          "publishedOn": "2026-04-21T08:39:05.000Z",
-          "wordCount": 30821,
-          "title": "After Effects 2026年4月アップデート！AIを活用したオブジェクト選択、レイヤーの調整に便利な比例スクラブ機能の追加など！",
-          "imageUrl": "https://cginterest.com/wp-content/uploads/2026/04/ae2026-4.webp"
         }
       ]
     }

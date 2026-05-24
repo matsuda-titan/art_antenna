@@ -2205,6 +2205,21 @@
       "siteUrl": "https://zenn.dev/topics/shader",
       "articles": [
         {
+          "id": "https://zenn.dev/zn_ryg12/articles/shader-note-20260524",
+          "author": "ryuga.",
+          "description": "動的な色収差\n※前回の続きです\n前回話した色収差のシェーダーにひと工夫入れることで動的なエフェクトに改良できます。\n\n 例えば\n一例として、Intensityの値に以下のようにTimeを加工した値をMultiplyすると\n\n”Time > Multiply(1.5) > Fraction > one Minus > Power(2.0)”\n鼓動のようなエフェクト表現ができます\n\n\n\n\n 例えば2\nIntensityにMultiplyするTimeの値を明滅に加工、\nまた別途で縞模様を作ってUVに追加でAdd/Subtractするとグリッチ的表現が作れます\n\n\n\n...",
+          "link": "https://zenn.dev/zn_ryg12/articles/shader-note-20260524",
+          "publishedOn": "2026-05-24T09:34:58.000Z",
+          "wordCount": 873,
+          "title": "Unity ShaderGraph備忘録 part4-動的な色収差",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--mYNJfRsX--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Unity%2520ShaderGraph%25E5%2582%2599%25E5%25BF%2598%25E9%258C%25B2%2520part4-%25E5%258B%2595%25E7%259A%2584%25E3%2581%25AA%25E8%2589%25B2%25E5%258F%258E%25E5%25B7%25AE%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:ryuga.%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jS1lsU1ZRcnpMYW1lRXUzY3lqQW9JdGhFQW8wMGNhaGpLY1JnRkh0a3JYRnJRdjBlSTU9czI1MC1j%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
+            "length": "0",
+            "type": "false"
+          },
+          "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--mYNJfRsX--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Unity%2520ShaderGraph%25E5%2582%2599%25E5%25BF%2598%25E9%258C%25B2%2520part4-%25E5%258B%2595%25E7%259A%2584%25E3%2581%25AA%25E8%2589%25B2%25E5%258F%258E%25E5%25B7%25AE%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:ryuga.%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jS1lsU1ZRcnpMYW1lRXUzY3lqQW9JdGhFQW8wMGNhaGpLY1JnRkh0a3JYRnJRdjBlSTU9czI1MC1j%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"
+        },
+        {
           "id": "https://zenn.dev/zn_ryg12/articles/shader-note-20260510",
           "author": "ryuga.",
           "description": "色収差\nみんな大好き色収差\n端的に言うと画像のRGBがズレる現象の事\n英語だとChromatic Aberrationと呼びます\n元々はカメラレンズの色の歪みで発生していた効果で、\nその効果を模倣してイラストや映像媒体など、広く使われています\nモバイルゲームだと負荷軽減の兼ね合いでぼかしの代わりの奥行き表現に使われる事もしばしば\n\nクリスタにもVer.3.0からフィルタとして実装された\n\nクリスタで色収差を加えた例\n\nイラスト的用途であればクリスタやPhotoshopでいい感もありつつ\nもうちょい細かく調整がしたい・アニメーションする色収差が欲しい\nといった場合はUnityで色収差シ...",
@@ -2307,6 +2322,21 @@
       "feedUrl": "https://zenn.dev/topics/shadergraph/feed",
       "siteUrl": "https://zenn.dev/topics/shadergraph",
       "articles": [
+        {
+          "id": "https://zenn.dev/zn_ryg12/articles/shader-note-20260524",
+          "author": "ryuga.",
+          "description": "動的な色収差\n※前回の続きです\n前回話した色収差のシェーダーにひと工夫入れることで動的なエフェクトに改良できます。\n\n 例えば\n一例として、Intensityの値に以下のようにTimeを加工した値をMultiplyすると\n\n”Time > Multiply(1.5) > Fraction > one Minus > Power(2.0)”\n鼓動のようなエフェクト表現ができます\n\n\n\n\n 例えば2\nIntensityにMultiplyするTimeの値を明滅に加工、\nまた別途で縞模様を作ってUVに追加でAdd/Subtractするとグリッチ的表現が作れます\n\n\n\n...",
+          "link": "https://zenn.dev/zn_ryg12/articles/shader-note-20260524",
+          "publishedOn": "2026-05-24T09:34:58.000Z",
+          "wordCount": 873,
+          "title": "Unity ShaderGraph備忘録 part4-動的な色収差",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--mYNJfRsX--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Unity%2520ShaderGraph%25E5%2582%2599%25E5%25BF%2598%25E9%258C%25B2%2520part4-%25E5%258B%2595%25E7%259A%2584%25E3%2581%25AA%25E8%2589%25B2%25E5%258F%258E%25E5%25B7%25AE%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:ryuga.%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jS1lsU1ZRcnpMYW1lRXUzY3lqQW9JdGhFQW8wMGNhaGpLY1JnRkh0a3JYRnJRdjBlSTU9czI1MC1j%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
+            "length": "0",
+            "type": "false"
+          },
+          "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--mYNJfRsX--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Unity%2520ShaderGraph%25E5%2582%2599%25E5%25BF%2598%25E9%258C%25B2%2520part4-%25E5%258B%2595%25E7%259A%2584%25E3%2581%25AA%25E8%2589%25B2%25E5%258F%258E%25E5%25B7%25AE%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:ryuga.%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jS1lsU1ZRcnpMYW1lRXUzY3lqQW9JdGhFQW8wMGNhaGpLY1JnRkh0a3JYRnJRdjBlSTU9czI1MC1j%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"
+        },
         {
           "id": "https://zenn.dev/zn_ryg12/articles/shader-note-20260510",
           "author": "ryuga.",
@@ -2993,6 +3023,16 @@
       "feedUrl": "https://note.com/hashtag/Houdini/rss",
       "siteUrl": "https://note.com/hashtag/Houdini",
       "articles": [
+        {
+          "id": "https://note.com/npaka/n/n326e7773eff1",
+          "author": null,
+          "description": "映画やドラマ、CMなどで使われる「VFX」について、主なタスク・ツール・専門用語を中心にまとめました。\n\n\n続きをみる",
+          "link": "https://note.com/npaka/n/n326e7773eff1",
+          "publishedOn": "2026-05-24T06:48:45.000Z",
+          "wordCount": 3417,
+          "title": "VFX 入門",
+          "imageUrl": "https://assets.st-note.com/production/uploads/images/279035300/rectangle_large_type_2_783a3bcf41b564dae52233773af31579.png?width=800"
+        },
         {
           "id": "https://note.com/sm_i_o/n/n3a3c4281c1cd",
           "author": null,

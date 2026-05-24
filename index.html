@@ -361,11 +361,154 @@ footer {
             data-action="toggle-accordions"
             title="Click to toggle the day, Ctrl + click to toggle all."
           >
-            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2026-05-24 datetime="2026-05-24T02:14:01.000Z">2026-05-24</time>
-            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2026-05-24 datetime="2026-05-24T02:14:01.000Z"></time>
+            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2026-05-24 datetime="2026-05-24T09:34:58.000Z">2026-05-24</time>
+            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2026-05-24 datetime="2026-05-24T09:34:58.000Z"></time>
           </button>
         </h2>
         <ul class="sources card">
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >Zennの「shader」のフィード</button>
+                  <a class="source-heading__link" href="https://zenn.dev/topics/shader">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://zenn.dev/zn_ryg12/articles/shader-note-20260524"
+                        open
+                      >
+                        <summary class="article-expander__title">Unity ShaderGraph備忘録 part4-動的な色収差</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://zenn.dev/zn_ryg12/articles/shader-note-20260524">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://res.cloudinary.com/zenn/image/upload/s--mYNJfRsX--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Unity%2520ShaderGraph%25E5%2582%2599%25E5%25BF%2598%25E9%258C%25B2%2520part4-%25E5%258B%2595%25E7%259A%2584%25E3%2581%25AA%25E8%2589%25B2%25E5%258F%258E%25E5%25B7%25AE%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:ryuga.%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jS1lsU1ZRcnpMYW1lRXUzY3lqQW9JdGhFQW8wMGNhaGpLY1JnRkh0a3JYRnJRdjBlSTU9czI1MC1j%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a&#x3D;BACAGSGT" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>動的な色収差
+※前回の続きです
+前回話した色収差のシェーダーにひと工夫入れることで動的なエフェクトに改良できます。
+
+ 例えば
+一例として、Intensityの値に以下のようにTimeを加工した値をMultiplyすると
+
+”Time &gt; Multiply(1.5) &gt; Fraction &gt; one Minus &gt; Power(2.0)”
+鼓動のようなエフェクト表現ができます
+
+
+
+
+ 例えば2
+IntensityにMultiplyするTimeの値を明滅に加工、
+また別途で縞模様を作ってUVに追加でAdd/Subtractするとグリッチ的表現が作れます
+
+
+
+...</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;3
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >Zennの「Shader Graph」のフィード</button>
+                  <a class="source-heading__link" href="https://zenn.dev/topics/shadergraph">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://zenn.dev/zn_ryg12/articles/shader-note-20260524"
+                        open
+                      >
+                        <summary class="article-expander__title">Unity ShaderGraph備忘録 part4-動的な色収差</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://zenn.dev/zn_ryg12/articles/shader-note-20260524">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://res.cloudinary.com/zenn/image/upload/s--mYNJfRsX--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Unity%2520ShaderGraph%25E5%2582%2599%25E5%25BF%2598%25E9%258C%25B2%2520part4-%25E5%258B%2595%25E7%259A%2584%25E3%2581%25AA%25E8%2589%25B2%25E5%258F%258E%25E5%25B7%25AE%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:ryuga.%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jS1lsU1ZRcnpMYW1lRXUzY3lqQW9JdGhFQW8wMGNhaGpLY1JnRkh0a3JYRnJRdjBlSTU9czI1MC1j%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a&#x3D;BACAGSGT" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>動的な色収差
+※前回の続きです
+前回話した色収差のシェーダーにひと工夫入れることで動的なエフェクトに改良できます。
+
+ 例えば
+一例として、Intensityの値に以下のようにTimeを加工した値をMultiplyすると
+
+”Time &gt; Multiply(1.5) &gt; Fraction &gt; one Minus &gt; Power(2.0)”
+鼓動のようなエフェクト表現ができます
+
+
+
+
+ 例えば2
+IntensityにMultiplyするTimeの値を明滅に加工、
+また別途で縞模様を作ってUVに追加でAdd/Subtractするとグリッチ的表現が作れます
+
+
+
+...</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;3
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >#Houdiniタグ</button>
+                  <a class="source-heading__link" href="https://note.com/hashtag/Houdini">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://note.com/npaka/n/n326e7773eff1"
+                        open
+                      >
+                        <summary class="article-expander__title">VFX 入門</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://note.com/npaka/n/n326e7773eff1">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://assets.st-note.com/production/uploads/images/279035300/rectangle_large_type_2_783a3bcf41b564dae52233773af31579.png?width&#x3D;800" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>映画やドラマ、CMなどで使われる「VFX」について、主なタスク・ツール・専門用語を中心にまとめました。
+
+
+続きをみる</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;11
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
             <li class="card__section">
               <section class="js-toggle-accordions-scope">
                 <h3 class="source-heading">
@@ -10814,8 +10957,8 @@ The post Blenderでエッジ間距離を一定に保つアウトセットが可�
       </section>
 
     <footer>
-      <a class="footer-link" href="https://github.com/matsuda-titan/art_antenna/actions/runs/26353981577">
-        <time id="build-timestamp" datetime="2026-05-24T06:27:10.155Z">2026-05-24T06:27:10.155Z</time>
+      <a class="footer-link" href="https://github.com/matsuda-titan/art_antenna/actions/runs/26357952068">
+        <time id="build-timestamp" datetime="2026-05-24T09:47:01.840Z">2026-05-24T09:47:01.840Z</time>
       </a>
       <a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.15.1</a>
     </footer>

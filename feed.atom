@@ -2,10 +2,81 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-05-24T06:27:10.182Z</updated>
+    <updated>2026-05-24T09:47:01.874Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Unity ShaderGraph備忘録 part4-動的な色収差]]></title>
+        <id>https://zenn.dev/zn_ryg12/articles/shader-note-20260524</id>
+        <link href="https://zenn.dev/zn_ryg12/articles/shader-note-20260524"/>
+        <updated>2026-05-24T09:34:58.000Z</updated>
+        <summary type="html"><![CDATA[動的な色収差
+※前回の続きです
+前回話した色収差のシェーダーにひと工夫入れることで動的なエフェクトに改良できます。
+
+ 例えば
+一例として、Intensityの値に以下のようにTimeを加工した値をMultiplyすると
+
+”Time > Multiply(1.5) > Fraction > one Minus > Power(2.0)”
+鼓動のようなエフェクト表現ができます
+
+
+
+
+ 例えば2
+IntensityにMultiplyするTimeの値を明滅に加工、
+また別途で縞模様を作ってUVに追加でAdd/Subtractするとグリッチ的表現が作れます
+
+
+
+...]]></summary>
+        <author>
+            <name>ryuga.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unity ShaderGraph備忘録 part4-動的な色収差]]></title>
+        <id>https://zenn.dev/zn_ryg12/articles/shader-note-20260524</id>
+        <link href="https://zenn.dev/zn_ryg12/articles/shader-note-20260524"/>
+        <updated>2026-05-24T09:34:58.000Z</updated>
+        <summary type="html"><![CDATA[動的な色収差
+※前回の続きです
+前回話した色収差のシェーダーにひと工夫入れることで動的なエフェクトに改良できます。
+
+ 例えば
+一例として、Intensityの値に以下のようにTimeを加工した値をMultiplyすると
+
+”Time > Multiply(1.5) > Fraction > one Minus > Power(2.0)”
+鼓動のようなエフェクト表現ができます
+
+
+
+
+ 例えば2
+IntensityにMultiplyするTimeの値を明滅に加工、
+また別途で縞模様を作ってUVに追加でAdd/Subtractするとグリッチ的表現が作れます
+
+
+
+...]]></summary>
+        <author>
+            <name>ryuga.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[VFX 入門]]></title>
+        <id>https://note.com/npaka/n/n326e7773eff1</id>
+        <link href="https://note.com/npaka/n/n326e7773eff1"/>
+        <updated>2026-05-24T06:48:45.000Z</updated>
+        <summary type="html"><![CDATA[映画やドラマ、CMなどで使われる「VFX」について、主なタスク・ツール・専門用語を中心にまとめました。
+
+
+続きをみる]]></summary>
+        <author>
+            <name>#Houdiniタグ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【無料アドオン紹介】Clock Face Generator – 時計をカスタム作成]]></title>
         <id>https://cgbox.jp/?p=65337</id>

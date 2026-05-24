@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-05-23T12:58:42.429Z</updated>
+    <updated>2026-05-24T02:10:04.518Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[AutoCADのデータをHoudiniで読める形式に変換する　その2-Houdini準備編]]></title>
+        <id>https://note.com/sm_i_o/n/n3a3c4281c1cd</id>
+        <link href="https://note.com/sm_i_o/n/n3a3c4281c1cd"/>
+        <updated>2026-05-23T13:04:59.000Z</updated>
+        <summary type="html"><![CDATA[Houdini側への架け橋（次に行うこと）
+これでComfyUI側の準備はすべて整いました。(CADで描いた図面を手描き風に変換する　その１-ComfyUI編)
+以降はComfyUIを起動したまま（バックグラウンドでサーバーとして待機させた状態）にして、作業の舞台をHoudiniへと移します。
+続きをみる]]></summary>
+        <author>
+            <name>#Houdiniタグ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ZOZOが高精度物理シミュレーション「ppf-contact-solver」をオープンソース公開。Blenderから大規模クロスシミュレーション可能に]]></title>
         <id>https://modelinghappy.com/?p=68744</id>
@@ -4084,101 +4097,6 @@ The post Blenderでエッジ間距離を一定に保つアウトセットが可�
         <summary type="html"><![CDATA[3D Revolutionによる、少数のフィラメント（3〜5色）だけでフルカラー表現を実現するように調整しFDMプリンタで再現可能なデータに変換するウェブツール「Primed 3D」のご紹介！]]></summary>
         <author>
             <name>Ymt3D -3dnchu-</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Blender初心者向けキーを押すとショートカットを一発確認！作業効率が上がる無料Webツール「Shortcut Cheat Sheet」]]></title>
-        <id>https://modelinghappy.com/?p=68236</id>
-        <link href="https://modelinghappy.com/archives/68236"/>
-        <updated>2026-04-24T13:41:15.000Z</updated>
-        <summary type="html"><![CDATA[Blender Shortcut Cheat Sheet Blender Shortcut Cheat Sheetは、Blenderの全ショートカットを視覚的に確認して効率的に作業できるようになる無料のwebツールです。
-The post Blender初心者向けキーを押すとショートカットを一発確認！作業効率が上がる無料Webツール「Shortcut Cheat Sheet」 first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
-        <author>
-            <name>modelinghappy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【サイコム】アナイスカンパニーの3DCGチームが選んだ「Premium Line」シリーズの魅力とは？｜Boost with Sycom #02 - スペシャルコンテンツ]]></title>
-        <id>https://cgworld.jp/special-feature/202604-sycom-anicecompany-02.html</id>
-        <link href="https://cgworld.jp/special-feature/202604-sycom-anicecompany-02.html"/>
-        <updated>2026-04-24T10:15:28.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Maxon One アップデートをリリース―新たなコンポジットツールAutograph、Cinema 4DのUnreal連携強化、ZBrushのSubstance連携ほか - ニュース]]></title>
-        <id>https://cgworld.jp/flashnews/2604-03-maxonone.html</id>
-        <link href="https://cgworld.jp/flashnews/2604-03-maxonone.html"/>
-        <updated>2026-04-24T08:43:00.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Marvelous Designer 使用、ハンドバッグの作り方]]></title>
-        <id>https://3dtotal.jp/?p=55360</id>
-        <link href="https://3dtotal.jp/tutorials/55360/"/>
-        <updated>2026-04-24T07:52:54.000Z</updated>
-        <summary type="html"><![CDATA[★Marvelous Designer: ハンドバッグの作り方（16分14秒） この動画では、Marvelous Designer を使用したハンドバッグの作り方を解説していきます。型紙の知識がなくても大丈夫! 手順を追 […]
-The post Marvelous Designer 使用、ハンドバッグの作り方 first appeared on 3dtotal 日本語オフィシャルサイト.]]></summary>
-        <author>
-            <name>3dtotal管理人T</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[実装編：フレネル反射について]]></title>
-        <id>https://qiita.com/reina-csharp/items/33a8b1cf50e9bb616d6d</id>
-        <link href="https://qiita.com/reina-csharp/items/33a8b1cf50e9bb616d6d"/>
-        <updated>2026-04-24T07:39:48.000Z</updated>
-        <summary type="html"><![CDATA[はじめに
-今回の記事は、本物のような海面の動きをUnityで表現するためにShaderGraphを組んでるときに思った疑問や気づきをつづったものです。かなり初歩的な内容を取り扱っていますが、あらかじめご了承ください。
-
-へえ、Fresnel Effectノードってのがある...]]></summary>
-        <author>
-            <name>Shaderタグが付けられた新着記事 - Qiita</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Substance 3D Painter 12.1 Beta | ベイク法線方向を制御できるSkew Baking！Auto-Rebaking！OpenPBR対応などの注目新機能を搭載したベータ版がリリース！]]></title>
-        <id>https://3dnchu.com/?p=1064340</id>
-        <link href="https://3dnchu.com/archives/substance-3d-painter-12-1-beta/"/>
-        <updated>2026-04-24T06:10:57.000Z</updated>
-        <summary type="html"><![CDATA[Adobeのテクスチャリング用3DペイントソフトウェアAdobe Substance 3D Painterの12.1オープンベータ版「Substance Painter 2026 Skew & OpenPBR beta」が公開されています！]]></summary>
-        <author>
-            <name>Ymt3D -3dnchu-</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[#08【Nuke】機械学習やディープコンポジットでラクラク合成！ - 連載]]></title>
-        <id>https://cgworld.jp/regular/202604-cgw329-tr08.html</id>
-        <link href="https://cgworld.jp/regular/202604-cgw329-tr08.html"/>
-        <updated>2026-04-24T06:10:00.000Z</updated>
-        <summary type="html"><![CDATA[Nukeの機械学習モデルと、ディープコンポジットについて紹介します。2025年の7月にCattery（機械学習モデルの無料ライブラリ）にアップデートされたViTMatteとDepthProの使い方と、ピクセルごとに奥行き方向の色と深度情報をもったDeepイメージを用いたディープコンポジットの基本について解説していきます。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【無料アドオン】FST ForgePolish – 選択メッシュをスムージング]]></title>
-        <id>https://cgbox.jp/?p=65271</id>
-        <link href="https://cgbox.jp/2026/04/24/news-addon-fst-forgepolish/"/>
-        <updated>2026-04-24T03:03:53.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは！ 今回はアドオンの「FST ForgePolish」を紹介します。 こちらのリンクがアドオンの商品ページになります。 FST ForgePolish 「FST ForgePolish」は、ハードサーフェス向け […]]]></summary>
-        <author>
-            <name>kasahara</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bifrost for Maya Rigging Challenge～一歩先のリグ・アニメーションに挑戦～ 第10回：重心の可視化を行うサポートユニット]]></title>
-        <id>https://area.autodesk.jp/column/tutorial/bifrost-rigging-challenge/10-cog-visualization-support/</id>
-        <link href="https://area.autodesk.jp/column/tutorial/bifrost-rigging-challenge/10-cog-visualization-support/"/>
-        <updated>2026-04-24T01:00:00.000Z</updated>
-        <summary type="html"><![CDATA[本コラムではMayaのプラグイン"Bifrost"を使って、リグ、アニメーション、物理シミュレーションなどの観点から作例を紹介していきます。今回はちょっと趣向を変えて、キャラクターなどの姿勢制御は一切行わず、サポートに特化した機能をリグに加えてみたいと思います。Bifrostのデバッグ描画機能を主に使っていきます。・・・]]></summary>
-        <author>
-            <name>AREA JAPAN | Autodesk</name>
         </author>
     </entry>
 </feed>

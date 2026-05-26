@@ -2,10 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-05-25T14:32:42.929Z</updated>
+    <updated>2026-05-26T02:08:32.998Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【Houdini】Copernicsの基本とノードの使い方備忘録]]></title>
+        <id>https://zenn.dev/yuzutarou/articles/98a2f3c79d3faa</id>
+        <link href="https://zenn.dev/yuzutarou/articles/98a2f3c79d3faa"/>
+        <updated>2026-05-25T23:20:43.000Z</updated>
+        <summary type="html"><![CDATA[調べたこと
+以下の動画をメインとしてCopernicsの基本とノードの使い方をメモとしてまとめる。
+動画は5時間あって内容的にもかなり充実している。
+https://www.youtube.com/watch?v=ZPL215vfNwg&t=2929s
+動画でも伝えられていますが、ノードすべてを網羅する必要もなく必要になったタイミングで調べていきます。まだまとめ終わっていないので続きはこのページに追記予定です🙇‍♂️
+サンプルhipにいくつか処理を入れているのでよかったら見てください。
+study_cop.hiplc
+https://github.com/yuzutarou-...]]></summary>
+        <author>
+            <name>ゆずたろう</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[REAL FLARES v1.0 | 柔軟にカスタマイズ可能なレンズフレアエフェクトを追加可能なUnreal Engine 5プラグイン！Fabにてリリース！]]></title>
+        <id>https://3dnchu.com/?p=1065283</id>
+        <link href="https://3dnchu.com/archives/real-flares-v1-0-ue5/"/>
+        <updated>2026-05-25T15:26:40.000Z</updated>
+        <summary type="html"><![CDATA[TXC STOCKによる、Unreal Engine 5向けのレンズフレアエフェクトツールスイートプラグイン「REAL FLARES v1.0」がFab上でリリースされています！]]></summary>
+        <author>
+            <name>Ymt3D -3dnchu-</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【mocopi】mocopiを使った複数キャラクターのモーキャプ検証！]]></title>
+        <id>https://3d.crdg.jp/tech/?p=6845</id>
+        <link href="https://3d.crdg.jp/tech/archives/6845"/>
+        <updated>2026-05-25T15:00:55.000Z</updated>
+        <summary type="html"><![CDATA[おはこんばんちわ。 勉強のため4時起床を始めたのに、子供たちまで4時に起きはじめてSwitchやってる。 『なにもう結局あんまり変わらんじゃん！』…な […]
+続きを読む
+投稿 【mocopi】mocopiを使った複数キャラクターのモーキャプ検証！ は TECH-COYOTE｜C&R Creative Studios に最初に表示されました。]]></summary>
+        <author>
+            <name>yamamoto tomohito</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[募集テーマは《プロダクト》。「CGWORLD GALLERY」作品応募受付は6/21（日）まで - ニュース]]></title>
         <id>https://cgworld.jp/flashnews/cgwg-v031.html</id>
@@ -4125,99 +4164,6 @@ The post エッジを境に内側だけ滑らかに！ハードサーフェス�
 す...]]></summary>
         <author>
             <name>s_hashida</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Unity ShaderGraph備忘録 part2-Timeと波形]]></title>
-        <id>https://zenn.dev/zn_ryg12/articles/shader-note-20260425</id>
-        <link href="https://zenn.dev/zn_ryg12/articles/shader-note-20260425"/>
-        <updated>2026-04-26T08:40:30.000Z</updated>
-        <summary type="html"><![CDATA[Timeノード
-
-アニメーションするシェーダーを作る時に使うノード
-
-Time
-シーン開始時からの経過時間を出力する
-Sine Time
-弧を描くように-1～1の値を往復する。2π（≒6.28秒）で一周。開始地点は0
-Cosine Time
-Sine Timeと同じ動きをする。こちらは開始地点が1
-Delta Time
-1つ前のフレームからの経過時間を出力する
-Smooth Delta
-Delta Timeを複数フレーム参照して、その平均値を出力する
-
-
-特にTimeは頻繁に使う
-
-Timeで色相を変えてる図
-
-Timeを波形に加工することで波のうねりやライトの明滅など多彩な表現がで...]]></summary>
-        <author>
-            <name>ryuga.</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Unity ShaderGraph備忘録 part2-Timeと波形]]></title>
-        <id>https://zenn.dev/zn_ryg12/articles/shader-note-20260425</id>
-        <link href="https://zenn.dev/zn_ryg12/articles/shader-note-20260425"/>
-        <updated>2026-04-26T08:40:30.000Z</updated>
-        <summary type="html"><![CDATA[Timeノード
-
-アニメーションするシェーダーを作る時に使うノード
-
-Time
-シーン開始時からの経過時間を出力する
-Sine Time
-弧を描くように-1～1の値を往復する。2π（≒6.28秒）で一周。開始地点は0
-Cosine Time
-Sine Timeと同じ動きをする。こちらは開始地点が1
-Delta Time
-1つ前のフレームからの経過時間を出力する
-Smooth Delta
-Delta Timeを複数フレーム参照して、その平均値を出力する
-
-
-特にTimeは頻繁に使う
-
-Timeで色相を変えてる図
-
-Timeを波形に加工することで波のうねりやライトの明滅など多彩な表現がで...]]></summary>
-        <author>
-            <name>ryuga.</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HoudiniでGISを扱う-GISから下北沢の街を再現してみた(データDL編)]]></title>
-        <id>https://note.com/sm_i_o/n/nb597c8fcc79a</id>
-        <link href="https://note.com/sm_i_o/n/nb597c8fcc79a"/>
-        <updated>2026-04-26T04:45:30.000Z</updated>
-        <summary type="html"><![CDATA[まずは、国土交通省が主導している PLATEAUのWEBビュアー"PLATEAU VIEW" にアクセスして、地形の概要を把握しましょう
- PLATEAU VIEW 5.0PLATEAUは、国土交通省が主導する、日本全国の3D都市モデルの整備・活用・オープンデータ化プロジェクトです。PLATEplateauview.mlit.go.jp 
-続きをみる]]></summary>
-        <author>
-            <name>#Houdiniタグ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[UE5でリアルな草・葉の植物表現を学べる！マテリアル特化講座「Unreal Shader: Vegetation」がWingfoxで販売開始！]]></title>
-        <id>https://modelinghappy.com/?p=68277</id>
-        <link href="https://modelinghappy.com/archives/68277"/>
-        <updated>2026-04-26T03:10:40.000Z</updated>
-        <summary type="html"><![CDATA[Unreal Shader : Vegetation 世界中のチュートリアル動画を販売しているWingfoxのサイトで、リアルな植物表現を作りたい人向けの講座「Unreal Shader: Vegetation」が販売開
-The post UE5でリアルな草・葉の植物表現を学べる！マテリアル特化講座「Unreal Shader: Vegetation」がWingfoxで販売開始！ first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
-        <author>
-            <name>modelinghappy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【アドオン紹介】Batch Import Images to Brushes – ブラシ画像を一括インポート]]></title>
-        <id>https://cgbox.jp/?p=65283</id>
-        <link href="https://cgbox.jp/2026/04/26/news-addon-batch-import-images-to-brushes/"/>
-        <updated>2026-04-26T03:03:05.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは！ 今回はアドオンの「Batch Import Images to Brushes」を紹介します。 こちらのリンクがアドオンの商品ページになります。 Batch Import Images to Brushes […]]]></summary>
-        <author>
-            <name>kasahara</name>
         </author>
     </entry>
 </feed>

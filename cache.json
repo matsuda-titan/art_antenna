@@ -707,6 +707,16 @@
       "siteUrl": "https://cgworld.jp/",
       "articles": [
         {
+          "id": "https://cgworld.jp/article/202605-cgw333-nioh3-a.html",
+          "author": null,
+          "description": "ゲーム『仁王3』のメイキングを紹介",
+          "link": "https://cgworld.jp/article/202605-cgw333-nioh3-a.html",
+          "publishedOn": "2026-05-26T07:46:00.000Z",
+          "wordCount": 829,
+          "title": "シリーズ初のオープンフィールドで描く妖怪蠢く世界『仁王3』（1） - 特集",
+          "imageUrl": "https://cgworld.jp/article/assets_c/2026/05/d9210fe853b165217f5760b784bda13f69dd4f0c-thumb-1000x563-83029.jpg"
+        },
+        {
           "id": "https://cgworld.jp/flashnews/0630-plusone-kinoshita.html",
           "author": null,
           "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
@@ -1425,26 +1435,6 @@
           "wordCount": 776,
           "title": "CGWORLD vol.334（2026年6月号）「WEB ✕ 3DCG」特集号を先行告知！ - ニュース",
           "imageUrl": "https://cgworld.jp/flashnews/assets_c/2026/04/web_334_infobanner_before-thumb-1000x563-82725.jpg"
-        },
-        {
-          "id": "https://cgworld.jp/article/202604-gtc.html",
-          "author": null,
-          "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
-          "link": "https://cgworld.jp/article/202604-gtc.html",
-          "publishedOn": "2026-04-27T01:09:00.000Z",
-          "wordCount": 761,
-          "title": "コンテンツ制作ワークフローに浸透するAIと&quot;世界シミュレータ&quot;となる動画生成AIを紹介！ GTC 2026レポート - 特集",
-          "imageUrl": "https://cgworld.jp/article/assets_c/2026/04/image1-thumb-1000x473-82639.jpg"
-        },
-        {
-          "id": "https://cgworld.jp/flashnews/01-202604-Houdini-dissolve.html",
-          "author": null,
-          "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
-          "link": "https://cgworld.jp/flashnews/01-202604-Houdini-dissolve.html",
-          "publishedOn": "2026-04-26T22:52:34.000Z",
-          "wordCount": 799,
-          "title": "Houdiniによるジオメトリ分解・消失表現のチュートリアル動画公開　VOPと空間ノイズで緻密に制御するディゾルブエフェクト - ニュース",
-          "imageUrl": "https://cgworld.jp/flashnews/assets_c/2026/04/Houdini_dissolve-01-thumb-1920x1080-82711.jpg"
         }
       ]
     },
@@ -1501,23 +1491,7 @@
       "title": "スタジオブロス TECH BLOG",
       "feedUrl": "https://tech.bros.studio/rss",
       "siteUrl": "https://tech.bros.studio/",
-      "articles": [
-        {
-          "id": "hatenablog://entry/17179246901354152316",
-          "author": null,
-          "description": "こんにちは！Studio BROS 梶川です。 今回は、AWSのEC2上の仮想サーバーにリモートデスクトップ（VDI）で接続をしてUnreal Engineを動作させる、という紹介記事です。 メモリをはじめ様々なPCパーツの価格が高騰している中で、PC購入タイミングを逃してしまった、予算オーバーで買うことが出来ないという状況に陥っている方々もいらっしゃると思います。そんな状況でも、急ぎUnreal Engineを使用する必要が出てきた、触るだけ触ってみたい！という方に向け、従量課金制であるクラウド上にWindows環境を構築し、手元にある低スペックなノートPC等からでも快適にUnreal En…",
-          "link": "https://tech.bros.studio/entry/2026/04/27/090000",
-          "publishedOn": "2026-04-27T00:00:00.000Z",
-          "wordCount": 724,
-          "title": "AWS EC2インスタンスを使用したVDIでのUnreal Engine制作",
-          "enclosure": {
-            "url": "https://cdn.image.st-hatena.com/image/scale/c33d23f0ec7565280514d36f13512453926294be/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fr%2Fr-kajikawa%2F20260213%2F20260213204302.png",
-            "type": "image/png",
-            "length": "0"
-          },
-          "imageUrl": "https://cdn.image.st-hatena.com/image/scale/c33d23f0ec7565280514d36f13512453926294be/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fr%2Fr-kajikawa%2F20260213%2F20260213204302.png"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "SPARK CREATIVE Tech Blog",
@@ -1530,6 +1504,16 @@
       "feedUrl": "https://modelinghappy.com/feed",
       "siteUrl": "https://modelinghappy.com",
       "articles": [
+        {
+          "id": "https://modelinghappy.com/?p=68777",
+          "author": "modelinghappy",
+          "description": "Industrial Props Equipment Mega Bundle Unity Assets Storeのサイトで、21個のバンドルで合計600種類以上のモデルが入って定価361ドルが3.62ドルと99%オフの\nThe post 工業用アセット600種類以上収録！定価361ドル→3.62ドルの超特価セール開催中 first appeared on 3DCG最新情報サイト MODELING HAPPY.",
+          "link": "https://modelinghappy.com/archives/68777",
+          "publishedOn": "2026-05-26T13:56:06.000Z",
+          "wordCount": 3091,
+          "title": "工業用アセット600種類以上収録！定価361ドル→3.62ドルの超特価セール開催中",
+          "imageUrl": "https://modelinghappy.com/wp-content/uploads/2026/05/20260526_assets_00.jpg"
+        },
         {
           "id": "https://modelinghappy.com/?p=68767",
           "author": "modelinghappy",
@@ -1969,16 +1953,6 @@
           "wordCount": 3084,
           "title": "Substance Painterのマテリアルを一括レンダリング！アイキャッチを自動生成できる「Substance Painter Batch Rendering Plugin」",
           "imageUrl": "https://modelinghappy.com/wp-content/uploads/2026/04/20260427_Substance_Painter_Batch_Rendering_Plugin_02.jpg"
-        },
-        {
-          "id": "https://modelinghappy.com/?p=68296",
-          "author": "modelinghappy",
-          "description": "FST ForgePolish FST ForgePolishは、Blenderでハードサーフェスモデルの表面を滑らかに整えるためのポリッシュ系アドオンです。 リトポロジー後などに出来る面のガタつきや歪みを修正し、ベベル\nThe post エッジを境に内側だけ滑らかに！ハードサーフェスを綺麗に仕上げるBlender無料アドオン「FST ForgePolish」 first appeared on 3DCG最新情報サイト MODELING HAPPY.",
-          "link": "https://modelinghappy.com/archives/68296",
-          "publishedOn": "2026-04-26T23:44:44.000Z",
-          "wordCount": 3037,
-          "title": "エッジを境に内側だけ滑らかに！ハードサーフェスを綺麗に仕上げるBlender無料アドオン「FST ForgePolish」",
-          "imageUrl": "https://modelinghappy.com/wp-content/uploads/2026/04/20260427_fst_forgepolish_01.jpg"
         }
       ]
     },
@@ -1987,6 +1961,26 @@
       "feedUrl": "https://3dtotal.jp/feed/",
       "siteUrl": "https://3dtotal.jp",
       "articles": [
+        {
+          "id": "https://3dtotal.jp/?p=55609",
+          "author": "3dtotal管理人T",
+          "description": "「自分に合ったリズムを見つければ、ポートフォリオの更新はぐっと楽になります。それは忍耐と献身の積み重ねです」 Q. 自己紹介をお願いします こんにちは、Giovani Kososki です。ブラジルを拠点に、フリーランス […]\nThe post 【インタビュー】シンプルに見えるものが最も手強い：3Dアーティスト Giovani Kososki 氏 first appeared on 3dtotal 日本語オフィシャルサイト.",
+          "link": "https://3dtotal.jp/features/55609/",
+          "publishedOn": "2026-05-26T09:27:14.000Z",
+          "wordCount": 589,
+          "title": "【インタビュー】シンプルに見えるものが最も手強い：3Dアーティスト Giovani Kososki 氏",
+          "imageUrl": "https://3dtotal.jp/wp-content/uploads/2026/05/i148_t.jpg"
+        },
+        {
+          "id": "https://3dtotal.jp/?p=55574",
+          "author": "3dtotal管理人T",
+          "description": "★RESIDENT EVIL – Zach Cregger on Survival Horror（1分7秒） ★RESIDENT EVIL – Official Teaser Trailer（1分54秒） ★映画『バイオ […]\nThe post 悪夢の新時代が幕を開ける。映画『バイオハザード』のトレーラー（英語／日本語） first appeared on 3dtotal 日本語オフィシャルサイト.",
+          "link": "https://3dtotal.jp/news/55574/",
+          "publishedOn": "2026-05-26T07:19:39.000Z",
+          "wordCount": 495,
+          "title": "悪夢の新時代が幕を開ける。映画『バイオハザード』のトレーラー（英語／日本語）",
+          "imageUrl": "https://3dtotal.jp/wp-content/uploads/2026/05/biomovie_ttrailer.jpg"
+        },
         {
           "id": "https://3dtotal.jp/?p=55568",
           "author": "3dtotal管理人T",
@@ -2570,21 +2564,6 @@
             "type": "false"
           },
           "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--I3EcP4uk--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%2595%25E3%2582%25A9%25E3%2583%2588%25E3%2582%25B0%25E3%2583%25A9%25E3%2583%25A1%25E3%2583%2588%25E3%2583%25AA%25E6%2595%25B0%25E5%25AD%25A6%25EF%25BD%259C14%25EF%25BC%259ALevenberg%25E2%2580%2593Marquardt%25E6%25B3%2595%25E3%2581%25A8%25E3%2581%25AF%25E4%25BD%2595%25E3%2581%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:s_hashida%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2JmNmU5NjMzMTEuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"
-        },
-        {
-          "id": "https://zenn.dev/s_hashida/articles/8cabb90223457a",
-          "author": "s_hashida",
-          "description": "はじめに\n前回は、Bundle Adjustmentについて説明しました。\nその中で、次の式が出てきました。\n\n\\min_{R,t,\\mathbf{P}} \\sum_{i,j} \\| \\mathbf{p}_{ij} - \\hat{\\mathbf{p}}_{ij} \\|^2\n\nこれは、\n\n観測と予測のズレを最小にする問題\n\nでした。\n\nここで疑問です。\n\nこの最小化はどうやって解くのか？\n\n\n\n 書き換えてみる\nまず、各ズレを\n\n\\mathbf{r}_{ij} = \\mathbf{p}_{ij} - \\hat{\\mathbf{p}}_{ij}\n\nとおきます。\nこのようなズレは、\n\nす...",
-          "link": "https://zenn.dev/s_hashida/articles/8cabb90223457a",
-          "publishedOn": "2026-04-26T21:18:05.000Z",
-          "wordCount": 773,
-          "title": "フォトグラメトリ数学｜13：非線形最適化とは何か（Bundle Adjustmentの解き方）",
-          "enclosure": {
-            "url": "https://res.cloudinary.com/zenn/image/upload/s--rBzkwBZp--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%2595%25E3%2582%25A9%25E3%2583%2588%25E3%2582%25B0%25E3%2583%25A9%25E3%2583%25A1%25E3%2583%2588%25E3%2583%25AA%25E6%2595%25B0%25E5%25AD%25A6%25EF%25BD%259C13%25EF%25BC%259A%25E9%259D%259E%25E7%25B7%259A%25E5%25BD%25A2%25E6%259C%2580%25E9%2581%25A9%25E5%258C%2596%25E3%2581%25A8%25E3%2581%25AF%25E4%25BD%2595%25E3%2581%258B%25EF%25BC%2588Bundle%2520Adjustment%25E3%2581%25AE%25E8%25A7%25A3%25E3%2581%258D%25E6%2596%25B9%25EF%25BC%2589%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:s_hashida%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2JmNmU5NjMzMTEuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
-            "length": "0",
-            "type": "false"
-          },
-          "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--rBzkwBZp--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%2595%25E3%2582%25A9%25E3%2583%2588%25E3%2582%25B0%25E3%2583%25A9%25E3%2583%25A1%25E3%2583%2588%25E3%2583%25AA%25E6%2595%25B0%25E5%25AD%25A6%25EF%25BD%259C13%25EF%25BC%259A%25E9%259D%259E%25E7%25B7%259A%25E5%25BD%25A2%25E6%259C%2580%25E9%2581%25A9%25E5%258C%2596%25E3%2581%25A8%25E3%2581%25AF%25E4%25BD%2595%25E3%2581%258B%25EF%25BC%2588Bundle%2520Adjustment%25E3%2581%25AE%25E8%25A7%25A3%25E3%2581%258D%25E6%2596%25B9%25EF%25BC%2589%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:s_hashida%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2JmNmU5NjMzMTEuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"
         }
       ]
     },
@@ -3181,6 +3160,16 @@
       "siteUrl": "https://note.com/hashtag/SubstanceDesigner",
       "articles": [
         {
+          "id": "https://note.com/manji_9278274/n/n6f7b94f4d0e5",
+          "author": null,
+          "description": "みなさんはじめまして。まんじ　と申します。\n細かい挨拶は一旦抜きにしてまずはこちらを見ていただきましょう\nUE5での高解像度スクリーンショット\n続きをみる",
+          "link": "https://note.com/manji_9278274/n/n6f7b94f4d0e5",
+          "publishedOn": "2026-05-26T11:05:49.000Z",
+          "wordCount": 2446,
+          "title": "【初投稿・無料配布】Substance Designerで作る！畳マテリアル",
+          "imageUrl": "https://assets.st-note.com/production/uploads/images/279743256/rectangle_large_type_2_9b48c1459993c0f9a3ee05288cbf0e25.png?width=800"
+        },
+        {
           "id": "https://note.com/efeozi/n/n71c82466484d",
           "author": null,
           "description": "🔶作成データ\nSubstance Designer 2026で作成\n       Study_Node_ブラーとワープについて.sbs 101 KB  ファイルダウンロードについて      ダウンロード      \n続きをみる",
@@ -3248,6 +3237,16 @@
       "siteUrl": "https://note.com/hashtag/substancepainter",
       "articles": [
         {
+          "id": "https://note.com/manji_9278274/n/n6f7b94f4d0e5",
+          "author": null,
+          "description": "みなさんはじめまして。まんじ　と申します。\n細かい挨拶は一旦抜きにしてまずはこちらを見ていただきましょう\nUE5での高解像度スクリーンショット\n続きをみる",
+          "link": "https://note.com/manji_9278274/n/n6f7b94f4d0e5",
+          "publishedOn": "2026-05-26T11:05:49.000Z",
+          "wordCount": 2446,
+          "title": "【初投稿・無料配布】Substance Designerで作る！畳マテリアル",
+          "imageUrl": "https://assets.st-note.com/production/uploads/images/279743256/rectangle_large_type_2_9b48c1459993c0f9a3ee05288cbf0e25.png?width=800"
+        },
+        {
           "id": "https://note.com/dokuroya_96/n/n26d75415c9a2",
           "author": null,
           "description": "■はじめに\n続きをみる",
@@ -3296,16 +3295,6 @@
           "wordCount": 2800,
           "title": "【完全ガイド】iPadで本格3Dペイント！新アプリ「Wafer」実践チュートリアル",
           "imageUrl": "https://assets.st-note.com/production/uploads/images/272428402/rectangle_large_type_2_c0cc58278e3f830516d72d767496b0aa.jpeg?width=800"
-        },
-        {
-          "id": "https://note.com/maxonjapan/n/n7c25dc564bda",
-          "author": null,
-          "description": "Cinema 4Dをこれから始めたいけれど、日本語で体系的に学べる教材が少ないと感じたことはありませんか？\nこのたび、Cineversityで公開されている公式チュートリアルシリーズが、\n日本語字幕付きでMaxon JapanのYouTubeチャンネルに公開されました。\n続きをみる",
-          "link": "https://note.com/maxonjapan/n/n7c25dc564bda",
-          "publishedOn": "2026-04-27T00:34:51.000Z",
-          "wordCount": 2844,
-          "title": "Cinema 4Dを日本語で学べる公式チュートリアルが公開されました（全24本・6時間以上）",
-          "imageUrl": "https://assets.st-note.com/production/uploads/images/269997116/rectangle_large_type_2_0124e0c59a71ea649e8e3c61c2d64c16.jpeg?width=800"
         }
       ]
     },

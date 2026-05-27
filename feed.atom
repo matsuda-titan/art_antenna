@@ -2,10 +2,115 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-05-26T14:40:35.683Z</updated>
+    <updated>2026-05-27T02:29:21.121Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[「AssetHub」AIが1枚キャラクター画像を自動分解。髪・服・装備を個別3D化出来るアーリーアクセス版公開]]></title>
+        <id>https://modelinghappy.com/?p=68795</id>
+        <link href="https://modelinghappy.com/archives/68795"/>
+        <updated>2026-05-27T02:10:48.000Z</updated>
+        <summary type="html"><![CDATA[AssetHub 1枚のキャラクター画像から、髪・服・顔・装備などをAIが自動で分割し、モジュール式の3Dキャラクターとして生成出来る「AssetHub Studio」のアーリーアクセス版が公開されました。 １枚画像を読
+The post 「AssetHub」AIが1枚キャラクター画像を自動分解。髪・服・装備を個別3D化出来るアーリーアクセス版公開 first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
+        <author>
+            <name>modelinghappy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Blender初心者が「絶対無理」から「できた」3Dアバターの話]]></title>
+        <id>https://zenn.dev/nonejp/articles/a6c49c72eacfb6</id>
+        <link href="https://zenn.dev/nonejp/articles/a6c49c72eacfb6"/>
+        <updated>2026-05-27T01:08:05.000Z</updated>
+        <summary type="html"><![CDATA[はじめに ──
+最近、こんな言葉をよく目にするようになりました。
+
+「テキストを入力するだけで3Dキャラクターが作れる」
+「AIで誰でもVTuberデビューできる」
+
+正直、最初に聞いたとき、心が躍りました。私はプログラミングも3Dソフトも未経験。でも「AIがあれば何でもできる時代」なら、もしかして自分にもできるんじゃないか！そう思ったんです。
+しかし調べれば調べるほど、その期待は少しずつしぼんでいきました。
+
+
+ 「絶対無理」という壁にぶつかるまで
+AIで3Dキャラクターを生成するツールは、確かに進化しています。テキストや写真から3Dモデルを作ってくれるサービスもある。ここまでは想...]]></summary>
+        <author>
+            <name>sayapi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[UV展開済みモデルへAIテクスチャ生成出来るBlenderアドオン「Texture Diffusion v2」がアップデート]]></title>
+        <id>https://modelinghappy.com/?p=68787</id>
+        <link href="https://modelinghappy.com/archives/68787"/>
+        <updated>2026-05-27T00:04:11.000Z</updated>
+        <summary type="html"><![CDATA[Texture Diffusion v2 Replicate、Google Gemini、fal.aiなどのクラウドAIサービス経由で、Nano Banana、GPT-Image-2、FLUX2、Grok Imagine
+The post UV展開済みモデルへAIテクスチャ生成出来るBlenderアドオン「Texture Diffusion v2」がアップデート first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
+        <author>
+            <name>modelinghappy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「Unity AI」オープンベータ開始　エディターに統合されたAIアシスタント、AIモデルをUnityに接続するAIゲートウェイ、MCPサーバから構成 - ニュース]]></title>
+        <id>https://cgworld.jp/flashnews/01-202605-UnityAI.html</id>
+        <link href="https://cgworld.jp/flashnews/01-202605-UnityAI.html"/>
+        <updated>2026-05-26T23:11:49.000Z</updated>
+        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[フォトグラメトリ数学｜23：Lie群／Lie代数とは何か]]></title>
+        <id>https://zenn.dev/s_hashida/articles/a975478c5ad6a0</id>
+        <link href="https://zenn.dev/s_hashida/articles/a975478c5ad6a0"/>
+        <updated>2026-05-26T22:01:05.000Z</updated>
+        <summary type="html"><![CDATA[はじめに
+前回は、
+
+Quaternion
+回転表現
+SO(3)
+
+について説明しました。
+
+その中で重要だったのが、
+
+回転は普通のベクトル空間ではない
+曲がった空間の上にある
+
+という点です。
+
+しかし実際の最適化では、
+
+微小更新
+線形化
+加算
+
+を行っていました。
+
+ではここで疑問が出てきます。
+
+なぜ「曲がった空間」で線形化できるのか？
+なぜexp/logが出てくるのか？
+なぜ微小回転ベクトルで更新できるのか？
+
+
+その背景にあるのが、
+
+Lie群（Lie Group）
+Lie代数（Lie Algebra）
+
+です。
+
+今回は、
+
+Lie群とは何か
+Lie代数とは何か
+な...]]></summary>
+        <author>
+            <name>s_hashida</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[工業用アセット600種類以上収録！定価361ドル→3.62ドルの超特価セール開催中]]></title>
         <id>https://modelinghappy.com/?p=68777</id>
@@ -4056,64 +4161,6 @@ The post Houdiniでノードにコメントを表示する方法 first appeared 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[《クリエイター》を表現した3DCG作品を大募集！　「CGWORLD GALLERY」作品応募受付は5/24（日）まで - ニュース]]></title>
-        <id>https://cgworld.jp/flashnews/cgwg-v030.html</id>
-        <link href="https://cgworld.jp/flashnews/cgwg-v030.html"/>
-        <updated>2026-04-27T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[月刊『CGWORLD』の連載「CGWORLD GALLERY」。今回は《クリエイター》をテーマに3DCG作品を募集！]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【Unity 6】URP RenderGraphで障害物に隠れたキャラクターのシルエット＆アウトラインを描画する]]></title>
-        <id>https://qiita.com/ciDaCa/items/285492ebe3569c7b0a02</id>
-        <link href="https://qiita.com/ciDaCa/items/285492ebe3569c7b0a02"/>
-        <updated>2026-04-27T10:42:11.000Z</updated>
-        <summary type="html"><![CDATA[【Unity 6】URP RenderGraphで障害物に隠れたキャラクターのシルエット＆アウトラインを描画する
-3Dアクションゲームなどでは、「キャラクターが壁などの障害物の裏に隠れたときにシルエットや輪郭線を表示する」という表現をよく見かけます。
-本記事では、この表現...]]></summary>
-        <author>
-            <name>Shaderタグが付けられた新着記事 - Qiita</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【Unity 6】URP RenderGraphで障害物に隠れたキャラクターのシルエット＆アウトラインを描画する]]></title>
-        <id>https://qiita.com/ciDaCa/items/285492ebe3569c7b0a02</id>
-        <link href="https://qiita.com/ciDaCa/items/285492ebe3569c7b0a02"/>
-        <updated>2026-04-27T10:42:11.000Z</updated>
-        <summary type="html"><![CDATA[【Unity 6】URP RenderGraphで障害物に隠れたキャラクターのシルエット＆アウトラインを描画する
-3Dアクションゲームなどでは、「キャラクターが壁などの障害物の裏に隠れたときにシルエットや輪郭線を表示する」という表現をよく見かけます。
-本記事では、この表現...]]></summary>
-        <author>
-            <name>HLSLタグが付けられた新着記事 - Qiita</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fast and Exact Root Parity for Continuous Collision Detection (2022)]]></title>
-        <id>https://qiita.com/matumu20/items/d8d8318ee545cb22bdaf</id>
-        <link href="https://qiita.com/matumu20/items/d8d8318ee545cb22bdaf"/>
-        <updated>2026-04-27T10:16:54.000Z</updated>
-        <summary type="html"><![CDATA[Fast and Exact Root Parity for Continuous Collision Detection (2022)
-
-タイトル: 連続衝突検出のための高速かつ厳密な根の偶奇性判定
-
-著者: Bolun Wang, Zachary Ferguson, ...]]></summary>
-        <author>
-            <name>3DCGタグが付けられた新着記事 - Qiita</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Robot Designer - Procedural Robot Character Creator | Geometry Nodesを活用して構築されたプロシージャルロボットを生成Blenderアドオン！]]></title>
-        <id>https://3dnchu.com/?p=1064475</id>
-        <link href="https://3dnchu.com/archives/robot-designer-b3d/"/>
-        <updated>2026-04-27T09:43:49.000Z</updated>
-        <summary type="html"><![CDATA[Alexis Egi氏が、Geometry Nodesを活用して構築されたプロシージャルロボットを生成Blenderアドオン「Robot Designer」をSuperhive上でリリースしました！]]></summary>
-        <author>
-            <name>Ymt3D -3dnchu-</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Plasticity 2026.1 アップデート！NURBS変換「PolySplines」、SVG隠線エクスポート、その他多数のモデリングツールの強化など]]></title>
         <id>https://cginterest.com/?p=57823</id>
         <link href="https://cginterest.com/2026/04/27/plasticity-2026-1-%e3%82%a2%e3%83%83%e3%83%97%e3%83%87%e3%83%bc%e3%83%88%ef%bc%81nurbs%e5%a4%89%e6%8f%9b%e3%80%8cpolysplines%e3%80%8d%e3%80%81svg%e9%9a%a0%e7%b7%9a%e3%82%a8%e3%82%af%e3%82%b9%e3%83%9d/"/>
@@ -4122,58 +4169,6 @@ The post Houdiniでノードにコメントを表示する方法 first appeared 
 Plasticity 2026.1 アップデート！NURBS変換「PolySplines」、SVG隠線エクスポート、その他多数のモデリングツールの強化など first appeared on CGinterest.]]></summary>
         <author>
             <name>.me</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Substance Painterのマテリアルを一括レンダリング！アイキャッチを自動生成できる「Substance Painter Batch Rendering Plugin」]]></title>
-        <id>https://modelinghappy.com/?p=68303</id>
-        <link href="https://modelinghappy.com/archives/68303"/>
-        <updated>2026-04-27T05:04:19.000Z</updated>
-        <summary type="html"><![CDATA[Substance Painter Batch Rendering Plugin Substance Painter Batch Rendering Pluginは、Substance 3D Painterでマテリアルの
-The post Substance Painterのマテリアルを一括レンダリング！アイキャッチを自動生成できる「Substance Painter Batch Rendering Plugin」 first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
-        <author>
-            <name>modelinghappy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SFホラードラマ『ストレンジャー・シングス 未知の世界 5』の VFXメイキング映像]]></title>
-        <id>https://3dtotal.jp/?p=55151</id>
-        <link href="https://3dtotal.jp/news/55151/"/>
-        <updated>2026-04-27T04:30:16.000Z</updated>
-        <summary type="html"><![CDATA[★Behind The Magic | Stranger Things | The Vine（1分43秒） 『ストレンジャー・シングス 未知の世界 5』より「つる（触手）」制作の舞台裏、ILM の魔法に迫ります。（you […]
-The post SFホラードラマ『ストレンジャー・シングス 未知の世界 5』の VFXメイキング映像 first appeared on 3dtotal 日本語オフィシャルサイト.]]></summary>
-        <author>
-            <name>3dtotal管理人T</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【新講座】あれいら氏による『【Blender Fes Extra】3D衣装の作り方』が6/26(金)にオンライン開催決定！ - ニュース]]></title>
-        <id>https://cgworld.jp/flashnews/academy-plusone-0626.html</id>
-        <link href="https://cgworld.jp/flashnews/academy-plusone-0626.html"/>
-        <updated>2026-04-27T03:52:18.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CGWORLD vol.334（2026年6月号）「WEB ✕ 3DCG」特集号を先行告知！ - ニュース]]></title>
-        <id>https://cgworld.jp/flashnews/cgw334-pr.html</id>
-        <link href="https://cgworld.jp/flashnews/cgw334-pr.html"/>
-        <updated>2026-04-27T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[【5/9発売】CGWORLD vol.334（2026年6月号）特集「WEB ✕ 3DCG」。mount inc.が開拓するWeb表現の境界線]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Light Propagation Volumes (Global Illumination) v1.0 | 残像が無く軽量なGI表現を実現するUnreal Engine 5向けカスタムGIプラグイン！]]></title>
-        <id>https://3dnchu.com/?p=1064444</id>
-        <link href="https://3dnchu.com/archives/light-propagation-volumes-v1-0/"/>
-        <updated>2026-04-27T02:48:54.000Z</updated>
-        <summary type="html"><![CDATA[Unreal Engine向けに数多くの高品質なプラグインを開発しているDmitry Karpukhin氏が、次は軽量動作するGI（グローバルイルミネーション）プラグイン「Light Propagation Volumes」をリリースしました！]]></summary>
-        <author>
-            <name>Ymt3D -3dnchu-</name>
         </author>
     </entry>
 </feed>

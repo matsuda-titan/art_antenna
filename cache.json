@@ -115,6 +115,21 @@
       "siteUrl": "https://3dnchu.com",
       "articles": [
         {
+          "id": "https://3dnchu.com/?p=1065316",
+          "author": "Ymt3D -3dnchu-",
+          "description": "ARK.KRAによる、Unreal Engine 5向けのAOプラグイン「VBAO - Visibility Bitmask Ambient Occlusion」がFab上でリリースされていました！",
+          "link": "https://3dnchu.com/archives/vbao/",
+          "publishedOn": "2026-05-27T04:35:04.000Z",
+          "wordCount": 9106,
+          "title": "VBAO - Visibility Bitmask Ambient Occlusion | 低負荷で安定した品質のAOを追加出来るUnreal Engine 5向けプラグイン！",
+          "enclosure": {
+            "url": "https://3dnchu.com/wp-content/uploads/VBAO2.jpg",
+            "length": "93919",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://3dnchu.com/wp-content/uploads/VBAO2.jpg"
+        },
+        {
           "id": "https://3dnchu.com/?p=1065283",
           "author": "Ymt3D -3dnchu-",
           "description": "TXC STOCKによる、Unreal Engine 5向けのレンズフレアエフェクトツールスイートプラグイン「REAL FLARES v1.0」がFab上でリリースされています！",
@@ -676,6 +691,36 @@
       "feedUrl": "https://cgworld.jp/atom.xml",
       "siteUrl": "https://cgworld.jp/",
       "articles": [
+        {
+          "id": "https://cgworld.jp/article/202605-cgw333-nioh3-b.html",
+          "author": null,
+          "description": "ゲーム『仁王3』のメイキングを紹介",
+          "link": "https://cgworld.jp/article/202605-cgw333-nioh3-b.html",
+          "publishedOn": "2026-05-27T05:15:00.000Z",
+          "wordCount": 873,
+          "title": "シリーズ初のオープンフィールドで描く妖怪蠢く世界『仁王3』（2） - 特集",
+          "imageUrl": "https://cgworld.jp/article/assets_c/2026/05/258e9fdb6ef235367b5cd6c25a7aadd5ec387f0d-thumb-1000x563-83148.jpg"
+        },
+        {
+          "id": "https://cgworld.jp/article/2605-spiritsoftokyo.html",
+          "author": null,
+          "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
+          "link": "https://cgworld.jp/article/2605-spiritsoftokyo.html",
+          "publishedOn": "2026-05-27T04:00:00.000Z",
+          "wordCount": 766,
+          "title": "\"変容\"が人の思いを可視化する―都庁プロジェクションマッピング『東京変容紀 -Spirits of Tokyo-』の演出設計 - 特集",
+          "imageUrl": "https://cgworld.jp/article/assets_c/2026/05/127b8a3efce780ee8083fa26fe9c025b418491ff-thumb-1000x563-83957.jpg"
+        },
+        {
+          "id": "https://cgworld.jp/special-feature/2605-Unitcom-GlitzVisuals.html",
+          "author": null,
+          "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
+          "link": "https://cgworld.jp/special-feature/2605-Unitcom-GlitzVisuals.html",
+          "publishedOn": "2026-05-27T02:25:24.000Z",
+          "wordCount": 737,
+          "title": "Glitz VisualsのリアルタイムCG・AIワークフローで実感！　RTX 5090 Founders Edition搭載PCが実現する「時間を買う」投資 - スペシャルコンテンツ",
+          "imageUrl": "https://cgworld.jp/special-feature/assets_c/2026/05/unitcom-thumb-768x432-83808.png"
+        },
         {
           "id": "https://cgworld.jp/flashnews/01-202605-UnityAI.html",
           "author": null,
@@ -1407,16 +1452,6 @@
             "type": "video/mp4"
           },
           "imageUrl": "https://3d.crdg.jp/tech/wp-content/uploads/2026/05/mocopiアイキャッチ-1.png"
-        },
-        {
-          "id": "https://3d.crdg.jp/tech/?p=6751",
-          "author": "miyakawa takeshi",
-          "description": "こんにちは。 得意料理は鮭とほうれん草のバターソテー、 どうも、クリーク･アンド･リバー社 COYOTE 3DCG STUDIO テクニカルチームの宮 […]\n続きを読む\n投稿 【VSCode】そんなことできたの！？Tips集【中級者編】 は TECH-COYOTE｜C&R Creative Studios に最初に表示されました。",
-          "link": "https://3d.crdg.jp/tech/archives/6751",
-          "publishedOn": "2026-04-27T15:00:33.000Z",
-          "wordCount": 3065,
-          "title": "【VSCode】そんなことできたの！？Tips集【中級者編】",
-          "imageUrl": "https://3d.crdg.jp/tech/wp-content/uploads/2026/03/【VSCode】そんなことできたの！？Tips集【中級者編】.png"
         }
       ]
     },
@@ -1424,18 +1459,7 @@
       "title": "UnPySide",
       "feedUrl": "https://unpyside.com/feed/",
       "siteUrl": "https://unpyside.com",
-      "articles": [
-        {
-          "id": "https://unpyside.com/?p=3016",
-          "author": "ringosan",
-          "description": "Houdiniで作業や学習をしていると、メモを残したくなることがありますよね。私はこれまで Sticky Note をよく使っていました。見たまま付箋のように貼り付けて使える便利な機能です。 ただ、実は各ノード自体にもコ […]\nThe post Houdiniでノードにコメントを表示する方法 first appeared on UnPySide.",
-          "link": "https://unpyside.com/blog/2026/04/28/houdini%e3%81%a7%e3%83%8e%e3%83%bc%e3%83%89%e3%81%ab%e3%82%b3%e3%83%a1%e3%83%b3%e3%83%88%e3%82%92%e8%a1%a8%e7%a4%ba%e3%81%99%e3%82%8b%e6%96%b9%e6%b3%95/?utm_source=rss&utm_medium=rss&utm_campaign=houdini%25e3%2581%25a7%25e3%2583%258e%25e3%2583%25bc%25e3%2583%2589%25e3%2581%25ab%25e3%2582%25b3%25e3%2583%25a1%25e3%2583%25b3%25e3%2583%2588%25e3%2582%2592%25e8%25a1%25a8%25e7%25a4%25ba%25e3%2581%2599%25e3%2582%258b%25e6%2596%25b9%25e6%25b3%2595",
-          "publishedOn": "2026-04-27T16:25:26.000Z",
-          "wordCount": 2257,
-          "title": "Houdiniでノードにコメントを表示する方法",
-          "imageUrl": "https://unpyside.com/wp-content/uploads/2026/04/202604247_eye-catch.jpg"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "スタジオブロス TECH BLOG",
@@ -1922,6 +1946,16 @@
       "siteUrl": "https://3dtotal.jp",
       "articles": [
         {
+          "id": "https://3dtotal.jp/?p=53687",
+          "author": "3dtotal管理人T",
+          "description": "★Toy Story 5 | Final Trailer | Get Tickets Now（1分45秒） ★Toy Story 5 | Official Trailer（2分24秒） ★「トイ・ストーリー５」最新予告（ […]\nThe post 新しいライバルはタブレット!? ピクサー映画『トイ・ストーリー 5』の トレーラー（英語／日本語） first appeared on 3dtotal 日本語オフィシャルサイト.",
+          "link": "https://3dtotal.jp/news/53687/",
+          "publishedOn": "2026-05-27T05:00:37.000Z",
+          "wordCount": 559,
+          "title": "新しいライバルはタブレット!? ピクサー映画『トイ・ストーリー 5』の トレーラー（英語／日本語）",
+          "imageUrl": "https://3dtotal.jp/wp-content/uploads/2026/05/toystory5_ftrailer.jpg"
+        },
+        {
           "id": "https://3dtotal.jp/?p=55609",
           "author": "3dtotal管理人T",
           "description": "「自分に合ったリズムを見つければ、ポートフォリオの更新はぐっと楽になります。それは忍耐と献身の積み重ねです」 Q. 自己紹介をお願いします こんにちは、Giovani Kososki です。ブラジルを拠点に、フリーランス […]\nThe post 【インタビュー】シンプルに見えるものが最も手強い：3Dアーティスト Giovani Kososki 氏 first appeared on 3dtotal 日本語オフィシャルサイト.",
@@ -2158,6 +2192,21 @@
       "feedUrl": "https://zenn.dev/topics/shader/feed",
       "siteUrl": "https://zenn.dev/topics/shader",
       "articles": [
+        {
+          "id": "https://zenn.dev/h0r0/articles/2bf45895a33b91",
+          "author": "horo",
+          "description": "いつもいつも行列計算でこんがらがるので、将来の自分のために整理して書き残しておきます。\nシェーダーは現在進行形で学習中なので、記事内には間違いが含まれているかもしれません。\nGLSLとHLSLの仕様についてまとめようと思います。\nベクトルや行列にあまり親しくない方へ\n以下のプレイリストのChapter1~4を視聴することをお勧めします。3Blue1Brownという海外の有名な数学の解説動画を作成している方のシリーズを、東京大学の学生有志団体が翻訳・再編集し公式ライセンスのもと公開しているものです。ベクトルや行列の計算方法以外の話も混ざっていますが、シェーダーで行列を用いた計算をするなら結...",
+          "link": "https://zenn.dev/h0r0/articles/2bf45895a33b91",
+          "publishedOn": "2026-05-27T02:30:05.000Z",
+          "wordCount": 2162,
+          "title": "シェーダーでの行列計算を整理する[GLSL&HLSL]",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--QCEAmKJx--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2582%25B7%25E3%2582%25A7%25E3%2583%25BC%25E3%2583%2580%25E3%2583%25BC%25E3%2581%25A7%25E3%2581%25AE%25E8%25A1%258C%25E5%2588%2597%25E8%25A8%2588%25E7%25AE%2597%25E3%2582%2592%25E6%2595%25B4%25E7%2590%2586%25E3%2581%2599%25E3%2582%258B%255BGLSL%2526HLSL%255D%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:horo%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzI3NGE0YWU0N2MuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
+            "length": "0",
+            "type": "false"
+          },
+          "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--QCEAmKJx--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2582%25B7%25E3%2582%25A7%25E3%2583%25BC%25E3%2583%2580%25E3%2583%25BC%25E3%2581%25A7%25E3%2581%25AE%25E8%25A1%258C%25E5%2588%2597%25E8%25A8%2588%25E7%25AE%2597%25E3%2582%2592%25E6%2595%25B4%25E7%2590%2586%25E3%2581%2599%25E3%2582%258B%255BGLSL%2526HLSL%255D%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:horo%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzI3NGE0YWU0N2MuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"
+        },
         {
           "id": "https://zenn.dev/zn_ryg12/articles/shader-note-20260524",
           "author": "ryuga.",
@@ -2871,6 +2920,21 @@
       "siteUrl": "https://zenn.dev/topics/hlsl",
       "articles": [
         {
+          "id": "https://zenn.dev/h0r0/articles/2bf45895a33b91",
+          "author": "horo",
+          "description": "いつもいつも行列計算でこんがらがるので、将来の自分のために整理して書き残しておきます。\nシェーダーは現在進行形で学習中なので、記事内には間違いが含まれているかもしれません。\nGLSLとHLSLの仕様についてまとめようと思います。\nベクトルや行列にあまり親しくない方へ\n以下のプレイリストのChapter1~4を視聴することをお勧めします。3Blue1Brownという海外の有名な数学の解説動画を作成している方のシリーズを、東京大学の学生有志団体が翻訳・再編集し公式ライセンスのもと公開しているものです。ベクトルや行列の計算方法以外の話も混ざっていますが、シェーダーで行列を用いた計算をするなら結...",
+          "link": "https://zenn.dev/h0r0/articles/2bf45895a33b91",
+          "publishedOn": "2026-05-27T02:30:05.000Z",
+          "wordCount": 2162,
+          "title": "シェーダーでの行列計算を整理する[GLSL&HLSL]",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--QCEAmKJx--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2582%25B7%25E3%2582%25A7%25E3%2583%25BC%25E3%2583%2580%25E3%2583%25BC%25E3%2581%25A7%25E3%2581%25AE%25E8%25A1%258C%25E5%2588%2597%25E8%25A8%2588%25E7%25AE%2597%25E3%2582%2592%25E6%2595%25B4%25E7%2590%2586%25E3%2581%2599%25E3%2582%258B%255BGLSL%2526HLSL%255D%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:horo%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzI3NGE0YWU0N2MuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
+            "length": "0",
+            "type": "false"
+          },
+          "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--QCEAmKJx--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2582%25B7%25E3%2582%25A7%25E3%2583%25BC%25E3%2583%2580%25E3%2583%25BC%25E3%2581%25A7%25E3%2581%25AE%25E8%25A1%258C%25E5%2588%2597%25E8%25A8%2588%25E7%25AE%2597%25E3%2582%2592%25E6%2595%25B4%25E7%2590%2586%25E3%2581%2599%25E3%2582%258B%255BGLSL%2526HLSL%255D%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:horo%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzI3NGE0YWU0N2MuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"
+        },
+        {
           "id": "https://zenn.dev/quickbrush/articles/80eca761149b6c",
           "author": "Narita Yugo",
           "description": "随時追加します。\n\n 数値\n\n 安全な除算\n0除算の場合は0を返します\n除算float safeDivide(float divident, float divisor) {return sign(divisor)*divident/max(abs(divisor),1e-5);}\nfloat2 safeDivide(float2 divident, float2 divisor) {return sign(divisor)*divident/max(abs(divisor),1e-5);}\nfloat3 safeDivide(float3 divident, float3 diviso...",
@@ -2891,7 +2955,23 @@
       "title": "Zennの「GLSL」のフィード",
       "feedUrl": "https://zenn.dev/topics/glsl/feed",
       "siteUrl": "https://zenn.dev/topics/glsl",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://zenn.dev/h0r0/articles/2bf45895a33b91",
+          "author": "horo",
+          "description": "いつもいつも行列計算でこんがらがるので、将来の自分のために整理して書き残しておきます。\nシェーダーは現在進行形で学習中なので、記事内には間違いが含まれているかもしれません。\nGLSLとHLSLの仕様についてまとめようと思います。\nベクトルや行列にあまり親しくない方へ\n以下のプレイリストのChapter1~4を視聴することをお勧めします。3Blue1Brownという海外の有名な数学の解説動画を作成している方のシリーズを、東京大学の学生有志団体が翻訳・再編集し公式ライセンスのもと公開しているものです。ベクトルや行列の計算方法以外の話も混ざっていますが、シェーダーで行列を用いた計算をするなら結...",
+          "link": "https://zenn.dev/h0r0/articles/2bf45895a33b91",
+          "publishedOn": "2026-05-27T02:30:05.000Z",
+          "wordCount": 2162,
+          "title": "シェーダーでの行列計算を整理する[GLSL&HLSL]",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--QCEAmKJx--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2582%25B7%25E3%2582%25A7%25E3%2583%25BC%25E3%2583%2580%25E3%2583%25BC%25E3%2581%25A7%25E3%2581%25AE%25E8%25A1%258C%25E5%2588%2597%25E8%25A8%2588%25E7%25AE%2597%25E3%2582%2592%25E6%2595%25B4%25E7%2590%2586%25E3%2581%2599%25E3%2582%258B%255BGLSL%2526HLSL%255D%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:horo%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzI3NGE0YWU0N2MuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
+            "length": "0",
+            "type": "false"
+          },
+          "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--QCEAmKJx--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2582%25B7%25E3%2582%25A7%25E3%2583%25BC%25E3%2583%2580%25E3%2583%25BC%25E3%2581%25A7%25E3%2581%25AE%25E8%25A1%258C%25E5%2588%2597%25E8%25A8%2588%25E7%25AE%2597%25E3%2582%2592%25E6%2595%25B4%25E7%2590%2586%25E3%2581%2599%25E3%2582%258B%255BGLSL%2526HLSL%255D%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:horo%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzI3NGE0YWU0N2MuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"
+        }
+      ]
     },
     {
       "title": "AREA JAPAN | Autodesk",

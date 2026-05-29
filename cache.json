@@ -677,6 +677,36 @@
       "siteUrl": "https://cgworld.jp/",
       "articles": [
         {
+          "id": "https://cgworld.jp/flashnews/borndigital-book-lounge-01.html",
+          "author": null,
+          "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
+          "link": "https://cgworld.jp/flashnews/borndigital-book-lounge-01.html",
+          "publishedOn": "2026-05-29T09:41:54.000Z",
+          "wordCount": 788,
+          "title": "著者と交流できるブックイベント『ボーンデジタルブックラウンジ #01』が6月13日・14日に開催 - ニュース",
+          "imageUrl": "https://cgworld.jp/flashnews/assets_c/2026/05/1920x1080-thumb-1920x1080-84174.jpg"
+        },
+        {
+          "id": "https://cgworld.jp/flashnews/sculptorsday2026.html",
+          "author": null,
+          "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
+          "link": "https://cgworld.jp/flashnews/sculptorsday2026.html",
+          "publishedOn": "2026-05-29T07:13:02.000Z",
+          "wordCount": 787,
+          "title": "カリスマ原型師の究極の技法を集結！SCULPTORS DAY 2026『造形技術と表現論』が6月21日にオンライン開催 - ニュース",
+          "imageUrl": "https://cgworld.jp/flashnews/assets_c/2026/05/269_seminar_sculptorsday_full-thumb-1000x563-84172.jpg"
+        },
+        {
+          "id": "https://cgworld.jp/flashnews/02-2605-tsukujob.html",
+          "author": null,
+          "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
+          "link": "https://cgworld.jp/flashnews/02-2605-tsukujob.html",
+          "publishedOn": "2026-05-29T05:57:54.000Z",
+          "wordCount": 727,
+          "title": "6/5（金）東京で開催。アニメ・CG・ゲーム専門合同企業説明会「つくジョブ！」 - ニュース",
+          "imageUrl": "https://cgworld.jp/flashnews/assets_c/2026/05/6fbcb86be5317034436fdc67e81b67cceae6e554-thumb-1000x563-74167-thumb-1000x563-84060.jpg"
+        },
+        {
           "id": "https://cgworld.jp/flashnews/2605-03-unreal-fest.html",
           "author": null,
           "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
@@ -2618,21 +2648,6 @@
             "type": "false"
           },
           "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--cA4S9fov--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%2595%25E3%2582%25A9%25E3%2583%2588%25E3%2582%25B0%25E3%2583%25A9%25E3%2583%25A1%25E3%2583%2588%25E3%2583%25AA%25E6%2595%25B0%25E5%25AD%25A6%25EF%25BD%259C15%25EF%25BC%259A%25E6%259C%2580%25E5%25B0%25A4%25E6%258E%25A8%25E5%25AE%259A%25E3%2581%25A8%25E3%2581%25AF%25E4%25BD%2595%25E3%2581%258B%25EF%25BC%2588%25E3%2581%25AA%25E3%2581%259C%25E4%25BA%258C%25E4%25B9%2597%25E8%25AA%25A4%25E5%25B7%25AE%25E3%2581%25AB%25E3%2581%25AA%25E3%2582%258B%25E3%2581%25AE%25E3%2581%258B%25EF%25BC%2589%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:s_hashida%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2JmNmU5NjMzMTEuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"
-        },
-        {
-          "id": "https://zenn.dev/s_hashida/articles/bbd0b6f2e6d443",
-          "author": "s_hashida",
-          "description": "はじめに\n前回は、Bundle Adjustmentを\n\n\\min_\\theta \\| \\mathbf{r}(\\theta) \\|^2\n\nという形に整理し、\nさらに\n\n線形化\nGauss-Newton法\n\nによって、\n\n(J^T J)\\,\\Delta \\theta = - J^T \\mathbf{r}\n\nを解くことで、\n「最もよい一歩」 を求める方法を見ました。\n\nしかし、この方法には問題があります。\n\n\n Gauss-Newtonの限界\nGauss-Newton法は、\n\n近似が正しい前提で動く\n\n方法でした。\n\nつまり、\n\n\\mathbf{r}(\\theta + \\Delta \\...",
-          "link": "https://zenn.dev/s_hashida/articles/bbd0b6f2e6d443",
-          "publishedOn": "2026-04-29T22:05:05.000Z",
-          "wordCount": 885,
-          "title": "フォトグラメトリ数学｜14：Levenberg–Marquardt法とは何か",
-          "enclosure": {
-            "url": "https://res.cloudinary.com/zenn/image/upload/s--I3EcP4uk--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%2595%25E3%2582%25A9%25E3%2583%2588%25E3%2582%25B0%25E3%2583%25A9%25E3%2583%25A1%25E3%2583%2588%25E3%2583%25AA%25E6%2595%25B0%25E5%25AD%25A6%25EF%25BD%259C14%25EF%25BC%259ALevenberg%25E2%2580%2593Marquardt%25E6%25B3%2595%25E3%2581%25A8%25E3%2581%25AF%25E4%25BD%2595%25E3%2581%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:s_hashida%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2JmNmU5NjMzMTEuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
-            "length": "0",
-            "type": "false"
-          },
-          "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--I3EcP4uk--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%2595%25E3%2582%25A9%25E3%2583%2588%25E3%2582%25B0%25E3%2583%25A9%25E3%2583%25A1%25E3%2583%2588%25E3%2583%25AA%25E6%2595%25B0%25E5%25AD%25A6%25EF%25BD%259C14%25EF%25BC%259ALevenberg%25E2%2580%2593Marquardt%25E6%25B3%2595%25E3%2581%25A8%25E3%2581%25AF%25E4%25BD%2595%25E3%2581%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:s_hashida%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2JmNmU5NjMzMTEuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"
         }
       ]
     },
@@ -3221,16 +3236,6 @@
           "wordCount": 2377,
           "title": "燃え尽きた先にHoudiniを再開した話",
           "imageUrl": "https://assets.st-note.com/production/uploads/images/271631082/rectangle_large_type_2_c8e36362e6d08fb4712514908451f4fc.png?width=800"
-        },
-        {
-          "id": "https://note.com/sm_i_o/n/n4cb9c975da87",
-          "author": null,
-          "description": "前回は、国土交通省が主導している地形データサイトPLATEAUから地形データをダウンロードするところまでを説明しました\n\n続きをみる",
-          "link": "https://note.com/sm_i_o/n/n4cb9c975da87",
-          "publishedOn": "2026-04-29T20:57:51.000Z",
-          "wordCount": 2653,
-          "title": "HoudiniでGISを扱う-GISから下北沢の街を再現してみた(Blender編)",
-          "imageUrl": "https://assets.st-note.com/production/uploads/images/271582686/rectangle_large_type_2_ea9808922a1d411332ae31b6f80d7007.jpeg?width=800"
         }
       ]
     },
@@ -3446,6 +3451,16 @@
       "feedUrl": "https://cginterest.com/feed/",
       "siteUrl": "https://cginterest.com",
       "articles": [
+        {
+          "id": "https://cginterest.com/?p=59362",
+          "author": ".me",
+          "description": "2026年5月26日（現地時間）、NVIDIA は CUDA エコシステムを利用する開発者向けに、新機能とパフォーマンス最適化を含む「CUDA 13.3」を公開しました。 今回のアップデートには、3DCG のレンダリング […]\nNVIDIA CUDA 13.3 がリリース：C++でのタイルプログラミング、コンパイラ自動調整、Python機能の強化など first appeared on CGinterest.",
+          "link": "https://cginterest.com/2026/05/29/nvidia-cuda-13-3-%e3%81%8c%e3%83%aa%e3%83%aa%e3%83%bc%e3%82%b9%ef%bc%9ac%e3%81%a7%e3%81%ae%e3%82%bf%e3%82%a4%e3%83%ab%e3%83%97%e3%83%ad%e3%82%b0%e3%83%a9%e3%83%9f%e3%83%b3%e3%82%b0%e3%80%81%e3%82%b3/",
+          "publishedOn": "2026-05-29T11:17:47.000Z",
+          "wordCount": 33384,
+          "title": "NVIDIA CUDA 13.3 がリリース：C++でのタイルプログラミング、コンパイラ自動調整、Python機能の強化など",
+          "imageUrl": "https://cginterest.com/wp-content/uploads/2026/05/CUDA-13.3-1536x864-1.webp"
+        },
         {
           "id": "https://cginterest.com/?p=58362",
           "author": ".me",
@@ -4160,16 +4175,6 @@
           "wordCount": 29247,
           "title": "Topaz Photo v1.5.0がリリース！Topaz Labs初の生成AIノイズ除去モデルなど4つの新モデルが追加",
           "imageUrl": "https://cginterest.com/wp-content/uploads/2026/04/topazphotov1_5.webp"
-        },
-        {
-          "id": "https://cginterest.com/?p=58345",
-          "author": ".me",
-          "description": "2026年4月26日（現地時間）- Topaz Labsより、動画品質を向上させるソフトウェア「Topaz Video」の最新アップデートとなるバージョン1.4.0がリリースされました。 主な新機能 このアップデートでは […]\nTopaz Video 1.4 がリリース！新たな処理基盤「Neuroserver」の導入で強力な画質向上モデル「Starlight Precise 2.5」のローカル版が追加 first appeared on CGinterest.",
-          "link": "https://cginterest.com/2026/04/30/topaz-video-1-4-%e3%81%8c%e3%83%aa%e3%83%aa%e3%83%bc%e3%82%b9%ef%bc%81%e6%96%b0%e3%81%9f%e3%81%aa%e5%87%a6%e7%90%86%e5%9f%ba%e7%9b%a4%e3%80%8cneuroserver%e3%80%8d%e3%81%ae%e5%b0%8e%e5%85%a5%e3%81%a7/",
-          "publishedOn": "2026-04-29T22:51:00.000Z",
-          "wordCount": 29217,
-          "title": "Topaz Video 1.4 がリリース！新たな処理基盤「Neuroserver」の導入で強力な画質向上モデル「Starlight Precise 2.5」のローカル版が追加",
-          "imageUrl": "https://cginterest.com/wp-content/uploads/2026/04/topazvideo14.webp"
         }
       ]
     }

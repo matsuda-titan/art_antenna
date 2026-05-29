@@ -2,10 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-05-29T11:18:45.013Z</updated>
+    <updated>2026-05-29T14:37:56.992Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【Unity】モバイル環境でFloatテクスチャをサンプルする方法]]></title>
+        <id>https://qiita.com/yuri_tsukimi/items/236fc4b89083f1ccb672</id>
+        <link href="https://qiita.com/yuri_tsukimi/items/236fc4b89083f1ccb672"/>
+        <updated>2026-05-29T13:00:51.000Z</updated>
+        <summary type="html"><![CDATA[モバイル環境 (Android, Quest) でテクスチャをメモリとして使いたいときにサンプル方法でつまずいたので記録しておきます．
+
+問題
+シェーダーでテクスチャをサンプルする場合，普通は tex2D* を使います．
+sampler2D _MainTex;
+
+float...]]></summary>
+        <author>
+            <name>Shaderタグが付けられた新着記事 - Qiita</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「身体圏」研究が変える未来の社会。立命館大学と企業パートナーの挑戦を支えるクリエイティビティとテクノロジー - スペシャルコンテンツ]]></title>
+        <id>https://cgworld.jp/special-feature/202605-ritsumeikan-cvic.html</id>
+        <link href="https://cgworld.jp/special-feature/202605-ritsumeikan-cvic.html"/>
+        <updated>2026-05-29T12:21:33.000Z</updated>
+        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[NVIDIA CUDA 13.3 がリリース：C++でのタイルプログラミング、コンパイラ自動調整、Python機能の強化など]]></title>
         <id>https://cginterest.com/?p=59362</id>
@@ -4272,60 +4298,6 @@ The post 世界中で愛される象徴的なキャラクターたち。Rodeo FX
         <id>https://cgworld.jp/flashnews/03-2604-thefinals.html</id>
         <link href="https://cgworld.jp/flashnews/03-2604-thefinals.html"/>
         <updated>2026-04-30T02:55:00.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[燃え尽きた先にHoudiniを再開した話]]></title>
-        <id>https://note.com/adachi_1003/n/n165f21c8ce2a</id>
-        <link href="https://note.com/adachi_1003/n/n165f21c8ce2a"/>
-        <updated>2026-04-30T02:05:19.000Z</updated>
-        <summary type="html"><![CDATA[2026年スタートから飛ばしまくったADACHIはCGWORLDの登壇から燃え尽きていました。
-ただひたすらにドラクエをする日々、PCを立ち上げるのすら億劫な日々
-あぁこれはいつものパターンやと思いBlenderを始めた時も最初の半年間は平日でも毎日1作品アップするという根性と勢いで寝る前の1時間で1作品つくって投稿するというのを半年間ほど続けていました。
-なんとなく作成したい物が一通り作れるようになるころに一気に燃え尽きるのがいつものお決まりでした。
-続きをみる]]></summary>
-        <author>
-            <name>#Houdiniタグ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[vol.006：チュートリアルエリアも設定したレベルデザイン！「Grimoire」 - 連載]]></title>
-        <id>https://cgworld.jp/regular/202604-portfolio-06.html</id>
-        <link href="https://cgworld.jp/regular/202604-portfolio-06.html"/>
-        <updated>2026-04-30T01:25:00.000Z</updated>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[第12回 後編：ワコムが磨き続ける「描く体験」と開発の思想 - 連載]]></title>
-        <id>https://cgworld.jp/regular/202604-chiyama-t-12-2.html</id>
-        <link href="https://cgworld.jp/regular/202604-chiyama-t-12-2.html"/>
-        <updated>2026-04-30T01:00:00.000Z</updated>
-        <summary type="html"><![CDATA[本連載では、CG映像制作におけるテクニカル系スタッフの仕事の現状と課題を、パイプライン開発の専門家である痴山紘史氏（日本CGサービス（JCGS）代表）が探っていく。第12回では、ペンタブレットで世界的に知られるワコムを取材。後編では、製品企画と技術開発のすり合わせの実態や、「利用時品質」という独自の評価軸、そしてペンを核にハードウェアとソフトウェアを横断して体験を設計していく開発思想に焦点を当てる。ワコムが「描く体験」をいかに構想し、実装しているのか、その舞台裏に迫る。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Topaz Photo v1.5.0がリリース！Topaz Labs初の生成AIノイズ除去モデルなど4つの新モデルが追加]]></title>
-        <id>https://cginterest.com/?p=58346</id>
-        <link href="https://cginterest.com/2026/04/30/topaz-photo-v1-5-0%e3%81%8c%e3%83%aa%e3%83%aa%e3%83%bc%e3%82%b9%ef%bc%81topaz-labs%e5%88%9d%e3%81%ae%e7%94%9f%e6%88%90ai%e3%83%8e%e3%82%a4%e3%82%ba%e9%99%a4%e5%8e%bb%e3%83%a2%e3%83%87%e3%83%ab/"/>
-        <updated>2026-04-29T23:52:00.000Z</updated>
-        <summary type="html"><![CDATA[2026年4月25日（現地時間）- Topaz Labsより、画像高画質化ソフトウェア「Topaz Photo」の最新バージョン 1.5.0 がリリースされました. 主な新機能 このアップデートでは、ソフトウェアのコア機 […]
-Topaz Photo v1.5.0がリリース！Topaz Labs初の生成AIノイズ除去モデルなど4つの新モデルが追加 first appeared on CGinterest.]]></summary>
-        <author>
-            <name>.me</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Arnold公式、Mayaのトゥーンシェーダを用いたレンダリングのチュートリアル動画を公開　プラモの取扱説明書に掲載されているようなNPRルックを実現 - ニュース]]></title>
-        <id>https://cgworld.jp/flashnews/01-202604-Arnold-Toon.html</id>
-        <link href="https://cgworld.jp/flashnews/01-202604-Arnold-Toon.html"/>
-        <updated>2026-04-29T23:37:23.000Z</updated>
         <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
         <author>
             <name>CGWORLD</name>

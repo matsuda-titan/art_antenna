@@ -12,6 +12,21 @@
       "siteUrl": "https://cgbox.jp",
       "articles": [
         {
+          "id": "https://cgbox.jp/?p=65364",
+          "author": "kasahara",
+          "description": "こんばんは！ 今回はアドオンの「Blender Pixel Kit」を紹介します。 こちらのリンクがアドオンの商品ページになります。 Blender Pixel Kit 「Blender Pixel Kit」は、Blen […]",
+          "link": "https://cgbox.jp/2026/06/01/news-addon-blender-pixel-kit/",
+          "publishedOn": "2026-06-01T03:40:34.000Z",
+          "wordCount": 1984,
+          "title": "【無料アドオン】Blender Pixel Kit – ピクセルアートに簡単変換！",
+          "enclosure": {
+            "url": "https://cgbox.jp/wp-content/uploads/2026/06/388325941376550daa83cb42748adb02.mp4",
+            "length": "0",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://cgbox.jp/wp-content/uploads/2026/06/image_processing20260529-2-vn0l99.jpg"
+        },
+        {
           "id": "https://cgbox.jp/?p=65359",
           "author": "kasahara",
           "description": "こんばんは！ 今回はアドオンの「Vitrage Generator」を紹介します。 こちらのリンクがアドオンの商品ページになります。 Vitrage Generator 「Vitrage Generator」は、画像をも […]",
@@ -1946,6 +1961,26 @@
       "siteUrl": "https://3dtotal.jp",
       "articles": [
         {
+          "id": "https://3dtotal.jp/?p=55650",
+          "author": "3dtotal管理人T",
+          "description": "★Ted Season 2 VFX Breakdown | Framestore（2分43秒） ふんわりと探ってみよう。『テッド ザ・シリーズ2』では、Framestore が セス・マクファーレン と再びタッグを組み、 […]\nThe post 毒舌テディベアの人気コメディが再び帰ってくる。『テッド ザ・シリーズ2』の VFXブレイクダウン映像 first appeared on 3dtotal 日本語オフィシャルサイト.",
+          "link": "https://3dtotal.jp/news/55650/",
+          "publishedOn": "2026-06-01T05:06:36.000Z",
+          "wordCount": 521,
+          "title": "毒舌テディベアの人気コメディが再び帰ってくる。『テッド ザ・シリーズ2』の VFXブレイクダウン映像",
+          "imageUrl": "https://3dtotal.jp/wp-content/uploads/2026/06/tedseason2_fstore.jpg"
+        },
+        {
+          "id": "https://3dtotal.jp/?p=55151",
+          "author": "3dtotal管理人T",
+          "description": "★Behind The Magic | Stranger Things Season 5（2分2秒） 『ストレンジャー・シングス 未知の世界 5』より「アップサイドダウン (逆さま)」制作の舞台裏、ILM の魔法に迫りま […]\nThe post SFホラードラマ『ストレンジャー・シングス 未知の世界 5』の VFXメイキング映像 first appeared on 3dtotal 日本語オフィシャルサイト.",
+          "link": "https://3dtotal.jp/news/55151/",
+          "publishedOn": "2026-06-01T04:30:16.000Z",
+          "wordCount": 603,
+          "title": "SFホラードラマ『ストレンジャー・シングス 未知の世界 5』の VFXメイキング映像",
+          "imageUrl": "https://3dtotal.jp/wp-content/uploads/2026/05/st5_upsidedown.jpg"
+        },
+        {
           "id": "https://3dtotal.jp/?p=55640",
           "author": "3dtotal管理人T",
           "description": "★Disclosure Day | Final Trailer（2分43秒） ★映画『ディスクロージャー・デイ』最新予告映像（2分37秒） 現代映画史の頂点を築き上げてきた巨匠 スティーヴン・スピルバーグ。 『E.T.』 […]\nThe post その日、すべてが \"開示\" される。スティーブン・スピルバーグ監督最新作、映画『ディスクロージャー・デイ』のトレーラー（英語／日本語） first appeared on 3dtotal 日本語オフィシャルサイト.",
@@ -2275,6 +2310,21 @@
       "feedUrl": "https://zenn.dev/topics/shadergraph/feed",
       "siteUrl": "https://zenn.dev/topics/shadergraph",
       "articles": [
+        {
+          "id": "https://zenn.dev/hsl/articles/34de55362c1b02",
+          "author": "Hot Spud Lab",
+          "description": "環境\nUnity 6000.4 / UI Toolkit / UI Shader Graph\n\n自作の VisualElement に UI Shader Graph をマテリアルとして割り当て、UI Builder のインスペクタからパラメータをいじると、Preview に全然反映されない。\nPlay モードでは動く。ランタイムでは問題ないのに、UI Builder だけ死んでいる。一見、シェーダのプロパティが渡っていないだけの話に見えたが、実際の原因は別のところにあった。\n\n\n 症状\nSDFPanel というカスタム VisualElement を作った。UI Toolkit と...",
+          "link": "https://zenn.dev/hsl/articles/34de55362c1b02",
+          "publishedOn": "2026-06-01T06:45:23.000Z",
+          "wordCount": 1359,
+          "title": "UI BuilderのPreviewが黙って無視するカスタムシェーダ — `style` vs `resolvedStyle`",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--7Cz5wNwH--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:UI%2520Builder%25E3%2581%25AEPreview%25E3%2581%258C%25E9%25BB%2599%25E3%2581%25A3%25E3%2581%25A6%25E7%2584%25A1%25E8%25A6%2596%25E3%2581%2599%25E3%2582%258B%25E3%2582%25AB%25E3%2582%25B9%25E3%2582%25BF%25E3%2583%25A0%25E3%2582%25B7%25E3%2582%25A7%25E3%2583%25BC%25E3%2583%2580%2520%25E2%2580%2594%2520%2560style%2560%2520vs%2520%2560resolved...%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Hot%2520Spud%2520Lab%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzc1ZWM0NzY5NDQuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiGT",
+            "length": "0",
+            "type": "false"
+          },
+          "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--7Cz5wNwH--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:UI%2520Builder%25E3%2581%25AEPreview%25E3%2581%258C%25E9%25BB%2599%25E3%2581%25A3%25E3%2581%25A6%25E7%2584%25A1%25E8%25A6%2596%25E3%2581%2599%25E3%2582%258B%25E3%2582%25AB%25E3%2582%25B9%25E3%2582%25BF%25E3%2583%25A0%25E3%2582%25B7%25E3%2582%25A7%25E3%2583%25BC%25E3%2583%2580%2520%25E2%2580%2594%2520%2560style%2560%2520vs%2520%2560resolved...%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Hot%2520Spud%2520Lab%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzc1ZWM0NzY5NDQuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiGT"
+        },
         {
           "id": "https://zenn.dev/zn_ryg12/articles/shader-note-20260524",
           "author": "ryuga.",

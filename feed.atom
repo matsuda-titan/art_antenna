@@ -2,10 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-06-01T02:40:17.088Z</updated>
+    <updated>2026-06-01T08:24:23.007Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[UI BuilderのPreviewが黙って無視するカスタムシェーダ — `style` vs `resolvedStyle`]]></title>
+        <id>https://zenn.dev/hsl/articles/34de55362c1b02</id>
+        <link href="https://zenn.dev/hsl/articles/34de55362c1b02"/>
+        <updated>2026-06-01T06:45:23.000Z</updated>
+        <summary type="html"><![CDATA[環境
+Unity 6000.4 / UI Toolkit / UI Shader Graph
+
+自作の VisualElement に UI Shader Graph をマテリアルとして割り当て、UI Builder のインスペクタからパラメータをいじると、Preview に全然反映されない。
+Play モードでは動く。ランタイムでは問題ないのに、UI Builder だけ死んでいる。一見、シェーダのプロパティが渡っていないだけの話に見えたが、実際の原因は別のところにあった。
+
+
+ 症状
+SDFPanel というカスタム VisualElement を作った。UI Toolkit と...]]></summary>
+        <author>
+            <name>Hot Spud Lab</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[毒舌テディベアの人気コメディが再び帰ってくる。『テッド ザ・シリーズ2』の VFXブレイクダウン映像]]></title>
+        <id>https://3dtotal.jp/?p=55650</id>
+        <link href="https://3dtotal.jp/news/55650/"/>
+        <updated>2026-06-01T05:06:36.000Z</updated>
+        <summary type="html"><![CDATA[★Ted Season 2 VFX Breakdown | Framestore（2分43秒） ふんわりと探ってみよう。『テッド ザ・シリーズ2』では、Framestore が セス・マクファーレン と再びタッグを組み、 […]
+The post 毒舌テディベアの人気コメディが再び帰ってくる。『テッド ザ・シリーズ2』の VFXブレイクダウン映像 first appeared on 3dtotal 日本語オフィシャルサイト.]]></summary>
+        <author>
+            <name>3dtotal管理人T</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SFホラードラマ『ストレンジャー・シングス 未知の世界 5』の VFXメイキング映像]]></title>
+        <id>https://3dtotal.jp/?p=55151</id>
+        <link href="https://3dtotal.jp/news/55151/"/>
+        <updated>2026-06-01T04:30:16.000Z</updated>
+        <summary type="html"><![CDATA[★Behind The Magic | Stranger Things Season 5（2分2秒） 『ストレンジャー・シングス 未知の世界 5』より「アップサイドダウン (逆さま)」制作の舞台裏、ILM の魔法に迫りま […]
+The post SFホラードラマ『ストレンジャー・シングス 未知の世界 5』の VFXメイキング映像 first appeared on 3dtotal 日本語オフィシャルサイト.]]></summary>
+        <author>
+            <name>3dtotal管理人T</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【無料アドオン】Blender Pixel Kit – ピクセルアートに簡単変換！]]></title>
+        <id>https://cgbox.jp/?p=65364</id>
+        <link href="https://cgbox.jp/2026/06/01/news-addon-blender-pixel-kit/"/>
+        <updated>2026-06-01T03:40:34.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは！ 今回はアドオンの「Blender Pixel Kit」を紹介します。 こちらのリンクがアドオンの商品ページになります。 Blender Pixel Kit 「Blender Pixel Kit」は、Blen […]]]></summary>
+        <author>
+            <name>kasahara</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Blenderですぐ使用できるブラウザベースのリアルタイムパーティクルシミュレーター「Flux Particle Studio」]]></title>
         <id>https://cginterest.com/?p=59390</id>

@@ -1550,16 +1550,6 @@
           "wordCount": 844,
           "title": "NVIDIA、物理シミュレーション対応の3D環境構築フレームワーク「Lyra 2.0」公開　長時間のウォークスルー動画生成と高品質な3Dシーン出力で大規模な環境構築を実現 - ニュース",
           "imageUrl": "https://cgworld.jp/flashnews/assets_c/2026/05/Lyra-01-thumb-1920x1080-83198.jpg"
-        },
-        {
-          "id": "https://cgworld.jp/flashnews/01-202605-Spark20.html",
-          "author": null,
-          "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
-          "link": "https://cgworld.jp/flashnews/01-202605-Spark20.html",
-          "publishedOn": "2026-05-03T23:56:48.000Z",
-          "wordCount": 1113,
-          "title": "World Labs、Web向け3DGSストリーミングLoDシステム「Spark 2.0」リリース　Three.jsを基盤に構築、オープンソース - ニュース",
-          "imageUrl": "https://cgworld.jp/flashnews/assets_c/2026/05/Spark2-01-thumb-1920x1080-83182.jpg"
         }
       ]
     },
@@ -1608,6 +1598,16 @@
       "feedUrl": "https://modelinghappy.com/feed",
       "siteUrl": "https://modelinghappy.com",
       "articles": [
+        {
+          "id": "https://modelinghappy.com/?p=68899",
+          "author": "modelinghappy",
+          "description": "SUPER Add-ons Bundle SUPER HIVE(旧Blender Market)が設立12周年を記念して、特に人気のアドオンなどが22品合計930.74ドル分が99ドルになるお得なバンドルパックが販売開始\nThe post Blender向け人気アドオン22本セット！定価930ドル分が99ドルのセール価格で販売開始！ first appeared on 3DCG最新情報サイト MODELING HAPPY.",
+          "link": "https://modelinghappy.com/archives/68899",
+          "publishedOn": "2026-06-02T12:18:53.000Z",
+          "wordCount": 3333,
+          "title": "Blender向け人気アドオン22本セット！定価930ドル分が99ドルのセール価格で販売開始！",
+          "imageUrl": "https://modelinghappy.com/wp-content/uploads/2026/06/20260602_superaddon_bandle_01.jpg"
+        },
         {
           "id": "https://modelinghappy.com/?p=68877",
           "author": "modelinghappy",
@@ -2815,6 +2815,16 @@
       "feedUrl": "https://qiita.com/tags/3dcg/feed",
       "siteUrl": "https://qiita.com",
       "articles": [
+        {
+          "id": "https://qiita.com/big615big615/items/cd051afd14ecc9d61e27",
+          "author": null,
+          "description": "はじめに\nUnityでゲームエフェクトを作っていると、いつも似たようなメッシュを作っていると感じることがあります。MayaやBlenderなどを開いて毎回作成するのは少し面倒です。\nプロジェクトによって使えるツールが違ったり、作業環境によってはすぐ開けなかったりすることも...",
+          "link": "https://qiita.com/big615big615/items/cd051afd14ecc9d61e27",
+          "publishedOn": "2026-06-02T13:56:01.000Z",
+          "wordCount": 936,
+          "title": "【VFX】エフェクト用メッシュはブラウザで作る！ Effect Mesh Generator を作りました",
+          "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnFpaXRhLWltYWdlLXN0b3JlLnMzLmFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkYwJTJGNDQ0MTc1NyUyRnByb2ZpbGUtaW1hZ2VzJTJGMTc4MDQwODQ3Nj9peGxpYj1yYi00LjEuMSZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9YTdmMDc2ODM0ZGZiOTQ5NzA0MmFkNTgxOTE4ZmMyMDM%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D69d0e89054d41b814719a74fab93e7c6?ixlib=rb-4.1.1&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9JUUzJTgwJTkwVkZYJUUzJTgwJTkxJUUzJTgyJUE4JUUzJTgzJTk1JUUzJTgyJUE3JUUzJTgyJUFGJUUzJTgzJTg4JUU3JTk0JUE4JUUzJTgzJUExJUUzJTgzJTgzJUUzJTgyJUI3JUUzJTgzJUE1JUUzJTgxJUFGJUUzJTgzJTk2JUUzJTgzJUE5JUUzJTgyJUE2JUUzJTgyJUI2JUUzJTgxJUE3JUU0JUJEJTlDJUUzJTgyJThCJUVGJUJDJTgxJTIwRWZmZWN0JTIwTWVzaCUyMEdlbmVyYXRvciUyMCVFMyU4MiU5MiVFNCVCRCU5QyVFMyU4MiU4QSVFMyU4MSVCRSVFMyU4MSU5NyVFMyU4MSU5RiZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnR4dC1wYWQ9MCZzPTg3YTUyM2M0ZTM0NzJkODA5MjQzNjI1NmY3YTNkNTky&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBiaWc2MTViaWc2MTUmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz0wYjAxNDY5NjJlYzVjMzZiMGZhZDk3ZTkyZjEzNDg1ZQ&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=269551551d4f96e5af08d4e76e082815"
+        },
         {
           "id": "https://qiita.com/matumu20/items/da48f670efe0e8bc39ee",
           "author": null,

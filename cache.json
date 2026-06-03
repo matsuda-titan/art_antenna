@@ -737,6 +737,16 @@
       "siteUrl": "https://cgworld.jp/",
       "articles": [
         {
+          "id": "https://cgworld.jp/flashnews/02-2606-animation-days.html",
+          "author": null,
+          "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
+          "link": "https://cgworld.jp/flashnews/02-2606-animation-days.html",
+          "publishedOn": "2026-06-03T10:20:00.000Z",
+          "wordCount": 786,
+          "title": "【6/30（火）まで】「Autodesk × CGWORLD Animation Days」オレンジによるアニメ制作メイキングセッション、オンデマンド配信の申込受付を開始 - ニュース",
+          "imageUrl": "https://cgworld.jp/flashnews/assets_c/2026/06/Animation_Days_2080_900-1536x665-thumb-1000x563-84412.png"
+        },
+        {
           "id": "https://cgworld.jp/flashnews/02-2606-open-game-fest.html",
           "author": null,
           "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
@@ -1575,16 +1585,6 @@
           "wordCount": 829,
           "title": "SideFX、HoudiniのCOPチュートリアル「COPius Amounts of Fun」動画公開　Gnomon HIVE 2026におけるNick Scarcella氏の講演 - ニュース",
           "imageUrl": "https://cgworld.jp/flashnews/assets_c/2026/05/HoudiniCOP-01-thumb-1920x1080-83238.jpg"
-        },
-        {
-          "id": "https://cgworld.jp/flashnews/01-202605-Lyra2.html",
-          "author": null,
-          "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
-          "link": "https://cgworld.jp/flashnews/01-202605-Lyra2.html",
-          "publishedOn": "2026-05-05T00:26:13.000Z",
-          "wordCount": 844,
-          "title": "NVIDIA、物理シミュレーション対応の3D環境構築フレームワーク「Lyra 2.0」公開　長時間のウォークスルー動画生成と高品質な3Dシーン出力で大規模な環境構築を実現 - ニュース",
-          "imageUrl": "https://cgworld.jp/flashnews/assets_c/2026/05/Lyra-01-thumb-1920x1080-83198.jpg"
         }
       ]
     },
@@ -2062,26 +2062,6 @@
           "wordCount": 3024,
           "title": "【Maya】インスタンスを自動検出＆一括管理！アウトライナで色分け表示できる無料ツール「Instance Utility」",
           "imageUrl": "https://modelinghappy.com/wp-content/uploads/2026/05/20260505_Instance_Utility.jpg"
-        },
-        {
-          "id": "https://modelinghappy.com/?p=68493",
-          "author": "modelinghappy",
-          "description": "Project Falcon Autodeskが、ブラウザ上で誰でも簡単に3Dモデルを作成できる新しいツール「Project Falcon」を公開しました。 Autodesk Flowをベースに構築されたProject\nThe post Autodeskが無料公開！数千種類のアセットを置くだけで3Dモデルが作れる「Project Falcon」 first appeared on 3DCG最新情報サイト MODELING HAPPY.",
-          "link": "https://modelinghappy.com/archives/68493",
-          "publishedOn": "2026-05-05T00:59:21.000Z",
-          "wordCount": 3047,
-          "title": "Autodeskが無料公開！数千種類のアセットを置くだけで3Dモデルが作れる「Project Falcon」",
-          "imageUrl": "https://modelinghappy.com/wp-content/uploads/2026/05/20260505_project_falcon_01.jpg"
-        },
-        {
-          "id": "https://modelinghappy.com/?p=68486",
-          "author": "modelinghappy",
-          "description": "Snapline Snaplineは、Blenderでモデルの頂点・エッジ・面に対してスナップ用のポイントを可視化し、さらにそのポイントを基準に細かいスナップ位置を簡単に生成できるアドオンです。 通常のスナップでは取りづ\nThe post エッジや面などの中間ポイントも自由に取れる！無料Blender用スナップ強化アドオン「Snapline」 first appeared on 3DCG最新情報サイト MODELING HAPPY.",
-          "link": "https://modelinghappy.com/archives/68486",
-          "publishedOn": "2026-05-05T00:34:27.000Z",
-          "wordCount": 3023,
-          "title": "エッジや面などの中間ポイントも自由に取れる！無料Blender用スナップ強化アドオン「Snapline」",
-          "imageUrl": "https://modelinghappy.com/wp-content/uploads/2026/05/20260505_Snapline.jpg"
         }
       ]
     },
@@ -2518,6 +2498,21 @@
       "siteUrl": "https://zenn.dev/topics/houdini",
       "articles": [
         {
+          "id": "https://zenn.dev/mattya3713/articles/710d8f99998d57",
+          "author": "mattya3713",
+          "description": "※本記事はHoudini入門者が、書籍「理論と実践で学ぶHoudini」に基づいて学習した内容を整理したメモです。\n実際の操作・解釈は筆者の理解に基づいて再構成しているため、表現や解釈に一部簡略化・独自整理を含みます。\n正確性は一切ないのでご注意ください。\n\n 2章 ポイント、頂点、プリミティブ\n\n 1. Point（ポイント）\nポリゴンやカーブを構成する基本単位\nPoint自体は「3D空間上の位置情報」を持つ要素であり\nここにアトリビュート(属性) を追加することで\n法線・色・速度・サイズなどの情報を持たせることができる\n\n 2.Vertex\nプリミティブ（ポリゴンやカーブなど）を構成...",
+          "link": "https://zenn.dev/mattya3713/articles/710d8f99998d57",
+          "publishedOn": "2026-06-03T08:54:00.000Z",
+          "wordCount": 315,
+          "title": "入門者Houdini勉強譚その2",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--Jvqusj70--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E5%2585%25A5%25E9%2596%2580%25E8%2580%2585Houdini%25E5%258B%2589%25E5%25BC%25B7%25E8%25AD%259A%25E3%2581%259D%25E3%2581%25AE2%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:mattya3713%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2ViZGY2ZDk2NTEuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+            "length": "0",
+            "type": "false"
+          },
+          "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--Jvqusj70--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E5%2585%25A5%25E9%2596%2580%25E8%2580%2585Houdini%25E5%258B%2589%25E5%25BC%25B7%25E8%25AD%259A%25E3%2581%259D%25E3%2581%25AE2%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:mattya3713%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2ViZGY2ZDk2NTEuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+        },
+        {
           "id": "https://zenn.dev/mattya3713/articles/65ec2d344acc0d",
           "author": "mattya3713",
           "description": "※本記事はHoudini入門者が、書籍「理論と実践で学ぶHoudini」に基づいて学習した内容を整理したメモです。\n実際の操作・解釈は筆者の理解に基づいて再構成しているため、表現や解釈に一部簡略化・独自整理を含みます。\n正確性は一切ないのでご注意ください。\n\n 1章Houdiniとは\nプロシージャルな制作ができることが強味\n\n 基本の単語\nオペレーター(ノード)をつなげた構造のことをネットワーク\nオペレーターの種類がコンテキストというネットワークでまとまっている\nコンテキストの種類\n\nObjects(OBJ) ：一番でかい概念 ジオメトリ、カメラ、ライトなどのネットワークのまとまり\nGe...",
@@ -2856,6 +2851,16 @@
       "siteUrl": "https://qiita.com",
       "articles": [
         {
+          "id": "https://qiita.com/matumu20/items/436fd39def5d161ad07d",
+          "author": null,
+          "description": "How to Train Your Dragon: Automatic Diffusion-Based Rigging for Characters with Diverse Topologies(Zeqi Gu, 2025)\n\n3行要約\n\n現状の拡散モデルが人型キャラク...",
+          "link": "https://qiita.com/matumu20/items/436fd39def5d161ad07d",
+          "publishedOn": "2026-06-03T09:37:51.000Z",
+          "wordCount": 1100,
+          "title": "How to Train Your Dragon: Automatic Diffusion-Based Rigging for Characters with Diverse Topologies(2025)",
+          "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYyOTgxNjYwJTJGOTViNDExMjY5MmU5NDc5M2U2NTY5ODQ5MzdmM2I4ZjliMmE3MDc2YSUyRmxhcmdlLnBuZyUzRjE2Njg2MDM2MDk_aXhsaWI9cmItNC4xLjEmYXI9MSUzQTEmZml0PWNyb3AmbWFzaz1lbGxpcHNlJmJnPUZGRkZGRiZmbT1wbmczMiZzPWE1ZTgxNGYzYWQ2OTFjZmM4MWVmYjBlODkwMzg4NjNk%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3Db091fc7b27b7f70f9fcc9261423415bf?ixlib=rb-4.1.1&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9SG93JTIwdG8lMjBUcmFpbiUyMFlvdXIlMjBEcmFnb24lM0ElMjBBdXRvbWF0aWMlMjBEaWZmdXNpb24tQmFzZWQlMjBSaWdnaW5nJTIwZm9yJTIwQ2hhcmFjdGVycyUyMHdpdGglMjBEaXZlcnNlJUUyJTgwJUE2JnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9YWE1ZDJhMjBmM2VhZWM4YmVlMjY3NTA4NTc2NTM0NzE&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBtYXR1bXUyMCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPTUwYzYyYzVhMmI4MTU4MWE3ZTg2NGY0YmMyNWRkOGQ3&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=0c17a37003df67c13072e47b3fe98054"
+        },
+        {
           "id": "https://qiita.com/big615big615/items/cd051afd14ecc9d61e27",
           "author": null,
           "description": "はじめに\nUnityでゲームエフェクトを作っていると、いつも似たようなメッシュを作っていると感じることがあります。MayaやBlenderなどを開いて毎回作成するのは少し面倒です。\nプロジェクトによって使えるツールが違ったり、作業環境によってはすぐ開けなかったりすることも...",
@@ -2977,7 +2982,23 @@
       "title": "Zennの「Ray Tracing」のフィード",
       "feedUrl": "https://zenn.dev/topics/raytracing/feed",
       "siteUrl": "https://zenn.dev/topics/raytracing",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://zenn.dev/nogu_d626/articles/da0ee6fd0d941f",
+          "author": "NOGU.D",
+          "description": "はじめに\nリバースプロキシとしての nginx は、ほとんどのトラフィックがそこを通る「観測上の一等地」なのに、ログ以上の計装が長らく面倒だった。サイドカーで envoy を生やしたり、modsecurity の payload からスパンを生成したり…という工夫が必要だった。\nところが 2023 年、nginx 公式が ngx_otel_module（OpenTelemetry の動的モジュール）を Apache 2.0 で公開した。nginx.conf にディレクティブを数行足すだけで、\n\nリクエストごとの span 自動生成\n\n上流から来た traceparent ヘッダの c...",
+          "link": "https://zenn.dev/nogu_d626/articles/da0ee6fd0d941f",
+          "publishedOn": "2026-06-03T11:01:05.000Z",
+          "wordCount": null,
+          "title": "nginx 公式 OTel モジュール (ngx_otel_module) で nginx をトレース計装する",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--WHyQpQja--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:nginx%2520%25E5%2585%25AC%25E5%25BC%258F%2520OTel%2520%25E3%2583%25A2%25E3%2582%25B8%25E3%2583%25A5%25E3%2583%25BC%25E3%2583%25AB%2520%2528ngx_otel_module%2529%2520%25E3%2581%25A7%2520nginx%2520%25E3%2582%2592%25E3%2583%2588%25E3%2583%25AC%25E3%2583%25BC%25E3%2582%25B9%25E8%25A8%2588%25E8%25A3%2585%25E3%2581%2599%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:NOGU.D%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzViYWQ3ZDQzZDcuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+            "length": "0",
+            "type": "false"
+          },
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "3DGraphicsタグが付けられた新着記事 - Qiita",
@@ -4325,16 +4346,6 @@
           "wordCount": 28921,
           "title": "Sketchfabマンスリーピックアップ 2026年5月号",
           "imageUrl": "https://cginterest.com/wp-content/uploads/2026/05/sketchfabmontlypickup2026-5.webp"
-        },
-        {
-          "id": "https://cginterest.com/?p=58552",
-          "author": ".me",
-          "description": "2026年5月5日（現地時間）-  Autodesk は、新しい無料キットバッシュツール「Project Falcon」を公開しました。 Project Falconとは 「Project Falcon」は、パーツを組み […]\nAutodesk、新しいキットバッシングツール「Project Falcon」テックプレビューを無料公開！ first appeared on CGinterest.",
-          "link": "https://cginterest.com/2026/05/05/autodesk%e3%80%81%e6%96%b0%e3%81%97%e3%81%84%e3%82%ad%e3%83%83%e3%83%88%e3%83%90%e3%83%83%e3%82%b7%e3%83%b3%e3%82%b0%e3%83%84%e3%83%bc%e3%83%ab%e3%80%8cproject-falcon%e3%80%8d%e3%83%86%e3%83%83/",
-          "publishedOn": "2026-05-05T01:40:06.000Z",
-          "wordCount": 28993,
-          "title": "Autodesk、新しいキットバッシングツール「Project Falcon」テックプレビューを無料公開！",
-          "imageUrl": "https://cginterest.com/wp-content/uploads/2026/05/autodeskprojectfalcon.webp"
         }
       ]
     }

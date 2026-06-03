@@ -2,10 +2,73 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-06-03T08:04:53.841Z</updated>
+    <updated>2026-06-03T16:15:08.806Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[nginx 公式 OTel モジュール (ngx_otel_module) で nginx をトレース計装する]]></title>
+        <id>https://zenn.dev/nogu_d626/articles/da0ee6fd0d941f</id>
+        <link href="https://zenn.dev/nogu_d626/articles/da0ee6fd0d941f"/>
+        <updated>2026-06-03T11:01:05.000Z</updated>
+        <summary type="html"><![CDATA[はじめに
+リバースプロキシとしての nginx は、ほとんどのトラフィックがそこを通る「観測上の一等地」なのに、ログ以上の計装が長らく面倒だった。サイドカーで envoy を生やしたり、modsecurity の payload からスパンを生成したり…という工夫が必要だった。
+ところが 2023 年、nginx 公式が ngx_otel_module（OpenTelemetry の動的モジュール）を Apache 2.0 で公開した。nginx.conf にディレクティブを数行足すだけで、
+
+リクエストごとの span 自動生成
+
+上流から来た traceparent ヘッダの c...]]></summary>
+        <author>
+            <name>NOGU.D</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【6/30（火）まで】「Autodesk × CGWORLD Animation Days」オレンジによるアニメ制作メイキングセッション、オンデマンド配信の申込受付を開始 - ニュース]]></title>
+        <id>https://cgworld.jp/flashnews/02-2606-animation-days.html</id>
+        <link href="https://cgworld.jp/flashnews/02-2606-animation-days.html"/>
+        <updated>2026-06-03T10:20:00.000Z</updated>
+        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Train Your Dragon: Automatic Diffusion-Based Rigging for Characters with Diverse Topologies(2025)]]></title>
+        <id>https://qiita.com/matumu20/items/436fd39def5d161ad07d</id>
+        <link href="https://qiita.com/matumu20/items/436fd39def5d161ad07d"/>
+        <updated>2026-06-03T09:37:51.000Z</updated>
+        <summary type="html"><![CDATA[How to Train Your Dragon: Automatic Diffusion-Based Rigging for Characters with Diverse Topologies(Zeqi Gu, 2025)
+
+3行要約
+
+現状の拡散モデルが人型キャラク...]]></summary>
+        <author>
+            <name>3DCGタグが付けられた新着記事 - Qiita</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[入門者Houdini勉強譚その2]]></title>
+        <id>https://zenn.dev/mattya3713/articles/710d8f99998d57</id>
+        <link href="https://zenn.dev/mattya3713/articles/710d8f99998d57"/>
+        <updated>2026-06-03T08:54:00.000Z</updated>
+        <summary type="html"><![CDATA[※本記事はHoudini入門者が、書籍「理論と実践で学ぶHoudini」に基づいて学習した内容を整理したメモです。
+実際の操作・解釈は筆者の理解に基づいて再構成しているため、表現や解釈に一部簡略化・独自整理を含みます。
+正確性は一切ないのでご注意ください。
+
+ 2章 ポイント、頂点、プリミティブ
+
+ 1. Point（ポイント）
+ポリゴンやカーブを構成する基本単位
+Point自体は「3D空間上の位置情報」を持つ要素であり
+ここにアトリビュート(属性) を追加することで
+法線・色・速度・サイズなどの情報を持たせることができる
+
+ 2.Vertex
+プリミティブ（ポリゴンやカーブなど）を構成...]]></summary>
+        <author>
+            <name>mattya3713</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[デジタルバトルアクション。映画『トロン：アレス』の VFXメイキング映像]]></title>
         <id>https://3dtotal.jp/?p=55690</id>
@@ -4500,49 +4563,6 @@ painterで新規塗りつぶしレイヤー追加
 The post 3Dキャプチャ用 写真測量ソフト Substance 3D Sampler 6.0 の機能紹介ムービー first appeared on 3dtotal 日本語オフィシャルサイト.]]></summary>
         <author>
             <name>3dtotal管理人T</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Autodesk、新しいキットバッシングツール「Project Falcon」テックプレビューを無料公開！]]></title>
-        <id>https://cginterest.com/?p=58552</id>
-        <link href="https://cginterest.com/2026/05/05/autodesk%e3%80%81%e6%96%b0%e3%81%97%e3%81%84%e3%82%ad%e3%83%83%e3%83%88%e3%83%90%e3%83%83%e3%82%b7%e3%83%b3%e3%82%b0%e3%83%84%e3%83%bc%e3%83%ab%e3%80%8cproject-falcon%e3%80%8d%e3%83%86%e3%83%83/"/>
-        <updated>2026-05-05T01:40:06.000Z</updated>
-        <summary type="html"><![CDATA[2026年5月5日（現地時間）-  Autodesk は、新しい無料キットバッシュツール「Project Falcon」を公開しました。 Project Falconとは 「Project Falcon」は、パーツを組み […]
-Autodesk、新しいキットバッシングツール「Project Falcon」テックプレビューを無料公開！ first appeared on CGinterest.]]></summary>
-        <author>
-            <name>.me</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Autodeskが無料公開！数千種類のアセットを置くだけで3Dモデルが作れる「Project Falcon」]]></title>
-        <id>https://modelinghappy.com/?p=68493</id>
-        <link href="https://modelinghappy.com/archives/68493"/>
-        <updated>2026-05-05T00:59:21.000Z</updated>
-        <summary type="html"><![CDATA[Project Falcon Autodeskが、ブラウザ上で誰でも簡単に3Dモデルを作成できる新しいツール「Project Falcon」を公開しました。 Autodesk Flowをベースに構築されたProject
-The post Autodeskが無料公開！数千種類のアセットを置くだけで3Dモデルが作れる「Project Falcon」 first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
-        <author>
-            <name>modelinghappy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[エッジや面などの中間ポイントも自由に取れる！無料Blender用スナップ強化アドオン「Snapline」]]></title>
-        <id>https://modelinghappy.com/?p=68486</id>
-        <link href="https://modelinghappy.com/archives/68486"/>
-        <updated>2026-05-05T00:34:27.000Z</updated>
-        <summary type="html"><![CDATA[Snapline Snaplineは、Blenderでモデルの頂点・エッジ・面に対してスナップ用のポイントを可視化し、さらにそのポイントを基準に細かいスナップ位置を簡単に生成できるアドオンです。 通常のスナップでは取りづ
-The post エッジや面などの中間ポイントも自由に取れる！無料Blender用スナップ強化アドオン「Snapline」 first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
-        <author>
-            <name>modelinghappy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NVIDIA、物理シミュレーション対応の3D環境構築フレームワーク「Lyra 2.0」公開　長時間のウォークスルー動画生成と高品質な3Dシーン出力で大規模な環境構築を実現 - ニュース]]></title>
-        <id>https://cgworld.jp/flashnews/01-202605-Lyra2.html</id>
-        <link href="https://cgworld.jp/flashnews/01-202605-Lyra2.html"/>
-        <updated>2026-05-05T00:26:13.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
         </author>
     </entry>
 </feed>

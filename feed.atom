@@ -2,10 +2,182 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-06-03T02:45:25.309Z</updated>
+    <updated>2026-06-03T08:04:53.841Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[デジタルバトルアクション。映画『トロン：アレス』の VFXメイキング映像]]></title>
+        <id>https://3dtotal.jp/?p=55690</id>
+        <link href="https://3dtotal.jp/news/55690/"/>
+        <updated>2026-06-03T06:54:08.000Z</updated>
+        <summary type="html"><![CDATA[★Tron: Ares | Breakdown Reel（1分17秒/ 制作：Image Engine） このVFXブレイクダウンリールで制作の舞台裏をチェック、Image Engine が 映画『トロン：アレス』におい […]
+The post デジタルバトルアクション。映画『トロン：アレス』の VFXメイキング映像 first appeared on 3dtotal 日本語オフィシャルサイト.]]></summary>
+        <author>
+            <name>3dtotal管理人T</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Marvelous Designer 使用、パーカーの作り方]]></title>
+        <id>https://3dtotal.jp/?p=55687</id>
+        <link href="https://3dtotal.jp/tutorials/55687/"/>
+        <updated>2026-06-03T06:46:53.000Z</updated>
+        <summary type="html"><![CDATA[★Marvelous Designer： パーカーの作り方（14分45秒） 定番のストリートパーカーを作る方法、お教えします ・ベースパターンをダウンロード ・シルエット調整も簡単 ・実務にも応用できる制作手順 ・複雑・ […]
+The post Marvelous Designer 使用、パーカーの作り方 first appeared on 3dtotal 日本語オフィシャルサイト.]]></summary>
+        <author>
+            <name>3dtotal管理人T</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【期間限定無料】2026年6月16日までの FAB 無料コンテンツをチェック！]]></title>
+        <id>https://cginterest.com/?p=59480</id>
+        <link href="https://cginterest.com/2026/06/03/%e3%80%90%e6%9c%9f%e9%96%93%e9%99%90%e5%ae%9a%e7%84%a1%e6%96%99%e3%80%912026%e5%b9%b46%e6%9c%8816%e6%97%a5%e3%81%be%e3%81%a7%e3%81%ae-fab-%e7%84%a1%e6%96%99%e3%82%b3%e3%83%b3%e3%83%86%e3%83%b3/"/>
+        <updated>2026-06-03T06:33:44.000Z</updated>
+        <summary type="html"><![CDATA[期間限定で無料となっているEpicのマーケットプレイスFABの無料コンテンツの紹介です。 Epic Games の統合マーケットプレイスFABでは、クリエイターとのパートナーシップによって、2週間ごとに選ばれたコンテンツ […]
+【期間限定無料】2026年6月16日までの FAB 無料コンテンツをチェック！ first appeared on CGinterest.]]></summary>
+        <author>
+            <name>.me</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ステンシルバッファを用いたシェーダー実装（Unity6, URP）]]></title>
+        <id>https://zenn.dev/daikichi228/articles/5781dc6084bdfa</id>
+        <link href="https://zenn.dev/daikichi228/articles/5781dc6084bdfa"/>
+        <updated>2026-06-03T06:11:07.000Z</updated>
+        <summary type="html"><![CDATA[ステンシルバッファーとは
+
+ピクセル単位で描画を制限するためのマスク機能
+基本的な仕組みは以下の2ステップ
+
+ステップ1：値の書き込み
+
+ステンシルバッファーに特定の数字を書き込む
+
+
+
+
+
+Stencil
+{
+    Ref 1          // 参照値
+    Comp Always    // 比較関数
+    Pass Replace   // ステンシル操作
+}
+
+
+
+ステップ2：値のテスト
+
+「ステンシルバッファーの値が（ステップ1で設定した値）の場所だけ描画してね」のように命令を出すことができ、その範囲のみ描画することが可能
+
+
+
+
+
+Stencil
+{
+    ...]]></summary>
+        <author>
+            <name>ダイキチ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ステンシルバッファを用いたシェーダー実装（Unity6, URP）]]></title>
+        <id>https://zenn.dev/daikichi228/articles/5781dc6084bdfa</id>
+        <link href="https://zenn.dev/daikichi228/articles/5781dc6084bdfa"/>
+        <updated>2026-06-03T06:11:07.000Z</updated>
+        <summary type="html"><![CDATA[ステンシルバッファーとは
+
+ピクセル単位で描画を制限するためのマスク機能
+基本的な仕組みは以下の2ステップ
+
+ステップ1：値の書き込み
+
+ステンシルバッファーに特定の数字を書き込む
+
+
+
+
+
+Stencil
+{
+    Ref 1          // 参照値
+    Comp Always    // 比較関数
+    Pass Replace   // ステンシル操作
+}
+
+
+
+ステップ2：値のテスト
+
+「ステンシルバッファーの値が（ステップ1で設定した値）の場所だけ描画してね」のように命令を出すことができ、その範囲のみ描画することが可能
+
+
+
+
+
+Stencil
+{
+    ...]]></summary>
+        <author>
+            <name>ダイキチ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[入門者Houdini勉強譚その1]]></title>
+        <id>https://zenn.dev/mattya3713/articles/65ec2d344acc0d</id>
+        <link href="https://zenn.dev/mattya3713/articles/65ec2d344acc0d"/>
+        <updated>2026-06-03T05:49:47.000Z</updated>
+        <summary type="html"><![CDATA[※本記事はHoudini入門者が、書籍「理論と実践で学ぶHoudini」に基づいて学習した内容を整理したメモです。
+実際の操作・解釈は筆者の理解に基づいて再構成しているため、表現や解釈に一部簡略化・独自整理を含みます。
+正確性は一切ないのでご注意ください。
+
+ 1章Houdiniとは
+プロシージャルな制作ができることが強味
+
+ 基本の単語
+オペレーター(ノード)をつなげた構造のことをネットワーク
+オペレーターの種類がコンテキストというネットワークでまとまっている
+コンテキストの種類
+
+Objects(OBJ) ：一番でかい概念 ジオメトリ、カメラ、ライトなどのネットワークのまとまり
+Ge...]]></summary>
+        <author>
+            <name>mattya3713</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Substance Designer / グローや粒子に使うテクスチャ]]></title>
+        <id>https://note.com/efeozi/n/n1a5db59d9615</id>
+        <link href="https://note.com/efeozi/n/n1a5db59d9615"/>
+        <updated>2026-06-03T04:51:31.000Z</updated>
+        <summary type="html"><![CDATA[続きをみる]]></summary>
+        <author>
+            <name>#SubstanceDesignerタグ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【アセット紹介】Escalator – エスカレーターを簡単作成！]]></title>
+        <id>https://cgbox.jp/?p=65374</id>
+        <link href="https://cgbox.jp/2026/06/03/news-addon-escalator/"/>
+        <updated>2026-06-03T03:32:02.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは！ 今回はアドオンの「Escalator」を紹介します。 こちらのリンクがアドオンの商品ページになります。 Escalator 「Escalator」は、Geometry Nodesだけで作られた、完全プロシー […]]]></summary>
+        <author>
+            <name>kasahara</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【Substance Painter】Heightにぼかしやベベルを入れた時に気をつけたいこと]]></title>
+        <id>https://3d.crdg.jp/env/?p=9431</id>
+        <link href="https://3d.crdg.jp/env/2026/06/03/9431/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=%25e3%2580%2590substance-painter%25e3%2580%2591height%25e3%2581%25ab%25e3%2581%25bc%25e3%2581%258b%25e3%2581%2597%25e3%2582%2584%25e3%2583%2599%25e3%2583%2599%25e3%2583%25ab%25e3%2582%2592%25e5%2585%25a5%25e3%2582%258c%25e3%2581%259f%25e6%2599%2582%25e3%2581%25ab%25e6%25b0%2597%25e3%2582%2592%25e3%2581%25a4"/>
+        <updated>2026-06-03T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[以前、「【Substance Painter】Heightをより強く見せるコツ」という記事を書いたんですが、ぼかしやベベルを追加したHeightにカラ […]
+続きを読む
+投稿 【Substance Painter】Heightにぼかしやベベルを入れた時に気をつけたいこと は エンホリ - ENVIRONMENT HOLIC｜C&R Creative Studios に最初に表示されました。]]></summary>
+        <author>
+            <name>Kaho.Nobukawa</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ゲーム開発者、ゲーム業界を目指す学生向けイベント「OPEN GAME FEST」が7/11（土）京都で開催決定 - ニュース]]></title>
         <id>https://cgworld.jp/flashnews/02-2606-open-game-fest.html</id>
@@ -14,6 +186,17 @@
         <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
         <author>
             <name>CGWORLD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[画像1枚から3Dガウシアンスプラットを生成できる「TripoSplat」がオープンソースで登場]]></title>
+        <id>https://cginterest.com/?p=59465</id>
+        <link href="https://cginterest.com/2026/06/03/%e7%94%bb%e5%83%8f1%e6%9e%9a%e3%81%8b%e3%82%893d%e3%82%ac%e3%82%a6%e3%82%b7%e3%82%a2%e3%83%b3%e3%82%b9%e3%83%97%e3%83%a9%e3%83%83%e3%83%88%e3%82%92%e7%94%9f%e6%88%90%e3%81%a7%e3%81%8d%e3%82%8b/"/>
+        <updated>2026-06-02T23:39:00.000Z</updated>
+        <summary type="html"><![CDATA[2026年6月2日（現地時間）、オープンソースの3D生成モデル「TripoSplat」が公開され、ComfyUIで利用可能になりました。 TripoSplatとは Tripoが開発したTripoSplatは、1枚の2D画 […]
+画像1枚から3Dガウシアンスプラットを生成できる「TripoSplat」がオープンソースで登場 first appeared on CGinterest.]]></summary>
+        <author>
+            <name>.me</name>
         </author>
     </entry>
     <entry>
@@ -4360,92 +4543,6 @@ The post エッジや面などの中間ポイントも自由に取れる！無�
         <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
         <author>
             <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Unityキャラルック検証: 軽量SSS/髪の異方性反射/肌Bloomメモ]]></title>
-        <id>https://zenn.dev/toshikun/articles/unity-lightweight-sss-hair-anisotropy-memo</id>
-        <link href="https://zenn.dev/toshikun/articles/unity-lightweight-sss-hair-anisotropy-memo"/>
-        <updated>2026-05-04T19:01:26.000Z</updated>
-        <summary type="html"><![CDATA[バーチャルライブ制作メモ総目次 に戻る。
-ライブ照明の中でキャラを見せるとき、肌や髪は通常のToon影だけだと固く見えやすいです。
-軽量SSS、キャラBloom、髪の異方性反射、逆光時のグラデーションを分けて見ると、セル画っぽさとライブ照明の間を調整しやすくなります。
-実践リポジトリはVLiveKit系として整理中です。軽量SSSと髪反射は、キャラシェーダの追加要素として整理したいです。
-
- この記事の持ち帰り: 肌は影の境界、髪は方向性のある反射を見る
-
-軽量SSSは、多灯時にどこが影になるかを近似して、肌にじわっとしたグラデーションを足す方向で見る。
-キャラBloomは、肌やキャラだ...]]></summary>
-        <author>
-            <name>toshi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Unity LEDVisionシェーダ検証: 板ポリ/ShaderGraph/VJ/DMXメモ]]></title>
-        <id>https://zenn.dev/toshikun/articles/unity-ledvision-shadergraph-vj-memo</id>
-        <link href="https://zenn.dev/toshikun/articles/unity-ledvision-shadergraph-vj-memo"/>
-        <updated>2026-05-04T19:01:25.000Z</updated>
-        <summary type="html"><![CDATA[バーチャルライブ制作メモ総目次 に戻る。
-ライブっぽい背景をUnityで作るとき、LEDは「映像を貼る板」だけで済ませると軽く見えやすいです。
-LEDVisionシェーダは、板ポリに映像を出すだけではなく、ベゼル、ノーマル、テクスチャ、モザイク、ライトの当たり方まで含めてLEDっぽく見せるための検証として整理しています。
-実践リポジトリはVLiveKit系として整理中です。LEDVisionまわりは、既存の公開リポジトリとVLiveKit側の整理中リポジトリがあります。
-
- この記事の持ち帰り: LEDは映像ソースより、面の厚みと光の受け方を見る
-
-板ポリでも、ベゼル、ノーマル、テクスチ...]]></summary>
-        <author>
-            <name>toshi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HDRP Toonで顔の影と髪影を調整する: Custom Light/HairShadow/Stencilメモ]]></title>
-        <id>https://zenn.dev/toshikun/articles/hdrp-toon-custom-light-hairshadow-memo</id>
-        <link href="https://zenn.dev/toshikun/articles/hdrp-toon-custom-light-hairshadow-memo"/>
-        <updated>2026-05-04T19:01:20.000Z</updated>
-        <summary type="html"><![CDATA[バーチャルライブ制作メモ総目次 に戻る。
-HDRPでToon寄りのキャラルックを扱うとき、通常のライトだけで顔をきれいに見せようとすると詰まりやすいです。
-法線、ライト方向、髪影、Stencil、Custom Passを分けて見ると、顔まわりを調整するための観点が増えます。
-実践リポジトリはVLiveKit系として整理中です。HDRP Toonまわりは、キャラシェーダとCustom Passを分けて整理したいです。
-
- この記事の持ち帰り: 顔はライトだけでなく、影の作り方で守る
-
-法線球面化だけだと、顔がのっぺりすることがある。
-ライト方向制限、レンブラントっぽい影、HairShado...]]></summary>
-        <author>
-            <name>toshi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【アドオン紹介】Light Master Pro –]]></title>
-        <id>https://cgbox.jp/?p=65302</id>
-        <link href="https://cgbox.jp/2026/05/05/news-addon-light-master-pro/"/>
-        <updated>2026-05-04T16:15:54.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは！ 今回はアドオンの「Light Master Pro」を紹介します。 こちらのリンクがアドオンの商品ページになります。 Light Master Pro 「Light Master Pro」は、アーティスティ […]]]></summary>
-        <author>
-            <name>kasahara</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【Houdini】COPで作成したテクスチャーをモデルやUV画面で表示する]]></title>
-        <id>https://zenn.dev/yuzutarou/articles/ea3fe4e50836a0</id>
-        <link href="https://zenn.dev/yuzutarou/articles/ea3fe4e50836a0"/>
-        <updated>2026-05-04T15:11:45.000Z</updated>
-        <summary type="html"><![CDATA[調べたこと
-Copernicsで作成したテクスチャーをモデルやUV画面でプレビューする方法について
-
- Houdiniバージョン
-Houdini Indie 21.0440で確認
-
- モデルにテクスチャを表示する方法について
-モデルにテクスチャを適用した状態を確認する方法についてまとめた。
-今回はCOPで下のようなOUT_Textureノードの見た目をテクスチャとして読み込み表示したいとする。
-
-
- COPPreviewMaterialを使う
-COPで作成したテクスチャをSOP階層でプレビューするのはCOPPreviewMaterialを使うのが無難かも。
-DiffsueやNorma...]]></summary>
-        <author>
-            <name>ゆずたろう</name>
         </author>
     </entry>
 </feed>

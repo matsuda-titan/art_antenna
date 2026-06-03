@@ -2,10 +2,94 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-06-02T16:05:10.694Z</updated>
+    <updated>2026-06-03T02:45:25.309Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ゲーム開発者、ゲーム業界を目指す学生向けイベント「OPEN GAME FEST」が7/11（土）京都で開催決定 - ニュース]]></title>
+        <id>https://cgworld.jp/flashnews/02-2606-open-game-fest.html</id>
+        <link href="https://cgworld.jp/flashnews/02-2606-open-game-fest.html"/>
+        <updated>2026-06-03T00:51:47.000Z</updated>
+        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[フォトグラメトリ数学｜26：SLAMとは何か]]></title>
+        <id>https://zenn.dev/s_hashida/articles/1921578932d0cb</id>
+        <link href="https://zenn.dev/s_hashida/articles/1921578932d0cb"/>
+        <updated>2026-06-02T22:02:05.000Z</updated>
+        <summary type="html"><![CDATA[はじめに
+前回は、
+
+Visual Odometry（VO）
+相対Pose推定
+ドリフト
+SE(3)
+
+について説明しました。
+
+その中で重要だったのが、
+
+VOは局所的なPose推定である
+相対変換を積み重ねている
+そのため誤差が累積する
+
+という点です。
+
+ではここで疑問が出てきます。
+
+なぜVOだけでは位置がズレ続けるのか？
+なぜ長時間の自己位置推定は難しいのか？
+なぜ「過去に見た場所」が重要なのか？
+
+
+そこで登場するのが、
+
+SLAM（Simultaneous Localization and Mapping）
+
+です。
+
+今回は、
+
+SLAMとは何か
+Loop Clos...]]></summary>
+        <author>
+            <name>s_hashida</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[テンセント、3Dモデル生成AI「Pixal3D」発表　ピクセルアラインドにより入力画像に忠実な3D再現を実現 - ニュース]]></title>
+        <id>https://cgworld.jp/flashnews/01-202606-Pixal3D.html</id>
+        <link href="https://cgworld.jp/flashnews/01-202606-Pixal3D.html"/>
+        <updated>2026-06-02T21:52:23.000Z</updated>
+        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AIを使って100日間で3Dモデルを作ってみた | Youtuberのりぃちょ氏が3DCG未経験の状態からAIを活用してオリジナル3Dキャラクターモデルを完成させるまでの記録動画！]]></title>
+        <id>https://3dnchu.com/?p=1065565</id>
+        <link href="https://3dnchu.com/archives/richoruu-ai-3dcgmodel-making/"/>
+        <updated>2026-06-02T17:11:41.000Z</updated>
+        <summary type="html"><![CDATA[Youtuberのりぃちょ氏が、3DCG未経験の状態からAIを活用してオリジナル3Dキャラクターモデルを完成させるまでの記録動画「AIを使って100日間で3Dモデルを作ってみた」を公開し、話題になっていました！]]></summary>
+        <author>
+            <name>Ymt3D -3dnchu-</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[INSYDIUM NeXus for Blender Beta | INSYDIUMによるGPUで高速処理できるパーティクルシミュレーションシステム！Blender対応バージョンの無料ベータ版がリリース！]]></title>
+        <id>https://3dnchu.com/?p=1065551</id>
+        <link href="https://3dnchu.com/archives/insydium-nexus-blender-beta/"/>
+        <updated>2026-06-02T16:47:36.000Z</updated>
+        <summary type="html"><![CDATA[INSYDIUMが長らく情報を小出しにしていたBlender向けパーティクルエフェクトアドオン「NeXus for Blender」のベータ版がリリースされました！]]></summary>
+        <author>
+            <name>Ymt3D -3dnchu-</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【VFX】エフェクト用メッシュはブラウザで作る！ Effect Mesh Generator を作りました]]></title>
         <id>https://qiita.com/big615big615/items/cd051afd14ecc9d61e27</id>
@@ -4362,53 +4446,6 @@ COPで作成したテクスチャをSOP階層でプレビューするのはCOPPr
 DiffsueやNorma...]]></summary>
         <author>
             <name>ゆずたろう</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【Unity】Unity Toon Shader 3（UTS3）のインスペクターに独自パラメーターを追加する方法]]></title>
-        <id>https://qiita.com/ciDaCa/items/1eeadd386fd95ae9f00e</id>
-        <link href="https://qiita.com/ciDaCa/items/1eeadd386fd95ae9f00e"/>
-        <updated>2026-05-04T11:32:03.000Z</updated>
-        <summary type="html"><![CDATA[はじめに
-Unity Toon Shader3 (UTS3) をベースにして独自のシェーダー機能を実装する際、「シェーダーの Properties に変数を追加したのに、マテリアルのインスペクターに表示されない！」とつまずくことが（よく？）あります。
-本記事では、パッケー...]]></summary>
-        <author>
-            <name>Shaderタグが付けられた新着記事 - Qiita</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【Unity】Unity Toon Shader 3（UTS3）のインスペクターに独自パラメーターを追加する方法]]></title>
-        <id>https://qiita.com/ciDaCa/items/1eeadd386fd95ae9f00e</id>
-        <link href="https://qiita.com/ciDaCa/items/1eeadd386fd95ae9f00e"/>
-        <updated>2026-05-04T11:32:03.000Z</updated>
-        <summary type="html"><![CDATA[はじめに
-Unity Toon Shader3 (UTS3) をベースにして独自のシェーダー機能を実装する際、「シェーダーの Properties に変数を追加したのに、マテリアルのインスペクターに表示されない！」とつまずくことが（よく？）あります。
-本記事では、パッケー...]]></summary>
-        <author>
-            <name>HLSLタグが付けられた新着記事 - Qiita</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3DCAD形状をパターンとしてsubstanceで表現/displacementでメッシュ化し、３Dプリントする一連のワークフロー]]></title>
-        <id>https://note.com/sketch_nendo/n/n80fd6281fc93</id>
-        <link href="https://note.com/sketch_nendo/n/n80fd6281fc93"/>
-        <updated>2026-05-04T09:25:54.000Z</updated>
-        <summary type="html"><![CDATA[Grasshopperは便利だが、複雑な複合面にパターンを敷き詰めるのは大変な苦労を伴う。そこで、シミュレーションとしてheight mapを活用する方法があるが、substance 3D painterを使えば、表現にかなり融通が利く。
-Adobe社としては、Designer→3D painterというやり方を推奨しているが、CADが使えるのであれば、CAD→3D painterという手法が最も使いやすく、あなたが元々持っているCAD上での高い表現力をフルに発揮できる。Designerという新しいソフトも覚える必要がない。
-テストとして、前回作成したgrasshopperパターンを使ってみる。substanceは正方形の画像しか使用できないので、正方形の形状に展開したパターンをベイクし、同じく正方形の最小単位パーツを切り出す。（下図参照）
-続きをみる]]></summary>
-        <author>
-            <name>#substancepainterタグ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NTE Character MMD Models | 話題のゲーム『NTE（Neverness to Everness）』のキャラクター3Dモデルが「模之屋 PlayBox」にて無料配布中！MMD（PMX）形式！]]></title>
-        <id>https://3dnchu.com/?p=1064671</id>
-        <link href="https://3dnchu.com/archives/nte-character-mmd-models/"/>
-        <updated>2026-05-04T08:00:17.000Z</updated>
-        <summary type="html"><![CDATA[中国のモデル制作・共有コミュニティ「模之屋 PlayBox」にて、Hotta Studioが開発しリリースした基本プレイ無料の都市型オープンワールドゲーム「NTE（Neverness to Everness）」のキャラクターモデルの配布が開始されました！]]></summary>
-        <author>
-            <name>Ymt3D -3dnchu-</name>
         </author>
     </entry>
 </feed>

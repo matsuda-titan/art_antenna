@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-06-04T10:53:50.973Z</updated>
+    <updated>2026-06-04T14:33:10.009Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Mayaで素体モデルを使ったテクスチャペイントしやすいBlizzard作品風のUV展開方法を学べる解説動画が公開]]></title>
+        <id>https://modelinghappy.com/?p=68932</id>
+        <link href="https://modelinghappy.com/archives/68932"/>
+        <updated>2026-06-04T11:30:02.000Z</updated>
+        <summary type="html"><![CDATA[MR3D-Devさんが、Blizzard作品で見られるようなUV展開手法をMayaを使って解説している動画を公開しています。 Mayaを使ってキャラクターのUVを四角形に近い形へ整えながら配置する手法ですが、腕や脚、胴体
+The post Mayaで素体モデルを使ったテクスチャペイントしやすいBlizzard作品風のUV展開方法を学べる解説動画が公開 first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
+        <author>
+            <name>modelinghappy</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[第4回：アニメーションのコマ落としをしよう - 連載]]></title>
         <id>https://cgworld.jp/regular/202606-est3-04.html</id>
@@ -4546,59 +4557,6 @@ The post Blenderで塗装剥がれ・傷・汚れを1クリック追加出来る
         <summary type="html"><![CDATA[こんばんは！ 今回はアドオンの「Loop Cut Pro」を紹介します。 こちらのリンクがアドオンの商品ページになります。 Loop Cut Pro 「Loop Cut Pro」は、Loop Cut Proは、Blend […]]]></summary>
         <author>
             <name>kasahara</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[同じ Mandelbrot カーネルを CPU と GPU で並べて、`float32` が壊れるところまでズームしてみた]]></title>
-        <id>https://qiita.com/sen-ltd/items/4023524239fdbc332921</id>
-        <link href="https://qiita.com/sen-ltd/items/4023524239fdbc332921"/>
-        <updated>2026-05-06T00:52:20.000Z</updated>
-        <summary type="html"><![CDATA[同じ rendering ループを 2 通りで実装した: メインスレッド上の vanilla JavaScript と、まったく同じループを書いた GLSL fragment shader。浅いズームでは GPU が 30–100 倍速い。だが あるスケールを超えると、G...]]></summary>
-        <author>
-            <name>GLSLタグが付けられた新着記事 - Qiita</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【期間限定無料】2026年5月19日までの FAB 無料コンテンツをチェック！]]></title>
-        <id>https://cginterest.com/?p=58565</id>
-        <link href="https://cginterest.com/2026/05/06/%e3%80%90%e6%9c%9f%e9%96%93%e9%99%90%e5%ae%9a%e7%84%a1%e6%96%99%e3%80%912026%e5%b9%b45%e6%9c%8819%e6%97%a5%e3%81%be%e3%81%a7%e3%81%ae-fab-%e7%84%a1%e6%96%99%e3%82%b3%e3%83%b3%e3%83%86%e3%83%b3/"/>
-        <updated>2026-05-06T00:52:00.000Z</updated>
-        <summary type="html"><![CDATA[期間限定で無料となっているEpicのマーケットプレイスFABの無料コンテンツの紹介です。 Epic Games の統合マーケットプレイスFABでは、クリエイターとのパートナーシップによって、2週間ごとに選ばれたコンテンツ […]
-【期間限定無料】2026年5月19日までの FAB 無料コンテンツをチェック！ first appeared on CGinterest.]]></summary>
-        <author>
-            <name>.me</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sketchfabマンスリーピックアップ 2026年5月号]]></title>
-        <id>https://cginterest.com/?p=58558</id>
-        <link href="https://cginterest.com/2026/05/06/sketchfab%e3%83%9e%e3%83%b3%e3%82%b9%e3%83%aa%e3%83%bc%e3%83%94%e3%83%83%e3%82%af%e3%82%a2%e3%83%83%e3%83%97-2026%e5%b9%b45%e6%9c%88%e5%8f%b7/"/>
-        <updated>2026-05-06T00:30:00.000Z</updated>
-        <summary type="html"><![CDATA[先月Sketchfabに投稿されたモデルを勝手にピックアップ(2026年5月5日調べ) するコーナーです。人気のある3Dモデルを中心に独断と偏見で選んでおります！ 通常のピックアップとは別に、無料でダウンロードできる3D […]
-Sketchfabマンスリーピックアップ 2026年5月号 first appeared on CGinterest.]]></summary>
-        <author>
-            <name>.me</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Blenderの通常ループカットを大幅時短出来るアドオン「Loop Cut Pro」]]></title>
-        <id>https://modelinghappy.com/?p=68523</id>
-        <link href="https://modelinghappy.com/archives/68523"/>
-        <updated>2026-05-06T00:11:37.000Z</updated>
-        <summary type="html"><![CDATA[Loop Cut Pro Loop Cut Proは、Blenderで通常のループカットよりも少ない操作で、マウスカーソル位置に直接ループカットを追加できるアドオンです。 実際に使っている動画では、ガタガタしているカーブ
-The post Blenderの通常ループカットを大幅時短出来るアドオン「Loop Cut Pro」 first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
-        <author>
-            <name>modelinghappy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SideFX、HoudiniのCOPチュートリアル「COPius Amounts of Fun」動画公開　Gnomon HIVE 2026におけるNick Scarcella氏の講演 - ニュース]]></title>
-        <id>https://cgworld.jp/flashnews/01-202605-HoudiniCOPius.html</id>
-        <link href="https://cgworld.jp/flashnews/01-202605-HoudiniCOPius.html"/>
-        <updated>2026-05-05T23:38:50.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
         </author>
     </entry>
 </feed>

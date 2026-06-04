@@ -1630,16 +1630,6 @@
           "wordCount": 754,
           "title": "デジタル・フロンティア、Netflix『今際の国のアリス』シーズン3のインタビュー企画5編をnoteで公開　若手クリエイター陣が語るVFX制作の裏側  - ニュース",
           "imageUrl": "https://cgworld.jp/flashnews/assets_c/2026/05/DF_Imawa-01-thumb-1920x1080-83275.jpg"
-        },
-        {
-          "id": "https://cgworld.jp/flashnews/01-202605-HoudiniCOPius.html",
-          "author": null,
-          "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
-          "link": "https://cgworld.jp/flashnews/01-202605-HoudiniCOPius.html",
-          "publishedOn": "2026-05-05T23:38:50.000Z",
-          "wordCount": 829,
-          "title": "SideFX、HoudiniのCOPチュートリアル「COPius Amounts of Fun」動画公開　Gnomon HIVE 2026におけるNick Scarcella氏の講演 - ニュース",
-          "imageUrl": "https://cgworld.jp/flashnews/assets_c/2026/05/HoudiniCOP-01-thumb-1920x1080-83238.jpg"
         }
       ]
     },
@@ -1688,6 +1678,16 @@
       "feedUrl": "https://modelinghappy.com/feed",
       "siteUrl": "https://modelinghappy.com",
       "articles": [
+        {
+          "id": "https://modelinghappy.com/?p=68932",
+          "author": "modelinghappy",
+          "description": "MR3D-Devさんが、Blizzard作品で見られるようなUV展開手法をMayaを使って解説している動画を公開しています。 Mayaを使ってキャラクターのUVを四角形に近い形へ整えながら配置する手法ですが、腕や脚、胴体\nThe post Mayaで素体モデルを使ったテクスチャペイントしやすいBlizzard作品風のUV展開方法を学べる解説動画が公開 first appeared on 3DCG最新情報サイト MODELING HAPPY.",
+          "link": "https://modelinghappy.com/archives/68932",
+          "publishedOn": "2026-06-04T11:30:02.000Z",
+          "wordCount": 3034,
+          "title": "Mayaで素体モデルを使ったテクスチャペイントしやすいBlizzard作品風のUV展開方法を学べる解説動画が公開",
+          "imageUrl": "https://modelinghappy.com/wp-content/uploads/2026/06/20260604_UV_01.jpg"
+        },
         {
           "id": "https://modelinghappy.com/?p=68929",
           "author": "modelinghappy",
@@ -2097,16 +2097,6 @@
           "wordCount": 4422,
           "title": "Blenderで塗装剥がれ・傷・汚れを1クリック追加出来る無料アドオン「Edge Wear」",
           "imageUrl": "https://modelinghappy.com/wp-content/uploads/2026/05/20260506_edge_wear_01.jpg"
-        },
-        {
-          "id": "https://modelinghappy.com/?p=68523",
-          "author": "modelinghappy",
-          "description": "Loop Cut Pro Loop Cut Proは、Blenderで通常のループカットよりも少ない操作で、マウスカーソル位置に直接ループカットを追加できるアドオンです。 実際に使っている動画では、ガタガタしているカーブ\nThe post Blenderの通常ループカットを大幅時短出来るアドオン「Loop Cut Pro」 first appeared on 3DCG最新情報サイト MODELING HAPPY.",
-          "link": "https://modelinghappy.com/archives/68523",
-          "publishedOn": "2026-05-06T00:11:37.000Z",
-          "wordCount": 3044,
-          "title": "Blenderの通常ループカットを大幅時短出来るアドオン「Loop Cut Pro」",
-          "imageUrl": "https://modelinghappy.com/wp-content/uploads/2026/05/20260506_loopcutpro.jpg"
         }
       ]
     },
@@ -3152,16 +3142,6 @@
           "wordCount": 3098,
           "title": "ブラウザで GLSL ライブエディタを書いた — WebGL の初期化 + コンパイルエラーを行番号付きで拾う + シェーダを URL hash で共有する話",
           "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkY0NDExNzkxJTJGYTZhNGM1MTg4NWFhYjAxNTEzNmVkNTdkN2M0NmE5Zjc1ZjVlOTZkOSUyRnhfbGFyZ2UucG5nJTNGMTc3NjczMzQ3NT9peGxpYj1yYi00LjEuMSZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9Nzc3MWU1MWU2MGQwMzRiNjNhNjYxYzU4YThjZjQxYmU%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D727b69a972dc22e163e1071a06edc069?ixlib=rb-4.1.1&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9JUUzJTgzJTk2JUUzJTgzJUE5JUUzJTgyJUE2JUUzJTgyJUI2JUUzJTgxJUE3JTIwR0xTTCUyMCVFMyU4MyVBOSVFMyU4MiVBNCVFMyU4MyU5NiVFMyU4MiVBOCVFMyU4MyU4NyVFMyU4MiVBMyVFMyU4MiVCRiVFMyU4MiU5MiVFNiU5QiVCOCVFMyU4MSU4NCVFMyU4MSU5RiUyMCVFMiU4MCU5NCUyMFdlYkdMJTIwJUUzJTgxJUFFJUU1JTg4JTlEJUU2JTlDJTlGJUU1JThDJTk2JTIwJTJCJTIwJUUzJTgyJUIzJUUzJTgzJUIzJUUzJTgzJTkxJUUzJTgyJUE0JUUzJTgzJUFCJUUzJTgyJUE4JUUzJTgzJUE5JUUzJTgzJUJDJUUzJTgyJTkyJUU4JUExJThDJUU3JTk1JUFBJUU1JThGJUI3JUU0JUJCJTk4JUUzJTgxJThEJUUzJTgxJUE3JUU2JThCJUJFJUUzJTgxJTg2JTIwJUUyJTgwJUE2JnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9YzIxODBiNTE2NDE4YTgyMmY2Y2NmMWQ5MDkxOGIwZTE&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBzZW4tbHRkJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9ZmEzOGM4NjQxNzUzYzUyYTYwMjJjM2NjMzY3NjAxMDA&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=fdef9a753c87a653ddcfccc3fdbeb12c"
-        },
-        {
-          "id": "https://qiita.com/sen-ltd/items/4023524239fdbc332921",
-          "author": null,
-          "description": "同じ rendering ループを 2 通りで実装した: メインスレッド上の vanilla JavaScript と、まったく同じループを書いた GLSL fragment shader。浅いズームでは GPU が 30–100 倍速い。だが あるスケールを超えると、G...",
-          "link": "https://qiita.com/sen-ltd/items/4023524239fdbc332921",
-          "publishedOn": "2026-05-06T00:52:20.000Z",
-          "wordCount": 2184,
-          "title": "同じ Mandelbrot カーネルを CPU と GPU で並べて、`float32` が壊れるところまでズームしてみた",
-          "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkY0NDExNzkxJTJGYTZhNGM1MTg4NWFhYjAxNTEzNmVkNTdkN2M0NmE5Zjc1ZjVlOTZkOSUyRnhfbGFyZ2UucG5nJTNGMTc3NjczMzQ3NT9peGxpYj1yYi00LjAuMCZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9MTFhY2Q0MmIzMzk2MjAzZTQ5ZjMwMzMwNTlkNDc4MzI%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D59dd8e86f63e34196a452305d90aca93?ixlib=rb-4.0.0&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9JUU1JTkwJThDJUUzJTgxJTk4JTIwTWFuZGVsYnJvdCUyMCVFMyU4MiVBQiVFMyU4MyVCQyVFMyU4MyU4RCVFMyU4MyVBQiVFMyU4MiU5MiUyMENQVSUyMCVFMyU4MSVBOCUyMEdQVSUyMCVFMyU4MSVBNyVFNCVCOCVBNiVFMyU4MSVCOSVFMyU4MSVBNiVFMyU4MCU4MSU2MGZsb2F0MzIlNjAlMjAlRTMlODElOEMlRTUlQTMlOEElRTMlODIlOEMlRTMlODIlOEIlRTMlODElQTglRTMlODElOTMlRTMlODIlOEQlRTMlODElQkUlRTMlODElQTclRTMlODIlQkElRTMlODMlQkMlRTMlODMlQTAlRTMlODElOTclRTMlODElQTYlRTMlODElQkYlRTMlODElOUYmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz1jNThkZTVhYjY5ZjA3YzQ5ODY3NWY4NjdjZDYzNGUwZA&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBzZW4tbHRkJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9NTYyZjRjNmMzNTUzOTZlNjI3MGI1OGE1NzA1MGIzNzM&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=0cdcfddfff72ce93b084d3313d08445c"
         }
       ]
     },
@@ -4371,26 +4351,6 @@
           "wordCount": 29847,
           "title": "Blenderアドオン・アセットが25%オフ！Superhive 2026年春のセールが開催！",
           "imageUrl": "https://cginterest.com/wp-content/uploads/2026/05/sh-spring_sale_26-x.webp"
-        },
-        {
-          "id": "https://cginterest.com/?p=58565",
-          "author": ".me",
-          "description": "期間限定で無料となっているEpicのマーケットプレイスFABの無料コンテンツの紹介です。 Epic Games の統合マーケットプレイスFABでは、クリエイターとのパートナーシップによって、2週間ごとに選ばれたコンテンツ […]\n【期間限定無料】2026年5月19日までの FAB 無料コンテンツをチェック！ first appeared on CGinterest.",
-          "link": "https://cginterest.com/2026/05/06/%e3%80%90%e6%9c%9f%e9%96%93%e9%99%90%e5%ae%9a%e7%84%a1%e6%96%99%e3%80%912026%e5%b9%b45%e6%9c%8819%e6%97%a5%e3%81%be%e3%81%a7%e3%81%ae-fab-%e7%84%a1%e6%96%99%e3%82%b3%e3%83%b3%e3%83%86%e3%83%b3/",
-          "publishedOn": "2026-05-06T00:52:00.000Z",
-          "wordCount": 29130,
-          "title": "【期間限定無料】2026年5月19日までの FAB 無料コンテンツをチェック！",
-          "imageUrl": "https://cginterest.com/wp-content/uploads/2026/05/FABfreecontet2026-5-6.webp"
-        },
-        {
-          "id": "https://cginterest.com/?p=58558",
-          "author": ".me",
-          "description": "先月Sketchfabに投稿されたモデルを勝手にピックアップ(2026年5月5日調べ) するコーナーです。人気のある3Dモデルを中心に独断と偏見で選んでおります！ 通常のピックアップとは別に、無料でダウンロードできる3D […]\nSketchfabマンスリーピックアップ 2026年5月号 first appeared on CGinterest.",
-          "link": "https://cginterest.com/2026/05/06/sketchfab%e3%83%9e%e3%83%b3%e3%82%b9%e3%83%aa%e3%83%bc%e3%83%94%e3%83%83%e3%82%af%e3%82%a2%e3%83%83%e3%83%97-2026%e5%b9%b45%e6%9c%88%e5%8f%b7/",
-          "publishedOn": "2026-05-06T00:30:00.000Z",
-          "wordCount": 28921,
-          "title": "Sketchfabマンスリーピックアップ 2026年5月号",
-          "imageUrl": "https://cginterest.com/wp-content/uploads/2026/05/sketchfabmontlypickup2026-5.webp"
         }
       ]
     }

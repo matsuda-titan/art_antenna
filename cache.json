@@ -1575,16 +1575,6 @@
           "wordCount": 779,
           "title": "Bambu Lab、新3Dプリンタ「X2D」発売開始　デュアルノズル3D造形、300 °C ノズル & 65 °C アクティブチャンバー加熱、12万6千円から - ニュース",
           "imageUrl": "https://cgworld.jp/flashnews/assets_c/2026/05/X2D-01-thumb-1920x1080-83293.jpg"
-        },
-        {
-          "id": "https://cgworld.jp/flashnews/01-202605-DF-Imawa.html",
-          "author": null,
-          "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
-          "link": "https://cgworld.jp/flashnews/01-202605-DF-Imawa.html",
-          "publishedOn": "2026-05-06T22:48:44.000Z",
-          "wordCount": 754,
-          "title": "デジタル・フロンティア、Netflix『今際の国のアリス』シーズン3のインタビュー企画5編をnoteで公開　若手クリエイター陣が語るVFX制作の裏側  - ニュース",
-          "imageUrl": "https://cgworld.jp/flashnews/assets_c/2026/05/DF_Imawa-01-thumb-1920x1080-83275.jpg"
         }
       ]
     },
@@ -1633,6 +1623,26 @@
       "feedUrl": "https://modelinghappy.com/feed",
       "siteUrl": "https://modelinghappy.com",
       "articles": [
+        {
+          "id": "https://modelinghappy.com/?p=68950",
+          "author": "modelinghappy",
+          "description": "Blender5.2LTS Blender5.2LTSベータ版が2026年6月３日にリリースされました。 正式リリースは7月14日予定となっています。 Blender 5.2 LTSでは、多数の画像テクスチャを含むシーン\nThe post Blender 5.2 LTSベータ版リリース！Cyclesの新しい「テクスチャキャッシュ」機能が登場！大量テクスチャを使うシーンのメモリ効率が大幅向上 first appeared on 3DCG最新情報サイト MODELING HAPPY.",
+          "link": "https://modelinghappy.com/archives/68950",
+          "publishedOn": "2026-06-05T09:52:51.000Z",
+          "wordCount": 3097,
+          "title": "Blender 5.2 LTSベータ版リリース！Cyclesの新しい「テクスチャキャッシュ」機能が登場！大量テクスチャを使うシーンのメモリ効率が大幅向上",
+          "imageUrl": "https://modelinghappy.com/wp-content/uploads/2026/06/20260605_blender_5.2_lts.jpg"
+        },
+        {
+          "id": "https://modelinghappy.com/?p=68943",
+          "author": "modelinghappy",
+          "description": "Merge Master Merge MasterはBlender 5.0以降に対応した、2つのメッシュをリアルタイムかつ非破壊で自然に融合できるアドオンです。 融合はリアルタイムで確認でき、強度や融合範囲などのパラメー\nThe post Blenderでメッシュ同士をリアルタイム融合！トポロジーやUVを維持したまま非破壊で接続できるアドオン「Merge Master」が35%オフセール中 first appeared on 3DCG最新情報サイト MODELING HAPPY.",
+          "link": "https://modelinghappy.com/archives/68943",
+          "publishedOn": "2026-06-05T09:17:45.000Z",
+          "wordCount": 3083,
+          "title": "Blenderでメッシュ同士をリアルタイム融合！トポロジーやUVを維持したまま非破壊で接続できるアドオン「Merge Master」が35%オフセール中",
+          "imageUrl": "https://modelinghappy.com/wp-content/uploads/2026/06/20260605_MergeMaster_01.jpg"
+        },
         {
           "id": "https://modelinghappy.com/?p=68833",
           "author": "modelinghappy",
@@ -2758,21 +2768,6 @@
             "type": "false"
           },
           "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--AooBfHuT--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%2595%25E3%2582%25A9%25E3%2583%2588%25E3%2582%25B0%25E3%2583%25A9%25E3%2583%25A1%25E3%2583%2588%25E3%2583%25AA%25E6%2595%25B0%25E5%25AD%25A6%25EF%25BD%259C16%25EF%25BC%259A%25E9%2587%258D%25E3%2581%25BF%25E4%25BB%2598%25E3%2581%258D%25E6%259C%2580%25E5%25B0%258F%25E4%25BA%258C%25E4%25B9%2597%25E3%2581%25A8%25E3%2581%25AF%25E4%25BD%2595%25E3%2581%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:s_hashida%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2JmNmU5NjMzMTEuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"
-        },
-        {
-          "id": "https://zenn.dev/s_hashida/articles/8bff3bf5c18b36",
-          "author": "s_hashida",
-          "description": "はじめに\n前回は、Bundle Adjustmentを\n\n\\min_\\theta \\| \\mathbf{r}(\\theta) \\|^2\n\nという形で整理し、\n\nGauss-Newton法\nLevenberg–Marquardt法\n\nによって解く方法を見ました。\n\nここで一つ、疑問があります。\n\nなぜ二乗誤差なのか？\n\n\nこれは単なる都合ではなく、\n\n\n確率的に導かれるものです。\n\n\n\n 観測には誤差がある\n理想的な投影は\n\n\\hat{\\mathbf{p}} = f(\\theta)\n\nですが、実際の観測は\n\n\\mathbf{p} = f(\\theta) + \\boldsymbol{\\...",
-          "link": "https://zenn.dev/s_hashida/articles/8bff3bf5c18b36",
-          "publishedOn": "2026-05-06T22:15:05.000Z",
-          "wordCount": 747,
-          "title": "フォトグラメトリ数学｜15：最尤推定とは何か（なぜ二乗誤差になるのか）",
-          "enclosure": {
-            "url": "https://res.cloudinary.com/zenn/image/upload/s--cA4S9fov--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%2595%25E3%2582%25A9%25E3%2583%2588%25E3%2582%25B0%25E3%2583%25A9%25E3%2583%25A1%25E3%2583%2588%25E3%2583%25AA%25E6%2595%25B0%25E5%25AD%25A6%25EF%25BD%259C15%25EF%25BC%259A%25E6%259C%2580%25E5%25B0%25A4%25E6%258E%25A8%25E5%25AE%259A%25E3%2581%25A8%25E3%2581%25AF%25E4%25BD%2595%25E3%2581%258B%25EF%25BC%2588%25E3%2581%25AA%25E3%2581%259C%25E4%25BA%258C%25E4%25B9%2597%25E8%25AA%25A4%25E5%25B7%25AE%25E3%2581%25AB%25E3%2581%25AA%25E3%2582%258B%25E3%2581%25AE%25E3%2581%258B%25EF%25BC%2589%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:s_hashida%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2JmNmU5NjMzMTEuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
-            "length": "0",
-            "type": "false"
-          },
-          "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--cA4S9fov--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%2595%25E3%2582%25A9%25E3%2583%2588%25E3%2582%25B0%25E3%2583%25A9%25E3%2583%25A1%25E3%2583%2588%25E3%2583%25AA%25E6%2595%25B0%25E5%25AD%25A6%25EF%25BD%259C15%25EF%25BC%259A%25E6%259C%2580%25E5%25B0%25A4%25E6%258E%25A8%25E5%25AE%259A%25E3%2581%25A8%25E3%2581%25AF%25E4%25BD%2595%25E3%2581%258B%25EF%25BC%2588%25E3%2581%25AA%25E3%2581%259C%25E4%25BA%258C%25E4%25B9%2597%25E8%25AA%25A4%25E5%25B7%25AE%25E3%2581%25AB%25E3%2581%25AA%25E3%2582%258B%25E3%2581%25AE%25E3%2581%258B%25EF%25BC%2589%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:s_hashida%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2JmNmU5NjMzMTEuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"
         }
       ]
     },

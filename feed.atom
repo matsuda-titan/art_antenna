@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-06-05T06:57:03.172Z</updated>
+    <updated>2026-06-05T11:17:22.028Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Blender 5.2 LTSベータ版リリース！Cyclesの新しい「テクスチャキャッシュ」機能が登場！大量テクスチャを使うシーンのメモリ効率が大幅向上]]></title>
+        <id>https://modelinghappy.com/?p=68950</id>
+        <link href="https://modelinghappy.com/archives/68950"/>
+        <updated>2026-06-05T09:52:51.000Z</updated>
+        <summary type="html"><![CDATA[Blender5.2LTS Blender5.2LTSベータ版が2026年6月３日にリリースされました。 正式リリースは7月14日予定となっています。 Blender 5.2 LTSでは、多数の画像テクスチャを含むシーン
+The post Blender 5.2 LTSベータ版リリース！Cyclesの新しい「テクスチャキャッシュ」機能が登場！大量テクスチャを使うシーンのメモリ効率が大幅向上 first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
+        <author>
+            <name>modelinghappy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Blenderでメッシュ同士をリアルタイム融合！トポロジーやUVを維持したまま非破壊で接続できるアドオン「Merge Master」が35%オフセール中]]></title>
+        <id>https://modelinghappy.com/?p=68943</id>
+        <link href="https://modelinghappy.com/archives/68943"/>
+        <updated>2026-06-05T09:17:45.000Z</updated>
+        <summary type="html"><![CDATA[Merge Master Merge MasterはBlender 5.0以降に対応した、2つのメッシュをリアルタイムかつ非破壊で自然に融合できるアドオンです。 融合はリアルタイムで確認でき、強度や融合範囲などのパラメー
+The post Blenderでメッシュ同士をリアルタイム融合！トポロジーやUVを維持したまま非破壊で接続できるアドオン「Merge Master」が35%オフセール中 first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
+        <author>
+            <name>modelinghappy</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[#10【Unity】ローカル環境で動くデスクトップマスコットをつくろう！ - 連載]]></title>
         <id>https://cgworld.jp/regular/202606-cgw331-tr10.html</id>
@@ -4552,57 +4574,6 @@ The post ホメロスの不朽の叙事詩を映像化。クリストファー�
 The post Shape Splatter V2、OpenPBRのネイティブサポート..。Substance 3D Designer 16 の新機能紹介 first appeared on 3dtotal 日本語オフィシャルサイト.]]></summary>
         <author>
             <name>3dtotal管理人T</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[デジタル・フロンティア、Netflix『今際の国のアリス』シーズン3のインタビュー企画5編をnoteで公開　若手クリエイター陣が語るVFX制作の裏側  - ニュース]]></title>
-        <id>https://cgworld.jp/flashnews/01-202605-DF-Imawa.html</id>
-        <link href="https://cgworld.jp/flashnews/01-202605-DF-Imawa.html"/>
-        <updated>2026-05-06T22:48:44.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[フォトグラメトリ数学｜15：最尤推定とは何か（なぜ二乗誤差になるのか）]]></title>
-        <id>https://zenn.dev/s_hashida/articles/8bff3bf5c18b36</id>
-        <link href="https://zenn.dev/s_hashida/articles/8bff3bf5c18b36"/>
-        <updated>2026-05-06T22:15:05.000Z</updated>
-        <summary type="html"><![CDATA[はじめに
-前回は、Bundle Adjustmentを
-
-\min_\theta \| \mathbf{r}(\theta) \|^2
-
-という形で整理し、
-
-Gauss-Newton法
-Levenberg–Marquardt法
-
-によって解く方法を見ました。
-
-ここで一つ、疑問があります。
-
-なぜ二乗誤差なのか？
-
-
-これは単なる都合ではなく、
-
-
-確率的に導かれるものです。
-
-
-
- 観測には誤差がある
-理想的な投影は
-
-\hat{\mathbf{p}} = f(\theta)
-
-ですが、実際の観測は
-
-\mathbf{p} = f(\theta) + \boldsymbol{\...]]></summary>
-        <author>
-            <name>s_hashida</name>
         </author>
     </entry>
 </feed>

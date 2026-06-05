@@ -668,66 +668,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "https://3dnchu.com/wp-content/uploads/project-falcon-tech-preview.webp"
-        },
-        {
-          "id": "https://3dnchu.com/?p=1064733",
-          "author": "Ymt3D -3dnchu-",
-          "description": "3Dモデラーの ぽめ氏がMayaシーン内のインスタンスを検出＆管理する為のツールスクリプト「Instance Utility」を無料公開しました！",
-          "link": "https://3dnchu.com/archives/instance-utility-maya-pome/",
-          "publishedOn": "2026-05-06T18:39:54.000Z",
-          "wordCount": 8850,
-          "title": "Instance Utility | Mayaシーン内にあるインスタンスを検出＆管理する為の便利ツールスクリプト！無料！",
-          "enclosure": {
-            "url": "https://3dnchu.com/wp-content/uploads/instance-utility-maya.jpg",
-            "length": "65594",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://3dnchu.com/wp-content/uploads/instance-utility-maya.jpg"
-        },
-        {
-          "id": "https://3dnchu.com/?p=1064761",
-          "author": "Ymt3D -3dnchu-",
-          "description": "Unityが予告通り公式のAI機能をオープンベータリリースしました！Unity 6以降をご利用のすべての開発者向けに利用可能！",
-          "link": "https://3dnchu.com/archives/unity-ai-open-beta/",
-          "publishedOn": "2026-05-06T18:33:56.000Z",
-          "wordCount": 8870,
-          "title": "Unity AI Open Beta | Unity公式のAI機能がオープンベータ公開！AIアシスタントやアセット作成、ワークフローの自動化、自然言語によるプロンプトを使用したプロジェクト操作などが可能！",
-          "enclosure": {
-            "url": "https://3dnchu.com/wp-content/uploads/unity-ai-open-beta-unityaiai.jpg",
-            "length": "45273",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://3dnchu.com/wp-content/uploads/unity-ai-open-beta-unityaiai.jpg"
-        },
-        {
-          "id": "https://3dnchu.com/?p=1064735",
-          "author": "Ymt3D -3dnchu-",
-          "description": "Adobeのテクスチャ＆マテリアルオーサリングツール最新アップデート「Adobe Substance 3D Designer 16.0」が公開されトレーラーがYoutube上で公開されています。",
-          "link": "https://3dnchu.com/archives/substance-3d-designer-16-0/",
-          "publishedOn": "2026-05-06T18:26:42.000Z",
-          "wordCount": 8891,
-          "title": "Substance 3D Designer 16.0 | Shape Splatter v2を搭載！OpenPBR対応！3D SDFノードでより多彩な表現が可能になったAdobeのテクスチャ＆マテリアルオーサリングツール最新アップデート！",
-          "enclosure": {
-            "url": "https://3dnchu.com/wp-content/uploads/substance-3d-designer-16-0-shape.jpg",
-            "length": "94563",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://3dnchu.com/wp-content/uploads/substance-3d-designer-16-0-shape.jpg"
-        },
-        {
-          "id": "https://3dnchu.com/?p=1064352",
-          "author": "Ymt3D -3dnchu-",
-          "description": "ArcLabからUnity上でVFXエフェクト用に最適なメッシュをプロシージャル生成出来るツール「VFX Mesh Builder」がリリースされました！",
-          "link": "https://3dnchu.com/archives/vfx-mesh-builder-unity/",
-          "publishedOn": "2026-05-06T17:01:10.000Z",
-          "wordCount": 8820,
-          "title": "VFX Mesh Builder | Unity上でエフェクト用の3Dメッシュをプロシージャルに生成出来るツールがリリース！",
-          "enclosure": {
-            "url": "https://3dnchu.com/wp-content/uploads/vfx-mesh-builder-unity3d.jpg",
-            "length": "84527",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://3dnchu.com/wp-content/uploads/vfx-mesh-builder-unity3d.jpg"
         }
       ]
     },
@@ -736,6 +676,26 @@
       "feedUrl": "https://cgworld.jp/atom.xml",
       "siteUrl": "https://cgworld.jp/",
       "articles": [
+        {
+          "id": "https://cgworld.jp/regular/202606-cgw331-tr10.html",
+          "author": null,
+          "description": "今回はUnityでデスクトップマスコットキャラクターをつくってみましよう。実はUnityはゲーム開発だけではなく、デスクトップアプリや常駐ツールのような用途にも柔軟に使うことができます。",
+          "link": "https://cgworld.jp/regular/202606-cgw331-tr10.html",
+          "publishedOn": "2026-06-05T03:50:00.000Z",
+          "wordCount": 833,
+          "title": "#10【Unity】ローカル環境で動くデスクトップマスコットをつくろう！ - 連載",
+          "imageUrl": "https://cgworld.jp/regular/assets_c/2026/06/techroom_10_compressed-thumb-1920x1080-84501.jpg"
+        },
+        {
+          "id": "https://cgworld.jp/special-feature/2606-amd-yasudagensho.html",
+          "author": null,
+          "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
+          "link": "https://cgworld.jp/special-feature/2606-amd-yasudagensho.html",
+          "publishedOn": "2026-06-05T02:30:39.000Z",
+          "wordCount": 689,
+          "title": "劇場アニメ制作を支える\"試行回数\"と\"ルックデヴ\" ―― 安田現象監督が語る、AMD Ryzen™ 9搭載クリエイターパソコン「SENSE∞」がもたらす恩恵 - スペシャルコンテンツ",
+          "imageUrl": "https://cgworld.jp/special-feature/assets_c/2026/06/amd_unitcom-thumb-1056x594-84406.png"
+        },
         {
           "id": "https://cgworld.jp/flashnews/01-202606-SANA-WM.html",
           "author": null,
@@ -2101,6 +2061,16 @@
       "siteUrl": "https://3dtotal.jp",
       "articles": [
         {
+          "id": "https://3dtotal.jp/?p=55703",
+          "author": "3dtotal管理人T",
+          "description": "★One Piece S2 VFX Breakdown（3分2秒/ 制作：Framestore） 麦わらの一味、グランドラインへ！ 『ONE PIECE』シーズン1 の制作に続き、VFXチームはシーズン2へと冒険の舞台を […]\nThe post 麦わらの一味、グランドラインへ！ 実写版『ONE PIECE』シーズン2 の VFXメイキング映像＆トレーラー集 first appeared on 3dtotal 日本語オフィシャルサイト.",
+          "link": "https://3dtotal.jp/news/55703/",
+          "publishedOn": "2026-06-05T02:20:55.000Z",
+          "wordCount": 700,
+          "title": "麦わらの一味、グランドラインへ！ 実写版『ONE PIECE』シーズン2 の VFXメイキング映像＆トレーラー集",
+          "imageUrl": "https://3dtotal.jp/wp-content/uploads/2026/06/onepiece2_vfxmaking.jpg"
+        },
+        {
           "id": "https://3dtotal.jp/?p=55699",
           "author": "3dtotal管理人T",
           "description": "★Autodesk Film, TV & Games Showreel 2026（1分34秒） この1年、夢のようなプロジェクトが、もはや夢ではなくなりました。 私たちが見て、遊んで、体験できる物語へと変わりました。 1 […]\nThe post 夢をスクリーンに。Autodesk の 映画・TV・ゲーム ショーリール 2026 first appeared on 3dtotal 日本語オフィシャルサイト.",
@@ -2446,21 +2416,6 @@
             "type": "false"
           },
           "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--VTCwUxVk--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Unity%2520ShaderGraph%25E5%2582%2599%25E5%25BF%2598%25E9%258C%25B2%2520part3-%25E8%2589%25B2%25E5%258F%258E%25E5%25B7%25AE%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:ryuga.%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jS1lsU1ZRcnpMYW1lRXUzY3lqQW9JdGhFQW8wMGNhaGpLY1JnRkh0a3JYRnJRdjBlSTU9czI1MC1j%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"
-        },
-        {
-          "id": "https://zenn.dev/toshikun/articles/vlive-technical-input-map-memo",
-          "author": "toshi",
-          "description": "バーチャルライブ制作メモ総目次 に戻る。\n個人でバーチャルライブを作るとき、最初からコード単位で追うより、「この名前を知っていると何を分けて考えやすくなるか」を先に見た方が整理しやすい。\nなぜなら、最初はキーワードが頭に浮かんでいないと何から手を付けていいかよくわからないからです。\nテスト用コードやリポジトリはあとからVLiveKit系として整理していく予定です。\nこの記事では、まず ArtNet、NDI、Timecode、TouchDesigner、SSS、異方性反射 あたりを、個人制作でどこを見るための名前として扱うかだけまとめます。\n\n この記事の持ち帰り: 個人制作では信号/映像...",
-          "link": "https://zenn.dev/toshikun/articles/vlive-technical-input-map-memo",
-          "publishedOn": "2026-05-06T15:12:33.000Z",
-          "wordCount": 841,
-          "title": "個人でバーチャルライブを作るときの技術メモ: ArtNet/NDI/Timecode/SSS",
-          "enclosure": {
-            "url": "https://res.cloudinary.com/zenn/image/upload/s--so9ihycJ--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E5%2580%258B%25E4%25BA%25BA%25E3%2581%25A7%25E3%2583%2590%25E3%2583%25BC%25E3%2583%2581%25E3%2583%25A3%25E3%2583%25AB%25E3%2583%25A9%25E3%2582%25A4%25E3%2583%2596%25E3%2582%2592%25E4%25BD%259C%25E3%2582%258B%25E3%2581%25A8%25E3%2581%258D%25E3%2581%25AE%25E6%258A%2580%25E8%25A1%2593%25E3%2583%25A1%25E3%2583%25A2%253A%2520ArtNet%252FNDI%252FTimecode%252FSSS%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:toshi%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzk2ZDRmNTFiYjUuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
-            "length": "0",
-            "type": "false"
-          },
-          "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--so9ihycJ--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E5%2580%258B%25E4%25BA%25BA%25E3%2581%25A7%25E3%2583%2590%25E3%2583%25BC%25E3%2583%2581%25E3%2583%25A3%25E3%2583%25AB%25E3%2583%25A9%25E3%2582%25A4%25E3%2583%2596%25E3%2582%2592%25E4%25BD%259C%25E3%2582%258B%25E3%2581%25A8%25E3%2581%258D%25E3%2581%25AE%25E6%258A%2580%25E8%25A1%2593%25E3%2583%25A1%25E3%2583%25A2%253A%2520ArtNet%252FNDI%252FTimecode%252FSSS%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:toshi%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzk2ZDRmNTFiYjUuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"
         }
       ]
     },
@@ -3244,6 +3199,16 @@
       "feedUrl": "https://area.autodesk.jp/rss.xml",
       "siteUrl": "https://area.autodesk.jp/",
       "articles": [
+        {
+          "id": "https://area.autodesk.jp/event/animation-days-2026-ondemand/",
+          "author": null,
+          "description": "3月末に開催し多くの方にご登録いただいた『Autodesk × CGWORLD Animation Days』よりオレンジ様の4セッション、Autodeskの1セッションのオンデマンド配信を開始します！当日登録できなかった方はこの機会にご登録の上ご視聴ください。ご参加いただいた皆様からのアンケート評価も高く、濃い内容の5セッションをお届けします。・・・",
+          "link": "https://area.autodesk.jp/event/animation-days-2026-ondemand/",
+          "publishedOn": "2026-06-05T02:00:00.000Z",
+          "wordCount": 281,
+          "title": "【オンデマンド配信】Autodesk X CGWORLD Animation Days",
+          "imageUrl": "https://area.autodesk.jp/event/assets_c/2026/06/ic_animation_days_ondemand_1400x782-thumb-1200xauto-5835.jpg"
+        },
         {
           "id": "https://area.autodesk.jp/information/maya-2027-1/",
           "author": null,
@@ -4386,16 +4351,6 @@
             "type": "video/mp4"
           },
           "imageUrl": "https://cginterest.com/wp-content/uploads/2026/05/UnityAIbeta.webp"
-        },
-        {
-          "id": "https://cginterest.com/?p=58573",
-          "author": ".me",
-          "description": "Superhive（旧Blender Market）にて、開催された「Winter Sale」の紹介です。本記事ではセールの概要やパートナーアドオンの情報を紹介します。 セール概要 今回のセールでは、44,000点を超え […]\nBlenderアドオン・アセットが25%オフ！Superhive 2026年春のセールが開催！ first appeared on CGinterest.",
-          "link": "https://cginterest.com/2026/05/06/blender%e3%82%a2%e3%83%89%e3%82%aa%e3%83%b3%e3%83%bb%e3%82%a2%e3%82%bb%e3%83%83%e3%83%88%e3%81%8c25%e3%82%aa%e3%83%95%ef%bc%81superhive-2026%e5%b9%b4%e6%98%a5%e3%81%ae%e3%82%bb%e3%83%bc%e3%83%ab/",
-          "publishedOn": "2026-05-06T14:55:01.000Z",
-          "wordCount": 29847,
-          "title": "Blenderアドオン・アセットが25%オフ！Superhive 2026年春のセールが開催！",
-          "imageUrl": "https://cginterest.com/wp-content/uploads/2026/05/sh-spring_sale_26-x.webp"
         }
       ]
     }

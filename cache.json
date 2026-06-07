@@ -2902,6 +2902,16 @@
       "siteUrl": "https://qiita.com",
       "articles": [
         {
+          "id": "https://qiita.com/tsukino_/items/2cc5bc61a4ff626968a9",
+          "author": null,
+          "description": "ゲームグラフィックが成熟するにつれ、キャラクターの肌、金属の質感、屋外の自然光など、どんな環境でも破綻しないリアルな見た目が求められるようになり、従来のシェーディング方法では限界が見え始めました。\nそこで登場したのがPBR(Physically Based Renderin...",
+          "link": "https://qiita.com/tsukino_/items/2cc5bc61a4ff626968a9",
+          "publishedOn": "2026-06-07T07:07:28.000Z",
+          "wordCount": 720,
+          "title": "【PBR講座 第1回】PBRとは何か：物理ベースレンダリングの基礎概念",
+          "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYzOTQzMTQ4JTJGZGJhOTI4MmI5OWFlNGQ4NmFjYjI4MDk1NGVhNGFjYzI2ZGYyODM0ZSUyRmxhcmdlLnBuZyUzRjE3NTAxNDEwMzM_aXhsaWI9cmItNC4xLjEmYXI9MSUzQTEmZml0PWNyb3AmbWFzaz1lbGxpcHNlJmJnPUZGRkZGRiZmbT1wbmczMiZzPWU4ZGJmMzk4YjI1NDE2YmMxODUyOGE0ZWZiOWU3NjE5%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D0cdf0498f9ab9bc4ec92fd97b061c8a7?ixlib=rb-4.1.1&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9JUUzJTgwJTkwUEJSJUU4JUFDJTlCJUU1JUJBJUE3JTIwJUU3JUFDJUFDMSVFNSU5QiU5RSVFMyU4MCU5MVBCUiVFMyU4MSVBOCVFMyU4MSVBRiVFNCVCRCU5NSVFMyU4MSU4QiVFRiVCQyU5QSVFNyU4OSVBOSVFNyU5MCU4NiVFMyU4MyU5OSVFMyU4MyVCQyVFMyU4MiVCOSVFMyU4MyVBQyVFMyU4MyVCMyVFMyU4MyU4MCVFMyU4MyVBQSVFMyU4MyVCMyVFMyU4MiVCMCVFMyU4MSVBRSVFNSU5RiVCQSVFNyVBNCU4RSVFNiVBNiU4MiVFNSVCRiVCNSZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnR4dC1wYWQ9MCZzPTQ0MGI3NzEwZGE5MzdkNzUyZTlmYzAyZGQ2MWNiMzA2&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDB0c3VraW5vXyZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPTRjODM5MzJmNjA1ZTE0YzNmN2RhYTIyNTYyYjQ1NTU2&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=c2fe58c9232013fef41101b2b09ada2b"
+        },
+        {
           "id": "https://qiita.com/yuri_tsukimi/items/236fc4b89083f1ccb672",
           "author": null,
           "description": "モバイル環境 (Android, Quest) でテクスチャをメモリとして使いたいときにサンプル方法でつまずいたので記録しておきます．\n\n問題\nシェーダーでテクスチャをサンプルする場合，普通は tex2D* を使います．\nsampler2D _MainTex;\n\nfloat...",
@@ -2961,6 +2971,16 @@
       "feedUrl": "https://qiita.com/tags/hlsl/feed",
       "siteUrl": "https://qiita.com",
       "articles": [
+        {
+          "id": "https://qiita.com/tsukino_/items/2cc5bc61a4ff626968a9",
+          "author": null,
+          "description": "ゲームグラフィックが成熟するにつれ、キャラクターの肌、金属の質感、屋外の自然光など、どんな環境でも破綻しないリアルな見た目が求められるようになり、従来のシェーディング方法では限界が見え始めました。\nそこで登場したのがPBR(Physically Based Renderin...",
+          "link": "https://qiita.com/tsukino_/items/2cc5bc61a4ff626968a9",
+          "publishedOn": "2026-06-07T07:07:28.000Z",
+          "wordCount": 720,
+          "title": "【PBR講座 第1回】PBRとは何か：物理ベースレンダリングの基礎概念",
+          "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYzOTQzMTQ4JTJGZGJhOTI4MmI5OWFlNGQ4NmFjYjI4MDk1NGVhNGFjYzI2ZGYyODM0ZSUyRmxhcmdlLnBuZyUzRjE3NTAxNDEwMzM_aXhsaWI9cmItNC4xLjEmYXI9MSUzQTEmZml0PWNyb3AmbWFzaz1lbGxpcHNlJmJnPUZGRkZGRiZmbT1wbmczMiZzPWU4ZGJmMzk4YjI1NDE2YmMxODUyOGE0ZWZiOWU3NjE5%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D0cdf0498f9ab9bc4ec92fd97b061c8a7?ixlib=rb-4.1.1&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9JUUzJTgwJTkwUEJSJUU4JUFDJTlCJUU1JUJBJUE3JTIwJUU3JUFDJUFDMSVFNSU5QiU5RSVFMyU4MCU5MVBCUiVFMyU4MSVBOCVFMyU4MSVBRiVFNCVCRCU5NSVFMyU4MSU4QiVFRiVCQyU5QSVFNyU4OSVBOSVFNyU5MCU4NiVFMyU4MyU5OSVFMyU4MyVCQyVFMyU4MiVCOSVFMyU4MyVBQyVFMyU4MyVCMyVFMyU4MyU4MCVFMyU4MyVBQSVFMyU4MyVCMyVFMyU4MiVCMCVFMyU4MSVBRSVFNSU5RiVCQSVFNyVBNCU4RSVFNiVBNiU4MiVFNSVCRiVCNSZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnR4dC1wYWQ9MCZzPTQ0MGI3NzEwZGE5MzdkNzUyZTlmYzAyZGQ2MWNiMzA2&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDB0c3VraW5vXyZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPTRjODM5MzJmNjA1ZTE0YzNmN2RhYTIyNTYyYjQ1NTU2&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=c2fe58c9232013fef41101b2b09ada2b"
+        },
         {
           "id": "https://qiita.com/FujiiShintaro/items/92f01604071b29f425dc",
           "author": null,

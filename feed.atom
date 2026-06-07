@@ -2,10 +2,62 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-06-06T13:06:52.995Z</updated>
+    <updated>2026-06-07T02:32:54.812Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【無料アドオン】Wiggle Bones – ボーンに揺れモノ設定！]]></title>
+        <id>https://cgbox.jp/?p=65380</id>
+        <link href="https://cgbox.jp/2026/06/07/news-addon-wiggle-bones/"/>
+        <updated>2026-06-07T01:41:17.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは！ 今回はアドオンの「Wiggle Bones」を紹介します。 こちらのリンクがアドオンの商品ページになります。 Wiggle Bones 「Wiggle Bones」は、Blenderのボーンに揺れ物物理を追 […]]]></summary>
+        <author>
+            <name>kasahara</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Substance 3D Painerチュートリアル動画「Building Masks Explained」公開　爬虫類の皮膚のテクスチャリングを題材にマスク構築手法を解説 - ニュース]]></title>
+        <id>https://cgworld.jp/flashnews/01-202606-SP-Masks.html</id>
+        <link href="https://cgworld.jp/flashnews/01-202606-SP-Masks.html"/>
+        <updated>2026-06-06T22:48:43.000Z</updated>
+        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[人生を描く表情のメカニズム：Facial Expressions for Artists | 顔の構造＆表情＆加齢から人物の人生をどう描くかを徹底解説したOliver Sin著書の人気書籍が日本語化！2026年6月末頃発売！]]></title>
+        <id>https://3dnchu.com/?p=1065397</id>
+        <link href="https://3dnchu.com/archives/facial-expressions-for-artists-jp/"/>
+        <updated>2026-06-06T18:40:48.000Z</updated>
+        <summary type="html"><![CDATA[Oliver Sin（オリバー・シン）著書『Facial Expressions for Artists: Techniques for Capturing Emotion and Mood in Portrait and Character Drawings』の日本語版「人生を描く表情のメカニズム：Facial Expressions for Artists」がボーンデジタルから2,026年6月末に発売されます！]]></summary>
+        <author>
+            <name>Ymt3D -3dnchu-</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[現代の GPU アーキテクチャとシェーダー最適化の考え方]]></title>
+        <id>https://zenn.dev/ruccho/articles/shader-optimization</id>
+        <link href="https://zenn.dev/ruccho/articles/shader-optimization"/>
+        <updated>2026-06-06T11:49:09.000Z</updated>
+        <summary type="html"><![CDATA[以前の記事では実際のシェーダーをもとに最適化を行う例を紹介しました。
+https://zenn.dev/ruccho/articles/f9a58ae9a48704
+今回は GPU のアーキテクチャについて理解を深め、理屈から効果的な最適化の方法を考えてみたいと思います。
+
+ GPU のアーキテクチャ
+
+ 構造
+GPU は大雑把に以下のような構造をしています。
+
+GPU 全体で共有されるグローバルメモリ、それにいくつかの GPU コアが接続されています。実際のシェーダーの実行は各 GPU コアで行われます。
+
+ スケジューリング
+現代の多くの GPU は「同じ命令を複数のスレッドで同時に...]]></summary>
+        <author>
+            <name>ruccho</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Autodesk、従量課金プラン「Flex」の最低購入価格を引き下げ]]></title>
         <id>https://cginterest.com/?p=59555</id>
@@ -4421,68 +4473,6 @@ The post Blenderで200種類以上のシームレス汚れ素材が使える「R
         <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
         <author>
             <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Run animation | Breakdown | 手描きスタイルが印象的！Blender＆Marvelous Designer＆Substance 3D Painterを活用したアニメーションのブレイクダウン！]]></title>
-        <id>https://3dnchu.com/?p=1064875</id>
-        <link href="https://3dnchu.com/archives/run-animation-breakdown-trotsenko/"/>
-        <updated>2026-05-08T10:49:44.000Z</updated>
-        <summary type="html"><![CDATA[ウクライナのフリーランスアーティスト Trotsenko Vladislav氏による女性キャラクターの走るループアニメーション作品ブレイクダウン動画が公開！]]></summary>
-        <author>
-            <name>Ymt3D -3dnchu-</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[#09【Marvelous Designer】トップス制作！　服飾の基礎知識と実践Tips集 - 連載]]></title>
-        <id>https://cgworld.jp/regular/202605-cgw330-tr09.html</id>
-        <link href="https://cgworld.jp/regular/202605-cgw330-tr09.html"/>
-        <updated>2026-05-08T07:30:00.000Z</updated>
-        <summary type="html"><![CDATA[アバター用のトップスを題材に、基礎的な服飾知識の解説を絡めながらTipsを紹介します。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Procedural Backrooms Generator | BlenderのGeometry Nodesなどを活用して作られたプロシージャル The Backrooms (ザ・バックルームズ)ジェネレーターが登場！]]></title>
-        <id>https://3dnchu.com/?p=1064855</id>
-        <link href="https://3dnchu.com/archives/procedural-backrooms-generator/"/>
-        <updated>2026-05-08T07:12:13.000Z</updated>
-        <summary type="html"><![CDATA[Šime Bugarija氏がBlenderのGeometry Nodesなどを活用したプロシージャル「The Backrooms (ザ・バックルームズ)」ジェネレーターをリリースしました！]]></summary>
-        <author>
-            <name>Ymt3D -3dnchu-</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SPZ 4 | 3D Gaussian Splattingを軽量・高速・巨大シーン対応へ進化させた次世代フォーマット！最新バージョンが公開！エンコーディングが3–5倍速！読み込みが2倍速！ブラウザで20倍速！]]></title>
-        <id>https://3dnchu.com/?p=1064845</id>
-        <link href="https://3dnchu.com/archives/spz-4/"/>
-        <updated>2026-05-08T06:52:56.000Z</updated>
-        <summary type="html"><![CDATA[Niantic Spatialによる 3D Gaussian Splatting向け圧縮技術「SPZ」のバージョン４が公開されております！]]></summary>
-        <author>
-            <name>Ymt3D -3dnchu-</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Huion Kamvas 22（Gen3）｜9万円台で大画面2.5K液タブの実力と描き心地をレビュー]]></title>
-        <id>https://modelinghappy.com/?p=68288</id>
-        <link href="https://modelinghappy.com/archives/68288"/>
-        <updated>2026-05-08T03:00:49.000Z</updated>
-        <summary type="html"><![CDATA[Kamvas 22（Gen3） 今回はHuionさんから9万円台で購入出来る大画面の21.5インチの2.5K液晶タブレットKamvas 22（Gen3）をご提供頂いたのでレビュー記事を書かせて頂きました。 箱を開けると、
-The post Huion Kamvas 22（Gen3）｜9万円台で大画面2.5K液タブの実力と描き心地をレビュー first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
-        <author>
-            <name>modelinghappy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[母であること？ ピクサーのアーティストが制作、短編アニメーション『Mother’s Nature』]]></title>
-        <id>https://3dtotal.jp/?p=55480</id>
-        <link href="https://3dtotal.jp/news/55480/"/>
-        <updated>2026-05-08T02:02:10.000Z</updated>
-        <summary type="html"><![CDATA[★Pixar Artist Short: Mother's Nature（3分59秒） 『Mother's Nature』は、カメ であれ オウム であれ、あるいは その中間にある生き物であれ、「母であること」の意味を遊 […]
-The post 母であること？ ピクサーのアーティストが制作、短編アニメーション『Mother's Nature』 first appeared on 3dtotal 日本語オフィシャルサイト.]]></summary>
-        <author>
-            <name>3dtotal管理人T</name>
         </author>
     </entry>
     <entry>

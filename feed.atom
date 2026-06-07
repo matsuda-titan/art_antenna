@@ -2,10 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-06-07T10:20:49.532Z</updated>
+    <updated>2026-06-07T13:19:49.125Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Unity ShaderGraph備忘録 part5-Fullscreen Pass Renderer Feature]]></title>
+        <id>https://zenn.dev/zn_ryg12/articles/shader-note-20260607</id>
+        <link href="https://zenn.dev/zn_ryg12/articles/shader-note-20260607"/>
+        <updated>2026-06-07T12:55:26.000Z</updated>
+        <summary type="html"><![CDATA[Fullscreen Pass Renderer Feature。名前が長い
+
+ FullscreenPassRendererFeatureとは？
+Unity 2022.2から導入された、URPで使える画面全体に処理を適用できる機能。
+これを使うと手軽にシェーダーグラフでスクリーンエフェクト（ポストプロセス）を作れます。
+
+ 使い方
+※Unity6.3での操作です
+今回はシーン上に簡素なレンズフレア的な処理を加えたいとします。
+
+この画像にエフェクトを加えます
+
+
+Fullscreen用のシェーダーグラフを作成
+Projectで右クリック > Create > ShaderG...]]></summary>
+        <author>
+            <name>ryuga.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OPEN GAME FEST 2026 | ゲーム開発関係の講演や作品出展が行われる無料イベント！2026年7月11日に京都コンピューター学院にて開催決定！公式サイトが公開！#OGF2026]]></title>
+        <id>https://3dnchu.com/?p=1063224</id>
+        <link href="https://3dnchu.com/archives/open-game-fest-2026/"/>
+        <updated>2026-06-07T11:34:03.000Z</updated>
+        <summary type="html"><![CDATA[ゲーム開発会社 Indie-us Games が主催のゲーム開発者＆学生向けイベント「OPEN GAME FEST 2026」が2026年7月11日に京都コンピューター学院にて開催されます！]]></summary>
+        <author>
+            <name>Ymt3D -3dnchu-</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【PBR講座 第1回】PBRとは何か：物理ベースレンダリングの基礎概念]]></title>
         <id>https://qiita.com/tsukino_/items/2cc5bc61a4ff626968a9</id>
@@ -4496,16 +4530,6 @@ The post Blenderで200種類以上のシームレス汚れ素材が使える「R
 圧倒的ボリューム！3000種超えのBlender用スカルプトブラシパック「3000+ Sculpting Brushes」 first appeared on CGinterest.]]></summary>
         <author>
             <name>.me</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[アドビ、Firefly AIアシスタントのパブリックベータ版を提供開始　言葉での指示によりCreative Cloudアプリ全体で複雑なマルチステップワークフローを自動実行 - ニュース]]></title>
-        <id>https://cgworld.jp/flashnews/01-202605-FireflyAI-Assist.html</id>
-        <link href="https://cgworld.jp/flashnews/01-202605-FireflyAI-Assist.html"/>
-        <updated>2026-05-08T22:55:22.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
         </author>
     </entry>
 </feed>

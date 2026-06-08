@@ -2,10 +2,115 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-06-07T13:19:49.125Z</updated>
+    <updated>2026-06-08T02:38:06.942Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[『シン・エヴァンゲリオン劇場版』で導入された映画制作技術を「体験」へ 「エヴァフェス」ヴァーチャルカメラスタジオの舞台裏とHPのZシリーズが果たした役割 - スペシャルコンテンツ]]></title>
+        <id>https://cgworld.jp/special-feature/2605-hp-eva30.html</id>
+        <link href="https://cgworld.jp/special-feature/2605-hp-eva30.html"/>
+        <updated>2026-06-08T01:53:40.000Z</updated>
+        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mayaで不均一なトポロジーを綺麗に再構築！「faceLoopPatch – beta」公開]]></title>
+        <id>https://modelinghappy.com/?p=68972</id>
+        <link href="https://modelinghappy.com/archives/68972"/>
+        <updated>2026-06-07T22:56:39.000Z</updated>
+        <summary type="html"><![CDATA[faceLoopPatch #8211; beta #8211; Im3dJoe #8211; Maya Polygon Lab #8211;さんが作成した、Mayaで周囲の境界を維持したまま、不均一なフェースル
+The post Mayaで不均一なトポロジーを綺麗に再構築！「faceLoopPatch – beta」公開 first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
+        <author>
+            <name>modelinghappy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[3D生成AI「Rodin Gen-2.5」リリース　最大1,000万ポリゴンの生成が可能に、4秒100万ポリゴンの高速生成、LLM的思考プロセス搭載、12Kテクスチャ - ニュース]]></title>
+        <id>https://cgworld.jp/flashnews/01-202606-RodinGen-2.5.html</id>
+        <link href="https://cgworld.jp/flashnews/01-202606-RodinGen-2.5.html"/>
+        <updated>2026-06-07T22:17:32.000Z</updated>
+        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[フォトグラメトリ数学｜28：Gauss-Newton法はSLAMでどう使われるのか]]></title>
+        <id>https://zenn.dev/s_hashida/articles/af82fff32e1eb0</id>
+        <link href="https://zenn.dev/s_hashida/articles/af82fff32e1eb0"/>
+        <updated>2026-06-07T22:00:07.000Z</updated>
+        <summary type="html"><![CDATA[はじめに
+前回は、
+
+Factor Graph
+Pose Graph
+Bundle Adjustment
+SLAM
+
+の関係について説明しました。
+
+その中で重要だったのが、
+
+\min_{\mathbf{x}}
+\sum_k
+e_k(\mathbf{x})^T
+\Omega_k
+e_k(\mathbf{x})
+
+という形でした。
+
+ここで疑問が出てきます。
+
+この最適化はどう解かれるのか？
+Factorは何を計算しているのか？
+なぜヤコビアンが必要なのか？
+SLAMの内部では何が起きているのか？
+
+
+実は、Factor Graph最適化の内部では、以前説明した
+
+Gauss-Ne...]]></summary>
+        <author>
+            <name>s_hashida</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[World-space 3D Blur Filter for Substance Painter | 3D空間を考慮し継ぎ目の無いブラー（ぼかし）を実現するSubstance 3D Painter向けフィルター！]]></title>
+        <id>https://3dnchu.com/?p=1065643</id>
+        <link href="https://3dnchu.com/archives/world-space-3d-blur-filter-sbspainter/"/>
+        <updated>2026-06-07T16:34:40.000Z</updated>
+        <summary type="html"><![CDATA[Borja Franco氏によるSubstance 3D Painter向け3Dボカシフィルター「World-space 3D Blur Filter for Substance Painter」のご紹介！]]></summary>
+        <author>
+            <name>Ymt3D -3dnchu-</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unity ShaderGraph備忘録 part5-Fullscreen Pass Renderer Feature]]></title>
+        <id>https://zenn.dev/zn_ryg12/articles/shader-note-20260607</id>
+        <link href="https://zenn.dev/zn_ryg12/articles/shader-note-20260607"/>
+        <updated>2026-06-07T12:55:26.000Z</updated>
+        <summary type="html"><![CDATA[Fullscreen Pass Renderer Feature。名前が長い
+
+ FullscreenPassRendererFeatureとは？
+Unity 2022.2から導入された、URPで使える画面全体に処理を適用できる機能。
+これを使うと手軽にシェーダーグラフでスクリーンエフェクト（ポストプロセス）を作れます。
+
+ 使い方
+※Unity6.3での操作です
+今回はシーン上に簡素なレンズフレア的な処理を加えたいとします。
+
+この画像にエフェクトを加えます
+
+
+Fullscreen用のシェーダーグラフを作成
+Projectで右クリック > Create > ShaderG...]]></summary>
+        <author>
+            <name>ryuga.</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Unity ShaderGraph備忘録 part5-Fullscreen Pass Renderer Feature]]></title>
         <id>https://zenn.dev/zn_ryg12/articles/shader-note-20260607</id>
@@ -4497,39 +4602,6 @@ The post スライダーやカラー設定まで配置可能になるBlender用�
 The post 水流に削られたような谷や尾根のある地形を作れる無料Blender侵食ノード「Quick Erosion Filter」 first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
         <author>
             <name>modelinghappy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[UVをリアルタイムに切る・結合する・描いた形に変形出来るBlenderアドオン「Uv Flex」]]></title>
-        <id>https://modelinghappy.com/?p=68586</id>
-        <link href="https://modelinghappy.com/archives/68586"/>
-        <updated>2026-05-09T13:17:06.000Z</updated>
-        <summary type="html"><![CDATA[Uv Flex #8211; Interactive Editing Tools Uv FlexはBlenderでUV調整が便利になる機能が３つ入ったアドオンです。 １つ目はエッジを連続して選択する事で切り離す事が可能
-The post UVをリアルタイムに切る・結合する・描いた形に変形出来るBlenderアドオン「Uv Flex」 first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
-        <author>
-            <name>modelinghappy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Blenderで200種類以上のシームレス汚れ素材が使える「Realistic Touch」実際に使ってみた。レビュー]]></title>
-        <id>https://modelinghappy.com/?p=68563</id>
-        <link href="https://modelinghappy.com/archives/68563"/>
-        <updated>2026-05-09T06:52:15.000Z</updated>
-        <summary type="html"><![CDATA[Realistic Touch 200種類以上の、汚れた4Kシームレステクスチャが使用出来る、Blender用ノードRealistic Touchを実際に使ってみたので詳しく記事にしました。 白黒の汚れ専用ノードが付属し
-The post Blenderで200種類以上のシームレス汚れ素材が使える「Realistic Touch」実際に使ってみた。レビュー first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
-        <author>
-            <name>modelinghappy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[圧倒的ボリューム！3000種超えのBlender用スカルプトブラシパック「3000+ Sculpting Brushes」]]></title>
-        <id>https://cginterest.com/?p=58648</id>
-        <link href="https://cginterest.com/2026/05/09/%e5%9c%a7%e5%80%92%e7%9a%84%e3%83%9c%e3%83%aa%e3%83%a5%e3%83%bc%e3%83%a0%ef%bc%813000%e7%a8%ae%e8%b6%85%e3%81%88%e3%81%aeblender%e7%94%a8%e3%82%b9%e3%82%ab%e3%83%ab%e3%83%97%e3%83%88%e3%83%96%e3%83%a9/"/>
-        <updated>2026-05-09T02:55:56.000Z</updated>
-        <summary type="html"><![CDATA[VK Gamedev によるスカルプト用ブラシのアセット「3000+ Sculpting Brushes for Blender」の紹介です。 主な内容 「3000+ Sculpting Brushes for Blen […]
-圧倒的ボリューム！3000種超えのBlender用スカルプトブラシパック「3000+ Sculpting Brushes」 first appeared on CGinterest.]]></summary>
-        <author>
-            <name>.me</name>
         </author>
     </entry>
 </feed>

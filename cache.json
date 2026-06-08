@@ -145,6 +145,21 @@
       "siteUrl": "https://3dnchu.com",
       "articles": [
         {
+          "id": "https://3dnchu.com/?p=1065643",
+          "author": "Ymt3D -3dnchu-",
+          "description": "Borja Franco氏によるSubstance 3D Painter向け3Dボカシフィルター「World-space 3D Blur Filter for Substance Painter」のご紹介！",
+          "link": "https://3dnchu.com/archives/world-space-3d-blur-filter-sbspainter/",
+          "publishedOn": "2026-06-07T16:34:40.000Z",
+          "wordCount": 8945,
+          "title": "World-space 3D Blur Filter for Substance Painter | 3D空間を考慮し継ぎ目の無いブラー（ぼかし）を実現するSubstance 3D Painter向けフィルター！",
+          "enclosure": {
+            "url": "https://3dnchu.com/wp-content/uploads/World-space-3D-Blur-Filter-for-Substance-Painter.jpg",
+            "length": "60171",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://3dnchu.com/wp-content/uploads/World-space-3D-Blur-Filter-for-Substance-Painter.jpg"
+        },
+        {
           "id": "https://3dnchu.com/?p=1063224",
           "author": "Ymt3D -3dnchu-",
           "description": "ゲーム開発会社 Indie-us Games が主催のゲーム開発者＆学生向けイベント「OPEN GAME FEST 2026」が2026年7月11日に京都コンピューター学院にて開催されます！",
@@ -631,6 +646,26 @@
       "feedUrl": "https://cgworld.jp/atom.xml",
       "siteUrl": "https://cgworld.jp/",
       "articles": [
+        {
+          "id": "https://cgworld.jp/special-feature/2605-hp-eva30.html",
+          "author": null,
+          "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
+          "link": "https://cgworld.jp/special-feature/2605-hp-eva30.html",
+          "publishedOn": "2026-06-08T01:53:40.000Z",
+          "wordCount": 650,
+          "title": "『シン・エヴァンゲリオン劇場版』で導入された映画制作技術を「体験」へ 「エヴァフェス」ヴァーチャルカメラスタジオの舞台裏とHPのZシリーズが果たした役割 - スペシャルコンテンツ",
+          "imageUrl": "https://cgworld.jp/special-feature/assets_c/2026/05/9b4f80c8d142bd3bf944939169af127b35c1a16d-thumb-1000x563-83350.png"
+        },
+        {
+          "id": "https://cgworld.jp/flashnews/01-202606-RodinGen-2.5.html",
+          "author": null,
+          "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
+          "link": "https://cgworld.jp/flashnews/01-202606-RodinGen-2.5.html",
+          "publishedOn": "2026-06-07T22:17:32.000Z",
+          "wordCount": 996,
+          "title": "3D生成AI「Rodin Gen-2.5」リリース　最大1,000万ポリゴンの生成が可能に、4秒100万ポリゴンの高速生成、LLM的思考プロセス搭載、12Kテクスチャ - ニュース",
+          "imageUrl": "https://cgworld.jp/flashnews/assets_c/2026/06/RodinGen25-01-thumb-1920x1080-84604.jpg"
+        },
         {
           "id": "https://cgworld.jp/flashnews/01-202606-SP-Masks.html",
           "author": null,
@@ -1559,6 +1594,16 @@
       "siteUrl": "https://modelinghappy.com",
       "articles": [
         {
+          "id": "https://modelinghappy.com/?p=68972",
+          "author": "modelinghappy",
+          "description": "faceLoopPatch #8211; beta #8211; Im3dJoe #8211; Maya Polygon Lab #8211;さんが作成した、Mayaで周囲の境界を維持したまま、不均一なフェースル\nThe post Mayaで不均一なトポロジーを綺麗に再構築！「faceLoopPatch – beta」公開 first appeared on 3DCG最新情報サイト MODELING HAPPY.",
+          "link": "https://modelinghappy.com/archives/68972",
+          "publishedOn": "2026-06-07T22:56:39.000Z",
+          "wordCount": 3102,
+          "title": "Mayaで不均一なトポロジーを綺麗に再構築！「faceLoopPatch – beta」公開",
+          "imageUrl": "https://modelinghappy.com/wp-content/uploads/2026/06/20260608_facelooppatch_01.jpg"
+        },
+        {
           "id": "https://modelinghappy.com/?p=68967",
           "author": "modelinghappy",
           "description": "Step Importer For Blender – Import Step / Stp Cad Files STEP IMPORTERは、Blenderで.stp形式のCADデータをBlenderへ直接読み込めるアド\nThe post BlenderにSTEPファイルを直接インポート！テッセレーションを個別調整できる「Step Importer」 first appeared on 3DCG最新情報サイト MODELING HAPPY.",
@@ -1977,26 +2022,6 @@
           "wordCount": 3067,
           "title": "水流に削られたような谷や尾根のある地形を作れる無料Blender侵食ノード「Quick Erosion Filter」",
           "imageUrl": "https://modelinghappy.com/wp-content/uploads/2026/05/20260510_Quick_Erosion_Filter_01.jpg"
-        },
-        {
-          "id": "https://modelinghappy.com/?p=68586",
-          "author": "modelinghappy",
-          "description": "Uv Flex #8211; Interactive Editing Tools Uv FlexはBlenderでUV調整が便利になる機能が３つ入ったアドオンです。 １つ目はエッジを連続して選択する事で切り離す事が可能\nThe post UVをリアルタイムに切る・結合する・描いた形に変形出来るBlenderアドオン「Uv Flex」 first appeared on 3DCG最新情報サイト MODELING HAPPY.",
-          "link": "https://modelinghappy.com/archives/68586",
-          "publishedOn": "2026-05-09T13:17:06.000Z",
-          "wordCount": 3094,
-          "title": "UVをリアルタイムに切る・結合する・描いた形に変形出来るBlenderアドオン「Uv Flex」",
-          "imageUrl": "https://modelinghappy.com/wp-content/uploads/2026/05/20260509_UvFlex_00.jpg"
-        },
-        {
-          "id": "https://modelinghappy.com/?p=68563",
-          "author": "modelinghappy",
-          "description": "Realistic Touch 200種類以上の、汚れた4Kシームレステクスチャが使用出来る、Blender用ノードRealistic Touchを実際に使ってみたので詳しく記事にしました。 白黒の汚れ専用ノードが付属し\nThe post Blenderで200種類以上のシームレス汚れ素材が使える「Realistic Touch」実際に使ってみた。レビュー first appeared on 3DCG最新情報サイト MODELING HAPPY.",
-          "link": "https://modelinghappy.com/archives/68563",
-          "publishedOn": "2026-05-09T06:52:15.000Z",
-          "wordCount": 3155,
-          "title": "Blenderで200種類以上のシームレス汚れ素材が使える「Realistic Touch」実際に使ってみた。レビュー",
-          "imageUrl": "https://modelinghappy.com/wp-content/uploads/2026/05/20260509_realistic_touch_15.jpg"
         }
       ]
     },
@@ -2263,6 +2288,21 @@
       "siteUrl": "https://zenn.dev/topics/shader",
       "articles": [
         {
+          "id": "https://zenn.dev/zn_ryg12/articles/shader-note-20260607",
+          "author": "ryuga.",
+          "description": "Fullscreen Pass Renderer Feature。名前が長い\n\n FullscreenPassRendererFeatureとは？\nUnity 2022.2から導入された、URPで使える画面全体に処理を適用できる機能。\nこれを使うと手軽にシェーダーグラフでスクリーンエフェクト（ポストプロセス）を作れます。\n\n 使い方\n※Unity6.3での操作です\n今回はシーン上に簡素なレンズフレア的な処理を加えたいとします。\n\nこの画像にエフェクトを加えます\n\n\nFullscreen用のシェーダーグラフを作成\nProjectで右クリック > Create > ShaderG...",
+          "link": "https://zenn.dev/zn_ryg12/articles/shader-note-20260607",
+          "publishedOn": "2026-06-07T12:55:26.000Z",
+          "wordCount": 683,
+          "title": "Unity ShaderGraph備忘録 part5-Fullscreen Pass Renderer Feature",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--GGfzMy7E--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Unity%2520ShaderGraph%25E5%2582%2599%25E5%25BF%2598%25E9%258C%25B2%2520part5-Fullscreen%2520Pass%2520Renderer%2520Feature%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:ryuga.%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jS1lsU1ZRcnpMYW1lRXUzY3lqQW9JdGhFQW8wMGNhaGpLY1JnRkh0a3JYRnJRdjBlSTU9czI1MC1j%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+            "length": "0",
+            "type": "false"
+          },
+          "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--GGfzMy7E--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Unity%2520ShaderGraph%25E5%2582%2599%25E5%25BF%2598%25E9%258C%25B2%2520part5-Fullscreen%2520Pass%2520Renderer%2520Feature%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:ryuga.%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jS1lsU1ZRcnpMYW1lRXUzY3lqQW9JdGhFQW8wMGNhaGpLY1JnRkh0a3JYRnJRdjBlSTU9czI1MC1j%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+        },
+        {
           "id": "https://zenn.dev/ruccho/articles/shader-optimization",
           "author": "ruccho",
           "description": "以前の記事では実際のシェーダーをもとに最適化を行う例を紹介しました。\nhttps://zenn.dev/ruccho/articles/f9a58ae9a48704\n今回は GPU のアーキテクチャについて理解を深め、理屈から効果的な最適化の方法を考えてみたいと思います。\n\n GPU のアーキテクチャ\n\n 構造\nGPU は大雑把に以下のような構造をしています。\n\nGPU 全体で共有されるグローバルメモリ、それにいくつかの GPU コアが接続されています。実際のシェーダーの実行は各 GPU コアで行われます。\n\n スケジューリング\n現代の多くの GPU は「同じ命令を複数のスレッドで同時に...",
@@ -2484,6 +2524,21 @@
       "feedUrl": "https://zenn.dev/topics/3dcg/feed",
       "siteUrl": "https://zenn.dev/topics/3dcg",
       "articles": [
+        {
+          "id": "https://zenn.dev/s_hashida/articles/af82fff32e1eb0",
+          "author": "s_hashida",
+          "description": "はじめに\n前回は、\n\nFactor Graph\nPose Graph\nBundle Adjustment\nSLAM\n\nの関係について説明しました。\n\nその中で重要だったのが、\n\n\\min_{\\mathbf{x}}\n\\sum_k\ne_k(\\mathbf{x})^T\n\\Omega_k\ne_k(\\mathbf{x})\n\nという形でした。\n\nここで疑問が出てきます。\n\nこの最適化はどう解かれるのか？\nFactorは何を計算しているのか？\nなぜヤコビアンが必要なのか？\nSLAMの内部では何が起きているのか？\n\n\n実は、Factor Graph最適化の内部では、以前説明した\n\nGauss-Ne...",
+          "link": "https://zenn.dev/s_hashida/articles/af82fff32e1eb0",
+          "publishedOn": "2026-06-07T22:00:07.000Z",
+          "wordCount": 1081,
+          "title": "フォトグラメトリ数学｜28：Gauss-Newton法はSLAMでどう使われるのか",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--GQP4WpJa--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%2595%25E3%2582%25A9%25E3%2583%2588%25E3%2582%25B0%25E3%2583%25A9%25E3%2583%25A1%25E3%2583%2588%25E3%2583%25AA%25E6%2595%25B0%25E5%25AD%25A6%25EF%25BD%259C28%25EF%25BC%259AGauss-Newton%25E6%25B3%2595%25E3%2581%25AFSLAM%25E3%2581%25A7%25E3%2581%25A9%25E3%2581%2586%25E4%25BD%25BF%25E3%2582%258F%25E3%2582%258C%25E3%2582%258B%25E3%2581%25AE%25E3%2581%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:s_hashida%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2JmNmU5NjMzMTEuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+            "length": "0",
+            "type": "false"
+          },
+          "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--GQP4WpJa--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%2595%25E3%2582%25A9%25E3%2583%2588%25E3%2582%25B0%25E3%2583%25A9%25E3%2583%25A1%25E3%2583%2588%25E3%2583%25AA%25E6%2595%25B0%25E5%25AD%25A6%25EF%25BD%259C28%25EF%25BC%259AGauss-Newton%25E6%25B3%2595%25E3%2581%25AFSLAM%25E3%2581%25A7%25E3%2581%25A9%25E3%2581%2586%25E4%25BD%25BF%25E3%2582%258F%25E3%2582%258C%25E3%2582%258B%25E3%2581%25AE%25E3%2581%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:s_hashida%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2JmNmU5NjMzMTEuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+        },
         {
           "id": "https://zenn.dev/s_hashida/articles/775378b009f6fe",
           "author": "s_hashida",
@@ -4251,21 +4306,6 @@
           "wordCount": 29681,
           "title": "［〆切2026年07月31日］学生向けクリエイティブコンテスト「第2回 WCCC クリエイティブコンテスト」",
           "imageUrl": "https://cginterest.com/wp-content/uploads/2026/05/wccc-contest2026.webp"
-        },
-        {
-          "id": "https://cginterest.com/?p=58648",
-          "author": ".me",
-          "description": "VK Gamedev によるスカルプト用ブラシのアセット「3000+ Sculpting Brushes for Blender」の紹介です。 主な内容 「3000+ Sculpting Brushes for Blen […]\n圧倒的ボリューム！3000種超えのBlender用スカルプトブラシパック「3000+ Sculpting Brushes」 first appeared on CGinterest.",
-          "link": "https://cginterest.com/2026/05/09/%e5%9c%a7%e5%80%92%e7%9a%84%e3%83%9c%e3%83%aa%e3%83%a5%e3%83%bc%e3%83%a0%ef%bc%813000%e7%a8%ae%e8%b6%85%e3%81%88%e3%81%aeblender%e7%94%a8%e3%82%b9%e3%82%ab%e3%83%ab%e3%83%97%e3%83%88%e3%83%96%e3%83%a9/",
-          "publishedOn": "2026-05-09T02:55:56.000Z",
-          "wordCount": 29313,
-          "title": "圧倒的ボリューム！3000種超えのBlender用スカルプトブラシパック「3000+ Sculpting Brushes」",
-          "enclosure": {
-            "url": "https://cginterest.com/wp-content/uploads/2026/05/3000VKGamedev-brushasset-browser.mp4",
-            "length": "165478",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://cginterest.com/wp-content/uploads/2026/05/3000SculptingBrushesforBlender.webp"
         }
       ]
     }

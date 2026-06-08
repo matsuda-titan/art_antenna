@@ -2,10 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-06-08T07:22:27.355Z</updated>
+    <updated>2026-06-08T12:20:35.859Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Robloxの「モーフ」は本当に形が変わっているのか？]]></title>
+        <id>https://zenn.dev/haruka_apps/articles/651ebc89eeb42a</id>
+        <link href="https://zenn.dev/haruka_apps/articles/651ebc89eeb42a"/>
+        <updated>2026-06-08T09:55:59.000Z</updated>
+        <summary type="html"><![CDATA[はじめに
+Robloxで「モーフ」と聞くと、床やポータルに触れた瞬間に別のキャラクターへ変身する仕組みを思い浮かべる人が多いと思います。
+実際、ゲームとしてはそれで十分なことが多いです。魔法使いになったり、モンスターになったり、見た目が変われば「変身した」と感じられます。
+でも、ふと疑問が出ました。
+
+それは本当に「形が変わっている」のか？
+
+この記事では、Roblox StudioとBlenderを使い、Robloxのメッシュ編集APIである EditableMesh で頂点情報を確認しながら、魔法使いアバターからキメラ風モデルへの変身を試しました。
+今回の検証範囲でいうと、Rob...]]></summary>
+        <author>
+            <name>haruka_apps</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【Houdini】TextureVEXを使った.tgaのPremultiplyについて]]></title>
+        <id>https://zenn.dev/yuzutarou/articles/d3c2d6044df81c</id>
+        <link href="https://zenn.dev/yuzutarou/articles/d3c2d6044df81c"/>
+        <updated>2026-06-08T07:59:53.000Z</updated>
+        <summary type="html"><![CDATA[調べたこと
+ゲームにおいて、RGBAにそれぞれRoughness、Metallicなどのfloatカラーを格納して「.tga」を活用するケースがあると思う。しかしtgaをTexture VEXで読み込むとAlpha部分のカラーが以下のように失われてしまうケースがある。
+SideFX社に問い合わせしたところ教えて頂いたのでそれを防ぐための方法について記載。
+
+サンプルファイル：texture_vex.hiplc
+https://github.com/yuzutarou-maru/Houdini_Sample/tree/main/houdini/Vex
+
+ Houdiniバージョン
+Ho...]]></summary>
+        <author>
+            <name>ゆずたろう</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[freee、経営×バックオフィス×AIの祭典「freee 統合ワールド」6/16（火）東京にて開催－『KILLTUBE』太田氏×栗林氏も登壇 - ニュース]]></title>
         <id>https://cgworld.jp/flashnews/02-2606-freee.html</id>

@@ -2468,6 +2468,21 @@
       "siteUrl": "https://zenn.dev/topics/houdini",
       "articles": [
         {
+          "id": "https://zenn.dev/yuzutarou/articles/d3c2d6044df81c",
+          "author": "ゆずたろう",
+          "description": "調べたこと\nゲームにおいて、RGBAにそれぞれRoughness、Metallicなどのfloatカラーを格納して「.tga」を活用するケースがあると思う。しかしtgaをTexture VEXで読み込むとAlpha部分のカラーが以下のように失われてしまうケースがある。\nSideFX社に問い合わせしたところ教えて頂いたのでそれを防ぐための方法について記載。\n\nサンプルファイル：texture_vex.hiplc\nhttps://github.com/yuzutarou-maru/Houdini_Sample/tree/main/houdini/Vex\n\n Houdiniバージョン\nHo...",
+          "link": "https://zenn.dev/yuzutarou/articles/d3c2d6044df81c",
+          "publishedOn": "2026-06-08T07:59:53.000Z",
+          "wordCount": 494,
+          "title": "【Houdini】TextureVEXを使った.tgaのPremultiplyについて",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--fjUhiIQH--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2580%2590Houdini%25E3%2580%2591TextureVEX%25E3%2582%2592%25E4%25BD%25BF%25E3%2581%25A3%25E3%2581%259F.tga%25E3%2581%25AEPremultiply%25E3%2581%25AB%25E3%2581%25A4%25E3%2581%2584%25E3%2581%25A6%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2582%2586%25E3%2581%259A%25E3%2581%259F%25E3%2582%258D%25E3%2581%2586%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzhlZGM4ZjBmYjQuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+            "length": "0",
+            "type": "false"
+          },
+          "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--fjUhiIQH--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2580%2590Houdini%25E3%2580%2591TextureVEX%25E3%2582%2592%25E4%25BD%25BF%25E3%2581%25A3%25E3%2581%259F.tga%25E3%2581%25AEPremultiply%25E3%2581%25AB%25E3%2581%25A4%25E3%2581%2584%25E3%2581%25A6%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2582%2586%25E3%2581%259A%25E3%2581%259F%25E3%2582%258D%25E3%2581%2586%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzhlZGM4ZjBmYjQuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+        },
+        {
           "id": "https://zenn.dev/mattya3713/articles/710d8f99998d57",
           "author": "mattya3713",
           "description": "※本記事はHoudini入門者が、書籍「理論と実践で学ぶHoudini」に基づいて学習した内容を整理したメモです。\n実際の操作・解釈は筆者の理解に基づいて再構成しているため、表現や解釈に一部簡略化・独自整理を含みます。\n正確性は一切ないのでご注意ください。\n\n 2章 ポイント、頂点、プリミティブ\n\n 1. Point（ポイント）\nポリゴンやカーブを構成する基本単位\nPoint自体は「3D空間上の位置情報」を持つ要素であり\nここにアトリビュート(属性) を追加することで\n法線・色・速度・サイズなどの情報を持たせることができる\n\n 2.Vertex\nプリミティブ（ポリゴンやカーブなど）を構成...",
@@ -2534,6 +2549,21 @@
       "feedUrl": "https://zenn.dev/topics/3dcg/feed",
       "siteUrl": "https://zenn.dev/topics/3dcg",
       "articles": [
+        {
+          "id": "https://zenn.dev/haruka_apps/articles/651ebc89eeb42a",
+          "author": "haruka_apps",
+          "description": "はじめに\nRobloxで「モーフ」と聞くと、床やポータルに触れた瞬間に別のキャラクターへ変身する仕組みを思い浮かべる人が多いと思います。\n実際、ゲームとしてはそれで十分なことが多いです。魔法使いになったり、モンスターになったり、見た目が変われば「変身した」と感じられます。\nでも、ふと疑問が出ました。\n\nそれは本当に「形が変わっている」のか？\n\nこの記事では、Roblox StudioとBlenderを使い、Robloxのメッシュ編集APIである EditableMesh で頂点情報を確認しながら、魔法使いアバターからキメラ風モデルへの変身を試しました。\n今回の検証範囲でいうと、Rob...",
+          "link": "https://zenn.dev/haruka_apps/articles/651ebc89eeb42a",
+          "publishedOn": "2026-06-08T09:55:59.000Z",
+          "wordCount": 1047,
+          "title": "Robloxの「モーフ」は本当に形が変わっているのか？",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--tGugh0vE--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Roblox%25E3%2581%25AE%25E3%2580%258C%25E3%2583%25A2%25E3%2583%25BC%25E3%2583%2595%25E3%2580%258D%25E3%2581%25AF%25E6%259C%25AC%25E5%25BD%2593%25E3%2581%25AB%25E5%25BD%25A2%25E3%2581%258C%25E5%25A4%2589%25E3%2582%258F%25E3%2581%25A3%25E3%2581%25A6%25E3%2581%2584%25E3%2582%258B%25E3%2581%25AE%25E3%2581%258B%25EF%25BC%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:haruka_apps%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzBlNDQwYTViNDkuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+            "length": "0",
+            "type": "false"
+          },
+          "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--tGugh0vE--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Roblox%25E3%2581%25AE%25E3%2580%258C%25E3%2583%25A2%25E3%2583%25BC%25E3%2583%2595%25E3%2580%258D%25E3%2581%25AF%25E6%259C%25AC%25E5%25BD%2593%25E3%2581%25AB%25E5%25BD%25A2%25E3%2581%258C%25E5%25A4%2589%25E3%2582%258F%25E3%2581%25A3%25E3%2581%25A6%25E3%2581%2584%25E3%2582%258B%25E3%2581%25AE%25E3%2581%258B%25EF%25BC%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:haruka_apps%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzBlNDQwYTViNDkuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+        },
         {
           "id": "https://zenn.dev/s_hashida/articles/af82fff32e1eb0",
           "author": "s_hashida",

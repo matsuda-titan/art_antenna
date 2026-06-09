@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-06-09T02:03:39.475Z</updated>
+    <updated>2026-06-09T06:39:01.446Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
@@ -14,6 +14,36 @@
         <summary type="html"><![CDATA[リアルタイムCGやAIを建築・自動車・映像などの産業分野へ活かす動きは広がりつつあるが、社内導入には依然として高い壁がある。既存ワークフローからの移行、CADデータの整備、パイプライン構築、そして社内説得のための具体的な成果提示など、技術的な課題から、社内調整まで多岐にわたる。  その最前線で課題解決に取り組んできたのが、元々Epic Gamesで日本唯一のノンゲーム専任技術者としてUnreal Engineの産業導入を牽引してきた向井秀哉氏だ。同氏はこれまで、国内大手の自動車メーカーや映像プロダクション]]></summary>
         <author>
             <name>CGWORLD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[&quot;心で見る&quot;体験を成立させる光と撮影の設計『OPUS: Prism Peak』 - 特集]]></title>
+        <id>https://cgworld.jp/article/202606-cgw334-opus.html</id>
+        <link href="https://cgworld.jp/article/202606-cgw334-opus.html"/>
+        <updated>2026-06-09T06:04:00.000Z</updated>
+        <summary type="html"><![CDATA[『OPUS: Prism Peak』のゲームCGメイキング。]]></summary>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[『ワンダンス』におけるMarvelous Designer活用事例が公開　ー膨大な衣装制作とダンス表現を支えたワークフロー - ニュース]]></title>
+        <id>https://cgworld.jp/flashnews/2606-03-md.html</id>
+        <link href="https://cgworld.jp/flashnews/2606-03-md.html"/>
+        <updated>2026-06-09T04:20:00.000Z</updated>
+        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【アドオン紹介】Easeam 2 – シーム入れ作業を効率化！]]></title>
+        <id>https://cgbox.jp/?p=65385</id>
+        <link href="https://cgbox.jp/2026/06/09/news-addon-easeam-2/"/>
+        <updated>2026-06-09T03:38:22.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは！ 今回はアドオンの「Easeam 2」を紹介します。 こちらのリンクがアドオンの商品ページになります。 Easeam 2 「Easeam 2」は、BlenderのUV展開準備を効率化するシーム作成・UV管理ア […]]]></summary>
+        <author>
+            <name>kasahara</name>
         </author>
     </entry>
     <entry>
@@ -67,6 +97,18 @@ OpenUSD最新アップデートを紹介、3D Gaussian Splatting対応と実稼�
 Houdini 22 Sneak Peek が公開！注目の新機能リストを紹介 first appeared on CGinterest.]]></summary>
         <author>
             <name>.me</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[地面と自然になじませる！設置面の「法線ブレンド」完全解説]]></title>
+        <id>https://tech-art.online/?p=2020</id>
+        <link href="https://tech-art.online/%e5%9c%b0%e9%9d%a2%e3%81%a8%e8%87%aa%e7%84%b6%e3%81%ab%e3%81%aa%e3%81%98%e3%81%be%e3%81%9b%e3%82%8b%ef%bc%81%e8%a8%ad%e7%bd%ae%e9%9d%a2%e3%81%ae%e3%80%8c%e6%b3%95%e7%b7%9a%e3%83%96%e3%83%ac%e3%83%b3/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=%25e5%259c%25b0%25e9%259d%25a2%25e3%2581%25a8%25e8%2587%25aa%25e7%2584%25b6%25e3%2581%25ab%25e3%2581%25aa%25e3%2581%2598%25e3%2581%25be%25e3%2581%259b%25e3%2582%258b%25ef%25bc%2581%25e8%25a8%25ad%25e7%25bd%25ae%25e9%259d%25a2%25e3%2581%25ae%25e3%2580%258c%25e6%25b3%2595%25e7%25b7%259a%25e3%2583%2596%25e3%2583%25ac%25e3%2583%25b3"/>
+        <updated>2026-06-08T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Houdiniを使って、配置したオブジェクトと地面の接触部分を自然になじませる「法線ブレンド」の手法について解説します。 Rayノードを用いた地面の情 […]
+続きを読む
+地面と自然になじませる！設置面の「法線ブレンド」完全解説 first appeared on TECH ART ONLINE.]]></summary>
+        <author>
+            <name>管理人</name>
         </author>
     </entry>
     <entry>
@@ -4600,38 +4642,6 @@ The post Blenderでシェイプキー編集中を枠と文字で警告表示出�
 ノイズ...]]></summary>
         <author>
             <name>s_hashida</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[VEX関係　早めに欲しかった系統のTIPS]]></title>
-        <id>https://note.com/tadano___hato/n/n4cddc24ee340</id>
-        <link href="https://note.com/tadano___hato/n/n4cddc24ee340"/>
-        <updated>2026-05-10T18:26:05.000Z</updated>
-        <summary type="html"><![CDATA[ガチ人ではないのであまり好ましくない手段とか間違いもあるかも、解説というよりブログみたいな感じです
-プログラミング非有識人間なのでわかる人には当たり前のような話もかなりある
-続きをみる]]></summary>
-        <author>
-            <name>#Houdiniタグ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Palette Grid | グラデーションカラーパレットを活用したテクスチャリングワークフローを実現するBlenderアドオン！]]></title>
-        <id>https://3dnchu.com/?p=1064945</id>
-        <link href="https://3dnchu.com/archives/palette-grid/"/>
-        <updated>2026-05-10T17:53:35.000Z</updated>
-        <summary type="html"><![CDATA[SavedPixelから、グラデーション付きカラーパレットをベースにテクスチャリングするワークフローを効率化するBlenderアドオン　「Palette Grid」がリリースされました！]]></summary>
-        <author>
-            <name>Ymt3D -3dnchu-</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Unreal Sensei Master Material | レイヤーペイントやNaniteテッセレーションを設定済みのUnreal Engine 5.7用マスターマテリアル！Unreal Senseiが無料配布！]]></title>
-        <id>https://3dnchu.com/?p=1064919</id>
-        <link href="https://3dnchu.com/archives/unreal-sensei-master-material/"/>
-        <updated>2026-05-10T16:57:19.000Z</updated>
-        <summary type="html"><![CDATA[Unreal SenseiがUE5.7向けの背景用マスターマテリアル「Unreal Sensei Master Material」を無料公開しています！]]></summary>
-        <author>
-            <name>Ymt3D -3dnchu-</name>
         </author>
     </entry>
 </feed>

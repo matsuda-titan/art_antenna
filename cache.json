@@ -658,6 +658,16 @@
       "siteUrl": "https://cgworld.jp/",
       "articles": [
         {
+          "id": "https://cgworld.jp/flashnews/02-2606-wow-student-program-2026.html",
+          "author": null,
+          "description": "",
+          "link": "https://cgworld.jp/flashnews/02-2606-wow-student-program-2026.html",
+          "publishedOn": "2026-06-09T07:08:35.000Z",
+          "wordCount": null,
+          "title": "WOW、学生向け育成プログラム「WOW Student Program 2026」を開催。次世代クリエイターの挑戦を支援。 - ニュース",
+          "imageUrl": null
+        },
+        {
           "id": "https://cgworld.jp/article/arcnelcgai.html",
           "author": null,
           "description": "リアルタイムCGやAIを建築・自動車・映像などの産業分野へ活かす動きは広がりつつあるが、社内導入には依然として高い壁がある。既存ワークフローからの移行、CADデータの整備、パイプライン構築、そして社内説得のための具体的な成果提示など、技術的な課題から、社内調整まで多岐にわたる。  その最前線で課題解決に取り組んできたのが、元々Epic Gamesで日本唯一のノンゲーム専任技術者としてUnreal Engineの産業導入を牽引してきた向井秀哉氏だ。同氏はこれまで、国内大手の自動車メーカーや映像プロダクション",
@@ -2062,6 +2072,16 @@
       "siteUrl": "https://3dtotal.jp",
       "articles": [
         {
+          "id": "https://3dtotal.jp/?p=55739",
+          "author": "3dtotal管理人T",
+          "description": "はじめに このチュートリアルでは、コンセプトアーティスト Varun Nair氏 の素晴らしいスケッチをもとに制作した「Stoner」の制作プロセスを紹介します。ZBrushモデリングから、Substance 3D Pa […]\nThe post 2Dのコンセプトから3Dへ：スタイライズ キャラクター「Stoner」のメイキング first appeared on 3dtotal 日本語オフィシャルサイト.",
+          "link": "https://3dtotal.jp/tutorials/55739/",
+          "publishedOn": "2026-06-09T10:46:07.000Z",
+          "wordCount": 653,
+          "title": "2Dのコンセプトから3Dへ：スタイライズ キャラクター「Stoner」のメイキング",
+          "imageUrl": "https://3dtotal.jp/wp-content/uploads/2026/06/t389_t.jpg"
+        },
+        {
           "id": "https://3dtotal.jp/?p=55703",
           "author": "3dtotal管理人T",
           "description": "★One Piece S2 VFX Breakdown（3分2秒/ 制作：Framestore） 麦わらの一味、グランドラインへ！ 『ONE PIECE』シーズン1 の制作に続き、VFXチームはシーズン2へと冒険の舞台を […]\nThe post 麦わらの一味、グランドラインへ！ 実写版『ONE PIECE』シーズン2 の VFXメイキング映像＆トレーラー集 first appeared on 3dtotal 日本語オフィシャルサイト.",
@@ -2541,6 +2561,21 @@
       "siteUrl": "https://zenn.dev/topics/3dcg",
       "articles": [
         {
+          "id": "https://zenn.dev/wogo_techblog/articles/aaaae6f1b8cbd1",
+          "author": "しとりん",
+          "description": "はじめに\n株式会社WOGOでインターンをしている中川です。\nPythonで3Dビューアを備えたデスクトップアプリを作ってみたいと思います。今回は3DビューアにPyVistaを使い、PySide6によるGUIに載せることにしました。\n\n ライブラリ選定\n\n 3Dビューア\n3Dの描画ができるライブラリで、有名なものには、Matplotlibがあります。しかし、デスクトップアプリを作るうえで、描画するだけでなく3Dデータへの操作もできるようにしたいです。\nそこで、3Dデータの描画、操作をできるライブラリである PyVista を使用することにしました。\n\n PyVistaとは\n3Dデータの...",
+          "link": "https://zenn.dev/wogo_techblog/articles/aaaae6f1b8cbd1",
+          "publishedOn": "2026-06-09T10:00:05.000Z",
+          "wordCount": 2114,
+          "title": "PyVista on PySide6で作る3Dアプリケーション",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--6X8slWXn--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:PyVista%2520on%2520PySide6%25E3%2581%25A7%25E4%25BD%259C%25E3%2582%258B3D%25E3%2582%25A2%25E3%2583%2597%25E3%2583%25AA%25E3%2582%25B1%25E3%2583%25BC%25E3%2582%25B7%25E3%2583%25A7%25E3%2583%25B3%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:%25E3%2581%2597%25E3%2581%25A8%25E3%2582%258A%25E3%2582%2593%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2MyOTNhOWRmNmIuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/g_south_west%2Ch_34%2Cl_default:og-publication-pro-mark-xcosax%2Cw_34%2Cx_217%2Cy_158/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:WOGO%2520Tech%2520blog%2Cx_255%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzI0NGY3M2MyMDMuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+            "length": "0",
+            "type": "false"
+          },
+          "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--6X8slWXn--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:PyVista%2520on%2520PySide6%25E3%2581%25A7%25E4%25BD%259C%25E3%2582%258B3D%25E3%2582%25A2%25E3%2583%2597%25E3%2583%25AA%25E3%2582%25B1%25E3%2583%25BC%25E3%2582%25B7%25E3%2583%25A7%25E3%2583%25B3%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:%25E3%2581%2597%25E3%2581%25A8%25E3%2582%258A%25E3%2582%2593%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2MyOTNhOWRmNmIuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/g_south_west%2Ch_34%2Cl_default:og-publication-pro-mark-xcosax%2Cw_34%2Cx_217%2Cy_158/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:WOGO%2520Tech%2520blog%2Cx_255%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzI0NGY3M2MyMDMuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+        },
+        {
           "id": "https://zenn.dev/haruka_apps/articles/651ebc89eeb42a",
           "author": "haruka_apps",
           "description": "はじめに\nRobloxで「モーフ」と聞くと、床やポータルに触れた瞬間に別のキャラクターへ変身する仕組みを思い浮かべる人が多いと思います。\n実際、ゲームとしてはそれで十分なことが多いです。魔法使いになったり、モンスターになったり、見た目が変われば「変身した」と感じられます。\nでも、ふと疑問が出ました。\n\nそれは本当に「形が変わっている」のか？\n\nこの記事では、Roblox StudioとBlenderを使い、Robloxのメッシュ編集APIである EditableMesh で頂点情報を確認しながら、魔法使いアバターからキメラ風モデルへの変身を試しました。\n今回の検証範囲でいうと、Rob...",
@@ -2764,21 +2799,6 @@
             "type": "false"
           },
           "imageUrl": null
-        },
-        {
-          "id": "https://zenn.dev/s_hashida/articles/ff4cc119f150c3",
-          "author": "s_hashida",
-          "description": "はじめに\n前回は、\n\nガウスノイズ\n最尤推定\n\nから\n\n\\min_\\theta \\|\\mathbf{r}(\\theta)\\|^2\n\nが導かれることを見ました。\nしかしここには、暗黙の前提がありました。\n\n\nすべての観測が同じ精度である\n\n\n現実ではこれは成り立ちません。\n\n 観測ごとに精度が違う\n実際のSfMでは、\n\n特徴点ごとに精度が違う\nマッチングの信頼度が違う\nセンサーのノイズが違う\n\nといったことが普通に起こります。\n\nつまり\n\nズレの「信頼度」が違う\n\nということです。\n\n\n 直感：信用できるものを強くする\n考え方はシンプルです。\n\n\n精度が高い → 強く効かせる\nノイズ...",
-          "link": "https://zenn.dev/s_hashida/articles/ff4cc119f150c3",
-          "publishedOn": "2026-05-10T22:10:05.000Z",
-          "wordCount": 834,
-          "title": "フォトグラメトリ数学｜16：重み付き最小二乗とは何か",
-          "enclosure": {
-            "url": "https://res.cloudinary.com/zenn/image/upload/s--AooBfHuT--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%2595%25E3%2582%25A9%25E3%2583%2588%25E3%2582%25B0%25E3%2583%25A9%25E3%2583%25A1%25E3%2583%2588%25E3%2583%25AA%25E6%2595%25B0%25E5%25AD%25A6%25EF%25BD%259C16%25EF%25BC%259A%25E9%2587%258D%25E3%2581%25BF%25E4%25BB%2598%25E3%2581%258D%25E6%259C%2580%25E5%25B0%258F%25E4%25BA%258C%25E4%25B9%2597%25E3%2581%25A8%25E3%2581%25AF%25E4%25BD%2595%25E3%2581%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:s_hashida%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2JmNmU5NjMzMTEuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
-            "length": "0",
-            "type": "false"
-          },
-          "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--AooBfHuT--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%2595%25E3%2582%25A9%25E3%2583%2588%25E3%2582%25B0%25E3%2583%25A9%25E3%2583%25A1%25E3%2583%2588%25E3%2583%25AA%25E6%2595%25B0%25E5%25AD%25A6%25EF%25BD%259C16%25EF%25BC%259A%25E9%2587%258D%25E3%2581%25BF%25E4%25BB%2598%25E3%2581%258D%25E6%259C%2580%25E5%25B0%258F%25E4%25BA%258C%25E4%25B9%2597%25E3%2581%25A8%25E3%2581%25AF%25E4%25BD%2595%25E3%2581%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:s_hashida%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2JmNmU5NjMzMTEuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"
         }
       ]
     },
@@ -3531,6 +3551,16 @@
       "siteUrl": "https://3d.crdg.jp/env/",
       "articles": [
         {
+          "id": "https://3d.crdg.jp/env/?p=9714",
+          "author": "Akito.Yamakawa",
+          "description": "今回は、トリムシートについてご紹介します。 トリムシートとは、複数のオブジェクトで共通のテクスチャを使用するための手法です。主に建築物や背景アセットな […]\n続きを読む\n投稿 トリムシート制作パート①　～設計編～ は エンホリ - ENVIRONMENT HOLIC｜C&R Creative Studios に最初に表示されました。",
+          "link": "https://3d.crdg.jp/env/2026/06/09/9714/?utm_source=rss&utm_medium=rss&utm_campaign=%25e3%2583%2588%25e3%2583%25aa%25e3%2583%25a0%25e3%2582%25b7%25e3%2583%25bc%25e3%2583%2588%25e5%2588%25b6%25e4%25bd%259c%25e3%2583%2591%25e3%2583%25bc%25e3%2583%2588%25e2%2591%25a0%25e3%2580%2580%25ef%25bd%259e%25e8%25a8%25ad%25e8%25a8%2588%25e7%25b7%25a8%25ef%25bd%259e",
+          "publishedOn": "2026-06-09T10:30:38.000Z",
+          "wordCount": 3109,
+          "title": "トリムシート制作パート①　～設計編～",
+          "imageUrl": "https://3d.crdg.jp/env/wp-content/uploads/2026/06/サムネイル_テンプレート_260120-のコピー-1.png"
+        },
+        {
           "id": "https://3d.crdg.jp/env/?p=9431",
           "author": "Kaho.Nobukawa",
           "description": "以前、「【Substance Painter】Heightをより強く見せるコツ」という記事を書いたんですが、ぼかしやベベルを追加したHeightにカラ […]\n続きを読む\n投稿 【Substance Painter】Heightにぼかしやベベルを入れた時に気をつけたいこと は エンホリ - ENVIRONMENT HOLIC｜C&R Creative Studios に最初に表示されました。",
@@ -3597,6 +3627,31 @@
       "feedUrl": "https://cginterest.com/feed/",
       "siteUrl": "https://cginterest.com",
       "articles": [
+        {
+          "id": "https://cginterest.com/?p=59585",
+          "author": ".me",
+          "description": "6月5日（現地時間）、KIRI Engineが提供するBlender向けアドオン「3DGS Render」の最新バージョンであるv5.0.0がリリースされました。 主要な新機能 今回のアップデートは、長らく報告されていた […]\nBlender用アドオン「3DGS Render」v5.0がリリース！実験的機能として3DGSの変形・アニメーションベイクが搭載 first appeared on CGinterest.",
+          "link": "https://cginterest.com/2026/06/09/blender%e7%94%a8%e3%82%a2%e3%83%89%e3%82%aa%e3%83%b3%e3%80%8c3dgs-render%e3%80%8dv5-0%e3%81%8c%e3%83%aa%e3%83%aa%e3%83%bc%e3%82%b9%ef%bc%81%e5%ae%9f%e9%a8%93%e7%9a%84%e6%a9%9f%e8%83%bd%e3%81%a8/",
+          "publishedOn": "2026-06-09T06:38:38.000Z",
+          "wordCount": 31846,
+          "title": "Blender用アドオン「3DGS Render」v5.0がリリース！実験的機能として3DGSの変形・アニメーションベイクが搭載",
+          "enclosure": {
+            "url": "https://cginterest.com/wp-content/uploads/2026/06/3Dgs-Renderv5-Rigging-Animation2.mp4",
+            "length": "350992",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://cginterest.com/wp-content/uploads/2026/06/3Dgs-Renderv5.webp"
+        },
+        {
+          "id": "https://cginterest.com/?p=59584",
+          "author": ".me",
+          "description": "ノードベースの画像生成インターフェースとして多くのクリエイターに利用されているComfyUIですが、この度、公式デスクトップアプリケーションが再構築され、新しいバージョンとしてリリースされました。 アプリケーションの名称 […]\nComfyUI、デスクトップアプリをゼロから再構築。複数環境の管理や自動ロールバック機能を搭載 first appeared on CGinterest.",
+          "link": "https://cginterest.com/2026/06/09/comfyui%e3%80%81%e3%83%87%e3%82%b9%e3%82%af%e3%83%88%e3%83%83%e3%83%97%e3%82%a2%e3%83%97%e3%83%aa%e3%82%92%e3%82%bc%e3%83%ad%e3%81%8b%e3%82%89%e5%86%8d%e6%a7%8b%e7%af%89%e3%80%82%e8%a4%87%e6%95%b0/",
+          "publishedOn": "2026-06-09T06:07:09.000Z",
+          "wordCount": 31813,
+          "title": "ComfyUI、デスクトップアプリをゼロから再構築。複数環境の管理や自動ロールバック機能を搭載",
+          "imageUrl": "https://cginterest.com/wp-content/uploads/2026/06/ComfyUIDesktop-newupdate.webp"
+        },
         {
           "id": "https://cginterest.com/?p=59565",
           "author": ".me",

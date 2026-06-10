@@ -2,10 +2,107 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-06-09T14:23:12.391Z</updated>
+    <updated>2026-06-10T02:27:54.229Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Blenderで手描き風の雲を作成できるアドオン「Cloud Paint」]]></title>
+        <id>https://cginterest.com/?p=59604</id>
+        <link href="https://cginterest.com/2026/06/10/blender%e3%81%a7%e6%89%8b%e6%8f%8f%e3%81%8d%e9%a2%a8%e3%81%ae%e9%9b%b2%e3%82%92%e4%bd%9c%e6%88%90%e3%81%a7%e3%81%8d%e3%82%8b%e3%82%a2%e3%83%89%e3%82%aa%e3%83%b3%e3%80%8ccloud-paint%e3%80%8d/"/>
+        <updated>2026-06-10T01:36:52.000Z</updated>
+        <summary type="html"><![CDATA[Casey_Sheep氏と、3DアーティストのMeiU氏によって共同開発された「Cloud Paint」の紹介です。 Cloud Paintとは 「Cloud Paint」は、Blender内で手描き風（ペインタリー）の […]
+Blenderで手描き風の雲を作成できるアドオン「Cloud Paint」 first appeared on CGinterest.]]></summary>
+        <author>
+            <name>.me</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#20：なぜ、その映像から目が離せないのか？　『観客を没入させる ストーリー・ストラクチャー　最後まで飽きさせない物語構造と演出』 - 連載]]></title>
+        <id>https://cgworld.jp/regular/202606-cgw335-book.html</id>
+        <link href="https://cgworld.jp/regular/202606-cgw335-book.html"/>
+        <updated>2026-06-10T01:20:00.000Z</updated>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[文字描画とレイアウト制御に強い ─ Ideogram 初のオープンウェイト画像生成モデル「Ideogram 4」が公開]]></title>
+        <id>https://cginterest.com/?p=59601</id>
+        <link href="https://cginterest.com/2026/06/10/%e6%96%87%e5%ad%97%e6%8f%8f%e7%94%bb%e3%81%a8%e3%83%ac%e3%82%a4%e3%82%a2%e3%82%a6%e3%83%88%e5%88%b6%e5%be%a1%e3%81%ab%e5%bc%b7%e3%81%84-%e2%94%80-ideogram-%e5%88%9d%e3%81%ae%e3%82%aa%e3%83%bc%e3%83%97/"/>
+        <updated>2026-06-10T00:24:34.000Z</updated>
+        <summary type="html"><![CDATA[2026年6月4日（現地時間）- 最先端のオープンウェイト画像生成モデル Ideogram 4.0 がリリースされました。 Ideogram 4.0とは Ideogram 4 は、Ideogram（https://ide […]
+文字描画とレイアウト制御に強い ─ Ideogram 初のオープンウェイト画像生成モデル「Ideogram 4」が公開 first appeared on CGinterest.]]></summary>
+        <author>
+            <name>.me</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ZBrushによるドラゴンのチュートリアル動画公開　Marmoset Toolbag 5でのライティング〜レンダリングまで - ニュース]]></title>
+        <id>https://cgworld.jp/flashnews/01-202606-ZB-Dragon.html</id>
+        <link href="https://cgworld.jp/flashnews/01-202606-ZB-Dragon.html"/>
+        <updated>2026-06-09T22:12:27.000Z</updated>
+        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[フォトグラメトリ数学｜29：Poseはどのように最適化されるのか]]></title>
+        <id>https://zenn.dev/s_hashida/articles/9231c57b29e235</id>
+        <link href="https://zenn.dev/s_hashida/articles/9231c57b29e235"/>
+        <updated>2026-06-09T21:56:05.000Z</updated>
+        <summary type="html"><![CDATA[はじめに
+前回は、
+
+Factor Graph
+誤差
+ヤコビアン
+Gauss-Newton法
+
+について説明しました。
+
+その中で、
+
+(J^T J)\Delta x
+=
+-J^T e
+
+を解くことで、
+更新量を求めることを見ました。
+
+しかしここで疑問が浮かびます。
+
+Poseは本当に加算できるのか？
+なぜPoseだけ扱いが特殊なのか？
+SLAMでは実際にどのように更新しているのか？
+
+
+実は、Poseは普通のベクトルではありません。
+そのため、SLAMでは少し特別な方法で最適化を行っています。
+
+今回は、
+
+Pose最適化の考え方
+Gauss-Newton法とSE(3)の関係
+...]]></summary>
+        <author>
+            <name>s_hashida</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Weekly Report 2026/06/10 (wed)]]></title>
+        <id>https://note.com/takion0105/n/n7773932fd4ce</id>
+        <link href="https://note.com/takion0105/n/n7773932fd4ce"/>
+        <updated>2026-06-09T19:49:47.000Z</updated>
+        <summary type="html"><![CDATA[個人的に気になったニュースや自主制作などの週報メモです。
+
+
+続きをみる]]></summary>
+        <author>
+            <name>#Houdiniタグ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[新機能の一部を紹介! Houdini 22 のスニークピーク映像]]></title>
         <id>https://3dtotal.jp/?p=55750</id>
@@ -4475,146 +4572,6 @@ Topaz Video 1.5.0 リリース！新SDR-HDRモデル「Hyperion 2」とPremiere 
 化学系の記事を書いている方、ビ...]]></summary>
         <author>
             <name>Rollpie</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Arnold RendererでプリミティブSphereを表示する]]></title>
-        <id>https://qiita.com/yokamak/items/eeb2e392514ae388b8ba</id>
-        <link href="https://qiita.com/yokamak/items/eeb2e392514ae388b8ba"/>
-        <updated>2026-05-11T13:07:32.000Z</updated>
-        <summary type="html"><![CDATA[Arnoldの設計思想では「レンダリング時に形状を計算する」プリミティブを多用することで、メモリを節約しつつ、どれだけアップにしてもカクカクしない滑らかな曲面を実現できます。
-Arnoldには box、cone、sphere、cylinder、disk、plane といった...]]></summary>
-        <author>
-            <name>mayaタグが付けられた新着記事 - Qiita</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【Maya】メッシュを繋がずに地形に馴染ませる方法②]]></title>
-        <id>https://3d.crdg.jp/env/?p=9443</id>
-        <link href="https://3d.crdg.jp/env/2026/05/11/9443/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=%25e3%2580%2590maya%25e3%2580%2591%25e3%2583%25a1%25e3%2583%2583%25e3%2582%25b7%25e3%2583%25a5%25e3%2581%25a8%25e7%25b9%258b%25e3%2581%258c%25e3%2581%259a%25e3%2581%25ab%25e3%2583%25a2%25e3%2583%2587%25e3%2583%25ab%25e3%2582%2592%25e5%259c%25b0%25e5%25bd%25a2%25e3%2581%25ab%25e9%25a6%25b4%25e6%259f%2593%25e3%2581%25be"/>
-        <updated>2026-05-11T08:38:13.000Z</updated>
-        <summary type="html"><![CDATA[地形を作成するときにレベル調整のため、追加でモデルを足すことがあると思います。以前の記事では地形の法線を追加したモデルに転送することで馴染ませを行って […]
-続きを読む
-投稿 【Maya】メッシュを繋がずに地形に馴染ませる方法② は エンホリ - ENVIRONMENT HOLIC｜C&R Creative Studios に最初に表示されました。]]></summary>
-        <author>
-            <name>Erika.Yamanaka</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[［〆切2026年05月31日］期間限定でUE向けの自然環境アセット「Stylescape HD: Multi-Biome Kit」が無料公開！]]></title>
-        <id>https://cginterest.com/?p=58735</id>
-        <link href="https://cginterest.com/2026/05/11/%ef%bc%bb%e3%80%86%e5%88%872026%e5%b9%b405%e6%9c%8831%e6%97%a5%ef%bc%bd%e6%9c%9f%e9%96%93%e9%99%90%e5%ae%9a%e3%81%a7ue%e5%90%91%e3%81%91%e3%81%ae%e8%87%aa%e7%84%b6%e7%92%b0%e5%a2%83%e3%82%a2%e3%82%bb/"/>
-        <updated>2026-05-11T08:29:00.000Z</updated>
-        <summary type="html"><![CDATA[3DCGアセットスタジオのLeartes Studiosは、「MONTHLY RELIGHT CONTEST（月例リライトコンテスト）」の一環として無料環境アセットを公開しました。 この企画では、毎月同社の運営するCos […]
-［〆切2026年05月31日］期間限定でUE向けの自然環境アセット「Stylescape HD: Multi-Biome Kit」が無料公開！ first appeared on CGinterest.]]></summary>
-        <author>
-            <name>.me</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hitem3D 画像1枚から3Dモデル生成出来るwebサービスを使ってみた。 レビュー 無料会員登録で特別に500クレジット分試せます]]></title>
-        <id>https://modelinghappy.com/?p=68365</id>
-        <link href="https://modelinghappy.com/archives/68365"/>
-        <updated>2026-05-11T07:00:56.000Z</updated>
-        <summary type="html"><![CDATA[Hitem3D Hitem3Dは、ath Magicが開発した3D生成ツールで、web上で画像をアップロードするだけで3Dモデルが作成出来るサービスです。 無料プランでは100クレジットが付与されるので、10個の3Dモデ
-The post Hitem3D 画像1枚から3Dモデル生成出来るwebサービスを使ってみた。 レビュー 無料会員登録で特別に500クレジット分試せます first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
-        <author>
-            <name>modelinghappy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Substance 3D Designer 16.0 がリリース！3D SDFノード、3Dシェイプの散布に対応したShape Splatter v2の追加など]]></title>
-        <id>https://cginterest.com/?p=58706</id>
-        <link href="https://cginterest.com/2026/05/11/substance-3d-designer-16-0-%e3%81%8c%e3%83%aa%e3%83%aa%e3%83%bc%e3%82%b9%ef%bc%81/"/>
-        <updated>2026-05-11T06:34:00.000Z</updated>
-        <summary type="html"><![CDATA[2026年4月14日（現地時間）- Adobeより「Substance 3D Designer 16.0 」がリリースされました。 主な新機能 今回のバージョンでは、新たに追加された 「Shape Splatter」ノー […]
-Substance 3D Designer 16.0 がリリース！3D SDFノード、3Dシェイプの散布に対応したShape Splatter v2の追加など first appeared on CGinterest.]]></summary>
-        <author>
-            <name>.me</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[popman3580氏による『魅力的なキャラを描くためのデッサン実践講座』が会場＆オンライン配信でダブル開催！ - ニュース]]></title>
-        <id>https://cgworld.jp/flashnews/0523-plusone-popman3580.html</id>
-        <link href="https://cgworld.jp/flashnews/0523-plusone-popman3580.html"/>
-        <updated>2026-05-11T06:31:46.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[iiyama PC「SENSE∞」、GeForce RTX 5090 Founders Edition搭載クリエイターPCを発売 - ニュース]]></title>
-        <id>https://cgworld.jp/flashnews/02-2605-pckoubou.html</id>
-        <link href="https://cgworld.jp/flashnews/02-2605-pckoubou.html"/>
-        <updated>2026-05-11T06:30:40.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Substance 3D Sampler 6.0 がリリース！OpenPBR対応やマテリアル作成の効率化など]]></title>
-        <id>https://cginterest.com/?p=58690</id>
-        <link href="https://cginterest.com/2026/05/11/substance-3d-sampler-6-0-%e3%81%8c%e3%83%aa%e3%83%aa%e3%83%bc%e3%82%b9%ef%bc%81openpbr%e5%af%be%e5%bf%9c%e3%82%84%e3%83%9e%e3%83%86%e3%83%aa%e3%82%a2%e3%83%ab%e4%bd%9c%e6%88%90%e3%81%ae%e5%8a%b9/"/>
-        <updated>2026-05-11T05:17:17.000Z</updated>
-        <summary type="html"><![CDATA[2026年4月16日（現地時間）- Adobeより「Substance 3D Sampler Version 6.0」がリリースされました。 主な新機能 今回のアップデートでは、業界の新たな標準となるOpenPBRへの対 […]
-Substance 3D Sampler 6.0 がリリース！OpenPBR対応やマテリアル作成の効率化など first appeared on CGinterest.]]></summary>
-        <author>
-            <name>.me</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[実写リファレンス動画からポイントをクリックするだけで、Maya内にTX/TYアニメーションカーブを生成出来る「KZ Tracker」]]></title>
-        <id>https://modelinghappy.com/?p=68624</id>
-        <link href="https://modelinghappy.com/archives/68624"/>
-        <updated>2026-05-11T04:07:57.000Z</updated>
-        <summary type="html"><![CDATA[KZ Tracker KZ Trackerは、Mayaで動画内のポイントをトラッキングして、アニメーションカーブとして利用出来るツールです。 実写リファレンスから動画を読み込んでポイントをクリックするだけでTransla
-The post 実写リファレンス動画からポイントをクリックするだけで、Maya内にTX/TYアニメーションカーブを生成出来る「KZ Tracker」 first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
-        <author>
-            <name>modelinghappy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[サイバーパンク風ライン・グリッド・ハーフトーンを自動生成出来るPhotoshopプラグインNode Machine]]></title>
-        <id>https://modelinghappy.com/?p=68616</id>
-        <link href="https://modelinghappy.com/archives/68616"/>
-        <updated>2026-05-11T03:47:24.000Z</updated>
-        <summary type="html"><![CDATA[Node Machine Node Machineは、Photoshopで未来的なノード風グラフィックを作成出来るプラグインです。 用意した画像から、SF・サイバーパンク・テクノロジー系のデザインを作成する事が可能で、複
-The post サイバーパンク風ライン・グリッド・ハーフトーンを自動生成出来るPhotoshopプラグインNode Machine first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
-        <author>
-            <name>modelinghappy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SideFXが『モアナと伝説の海2』のエフェクト事例を公開ーHoudiniを活用した水のシミュレーションや嵐などを解説 - ニュース]]></title>
-        <id>https://cgworld.jp/flashnews/03-2604-sidefxmoana.html</id>
-        <link href="https://cgworld.jp/flashnews/03-2604-sidefxmoana.html"/>
-        <updated>2026-05-11T03:43:00.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BlenderのキャラクターモデルをFlow Studioで自在に動かすアニメーションのワークフローをAREA JAPANが解説 - ニュース]]></title>
-        <id>https://cgworld.jp/flashnews/03-2605-flowstudio.html</id>
-        <link href="https://cgworld.jp/flashnews/03-2605-flowstudio.html"/>
-        <updated>2026-05-11T03:42:00.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「コラライン」「KUBO」の LAIKA より、ストップモーションアニメ映画『Wildwood』のトレーラー]]></title>
-        <id>https://3dtotal.jp/?p=53364</id>
-        <link href="https://3dtotal.jp/news/53364/"/>
-        <updated>2026-05-11T02:40:29.000Z</updated>
-        <summary type="html"><![CDATA[★Wildwood: Where the Sky Remembers (Official Featurette)（2分） 『Wildwood』の世界へようこそ。この地では、野生の地の上空を「鳥の公国」が支配しています。  […]
-The post 「コラライン」「KUBO」の LAIKA より、ストップモーションアニメ映画『Wildwood』のトレーラー first appeared on 3dtotal 日本語オフィシャルサイト.]]></summary>
-        <author>
-            <name>3dtotal管理人T</name>
         </author>
     </entry>
 </feed>

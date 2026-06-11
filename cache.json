@@ -634,36 +634,6 @@
             "type": "video/mp4"
           },
           "imageUrl": "https://3dnchu.com/wp-content/uploads/Pixal3D.webp"
-        },
-        {
-          "id": "https://3dnchu.com/?p=1064978",
-          "author": "Ymt3D -3dnchu-",
-          "description": "Dan Greenheck氏による、JavaScript＆Three.jsで開発したブラウザ上で動作するプロシージャルツリージェネレーター「EZ-Tree」のご紹介。法線を丸めるRounded Normal機能も実装されました！",
-          "link": "https://3dnchu.com/archives/ez-tree/",
-          "publishedOn": "2026-05-12T08:36:37.000Z",
-          "wordCount": 8848,
-          "title": "EZ-Tree | 50以上のパラメータで調整可能！ブラウザ上で動作するプロシージャルツリージェネレーター！オープンソース！法線を丸めるRounded Normal機能が実装！",
-          "enclosure": {
-            "url": "https://3dnchu.com/wp-content/uploads/ez-tree.webp",
-            "length": "1568960",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://3dnchu.com/wp-content/uploads/ez-tree.webp"
-        },
-        {
-          "id": "https://3dnchu.com/?p=1064962",
-          "author": "Ymt3D -3dnchu-",
-          "description": "アニメーターのKZanim（Konstantinos Zacharakis氏）が、動画からポイントトラッキングを行いアニメーションカーブを生成できるMaya用ツール「KZ_Tracker」をGumroad上で販売しています！",
-          "link": "https://3dnchu.com/archives/kz_tracker/",
-          "publishedOn": "2026-05-12T05:07:08.000Z",
-          "wordCount": 8817,
-          "title": "KZ_Tracker | モーションなどのリファレンス動画からポイントトラッキングを行い動きに合わせたアニメーションカーブを生成できるMaya用ツール！",
-          "enclosure": {
-            "url": "https://3dnchu.com/wp-content/uploads/kztracker.jpg",
-            "length": "47400",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://3dnchu.com/wp-content/uploads/kztracker.jpg"
         }
       ]
     },
@@ -672,6 +642,16 @@
       "feedUrl": "https://cgworld.jp/atom.xml",
       "siteUrl": "https://cgworld.jp/",
       "articles": [
+        {
+          "id": "https://cgworld.jp/flashnews/01-202606-Houdini-3DGS.html",
+          "author": null,
+          "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
+          "link": "https://cgworld.jp/flashnews/01-202606-Houdini-3DGS.html",
+          "publishedOn": "2026-06-10T22:55:50.000Z",
+          "wordCount": 814,
+          "title": "SideFX、Houdiniによる3DGSを用いたワールドビルディングのチュートリアル動画公開　 FMX HIVE 2026でのLebrov Motion Imageryの講演 - ニュース",
+          "imageUrl": "https://cgworld.jp/flashnews/assets_c/2026/06/Houdini_3DGS-01-thumb-1920x1080-84766.jpg"
+        },
         {
           "id": "https://cgworld.jp/flashnews/02-2606-blackmagicdesign.html",
           "author": null,
@@ -1521,26 +1501,6 @@
           "wordCount": 723,
           "title": "原田勝弘氏、新スタジオ「VS STUDIO SNK」設立を発表。SNK支援のもと対人アクションゲーム開発へ。 - ニュース",
           "imageUrl": "https://cgworld.jp/flashnews/assets_c/2026/05/DSC03371-thumb-702x467-83337.png"
-        },
-        {
-          "id": "https://cgworld.jp/article/140-tomeiotoko01.html",
-          "author": null,
-          "description": "アニメ『透明男と人間女～そのうち夫婦になるふたり～』のオープニングムービーCGメイキングを紹介。",
-          "link": "https://cgworld.jp/article/140-tomeiotoko01.html",
-          "publishedOn": "2026-05-12T09:00:12.000Z",
-          "wordCount": 789,
-          "title": "BlenderのGrease Pencilを活用した温かみあるオープニング映像、TVアニメ『透明男と人間女～そのうち夫婦になるふたり～』OP 〜No.1／タイトルカット篇 - 特集",
-          "imageUrl": "https://cgworld.jp/article/assets_c/2026/04/4329858d758769f1b17c30a7913049c0290af506-thumb-1000x561-82347.jpg"
-        },
-        {
-          "id": "https://cgworld.jp/article/2605-genki.html",
-          "author": null,
-          "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
-          "link": "https://cgworld.jp/article/2605-genki.html",
-          "publishedOn": "2026-05-12T03:57:56.000Z",
-          "wordCount": 750,
-          "title": "ゲーム開発のノウハウは 製造業でも活きる！ 荏原製作所の製造DX「EBARA-D3™」に元気が技術支援。その経緯とは？ - 特集",
-          "imageUrl": "https://cgworld.jp/article/assets_c/2026/04/Main-thumb-1000x562-81997.jpg"
         }
       ]
     },
@@ -1600,6 +1560,16 @@
       "feedUrl": "https://modelinghappy.com/feed",
       "siteUrl": "https://modelinghappy.com",
       "articles": [
+        {
+          "id": "https://modelinghappy.com/?p=69006",
+          "author": "modelinghappy",
+          "description": "BGEN Picker BGEN Pickerは、MayaとBlenderに対応したプロのアニメーター向けの高機能ピッカーツールで、ドラッグ＆ドロップでコントローラー用のボタンを自由に配置でき、複数のリグやキャラクターを\nThe post Blender・Maya対応！コントローラー選択を効率化するツール「BGEN Picker」 first appeared on 3DCG最新情報サイト MODELING HAPPY.",
+          "link": "https://modelinghappy.com/archives/69006",
+          "publishedOn": "2026-06-11T01:12:32.000Z",
+          "wordCount": 3119,
+          "title": "Blender・Maya対応！コントローラー選択を効率化するツール「BGEN Picker」",
+          "imageUrl": "https://modelinghappy.com/wp-content/uploads/2026/06/20260611_benpicker_01.jpg"
+        },
         {
           "id": "https://modelinghappy.com/?p=68995",
           "author": "modelinghappy",
@@ -1989,16 +1959,6 @@
           "wordCount": 3091,
           "title": "Unreal Engine 5.8 Preview公開！Mesh Terrain・MetaHuman Crowd・MegaLights正式対応など大規模アップデート",
           "imageUrl": "https://modelinghappy.com/wp-content/uploads/2026/05/20260513_unrealengine_5_8.jpg"
-        },
-        {
-          "id": "https://modelinghappy.com/?p=68633",
-          "author": "modelinghappy",
-          "description": "illumiDrop — Light Placement Tool for Maya illumiDropは、Mayaのビューポート上で直感的にライトをモデルに配置して調整出来るライティングプラグインです。 エリアライト\nThe post ビューポート上でモデルに沿ってライトを直接配置出来るMaya用ライティングプラグイン「illumiDrop」 first appeared on 3DCG最新情報サイト MODELING HAPPY.",
-          "link": "https://modelinghappy.com/archives/68633",
-          "publishedOn": "2026-05-12T04:01:34.000Z",
-          "wordCount": 3037,
-          "title": "ビューポート上でモデルに沿ってライトを直接配置出来るMaya用ライティングプラグイン「illumiDrop」",
-          "imageUrl": "https://modelinghappy.com/wp-content/uploads/2026/05/20260512_illumiDrop_01.jpg"
         }
       ]
     },
@@ -2276,16 +2236,6 @@
           "wordCount": 529,
           "title": "空飛ぶリビング!? ピクサーアーカイブ：『カールじいさんの空飛ぶ家』の実物大模型",
           "imageUrl": "https://3dtotal.jp/wp-content/uploads/2026/05/parchive_uphouse.jpg"
-        },
-        {
-          "id": "https://3dtotal.jp/?p=55488",
-          "author": "3dtotal管理人T",
-          "description": "★Michael (2026) On the Set of Michael（2分27秒） ★Michael (2026) Before The Big Screen（1分47秒） ★Michael (2026) Fina […]\nThe post \"キング・オブ・ポップ\" が蘇る。映画『Michael／マイケル』のトレーラー（英語／日本語） first appeared on 3dtotal 日本語オフィシャルサイト.",
-          "link": "https://3dtotal.jp/news/55488/",
-          "publishedOn": "2026-05-12T04:04:17.000Z",
-          "wordCount": 509,
-          "title": "“キング・オブ・ポップ” が蘇る。映画『Michael／マイケル』のトレーラー（英語／日本語）",
-          "imageUrl": "https://3dtotal.jp/wp-content/uploads/2026/05/michael_etrailer.jpg"
         }
       ]
     },

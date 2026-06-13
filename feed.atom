@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-06-13T06:47:31.126Z</updated>
+    <updated>2026-06-13T10:21:18.795Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Auto-Rig Pro 3.77 新機能を紹介！脚の挙動を安定させる「スマートIKポール」の追加や眉間コントローラーの追加など]]></title>
+        <id>https://cginterest.com/?p=59788</id>
+        <link href="https://cginterest.com/2026/06/13/auto-rig-pro-3-77-%e6%96%b0%e6%a9%9f%e8%83%bd%e3%82%92%e7%b4%b9%e4%bb%8b%ef%bc%81%e8%84%9a%e3%81%ae%e6%8c%99%e5%8b%95%e3%82%92%e5%ae%89%e5%ae%9a%e3%81%95%e3%81%9b%e3%82%8b%e3%80%8c%e3%82%b9%e3%83%9e/"/>
+        <updated>2026-06-13T09:02:21.000Z</updated>
+        <summary type="html"><![CDATA[Blender向けの人気リギングアドオン「Auto-Rig Pro」のバージョン3.77がリリースされました。 主な新機能 今回のアップデートでは、脚の挙動を安定させる「スマートIKポール」の追加や、AIによる顔マーカー […]
+Auto-Rig Pro 3.77 新機能を紹介！脚の挙動を安定させる「スマートIKポール」の追加や眉間コントローラーの追加など first appeared on CGinterest.]]></summary>
+        <author>
+            <name>.me</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[パソコンSHOPアーク「夏のボーナス先取りセール 2026」が開催！クリエイター向けPCやグラフィックスカードが特別価格に！]]></title>
+        <id>https://cginterest.com/?p=59800</id>
+        <link href="https://cginterest.com/2026/06/13/%e3%83%91%e3%82%bd%e3%82%b3%e3%83%b3shop%e3%82%a2%e3%83%bc%e3%82%af%e3%80%8c%e5%a4%8f%e3%81%ae%e3%83%9c%e3%83%bc%e3%83%8a%e3%82%b9%e5%85%88%e5%8f%96%e3%82%8a%e3%82%bb%e3%83%bc%e3%83%ab-2026%e3%80%8d/"/>
+        <updated>2026-06-13T07:13:21.000Z</updated>
+        <summary type="html"><![CDATA[パソコンSHOPアーク（ark）公式オンラインストアにて開催されている「夏のボーナス先取りセール 2026」の紹介です。 セール概要 このセールでは、これからの季節に合わせた清涼感のあるピラーレスケース採用モデルを中心に […]
+パソコンSHOPアーク「夏のボーナス先取りセール 2026」が開催！クリエイター向けPCやグラフィックスカードが特別価格に！ first appeared on CGinterest.]]></summary>
+        <author>
+            <name>.me</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Mocha Pro 2026.5がリリース！遮蔽物に強いAIトラッキング、AIマスク機能の強化など]]></title>
         <id>https://cginterest.com/?p=59789</id>
@@ -4566,61 +4588,6 @@ The post PUBG採用アーティストが解説。Blenderを使い81時間で学�
 Postshot v1.1 がリリース ── XRビューの追加、アーティファクトを抑える測光補正、選択ツールの強化など first appeared on CGinterest.]]></summary>
         <author>
             <name>.me</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[フォトグラメトリ数学｜18：ヤコビアンの疎構造とは何か]]></title>
-        <id>https://zenn.dev/s_hashida/articles/8f056caaae1bfc</id>
-        <link href="https://zenn.dev/s_hashida/articles/8f056caaae1bfc"/>
-        <updated>2026-05-14T21:52:05.000Z</updated>
-        <summary type="html"><![CDATA[はじめに
-前回は、
-
-ロバスト推定
-IRLS
-外れ値への対処
-
-を通して、
-
-(J^T W J + \lambda I)\Delta \theta = -J^T W \mathbf{r}
-
-という形に整理しました。
-
-ここで自然な疑問が出てきます。
-
-「この巨大な計算、どうやって解いているのか？」
-
-
-SfMやBundle Adjustmentでは、
-
-パラメータ：数万〜数百万
-観測：さらに多い
-
-という巨大な問題になります。
-
-しかし実際には、
-現実的な時間で解けます。
-
-その理由は、
-ヤコビアンの“構造”
-にあります。
-
- 観測とは何か（重要）
-まず定義をはっきりさせます。
-
-...]]></summary>
-        <author>
-            <name>s_hashida</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[リアルタイムカメラモーションキャプチャアプリ「VirtuCamera 2」リリース　Maya、Houdini、Cinema 4D、3ds Max、Blender対応 - ニュース]]></title>
-        <id>https://cgworld.jp/flashnews/01-202605-VirtuCamera2.html</id>
-        <link href="https://cgworld.jp/flashnews/01-202605-VirtuCamera2.html"/>
-        <updated>2026-05-14T21:30:16.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
         </author>
     </entry>
 </feed>

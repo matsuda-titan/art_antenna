@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-06-13T10:21:18.795Z</updated>
+    <updated>2026-06-13T13:24:29.549Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[17歳からはじめるRenderMan Shader編]]></title>
+        <id>https://zenn.dev/yokamak/books/63d19d08b32a97</id>
+        <link href="https://zenn.dev/yokamak/books/63d19d08b32a97"/>
+        <updated>2026-06-13T13:19:10.000Z</updated>
+        <summary type="html"><![CDATA[3Dツール（MayaやBlenderなど）の高度な連携機能に頼らず、「テキストエディタ」と「互換レンダラ（Pixie Rendererなど）」だけでコードを書き、パラメータを変えて繰り返し実験を行うことで、コンピュータグラフィックスの根本にある物理・数学の仕組みを体感的に理解します。CG技術の「偉大なレガシー」にリスペクトを払いながら、シェーダープログラミングの基礎力を底上げする一冊です。
+
+本書で学ぶ RSL（RenderMan Shading Language） の知識は、現代のPixar RenderManやBlenderで標準採用されている OSL、ゲームやWebで使われる GLSL、そしてDisneyが開発した表現言語 SeExpr などを理解する上で最強の基礎となります。これらはすべてRSLの設計思想を源流に持つドメイン特化言語（DSL）であり、以下の多くの共通点を持っています。
+
+C言語風の分かりやすい構文: すべてC/C++に似た直感的な構造を持ち、変数宣言、関数定義、制御構造（if、for などの条件分岐やループ）が使いやすく、他のシェーディング言語への移行もスムーズです。
+グラフィックス特化のデータ型: color（色）、point（座標点）、vector（ベクトル）、normal（法線）などの3D数学データ型を標準サポート。normalize(vector) やベクトルの足し算・内積などを直感的に記述できます。
+強力なプロシージャル（数理的）表現: テクスチャ座標 (s, t) や物体表面の3次元座標 P を使い、noise() や smoothstep() などの組み込み数学関数を組み合わせて、大理石や市松模様、水玉などの幾何学的パターンを無限に生成できます。
+光の物理シミュレーションの基礎: 環境光（ambient）、拡散反射光（diffuse）、鏡面反射光（specular）といった「光の反射モデル」をコードレベルで設計する、シェーディング思考が身につきます。
+クリエイターとエンジニアの架け橋: 数学的な記述がそのまま美しいビジュアルとして出力されるため、理数系の知識をクリエイティブな表現へと高める探求ができます。]]></summary>
+        <author>
+            <name>yokamak</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Auto-Rig Pro 3.77 新機能を紹介！脚の挙動を安定させる「スマートIKポール」の追加や眉間コントローラーの追加など]]></title>
         <id>https://cginterest.com/?p=59788</id>
@@ -15,6 +33,17 @@
 Auto-Rig Pro 3.77 新機能を紹介！脚の挙動を安定させる「スマートIKポール」の追加や眉間コントローラーの追加など first appeared on CGinterest.]]></summary>
         <author>
             <name>.me</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mint – 画像1枚から家具や小物を自動抽出して個別に3D化できるAI対応WEBサービス]]></title>
+        <id>https://modelinghappy.com/?p=69036</id>
+        <link href="https://modelinghappy.com/archives/69036"/>
+        <updated>2026-06-13T08:08:49.000Z</updated>
+        <summary type="html"><![CDATA[mint Mintは、1枚の画像またはテキストから、家具や小物などを自動認識し、それぞれを個別の3Dアセットとして生成できるAI対応の3D制作WEBサービスです １枚の部屋の画像を読み込むと、その部屋にあるアセットが１枚
+The post Mint – 画像1枚から家具や小物を自動抽出して個別に3D化できるAI対応WEBサービス first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
+        <author>
+            <name>modelinghappy</name>
         </author>
     </entry>
     <entry>
@@ -4557,26 +4586,6 @@ The post 氷の世界、クリーパー..。SF映画『ミッキー17』のVFX�
         <summary type="html"><![CDATA[広島の各所を舞台に、奥田民生氏と吉川晃司氏が歌うOoochie Koochie「ショーラー」のMV制作では、ソニーが提供する「XYN™（ジン）」の空間キャプチャーソリューションの先行プロトタイプを活用し、バーチャルプロダクション（以下、VP）に使用する高品質な3DCG背景制作を短期間で実現した。  ソニーおよびソニーPCLのスタッフ4名に、XYNと本MVの背景制作プロセスについて詳しく聞いた。]]></summary>
         <author>
             <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【After Effects 2026】オブジェクトをマスクできる、AIを活用した「オブジェクトマット」スイート（ツール一式） - 連載]]></title>
-        <id>https://cgworld.jp/regular/202605-tipsnote.html</id>
-        <link href="https://cgworld.jp/regular/202605-tipsnote.html"/>
-        <updated>2026-05-15T01:00:08.000Z</updated>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PUBG採用アーティストが解説。Blenderを使い81時間で学ぶAAA武器制作講座「Ultimate Weapon Tutorial 2」がWingfoxで販売開始！]]></title>
-        <id>https://modelinghappy.com/?p=68658</id>
-        <link href="https://modelinghappy.com/archives/68658"/>
-        <updated>2026-05-14T23:34:20.000Z</updated>
-        <summary type="html"><![CDATA[Ultimate Weapon Tutorial 2 – The Complete Hard-Surface Masterclass 世界中のチュートリアル動画を販売しているWingfoxのサイトで、AAAゲーム用のハー
-The post PUBG採用アーティストが解説。Blenderを使い81時間で学ぶAAA武器制作講座「Ultimate Weapon Tutorial 2」がWingfoxで販売開始！ first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
-        <author>
-            <name>modelinghappy</name>
         </author>
     </entry>
     <entry>

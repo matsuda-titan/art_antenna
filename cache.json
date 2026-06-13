@@ -1551,16 +1551,6 @@
           "wordCount": 828,
           "title": "広島背景のMV撮影を3時間で完結させたXYN空間キャプチャ×バーチャルプロダクション｜Ooochie Koochie「ショーラー」MV - 特集",
           "imageUrl": "https://cgworld.jp/article/assets_c/2026/04/b078b4374488d0bbf532afd91518a26b2dcdaed5-thumb-1000x561-82922.jpg"
-        },
-        {
-          "id": "https://cgworld.jp/regular/202605-tipsnote.html",
-          "author": null,
-          "description": "",
-          "link": "https://cgworld.jp/regular/202605-tipsnote.html",
-          "publishedOn": "2026-05-15T01:00:08.000Z",
-          "wordCount": 782,
-          "title": "【After Effects 2026】オブジェクトをマスクできる、AIを活用した「オブジェクトマット」スイート（ツール一式） - 連載",
-          "imageUrl": "https://cgworld.jp/regular/assets_c/2026/05/Tipsnote-photo-2026199-thumb-800x445-83555.png"
         }
       ]
     },
@@ -1620,6 +1610,16 @@
       "feedUrl": "https://modelinghappy.com/feed",
       "siteUrl": "https://modelinghappy.com",
       "articles": [
+        {
+          "id": "https://modelinghappy.com/?p=69036",
+          "author": "modelinghappy",
+          "description": "mint Mintは、1枚の画像またはテキストから、家具や小物などを自動認識し、それぞれを個別の3Dアセットとして生成できるAI対応の3D制作WEBサービスです １枚の部屋の画像を読み込むと、その部屋にあるアセットが１枚\nThe post Mint – 画像1枚から家具や小物を自動抽出して個別に3D化できるAI対応WEBサービス first appeared on 3DCG最新情報サイト MODELING HAPPY.",
+          "link": "https://modelinghappy.com/archives/69036",
+          "publishedOn": "2026-06-13T08:08:49.000Z",
+          "wordCount": 3131,
+          "title": "Mint – 画像1枚から家具や小物を自動抽出して個別に3D化できるAI対応WEBサービス",
+          "imageUrl": "https://modelinghappy.com/wp-content/uploads/2026/06/20260613_mint_00.jpg"
+        },
         {
           "id": "https://modelinghappy.com/?p=69030",
           "author": "modelinghappy",
@@ -1999,16 +1999,6 @@
           "wordCount": 3168,
           "title": "Blender人気アドオン9本セット！総額210ドル→40ドルになる超お得バンドル「Mega Legacy Add-On Bundle」販売開始！",
           "imageUrl": "https://modelinghappy.com/wp-content/uploads/2026/05/20260516_Blender_Mega_Legacy_01.jpg"
-        },
-        {
-          "id": "https://modelinghappy.com/?p=68658",
-          "author": "modelinghappy",
-          "description": "Ultimate Weapon Tutorial 2 – The Complete Hard-Surface Masterclass 世界中のチュートリアル動画を販売しているWingfoxのサイトで、AAAゲーム用のハー\nThe post PUBG採用アーティストが解説。Blenderを使い81時間で学ぶAAA武器制作講座「Ultimate Weapon Tutorial 2」がWingfoxで販売開始！ first appeared on 3DCG最新情報サイト MODELING HAPPY.",
-          "link": "https://modelinghappy.com/archives/68658",
-          "publishedOn": "2026-05-14T23:34:20.000Z",
-          "wordCount": 3114,
-          "title": "PUBG採用アーティストが解説。Blenderを使い81時間で学ぶAAA武器制作講座「Ultimate Weapon Tutorial 2」がWingfoxで販売開始！",
-          "imageUrl": "https://modelinghappy.com/wp-content/uploads/2026/05/20260515_wingfox_00.jpg"
         }
       ]
     },
@@ -2314,6 +2304,21 @@
       "feedUrl": "https://zenn.dev/topics/shader/feed",
       "siteUrl": "https://zenn.dev/topics/shader",
       "articles": [
+        {
+          "id": "https://zenn.dev/yokamak/books/63d19d08b32a97",
+          "author": "yokamak",
+          "description": "3Dツール（MayaやBlenderなど）の高度な連携機能に頼らず、「テキストエディタ」と「互換レンダラ（Pixie Rendererなど）」だけでコードを書き、パラメータを変えて繰り返し実験を行うことで、コンピュータグラフィックスの根本にある物理・数学の仕組みを体感的に理解します。CG技術の「偉大なレガシー」にリスペクトを払いながら、シェーダープログラミングの基礎力を底上げする一冊です。\n\n本書で学ぶ RSL（RenderMan Shading Language） の知識は、現代のPixar RenderManやBlenderで標準採用されている OSL、ゲームやWebで使われる GLSL、そしてDisneyが開発した表現言語 SeExpr などを理解する上で最強の基礎となります。これらはすべてRSLの設計思想を源流に持つドメイン特化言語（DSL）であり、以下の多くの共通点を持っています。\n\nC言語風の分かりやすい構文: すべてC/C++に似た直感的な構造を持ち、変数宣言、関数定義、制御構造（if、for などの条件分岐やループ）が使いやすく、他のシェーディング言語への移行もスムーズです。\nグラフィックス特化のデータ型: color（色）、point（座標点）、vector（ベクトル）、normal（法線）などの3D数学データ型を標準サポート。normalize(vector) やベクトルの足し算・内積などを直感的に記述できます。\n強力なプロシージャル（数理的）表現: テクスチャ座標 (s, t) や物体表面の3次元座標 P を使い、noise() や smoothstep() などの組み込み数学関数を組み合わせて、大理石や市松模様、水玉などの幾何学的パターンを無限に生成できます。\n光の物理シミュレーションの基礎: 環境光（ambient）、拡散反射光（diffuse）、鏡面反射光（specular）といった「光の反射モデル」をコードレベルで設計する、シェーディング思考が身につきます。\nクリエイターとエンジニアの架け橋: 数学的な記述がそのまま美しいビジュアルとして出力されるため、理数系の知識をクリエイティブな表現へと高める探求ができます。",
+          "link": "https://zenn.dev/yokamak/books/63d19d08b32a97",
+          "publishedOn": "2026-06-13T13:19:10.000Z",
+          "wordCount": 315,
+          "title": "17歳からはじめるRenderMan Shader編",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--OqKY9nqk--/g_center%2Ch_280%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYm9va19jb3Zlci8wY2MzZTM1NzdlLmpwZWc=%2Cw_200/v1627283836/default/og-base-book_yz4z02.jpg?_a=BACMTiAE",
+            "length": "0",
+            "type": "false"
+          },
+          "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--OqKY9nqk--/g_center%2Ch_280%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYm9va19jb3Zlci8wY2MzZTM1NzdlLmpwZWc=%2Cw_200/v1627283836/default/og-base-book_yz4z02.jpg?_a=BACMTiAE"
+        },
         {
           "id": "https://zenn.dev/zn_ryg12/articles/shader-note-20260607",
           "author": "ryuga.",

@@ -12,6 +12,21 @@
       "siteUrl": "https://cgbox.jp",
       "articles": [
         {
+          "id": "https://cgbox.jp/?p=65409",
+          "author": "kasahara",
+          "description": "こんばんは！ 今回はアドオンの「Quick Finger Collision」を紹介します。 こちらのリンクがアドオンの商品ページになります。 Quick Finger Collision 「Quick Finger C […]",
+          "link": "https://cgbox.jp/2026/06/15/news-addon-quick-finger-collision/",
+          "publishedOn": "2026-06-15T03:30:55.000Z",
+          "wordCount": 1972,
+          "title": "【アドオン紹介】Quick Finger Collision – オブジェクトに指を沿わせる！",
+          "enclosure": {
+            "url": "https://cgbox.jp/wp-content/uploads/2026/06/43f28515d625f5556cd07da886309050.mp4",
+            "length": "0",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://cgbox.jp/wp-content/uploads/2026/06/image_processing20260303-2-2brqjc.jpg"
+        },
+        {
           "id": "https://cgbox.jp/?p=65405",
           "author": "kasahara",
           "description": "こんばんは！ 今回はアドオンの「Image Editor Master」を紹介します。 こちらのリンクがアドオンの商品ページになります。 Image Editor Master 「Image Editor Master」 […]",
@@ -3100,16 +3115,6 @@
           "wordCount": 1078,
           "title": "DirectXTKでAssimp CPP側の補足資料",
           "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnBicy50d2ltZy5jb20lMkZwcm9maWxlX2ltYWdlcyUyRjk1NjUzNTU5Mzc3NjgyNDMyMSUyRjZKUkVNZ1BpX25vcm1hbC5qcGc_aXhsaWI9cmItNC4xLjEmYXI9MSUzQTEmZml0PWNyb3AmbWFzaz1lbGxpcHNlJmJnPUZGRkZGRiZmbT1wbmczMiZzPTFlNGQwMTBjYTFkZTU5OWNmNzdmZDVhYTI3NjMwM2I0%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D373a03db911f7af0ce88b6917ff32871?ixlib=rb-4.1.1&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9RGlyZWN0WFRLJUUzJTgxJUE3QXNzaW1wJTIwQ1BQJUU1JTgxJUI0JUUzJTgxJUFFJUU4JUEzJTlDJUU4JUI2JUIzJUU4JUIzJTg3JUU2JTk2JTk5JnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9MjcyNjNlMWFjMDllODg4Y2JiYjAwYmNmNmNmYTk2N2E&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBZS1ZLRFgxMiZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPTg5MDU4ZmFjYTkxMzE2Yjk4ZjA0NDYzZDdhZDQ4NDli&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=08f76fe21518ba1daa18b5eedc2b18e5"
-        },
-        {
-          "id": "https://qiita.com/Na2taka/items/95c2284d6076895ce464",
-          "author": null,
-          "description": "【この記事の目標】GLFW/GLADを使用してOpenGLウィンドウを表示する\n\n【動作環境】\n・Windows 11\n・VisualStudio 2022\n・OpenGL 4.6\n・GLFW 3.4\n・GLAD\n\n【目次】\n1. プロジェクト作成\n2. GLFW導入\n...",
-          "link": "https://qiita.com/Na2taka/items/95c2284d6076895ce464",
-          "publishedOn": "2026-05-16T04:41:57.000Z",
-          "wordCount": 1768,
-          "title": "OpenGL環境構築【GLFW/GLAD導入～ウィンドウ表示まで】",
-          "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkY0NDI4ODc4JTJGODRjMTVkNzM2NjgyOTVjYWNjNzFlZGYwOWY3MmUwOTkwMDA0MzBiZiUyRnhfbGFyZ2UucG5nJTNGMTc3ODkwNjcwNj9peGxpYj1yYi00LjEuMSZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9MTQ0YjJhNzc4MGEyOGQ5YTM4ZDE2ODJmODljZTE1NGE%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3Dca9784f2d68b14e267b33e34b263f84c?ixlib=rb-4.1.1&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9T3BlbkdMJUU3JTkyJUIwJUU1JUEyJTgzJUU2JUE3JThCJUU3JUFGJTg5JUUzJTgwJTkwR0xGVyUyRkdMQUQlRTUlQjAlOEUlRTUlODUlQTUlRUYlQkQlOUUlRTMlODIlQTYlRTMlODIlQTMlRTMlODMlQjMlRTMlODMlODklRTMlODIlQTYlRTglQTElQTglRTclQTQlQkElRTMlODElQkUlRTMlODElQTclRTMlODAlOTEmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz1hMDU4YzdiN2Y0ZjY4NmYxMjNiYTQzZjE5OTg1OWY3ZQ&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBOYTJ0YWthJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9OGE5MjlmOTBmNGQxYWFmM2JmNGNkNGZkZmYyNzkyOTQ&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=9de0353c223310750f2e3b4c3597b4be"
         }
       ]
     },
@@ -3419,6 +3424,16 @@
       "siteUrl": "https://note.com/hashtag/Houdini",
       "articles": [
         {
+          "id": "https://note.com/shi3zblog/n/nac1c88a6a5e3",
+          "author": null,
+          "description": "AIゲームセンター構想で3Dロボットバトルゲームを作ろうと決めたはいいものの、これはお気軽にサクッとは作れないぞ、ということがわかってきた。やはりAIがなんでもできるというのは幻想に近い。\n今回、この企画を進めるにあたり、久しぶりにPS5を起動して色々なゲームを研究してみた。\n続きをみる",
+          "link": "https://note.com/shi3zblog/n/nac1c88a6a5e3",
+          "publishedOn": "2026-06-15T03:07:55.000Z",
+          "wordCount": 2461,
+          "title": "【AIゲームセンター構想】three.jsでリアルな地形を再現する",
+          "imageUrl": "https://assets.st-note.com/production/uploads/images/285600190/rectangle_large_type_2_aa170dea2481d5a39525ece33f9d9961.png?width=800"
+        },
+        {
           "id": "https://note.com/thesaurus/n/nb947fd0f35c3",
           "author": null,
           "description": "Houdini 60 Minutes に刺激を受けて\n第31回 Houdiniゆるゆる会、今回のテーマは A′（エーダッシュ） でした。\n「昔作ったネットワークを、今ならどう直すか」という内容です。\n続きをみる",
@@ -3507,16 +3522,6 @@
           "wordCount": 3017,
           "title": "COPで日本地図をパーツごとに分解し、SOPで再構築する",
           "imageUrl": "https://assets.st-note.com/production/uploads/images/277955557/rectangle_large_type_2_46b51c349ce35448a9e08b5bb63ab663.png?width=800"
-        },
-        {
-          "id": "https://note.com/kura_0724/n/nd460d6d6ebbd",
-          "author": null,
-          "description": "今回は、現在、SideFXで働かれている鈴木さんが公開しているこのHoudiniファイルがかなり勉強になったので、そちらについて解説してみようと思います。\nGitHub: https://github.com/K240/houdini-sandbox/blob/master/scenes/building_base.hip\n\nビルのベースモデル examleを追加しました。シンプルな形状を組み合わせて、モジュラーアセット配置用やローポリモデルを作成できます。https://t.co/kjlxeO9Mfn pic.twitter.com/V5imXF9Slh\n— Hideki Suzuki (@K240) March 21, 2026\n\n続きをみる",
-          "link": "https://note.com/kura_0724/n/nd460d6d6ebbd",
-          "publishedOn": "2026-05-16T14:55:22.000Z",
-          "wordCount": 2560,
-          "title": "Houdiniファイルを読み解く vol.1",
-          "imageUrl": "https://d2l930y2yx77uc.cloudfront.net/production/social_images/1aea1972dd110726718f51133c025983f978e02a.png"
         }
       ]
     },
@@ -3525,6 +3530,26 @@
       "feedUrl": "https://note.com/hashtag/SubstanceDesigner/rss",
       "siteUrl": "https://note.com/hashtag/SubstanceDesigner",
       "articles": [
+        {
+          "id": "https://note.com/efeozi/n/n2fd4753756d3",
+          "author": null,
+          "description": "続きをみる",
+          "link": "https://note.com/efeozi/n/n2fd4753756d3",
+          "publishedOn": "2026-06-15T00:57:50.000Z",
+          "wordCount": 2382,
+          "title": "Substance Designer / Tile samplerについて",
+          "imageUrl": "https://d2l930y2yx77uc.cloudfront.net/production/social_images/3f16612a30e95e82ae82c1f2008a29879a0ca773.png"
+        },
+        {
+          "id": "https://note.com/manji_9278274/n/nc4df71932018",
+          "author": null,
+          "description": "どうもみなさん１週間ぶり。まんじです。\n前回の記事では自己紹介やエッセイと、私について知ってもらうような内容が主でしたが、今回からはいよいよ制作編です。\n私が制作したテクスチャとモデルを配布していきます。\nいったい何がもらえるのでしょうか…？\n前置きはこのくらいにして、さっさと本題に入っていきます。\n\n\n続きをみる",
+          "link": "https://note.com/manji_9278274/n/nc4df71932018",
+          "publishedOn": "2026-06-14T13:36:48.000Z",
+          "wordCount": 2697,
+          "title": "【無料配布】和室・ゲーム背景に使える畳テクスチャ",
+          "imageUrl": "https://assets.st-note.com/production/uploads/images/285478544/rectangle_large_type_2_eaec3de9d48190f8f16d46ebc59a83cb.png?width=800"
+        },
         {
           "id": "https://note.com/efeozi/n/nd06756d4a883",
           "author": null,
@@ -3722,6 +3747,16 @@
       "feedUrl": "https://cginterest.com/feed/",
       "siteUrl": "https://cginterest.com",
       "articles": [
+        {
+          "id": "https://cginterest.com/?p=59824",
+          "author": ".me",
+          "description": "3DCGアセットプラットフォームCosmosを提供するLeartes Studiosは、「MONTHLY RELIGHT CONTEST（月例リライトコンテスト）」の一環として無料環境アセットを公開しました。 この企画で […]",
+          "link": "https://cginterest.com/2026/06/15/%ef%bc%bb%e3%80%86%e5%88%872026%e5%b9%b406%e6%9c%8830%e6%97%a5%ef%bc%bd%e9%ab%98%e5%93%81%e8%b3%aa%e3%81%aapcg%e3%82%92%e6%b4%bb%e7%94%a8%e3%81%97%e3%81%9f%e6%a3%ae%e6%9e%97%e3%81%ae%e3%82%a2%e3%82%bb/",
+          "publishedOn": "2026-06-15T07:38:52.000Z",
+          "wordCount": 30617,
+          "title": "［〆切2026年06月30日］PCGを活用した高品質なUE向け森林アセットパック「Black Forest PCG Environment」が無料公開！",
+          "imageUrl": "https://cginterest.com/wp-content/uploads/2026/06/BlackForestPCGEnvironment.webp"
+        },
         {
           "id": "https://cginterest.com/?p=59788",
           "author": ".me",

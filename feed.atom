@@ -2,10 +2,98 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-06-14T13:26:45.658Z</updated>
+    <updated>2026-06-15T02:42:47.918Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【Photoshop 2026】画像内にあるオブジェクトを360度3D回転でき、商品画像などの作成に便利な「オブジェクトを回転」 - 連載]]></title>
+        <id>https://cgworld.jp/regular/202606-tipsnote.html</id>
+        <link href="https://cgworld.jp/regular/202606-tipsnote.html"/>
+        <updated>2026-06-15T06:10:30.000Z</updated>
+        <summary type="html"><![CDATA[今回は、Photoshop 2026から新機能で、「オブジェクトを回転」についてご紹介いたします。]]></summary>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[3ds Max：プラグイン活用で表現の幅を拡げよう！ 第13回：tyFlow ZNITHを導入してみよう!!]]></title>
+        <id>https://area.autodesk.jp/column/tutorial/3ds-max-plugin/13-tyflow-zenith/</id>
+        <link href="https://area.autodesk.jp/column/tutorial/3ds-max-plugin/13-tyflow-zenith/"/>
+        <updated>2026-06-15T01:00:00.000Z</updated>
+        <summary type="html"><![CDATA[3ds Maxも前回コラムよりバージョンが上がり、2027がリリースされましたね！加えてtyFlowもv2.000 ZENITHが発表されてワクワクが止まりません。実は今回のトップ画とサムネイルもtyFlow ZENITHで作成した画像なのです。それではZENITHってなんぞや？と思われる方もいらっしゃるかと思います故、ZENITHの紹介ムービーを貼り付けます。・・・]]></summary>
+        <author>
+            <name>AREA JAPAN | Autodesk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[トロントのコンド引っ越し、エレベーター予約で大苦戦]]></title>
+        <id>https://unpyside.com/?p=3147</id>
+        <link href="https://unpyside.com/blog/2026/06/15/%e3%83%88%e3%83%ad%e3%83%b3%e3%83%88%e3%81%a7%e3%81%ae%e5%bc%95%e3%81%a3%e8%b6%8a%e3%81%97%e3%81%8c%e5%a4%a7%e5%a4%89%e3%81%a0%e3%81%a3%e3%81%9f/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=%25e3%2583%2588%25e3%2583%25ad%25e3%2583%25b3%25e3%2583%2588%25e3%2581%25a7%25e3%2581%25ae%25e5%25bc%2595%25e3%2581%25a3%25e8%25b6%258a%25e3%2581%2597%25e3%2581%258c%25e5%25a4%25a7%25e5%25a4%2589%25e3%2581%25a0%25e3%2581%25a3%25e3%2581%259f"/>
+        <updated>2026-06-14T23:20:07.000Z</updated>
+        <summary type="html"><![CDATA[トロントでの引っ越しが大変だったので、誰かのためになればという感じでボソっと書いています トロントに引っ越してきたとき、最初の1か月はホテルに住んでいました。そこから住まいを探し、日本でいうところのマンション、コンドに住 […]
+The post トロントのコンド引っ越し、エレベーター予約で大苦戦 first appeared on UnPySide.]]></summary>
+        <author>
+            <name>管理人</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[STUDIOJOIN、社内開発のMaya用ミラーツール「Mirror Mesh」無償配布　シンプルな操作でミラーリングを効率化 - ニュース]]></title>
+        <id>https://cgworld.jp/flashnews/01-202606-JOIN-Mirror.html</id>
+        <link href="https://cgworld.jp/flashnews/01-202606-JOIN-Mirror.html"/>
+        <updated>2026-06-14T21:48:50.000Z</updated>
+        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[フォトグラメトリ数学｜31：IMU Preintegrationとは何か]]></title>
+        <id>https://zenn.dev/s_hashida/articles/51b94699365862</id>
+        <link href="https://zenn.dev/s_hashida/articles/51b94699365862"/>
+        <updated>2026-06-14T21:38:05.000Z</updated>
+        <summary type="html"><![CDATA[はじめに
+前回は、
+
+IMU
+加速度と角速度
+Visual Odometryの弱点
+VIO
+
+について説明しました。
+
+その中で重要だったのが、
+
+IMUは短時間の運動推定が得意
+カメラは長期的な誤差補正が得意
+Visual-Inertial SLAMではIMUもFactorとして扱われる
+
+という点です。
+
+しかしここで疑問が出てきます。
+
+IMUはどのようにFactorになるのか？
+なぜ高頻度IMUをそのまま最適化しないのか？
+Visual-Inertial SLAMはどうやって高速に動いているのか？
+
+
+実はここで重要になるのが、
+IMU Preintegration
+です。...]]></summary>
+        <author>
+            <name>s_hashida</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TensionFX | メッシュ変形時のスクイーズ＆ストレッチに応じてリアルタイムにマテリアル効果を与えられるUnreal Engine向けアセットパッケージ！]]></title>
+        <id>https://3dnchu.com/?p=1065852</id>
+        <link href="https://3dnchu.com/archives/tensionfx/"/>
+        <updated>2026-06-14T16:19:24.000Z</updated>
+        <summary type="html"><![CDATA[tcwilsonartによるスクイーズ＆ストレッチに応じてリアルタイムにマテリアルに効果を与えられるUnreal Engine向けアセットパッケージ「TensionFX」がFab上でリリースされています！]]></summary>
+        <author>
+            <name>Ymt3D -3dnchu-</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Tree Generator | Webブラウザベースのプロシージャル3D植生アセット生成＆編集ツール！UE5＆MegaPlants＆Unityなどにも出力可能！スタンドアロン版もあり！]]></title>
         <id>https://3dnchu.com/?p=1065834</id>
@@ -4524,39 +4612,6 @@ GitHub: https://github.com/K240/houdini-sandbox/blob/master/scenes/building_bas
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[パソコンSHOPアーク「アーク27周年記念祭セール」が開催！BTOパソコンやPCパーツがお得に！]]></title>
-        <id>https://cginterest.com/?p=59009</id>
-        <link href="https://cginterest.com/2026/05/16/%e3%83%91%e3%82%bd%e3%82%b3%e3%83%b3shop%e3%82%a2%e3%83%bc%e3%82%af%e3%80%8c%e3%82%a2%e3%83%bc%e3%82%af27%e5%91%a8%e5%b9%b4%e8%a8%98%e5%bf%b5%e7%a5%ad%e3%82%bb%e3%83%bc%e3%83%ab%e3%80%8d%e3%81%8c/"/>
-        <updated>2026-05-16T12:30:00.000Z</updated>
-        <summary type="html"><![CDATA[パソコンSHOPアーク（ark）にて、創業27周年を記念した「アーク27周年記念祭セール」のセール情報です。 セール概要 このセールでは、長年のご愛顧に感謝を込めて、オリジナルBTOパソコン（arkhive）やPCパーツ […]
-パソコンSHOPアーク「アーク27周年記念祭セール」が開催！BTOパソコンやPCパーツがお得に！ first appeared on CGinterest.]]></summary>
-        <author>
-            <name>.me</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ツクモネットショップ「PCライフ応援セール」が開催！クリエイターPCや、GPUなどPCパーツがセール対象に！]]></title>
-        <id>https://cginterest.com/?p=59006</id>
-        <link href="https://cginterest.com/2026/05/16/%e3%83%84%e3%82%af%e3%83%a2%e3%83%8d%e3%83%83%e3%83%88%e3%82%b7%e3%83%a7%e3%83%83%e3%83%97%e3%80%8cpc%e3%83%a9%e3%82%a4%e3%83%95%e5%bf%9c%e6%8f%b4%e3%82%bb%e3%83%bc%e3%83%ab%e3%80%8d%e3%81%8c%e9%96%8b/"/>
-        <updated>2026-05-16T11:59:27.000Z</updated>
-        <summary type="html"><![CDATA[PCパーツやBTOパソコンを取り扱うツクモネットショップにて、新たに「PCライフ応援セール」が開催されています。 セール概要 このセールでは、PC パーツから完成品のデスクトップパソコン、周辺機器まで幅広い製品が対象とな […]
-ツクモネットショップ「PCライフ応援セール」が開催！クリエイターPCや、GPUなどPCパーツがセール対象に！ first appeared on CGinterest.]]></summary>
-        <author>
-            <name>.me</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Topaz Photo v1.6.0 アップデートがリリース！顔の復元、ノイズを考慮したシャープネス、処理速度の大幅な向上]]></title>
-        <id>https://cginterest.com/?p=58975</id>
-        <link href="https://cginterest.com/2026/05/16/topaz-photo-v1-6-0-%e3%82%a2%e3%83%83%e3%83%97%e3%83%87%e3%83%bc%e3%83%88%e3%81%8c%e3%83%aa%e3%83%aa%e3%83%bc%e3%82%b9%ef%bc%81%e9%a1%94%e3%81%ae%e5%be%a9%e5%85%83%e3%80%81%e3%83%8e%e3%82%a4%e3%82%ba/"/>
-        <updated>2026-05-16T09:03:21.000Z</updated>
-        <summary type="html"><![CDATA[2026年5月13日（現地時間）- Topaz Labsは、Topaz Photoの新しいバージョン「v1.6.0」をリリースしました。 主な新機能 今回のアップデートでは、2つの新しいモデルが追加されたほか、Neuro […]
-Topaz Photo v1.6.0 アップデートがリリース！顔の復元、ノイズを考慮したシャープネス、処理速度の大幅な向上 first appeared on CGinterest.]]></summary>
-        <author>
-            <name>.me</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[OpenGL環境構築【GLFW/GLAD導入～ウィンドウ表示まで】]]></title>
         <id>https://qiita.com/Na2taka/items/95c2284d6076895ce464</id>
         <link href="https://qiita.com/Na2taka/items/95c2284d6076895ce464"/>
@@ -4576,28 +4631,6 @@ Topaz Photo v1.6.0 アップデートがリリース！顔の復元、ノイズ�
 ...]]></summary>
         <author>
             <name>3DCGタグが付けられた新着記事 - Qiita</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Grease Pencilで手描きラインを追加出来るBlender用スタイライズド表現アドオン「Hatchix Custom Strokes Addon」]]></title>
-        <id>https://modelinghappy.com/?p=68700</id>
-        <link href="https://modelinghappy.com/archives/68700"/>
-        <updated>2026-05-16T04:38:25.000Z</updated>
-        <summary type="html"><![CDATA[Hatchix Custom Strokes Addon for Blender 5.1+ Grease Pencilベースで、モデルに手描き風ストロークを追加出来るBlender用スタイライズド表現アドオンです。 数ク
-The post Grease Pencilで手描きラインを追加出来るBlender用スタイライズド表現アドオン「Hatchix Custom Strokes Addon」 first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
-        <author>
-            <name>modelinghappy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Blender人気アドオン9本セット！総額210ドル→40ドルになる超お得バンドル「Mega Legacy Add-On Bundle」販売開始！]]></title>
-        <id>https://modelinghappy.com/?p=68685</id>
-        <link href="https://modelinghappy.com/archives/68685"/>
-        <updated>2026-05-16T01:30:26.000Z</updated>
-        <summary type="html"><![CDATA[Blender Mega Legacy Add-On Bundle: 9 Add-Ons Included! Blenderの人気アドオンを多数開発している、LIGHTARCHITECTさんの人気アドオンが9つセットで定
-The post Blender人気アドオン9本セット！総額210ドル→40ドルになる超お得バンドル「Mega Legacy Add-On Bundle」販売開始！ first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
-        <author>
-            <name>modelinghappy</name>
         </author>
     </entry>
 </feed>

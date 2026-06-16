@@ -2,10 +2,61 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-06-16T08:38:11.082Z</updated>
+    <updated>2026-06-16T16:21:54.206Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Houdiniでインスタンス配置ツール開発チュートリアル]]></title>
+        <id>https://tech-art.online/?p=2028</id>
+        <link href="https://tech-art.online/houdini-instance/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=houdini-instance"/>
+        <updated>2026-06-16T12:41:39.000Z</updated>
+        <summary type="html"><![CDATA[Unityでのステージ制作やアセット配置の際、手作業で1つずつ並べたり、サイズが変わるたびに位置を再調整したりする作業にストレスを感じていませんか？  […]
+続きを読む
+Houdiniでインスタンス配置ツール開発チュートリアル first appeared on TECH ART ONLINE.]]></summary>
+        <author>
+            <name>管理人</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CSSのbackdrop-filterでは作れない「屈折するガラス」をWebGLシェーダーで作る]]></title>
+        <id>https://zenn.dev/orectic/articles/liquid-glass-webgl-refraction</id>
+        <link href="https://zenn.dev/orectic/articles/liquid-glass-webgl-refraction"/>
+        <updated>2026-06-16T12:26:01.000Z</updated>
+        <summary type="html"><![CDATA[結論から
+
+CSS の backdrop-filter でできるのはぼかし・明度・彩度などのフィルターまで。背景を歪ませる「屈折」は仕様上できない
+
+iOS 26 の Liquid Glass が「ガラスっぽい」のは、半透明やぼかしではなく背景がレンズのように歪んで見えるから
+これを Web で再現するには、背景を WebGL の canvas に描画し、フラグメントシェーダーでガラス領域のピクセルをずらすのが定番
+形（角丸矩形）の判定は SDF（符号付き距離関数）、屈折の向きは**距離場の勾配（＝法線）**で決める
+
+この記事では、実際に動かしている GLSL シェーダーを分解しな...]]></summary>
+        <author>
+            <name>今井政和</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[いよいよ5日後、オンライン開催！『SCULPTORS DAY 2026』Sculptors Labo編集部が、本イベントの見どころを紹介！ - ニュース]]></title>
+        <id>https://cgworld.jp/flashnews/2606-sculptorsday2026.html</id>
+        <link href="https://cgworld.jp/flashnews/2606-sculptorsday2026.html"/>
+        <updated>2026-06-16T11:23:38.000Z</updated>
+        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ストップモーションの世界のキャラクター：3D自画像「Self Portrait」のメイキング]]></title>
+        <id>https://3dtotal.jp/?p=55829</id>
+        <link href="https://3dtotal.jp/tutorials/55829/"/>
+        <updated>2026-06-16T10:02:54.000Z</updated>
+        <summary type="html"><![CDATA[はじめに 今回は、ストップモーション映画から飛び出してきたような 3Dキャラクターの作り方をご紹介します。具体的には、ZBrush の専用ツールで造形に「手作り感」を出す方法、Substance 3D Painter で […]
+The post ストップモーションの世界のキャラクター：3D自画像「Self Portrait」のメイキング first appeared on 3dtotal 日本語オフィシャルサイト.]]></summary>
+        <author>
+            <name>3dtotal管理人T</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[多くのアーティストたちにより ワンシーンが出来上がるまで。ピクサー映画『私がビーバーになる時』のメイキング映像]]></title>
         <id>https://3dtotal.jp/?p=55795</id>
@@ -538,6 +589,16 @@ The post Fill Mesh Tool – Blenderで曲面メッシュの穴埋めや頂点マ
         <summary type="html"><![CDATA[Mora:e氏はYoutube上にBlenderを使用したキャラクター制作タイムラプス動画を投稿しています。]]></summary>
         <author>
             <name>Ymt3D -3dnchu-</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[感覚的から論理的な絵づくりへ。オンラインイベント『背景アートのロジック』の見どころをプロデューサーが解説 - 特集]]></title>
+        <id>https://cgworld.jp/article/0622-plusone-masterclass21.html</id>
+        <link href="https://cgworld.jp/article/0622-plusone-masterclass21.html"/>
+        <updated>2026-06-12T10:24:52.000Z</updated>
+        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
+        <author>
+            <name>CGWORLD</name>
         </author>
     </entry>
     <entry>
@@ -1320,6 +1381,18 @@ OpenUSD最新アップデートを紹介、3D Gaussian Splatting対応と実稼�
 Houdini 22 Sneak Peek が公開！注目の新機能リストを紹介 first appeared on CGinterest.]]></summary>
         <author>
             <name>.me</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[地面と自然になじませる！設置面の「法線ブレンド」完全解説]]></title>
+        <id>https://tech-art.online/?p=2020</id>
+        <link href="https://tech-art.online/houdini-blend-groundnormal/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=houdini-blend-groundnormal"/>
+        <updated>2026-06-08T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Houdiniを使って、配置したオブジェクトと地面の接触部分を自然になじませる「法線ブレンド」の手法について解説します。 Rayノードを用いた地面の情 […]
+続きを読む
+地面と自然になじませる！設置面の「法線ブレンド」完全解説 first appeared on TECH ART ONLINE.]]></summary>
+        <author>
+            <name>管理人</name>
         </author>
     </entry>
     <entry>
@@ -4623,76 +4696,6 @@ The post 新たな始まり。映画『スパイダーマン：ブランド・�
 The post ストーリーボード、レイアウト、アニメーション..。映画『私がビーバーになる時』の研究所脱出シーンのメイキング映像 first appeared on 3dtotal 日本語オフィシャルサイト.]]></summary>
         <author>
             <name>3dtotal管理人T</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Blenderの3DモデルをPhotoshopで直接ペイント出来るアドオン「PaintBridge PS」]]></title>
-        <id>https://modelinghappy.com/?p=68721</id>
-        <link href="https://modelinghappy.com/archives/68721"/>
-        <updated>2026-05-18T00:14:15.000Z</updated>
-        <summary type="html"><![CDATA[PaintBridge PS PaintBridge PSは、PhotoshopでBlenderの3Dモデルに対して、Photoshopのブラシやレイヤーをそのまま利用してペイント出来るアドオンです。 Blenderのビ
-The post Blenderの3DモデルをPhotoshopで直接ペイント出来るアドオン「PaintBridge PS」 first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
-        <author>
-            <name>modelinghappy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Maya用カスタムデフォーマプラグイン「Profile Mover」、開発者がLinkedInで成果を報告　Pixarの論文をベースにMatin FalahManesh氏が独自実装 - ニュース]]></title>
-        <id>https://cgworld.jp/flashnews/01-202605-Maya-ProfileMover.html</id>
-        <link href="https://cgworld.jp/flashnews/01-202605-Maya-ProfileMover.html"/>
-        <updated>2026-05-17T22:14:00.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[フォトグラメトリ数学｜19：Bundle Adjustmentは何を最適化しているのか]]></title>
-        <id>https://zenn.dev/s_hashida/articles/b31ff24a779f06</id>
-        <link href="https://zenn.dev/s_hashida/articles/b31ff24a779f06"/>
-        <updated>2026-05-17T21:55:05.000Z</updated>
-        <summary type="html"><![CDATA[はじめに
-前回は、
-
-疎構造
-Schur補
-Bundle Adjustmentの計算構造
-
-について説明しました。
-
-そこで登場したのが、
-
-\Delta C
-
-という、
-カメラパラメータの更新量です。
-
-ではここで、自然な疑問が出てきます。
-
-「そもそもカメラパラメータとは何なのか？」
-「何を最適化しているのか？」
-
-
-Bundle Adjustmentでは、
-
-カメラ
-3D点
-
-を同時に最適化していました。
-
-しかし実は、
-カメラパラメータの中には、
-
-単純なベクトルとして扱えるもの
-そうでないもの
-
-が存在します。
-
-今回は、
-
-Bundle Adjustmentで最適化して...]]></summary>
-        <author>
-            <name>s_hashida</name>
         </author>
     </entry>
 </feed>

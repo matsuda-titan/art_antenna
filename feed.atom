@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-06-18T07:26:30.862Z</updated>
+    <updated>2026-06-18T11:43:51.663Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【保存版】Unity Industry活用ガイド：建築・製造・産業分野に広がり続けるUnityの最新機能を解説 - スペシャルコンテンツ]]></title>
+        <id>https://cgworld.jp/special-feature/2606-unity-unityindustry.html</id>
+        <link href="https://cgworld.jp/special-feature/2606-unity-unityindustry.html"/>
+        <updated>2026-06-18T07:25:00.000Z</updated>
+        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[「自然やばい！」ー昆虫・恐竜・絶滅生物を3DCGで精緻に再現するBoycraftの世界 - 特集]]></title>
         <id>https://cgworld.jp/article/3dcgboycraft.html</id>
@@ -4804,96 +4814,6 @@ The post 待望のハリウッド実写映画化!? 映画『ストリートフ�
 The post 世界最高峰のVFXスタジオを訪問！teamoveによるバンクーバーCG現地体験会が2026年9月22日〜27日開催！ first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
         <author>
             <name>modelinghappy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[画像から色抽出＆パレット管理可能。1クリックでカラーバリエーションを作成出来るBlender用無料アドオン「Color Helper」]]></title>
-        <id>https://modelinghappy.com/?p=68725</id>
-        <link href="https://modelinghappy.com/archives/68725"/>
-        <updated>2026-05-19T23:20:48.000Z</updated>
-        <summary type="html"><![CDATA[Color Helper Color Helperは、Blender上でカラーパレットの作成・管理・編集出来るアドオンです。3DビューやShader Node Editorのサイドパネルから直接使用でき、マテリアル制作時
-The post 画像から色抽出＆パレット管理可能。1クリックでカラーバリエーションを作成出来るBlender用無料アドオン「Color Helper」 first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
-        <author>
-            <name>modelinghappy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[入力画像のディテールを忠実に再現、ピクセル整列を用いた3D生成手法「Pixal3D」]]></title>
-        <id>https://cginterest.com/?p=58902</id>
-        <link href="https://cginterest.com/2026/05/20/%e5%85%a5%e5%8a%9b%e7%94%bb%e5%83%8f%e3%81%ae%e3%83%87%e3%82%a3%e3%83%86%e3%83%bc%e3%83%ab%e3%82%92%e5%bf%a0%e5%ae%9f%e3%81%ab%e5%86%8d%e7%8f%be%e3%80%81%e3%83%94%e3%82%af%e3%82%bb%e3%83%ab%e6%95%b4/"/>
-        <updated>2026-05-19T23:19:00.000Z</updated>
-        <summary type="html"><![CDATA[清華大学、Tencent ARC Lab、およびビクトリア大学ウェリントンの共同研究チームによって発表された研究「Pixal3D: Pixel-Aligned 3D Generation from Images」の紹介で […]
-入力画像のディテールを忠実に再現、ピクセル整列を用いた3D生成手法「Pixal3D」 first appeared on CGinterest.]]></summary>
-        <author>
-            <name>.me</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Substance 3D Painterを用いたクリーチャーのテクスチャ制作チュートリアル動画公開　リアルタイムレンダリングのゲーム向け制作ノウハウ - ニュース]]></title>
-        <id>https://cgworld.jp/flashnews/01-202605-SP-CreatureTex.html</id>
-        <link href="https://cgworld.jp/flashnews/01-202605-SP-CreatureTex.html"/>
-        <updated>2026-05-19T22:53:46.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[フォトグラメトリ数学｜20：回転行列とは何か]]></title>
-        <id>https://zenn.dev/s_hashida/articles/bd24ac22e7505f</id>
-        <link href="https://zenn.dev/s_hashida/articles/bd24ac22e7505f"/>
-        <updated>2026-05-19T22:03:05.000Z</updated>
-        <summary type="html"><![CDATA[前回は、
-
-Bundle Adjustment
-カメラパラメータ
-回転は単純加算できない
-
-という話を見ました。
-
-その中で重要だったのが、
-
-回転は普通のベクトルではない
-
-という点です。
-
-ではここで、自然な疑問が出てきます。
-
-そもそも回転とは何なのか？
-なぜ行列で表されるのか？
-なぜ回転だけ特別扱いが必要なのか？
-
-
-今回は、
-
-回転行列
-回転の制約
-なぜSO(3)が必要になるのか
-
-について、直感的に整理します。
-
- 2次元の回転
-まずは、最も簡単な2次元から考えます。
-
-例えば、
-
-\mathbf{x}=
-\begin{bmatrix}
-x\\
-y
-\end{bmatrix...]]></summary>
-        <author>
-            <name>s_hashida</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PhotoGIMP 3 | 無料の画像編集ソフト「GIMP」を「Photoshop」ライクなレイアウトや操作性に切り替える無料のパッチ！]]></title>
-        <id>https://3dnchu.com/?p=1065157</id>
-        <link href="https://3dnchu.com/archives/photogimp-3/"/>
-        <updated>2026-05-19T19:44:14.000Z</updated>
-        <summary type="html"><![CDATA[無料の画像編集ソフトで定番の一つ「GIMP」を「Photoshop」ライクなインターフェースに変更してくれるパッチ「PhotoGIMP」なるものが存在するようです。]]></summary>
-        <author>
-            <name>Ymt3D -3dnchu-</name>
         </author>
     </entry>
 </feed>

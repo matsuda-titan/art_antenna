@@ -3146,21 +3146,6 @@
             "type": "false"
           },
           "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--gY4iidnp--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%2595%25E3%2582%25A9%25E3%2583%2588%25E3%2582%25B0%25E3%2583%25A9%25E3%2583%25A1%25E3%2583%2588%25E3%2583%25AA%25E6%2595%25B0%25E5%25AD%25A6%25EF%25BD%259C22%25EF%25BC%259A%25E5%259B%259B%25E5%2585%2583%25E6%2595%25B0%25EF%25BC%2588Quaternion%25EF%25BC%2589%25E3%2581%25A8%25E3%2581%25AF%25E4%25BD%2595%25E3%2581%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:s_hashida%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2JmNmU5NjMzMTEuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"
-        },
-        {
-          "id": "https://zenn.dev/s_hashida/articles/95d2837ff0593d",
-          "author": "s_hashida",
-          "description": "はじめに\n前回は、\n\n回転行列\n回転の制約\nSO(3)\n\nについて説明しました。\n\nその中で重要だったのが、\n\n回転は普通のベクトル空間ではない\n\nという点です。\n\nつまり、\n\nR+\\Delta R\n\nを単純計算しても、\n回転行列になる保証はありません。\n\nではここで疑問が出てきます。\n\n回転は実際にはどう更新するのか？\n3つの値で回転を表すにはどうすればよいのか？\n回転行列の制約を壊さずに更新するにはどうすればよいのか？\n\n\n今回は、\n\n微小回転\nRodriguesの回転公式\n指数写像\n\nについて整理します。\n\n 微小回転という考え方\n回転行列そのものは、普通のベクトルのようには...",
-          "link": "https://zenn.dev/s_hashida/articles/95d2837ff0593d",
-          "publishedOn": "2026-05-21T21:46:05.000Z",
-          "wordCount": 1056,
-          "title": "フォトグラメトリ数学｜21：Rodriguesの回転公式とは何か",
-          "enclosure": {
-            "url": "https://res.cloudinary.com/zenn/image/upload/s--D-PxUwjI--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%2595%25E3%2582%25A9%25E3%2583%2588%25E3%2582%25B0%25E3%2583%25A9%25E3%2583%25A1%25E3%2583%2588%25E3%2583%25AA%25E6%2595%25B0%25E5%25AD%25A6%25EF%25BD%259C21%25EF%25BC%259ARodrigues%25E3%2581%25AE%25E5%259B%259E%25E8%25BB%25A2%25E5%2585%25AC%25E5%25BC%258F%25E3%2581%25A8%25E3%2581%25AF%25E4%25BD%2595%25E3%2581%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:s_hashida%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2JmNmU5NjMzMTEuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
-            "length": "0",
-            "type": "false"
-          },
-          "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--D-PxUwjI--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%2595%25E3%2582%25A9%25E3%2583%2588%25E3%2582%25B0%25E3%2583%25A9%25E3%2583%25A1%25E3%2583%2588%25E3%2583%25AA%25E6%2595%25B0%25E5%25AD%25A6%25EF%25BD%259C21%25EF%25BC%259ARodrigues%25E3%2581%25AE%25E5%259B%259E%25E8%25BB%25A2%25E5%2585%25AC%25E5%25BC%258F%25E3%2581%25A8%25E3%2581%25AF%25E4%25BD%2595%25E3%2581%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:s_hashida%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2JmNmU5NjMzMTEuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"
         }
       ]
     },

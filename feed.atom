@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-06-20T06:54:46.260Z</updated>
+    <updated>2026-06-20T10:25:45.829Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
@@ -4791,54 +4791,6 @@ Maya 2027.1がリリース！シーケンサのOTIOサポート、MotionMakerの
 The post PBRマテリアルを自動構築＆ライブラリ管理・調整出来るマテリアル管理特化ツール「Material Studio Pro」 first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
         <author>
             <name>modelinghappy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[フォトグラメトリ数学｜21：Rodriguesの回転公式とは何か]]></title>
-        <id>https://zenn.dev/s_hashida/articles/95d2837ff0593d</id>
-        <link href="https://zenn.dev/s_hashida/articles/95d2837ff0593d"/>
-        <updated>2026-05-21T21:46:05.000Z</updated>
-        <summary type="html"><![CDATA[はじめに
-前回は、
-
-回転行列
-回転の制約
-SO(3)
-
-について説明しました。
-
-その中で重要だったのが、
-
-回転は普通のベクトル空間ではない
-
-という点です。
-
-つまり、
-
-R+\Delta R
-
-を単純計算しても、
-回転行列になる保証はありません。
-
-ではここで疑問が出てきます。
-
-回転は実際にはどう更新するのか？
-3つの値で回転を表すにはどうすればよいのか？
-回転行列の制約を壊さずに更新するにはどうすればよいのか？
-
-
-今回は、
-
-微小回転
-Rodriguesの回転公式
-指数写像
-
-について整理します。
-
- 微小回転という考え方
-回転行列そのものは、普通のベクトルのようには...]]></summary>
-        <author>
-            <name>s_hashida</name>
         </author>
     </entry>
 </feed>

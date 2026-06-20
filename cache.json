@@ -1886,36 +1886,6 @@
           "wordCount": 805,
           "title": "KeenTools、Houdini用マッチムーブツールプラグイン「GeoTracker」オープンベータ開始　SOPベース、Solarisネイティブ対応、カメラトラッキング対応 - ニュース",
           "imageUrl": "https://cgworld.jp/flashnews/assets_c/2026/05/GeoTrackerHoudini-01-thumb-1920x1080-83905.jpg"
-        },
-        {
-          "id": "https://cgworld.jp/flashnews/03-2605-libernovo.html",
-          "author": null,
-          "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
-          "link": "https://cgworld.jp/flashnews/03-2605-libernovo.html",
-          "publishedOn": "2026-05-21T06:10:44.000Z",
-          "wordCount": 788,
-          "title": "【5/29(金) ～】LiberNovo、新型モデル「LiberNovo Omni Pro」を含む新製品体験会を渋谷にて開催 - ニュース",
-          "imageUrl": "https://cgworld.jp/flashnews/assets_c/2026/05/041d4f727f31fe3950015c6883414506e11a85e7-thumb-1062x797-83874.png"
-        },
-        {
-          "id": "https://cgworld.jp/article/cgw333-tomei-interview.html",
-          "author": null,
-          "description": "アニメ『透明男と人間女～そのうち夫婦になるふたり～』のオープニングムービーCGメイキング、主要スタッフインタビューを紹介。",
-          "link": "https://cgworld.jp/article/cgw333-tomei-interview.html",
-          "publishedOn": "2026-05-21T05:08:57.000Z",
-          "wordCount": 775,
-          "title": "「すごくない」日常を描く、アニメ『透明男と人間女』OPに見る日常を描くための3DCG活用～メインスタッフインタビュー - 特集",
-          "imageUrl": "https://cgworld.jp/article/assets_c/2026/04/main-thumb-1000x563-82689.jpg"
-        },
-        {
-          "id": "https://cgworld.jp/flashnews/2606-haikeiart-masterclass.html",
-          "author": null,
-          "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
-          "link": "https://cgworld.jp/flashnews/2606-haikeiart-masterclass.html",
-          "publishedOn": "2026-05-21T03:56:42.000Z",
-          "wordCount": 782,
-          "title": "【早期割引20％OFFチケット販売中】8名のアーティストが集う『背景アートのロジック』6月22日よりオンライン開催！ - ニュース",
-          "imageUrl": "https://cgworld.jp/flashnews/assets_c/2026/05/a289b6cbc93d956153bd29868a31545c08f4af96-thumb-1920x1008-83882.jpg"
         }
       ]
     },
@@ -1986,6 +1956,16 @@
       "feedUrl": "https://modelinghappy.com/feed",
       "siteUrl": "https://modelinghappy.com",
       "articles": [
+        {
+          "id": "https://modelinghappy.com/?p=69139",
+          "author": "modelinghappy",
+          "description": "Tribal Female Character for Cinematic 【UE5 + Personal Instructor Reviews】 世界中のチュートリアル動画を販売しているWingfoxのサイトでフォトリ\nThe post 『アベンジャーズ／エンドゲーム』の制作にも参加したアーティストが教える、15時間超えのフォトリアルキャラクター制作講座がWingfoxで販売開始！ first appeared on 3DCG最新情報サイト MODELING HAPPY.",
+          "link": "https://modelinghappy.com/archives/69139",
+          "publishedOn": "2026-06-20T02:09:25.000Z",
+          "wordCount": 3138,
+          "title": "『アベンジャーズ／エンドゲーム』の制作にも参加したアーティストが教える、15時間超えのフォトリアルキャラクター制作講座がWingfoxで販売開始！",
+          "imageUrl": "https://modelinghappy.com/wp-content/uploads/2026/06/20260620_wingfox_01.jpg"
+        },
         {
           "id": "https://modelinghappy.com/?p=69090",
           "author": "modelinghappy",
@@ -2690,6 +2670,21 @@
       "feedUrl": "https://zenn.dev/topics/shader/feed",
       "siteUrl": "https://zenn.dev/topics/shader",
       "articles": [
+        {
+          "id": "https://zenn.dev/hajimeteradio3/articles/14eef33aa5f5de",
+          "author": "はじめてらじお_フルリモ・データアナリスト",
+          "description": "はじめに\nブラウザだけで動く単一HTMLの3D多重振り子シミュレータに、「小花火モード」を実装しました。アプリの中心はもちろん物理シミュレーションですが、この記事の主役は物理演算ではありません。主役は、背景で弾ける小さな花火です。\nhttps://youtu.be/jJ0cCZXh_kI\n最初は、振り子の動きを引き立てるための背景演出のつもりでした。けれど作り込んでいくうちに、ただの装飾ではなくなりました。\n\n振り子が速く振り切った瞬間に弾ける（物理に同期）\n運動の激しさに応じて密度が変わる\n\n角運動量の「帯」に沿って振り子の先端を追うように咲く\n軌跡カラーテーマに合わせて色が変わる...",
+          "link": "https://zenn.dev/hajimeteradio3/articles/14eef33aa5f5de",
+          "publishedOn": "2026-06-19T10:51:46.000Z",
+          "wordCount": 3279,
+          "title": "生成AIで3D多重振り子に\"小花火\"を宿す：物理に同期する粒子花火の作り込み",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--tTzWbAgY--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E7%2594%259F%25E6%2588%2590AI%25E3%2581%25A73D%25E5%25A4%259A%25E9%2587%258D%25E6%258C%25AF%25E3%2582%258A%25E5%25AD%2590%25E3%2581%25AB%2522%25E5%25B0%258F%25E8%258A%25B1%25E7%2581%25AB%2522%25E3%2582%2592%25E5%25AE%25BF%25E3%2581%2599%25EF%25BC%259A%25E7%2589%25A9%25E7%2590%2586%25E3%2581%25AB%25E5%2590%258C%25E6%259C%259F%25E3%2581%2599%25E3%2582%258B%25E7%25B2%2592%25E5%25AD%2590%25E8%258A%25B1%25E7%2581%25AB%25E3%2581%25AE%25E4%25BD%259C%25E3%2582%258A%25E8%25BE%25BC%25E3%2581%25BF%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%25AF%25E3%2581%2598%25E3%2582%2581%25E3%2581%25A6%25E3%2582%2589%25E3%2581%2598%25E3%2581%258A_%25E3%2583%2595%25E3%2583%25AB%25E3%2583%25AA%25E3%2583%25A2%25E3%2583%25BB%25E3%2583%2587%25E3%2583%25BC%25E3%2582%25BF%25E3%2582%25A2%25E3%2583%258A%25E3%2583%25AA%25E3%2582%25B9%25E3%2583%2588%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzhiMTBhNGMxMmQuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+            "length": "0",
+            "type": "false"
+          },
+          "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--tTzWbAgY--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E7%2594%259F%25E6%2588%2590AI%25E3%2581%25A73D%25E5%25A4%259A%25E9%2587%258D%25E6%258C%25AF%25E3%2582%258A%25E5%25AD%2590%25E3%2581%25AB%2522%25E5%25B0%258F%25E8%258A%25B1%25E7%2581%25AB%2522%25E3%2582%2592%25E5%25AE%25BF%25E3%2581%2599%25EF%25BC%259A%25E7%2589%25A9%25E7%2590%2586%25E3%2581%25AB%25E5%2590%258C%25E6%259C%259F%25E3%2581%2599%25E3%2582%258B%25E7%25B2%2592%25E5%25AD%2590%25E8%258A%25B1%25E7%2581%25AB%25E3%2581%25AE%25E4%25BD%259C%25E3%2582%258A%25E8%25BE%25BC%25E3%2581%25BF%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%25AF%25E3%2581%2598%25E3%2582%2581%25E3%2581%25A6%25E3%2582%2589%25E3%2581%2598%25E3%2581%258A_%25E3%2583%2595%25E3%2583%25AB%25E3%2583%25AA%25E3%2583%25A2%25E3%2583%25BB%25E3%2583%2587%25E3%2583%25BC%25E3%2582%25BF%25E3%2582%25A2%25E3%2583%258A%25E3%2583%25AA%25E3%2582%25B9%25E3%2583%2588%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzhiMTBhNGMxMmQuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+        },
         {
           "id": "https://zenn.dev/yokamak/books/63d19d08b32a97",
           "author": "yokamak",

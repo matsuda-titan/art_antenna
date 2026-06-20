@@ -12,6 +12,16 @@
       "siteUrl": "https://cgbox.jp",
       "articles": [
         {
+          "id": "https://cgbox.jp/?p=65414",
+          "author": "kasahara",
+          "description": "こんばんは！ 今回はアドオンの「Script Launcher」を紹介します。 こちらのリンクがアドオンの商品ページになります。 Script Launcher 「Script Launcher」は、Blenderの3D […]",
+          "link": "https://cgbox.jp/2026/06/20/news-addon-script-launcher/",
+          "publishedOn": "2026-06-20T03:55:00.000Z",
+          "wordCount": 1996,
+          "title": "【無料アドオン】Script Launcher – スクリプトをすぐに呼び出し！",
+          "imageUrl": "https://cgbox.jp/wp-content/uploads/2026/06/b7e7ef5562b253914af6ea1415e38d92db7cfa223cade5d94e53484a412e1436_1920x1080.webp"
+        },
+        {
           "id": "https://cgbox.jp/?p=65409",
           "author": "kasahara",
           "description": "こんばんは！ 今回はアドオンの「Quick Finger Collision」を紹介します。 こちらのリンクがアドオンの商品ページになります。 Quick Finger Collision 「Quick Finger C […]",
@@ -859,36 +869,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "https://3dnchu.com/wp-content/uploads/high-end-character-creation-ue5-ai-Lee-JeongHyeon-9582.jpg"
-        },
-        {
-          "id": "https://3dnchu.com/?p=1065241",
-          "author": "Ymt3D -3dnchu-",
-          "description": "ZOZOTOWNなどでお馴染み株式会社ZOZOによるオープンソースの物理シミュレーション接触ソルバーのBlenderアドオン「ZOZO's Contact Solver Blender Add-on 2026」がリリースされました！",
-          "link": "https://3dnchu.com/archives/zozos-contact-solver-b3d/",
-          "publishedOn": "2026-05-21T17:10:42.000Z",
-          "wordCount": 8887,
-          "title": "ZOZO's Contact Solver Blender Add-on 2026 | ZOZOによるオープンソースの物理シミュレーション接触ソルバー！Blender用アドオンが登場！",
-          "enclosure": {
-            "url": "https://3dnchu.com/wp-content/uploads/zozos-contact-solver-b3daddon.mp4",
-            "length": "4192978",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://3dnchu.com/wp-content/uploads/zozos-contact-solver-b3daddon.webp"
-        },
-        {
-          "id": "https://3dnchu.com/?p=1065194",
-          "author": "Ymt3D -3dnchu-",
-          "description": "フリーランスのコンセプトアーティスト兼イラストレーター RaZuM (ilya tyljakov氏 @razuminc )によるNomad Sculpt界隈では有名なリアル系クレイブラシパックの最新アップデート「RaZuM DIGITAL CLAY v3.0」がリリースされました！",
-          "link": "https://3dnchu.com/archives/razum-digital-clay-v3-0/",
-          "publishedOn": "2026-05-21T16:36:12.000Z",
-          "wordCount": 8914,
-          "title": "RaZuM DIGITAL CLAY v3.0 | Nomad Sculptにてリアルな粘土細工のような表現を実現するブラシパック！最新アップデート！多彩な追加ブラシ＆仮想作業部屋＆HDRIマップなどを追加！",
-          "enclosure": {
-            "url": "https://3dnchu.com/wp-content/uploads/razum-digital-clay-v3-0.webp",
-            "length": "1254478",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://3dnchu.com/wp-content/uploads/razum-digital-clay-v3-0.webp"
         }
       ]
     },
@@ -2345,16 +2325,6 @@
           "wordCount": 3069,
           "title": "PBRマテリアルを自動構築＆ライブラリ管理・調整出来るマテリアル管理特化ツール「Material Studio Pro」",
           "imageUrl": "https://modelinghappy.com/wp-content/uploads/2026/05/20260522_materialsutdiopro_01.jpg"
-        },
-        {
-          "id": "https://modelinghappy.com/?p=68730",
-          "author": "modelinghappy",
-          "description": "AI Normal Map Generator amp; PBR Texture Maker 2D画像またはプロンプト入力で高品質なPBRテクスチャを自動生成出来るwebサイトAI Normal Map Generat\nThe post 画像1枚から無料でPBRテクスチャ作成可能。プロンプト入力にも対応したWebサイト「AI Normal Map Generator & PBR Texture Maker」 first appeared on 3DCG最新情報サイト MODELING HAPPY.",
-          "link": "https://modelinghappy.com/archives/68730",
-          "publishedOn": "2026-05-21T14:28:58.000Z",
-          "wordCount": 3089,
-          "title": "画像1枚から無料でPBRテクスチャ作成可能。プロンプト入力にも対応したWebサイト「AI Normal Map Generator & PBR Texture Maker」",
-          "imageUrl": "https://modelinghappy.com/wp-content/uploads/2026/05/20260521_normalmapai_01.jpg"
         }
       ]
     },
@@ -2840,6 +2810,21 @@
       "feedUrl": "https://zenn.dev/topics/houdini/feed",
       "siteUrl": "https://zenn.dev/topics/houdini",
       "articles": [
+        {
+          "id": "https://zenn.dev/ryo_a/articles/1e1743988e0eb5",
+          "author": "ryo-a",
+          "description": "前提\nこの解説は以下の前提のもとで進めます\n\nHoudini Launcherがインストールされており、Houdiniが利用できる状態であること\n\nまた、Houdini Indie以上を利用していること（無料版のHoudini Apprenticeではサードパーティのレンダラーがサポートされていません）\n\n\nRedshiftの有効なライセンスがあり、MAXON Appがインストールされていること\n\n\n 手順\n\n 利用できるバージョンの確認\nMAXONのヘルプに、Redshift公式でサポートされているバージョンの対応関係が記載されています。\nhttps://help.maxon.ne...",
+          "link": "https://zenn.dev/ryo_a/articles/1e1743988e0eb5",
+          "publishedOn": "2026-06-19T18:08:38.000Z",
+          "wordCount": 700,
+          "title": "Windows上のHoudiniにRedshiftプラグインを入れる（2026年）",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--p1i8RTr9--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Windows%25E4%25B8%258A%25E3%2581%25AEHoudini%25E3%2581%25ABRedshift%25E3%2583%2597%25E3%2583%25A9%25E3%2582%25B0%25E3%2582%25A4%25E3%2583%25B3%25E3%2582%2592%25E5%2585%25A5%25E3%2582%258C%25E3%2582%258B%25EF%25BC%25882026%25E5%25B9%25B4%25EF%25BC%2589%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:ryo-a%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzVkZTYwYjUxMWUuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+            "length": "0",
+            "type": "false"
+          },
+          "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--p1i8RTr9--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Windows%25E4%25B8%258A%25E3%2581%25AEHoudini%25E3%2581%25ABRedshift%25E3%2583%2597%25E3%2583%25A9%25E3%2582%25B0%25E3%2582%25A4%25E3%2583%25B3%25E3%2582%2592%25E5%2585%25A5%25E3%2582%258C%25E3%2582%258B%25EF%25BC%25882026%25E5%25B9%25B4%25EF%25BC%2589%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:ryo-a%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzVkZTYwYjUxMWUuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+        },
         {
           "id": "https://zenn.dev/mattya3713/articles/581c59f539db0e",
           "author": "mattya3713",
@@ -3953,6 +3938,21 @@
       "feedUrl": "https://cginterest.com/feed/",
       "siteUrl": "https://cginterest.com",
       "articles": [
+        {
+          "id": "https://cginterest.com/?p=59837",
+          "author": ".me",
+          "description": "QuadSpinner は、現在開発中の「Gaea 3」のタイムラインを更新したことを発表しました。 開発スケジュールの変更と背景 Gaea 3.0 の早期アクセス（Early Access）は、2026 年7月に開始さ […]",
+          "link": "https://cginterest.com/2026/06/20/%e5%9c%b0%e5%bd%a2%e7%94%9f%e6%88%90%e3%83%84%e3%83%bc%e3%83%ab%e3%80%8cgaea-3%e3%80%8d%e3%81%ae%e6%9c%80%e6%96%b0%e9%96%8b%e7%99%ba%e7%8a%b6%e6%b3%81%e3%81%a8%e3%83%ad%e3%83%bc%e3%83%89%e3%83%9e/",
+          "publishedOn": "2026-06-20T06:48:10.000Z",
+          "wordCount": 30231,
+          "title": "地形生成ツール「Gaea 3」の最新開発状況とロードマップが公開！早期アクセスは2026年7月開始",
+          "enclosure": {
+            "url": "https://cginterest.com/wp-content/uploads/2026/06/Gaea3-God-Mode-Constructor.mp4",
+            "length": "332784",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://cginterest.com/wp-content/uploads/2026/06/gaea3devupdate.webp"
+        },
         {
           "id": "https://cginterest.com/?p=60071",
           "author": ".me",

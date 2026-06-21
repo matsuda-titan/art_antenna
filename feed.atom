@@ -2,10 +2,66 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-06-21T07:24:43.792Z</updated>
+    <updated>2026-06-21T10:59:14.383Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ディゾルブシェーダーを実装（Unity6, URP）]]></title>
+        <id>https://zenn.dev/daikichi228/articles/e38e957a0fce0a</id>
+        <link href="https://zenn.dev/daikichi228/articles/e38e957a0fce0a"/>
+        <updated>2026-06-21T08:18:52.000Z</updated>
+        <summary type="html"><![CDATA[はじめに
+参考記事
+https://youtu.be/taMp1g1pBeE?si=UxF54qnAHZLbVWP6
+
+ 実装
+
+ 1. ノイズテクスチャを表示する
+Shader "Unlit/DissolveShader"
+{
+    Properties
+    {
+        _MainTex ("Texture", 2D) = "white" {}
+    }
+    SubShader
+    {
+        Tags
+        {
+            "RenderType"="Transparent"
+            "RenderPipeli...]]></summary>
+        <author>
+            <name>ダイキチ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ディゾルブシェーダーを実装（Unity6, URP）]]></title>
+        <id>https://zenn.dev/daikichi228/articles/e38e957a0fce0a</id>
+        <link href="https://zenn.dev/daikichi228/articles/e38e957a0fce0a"/>
+        <updated>2026-06-21T08:18:52.000Z</updated>
+        <summary type="html"><![CDATA[はじめに
+参考記事
+https://youtu.be/taMp1g1pBeE?si=UxF54qnAHZLbVWP6
+
+ 実装
+
+ 1. ノイズテクスチャを表示する
+Shader "Unlit/DissolveShader"
+{
+    Properties
+    {
+        _MainTex ("Texture", 2D) = "white" {}
+    }
+    SubShader
+    {
+        Tags
+        {
+            "RenderType"="Transparent"
+            "RenderPipeli...]]></summary>
+        <author>
+            <name>ダイキチ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[OneCanvas: 3D Scene Understanding via Panoramic Reprojection | マルチビュー画像を1枚のパノラマへ統合して3D空間認識を実現する技術！]]></title>
         <id>https://3dnchu.com/?p=1065996</id>
@@ -4692,16 +4748,6 @@ Runway、最新のAI動画編集モデル「Aleph 2.0」と新しい動画編集
 Photoshop 2026年5月アップデート！クラウドなしでオブジェクト削除が可能に！ first appeared on CGinterest.]]></summary>
         <author>
             <name>.me</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[UE5＋Ultra Dynamic Skyによるグラウンドフォグのチュートリアル動画公開　基本設定から局地的な天候制御、ブラシペイントによる精密な配置まで - ニュース]]></title>
-        <id>https://cgworld.jp/flashnews/01-202605-UE5-RealFog.html</id>
-        <link href="https://cgworld.jp/flashnews/01-202605-UE5-RealFog.html"/>
-        <updated>2026-05-22T22:23:31.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
         </author>
     </entry>
 </feed>

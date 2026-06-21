@@ -1801,16 +1801,6 @@
           "wordCount": 878,
           "title": "Blenderを人間同様に操作して3Dシーンを生成するエージェント「Moonlake's 3D Agent」ベータ公開　AIがマウスとキーボードを操作し、モデリングからシーン構築、リギングまで実行 - ニュース",
           "imageUrl": "https://cgworld.jp/flashnews/assets_c/2026/05/Moonlake-01-thumb-1920x1080-83987.jpg"
-        },
-        {
-          "id": "https://cgworld.jp/flashnews/01-202605-UE5-RealFog.html",
-          "author": null,
-          "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
-          "link": "https://cgworld.jp/flashnews/01-202605-UE5-RealFog.html",
-          "publishedOn": "2026-05-22T22:23:31.000Z",
-          "wordCount": 817,
-          "title": "UE5＋Ultra Dynamic Skyによるグラウンドフォグのチュートリアル動画公開　基本設定から局地的な天候制御、ブラシペイントによる精密な配置まで - ニュース",
-          "imageUrl": "https://cgworld.jp/flashnews/assets_c/2026/05/UE5_RealFog-01-thumb-1920x1080-83968.jpg"
         }
       ]
     },
@@ -2555,6 +2545,21 @@
       "feedUrl": "https://zenn.dev/topics/shader/feed",
       "siteUrl": "https://zenn.dev/topics/shader",
       "articles": [
+        {
+          "id": "https://zenn.dev/daikichi228/articles/e38e957a0fce0a",
+          "author": "ダイキチ",
+          "description": "はじめに\n参考記事\nhttps://youtu.be/taMp1g1pBeE?si=UxF54qnAHZLbVWP6\n\n 実装\n\n 1. ノイズテクスチャを表示する\nShader \"Unlit/DissolveShader\"\n{\n    Properties\n    {\n        _MainTex (\"Texture\", 2D) = \"white\" {}\n    }\n    SubShader\n    {\n        Tags\n        {\n            \"RenderType\"=\"Transparent\"\n            \"RenderPipeli...",
+          "link": "https://zenn.dev/daikichi228/articles/e38e957a0fce0a",
+          "publishedOn": "2026-06-21T08:18:52.000Z",
+          "wordCount": 1424,
+          "title": "ディゾルブシェーダーを実装（Unity6, URP）",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--xKIB0-Hq--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%2587%25E3%2582%25A3%25E3%2582%25BE%25E3%2583%25AB%25E3%2583%2596%25E3%2582%25B7%25E3%2582%25A7%25E3%2583%25BC%25E3%2583%2580%25E3%2583%25BC%25E3%2582%2592%25E5%25AE%259F%25E8%25A3%2585%25EF%25BC%2588Unity6%252C%2520URP%25EF%25BC%2589%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2583%2580%25E3%2582%25A4%25E3%2582%25AD%25E3%2583%2581%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jSnVrSk9FU2laeDNxLVJaOGtfSFZxOUJwY0E0WENOTmlUUllLR2NuaGtLWmxlSmJ3PXMyNTAtYw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+            "length": "0",
+            "type": "false"
+          },
+          "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--xKIB0-Hq--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%2587%25E3%2582%25A3%25E3%2582%25BE%25E3%2583%25AB%25E3%2583%2596%25E3%2582%25B7%25E3%2582%25A7%25E3%2583%25BC%25E3%2583%2580%25E3%2583%25BC%25E3%2582%2592%25E5%25AE%259F%25E8%25A3%2585%25EF%25BC%2588Unity6%252C%2520URP%25EF%25BC%2589%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2583%2580%25E3%2582%25A4%25E3%2582%25AD%25E3%2583%2581%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jSnVrSk9FU2laeDNxLVJaOGtfSFZxOUJwY0E0WENOTmlUUllLR2NuaGtLWmxlSmJ3PXMyNTAtYw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+        },
         {
           "id": "https://zenn.dev/hajimeteradio3/articles/14eef33aa5f5de",
           "author": "はじめてらじお_フルリモ・データアナリスト",
@@ -3366,6 +3371,21 @@
       "feedUrl": "https://zenn.dev/topics/hlsl/feed",
       "siteUrl": "https://zenn.dev/topics/hlsl",
       "articles": [
+        {
+          "id": "https://zenn.dev/daikichi228/articles/e38e957a0fce0a",
+          "author": "ダイキチ",
+          "description": "はじめに\n参考記事\nhttps://youtu.be/taMp1g1pBeE?si=UxF54qnAHZLbVWP6\n\n 実装\n\n 1. ノイズテクスチャを表示する\nShader \"Unlit/DissolveShader\"\n{\n    Properties\n    {\n        _MainTex (\"Texture\", 2D) = \"white\" {}\n    }\n    SubShader\n    {\n        Tags\n        {\n            \"RenderType\"=\"Transparent\"\n            \"RenderPipeli...",
+          "link": "https://zenn.dev/daikichi228/articles/e38e957a0fce0a",
+          "publishedOn": "2026-06-21T08:18:52.000Z",
+          "wordCount": 1424,
+          "title": "ディゾルブシェーダーを実装（Unity6, URP）",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--xKIB0-Hq--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%2587%25E3%2582%25A3%25E3%2582%25BE%25E3%2583%25AB%25E3%2583%2596%25E3%2582%25B7%25E3%2582%25A7%25E3%2583%25BC%25E3%2583%2580%25E3%2583%25BC%25E3%2582%2592%25E5%25AE%259F%25E8%25A3%2585%25EF%25BC%2588Unity6%252C%2520URP%25EF%25BC%2589%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2583%2580%25E3%2582%25A4%25E3%2582%25AD%25E3%2583%2581%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jSnVrSk9FU2laeDNxLVJaOGtfSFZxOUJwY0E0WENOTmlUUllLR2NuaGtLWmxlSmJ3PXMyNTAtYw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+            "length": "0",
+            "type": "false"
+          },
+          "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--xKIB0-Hq--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%2587%25E3%2582%25A3%25E3%2582%25BE%25E3%2583%25AB%25E3%2583%2596%25E3%2582%25B7%25E3%2582%25A7%25E3%2583%25BC%25E3%2583%2580%25E3%2583%25BC%25E3%2582%2592%25E5%25AE%259F%25E8%25A3%2585%25EF%25BC%2588Unity6%252C%2520URP%25EF%25BC%2589%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2583%2580%25E3%2582%25A4%25E3%2582%25AD%25E3%2583%2581%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jSnVrSk9FU2laeDNxLVJaOGtfSFZxOUJwY0E0WENOTmlUUllLR2NuaGtLWmxlSmJ3PXMyNTAtYw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+        },
         {
           "id": "https://zenn.dev/daikichi228/articles/5781dc6084bdfa",
           "author": "ダイキチ",

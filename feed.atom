@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-06-21T02:40:54.731Z</updated>
+    <updated>2026-06-21T07:24:43.792Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[OneCanvas: 3D Scene Understanding via Panoramic Reprojection | マルチビュー画像を1枚のパノラマへ統合して3D空間認識を実現する技術！]]></title>
+        <id>https://3dnchu.com/?p=1065996</id>
+        <link href="https://3dnchu.com/archives/onecanvas/"/>
+        <updated>2026-06-21T03:42:45.000Z</updated>
+        <summary type="html"><![CDATA[ミュンヘン工科大学とHUAWEIの研究者らによる複数視点から撮影された画像を単一のパノラマ表現へ変換し、既存のVision-Language Model（VLM）をほぼそのまま利用して高度な3D空間理解を実現する研究「OneCanvas: 3D Scene Understanding via Panoramic Reprojection」が公開されています！]]></summary>
+        <author>
+            <name>Ymt3D -3dnchu-</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ブラウザだけで動くWebGL作品を一気に4つ作った — スクロール宇宙・自作GPU流体・物理カー・自作の海で踏んだ罠まとめ]]></title>
         <id>https://qiita.com/masafy/items/25db41b232e38ef32171</id>

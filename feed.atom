@@ -2,10 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-06-23T06:38:24.134Z</updated>
+    <updated>2026-06-23T10:53:29.259Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【指先の微細な動きまで忠実にトラッキング】Diver-X、グローブ型 VR コントローラ「ContactGlove3」を発表公式ストアにて予約販売を開始！― 電磁場(EMF)方式の採用により、世界最高峰の精度を実現。 - ニュース]]></title>
+        <id>https://cgworld.jp/flashnews/02-2606-contactglove3.html</id>
+        <link href="https://cgworld.jp/flashnews/02-2606-contactglove3.html"/>
+        <updated>2026-06-23T09:14:42.000Z</updated>
+        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【インタビュー】学び続けることを諦めない：3Dキャラクターアーティスト Gean Carlos Gomes 氏]]></title>
+        <id>https://3dtotal.jp/?p=55895</id>
+        <link href="https://3dtotal.jp/features/55895/"/>
+        <updated>2026-06-23T08:44:23.000Z</updated>
+        <summary type="html"><![CDATA[Q. 自己紹介をお願いします こんにちは、Gean Carlos です。3Dキャラクターアーティストとして活動しています。子どもの頃からアートが大好きで「いつかこの分野で仕事をしたい」と思っていました。高校卒業後、家族は […]
+The post 【インタビュー】学び続けることを諦めない：3Dキャラクターアーティスト Gean Carlos Gomes 氏 first appeared on 3dtotal 日本語オフィシャルサイト.]]></summary>
+        <author>
+            <name>3dtotal管理人T</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SketchUp環境に「Gaussian Splats」を直接取り込める拡張機能が公開！]]></title>
+        <id>https://cginterest.com/?p=60148</id>
+        <link href="https://cginterest.com/2026/06/23/sketchup%e7%92%b0%e5%a2%83%e3%81%ab%e3%80%8cgaussian-splats%e3%80%8d%e3%82%92%e7%9b%b4%e6%8e%a5%e5%8f%96%e3%82%8a%e8%be%bc%e3%82%81%e3%82%8b%e6%8b%a1%e5%bc%b5%e6%a9%9f%e8%83%bd%e3%81%8c%e5%85%ac/"/>
+        <updated>2026-06-23T07:54:02.000Z</updated>
+        <summary type="html"><![CDATA[SketchUpの実験的な機能を提供する「SketchUp Labs」より、新たにGaussian Splats（ガウシアンスプラット）拡張機能が公式に公開されました。 数ヶ月にわたるコミュニティでのベータテストを経て、 […]]]></summary>
+        <author>
+            <name>.me</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[求めているのは"渡来人" 遊技機・アニメでセルルック表現を追求するギャラクシーグラフィックスが求人募集中 - スペシャルコンテンツ]]></title>
         <id>https://cgworld.jp/special-feature/2606-gg.html</id>
@@ -4856,55 +4887,6 @@ The post BlenderとUnreal Engineで故郷の街を丸ごと再現。韓国・ウ
 The post 修正指示やメモなどMayaビューポートへ自由にテキスト表示可能になる無料プラグイン「vpHudTextV1」 first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
         <author>
             <name>modelinghappy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[フォトグラメトリ数学｜22：四元数（Quaternion）とは何か]]></title>
-        <id>https://zenn.dev/s_hashida/articles/f55b1e326313fa</id>
-        <link href="https://zenn.dev/s_hashida/articles/f55b1e326313fa"/>
-        <updated>2026-05-24T21:40:05.000Z</updated>
-        <summary type="html"><![CDATA[はじめに
-前回は、
-
-微小回転
-Rodriguesの回転公式
-指数写像
-
-について説明しました。
-
-その中で重要だったのが、
-
-回転はSO(3)上にある
-微小回転で線形化する
-
-という考え方です。
-
-しかし実際には、
-回転をそのまま回転行列で扱うと、
-
-パラメータ数が多い
-制約条件が必要
-数値誤差で直交性が崩れる
-
-といった問題があります。
-
-そこで登場するのが、
-四元数（Quaternion）
-です。
-
-今回は、
-
-Quaternionとは何か
-なぜ回転表現として便利なのか
-回転行列との関係
-なぜSLAMでよく使われるのか
-
-について整理します。
-
- 回転行列の問題
-回転行列は、...]]></summary>
-        <author>
-            <name>s_hashida</name>
         </author>
     </entry>
 </feed>

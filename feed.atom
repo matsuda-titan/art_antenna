@@ -2,10 +2,73 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-06-23T14:25:53.784Z</updated>
+    <updated>2026-06-24T02:12:01.406Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[「QuickMaker」- 1枚画像から3Dモデル・ストーリーボード・動画制作までBlender内で完結できるAIアドオン]]></title>
+        <id>https://modelinghappy.com/?p=69177</id>
+        <link href="https://modelinghappy.com/archives/69177"/>
+        <updated>2026-06-24T00:48:14.000Z</updated>
+        <summary type="html"><![CDATA[quickmaker QuickMakerは、Blender上でAIを活用した画像・3Dモデル・動画制作を行えるクリエイター向けアドオンで、Blenderの作業画面をそのまま利用しながら、外部サイトへ移動することなくAI
+The post 「QuickMaker」- 1枚画像から3Dモデル・ストーリーボード・動画制作までBlender内で完結できるAIアドオン first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
+        <author>
+            <name>modelinghappy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Abe Leal氏、Substance 3D PainterとMarmoset Toolbag 5のテクスチャリング機能の比較検証動画を公開　UIの使い勝手からジェネレータ、書き出しまで - ニュース]]></title>
+        <id>https://cgworld.jp/flashnews/01-202606-SPvsMarmo.html</id>
+        <link href="https://cgworld.jp/flashnews/01-202606-SPvsMarmo.html"/>
+        <updated>2026-06-23T22:21:11.000Z</updated>
+        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[フォトグラメトリ数学｜35：衛星空中三角測量（Satellite Triangulation）とは何か]]></title>
+        <id>https://zenn.dev/s_hashida/articles/67d8d8bd93c8ec</id>
+        <link href="https://zenn.dev/s_hashida/articles/67d8d8bd93c8ec"/>
+        <updated>2026-06-23T21:50:05.000Z</updated>
+        <summary type="html"><![CDATA[はじめに
+前回は、
+
+RPC
+地上座標と画像座標
+
+について説明しました。
+
+その中で重要だったのが、
+
+RPCで位置計算ができる
+衛星内部の複雑なモデルを意識しなくてよい
+しかし位置誤差は残る
+
+という点です。
+
+しかしここで疑問が出てきます。
+
+RPCだけで十分なのか？
+複数の衛星画像はどう利用するのか？
+より高い位置精度はどう実現するのか？
+
+
+実は衛星画像でも、航空写真の空中三角測量とよく似た考え方が利用されています。
+それが、
+衛星空中三角測量（Satellite Triangulation）
+です。
+
+今回は、
+
+衛星空中三角測量とは何か
+タイポイントの役割
+RPCとの...]]></summary>
+        <author>
+            <name>s_hashida</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[「Procedural River Generator」- カーブを描くだけでアニメ調の川・滝・草木を自動生成できるBlender向けGeometry Nodes]]></title>
         <id>https://modelinghappy.com/?p=69169</id>
@@ -4791,61 +4854,6 @@ https://github.com/yuzutarou-...]]></summary>
 投稿 【mocopi】mocopiを使った複数キャラクターのモーキャプ検証！ は TECH-COYOTE｜C&R Creative Studios に最初に表示されました。]]></summary>
         <author>
             <name>yamamoto tomohito</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[募集テーマは《プロダクト》。「CGWORLD GALLERY」作品応募受付は6/21（日）まで - ニュース]]></title>
-        <id>https://cgworld.jp/flashnews/cgwg-v031.html</id>
-        <link href="https://cgworld.jp/flashnews/cgwg-v031.html"/>
-        <updated>2026-05-25T13:30:00.000Z</updated>
-        <summary type="html"><![CDATA[月刊『CGWORLD』の連載「CGWORLD GALLERY」。今回は《プロダクト》をテーマに3DCG作品を募集！]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Houdini 60 Minutesでパンどろぼうのパチモンを作った話とその続き]]></title>
-        <id>https://note.com/kezzardrix/n/n206d3eec7811</id>
-        <link href="https://note.com/kezzardrix/n/n206d3eec7811"/>
-        <updated>2026-05-25T07:25:49.000Z</updated>
-        <summary type="html"><![CDATA[先日、Houdini 60 Minutes に出演させて頂きました。
- Houdini 60 minutesHoudini を駆使して60分で”お題”制作に挑む。4人の無心の挑戦をぜひ目の前で体験ください！campaign.borndigital.jp 
-続きをみる]]></summary>
-        <author>
-            <name>#Houdiniタグ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[生成AIとノードベース合成を統合したAIコンポジットツール「Beeble Canvas」]]></title>
-        <id>https://cginterest.com/?p=59164</id>
-        <link href="https://cginterest.com/2026/05/25/%e7%94%9f%e6%88%90ai%e3%81%a8%e3%83%8e%e3%83%bc%e3%83%89%e3%83%99%e3%83%bc%e3%82%b9%e5%90%88%e6%88%90%e3%82%92%e7%b5%b1%e5%90%88%e3%81%97%e3%81%9fai%e3%82%b3%e3%83%b3%e3%83%9d%e3%82%b8%e3%83%83/"/>
-        <updated>2026-05-25T07:19:39.000Z</updated>
-        <summary type="html"><![CDATA[映像制作向けAIプラットフォームを展開するBeebleの共同創業者であるHoon氏より、次世代のAIコンポジットツール「Canvas」が発表されました。  開発の背景 近年、AIによる映像・画像生成は驚くほどのスピードで […]
-生成AIとノードベース合成を統合したAIコンポジットツール「Beeble Canvas」 first appeared on CGinterest.]]></summary>
-        <author>
-            <name>.me</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sapphire 2026.5 リリース！再設計されたGlare、リアルなDefocus、Builderツールの強化など]]></title>
-        <id>https://cginterest.com/?p=59165</id>
-        <link href="https://cginterest.com/2026/05/25/sapphire-2026-5-%e3%83%aa%e3%83%aa%e3%83%bc%e3%82%b9%ef%bc%81%e5%86%8d%e8%a8%ad%e8%a8%88%e3%81%95%e3%82%8c%e3%81%9fglare%e3%80%81%e3%83%aa%e3%82%a2%e3%83%ab%e3%81%aadefocus%e3%80%81builder%e3%83%84/"/>
-        <updated>2026-05-25T05:14:54.000Z</updated>
-        <summary type="html"><![CDATA[2026年5月21日（現地時間）- Boris FX は、映像制作や3DCGのコンポジットにおいて広く利用されているプラグイン集「Sapphire」のバージョン2026.5をリリースしました。 新機能ハイライト 今回のア […]
-Sapphire 2026.5 リリース！再設計されたGlare、リアルなDefocus、Builderツールの強化など first appeared on CGinterest.]]></summary>
-        <author>
-            <name>.me</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[次世代エンジンUnreal Engine 6を採用した新作Rocket Leagueが発表]]></title>
-        <id>https://modelinghappy.com/?p=68767</id>
-        <link href="https://modelinghappy.com/archives/68767"/>
-        <updated>2026-05-25T03:15:26.000Z</updated>
-        <summary type="html"><![CDATA[2026年5月24日、PsyonixとEpic Gamesが開発する人気アクションカーサッカーゲームRocket Leagueの大会で、次世代エンジンUnreal Engine 6を採用した新バージョンが発表されました。
-The post 次世代エンジンUnreal Engine 6を採用した新作Rocket Leagueが発表 first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
-        <author>
-            <name>modelinghappy</name>
         </author>
     </entry>
 </feed>

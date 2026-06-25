@@ -3170,21 +3170,6 @@
             "type": "false"
           },
           "imageUrl": null
-        },
-        {
-          "id": "https://zenn.dev/s_hashida/articles/a975478c5ad6a0",
-          "author": "s_hashida",
-          "description": "はじめに\n前回は、\n\nQuaternion\n回転表現\nSO(3)\n\nについて説明しました。\n\nその中で重要だったのが、\n\n回転は普通のベクトル空間ではない\n曲がった空間の上にある\n\nという点です。\n\nしかし実際の最適化では、\n\n微小更新\n線形化\n加算\n\nを行っていました。\n\nではここで疑問が出てきます。\n\nなぜ「曲がった空間」で線形化できるのか？\nなぜexp/logが出てくるのか？\nなぜ微小回転ベクトルで更新できるのか？\n\n\nその背景にあるのが、\n\nLie群（Lie Group）\nLie代数（Lie Algebra）\n\nです。\n\n今回は、\n\nLie群とは何か\nLie代数とは何か\nな...",
-          "link": "https://zenn.dev/s_hashida/articles/a975478c5ad6a0",
-          "publishedOn": "2026-05-26T22:01:05.000Z",
-          "wordCount": 980,
-          "title": "フォトグラメトリ数学｜23：Lie群／Lie代数とは何か",
-          "enclosure": {
-            "url": "https://res.cloudinary.com/zenn/image/upload/s--eMGOm7ct--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%2595%25E3%2582%25A9%25E3%2583%2588%25E3%2582%25B0%25E3%2583%25A9%25E3%2583%25A1%25E3%2583%2588%25E3%2583%25AA%25E6%2595%25B0%25E5%25AD%25A6%25EF%25BD%259C23%25EF%25BC%259ALie%25E7%25BE%25A4%25EF%25BC%258FLie%25E4%25BB%25A3%25E6%2595%25B0%25E3%2581%25A8%25E3%2581%25AF%25E4%25BD%2595%25E3%2581%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:s_hashida%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2JmNmU5NjMzMTEuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
-            "length": "0",
-            "type": "false"
-          },
-          "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--eMGOm7ct--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%2595%25E3%2582%25A9%25E3%2583%2588%25E3%2582%25B0%25E3%2583%25A9%25E3%2583%25A1%25E3%2583%2588%25E3%2583%25AA%25E6%2595%25B0%25E5%25AD%25A6%25EF%25BD%259C23%25EF%25BC%259ALie%25E7%25BE%25A4%25EF%25BC%258FLie%25E4%25BB%25A3%25E6%2595%25B0%25E3%2581%25A8%25E3%2581%25AF%25E4%25BD%2595%25E3%2581%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:s_hashida%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2JmNmU5NjMzMTEuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"
         }
       ]
     },
@@ -3802,6 +3787,16 @@
       "siteUrl": "https://note.com/hashtag/SubstanceDesigner",
       "articles": [
         {
+          "id": "https://note.com/efeozi/n/n17e72f917483",
+          "author": null,
+          "description": "🔶色の付け方について\n\n続きをみる",
+          "link": "https://note.com/efeozi/n/n17e72f917483",
+          "publishedOn": "2026-06-25T09:11:13.000Z",
+          "wordCount": 2433,
+          "title": "Substance Designer / 色の付け方や色収差について",
+          "imageUrl": "https://d2l930y2yx77uc.cloudfront.net/production/social_images/f1691b9d2cc88cdfbc2d488a503c70f7e903969d.png"
+        },
+        {
           "id": "https://note.com/manji_9278274/n/n7f4af8759dc3",
           "author": null,
           "description": "どうもみなさん１週間ぶり。まんじです。\nちょっとサムネイルを凝り始めました。画像編集って難しいですね。\n前回は畳テクスチャを無料配布したっていうお話でしたが、いよいよその配布したテクスチャ自体を作っていきたいと思います\nが、今回はその事前準備。スムーズな制作を行うためにある程度の知識をつけていただきます。\n早速ですがこちらを見ていただきましょう。\n続きをみる",
@@ -3987,6 +3982,21 @@
       "feedUrl": "https://cginterest.com/feed/",
       "siteUrl": "https://cginterest.com",
       "articles": [
+        {
+          "id": "https://cginterest.com/?p=60181",
+          "author": ".me",
+          "description": "2026年6月22日（現地時間）- Substance 3D Painterのメジャーアップデートであるバージョン 12.1 が正式にリリースされました。 主要な新機能 今回のアップデートでは、自動リベイクやスキュー（歪 […]",
+          "link": "https://cginterest.com/2026/06/25/substance-3d-painter-12-1-%e3%81%8c%e6%ad%a3%e5%bc%8f%e3%83%aa%e3%83%aa%e3%83%bc%e3%82%b9%ef%bc%81%e8%87%aa%e5%8b%95%e3%83%aa%e3%83%99%e3%82%a4%e3%82%af%e3%82%84%e6%ad%aa%e3%81%bf%e4%bf%ae%e6%ad%a3/",
+          "publishedOn": "2026-06-25T07:47:15.000Z",
+          "wordCount": 30305,
+          "title": "Substance 3D Painter 12.1 が正式リリース！自動リベイクや歪み修正などベイク機能の強化、ハードサーフェス向け自動UV展開など",
+          "enclosure": {
+            "url": "https://cginterest.com/wp-content/uploads/2026/06/SP12_1_15db7fc19cf2cf77fe5780296d87a2935c36ba042-1.mp4",
+            "length": "130524",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://cginterest.com/wp-content/uploads/2026/06/SP12_1.webp"
+        },
         {
           "id": "https://cginterest.com/?p=60170",
           "author": ".me",

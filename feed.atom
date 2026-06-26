@@ -2,10 +2,108 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-06-25T14:02:18.888Z</updated>
+    <updated>2026-06-26T02:13:38.297Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[リアルタイム 3D コンテンツ制作ツール Unity 6.5 リリース]]></title>
+        <id>https://3dtotal.jp/?p=55929</id>
+        <link href="https://3dtotal.jp/news/55929/"/>
+        <updated>2026-06-26T02:10:00.000Z</updated>
+        <summary type="html"><![CDATA[★New features in Unity 6.5（17分23秒） Unity 6.5 がリリースされました。2D機能の強化、グラフィックスとシェーダーの改善、コアエンジンの変更、プラットフォームの更新などが盛り込まれ […]
+The post リアルタイム 3D コンテンツ制作ツール Unity 6.5 リリース first appeared on 3dtotal 日本語オフィシャルサイト.]]></summary>
+        <author>
+            <name>3dtotal管理人T</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ベイク機能の強化。Substance 3D Painter 12.1 の新機能紹介映像]]></title>
+        <id>https://3dtotal.jp/?p=55926</id>
+        <link href="https://3dtotal.jp/news/55926/"/>
+        <updated>2026-06-26T01:58:48.000Z</updated>
+        <summary type="html"><![CDATA[★Skew Baking & Auto Rebake in Painter 12.1 | Adobe Substance 3D（7分1秒） この機能は、Substance 3D Painter 12.1 で利用可能になり […]
+The post ベイク機能の強化。Substance 3D Painter 12.1 の新機能紹介映像 first appeared on 3dtotal 日本語オフィシャルサイト.]]></summary>
+        <author>
+            <name>3dtotal管理人T</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「Adobe」がAI高画質化ツール「Topaz Labs」を買収！FireflyやPhotoshopへの統合を発表]]></title>
+        <id>https://modelinghappy.com/?p=69211</id>
+        <link href="https://modelinghappy.com/archives/69211"/>
+        <updated>2026-06-26T01:01:50.000Z</updated>
+        <summary type="html"><![CDATA[Adobe to Acquire Topaz Labs Adobeは2026年6月25日、AIによる動画・画像高画質化ツールで知られるTopaz Labsを買収する契約を締結したことを発表しました。 Topaz Labs
+The post 「Adobe」がAI高画質化ツール「Topaz Labs」を買収！FireflyやPhotoshopへの統合を発表 first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
+        <author>
+            <name>modelinghappy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「HAELE 3D – Portrait Studio Lite」- イラスト・3DCG制作向けの顔リファレンスツールが正式リリース]]></title>
+        <id>https://modelinghappy.com/?p=69201</id>
+        <link href="https://modelinghappy.com/archives/69201"/>
+        <updated>2026-06-26T00:52:02.000Z</updated>
+        <summary type="html"><![CDATA[HAELE 3D #8211; ポートレ-トスタジオ Lite #8211; イングリファレンス 初心者から上級者まで、アーティスト向けに設計された、様々な3Dの顔を収録したリファレンスツール「HAELE 3D #
+The post 「HAELE 3D – Portrait Studio Lite」- イラスト・3DCG制作向けの顔リファレンスツールが正式リリース first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
+        <author>
+            <name>modelinghappy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[アドビ、3Dモデルをプリミティブパーツに分解する技術「SuperFit」をCVPRで発表　新定義の解析的プリミティブによりテーパーや湾曲、中空構造までをわずか8パラメータで表現 - ニュース]]></title>
+        <id>https://cgworld.jp/flashnews/01-202606-SuperFit.html</id>
+        <link href="https://cgworld.jp/flashnews/01-202606-SuperFit.html"/>
+        <updated>2026-06-25T22:10:55.000Z</updated>
+        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[フォトグラメトリ数学｜36：RPCの内部構造とRational Function Modelとは何か]]></title>
+        <id>https://zenn.dev/s_hashida/articles/126c0c7e2c7df2</id>
+        <link href="https://zenn.dev/s_hashida/articles/126c0c7e2c7df2"/>
+        <updated>2026-06-25T22:01:05.000Z</updated>
+        <summary type="html"><![CDATA[はじめに
+前回は、
+
+RPC
+衛星空中三角測量
+タイポイント
+RPC補正
+
+について説明しました。
+
+その中で重要だったのが、
+
+RPCは地上座標と画像座標を結び付ける
+衛星内部モデルを意識しなくてよい
+実際には補正して利用する
+
+という点です。
+
+しかしここで疑問が出てきます。
+
+RPCの中身は何なのか？
+なぜ位置計算ができるのか？
+なぜカメラモデルを使わなくてもよいのか？
+
+
+実はRPCは、
+Rational Function Model（RFM）
+という数式モデルによって構成されています。
+
+今回は、
+
+RFMとは何か
+RPCとの関係
+なぜ有理多項式を使うのか
+RPCの内部構...]]></summary>
+        <author>
+            <name>s_hashida</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2026年第1弾　キャラクター部門　結果発表！ 優秀賞&審査員講評コメント一挙公開 - 連載]]></title>
         <id>https://cgworld.jp/regular/whosnextchara2026v1.html</id>
@@ -4600,39 +4698,6 @@ The post 細部までこだわった CG の羽＆毛。Rodeo FX のファー＆�
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Quick Sidebar Switcher – BlenderのNパネルをショートカットで一覧表示出来る無料アドオン]]></title>
-        <id>https://modelinghappy.com/?p=68803</id>
-        <link href="https://modelinghappy.com/archives/68803"/>
-        <updated>2026-05-27T12:23:04.000Z</updated>
-        <summary type="html"><![CDATA[Quick Sidebar Switcher Quick Sidebar SwitcherはBlenderでNキーを押す事で表示される右側のアドオン等が含まれるパネルを、「Ctrl + Shift + A」キーを押す事で
-The post Quick Sidebar Switcher – BlenderのNパネルをショートカットで一覧表示出来る無料アドオン first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
-        <author>
-            <name>modelinghappy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【Houdini】レイアウトをカスタマイズする]]></title>
-        <id>https://3d.crdg.jp/env/?p=9470</id>
-        <link href="https://3d.crdg.jp/env/2026/05/27/9470/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=%25e3%2580%2590houdini%25e3%2580%2591%25e3%2583%25ac%25e3%2582%25a4%25e3%2582%25a2%25e3%2582%25a6%25e3%2583%2588%25e3%2582%2592%25e3%2582%25ab%25e3%2582%25b9%25e3%2582%25bf%25e3%2583%259e%25e3%2582%25a4%25e3%2582%25ba%25e3%2581%2599%25e3%2582%258b"/>
-        <updated>2026-05-27T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[今記事の目的： ・Houdiniの作業画面をカスタマイズする方法をいくつか紹介したいと思います。 Geometry Spreadsheetを表示させる […]
-続きを読む
-投稿 【Houdini】レイアウトをカスタマイズする は エンホリ - ENVIRONMENT HOLIC｜C&R Creative Studios に最初に表示されました。]]></summary>
-        <author>
-            <name>Makito.Noguchi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EIZO、31.5型4Kカラーマネジメントモニタ「ColorEdge CS3200X」発売 - ニュース]]></title>
-        <id>https://cgworld.jp/flashnews/02-2605-eizo.html</id>
-        <link href="https://cgworld.jp/flashnews/02-2605-eizo.html"/>
-        <updated>2026-05-27T09:20:18.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[UE環境構築ツール Dash 1.11 がリリース！ビューポートで描画可能なプリセットやコンテンツブラウザの改善など]]></title>
         <id>https://cginterest.com/?p=59261</id>
         <link href="https://cginterest.com/2026/05/27/ue%e7%92%b0%e5%a2%83%e6%a7%8b%e7%af%89%e3%83%84%e3%83%bc%e3%83%ab-dash-1-11-%e3%81%8c%e3%83%aa%e3%83%aa%e3%83%bc%e3%82%b9%ef%bc%81%e3%83%93%e3%83%a5%e3%83%bc%e3%83%9d%e3%83%bc%e3%83%88%e3%81%a7/"/>
@@ -4644,18 +4709,6 @@ UE環境構築ツール Dash 1.11 がリリース！ビューポートで描画�
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Puppeteer: Rig and Animate Your 3D Models (2025)]]></title>
-        <id>https://qiita.com/matumu20/items/da48f670efe0e8bc39ee</id>
-        <link href="https://qiita.com/matumu20/items/da48f670efe0e8bc39ee"/>
-        <updated>2026-05-27T08:46:56.000Z</updated>
-        <summary type="html"><![CDATA[Puppeteer: Rig and Animate Your 3D Models (Nanyang Technological University and ByteDance, 2025)
-
-## Puppeteer: 3Dモデルの自動リギングとアニメーション統合フレ...]]></summary>
-        <author>
-            <name>3DCGタグが付けられた新着記事 - Qiita</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[2026年5月の NVIDIA Studio Driver アップデートがリリース！]]></title>
         <id>https://cginterest.com/?p=59237</id>
         <link href="https://cginterest.com/2026/05/27/2026%e5%b9%b45%e6%9c%88%e3%81%ae-nvidia-studio-driver-%e3%82%a2%e3%83%83%e3%83%97%e3%83%87%e3%83%bc%e3%83%88%e3%81%8c%e3%83%aa%e3%83%aa%e3%83%bc%e3%82%b9%ef%bc%81/"/>
@@ -4664,124 +4717,6 @@ UE環境構築ツール Dash 1.11 がリリース！ビューポートで描画�
 2026年5月の NVIDIA Studio Driver アップデートがリリース！ first appeared on CGinterest.]]></summary>
         <author>
             <name>.me</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[USDをワークフローに取り込んでみてわかったこと]]></title>
-        <id>https://note.com/dftalk/n/n10a55d1d0d27</id>
-        <link href="https://note.com/dftalk/n/n10a55d1d0d27"/>
-        <updated>2026-05-27T08:00:54.000Z</updated>
-        <summary type="html"><![CDATA[こんにちは、TDの山口です。
-今回はここ数年でVFX・ゲーム業界でよく耳にするようになった USD（Universal Scene Description） について、自身が実装して気づいたことを書いてみようと思います。
-
-
-続きをみる]]></summary>
-        <author>
-            <name>DF TALK</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[シリーズ初のオープンフィールドで描く妖怪蠢く世界『仁王3』（2） - 特集]]></title>
-        <id>https://cgworld.jp/article/202605-cgw333-nioh3-b.html</id>
-        <link href="https://cgworld.jp/article/202605-cgw333-nioh3-b.html"/>
-        <updated>2026-05-27T05:15:00.000Z</updated>
-        <summary type="html"><![CDATA[ゲーム『仁王3』のメイキングを紹介]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[新しいライバルはタブレット!? ピクサー映画『トイ・ストーリー 5』の トレーラー（英語／日本語）]]></title>
-        <id>https://3dtotal.jp/?p=53687</id>
-        <link href="https://3dtotal.jp/news/53687/"/>
-        <updated>2026-05-27T05:00:37.000Z</updated>
-        <summary type="html"><![CDATA[★Toy Story 5 | Final Trailer | Get Tickets Now（1分45秒） ★Toy Story 5 | Official Trailer（2分24秒） ★「トイ・ストーリー５」最新予告（ […]
-The post 新しいライバルはタブレット!? ピクサー映画『トイ・ストーリー 5』の トレーラー（英語／日本語） first appeared on 3dtotal 日本語オフィシャルサイト.]]></summary>
-        <author>
-            <name>3dtotal管理人T</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[VBAO - Visibility Bitmask Ambient Occlusion | 低負荷で安定した品質のAOを追加出来るUnreal Engine 5向けプラグイン！]]></title>
-        <id>https://3dnchu.com/?p=1065316</id>
-        <link href="https://3dnchu.com/archives/vbao/"/>
-        <updated>2026-05-27T04:35:04.000Z</updated>
-        <summary type="html"><![CDATA[ARK.KRAによる、Unreal Engine 5向けのAOプラグイン「VBAO - Visibility Bitmask Ambient Occlusion」がFab上でリリースされていました！]]></summary>
-        <author>
-            <name>Ymt3D -3dnchu-</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["変容"が人の思いを可視化する―都庁プロジェクションマッピング『東京変容紀 -Spirits of Tokyo-』の演出設計 - 特集]]></title>
-        <id>https://cgworld.jp/article/2605-spiritsoftokyo.html</id>
-        <link href="https://cgworld.jp/article/2605-spiritsoftokyo.html"/>
-        <updated>2026-05-27T04:00:00.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[シェーダーでの行列計算を整理する[GLSL&HLSL]]]></title>
-        <id>https://zenn.dev/h0r0/articles/2bf45895a33b91</id>
-        <link href="https://zenn.dev/h0r0/articles/2bf45895a33b91"/>
-        <updated>2026-05-27T02:30:05.000Z</updated>
-        <summary type="html"><![CDATA[いつもいつも行列計算でこんがらがるので、将来の自分のために整理して書き残しておきます。
-シェーダーは現在進行形で学習中なので、記事内には間違いが含まれているかもしれません。
-GLSLとHLSLの仕様についてまとめようと思います。
-ベクトルや行列にあまり親しくない方へ
-以下のプレイリストのChapter1~4を視聴することをお勧めします。3Blue1Brownという海外の有名な数学の解説動画を作成している方のシリーズを、東京大学の学生有志団体が翻訳・再編集し公式ライセンスのもと公開しているものです。ベクトルや行列の計算方法以外の話も混ざっていますが、シェーダーで行列を用いた計算をするなら結...]]></summary>
-        <author>
-            <name>horo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[シェーダーでの行列計算を整理する[GLSL&HLSL]]]></title>
-        <id>https://zenn.dev/h0r0/articles/2bf45895a33b91</id>
-        <link href="https://zenn.dev/h0r0/articles/2bf45895a33b91"/>
-        <updated>2026-05-27T02:30:05.000Z</updated>
-        <summary type="html"><![CDATA[いつもいつも行列計算でこんがらがるので、将来の自分のために整理して書き残しておきます。
-シェーダーは現在進行形で学習中なので、記事内には間違いが含まれているかもしれません。
-GLSLとHLSLの仕様についてまとめようと思います。
-ベクトルや行列にあまり親しくない方へ
-以下のプレイリストのChapter1~4を視聴することをお勧めします。3Blue1Brownという海外の有名な数学の解説動画を作成している方のシリーズを、東京大学の学生有志団体が翻訳・再編集し公式ライセンスのもと公開しているものです。ベクトルや行列の計算方法以外の話も混ざっていますが、シェーダーで行列を用いた計算をするなら結...]]></summary>
-        <author>
-            <name>horo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[シェーダーでの行列計算を整理する[GLSL&HLSL]]]></title>
-        <id>https://zenn.dev/h0r0/articles/2bf45895a33b91</id>
-        <link href="https://zenn.dev/h0r0/articles/2bf45895a33b91"/>
-        <updated>2026-05-27T02:30:05.000Z</updated>
-        <summary type="html"><![CDATA[いつもいつも行列計算でこんがらがるので、将来の自分のために整理して書き残しておきます。
-シェーダーは現在進行形で学習中なので、記事内には間違いが含まれているかもしれません。
-GLSLとHLSLの仕様についてまとめようと思います。
-ベクトルや行列にあまり親しくない方へ
-以下のプレイリストのChapter1~4を視聴することをお勧めします。3Blue1Brownという海外の有名な数学の解説動画を作成している方のシリーズを、東京大学の学生有志団体が翻訳・再編集し公式ライセンスのもと公開しているものです。ベクトルや行列の計算方法以外の話も混ざっていますが、シェーダーで行列を用いた計算をするなら結...]]></summary>
-        <author>
-            <name>horo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Glitz VisualsのリアルタイムCG・AIワークフローで実感！　RTX 5090 Founders Edition搭載PCが実現する「時間を買う」投資 - スペシャルコンテンツ]]></title>
-        <id>https://cgworld.jp/special-feature/2605-Unitcom-GlitzVisuals.html</id>
-        <link href="https://cgworld.jp/special-feature/2605-Unitcom-GlitzVisuals.html"/>
-        <updated>2026-05-27T02:25:24.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「AssetHub」AIが1枚キャラクター画像を自動分解。髪・服・装備を個別3D化出来るアーリーアクセス版公開]]></title>
-        <id>https://modelinghappy.com/?p=68795</id>
-        <link href="https://modelinghappy.com/archives/68795"/>
-        <updated>2026-05-27T02:10:48.000Z</updated>
-        <summary type="html"><![CDATA[AssetHub 1枚のキャラクター画像から、髪・服・顔・装備などをAIが自動で分割し、モジュール式の3Dキャラクターとして生成出来る「AssetHub Studio」のアーリーアクセス版が公開されました。 １枚画像を読
-The post 「AssetHub」AIが1枚キャラクター画像を自動分解。髪・服・装備を個別3D化出来るアーリーアクセス版公開 first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
-        <author>
-            <name>modelinghappy</name>
         </author>
     </entry>
 </feed>

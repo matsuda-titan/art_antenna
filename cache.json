@@ -884,21 +884,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "https://3dnchu.com/wp-content/uploads/Mirror-Mesh.jpg"
-        },
-        {
-          "id": "https://3dnchu.com/?p=1065316",
-          "author": "Ymt3D -3dnchu-",
-          "description": "ARK.KRAによる、Unreal Engine 5向けのAOプラグイン「VBAO - Visibility Bitmask Ambient Occlusion」がFab上でリリースされていました！",
-          "link": "https://3dnchu.com/archives/vbao/",
-          "publishedOn": "2026-05-27T04:35:04.000Z",
-          "wordCount": 9106,
-          "title": "VBAO - Visibility Bitmask Ambient Occlusion | 低負荷で安定した品質のAOを追加出来るUnreal Engine 5向けプラグイン！",
-          "enclosure": {
-            "url": "https://3dnchu.com/wp-content/uploads/VBAO2.jpg",
-            "length": "93919",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://3dnchu.com/wp-content/uploads/VBAO2.jpg"
         }
       ]
     },
@@ -907,6 +892,16 @@
       "feedUrl": "https://cgworld.jp/atom.xml",
       "siteUrl": "https://cgworld.jp/",
       "articles": [
+        {
+          "id": "https://cgworld.jp/flashnews/01-202606-SuperFit.html",
+          "author": null,
+          "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
+          "link": "https://cgworld.jp/flashnews/01-202606-SuperFit.html",
+          "publishedOn": "2026-06-25T22:10:55.000Z",
+          "wordCount": 819,
+          "title": "アドビ、3Dモデルをプリミティブパーツに分解する技術「SuperFit」をCVPRで発表　新定義の解析的プリミティブによりテーパーや湾曲、中空構造までをわずか8パラメータで表現 - ニュース",
+          "imageUrl": "https://cgworld.jp/flashnews/assets_c/2026/06/Superfit-01-thumb-1920x1079-85708.jpg"
+        },
         {
           "id": "https://cgworld.jp/regular/whosnextchara2026v1.html",
           "author": null,
@@ -1916,46 +1911,6 @@
           "wordCount": 757,
           "title": "ロジクール、「MX MASTER 4」にWindows 11連携の触覚フィードバック機能を追加 - ニュース",
           "imageUrl": "https://cgworld.jp/flashnews/assets_c/2026/05/1920_mx4_windows11_haptics_clean_2-thumb-1000x563-84059.png"
-        },
-        {
-          "id": "https://cgworld.jp/flashnews/02-2605-eizo.html",
-          "author": null,
-          "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
-          "link": "https://cgworld.jp/flashnews/02-2605-eizo.html",
-          "publishedOn": "2026-05-27T09:20:18.000Z",
-          "wordCount": 756,
-          "title": "EIZO、31.5型4Kカラーマネジメントモニタ「ColorEdge CS3200X」発売 - ニュース",
-          "imageUrl": "https://cgworld.jp/flashnews/assets_c/2026/05/ColorEdge_CS3200X_press-thumb-1000x563-84028.jpg"
-        },
-        {
-          "id": "https://cgworld.jp/article/202605-cgw333-nioh3-b.html",
-          "author": null,
-          "description": "ゲーム『仁王3』のメイキングを紹介",
-          "link": "https://cgworld.jp/article/202605-cgw333-nioh3-b.html",
-          "publishedOn": "2026-05-27T05:15:00.000Z",
-          "wordCount": 873,
-          "title": "シリーズ初のオープンフィールドで描く妖怪蠢く世界『仁王3』（2） - 特集",
-          "imageUrl": "https://cgworld.jp/article/assets_c/2026/05/258e9fdb6ef235367b5cd6c25a7aadd5ec387f0d-thumb-1000x563-83148.jpg"
-        },
-        {
-          "id": "https://cgworld.jp/article/2605-spiritsoftokyo.html",
-          "author": null,
-          "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
-          "link": "https://cgworld.jp/article/2605-spiritsoftokyo.html",
-          "publishedOn": "2026-05-27T04:00:00.000Z",
-          "wordCount": 766,
-          "title": "\"変容\"が人の思いを可視化する―都庁プロジェクションマッピング『東京変容紀 -Spirits of Tokyo-』の演出設計 - 特集",
-          "imageUrl": "https://cgworld.jp/article/assets_c/2026/05/127b8a3efce780ee8083fa26fe9c025b418491ff-thumb-1000x563-83957.jpg"
-        },
-        {
-          "id": "https://cgworld.jp/special-feature/2605-Unitcom-GlitzVisuals.html",
-          "author": null,
-          "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
-          "link": "https://cgworld.jp/special-feature/2605-Unitcom-GlitzVisuals.html",
-          "publishedOn": "2026-05-27T02:25:24.000Z",
-          "wordCount": 737,
-          "title": "Glitz VisualsのリアルタイムCG・AIワークフローで実感！　RTX 5090 Founders Edition搭載PCが実現する「時間を買う」投資 - スペシャルコンテンツ",
-          "imageUrl": "https://cgworld.jp/special-feature/assets_c/2026/05/unitcom-thumb-768x432-83808.png"
         }
       ]
     },
@@ -2010,6 +1965,26 @@
       "feedUrl": "https://modelinghappy.com/feed",
       "siteUrl": "https://modelinghappy.com",
       "articles": [
+        {
+          "id": "https://modelinghappy.com/?p=69211",
+          "author": "modelinghappy",
+          "description": "Adobe to Acquire Topaz Labs Adobeは2026年6月25日、AIによる動画・画像高画質化ツールで知られるTopaz Labsを買収する契約を締結したことを発表しました。 Topaz Labs\nThe post 「Adobe」がAI高画質化ツール「Topaz Labs」を買収！FireflyやPhotoshopへの統合を発表 first appeared on 3DCG最新情報サイト MODELING HAPPY.",
+          "link": "https://modelinghappy.com/archives/69211",
+          "publishedOn": "2026-06-26T01:01:50.000Z",
+          "wordCount": 3025,
+          "title": "「Adobe」がAI高画質化ツール「Topaz Labs」を買収！FireflyやPhotoshopへの統合を発表",
+          "imageUrl": "https://modelinghappy.com/wp-content/uploads/2026/06/20260626_adobe.jpg"
+        },
+        {
+          "id": "https://modelinghappy.com/?p=69201",
+          "author": "modelinghappy",
+          "description": "HAELE 3D #8211; ポートレ-トスタジオ Lite #8211; イングリファレンス 初心者から上級者まで、アーティスト向けに設計された、様々な3Dの顔を収録したリファレンスツール「HAELE 3D #\nThe post 「HAELE 3D – Portrait Studio Lite」- イラスト・3DCG制作向けの顔リファレンスツールが正式リリース first appeared on 3DCG最新情報サイト MODELING HAPPY.",
+          "link": "https://modelinghappy.com/archives/69201",
+          "publishedOn": "2026-06-26T00:52:02.000Z",
+          "wordCount": 3297,
+          "title": "「HAELE 3D – Portrait Studio Lite」- イラスト・3DCG制作向けの顔リファレンスツールが正式リリース",
+          "imageUrl": "https://modelinghappy.com/wp-content/uploads/2026/06/20260626_haele_3d_01.jpg"
+        },
         {
           "id": "https://modelinghappy.com/?p=69195",
           "author": "modelinghappy",
@@ -2359,26 +2334,6 @@
           "wordCount": 3091,
           "title": "Mirror Tool – 面・辺・頂点を基準にモデルをミラー反転し、法線反転・ブリッジ・ベベル処理も同時に行えるBlenderアドオン",
           "imageUrl": "https://modelinghappy.com/wp-content/uploads/2026/05/20260529_mirrortool_01.jpg"
-        },
-        {
-          "id": "https://modelinghappy.com/?p=68803",
-          "author": "modelinghappy",
-          "description": "Quick Sidebar Switcher Quick Sidebar SwitcherはBlenderでNキーを押す事で表示される右側のアドオン等が含まれるパネルを、「Ctrl + Shift + A」キーを押す事で\nThe post Quick Sidebar Switcher – BlenderのNパネルをショートカットで一覧表示出来る無料アドオン first appeared on 3DCG最新情報サイト MODELING HAPPY.",
-          "link": "https://modelinghappy.com/archives/68803",
-          "publishedOn": "2026-05-27T12:23:04.000Z",
-          "wordCount": 3070,
-          "title": "Quick Sidebar Switcher – BlenderのNパネルをショートカットで一覧表示出来る無料アドオン",
-          "imageUrl": "https://modelinghappy.com/wp-content/uploads/2026/05/20260527_quicksidebarswicher_01.jpg"
-        },
-        {
-          "id": "https://modelinghappy.com/?p=68795",
-          "author": "modelinghappy",
-          "description": "AssetHub 1枚のキャラクター画像から、髪・服・顔・装備などをAIが自動で分割し、モジュール式の3Dキャラクターとして生成出来る「AssetHub Studio」のアーリーアクセス版が公開されました。 １枚画像を読\nThe post 「AssetHub」AIが1枚キャラクター画像を自動分解。髪・服・装備を個別3D化出来るアーリーアクセス版公開 first appeared on 3DCG最新情報サイト MODELING HAPPY.",
-          "link": "https://modelinghappy.com/archives/68795",
-          "publishedOn": "2026-05-27T02:10:48.000Z",
-          "wordCount": 3080,
-          "title": "「AssetHub」AIが1枚キャラクター画像を自動分解。髪・服・装備を個別3D化出来るアーリーアクセス版公開",
-          "imageUrl": "https://modelinghappy.com/wp-content/uploads/2026/05/20260527_assets_hub_01.jpg"
         }
       ]
     },
@@ -2387,6 +2342,26 @@
       "feedUrl": "https://3dtotal.jp/feed/",
       "siteUrl": "https://3dtotal.jp",
       "articles": [
+        {
+          "id": "https://3dtotal.jp/?p=55929",
+          "author": "3dtotal管理人T",
+          "description": "★New features in Unity 6.5（17分23秒） Unity 6.5 がリリースされました。2D機能の強化、グラフィックスとシェーダーの改善、コアエンジンの変更、プラットフォームの更新などが盛り込まれ […]\nThe post リアルタイム 3D コンテンツ制作ツール Unity 6.5 リリース first appeared on 3dtotal 日本語オフィシャルサイト.",
+          "link": "https://3dtotal.jp/news/55929/",
+          "publishedOn": "2026-06-26T02:10:00.000Z",
+          "wordCount": 558,
+          "title": "リアルタイム 3D コンテンツ制作ツール Unity 6.5 リリース",
+          "imageUrl": "https://3dtotal.jp/wp-content/uploads/2026/06/unity6_5_wnew.jpg"
+        },
+        {
+          "id": "https://3dtotal.jp/?p=55926",
+          "author": "3dtotal管理人T",
+          "description": "★Skew Baking & Auto Rebake in Painter 12.1 | Adobe Substance 3D（7分1秒） この機能は、Substance 3D Painter 12.1 で利用可能になり […]\nThe post ベイク機能の強化。Substance 3D Painter 12.1 の新機能紹介映像 first appeared on 3dtotal 日本語オフィシャルサイト.",
+          "link": "https://3dtotal.jp/news/55926/",
+          "publishedOn": "2026-06-26T01:58:48.000Z",
+          "wordCount": 550,
+          "title": "ベイク機能の強化。Substance 3D Painter 12.1 の新機能紹介映像",
+          "imageUrl": "https://3dtotal.jp/wp-content/uploads/2026/06/spainter12_1_sab.jpg"
+        },
         {
           "id": "https://3dtotal.jp/?p=55907",
           "author": "3dtotal管理人T",
@@ -2686,16 +2661,6 @@
           "wordCount": 534,
           "title": "細部までこだわった CG の羽＆毛。Rodeo FX のファー＆フェザーリール",
           "imageUrl": "https://3dtotal.jp/wp-content/uploads/2026/05/rodeofx_fur_reel26.jpg"
-        },
-        {
-          "id": "https://3dtotal.jp/?p=53687",
-          "author": "3dtotal管理人T",
-          "description": "★Toy Story 5 | Final Trailer | Get Tickets Now（1分45秒） ★Toy Story 5 | Official Trailer（2分24秒） ★「トイ・ストーリー５」最新予告（ […]\nThe post 新しいライバルはタブレット!? ピクサー映画『トイ・ストーリー 5』の トレーラー（英語／日本語） first appeared on 3dtotal 日本語オフィシャルサイト.",
-          "link": "https://3dtotal.jp/news/53687/",
-          "publishedOn": "2026-05-27T05:00:37.000Z",
-          "wordCount": 559,
-          "title": "新しいライバルはタブレット!? ピクサー映画『トイ・ストーリー 5』の トレーラー（英語／日本語）",
-          "imageUrl": "https://3dtotal.jp/wp-content/uploads/2026/05/toystory5_ftrailer.jpg"
         }
       ]
     },
@@ -2793,21 +2758,6 @@
             "type": "false"
           },
           "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--OPGIKrkc--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2582%25B9%25E3%2583%2586%25E3%2583%25B3%25E3%2582%25B7%25E3%2583%25AB%25E3%2583%2590%25E3%2583%2583%25E3%2583%2595%25E3%2582%25A1%25E3%2582%2592%25E7%2594%25A8%25E3%2581%2584%25E3%2581%259F%25E3%2582%25B7%25E3%2582%25A7%25E3%2583%25BC%25E3%2583%2580%25E3%2583%25BC%25E5%25AE%259F%25E8%25A3%2585%25EF%25BC%2588Unity6%252C%2520URP%25EF%25BC%2589%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2583%2580%25E3%2582%25A4%25E3%2582%25AD%25E3%2583%2581%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jSnVrSk9FU2laeDNxLVJaOGtfSFZxOUJwY0E0WENOTmlUUllLR2NuaGtLWmxlSmJ3PXMyNTAtYw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
-        },
-        {
-          "id": "https://zenn.dev/h0r0/articles/2bf45895a33b91",
-          "author": "horo",
-          "description": "いつもいつも行列計算でこんがらがるので、将来の自分のために整理して書き残しておきます。\nシェーダーは現在進行形で学習中なので、記事内には間違いが含まれているかもしれません。\nGLSLとHLSLの仕様についてまとめようと思います。\nベクトルや行列にあまり親しくない方へ\n以下のプレイリストのChapter1~4を視聴することをお勧めします。3Blue1Brownという海外の有名な数学の解説動画を作成している方のシリーズを、東京大学の学生有志団体が翻訳・再編集し公式ライセンスのもと公開しているものです。ベクトルや行列の計算方法以外の話も混ざっていますが、シェーダーで行列を用いた計算をするなら結...",
-          "link": "https://zenn.dev/h0r0/articles/2bf45895a33b91",
-          "publishedOn": "2026-05-27T02:30:05.000Z",
-          "wordCount": 2162,
-          "title": "シェーダーでの行列計算を整理する[GLSL&HLSL]",
-          "enclosure": {
-            "url": "https://res.cloudinary.com/zenn/image/upload/s--QCEAmKJx--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2582%25B7%25E3%2582%25A7%25E3%2583%25BC%25E3%2583%2580%25E3%2583%25BC%25E3%2581%25A7%25E3%2581%25AE%25E8%25A1%258C%25E5%2588%2597%25E8%25A8%2588%25E7%25AE%2597%25E3%2582%2592%25E6%2595%25B4%25E7%2590%2586%25E3%2581%2599%25E3%2582%258B%255BGLSL%2526HLSL%255D%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:horo%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzI3NGE0YWU0N2MuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
-            "length": "0",
-            "type": "false"
-          },
-          "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--QCEAmKJx--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2582%25B7%25E3%2582%25A7%25E3%2583%25BC%25E3%2583%2580%25E3%2583%25BC%25E3%2581%25A7%25E3%2581%25AE%25E8%25A1%258C%25E5%2588%2597%25E8%25A8%2588%25E7%25AE%2597%25E3%2582%2592%25E6%2595%25B4%25E7%2590%2586%25E3%2581%2599%25E3%2582%258B%255BGLSL%2526HLSL%255D%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:horo%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzI3NGE0YWU0N2MuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"
         }
       ]
     },
@@ -2956,6 +2906,21 @@
       "feedUrl": "https://zenn.dev/topics/3dcg/feed",
       "siteUrl": "https://zenn.dev/topics/3dcg",
       "articles": [
+        {
+          "id": "https://zenn.dev/s_hashida/articles/126c0c7e2c7df2",
+          "author": "s_hashida",
+          "description": "はじめに\n前回は、\n\nRPC\n衛星空中三角測量\nタイポイント\nRPC補正\n\nについて説明しました。\n\nその中で重要だったのが、\n\nRPCは地上座標と画像座標を結び付ける\n衛星内部モデルを意識しなくてよい\n実際には補正して利用する\n\nという点です。\n\nしかしここで疑問が出てきます。\n\nRPCの中身は何なのか？\nなぜ位置計算ができるのか？\nなぜカメラモデルを使わなくてもよいのか？\n\n\n実はRPCは、\nRational Function Model（RFM）\nという数式モデルによって構成されています。\n\n今回は、\n\nRFMとは何か\nRPCとの関係\nなぜ有理多項式を使うのか\nRPCの内部構...",
+          "link": "https://zenn.dev/s_hashida/articles/126c0c7e2c7df2",
+          "publishedOn": "2026-06-25T22:01:05.000Z",
+          "wordCount": 987,
+          "title": "フォトグラメトリ数学｜36：RPCの内部構造とRational Function Modelとは何か",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--ZKMoqwyO--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%2595%25E3%2582%25A9%25E3%2583%2588%25E3%2582%25B0%25E3%2583%25A9%25E3%2583%25A1%25E3%2583%2588%25E3%2583%25AA%25E6%2595%25B0%25E5%25AD%25A6%25EF%25BD%259C36%25EF%25BC%259ARPC%25E3%2581%25AE%25E5%2586%2585%25E9%2583%25A8%25E6%25A7%258B%25E9%2580%25A0%25E3%2581%25A8Rational%2520Function%2520Model%25E3%2581%25A8%25E3%2581%25AF%25E4%25BD%2595%25E3%2581%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:s_hashida%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2JmNmU5NjMzMTEuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+            "length": "0",
+            "type": "false"
+          },
+          "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--ZKMoqwyO--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%2595%25E3%2582%25A9%25E3%2583%2588%25E3%2582%25B0%25E3%2583%25A9%25E3%2583%25A1%25E3%2583%2588%25E3%2583%25AA%25E6%2595%25B0%25E5%25AD%25A6%25EF%25BD%259C36%25EF%25BC%259ARPC%25E3%2581%25AE%25E5%2586%2585%25E9%2583%25A8%25E6%25A7%258B%25E9%2580%25A0%25E3%2581%25A8Rational%2520Function%2520Model%25E3%2581%25A8%25E3%2581%25AF%25E4%25BD%2595%25E3%2581%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:s_hashida%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2JmNmU5NjMzMTEuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+        },
         {
           "id": "https://zenn.dev/s_hashida/articles/67d8d8bd93c8ec",
           "author": "s_hashida",
@@ -3285,16 +3250,6 @@
           "wordCount": 936,
           "title": "【VFX】エフェクト用メッシュはブラウザで作る！ Effect Mesh Generator を作りました",
           "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnFpaXRhLWltYWdlLXN0b3JlLnMzLmFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkYwJTJGNDQ0MTc1NyUyRnByb2ZpbGUtaW1hZ2VzJTJGMTc4MDQwODQ3Nj9peGxpYj1yYi00LjEuMSZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9YTdmMDc2ODM0ZGZiOTQ5NzA0MmFkNTgxOTE4ZmMyMDM%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D69d0e89054d41b814719a74fab93e7c6?ixlib=rb-4.1.1&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9JUUzJTgwJTkwVkZYJUUzJTgwJTkxJUUzJTgyJUE4JUUzJTgzJTk1JUUzJTgyJUE3JUUzJTgyJUFGJUUzJTgzJTg4JUU3JTk0JUE4JUUzJTgzJUExJUUzJTgzJTgzJUUzJTgyJUI3JUUzJTgzJUE1JUUzJTgxJUFGJUUzJTgzJTk2JUUzJTgzJUE5JUUzJTgyJUE2JUUzJTgyJUI2JUUzJTgxJUE3JUU0JUJEJTlDJUUzJTgyJThCJUVGJUJDJTgxJTIwRWZmZWN0JTIwTWVzaCUyMEdlbmVyYXRvciUyMCVFMyU4MiU5MiVFNCVCRCU5QyVFMyU4MiU4QSVFMyU4MSVCRSVFMyU4MSU5NyVFMyU4MSU5RiZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnR4dC1wYWQ9MCZzPTg3YTUyM2M0ZTM0NzJkODA5MjQzNjI1NmY3YTNkNTky&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBiaWc2MTViaWc2MTUmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz0wYjAxNDY5NjJlYzVjMzZiMGZhZDk3ZTkyZjEzNDg1ZQ&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=269551551d4f96e5af08d4e76e082815"
-        },
-        {
-          "id": "https://qiita.com/matumu20/items/da48f670efe0e8bc39ee",
-          "author": null,
-          "description": "Puppeteer: Rig and Animate Your 3D Models (Nanyang Technological University and ByteDance, 2025)\n\n## Puppeteer: 3Dモデルの自動リギングとアニメーション統合フレ...",
-          "link": "https://qiita.com/matumu20/items/da48f670efe0e8bc39ee",
-          "publishedOn": "2026-05-27T08:46:56.000Z",
-          "wordCount": 1440,
-          "title": "Puppeteer: Rig and Animate Your 3D Models (2025)",
-          "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYyOTgxNjYwJTJGOTViNDExMjY5MmU5NDc5M2U2NTY5ODQ5MzdmM2I4ZjliMmE3MDc2YSUyRmxhcmdlLnBuZyUzRjE2Njg2MDM2MDk_aXhsaWI9cmItNC4xLjEmYXI9MSUzQTEmZml0PWNyb3AmbWFzaz1lbGxpcHNlJmJnPUZGRkZGRiZmbT1wbmczMiZzPWE1ZTgxNGYzYWQ2OTFjZmM4MWVmYjBlODkwMzg4NjNk%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3Db091fc7b27b7f70f9fcc9261423415bf?ixlib=rb-4.1.1&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9UHVwcGV0ZWVyJTNBJTIwUmlnJTIwYW5kJTIwQW5pbWF0ZSUyMFlvdXIlMjAzRCUyME1vZGVscyUyMCUyODIwMjUlMjklMjAmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz0xOGQ2NTgwZWI2YmU5NmEyNzEzMzUwM2QxZDMzYjhhYg&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBtYXR1bXUyMCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPTUwYzYyYzVhMmI4MTU4MWE3ZTg2NGY0YmMyNWRkOGQ3&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=bd620584a86f6965bca73455a1fd71f8"
         }
       ]
     },
@@ -3520,21 +3475,6 @@
             "type": "false"
           },
           "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--OPGIKrkc--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2582%25B9%25E3%2583%2586%25E3%2583%25B3%25E3%2582%25B7%25E3%2583%25AB%25E3%2583%2590%25E3%2583%2583%25E3%2583%2595%25E3%2582%25A1%25E3%2582%2592%25E7%2594%25A8%25E3%2581%2584%25E3%2581%259F%25E3%2582%25B7%25E3%2582%25A7%25E3%2583%25BC%25E3%2583%2580%25E3%2583%25BC%25E5%25AE%259F%25E8%25A3%2585%25EF%25BC%2588Unity6%252C%2520URP%25EF%25BC%2589%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2583%2580%25E3%2582%25A4%25E3%2582%25AD%25E3%2583%2581%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jSnVrSk9FU2laeDNxLVJaOGtfSFZxOUJwY0E0WENOTmlUUllLR2NuaGtLWmxlSmJ3PXMyNTAtYw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
-        },
-        {
-          "id": "https://zenn.dev/h0r0/articles/2bf45895a33b91",
-          "author": "horo",
-          "description": "いつもいつも行列計算でこんがらがるので、将来の自分のために整理して書き残しておきます。\nシェーダーは現在進行形で学習中なので、記事内には間違いが含まれているかもしれません。\nGLSLとHLSLの仕様についてまとめようと思います。\nベクトルや行列にあまり親しくない方へ\n以下のプレイリストのChapter1~4を視聴することをお勧めします。3Blue1Brownという海外の有名な数学の解説動画を作成している方のシリーズを、東京大学の学生有志団体が翻訳・再編集し公式ライセンスのもと公開しているものです。ベクトルや行列の計算方法以外の話も混ざっていますが、シェーダーで行列を用いた計算をするなら結...",
-          "link": "https://zenn.dev/h0r0/articles/2bf45895a33b91",
-          "publishedOn": "2026-05-27T02:30:05.000Z",
-          "wordCount": 2162,
-          "title": "シェーダーでの行列計算を整理する[GLSL&HLSL]",
-          "enclosure": {
-            "url": "https://res.cloudinary.com/zenn/image/upload/s--QCEAmKJx--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2582%25B7%25E3%2582%25A7%25E3%2583%25BC%25E3%2583%2580%25E3%2583%25BC%25E3%2581%25A7%25E3%2581%25AE%25E8%25A1%258C%25E5%2588%2597%25E8%25A8%2588%25E7%25AE%2597%25E3%2582%2592%25E6%2595%25B4%25E7%2590%2586%25E3%2581%2599%25E3%2582%258B%255BGLSL%2526HLSL%255D%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:horo%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzI3NGE0YWU0N2MuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
-            "length": "0",
-            "type": "false"
-          },
-          "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--QCEAmKJx--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2582%25B7%25E3%2582%25A7%25E3%2583%25BC%25E3%2583%2580%25E3%2583%25BC%25E3%2581%25A7%25E3%2581%25AE%25E8%25A1%258C%25E5%2588%2597%25E8%25A8%2588%25E7%25AE%2597%25E3%2582%2592%25E6%2595%25B4%25E7%2590%2586%25E3%2581%2599%25E3%2582%258B%255BGLSL%2526HLSL%255D%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:horo%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzI3NGE0YWU0N2MuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"
         }
       ]
     },
@@ -3557,21 +3497,6 @@
             "type": "false"
           },
           "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--DFaFAi-a--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:CSS%25E3%2581%25AEbackdrop-filter%25E3%2581%25A7%25E3%2581%25AF%25E4%25BD%259C%25E3%2582%258C%25E3%2581%25AA%25E3%2581%2584%25E3%2580%258C%25E5%25B1%2588%25E6%258A%2598%25E3%2581%2599%25E3%2582%258B%25E3%2582%25AC%25E3%2583%25A9%25E3%2582%25B9%25E3%2580%258D%25E3%2582%2592WebGL%25E3%2582%25B7%25E3%2582%25A7%25E3%2583%25BC%25E3%2583%2580%25E3%2583%25BC%25E3%2581%25A7%25E4%25BD%259C%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E4%25BB%258A%25E4%25BA%2595%25E6%2594%25BF%25E5%2592%258C%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2ViMmFhNzlkOWEuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
-        },
-        {
-          "id": "https://zenn.dev/h0r0/articles/2bf45895a33b91",
-          "author": "horo",
-          "description": "いつもいつも行列計算でこんがらがるので、将来の自分のために整理して書き残しておきます。\nシェーダーは現在進行形で学習中なので、記事内には間違いが含まれているかもしれません。\nGLSLとHLSLの仕様についてまとめようと思います。\nベクトルや行列にあまり親しくない方へ\n以下のプレイリストのChapter1~4を視聴することをお勧めします。3Blue1Brownという海外の有名な数学の解説動画を作成している方のシリーズを、東京大学の学生有志団体が翻訳・再編集し公式ライセンスのもと公開しているものです。ベクトルや行列の計算方法以外の話も混ざっていますが、シェーダーで行列を用いた計算をするなら結...",
-          "link": "https://zenn.dev/h0r0/articles/2bf45895a33b91",
-          "publishedOn": "2026-05-27T02:30:05.000Z",
-          "wordCount": 2162,
-          "title": "シェーダーでの行列計算を整理する[GLSL&HLSL]",
-          "enclosure": {
-            "url": "https://res.cloudinary.com/zenn/image/upload/s--QCEAmKJx--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2582%25B7%25E3%2582%25A7%25E3%2583%25BC%25E3%2583%2580%25E3%2583%25BC%25E3%2581%25A7%25E3%2581%25AE%25E8%25A1%258C%25E5%2588%2597%25E8%25A8%2588%25E7%25AE%2597%25E3%2582%2592%25E6%2595%25B4%25E7%2590%2586%25E3%2581%2599%25E3%2582%258B%255BGLSL%2526HLSL%255D%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:horo%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzI3NGE0YWU0N2MuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT",
-            "length": "0",
-            "type": "false"
-          },
-          "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--QCEAmKJx--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2582%25B7%25E3%2582%25A7%25E3%2583%25BC%25E3%2583%2580%25E3%2583%25BC%25E3%2581%25A7%25E3%2581%25AE%25E8%25A1%258C%25E5%2588%2597%25E8%25A8%2588%25E7%25AE%2597%25E3%2582%2592%25E6%2595%25B4%25E7%2590%2586%25E3%2581%2599%25E3%2582%258B%255BGLSL%2526HLSL%255D%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:horo%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzI3NGE0YWU0N2MuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT"
         }
       ]
     },
@@ -3676,16 +3601,6 @@
           "wordCount": 3303,
           "title": "バッチファイルの活用術",
           "imageUrl": "https://assets.st-note.com/production/uploads/images/286223159/rectangle_large_type_2_bb99697706c6785eb52b11890a0c6bad.png?width=800"
-        },
-        {
-          "id": "https://note.com/dftalk/n/n10a55d1d0d27",
-          "author": null,
-          "description": "こんにちは、TDの山口です。\n今回はここ数年でVFX・ゲーム業界でよく耳にするようになった USD（Universal Scene Description） について、自身が実装して気づいたことを書いてみようと思います。\n\n\n続きをみる",
-          "link": "https://note.com/dftalk/n/n10a55d1d0d27",
-          "publishedOn": "2026-05-27T08:00:54.000Z",
-          "wordCount": 3536,
-          "title": "USDをワークフローに取り込んでみてわかったこと",
-          "imageUrl": "https://assets.st-note.com/production/uploads/images/279592139/rectangle_large_type_2_4ee71405a8a60d38086aea1c028c086e.png?width=800"
         }
       ]
     },
@@ -3959,16 +3874,6 @@
           "wordCount": 3124,
           "title": "【ゲーム制作知識】ギミックについて ①",
           "imageUrl": "https://3d.crdg.jp/env/wp-content/uploads/2026/05/eh_hashii_title_gimmick_01.png"
-        },
-        {
-          "id": "https://3d.crdg.jp/env/?p=9470",
-          "author": "Makito.Noguchi",
-          "description": "今記事の目的： ・Houdiniの作業画面をカスタマイズする方法をいくつか紹介したいと思います。 Geometry Spreadsheetを表示させる […]\n続きを読む\n投稿 【Houdini】レイアウトをカスタマイズする は エンホリ - ENVIRONMENT HOLIC｜C&R Creative Studios に最初に表示されました。",
-          "link": "https://3d.crdg.jp/env/2026/05/27/9470/?utm_source=rss&utm_medium=rss&utm_campaign=%25e3%2580%2590houdini%25e3%2580%2591%25e3%2583%25ac%25e3%2582%25a4%25e3%2582%25a2%25e3%2582%25a6%25e3%2583%2588%25e3%2582%2592%25e3%2582%25ab%25e3%2582%25b9%25e3%2582%25bf%25e3%2583%259e%25e3%2582%25a4%25e3%2582%25ba%25e3%2581%2599%25e3%2582%258b",
-          "publishedOn": "2026-05-27T10:00:00.000Z",
-          "wordCount": 3247,
-          "title": "【Houdini】レイアウトをカスタマイズする",
-          "imageUrl": "https://3d.crdg.jp/env/wp-content/uploads/2026/05/アイキャッチ画像_Houdini_260506.png"
         }
       ]
     },

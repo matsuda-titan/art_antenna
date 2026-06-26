@@ -869,21 +869,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "https://3dnchu.com/wp-content/uploads/PULSE-Powered-by-AMD.jpg"
-        },
-        {
-          "id": "https://3dnchu.com/?p=1065365",
-          "author": "Ymt3D -3dnchu-",
-          "description": "Rig＆Tool専門会社STUDIO JOINによる、Maya向けBlendShapeミラーリングツール「Join Mirror Mesh v1.0」が無料配布されています！",
-          "link": "https://3dnchu.com/archives/join-mirror-mesh-v1-0/",
-          "publishedOn": "2026-05-27T16:02:15.000Z",
-          "wordCount": 8939,
-          "title": "Join Mirror Mesh v1.0 | Rig＆Tool専門会社Studio Joinによるブレンドシェイプのミラーリング作業を効率化するMaya向けツール！無料配布！",
-          "enclosure": {
-            "url": "https://3dnchu.com/wp-content/uploads/Mirror-Mesh.jpg",
-            "length": "102775",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://3dnchu.com/wp-content/uploads/Mirror-Mesh.jpg"
         }
       ]
     },
@@ -892,6 +877,36 @@
       "feedUrl": "https://cgworld.jp/atom.xml",
       "siteUrl": "https://cgworld.jp/",
       "articles": [
+        {
+          "id": "https://cgworld.jp/special-feature/202606-sycom-hololab-04.html",
+          "author": null,
+          "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
+          "link": "https://cgworld.jp/special-feature/202606-sycom-hololab-04.html",
+          "publishedOn": "2026-06-26T05:13:20.000Z",
+          "wordCount": 623,
+          "title": "【サイコム】ホロラボが数値的にも立証。独自の水冷システムがリアリティキャプチャの効率化にも貢献する｜Boost with Sycom #04 - スペシャルコンテンツ",
+          "imageUrl": "https://cgworld.jp/special-feature/assets_c/2026/06/top_sycom_boost_04-thumb-1920x1080-85736.jpg"
+        },
+        {
+          "id": "https://cgworld.jp/flashnews/03-2606-tyflow.zenith.html",
+          "author": null,
+          "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
+          "link": "https://cgworld.jp/flashnews/03-2606-tyflow.zenith.html",
+          "publishedOn": "2026-06-26T04:00:00.000Z",
+          "wordCount": 718,
+          "title": "AREA JAPANの3ds MaxコラムにてGPUベースの超高速流体エンジン「TyFlow ZENITH」を解説 - ニュース",
+          "imageUrl": "https://cgworld.jp/flashnews/assets_c/2026/06/3ds_max_plugin_v13_01-thumb-1000x563-85565.jpg"
+        },
+        {
+          "id": "https://cgworld.jp/special-feature/2606-AMD-pulse-report.html",
+          "author": null,
+          "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
+          "link": "https://cgworld.jp/special-feature/2606-AMD-pulse-report.html",
+          "publishedOn": "2026-06-26T02:25:00.000Z",
+          "wordCount": 796,
+          "title": "異ジャンルクリエイターたちが制作の心得を語り尽くす～PULSE Powered by AMD レポート～ - スペシャルコンテンツ",
+          "imageUrl": "https://cgworld.jp/special-feature/assets_c/2026/06/bfd00adb47b5b473df1b8237f23f434806c46c25-thumb-1000x563-85305.jpg"
+        },
         {
           "id": "https://cgworld.jp/flashnews/01-202606-SuperFit.html",
           "author": null,
@@ -3143,7 +3158,23 @@
       "title": "Zennの「usd」のフィード",
       "feedUrl": "https://zenn.dev/topics/usd/feed",
       "siteUrl": "https://zenn.dev/topics/usd",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://zenn.dev/adawarp/articles/isaac-sim-basics",
+          "author": "Hiroto",
+          "description": "シリーズ: Isaac Sim / Isaac Lab チュートリアル\n用語や前提知識は Isaac Sim / Isaac Lab を始める前に を参照してください。\n\n\n この記事の目的\nIsaac Sim を起動した直後、初見では「何ができて、何を触ればよいか」が掴みにくいです。本記事では、最低限ここだけ押さえれば自分のロボットをシム上に置けるという範囲に絞って、\n\n\nUI のどこを見るか(ビューポート、Stage、プロパティ、コンテンツブラウザ)\n\nUSD のシーン構造(Stage、Prim、参照)\n\nアセットの取得と再利用(同梱サンプル、Nucleus)\nロボットを 1 体...",
+          "link": "https://zenn.dev/adawarp/articles/isaac-sim-basics",
+          "publishedOn": "2026-06-26T04:05:55.000Z",
+          "wordCount": 1116,
+          "title": "Isaac Sim の基礎 — UI・USD・ロボットの配置",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--1NCNtqCk--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Isaac%2520Sim%2520%25E3%2581%25AE%25E5%259F%25BA%25E7%25A4%258E%2520%25E2%2580%2594%2520UI%25E3%2583%25BBUSD%25E3%2583%25BB%25E3%2583%25AD%25E3%2583%259C%25E3%2583%2583%25E3%2583%2588%25E3%2581%25AE%25E9%2585%258D%25E7%25BD%25AE%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:Hiroto%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2FhZTAzNmQzNzEuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/g_south_west%2Ch_34%2Cl_default:og-publication-pro-mark-xcosax%2Cw_34%2Cx_217%2Cy_158/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:ADAWARP%2520TECH%2520BLOG%2Cx_255%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jSXdjZ1hiejZwWEo3cnlrdDcyRURVcWJ6N24wVDgtc3ZWUFNhdnpyeW5ycTIwbkNINmM9czI1MC1j%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+            "length": "0",
+            "type": "false"
+          },
+          "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--1NCNtqCk--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Isaac%2520Sim%2520%25E3%2581%25AE%25E5%259F%25BA%25E7%25A4%258E%2520%25E2%2580%2594%2520UI%25E3%2583%25BBUSD%25E3%2583%25BB%25E3%2583%25AD%25E3%2583%259C%25E3%2583%2583%25E3%2583%2588%25E3%2581%25AE%25E9%2585%258D%25E7%25BD%25AE%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:Hiroto%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2FhZTAzNmQzNzEuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/g_south_west%2Ch_34%2Cl_default:og-publication-pro-mark-xcosax%2Cw_34%2Cx_217%2Cy_158/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:ADAWARP%2520TECH%2520BLOG%2Cx_255%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jSXdjZ1hiejZwWEo3cnlrdDcyRURVcWJ6N24wVDgtc3ZWUFNhdnpyeW5ycTIwbkNINmM9czI1MC1j%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+        }
+      ]
     },
     {
       "title": "mayaタグが付けられた新着記事 - Qiita",
@@ -3883,6 +3914,36 @@
       "siteUrl": "https://cginterest.com",
       "articles": [
         {
+          "id": "https://cginterest.com/?p=60243",
+          "author": ".me",
+          "description": "2026年6月24日 （現地時間）- フォトグラメトリソフトウェア「RealityScan」の最新バージョンである 2.2 の提供が開始されました。 今回のアップデートでは、コミュニティから特に要望の多かった機能の一つで […]",
+          "link": "https://cginterest.com/2026/06/26/realityscan-2-2-%e3%81%8c%e3%83%aa%e3%83%aa%e3%83%bc%e3%82%b9%ef%bc%81amd-gpu%e5%af%be%e5%bf%9c%e3%81%a7%e3%83%8f%e3%83%bc%e3%83%89%e3%82%a6%e3%82%a7%e3%82%a2%e3%81%ae%e9%81%b8%e6%8a%9e%e8%82%a2/",
+          "publishedOn": "2026-06-26T02:15:16.000Z",
+          "wordCount": 30336,
+          "title": "RealityScan 2.2 がリリース！AMD GPU対応でハードウェアの選択肢が拡大",
+          "enclosure": {
+            "url": "https://cginterest.com/wp-content/uploads/2026/06/Rs-360-Gif-29May-3-Not-Looped.Gif-1.mp4",
+            "length": "239486",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://cginterest.com/wp-content/uploads/2026/06/RealityScan2_2.webp"
+        },
+        {
+          "id": "https://cginterest.com/?p=60204",
+          "author": ".me",
+          "description": "Unity より、最新のUnity Engine「Unity 6.5」のリリースが発表されました。 今回のUnity 6.5は、既存の6.3 LTSを基盤としつつ、将来予定されている6.7 LTSに向けた重要なステップと […]",
+          "link": "https://cginterest.com/2026/06/26/unity-6-5-%e3%81%8c%e3%83%aa%e3%83%aa%e3%83%bc%e3%82%b9%ef%bc%812d%e3%83%a9%e3%82%a4%e3%83%86%e3%82%a3%e3%83%b3%e3%82%b0%e3%82%84%e3%82%ab%e3%82%b9%e3%82%bf%e3%83%a02d%e3%82%b7%e3%83%a3%e3%83%89/",
+          "publishedOn": "2026-06-25T22:22:00.000Z",
+          "wordCount": 30537,
+          "title": "Unity 6.5 がリリース！2Dライティングやカスタム2Dシャドウなどの2D機能の強化、グラフィックスやシェーダーの改善など主な新機能を紹介！",
+          "enclosure": {
+            "url": "https://cginterest.com/wp-content/uploads/2026/06/Unity65-2Dlight1.mp4",
+            "length": "377018",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://cginterest.com/wp-content/uploads/2026/06/Unity65.webp"
+        },
+        {
           "id": "https://cginterest.com/?p=60181",
           "author": ".me",
           "description": "2026年6月22日（現地時間）- Substance 3D Painterのメジャーアップデートであるバージョン 12.1 が正式にリリースされました。 主要な新機能 今回のアップデートでは、自動リベイクやスキュー（歪 […]",
@@ -4606,26 +4667,6 @@
           "wordCount": 33341,
           "title": "Corona 15 がリリース！AI機能の統合、質感のきらめき表現、3Dスプラットの自然なブレンドなど",
           "imageUrl": "https://cginterest.com/wp-content/uploads/2026/05/corona15.webp"
-        },
-        {
-          "id": "https://cginterest.com/?p=59261",
-          "author": ".me",
-          "description": "Polygonflow は、UE用ワールド構築プラグイン Dash の最新アップデートバージョン 1.11をリリースしました。 主な新機能 Dash 1.11では、描画可能なプリセット（Drawable Presets） […]\nUE環境構築ツール Dash 1.11 がリリース！ビューポートで描画可能なプリセットやコンテンツブラウザの改善など first appeared on CGinterest.",
-          "link": "https://cginterest.com/2026/05/27/ue%e7%92%b0%e5%a2%83%e6%a7%8b%e7%af%89%e3%83%84%e3%83%bc%e3%83%ab-dash-1-11-%e3%81%8c%e3%83%aa%e3%83%aa%e3%83%bc%e3%82%b9%ef%bc%81%e3%83%93%e3%83%a5%e3%83%bc%e3%83%9d%e3%83%bc%e3%83%88%e3%81%a7/",
-          "publishedOn": "2026-05-27T08:47:45.000Z",
-          "wordCount": 30432,
-          "title": "UE環境構築ツール Dash 1.11 がリリース！ビューポートで描画可能なプリセットやコンテンツブラウザの改善など",
-          "imageUrl": "https://cginterest.com/wp-content/uploads/2026/05/Dash1_11.webp"
-        },
-        {
-          "id": "https://cginterest.com/?p=59237",
-          "author": ".me",
-          "description": "2026年5月26日（現地時間）NVIDIAより、クリエイター向けの最新グラフィックスドライバー「5月版 NVIDIA Studio Driver」がリリースされました。 今月の NVIDIA Studio Driver […]\n2026年5月の NVIDIA Studio Driver アップデートがリリース！ first appeared on CGinterest.",
-          "link": "https://cginterest.com/2026/05/27/2026%e5%b9%b45%e6%9c%88%e3%81%ae-nvidia-studio-driver-%e3%82%a2%e3%83%83%e3%83%97%e3%83%87%e3%83%bc%e3%83%88%e3%81%8c%e3%83%aa%e3%83%aa%e3%83%bc%e3%82%b9%ef%bc%81/",
-          "publishedOn": "2026-05-27T08:04:38.000Z",
-          "wordCount": 30332,
-          "title": "2026年5月の NVIDIA Studio Driver アップデートがリリース！",
-          "imageUrl": "https://cginterest.com/wp-content/uploads/2026/05/nvidiastudiodriver2026-5.webp"
         }
       ]
     }

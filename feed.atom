@@ -2,10 +2,73 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-06-26T02:13:38.297Z</updated>
+    <updated>2026-06-26T06:42:19.627Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【サイコム】ホロラボが数値的にも立証。独自の水冷システムがリアリティキャプチャの効率化にも貢献する｜Boost with Sycom #04 - スペシャルコンテンツ]]></title>
+        <id>https://cgworld.jp/special-feature/202606-sycom-hololab-04.html</id>
+        <link href="https://cgworld.jp/special-feature/202606-sycom-hololab-04.html"/>
+        <updated>2026-06-26T05:13:20.000Z</updated>
+        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Isaac Sim の基礎 — UI・USD・ロボットの配置]]></title>
+        <id>https://zenn.dev/adawarp/articles/isaac-sim-basics</id>
+        <link href="https://zenn.dev/adawarp/articles/isaac-sim-basics"/>
+        <updated>2026-06-26T04:05:55.000Z</updated>
+        <summary type="html"><![CDATA[シリーズ: Isaac Sim / Isaac Lab チュートリアル
+用語や前提知識は Isaac Sim / Isaac Lab を始める前に を参照してください。
+
+
+ この記事の目的
+Isaac Sim を起動した直後、初見では「何ができて、何を触ればよいか」が掴みにくいです。本記事では、最低限ここだけ押さえれば自分のロボットをシム上に置けるという範囲に絞って、
+
+
+UI のどこを見るか(ビューポート、Stage、プロパティ、コンテンツブラウザ)
+
+USD のシーン構造(Stage、Prim、参照)
+
+アセットの取得と再利用(同梱サンプル、Nucleus)
+ロボットを 1 体...]]></summary>
+        <author>
+            <name>Hiroto</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AREA JAPANの3ds MaxコラムにてGPUベースの超高速流体エンジン「TyFlow ZENITH」を解説 - ニュース]]></title>
+        <id>https://cgworld.jp/flashnews/03-2606-tyflow.zenith.html</id>
+        <link href="https://cgworld.jp/flashnews/03-2606-tyflow.zenith.html"/>
+        <updated>2026-06-26T04:00:00.000Z</updated>
+        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[異ジャンルクリエイターたちが制作の心得を語り尽くす～PULSE Powered by AMD レポート～ - スペシャルコンテンツ]]></title>
+        <id>https://cgworld.jp/special-feature/2606-AMD-pulse-report.html</id>
+        <link href="https://cgworld.jp/special-feature/2606-AMD-pulse-report.html"/>
+        <updated>2026-06-26T02:25:00.000Z</updated>
+        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RealityScan 2.2 がリリース！AMD GPU対応でハードウェアの選択肢が拡大]]></title>
+        <id>https://cginterest.com/?p=60243</id>
+        <link href="https://cginterest.com/2026/06/26/realityscan-2-2-%e3%81%8c%e3%83%aa%e3%83%aa%e3%83%bc%e3%82%b9%ef%bc%81amd-gpu%e5%af%be%e5%bf%9c%e3%81%a7%e3%83%8f%e3%83%bc%e3%83%89%e3%82%a6%e3%82%a7%e3%82%a2%e3%81%ae%e9%81%b8%e6%8a%9e%e8%82%a2/"/>
+        <updated>2026-06-26T02:15:16.000Z</updated>
+        <summary type="html"><![CDATA[2026年6月24日 （現地時間）- フォトグラメトリソフトウェア「RealityScan」の最新バージョンである 2.2 の提供が開始されました。 今回のアップデートでは、コミュニティから特に要望の多かった機能の一つで […]]]></summary>
+        <author>
+            <name>.me</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[リアルタイム 3D コンテンツ制作ツール Unity 6.5 リリース]]></title>
         <id>https://3dtotal.jp/?p=55929</id>
@@ -48,6 +111,16 @@ The post 「Adobe」がAI高画質化ツール「Topaz Labs」を買収！Firefl
 The post 「HAELE 3D – Portrait Studio Lite」- イラスト・3DCG制作向けの顔リファレンスツールが正式リリース first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
         <author>
             <name>modelinghappy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unity 6.5 がリリース！2Dライティングやカスタム2Dシャドウなどの2D機能の強化、グラフィックスやシェーダーの改善など主な新機能を紹介！]]></title>
+        <id>https://cginterest.com/?p=60204</id>
+        <link href="https://cginterest.com/2026/06/26/unity-6-5-%e3%81%8c%e3%83%aa%e3%83%aa%e3%83%bc%e3%82%b9%ef%bc%812d%e3%83%a9%e3%82%a4%e3%83%86%e3%82%a3%e3%83%b3%e3%82%b0%e3%82%84%e3%82%ab%e3%82%b9%e3%82%bf%e3%83%a02d%e3%82%b7%e3%83%a3%e3%83%89/"/>
+        <updated>2026-06-25T22:22:00.000Z</updated>
+        <summary type="html"><![CDATA[Unity より、最新のUnity Engine「Unity 6.5」のリリースが発表されました。 今回のUnity 6.5は、既存の6.3 LTSを基盤としつつ、将来予定されている6.7 LTSに向けた重要なステップと […]]]></summary>
+        <author>
+            <name>.me</name>
         </author>
     </entry>
     <entry>
@@ -4685,38 +4758,6 @@ The post 細部までこだわった CG の羽＆毛。Rodeo FX のファー＆�
         <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
         <author>
             <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Join Mirror Mesh v1.0 | Rig＆Tool専門会社Studio Joinによるブレンドシェイプのミラーリング作業を効率化するMaya向けツール！無料配布！]]></title>
-        <id>https://3dnchu.com/?p=1065365</id>
-        <link href="https://3dnchu.com/archives/join-mirror-mesh-v1-0/"/>
-        <updated>2026-05-27T16:02:15.000Z</updated>
-        <summary type="html"><![CDATA[Rig＆Tool専門会社STUDIO JOINによる、Maya向けBlendShapeミラーリングツール「Join Mirror Mesh v1.0」が無料配布されています！]]></summary>
-        <author>
-            <name>Ymt3D -3dnchu-</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[UE環境構築ツール Dash 1.11 がリリース！ビューポートで描画可能なプリセットやコンテンツブラウザの改善など]]></title>
-        <id>https://cginterest.com/?p=59261</id>
-        <link href="https://cginterest.com/2026/05/27/ue%e7%92%b0%e5%a2%83%e6%a7%8b%e7%af%89%e3%83%84%e3%83%bc%e3%83%ab-dash-1-11-%e3%81%8c%e3%83%aa%e3%83%aa%e3%83%bc%e3%82%b9%ef%bc%81%e3%83%93%e3%83%a5%e3%83%bc%e3%83%9d%e3%83%bc%e3%83%88%e3%81%a7/"/>
-        <updated>2026-05-27T08:47:45.000Z</updated>
-        <summary type="html"><![CDATA[Polygonflow は、UE用ワールド構築プラグイン Dash の最新アップデートバージョン 1.11をリリースしました。 主な新機能 Dash 1.11では、描画可能なプリセット（Drawable Presets） […]
-UE環境構築ツール Dash 1.11 がリリース！ビューポートで描画可能なプリセットやコンテンツブラウザの改善など first appeared on CGinterest.]]></summary>
-        <author>
-            <name>.me</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2026年5月の NVIDIA Studio Driver アップデートがリリース！]]></title>
-        <id>https://cginterest.com/?p=59237</id>
-        <link href="https://cginterest.com/2026/05/27/2026%e5%b9%b45%e6%9c%88%e3%81%ae-nvidia-studio-driver-%e3%82%a2%e3%83%83%e3%83%97%e3%83%87%e3%83%bc%e3%83%88%e3%81%8c%e3%83%aa%e3%83%aa%e3%83%bc%e3%82%b9%ef%bc%81/"/>
-        <updated>2026-05-27T08:04:38.000Z</updated>
-        <summary type="html"><![CDATA[2026年5月26日（現地時間）NVIDIAより、クリエイター向けの最新グラフィックスドライバー「5月版 NVIDIA Studio Driver」がリリースされました。 今月の NVIDIA Studio Driver […]
-2026年5月の NVIDIA Studio Driver アップデートがリリース！ first appeared on CGinterest.]]></summary>
-        <author>
-            <name>.me</name>
         </author>
     </entry>
 </feed>

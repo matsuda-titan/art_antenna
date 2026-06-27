@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-06-27T02:09:08.674Z</updated>
+    <updated>2026-06-27T06:20:37.894Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[「Dynamic Grabber 1.1」- オブジェクトを掴んで落とすだけで自然に配置できるBlenderアドオン]]></title>
+        <id>https://modelinghappy.com/?p=69231</id>
+        <link href="https://modelinghappy.com/archives/69231"/>
+        <updated>2026-06-27T02:26:58.000Z</updated>
+        <summary type="html"><![CDATA[Dynamic Grabber 1.1 Dynamic Grabberは、Blenderのビューポート上でオブジェクトを直接つかみ、リアルタイム物理演算を利用しながら自然に配置できるアドオンです。 1つずつ手動で位置調整
+The post 「Dynamic Grabber 1.1」- オブジェクトを掴んで落とすだけで自然に配置できるBlenderアドオン first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
+        <author>
+            <name>modelinghappy</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[「Substance 3D Painter 12.1」- 自動再ベイク、スキュー補正ペイント、OpenPBR対応、ハードサーフェス向け自動UV展開を追加]]></title>
         <id>https://modelinghappy.com/?p=69216</id>
@@ -4671,28 +4682,6 @@ SE(3)とは何か
  カメラ姿勢（P...]]></summary>
         <author>
             <name>s_hashida</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SDFとRampテクスチャでかわいい顔影を作りたい]]></title>
-        <id>https://qiita.com/FujiiShintaro/items/288c24af383745b65321</id>
-        <link href="https://qiita.com/FujiiShintaro/items/288c24af383745b65321"/>
-        <updated>2026-05-28T17:16:01.000Z</updated>
-        <summary type="html"><![CDATA[トゥーンキャラの顔影を SDF で切り替える — DirectX 11 シェーダー解説
-DirectX 11 上で実装したアニメ調キャラ用トゥーンシェーダーのうち、顔の影を SDF (Signed Distance Field, ここでは符号付き距離場をマスク的に使ったも...]]></summary>
-        <author>
-            <name>Shaderタグが付けられた新着記事 - Qiita</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SDFとRampテクスチャでかわいい顔影を作りたい]]></title>
-        <id>https://qiita.com/FujiiShintaro/items/288c24af383745b65321</id>
-        <link href="https://qiita.com/FujiiShintaro/items/288c24af383745b65321"/>
-        <updated>2026-05-28T17:16:01.000Z</updated>
-        <summary type="html"><![CDATA[トゥーンキャラの顔影を SDF で切り替える — DirectX 11 シェーダー解説
-DirectX 11 上で実装したアニメ調キャラ用トゥーンシェーダーのうち、顔の影を SDF (Signed Distance Field, ここでは符号付き距離場をマスク的に使ったも...]]></summary>
-        <author>
-            <name>HLSLタグが付けられた新着記事 - Qiita</name>
         </author>
     </entry>
 </feed>

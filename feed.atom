@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-06-27T06:20:37.894Z</updated>
+    <updated>2026-06-27T09:55:54.505Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
@@ -4623,65 +4623,6 @@ Runway、外部AIエージェント内で画像・動画生成を完結できる
 The post Mirror Tool – 面・辺・頂点を基準にモデルをミラー反転し、法線反転・ブリッジ・ベベル処理も同時に行えるBlenderアドオン first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
         <author>
             <name>modelinghappy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[フォトグラメトリ数学｜24：SE(3)とは何か]]></title>
-        <id>https://zenn.dev/s_hashida/articles/d9e1013cfbe131</id>
-        <link href="https://zenn.dev/s_hashida/articles/d9e1013cfbe131"/>
-        <updated>2026-05-28T21:46:05.000Z</updated>
-        <summary type="html"><![CDATA[はじめに
-前回は、
-
-Lie群
-Lie代数
-SO(3)
-exp/log
-
-について説明しました。
-
-その中で重要だったのが、
-
-回転はSO(3)上で扱う
-微小更新はso(3)で行う
-
-という考え方です。
-
-しかし実際のSfMやSLAMでは、
-回転だけではなく、
-
-位置
-並進
-
-も同時に扱います。
-
-つまり本当に必要なのは、
-
-「回転だけの空間」
-
-ではなく、
-
-「回転＋並進」をまとめた空間
-
-です。
-
-そこで登場するのが、
-
-SE(3)
-
-です。
-
-今回は、
-
-SE(3)とは何か
-なぜSLAMで重要なのか
-なぜPose更新で使われるのか
-
-を直感的に整理します。
-
- カメラ姿勢（P...]]></summary>
-        <author>
-            <name>s_hashida</name>
         </author>
     </entry>
 </feed>

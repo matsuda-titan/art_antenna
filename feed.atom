@@ -2,10 +2,93 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-06-28T13:14:41.254Z</updated>
+    <updated>2026-06-29T02:30:56.279Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[「デザイナー全員フルリモート」の理想郷を実現　GEMBAが5年超「Parsec」を指名し続ける理由 - スペシャルコンテンツ]]></title>
+        <id>https://cgworld.jp/special-feature/2606-gemba-parsec.html</id>
+        <link href="https://cgworld.jp/special-feature/2606-gemba-parsec.html"/>
+        <updated>2026-06-29T01:40:00.000Z</updated>
+        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Figma、アニメーション機能「Figma Motion」オープンベータリリース　キャンバス内にタイムライン統合、キーフレーム制御、AIエージェントなど - ニュース]]></title>
+        <id>https://cgworld.jp/flashnews/01-202606-FigmaMotion.html</id>
+        <link href="https://cgworld.jp/flashnews/01-202606-FigmaMotion.html"/>
+        <updated>2026-06-28T23:33:24.000Z</updated>
+        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[フォトグラメトリ数学｜37：RPCはどのように作られるのか ～Rigorous ModelとRFM近似～]]></title>
+        <id>https://zenn.dev/s_hashida/articles/03dd4e1d8ebaba</id>
+        <link href="https://zenn.dev/s_hashida/articles/03dd4e1d8ebaba"/>
+        <updated>2026-06-28T21:48:05.000Z</updated>
+        <summary type="html"><![CDATA[はじめに
+前回は、
+
+RFM
+有理多項式
+正規化
+RPCの内部構造
+
+について説明しました。
+
+その中で重要だったのが、
+
+RPCはRFMの係数集合である
+複雑な衛星モデルを近似している
+利用者は衛星内部モデルを意識しなくてよい
+
+という点です。
+
+しかしここで疑問が出てきます。
+
+RPCの係数は誰が作っているのか？
+なぜ衛星ごとに異なるRPCが存在するのか？
+RFMの係数はどのように求められるのか？
+
+
+実はRPCは、最初から存在するわけではありません。
+
+その背後には、
+Rigorous Model（厳密センサモデル）
+と呼ばれる、より詳細なモデルがあります。
+そして、
+Rig...]]></summary>
+        <author>
+            <name>s_hashida</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【C++・GLSL】Shader Playground 1.0.0 リリース]]></title>
+        <id>https://qiita.com/techsuwako/items/34045f5ecc9c14c54298</id>
+        <link href="https://qiita.com/techsuwako/items/34045f5ecc9c14c54298"/>
+        <updated>2026-06-28T20:39:29.000Z</updated>
+        <summary type="html"><![CDATA[元： https://technicalsuwako.moe/blog/cpp-glsl-shader-playground
+HTMLとCSSのコードを実際にウェブサイトに組み込む前にテスト出来るウェブサイトは沢山あります。
+然し、GLSLシェーダーをテスト出来る場所が不足...]]></summary>
+        <author>
+            <name>GLSLタグが付けられた新着記事 - Qiita</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Morpho UV Printer | 高精細さを売りとしたデスクトップUVプリンター！Kickstarterに登場予定！]]></title>
+        <id>https://3dnchu.com/?p=1065637</id>
+        <link href="https://3dnchu.com/archives/morpho-uv-printer/"/>
+        <updated>2026-06-28T16:00:19.000Z</updated>
+        <summary type="html"><![CDATA[UVプリンター「Morpho UV Printer」がKickstarterに登場予定！プリントヘッドが 「I3200」と「F1080」の2タイプがラインナップされています。]]></summary>
+        <author>
+            <name>Ymt3D -3dnchu-</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【PBR講座 第3回】BRDF（Cook‑Torrance）を理解する]]></title>
         <id>https://qiita.com/tsukino_/items/a54bb055bd79709d185a</id>
@@ -4499,39 +4582,6 @@ The post Surface Blend – 地面とモデルの境界線を自然になじま�
         <summary type="html"><![CDATA[バックルーム系統作品ではお馴染みComplex Researchによる新作動画「Backrooms - Found Footage #5」が公開されています！]]></summary>
         <author>
             <name>Ymt3D -3dnchu-</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[なぜ、日本人はCGIのことをCGと呼び、CGIと聞くと昔Perlなどを用いて実現したサーバサイドWebアプリケーションを想像するのか？]]></title>
-        <id>https://qiita.com/pdfractal/items/468d7c86d3135afdf6d8</id>
-        <link href="https://qiita.com/pdfractal/items/468d7c86d3135afdf6d8"/>
-        <updated>2026-05-30T12:47:26.000Z</updated>
-        <summary type="html"><![CDATA[はじめに
-日本語で映画やゲームの映像について語るとき、多くの人は「CGがすごい」と言います。英語圏であれば同じ場面でCGIと言われることが多いにもかかわらず、日本語ではCGIとはあまり言いません。
-一方で、日本語でCGIと聞くと、映画の視覚効果ではなく、古いレンタルサーバ...]]></summary>
-        <author>
-            <name>CGタグが付けられた新着記事 - Qiita</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Marmoset Toolbagが20%オフセール開催！買い切り版319ドルで購入可能]]></title>
-        <id>https://modelinghappy.com/?p=68828</id>
-        <link href="https://modelinghappy.com/archives/68828"/>
-        <updated>2026-05-30T03:17:48.000Z</updated>
-        <summary type="html"><![CDATA[Marmoset Toolbag Marmoset Toolbagが2026年5月26日から6月1日まで20%オフで販売されています。 個人向けライセンスは、サブスクリプションの月額18.99ドルが15.19ドルと安くな
-The post Marmoset Toolbagが20%オフセール開催！買い切り版319ドルで購入可能 first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
-        <author>
-            <name>modelinghappy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PIXARの現役撮影監督も登壇！世界トップクラスのシネマトグラファー&ライティングアーティストから学ぶ2日間。オンラインスキルアップイベント『Premier Insights Vol.4』 - 特集]]></title>
-        <id>https://cgworld.jp/article/premier-insights-vol4.html</id>
-        <link href="https://cgworld.jp/article/premier-insights-vol4.html"/>
-        <updated>2026-05-30T01:15:34.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
         </author>
     </entry>
 </feed>

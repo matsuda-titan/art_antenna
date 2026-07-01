@@ -2,10 +2,78 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-06-30T13:53:56.151Z</updated>
+    <updated>2026-07-01T02:31:53.276Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【期間限定無料】2026年7月14日までの FAB 無料コンテンツをチェック！]]></title>
+        <id>https://cginterest.com/?p=60395</id>
+        <link href="https://cginterest.com/2026/07/01/%e3%80%90%e6%9c%9f%e9%96%93%e9%99%90%e5%ae%9a%e7%84%a1%e6%96%99%e3%80%912026%e5%b9%b47%e6%9c%8814%e6%97%a5%e3%81%be%e3%81%a7%e3%81%ae-fab-%e7%84%a1%e6%96%99%e3%82%b3%e3%83%b3%e3%83%86%e3%83%b3/"/>
+        <updated>2026-07-01T01:48:00.000Z</updated>
+        <summary type="html"><![CDATA[期間限定で無料となっているEpicのマーケットプレイスFABの無料コンテンツの紹介です。 Epic Games の統合マーケットプレイスFABでは、クリエイターとのパートナーシップによって、2週間ごとに選ばれたコンテンツ […]]]></summary>
+        <author>
+            <name>.me</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【スタジオカラー✕BASSDRUM】『エヴァンゲリオン』初の大型フェス「EVANGELION:30+；」横浜アリーナでの大規模イベントを成功に導いたテクニカルディレクションとは - 特集]]></title>
+        <id>https://cgworld.jp/article/202607-cgw333hs-eva30th.html</id>
+        <link href="https://cgworld.jp/article/202607-cgw333hs-eva30th.html"/>
+        <updated>2026-07-01T01:16:00.000Z</updated>
+        <summary type="html"><![CDATA[「EVANGELION:30+；30th ANNIVERSARY OF EVANGELION」た空間演出の具体的なアプローチを解説する。の]]></summary>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【Houdini 22 Keynoteまとめ】ネイティブG-Splats、AI統合、KineFXやCopernicusの強化など新機能情報をチェック！]]></title>
+        <id>https://cginterest.com/?p=60381</id>
+        <link href="https://cginterest.com/2026/07/01/%e3%80%90houdini-22-keynote%e3%81%be%e3%81%a8%e3%82%81%e3%80%91%e3%83%8d%e3%82%a4%e3%83%86%e3%82%a3%e3%83%96g-splats%e3%80%81ai%e7%b5%b1%e5%90%88%e3%80%81kinefx%e3%82%84copernicus%e3%81%ae%e5%bc%b7/"/>
+        <updated>2026-07-01T00:27:54.000Z</updated>
+        <summary type="html"><![CDATA[本記事は、ローンチイベントでのプレゼンテーション内容に基づき、Houdini 22の主要な新機能と変更点を詳細に解説します。上部の動画と連携しており、スライダーから各セクションへ、本文中のリンクから解説部分へジャンプでき […]]]></summary>
+        <author>
+            <name>.me</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SideFX、『フォールアウト シーズン2』におけるHoudiniのVFXメイキング動画公開　 FMX HIVE 2026でのRISEの講演 - ニュース]]></title>
+        <id>https://cgworld.jp/flashnews/01-202607-Houdini-Fallout.html</id>
+        <link href="https://cgworld.jp/flashnews/01-202607-Houdini-Fallout.html"/>
+        <updated>2026-06-30T23:37:14.000Z</updated>
+        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mental Ray の床を10倍したいのに行列は0.1 ── instance transform は world-to-object]]></title>
+        <id>https://zenn.dev/yokamak/articles/a04d4caadbebf0</id>
+        <link href="https://zenn.dev/yokamak/articles/a04d4caadbebf0"/>
+        <updated>2026-06-30T12:43:41.000Z</updated>
+        <summary type="html"><![CDATA[TL;DR
+
+mental ray standalone の .mi で「平面を10倍に拡大」したくて scale 行列に 10 を書くと逆になる。正しくは 0.1。
+理由は、mental ray の instance transform が 「親(world)→ オブジェクト(local)」方向の変換だから。一般的なツールの「オブジェクトを世界のどこに置くか(object→world)」とは向きが逆。
+これは公式マニュアルに明記されている。生成AI(複数試した)はこの逆転を踏まず 10 を出してきた。手元でレンダリングして確かめるのが結局いちばん速かった、という話。
+
+
+
+
+ やり...]]></summary>
+        <author>
+            <name>yokamak</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[vol.004：「四足歩行ロボット」と「飛行ドローン」で取り組む、スペースデータの最先端シミュレーション - 連載]]></title>
+        <id>https://cgworld.jp/regular/202606-physicalai-004.html</id>
+        <link href="https://cgworld.jp/regular/202606-physicalai-004.html"/>
+        <updated>2026-06-30T12:26:10.000Z</updated>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[業界の壁を越える"翻訳力"が、ものづくりを変える――劇場アニメ『KILLTUBE』が挑む新しい組織論 - スペシャルコンテンツ]]></title>
         <id>https://cgworld.jp/special-feature/2606-freee-killtube.html</id>
@@ -4700,107 +4768,6 @@ Superhive設立12周年記念！Blender向けアドオン22種の特大バンド
 今回のテーマは「シネマトグラフィー(撮影技術)」で世界で活躍するクリエイターを招いた合計8セッションがオンライン配信されます！]]></summary>
         <author>
             <name>Ymt3D -3dnchu-</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Substance Designer / 炎テクスチャまとめ]]></title>
-        <id>https://note.com/efeozi/n/n8034dde3d9f9</id>
-        <link href="https://note.com/efeozi/n/n8034dde3d9f9"/>
-        <updated>2026-06-01T10:50:16.000Z</updated>
-        <summary type="html"><![CDATA[続きをみる]]></summary>
-        <author>
-            <name>#SubstanceDesignerタグ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Substance Designer / 虹色の放射リング]]></title>
-        <id>https://note.com/efeozi/n/nc2eeecca62b9</id>
-        <link href="https://note.com/efeozi/n/nc2eeecca62b9"/>
-        <updated>2026-06-01T10:46:36.000Z</updated>
-        <summary type="html"><![CDATA[続きをみる]]></summary>
-        <author>
-            <name>#SubstanceDesignerタグ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Maya 2027.1公開―OpenTimelineIO (OTIO)対応やMotionMaker エディタ改善など制作ワークフローを強化 - ニュース]]></title>
-        <id>https://cgworld.jp/flashnews/03-2605-maya202701.html</id>
-        <link href="https://cgworld.jp/flashnews/03-2605-maya202701.html"/>
-        <updated>2026-06-01T09:27:00.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【30名限定】6/22（月）開催！DaVinci Resolve 21で学ぶ映像内製化戦略セミナー - ニュース]]></title>
-        <id>https://cgworld.jp/flashnews/02-2606-digital-21.html</id>
-        <link href="https://cgworld.jp/flashnews/02-2606-digital-21.html"/>
-        <updated>2026-06-01T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[UI BuilderのPreviewが黙って無視するカスタムシェーダ — `style` vs `resolvedStyle`]]></title>
-        <id>https://zenn.dev/hsl/articles/34de55362c1b02</id>
-        <link href="https://zenn.dev/hsl/articles/34de55362c1b02"/>
-        <updated>2026-06-01T06:45:23.000Z</updated>
-        <summary type="html"><![CDATA[環境
-Unity 6000.4 / UI Toolkit / UI Shader Graph
-
-自作の VisualElement に UI Shader Graph をマテリアルとして割り当て、UI Builder のインスペクタからパラメータをいじると、Preview に全然反映されない。
-Play モードでは動く。ランタイムでは問題ないのに、UI Builder だけ死んでいる。一見、シェーダのプロパティが渡っていないだけの話に見えたが、実際の原因は別のところにあった。
-
-
- 症状
-SDFPanel というカスタム VisualElement を作った。UI Toolkit と...]]></summary>
-        <author>
-            <name>Hot Spud Lab</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[毒舌テディベアの人気コメディが再び帰ってくる。『テッド ザ・シリーズ2』の VFXブレイクダウン映像]]></title>
-        <id>https://3dtotal.jp/?p=55650</id>
-        <link href="https://3dtotal.jp/news/55650/"/>
-        <updated>2026-06-01T05:06:36.000Z</updated>
-        <summary type="html"><![CDATA[★Ted Season 2 VFX Breakdown | Framestore（2分43秒） ふんわりと探ってみよう。『テッド ザ・シリーズ2』では、Framestore が セス・マクファーレン と再びタッグを組み、 […]
-The post 毒舌テディベアの人気コメディが再び帰ってくる。『テッド ザ・シリーズ2』の VFXブレイクダウン映像 first appeared on 3dtotal 日本語オフィシャルサイト.]]></summary>
-        <author>
-            <name>3dtotal管理人T</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SFホラードラマ『ストレンジャー・シングス 未知の世界 5』の VFXメイキング映像]]></title>
-        <id>https://3dtotal.jp/?p=55151</id>
-        <link href="https://3dtotal.jp/news/55151/"/>
-        <updated>2026-06-01T04:30:16.000Z</updated>
-        <summary type="html"><![CDATA[★Behind The Magic | Stranger Things Season 5（2分2秒） 『ストレンジャー・シングス 未知の世界 5』より「アップサイドダウン (逆さま)」制作の舞台裏、ILM の魔法に迫りま […]
-The post SFホラードラマ『ストレンジャー・シングス 未知の世界 5』の VFXメイキング映像 first appeared on 3dtotal 日本語オフィシャルサイト.]]></summary>
-        <author>
-            <name>3dtotal管理人T</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【無料アドオン】Blender Pixel Kit – ピクセルアートに簡単変換！]]></title>
-        <id>https://cgbox.jp/?p=65364</id>
-        <link href="https://cgbox.jp/2026/06/01/news-addon-blender-pixel-kit/"/>
-        <updated>2026-06-01T03:40:34.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは！ 今回はアドオンの「Blender Pixel Kit」を紹介します。 こちらのリンクがアドオンの商品ページになります。 Blender Pixel Kit 「Blender Pixel Kit」は、Blen […]]]></summary>
-        <author>
-            <name>kasahara</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Blenderですぐ使用できるブラウザベースのリアルタイムパーティクルシミュレーター「Flux Particle Studio」]]></title>
-        <id>https://cginterest.com/?p=59390</id>
-        <link href="https://cginterest.com/2026/06/01/blender%e3%81%a7%e3%81%99%e3%81%90%e4%bd%bf%e7%94%a8%e3%81%a7%e3%81%8d%e3%82%8b%e3%83%96%e3%83%a9%e3%82%a6%e3%82%b6%e3%83%99%e3%83%bc%e3%82%b9%e3%81%ae%e3%83%aa%e3%82%a2%e3%83%ab%e3%82%bf%e3%82%a4/"/>
-        <updated>2026-06-01T02:02:13.000Z</updated>
-        <summary type="html"><![CDATA[R Animation Studios によりリリースされた「Flux Particle Studio」の紹介です。 Flux Particle Studioとは 「Flux Particle Studio」は、ブラウザ […]
-Blenderですぐ使用できるブラウザベースのリアルタイムパーティクルシミュレーター「Flux Particle Studio」 first appeared on CGinterest.]]></summary>
-        <author>
-            <name>.me</name>
         </author>
     </entry>
 </feed>

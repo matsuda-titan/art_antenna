@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-07-02T06:29:29.482Z</updated>
+    <updated>2026-07-02T10:27:33.177Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[UEFN Blender Bridge – BlenderとUEFNをライブ同期！アセット転送を自動化できる無料オープンソースツール]]></title>
+        <id>https://modelinghappy.com/?p=69307</id>
+        <link href="https://modelinghappy.com/archives/69307"/>
+        <updated>2026-07-02T08:30:31.000Z</updated>
+        <summary type="html"><![CDATA[uefn-blender-bridge uefn-blender-bridgeは、@KiKoZl1さんが作成した、BlenderとUEFN（Unreal Editor for Fortnite）でアセットを同期できる無料
+The post UEFN Blender Bridge – BlenderとUEFNをライブ同期！アセット転送を自動化できる無料オープンソースツール first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
+        <author>
+            <name>modelinghappy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[写真エフェクトプラグイン「Optics 2026.5」がリリース！Affinityなど新規ホスト対応、新たなフィルター群の追加など]]></title>
+        <id>https://cginterest.com/?p=60428</id>
+        <link href="https://cginterest.com/2026/07/02/%e5%86%99%e7%9c%9f%e3%82%a8%e3%83%95%e3%82%a7%e3%82%af%e3%83%88%e3%83%97%e3%83%a9%e3%82%b0%e3%82%a4%e3%83%b3%e3%80%8coptics-2026-5%e3%80%8d%e3%81%8c%e3%83%aa%e3%83%aa%e3%83%bc%e3%82%b9%ef%bc%81affinit/"/>
+        <updated>2026-07-02T06:56:49.000Z</updated>
+        <summary type="html"><![CDATA[2026年6月25日（現地時間）- Boris FXは、写真編集および視覚効果プラグインの最新アップデート「Optics 2026.5」を発表しました。 主な新機能 今回のアップデートでは、対応するホストアプリケーション […]]]></summary>
+        <author>
+            <name>.me</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[7/16（木）オンライン開催！「MotionMaker × 新スキンツール：Maya 制作現場のワークフロー効率化ウェビナー」クリーク･アンド･リバー社のTAチームが検証結果を報告 - ニュース]]></title>
         <id>https://cgworld.jp/flashnews/2607-maya2027-sem.html</id>
@@ -4720,60 +4741,6 @@ Ge...]]></summary>
 画像1枚から3Dガウシアンスプラットを生成できる「TripoSplat」がオープンソースで登場 first appeared on CGinterest.]]></summary>
         <author>
             <name>.me</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[フォトグラメトリ数学｜26：SLAMとは何か]]></title>
-        <id>https://zenn.dev/s_hashida/articles/1921578932d0cb</id>
-        <link href="https://zenn.dev/s_hashida/articles/1921578932d0cb"/>
-        <updated>2026-06-02T22:02:05.000Z</updated>
-        <summary type="html"><![CDATA[はじめに
-前回は、
-
-Visual Odometry（VO）
-相対Pose推定
-ドリフト
-SE(3)
-
-について説明しました。
-
-その中で重要だったのが、
-
-VOは局所的なPose推定である
-相対変換を積み重ねている
-そのため誤差が累積する
-
-という点です。
-
-ではここで疑問が出てきます。
-
-なぜVOだけでは位置がズレ続けるのか？
-なぜ長時間の自己位置推定は難しいのか？
-なぜ「過去に見た場所」が重要なのか？
-
-
-そこで登場するのが、
-
-SLAM（Simultaneous Localization and Mapping）
-
-です。
-
-今回は、
-
-SLAMとは何か
-Loop Clos...]]></summary>
-        <author>
-            <name>s_hashida</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[テンセント、3Dモデル生成AI「Pixal3D」発表　ピクセルアラインドにより入力画像に忠実な3D再現を実現 - ニュース]]></title>
-        <id>https://cgworld.jp/flashnews/01-202606-Pixal3D.html</id>
-        <link href="https://cgworld.jp/flashnews/01-202606-Pixal3D.html"/>
-        <updated>2026-06-02T21:52:23.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
         </author>
     </entry>
 </feed>

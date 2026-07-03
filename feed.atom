@@ -2,10 +2,94 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-07-02T13:27:58.779Z</updated>
+    <updated>2026-07-03T01:54:48.652Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ぐんま次世代映像クリエイターコンペ「Gunma Next Generation Filmmaker Competition 2026」開催決定 - ニュース]]></title>
+        <id>https://cgworld.jp/flashnews/gunma-next-generation-filmmaker-competition-2026.html</id>
+        <link href="https://cgworld.jp/flashnews/gunma-next-generation-filmmaker-competition-2026.html"/>
+        <updated>2026-07-03T08:16:18.000Z</updated>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「ゲーム背景のための植生環境のつくり方」が学べる書籍が発売します]]></title>
+        <id>https://modelinghappy.com/?p=69310</id>
+        <link href="https://modelinghappy.com/archives/69310"/>
+        <updated>2026-07-02T23:29:30.000Z</updated>
+        <summary type="html"><![CDATA[ゲーム背景のための植生環境のつくり方 2026年8月11日に、ゲーム向けのハイクオリティな植生をゼロから制作するための本格的な書籍が発売します。 本書では、オンラインライブラリからアセットをダウンロードして配置すれば、そ
+The post 「ゲーム背景のための植生環境のつくり方」が学べる書籍が発売します first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
+        <author>
+            <name>modelinghappy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[株式会社TA、Maya×UE5用の揺れもの物理ツール「Bonjolt」ベータ公開　髪、スカート、アクセサリーなどのボーン物理をMaya上でセットアップし、UE5へ持ち込めるツール - ニュース]]></title>
+        <id>https://cgworld.jp/flashnews/01-202607-Bonjolt.html</id>
+        <link href="https://cgworld.jp/flashnews/01-202607-Bonjolt.html"/>
+        <updated>2026-07-02T23:10:56.000Z</updated>
+        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[normalMagic 2.0 | ディテールアップフローを大きく変化させるBlender向けモディファイアツールセット！5つの新機能を追加したメジャーアップデートがリリース！]]></title>
+        <id>https://3dnchu.com/?p=1066183</id>
+        <link href="https://3dnchu.com/archives/normalmagic-2-0/"/>
+        <updated>2026-07-02T20:02:19.000Z</updated>
+        <summary type="html"><![CDATA[SpaghetMeNotによるBlender向け法線制御モディファイアツールセットのメジャーアップデート「normalMagic 2.0」がリリースされました！]]></summary>
+        <author>
+            <name>Ymt3D -3dnchu-</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unity HDRPのFogとTransparent Depthで詰まったときのメモ]]></title>
+        <id>https://zenn.dev/toshikun/articles/unity-hdrp-fog-transparent-depth-notes</id>
+        <link href="https://zenn.dev/toshikun/articles/unity-hdrp-fog-transparent-depth-notes"/>
+        <updated>2026-07-02T14:46:42.000Z</updated>
+        <summary type="html"><![CDATA[HDRPでキャラクターを描いていると、Fogを入れた瞬間に「透明の面が透けているように見える」「シルエットだけがFogに出る」「背景があると見え方が変わる」といったことがあります。
+これは単純なアルファの問題ではなく、HDRPのFogがどの段階で、どの深度を見て処理されるかが関係しています。
+この記事は、HDRPのFogとTransparent Depthまわりで詰まったときに見るポイントのメモです。
+
+ ざっくり結論
+
+HDRPのFogは、Opaque向けの深度ベース処理とTransparent材質側の処理を分けて考える。
+Transparent材質が深度を書くと、Fogや後段処理から...]]></summary>
+        <author>
+            <name>toshi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【Blender】3Dモデルの法線確認方法と修正方法]]></title>
+        <id>https://qiita.com/tsukino_/items/8c843c4f0e6c4fb36c61</id>
+        <link href="https://qiita.com/tsukino_/items/8c843c4f0e6c4fb36c61"/>
+        <updated>2026-07-02T13:53:46.000Z</updated>
+        <summary type="html"><![CDATA[モデルを描画エンジンに持って行った際、法線データが乱れているとシェーディングがうまくいかないなどの問題が出る可能性があります。
+本記事では、Blenderを使用して、モデルの法線を確認する方法と、間違っていた場合に修正する方法を紹介します。
+
+使用環境
+
+Blender4....]]></summary>
+        <author>
+            <name>3DCGタグが付けられた新着記事 - Qiita</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【Maya】円柱の底面にエッジを追加する方法]]></title>
+        <id>https://3d.crdg.jp/env/?p=9896</id>
+        <link href="https://3d.crdg.jp/env/2026/07/02/9896/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=%25e3%2580%2590maya%25e3%2580%2591%25e5%2586%2586%25e6%259f%25b1%25e3%2581%25ae%25e5%25ba%2595%25e9%259d%25a2%25e3%2581%25ab%25e3%2582%25a8%25e3%2583%2583%25e3%2582%25b8%25e3%2582%2592%25e8%25bf%25bd%25e5%258a%25a0%25e3%2581%2599%25e3%2582%258b%25e6%2596%25b9%25e6%25b3%2595"/>
+        <updated>2026-07-02T13:29:10.000Z</updated>
+        <summary type="html"><![CDATA[円柱の底面にエッジを追加したいときに使う方法をご紹介します！ プリミティブから作成したばかりの場合 プリミティブから作成したばかりの場合、Attrib […]
+続きを読む
+投稿 【Maya】円柱の底面にエッジを追加する方法 は エンホリ - ENVIRONMENT HOLIC｜C&R Creative Studios に最初に表示されました。]]></summary>
+        <author>
+            <name>Hisako.Nishimura</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[UEFN Blender Bridge – BlenderとUEFNをライブ同期！アセット転送を自動化できる無料オープンソースツール]]></title>
         <id>https://modelinghappy.com/?p=69307</id>
@@ -4485,241 +4569,6 @@ Blender 5.2 LTS 新機能：Cyclesのメモリ不足を解消する「テクス�
         <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
         <author>
             <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[nginx 公式 OTel モジュール (ngx_otel_module) で nginx をトレース計装する]]></title>
-        <id>https://zenn.dev/nogu_d626/articles/da0ee6fd0d941f</id>
-        <link href="https://zenn.dev/nogu_d626/articles/da0ee6fd0d941f"/>
-        <updated>2026-06-03T11:01:05.000Z</updated>
-        <summary type="html"><![CDATA[はじめに
-リバースプロキシとしての nginx は、ほとんどのトラフィックがそこを通る「観測上の一等地」なのに、ログ以上の計装が長らく面倒だった。サイドカーで envoy を生やしたり、modsecurity の payload からスパンを生成したり…という工夫が必要だった。
-ところが 2023 年、nginx 公式が ngx_otel_module（OpenTelemetry の動的モジュール）を Apache 2.0 で公開した。nginx.conf にディレクティブを数行足すだけで、
-
-リクエストごとの span 自動生成
-
-上流から来た traceparent ヘッダの c...]]></summary>
-        <author>
-            <name>NOGU.D</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【6/30（火）まで】「Autodesk × CGWORLD Animation Days」オレンジによるアニメ制作メイキングセッション、オンデマンド配信の申込受付を開始 - ニュース]]></title>
-        <id>https://cgworld.jp/flashnews/02-2606-animation-days.html</id>
-        <link href="https://cgworld.jp/flashnews/02-2606-animation-days.html"/>
-        <updated>2026-06-03T10:20:00.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Train Your Dragon: Automatic Diffusion-Based Rigging for Characters with Diverse Topologies(2025)]]></title>
-        <id>https://qiita.com/matumu20/items/436fd39def5d161ad07d</id>
-        <link href="https://qiita.com/matumu20/items/436fd39def5d161ad07d"/>
-        <updated>2026-06-03T09:37:51.000Z</updated>
-        <summary type="html"><![CDATA[How to Train Your Dragon: Automatic Diffusion-Based Rigging for Characters with Diverse Topologies(Zeqi Gu, 2025)
-
-3行要約
-
-現状の拡散モデルが人型キャラク...]]></summary>
-        <author>
-            <name>3DCGタグが付けられた新着記事 - Qiita</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[入門者Houdini勉強譚その2]]></title>
-        <id>https://zenn.dev/mattya3713/articles/710d8f99998d57</id>
-        <link href="https://zenn.dev/mattya3713/articles/710d8f99998d57"/>
-        <updated>2026-06-03T08:54:00.000Z</updated>
-        <summary type="html"><![CDATA[※本記事はHoudini入門者が、書籍「理論と実践で学ぶHoudini」に基づいて学習した内容を整理したメモです。
-実際の操作・解釈は筆者の理解に基づいて再構成しているため、表現や解釈に一部簡略化・独自整理を含みます。
-正確性は一切ないのでご注意ください。
-
- 2章 ポイント、頂点、プリミティブ
-
- 1. Point（ポイント）
-ポリゴンやカーブを構成する基本単位
-Point自体は「3D空間上の位置情報」を持つ要素であり
-ここにアトリビュート(属性) を追加することで
-法線・色・速度・サイズなどの情報を持たせることができる
-
- 2.Vertex
-プリミティブ（ポリゴンやカーブなど）を構成...]]></summary>
-        <author>
-            <name>mattya3713</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[デジタルバトルアクション。映画『トロン：アレス』の VFXメイキング映像]]></title>
-        <id>https://3dtotal.jp/?p=55690</id>
-        <link href="https://3dtotal.jp/news/55690/"/>
-        <updated>2026-06-03T06:54:08.000Z</updated>
-        <summary type="html"><![CDATA[★Tron: Ares | Breakdown Reel（1分17秒/ 制作：Image Engine） このVFXブレイクダウンリールで制作の舞台裏をチェック、Image Engine が 映画『トロン：アレス』におい […]
-The post デジタルバトルアクション。映画『トロン：アレス』の VFXメイキング映像 first appeared on 3dtotal 日本語オフィシャルサイト.]]></summary>
-        <author>
-            <name>3dtotal管理人T</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Marvelous Designer 使用、パーカーの作り方]]></title>
-        <id>https://3dtotal.jp/?p=55687</id>
-        <link href="https://3dtotal.jp/tutorials/55687/"/>
-        <updated>2026-06-03T06:46:53.000Z</updated>
-        <summary type="html"><![CDATA[★Marvelous Designer： パーカーの作り方（14分45秒） 定番のストリートパーカーを作る方法、お教えします ・ベースパターンをダウンロード ・シルエット調整も簡単 ・実務にも応用できる制作手順 ・複雑・ […]
-The post Marvelous Designer 使用、パーカーの作り方 first appeared on 3dtotal 日本語オフィシャルサイト.]]></summary>
-        <author>
-            <name>3dtotal管理人T</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【期間限定無料】2026年6月16日までの FAB 無料コンテンツをチェック！]]></title>
-        <id>https://cginterest.com/?p=59480</id>
-        <link href="https://cginterest.com/2026/06/03/%e3%80%90%e6%9c%9f%e9%96%93%e9%99%90%e5%ae%9a%e7%84%a1%e6%96%99%e3%80%912026%e5%b9%b46%e6%9c%8816%e6%97%a5%e3%81%be%e3%81%a7%e3%81%ae-fab-%e7%84%a1%e6%96%99%e3%82%b3%e3%83%b3%e3%83%86%e3%83%b3/"/>
-        <updated>2026-06-03T06:33:44.000Z</updated>
-        <summary type="html"><![CDATA[期間限定で無料となっているEpicのマーケットプレイスFABの無料コンテンツの紹介です。 Epic Games の統合マーケットプレイスFABでは、クリエイターとのパートナーシップによって、2週間ごとに選ばれたコンテンツ […]
-【期間限定無料】2026年6月16日までの FAB 無料コンテンツをチェック！ first appeared on CGinterest.]]></summary>
-        <author>
-            <name>.me</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ステンシルバッファを用いたシェーダー実装（Unity6, URP）]]></title>
-        <id>https://zenn.dev/daikichi228/articles/5781dc6084bdfa</id>
-        <link href="https://zenn.dev/daikichi228/articles/5781dc6084bdfa"/>
-        <updated>2026-06-03T06:11:07.000Z</updated>
-        <summary type="html"><![CDATA[ステンシルバッファーとは
-
-ピクセル単位で描画を制限するためのマスク機能
-基本的な仕組みは以下の2ステップ
-
-ステップ1：値の書き込み
-
-ステンシルバッファーに特定の数字を書き込む
-
-
-
-
-
-Stencil
-{
-    Ref 1          // 参照値
-    Comp Always    // 比較関数
-    Pass Replace   // ステンシル操作
-}
-
-
-
-ステップ2：値のテスト
-
-「ステンシルバッファーの値が（ステップ1で設定した値）の場所だけ描画してね」のように命令を出すことができ、その範囲のみ描画することが可能
-
-
-
-
-
-Stencil
-{
-    ...]]></summary>
-        <author>
-            <name>ダイキチ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ステンシルバッファを用いたシェーダー実装（Unity6, URP）]]></title>
-        <id>https://zenn.dev/daikichi228/articles/5781dc6084bdfa</id>
-        <link href="https://zenn.dev/daikichi228/articles/5781dc6084bdfa"/>
-        <updated>2026-06-03T06:11:07.000Z</updated>
-        <summary type="html"><![CDATA[ステンシルバッファーとは
-
-ピクセル単位で描画を制限するためのマスク機能
-基本的な仕組みは以下の2ステップ
-
-ステップ1：値の書き込み
-
-ステンシルバッファーに特定の数字を書き込む
-
-
-
-
-
-Stencil
-{
-    Ref 1          // 参照値
-    Comp Always    // 比較関数
-    Pass Replace   // ステンシル操作
-}
-
-
-
-ステップ2：値のテスト
-
-「ステンシルバッファーの値が（ステップ1で設定した値）の場所だけ描画してね」のように命令を出すことができ、その範囲のみ描画することが可能
-
-
-
-
-
-Stencil
-{
-    ...]]></summary>
-        <author>
-            <name>ダイキチ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[入門者Houdini勉強譚その1]]></title>
-        <id>https://zenn.dev/mattya3713/articles/65ec2d344acc0d</id>
-        <link href="https://zenn.dev/mattya3713/articles/65ec2d344acc0d"/>
-        <updated>2026-06-03T05:49:47.000Z</updated>
-        <summary type="html"><![CDATA[※本記事はHoudini入門者が、書籍「理論と実践で学ぶHoudini」に基づいて学習した内容を整理したメモです。
-実際の操作・解釈は筆者の理解に基づいて再構成しているため、表現や解釈に一部簡略化・独自整理を含みます。
-正確性は一切ないのでご注意ください。
-
- 1章Houdiniとは
-プロシージャルな制作ができることが強味
-
- 基本の単語
-オペレーター(ノード)をつなげた構造のことをネットワーク
-オペレーターの種類がコンテキストというネットワークでまとまっている
-コンテキストの種類
-
-Objects(OBJ) ：一番でかい概念 ジオメトリ、カメラ、ライトなどのネットワークのまとまり
-Ge...]]></summary>
-        <author>
-            <name>mattya3713</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Substance Designer / グローや粒子に使うテクスチャ]]></title>
-        <id>https://note.com/efeozi/n/n1a5db59d9615</id>
-        <link href="https://note.com/efeozi/n/n1a5db59d9615"/>
-        <updated>2026-06-03T04:51:31.000Z</updated>
-        <summary type="html"><![CDATA[続きをみる]]></summary>
-        <author>
-            <name>#SubstanceDesignerタグ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【アセット紹介】Escalator – エスカレーターを簡単作成！]]></title>
-        <id>https://cgbox.jp/?p=65374</id>
-        <link href="https://cgbox.jp/2026/06/03/news-addon-escalator/"/>
-        <updated>2026-06-03T03:32:02.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは！ 今回はアドオンの「Escalator」を紹介します。 こちらのリンクがアドオンの商品ページになります。 Escalator 「Escalator」は、Geometry Nodesだけで作られた、完全プロシー […]]]></summary>
-        <author>
-            <name>kasahara</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【Substance Painter】Heightにぼかしやベベルを入れた時に気をつけたいこと]]></title>
-        <id>https://3d.crdg.jp/env/?p=9431</id>
-        <link href="https://3d.crdg.jp/env/2026/06/03/9431/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=%25e3%2580%2590substance-painter%25e3%2580%2591height%25e3%2581%25ab%25e3%2581%25bc%25e3%2581%258b%25e3%2581%2597%25e3%2582%2584%25e3%2583%2599%25e3%2583%2599%25e3%2583%25ab%25e3%2582%2592%25e5%2585%25a5%25e3%2582%258c%25e3%2581%259f%25e6%2599%2582%25e3%2581%25ab%25e6%25b0%2597%25e3%2582%2592%25e3%2581%25a4"/>
-        <updated>2026-06-03T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[以前、「【Substance Painter】Heightをより強く見せるコツ」という記事を書いたんですが、ぼかしやベベルを追加したHeightにカラ […]
-続きを読む
-投稿 【Substance Painter】Heightにぼかしやベベルを入れた時に気をつけたいこと は エンホリ - ENVIRONMENT HOLIC｜C&R Creative Studios に最初に表示されました。]]></summary>
-        <author>
-            <name>Kaho.Nobukawa</name>
         </author>
     </entry>
 </feed>

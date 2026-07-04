@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-07-04T06:09:18.022Z</updated>
+    <updated>2026-07-04T09:58:35.144Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Dovetail Key – ラインを描くだけで3Dプリント用のオス・メス接続部を簡単に作成できるBlenderアドオン]]></title>
+        <id>https://modelinghappy.com/?p=69319</id>
+        <link href="https://modelinghappy.com/archives/69319"/>
+        <updated>2026-07-04T09:22:10.000Z</updated>
+        <summary type="html"><![CDATA[Dovetail Key Dovetail KeyはBlenderで、どんなモデルでもビュー上でラインを描くだけで簡単にパーツ同士のつなぎ目を作成出来るアドオンです。 3Dプリントしたいモデルを複数パーツに分割して出力し
+The post Dovetail Key – ラインを描くだけで3Dプリント用のオス・メス接続部を簡単に作成できるBlenderアドオン first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
+        <author>
+            <name>modelinghappy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unreal Engine向けの無料マテリアル自動構築プラグイン「Node Ninja」]]></title>
+        <id>https://cginterest.com/?p=60461</id>
+        <link href="https://cginterest.com/2026/07/04/unreal-engine%e5%90%91%e3%81%91%e3%81%ae%e7%84%a1%e6%96%99%e3%83%9e%e3%83%86%e3%83%aa%e3%82%a2%e3%83%ab%e8%87%aa%e5%8b%95%e6%a7%8b%e7%af%89%e3%83%97%e3%83%a9%e3%82%b0%e3%82%a4%e3%83%b3%e3%80%8cnode-ni/"/>
+        <updated>2026-07-04T06:12:00.000Z</updated>
+        <summary type="html"><![CDATA[School of MotionによるUnreal Engine向けのマテリアル自動構築プラグイン「Node Ninja」の紹介です。 Node Ninjaとは？ Unreal EngineにおけるPBR（Physica […]]]></summary>
+        <author>
+            <name>.me</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AURORA Film Lab | フィルムの実測データに基づき開発されたDaVinci Resolve向けグレーディングシステム！]]></title>
         <id>https://3dnchu.com/?p=1066200</id>
@@ -4551,56 +4572,6 @@ Tripo、状態と描画を分離する新アーキテクチャ採用のワール
         <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
         <author>
             <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Intel、携帯型ゲーミングPC向け新プロセッサ「Intel Arc Gシリーズ」を発表]]></title>
-        <id>https://cginterest.com/?p=59514</id>
-        <link href="https://cginterest.com/2026/06/05/intel%e3%80%81%e6%90%ba%e5%b8%af%e5%9e%8b%e3%82%b2%e3%83%bc%e3%83%9f%e3%83%b3%e3%82%b0pc%e5%90%91%e3%81%91%e6%96%b0%e3%83%97%e3%83%ad%e3%82%bb%e3%83%83%e3%82%b5%e3%80%8cintel-arc-g%e3%82%b7%e3%83%aa/"/>
-        <updated>2026-06-04T21:51:00.000Z</updated>
-        <summary type="html"><![CDATA[2026年6月2日（現地時間）- Intel は 、Computex 2026 にて、チップからシステムレベルまで幅広い AI ニーズに対応する新しいソリューション群を発表しました。 主な発表内容 以下では、 Serie […]
-Intel、携帯型ゲーミングPC向け新プロセッサ「Intel Arc Gシリーズ」を発表 first appeared on CGinterest.]]></summary>
-        <author>
-            <name>.me</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[フォトグラメトリ数学｜27：Factor Graphとは何か]]></title>
-        <id>https://zenn.dev/s_hashida/articles/775378b009f6fe</id>
-        <link href="https://zenn.dev/s_hashida/articles/775378b009f6fe"/>
-        <updated>2026-06-04T21:36:05.000Z</updated>
-        <summary type="html"><![CDATA[はじめに
-前回は、
-
-SLAM
-Loop Closure
-Pose Graph
-Pose Graph Optimization
-
-について説明しました。
-
-その中で重要だったのが、
-
-Pose同士に拘束がある
-Loop Closureで拘束が追加される
-全体整合性を最適化する
-
-という点です。
-
-しかしここで疑問が出てきます。
-
-Pose Graph Optimizationは何をしているのか？
-Bundle Adjustmentとは何が違うのか？
-なぜどちらも最適化問題になるのか？
-Factor Graphとは何なのか？
-
-
-実は、
-
-Bundle Adjustment
-Pose...]]></summary>
-        <author>
-            <name>s_hashida</name>
         </author>
     </entry>
 </feed>

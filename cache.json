@@ -2007,6 +2007,16 @@
       "siteUrl": "https://modelinghappy.com",
       "articles": [
         {
+          "id": "https://modelinghappy.com/?p=69319",
+          "author": "modelinghappy",
+          "description": "Dovetail Key Dovetail KeyはBlenderで、どんなモデルでもビュー上でラインを描くだけで簡単にパーツ同士のつなぎ目を作成出来るアドオンです。 3Dプリントしたいモデルを複数パーツに分割して出力し\nThe post Dovetail Key – ラインを描くだけで3Dプリント用のオス・メス接続部を簡単に作成できるBlenderアドオン first appeared on 3DCG最新情報サイト MODELING HAPPY.",
+          "link": "https://modelinghappy.com/archives/69319",
+          "publishedOn": "2026-07-04T09:22:10.000Z",
+          "wordCount": 3065,
+          "title": "Dovetail Key – ラインを描くだけで3Dプリント用のオス・メス接続部を簡単に作成できるBlenderアドオン",
+          "imageUrl": "https://modelinghappy.com/wp-content/uploads/2026/07/20260704_Dovetail_Key_01.jpg"
+        },
+        {
           "id": "https://modelinghappy.com/?p=69310",
           "author": "modelinghappy",
           "description": "ゲーム背景のための植生環境のつくり方 2026年8月11日に、ゲーム向けのハイクオリティな植生をゼロから制作するための本格的な書籍が発売します。 本書では、オンラインライブラリからアセットをダウンロードして配置すれば、そ\nThe post 「ゲーム背景のための植生環境のつくり方」が学べる書籍が発売します first appeared on 3DCG最新情報サイト MODELING HAPPY.",
@@ -3102,21 +3112,6 @@
             "type": "false"
           },
           "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--GQP4WpJa--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%2595%25E3%2582%25A9%25E3%2583%2588%25E3%2582%25B0%25E3%2583%25A9%25E3%2583%25A1%25E3%2583%2588%25E3%2583%25AA%25E6%2595%25B0%25E5%25AD%25A6%25EF%25BD%259C28%25EF%25BC%259AGauss-Newton%25E6%25B3%2595%25E3%2581%25AFSLAM%25E3%2581%25A7%25E3%2581%25A9%25E3%2581%2586%25E4%25BD%25BF%25E3%2582%258F%25E3%2582%258C%25E3%2582%258B%25E3%2581%25AE%25E3%2581%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:s_hashida%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2JmNmU5NjMzMTEuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
-        },
-        {
-          "id": "https://zenn.dev/s_hashida/articles/775378b009f6fe",
-          "author": "s_hashida",
-          "description": "はじめに\n前回は、\n\nSLAM\nLoop Closure\nPose Graph\nPose Graph Optimization\n\nについて説明しました。\n\nその中で重要だったのが、\n\nPose同士に拘束がある\nLoop Closureで拘束が追加される\n全体整合性を最適化する\n\nという点です。\n\nしかしここで疑問が出てきます。\n\nPose Graph Optimizationは何をしているのか？\nBundle Adjustmentとは何が違うのか？\nなぜどちらも最適化問題になるのか？\nFactor Graphとは何なのか？\n\n\n実は、\n\nBundle Adjustment\nPose...",
-          "link": "https://zenn.dev/s_hashida/articles/775378b009f6fe",
-          "publishedOn": "2026-06-04T21:36:05.000Z",
-          "wordCount": 1492,
-          "title": "フォトグラメトリ数学｜27：Factor Graphとは何か",
-          "enclosure": {
-            "url": "https://res.cloudinary.com/zenn/image/upload/s--XVKt9_3J--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%2595%25E3%2582%25A9%25E3%2583%2588%25E3%2582%25B0%25E3%2583%25A9%25E3%2583%25A1%25E3%2583%2588%25E3%2583%25AA%25E6%2595%25B0%25E5%25AD%25A6%25EF%25BD%259C27%25EF%25BC%259AFactor%2520Graph%25E3%2581%25A8%25E3%2581%25AF%25E4%25BD%2595%25E3%2581%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:s_hashida%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2JmNmU5NjMzMTEuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
-            "length": "0",
-            "type": "false"
-          },
-          "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--XVKt9_3J--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%2595%25E3%2582%25A9%25E3%2583%2588%25E3%2582%25B0%25E3%2583%25A9%25E3%2583%25A1%25E3%2583%2588%25E3%2583%25AA%25E6%2595%25B0%25E5%25AD%25A6%25EF%25BD%259C27%25EF%25BC%259AFactor%2520Graph%25E3%2581%25A8%25E3%2581%25AF%25E4%25BD%2595%25E3%2581%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:s_hashida%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2JmNmU5NjMzMTEuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
         }
       ]
     },
@@ -3896,6 +3891,16 @@
       "siteUrl": "https://cginterest.com",
       "articles": [
         {
+          "id": "https://cginterest.com/?p=60461",
+          "author": ".me",
+          "description": "School of MotionによるUnreal Engine向けのマテリアル自動構築プラグイン「Node Ninja」の紹介です。 Node Ninjaとは？ Unreal EngineにおけるPBR（Physica […]",
+          "link": "https://cginterest.com/2026/07/04/unreal-engine%e5%90%91%e3%81%91%e3%81%ae%e7%84%a1%e6%96%99%e3%83%9e%e3%83%86%e3%83%aa%e3%82%a2%e3%83%ab%e8%87%aa%e5%8b%95%e6%a7%8b%e7%af%89%e3%83%97%e3%83%a9%e3%82%b0%e3%82%a4%e3%83%b3%e3%80%8cnode-ni/",
+          "publishedOn": "2026-07-04T06:12:00.000Z",
+          "wordCount": 30047,
+          "title": "Unreal Engine向けの無料マテリアル自動構築プラグイン「Node Ninja」",
+          "imageUrl": "https://cginterest.com/wp-content/uploads/2026/07/nodeninja.webp"
+        },
+        {
           "id": "https://cginterest.com/?p=60462",
           "author": ".me",
           "description": "2026年7月3日（現地時間） – Reallusionは、Character Creator 用のAI搭載の3Dヘッドジェネレータープラグインの最新アップデートとなるHeadshot 3.1を発表しました。 […]",
@@ -4614,16 +4619,6 @@
             "type": "video/mp4"
           },
           "imageUrl": "https://cginterest.com/wp-content/uploads/2026/06/Project-eden.webp"
-        },
-        {
-          "id": "https://cginterest.com/?p=59514",
-          "author": ".me",
-          "description": "2026年6月2日（現地時間）- Intel は 、Computex 2026 にて、チップからシステムレベルまで幅広い AI ニーズに対応する新しいソリューション群を発表しました。 主な発表内容 以下では、 Serie […]\nIntel、携帯型ゲーミングPC向け新プロセッサ「Intel Arc Gシリーズ」を発表 first appeared on CGinterest.",
-          "link": "https://cginterest.com/2026/06/05/intel%e3%80%81%e6%90%ba%e5%b8%af%e5%9e%8b%e3%82%b2%e3%83%bc%e3%83%9f%e3%83%b3%e3%82%b0pc%e5%90%91%e3%81%91%e6%96%b0%e3%83%97%e3%83%ad%e3%82%bb%e3%83%83%e3%82%b5%e3%80%8cintel-arc-g%e3%82%b7%e3%83%aa/",
-          "publishedOn": "2026-06-04T21:51:00.000Z",
-          "wordCount": 32157,
-          "title": "Intel、携帯型ゲーミングPC向け新プロセッサ「Intel Arc Gシリーズ」を発表",
-          "imageUrl": "https://cginterest.com/wp-content/uploads/2026/06/Intel-arc-logo-768x432-1.webp"
         }
       ]
     }

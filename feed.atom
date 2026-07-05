@@ -2,10 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-07-04T12:58:33.151Z</updated>
+    <updated>2026-07-05T02:01:37.768Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Claude Codeの /loop で「勉強素材が勝手に増えるリポジトリ」を作ったら1週間でシェーダー89個生えた話]]></title>
+        <id>https://qiita.com/miwashutaro0611/items/0cbd1f4a0ea0c583bd50</id>
+        <link href="https://qiita.com/miwashutaro0611/items/0cbd1f4a0ea0c583bd50"/>
+        <updated>2026-07-05T01:25:36.000Z</updated>
+        <summary type="html"><![CDATA[はじめに
+みなさん、Claude Code の /loop はもう試してみましたか？
+/loop は「指定したプロンプトやスラッシュコマンドを、一定間隔で繰り返し実行してくれる」機能です。デプロイの完了監視や PR のステータスチェックのような繰り返し作業を Claude...]]></summary>
+        <author>
+            <name>GLSLタグが付けられた新着記事 - Qiita</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【Blender】Statisticsを有効にする方法]]></title>
+        <id>https://qiita.com/tsukino_/items/2b0317505f97047e7735</id>
+        <link href="https://qiita.com/tsukino_/items/2b0317505f97047e7735"/>
+        <updated>2026-07-04T19:23:53.000Z</updated>
+        <summary type="html"><![CDATA[3Dモデルを触っていると、頂点数・面数・三角数がどれくらいあるかを確認したくなる場面があると思います。
+特にゲーム開発などで軽量化を目指したい場合、頂点数はパフォーマンスに直結する数値となります。
+幸い、Blenderには、これらをリアルタイムで表示するStatistics...]]></summary>
+        <author>
+            <name>3DCGタグが付けられた新着記事 - Qiita</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【Blender】モデルのバウンディングボックスを確認する方法]]></title>
+        <id>https://qiita.com/tsukino_/items/b73ddf13ddf2a05597fa</id>
+        <link href="https://qiita.com/tsukino_/items/b73ddf13ddf2a05597fa"/>
+        <updated>2026-07-04T18:29:03.000Z</updated>
+        <summary type="html"><![CDATA[時折、消し忘れた頂点などがとんでもない場所に残るなどして、アプリケーションへインポートした際に不都合が起こることがあります。
+そういった際、Blenderでバウンディングボックスを確認することが出来れば、非常に便利です。
+本記事では、Blenderで3Dモデルのバウンディン...]]></summary>
+        <author>
+            <name>3DCGタグが付けられた新着記事 - Qiita</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Substance Designer / Flare作例]]></title>
         <id>https://note.com/efeozi/n/n8a4ca9ff38a2</id>
@@ -4503,91 +4539,6 @@ Sketchfabマンスリーピックアップ 2026年6月号 first appeared on CGin
         <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
         <author>
             <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[アドビ、AIによる「作風の模倣」からクリエイターを保護する米国法案「CREATOR法」の支持を表明]]></title>
-        <id>https://cginterest.com/?p=59544</id>
-        <link href="https://cginterest.com/2026/06/05/%e3%82%a2%e3%83%89%e3%83%93%e3%80%81ai%e3%81%ab%e3%82%88%e3%82%8b%e3%80%8c%e4%bd%9c%e9%a2%a8%e3%81%ae%e6%a8%a1%e5%80%a3%e3%80%8d%e3%81%8b%e3%82%89%e3%82%af%e3%83%aa%e3%82%a8%e3%82%a4%e3%82%bf%e3%83%bc/"/>
-        <updated>2026-06-05T11:45:53.000Z</updated>
-        <summary type="html"><![CDATA[生成AI技術は、クリエイターにとってアイデア創出の加速や表現の幅を広げる強力なツールとなる一方で、その利用方法については様々な議論が交わされています。特に近年、懸念を集めているのが「特定のアーティストの作風を模倣した生成 […]
-アドビ、AIによる「作風の模倣」からクリエイターを保護する米国法案「CREATOR法」の支持を表明 first appeared on CGinterest.]]></summary>
-        <author>
-            <name>.me</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Blender 5.2 LTSベータ版リリース！Cyclesの新しい「テクスチャキャッシュ」機能が登場！大量テクスチャを使うシーンのメモリ効率が大幅向上]]></title>
-        <id>https://modelinghappy.com/?p=68950</id>
-        <link href="https://modelinghappy.com/archives/68950"/>
-        <updated>2026-06-05T09:52:51.000Z</updated>
-        <summary type="html"><![CDATA[Blender5.2LTS Blender5.2LTSベータ版が2026年6月３日にリリースされました。 正式リリースは7月14日予定となっています。 Blender 5.2 LTSでは、多数の画像テクスチャを含むシーン
-The post Blender 5.2 LTSベータ版リリース！Cyclesの新しい「テクスチャキャッシュ」機能が登場！大量テクスチャを使うシーンのメモリ効率が大幅向上 first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
-        <author>
-            <name>modelinghappy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Blenderでメッシュ同士をリアルタイム融合！トポロジーやUVを維持したまま非破壊で接続できるアドオン「Merge Master」が35%オフセール中]]></title>
-        <id>https://modelinghappy.com/?p=68943</id>
-        <link href="https://modelinghappy.com/archives/68943"/>
-        <updated>2026-06-05T09:17:45.000Z</updated>
-        <summary type="html"><![CDATA[Merge Master Merge MasterはBlender 5.0以降に対応した、2つのメッシュをリアルタイムかつ非破壊で自然に融合できるアドオンです。 融合はリアルタイムで確認でき、強度や融合範囲などのパラメー
-The post Blenderでメッシュ同士をリアルタイム融合！トポロジーやUVを維持したまま非破壊で接続できるアドオン「Merge Master」が35%オフセール中 first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
-        <author>
-            <name>modelinghappy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[#10【Unity】ローカル環境で動くデスクトップマスコットをつくろう！ - 連載]]></title>
-        <id>https://cgworld.jp/regular/202606-cgw331-tr10.html</id>
-        <link href="https://cgworld.jp/regular/202606-cgw331-tr10.html"/>
-        <updated>2026-06-05T03:50:00.000Z</updated>
-        <summary type="html"><![CDATA[今回はUnityでデスクトップマスコットキャラクターをつくってみましよう。実はUnityはゲーム開発だけではなく、デスクトップアプリや常駐ツールのような用途にも柔軟に使うことができます。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[劇場アニメ制作を支える"試行回数"と"ルックデヴ" ―― 安田現象監督が語る、AMD Ryzen™ 9搭載クリエイターパソコン「SENSE∞」がもたらす恩恵 - スペシャルコンテンツ]]></title>
-        <id>https://cgworld.jp/special-feature/2606-amd-yasudagensho.html</id>
-        <link href="https://cgworld.jp/special-feature/2606-amd-yasudagensho.html"/>
-        <updated>2026-06-05T02:30:39.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[麦わらの一味、グランドラインへ！ 実写版『ONE PIECE』シーズン2 の VFXメイキング映像＆トレーラー集]]></title>
-        <id>https://3dtotal.jp/?p=55703</id>
-        <link href="https://3dtotal.jp/news/55703/"/>
-        <updated>2026-06-05T02:20:55.000Z</updated>
-        <summary type="html"><![CDATA[★One Piece S2 VFX Breakdown（3分2秒/ 制作：Framestore） 麦わらの一味、グランドラインへ！ 『ONE PIECE』シーズン1 の制作に続き、VFXチームはシーズン2へと冒険の舞台を […]
-The post 麦わらの一味、グランドラインへ！ 実写版『ONE PIECE』シーズン2 の VFXメイキング映像＆トレーラー集 first appeared on 3dtotal 日本語オフィシャルサイト.]]></summary>
-        <author>
-            <name>3dtotal管理人T</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[夢をスクリーンに。Autodesk の 映画・TV・ゲーム ショーリール 2026]]></title>
-        <id>https://3dtotal.jp/?p=55699</id>
-        <link href="https://3dtotal.jp/news/55699/"/>
-        <updated>2026-06-05T02:11:25.000Z</updated>
-        <summary type="html"><![CDATA[★Autodesk Film, TV & Games Showreel 2026（1分34秒） この1年、夢のようなプロジェクトが、もはや夢ではなくなりました。 私たちが見て、遊んで、体験できる物語へと変わりました。 1 […]
-The post 夢をスクリーンに。Autodesk の 映画・TV・ゲーム ショーリール 2026 first appeared on 3dtotal 日本語オフィシャルサイト.]]></summary>
-        <author>
-            <name>3dtotal管理人T</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【オンデマンド配信】Autodesk X CGWORLD Animation Days]]></title>
-        <id>https://area.autodesk.jp/event/animation-days-2026-ondemand/</id>
-        <link href="https://area.autodesk.jp/event/animation-days-2026-ondemand/"/>
-        <updated>2026-06-05T02:00:00.000Z</updated>
-        <summary type="html"><![CDATA[3月末に開催し多くの方にご登録いただいた『Autodesk × CGWORLD Animation Days』よりオレンジ様の4セッション、Autodeskの1セッションのオンデマンド配信を開始します！当日登録できなかった方はこの機会にご登録の上ご視聴ください。ご参加いただいた皆様からのアンケート評価も高く、濃い内容の5セッションをお届けします。・・・]]></summary>
-        <author>
-            <name>AREA JAPAN | Autodesk</name>
         </author>
     </entry>
 </feed>

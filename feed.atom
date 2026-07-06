@@ -2,10 +2,164 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-07-05T13:06:04.878Z</updated>
+    <updated>2026-07-06T02:07:38.706Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Mesh Blend | 数クリックでアセットと地形を綺麗にブレンド出来るMaya用ツール！]]></title>
+        <id>https://3dnchu.com/?p=1066296</id>
+        <link href="https://3dnchu.com/archives/mesh-blend-maya-louis-cresson/"/>
+        <updated>2026-07-06T01:35:44.000Z</updated>
+        <summary type="html"><![CDATA[Louis Cresson氏がMaya向けに 数クリックでアセットと地形を綺麗にブレンド出来るツール「Mesh Blend」をリリースしました！]]></summary>
+        <author>
+            <name>Ymt3D -3dnchu-</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[第3回：UIを動かそう！（2）ボタンの作成と実装 - 連載]]></title>
+        <id>https://cgworld.jp/regular/202607-ueui-03.html</id>
+        <link href="https://cgworld.jp/regular/202607-ueui-03.html"/>
+        <updated>2026-07-06T01:24:00.000Z</updated>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ArtiFixer: Enhancing and Extending 3D Reconstructionwith Auto-Regressive Diffusion Models | 複数枚の写真から空間を補完しつつ高品質な3Dシーンを構築する技術！SIGGRAPH 2026論文！]]></title>
+        <id>https://3dnchu.com/?p=1066174</id>
+        <link href="https://3dnchu.com/archives/artifixer/"/>
+        <updated>2026-07-06T01:10:49.000Z</updated>
+        <summary type="html"><![CDATA[NVIDIAと、チューリッヒ工科大学、コーネル大学、トロント大学、ベクター研究所の研究者らによる複数枚の写真から空間を補完しつつ高品質な3Dシーンを構築するSIGGRAPH 2026技術！ 「ArtiFixer: Enhancing and Extending 3D Reconstructionwith Auto-Regressive Diffusion Models」が公開されています！]]></summary>
+        <author>
+            <name>Ymt3D -3dnchu-</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[xTool O1 Omni Printer | UVプリント・UV DTF・DTG・DTFの4つの機能を1台に統合した新型マルチマテリアルプリンターが登場！布から金属まで様々な素材に印刷可能！]]></title>
+        <id>https://3dnchu.com/?p=1066180</id>
+        <link href="https://3dnchu.com/archives/xtool-o1-omni-printer/"/>
+        <updated>2026-07-06T00:07:46.000Z</updated>
+        <summary type="html"><![CDATA[xToolから新型マルチマテリアルプリンター「xTool O1 Omni Printer」が発表されております！]]></summary>
+        <author>
+            <name>Ymt3D -3dnchu-</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DreamShader | Unreal Engineのマテリアルをコードで管理＆構築！専用DSLからマテリアルアセットを自動生成できるオープンソースプラグイン！]]></title>
+        <id>https://3dnchu.com/?p=1065540</id>
+        <link href="https://3dnchu.com/archives/dreamshader/"/>
+        <updated>2026-07-05T23:42:52.000Z</updated>
+        <summary type="html"><![CDATA[Type Dream Moon氏による、独自DSL（Dream Shader Language）でマテリアルを記述することで、Unreal Engineのマテリアルやマテリアル関数、Material Layerなどを自動生成・更新可能なオープンソースプラグイン「DreamShader」のご紹介！]]></summary>
+        <author>
+            <name>Ymt3D -3dnchu-</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CG Shortcuts、Cinema 4Dでダンボール箱をロープで縛る表現のチュートリアル動画を公開 - ニュース]]></title>
+        <id>https://cgworld.jp/flashnews/01-202607-C4D-Rope.html</id>
+        <link href="https://cgworld.jp/flashnews/01-202607-C4D-Rope.html"/>
+        <updated>2026-07-05T22:15:10.000Z</updated>
+        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[フォトグラメトリ数学｜38：なぜRPC補正が必要なのか ～ Bias CorrectionとAffine補正 ～]]></title>
+        <id>https://zenn.dev/s_hashida/articles/90fdebe3a83d2c</id>
+        <link href="https://zenn.dev/s_hashida/articles/90fdebe3a83d2c"/>
+        <updated>2026-07-05T22:01:05.000Z</updated>
+        <summary type="html"><![CDATA[はじめに
+前回は、
+
+Rigorous Model
+RPC生成
+RFM近似
+最小二乗法
+
+について説明しました。
+
+その中で重要だったのが、
+
+RPCはRigorous Modelを近似している
+RPCは高精度なモデルである
+利用者にはRPCだけ配布される
+
+という点です。
+
+しかしここで疑問が出てきます。
+
+RPCだけで十分なのか？
+なぜGCPを使うのか？
+なぜRPC補正が必要なのか？
+
+
+実は、RPCにはわずかな位置ずれが残ることがあります。
+そのため実務では、
+RPC補正（Bias Correction）
+が行われます。
+
+今回は、
+
+RPC補正とは何か
+なぜ位置ずれが生じる...]]></summary>
+        <author>
+            <name>s_hashida</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GeoStream | Alembicのジオメトリキャッシュデータを最適な状態に圧縮し軽量にメッシュストリーミング可能なUnreal Engine 5向けプラグイン！]]></title>
+        <id>https://3dnchu.com/?p=1065866</id>
+        <link href="https://3dnchu.com/archives/geostream/"/>
+        <updated>2026-07-05T16:59:36.000Z</updated>
+        <summary type="html"><![CDATA[Bastionsonによる、Alembicのジオメトリキャッシュデータを軽量な状態に圧縮して運用出来るUnreal Engine 5向けプラグイン「GeoStream」のご紹介！]]></summary>
+        <author>
+            <name>Ymt3D -3dnchu-</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Massive 101 | 映画『ロード・オブ・ザ・リング』三部作で使用するために開発された群衆シミュレーションツール！商用利用不可の無料版が登場！]]></title>
+        <id>https://3dnchu.com/?p=1066158</id>
+        <link href="https://3dnchu.com/archives/massive-101/"/>
+        <updated>2026-07-05T16:35:52.000Z</updated>
+        <summary type="html"><![CDATA[映画『ロード・オブ・ザ・リング』三部作で使用するために開発された群衆シミュレーションツール「Massive 101」が登場！非商用利用に限り無料でご利用いただけるようになっています！]]></summary>
+        <author>
+            <name>Ymt3D -3dnchu-</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【Blender】マテリアルにテクスチャを貼る方法]]></title>
+        <id>https://qiita.com/tsukino_/items/ac85cca9032ff089d2f9</id>
+        <link href="https://qiita.com/tsukino_/items/ac85cca9032ff089d2f9"/>
+        <updated>2026-07-05T16:34:12.000Z</updated>
+        <summary type="html"><![CDATA[レンダリングエンジンなどでモデルを描画する際、テクスチャがマテリアルについていないと、デフォルトカラーで描画されてしまうことがあります。
+本記事では、テクスチャをBlenderで作成して、マテリアルのベースカラーに設定する方法を紹介します。
+
+使用環境
+
+Blender4....]]></summary>
+        <author>
+            <name>3DCGタグが付けられた新着記事 - Qiita</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【Unity】Shader Graph×VFX Graph入門：テクスチャなしで「青白い泡」を作る]]></title>
+        <id>https://zenn.dev/zero_0r0/articles/3d1283ba248611</id>
+        <link href="https://zenn.dev/zero_0r0/articles/3d1283ba248611"/>
+        <updated>2026-07-05T11:35:33.000Z</updated>
+        <summary type="html"><![CDATA[はじめに
+前回の記事（VFX Graph に入門してみたので、作りながら基礎を紐解いたりしてみる）では、Unity標準のテクスチャを使って水中の泡エフェクトを作成しました。
+今回はその続編として、「テクスチャ（画像）を一切使わず、Shader Graphの数学的な計算だけで泡を作る」というプロシージャルな表現に挑戦してみたいと思います。
+🎯 この記事のターゲット（こんな人におすすめ）
+
+Shader Graphに興味はあるけど、何から始めればいいか分からない人
+ノードベースで「円」や「立体感」をどう数式で作っているのか知りたいエンジニア
+専門用語（フレネル、Lerpなど）の意味を図解...]]></summary>
+        <author>
+            <name>ゼロ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[特別回　西郷の従者を、絵コンテの中に立たせる― 3Dモデル制作からUE5配置、線画化・着彩化まで]]></title>
         <id>https://note.com/koukisin_jikken/n/nc8bd6b9a78ac</id>
@@ -4465,28 +4619,6 @@ The post BlenderにSTEPファイルを直接インポート！テッセレーシ
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[現代の GPU アーキテクチャとシェーダー最適化の考え方]]></title>
-        <id>https://zenn.dev/ruccho/articles/shader-optimization</id>
-        <link href="https://zenn.dev/ruccho/articles/shader-optimization"/>
-        <updated>2026-06-06T11:49:09.000Z</updated>
-        <summary type="html"><![CDATA[以前の記事では実際のシェーダーをもとに最適化を行う例を紹介しました。
-https://zenn.dev/ruccho/articles/f9a58ae9a48704
-今回は GPU のアーキテクチャについて理解を深め、理屈から効果的な最適化の方法を考えてみたいと思います。
-
- GPU のアーキテクチャ
-
- 構造
-GPU は大雑把に以下のような構造をしています。
-
-GPU 全体で共有されるグローバルメモリ、それにいくつかの GPU コアが接続されています。実際のシェーダーの実行は各 GPU コアで行われます。
-
- スケジューリング
-現代の多くの GPU は「同じ命令を複数のスレッドで同時に...]]></summary>
-        <author>
-            <name>ruccho</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Autodesk、従量課金プラン「Flex」の最低購入価格を引き下げ]]></title>
         <id>https://cginterest.com/?p=59555</id>
         <link href="https://cginterest.com/2026/06/06/autodesk%e3%80%81%e5%be%93%e9%87%8f%e8%aa%b2%e9%87%91%e3%83%97%e3%83%a9%e3%83%b3%e3%80%8cflex%e3%80%8d%e3%81%ae%e6%9c%80%e4%bd%8e%e8%b3%bc%e5%85%a5%e4%be%a1%e6%a0%bc%e3%82%92%e5%bc%95%e3%81%8d/"/>
@@ -4495,38 +4627,6 @@ GPU 全体で共有されるグローバルメモリ、それにいくつかの 
 Autodesk、従量課金プラン「Flex」の最低購入価格を引き下げ first appeared on CGinterest.]]></summary>
         <author>
             <name>.me</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Substance Playerで使える布パターンジェネレーターや金属スマートマテリアル、Sci-Fiプロップなど11種類のアセットが無料配布！]]></title>
-        <id>https://modelinghappy.com/?p=68958</id>
-        <link href="https://modelinghappy.com/archives/68958"/>
-        <updated>2026-06-06T05:54:01.000Z</updated>
-        <summary type="html"><![CDATA[３DコンセプトデザイナーのMunkhjin Otgonbayarさんが過去に作成した、パターンテクスチャをサブスタンスプレイヤーで作成出来るジェネレーターや、サブスタンスペインターで金属質感を付けれるスマートマテリアル、
-The post Substance Playerで使える布パターンジェネレーターや金属スマートマテリアル、Sci-Fiプロップなど11種類のアセットが無料配布！ first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
-        <author>
-            <name>modelinghappy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DirectX11 シャドウマップ実装 ― アニメ調の落ち影を破綻なく描く]]></title>
-        <id>https://qiita.com/FujiiShintaro/items/92f01604071b29f425dc</id>
-        <link href="https://qiita.com/FujiiShintaro/items/92f01604071b29f425dc"/>
-        <updated>2026-06-06T03:23:24.000Z</updated>
-        <summary type="html"><![CDATA[DirectX11 シャドウマップ実装 ― アニメ調の世界観で落ち影を破綻なく描く
-
-目次
-
-はじめに
-仕組みは2パスだけ
-シャドウパスの組み立て
-自己影を消す：アクネからIDマップへ
-落ち影の点滅と整数RTのブレンド
-シャドウシマリングとテクセルスナップ
-背面の扱い
-仕...]]></summary>
-        <author>
-            <name>HLSLタグが付けられた新着記事 - Qiita</name>
         </author>
     </entry>
     <entry>

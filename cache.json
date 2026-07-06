@@ -281,6 +281,96 @@
       "siteUrl": "https://3dnchu.com",
       "articles": [
         {
+          "id": "https://3dnchu.com/?p=1066296",
+          "author": "Ymt3D -3dnchu-",
+          "description": "Louis Cresson氏がMaya向けに 数クリックでアセットと地形を綺麗にブレンド出来るツール「Mesh Blend」をリリースしました！",
+          "link": "https://3dnchu.com/archives/mesh-blend-maya-louis-cresson/",
+          "publishedOn": "2026-07-06T01:35:44.000Z",
+          "wordCount": 8821,
+          "title": "Mesh Blend | 数クリックでアセットと地形を綺麗にブレンド出来るMaya用ツール！",
+          "enclosure": {
+            "url": "https://3dnchu.com/wp-content/uploads/mesh-blend-maya-louis-cresson.mp4",
+            "length": "202072",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://3dnchu.com/wp-content/uploads/mesh-blend-maya-louis-cresson.webp"
+        },
+        {
+          "id": "https://3dnchu.com/?p=1066174",
+          "author": "Ymt3D -3dnchu-",
+          "description": "NVIDIAと、チューリッヒ工科大学、コーネル大学、トロント大学、ベクター研究所の研究者らによる複数枚の写真から空間を補完しつつ高品質な3Dシーンを構築するSIGGRAPH 2026技術！ 「ArtiFixer: Enhancing and Extending 3D Reconstructionwith Auto-Regressive Diffusion Models」が公開されています！",
+          "link": "https://3dnchu.com/archives/artifixer/",
+          "publishedOn": "2026-07-06T01:10:49.000Z",
+          "wordCount": 8869,
+          "title": "ArtiFixer: Enhancing and Extending 3D Reconstructionwith Auto-Regressive Diffusion Models | 複数枚の写真から空間を補完しつつ高品質な3Dシーンを構築する技術！SIGGRAPH 2026論文！",
+          "enclosure": {
+            "url": "https://3dnchu.com/wp-content/uploads/ArtiFixer.mp4",
+            "length": "5988509",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://3dnchu.com/wp-content/uploads/ArtiFixer.webp"
+        },
+        {
+          "id": "https://3dnchu.com/?p=1066180",
+          "author": "Ymt3D -3dnchu-",
+          "description": "xToolから新型マルチマテリアルプリンター「xTool O1 Omni Printer」が発表されております！",
+          "link": "https://3dnchu.com/archives/xtool-o1-omni-printer/",
+          "publishedOn": "2026-07-06T00:07:46.000Z",
+          "wordCount": 8916,
+          "title": "xTool O1 Omni Printer | UVプリント・UV DTF・DTG・DTFの4つの機能を1台に統合した新型マルチマテリアルプリンターが登場！布から金属まで様々な素材に印刷可能！",
+          "enclosure": {
+            "url": "https://3dnchu.com/wp-content/uploads/xTool-O1-Omni-Printer.webp",
+            "length": "1336752",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://3dnchu.com/wp-content/uploads/xTool-O1-Omni-Printer.webp"
+        },
+        {
+          "id": "https://3dnchu.com/?p=1065540",
+          "author": "Ymt3D -3dnchu-",
+          "description": "Type Dream Moon氏による、独自DSL（Dream Shader Language）でマテリアルを記述することで、Unreal Engineのマテリアルやマテリアル関数、Material Layerなどを自動生成・更新可能なオープンソースプラグイン「DreamShader」のご紹介！",
+          "link": "https://3dnchu.com/archives/dreamshader/",
+          "publishedOn": "2026-07-05T23:42:52.000Z",
+          "wordCount": 8876,
+          "title": "DreamShader | Unreal Engineのマテリアルをコードで管理＆構築！専用DSLからマテリアルアセットを自動生成できるオープンソースプラグイン！",
+          "enclosure": {
+            "url": "https://3dnchu.com/wp-content/uploads/DreamShader-banner.jpg",
+            "length": "36459",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://3dnchu.com/wp-content/uploads/DreamShader-banner.jpg"
+        },
+        {
+          "id": "https://3dnchu.com/?p=1065866",
+          "author": "Ymt3D -3dnchu-",
+          "description": "Bastionsonによる、Alembicのジオメトリキャッシュデータを軽量な状態に圧縮して運用出来るUnreal Engine 5向けプラグイン「GeoStream」のご紹介！",
+          "link": "https://3dnchu.com/archives/geostream/",
+          "publishedOn": "2026-07-05T16:59:36.000Z",
+          "wordCount": 8822,
+          "title": "GeoStream | Alembicのジオメトリキャッシュデータを最適な状態に圧縮し軽量にメッシュストリーミング可能なUnreal Engine 5向けプラグイン！",
+          "enclosure": {
+            "url": "https://3dnchu.com/wp-content/uploads/GeoStream.webp",
+            "length": "426260",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://3dnchu.com/wp-content/uploads/GeoStream.webp"
+        },
+        {
+          "id": "https://3dnchu.com/?p=1066158",
+          "author": "Ymt3D -3dnchu-",
+          "description": "映画『ロード・オブ・ザ・リング』三部作で使用するために開発された群衆シミュレーションツール「Massive 101」が登場！非商用利用に限り無料でご利用いただけるようになっています！",
+          "link": "https://3dnchu.com/archives/massive-101/",
+          "publishedOn": "2026-07-05T16:35:52.000Z",
+          "wordCount": 8949,
+          "title": "Massive 101 | 映画『ロード・オブ・ザ・リング』三部作で使用するために開発された群衆シミュレーションツール！商用利用不可の無料版が登場！",
+          "enclosure": {
+            "url": "https://3dnchu.com/wp-content/uploads/massive-101.webp",
+            "length": "1248102",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://3dnchu.com/wp-content/uploads/massive-101.webp"
+        },
+        {
           "id": "https://3dnchu.com/?p=1066200",
           "author": "Ymt3D -3dnchu-",
           "description": "D.Daniel氏がDaVinci Resolve向けカラーグレーディングツール「AURORA Film Lab」を開発し販売開始しました！",
@@ -812,6 +902,26 @@
       "feedUrl": "https://cgworld.jp/atom.xml",
       "siteUrl": "https://cgworld.jp/",
       "articles": [
+        {
+          "id": "https://cgworld.jp/regular/202607-ueui-03.html",
+          "author": null,
+          "description": "",
+          "link": "https://cgworld.jp/regular/202607-ueui-03.html",
+          "publishedOn": "2026-07-06T01:24:00.000Z",
+          "wordCount": 985,
+          "title": "第3回：UIを動かそう！（2）ボタンの作成と実装 - 連載",
+          "imageUrl": "https://cgworld.jp/regular/assets_c/2026/06/b8bcdc3220001ffc1286e911bfd1b755ce710c55-thumb-1000x564-84992.jpg"
+        },
+        {
+          "id": "https://cgworld.jp/flashnews/01-202607-C4D-Rope.html",
+          "author": null,
+          "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
+          "link": "https://cgworld.jp/flashnews/01-202607-C4D-Rope.html",
+          "publishedOn": "2026-07-05T22:15:10.000Z",
+          "wordCount": 767,
+          "title": "CG Shortcuts、Cinema 4Dでダンボール箱をロープで縛る表現のチュートリアル動画を公開 - ニュース",
+          "imageUrl": "https://cgworld.jp/flashnews/assets_c/2026/07/C4D_Rope-01-thumb-1920x1080-86156.jpg"
+        },
         {
           "id": "https://cgworld.jp/flashnews/01-202607-UE58-Mocap.html",
           "author": null,
@@ -2315,16 +2425,6 @@
           "wordCount": 3079,
           "title": "BlenderにSTEPファイルを直接インポート！テッセレーションを個別調整できる「Step Importer」",
           "imageUrl": "https://modelinghappy.com/wp-content/uploads/2026/06/20260607_stepimporter_01.jpg"
-        },
-        {
-          "id": "https://modelinghappy.com/?p=68958",
-          "author": "modelinghappy",
-          "description": "３DコンセプトデザイナーのMunkhjin Otgonbayarさんが過去に作成した、パターンテクスチャをサブスタンスプレイヤーで作成出来るジェネレーターや、サブスタンスペインターで金属質感を付けれるスマートマテリアル、\nThe post Substance Playerで使える布パターンジェネレーターや金属スマートマテリアル、Sci-Fiプロップなど11種類のアセットが無料配布！ first appeared on 3DCG最新情報サイト MODELING HAPPY.",
-          "link": "https://modelinghappy.com/archives/68958",
-          "publishedOn": "2026-06-06T05:54:01.000Z",
-          "wordCount": 3078,
-          "title": "Substance Playerで使える布パターンジェネレーターや金属スマートマテリアル、Sci-Fiプロップなど11種類のアセットが無料配布！",
-          "imageUrl": "https://modelinghappy.com/wp-content/uploads/2026/06/20260606_freee_01.jpg"
         }
       ]
     },
@@ -2684,21 +2784,6 @@
             "type": "false"
           },
           "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--GGfzMy7E--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Unity%2520ShaderGraph%25E5%2582%2599%25E5%25BF%2598%25E9%258C%25B2%2520part5-Fullscreen%2520Pass%2520Renderer%2520Feature%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:ryuga.%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jS1lsU1ZRcnpMYW1lRXUzY3lqQW9JdGhFQW8wMGNhaGpLY1JnRkh0a3JYRnJRdjBlSTU9czI1MC1j%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
-        },
-        {
-          "id": "https://zenn.dev/ruccho/articles/shader-optimization",
-          "author": "ruccho",
-          "description": "以前の記事では実際のシェーダーをもとに最適化を行う例を紹介しました。\nhttps://zenn.dev/ruccho/articles/f9a58ae9a48704\n今回は GPU のアーキテクチャについて理解を深め、理屈から効果的な最適化の方法を考えてみたいと思います。\n\n GPU のアーキテクチャ\n\n 構造\nGPU は大雑把に以下のような構造をしています。\n\nGPU 全体で共有されるグローバルメモリ、それにいくつかの GPU コアが接続されています。実際のシェーダーの実行は各 GPU コアで行われます。\n\n スケジューリング\n現代の多くの GPU は「同じ命令を複数のスレッドで同時に...",
-          "link": "https://zenn.dev/ruccho/articles/shader-optimization",
-          "publishedOn": "2026-06-06T11:49:09.000Z",
-          "wordCount": 1307,
-          "title": "現代の GPU アーキテクチャとシェーダー最適化の考え方",
-          "enclosure": {
-            "url": "https://res.cloudinary.com/zenn/image/upload/s--cNnU5KyP--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E7%258F%25BE%25E4%25BB%25A3%25E3%2581%25AE%2520GPU%2520%25E3%2582%25A2%25E3%2583%25BC%25E3%2582%25AD%25E3%2583%2586%25E3%2582%25AF%25E3%2583%2581%25E3%2583%25A3%25E3%2581%25A8%25E3%2582%25B7%25E3%2582%25A7%25E3%2583%25BC%25E3%2583%2580%25E3%2583%25BC%25E6%259C%2580%25E9%2581%25A9%25E5%258C%2596%25E3%2581%25AE%25E8%2580%2583%25E3%2581%2588%25E6%2596%25B9%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:ruccho%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzgzODFiODMwMjIuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
-            "length": "0",
-            "type": "false"
-          },
-          "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--cNnU5KyP--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E7%258F%25BE%25E4%25BB%25A3%25E3%2581%25AE%2520GPU%2520%25E3%2582%25A2%25E3%2583%25BC%25E3%2582%25AD%25E3%2583%2586%25E3%2582%25AF%25E3%2583%2581%25E3%2583%25A3%25E3%2581%25A8%25E3%2582%25B7%25E3%2582%25A7%25E3%2583%25BC%25E3%2583%2580%25E3%2583%25BC%25E6%259C%2580%25E9%2581%25A9%25E5%258C%2596%25E3%2581%25AE%25E8%2580%2583%25E3%2581%2588%25E6%2596%25B9%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:ruccho%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzgzODFiODMwMjIuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
         }
       ]
     },
@@ -2729,6 +2814,21 @@
       "feedUrl": "https://zenn.dev/topics/shadergraph/feed",
       "siteUrl": "https://zenn.dev/topics/shadergraph",
       "articles": [
+        {
+          "id": "https://zenn.dev/zero_0r0/articles/3d1283ba248611",
+          "author": "ゼロ",
+          "description": "はじめに\n前回の記事（VFX Graph に入門してみたので、作りながら基礎を紐解いたりしてみる）では、Unity標準のテクスチャを使って水中の泡エフェクトを作成しました。\n今回はその続編として、「テクスチャ（画像）を一切使わず、Shader Graphの数学的な計算だけで泡を作る」というプロシージャルな表現に挑戦してみたいと思います。\n🎯 この記事のターゲット（こんな人におすすめ）\n\nShader Graphに興味はあるけど、何から始めればいいか分からない人\nノードベースで「円」や「立体感」をどう数式で作っているのか知りたいエンジニア\n専門用語（フレネル、Lerpなど）の意味を図解...",
+          "link": "https://zenn.dev/zero_0r0/articles/3d1283ba248611",
+          "publishedOn": "2026-07-05T11:35:33.000Z",
+          "wordCount": 972,
+          "title": "【Unity】Shader Graph×VFX Graph入門：テクスチャなしで「青白い泡」を作る",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--5EEDV740--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2580%2590Unity%25E3%2580%2591Shader%2520Graph%25C3%2597VFX%2520Graph%25E5%2585%25A5%25E9%2596%2580%25EF%25BC%259A%25E3%2583%2586%25E3%2582%25AF%25E3%2582%25B9%25E3%2583%2581%25E3%2583%25A3%25E3%2581%25AA%25E3%2581%2597%25E3%2581%25A7%25E3%2580%258C%25E9%259D%2592%25E7%2599%25BD%25E3%2581%2584%25E6%25B3%25A1%25E3%2580%258D%25E3%2582%2592%25E4%25BD%259C%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2582%25BC%25E3%2583%25AD%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2U5NGY3YjdiYTAuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+            "length": "0",
+            "type": "false"
+          },
+          "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--5EEDV740--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2580%2590Unity%25E3%2580%2591Shader%2520Graph%25C3%2597VFX%2520Graph%25E5%2585%25A5%25E9%2596%2580%25EF%25BC%259A%25E3%2583%2586%25E3%2582%25AF%25E3%2582%25B9%25E3%2583%2581%25E3%2583%25A3%25E3%2581%25AA%25E3%2581%2597%25E3%2581%25A7%25E3%2580%258C%25E9%259D%2592%25E7%2599%25BD%25E3%2581%2584%25E6%25B3%25A1%25E3%2580%258D%25E3%2582%2592%25E4%25BD%259C%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2582%25BC%25E3%2583%25AD%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2U5NGY3YjdiYTAuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+        },
         {
           "id": "https://zenn.dev/zn_ryg12/articles/shader-note-20260607",
           "author": "ryuga.",
@@ -2818,6 +2918,21 @@
       "feedUrl": "https://zenn.dev/topics/3dcg/feed",
       "siteUrl": "https://zenn.dev/topics/3dcg",
       "articles": [
+        {
+          "id": "https://zenn.dev/s_hashida/articles/90fdebe3a83d2c",
+          "author": "s_hashida",
+          "description": "はじめに\n前回は、\n\nRigorous Model\nRPC生成\nRFM近似\n最小二乗法\n\nについて説明しました。\n\nその中で重要だったのが、\n\nRPCはRigorous Modelを近似している\nRPCは高精度なモデルである\n利用者にはRPCだけ配布される\n\nという点です。\n\nしかしここで疑問が出てきます。\n\nRPCだけで十分なのか？\nなぜGCPを使うのか？\nなぜRPC補正が必要なのか？\n\n\n実は、RPCにはわずかな位置ずれが残ることがあります。\nそのため実務では、\nRPC補正（Bias Correction）\nが行われます。\n\n今回は、\n\nRPC補正とは何か\nなぜ位置ずれが生じる...",
+          "link": "https://zenn.dev/s_hashida/articles/90fdebe3a83d2c",
+          "publishedOn": "2026-07-05T22:01:05.000Z",
+          "wordCount": 782,
+          "title": "フォトグラメトリ数学｜38：なぜRPC補正が必要なのか ～ Bias CorrectionとAffine補正 ～",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--kFvriPQG--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%2595%25E3%2582%25A9%25E3%2583%2588%25E3%2582%25B0%25E3%2583%25A9%25E3%2583%25A1%25E3%2583%2588%25E3%2583%25AA%25E6%2595%25B0%25E5%25AD%25A6%25EF%25BD%259C38%25EF%25BC%259A%25E3%2581%25AA%25E3%2581%259CRPC%25E8%25A3%259C%25E6%25AD%25A3%25E3%2581%258C%25E5%25BF%2585%25E8%25A6%2581%25E3%2581%25AA%25E3%2581%25AE%25E3%2581%258B%2520%25EF%25BD%259E%2520Bias%2520Correction%25E3%2581%25A8Affine%25E8%25A3%259C%25E6%25AD%25A3%2520%25EF%25BD%259E%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:s_hashida%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2JmNmU5NjMzMTEuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+            "length": "0",
+            "type": "false"
+          },
+          "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--kFvriPQG--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%2595%25E3%2582%25A9%25E3%2583%2588%25E3%2582%25B0%25E3%2583%25A9%25E3%2583%25A1%25E3%2583%2588%25E3%2583%25AA%25E6%2595%25B0%25E5%25AD%25A6%25EF%25BD%259C38%25EF%25BC%259A%25E3%2581%25AA%25E3%2581%259CRPC%25E8%25A3%259C%25E6%25AD%25A3%25E3%2581%258C%25E5%25BF%2585%25E8%25A6%2581%25E3%2581%25AA%25E3%2581%25AE%25E3%2581%258B%2520%25EF%25BD%259E%2520Bias%2520Correction%25E3%2581%25A8Affine%25E8%25A3%259C%25E6%25AD%25A3%2520%25EF%25BD%259E%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:s_hashida%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2JmNmU5NjMzMTEuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+        },
         {
           "id": "https://zenn.dev/spookies/articles/031c637eac9ed2",
           "author": "スプーキーズ広報",
@@ -3120,6 +3235,16 @@
       "siteUrl": "https://qiita.com",
       "articles": [
         {
+          "id": "https://qiita.com/tsukino_/items/ac85cca9032ff089d2f9",
+          "author": null,
+          "description": "レンダリングエンジンなどでモデルを描画する際、テクスチャがマテリアルについていないと、デフォルトカラーで描画されてしまうことがあります。\n本記事では、テクスチャをBlenderで作成して、マテリアルのベースカラーに設定する方法を紹介します。\n\n使用環境\n\nBlender4....",
+          "link": "https://qiita.com/tsukino_/items/ac85cca9032ff089d2f9",
+          "publishedOn": "2026-07-05T16:34:12.000Z",
+          "wordCount": 771,
+          "title": "【Blender】マテリアルにテクスチャを貼る方法",
+          "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Ftech-festa-ogp-background-4b5015b2c518c7e6b9062a7c9f5f5e90.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYzOTQzMTQ4JTJGZGJhOTI4MmI5OWFlNGQ4NmFjYjI4MDk1NGVhNGFjYzI2ZGYyODM0ZSUyRmxhcmdlLnBuZyUzRjE3NTAxNDEwMzM_aXhsaWI9cmItNC4xLjEmYXI9MSUzQTEmZml0PWNyb3AmbWFzaz1lbGxpcHNlJmJnPUZGRkZGRiZmbT1wbmczMiZzPWU4ZGJmMzk4YjI1NDE2YmMxODUyOGE0ZWZiOWU3NjE5%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D38295f4f5e234316699e4c977f934345?ixlib=rb-4.1.1&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9JUUzJTgwJTkwQmxlbmRlciVFMyU4MCU5MSVFMyU4MyU5RSVFMyU4MyU4NiVFMyU4MyVBQSVFMyU4MiVBMiVFMyU4MyVBQiVFMyU4MSVBQiVFMyU4MyU4NiVFMyU4MiVBRiVFMyU4MiVCOSVFMyU4MyU4MSVFMyU4MyVBMyVFMyU4MiU5MiVFOCVCMiVCQyVFMyU4MiU4QiVFNiU5NiVCOSVFNiVCMyU5NSZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZ0eHQtY29sb3I9JTIzRkZGRkZGJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnR4dC1wYWQ9MCZzPThjNjc1OWM4ZWY3YTAzMDFkOGY5MjA0NjA2MjNkNjhm&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDB0c3VraW5vXyZ0eHQtY29sb3I9JTIzRkZGRkZGJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPWZlZjIzZWE5NDQ3NzFhZDc0Y2Q5YjkyZGI3MDY4OWUz&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=cd1447b48687ee9e9b3cd45ccb0686af"
+        },
+        {
           "id": "https://qiita.com/tsukino_/items/2b0317505f97047e7735",
           "author": null,
           "description": "3Dモデルを触っていると、頂点数・面数・三角数がどれくらいあるかを確認したくなる場面があると思います。\n特にゲーム開発などで軽量化を目指したい場合、頂点数はパフォーマンスに直結する数値となります。\n幸い、Blenderには、これらをリアルタイムで表示するStatistics...",
@@ -3333,16 +3458,6 @@
           "wordCount": 720,
           "title": "【PBR講座 第1回】PBRとは何か：物理ベースレンダリングの基礎概念",
           "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYzOTQzMTQ4JTJGZGJhOTI4MmI5OWFlNGQ4NmFjYjI4MDk1NGVhNGFjYzI2ZGYyODM0ZSUyRmxhcmdlLnBuZyUzRjE3NTAxNDEwMzM_aXhsaWI9cmItNC4xLjEmYXI9MSUzQTEmZml0PWNyb3AmbWFzaz1lbGxpcHNlJmJnPUZGRkZGRiZmbT1wbmczMiZzPWU4ZGJmMzk4YjI1NDE2YmMxODUyOGE0ZWZiOWU3NjE5%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D0cdf0498f9ab9bc4ec92fd97b061c8a7?ixlib=rb-4.1.1&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9JUUzJTgwJTkwUEJSJUU4JUFDJTlCJUU1JUJBJUE3JTIwJUU3JUFDJUFDMSVFNSU5QiU5RSVFMyU4MCU5MVBCUiVFMyU4MSVBOCVFMyU4MSVBRiVFNCVCRCU5NSVFMyU4MSU4QiVFRiVCQyU5QSVFNyU4OSVBOSVFNyU5MCU4NiVFMyU4MyU5OSVFMyU4MyVCQyVFMyU4MiVCOSVFMyU4MyVBQyVFMyU4MyVCMyVFMyU4MyU4MCVFMyU4MyVBQSVFMyU4MyVCMyVFMyU4MiVCMCVFMyU4MSVBRSVFNSU5RiVCQSVFNyVBNCU4RSVFNiVBNiU4MiVFNSVCRiVCNSZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnR4dC1wYWQ9MCZzPTQ0MGI3NzEwZGE5MzdkNzUyZTlmYzAyZGQ2MWNiMzA2&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDB0c3VraW5vXyZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPTRjODM5MzJmNjA1ZTE0YzNmN2RhYTIyNTYyYjQ1NTU2&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=c2fe58c9232013fef41101b2b09ada2b"
-        },
-        {
-          "id": "https://qiita.com/FujiiShintaro/items/92f01604071b29f425dc",
-          "author": null,
-          "description": "DirectX11 シャドウマップ実装 ― アニメ調の世界観で落ち影を破綻なく描く\n\n目次\n\nはじめに\n仕組みは2パスだけ\nシャドウパスの組み立て\n自己影を消す：アクネからIDマップへ\n落ち影の点滅と整数RTのブレンド\nシャドウシマリングとテクセルスナップ\n背面の扱い\n仕...",
-          "link": "https://qiita.com/FujiiShintaro/items/92f01604071b29f425dc",
-          "publishedOn": "2026-06-06T03:23:24.000Z",
-          "wordCount": 1886,
-          "title": "DirectX11 シャドウマップ実装 ― アニメ調の落ち影を破綻なく描く",
-          "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnFpaXRhLWltYWdlLXN0b3JlLnMzLmFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkYwJTJGNDIwMjc5NCUyRnByb2ZpbGUtaW1hZ2VzJTJGMTc1OTIzNzIxNj9peGxpYj1yYi00LjEuMSZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9MmRlY2U5ZTQ4MGY4NzAzNmIwMGRmNDFkYzg3OWJlNzM%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3Db8e2d3644a4cd7ee334e67e8d21ea4d4?ixlib=rb-4.1.1&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9RGlyZWN0WDExJTIwJUUzJTgyJUI3JUUzJTgzJUEzJUUzJTgzJTg5JUUzJTgyJUE2JUUzJTgzJTlFJUUzJTgzJTgzJUUzJTgzJTk3JUU1JUFFJTlGJUU4JUEzJTg1JTIwJUUyJTgwJTk1JTIwJUUzJTgyJUEyJUUzJTgzJThCJUUzJTgzJUExJUU4JUFBJUJGJUUzJTgxJUFFJUU4JTkwJUJEJUUzJTgxJUExJUU1JUJEJUIxJUUzJTgyJTkyJUU3JUEwJUI0JUU3JUI2JUJCJUUzJTgxJUFBJUUzJTgxJThGJUU2JThGJThGJUUzJTgxJThGJnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9ZmVlYWIwNjBlMjViMzA2NzJhOTI3ZjkzY2RmNGUyN2U&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBGdWppaVNoaW50YXJvJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9ZGRjZTE4OGJiOWY0MGY3N2UwMmQwZWY3OWI5N2Q0Zjk&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=a5401af7b6cec6bc8f05b6d8d3dc3016"
         }
       ]
     },

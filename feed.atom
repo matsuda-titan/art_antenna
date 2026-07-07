@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-07-07T06:36:01.800Z</updated>
+    <updated>2026-07-07T10:44:18.973Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Substance Designer / 魔法陣を作ろう]]></title>
+        <id>https://note.com/efeozi/n/n9deef5fcf2eb</id>
+        <link href="https://note.com/efeozi/n/n9deef5fcf2eb"/>
+        <updated>2026-07-07T09:39:07.000Z</updated>
+        <summary type="html"><![CDATA[続きをみる]]></summary>
+        <author>
+            <name>#SubstanceDesignerタグ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ニューロン・エイジ、モーション練習やデモリール制作に活用できるMaya用フリーリグ「NeuronAge_Rig」を無料公開 - ニュース]]></title>
+        <id>https://cgworld.jp/flashnews/2607-03-neuronage.html</id>
+        <link href="https://cgworld.jp/flashnews/2607-03-neuronage.html"/>
+        <updated>2026-07-07T06:50:45.000Z</updated>
+        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Adobe Creative Cloud Proが50%オフ！Amazonプライムデー先行セールで51,480円！]]></title>
         <id>https://modelinghappy.com/?p=67801</id>
@@ -4537,56 +4557,6 @@ Meshy、3D制作のための対話型AIエージェント「Meshy 3D Agent」ベ
 The post Mayaで不均一なトポロジーを綺麗に再構築！「faceLoopPatch – beta」公開 first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
         <author>
             <name>modelinghappy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3D生成AI「Rodin Gen-2.5」リリース　最大1,000万ポリゴンの生成が可能に、4秒100万ポリゴンの高速生成、LLM的思考プロセス搭載、12Kテクスチャ - ニュース]]></title>
-        <id>https://cgworld.jp/flashnews/01-202606-RodinGen-2.5.html</id>
-        <link href="https://cgworld.jp/flashnews/01-202606-RodinGen-2.5.html"/>
-        <updated>2026-06-07T22:17:32.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[フォトグラメトリ数学｜28：Gauss-Newton法はSLAMでどう使われるのか]]></title>
-        <id>https://zenn.dev/s_hashida/articles/af82fff32e1eb0</id>
-        <link href="https://zenn.dev/s_hashida/articles/af82fff32e1eb0"/>
-        <updated>2026-06-07T22:00:07.000Z</updated>
-        <summary type="html"><![CDATA[はじめに
-前回は、
-
-Factor Graph
-Pose Graph
-Bundle Adjustment
-SLAM
-
-の関係について説明しました。
-
-その中で重要だったのが、
-
-\min_{\mathbf{x}}
-\sum_k
-e_k(\mathbf{x})^T
-\Omega_k
-e_k(\mathbf{x})
-
-という形でした。
-
-ここで疑問が出てきます。
-
-この最適化はどう解かれるのか？
-Factorは何を計算しているのか？
-なぜヤコビアンが必要なのか？
-SLAMの内部では何が起きているのか？
-
-
-実は、Factor Graph最適化の内部では、以前説明した
-
-Gauss-Ne...]]></summary>
-        <author>
-            <name>s_hashida</name>
         </author>
     </entry>
 </feed>

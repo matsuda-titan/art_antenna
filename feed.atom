@@ -2,10 +2,75 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-07-07T14:05:17.252Z</updated>
+    <updated>2026-07-08T01:43:37.952Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[フォトグラメトリ数学｜39：オルソ補正（Orthorectification）とは何か]]></title>
+        <id>https://zenn.dev/s_hashida/articles/8d289cd38fa003</id>
+        <link href="https://zenn.dev/s_hashida/articles/8d289cd38fa003"/>
+        <updated>2026-07-07T22:29:34.000Z</updated>
+        <summary type="html"><![CDATA[はじめに
+前回は、
+
+RPC補正
+Bias Correction
+Affine補正
+GCP
+
+について説明しました。
+
+その中で重要だったのが、
+
+RPCは補正して利用する
+GCPで位置ずれを補正する
+補正後のRPCが実務で利用される
+
+という点です。
+
+しかしここで疑問が出てきます。
+
+補正したRPCは何に使うのか？
+なぜ衛星画像はそのままでは地図にならないのか？
+地図と一致した画像はどのように作られるのか？
+
+
+その答えが、
+オルソ補正（Orthorectification）
+です。
+
+今回は、
+
+オルソ補正とは何か
+なぜDEMが必要なのか
+RPCがどのように利用されるのか
+
+...]]></summary>
+        <author>
+            <name>s_hashida</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stefan Vaskevich氏、UE5に3DGSを取り込み実用的なFPSで運用するローカルパイプライン解説動画を公開　プラグイン導入から外部ツール＆生成AI活用まで - ニュース]]></title>
+        <id>https://cgworld.jp/flashnews/01-202607-UE5-3DGS.html</id>
+        <link href="https://cgworld.jp/flashnews/01-202607-UE5-3DGS.html"/>
+        <updated>2026-07-07T22:20:39.000Z</updated>
+        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sammie-Roto 2 | AIを活用し動画のマスキングやセグメンテーション＆オブジェクトの除去が可能なオープンソースツール！]]></title>
+        <id>https://3dnchu.com/?p=1066347</id>
+        <link href="https://3dnchu.com/archives/sammie-roto-2/"/>
+        <updated>2026-07-07T18:31:15.000Z</updated>
+        <summary type="html"><![CDATA[Zarxrax氏によるAIを活用し動画のマスキングやセグメンテーション＆オブジェクトの除去が可能なオープンソースツール「Sammie-Roto 2」のご紹介！]]></summary>
+        <author>
+            <name>Ymt3D -3dnchu-</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Substance Designer / 魔法陣を作ろう]]></title>
         <id>https://note.com/efeozi/n/n9deef5fcf2eb</id>
@@ -4418,122 +4483,6 @@ OpenUSD最新アップデートを紹介、3D Gaussian Splatting対応と実稼�
         <updated>2026-06-08T15:17:36.000Z</updated>
         <summary type="html"><![CDATA[SideFX社より、次期メジャーアップデートとなる「Houdini 22」のSneak Peek（先行公開）動画が公開されました。 映像内では、シミュレーション、モデリング、コンポジット、そして近年注目を集めるGauss […]
 Houdini 22 Sneak Peek が公開！注目の新機能リストを紹介 first appeared on CGinterest.]]></summary>
-        <author>
-            <name>.me</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[地面と自然になじませる！設置面の「法線ブレンド」完全解説]]></title>
-        <id>https://tech-art.online/?p=2020</id>
-        <link href="https://tech-art.online/houdini-blend-groundnormal/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=houdini-blend-groundnormal"/>
-        <updated>2026-06-08T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Houdiniを使って、配置したオブジェクトと地面の接触部分を自然になじませる「法線ブレンド」の手法について解説します。 Rayノードを用いた地面の情 […]
-続きを読む
-地面と自然になじませる！設置面の「法線ブレンド」完全解説 first appeared on TECH ART ONLINE.]]></summary>
-        <author>
-            <name>管理人</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[地面と自然になじませる！設置面の「法線ブレンド」完全解説]]></title>
-        <id>https://tech-art.online/?p=2020</id>
-        <link href="https://tech-art.online/%e5%9c%b0%e9%9d%a2%e3%81%a8%e8%87%aa%e7%84%b6%e3%81%ab%e3%81%aa%e3%81%98%e3%81%be%e3%81%9b%e3%82%8b%ef%bc%81%e8%a8%ad%e7%bd%ae%e9%9d%a2%e3%81%ae%e3%80%8c%e6%b3%95%e7%b7%9a%e3%83%96%e3%83%ac%e3%83%b3/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=%25e5%259c%25b0%25e9%259d%25a2%25e3%2581%25a8%25e8%2587%25aa%25e7%2584%25b6%25e3%2581%25ab%25e3%2581%25aa%25e3%2581%2598%25e3%2581%25be%25e3%2581%259b%25e3%2582%258b%25ef%25bc%2581%25e8%25a8%25ad%25e7%25bd%25ae%25e9%259d%25a2%25e3%2581%25ae%25e3%2580%258c%25e6%25b3%2595%25e7%25b7%259a%25e3%2583%2596%25e3%2583%25ac%25e3%2583%25b3"/>
-        <updated>2026-06-08T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Houdiniを使って、配置したオブジェクトと地面の接触部分を自然になじませる「法線ブレンド」の手法について解説します。 Rayノードを用いた地面の情 […]
-続きを読む
-地面と自然になじませる！設置面の「法線ブレンド」完全解説 first appeared on TECH ART ONLINE.]]></summary>
-        <author>
-            <name>管理人</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Robloxの「モーフ」は本当に形が変わっているのか？]]></title>
-        <id>https://zenn.dev/haruka_apps/articles/651ebc89eeb42a</id>
-        <link href="https://zenn.dev/haruka_apps/articles/651ebc89eeb42a"/>
-        <updated>2026-06-08T09:55:59.000Z</updated>
-        <summary type="html"><![CDATA[はじめに
-Robloxで「モーフ」と聞くと、床やポータルに触れた瞬間に別のキャラクターへ変身する仕組みを思い浮かべる人が多いと思います。
-実際、ゲームとしてはそれで十分なことが多いです。魔法使いになったり、モンスターになったり、見た目が変われば「変身した」と感じられます。
-でも、ふと疑問が出ました。
-
-それは本当に「形が変わっている」のか？
-
-この記事では、Roblox StudioとBlenderを使い、Robloxのメッシュ編集APIである EditableMesh で頂点情報を確認しながら、魔法使いアバターからキメラ風モデルへの変身を試しました。
-今回の検証範囲でいうと、Rob...]]></summary>
-        <author>
-            <name>haruka_apps</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【Houdini】TextureVEXを使った.tgaのPremultiplyについて]]></title>
-        <id>https://zenn.dev/yuzutarou/articles/d3c2d6044df81c</id>
-        <link href="https://zenn.dev/yuzutarou/articles/d3c2d6044df81c"/>
-        <updated>2026-06-08T07:59:53.000Z</updated>
-        <summary type="html"><![CDATA[調べたこと
-ゲームにおいて、RGBAにそれぞれRoughness、Metallicなどのfloatカラーを格納して「.tga」を活用するケースがあると思う。しかしtgaをTexture VEXで読み込むとAlpha部分のカラーが以下のように失われてしまうケースがある。
-SideFX社に問い合わせしたところ教えて頂いたのでそれを防ぐための方法について記載。
-
-サンプルファイル：texture_vex.hiplc
-https://github.com/yuzutarou-maru/Houdini_Sample/tree/main/houdini/Vex
-
- Houdiniバージョン
-Ho...]]></summary>
-        <author>
-            <name>ゆずたろう</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[freee、経営×バックオフィス×AIの祭典「freee 統合ワールド」6/16（火）東京にて開催－『KILLTUBE』太田氏×栗林氏も登壇 - ニュース]]></title>
-        <id>https://cgworld.jp/flashnews/02-2606-freee.html</id>
-        <link href="https://cgworld.jp/flashnews/02-2606-freee.html"/>
-        <updated>2026-06-08T06:15:00.000Z</updated>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【PBR講座 第2回】5つの基本パラメータを理解する]]></title>
-        <id>https://qiita.com/tsukino_/items/d89d9ecaf04512cc70f6</id>
-        <link href="https://qiita.com/tsukino_/items/d89d9ecaf04512cc70f6"/>
-        <updated>2026-06-08T05:24:57.000Z</updated>
-        <summary type="html"><![CDATA[PBRでリアルな質感を作る際に、最初に理解すべきものとして、どんな情報を扱うのかという点です。
-PBRでは、基本となる5つのパラメータを理解するだけで、水や髪などの例外を除き、ほとんどの物体の質感を表現することができます。
-PBRの解説では、初めから複雑な式やコードが使われ...]]></summary>
-        <author>
-            <name>Shaderタグが付けられた新着記事 - Qiita</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【PBR講座 第2回】5つの基本パラメータを理解する]]></title>
-        <id>https://qiita.com/tsukino_/items/d89d9ecaf04512cc70f6</id>
-        <link href="https://qiita.com/tsukino_/items/d89d9ecaf04512cc70f6"/>
-        <updated>2026-06-08T05:24:57.000Z</updated>
-        <summary type="html"><![CDATA[PBRでリアルな質感を作る際に、最初に理解すべきものとして、どんな情報を扱うのかという点です。
-PBRでは、基本となる5つのパラメータを理解するだけで、水や髪などの例外を除き、ほとんどの物体の質感を表現することができます。
-PBRの解説では、初めから複雑な式やコードが使われ...]]></summary>
-        <author>
-            <name>CGタグが付けられた新着記事 - Qiita</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【PBR講座 第2回】5つの基本パラメータを理解する]]></title>
-        <id>https://qiita.com/tsukino_/items/d89d9ecaf04512cc70f6</id>
-        <link href="https://qiita.com/tsukino_/items/d89d9ecaf04512cc70f6"/>
-        <updated>2026-06-08T05:24:57.000Z</updated>
-        <summary type="html"><![CDATA[PBRでリアルな質感を作る際に、最初に理解すべきものとして、どんな情報を扱うのかという点です。
-PBRでは、基本となる5つのパラメータを理解するだけで、水や髪などの例外を除き、ほとんどの物体の質感を表現することができます。
-PBRの解説では、初めから複雑な式やコードが使われ...]]></summary>
-        <author>
-            <name>HLSLタグが付けられた新着記事 - Qiita</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meshy、3D制作のための対話型AIエージェント「Meshy 3D Agent」ベータ版を発表]]></title>
-        <id>https://cginterest.com/?p=59518</id>
-        <link href="https://cginterest.com/2026/06/08/meshy%e3%80%813d%e5%88%b6%e4%bd%9c%e3%81%ae%e3%81%9f%e3%82%81%e3%81%ae%e5%af%be%e8%a9%b1%e5%9e%8bai%e3%82%a8%e3%83%bc%e3%82%b8%e3%82%a7%e3%83%b3%e3%83%88%e3%80%8cmeshy-3d-agent%e3%80%8d%e3%83%99/"/>
-        <updated>2026-06-08T03:18:15.000Z</updated>
-        <summary type="html"><![CDATA[2026年6月4日（現地時間）-Meshyは、世界初となる3D制作のための対話型AIエージェントとして「Meshy 3D Agent」ベータ版を発表しました。 Meshy 3D Agentとは Meshy 3D Agen […]
-Meshy、3D制作のための対話型AIエージェント「Meshy 3D Agent」ベータ版を発表 first appeared on CGinterest.]]></summary>
         <author>
             <name>.me</name>
         </author>

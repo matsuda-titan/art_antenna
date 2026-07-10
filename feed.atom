@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-07-10T01:53:31.987Z</updated>
+    <updated>2026-07-10T06:32:27.301Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【人間とテクノロジーの境界を溶かす】Diver-Xが「ContactGlove 3」を発表、「Melt Interface Technologies」へ社名変更。同社が描くビジョンとは？ - 特集]]></title>
+        <id>https://cgworld.jp/article/2607-ContactGlove3.html</id>
+        <link href="https://cgworld.jp/article/2607-ContactGlove3.html"/>
+        <updated>2026-07-10T03:50:15.000Z</updated>
+        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RealityScan 2.2公開ーAMD GPUをサポート　NVIDIA GPUとの混在環境にも対応 - ニュース]]></title>
+        <id>https://cgworld.jp/flashnews/2607-03-realityscan.html</id>
+        <link href="https://cgworld.jp/flashnews/2607-03-realityscan.html"/>
+        <updated>2026-07-10T03:48:00.000Z</updated>
+        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Cygamesが手がけるハイエンドコンシューマータイトル『Project Awakening』&amp;プリレンダーフルCG映像制作の開発状況に迫る！　&quot;最高のコンテンツを作る&quot;仲間を募集中 - スペシャルコンテンツ]]></title>
         <id>https://cgworld.jp/special-feature/202607-cygames.html</id>
@@ -4379,66 +4399,6 @@ The post Blender・Maya対応！コントローラー選択を効率化するツ
 Procreate 5.4.11 がリリース！アクティブレイヤー限定スポイトや複数レイヤーの一括操作に対応 first appeared on CGinterest.]]></summary>
         <author>
             <name>.me</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Substance Designer / Tile generatorについて]]></title>
-        <id>https://note.com/efeozi/n/nd06756d4a883</id>
-        <link href="https://note.com/efeozi/n/nd06756d4a883"/>
-        <updated>2026-06-10T14:05:49.000Z</updated>
-        <summary type="html"><![CDATA[🔶作成データ
-Substance Designer 2026で作成
-       検証ver2026_TileGeneratorでSci-Fi板タイリング.sbs 62.5 KB  ファイルダウンロードについて      ダウンロード      
-続きをみる]]></summary>
-        <author>
-            <name>#SubstanceDesignerタグ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Substance Designer / Grid atlasについて]]></title>
-        <id>https://note.com/efeozi/n/n3fbb898c8f59</id>
-        <link href="https://note.com/efeozi/n/n3fbb898c8f59"/>
-        <updated>2026-06-10T14:03:08.000Z</updated>
-        <summary type="html"><![CDATA[続きをみる]]></summary>
-        <author>
-            <name>#SubstanceDesignerタグ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Substance Designer / Edge detectについて]]></title>
-        <id>https://note.com/efeozi/n/n1f3581d63741</id>
-        <link href="https://note.com/efeozi/n/n1f3581d63741"/>
-        <updated>2026-06-10T14:00:26.000Z</updated>
-        <summary type="html"><![CDATA[🔶作成データ
-Substance Designer 2026で作成
-       検証ver2026_EdgeDetect.sbs 99.1 KB  ファイルダウンロードについて      ダウンロード      
-続きをみる]]></summary>
-        <author>
-            <name>#SubstanceDesignerタグ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[入門者Houdini勉強譚その3]]></title>
-        <id>https://zenn.dev/mattya3713/articles/581c59f539db0e</id>
-        <link href="https://zenn.dev/mattya3713/articles/581c59f539db0e"/>
-        <updated>2026-06-10T13:59:13.000Z</updated>
-        <summary type="html"><![CDATA[※本記事はHoudini入門者が、書籍「理論と実践で学ぶHoudini」に基づいて学習した内容を整理したメモです。
-実際の操作・解釈は筆者の理解に基づいて再構成しているため、表現や解釈に一部簡略化・独自整理を含みます。
-正確性は一切ないのでご注意ください。
-
- 実際に作ってみよう
-パスを設定し、モデルを作成
-急須モデルに法線アトリビュートを設定
-急須の向きをZに合わせ、球のポイントにCopyToPoint
-
-おぉ～たのしい
-PackAndInstanceでパックされ1つのポイントとして扱えるようになるらしい
-処理速度早くなり
-メモリ消費量が減る
-
-ティーポット底辺を起点に設置するかつ大き...]]></summary>
-        <author>
-            <name>mattya3713</name>
         </author>
     </entry>
 </feed>

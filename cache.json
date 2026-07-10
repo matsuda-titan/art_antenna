@@ -180,21 +180,6 @@
             "type": "video/mp4"
           },
           "imageUrl": "https://cgbox.jp/wp-content/uploads/2022/05/cropped-favicon.png"
-        },
-        {
-          "id": "https://cgbox.jp/?p=65391",
-          "author": "kasahara",
-          "description": "こんばんは！ 今回はアドオンの「Dimensions in Edit Mode」を紹介します。 こちらのリンクがアドオンの商品ページになります。 Dimensions in Edit Mode 「Dimensions i […]",
-          "link": "https://cgbox.jp/2026/06/10/news-addon-dimensions-in-edit-mode/",
-          "publishedOn": "2026-06-10T03:05:27.000Z",
-          "wordCount": 1964,
-          "title": "【無料アドオン】Dimensions in Edit Mode – 編集モードで正確な寸法！",
-          "enclosure": {
-            "url": "https://cgbox.jp/wp-content/uploads/2026/06/sasdsadw-26.mp4",
-            "length": "0",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://cgbox.jp/wp-content/uploads/2022/05/cropped-favicon.png"
         }
       ]
     },
@@ -240,6 +225,36 @@
       "feedUrl": "https://3dnchu.com/feed/",
       "siteUrl": "https://3dnchu.com",
       "articles": [
+        {
+          "id": "https://3dnchu.com/?p=1066433",
+          "author": "Ymt3D -3dnchu-",
+          "description": "数多くの便利Blenderアドオンを公開しているCasey_Sheep氏による、雲生成アドオン「Cloud Paint V2- Stylized Cloud Generator」がリリースされています！",
+          "link": "https://3dnchu.com/archives/cloud-paint-v2/",
+          "publishedOn": "2026-07-09T19:39:02.000Z",
+          "wordCount": 8860,
+          "title": "Cloud Paint V2- Stylized Cloud Generator | 直感的に美しいStylized雲を作成できるBlender用アドオン！新たな雲生成機能が搭載されたアップデートが公開！",
+          "enclosure": {
+            "url": "https://3dnchu.com/wp-content/uploads/Cloud-Paint-V2.webp",
+            "length": "1242144",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://3dnchu.com/wp-content/uploads/Cloud-Paint-V2.webp"
+        },
+        {
+          "id": "https://3dnchu.com/?p=1066418",
+          "author": "Ymt3D -3dnchu-",
+          "description": "ブラウザ上で動作するリアルタイムPBRテクスチャリングツール「Mixos」が公開！WebGPUを利用しているためソフトウェアのインストール不要で、本格的な3Dテクスチャペイントやマテリアル制作をブラウザだけで行えるのが特徴です。",
+          "link": "https://3dnchu.com/archives/mixos/",
+          "publishedOn": "2026-07-09T19:20:36.000Z",
+          "wordCount": 8843,
+          "title": "Mixos | ブラウザだけで本格的なPBRテクスチャ制作！WebGPU対応の無料3Dテクスチャペイント＆マテリアル合成＆AIテクスチャ生成ツール！",
+          "enclosure": {
+            "url": "https://3dnchu.com/wp-content/uploads/mixos.webp",
+            "length": "1210852",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://3dnchu.com/wp-content/uploads/mixos.webp"
+        },
         {
           "id": "https://3dnchu.com/?p=1066387",
           "author": "Ymt3D -3dnchu-",
@@ -892,6 +907,46 @@
       "feedUrl": "https://cgworld.jp/atom.xml",
       "siteUrl": "https://cgworld.jp/",
       "articles": [
+        {
+          "id": "https://cgworld.jp/special-feature/202607-cygames.html",
+          "author": null,
+          "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
+          "link": "https://cgworld.jp/special-feature/202607-cygames.html",
+          "publishedOn": "2026-07-10T01:00:00.000Z",
+          "wordCount": 615,
+          "title": "Cygamesが手がけるハイエンドコンシューマータイトル『Project Awakening』&amp;プリレンダーフルCG映像制作の開発状況に迫る！　&quot;最高のコンテンツを作る&quot;仲間を募集中 - スペシャルコンテンツ",
+          "imageUrl": "https://cgworld.jp/special-feature/assets_c/2026/06/05-thumb-1000x563-84701.jpg"
+        },
+        {
+          "id": "https://cgworld.jp/regular/202607-cgw336-book.html",
+          "author": null,
+          "description": "",
+          "link": "https://cgworld.jp/regular/202607-cgw336-book.html",
+          "publishedOn": "2026-07-10T00:55:00.000Z",
+          "wordCount": 792,
+          "title": "#21：これからの映像制作の必須知識!!　『バーチャルプロダクションの教科書』 - 連載",
+          "imageUrl": "https://cgworld.jp/regular/assets_c/2026/07/book_of_the_month_202607-thumb-1000x563-86252.jpg"
+        },
+        {
+          "id": "https://cgworld.jp/flashnews/01-202607-Houdini-Troll2.html",
+          "author": null,
+          "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
+          "link": "https://cgworld.jp/flashnews/01-202607-Houdini-Troll2.html",
+          "publishedOn": "2026-07-10T00:46:55.000Z",
+          "wordCount": 815,
+          "title": "SideFX、Houdiniによる『トロール2』メイキング動画を公開　Vellumを用いた心臓表現、RBDによる建物の破壊、KineFX活用の樹木制御など - ニュース",
+          "imageUrl": "https://cgworld.jp/flashnews/assets_c/2026/07/Houdini_Troll2-01-thumb-1920x1080-86386.jpg"
+        },
+        {
+          "id": "https://cgworld.jp/flashnews/cgworld-336-present.html",
+          "author": null,
+          "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
+          "link": "https://cgworld.jp/flashnews/cgworld-336-present.html",
+          "publishedOn": "2026-07-10T00:24:18.000Z",
+          "wordCount": 837,
+          "title": "CGWORLD28周年記念 特大プレゼント企画 - ニュース",
+          "imageUrl": "https://cgworld.jp/flashnews/assets_c/2026/07/336_present-thumb-1920x1080-86250-thumb-1920x1080-86339.jpg"
+        },
         {
           "id": "https://cgworld.jp/flashnews/2607-03-nuke.html",
           "author": null,
@@ -2051,16 +2106,6 @@
           "wordCount": 814,
           "title": "SideFX、Houdiniによる3DGSを用いたワールドビルディングのチュートリアル動画公開　 FMX HIVE 2026でのLebrov Motion Imageryの講演 - ニュース",
           "imageUrl": "https://cgworld.jp/flashnews/assets_c/2026/06/Houdini_3DGS-01-thumb-1920x1080-84766.jpg"
-        },
-        {
-          "id": "https://cgworld.jp/flashnews/02-2606-blackmagicdesign.html",
-          "author": null,
-          "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
-          "link": "https://cgworld.jp/flashnews/02-2606-blackmagicdesign.html",
-          "publishedOn": "2026-06-10T09:00:56.000Z",
-          "wordCount": 769,
-          "title": "Blackmagic Design、「DaVinci Resolve 21」の正式リリースを発表。フォトページや新AI機能など多数の新機能を搭載 - ニュース",
-          "imageUrl": "https://cgworld.jp/flashnews/assets_c/2026/06/1-davinci-resolve-21%402x-thumb-1000x563-84622.jpg"
         }
       ]
     },
@@ -2118,16 +2163,6 @@
           "wordCount": 593,
           "title": "【UE5】PCG入門その2（エレメントについて）",
           "imageUrl": "https://cdn.image.st-hatena.com/image/scale/ef987f0b501c8b642f41e1ebfe02d7c59d779183/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fs%2Fspark-shimono-ryota%2F20260707%2F20260707101147.png"
-        },
-        {
-          "id": "https://tech.spark-creative.co.jp/entry/2026/06/10/160444",
-          "author": null,
-          "description": "はじめに 前提 PCG(Procedural Content Generation Framework) 記事一覧 PCG始動 草を生やそう PCG原理 サンプリング デバッグ メッシュの生成 点の中身について プロパティ アトリビュート グラフパラメータについて 余談 終わり はじめに こんにちは、クライアントエンジニアの下野です。 今回から何回かに分けて、PCGについて解説とかいろいろをやっていきます。 前提 エンジンのバージョンは5.7です。バージョンによっては処理が変わったりするので完全に処理を一致させても動かない場合があります。 PCGはUE5.7になってBetaからProducti…",
-          "link": "https://tech.spark-creative.co.jp/entry/2026/06/10/160444",
-          "publishedOn": "2026-06-10T07:04:44.000Z",
-          "wordCount": 577,
-          "title": "【UE5】PCG入門その1（PCGグラフの使い方）",
-          "imageUrl": "https://cdn.image.st-hatena.com/image/scale/d7947267c3162551e855edf40b2549f3d229db5f/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fs%2Fspark-shimono-ryota%2F20260608%2F20260608101230.png"
         }
       ]
     },
@@ -2475,26 +2510,6 @@
           "wordCount": 3119,
           "title": "Blender・Maya対応！コントローラー選択を効率化するツール「BGEN Picker」",
           "imageUrl": "https://modelinghappy.com/wp-content/uploads/2026/06/20260611_benpicker_01.jpg"
-        },
-        {
-          "id": "https://modelinghappy.com/?p=68995",
-          "author": "modelinghappy",
-          "description": "Poly Stamp #8211; Stamp Assets Onto Selected Faces! (Kit Included) Poly Stampは、選択した面に合わせてアセットライブラリに登録されてるモデルを\nThe post Blenderでアセットをスタンプ配置！選択フェースに素材を自動フィットさせるアドオン「Poly Stamp」 first appeared on 3DCG最新情報サイト MODELING HAPPY.",
-          "link": "https://modelinghappy.com/archives/68995",
-          "publishedOn": "2026-06-10T12:17:44.000Z",
-          "wordCount": 3079,
-          "title": "Blenderでアセットをスタンプ配置！選択フェースに素材を自動フィットさせるアドオン「Poly Stamp」",
-          "imageUrl": "https://modelinghappy.com/wp-content/uploads/2026/06/20260610_Poly_Stamp_01.jpg"
-        },
-        {
-          "id": "https://modelinghappy.com/?p=68987",
-          "author": "modelinghappy",
-          "description": "Cursor X-Ray Cursor X-Rayは、Blenderでマウスカーソル周辺だけにX-Rayの透明表示を行えるBlenderアドオンです。 通常のビューポート全体を透過表示にするのではなく、カーソル周辺のみを\nThe post Blenderでカーソル周辺だけをX-Ray表示！内部構造の確認が快適になるアドオン「Cursor X-Ray」 first appeared on 3DCG最新情報サイト MODELING HAPPY.",
-          "link": "https://modelinghappy.com/archives/68987",
-          "publishedOn": "2026-06-10T11:57:46.000Z",
-          "wordCount": 3072,
-          "title": "Blenderでカーソル周辺だけをX-Ray表示！内部構造の確認が快適になるアドオン「Cursor X-Ray」",
-          "imageUrl": "https://modelinghappy.com/wp-content/uploads/2026/06/20260610_Cursor_X_Ray_01.jpg"
         }
       ]
     },
@@ -2732,26 +2747,6 @@
           "wordCount": 509,
           "title": "ラジエーター・スプリングスで ひと休み。映画『カーズ』公開20周年アンビエント映像「Sunset to Sunrise Ambiance」",
           "imageUrl": "https://3dtotal.jp/wp-content/uploads/2026/06/cars_20thani_anbience.jpg"
-        },
-        {
-          "id": "https://3dtotal.jp/?p=55764",
-          "author": "3dtotal管理人T",
-          "description": "★Oceans | Océans — Rodeo FX（57秒） 凪いでいるか、荒れているか、広大な海は、まだ解き明かされていない秘密を秘めています。「世界海洋デー」(6/8)に合わせ、ここ数年にわたる Rodeo FX […]\nThe post CG・特殊効果の海。Rodeo FX のオーシャンリール first appeared on 3dtotal 日本語オフィシャルサイト.",
-          "link": "https://3dtotal.jp/news/55764/",
-          "publishedOn": "2026-06-10T04:49:36.000Z",
-          "wordCount": 508,
-          "title": "CG・特殊効果の海。Rodeo FX のオーシャンリール",
-          "imageUrl": "https://3dtotal.jp/wp-content/uploads/2026/06/rodeo_ocean.jpg"
-        },
-        {
-          "id": "https://3dtotal.jp/?p=55760",
-          "author": "3dtotal管理人T",
-          "description": "★Behind Deadpool: 10 Year Anniversary | Digital Domain（3分58秒） 10年を経て、映画『デッドプール』の制作舞台裏に迫ります。 エンバイロメント スーパーバイザー  […]\nThe post 公開10周年!? エンバイロメント スーパーバイザーが語る 映画『デッドプール』の舞台裏 first appeared on 3dtotal 日本語オフィシャルサイト.",
-          "link": "https://3dtotal.jp/news/55760/",
-          "publishedOn": "2026-06-10T04:44:24.000Z",
-          "wordCount": 504,
-          "title": "公開10周年!? エンバイロメント スーパーバイザーが語る 映画『デッドプール』の舞台裏",
-          "imageUrl": "https://3dtotal.jp/wp-content/uploads/2026/06/deadpool_10thani.jpg"
         }
       ]
     },
@@ -2900,21 +2895,6 @@
             "type": "false"
           },
           "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--ZGWF_ZaP--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E5%2585%25A5%25E9%2596%2580%25E8%2580%2585Houdini%25E5%258B%2589%25E5%25BC%25B7%25E8%25AD%259A%25E3%2581%259D%25E3%2581%25AE3%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:mattya3713%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2ViZGY2ZDk2NTEuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
-        },
-        {
-          "id": "https://zenn.dev/kickbase/articles/28adb7194178b8",
-          "author": "めんたいこ",
-          "description": "ノードカラーを変更した後、元の色に戻したくなる時ないですか？\n皆さんはプロジェクトによって入出力や参照元のノードなどに色をつける運用などをされていると思います。ジオメトリは黄色、ボリュームは緑、対になる処理には青…など様々なルールがあるかと思います。\n一度色を付けて作業を進めて、「やっぱりこのノードの色を元に戻したいな～」と思うことありません？\n僕はあります。\nしかしそこでちょっとした問題が起こります。皆さんご存知の通り、各ノードはデフォルトで微妙に色が付いてるんですね。\n\nそしてこの色はカラーパレットには存在していません。ノードカラーを変更すると、元に戻すのが少々めんどくさいです...",
-          "link": "https://zenn.dev/kickbase/articles/28adb7194178b8",
-          "publishedOn": "2026-06-10T10:00:08.000Z",
-          "wordCount": 534,
-          "title": "Houdini: デフォルトカラーに戻したくない？（右クリックメニューを添えて）",
-          "enclosure": {
-            "url": "https://res.cloudinary.com/zenn/image/upload/s--WtlkgfAC--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Houdini%253A%2520%25E3%2583%2587%25E3%2583%2595%25E3%2582%25A9%25E3%2583%25AB%25E3%2583%2588%25E3%2582%25AB%25E3%2583%25A9%25E3%2583%25BC%25E3%2581%25AB%25E6%2588%25BB%25E3%2581%2597%25E3%2581%259F%25E3%2581%258F%25E3%2581%25AA%25E3%2581%2584%25EF%25BC%259F%25EF%25BC%2588%25E5%258F%25B3%25E3%2582%25AF%25E3%2583%25AA%25E3%2583%2583%25E3%2582%25AF%25E3%2583%25A1%25E3%2583%258B%25E3%2583%25A5%25E3%2583%25BC%25E3%2582%2592%25E6%25B7%25BB%25E3%2581%2588%25E3%2581%25A6%25EF%25BC%2589%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2582%2581%25E3%2582%2593%25E3%2581%259F%25E3%2581%2584%25E3%2581%2593%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2pvTlNrRXEtOVdEUlNaa2dKcFBxeFlFZGpZTm5TcGl3SzFUeXZOPXMyNTAtYw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
-            "length": "0",
-            "type": "false"
-          },
-          "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--WtlkgfAC--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Houdini%253A%2520%25E3%2583%2587%25E3%2583%2595%25E3%2582%25A9%25E3%2583%25AB%25E3%2583%2588%25E3%2582%25AB%25E3%2583%25A9%25E3%2583%25BC%25E3%2581%25AB%25E6%2588%25BB%25E3%2581%2597%25E3%2581%259F%25E3%2581%258F%25E3%2581%25AA%25E3%2581%2584%25EF%25BC%259F%25EF%25BC%2588%25E5%258F%25B3%25E3%2582%25AF%25E3%2583%25AA%25E3%2583%2583%25E3%2582%25AF%25E3%2583%25A1%25E3%2583%258B%25E3%2583%25A5%25E3%2583%25BC%25E3%2582%2592%25E6%25B7%25BB%25E3%2581%2588%25E3%2581%25A6%25EF%25BC%2589%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2582%2581%25E3%2582%2593%25E3%2581%259F%25E3%2581%2584%25E3%2581%2593%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2pvTlNrRXEtOVdEUlNaa2dKcFBxeFlFZGpZTm5TcGl3SzFUeXZOPXMyNTAtYw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
         }
       ]
     },
@@ -3293,16 +3273,6 @@
           "wordCount": 1874,
           "title": "ローカル3D生成の覇権交代？Hunyuan3Dを諦めてMicrosoftの「Trellis.2 4B」に乗り換えた話",
           "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnFpaXRhLWltYWdlLXN0b3JlLnMzLmFtYXpvbmF3cy5jb20lMkYwJTJGOTkwMDclMkZwcm9maWxlLWltYWdlcyUyRjE0NzM3MDc2NzE_aXhsaWI9cmItNC4xLjEmYXI9MSUzQTEmZml0PWNyb3AmbWFzaz1lbGxpcHNlJmJnPUZGRkZGRiZmbT1wbmczMiZzPTJkYzYwY2U3YjgyZmNhNTJmYWQ2ZDY0NzUyODY5MzU0%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D32f65dfa3f52a285f1695d4b36b12ae8?ixlib=rb-4.1.1&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9JUUzJTgzJUFEJUUzJTgzJUJDJUUzJTgyJUFCJUUzJTgzJUFCM0QlRTclOTQlOUYlRTYlODglOTAlRTMlODElQUUlRTglQTYlODclRTYlQTglQTklRTQlQkElQTQlRTQlQkIlQTMlRUYlQkMlOUZIdW55dWFuM0QlRTMlODIlOTIlRTglQUIlQTYlRTMlODIlODElRTMlODElQTZNaWNyb3NvZnQlRTMlODElQUUlRTMlODAlOENUcmVsbGlzLjIlMjA0QiVFMyU4MCU4RCVFMyU4MSVBQiVFNCVCOSU5NyVFMyU4MiU4QSVFNiU4RiU5QiVFMyU4MSU4OCVFMyU4MSU5RiVFOCVBOSVCMSZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnR4dC1wYWQ9MCZzPWE4OTdhMTQwYjc0ZDljNTYyMWNjOTA3MDc0N2Y0OWIy&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDByb3JpcGlrYSZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPTQ3MGJkZjBhMDVhMmUwYTYwMjE2NDg5YzlmNzc5Zjll&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=b09a8a59751bd8b9aafe930e6b03d169"
-        },
-        {
-          "id": "https://qiita.com/matumu20/items/55f68dcedbfe2aa38a79",
-          "author": null,
-          "description": "SkinTokens: A Learned Compact Representation for Unified Autoregressive Rigging ( Tsinghua University & VAST, 2026)\n\n    \nSkinTokens: A ...",
-          "link": "https://qiita.com/matumu20/items/55f68dcedbfe2aa38a79",
-          "publishedOn": "2026-06-10T05:14:47.000Z",
-          "wordCount": 1304,
-          "title": "SkinTokens: A Learned Compact Representation for Unified Autoregressive Rigging (2026)",
-          "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Ftech-festa-ogp-background-4b5015b2c518c7e6b9062a7c9f5f5e90.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYyOTgxNjYwJTJGOTViNDExMjY5MmU5NDc5M2U2NTY5ODQ5MzdmM2I4ZjliMmE3MDc2YSUyRmxhcmdlLnBuZyUzRjE2Njg2MDM2MDk_aXhsaWI9cmItNC4xLjEmYXI9MSUzQTEmZml0PWNyb3AmbWFzaz1lbGxpcHNlJmJnPUZGRkZGRiZmbT1wbmczMiZzPWE1ZTgxNGYzYWQ2OTFjZmM4MWVmYjBlODkwMzg4NjNk%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D41ed359c4ed4d209bd1e1dfa43f93f41?ixlib=rb-4.1.1&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9U2tpblRva2VucyUzQSUyMEElMjBMZWFybmVkJTIwQ29tcGFjdCUyMFJlcHJlc2VudGF0aW9uJTIwZm9yJTIwVW5pZmllZCUyMEF1dG9yZWdyZXNzaXZlJTIwUmlnZ2luZyUyMCUyODIwMjYlMjklMjAmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyM0ZGRkZGRiZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz02ZmVjMWRmZjczZDkzYjAyNzgxODM1ZGIxNTQ0MWFjNg&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBtYXR1bXUyMCZ0eHQtY29sb3I9JTIzRkZGRkZGJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPThiZjIzYWY4MDJlNmRiZmUzNDA5NTg0OTNhM2YxNTEz&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=6f0e8203f1ab85f2792a57fec6bd0534"
         }
       ]
     },
@@ -3699,16 +3669,6 @@
           "wordCount": 3201,
           "title": "60分で作ったラピュタパンをブラッシュアップする",
           "imageUrl": "https://assets.st-note.com/production/uploads/images/285354869/rectangle_large_type_2_bc343f51b92fdb7c592dfa2c93f4dd66.png?width=800"
-        },
-        {
-          "id": "https://note.bassdrum.org/n/n63c126972fe0",
-          "author": null,
-          "description": "テクニカルディレクターやプログラマーが集う組織 BASSDRUM。そこに集まるメンバーは、それぞれが独自の専門性とバックグラウンドを持った個のクリエイターでもあります。\n2022年にBASSDRUMへ参画した吉井正宣さんは、多種多様なプロジェクトに携わり、領域やポジションを横断するジェネラリストとしての側面と、リアルタイムレンダリングのグラフィクスなどの専門性をもったスペシャリストとしての側面をあわせもつメンバーです。\n制作会社にてエンジニア部門とR&D部門のマネージャーを務め、独立、そしてBASSDRUMへの参画。領域の「選択と集中」を行ってきた吉井さんの現在地について、お話を伺いました。\n\n\n続きをみる",
-          "link": "https://note.bassdrum.org/n/n63c126972fe0",
-          "publishedOn": "2026-06-10T03:00:00.000Z",
-          "wordCount": 2475,
-          "title": "ジェネラリストでありつつ、リアルタイムCGの専門性も持つ吉井正宣の「選択と集中」",
-          "imageUrl": "https://assets.st-note.com/production/uploads/images/271136084/rectangle_large_type_2_61958e0b20cfaf76c28b39a3fae04085.png?width=800"
         }
       ]
     },
@@ -4598,16 +4558,6 @@
             "type": "video/mp4"
           },
           "imageUrl": "https://cginterest.com/wp-content/uploads/2026/06/Procreate5411.webp"
-        },
-        {
-          "id": "https://cginterest.com/?p=59684",
-          "author": ".me",
-          "description": "Apple の世界開発者会議「WWDC26」では、次期 OS（macOS 27〈開発コード名 Golden Gate〉、iOS / iPadOS 27、visionOS 27 など）と開発環境に関する多くのアップデートが […]\nApple、WWDC26で開発者向けの多数のアップデートを発表 ― Apple Intelligenceから Metal・Reality Composer Pro 3・Xcode 27など first appeared on CGinterest.",
-          "link": "https://cginterest.com/2026/06/10/apple%e3%80%81wwdc26%e3%81%a7%e9%96%8b%e7%99%ba%e8%80%85%e5%90%91%e3%81%91%e3%81%ae%e5%a4%9a%e6%95%b0%e3%81%ae%e3%82%a2%e3%83%83%e3%83%97%e3%83%87%e3%83%bc%e3%83%88%e3%82%92%e7%99%ba%e8%a1%a8/",
-          "publishedOn": "2026-06-10T10:49:27.000Z",
-          "wordCount": 32043,
-          "title": "Apple、WWDC26で開発者向けの多数のアップデートを発表 ― Apple Intelligenceから Metal・Reality Composer Pro 3・Xcode 27など",
-          "imageUrl": "https://cginterest.com/wp-content/uploads/2026/06/appleWWDC-developerupdate.webp"
         }
       ]
     }

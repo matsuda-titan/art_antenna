@@ -2071,16 +2071,6 @@
           "wordCount": 570,
           "title": "エゴ・ワンの\"デジタルモック\"が遊技機の提案を変える ―― 企画段階で可視化する手段 - スペシャルコンテンツ",
           "imageUrl": "https://cgworld.jp/special-feature/assets_c/2026/06/egoone_top-thumb-1920x1080-84830.jpg"
-        },
-        {
-          "id": "https://cgworld.jp/flashnews/01-202606-DF-USD.html",
-          "author": null,
-          "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
-          "link": "https://cgworld.jp/flashnews/01-202606-DF-USD.html",
-          "publishedOn": "2026-06-11T22:10:47.000Z",
-          "wordCount": 771,
-          "title": "デジタル・フロンティア、「USDをワークフローに取り込んでみてわかったこと」note公開　USDのデータ構造からワークフロー上の課題までを当事者視点で解説 - ニュース",
-          "imageUrl": "https://cgworld.jp/flashnews/assets_c/2026/06/1714bbc708c377cffbcc923bbc4762f15eb6c94b-thumb-1920x1005-84819.jpg"
         }
       ]
     },
@@ -3012,21 +3002,6 @@
             "type": "false"
           },
           "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--fitFccP6--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%2595%25E3%2582%25A9%25E3%2583%2588%25E3%2582%25B0%25E3%2583%25A9%25E3%2583%25A1%25E3%2583%2588%25E3%2583%25AA%25E6%2595%25B0%25E5%25AD%25A6%25EF%25BD%259C31%25EF%25BC%259AIMU%2520Preintegration%25E3%2581%25A8%25E3%2581%25AF%25E4%25BD%2595%25E3%2581%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:s_hashida%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2JmNmU5NjMzMTEuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
-        },
-        {
-          "id": "https://zenn.dev/s_hashida/articles/97b26bff282399",
-          "author": "s_hashida",
-          "description": "はじめに\n前回は、\n\nPose最適化\nLie群\nLie代数\nSE(3)\n\nについて説明しました。\n\nその中で重要だったのが、\n\nPoseはSE(3)上にある\nLie代数上で更新する\nGauss-Newtonで最適化する\n\nという考え方です。\n\nしかしここで疑問が浮かびます。\n\nカメラだけで自己位置推定できるのでは？\nなぜIMUが必要なのか？\nドローンやスマートフォンはどうやって安定して位置推定しているのか？\n\n\n実はVisual Odometryには弱点があります。\n\nその弱点を補うために使われるのが、\nIMU（Inertial Measurement Unit）\nです。\n\n今回は...",
-          "link": "https://zenn.dev/s_hashida/articles/97b26bff282399",
-          "publishedOn": "2026-06-11T22:28:57.000Z",
-          "wordCount": 847,
-          "title": "フォトグラメトリ数学｜30：IMUとは何か",
-          "enclosure": {
-            "url": "https://res.cloudinary.com/zenn/image/upload/s--Hj-IG_75--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%2595%25E3%2582%25A9%25E3%2583%2588%25E3%2582%25B0%25E3%2583%25A9%25E3%2583%25A1%25E3%2583%2588%25E3%2583%25AA%25E6%2595%25B0%25E5%25AD%25A6%25EF%25BD%259C30%25EF%25BC%259AIMU%25E3%2581%25A8%25E3%2581%25AF%25E4%25BD%2595%25E3%2581%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:s_hashida%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2JmNmU5NjMzMTEuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
-            "length": "0",
-            "type": "false"
-          },
-          "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--Hj-IG_75--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%2595%25E3%2582%25A9%25E3%2583%2588%25E3%2582%25B0%25E3%2583%25A9%25E3%2583%25A1%25E3%2583%2588%25E3%2583%25AA%25E6%2595%25B0%25E5%25AD%25A6%25EF%25BD%259C30%25EF%25BC%259AIMU%25E3%2581%25A8%25E3%2581%25AF%25E4%25BD%2595%25E3%2581%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:s_hashida%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2JmNmU5NjMzMTEuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
         }
       ]
     },
@@ -3617,6 +3592,16 @@
       "feedUrl": "https://note.com/hashtag/SubstanceDesigner/rss",
       "siteUrl": "https://note.com/hashtag/SubstanceDesigner",
       "articles": [
+        {
+          "id": "https://note.com/manji_9278274/n/n542fdaf92cba",
+          "author": null,
+          "description": "どうもみなさん１週間ぶり。まんじです。\n前回は確か、畳の「縁（ヘリ）」を制作していきましたね。\n今回は細かい調節をして、いよいよ実際にテクスチャとして書き出していきます。かなりの長丁場になるので覚悟を決めてください。\nここまでくればもう脱初心者！頑張っていきましょう。\n\n続きをみる",
+          "link": "https://note.com/manji_9278274/n/n542fdaf92cba",
+          "publishedOn": "2026-07-11T11:04:08.000Z",
+          "wordCount": 3268,
+          "title": "【Substance Designer】1から作る「畳」のPBRテクスチャ解説編③",
+          "imageUrl": "https://assets.st-note.com/production/uploads/images/287201653/rectangle_large_type_2_1fd5ee07c6262f997f5c04c938bc0546.png?width=800"
+        },
         {
           "id": "https://note.com/efeozi/n/n9deef5fcf2eb",
           "author": null,
@@ -4433,21 +4418,6 @@
           "wordCount": 32215,
           "title": "Redshift 2026.7 がリリース！Revit連携やLiveプレビューでのDoF対応、Hex-Tilingの強化など",
           "imageUrl": "https://cginterest.com/wp-content/uploads/2026/06/Redshift2026_7.webp"
-        },
-        {
-          "id": "https://cginterest.com/?p=59709",
-          "author": ".me",
-          "description": "2026年6月10日（現地時間）- Maxonより「Cinema 4D 2026.3.0」がリリースされました。 主な新機能 今回のアップデートでは、UVワークフローの近代化をはじめ、パーティクル管理の専用インターフェー […]\nCinema 4D 2026.3 がリリース！UVエディタの刷新とMoGraphの高度な配置機能が追加 first appeared on CGinterest.",
-          "link": "https://cginterest.com/2026/06/12/cinema-4d-2026-3-%e3%81%8c%e3%83%aa%e3%83%aa%e3%83%bc%e3%82%b9%ef%bc%81uv%e3%82%a8%e3%83%87%e3%82%a3%e3%82%bf%e3%81%ae%e5%88%b7%e6%96%b0%e3%81%a8mograph%e3%81%ae%e9%ab%98%e5%ba%a6%e3%81%aa%e9%85%8d/",
-          "publishedOn": "2026-06-11T23:20:00.000Z",
-          "wordCount": 31909,
-          "title": "Cinema 4D 2026.3 がリリース！UVエディタの刷新とMoGraphの高度な配置機能が追加",
-          "enclosure": {
-            "url": "https://cginterest.com/wp-content/uploads/2026/06/C4d2026-3-Uveditor-Seam2.mp4",
-            "length": "507884",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://cginterest.com/wp-content/uploads/2026/06/c4d2026-3.webp"
         }
       ]
     }

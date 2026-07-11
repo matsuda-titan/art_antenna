@@ -2,10 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-07-11T09:16:30.700Z</updated>
+    <updated>2026-07-11T12:54:27.196Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【Substance Designer】1から作る「畳」のPBRテクスチャ解説編③]]></title>
+        <id>https://note.com/manji_9278274/n/n542fdaf92cba</id>
+        <link href="https://note.com/manji_9278274/n/n542fdaf92cba"/>
+        <updated>2026-07-11T11:04:08.000Z</updated>
+        <summary type="html"><![CDATA[どうもみなさん１週間ぶり。まんじです。
+前回は確か、畳の「縁（ヘリ）」を制作していきましたね。
+今回は細かい調節をして、いよいよ実際にテクスチャとして書き出していきます。かなりの長丁場になるので覚悟を決めてください。
+ここまでくればもう脱初心者！頑張っていきましょう。
+
+続きをみる]]></summary>
+        <author>
+            <name>#SubstanceDesignerタグ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Amazon プライムデーセールが開催！Adobe、ワコム製品、PCパーツなど厳選アイテムを紹介！]]></title>
         <id>https://cginterest.com/?p=60606</id>
@@ -4263,68 +4278,6 @@ The post サッカー関連の広告映像。Framestore の Football Advertising
         <summary type="html"><![CDATA[Autodesk のソフトウェアを使用して制作された作品を紹介する Autodesk Media & Entertainment Showreel を毎年公開しています。今年も世界中のアーティストやクリエイターによる優れた作品の一部をご紹介します。・・・]]></summary>
         <author>
             <name>AREA JAPAN | Autodesk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cinema 4D 2026.3 がリリース！UVエディタの刷新とMoGraphの高度な配置機能が追加]]></title>
-        <id>https://cginterest.com/?p=59709</id>
-        <link href="https://cginterest.com/2026/06/12/cinema-4d-2026-3-%e3%81%8c%e3%83%aa%e3%83%aa%e3%83%bc%e3%82%b9%ef%bc%81uv%e3%82%a8%e3%83%87%e3%82%a3%e3%82%bf%e3%81%ae%e5%88%b7%e6%96%b0%e3%81%a8mograph%e3%81%ae%e9%ab%98%e5%ba%a6%e3%81%aa%e9%85%8d/"/>
-        <updated>2026-06-11T23:20:00.000Z</updated>
-        <summary type="html"><![CDATA[2026年6月10日（現地時間）- Maxonより「Cinema 4D 2026.3.0」がリリースされました。 主な新機能 今回のアップデートでは、UVワークフローの近代化をはじめ、パーティクル管理の専用インターフェー […]
-Cinema 4D 2026.3 がリリース！UVエディタの刷新とMoGraphの高度な配置機能が追加 first appeared on CGinterest.]]></summary>
-        <author>
-            <name>.me</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[フォトグラメトリ数学｜30：IMUとは何か]]></title>
-        <id>https://zenn.dev/s_hashida/articles/97b26bff282399</id>
-        <link href="https://zenn.dev/s_hashida/articles/97b26bff282399"/>
-        <updated>2026-06-11T22:28:57.000Z</updated>
-        <summary type="html"><![CDATA[はじめに
-前回は、
-
-Pose最適化
-Lie群
-Lie代数
-SE(3)
-
-について説明しました。
-
-その中で重要だったのが、
-
-PoseはSE(3)上にある
-Lie代数上で更新する
-Gauss-Newtonで最適化する
-
-という考え方です。
-
-しかしここで疑問が浮かびます。
-
-カメラだけで自己位置推定できるのでは？
-なぜIMUが必要なのか？
-ドローンやスマートフォンはどうやって安定して位置推定しているのか？
-
-
-実はVisual Odometryには弱点があります。
-
-その弱点を補うために使われるのが、
-IMU（Inertial Measurement Unit）
-です。
-
-今回は...]]></summary>
-        <author>
-            <name>s_hashida</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[デジタル・フロンティア、「USDをワークフローに取り込んでみてわかったこと」note公開　USDのデータ構造からワークフロー上の課題までを当事者視点で解説 - ニュース]]></title>
-        <id>https://cgworld.jp/flashnews/01-202606-DF-USD.html</id>
-        <link href="https://cgworld.jp/flashnews/01-202606-DF-USD.html"/>
-        <updated>2026-06-11T22:10:47.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
         </author>
     </entry>
 </feed>

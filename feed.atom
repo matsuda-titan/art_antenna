@@ -2,10 +2,72 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-07-12T05:46:40.633Z</updated>
+    <updated>2026-07-12T09:42:02.063Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[[〆切2026年07月24日] Unityで描く「夏」の風景。アジア合同キャンペーン「Unity Summer Challenge」が開催]]></title>
+        <id>https://cginterest.com/?p=60622</id>
+        <link href="https://cginterest.com/2026/07/12/%e3%80%86%e5%88%872026%e5%b9%b407%e6%9c%8824%e6%97%a5-unity%e3%81%a7%e6%8f%8f%e3%81%8f%e3%80%8c%e5%a4%8f%e3%80%8d%e3%81%ae%e9%a2%a8%e6%99%af%e3%80%82%e3%82%a2%e3%82%b8%e3%82%a2%e5%90%88%e5%90%8c/"/>
+        <updated>2026-07-12T08:46:31.000Z</updated>
+        <summary type="html"><![CDATA[ユニティ・テクノロジーズ主催のアジア圏のUnityコミュニティに向けた参加型キャンペーン「Unity Summer Challenge（Unity サマーチャレンジ）」の開催情報です。 Unity Summer Chal […]]]></summary>
+        <author>
+            <name>.me</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[〆切2026年07月19日] 第三十六回デジタル塗り絵コンテスト「塗りマス！」ペルソナ５とコラボ！]]></title>
+        <id>https://cginterest.com/?p=60613</id>
+        <link href="https://cginterest.com/2026/07/12/%e3%80%86%e5%88%872026%e5%b9%b407%e6%9c%8819%e6%97%a5-%e7%ac%ac%e4%b8%89%e5%8d%81%e5%85%ad%e5%9b%9e%e3%83%87%e3%82%b8%e3%82%bf%e3%83%ab%e5%a1%97%e3%82%8a%e7%b5%b5%e3%82%b3%e3%83%b3%e3%83%86%e3%82%b9/"/>
+        <updated>2026-07-12T08:18:17.000Z</updated>
+        <summary type="html"><![CDATA[株式会社セルシスと株式会社アイビスが共催する、第三十六回デジタル塗り絵コンテスト「塗りマス！」の開催情報です。 コンテスト概要 「塗りマス！」は、指定の線画に自由な端末やアプリで彩色し、SNSへ投稿することで参加できるデ […]]]></summary>
+        <author>
+            <name>.me</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GPUがモニターに色を描画するまでを、擬似コードで理解する備忘録]]></title>
+        <id>https://zenn.dev/sippooo/articles/how-gpu-works-sippo</id>
+        <link href="https://zenn.dev/sippooo/articles/how-gpu-works-sippo"/>
+        <updated>2026-07-12T08:00:53.000Z</updated>
+        <summary type="html"><![CDATA[!
+この記事について
+友人との会話でGPUの話にまったくついていけなかったので、調べながら自分用に軽くまとめた備忘録です。
+擬似コードで理解するようにしたら、なかなかわかりやすかった気がするので、雑に公開します。
+この記事でつかっているコードブロックは、すべて擬似コードです。
+動きません。不正確です。
+でも概念的な理解の助けになると思います。
+
+// 共通の基本型
+type vec2 = [number, number]; // UV座標など (x, y)
+type vec3 = [number, number, number]; // 法線ベクトルなど (x, y, z)
+type C...]]></summary>
+        <author>
+            <name>Sippo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GPUがモニターに色を描画するまでを、擬似コードで理解する備忘録]]></title>
+        <id>https://zenn.dev/sippooo/articles/how-gpu-works-sippo</id>
+        <link href="https://zenn.dev/sippooo/articles/how-gpu-works-sippo"/>
+        <updated>2026-07-12T08:00:53.000Z</updated>
+        <summary type="html"><![CDATA[!
+この記事について
+友人との会話でGPUの話にまったくついていけなかったので、調べながら自分用に軽くまとめた備忘録です。
+擬似コードで理解するようにしたら、なかなかわかりやすかった気がするので、雑に公開します。
+この記事でつかっているコードブロックは、すべて擬似コードです。
+動きません。不正確です。
+でも概念的な理解の助けになると思います。
+
+// 共通の基本型
+type vec2 = [number, number]; // UV座標など (x, y)
+type vec3 = [number, number, number]; // 法線ベクトルなど (x, y, z)
+type C...]]></summary>
+        <author>
+            <name>Sippo</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Forgotten Metal Knowledge– アイアンマンの金属表現から学ぶ「二重反射」の秘密！CGでリアルな金属表現を実現する反射の仕組みを解説した動画]]></title>
         <id>https://modelinghappy.com/?p=69373</id>

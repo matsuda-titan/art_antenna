@@ -2641,6 +2641,21 @@
       "siteUrl": "https://zenn.dev/topics/shader",
       "articles": [
         {
+          "id": "https://zenn.dev/sippooo/articles/how-gpu-works-sippo",
+          "author": "Sippo",
+          "description": "!\nこの記事について\n友人との会話でGPUの話にまったくついていけなかったので、調べながら自分用に軽くまとめた備忘録です。\n擬似コードで理解するようにしたら、なかなかわかりやすかった気がするので、雑に公開します。\nこの記事でつかっているコードブロックは、すべて擬似コードです。\n動きません。不正確です。\nでも概念的な理解の助けになると思います。\n\n// 共通の基本型\ntype vec2 = [number, number]; // UV座標など (x, y)\ntype vec3 = [number, number, number]; // 法線ベクトルなど (x, y, z)\ntype C...",
+          "link": "https://zenn.dev/sippooo/articles/how-gpu-works-sippo",
+          "publishedOn": "2026-07-12T08:00:53.000Z",
+          "wordCount": 1944,
+          "title": "GPUがモニターに色を描画するまでを、擬似コードで理解する備忘録",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--VH4tQy5_--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:GPU%25E3%2581%258C%25E3%2583%25A2%25E3%2583%258B%25E3%2582%25BF%25E3%2583%25BC%25E3%2581%25AB%25E8%2589%25B2%25E3%2582%2592%25E6%258F%258F%25E7%2594%25BB%25E3%2581%2599%25E3%2582%258B%25E3%2581%25BE%25E3%2581%25A7%25E3%2582%2592%25E3%2580%2581%25E6%2593%25AC%25E4%25BC%25BC%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2589%25E3%2581%25A7%25E7%2590%2586%25E8%25A7%25A3%25E3%2581%2599%25E3%2582%258B%25E5%2582%2599%25E5%25BF%2598%25E9%258C%25B2%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Sippo%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2JhMDNlYzYzNDYuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+            "length": "0",
+            "type": "false"
+          },
+          "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--VH4tQy5_--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:GPU%25E3%2581%258C%25E3%2583%25A2%25E3%2583%258B%25E3%2582%25BF%25E3%2583%25BC%25E3%2581%25AB%25E8%2589%25B2%25E3%2582%2592%25E6%258F%258F%25E7%2594%25BB%25E3%2581%2599%25E3%2582%258B%25E3%2581%25BE%25E3%2581%25A7%25E3%2582%2592%25E3%2580%2581%25E6%2593%25AC%25E4%25BC%25BC%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2589%25E3%2581%25A7%25E7%2590%2586%25E8%25A7%25A3%25E3%2581%2599%25E3%2582%258B%25E5%2582%2599%25E5%25BF%2598%25E9%258C%25B2%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Sippo%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2JhMDNlYzYzNDYuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+        },
+        {
           "id": "https://zenn.dev/toshikun/articles/unity-hdrp-fog-transparent-depth-notes",
           "author": "toshi",
           "description": "HDRPでキャラクターを描いていると、Fogを入れた瞬間に「透明の面が透けているように見える」「シルエットだけがFogに出る」「背景があると見え方が変わる」といったことがあります。\nこれは単純なアルファの問題ではなく、HDRPのFogがどの段階で、どの深度を見て処理されるかが関係しています。\nこの記事は、HDRPのFogとTransparent Depthまわりで詰まったときに見るポイントのメモです。\n\n ざっくり結論\n\nHDRPのFogは、Opaque向けの深度ベース処理とTransparent材質側の処理を分けて考える。\nTransparent材質が深度を書くと、Fogや後段処理から...",
@@ -2773,6 +2788,21 @@
       "feedUrl": "https://zenn.dev/topics/3dcg/feed",
       "siteUrl": "https://zenn.dev/topics/3dcg",
       "articles": [
+        {
+          "id": "https://zenn.dev/sippooo/articles/how-gpu-works-sippo",
+          "author": "Sippo",
+          "description": "!\nこの記事について\n友人との会話でGPUの話にまったくついていけなかったので、調べながら自分用に軽くまとめた備忘録です。\n擬似コードで理解するようにしたら、なかなかわかりやすかった気がするので、雑に公開します。\nこの記事でつかっているコードブロックは、すべて擬似コードです。\n動きません。不正確です。\nでも概念的な理解の助けになると思います。\n\n// 共通の基本型\ntype vec2 = [number, number]; // UV座標など (x, y)\ntype vec3 = [number, number, number]; // 法線ベクトルなど (x, y, z)\ntype C...",
+          "link": "https://zenn.dev/sippooo/articles/how-gpu-works-sippo",
+          "publishedOn": "2026-07-12T08:00:53.000Z",
+          "wordCount": 1944,
+          "title": "GPUがモニターに色を描画するまでを、擬似コードで理解する備忘録",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--VH4tQy5_--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:GPU%25E3%2581%258C%25E3%2583%25A2%25E3%2583%258B%25E3%2582%25BF%25E3%2583%25BC%25E3%2581%25AB%25E8%2589%25B2%25E3%2582%2592%25E6%258F%258F%25E7%2594%25BB%25E3%2581%2599%25E3%2582%258B%25E3%2581%25BE%25E3%2581%25A7%25E3%2582%2592%25E3%2580%2581%25E6%2593%25AC%25E4%25BC%25BC%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2589%25E3%2581%25A7%25E7%2590%2586%25E8%25A7%25A3%25E3%2581%2599%25E3%2582%258B%25E5%2582%2599%25E5%25BF%2598%25E9%258C%25B2%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Sippo%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2JhMDNlYzYzNDYuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+            "length": "0",
+            "type": "false"
+          },
+          "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--VH4tQy5_--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:GPU%25E3%2581%258C%25E3%2583%25A2%25E3%2583%258B%25E3%2582%25BF%25E3%2583%25BC%25E3%2581%25AB%25E8%2589%25B2%25E3%2582%2592%25E6%258F%258F%25E7%2594%25BB%25E3%2581%2599%25E3%2582%258B%25E3%2581%25BE%25E3%2581%25A7%25E3%2582%2592%25E3%2580%2581%25E6%2593%25AC%25E4%25BC%25BC%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2589%25E3%2581%25A7%25E7%2590%2586%25E8%25A7%25A3%25E3%2581%2599%25E3%2582%258B%25E5%2582%2599%25E5%25BF%2598%25E9%258C%25B2%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Sippo%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2JhMDNlYzYzNDYuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+        },
         {
           "id": "https://zenn.dev/s_hashida/articles/8d289cd38fa003",
           "author": "s_hashida",
@@ -3759,6 +3789,26 @@
       "feedUrl": "https://cginterest.com/feed/",
       "siteUrl": "https://cginterest.com",
       "articles": [
+        {
+          "id": "https://cginterest.com/?p=60622",
+          "author": ".me",
+          "description": "ユニティ・テクノロジーズ主催のアジア圏のUnityコミュニティに向けた参加型キャンペーン「Unity Summer Challenge（Unity サマーチャレンジ）」の開催情報です。 Unity Summer Chal […]",
+          "link": "https://cginterest.com/2026/07/12/%e3%80%86%e5%88%872026%e5%b9%b407%e6%9c%8824%e6%97%a5-unity%e3%81%a7%e6%8f%8f%e3%81%8f%e3%80%8c%e5%a4%8f%e3%80%8d%e3%81%ae%e9%a2%a8%e6%99%af%e3%80%82%e3%82%a2%e3%82%b8%e3%82%a2%e5%90%88%e5%90%8c/",
+          "publishedOn": "2026-07-12T08:46:31.000Z",
+          "wordCount": 29974,
+          "title": "[〆切2026年07月24日] Unityで描く「夏」の風景。アジア合同キャンペーン「Unity Summer Challenge」が開催",
+          "imageUrl": "https://cginterest.com/wp-content/uploads/2026/07/UnitySummerchallenge2026.webp"
+        },
+        {
+          "id": "https://cginterest.com/?p=60613",
+          "author": ".me",
+          "description": "株式会社セルシスと株式会社アイビスが共催する、第三十六回デジタル塗り絵コンテスト「塗りマス！」の開催情報です。 コンテスト概要 「塗りマス！」は、指定の線画に自由な端末やアプリで彩色し、SNSへ投稿することで参加できるデ […]",
+          "link": "https://cginterest.com/2026/07/12/%e3%80%86%e5%88%872026%e5%b9%b407%e6%9c%8819%e6%97%a5-%e7%ac%ac%e4%b8%89%e5%8d%81%e5%85%ad%e5%9b%9e%e3%83%87%e3%82%b8%e3%82%bf%e3%83%ab%e5%a1%97%e3%82%8a%e7%b5%b5%e3%82%b3%e3%83%b3%e3%83%86%e3%82%b9/",
+          "publishedOn": "2026-07-12T08:18:17.000Z",
+          "wordCount": 30233,
+          "title": "[〆切2026年07月19日] 第三十六回デジタル塗り絵コンテスト「塗りマス！」ペルソナ５とコラボ！",
+          "imageUrl": "https://cginterest.com/wp-content/uploads/2026/07/nurimasu36th.webp"
+        },
         {
           "id": "https://cginterest.com/?p=60606",
           "author": ".me",

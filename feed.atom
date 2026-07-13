@@ -2,10 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-07-13T05:58:07.711Z</updated>
+    <updated>2026-07-13T10:49:25.764Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[トリムシート制作パート②　～制作編～]]></title>
+        <id>https://3d.crdg.jp/env/?p=9848</id>
+        <link href="https://3d.crdg.jp/env/2026/07/13/9848/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=%25e3%2583%2588%25e3%2583%25aa%25e3%2583%25a0%25e3%2582%25b7%25e3%2583%25bc%25e3%2583%2588%25e5%2588%25b6%25e4%25bd%259c%25e3%2583%2591%25e3%2583%25bc%25e3%2583%2588%25e2%2591%25a1%25e3%2580%2580%25ef%25bd%259e%25e5%2588%25b6%25e4%25bd%259c%25e7%25b7%25a8%25ef%25bd%259e"/>
+        <updated>2026-07-13T10:41:24.000Z</updated>
+        <summary type="html"><![CDATA[今回は、ハイモデル制作とテクスチャ制作について紹介していきます。 前回の記事はこちらになります。https://3d.crdg.jp/env/2026 […]
+続きを読む
+投稿 トリムシート制作パート②　～制作編～ は エンホリ - ENVIRONMENT HOLIC｜C&R Creative Studios に最初に表示されました。]]></summary>
+        <author>
+            <name>Akito.Yamakawa</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Forgotten Metal Knowledge | ILMのジェネラリストによる金属マテリアルの質感に関して掘り下げた解説動画！]]></title>
+        <id>https://3dnchu.com/?p=1066492</id>
+        <link href="https://3dnchu.com/archives/forgotten-metal-knowledge/"/>
+        <updated>2026-07-13T09:31:23.000Z</updated>
+        <summary type="html"><![CDATA[Industrial Light & Magic（ILM）のジェネラリスト Lucas Piazzini氏が、金属マテリアル表現を改めて掘り下げるチュートリアル動画を公開しました！]]></summary>
+        <author>
+            <name>Ymt3D -3dnchu-</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MotionGen → ARP Remap ワークフロー]]></title>
+        <id>https://zenn.dev/yorozuyouduki/articles/1e8b1d9c332d1d</id>
+        <link href="https://zenn.dev/yorozuyouduki/articles/1e8b1d9c332d1d"/>
+        <updated>2026-07-13T06:02:12.000Z</updated>
+        <summary type="html"><![CDATA[背景・目的
+動画作成用のモーションを作りたいが、インターネットに動画をアップロードするのは避けたい。
+そのため、ローカルで完結するMotionGenでモーションを生成し、たたき台程度のクオリティで良いのでそれをARP(Auto-Rig Pro)経由で自分のリグにリターゲティングして使いたい。
+https://superhivemarket.com/products/motiongen?num=1&src=new_and_rising
+
+ 全体フロー概要
+動画 → MotionGen(ローカル生成) → Mixamoポーズ化 → Mixamo_rigへリターゲット
+     →...]]></summary>
+        <author>
+            <name>萬代卯月</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【無料】アニメ×ゲームの垣根を越える2日間のハッカソン！ 「アニメ×ゲームジャムUE2 in 京都」参加者募集！ - ニュース]]></title>
         <id>https://cgworld.jp/flashnews/2-ue2-inkyoto.html</id>
@@ -4263,46 +4302,6 @@ IMU Preintegration
 もう手作業には戻れない！Houdiniで作る賢いLOD（レベル・オブ・ディテール）自動化・Unity連携構築術 first appeared on TECH ART ONLINE.]]></summary>
         <author>
             <name>管理人</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Skeletal Decals | スケルタルメッシュ上にシームレスなデカール表現を適用出来るUnreal Engine 5向けプラグイン！]]></title>
-        <id>https://3dnchu.com/?p=1065759</id>
-        <link href="https://3dnchu.com/archives/skeletal-decals/"/>
-        <updated>2026-06-13T22:08:49.000Z</updated>
-        <summary type="html"><![CDATA[Light Stefar氏によるスケルタルメッシュ上にシームレスなデカール表現を適用出来るUnreal Engine 5向けプラグイン「Skeletal Decals」のご紹介！]]></summary>
-        <author>
-            <name>Ymt3D -3dnchu-</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CMC / Mover Shooter Controller v1.2 | CMCと新Moverシステムに両対応しつつGASPと互換性のあるシューター制御システムUE5アセット！]]></title>
-        <id>https://3dnchu.com/?p=1065659</id>
-        <link href="https://3dnchu.com/archives/cmc-mover-shooter-controller-v1-2/"/>
-        <updated>2026-06-13T21:35:29.000Z</updated>
-        <summary type="html"><![CDATA[Daksh C.氏がCharacter Movement Component（CMC）とMoverシステムに両対応しGASPとの互換性を維持したシューター制御システム　『CMC / Mover Shooter Controller v1.2』がFab上で公開されています！]]></summary>
-        <author>
-            <name>Ymt3D -3dnchu-</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Aholo Viewer | 広大なシーン容量の3D Gaussian Splatsデータを軽量プレビュー出来るWebビューアーがオープンソース公開！]]></title>
-        <id>https://3dnchu.com/?p=1065663</id>
-        <link href="https://3dnchu.com/archives/aholo-viewer/"/>
-        <updated>2026-06-13T21:12:09.000Z</updated>
-        <summary type="html"><![CDATA[中国雨のManycore Techによる空間再構築、生成、リアルタイム編集などを手掛ける空間インテリジェンス・プラットフォーム「Aholo」が3D Gaussian Splat用のWebビューアー「Aholo Viewer」がオープンソースリリースされています！]]></summary>
-        <author>
-            <name>Ymt3D -3dnchu-</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[少し席を離れただけなんだけど‥良くないことが起きたかも？ | 腱鞘炎と戦うデザイナー 伊藤氏によるBlenderビューポートを活用使用したユニークな動画作品がYoutube上でも公開！]]></title>
-        <id>https://3dnchu.com/?p=1065726</id>
-        <link href="https://3dnchu.com/archives/i-only-stepped-away-for-a-moment-ito/"/>
-        <updated>2026-06-13T20:20:24.000Z</updated>
-        <summary type="html"><![CDATA[腱鞘炎と戦うデザイナー ことフリーランスアーティストの伊藤氏が、「少し席を離れただけなんだけど‥良くないことが起きたかも？ 」という作品をYoutube上でも公開しました！]]></summary>
-        <author>
-            <name>Ymt3D -3dnchu-</name>
         </author>
     </entry>
 </feed>

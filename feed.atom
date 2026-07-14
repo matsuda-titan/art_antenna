@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-07-14T05:20:23.715Z</updated>
+    <updated>2026-07-14T09:45:11.606Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
@@ -4285,43 +4285,6 @@ The post トロントのコンド引っ越し、エレベーター予約で大�
         <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
         <author>
             <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[フォトグラメトリ数学｜31：IMU Preintegrationとは何か]]></title>
-        <id>https://zenn.dev/s_hashida/articles/51b94699365862</id>
-        <link href="https://zenn.dev/s_hashida/articles/51b94699365862"/>
-        <updated>2026-06-14T21:38:05.000Z</updated>
-        <summary type="html"><![CDATA[はじめに
-前回は、
-
-IMU
-加速度と角速度
-Visual Odometryの弱点
-VIO
-
-について説明しました。
-
-その中で重要だったのが、
-
-IMUは短時間の運動推定が得意
-カメラは長期的な誤差補正が得意
-Visual-Inertial SLAMではIMUもFactorとして扱われる
-
-という点です。
-
-しかしここで疑問が出てきます。
-
-IMUはどのようにFactorになるのか？
-なぜ高頻度IMUをそのまま最適化しないのか？
-Visual-Inertial SLAMはどうやって高速に動いているのか？
-
-
-実はここで重要になるのが、
-IMU Preintegration
-です。...]]></summary>
-        <author>
-            <name>s_hashida</name>
         </author>
     </entry>
 </feed>

@@ -2,10 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-07-15T09:49:46.630Z</updated>
+    <updated>2026-07-15T13:10:02.214Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Blender 5.2 LTS が正式リリース！ノードベースの物理演算とオンラインアセットなど新機能を紹介！]]></title>
+        <id>https://cginterest.com/?p=60681</id>
+        <link href="https://cginterest.com/2026/07/15/blender-5-2-lts-%e3%81%8c%e6%ad%a3%e5%bc%8f%e3%83%aa%e3%83%aa%e3%83%bc%e3%82%b9%ef%bc%81%e3%83%8e%e3%83%bc%e3%83%89%e3%83%99%e3%83%bc%e3%82%b9%e3%81%ae%e7%89%a9%e7%90%86%e6%bc%94%e7%ae%97%e3%81%a8/"/>
+        <updated>2026-07-15T12:23:33.000Z</updated>
+        <summary type="html"><![CDATA[2026年7月14日（現地時間）- Blender Foundationおよびオンラインコミュニティは、長期サポート版となる「Blender 5.2 LTS」を発表しました。 新機能ハイライト Blender 5.2 L […]]]></summary>
+        <author>
+            <name>.me</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[パソコン教室で分散レンダリング — mental ray サテライトで1枚の絵を複数台で描く(はじめの一歩)]]></title>
+        <id>https://zenn.dev/yokamak/articles/fcfb21e40d3015</id>
+        <link href="https://zenn.dev/yokamak/articles/fcfb21e40d3015"/>
+        <updated>2026-07-15T10:21:59.000Z</updated>
+        <summary type="html"><![CDATA[はじめに
+mental ray は20年以上にわたり Maya や 3ds Max の標準レンダラーとして映画・ゲームの現場で使われてきたプロダクションレンダラーです。2017年の開発終了時に standalone 版が無償公開され、いまも NVIDIA のサイトから入手できます。
+この standalone 版には サテライト(satellite) と呼ばれるネットワーク分散レンダリング機能がそのまま同梱されています。本来はスタジオのワークステーション群で使われていた機能ですが、これを使うと 1枚の絵をタイル分割して、複数のPCで協調レンダリング できます。
+本記事は、これをパソコ...]]></summary>
+        <author>
+            <name>yokamak</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Blender 5.2 LTSがリリースされました。ダウンロードして利用可能です]]></title>
         <id>https://modelinghappy.com/?p=69409</id>
@@ -4178,36 +4201,6 @@ The post "猫" が主役の感動作。ディズニー＆ピクサー映画『�
         <summary type="html"><![CDATA[Autodesk at SIGGRAPH 2026がロサンゼルス・コンベンション・センターで2026 年 7 月 19 日（日）～ 23 日（木）に開催されます。AIの進歩から次世代のアニメーション制作ワークフロー、チーム間のコラボレーション手法に至るまで、エンターテインメントの新たな地平を切り拓く最新のイノベーションをご覧ください。・・・]]></summary>
         <author>
             <name>AREA JAPAN | Autodesk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[劇場アニメ『パリに咲くエトワール』華麗なバレエシーンと、荘厳なオペラ座に注目！ 〜No.1／バレエシーン篇 - 特集]]></title>
-        <id>https://cgworld.jp/article/cgw334-anime-parieto01.html</id>
-        <link href="https://cgworld.jp/article/cgw334-anime-parieto01.html"/>
-        <updated>2026-06-16T01:00:00.000Z</updated>
-        <summary type="html"><![CDATA[『パリに咲くエトワール』のアニメCGメイキングを紹介。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[glTF 2.1 のアップデートの内容が公開！複雑なシーンへの対応や利便性向上など]]></title>
-        <id>https://cginterest.com/?p=59831</id>
-        <link href="https://cginterest.com/2026/06/16/gltf-2-1-%e3%81%ae%e3%82%a2%e3%83%83%e3%83%97%e3%83%87%e3%83%bc%e3%83%88%e3%81%ae%e5%86%85%e5%ae%b9%e3%81%8c%e5%85%ac%e9%96%8b%ef%bc%81%e8%a4%87%e9%9b%91%e3%81%aa%e3%82%b7%e3%83%bc%e3%83%b3%e3%81%b8/"/>
-        <updated>2026-06-15T22:56:00.000Z</updated>
-        <summary type="html"><![CDATA[2026年6月11日（現地時間）- Khronos® 3D Formats Working Groupより、コア仕様の後方互換性を維持した改訂版となる「glTF 2.1」の計画が発表されました。 アップデートの目的と背景 […]]]></summary>
-        <author>
-            <name>.me</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NVIDIA、フィジカルAI向け世界モデル「Cosmos 3」リリース　ネイティブな視覚推論、ワールド＆アクション生成を統合したオムニモデル - ニュース]]></title>
-        <id>https://cgworld.jp/flashnews/01-202606-Cosmos3.html</id>
-        <link href="https://cgworld.jp/flashnews/01-202606-Cosmos3.html"/>
-        <updated>2026-06-15T22:33:18.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
         </author>
     </entry>
 </feed>

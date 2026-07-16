@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-07-15T13:10:02.214Z</updated>
+    <updated>2026-07-16T01:41:19.239Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[第1回：現場でのモーションキャプチャ収録判断 - 連載]]></title>
+        <id>https://cgworld.jp/regular/motion-capture01.html</id>
+        <link href="https://cgworld.jp/regular/motion-capture01.html"/>
+        <updated>2026-07-16T01:00:07.000Z</updated>
+        <summary type="html"><![CDATA[モーションキャプチャコーディネーターの谷山尚未氏がプロデューサー陣と本音で対談]]></summary>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ピクサー最新作『私がビーバーになる時』ブレイクダウン動画公開　クマが登場するシーン制作の様子を工程別に解説 - ニュース]]></title>
+        <id>https://cgworld.jp/flashnews/01-202607-Pixar-Hoppers.html</id>
+        <link href="https://cgworld.jp/flashnews/01-202607-Pixar-Hoppers.html"/>
+        <updated>2026-07-15T23:42:39.000Z</updated>
+        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Blender 5.2 LTS が正式リリース！ノードベースの物理演算とオンラインアセットなど新機能を紹介！]]></title>
         <id>https://cginterest.com/?p=60681</id>
@@ -4088,119 +4108,6 @@ Bundle Adjustmentは実際にはどこで使われているのか？
         <summary type="html"><![CDATA[matiasgql氏がUnreal Engine 5向けAmbient Occlusionプラグイン２種「HBAO+ (Horizon Based Ambient Occlusion Plus)」と「T-VBAO (Ground-Truth Visibility Bitmask Ambient Occlusion)」をFab上でリリースしてます！]]></summary>
         <author>
             <name>Ymt3D -3dnchu-</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Houdiniでインスタンス配置ツール開発チュートリアル]]></title>
-        <id>https://tech-art.online/?p=2028</id>
-        <link href="https://tech-art.online/houdini-instance/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=houdini-instance"/>
-        <updated>2026-06-16T12:41:39.000Z</updated>
-        <summary type="html"><![CDATA[Unityでのステージ制作やアセット配置の際、手作業で1つずつ並べたり、サイズが変わるたびに位置を再調整したりする作業にストレスを感じていませんか？  […]
-続きを読む
-Houdiniでインスタンス配置ツール開発チュートリアル first appeared on TECH ART ONLINE.]]></summary>
-        <author>
-            <name>管理人</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CSSのbackdrop-filterでは作れない「屈折するガラス」をWebGLシェーダーで作る]]></title>
-        <id>https://zenn.dev/orectic/articles/liquid-glass-webgl-refraction</id>
-        <link href="https://zenn.dev/orectic/articles/liquid-glass-webgl-refraction"/>
-        <updated>2026-06-16T12:26:01.000Z</updated>
-        <summary type="html"><![CDATA[結論から
-
-CSS の backdrop-filter でできるのはぼかし・明度・彩度などのフィルターまで。背景を歪ませる「屈折」は仕様上できない
-
-iOS 26 の Liquid Glass が「ガラスっぽい」のは、半透明やぼかしではなく背景がレンズのように歪んで見えるから
-これを Web で再現するには、背景を WebGL の canvas に描画し、フラグメントシェーダーでガラス領域のピクセルをずらすのが定番
-形（角丸矩形）の判定は SDF（符号付き距離関数）、屈折の向きは**距離場の勾配（＝法線）**で決める
-
-この記事では、実際に動かしている GLSL シェーダーを分解しな...]]></summary>
-        <author>
-            <name>今井政和</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[いよいよ5日後、オンライン開催！『SCULPTORS DAY 2026』Sculptors Labo編集部が、本イベントの見どころを紹介！ - ニュース]]></title>
-        <id>https://cgworld.jp/flashnews/2606-sculptorsday2026.html</id>
-        <link href="https://cgworld.jp/flashnews/2606-sculptorsday2026.html"/>
-        <updated>2026-06-16T11:23:38.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ストップモーションの世界のキャラクター：3D自画像「Self Portrait」のメイキング]]></title>
-        <id>https://3dtotal.jp/?p=55829</id>
-        <link href="https://3dtotal.jp/tutorials/55829/"/>
-        <updated>2026-06-16T10:02:54.000Z</updated>
-        <summary type="html"><![CDATA[はじめに 今回は、ストップモーション映画から飛び出してきたような 3Dキャラクターの作り方をご紹介します。具体的には、ZBrush の専用ツールで造形に「手作り感」を出す方法、Substance 3D Painter で […]
-The post ストップモーションの世界のキャラクター：3D自画像「Self Portrait」のメイキング first appeared on 3dtotal 日本語オフィシャルサイト.]]></summary>
-        <author>
-            <name>3dtotal管理人T</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[多くのアーティストたちにより ワンシーンが出来上がるまで。ピクサー映画『私がビーバーになる時』のメイキング映像]]></title>
-        <id>https://3dtotal.jp/?p=55795</id>
-        <link href="https://3dtotal.jp/news/55795/"/>
-        <updated>2026-06-16T05:52:22.000Z</updated>
-        <summary type="html"><![CDATA[★Hoppers: One Shot, Many Artists | 'Single Shot' Progression for Bear Attack（28分31秒） ピクサーのアーティストたちが、映画『私がビーバーに […]
-The post 多くのアーティストたちにより ワンシーンが出来上がるまで。ピクサー映画『私がビーバーになる時』のメイキング映像 first appeared on 3dtotal 日本語オフィシャルサイト.]]></summary>
-        <author>
-            <name>3dtotal管理人T</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“猫” が主役の感動作。ディズニー＆ピクサー映画『水の都のネロ』のトレーラー（英語／日本語）]]></title>
-        <id>https://3dtotal.jp/?p=55791</id>
-        <link href="https://3dtotal.jp/news/55791/"/>
-        <updated>2026-06-16T05:47:34.000Z</updated>
-        <summary type="html"><![CDATA[★Gatto | Teaser Trailer（58秒） マーク・ラファロ（『哀れなるものたち』 『アベンジャーズ』『スポットライト 世紀のスクープ』『フォックスキャッチャー』）が、気性の荒い黒猫ネロ役として声優陣に加わ […]
-The post "猫" が主役の感動作。ディズニー＆ピクサー映画『水の都のネロ』のトレーラー（英語／日本語） first appeared on 3dtotal 日本語オフィシャルサイト.]]></summary>
-        <author>
-            <name>3dtotal管理人T</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Trap of "Good Enough“ | 主人公キャラクターを4回作り直して得た気づき！「これで十分」という考えが陥る罠について振り返った開発エピソード動画が公開！]]></title>
-        <id>https://3dnchu.com/?p=1065883</id>
-        <link href="https://3dnchu.com/archives/the-trap-of-good-enough-r16/"/>
-        <updated>2026-06-16T05:46:14.000Z</updated>
-        <summary type="html"><![CDATA[童話の世界をモチーフにしたゲーム「Tale’s Edge」の主人公「RED」のデザインについて、開発元R16 InteractiveのYouTubeチャンネルで制作の裏側が語られています。約2年半にわたる試行錯誤と4度のリデザインを通じて、「“これで十分（Good Enough）”という妥協が、なぜ危険なのか」を振り返る興味深い開発エピソードです。]]></summary>
-        <author>
-            <name>Ymt3D -3dnchu-</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Blenderリトポロジーツール「RetopoFlow 4.1.8」がリリース！ループ微調整、シームを利用したスライド機能の追加やRelaxツールの高速化など]]></title>
-        <id>https://cginterest.com/?p=59786</id>
-        <link href="https://cginterest.com/2026/06/16/blender%e3%83%aa%e3%83%88%e3%83%9d%e3%83%ad%e3%82%b8%e3%83%bc%e3%83%84%e3%83%bc%e3%83%ab%e3%80%8cretopoflow-4-1-8%e3%80%8d%e3%81%8c%e3%83%aa%e3%83%aa%e3%83%bc%e3%82%b9%ef%bc%81%e3%83%ab%e3%83%bc/"/>
-        <updated>2026-06-16T05:37:13.000Z</updated>
-        <summary type="html"><![CDATA[Blender向けリトポロジーツールの最新アップデート「RetopoFlow 4.1.8」が公開されました。 主な新機能 直近のアップデート（v4.1.6〜v4.1.8）では、モデリング作業の効率を向上させる多数の機能追 […]]]></summary>
-        <author>
-            <name>.me</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[エルフィンに実力派遊技機映像クリエイターが集まるわけ 現場目線の環境づくりで支えるキャリアアップ - スペシャルコンテンツ]]></title>
-        <id>https://cgworld.jp/special-feature/2606-elfin.html</id>
-        <link href="https://cgworld.jp/special-feature/2606-elfin.html"/>
-        <updated>2026-06-16T01:55:00.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Autodesk at SIGGRAPH 2026]]></title>
-        <id>https://area.autodesk.jp/event/siggraph-2026/</id>
-        <link href="https://area.autodesk.jp/event/siggraph-2026/"/>
-        <updated>2026-06-16T01:15:00.000Z</updated>
-        <summary type="html"><![CDATA[Autodesk at SIGGRAPH 2026がロサンゼルス・コンベンション・センターで2026 年 7 月 19 日（日）～ 23 日（木）に開催されます。AIの進歩から次世代のアニメーション制作ワークフロー、チーム間のコラボレーション手法に至るまで、エンターテインメントの新たな地平を切り拓く最新のイノベーションをご覧ください。・・・]]></summary>
-        <author>
-            <name>AREA JAPAN | Autodesk</name>
         </author>
     </entry>
 </feed>

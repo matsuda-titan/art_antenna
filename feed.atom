@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-07-17T09:45:50.553Z</updated>
+    <updated>2026-07-17T13:02:45.812Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Blender向け統合物理シミュレーションアドオン『Hurricane』ベータ版がリリース！ 流体・布・ソフトボディ・粒状体が単一空間で相互作用]]></title>
+        <id>https://cginterest.com/?p=60650</id>
+        <link href="https://cginterest.com/2026/07/17/blender%e5%90%91%e3%81%91%e7%b5%b1%e5%90%88%e7%89%a9%e7%90%86%e3%82%b7%e3%83%9f%e3%83%a5%e3%83%ac%e3%83%bc%e3%82%b7%e3%83%a7%e3%83%b3%e3%82%a2%e3%83%89%e3%82%aa%e3%83%b3%e3%80%8ehurricane%e3%80%8f/"/>
+        <updated>2026-07-17T12:04:40.000Z</updated>
+        <summary type="html"><![CDATA[2026年7月14日（現地時間） – BeFX Studiosは、Blender向けパーティクルシステム統合アドオン「Hurricane」のベータ版を公開しました。 Hurricaneとは 「Hurrican […]]]></summary>
+        <author>
+            <name>.me</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【VRChat×Unity】ShaderMotionでアバターの動きをモーションキャプチャーする]]></title>
         <id>https://qiita.com/Kenty1003/items/cec812195a7b9fd9e2d0</id>
@@ -325,6 +335,18 @@ The post 道路の陥没から植物に覆われた廃墟まで！Blenderで簡�
         <summary type="html"><![CDATA[Google Filament の公式ドキュメント『Physically Based Rendering in Filament』の和訳です。マテリアル / ライティング / IBL / イメージングパイプラインなど、PBR の理論と実装についての解説があります。生成AIによる翻訳をベースにしています。]]></summary>
         <author>
             <name>sashi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nyanneco Shadow Mask Generator マニュアル]]></title>
+        <id>https://note.com/nyanneco/n/n9427953f92b0</id>
+        <link href="https://note.com/nyanneco/n/n9427953f92b0"/>
+        <updated>2026-07-14T10:23:58.000Z</updated>
+        <summary type="html"><![CDATA[このジェネレータについて
+Nyanneco shadow Mask generatorは、Substance 3D Painterでイラスト調の影マスクを作るMesh Based Generatorです。メッシュ法線、位置、ベイク済みMesh Map、任意のAnchor入力を組み合わせ、1影・2影・3影を生成します。
+続きをみる]]></summary>
+        <author>
+            <name>#substancepainterタグ</name>
         </author>
     </entry>
     <entry>
@@ -4014,67 +4036,6 @@ The post 新たな始まり。映画『スパイダーマン：ブランド・�
         <summary type="html"><![CDATA[「Mayaで使えるすべての環境変数の一覧ってどこかにないですか？」様々なところで聞かれます。ありそうで無いのがこの情報。どんどん増えていくのと（減ることはほとんど無い）、説明もややこしい物があるので、すべてを網羅して紹介できていないのが現状です。・・・]]></summary>
         <author>
             <name>AREA JAPAN | Autodesk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[第8回 スクウェア・エニックス 前編：AIを現場で使われる技術へ変える - 連載]]></title>
-        <id>https://cgworld.jp/regular/202606-manabi8-1.html</id>
-        <link href="https://cgworld.jp/regular/202606-manabi8-1.html"/>
-        <updated>2026-06-18T01:00:00.000Z</updated>
-        <summary type="html"><![CDATA[AI技術を実際の制作現場で活用するためには、どのような開発と運用が求められるのか。各社の教育・研修の取り組みに迫る連載企画、第8回はスクウェア・エニックス AI＆エンジン開発ディビジョン（以下、AIE）を取り上げる。前編では、フェイシャルリターゲットAIや生成AI活用ツールの開発事例を通して、研究だけで終わらせず、現場で使われる技術へと落とし込むための考え方と実践に迫る。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Unreal Engine 5.8 リリース！Mesh Terrain・MetaHuman群衆生成・AI機能など大型アップデート]]></title>
-        <id>https://modelinghappy.com/?p=69090</id>
-        <link href="https://modelinghappy.com/archives/69090"/>
-        <updated>2026-06-18T00:03:24.000Z</updated>
-        <summary type="html"><![CDATA[Unreal Engine 5.8 がリリースされました Unreal Engine 5.8では、オープンワールド制作、MetaHuman、アニメーション、レンダリングなど、多くの機能が大幅に強化されました。 今回のアッ
-The post Unreal Engine 5.8 リリース！Mesh Terrain・MetaHuman群衆生成・AI機能など大型アップデート first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
-        <author>
-            <name>modelinghappy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Epic Gamesが明かす「Unreal Engine 6」のビジョン：次世代ゲーム開発に向けた3つの柱が公開]]></title>
-        <id>https://cginterest.com/?p=59935</id>
-        <link href="https://cginterest.com/2026/06/18/epic-games%e3%81%8c%e6%98%8e%e3%81%8b%e3%81%99%e3%80%8cunreal-engine-6%e3%80%8d%e3%81%ae%e3%83%93%e3%82%b8%e3%83%a7%e3%83%b3%ef%bc%9a%e6%ac%a1%e4%b8%96%e4%bb%a3%e3%82%b2%e3%83%bc%e3%83%a0%e9%96%8b/"/>
-        <updated>2026-06-17T23:05:00.000Z</updated>
-        <summary type="html"><![CDATA[2026年6月17日（現地時間）- Epic Gamesの開発チームを率いるMarcus Wassmer氏より、次世代ゲームエンジン「Unreal Engine 6（以下、UE6）」に関する初期のビジョンと開発ロードマッ […]]]></summary>
-        <author>
-            <name>.me</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Unreal Engine 5.8 が正式リリース！Mesh TerrainやMegaLights、リギングおよびアニメーション機能強化など]]></title>
-        <id>https://cginterest.com/?p=59913</id>
-        <link href="https://cginterest.com/2026/06/18/unreal-engine-5-8-%e3%81%8c%e6%ad%a3%e5%bc%8f%e3%83%aa%e3%83%aa%e3%83%bc%e3%82%b9%ef%bc%81mesh-terrain%e3%82%84megalights%e3%80%81%e3%83%aa%e3%82%ae%e3%83%b3%e3%82%b0%e3%81%8a%e3%82%88%e3%81%b3/"/>
-        <updated>2026-06-17T22:12:00.000Z</updated>
-        <summary type="html"><![CDATA[2026年6月17日（現地時間）- Epic Games は、「Unreal Engine 5.8」の提供開始を発表しました。 主な新機能 バージョンでは、ワールド構築や地形作成ツール、リアルタイムでの高品質な植生作成、 […]]]></summary>
-        <author>
-            <name>.me</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[スタジオダックビル、3DGS Meetup vol.2の登壇資料「ブラウザだけで3DGSを"歩ける世界に"」公開　自社開発ビューア「SplatStrollファミリー」の技術的トピックを詳説 - ニュース]]></title>
-        <id>https://cgworld.jp/flashnews/01-202606-3dgsmeetup.html</id>
-        <link href="https://cgworld.jp/flashnews/01-202606-3dgsmeetup.html"/>
-        <updated>2026-06-17T22:07:27.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MetaHuman 5.8 リリース！群衆表現や 「Mesh to MetaHuman」の全身対応など]]></title>
-        <id>https://cginterest.com/?p=59934</id>
-        <link href="https://cginterest.com/2026/06/18/metahuman-5-8-%e3%83%aa%e3%83%aa%e3%83%bc%e3%82%b9%ef%bc%81%e7%be%a4%e8%a1%86%e8%a1%a8%e7%8f%be%e3%82%84-%e3%80%8cmesh-to-metahuman%e3%80%8d%e3%81%ae%e5%85%a8%e8%ba%ab%e5%af%be%e5%bf%9c%e3%81%aa/"/>
-        <updated>2026-06-17T21:54:00.000Z</updated>
-        <summary type="html"><![CDATA[2026年6月17日（現地時間）- Epic Gamesより、MetaHumanの最新バージョンである「MetaHuman 5.8」がリリースされました。 主な新機能 今回のアップデートでは、数十人から数千人規模の群衆を […]]]></summary>
-        <author>
-            <name>.me</name>
         </author>
     </entry>
 </feed>

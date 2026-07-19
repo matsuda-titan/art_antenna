@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-07-19T05:41:06.826Z</updated>
+    <updated>2026-07-19T09:43:19.640Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
@@ -3808,31 +3808,6 @@ Shader "Unlit/DissolveShader"
 The post 『アベンジャーズ／エンドゲーム』の制作にも参加したアーティストが教える、15時間超えのフォトリアルキャラクター制作講座がWingfoxで販売開始！ first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
         <author>
             <name>modelinghappy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Windows上のHoudiniにRedshiftプラグインを入れる（2026年）]]></title>
-        <id>https://zenn.dev/ryo_a/articles/1e1743988e0eb5</id>
-        <link href="https://zenn.dev/ryo_a/articles/1e1743988e0eb5"/>
-        <updated>2026-06-19T18:08:38.000Z</updated>
-        <summary type="html"><![CDATA[前提
-この解説は以下の前提のもとで進めます
-
-Houdini Launcherがインストールされており、Houdiniが利用できる状態であること
-
-また、Houdini Indie以上を利用していること（無料版のHoudini Apprenticeではサードパーティのレンダラーがサポートされていません）
-
-
-Redshiftの有効なライセンスがあり、MAXON Appがインストールされていること
-
-
- 手順
-
- 利用できるバージョンの確認
-MAXONのヘルプに、Redshift公式でサポートされているバージョンの対応関係が記載されています。
-https://help.maxon.ne...]]></summary>
-        <author>
-            <name>ryo-a</name>
         </author>
     </entry>
 </feed>

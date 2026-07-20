@@ -2,10 +2,56 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-07-20T05:58:52.485Z</updated>
+    <updated>2026-07-20T10:39:56.585Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[UV Islands Edge – UVアイランドの重なり・間隔・UDIMエラーを可視化できる無料Blenderアドオン]]></title>
+        <id>https://modelinghappy.com/?p=69426</id>
+        <link href="https://modelinghappy.com/archives/69426"/>
+        <updated>2026-07-20T10:02:11.000Z</updated>
+        <summary type="html"><![CDATA[UV Islands Edge UV Islands Edgeは、Blenderで編集モードでUVアイランドを分析して、色で通常、近い、重なり表示や、UDIM配置エラー、反転した面、近すぎるアイランドなどの問題を検出して
+The post UV Islands Edge – UVアイランドの重なり・間隔・UDIMエラーを可視化できる無料Blenderアドオン first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
+        <author>
+            <name>modelinghappy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Node Peek-シェーダーノードをサムネイルでリアルタイムプレビューできる無料Blenderアドオン]]></title>
+        <id>https://modelinghappy.com/?p=69422</id>
+        <link href="https://modelinghappy.com/archives/69422"/>
+        <updated>2026-07-20T09:45:27.000Z</updated>
+        <summary type="html"><![CDATA[Node Peek Node PeekはBlenderのシェーダーエディターの各ノードの上に、レンダリングされたサムネイルプレビューがリアルタイム表示出来るアドオンです。 各ノードの出力の小さなサムネイルをレンダリングし
+The post Node Peek-シェーダーノードをサムネイルでリアルタイムプレビューできる無料Blenderアドオン first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
+        <author>
+            <name>modelinghappy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ClaudeCodeでイラスト制作補助ツールを作った話（と、気付いたこと）]]></title>
+        <id>https://zenn.dev/zn_ryg12/articles/shader-note-20260720</id>
+        <link href="https://zenn.dev/zn_ryg12/articles/shader-note-20260720"/>
+        <updated>2026-07-20T09:09:07.000Z</updated>
+        <summary type="html"><![CDATA[Unityで静止画にポスプロかけるツールを初めて作って公開してみました。
+やってみて刺さった気付きを、忘れないうちに残しておきます。
+筆者：絵描きで2Dアーティスト。
+
+
+ つくったもの
+https://github.com/ryuga-12z/2d-postprocess-tool
+平たく説明すると、静止画にポストエフェクト加工を加えて書き出しする、
+2Dアーティストが絵描き向けに作ったイラスト制作の補助的ツール
+
+左から右に加工するようなやつ
+
+ なぜ作ったのか
+今までありそうでなかったイラスト制作の補助ツールが作れると思ったからです。
+シェーダーが多少書けるようになった+Unity...]]></summary>
+        <author>
+            <name>ryuga.</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ProductionCrate、Substance 3D Painterのアンカーポイント解説動画を公開　基礎知識から自動生成、剥がれや傷跡などの表現まで - ニュース]]></title>
         <id>https://cgworld.jp/flashnews/01-202607-Sp-Anchor.html</id>

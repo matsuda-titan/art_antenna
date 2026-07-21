@@ -2,10 +2,54 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-07-21T05:39:52.960Z</updated>
+    <updated>2026-07-21T10:13:44.190Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[V-Ray 7 Update 4 がリリース！ガウススプラットのリライティング対応、レンダリングパフォーマンスの向上など]]></title>
+        <id>https://cginterest.com/?p=60935</id>
+        <link href="https://cginterest.com/2026/07/21/v-ray-7-update-4-%e3%81%8c%e3%83%aa%e3%83%aa%e3%83%bc%e3%82%b9%ef%bc%81%e3%82%ac%e3%82%a6%e3%82%b9%e3%82%b9%e3%83%97%e3%83%a9%e3%83%83%e3%83%88%e3%81%ae%e3%83%aa%e3%83%a9%e3%82%a4%e3%83%86%e3%82%a3/"/>
+        <updated>2026-07-21T09:57:00.000Z</updated>
+        <summary type="html"><![CDATA[2026年7月20日（現地時間） – Chaosは、メディア＆エンターテイメント向けの V-Ray 7, update 4 を発表しました。 新機能ハイライト このアップデートでは、DCCツールのビューポート […]]]></summary>
+        <author>
+            <name>.me</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Substance Designer / ノイズで作る氷]]></title>
+        <id>https://note.com/efeozi/n/n9882c30b66cb</id>
+        <link href="https://note.com/efeozi/n/n9882c30b66cb"/>
+        <updated>2026-07-21T08:06:49.000Z</updated>
+        <summary type="html"><![CDATA[続きをみる]]></summary>
+        <author>
+            <name>#SubstanceDesignerタグ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Substance Designer / 地割れ]]></title>
+        <id>https://note.com/efeozi/n/n36c0972ff5c6</id>
+        <link href="https://note.com/efeozi/n/n36c0972ff5c6"/>
+        <updated>2026-07-21T08:05:03.000Z</updated>
+        <summary type="html"><![CDATA[続きをみる]]></summary>
+        <author>
+            <name>#SubstanceDesignerタグ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Laplacian Surface Editing (2004)]]></title>
+        <id>https://qiita.com/matumu20/items/c99b6048ea124af60148</id>
+        <link href="https://qiita.com/matumu20/items/c99b6048ea124af60148"/>
+        <updated>2026-07-21T06:34:09.000Z</updated>
+        <summary type="html"><![CDATA[Laplacian Surface Editing (Olga Sorkine, 2004)
+
+3行要約
+
+本論文では、メッシュの各頂点を近傍頂点の重心からの相対位置（微分座標）で表現することで、形状の幾何学的詳細を保持したまま編集を行う新しい手法を提案しています。...]]></summary>
+        <author>
+            <name>3DCGタグが付けられた新着記事 - Qiita</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【Maya】レースゲーム制作で役に立つ簡易ビューワーの作成]]></title>
         <id>https://3d.crdg.jp/env/?p=9981</id>
@@ -3774,59 +3818,6 @@ sesi_temporary: :sesi_temporary: : Sop/subnet死ぬほど長いエラーが出�
         <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
         <author>
             <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[VAST AI、単一画像から3DGSを生成する技術「TripoSplat」オープンソースで公開　ゲームやXR、シミュレーション環境向けに最適化されたモデルを生成 - ニュース]]></title>
-        <id>https://cgworld.jp/flashnews/01-202606-TripoSplat.html</id>
-        <link href="https://cgworld.jp/flashnews/01-202606-TripoSplat.html"/>
-        <updated>2026-06-21T21:59:44.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[フォトグラメトリ数学｜34：RPC（Rational Polynomial Coefficient）とは何か]]></title>
-        <id>https://zenn.dev/s_hashida/articles/b222730a0d3a49</id>
-        <link href="https://zenn.dev/s_hashida/articles/b222730a0d3a49"/>
-        <updated>2026-06-21T21:58:05.000Z</updated>
-        <summary type="html"><![CDATA[はじめに
-前回は、
-
-GCP
-GPS/INS
-絶対標定
-
-について説明しました。
-
-その中で重要だったのが、
-
-空中三角測量だけでは絶対位置は決まらない
-GCPやGPS/INSで地図座標系へ結び付ける
-絶対モデルが得られる
-
-という点です。
-
-しかしここで疑問が出てきます。
-
-衛星画像でも同じ方法を使うのか？
-衛星にもカメラはあるのか？
-衛星画像の位置はどう求めているのか？
-
-
-実は、高分解能衛星では少し事情が異なります。
-
-そこで利用されるのが、
-RPC（Rational Polynomial Coefficient）
-です。
-
-今回は、
-
-RPCとは何か
-なぜ衛星画像で使われる...]]></summary>
-        <author>
-            <name>s_hashida</name>
         </author>
     </entry>
 </feed>

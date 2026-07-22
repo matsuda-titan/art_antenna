@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-07-22T05:38:40.489Z</updated>
+    <updated>2026-07-22T10:13:43.934Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【Blender】Weightを正規化する方法]]></title>
+        <id>https://qiita.com/tsukino_/items/6db9d62faf3db1f3531a</id>
+        <link href="https://qiita.com/tsukino_/items/6db9d62faf3db1f3531a"/>
+        <updated>2026-07-22T07:13:45.000Z</updated>
+        <summary type="html"><![CDATA[アプリケーションで3Dモデルを使用する際、頂点のWeightが合計で1.0を超えていると、アプリケーション側で不整合が起こる可能性があります。
+Blenderを使用することで、Weightの正規化を行うことが可能です。
+本記事では、Blenderを使用して、Weightの正...]]></summary>
+        <author>
+            <name>3DCGタグが付けられた新着記事 - Qiita</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Anime Hair Studio | Stylizedヘアー3Dメッシュ作成ツール！ブラウザ上で動作する試用版がお試し可能！]]></title>
+        <id>https://3dnchu.com/?p=1066622</id>
+        <link href="https://3dnchu.com/archives/anime-hair-studio/"/>
+        <updated>2026-07-22T06:29:19.000Z</updated>
+        <summary type="html"><![CDATA[LuDe氏が現在開発中の、3Dヘアーメッシュ作成ツール「Anime Hair Studio」のお試し版がブラウザ上で利用可能です。]]></summary>
+        <author>
+            <name>Ymt3D -3dnchu-</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[アニメ『名探偵プリキュア！』ED 、可愛さと遊び心あふれるプリキュアたちの表現に注目！〜No.1／演出篇 - 特集]]></title>
         <id>https://cgworld.jp/article/335-meitanteiprecure01.html</id>
@@ -3770,16 +3792,6 @@ The post 「Weight Paint Box」- 従来のブラシを使わず、変形ボッ�
 The post 「Light Flow」- カーソルをモデル上に合わせるだけでライトを自動配置できる3ds Max向けツール first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
         <author>
             <name>modelinghappy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PlayCanvas、3DGS最適化ツール「SuperSplat」更新　WebGPUと自動ストリーミング、動的LOD制御によりパフォーマンス向上 - ニュース]]></title>
-        <id>https://cgworld.jp/flashnews/01-202606-SuperSplat.html</id>
-        <link href="https://cgworld.jp/flashnews/01-202606-SuperSplat.html"/>
-        <updated>2026-06-22T21:41:33.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
         </author>
     </entry>
 </feed>

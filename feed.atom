@@ -2,10 +2,78 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-07-21T13:14:46.737Z</updated>
+    <updated>2026-07-22T01:41:59.566Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[第9回 プラチナゲームズ 前編：職種を越えて「ゲームを面白くする」人を育てる - 連載]]></title>
+        <id>https://cgworld.jp/regular/202607-manabi9-1.html</id>
+        <link href="https://cgworld.jp/regular/202607-manabi9-1.html"/>
+        <updated>2026-07-22T01:30:00.000Z</updated>
+        <summary type="html"><![CDATA[各社の教育・研修の取り組みに迫る連載企画「クリエイターの学びの現場」。第9回では、『ベヨネッタ』シリーズや『NieR:Automata』などを手がけるプラチナゲームズを取り上げる。同社の開発文化の根底にあるのが、「全員ゲームクリエイター」という考え方だ。前編では、若手へ大胆に裁量を委ねる育成方針や、専門領域を越えてゲームづくりへ関わる文化、その背景にある考え方を紹介する。]]></summary>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Edit Layers – Blenderでモデリングの編集履歴をレイヤー化！非破壊編集で自由に管理できる無料アドオン]]></title>
+        <id>https://modelinghappy.com/?p=69441</id>
+        <link href="https://modelinghappy.com/archives/69441"/>
+        <updated>2026-07-22T00:04:47.000Z</updated>
+        <summary type="html"><![CDATA[Edit Layers ハヤシヒカルさんが作成した、Edit Layersは、モデリング工程をレイヤー方式で非破壊に管理・再編集できるBlenderアドオンです。 Recordボタンを押し、標準のEditモードまたはSc
+The post Edit Layers – Blenderでモデリングの編集履歴をレイヤー化！非破壊編集で自由に管理できる無料アドオン first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
+        <author>
+            <name>modelinghappy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SideFX、プロダクション向けAPEX活用アニメーションワークフロー解説動画公開　Paris HUG 2026でのマッテオ・マルティネス氏による講演 - ニュース]]></title>
+        <id>https://cgworld.jp/flashnews/01-202607-Houdini-APEX.html</id>
+        <link href="https://cgworld.jp/flashnews/01-202607-Houdini-APEX.html"/>
+        <updated>2026-07-21T23:38:54.000Z</updated>
+        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Edit Layers | メッシュの編集履歴を非破壊的に保持できるBlenderアドオン！Blender Extensionsにて無償公開！]]></title>
+        <id>https://3dnchu.com/?p=1066612</id>
+        <link href="https://3dnchu.com/archives/edit-layers/"/>
+        <updated>2026-07-21T18:21:42.000Z</updated>
+        <summary type="html"><![CDATA[テクニカルディレクターのハヤシヒカル氏（@hayashi_cg）がメッシュの編集履歴を非破壊的に保持できるBlenderアドオン「Edit Layers」を開発しBlender Extensions上で無償公開しています！
+·]]></summary>
+        <author>
+            <name>Ymt3D -3dnchu-</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Metallic BSDF+ | 金属表現に関する研究論文を元に構築されたBlender用Metallic BSDFノードが無料公開！]]></title>
+        <id>https://3dnchu.com/?p=1066593</id>
+        <link href="https://3dnchu.com/archives/metallic-bsdf-savagecg/"/>
+        <updated>2026-07-21T17:53:11.000Z</updated>
+        <summary type="html"><![CDATA[SavageCG氏が金属表現系の研究論文から引用し5,403個のノードを経て構築したBlender用マテリアルノード「Metallic BSDF+」を無償公開しています！]]></summary>
+        <author>
+            <name>Ymt3D -3dnchu-</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[hub and ...]]></title>
+        <id>https://zenn.dev/acntechjp/articles/ai-hub-and-spoke</id>
+        <link href="https://zenn.dev/acntechjp/articles/ai-hub-and-spoke"/>
+        <updated>2026-07-21T15:37:47.000Z</updated>
+        <summary type="html"><![CDATA[はじめに
+そろそろマルチエージェントに挑戦してみたくて、ハブ＆スポーク型のアーキテクチャでClaude君たちに何か作って貰います。
+
+ ハブ＆スポークパターンとは？
+マルチエージェントにも色々パターンがあるみたいで、AIに何をやらせるかによってパターンをうまく使い分けたり、組み合わせたりすることが必要となるようです。
+今回のハブ＆スポークパターンはオーケストレーター役のエージェント（ハブ）が司令塔となって、サブエージェント（スポーク）たちにタスクを振り分け、結果を受け取る構造です。
+このアーキテクチャの場合、スポークにあたるサブエージェント同士は会話せず、オーケストレーター役のみと連...]]></summary>
+        <author>
+            <name>yosuke.yasuda</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[V-Ray 7 Update 4 がリリース！ガウススプラットのリライティング対応、レンダリングパフォーマンスの向上など]]></title>
         <id>https://cginterest.com/?p=60935</id>
@@ -3684,97 +3752,6 @@ The post 「Light Flow」- カーソルをモデル上に合わせるだけで�
 投稿 【Maya】初期設定 ～まず最初にやること～① は エンホリ - ENVIRONMENT HOLIC｜C&R Creative Studios に最初に表示されました。]]></summary>
         <author>
             <name>Kosei.Hatanaka</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[募集テーマは《スチームパンク》！　連載企画「CGWORLD GALLERY」作品応募受付は7/26（日）まで - ニュース]]></title>
-        <id>https://cgworld.jp/flashnews/cgwg-v032.html</id>
-        <link href="https://cgworld.jp/flashnews/cgwg-v032.html"/>
-        <updated>2026-06-22T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[月刊『CGWORLD』の連載「CGWORLD GALLERY」。今回は《スチームパンク》をテーマに3DCG作品を募集！]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[After Effects 26.3 がリリース！Advanced 3Dでの被写界深度のサポート、SVGコンテンツの直接ペースト機能の追加など]]></title>
-        <id>https://cginterest.com/?p=60117</id>
-        <link href="https://cginterest.com/2026/06/22/after-effects-26-3-%e3%81%8c%e3%83%aa%e3%83%aa%e3%83%bc%e3%82%b9%ef%bc%81advanced-3d%e3%81%a7%e3%81%ae%e8%a2%ab%e5%86%99%e7%95%8c%e6%b7%b1%e5%ba%a6%e3%81%ae%e3%82%b5%e3%83%9d%e3%83%bc%e3%83%88/"/>
-        <updated>2026-06-22T10:03:00.000Z</updated>
-        <summary type="html"><![CDATA[After Effectsの2026年6月リリース（バージョン 26.3）の新機能情報です。 主な新機能 After Effectsの最新リリース（バージョン 26.3）では、Advanced 3Dでの被写界深度のサポー […]]]></summary>
-        <author>
-            <name>.me</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Premiere Pro 26.3 アップデート情報！単語別キャプション生成や新しいトランジションや拡大エフェクトの追加など]]></title>
-        <id>https://cginterest.com/?p=60116</id>
-        <link href="https://cginterest.com/2026/06/22/premiere-pro-26-3-%e3%82%a2%e3%83%83%e3%83%97%e3%83%87%e3%83%bc%e3%83%88%e6%83%85%e5%a0%b1%ef%bc%81%e5%8d%98%e8%aa%9e%e5%88%a5%e3%82%ad%e3%83%a3%e3%83%97%e3%82%b7%e3%83%a7%e3%83%b3%e7%94%9f%e6%88%90/"/>
-        <updated>2026-06-22T09:00:16.000Z</updated>
-        <summary type="html"><![CDATA[Premiere Proの2026年6月リリース（バージョン 26.3）の新機能情報です。 主な新機能 Premiere Proの最新リリース（バージョン 26.3）では、より効率的な編集作業をサポートするための新機能が […]]]></summary>
-        <author>
-            <name>.me</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【mount inc.✕日本デザインセンター】紙の重なりが生む変化と質感をWebで見せる。大丸松坂屋百貨店「百様図」特設サイト - 特集]]></title>
-        <id>https://cgworld.jp/article/202606-cgw334-mount02.html</id>
-        <link href="https://cgworld.jp/article/202606-cgw334-mount02.html"/>
-        <updated>2026-06-22T07:28:00.000Z</updated>
-        <summary type="html"><![CDATA[mount inc.と日本デザインセンターのコラボレーションで生まれる表現に迫る。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CEDEC2026]]></title>
-        <id>https://area.autodesk.jp/event/autodesk/cedec2026/</id>
-        <link href="https://area.autodesk.jp/event/autodesk/cedec2026/"/>
-        <updated>2026-06-22T04:30:00.000Z</updated>
-        <summary type="html"><![CDATA[CEDEC2026はコンピュータエンターテインメント開発者を対象とした、ゲームに関する技術や知識を共有する国内最大級のカンファレンスです。毎年3日間にわたって、約200ものセッションが行われます。・・・]]></summary>
-        <author>
-            <name>AREA JAPAN | Autodesk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CGでよみがえる氷河時代の動物たち。海外ドキュメンタリー『太古の地球から 氷河時代の動物たち』の VFXメイキング＆プリビズ映像]]></title>
-        <id>https://3dtotal.jp/?p=55870</id>
-        <link href="https://3dtotal.jp/news/55870/"/>
-        <updated>2026-06-22T04:00:58.000Z</updated>
-        <summary type="html"><![CDATA[★Prehistoric Planet: Ice Age VFX Breakdowne（3分10秒） ジョン・ファヴロー と マイク・ガントン がエグゼクティブ・プロデューサーを務め、BBCスタジオの自然史ユニット制作の […]
-The post CGでよみがえる氷河時代の動物たち。海外ドキュメンタリー『太古の地球から 氷河時代の動物たち』の VFXメイキング＆プリビズ映像 first appeared on 3dtotal 日本語オフィシャルサイト.]]></summary>
-        <author>
-            <name>3dtotal管理人T</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LAIKA のアニメーターが語る キャラクターに命を吹き込む方法：映画『コララインとボタンの魔女』のボビンスキー]]></title>
-        <id>https://3dtotal.jp/?p=55867</id>
-        <link href="https://3dtotal.jp/news/55867/"/>
-        <updated>2026-06-22T04:00:28.000Z</updated>
-        <summary type="html"><![CDATA[★Animator's Eye: The Inspiration Behind Mr. Bobinsky（4分29秒） 動きまくる足、まばたきする目、そして 揺れるチーズのパッケージの山。LAIKA の名作ストップモーシ […]
-The post LAIKA のアニメーターが語る キャラクターに命を吹き込む方法：映画『コララインとボタンの魔女』のボビンスキー first appeared on 3dtotal 日本語オフィシャルサイト.]]></summary>
-        <author>
-            <name>3dtotal管理人T</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[第3回：柄表現編 〜意味と見せ方で"派手さ"をつくる〜 - 連載]]></title>
-        <id>https://cgworld.jp/regular/2606-hadegaku-03.html.html</id>
-        <link href="https://cgworld.jp/regular/2606-hadegaku-03.html.html"/>
-        <updated>2026-06-22T02:06:00.000Z</updated>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ZBrushでのブラシ選択を直感的にする専用ラジアルメニューツール「RadialZ」]]></title>
-        <id>https://cginterest.com/?p=59850</id>
-        <link href="https://cginterest.com/2026/06/22/zbrush%e3%81%a7%e3%81%ae%e3%83%96%e3%83%a9%e3%82%b7%e9%81%b8%e6%8a%9e%e3%82%92%e7%9b%b4%e6%84%9f%e7%9a%84%e3%81%ab%e3%81%99%e3%82%8b%e5%b0%82%e7%94%a8%e3%83%a9%e3%82%b8%e3%82%a2%e3%83%ab%e3%83%a1/"/>
-        <updated>2026-06-22T02:00:02.000Z</updated>
-        <summary type="html"><![CDATA[ZBrush 用のラジアルメニューツール「RadialZ」の紹介です。 RadialZとは RadialZは、画面上にたくさんのパレットを展開してブラシを探す代わりに、カーソル位置に展開される「ラジアルメニュー（円環状の […]]]></summary>
-        <author>
-            <name>.me</name>
         </author>
     </entry>
 </feed>

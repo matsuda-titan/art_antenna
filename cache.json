@@ -2545,21 +2545,6 @@
             "type": "false"
           },
           "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--ZKMoqwyO--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%2595%25E3%2582%25A9%25E3%2583%2588%25E3%2582%25B0%25E3%2583%25A9%25E3%2583%25A1%25E3%2583%2588%25E3%2583%25AA%25E6%2595%25B0%25E5%25AD%25A6%25EF%25BD%259C36%25EF%25BC%259ARPC%25E3%2581%25AE%25E5%2586%2585%25E9%2583%25A8%25E6%25A7%258B%25E9%2580%25A0%25E3%2581%25A8Rational%2520Function%2520Model%25E3%2581%25A8%25E3%2581%25AF%25E4%25BD%2595%25E3%2581%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:s_hashida%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2JmNmU5NjMzMTEuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
-        },
-        {
-          "id": "https://zenn.dev/s_hashida/articles/67d8d8bd93c8ec",
-          "author": "s_hashida",
-          "description": "はじめに\n前回は、\n\nRPC\n地上座標と画像座標\n\nについて説明しました。\n\nその中で重要だったのが、\n\nRPCで位置計算ができる\n衛星内部の複雑なモデルを意識しなくてよい\nしかし位置誤差は残る\n\nという点です。\n\nしかしここで疑問が出てきます。\n\nRPCだけで十分なのか？\n複数の衛星画像はどう利用するのか？\nより高い位置精度はどう実現するのか？\n\n\n実は衛星画像でも、航空写真の空中三角測量とよく似た考え方が利用されています。\nそれが、\n衛星空中三角測量（Satellite Triangulation）\nです。\n\n今回は、\n\n衛星空中三角測量とは何か\nタイポイントの役割\nRPCとの...",
-          "link": "https://zenn.dev/s_hashida/articles/67d8d8bd93c8ec",
-          "publishedOn": "2026-06-23T21:50:05.000Z",
-          "wordCount": 912,
-          "title": "フォトグラメトリ数学｜35：衛星空中三角測量（Satellite Triangulation）とは何か",
-          "enclosure": {
-            "url": "https://res.cloudinary.com/zenn/image/upload/s--QkyHS7D0--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%2595%25E3%2582%25A9%25E3%2583%2588%25E3%2582%25B0%25E3%2583%25A9%25E3%2583%25A1%25E3%2583%2588%25E3%2583%25AA%25E6%2595%25B0%25E5%25AD%25A6%25EF%25BD%259C35%25EF%25BC%259A%25E8%25A1%259B%25E6%2598%259F%25E7%25A9%25BA%25E4%25B8%25AD%25E4%25B8%2589%25E8%25A7%2592%25E6%25B8%25AC%25E9%2587%258F%25EF%25BC%2588Satellite%2520Triangulation%25EF%25BC%2589%25E3%2581%25A8%25E3%2581%25AF%25E4%25BD%2595%25E3%2581%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:s_hashida%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2JmNmU5NjMzMTEuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
-            "length": "0",
-            "type": "false"
-          },
-          "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--QkyHS7D0--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%2595%25E3%2582%25A9%25E3%2583%2588%25E3%2582%25B0%25E3%2583%25A9%25E3%2583%25A1%25E3%2583%2588%25E3%2583%25AA%25E6%2595%25B0%25E5%25AD%25A6%25EF%25BD%259C35%25EF%25BC%259A%25E8%25A1%259B%25E6%2598%259F%25E7%25A9%25BA%25E4%25B8%25AD%25E4%25B8%2589%25E8%25A7%2592%25E6%25B8%25AC%25E9%2587%258F%25EF%25BC%2588Satellite%2520Triangulation%25EF%25BC%2589%25E3%2581%25A8%25E3%2581%25AF%25E4%25BD%2595%25E3%2581%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:s_hashida%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2JmNmU5NjMzMTEuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
         }
       ]
     },
@@ -2830,6 +2815,16 @@
       "feedUrl": "https://qiita.com/tags/hlsl/feed",
       "siteUrl": "https://qiita.com",
       "articles": [
+        {
+          "id": "https://qiita.com/YYYGame/items/a70618757f1934f5c7b3",
+          "author": null,
+          "description": "【Unity HLSL】暗号みたいなHSV→RGB変換の数式を「グラフ」で完全に理解する\nUnityでシェーダーを書いていると、色を扱う際に「HSVからRGBへの変換」が必要になることがよくあります。\nネットで検索すると、以下のような最適化された変換コードがよく出てきます...",
+          "link": "https://qiita.com/YYYGame/items/a70618757f1934f5c7b3",
+          "publishedOn": "2026-07-23T06:15:14.000Z",
+          "wordCount": 1221,
+          "title": "【Unity HLSL】暗号みたいなHSV→RGB変換の数式を「グラフ」で完全に理解する",
+          "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRmxoMy5nb29nbGV1c2VyY29udGVudC5jb20lMkZhJTJGQUNnOG9jSm9VZWZ3MDliRXZ4RmNMZnJHUnVxOGxWUXg3OWQxa0s4clU2VlAzZ09GUWxYOGdKdyUzRHM5Ni1jP2l4bGliPXJiLTQuMS4xJmFyPTElM0ExJmZpdD1jcm9wJm1hc2s9ZWxsaXBzZSZiZz1GRkZGRkYmZm09cG5nMzImcz1lOWNjNGIxZmM4MWVhMmZiY2EyMjUyZjBkOTFhNDNhMg%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D8742580d33e47730d96f7793430d225c?ixlib=rb-4.1.1&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9JUUzJTgwJTkwVW5pdHklMjBITFNMJUUzJTgwJTkxJUU2JTlBJTk3JUU1JThGJUI3JUUzJTgxJUJGJUUzJTgxJTlGJUUzJTgxJTg0JUUzJTgxJUFBSFNWJUUyJTg2JTkyUkdCJUU1JUE0JTg5JUU2JThGJTlCJUUzJTgxJUFFJUU2JTk1JUIwJUU1JUJDJThGJUUzJTgyJTkyJUUzJTgwJThDJUUzJTgyJUIwJUUzJTgzJUE5JUUzJTgzJTk1JUUzJTgwJThEJUUzJTgxJUE3JUU1JUFFJThDJUU1JTg1JUE4JUUzJTgxJUFCJUU3JTkwJTg2JUU4JUE3JUEzJUUzJTgxJTk5JUUzJTgyJThCJnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9YWIxYWFiY2FjZGU2YzZiODkyNmEzOGYxY2I0ZTczYWQ&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBZWVlHYW1lJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9MDNjZWU0ZGE2ZmIyYmI2NmVmODFjOTJhNmMxYTFjZWQ&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=0fd0f745ac9d52431abd38b6ec526a85"
+        },
         {
           "id": "https://qiita.com/FujiiShintaro/items/235801069d2dc511d896",
           "author": null,

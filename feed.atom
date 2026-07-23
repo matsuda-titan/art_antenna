@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-07-23T05:43:39.330Z</updated>
+    <updated>2026-07-23T10:10:53.708Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【Unity HLSL】暗号みたいなHSV→RGB変換の数式を「グラフ」で完全に理解する]]></title>
+        <id>https://qiita.com/YYYGame/items/a70618757f1934f5c7b3</id>
+        <link href="https://qiita.com/YYYGame/items/a70618757f1934f5c7b3"/>
+        <updated>2026-07-23T06:15:14.000Z</updated>
+        <summary type="html"><![CDATA[【Unity HLSL】暗号みたいなHSV→RGB変換の数式を「グラフ」で完全に理解する
+Unityでシェーダーを書いていると、色を扱う際に「HSVからRGBへの変換」が必要になることがよくあります。
+ネットで検索すると、以下のような最適化された変換コードがよく出てきます...]]></summary>
+        <author>
+            <name>HLSLタグが付けられた新着記事 - Qiita</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Autodesk、MayaのMotionMaker拡充や3ds Maxの3DGS編集対応など新機能を発表！]]></title>
         <id>https://cginterest.com/?p=61023</id>
@@ -3751,48 +3763,6 @@ The post 「QuickMaker」- 1枚画像から3Dモデル・ストーリーボー�
         <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
         <author>
             <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[フォトグラメトリ数学｜35：衛星空中三角測量（Satellite Triangulation）とは何か]]></title>
-        <id>https://zenn.dev/s_hashida/articles/67d8d8bd93c8ec</id>
-        <link href="https://zenn.dev/s_hashida/articles/67d8d8bd93c8ec"/>
-        <updated>2026-06-23T21:50:05.000Z</updated>
-        <summary type="html"><![CDATA[はじめに
-前回は、
-
-RPC
-地上座標と画像座標
-
-について説明しました。
-
-その中で重要だったのが、
-
-RPCで位置計算ができる
-衛星内部の複雑なモデルを意識しなくてよい
-しかし位置誤差は残る
-
-という点です。
-
-しかしここで疑問が出てきます。
-
-RPCだけで十分なのか？
-複数の衛星画像はどう利用するのか？
-より高い位置精度はどう実現するのか？
-
-
-実は衛星画像でも、航空写真の空中三角測量とよく似た考え方が利用されています。
-それが、
-衛星空中三角測量（Satellite Triangulation）
-です。
-
-今回は、
-
-衛星空中三角測量とは何か
-タイポイントの役割
-RPCとの...]]></summary>
-        <author>
-            <name>s_hashida</name>
         </author>
     </entry>
 </feed>

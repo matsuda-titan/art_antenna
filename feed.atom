@@ -2,10 +2,65 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-07-25T12:59:11.361Z</updated>
+    <updated>2026-07-26T01:47:47.603Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【無料アドオン】Edit Layers – 編集結果をレイヤー管理！]]></title>
+        <id>https://cgbox.jp/?p=65509</id>
+        <link href="https://cgbox.jp/2026/07/26/news-addon-edit-layers/"/>
+        <updated>2026-07-26T01:01:13.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは！ 今回はアドオンの「Edit Layers」を紹介します。 こちらのリンクがアドオンの商品ページになります。 Edit Layers 「Edit Layers」は、Blenderにレイヤーベースの非破壊メッシ […]]]></summary>
+        <author>
+            <name>kasahara</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BlendCap Performance Capture｜スマホ動画だけで全身・表情・指をモーションキャプチャできるBlenderアドオン]]></title>
+        <id>https://modelinghappy.com/?p=69503</id>
+        <link href="https://modelinghappy.com/archives/69503"/>
+        <updated>2026-07-25T23:47:22.000Z</updated>
+        <summary type="html"><![CDATA[Blendcap Performance Capture BlendCapはBlender用のパフォーマンスキャプチャアドオンで、録画したビデオから身体、手、顔の動きをトラッキングし、その結果をIKコントロールに対応した
+The post BlendCap Performance Capture｜スマホ動画だけで全身・表情・指をモーションキャプチャできるBlenderアドオン first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
+        <author>
+            <name>modelinghappy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【Maya】初期設定 ～まず最初にやること～②]]></title>
+        <id>https://3d.crdg.jp/env/?p=10073</id>
+        <link href="https://3d.crdg.jp/env/2026/07/25/10073/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=%25e3%2580%2590maya%25e3%2580%2591%25e5%2588%259d%25e6%259c%259f%25e8%25a8%25ad%25e5%25ae%259a-%25ef%25bd%259e%25e3%2581%25be%25e3%2581%259a%25e6%259c%2580%25e5%2588%259d%25e3%2581%25ab%25e3%2582%2584%25e3%2582%258b%25e3%2581%2593%25e3%2581%25a8%25ef%25bd%259e%25e2%2591%25a1"/>
+        <updated>2026-07-25T13:59:23.000Z</updated>
+        <summary type="html"><![CDATA[前回の記事の続きです。【Maya】初期設定 ～まず最初にやること～①まっさらなMaya環境から作業をスタートするときに、ぼくが毎回必ず登録しているショ […]
+続きを読む
+投稿 【Maya】初期設定 ～まず最初にやること～② は エンホリ - ENVIRONMENT HOLIC｜C&R Creative Studios に最初に表示されました。]]></summary>
+        <author>
+            <name>Kosei.Hatanaka</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【Houdini】アトリビュート値別にワークアイテムを作成したい]]></title>
+        <id>https://zenn.dev/yuzutarou/articles/542e111b1013e3</id>
+        <link href="https://zenn.dev/yuzutarou/articles/542e111b1013e3"/>
+        <updated>2026-07-25T13:17:16.000Z</updated>
+        <summary type="html"><![CDATA[調べたこと
+以下のように、各アセットごとにnameアトリビュートを設定し、パーツ別にFBXを出力する方法について、忘れるのでまとめました。
+
+サンプルファイル：
+export_pdg_fbx.hiplc
+https://github.com/yuzutarou-maru/Houdini_Sample/tree/main/houdini/PDG
+
+ Houdiniバージョン
+Houdini Indie 21.0440で確認しました。
+
+ 出力について
+FBXを出力するには、rop_fbxノードを使用しますが、1度に複数のパーツを、ファイルを分けて出力することはできません。
+数回なら手作...]]></summary>
+        <author>
+            <name>ゆずたろう</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Sisir Hair Tool-リアルタイムプレビュー対応のスタンドアロン ヘアグルーミングツール無料で商用利用可能]]></title>
         <id>https://modelinghappy.com/?p=69494</id>
@@ -3571,142 +3626,6 @@ The post 「Substance 3D Painter 12.1」- 自動再ベイク、スキュー補�
         <summary type="html"><![CDATA[2026年6月25日（現地時間） – Runwayは、マーケティング活動の作成から分析、スケールまでを一貫して支援する最新の動画作成エージェント「Agent 2.0」を発表しました。 Agent 2.0 とは […]]]></summary>
         <author>
             <name>.me</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「想像以上です」Unity歴9年のXRエンジニアがUnity Studioを徹底検証。ノーコードでの操作、ブラウザから即公開可能 - スペシャルコンテンツ]]></title>
-        <id>https://cgworld.jp/special-feature/2606-unity-studio.html</id>
-        <link href="https://cgworld.jp/special-feature/2606-unity-studio.html"/>
-        <updated>2026-06-26T09:35:05.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Adobeが画像・動画高画質化AIのトップ企業「Topaz Labs」を買収へ]]></title>
-        <id>https://cginterest.com/?p=60264</id>
-        <link href="https://cginterest.com/2026/06/26/adobe%e3%81%8c%e7%94%bb%e5%83%8f%e3%83%bb%e5%8b%95%e7%94%bb%e9%ab%98%e7%94%bb%e8%b3%aa%e5%8c%96ai%e3%81%ae%e3%83%88%e3%83%83%e3%83%97%e4%bc%81%e6%a5%ad%e3%80%8ctopaz-labs%e3%80%8d%e3%82%92%e8%b2%b7/"/>
-        <updated>2026-06-26T08:31:15.000Z</updated>
-        <summary type="html"><![CDATA[2026年6月25日（現地時間）- Adobe は、動画および画像の高画質化AIモデルに特化した企業である「Topaz Labs」を買収する正式な契約を締結したことを発表しました。この取引は、取引は、規制当局の承認等を経 […]]]></summary>
-        <author>
-            <name>.me</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AMD、FSR SDK 2.3を公開！RDNA 3での「FSR Upscaling 4.1」対応や「Frame Generation」の安定性が向上]]></title>
-        <id>https://cginterest.com/?p=60254</id>
-        <link href="https://cginterest.com/2026/06/26/amd%e3%80%81fsr-sdk-2-3%e3%82%92%e5%85%ac%e9%96%8b%ef%bc%81rdna-3%e3%81%a7%e3%81%ae%e3%80%8cfsr-upscaling-4-1%e3%80%8d%e5%af%be%e5%bf%9c%e3%82%84%e3%80%8cframe-generation%e3%80%8d%e3%81%ae%e5%ae%89/"/>
-        <updated>2026-06-26T07:17:48.000Z</updated>
-        <summary type="html"><![CDATA[2026年6月24日（現地時間） – AMDは、最新のアップスケーリングおよびニューラルレンダリング技術を統合した「AMD FSR™ “Redstone” SDK 2.3」のアップデー […]]]></summary>
-        <author>
-            <name>.me</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【サイコム】ホロラボが数値的にも立証。独自の水冷システムがリアリティキャプチャの効率化にも貢献する｜Boost with Sycom #04 - スペシャルコンテンツ]]></title>
-        <id>https://cgworld.jp/special-feature/202606-sycom-hololab-04.html</id>
-        <link href="https://cgworld.jp/special-feature/202606-sycom-hololab-04.html"/>
-        <updated>2026-06-26T05:13:20.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Isaac Sim の基礎 — UI・USD・ロボットの配置]]></title>
-        <id>https://zenn.dev/adawarp/articles/isaac-sim-basics</id>
-        <link href="https://zenn.dev/adawarp/articles/isaac-sim-basics"/>
-        <updated>2026-06-26T04:05:55.000Z</updated>
-        <summary type="html"><![CDATA[シリーズ: Isaac Sim / Isaac Lab チュートリアル
-用語や前提知識は Isaac Sim / Isaac Lab を始める前に を参照してください。
-
-
- この記事の目的
-Isaac Sim を起動した直後、初見では「何ができて、何を触ればよいか」が掴みにくいです。本記事では、最低限ここだけ押さえれば自分のロボットをシム上に置けるという範囲に絞って、
-
-
-UI のどこを見るか(ビューポート、Stage、プロパティ、コンテンツブラウザ)
-
-USD のシーン構造(Stage、Prim、参照)
-
-アセットの取得と再利用(同梱サンプル、Nucleus)
-ロボットを 1 体...]]></summary>
-        <author>
-            <name>Hiroto</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AREA JAPANの3ds MaxコラムにてGPUベースの超高速流体エンジン「TyFlow ZENITH」を解説 - ニュース]]></title>
-        <id>https://cgworld.jp/flashnews/03-2606-tyflow.zenith.html</id>
-        <link href="https://cgworld.jp/flashnews/03-2606-tyflow.zenith.html"/>
-        <updated>2026-06-26T04:00:00.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[#12【Unreal Engine】バージョン管理、そのポイントについて考える会！ - 連載]]></title>
-        <id>https://cgworld.jp/regular/202606-cgw333-tr12.html</id>
-        <link href="https://cgworld.jp/regular/202606-cgw333-tr12.html"/>
-        <updated>2026-06-26T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[ゲームエンジンでアプリを開発する上で、バージョン管理は必要不可欠なものですよね。 そこで今回は、Unreal Engine（以下、UE）での開発におけるバージョン管理について、 簡単な実践を交えつつご紹介します！]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[異ジャンルクリエイターたちが制作の心得を語り尽くす～PULSE Powered by AMD レポート～ - スペシャルコンテンツ]]></title>
-        <id>https://cgworld.jp/special-feature/2606-AMD-pulse-report.html</id>
-        <link href="https://cgworld.jp/special-feature/2606-AMD-pulse-report.html"/>
-        <updated>2026-06-26T02:25:00.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RealityScan 2.2 がリリース！AMD GPU対応でハードウェアの選択肢が拡大]]></title>
-        <id>https://cginterest.com/?p=60243</id>
-        <link href="https://cginterest.com/2026/06/26/realityscan-2-2-%e3%81%8c%e3%83%aa%e3%83%aa%e3%83%bc%e3%82%b9%ef%bc%81amd-gpu%e5%af%be%e5%bf%9c%e3%81%a7%e3%83%8f%e3%83%bc%e3%83%89%e3%82%a6%e3%82%a7%e3%82%a2%e3%81%ae%e9%81%b8%e6%8a%9e%e8%82%a2/"/>
-        <updated>2026-06-26T02:15:16.000Z</updated>
-        <summary type="html"><![CDATA[2026年6月24日 （現地時間）- フォトグラメトリソフトウェア「RealityScan」の最新バージョンである 2.2 の提供が開始されました。 今回のアップデートでは、コミュニティから特に要望の多かった機能の一つで […]]]></summary>
-        <author>
-            <name>.me</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[リアルタイム 3D コンテンツ制作ツール Unity 6.5 リリース]]></title>
-        <id>https://3dtotal.jp/?p=55929</id>
-        <link href="https://3dtotal.jp/news/55929/"/>
-        <updated>2026-06-26T02:10:00.000Z</updated>
-        <summary type="html"><![CDATA[★New features in Unity 6.5（17分23秒） Unity 6.5 がリリースされました。2D機能の強化、グラフィックスとシェーダーの改善、コアエンジンの変更、プラットフォームの更新などが盛り込まれ […]
-The post リアルタイム 3D コンテンツ制作ツール Unity 6.5 リリース first appeared on 3dtotal 日本語オフィシャルサイト.]]></summary>
-        <author>
-            <name>3dtotal管理人T</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ベイク機能の強化。Substance 3D Painter 12.1 の新機能紹介映像]]></title>
-        <id>https://3dtotal.jp/?p=55926</id>
-        <link href="https://3dtotal.jp/news/55926/"/>
-        <updated>2026-06-26T01:58:48.000Z</updated>
-        <summary type="html"><![CDATA[★Skew Baking & Auto Rebake in Painter 12.1 | Adobe Substance 3D（7分1秒） この機能は、Substance 3D Painter 12.1 で利用可能になり […]
-The post ベイク機能の強化。Substance 3D Painter 12.1 の新機能紹介映像 first appeared on 3dtotal 日本語オフィシャルサイト.]]></summary>
-        <author>
-            <name>3dtotal管理人T</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「Adobe」がAI高画質化ツール「Topaz Labs」を買収！FireflyやPhotoshopへの統合を発表]]></title>
-        <id>https://modelinghappy.com/?p=69211</id>
-        <link href="https://modelinghappy.com/archives/69211"/>
-        <updated>2026-06-26T01:01:50.000Z</updated>
-        <summary type="html"><![CDATA[Adobe to Acquire Topaz Labs Adobeは2026年6月25日、AIによる動画・画像高画質化ツールで知られるTopaz Labsを買収する契約を締結したことを発表しました。 Topaz Labs
-The post 「Adobe」がAI高画質化ツール「Topaz Labs」を買収！FireflyやPhotoshopへの統合を発表 first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
-        <author>
-            <name>modelinghappy</name>
         </author>
     </entry>
 </feed>

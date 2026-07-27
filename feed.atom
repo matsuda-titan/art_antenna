@@ -2,10 +2,91 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-07-26T12:56:35.270Z</updated>
+    <updated>2026-07-27T01:55:35.605Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[As-Rigid-As-Possible Surface Modeling (2007)]]></title>
+        <id>https://qiita.com/matumu20/items/1e6d7030bfd39c1494a5</id>
+        <link href="https://qiita.com/matumu20/items/1e6d7030bfd39c1494a5"/>
+        <updated>2026-07-27T01:45:05.000Z</updated>
+        <summary type="html"><![CDATA[As-Rigid-As-Possible Surface Modeling (Olga Sorkine, 2007)
+
+3行要約
+
+本論文では、メッシュの局所的な変換を可能な限り剛体（As-Rigid-As-Possible）に保つことで、複雑な形状の詳細を維持し...]]></summary>
+        <author>
+            <name>3DCGタグが付けられた新着記事 - Qiita</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[独創的なルックを支える&quot;アラカルト&quot;な開発体制『ROMEO IS A DEAD MAN』 - 特集]]></title>
+        <id>https://cgworld.jp/article/202607-cgw335-riadm.html</id>
+        <link href="https://cgworld.jp/article/202607-cgw335-riadm.html"/>
+        <updated>2026-07-27T00:38:00.000Z</updated>
+        <summary type="html"><![CDATA[『ROMEO IS A DEAD MAN』のゲームグラフィックスメイキングを紹介。]]></summary>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[オートデスク、『EA SPORTS F1』における3ds Max活用事例講演動画を公開　次世代リグ移行を支える内製ツールと自動化 - ニュース]]></title>
+        <id>https://cgworld.jp/flashnews/01-202607-3dsMax-EASports.html</id>
+        <link href="https://cgworld.jp/flashnews/01-202607-3dsMax-EASports.html"/>
+        <updated>2026-07-26T23:19:11.000Z</updated>
+        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[フォトグラメトリ数学｜40：DEM・DSM・DTMとは何か ～標高データの違いを理解する～]]></title>
+        <id>https://zenn.dev/s_hashida/articles/1e81210c77778d</id>
+        <link href="https://zenn.dev/s_hashida/articles/1e81210c77778d"/>
+        <updated>2026-07-26T21:58:05.000Z</updated>
+        <summary type="html"><![CDATA[はじめに
+前回は、
+
+オルソ補正
+RPC
+DEM
+地図座標
+
+について説明しました。
+
+その中で重要だったのが、
+
+オルソ補正ではDEMを利用する
+RPCだけでは地上位置は決まらない
+DEMによって高さが与えられる
+
+という点です。
+
+しかしここで疑問が出てきます。
+
+DEMとは何なのか？
+DSMやDTMとは何が違うのか？
+オルソ補正ではどれを利用するのか？
+
+実は、高さデータにも目的に応じていくつか種類があります。
+今回は、
+
+DEM
+DSM
+DTM
+それぞれの違い
+オルソ補正との関係
+
+について整理します。
+
+ 高さデータには種類がある
+地表の高さといっても、
+何を高さとして扱...]]></summary>
+        <author>
+            <name>s_hashida</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[Unity]ShaderGraphのCustom Functionでhlslファイルを使う方法]]></title>
         <id>https://qiita.com/Kuni29292/items/86a5ad346df0c70660a4</id>
@@ -3581,21 +3662,6 @@ GetPrimitive()などはMicrosof...]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[3Dツール完全不要！2DのSVGデータを数式で『肉付け＆多関節ボーン変形』させる幾何学手品]]></title>
-        <id>https://zenn.dev/haruka_apps/articles/25d95895501d03</id>
-        <link href="https://zenn.dev/haruka_apps/articles/25d95895501d03"/>
-        <updated>2026-06-27T12:56:33.000Z</updated>
-        <summary type="html"><![CDATA[レトロゲームエンジン「Pyxel」などの制限された環境で3D表現をやろうとすると、通常はBlender等のツールから出力した重い3Dモデルデータ（.obj など）を読み込む必要があり、コードやデータ容量が肥大化しがちです。
-この記事では、「1枚の2Dの型紙（SVG）に対し、実行時に数式だけで動的な『立体肉付け』を行い、さらにチェーン状の多関節仮想ボーンで滑らかにしならせる」という、コロンブスの卵的な3D写像ロジックについて解説します。
-2Dの多角形（Polygon）をパースして3D空間で滑らかに泳がせる「エレガント金魚シミュレーター」の完全なソースコードも末尾に掲載しています。
-
-
- 💡...]]></summary>
-        <author>
-            <name>haruka_apps</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[HeyGears G1 | 世界初のデスクトップ型フルカラー3D＆UV統合型プリンターが登場！]]></title>
         <id>https://3dnchu.com/?p=1065771</id>
         <link href="https://3dnchu.com/archives/heygears-g1/"/>
@@ -3613,20 +3679,6 @@ GetPrimitive()などはMicrosof...]]></summary>
         <summary type="html"><![CDATA[TOPFABのデスクトップ型CNC加工機「TF500」がKickstarterにて登場予定！事前レビュワーによる動画なども公開されています！]]></summary>
         <author>
             <name>Ymt3D -3dnchu-</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【Substance Designer】1から作る「畳」のPBRテクスチャ解説編①]]></title>
-        <id>https://note.com/manji_9278274/n/n3953e7a37e3b</id>
-        <link href="https://note.com/manji_9278274/n/n3953e7a37e3b"/>
-        <updated>2026-06-27T10:01:46.000Z</updated>
-        <summary type="html"><![CDATA[どうもみなさん１週間ぶり。まんじです。
-前回の事前準備回を経て、いよいよ実際にノードを組んでいきます。
-今回は「い草」の部分を作っていきますよ。
-
-続きをみる]]></summary>
-        <author>
-            <name>#SubstanceDesignerタグ</name>
         </author>
     </entry>
     <entry>

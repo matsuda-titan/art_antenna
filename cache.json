@@ -713,6 +713,26 @@
       "siteUrl": "https://cgworld.jp/",
       "articles": [
         {
+          "id": "https://cgworld.jp/flashnews/03-2607-gundam.html",
+          "author": null,
+          "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
+          "link": "https://cgworld.jp/flashnews/03-2607-gundam.html",
+          "publishedOn": "2026-07-28T09:12:00.000Z",
+          "wordCount": 749,
+          "title": "Autodeskが『機動戦士ガンダム 閃光のハサウェイ キルケーの魔女』制作事例を公開―Flow Production Trackingと3ds Maxが支えたCG制作現場 - ニュース",
+          "imageUrl": "https://cgworld.jp/flashnews/assets_c/2026/07/03-2607-gundam_main01-thumb-1920x1080-86933.jpg"
+        },
+        {
+          "id": "https://cgworld.jp/flashnews/0822-plusone-masterclass22.html",
+          "author": null,
+          "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
+          "link": "https://cgworld.jp/flashnews/0822-plusone-masterclass22.html",
+          "publishedOn": "2026-07-28T08:15:44.000Z",
+          "wordCount": 791,
+          "title": "【早期割引20％OFFチケット販売中】アニメーター必見オンラインフェス『CGWORLD MASTERCLASS ONLINE vol.22』8月22日～23日に2DAYS開催！ - ニュース",
+          "imageUrl": "https://cgworld.jp/flashnews/assets_c/2026/07/20ebe2cc8754aba61563e35e4cb394108112f0e6-thumb-1329x726-86932.png"
+        },
+        {
           "id": "https://cgworld.jp/article/2602-ryansworld01.html",
           "author": null,
           "description": "「ライアンズ・ワールド」のアニメCGメイキングを紹介。",
@@ -1786,6 +1806,16 @@
       "siteUrl": "https://modelinghappy.com",
       "articles": [
         {
+          "id": "https://modelinghappy.com/?p=69567",
+          "author": "modelinghappy",
+          "description": "img2cube img2cubeは、Blenderで建物などをモデリングする際に、写真からパースを解析し、Blender用のカメラを簡単に設定できる無料のオープンソースアドオンです。 通常、写真を参考にモデリングする場\nThe post img2cube – 写真に線を引くだけでパースを合わせたカメラを自動設定できる無料Blenderアドオン first appeared on 3DCG最新情報サイト MODELING HAPPY.",
+          "link": "https://modelinghappy.com/archives/69567",
+          "publishedOn": "2026-07-28T06:46:37.000Z",
+          "wordCount": 2999,
+          "title": "img2cube – 写真に線を引くだけでパースを合わせたカメラを自動設定できる無料Blenderアドオン",
+          "imageUrl": "https://modelinghappy.com/wp-content/uploads/2026/07/20260728_img2cube_00.jpg"
+        },
+        {
           "id": "https://modelinghappy.com/?p=69558",
           "author": "modelinghappy",
           "description": "SubstancePainter向けToonシェーダー「NyanToon」 NyanToonは、にゃんねこさんが作成した、Substance 3D Painterでセルルック（トゥーン調）の見た目を確認しながらテクスチャ\nThe post NyanToon – Substance 3D PainterでUnity向けlilToonの見た目を確認しながらテクスチャ制作できる無料シェーダー first appeared on 3DCG最新情報サイト MODELING HAPPY.",
@@ -2531,21 +2561,6 @@
             "type": "false"
           },
           "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--Rv4CW5rl--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Mental%2520Ray%2520%25E3%2581%25AE%25E5%25BA%258A%25E3%2582%259210%25E5%2580%258D%25E3%2581%2597%25E3%2581%259F%25E3%2581%2584%25E3%2581%25AE%25E3%2581%25AB%25E8%25A1%258C%25E5%2588%2597%25E3%2581%25AF0.1%2520%25E2%2594%2580%25E2%2594%2580%2520instance%2520transform%2520%25E3%2581%25AF%2520worl...%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:yokamak%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzA1OGY1YTRiMDkuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
-        },
-        {
-          "id": "https://zenn.dev/s_hashida/articles/03dd4e1d8ebaba",
-          "author": "s_hashida",
-          "description": "はじめに\n前回は、\n\nRFM\n有理多項式\n正規化\nRPCの内部構造\n\nについて説明しました。\n\nその中で重要だったのが、\n\nRPCはRFMの係数集合である\n複雑な衛星モデルを近似している\n利用者は衛星内部モデルを意識しなくてよい\n\nという点です。\n\nしかしここで疑問が出てきます。\n\nRPCの係数は誰が作っているのか？\nなぜ衛星ごとに異なるRPCが存在するのか？\nRFMの係数はどのように求められるのか？\n\n\n実はRPCは、最初から存在するわけではありません。\n\nその背後には、\nRigorous Model（厳密センサモデル）\nと呼ばれる、より詳細なモデルがあります。\nそして、\nRig...",
-          "link": "https://zenn.dev/s_hashida/articles/03dd4e1d8ebaba",
-          "publishedOn": "2026-06-28T21:48:05.000Z",
-          "wordCount": 989,
-          "title": "フォトグラメトリ数学｜37：RPCはどのように作られるのか ～Rigorous ModelとRFM近似～",
-          "enclosure": {
-            "url": "https://res.cloudinary.com/zenn/image/upload/s--iN-xc-md--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%2595%25E3%2582%25A9%25E3%2583%2588%25E3%2582%25B0%25E3%2583%25A9%25E3%2583%25A1%25E3%2583%2588%25E3%2583%25AA%25E6%2595%25B0%25E5%25AD%25A6%25EF%25BD%259C37%25EF%25BC%259ARPC%25E3%2581%25AF%25E3%2581%25A9%25E3%2581%25AE%25E3%2582%2588%25E3%2581%2586%25E3%2581%25AB%25E4%25BD%259C%25E3%2582%2589%25E3%2582%258C%25E3%2582%258B%25E3%2581%25AE%25E3%2581%258B%2520%25EF%25BD%259ERigorous%2520Model%25E3%2581%25A8RFM%25E8%25BF%2591%25E4%25BC%25BC%25EF%25BD%259E%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:s_hashida%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2JmNmU5NjMzMTEuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
-            "length": "0",
-            "type": "false"
-          },
-          "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--iN-xc-md--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%2595%25E3%2582%25A9%25E3%2583%2588%25E3%2582%25B0%25E3%2583%25A9%25E3%2583%25A1%25E3%2583%2588%25E3%2583%25AA%25E6%2595%25B0%25E5%25AD%25A6%25EF%25BD%259C37%25EF%25BC%259ARPC%25E3%2581%25AF%25E3%2581%25A9%25E3%2581%25AE%25E3%2582%2588%25E3%2581%2586%25E3%2581%25AB%25E4%25BD%259C%25E3%2582%2589%25E3%2582%258C%25E3%2582%258B%25E3%2581%25AE%25E3%2581%258B%2520%25EF%25BD%259ERigorous%2520Model%25E3%2581%25A8RFM%25E8%25BF%2591%25E4%25BC%25BC%25EF%25BD%259E%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:s_hashida%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2JmNmU5NjMzMTEuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
         }
       ]
     },
@@ -2866,16 +2881,6 @@
           "wordCount": 1588,
           "title": "Claude Codeの /loop で「勉強素材が勝手に増えるリポジトリ」を作ったら1週間でシェーダー89個生えた話",
           "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Ftech-festa-ogp-background-4b5015b2c518c7e6b9062a7c9f5f5e90.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYyMTQ1NDYlMkYyNzk5NGI3ODlmZjM0MjBhZTA1YjgxNWY1Mzk2ZjRlMDJiN2NkYjZiJTJGeF9sYXJnZS5wbmclM0YxNjY0MTI0OTY5P2l4bGliPXJiLTQuMS4xJmFyPTElM0ExJmZpdD1jcm9wJm1hc2s9ZWxsaXBzZSZiZz1GRkZGRkYmZm09cG5nMzImcz0yNWY1NzgxNDU1MjdkYmZjZmM5NzU4MjU1ZmRmNjliNw%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3Dca70b4839331dffc7570fce7e28218c4?ixlib=rb-4.1.1&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9Q2xhdWRlJTIwQ29kZSVFMyU4MSVBRSUyMCUyRmxvb3AlMjAlRTMlODElQTclRTMlODAlOEMlRTUlOEIlODklRTUlQkMlQjclRTclQjQlQTAlRTYlOUQlOTAlRTMlODElOEMlRTUlOEIlOUQlRTYlODklOEIlRTMlODElQUIlRTUlQTIlOTclRTMlODElODglRTMlODIlOEIlRTMlODMlQUElRTMlODMlOUQlRTMlODIlQjglRTMlODMlODglRTMlODMlQUElRTMlODAlOEQlRTMlODIlOTIlRTQlQkQlOUMlRTMlODElQTMlRTMlODElOUYlRTMlODIlODkxJUU5JTgwJUIxJUU5JTk2JTkzJUUzJTgxJUE3JUUzJTgyJUI3JUUzJTgyJUE3JUUzJTgzJUJDJUUzJTgzJTgwJUUzJTgzJUJDODklRTUlODAlOEIlRTclOTQlOUYlRTMlODElODglRTIlODAlQTYmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyM0ZGRkZGRiZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz03NWQxMmVkZDA0ZGI3YjY1YTNmMzBiMzNiZjRmYWNmNw&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBtaXdhc2h1dGFybzA2MTEmdHh0LWNvbG9yPSUyM0ZGRkZGRiZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz03OWRkMWRlNWMyOTQ1OTYzNzAwZDAwNjZjNWZmMWFkNg&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=7ad09d6191d92ff2031a520172671914"
-        },
-        {
-          "id": "https://qiita.com/techsuwako/items/34045f5ecc9c14c54298",
-          "author": null,
-          "description": "元： https://technicalsuwako.moe/blog/cpp-glsl-shader-playground\nHTMLとCSSのコードを実際にウェブサイトに組み込む前にテスト出来るウェブサイトは沢山あります。\n然し、GLSLシェーダーをテスト出来る場所が不足...",
-          "link": "https://qiita.com/techsuwako/items/34045f5ecc9c14c54298",
-          "publishedOn": "2026-06-28T20:39:29.000Z",
-          "wordCount": 803,
-          "title": "【C++・GLSL】Shader Playground 1.0.0 リリース",
-          "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnFpaXRhLWltYWdlLXN0b3JlLnMzLmFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkYwJTJGNDMyOTA0NiUyRnByb2ZpbGUtaW1hZ2VzJTJGMTc4MTM2NDA4MT9peGxpYj1yYi00LjEuMSZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9NjZjNjlhNWRlN2IwNjM3YzQ3YzBjYzY4OWNmODJiMmU%26blend-x%3D120%26blend-y%3D462%26blend-w%3D90%26blend-h%3D90%26blend-mode%3Dnormal%26mark64%3DaHR0cHM6Ly9xaWl0YS1vcmdhbml6YXRpb24taW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1vcmdhbml6YXRpb24taW1hZ2UlMkZiZjg0MDA1Mjc5YmE4ZWViNzZlYmZlN2E3OTkyYWVmMDk4NDJkNjcwJTJGb3JpZ2luYWwuanBnJTNGMTc2NzY5ODU3Nz9peGxpYj1yYi00LjEuMSZ3PTQ0Jmg9NDQmZml0PWNyb3AmbWFzaz1jb3JuZXJzJmNvcm5lci1yYWRpdXM9OCZiZz1GRkZGRkYmYm9yZGVyPTIlMkNGRkZGRkYmZm09cG5nMzImcz02YmVmNmUxODA1YWYwM2Q0ODg1ZTI3YTgzNTMxNzExNQ%26mark-x%3D186%26mark-y%3D515%26mark-w%3D40%26mark-h%3D40%26s%3D4f06129e1b1d3feb3baf8a664528f0c6?ixlib=rb-4.1.1&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9JUUzJTgwJTkwQyUyQiUyQiVFMyU4MyVCQkdMU0wlRTMlODAlOTFTaGFkZXIlMjBQbGF5Z3JvdW5kJTIwMS4wLjAlMjAlRTMlODMlQUElRTMlODMlQUElRTMlODMlQkMlRTMlODIlQjkmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz05YjBiZTQxZGM1ODc1MzlkNmJjOWI3ZWQxY2EzNDhlNg&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDB0ZWNoc3V3YWtvJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9NTEyOGRkN2RiYjgyZmVjOWNmN2FiNDE4MmY1ZGM3MDc&blend-x=242&blend-y=454&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&txt64=77yQ77yX77yW44K544K_44K444Kq5ZCI5ZCM5Lya56S-&txt-x=242&txt-y=539&txt-width=838&txt-clip=end%2Cellipsis&txt-color=%231E2121&txt-font=Hiragino%20Sans%20W6&txt-size=28&s=0f472ae0f1cb40ac484d94605af64d7e"
         }
       ]
     },
@@ -3375,6 +3380,16 @@
       "feedUrl": "https://cginterest.com/feed/",
       "siteUrl": "https://cginterest.com",
       "articles": [
+        {
+          "id": "https://cginterest.com/?p=61236",
+          "author": ".me",
+          "description": "2026年7月28日（日本時間） – 株式会社セルシスは、ペイントアプリ「CLIP STUDIO PAINT」の2026年7月アップデート（Ver.5.1.0）を発表しました。 主な新機能 今回のアップデート […]",
+          "link": "https://cginterest.com/2026/07/28/clip-studio-paint-ver-5-1-0-%e3%81%8c%e3%83%aa%e3%83%aa%e3%83%bc%e3%82%b9%ef%bc%81%e6%b0%b4%e5%bd%a9%e8%a1%a8%e7%8f%be%e3%81%ae%e5%90%91%e4%b8%8a%e3%80%813d%e3%82%ad%e3%83%a3%e3%83%a9%e3%82%af/",
+          "publishedOn": "2026-07-28T08:31:31.000Z",
+          "wordCount": 31113,
+          "title": "CLIP STUDIO PAINT Ver.5.1.0 がリリース！水彩表現の向上、3Dキャラクターへのペイントや頭部の差し替えなど3D機能の強化など",
+          "imageUrl": "https://cginterest.com/wp-content/uploads/2026/07/ClipstudioPaintV5_1_2026-2.webp"
+        },
         {
           "id": "https://cginterest.com/?p=61189",
           "author": ".me",

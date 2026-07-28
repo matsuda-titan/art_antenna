@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-07-28T10:23:01.086Z</updated>
+    <updated>2026-07-28T13:28:46.459Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Nyanneco Fabric Weave Generator マニュアル]]></title>
+        <id>https://note.com/nyanneco/n/n444eb40ef670</id>
+        <link href="https://note.com/nyanneco/n/n444eb40ef670"/>
+        <updated>2026-07-28T12:12:29.000Z</updated>
+        <summary type="html"><![CDATA[このジェネレーターについて
+Nyanneco Fabric Weave Generatorは、Substance 3D PainterのFill Layerへ適用して、UV上でシームレスな布の織り目を作るジェネレーターです（正確には種別的にMaterialです）26種類の織組織から、Height、Normal、Ambient Occlusion（AO）と、後段レイヤーで使える構造マスクを出力します。
+続きをみる]]></summary>
+        <author>
+            <name>#substancepainterタグ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Autodeskが『機動戦士ガンダム 閃光のハサウェイ キルケーの魔女』制作事例を公開―Flow Production Trackingと3ds Maxが支えたCG制作現場 - ニュース]]></title>
         <id>https://cgworld.jp/flashnews/03-2607-gundam.html</id>
@@ -3757,16 +3769,6 @@ The post 今度はモンスター映画作りで大暴れ!? 映画『ミニオ�
         <id>https://cgworld.jp/special-feature/2606-gemba-parsec.html</id>
         <link href="https://cgworld.jp/special-feature/2606-gemba-parsec.html"/>
         <updated>2026-06-29T01:40:00.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Figma、アニメーション機能「Figma Motion」オープンベータリリース　キャンバス内にタイムライン統合、キーフレーム制御、AIエージェントなど - ニュース]]></title>
-        <id>https://cgworld.jp/flashnews/01-202606-FigmaMotion.html</id>
-        <link href="https://cgworld.jp/flashnews/01-202606-FigmaMotion.html"/>
-        <updated>2026-06-28T23:33:24.000Z</updated>
         <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
         <author>
             <name>CGWORLD</name>

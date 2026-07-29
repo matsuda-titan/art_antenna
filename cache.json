@@ -2245,26 +2245,6 @@
           "wordCount": 590,
           "title": "「コラライン」「KUBO」の LAIKA より、ストップモーションアニメ映画『Wildwood』のトレーラー",
           "imageUrl": "https://3dtotal.jp/wp-content/uploads/2026/06/wildwood_making.jpg"
-        },
-        {
-          "id": "https://3dtotal.jp/?p=55941",
-          "author": "3dtotal管理人T",
-          "description": "★着物の作り方 完全ガイド｜型紙トレースから縫製まで（10分51秒） 型紙トレースから縫製まで。Marvelous Designer 使用、着物の作り方 完全ガイド。初心者の方でも気軽に始めてみましょう！シンプルな手順で […]\nThe post 型紙トレースから縫製まで。Marvelous Designer 使用、着物の作り方 完全ガイド first appeared on 3dtotal 日本語オフィシャルサイト.",
-          "link": "https://3dtotal.jp/tutorials/55941/",
-          "publishedOn": "2026-06-30T01:37:51.000Z",
-          "wordCount": 547,
-          "title": "型紙トレースから縫製まで。Marvelous Designer 使用、着物の作り方 完全ガイド",
-          "imageUrl": "https://3dtotal.jp/wp-content/uploads/2026/06/marvelous_kimono.jpg"
-        },
-        {
-          "id": "https://3dtotal.jp/?p=54622",
-          "author": "3dtotal管理人T",
-          "description": "★『ミニオンズ＆モンスターズ』日本版本予告（2分1秒） ★Minions & Monsters | Extended Look（1分51秒） ★Minions & Monsters | Kylian Mbappe Ent […]\nThe post 今度はモンスター映画作りで大暴れ!? 映画『ミニオンズ＆モンスターズ』のトレーラー（英語／日本語） first appeared on 3dtotal 日本語オフィシャルサイト.",
-          "link": "https://3dtotal.jp/news/54622/",
-          "publishedOn": "2026-06-30T01:00:38.000Z",
-          "wordCount": 537,
-          "title": "今度はモンスター映画作りで大暴れ!? 映画『ミニオンズ＆モンスターズ』のトレーラー（英語／日本語）",
-          "imageUrl": "https://3dtotal.jp/wp-content/uploads/2026/06/minionmonsters_jtrailer.jpg"
         }
       ]
     },
@@ -2273,6 +2253,21 @@
       "feedUrl": "https://zenn.dev/topics/shader/feed",
       "siteUrl": "https://zenn.dev/topics/shader",
       "articles": [
+        {
+          "id": "https://zenn.dev/manafi/articles/unity-streak-shader",
+          "author": "miya",
+          "description": "結論から\nローディング画面用の斜めストリーク演出を作ろうとして、Shader Graph で挫折し、VFX Graph でも進まず、2日溶かしました。\n最終的に手書きの HLSL シェーダーに切り替えたところ、半日で完成しました。\n原因は私の技術力ではなく、道具の選択でした。より正確に言えば、「AI コーディングエージェントに手伝ってもらう」という前提と、Shader Graph / VFX Graph という選択が、構造的に噛み合っていませんでした。\nこの記事は、その理由と、切り替えたあとの進め方の記録です。\n!\n筆者はシェーダーの専門家ではありません。この記事の技術的な記述は、今...",
+          "link": "https://zenn.dev/manafi/articles/unity-streak-shader",
+          "publishedOn": "2026-07-29T06:22:46.000Z",
+          "wordCount": 1893,
+          "title": "Shader Graph と VFX Graph で2日溶かして、手書きシェーダーに変えたら半日で終わった話",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--MoPHfVlL--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Shader%2520Graph%2520%25E3%2581%25A8%2520VFX%2520Graph%2520%25E3%2581%25A72%25E6%2597%25A5%25E6%25BA%25B6%25E3%2581%258B%25E3%2581%2597%25E3%2581%25A6%25E3%2580%2581%25E6%2589%258B%25E6%259B%25B8%25E3%2581%258D%25E3%2582%25B7%25E3%2582%25A7%25E3%2583%25BC%25E3%2583%2580%25E3%2583%25BC%25E3%2581%25AB%25E5%25A4%2589%25E3%2581%2588%25E3%2581%259F%25E3%2582%2589%25E5%258D%258A%25E6%2597%25A5%25E3%2581%25A7%25E7%25B5%2582%25E3%2582%258F%25E3%2581%25A3%25E3%2581%259F%25E8%25A9%25B1%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:miya%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly96ZW5uLWRldi5naXRodWIuaW8vZGVmYXVsdC1hdmF0YXJzL2RhcmsvbS5wbmc=%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+            "length": "0",
+            "type": "false"
+          },
+          "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--MoPHfVlL--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Shader%2520Graph%2520%25E3%2581%25A8%2520VFX%2520Graph%2520%25E3%2581%25A72%25E6%2597%25A5%25E6%25BA%25B6%25E3%2581%258B%25E3%2581%2597%25E3%2581%25A6%25E3%2580%2581%25E6%2589%258B%25E6%259B%25B8%25E3%2581%258D%25E3%2582%25B7%25E3%2582%25A7%25E3%2583%25BC%25E3%2583%2580%25E3%2583%25BC%25E3%2581%25AB%25E5%25A4%2589%25E3%2581%2588%25E3%2581%259F%25E3%2582%2589%25E5%258D%258A%25E6%2597%25A5%25E3%2581%25A7%25E7%25B5%2582%25E3%2582%258F%25E3%2581%25A3%25E3%2581%259F%25E8%25A9%25B1%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:miya%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly96ZW5uLWRldi5naXRodWIuaW8vZGVmYXVsdC1hdmF0YXJzL2RhcmsvbS5wbmc=%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+        },
         {
           "id": "https://zenn.dev/zn_ryg12/articles/shader-note-20260720",
           "author": "ryuga.",
@@ -2989,7 +2984,23 @@
       "title": "Zennの「HLSL」のフィード",
       "feedUrl": "https://zenn.dev/topics/hlsl/feed",
       "siteUrl": "https://zenn.dev/topics/hlsl",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://zenn.dev/manafi/articles/unity-streak-shader",
+          "author": "miya",
+          "description": "結論から\nローディング画面用の斜めストリーク演出を作ろうとして、Shader Graph で挫折し、VFX Graph でも進まず、2日溶かしました。\n最終的に手書きの HLSL シェーダーに切り替えたところ、半日で完成しました。\n原因は私の技術力ではなく、道具の選択でした。より正確に言えば、「AI コーディングエージェントに手伝ってもらう」という前提と、Shader Graph / VFX Graph という選択が、構造的に噛み合っていませんでした。\nこの記事は、その理由と、切り替えたあとの進め方の記録です。\n!\n筆者はシェーダーの専門家ではありません。この記事の技術的な記述は、今...",
+          "link": "https://zenn.dev/manafi/articles/unity-streak-shader",
+          "publishedOn": "2026-07-29T06:22:46.000Z",
+          "wordCount": 1893,
+          "title": "Shader Graph と VFX Graph で2日溶かして、手書きシェーダーに変えたら半日で終わった話",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--MoPHfVlL--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Shader%2520Graph%2520%25E3%2581%25A8%2520VFX%2520Graph%2520%25E3%2581%25A72%25E6%2597%25A5%25E6%25BA%25B6%25E3%2581%258B%25E3%2581%2597%25E3%2581%25A6%25E3%2580%2581%25E6%2589%258B%25E6%259B%25B8%25E3%2581%258D%25E3%2582%25B7%25E3%2582%25A7%25E3%2583%25BC%25E3%2583%2580%25E3%2583%25BC%25E3%2581%25AB%25E5%25A4%2589%25E3%2581%2588%25E3%2581%259F%25E3%2582%2589%25E5%258D%258A%25E6%2597%25A5%25E3%2581%25A7%25E7%25B5%2582%25E3%2582%258F%25E3%2581%25A3%25E3%2581%259F%25E8%25A9%25B1%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:miya%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly96ZW5uLWRldi5naXRodWIuaW8vZGVmYXVsdC1hdmF0YXJzL2RhcmsvbS5wbmc=%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+            "length": "0",
+            "type": "false"
+          },
+          "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--MoPHfVlL--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Shader%2520Graph%2520%25E3%2581%25A8%2520VFX%2520Graph%2520%25E3%2581%25A72%25E6%2597%25A5%25E6%25BA%25B6%25E3%2581%258B%25E3%2581%2597%25E3%2581%25A6%25E3%2580%2581%25E6%2589%258B%25E6%259B%25B8%25E3%2581%258D%25E3%2582%25B7%25E3%2582%25A7%25E3%2583%25BC%25E3%2583%2580%25E3%2583%25BC%25E3%2581%25AB%25E5%25A4%2589%25E3%2581%2588%25E3%2581%259F%25E3%2582%2589%25E5%258D%258A%25E6%2597%25A5%25E3%2581%25A7%25E7%25B5%2582%25E3%2582%258F%25E3%2581%25A3%25E3%2581%259F%25E8%25A9%25B1%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:miya%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly96ZW5uLWRldi5naXRodWIuaW8vZGVmYXVsdC1hdmF0YXJzL2RhcmsvbS5wbmc=%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+        }
+      ]
     },
     {
       "title": "Zennの「GLSL」のフィード",
@@ -4140,21 +4151,6 @@
           "wordCount": 30012,
           "title": "ASWF、LinuxのWayland移行に向けた「Wayland for Artists Working Group」を設立",
           "imageUrl": "https://cginterest.com/wp-content/uploads/2026/06/ASWF-Wayland_Working_Group_News.webp"
-        },
-        {
-          "id": "https://cginterest.com/?p=60371",
-          "author": ".me",
-          "description": "2026年6月30日（現地時間）-  ComfyUIは、既存のワークフローをClaude、Codex、Hermes、Cursorなどの様々なAIエージェントと接続する新機能「Comfy MCP」のパブリックベータ版を発表 […]",
-          "link": "https://cginterest.com/2026/06/30/%e3%83%8e%e3%83%bc%e3%83%89%e3%82%92%e8%a7%a6%e3%82%89%e3%81%9acomfyui%e3%82%92%e6%93%8d%e4%bd%9c-%e2%80%95-ai%e3%82%a8%e3%83%bc%e3%82%b8%e3%82%a7%e3%83%b3%e3%83%88%e9%80%a3%e6%90%ba%e6%a9%9f%e8%83%bd/",
-          "publishedOn": "2026-06-29T23:18:00.000Z",
-          "wordCount": 30098,
-          "title": "ノードを触らずComfyUIを操作 ― AIエージェント連携機能『Comfy MCP』ベータ版が登場",
-          "enclosure": {
-            "url": "https://cginterest.com/wp-content/uploads/2026/06/A5ed1ddf-75Fa-4989-892F-27Afd63e7a95-1300X720.mp4",
-            "length": "124513",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://cginterest.com/wp-content/uploads/2026/06/ComfyUI-MCP.webp"
         }
       ]
     }

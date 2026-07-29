@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-07-29T01:29:49.133Z</updated>
+    <updated>2026-07-29T05:41:48.930Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[NOTHING NEWが挑む「才能が生まれ続ける仕組みづくり」━━経済産業省によるコンテンツ産業成長投資支援事業（スタートアップ支援事業クリエイター支援事業『創風』） - 特集]]></title>
+        <id>https://cgworld.jp/article/2606-03-sofu.html</id>
+        <link href="https://cgworld.jp/article/2606-03-sofu.html"/>
+        <updated>2026-07-29T09:30:00.000Z</updated>
+        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[登録者数4,020万（アメリカ）＋122万（日本語版）人 「ライアンズ・ワールド」で展開するショートアニメ制作 〜（2） VRモデリングソフト「Gravity Sketch」導入による直感的なプリビズ制作 - 特集]]></title>
         <id>https://cgworld.jp/article/2602-ryansworld02.html</id>
@@ -14,6 +24,128 @@
         <summary type="html"><![CDATA[「ライアンズ・ワールド」のアニメCGメイキングを紹介。]]></summary>
         <author>
             <name>CGWORLD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[脱・Houdini初級者！『挫折させないHoudiniドリル』著者・新井克哉氏による実践講座（全4回）が8月31日より開催 - ニュース]]></title>
+        <id>https://cgworld.jp/flashnews/houdinihoudini4831.html</id>
+        <link href="https://cgworld.jp/flashnews/houdinihoudini4831.html"/>
+        <updated>2026-07-29T03:51:40.000Z</updated>
+        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[脱・Houdini初級者！『挫折させないHoudiniドリル』著者・新井克哉氏による実践講座（全4回）が8月31日より開催 - ニュース]]></title>
+        <id>https://cgworld.jp/flashnews/houdinihoudini4831.html</id>
+        <link href="https://cgworld.jp/flashnews/houdinihoudini4831.html"/>
+        <updated>2026-07-29T03:51:40.000Z</updated>
+        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[7/31（金）オンラインセミナー開催！「【建築向け】リアルタイムレンダラ＆3DGSで検証！作業ストレスを解消するマシン選びのコツ」 - ニュース]]></title>
+        <id>https://cgworld.jp/flashnews/202607-hp-seminar-architecture.html</id>
+        <link href="https://cgworld.jp/flashnews/202607-hp-seminar-architecture.html"/>
+        <updated>2026-07-29T03:04:46.000Z</updated>
+        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[heerich.jsとは？JavaScriptだけでSVG 3Dボクセルアートを描くライブラリを使ってみた]]></title>
+        <id>https://zenn.dev/boy_techblog/articles/trying-3d-voxel-art-with-heerichjs</id>
+        <link href="https://zenn.dev/boy_techblog/articles/trying-3d-voxel-art-with-heerichjs"/>
+        <updated>2026-07-29T03:00:17.000Z</updated>
+        <summary type="html"><![CDATA[はじめに
+こんにちは、がんちゃんです！
+最近、フロントエンド触ってなかったなと思い、楽しそうなライブラリを探していたところ、お手軽に3Dボクセルアートを試せる heerich.js というライブラリを見つけたので紹介します！
+3Dグラフィックスをブラウザで表現しようとすると、真っ先に候補として挙がるのは Three.js や Babylon.js のような WebGL 系ライブラリではないでしょうか？
+「本格的な3D」を実現する分パフォーマンスチューニングやシェーダーの知識が要求され、単純な立方体の集合（ボクセル）を表現したい場合には、ややオーバースペックに感じられることもあります🤔...]]></summary>
+        <author>
+            <name>がんちゃん</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[新人研修2026:デザイナー編]]></title>
+        <id>https://zenn.dev/matrixsoftware/articles/a7166674da2a88</id>
+        <link href="https://zenn.dev/matrixsoftware/articles/a7166674da2a88"/>
+        <updated>2026-07-29T03:00:16.000Z</updated>
+        <summary type="html"><![CDATA[皆様こんにちは！
+2026年4月に入社いたしました、新人3DデザイナーのIです。
+今回は、私が入社してからどんな研修を受けて、どんな学びを得たのか
+皆様にご紹介したいと思います！
+これから3Dデザイナーとしてゲーム業界を目指す方に、
+少しでも参考になれば嬉しいです。
+
+ 研修内容の流れ
+● ツール研修
+● ビネット制作
+● 共同カリキュラム
+それでは順番に振り返っていきます！
+
+
+ ツール研修（4月上旬）
+ツールごとの研修は基礎の基礎からスタートします！
+学生時代の自主制作では触れてこなかった便利な機能などについても知ることができ、
+基礎の大切さを改めて実感いたしました。
+Maya、Su...]]></summary>
+        <author>
+            <name>株式会社マトリックス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[新人研修2026:デザイナー編]]></title>
+        <id>https://zenn.dev/matrixsoftware/articles/a7166674da2a88</id>
+        <link href="https://zenn.dev/matrixsoftware/articles/a7166674da2a88"/>
+        <updated>2026-07-29T03:00:16.000Z</updated>
+        <summary type="html"><![CDATA[皆様こんにちは！
+2026年4月に入社いたしました、新人3DデザイナーのIです。
+今回は、私が入社してからどんな研修を受けて、どんな学びを得たのか
+皆様にご紹介したいと思います！
+これから3Dデザイナーとしてゲーム業界を目指す方に、
+少しでも参考になれば嬉しいです。
+
+ 研修内容の流れ
+● ツール研修
+● ビネット制作
+● 共同カリキュラム
+それでは順番に振り返っていきます！
+
+
+ ツール研修（4月上旬）
+ツールごとの研修は基礎の基礎からスタートします！
+学生時代の自主制作では触れてこなかった便利な機能などについても知ることができ、
+基礎の大切さを改めて実感いたしました。
+Maya、Su...]]></summary>
+        <author>
+            <name>株式会社マトリックス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[3DCGショートアニメ『また明日ね。』制作の舞台裏 第1回：観客の感情の動きを主軸に据え、脚本と映像を設計する - 特集]]></title>
+        <id>https://cgworld.jp/article/202607-syt-1.html</id>
+        <link href="https://cgworld.jp/article/202607-syt-1.html"/>
+        <updated>2026-07-29T02:30:00.000Z</updated>
+        <summary type="html"><![CDATA[※本記事は月刊 『CGWORLD + digital video』vol.33...]]></summary>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【Substance Designer】ノード操作に関するTips]]></title>
+        <id>https://3d.crdg.jp/env/?p=10096</id>
+        <link href="https://3d.crdg.jp/env/2026/07/29/10096/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=%25e3%2580%2590substance-designer%25e3%2580%2591%25e3%2583%258e%25e3%2583%25bc%25e3%2583%2589%25e6%2593%258d%25e4%25bd%259c%25e3%2581%25ab%25e9%2596%25a2%25e3%2581%2599%25e3%2582%258btips"/>
+        <updated>2026-07-29T01:32:53.000Z</updated>
+        <summary type="html"><![CDATA[Substance Designerのノード操作について、GIFアニメで使用例をつけてまとめました。以前に出したノード整理の記事もぜひご覧ください！  […]
+続きを読む
+投稿 【Substance Designer】ノード操作に関するTips は エンホリ - ENVIRONMENT HOLIC｜C&R Creative Studios に最初に表示されました。]]></summary>
+        <author>
+            <name>Hisako.Nishimura</name>
         </author>
     </entry>
     <entry>
@@ -3861,18 +3993,6 @@ The post 今度はモンスター映画作りで大暴れ!? 映画『ミニオ�
         <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
         <author>
             <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【Python】それ、SQLでよくね？ MAYAで考えるデータ管理]]></title>
-        <id>https://3d.crdg.jp/tech/?p=6944</id>
-        <link href="https://3d.crdg.jp/tech/archives/6944"/>
-        <updated>2026-06-29T15:00:37.000Z</updated>
-        <summary type="html"><![CDATA[それ、SQLでよくね？ お疲れ様です。 最近肝心な日に限って台風が直撃しがちで雨にゆかりがあるんじゃないかって感じです。 クリーク･アンド･リバー社テ […]
-続きを読む
-投稿 【Python】それ、SQLでよくね？ MAYAで考えるデータ管理 は TECH-COYOTE｜C&R Creative Studios に最初に表示されました。]]></summary>
-        <author>
-            <name>taguchi tomoaki</name>
         </author>
     </entry>
 </feed>

@@ -2,10 +2,175 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-07-28T13:28:46.459Z</updated>
+    <updated>2026-07-29T01:29:49.133Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[登録者数4,020万（アメリカ）＋122万（日本語版）人 「ライアンズ・ワールド」で展開するショートアニメ制作 〜（2） VRモデリングソフト「Gravity Sketch」導入による直感的なプリビズ制作 - 特集]]></title>
+        <id>https://cgworld.jp/article/2602-ryansworld02.html</id>
+        <link href="https://cgworld.jp/article/2602-ryansworld02.html"/>
+        <updated>2026-07-29T09:00:23.000Z</updated>
+        <summary type="html"><![CDATA[「ライアンズ・ワールド」のアニメCGメイキングを紹介。]]></summary>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【期間限定無料】2026年8月11日までの FAB 無料コンテンツをチェック！]]></title>
+        <id>https://cginterest.com/?p=61254</id>
+        <link href="https://cginterest.com/2026/07/29/%e3%80%90%e6%9c%9f%e9%96%93%e9%99%90%e5%ae%9a%e7%84%a1%e6%96%99%e3%80%912026%e5%b9%b48%e6%9c%8811%e6%97%a5%e3%81%be%e3%81%a7%e3%81%ae-fab-%e7%84%a1%e6%96%99%e3%82%b3%e3%83%b3%e3%83%86%e3%83%b3/"/>
+        <updated>2026-07-29T00:14:43.000Z</updated>
+        <summary type="html"><![CDATA[期間限定で無料となっているEpicのマーケットプレイスFABの無料コンテンツの紹介です。 Epic Games の統合マーケットプレイスFABでは、クリエイターとのパートナーシップによって、2週間ごとに選ばれたコンテンツ […]]]></summary>
+        <author>
+            <name>.me</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nyanneco Fabric Weave Generator – Substance 3D Painterで26種類の織り目、100種類以上のプリセットを搭載した布目専用ジェネレーター]]></title>
+        <id>https://modelinghappy.com/?p=69581</id>
+        <link href="https://modelinghappy.com/archives/69581"/>
+        <updated>2026-07-29T00:01:03.000Z</updated>
+        <summary type="html"><![CDATA[SubstancePainter向け織種ジェネレーター「Nyanneco Fabric Weave Generator」 Nyanneco Fabric Weave Generatorは、にゃんねこさんが作成した、Sub
+The post Nyanneco Fabric Weave Generator – Substance 3D Painterで26種類の織り目、100種類以上のプリセットを搭載した布目専用ジェネレーター first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
+        <author>
+            <name>modelinghappy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SideFX、Netflix『プークーと魔法の植物』におけるHoudiniのVFXブレイクダウン動画公開　Annecy HIVE 2026でのSkydanceによる講演 - ニュース]]></title>
+        <id>https://cgworld.jp/flashnews/01-202607-Houdini-Swapped.html</id>
+        <link href="https://cgworld.jp/flashnews/01-202607-Houdini-Swapped.html"/>
+        <updated>2026-07-28T23:13:46.000Z</updated>
+        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[フォトグラメトリ数学｜41：オルソ画像はどのように作られるのか ～DEM・RPC・リサンプリングによる画像生成～]]></title>
+        <id>https://zenn.dev/s_hashida/articles/b6d4f0215d1674</id>
+        <link href="https://zenn.dev/s_hashida/articles/b6d4f0215d1674"/>
+        <updated>2026-07-28T21:57:05.000Z</updated>
+        <summary type="html"><![CDATA[はじめに
+前回は、高さデータである
+
+DEM
+DSM
+DTM
+
+について説明しました。
+
+その中で重要だったのが、
+
+オルソ補正ではDEMを利用する
+DEMから高さを取得する
+RPCで画像座標を求める
+
+という点です。
+
+しかしここで疑問が出てきます。
+
+RPCで画像座標が求まればオルソ画像は完成なのか？
+オルソ画像はどのように作られるのか？
+
+
+実は、RPCで求められるのは
+元画像上の位置
+だけです。
+オルソ画像は、そこからさらに画素値を取得し、新しく生成されます。
+
+今回は、
+
+オルソ画像の生成方法
+リサンプリングとは何か
+リサンプリングの代表的な手法
+
+について整理します。
+...]]></summary>
+        <author>
+            <name>s_hashida</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[『錆びた真鍮のランタン』／個人制作3DCGモデル]]></title>
+        <id>https://note.com/povi_works/n/n8876f956ffe1</id>
+        <link href="https://note.com/povi_works/n/n8876f956ffe1"/>
+        <updated>2026-07-28T17:53:47.000Z</updated>
+        <summary type="html"><![CDATA[使用ソフト：ZBrush、SubstancePainter
+元々は、「スチームパンク」というお題の、
+月一開催のコンテスト（７月末の回）
+に応募するために制作した「錆びた真鍮のランタン」のモデルです。
+続きをみる]]></summary>
+        <author>
+            <name>#substancepainterタグ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【Blender】左右対称なボーンを作成する方法]]></title>
+        <id>https://qiita.com/tsukino_/items/4d2934e5e545e085de6e</id>
+        <link href="https://qiita.com/tsukino_/items/4d2934e5e545e085de6e"/>
+        <updated>2026-07-28T17:16:00.000Z</updated>
+        <summary type="html"><![CDATA[モデルのBoneを作成する際、片方作ったのにもう一方を作るのが手間になる、もしくは手動の場合にもう一方を左右対象に合わせることが困難になるといったことがあると思います。
+本記事では、Blenderで左右対称なボーンを作成する方法を紹介します。
+
+使用環境
+
+Blender4...]]></summary>
+        <author>
+            <name>3DCGタグが付けられた新着記事 - Qiita</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【Blender】ボーンの階層を作成する方法]]></title>
+        <id>https://qiita.com/tsukino_/items/e59669629413081bfa07</id>
+        <link href="https://qiita.com/tsukino_/items/e59669629413081bfa07"/>
+        <updated>2026-07-28T16:45:05.000Z</updated>
+        <summary type="html"><![CDATA[3DモデルでBoneの動きを他のBoneへ追従させたい場合、Boneに階層を作成する必要があります。
+本記事では、ボーン階層の概念と、Blenderでのボーン階層の作成方法について紹介します。
+
+使用環境
+
+Blender4.5.3
+
+前提知識
+
+ボーンについての知識
+
+...]]></summary>
+        <author>
+            <name>3DCGタグが付けられた新着記事 - Qiita</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【Blender】ボーンの追加方法]]></title>
+        <id>https://qiita.com/tsukino_/items/e4481ebc0b709724f250</id>
+        <link href="https://qiita.com/tsukino_/items/e4481ebc0b709724f250"/>
+        <updated>2026-07-28T14:20:39.000Z</updated>
+        <summary type="html"><![CDATA[モデルにアニメーションをさせるためには、まず3Dモデルにボーンを追加する必要があります。
+本記事では、Blenderを使用して、3Dモデルにボーンを追加する方法を紹介します。
+
+使用環境
+
+Blender4.5.3
+
+ボーンとは
+ボーン（Bone）とは、3Dモデルの内部に...]]></summary>
+        <author>
+            <name>3DCGタグが付けられた新着記事 - Qiita</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TrueDepth V3アップデート！画像1枚から奥行きのある3DモデルやHDRIスタジオを作成できるBlenderアドオン]]></title>
+        <id>https://modelinghappy.com/?p=69570</id>
+        <link href="https://modelinghappy.com/archives/69570"/>
+        <updated>2026-07-28T13:33:42.000Z</updated>
+        <summary type="html"><![CDATA[True Depth: Depth Map Generator Blenderで画像から奥行きを作成出来るTrueDepthがバージョン3にアップデートされ、写真から自然な遠近感を持つ3Dシーンの生成、HDRIスタジオの
+The post TrueDepth V3アップデート！画像1枚から奥行きのある3DモデルやHDRIスタジオを作成できるBlenderアドオン first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
+        <author>
+            <name>modelinghappy</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Nyanneco Fabric Weave Generator マニュアル]]></title>
         <id>https://note.com/nyanneco/n/n444eb40ef670</id>
@@ -16,6 +181,33 @@ Nyanneco Fabric Weave Generatorは、Substance 3D PainterのFill Layerへ適用�
 続きをみる]]></summary>
         <author>
             <name>#substancepainterタグ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Houdini: 背景ドラッグで選択ノードを動かす]]></title>
+        <id>https://zenn.dev/kickbase/articles/099e5e8e4bb6de</id>
+        <link href="https://zenn.dev/kickbase/articles/099e5e8e4bb6de"/>
+        <updated>2026-07-28T11:33:30.000Z</updated>
+        <summary type="html"><![CDATA[分かる～! と思ったので実装してみました。
+
+標準操作だと、選択中のどれかノード本体を掴んでドラッグすればまとめて動きます。これはこれで正しいのですが、密集したネットワークだと「掴みたいノードがワイヤの下にある」「フラグ付近をクリックしてフラグが飛ぶ」「せっかくの空き背景をドラッグしたらボックス選択が始まる」といった、ちょっとしたストレスが積み上がります。
+というわけで作ったツールはこちら。
+
+Mを押しているあいだは、Network Editorの背景をドラッグしたら選択ノードが動くやつ
+
+Yでワイヤを切る、Sで選択だけする、と同じ「押しながらモード」の仲間が欲しかった、という話です。...]]></summary>
+        <author>
+            <name>めんたいこ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【サイコム】デュアル水冷システムのワークステーション最上位モデルで実現。神戸雄平が求める"途切れないクリエイティブ思考"｜Boost with Sycom #05 - スペシャルコンテンツ]]></title>
+        <id>https://cgworld.jp/special-feature/202607-sycom-kanbeyuhei-05.html</id>
+        <link href="https://cgworld.jp/special-feature/202607-sycom-kanbeyuhei-05.html"/>
+        <updated>2026-07-28T11:15:25.000Z</updated>
+        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
+        <author>
+            <name>CGWORLD</name>
         </author>
     </entry>
     <entry>
@@ -3681,97 +3873,6 @@ The post 今度はモンスター映画作りで大暴れ!? 映画『ミニオ�
 投稿 【Python】それ、SQLでよくね？ MAYAで考えるデータ管理 は TECH-COYOTE｜C&R Creative Studios に最初に表示されました。]]></summary>
         <author>
             <name>taguchi tomoaki</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【Imagica EMS】演出と撮影条件に寄り添った、きめ細やかなVFX｜Netflix映画『This is I』 - 連載]]></title>
-        <id>https://cgworld.jp/regular/202606-ImagicaEMS-ThisisI.html</id>
-        <link href="https://cgworld.jp/regular/202606-ImagicaEMS-ThisisI.html"/>
-        <updated>2026-06-29T13:00:04.000Z</updated>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2026年6月発売のCG関連書籍をチェック！]]></title>
-        <id>https://cginterest.com/?p=59302</id>
-        <link href="https://cginterest.com/2026/06/29/2026%e5%b9%b46%e6%9c%88%e7%99%ba%e5%a3%b2%e3%81%aecg%e9%96%a2%e9%80%a3%e6%9b%b8%e7%b1%8d%e3%82%92%e3%83%81%e3%82%a7%e3%83%83%e3%82%af%ef%bc%81/"/>
-        <updated>2026-06-29T11:11:23.000Z</updated>
-        <summary type="html"><![CDATA[今月発売、2026年6月以降に発売予定*のあるCG関連書籍を紹介するコーナーです(Amazon調べ)。 CGソフトの入門本、テクニック本、アートブック、リファレンス（参考資料）、その他気になるおすすめ書籍を紹介していきま […]]]></summary>
-        <author>
-            <name>.me</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【Unity 6.5】Shader Graph 17.5新機能まとめ！]]></title>
-        <id>https://tech-art.online/?p=2034</id>
-        <link href="https://tech-art.online/unity6-shadergraph-175/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=unity6-shadergraph-175"/>
-        <updated>2026-06-29T10:06:28.000Z</updated>
-        <summary type="html"><![CDATA[Unity 6.5へのアップデートに伴い、Shader Graphがバージョン17.5へと進化しました。 今回のアップデートでは、シェーダー開発の効率 […]
-続きを読む
-【Unity 6.5】Shader Graph 17.5新機能まとめ！ first appeared on TECH ART ONLINE.]]></summary>
-        <author>
-            <name>管理人</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[メッシュ一択だった椅子選びを変えた1台。モデリングブロス 今泉隼介が「LiberNovo Omni Pro」を組み立てから検証 - スペシャルコンテンツ]]></title>
-        <id>https://cgworld.jp/special-feature/2606-libernovo-moderingbros.html</id>
-        <link href="https://cgworld.jp/special-feature/2606-libernovo-moderingbros.html"/>
-        <updated>2026-06-29T08:20:55.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【イベントレポート】Autodesk「Flow PT」× freee――映像・アニメーション業界の制作基盤を、新しい時代へ - スペシャルコンテンツ]]></title>
-        <id>https://cgworld.jp/special-feature/freee-forseisaku-202606.html</id>
-        <link href="https://cgworld.jp/special-feature/freee-forseisaku-202606.html"/>
-        <updated>2026-06-29T05:27:00.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Unreal Engine 5.8公開ー広大なワールドで複雑な地形を作成できる新機能「メッシュテレイン」やキャラクターアニメーション機能を強化 - ニュース]]></title>
-        <id>https://cgworld.jp/flashnews/03-2606-ue5.8.html</id>
-        <link href="https://cgworld.jp/flashnews/03-2606-ue5.8.html"/>
-        <updated>2026-06-29T03:55:00.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Runtime Mesh Painting System | マルチプレイにも対応したメッシュペイントシステムを追加するUnreal Engine 5向けプラグイン！]]></title>
-        <id>https://3dnchu.com/?p=1066145</id>
-        <link href="https://3dnchu.com/archives/runtime-mesh-painting-system/"/>
-        <updated>2026-06-29T03:22:12.000Z</updated>
-        <summary type="html"><![CDATA[Voidy Gamesによる、Unreal Engine 5向けランタイムメッシュペイントプラグイン「Runtime Mesh Painting System」がFab上でリリースされました！]]></summary>
-        <author>
-            <name>Ymt3D -3dnchu-</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【7/2（木）まで】100studio、CGグループ所属ディレクター4名のインタビュー映像を限定公開 - ニュース]]></title>
-        <id>https://cgworld.jp/flashnews/02-2606-100studio.html</id>
-        <link href="https://cgworld.jp/flashnews/02-2606-100studio.html"/>
-        <updated>2026-06-29T02:50:00.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「デザイナー全員フルリモート」の理想郷を実現　GEMBAが5年超「Parsec」を指名し続ける理由 - スペシャルコンテンツ]]></title>
-        <id>https://cgworld.jp/special-feature/2606-gemba-parsec.html</id>
-        <link href="https://cgworld.jp/special-feature/2606-gemba-parsec.html"/>
-        <updated>2026-06-29T01:40:00.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
         </author>
     </entry>
 </feed>

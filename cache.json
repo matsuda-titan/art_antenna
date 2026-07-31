@@ -12,6 +12,21 @@
       "siteUrl": "https://cgbox.jp",
       "articles": [
         {
+          "id": "https://cgbox.jp/?p=65522",
+          "author": "kasahara",
+          "description": "こんばんは！ 今回はアドオンの「Easy-Print」を紹介します。 こちらのリンクがアドオンの商品ページになります。 Easy-Print 「Easy-Print」は、、3Dプリント向けにモデル分割と接合パーツ作成を簡 […]",
+          "link": "https://cgbox.jp/2026/07/31/news-addon-easy-print/",
+          "publishedOn": "2026-07-31T02:00:24.000Z",
+          "wordCount": 1991,
+          "title": "【無料アドオン紹介】Easy-Print – 3Dプリンター用にモデルを改変！",
+          "enclosure": {
+            "url": "https://cgbox.jp/wp-content/uploads/2026/07/twitter-4.mp4",
+            "length": "0",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://cgbox.jp/wp-content/uploads/2026/07/2fec722748a1beb692b62dfad1f1e602e0f2c5210ac46b1f4f4e5910734e58b2_640x360.webp"
+        },
+        {
           "id": "https://cgbox.jp/?p=65518",
           "author": "kasahara",
           "description": "こんばんは！ 今回はアドオンの「Blendcap Performance Capture」を紹介します。 こちらのリンクがアドオンの商品ページになります。 Blendcap Performance Capture 「Bl […]",
@@ -2168,6 +2183,21 @@
       "siteUrl": "https://zenn.dev/topics/shader",
       "articles": [
         {
+          "id": "https://zenn.dev/m_tk/articles/2c645b23bbe804",
+          "author": "m-tk",
+          "description": "はじめに\n画像を参考に、CLIを使ってBlenderシーンを生成しました。\nただしそこで終わらず、Unity用のランタイムアセットまで設計を進めました。\n始まりは、画像をBlenderへ見せたら、CLIとPythonでどこまで自動再現できるのかという興味でした。Blender MCPのような仕組みを知り、画像、Blender CLI、Pythonスクリプト、レンダー結果を組み合わせた反復生成を試しました。\n参考画像\n  ↓\nCLIがBlender Pythonを生成\n  ↓\nバックグラウンド実行してレンダー\n  ↓\n出力画像を見て次の修正を依頼\nLLMモデルの能力が上がるにつれて、プ...",
+          "link": "https://zenn.dev/m_tk/articles/2c645b23bbe804",
+          "publishedOn": "2026-07-31T02:06:18.000Z",
+          "wordCount": 2240,
+          "title": "BlenderをCLIで反復生成していたら、Unityで動く頂点属性付きアセットまでできた",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--CUZ1v9id--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Blender%25E3%2582%2592CLI%25E3%2581%25A7%25E5%258F%258D%25E5%25BE%25A9%25E7%2594%259F%25E6%2588%2590%25E3%2581%2597%25E3%2581%25A6%25E3%2581%2584%25E3%2581%259F%25E3%2582%2589%25E3%2580%2581Unity%25E3%2581%25A7%25E5%258B%2595%25E3%2581%258F%25E9%25A0%2582%25E7%2582%25B9%25E5%25B1%259E%25E6%2580%25A7%25E4%25BB%2598%25E3%2581%258D%25E3%2582%25A2%25E3%2582%25BB%25E3%2583%2583%25E3%2583%2588%25E3%2581%25BE%25E3%2581%25A7%25E3%2581%25A7%25E3%2581%258D%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:m-tk%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jTGFGTVJuR2NwWU8wdlhNUzQ2MU9mRlpnYmlERm1ISXd2YW1CTnFWUkVSRVhWWExzWXI9czI1MC1j%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+            "length": "0",
+            "type": "false"
+          },
+          "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--CUZ1v9id--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Blender%25E3%2582%2592CLI%25E3%2581%25A7%25E5%258F%258D%25E5%25BE%25A9%25E7%2594%259F%25E6%2588%2590%25E3%2581%2597%25E3%2581%25A6%25E3%2581%2584%25E3%2581%259F%25E3%2582%2589%25E3%2580%2581Unity%25E3%2581%25A7%25E5%258B%2595%25E3%2581%258F%25E9%25A0%2582%25E7%2582%25B9%25E5%25B1%259E%25E6%2580%25A7%25E4%25BB%2598%25E3%2581%258D%25E3%2582%25A2%25E3%2582%25BB%25E3%2583%2583%25E3%2583%2588%25E3%2581%25BE%25E3%2581%25A7%25E3%2581%25A7%25E3%2581%258D%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:m-tk%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jTGFGTVJuR2NwWU8wdlhNUzQ2MU9mRlpnYmlERm1ISXd2YW1CTnFWUkVSRVhWWExzWXI9czI1MC1j%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+        },
+        {
           "id": "https://zenn.dev/manafi/articles/unity-streak-shader",
           "author": "miya",
           "description": "結論から\nローディング画面用の斜めストリーク演出を作ろうとして、Shader Graph で挫折し、VFX Graph でも進まず、2日溶かしました。\n最終的に手書きの HLSL シェーダーに切り替えたところ、半日で完成しました。\n原因は私の技術力ではなく、道具の選択でした。より正確に言えば、「AI コーディングエージェントに手伝ってもらう」という前提と、Shader Graph / VFX Graph という選択が、構造的に噛み合っていませんでした。\nこの記事は、その理由と、切り替えたあとの進め方の記録です。\n!\n筆者はシェーダーの専門家ではありません。この記事の技術的な記述は、今...",
@@ -2832,6 +2862,16 @@
       "feedUrl": "https://qiita.com/tags/glsl/feed",
       "siteUrl": "https://qiita.com",
       "articles": [
+        {
+          "id": "https://qiita.com/0ts_st/items/b8d2ae24bbf6dd05302f",
+          "author": null,
+          "description": "コードは読みやすさのため、一部を簡略化しています。\n\nGitHubの使用言語やコントリビューションから、ユーザーごとに異なる3D惑星を生成する GitHub Planet を開発しています。\n\nデモ：GitHub Planet\n\nGitHub：nitr0yukkuri/g...",
+          "link": "https://qiita.com/0ts_st/items/b8d2ae24bbf6dd05302f",
+          "publishedOn": "2026-07-31T02:56:28.000Z",
+          "wordCount": 5199,
+          "title": "色を変えるだけでは「言語らしさ」は出なかった。Three.jsとGLSLで6つの惑星を作り分けた話",
+          "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRmF2YXRhcnMuZ2l0aHVidXNlcmNvbnRlbnQuY29tJTJGdSUyRjIxNDc5NDQ3OSUzRnYlM0Q0P2l4bGliPXJiLTQuMS4xJmFyPTElM0ExJmZpdD1jcm9wJm1hc2s9ZWxsaXBzZSZiZz1GRkZGRkYmZm09cG5nMzImcz0zNWMwNTkyY2FkMDE3MDdiNmI5ZjVhYTU1ZWFhYmNiYQ%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3Dde852866ad9c83844d71cb1023b1baeb?ixlib=rb-4.1.1&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9JUU4JTg5JUIyJUUzJTgyJTkyJUU1JUE0JTg5JUUzJTgxJTg4JUUzJTgyJThCJUUzJTgxJUEwJUUzJTgxJTkxJUUzJTgxJUE3JUUzJTgxJUFGJUUzJTgwJThDJUU4JUE4JTgwJUU4JUFBJTlFJUUzJTgyJTg5JUUzJTgxJTk3JUUzJTgxJTk1JUUzJTgwJThEJUUzJTgxJUFGJUU1JTg3JUJBJUUzJTgxJUFBJUUzJTgxJThCJUUzJTgxJUEzJUUzJTgxJTlGJUUzJTgwJTgyVGhyZWUuanMlRTMlODElQThHTFNMJUUzJTgxJUE3NiVFMyU4MSVBNCVFMyU4MSVBRSVFNiU4MyU5MSVFNiU5OCU5RiVFMyU4MiU5MiVFNCVCRCU5QyVFMyU4MiU4QSVFNSU4OCU4NiVFMyU4MSU5MSVFMyU4MSU5RiVFOCVBOSVCMSZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnR4dC1wYWQ9MCZzPTAyODc4M2UxMjNkOWQ5ODNmODdkN2ViYmE5NWRhMmJm&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDAwdHNfc3QmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz0zNjczYzJjNjYxZTU3MWE1M2FlYmJkYjkwMjM1OGZkZA&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=1978487c136d3dd8497abf5b6120cc4b"
+        },
         {
           "id": "https://qiita.com/mihocrsdrsr/items/b505462d833f22788d76",
           "author": null,

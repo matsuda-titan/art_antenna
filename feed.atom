@@ -2,10 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-07-31T13:29:45.914Z</updated>
+    <updated>2026-08-01T01:50:30.420Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【Blender】 Vertex Groupの作成方法]]></title>
+        <id>https://qiita.com/tsukino_/items/f35a063435ee2a3c7049</id>
+        <link href="https://qiita.com/tsukino_/items/f35a063435ee2a3c7049"/>
+        <updated>2026-07-31T15:37:55.000Z</updated>
+        <summary type="html"><![CDATA[3Dモデルは、どのBoneがどの頂点を動かすかを結びつけるために、Vertex Group(頂点グループ)を作成する必要があります。
+本記事では、Blenderを使用して、Vertex Groupsを作成する方法を紹介します。
+
+使用環境
+
+Blender4.5.3LTS
+...]]></summary>
+        <author>
+            <name>3DCGタグが付けられた新着記事 - Qiita</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Substance Designer / 剣線]]></title>
+        <id>https://note.com/efeozi/n/n101d6479e70c</id>
+        <link href="https://note.com/efeozi/n/n101d6479e70c"/>
+        <updated>2026-07-31T15:09:51.000Z</updated>
+        <summary type="html"><![CDATA[続きをみる]]></summary>
+        <author>
+            <name>#SubstanceDesignerタグ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Reallusion「AccuFACE 2」を発表 ─ GPU対応、口元など顔全体のより繊細なトラッキングが可能に]]></title>
+        <id>https://cginterest.com/?p=61344</id>
+        <link href="https://cginterest.com/2026/07/31/reallusion%e3%80%8caccuface-2%e3%80%8d%e3%82%92%e7%99%ba%e8%a1%a8-%e2%94%80-gpu%e5%af%be%e5%bf%9c%e3%80%81%e5%8f%a3%e5%85%83%e3%81%aa%e3%81%a9%e9%a1%94%e5%85%a8%e4%bd%93%e3%81%ae%e3%82%88%e3%82%8a/"/>
+        <updated>2026-07-31T11:33:30.000Z</updated>
+        <summary type="html"><![CDATA[2026年7月30日（現地時間）- Reallusionは、iClone向けフェイシャルモーションキャプチャプラグインの最新版となる「AccuFACE 2」を発表しました。 AccuFACEとは AccuFACEは、3D […]]]></summary>
+        <author>
+            <name>.me</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GitHubの活動を、自分だけの惑星に。GitHub PlanetがCSS Winnerにノミネートされました]]></title>
         <id>https://zenn.dev/0st_ts/articles/8986ca8bce48c3</id>
@@ -3818,88 +3854,6 @@ Transparent材質が深度を書くと、Fogや後段処理から...]]></summary
 Blender4....]]></summary>
         <author>
             <name>3DCGタグが付けられた新着記事 - Qiita</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【Maya】円柱の底面にエッジを追加する方法]]></title>
-        <id>https://3d.crdg.jp/env/?p=9896</id>
-        <link href="https://3d.crdg.jp/env/2026/07/02/9896/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=%25e3%2580%2590maya%25e3%2580%2591%25e5%2586%2586%25e6%259f%25b1%25e3%2581%25ae%25e5%25ba%2595%25e9%259d%25a2%25e3%2581%25ab%25e3%2582%25a8%25e3%2583%2583%25e3%2582%25b8%25e3%2582%2592%25e8%25bf%25bd%25e5%258a%25a0%25e3%2581%2599%25e3%2582%258b%25e6%2596%25b9%25e6%25b3%2595"/>
-        <updated>2026-07-02T13:29:10.000Z</updated>
-        <summary type="html"><![CDATA[円柱の底面にエッジを追加したいときに使う方法をご紹介します！ プリミティブから作成したばかりの場合 プリミティブから作成したばかりの場合、Attrib […]
-続きを読む
-投稿 【Maya】円柱の底面にエッジを追加する方法 は エンホリ - ENVIRONMENT HOLIC｜C&R Creative Studios に最初に表示されました。]]></summary>
-        <author>
-            <name>Hisako.Nishimura</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[UEFN Blender Bridge – BlenderとUEFNをライブ同期！アセット転送を自動化できる無料オープンソースツール]]></title>
-        <id>https://modelinghappy.com/?p=69307</id>
-        <link href="https://modelinghappy.com/archives/69307"/>
-        <updated>2026-07-02T08:30:31.000Z</updated>
-        <summary type="html"><![CDATA[uefn-blender-bridge uefn-blender-bridgeは、@KiKoZl1さんが作成した、BlenderとUEFN（Unreal Editor for Fortnite）でアセットを同期できる無料
-The post UEFN Blender Bridge – BlenderとUEFNをライブ同期！アセット転送を自動化できる無料オープンソースツール first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
-        <author>
-            <name>modelinghappy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[写真エフェクトプラグイン「Optics 2026.5」がリリース！Affinityなど新規ホスト対応、新たなフィルター群の追加など]]></title>
-        <id>https://cginterest.com/?p=60428</id>
-        <link href="https://cginterest.com/2026/07/02/%e5%86%99%e7%9c%9f%e3%82%a8%e3%83%95%e3%82%a7%e3%82%af%e3%83%88%e3%83%97%e3%83%a9%e3%82%b0%e3%82%a4%e3%83%b3%e3%80%8coptics-2026-5%e3%80%8d%e3%81%8c%e3%83%aa%e3%83%aa%e3%83%bc%e3%82%b9%ef%bc%81affinit/"/>
-        <updated>2026-07-02T06:56:49.000Z</updated>
-        <summary type="html"><![CDATA[2026年6月25日（現地時間）- Boris FXは、写真編集および視覚効果プラグインの最新アップデート「Optics 2026.5」を発表しました。 主な新機能 今回のアップデートでは、対応するホストアプリケーション […]]]></summary>
-        <author>
-            <name>.me</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[7/16（木）オンライン開催！「MotionMaker × 新スキンツール：Maya 制作現場のワークフロー効率化ウェビナー」クリーク･アンド･リバー社のTAチームが検証結果を報告 - ニュース]]></title>
-        <id>https://cgworld.jp/flashnews/2607-maya2027-sem.html</id>
-        <link href="https://cgworld.jp/flashnews/2607-maya2027-sem.html"/>
-        <updated>2026-07-02T03:20:00.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JangaFX、リアルタイムVFX向けベクターフィールド生成ツール「VectorayGen」を無償でリリース！]]></title>
-        <id>https://cginterest.com/?p=60423</id>
-        <link href="https://cginterest.com/2026/07/02/jangafx%e3%80%81%e3%83%aa%e3%82%a2%e3%83%ab%e3%82%bf%e3%82%a4%e3%83%a0vfx%e5%90%91%e3%81%91%e3%83%99%e3%82%af%e3%82%bf%e3%83%bc%e3%83%95%e3%82%a3%e3%83%bc%e3%83%ab%e3%83%89%e7%94%9f%e6%88%90%e3%83%84/"/>
-        <updated>2026-07-02T03:16:50.000Z</updated>
-        <summary type="html"><![CDATA[2026年6月30日 – JangaFXは、過去に提供を終了していたリアルタイムVFX向けベクターフィールド生成ツール「VectorayGen」を、無償で再リリースしたことを発表しました。 かつて同社初のソフ […]]]></summary>
-        <author>
-            <name>.me</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【アドオン紹介】Forge – cadのような操作感でモデリング！]]></title>
-        <id>https://cgbox.jp/?p=65433</id>
-        <link href="https://cgbox.jp/2026/07/02/news-addon-forge/"/>
-        <updated>2026-07-02T02:50:02.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは！ 今回はアドオンの「Forge」を紹介します。 こちらのリンクがアドオンの商品ページになります。 Forge 「Forge」は、Blender上でBRep CADジオメトリを扱える本格的なCADモデリングツー […]]]></summary>
-        <author>
-            <name>kasahara</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[第22回：UE5.8で追加されたEditor Utility機能 - 連載]]></title>
-        <id>https://cgworld.jp/regular/202607-ue5tool-22.html</id>
-        <link href="https://cgworld.jp/regular/202607-ue5tool-22.html"/>
-        <updated>2026-07-02T02:49:00.000Z</updated>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[オートデスク協賛 建築ビジュアライゼーションMeetUp第9弾]]></title>
-        <id>https://area.autodesk.jp/event/autodesk/kviz-meetup-9/</id>
-        <link href="https://area.autodesk.jp/event/autodesk/kviz-meetup-9/"/>
-        <updated>2026-07-02T02:00:00.000Z</updated>
-        <summary type="html"><![CDATA[建築ビジュアライゼーションMeetUpはBIMや3DCADを使用する設計者の方から、3D CGビジュアライゼーションに携わる方までを対象に、有意義なコミュニケーションの場をご提供する交流イベントです。第9弾となる今回は、株式会社アクアクリエイティブラボ様をお迎えし、3ds Max、RevitおよびUnreal Engineを活用した映像表現を実際の制作事例を交えながらご紹介いただきます。また、ニュージャージー工科大学准教授 楢原太郎氏をお迎えし、AIによる空間評価や機械学習・生成AIを活用した建築設計支援の研究をもとに、建築設計とビジュアライゼーションの可能性についてお話しいただきます。・・・]]></summary>
-        <author>
-            <name>AREA JAPAN | Autodesk</name>
         </author>
     </entry>
 </feed>

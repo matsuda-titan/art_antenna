@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-01T01:50:30.420Z</updated>
+    <updated>2026-08-01T05:45:19.326Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Bioform | 現役臨床医の3DCGアーティストが実際の解剖学に基づいて構築したプロシージャルな生物学的Blenderマテリアルアセットアドオン！無料お試し版もあるよ！]]></title>
+        <id>https://3dnchu.com/?p=1066743</id>
+        <link href="https://3dnchu.com/archives/bioform/"/>
+        <updated>2026-08-01T04:29:11.000Z</updated>
+        <summary type="html"><![CDATA[医師で3DアーティストのLimitless Creative（Hamza Meo氏）による、生物学的Blenderマテリアルアセット「Bioform - Procedural Biological Materials」がリリースされました！]]></summary>
+        <author>
+            <name>Ymt3D -3dnchu-</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【アドオン紹介】Vfx Toolkit – カスタム可能なVFXのプリセット集]]></title>
+        <id>https://cgbox.jp/?p=65527</id>
+        <link href="https://cgbox.jp/2026/08/01/news-addon-vfx-toolkit/"/>
+        <updated>2026-08-01T04:11:38.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは！ 今回はアドオンの「Vfx Toolkit」を紹介します。 こちらのリンクがアドオンの商品ページになります。 Vfx Toolkit 「Vfx Toolkit」は、Blender内で使えるプロシージャルエフェ […]]]></summary>
+        <author>
+            <name>kasahara</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【Blender】 Vertex Groupの作成方法]]></title>
         <id>https://qiita.com/tsukino_/items/f35a063435ee2a3c7049</id>
@@ -3822,38 +3842,6 @@ The post 「ゲーム背景のための植生環境のつくり方」が学べ�
         <summary type="html"><![CDATA[SpaghetMeNotによるBlender向け法線制御モディファイアツールセットのメジャーアップデート「normalMagic 2.0」がリリースされました！]]></summary>
         <author>
             <name>Ymt3D -3dnchu-</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Unity HDRPのFogとTransparent Depthで詰まったときのメモ]]></title>
-        <id>https://zenn.dev/toshikun/articles/unity-hdrp-fog-transparent-depth-notes</id>
-        <link href="https://zenn.dev/toshikun/articles/unity-hdrp-fog-transparent-depth-notes"/>
-        <updated>2026-07-02T14:46:42.000Z</updated>
-        <summary type="html"><![CDATA[HDRPでキャラクターを描いていると、Fogを入れた瞬間に「透明の面が透けているように見える」「シルエットだけがFogに出る」「背景があると見え方が変わる」といったことがあります。
-これは単純なアルファの問題ではなく、HDRPのFogがどの段階で、どの深度を見て処理されるかが関係しています。
-この記事は、HDRPのFogとTransparent Depthまわりで詰まったときに見るポイントのメモです。
-
- ざっくり結論
-
-HDRPのFogは、Opaque向けの深度ベース処理とTransparent材質側の処理を分けて考える。
-Transparent材質が深度を書くと、Fogや後段処理から...]]></summary>
-        <author>
-            <name>toshi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【Blender】3Dモデルの法線確認方法と修正方法]]></title>
-        <id>https://qiita.com/tsukino_/items/8c843c4f0e6c4fb36c61</id>
-        <link href="https://qiita.com/tsukino_/items/8c843c4f0e6c4fb36c61"/>
-        <updated>2026-07-02T13:53:46.000Z</updated>
-        <summary type="html"><![CDATA[モデルを描画エンジンに持って行った際、法線データが乱れているとシェーディングがうまくいかないなどの問題が出る可能性があります。
-本記事では、Blenderを使用して、モデルの法線を確認する方法と、間違っていた場合に修正する方法を紹介します。
-
-使用環境
-
-Blender4....]]></summary>
-        <author>
-            <name>3DCGタグが付けられた新着記事 - Qiita</name>
         </author>
     </entry>
 </feed>

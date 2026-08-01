@@ -12,6 +12,21 @@
       "siteUrl": "https://cgbox.jp",
       "articles": [
         {
+          "id": "https://cgbox.jp/?p=65527",
+          "author": "kasahara",
+          "description": "こんばんは！ 今回はアドオンの「Vfx Toolkit」を紹介します。 こちらのリンクがアドオンの商品ページになります。 Vfx Toolkit 「Vfx Toolkit」は、Blender内で使えるプロシージャルエフェ […]",
+          "link": "https://cgbox.jp/2026/08/01/news-addon-vfx-toolkit/",
+          "publishedOn": "2026-08-01T04:11:38.000Z",
+          "wordCount": 1969,
+          "title": "【アドオン紹介】Vfx Toolkit – カスタム可能なVFXのプリセット集",
+          "enclosure": {
+            "url": "https://cgbox.jp/wp-content/uploads/2026/08/twitter-6.mp4",
+            "length": "0",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://cgbox.jp/wp-content/uploads/2026/08/image_processing20260731-2-kz0oaw.jpg"
+        },
+        {
           "id": "https://cgbox.jp/?p=65522",
           "author": "kasahara",
           "description": "こんばんは！ 今回はアドオンの「Easy-Print」を紹介します。 こちらのリンクがアドオンの商品ページになります。 Easy-Print 「Easy-Print」は、、3Dプリント向けにモデル分割と接合パーツ作成を簡 […]",
@@ -214,6 +229,21 @@
       "feedUrl": "https://3dnchu.com/feed/",
       "siteUrl": "https://3dnchu.com",
       "articles": [
+        {
+          "id": "https://3dnchu.com/?p=1066743",
+          "author": "Ymt3D -3dnchu-",
+          "description": "医師で3DアーティストのLimitless Creative（Hamza Meo氏）による、生物学的Blenderマテリアルアセット「Bioform - Procedural Biological Materials」がリリースされました！",
+          "link": "https://3dnchu.com/archives/bioform/",
+          "publishedOn": "2026-08-01T04:29:11.000Z",
+          "wordCount": 8954,
+          "title": "Bioform | 現役臨床医の3DCGアーティストが実際の解剖学に基づいて構築したプロシージャルな生物学的Blenderマテリアルアセットアドオン！無料お試し版もあるよ！",
+          "enclosure": {
+            "url": "https://3dnchu.com/wp-content/uploads/BioForm.webp",
+            "length": "1317564",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://3dnchu.com/wp-content/uploads/BioForm.webp"
+        },
         {
           "id": "https://3dnchu.com/?p=1066724",
           "author": "Ymt3D -3dnchu-",
@@ -2186,21 +2216,6 @@
             "type": "false"
           },
           "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--VH4tQy5_--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:GPU%25E3%2581%258C%25E3%2583%25A2%25E3%2583%258B%25E3%2582%25BF%25E3%2583%25BC%25E3%2581%25AB%25E8%2589%25B2%25E3%2582%2592%25E6%258F%258F%25E7%2594%25BB%25E3%2581%2599%25E3%2582%258B%25E3%2581%25BE%25E3%2581%25A7%25E3%2582%2592%25E3%2580%2581%25E6%2593%25AC%25E4%25BC%25BC%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2589%25E3%2581%25A7%25E7%2590%2586%25E8%25A7%25A3%25E3%2581%2599%25E3%2582%258B%25E5%2582%2599%25E5%25BF%2598%25E9%258C%25B2%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Sippo%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2JhMDNlYzYzNDYuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
-        },
-        {
-          "id": "https://zenn.dev/toshikun/articles/unity-hdrp-fog-transparent-depth-notes",
-          "author": "toshi",
-          "description": "HDRPでキャラクターを描いていると、Fogを入れた瞬間に「透明の面が透けているように見える」「シルエットだけがFogに出る」「背景があると見え方が変わる」といったことがあります。\nこれは単純なアルファの問題ではなく、HDRPのFogがどの段階で、どの深度を見て処理されるかが関係しています。\nこの記事は、HDRPのFogとTransparent Depthまわりで詰まったときに見るポイントのメモです。\n\n ざっくり結論\n\nHDRPのFogは、Opaque向けの深度ベース処理とTransparent材質側の処理を分けて考える。\nTransparent材質が深度を書くと、Fogや後段処理から...",
-          "link": "https://zenn.dev/toshikun/articles/unity-hdrp-fog-transparent-depth-notes",
-          "publishedOn": "2026-07-02T14:46:42.000Z",
-          "wordCount": 730,
-          "title": "Unity HDRPのFogとTransparent Depthで詰まったときのメモ",
-          "enclosure": {
-            "url": "https://res.cloudinary.com/zenn/image/upload/s--BgfJQgwi--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Unity%2520HDRP%25E3%2581%25AEFog%25E3%2581%25A8Transparent%2520Depth%25E3%2581%25A7%25E8%25A9%25B0%25E3%2581%25BE%25E3%2581%25A3%25E3%2581%259F%25E3%2581%25A8%25E3%2581%258D%25E3%2581%25AE%25E3%2583%25A1%25E3%2583%25A2%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:toshi%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzk2ZDRmNTFiYjUuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
-            "length": "0",
-            "type": "false"
-          },
-          "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--BgfJQgwi--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Unity%2520HDRP%25E3%2581%25AEFog%25E3%2581%25A8Transparent%2520Depth%25E3%2581%25A7%25E8%25A9%25B0%25E3%2581%25BE%25E3%2581%25A3%25E3%2581%259F%25E3%2581%25A8%25E3%2581%258D%25E3%2581%25AE%25E3%2583%25A1%25E3%2583%25A2%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:toshi%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzk2ZDRmNTFiYjUuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
         }
       ]
     },
@@ -2665,16 +2680,6 @@
           "wordCount": 626,
           "title": "【Blender】モデルのバウンディングボックスを確認する方法",
           "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Ftech-festa-ogp-background-4b5015b2c518c7e6b9062a7c9f5f5e90.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYzOTQzMTQ4JTJGZGJhOTI4MmI5OWFlNGQ4NmFjYjI4MDk1NGVhNGFjYzI2ZGYyODM0ZSUyRmxhcmdlLnBuZyUzRjE3NTAxNDEwMzM_aXhsaWI9cmItNC4xLjEmYXI9MSUzQTEmZml0PWNyb3AmbWFzaz1lbGxpcHNlJmJnPUZGRkZGRiZmbT1wbmczMiZzPWU4ZGJmMzk4YjI1NDE2YmMxODUyOGE0ZWZiOWU3NjE5%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D38295f4f5e234316699e4c977f934345?ixlib=rb-4.1.1&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9JUUzJTgwJTkwQmxlbmRlciVFMyU4MCU5MSVFMyU4MyVBMiVFMyU4MyU4NyVFMyU4MyVBQiVFMyU4MSVBRSVFMyU4MyU5MCVFMyU4MiVBNiVFMyU4MyVCMyVFMyU4MyU4NyVFMyU4MiVBMyVFMyU4MyVCMyVFMyU4MiVCMCVFMyU4MyU5QyVFMyU4MyU4MyVFMyU4MiVBRiVFMyU4MiVCOSVFMyU4MiU5MiVFNyVBMiVCQSVFOCVBQSU4RCVFMyU4MSU5OSVFMyU4MiU4QiVFNiU5NiVCOSVFNiVCMyU5NSZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZ0eHQtY29sb3I9JTIzRkZGRkZGJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnR4dC1wYWQ9MCZzPWRjNTU4YTgzZGExMmUxYzQ2YTE5MmZjNjMzNTFhNTIy&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDB0c3VraW5vXyZ0eHQtY29sb3I9JTIzRkZGRkZGJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPWZlZjIzZWE5NDQ3NzFhZDc0Y2Q5YjkyZGI3MDY4OWUz&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=892209b152d78dfd51a38aa6de74d707"
-        },
-        {
-          "id": "https://qiita.com/tsukino_/items/8c843c4f0e6c4fb36c61",
-          "author": null,
-          "description": "モデルを描画エンジンに持って行った際、法線データが乱れているとシェーディングがうまくいかないなどの問題が出る可能性があります。\n本記事では、Blenderを使用して、モデルの法線を確認する方法と、間違っていた場合に修正する方法を紹介します。\n\n使用環境\n\nBlender4....",
-          "link": "https://qiita.com/tsukino_/items/8c843c4f0e6c4fb36c61",
-          "publishedOn": "2026-07-02T13:53:46.000Z",
-          "wordCount": 711,
-          "title": "【Blender】3Dモデルの法線確認方法と修正方法",
-          "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Ftech-festa-ogp-background-4b5015b2c518c7e6b9062a7c9f5f5e90.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYzOTQzMTQ4JTJGZGJhOTI4MmI5OWFlNGQ4NmFjYjI4MDk1NGVhNGFjYzI2ZGYyODM0ZSUyRmxhcmdlLnBuZyUzRjE3NTAxNDEwMzM_aXhsaWI9cmItNC4xLjEmYXI9MSUzQTEmZml0PWNyb3AmbWFzaz1lbGxpcHNlJmJnPUZGRkZGRiZmbT1wbmczMiZzPWU4ZGJmMzk4YjI1NDE2YmMxODUyOGE0ZWZiOWU3NjE5%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D38295f4f5e234316699e4c977f934345?ixlib=rb-4.1.1&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9JUUzJTgwJTkwQmxlbmRlciVFMyU4MCU5MTNEJUUzJTgzJUEyJUUzJTgzJTg3JUUzJTgzJUFCJUUzJTgxJUFFJUU2JUIzJTk1JUU3JUI3JTlBJUU3JUEyJUJBJUU4JUFBJThEJUU2JTk2JUI5JUU2JUIzJTk1JUUzJTgxJUE4JUU0JUJGJUFFJUU2JUFEJUEzJUU2JTk2JUI5JUU2JUIzJTk1JnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjNGRkZGRkYmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9MDI5ZmNiYTE4YWJkNTZjODlhMDFmZDBkM2NjMmExNzM&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDB0c3VraW5vXyZ0eHQtY29sb3I9JTIzRkZGRkZGJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPWZlZjIzZWE5NDQ3NzFhZDc0Y2Q5YjkyZGI3MDY4OWUz&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=2b6e6ca950320bbe97d28b887cf53b22"
         }
       ]
     },

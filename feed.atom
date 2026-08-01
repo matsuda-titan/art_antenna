@@ -2,10 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-01T09:49:02.152Z</updated>
+    <updated>2026-08-01T12:55:36.738Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【Blender】Weight Paintを塗る方法とコツ]]></title>
+        <id>https://qiita.com/tsukino_/items/412434d800fbdf0bbc0c</id>
+        <link href="https://qiita.com/tsukino_/items/412434d800fbdf0bbc0c"/>
+        <updated>2026-08-01T12:34:43.000Z</updated>
+        <summary type="html"><![CDATA[3DモデルのVertex Groupは、どの頂点がどのボーンに追従するかを紐づけるためのものでした。
+しかし、それだけでは頂点を動かすには不十分で、ボーンの影響度、つまりどのボーンがどの頂点をどれくらい動かすかを調整する必要があります。
+そういった場合、3DモデルではWei...]]></summary>
+        <author>
+            <name>3DCGタグが付けられた新着記事 - Qiita</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pipe It – クリックするだけでパイプを自動生成！配置・分岐・編集ができるUnreal Engine用プラグイン！]]></title>
+        <id>https://modelinghappy.com/?p=69652</id>
+        <link href="https://modelinghappy.com/archives/69652"/>
+        <updated>2026-08-01T11:22:49.000Z</updated>
+        <summary type="html"><![CDATA[Pipe It #8211; Draw Pipes at the Speed of Thought Anthony Carmonaさんが作成した、Unreal Engineで配管を配置したい部分をクリックするだけで、自
+The post Pipe It – クリックするだけでパイプを自動生成！配置・分岐・編集ができるUnreal Engine用プラグイン！ first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
+        <author>
+            <name>modelinghappy</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[VFX Toolkit – 100種類以上の炎・煙・爆発・手描きアニメーションなどを簡単に追加できるBlender用VFXライブラリ！]]></title>
         <id>https://modelinghappy.com/?p=69637</id>
@@ -3822,27 +3845,6 @@ The post Dovetail Key – ラインを描くだけで3Dプリント用のオス�
 今回作ろうと思うの...]]></summary>
         <author>
             <name>スプーキーズ広報</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「ゲーム背景のための植生環境のつくり方」が学べる書籍が発売します]]></title>
-        <id>https://modelinghappy.com/?p=69310</id>
-        <link href="https://modelinghappy.com/archives/69310"/>
-        <updated>2026-07-02T23:29:30.000Z</updated>
-        <summary type="html"><![CDATA[ゲーム背景のための植生環境のつくり方 2026年8月11日に、ゲーム向けのハイクオリティな植生をゼロから制作するための本格的な書籍が発売します。 本書では、オンラインライブラリからアセットをダウンロードして配置すれば、そ
-The post 「ゲーム背景のための植生環境のつくり方」が学べる書籍が発売します first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
-        <author>
-            <name>modelinghappy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[株式会社TA、Maya×UE5用の揺れもの物理ツール「Bonjolt」ベータ公開　髪、スカート、アクセサリーなどのボーン物理をMaya上でセットアップし、UE5へ持ち込めるツール - ニュース]]></title>
-        <id>https://cgworld.jp/flashnews/01-202607-Bonjolt.html</id>
-        <link href="https://cgworld.jp/flashnews/01-202607-Bonjolt.html"/>
-        <updated>2026-07-02T23:10:56.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
         </author>
     </entry>
 </feed>

@@ -2,10 +2,79 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-02T09:47:27.058Z</updated>
+    <updated>2026-08-02T12:57:10.726Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【Unity】Shader Graph初心者でもわかる 地面にグリッド線を描画する方法]]></title>
+        <id>https://zenn.dev/sumcol03/articles/f4133b01d9f3e1</id>
+        <link href="https://zenn.dev/sumcol03/articles/f4133b01d9f3e1"/>
+        <updated>2026-08-02T11:00:05.000Z</updated>
+        <summary type="html"><![CDATA[【Unity】Shader Graphで地面にグリッド線を表示する
+Unityでステージを制作していると、地面に一定間隔のグリッド線を表示したくなることがあります。
+例えば、
+
+建築・シミュレーションゲームのマス目
+RTSの配置エリア
+開発中のデバッグ表示
+
+などです。
+最初はグリッド画像をテクスチャとして貼る方法を考えましたが、
+
+グリッドの間隔を変更したい
+線の太さを変えたい
+テクスチャを作り直したくない
+
+といった理由から、Shader Graphで実装することにしました。
+完成すると、このようなマテリアルになります。
+
+Grid Size：グリッドの間隔
+Line Width...]]></summary>
+        <author>
+            <name>夏風邪</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【Unity】Shader Graph初心者でもわかる 地面にグリッド線を描画する方法]]></title>
+        <id>https://zenn.dev/sumcol03/articles/f4133b01d9f3e1</id>
+        <link href="https://zenn.dev/sumcol03/articles/f4133b01d9f3e1"/>
+        <updated>2026-08-02T11:00:05.000Z</updated>
+        <summary type="html"><![CDATA[【Unity】Shader Graphで地面にグリッド線を表示する
+Unityでステージを制作していると、地面に一定間隔のグリッド線を表示したくなることがあります。
+例えば、
+
+建築・シミュレーションゲームのマス目
+RTSの配置エリア
+開発中のデバッグ表示
+
+などです。
+最初はグリッド画像をテクスチャとして貼る方法を考えましたが、
+
+グリッドの間隔を変更したい
+線の太さを変えたい
+テクスチャを作り直したくない
+
+といった理由から、Shader Graphで実装することにしました。
+完成すると、このようなマテリアルになります。
+
+Grid Size：グリッドの間隔
+Line Width...]]></summary>
+        <author>
+            <name>夏風邪</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Attribute Sweep – BlenderのAttributeを検索・使用オブジェクトの選択・一括削除できる無料アドオン！]]></title>
+        <id>https://modelinghappy.com/?p=69673</id>
+        <link href="https://modelinghappy.com/archives/69673"/>
+        <updated>2026-08-02T10:49:11.000Z</updated>
+        <summary type="html"><![CDATA[Attribute Sweep Attribute Sweepは、Blenderでオブジェクトやメッシュが持つAttributeを一覧表示し、そのAttributeを使用しているオブジェクトをワンクリックで選択したり、不
+The post Attribute Sweep – BlenderのAttributeを検索・使用オブジェクトの選択・一括削除できる無料アドオン！ first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
+        <author>
+            <name>modelinghappy</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Seamless Canvas – Blenderで継ぎ目のないシームレステクスチャを直接ペイントできる無料アドオン！]]></title>
         <id>https://modelinghappy.com/?p=69661</id>
@@ -3802,16 +3871,6 @@ The post Dovetail Key – ラインを描くだけで3Dプリント用のオス�
         <summary type="html"><![CDATA[こんばんは！ 今回はアドオンの「Disco Ball Generator」を紹介します。 こちらのリンクがアドオンの商品ページになります。 Disco Ball Generator 「Disco Ball Generat […]]]></summary>
         <author>
             <name>kasahara</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI搭載3Dヘッドジェネレーター「Headshot 3.1」がリリース！本格的にペイント機能統合、側面の4K AI生成でディテール表現向上など]]></title>
-        <id>https://cginterest.com/?p=60462</id>
-        <link href="https://cginterest.com/2026/07/04/ai%e6%90%ad%e8%bc%893d%e3%83%98%e3%83%83%e3%83%89%e3%82%b8%e3%82%a7%e3%83%8d%e3%83%ac%e3%83%bc%e3%82%bf%e3%83%bc%e3%80%8cheadshot-3-1%e3%80%8d%e3%81%8c%e3%83%aa%e3%83%aa%e3%83%bc%e3%82%b9%ef%bc%81/"/>
-        <updated>2026-07-03T23:11:00.000Z</updated>
-        <summary type="html"><![CDATA[2026年7月3日（現地時間） – Reallusionは、Character Creator 用のAI搭載の3Dヘッドジェネレータープラグインの最新アップデートとなるHeadshot 3.1を発表しました。 […]]]></summary>
-        <author>
-            <name>.me</name>
         </author>
     </entry>
 </feed>

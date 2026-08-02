@@ -1645,6 +1645,16 @@
       "siteUrl": "https://modelinghappy.com",
       "articles": [
         {
+          "id": "https://modelinghappy.com/?p=69673",
+          "author": "modelinghappy",
+          "description": "Attribute Sweep Attribute Sweepは、Blenderでオブジェクトやメッシュが持つAttributeを一覧表示し、そのAttributeを使用しているオブジェクトをワンクリックで選択したり、不\nThe post Attribute Sweep – BlenderのAttributeを検索・使用オブジェクトの選択・一括削除できる無料アドオン！ first appeared on 3DCG最新情報サイト MODELING HAPPY.",
+          "link": "https://modelinghappy.com/archives/69673",
+          "publishedOn": "2026-08-02T10:49:11.000Z",
+          "wordCount": 3004,
+          "title": "Attribute Sweep – BlenderのAttributeを検索・使用オブジェクトの選択・一括削除できる無料アドオン！",
+          "imageUrl": "https://modelinghappy.com/wp-content/uploads/2026/08/20260802_attribute_sweep_01.jpg"
+        },
+        {
           "id": "https://modelinghappy.com/?p=69661",
           "author": "modelinghappy",
           "description": "Seamless Painter Omar Faruq Tawsifさんが作成した、Seamless Canvasは、Blender上でシームレスなテクスチャを簡単に手描きできるようにするアドオンです。 通常、シームレス\nThe post Seamless Canvas – Blenderで継ぎ目のないシームレステクスチャを直接ペイントできる無料アドオン！ first appeared on 3DCG最新情報サイト MODELING HAPPY.",
@@ -2128,6 +2138,21 @@
       "siteUrl": "https://zenn.dev/topics/shader",
       "articles": [
         {
+          "id": "https://zenn.dev/sumcol03/articles/f4133b01d9f3e1",
+          "author": "夏風邪",
+          "description": "【Unity】Shader Graphで地面にグリッド線を表示する\nUnityでステージを制作していると、地面に一定間隔のグリッド線を表示したくなることがあります。\n例えば、\n\n建築・シミュレーションゲームのマス目\nRTSの配置エリア\n開発中のデバッグ表示\n\nなどです。\n最初はグリッド画像をテクスチャとして貼る方法を考えましたが、\n\nグリッドの間隔を変更したい\n線の太さを変えたい\nテクスチャを作り直したくない\n\nといった理由から、Shader Graphで実装することにしました。\n完成すると、このようなマテリアルになります。\n\nGrid Size：グリッドの間隔\nLine Width...",
+          "link": "https://zenn.dev/sumcol03/articles/f4133b01d9f3e1",
+          "publishedOn": "2026-08-02T11:00:05.000Z",
+          "wordCount": 2901,
+          "title": "【Unity】Shader Graph初心者でもわかる 地面にグリッド線を描画する方法",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--vl_--5S5--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2580%2590Unity%25E3%2580%2591Shader%2520Graph%25E5%2588%259D%25E5%25BF%2583%25E8%2580%2585%25E3%2581%25A7%25E3%2582%2582%25E3%2582%258F%25E3%2581%258B%25E3%2582%258B%2520%25E5%259C%25B0%25E9%259D%25A2%25E3%2581%25AB%25E3%2582%25B0%25E3%2583%25AA%25E3%2583%2583%25E3%2583%2589%25E7%25B7%259A%25E3%2582%2592%25E6%258F%258F%25E7%2594%25BB%25E3%2581%2599%25E3%2582%258B%25E6%2596%25B9%25E6%25B3%2595%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E5%25A4%258F%25E9%25A2%25A8%25E9%2582%25AA%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2YxYzg4YWQ1ZjQuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+            "length": "0",
+            "type": "false"
+          },
+          "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--vl_--5S5--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2580%2590Unity%25E3%2580%2591Shader%2520Graph%25E5%2588%259D%25E5%25BF%2583%25E8%2580%2585%25E3%2581%25A7%25E3%2582%2582%25E3%2582%258F%25E3%2581%258B%25E3%2582%258B%2520%25E5%259C%25B0%25E9%259D%25A2%25E3%2581%25AB%25E3%2582%25B0%25E3%2583%25AA%25E3%2583%2583%25E3%2583%2589%25E7%25B7%259A%25E3%2582%2592%25E6%258F%258F%25E7%2594%25BB%25E3%2581%2599%25E3%2582%258B%25E6%2596%25B9%25E6%25B3%2595%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E5%25A4%258F%25E9%25A2%25A8%25E9%2582%25AA%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2YxYzg4YWQ1ZjQuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+        },
+        {
           "id": "https://zenn.dev/m_tk/articles/2c645b23bbe804",
           "author": "m-tk",
           "description": "はじめに\n画像を参考に、CLIを使ってBlenderシーンを生成しました。\nただしそこで終わらず、Unity用のランタイムアセットまで設計を進めました。\n始まりは、画像をBlenderへ見せたら、CLIとPythonでどこまで自動再現できるのかという興味でした。Blender MCPのような仕組みを知り、画像、Blender CLI、Pythonスクリプト、レンダー結果を組み合わせた反復生成を試しました。\n参考画像\n  ↓\nCLIがBlender Pythonを生成\n  ↓\nバックグラウンド実行してレンダー\n  ↓\n出力画像を見て次の修正を依頼\nLLMモデルの能力が上がるにつれて、プ...",
@@ -2216,6 +2241,21 @@
       "feedUrl": "https://zenn.dev/topics/shadergraph/feed",
       "siteUrl": "https://zenn.dev/topics/shadergraph",
       "articles": [
+        {
+          "id": "https://zenn.dev/sumcol03/articles/f4133b01d9f3e1",
+          "author": "夏風邪",
+          "description": "【Unity】Shader Graphで地面にグリッド線を表示する\nUnityでステージを制作していると、地面に一定間隔のグリッド線を表示したくなることがあります。\n例えば、\n\n建築・シミュレーションゲームのマス目\nRTSの配置エリア\n開発中のデバッグ表示\n\nなどです。\n最初はグリッド画像をテクスチャとして貼る方法を考えましたが、\n\nグリッドの間隔を変更したい\n線の太さを変えたい\nテクスチャを作り直したくない\n\nといった理由から、Shader Graphで実装することにしました。\n完成すると、このようなマテリアルになります。\n\nGrid Size：グリッドの間隔\nLine Width...",
+          "link": "https://zenn.dev/sumcol03/articles/f4133b01d9f3e1",
+          "publishedOn": "2026-08-02T11:00:05.000Z",
+          "wordCount": 2901,
+          "title": "【Unity】Shader Graph初心者でもわかる 地面にグリッド線を描画する方法",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--vl_--5S5--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2580%2590Unity%25E3%2580%2591Shader%2520Graph%25E5%2588%259D%25E5%25BF%2583%25E8%2580%2585%25E3%2581%25A7%25E3%2582%2582%25E3%2582%258F%25E3%2581%258B%25E3%2582%258B%2520%25E5%259C%25B0%25E9%259D%25A2%25E3%2581%25AB%25E3%2582%25B0%25E3%2583%25AA%25E3%2583%2583%25E3%2583%2589%25E7%25B7%259A%25E3%2582%2592%25E6%258F%258F%25E7%2594%25BB%25E3%2581%2599%25E3%2582%258B%25E6%2596%25B9%25E6%25B3%2595%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E5%25A4%258F%25E9%25A2%25A8%25E9%2582%25AA%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2YxYzg4YWQ1ZjQuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+            "length": "0",
+            "type": "false"
+          },
+          "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--vl_--5S5--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2580%2590Unity%25E3%2580%2591Shader%2520Graph%25E5%2588%259D%25E5%25BF%2583%25E8%2580%2585%25E3%2581%25A7%25E3%2582%2582%25E3%2582%258F%25E3%2581%258B%25E3%2582%258B%2520%25E5%259C%25B0%25E9%259D%25A2%25E3%2581%25AB%25E3%2582%25B0%25E3%2583%25AA%25E3%2583%2583%25E3%2583%2589%25E7%25B7%259A%25E3%2582%2592%25E6%258F%258F%25E7%2594%25BB%25E3%2581%2599%25E3%2582%258B%25E6%2596%25B9%25E6%25B3%2595%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E5%25A4%258F%25E9%25A2%25A8%25E9%2582%25AA%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2YxYzg4YWQ1ZjQuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+        },
         {
           "id": "https://zenn.dev/zero_0r0/articles/3d1283ba248611",
           "author": "ゼロ",
@@ -3960,16 +4000,6 @@
           "wordCount": 30047,
           "title": "Unreal Engine向けの無料マテリアル自動構築プラグイン「Node Ninja」",
           "imageUrl": "https://cginterest.com/wp-content/uploads/2026/07/nodeninja.webp"
-        },
-        {
-          "id": "https://cginterest.com/?p=60462",
-          "author": ".me",
-          "description": "2026年7月3日（現地時間） – Reallusionは、Character Creator 用のAI搭載の3Dヘッドジェネレータープラグインの最新アップデートとなるHeadshot 3.1を発表しました。 […]",
-          "link": "https://cginterest.com/2026/07/04/ai%e6%90%ad%e8%bc%893d%e3%83%98%e3%83%83%e3%83%89%e3%82%b8%e3%82%a7%e3%83%8d%e3%83%ac%e3%83%bc%e3%82%bf%e3%83%bc%e3%80%8cheadshot-3-1%e3%80%8d%e3%81%8c%e3%83%aa%e3%83%aa%e3%83%bc%e3%82%b9%ef%bc%81/",
-          "publishedOn": "2026-07-03T23:11:00.000Z",
-          "wordCount": 30217,
-          "title": "AI搭載3Dヘッドジェネレーター「Headshot 3.1」がリリース！本格的にペイント機能統合、側面の4K AI生成でディテール表現向上など",
-          "imageUrl": "https://cginterest.com/wp-content/uploads/2026/07/headshot3.webp"
         }
       ]
     }

@@ -648,66 +648,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "https://3dnchu.com/wp-content/uploads/retractable-lightsaber-v4.webp"
-        },
-        {
-          "id": "https://3dnchu.com/?p=1066296",
-          "author": "Ymt3D -3dnchu-",
-          "description": "Louis Cresson氏がMaya向けに 数クリックでアセットと地形を綺麗にブレンド出来るツール「Mesh Blend」をリリースしました！",
-          "link": "https://3dnchu.com/archives/mesh-blend-maya-louis-cresson/",
-          "publishedOn": "2026-07-06T01:35:44.000Z",
-          "wordCount": 8821,
-          "title": "Mesh Blend | 数クリックでアセットと地形を綺麗にブレンド出来るMaya用ツール！",
-          "enclosure": {
-            "url": "https://3dnchu.com/wp-content/uploads/mesh-blend-maya-louis-cresson.mp4",
-            "length": "202072",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://3dnchu.com/wp-content/uploads/mesh-blend-maya-louis-cresson.webp"
-        },
-        {
-          "id": "https://3dnchu.com/?p=1066174",
-          "author": "Ymt3D -3dnchu-",
-          "description": "NVIDIAと、チューリッヒ工科大学、コーネル大学、トロント大学、ベクター研究所の研究者らによる複数枚の写真から空間を補完しつつ高品質な3Dシーンを構築するSIGGRAPH 2026技術！ 「ArtiFixer: Enhancing and Extending 3D Reconstructionwith Auto-Regressive Diffusion Models」が公開されています！",
-          "link": "https://3dnchu.com/archives/artifixer/",
-          "publishedOn": "2026-07-06T01:10:49.000Z",
-          "wordCount": 8869,
-          "title": "ArtiFixer: Enhancing and Extending 3D Reconstructionwith Auto-Regressive Diffusion Models | 複数枚の写真から空間を補完しつつ高品質な3Dシーンを構築する技術！SIGGRAPH 2026論文！",
-          "enclosure": {
-            "url": "https://3dnchu.com/wp-content/uploads/ArtiFixer.mp4",
-            "length": "5988509",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://3dnchu.com/wp-content/uploads/ArtiFixer.webp"
-        },
-        {
-          "id": "https://3dnchu.com/?p=1066180",
-          "author": "Ymt3D -3dnchu-",
-          "description": "xToolから新型マルチマテリアルプリンター「xTool O1 Omni Printer」が発表されております！",
-          "link": "https://3dnchu.com/archives/xtool-o1-omni-printer/",
-          "publishedOn": "2026-07-06T00:07:46.000Z",
-          "wordCount": 8916,
-          "title": "xTool O1 Omni Printer | UVプリント・UV DTF・DTG・DTFの4つの機能を1台に統合した新型マルチマテリアルプリンターが登場！布から金属まで様々な素材に印刷可能！",
-          "enclosure": {
-            "url": "https://3dnchu.com/wp-content/uploads/xTool-O1-Omni-Printer.webp",
-            "length": "1336752",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://3dnchu.com/wp-content/uploads/xTool-O1-Omni-Printer.webp"
-        },
-        {
-          "id": "https://3dnchu.com/?p=1065540",
-          "author": "Ymt3D -3dnchu-",
-          "description": "Type Dream Moon氏による、独自DSL（Dream Shader Language）でマテリアルを記述することで、Unreal Engineのマテリアルやマテリアル関数、Material Layerなどを自動生成・更新可能なオープンソースプラグイン「DreamShader」のご紹介！",
-          "link": "https://3dnchu.com/archives/dreamshader/",
-          "publishedOn": "2026-07-05T23:42:52.000Z",
-          "wordCount": 8876,
-          "title": "DreamShader | Unreal Engineのマテリアルをコードで管理＆構築！専用DSLからマテリアルアセットを自動生成できるオープンソースプラグイン！",
-          "enclosure": {
-            "url": "https://3dnchu.com/wp-content/uploads/DreamShader-banner.jpg",
-            "length": "36459",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://3dnchu.com/wp-content/uploads/DreamShader-banner.jpg"
         }
       ]
     },
@@ -1625,16 +1565,6 @@
           "wordCount": 828,
           "title": "SOP Cemetery、Houdiniによる3DGSデータのリギング＆アニメーション作成チュートリアル動画公開　シーンデータ無償配布 - ニュース",
           "imageUrl": "https://cgworld.jp/flashnews/assets_c/2026/07/840b8edf2117afdd6f2ad078214ac43a8e43b1ec-thumb-1920x1004-86191.jpg"
-        },
-        {
-          "id": "https://cgworld.jp/regular/202607-ueui-03.html",
-          "author": null,
-          "description": "",
-          "link": "https://cgworld.jp/regular/202607-ueui-03.html",
-          "publishedOn": "2026-07-06T01:24:00.000Z",
-          "wordCount": 985,
-          "title": "第3回：UIを動かそう！（2）ボタンの作成と実装 - 連載",
-          "imageUrl": "https://cgworld.jp/regular/assets_c/2026/06/b8bcdc3220001ffc1286e911bfd1b755ce710c55-thumb-1000x564-84992.jpg"
         }
       ]
     },
@@ -3422,6 +3352,21 @@
       "feedUrl": "https://cginterest.com/feed/",
       "siteUrl": "https://cginterest.com",
       "articles": [
+        {
+          "id": "https://cginterest.com/?p=61429",
+          "author": ".me",
+          "description": "Casey_Sheep氏によるBlender向けのアドオンおよびVFXアセットライブラリ「VFX Toolkit – The Ultimate Blender Vfx Library」の紹介です。 VFX T […]",
+          "link": "https://cginterest.com/2026/08/04/%e7%82%8e%e3%80%81%e7%85%99%e3%80%81%e6%89%8b%e6%8f%8f%e3%81%8d%e3%82%a2%e3%83%8b%e3%83%a1%e3%83%bc%e3%82%b7%e3%83%a7%e3%83%b3%e3%81%aa%e3%81%a9100%e7%a8%ae%e4%bb%a5%e4%b8%8a%e3%81%ae%e3%82%a8/",
+          "publishedOn": "2026-08-04T11:40:26.000Z",
+          "wordCount": 31099,
+          "title": "炎、煙、手描きアニメーションなど100種以上のエフェクトが含まれたBlender向けVFXアセット集＆アドオン「VFX Toolkit – The Ultimate Blender Vfx Library」",
+          "enclosure": {
+            "url": "https://cginterest.com/wp-content/uploads/2026/08/Video141-1.mp4",
+            "length": "215641",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://cginterest.com/wp-content/uploads/2026/08/vfxtoolkit.webp"
+        },
         {
           "id": "https://cginterest.com/?p=61405",
           "author": ".me",

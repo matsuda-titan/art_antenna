@@ -717,6 +717,26 @@
       "siteUrl": "https://cgworld.jp/",
       "articles": [
         {
+          "id": "https://cgworld.jp/special-feature/2607-imaginate.html",
+          "author": null,
+          "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
+          "link": "https://cgworld.jp/special-feature/2607-imaginate.html",
+          "publishedOn": "2026-08-04T08:10:27.000Z",
+          "wordCount": 612,
+          "title": "「君も、スポットライトに」――アイドルを輝かせる映像とビジュアルを現場でつくる、imaginateの仕事 - スペシャルコンテンツ",
+          "imageUrl": "https://cgworld.jp/special-feature/assets_c/2026/07/39393f22226c4a7210027db120d4f8145465bc4f-thumb-767x431-86422.png"
+        },
+        {
+          "id": "https://cgworld.jp/article/blendercgb3d-1.html",
+          "author": null,
+          "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
+          "link": "https://cgworld.jp/article/blendercgb3d-1.html",
+          "publishedOn": "2026-08-04T05:39:04.000Z",
+          "wordCount": 787,
+          "title": "テーマは「スザンヌ」Blenderユーザー限定CG作品コンテスト「b3d創作祭」五回目の開催が決定! - 特集",
+          "imageUrl": "https://cgworld.jp/article/assets_c/2026/08/KV-thumb-1920x1080-87230.jpg"
+        },
+        {
           "id": "https://cgworld.jp/flashnews/01-202608-UE58Rigging.html",
           "author": null,
           "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
@@ -1615,16 +1635,6 @@
           "wordCount": 985,
           "title": "第3回：UIを動かそう！（2）ボタンの作成と実装 - 連載",
           "imageUrl": "https://cgworld.jp/regular/assets_c/2026/06/b8bcdc3220001ffc1286e911bfd1b755ce710c55-thumb-1000x564-84992.jpg"
-        },
-        {
-          "id": "https://cgworld.jp/flashnews/01-202607-C4D-Rope.html",
-          "author": null,
-          "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
-          "link": "https://cgworld.jp/flashnews/01-202607-C4D-Rope.html",
-          "publishedOn": "2026-07-05T22:15:10.000Z",
-          "wordCount": 767,
-          "title": "CG Shortcuts、Cinema 4Dでダンボール箱をロープで縛る表現のチュートリアル動画を公開 - ニュース",
-          "imageUrl": "https://cgworld.jp/flashnews/assets_c/2026/07/C4D_Rope-01-thumb-1920x1080-86156.jpg"
         }
       ]
     },
@@ -2514,21 +2524,6 @@
             "type": "false"
           },
           "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--hq5SZcoy--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%2595%25E3%2582%25A9%25E3%2583%2588%25E3%2582%25B0%25E3%2583%25A9%25E3%2583%25A1%25E3%2583%2588%25E3%2583%25AA%25E6%2595%25B0%25E5%25AD%25A6%25EF%25BD%259C39%25EF%25BC%259A%25E3%2582%25AA%25E3%2583%25AB%25E3%2582%25BD%25E8%25A3%259C%25E6%25AD%25A3%25EF%25BC%2588Orthorectification%25EF%25BC%2589%25E3%2581%25A8%25E3%2581%25AF%25E4%25BD%2595%25E3%2581%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:s_hashida%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2JmNmU5NjMzMTEuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
-        },
-        {
-          "id": "https://zenn.dev/s_hashida/articles/90fdebe3a83d2c",
-          "author": "s_hashida",
-          "description": "はじめに\n前回は、\n\nRigorous Model\nRPC生成\nRFM近似\n最小二乗法\n\nについて説明しました。\n\nその中で重要だったのが、\n\nRPCはRigorous Modelを近似している\nRPCは高精度なモデルである\n利用者にはRPCだけ配布される\n\nという点です。\n\nしかしここで疑問が出てきます。\n\nRPCだけで十分なのか？\nなぜGCPを使うのか？\nなぜRPC補正が必要なのか？\n\n\n実は、RPCにはわずかな位置ずれが残ることがあります。\nそのため実務では、\nRPC補正（Bias Correction）\nが行われます。\n\n今回は、\n\nRPC補正とは何か\nなぜ位置ずれが生じる...",
-          "link": "https://zenn.dev/s_hashida/articles/90fdebe3a83d2c",
-          "publishedOn": "2026-07-05T22:01:05.000Z",
-          "wordCount": 782,
-          "title": "フォトグラメトリ数学｜38：なぜRPC補正が必要なのか ～ Bias CorrectionとAffine補正 ～",
-          "enclosure": {
-            "url": "https://res.cloudinary.com/zenn/image/upload/s--kFvriPQG--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%2595%25E3%2582%25A9%25E3%2583%2588%25E3%2582%25B0%25E3%2583%25A9%25E3%2583%25A1%25E3%2583%2588%25E3%2583%25AA%25E6%2595%25B0%25E5%25AD%25A6%25EF%25BD%259C38%25EF%25BC%259A%25E3%2581%25AA%25E3%2581%259CRPC%25E8%25A3%259C%25E6%25AD%25A3%25E3%2581%258C%25E5%25BF%2585%25E8%25A6%2581%25E3%2581%25AA%25E3%2581%25AE%25E3%2581%258B%2520%25EF%25BD%259E%2520Bias%2520Correction%25E3%2581%25A8Affine%25E8%25A3%259C%25E6%25AD%25A3%2520%25EF%25BD%259E%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:s_hashida%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2JmNmU5NjMzMTEuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
-            "length": "0",
-            "type": "false"
-          },
-          "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--kFvriPQG--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%2595%25E3%2582%25A9%25E3%2583%2588%25E3%2582%25B0%25E3%2583%25A9%25E3%2583%25A1%25E3%2583%2588%25E3%2583%25AA%25E6%2595%25B0%25E5%25AD%25A6%25EF%25BD%259C38%25EF%25BC%259A%25E3%2581%25AA%25E3%2581%259CRPC%25E8%25A3%259C%25E6%25AD%25A3%25E3%2581%258C%25E5%25BF%2585%25E8%25A6%2581%25E3%2581%25AA%25E3%2581%25AE%25E3%2581%258B%2520%25EF%25BD%259E%2520Bias%2520Correction%25E3%2581%25A8Affine%25E8%25A3%259C%25E6%25AD%25A3%2520%25EF%25BD%259E%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:s_hashida%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2JmNmU5NjMzMTEuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
         }
       ]
     },

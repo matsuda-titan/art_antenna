@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-04T05:38:42.879Z</updated>
+    <updated>2026-08-04T10:26:07.737Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[「君も、スポットライトに」――アイドルを輝かせる映像とビジュアルを現場でつくる、imaginateの仕事 - スペシャルコンテンツ]]></title>
+        <id>https://cgworld.jp/special-feature/2607-imaginate.html</id>
+        <link href="https://cgworld.jp/special-feature/2607-imaginate.html"/>
+        <updated>2026-08-04T08:10:27.000Z</updated>
+        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[テーマは「スザンヌ」Blenderユーザー限定CG作品コンテスト「b3d創作祭」五回目の開催が決定! - 特集]]></title>
+        <id>https://cgworld.jp/article/blendercgb3d-1.html</id>
+        <link href="https://cgworld.jp/article/blendercgb3d-1.html"/>
+        <updated>2026-08-04T05:39:04.000Z</updated>
+        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[LearnOpenglをモダンにしてみた話]]></title>
         <id>https://qiita.com/kkkjp/items/cd79704b479d4fdb3e7e</id>
@@ -3899,59 +3919,6 @@ The post AutoRemesher – 複雑な3Dモデルも綺麗な四角形トポロジ�
         <summary type="html"><![CDATA[Type Dream Moon氏による、独自DSL（Dream Shader Language）でマテリアルを記述することで、Unreal Engineのマテリアルやマテリアル関数、Material Layerなどを自動生成・更新可能なオープンソースプラグイン「DreamShader」のご紹介！]]></summary>
         <author>
             <name>Ymt3D -3dnchu-</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CG Shortcuts、Cinema 4Dでダンボール箱をロープで縛る表現のチュートリアル動画を公開 - ニュース]]></title>
-        <id>https://cgworld.jp/flashnews/01-202607-C4D-Rope.html</id>
-        <link href="https://cgworld.jp/flashnews/01-202607-C4D-Rope.html"/>
-        <updated>2026-07-05T22:15:10.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[フォトグラメトリ数学｜38：なぜRPC補正が必要なのか ～ Bias CorrectionとAffine補正 ～]]></title>
-        <id>https://zenn.dev/s_hashida/articles/90fdebe3a83d2c</id>
-        <link href="https://zenn.dev/s_hashida/articles/90fdebe3a83d2c"/>
-        <updated>2026-07-05T22:01:05.000Z</updated>
-        <summary type="html"><![CDATA[はじめに
-前回は、
-
-Rigorous Model
-RPC生成
-RFM近似
-最小二乗法
-
-について説明しました。
-
-その中で重要だったのが、
-
-RPCはRigorous Modelを近似している
-RPCは高精度なモデルである
-利用者にはRPCだけ配布される
-
-という点です。
-
-しかしここで疑問が出てきます。
-
-RPCだけで十分なのか？
-なぜGCPを使うのか？
-なぜRPC補正が必要なのか？
-
-
-実は、RPCにはわずかな位置ずれが残ることがあります。
-そのため実務では、
-RPC補正（Bias Correction）
-が行われます。
-
-今回は、
-
-RPC補正とは何か
-なぜ位置ずれが生じる...]]></summary>
-        <author>
-            <name>s_hashida</name>
         </author>
     </entry>
 </feed>

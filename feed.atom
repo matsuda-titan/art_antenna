@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-03T14:14:07.580Z</updated>
+    <updated>2026-08-04T01:25:03.213Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Epic Games、Unreal Fest Chicago 2026でのUE5.8 リギング＆アニメーションツール紹介講演動画を公開 - ニュース]]></title>
+        <id>https://cgworld.jp/flashnews/01-202608-UE58Rigging.html</id>
+        <link href="https://cgworld.jp/flashnews/01-202608-UE58Rigging.html"/>
+        <updated>2026-08-03T23:09:41.000Z</updated>
+        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【Unity】VRChat用配布物でお行儀がいいUnityPacageの構成と作成方法]]></title>
         <id>https://qiita.com/tsukino_/items/4b3c045437a6700c6a00</id>
@@ -3918,33 +3928,6 @@ RPC補正とは何か
 Blender4....]]></summary>
         <author>
             <name>3DCGタグが付けられた新着記事 - Qiita</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【Unity】Shader Graph×VFX Graph入門：テクスチャなしで「青白い泡」を作る]]></title>
-        <id>https://zenn.dev/zero_0r0/articles/3d1283ba248611</id>
-        <link href="https://zenn.dev/zero_0r0/articles/3d1283ba248611"/>
-        <updated>2026-07-05T11:35:33.000Z</updated>
-        <summary type="html"><![CDATA[はじめに
-前回の記事（VFX Graph に入門してみたので、作りながら基礎を紐解いたりしてみる）では、Unity標準のテクスチャを使って水中の泡エフェクトを作成しました。
-今回はその続編として、「テクスチャ（画像）を一切使わず、Shader Graphの数学的な計算だけで泡を作る」というプロシージャルな表現に挑戦してみたいと思います。
-🎯 この記事のターゲット（こんな人におすすめ）
-
-Shader Graphに興味はあるけど、何から始めればいいか分からない人
-ノードベースで「円」や「立体感」をどう数式で作っているのか知りたいエンジニア
-専門用語（フレネル、Lerpなど）の意味を図解...]]></summary>
-        <author>
-            <name>ゼロ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[特別回　西郷の従者を、絵コンテの中に立たせる― 3Dモデル制作からUE5配置、線画化・着彩化まで]]></title>
-        <id>https://note.com/koukisin_jikken/n/nc8bd6b9a78ac</id>
-        <link href="https://note.com/koukisin_jikken/n/nc8bd6b9a78ac"/>
-        <updated>2026-07-05T08:33:17.000Z</updated>
-        <summary type="html"><![CDATA[続きをみる]]></summary>
-        <author>
-            <name>#substancepainterタグ</name>
         </author>
     </entry>
 </feed>

@@ -2,10 +2,69 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-04T01:25:03.213Z</updated>
+    <updated>2026-08-04T05:38:42.879Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[LearnOpenglをモダンにしてみた話]]></title>
+        <id>https://qiita.com/kkkjp/items/cd79704b479d4fdb3e7e</id>
+        <link href="https://qiita.com/kkkjp/items/cd79704b479d4fdb3e7e"/>
+        <updated>2026-08-04T05:17:44.000Z</updated>
+        <summary type="html"><![CDATA[LearnOpenGLとは
+LearnOpenGL は，OpenGL を勉強するために作られた海外の Web サイトです．ゲームグラフィックスの知識が章ごとに細分化されて構成されているので，何をどの順番で学べばいいかが分かりやすいです．
+僕もこのサイトで OpenGL を...]]></summary>
+        <author>
+            <name>3DCGタグが付けられた新着記事 - Qiita</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【アドオン紹介】 Metalworks – 金属の質感をハイクオリティに仕上げる！]]></title>
+        <id>https://cgbox.jp/?p=65535</id>
+        <link href="https://cgbox.jp/2026/08/04/news-addon-metalworks/"/>
+        <updated>2026-08-04T03:15:30.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは！ 今回はアドオンの「Metalworks」を紹介します。 こちらのリンクがアドオンの商品ページになります。 Metalworks 「Metalworks」は、、リアルな金属マテリアルを素早く作成・調整できるB […]]]></summary>
+        <author>
+            <name>kasahara</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rustでポリゴンの基礎を学ぶ その4]]></title>
+        <id>https://qiita.com/sumikawa@github/items/6202fc50991243d1f4e6</id>
+        <link href="https://qiita.com/sumikawa@github/items/6202fc50991243d1f4e6"/>
+        <updated>2026-08-04T03:15:27.000Z</updated>
+        <summary type="html"><![CDATA[フルコードはgithubにあります。
+めっちゃ間が空きました。コードだけ先に書いて文章を書くのを後回しにするとサボってしまう。いかん。
+
+Zバッファの実装
+複数のポリゴンを扱うときにどちらが前面かを扱うためにZバッファ法を導入する。
+まずzbuffer.rsモジュールを作成...]]></summary>
+        <author>
+            <name>CGタグが付けられた新着記事 - Qiita</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Metalworks – 170種類以上のプリセットでリアルな金属表現を作成できるBlenderアドオン]]></title>
+        <id>https://modelinghappy.com/?p=69702</id>
+        <link href="https://modelinghappy.com/archives/69702"/>
+        <updated>2026-08-04T02:48:27.000Z</updated>
+        <summary type="html"><![CDATA[Metalworks | 170+ Photorealistic Metal Shaders MetalWorksは、Blenderでリアルな金属を簡単に編集できるシェーダーアドオンです。 170種類以上の金属プリセッ
+The post Metalworks – 170種類以上のプリセットでリアルな金属表現を作成できるBlenderアドオン first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
+        <author>
+            <name>modelinghappy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Box3DUnreal – 軽量・高速なBox3D物理エンジンをUnreal Engineへ統合できる無料プラグイン！]]></title>
+        <id>https://modelinghappy.com/?p=69696</id>
+        <link href="https://modelinghappy.com/archives/69696"/>
+        <updated>2026-08-04T02:19:05.000Z</updated>
+        <summary type="html"><![CDATA[Box3DUnreal Box3DUnrealは、軽量な物理演算ライブラリ「Box3D」をUnreal Engineへ統合できる無料で使えるオープンソースのプラグインです。 通常のUnreal EngineではChaos
+The post Box3DUnreal – 軽量・高速なBox3D物理エンジンをUnreal Engineへ統合できる無料プラグイン！ first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
+        <author>
+            <name>modelinghappy</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Epic Games、Unreal Fest Chicago 2026でのUE5.8 リギング＆アニメーションツール紹介講演動画を公開 - ニュース]]></title>
         <id>https://cgworld.jp/flashnews/01-202608-UE58Rigging.html</id>
@@ -3893,41 +3952,6 @@ RPC補正とは何か
 なぜ位置ずれが生じる...]]></summary>
         <author>
             <name>s_hashida</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GeoStream | Alembicのジオメトリキャッシュデータを最適な状態に圧縮し軽量にメッシュストリーミング可能なUnreal Engine 5向けプラグイン！]]></title>
-        <id>https://3dnchu.com/?p=1065866</id>
-        <link href="https://3dnchu.com/archives/geostream/"/>
-        <updated>2026-07-05T16:59:36.000Z</updated>
-        <summary type="html"><![CDATA[Bastionsonによる、Alembicのジオメトリキャッシュデータを軽量な状態に圧縮して運用出来るUnreal Engine 5向けプラグイン「GeoStream」のご紹介！]]></summary>
-        <author>
-            <name>Ymt3D -3dnchu-</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Massive 101 | 映画『ロード・オブ・ザ・リング』三部作で使用するために開発された群衆シミュレーションツール！商用利用不可の無料版が登場！]]></title>
-        <id>https://3dnchu.com/?p=1066158</id>
-        <link href="https://3dnchu.com/archives/massive-101/"/>
-        <updated>2026-07-05T16:35:52.000Z</updated>
-        <summary type="html"><![CDATA[映画『ロード・オブ・ザ・リング』三部作で使用するために開発された群衆シミュレーションツール「Massive 101」が登場！非商用利用に限り無料でご利用いただけるようになっています！]]></summary>
-        <author>
-            <name>Ymt3D -3dnchu-</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【Blender】マテリアルにテクスチャを貼る方法]]></title>
-        <id>https://qiita.com/tsukino_/items/ac85cca9032ff089d2f9</id>
-        <link href="https://qiita.com/tsukino_/items/ac85cca9032ff089d2f9"/>
-        <updated>2026-07-05T16:34:12.000Z</updated>
-        <summary type="html"><![CDATA[レンダリングエンジンなどでモデルを描画する際、テクスチャがマテリアルについていないと、デフォルトカラーで描画されてしまうことがあります。
-本記事では、テクスチャをBlenderで作成して、マテリアルのベースカラーに設定する方法を紹介します。
-
-使用環境
-
-Blender4....]]></summary>
-        <author>
-            <name>3DCGタグが付けられた新着記事 - Qiita</name>
         </author>
     </entry>
 </feed>

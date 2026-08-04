@@ -12,6 +12,21 @@
       "siteUrl": "https://cgbox.jp",
       "articles": [
         {
+          "id": "https://cgbox.jp/?p=65535",
+          "author": "kasahara",
+          "description": "こんばんは！ 今回はアドオンの「Metalworks」を紹介します。 こちらのリンクがアドオンの商品ページになります。 Metalworks 「Metalworks」は、、リアルな金属マテリアルを素早く作成・調整できるB […]",
+          "link": "https://cgbox.jp/2026/08/04/news-addon-metalworks/",
+          "publishedOn": "2026-08-04T03:15:30.000Z",
+          "wordCount": 1958,
+          "title": "【アドオン紹介】 Metalworks – 金属の質感をハイクオリティに仕上げる！",
+          "enclosure": {
+            "url": "https://cgbox.jp/wp-content/uploads/2026/08/twitter-10.mp4",
+            "length": "0",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://cgbox.jp/wp-content/uploads/2026/08/image_processing20260803-2-kc0d73.jpg"
+        },
+        {
           "id": "https://cgbox.jp/?p=65531",
           "author": "kasahara",
           "description": "こんばんは！ 今回はアドオンの「Sculptools: Palette」を紹介します。 こちらのリンクがアドオンの商品ページになります。 Sculptools: Palette 「Sculptools: Palette」 […]",
@@ -693,36 +708,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "https://3dnchu.com/wp-content/uploads/DreamShader-banner.jpg"
-        },
-        {
-          "id": "https://3dnchu.com/?p=1065866",
-          "author": "Ymt3D -3dnchu-",
-          "description": "Bastionsonによる、Alembicのジオメトリキャッシュデータを軽量な状態に圧縮して運用出来るUnreal Engine 5向けプラグイン「GeoStream」のご紹介！",
-          "link": "https://3dnchu.com/archives/geostream/",
-          "publishedOn": "2026-07-05T16:59:36.000Z",
-          "wordCount": 8822,
-          "title": "GeoStream | Alembicのジオメトリキャッシュデータを最適な状態に圧縮し軽量にメッシュストリーミング可能なUnreal Engine 5向けプラグイン！",
-          "enclosure": {
-            "url": "https://3dnchu.com/wp-content/uploads/GeoStream.webp",
-            "length": "426260",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://3dnchu.com/wp-content/uploads/GeoStream.webp"
-        },
-        {
-          "id": "https://3dnchu.com/?p=1066158",
-          "author": "Ymt3D -3dnchu-",
-          "description": "映画『ロード・オブ・ザ・リング』三部作で使用するために開発された群衆シミュレーションツール「Massive 101」が登場！非商用利用に限り無料でご利用いただけるようになっています！",
-          "link": "https://3dnchu.com/archives/massive-101/",
-          "publishedOn": "2026-07-05T16:35:52.000Z",
-          "wordCount": 8949,
-          "title": "Massive 101 | 映画『ロード・オブ・ザ・リング』三部作で使用するために開発された群衆シミュレーションツール！商用利用不可の無料版が登場！",
-          "enclosure": {
-            "url": "https://3dnchu.com/wp-content/uploads/massive-101.webp",
-            "length": "1248102",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://3dnchu.com/wp-content/uploads/massive-101.webp"
         }
       ]
     },
@@ -1695,6 +1680,26 @@
       "siteUrl": "https://modelinghappy.com",
       "articles": [
         {
+          "id": "https://modelinghappy.com/?p=69702",
+          "author": "modelinghappy",
+          "description": "Metalworks | 170+ Photorealistic Metal Shaders MetalWorksは、Blenderでリアルな金属を簡単に編集できるシェーダーアドオンです。 170種類以上の金属プリセッ\nThe post Metalworks – 170種類以上のプリセットでリアルな金属表現を作成できるBlenderアドオン first appeared on 3DCG最新情報サイト MODELING HAPPY.",
+          "link": "https://modelinghappy.com/archives/69702",
+          "publishedOn": "2026-08-04T02:48:27.000Z",
+          "wordCount": 3047,
+          "title": "Metalworks – 170種類以上のプリセットでリアルな金属表現を作成できるBlenderアドオン",
+          "imageUrl": "https://modelinghappy.com/wp-content/uploads/2026/08/20260804_metalworks_01.jpg"
+        },
+        {
+          "id": "https://modelinghappy.com/?p=69696",
+          "author": "modelinghappy",
+          "description": "Box3DUnreal Box3DUnrealは、軽量な物理演算ライブラリ「Box3D」をUnreal Engineへ統合できる無料で使えるオープンソースのプラグインです。 通常のUnreal EngineではChaos\nThe post Box3DUnreal – 軽量・高速なBox3D物理エンジンをUnreal Engineへ統合できる無料プラグイン！ first appeared on 3DCG最新情報サイト MODELING HAPPY.",
+          "link": "https://modelinghappy.com/archives/69696",
+          "publishedOn": "2026-08-04T02:19:05.000Z",
+          "wordCount": 3049,
+          "title": "Box3DUnreal – 軽量・高速なBox3D物理エンジンをUnreal Engineへ統合できる無料プラグイン！",
+          "imageUrl": "https://modelinghappy.com/wp-content/uploads/2026/08/20260804_box3Dunreal_01.jpg"
+        },
+        {
           "id": "https://modelinghappy.com/?p=69676",
           "author": "modelinghappy",
           "description": "What’s next for animation in Autodesk Maya? Autodeskは、2026年6月にフランスで開催された「Annecy International Animation Film F\nThe post Autodesk Mayaにおけるアニメーションの未来はどうなるのか？AIを利用した開発方針など発表 first appeared on 3DCG最新情報サイト MODELING HAPPY.",
@@ -2607,6 +2612,16 @@
       "siteUrl": "https://qiita.com",
       "articles": [
         {
+          "id": "https://qiita.com/kkkjp/items/cd79704b479d4fdb3e7e",
+          "author": null,
+          "description": "LearnOpenGLとは\nLearnOpenGL は，OpenGL を勉強するために作られた海外の Web サイトです．ゲームグラフィックスの知識が章ごとに細分化されて構成されているので，何をどの順番で学べばいいかが分かりやすいです．\n僕もこのサイトで OpenGL を...",
+          "link": "https://qiita.com/kkkjp/items/cd79704b479d4fdb3e7e",
+          "publishedOn": "2026-08-04T05:17:44.000Z",
+          "wordCount": 875,
+          "title": "LearnOpenglをモダンにしてみた話",
+          "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkY0MTcyMjQ1JTJGZWMyMmEzNDE0NjljYmIxMDE4MDgzNjZiODY4YmNjZGRkMzFlZTM5NCUyRnhfbGFyZ2UucG5nJTNGMTc3OTg5MzkyNT9peGxpYj1yYi00LjEuMSZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9ZjFkODJjMGY5MmJiZWNjMzIwMGVmMGU1ZWRjYWNkMmE%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D00f102beef903df3e6a10b358dd5b9f6?ixlib=rb-4.1.1&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9TGVhcm5PcGVuZ2wlRTMlODIlOTIlRTMlODMlQTIlRTMlODMlODAlRTMlODMlQjMlRTMlODElQUIlRTMlODElOTclRTMlODElQTYlRTMlODElQkYlRTMlODElOUYlRTglQTklQjEmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz1kYzZiNDE3MDExOWU1NGU4YmI5OGVlNDQ3OGYxNjgyNw&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBra2tqcCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPWQ3N2UyOWM3YWJjNWQ1MTc5YTNiOTc4NTY2ZGVlMjQ3&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=299fcac11512354379c572306c111dab"
+        },
+        {
           "id": "https://qiita.com/tsukino_/items/4b3c045437a6700c6a00",
           "author": null,
           "description": "VRChatのワールド素材として3DModelを配布する場合、UnityPacageとして配布すると、使用者がすぐに使用することができるため、お行儀がいいと言えるでしょう。\nまた、UnityPacageの内容物の構成でもお行儀がいいものがあるので、本記事ではそちらについて紹...",
@@ -2725,16 +2740,6 @@
           "wordCount": 701,
           "title": "【Blender】モデルの頂点数を減らす方法",
           "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Ftech-festa-ogp-background-4b5015b2c518c7e6b9062a7c9f5f5e90.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYzOTQzMTQ4JTJGZGJhOTI4MmI5OWFlNGQ4NmFjYjI4MDk1NGVhNGFjYzI2ZGYyODM0ZSUyRmxhcmdlLnBuZyUzRjE3NTAxNDEwMzM_aXhsaWI9cmItNC4xLjEmYXI9MSUzQTEmZml0PWNyb3AmbWFzaz1lbGxpcHNlJmJnPUZGRkZGRiZmbT1wbmczMiZzPWU4ZGJmMzk4YjI1NDE2YmMxODUyOGE0ZWZiOWU3NjE5%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D38295f4f5e234316699e4c977f934345?ixlib=rb-4.1.1&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9JUUzJTgwJTkwQmxlbmRlciVFMyU4MCU5MSVFMyU4MyVBMiVFMyU4MyU4NyVFMyU4MyVBQiVFMyU4MSVBRSVFOSVBMCU4MiVFNyU4MiVCOSVFNiU5NSVCMCVFMyU4MiU5MiVFNiVCOCU5QiVFMyU4MiU4OSVFMyU4MSU5OSVFNiU5NiVCOSVFNiVCMyU5NSZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZ0eHQtY29sb3I9JTIzRkZGRkZGJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnR4dC1wYWQ9MCZzPTJjY2U5N2M5MTJiYzgxYTZmNWU3ZDVjMGYwYmY1Mjdi&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDB0c3VraW5vXyZ0eHQtY29sb3I9JTIzRkZGRkZGJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPWZlZjIzZWE5NDQ3NzFhZDc0Y2Q5YjkyZGI3MDY4OWUz&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=4b2d12873d5c30b2bb3d839db0cb7989"
-        },
-        {
-          "id": "https://qiita.com/tsukino_/items/ac85cca9032ff089d2f9",
-          "author": null,
-          "description": "レンダリングエンジンなどでモデルを描画する際、テクスチャがマテリアルについていないと、デフォルトカラーで描画されてしまうことがあります。\n本記事では、テクスチャをBlenderで作成して、マテリアルのベースカラーに設定する方法を紹介します。\n\n使用環境\n\nBlender4....",
-          "link": "https://qiita.com/tsukino_/items/ac85cca9032ff089d2f9",
-          "publishedOn": "2026-07-05T16:34:12.000Z",
-          "wordCount": 771,
-          "title": "【Blender】マテリアルにテクスチャを貼る方法",
-          "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Ftech-festa-ogp-background-4b5015b2c518c7e6b9062a7c9f5f5e90.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYzOTQzMTQ4JTJGZGJhOTI4MmI5OWFlNGQ4NmFjYjI4MDk1NGVhNGFjYzI2ZGYyODM0ZSUyRmxhcmdlLnBuZyUzRjE3NTAxNDEwMzM_aXhsaWI9cmItNC4xLjEmYXI9MSUzQTEmZml0PWNyb3AmbWFzaz1lbGxpcHNlJmJnPUZGRkZGRiZmbT1wbmczMiZzPWU4ZGJmMzk4YjI1NDE2YmMxODUyOGE0ZWZiOWU3NjE5%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D38295f4f5e234316699e4c977f934345?ixlib=rb-4.1.1&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9JUUzJTgwJTkwQmxlbmRlciVFMyU4MCU5MSVFMyU4MyU5RSVFMyU4MyU4NiVFMyU4MyVBQSVFMyU4MiVBMiVFMyU4MyVBQiVFMyU4MSVBQiVFMyU4MyU4NiVFMyU4MiVBRiVFMyU4MiVCOSVFMyU4MyU4MSVFMyU4MyVBMyVFMyU4MiU5MiVFOCVCMiVCQyVFMyU4MiU4QiVFNiU5NiVCOSVFNiVCMyU5NSZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZ0eHQtY29sb3I9JTIzRkZGRkZGJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnR4dC1wYWQ9MCZzPThjNjc1OWM4ZWY3YTAzMDFkOGY5MjA0NjA2MjNkNjhm&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDB0c3VraW5vXyZ0eHQtY29sb3I9JTIzRkZGRkZGJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPWZlZjIzZWE5NDQ3NzFhZDc0Y2Q5YjkyZGI3MDY4OWUz&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=cd1447b48687ee9e9b3cd45ccb0686af"
         }
       ]
     },
@@ -2833,7 +2838,18 @@
       "title": "CGタグが付けられた新着記事 - Qiita",
       "feedUrl": "https://qiita.com/tags/cg/feed",
       "siteUrl": "https://qiita.com",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://qiita.com/sumikawa@github/items/6202fc50991243d1f4e6",
+          "author": null,
+          "description": "フルコードはgithubにあります。\nめっちゃ間が空きました。コードだけ先に書いて文章を書くのを後回しにするとサボってしまう。いかん。\n\nZバッファの実装\n複数のポリゴンを扱うときにどちらが前面かを扱うためにZバッファ法を導入する。\nまずzbuffer.rsモジュールを作成...",
+          "link": "https://qiita.com/sumikawa@github/items/6202fc50991243d1f4e6",
+          "publishedOn": "2026-08-04T03:15:27.000Z",
+          "wordCount": 2607,
+          "title": "Rustでポリゴンの基礎を学ぶ その4",
+          "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnFpaXRhLWltYWdlLXN0b3JlLnMzLmFtYXpvbmF3cy5jb20lMkYwJTJGMTM0MDAlMkZwcm9maWxlLWltYWdlcyUyRjE0NzM2ODI3ODY_aXhsaWI9cmItNC4xLjEmYXI9MSUzQTEmZml0PWNyb3AmbWFzaz1lbGxpcHNlJmJnPUZGRkZGRiZmbT1wbmczMiZzPTEzYjc4MDczNThiZWE5YjlkZTFjMjViYjFhZDJkZDJj%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D3b56fd33baeab98a27c2041dd74b3c67?ixlib=rb-4.1.1&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9UnVzdCVFMyU4MSVBNyVFMyU4MyU5RCVFMyU4MyVBQSVFMyU4MiVCNCVFMyU4MyVCMyVFMyU4MSVBRSVFNSU5RiVCQSVFNyVBNCU4RSVFMyU4MiU5MiVFNSVBRCVBNiVFMyU4MSVCNiUyMCVFMyU4MSU5RCVFMyU4MSVBRTQmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz0xMWNlOWVhZGM0OTA1NTZjM2U3M2M5NjM1ODc3OTYzMw&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBzdW1pa2F3YSU0MGdpdGh1YiZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPTI1MTQ0NzkyYmJmMWU3M2E1MzQ2OThlZGNhY2VhMTJl&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=118d4652ab13cf7f54ea486dff7d2b4e"
+        }
+      ]
     },
     {
       "title": "HLSLタグが付けられた新着記事 - Qiita",

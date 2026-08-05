@@ -3057,6 +3057,16 @@
       "siteUrl": "https://note.com/dftalk",
       "articles": [
         {
+          "id": "https://note.com/dftalk/n/n05eda7616516",
+          "author": null,
+          "description": "こんにちは。開発室の齊藤です。\n映像制作のパイプラインの裏側では、パブリッシュ時の情報連携、Flow Production Tracking（以下FlowPT）の更新に伴うキャッシュの書き換え、一時データの定期削除など、多数のサーバ処理やバッチが日々動いています。\n続きをみる",
+          "link": "https://note.com/dftalk/n/n05eda7616516",
+          "publishedOn": "2026-08-05T04:01:31.000Z",
+          "wordCount": 2562,
+          "title": "パイプラインの運用を支える可視化の取り組み紹介",
+          "imageUrl": "https://assets.st-note.com/production/uploads/images/296584849/rectangle_large_type_2_b4bd89d6a12a6bad82e8a81e7d629bae.png?width=800"
+        },
+        {
           "id": "https://note.com/dftalk/n/n4e66edb16e9c",
           "author": null,
           "description": "今回は、デジタル・フロンティアの制作事例や技術開発、クリエイターへのインタビューなどを取り上げていただいたWeb記事や雑誌の特集を、注目記事と3つのテーマに分けてまとめました。\n映像制作会社を探している方、CG・VFXの技術や制作体制を知りたい方、CG業界への就職を考えている方など、ぜひ気になる記事からご覧ください。\n続きをみる",
@@ -3402,6 +3412,21 @@
       "feedUrl": "https://cginterest.com/feed/",
       "siteUrl": "https://cginterest.com",
       "articles": [
+        {
+          "id": "https://cginterest.com/?p=61449",
+          "author": ".me",
+          "description": "2026年8月4日（現地時間） – Autodeskは、AI動画制作における制作者の制御性を高める新機能「3D Editor + Canvas」を、Autodesk Flow Studioのメジャーアップデー […]",
+          "link": "https://cginterest.com/2026/08/05/autodesk%e3%80%81%e3%82%ad%e3%83%a3%e3%83%a9%e3%82%af%e3%82%bf%e3%83%bc%e3%82%84%e8%83%8c%e6%99%af%e3%82%923d%e7%a9%ba%e9%96%93%e3%81%a7%e6%bc%94%e5%87%ba%e3%81%a7%e3%81%8d%e3%82%8b-flow-studio/",
+          "publishedOn": "2026-08-05T04:25:16.000Z",
+          "wordCount": 31131,
+          "title": "Autodesk、キャラクターや背景を3D空間で演出できる Flow Studio の新機能「3D Editor + Canvas」を発表",
+          "enclosure": {
+            "url": "https://cginterest.com/wp-content/uploads/2026/08/Autodesk-Flow-Studio-Gray-Box-Take-For-Blog-1920X1080-11.mp4",
+            "length": "509874",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://cginterest.com/wp-content/uploads/2026/08/Autodesk-Flow-Studio-update.webp"
+        },
         {
           "id": "https://cginterest.com/?p=61429",
           "author": ".me",

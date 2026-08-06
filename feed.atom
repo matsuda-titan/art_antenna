@@ -2,10 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-06T10:26:43.660Z</updated>
+    <updated>2026-08-06T13:39:41.755Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Tear Drop Tool – Mayaでリアルな流れるアニメーションの涙を数クリックで作成できる無料プラグイン]]></title>
+        <id>https://modelinghappy.com/?p=69793</id>
+        <link href="https://modelinghappy.com/archives/69793"/>
+        <updated>2026-08-06T11:45:42.000Z</updated>
+        <summary type="html"><![CDATA[[Maya] Tear Drop Tool #8211; Automatic Tear Rig Generator Tear Drop Toolは、Mayaで選択した頂点から顔の表面に沿って自然に流れる涙のアニメーショ
+The post Tear Drop Tool – Mayaでリアルな流れるアニメーションの涙を数クリックで作成できる無料プラグイン first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
+        <author>
+            <name>modelinghappy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Black Forest Labs、マルチモーダル基盤モデル「FLUX 3」の第一弾となる動画生成AI「FLUX 3 Video」を一般提供開始]]></title>
+        <id>https://cginterest.com/?p=61480</id>
+        <link href="https://cginterest.com/2026/08/06/black-forest-labs%e3%80%81%e3%83%9e%e3%83%ab%e3%83%81%e3%83%a2%e3%83%bc%e3%83%80%e3%83%ab%e5%9f%ba%e7%9b%a4%e3%83%a2%e3%83%87%e3%83%ab%e3%80%8cflux-3%e3%80%8d%e3%81%ae%e7%ac%ac%e4%b8%80%e5%bc%be/"/>
+        <updated>2026-08-06T11:04:17.000Z</updated>
+        <summary type="html"><![CDATA[2026年8月4日（現地時間） – Black Forest Labsは、新しいマルチモーダル基盤モデル「FLUX 3」の第一弾としてテキストや画像から動画を生成できる「FLUX 3 Video」の一般提供を […]]]></summary>
+        <author>
+            <name>.me</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【Wacom MovinkPad Pro 14】「これ1台で、アニメの監督・演出の仕事を完結できる」OLMグループに、管理と現場の両面から導入効果を聞いた - スペシャルコンテンツ]]></title>
+        <id>https://cgworld.jp/special-feature/202608-wacom-olm.html</id>
+        <link href="https://cgworld.jp/special-feature/202608-wacom-olm.html"/>
+        <updated>2026-08-06T10:25:52.000Z</updated>
+        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Foundry、Nuke向けAIロトスコーププラグイン「SmartRoto」を提供開始―ロト作業を最大4倍高速化 - ニュース]]></title>
+        <id>https://cgworld.jp/flashnews/03-2608-smartroto.html</id>
+        <link href="https://cgworld.jp/flashnews/03-2608-smartroto.html"/>
+        <updated>2026-08-06T09:50:00.000Z</updated>
+        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Position Based Dynamics (2006)]]></title>
         <id>https://qiita.com/matumu20/items/4b5a7a81553a5d781daf</id>
@@ -3990,51 +4031,6 @@ The post Mixos Studio – AI自動テクスチャ生成と2600種類以上のマ
         <summary type="html"><![CDATA[2026年7月6日（現地時間）- 開発者のhuxingyi氏は、自動リメッシュツール「AutoRemesher」のバージョン1.0.0を公開しました。 AutoRemesher について 「AutoRemesher」は、 […]]]></summary>
         <author>
             <name>.me</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[フォトグラメトリ数学｜39：オルソ補正（Orthorectification）とは何か]]></title>
-        <id>https://zenn.dev/s_hashida/articles/8d289cd38fa003</id>
-        <link href="https://zenn.dev/s_hashida/articles/8d289cd38fa003"/>
-        <updated>2026-07-07T22:29:34.000Z</updated>
-        <summary type="html"><![CDATA[はじめに
-前回は、
-
-RPC補正
-Bias Correction
-Affine補正
-GCP
-
-について説明しました。
-
-その中で重要だったのが、
-
-RPCは補正して利用する
-GCPで位置ずれを補正する
-補正後のRPCが実務で利用される
-
-という点です。
-
-しかしここで疑問が出てきます。
-
-補正したRPCは何に使うのか？
-なぜ衛星画像はそのままでは地図にならないのか？
-地図と一致した画像はどのように作られるのか？
-
-
-その答えが、
-オルソ補正（Orthorectification）
-です。
-
-今回は、
-
-オルソ補正とは何か
-なぜDEMが必要なのか
-RPCがどのように利用されるのか
-
-...]]></summary>
-        <author>
-            <name>s_hashida</name>
         </author>
     </entry>
 </feed>

@@ -593,21 +593,6 @@
             "type": "video/mp4"
           },
           "imageUrl": "https://3dnchu.com/wp-content/uploads/ScreenSpace-Raymarched-Decal-Light-fo-UE5-small.webp"
-        },
-        {
-          "id": "https://3dnchu.com/?p=1066347",
-          "author": "Ymt3D -3dnchu-",
-          "description": "Zarxrax氏によるAIを活用し動画のマスキングやセグメンテーション＆オブジェクトの除去が可能なオープンソースツール「Sammie-Roto 2」のご紹介！",
-          "link": "https://3dnchu.com/archives/sammie-roto-2/",
-          "publishedOn": "2026-07-07T18:31:15.000Z",
-          "wordCount": 8867,
-          "title": "Sammie-Roto 2 | AIを活用し動画のマスキングやセグメンテーション＆オブジェクトの除去が可能なオープンソースツール！",
-          "enclosure": {
-            "url": "https://3dnchu.com/wp-content/uploads/sammie-roto-2-1.webp",
-            "length": "1278412",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://3dnchu.com/wp-content/uploads/sammie-roto-2-1.webp"
         }
       ]
     },
@@ -1565,16 +1550,6 @@
           "wordCount": 772,
           "title": "news zeroバンパー動画コンテスト「news zero Next Creators Contest」開催。 - ニュース",
           "imageUrl": "https://cgworld.jp/flashnews/assets_c/2026/07/21976-59-a9f7be5bbc78ba0c95fe0e04a9313cc2-3900x2048-thumb-1920x1008-86231.jpg"
-        },
-        {
-          "id": "https://cgworld.jp/flashnews/01-202607-UE5-3DGS.html",
-          "author": null,
-          "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
-          "link": "https://cgworld.jp/flashnews/01-202607-UE5-3DGS.html",
-          "publishedOn": "2026-07-07T22:20:39.000Z",
-          "wordCount": 827,
-          "title": "Stefan Vaskevich氏、UE5に3DGSを取り込み実用的なFPSで運用するローカルパイプライン解説動画を公開　プラグイン導入から外部ツール＆生成AI活用まで - ニュース",
-          "imageUrl": "https://cgworld.jp/flashnews/assets_c/2026/07/UE5_3DGS-01-thumb-1920x1080-86215.jpg"
         }
       ]
     },
@@ -2610,6 +2585,16 @@
       "feedUrl": "https://qiita.com/tags/3dcg/feed",
       "siteUrl": "https://qiita.com",
       "articles": [
+        {
+          "id": "https://qiita.com/matumu20/items/4b5a7a81553a5d781daf",
+          "author": null,
+          "description": "Position Based Dynamics (Matthias Müller, 2006)\n\n3行要約\n\n本論文では、速度層を介さずに位置を直接操作することで、物理シミュレーションにおける過剰な動きや不安定性を解消する「Position Based Dynamic...",
+          "link": "https://qiita.com/matumu20/items/4b5a7a81553a5d781daf",
+          "publishedOn": "2026-08-06T06:15:00.000Z",
+          "wordCount": 1443,
+          "title": "Position Based Dynamics (2006)",
+          "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYyOTgxNjYwJTJGOTViNDExMjY5MmU5NDc5M2U2NTY5ODQ5MzdmM2I4ZjliMmE3MDc2YSUyRmxhcmdlLnBuZyUzRjE2Njg2MDM2MDk_aXhsaWI9cmItNC4xLjEmYXI9MSUzQTEmZml0PWNyb3AmbWFzaz1lbGxpcHNlJmJnPUZGRkZGRiZmbT1wbmczMiZzPWE1ZTgxNGYzYWQ2OTFjZmM4MWVmYjBlODkwMzg4NjNk%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3Db091fc7b27b7f70f9fcc9261423415bf?ixlib=rb-4.1.1&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9UG9zaXRpb24lMjBCYXNlZCUyMER5bmFtaWNzJTIwJTI4MjAwNiUyOSUyMCZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnR4dC1wYWQ9MCZzPTUzZjhjMzc0ZGFkZDAyYWVkNDY3YjYwMDMyMWQwMzhk&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBtYXR1bXUyMCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPTUwYzYyYzVhMmI4MTU4MWE3ZTg2NGY0YmMyNWRkOGQ3&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=76c9cc33f2b362a6538e0fcad35151db"
+        },
         {
           "id": "https://qiita.com/tsukino_/items/32553d65a648176d5178",
           "author": null,

@@ -205,16 +205,6 @@
             "type": "video/mp4"
           },
           "imageUrl": "https://cgbox.jp/wp-content/uploads/2026/07/image_processing20260702-2-hjv08m.jpg"
-        },
-        {
-          "id": "https://cgbox.jp/?p=65448",
-          "author": "kasahara",
-          "description": "2026年7月10日（金）～7月13日（月）までプライムデーセールが実施中！ 今までCGbox内で紹介した液タブ・板タブも一部セール対象になっております。 今回は今までCGbox編集部で実機レビューしたXPPenの商品の […]",
-          "link": "https://cgbox.jp/2026/07/07/xppen-primedaysale2026/",
-          "publishedOn": "2026-07-07T02:00:45.000Z",
-          "wordCount": 3308,
-          "title": "【XPPen】2026年プライムデーセール開始！CGBoxで体験レビューしたペンタブまとめ",
-          "imageUrl": "https://cgbox.jp/wp-content/uploads/2026/07/86cc8083c17ff819623a6572e819bd7f.jpg"
         }
       ]
     },
@@ -626,6 +616,26 @@
       "feedUrl": "https://cgworld.jp/atom.xml",
       "siteUrl": "https://cgworld.jp/",
       "articles": [
+        {
+          "id": "https://cgworld.jp/article/202608-calliope-2.html",
+          "author": null,
+          "description": "関連記事 ・【全3回・第1回】実写ライブハウスにMori Calliopeを宿...",
+          "link": "https://cgworld.jp/article/202608-calliope-2.html",
+          "publishedOn": "2026-08-06T01:00:00.000Z",
+          "wordCount": 803,
+          "title": "【全3回・第2回】本人の演技を3Dモデルへ――MV「Die For You」を支えたUE最適化、モーション＆フェイシャル - 特集",
+          "imageUrl": "https://cgworld.jp/article/assets_c/2026/07/202608-calliope_b15-thumb-1000x563-86901.jpg"
+        },
+        {
+          "id": "https://cgworld.jp/flashnews/01-202608-NyanToon.html",
+          "author": null,
+          "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
+          "link": "https://cgworld.jp/flashnews/01-202608-NyanToon.html",
+          "publishedOn": "2026-08-05T22:47:26.000Z",
+          "wordCount": 804,
+          "title": "にゃんねこ氏、Substance 3D Painter用Toonシェーダ「NyanToon」を無料でリリース　lilToon風のルックを再現し、UnityとSP間のルック差異を吸収 - ニュース",
+          "imageUrl": "https://cgworld.jp/flashnews/assets_c/2026/08/NyanToon-01-thumb-1920x1080-87378.jpg"
+        },
         {
           "id": "https://cgworld.jp/article/2607animecg-denkimokuroku01.html",
           "author": null,
@@ -1565,16 +1575,6 @@
           "wordCount": 827,
           "title": "Stefan Vaskevich氏、UE5に3DGSを取り込み実用的なFPSで運用するローカルパイプライン解説動画を公開　プラグイン導入から外部ツール＆生成AI活用まで - ニュース",
           "imageUrl": "https://cgworld.jp/flashnews/assets_c/2026/07/UE5_3DGS-01-thumb-1920x1080-86215.jpg"
-        },
-        {
-          "id": "https://cgworld.jp/flashnews/2607-03-neuronage.html",
-          "author": null,
-          "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
-          "link": "https://cgworld.jp/flashnews/2607-03-neuronage.html",
-          "publishedOn": "2026-07-07T06:50:45.000Z",
-          "wordCount": 703,
-          "title": "ニューロン・エイジ、モーション練習やデモリール制作に活用できるMaya用フリーリグ「NeuronAge_Rig」を無料公開 - ニュース",
-          "imageUrl": "https://cgworld.jp/flashnews/assets_c/2026/07/4e9e13987e9df8b264565bf83eb01511a49de6a8-thumb-1920x1080-86187.jpg"
         }
       ]
     },
@@ -1611,24 +1611,23 @@
       "title": "SPARK CREATIVE Tech Blog",
       "feedUrl": "https://tech.spark-creative.co.jp/feed",
       "siteUrl": "https://tech.spark-creative.co.jp/",
-      "articles": [
-        {
-          "id": "https://tech.spark-creative.co.jp/entry/2026/07/07/123315",
-          "author": null,
-          "description": "はじめに 前提 PCG(Procedural Content Generation Framework) 記事一覧 前回までのPCG PCGのエレメントについて 回転・拡縮 配置・間引き さらに高度な配置ルール Normal To Density Bounds Modifier 終わり はじめに こんにちは、クライアントエンジニアの下野です。 今回は前回に引き続きPCGで、PCGのエレメントを色々紹介します。 前提 エンジンのバージョンは5.7です。バージョンによっては処理が変わったりするので完全に処理を一致させても動かない場合があります。 PCGはUE5.7になってBetaからProduct…",
-          "link": "https://tech.spark-creative.co.jp/entry/2026/07/07/123315",
-          "publishedOn": "2026-07-07T03:33:15.000Z",
-          "wordCount": 593,
-          "title": "【UE5】PCG入門その2（エレメントについて）",
-          "imageUrl": "https://cdn.image.st-hatena.com/image/scale/ef987f0b501c8b642f41e1ebfe02d7c59d779183/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fs%2Fspark-shimono-ryota%2F20260707%2F20260707101147.png"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "3DCG最新情報サイト MODELING HAPPY",
       "feedUrl": "https://modelinghappy.com/feed",
       "siteUrl": "https://modelinghappy.com",
       "articles": [
+        {
+          "id": "https://modelinghappy.com/?p=69785",
+          "author": "modelinghappy",
+          "description": "From generation to direction: Autodesk launches 3D Editor + Canvas within Flow Studio, bringing directable con\nThe post Autodesk Flow Studioに「3D Editor + Canvas」登場！3D空間を演出しながらAI映像を生成可能に first appeared on 3DCG最新情報サイト MODELING HAPPY.",
+          "link": "https://modelinghappy.com/archives/69785",
+          "publishedOn": "2026-08-06T00:22:28.000Z",
+          "wordCount": 3082,
+          "title": "Autodesk Flow Studioに「3D Editor + Canvas」登場！3D空間を演出しながらAI映像を生成可能に",
+          "imageUrl": "https://modelinghappy.com/wp-content/uploads/2026/08/20260806_autodesk_01.jpg"
+        },
         {
           "id": "https://modelinghappy.com/?p=69776",
           "author": "modelinghappy",
@@ -2158,16 +2157,6 @@
           "wordCount": 4424,
           "title": "Mixos Studio – AI自動テクスチャ生成と2600種類以上のマテリアルを利用できる無料利用可能なWebベースの3Dペイントツール",
           "imageUrl": "https://modelinghappy.com/wp-content/uploads/2026/07/20260708_mixos_Studio_01.jpg"
-        },
-        {
-          "id": "https://modelinghappy.com/?p=67801",
-          "author": "modelinghappy",
-          "description": "【Amazon】Creative Cloud Pro Amazonでプライムデーセールが2026年7月10~13日で開催されますが、先行セールとして、Adobe Creative Cloud１年分、定価102,960円が\nThe post Adobe Creative Cloud Proが50%オフ！Amazonプライムデー先行セールで51,480円！ first appeared on 3DCG最新情報サイト MODELING HAPPY.",
-          "link": "https://modelinghappy.com/archives/67801",
-          "publishedOn": "2026-07-07T04:00:48.000Z",
-          "wordCount": 3151,
-          "title": "Adobe Creative Cloud Proが50%オフ！Amazonプライムデー先行セールで51,480円！",
-          "imageUrl": "https://modelinghappy.com/wp-content/uploads/2026/03/20260707.jpg"
         }
       ]
     },
@@ -2360,6 +2349,21 @@
       "feedUrl": "https://zenn.dev/topics/3dcg/feed",
       "siteUrl": "https://zenn.dev/topics/3dcg",
       "articles": [
+        {
+          "id": "https://zenn.dev/izumuzui/articles/27f73b5b88bee5",
+          "author": "izumuzui",
+          "description": "人物写真からPS1ゲーム風のローポリキャラクターを作るブラウザアプリを作りました。YouTubeで流れてくる、低解像度なのに温かみのあるキャラクター表現を自分でも作ってみたかったのがきっかけです。\n実装して分かった核心は、セグメンテーションで「服」を抜けても、その画像を胴体・袖・側面のどこへ置くかは別問題だということでした。胴体の切り抜きを袖にも貼ると、胸のロゴや陰影まで腕に繰り返されます。この記事では、その失敗から部位別のUVへ直した過程を中心に書きます。\nhttps://izumuzui.github.io/lowpoly-builder/\n\n\n左からTポーズ、立ち、歩き、考える。デ...",
+          "link": "https://zenn.dev/izumuzui/articles/27f73b5b88bee5",
+          "publishedOn": "2026-08-05T23:40:05.000Z",
+          "wordCount": 1413,
+          "title": "PS1風アバター作成アプリを作った。",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--8_64cGMK--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:PS1%25E9%25A2%25A8%25E3%2582%25A2%25E3%2583%2590%25E3%2582%25BF%25E3%2583%25BC%25E4%25BD%259C%25E6%2588%2590%25E3%2582%25A2%25E3%2583%2597%25E3%2583%25AA%25E3%2582%2592%25E4%25BD%259C%25E3%2581%25A3%25E3%2581%259F%25E3%2580%2582%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:izumuzui%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzg4MzM1YjljYmMuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+            "length": "0",
+            "type": "false"
+          },
+          "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--8_64cGMK--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:PS1%25E9%25A2%25A8%25E3%2582%25A2%25E3%2583%2590%25E3%2582%25BF%25E3%2583%25BC%25E4%25BD%259C%25E6%2588%2590%25E3%2582%25A2%25E3%2583%2597%25E3%2583%25AA%25E3%2582%2592%25E4%25BD%259C%25E3%2581%25A3%25E3%2581%259F%25E3%2580%2582%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:izumuzui%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzg4MzM1YjljYmMuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+        },
         {
           "id": "https://zenn.dev/umamon/articles/natsuyasumi-diary-1",
           "author": "Umamon",
@@ -2606,6 +2610,16 @@
       "feedUrl": "https://qiita.com/tags/3dcg/feed",
       "siteUrl": "https://qiita.com",
       "articles": [
+        {
+          "id": "https://qiita.com/tsukino_/items/32553d65a648176d5178",
+          "author": null,
+          "description": "Blenderで複数のモデルを作成・管理しているとき、オブジェクト名やメッシュ、マテリアルの名前を綺麗に整理したい,複数の形式（FBX / OBJ / GLB）でまとめて出力したいと思ったことはありませんか？\nそんな作業を効率化するために、選択オブジェクトの一括リネームと一...",
+          "link": "https://qiita.com/tsukino_/items/32553d65a648176d5178",
+          "publishedOn": "2026-08-05T14:14:55.000Z",
+          "wordCount": 902,
+          "title": "【Blender】Extentions AssetExporterProの導入方法と使い方",
+          "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYzOTQzMTQ4JTJGZGJhOTI4MmI5OWFlNGQ4NmFjYjI4MDk1NGVhNGFjYzI2ZGYyODM0ZSUyRmxhcmdlLnBuZyUzRjE3NTAxNDEwMzM_aXhsaWI9cmItNC4xLjEmYXI9MSUzQTEmZml0PWNyb3AmbWFzaz1lbGxpcHNlJmJnPUZGRkZGRiZmbT1wbmczMiZzPWU4ZGJmMzk4YjI1NDE2YmMxODUyOGE0ZWZiOWU3NjE5%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D0cdf0498f9ab9bc4ec92fd97b061c8a7?ixlib=rb-4.1.1&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9JUUzJTgwJTkwQmxlbmRlciVFMyU4MCU5MUV4dGVudGlvbnMlMjBBc3NldEV4cG9ydGVyUHJvJUUzJTgxJUFFJUU1JUIwJThFJUU1JTg1JUE1JUU2JTk2JUI5JUU2JUIzJTk1JUUzJTgxJUE4JUU0JUJEJUJGJUUzJTgxJTg0JUU2JTk2JUI5JnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9NjI4MjE4MzM2ZTRmYWI4NTFkZjI5OGUxOTFjZGNlY2Q&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDB0c3VraW5vXyZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPTRjODM5MzJmNjA1ZTE0YzNmN2RhYTIyNTYyYjQ1NTU2&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=a02d98889afc78ab190086c3e1de5241"
+        },
         {
           "id": "https://qiita.com/Umamon/items/0ce15f76486c8138eeb1",
           "author": null,
@@ -3269,16 +3283,6 @@
           "wordCount": 3268,
           "title": "【Substance Designer】1から作る「畳」のPBRテクスチャ解説編③",
           "imageUrl": "https://assets.st-note.com/production/uploads/images/287201653/rectangle_large_type_2_1fd5ee07c6262f997f5c04c938bc0546.png?width=800"
-        },
-        {
-          "id": "https://note.com/efeozi/n/n9deef5fcf2eb",
-          "author": null,
-          "description": "続きをみる",
-          "link": "https://note.com/efeozi/n/n9deef5fcf2eb",
-          "publishedOn": "2026-07-07T09:39:07.000Z",
-          "wordCount": 2971,
-          "title": "Substance Designer / 魔法陣を作ろう",
-          "imageUrl": "https://d2l930y2yx77uc.cloudfront.net/production/social_images/8847007e1978776076b18260e29a0e3aa8c5f48b.png"
         }
       ]
     },
@@ -3287,6 +3291,16 @@
       "feedUrl": "https://note.com/hashtag/substancepainter/rss",
       "siteUrl": "https://note.com/hashtag/substancepainter",
       "articles": [
+        {
+          "id": "https://note.com/nakro/n/n3e961127e42e",
+          "author": null,
+          "description": "ある程度基本動作ができている前提の話です\nレベルとしては脱初心者（基本操作）＆初級者です。中級者の人が見たら何を当たり前のことを…って思うかも\nガチ初心者記事ではなく未来の自分に向けての記事です\n余裕があったら先にこっちの記事を見てねというリンクをこの文章の下に記載します\nサブスタは2024を使用しています\n\n\n続きをみる",
+          "link": "https://note.com/nakro/n/n3e961127e42e",
+          "publishedOn": "2026-08-05T20:46:19.000Z",
+          "wordCount": 3819,
+          "title": "サブスタでぬいぐるみ塗った備忘録",
+          "imageUrl": "https://assets.st-note.com/production/uploads/images/300817274/rectangle_large_type_2_d50142c56c93a06c7d0879a7f12b5c30.png?width=800"
+        },
         {
           "id": "https://note.com/nyanneco/n/n48803e0e3016",
           "author": null,
@@ -4106,21 +4120,6 @@
           "wordCount": 30226,
           "title": "オープンソースの無料自動リトポロジーツール「AutoRemesher 1.0.0」が正式リリース！Blender連携アドオンも公開",
           "imageUrl": "https://cginterest.com/wp-content/uploads/2026/07/autoremesher-JeremyHU.webp"
-        },
-        {
-          "id": "https://cginterest.com/?p=60493",
-          "author": ".me",
-          "description": "2026年7月6日（日本時間）- アドビは、企業向けにクリエイティブワークフローの自動化を実現する「Adobe Firefly Graph エンタープライズ版」と、そのワークフローを制作現場で大量実行・運用するための「A […]",
-          "link": "https://cginterest.com/2026/07/07/%e3%82%a2%e3%83%89%e3%83%93%e3%80%81%e4%bc%81%e6%a5%ad%e5%90%91%e3%81%91%e3%81%abai%e3%82%92%e6%b4%bb%e7%94%a8%e3%81%97%e3%81%9f%e5%88%b6%e4%bd%9c%e3%83%af%e3%83%bc%e3%82%af%e3%83%95%e3%83%ad%e3%83%bc/",
-          "publishedOn": "2026-07-07T02:27:05.000Z",
-          "wordCount": 30165,
-          "title": "アドビ、企業向けにAIを活用した制作ワークフロー自動化ツール「Firefly Graph エンタープライズ版」などを提供開始",
-          "enclosure": {
-            "url": "https://cginterest.com/wp-content/uploads/2026/07/Adobe-Firefly-Creative-Production-エンタープライズ版-11.mp4",
-            "length": "494804",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://cginterest.com/wp-content/uploads/2026/07/adobe-fireflygraphenterprise.webp"
         }
       ]
     }

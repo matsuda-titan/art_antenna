@@ -2,10 +2,93 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-06T13:39:41.755Z</updated>
+    <updated>2026-08-07T02:05:40.895Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【全3回・第3回】Mori CalliopeのMV／3D LIVEはどう生まれる？――東映ツークン研究所の制作基盤 - 特集]]></title>
+        <id>https://cgworld.jp/article/202608-calliope-3.html</id>
+        <link href="https://cgworld.jp/article/202608-calliope-3.html"/>
+        <updated>2026-08-07T01:00:00.000Z</updated>
+        <summary type="html"><![CDATA[関連記事 ・【全3回・第1回】実写ライブハウスにMori Calliopeを宿...]]></summary>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[『名探偵プリキュア！』エンディング制作の舞台裏　―絵コンテ作りの基本的な思考法からCGアニメーションを磨くヒントの探し方]]></title>
+        <id>https://area.autodesk.jp/case/animation/star-detective-precure/</id>
+        <link href="https://area.autodesk.jp/case/animation/star-detective-precure/"/>
+        <updated>2026-08-07T00:30:00.000Z</updated>
+        <summary type="html"><![CDATA[アニメ制作における3ds MaxやMayaの活用事例を、実際に使用しているスタジオのクリエイターを招いて解説していただく「Autodesk X CGWORLD Animation Days 2026」が2026年3月26日（木）と27日（金）の2日間に渡り開催された。初日はオレンジから、２日目には東映アニメーションから、それぞれのクリエイターがゲストとして登壇し、各作品における活用事例を語った。・・・]]></summary>
+        <author>
+            <name>AREA JAPAN | Autodesk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rotate Extrude – 面やエッジを回転しながら押し出して、らせん形状などを簡単に作成できる無料Blenderアドオン]]></title>
+        <id>https://modelinghappy.com/?p=69798</id>
+        <link href="https://modelinghappy.com/archives/69798"/>
+        <updated>2026-08-06T23:28:49.000Z</updated>
+        <summary type="html"><![CDATA[Rotate Extrude (blender addon) Kushiroさんが作成した、Rotate Extrudeは、選択したエッジまたは面を押し出しながら回転させて、らせん状やカーブ状の形状を簡単に作成できるBl
+The post Rotate Extrude – 面やエッジを回転しながら押し出して、らせん形状などを簡単に作成できる無料Blenderアドオン first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
+        <author>
+            <name>modelinghappy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Epic Games、Unreal Fest Chicago 2026でのUE 5.8 メッシュ テレイン紹介講演動画を公開 - ニュース]]></title>
+        <id>https://cgworld.jp/flashnews/01-202608-UEfest-MeshTerrain.html</id>
+        <link href="https://cgworld.jp/flashnews/01-202608-UEfest-MeshTerrain.html"/>
+        <updated>2026-08-06T22:28:52.000Z</updated>
+        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[フォトグラメトリ数学｜43：オルソモザイク（Orthomosaic）とは何か]]></title>
+        <id>https://zenn.dev/s_hashida/articles/02c623db6d28fc</id>
+        <link href="https://zenn.dev/s_hashida/articles/02c623db6d28fc"/>
+        <updated>2026-08-06T22:02:05.000Z</updated>
+        <summary type="html"><![CDATA[はじめに
+前回は、
+
+通常のオルソ画像
+True Ortho
+遮蔽（Occlusion）
+可視性判定
+
+について説明しました。
+
+その中で重要だったのが、
+
+オルソ画像は1枚の画像から作られる
+True Orthoでは見えている画像を選択する
+建物による遮蔽を考慮できる
+
+という点です。
+
+しかしここで疑問が出てきます。
+
+1枚の画像だけで広い地域は作れるのか？
+隣の画像との境界はどうなるのか？
+地図全体はどのように作られるのか？
+
+
+実は、実際の地図は多数のオルソ画像をつなぎ合わせて作られています。
+
+その成果物が、
+オルソモザイク（Orthomosaic）
+です。
+
+今回は、
+...]]></summary>
+        <author>
+            <name>s_hashida</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Tear Drop Tool – Mayaでリアルな流れるアニメーションの涙を数クリックで作成できる無料プラグイン]]></title>
         <id>https://modelinghappy.com/?p=69793</id>
@@ -3885,152 +3968,6 @@ The post Flow Selection Pro – ループ選択やラッソ選択をツール切
 そういった場合、アプリケーションで動かしやすいように頂...]]></summary>
         <author>
             <name>3DCGタグが付けられた新着記事 - Qiita</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【Maya】初心者向け！ハードエッジとソフトエッジを適切に使い分けよう！]]></title>
-        <id>https://3d.crdg.jp/env/?p=9375</id>
-        <link href="https://3d.crdg.jp/env/2026/07/08/9375/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=%25e3%2580%2590maya%25e3%2580%2591%25e5%2588%259d%25e5%25bf%2583%25e8%2580%2585%25e5%2590%2591%25e3%2581%2591%25ef%25bc%2581%25e3%2583%258f%25e3%2583%25bc%25e3%2583%2589%25e3%2582%25a8%25e3%2583%2583%25e3%2582%25b8%25e3%2581%25a8%25e3%2582%25bd%25e3%2583%2595%25e3%2583%2588%25e3%2582%25a8%25e3%2583%2583%25e3%2582%25b8"/>
-        <updated>2026-07-08T11:07:53.000Z</updated>
-        <summary type="html"><![CDATA[エッジの使い分けは基礎的なところですが、初心者だとうまく使い分けできていなかったりします。基本は形状に合わせて使い分けます。90度以下の鋭利な角は基本 […]
-続きを読む
-投稿 【Maya】初心者向け！ハードエッジとソフトエッジを適切に使い分けよう！ は エンホリ - ENVIRONMENT HOLIC｜C&R Creative Studios に最初に表示されました。]]></summary>
-        <author>
-            <name>Kaho.Nobukawa</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[＜7/29（水）リアル開催＞セミナー「TouchDesignerではじめる空間演出 ─ クリエイターから学ぶリアルタイム映像表現」 - ニュース]]></title>
-        <id>https://cgworld.jp/flashnews/2607-03-touchdesigner.html</id>
-        <link href="https://cgworld.jp/flashnews/2607-03-touchdesigner.html"/>
-        <updated>2026-07-08T10:50:00.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Best ShadCN Sheet Components for Modern Web Apps]]></title>
-        <id>https://qiita.com/wrappixel/items/3ea702f098723d95c4ae</id>
-        <link href="https://qiita.com/wrappixel/items/3ea702f098723d95c4ae"/>
-        <updated>2026-07-08T10:43:42.000Z</updated>
-        <summary type="html"><![CDATA[Key Takeaways
-
-Shadcn Sheet is a slide-over panel component built on  Radix UI  and  Base UI  primitives, installed via CLI using pnpm...]]></summary>
-        <author>
-            <name>Shaderタグが付けられた新着記事 - Qiita</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[初作品でアヌシーに選出。『Bucket Man』ヤカタカナタ監督の"アートとエンタメの中間"をねらったユニークな作風に迫る - 特集]]></title>
-        <id>https://cgworld.jp/article/202607-BucketMan-YAKATAKanata.html</id>
-        <link href="https://cgworld.jp/article/202607-BucketMan-YAKATAKanata.html"/>
-        <updated>2026-07-08T09:32:01.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【Claude Code×3DCG】Blender・Three.js・Houdiniを「開かずに」AIに操作させてみた]]></title>
-        <id>https://note.com/kudo_notes/n/n94b5981f0657</id>
-        <link href="https://note.com/kudo_notes/n/n94b5981f0657"/>
-        <updated>2026-07-08T06:51:37.000Z</updated>
-        <summary type="html"><![CDATA[こんにちは、Kudoです。
-前にちらっと番組で触れていた「Claude Codeで3DCGの制作や検証をやっている」という話、今日はその中身をまとめて話しました。BlenderもHoudiniも、実はほとんどアプリケーションを開いていません。それでもちゃんと動いている、というのが今回のポイントです。
-続きをみる]]></summary>
-        <author>
-            <name>#Houdiniタグ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[数々のヒット作を生み出すメソッドとは？ハリウッド式の「感情を動かす物語の構造」を学べる講座が8月18日開催 - ニュース]]></title>
-        <id>https://cgworld.jp/flashnews/0818-plusone-andou.html</id>
-        <link href="https://cgworld.jp/flashnews/0818-plusone-andou.html"/>
-        <updated>2026-07-08T05:57:12.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenPBRのすゝめ ツールに依存しない新しい標準マテリアル]]></title>
-        <id>https://note.com/dftalk/n/nc698760653da</id>
-        <link href="https://note.com/dftalk/n/nc698760653da"/>
-        <updated>2026-07-08T03:58:04.000Z</updated>
-        <summary type="html"><![CDATA[ご無沙汰しております。
-「MaterialXを社内に布教したい委員会」会員のTD高橋です。
-今回もマテリアル比較記事であり、ついに第3弾となりました。
-いままでは、MaterialXのシステム側とStandard Surfaceのレンダリング比較をメインで取り扱ってきましたが、今回は新しいマテリアルの規格OpenPBRについてお話します。
-過去記事はこちら
-続きをみる]]></summary>
-        <author>
-            <name>DF TALK</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenPBRのすゝめ ツールに依存しない新しい標準マテリアル]]></title>
-        <id>https://note.com/dftalk/n/nc698760653da</id>
-        <link href="https://note.com/dftalk/n/nc698760653da"/>
-        <updated>2026-07-08T03:58:04.000Z</updated>
-        <summary type="html"><![CDATA[ご無沙汰しております。
-「MaterialXを社内に布教したい委員会」会員のTD高橋です。
-今回もマテリアル比較記事であり、ついに第3弾となりました。
-いままでは、MaterialXのシステム側とStandard Surfaceのレンダリング比較をメインで取り扱ってきましたが、今回は新しいマテリアルの規格OpenPBRについてお話します。
-過去記事はこちら
-続きをみる]]></summary>
-        <author>
-            <name>#Houdiniタグ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mixos Studio – AI自動テクスチャ生成と2600種類以上のマテリアルを利用できる無料利用可能なWebベースの3Dペイントツール]]></title>
-        <id>https://modelinghappy.com/?p=69341</id>
-        <link href="https://modelinghappy.com/archives/69341"/>
-        <updated>2026-07-08T03:33:53.000Z</updated>
-        <summary type="html"><![CDATA[mixos Studio mixos Studioは、ブラウザ上で利用できる3Dテクスチャペイントツールです。面倒なインストールやライセンス認証、ドライバー設定などが不要で、ブラウザを開きモデルを読み込む事で、用意されて
-The post Mixos Studio – AI自動テクスチャ生成と2600種類以上のマテリアルを利用できる無料利用可能なWebベースの3Dペイントツール first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
-        <author>
-            <name>modelinghappy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Autodesk、CEDEC2026のスポンサーセッション情報を公開―『ファイナルファンタジーXIV: 白銀のワンダラー』、『プラグマタ』セッションやFlow PT紹介講演も - ニュース]]></title>
-        <id>https://cgworld.jp/flashnews/03-2607-autodeskcedec.html</id>
-        <link href="https://cgworld.jp/flashnews/03-2607-autodeskcedec.html"/>
-        <updated>2026-07-08T03:20:00.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[第5回：簡単なリグを作成しよう - 連載]]></title>
-        <id>https://cgworld.jp/regular/202607-est3-05.html</id>
-        <link href="https://cgworld.jp/regular/202607-est3-05.html"/>
-        <updated>2026-07-08T02:20:00.000Z</updated>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[news zeroバンパー動画コンテスト「news zero Next Creators Contest」開催。 - ニュース]]></title>
-        <id>https://cgworld.jp/flashnews/news-zeronews-zero-next-creators-contest.html</id>
-        <link href="https://cgworld.jp/flashnews/news-zeronews-zero-next-creators-contest.html"/>
-        <updated>2026-07-08T01:51:51.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[オープンソースの無料自動リトポロジーツール「AutoRemesher 1.0.0」が正式リリース！Blender連携アドオンも公開]]></title>
-        <id>https://cginterest.com/?p=60500</id>
-        <link href="https://cginterest.com/2026/07/08/%e3%82%aa%e3%83%bc%e3%83%97%e3%83%b3%e3%82%bd%e3%83%bc%e3%82%b9%e3%81%ae%e7%84%a1%e6%96%99%e8%87%aa%e5%8b%95%e3%83%aa%e3%83%88%e3%83%9d%e3%83%ad%e3%82%b8%e3%83%bc%e3%83%84%e3%83%bc%e3%83%ab%e3%80%8cau/"/>
-        <updated>2026-07-08T01:43:36.000Z</updated>
-        <summary type="html"><![CDATA[2026年7月6日（現地時間）- 開発者のhuxingyi氏は、自動リメッシュツール「AutoRemesher」のバージョン1.0.0を公開しました。 AutoRemesher について 「AutoRemesher」は、 […]]]></summary>
-        <author>
-            <name>.me</name>
         </author>
     </entry>
 </feed>

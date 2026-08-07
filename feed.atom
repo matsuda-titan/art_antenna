@@ -2,10 +2,38 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-07T04:46:44.516Z</updated>
+    <updated>2026-08-07T08:45:37.384Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【AI×VFX最前線】Autodesk Flow Studio開発者ニコラ・トドロビッチ氏に訊く、CGキャラクターと実写融合の現在地と未来 - スペシャルコンテンツ]]></title>
+        <id>https://cgworld.jp/special-feature/aivfxautodesk-flow-studiocg.html</id>
+        <link href="https://cgworld.jp/special-feature/aivfxautodesk-flow-studiocg.html"/>
+        <updated>2026-08-07T13:51:29.000Z</updated>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【8月20日（木）開催】TVアニメ『魔法の姉妹ルルットリリィ』の制作事例から学ぶ、バーチャルカメラ「ジャンヌ・ダルク」活用セミナー - ニュース]]></title>
+        <id>https://cgworld.jp/flashnews/tv820.html</id>
+        <link href="https://cgworld.jp/flashnews/tv820.html"/>
+        <updated>2026-08-07T06:42:52.000Z</updated>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[27卒学生向け最後の開催　就活イベント「クリ博　ポートフォリオオンライン選考会 9月」　2D / 3D / UI デザイナー志望者向け　※9/1（火）作品締切 - ニュース]]></title>
+        <id>https://cgworld.jp/flashnews/2608-pfo9.html</id>
+        <link href="https://cgworld.jp/flashnews/2608-pfo9.html"/>
+        <updated>2026-08-07T05:16:00.000Z</updated>
+        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Material Parameter Manager | Unreal Engineのマテリアルパラメータを一括管理・整理できるエディタープラグイン！]]></title>
         <id>https://3dnchu.com/?p=1066880</id>
@@ -3946,38 +3974,6 @@ The post Flow Selection Pro – ループ選択やラッソ選択をツール切
         <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
         <author>
             <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EasyWaterscape | リアルな水面＆海の表現を手軽に実現出来るUnreal Engine 5向けアセットがFabにてリリース！]]></title>
-        <id>https://3dnchu.com/?p=1066387</id>
-        <link href="https://3dnchu.com/archives/easywaterscape/"/>
-        <updated>2026-07-08T18:17:15.000Z</updated>
-        <summary type="html"><![CDATA[数多くの高品質UEアセットEasyシリーズでお馴染みWilliam Faucher氏による新作アセット「EasyWaterscape」がFab上でリリース！リアルな海洋・水面表現を手軽に実現するUnreal Engineアセットです！]]></summary>
-        <author>
-            <name>Ymt3D -3dnchu-</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ScreenSpace Raymarched Decal Light for UE5 | デカールで手軽に使える影付き疑似ポイントライトの実験的なマテリアルをシェアします！]]></title>
-        <id>https://3dnchu.com/?p=1066374</id>
-        <link href="https://3dnchu.com/archives/screenspace-raymarched-decal-light-for-ue5/"/>
-        <updated>2026-07-08T17:43:44.000Z</updated>
-        <summary type="html"><![CDATA[なんか某狩りゲーの技術講演でデカールの疑似影が個人的に話題になり、それをUnreal Engine 5のデカールでもやりたいなと思い、お遊びで作ってたのですが、中途半端に1年くらい放置し…つい先程AIの検証でコード投げてたら不具合修正できたので適当にシェアします。そういうだけの記事です。]]></summary>
-        <author>
-            <name>Ymt3D -3dnchu-</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【Blender】モデルの頂点数を減らす方法]]></title>
-        <id>https://qiita.com/tsukino_/items/33428addd69a16f7617d</id>
-        <link href="https://qiita.com/tsukino_/items/33428addd69a16f7617d"/>
-        <updated>2026-07-08T17:19:58.000Z</updated>
-        <summary type="html"><![CDATA[3Dモデルは、頂点数が増えるほどアプリケーション側で負荷が大きくなります。
-単なる描画コストだけでなく、MeshからCollisionを作る場合なども、頂点数が増えれば増えるほど、作成などの負荷が無尽蔵に高くなります。
-そういった場合、アプリケーションで動かしやすいように頂...]]></summary>
-        <author>
-            <name>3DCGタグが付けられた新着記事 - Qiita</name>
         </author>
     </entry>
 </feed>

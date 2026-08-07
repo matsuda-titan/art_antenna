@@ -578,36 +578,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "https://3dnchu.com/wp-content/uploads/mixos.webp"
-        },
-        {
-          "id": "https://3dnchu.com/?p=1066387",
-          "author": "Ymt3D -3dnchu-",
-          "description": "数多くの高品質UEアセットEasyシリーズでお馴染みWilliam Faucher氏による新作アセット「EasyWaterscape」がFab上でリリース！リアルな海洋・水面表現を手軽に実現するUnreal Engineアセットです！",
-          "link": "https://3dnchu.com/archives/easywaterscape/",
-          "publishedOn": "2026-07-08T18:17:15.000Z",
-          "wordCount": 8919,
-          "title": "EasyWaterscape | リアルな水面＆海の表現を手軽に実現出来るUnreal Engine 5向けアセットがFabにてリリース！",
-          "enclosure": {
-            "url": "https://3dnchu.com/wp-content/uploads/EasyWaterscape.webp",
-            "length": "1680684",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://3dnchu.com/wp-content/uploads/EasyWaterscape.webp"
-        },
-        {
-          "id": "https://3dnchu.com/?p=1066374",
-          "author": "Ymt3D -3dnchu-",
-          "description": "なんか某狩りゲーの技術講演でデカールの疑似影が個人的に話題になり、それをUnreal Engine 5のデカールでもやりたいなと思い、お遊びで作ってたのですが、中途半端に1年くらい放置し…つい先程AIの検証でコード投げてたら不具合修正できたので適当にシェアします。そういうだけの記事です。",
-          "link": "https://3dnchu.com/archives/screenspace-raymarched-decal-light-for-ue5/",
-          "publishedOn": "2026-07-08T17:43:44.000Z",
-          "wordCount": 8797,
-          "title": "ScreenSpace Raymarched Decal Light for UE5 | デカールで手軽に使える影付き疑似ポイントライトの実験的なマテリアルをシェアします！",
-          "enclosure": {
-            "url": "https://3dnchu.com/wp-content/uploads/ScreenSpace-Raymarched-Decal-Light-fo-UE5.mp4",
-            "length": "416993",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://3dnchu.com/wp-content/uploads/ScreenSpace-Raymarched-Decal-Light-fo-UE5-small.webp"
         }
       ]
     },
@@ -616,6 +586,36 @@
       "feedUrl": "https://cgworld.jp/atom.xml",
       "siteUrl": "https://cgworld.jp/",
       "articles": [
+        {
+          "id": "https://cgworld.jp/special-feature/aivfxautodesk-flow-studiocg.html",
+          "author": null,
+          "description": "",
+          "link": "https://cgworld.jp/special-feature/aivfxautodesk-flow-studiocg.html",
+          "publishedOn": "2026-08-07T13:51:29.000Z",
+          "wordCount": null,
+          "title": "【AI×VFX最前線】Autodesk Flow Studio開発者ニコラ・トドロビッチ氏に訊く、CGキャラクターと実写融合の現在地と未来 - スペシャルコンテンツ",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cgworld.jp/flashnews/tv820.html",
+          "author": null,
+          "description": "",
+          "link": "https://cgworld.jp/flashnews/tv820.html",
+          "publishedOn": "2026-08-07T06:42:52.000Z",
+          "wordCount": null,
+          "title": "【8月20日（木）開催】TVアニメ『魔法の姉妹ルルットリリィ』の制作事例から学ぶ、バーチャルカメラ「ジャンヌ・ダルク」活用セミナー - ニュース",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cgworld.jp/flashnews/2608-pfo9.html",
+          "author": null,
+          "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
+          "link": "https://cgworld.jp/flashnews/2608-pfo9.html",
+          "publishedOn": "2026-08-07T05:16:00.000Z",
+          "wordCount": 757,
+          "title": "27卒学生向け最後の開催　就活イベント「クリ博　ポートフォリオオンライン選考会 9月」　2D / 3D / UI デザイナー志望者向け　※9/1（火）作品締切 - ニュース",
+          "imageUrl": "https://cgworld.jp/flashnews/assets_c/2026/08/2608_pfo9-thumb-1920x1080-87432.jpg"
+        },
         {
           "id": "https://cgworld.jp/article/202608-calliope-3.html",
           "author": null,
@@ -2739,16 +2739,6 @@
           "wordCount": 1338,
           "title": "AniGen を Apple Silicon Mac で動かし、1枚の画像からリグ付き3Dモデルを作る",
           "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnFpaXRhLWltYWdlLXN0b3JlLnMzLmFtYXpvbmF3cy5jb20lMkYwJTJGNTUyNjUlMkZwcm9maWxlLWltYWdlcyUyRjE1NTQ3ODA3NzI_aXhsaWI9cmItNC4xLjEmYXI9MSUzQTEmZml0PWNyb3AmbWFzaz1lbGxpcHNlJmJnPUZGRkZGRiZmbT1wbmczMiZzPTFlOTY1NTM1MjAwZWVjMmZmN2YzNjZmZGI1Y2U3ZjJl%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D60f97ea9cc46a258de33e64631f5f1fd?ixlib=rb-4.1.1&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9QW5pR2VuJTIwJUUzJTgyJTkyJTIwQXBwbGUlMjBTaWxpY29uJTIwTWFjJTIwJUUzJTgxJUE3JUU1JThCJTk1JUUzJTgxJThCJUUzJTgxJTk3JUUzJTgwJTgxMSVFNiU5RSU5QSVFMyU4MSVBRSVFNyU5NCVCQiVFNSU4MyU4RiVFMyU4MSU4QiVFMyU4MiU4OSVFMyU4MyVBQSVFMyU4MiVCMCVFNCVCQiU5OCVFMyU4MSU4RDNEJUUzJTgzJUEyJUUzJTgzJTg3JUUzJTgzJUFCJUUzJTgyJTkyJUU0JUJEJTlDJUUzJTgyJThCJnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9MTQ2YTQ3YjJkYmFhZTRiMTYzMzUwZTBhOGRlMjFiNjQ&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBraWFyaW5hJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9NzdmOWY4NTc3OThhYjZiYzkzMDVlYTM5Mjc1NWZjYjc&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=5e3d9b445a1c15c80af459eb155dae31"
-        },
-        {
-          "id": "https://qiita.com/tsukino_/items/33428addd69a16f7617d",
-          "author": null,
-          "description": "3Dモデルは、頂点数が増えるほどアプリケーション側で負荷が大きくなります。\n単なる描画コストだけでなく、MeshからCollisionを作る場合なども、頂点数が増えれば増えるほど、作成などの負荷が無尽蔵に高くなります。\nそういった場合、アプリケーションで動かしやすいように頂...",
-          "link": "https://qiita.com/tsukino_/items/33428addd69a16f7617d",
-          "publishedOn": "2026-07-08T17:19:58.000Z",
-          "wordCount": 701,
-          "title": "【Blender】モデルの頂点数を減らす方法",
-          "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Ftech-festa-ogp-background-4b5015b2c518c7e6b9062a7c9f5f5e90.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYzOTQzMTQ4JTJGZGJhOTI4MmI5OWFlNGQ4NmFjYjI4MDk1NGVhNGFjYzI2ZGYyODM0ZSUyRmxhcmdlLnBuZyUzRjE3NTAxNDEwMzM_aXhsaWI9cmItNC4xLjEmYXI9MSUzQTEmZml0PWNyb3AmbWFzaz1lbGxpcHNlJmJnPUZGRkZGRiZmbT1wbmczMiZzPWU4ZGJmMzk4YjI1NDE2YmMxODUyOGE0ZWZiOWU3NjE5%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D38295f4f5e234316699e4c977f934345?ixlib=rb-4.1.1&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9JUUzJTgwJTkwQmxlbmRlciVFMyU4MCU5MSVFMyU4MyVBMiVFMyU4MyU4NyVFMyU4MyVBQiVFMyU4MSVBRSVFOSVBMCU4MiVFNyU4MiVCOSVFNiU5NSVCMCVFMyU4MiU5MiVFNiVCOCU5QiVFMyU4MiU4OSVFMyU4MSU5OSVFNiU5NiVCOSVFNiVCMyU5NSZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZ0eHQtY29sb3I9JTIzRkZGRkZGJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnR4dC1wYWQ9MCZzPTJjY2U5N2M5MTJiYzgxYTZmNWU3ZDVjMGYwYmY1Mjdi&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDB0c3VraW5vXyZ0eHQtY29sb3I9JTIzRkZGRkZGJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPWZlZjIzZWE5NDQ3NzFhZDc0Y2Q5YjkyZGI3MDY4OWUz&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=4b2d12873d5c30b2bb3d839db0cb7989"
         }
       ]
     },

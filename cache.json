@@ -2696,6 +2696,16 @@
       "siteUrl": "https://qiita.com",
       "articles": [
         {
+          "id": "https://qiita.com/yuri_tsukimi/items/8cbff516bc92b5e71033",
+          "author": null,
+          "description": "実行環境でジオメトリシェーダが利用可能かどうかを知ることができるAPIはUnityの機能としていくつか用意されているそうです．ChatGPTに教えてもらいました．\n\nSystemInfo.graphicsShaderLevel >= 40 であれば大体使える(Metal等...",
+          "link": "https://qiita.com/yuri_tsukimi/items/8cbff516bc92b5e71033",
+          "publishedOn": "2026-08-09T01:23:21.000Z",
+          "wordCount": 1802,
+          "title": "【VRChat】ジオメトリシェーダが利用可能かどうかをスクリプト側で取得する",
+          "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYzODI1NzczJTJGZTUzOGI2MGJkYTY3M2ZhOWQwMTdhMzg5NThlNDhiM2ZhOGYwMzg5MyUyRnhfbGFyZ2UucG5nJTNGMTcxOTQ5Njg2OT9peGxpYj1yYi00LjEuMSZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9NWVlZTJmYTQ3NTJiMzIzYzZlZmVlYjU4YjAxM2JkMGY%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D3df90dbd88583f43550ea58fa52f9c0f?ixlib=rb-4.1.1&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9JUUzJTgwJTkwVlJDaGF0JUUzJTgwJTkxJUUzJTgyJUI4JUUzJTgyJUFBJUUzJTgzJUExJUUzJTgzJTg4JUUzJTgzJUFBJUUzJTgyJUI3JUUzJTgyJUE3JUUzJTgzJUJDJUUzJTgzJTgwJUUzJTgxJThDJUU1JTg4JUE5JUU3JTk0JUE4JUU1JThGJUFGJUU4JTgzJUJEJUUzJTgxJThCJUUzJTgxJUE5JUUzJTgxJTg2JUUzJTgxJThCJUUzJTgyJTkyJUUzJTgyJUI5JUUzJTgyJUFGJUUzJTgzJUFBJUUzJTgzJTk3JUUzJTgzJTg4JUU1JTgxJUI0JUUzJTgxJUE3JUU1JThGJTk2JUU1JUJFJTk3JUUzJTgxJTk5JUUzJTgyJThCJnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9YjQyZGQ0NjlhZTU3Yzc4OWMyODhlZTAwN2FiZjg5OTg&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDB5dXJpX3RzdWtpbWkmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz05YzI3NzViZmUxZjg2OTI3MTc0ODM0YTY1YWQ3MWY0MQ&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=cff220fcb674777cd5e8128759f759e7"
+        },
+        {
           "id": "https://qiita.com/yuri_tsukimi/items/0a25a0b89fdae359a0de",
           "author": null,
           "description": "シェーダーはFragmentシェーダーでテクスチャをサンプルするのが普通ですが，GPUパーティクルなどではVertexシェーダーでもテクスチャをサンプルします．\nVertexシェーダーでテクスチャをサンプルする場合でも，テクスチャの設定でFilterをBilinearに設定...",

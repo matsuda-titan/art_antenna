@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-09T00:54:03.777Z</updated>
+    <updated>2026-08-09T04:10:07.453Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【VRChat】ジオメトリシェーダが利用可能かどうかをスクリプト側で取得する]]></title>
+        <id>https://qiita.com/yuri_tsukimi/items/8cbff516bc92b5e71033</id>
+        <link href="https://qiita.com/yuri_tsukimi/items/8cbff516bc92b5e71033"/>
+        <updated>2026-08-09T01:23:21.000Z</updated>
+        <summary type="html"><![CDATA[実行環境でジオメトリシェーダが利用可能かどうかを知ることができるAPIはUnityの機能としていくつか用意されているそうです．ChatGPTに教えてもらいました．
+
+SystemInfo.graphicsShaderLevel >= 40 であれば大体使える(Metal等...]]></summary>
+        <author>
+            <name>Shaderタグが付けられた新着記事 - Qiita</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[「InstaMAT」2026年7月アップデートリリース　ネイティブ2Dペインティング対応、完全なUDIMサポート、ベイクと自動保存のパフォーマンス向上など、無料版あり - ニュース]]></title>
         <id>https://cgworld.jp/flashnews/01-202608-InstaMAT.html</id>

@@ -220,6 +220,21 @@
       "siteUrl": "https://3dnchu.com",
       "articles": [
         {
+          "id": "https://3dnchu.com/?p=1066923",
+          "author": "Ymt3D -3dnchu-",
+          "description": "Vladislav Samoilenko氏によるBuldozer | Blender向けリトポロジーツールセットアドオン「Buldozer」がArtstation上でリリースされています！",
+          "link": "https://3dnchu.com/archives/buldozer-blender/",
+          "publishedOn": "2026-08-08T15:15:01.000Z",
+          "wordCount": 7555,
+          "title": "Buldozer | Blender向けリトポロジーツールセットアドオン！",
+          "enclosure": {
+            "url": "https://3dnchu.com/wp-content/uploads/ArtStation-Buldozer-Next-Gen-Retopology-Tools-Resources.jpg",
+            "length": "92380",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://3dnchu.com/wp-content/uploads/ArtStation-Buldozer-Next-Gen-Retopology-Tools-Resources.jpg"
+        },
+        {
           "id": "https://3dnchu.com/?p=1066894",
           "author": "Ymt3D -3dnchu-",
           "description": "Gizmify StudiosによるMP4・AVI・MKV・MOVなどの動画ファイルを直接プレーンに読み込む事が可能となるMayaプラグイン「Gizmify Media Plane」のバージョン２がリリースされたようです！",
@@ -571,6 +586,16 @@
       "feedUrl": "https://cgworld.jp/atom.xml",
       "siteUrl": "https://cgworld.jp/",
       "articles": [
+        {
+          "id": "https://cgworld.jp/flashnews/01-202608-InstaMAT.html",
+          "author": null,
+          "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
+          "link": "https://cgworld.jp/flashnews/01-202608-InstaMAT.html",
+          "publishedOn": "2026-08-08T23:27:16.000Z",
+          "wordCount": 731,
+          "title": "「InstaMAT」2026年7月アップデートリリース　ネイティブ2Dペインティング対応、完全なUDIMサポート、ベイクと自動保存のパフォーマンス向上など、無料版あり - ニュース",
+          "imageUrl": "https://cgworld.jp/flashnews/assets_c/2026/08/InstaMat-01-thumb-1600x900-87463.jpg"
+        },
         {
           "id": "https://cgworld.jp/flashnews/01-202608-max20272-3DGS.html",
           "author": null,
@@ -1410,56 +1435,6 @@
           "wordCount": 797,
           "title": "NVIDIA、モーション生成AIフレームワーク「GPC」をSIGGRAPH 2026で発表　インタラクティブ制御のための、自然かつ物理的根拠のある動きを生成 - ニュース",
           "imageUrl": "https://cgworld.jp/flashnews/assets_c/2026/07/NVIDIA_GPC-01-thumb-1920x1080-86491.jpg"
-        },
-        {
-          "id": "https://cgworld.jp/article/2607-ContactGlove3.html",
-          "author": null,
-          "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
-          "link": "https://cgworld.jp/article/2607-ContactGlove3.html",
-          "publishedOn": "2026-07-10T03:50:15.000Z",
-          "wordCount": 782,
-          "title": "【人間とテクノロジーの境界を溶かす】Diver-Xが「ContactGlove 3」を発表、「Melt Interface Technologies」へ社名変更。同社が描くビジョンとは？ - 特集",
-          "imageUrl": "https://cgworld.jp/article/assets_c/2026/07/2607-ContactGlove3_main-thumb-1920x1280-86398.jpg"
-        },
-        {
-          "id": "https://cgworld.jp/flashnews/2607-03-realityscan.html",
-          "author": null,
-          "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
-          "link": "https://cgworld.jp/flashnews/2607-03-realityscan.html",
-          "publishedOn": "2026-07-10T03:48:00.000Z",
-          "wordCount": 732,
-          "title": "RealityScan 2.2公開ーAMD GPUをサポート　NVIDIA GPUとの混在環境にも対応 - ニュース",
-          "imageUrl": "https://cgworld.jp/flashnews/assets_c/2026/07/maxresdefault%20%288%29-thumb-1280x720-86130.jpg"
-        },
-        {
-          "id": "https://cgworld.jp/special-feature/202607-cygames.html",
-          "author": null,
-          "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
-          "link": "https://cgworld.jp/special-feature/202607-cygames.html",
-          "publishedOn": "2026-07-10T01:00:00.000Z",
-          "wordCount": 615,
-          "title": "Cygamesが手がけるハイエンドコンシューマータイトル『Project Awakening』&amp;プリレンダーフルCG映像制作の開発状況に迫る！　&quot;最高のコンテンツを作る&quot;仲間を募集中 - スペシャルコンテンツ",
-          "imageUrl": "https://cgworld.jp/special-feature/assets_c/2026/06/05-thumb-1000x563-84701.jpg"
-        },
-        {
-          "id": "https://cgworld.jp/regular/202607-cgw336-book.html",
-          "author": null,
-          "description": "",
-          "link": "https://cgworld.jp/regular/202607-cgw336-book.html",
-          "publishedOn": "2026-07-10T00:55:00.000Z",
-          "wordCount": 792,
-          "title": "#21：これからの映像制作の必須知識!!　『バーチャルプロダクションの教科書』 - 連載",
-          "imageUrl": "https://cgworld.jp/regular/assets_c/2026/07/book_of_the_month_202607-thumb-1000x563-86252.jpg"
-        },
-        {
-          "id": "https://cgworld.jp/flashnews/01-202607-Houdini-Troll2.html",
-          "author": null,
-          "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
-          "link": "https://cgworld.jp/flashnews/01-202607-Houdini-Troll2.html",
-          "publishedOn": "2026-07-10T00:46:55.000Z",
-          "wordCount": 815,
-          "title": "SideFX、Houdiniによる『トロール2』メイキング動画を公開　Vellumを用いた心臓表現、RBDによる建物の破壊、KineFX活用の樹木制御など - ニュース",
-          "imageUrl": "https://cgworld.jp/flashnews/assets_c/2026/07/Houdini_Troll2-01-thumb-1920x1080-86386.jpg"
         }
       ]
     },
@@ -1503,6 +1478,16 @@
       "feedUrl": "https://modelinghappy.com/feed",
       "siteUrl": "https://modelinghappy.com",
       "articles": [
+        {
+          "id": "https://modelinghappy.com/?p=69868",
+          "author": "modelinghappy",
+          "description": "Free Normal Map Generator — From Any Image, Online 1枚画像から3Dモデルを生成出来るMeshyが、オンラインで１枚画像から無料でノーマルマップを作成してくれるサービスを\nThe post Free Normal Map Generator-１枚画像から自動でノーマルマップを作成してくれる登録不要の無料のWEBサービス first appeared on 3DCG最新情報サイト MODELING HAPPY.",
+          "link": "https://modelinghappy.com/archives/69868",
+          "publishedOn": "2026-08-08T14:26:04.000Z",
+          "wordCount": 3040,
+          "title": "Free Normal Map Generator-１枚画像から自動でノーマルマップを作成してくれる登録不要の無料のWEBサービス",
+          "imageUrl": "https://modelinghappy.com/wp-content/uploads/2026/08/20260808_meshy_normalmap_01.jpg"
+        },
         {
           "id": "https://modelinghappy.com/?p=69861",
           "author": "modelinghappy",
@@ -3111,16 +3096,6 @@
           "wordCount": 2409,
           "title": "私だけMissing（当時の3DCG業界は、理系の人たちばかりだった）",
           "imageUrl": "https://assets.st-note.com/production/uploads/images/293559344/rectangle_large_type_2_2a881ea2de40e880525c23c6f4b083a5.jpeg?width=800"
-        },
-        {
-          "id": "https://note.com/creatorshub/n/nec40f6909cad",
-          "author": null,
-          "description": "どうも、クリエイターズHUBの恵美です。\nClaude Fable 5、帰ってきましたね。\n前回のクリエイターズHUBでも話題になっていたので、今日はこの件を書いてみようと思います。\n続きをみる",
-          "link": "https://note.com/creatorshub/n/nec40f6909cad",
-          "publishedOn": "2026-07-10T11:44:01.000Z",
-          "wordCount": 3148,
-          "title": "Claude Fable 5、CG屋は何に使えばいいのか問題",
-          "imageUrl": "https://assets.st-note.com/production/uploads/images/293199176/rectangle_large_type_2_1741b83ea949c27351506a59c9578d83.png?width=800"
         }
       ]
     },
@@ -3351,6 +3326,21 @@
       "feedUrl": "https://cginterest.com/feed/",
       "siteUrl": "https://cginterest.com",
       "articles": [
+        {
+          "id": "https://cginterest.com/?p=61548",
+          "author": ".me",
+          "description": "2026年8月6日（現地時間）- Nekki は、物理ベースの3Dアニメーションソフト「Cascadeur」バージョン2026.2をリリースしました。 主な新機能 今回のアップデートでは、プロのアニメーターやスタジオから […]",
+          "link": "https://cginterest.com/2026/08/08/cascadeur-2026-2-%e3%81%8c%e3%83%aa%e3%83%aa%e3%83%bc%e3%82%b9%ef%bc%81%e3%82%a2%e3%83%8b%e3%83%a1%e3%83%bc%e3%82%b7%e3%83%a7%e3%83%b3%e3%83%ac%e3%82%a4%e3%83%a4%e3%83%bc%ef%bc%88%e3%82%a2%e3%83%ab/",
+          "publishedOn": "2026-08-08T10:44:54.000Z",
+          "wordCount": 31216,
+          "title": "Cascadeur 2026.2 がリリース！アニメーションレイヤー（アルファ版）やイージング、日本語UIに対応",
+          "enclosure": {
+            "url": "https://cginterest.com/wp-content/uploads/2026/08/Cascadeur2026-2-additive.mp4",
+            "length": "34935",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://cginterest.com/wp-content/uploads/2026/08/Cascadeur2026_2.webp"
+        },
         {
           "id": "https://cginterest.com/?p=61541",
           "author": ".me",
@@ -4025,21 +4015,6 @@
           "wordCount": 30269,
           "title": "UE環境構築ツール Dash 1.12がリリース！新しい垂直スタッキングツールや各ツールの改善、UE5.8のサポートなど",
           "imageUrl": "https://cginterest.com/wp-content/uploads/2026/07/dash112.webp"
-        },
-        {
-          "id": "https://cginterest.com/?p=60532",
-          "author": ".me",
-          "description": "2026年7月7日（現地時間）、Meta は、新たなメディア生成モデルである「Muse Image」の提供開始と、「Muse Video」のプレビュー版を発表しました。 「Muse Image」は、同社におけるこれまでで […]",
-          "link": "https://cginterest.com/2026/07/10/meta%e3%80%81%e8%87%aa%e5%be%8b%e7%9a%84%e3%81%ab%e3%83%84%e3%83%bc%e3%83%ab%e3%82%92%e4%bd%bf%e3%81%84%e3%81%93%e3%81%aa%e3%81%99%e3%83%a1%e3%83%87%e3%82%a3%e3%82%a2%e7%94%9f%e6%88%90%e3%83%a2/",
-          "publishedOn": "2026-07-10T03:04:27.000Z",
-          "wordCount": 30556,
-          "title": "Meta、自律的にツールを使いこなすメディア生成モデル「Muse Image」と「Muse Video」プレビューを発表",
-          "enclosure": {
-            "url": "https://cginterest.com/wp-content/uploads/2026/07/2C705e9f-F01c-49C3-Bc3d-Bf579274649e.mp4",
-            "length": "283683",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://cginterest.com/wp-content/uploads/2026/07/museimage-musevideo.webp"
         }
       ]
     }

@@ -2,10 +2,136 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-09T12:27:19.255Z</updated>
+    <updated>2026-08-10T00:55:28.516Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Kou Nakamura氏、Isaac Simに3DGSを​持ち込みレンダリングするまでの検証記事を公開　産業用シミュレーションで​使う際の​本質的な​弱点と回避策を提示 - ニュース]]></title>
+        <id>https://cgworld.jp/flashnews/01-202608-3DGS-IsaacSim.html</id>
+        <link href="https://cgworld.jp/flashnews/01-202608-3DGS-IsaacSim.html"/>
+        <updated>2026-08-09T23:52:49.000Z</updated>
+        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[リアルタイムのゲームモーションで必要な視線や意識の誘導『視線誘導を活用したゲームモーションの極意』9月2日オンライン配信 - ニュース]]></title>
+        <id>https://cgworld.jp/flashnews/2609-plusone-matsumoto.html</id>
+        <link href="https://cgworld.jp/flashnews/2609-plusone-matsumoto.html"/>
+        <updated>2026-08-09T23:13:36.000Z</updated>
+        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[フォトグラメトリ数学｜44：シームライン（Seamline）とは何か]]></title>
+        <id>https://zenn.dev/s_hashida/articles/e519433a6f5c93</id>
+        <link href="https://zenn.dev/s_hashida/articles/e519433a6f5c93"/>
+        <updated>2026-08-09T22:10:05.000Z</updated>
+        <summary type="html"><![CDATA[はじめに
+前回は、
+
+オルソモザイク
+複数画像の接続
+重複領域
+利用画像の選択
+
+について説明しました。
+
+その中で重要だったのが、
+
+広い地域では複数のオルソ画像を利用する
+重複領域では利用する画像を選択する
+複数の画像をつなぐことでオルソモザイクが作られる
+
+という点です。
+
+しかしここで疑問が出てきます。
+
+重複領域ではどこで画像を切り替えるのか？
+画像同士の境界はどのように決めるのか？
+建物の途中で画像が切り替わるとどうなるのか？
+
+
+実は、オルソモザイクでは、
+画像を切り替える境界
+を決める必要があります。
+その境界が、シームライン（Seamline） です。
+
+今回は、...]]></summary>
+        <author>
+            <name>s_hashida</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dynamic Female Basemesh – 5種類の体型を自由にブレンドして好みの女性キャラクターを作れるZBrush・Blender対応ベースメッシュ]]></title>
+        <id>https://modelinghappy.com/?p=69880</id>
+        <link href="https://modelinghappy.com/archives/69880"/>
+        <updated>2026-08-09T21:24:14.000Z</updated>
+        <summary type="html"><![CDATA[Dynamic Female Basemesh | 5+ Body Types #8211; [Zbrush/Blender] Dynamic Female Basemeshは、5種類の体型をベースに、スライダーを調整
+The post Dynamic Female Basemesh – 5種類の体型を自由にブレンドして好みの女性キャラクターを作れるZBrush・Blender対応ベースメッシュ first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
+        <author>
+            <name>modelinghappy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[QIDI Plus5 | 320mm角の大型造形＆65℃チャンバー加熱に対応した高性能FDM 3Dプリンター！約12万円で登場！マルチカラー対応拡張も可能！]]></title>
+        <id>https://3dnchu.com/?p=1067031</id>
+        <link href="https://3dnchu.com/archives/qidi-plus5/"/>
+        <updated>2026-08-09T18:15:33.000Z</updated>
+        <summary type="html"><![CDATA[2026年8月5日 中国・深センの3DプリンターメーカーQIDIから、320×320×300mmの大型造形エリアや最大65℃のアクティブチャンバー加熱、最高370℃の高温ノズルなどを備えた新型FDM 3Dプリンター「QIDI Plus5」が登場しました！]]></summary>
+        <author>
+            <name>Ymt3D -3dnchu-</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【Substance Designer】1から作る「座布団」のPBRテクスチャ解説①]]></title>
+        <id>https://note.com/manji_9278274/n/nf6726146c88c</id>
+        <link href="https://note.com/manji_9278274/n/nf6726146c88c"/>
+        <updated>2026-08-09T14:44:40.000Z</updated>
+        <summary type="html"><![CDATA[どうもみなさん2週間ぶり。まんじです。
+先週は地震の影響もあり、更新を自粛してました。
+被害に遭われた方、大変な思いをされた方も多いと思います。少しでも早く落ち着いた日常が戻ることを願ってます。
+今週からまた通常運転で再開していきます。
+というわけで、さっそく本日は以前から予告していた「座布団」のテクスチャを制作していきますよ。
+続きをみる]]></summary>
+        <author>
+            <name>#SubstanceDesignerタグ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NonToon - lilToon開発者による新たなキャラクター向けシェーダー！PBRライティングとNPR表現を融合し、モジュールによる機能拡張にも対応！]]></title>
+        <id>https://3dnchu.com/?p=1066524</id>
+        <link href="https://3dnchu.com/archives/nontoon-shader-core/"/>
+        <updated>2026-08-09T14:37:06.000Z</updated>
+        <summary type="html"><![CDATA[UnityやVRChatなどでおなじみ多機能シェーダー「lilToon」などの開発でお馴染みlilxyzw氏がモジュール型シェーダーシステム「Shader-Core」で開発！PBRの手法とNPRの手法を組み合わせたキャラクター向けシェーダー「NonToon」が無料公開されています！]]></summary>
+        <author>
+            <name>Ymt3D -3dnchu-</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MingToon | 影・逆光・深度表現にこだわったVRChat＆Warudo向け多機能Unityトゥーンシェーダー！クローズドベータテスター募集中！]]></title>
+        <id>https://3dnchu.com/?p=1067007</id>
+        <link href="https://3dnchu.com/archives/mingtoon-closedbeta/"/>
+        <updated>2026-08-09T13:54:45.000Z</updated>
+        <summary type="html"><![CDATA[Studio Raming（ @kim_raming ）が、VRChatやWarudoなどのバーチャルアバターでの利用を想定した、Unity向け多機能トゥーンシェーダー「MingToon」を開発中！現在はVRChatおよびWarudo制作者向けのクローズドベータテスターが募集されています。]]></summary>
+        <author>
+            <name>Ymt3D -3dnchu-</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FreePencil2 | 榊正宗氏による輪郭線描画Blenderアドオンの新バージョンが無料公開！手間なステップを１クリックで実現！]]></title>
+        <id>https://3dnchu.com/?p=1066979</id>
+        <link href="https://3dnchu.com/archives/freepencil2/"/>
+        <updated>2026-08-09T12:50:43.000Z</updated>
+        <summary type="html"><![CDATA[榊正宗氏（ @masamune_sakaki ）による高速レンダリングが可能な輪郭線描画Blenderアドオンの最新アップデートバージョン「FreePencil2」が無料公開されました！]]></summary>
+        <author>
+            <name>Ymt3D -3dnchu-</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[BoneBrush Creature Rigger Tool – Face Setsで塗り分けるだけで人間や複雑なクリーチャーにリグを作成できるBlenderアドオン]]></title>
         <id>https://modelinghappy.com/?p=69874</id>
@@ -3907,41 +4033,6 @@ Who's Next?の方は入選ならず、Rookie Awards 2026は結果はまだです
 1枚のイラストから、動かせる3Dキャラクターまで自動で作れたら便利ですよね。ただ、3Dの形だけでなく、骨格と「どの骨でどこが動くか」まで作る必要が...]]></summary>
         <author>
             <name>3DCGタグが付けられた新着記事 - Qiita</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【Substance Designer】1から作る「畳」のPBRテクスチャ解説編③]]></title>
-        <id>https://note.com/manji_9278274/n/n542fdaf92cba</id>
-        <link href="https://note.com/manji_9278274/n/n542fdaf92cba"/>
-        <updated>2026-07-11T11:04:08.000Z</updated>
-        <summary type="html"><![CDATA[どうもみなさん１週間ぶり。まんじです。
-前回は確か、畳の「縁（ヘリ）」を制作していきましたね。
-今回は細かい調節をして、いよいよ実際にテクスチャとして書き出していきます。かなりの長丁場になるので覚悟を決めてください。
-ここまでくればもう脱初心者！頑張っていきましょう。
-
-続きをみる]]></summary>
-        <author>
-            <name>#SubstanceDesignerタグ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon プライムデーセールが開催！Adobe、ワコム製品、PCパーツなど厳選アイテムを紹介！]]></title>
-        <id>https://cginterest.com/?p=60606</id>
-        <link href="https://cginterest.com/2026/07/11/amazon-%e3%83%97%e3%83%a9%e3%82%a4%e3%83%a0%e3%83%87%e3%83%bc%e3%82%bb%e3%83%bc%e3%83%ab%e3%81%8c%e9%96%8b%e5%82%ac%ef%bc%81adobe%e3%80%81%e3%83%af%e3%82%b3%e3%83%a0%e8%a3%bd%e5%93%81%e3%80%81pc/"/>
-        <updated>2026-07-11T08:48:59.000Z</updated>
-        <summary type="html"><![CDATA[Amazon スマイルセール開催！Wacomペンタブレットやグラフィックスカードがお買い得に！ セール概要 2026年7月13日(月) 23:59までの期間、Amazonスマイルセールが開催！ このセールではPCパーツや […]]]></summary>
-        <author>
-            <name>.me</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[UE環境構築ツール Dash 1.12がリリース！新しい垂直スタッキングツールや各ツールの改善、UE5.8のサポートなど]]></title>
-        <id>https://cginterest.com/?p=60597</id>
-        <link href="https://cginterest.com/2026/07/11/ue%e7%92%b0%e5%a2%83%e6%a7%8b%e7%af%89%e3%83%84%e3%83%bc%e3%83%ab-dash-1-12%e3%81%8c%e3%83%aa%e3%83%aa%e3%83%bc%e3%82%b9%ef%bc%81%e6%96%b0%e3%81%97%e3%81%84%e5%9e%82%e7%9b%b4%e3%82%b9%e3%82%bf/"/>
-        <updated>2026-07-11T03:20:51.000Z</updated>
-        <summary type="html"><![CDATA[Polygonflowは、Unreal Engine向けプラグイン「Dash」の最新アップデートである「Dash 1.12.0」を発表しました。 主な新機能 Dash 1.12.0は、既存のツール群に対する多数の小規模な […]]]></summary>
-        <author>
-            <name>.me</name>
         </author>
     </entry>
 </feed>

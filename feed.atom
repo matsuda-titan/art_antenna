@@ -2,10 +2,57 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-10T00:55:28.516Z</updated>
+    <updated>2026-08-10T04:21:26.301Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【20名限定】DaVinci Resolve 21 ～「企業内部からのイベント配信〜編集の最新フロー」～ - ニュース]]></title>
+        <id>https://cgworld.jp/flashnews/20davinci-resolve-21.html</id>
+        <link href="https://cgworld.jp/flashnews/20davinci-resolve-21.html"/>
+        <updated>2026-08-10T03:37:26.000Z</updated>
+        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【デジタルスケープ登録者限定】『カットシーン制作者座談会（演出編）-現場の思考を共有する-』開催 - ニュース]]></title>
+        <id>https://cgworld.jp/flashnews/cutscene-ds-202609.html</id>
+        <link href="https://cgworld.jp/flashnews/cutscene-ds-202609.html"/>
+        <updated>2026-08-10T03:15:42.000Z</updated>
+        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「先生や業界の方から勧められたことを、できる範囲でやってみることが大切です」行動を積み重ね、SideFXで活躍中 第122回：奥野莉奈（Houdini FX Artist / SideFX） - 連載]]></title>
+        <id>https://cgworld.jp/regular/122-okuno.html</id>
+        <link href="https://cgworld.jp/regular/122-okuno.html"/>
+        <updated>2026-08-10T01:03:00.000Z</updated>
+        <summary type="html"><![CDATA[SideFXで活躍中の奥野莉奈氏による、海外就業ストーリー。]]></summary>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ASTCなら何でも正解ではない：iOS・Androidの画像フォーマットと6×6ブロックを整理する]]></title>
+        <id>https://zenn.dev/gamedev_toollab/articles/b22ece9230e05c</id>
+        <link href="https://zenn.dev/gamedev_toollab/articles/b22ece9230e05c"/>
+        <updated>2026-08-10T01:00:14.000Z</updated>
+        <summary type="html"><![CDATA[はじめに
+Unityで比較的新しいiOS／Android端末向けのテクスチャ設定を行うとき、第一候補になりやすいのがASTCです。RGBとRGBAを同じ形式で扱え、4×4から12×12までのブロックサイズを選べるため、画質と容量の調整もしやすくなっています。
+一方で、実務では次のような疑問が残ります。
+
+ASTCを使えないiPhoneやAndroid端末は、現在も考慮すべきなのか
+AndroidはOSバージョン、OpenGL ES、Vulkan、GPUのどれで対応可否が決まるのか
+ASTC 6×6は「2の累乗」ではないが、GPUにとって不利ではないのか
+ASTC 6×6を全画像へ一律...]]></summary>
+        <author>
+            <name>GameDev Tool Lab</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Kou Nakamura氏、Isaac Simに3DGSを​持ち込みレンダリングするまでの検証記事を公開　産業用シミュレーションで​使う際の​本質的な​弱点と回避策を提示 - ニュース]]></title>
         <id>https://cgworld.jp/flashnews/01-202608-3DGS-IsaacSim.html</id>
@@ -4011,28 +4058,6 @@ Who's Next?の方は入選ならず、Rookie Awards 2026は結果はまだです
 続きをみる]]></summary>
         <author>
             <name>#Houdiniタグ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Texture Studio | 3Dペイント！ノード構築！ベイクなども搭載し多機能なテクスチャ制作ツールが登場！買い切り！Windows！]]></title>
-        <id>https://3dnchu.com/?p=1066448</id>
-        <link href="https://3dnchu.com/archives/texture-studio/"/>
-        <updated>2026-07-11T15:37:42.000Z</updated>
-        <summary type="html"><![CDATA[ねこおもち氏（@neko_omochi_vrc）が買い切りタイプの3Dテクスチャペイントツール「Texture Studio」を開発し先日Windows版がリリースされました！]]></summary>
-        <author>
-            <name>Ymt3D -3dnchu-</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AniGen を Apple Silicon Mac で動かし、1枚の画像からリグ付き3Dモデルを作る]]></title>
-        <id>https://qiita.com/kiarina/items/6c0e8d48443bed7e16c4</id>
-        <link href="https://qiita.com/kiarina/items/6c0e8d48443bed7e16c4"/>
-        <updated>2026-07-11T13:51:55.000Z</updated>
-        <summary type="html"><![CDATA[AniGen を Apple Silicon Mac で動かし、1枚の画像からリグ付き3Dモデルを作る
-こんにちは、皆さん。
-1枚のイラストから、動かせる3Dキャラクターまで自動で作れたら便利ですよね。ただ、3Dの形だけでなく、骨格と「どの骨でどこが動くか」まで作る必要が...]]></summary>
-        <author>
-            <name>3DCGタグが付けられた新着記事 - Qiita</name>
         </author>
     </entry>
 </feed>

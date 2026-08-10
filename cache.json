@@ -653,21 +653,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "https://3dnchu.com/wp-content/uploads/BumpMesh-1.0.webp"
-        },
-        {
-          "id": "https://3dnchu.com/?p=1066448",
-          "author": "Ymt3D -3dnchu-",
-          "description": "ねこおもち氏（@neko_omochi_vrc）が買い切りタイプの3Dテクスチャペイントツール「Texture Studio」を開発し先日Windows版がリリースされました！",
-          "link": "https://3dnchu.com/archives/texture-studio/",
-          "publishedOn": "2026-07-11T15:37:42.000Z",
-          "wordCount": 8678,
-          "title": "Texture Studio | 3Dペイント！ノード構築！ベイクなども搭載し多機能なテクスチャ制作ツールが登場！買い切り！Windows！",
-          "enclosure": {
-            "url": "https://3dnchu.com/wp-content/uploads/texture-studio.mp4",
-            "length": "777219",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://3dnchu.com/wp-content/uploads/texture-studio.webp"
         }
       ]
     },
@@ -676,6 +661,36 @@
       "feedUrl": "https://cgworld.jp/atom.xml",
       "siteUrl": "https://cgworld.jp/",
       "articles": [
+        {
+          "id": "https://cgworld.jp/flashnews/20davinci-resolve-21.html",
+          "author": null,
+          "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
+          "link": "https://cgworld.jp/flashnews/20davinci-resolve-21.html",
+          "publishedOn": "2026-08-10T03:37:26.000Z",
+          "wordCount": 789,
+          "title": "【20名限定】DaVinci Resolve 21 ～「企業内部からのイベント配信〜編集の最新フロー」～ - ニュース",
+          "imageUrl": "https://cgworld.jp/flashnews/assets_c/2026/08/DaVinciResolve21_1720_02-thumb-1720x860-87440.jpeg"
+        },
+        {
+          "id": "https://cgworld.jp/flashnews/cutscene-ds-202609.html",
+          "author": null,
+          "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
+          "link": "https://cgworld.jp/flashnews/cutscene-ds-202609.html",
+          "publishedOn": "2026-08-10T03:15:42.000Z",
+          "wordCount": 760,
+          "title": "【デジタルスケープ登録者限定】『カットシーン制作者座談会（演出編）-現場の思考を共有する-』開催 - ニュース",
+          "imageUrl": "https://cgworld.jp/flashnews/assets_c/2026/08/0905_banner_1720_0.png-thumb-1720x860-87434.jpeg"
+        },
+        {
+          "id": "https://cgworld.jp/regular/122-okuno.html",
+          "author": null,
+          "description": "SideFXで活躍中の奥野莉奈氏による、海外就業ストーリー。",
+          "link": "https://cgworld.jp/regular/122-okuno.html",
+          "publishedOn": "2026-08-10T01:03:00.000Z",
+          "wordCount": 782,
+          "title": "「先生や業界の方から勧められたことを、できる範囲でやってみることが大切です」行動を積み重ね、SideFXで活躍中 第122回：奥野莉奈（Houdini FX Artist / SideFX） - 連載",
+          "imageUrl": "https://cgworld.jp/regular/assets_c/2026/07/6026689c085b998c1540410dc576e23d4109a6e8-thumb-1000x565-86771.jpg"
+        },
         {
           "id": "https://cgworld.jp/flashnews/01-202608-3DGS-IsaacSim.html",
           "author": null,
@@ -2264,6 +2279,21 @@
       "siteUrl": "https://zenn.dev/topics/graphics",
       "articles": [
         {
+          "id": "https://zenn.dev/gamedev_toollab/articles/b22ece9230e05c",
+          "author": "GameDev Tool Lab",
+          "description": "はじめに\nUnityで比較的新しいiOS／Android端末向けのテクスチャ設定を行うとき、第一候補になりやすいのがASTCです。RGBとRGBAを同じ形式で扱え、4×4から12×12までのブロックサイズを選べるため、画質と容量の調整もしやすくなっています。\n一方で、実務では次のような疑問が残ります。\n\nASTCを使えないiPhoneやAndroid端末は、現在も考慮すべきなのか\nAndroidはOSバージョン、OpenGL ES、Vulkan、GPUのどれで対応可否が決まるのか\nASTC 6×6は「2の累乗」ではないが、GPUにとって不利ではないのか\nASTC 6×6を全画像へ一律...",
+          "link": "https://zenn.dev/gamedev_toollab/articles/b22ece9230e05c",
+          "publishedOn": "2026-08-10T01:00:14.000Z",
+          "wordCount": null,
+          "title": "ASTCなら何でも正解ではない：iOS・Androidの画像フォーマットと6×6ブロックを整理する",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--6feSPuxQ--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:ASTC%25E3%2581%25AA%25E3%2582%2589%25E4%25BD%2595%25E3%2581%25A7%25E3%2582%2582%25E6%25AD%25A3%25E8%25A7%25A3%25E3%2581%25A7%25E3%2581%25AF%25E3%2581%25AA%25E3%2581%2584%25EF%25BC%259AiOS%25E3%2583%25BBAndroid%25E3%2581%25AE%25E7%2594%25BB%25E5%2583%258F%25E3%2583%2595%25E3%2582%25A9%25E3%2583%25BC%25E3%2583%259E%25E3%2583%2583%25E3%2583%2588%25E3%2581%25A86%25C3%25976%25E3%2583%2596%25E3%2583%25AD%25E3%2583%2583%25E3%2582%25AF%25E3%2582%2592%25E6%2595%25B4%25E7%2590%2586%25E3%2581%2599%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:GameDev%2520Tool%2520Lab%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jTEh3ZHc0dlFfSHJUUmJ0R0JhN0V4aVg0am45MXJBYWw2eUdzaFV0am55RFY0cHVBPXMyNTAtYw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+            "length": "0",
+            "type": "false"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "https://zenn.dev/sashi0034/books/filament-md-ja",
           "author": "sashi",
           "description": "Google Filament の公式ドキュメント『Physically Based Rendering in Filament』の和訳です。マテリアル / ライティング / IBL / イメージングパイプラインなど、PBR の理論と実装についての解説があります。生成AIによる翻訳をベースにしています。",
@@ -2794,16 +2824,6 @@
           "wordCount": 728,
           "title": "ブラウザ3Dゲーム入門①:そもそもブラウザでどうやって3Dを描いているのか",
           "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYyOTY5MDk4JTJGMWEzNzExYmY0M2YwNzhiYTAxNGMyYWU2ZmUyNjBlNjQwNGUzOWMxZCUyRnhfbGFyZ2UucG5nJTNGMTc4MzY2MDUyNT9peGxpYj1yYi00LjEuMSZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9OGVmNWEwNmFjNGNlZmUyMDdlNThhMzA1MDQwNTY5M2E%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D65f6c59a68166fc9396edc2f2d787488?ixlib=rb-4.1.1&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9JUUzJTgzJTk2JUUzJTgzJUE5JUUzJTgyJUE2JUUzJTgyJUI2M0QlRTMlODIlQjIlRTMlODMlQkMlRTMlODMlQTAlRTUlODUlQTUlRTklOTYlODAlRTIlOTElQTAlM0ElRTMlODElOUQlRTMlODIlODIlRTMlODElOUQlRTMlODIlODIlRTMlODMlOTYlRTMlODMlQTklRTMlODIlQTYlRTMlODIlQjYlRTMlODElQTclRTMlODElQTklRTMlODElODYlRTMlODIlODQlRTMlODElQTMlRTMlODElQTYzRCVFMyU4MiU5MiVFNiU4RiU4RiVFMyU4MSU4NCVFMyU4MSVBNiVFMyU4MSU4NCVFMyU4MiU4QiVFMyU4MSVBRSVFMyU4MSU4QiZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnR4dC1wYWQ9MCZzPWYwZTgxZWVkM2ExYzhhYmNlMjJlNzQ1ODI0YTM5OTYz&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBmdWppbW9vb29uJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9ZDRiM2QzZDFkN2IzZjk4YTA3YjI2MTk4NjI5MzNjNTc&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=3851ee15c6a76fb590808734d98e5ed2"
-        },
-        {
-          "id": "https://qiita.com/kiarina/items/6c0e8d48443bed7e16c4",
-          "author": null,
-          "description": "AniGen を Apple Silicon Mac で動かし、1枚の画像からリグ付き3Dモデルを作る\nこんにちは、皆さん。\n1枚のイラストから、動かせる3Dキャラクターまで自動で作れたら便利ですよね。ただ、3Dの形だけでなく、骨格と「どの骨でどこが動くか」まで作る必要が...",
-          "link": "https://qiita.com/kiarina/items/6c0e8d48443bed7e16c4",
-          "publishedOn": "2026-07-11T13:51:55.000Z",
-          "wordCount": 1338,
-          "title": "AniGen を Apple Silicon Mac で動かし、1枚の画像からリグ付き3Dモデルを作る",
-          "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnFpaXRhLWltYWdlLXN0b3JlLnMzLmFtYXpvbmF3cy5jb20lMkYwJTJGNTUyNjUlMkZwcm9maWxlLWltYWdlcyUyRjE1NTQ3ODA3NzI_aXhsaWI9cmItNC4xLjEmYXI9MSUzQTEmZml0PWNyb3AmbWFzaz1lbGxpcHNlJmJnPUZGRkZGRiZmbT1wbmczMiZzPTFlOTY1NTM1MjAwZWVjMmZmN2YzNjZmZGI1Y2U3ZjJl%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D60f97ea9cc46a258de33e64631f5f1fd?ixlib=rb-4.1.1&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9QW5pR2VuJTIwJUUzJTgyJTkyJTIwQXBwbGUlMjBTaWxpY29uJTIwTWFjJTIwJUUzJTgxJUE3JUU1JThCJTk1JUUzJTgxJThCJUUzJTgxJTk3JUUzJTgwJTgxMSVFNiU5RSU5QSVFMyU4MSVBRSVFNyU5NCVCQiVFNSU4MyU4RiVFMyU4MSU4QiVFMyU4MiU4OSVFMyU4MyVBQSVFMyU4MiVCMCVFNCVCQiU5OCVFMyU4MSU4RDNEJUUzJTgzJUEyJUUzJTgzJTg3JUUzJTgzJUFCJUUzJTgyJTkyJUU0JUJEJTlDJUUzJTgyJThCJnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9MTQ2YTQ3YjJkYmFhZTRiMTYzMzUwZTBhOGRlMjFiNjQ&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBraWFyaW5hJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9NzdmOWY4NTc3OThhYjZiYzkzMDVlYTM5Mjc1NWZjYjc&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=5e3d9b445a1c15c80af459eb155dae31"
         }
       ]
     },

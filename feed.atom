@@ -2,10 +2,78 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-10T04:21:26.301Z</updated>
+    <updated>2026-08-10T09:06:34.940Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[AI Hair Toolkit | 1枚の人物画像からAIの力を借りてBlender用ヘアーカーブを生成出来るアドオン！]]></title>
+        <id>https://3dnchu.com/?p=1067102</id>
+        <link href="https://3dnchu.com/archives/ai-hair-toolkit/"/>
+        <updated>2026-08-10T07:34:47.000Z</updated>
+        <summary type="html"><![CDATA[Sunyifan氏による、1枚の正面向き人物画像からAIを活用してBlender用のヘアーカーブを生成出来るアドオン「AI Hair Toolkit」がリリースされています！ローカル環境でAI推論を行い、生成された髪をBlender標準のHair Curvesとして読み込めるため、そのままスカルプトや編集、Geometry Nodesなどを使った調整が可能です。]]></summary>
+        <author>
+            <name>Ymt3D -3dnchu-</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[アニメ業界発の自動更新ポートフォリオ「Anilink」を合同会社バフガカリがプレ公開 - ニュース]]></title>
+        <id>https://cgworld.jp/flashnews/anilink.html</id>
+        <link href="https://cgworld.jp/flashnews/anilink.html"/>
+        <updated>2026-08-10T06:19:00.000Z</updated>
+        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【2026】ゲームCGプロダクションの新人研修をご紹介します！/背景デザイナー編]]></title>
+        <id>https://note.com/bbds_blog/n/nd77e0ffa1b24</id>
+        <link href="https://note.com/bbds_blog/n/nd77e0ffa1b24"/>
+        <updated>2026-08-10T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[本日もお疲れ様です☕
+Black Beard Design Studioです。
+今年も4月から6月の2か月間、新卒社員向けに研修を行いました。
+今回も、全カリキュラムの工程をセクションごとにご紹介いたします！
+続きをみる]]></summary>
+        <author>
+            <name>#SubstanceDesignerタグ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【2026】ゲームCGプロダクションの新人研修をご紹介します！/背景デザイナー編]]></title>
+        <id>https://note.com/bbds_blog/n/nd77e0ffa1b24</id>
+        <link href="https://note.com/bbds_blog/n/nd77e0ffa1b24"/>
+        <updated>2026-08-10T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[本日もお疲れ様です☕
+Black Beard Design Studioです。
+今年も4月から6月の2か月間、新卒社員向けに研修を行いました。
+今回も、全カリキュラムの工程をセクションごとにご紹介いたします！
+続きをみる]]></summary>
+        <author>
+            <name>#substancepainterタグ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OldSchool Controller Add-on | ビューポート操作用GUIを表示させるBlenderアドオン！]]></title>
+        <id>https://3dnchu.com/?p=1066947</id>
+        <link href="https://3dnchu.com/archives/oldschool-controller-add-on/"/>
+        <updated>2026-08-10T05:13:02.000Z</updated>
+        <summary type="html"><![CDATA[Vladislav Samoilenko氏がビューポート上に操作用GUIを表示させるアドオン「OldSchool Controller Add-on」をArtstation上でリリースしています！]]></summary>
+        <author>
+            <name>Ymt3D -3dnchu-</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Atlas2Mesh | テクスチャアトラス内のアルファ形状を自動検出＆シルエットに沿ったメッシュへ変換してくれるアドオン！Blender Extensionsにて無料公開！]]></title>
+        <id>https://3dnchu.com/?p=1066636</id>
+        <link href="https://3dnchu.com/archives/atlas2mesh/"/>
+        <updated>2026-08-10T04:22:06.000Z</updated>
+        <summary type="html"><![CDATA[BHiMAX氏による、テクスチャアトラス内のアルファ形状を自動検出し、それぞれのシルエットに沿ったメッシュへ変換してくれるBlenderアドオン「Atlas2Mesh」が無料公開されています！]]></summary>
+        <author>
+            <name>Ymt3D -3dnchu-</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【20名限定】DaVinci Resolve 21 ～「企業内部からのイベント配信〜編集の最新フロー」～ - ニュース]]></title>
         <id>https://cgworld.jp/flashnews/20davinci-resolve-21.html</id>
@@ -4018,46 +4086,6 @@ The post Camera Tracker 6 – 3Dモデル位置合わせや地面検出機能が
         <summary type="html"><![CDATA[こんばんは！ 今回はアドオンの「Motiongen」を紹介します。 こちらのリンクがアドオンの商品ページになります。 Motiongen 「Motiongen」は、、動画からキャラクター用のリグ付きアニメーションを生成で […]]]></summary>
         <author>
             <name>kasahara</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3DCGコンテストに出場しました。]]></title>
-        <id>https://note.com/creatorsaki_vlog/n/n94fe4d925f60</id>
-        <link href="https://note.com/creatorsaki_vlog/n/n94fe4d925f60"/>
-        <updated>2026-07-11T20:36:21.000Z</updated>
-        <summary type="html"><![CDATA[元々、コンテストなんてまだと思っていたのですが、ブラッシュアップして出してみようかと思い、Who's Next?という日本のコンテストと、Rookie Awards 2026に出してみました。
-Who's Next?の方は入選ならず、Rookie Awards 2026は結果はまだです。
-元々このレベルでは厳しいとわかっていたし、入賞はできないとわかっていましたが、やはり悔しかったですね。
-コンテストに出した作品『聖なる夜の落とし物』
-続きをみる]]></summary>
-        <author>
-            <name>#Houdiniタグ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[私だけMissing（当時の3DCG業界は、理系の人たちばかりだった）]]></title>
-        <id>https://note.com/kibun3/n/n672f1a560c47</id>
-        <link href="https://note.com/kibun3/n/n672f1a560c47"/>
-        <updated>2026-07-11T18:08:44.000Z</updated>
-        <summary type="html"><![CDATA[NKKエレクトロニクス本部は”エクサ”に社名を変え、市ヶ谷に本社を移転した。
-そのころ商社から転職してきた営業マンのIさんが、”Studioworks/NIMBLE”に対して「こんなCGソフトは売れません！」と言ったとか言わなかったとか。
-そこらへんの詳細は知らないが、Iさんは当時CG制作会社大手オムニバスジャパンが使っていたPRISMS（現Houdini）に目を付けた。
-そして開発元のSide Effects社と契約を結び、PRISMSを販売する事になったのだ。
-必然的に私もPRISMSを覚える事になったわけだが…
-なんだ！？この超理系的ソフト！
-まるで子供の頃にあった学研の”電子ブロック”ですよ。
-色んな機能が入ったブロックがあって、つなげ方によってそれがラジオになったり、インターホンになったり。
-つまり、ユーザー任せの「なんでもできるけど、何ができるかはアナタ次第！」的なソフトなんですよ。
-いっそ私は、このソフトはこれしかできません！って言って欲しいかった。
-そんな難解なPRISMSなのに、渡されたマニュアルは木で鼻をくくったような小冊子だったし。
-正直、”隣の芝生は青く見える”じゃないけど、Alias、SoftimageとかSymbolicsがキラキラして見えたよ。
-ただ、PRISMSはマイナーだったからね。
-その分「盛り上げて行こ～！」って気持ちは強かった。
-メッチャPRISMS愛！PRISMS万歳！
-
-続きをみる]]></summary>
-        <author>
-            <name>#Houdiniタグ</name>
         </author>
     </entry>
 </feed>

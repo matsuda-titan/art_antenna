@@ -2,10 +2,45 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-10T12:43:23.289Z</updated>
+    <updated>2026-08-11T00:54:58.025Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Maxon、ZBrushによるスタイライズドハードサーフェスモデリングの様子をライブ配信　Heather Courage氏による講演 - ニュース]]></title>
+        <id>https://cgworld.jp/flashnews/01-202608-ZBrush-HSurface.html</id>
+        <link href="https://cgworld.jp/flashnews/01-202608-ZBrush-HSurface.html"/>
+        <updated>2026-08-10T23:29:51.000Z</updated>
+        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Is AI About to Change Movies Forever?（AIは映画の世界を永遠に変えてしまうのか？） | VFXアーティストが従来のCG・VFXと生成AIで同じ映像制作に挑戦！その実力を徹底比較]]></title>
+        <id>https://3dnchu.com/?p=1067130</id>
+        <link href="https://3dnchu.com/archives/is-ai-about-to-change-movies-forever-erikdoesvfx/"/>
+        <updated>2026-08-10T16:10:59.000Z</updated>
+        <summary type="html"><![CDATA[VFXアーティスト／YouTuberのErikDoesVFX氏が、従来のCG・VFX制作と最新の生成AIを使って同じコンセプトの映像制作に挑戦し、その違いを比較しています。]]></summary>
+        <author>
+            <name>Ymt3D -3dnchu-</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[個人開発でデッサン人形/ポージングサイトを公開した2年後の話]]></title>
+        <id>https://zenn.dev/yosipy/articles/f6c6be96b2f1ef</id>
+        <link href="https://zenn.dev/yosipy/articles/f6c6be96b2f1ef"/>
+        <updated>2026-08-10T14:56:21.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは。
+最近、原作を読んでいた作品のアニメに拒否反応が出て見れなくて困っているyosiです。
+僕は個人開発の記事を見るのが好きですし、自分で個人開発をするのも好きです。
+個人開発というテーマは夢があって好きな人は多いと思います。
+記事を書くと優しい人がいいねをおいていってくれやすい気がします。
+しかし、実際に難しいのは公開した後で、多くのサービスがユーザーを集めることと継続することができずにひっそりとcloseしています。個人開発のブログを漁っていて、サービスのURLにアクセスするとサーバーが停止していたりドメインが既に手放されていることはよくあります。手間もお金もかかるので自分も...]]></summary>
+        <author>
+            <name>yosi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AI Hair Toolkit | 1枚の人物画像からAIの力を借りてBlender用ヘアーカーブを生成出来るアドオン！]]></title>
         <id>https://3dnchu.com/?p=1067102</id>
@@ -3963,139 +3998,6 @@ DirectX 11 上で実装したアニメ調トゥーンシェーダーの世界に
 DirectX 11 上で実装したアニメ調トゥーンシェーダーの世界に、数が動的に変化する複数の点光源（松明・焚き火・魔法エフェクトの光など）を追加したときの設計と実装をまとめます。単に「ポイントライトの計算式を足す」だ...]]></summary>
         <author>
             <name>HLSLタグが付けられた新着記事 - Qiita</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[フォトグラメトリ数学シリーズ総まとめ【目次・ロードマップ】]]></title>
-        <id>https://zenn.dev/s_hashida/articles/d0e5e635e1ba0e</id>
-        <link href="https://zenn.dev/s_hashida/articles/d0e5e635e1ba0e"/>
-        <updated>2026-07-12T12:49:02.000Z</updated>
-        <summary type="html"><![CDATA[はじめに
-「フォトグラメトリ数学」シリーズでは、
-
-フォトグラメトリ（写真測量）
-コンピュータビジョン
-Structure from Motion（SfM）
-SLAM
-衛星測量
-
-などで利用される数学やアルゴリズムについて、できるだけ直感的に理解できるよう整理しています。
-記事数も増えてきたため、本記事ではシリーズ全体をカテゴリごとに整理しました。
-フォトグラメトリを初めて学ぶ方はもちろん、
-
-特定の分野だけ学びたい方
-過去の記事を探したい方
-
-にも活用いただけるよう、ロードマップ形式でまとめています。
-また、本記事はシリーズの更新に合わせて随時更新していきます。
-
- シリーズ全体...]]></summary>
-        <author>
-            <name>s_hashida</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BumpMesh 1.0 | 3Dプリント用データ向けにメッシュの表面に凹凸のあるディテールを追加出来るブラウザツール！]]></title>
-        <id>https://3dnchu.com/?p=1066469</id>
-        <link href="https://3dnchu.com/archives/bumpmesh-1-0/"/>
-        <updated>2026-07-12T10:33:25.000Z</updated>
-        <summary type="html"><![CDATA[CNC Kitchenが3Dプリント用データに対して表面に凹凸のあるディテールを追加出来るブラウザツール「BumpMesh 1.0」を公開しています！]]></summary>
-        <author>
-            <name>Ymt3D -3dnchu-</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[〆切2026年07月24日] Unityで描く「夏」の風景。アジア合同キャンペーン「Unity Summer Challenge」が開催]]></title>
-        <id>https://cginterest.com/?p=60622</id>
-        <link href="https://cginterest.com/2026/07/12/%e3%80%86%e5%88%872026%e5%b9%b407%e6%9c%8824%e6%97%a5-unity%e3%81%a7%e6%8f%8f%e3%81%8f%e3%80%8c%e5%a4%8f%e3%80%8d%e3%81%ae%e9%a2%a8%e6%99%af%e3%80%82%e3%82%a2%e3%82%b8%e3%82%a2%e5%90%88%e5%90%8c/"/>
-        <updated>2026-07-12T08:46:31.000Z</updated>
-        <summary type="html"><![CDATA[ユニティ・テクノロジーズ主催のアジア圏のUnityコミュニティに向けた参加型キャンペーン「Unity Summer Challenge（Unity サマーチャレンジ）」の開催情報です。 Unity Summer Chal […]]]></summary>
-        <author>
-            <name>.me</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[〆切2026年07月19日] 第三十六回デジタル塗り絵コンテスト「塗りマス！」ペルソナ５とコラボ！]]></title>
-        <id>https://cginterest.com/?p=60613</id>
-        <link href="https://cginterest.com/2026/07/12/%e3%80%86%e5%88%872026%e5%b9%b407%e6%9c%8819%e6%97%a5-%e7%ac%ac%e4%b8%89%e5%8d%81%e5%85%ad%e5%9b%9e%e3%83%87%e3%82%b8%e3%82%bf%e3%83%ab%e5%a1%97%e3%82%8a%e7%b5%b5%e3%82%b3%e3%83%b3%e3%83%86%e3%82%b9/"/>
-        <updated>2026-07-12T08:18:17.000Z</updated>
-        <summary type="html"><![CDATA[株式会社セルシスと株式会社アイビスが共催する、第三十六回デジタル塗り絵コンテスト「塗りマス！」の開催情報です。 コンテスト概要 「塗りマス！」は、指定の線画に自由な端末やアプリで彩色し、SNSへ投稿することで参加できるデ […]]]></summary>
-        <author>
-            <name>.me</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GPUがモニターに色を描画するまでを、擬似コードで理解する備忘録]]></title>
-        <id>https://zenn.dev/sippooo/articles/how-gpu-works-sippo</id>
-        <link href="https://zenn.dev/sippooo/articles/how-gpu-works-sippo"/>
-        <updated>2026-07-12T08:00:53.000Z</updated>
-        <summary type="html"><![CDATA[!
-この記事について
-友人との会話でGPUの話にまったくついていけなかったので、調べながら自分用に軽くまとめた備忘録です。
-擬似コードで理解するようにしたら、なかなかわかりやすかった気がするので、雑に公開します。
-この記事でつかっているコードブロックは、すべて擬似コードです。
-動きません。不正確です。
-でも概念的な理解の助けになると思います。
-
-// 共通の基本型
-type vec2 = [number, number]; // UV座標など (x, y)
-type vec3 = [number, number, number]; // 法線ベクトルなど (x, y, z)
-type C...]]></summary>
-        <author>
-            <name>Sippo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GPUがモニターに色を描画するまでを、擬似コードで理解する備忘録]]></title>
-        <id>https://zenn.dev/sippooo/articles/how-gpu-works-sippo</id>
-        <link href="https://zenn.dev/sippooo/articles/how-gpu-works-sippo"/>
-        <updated>2026-07-12T08:00:53.000Z</updated>
-        <summary type="html"><![CDATA[!
-この記事について
-友人との会話でGPUの話にまったくついていけなかったので、調べながら自分用に軽くまとめた備忘録です。
-擬似コードで理解するようにしたら、なかなかわかりやすかった気がするので、雑に公開します。
-この記事でつかっているコードブロックは、すべて擬似コードです。
-動きません。不正確です。
-でも概念的な理解の助けになると思います。
-
-// 共通の基本型
-type vec2 = [number, number]; // UV座標など (x, y)
-type vec3 = [number, number, number]; // 法線ベクトルなど (x, y, z)
-type C...]]></summary>
-        <author>
-            <name>Sippo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Forgotten Metal Knowledge– アイアンマンの金属表現から学ぶ「二重反射」の秘密！CGでリアルな金属表現を実現する反射の仕組みを解説した動画]]></title>
-        <id>https://modelinghappy.com/?p=69373</id>
-        <link href="https://modelinghappy.com/archives/69373"/>
-        <updated>2026-07-12T04:23:13.000Z</updated>
-        <summary type="html"><![CDATA[ILMでジェネラリストとして活躍するLucas Piazziniさんが、CGにおける金属表現を探る動画、Forgotten Metal Knowledgeが公開されています。 Lucas Piazziniさんが見つけたの
-The post Forgotten Metal Knowledge– アイアンマンの金属表現から学ぶ「二重反射」の秘密！CGでリアルな金属表現を実現する反射の仕組みを解説した動画 first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
-        <author>
-            <name>modelinghappy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Camera Tracker 6 – 3Dモデル位置合わせや地面検出機能が追加されたBlender向けカメラマッチングアドオン]]></title>
-        <id>https://modelinghappy.com/?p=69363</id>
-        <link href="https://modelinghappy.com/archives/69363"/>
-        <updated>2026-07-12T03:35:09.000Z</updated>
-        <summary type="html"><![CDATA[Camera Tracker 6 Blender向けカメラマッチングアドオン「Camera Tracker 6」に新機能が追加されました。 今回のアップデートでは、3Dモデルの位置合わせや任意の3Dポイント作成、三脚撮影
-The post Camera Tracker 6 – 3Dモデル位置合わせや地面検出機能が追加されたBlender向けカメラマッチングアドオン first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
-        <author>
-            <name>modelinghappy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【アドオン紹介】Motiongen – 動画から自動でアニメーションを作成できるアドオン]]></title>
-        <id>https://cgbox.jp/?p=65480</id>
-        <link href="https://cgbox.jp/2026/07/12/news-addon-motiongen/"/>
-        <updated>2026-07-12T01:06:44.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは！ 今回はアドオンの「Motiongen」を紹介します。 こちらのリンクがアドオンの商品ページになります。 Motiongen 「Motiongen」は、、動画からキャラクター用のリグ付きアニメーションを生成で […]]]></summary>
-        <author>
-            <name>kasahara</name>
         </author>
     </entry>
 </feed>

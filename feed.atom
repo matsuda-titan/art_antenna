@@ -2,10 +2,87 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-12T12:42:30.052Z</updated>
+    <updated>2026-08-13T01:03:01.774Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Media Plane – MayaにMP4・MOV動画を直接読み込んでリファレンス表示できるプラグイン]]></title>
+        <id>https://modelinghappy.com/?p=69932</id>
+        <link href="https://modelinghappy.com/archives/69932"/>
+        <updated>2026-08-13T01:00:58.000Z</updated>
+        <summary type="html"><![CDATA[Media Plane Media Planeは、Mayaのビューポート上にMP4やMOVなどの動画ファイルを直接読み込み、再生・スクラブ・編集まで行えるプラグインです。 Mayaで動画をリファレンスとして使用する場合、
+The post Media Plane – MayaにMP4・MOV動画を直接読み込んでリファレンス表示できるプラグイン first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
+        <author>
+            <name>modelinghappy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[『機動警察パトレイバー EZY』プリプロから3Dが支えるレイバーたちの活躍！〜No.2／リギング＆カット制作篇 - 特集]]></title>
+        <id>https://cgworld.jp/article/336-ezy-patlabor02.html</id>
+        <link href="https://cgworld.jp/article/336-ezy-patlabor02.html"/>
+        <updated>2026-08-13T01:00:38.000Z</updated>
+        <summary type="html"><![CDATA[『機動警察パトレイバー EZY』のアニメCGメイキングを紹介。]]></summary>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[じゃむぞう氏、ブラウザで動作する毛束モデリングツール「カミジャム」HTMLファイル無償配布　OBJ形式の読み書きに対応、商用利用可 - ニュース]]></title>
+        <id>https://cgworld.jp/flashnews/01-202608-KamiJam.html</id>
+        <link href="https://cgworld.jp/flashnews/01-202608-KamiJam.html"/>
+        <updated>2026-08-12T23:02:10.000Z</updated>
+        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Viewport Light | UEのビューポートカメラにライトを追従！暗いシーンでの作業を快適にする無料プラグイン！]]></title>
+        <id>https://3dnchu.com/?p=1067164</id>
+        <link href="https://3dnchu.com/archives/viewport-light/"/>
+        <updated>2026-08-12T17:34:55.000Z</updated>
+        <summary type="html"><![CDATA[Dret氏が、Unreal Engineのビューポートカメラにライトを追従させ、暗いシーンでも形状を確認しやすくする無料プラグイン「Viewport Light」を公開しています。 Viewport Light 「Viewport Light」は、Unreal EditorのビューポートカメラにPo […]
+続きを読む]]></summary>
+        <author>
+            <name>Ymt3D -3dnchu-</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GitHub Copilot CLIをMaya,Houdiniへ接続させて操作したら思ったより便利だった話]]></title>
+        <id>https://qiita.com/Takeshi_Saito/items/ef6a2918ab5efd190adc</id>
+        <link href="https://qiita.com/Takeshi_Saito/items/ef6a2918ab5efd190adc"/>
+        <updated>2026-08-12T12:54:17.000Z</updated>
+        <summary type="html"><![CDATA[AI に Maya や Houdini などの DCC ツールを操作させるとき、その結果はどう確認していますか。
+2026年8月時点で、私は GitHub Copilot CLI を Houdini と Maya に接続し、GUI で確認しながら AI に開発してもらう形で...]]></summary>
+        <author>
+            <name>mayaタグが付けられた新着記事 - Qiita</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GitHub Copilot CLIをMaya,Houdiniへ接続させて操作したら思ったより便利だった話]]></title>
+        <id>https://zenn.dev/fukaunabara/articles/c09ffc9786d413</id>
+        <link href="https://zenn.dev/fukaunabara/articles/c09ffc9786d413"/>
+        <updated>2026-08-12T12:36:15.000Z</updated>
+        <summary type="html"><![CDATA[AI に Maya や Houdini などの DCC ツールを操作させるとき、その結果はどう確認していますか。
+2026年8月時点で、私は GitHub Copilot CLI を Houdini と Maya に接続し、GUI で確認しながら AI に開発してもらう形で運用しています。以前は hython 経由で編集していました。しかし、編集のたびにノードの状態を目視で確認できず、確認と修正のループが遅いことが悩みでした。そこで、GUI で目視確認しながら AI に編集してもらうことで、このループを速くすることにしました。
+本記事では、Houdini と Maya での接続方法と到達...]]></summary>
+        <author>
+            <name>Takeshi Saito</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GitHub Copilot CLIをMaya,Houdiniへ接続させて操作したら思ったより便利だった話]]></title>
+        <id>https://zenn.dev/fukaunabara/articles/c09ffc9786d413</id>
+        <link href="https://zenn.dev/fukaunabara/articles/c09ffc9786d413"/>
+        <updated>2026-08-12T12:36:15.000Z</updated>
+        <summary type="html"><![CDATA[AI に Maya や Houdini などの DCC ツールを操作させるとき、その結果はどう確認していますか。
+2026年8月時点で、私は GitHub Copilot CLI を Houdini と Maya に接続し、GUI で確認しながら AI に開発してもらう形で運用しています。以前は hython 経由で編集していました。しかし、編集のたびにノードの状態を目視で確認できず、確認と修正のループが遅いことが悩みでした。そこで、GUI で目視確認しながら AI に編集してもらうことで、このループを速くすることにしました。
+本記事では、Houdini と Maya での接続方法と到達...]]></summary>
+        <author>
+            <name>Takeshi Saito</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[After Effects Betaに新機能搭載！「AI Assistant」で自然な言語でエクスプレッション作成やプロジェクト整理が可能に]]></title>
         <id>https://modelinghappy.com/?p=69921</id>
@@ -4040,88 +4117,6 @@ The post 道路の陥没から植物に覆われた廃墟まで！Blenderで簡�
         <summary type="html"><![CDATA[Google Filament の公式ドキュメント『Physically Based Rendering in Filament』の和訳です。マテリアル / ライティング / IBL / イメージングパイプラインなど、PBR の理論と実装についての解説があります。生成AIによる翻訳をベースにしています。]]></summary>
         <author>
             <name>sashi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nyanneco Shadow Mask Generator マニュアル]]></title>
-        <id>https://note.com/nyanneco/n/n9427953f92b0</id>
-        <link href="https://note.com/nyanneco/n/n9427953f92b0"/>
-        <updated>2026-07-14T10:23:58.000Z</updated>
-        <summary type="html"><![CDATA[このジェネレータについて
-Nyanneco shadow Mask generatorは、Substance 3D Painterでイラスト調の影マスクを作るMesh Based Generatorです。メッシュ法線、位置、ベイク済みMesh Map、任意のAnchor入力を組み合わせ、1影・2影・3影を生成します。
-続きをみる]]></summary>
-        <author>
-            <name>#substancepainterタグ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[次世代エース募集。才能を発揮できる環境がここにはある。 【8/7（金）リアル開催】サイバーエージェント クリエイター向け中途採用説明会開催。 - ニュース]]></title>
-        <id>https://cgworld.jp/flashnews/2607-cyberagent02.html</id>
-        <link href="https://cgworld.jp/flashnews/2607-cyberagent02.html"/>
-        <updated>2026-07-14T04:10:47.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[『スマスロ ミリオンゴッド』のユニバーサルエンターテインメント社が、遊技機の現場の標準PCにマウスコンピューター「DAIV」を選ぶ理由 - スペシャルコンテンツ]]></title>
-        <id>https://cgworld.jp/special-feature/2606-mouse-universal.html</id>
-        <link href="https://cgworld.jp/special-feature/2606-mouse-universal.html"/>
-        <updated>2026-07-14T03:05:00.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Spiderman VS MechaGodzilla | Raffo VFXによるBlenderをフル活用したスパイダーマンVSメカゴジラのファンメイドショートフィルム！動作ったのかの解説メイキングと本編が公開！]]></title>
-        <id>https://3dnchu.com/?p=1066410</id>
-        <link href="https://3dnchu.com/archives/spiderman-vs-mechagodzilla-raffo-vfx/"/>
-        <updated>2026-07-14T02:58:09.000Z</updated>
-        <summary type="html"><![CDATA[Raffo VFXによるBlenderをフル活用したスパイダーマンVSメカゴジラのファンメイドショートフィルム「Spiderman VS MechaGodzilla」の本編とメイキング映像が公開されています！]]></summary>
-        <author>
-            <name>Ymt3D -3dnchu-</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【アドオン紹介】Transform FX Pro – 変形アニメーションを自動化！]]></title>
-        <id>https://cgbox.jp/?p=65495</id>
-        <link href="https://cgbox.jp/2026/07/14/news-addon-transform-fx-pro/"/>
-        <updated>2026-07-14T02:04:47.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは！ 今回はアドオンの「Transform FX Pro」を紹介します。 こちらのリンクがアドオンの商品ページになります。 Transform FX Pro 「Transform FX Pro」は、、Blende […]]]></summary>
-        <author>
-            <name>kasahara</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Blenderでプロシージャルに道路生成ができる無料ツール「MRoadGen」]]></title>
-        <id>https://cginterest.com/?p=60584</id>
-        <link href="https://cginterest.com/2026/07/14/blender%e3%81%a7%e3%83%97%e3%83%ad%e3%82%b7%e3%83%bc%e3%82%b8%e3%83%a3%e3%83%ab%e3%81%ab%e9%81%93%e8%b7%af%e7%94%9f%e6%88%90%e3%81%8c%e3%81%a7%e3%81%8d%e3%82%8b%e7%84%a1%e6%96%99%e3%82%a2%e3%83%89/"/>
-        <updated>2026-07-14T01:54:35.000Z</updated>
-        <summary type="html"><![CDATA[Maarten Nauta氏によるBlender向けの無料道路生成ツール「MRoadGen (RoadGen for Blender)」の紹介です。 MRoadGenとは MRoadGenは、Blender 5.0以上で […]]]></summary>
-        <author>
-            <name>.me</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【無料アドオン】Universal Multi Importer – 複数形式のファイルを一括インポート！]]></title>
-        <id>https://cgbox.jp/?p=65490</id>
-        <link href="https://cgbox.jp/2026/07/14/news-addon-universal-multi-importer/"/>
-        <updated>2026-07-14T01:48:48.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは！ 今回はアドオンの「Universal Multi Importer」を紹介します。 こちらのリンクがアドオンの商品ページになります。 Universal Multi Importer 「Universal  […]]]></summary>
-        <author>
-            <name>kasahara</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[オートデスク協賛 MotionMaker × 新スキンツール：Maya 制作現場のワークフロー効率化ウェビナー]]></title>
-        <id>https://area.autodesk.jp/event/autodesk/maya-motionmaker-new-skin-webinar/</id>
-        <link href="https://area.autodesk.jp/event/autodesk/maya-motionmaker-new-skin-webinar/"/>
-        <updated>2026-07-14T01:00:00.000Z</updated>
-        <summary type="html"><![CDATA[MotionMaker × 新スキンツール：Maya 制作現場のワークフロー効率化ウェビナー 				 				 					 				 				 					Maya 2027新機能を検証。株式会社クリーク･アンド･リバー社のTAチームが検証結果を報告！ 					Maya 2027 がリリースされ、新しい機能に期待を寄...・・・]]></summary>
-        <author>
-            <name>AREA JAPAN | Autodesk</name>
         </author>
     </entry>
 </feed>

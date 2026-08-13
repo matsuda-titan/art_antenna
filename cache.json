@@ -12,6 +12,21 @@
       "siteUrl": "https://cgbox.jp",
       "articles": [
         {
+          "id": "https://cgbox.jp/?p=65573",
+          "author": "kasahara",
+          "description": "こんばんは！ 今回はアドオンの「Cut Plane」を紹介します。 こちらのリンクがアドオンの商品ページになります。 Cut Plane 「Cut Plane」は、Blenderで平面を使ってメッシュをリアルタイムに切断 […]",
+          "link": "https://cgbox.jp/2026/08/13/news-addon-cut-plane/",
+          "publishedOn": "2026-08-13T02:49:25.000Z",
+          "wordCount": 2002,
+          "title": "【無料アドオン】Cut Plane – 特定の平面でオブジェクトをカット！",
+          "enclosure": {
+            "url": "https://cgbox.jp/wp-content/uploads/2026/08/01cd66885a091c8c41d6efd5c559fa98.mp4",
+            "length": "0",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://cgbox.jp/wp-content/uploads/2026/08/e179eb4c681f4d8c412bbb67fe13306990c1cf993505681cd18fc0a55c637046_1920x1080.webp"
+        },
+        {
           "id": "https://cgbox.jp/?p=65563",
           "author": "kasahara",
           "description": "こんばんは！ 今回はアドオンの「Achievements」を紹介します。 こちらのリンクがアドオンの商品ページになります。 Achievements 「Achievements」は、Blenderでの作業に実績解除システ […]",
@@ -1599,6 +1614,16 @@
       "siteUrl": "https://modelinghappy.com",
       "articles": [
         {
+          "id": "https://modelinghappy.com/?p=69938",
+          "author": "modelinghappy",
+          "description": "SnapMove — 狙ったところへ、狙った軸で ふぐさんがBlenderで利用できる「SnapMove」アドオンをリリースしました。 Blender標準機能でもオブジェクトを面・辺・頂点にスナップできますが、斜めの面に\nThe post SnapMove – 面・辺・頂点をクリックして手数を減らしながらオブジェクトを正確に配置できる無料Blenderアドオン first appeared on 3DCG最新情報サイト MODELING HAPPY.",
+          "link": "https://modelinghappy.com/archives/69938",
+          "publishedOn": "2026-08-13T03:28:02.000Z",
+          "wordCount": 3037,
+          "title": "SnapMove – 面・辺・頂点をクリックして手数を減らしながらオブジェクトを正確に配置できる無料Blenderアドオン",
+          "imageUrl": "https://modelinghappy.com/wp-content/uploads/2026/08/20260813_SnapMove.jpg"
+        },
+        {
           "id": "https://modelinghappy.com/?p=69932",
           "author": "modelinghappy",
           "description": "Media Plane Media Planeは、Mayaのビューポート上にMP4やMOVなどの動画ファイルを直接読み込み、再生・スクラブ・編集まで行えるプラグインです。 Mayaで動画をリファレンスとして使用する場合、\nThe post Media Plane – MayaにMP4・MOV動画を直接読み込んでリファレンス表示できるプラグイン first appeared on 3DCG最新情報サイト MODELING HAPPY.",
@@ -2232,6 +2257,21 @@
       "siteUrl": "https://zenn.dev/topics/shader",
       "articles": [
         {
+          "id": "https://zenn.dev/kafka2306/articles/unity-vrchat-shader-troubleshooting-qa",
+          "author": "かふか",
+          "description": "VRだけ二重に見えた。Shaderを疑って遠回りした末に、Uploaderの中断へ辿り着いた\nDesktopでは正常なのに、VRでは左右眼で二重に見える。\nこの症状を見て、最初はShaderを疑いました。Stereo Renderingでは左右眼の描画経路が分かれ、custom Shader側の対応不足でVRだけ壊れることは実際にあります。UnityもSingle Pass Stereo / Single Pass Instanced向けの実装要件を公式に説明しています。\n\nUnity Stereo Rendering: https://docs.unity3d.com/2022.3...",
+          "link": "https://zenn.dev/kafka2306/articles/unity-vrchat-shader-troubleshooting-qa",
+          "publishedOn": "2026-08-12T10:46:00.000Z",
+          "wordCount": null,
+          "title": "VRだけ二重に見えた。Shaderを疑って遠回りした末に、Uploaderの中断へ辿り着いた",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--iTbUZpo7--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:VR%25E3%2581%25A0%25E3%2581%2591%25E4%25BA%258C%25E9%2587%258D%25E3%2581%25AB%25E8%25A6%258B%25E3%2581%2588%25E3%2581%259F%25E3%2580%2582Shader%25E3%2582%2592%25E7%2596%2591%25E3%2581%25A3%25E3%2581%25A6%25E9%2581%25A0%25E5%259B%259E%25E3%2582%258A%25E3%2581%2597%25E3%2581%259F%25E6%259C%25AB%25E3%2581%25AB%25E3%2580%2581Uploader%25E3%2581%25AE%25E4%25B8%25AD%25E6%2596%25AD%25E3%2581%25B8%25E8%25BE%25BF%25E3%2582%258A%25E7%259D%2580%25E3%2581%2584%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%258B%25E3%2581%25B5%25E3%2581%258B%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2EzZDU4NDI2ZDYuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+            "length": "0",
+            "type": "false"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "https://zenn.dev/sumcol03/articles/f4133b01d9f3e1",
           "author": "夏風邪",
           "description": "【Unity】Shader Graphで地面にグリッド線を表示する\nUnityでステージを制作していると、地面に一定間隔のグリッド線を表示したくなることがあります。\n例えば、\n\n建築・シミュレーションゲームのマス目\nRTSの配置エリア\n開発中のデバッグ表示\n\nなどです。\n最初はグリッド画像をテクスチャとして貼る方法を考えましたが、\n\nグリッドの間隔を変更したい\n線の太さを変えたい\nテクスチャを作り直したくない\n\nといった理由から、Shader Graphで実装することにしました。\n完成すると、このようなマテリアルになります。\n\nGrid Size：グリッドの間隔\nLine Width...",
@@ -2308,21 +2348,6 @@
           "title": "ASTCなら何でも正解ではない：iOS・Androidの画像フォーマットと6×6ブロックを整理する",
           "enclosure": {
             "url": "https://res.cloudinary.com/zenn/image/upload/s--6feSPuxQ--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:ASTC%25E3%2581%25AA%25E3%2582%2589%25E4%25BD%2595%25E3%2581%25A7%25E3%2582%2582%25E6%25AD%25A3%25E8%25A7%25A3%25E3%2581%25A7%25E3%2581%25AF%25E3%2581%25AA%25E3%2581%2584%25EF%25BC%259AiOS%25E3%2583%25BBAndroid%25E3%2581%25AE%25E7%2594%25BB%25E5%2583%258F%25E3%2583%2595%25E3%2582%25A9%25E3%2583%25BC%25E3%2583%259E%25E3%2583%2583%25E3%2583%2588%25E3%2581%25A86%25C3%25976%25E3%2583%2596%25E3%2583%25AD%25E3%2583%2583%25E3%2582%25AF%25E3%2582%2592%25E6%2595%25B4%25E7%2590%2586%25E3%2581%2599%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:GameDev%2520Tool%2520Lab%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jTEh3ZHc0dlFfSHJUUmJ0R0JhN0V4aVg0am45MXJBYWw2eUdzaFV0am55RFY0cHVBPXMyNTAtYw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
-            "length": "0",
-            "type": "false"
-          },
-          "imageUrl": null
-        },
-        {
-          "id": "https://zenn.dev/sashi0034/books/filament-md-ja",
-          "author": "sashi",
-          "description": "Google Filament の公式ドキュメント『Physically Based Rendering in Filament』の和訳です。マテリアル / ライティング / IBL / イメージングパイプラインなど、PBR の理論と実装についての解説があります。生成AIによる翻訳をベースにしています。",
-          "link": "https://zenn.dev/sashi0034/books/filament-md-ja",
-          "publishedOn": "2026-07-14T13:55:30.000Z",
-          "wordCount": null,
-          "title": "Filament — Physically Based Rendering (和訳)",
-          "enclosure": {
-            "url": "https://res.cloudinary.com/zenn/image/upload/s--AV0-MPaR--/g_center%2Ch_280%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYm9va19jb3Zlci9iODRiN2FiNDNiLnBuZw==%2Cw_200/v1627283836/default/og-base-book_yz4z02.jpg?_a=BACMTiAE",
             "length": "0",
             "type": "false"
           },
@@ -2439,6 +2464,21 @@
       "feedUrl": "https://zenn.dev/topics/3dcg/feed",
       "siteUrl": "https://zenn.dev/topics/3dcg",
       "articles": [
+        {
+          "id": "https://zenn.dev/zelk96/articles/blender_day01_development_log",
+          "author": "黒暁",
+          "description": "はじめに\n今日からBlenderを使った3DCGの学習を始めました。\nこれまで3DCGにはほとんど触れたことがなく、Blenderのインストールから始める完全な初心者です。最初は自分のPCで動くのか少し不安でしたが、無事に起動でき、初日の課題として簡単な机を完成させるところまで進められました。\n今回は細かな操作をすべて暗記することよりも、モデリングからレンダリングまでの一連の流れを体験することを目標にしました。\n\n 使用環境\n\nBlender 5.2.0\nWindows\nCPU：Intel Core i7-8700\nGPU：NVIDIA GeForce GTX 1660 Ti（VRA...",
+          "link": "https://zenn.dev/zelk96/articles/blender_day01_development_log",
+          "publishedOn": "2026-08-13T03:00:09.000Z",
+          "wordCount": 703,
+          "title": "【Blender学習 Day 1】初めての3Dモデリングで机を作ってみた",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--3bVaMYk---/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2580%2590Blender%25E5%25AD%25A6%25E7%25BF%2592%2520Day%25201%25E3%2580%2591%25E5%2588%259D%25E3%2582%2581%25E3%2581%25A6%25E3%2581%25AE3D%25E3%2583%25A2%25E3%2583%2587%25E3%2583%25AA%25E3%2583%25B3%25E3%2582%25B0%25E3%2581%25A7%25E6%259C%25BA%25E3%2582%2592%25E4%25BD%259C%25E3%2581%25A3%25E3%2581%25A6%25E3%2581%25BF%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E9%25BB%2592%25E6%259A%2581%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jSk1kekJoQmJQWHQyMG5oOWljTDZmakRxMWpVRk5tcEtPN1U5NG1jYTRPMjBaRFlEb0Y9czI1MC1j%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+            "length": "0",
+            "type": "false"
+          },
+          "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--3bVaMYk---/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2580%2590Blender%25E5%25AD%25A6%25E7%25BF%2592%2520Day%25201%25E3%2580%2591%25E5%2588%259D%25E3%2582%2581%25E3%2581%25A6%25E3%2581%25AE3D%25E3%2583%25A2%25E3%2583%2587%25E3%2583%25AA%25E3%2583%25B3%25E3%2582%25B0%25E3%2581%25A7%25E6%259C%25BA%25E3%2582%2592%25E4%25BD%259C%25E3%2581%25A3%25E3%2581%25A6%25E3%2581%25BF%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E9%25BB%2592%25E6%259A%2581%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jSk1kekJoQmJQWHQyMG5oOWljTDZmakRxMWpVRk5tcEtPN1U5NG1jYTRPMjBaRFlEb0Y9czI1MC1j%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+        },
         {
           "id": "https://zenn.dev/s_hashida/articles/f60a2229238093",
           "author": "s_hashida",
@@ -3441,6 +3481,16 @@
       "siteUrl": "https://3d.crdg.jp/env/",
       "articles": [
         {
+          "id": "https://3d.crdg.jp/env/?p=9436",
+          "author": "Kaho.Nobukawa",
+          "description": "木などの自然物や布などを作成する際、このような歪んだ四角フェースができやすいと思います。 このようなフェースはMaya上で問題なく見えても、ゲームエン […]\n続きを読む\n投稿 【Maya】歪んだ四角フェースは三角化しよう は エンホリ - ENVIRONMENT HOLIC｜C&R Creative Studios に最初に表示されました。",
+          "link": "https://3d.crdg.jp/env/2026/08/13/9436/?utm_source=rss&utm_medium=rss&utm_campaign=%25e3%2580%2590maya%25e3%2580%2591%25e6%25ad%25aa%25e3%2582%2593%25e3%2581%25a0%25e5%259b%259b%25e8%25a7%2592%25e3%2583%2595%25e3%2582%25a7%25e3%2583%25bc%25e3%2582%25b9%25e3%2581%25af%25e4%25b8%2589%25e8%25a7%2592%25e5%258c%2596%25e3%2581%2597%25e3%2582%2588%25e3%2581%2586",
+          "publishedOn": "2026-08-13T03:07:17.000Z",
+          "wordCount": 3177,
+          "title": "【Maya】歪んだ四角フェースは三角化しよう",
+          "imageUrl": "https://3d.crdg.jp/env/wp-content/uploads/2026/08/thumbnail.png"
+        },
+        {
           "id": "https://3d.crdg.jp/env/?p=9586",
           "author": "Soichiro.Hashii",
           "description": "今回はゲーム制作における最適化についてお話します。 最適化とは？ ゲームを発売する為に実装データの無駄を可能な限り削ぎ落とし、最終的な製品の品質を確保 […]\n続きを読む\n投稿 【ゲーム制作知識】最適化について は エンホリ - ENVIRONMENT HOLIC｜C&R Creative Studios に最初に表示されました。",
@@ -3512,6 +3562,21 @@
       "feedUrl": "https://cginterest.com/feed/",
       "siteUrl": "https://cginterest.com",
       "articles": [
+        {
+          "id": "https://cginterest.com/?p=61620",
+          "author": ".me",
+          "description": "2026年8月7日（現地時間） – Alibaba GroupのTongyi Labは、キャラクターアニメーション生成モデル「Wan-Animate-2」を公開しました。推論スクリプト、Baseモデル、蒸留モデルの重みが […]",
+          "link": "https://cginterest.com/2026/08/13/alibaba%e3%80%81%e3%82%ad%e3%83%a3%e3%83%a9%e3%82%af%e3%82%bf%e3%83%bc%e3%82%a2%e3%83%8b%e3%83%a1%e3%83%bc%e3%82%b7%e3%83%a7%e3%83%b3%e7%94%9f%e6%88%90%e3%83%a2%e3%83%87%e3%83%ab%e3%80%8cwan-animate-2/",
+          "publishedOn": "2026-08-13T03:20:53.000Z",
+          "wordCount": 2775,
+          "title": "Alibaba、キャラクターアニメーション生成モデル「Wan-Animate-2」を公開 ― ComfyUIもネイティブ対応",
+          "enclosure": {
+            "url": "https://cginterest.com/wp-content/uploads/2026/08/Wan-Animate-2-A3.mp4",
+            "length": "502086",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://cginterest.com/wp-content/uploads/2026/08/Wan-Animate-2.webp"
+        },
         {
           "id": "https://cginterest.com/?p=61614",
           "author": ".me",

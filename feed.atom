@@ -2,10 +2,72 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-13T12:43:28.284Z</updated>
+    <updated>2026-08-14T01:02:49.542Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[『機動警察パトレイバー EZY』プリプロから3Dが支えるレイバーたちの活躍！〜No.3／アニメーション＆色彩設計篇 - 特集]]></title>
+        <id>https://cgworld.jp/article/336-ezy-patlabor03.html</id>
+        <link href="https://cgworld.jp/article/336-ezy-patlabor03.html"/>
+        <updated>2026-08-14T01:00:16.000Z</updated>
+        <summary type="html"><![CDATA[『機動警察パトレイバー EZY』のアニメCGメイキングを紹介。]]></summary>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【Photoshop 2026】ガラス面に写り込んでいるものを、元の画像からレイヤーとして分離・削除する「反射の削除」 - 連載]]></title>
+        <id>https://cgworld.jp/regular/202608-tipsnote.html</id>
+        <link href="https://cgworld.jp/regular/202608-tipsnote.html"/>
+        <updated>2026-08-14T01:00:00.000Z</updated>
+        <summary type="html"><![CDATA[今回は、Photoshop 2026から新機能で、「反射の削除」についてご紹介いたします。この機能は、画像内のガラス窓やガラス面に写り込んでいるものを、元の画像からレイヤーとして分離して削除する、という機能になります。]]></summary>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[フォトグラメトリ数学｜46：Dense MatchingにおけるRectificationと視差とは何か]]></title>
+        <id>https://zenn.dev/s_hashida/articles/ca326fa7995540</id>
+        <link href="https://zenn.dev/s_hashida/articles/ca326fa7995540"/>
+        <updated>2026-08-13T22:12:05.000Z</updated>
+        <summary type="html"><![CDATA[はじめに
+前回は、
+
+Dense Matching
+Sparse Matchingとの違い
+高密度な対応点
+Dense Point Cloud
+
+について説明しました。
+
+その中で重要だったのが、
+
+Dense Matchingでは画像の広い範囲で対応点を求める
+対応点から三角測量によって3次元点を求める
+大量の3次元点から高密度な点群を生成できる
+
+という点です。
+
+しかしここで疑問が出てきます。
+画像Aのある点に対応する点を、画像Bのどこから探せばよいのでしょうか？
+画像Bの画像全体から対応点を探すこともできますが、それでは探索範囲が非常に大きくなります。
+
+この問題に対して利...]]></summary>
+        <author>
+            <name>s_hashida</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[トミナガハルキ氏、ファンタジー世界地図を自動生成する無料Webツール「USOMAP」公開　ハイトマップやSVGのエクスポートに対応 - ニュース]]></title>
+        <id>https://cgworld.jp/flashnews/01-202608-USOMAP.html</id>
+        <link href="https://cgworld.jp/flashnews/01-202608-USOMAP.html"/>
+        <updated>2026-08-13T22:06:39.000Z</updated>
+        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【最大80%OFF】Unity Asset Store「Iconic Essentials Flash Deals」が開催！人気アセットをチェック！]]></title>
         <id>https://cginterest.com/?p=61647</id>
@@ -4112,29 +4174,6 @@ Wadi Pants / Baremark Green
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Blender 5.2 LTS が正式リリース！ノードベースの物理演算とオンラインアセットなど新機能を紹介！]]></title>
-        <id>https://cginterest.com/?p=60681</id>
-        <link href="https://cginterest.com/2026/07/15/blender-5-2-lts-%e3%81%8c%e6%ad%a3%e5%bc%8f%e3%83%aa%e3%83%aa%e3%83%bc%e3%82%b9%ef%bc%81%e3%83%8e%e3%83%bc%e3%83%89%e3%83%99%e3%83%bc%e3%82%b9%e3%81%ae%e7%89%a9%e7%90%86%e6%bc%94%e7%ae%97%e3%81%a8/"/>
-        <updated>2026-07-15T12:23:33.000Z</updated>
-        <summary type="html"><![CDATA[2026年7月14日（現地時間）- Blender Foundationおよびオンラインコミュニティは、長期サポート版となる「Blender 5.2 LTS」を発表しました。 新機能ハイライト Blender 5.2 L […]]]></summary>
-        <author>
-            <name>.me</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[パソコン教室で分散レンダリング — mental ray サテライトで1枚の絵を複数台で描く(はじめの一歩)]]></title>
-        <id>https://zenn.dev/yokamak/articles/fcfb21e40d3015</id>
-        <link href="https://zenn.dev/yokamak/articles/fcfb21e40d3015"/>
-        <updated>2026-07-15T10:21:59.000Z</updated>
-        <summary type="html"><![CDATA[はじめに
-mental ray は20年以上にわたり Maya や 3ds Max の標準レンダラーとして映画・ゲームの現場で使われてきたプロダクションレンダラーです。2017年の開発終了時に standalone 版が無償公開され、いまも NVIDIA のサイトから入手できます。
-この standalone 版には サテライト(satellite) と呼ばれるネットワーク分散レンダリング機能がそのまま同梱されています。本来はスタジオのワークステーション群で使われていた機能ですが、これを使うと 1枚の絵をタイル分割して、複数のPCで協調レンダリング できます。
-本記事は、これをパソコ...]]></summary>
-        <author>
-            <name>yokamak</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Blender 5.2 LTSがリリースされました。ダウンロードして利用可能です]]></title>
         <id>https://modelinghappy.com/?p=69409</id>
         <link href="https://modelinghappy.com/archives/69409"/>
@@ -4143,36 +4182,6 @@ mental ray は20年以上にわたり Maya や 3ds Max の標準レンダラー�
 The post Blender 5.2 LTSがリリースされました。ダウンロードして利用可能です first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
         <author>
             <name>modelinghappy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[オートデスク協賛 【来日講演】VFXはよりシンプルに。Flow Studio 開発者が語る次世代のAI・CGワークフロー]]></title>
-        <id>https://area.autodesk.jp/event/autodesk/flow-studio-new-dev-sem/</id>
-        <link href="https://area.autodesk.jp/event/autodesk/flow-studio-new-dev-sem/"/>
-        <updated>2026-07-15T02:00:00.000Z</updated>
-        <summary type="html"><![CDATA[本ウェビナーでは、Autodesk に加わった Wonder Dynamicsの共同創業者、ニコラ・トドロヴィッチを招き、クラウドベースの新ツール「Autodesk Flow Studio（旧 Wonder Studio）」の全貌をご紹介します。当日は二コラよるFlow Studio デモをはじめ、オートデスク株式会社 吉田 将宏 によるデモも予定しております。Flow Studioを活用中の方はもちろん、これから検討している方、情報収集をしている方など、ぜひ本ウェビナーをご視聴ください。・・・]]></summary>
-        <author>
-            <name>AREA JAPAN | Autodesk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【After Effects 2026】アドバンス3Dレンダラ対応の「被写界深度エフェクト」 - 連載]]></title>
-        <id>https://cgworld.jp/regular/202607-tipsnote.html</id>
-        <link href="https://cgworld.jp/regular/202607-tipsnote.html"/>
-        <updated>2026-07-15T01:00:53.000Z</updated>
-        <summary type="html"><![CDATA[今回は、After Effects 2026、6月アップデートから「アドバンス3Dでの被写界深度エフェクト」をご紹介いたします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【期間限定無料】2026年7月28日までの FAB 無料コンテンツをチェック！]]></title>
-        <id>https://cginterest.com/?p=60678</id>
-        <link href="https://cginterest.com/2026/07/15/%e3%80%90%e6%9c%9f%e9%96%93%e9%99%90%e5%ae%9a%e7%84%a1%e6%96%99%e3%80%912026%e5%b9%b47%e6%9c%8828%e6%97%a5%e3%81%be%e3%81%a7%e3%81%ae-fab-%e7%84%a1%e6%96%99%e3%82%b3%e3%83%b3%e3%83%86%e3%83%b3/"/>
-        <updated>2026-07-15T00:57:47.000Z</updated>
-        <summary type="html"><![CDATA[期間限定で無料となっているEpicのマーケットプレイスFABの無料コンテンツの紹介です。 Epic Games の統合マーケットプレイスFABでは、クリエイターとのパートナーシップによって、2週間ごとに選ばれたコンテンツ […]]]></summary>
-        <author>
-            <name>.me</name>
         </author>
     </entry>
 </feed>

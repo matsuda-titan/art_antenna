@@ -652,6 +652,36 @@
       "siteUrl": "https://cgworld.jp/",
       "articles": [
         {
+          "id": "https://cgworld.jp/article/336-ezy-patlabor03.html",
+          "author": null,
+          "description": "『機動警察パトレイバー EZY』のアニメCGメイキングを紹介。",
+          "link": "https://cgworld.jp/article/336-ezy-patlabor03.html",
+          "publishedOn": "2026-08-14T01:00:16.000Z",
+          "wordCount": 787,
+          "title": "『機動警察パトレイバー EZY』プリプロから3Dが支えるレイバーたちの活躍！〜No.3／アニメーション＆色彩設計篇 - 特集",
+          "imageUrl": "https://cgworld.jp/article/assets_c/2026/07/228fa99cd5ea6c8a9a78beed1b467792c49da832-thumb-1000x563-86558-thumb-995x563-86890.jpg"
+        },
+        {
+          "id": "https://cgworld.jp/regular/202608-tipsnote.html",
+          "author": null,
+          "description": "今回は、Photoshop 2026から新機能で、「反射の削除」についてご紹介いたします。この機能は、画像内のガラス窓やガラス面に写り込んでいるものを、元の画像からレイヤーとして分離して削除する、という機能になります。",
+          "link": "https://cgworld.jp/regular/202608-tipsnote.html",
+          "publishedOn": "2026-08-14T01:00:00.000Z",
+          "wordCount": 746,
+          "title": "【Photoshop 2026】ガラス面に写り込んでいるものを、元の画像からレイヤーとして分離・削除する「反射の削除」 - 連載",
+          "imageUrl": "https://cgworld.jp/regular/assets_c/2026/08/Tipsnote-photo-2026202-thumb-800x445-87476.png"
+        },
+        {
+          "id": "https://cgworld.jp/flashnews/01-202608-USOMAP.html",
+          "author": null,
+          "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
+          "link": "https://cgworld.jp/flashnews/01-202608-USOMAP.html",
+          "publishedOn": "2026-08-13T22:06:39.000Z",
+          "wordCount": 770,
+          "title": "トミナガハルキ氏、ファンタジー世界地図を自動生成する無料Webツール「USOMAP」公開　ハイトマップやSVGのエクスポートに対応 - ニュース",
+          "imageUrl": "https://cgworld.jp/flashnews/assets_c/2026/08/USOMAP-01-thumb-1920x1080-87661.jpg"
+        },
+        {
           "id": "https://cgworld.jp/article/336-ezy-patlabor02.html",
           "author": null,
           "description": "『機動警察パトレイバー EZY』のアニメCGメイキングを紹介。",
@@ -1550,16 +1580,6 @@
           "wordCount": 822,
           "title": "ピクサー最新作『私がビーバーになる時』ブレイクダウン動画公開　クマが登場するシーン制作の様子を工程別に解説 - ニュース",
           "imageUrl": "https://cgworld.jp/flashnews/assets_c/2026/07/Pixar_Hoppers-01-thumb-1920x1080-86615.jpg"
-        },
-        {
-          "id": "https://cgworld.jp/regular/202607-tipsnote.html",
-          "author": null,
-          "description": "今回は、After Effects 2026、6月アップデートから「アドバンス3Dでの被写界深度エフェクト」をご紹介いたします。",
-          "link": "https://cgworld.jp/regular/202607-tipsnote.html",
-          "publishedOn": "2026-07-15T01:00:53.000Z",
-          "wordCount": 750,
-          "title": "【After Effects 2026】アドバンス3Dレンダラ対応の「被写界深度エフェクト」 - 連載",
-          "imageUrl": "https://cgworld.jp/regular/assets_c/2026/07/Tipsnote-photo-2026201-thumb-800x445-86562.png"
         }
       ]
     },
@@ -2445,6 +2465,21 @@
       "siteUrl": "https://zenn.dev/topics/3dcg",
       "articles": [
         {
+          "id": "https://zenn.dev/s_hashida/articles/ca326fa7995540",
+          "author": "s_hashida",
+          "description": "はじめに\n前回は、\n\nDense Matching\nSparse Matchingとの違い\n高密度な対応点\nDense Point Cloud\n\nについて説明しました。\n\nその中で重要だったのが、\n\nDense Matchingでは画像の広い範囲で対応点を求める\n対応点から三角測量によって3次元点を求める\n大量の3次元点から高密度な点群を生成できる\n\nという点です。\n\nしかしここで疑問が出てきます。\n画像Aのある点に対応する点を、画像Bのどこから探せばよいのでしょうか？\n画像Bの画像全体から対応点を探すこともできますが、それでは探索範囲が非常に大きくなります。\n\nこの問題に対して利...",
+          "link": "https://zenn.dev/s_hashida/articles/ca326fa7995540",
+          "publishedOn": "2026-08-13T22:12:05.000Z",
+          "wordCount": 1269,
+          "title": "フォトグラメトリ数学｜46：Dense MatchingにおけるRectificationと視差とは何か",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--kANzrppI--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%2595%25E3%2582%25A9%25E3%2583%2588%25E3%2582%25B0%25E3%2583%25A9%25E3%2583%25A1%25E3%2583%2588%25E3%2583%25AA%25E6%2595%25B0%25E5%25AD%25A6%25EF%25BD%259C46%25EF%25BC%259ADense%2520Matching%25E3%2581%25AB%25E3%2581%258A%25E3%2581%2591%25E3%2582%258BRectification%25E3%2581%25A8%25E8%25A6%2596%25E5%25B7%25AE%25E3%2581%25A8%25E3%2581%25AF%25E4%25BD%2595%25E3%2581%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:s_hashida%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2QwNzQxMzlkMjguanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+            "length": "0",
+            "type": "false"
+          },
+          "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--kANzrppI--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%2595%25E3%2582%25A9%25E3%2583%2588%25E3%2582%25B0%25E3%2583%25A9%25E3%2583%25A1%25E3%2583%2588%25E3%2583%25AA%25E6%2595%25B0%25E5%25AD%25A6%25EF%25BD%259C46%25EF%25BC%259ADense%2520Matching%25E3%2581%25AB%25E3%2581%258A%25E3%2581%2591%25E3%2582%258BRectification%25E3%2581%25A8%25E8%25A6%2596%25E5%25B7%25AE%25E3%2581%25A8%25E3%2581%25AF%25E4%25BD%2595%25E3%2581%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:s_hashida%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2QwNzQxMzlkMjguanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+        },
+        {
           "id": "https://zenn.dev/zelk96/articles/blender_day01_development_log",
           "author": "黒暁",
           "description": "はじめに\n今日からBlenderを使った3DCGの学習を始めました。\nこれまで3DCGにはほとんど触れたことがなく、Blenderのインストールから始める完全な初心者です。最初は自分のPCで動くのか少し不安でしたが、無事に起動でき、初日の課題として簡単な机を完成させるところまで進められました。\n今回は細かな操作をすべて暗記することよりも、モデリングからレンダリングまでの一連の流れを体験することを目標にしました。\n\n 使用環境\n\nBlender 5.2.0\nWindows\nCPU：Intel Core i7-8700\nGPU：NVIDIA GeForce GTX 1660 Ti（VRA...",
@@ -2623,21 +2658,6 @@
             "type": "false"
           },
           "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--nmNRNgfe--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%2595%25E3%2582%25A9%25E3%2583%2588%25E3%2582%25B0%25E3%2583%25A9%25E3%2583%25A1%25E3%2583%2588%25E3%2583%25AA%25E6%2595%25B0%25E5%25AD%25A6%25EF%25BD%259C40%25EF%25BC%259ADEM%25E3%2583%25BBDSM%25E3%2583%25BBDTM%25E3%2581%25A8%25E3%2581%25AF%25E4%25BD%2595%25E3%2581%258B%2520%25EF%25BD%259E%25E6%25A8%2599%25E9%25AB%2598%25E3%2583%2587%25E3%2583%25BC%25E3%2582%25BF%25E3%2581%25AE%25E9%2581%2595%25E3%2581%2584%25E3%2582%2592%25E7%2590%2586%25E8%25A7%25A3%25E3%2581%2599%25E3%2582%258B%25EF%25BD%259E%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:s_hashida%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2JmNmU5NjMzMTEuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
-        },
-        {
-          "id": "https://zenn.dev/yokamak/articles/fcfb21e40d3015",
-          "author": "yokamak",
-          "description": "はじめに\nmental ray は20年以上にわたり Maya や 3ds Max の標準レンダラーとして映画・ゲームの現場で使われてきたプロダクションレンダラーです。2017年の開発終了時に standalone 版が無償公開され、いまも NVIDIA のサイトから入手できます。\nこの standalone 版には サテライト(satellite) と呼ばれるネットワーク分散レンダリング機能がそのまま同梱されています。本来はスタジオのワークステーション群で使われていた機能ですが、これを使うと 1枚の絵をタイル分割して、複数のPCで協調レンダリング できます。\n本記事は、これをパソコ...",
-          "link": "https://zenn.dev/yokamak/articles/fcfb21e40d3015",
-          "publishedOn": "2026-07-15T10:21:59.000Z",
-          "wordCount": 6344,
-          "title": "パソコン教室で分散レンダリング — mental ray サテライトで1枚の絵を複数台で描く(はじめの一歩)",
-          "enclosure": {
-            "url": "https://res.cloudinary.com/zenn/image/upload/s--Cnui3vSh--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%2591%25E3%2582%25BD%25E3%2582%25B3%25E3%2583%25B3%25E6%2595%2599%25E5%25AE%25A4%25E3%2581%25A7%25E5%2588%2586%25E6%2595%25A3%25E3%2583%25AC%25E3%2583%25B3%25E3%2583%2580%25E3%2583%25AA%25E3%2583%25B3%25E3%2582%25B0%2520%25E2%2580%2594%2520mental%2520ray%2520%25E3%2582%25B5%25E3%2583%2586%25E3%2583%25A9%25E3%2582%25A4%25E3%2583%2588%25E3%2581%25A71%25E6%259E%259A%25E3%2581%25AE%25E7%25B5%25B5%25E3%2582%2592%25E8%25A4%2587%25E6%2595%25B0%25E5%258F%25B0%25E3%2581%25A7%25E6%258F%258F%25E3%2581%258F%2528%25E3%2581%25AF%25E3%2581%2598%25E3%2582%2581%25E3%2581%25AE%25E4%25B8%2580%25E6%25AD%25A9%2529%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:yokamak%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzA1OGY1YTRiMDkuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
-            "length": "0",
-            "type": "false"
-          },
-          "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--Cnui3vSh--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%2591%25E3%2582%25BD%25E3%2582%25B3%25E3%2583%25B3%25E6%2595%2599%25E5%25AE%25A4%25E3%2581%25A7%25E5%2588%2586%25E6%2595%25A3%25E3%2583%25AC%25E3%2583%25B3%25E3%2583%2580%25E3%2583%25AA%25E3%2583%25B3%25E3%2582%25B0%2520%25E2%2580%2594%2520mental%2520ray%2520%25E3%2582%25B5%25E3%2583%2586%25E3%2583%25A9%25E3%2582%25A4%25E3%2583%2588%25E3%2581%25A71%25E6%259E%259A%25E3%2581%25AE%25E7%25B5%25B5%25E3%2582%2592%25E8%25A4%2587%25E6%2595%25B0%25E5%258F%25B0%25E3%2581%25A7%25E6%258F%258F%25E3%2581%258F%2528%25E3%2581%25AF%25E3%2581%2598%25E3%2582%2581%25E3%2581%25AE%25E4%25B8%2580%25E6%25AD%25A9%2529%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:yokamak%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzA1OGY1YTRiMDkuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
         }
       ]
     },
@@ -3228,16 +3248,6 @@
           "wordCount": 351,
           "title": "『機動戦士ガンダム 閃光のハサウェイ キルケーの魔女』CG制作現場発　はじめてのFlow Production Trackingと熟達の3ds Max技術",
           "imageUrl": "https://area.autodesk.jp/case/assets_c/2026/07/ic_hathaway_the_witch_of_circe-thumb-1200xauto-5853.jpg"
-        },
-        {
-          "id": "https://area.autodesk.jp/event/autodesk/flow-studio-new-dev-sem/",
-          "author": null,
-          "description": "本ウェビナーでは、Autodesk に加わった Wonder Dynamicsの共同創業者、ニコラ・トドロヴィッチを招き、クラウドベースの新ツール「Autodesk Flow Studio（旧 Wonder Studio）」の全貌をご紹介します。当日は二コラよるFlow Studio デモをはじめ、オートデスク株式会社 吉田 将宏 によるデモも予定しております。Flow Studioを活用中の方はもちろん、これから検討している方、情報収集をしている方など、ぜひ本ウェビナーをご視聴ください。・・・",
-          "link": "https://area.autodesk.jp/event/autodesk/flow-studio-new-dev-sem/",
-          "publishedOn": "2026-07-15T02:00:00.000Z",
-          "wordCount": 222,
-          "title": "オートデスク協賛 【来日講演】VFXはよりシンプルに。Flow Studio 開発者が語る次世代のAI・CGワークフロー",
-          "imageUrl": "https://area.autodesk.jp/event/assets_c/2026/07/ic_flow_studio_dev_sem_1200x670-thumb-1200xauto-5854.jpg"
         }
       ]
     },
@@ -4221,31 +4231,6 @@
             "type": "video/mp4"
           },
           "imageUrl": "https://cginterest.com/wp-content/uploads/2026/07/GNM.webp"
-        },
-        {
-          "id": "https://cginterest.com/?p=60681",
-          "author": ".me",
-          "description": "2026年7月14日（現地時間）- Blender Foundationおよびオンラインコミュニティは、長期サポート版となる「Blender 5.2 LTS」を発表しました。 新機能ハイライト Blender 5.2 L […]",
-          "link": "https://cginterest.com/2026/07/15/blender-5-2-lts-%e3%81%8c%e6%ad%a3%e5%bc%8f%e3%83%aa%e3%83%aa%e3%83%bc%e3%82%b9%ef%bc%81%e3%83%8e%e3%83%bc%e3%83%89%e3%83%99%e3%83%bc%e3%82%b9%e3%81%ae%e7%89%a9%e7%90%86%e6%bc%94%e7%ae%97%e3%81%a8/",
-          "publishedOn": "2026-07-15T12:23:33.000Z",
-          "wordCount": 31250,
-          "title": "Blender 5.2 LTS が正式リリース！ノードベースの物理演算とオンラインアセットなど新機能を紹介！",
-          "enclosure": {
-            "url": "https://cginterest.com/wp-content/uploads/2026/07/Sample-Sound-Demo-Cartesian-Caramel-1.mp4",
-            "length": "265746",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://cginterest.com/wp-content/uploads/2026/07/Blender52.webp"
-        },
-        {
-          "id": "https://cginterest.com/?p=60678",
-          "author": ".me",
-          "description": "期間限定で無料となっているEpicのマーケットプレイスFABの無料コンテンツの紹介です。 Epic Games の統合マーケットプレイスFABでは、クリエイターとのパートナーシップによって、2週間ごとに選ばれたコンテンツ […]",
-          "link": "https://cginterest.com/2026/07/15/%e3%80%90%e6%9c%9f%e9%96%93%e9%99%90%e5%ae%9a%e7%84%a1%e6%96%99%e3%80%912026%e5%b9%b47%e6%9c%8828%e6%97%a5%e3%81%be%e3%81%a7%e3%81%ae-fab-%e7%84%a1%e6%96%99%e3%82%b3%e3%83%b3%e3%83%86%e3%83%b3/",
-          "publishedOn": "2026-07-15T00:57:47.000Z",
-          "wordCount": 29982,
-          "title": "【期間限定無料】2026年7月28日までの FAB 無料コンテンツをチェック！",
-          "imageUrl": "https://cginterest.com/wp-content/uploads/2026/07/FABfreecontet20260715.webp"
         }
       ]
     }

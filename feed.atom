@@ -2,10 +2,55 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-14T12:40:05.106Z</updated>
+    <updated>2026-08-15T00:37:01.872Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Unreal Engine 5.8 に対応し、新機能が追加された Game Animation サンプルプロジェクトがダウンロード可能に！]]></title>
+        <id>https://cginterest.com/?p=61711</id>
+        <link href="https://cginterest.com/2026/08/15/game-animation-%e3%82%b5%e3%83%b3%e3%83%97%e3%83%ab-%e3%83%97%e3%83%ad%e3%82%b8%e3%82%a7%e3%82%af%e3%83%88%e3%81%8cunreal-engine-5-8%e5%90%91%e3%81%91%e3%81%ab%e3%82%a2%e3%83%83%e3%83%97/"/>
+        <updated>2026-08-14T22:49:00.000Z</updated>
+        <summary type="html"><![CDATA[2026年8月12日（現地時間） – Epic Gamesは、Unreal Engine 5.8に完全互換となるよう更新された『Game Animation Sample Project』の最新アップデートを […]]]></summary>
+        <author>
+            <name>.me</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[pipでインストール出来るmeshoptimizerライブラリが古くて推奨オプションが動作しなかった話]]></title>
+        <id>https://zenn.dev/gapprobe_labo/articles/8e80c17b82e843</id>
+        <link href="https://zenn.dev/gapprobe_labo/articles/8e80c17b82e843"/>
+        <updated>2026-08-14T18:02:47.000Z</updated>
+        <summary type="html"><![CDATA[3Dメッシュを簡略化して、3D処理が軽いポリゴンデータに変換するソフトを開発中に発見した地雷。meshoptimizerを使って3Dモデルの面(ポリゴン)を減らす処理を実装したが、meshoptimizer開発者が推奨するオプションを使用しても、「オプション指定なし」で出力されるデータと全く同じである事が判明。
+画像中の上が「オリジナルメッシュ」、下が「簡素化後のメッシュ」で、メッシュ数自体は正しく減って簡素化されている。
+
+しかし、簡素化メッシュ（左側）のジョイント部分の三角形メッシュのエッジが伸びきってポリゴンが破綻しているのが分かる。このメッシュが破綻しないように最適化するオプシ...]]></summary>
+        <author>
+            <name>実測派のMCPラボ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[UV Stretch Monitor – UVの伸び・圧縮を色で可視化して問題箇所を直接選択できるBlenderアドオン]]></title>
+        <id>https://modelinghappy.com/?p=69959</id>
+        <link href="https://modelinghappy.com/archives/69959"/>
+        <updated>2026-08-14T13:22:25.000Z</updated>
+        <summary type="html"><![CDATA[Uv Stretch Monitor UV Stretch Monitorは、Blenderで作成したUVの伸びや圧縮などの問題を、色や数値で分かりやすく確認して、問題のあるUVだけを選択できるアドオンです。 モデルのU
+The post UV Stretch Monitor – UVの伸び・圧縮を色で可視化して問題箇所を直接選択できるBlenderアドオン first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
+        <author>
+            <name>modelinghappy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hair Groom to Procedural Feathers ヘアーカーブを羽毛に変換できるBlender用無料Geometry Nodesツール]]></title>
+        <id>https://modelinghappy.com/?p=69951</id>
+        <link href="https://modelinghappy.com/archives/69951"/>
+        <updated>2026-08-14T12:39:54.000Z</updated>
+        <summary type="html"><![CDATA[Free Blender Geometry Nodes Tool: Hair Groom to Procedural Feathers Hair Groom to Procedural Feathersは、Blender
+The post Hair Groom to Procedural Feathers ヘアーカーブを羽毛に変換できるBlender用無料Geometry Nodesツール first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
+        <author>
+            <name>modelinghappy</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[PixZels – 2Dのドット絵から3Dピクセルモデルを作成して8・16方向のスプライトを書き出せる無料ツール]]></title>
         <id>https://modelinghappy.com/?p=69947</id>
@@ -63,6 +108,24 @@ Substance Designer を使って自分で制作していきたい！という方�
 続きをみる]]></summary>
         <author>
             <name>#SubstanceDesignerタグ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BlenderでglTF エクスポートした際にボーンウェイトが変わってもエラーが出ない]]></title>
+        <id>https://zenn.dev/gapprobe_labo/articles/15b9bf39315ad0</id>
+        <link href="https://zenn.dev/gapprobe_labo/articles/15b9bf39315ad0"/>
+        <updated>2026-08-14T09:23:47.000Z</updated>
+        <summary type="html"><![CDATA[スキン付きメッシュを Blender の glTF エクスポータで書き出したら、
+メッシュのボーンウェイトが勝手に変わったが、エラーは無かったという話。
+
+上図左（青色）がオリジナルオブジェクト
+上図右（橙色）がglTFでエクスポートしたもの
+Blender用の「スキン付きメッシュのLODツール(※)」を試作開発中の実証実験で判明した観測記録になります。
+※）3Dモデルを、変形が破綻しない範囲で軽くするツール
+実験としては、1頂点に5本・6本のボーンが効くメッシュを作って、そのメッシュを glTF へ4本制限で書き出したとき、Blender がウェイトを自動で再正規化された。
+その際に、...]]></summary>
+        <author>
+            <name>実測派のMCPラボ</name>
         </author>
     </entry>
     <entry>
@@ -4209,103 +4272,6 @@ https://x.com/nyanneco9/status/2077602248239243580
         <summary type="html"><![CDATA[2026年7月14日（現地時間） – Khronos Groupは、Autodesk 3ds Max向けのオープンソース「glTF 2.0 インポーター/エクスポーター」プラグインを発表しました。 これまでA […]]]></summary>
         <author>
             <name>.me</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meshy Pro 1か月分(3000円分)無料特典付き！AIで3Dモデルを生成出来るクリエイター向けイベントが渋谷で開催]]></title>
-        <id>https://modelinghappy.com/?p=69418</id>
-        <link href="https://modelinghappy.com/archives/69418"/>
-        <updated>2026-07-16T12:17:30.000Z</updated>
-        <summary type="html"><![CDATA[Meshy 3D Creative Hub 東京 AIによる3Dモデル生成サービス「Meshy」が、クリエイター向けイベント 「Meshy 3D Creative Hub 東京」 を2026年7月25日（金）に開催します
-The post Meshy Pro 1か月分(3000円分)無料特典付き！AIで3Dモデルを生成出来るクリエイター向けイベントが渋谷で開催 first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
-        <author>
-            <name>modelinghappy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hi3Dー 画像１枚から3Dモデルを生成できるPro版で色々な画像で検証してみました。 レビュー 無料版もポイント増額でお試し可能]]></title>
-        <id>https://modelinghappy.com/?p=69239</id>
-        <link href="https://modelinghappy.com/archives/69239"/>
-        <updated>2026-07-16T12:00:29.000Z</updated>
-        <summary type="html"><![CDATA[Hi3D Hi3Dは画像1枚からAIで3Dモデルを生成してくれるWEBサービスです。 画像を読み込ませると4分程でテクスチャ付き3Dモデルが生成され、glb、obj、stl、fbx形式でダウンロードして直ぐに3Dソフトに
-The post Hi3Dー 画像１枚から3Dモデルを生成できるPro版で色々な画像で検証してみました。 レビュー 無料版もポイント増額でお試し可能 first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
-        <author>
-            <name>modelinghappy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NyanToon for Substance Painter V1.0.0 マニュアル]]></title>
-        <id>https://note.com/nyanneco/n/n5455f2ee139b</id>
-        <link href="https://note.com/nyanneco/n/n5455f2ee139b"/>
-        <updated>2026-07-16T09:42:44.000Z</updated>
-        <summary type="html"><![CDATA[NyanToonは、Substance 3D Painter上でVRChat向けアバター衣装などのlilToon風ルックを確認するためのカスタムトゥーンシェーダーです。UnityやlilToonを置き換えるものではなく、主にVRChat向けアイテムのテクスチャ制作とルック確認を補助することを目的としています。
-SubstancePainter向けToonシェーダー「NyanToon」https://manage.booth.pm/items/8620876
-続きをみる]]></summary>
-        <author>
-            <name>#substancepainterタグ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「パンツ1本で、休日が変わる。」WOODSがHOUDINI Wadi Pantsをオススメする理由。]]></title>
-        <id>https://note.com/woods_kumamoto/n/nbbb8478ad1c0</id>
-        <link href="https://note.com/woods_kumamoto/n/nbbb8478ad1c0"/>
-        <updated>2026-07-16T09:34:26.000Z</updated>
-        <summary type="html"><![CDATA[「どんなパンツがおすすめですか？」
-
-お店でそう聞かれたら、私は迷わずHOUDINIのWadi Pantsを紹介します。
-Wadi Pants / Baremark Green
-続きをみる]]></summary>
-        <author>
-            <name>#Houdiniタグ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[絵の上達に必要な考え方『エソラ流お絵かき クリエイター思考活性術』が8月25日にオンライン開催 - ニュース]]></title>
-        <id>https://cgworld.jp/flashnews/2607-plusone-yakugi.html</id>
-        <link href="https://cgworld.jp/flashnews/2607-plusone-yakugi.html"/>
-        <updated>2026-07-16T08:40:07.000Z</updated>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[『モンスターハンターワイルズ』における「SGX」の活用事例をSpeech Graphicsが公開―多言語対応フェイシャルアニメーション制作を支援 - ニュース]]></title>
-        <id>https://cgworld.jp/flashnews/03-2607-sgx.html</id>
-        <link href="https://cgworld.jp/flashnews/03-2607-sgx.html"/>
-        <updated>2026-07-16T07:22:00.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google、高精度な3Dパラメトリック頭部モデル「GNM Head」を公開！Blender用の無料アドオンも登場]]></title>
-        <id>https://cginterest.com/?p=60792</id>
-        <link href="https://cginterest.com/2026/07/16/google%e3%80%81%e9%ab%98%e7%b2%be%e5%ba%a6%e3%81%aa3d%e3%83%91%e3%83%a9%e3%83%a1%e3%83%88%e3%83%aa%e3%83%83%e3%82%af%e9%a0%ad%e9%83%a8%e3%83%a2%e3%83%87%e3%83%ab%e3%80%8cgnm-head%e3%80%8d%e3%82%92/"/>
-        <updated>2026-07-16T03:04:43.000Z</updated>
-        <summary type="html"><![CDATA[Googleは、高精度な3Dパラメトリック人体モデルのエコシステム「GNM（Generative aNthropometric Model）」をGithubで公開しました。 GNMとは GNM（Generative aN […]]]></summary>
-        <author>
-            <name>.me</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【九州初上陸】電動ワークチェア「LiberNovo Omni」シリーズが、六本松 蔦屋書店にて展示開始 - ニュース]]></title>
-        <id>https://cgworld.jp/flashnews/01-202607-libernovo.html</id>
-        <link href="https://cgworld.jp/flashnews/01-202607-libernovo.html"/>
-        <updated>2026-07-16T02:30:20.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[第1回：現場でのモーションキャプチャ収録判断 - 連載]]></title>
-        <id>https://cgworld.jp/regular/motion-capture01.html</id>
-        <link href="https://cgworld.jp/regular/motion-capture01.html"/>
-        <updated>2026-07-16T01:00:07.000Z</updated>
-        <summary type="html"><![CDATA[モーションキャプチャコーディネーターの谷山尚未氏がプロデューサー陣と本音で対談]]></summary>
-        <author>
-            <name>CGWORLD</name>
         </author>
     </entry>
 </feed>

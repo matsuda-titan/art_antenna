@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-15T12:16:26.460Z</updated>
+    <updated>2026-08-16T00:38:53.964Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[SnapMove v1.0 | 任意の点から任意の点へ！CADライクなスナップ移動＆回転を手軽にする無料Blenderアドオン！]]></title>
+        <id>https://3dnchu.com/?p=1067205</id>
+        <link href="https://3dnchu.com/archives/snapmove-v1-0/"/>
+        <updated>2026-08-15T18:19:37.000Z</updated>
+        <summary type="html"><![CDATA[ひなたふぐ氏によるBlenderでのオブジェクトの移動・回転・位置合わせを、より直感的に行える無料アドオン「SnapMove」が公開されています。任意の頂点や辺、面を基準にしたスナップや向き合わせを、オブジェクトモードのまま行うことができます。 SnapMove v1.0 SnapMoveは、hin […]
+続きを読む]]></summary>
+        <author>
+            <name>Ymt3D -3dnchu-</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AnyNode Preview – Geometry NodesやShaderの各ノードをプレビュー表示できるBlenderアドオン]]></title>
         <id>https://modelinghappy.com/?p=69969</id>
@@ -4187,125 +4198,6 @@ https://x.com/nyanneco9/status/2077602248239243580
         <summary type="html"><![CDATA[パソコン工房ウェブサイトで開催中の「怒涛のボーナスセール」の紹介です。 セール概要 全国のパソコン工房・グッドウィルの店舗、WEBサイトにて「怒涛のボーナスセール」が開催中！ ゲーミングPCやデスクトップパソコン、ノート […]]]></summary>
         <author>
             <name>.me</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Blender向け統合物理シミュレーションアドオン『Hurricane』ベータ版がリリース！ 流体・布・ソフトボディ・粒状体が単一空間で相互作用]]></title>
-        <id>https://cginterest.com/?p=60650</id>
-        <link href="https://cginterest.com/2026/07/17/blender%e5%90%91%e3%81%91%e7%b5%b1%e5%90%88%e7%89%a9%e7%90%86%e3%82%b7%e3%83%9f%e3%83%a5%e3%83%ac%e3%83%bc%e3%82%b7%e3%83%a7%e3%83%b3%e3%82%a2%e3%83%89%e3%82%aa%e3%83%b3%e3%80%8ehurricane%e3%80%8f/"/>
-        <updated>2026-07-17T12:04:40.000Z</updated>
-        <summary type="html"><![CDATA[2026年7月14日（現地時間） – BeFX Studiosは、Blender向けパーティクルシステム統合アドオン「Hurricane」のベータ版を公開しました。 Hurricaneとは 「Hurrican […]]]></summary>
-        <author>
-            <name>.me</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【VRChat×Unity】ShaderMotionでアバターの動きをモーションキャプチャーする]]></title>
-        <id>https://qiita.com/Kenty1003/items/cec812195a7b9fd9e2d0</id>
-        <link href="https://qiita.com/Kenty1003/items/cec812195a7b9fd9e2d0"/>
-        <updated>2026-07-17T09:13:33.000Z</updated>
-        <summary type="html"><![CDATA[こんにちは、XR エンジニアのKentyです。
-自分はXRとダンスが好きで、最近は友達とこんな↓アプリを作っていました。
-
-このアプリでは、VRChatでモーションキャプチャーしたものをUnityに持ってきて、Quest3のパススルーやアンカー機能などを用いてVRChatの...]]></summary>
-        <author>
-            <name>Shaderタグが付けられた新着記事 - Qiita</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NVIDIA がひっそりと Omniverse を無料化 ― 本番利用・再配布までライセンス費用ゼロに]]></title>
-        <id>https://cginterest.com/?p=60851</id>
-        <link href="https://cginterest.com/2026/07/17/nvidia-%e3%81%8c%e3%81%b2%e3%81%a3%e3%81%9d%e3%82%8a%e3%81%a8-omniverse-%e3%82%92%e7%84%a1%e6%96%99%e5%8c%96-%e2%80%95-%e6%9c%ac%e7%95%aa%e5%88%a9%e7%94%a8%e3%83%bb%e5%86%8d%e9%85%8d%e5%b8%83%e3%81%be/"/>
-        <updated>2026-07-17T09:05:00.000Z</updated>
-        <summary type="html"><![CDATA[NVIDIA Omniverseのライセンス条項が2026年5月付で変更され、これまで開発用途に限られていた無料利用の範囲が、本番環境(プロダクション)での利用や再配布にまで拡大されました。 この変更は大々的なプレスリリ […]]]></summary>
-        <author>
-            <name>.me</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【Unreal Engine】モデルを撮影しよう！②～マテリアル設定編～]]></title>
-        <id>https://3d.crdg.jp/env/?p=9781</id>
-        <link href="https://3d.crdg.jp/env/2026/07/17/9781/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=%25e3%2580%2590unreal-engine%25e3%2580%2591%25e3%2583%25a2%25e3%2583%2587%25e3%2583%25ab%25e3%2582%2592%25e6%2592%25ae%25e5%25bd%25b1%25e3%2581%2597%25e3%2582%2588%25e3%2581%2586%25ef%25bc%2581%25e2%2591%25a1%25ef%25bd%259e%25e3%2583%259e%25e3%2583%2586%25e3%2583%25aa%25e3%2582%25a2%25e3%2583%25ab%25e8%25a8%25ad"/>
-        <updated>2026-07-17T09:00:08.000Z</updated>
-        <summary type="html"><![CDATA[前回の記事「【Unreal Engine】モデルを撮影しよう！①～インポート編～」の続きになります！第2弾となる今回は、UE5でのマテリアル設定とモデ […]
-続きを読む
-投稿 【Unreal Engine】モデルを撮影しよう！②～マテリアル設定編～ は エンホリ - ENVIRONMENT HOLIC｜C&R Creative Studios に最初に表示されました。]]></summary>
-        <author>
-            <name>Hiroto.Ishii</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[写真からのリアルな3D頭部再構築がAPIで利用可能に – KeenToolsが「Cloud API」を発表]]></title>
-        <id>https://cginterest.com/?p=60854</id>
-        <link href="https://cginterest.com/2026/07/17/%e5%86%99%e7%9c%9f%e3%81%8b%e3%82%89%e3%81%ae%e3%83%aa%e3%82%a2%e3%83%ab%e3%81%aa3d%e9%a0%ad%e9%83%a8%e5%86%8d%e6%a7%8b%e7%af%89%e3%81%8capi%e3%81%a7%e5%88%a9%e7%94%a8%e5%8f%af%e8%83%bd%e3%81%ab-kee/"/>
-        <updated>2026-07-17T08:55:05.000Z</updated>
-        <summary type="html"><![CDATA[2026年7月10日（現地時間）- KeenToolsはCloud APIを発表しました。 VFXや3Dアーティスト向けのツール開発を手掛ける同社が新たに提供するこのAPIは、複数の画像から3Dの頭部モデルを自動で生成す […]]]></summary>
-        <author>
-            <name>.me</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Get It Studio 個展を「POCKO GALLERY TOKYO / ポコギャラリー東京」にて7月31日(金)より開催 - ニュース]]></title>
-        <id>https://cgworld.jp/flashnews/pocko-gallery-tokyo-vol8.html</id>
-        <link href="https://cgworld.jp/flashnews/pocko-gallery-tokyo-vol8.html"/>
-        <updated>2026-07-17T07:52:25.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ブラウザ3Dゲーム入門①:そもそもブラウザでどうやって3Dを描いているのか]]></title>
-        <id>https://qiita.com/fujimoooon/items/3ec37e0076af28e7472f</id>
-        <link href="https://qiita.com/fujimoooon/items/3ec37e0076af28e7472f"/>
-        <updated>2026-07-17T07:12:42.000Z</updated>
-        <summary type="html"><![CDATA[はじめに
-「ブラウザで動く3DのMMOって、裏側でどういう仕組みになっているんだろう?」
-そんな疑問を持ったことがある人向けに、この記事はシリーズ形式で解説していきます。全4回の予定です。
-
-本記事:ブラウザで3Dを描く仕組みの全体像(リアルタイムレンダリング vs 映...]]></summary>
-        <author>
-            <name>3DCGタグが付けられた新着記事 - Qiita</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Adobe Substance 3D公式、『DOOM：The Dark Ages』のマテリアルビルドブレイクダウン講演の動画を公開 - ニュース]]></title>
-        <id>https://cgworld.jp/flashnews/01-202607-Substance-DOOM.html</id>
-        <link href="https://cgworld.jp/flashnews/01-202607-Substance-DOOM.html"/>
-        <updated>2026-07-17T02:03:06.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「失敗してもリールを更新すれば、またチャレンジできます」リモートワークで日本にいながらILMで働く！ 第121回：木村昭太（Senior Effects Technical Director / ILM Sydney） - 連載]]></title>
-        <id>https://cgworld.jp/regular/121-kimura.html</id>
-        <link href="https://cgworld.jp/regular/121-kimura.html"/>
-        <updated>2026-07-17T01:30:00.000Z</updated>
-        <summary type="html"><![CDATA[リモートで活躍中の木村昭太氏による、海外就業ストーリー。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gaussian Splatting生成機能が追加！フォトグラメトリソフト 3DF Zephyr 9.0 がリリース！]]></title>
-        <id>https://cginterest.com/?p=60808</id>
-        <link href="https://cginterest.com/2026/07/17/gaussian-splatting%e7%94%9f%e6%88%90%e6%a9%9f%e8%83%bd%e3%81%8c%e8%bf%bd%e5%8a%a0%ef%bc%81%e3%83%95%e3%82%a9%e3%83%88%e3%82%b0%e3%83%a9%e3%83%a1%e3%83%88%e3%83%aa%e3%82%bd%e3%83%95%e3%83%88-3df-zephyr/"/>
-        <updated>2026-07-17T01:02:33.000Z</updated>
-        <summary type="html"><![CDATA[2026年7月14日（現地時間）- 3Dflowは、写真測量ソフトウェアの最新メジャーアップデートである「3DF Zephyr 9.0」を発表しました。 新機能ハイライト 今回のアップデートでは、Gaussian Spl […]]]></summary>
-        <author>
-            <name>.me</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Blender 5.2 LTS | 5.X系初となる長期サポート版最新アップデートがリリース！ノードベースの物理演算！オンラインライブラリ！VRAM不足解決となるテクスチャキャッシュなど！]]></title>
-        <id>https://3dnchu.com/?p=1066530</id>
-        <link href="https://3dnchu.com/archives/blender-5-2-lts/"/>
-        <updated>2026-07-17T00:38:38.000Z</updated>
-        <summary type="html"><![CDATA[2026年7月14日（現地時間） 無料＆オープンソースのCG ソフトウェアの長期サポート版となる最新アップデート「Blender 5.2 LTS」が正式リリースされました！]]></summary>
-        <author>
-            <name>Ymt3D -3dnchu-</name>
         </author>
     </entry>
 </feed>

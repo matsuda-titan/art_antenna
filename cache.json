@@ -757,6 +757,16 @@
       "siteUrl": "https://cgworld.jp/",
       "articles": [
         {
+          "id": "https://cgworld.jp/flashnews/01-202608-Houdini-SolarisUSD.html",
+          "author": null,
+          "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
+          "link": "https://cgworld.jp/flashnews/01-202608-Houdini-SolarisUSD.html",
+          "publishedOn": "2026-08-16T23:00:21.000Z",
+          "wordCount": 821,
+          "title": "SideFX、SolarisのUSDワークフロー解説動画公開　FMX HIVE 2026でのMilk VFXによる講演 - ニュース",
+          "imageUrl": "https://cgworld.jp/flashnews/assets_c/2026/08/Houdini_SolarisUSD-01-thumb-1920x1080-87675.jpg"
+        },
+        {
           "id": "https://cgworld.jp/special-feature/202608-styleport.html",
           "author": null,
           "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
@@ -2550,6 +2560,21 @@
       "siteUrl": "https://zenn.dev/topics/3dcg",
       "articles": [
         {
+          "id": "https://zenn.dev/s_hashida/articles/be83fffa2c6b3a",
+          "author": "s_hashida",
+          "description": "はじめに\n前回は、\n\nエピポーラ拘束\nEpipolar Rectification\n視差（Disparity）\nDisparity Map\n\nについて説明しました。\n\nその中で重要だったのが、\n\n対応点の探索範囲をエピポーラ線上に限定できる\nRectificationによって探索を水平方向の1次元探索にできる\n対応点の位置のずれが視差になる\n視差から奥行きを求めることができる\n\nという点です。\n\nしかし、Rectificationによって、\n対応点をどこから探せばよいか\nが分かっても、まだ問題があります。\n画像Aのある画素に対して、画像Bの同じ行上には多数の候補があります。\nでは、...",
+          "link": "https://zenn.dev/s_hashida/articles/be83fffa2c6b3a",
+          "publishedOn": "2026-08-16T21:48:05.000Z",
+          "wordCount": 1587,
+          "title": "フォトグラメトリ数学｜47：Dense Matchingの対応点はどう選ぶ？ ～Matching CostとSAD・SSD・NCC～",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--FT1Fn0xJ--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%2595%25E3%2582%25A9%25E3%2583%2588%25E3%2582%25B0%25E3%2583%25A9%25E3%2583%25A1%25E3%2583%2588%25E3%2583%25AA%25E6%2595%25B0%25E5%25AD%25A6%25EF%25BD%259C47%25EF%25BC%259ADense%2520Matching%25E3%2581%25AE%25E5%25AF%25BE%25E5%25BF%259C%25E7%2582%25B9%25E3%2581%25AF%25E3%2581%25A9%25E3%2581%2586%25E9%2581%25B8%25E3%2581%25B6%25EF%25BC%259F%2520%25EF%25BD%259EMatching%2520Cost%25E3%2581%25A8SAD...%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:s_hashida%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2QwNzQxMzlkMjguanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+            "length": "0",
+            "type": "false"
+          },
+          "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--FT1Fn0xJ--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%2595%25E3%2582%25A9%25E3%2583%2588%25E3%2582%25B0%25E3%2583%25A9%25E3%2583%25A1%25E3%2583%2588%25E3%2583%25AA%25E6%2595%25B0%25E5%25AD%25A6%25EF%25BD%259C47%25EF%25BC%259ADense%2520Matching%25E3%2581%25AE%25E5%25AF%25BE%25E5%25BF%259C%25E7%2582%25B9%25E3%2581%25AF%25E3%2581%25A9%25E3%2581%2586%25E9%2581%25B8%25E3%2581%25B6%25EF%25BC%259F%2520%25EF%25BD%259EMatching%2520Cost%25E3%2581%25A8SAD...%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:s_hashida%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2QwNzQxMzlkMjguanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+        },
+        {
           "id": "https://zenn.dev/gapprobe_labo/articles/8e80c17b82e843",
           "author": "実測派のMCPラボ",
           "description": "3Dメッシュを簡略化して、3D処理が軽いポリゴンデータに変換するソフトを開発中に発見した地雷。meshoptimizerを使って3Dモデルの面(ポリゴン)を減らす処理を実装したが、meshoptimizer開発者が推奨するオプションを使用しても、「オプション指定なし」で出力されるデータと全く同じである事が判明。\n画像中の上が「オリジナルメッシュ」、下が「簡素化後のメッシュ」で、メッシュ数自体は正しく減って簡素化されている。\n\nしかし、簡素化メッシュ（左側）のジョイント部分の三角形メッシュのエッジが伸びきってポリゴンが破綻しているのが分かる。このメッシュが破綻しないように最適化するオプシ...",
@@ -3551,16 +3576,6 @@
           "wordCount": 3895,
           "title": "Nyanneco Fabric Weave Generator マニュアル",
           "imageUrl": "https://assets.st-note.com/production/uploads/images/298360666/rectangle_large_type_2_faee0e325796e9886fdc272d6a973097.png?width=800"
-        },
-        {
-          "id": "https://note.com/nyanneco/n/ndc4f7230faf4",
-          "author": null,
-          "description": "この記事はXのポストを元にした記事です。\nhttps://x.com/nyanneco9/status/2077602248239243580\n シェーダーとは「どのようにCGを描画するか」の計算指示書みたいなものです。\n続きをみる",
-          "link": "https://note.com/nyanneco/n/ndc4f7230faf4",
-          "publishedOn": "2026-07-18T08:11:17.000Z",
-          "wordCount": 2463,
-          "title": "にゃんねこの役に立たない講座 「シェーダーについて」",
-          "imageUrl": "https://assets.st-note.com/production/uploads/images/295412685/rectangle_large_type_2_56c099db765b3217a05ae05b4ec67b65.png?width=800"
         }
       ]
     },
@@ -4241,56 +4256,6 @@
           "wordCount": 32040,
           "title": "Rokoko、AIモーションキャプチャ「Rokoko Vision 3.0」発表！新ソルバー導入で品質向上、クラウド処理への移行など",
           "imageUrl": "https://cginterest.com/wp-content/uploads/2026/07/Rokokovision3.webp"
-        },
-        {
-          "id": "https://cginterest.com/?p=60883",
-          "author": ".me",
-          "description": "2026年7月17日（現地時間） – D5 Render開発チームは、リアルタイム・アーキテクチュアル・ビジュアライゼーションソフトウェアの最新アップデートとなる「D5 3.1」を発表しました。 D5 3.1 […]",
-          "link": "https://cginterest.com/2026/07/18/d5-render-3-1-%e3%81%8c%e3%83%aa%e3%83%aa%e3%83%bc%e3%82%b9%ef%bc%81%e3%82%a4%e3%83%b3%e3%82%bf%e3%83%a9%e3%82%af%e3%83%86%e3%82%a3%e3%83%96%e3%83%97%e3%83%ac%e3%82%bc%e3%83%b3%e3%80%81rhino-revit/",
-          "publishedOn": "2026-07-18T11:55:31.000Z",
-          "wordCount": 30140,
-          "title": "D5 Render 3.1 がリリース！インタラクティブプレゼン、Rhino/Revit対応 D5 Lite、クラウドコラボレーションの追加など",
-          "enclosure": {
-            "url": "https://cginterest.com/wp-content/uploads/2026/07/Interactive-Interioronly1200px-13.mp4",
-            "length": "171171",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://cginterest.com/wp-content/uploads/2026/07/D5render-3_1.webp"
-        },
-        {
-          "id": "https://cginterest.com/?p=60908",
-          "author": ".me",
-          "description": "2026年7月15日（現地時間） – Academy Software Foundation（ASWF）は、DreamWorksとCanonicalの協業による「MoonRay」向けの新しいSnapインストー […]",
-          "link": "https://cginterest.com/2026/07/18/dreamworks%e3%81%a8canonical%e3%80%81moonray%e5%90%91%e3%81%91%e3%81%aesnap%e3%82%a4%e3%83%b3%e3%82%b9%e3%83%88%e3%83%bc%e3%83%a9%e3%83%bc%e3%82%92%e5%85%b1%e5%90%8c%e9%96%8b%e7%99%ba/",
-          "publishedOn": "2026-07-18T08:55:00.000Z",
-          "wordCount": 30099,
-          "title": "DreamWorksとCanonical、MoonRay向けのSnapインストーラーを共同開発",
-          "imageUrl": "https://cginterest.com/wp-content/uploads/2026/07/MoonRay-News.webp"
-        },
-        {
-          "id": "https://cginterest.com/?p=60864",
-          "author": ".me",
-          "description": "2026年7月9日（現地時間） – Webプラットフォームである「SuperSplat」、編集ツールである「SuperSplat Editor」、そしてデータ変換ツールである「splat-transform」 […]",
-          "link": "https://cginterest.com/2026/07/18/supersplat%e3%82%a2%e3%83%83%e3%83%97%e3%83%87%e3%83%bc%e3%83%88%ef%bc%9avibe-coding%e5%af%be%e5%bf%9c%e3%80%81360%e5%ba%a6%e6%98%a0%e5%83%8f%e5%87%ba%e5%8a%9b%e3%81%a8%e5%a4%a7%e8%a6%8f%e6%a8%a1/",
-          "publishedOn": "2026-07-18T08:38:31.000Z",
-          "wordCount": 29979,
-          "title": "SuperSplatアップデート：Vibe Coding対応、360度映像出力と大規模データ処理ツールの刷新など",
-          "enclosure": {
-            "url": "https://cginterest.com/wp-content/uploads/2026/07/Supersplat-Vibe-Coding-2X1.mp4",
-            "length": "523876",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://cginterest.com/wp-content/uploads/2026/07/SuperSplatupdate2026-0718.webp"
-        },
-        {
-          "id": "https://cginterest.com/?p=60871",
-          "author": ".me",
-          "description": "パソコン工房ウェブサイトで開催中の「怒涛のボーナスセール」の紹介です。 セール概要 全国のパソコン工房・グッドウィルの店舗、WEBサイトにて「怒涛のボーナスセール」が開催中！ ゲーミングPCやデスクトップパソコン、ノート […]",
-          "link": "https://cginterest.com/2026/07/18/%e3%83%91%e3%82%bd%e3%82%b3%e3%83%b3%e5%b7%a5%e6%88%bf%e3%80%8c%e6%80%92%e6%b6%9b%e3%81%ae%e3%83%9c%e3%83%bc%e3%83%8a%e3%82%b9%e3%82%bb%e3%83%bc%e3%83%ab%e3%80%8d%e3%81%8c%e9%96%8b%e5%82%ac%ef%bc%81/",
-          "publishedOn": "2026-07-18T07:08:39.000Z",
-          "wordCount": 29911,
-          "title": "パソコン工房「怒涛のボーナスセール」が開催！おすすめセール対象製品を紹介！",
-          "imageUrl": "https://cginterest.com/wp-content/uploads/2026/07/pckobo-bonus_sale.webp"
         }
       ]
     }

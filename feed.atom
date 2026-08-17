@@ -2,10 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-16T12:17:30.778Z</updated>
+    <updated>2026-08-17T00:37:35.584Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[SideFX、SolarisのUSDワークフロー解説動画公開　FMX HIVE 2026でのMilk VFXによる講演 - ニュース]]></title>
+        <id>https://cgworld.jp/flashnews/01-202608-Houdini-SolarisUSD.html</id>
+        <link href="https://cgworld.jp/flashnews/01-202608-Houdini-SolarisUSD.html"/>
+        <updated>2026-08-16T23:00:21.000Z</updated>
+        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[フォトグラメトリ数学｜47：Dense Matchingの対応点はどう選ぶ？ ～Matching CostとSAD・SSD・NCC～]]></title>
+        <id>https://zenn.dev/s_hashida/articles/be83fffa2c6b3a</id>
+        <link href="https://zenn.dev/s_hashida/articles/be83fffa2c6b3a"/>
+        <updated>2026-08-16T21:48:05.000Z</updated>
+        <summary type="html"><![CDATA[はじめに
+前回は、
+
+エピポーラ拘束
+Epipolar Rectification
+視差（Disparity）
+Disparity Map
+
+について説明しました。
+
+その中で重要だったのが、
+
+対応点の探索範囲をエピポーラ線上に限定できる
+Rectificationによって探索を水平方向の1次元探索にできる
+対応点の位置のずれが視差になる
+視差から奥行きを求めることができる
+
+という点です。
+
+しかし、Rectificationによって、
+対応点をどこから探せばよいか
+が分かっても、まだ問題があります。
+画像Aのある画素に対して、画像Bの同じ行上には多数の候補があります。
+では、...]]></summary>
+        <author>
+            <name>s_hashida</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[そのへんにあるパスデータをプロシージャルに整える【Houdini】]]></title>
         <id>https://note.com/ht_tdn/n/n8c99f8b87770</id>
@@ -4177,59 +4220,6 @@ https://github.com/ryuga-12z/2d-postprocess-tool
         <summary type="html"><![CDATA[Epic Gamesのアニメーション分野のソリューションアーキテクトであるStephane Biava氏がUnreal Engine 5.7/5.8向けの無料Editor Utility Widget 「S.A.M（Solo Animation Mode）」 を公開しました。]]></summary>
         <author>
             <name>Ymt3D -3dnchu-</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[D5 Render 3.1 がリリース！インタラクティブプレゼン、Rhino/Revit対応 D5 Lite、クラウドコラボレーションの追加など]]></title>
-        <id>https://cginterest.com/?p=60883</id>
-        <link href="https://cginterest.com/2026/07/18/d5-render-3-1-%e3%81%8c%e3%83%aa%e3%83%aa%e3%83%bc%e3%82%b9%ef%bc%81%e3%82%a4%e3%83%b3%e3%82%bf%e3%83%a9%e3%82%af%e3%83%86%e3%82%a3%e3%83%96%e3%83%97%e3%83%ac%e3%82%bc%e3%83%b3%e3%80%81rhino-revit/"/>
-        <updated>2026-07-18T11:55:31.000Z</updated>
-        <summary type="html"><![CDATA[2026年7月17日（現地時間） – D5 Render開発チームは、リアルタイム・アーキテクチュアル・ビジュアライゼーションソフトウェアの最新アップデートとなる「D5 3.1」を発表しました。 D5 3.1 […]]]></summary>
-        <author>
-            <name>.me</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DreamWorksとCanonical、MoonRay向けのSnapインストーラーを共同開発]]></title>
-        <id>https://cginterest.com/?p=60908</id>
-        <link href="https://cginterest.com/2026/07/18/dreamworks%e3%81%a8canonical%e3%80%81moonray%e5%90%91%e3%81%91%e3%81%aesnap%e3%82%a4%e3%83%b3%e3%82%b9%e3%83%88%e3%83%bc%e3%83%a9%e3%83%bc%e3%82%92%e5%85%b1%e5%90%8c%e9%96%8b%e7%99%ba/"/>
-        <updated>2026-07-18T08:55:00.000Z</updated>
-        <summary type="html"><![CDATA[2026年7月15日（現地時間） – Academy Software Foundation（ASWF）は、DreamWorksとCanonicalの協業による「MoonRay」向けの新しいSnapインストー […]]]></summary>
-        <author>
-            <name>.me</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SuperSplatアップデート：Vibe Coding対応、360度映像出力と大規模データ処理ツールの刷新など]]></title>
-        <id>https://cginterest.com/?p=60864</id>
-        <link href="https://cginterest.com/2026/07/18/supersplat%e3%82%a2%e3%83%83%e3%83%97%e3%83%87%e3%83%bc%e3%83%88%ef%bc%9avibe-coding%e5%af%be%e5%bf%9c%e3%80%81360%e5%ba%a6%e6%98%a0%e5%83%8f%e5%87%ba%e5%8a%9b%e3%81%a8%e5%a4%a7%e8%a6%8f%e6%a8%a1/"/>
-        <updated>2026-07-18T08:38:31.000Z</updated>
-        <summary type="html"><![CDATA[2026年7月9日（現地時間） – Webプラットフォームである「SuperSplat」、編集ツールである「SuperSplat Editor」、そしてデータ変換ツールである「splat-transform」 […]]]></summary>
-        <author>
-            <name>.me</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[にゃんねこの役に立たない講座 「シェーダーについて」]]></title>
-        <id>https://note.com/nyanneco/n/ndc4f7230faf4</id>
-        <link href="https://note.com/nyanneco/n/ndc4f7230faf4"/>
-        <updated>2026-07-18T08:11:17.000Z</updated>
-        <summary type="html"><![CDATA[この記事はXのポストを元にした記事です。
-https://x.com/nyanneco9/status/2077602248239243580
- シェーダーとは「どのようにCGを描画するか」の計算指示書みたいなものです。
-続きをみる]]></summary>
-        <author>
-            <name>#substancepainterタグ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[パソコン工房「怒涛のボーナスセール」が開催！おすすめセール対象製品を紹介！]]></title>
-        <id>https://cginterest.com/?p=60871</id>
-        <link href="https://cginterest.com/2026/07/18/%e3%83%91%e3%82%bd%e3%82%b3%e3%83%b3%e5%b7%a5%e6%88%bf%e3%80%8c%e6%80%92%e6%b6%9b%e3%81%ae%e3%83%9c%e3%83%bc%e3%83%8a%e3%82%b9%e3%82%bb%e3%83%bc%e3%83%ab%e3%80%8d%e3%81%8c%e9%96%8b%e5%82%ac%ef%bc%81/"/>
-        <updated>2026-07-18T07:08:39.000Z</updated>
-        <summary type="html"><![CDATA[パソコン工房ウェブサイトで開催中の「怒涛のボーナスセール」の紹介です。 セール概要 全国のパソコン工房・グッドウィルの店舗、WEBサイトにて「怒涛のボーナスセール」が開催中！ ゲーミングPCやデスクトップパソコン、ノート […]]]></summary>
-        <author>
-            <name>.me</name>
         </author>
     </entry>
 </feed>

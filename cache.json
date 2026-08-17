@@ -2392,6 +2392,21 @@
       "siteUrl": "https://zenn.dev/topics/shader",
       "articles": [
         {
+          "id": "https://zenn.dev/h0r0/articles/5a9cae38f97235",
+          "author": "horo",
+          "description": "私が初めにシェーダーを学んだ際に役に立ったインターネット上の資料を紹介します!\nシェーダーに関連した情報は比較的少なく、どうやって学んだらいいか悩みがちだと思うのでもしよければ参考にしてください。\n!\nこの記事では、Unity上でシェーダーを書くことを念頭に置いています。私がVRChatのワールド制作のためにシェーダーを学びたかったからです(VRChatのワールド制作には2026年8月現在Unity 2022.3.22f1を使用する必要があります)\nしかしながら、シェーダーの本質はUnity上であってもなくても変わりないため、他の目的に対してもこの記事の内容はお役に立てるかと思います!\n...",
+          "link": "https://zenn.dev/h0r0/articles/5a9cae38f97235",
+          "publishedOn": "2026-08-17T01:49:37.000Z",
+          "wordCount": 694,
+          "title": "シェーダーを学ぶ際に役立つ資料リスト[初心者向け]",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--9XtcZ8KS--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2582%25B7%25E3%2582%25A7%25E3%2583%25BC%25E3%2583%2580%25E3%2583%25BC%25E3%2582%2592%25E5%25AD%25A6%25E3%2581%25B6%25E9%259A%259B%25E3%2581%25AB%25E5%25BD%25B9%25E7%25AB%258B%25E3%2581%25A4%25E8%25B3%2587%25E6%2596%2599%25E3%2583%25AA%25E3%2582%25B9%25E3%2583%2588%255B%25E5%2588%259D%25E5%25BF%2583%25E8%2580%2585%25E5%2590%2591%25E3%2581%2591%255D%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:horo%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzI3NGE0YWU0N2MuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+            "length": "0",
+            "type": "false"
+          },
+          "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--9XtcZ8KS--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2582%25B7%25E3%2582%25A7%25E3%2583%25BC%25E3%2583%2580%25E3%2583%25BC%25E3%2582%2592%25E5%25AD%25A6%25E3%2581%25B6%25E9%259A%259B%25E3%2581%25AB%25E5%25BD%25B9%25E7%25AB%258B%25E3%2581%25A4%25E8%25B3%2587%25E6%2596%2599%25E3%2583%25AA%25E3%2582%25B9%25E3%2583%2588%255B%25E5%2588%259D%25E5%25BF%2583%25E8%2580%2585%25E5%2590%2591%25E3%2581%2591%255D%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:horo%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzI3NGE0YWU0N2MuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+        },
+        {
           "id": "https://zenn.dev/kafka2306/articles/unity-vrchat-shader-troubleshooting-qa",
           "author": "かふか",
           "description": "VRだけ二重に見えた。Shaderを疑って遠回りした末に、Uploaderの中断へ辿り着いた\nDesktopでは正常なのに、VRでは左右眼で二重に見える。\nこの症状を見て、最初はShaderを疑いました。Stereo Renderingでは左右眼の描画経路が分かれ、custom Shader側の対応不足でVRだけ壊れることは実際にあります。UnityもSingle Pass Stereo / Single Pass Instanced向けの実装要件を公式に説明しています。\n\nUnity Stereo Rendering: https://docs.unity3d.com/2022.3...",
@@ -2890,6 +2905,16 @@
       "siteUrl": "https://qiita.com",
       "articles": [
         {
+          "id": "https://qiita.com/mochinekoo/items/3a0d4afafb12da9df225",
+          "author": null,
+          "description": "はじめに\nこの記事は学生が書いており、エンジニア向けに書いている記事です。CGを詳しくやりたい方は、詳しい方の記事を見ることをお勧めします。\n\n概要\nゲームエンジンなどを開発すると、テスト用の3DCGが必要になってきます。ですが、ライセンスの面を考えると、(おそらく) 自...",
+          "link": "https://qiita.com/mochinekoo/items/3a0d4afafb12da9df225",
+          "publishedOn": "2026-08-17T12:11:49.000Z",
+          "wordCount": 863,
+          "title": "Mayaでテクスチャを貼るには？",
+          "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRmF2YXRhcnMuZ2l0aHVidXNlcmNvbnRlbnQuY29tJTJGdSUyRjI0MjkwNDgyMSUzRnYlM0Q0P2l4bGliPXJiLTQuMS4xJmFyPTElM0ExJmZpdD1jcm9wJm1hc2s9ZWxsaXBzZSZiZz1GRkZGRkYmZm09cG5nMzImcz05ZDVlYWI3ZTA2YmUwZmVlN2NiNTZkOGY3ZmYxYTY0NQ%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D00441ec2d0e133bec9d9b985069b96b1?ixlib=rb-4.1.1&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9TWF5YSVFMyU4MSVBNyVFMyU4MyU4NiVFMyU4MiVBRiVFMyU4MiVCOSVFMyU4MyU4MSVFMyU4MyVBMyVFMyU4MiU5MiVFOCVCMiVCQyVFMyU4MiU4QiVFMyU4MSVBQiVFMyU4MSVBRiVFRiVCQyU5RiZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnR4dC1wYWQ9MCZzPTJjYTM4ODc0NjdmMWVhMjRmNjBkYWMzMWY4YmU2YjQ3&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBtb2NoaW5la29vJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9MTc3YjkzNTQ5MDQ2MzE1MzhlY2M1Y2MyYmU3ZDYwOWY&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=ec0d0aef5a70f091c72f7e09963d96df"
+        },
+        {
           "id": "https://qiita.com/Takeshi_Saito/items/ef6a2918ab5efd190adc",
           "author": null,
           "description": "AI に Maya や Houdini などの DCC ツールを操作させるとき、その結果はどう確認していますか。\n2026年8月時点で、私は GitHub Copilot CLI を Houdini と Maya に接続し、GUI で確認しながら AI に開発してもらう形で...",
@@ -3194,6 +3219,16 @@
       "feedUrl": "https://qiita.com/tags/cg/feed",
       "siteUrl": "https://qiita.com",
       "articles": [
+        {
+          "id": "https://qiita.com/mochinekoo/items/3a0d4afafb12da9df225",
+          "author": null,
+          "description": "はじめに\nこの記事は学生が書いており、エンジニア向けに書いている記事です。CGを詳しくやりたい方は、詳しい方の記事を見ることをお勧めします。\n\n概要\nゲームエンジンなどを開発すると、テスト用の3DCGが必要になってきます。ですが、ライセンスの面を考えると、(おそらく) 自...",
+          "link": "https://qiita.com/mochinekoo/items/3a0d4afafb12da9df225",
+          "publishedOn": "2026-08-17T12:11:49.000Z",
+          "wordCount": 863,
+          "title": "Mayaでテクスチャを貼るには？",
+          "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRmF2YXRhcnMuZ2l0aHVidXNlcmNvbnRlbnQuY29tJTJGdSUyRjI0MjkwNDgyMSUzRnYlM0Q0P2l4bGliPXJiLTQuMS4xJmFyPTElM0ExJmZpdD1jcm9wJm1hc2s9ZWxsaXBzZSZiZz1GRkZGRkYmZm09cG5nMzImcz05ZDVlYWI3ZTA2YmUwZmVlN2NiNTZkOGY3ZmYxYTY0NQ%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D00441ec2d0e133bec9d9b985069b96b1?ixlib=rb-4.1.1&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9TWF5YSVFMyU4MSVBNyVFMyU4MyU4NiVFMyU4MiVBRiVFMyU4MiVCOSVFMyU4MyU4MSVFMyU4MyVBMyVFMyU4MiU5MiVFOCVCMiVCQyVFMyU4MiU4QiVFMyU4MSVBQiVFMyU4MSVBRiVFRiVCQyU5RiZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnR4dC1wYWQ9MCZzPTJjYTM4ODc0NjdmMWVhMjRmNjBkYWMzMWY4YmU2YjQ3&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBtb2NoaW5la29vJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9MTc3YjkzNTQ5MDQ2MzE1MzhlY2M1Y2MyYmU3ZDYwOWY&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=ec0d0aef5a70f091c72f7e09963d96df"
+        },
         {
           "id": "https://qiita.com/sumikawa@github/items/6202fc50991243d1f4e6",
           "author": null,

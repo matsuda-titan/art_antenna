@@ -857,6 +857,16 @@
       "siteUrl": "https://cgworld.jp/",
       "articles": [
         {
+          "id": "https://cgworld.jp/flashnews/tokiwasou-1.html",
+          "author": null,
+          "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
+          "link": "https://cgworld.jp/flashnews/tokiwasou-1.html",
+          "publishedOn": "2026-08-19T07:20:53.000Z",
+          "wordCount": 780,
+          "title": "【観覧無料】世界に羽ばたくアニメーター等の育成支援事業「現代版トキワ荘」起業家育成プログラム・第1期生によるプロトタイプ発表会を開催 基調講演はアニメプロデューサー・脚本家 櫻井大樹氏 - ニュース",
+          "imageUrl": "https://cgworld.jp/flashnews/assets_c/2026/08/108056-51-3f63bdda07c27a154fd9aea9d80e816c-920x450-thumb-920x450-87832.jpg"
+        },
+        {
           "id": "https://cgworld.jp/flashnews/01-202608-Disney-Motion.html",
           "author": null,
           "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
@@ -1765,16 +1775,6 @@
           "wordCount": 793,
           "title": "第14回 前編：デジタル・フロンティアのテクニカル系スタッフの仕事 - 連載",
           "imageUrl": "https://cgworld.jp/regular/assets_c/2026/07/202607-chiyama-t-14-1_a1-thumb-1000x667-86146.jpg"
-        },
-        {
-          "id": "https://cgworld.jp/flashnews/01-202607-UE-Stairways.html",
-          "author": null,
-          "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
-          "link": "https://cgworld.jp/flashnews/01-202607-UE-Stairways.html",
-          "publishedOn": "2026-07-20T23:22:54.000Z",
-          "wordCount": 823,
-          "title": "Nore Pollentier氏、UEによる廃墟の階段シーンのブレイクダウン公開　ライトファンクションやWorld Position Offsetの実践的活用 - ニュース",
-          "imageUrl": "https://cgworld.jp/flashnews/assets_c/2026/07/UE_Stairways-01-thumb-1920x1080-86730.jpg"
         }
       ]
     },
@@ -2507,16 +2507,6 @@
           "wordCount": 3092,
           "title": "Edit Layers – Blenderでモデリングの編集履歴をレイヤー化！非破壊編集で自由に管理できる無料アドオン",
           "imageUrl": "https://modelinghappy.com/wp-content/uploads/2026/07/20260722_edit_layers_01.jpg"
-        },
-        {
-          "id": "https://modelinghappy.com/?p=69433",
-          "author": "modelinghappy",
-          "description": "Qol Clean Slice Booleans Qol Clean Slice Booleansは曲面メッシュをブーリアンして穴を開けた時に黒い陰影の乱れが表示する場合がありますが、それを防いで綺麗な曲面を1クリックで\nThe post QOL Clean Slice Booleans – ブーリアン後のシェーディング崩れをワンクリックで解消する無料Blenderアドオン first appeared on 3DCG最新情報サイト MODELING HAPPY.",
-          "link": "https://modelinghappy.com/archives/69433",
-          "publishedOn": "2026-07-20T23:11:39.000Z",
-          "wordCount": 3106,
-          "title": "QOL Clean Slice Booleans – ブーリアン後のシェーディング崩れをワンクリックで解消する無料Blenderアドオン",
-          "imageUrl": "https://modelinghappy.com/wp-content/uploads/2026/07/20260721_qol_01.jpg"
         }
       ]
     },
@@ -2531,6 +2521,21 @@
       "feedUrl": "https://zenn.dev/topics/shader/feed",
       "siteUrl": "https://zenn.dev/topics/shader",
       "articles": [
+        {
+          "id": "https://zenn.dev/gamedev_toollab/articles/9979eb1dd0eb47",
+          "author": "GameDev Tool Lab",
+          "description": "はじめに\nMipmapは、Texture Importerで何となく有効にしている機能の代表格です。一般には「元画像の半分、さらに半分という縮小画像を用意し、遠くの物体には小さい画像を使う」と説明されます。\n説明自体は正しいものの、これだけでは実務上の判断を誤りやすくなります。Mipmapを切った静止画はシャープなのに動かすとちらつく、葉や金網が遠距離で消える、Normal Mapを入れてもハイライトが点滅する、Atlasの隣が低解像度Mipだけにじむ、といった問題は「縮小画像」という理解だけではつながりません。\n本記事ではMipmapを、次の3つの仕組みとして捉え直します。\n\n時間...",
+          "link": "https://zenn.dev/gamedev_toollab/articles/9979eb1dd0eb47",
+          "publishedOn": "2026-08-19T01:00:06.000Z",
+          "wordCount": null,
+          "title": "UnityのMipmapを『遠景用の縮小画像』で終わらせない：画質・帯域・意味を設計する",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--8fbNvvTS--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Unity%25E3%2581%25AEMipmap%25E3%2582%2592%25E3%2580%258E%25E9%2581%25A0%25E6%2599%25AF%25E7%2594%25A8%25E3%2581%25AE%25E7%25B8%25AE%25E5%25B0%258F%25E7%2594%25BB%25E5%2583%258F%25E3%2580%258F%25E3%2581%25A7%25E7%25B5%2582%25E3%2582%258F%25E3%2582%2589%25E3%2581%259B%25E3%2581%25AA%25E3%2581%2584%25EF%25BC%259A%25E7%2594%25BB%25E8%25B3%25AA%25E3%2583%25BB%25E5%25B8%25AF%25E5%259F%259F%25E3%2583%25BB%25E6%2584%258F%25E5%2591%25B3%25E3%2582%2592%25E8%25A8%25AD%25E8%25A8%2588%25E3%2581%2599%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:GameDev%2520Tool%2520Lab%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jTEh3ZHc0dlFfSHJUUmJ0R0JhN0V4aVg0am45MXJBYWw2eUdzaFV0am55RFY0cHVBPXMyNTAtYw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+            "length": "0",
+            "type": "false"
+          },
+          "imageUrl": null
+        },
         {
           "id": "https://zenn.dev/h0r0/articles/5a9cae38f97235",
           "author": "horo",
@@ -2613,6 +2618,21 @@
       "feedUrl": "https://zenn.dev/topics/graphics/feed",
       "siteUrl": "https://zenn.dev/topics/graphics",
       "articles": [
+        {
+          "id": "https://zenn.dev/gamedev_toollab/articles/9979eb1dd0eb47",
+          "author": "GameDev Tool Lab",
+          "description": "はじめに\nMipmapは、Texture Importerで何となく有効にしている機能の代表格です。一般には「元画像の半分、さらに半分という縮小画像を用意し、遠くの物体には小さい画像を使う」と説明されます。\n説明自体は正しいものの、これだけでは実務上の判断を誤りやすくなります。Mipmapを切った静止画はシャープなのに動かすとちらつく、葉や金網が遠距離で消える、Normal Mapを入れてもハイライトが点滅する、Atlasの隣が低解像度Mipだけにじむ、といった問題は「縮小画像」という理解だけではつながりません。\n本記事ではMipmapを、次の3つの仕組みとして捉え直します。\n\n時間...",
+          "link": "https://zenn.dev/gamedev_toollab/articles/9979eb1dd0eb47",
+          "publishedOn": "2026-08-19T01:00:06.000Z",
+          "wordCount": null,
+          "title": "UnityのMipmapを『遠景用の縮小画像』で終わらせない：画質・帯域・意味を設計する",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--8fbNvvTS--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Unity%25E3%2581%25AEMipmap%25E3%2582%2592%25E3%2580%258E%25E9%2581%25A0%25E6%2599%25AF%25E7%2594%25A8%25E3%2581%25AE%25E7%25B8%25AE%25E5%25B0%258F%25E7%2594%25BB%25E5%2583%258F%25E3%2580%258F%25E3%2581%25A7%25E7%25B5%2582%25E3%2582%258F%25E3%2582%2589%25E3%2581%259B%25E3%2581%25AA%25E3%2581%2584%25EF%25BC%259A%25E7%2594%25BB%25E8%25B3%25AA%25E3%2583%25BB%25E5%25B8%25AF%25E5%259F%259F%25E3%2583%25BB%25E6%2584%258F%25E5%2591%25B3%25E3%2582%2592%25E8%25A8%25AD%25E8%25A8%2588%25E3%2581%2599%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:GameDev%2520Tool%2520Lab%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jTEh3ZHc0dlFfSHJUUmJ0R0JhN0V4aVg0am45MXJBYWw2eUdzaFV0am55RFY0cHVBPXMyNTAtYw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+            "length": "0",
+            "type": "false"
+          },
+          "imageUrl": null
+        },
         {
           "id": "https://zenn.dev/gamedev_toollab/articles/b22ece9230e05c",
           "author": "GameDev Tool Lab",
@@ -3293,7 +3313,23 @@
       "title": "Zennの「Ray Tracing」のフィード",
       "feedUrl": "https://zenn.dev/topics/raytracing/feed",
       "siteUrl": "https://zenn.dev/topics/raytracing",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://zenn.dev/makarov/articles/a63340d91e8998",
+          "author": "Makarov",
+          "description": "これは私の Black Hole モジュールの動画です。ここでは、ブラックホールはあらかじめ描かれたものではなく、きれいなテクスチャを貼った普通の 3D オブジェクトとして作られているわけでもありません。画像はプログラムの実行中にその場で組み立てられます。各ピクセルについて、カメラが光線を宇宙空間へ逆向きに飛ばし、その光がどこから来たのかを調べるような計算を行います。\nhttps://www.youtube.com/watch?v=eyz4hqEEh5I\n普通のシーンなら、その光線はまっすぐ進みます。しかしブラックホールの近くでは時空が強く曲がっているため、光の軌道も曲がります。このモジ...",
+          "link": "https://zenn.dev/makarov/articles/a63340d91e8998",
+          "publishedOn": "2026-08-19T10:20:28.000Z",
+          "wordCount": null,
+          "title": "ブラックホールはどう描かれる？光線追跡で作る Schwarzschild Black Hole",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/zenn/image/upload/s---xMw9G1F--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%2596%25E3%2583%25A9%25E3%2583%2583%25E3%2582%25AF%25E3%2583%259B%25E3%2583%25BC%25E3%2583%25AB%25E3%2581%25AF%25E3%2581%25A9%25E3%2581%2586%25E6%258F%258F%25E3%2581%258B%25E3%2582%258C%25E3%2582%258B%25EF%25BC%259F%25E5%2585%2589%25E7%25B7%259A%25E8%25BF%25BD%25E8%25B7%25A1%25E3%2581%25A7%25E4%25BD%259C%25E3%2582%258B%2520Schwarzschild%2520Black%2520Hole%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Makarov%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jS3JMeVh5WUVtMjk4d2lDSTJuZGNaOFpEV3FVOUc4d1hJck50RTU3MVdKMlFHT01BVGczQT1zMjUwLWM=%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+            "length": "0",
+            "type": "false"
+          },
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "3DGraphicsタグが付けられた新着記事 - Qiita",
@@ -3306,6 +3342,16 @@
       "feedUrl": "https://qiita.com/tags/shader/feed",
       "siteUrl": "https://qiita.com",
       "articles": [
+        {
+          "id": "https://qiita.com/kanta_yamaoka/items/d286125d84fbc62231b4",
+          "author": null,
+          "description": "different strategies used to compute the lighting. difference comes in interpolation of colors and normals. One of them do not even inter...",
+          "link": "https://qiita.com/kanta_yamaoka/items/d286125d84fbc62231b4",
+          "publishedOn": "2026-08-19T09:42:22.000Z",
+          "wordCount": 694,
+          "title": "Shading techniques - Phong/flat/Gourand shading",
+          "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRmF2YXRhcnMzLmdpdGh1YnVzZXJjb250ZW50LmNvbSUyRnUlMkY0OTA1MzY0OSUzRnYlM0Q0P2l4bGliPXJiLTQuMS4xJmFyPTElM0ExJmZpdD1jcm9wJm1hc2s9ZWxsaXBzZSZiZz1GRkZGRkYmZm09cG5nMzImcz01YmQ4OGI1NTEzNGM5NGQ1OTc4MDBiM2NlYzliMTMxOA%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D311b9d5eecc9d9ec1e9213d1686b1dd3?ixlib=rb-4.1.1&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9U2hhZGluZyUyMHRlY2huaXF1ZXMlMjAtJTIwUGhvbmclMkZmbGF0JTJGR291cmFuZCUyMHNoYWRpbmcmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz1jMjM0OWU1ZWE5YzZkM2VhNjhmZWIyNzdhODhjZGJkZQ&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBrYW50YV95YW1hb2thJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9ZGJjZTUyM2UzODI5YTc2NGMzYzQ0OWIzYTBhOWEyOGI&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=29b37b1264735d241c68039876164c4f"
+        },
         {
           "id": "https://qiita.com/yuri_tsukimi/items/8cbff516bc92b5e71033",
           "author": null,
@@ -3482,6 +3528,21 @@
       "feedUrl": "https://zenn.dev/topics/glsl/feed",
       "siteUrl": "https://zenn.dev/topics/glsl",
       "articles": [
+        {
+          "id": "https://zenn.dev/kkkjp/articles/e41d6fe796b7a1",
+          "author": "KONO〇",
+          "description": "同じ内容を何度も書くのが面倒になった\nLearnOpenGL を勉強しながら OpenGL を書いています。 PBR あたりまで来たところで、シェーダーがこういう状態になりました。\n\n不透明物のライティングを計算するフラグメントシェーダー\nガラス（半透明物）を前方描画するフラグメントシェーダー\n\nやることが違うのは最後の合成だけで、Cook-Torrance の中身は同じです。なので後者には、こんなコメント付きで関数が丸ごとコピーされていました。\n// deferred_lighting.frag と同じ式。違うのは albedo に 0 を渡して拡散を殺す点だけ\nvec3 Calc...",
+          "link": "https://zenn.dev/kkkjp/articles/e41d6fe796b7a1",
+          "publishedOn": "2026-08-19T05:53:20.000Z",
+          "wordCount": null,
+          "title": "番外編　GLSL に `#include` を実装してみた",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--2auX_r7H--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E7%2595%25AA%25E5%25A4%2596%25E7%25B7%25A8%25E3%2580%2580GLSL%2520%25E3%2581%25AB%2520%2560%2523include%2560%2520%25E3%2582%2592%25E5%25AE%259F%25E8%25A3%2585%25E3%2581%2597%25E3%2581%25A6%25E3%2581%25BF%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:KONO%25E3%2580%2587%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jSndBZEYxWml5S0tQQkhmV091TDNDLTBNbF9RUGVHMU5Ba1R0cURnX2VCMU9NNWV0WT1zMjUwLWM=%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+            "length": "0",
+            "type": "false"
+          },
+          "imageUrl": null
+        },
         {
           "id": "https://zenn.dev/0st_ts/articles/8986ca8bce48c3",
           "author": "わかと",
@@ -3825,6 +3886,16 @@
       "feedUrl": "https://3d.crdg.jp/env/feed/",
       "siteUrl": "https://3d.crdg.jp/env/",
       "articles": [
+        {
+          "id": "https://3d.crdg.jp/env/?p=10117",
+          "author": "Hiroto.Ishii",
+          "description": "前回の記事「【Unreal Engine】モデルを撮影しよう！②～マテリアル設定編～」の続きになります！第3弾となる今回は、UE5でのライティング設定 […]\n続きを読む\n投稿 【Unreal Engine】モデルを撮影しよう！③～ライティング・モデル撮影編～ は エンホリ - ENVIRONMENT HOLIC｜C&R Creative Studios に最初に表示されました。",
+          "link": "https://3d.crdg.jp/env/2026/08/19/10117/?utm_source=rss&utm_medium=rss&utm_campaign=%25e3%2580%2590unreal-engine%25e3%2580%2591%25e3%2583%25a2%25e3%2583%2587%25e3%2583%25ab%25e3%2582%2592%25e6%2592%25ae%25e5%25bd%25b1%25e3%2581%2597%25e3%2582%2588%25e3%2581%2586%25ef%25bc%2581%25e2%2591%25a2%25ef%25bd%259e%25e3%2583%25a9%25e3%2582%25a4%25e3%2583%2586%25e3%2582%25a3%25e3%2583%25b3%25e3%2582%25b0",
+          "publishedOn": "2026-08-19T12:01:06.000Z",
+          "wordCount": 3242,
+          "title": "【Unreal Engine】モデルを撮影しよう！③～ライティング・モデル撮影編～",
+          "imageUrl": "https://3d.crdg.jp/env/wp-content/uploads/2026/08/enhori_03_00-1.png"
+        },
         {
           "id": "https://3d.crdg.jp/env/?p=10228",
           "author": "Akito.Yamakawa",

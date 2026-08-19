@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-19T03:37:03.130Z</updated>
+    <updated>2026-08-19T08:23:11.508Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ArtDeck – 画像・動画・GIFを整理して、その場でドローイングしたり構図や色を分析できるリファレンスツール]]></title>
+        <id>https://modelinghappy.com/?p=70017</id>
+        <link href="https://modelinghappy.com/archives/70017"/>
+        <updated>2026-08-19T06:55:09.000Z</updated>
+        <summary type="html"><![CDATA[ArtDeck ArtDeckは、画像や動画などの資料を自由に並べて整理し、そのまま色や明暗、構図などを分析できるアーティスト向けのリファレンスボードアプリです。PureRefのような無限キャンバス上に、画像だけでなく動
+The post ArtDeck – 画像・動画・GIFを整理して、その場でドローイングしたり構図や色を分析できるリファレンスツール first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
+        <author>
+            <name>modelinghappy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Surface Mesh – Blenderでベジェ曲線から車のボディなど滑らかな曲面を作成できる無料アドオン]]></title>
+        <id>https://modelinghappy.com/?p=70012</id>
+        <link href="https://modelinghappy.com/archives/70012"/>
+        <updated>2026-08-19T04:00:07.000Z</updated>
+        <summary type="html"><![CDATA[Surface Mesh Surface Meshは、ベジェ曲線を使って滑らかなサーフェスを生成できるBlender用アドオンです。車のボディパネルなど、複数の滑らかな曲面をつなぎ合わせるモデリングに便利に使う事が出来ま
+The post Surface Mesh – Blenderでベジェ曲線から車のボディなど滑らかな曲面を作成できる無料アドオン first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
+        <author>
+            <name>modelinghappy</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CG制作者のための「露出」最初の一歩+Unreal Engineの露出設定入門 | Epic Games Japan 篠山氏による露出の超入門資料！無料公開！]]></title>
         <id>https://3dnchu.com/?p=1067341</id>
@@ -4466,19 +4488,6 @@ The post Edit Layers – Blenderでモデリングの編集履歴をレイヤー
 The post QOL Clean Slice Booleans – ブーリアン後のシェーディング崩れをワンクリックで解消する無料Blenderアドオン first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
         <author>
             <name>modelinghappy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fable/BlenderMCPを使ってキャラクターセットアップパイプラインを作る]]></title>
-        <id>https://note.com/maneki_pipeline/n/na946dd3c2156</id>
-        <link href="https://note.com/maneki_pipeline/n/na946dd3c2156"/>
-        <updated>2026-07-20T15:45:35.000Z</updated>
-        <summary type="html"><![CDATA[概要
-コミュニティ製のBlenderMCPをClaudeから使って、ゲーム向けのアートリソースを取り扱うためのパイプラインを作れるかどうかを試しました。
-目標としてはよくMayaで行っているようなチェッカー、エクスポータなどのBlenderによる代替です。
-続きをみる]]></summary>
-        <author>
-            <name>#Houdiniタグ</name>
         </author>
     </entry>
 </feed>

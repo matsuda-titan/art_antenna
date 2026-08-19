@@ -2,10 +2,68 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-18T12:22:22.054Z</updated>
+    <updated>2026-08-19T00:37:08.740Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Disney Research、モーション生成と編集を統合するAI手法を発表　大規模生成モデルを活用し、既存のモーションを維持しながら新しいコンテンツを対話的に生成・編集 - ニュース]]></title>
+        <id>https://cgworld.jp/flashnews/01-202608-Disney-Motion.html</id>
+        <link href="https://cgworld.jp/flashnews/01-202608-Disney-Motion.html"/>
+        <updated>2026-08-18T22:53:58.000Z</updated>
+        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[フォトグラメトリ数学｜48：Cost Aggregationとは？～周辺情報を使って視差を安定化する～]]></title>
+        <id>https://zenn.dev/s_hashida/articles/c88c6f19e7500c</id>
+        <link href="https://zenn.dev/s_hashida/articles/c88c6f19e7500c"/>
+        <updated>2026-08-18T21:59:19.000Z</updated>
+        <summary type="html"><![CDATA[はじめに
+前回は、
+
+Matching Cost
+Patch Matching
+SAD
+SSD
+NCC
+Cost Volume
+
+について説明しました。
+
+その中で重要だったのが、
+
+対応点候補ごとにMatching Costを計算する
+1画素だけではなく周辺のPatchを比較する
+各画素について複数の視差候補を評価する
+Matching Costを C(u,v,d) として保持できる
+
+という点です。
+
+SADやSSDのように、値が小さいほど対応がよいMatching Costを利用する場合、
+
+d^*(u,v)
+=
+\arg\min_d C(u,v,d)
+
+によって、各画素の視...]]></summary>
+        <author>
+            <name>s_hashida</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Global illumination in path tracing vs local illumination in the classical ray tracing]]></title>
+        <id>https://qiita.com/kanta_yamaoka/items/883170bed8f485446c71</id>
+        <link href="https://qiita.com/kanta_yamaoka/items/883170bed8f485446c71"/>
+        <updated>2026-08-18T15:24:49.000Z</updated>
+        <summary type="html"><![CDATA[TLDR Global vs local illumination
+To understand global illumination, I need to know the local illumination, with direct piont light refl...]]></summary>
+        <author>
+            <name>CGタグが付けられた新着記事 - Qiita</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[3D生成AIモデル「Meshy 7」がリリース！3D形状の一致精度が大幅向上]]></title>
         <id>https://cginterest.com/?p=61748</id>
@@ -4410,52 +4468,6 @@ The post QOL Clean Slice Booleans – ブーリアン後のシェーディング
 続きをみる]]></summary>
         <author>
             <name>#Houdiniタグ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[UV Islands Edge – UVアイランドの重なり・間隔・UDIMエラーを可視化できる無料Blenderアドオン]]></title>
-        <id>https://modelinghappy.com/?p=69426</id>
-        <link href="https://modelinghappy.com/archives/69426"/>
-        <updated>2026-07-20T10:02:11.000Z</updated>
-        <summary type="html"><![CDATA[UV Islands Edge UV Islands Edgeは、Blenderで編集モードでUVアイランドを分析して、色で通常、近い、重なり表示や、UDIM配置エラー、反転した面、近すぎるアイランドなどの問題を検出して
-The post UV Islands Edge – UVアイランドの重なり・間隔・UDIMエラーを可視化できる無料Blenderアドオン first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
-        <author>
-            <name>modelinghappy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Node Peek-シェーダーノードをサムネイルでリアルタイムプレビューできる無料Blenderアドオン]]></title>
-        <id>https://modelinghappy.com/?p=69422</id>
-        <link href="https://modelinghappy.com/archives/69422"/>
-        <updated>2026-07-20T09:45:27.000Z</updated>
-        <summary type="html"><![CDATA[Node Peek Node PeekはBlenderのシェーダーエディターの各ノードの上に、レンダリングされたサムネイルプレビューがリアルタイム表示出来るアドオンです。 各ノードの出力の小さなサムネイルをレンダリングし
-The post Node Peek-シェーダーノードをサムネイルでリアルタイムプレビューできる無料Blenderアドオン first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
-        <author>
-            <name>modelinghappy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ClaudeCodeでイラスト制作補助ツールを作った話（と、気付いたこと）]]></title>
-        <id>https://zenn.dev/zn_ryg12/articles/shader-note-20260720</id>
-        <link href="https://zenn.dev/zn_ryg12/articles/shader-note-20260720"/>
-        <updated>2026-07-20T09:09:07.000Z</updated>
-        <summary type="html"><![CDATA[Unityで静止画にポスプロかけるツールを初めて作って公開してみました。
-やってみて刺さった気付きを、忘れないうちに残しておきます。
-筆者：絵描きで2Dアーティスト。
-
-
- つくったもの
-https://github.com/ryuga-12z/2d-postprocess-tool
-平たく説明すると、静止画にポストエフェクト加工を加えて書き出しする、
-2Dアーティストが絵描き向けに作ったイラスト制作の補助的ツール
-
-左から右に加工するようなやつ
-
- なぜ作ったのか
-今までありそうでなかったイラスト制作の補助ツールが作れると思ったからです。
-シェーダーが多少書けるようになった+Unity...]]></summary>
-        <author>
-            <name>ryuga.</name>
         </author>
     </entry>
 </feed>

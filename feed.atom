@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-19T12:22:18.313Z</updated>
+    <updated>2026-08-20T00:37:02.947Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Cube氏、After Effectsプラグイン「Overbleed」リリース　色ずれブリードなどアナログ風エフェクト - ニュース]]></title>
+        <id>https://cgworld.jp/flashnews/01-202608-Overlbleed.html</id>
+        <link href="https://cgworld.jp/flashnews/01-202608-Overlbleed.html"/>
+        <updated>2026-08-19T22:47:13.000Z</updated>
+        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Smart Remesh – Blenderで形状を保ちながらポリゴン数を大幅削減できるリメッシュアドオン]]></title>
+        <id>https://modelinghappy.com/?p=70024</id>
+        <link href="https://modelinghappy.com/archives/70024"/>
+        <updated>2026-08-19T13:31:51.000Z</updated>
+        <summary type="html"><![CDATA[Smart Remesh Smart Remeshは、Blenderで複雑なモデルの形状をできるだけ維持しながら、ポリゴン数を減らして扱いやすいメッシュへ作り直せるリメッシュアドオンです。平面パネルをきれいなN角形として
+The post Smart Remesh – Blenderで形状を保ちながらポリゴン数を大幅削減できるリメッシュアドオン first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
+        <author>
+            <name>modelinghappy</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【Unreal Engine】モデルを撮影しよう！③～ライティング・モデル撮影編～]]></title>
         <id>https://3d.crdg.jp/env/?p=10117</id>
@@ -38,6 +59,26 @@ https://www.youtube.com/watch?v=eyz4hqEEh5I
         <summary type="html"><![CDATA[different strategies used to compute the lighting. difference comes in interpolation of colors and normals. One of them do not even inter...]]></summary>
         <author>
             <name>Shaderタグが付けられた新着記事 - Qiita</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Comfy-Org、ローカル環境対応の「Comfy MCP」を公開！AIエージェントからローカルComfyUIを直接操作可能に]]></title>
+        <id>https://cginterest.com/?p=61772</id>
+        <link href="https://cginterest.com/2026/08/19/comfy-org%e3%80%81%e3%83%ad%e3%83%bc%e3%82%ab%e3%83%ab%e7%92%b0%e5%a2%83%e5%af%be%e5%bf%9c%e3%81%ae%e3%80%8ccomfy-mcp%e3%80%8d%e3%82%92%e5%85%ac%e9%96%8b%ef%bc%81ai%e3%82%a8%e3%83%bc%e3%82%b8%e3%82%a7/"/>
+        <updated>2026-08-19T09:01:25.000Z</updated>
+        <summary type="html"><![CDATA[2026年8月19日（現地時間）- Comfy-Orgは、ユーザーのローカル環境で動作するComfyUIと各種AIエージェントを直接接続し、ワークフローの自動構築や実行を行える公式MCPサーバー「Comfy MCP」のロ […]]]></summary>
+        <author>
+            <name>.me</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LTX、オープンウェイト動画生成モデル「LTX-2.5」を公開！カットをまたいでも崩れないマルチショット生成に対応]]></title>
+        <id>https://cginterest.com/?p=61773</id>
+        <link href="https://cginterest.com/2026/08/19/ltx%e3%80%81%e3%82%aa%e3%83%bc%e3%83%97%e3%83%b3%e3%82%a6%e3%82%a7%e3%82%a4%e3%83%88%e5%8b%95%e7%94%bb%e7%94%9f%e6%88%90%e3%83%a2%e3%83%87%e3%83%ab%e3%80%8cltx-2-5%e3%80%8d%e3%82%92%e5%85%ac%e9%96%8b/"/>
+        <updated>2026-08-19T08:49:07.000Z</updated>
+        <summary type="html"><![CDATA[2026年8月11日（現地時間）- LTXは、オープンウェイトの動画生成モデル「LTX-2.5」を発表しました。また、 ComfyUI は公式ワークフローを含む初日対応を発表しています。 LTX-2.5 とは LTX-2 […]]]></summary>
+        <author>
+            <name>.me</name>
         </author>
     </entry>
     <entry>
@@ -4473,92 +4514,6 @@ The post Edit Layers – Blenderでモデリングの編集履歴をレイヤー
 このアーキテクチャの場合、スポークにあたるサブエージェント同士は会話せず、オーケストレーター役のみと連...]]></summary>
         <author>
             <name>yosuke.yasuda</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[V-Ray 7 Update 4 がリリース！ガウススプラットのリライティング対応、レンダリングパフォーマンスの向上など]]></title>
-        <id>https://cginterest.com/?p=60935</id>
-        <link href="https://cginterest.com/2026/07/21/v-ray-7-update-4-%e3%81%8c%e3%83%aa%e3%83%aa%e3%83%bc%e3%82%b9%ef%bc%81%e3%82%ac%e3%82%a6%e3%82%b9%e3%82%b9%e3%83%97%e3%83%a9%e3%83%83%e3%83%88%e3%81%ae%e3%83%aa%e3%83%a9%e3%82%a4%e3%83%86%e3%82%a3/"/>
-        <updated>2026-07-21T09:57:00.000Z</updated>
-        <summary type="html"><![CDATA[2026年7月20日（現地時間） – Chaosは、メディア＆エンターテイメント向けの V-Ray 7, update 4 を発表しました。 新機能ハイライト このアップデートでは、DCCツールのビューポート […]]]></summary>
-        <author>
-            <name>.me</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Substance Designer / ノイズで作る氷]]></title>
-        <id>https://note.com/efeozi/n/n9882c30b66cb</id>
-        <link href="https://note.com/efeozi/n/n9882c30b66cb"/>
-        <updated>2026-07-21T08:06:49.000Z</updated>
-        <summary type="html"><![CDATA[続きをみる]]></summary>
-        <author>
-            <name>#SubstanceDesignerタグ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Substance Designer / 地割れ]]></title>
-        <id>https://note.com/efeozi/n/n36c0972ff5c6</id>
-        <link href="https://note.com/efeozi/n/n36c0972ff5c6"/>
-        <updated>2026-07-21T08:05:03.000Z</updated>
-        <summary type="html"><![CDATA[続きをみる]]></summary>
-        <author>
-            <name>#SubstanceDesignerタグ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Laplacian Surface Editing (2004)]]></title>
-        <id>https://qiita.com/matumu20/items/c99b6048ea124af60148</id>
-        <link href="https://qiita.com/matumu20/items/c99b6048ea124af60148"/>
-        <updated>2026-07-21T06:34:09.000Z</updated>
-        <summary type="html"><![CDATA[Laplacian Surface Editing (Olga Sorkine, 2004)
-
-3行要約
-
-本論文では、メッシュの各頂点を近傍頂点の重心からの相対位置（微分座標）で表現することで、形状の幾何学的詳細を保持したまま編集を行う新しい手法を提案しています。...]]></summary>
-        <author>
-            <name>3DCGタグが付けられた新着記事 - Qiita</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【Maya】レースゲーム制作で役に立つ簡易ビューワーの作成]]></title>
-        <id>https://3d.crdg.jp/env/?p=9981</id>
-        <link href="https://3d.crdg.jp/env/2026/07/21/9981/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=%25e3%2580%2590maya%25e3%2580%2591%25e3%2583%25ac%25e3%2583%25bc%25e3%2582%25b9%25e3%2582%25b2%25e3%2583%25bc%25e3%2583%25a0%25e5%2588%25b6%25e4%25bd%259c%25e3%2581%25a7%25e5%25bd%25b9%25e3%2581%25ab%25e7%25ab%258b%25e3%2581%25a4%25e7%25b0%25a1%25e6%2598%2593%25e3%2583%2593%25e3%2583%25a5%25e3%2583%25bc%25e3%2583%25af"/>
-        <updated>2026-07-21T04:19:22.000Z</updated>
-        <summary type="html"><![CDATA[レースゲームの制作の際は実際の走行画面があると、画面の見え方が把握でき作業の優先順位やクオリティを考えることができます。今回はカメラを使用した簡易的な […]
-続きを読む
-投稿 【Maya】レースゲーム制作で役に立つ簡易ビューワーの作成 は エンホリ - ENVIRONMENT HOLIC｜C&R Creative Studios に最初に表示されました。]]></summary>
-        <author>
-            <name>Erika.Yamanaka</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[第14回 前編：デジタル・フロンティアのテクニカル系スタッフの仕事 - 連載]]></title>
-        <id>https://cgworld.jp/regular/202607-chiyama-t-14-1.html</id>
-        <link href="https://cgworld.jp/regular/202607-chiyama-t-14-1.html"/>
-        <updated>2026-07-21T01:30:00.000Z</updated>
-        <summary type="html"><![CDATA[本連載では、CG映像制作におけるテクニカル系スタッフの仕事の現状と課題を、パイプライン開発の専門家である痴山紘史氏（日本CGサービス（JCGS）代表）が探っていく。第14回では、実写VFXやゲーム、セル調アニメ、フルCGアニメーション、VTuberなど、幅広いジャンルのCG映像制作を手がけるデジタル・フロンティアを取材。多様な案件を支えるパイプライン開発やワークフロー設計、その中核を担うResearch and Development（以下、R&D）とテクニカルディレクター（以下、TD）の役割について、前]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[『機動戦士ガンダム 閃光のハサウェイ キルケーの魔女』CG制作現場発　はじめてのFlow Production Trackingと熟達の3ds Max技術]]></title>
-        <id>https://area.autodesk.jp/case/animation/hathaway-the-witch-of-circe/</id>
-        <link href="https://area.autodesk.jp/case/animation/hathaway-the-witch-of-circe/"/>
-        <updated>2026-07-21T01:00:00.000Z</updated>
-        <summary type="html"><![CDATA[『機動戦士ガンダム 閃光のハサウェイ キルケーの魔女』（以下、『キルケーの魔女』）では、前作にも増して制作工程の中で3DCGの比重が高まることが予想されたため、3DCG制作チームの再構築が行われた。実際にエンドクレジットを見ると、CGに関連する部分だけでも20社以上のプロダクションやフリーランスのスタッフが携わっており、改めてその規模の大きさを実感する。制作にあたってはFlow Production Tracking（以下、Flow PT）を導入し、主にショットワークの遣り取りに活用した。今回はCGの中核スタジオとして機能したIKIF+とサンライズスタジオのスタッフやクリエイターにFlow PTや3ds MaxなどのAutodesk製品群の感触を聞き、作例とともに解説をして頂いた。・・・]]></summary>
-        <author>
-            <name>AREA JAPAN | Autodesk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rokoko、AIモーションキャプチャ「Rokoko Vision 3.0」発表！新ソルバー導入で品質向上、クラウド処理への移行など]]></title>
-        <id>https://cginterest.com/?p=60916</id>
-        <link href="https://cginterest.com/2026/07/21/rokoko%e3%80%81ai%e3%83%a2%e3%83%bc%e3%82%b7%e3%83%a7%e3%83%b3%e3%82%ad%e3%83%a3%e3%83%97%e3%83%81%e3%83%a3%e3%80%8crokoko-vision-3-0%e3%80%8d%e7%99%ba%e8%a1%a8%ef%bc%81%e6%96%b0%e3%82%bd%e3%83%ab/"/>
-        <updated>2026-07-20T23:15:00.000Z</updated>
-        <summary type="html"><![CDATA[2026年7月16日（現地時間） – Rokokoは、Rokoko Vision 3.0を発表しました。 Rokoko AIモーションキャプチャパイプラインの再構築 今回のアップデートでは、単眼カメラ（モノキ […]]]></summary>
-        <author>
-            <name>.me</name>
         </author>
     </entry>
 </feed>

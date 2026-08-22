@@ -2,10 +2,47 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-22T08:16:29.451Z</updated>
+    <updated>2026-08-22T12:17:39.073Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ClipStudio/Photoshop Live Sync Tool – Unityでアバターのテクスチャを確認しながら編集できる無料ツール！]]></title>
+        <id>https://modelinghappy.com/?p=70054</id>
+        <link href="https://modelinghappy.com/archives/70054"/>
+        <updated>2026-08-22T10:51:31.000Z</updated>
+        <summary type="html"><![CDATA[#x2728;【FREE / 無料】ClipStudio/Photoshop Live Sync Tool ClipStudio/Photoshop Live Sync Toolは、StudioCatsさんが作成した、
+The post ClipStudio/Photoshop Live Sync Tool – Unityでアバターのテクスチャを確認しながら編集できる無料ツール！ first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
+        <author>
+            <name>modelinghappy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【Unity】「なんとなく」を卒業する。4種類のノイズの処理を紐解いてみた。]]></title>
+        <id>https://zenn.dev/zero_0r0/articles/34700641dbbcdf</id>
+        <link href="https://zenn.dev/zero_0r0/articles/34700641dbbcdf"/>
+        <updated>2026-08-22T10:07:39.000Z</updated>
+        <summary type="html"><![CDATA[はじめに
+魔法エフェクト、地形生成、煙や炎のパーティクル。Unityでこのあたりを作ろうとすると、どこかで必ずノイズが出てきます。
+ただ、VFX GraphやShader Graphを開くと「Value」「Perlin」「Cellular」「Curl」と何種類も並んでいて、どれを選べばいいのか分かりにくい。しかもShader Graphには Perlin Noise という名前のノードがなかったりといろいろ引っかかると思います。
+この記事は、ノードベースのシェーダーやエフェクトを触り始めた初〜中級者向けに、4種類の仕組みと、C# / Shader Graph / VFX Graph ...]]></summary>
+        <author>
+            <name>ゼロ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【Unity】「なんとなく」を卒業する。4種類のノイズの処理を紐解いてみた。]]></title>
+        <id>https://zenn.dev/zero_0r0/articles/34700641dbbcdf</id>
+        <link href="https://zenn.dev/zero_0r0/articles/34700641dbbcdf"/>
+        <updated>2026-08-22T10:07:39.000Z</updated>
+        <summary type="html"><![CDATA[はじめに
+魔法エフェクト、地形生成、煙や炎のパーティクル。Unityでこのあたりを作ろうとすると、どこかで必ずノイズが出てきます。
+ただ、VFX GraphやShader Graphを開くと「Value」「Perlin」「Cellular」「Curl」と何種類も並んでいて、どれを選べばいいのか分かりにくい。しかもShader Graphには Perlin Noise という名前のノードがなかったりといろいろ引っかかると思います。
+この記事は、ノードベースのシェーダーやエフェクトを触り始めた初〜中級者向けに、4種類の仕組みと、C# / Shader Graph / VFX Graph ...]]></summary>
+        <author>
+            <name>ゼロ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[「カクつく」の原因は補間ではなく日程表だった（動きを疑う順番）]]></title>
         <id>https://qiita.com/Renga/items/2839ed077c8818950422</id>
@@ -4542,27 +4579,6 @@ The post Easy Pivot – ピボット編集をDキーを押すだけでスナッ�
         <summary type="html"><![CDATA[SIGGRAPH 2026 の基調講演映像「DLSS 5 | SIGGRAPH 2026 Keynote Presentation by Edward Liu and Gabriele Leone」がYoutube上で公開されています！]]></summary>
         <author>
             <name>Ymt3D -3dnchu-</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Maya 2027.2リリース！AIが新しいモーションを生成可能になったMotionMakerやSmart Bevelを強化]]></title>
-        <id>https://modelinghappy.com/?p=69472</id>
-        <link href="https://modelinghappy.com/archives/69472"/>
-        <updated>2026-07-24T00:00:43.000Z</updated>
-        <summary type="html"><![CDATA[What#8217;s New in Maya 2027.2 Maya 2027.2では、AIを活用したMotionMakerの機能強化を中心に、モデリングやレンダリング、USDワークフローなどアップデートが追加されま
-The post Maya 2027.2リリース！AIが新しいモーションを生成可能になったMotionMakerやSmart Bevelを強化 first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
-        <author>
-            <name>modelinghappy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[UE5用リアルタイムオーシャンシステムプラグイン「Easy Waterscape」リリース　高速フーリエ変換海面シミュレーションをブループリント1つで実現 - ニュース]]></title>
-        <id>https://cgworld.jp/flashnews/01-202607-EasyWaterscape.html</id>
-        <link href="https://cgworld.jp/flashnews/01-202607-EasyWaterscape.html"/>
-        <updated>2026-07-23T23:50:09.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
         </author>
     </entry>
 </feed>

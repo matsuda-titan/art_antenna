@@ -953,21 +953,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "https://3dnchu.com/wp-content/uploads/texture-to-pbr-1.webp"
-        },
-        {
-          "id": "https://3dnchu.com/?p=1066641",
-          "author": "Ymt3D -3dnchu-",
-          "description": "Avik Biswas氏が1回のパスで軽量なライトを描画出来るUnreal Engine 5向けプラグイン「Fake Lighting」をリリースしています！",
-          "link": "https://3dnchu.com/archives/fake-lighting/",
-          "publishedOn": "2026-07-24T15:21:34.000Z",
-          "wordCount": 8870,
-          "title": "Fake Lighting | ポストプロセス処理で軽量に数千個の疑似ライトを処理する事が可能なUnreal Engine 5向けプラグインが登場！",
-          "enclosure": {
-            "url": "https://3dnchu.com/wp-content/uploads/Fake-Lighting-1.webp",
-            "length": "1007810",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://3dnchu.com/wp-content/uploads/Fake-Lighting-1.webp"
         }
       ]
     },
@@ -2829,6 +2814,21 @@
       "feedUrl": "https://zenn.dev/topics/3dcg/feed",
       "siteUrl": "https://zenn.dev/topics/3dcg",
       "articles": [
+        {
+          "id": "https://zenn.dev/bricks/articles/jitter-is-a-schedule-bug",
+          "author": "Renga",
+          "description": "デスクトップに立たせているアバターが「カクつく」と感じました。1つの症状でしたが、性質の違う原因が3つ出てきました。\n見る順番を間違えると遠回りになります。私は補間から疑って、遠回りしました。\n\n 1. まず「重なっていないか」を疑う\n一番効いたのがこれでした。動きが終わる前に次が始まっていました。\n間隔は5秒に設定していました。ところが動きは9秒ありました。再生中にもう一度呼ばれると経過時間が0に戻るので、途中で先頭へ巻き戻ります。立ち姿に戻る間がないまま次が始まる。それが「カクついた」という印象になっていました。\n症状は「カクつき」ですが、原因は補間ではなく日程表にあります。 曲線を...",
+          "link": "https://zenn.dev/bricks/articles/jitter-is-a-schedule-bug",
+          "publishedOn": "2026-08-23T02:43:37.000Z",
+          "wordCount": 485,
+          "title": "「カクつく」の原因は補間ではなく日程表だった（動きを疑う順番）",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--Ge-Q2fvk--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2580%258C%25E3%2582%25AB%25E3%2582%25AF%25E3%2581%25A4%25E3%2581%258F%25E3%2580%258D%25E3%2581%25AE%25E5%258E%259F%25E5%259B%25A0%25E3%2581%25AF%25E8%25A3%259C%25E9%2596%2593%25E3%2581%25A7%25E3%2581%25AF%25E3%2581%25AA%25E3%2581%258F%25E6%2597%25A5%25E7%25A8%258B%25E8%25A1%25A8%25E3%2581%25A0%25E3%2581%25A3%25E3%2581%259F%25EF%25BC%2588%25E5%258B%2595%25E3%2581%258D%25E3%2582%2592%25E7%2596%2591%25E3%2581%2586%25E9%25A0%2586%25E7%2595%25AA%25EF%25BC%2589%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Renga%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2IyYzI4MDZiNDEuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+            "length": "0",
+            "type": "false"
+          },
+          "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--Ge-Q2fvk--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2580%258C%25E3%2582%25AB%25E3%2582%25AF%25E3%2581%25A4%25E3%2581%258F%25E3%2580%258D%25E3%2581%25AE%25E5%258E%259F%25E5%259B%25A0%25E3%2581%25AF%25E8%25A3%259C%25E9%2596%2593%25E3%2581%25A7%25E3%2581%25AF%25E3%2581%25AA%25E3%2581%258F%25E6%2597%25A5%25E7%25A8%258B%25E8%25A1%25A8%25E3%2581%25A0%25E3%2581%25A3%25E3%2581%259F%25EF%25BC%2588%25E5%258B%2595%25E3%2581%258D%25E3%2582%2592%25E7%2596%2591%25E3%2581%2586%25E9%25A0%2586%25E7%2595%25AA%25EF%25BC%2589%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Renga%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2IyYzI4MDZiNDEuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+        },
         {
           "id": "https://zenn.dev/bricks/articles/accessor-bounds-drift",
           "author": "Renga",

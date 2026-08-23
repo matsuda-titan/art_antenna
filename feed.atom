@@ -2,10 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-23T00:39:48.602Z</updated>
+    <updated>2026-08-23T03:40:37.340Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[「カクつく」の原因は補間ではなく日程表だった（動きを疑う順番）]]></title>
+        <id>https://zenn.dev/bricks/articles/jitter-is-a-schedule-bug</id>
+        <link href="https://zenn.dev/bricks/articles/jitter-is-a-schedule-bug"/>
+        <updated>2026-08-23T02:43:37.000Z</updated>
+        <summary type="html"><![CDATA[デスクトップに立たせているアバターが「カクつく」と感じました。1つの症状でしたが、性質の違う原因が3つ出てきました。
+見る順番を間違えると遠回りになります。私は補間から疑って、遠回りしました。
+
+ 1. まず「重なっていないか」を疑う
+一番効いたのがこれでした。動きが終わる前に次が始まっていました。
+間隔は5秒に設定していました。ところが動きは9秒ありました。再生中にもう一度呼ばれると経過時間が0に戻るので、途中で先頭へ巻き戻ります。立ち姿に戻る間がないまま次が始まる。それが「カクついた」という印象になっていました。
+症状は「カクつき」ですが、原因は補間ではなく日程表にあります。 曲線を...]]></summary>
+        <author>
+            <name>Renga</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Patterned Glass Compositor | Blenderのコンポジターだけでパターンガラス風の歪み＆屈折表現を追加できる無料ノードグループ！Blender 5.2対応！]]></title>
         <id>https://3dnchu.com/?p=1067456</id>
@@ -4478,16 +4494,6 @@ CGWORLDさまにてHoudiniのセミナーを開催させていただく運びと
         <link href="https://3dnchu.com/archives/texture-to-pbr/"/>
         <updated>2026-07-24T15:58:10.000Z</updated>
         <summary type="html"><![CDATA[Woziva (Serhat Akgul)氏が1枚のアルベドテクスチャからPBR表現に必要な法線＆ラフネス＆AOマップを生成できるUE5プラグイン「Texture to PBR」をFab上で無料リリースしています！]]></summary>
-        <author>
-            <name>Ymt3D -3dnchu-</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fake Lighting | ポストプロセス処理で軽量に数千個の疑似ライトを処理する事が可能なUnreal Engine 5向けプラグインが登場！]]></title>
-        <id>https://3dnchu.com/?p=1066641</id>
-        <link href="https://3dnchu.com/archives/fake-lighting/"/>
-        <updated>2026-07-24T15:21:34.000Z</updated>
-        <summary type="html"><![CDATA[Avik Biswas氏が1回のパスで軽量なライトを描画出来るUnreal Engine 5向けプラグイン「Fake Lighting」をリリースしています！]]></summary>
         <author>
             <name>Ymt3D -3dnchu-</name>
         </author>

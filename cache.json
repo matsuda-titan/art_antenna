@@ -1864,6 +1864,26 @@
       "siteUrl": "https://modelinghappy.com",
       "articles": [
         {
+          "id": "https://modelinghappy.com/?p=70064",
+          "author": "modelinghappy",
+          "description": "CNC Kitchenが、3Dモデルの表面に凹凸テクスチャを追加できる無料ツール「BumpMesh」を公開しました。2026年4月4日に正式公開されたブラウザツールで、ソフトのインストールやアカウント登録をせずに利用でき\nThe post BumpMesh – STL・OBJ・STEPモデルに木目・革・カーボン・網目などの凹凸テクスチャを追加できる無料ブラウザツール first appeared on 3DCG最新情報サイト MODELING HAPPY.",
+          "link": "https://modelinghappy.com/archives/70064",
+          "publishedOn": "2026-08-24T01:05:49.000Z",
+          "wordCount": 3031,
+          "title": "BumpMesh – STL・OBJ・STEPモデルに木目・革・カーボン・網目などの凹凸テクスチャを追加できる無料ブラウザツール",
+          "imageUrl": "https://modelinghappy.com/wp-content/uploads/2026/08/20260824_bump_mesh_01.jpg"
+        },
+        {
+          "id": "https://modelinghappy.com/?p=70060",
+          "author": "modelinghappy",
+          "description": "Blender Buddies Blend Buddiesは、複数のユーザーがインターネット経由で同じBlenderシーンに参加し、リアルタイムで共同編集できるアドオンです。 パスワード付きのルームを作成してほかのユーザ\nThe post Blend Buddies — Blenderの同じシーンを複数人でリアルタイム編集できる無料betaアドオン first appeared on 3DCG最新情報サイト MODELING HAPPY.",
+          "link": "https://modelinghappy.com/archives/70060",
+          "publishedOn": "2026-08-24T00:46:15.000Z",
+          "wordCount": 3035,
+          "title": "Blend Buddies — Blenderの同じシーンを複数人でリアルタイム編集できる無料betaアドオン",
+          "imageUrl": "https://modelinghappy.com/wp-content/uploads/2026/08/20260824_BlenderBuddies.jpg"
+        },
+        {
           "id": "https://modelinghappy.com/?p=70054",
           "author": "modelinghappy",
           "description": "#x2728;【FREE / 無料】ClipStudio/Photoshop Live Sync Tool ClipStudio/Photoshop Live Sync Toolは、StudioCatsさんが作成した、\nThe post ClipStudio/Photoshop Live Sync Tool – Unityでアバターのテクスチャを確認しながら編集できる無料ツール！ first appeared on 3DCG最新情報サイト MODELING HAPPY.",
@@ -2776,21 +2796,6 @@
             "type": "false"
           },
           "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--9hB8NcCh--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Houdini%253A%2520%25E8%2583%258C%25E6%2599%25AF%25E3%2583%2589%25E3%2583%25A9%25E3%2583%2583%25E3%2582%25B0%25E3%2581%25A7%25E9%2581%25B8%25E6%258A%259E%25E3%2583%258E%25E3%2583%25BC%25E3%2583%2589%25E3%2582%2592%25E5%258B%2595%25E3%2581%258B%25E3%2581%2599%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2582%2581%25E3%2582%2593%25E3%2581%259F%25E3%2581%2584%25E3%2581%2593%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2pvTlNrRXEtOVdEUlNaa2dKcFBxeFlFZGpZTm5TcGl3SzFUeXZOPXMyNTAtYw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
-        },
-        {
-          "id": "https://zenn.dev/yuzutarou/articles/542e111b1013e3",
-          "author": "ゆずたろう",
-          "description": "調べたこと\n以下のように、各アセットごとにnameアトリビュートを設定し、パーツ別にFBXを出力する方法について、忘れるのでまとめました。\n\nサンプルファイル：\nexport_pdg_fbx.hiplc\nhttps://github.com/yuzutarou-maru/Houdini_Sample/tree/main/houdini/PDG\n\n Houdiniバージョン\nHoudini Indie 21.0440で確認しました。\n\n 出力について\nFBXを出力するには、rop_fbxノードを使用しますが、1度に複数のパーツを、ファイルを分けて出力することはできません。\n数回なら手作...",
-          "link": "https://zenn.dev/yuzutarou/articles/542e111b1013e3",
-          "publishedOn": "2026-07-25T13:17:16.000Z",
-          "wordCount": 409,
-          "title": "【Houdini】アトリビュート値別にワークアイテムを作成したい",
-          "enclosure": {
-            "url": "https://res.cloudinary.com/zenn/image/upload/s--axXDYTcC--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2580%2590Houdini%25E3%2580%2591%25E3%2582%25A2%25E3%2583%2588%25E3%2583%25AA%25E3%2583%2593%25E3%2583%25A5%25E3%2583%25BC%25E3%2583%2588%25E5%2580%25A4%25E5%2588%25A5%25E3%2581%25AB%25E3%2583%25AF%25E3%2583%25BC%25E3%2582%25AF%25E3%2582%25A2%25E3%2582%25A4%25E3%2583%2586%25E3%2583%25A0%25E3%2582%2592%25E4%25BD%259C%25E6%2588%2590%25E3%2581%2597%25E3%2581%259F%25E3%2581%2584%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2582%2586%25E3%2581%259A%25E3%2581%259F%25E3%2582%258D%25E3%2581%2586%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzhlZGM4ZjBmYjQuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
-            "length": "0",
-            "type": "false"
-          },
-          "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--axXDYTcC--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2580%2590Houdini%25E3%2580%2591%25E3%2582%25A2%25E3%2583%2588%25E3%2583%25AA%25E3%2583%2593%25E3%2583%25A5%25E3%2583%25BC%25E3%2583%2588%25E5%2580%25A4%25E5%2588%25A5%25E3%2581%25AB%25E3%2583%25AF%25E3%2583%25BC%25E3%2582%25AF%25E3%2582%25A2%25E3%2582%25A4%25E3%2583%2586%25E3%2583%25A0%25E3%2582%2592%25E4%25BD%259C%25E6%2588%2590%25E3%2581%2597%25E3%2581%259F%25E3%2581%2584%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2582%2586%25E3%2581%259A%25E3%2581%259F%25E3%2582%258D%25E3%2581%2586%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzhlZGM4ZjBmYjQuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
         }
       ]
     },
@@ -3666,6 +3671,16 @@
       "siteUrl": "https://area.autodesk.jp/",
       "articles": [
         {
+          "id": "https://area.autodesk.jp/event/autodesk-days-2026/",
+          "author": null,
+          "description": "Maya・3ds Maxをもっと好きになる5日間、Autodesk Days 2026。Maya 2027.2・3ds Max 2027.2・Flow Studioの最新機能から、ローポリモデリング、手付けアニメーション、セルルック3DCG、tyFlowの爆発表現、リグ制作まで。9月7日〜11日オンライン、参加無料。・・・",
+          "link": "https://area.autodesk.jp/event/autodesk-days-2026/",
+          "publishedOn": "2026-08-24T01:00:00.000Z",
+          "wordCount": 355,
+          "title": "Autodesk Days 2026",
+          "imageUrl": "https://area.autodesk.jp/event/assets_c/2026/08/ic_autodesk_days_2026_1400x782-thumb-1200xauto-5875.jpg"
+        },
+        {
           "id": "https://area.autodesk.jp/jobs/ensapia-tokyo/",
           "author": null,
           "description": "エンセイピアの3Dデザインは、見た目の美しさだけを追いかける仕事ではありません。\nお客様が触れた瞬間にどんな驚きや愛着が生まれるのか、体験として心に残るのかを想像し、その体験価値から逆算してかたちを設計していきます。世界観やコンセプトを深く理解し、感情まで含めて立体に落とし込む─そこにこの仕事の面白さがあります。\n自社でコンテンツを育てているからこそ、細部までこだわり抜き、挑戦を重ねられる環境も魅力のひとつ。職種を越えた対話を通じてより良いUXを追求し続けています。常識に縛られず、本質を問い、意図をくみ取った上で提案できる方。想いを言葉やビジュアルで共有しながら、共に新しい価値を創っていける仲間を求めています。・・・",
@@ -3965,16 +3980,6 @@
           "wordCount": 3139,
           "title": "【Substance Designer】ノード操作に関するTips",
           "imageUrl": "https://3d.crdg.jp/env/wp-content/uploads/2026/07/【Substance-Designer】ノード操作に関するTips.jpg"
-        },
-        {
-          "id": "https://3d.crdg.jp/env/?p=10073",
-          "author": "Kosei.Hatanaka",
-          "description": "前回の記事の続きです。【Maya】初期設定 ～まず最初にやること～①まっさらなMaya環境から作業をスタートするときに、ぼくが毎回必ず登録しているショ […]\n続きを読む\n投稿 【Maya】初期設定 ～まず最初にやること～② は エンホリ - ENVIRONMENT HOLIC｜C&R Creative Studios に最初に表示されました。",
-          "link": "https://3d.crdg.jp/env/2026/07/25/10073/?utm_source=rss&utm_medium=rss&utm_campaign=%25e3%2580%2590maya%25e3%2580%2591%25e5%2588%259d%25e6%259c%259f%25e8%25a8%25ad%25e5%25ae%259a-%25ef%25bd%259e%25e3%2581%25be%25e3%2581%259a%25e6%259c%2580%25e5%2588%259d%25e3%2581%25ab%25e3%2582%2584%25e3%2582%258b%25e3%2581%2593%25e3%2581%25a8%25ef%25bd%259e%25e2%2591%25a1",
-          "publishedOn": "2026-07-25T13:59:23.000Z",
-          "wordCount": 3176,
-          "title": "【Maya】初期設定 ～まず最初にやること～②",
-          "imageUrl": "https://3d.crdg.jp/env/wp-content/uploads/2024/03/ogp_.jpg"
         }
       ]
     },

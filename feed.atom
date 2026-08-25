@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-25T08:29:24.160Z</updated>
+    <updated>2026-08-25T12:25:49.354Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
@@ -4557,74 +4557,6 @@ The post Physical Atmosphere² – Blenderで物理ベースの空・雲・天�
         <summary type="html"><![CDATA[『ROMEO IS A DEAD MAN』のゲームグラフィックスメイキングを紹介。]]></summary>
         <author>
             <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Draw-Hair – ガイドメッシュに沿ってブラシ感覚で髪を描ける無料のBlenderヘアモデリングアドオン]]></title>
-        <id>https://modelinghappy.com/?p=69526</id>
-        <link href="https://modelinghappy.com/archives/69526"/>
-        <updated>2026-07-26T23:57:29.000Z</updated>
-        <summary type="html"><![CDATA[【Free】ヘアモデリング支援アドオン「Draw-Hair」 ヨルノサクさんが作成した、ガイドメッシュ（頭部など）に沿って直接髪の毛のカーブを描画できるアドオンが公開されています。 ガイドメッシュに沿ってヘアカーブを直接
-The post Draw-Hair – ガイドメッシュに沿ってブラシ感覚で髪を描ける無料のBlenderヘアモデリングアドオン first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
-        <author>
-            <name>modelinghappy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[オートデスク、『EA SPORTS F1』における3ds Max活用事例講演動画を公開　次世代リグ移行を支える内製ツールと自動化 - ニュース]]></title>
-        <id>https://cgworld.jp/flashnews/01-202607-3dsMax-EASports.html</id>
-        <link href="https://cgworld.jp/flashnews/01-202607-3dsMax-EASports.html"/>
-        <updated>2026-07-26T23:19:11.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[フォトグラメトリ数学｜40：DEM・DSM・DTMとは何か ～標高データの違いを理解する～]]></title>
-        <id>https://zenn.dev/s_hashida/articles/1e81210c77778d</id>
-        <link href="https://zenn.dev/s_hashida/articles/1e81210c77778d"/>
-        <updated>2026-07-26T21:58:05.000Z</updated>
-        <summary type="html"><![CDATA[はじめに
-前回は、
-
-オルソ補正
-RPC
-DEM
-地図座標
-
-について説明しました。
-
-その中で重要だったのが、
-
-オルソ補正ではDEMを利用する
-RPCだけでは地上位置は決まらない
-DEMによって高さが与えられる
-
-という点です。
-
-しかしここで疑問が出てきます。
-
-DEMとは何なのか？
-DSMやDTMとは何が違うのか？
-オルソ補正ではどれを利用するのか？
-
-実は、高さデータにも目的に応じていくつか種類があります。
-今回は、
-
-DEM
-DSM
-DTM
-それぞれの違い
-オルソ補正との関係
-
-について整理します。
-
- 高さデータには種類がある
-地表の高さといっても、
-何を高さとして扱...]]></summary>
-        <author>
-            <name>s_hashida</name>
         </author>
     </entry>
 </feed>

@@ -2,10 +2,118 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-27T18:30:07.252Z</updated>
+    <updated>2026-08-28T07:50:12.161Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【サイコム】GPUだけではない。自動車や建築など、ノンゲーム領域でのUnreal Engine運用を支えるPCパーツの役割｜Boost with Sycom #06 - スペシャルコンテンツ]]></title>
+        <id>https://cgworld.jp/special-feature/202608-sycom-arcnel-06.html</id>
+        <link href="https://cgworld.jp/special-feature/202608-sycom-arcnel-06.html"/>
+        <updated>2026-08-28T08:01:33.000Z</updated>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Marvelous Designer、4年ぶりの国内ユーザーイベント「Marvelous Designer Tokyo User Summit 2026」を10/27（火）に開催 - ニュース]]></title>
+        <id>https://cgworld.jp/flashnews/03%EF%BD%B02608-MDTUS2026.html</id>
+        <link href="https://cgworld.jp/flashnews/03%EF%BD%B02608-MDTUS2026.html"/>
+        <updated>2026-08-28T05:59:31.000Z</updated>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[My Colors | Unreal Editor内で自分専用のカラーライブラリを構築！画像やViewportからの色抽出＆UI配色生成にも対応した無料プラグイン！]]></title>
+        <id>https://3dnchu.com/?p=1067700</id>
+        <link href="https://3dnchu.com/archives/my-colors-ue/"/>
+        <updated>2026-08-28T03:09:09.000Z</updated>
+        <summary type="html"><![CDATA[KimsCode StudioによるUnreal Engine向け無料カラーパレット管理プラグイン「My Colors」がFab上でリリース！「My Colors」は、Unreal Editor内でカラーパレットを作成・整理し、プロジェクトを跨いで活用できるカラーライブラリ構築プラグインです。色を保 […]
+続きを読む]]></summary>
+        <author>
+            <name>Ymt3D -3dnchu-</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SIGGRAPHとはひと味ちがう、現場発の技術が集結したシンポジウム「DigiPro 2026」 〜SIGGRAPH 2026（2） - 特集]]></title>
+        <id>https://cgworld.jp/article/202608-sig-digipro.html</id>
+        <link href="https://cgworld.jp/article/202608-sig-digipro.html"/>
+        <updated>2026-08-28T01:43:00.000Z</updated>
+        <summary type="html"><![CDATA[SIGGRAPH 2026から、「DigiPro 2026」の内容をレポート。]]></summary>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【アセット紹介】Pro City – Hong Kong V2 – カスタム可能な香港の街アセット]]></title>
+        <id>https://cgbox.jp/?p=65622</id>
+        <link href="https://cgbox.jp/2026/08/28/news-addon-pro-city/"/>
+        <updated>2026-08-28T01:30:22.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは！ 今回はアドオンの「Pro City – Hong Kong V2」を紹介します。 こちらのリンクがアドオンの商品ページになります。 Pro City – Hong Kong V2 「 […]]]></summary>
+        <author>
+            <name>kasahara</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Maya、Blender、UEなど3Dツール間の座標軸変換を理解できるWebツール「3D座標系 変換ビジュアライザ」公開 - ニュース]]></title>
+        <id>https://cgworld.jp/flashnews/01-202608-3DTR.html</id>
+        <link href="https://cgworld.jp/flashnews/01-202608-3DTR.html"/>
+        <updated>2026-08-27T22:56:45.000Z</updated>
+        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[フォトグラメトリ数学｜50：Disparity MapからDense Point Cloudへ～視差から3次元座標を求める～]]></title>
+        <id>https://zenn.dev/s_hashida/articles/dbe1efe2cbedfa</id>
+        <link href="https://zenn.dev/s_hashida/articles/dbe1efe2cbedfa"/>
+        <updated>2026-08-27T21:52:05.000Z</updated>
+        <summary type="html"><![CDATA[はじめに
+前回は、
+
+Local MatchingとGlobal Matching
+SGM
+経路方向
+視差変化に対するPenalty
+複数方向のCostの集約
+
+について説明しました。
+
+その中で重要だったのが、
+
+局所的なMatching Costだけでは視差が不安定になることがある
+SGMでは複数方向の経路に沿ってCostを計算する
+視差の変化にPenaltyを与えることで、周囲とのつながりを考慮できる
+最終的に各画素について最も適切な視差を求める
+
+という点です。
+
+SGMでは、複数方向のCostを、
+
+S(p,d)
+=
+\sum_r L_r(p,d)
+
+として集約し、
+
+d...]]></summary>
+        <author>
+            <name>s_hashida</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FPOM - Fast Parallax Occlusion Mapping | 低コストなPOMでNanite Displacementに近い立体的なサーフェスを表現できるUnreal Engine向けマテリアル！]]></title>
+        <id>https://3dnchu.com/?p=1067680</id>
+        <link href="https://3dnchu.com/archives/fpom-fast-parallax-occlusion-mapping/"/>
+        <updated>2026-08-27T19:30:11.000Z</updated>
+        <summary type="html"><![CDATA[Tore Lervik氏（@toreler）が、Unreal Engine向けのParallax Occlusion Mappingマテリアルファンクション「FPOM – Fast Parallax Occlusion Mapping」をリリースしました！「FPOM」は、従来のParal […]
+続きを読む]]></summary>
+        <author>
+            <name>Ymt3D -3dnchu-</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Apple、M5 MaxとM5 Ultra搭載の新型Mac Studioを発表]]></title>
         <id>https://cginterest.com/?p=62035</id>
@@ -4207,58 +4315,6 @@ The post KamiJam カミジャム – ブラウザで3Dキャラクターの髪�
         <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
         <author>
             <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sculptools: Palette – 円形パレットでブラシを一瞬で切り替えられるBlender無料スカルプトアドオン]]></title>
-        <id>https://modelinghappy.com/?p=69598</id>
-        <link href="https://modelinghappy.com/archives/69598"/>
-        <updated>2026-07-29T11:42:26.000Z</updated>
-        <summary type="html"><![CDATA[Sculptools: Palette Sculptools: Paletteは、Blenderのスカルプトモードでブラシやツールを素早く呼び出せる無料アドオンです。 通常はAsset Shelfやアセットライブラリから
-The post Sculptools: Palette – 円形パレットでブラシを一瞬で切り替えられるBlender無料スカルプトアドオン first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
-        <author>
-            <name>modelinghappy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Crayon Box –– Blenderのマテリアル管理を快適・トライプラナー投影・デカール配置まで対応したBlenderアドオン！]]></title>
-        <id>https://modelinghappy.com/?p=69590</id>
-        <link href="https://modelinghappy.com/archives/69590"/>
-        <updated>2026-07-29T10:53:54.000Z</updated>
-        <summary type="html"><![CDATA[Crayon Box Crayon Boxは、Blenderでマテリアルの検索・割り当て・整理・投影調整などを効率化できるマテリアル管理アドオンです。  ビューポート上で「Eキー」を押すと、登録したマテリアル
-The post Crayon Box –– Blenderのマテリアル管理を快適・トライプラナー投影・デカール配置まで対応したBlenderアドオン！ first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
-        <author>
-            <name>modelinghappy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NOTHING NEWが挑む「才能が生まれ続ける仕組みづくり」━━経済産業省によるコンテンツ産業成長投資支援事業（スタートアップ支援事業クリエイター支援事業『創風』） - 特集]]></title>
-        <id>https://cgworld.jp/article/2606-03-sofu.html</id>
-        <link href="https://cgworld.jp/article/2606-03-sofu.html"/>
-        <updated>2026-07-29T09:30:00.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[登録者数4,020万（アメリカ）＋122万（日本語版）人 「ライアンズ・ワールド」で展開するショートアニメ制作 〜（2） VRモデリングソフト「Gravity Sketch」導入による直感的なプリビズ制作 - 特集]]></title>
-        <id>https://cgworld.jp/article/2602-ryansworld02.html</id>
-        <link href="https://cgworld.jp/article/2602-ryansworld02.html"/>
-        <updated>2026-07-29T09:00:23.000Z</updated>
-        <summary type="html"><![CDATA[「ライアンズ・ワールド」のアニメCGメイキングを紹介。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2026年7月の NVIDIA Studio Driver アップデートがリリース！]]></title>
-        <id>https://cginterest.com/?p=61258</id>
-        <link href="https://cginterest.com/2026/07/29/2026%e5%b9%b47%e6%9c%88%e3%81%ae-nvidia-studio-driver-%e3%82%a2%e3%83%83%e3%83%97%e3%83%87%e3%83%bc%e3%83%88%e3%81%8c%e3%83%aa%e3%83%aa%e3%83%bc%e3%82%b9%ef%bc%81/"/>
-        <updated>2026-07-29T08:47:56.000Z</updated>
-        <summary type="html"><![CDATA[2026年7月28日（現地時間）、NVIDIAよりクリエイターおよび3D開発者向けの最新グラフィックスドライバー7月版 NVIDIA Studio Driver（バージョン 610.88）がリリースされました。 今月の  […]]]></summary>
-        <author>
-            <name>.me</name>
         </author>
     </entry>
 </feed>

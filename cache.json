@@ -1865,46 +1865,6 @@
           "wordCount": 757,
           "title": "Lukas Thorup氏、Cinema 4Dで砂鉄を表現するチュートリアル動画公開　磁力アニメーションをプロシージャルに構築 - ニュース",
           "imageUrl": "https://cgworld.jp/flashnews/assets_c/2026/08/C4D_MagParticle-01-thumb-1920x1080-87151.jpg"
-        },
-        {
-          "id": "https://cgworld.jp/article/202607-syt-3.html",
-          "author": null,
-          "description": "※本記事は月刊 『CGWORLD + digital video』vol.33...",
-          "link": "https://cgworld.jp/article/202607-syt-3.html",
-          "publishedOn": "2026-07-31T01:00:00.000Z",
-          "wordCount": 805,
-          "title": "3DCGショートアニメ『また明日ね。』制作の舞台裏 第3回：観客の感情を成立させる、カット制作の実践 - 特集",
-          "imageUrl": "https://cgworld.jp/article/assets_c/2026/07/202607-syt_c22-thumb-1000x563-86314.jpg"
-        },
-        {
-          "id": "https://cgworld.jp/flashnews/creative-pro-pdadobe-rgb-994kpd2732u731-wqhdsw272qn.html",
-          "author": null,
-          "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
-          "link": "https://cgworld.jp/flashnews/creative-pro-pdadobe-rgb-994kpd2732u731-wqhdsw272qn.html",
-          "publishedOn": "2026-07-30T23:44:43.000Z",
-          "wordCount": 957,
-          "title": "BenQ Adobe RGB 99%カバーで色のブレをなくす4Kカラーマネジメントモニター「PD2732U」を7月31日発売 ～写真編集を快適にするフォトグラファー向けWQHDモニター「SW272QN」も同日発売～ - ニュース",
-          "imageUrl": "https://cgworld.jp/flashnews/assets_c/2026/07/4aabff24593c535992bb2f48db9b52bec7ee8810-thumb-1000x521-86973.jpg"
-        },
-        {
-          "id": "https://cgworld.jp/flashnews/cygames-20261.html",
-          "author": null,
-          "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
-          "link": "https://cgworld.jp/flashnews/cygames-20261.html",
-          "publishedOn": "2026-07-30T23:09:52.000Z",
-          "wordCount": 858,
-          "title": "Cygamesやバンダイナムコスタジオ、プラチナゲームズが登壇。ゲーム制作フェス「ゲームメーカーズ スクランブル2026」第1弾の講演ラインナップを公開 - ニュース",
-          "imageUrl": "https://cgworld.jp/flashnews/assets_c/2026/07/KV.png-thumb-1000x563-87126.jpg"
-        },
-        {
-          "id": "https://cgworld.jp/special-feature/recruit-cgteacher-202604.html",
-          "author": null,
-          "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
-          "link": "https://cgworld.jp/special-feature/recruit-cgteacher-202604.html",
-          "publishedOn": "2026-07-30T21:45:00.000Z",
-          "wordCount": 1218,
-          "title": "全国CG講師求人情報まとめ。授業内容、使用ツール、ギャランティを一挙紹介【2026年6月更新】  - スペシャルコンテンツ",
-          "imageUrl": "https://cgworld.jp/special-feature/assets_c/2026/04/c2b3cc1efb831164a1b1c490127786364eaed02e-thumb-1000x563-81572-thumb-1000x563-81878.jpg"
         }
       ]
     },
@@ -2746,6 +2706,21 @@
       "siteUrl": "https://zenn.dev/topics/shadergraph",
       "articles": [
         {
+          "id": "https://zenn.dev/zn_ryg12/articles/shader-note-20260829",
+          "author": "ryuga.",
+          "description": "トゥーンシェーダー\nいわゆる「セルルック」とか「トゥーンレンダリング」とか呼ばれているもの。\n3Dのキャラクターモデルをアニメのセル画のように主線を描いたり、影の輪郭をパキっと見せたりする表現方法です。\n\n今回はその中の触りの部分、影の輪郭をパキっとさせる部分をShaderGraphで再現していこうと思います。\n※この記事の作例には「ユニティちゃん」を使用しています\n© Unity Technologies Japan/UCL\n\n\n ShaderGraphでの実装\nこのユニティちゃんに\n\n\nこういう影を付けるところまでを目標にします。\n\n\n今回は仕組みが分かりやすいようにFullsc...",
+          "link": "https://zenn.dev/zn_ryg12/articles/shader-note-20260829",
+          "publishedOn": "2026-08-29T08:59:27.000Z",
+          "wordCount": 681,
+          "title": "Unity ShaderGraph備忘録 part6-Toon Shader",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--RnP4Fj-Z--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Unity%2520ShaderGraph%25E5%2582%2599%25E5%25BF%2598%25E9%258C%25B2%2520part6-Toon%2520Shader%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:ryuga.%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jS1lsU1ZRcnpMYW1lRXUzY3lqQW9JdGhFQW8wMGNhaGpLY1JnRkh0a3JYRnJRdjBlSTU9czI1MC1j%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+            "length": "0",
+            "type": "false"
+          },
+          "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--RnP4Fj-Z--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Unity%2520ShaderGraph%25E5%2582%2599%25E5%25BF%2598%25E9%258C%25B2%2520part6-Toon%2520Shader%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:ryuga.%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jS1lsU1ZRcnpMYW1lRXUzY3lqQW9JdGhFQW8wMGNhaGpLY1JnRkh0a3JYRnJRdjBlSTU9czI1MC1j%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+        },
+        {
           "id": "https://zenn.dev/zero_0r0/articles/34700641dbbcdf",
           "author": "ゼロ",
           "description": "はじめに\n魔法エフェクト、地形生成、煙や炎のパーティクル。Unityでこのあたりを作ろうとすると、どこかで必ずノイズが出てきます。\nただ、VFX GraphやShader Graphを開くと「Value」「Perlin」「Cellular」「Curl」と何種類も並んでいて、どれを選べばいいのか分かりにくい。しかもShader Graphには Perlin Noise という名前のノードがなかったりといろいろ引っかかると思います。\nこの記事は、ノードベースのシェーダーやエフェクトを触り始めた初〜中級者向けに、4種類の仕組みと、C# / Shader Graph / VFX Graph ...",
@@ -2819,6 +2794,21 @@
       "feedUrl": "https://zenn.dev/topics/3dcg/feed",
       "siteUrl": "https://zenn.dev/topics/3dcg",
       "articles": [
+        {
+          "id": "https://zenn.dev/tonote/articles/dog-3d-auto-rig",
+          "author": "tonote",
+          "description": "はじめに\n4本足のリグ入りキャラクター（犬）を自動生成できないかと思い、Autodesk Flow Studio の Text to 3D / オートリグ機能を試しました。結論から言うと、現状は4足動物のオートリグには未対応でしたが、代わりに二足歩行キャラクターでオートリグの手順を一通り学習できたので、その記録です。\n\n Text to 3D で犬メッシュを生成\nText to 3D に「4足歩行の小型柴犬」というプロンプトを入力し、メッシュを4パターン生成しました。\n\nText to 3D の入力画面（生成前）\n\nプロンプトから生成された4足歩行の柴犬メッシュ（4パターン）\n生成時...",
+          "link": "https://zenn.dev/tonote/articles/dog-3d-auto-rig",
+          "publishedOn": "2026-08-29T06:25:07.000Z",
+          "wordCount": 567,
+          "title": "犬の3D作成を自動化する",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--ugFQPRVY--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E7%258A%25AC%25E3%2581%25AE3D%25E4%25BD%259C%25E6%2588%2590%25E3%2582%2592%25E8%2587%25AA%25E5%258B%2595%25E5%258C%2596%25E3%2581%2599%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:tonote%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzU5OGNhZmFkNmUuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+            "length": "0",
+            "type": "false"
+          },
+          "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--ugFQPRVY--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E7%258A%25AC%25E3%2581%25AE3D%25E4%25BD%259C%25E6%2588%2590%25E3%2582%2592%25E8%2587%25AA%25E5%258B%2595%25E5%258C%2596%25E3%2581%2599%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:tonote%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzU5OGNhZmFkNmUuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+        },
         {
           "id": "https://zenn.dev/livetoon/articles/2026-livetoon-shono",
           "author": "しょうの",
@@ -3922,6 +3912,16 @@
       "siteUrl": "https://cginterest.com",
       "articles": [
         {
+          "id": "https://cginterest.com/?p=61336",
+          "author": ".me",
+          "description": "今月発売、2026年8月以降に発売予定*のあるCG関連書籍を紹介するコーナーです(Amazon調べ)。 CGソフトの入門本、テクニック本、アートブック、リファレンス（参考資料）、その他気になるおすすめ書籍を紹介していきま […]",
+          "link": "https://cginterest.com/2026/08/29/2026%e5%b9%b48%e6%9c%88%e7%99%ba%e5%a3%b2%e3%81%aecg%e9%96%a2%e9%80%a3%e6%9b%b8%e7%b1%8d%e3%82%92%e3%83%81%e3%82%a7%e3%83%83%e3%82%af%ef%bc%81/",
+          "publishedOn": "2026-08-29T10:15:06.000Z",
+          "wordCount": 11744,
+          "title": "2026年8月発売のCG関連書籍をチェック！",
+          "imageUrl": "https://cginterest.com/wp-content/uploads/2026/08/bookcorner-new-2026-8.webp"
+        },
+        {
           "id": "https://cginterest.com/?p=62143",
           "author": ".me",
           "description": "2026年8月27日（現地時間）－ Epic Gamesは、無料サンプルプロジェクト「City サンプル」をUnreal Engine 5.8向けに更新したことを発表しました。 今回のアップデートでは、プロシージャル コ […]",
@@ -4465,16 +4465,6 @@
             "type": "video/mp4"
           },
           "imageUrl": "https://cginterest.com/wp-content/uploads/2026/07/accuface2.webp"
-        },
-        {
-          "id": "https://cginterest.com/?p=60331",
-          "author": ".me",
-          "description": "今月発売、2026年7月以降に発売予定*のあるCG関連書籍を紹介するコーナーです(Amazon調べ)。 CGソフトの入門本、テクニック本、アートブック、リファレンス（参考資料）、その他気になるおすすめ書籍を紹介していきま […]",
-          "link": "https://cginterest.com/2026/07/31/2026%e5%b9%b47%e6%9c%88%e7%99%ba%e5%a3%b2%e3%81%aecg%e9%96%a2%e9%80%a3%e6%9b%b8%e7%b1%8d%e3%82%92%e3%83%81%e3%82%a7%e3%83%83%e3%82%af%ef%bc%81/",
-          "publishedOn": "2026-07-30T23:38:12.000Z",
-          "wordCount": 32652,
-          "title": "2026年7月発売のCG関連書籍をチェック！",
-          "imageUrl": "https://cginterest.com/wp-content/uploads/2026/07/bookcorner-2026-7.webp"
         }
       ]
     }

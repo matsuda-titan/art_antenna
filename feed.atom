@@ -2,10 +2,65 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-29T04:44:25.291Z</updated>
+    <updated>2026-08-29T13:28:47.389Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[2026年8月発売のCG関連書籍をチェック！]]></title>
+        <id>https://cginterest.com/?p=61336</id>
+        <link href="https://cginterest.com/2026/08/29/2026%e5%b9%b48%e6%9c%88%e7%99%ba%e5%a3%b2%e3%81%aecg%e9%96%a2%e9%80%a3%e6%9b%b8%e7%b1%8d%e3%82%92%e3%83%81%e3%82%a7%e3%83%83%e3%82%af%ef%bc%81/"/>
+        <updated>2026-08-29T10:15:06.000Z</updated>
+        <summary type="html"><![CDATA[今月発売、2026年8月以降に発売予定*のあるCG関連書籍を紹介するコーナーです(Amazon調べ)。 CGソフトの入門本、テクニック本、アートブック、リファレンス（参考資料）、その他気になるおすすめ書籍を紹介していきま […]]]></summary>
+        <author>
+            <name>.me</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unity ShaderGraph備忘録 part6-Toon Shader]]></title>
+        <id>https://zenn.dev/zn_ryg12/articles/shader-note-20260829</id>
+        <link href="https://zenn.dev/zn_ryg12/articles/shader-note-20260829"/>
+        <updated>2026-08-29T08:59:27.000Z</updated>
+        <summary type="html"><![CDATA[トゥーンシェーダー
+いわゆる「セルルック」とか「トゥーンレンダリング」とか呼ばれているもの。
+3Dのキャラクターモデルをアニメのセル画のように主線を描いたり、影の輪郭をパキっと見せたりする表現方法です。
+
+今回はその中の触りの部分、影の輪郭をパキっとさせる部分をShaderGraphで再現していこうと思います。
+※この記事の作例には「ユニティちゃん」を使用しています
+© Unity Technologies Japan/UCL
+
+
+ ShaderGraphでの実装
+このユニティちゃんに
+
+
+こういう影を付けるところまでを目標にします。
+
+
+今回は仕組みが分かりやすいようにFullsc...]]></summary>
+        <author>
+            <name>ryuga.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[犬の3D作成を自動化する]]></title>
+        <id>https://zenn.dev/tonote/articles/dog-3d-auto-rig</id>
+        <link href="https://zenn.dev/tonote/articles/dog-3d-auto-rig"/>
+        <updated>2026-08-29T06:25:07.000Z</updated>
+        <summary type="html"><![CDATA[はじめに
+4本足のリグ入りキャラクター（犬）を自動生成できないかと思い、Autodesk Flow Studio の Text to 3D / オートリグ機能を試しました。結論から言うと、現状は4足動物のオートリグには未対応でしたが、代わりに二足歩行キャラクターでオートリグの手順を一通り学習できたので、その記録です。
+
+ Text to 3D で犬メッシュを生成
+Text to 3D に「4足歩行の小型柴犬」というプロンプトを入力し、メッシュを4パターン生成しました。
+
+Text to 3D の入力画面（生成前）
+
+プロンプトから生成された4足歩行の柴犬メッシュ（4パターン）
+生成時...]]></summary>
+        <author>
+            <name>tonote</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【無料アドオン】Reference Scale – スケールの目安となるリファレンス画像を素早く配置！]]></title>
         <id>https://cgbox.jp/?p=65626</id>
@@ -4201,46 +4256,6 @@ LLMモデルの能力が上がるにつれて、プ...]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[3DCGショートアニメ『また明日ね。』制作の舞台裏 第3回：観客の感情を成立させる、カット制作の実践 - 特集]]></title>
-        <id>https://cgworld.jp/article/202607-syt-3.html</id>
-        <link href="https://cgworld.jp/article/202607-syt-3.html"/>
-        <updated>2026-07-31T01:00:00.000Z</updated>
-        <summary type="html"><![CDATA[※本記事は月刊 『CGWORLD + digital video』vol.33...]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BenQ Adobe RGB 99%カバーで色のブレをなくす4Kカラーマネジメントモニター「PD2732U」を7月31日発売 ～写真編集を快適にするフォトグラファー向けWQHDモニター「SW272QN」も同日発売～ - ニュース]]></title>
-        <id>https://cgworld.jp/flashnews/creative-pro-pdadobe-rgb-994kpd2732u731-wqhdsw272qn.html</id>
-        <link href="https://cgworld.jp/flashnews/creative-pro-pdadobe-rgb-994kpd2732u731-wqhdsw272qn.html"/>
-        <updated>2026-07-30T23:44:43.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2026年7月発売のCG関連書籍をチェック！]]></title>
-        <id>https://cginterest.com/?p=60331</id>
-        <link href="https://cginterest.com/2026/07/31/2026%e5%b9%b47%e6%9c%88%e7%99%ba%e5%a3%b2%e3%81%aecg%e9%96%a2%e9%80%a3%e6%9b%b8%e7%b1%8d%e3%82%92%e3%83%81%e3%82%a7%e3%83%83%e3%82%af%ef%bc%81/"/>
-        <updated>2026-07-30T23:38:12.000Z</updated>
-        <summary type="html"><![CDATA[今月発売、2026年7月以降に発売予定*のあるCG関連書籍を紹介するコーナーです(Amazon調べ)。 CGソフトの入門本、テクニック本、アートブック、リファレンス（参考資料）、その他気になるおすすめ書籍を紹介していきま […]]]></summary>
-        <author>
-            <name>.me</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cygamesやバンダイナムコスタジオ、プラチナゲームズが登壇。ゲーム制作フェス「ゲームメーカーズ スクランブル2026」第1弾の講演ラインナップを公開 - ニュース]]></title>
-        <id>https://cgworld.jp/flashnews/cygames-20261.html</id>
-        <link href="https://cgworld.jp/flashnews/cygames-20261.html"/>
-        <updated>2026-07-30T23:09:52.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Sculpt Subtools – アウトライナー不要！スカルプトモードでZBrush風のSubTool管理ができるBlender用無料アドオン]]></title>
         <id>https://modelinghappy.com/?p=69632</id>
         <link href="https://modelinghappy.com/archives/69632"/>
@@ -4249,16 +4264,6 @@ LLMモデルの能力が上がるにつれて、プ...]]></summary>
 The post Sculpt Subtools – アウトライナー不要！スカルプトモードでZBrush風のSubTool管理ができるBlender用無料アドオン first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
         <author>
             <name>modelinghappy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[全国CG講師求人情報まとめ。授業内容、使用ツール、ギャランティを一挙紹介【2026年6月更新】  - スペシャルコンテンツ]]></title>
-        <id>https://cgworld.jp/special-feature/recruit-cgteacher-202604.html</id>
-        <link href="https://cgworld.jp/special-feature/recruit-cgteacher-202604.html"/>
-        <updated>2026-07-30T21:45:00.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
         </author>
     </entry>
     <entry>

@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-28T19:45:58.602Z</updated>
+    <updated>2026-08-29T04:44:25.291Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【無料アドオン】Reference Scale – スケールの目安となるリファレンス画像を素早く配置！]]></title>
+        <id>https://cgbox.jp/?p=65626</id>
+        <link href="https://cgbox.jp/2026/08/29/news-addon-reference-scale/"/>
+        <updated>2026-08-29T01:41:03.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは！ 今回はアドオンの「Reference Scale」を紹介します。 こちらのリンクがアドオンの商品ページになります。 Reference Scale 「Reference Scale」は、Blenderの3D […]]]></summary>
+        <author>
+            <name>kasahara</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[VRMの軽量化をやってみる]]></title>
         <id>https://zenn.dev/livetoon/articles/2026-livetoon-shono</id>
@@ -4260,96 +4270,6 @@ The post Sculpt Subtools – アウトライナー不要！スカルプトモー
 The post After EffectsでGaussian Splatting（.PLY）を直接読み込み出来る無料プラグインが登場 first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
         <author>
             <name>modelinghappy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【Unity】モバイルのVertexシェーダーでテクスチャのBilinearサンプルができない]]></title>
-        <id>https://qiita.com/yuri_tsukimi/items/0a25a0b89fdae359a0de</id>
-        <link href="https://qiita.com/yuri_tsukimi/items/0a25a0b89fdae359a0de"/>
-        <updated>2026-07-30T13:18:43.000Z</updated>
-        <summary type="html"><![CDATA[シェーダーはFragmentシェーダーでテクスチャをサンプルするのが普通ですが，GPUパーティクルなどではVertexシェーダーでもテクスチャをサンプルします．
-Vertexシェーダーでテクスチャをサンプルする場合でも，テクスチャの設定でFilterをBilinearに設定...]]></summary>
-        <author>
-            <name>Shaderタグが付けられた新着記事 - Qiita</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nyanneco Fabric Weave Generatorを使ったSubstancePainterでのタイリングテクスチャの作り方]]></title>
-        <id>https://note.com/nyanneco/n/n48803e0e3016</id>
-        <link href="https://note.com/nyanneco/n/n48803e0e3016"/>
-        <updated>2026-07-30T12:54:10.000Z</updated>
-        <summary type="html"><![CDATA[Nyanneco Fabric Weave Generatorから出力される織種はシームレスになっています。そのためシームレスなタイリングテクスチャとしても使うことが可能です。
-SubstancePainter向け織種ジェネレーター「Nyanneco Fabric Weave Generator」
-https://nyanneco9.booth.pm/items/8661987
-続きをみる]]></summary>
-        <author>
-            <name>#substancepainterタグ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Second Nature – メッシュ貫通の修正やセカンダリモーションを自動化できるアニメーション用Blenderアドオン！]]></title>
-        <id>https://modelinghappy.com/?p=69620</id>
-        <link href="https://modelinghappy.com/archives/69620"/>
-        <updated>2026-07-30T12:24:11.000Z</updated>
-        <summary type="html"><![CDATA[Secondnature ( Speedup Animation Tasks ) Second Natureは、Blenderでメッシュ貫通の修正やセカンダリモーションを自動化できるアニメーション用アドオンです。 通常は
-The post Second Nature – メッシュ貫通の修正やセカンダリモーションを自動化できるアニメーション用Blenderアドオン！ first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
-        <author>
-            <name>modelinghappy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[登録者数4,020万（アメリカ）＋122万（日本語版）人 「ライアンズ・ワールド」で展開するショートアニメ制作 〜（3） アイデア出しとくり返しによるイテレーション制作スタイル - 特集]]></title>
-        <id>https://cgworld.jp/article/2602-ryansworld03.html</id>
-        <link href="https://cgworld.jp/article/2602-ryansworld03.html"/>
-        <updated>2026-07-30T09:00:55.000Z</updated>
-        <summary type="html"><![CDATA[「ライアンズ・ワールド」のアニメCGメイキングを紹介。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[UV Scaler 9000 – 必要な場所だけ高密度にできるゲームアセット向けBlenderアドオン！]]></title>
-        <id>https://modelinghappy.com/?p=69613</id>
-        <link href="https://modelinghappy.com/archives/69613"/>
-        <updated>2026-07-30T08:55:01.000Z</updated>
-        <summary type="html"><![CDATA[Uvscaler 9000 UVScaler9000は、Blenderで重要な部分へ効率よくテクスチャ密度を割り当てられるUV編集アドオンです。 通常はUVアイランドごとに手動でスケールを調整する必要がありますが、ブラシ
-The post UV Scaler 9000 – 必要な場所だけ高密度にできるゲームアセット向けBlenderアドオン！ first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
-        <author>
-            <name>modelinghappy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[色違いだけじゃない。Three.jsとGLSLで6種類の言語惑星を作った]]></title>
-        <id>https://zenn.dev/0st_ts/articles/a5fce7433ef4b8</id>
-        <link href="https://zenn.dev/0st_ts/articles/a5fce7433ef4b8"/>
-        <updated>2026-07-30T08:38:05.000Z</updated>
-        <summary type="html"><![CDATA[GitHubの活動データから、ユーザーごとに異なる3D惑星を生成する GitHub Planet を開発しています。
-
-デモ
-GitHubリポジトリ
-
-最初は、主要言語ごとに惑星の色を変えていました。
-JavaScriptは黄色、TypeScriptは青、Rustは茶色、Goは水色。
-しかし並べてみると、どれも「色違いの同じ惑星」にしか見えません。
-そこで、言語の違いを配色ではなく、惑星上で起きる現象として設計し直しました。
-
-CSS：一方向へ流れ続ける色彩
-C++：中心から外周へ伸びるプラズマ
-Go：表面と大気を駆け抜ける風
-TypeScript：型安全を表す多層の外殻
-JavaScr...]]></summary>
-        <author>
-            <name>わかと</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KIRI Engine、After Effectsでのガウシアンスプラッティングのインポートやエフェクト適用を可能にする無料プラグインを公開]]></title>
-        <id>https://cginterest.com/?p=61301</id>
-        <link href="https://cginterest.com/2026/07/30/kiri-engine%e3%80%81after-effects%e3%81%a7%e3%81%ae%e3%82%ac%e3%82%a6%e3%82%b7%e3%82%a2%e3%83%b3%e3%82%b9%e3%83%97%e3%83%a9%e3%83%83%e3%83%86%e3%82%a3%e3%83%b3%e3%82%b0%e3%81%ae%e3%82%a4%e3%83%b3/"/>
-        <updated>2026-07-30T08:13:50.000Z</updated>
-        <summary type="html"><![CDATA[2026年7月30日（現地時間） – KIRI Engineは、Adobe After Effects上で「3D Gaussian Splatting（ガウシアンスプラッティング）」を直接操作可能にする無料の […]]]></summary>
-        <author>
-            <name>.me</name>
         </author>
     </entry>
 </feed>

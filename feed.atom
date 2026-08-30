@@ -2,10 +2,109 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-29T13:28:47.389Z</updated>
+    <updated>2026-08-30T02:20:43.542Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【無料アドオン】Hair Bone Generator – 髪用のボーンをワンクリックで作成！]]></title>
+        <id>https://cgbox.jp/?p=65630</id>
+        <link href="https://cgbox.jp/2026/08/30/news-addon-hair-bone-generator/"/>
+        <updated>2026-08-30T01:49:15.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは！ 今回はアドオンの「Hair Bone Generator」を紹介します。 こちらのリンクがアドオンの商品ページになります。 Hair Bone Generator 「Hair Bone Generator」 […]]]></summary>
+        <author>
+            <name>kasahara</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Blender標準のRigifyで4足歩行の犬メッシュに自動リグを試す]]></title>
+        <id>https://zenn.dev/tonote/articles/dog-3d-rigify-quadruped</id>
+        <link href="https://zenn.dev/tonote/articles/dog-3d-rigify-quadruped"/>
+        <updated>2026-08-30T00:54:34.000Z</updated>
+        <summary type="html"><![CDATA[はじめに
+前回の記事「犬の3D作成を自動化する」では Autodesk Flow Studio のオートリグ機能を試しましたが、4足歩行動物のオートリグは SOON 表示でまだ使えませんでした。次の選択肢として Auto-Rig Pro（Blenderの有料アドオン、$40前後）が候補に挙がりましたが、まずは無料の範囲でどこまでできるかを確認したく、Blender標準搭載の Rigify アドオンで4足動物用メタリグを犬メッシュに適用する検証をしました。
+結論から言うと、ボーン構造とIK/FKコントロールリグの生成はRigifyだけで一発でできました。一方で最初に使ったメッシュでは自...]]></summary>
+        <author>
+            <name>tonote</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[tamga | スカルプトからペイント＆ポーズ＆3Dスケッチ＆スタイライズレンダリングまで！シンプルな操作性を重視した3D制作ツール！Web＆iPad＆Win＆Mac＆Linux]]></title>
+        <id>https://3dnchu.com/?p=1067746</id>
+        <link href="https://3dnchu.com/archives/tamga/"/>
+        <updated>2026-08-29T19:22:24.000Z</updated>
+        <summary type="html"><![CDATA[『スパイダーマン：スパイダーバース』でLead Technical Directorを務め、Netflix Eyeline Labsなどでもコンピュータグラフィックス分野に携わってきた Ahmet Levent Taşel氏による、シンプルな操作性を重視した3Dスカルプティング＆スケッチ＆スタイライ […]
+続きを読む]]></summary>
+        <author>
+            <name>Ymt3D -3dnchu-</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[retoPoly | 3ds Max上で高解像度モデルに直接トポロジーを構築！多彩なツールを搭載したリトポロジーModifier！]]></title>
+        <id>https://3dnchu.com/?p=1067733</id>
+        <link href="https://3dnchu.com/archives/retopoly/"/>
+        <updated>2026-08-29T18:01:47.000Z</updated>
+        <summary type="html"><![CDATA[キャラクター／クリーチャーアーティストのMihail Lupu氏による、Autodesk 3ds Max向けリトポロジーツール「retoPoly」がArtStation Marketplaceにて販売されています！ retoPoly – 3dsmax modifier 「retoPoly […]
+続きを読む]]></summary>
+        <author>
+            <name>Ymt3D -3dnchu-</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bevel Manager 2.0 | 複数のModifier＆Shader Bevelを属性ベースで管理出来るBlenderアドオン！]]></title>
+        <id>https://3dnchu.com/?p=1067726</id>
+        <link href="https://3dnchu.com/archives/bevel-manager-2-0/"/>
+        <updated>2026-08-29T17:50:53.000Z</updated>
+        <summary type="html"><![CDATA[Blender向けの便利なツールを多数開発しているNicholas Hodgson氏（hodgson3d）が、ベベル管理アドオン「Bevel Manager 2.0」をリリースしています！旧「Bevel Weight Manager」を大幅に刷新したバージョンで、Blenderのカスタム属性を活用し […]
+続きを読む]]></summary>
+        <author>
+            <name>Ymt3D -3dnchu-</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【DirectX11】【HLSL】DeferredRenderingを実装しよう! 【理論編】]]></title>
+        <id>https://qiita.com/tsukino_/items/571131bb3afe95fa39c1</id>
+        <link href="https://qiita.com/tsukino_/items/571131bb3afe95fa39c1"/>
+        <updated>2026-08-29T15:17:55.000Z</updated>
+        <summary type="html"><![CDATA[ゲームエンジンや、フレームワークを作成する上で、避けては通れないのが描画パフォーマンスの最適化です。
+シーンにたくさんの光源を配置したとき、従来のレンダリング(ForwardRendering)のままだと、ピクセルシェーダ内ですべてのピクセル*すべての光源の計算が走ってしま...]]></summary>
+        <author>
+            <name>3DCGタグが付けられた新着記事 - Qiita</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【DirectX11】【HLSL】DeferredRenderingを実装しよう! 【理論編】]]></title>
+        <id>https://qiita.com/tsukino_/items/571131bb3afe95fa39c1</id>
+        <link href="https://qiita.com/tsukino_/items/571131bb3afe95fa39c1"/>
+        <updated>2026-08-29T15:17:55.000Z</updated>
+        <summary type="html"><![CDATA[ゲームエンジンや、フレームワークを作成する上で、避けては通れないのが描画パフォーマンスの最適化です。
+シーンにたくさんの光源を配置したとき、従来のレンダリング(ForwardRendering)のままだと、ピクセルシェーダ内ですべてのピクセル*すべての光源の計算が走ってしま...]]></summary>
+        <author>
+            <name>HLSLタグが付けられた新着記事 - Qiita</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CL SDF Tools – アニメ調キャラクターの顔用SDFテクスチャをBlenderだけで作成できるアドオン]]></title>
+        <id>https://modelinghappy.com/?p=70185</id>
+        <link href="https://modelinghappy.com/archives/70185"/>
+        <updated>2026-08-29T14:50:18.000Z</updated>
+        <summary type="html"><![CDATA[顔のSDFテクスチャを、Blenderだけで作成！｜CL SDF Tools Calappa Lab @3DCGさんが作成した、CL SDF Toolsがリリースされました。アニメ調キャラクターの顔に使用するSDFテクス
+The post CL SDF Tools – アニメ調キャラクターの顔用SDFテクスチャをBlenderだけで作成できるアドオン first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
+        <author>
+            <name>modelinghappy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[retoPoly – 高解像度モデルの表面にトポロジーを作成できる3ds Max用リトポロジーモディファイヤ]]></title>
+        <id>https://modelinghappy.com/?p=70177</id>
+        <link href="https://modelinghappy.com/archives/70177"/>
+        <updated>2026-08-29T13:31:24.000Z</updated>
+        <summary type="html"><![CDATA[retoPoly #8211; 3dsmax modifier ドキュメント retoPoly #8211; 3dsmax modifier retoPolyは、高解像度モデルの表面に沿ってポリゴンを作成できる、Au
+The post retoPoly – 高解像度モデルの表面にトポロジーを作成できる3ds Max用リトポロジーモディファイヤ first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
+        <author>
+            <name>modelinghappy</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2026年8月発売のCG関連書籍をチェック！]]></title>
         <id>https://cginterest.com/?p=61336</id>
@@ -14,6 +113,32 @@
         <summary type="html"><![CDATA[今月発売、2026年8月以降に発売予定*のあるCG関連書籍を紹介するコーナーです(Amazon調べ)。 CGソフトの入門本、テクニック本、アートブック、リファレンス（参考資料）、その他気になるおすすめ書籍を紹介していきま […]]]></summary>
         <author>
             <name>.me</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unity ShaderGraph備忘録 part6-Toon Shader]]></title>
+        <id>https://zenn.dev/zn_ryg12/articles/shader-note-20260829</id>
+        <link href="https://zenn.dev/zn_ryg12/articles/shader-note-20260829"/>
+        <updated>2026-08-29T08:59:27.000Z</updated>
+        <summary type="html"><![CDATA[トゥーンシェーダー
+いわゆる「セルルック」とか「トゥーンレンダリング」とか呼ばれているもの。
+3Dのキャラクターモデルをアニメのセル画のように主線を描いたり、影の輪郭をパキっと見せたりする表現方法です。
+
+今回はその中の触りの部分、影の輪郭をパキっとさせる部分をShaderGraphで再現していこうと思います。
+※この記事の作例には「ユニティちゃん」を使用しています
+© Unity Technologies Japan/UCL
+
+
+ ShaderGraphでの実装
+このユニティちゃんに
+
+
+こういう影を付けるところまでを目標にします。
+
+
+今回は仕組みが分かりやすいようにFullsc...]]></summary>
+        <author>
+            <name>ryuga.</name>
         </author>
     </entry>
     <entry>
@@ -4180,101 +4305,6 @@ Blender4.5.3LTS
         <summary type="html"><![CDATA[続きをみる]]></summary>
         <author>
             <name>#SubstanceDesignerタグ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Reallusion「AccuFACE 2」を発表 ─ GPU対応、口元など顔全体のより繊細なトラッキングが可能に]]></title>
-        <id>https://cginterest.com/?p=61344</id>
-        <link href="https://cginterest.com/2026/07/31/reallusion%e3%80%8caccuface-2%e3%80%8d%e3%82%92%e7%99%ba%e8%a1%a8-%e2%94%80-gpu%e5%af%be%e5%bf%9c%e3%80%81%e5%8f%a3%e5%85%83%e3%81%aa%e3%81%a9%e9%a1%94%e5%85%a8%e4%bd%93%e3%81%ae%e3%82%88%e3%82%8a/"/>
-        <updated>2026-07-31T11:33:30.000Z</updated>
-        <summary type="html"><![CDATA[2026年7月30日（現地時間）- Reallusionは、iClone向けフェイシャルモーションキャプチャプラグインの最新版となる「AccuFACE 2」を発表しました。 AccuFACEとは AccuFACEは、3D […]]]></summary>
-        <author>
-            <name>.me</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GitHubの活動を、自分だけの惑星に。GitHub PlanetがCSS Winnerにノミネートされました]]></title>
-        <id>https://zenn.dev/0st_ts/articles/8986ca8bce48c3</id>
-        <link href="https://zenn.dev/0st_ts/articles/8986ca8bce48c3"/>
-        <updated>2026-07-31T09:55:05.000Z</updated>
-        <summary type="html"><![CDATA[チームで制作しているWeb作品「GitHub Planet」が、海外Webデザインアワード CSS Winner にノミネートされました！
-https://www.csswinner.com/details/github-planet/19334
-GitHub Planetは、GitHub上に蓄積された開発者の活動をもとに、一人ひとり異なる3D惑星を生成するWeb作品です。
-
-普段は数字やグラフとして表示される、使用言語、コントリビューション、Star、外部リポジトリへの貢献。
-私たちは、それらを単なるデータとして並べるのではなく、その人だけが持つ宇宙の風景として表現しました。
-この記事...]]></summary>
-        <author>
-            <name>わかと</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[色を変えるだけでは「言語らしさ」は出なかった。Three.jsとGLSLで6つの惑星を作り分けた話]]></title>
-        <id>https://qiita.com/0ts_st/items/b8d2ae24bbf6dd05302f</id>
-        <link href="https://qiita.com/0ts_st/items/b8d2ae24bbf6dd05302f"/>
-        <updated>2026-07-31T02:56:28.000Z</updated>
-        <summary type="html"><![CDATA[コードは読みやすさのため、一部を簡略化しています。
-
-GitHubの使用言語やコントリビューションから、ユーザーごとに異なる3D惑星を生成する GitHub Planet を開発しています。
-
-デモ：GitHub Planet
-
-GitHub：nitr0yukkuri/g...]]></summary>
-        <author>
-            <name>GLSLタグが付けられた新着記事 - Qiita</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BlenderをCLIで反復生成していたら、Unityで動く頂点属性付きアセットまでできた]]></title>
-        <id>https://zenn.dev/m_tk/articles/2c645b23bbe804</id>
-        <link href="https://zenn.dev/m_tk/articles/2c645b23bbe804"/>
-        <updated>2026-07-31T02:06:18.000Z</updated>
-        <summary type="html"><![CDATA[はじめに
-画像を参考に、CLIを使ってBlenderシーンを生成しました。
-ただしそこで終わらず、Unity用のランタイムアセットまで設計を進めました。
-始まりは、画像をBlenderへ見せたら、CLIとPythonでどこまで自動再現できるのかという興味でした。Blender MCPのような仕組みを知り、画像、Blender CLI、Pythonスクリプト、レンダー結果を組み合わせた反復生成を試しました。
-参考画像
-  ↓
-CLIがBlender Pythonを生成
-  ↓
-バックグラウンド実行してレンダー
-  ↓
-出力画像を見て次の修正を依頼
-LLMモデルの能力が上がるにつれて、プ...]]></summary>
-        <author>
-            <name>m-tk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【無料アドオン紹介】Easy-Print – 3Dプリンター用にモデルを改変！]]></title>
-        <id>https://cgbox.jp/?p=65522</id>
-        <link href="https://cgbox.jp/2026/07/31/news-addon-easy-print/"/>
-        <updated>2026-07-31T02:00:24.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは！ 今回はアドオンの「Easy-Print」を紹介します。 こちらのリンクがアドオンの商品ページになります。 Easy-Print 「Easy-Print」は、、3Dプリント向けにモデル分割と接合パーツ作成を簡 […]]]></summary>
-        <author>
-            <name>kasahara</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sculpt Subtools – アウトライナー不要！スカルプトモードでZBrush風のSubTool管理ができるBlender用無料アドオン]]></title>
-        <id>https://modelinghappy.com/?p=69632</id>
-        <link href="https://modelinghappy.com/archives/69632"/>
-        <updated>2026-07-30T21:45:34.000Z</updated>
-        <summary type="html"><![CDATA[Sculpt Subtools Sculpt Subtoolsは、BlenderのスカルプトモードでZBrushのSubToolのようにメッシュを管理できるアドオンです。 通常、複数のメッシュを切り替えたり、表示・非表示
-The post Sculpt Subtools – アウトライナー不要！スカルプトモードでZBrush風のSubTool管理ができるBlender用無料アドオン first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
-        <author>
-            <name>modelinghappy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[After EffectsでGaussian Splatting（.PLY）を直接読み込み出来る無料プラグインが登場]]></title>
-        <id>https://modelinghappy.com/?p=69627</id>
-        <link href="https://modelinghappy.com/archives/69627"/>
-        <updated>2026-07-30T21:31:35.000Z</updated>
-        <summary type="html"><![CDATA[3D Gaussian Splatting in After Effects: How to Import, Animate, and Style 3D Splats Gaussian-Splatting-plugin-
-The post After EffectsでGaussian Splatting（.PLY）を直接読み込み出来る無料プラグインが登場 first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
-        <author>
-            <name>modelinghappy</name>
         </author>
     </entry>
 </feed>

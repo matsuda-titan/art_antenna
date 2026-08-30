@@ -12,6 +12,21 @@
       "siteUrl": "https://cgbox.jp",
       "articles": [
         {
+          "id": "https://cgbox.jp/?p=65630",
+          "author": "kasahara",
+          "description": "こんばんは！ 今回はアドオンの「Hair Bone Generator」を紹介します。 こちらのリンクがアドオンの商品ページになります。 Hair Bone Generator 「Hair Bone Generator」 […]",
+          "link": "https://cgbox.jp/2026/08/30/news-addon-hair-bone-generator/",
+          "publishedOn": "2026-08-30T01:49:15.000Z",
+          "wordCount": 2038,
+          "title": "【無料アドオン】Hair Bone Generator – 髪用のボーンをワンクリックで作成！",
+          "enclosure": {
+            "url": "https://cgbox.jp/wp-content/uploads/2026/08/boat-edit-2.mp4",
+            "length": "0",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://cgbox.jp/wp-content/uploads/2026/08/385aee537b758b430fbaf7626e414ad046cb9570d2523fa4e134f55fe2cba66f_640x360.webp"
+        },
+        {
           "id": "https://cgbox.jp/?p=65626",
           "author": "kasahara",
           "description": "こんばんは！ 今回はアドオンの「Reference Scale」を紹介します。 こちらのリンクがアドオンの商品ページになります。 Reference Scale 「Reference Scale」は、Blenderの3D […]",
@@ -175,21 +190,6 @@
             "type": "video/mp4"
           },
           "imageUrl": "https://cgbox.jp/wp-content/uploads/2026/08/image_processing20260731-2-kz0oaw.jpg"
-        },
-        {
-          "id": "https://cgbox.jp/?p=65522",
-          "author": "kasahara",
-          "description": "こんばんは！ 今回はアドオンの「Easy-Print」を紹介します。 こちらのリンクがアドオンの商品ページになります。 Easy-Print 「Easy-Print」は、、3Dプリント向けにモデル分割と接合パーツ作成を簡 […]",
-          "link": "https://cgbox.jp/2026/07/31/news-addon-easy-print/",
-          "publishedOn": "2026-07-31T02:00:24.000Z",
-          "wordCount": 1991,
-          "title": "【無料アドオン紹介】Easy-Print – 3Dプリンター用にモデルを改変！",
-          "enclosure": {
-            "url": "https://cgbox.jp/wp-content/uploads/2026/07/twitter-4.mp4",
-            "length": "0",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://cgbox.jp/wp-content/uploads/2026/07/2fec722748a1beb692b62dfad1f1e602e0f2c5210ac46b1f4f4e5910734e58b2_640x360.webp"
         }
       ]
     },
@@ -204,6 +204,51 @@
       "feedUrl": "https://3dnchu.com/feed/",
       "siteUrl": "https://3dnchu.com",
       "articles": [
+        {
+          "id": "https://3dnchu.com/?p=1067746",
+          "author": "Ymt3D -3dnchu-",
+          "description": "『スパイダーマン：スパイダーバース』でLead Technical Directorを務め、Netflix Eyeline Labsなどでもコンピュータグラフィックス分野に携わってきた Ahmet Levent Taşel氏による、シンプルな操作性を重視した3Dスカルプティング＆スケッチ＆スタイライ […]\n続きを読む",
+          "link": "https://3dnchu.com/archives/tamga/",
+          "publishedOn": "2026-08-29T19:22:24.000Z",
+          "wordCount": 8238,
+          "title": "tamga | スカルプトからペイント＆ポーズ＆3Dスケッチ＆スタイライズレンダリングまで！シンプルな操作性を重視した3D制作ツール！Web＆iPad＆Win＆Mac＆Linux",
+          "enclosure": {
+            "url": "https://3dnchu.com/wp-content/uploads/tamga.mp4",
+            "length": "9173297",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://3dnchu.com/wp-content/uploads/tamga.webp"
+        },
+        {
+          "id": "https://3dnchu.com/?p=1067733",
+          "author": "Ymt3D -3dnchu-",
+          "description": "キャラクター／クリーチャーアーティストのMihail Lupu氏による、Autodesk 3ds Max向けリトポロジーツール「retoPoly」がArtStation Marketplaceにて販売されています！ retoPoly – 3dsmax modifier 「retoPoly […]\n続きを読む",
+          "link": "https://3dnchu.com/archives/retopoly/",
+          "publishedOn": "2026-08-29T18:01:47.000Z",
+          "wordCount": 7718,
+          "title": "retoPoly | 3ds Max上で高解像度モデルに直接トポロジーを構築！多彩なツールを搭載したリトポロジーModifier！",
+          "enclosure": {
+            "url": "https://3dnchu.com/wp-content/uploads/retoPoly.webp",
+            "length": "",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://3dnchu.com/wp-content/uploads/retoPoly.webp"
+        },
+        {
+          "id": "https://3dnchu.com/?p=1067726",
+          "author": "Ymt3D -3dnchu-",
+          "description": "Blender向けの便利なツールを多数開発しているNicholas Hodgson氏（hodgson3d）が、ベベル管理アドオン「Bevel Manager 2.0」をリリースしています！旧「Bevel Weight Manager」を大幅に刷新したバージョンで、Blenderのカスタム属性を活用し […]\n続きを読む",
+          "link": "https://3dnchu.com/archives/bevel-manager-2-0/",
+          "publishedOn": "2026-08-29T17:50:53.000Z",
+          "wordCount": 7786,
+          "title": "Bevel Manager 2.0 | 複数のModifier＆Shader Bevelを属性ベースで管理出来るBlenderアドオン！",
+          "enclosure": {
+            "url": "https://3dnchu.com/wp-content/uploads/bevel-manager-2-0-modifiershader.jpg",
+            "length": "72540",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://3dnchu.com/wp-content/uploads/bevel-manager-2-0-modifiershader.jpg"
+        },
         {
           "id": "https://3dnchu.com/?p=1067700",
           "author": "Ymt3D -3dnchu-",
@@ -1909,6 +1954,26 @@
       "siteUrl": "https://modelinghappy.com",
       "articles": [
         {
+          "id": "https://modelinghappy.com/?p=70185",
+          "author": "modelinghappy",
+          "description": "顔のSDFテクスチャを、Blenderだけで作成！｜CL SDF Tools Calappa Lab @3DCGさんが作成した、CL SDF Toolsがリリースされました。アニメ調キャラクターの顔に使用するSDFテクス\nThe post CL SDF Tools – アニメ調キャラクターの顔用SDFテクスチャをBlenderだけで作成できるアドオン first appeared on 3DCG最新情報サイト MODELING HAPPY.",
+          "link": "https://modelinghappy.com/archives/70185",
+          "publishedOn": "2026-08-29T14:50:18.000Z",
+          "wordCount": 3065,
+          "title": "CL SDF Tools – アニメ調キャラクターの顔用SDFテクスチャをBlenderだけで作成できるアドオン",
+          "imageUrl": "https://modelinghappy.com/wp-content/uploads/2026/08/20260829_CL_SDF_Tools_01.jpg"
+        },
+        {
+          "id": "https://modelinghappy.com/?p=70177",
+          "author": "modelinghappy",
+          "description": "retoPoly #8211; 3dsmax modifier ドキュメント retoPoly #8211; 3dsmax modifier retoPolyは、高解像度モデルの表面に沿ってポリゴンを作成できる、Au\nThe post retoPoly – 高解像度モデルの表面にトポロジーを作成できる3ds Max用リトポロジーモディファイヤ first appeared on 3DCG最新情報サイト MODELING HAPPY.",
+          "link": "https://modelinghappy.com/archives/70177",
+          "publishedOn": "2026-08-29T13:31:24.000Z",
+          "wordCount": 3093,
+          "title": "retoPoly – 高解像度モデルの表面にトポロジーを作成できる3ds Max用リトポロジーモディファイヤ",
+          "imageUrl": "https://modelinghappy.com/wp-content/uploads/2026/08/20260829_retopoly_01.jpg"
+        },
+        {
           "id": "https://modelinghappy.com/?p=70165",
           "author": "modelinghappy",
           "description": "Needle mesh-baker Needle mesh-bakerドキュメント Needle Mesh Bakerは、3Dモデルのポリゴン数を削減し、高密度モデルのディテールやマテリアルの見た目をテクスチャへベイクで\nThe post Needle Mesh Baker – ハイポリモデルをローポリ化し、最大4KテクスチャへベイクできるWebブラウザツール first appeared on 3DCG最新情報サイト MODELING HAPPY.",
@@ -2537,26 +2602,6 @@
           "wordCount": 3139,
           "title": "VFX Toolkit – 100種類以上の炎・煙・爆発・手描きアニメーションなどを簡単に追加できるBlender用VFXライブラリ！",
           "imageUrl": "https://modelinghappy.com/wp-content/uploads/2026/08/20260801_vfxtookit_01.jpg"
-        },
-        {
-          "id": "https://modelinghappy.com/?p=69632",
-          "author": "modelinghappy",
-          "description": "Sculpt Subtools Sculpt Subtoolsは、BlenderのスカルプトモードでZBrushのSubToolのようにメッシュを管理できるアドオンです。 通常、複数のメッシュを切り替えたり、表示・非表示\nThe post Sculpt Subtools – アウトライナー不要！スカルプトモードでZBrush風のSubTool管理ができるBlender用無料アドオン first appeared on 3DCG最新情報サイト MODELING HAPPY.",
-          "link": "https://modelinghappy.com/archives/69632",
-          "publishedOn": "2026-07-30T21:45:34.000Z",
-          "wordCount": 3031,
-          "title": "Sculpt Subtools – アウトライナー不要！スカルプトモードでZBrush風のSubTool管理ができるBlender用無料アドオン",
-          "imageUrl": "https://modelinghappy.com/wp-content/uploads/2026/07/20260731_sculpt_subtools_02.jpg"
-        },
-        {
-          "id": "https://modelinghappy.com/?p=69627",
-          "author": "modelinghappy",
-          "description": "3D Gaussian Splatting in After Effects: How to Import, Animate, and Style 3D Splats Gaussian-Splatting-plugin-\nThe post After EffectsでGaussian Splatting（.PLY）を直接読み込み出来る無料プラグインが登場 first appeared on 3DCG最新情報サイト MODELING HAPPY.",
-          "link": "https://modelinghappy.com/archives/69627",
-          "publishedOn": "2026-07-30T21:31:35.000Z",
-          "wordCount": 3116,
-          "title": "After EffectsでGaussian Splatting（.PLY）を直接読み込み出来る無料プラグインが登場",
-          "imageUrl": "https://modelinghappy.com/wp-content/uploads/2026/07/20260731gaussian_splatting_01.jpg"
         }
       ]
     },
@@ -2571,6 +2616,21 @@
       "feedUrl": "https://zenn.dev/topics/shader/feed",
       "siteUrl": "https://zenn.dev/topics/shader",
       "articles": [
+        {
+          "id": "https://zenn.dev/zn_ryg12/articles/shader-note-20260829",
+          "author": "ryuga.",
+          "description": "トゥーンシェーダー\nいわゆる「セルルック」とか「トゥーンレンダリング」とか呼ばれているもの。\n3Dのキャラクターモデルをアニメのセル画のように主線を描いたり、影の輪郭をパキっと見せたりする表現方法です。\n\n今回はその中の触りの部分、影の輪郭をパキっとさせる部分をShaderGraphで再現していこうと思います。\n※この記事の作例には「ユニティちゃん」を使用しています\n© Unity Technologies Japan/UCL\n\n\n ShaderGraphでの実装\nこのユニティちゃんに\n\n\nこういう影を付けるところまでを目標にします。\n\n\n今回は仕組みが分かりやすいようにFullsc...",
+          "link": "https://zenn.dev/zn_ryg12/articles/shader-note-20260829",
+          "publishedOn": "2026-08-29T08:59:27.000Z",
+          "wordCount": 681,
+          "title": "Unity ShaderGraph備忘録 part6-Toon Shader",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--RnP4Fj-Z--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Unity%2520ShaderGraph%25E5%2582%2599%25E5%25BF%2598%25E9%258C%25B2%2520part6-Toon%2520Shader%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:ryuga.%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jS1lsU1ZRcnpMYW1lRXUzY3lqQW9JdGhFQW8wMGNhaGpLY1JnRkh0a3JYRnJRdjBlSTU9czI1MC1j%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+            "length": "0",
+            "type": "false"
+          },
+          "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--RnP4Fj-Z--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Unity%2520ShaderGraph%25E5%2582%2599%25E5%25BF%2598%25E9%258C%25B2%2520part6-Toon%2520Shader%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:ryuga.%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jS1lsU1ZRcnpMYW1lRXUzY3lqQW9JdGhFQW8wMGNhaGpLY1JnRkh0a3JYRnJRdjBlSTU9czI1MC1j%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+        },
         {
           "id": "https://zenn.dev/zero_0r0/articles/34700641dbbcdf",
           "author": "ゼロ",
@@ -2645,21 +2705,6 @@
             "type": "false"
           },
           "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--vl_--5S5--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2580%2590Unity%25E3%2580%2591Shader%2520Graph%25E5%2588%259D%25E5%25BF%2583%25E8%2580%2585%25E3%2581%25A7%25E3%2582%2582%25E3%2582%258F%25E3%2581%258B%25E3%2582%258B%2520%25E5%259C%25B0%25E9%259D%25A2%25E3%2581%25AB%25E3%2582%25B0%25E3%2583%25AA%25E3%2583%2583%25E3%2583%2589%25E7%25B7%259A%25E3%2582%2592%25E6%258F%258F%25E7%2594%25BB%25E3%2581%2599%25E3%2582%258B%25E6%2596%25B9%25E6%25B3%2595%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E5%25A4%258F%25E9%25A2%25A8%25E9%2582%25AA%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2YxYzg4YWQ1ZjQuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
-        },
-        {
-          "id": "https://zenn.dev/m_tk/articles/2c645b23bbe804",
-          "author": "m-tk",
-          "description": "はじめに\n画像を参考に、CLIを使ってBlenderシーンを生成しました。\nただしそこで終わらず、Unity用のランタイムアセットまで設計を進めました。\n始まりは、画像をBlenderへ見せたら、CLIとPythonでどこまで自動再現できるのかという興味でした。Blender MCPのような仕組みを知り、画像、Blender CLI、Pythonスクリプト、レンダー結果を組み合わせた反復生成を試しました。\n参考画像\n  ↓\nCLIがBlender Pythonを生成\n  ↓\nバックグラウンド実行してレンダー\n  ↓\n出力画像を見て次の修正を依頼\nLLMモデルの能力が上がるにつれて、プ...",
-          "link": "https://zenn.dev/m_tk/articles/2c645b23bbe804",
-          "publishedOn": "2026-07-31T02:06:18.000Z",
-          "wordCount": 2240,
-          "title": "BlenderをCLIで反復生成していたら、Unityで動く頂点属性付きアセットまでできた",
-          "enclosure": {
-            "url": "https://res.cloudinary.com/zenn/image/upload/s--CUZ1v9id--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Blender%25E3%2582%2592CLI%25E3%2581%25A7%25E5%258F%258D%25E5%25BE%25A9%25E7%2594%259F%25E6%2588%2590%25E3%2581%2597%25E3%2581%25A6%25E3%2581%2584%25E3%2581%259F%25E3%2582%2589%25E3%2580%2581Unity%25E3%2581%25A7%25E5%258B%2595%25E3%2581%258F%25E9%25A0%2582%25E7%2582%25B9%25E5%25B1%259E%25E6%2580%25A7%25E4%25BB%2598%25E3%2581%258D%25E3%2582%25A2%25E3%2582%25BB%25E3%2583%2583%25E3%2583%2588%25E3%2581%25BE%25E3%2581%25A7%25E3%2581%25A7%25E3%2581%258D%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:m-tk%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jTGFGTVJuR2NwWU8wdlhNUzQ2MU9mRlpnYmlERm1ISXd2YW1CTnFWUkVSRVhWWExzWXI9czI1MC1j%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
-            "length": "0",
-            "type": "false"
-          },
-          "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--CUZ1v9id--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Blender%25E3%2582%2592CLI%25E3%2581%25A7%25E5%258F%258D%25E5%25BE%25A9%25E7%2594%259F%25E6%2588%2590%25E3%2581%2597%25E3%2581%25A6%25E3%2581%2584%25E3%2581%259F%25E3%2582%2589%25E3%2580%2581Unity%25E3%2581%25A7%25E5%258B%2595%25E3%2581%258F%25E9%25A0%2582%25E7%2582%25B9%25E5%25B1%259E%25E6%2580%25A7%25E4%25BB%2598%25E3%2581%258D%25E3%2582%25A2%25E3%2582%25BB%25E3%2583%2583%25E3%2583%2588%25E3%2581%25BE%25E3%2581%25A7%25E3%2581%25A7%25E3%2581%258D%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:m-tk%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jTGFGTVJuR2NwWU8wdlhNUzQ2MU9mRlpnYmlERm1ISXd2YW1CTnFWUkVSRVhWWExzWXI9czI1MC1j%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
         }
       ]
     },
@@ -2794,6 +2839,21 @@
       "feedUrl": "https://zenn.dev/topics/3dcg/feed",
       "siteUrl": "https://zenn.dev/topics/3dcg",
       "articles": [
+        {
+          "id": "https://zenn.dev/tonote/articles/dog-3d-rigify-quadruped",
+          "author": "tonote",
+          "description": "はじめに\n前回の記事「犬の3D作成を自動化する」では Autodesk Flow Studio のオートリグ機能を試しましたが、4足歩行動物のオートリグは SOON 表示でまだ使えませんでした。次の選択肢として Auto-Rig Pro（Blenderの有料アドオン、$40前後）が候補に挙がりましたが、まずは無料の範囲でどこまでできるかを確認したく、Blender標準搭載の Rigify アドオンで4足動物用メタリグを犬メッシュに適用する検証をしました。\n結論から言うと、ボーン構造とIK/FKコントロールリグの生成はRigifyだけで一発でできました。一方で最初に使ったメッシュでは自...",
+          "link": "https://zenn.dev/tonote/articles/dog-3d-rigify-quadruped",
+          "publishedOn": "2026-08-30T00:54:34.000Z",
+          "wordCount": 1516,
+          "title": "Blender標準のRigifyで4足歩行の犬メッシュに自動リグを試す",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--cED4T_hr--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Blender%25E6%25A8%2599%25E6%25BA%2596%25E3%2581%25AERigify%25E3%2581%25A74%25E8%25B6%25B3%25E6%25AD%25A9%25E8%25A1%258C%25E3%2581%25AE%25E7%258A%25AC%25E3%2583%25A1%25E3%2583%2583%25E3%2582%25B7%25E3%2583%25A5%25E3%2581%25AB%25E8%2587%25AA%25E5%258B%2595%25E3%2583%25AA%25E3%2582%25B0%25E3%2582%2592%25E8%25A9%25A6%25E3%2581%2599%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:tonote%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzU5OGNhZmFkNmUuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+            "length": "0",
+            "type": "false"
+          },
+          "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--cED4T_hr--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Blender%25E6%25A8%2599%25E6%25BA%2596%25E3%2581%25AERigify%25E3%2581%25A74%25E8%25B6%25B3%25E6%25AD%25A9%25E8%25A1%258C%25E3%2581%25AE%25E7%258A%25AC%25E3%2583%25A1%25E3%2583%2583%25E3%2582%25B7%25E3%2583%25A5%25E3%2581%25AB%25E8%2587%25AA%25E5%258B%2595%25E3%2583%25AA%25E3%2582%25B0%25E3%2582%2592%25E8%25A9%25A6%25E3%2581%2599%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:tonote%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzU5OGNhZmFkNmUuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+        },
         {
           "id": "https://zenn.dev/tonote/articles/dog-3d-auto-rig",
           "author": "tonote",
@@ -3211,6 +3271,16 @@
       "siteUrl": "https://qiita.com",
       "articles": [
         {
+          "id": "https://qiita.com/tsukino_/items/571131bb3afe95fa39c1",
+          "author": null,
+          "description": "ゲームエンジンや、フレームワークを作成する上で、避けては通れないのが描画パフォーマンスの最適化です。\nシーンにたくさんの光源を配置したとき、従来のレンダリング(ForwardRendering)のままだと、ピクセルシェーダ内ですべてのピクセル*すべての光源の計算が走ってしま...",
+          "link": "https://qiita.com/tsukino_/items/571131bb3afe95fa39c1",
+          "publishedOn": "2026-08-29T15:17:55.000Z",
+          "wordCount": 685,
+          "title": "【DirectX11】【HLSL】DeferredRenderingを実装しよう! 【理論編】",
+          "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYzOTQzMTQ4JTJGZGJhOTI4MmI5OWFlNGQ4NmFjYjI4MDk1NGVhNGFjYzI2ZGYyODM0ZSUyRmxhcmdlLnBuZyUzRjE3NTAxNDEwMzM_aXhsaWI9cmItNC4xLjEmYXI9MSUzQTEmZml0PWNyb3AmbWFzaz1lbGxpcHNlJmJnPUZGRkZGRiZmbT1wbmczMiZzPWU4ZGJmMzk4YjI1NDE2YmMxODUyOGE0ZWZiOWU3NjE5%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D0cdf0498f9ab9bc4ec92fd97b061c8a7?ixlib=rb-4.1.1&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9JUUzJTgwJTkwRGlyZWN0WDExJUUzJTgwJTkxJUUzJTgwJTkwSExTTCVFMyU4MCU5MURlZmVycmVkUmVuZGVyaW5nJUUzJTgyJTkyJUU1JUFFJTlGJUU4JUEzJTg1JUUzJTgxJTk3JUUzJTgyJTg4JUUzJTgxJTg2JTIxJTIwJUUzJTgwJTkwJUU3JTkwJTg2JUU4JUFCJTk2JUU3JUI3JUE4JUUzJTgwJTkxJnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9ZDZkYmM4YTRkODEwYTE2ZGYxMTI3ZTZiMDQ4ZDc2ZmY&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDB0c3VraW5vXyZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPTRjODM5MzJmNjA1ZTE0YzNmN2RhYTIyNTYyYjQ1NTU2&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=9cb1ac94589a9b276bdb87a49483e8b9"
+        },
+        {
           "id": "https://qiita.com/matumu20/items/daaa90a817498d7f4590",
           "author": null,
           "description": "AI based motion genenration\nMayaに搭載されているモーション生成機能であるMotionMakerを中心に関連した研究論文の調査。\n\nMaya MotionMaker\n\nAutodesk Mayaに導入されたAIアニメーション機能「Motio...",
@@ -3492,6 +3562,16 @@
       "siteUrl": "https://qiita.com",
       "articles": [
         {
+          "id": "https://qiita.com/tsukino_/items/571131bb3afe95fa39c1",
+          "author": null,
+          "description": "ゲームエンジンや、フレームワークを作成する上で、避けては通れないのが描画パフォーマンスの最適化です。\nシーンにたくさんの光源を配置したとき、従来のレンダリング(ForwardRendering)のままだと、ピクセルシェーダ内ですべてのピクセル*すべての光源の計算が走ってしま...",
+          "link": "https://qiita.com/tsukino_/items/571131bb3afe95fa39c1",
+          "publishedOn": "2026-08-29T15:17:55.000Z",
+          "wordCount": 685,
+          "title": "【DirectX11】【HLSL】DeferredRenderingを実装しよう! 【理論編】",
+          "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYzOTQzMTQ4JTJGZGJhOTI4MmI5OWFlNGQ4NmFjYjI4MDk1NGVhNGFjYzI2ZGYyODM0ZSUyRmxhcmdlLnBuZyUzRjE3NTAxNDEwMzM_aXhsaWI9cmItNC4xLjEmYXI9MSUzQTEmZml0PWNyb3AmbWFzaz1lbGxpcHNlJmJnPUZGRkZGRiZmbT1wbmczMiZzPWU4ZGJmMzk4YjI1NDE2YmMxODUyOGE0ZWZiOWU3NjE5%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D0cdf0498f9ab9bc4ec92fd97b061c8a7?ixlib=rb-4.1.1&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9JUUzJTgwJTkwRGlyZWN0WDExJUUzJTgwJTkxJUUzJTgwJTkwSExTTCVFMyU4MCU5MURlZmVycmVkUmVuZGVyaW5nJUUzJTgyJTkyJUU1JUFFJTlGJUU4JUEzJTg1JUUzJTgxJTk3JUUzJTgyJTg4JUUzJTgxJTg2JTIxJTIwJUUzJTgwJTkwJUU3JTkwJTg2JUU4JUFCJTk2JUU3JUI3JUE4JUUzJTgwJTkxJnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9ZDZkYmM4YTRkODEwYTE2ZGYxMTI3ZTZiMDQ4ZDc2ZmY&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDB0c3VraW5vXyZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPTRjODM5MzJmNjA1ZTE0YzNmN2RhYTIyNTYyYjQ1NTU2&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=9cb1ac94589a9b276bdb87a49483e8b9"
+        },
+        {
           "id": "https://qiita.com/AkitsuguHirano/items/af1b00470a4ed3b22c90",
           "author": null,
           "description": "Unity 6.3でpublic APIとして公開された UnifiedRayTracing は、ハードウェアRT対応GPUではHardware backendを、非対応GPUではCompute backendを使えるレイトレーシングAPIです。\nただし、これは RayTr...",
@@ -3507,18 +3587,7 @@
       "title": "GLSLタグが付けられた新着記事 - Qiita",
       "feedUrl": "https://qiita.com/tags/glsl/feed",
       "siteUrl": "https://qiita.com",
-      "articles": [
-        {
-          "id": "https://qiita.com/0ts_st/items/b8d2ae24bbf6dd05302f",
-          "author": null,
-          "description": "コードは読みやすさのため、一部を簡略化しています。\n\nGitHubの使用言語やコントリビューションから、ユーザーごとに異なる3D惑星を生成する GitHub Planet を開発しています。\n\nデモ：GitHub Planet\n\nGitHub：nitr0yukkuri/g...",
-          "link": "https://qiita.com/0ts_st/items/b8d2ae24bbf6dd05302f",
-          "publishedOn": "2026-07-31T02:56:28.000Z",
-          "wordCount": 5199,
-          "title": "色を変えるだけでは「言語らしさ」は出なかった。Three.jsとGLSLで6つの惑星を作り分けた話",
-          "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRmF2YXRhcnMuZ2l0aHVidXNlcmNvbnRlbnQuY29tJTJGdSUyRjIxNDc5NDQ3OSUzRnYlM0Q0P2l4bGliPXJiLTQuMS4xJmFyPTElM0ExJmZpdD1jcm9wJm1hc2s9ZWxsaXBzZSZiZz1GRkZGRkYmZm09cG5nMzImcz0zNWMwNTkyY2FkMDE3MDdiNmI5ZjVhYTU1ZWFhYmNiYQ%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3Dde852866ad9c83844d71cb1023b1baeb?ixlib=rb-4.1.1&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9JUU4JTg5JUIyJUUzJTgyJTkyJUU1JUE0JTg5JUUzJTgxJTg4JUUzJTgyJThCJUUzJTgxJUEwJUUzJTgxJTkxJUUzJTgxJUE3JUUzJTgxJUFGJUUzJTgwJThDJUU4JUE4JTgwJUU4JUFBJTlFJUUzJTgyJTg5JUUzJTgxJTk3JUUzJTgxJTk1JUUzJTgwJThEJUUzJTgxJUFGJUU1JTg3JUJBJUUzJTgxJUFBJUUzJTgxJThCJUUzJTgxJUEzJUUzJTgxJTlGJUUzJTgwJTgyVGhyZWUuanMlRTMlODElQThHTFNMJUUzJTgxJUE3NiVFMyU4MSVBNCVFMyU4MSVBRSVFNiU4MyU5MSVFNiU5OCU5RiVFMyU4MiU5MiVFNCVCRCU5QyVFMyU4MiU4QSVFNSU4OCU4NiVFMyU4MSU5MSVFMyU4MSU5RiVFOCVBOSVCMSZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnR4dC1wYWQ9MCZzPTAyODc4M2UxMjNkOWQ5ODNmODdkN2ViYmE5NWRhMmJm&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDAwdHNfc3QmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz0zNjczYzJjNjYxZTU3MWE1M2FlYmJkYjkwMjM1OGZkZA&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=1978487c136d3dd8497abf5b6120cc4b"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Zennの「HLSL」のフィード",
@@ -3545,21 +3614,6 @@
             "type": "false"
           },
           "imageUrl": null
-        },
-        {
-          "id": "https://zenn.dev/0st_ts/articles/8986ca8bce48c3",
-          "author": "わかと",
-          "description": "チームで制作しているWeb作品「GitHub Planet」が、海外Webデザインアワード CSS Winner にノミネートされました！\nhttps://www.csswinner.com/details/github-planet/19334\nGitHub Planetは、GitHub上に蓄積された開発者の活動をもとに、一人ひとり異なる3D惑星を生成するWeb作品です。\n\n普段は数字やグラフとして表示される、使用言語、コントリビューション、Star、外部リポジトリへの貢献。\n私たちは、それらを単なるデータとして並べるのではなく、その人だけが持つ宇宙の風景として表現しました。\nこの記事...",
-          "link": "https://zenn.dev/0st_ts/articles/8986ca8bce48c3",
-          "publishedOn": "2026-07-31T09:55:05.000Z",
-          "wordCount": 901,
-          "title": "GitHubの活動を、自分だけの惑星に。GitHub PlanetがCSS Winnerにノミネートされました",
-          "enclosure": {
-            "url": "https://res.cloudinary.com/zenn/image/upload/s--GHbrMno7--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:GitHub%25E3%2581%25AE%25E6%25B4%25BB%25E5%258B%2595%25E3%2582%2592%25E3%2580%2581%25E8%2587%25AA%25E5%2588%2586%25E3%2581%25A0%25E3%2581%2591%25E3%2581%25AE%25E6%2583%2591%25E6%2598%259F%25E3%2581%25AB%25E3%2580%2582GitHub%2520Planet%25E3%2581%258CCSS%2520Winner%25E3%2581%25AB%25E3%2583%258E%25E3%2583%259F%25E3%2583%258D%25E3%2583%25BC%25E3%2583%2588%25E3%2581%2595%25E3%2582%258C%25E3%2581%25BE%25E3%2581%2597%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2582%258F%25E3%2581%258B%25E3%2581%25A8%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzJiZTFiNmUzZTAuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
-            "length": "0",
-            "type": "false"
-          },
-          "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--GHbrMno7--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:GitHub%25E3%2581%25AE%25E6%25B4%25BB%25E5%258B%2595%25E3%2582%2592%25E3%2580%2581%25E8%2587%25AA%25E5%2588%2586%25E3%2581%25A0%25E3%2581%2591%25E3%2581%25AE%25E6%2583%2591%25E6%2598%259F%25E3%2581%25AB%25E3%2580%2582GitHub%2520Planet%25E3%2581%258CCSS%2520Winner%25E3%2581%25AB%25E3%2583%258E%25E3%2583%259F%25E3%2583%258D%25E3%2583%25BC%25E3%2583%2588%25E3%2581%2595%25E3%2582%258C%25E3%2581%25BE%25E3%2581%2597%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2582%258F%25E3%2581%258B%25E3%2581%25A8%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzJiZTFiNmUzZTAuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
         }
       ]
     },
@@ -4450,21 +4504,6 @@
           "wordCount": 31106,
           "title": "[〆切2026年08月31日]Unreal Engineの学習を目的としたコンテスト『第26回UE5ぷちコン』",
           "imageUrl": "https://cginterest.com/wp-content/uploads/2026/08/UEpuchicon26th.webp"
-        },
-        {
-          "id": "https://cginterest.com/?p=61344",
-          "author": ".me",
-          "description": "2026年7月30日（現地時間）- Reallusionは、iClone向けフェイシャルモーションキャプチャプラグインの最新版となる「AccuFACE 2」を発表しました。 AccuFACEとは AccuFACEは、3D […]",
-          "link": "https://cginterest.com/2026/07/31/reallusion%e3%80%8caccuface-2%e3%80%8d%e3%82%92%e7%99%ba%e8%a1%a8-%e2%94%80-gpu%e5%af%be%e5%bf%9c%e3%80%81%e5%8f%a3%e5%85%83%e3%81%aa%e3%81%a9%e9%a1%94%e5%85%a8%e4%bd%93%e3%81%ae%e3%82%88%e3%82%8a/",
-          "publishedOn": "2026-07-31T11:33:30.000Z",
-          "wordCount": 31174,
-          "title": "Reallusion「AccuFACE 2」を発表 ─ GPU対応、口元など顔全体のより繊細なトラッキングが可能に",
-          "enclosure": {
-            "url": "https://cginterest.com/wp-content/uploads/2026/07/01-Gpu-Power-The-Engine-Behind-Accuface-2.mp4",
-            "length": "142676",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://cginterest.com/wp-content/uploads/2026/07/accuface2.webp"
         }
       ]
     }

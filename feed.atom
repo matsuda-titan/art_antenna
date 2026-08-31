@@ -2,10 +2,143 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-30T15:41:56.699Z</updated>
+    <updated>2026-08-31T02:15:41.124Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Generate Soundscape – 映像の内容や動きに合わせて環境音・効果音を自動生成できるPremiere Pro Betaの新機能]]></title>
+        <id>https://modelinghappy.com/?p=70275</id>
+        <link href="https://modelinghappy.com/archives/70275"/>
+        <updated>2026-08-31T02:05:17.000Z</updated>
+        <summary type="html"><![CDATA[Now in Beta: Generate Soundscape in Premiere Adobe Premiere Beta 27.0(Build30)に、タイムライン上の映像をAIが解析し、シーンの内容や動きに合わ
+The post Generate Soundscape – 映像の内容や動きに合わせて環境音・効果音を自動生成できるPremiere Pro Betaの新機能 first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
+        <author>
+            <name>modelinghappy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【アドオン紹介】Chain Generator – 色んなチェーンのオブジェクトを簡単生成！]]></title>
+        <id>https://cgbox.jp/?p=65635</id>
+        <link href="https://cgbox.jp/2026/08/31/news-addon-chain-generator-2/"/>
+        <updated>2026-08-31T01:09:58.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは！ 今回はアドオンの「Chain Generator」を紹介します。 こちらのリンクがアドオンの商品ページになります。 Chain Generator 「Chain Generator」は、Blenderでチェ […]]]></summary>
+        <author>
+            <name>kasahara</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[オートデスク協賛 あにつく2026]]></title>
+        <id>https://area.autodesk.jp/event/autodesk/anitsuku-2026/</id>
+        <link href="https://area.autodesk.jp/event/autodesk/anitsuku-2026/"/>
+        <updated>2026-08-31T01:00:00.000Z</updated>
+        <summary type="html"><![CDATA[あにつくは、これからのアニメ制作を目指す次世代、アニメファンの方々までを対象に、アニメを作る楽しさと、その手法として2D作画ソフトの運用や3Dアニメーション技術の紹介から、作品のメイキングとマーケットアピール、人材発掘、育成までを目的としたアニメ制作技術に関する総合イベントです。・・・]]></summary>
+        <author>
+            <name>AREA JAPAN | Autodesk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[アクションカメラ「Insta360 X6」発売　360度撮影を3DGSでモデル化できる空間キャプチャー機能搭載、8K50fps、10-bitカラー、I-Logモードなど - ニュース]]></title>
+        <id>https://cgworld.jp/flashnews/01-202608-Insta360X6.html</id>
+        <link href="https://cgworld.jp/flashnews/01-202608-Insta360X6.html"/>
+        <updated>2026-08-30T22:37:47.000Z</updated>
+        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[フォトグラメトリ数学｜51：Dense Point Cloudの外れ値除去～信頼できる3次元点を残す～]]></title>
+        <id>https://zenn.dev/s_hashida/articles/6d53f56d15c257</id>
+        <link href="https://zenn.dev/s_hashida/articles/6d53f56d15c257"/>
+        <updated>2026-08-30T22:02:05.000Z</updated>
+        <summary type="html"><![CDATA[はじめに
+前回は、
+
+Disparity Map
+視差と奥行きの関係
+Depth Map
+画像座標から3次元座標への変換
+Dense Point Cloud
+
+について説明しました。
+
+その中で重要だったのが、
+
+Disparity Mapには各画素の視差が記録されている
+視差から奥行きを求めることができる
+画像座標と奥行きから3次元座標を求めることができる
+多数の画素を3次元点へ変換することでDense Point Cloudを生成できる
+
+という点です。
+
+前回は、視差 d と奥行き Z の関係を、
+
+Z
+=
+\frac{fB}{d}
+
+と表しました。
+さらに、画像座標 (u,...]]></summary>
+        <author>
+            <name>s_hashida</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Remi | 壊れたメッシュの修復からリトポロジー UV生成 テクスチャベイクまで対応する無料Blenderアドオン！]]></title>
+        <id>https://3dnchu.com/?p=1067769</id>
+        <link href="https://3dnchu.com/archives/remi/"/>
+        <updated>2026-08-30T18:00:11.000Z</updated>
+        <summary type="html"><![CDATA[shaderko氏が開発・公開しているBlender向けの無料オープンソースアドオン「Remi」のご紹介！高密度なメッシュや、穴・亀裂・分離したパーツなどを含む扱いにくいジオメトリを対象に、メッシュ修復、リメッシュ、ポリゴン削減、Quadリトポロジー、UV生成、テクスチャベイクまでをBlender内 […]
+続きを読む]]></summary>
+        <author>
+            <name>Ymt3D -3dnchu-</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Blender Touge Drift Animation | 歴代86が峠を駆け抜ける！Gaku Yajima氏によるBlender製ドリフトCGアニメーション！]]></title>
+        <id>https://3dnchu.com/?p=1067764</id>
+        <link href="https://3dnchu.com/archives/blender-touge-drift-animation/"/>
+        <updated>2026-08-30T15:44:12.000Z</updated>
+        <summary type="html"><![CDATA[日本のCGアーティスト Gaku Yajima氏が、Blenderを使用して制作したカーCGアニメーション作品「Blender Touge Drift Animation」を公開しました！ Blender Touge Drift Animation Music: Helios+trope / エンゼ […]
+続きを読む]]></summary>
+        <author>
+            <name>Ymt3D -3dnchu-</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ViRender – iPhone・AndroidでBlenderのカメラ操作・キーフレーム記録・レンダリングまで行えるバーチャルカメラアプリ]]></title>
+        <id>https://modelinghappy.com/?p=70271</id>
+        <link href="https://modelinghappy.com/archives/70271"/>
+        <updated>2026-08-30T14:30:14.000Z</updated>
+        <summary type="html"><![CDATA[ViRender公式サイト App Store ViRender ViRenderは、iPhoneやAndroidスマートフォンを、Blender用のバーチャルカメラとして使用できるアプリです。 スマートフォンを傾けたり
+The post ViRender – iPhone・AndroidでBlenderのカメラ操作・キーフレーム記録・レンダリングまで行えるバーチャルカメラアプリ first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
+        <author>
+            <name>modelinghappy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Folder Exporter – レイヤーフォルダーごとにテクスチャを一括出力できるSubstance 3D Painter用プラグイン]]></title>
+        <id>https://modelinghappy.com/?p=70268</id>
+        <link href="https://modelinghappy.com/archives/70268"/>
+        <updated>2026-08-30T12:45:56.000Z</updated>
+        <summary type="html"><![CDATA[Folder Exporter Plugin for Substance Painter Folder Exporter Plugin for Substance Painterは、Substance 3D Painte
+The post Folder Exporter – レイヤーフォルダーごとにテクスチャを一括出力できるSubstance 3D Painter用プラグイン first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
+        <author>
+            <name>modelinghappy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fast Rigging for Maya – ガイドを調整するだけでUE5・Unity対応のキャラクターリグとスキンウェイトを5分以内に自動作成できるMaya用プラグイン]]></title>
+        <id>https://modelinghappy.com/?p=70260</id>
+        <link href="https://modelinghappy.com/archives/70260"/>
+        <updated>2026-08-30T12:31:29.000Z</updated>
+        <summary type="html"><![CDATA[HP Art Toolset: Fast Rigging for Maya (2024-2027) Fast Character Rigging for Games and Avatarsは、キャラクターにガイドを自動配
+The post Fast Rigging for Maya – ガイドを調整するだけでUE5・Unity対応のキャラクターリグとスキンウェイトを5分以内に自動作成できるMaya用プラグイン first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
+        <author>
+            <name>modelinghappy</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[スカルプター 三枝木ニコ氏が検証。「薄型のデタッチャブルPC ASUS ProArt PZ14」の実力は？ - スペシャルコンテンツ]]></title>
         <id>https://cgworld.jp/special-feature/-pc-asus-proart-pz14.html</id>
@@ -4215,80 +4348,6 @@ The post Seamless Canvas – Blenderで継ぎ目のないシームレステク�
         <summary type="html"><![CDATA[2Dイラストに立体的なアニメーションを加える技術「Live2D」を用いたオリジナル作品のコンテスト、「第13回 Live2D Creative Awards」の開催情報です。 Live2D Creative Awards […]]]></summary>
         <author>
             <name>.me</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【Blender】Weight Paintを塗る方法とコツ]]></title>
-        <id>https://qiita.com/tsukino_/items/412434d800fbdf0bbc0c</id>
-        <link href="https://qiita.com/tsukino_/items/412434d800fbdf0bbc0c"/>
-        <updated>2026-08-01T12:34:43.000Z</updated>
-        <summary type="html"><![CDATA[3DモデルのVertex Groupは、どの頂点がどのボーンに追従するかを紐づけるためのものでした。
-しかし、それだけでは頂点を動かすには不十分で、ボーンの影響度、つまりどのボーンがどの頂点をどれくらい動かすかを調整する必要があります。
-そういった場合、3DモデルではWei...]]></summary>
-        <author>
-            <name>3DCGタグが付けられた新着記事 - Qiita</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[〆切2026年08月31日]複数のアニメ制作会社に一括で就活アプローチできるWEB就活企画「第七回ポートフォリオドラフト会議」]]></title>
-        <id>https://cginterest.com/?p=61370</id>
-        <link href="https://cginterest.com/2026/08/01/%e3%80%86%e5%88%872026%e5%b9%b408%e6%9c%8831%e6%97%a5%e8%a4%87%e6%95%b0%e3%81%ae%e3%82%a2%e3%83%8b%e3%83%a1%e5%88%b6%e4%bd%9c%e4%bc%9a%e7%a4%be%e3%81%ab%e4%b8%80%e6%8b%ac%e3%81%a7%e5%b0%b1%e6%b4%bb/"/>
-        <updated>2026-08-01T12:20:10.000Z</updated>
-        <summary type="html"><![CDATA[CGアーティストを目指す学生に向けたWEB就活イベント「第七回ポートフォリオドラフト会議」の開催情報です。 ポートフォリオ ドラフト会議とは 本イベントは、「アニメータードラフト会議」の姉妹企画として開催される、CGアー […]]]></summary>
-        <author>
-            <name>.me</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[〆切2026年08月31日]Unreal Engineの学習を目的としたコンテスト『第26回UE5ぷちコン』]]></title>
-        <id>https://cginterest.com/?p=61362</id>
-        <link href="https://cginterest.com/2026/08/01/%e3%80%86%e5%88%872026%e5%b9%b408%e6%9c%8831%e6%97%a5unreal-engine%e3%81%ae%e5%ad%a6%e7%bf%92%e3%82%92%e7%9b%ae%e7%9a%84%e3%81%a8%e3%81%97%e3%81%9f%e3%82%b3%e3%83%b3%e3%83%86%e3%82%b9%e3%83%88/"/>
-        <updated>2026-08-01T11:40:38.000Z</updated>
-        <summary type="html"><![CDATA[株式会社ヒストリア主催、エピックゲームズ ジャパン共催によるUnreal Engine学習用コンテスト「第26回UE5ぷちコン」の開催情報です。 UE5ぷちコンとは？ UE5ぷちコンとは、Unreal Engine（UE […]]]></summary>
-        <author>
-            <name>.me</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pipe It – クリックするだけでパイプを自動生成！配置・分岐・編集ができるUnreal Engine用プラグイン！]]></title>
-        <id>https://modelinghappy.com/?p=69652</id>
-        <link href="https://modelinghappy.com/archives/69652"/>
-        <updated>2026-08-01T11:22:49.000Z</updated>
-        <summary type="html"><![CDATA[Pipe It #8211; Draw Pipes at the Speed of Thought Anthony Carmonaさんが作成した、Unreal Engineで配管を配置したい部分をクリックするだけで、自
-The post Pipe It – クリックするだけでパイプを自動生成！配置・分岐・編集ができるUnreal Engine用プラグイン！ first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
-        <author>
-            <name>modelinghappy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[VFX Toolkit – 100種類以上の炎・煙・爆発・手描きアニメーションなどを簡単に追加できるBlender用VFXライブラリ！]]></title>
-        <id>https://modelinghappy.com/?p=69637</id>
-        <link href="https://modelinghappy.com/archives/69637"/>
-        <updated>2026-08-01T06:34:35.000Z</updated>
-        <summary type="html"><![CDATA[Vfx Toolkit #8211; The Ultimate Blender Vfx Library VFX Toolkitは、Blenderで炎・煙・衝撃波・エネルギーエフェクト・手描きアニメーションなどを簡単に追
-The post VFX Toolkit – 100種類以上の炎・煙・爆発・手描きアニメーションなどを簡単に追加できるBlender用VFXライブラリ！ first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
-        <author>
-            <name>modelinghappy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bioform | 現役臨床医の3DCGアーティストが実際の解剖学に基づいて構築したプロシージャルな生物学的Blenderマテリアルアセットアドオン！無料お試し版もあるよ！]]></title>
-        <id>https://3dnchu.com/?p=1066743</id>
-        <link href="https://3dnchu.com/archives/bioform/"/>
-        <updated>2026-08-01T04:29:11.000Z</updated>
-        <summary type="html"><![CDATA[医師で3DアーティストのLimitless Creative（Hamza Meo氏）による、生物学的Blenderマテリアルアセット「Bioform - Procedural Biological Materials」がリリースされました！]]></summary>
-        <author>
-            <name>Ymt3D -3dnchu-</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【アドオン紹介】Vfx Toolkit – カスタム可能なVFXのプリセット集]]></title>
-        <id>https://cgbox.jp/?p=65527</id>
-        <link href="https://cgbox.jp/2026/08/01/news-addon-vfx-toolkit/"/>
-        <updated>2026-08-01T04:11:38.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは！ 今回はアドオンの「Vfx Toolkit」を紹介します。 こちらのリンクがアドオンの商品ページになります。 Vfx Toolkit 「Vfx Toolkit」は、Blender内で使えるプロシージャルエフェ […]]]></summary>
-        <author>
-            <name>kasahara</name>
         </author>
     </entry>
 </feed>

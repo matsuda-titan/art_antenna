@@ -2,10 +2,76 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-31T02:15:41.124Z</updated>
+    <updated>2026-08-31T09:02:39.800Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Blenderをヘッドレスで回してニュース動画のカットを7本作る]]></title>
+        <id>https://zenn.dev/yadevloper/articles/51a913e82ed4d6</id>
+        <link href="https://zenn.dev/yadevloper/articles/51a913e82ed4d6"/>
+        <updated>2026-08-31T08:54:23.000Z</updated>
+        <summary type="html"><![CDATA[ニュース動画を自動生成するツールキット（news-video-generator）は、YAML台本からナレーション音声とThree.jsのシーンを生成して録画する。ただ、記事の内容によっては汎用のシーンパターンでは意味が伝わらないカットが出てくる。そういうところに、Blenderで作った短いクリップを差し込めるようになっている。
+- text: "Nvidiaの競争優位性が、単体のGPU性能を超えて広がりつつあります。"
+  scene: video
+  params:
+    src: "gpu_beyond.webm"
+1本のニュースでこれを7カット作った。この記事では、そのとき再利...]]></summary>
+        <author>
+            <name>Y.A</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#14【ポリゴンリダクション】Unity ATT・ZBrush・Blender・InstaLODのポリゴンリダクション機能を比較検証！ - 連載]]></title>
+        <id>https://cgworld.jp/regular/202608-cgw336-tr14.html</id>
+        <link href="https://cgworld.jp/regular/202608-cgw336-tr14.html"/>
+        <updated>2026-08-31T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[CADデータをゲームエンジンやリアルタイム環境で活用したいのに、「データが重い」、「表示が遅い」、「変換に手間がかかる」といった壁にぶつかったことはありませんか？　こうした課題を解決するには、CADデータを用途に適したポリゴンデータへ変換し、最適な軽量化を行うことが重要です。  今回はUnity Asset Transformer Toolkit（以下、Unity ATT）、ZBrush、Blender、InstaLODのポリゴンリダクション機能を検証します。]]></summary>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AMD、Unreal Engine 5.8対応の最新FSRプラグインを公開 ― 機械学習アップスケーリング「FSR 4.1.1」搭載]]></title>
+        <id>https://cginterest.com/?p=62170</id>
+        <link href="https://cginterest.com/2026/08/31/amd%e3%80%81unreal-engine-5-8%e5%af%be%e5%bf%9c%e3%81%ae%e6%9c%80%e6%96%b0fsr%e3%83%97%e3%83%a9%e3%82%b0%e3%82%a4%e3%83%b3%e3%82%92%e5%85%ac%e9%96%8b-%e2%80%95-%e6%a9%9f%e6%a2%b0%e5%ad%a6%e7%bf%92/"/>
+        <updated>2026-08-31T05:07:14.000Z</updated>
+        <summary type="html"><![CDATA[2026年8月27日（現地時間）- AMD は、AMDは、Epic Gamesの最新ゲームエンジン「Unreal Engine 5.8」に対応した最新の「AMD FSR Unreal Engineプラグイン」を発表しまし […]]]></summary>
+        <author>
+            <name>.me</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Multi Faces Inset Outset – 複数の面をまとめて内側・外側へオフセットできるBlender用無料アドオン]]></title>
+        <id>https://modelinghappy.com/?p=70287</id>
+        <link href="https://modelinghappy.com/archives/70287"/>
+        <updated>2026-08-31T04:39:43.000Z</updated>
+        <summary type="html"><![CDATA[Multi Faces Inset Outset (blender addon) Kushiroさんが作成した、Multi Faces Inset Outsetは、選択した複数の面に対して、インセットとアウトセットをまと
+The post Multi Faces Inset Outset – 複数の面をまとめて内側・外側へオフセットできるBlender用無料アドオン first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
+        <author>
+            <name>modelinghappy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PaintBridge Krita – BlenderとKritaを連携し、描いたテクスチャを3Dモデルへ投影できるアドオン]]></title>
+        <id>https://modelinghappy.com/?p=70280</id>
+        <link href="https://modelinghappy.com/archives/70280"/>
+        <updated>2026-08-31T02:28:10.000Z</updated>
+        <summary type="html"><![CDATA[Paintbridge Krita PaintBridge Kritaは、Blenderと無料ペイントソフトKritaをリアルタイムに連携し、Kritaで描いた内容を3Dモデルへ投影できるアドオンです。Kritaの豊富な
+The post PaintBridge Krita – BlenderとKritaを連携し、描いたテクスチャを3Dモデルへ投影できるアドオン first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
+        <author>
+            <name>modelinghappy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[第4回：色表現編 〜配色とコントラストで"派手さ"をつくる〜 - 連載]]></title>
+        <id>https://cgworld.jp/regular/2608-hadegaku-04.html</id>
+        <link href="https://cgworld.jp/regular/2608-hadegaku-04.html"/>
+        <updated>2026-08-31T02:23:00.000Z</updated>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Generate Soundscape – 映像の内容や動きに合わせて環境音・効果音を自動生成できるPremiere Pro Betaの新機能]]></title>
         <id>https://modelinghappy.com/?p=70275</id>

@@ -2105,16 +2105,6 @@
           "wordCount": 727,
           "title": "今年は有明！「CGWORLD 2026 クリエイティブカンファレンス」12/6（日）開催決定 - ニュース",
           "imageUrl": "https://cgworld.jp/flashnews/assets_c/2026/08/ccc26_press-thumb-1920x1080-87368.jpg"
-        },
-        {
-          "id": "https://cgworld.jp/flashnews/01-202608-UE58Rigging.html",
-          "author": null,
-          "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
-          "link": "https://cgworld.jp/flashnews/01-202608-UE58Rigging.html",
-          "publishedOn": "2026-08-03T23:09:41.000Z",
-          "wordCount": 819,
-          "title": "Epic Games、Unreal Fest Chicago 2026でのUE5.8 リギング＆アニメーションツール紹介講演動画を公開 - ニュース",
-          "imageUrl": "https://cgworld.jp/flashnews/assets_c/2026/08/UE58Rigging-01-thumb-1920x1080-87298.jpg"
         }
       ]
     },
@@ -4079,6 +4069,16 @@
       "siteUrl": "https://3d.crdg.jp/env/",
       "articles": [
         {
+          "id": "https://3d.crdg.jp/env/?p=10395",
+          "author": "Makito.Noguchi",
+          "description": "今記事の目的 ・HeightfieldとCopernicusを使って地形を作成してみたいと思います。※Houdini Ver 22.0~を使用していま […]\n続きを読む\n投稿 【Houdini】HeightfieldとCopernicusでの地形作成 は エンホリ - ENVIRONMENT HOLIC｜C&R Creative Studios に最初に表示されました。",
+          "link": "https://3d.crdg.jp/env/2026/09/02/10395/?utm_source=rss&utm_medium=rss&utm_campaign=%25e3%2580%2590houdini%25e3%2580%2591heightfield%25e3%2581%25a8copernicus%25e3%2581%25a7%25e3%2581%25ae%25e5%259c%25b0%25e5%25bd%25a2%25e4%25bd%259c%25e6%2588%2590",
+          "publishedOn": "2026-09-02T10:00:00.000Z",
+          "wordCount": 3586,
+          "title": "【Houdini】HeightfieldとCopernicusでの地形作成",
+          "imageUrl": "https://3d.crdg.jp/env/wp-content/uploads/2026/08/アイキャッチ画像_Houdini_260830.png"
+        },
+        {
           "id": "https://3d.crdg.jp/env/?p=10438",
           "author": "Hisako.Nishimura",
           "description": "Shift + D キーで選択中のノードを一時無効化できます。これを使うと前後の変化を簡単に確認できるので、もし知らなかった場合は試してみてください！ […]\n続きを読む\n投稿 【Substance Designer】Shift + Dでノードのビフォーアフターを確認する は エンホリ - ENVIRONMENT HOLIC｜C&R Creative Studios に最初に表示されました。",
@@ -4160,6 +4160,21 @@
       "feedUrl": "https://cginterest.com/feed/",
       "siteUrl": "https://cginterest.com",
       "articles": [
+        {
+          "id": "https://cginterest.com/?p=62241",
+          "author": ".me",
+          "description": "2026年9月1日（現地時間）- NVIDIAは、「3D-Guided Neural Rendering」を導入した新技術「DLSS 5」の提供開始を発表しました。 第1弾の対応タイトルは、Visual Concepts […]",
+          "link": "https://cginterest.com/2026/09/02/nvidia%e3%80%81%e3%80%8cdlss-5%e3%80%8d%e3%82%929%e6%9c%884%e6%97%a5%e3%82%88%e3%82%8a%e6%8f%90%e4%be%9b%e9%96%8b%e5%a7%8b-%e2%80%95-%e3%80%8enba-2k27%e3%80%8f%e3%81%8c%e5%88%9d%e3%81%ae%e5%af%be/",
+          "publishedOn": "2026-09-02T07:48:57.000Z",
+          "wordCount": 2905,
+          "title": "NVIDIA、「DLSS 5」を9月4日より提供開始 ― 『NBA 2K27』が初の対応タイトルとしてGeForce RTX 50シリーズ全機種で利用可能に",
+          "enclosure": {
+            "url": "https://cginterest.com/wp-content/uploads/2026/07/Dlss5atsiggraph2026-Model-Automasking2.mp4",
+            "length": "714020",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://cginterest.com/wp-content/uploads/2026/09/nvidia-dlss5debuts.webp"
+        },
         {
           "id": "https://cginterest.com/?p=62239",
           "author": ".me",

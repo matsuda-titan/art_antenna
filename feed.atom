@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-04T07:32:45.330Z</updated>
+    <updated>2026-09-04T12:21:14.538Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Topaz Labs、画像＆動画アップスケールモデルを統合したウェブアプリ「Topaz for Web」を発表]]></title>
+        <id>https://cginterest.com/?p=62317</id>
+        <link href="https://cginterest.com/2026/09/04/topaz-labs%e3%80%81%e7%94%bb%e5%83%8f%ef%bc%86%e5%8b%95%e7%94%bb%e3%82%a2%e3%83%83%e3%83%97%e3%82%b9%e3%82%b1%e3%83%bc%e3%83%ab%e3%83%a2%e3%83%87%e3%83%ab%e3%82%92%e7%b5%b1%e5%90%88%e3%81%97%e3%81%9f/"/>
+        <updated>2026-09-04T11:20:41.000Z</updated>
+        <summary type="html"><![CDATA[2026年9月3日（現地時間）– Topaz Labsは、ブラウザ上で画像のアップスケールや高画質化を行えるツール「Topaz for Web」に、動画の拡大・強化機能を追加したことを発表しました。 画像用と動画用に分か […]]]></summary>
+        <author>
+            <name>.me</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【9/15より3週連続オンライン開催】ワールドクラスのNukeコンポジターに学ぶ、"抜く""散らす""貼る"の実践テクニック！ - ニュース]]></title>
+        <id>https://cgworld.jp/flashnews/9153nuke.html</id>
+        <link href="https://cgworld.jp/flashnews/9153nuke.html"/>
+        <updated>2026-09-04T11:06:26.000Z</updated>
+        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[アニメ『二十世紀電氣目録-ユーレカ・エヴリカ-』京都アニメーションが描く印象派絵画のような画づくりとは〜No.2／3DCG＆撮影（本編）篇 - 特集]]></title>
+        <id>https://cgworld.jp/article/2608animecg-denkimokuroku02.html</id>
+        <link href="https://cgworld.jp/article/2608animecg-denkimokuroku02.html"/>
+        <updated>2026-09-04T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[アニメ『二十世紀電氣目録-ユーレカ・エヴリカ-』のメイキングを紹介。]]></summary>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[NVIDIA、AIモデル共有プラットフォーム「Hugging Face」を買収 ― 約129億ドルの取引を発表]]></title>
         <id>https://cginterest.com/?p=62287</id>
@@ -4391,48 +4421,6 @@ The post Tear Drop Tool – Mayaでリアルな流れるアニメーションの
 The post Autodesk Flow Studioに「3D Editor + Canvas」登場！3D空間を演出しながらAI映像を生成可能に first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
         <author>
             <name>modelinghappy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PS1風アバター作成アプリを作った。]]></title>
-        <id>https://zenn.dev/izumuzui/articles/27f73b5b88bee5</id>
-        <link href="https://zenn.dev/izumuzui/articles/27f73b5b88bee5"/>
-        <updated>2026-08-05T23:40:05.000Z</updated>
-        <summary type="html"><![CDATA[人物写真からPS1ゲーム風のローポリキャラクターを作るブラウザアプリを作りました。YouTubeで流れてくる、低解像度なのに温かみのあるキャラクター表現を自分でも作ってみたかったのがきっかけです。
-実装して分かった核心は、セグメンテーションで「服」を抜けても、その画像を胴体・袖・側面のどこへ置くかは別問題だということでした。胴体の切り抜きを袖にも貼ると、胸のロゴや陰影まで腕に繰り返されます。この記事では、その失敗から部位別のUVへ直した過程を中心に書きます。
-https://izumuzui.github.io/lowpoly-builder/
-
-
-左からTポーズ、立ち、歩き、考える。デ...]]></summary>
-        <author>
-            <name>izumuzui</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[にゃんねこ氏、Substance 3D Painter用Toonシェーダ「NyanToon」を無料でリリース　lilToon風のルックを再現し、UnityとSP間のルック差異を吸収 - ニュース]]></title>
-        <id>https://cgworld.jp/flashnews/01-202608-NyanToon.html</id>
-        <link href="https://cgworld.jp/flashnews/01-202608-NyanToon.html"/>
-        <updated>2026-08-05T22:47:26.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[サブスタでぬいぐるみ塗った備忘録]]></title>
-        <id>https://note.com/nakro/n/n3e961127e42e</id>
-        <link href="https://note.com/nakro/n/n3e961127e42e"/>
-        <updated>2026-08-05T20:46:19.000Z</updated>
-        <summary type="html"><![CDATA[ある程度基本動作ができている前提の話です
-レベルとしては脱初心者（基本操作）＆初級者です。中級者の人が見たら何を当たり前のことを…って思うかも
-ガチ初心者記事ではなく未来の自分に向けての記事です
-余裕があったら先にこっちの記事を見てねというリンクをこの文章の下に記載します
-サブスタは2024を使用しています
-
-
-続きをみる]]></summary>
-        <author>
-            <name>#substancepainterタグ</name>
         </author>
     </entry>
 </feed>

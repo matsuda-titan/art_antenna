@@ -2,10 +2,103 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-03T12:20:46.547Z</updated>
+    <updated>2026-09-04T02:01:02.905Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【アドオン紹介】Caustica – ハイクオリティのフォトンコースティクスを扱えるアドオン]]></title>
+        <id>https://cgbox.jp/?p=65650</id>
+        <link href="https://cgbox.jp/2026/09/04/news-addon-caustica/"/>
+        <updated>2026-09-04T00:27:07.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは！ 今回はアドオンの「Caustica」を紹介します。 こちらのリンクがアドオンの商品ページになります。 Caustica 「Caustica」は、Cycles内で本物のフォトンコースティクスを扱えるカスタムB […]]]></summary>
+        <author>
+            <name>kasahara</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Blaze AutoPose – 手首や足を動かすだけで全身を自然なポーズに調整できるBlender用アドオン]]></title>
+        <id>https://modelinghappy.com/?p=70325</id>
+        <link href="https://modelinghappy.com/archives/70325"/>
+        <updated>2026-09-03T23:39:12.000Z</updated>
+        <summary type="html"><![CDATA[Blaze Autopose Blaze AutoPoseは、ビューポート上のハンドルを動かすだけで、キャラクターの全身にポーズを付けられるBlender用アドオンです。 例えば、キャラクターの手首を上へ動かすと、腕だけ
+The post Blaze AutoPose – 手首や足を動かすだけで全身を自然なポーズに調整できるBlender用アドオン first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
+        <author>
+            <name>modelinghappy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ntkit – ウィンドウ分割や数値変形、カメラ・ファイル管理など24種類の頻用機能を素早く実行できるBlender用無料アドオン]]></title>
+        <id>https://modelinghappy.com/?p=70317</id>
+        <link href="https://modelinghappy.com/archives/70317"/>
+        <updated>2026-09-03T23:12:37.000Z</updated>
+        <summary type="html"><![CDATA[Ntkit #8211; Blender Workflow Utilities Ntkitは、Naoki Takanoさんによって制作された、Blenderで頻繁に行う操作を素早く実行できる、24種類のユーティリティを
+The post Ntkit – ウィンドウ分割や数値変形、カメラ・ファイル管理など24種類の頻用機能を素早く実行できるBlender用無料アドオン first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
+        <author>
+            <name>modelinghappy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unity、Unite Seoulのキーノート講演「The road to Unity 7」のハイライト動画を公開　ロードマップから最新エンジンの機能群紹介、UEとの同期まで - ニュース]]></title>
+        <id>https://cgworld.jp/flashnews/01-202609-Unity7-Unite.html</id>
+        <link href="https://cgworld.jp/flashnews/01-202609-Unity7-Unite.html"/>
+        <updated>2026-09-03T22:59:43.000Z</updated>
+        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[フォトグラメトリ数学｜53：Dense Point Cloudから3D Meshへ～点の集合から表面を復元する～]]></title>
+        <id>https://zenn.dev/s_hashida/articles/bf5a6c69432ba7</id>
+        <link href="https://zenn.dev/s_hashida/articles/bf5a6c69432ba7"/>
+        <updated>2026-09-03T22:01:05.000Z</updated>
+        <summary type="html"><![CDATA[はじめに
+前回は、
+
+Dense Point CloudとDSMの違い
+DSMが2.5次元である理由
+点群を規則的な格子へ変換する考え方
+Maxによる格子化
+IDWによる補間
+TINによる表面生成
+
+について説明しました。
+
+その中で重要だったのが、
+
+Dense Point Cloudは不規則に分布した3次元点の集合である
+DSMではXY平面上の各位置に1つの高さを持つ
+点群から表面高さを推定することでDSMを生成できる
+
+という点です。
+
+前回、DSMを、
+
+Z_{\mathrm{DSM}}(x,y)
+
+として表しました。
+つまり、
+
+(x,y)
+\rightarrow Z
+
+...]]></summary>
+        <author>
+            <name>s_hashida</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ゲーム背景のための植生環境のつくり方 UE5＋Blender＋SpeedTreeで再現するリアルな植物 |]]></title>
+        <id>https://3dnchu.com/?p=1068051</id>
+        <link href="https://3dnchu.com/archives/creating-high-quality-vegetation-for-games-book-jp/"/>
+        <updated>2026-09-03T17:31:47.000Z</updated>
+        <summary type="html"><![CDATA[2025年にCRC Pressから発売されたチコ・スパンズ（Chico Spans）氏によるゲーム向け植生制作の解説書『Creating High-Quality Vegetation for Games』の日本語版『ゲーム背景のための植生環境のつくり方 UE5＋Blender＋SpeedTreeで […]
+続きを読む]]></summary>
+        <author>
+            <name>Ymt3D -3dnchu-</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ロンドン・NY発の精鋭スタジオ「Golden Wolf」が追求する、メディアを越境するクリエイティブ ＜Pixel × Pixel 2026特集＞ - スペシャルコンテンツ]]></title>
         <id>https://cgworld.jp/special-feature/nygolden-wolf-pixel-pixel-2026.html</id>
@@ -169,6 +262,17 @@
         <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
         <author>
             <name>CGWORLD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Substance Designer / TrailをUEで確認して作ろう]]></title>
+        <id>https://note.com/efeozi/n/n5106b0debc41</id>
+        <link href="https://note.com/efeozi/n/n5106b0debc41"/>
+        <updated>2026-09-02T15:23:07.000Z</updated>
+        <summary type="html"><![CDATA[🔶試作したデータから印象をまとめる
+続きをみる]]></summary>
+        <author>
+            <name>#SubstanceDesignerタグ</name>
         </author>
     </entry>
     <entry>
@@ -4330,130 +4434,6 @@ https://izumuzui.github.io/lowpoly-builder/
 そんな作業を効率化するために、選択オブジェクトの一括リネームと一...]]></summary>
         <author>
             <name>3DCGタグが付けられた新着記事 - Qiita</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Seamless CAD – Blenderで編集履歴を残せるCADライクなパラメトリックソリッドモデリングアドオンがリリース！]]></title>
-        <id>https://modelinghappy.com/?p=69776</id>
-        <link href="https://modelinghappy.com/archives/69776"/>
-        <updated>2026-08-05T11:59:00.000Z</updated>
-        <summary type="html"><![CDATA[Seamless Cad #8211; Parametric Modeling In Blender Seamless Cadは、ふぐさんが作成した、Blender内でCADのようなパラメトリックソリッドモデリングを行
-The post Seamless CAD – Blenderで編集履歴を残せるCADライクなパラメトリックソリッドモデリングアドオンがリリース！ first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
-        <author>
-            <name>modelinghappy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[アニメ『二十世紀電氣目録-ユーレカ・エヴリカ-』京都アニメーションが描く印象派絵画のような画づくりとは〜No.1／美術篇 - 特集]]></title>
-        <id>https://cgworld.jp/article/2607animecg-denkimokuroku01.html</id>
-        <link href="https://cgworld.jp/article/2607animecg-denkimokuroku01.html"/>
-        <updated>2026-08-05T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[アニメ『二十世紀電氣目録-ユーレカ・エヴリカ-』のメイキングを紹介。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【夏、再構築中。#1】MacのローカルAIだけでゲーム用3Dを100点以上・無料で量産した]]></title>
-        <id>https://qiita.com/Umamon/items/0ce15f76486c8138eeb1</id>
-        <link href="https://qiita.com/Umamon/items/0ce15f76486c8138eeb1"/>
-        <updated>2026-08-05T09:09:19.000Z</updated>
-        <summary type="html"><![CDATA[本記事は Zenn に公開した記事の転載です。
-
-【夏、再構築中。#1】MacのローカルAIだけで、ゲーム用3Dアセットを100点以上・完全無料で量産した話
-はじめまして。StudioMidoriと申します。ひとりで、Unreal Engine 5 を使って「90年代の...]]></summary>
-        <author>
-            <name>3DCGタグが付けられた新着記事 - Qiita</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【夏、再構築中。#1】MacのローカルAIだけでゲーム用3Dを100点以上・無料で量産した]]></title>
-        <id>https://zenn.dev/umamon/articles/natsuyasumi-diary-1</id>
-        <link href="https://zenn.dev/umamon/articles/natsuyasumi-diary-1"/>
-        <updated>2026-08-05T09:08:55.000Z</updated>
-        <summary type="html"><![CDATA[【夏、再構築中。#1】MacのローカルAIだけで、ゲーム用3Dアセットを100点以上・完全無料で量産した話
-はじめまして。StudioMidoriと申します。ひとりで、Unreal Engine 5 を使って「90年代の夏休みゲームの、あの空気感」を再現する協力ゲーム（仮題「エンガワ・サマー」）を制作しております。
-この連載「夏、再構築中。」では、制作の技術的な中身を、成功も失敗も包み隠さず記録してまいります。丁寧に、しかしときどき本音がこぼれる感じで。
-第1回のテーマは、個人開発における永遠の難題――**「3Dアセット、どうやって用意するのか問題」**です。結論を先に申し上げます。...]]></summary>
-        <author>
-            <name>Umamon</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Superhive 2026年サマーセールが開催！Blenderアドオン・アセットが25%オフ！]]></title>
-        <id>https://cginterest.com/?p=61456</id>
-        <link href="https://cginterest.com/2026/08/05/superhive-2026%e5%b9%b4%e3%82%b5%e3%83%9e%e3%83%bc%e3%82%bb%e3%83%bc%e3%83%ab%e3%81%8c%e9%96%8b%e5%82%ac%ef%bc%81blender%e3%82%a2%e3%83%89%e3%82%aa%e3%83%b3%e3%83%bb%e3%82%a2%e3%82%bb%e3%83%83/"/>
-        <updated>2026-08-05T08:18:40.000Z</updated>
-        <summary type="html"><![CDATA[Blenderユーザーに向けた3Dアセットやアドオン、チュートリアルなどを取り扱う総合マーケットプレイス「Superhive」恒例のサマーセールの開催情報です。 セールの概要 今回のサマーセールでは、クリエイターが手掛け […]]]></summary>
-        <author>
-            <name>.me</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[行列の和と積を投影変換に利用する]]></title>
-        <id>https://zenn.dev/junshimuida_das/articles/457bf87815a302</id>
-        <link href="https://zenn.dev/junshimuida_das/articles/457bf87815a302"/>
-        <updated>2026-08-05T08:15:06.000Z</updated>
-        <summary type="html"><![CDATA[行列の和（A + B）の意味とグラフィックスにおける実用例
-
- 1. 行列の和（A + B）の基本的な実用用途
-行列の和（A+B）は、同じ位置にあるデータ同士を足し合わせる演算です。実用的な用途としては、同じ形式のデータを集計・統合する場面で広く活用されています。
-
-
-売上や在庫の集計
-
-各店舗の月別商品別売上データを表した行列同士を足して、全店合計の売上行列を作る。
-前半期と後半期の在庫数データを足し合わせて、年間を通じた集計を行う。
-
-
-
-画像処理（デジタル画像）
-
-モノクロ画像のピクセルごとの明るさ（輝度）を数値化し、2つの画像データを足し合わせることで、二重露光や画像の重ね合...]]></summary>
-        <author>
-            <name>junshimura_das</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[映像と写真クリエイターのための展示会＆セミナー「CREATORS EDGE 2026（クリエイターズ エッジ）」が9月29日に開催 - ニュース]]></title>
-        <id>https://cgworld.jp/flashnews/creators-edge-2026-929.html</id>
-        <link href="https://cgworld.jp/flashnews/creators-edge-2026-929.html"/>
-        <updated>2026-08-05T06:28:31.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Autodesk、キャラクターや背景を3D空間で演出できる Flow Studio の新機能「3D Editor + Canvas」を発表]]></title>
-        <id>https://cginterest.com/?p=61449</id>
-        <link href="https://cginterest.com/2026/08/05/autodesk%e3%80%81%e3%82%ad%e3%83%a3%e3%83%a9%e3%82%af%e3%82%bf%e3%83%bc%e3%82%84%e8%83%8c%e6%99%af%e3%82%923d%e7%a9%ba%e9%96%93%e3%81%a7%e6%bc%94%e5%87%ba%e3%81%a7%e3%81%8d%e3%82%8b-flow-studio/"/>
-        <updated>2026-08-05T04:25:16.000Z</updated>
-        <summary type="html"><![CDATA[2026年8月4日（現地時間） – Autodeskは、AI動画制作における制作者の制御性を高める新機能「3D Editor + Canvas」を、Autodesk Flow Studioのメジャーアップデー […]]]></summary>
-        <author>
-            <name>.me</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[パイプラインの運用を支える可視化の取り組み紹介]]></title>
-        <id>https://note.com/dftalk/n/n05eda7616516</id>
-        <link href="https://note.com/dftalk/n/n05eda7616516"/>
-        <updated>2026-08-05T04:01:31.000Z</updated>
-        <summary type="html"><![CDATA[こんにちは。開発室の齊藤です。
-映像制作のパイプラインの裏側では、パブリッシュ時の情報連携、Flow Production Tracking（以下FlowPT）の更新に伴うキャッシュの書き換え、一時データの定期削除など、多数のサーバ処理やバッチが日々動いています。
-続きをみる]]></summary>
-        <author>
-            <name>DF TALK</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【全3回・第1回】実写ライブハウスにMori Calliopeを宿す――MV「Die For You」の撮影設計とルック開発 - 特集]]></title>
-        <id>https://cgworld.jp/article/202608-calliope-1.html</id>
-        <link href="https://cgworld.jp/article/202608-calliope-1.html"/>
-        <updated>2026-08-05T01:00:00.000Z</updated>
-        <summary type="html"><![CDATA[実写空間に宿した、Mori Calliope本人の存在感 MV「Die For...]]></summary>
-        <author>
-            <name>CGWORLD</name>
         </author>
     </entry>
 </feed>

@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-05T07:11:52.374Z</updated>
+    <updated>2026-09-05T11:28:10.966Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Rinvos Proximity Snap – メッシュのめり込みや隙間を指定距離への一括スナップで修正できるBlender用無料アドオン]]></title>
+        <id>https://modelinghappy.com/?p=70375</id>
+        <link href="https://modelinghappy.com/archives/70375"/>
+        <updated>2026-09-05T11:13:01.000Z</updated>
+        <summary type="html"><![CDATA[Rinvos Proximity Snap Rinvos Proximity Snapは、rinvoさんが作成した、選択した頂点などを、周囲にある別のオブジェクトへ指定した距離を保ちながらスナップできるBlender用ア
+The post Rinvos Proximity Snap – メッシュのめり込みや隙間を指定距離への一括スナップで修正できるBlender用無料アドオン first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
+        <author>
+            <name>modelinghappy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[cvELD ShellFit – 素体と衣装が重なる貫通部分をリアルタイムで修正できるBlender用アドオン]]></title>
+        <id>https://modelinghappy.com/?p=70368</id>
+        <link href="https://modelinghappy.com/archives/70368"/>
+        <updated>2026-09-05T10:50:29.000Z</updated>
+        <summary type="html"><![CDATA[Cveld Shellfit cvELD ShellFitは、cvELDさんが作成した、Blenderでキャラクターの素体と衣装が重なってしまう貫通を、リアルタイムに修正できるアドオンです。 素体を衣装の内側へ押し込む機
+The post cvELD ShellFit – 素体と衣装が重なる貫通部分をリアルタイムで修正できるBlender用アドオン first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
+        <author>
+            <name>modelinghappy</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GPT-6 Astraで東京タワー・住宅・ヘッドホンを3Dモデル化してBlenderで表示してみました]]></title>
         <id>https://modelinghappy.com/?p=70333</id>
@@ -4365,58 +4387,6 @@ The post One-click multi-angle renderer for vrm – 全身・体・洋服だけ�
 The post Rotate Extrude – 面やエッジを回転しながら押し出して、らせん形状などを簡単に作成できる無料Blenderアドオン first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
         <author>
             <name>modelinghappy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Epic Games、Unreal Fest Chicago 2026でのUE 5.8 メッシュ テレイン紹介講演動画を公開 - ニュース]]></title>
-        <id>https://cgworld.jp/flashnews/01-202608-UEfest-MeshTerrain.html</id>
-        <link href="https://cgworld.jp/flashnews/01-202608-UEfest-MeshTerrain.html"/>
-        <updated>2026-08-06T22:28:52.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[フォトグラメトリ数学｜43：オルソモザイク（Orthomosaic）とは何か]]></title>
-        <id>https://zenn.dev/s_hashida/articles/02c623db6d28fc</id>
-        <link href="https://zenn.dev/s_hashida/articles/02c623db6d28fc"/>
-        <updated>2026-08-06T22:02:05.000Z</updated>
-        <summary type="html"><![CDATA[はじめに
-前回は、
-
-通常のオルソ画像
-True Ortho
-遮蔽（Occlusion）
-可視性判定
-
-について説明しました。
-
-その中で重要だったのが、
-
-オルソ画像は1枚の画像から作られる
-True Orthoでは見えている画像を選択する
-建物による遮蔽を考慮できる
-
-という点です。
-
-しかしここで疑問が出てきます。
-
-1枚の画像だけで広い地域は作れるのか？
-隣の画像との境界はどうなるのか？
-地図全体はどのように作られるのか？
-
-
-実は、実際の地図は多数のオルソ画像をつなぎ合わせて作られています。
-
-その成果物が、
-オルソモザイク（Orthomosaic）
-です。
-
-今回は、
-...]]></summary>
-        <author>
-            <name>s_hashida</name>
         </author>
     </entry>
 </feed>

@@ -2,10 +2,52 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-04T12:21:14.538Z</updated>
+    <updated>2026-09-05T01:56:47.332Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[SideFX、4DGSワークフロー解説動画公開　HoudiniからUnreal Engineへの技術パイプライン、Karim Rehimi氏による解説 - ニュース]]></title>
+        <id>https://cgworld.jp/flashnews/01-202609-Houdini-4DGS.html</id>
+        <link href="https://cgworld.jp/flashnews/01-202609-Houdini-4DGS.html"/>
+        <updated>2026-09-04T23:18:29.000Z</updated>
+        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pro Particles 5.3 | FLIP・SPH・MPM・PyroなどをGPUで扱えるBlender向け統合シミュレーションアドオン！]]></title>
+        <id>https://3dnchu.com/?p=1068123</id>
+        <link href="https://3dnchu.com/archives/pro-particles-5-3/"/>
+        <updated>2026-09-04T19:05:36.000Z</updated>
+        <summary type="html"><![CDATA[CG_FlowによるBlender向けアドオン「Pro Particles」の大型アップデートとなるバージョン5.3が公開されました。Pro Particlesは、パーティクル、液体、粒状物、煙、炎などのシミュレーションやプロシージャルFXをGPUで処理できる統合ツールキットです。FLIP/APIC […]
+続きを読む]]></summary>
+        <author>
+            <name>Ymt3D -3dnchu-</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【解説付き背景メイキング】Blenderで作る洋風の中庭風景 | 背景イラストレーター カミワダ テル氏によるBlenderを使用した解説付き背景メイキング動画！新作が公開中！]]></title>
+        <id>https://3dnchu.com/?p=1068110</id>
+        <link href="https://3dnchu.com/archives/t_kamiwada_b3d_making2/"/>
+        <updated>2026-09-04T16:32:59.000Z</updated>
+        <summary type="html"><![CDATA[背景イラストレーター カミワダ テル 氏がYoutube上でBlenderのメイキング動画「【解説付き背景メイキング】Blenderで作る洋風の中庭風景」を公開しました！ 【解説付き背景メイキング】Blenderで作る洋風の中庭風景 Blenderをベースに洋風の中庭風景を作成しました。動画では伝わ […]
+続きを読む]]></summary>
+        <author>
+            <name>Ymt3D -3dnchu-</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[うちの3Dモデルは見習い3Dモデラーに昇格した！ | 腱鞘炎と戦うデザイナー 伊藤氏によるBlenderビューポートを活用した新作がYoutube上で公開！3Dキャラが自分で服をカスタムする！？]]></title>
+        <id>https://3dnchu.com/?p=1068102</id>
+        <link href="https://3dnchu.com/archives/my-3d-model-has-been-promoted-to-trainee-3d-modeller-ito/"/>
+        <updated>2026-09-04T15:51:54.000Z</updated>
+        <summary type="html"><![CDATA[腱鞘炎と戦うデザイナー ことフリーランスアーティストの伊藤氏が、少し前にXでも公開していた作品「うちの3Dモデルは見習い3Dモデラーに昇格した！ 」をYoutube上でも公開しました！ うちの3Dモデルは見習い3Dモデラーに昇格した！ もうそういう時代なんだ みたいなね‥🙃 リンク]]></summary>
+        <author>
+            <name>Ymt3D -3dnchu-</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Topaz Labs、画像＆動画アップスケールモデルを統合したウェブアプリ「Topaz for Web」を発表]]></title>
         <id>https://cginterest.com/?p=62317</id>
@@ -44,6 +86,24 @@
         <summary type="html"><![CDATA[2026年9月3日（現地時間）、NVIDIAは、AIモデル共有プラットフォーム「Hugging Face」を買収することで合意したと発表しました。買収額は128億9,030万ドル（約1兆9,000億円）で、NVIDIAの […]]]></summary>
         <author>
             <name>.me</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Windows11で MCP for blenderによる　Blender ⇔ Unsloth Desktopの連携　環境構築 &試した]]></title>
+        <id>https://qiita.com/YKVKDX12/items/b3323335a0cc746842e1</id>
+        <link href="https://qiita.com/YKVKDX12/items/b3323335a0cc746842e1"/>
+        <updated>2026-09-04T04:52:11.000Z</updated>
+        <summary type="html"><![CDATA[環境
+Windows11 Home
+Blender 5.2.1 LTS
+Unsloth desktop  v0.1.804-beta
+GPU Nvidia RTX3060 12GB
+CPU Intel Corei5-8400
+DRAM DDR4-3200 16GB
+
+手順...]]></summary>
+        <author>
+            <name>3DCGタグが付けられた新着記事 - Qiita</name>
         </author>
     </entry>
     <entry>
@@ -4335,92 +4395,6 @@ True Orthoでは見えている画像を選択する
 ...]]></summary>
         <author>
             <name>s_hashida</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tear Drop Tool – Mayaでリアルな流れるアニメーションの涙を数クリックで作成できる無料プラグイン]]></title>
-        <id>https://modelinghappy.com/?p=69793</id>
-        <link href="https://modelinghappy.com/archives/69793"/>
-        <updated>2026-08-06T11:45:42.000Z</updated>
-        <summary type="html"><![CDATA[[Maya] Tear Drop Tool #8211; Automatic Tear Rig Generator Tear Drop Toolは、Mayaで選択した頂点から顔の表面に沿って自然に流れる涙のアニメーショ
-The post Tear Drop Tool – Mayaでリアルな流れるアニメーションの涙を数クリックで作成できる無料プラグイン first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
-        <author>
-            <name>modelinghappy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Black Forest Labs、マルチモーダル基盤モデル「FLUX 3」の第一弾となる動画生成AI「FLUX 3 Video」を一般提供開始]]></title>
-        <id>https://cginterest.com/?p=61480</id>
-        <link href="https://cginterest.com/2026/08/06/black-forest-labs%e3%80%81%e3%83%9e%e3%83%ab%e3%83%81%e3%83%a2%e3%83%bc%e3%83%80%e3%83%ab%e5%9f%ba%e7%9b%a4%e3%83%a2%e3%83%87%e3%83%ab%e3%80%8cflux-3%e3%80%8d%e3%81%ae%e7%ac%ac%e4%b8%80%e5%bc%be/"/>
-        <updated>2026-08-06T11:04:17.000Z</updated>
-        <summary type="html"><![CDATA[2026年8月4日（現地時間） – Black Forest Labsは、新しいマルチモーダル基盤モデル「FLUX 3」の第一弾としてテキストや画像から動画を生成できる「FLUX 3 Video」の一般提供を […]]]></summary>
-        <author>
-            <name>.me</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【Wacom MovinkPad Pro 14】「これ1台で、アニメの監督・演出の仕事を完結できる」OLMグループに、管理と現場の両面から導入効果を聞いた - スペシャルコンテンツ]]></title>
-        <id>https://cgworld.jp/special-feature/202608-wacom-olm.html</id>
-        <link href="https://cgworld.jp/special-feature/202608-wacom-olm.html"/>
-        <updated>2026-08-06T10:25:52.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Foundry、Nuke向けAIロトスコーププラグイン「SmartRoto」を提供開始―ロト作業を最大4倍高速化 - ニュース]]></title>
-        <id>https://cgworld.jp/flashnews/03-2608-smartroto.html</id>
-        <link href="https://cgworld.jp/flashnews/03-2608-smartroto.html"/>
-        <updated>2026-08-06T09:50:00.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Position Based Dynamics (2006)]]></title>
-        <id>https://qiita.com/matumu20/items/4b5a7a81553a5d781daf</id>
-        <link href="https://qiita.com/matumu20/items/4b5a7a81553a5d781daf"/>
-        <updated>2026-08-06T06:15:00.000Z</updated>
-        <summary type="html"><![CDATA[Position Based Dynamics (Matthias Müller, 2006)
-
-3行要約
-
-本論文では、速度層を介さずに位置を直接操作することで、物理シミュレーションにおける過剰な動きや不安定性を解消する「Position Based Dynamic...]]></summary>
-        <author>
-            <name>3DCGタグが付けられた新着記事 - Qiita</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sketchfabマンスリーピックアップ 2026年8月号]]></title>
-        <id>https://cginterest.com/?p=61467</id>
-        <link href="https://cginterest.com/2026/08/06/sketchfab%e3%83%9e%e3%83%b3%e3%82%b9%e3%83%aa%e3%83%bc%e3%83%94%e3%83%83%e3%82%af%e3%82%a2%e3%83%83%e3%83%97-2026%e5%b9%b48%e6%9c%88%e5%8f%b7/"/>
-        <updated>2026-08-06T04:48:00.000Z</updated>
-        <summary type="html"><![CDATA[先月Sketchfabに投稿されたモデルを勝手にピックアップ(2026年8月5日調べ) するコーナーです。人気のある3Dモデルを中心に独断と偏見で選んでおります！ 通常のピックアップとは別に、無料でダウンロードできる3D […]]]></summary>
-        <author>
-            <name>.me</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【全3回・第2回】本人の演技を3Dモデルへ――MV「Die For You」を支えたUE最適化、モーション＆フェイシャル - 特集]]></title>
-        <id>https://cgworld.jp/article/202608-calliope-2.html</id>
-        <link href="https://cgworld.jp/article/202608-calliope-2.html"/>
-        <updated>2026-08-06T01:00:00.000Z</updated>
-        <summary type="html"><![CDATA[関連記事 ・【全3回・第1回】実写ライブハウスにMori Calliopeを宿...]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Autodesk Flow Studioに「3D Editor + Canvas」登場！3D空間を演出しながらAI映像を生成可能に]]></title>
-        <id>https://modelinghappy.com/?p=69785</id>
-        <link href="https://modelinghappy.com/archives/69785"/>
-        <updated>2026-08-06T00:22:28.000Z</updated>
-        <summary type="html"><![CDATA[From generation to direction: Autodesk launches 3D Editor + Canvas within Flow Studio, bringing directable con
-The post Autodesk Flow Studioに「3D Editor + Canvas」登場！3D空間を演出しながらAI映像を生成可能に first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
-        <author>
-            <name>modelinghappy</name>
         </author>
     </entry>
 </feed>

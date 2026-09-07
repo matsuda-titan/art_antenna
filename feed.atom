@@ -2,10 +2,87 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-06T14:35:14.776Z</updated>
+    <updated>2026-09-07T01:48:33.723Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[アニメ『ワールド イズ ダンシング』室町時代の「能」を描く"舞"の表現を支える3DCG 〜No.1／モーションキャプチャ＆作画ガイド篇 - 特集]]></title>
+        <id>https://cgworld.jp/article/cgw337-worldisdan01.html</id>
+        <link href="https://cgworld.jp/article/cgw337-worldisdan01.html"/>
+        <updated>2026-09-07T01:03:32.000Z</updated>
+        <summary type="html"><![CDATA[TVアニメ『ワールド イズ ダンシング』のアニメCGメイキングを紹介。]]></summary>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unity 6時代のShader Graphはどこまで最適化されるのか――手書きHLSLへ切り替える境界線]]></title>
+        <id>https://zenn.dev/gamedev_toollab/articles/a60f78c89477ec</id>
+        <link href="https://zenn.dev/gamedev_toollab/articles/a60f78c89477ec"/>
+        <updated>2026-09-07T01:00:05.000Z</updated>
+        <summary type="html"><![CDATA[はじめに
+以前のShader Graphには、「同じ見た目なら手書きシェーダーより重い」「生成コードに無駄が多い」「ボトルネック部分はHLSLへ逃がすべき」という印象がありました。古い世代では頂点・フラグメント間の処理配置、精度、分岐、再利用を細かく制御しづらく、複雑なグラフほど不要な計算やバリアントを作り込みやすかったため、この運用は合理的でした。
+では、Unity 6世代ではどこまで状況が変わったのでしょうか。
+この記事では、Unity 6.3 LTS（6000.3）と、同Editorに対応するShader Graph 17.3を基準に、生成時に行われる処理、現在も残る無駄、手書...]]></summary>
+        <author>
+            <name>GameDev Tool Lab</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【無料アドオン紹介】Multi Faces Inset Outset – Ngon面の面の拡張ができるアドオン]]></title>
+        <id>https://cgbox.jp/?p=65660</id>
+        <link href="https://cgbox.jp/2026/09/07/news-addon-multi-faces-inset-outset/"/>
+        <updated>2026-09-07T00:22:05.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは！ 今回はアドオンの「Multi Faces Inset Outset」を紹介します。 こちらのリンクがアドオンの商品ページになります。 Multi Faces Inset Outset 「Multi Face […]]]></summary>
+        <author>
+            <name>kasahara</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NVIDIA鈴木剛夫氏ら、OpenUSD向けリファレンスレンダラ「Typhoon」をGitHubで公開 - ニュース]]></title>
+        <id>https://cgworld.jp/flashnews/01-202609-Typhoon.html</id>
+        <link href="https://cgworld.jp/flashnews/01-202609-Typhoon.html"/>
+        <updated>2026-09-06T23:53:46.000Z</updated>
+        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hardcraft – PlasticityやSTEPのCADデータから元の輪郭を保ちながらきれいなポリゴンを作成できるBlender用無料アドオンのアルファ版が公開]]></title>
+        <id>https://modelinghappy.com/?p=70397</id>
+        <link href="https://modelinghappy.com/archives/70397"/>
+        <updated>2026-09-06T23:49:55.000Z</updated>
+        <summary type="html"><![CDATA[Hardcraft Vitaliy Yablonskiyさんが作成した、Hardcraftは、Plasticityや各種CADソフトで作成したモデルを、Blenderで扱いやすいメッシュへリトポロジーできる無料アドオンで
+The post Hardcraft – PlasticityやSTEPのCADデータから元の輪郭を保ちながらきれいなポリゴンを作成できるBlender用無料アドオンのアルファ版が公開 first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
+        <author>
+            <name>modelinghappy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[THE W-STUDIO 2 – ポーズに合わせて衣服のシワがリアルタイムに変化するWebブラウザ型3D作画支援ツール]]></title>
+        <id>https://modelinghappy.com/?p=70388</id>
+        <link href="https://modelinghappy.com/archives/70388"/>
+        <updated>2026-09-06T23:15:42.000Z</updated>
+        <summary type="html"><![CDATA[tumblbug リアルタイムで動く洋服プリーツエンジン 실시간으로 움직이는 옷주름 엔진 韓国人アーティストの익명의 자료계さんがキャラクターのポーズに合わせて衣服のシワがリアルタイムに変化する、Webブラウザ型3D
+The post THE W-STUDIO 2 – ポーズに合わせて衣服のシワがリアルタイムに変化するWebブラウザ型3D作画支援ツール first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
+        <author>
+            <name>modelinghappy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【ゲーム制作知識】権利関係について]]></title>
+        <id>https://3d.crdg.jp/env/?p=10318</id>
+        <link href="https://3d.crdg.jp/env/2026/09/07/10318/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=%25e3%2580%2590%25e3%2582%25b2%25e3%2583%25bc%25e3%2583%25a0%25e5%2588%25b6%25e4%25bd%259c%25e7%259f%25a5%25e8%25ad%2598%25e3%2580%2591%25e6%25a8%25a9%25e5%2588%25a9%25e9%2596%25a2%25e4%25bf%2582%25e3%2581%25ab%25e3%2581%25a4%25e3%2581%2584%25e3%2581%25a6"/>
+        <updated>2026-09-06T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[今回は“ゲーム制作における権利関係”についてお話します。 ゲーム内の著作権について 近年のゲームタイトルは著作権について非常に […]
+続きを読む
+投稿 【ゲーム制作知識】権利関係について は エンホリ - ENVIRONMENT HOLIC｜C&R Creative Studios に最初に表示されました。]]></summary>
+        <author>
+            <name>Soichiro.Hashii</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Substance Designer】1から作る！「板の間」のPBRテクスチャ解説①]]></title>
         <id>https://note.com/manji_9278274/n/n9b1f3a41afe6</id>
@@ -4244,27 +4321,6 @@ SystemInfo.graphicsShaderLevel >= 40 であれば大体使える(Metal等...]]><
         <updated>2026-08-08T14:26:04.000Z</updated>
         <summary type="html"><![CDATA[Free Normal Map Generator — From Any Image, Online 1枚画像から3Dモデルを生成出来るMeshyが、オンラインで１枚画像から無料でノーマルマップを作成してくれるサービスを
 The post Free Normal Map Generator-１枚画像から自動でノーマルマップを作成してくれる登録不要の無料のWEBサービス first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
-        <author>
-            <name>modelinghappy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cascadeur 2026.2 がリリース！アニメーションレイヤー（アルファ版）やイージング、日本語UIに対応]]></title>
-        <id>https://cginterest.com/?p=61548</id>
-        <link href="https://cginterest.com/2026/08/08/cascadeur-2026-2-%e3%81%8c%e3%83%aa%e3%83%aa%e3%83%bc%e3%82%b9%ef%bc%81%e3%82%a2%e3%83%8b%e3%83%a1%e3%83%bc%e3%82%b7%e3%83%a7%e3%83%b3%e3%83%ac%e3%82%a4%e3%83%a4%e3%83%bc%ef%bc%88%e3%82%a2%e3%83%ab/"/>
-        <updated>2026-08-08T10:44:54.000Z</updated>
-        <summary type="html"><![CDATA[2026年8月6日（現地時間）- Nekki は、物理ベースの3Dアニメーションソフト「Cascadeur」バージョン2026.2をリリースしました。 主な新機能 今回のアップデートでは、プロのアニメーターやスタジオから […]]]></summary>
-        <author>
-            <name>.me</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Panel Cutter – 選択したエッジに沿って非破壊でパネルラインを作成できるBlenderアドオンが5.99ドル→0.75ドルの激安セール中]]></title>
-        <id>https://modelinghappy.com/?p=69861</id>
-        <link href="https://modelinghappy.com/archives/69861"/>
-        <updated>2026-08-08T08:32:23.000Z</updated>
-        <summary type="html"><![CDATA[Panel Cutter #8211; Non Destructive Panel Cuts (Subd Ready) Panel Cutterは、Blenderで選択したエッジに沿ってパネルライン（溝・継ぎ目）を非破
-The post Panel Cutter – 選択したエッジに沿って非破壊でパネルラインを作成できるBlenderアドオンが5.99ドル→0.75ドルの激安セール中 first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
         <author>
             <name>modelinghappy</name>
         </author>

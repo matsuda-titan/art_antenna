@@ -3075,6 +3075,36 @@
       "siteUrl": "https://zenn.dev/topics/3dcg",
       "articles": [
         {
+          "id": "https://zenn.dev/jinsights/articles/65514a07c8b091",
+          "author": "Hiromitsu Jin",
+          "description": "Blenderを触れない人間が、GPT6-Astraで3D人物モデルを作るまで\nJAXIAでは、Astraを含むAIエージェントを業務だけでなく、専門外の技術をどこまで試作へ持ち込めるかという検証にも使っています。今回は、人物写真を参考にBlenderでスタイライズした上半身モデルを作りました。\n結論から言うと、AIはBlenderの操作を知らない人でも「初版」へ到達する距離を大きく縮めます。ただし、一発生成で3Dモデルが完成したわけではありません。Pythonでシーンを組み立て、複数方向から確認し、形状を修正する反復が必要でした。\n\n 今回作ったもの\n制作物は、黒髪、ひげ、黒いスー...",
+          "link": "https://zenn.dev/jinsights/articles/65514a07c8b091",
+          "publishedOn": "2026-09-07T00:06:25.000Z",
+          "wordCount": 439,
+          "title": "Blenderを触れない人間が、GPT6-Astraで3D人物モデルを作るまで",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--7ptyXB1r--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Blender%25E3%2582%2592%25E8%25A7%25A6%25E3%2582%258C%25E3%2581%25AA%25E3%2581%2584%25E4%25BA%25BA%25E9%2596%2593%25E3%2581%258C%25E3%2580%2581GPT6-Astra%25E3%2581%25A73D%25E4%25BA%25BA%25E7%2589%25A9%25E3%2583%25A2%25E3%2583%2587%25E3%2583%25AB%25E3%2582%2592%25E4%25BD%259C%25E3%2582%258B%25E3%2581%25BE%25E3%2581%25A7%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Hiromitsu%2520Jin%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzdkODQ5OWEyZGUuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+            "length": "0",
+            "type": "false"
+          },
+          "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--7ptyXB1r--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Blender%25E3%2582%2592%25E8%25A7%25A6%25E3%2582%258C%25E3%2581%25AA%25E3%2581%2584%25E4%25BA%25BA%25E9%2596%2593%25E3%2581%258C%25E3%2580%2581GPT6-Astra%25E3%2581%25A73D%25E4%25BA%25BA%25E7%2589%25A9%25E3%2583%25A2%25E3%2583%2587%25E3%2583%25AB%25E3%2582%2592%25E4%25BD%259C%25E3%2582%258B%25E3%2581%25BE%25E3%2581%25A7%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Hiromitsu%2520Jin%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzdkODQ5OWEyZGUuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+        },
+        {
+          "id": "https://zenn.dev/s_hashida/articles/6df27f5989647c",
+          "author": "s_hashida",
+          "description": "はじめに\n前回は、\n\nPoint Cloudと3D Meshの違い\nTriangle Mesh\nDSMと3D Meshの違い\n法線ベクトル\n近傍点からの局所平面推定\nSurface Reconstruction\nBall Pivoting\nPoisson Surface Reconstruction\n\nについて説明しました。\n\nその中で重要だったのが、\n\nPoint Cloudは離散的な3次元点の集合である\n3D Meshでは頂点・辺・面によって物体の表面を表現する\n法線ベクトルによって局所的な表面の向きを表現できる\nSurface Reconstructionによって点群から3次...",
+          "link": "https://zenn.dev/s_hashida/articles/6df27f5989647c",
+          "publishedOn": "2026-09-06T21:54:05.000Z",
+          "wordCount": 2879,
+          "title": "フォトグラメトリ数学｜54：Texture Mapping～3D Meshに画像を貼り付ける数学～",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--c8j1iMq_--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%2595%25E3%2582%25A9%25E3%2583%2588%25E3%2582%25B0%25E3%2583%25A9%25E3%2583%25A1%25E3%2583%2588%25E3%2583%25AA%25E6%2595%25B0%25E5%25AD%25A6%25EF%25BD%259C54%25EF%25BC%259ATexture%2520Mapping%25EF%25BD%259E3D%2520Mesh%25E3%2581%25AB%25E7%2594%25BB%25E5%2583%258F%25E3%2582%2592%25E8%25B2%25BC%25E3%2582%258A%25E4%25BB%2598%25E3%2581%2591%25E3%2582%258B%25E6%2595%25B0%25E5%25AD%25A6%25EF%25BD%259E%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:s_hashida%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2QwNzQxMzlkMjguanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+            "length": "0",
+            "type": "false"
+          },
+          "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--c8j1iMq_--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%2595%25E3%2582%25A9%25E3%2583%2588%25E3%2582%25B0%25E3%2583%25A9%25E3%2583%25A1%25E3%2583%2588%25E3%2583%25AA%25E6%2595%25B0%25E5%25AD%25A6%25EF%25BD%259C54%25EF%25BC%259ATexture%2520Mapping%25EF%25BD%259E3D%2520Mesh%25E3%2581%25AB%25E7%2594%25BB%25E5%2583%258F%25E3%2582%2592%25E8%25B2%25BC%25E3%2582%258A%25E4%25BB%2598%25E3%2581%2591%25E3%2582%258B%25E6%2595%25B0%25E5%25AD%25A6%25EF%25BD%259E%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:s_hashida%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2QwNzQxMzlkMjguanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+        },
+        {
           "id": "https://zenn.dev/s_hashida/articles/bf5a6c69432ba7",
           "author": "s_hashida",
           "description": "はじめに\n前回は、\n\nDense Point CloudとDSMの違い\nDSMが2.5次元である理由\n点群を規則的な格子へ変換する考え方\nMaxによる格子化\nIDWによる補間\nTINによる表面生成\n\nについて説明しました。\n\nその中で重要だったのが、\n\nDense Point Cloudは不規則に分布した3次元点の集合である\nDSMではXY平面上の各位置に1つの高さを持つ\n点群から表面高さを推定することでDSMを生成できる\n\nという点です。\n\n前回、DSMを、\n\nZ_{\\mathrm{DSM}}(x,y)\n\nとして表しました。\nつまり、\n\n(x,y)\n\\rightarrow Z\n\n...",
@@ -3491,6 +3521,16 @@
       "siteUrl": "https://qiita.com",
       "articles": [
         {
+          "id": "https://qiita.com/matumu20/items/68104f9ae88ae4a15af6",
+          "author": null,
+          "description": "Executing your Commands via Motion Diffusion in Latent Space(Chen, 2023)\n\n3行要約\n\n本論文では、人間の動作を低次元の潜在空間に圧縮する強力なVariational AutoEncoder (...",
+          "link": "https://qiita.com/matumu20/items/68104f9ae88ae4a15af6",
+          "publishedOn": "2026-09-07T03:59:34.000Z",
+          "wordCount": 1190,
+          "title": "Executing your Commands via Motion Diffusion in Latent Space(2023)",
+          "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYyOTgxNjYwJTJGOTViNDExMjY5MmU5NDc5M2U2NTY5ODQ5MzdmM2I4ZjliMmE3MDc2YSUyRmxhcmdlLnBuZyUzRjE2Njg2MDM2MDk_aXhsaWI9cmItNC4xLjEmYXI9MSUzQTEmZml0PWNyb3AmbWFzaz1lbGxpcHNlJmJnPUZGRkZGRiZmbT1wbmczMiZzPWE1ZTgxNGYzYWQ2OTFjZmM4MWVmYjBlODkwMzg4NjNk%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3Db091fc7b27b7f70f9fcc9261423415bf?ixlib=rb-4.1.1&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9RXhlY3V0aW5nJTIweW91ciUyMENvbW1hbmRzJTIwdmlhJTIwTW90aW9uJTIwRGlmZnVzaW9uJTIwaW4lMjBMYXRlbnQlMjBTcGFjZSUyODIwMjMlMjklMjAmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz01NzhkMzk2OTg2ZjQ3Y2U0Y2M3YTM4ZjUxMWZiNWNlYg&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBtYXR1bXUyMCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPTUwYzYyYzVhMmI4MTU4MWE3ZTg2NGY0YmMyNWRkOGQ3&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=947edaeb7c33557b68b0a7453f846cae"
+        },
+        {
           "id": "https://qiita.com/YKVKDX12/items/b3323335a0cc746842e1",
           "author": null,
           "description": "環境\nWindows11 Home\nBlender 5.2.1 LTS\nUnsloth desktop  v0.1.804-beta\nGPU Nvidia RTX3060 12GB\nCPU Intel Corei5-8400\nDRAM DDR4-3200 16GB\n\n手順...",
@@ -3762,6 +3802,16 @@
       "feedUrl": "https://area.autodesk.jp/rss.xml",
       "siteUrl": "https://area.autodesk.jp/",
       "articles": [
+        {
+          "id": "https://area.autodesk.jp/information/vtuber-vlog-flow-studio/",
+          "author": null,
+          "description": "オートデスクの実写×CG合成アプリ「Flow Studio」を使用して、VTuberのおむらいす食堂さんがVlog（お散歩動画）を制作する様子が、バーチャルで遊ぶ・楽しむエンタメメディア「MoguLive」で紹介されました。・・・",
+          "link": "https://area.autodesk.jp/information/vtuber-vlog-flow-studio/",
+          "publishedOn": "2026-09-07T03:24:14.000Z",
+          "wordCount": 199,
+          "title": "VTuberのVlogはここまで進化できる！ アバター合成ツール「Flow Studio」最新活用術",
+          "imageUrl": "https://area.autodesk.jp/information/assets_c/2026/09/ic_vtuber_vlog_flow_studio_1400x782-thumb-1200xauto-5884.jpg"
+        },
         {
           "id": "https://area.autodesk.jp/event/autodesk/anitsuku-2026/",
           "author": null,

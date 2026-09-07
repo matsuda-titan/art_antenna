@@ -2,10 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-07T01:48:33.723Z</updated>
+    <updated>2026-09-07T07:40:33.275Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Executing your Commands via Motion Diffusion in Latent Space(2023)]]></title>
+        <id>https://qiita.com/matumu20/items/68104f9ae88ae4a15af6</id>
+        <link href="https://qiita.com/matumu20/items/68104f9ae88ae4a15af6"/>
+        <updated>2026-09-07T03:59:34.000Z</updated>
+        <summary type="html"><![CDATA[Executing your Commands via Motion Diffusion in Latent Space(Chen, 2023)
+
+3行要約
+
+本論文では、人間の動作を低次元の潜在空間に圧縮する強力なVariational AutoEncoder (...]]></summary>
+        <author>
+            <name>3DCGタグが付けられた新着記事 - Qiita</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[VTuberのVlogはここまで進化できる！ アバター合成ツール「Flow Studio」最新活用術]]></title>
+        <id>https://area.autodesk.jp/information/vtuber-vlog-flow-studio/</id>
+        <link href="https://area.autodesk.jp/information/vtuber-vlog-flow-studio/"/>
+        <updated>2026-09-07T03:24:14.000Z</updated>
+        <summary type="html"><![CDATA[オートデスクの実写×CG合成アプリ「Flow Studio」を使用して、VTuberのおむらいす食堂さんがVlog（お散歩動画）を制作する様子が、バーチャルで遊ぶ・楽しむエンタメメディア「MoguLive」で紹介されました。・・・]]></summary>
+        <author>
+            <name>AREA JAPAN | Autodesk</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[アニメ『ワールド イズ ダンシング』室町時代の「能」を描く"舞"の表現を支える3DCG 〜No.1／モーションキャプチャ＆作画ガイド篇 - 特集]]></title>
         <id>https://cgworld.jp/article/cgw337-worldisdan01.html</id>
@@ -37,6 +61,21 @@
         <summary type="html"><![CDATA[こんばんは！ 今回はアドオンの「Multi Faces Inset Outset」を紹介します。 こちらのリンクがアドオンの商品ページになります。 Multi Faces Inset Outset 「Multi Face […]]]></summary>
         <author>
             <name>kasahara</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Blenderを触れない人間が、GPT6-Astraで3D人物モデルを作るまで]]></title>
+        <id>https://zenn.dev/jinsights/articles/65514a07c8b091</id>
+        <link href="https://zenn.dev/jinsights/articles/65514a07c8b091"/>
+        <updated>2026-09-07T00:06:25.000Z</updated>
+        <summary type="html"><![CDATA[Blenderを触れない人間が、GPT6-Astraで3D人物モデルを作るまで
+JAXIAでは、Astraを含むAIエージェントを業務だけでなく、専門外の技術をどこまで試作へ持ち込めるかという検証にも使っています。今回は、人物写真を参考にBlenderでスタイライズした上半身モデルを作りました。
+結論から言うと、AIはBlenderの操作を知らない人でも「初版」へ到達する距離を大きく縮めます。ただし、一発生成で3Dモデルが完成したわけではありません。Pythonでシーンを組み立て、複数方向から確認し、形状を修正する反復が必要でした。
+
+ 今回作ったもの
+制作物は、黒髪、ひげ、黒いスー...]]></summary>
+        <author>
+            <name>Hiromitsu Jin</name>
         </author>
     </entry>
     <entry>
@@ -81,6 +120,35 @@ The post THE W-STUDIO 2 – ポーズに合わせて衣服のシワがリアル�
 投稿 【ゲーム制作知識】権利関係について は エンホリ - ENVIRONMENT HOLIC｜C&R Creative Studios に最初に表示されました。]]></summary>
         <author>
             <name>Soichiro.Hashii</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[フォトグラメトリ数学｜54：Texture Mapping～3D Meshに画像を貼り付ける数学～]]></title>
+        <id>https://zenn.dev/s_hashida/articles/6df27f5989647c</id>
+        <link href="https://zenn.dev/s_hashida/articles/6df27f5989647c"/>
+        <updated>2026-09-06T21:54:05.000Z</updated>
+        <summary type="html"><![CDATA[はじめに
+前回は、
+
+Point Cloudと3D Meshの違い
+Triangle Mesh
+DSMと3D Meshの違い
+法線ベクトル
+近傍点からの局所平面推定
+Surface Reconstruction
+Ball Pivoting
+Poisson Surface Reconstruction
+
+について説明しました。
+
+その中で重要だったのが、
+
+Point Cloudは離散的な3次元点の集合である
+3D Meshでは頂点・辺・面によって物体の表面を表現する
+法線ベクトルによって局所的な表面の向きを表現できる
+Surface Reconstructionによって点群から3次...]]></summary>
+        <author>
+            <name>s_hashida</name>
         </author>
     </entry>
     <entry>

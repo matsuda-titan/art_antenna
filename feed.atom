@@ -2,10 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-12T07:26:12.257Z</updated>
+    <updated>2026-09-12T11:47:41.289Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Substance Designer】1から作る！「板の間」のPBRテクスチャ解説②]]></title>
+        <id>https://note.com/manji_9278274/n/n24c57fb6fdb4</id>
+        <link href="https://note.com/manji_9278274/n/n24c57fb6fdb4"/>
+        <updated>2026-09-12T10:00:14.000Z</updated>
+        <summary type="html"><![CDATA[どうもみなさん１週間ぶり。まんじです。
+前回は「板の間」のタイルと木目を作りましたね。今回は今まで作ったノードを使って、色以外の質感を作っていきます。
+続きをみる]]></summary>
+        <author>
+            <name>#SubstanceDesignerタグ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[可視性カリング - スキャッタリング最適化]]></title>
+        <id>https://note.com/kura_0724/n/n8a3f556b12fa</id>
+        <link href="https://note.com/kura_0724/n/n8a3f556b12fa"/>
+        <updated>2026-09-12T09:15:15.000Z</updated>
+        <summary type="html"><![CDATA[今回のシーンファイルはここに入っているので、もしよかったらチェックしてみてください。
+https://drive.google.com/drive/folders/1DuKJkulD-qZ9QjP947FzHJrw1ZPneaat?usp=sharing
+
+続きをみる]]></summary>
+        <author>
+            <name>#Houdiniタグ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[COYOTE 3DCG STUDIO、MayaからBlenderへのキャラクター移植ワークフローのTips記事を公開　FBXでのインポート時にレストポーズが変化する現象を解決 - ニュース]]></title>
         <id>https://cgworld.jp/flashnews/01-202609-Coyote-MayaBlender.html</id>
@@ -4175,48 +4200,6 @@ The post 画像１枚から3Dモデルを生成できるHi3DがV3.0にバージ�
         <link href="https://cgworld.jp/regular/202608-tipsnote.html"/>
         <updated>2026-08-14T01:00:00.000Z</updated>
         <summary type="html"><![CDATA[今回は、Photoshop 2026から新機能で、「反射の削除」についてご紹介いたします。この機能は、画像内のガラス窓やガラス面に写り込んでいるものを、元の画像からレイヤーとして分離して削除する、という機能になります。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[フォトグラメトリ数学｜46：Dense MatchingにおけるRectificationと視差とは何か]]></title>
-        <id>https://zenn.dev/s_hashida/articles/ca326fa7995540</id>
-        <link href="https://zenn.dev/s_hashida/articles/ca326fa7995540"/>
-        <updated>2026-08-13T22:12:05.000Z</updated>
-        <summary type="html"><![CDATA[はじめに
-前回は、
-
-Dense Matching
-Sparse Matchingとの違い
-高密度な対応点
-Dense Point Cloud
-
-について説明しました。
-
-その中で重要だったのが、
-
-Dense Matchingでは画像の広い範囲で対応点を求める
-対応点から三角測量によって3次元点を求める
-大量の3次元点から高密度な点群を生成できる
-
-という点です。
-
-しかしここで疑問が出てきます。
-画像Aのある点に対応する点を、画像Bのどこから探せばよいのでしょうか？
-画像Bの画像全体から対応点を探すこともできますが、それでは探索範囲が非常に大きくなります。
-
-この問題に対して利...]]></summary>
-        <author>
-            <name>s_hashida</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[トミナガハルキ氏、ファンタジー世界地図を自動生成する無料Webツール「USOMAP」公開　ハイトマップやSVGのエクスポートに対応 - ニュース]]></title>
-        <id>https://cgworld.jp/flashnews/01-202608-USOMAP.html</id>
-        <link href="https://cgworld.jp/flashnews/01-202608-USOMAP.html"/>
-        <updated>2026-08-13T22:06:39.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
         <author>
             <name>CGWORLD</name>
         </author>

@@ -3157,21 +3157,6 @@
             "type": "false"
           },
           "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--FT1Fn0xJ--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%2595%25E3%2582%25A9%25E3%2583%2588%25E3%2582%25B0%25E3%2583%25A9%25E3%2583%25A1%25E3%2583%2588%25E3%2583%25AA%25E6%2595%25B0%25E5%25AD%25A6%25EF%25BD%259C47%25EF%25BC%259ADense%2520Matching%25E3%2581%25AE%25E5%25AF%25BE%25E5%25BF%259C%25E7%2582%25B9%25E3%2581%25AF%25E3%2581%25A9%25E3%2581%2586%25E9%2581%25B8%25E3%2581%25B6%25EF%25BC%259F%2520%25EF%25BD%259EMatching%2520Cost%25E3%2581%25A8SAD...%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:s_hashida%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2QwNzQxMzlkMjguanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
-        },
-        {
-          "id": "https://zenn.dev/gapprobe_labo/articles/8e80c17b82e843",
-          "author": "実測派のMCPラボ",
-          "description": "3Dメッシュを簡略化して、3D処理が軽いポリゴンデータに変換するソフトを開発中に発見した地雷。meshoptimizerを使って3Dモデルの面(ポリゴン)を減らす処理を実装したが、meshoptimizer開発者が推奨するオプションを使用しても、「オプション指定なし」で出力されるデータと全く同じである事が判明。\n画像中の上が「オリジナルメッシュ」、下が「簡素化後のメッシュ」で、メッシュ数自体は正しく減って簡素化されている。\n\nしかし、簡素化メッシュ（左側）のジョイント部分の三角形メッシュのエッジが伸びきってポリゴンが破綻しているのが分かる。このメッシュが破綻しないように最適化するオプシ...",
-          "link": "https://zenn.dev/gapprobe_labo/articles/8e80c17b82e843",
-          "publishedOn": "2026-08-14T18:02:47.000Z",
-          "wordCount": 2085,
-          "title": "pipでインストール出来るmeshoptimizerライブラリが古くて推奨オプションが動作しなかった話",
-          "enclosure": {
-            "url": "https://res.cloudinary.com/zenn/image/upload/s--YtxYBCKe--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:pip%25E3%2581%25A7%25E3%2582%25A4%25E3%2583%25B3%25E3%2582%25B9%25E3%2583%2588%25E3%2583%25BC%25E3%2583%25AB%25E5%2587%25BA%25E6%259D%25A5%25E3%2582%258Bmeshoptimizer%25E3%2583%25A9%25E3%2582%25A4%25E3%2583%2596%25E3%2583%25A9%25E3%2583%25AA%25E3%2581%258C%25E5%258F%25A4%25E3%2581%258F%25E3%2581%25A6%25E6%258E%25A8%25E5%25A5%25A8%25E3%2582%25AA%25E3%2583%2597%25E3%2582%25B7%25E3%2583%25A7%25E3%2583%25B3%25E3%2581%258C%25E5%258B%2595%25E4%25BD%259C%25E3%2581%2597%25E3%2581%25AA%25E3%2581%258B%25E3%2581%25A3%25E3%2581%259F%25E8%25A9%25B1%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E5%25AE%259F%25E6%25B8%25AC%25E6%25B4%25BE%25E3%2581%25AEMCP%25E3%2583%25A9%25E3%2583%259C%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzJjNzc2ZmI2MzcuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
-            "length": "0",
-            "type": "false"
-          },
-          "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--YtxYBCKe--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:pip%25E3%2581%25A7%25E3%2582%25A4%25E3%2583%25B3%25E3%2582%25B9%25E3%2583%2588%25E3%2583%25BC%25E3%2583%25AB%25E5%2587%25BA%25E6%259D%25A5%25E3%2582%258Bmeshoptimizer%25E3%2583%25A9%25E3%2582%25A4%25E3%2583%2596%25E3%2583%25A9%25E3%2583%25AA%25E3%2581%258C%25E5%258F%25A4%25E3%2581%258F%25E3%2581%25A6%25E6%258E%25A8%25E5%25A5%25A8%25E3%2582%25AA%25E3%2583%2597%25E3%2582%25B7%25E3%2583%25A7%25E3%2583%25B3%25E3%2581%258C%25E5%258B%2595%25E4%25BD%259C%25E3%2581%2597%25E3%2581%25AA%25E3%2581%258B%25E3%2581%25A3%25E3%2581%259F%25E8%25A9%25B1%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E5%25AE%259F%25E6%25B8%25AC%25E6%25B4%25BE%25E3%2581%25AEMCP%25E3%2583%25A9%25E3%2583%259C%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzJjNzc2ZmI2MzcuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
         }
       ]
     },

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-13T02:00:03.660Z</updated>
+    <updated>2026-09-13T07:44:47.883Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
@@ -4060,19 +4060,6 @@ The post Unreal Engine 6に実験的な「LumenRef」でパストレーサー級
         <summary type="html"><![CDATA[2026年8月12日（現地時間） – Epic Gamesは、Unreal Engine 5.8に完全互換となるよう更新された『Game Animation Sample Project』の最新アップデートを […]]]></summary>
         <author>
             <name>.me</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[pipでインストール出来るmeshoptimizerライブラリが古くて推奨オプションが動作しなかった話]]></title>
-        <id>https://zenn.dev/gapprobe_labo/articles/8e80c17b82e843</id>
-        <link href="https://zenn.dev/gapprobe_labo/articles/8e80c17b82e843"/>
-        <updated>2026-08-14T18:02:47.000Z</updated>
-        <summary type="html"><![CDATA[3Dメッシュを簡略化して、3D処理が軽いポリゴンデータに変換するソフトを開発中に発見した地雷。meshoptimizerを使って3Dモデルの面(ポリゴン)を減らす処理を実装したが、meshoptimizer開発者が推奨するオプションを使用しても、「オプション指定なし」で出力されるデータと全く同じである事が判明。
-画像中の上が「オリジナルメッシュ」、下が「簡素化後のメッシュ」で、メッシュ数自体は正しく減って簡素化されている。
-
-しかし、簡素化メッシュ（左側）のジョイント部分の三角形メッシュのエッジが伸びきってポリゴンが破綻しているのが分かる。このメッシュが破綻しないように最適化するオプシ...]]></summary>
-        <author>
-            <name>実測派のMCPラボ</name>
         </author>
     </entry>
 </feed>

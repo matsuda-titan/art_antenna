@@ -1263,36 +1263,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "https://3dnchu.com/wp-content/uploads/snapmove-v1-0-cad.jpg"
-        },
-        {
-          "id": "https://3dnchu.com/?p=1067238",
-          "author": "Ymt3D -3dnchu-",
-          "description": "CGアーティストのVadim B氏らが所属するLCS.Toolsが開発を進める、ブラウザ上でリアルタイムにヘアグルーミングが可能な3Dツール「LCS.hairDesigner」がBeta公開に向けて開発中です。現在Beta参加者を募集しています。 LCS.hairDesigner LCS.hairD […]\n続きを読む",
-          "link": "https://3dnchu.com/archives/lcs-hairdesigner-beta/",
-          "publishedOn": "2026-08-15T05:02:48.000Z",
-          "wordCount": 7922,
-          "title": "LCS.hairDesigner | ブラウザだけでリアルタイムにヘアグルーミング！三つ編み生成やファイバーテクスチャ編集なども搭載するWebベースの3Dヘア制作ツール！ベータ参加者募集中！",
-          "enclosure": {
-            "url": "https://3dnchu.com/wp-content/uploads/LCS.hairDesigner-Fiber-Texture-Editor.jpg",
-            "length": "180672",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://3dnchu.com/wp-content/uploads/LCS.hairDesigner-Fiber-Texture-Editor.jpg"
-        },
-        {
-          "id": "https://3dnchu.com/?p=1067228",
-          "author": "Ymt3D -3dnchu-",
-          "description": "キャラクターアーティスト向けに開発された、無料のスタンドアロン型ヘアグルーミングツール「Sisir」が公開されています。キャラクターのメッシュ上へ直接ガイドを描画、物理演算を活用しながら髪型をスタイリング、リアルタイムでのヘアレンダリング、Alembicによる書き出しまで対応、個人＆商用利用も含めて […]\n続きを読む",
-          "link": "https://3dnchu.com/archives/sisir/",
-          "publishedOn": "2026-08-15T03:05:49.000Z",
-          "wordCount": 7685,
-          "title": "Sisir | 物理演算を活用した直感的なスタイリング＆プロシージャルグルーミングに対応！商用利用も無料のスタンドアロン型ヘア作成ツール！",
-          "enclosure": {
-            "url": "https://sisir.sisir-hairtool.workers.dev/media/guides_module.webm",
-            "length": "0",
-            "type": "video/webm"
-          },
-          "imageUrl": "https://3dnchu.com/wp-content/uploads/sisir.jpg"
         }
       ]
     },
@@ -1301,6 +1271,16 @@
       "feedUrl": "https://cgworld.jp/atom.xml",
       "siteUrl": "https://cgworld.jp/",
       "articles": [
+        {
+          "id": "https://cgworld.jp/flashnews/01-202609-Nuke-Hybrid.html",
+          "author": null,
+          "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
+          "link": "https://cgworld.jp/flashnews/01-202609-Nuke-Hybrid.html",
+          "publishedOn": "2026-09-13T23:58:08.000Z",
+          "wordCount": 731,
+          "title": "Foundry、Nukeと機械学習、AIを組み合わせたハイブリッドVFXパイプラインの解説動画を公開　新しい3DシステムやCopyCat、Beeble AIの活用法など - ニュース",
+          "imageUrl": "https://cgworld.jp/flashnews/assets_c/2026/09/Nuke_Hybrid-01-thumb-1920x1080-88869.jpg"
+        },
         {
           "id": "https://cgworld.jp/flashnews/01-202609-Coyote-MayaBlender.html",
           "author": null,
@@ -2154,6 +2134,26 @@
       "siteUrl": "https://modelinghappy.com",
       "articles": [
         {
+          "id": "https://modelinghappy.com/?p=70505",
+          "author": "modelinghappy",
+          "description": "Bone Guide for Blender Bone Guideは、腕や脚などの複数のボーンを、同じ平面上にきれいに配置・整列できるBlender用アドオンです。 リギングでは、ボーンの向きやローカル軸が少しずれている\nThe post Bone Guide – 複数ボーンの位置と軸方向をきれいに揃えられる無料Blender用アドオン first appeared on 3DCG最新情報サイト MODELING HAPPY.",
+          "link": "https://modelinghappy.com/archives/70505",
+          "publishedOn": "2026-09-14T00:42:35.000Z",
+          "wordCount": 3072,
+          "title": "Bone Guide – 複数ボーンの位置と軸方向をきれいに揃えられる無料Blender用アドオン",
+          "imageUrl": "https://modelinghappy.com/wp-content/uploads/2026/09/20260914_Bone_Guide_for_Blender_01.jpg"
+        },
+        {
+          "id": "https://modelinghappy.com/?p=70498",
+          "author": "modelinghappy",
+          "description": "Bwrap #8211; Topology Transfer BWrapは、作成済みの綺麗なトポロジーを、新しいキャラクターやスカルプト、3Dスキャンモデルへフィットさせて再利用できるBlender用アドオンです。 新\nThe post BWrap – 作成済みの綺麗なトポロジーを別のキャラクターへ転送できるBlender用アドオン 無料版あり first appeared on 3DCG最新情報サイト MODELING HAPPY.",
+          "link": "https://modelinghappy.com/archives/70498",
+          "publishedOn": "2026-09-13T13:01:26.000Z",
+          "wordCount": 3058,
+          "title": "BWrap – 作成済みの綺麗なトポロジーを別のキャラクターへ転送できるBlender用アドオン 無料版あり",
+          "imageUrl": "https://modelinghappy.com/wp-content/uploads/2026/09/20260913_Bwrap_00.jpg"
+        },
+        {
           "id": "https://modelinghappy.com/?p=70490",
           "author": "modelinghappy",
           "description": "Flex Flexは、キャラクターの体や柔らかいオブジェクトに、揺れや弾み、たわみなどの動きを追加できるBlender用アドオンです。 複雑な物理シミュレーションを組まなくても、オブジェクトを移動させるだけで、表面が遅れ\nThe post Flex – キャラクターの体や柔らかい物体に揺れ・弾み・筋肉の動きを追加できるBlenderアドオン first appeared on 3DCG最新情報サイト MODELING HAPPY.",
@@ -2682,26 +2682,6 @@
           "wordCount": 3028,
           "title": "Dynamic OverAnimation – UE5でキャラクターに2Dアニメのような「潰し・伸ばし・残像表現」を追加できる無料プラグイン",
           "imageUrl": "https://modelinghappy.com/wp-content/uploads/2026/08/20260816_dynamic_over_animation__01.jpg"
-        },
-        {
-          "id": "https://modelinghappy.com/?p=69969",
-          "author": "modelinghappy",
-          "description": "Anynode Preview – Geometry Nodes amp; Shader Preview AnyNode Previewは、BlenderのGeometry NodesやShader Editorなどで\nThe post AnyNode Preview – Geometry NodesやShaderの各ノードをプレビュー表示できるBlenderアドオン first appeared on 3DCG最新情報サイト MODELING HAPPY.",
-          "link": "https://modelinghappy.com/archives/69969",
-          "publishedOn": "2026-08-15T11:25:04.000Z",
-          "wordCount": 3094,
-          "title": "AnyNode Preview – Geometry NodesやShaderの各ノードをプレビュー表示できるBlenderアドオン",
-          "imageUrl": "https://modelinghappy.com/wp-content/uploads/2026/08/20260815_preview_all_01.jpg"
-        },
-        {
-          "id": "https://modelinghappy.com/?p=69964",
-          "author": "modelinghappy",
-          "description": "Wētā FXでLead Artistとして活躍するDylan Browne氏が、現在開発中のUnreal Engine 6で実験的に実装されている新しいLumenモード「LumenRef」を使用したテスト映像が公開され\nThe post Unreal Engine 6に実験的な「LumenRef」でパストレーサー級の高品質な映像を高速レンダリングするテスト映像が公開 first appeared on 3DCG最新情報サイト MODELING HAPPY.",
-          "link": "https://modelinghappy.com/archives/69964",
-          "publishedOn": "2026-08-15T01:32:15.000Z",
-          "wordCount": 3048,
-          "title": "Unreal Engine 6に実験的な「LumenRef」でパストレーサー級の高品質な映像を高速レンダリングするテスト映像が公開",
-          "imageUrl": "https://modelinghappy.com/wp-content/uploads/2026/08/20260815_lumenref_02.jpg"
         }
       ]
     },
@@ -2850,6 +2830,21 @@
       "feedUrl": "https://zenn.dev/topics/shadergraph/feed",
       "siteUrl": "https://zenn.dev/topics/shadergraph",
       "articles": [
+        {
+          "id": "https://zenn.dev/gamedev_toollab/articles/3255ea6d473453",
+          "author": "GameDev Tool Lab",
+          "description": "Unityの2D表現は、元画像を描き直さなくてもシェーダーだけで大きく変えられます。白フラッシュ、溶解、色違い、グリッチ、ホログラム、疑似的な凹凸、ワールドスキャンも、基本はUV・色・アルファ・座標の加工です。\n一方、Sprite Atlasで模様の密度が変わる、アウトラインが隣のSpriteを拾う、頂点を動かしても曲がらない、2D Lightで急に重くなる、といった実装上の罠があります。本記事では、その対策を含む12個のテクニックをまとめます。\n\n 動画で動きを確認する\nこの記事の内容にあわせた2Dシェーダーの実演動画も公開しました。シェーダー表現は静止画だけでは速度感や変形の印象が伝...",
+          "link": "https://zenn.dev/gamedev_toollab/articles/3255ea6d473453",
+          "publishedOn": "2026-09-14T00:58:27.000Z",
+          "wordCount": 5927,
+          "title": "Unity 2Dで絵が化けるShader Graphおもしろテクニック12選",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--xXZ6pWNX--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Unity%25202D%25E3%2581%25A7%25E7%25B5%25B5%25E3%2581%258C%25E5%258C%2596%25E3%2581%2591%25E3%2582%258BShader%2520Graph%25E3%2581%258A%25E3%2582%2582%25E3%2581%2597%25E3%2582%258D%25E3%2583%2586%25E3%2582%25AF%25E3%2583%258B%25E3%2583%2583%25E3%2582%25AF12%25E9%2581%25B8%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:GameDev%2520Tool%2520Lab%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2Y2ZTkzMTA1NzcuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+            "length": "0",
+            "type": "false"
+          },
+          "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--xXZ6pWNX--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Unity%25202D%25E3%2581%25A7%25E7%25B5%25B5%25E3%2581%258C%25E5%258C%2596%25E3%2581%2591%25E3%2582%258BShader%2520Graph%25E3%2581%258A%25E3%2582%2582%25E3%2581%2597%25E3%2582%258D%25E3%2583%2586%25E3%2582%25AF%25E3%2583%258B%25E3%2583%2583%25E3%2582%25AF12%25E9%2581%25B8%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:GameDev%2520Tool%2520Lab%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2Y2ZTkzMTA1NzcuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+        },
         {
           "id": "https://zenn.dev/gamedev_toollab/articles/a60f78c89477ec",
           "author": "GameDev Tool Lab",
@@ -3462,6 +3457,21 @@
       "feedUrl": "https://zenn.dev/topics/hlsl/feed",
       "siteUrl": "https://zenn.dev/topics/hlsl",
       "articles": [
+        {
+          "id": "https://zenn.dev/maruhana/articles/mesh-dibr-depth-boundary-dots",
+          "author": "maruhana",
+          "description": "単眼カラー映像を AI 深度推定にかけ、その深度で左右の目の絵を作ってリアルタイムに立体視（SBS 3D）へ変換するアプリを自作している。XR グラスに流し込んで、普通のアニメや動画を立体で見るためのものだ。\n立体視の作り方は途中で PULL 型（ピクセルシェーダーで「ずらした先から色を引っ張る」）から PUSH 型（頂点を「ずらした先へ押し出す」）に切り替えた（全体像は入口の記事に書いた）。密なグリッドメッシュを深度で水平変位させ、重なりは Z バッファに解かせる方式で、深度境界の品質は劇的に良くなった。\nなったのだが、キャラクターの輪郭に沿って黒い点がびっしり出た。\n\n左が症状、右が...",
+          "link": "https://zenn.dev/maruhana/articles/mesh-dibr-depth-boundary-dots",
+          "publishedOn": "2026-09-13T08:46:04.000Z",
+          "wordCount": 2246,
+          "title": "メッシュDIBRの深度境界に黒い点が出る —— discard で消そうとして3回外した話",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--3TamI540--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%25A1%25E3%2583%2583%25E3%2582%25B7%25E3%2583%25A5DIBR%25E3%2581%25AE%25E6%25B7%25B1%25E5%25BA%25A6%25E5%25A2%2583%25E7%2595%258C%25E3%2581%25AB%25E9%25BB%2592%25E3%2581%2584%25E7%2582%25B9%25E3%2581%258C%25E5%2587%25BA%25E3%2582%258B%2520%25E2%2580%2594%25E2%2580%2594%2520discard%2520%25E3%2581%25A7%25E6%25B6%2588%25E3%2581%259D%25E3%2581%2586%25E3%2581%25A8%25E3%2581%2597%25E3%2581%25A63%25E5%259B%259E%25E5%25A4%2596%25E3%2581%2597%25E3%2581%259F%25E8%25A9%25B1%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:maruhana%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzU3OWZjNDFhODkuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+            "length": "0",
+            "type": "false"
+          },
+          "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--3TamI540--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%25A1%25E3%2583%2583%25E3%2582%25B7%25E3%2583%25A5DIBR%25E3%2581%25AE%25E6%25B7%25B1%25E5%25BA%25A6%25E5%25A2%2583%25E7%2595%258C%25E3%2581%25AB%25E9%25BB%2592%25E3%2581%2584%25E7%2582%25B9%25E3%2581%258C%25E5%2587%25BA%25E3%2582%258B%2520%25E2%2580%2594%25E2%2580%2594%2520discard%2520%25E3%2581%25A7%25E6%25B6%2588%25E3%2581%259D%25E3%2581%2586%25E3%2581%25A8%25E3%2581%2597%25E3%2581%25A63%25E5%259B%259E%25E5%25A4%2596%25E3%2581%2597%25E3%2581%259F%25E8%25A9%25B1%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:maruhana%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzU3OWZjNDFhODkuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+        },
         {
           "id": "https://zenn.dev/maruhana/articles/ai-depth-stereo-inflation-clamp",
           "author": "maruhana",

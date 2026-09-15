@@ -245,6 +245,21 @@
       "siteUrl": "https://3dnchu.com",
       "articles": [
         {
+          "id": "https://3dnchu.com/?p=1068403",
+          "author": "Ymt3D -3dnchu-",
+          "description": "Denizcan Gok氏による IHP（Implicit Heightfield Projection）とやらの情報が公開され注目を集めています。高さマップを利用してフラットなサーフェスに奥行きや凹凸感を表現できるUnreal Engine向けプラグインで、従来のPOMとは異なる方法で高さフィール […]\n続きを読む",
+          "link": "https://3dnchu.com/archives/ihp-for-unreal-engine/",
+          "publishedOn": "2026-09-15T04:53:26.000Z",
+          "wordCount": 7698,
+          "title": "IHP for Unreal Engine | POMとは異なるアプローチで高さマップから立体感を表現！次世代のリアルタイムDisplacement表現を唱える新手法！？Fabでもリリース予定！",
+          "enclosure": {
+            "url": "https://3dnchu.com/wp-content/uploads/ihp-for-unreal-engine.webp",
+            "length": "1582738",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://3dnchu.com/wp-content/uploads/ihp-for-unreal-engine.webp"
+        },
+        {
           "id": "https://3dnchu.com/?p=1068390",
           "author": "Ymt3D -3dnchu-",
           "description": "Feras Yahya氏によるBlender向け精密モデリング＆メッシュ修正アドオン「ReFace」が2.0へメジャーアップデートされました。CADだけでなく3DスキャンやAI生成モデル、スカルプトなどの複雑なメッシュを対象としたリトポロジー機能も強化されています。 ReFace 2.0 ReFac […]\n続きを読む",
@@ -2180,26 +2195,6 @@
           "wordCount": 849,
           "title": "オートデスク、Flow Studioをアップデート　3D EditorとCanvasを搭載、Canvasでは動画生成AI「Seedance 2.5」も利用可能に - ニュース",
           "imageUrl": "https://cgworld.jp/flashnews/assets_c/2026/08/FlowStudio_Canvas-01-thumb-1920x1080-87688.jpg"
-        },
-        {
-          "id": "https://cgworld.jp/regular/motion-capture02a.html",
-          "author": null,
-          "description": "モーションキャプチャコーディネーターの谷山尚未氏がCGアニメーターと本音で対談",
-          "link": "https://cgworld.jp/regular/motion-capture02a.html",
-          "publishedOn": "2026-08-17T01:00:37.000Z",
-          "wordCount": 773,
-          "title": "第2回：アニメーターの考える「使いやすいデータの収録」 （前篇〜ノウハウの継承について考える） - 連載",
-          "imageUrl": "https://cgworld.jp/regular/assets_c/2026/07/motioncapture_2-1%20%281%29-thumb-1920x1080-86749.jpg"
-        },
-        {
-          "id": "https://cgworld.jp/flashnews/01-202608-Houdini-SolarisUSD.html",
-          "author": null,
-          "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
-          "link": "https://cgworld.jp/flashnews/01-202608-Houdini-SolarisUSD.html",
-          "publishedOn": "2026-08-16T23:00:21.000Z",
-          "wordCount": 821,
-          "title": "SideFX、SolarisのUSDワークフロー解説動画公開　FMX HIVE 2026でのMilk VFXによる講演 - ニュース",
-          "imageUrl": "https://cgworld.jp/flashnews/assets_c/2026/08/Houdini_SolarisUSD-01-thumb-1920x1080-87675.jpg"
         }
       ]
     },
@@ -2243,6 +2238,16 @@
       "feedUrl": "https://modelinghappy.com/feed",
       "siteUrl": "https://modelinghappy.com",
       "articles": [
+        {
+          "id": "https://modelinghappy.com/?p=70524",
+          "author": "modelinghappy",
+          "description": "Edit Poly Modifier Edit Poly Modifierは、複数のモディファイアーを重ねた状態のまま、途中の形状を頂点・辺・面から直接編集できるBlender用無料アドオンです。 通常はSolidify\nThe post Edit Poly Modifier – モディファイアーを適用せず、途中の形状を直接編集できるBlender用無料アドオン first appeared on 3DCG最新情報サイト MODELING HAPPY.",
+          "link": "https://modelinghappy.com/archives/70524",
+          "publishedOn": "2026-09-15T12:03:59.000Z",
+          "wordCount": 3050,
+          "title": "Edit Poly Modifier – モディファイアーを適用せず、途中の形状を直接編集できるBlender用無料アドオン",
+          "imageUrl": "https://modelinghappy.com/wp-content/uploads/2026/09/20260915_edit_poly_modifer_01.jpg"
+        },
         {
           "id": "https://modelinghappy.com/?p=70521",
           "author": "modelinghappy",
@@ -2792,26 +2797,6 @@
           "wordCount": 3084,
           "title": "Simple Sculpt Layers Plus – Blenderでスカルプトをレイヤー分けして非破壊編集やGeometry Nodesで模様や凹凸も作成できるアドオン",
           "imageUrl": "https://modelinghappy.com/wp-content/uploads/2026/08/20260818_simple_sculpt_layers_01.jpg"
-        },
-        {
-          "id": "https://modelinghappy.com/?p=69994",
-          "author": "modelinghappy",
-          "description": "Splatlight Splatlightは、Gaussian SplattingをBlender上でデータを読み込んでライティングや影を調整、不要な部分の編集、変形・アニメーション、さらに動画や1枚の画像からGauss\nThe post Splatlight – 動画や画像からGaussian Splattingを生成してBlenderで編集・ライティングできるアドオン無料版あり first appeared on 3DCG最新情報サイト MODELING HAPPY.",
-          "link": "https://modelinghappy.com/archives/69994",
-          "publishedOn": "2026-08-17T02:03:07.000Z",
-          "wordCount": 3098,
-          "title": "Splatlight – 動画や画像からGaussian Splattingを生成してBlenderで編集・ライティングできるアドオン無料版あり",
-          "imageUrl": "https://modelinghappy.com/wp-content/uploads/2026/08/20260817_splatlight_01.jpg"
-        },
-        {
-          "id": "https://modelinghappy.com/?p=69988",
-          "author": "modelinghappy",
-          "description": "Holey Tools Holey Toolsは、Blenderでモデルに開けた円形の穴を選択して、直径を数値指定しながら簡単に変更できる無料アドオンです。 モデルに対して斜めに開いている穴でも、その穴の向きに合わせて直\nThe post Holey Tools – Blenderで斜めに開いた穴でも直径を数値指定して簡単に変更できる無料アドオン first appeared on 3DCG最新情報サイト MODELING HAPPY.",
-          "link": "https://modelinghappy.com/archives/69988",
-          "publishedOn": "2026-08-17T00:37:12.000Z",
-          "wordCount": 3042,
-          "title": "Holey Tools – Blenderで斜めに開いた穴でも直径を数値指定して簡単に変更できる無料アドオン",
-          "imageUrl": "https://modelinghappy.com/wp-content/uploads/2026/08/20260817_holy_tools_01.jpg"
         }
       ]
     },
@@ -2900,21 +2885,6 @@
             "type": "false"
           },
           "imageUrl": null
-        },
-        {
-          "id": "https://zenn.dev/h0r0/articles/5a9cae38f97235",
-          "author": "horo",
-          "description": "私が初めにシェーダーを学んだ際に役に立ったインターネット上の資料を紹介します!\nシェーダーに関連した情報は比較的少なく、どうやって学んだらいいか悩みがちだと思うのでもしよければ参考にしてください。\n!\nこの記事では、Unity上でシェーダーを書くことを念頭に置いています。私がVRChatのワールド制作のためにシェーダーを学びたかったからです(VRChatのワールド制作には2026年8月現在Unity 2022.3.22f1を使用する必要があります)\nしかしながら、シェーダーの本質はUnity上であってもなくても変わりないため、他の目的に対してもこの記事の内容はお役に立てるかと思います!\n...",
-          "link": "https://zenn.dev/h0r0/articles/5a9cae38f97235",
-          "publishedOn": "2026-08-17T01:49:37.000Z",
-          "wordCount": 694,
-          "title": "シェーダーを学ぶ際に役立つ資料リスト[初心者向け]",
-          "enclosure": {
-            "url": "https://res.cloudinary.com/zenn/image/upload/s--9XtcZ8KS--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2582%25B7%25E3%2582%25A7%25E3%2583%25BC%25E3%2583%2580%25E3%2583%25BC%25E3%2582%2592%25E5%25AD%25A6%25E3%2581%25B6%25E9%259A%259B%25E3%2581%25AB%25E5%25BD%25B9%25E7%25AB%258B%25E3%2581%25A4%25E8%25B3%2587%25E6%2596%2599%25E3%2583%25AA%25E3%2582%25B9%25E3%2583%2588%255B%25E5%2588%259D%25E5%25BF%2583%25E8%2580%2585%25E5%2590%2591%25E3%2581%2591%255D%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:horo%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzI3NGE0YWU0N2MuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
-            "length": "0",
-            "type": "false"
-          },
-          "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--9XtcZ8KS--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2582%25B7%25E3%2582%25A7%25E3%2583%25BC%25E3%2583%2580%25E3%2583%25BC%25E3%2582%2592%25E5%25AD%25A6%25E3%2581%25B6%25E9%259A%259B%25E3%2581%25AB%25E5%25BD%25B9%25E7%25AB%258B%25E3%2581%25A4%25E8%25B3%2587%25E6%2596%2599%25E3%2583%25AA%25E3%2582%25B9%25E3%2583%2588%255B%25E5%2588%259D%25E5%25BF%2583%25E8%2580%2585%25E5%2590%2591%25E3%2581%2591%255D%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:horo%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzI3NGE0YWU0N2MuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
         }
       ]
     },
@@ -3287,21 +3257,6 @@
             "type": "false"
           },
           "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--kDiPz2Fo--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%2595%25E3%2582%25A9%25E3%2583%2588%25E3%2582%25B0%25E3%2583%25A9%25E3%2583%25A1%25E3%2583%2588%25E3%2583%25AA%25E6%2595%25B0%25E5%25AD%25A6%25EF%25BD%259C48%25EF%25BC%259ACost%2520Aggregation%25E3%2581%25A8%25E3%2581%25AF%25EF%25BC%259F%25EF%25BD%259E%25E5%2591%25A8%25E8%25BE%25BA%25E6%2583%2585%25E5%25A0%25B1%25E3%2582%2592%25E4%25BD%25BF%25E3%2581%25A3%25E3%2581%25A6%25E8%25A6%2596%25E5%25B7%25AE%25E3%2582%2592%25E5%25AE%2589%25E5%25AE%259A%25E5%258C%2596%25E3%2581%2599%25E3%2582%258B%25EF%25BD%259E%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:s_hashida%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2QwNzQxMzlkMjguanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
-        },
-        {
-          "id": "https://zenn.dev/s_hashida/articles/be83fffa2c6b3a",
-          "author": "s_hashida",
-          "description": "はじめに\n前回は、\n\nエピポーラ拘束\nEpipolar Rectification\n視差（Disparity）\nDisparity Map\n\nについて説明しました。\n\nその中で重要だったのが、\n\n対応点の探索範囲をエピポーラ線上に限定できる\nRectificationによって探索を水平方向の1次元探索にできる\n対応点の位置のずれが視差になる\n視差から奥行きを求めることができる\n\nという点です。\n\nしかし、Rectificationによって、\n対応点をどこから探せばよいか\nが分かっても、まだ問題があります。\n画像Aのある画素に対して、画像Bの同じ行上には多数の候補があります。\nでは、...",
-          "link": "https://zenn.dev/s_hashida/articles/be83fffa2c6b3a",
-          "publishedOn": "2026-08-16T21:48:05.000Z",
-          "wordCount": 1587,
-          "title": "フォトグラメトリ数学｜47：Dense Matchingの対応点はどう選ぶ？ ～Matching CostとSAD・SSD・NCC～",
-          "enclosure": {
-            "url": "https://res.cloudinary.com/zenn/image/upload/s--FT1Fn0xJ--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%2595%25E3%2582%25A9%25E3%2583%2588%25E3%2582%25B0%25E3%2583%25A9%25E3%2583%25A1%25E3%2583%2588%25E3%2583%25AA%25E6%2595%25B0%25E5%25AD%25A6%25EF%25BD%259C47%25EF%25BC%259ADense%2520Matching%25E3%2581%25AE%25E5%25AF%25BE%25E5%25BF%259C%25E7%2582%25B9%25E3%2581%25AF%25E3%2581%25A9%25E3%2581%2586%25E9%2581%25B8%25E3%2581%25B6%25EF%25BC%259F%2520%25EF%25BD%259EMatching%2520Cost%25E3%2581%25A8SAD...%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:s_hashida%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2QwNzQxMzlkMjguanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
-            "length": "0",
-            "type": "false"
-          },
-          "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--FT1Fn0xJ--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%2595%25E3%2582%25A9%25E3%2583%2588%25E3%2582%25B0%25E3%2583%25A9%25E3%2583%25A1%25E3%2583%2588%25E3%2583%25AA%25E6%2595%25B0%25E5%25AD%25A6%25EF%25BD%259C47%25EF%25BC%259ADense%2520Matching%25E3%2581%25AE%25E5%25AF%25BE%25E5%25BF%259C%25E7%2582%25B9%25E3%2581%25AF%25E3%2581%25A9%25E3%2581%2586%25E9%2581%25B8%25E3%2581%25B6%25EF%25BC%259F%2520%25EF%25BD%259EMatching%2520Cost%25E3%2581%25A8SAD...%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:s_hashida%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2QwNzQxMzlkMjguanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
         }
       ]
     },
@@ -3780,16 +3735,6 @@
           "wordCount": 263,
           "title": "求人情報 ENSAPIA Tokyo",
           "imageUrl": "https://area.autodesk.jp/jobs/assets_c/2026/08/ic_jobs_ensapia_1200x670-thumb-1200xauto-5874.png"
-        },
-        {
-          "id": "https://area.autodesk.jp/information/cedec2026-ondemand/",
-          "author": null,
-          "description": "CEDEC2026のAutodesk スポンサーセッションがCEDEC2026のYouTubeチャンネルで公開されました。当日ご覧になれなかった方も無償で視聴をすることができます。ぜひご覧ください。・・・",
-          "link": "https://area.autodesk.jp/information/cedec2026-ondemand/",
-          "publishedOn": "2026-08-17T01:32:37.000Z",
-          "wordCount": 211,
-          "title": "CEDEC2026 スポンサーセッション 公開",
-          "imageUrl": "https://area.autodesk.jp/information/assets_c/2026/08/ic_cedec2026_1400x782-thumb-1200xauto-5873.png"
         }
       ]
     },
@@ -4104,6 +4049,16 @@
       "feedUrl": "https://cginterest.com/feed/",
       "siteUrl": "https://cginterest.com",
       "articles": [
+        {
+          "id": "https://cginterest.com/?p=62557",
+          "author": ".me",
+          "description": "Unity Asset Store で開催されている「オータムセール」の紹介です。 セール概要 このセールでは、人気のツール、3Dアート、VFX、オーディオなど300点以上が50%OFFとなります。 さらに、毎日セール対 […]",
+          "link": "https://cginterest.com/2026/09/15/%e3%80%90%e6%9c%80%e5%a4%a770off%e3%80%91unity-asset-store%e3%80%8c%e3%82%aa%e3%83%bc%e3%82%bf%e3%83%a0%e3%82%bb%e3%83%bc%e3%83%ab%e3%80%8d%e3%81%8c%e9%96%8b%e5%82%ac%ef%bc%81%e4%ba%ba%e6%b0%97/",
+          "publishedOn": "2026-09-15T12:38:29.000Z",
+          "wordCount": 3932,
+          "title": "【最大70%OFF】Unity Asset Store「オータムセール」が開催！人気アセットをチェック！",
+          "imageUrl": "https://cginterest.com/wp-content/uploads/2026/09/UnityassetStore-autumnsale2026.webp"
+        },
         {
           "id": "https://cginterest.com/?p=62545",
           "author": ".me",

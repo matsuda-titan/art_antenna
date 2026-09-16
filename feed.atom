@@ -2,10 +2,81 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-16T08:02:15.900Z</updated>
+    <updated>2026-09-16T15:44:47.066Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[HoudiniでAPEXを学習したまとめ]]></title>
+        <id>https://note.com/oja_bitterlife/n/nc7ba025783c4</id>
+        <link href="https://note.com/oja_bitterlife/n/nc7ba025783c4"/>
+        <updated>2026-09-16T14:48:52.000Z</updated>
+        <summary type="html"><![CDATA[Houdini22になってAPEXという機能が強化されたらしいです。APEXというのはHoudiniのリギング機能で、すでにKineFXというリギング機能があったにもかかわらずAPEXという名で機能を刷新(互換性はない)するような事態になってる時点でお察しな状況ですが、やっとまともなリギング機能が来たとのことで、オラワクワクすっぞって感じで特攻しました。
+なおKineFXはあまりにも評判がアレで手を出しませんでしたので、APEXが初めてのHoudiniでのリギングになります。
+続きをみる]]></summary>
+        <author>
+            <name>#Houdiniタグ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【ZBrush】鋭角な面をスカルプトする際に、下の面に影響を出さない方法]]></title>
+        <id>https://3d.crdg.jp/env/?p=10485</id>
+        <link href="https://3d.crdg.jp/env/2026/09/16/10485/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=%25e3%2580%2590zbrush%25e3%2580%2591%25e9%258b%25ad%25e8%25a7%2592%25e3%2581%25aa%25e9%259d%25a2%25e3%2582%2592%25e3%2582%25b9%25e3%2582%25ab%25e3%2583%25ab%25e3%2583%2597%25e3%2583%2588%25e3%2581%2599%25e3%2582%258b%25e9%259a%259b%25e3%2581%25ab%25e3%2580%2581%25e4%25b8%258b%25e3%2581%25ae%25e9%259d%25a2%25e3%2581%25ab"/>
+        <updated>2026-09-16T10:57:03.000Z</updated>
+        <summary type="html"><![CDATA[今回はDepthMask使った鋭角な面をスカルプトする際に、下の面に影響を出さない方法を紹介します。 まず、ブラシ（Brush）→深度（Depth）内 […]
+続きを読む
+投稿 【ZBrush】鋭角な面をスカルプトする際に、下の面に影響を出さない方法 は エンホリ - ENVIRONMENT HOLIC｜C&R Creative Studios に最初に表示されました。]]></summary>
+        <author>
+            <name>Akito.Yamakawa</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[sigmaPBR – フォトグラメトリーモデルに光沢や粗さを再現したPBRテクスチャを生成できるソフト！自分の撮影データによる無料評価も受付中]]></title>
+        <id>https://modelinghappy.com/?p=70541</id>
+        <link href="https://modelinghappy.com/archives/70541"/>
+        <updated>2026-09-16T10:47:19.000Z</updated>
+        <summary type="html"><![CDATA[sigmaPBR sigmaPBRは、自分でフォトグラメトリーソフトを使って作成した3Dモデルと、さまざまな方向から偏光撮影した写真を利用して、そのモデルに合ったPBRテクスチャを生成するソフトです。 表面の色だけではな
+The post sigmaPBR – フォトグラメトリーモデルに光沢や粗さを再現したPBRテクスチャを生成できるソフト！自分の撮影データによる無料評価も受付中 first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
+        <author>
+            <name>modelinghappy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CGE Sculpting Tool – Maya内で数百万ポリゴンのスカルプトができるGPU対応ツール！マルチ解像度やレイヤー、クロスブラシにも対応]]></title>
+        <id>https://modelinghappy.com/?p=70530</id>
+        <link href="https://modelinghappy.com/archives/70530"/>
+        <updated>2026-09-16T10:09:54.000Z</updated>
+        <summary type="html"><![CDATA[CGE Sculpting Tool for Maya Morteza Ahmadiさんが、15年間かけて作成したMaya上でスカルプト作業ができるGPU対応プラグインCGE Sculpting Tool for May
+The post CGE Sculpting Tool – Maya内で数百万ポリゴンのスカルプトができるGPU対応ツール！マルチ解像度やレイヤー、クロスブラシにも対応 first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
+        <author>
+            <name>modelinghappy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[maya] 標準機能 playblast の記述ミスについて]]></title>
+        <id>https://qiita.com/rdj_masato/items/468738de7451a3f40002</id>
+        <link href="https://qiita.com/rdj_masato/items/468738de7451a3f40002"/>
+        <updated>2026-09-16T09:44:28.000Z</updated>
+        <summary type="html"><![CDATA[※記事に関しましてご注意下さい
+こちらでは普段当たり前のように使用している機能・動作が「実はどうやって動いているのか」を探るべく調査した内容になります。
+あくまでも個人調査のメモです。間違い・勘違いが含まれている可能性もありますので予めご了承ください。
+
+調査のきっかけ
+...]]></summary>
+        <author>
+            <name>mayaタグが付けられた新着記事 - Qiita</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Blender Studio、オープンムービー「OVERGROWN」のティザーを公開！絵画調のNPR表現で贈る長編作品]]></title>
+        <id>https://cginterest.com/?p=62603</id>
+        <link href="https://cginterest.com/2026/09/16/blender-studio%e3%80%81%e3%82%aa%e3%83%bc%e3%83%97%e3%83%b3%e3%83%a0%e3%83%bc%e3%83%93%e3%83%bc%e3%80%8covergrown%e3%80%8d%e3%81%ae%e3%83%86%e3%82%a3%e3%82%b6%e3%83%bc%e3%82%92%e5%85%ac%e9%96%8b/"/>
+        <updated>2026-09-16T08:56:01.000Z</updated>
+        <summary type="html"><![CDATA[2026年9月14日（現地時間） – Blender Studioは、長編アニメーション映画プロジェクト「OVERGROWN」のティザー映像を公開しました。 オープンムービー「OVERGROWN」のティザーが公開 20年 […]]]></summary>
+        <author>
+            <name>.me</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[第78回クリエイティブアーツエミー賞 視覚効果部門：受賞＆ノミネート作品のVFXをチェック！]]></title>
         <id>https://cginterest.com/?p=62590</id>
@@ -4181,67 +4252,6 @@ To understand global illumination, I need to know the local illumination, with d
 The post Simple Sculpt Layers Plus – Blenderでスカルプトをレイヤー分けして非破壊編集やGeometry Nodesで模様や凹凸も作成できるアドオン first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
         <author>
             <name>modelinghappy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CV Auto Track | 2Dトラックの自動生成からカメラSolveまで高速化！実務向け機能を備えた無料のBlenderオートトラッキングアドオン！]]></title>
-        <id>https://3dnchu.com/?p=1067296</id>
-        <link href="https://3dnchu.com/archives/cv-auto-track/"/>
-        <updated>2026-08-18T03:14:12.000Z</updated>
-        <summary type="html"><![CDATA[k.naoki （ @kurono73 ）氏による2Dトラックの自動生成からカメラSolveまでを効率化するBlenderアドオン「CV Auto Track」がリリースされました！Blender Extensionsから無料で入手可能です。 CV Auto Track 「CV Auto Track […]
-続きを読む]]></summary>
-        <author>
-            <name>Ymt3D -3dnchu-</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AutoRemesher 1.1 | 高速に高品質のクワッドポリゴンでリメッシュ可能なオープンソースツール！細かな改善が行われたアップデートが公開！]]></title>
-        <id>https://3dnchu.com/?p=1067300</id>
-        <link href="https://3dnchu.com/archives/autoremesher-1-1/"/>
-        <updated>2026-08-18T03:05:38.000Z</updated>
-        <summary type="html"><![CDATA[「Dust3D」の開発者であるJeremy HU ( @jeremyhu2016 )氏による、オープンソースの自動リメッシュツールのマイナーアップデート「Auto Remesher 1.1」がリリースされました！ AutoRemesher 1.1 AutoRemesherは、高ポリゴンメッシュをクリ […]
-続きを読む]]></summary>
-        <author>
-            <name>Ymt3D -3dnchu-</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CGWORLD vol.338（2026年10月号）「アニメ『攻殻機動隊 THE GHOST IN THE SHELL』」特集号を先行告知！ - ニュース]]></title>
-        <id>https://cgworld.jp/flashnews/cgw338-pr.html</id>
-        <link href="https://cgworld.jp/flashnews/cgw338-pr.html"/>
-        <updated>2026-08-18T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[【9/10発売】CGWORLD vol.338（2026年10月号）特集「アニメ『攻殻機動隊 THE GHOST IN THE SHELL』」。新たな『攻殻機動隊』誕生の舞台裏に迫る。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【予告】LiberNovoのワークチェアが最大38% OFFになる「サポートウィーク」が8月25日より開催！　Amazonでも取り扱いを開始。 - ニュース]]></title>
-        <id>https://cgworld.jp/flashnews/02-202608-libernovo.html</id>
-        <link href="https://cgworld.jp/flashnews/02-202608-libernovo.html"/>
-        <updated>2026-08-18T01:39:08.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[第2回：アニメーターの考える「使いやすいデータ収録」 （後篇〜「良い演技」を活かすアクターとアニメター双方のノウハウ） - 連載]]></title>
-        <id>https://cgworld.jp/regular/motion-capture02b.html</id>
-        <link href="https://cgworld.jp/regular/motion-capture02b.html"/>
-        <updated>2026-08-18T01:00:37.000Z</updated>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[オートデスク、Flow Studioをアップデート　3D EditorとCanvasを搭載、Canvasでは動画生成AI「Seedance 2.5」も利用可能に - ニュース]]></title>
-        <id>https://cgworld.jp/flashnews/01-202608-FlowStudio.html</id>
-        <link href="https://cgworld.jp/flashnews/01-202608-FlowStudio.html"/>
-        <updated>2026-08-17T22:32:36.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
         </author>
     </entry>
 </feed>

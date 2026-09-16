@@ -2,10 +2,113 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-15T15:53:47.931Z</updated>
+    <updated>2026-09-16T02:17:12.332Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Unity 6.3 Shader Graphで作る、ゲームに持ち込みたくなる表現6選]]></title>
+        <id>https://zenn.dev/gamedev_toollab/articles/924c0340b027e9</id>
+        <link href="https://zenn.dev/gamedev_toollab/articles/924c0340b027e9"/>
+        <updated>2026-09-16T01:00:07.000Z</updated>
+        <summary type="html"><![CDATA[はじめに
+敵が燃えるように消える。バリアと地面の接点が光る。熱源の向こうの景色が揺れる。
+こうした表現は、複雑な画像を用意することよりも、**「何を基準に、どの部分を変えるか」**を決めるところから作れます。
+この記事では、Unity 6.3のURPとShader Graphを使い、見た目も仕組みも異なる6つの表現を組み立てます。編集可能なGraphと再利用用Prefabを含むサンプルを公開しました。まずは6作例をまとめた動画です。
+https://www.youtube.com/watch?v=Xxcu5r0s7iY
+
+
+
+作例
+完成イメージ
+中心になる考え方
+
+
+
+
+01 発光デ...]]></summary>
+        <author>
+            <name>GameDev Tool Lab</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unity 6.3 Shader Graphで作る、ゲームに持ち込みたくなる表現6選]]></title>
+        <id>https://zenn.dev/gamedev_toollab/articles/924c0340b027e9</id>
+        <link href="https://zenn.dev/gamedev_toollab/articles/924c0340b027e9"/>
+        <updated>2026-09-16T01:00:07.000Z</updated>
+        <summary type="html"><![CDATA[はじめに
+敵が燃えるように消える。バリアと地面の接点が光る。熱源の向こうの景色が揺れる。
+こうした表現は、複雑な画像を用意することよりも、**「何を基準に、どの部分を変えるか」**を決めるところから作れます。
+この記事では、Unity 6.3のURPとShader Graphを使い、見た目も仕組みも異なる6つの表現を組み立てます。編集可能なGraphと再利用用Prefabを含むサンプルを公開しました。まずは6作例をまとめた動画です。
+https://www.youtube.com/watch?v=Xxcu5r0s7iY
+
+
+
+作例
+完成イメージ
+中心になる考え方
+
+
+
+
+01 発光デ...]]></summary>
+        <author>
+            <name>GameDev Tool Lab</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SNAP3D | 1枚の画像からスナップ接続可能な分割3Dモデルを生成！物理シミュレーションで組み立て可能な形状へ最適化する研究技術！]]></title>
+        <id>https://3dnchu.com/?p=1068439</id>
+        <link href="https://3dnchu.com/archives/snap3d/"/>
+        <updated>2026-09-15T23:43:27.000Z</updated>
+        <summary type="html"><![CDATA[Carnegie Mellon UniversityのYu-Rou Tuan氏らによって発表された、1枚の画像から生成されたパーツ単位の3Dモデルを、実際に組み立て可能な形状へ変換する研究技術「SNAP3D: Physically Grounded 3D Parts for Assembly fro […]
+続きを読む]]></summary>
+        <author>
+            <name>Ymt3D -3dnchu-</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Maxon、Shane Olson氏によるZBrushライブ動画を公開　スタイライズド3Dキャラのブロックアウトから3Dプリントまで - ニュース]]></title>
+        <id>https://cgworld.jp/flashnews/01-202609-ZBrush-Stylized.html</id>
+        <link href="https://cgworld.jp/flashnews/01-202609-ZBrush-Stylized.html"/>
+        <updated>2026-09-15T23:34:17.000Z</updated>
+        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【アドオン紹介】BWrap – ポインターで綺麗にリトポロジー！]]></title>
+        <id>https://cgbox.jp/?p=65681</id>
+        <link href="https://cgbox.jp/2026/09/16/news-addon-bwrap/"/>
+        <updated>2026-09-15T22:59:22.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは！ 今回はアドオンの「BWrap」を紹介します。 こちらのリンクがアドオンの商品ページになります。 BWrap 「BWrap」は、既存のきれいなキャラクタートポロジーを、新しいスキャン・スカルプト・キャラクター […]]]></summary>
+        <author>
+            <name>kasahara</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Heat Kernel Textures | UV展開不要！3D Gaussian Splattingの考え方を応用しメッシュ表面へ直接テクスチャを表現する新手法！ECCV 2026 Best Paper Award受賞！]]></title>
+        <id>https://3dnchu.com/?p=1068426</id>
+        <link href="https://3dnchu.com/archives/heat-kernel-textures/"/>
+        <updated>2026-09-15T21:35:45.000Z</updated>
+        <summary type="html"><![CDATA[Imperial College Londonの研究チームが、UV展開を使わず3Dモデルの表面へ直接テクスチャを表現する新手法「Heat Kernel Textures（HKTex）」を発表しました。ECCV 2026 Best Paper Awardを受賞しています。 Heat Kernel Te […]
+続きを読む]]></summary>
+        <author>
+            <name>Ymt3D -3dnchu-</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CGE Sculpting Tool for Maya | 本格的なGPUベースのスカルプティング機能をMaya上で実現するツールがリリース！数百万個のポリゴンを処理可能！マルチ解像度対応！]]></title>
+        <id>https://3dnchu.com/?p=1068413</id>
+        <link href="https://3dnchu.com/archives/cge-sculpting-tool-for-maya/"/>
+        <updated>2026-09-15T21:08:27.000Z</updated>
+        <summary type="html"><![CDATA[CGElementary（Morteza Ahmadi氏）によるMaya向けの本格GPUスカルプトツール「CGE Sculpting Tool for Maya」がリリースされました！ CGE Sculpting Tool for Maya この15年間、私はMaya用のツールを開発してきました。約 […]
+続きを読む]]></summary>
+        <author>
+            <name>Ymt3D -3dnchu-</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【最大70%OFF】Unity Asset Store「オータムセール」が開催！人気アセットをチェック！]]></title>
         <id>https://cginterest.com/?p=62557</id>
@@ -4110,65 +4213,6 @@ The post Simple Sculpt Layers Plus – Blenderでスカルプトをレイヤー�
 続きを読む]]></summary>
         <author>
             <name>Ymt3D -3dnchu-</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ex Mapper | 国産のプロジェクションマッピング＆VJソフトが登場！現在無料で入手可能！]]></title>
-        <id>https://3dnchu.com/?p=1067282</id>
-        <link href="https://3dnchu.com/archives/ex-mapper/"/>
-        <updated>2026-08-17T12:43:09.000Z</updated>
-        <summary type="html"><![CDATA[shintaro（@nobutaro_L）氏が開発した、**プロジェクションマッピング＆VJ向けの国産映像ソフト「Ex Mapper」**が公開されています！現在無料でダウンロード可能！ Ex Mapper Ex Mapperは、プロジェクションマッピングやVJなど、ライブでの映像演出を目的として開 […]
-続きを読む]]></summary>
-        <author>
-            <name>Ymt3D -3dnchu-</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mayaでテクスチャを貼るには？]]></title>
-        <id>https://qiita.com/mochinekoo/items/3a0d4afafb12da9df225</id>
-        <link href="https://qiita.com/mochinekoo/items/3a0d4afafb12da9df225"/>
-        <updated>2026-08-17T12:11:49.000Z</updated>
-        <summary type="html"><![CDATA[はじめに
-この記事は学生が書いており、エンジニア向けに書いている記事です。CGを詳しくやりたい方は、詳しい方の記事を見ることをお勧めします。
-
-概要
-ゲームエンジンなどを開発すると、テスト用の3DCGが必要になってきます。ですが、ライセンスの面を考えると、(おそらく) 自...]]></summary>
-        <author>
-            <name>mayaタグが付けられた新着記事 - Qiita</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mayaでテクスチャを貼るには？]]></title>
-        <id>https://qiita.com/mochinekoo/items/3a0d4afafb12da9df225</id>
-        <link href="https://qiita.com/mochinekoo/items/3a0d4afafb12da9df225"/>
-        <updated>2026-08-17T12:11:49.000Z</updated>
-        <summary type="html"><![CDATA[はじめに
-この記事は学生が書いており、エンジニア向けに書いている記事です。CGを詳しくやりたい方は、詳しい方の記事を見ることをお勧めします。
-
-概要
-ゲームエンジンなどを開発すると、テスト用の3DCGが必要になってきます。ですが、ライセンスの面を考えると、(おそらく) 自...]]></summary>
-        <author>
-            <name>CGタグが付けられた新着記事 - Qiita</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【XPPen】21周年記念セール開始！CGbox編集部がレビューした商品まとめ]]></title>
-        <id>https://cgbox.jp/?p=65577</id>
-        <link href="https://cgbox.jp/2026/08/17/xppen-21yearsale/"/>
-        <updated>2026-08-17T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[こちらの記事はプロモーションを含みます。 2026年8月16日（日）～9月16日（水）までXPPenの公式ストアで1か月の21周年セール開催中！ 今までCGbox内で紹介した液タブ・板タブも一部セール対象になっております […]]]></summary>
-        <author>
-            <name>kasahara</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3D衣装作成ソフトCLO 2026.1がリリース！引き裂き・ほつれ表現やニットデザインの強化、UI刷新など]]></title>
-        <id>https://cginterest.com/?p=61723</id>
-        <link href="https://cginterest.com/2026/08/17/3d%e8%a1%a3%e8%a3%85%e4%bd%9c%e6%88%90%e3%82%bd%e3%83%95%e3%83%88clo-2026-1%e3%81%8c%e3%83%aa%e3%83%aa%e3%83%bc%e3%82%b9%ef%bc%81%e5%bc%95%e3%81%8d%e8%a3%82%e3%81%8d%e3%83%bb%e3%81%bb%e3%81%a4/"/>
-        <updated>2026-08-17T07:04:45.000Z</updated>
-        <summary type="html"><![CDATA[2026年8月13日（現地時間） – CLO Virtual Fashionは、新バージョン「2026.1」を発表しました。 主な新機能 CLO 2026.1では、表現力の向上と作業効率化を両立する新機能が多 […]]]></summary>
-        <author>
-            <name>.me</name>
         </author>
     </entry>
 </feed>

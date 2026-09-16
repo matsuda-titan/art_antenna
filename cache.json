@@ -12,6 +12,21 @@
       "siteUrl": "https://cgbox.jp",
       "articles": [
         {
+          "id": "https://cgbox.jp/?p=65681",
+          "author": "kasahara",
+          "description": "こんばんは！ 今回はアドオンの「BWrap」を紹介します。 こちらのリンクがアドオンの商品ページになります。 BWrap 「BWrap」は、既存のきれいなキャラクタートポロジーを、新しいスキャン・スカルプト・キャラクター […]",
+          "link": "https://cgbox.jp/2026/09/16/news-addon-bwrap/",
+          "publishedOn": "2026-09-15T22:59:22.000Z",
+          "wordCount": 1979,
+          "title": "【アドオン紹介】BWrap – ポインターで綺麗にリトポロジー！",
+          "enclosure": {
+            "url": "https://cgbox.jp/wp-content/uploads/2026/09/purchasebuttun-edit-8.mp4",
+            "length": "0",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://cgbox.jp/wp-content/uploads/2026/09/image_processing20260906-2-oe0v78.png"
+        },
+        {
           "id": "https://cgbox.jp/?p=65674",
           "author": "kasahara",
           "description": "こんばんは！ 今回はアドオンの「Cveld_Shell Fit Brush」を紹介します。 こちらのリンクがアドオンの商品ページになります。 Cveld_Shell Fit Brush 「Cveld_Shell Fit  […]",
@@ -220,16 +235,6 @@
             "type": "video/mp4"
           },
           "imageUrl": "https://cgbox.jp/wp-content/uploads/2026/08/image_processing20260818-2-73suuk.jpg"
-        },
-        {
-          "id": "https://cgbox.jp/?p=65577",
-          "author": "kasahara",
-          "description": "こちらの記事はプロモーションを含みます。 2026年8月16日（日）～9月16日（水）までXPPenの公式ストアで1か月の21周年セール開催中！ 今までCGbox内で紹介した液タブ・板タブも一部セール対象になっております […]",
-          "link": "https://cgbox.jp/2026/08/17/xppen-21yearsale/",
-          "publishedOn": "2026-08-17T08:00:00.000Z",
-          "wordCount": 2936,
-          "title": "【XPPen】21周年記念セール開始！CGbox編集部がレビューした商品まとめ",
-          "imageUrl": "https://cgbox.jp/wp-content/uploads/2026/08/e825b25f06eca43d255f006cf9df9208.jpg"
         }
       ]
     },
@@ -244,6 +249,51 @@
       "feedUrl": "https://3dnchu.com/feed/",
       "siteUrl": "https://3dnchu.com",
       "articles": [
+        {
+          "id": "https://3dnchu.com/?p=1068439",
+          "author": "Ymt3D -3dnchu-",
+          "description": "Carnegie Mellon UniversityのYu-Rou Tuan氏らによって発表された、1枚の画像から生成されたパーツ単位の3Dモデルを、実際に組み立て可能な形状へ変換する研究技術「SNAP3D: Physically Grounded 3D Parts for Assembly fro […]\n続きを読む",
+          "link": "https://3dnchu.com/archives/snap3d/",
+          "publishedOn": "2026-09-15T23:43:27.000Z",
+          "wordCount": 7847,
+          "title": "SNAP3D | 1枚の画像からスナップ接続可能な分割3Dモデルを生成！物理シミュレーションで組み立て可能な形状へ最適化する研究技術！",
+          "enclosure": {
+            "url": "https://3dnchu.com/wp-content/uploads/SNAP3D.webp",
+            "length": "1725284",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://3dnchu.com/wp-content/uploads/SNAP3D.webp"
+        },
+        {
+          "id": "https://3dnchu.com/?p=1068426",
+          "author": "Ymt3D -3dnchu-",
+          "description": "Imperial College Londonの研究チームが、UV展開を使わず3Dモデルの表面へ直接テクスチャを表現する新手法「Heat Kernel Textures（HKTex）」を発表しました。ECCV 2026 Best Paper Awardを受賞しています。 Heat Kernel Te […]\n続きを読む",
+          "link": "https://3dnchu.com/archives/heat-kernel-textures/",
+          "publishedOn": "2026-09-15T21:35:45.000Z",
+          "wordCount": 7678,
+          "title": "Heat Kernel Textures | UV展開不要！3D Gaussian Splattingの考え方を応用しメッシュ表面へ直接テクスチャを表現する新手法！ECCV 2026 Best Paper Award受賞！",
+          "enclosure": {
+            "url": "https://3dnchu.com/wp-content/uploads/Heat-Kernel-Textures.mp4",
+            "length": "831013",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://3dnchu.com/wp-content/uploads/Heat-Kernel-Textures.webp"
+        },
+        {
+          "id": "https://3dnchu.com/?p=1068413",
+          "author": "Ymt3D -3dnchu-",
+          "description": "CGElementary（Morteza Ahmadi氏）によるMaya向けの本格GPUスカルプトツール「CGE Sculpting Tool for Maya」がリリースされました！ CGE Sculpting Tool for Maya この15年間、私はMaya用のツールを開発してきました。約 […]\n続きを読む",
+          "link": "https://3dnchu.com/archives/cge-sculpting-tool-for-maya/",
+          "publishedOn": "2026-09-15T21:08:27.000Z",
+          "wordCount": 7692,
+          "title": "CGE Sculpting Tool for Maya | 本格的なGPUベースのスカルプティング機能をMaya上で実現するツールがリリース！数百万個のポリゴンを処理可能！マルチ解像度対応！",
+          "enclosure": {
+            "url": "https://3dnchu.com/wp-content/uploads/CGE-Sculpting-Tool-for-Maya.mp4",
+            "length": "50609678",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://3dnchu.com/wp-content/uploads/CGE-Sculpting-Tool-for-Maya.webp"
+        },
         {
           "id": "https://3dnchu.com/?p=1068403",
           "author": "Ymt3D -3dnchu-",
@@ -1293,21 +1343,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "https://3dnchu.com/wp-content/uploads/how-i-make-stylized-materials-in.jpg"
-        },
-        {
-          "id": "https://3dnchu.com/?p=1067282",
-          "author": "Ymt3D -3dnchu-",
-          "description": "shintaro（@nobutaro_L）氏が開発した、**プロジェクションマッピング＆VJ向けの国産映像ソフト「Ex Mapper」**が公開されています！現在無料でダウンロード可能！ Ex Mapper Ex Mapperは、プロジェクションマッピングやVJなど、ライブでの映像演出を目的として開 […]\n続きを読む",
-          "link": "https://3dnchu.com/archives/ex-mapper/",
-          "publishedOn": "2026-08-17T12:43:09.000Z",
-          "wordCount": 7637,
-          "title": "Ex Mapper | 国産のプロジェクションマッピング＆VJソフトが登場！現在無料で入手可能！",
-          "enclosure": {
-            "url": "https://3dnchu.com/wp-content/uploads/Ex-Mapper.mp4",
-            "length": "5553711",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://3dnchu.com/wp-content/uploads/Ex-Mapper.jpg"
         }
       ]
     },
@@ -1316,6 +1351,16 @@
       "feedUrl": "https://cgworld.jp/atom.xml",
       "siteUrl": "https://cgworld.jp/",
       "articles": [
+        {
+          "id": "https://cgworld.jp/flashnews/01-202609-ZBrush-Stylized.html",
+          "author": null,
+          "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
+          "link": "https://cgworld.jp/flashnews/01-202609-ZBrush-Stylized.html",
+          "publishedOn": "2026-09-15T23:34:17.000Z",
+          "wordCount": 761,
+          "title": "Maxon、Shane Olson氏によるZBrushライブ動画を公開　スタイライズド3Dキャラのブロックアウトから3Dプリントまで - ニュース",
+          "imageUrl": "https://cgworld.jp/flashnews/assets_c/2026/09/ZBrush_Stylized-01-thumb-1920x1080-88925.jpg"
+        },
         {
           "id": "https://cgworld.jp/article/-mvmorie-inc.html",
           "author": null,
@@ -2812,6 +2857,21 @@
       "siteUrl": "https://zenn.dev/topics/shader",
       "articles": [
         {
+          "id": "https://zenn.dev/gamedev_toollab/articles/924c0340b027e9",
+          "author": "GameDev Tool Lab",
+          "description": "はじめに\n敵が燃えるように消える。バリアと地面の接点が光る。熱源の向こうの景色が揺れる。\nこうした表現は、複雑な画像を用意することよりも、**「何を基準に、どの部分を変えるか」**を決めるところから作れます。\nこの記事では、Unity 6.3のURPとShader Graphを使い、見た目も仕組みも異なる6つの表現を組み立てます。編集可能なGraphと再利用用Prefabを含むサンプルを公開しました。まずは6作例をまとめた動画です。\nhttps://www.youtube.com/watch?v=Xxcu5r0s7iY\n\n\n\n作例\n完成イメージ\n中心になる考え方\n\n\n\n\n01 発光デ...",
+          "link": "https://zenn.dev/gamedev_toollab/articles/924c0340b027e9",
+          "publishedOn": "2026-09-16T01:00:07.000Z",
+          "wordCount": 4014,
+          "title": "Unity 6.3 Shader Graphで作る、ゲームに持ち込みたくなる表現6選",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--oeLPEZYl--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Unity%25206.3%2520Shader%2520Graph%25E3%2581%25A7%25E4%25BD%259C%25E3%2582%258B%25E3%2580%2581%25E3%2582%25B2%25E3%2583%25BC%25E3%2583%25A0%25E3%2581%25AB%25E6%258C%2581%25E3%2581%25A1%25E8%25BE%25BC%25E3%2581%25BF%25E3%2581%259F%25E3%2581%258F%25E3%2581%25AA%25E3%2582%258B%25E8%25A1%25A8%25E7%258F%25BE6%25E9%2581%25B8%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:GameDev%2520Tool%2520Lab%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2Y2ZTkzMTA1NzcuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+            "length": "0",
+            "type": "false"
+          },
+          "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--oeLPEZYl--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Unity%25206.3%2520Shader%2520Graph%25E3%2581%25A7%25E4%25BD%259C%25E3%2582%258B%25E3%2580%2581%25E3%2582%25B2%25E3%2583%25BC%25E3%2583%25A0%25E3%2581%25AB%25E6%258C%2581%25E3%2581%25A1%25E8%25BE%25BC%25E3%2581%25BF%25E3%2581%259F%25E3%2581%258F%25E3%2581%25AA%25E3%2582%258B%25E8%25A1%25A8%25E7%258F%25BE6%25E9%2581%25B8%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:GameDev%2520Tool%2520Lab%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2Y2ZTkzMTA1NzcuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+        },
+        {
           "id": "https://zenn.dev/hiro5/articles/web-ni-kawa-wo-tsukutte-mita",
           "author": "HIRO5",
           "description": "🖋️ 作りたい　うぇぶに川を　作りたい (川柳）\n毎日毎日、AIの返答、コード、AIの返答、AIの返答を見る。なんというか、その文字に目の焦点を合わせて意味をよみとらないと事が進まないみたいな、そういうことがすごく短いスパンで発生するので非常に辛い。以前ならもう少し時間を取って、頭の中で論理を積み上げて言語化すればよかったみたいなことが、論理の積み上げと情報収集の部分をほぼAIにアウトソースすることで、その時間と労力は短縮、しかし、その検証のために自分の方でうっすらと積み上げた論理や仮説と照らし合わせる、で、「OK」かもう一回打ち合わせるか、みたいなことが次々に押し寄せている。急にエ...",
@@ -2930,6 +2990,21 @@
       "feedUrl": "https://zenn.dev/topics/shadergraph/feed",
       "siteUrl": "https://zenn.dev/topics/shadergraph",
       "articles": [
+        {
+          "id": "https://zenn.dev/gamedev_toollab/articles/924c0340b027e9",
+          "author": "GameDev Tool Lab",
+          "description": "はじめに\n敵が燃えるように消える。バリアと地面の接点が光る。熱源の向こうの景色が揺れる。\nこうした表現は、複雑な画像を用意することよりも、**「何を基準に、どの部分を変えるか」**を決めるところから作れます。\nこの記事では、Unity 6.3のURPとShader Graphを使い、見た目も仕組みも異なる6つの表現を組み立てます。編集可能なGraphと再利用用Prefabを含むサンプルを公開しました。まずは6作例をまとめた動画です。\nhttps://www.youtube.com/watch?v=Xxcu5r0s7iY\n\n\n\n作例\n完成イメージ\n中心になる考え方\n\n\n\n\n01 発光デ...",
+          "link": "https://zenn.dev/gamedev_toollab/articles/924c0340b027e9",
+          "publishedOn": "2026-09-16T01:00:07.000Z",
+          "wordCount": 4014,
+          "title": "Unity 6.3 Shader Graphで作る、ゲームに持ち込みたくなる表現6選",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--oeLPEZYl--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Unity%25206.3%2520Shader%2520Graph%25E3%2581%25A7%25E4%25BD%259C%25E3%2582%258B%25E3%2580%2581%25E3%2582%25B2%25E3%2583%25BC%25E3%2583%25A0%25E3%2581%25AB%25E6%258C%2581%25E3%2581%25A1%25E8%25BE%25BC%25E3%2581%25BF%25E3%2581%259F%25E3%2581%258F%25E3%2581%25AA%25E3%2582%258B%25E8%25A1%25A8%25E7%258F%25BE6%25E9%2581%25B8%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:GameDev%2520Tool%2520Lab%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2Y2ZTkzMTA1NzcuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+            "length": "0",
+            "type": "false"
+          },
+          "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--oeLPEZYl--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Unity%25206.3%2520Shader%2520Graph%25E3%2581%25A7%25E4%25BD%259C%25E3%2582%258B%25E3%2580%2581%25E3%2582%25B2%25E3%2583%25BC%25E3%2583%25A0%25E3%2581%25AB%25E6%258C%2581%25E3%2581%25A1%25E8%25BE%25BC%25E3%2581%25BF%25E3%2581%259F%25E3%2581%258F%25E3%2581%25AA%25E3%2582%258B%25E8%25A1%25A8%25E7%258F%25BE6%25E9%2581%25B8%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:GameDev%2520Tool%2520Lab%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2Y2ZTkzMTA1NzcuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+        },
         {
           "id": "https://zenn.dev/gamedev_toollab/articles/3255ea6d473453",
           "author": "GameDev Tool Lab",
@@ -3276,18 +3351,7 @@
       "title": "mayaタグが付けられた新着記事 - Qiita",
       "feedUrl": "https://qiita.com/tags/maya/feed",
       "siteUrl": "https://qiita.com",
-      "articles": [
-        {
-          "id": "https://qiita.com/mochinekoo/items/3a0d4afafb12da9df225",
-          "author": null,
-          "description": "はじめに\nこの記事は学生が書いており、エンジニア向けに書いている記事です。CGを詳しくやりたい方は、詳しい方の記事を見ることをお勧めします。\n\n概要\nゲームエンジンなどを開発すると、テスト用の3DCGが必要になってきます。ですが、ライセンスの面を考えると、(おそらく) 自...",
-          "link": "https://qiita.com/mochinekoo/items/3a0d4afafb12da9df225",
-          "publishedOn": "2026-08-17T12:11:49.000Z",
-          "wordCount": 863,
-          "title": "Mayaでテクスチャを貼るには？",
-          "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRmF2YXRhcnMuZ2l0aHVidXNlcmNvbnRlbnQuY29tJTJGdSUyRjI0MjkwNDgyMSUzRnYlM0Q0P2l4bGliPXJiLTQuMS4xJmFyPTElM0ExJmZpdD1jcm9wJm1hc2s9ZWxsaXBzZSZiZz1GRkZGRkYmZm09cG5nMzImcz05ZDVlYWI3ZTA2YmUwZmVlN2NiNTZkOGY3ZmYxYTY0NQ%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D00441ec2d0e133bec9d9b985069b96b1?ixlib=rb-4.1.1&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9TWF5YSVFMyU4MSVBNyVFMyU4MyU4NiVFMyU4MiVBRiVFMyU4MiVCOSVFMyU4MyU4MSVFMyU4MyVBMyVFMyU4MiU5MiVFOCVCMiVCQyVFMyU4MiU4QiVFMyU4MSVBQiVFMyU4MSVBRiVFRiVCQyU5RiZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnR4dC1wYWQ9MCZzPTJjYTM4ODc0NjdmMWVhMjRmNjBkYWMzMWY4YmU2YjQ3&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBtb2NoaW5la29vJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9MTc3YjkzNTQ5MDQ2MzE1MzhlY2M1Y2MyYmU3ZDYwOWY&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=ec0d0aef5a70f091c72f7e09963d96df"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Zennの「substancepainter」のフィード",
@@ -3501,16 +3565,6 @@
           "wordCount": 1321,
           "title": "Computer graphics pipelines summary",
           "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRmF2YXRhcnMzLmdpdGh1YnVzZXJjb250ZW50LmNvbSUyRnUlMkY0OTA1MzY0OSUzRnYlM0Q0P2l4bGliPXJiLTQuMS4xJmFyPTElM0ExJmZpdD1jcm9wJm1hc2s9ZWxsaXBzZSZiZz1GRkZGRkYmZm09cG5nMzImcz01YmQ4OGI1NTEzNGM5NGQ1OTc4MDBiM2NlYzliMTMxOA%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D311b9d5eecc9d9ec1e9213d1686b1dd3?ixlib=rb-4.1.1&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9Q29tcHV0ZXIlMjBncmFwaGljcyUyMHBpcGVsaW5lcyUyMHN1bW1hcnkmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz1hZDBlZGQ0NjMwOWEyNTU0YTU2M2U0ZTc5YTNhYWQ4Zg&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBrYW50YV95YW1hb2thJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9ZGJjZTUyM2UzODI5YTc2NGMzYzQ0OWIzYTBhOWEyOGI&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=f3ce9ff5312b87bf33446d8cd68e8f83"
-        },
-        {
-          "id": "https://qiita.com/mochinekoo/items/3a0d4afafb12da9df225",
-          "author": null,
-          "description": "はじめに\nこの記事は学生が書いており、エンジニア向けに書いている記事です。CGを詳しくやりたい方は、詳しい方の記事を見ることをお勧めします。\n\n概要\nゲームエンジンなどを開発すると、テスト用の3DCGが必要になってきます。ですが、ライセンスの面を考えると、(おそらく) 自...",
-          "link": "https://qiita.com/mochinekoo/items/3a0d4afafb12da9df225",
-          "publishedOn": "2026-08-17T12:11:49.000Z",
-          "wordCount": 863,
-          "title": "Mayaでテクスチャを貼るには？",
-          "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRmF2YXRhcnMuZ2l0aHVidXNlcmNvbnRlbnQuY29tJTJGdSUyRjI0MjkwNDgyMSUzRnYlM0Q0P2l4bGliPXJiLTQuMS4xJmFyPTElM0ExJmZpdD1jcm9wJm1hc2s9ZWxsaXBzZSZiZz1GRkZGRkYmZm09cG5nMzImcz05ZDVlYWI3ZTA2YmUwZmVlN2NiNTZkOGY3ZmYxYTY0NQ%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D00441ec2d0e133bec9d9b985069b96b1?ixlib=rb-4.1.1&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9TWF5YSVFMyU4MSVBNyVFMyU4MyU4NiVFMyU4MiVBRiVFMyU4MiVCOSVFMyU4MyU4MSVFMyU4MyVBMyVFMyU4MiU5MiVFOCVCMiVCQyVFMyU4MiU4QiVFMyU4MSVBQiVFMyU4MSVBRiVFRiVCQyU5RiZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnR4dC1wYWQ9MCZzPTJjYTM4ODc0NjdmMWVhMjRmNjBkYWMzMWY4YmU2YjQ3&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBtb2NoaW5la29vJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9MTc3YjkzNTQ5MDQ2MzE1MzhlY2M1Y2MyYmU3ZDYwOWY&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=ec0d0aef5a70f091c72f7e09963d96df"
         }
       ]
     },
@@ -4553,21 +4607,6 @@
           "wordCount": 3006,
           "title": "3D生成AIモデル「Meshy 7」がリリース！3D形状の一致精度が大幅向上",
           "imageUrl": "https://cginterest.com/wp-content/uploads/2026/08/meshy7.webp"
-        },
-        {
-          "id": "https://cginterest.com/?p=61723",
-          "author": ".me",
-          "description": "2026年8月13日（現地時間） – CLO Virtual Fashionは、新バージョン「2026.1」を発表しました。 主な新機能 CLO 2026.1では、表現力の向上と作業効率化を両立する新機能が多 […]",
-          "link": "https://cginterest.com/2026/08/17/3d%e8%a1%a3%e8%a3%85%e4%bd%9c%e6%88%90%e3%82%bd%e3%83%95%e3%83%88clo-2026-1%e3%81%8c%e3%83%aa%e3%83%aa%e3%83%bc%e3%82%b9%ef%bc%81%e5%bc%95%e3%81%8d%e8%a3%82%e3%81%8d%e3%83%bb%e3%81%bb%e3%81%a4/",
-          "publishedOn": "2026-08-17T07:04:45.000Z",
-          "wordCount": 2794,
-          "title": "3D衣装作成ソフトCLO 2026.1がリリース！引き裂き・ほつれ表現やニットデザインの強化、UI刷新など",
-          "enclosure": {
-            "url": "https://cginterest.com/wp-content/uploads/2026/08/Clo2026-1-RippingTearing21.mp4",
-            "length": "532721",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://cginterest.com/wp-content/uploads/2026/08/CLO2026_1.webp"
         }
       ]
     }

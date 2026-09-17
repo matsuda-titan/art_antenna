@@ -2,10 +2,69 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-16T15:44:47.066Z</updated>
+    <updated>2026-09-17T02:21:18.792Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[実写動画1本からVRMを踊らせる ── 推定後に残る足・腕・指の破綻を直す]]></title>
+        <id>https://qiita.com/orca-forge/items/5be6a694d8863c4b1ea3</id>
+        <link href="https://qiita.com/orca-forge/items/5be6a694d8863c4b1ea3"/>
+        <updated>2026-09-17T00:22:04.000Z</updated>
+        <summary type="html"><![CDATA[📝 この記事は forge.workstyle.tech に掲載した記事の転載です。
+
+実写動画1本からVRMキャラクターを踊らせるパイプラインを作っています。ところが、推定した動きをキャラクターへ写すと、足が床を突き抜け、腕が体にめり込み、親指が人差し指を貫通しました。...]]></summary>
+        <author>
+            <name>3DCGタグが付けられた新着記事 - Qiita</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Epic Games、Unreal Engine 5におけるリアルタイムアニメーションワークフローの解説動画を公開　Unreal Fest Chicago 2026でのAgora Studioの講演 - ニュース]]></title>
+        <id>https://cgworld.jp/flashnews/01-202609-UE5-RealTimeAnim.html</id>
+        <link href="https://cgworld.jp/flashnews/01-202609-UE5-RealTimeAnim.html"/>
+        <updated>2026-09-16T23:17:43.000Z</updated>
+        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SDF コーントレースによりできた縞模様というか波紋というかをなくす方法]]></title>
+        <id>https://zenn.dev/kkkjp/articles/a168da4a4567ed</id>
+        <link href="https://zenn.dev/kkkjp/articles/a168da4a4567ed"/>
+        <updated>2026-09-16T19:02:39.000Z</updated>
+        <summary type="html"><![CDATA[床に水面のような波紋が出る — SDF コーントレースの「歩幅」が縞を作っていた話
+SDF（符号付き距離関数）でシーンの形を持っておいて、そこにレイを飛ばして「この点からどれくらい空が見えているか」を測る、という遮蔽計算をしています。自分の実装では、IBL の映り込みに掛けるためのものです。
+これが、壁際の箱を床すれすれの浅い角度から眺めたときだけ、床に水面のような同心円状の波紋を描くという症状を出しました。箱を中心にして、等間隔の輪が外へ広がっていく見た目です。
+
+箱を中心に、等間隔の輪が床へ広がっていく
+遮蔽の計算そのものは Inigo Quilez のソフトシャドウの記事を下敷...]]></summary>
+        <author>
+            <name>KONO〇</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ragdoll for Web | 物理シミュレーションで人形のようにキャラクターを動かしてポーズを作れる無料Webツール！Ragdoll Dynamicsが公開！]]></title>
+        <id>https://3dnchu.com/?p=1068470</id>
+        <link href="https://3dnchu.com/archives/ragdoll-for-web/"/>
+        <updated>2026-09-16T18:21:57.000Z</updated>
+        <summary type="html"><![CDATA[Ragdoll Dynamicsは、物理ベースのキャラクターアニメーションツール「Ragdoll」をWebブラウザ上から利用できる「Ragdoll for Web」を公開しました。 Ragdoll for Web Ragdoll for Web Ragdollは、Ragdoll Dynamicsが開 […]
+続きを読む]]></summary>
+        <author>
+            <name>Ymt3D -3dnchu-</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OVERGROWN Teaser | Blender Studioが手掛ける長編映画プロジェクトの最新ティザーが公開！ガッシュ画風タッチにも注目！]]></title>
+        <id>https://3dnchu.com/?p=1068459</id>
+        <link href="https://3dnchu.com/archives/overgrown-teaser/"/>
+        <updated>2026-09-16T17:21:32.000Z</updated>
+        <summary type="html"><![CDATA[Blender Studioが現在制作中の短編映画『OVERGROWN』のティザートレーラーが公開！Blenderを使用し絵画的なNPRの探求した作品となっております。 OVERGROWN – Blender短編映画（ティザー） このティーザーは、主人公であるアライグマのパパとハリネズミ […]
+続きを読む]]></summary>
+        <author>
+            <name>Ymt3D -3dnchu-</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[HoudiniでAPEXを学習したまとめ]]></title>
         <id>https://note.com/oja_bitterlife/n/nc7ba025783c4</id>
@@ -4184,74 +4243,6 @@ d^*(u,v)
 To understand global illumination, I need to know the local illumination, with direct piont light refl...]]></summary>
         <author>
             <name>CGタグが付けられた新着記事 - Qiita</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3D生成AIモデル「Meshy 7」がリリース！3D形状の一致精度が大幅向上]]></title>
-        <id>https://cginterest.com/?p=61748</id>
-        <link href="https://cginterest.com/2026/08/18/3d%e7%94%9f%e6%88%90ai%e3%83%a2%e3%83%87%e3%83%ab%e3%80%8cmeshy-7%e3%80%8d%e3%81%8c%e3%83%aa%e3%83%aa%e3%83%bc%e3%82%b9%ef%bc%813d%e5%bd%a2%e7%8a%b6%e3%81%ae%e4%b8%80%e8%87%b4%e7%b2%be%e5%ba%a6/"/>
-        <updated>2026-08-18T11:35:31.000Z</updated>
-        <summary type="html"><![CDATA[2026年8月12日（現地時間）- 3D生成AIツールを手がけるMeshyは、画像から3Dモデルを生成する最新の生成AIモデル「Meshy 7」を発表しました。 Meshy 7とは Meshy 7は、入力画像から高精度 […]]]></summary>
-        <author>
-            <name>.me</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[トリムシート制作パート③～完成編～]]></title>
-        <id>https://3d.crdg.jp/env/?p=10228</id>
-        <link href="https://3d.crdg.jp/env/2026/08/18/10228/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=%25e3%2583%2588%25e3%2583%25aa%25e3%2583%25a0%25e3%2582%25b7%25e3%2583%25bc%25e3%2583%2588%25e5%2588%25b6%25e4%25bd%259c%25e3%2583%2591%25e3%2583%25bc%25e3%2583%2588%25e2%2591%25a2%25ef%25bd%259e%25e5%25ae%258c%25e6%2588%2590%25e7%25b7%25a8%25ef%25bd%259e"/>
-        <updated>2026-08-18T10:41:06.000Z</updated>
-        <summary type="html"><![CDATA[今回は、UV展開と、UEのインポートについてご紹介していきます。 前回の記事はこちらになります。https://3d.crdg.jp/env/2026 […]
-続きを読む
-投稿 トリムシート制作パート③～完成編～ は エンホリ - ENVIRONMENT HOLIC｜C&R Creative Studios に最初に表示されました。]]></summary>
-        <author>
-            <name>Akito.Yamakawa</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Computer graphics pipelines summary]]></title>
-        <id>https://qiita.com/kanta_yamaoka/items/4883bf8a744387ceddf4</id>
-        <link href="https://qiita.com/kanta_yamaoka/items/4883bf8a744387ceddf4"/>
-        <updated>2026-08-18T09:30:21.000Z</updated>
-        <summary type="html"><![CDATA[バックグラウンドの座標系の概要を把握することが必要。
-
-大まかにはVertex Stream -> Fragment Stream
-具体的には object space -> [model view matrix] ->   view space [Projection m...]]></summary>
-        <author>
-            <name>CGタグが付けられた新着記事 - Qiita</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[XPPen Artist 16 3rd Review | XPPen 21周年記念！公式サイトで4万円台の15.4インチ液タブ！16K筆圧のX4ペン＆X-Dial搭載で液タブ入門にも良さそうな1台を使ってみた！]]></title>
-        <id>https://3dnchu.com/?p=1064549</id>
-        <link href="https://3dnchu.com/archives/xppen-artist-16-3rd-review/"/>
-        <updated>2026-08-18T08:46:57.000Z</updated>
-        <summary type="html"><![CDATA[XPPenから登場した15.4インチ液晶ペンタブレット「Artist 16 3rd」をご提供いただきましたのでレビュー！16,384段階の筆圧感知に対応した新しいX4スマートチップスタイラスや、本体一体型のX-Dial＆ショートカットキーを搭載しつつ、価格は49,980円（周年記念期間中 8月16日 […]
-続きを読む]]></summary>
-        <author>
-            <name>Ymt3D -3dnchu-</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【アニメ制作の裏側】キャラクターに命を吹き込む「リガー」とは？知られざる職人の仕事に密着取材【6HP】 | 『6HP（シックスハートプリンセス）』の制作現場から「リガー」の仕事に密着した映像が公開！]]></title>
-        <id>https://3dnchu.com/?p=1067294</id>
-        <link href="https://3dnchu.com/archives/6hp-rigger-making/"/>
-        <updated>2026-08-18T08:24:40.000Z</updated>
-        <summary type="html"><![CDATA[魔法少女アニメ『6HP（シックスハートプリンセス）』の制作現場から、3DCGキャラクターを動かす仕組みを構築する「リガー」の仕事に密着した映像「カイカイキキの日常」チャンネルにて公開！ 【アニメ制作の裏側】キャラクターに命を吹き込む「リガー」とは？『6HP』制作現場に密着！ 村上隆が監督を務め、10 […]
-続きを読む]]></summary>
-        <author>
-            <name>Ymt3D -3dnchu-</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Simple Sculpt Layers Plus – Blenderでスカルプトをレイヤー分けして非破壊編集やGeometry Nodesで模様や凹凸も作成できるアドオン]]></title>
-        <id>https://modelinghappy.com/?p=70006</id>
-        <link href="https://modelinghappy.com/archives/70006"/>
-        <updated>2026-08-18T04:00:25.000Z</updated>
-        <summary type="html"><![CDATA[Simple Sculpt Layers Plus Simple Sculpt Layers Plusは、Blenderのスカルプト作業を複数のレイヤーに分けて管理できるアドオンです。ジオメトリーノードを使用したスカルプ
-The post Simple Sculpt Layers Plus – Blenderでスカルプトをレイヤー分けして非破壊編集やGeometry Nodesで模様や凹凸も作成できるアドオン first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
-        <author>
-            <name>modelinghappy</name>
         </author>
     </entry>
 </feed>

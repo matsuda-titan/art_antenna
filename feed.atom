@@ -2,10 +2,83 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-17T15:51:23.534Z</updated>
+    <updated>2026-09-18T02:06:50.740Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[腕のめり込み補正が前後に跳ねる ── 動的計画法で逃がす方向を決める]]></title>
+        <id>https://qiita.com/orca-forge/items/fa6d053878c479156bfa</id>
+        <link href="https://qiita.com/orca-forge/items/fa6d053878c479156bfa"/>
+        <updated>2026-09-18T01:00:26.000Z</updated>
+        <summary type="html"><![CDATA[📝 この記事は forge.workstyle.tech に掲載した記事の転載です。
+
+背中で手を組んで静止しているはずのキャラクターが、右手を前へ17cm、後ろ上へ15cm、また前へ17cmと動かしました。腕のめり込みを直す処理が、腕を跳ねさせていたのです。
+前腕を後ろ...]]></summary>
+        <author>
+            <name>3DCGタグが付けられた新着記事 - Qiita</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[腕のめり込み補正が前後に跳ねる ── 動的計画法で逃がす方向を決める]]></title>
+        <id>https://qiita.com/orca-forge/items/99d5f0abd0a1c2b30c2d</id>
+        <link href="https://qiita.com/orca-forge/items/99d5f0abd0a1c2b30c2d"/>
+        <updated>2026-09-18T01:00:25.000Z</updated>
+        <summary type="html"><![CDATA[📝 この記事は forge.workstyle.tech に掲載した記事の転載です。
+
+背中で手を組んで静止しているはずのキャラクターが、右手を前へ17cm、後ろ上へ15cm、また前へ17cmと動かしました。腕のめり込みを直す処理が、腕を跳ねさせていたのです。
+前腕を後ろ...]]></summary>
+        <author>
+            <name>3DCGタグが付けられた新着記事 - Qiita</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[脚を1%縮めたら膝が16°曲がった ── VRMの接地補正で踏んだ罠]]></title>
+        <id>https://qiita.com/orca-forge/items/102b2eff0149b0af43e2</id>
+        <link href="https://qiita.com/orca-forge/items/102b2eff0149b0af43e2"/>
+        <updated>2026-09-18T00:28:43.000Z</updated>
+        <summary type="html"><![CDATA[📝 この記事は forge.workstyle.tech に掲載した記事の転載です。
+
+推定した演者の動きをキャラクターへ写すリターゲット（演者の動きを別の体格のキャラクターへ写す処理）の直後、遊脚が床を148mm突き抜けていました。接地を直そうとして脚の到達距離に1%の...]]></summary>
+        <author>
+            <name>3DCGタグが付けられた新着記事 - Qiita</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[頭と胸の角度差が全フレーム0.000°──モーション計測が壊れていた話]]></title>
+        <id>https://qiita.com/orca-forge/items/82d102f1bc54ea282e8d</id>
+        <link href="https://qiita.com/orca-forge/items/82d102f1bc54ea282e8d"/>
+        <updated>2026-09-18T00:28:40.000Z</updated>
+        <summary type="html"><![CDATA[📝 この記事は forge.workstyle.tech に掲載した記事の転載です。
+
+キャラクターの頭が、体をひねるたびに一緒に振られる。頭と胸の角度差を測ると、全フレームで0.000°でした。原因に気づくまで、頭の向け方を下流で3回作り直しています。
+原因は、計測に使...]]></summary>
+        <author>
+            <name>3DCGタグが付けられた新着記事 - Qiita</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[無料のMaya用アニメーションツールキット「Animo V10.0」公開　ミラーポーズやカメラ空間アークトラッカー追加 - ニュース]]></title>
+        <id>https://cgworld.jp/flashnews/01-202609-Animo.html</id>
+        <link href="https://cgworld.jp/flashnews/01-202609-Animo.html"/>
+        <updated>2026-09-17T22:42:08.000Z</updated>
+        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【DirectX11】【HLSL】DeferredRenderingを実装しよう! 【実装編】]]></title>
+        <id>https://qiita.com/tsukino_/items/181a870bb3bab7075538</id>
+        <link href="https://qiita.com/tsukino_/items/181a870bb3bab7075538"/>
+        <updated>2026-09-17T19:45:58.000Z</updated>
+        <summary type="html"><![CDATA[前回の理論編では、ForwardRenderingの限界と、それを解決するDeferredRenderingの考え方、G-Bufferという概念について紹介しました。
+
+本記事では実装編として、実際に動いている自作エンジンTsukinoEngine（DirectX11 ...]]></summary>
+        <author>
+            <name>HLSLタグが付けられた新着記事 - Qiita</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[キヤノン「Dual Pixel 3D Converter」発表！EOS Rで撮影した1枚の写真から3Dモデルを生成できるWindowsアプリがリリース予定]]></title>
         <id>https://modelinghappy.com/?p=70564</id>
@@ -4150,121 +4223,6 @@ The post Smooth Weights 2 for Maya – Mayaのスキンウェイトを滑らか�
         <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
         <author>
             <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Smart Remesh – Blenderで形状を保ちながらポリゴン数を大幅削減できるリメッシュアドオン]]></title>
-        <id>https://modelinghappy.com/?p=70024</id>
-        <link href="https://modelinghappy.com/archives/70024"/>
-        <updated>2026-08-19T13:31:51.000Z</updated>
-        <summary type="html"><![CDATA[Smart Remesh Smart Remeshは、Blenderで複雑なモデルの形状をできるだけ維持しながら、ポリゴン数を減らして扱いやすいメッシュへ作り直せるリメッシュアドオンです。平面パネルをきれいなN角形として
-The post Smart Remesh – Blenderで形状を保ちながらポリゴン数を大幅削減できるリメッシュアドオン first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
-        <author>
-            <name>modelinghappy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【Unreal Engine】モデルを撮影しよう！③～ライティング・モデル撮影編～]]></title>
-        <id>https://3d.crdg.jp/env/?p=10117</id>
-        <link href="https://3d.crdg.jp/env/2026/08/19/10117/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=%25e3%2580%2590unreal-engine%25e3%2580%2591%25e3%2583%25a2%25e3%2583%2587%25e3%2583%25ab%25e3%2582%2592%25e6%2592%25ae%25e5%25bd%25b1%25e3%2581%2597%25e3%2582%2588%25e3%2581%2586%25ef%25bc%2581%25e2%2591%25a2%25ef%25bd%259e%25e3%2583%25a9%25e3%2582%25a4%25e3%2583%2586%25e3%2582%25a3%25e3%2583%25b3%25e3%2582%25b0"/>
-        <updated>2026-08-19T12:01:06.000Z</updated>
-        <summary type="html"><![CDATA[前回の記事「【Unreal Engine】モデルを撮影しよう！②～マテリアル設定編～」の続きになります！第3弾となる今回は、UE5でのライティング設定 […]
-続きを読む
-投稿 【Unreal Engine】モデルを撮影しよう！③～ライティング・モデル撮影編～ は エンホリ - ENVIRONMENT HOLIC｜C&R Creative Studios に最初に表示されました。]]></summary>
-        <author>
-            <name>Hiroto.Ishii</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ブラックホールはどう描かれる？光線追跡で作る Schwarzschild Black Hole]]></title>
-        <id>https://zenn.dev/makarov/articles/a63340d91e8998</id>
-        <link href="https://zenn.dev/makarov/articles/a63340d91e8998"/>
-        <updated>2026-08-19T10:20:28.000Z</updated>
-        <summary type="html"><![CDATA[これは私の Black Hole モジュールの動画です。ここでは、ブラックホールはあらかじめ描かれたものではなく、きれいなテクスチャを貼った普通の 3D オブジェクトとして作られているわけでもありません。画像はプログラムの実行中にその場で組み立てられます。各ピクセルについて、カメラが光線を宇宙空間へ逆向きに飛ばし、その光がどこから来たのかを調べるような計算を行います。
-https://www.youtube.com/watch?v=eyz4hqEEh5I
-普通のシーンなら、その光線はまっすぐ進みます。しかしブラックホールの近くでは時空が強く曲がっているため、光の軌道も曲がります。このモジ...]]></summary>
-        <author>
-            <name>Makarov</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Shading techniques - Phong/flat/Gourand shading]]></title>
-        <id>https://qiita.com/kanta_yamaoka/items/d286125d84fbc62231b4</id>
-        <link href="https://qiita.com/kanta_yamaoka/items/d286125d84fbc62231b4"/>
-        <updated>2026-08-19T09:42:22.000Z</updated>
-        <summary type="html"><![CDATA[different strategies used to compute the lighting. difference comes in interpolation of colors and normals. One of them do not even inter...]]></summary>
-        <author>
-            <name>Shaderタグが付けられた新着記事 - Qiita</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Comfy-Org、ローカル環境対応の「Comfy MCP」を公開！AIエージェントからローカルComfyUIを直接操作可能に]]></title>
-        <id>https://cginterest.com/?p=61772</id>
-        <link href="https://cginterest.com/2026/08/19/comfy-org%e3%80%81%e3%83%ad%e3%83%bc%e3%82%ab%e3%83%ab%e7%92%b0%e5%a2%83%e5%af%be%e5%bf%9c%e3%81%ae%e3%80%8ccomfy-mcp%e3%80%8d%e3%82%92%e5%85%ac%e9%96%8b%ef%bc%81ai%e3%82%a8%e3%83%bc%e3%82%b8%e3%82%a7/"/>
-        <updated>2026-08-19T09:01:25.000Z</updated>
-        <summary type="html"><![CDATA[2026年8月19日（現地時間）- Comfy-Orgは、ユーザーのローカル環境で動作するComfyUIと各種AIエージェントを直接接続し、ワークフローの自動構築や実行を行える公式MCPサーバー「Comfy MCP」のロ […]]]></summary>
-        <author>
-            <name>.me</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LTX、オープンウェイト動画生成モデル「LTX-2.5」を公開！カットをまたいでも崩れないマルチショット生成に対応]]></title>
-        <id>https://cginterest.com/?p=61773</id>
-        <link href="https://cginterest.com/2026/08/19/ltx%e3%80%81%e3%82%aa%e3%83%bc%e3%83%97%e3%83%b3%e3%82%a6%e3%82%a7%e3%82%a4%e3%83%88%e5%8b%95%e7%94%bb%e7%94%9f%e6%88%90%e3%83%a2%e3%83%87%e3%83%ab%e3%80%8cltx-2-5%e3%80%8d%e3%82%92%e5%85%ac%e9%96%8b/"/>
-        <updated>2026-08-19T08:49:07.000Z</updated>
-        <summary type="html"><![CDATA[2026年8月11日（現地時間）- LTXは、オープンウェイトの動画生成モデル「LTX-2.5」を発表しました。また、 ComfyUI は公式ワークフローを含む初日対応を発表しています。 LTX-2.5 とは LTX-2 […]]]></summary>
-        <author>
-            <name>.me</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【観覧無料】世界に羽ばたくアニメーター等の育成支援事業「現代版トキワ荘」起業家育成プログラム・第1期生によるプロトタイプ発表会を開催 基調講演はアニメプロデューサー・脚本家 櫻井大樹氏 - ニュース]]></title>
-        <id>https://cgworld.jp/flashnews/tokiwasou-1.html</id>
-        <link href="https://cgworld.jp/flashnews/tokiwasou-1.html"/>
-        <updated>2026-08-19T07:20:53.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ArtDeck – 画像・動画・GIFを整理して、その場でドローイングしたり構図や色を分析できるリファレンスツール]]></title>
-        <id>https://modelinghappy.com/?p=70017</id>
-        <link href="https://modelinghappy.com/archives/70017"/>
-        <updated>2026-08-19T06:55:09.000Z</updated>
-        <summary type="html"><![CDATA[ArtDeck ArtDeckは、画像や動画などの資料を自由に並べて整理し、そのまま色や明暗、構図などを分析できるアーティスト向けのリファレンスボードアプリです。PureRefのような無限キャンバス上に、画像だけでなく動
-The post ArtDeck – 画像・動画・GIFを整理して、その場でドローイングしたり構図や色を分析できるリファレンスツール first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
-        <author>
-            <name>modelinghappy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[番外編　GLSL に `#include` を実装してみた]]></title>
-        <id>https://zenn.dev/kkkjp/articles/e41d6fe796b7a1</id>
-        <link href="https://zenn.dev/kkkjp/articles/e41d6fe796b7a1"/>
-        <updated>2026-08-19T05:53:20.000Z</updated>
-        <summary type="html"><![CDATA[同じ内容を何度も書くのが面倒になった
-LearnOpenGL を勉強しながら OpenGL を書いています。 PBR あたりまで来たところで、シェーダーがこういう状態になりました。
-
-不透明物のライティングを計算するフラグメントシェーダー
-ガラス（半透明物）を前方描画するフラグメントシェーダー
-
-やることが違うのは最後の合成だけで、Cook-Torrance の中身は同じです。なので後者には、こんなコメント付きで関数が丸ごとコピーされていました。
-// deferred_lighting.frag と同じ式。違うのは albedo に 0 を渡して拡散を殺す点だけ
-vec3 Calc...]]></summary>
-        <author>
-            <name>KONO〇</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Surface Mesh – Blenderでベジェ曲線から車のボディなど滑らかな曲面を作成できる無料アドオン]]></title>
-        <id>https://modelinghappy.com/?p=70012</id>
-        <link href="https://modelinghappy.com/archives/70012"/>
-        <updated>2026-08-19T04:00:07.000Z</updated>
-        <summary type="html"><![CDATA[Surface Mesh Surface Meshは、ベジェ曲線を使って滑らかなサーフェスを生成できるBlender用アドオンです。車のボディパネルなど、複数の滑らかな曲面をつなぎ合わせるモデリングに便利に使う事が出来ま
-The post Surface Mesh – Blenderでベジェ曲線から車のボディなど滑らかな曲面を作成できる無料アドオン first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
-        <author>
-            <name>modelinghappy</name>
         </author>
     </entry>
 </feed>

@@ -235,21 +235,6 @@
             "type": "video/mp4"
           },
           "imageUrl": "https://cgbox.jp/wp-content/uploads/2026/08/exec-ee9bee63-199d-40af-9481-348f3b1e6beb.webp"
-        },
-        {
-          "id": "https://cgbox.jp/?p=65613",
-          "author": "kasahara",
-          "description": "こんばんは！ 今回はアドオンの「Softie Collision System」を紹介します。 こちらのリンクがアドオンの商品ページになります。 Softie Collision System 「Softie Colli […]",
-          "link": "https://cgbox.jp/2026/08/20/news-addon-softie-collision-system/",
-          "publishedOn": "2026-08-20T03:11:10.000Z",
-          "wordCount": 1974,
-          "title": "【アドオン紹介】Softie Collision System – プニプニオブジェクトの衝突シミュレーション！",
-          "enclosure": {
-            "url": "https://cgbox.jp/wp-content/uploads/2026/08/b43548d9dbfd9e3b3a8bb28a852d04b0.mp4",
-            "length": "0",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://cgbox.jp/wp-content/uploads/2026/08/image_processing20260818-2-73suuk.jpg"
         }
       ]
     },
@@ -2220,46 +2205,6 @@
           "wordCount": 860,
           "title": "モーション制作ツール「Mesh2Motion」Update 12リリース　馬リグとオフラインアプリなどを追加 - ニュース",
           "imageUrl": "https://cgworld.jp/flashnews/assets_c/2026/08/a18ccedb95a38c17305799fc8e650dbc4382c67e-thumb-1920x1080-87898.jpg"
-        },
-        {
-          "id": "https://cgworld.jp/article/-91920premier-insights-vol5-concept-art.html",
-          "author": null,
-          "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
-          "link": "https://cgworld.jp/article/-91920premier-insights-vol5-concept-art.html",
-          "publishedOn": "2026-08-20T10:11:49.000Z",
-          "wordCount": 805,
-          "title": "【『ゲーム・オブ・スローンズ』や『アサシン クリード』のコンセプトアーティスト等も登壇！】9.19(土)・20(日)開催オンラインスキルアップイベント『Premier Insights Vol.5 ~Concept Art~』 - 特集",
-          "imageUrl": "https://cgworld.jp/article/assets_c/2026/08/allsessionB%20%283%29%20%281%29-thumb-1920x1080-87896.jpg"
-        },
-        {
-          "id": "https://cgworld.jp/flashnews/cgwhos-next-202602.html",
-          "author": null,
-          "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
-          "link": "https://cgworld.jp/flashnews/cgwhos-next-202602.html",
-          "publishedOn": "2026-08-20T05:44:18.000Z",
-          "wordCount": 736,
-          "title": "学生CGトライアル「WHO'S NEXT？」 2026年第2弾作品募集スタート！ 作品締切：11/2（月） - ニュース",
-          "imageUrl": "https://cgworld.jp/flashnews/assets_c/2026/08/WHOSNEXT_202602s-thumb-800x450-87870.jpg"
-        },
-        {
-          "id": "https://cgworld.jp/special-feature/2608-mouse-daiv-semba.html",
-          "author": null,
-          "description": "",
-          "link": "https://cgworld.jp/special-feature/2608-mouse-daiv-semba.html",
-          "publishedOn": "2026-08-20T03:25:00.000Z",
-          "wordCount": null,
-          "title": "商環境やオフィスの内装デザインを手がける、船場のRevit×Enscape活用事例 軽やかなBIM推進を支えるノートPC「DAIV」 - スペシャルコンテンツ",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cgworld.jp/article/202608-sig-et.html",
-          "author": null,
-          "description": "SIGGRAPH 2026から、Electronic Theaterの内容をレポート。",
-          "link": "https://cgworld.jp/article/202608-sig-et.html",
-          "publishedOn": "2026-08-20T02:22:00.000Z",
-          "wordCount": 981,
-          "title": "世界のVFX・アニメ・ゲームの最前線を一挙上映！ Electronic Theater上映全15作品を紹介〜SIGGRAPH 2026（1） - 特集",
-          "imageUrl": "https://cgworld.jp/article/assets_c/2026/08/03d13f683db8bf9d44ca3c4e078be2ee2d690fe8-thumb-1000x565-87800.jpg"
         }
       ]
     },
@@ -3104,6 +3049,21 @@
       "siteUrl": "https://zenn.dev/topics/3dcg",
       "articles": [
         {
+          "id": "https://zenn.dev/orca_forge/articles/arm-clearance-flipping-front-to-back",
+          "author": "orca_forge",
+          "description": "📝 この記事は forge.workstyle.tech に掲載した記事の転載です。\n\n背中で手を組んで静止しているはずのキャラクターが、右手を前へ17cm、後ろ上へ15cm、また前へ17cmと動かしました。腕のめり込みを直す処理が、腕を跳ねさせていたのです。\n前腕を後ろへ逃がしたい深さは74mm、手を前へ逃がしたい深さは73mm。フレームごとに深い側を選ぶと、1mmの揺れで方向が入れ替わります。そこで、各フレームの候補からクリップ全体の経路を動的計画法で選ぶ構成にしました。\n第3回は足を床に合わせました。今回は、体格の違いで体にめり込む腕を扱います。押し出す方向を安定させ、両手を組む...",
+          "link": "https://zenn.dev/orca_forge/articles/arm-clearance-flipping-front-to-back",
+          "publishedOn": "2026-09-19T00:36:20.000Z",
+          "wordCount": 2130,
+          "title": "腕のめり込み補正が前後に跳ねる ── 動的計画法で逃がす方向を決める",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--HUU-qJO0--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E8%2585%2595%25E3%2581%25AE%25E3%2582%2581%25E3%2582%258A%25E8%25BE%25BC%25E3%2581%25BF%25E8%25A3%259C%25E6%25AD%25A3%25E3%2581%258C%25E5%2589%258D%25E5%25BE%258C%25E3%2581%25AB%25E8%25B7%25B3%25E3%2581%25AD%25E3%2582%258B%2520%25E2%2594%2580%25E2%2594%2580%2520%25E5%258B%2595%25E7%259A%2584%25E8%25A8%2588%25E7%2594%25BB%25E6%25B3%2595%25E3%2581%25A7%25E9%2580%2583%25E3%2581%258C%25E3%2581%2599%25E6%2596%25B9%25E5%2590%2591%25E3%2582%2592%25E6%25B1%25BA%25E3%2582%2581%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:orca_forge%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzlkZTE5OTg2ODguanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+            "length": "0",
+            "type": "false"
+          },
+          "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--HUU-qJO0--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E8%2585%2595%25E3%2581%25AE%25E3%2582%2581%25E3%2582%258A%25E8%25BE%25BC%25E3%2581%25BF%25E8%25A3%259C%25E6%25AD%25A3%25E3%2581%258C%25E5%2589%258D%25E5%25BE%258C%25E3%2581%25AB%25E8%25B7%25B3%25E3%2581%25AD%25E3%2582%258B%2520%25E2%2594%2580%25E2%2594%2580%2520%25E5%258B%2595%25E7%259A%2584%25E8%25A8%2588%25E7%2594%25BB%25E6%25B3%2595%25E3%2581%25A7%25E9%2580%2583%25E3%2581%258C%25E3%2581%2599%25E6%2596%25B9%25E5%2590%2591%25E3%2582%2592%25E6%25B1%25BA%25E3%2582%2581%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:orca_forge%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzlkZTE5OTg2ODguanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+        },
+        {
           "id": "https://zenn.dev/s_hashida/articles/18dd0aca63b082",
           "author": "s_hashida",
           "description": "はじめに\n前回は、\n\nTexture Mapping\n3D Meshと画像の対応\n3D点の画像への投影\nTriangleとTextureの対応\nUV座標\n重心座標\n複数画像からのTexture選択\nVisibilityとOcclusion\n\nについて説明しました。\n\nその中で重要だったのが、\n\n3D Meshは主に物体の3次元形状を表している\n元画像をMeshへ対応させることでAppearanceを与えることができる\nカメラ投影によって3D Meshと画像との対応を求めることができる\nTexture Mappingによって形状と外観を持つ3Dモデルを生成できる\n\nという点です。\n\n...",
@@ -3403,6 +3363,26 @@
       "feedUrl": "https://qiita.com/tags/3dcg/feed",
       "siteUrl": "https://qiita.com",
       "articles": [
+        {
+          "id": "https://qiita.com/orca-forge/items/aff2c5ebfd64ea03b1be",
+          "author": null,
+          "description": "📝 この記事は forge.workstyle.tech に掲載した記事の転載です。\n\n「まだ手首がねじれて見える」。そう言われて測ると、手首のねじれの中央値は 6〜8° でした。小さい値です。かわりに、素体を手で曲げて測ると、手首を 30°曲げただけでスキンウェイトのブ...",
+          "link": "https://qiita.com/orca-forge/items/aff2c5ebfd64ea03b1be",
+          "publishedOn": "2026-09-19T01:00:03.000Z",
+          "wordCount": 2423,
+          "title": "手首の皮膚が潰れる原因は、ポーズではなくスキニングだった",
+          "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYxODU1NTMlMkY0ZmEwZjY5OThlNzkzNzcyYzkxZTRjMDI5MjFhMmVhMTY0ODY1MmQ3JTJGeF9sYXJnZS5wbmclM0YxNzg5MzcwNTMxP2l4bGliPXJiLTQuMS4xJmFyPTElM0ExJmZpdD1jcm9wJm1hc2s9ZWxsaXBzZSZiZz1GRkZGRkYmZm09cG5nMzImcz05YTI0N2UzNjJiMTMwMjQyZWNiODY3ZmEwMzYzNDA0Mw%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D30d8b8322b862fef0066a684f2fb4e58?ixlib=rb-4.1.1&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9JUU2JTg5JThCJUU5JUE2JTk2JUUzJTgxJUFFJUU3JTlBJUFFJUU4JTg2JTlBJUUzJTgxJThDJUU2JUJEJUIwJUUzJTgyJThDJUUzJTgyJThCJUU1JThFJTlGJUU1JTlCJUEwJUUzJTgxJUFGJUUzJTgwJTgxJUUzJTgzJTlEJUUzJTgzJUJDJUUzJTgyJUJBJUUzJTgxJUE3JUUzJTgxJUFGJUUzJTgxJUFBJUUzJTgxJThGJUUzJTgyJUI5JUUzJTgyJUFEJUUzJTgzJThCJUUzJTgzJUIzJUUzJTgyJUIwJUUzJTgxJUEwJUUzJTgxJUEzJUUzJTgxJTlGJnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9MjM5ZmM5MWIzNDcwNWE3ZWU5MTRjZTE0MWViYjdkNTI&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBvcmNhLWZvcmdlJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9ZmE3ZDc1YzEwMWIwNjgxNjg0NjMzODlkNDE0NmNhMWY&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=b5e556e05522708e91a1fba362e27e6e"
+        },
+        {
+          "id": "https://qiita.com/orca-forge/items/48c367c38c1dbbf32cc5",
+          "author": null,
+          "description": "📝 この記事は forge.workstyle.tech に掲載した記事の転載です。\n\n握った手の親指が、人差し指を貫通します。付け根の関節を回して離そうとすると、今度は 12〜30° 振れた親指が立ち、サムズアップになりました。貫通を消すだけでは、元のジェスチャーが変わ...",
+          "link": "https://qiita.com/orca-forge/items/48c367c38c1dbbf32cc5",
+          "publishedOn": "2026-09-19T01:00:02.000Z",
+          "wordCount": 2344,
+          "title": "親指を「どける」とサムズアップになる ── 握りを保つ補正と平滑化",
+          "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYxODU1NTMlMkY0ZmEwZjY5OThlNzkzNzcyYzkxZTRjMDI5MjFhMmVhMTY0ODY1MmQ3JTJGeF9sYXJnZS5wbmclM0YxNzg5MzcwNTMxP2l4bGliPXJiLTQuMS4xJmFyPTElM0ExJmZpdD1jcm9wJm1hc2s9ZWxsaXBzZSZiZz1GRkZGRkYmZm09cG5nMzImcz05YTI0N2UzNjJiMTMwMjQyZWNiODY3ZmEwMzYzNDA0Mw%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D30d8b8322b862fef0066a684f2fb4e58?ixlib=rb-4.1.1&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9JUU4JUE2JUFBJUU2JThDJTg3JUUzJTgyJTkyJUUzJTgwJThDJUUzJTgxJUE5JUUzJTgxJTkxJUUzJTgyJThCJUUzJTgwJThEJUUzJTgxJUE4JUUzJTgyJUI1JUUzJTgzJUEwJUUzJTgyJUJBJUUzJTgyJUEyJUUzJTgzJTgzJUUzJTgzJTk3JUUzJTgxJUFCJUUzJTgxJUFBJUUzJTgyJThCJTIwJUUyJTk0JTgwJUUyJTk0JTgwJTIwJUU2JThGJUExJUUzJTgyJThBJUUzJTgyJTkyJUU0JUJGJTlEJUUzJTgxJUE0JUU4JUEzJTlDJUU2JUFEJUEzJUUzJTgxJUE4JUU1JUI5JUIzJUU2JUJCJTkxJUU1JThDJTk2JnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9ODNkOTJlOGNiMDRjYzcwOGQ4ZTM0ZWZiMjQwMTY5ZGU&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBvcmNhLWZvcmdlJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9ZmE3ZDc1YzEwMWIwNjgxNjg0NjMzODlkNDE0NmNhMWY&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=575c6fbb89fb764b7c313eb1246fe7f0"
+        },
         {
           "id": "https://qiita.com/orca-forge/items/fa6d053878c479156bfa",
           "author": null,
@@ -3798,16 +3778,6 @@
           "wordCount": 355,
           "title": "Autodesk Days 2026",
           "imageUrl": "https://area.autodesk.jp/event/assets_c/2026/08/ic_autodesk_days_2026_1400x782-thumb-1200xauto-5875.jpg"
-        },
-        {
-          "id": "https://area.autodesk.jp/jobs/ensapia-tokyo/",
-          "author": null,
-          "description": "エンセイピアの3Dデザインは、見た目の美しさだけを追いかける仕事ではありません。\nお客様が触れた瞬間にどんな驚きや愛着が生まれるのか、体験として心に残るのかを想像し、その体験価値から逆算してかたちを設計していきます。世界観やコンセプトを深く理解し、感情まで含めて立体に落とし込む─そこにこの仕事の面白さがあります。\n自社でコンテンツを育てているからこそ、細部までこだわり抜き、挑戦を重ねられる環境も魅力のひとつ。職種を越えた対話を通じてより良いUXを追求し続けています。常識に縛られず、本質を問い、意図をくみ取った上で提案できる方。想いを言葉やビジュアルで共有しながら、共に新しい価値を創っていける仲間を求めています。・・・",
-          "link": "https://area.autodesk.jp/jobs/ensapia-tokyo/",
-          "publishedOn": "2026-08-20T01:00:00.000Z",
-          "wordCount": 263,
-          "title": "求人情報 ENSAPIA Tokyo",
-          "imageUrl": "https://area.autodesk.jp/jobs/assets_c/2026/08/ic_jobs_ensapia_1200x670-thumb-1200xauto-5874.png"
         }
       ]
     },
@@ -4681,16 +4651,6 @@
             "type": "video/mp4"
           },
           "imageUrl": "https://cginterest.com/wp-content/uploads/2026/08/SuperSplatNewPublishingAPI.webp"
-        },
-        {
-          "id": "https://cginterest.com/?p=61797",
-          "author": ".me",
-          "description": "株式会社バンダイナムコスタジオと東京工科大学の研究チームによるUnreal Engine向けライティング環境構築プラグイン「TrueHDRI-panel」の紹介です。2026年8月10日には、最新アップデートがリリースさ […]",
-          "link": "https://cginterest.com/2026/08/20/hdri%e3%81%8b%e3%82%89%e5%a4%aa%e9%99%bd%e5%85%89%e3%82%92%e5%88%86%e9%9b%a2%e3%81%97%e6%ad%a3%e7%a2%ba%e3%81%aa%e5%bd%b1%e3%82%92%e5%86%8d%e7%8f%be%ef%bc%81ue%e5%90%91%e3%81%91%e7%84%a1%e6%96%99/",
-          "publishedOn": "2026-08-20T04:13:24.000Z",
-          "wordCount": 2857,
-          "title": "HDRIから太陽光を分離し正確な影を再現！UE向け無料プラグイン「TrueHDRI-panel」",
-          "imageUrl": "https://cginterest.com/wp-content/uploads/2026/08/TrueHDRI-panel.webp"
         }
       ]
     }

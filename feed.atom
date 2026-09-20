@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-20T02:17:49.135Z</updated>
+    <updated>2026-09-20T08:02:04.227Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【アドオン紹介】Adaptive Auto Skinning – スキニングを効率化！]]></title>
+        <id>https://cgbox.jp/?p=65690</id>
+        <link href="https://cgbox.jp/2026/09/20/news-addon-adaptive-auto-skinning/"/>
+        <updated>2026-09-20T05:43:40.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは！ 今回はアドオンの「Adaptive Auto Skinning」を紹介します。 こちらのリンクがアドオンの商品ページになります。 Adaptive Auto Skinning 「Adaptive Auto  […]]]></summary>
+        <author>
+            <name>kasahara</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Compositor – Photoshopの代わりを目指して開発された画像合成やレタッチに使えるMac向け無料画像編集ソフト]]></title>
+        <id>https://modelinghappy.com/?p=70611</id>
+        <link href="https://modelinghappy.com/archives/70611"/>
+        <updated>2026-09-20T05:41:43.000Z</updated>
+        <summary type="html"><![CDATA[compositer Compositorは、画像の合成やレタッチ、仕上げ作業に必要な機能を備えた、Mac向けの無料画像編集ソフトです。Photoshopに近い操作感を目指して開発されており、オープンソースとして公式サイ
+The post Compositor – Photoshopの代わりを目指して開発された画像合成やレタッチに使えるMac向け無料画像編集ソフト first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
+        <author>
+            <name>modelinghappy</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[頭と胸の角度差が全フレーム0.000°──モーション計測が壊れていた話]]></title>
         <id>https://zenn.dev/orca_forge/articles/head-chest-angle-zero-degrees</id>
@@ -4105,62 +4126,6 @@ The post ClipStudio/Photoshop Live Sync Tool – Unityでアバターのテク�
 一番効いたのがこれでした。動きが終わる前...]]></summary>
         <author>
             <name>3DCGタグが付けられた新着記事 - Qiita</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[VRM が配布先で弾かれた。手元のビューアは全部「正常」だった]]></title>
-        <id>https://zenn.dev/bricks/articles/accessor-bounds-drift</id>
-        <link href="https://zenn.dev/bricks/articles/accessor-bounds-drift"/>
-        <updated>2026-08-21T19:15:48.000Z</updated>
-        <summary type="html"><![CDATA[Mira.vrm を VRoid Hub にアップロードしたら弾かれました。
-手元では何も問題が起きていませんでした。ビューアで開けば正しく表示されるし、自前の VRM 検証も通っていました。
-エラーはこれです。
-POSITION の Z: 宣言 -0.391 / 実際 -0.238
-データは正しくて、データについての宣言が間違っていました。
-
- glTF の accessor は「範囲」を自己申告している
-glTF では、頂点データの実体とは別に、accessor が min と max を宣言します。
-{
-  "type": "VEC3",
-  "count": 12043,
-  "...]]></summary>
-        <author>
-            <name>Renga</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[VRM が配布先で弾かれた。手元のビューアは全部「正常」だった]]></title>
-        <id>https://qiita.com/Renga/items/9461c40a1f5d9f6ef6c6</id>
-        <link href="https://qiita.com/Renga/items/9461c40a1f5d9f6ef6c6"/>
-        <updated>2026-08-21T19:15:45.000Z</updated>
-        <summary type="html"><![CDATA[Mira.vrm を VRoid Hub にアップロードしたら弾かれました。
-手元では何も問題が起きていませんでした。ビューアで開けば正しく表示されるし、自前の VRM 検証も通っていました。
-エラーはこれです。
-POSITION の Z: 宣言 -0.391 / 実際 -...]]></summary>
-        <author>
-            <name>3DCGタグが付けられた新着記事 - Qiita</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HairBrush | 3Dモデル上に直接ヘアカードを配置＆ブラッシング感覚で調整！ゲーム向けヘア制作ツール！]]></title>
-        <id>https://3dnchu.com/?p=1067436</id>
-        <link href="https://3dnchu.com/archives/hairbrush-beta/"/>
-        <updated>2026-08-21T15:50:46.000Z</updated>
-        <summary type="html"><![CDATA[Polytricity（Robert Ramsay氏）が、3Dモデル上へ直接ヘアカードを配置し、ブラッシング感覚で髪型を構築できるゲーム向けヘア制作ツール「HairBrush」のベータ版公開しています。 HairBrush 「HairBrush」は、Polytricity氏が開発するゲーム向けの3D […]
-続きを読む]]></summary>
-        <author>
-            <name>Ymt3D -3dnchu-</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ScanRuler – 3Dスキャンデータの寸法・CADとの差・肉厚をブラウザ上で測定できる無料ツール]]></title>
-        <id>https://modelinghappy.com/?p=70050</id>
-        <link href="https://modelinghappy.com/archives/70050"/>
-        <updated>2026-08-21T14:31:49.000Z</updated>
-        <summary type="html"><![CDATA[ScanRuler ScanRulerは、CNC Kitchenが公開している、3Dスキャンデータの寸法や形状精度をブラウザ上で確認できる無料のオープンソースツールです。 ScanRulerのwebサイトから、STL・P
-The post ScanRuler – 3Dスキャンデータの寸法・CADとの差・肉厚をブラウザ上で測定できる無料ツール first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
-        <author>
-            <name>modelinghappy</name>
         </author>
     </entry>
 </feed>

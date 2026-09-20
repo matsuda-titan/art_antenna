@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-20T08:02:04.227Z</updated>
+    <updated>2026-09-20T15:04:19.348Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[N-Gone Pro 2.0 | CADやBooleanメッシュの最適化からUV・ベイク準備まで効率化するBlenderアドオンが大型アップデート！完全非破壊ワークフローへ刷新！]]></title>
+        <id>https://3dnchu.com/?p=1068516</id>
+        <link href="https://3dnchu.com/archives/n-gone-pro-2-0/"/>
+        <updated>2026-09-20T12:46:02.000Z</updated>
+        <summary type="html"><![CDATA[Take Refuge 3DによるBlenderアドオン「N-Gone Pro」の大型アップデートとなる「N-Gone Pro 2.0」が公開されました。N-Gone Proは、Plasticityなどで作成したCADモデルやBooleanベースのメッシュをBlender上で最適化し、Low/Hig […]
+続きを読む]]></summary>
+        <author>
+            <name>Ymt3D -3dnchu-</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[18万ポリの鬼を6000ポリにしたら、昔のSubstance Painter塗装まで復活した話]]></title>
+        <id>https://note.com/gentle_hawk24/n/n27a1081bcc0a</id>
+        <link href="https://note.com/gentle_hawk24/n/n27a1081bcc0a"/>
+        <updated>2026-09-20T10:09:57.000Z</updated>
+        <summary type="html"><![CDATA[TripoのSmart UVとBlender＋Astraで、古い鬼マスクを軽量化してPBRテクスチャを転写してみた
+
+昔ZBrushで作った鬼のマスクが出てきた。
+ポリゴン数は約18万。
+「これ、今のAIツールなら軽くして再利用できるんじゃない？」
+そんな軽い気持ちで始めたら、気付けばTripo、Substance Painter、Blender、Astraを総動員することになった。
+また始まった、AI奮闘記である。
+
+
+続きをみる]]></summary>
+        <author>
+            <name>#substancepainterタグ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【アドオン紹介】Adaptive Auto Skinning – スキニングを効率化！]]></title>
         <id>https://cgbox.jp/?p=65690</id>
@@ -4112,20 +4142,6 @@ The post ClipStudio/Photoshop Live Sync Tool – Unityでアバターのテク�
 この記事は、ノードベースのシェーダーやエフェクトを触り始めた初〜中級者向けに、4種類の仕組みと、C# / Shader Graph / VFX Graph ...]]></summary>
         <author>
             <name>ゼロ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「カクつく」の原因は補間ではなく日程表だった（動きを疑う順番）]]></title>
-        <id>https://qiita.com/Renga/items/2839ed077c8818950422</id>
-        <link href="https://qiita.com/Renga/items/2839ed077c8818950422"/>
-        <updated>2026-08-22T01:23:51.000Z</updated>
-        <summary type="html"><![CDATA[デスクトップに立たせているアバターが「カクつく」と感じました。1つの症状でしたが、性質の違う原因が3つ出てきました。
-見る順番を間違えると遠回りになります。私は補間から疑って、遠回りしました。
-
-1. まず「重なっていないか」を疑う
-一番効いたのがこれでした。動きが終わる前...]]></summary>
-        <author>
-            <name>3DCGタグが付けられた新着記事 - Qiita</name>
         </author>
     </entry>
 </feed>

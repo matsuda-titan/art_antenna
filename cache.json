@@ -265,6 +265,21 @@
       "siteUrl": "https://3dnchu.com",
       "articles": [
         {
+          "id": "https://3dnchu.com/?p=1068516",
+          "author": "Ymt3D -3dnchu-",
+          "description": "Take Refuge 3DによるBlenderアドオン「N-Gone Pro」の大型アップデートとなる「N-Gone Pro 2.0」が公開されました。N-Gone Proは、Plasticityなどで作成したCADモデルやBooleanベースのメッシュをBlender上で最適化し、Low/Hig […]\n続きを読む",
+          "link": "https://3dnchu.com/archives/n-gone-pro-2-0/",
+          "publishedOn": "2026-09-20T12:46:02.000Z",
+          "wordCount": 7650,
+          "title": "N-Gone Pro 2.0 | CADやBooleanメッシュの最適化からUV・ベイク準備まで効率化するBlenderアドオンが大型アップデート！完全非破壊ワークフローへ刷新！",
+          "enclosure": {
+            "url": "https://3dnchu.com/wp-content/uploads/N-Gone-Pro-2.0.webp",
+            "length": "1267004",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://3dnchu.com/wp-content/uploads/N-Gone-Pro-2.0.webp"
+        },
+        {
           "id": "https://3dnchu.com/?p=1068505",
           "author": "Ymt3D -3dnchu-",
           "description": "以前紹介したIHP（Implicit Heightfield Projection）がFabにて正式リリースされました！IHPは高さマップを利用し、低ポリゴンメッシュやLandscapeの表面へ追加ジオメトリを生成することなく立体的な奥行きを表現できるUnreal Engine向けマテリアルプラグイ […]\n続きを読む",
@@ -3327,16 +3342,6 @@
           "wordCount": 1545,
           "title": "AI based motion genenration (meta survey)",
           "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYyOTgxNjYwJTJGOTViNDExMjY5MmU5NDc5M2U2NTY5ODQ5MzdmM2I4ZjliMmE3MDc2YSUyRmxhcmdlLnBuZyUzRjE2Njg2MDM2MDk_aXhsaWI9cmItNC4xLjEmYXI9MSUzQTEmZml0PWNyb3AmbWFzaz1lbGxpcHNlJmJnPUZGRkZGRiZmbT1wbmczMiZzPWE1ZTgxNGYzYWQ2OTFjZmM4MWVmYjBlODkwMzg4NjNk%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3Db091fc7b27b7f70f9fcc9261423415bf?ixlib=rb-4.1.1&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9QUklMjBiYXNlZCUyMG1vdGlvbiUyMGdlbmVucmF0aW9uJTIwJTI4bWV0YSUyMHN1cnZleSUyOSZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnR4dC1wYWQ9MCZzPWI5OGYxZGY1NTkyOTM3MTdkZTVkZWU0ZDEzZmU2OGMx&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBtYXR1bXUyMCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPTUwYzYyYzVhMmI4MTU4MWE3ZTg2NGY0YmMyNWRkOGQ3&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=14a7338061012a9ec01c4aec611bfd30"
-        },
-        {
-          "id": "https://qiita.com/Renga/items/2839ed077c8818950422",
-          "author": null,
-          "description": "デスクトップに立たせているアバターが「カクつく」と感じました。1つの症状でしたが、性質の違う原因が3つ出てきました。\n見る順番を間違えると遠回りになります。私は補間から疑って、遠回りしました。\n\n1. まず「重なっていないか」を疑う\n一番効いたのがこれでした。動きが終わる前...",
-          "link": "https://qiita.com/Renga/items/2839ed077c8818950422",
-          "publishedOn": "2026-08-22T01:23:51.000Z",
-          "wordCount": 713,
-          "title": "「カクつく」の原因は補間ではなく日程表だった（動きを疑う順番）",
-          "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRmF2YXRhcnMuZ2l0aHVidXNlcmNvbnRlbnQuY29tJTJGdSUyRjE1OTc2NjUxNCUzRnYlM0Q0P2l4bGliPXJiLTQuMS4xJmFyPTElM0ExJmZpdD1jcm9wJm1hc2s9ZWxsaXBzZSZiZz1GRkZGRkYmZm09cG5nMzImcz01Yjg5ODBkZmNiOGRkOTQ2NzQ3OWMzNDNhNWE4MTBlMQ%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D85158a0a27c1cb83a68baaf0e3a2ffe7?ixlib=rb-4.1.1&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9JUUzJTgwJThDJUUzJTgyJUFCJUUzJTgyJUFGJUUzJTgxJUE0JUUzJTgxJThGJUUzJTgwJThEJUUzJTgxJUFFJUU1JThFJTlGJUU1JTlCJUEwJUUzJTgxJUFGJUU4JUEzJTlDJUU5JTk2JTkzJUUzJTgxJUE3JUUzJTgxJUFGJUUzJTgxJUFBJUUzJTgxJThGJUU2JTk3JUE1JUU3JUE4JThCJUU4JUExJUE4JUUzJTgxJUEwJUUzJTgxJUEzJUUzJTgxJTlGJUVGJUJDJTg4JUU1JThCJTk1JUUzJTgxJThEJUUzJTgyJTkyJUU3JTk2JTkxJUUzJTgxJTg2JUU5JUEwJTg2JUU3JTk1JUFBJUVGJUJDJTg5JnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9ZTUzNGJiNGI3N2QzMjBhYjU5NzM4MDk0ZWE2YmNlMjk&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBSZW5nYSZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPTEyYjE2MWJmNzY1NWYzMmFiMWJkZGM3ZDY1MzQ1NDIw&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=5313e5075b8f425bed2d33bc12b0b9d3"
         }
       ]
     },
@@ -3852,6 +3857,16 @@
       "feedUrl": "https://note.com/hashtag/substancepainter/rss",
       "siteUrl": "https://note.com/hashtag/substancepainter",
       "articles": [
+        {
+          "id": "https://note.com/gentle_hawk24/n/n27a1081bcc0a",
+          "author": null,
+          "description": "TripoのSmart UVとBlender＋Astraで、古い鬼マスクを軽量化してPBRテクスチャを転写してみた\n\n昔ZBrushで作った鬼のマスクが出てきた。\nポリゴン数は約18万。\n「これ、今のAIツールなら軽くして再利用できるんじゃない？」\nそんな軽い気持ちで始めたら、気付けばTripo、Substance Painter、Blender、Astraを総動員することになった。\nまた始まった、AI奮闘記である。\n\n\n続きをみる",
+          "link": "https://note.com/gentle_hawk24/n/n27a1081bcc0a",
+          "publishedOn": "2026-09-20T10:09:57.000Z",
+          "wordCount": 2892,
+          "title": "18万ポリの鬼を6000ポリにしたら、昔のSubstance Painter塗装まで復活した話",
+          "imageUrl": "https://assets.st-note.com/production/uploads/images/315610268/rectangle_large_type_2_07db55cb36c5ee02dd73db0a78646cf3.png?width=800"
+        },
         {
           "id": "https://note.com/pompomtanuki/n/n968873ea1605",
           "author": null,

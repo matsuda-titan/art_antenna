@@ -2,10 +2,47 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-19T12:08:43.048Z</updated>
+    <updated>2026-09-20T02:17:49.135Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[頭と胸の角度差が全フレーム0.000°──モーション計測が壊れていた話]]></title>
+        <id>https://zenn.dev/orca_forge/articles/head-chest-angle-zero-degrees</id>
+        <link href="https://zenn.dev/orca_forge/articles/head-chest-angle-zero-degrees"/>
+        <updated>2026-09-20T00:43:24.000Z</updated>
+        <summary type="html"><![CDATA[📝 この記事は forge.workstyle.tech に掲載した記事の転載です。
+
+キャラクターの頭が、体をひねるたびに一緒に振られる。頭と胸の角度差を測ると、全フレームで0.000°でした。原因に気づくまで、頭の向け方を下流で3回作り直しています。
+原因は、計測に使った鼻と耳のランドマークが、胴体の基底ベクトルから合成されていたことでした。頭と胸を別々に測ったつもりが、同じ向きを比較していたのです。
+固定カメラの実写動画からVRMアニメーションを作る連載の第2回です。今回は、計測対象、座標系、検証方法の取り違えを、実際の失敗から整理します。
+前回は、パイプライン全体と設計判断を扱...]]></summary>
+        <author>
+            <name>orca_forge</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Implicit Heightfield Projection (IHP) | 高さマップから追加ジオメトリ不要で立体感を表現！POMとは異なるアプローチのUnreal Engine 5.8向けプラグインがFabでリリース！]]></title>
+        <id>https://3dnchu.com/?p=1068505</id>
+        <link href="https://3dnchu.com/archives/implicit-heightfield-projection-ihp/"/>
+        <updated>2026-09-19T18:26:04.000Z</updated>
+        <summary type="html"><![CDATA[以前紹介したIHP（Implicit Heightfield Projection）がFabにて正式リリースされました！IHPは高さマップを利用し、低ポリゴンメッシュやLandscapeの表面へ追加ジオメトリを生成することなく立体的な奥行きを表現できるUnreal Engine向けマテリアルプラグイ […]
+続きを読む]]></summary>
+        <author>
+            <name>Ymt3D -3dnchu-</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sketch2Pose – グリースペンシルで描いた棒人間と同じポーズをリグ付きキャラクターに反映できるBlender用アドオン]]></title>
+        <id>https://modelinghappy.com/?p=70604</id>
+        <link href="https://modelinghappy.com/archives/70604"/>
+        <updated>2026-09-19T12:28:32.000Z</updated>
+        <summary type="html"><![CDATA[Sketch2Pose — Draw Stickman, Generate 3D Pose Sketch2Poseは、Blenderのグリースペンシルで棒人間を描くだけで、リグが設定された3Dキャラクターに同じポーズを取
+The post Sketch2Pose – グリースペンシルで描いた棒人間と同じポーズをリグ付きキャラクターに反映できるBlender用アドオン first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
+        <author>
+            <name>modelinghappy</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Affinityに大規模アップデート！「ブレンドツール」やアプリ内スクリプト、3Dモデルサポートなどなど60以上の新機能・改善が追加]]></title>
         <id>https://cginterest.com/?p=62650</id>
@@ -4124,127 +4161,6 @@ POSITION の Z: 宣言 -0.391 / 実際 -...]]></summary>
 The post ScanRuler – 3Dスキャンデータの寸法・CADとの差・肉厚をブラウザ上で測定できる無料ツール first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
         <author>
             <name>modelinghappy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Selection Pro – Blenderでメッシュやライト、カメラなどよく使うオブジェクトの選択状態を保存して呼び出せる無料アドオン]]></title>
-        <id>https://modelinghappy.com/?p=70046</id>
-        <link href="https://modelinghappy.com/archives/70046"/>
-        <updated>2026-08-21T10:40:20.000Z</updated>
-        <summary type="html"><![CDATA[Selection Pro Selection Proは、Blenderで選択した複数のオブジェクト・ライト・カメラをブックマークとして保存し、必要なときに同じ選択状態をすぐに呼び出せるアドオンです。 使い方は簡単で、必
-The post Selection Pro – Blenderでメッシュやライト、カメラなどよく使うオブジェクトの選択状態を保存して呼び出せる無料アドオン first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
-        <author>
-            <name>modelinghappy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Spline V2 | AI Agent＆MCP対応！WebGPUベースの高速エンジンやPBR＆HDR、カスタムコードなど大幅進化したブラウザ3Dデザインツール！]]></title>
-        <id>https://3dnchu.com/?p=1067427</id>
-        <link href="https://3dnchu.com/archives/spline-v2/"/>
-        <updated>2026-08-21T09:47:02.000Z</updated>
-        <summary type="html"><![CDATA[ブラウザベースのリアルタイム3Dデザインプラットフォームを開発するSplineが、大幅刷新された「Spline V2」を発表しました！AI AgentやMCP、WebGPU、PBR/HDR、カスタムコードなど多数の新機能を搭載！ Spline V2 Splineは、ブラウザ上で3Dモデルやインタラク […]
-続きを読む]]></summary>
-        <author>
-            <name>Ymt3D -3dnchu-</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【株式会社ENGI】TVアニメ『メダリスト』のキャラクターリギング解説 | 作画と3DCGを共存させるリグ構築！「あにつく2025」講演映像が公開！]]></title>
-        <id>https://3dnchu.com/?p=1067421</id>
-        <link href="https://3dnchu.com/archives/atsuc2025-engi/"/>
-        <updated>2026-08-21T09:16:10.000Z</updated>
-        <summary type="html"><![CDATA[株式会社ENGIのリギングスーパーバイザー 砂村 洋平氏が、TVアニメ『メダリスト』におけるキャラクターリグや、作画と3DCGを馴染ませるための工夫を解説する講演映像が公開されています。 TVアニメ『メダリスト』のキャラクターリギング解説 2025年9月20日に開催された、株式会社Too主催のアニメ […]
-続きを読む]]></summary>
-        <author>
-            <name>Ymt3D -3dnchu-</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DDS Motion | NVIDIA「Kimodo」をUnreal Engine 5.8へ統合！テキストから3Dキャラクターアニメーションをローカル生成＆編集できるプラグイン！]]></title>
-        <id>https://3dnchu.com/?p=1067415</id>
-        <link href="https://3dnchu.com/archives/dds-motion/"/>
-        <updated>2026-08-21T09:02:06.000Z</updated>
-        <summary type="html"><![CDATA[Dark Dojo Studiosが、NVIDIAのモーション生成モデル「Kimodo」をUnreal Engine 5.8上で扱えるプラグイン「DDS Motion」をリリースしました。テキストからモーションをローカル生成し、そのまま編集・リターゲットまで行えます。 DDS Motion R […]
-続きを読む]]></summary>
-        <author>
-            <name>Ymt3D -3dnchu-</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Quadremsh Tools for Blender | 密度やエッジフローを制御しながら四角ポリゴン化！Blender向けリメッシュ＆リトポロジーアドオン！]]></title>
-        <id>https://3dnchu.com/?p=1067412</id>
-        <link href="https://3dnchu.com/archives/quadremsh-tools-for-blender/"/>
-        <updated>2026-08-21T08:08:33.000Z</updated>
-        <summary type="html"><![CDATA[SyncToolsによる、密度やエッジフローなどを制御しながらQuadベースのメッシュを生成出来るBlender向けリメッシュ＆リトポロジーアドオン「Quadremsh Tools for Blender」が公開されています。 Quadremsh Tools for Blender 「Quadrem […]
-続きを読む]]></summary>
-        <author>
-            <name>Ymt3D -3dnchu-</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[映画『バックルームズ』ケイン・パーソンズ監督インタビュー｜CGと実写の境界が消える、&quot;迷い込む&quot;異空間 - 特集]]></title>
-        <id>https://cgworld.jp/article/kane-parsons-intv.html</id>
-        <link href="https://cgworld.jp/article/kane-parsons-intv.html"/>
-        <updated>2026-08-21T06:35:00.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Direct Delta Mush Skinning and Variants (2019)]]></title>
-        <id>https://qiita.com/matumu20/items/3c71b297d447da68d59e</id>
-        <link href="https://qiita.com/matumu20/items/3c71b297d447da68d59e"/>
-        <updated>2026-08-21T05:06:16.000Z</updated>
-        <summary type="html"><![CDATA[Direct Delta Mush Skinning and Variants (BINH HUY LE, 2019)
-
-3行要約
-
-本稿では、従来のDelta Mushアルゴリズムの反復計算という欠点を解消し、高速なリアルタイム処理を可能にする「Direc...]]></summary>
-        <author>
-            <name>3DCGタグが付けられた新着記事 - Qiita</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Easy Crowds - Niagara Crowd System | Niagara＆VATで1万体以上のキャラクターを軽快に動かせるUnreal Engine向け群衆システム！]]></title>
-        <id>https://3dnchu.com/?p=1067402</id>
-        <link href="https://3dnchu.com/archives/easy-crowds/"/>
-        <updated>2026-08-21T04:37:29.000Z</updated>
-        <summary type="html"><![CDATA[Easy CrowdによるNiagaraとVATを活用し、1万体以上のキャラクターによる大規模な群衆表現や戦闘を実現するUnreal Engine向けシステム「Easy Crowds – Niagara Crowd System」がFabにて販売されています！ Easy Crowds & […]
-続きを読む]]></summary>
-        <author>
-            <name>Ymt3D -3dnchu-</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[アドビ、Adobe Fireflyで商用利用可能な音楽・音声・効果音の生成を一般提供開始！]]></title>
-        <id>https://cginterest.com/?p=61833</id>
-        <link href="https://cginterest.com/2026/08/21/%e3%82%a2%e3%83%89%e3%83%93%e3%80%81adobe-firefly%e3%81%a7%e5%95%86%e7%94%a8%e5%88%a9%e7%94%a8%e5%8f%af%e8%83%bd%e3%81%aa%e9%9f%b3%e6%a5%bd%e3%83%bb%e9%9f%b3%e5%a3%b0%e3%83%bb%e5%8a%b9%e6%9e%9c/"/>
-        <updated>2026-08-21T03:20:03.000Z</updated>
-        <summary type="html"><![CDATA[2026年8月20日（現地時間） – アドビは、クリエイティブAIスタジオ「Adobe Firefly」で、音楽・音声・効果音を生成する3つの機能の一般提供を開始したことを発表しました。あわせて、日本語での利用に対応した […]]]></summary>
-        <author>
-            <name>.me</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Weight Paint Box | ブラシで塗らずにグラフィカルな「Box」を変形させてウェイト調整！リギング＆ウェイトペイントを効率化するBlenderアドオン！]]></title>
-        <id>https://3dnchu.com/?p=1067394</id>
-        <link href="https://3dnchu.com/archives/weight-paint-box/"/>
-        <updated>2026-08-21T02:45:41.000Z</updated>
-        <summary type="html"><![CDATA[3DアーティストのHamdi Amer氏が開発する、変形可能なBoxを使ってウェイトを調整できるBlenderアドオン「Weight Paint Box」が公開されています！ Weight Paint Box Weight Paint Boxは、Blenderでのリギング＆ウェイトペイント作業を効率 […]
-続きを読む]]></summary>
-        <author>
-            <name>Ymt3D -3dnchu-</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SuperSplatが新機能「Publishing API」を発表！外部ツールからWebへの直接共有が可能に]]></title>
-        <id>https://cginterest.com/?p=61828</id>
-        <link href="https://cginterest.com/2026/08/21/supersplat%e3%81%8c%e6%96%b0%e6%a9%9f%e8%83%bd%e3%80%8cpublishing-api%e3%80%8d%e3%82%92%e7%99%ba%e8%a1%a8%ef%bc%81%e5%a4%96%e9%83%a8%e3%83%84%e3%83%bc%e3%83%ab%e3%81%8b%e3%82%89web%e3%81%b8%e3%81%ae/"/>
-        <updated>2026-08-21T00:16:00.000Z</updated>
-        <summary type="html"><![CDATA[2026年8月17日(現地時間) – PlayCanvasは、3D Gaussian Splatting（3D GS）モデルの編集・閲覧Webツール「SuperSplat」において、外部アプリケーションやス […]]]></summary>
-        <author>
-            <name>.me</name>
         </author>
     </entry>
 </feed>

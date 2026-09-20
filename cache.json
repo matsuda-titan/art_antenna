@@ -250,6 +250,21 @@
       "siteUrl": "https://3dnchu.com",
       "articles": [
         {
+          "id": "https://3dnchu.com/?p=1068505",
+          "author": "Ymt3D -3dnchu-",
+          "description": "以前紹介したIHP（Implicit Heightfield Projection）がFabにて正式リリースされました！IHPは高さマップを利用し、低ポリゴンメッシュやLandscapeの表面へ追加ジオメトリを生成することなく立体的な奥行きを表現できるUnreal Engine向けマテリアルプラグイ […]\n続きを読む",
+          "link": "https://3dnchu.com/archives/implicit-heightfield-projection-ihp/",
+          "publishedOn": "2026-09-19T18:26:04.000Z",
+          "wordCount": 7689,
+          "title": "Implicit Heightfield Projection (IHP) | 高さマップから追加ジオメトリ不要で立体感を表現！POMとは異なるアプローチのUnreal Engine 5.8向けプラグインがFabでリリース！",
+          "enclosure": {
+            "url": "https://3dnchu.com/wp-content/uploads/IHP-released.webp",
+            "length": "1087770",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://3dnchu.com/wp-content/uploads/IHP-released.webp"
+        },
+        {
           "id": "https://3dnchu.com/?p=1068486",
           "author": "Ymt3D -3dnchu-",
           "description": "Debpalash氏らが開発する音声クローン、音声生成、動画吹き替え、文字起こし、オーディオブック制作などをローカル環境で利用できるオープンソースのAI音声スタジオ「VoiceStudio（旧OmniVoice Studio）」のご紹介！ VoiceStudio VoiceStudioは、AIを使っ […]\n続きを読む",
@@ -1163,96 +1178,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "https://3dnchu.com/wp-content/uploads/ArtStation-HAIRBRUSH-B.jpg"
-        },
-        {
-          "id": "https://3dnchu.com/?p=1067427",
-          "author": "Ymt3D -3dnchu-",
-          "description": "ブラウザベースのリアルタイム3Dデザインプラットフォームを開発するSplineが、大幅刷新された「Spline V2」を発表しました！AI AgentやMCP、WebGPU、PBR/HDR、カスタムコードなど多数の新機能を搭載！ Spline V2 Splineは、ブラウザ上で3Dモデルやインタラク […]\n続きを読む",
-          "link": "https://3dnchu.com/archives/spline-v2/",
-          "publishedOn": "2026-08-21T09:47:02.000Z",
-          "wordCount": 7783,
-          "title": "Spline V2 | AI Agent＆MCP対応！WebGPUベースの高速エンジンやPBR＆HDR、カスタムコードなど大幅進化したブラウザ3Dデザインツール！",
-          "enclosure": {
-            "url": "https://3dnchu.com/wp-content/uploads/spline-v2-ai-agentmcpwebgpupbrhd.jpg",
-            "length": "39629",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://3dnchu.com/wp-content/uploads/spline-v2-ai-agentmcpwebgpupbrhd.jpg"
-        },
-        {
-          "id": "https://3dnchu.com/?p=1067421",
-          "author": "Ymt3D -3dnchu-",
-          "description": "株式会社ENGIのリギングスーパーバイザー 砂村 洋平氏が、TVアニメ『メダリスト』におけるキャラクターリグや、作画と3DCGを馴染ませるための工夫を解説する講演映像が公開されています。 TVアニメ『メダリスト』のキャラクターリギング解説 2025年9月20日に開催された、株式会社Too主催のアニメ […]\n続きを読む",
-          "link": "https://3dnchu.com/archives/atsuc2025-engi/",
-          "publishedOn": "2026-08-21T09:16:10.000Z",
-          "wordCount": 7620,
-          "title": "【株式会社ENGI】TVアニメ『メダリスト』のキャラクターリギング解説 | 作画と3DCGを共存させるリグ構築！「あにつく2025」講演映像が公開！",
-          "enclosure": {
-            "url": "https://3dnchu.com/wp-content/uploads/engitv.jpg",
-            "length": "63358",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://3dnchu.com/wp-content/uploads/engitv.jpg"
-        },
-        {
-          "id": "https://3dnchu.com/?p=1067415",
-          "author": "Ymt3D -3dnchu-",
-          "description": "Dark Dojo Studiosが、NVIDIAのモーション生成モデル「Kimodo」をUnreal Engine 5.8上で扱えるプラグイン「DDS Motion」をリリースしました。テキストからモーションをローカル生成し、そのまま編集・リターゲットまで行えます。 DDS Motion R […]\n続きを読む",
-          "link": "https://3dnchu.com/archives/dds-motion/",
-          "publishedOn": "2026-08-21T09:02:06.000Z",
-          "wordCount": 7808,
-          "title": "DDS Motion | NVIDIA「Kimodo」をUnreal Engine 5.8へ統合！テキストから3Dキャラクターアニメーションをローカル生成＆編集できるプラグイン！",
-          "enclosure": {
-            "url": "https://3dnchu.com/wp-content/uploads/dds-motion-nvidiakimodounreal-en.jpg",
-            "length": "63506",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://3dnchu.com/wp-content/uploads/dds-motion-nvidiakimodounreal-en.jpg"
-        },
-        {
-          "id": "https://3dnchu.com/?p=1067412",
-          "author": "Ymt3D -3dnchu-",
-          "description": "SyncToolsによる、密度やエッジフローなどを制御しながらQuadベースのメッシュを生成出来るBlender向けリメッシュ＆リトポロジーアドオン「Quadremsh Tools for Blender」が公開されています。 Quadremsh Tools for Blender 「Quadrem […]\n続きを読む",
-          "link": "https://3dnchu.com/archives/quadremsh-tools-for-blender/",
-          "publishedOn": "2026-08-21T08:08:33.000Z",
-          "wordCount": 7699,
-          "title": "Quadremsh Tools for Blender | 密度やエッジフローを制御しながら四角ポリゴン化！Blender向けリメッシュ＆リトポロジーアドオン！",
-          "enclosure": {
-            "url": "https://3dnchu.com/wp-content/uploads/quadremsh-tools-for-blender.jpg",
-            "length": "133604",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://3dnchu.com/wp-content/uploads/quadremsh-tools-for-blender.jpg"
-        },
-        {
-          "id": "https://3dnchu.com/?p=1067402",
-          "author": "Ymt3D -3dnchu-",
-          "description": "Easy CrowdによるNiagaraとVATを活用し、1万体以上のキャラクターによる大規模な群衆表現や戦闘を実現するUnreal Engine向けシステム「Easy Crowds – Niagara Crowd System」がFabにて販売されています！ Easy Crowds & […]\n続きを読む",
-          "link": "https://3dnchu.com/archives/easy-crowds/",
-          "publishedOn": "2026-08-21T04:37:29.000Z",
-          "wordCount": 7787,
-          "title": "Easy Crowds - Niagara Crowd System | Niagara＆VATで1万体以上のキャラクターを軽快に動かせるUnreal Engine向け群衆システム！",
-          "enclosure": {
-            "url": "https://3dnchu.com/wp-content/uploads/easy-crowds-niagara-crowd-system.jpg",
-            "length": "129413",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://3dnchu.com/wp-content/uploads/easy-crowds-niagara-crowd-system.jpg"
-        },
-        {
-          "id": "https://3dnchu.com/?p=1067394",
-          "author": "Ymt3D -3dnchu-",
-          "description": "3DアーティストのHamdi Amer氏が開発する、変形可能なBoxを使ってウェイトを調整できるBlenderアドオン「Weight Paint Box」が公開されています！ Weight Paint Box Weight Paint Boxは、Blenderでのリギング＆ウェイトペイント作業を効率 […]\n続きを読む",
-          "link": "https://3dnchu.com/archives/weight-paint-box/",
-          "publishedOn": "2026-08-21T02:45:41.000Z",
-          "wordCount": 7714,
-          "title": "Weight Paint Box | ブラシで塗らずにグラフィカルな「Box」を変形させてウェイト調整！リギング＆ウェイトペイントを効率化するBlenderアドオン！",
-          "enclosure": {
-            "url": "https://3dnchu.com/wp-content/uploads/weight-paint-box-box.jpg",
-            "length": "59116",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://3dnchu.com/wp-content/uploads/weight-paint-box-box.jpg"
         }
       ]
     },
@@ -2120,16 +2045,6 @@
           "wordCount": 750,
           "title": "モノリスソフト、「PythonでPhotoshopのツールを作りたい」技術ブログ公開　デザイナーチーム共通のツール開発ノウハウを紹介 - ニュース",
           "imageUrl": "https://cgworld.jp/flashnews/assets_c/2026/08/Monolith_Python-01-thumb-1920x1080-87933.jpg"
-        },
-        {
-          "id": "https://cgworld.jp/article/kane-parsons-intv.html",
-          "author": null,
-          "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
-          "link": "https://cgworld.jp/article/kane-parsons-intv.html",
-          "publishedOn": "2026-08-21T06:35:00.000Z",
-          "wordCount": 754,
-          "title": "映画『バックルームズ』ケイン・パーソンズ監督インタビュー｜CGと実写の境界が消える、&quot;迷い込む&quot;異空間 - 特集",
-          "imageUrl": "https://cgworld.jp/article/assets_c/2026/08/br_main-thumb-1000x563-87817.jpg"
         }
       ]
     },
@@ -2173,6 +2088,16 @@
       "feedUrl": "https://modelinghappy.com/feed",
       "siteUrl": "https://modelinghappy.com",
       "articles": [
+        {
+          "id": "https://modelinghappy.com/?p=70604",
+          "author": "modelinghappy",
+          "description": "Sketch2Pose — Draw Stickman, Generate 3D Pose Sketch2Poseは、Blenderのグリースペンシルで棒人間を描くだけで、リグが設定された3Dキャラクターに同じポーズを取\nThe post Sketch2Pose – グリースペンシルで描いた棒人間と同じポーズをリグ付きキャラクターに反映できるBlender用アドオン first appeared on 3DCG最新情報サイト MODELING HAPPY.",
+          "link": "https://modelinghappy.com/archives/70604",
+          "publishedOn": "2026-09-19T12:28:32.000Z",
+          "wordCount": 3039,
+          "title": "Sketch2Pose – グリースペンシルで描いた棒人間と同じポーズをリグ付きキャラクターに反映できるBlender用アドオン",
+          "imageUrl": "https://modelinghappy.com/wp-content/uploads/2026/09/20260919_Sketch2Pose_01.jpg"
+        },
         {
           "id": "https://modelinghappy.com/?p=70598",
           "author": "modelinghappy",
@@ -2752,16 +2677,6 @@
           "wordCount": 2991,
           "title": "ScanRuler – 3Dスキャンデータの寸法・CADとの差・肉厚をブラウザ上で測定できる無料ツール",
           "imageUrl": "https://modelinghappy.com/wp-content/uploads/2026/08/20260821_scanruler.jpg"
-        },
-        {
-          "id": "https://modelinghappy.com/?p=70046",
-          "author": "modelinghappy",
-          "description": "Selection Pro Selection Proは、Blenderで選択した複数のオブジェクト・ライト・カメラをブックマークとして保存し、必要なときに同じ選択状態をすぐに呼び出せるアドオンです。 使い方は簡単で、必\nThe post Selection Pro – Blenderでメッシュやライト、カメラなどよく使うオブジェクトの選択状態を保存して呼び出せる無料アドオン first appeared on 3DCG最新情報サイト MODELING HAPPY.",
-          "link": "https://modelinghappy.com/archives/70046",
-          "publishedOn": "2026-08-21T10:40:20.000Z",
-          "wordCount": 3026,
-          "title": "Selection Pro – Blenderでメッシュやライト、カメラなどよく使うオブジェクトの選択状態を保存して呼び出せる無料アドオン",
-          "imageUrl": "https://modelinghappy.com/wp-content/uploads/2026/08/20260821_Selection_Pro.jpg"
         }
       ]
     },
@@ -2983,6 +2898,21 @@
       "feedUrl": "https://zenn.dev/topics/3dcg/feed",
       "siteUrl": "https://zenn.dev/topics/3dcg",
       "articles": [
+        {
+          "id": "https://zenn.dev/orca_forge/articles/head-chest-angle-zero-degrees",
+          "author": "orca_forge",
+          "description": "📝 この記事は forge.workstyle.tech に掲載した記事の転載です。\n\nキャラクターの頭が、体をひねるたびに一緒に振られる。頭と胸の角度差を測ると、全フレームで0.000°でした。原因に気づくまで、頭の向け方を下流で3回作り直しています。\n原因は、計測に使った鼻と耳のランドマークが、胴体の基底ベクトルから合成されていたことでした。頭と胸を別々に測ったつもりが、同じ向きを比較していたのです。\n固定カメラの実写動画からVRMアニメーションを作る連載の第2回です。今回は、計測対象、座標系、検証方法の取り違えを、実際の失敗から整理します。\n前回は、パイプライン全体と設計判断を扱...",
+          "link": "https://zenn.dev/orca_forge/articles/head-chest-angle-zero-degrees",
+          "publishedOn": "2026-09-20T00:43:24.000Z",
+          "wordCount": 1574,
+          "title": "頭と胸の角度差が全フレーム0.000°──モーション計測が壊れていた話",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--vF8KDiBc--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E9%25A0%25AD%25E3%2581%25A8%25E8%2583%25B8%25E3%2581%25AE%25E8%25A7%2592%25E5%25BA%25A6%25E5%25B7%25AE%25E3%2581%258C%25E5%2585%25A8%25E3%2583%2595%25E3%2583%25AC%25E3%2583%25BC%25E3%2583%25A00.000%25C2%25B0%25E2%2594%2580%25E2%2594%2580%25E3%2583%25A2%25E3%2583%25BC%25E3%2582%25B7%25E3%2583%25A7%25E3%2583%25B3%25E8%25A8%2588%25E6%25B8%25AC%25E3%2581%258C%25E5%25A3%258A%25E3%2582%258C%25E3%2581%25A6%25E3%2581%2584%25E3%2581%259F%25E8%25A9%25B1%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:orca_forge%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzlkZTE5OTg2ODguanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+            "length": "0",
+            "type": "false"
+          },
+          "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--vF8KDiBc--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E9%25A0%25AD%25E3%2581%25A8%25E8%2583%25B8%25E3%2581%25AE%25E8%25A7%2592%25E5%25BA%25A6%25E5%25B7%25AE%25E3%2581%258C%25E5%2585%25A8%25E3%2583%2595%25E3%2583%25AC%25E3%2583%25BC%25E3%2583%25A00.000%25C2%25B0%25E2%2594%2580%25E2%2594%2580%25E3%2583%25A2%25E3%2583%25BC%25E3%2582%25B7%25E3%2583%25A7%25E3%2583%25B3%25E8%25A8%2588%25E6%25B8%25AC%25E3%2581%258C%25E5%25A3%258A%25E3%2582%258C%25E3%2581%25A6%25E3%2581%2584%25E3%2581%259F%25E8%25A9%25B1%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:orca_forge%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzlkZTE5OTg2ODguanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+        },
         {
           "id": "https://zenn.dev/orca_forge/articles/arm-clearance-flipping-front-to-back",
           "author": "orca_forge",
@@ -3432,16 +3362,6 @@
           "wordCount": 852,
           "title": "VRM が配布先で弾かれた。手元のビューアは全部「正常」だった",
           "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRmF2YXRhcnMuZ2l0aHVidXNlcmNvbnRlbnQuY29tJTJGdSUyRjE1OTc2NjUxNCUzRnYlM0Q0P2l4bGliPXJiLTQuMS4xJmFyPTElM0ExJmZpdD1jcm9wJm1hc2s9ZWxsaXBzZSZiZz1GRkZGRkYmZm09cG5nMzImcz01Yjg5ODBkZmNiOGRkOTQ2NzQ3OWMzNDNhNWE4MTBlMQ%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D85158a0a27c1cb83a68baaf0e3a2ffe7?ixlib=rb-4.1.1&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9VlJNJTIwJUUzJTgxJThDJUU5JTg1JThEJUU1JUI4JTgzJUU1JTg1JTg4JUUzJTgxJUE3JUU1JUJDJUJFJUUzJTgxJThCJUUzJTgyJThDJUUzJTgxJTlGJUUzJTgwJTgyJUU2JTg5JThCJUU1JTg1JTgzJUUzJTgxJUFFJUUzJTgzJTkzJUUzJTgzJUE1JUUzJTgzJUJDJUUzJTgyJUEyJUUzJTgxJUFGJUU1JTg1JUE4JUU5JTgzJUE4JUUzJTgwJThDJUU2JUFEJUEzJUU1JUI4JUI4JUUzJTgwJThEJUUzJTgxJUEwJUUzJTgxJUEzJUUzJTgxJTlGJnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9YmU1NzFmNmVkZWRhYTEzMTM2NDEyNzJjYTFjY2U0ZGY&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBSZW5nYSZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPTEyYjE2MWJmNzY1NWYzMmFiMWJkZGM3ZDY1MzQ1NDIw&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=2e1733f82941a2595c225fb3b11370b6"
-        },
-        {
-          "id": "https://qiita.com/matumu20/items/3c71b297d447da68d59e",
-          "author": null,
-          "description": "Direct Delta Mush Skinning and Variants (BINH HUY LE, 2019)\n\n3行要約\n\n本稿では、従来のDelta Mushアルゴリズムの反復計算という欠点を解消し、高速なリアルタイム処理を可能にする「Direc...",
-          "link": "https://qiita.com/matumu20/items/3c71b297d447da68d59e",
-          "publishedOn": "2026-08-21T05:06:16.000Z",
-          "wordCount": 1460,
-          "title": "Direct Delta Mush Skinning and Variants (2019)",
-          "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYyOTgxNjYwJTJGOTViNDExMjY5MmU5NDc5M2U2NTY5ODQ5MzdmM2I4ZjliMmE3MDc2YSUyRmxhcmdlLnBuZyUzRjE2Njg2MDM2MDk_aXhsaWI9cmItNC4xLjEmYXI9MSUzQTEmZml0PWNyb3AmbWFzaz1lbGxpcHNlJmJnPUZGRkZGRiZmbT1wbmczMiZzPWE1ZTgxNGYzYWQ2OTFjZmM4MWVmYjBlODkwMzg4NjNk%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3Db091fc7b27b7f70f9fcc9261423415bf?ixlib=rb-4.1.1&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9RGlyZWN0JTIwRGVsdGElMjBNdXNoJTIwU2tpbm5pbmclMjBhbmQlMjBWYXJpYW50cyUyMCUyODIwMTklMjklMjAmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz1hZTM1OTgxYjk5OWQxYjg5YzhlMDM5ODMyZDBlZGJiMw&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBtYXR1bXUyMCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPTUwYzYyYzVhMmI4MTU4MWE3ZTg2NGY0YmMyNWRkOGQ3&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=72fed6965bfac2f0b630c1196381cffd"
         }
       ]
     },
@@ -4591,31 +4511,6 @@
           "wordCount": 2900,
           "title": "Photoshop 27.9 アップデートを紹介！削除ツールの使いやすさ向上、クラウドファイルの検索機能の追加など",
           "imageUrl": "https://cginterest.com/wp-content/uploads/2026/08/Photoshop27-9.webp"
-        },
-        {
-          "id": "https://cginterest.com/?p=61833",
-          "author": ".me",
-          "description": "2026年8月20日（現地時間） – アドビは、クリエイティブAIスタジオ「Adobe Firefly」で、音楽・音声・効果音を生成する3つの機能の一般提供を開始したことを発表しました。あわせて、日本語での利用に対応した […]",
-          "link": "https://cginterest.com/2026/08/21/%e3%82%a2%e3%83%89%e3%83%93%e3%80%81adobe-firefly%e3%81%a7%e5%95%86%e7%94%a8%e5%88%a9%e7%94%a8%e5%8f%af%e8%83%bd%e3%81%aa%e9%9f%b3%e6%a5%bd%e3%83%bb%e9%9f%b3%e5%a3%b0%e3%83%bb%e5%8a%b9%e6%9e%9c/",
-          "publishedOn": "2026-08-21T03:20:03.000Z",
-          "wordCount": 2917,
-          "title": "アドビ、Adobe Fireflyで商用利用可能な音楽・音声・効果音の生成を一般提供開始！",
-          "imageUrl": "https://cginterest.com/wp-content/uploads/2026/08/Adobefireflyupdate2026-8.webp"
-        },
-        {
-          "id": "https://cginterest.com/?p=61828",
-          "author": ".me",
-          "description": "2026年8月17日(現地時間) – PlayCanvasは、3D Gaussian Splatting（3D GS）モデルの編集・閲覧Webツール「SuperSplat」において、外部アプリケーションやス […]",
-          "link": "https://cginterest.com/2026/08/21/supersplat%e3%81%8c%e6%96%b0%e6%a9%9f%e8%83%bd%e3%80%8cpublishing-api%e3%80%8d%e3%82%92%e7%99%ba%e8%a1%a8%ef%bc%81%e5%a4%96%e9%83%a8%e3%83%84%e3%83%bc%e3%83%ab%e3%81%8b%e3%82%89web%e3%81%b8%e3%81%ae/",
-          "publishedOn": "2026-08-21T00:16:00.000Z",
-          "wordCount": 2758,
-          "title": "SuperSplatが新機能「Publishing API」を発表！外部ツールからWebへの直接共有が可能に",
-          "enclosure": {
-            "url": "https://cginterest.com/wp-content/uploads/2026/08/Supersplat-From-Lichtfeld1.mp4",
-            "length": "488976",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://cginterest.com/wp-content/uploads/2026/08/SuperSplatNewPublishingAPI.webp"
         }
       ]
     }

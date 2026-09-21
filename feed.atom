@@ -2,10 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-21T08:20:28.867Z</updated>
+    <updated>2026-09-21T17:23:30.171Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[FrameThrower – 映画のワンシーンをムード・色・構図から検索してルックブックを作成できるリファレンスサービス]]></title>
+        <id>https://modelinghappy.com/?p=70622</id>
+        <link href="https://modelinghappy.com/archives/70622"/>
+        <updated>2026-09-21T13:09:58.000Z</updated>
+        <summary type="html"><![CDATA[FrameThrower FrameThrowerは、映画のさまざまなシーンを検索して、映像制作やCG制作の参考資料として活用できるオンラインサービスです。 5,489作品、約41万枚の映画フレームが登録されており、それ
+The post FrameThrower – 映画のワンシーンをムード・色・構図から検索してルックブックを作成できるリファレンスサービス first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
+        <author>
+            <name>modelinghappy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【Minecraft】第1回リソースパック（バニラ）シェーダー解説：JSON・VSH・FSHの役割とデータの流れ（全体像）]]></title>
+        <id>https://qiita.com/sakuyan_ppr/items/c9ac6b166ba14238afeb</id>
+        <link href="https://qiita.com/sakuyan_ppr/items/c9ac6b166ba14238afeb"/>
+        <updated>2026-09-21T11:43:21.000Z</updated>
+        <summary type="html"><![CDATA[26.3時点での注意
+Minecraftのシェーダー機能は現在も変更される可能性があります。
+26.3ではShaderCによるシェーダーコンパイルや#includeの仕様などにも変更が入っているため、
+古いバージョン向けの記事やサンプルコードとは記述が異なる場合があり...]]></summary>
+        <author>
+            <name>GLSLタグが付けられた新着記事 - Qiita</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CGWORLD vol.339（2026年11月号）「ゲームグラフィックス 2026」特集号を先行告知！ - ニュース]]></title>
+        <id>https://cgworld.jp/flashnews/cgw339-pr.html</id>
+        <link href="https://cgworld.jp/flashnews/cgw339-pr.html"/>
+        <updated>2026-09-21T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[【10/9発売】CGWORLD vol.339（2026年11月号）特集「ゲームグラフィックス 2026」。AAAタイトルから海外インディーゲームまで、全88ページ大特集！]]></summary>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【アドオン紹介】Bodiez – ベースモデルをカスタム作成！]]></title>
         <id>https://cgbox.jp/?p=65697</id>
@@ -4147,22 +4181,6 @@ The post Blend Buddies — Blenderの同じシーンを複数人でリアルタ�
 続きを読む]]></summary>
         <author>
             <name>Ymt3D -3dnchu-</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「カクつく」の原因は補間ではなく日程表だった（動きを疑う順番）]]></title>
-        <id>https://zenn.dev/bricks/articles/jitter-is-a-schedule-bug</id>
-        <link href="https://zenn.dev/bricks/articles/jitter-is-a-schedule-bug"/>
-        <updated>2026-08-23T02:43:37.000Z</updated>
-        <summary type="html"><![CDATA[デスクトップに立たせているアバターが「カクつく」と感じました。1つの症状でしたが、性質の違う原因が3つ出てきました。
-見る順番を間違えると遠回りになります。私は補間から疑って、遠回りしました。
-
- 1. まず「重なっていないか」を疑う
-一番効いたのがこれでした。動きが終わる前に次が始まっていました。
-間隔は5秒に設定していました。ところが動きは9秒ありました。再生中にもう一度呼ばれると経過時間が0に戻るので、途中で先頭へ巻き戻ります。立ち姿に戻る間がないまま次が始まる。それが「カクついた」という印象になっていました。
-症状は「カクつき」ですが、原因は補間ではなく日程表にあります。 曲線を...]]></summary>
-        <author>
-            <name>Renga</name>
         </author>
     </entry>
 </feed>

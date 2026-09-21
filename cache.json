@@ -1242,6 +1242,16 @@
       "siteUrl": "https://cgworld.jp/",
       "articles": [
         {
+          "id": "https://cgworld.jp/flashnews/cgw339-pr.html",
+          "author": null,
+          "description": "【10/9発売】CGWORLD vol.339（2026年11月号）特集「ゲームグラフィックス 2026」。AAAタイトルから海外インディーゲームまで、全88ページ大特集！",
+          "link": "https://cgworld.jp/flashnews/cgw339-pr.html",
+          "publishedOn": "2026-09-21T11:00:00.000Z",
+          "wordCount": 767,
+          "title": "CGWORLD vol.339（2026年11月号）「ゲームグラフィックス 2026」特集号を先行告知！ - ニュース",
+          "imageUrl": "https://cgworld.jp/flashnews/assets_c/2026/09/web_339_infobanner_before-2-thumb-1000x563-89071.jpg"
+        },
+        {
           "id": "https://cgworld.jp/flashnews/01-202609-Maya-ConstraintTool.html",
           "author": null,
           "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
@@ -2153,6 +2163,16 @@
       "feedUrl": "https://modelinghappy.com/feed",
       "siteUrl": "https://modelinghappy.com",
       "articles": [
+        {
+          "id": "https://modelinghappy.com/?p=70622",
+          "author": "modelinghappy",
+          "description": "FrameThrower FrameThrowerは、映画のさまざまなシーンを検索して、映像制作やCG制作の参考資料として活用できるオンラインサービスです。 5,489作品、約41万枚の映画フレームが登録されており、それ\nThe post FrameThrower – 映画のワンシーンをムード・色・構図から検索してルックブックを作成できるリファレンスサービス first appeared on 3DCG最新情報サイト MODELING HAPPY.",
+          "link": "https://modelinghappy.com/archives/70622",
+          "publishedOn": "2026-09-21T13:09:58.000Z",
+          "wordCount": 4407,
+          "title": "FrameThrower – 映画のワンシーンをムード・色・構図から検索してルックブックを作成できるリファレンスサービス",
+          "imageUrl": "https://modelinghappy.com/wp-content/uploads/2026/09/20260921_frame_thrower_03.jpg"
+        },
         {
           "id": "https://modelinghappy.com/?p=70442",
           "author": "modelinghappy",
@@ -3157,21 +3177,6 @@
             "type": "false"
           },
           "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--EtJ-YzFc--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%2595%25E3%2582%25A9%25E3%2583%2588%25E3%2582%25B0%25E3%2583%25A9%25E3%2583%25A1%25E3%2583%2588%25E3%2583%25AA%25E6%2595%25B0%25E5%25AD%25A6%25EF%25BD%259C49%25EF%25BC%259ASGM%25EF%25BC%2588Semi-Global%2520Matching%25EF%25BC%2589%25E3%2581%25A8%25E3%2581%25AF%25EF%25BC%259F%25EF%25BD%259E%25E5%25B1%2580%25E6%2589%2580%25E7%259A%2584%25E3%2581%25AAMatching%25E3%2581%258B%25E3%2582%2589...%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:s_hashida%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2QwNzQxMzlkMjguanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
-        },
-        {
-          "id": "https://zenn.dev/bricks/articles/jitter-is-a-schedule-bug",
-          "author": "Renga",
-          "description": "デスクトップに立たせているアバターが「カクつく」と感じました。1つの症状でしたが、性質の違う原因が3つ出てきました。\n見る順番を間違えると遠回りになります。私は補間から疑って、遠回りしました。\n\n 1. まず「重なっていないか」を疑う\n一番効いたのがこれでした。動きが終わる前に次が始まっていました。\n間隔は5秒に設定していました。ところが動きは9秒ありました。再生中にもう一度呼ばれると経過時間が0に戻るので、途中で先頭へ巻き戻ります。立ち姿に戻る間がないまま次が始まる。それが「カクついた」という印象になっていました。\n症状は「カクつき」ですが、原因は補間ではなく日程表にあります。 曲線を...",
-          "link": "https://zenn.dev/bricks/articles/jitter-is-a-schedule-bug",
-          "publishedOn": "2026-08-23T02:43:37.000Z",
-          "wordCount": 485,
-          "title": "「カクつく」の原因は補間ではなく日程表だった（動きを疑う順番）",
-          "enclosure": {
-            "url": "https://res.cloudinary.com/zenn/image/upload/s--Ge-Q2fvk--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2580%258C%25E3%2582%25AB%25E3%2582%25AF%25E3%2581%25A4%25E3%2581%258F%25E3%2580%258D%25E3%2581%25AE%25E5%258E%259F%25E5%259B%25A0%25E3%2581%25AF%25E8%25A3%259C%25E9%2596%2593%25E3%2581%25A7%25E3%2581%25AF%25E3%2581%25AA%25E3%2581%258F%25E6%2597%25A5%25E7%25A8%258B%25E8%25A1%25A8%25E3%2581%25A0%25E3%2581%25A3%25E3%2581%259F%25EF%25BC%2588%25E5%258B%2595%25E3%2581%258D%25E3%2582%2592%25E7%2596%2591%25E3%2581%2586%25E9%25A0%2586%25E7%2595%25AA%25EF%25BC%2589%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Renga%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2IyYzI4MDZiNDEuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
-            "length": "0",
-            "type": "false"
-          },
-          "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--Ge-Q2fvk--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2580%258C%25E3%2582%25AB%25E3%2582%25AF%25E3%2581%25A4%25E3%2581%258F%25E3%2580%258D%25E3%2581%25AE%25E5%258E%259F%25E5%259B%25A0%25E3%2581%25AF%25E8%25A3%259C%25E9%2596%2593%25E3%2581%25A7%25E3%2581%25AF%25E3%2581%25AA%25E3%2581%258F%25E6%2597%25A5%25E7%25A8%258B%25E8%25A1%25A8%25E3%2581%25A0%25E3%2581%25A3%25E3%2581%259F%25EF%25BC%2588%25E5%258B%2595%25E3%2581%258D%25E3%2582%2592%25E7%2596%2591%25E3%2581%2586%25E9%25A0%2586%25E7%2595%25AA%25EF%25BC%2589%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Renga%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2IyYzI4MDZiNDEuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
         }
       ]
     },
@@ -3453,7 +3458,18 @@
       "title": "GLSLタグが付けられた新着記事 - Qiita",
       "feedUrl": "https://qiita.com/tags/glsl/feed",
       "siteUrl": "https://qiita.com",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://qiita.com/sakuyan_ppr/items/c9ac6b166ba14238afeb",
+          "author": null,
+          "description": "26.3時点での注意\nMinecraftのシェーダー機能は現在も変更される可能性があります。\n26.3ではShaderCによるシェーダーコンパイルや#includeの仕様などにも変更が入っているため、\n古いバージョン向けの記事やサンプルコードとは記述が異なる場合があり...",
+          "link": "https://qiita.com/sakuyan_ppr/items/c9ac6b166ba14238afeb",
+          "publishedOn": "2026-09-21T11:43:21.000Z",
+          "wordCount": 850,
+          "title": "【Minecraft】第1回リソースパック（バニラ）シェーダー解説：JSON・VSH・FSHの役割とデータの流れ（全体像）",
+          "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnBicy50d2ltZy5jb20lMkZwcm9maWxlX2ltYWdlcyUyRjE5MDQ0MzM4MjQ1Mzg0NjAxNjAlMkZVRjczZHFhWF9iaWdnZXIuanBnP2l4bGliPXJiLTQuMS4xJmFyPTElM0ExJmZpdD1jcm9wJm1hc2s9ZWxsaXBzZSZiZz1GRkZGRkYmZm09cG5nMzImcz05ODAwYjUzMWIxOTI2ZWVlOGRhM2U3ZmU0ZTRjOGQ4MA%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3De5caa3f61e923a1be26f6cfcabb67546?ixlib=rb-4.1.1&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9JUUzJTgwJTkwTWluZWNyYWZ0JUUzJTgwJTkxJUU3JUFDJUFDMSVFNSU5QiU5RSVFMyU4MyVBQSVFMyU4MiVCRCVFMyU4MyVCQyVFMyU4MiVCOSVFMyU4MyU5MSVFMyU4MyU4MyVFMyU4MiVBRiVFRiVCQyU4OCVFMyU4MyU5MCVFMyU4MyU4QiVFMyU4MyVBOSVFRiVCQyU4OSVFMyU4MiVCNyVFMyU4MiVBNyVFMyU4MyVCQyVFMyU4MyU4MCVFMyU4MyVCQyVFOCVBNyVBMyVFOCVBQSVBQyVFRiVCQyU5QUpTT04lRTMlODMlQkJWU0glRTMlODMlQkJGU0glRTMlODElQUUlRTUlQkQlQjklRTUlODklQjIlRTMlODElQTglRTMlODMlODclRTMlODMlQkMlRTMlODIlQkYlRTMlODElQUUlRTYlQjUlODElRTMlODIlOEMlRTIlODAlQTYmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz1jZjA2MmUwNmVmYTBmNTUzYTZkZTY5YWQxMTMxMDNjMQ&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBzYWt1eWFuX3BwciZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPWI1MTRkNDUxNmY4M2Y5NmNlNjE0ZGFhODllOTNjNWY2&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=ab328d9e03c1f4af81d4dd5a929f4eaa"
+        }
+      ]
     },
     {
       "title": "Zennの「HLSL」のフィード",

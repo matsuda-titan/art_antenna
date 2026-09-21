@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-21T02:17:15.137Z</updated>
+    <updated>2026-09-21T08:20:28.867Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【アドオン紹介】Bodiez – ベースモデルをカスタム作成！]]></title>
+        <id>https://cgbox.jp/?p=65697</id>
+        <link href="https://cgbox.jp/2026/09/21/news-addon-bodiez/"/>
+        <updated>2026-09-21T03:08:48.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは！ 今回はアドオンの「Bodiez」を紹介します。 こちらのリンクがアドオンの商品ページになります。 Bodiez 「Bodiez」は、Blenderでキャラクター制作を始めるための、男性・女性それぞれのカスタ […]]]></summary>
+        <author>
+            <name>kasahara</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hi3D V3.0 – 平面的なアニメ調イラスト1枚から動物キャラクターと小物を3Dモデル化してみた！]]></title>
+        <id>https://modelinghappy.com/?p=70442</id>
+        <link href="https://modelinghappy.com/archives/70442"/>
+        <updated>2026-09-21T02:20:29.000Z</updated>
+        <summary type="html"><![CDATA[Hi3D V3.0 今回はHi3Dを使って、アニメ調の動物キャラクター4体と、杖・扇子・バッグなどのプロップを1枚の画像から3Dモデル化してみました。 陰影のあまりないアニメ調のイラストからでも、3Dモデルが生成出来るの
+The post Hi3D V3.0 – 平面的なアニメ調イラスト1枚から動物キャラクターと小物を3Dモデル化してみた！ first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
+        <author>
+            <name>modelinghappy</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[碧天氏、無料のMaya用コンストレイントツール「Create_Constraint_Tool」公開　複数オブジェクトのコンストレイント設定を一括管理＆処理 - ニュース]]></title>
         <id>https://cgworld.jp/flashnews/01-202609-Maya-ConstraintTool.html</id>
@@ -14,6 +35,37 @@
         <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
         <author>
             <name>CGWORLD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[フォトグラメトリ数学｜56：GSD（地上解像度）とは何か]]></title>
+        <id>https://zenn.dev/s_hashida/articles/aab95c610f0547</id>
+        <link href="https://zenn.dev/s_hashida/articles/aab95c610f0547"/>
+        <updated>2026-09-20T22:05:05.000Z</updated>
+        <summary type="html"><![CDATA[はじめに
+前回は、フォトグラメトリから生成される代表的な成果物として、
+
+Sparse Point Cloud
+Dense Point Cloud
+DSM
+Orthophoto
+Orthomosaic
+3D Mesh
+Textured 3D Model
+
+について整理しました。
+
+その中で重要だったのが、
+
+Point Cloudは3次元点の集合
+DSMは平面位置に対応する高さ
+Orthophotoは地上位置と対応した2次元画像
+3D Meshは3次元表面
+Textured 3D Modelは3次元表面に外観を与えたもの
+
+というように、同じ対象であっても目的によって異なる形式で表...]]></summary>
+        <author>
+            <name>s_hashida</name>
         </author>
     </entry>
     <entry>
@@ -4111,31 +4163,6 @@ The post Blend Buddies — Blenderの同じシーンを複数人でリアルタ�
 症状は「カクつき」ですが、原因は補間ではなく日程表にあります。 曲線を...]]></summary>
         <author>
             <name>Renga</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[勇者.cpp開発日記 #5: 走ると機体だけ後ろを向く]]></title>
-        <id>https://zenn.dev/takushio2525/articles/20260818-unity-humanoid-mirror-rig</id>
-        <link href="https://zenn.dev/takushio2525/articles/20260818-unity-humanoid-mirror-rig"/>
-        <updated>2026-08-22T17:00:00.000Z</updated>
-        <summary type="html"><![CDATA[!
-このシリーズは、C++風言語で機体のファームウェアを書いて遊ぶ自作ゲーム「勇者.cpp」の開発日記です。未発表タイトルのためゲーム内容の詳細は伏せつつ、開発現場で起きたことを記録していきます。
-
-見た目の作り込みフェーズが続いていて、#3で骨を入れた自機を、静的メッシュ（Generic取り込み）からHumanoid取り込みに切り替えた。その直後に「走らせると機体が後ろを向いている」という報告が来た。移動方向は正しい。胴だけが180度逆を向いている。
-原因はHumanoidの取り込み設定ではなく、リグの左右の名前が実物と鏡像だったことだった。そして厄介なのは、この間違いは静的メッシュの...]]></summary>
-        <author>
-            <name>たくしお</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Patterned Glass Compositor | Blenderのコンポジターだけでパターンガラス風の歪み＆屈折表現を追加できる無料ノードグループ！Blender 5.2対応！]]></title>
-        <id>https://3dnchu.com/?p=1067456</id>
-        <link href="https://3dnchu.com/archives/patterned-glass-compositor/"/>
-        <updated>2026-08-22T15:35:58.000Z</updated>
-        <summary type="html"><![CDATA[CGアーティストのBao-Thinh Dinh氏（ @Bipowpow ）が、Blenderのコンポジター上でパターンガラス風の歪みや屈折を表現できる無料ノードグループ「Patterned Glass Compositor」を公開しました。 Patterned Glass Compositor 「P […]
-続きを読む]]></summary>
-        <author>
-            <name>Ymt3D -3dnchu-</name>
         </author>
     </entry>
 </feed>

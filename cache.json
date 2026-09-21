@@ -12,6 +12,16 @@
       "siteUrl": "https://cgbox.jp",
       "articles": [
         {
+          "id": "https://cgbox.jp/?p=65697",
+          "author": "kasahara",
+          "description": "こんばんは！ 今回はアドオンの「Bodiez」を紹介します。 こちらのリンクがアドオンの商品ページになります。 Bodiez 「Bodiez」は、Blenderでキャラクター制作を始めるための、男性・女性それぞれのカスタ […]",
+          "link": "https://cgbox.jp/2026/09/21/news-addon-bodiez/",
+          "publishedOn": "2026-09-21T03:08:48.000Z",
+          "wordCount": 1930,
+          "title": "【アドオン紹介】Bodiez – ベースモデルをカスタム作成！",
+          "imageUrl": "https://cgbox.jp/wp-content/uploads/2026/09/image_processing20260916-2-xkr94x.webp"
+        },
+        {
           "id": "https://cgbox.jp/?p=65690",
           "author": "kasahara",
           "description": "こんばんは！ 今回はアドオンの「Adaptive Auto Skinning」を紹介します。 こちらのリンクがアドオンの商品ページになります。 Adaptive Auto Skinning 「Adaptive Auto  […]",
@@ -1223,21 +1233,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "https://3dnchu.com/wp-content/uploads/gauntlet-of-gods.webp"
-        },
-        {
-          "id": "https://3dnchu.com/?p=1067456",
-          "author": "Ymt3D -3dnchu-",
-          "description": "CGアーティストのBao-Thinh Dinh氏（ @Bipowpow ）が、Blenderのコンポジター上でパターンガラス風の歪みや屈折を表現できる無料ノードグループ「Patterned Glass Compositor」を公開しました。 Patterned Glass Compositor 「P […]\n続きを読む",
-          "link": "https://3dnchu.com/archives/patterned-glass-compositor/",
-          "publishedOn": "2026-08-22T15:35:58.000Z",
-          "wordCount": 8422,
-          "title": "Patterned Glass Compositor | Blenderのコンポジターだけでパターンガラス風の歪み＆屈折表現を追加できる無料ノードグループ！Blender 5.2対応！",
-          "enclosure": {
-            "url": "https://3dnchu.com/wp-content/uploads/Blender-Patterned-Glass-Compositor-A.jpg",
-            "length": "32414",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://3dnchu.com/wp-content/uploads/Blender-Patterned-Glass-Compositor-A.jpg"
         }
       ]
     },
@@ -2159,6 +2154,16 @@
       "siteUrl": "https://modelinghappy.com",
       "articles": [
         {
+          "id": "https://modelinghappy.com/?p=70442",
+          "author": "modelinghappy",
+          "description": "Hi3D V3.0 今回はHi3Dを使って、アニメ調の動物キャラクター4体と、杖・扇子・バッグなどのプロップを1枚の画像から3Dモデル化してみました。 陰影のあまりないアニメ調のイラストからでも、3Dモデルが生成出来るの\nThe post Hi3D V3.0 – 平面的なアニメ調イラスト1枚から動物キャラクターと小物を3Dモデル化してみた！ first appeared on 3DCG最新情報サイト MODELING HAPPY.",
+          "link": "https://modelinghappy.com/archives/70442",
+          "publishedOn": "2026-09-21T02:20:29.000Z",
+          "wordCount": 3249,
+          "title": "Hi3D V3.0 – 平面的なアニメ調イラスト1枚から動物キャラクターと小物を3Dモデル化してみた！",
+          "imageUrl": "https://modelinghappy.com/wp-content/uploads/2026/09/20260913_00.jpg"
+        },
+        {
           "id": "https://modelinghappy.com/?p=70611",
           "author": "modelinghappy",
           "description": "compositer Compositorは、画像の合成やレタッチ、仕上げ作業に必要な機能を備えた、Mac向けの無料画像編集ソフトです。Photoshopに近い操作感を目指して開発されており、オープンソースとして公式サイ\nThe post Compositor – Photoshopの代わりを目指して開発された画像合成やレタッチに使えるMac向け無料画像編集ソフト first appeared on 3DCG最新情報サイト MODELING HAPPY.",
@@ -2929,6 +2934,21 @@
       "siteUrl": "https://zenn.dev/topics/3dcg",
       "articles": [
         {
+          "id": "https://zenn.dev/s_hashida/articles/aab95c610f0547",
+          "author": "s_hashida",
+          "description": "はじめに\n前回は、フォトグラメトリから生成される代表的な成果物として、\n\nSparse Point Cloud\nDense Point Cloud\nDSM\nOrthophoto\nOrthomosaic\n3D Mesh\nTextured 3D Model\n\nについて整理しました。\n\nその中で重要だったのが、\n\nPoint Cloudは3次元点の集合\nDSMは平面位置に対応する高さ\nOrthophotoは地上位置と対応した2次元画像\n3D Meshは3次元表面\nTextured 3D Modelは3次元表面に外観を与えたもの\n\nというように、同じ対象であっても目的によって異なる形式で表...",
+          "link": "https://zenn.dev/s_hashida/articles/aab95c610f0547",
+          "publishedOn": "2026-09-20T22:05:05.000Z",
+          "wordCount": 1793,
+          "title": "フォトグラメトリ数学｜56：GSD（地上解像度）とは何か",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--0Luma_uD--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%2595%25E3%2582%25A9%25E3%2583%2588%25E3%2582%25B0%25E3%2583%25A9%25E3%2583%25A1%25E3%2583%2588%25E3%2583%25AA%25E6%2595%25B0%25E5%25AD%25A6%25EF%25BD%259C56%25EF%25BC%259AGSD%25EF%25BC%2588%25E5%259C%25B0%25E4%25B8%258A%25E8%25A7%25A3%25E5%2583%258F%25E5%25BA%25A6%25EF%25BC%2589%25E3%2581%25A8%25E3%2581%25AF%25E4%25BD%2595%25E3%2581%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:s_hashida%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2QwNzQxMzlkMjguanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+            "length": "0",
+            "type": "false"
+          },
+          "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--0Luma_uD--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%2595%25E3%2582%25A9%25E3%2583%2588%25E3%2582%25B0%25E3%2583%25A9%25E3%2583%25A1%25E3%2583%2588%25E3%2583%25AA%25E6%2595%25B0%25E5%25AD%25A6%25EF%25BD%259C56%25EF%25BC%259AGSD%25EF%25BC%2588%25E5%259C%25B0%25E4%25B8%258A%25E8%25A7%25A3%25E5%2583%258F%25E5%25BA%25A6%25EF%25BC%2589%25E3%2581%25A8%25E3%2581%25AF%25E4%25BD%2595%25E3%2581%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:s_hashida%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2QwNzQxMzlkMjguanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+        },
+        {
           "id": "https://zenn.dev/orca_forge/articles/head-chest-angle-zero-degrees",
           "author": "orca_forge",
           "description": "📝 この記事は forge.workstyle.tech に掲載した記事の転載です。\n\nキャラクターの頭が、体をひねるたびに一緒に振られる。頭と胸の角度差を測ると、全フレームで0.000°でした。原因に気づくまで、頭の向け方を下流で3回作り直しています。\n原因は、計測に使った鼻と耳のランドマークが、胴体の基底ベクトルから合成されていたことでした。頭と胸を別々に測ったつもりが、同じ向きを比較していたのです。\n固定カメラの実写動画からVRMアニメーションを作る連載の第2回です。今回は、計測対象、座標系、検証方法の取り違えを、実際の失敗から整理します。\n前回は、パイプライン全体と設計判断を扱...",
@@ -3152,21 +3172,6 @@
             "type": "false"
           },
           "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--Ge-Q2fvk--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2580%258C%25E3%2582%25AB%25E3%2582%25AF%25E3%2581%25A4%25E3%2581%258F%25E3%2580%258D%25E3%2581%25AE%25E5%258E%259F%25E5%259B%25A0%25E3%2581%25AF%25E8%25A3%259C%25E9%2596%2593%25E3%2581%25A7%25E3%2581%25AF%25E3%2581%25AA%25E3%2581%258F%25E6%2597%25A5%25E7%25A8%258B%25E8%25A1%25A8%25E3%2581%25A0%25E3%2581%25A3%25E3%2581%259F%25EF%25BC%2588%25E5%258B%2595%25E3%2581%258D%25E3%2582%2592%25E7%2596%2591%25E3%2581%2586%25E9%25A0%2586%25E7%2595%25AA%25EF%25BC%2589%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Renga%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2IyYzI4MDZiNDEuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
-        },
-        {
-          "id": "https://zenn.dev/takushio2525/articles/20260818-unity-humanoid-mirror-rig",
-          "author": "たくしお",
-          "description": "!\nこのシリーズは、C++風言語で機体のファームウェアを書いて遊ぶ自作ゲーム「勇者.cpp」の開発日記です。未発表タイトルのためゲーム内容の詳細は伏せつつ、開発現場で起きたことを記録していきます。\n\n見た目の作り込みフェーズが続いていて、#3で骨を入れた自機を、静的メッシュ（Generic取り込み）からHumanoid取り込みに切り替えた。その直後に「走らせると機体が後ろを向いている」という報告が来た。移動方向は正しい。胴だけが180度逆を向いている。\n原因はHumanoidの取り込み設定ではなく、リグの左右の名前が実物と鏡像だったことだった。そして厄介なのは、この間違いは静的メッシュの...",
-          "link": "https://zenn.dev/takushio2525/articles/20260818-unity-humanoid-mirror-rig",
-          "publishedOn": "2026-08-22T17:00:00.000Z",
-          "wordCount": 1474,
-          "title": "勇者.cpp開発日記 #5: 走ると機体だけ後ろを向く",
-          "enclosure": {
-            "url": "https://res.cloudinary.com/zenn/image/upload/s--CzLDEKBb--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E5%258B%2587%25E8%2580%2585.cpp%25E9%2596%258B%25E7%2599%25BA%25E6%2597%25A5%25E8%25A8%2598%2520%25235%253A%2520%25E8%25B5%25B0%25E3%2582%258B%25E3%2581%25A8%25E6%25A9%259F%25E4%25BD%2593%25E3%2581%25A0%25E3%2581%2591%25E5%25BE%258C%25E3%2582%258D%25E3%2582%2592%25E5%2590%2591%25E3%2581%258F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%259F%25E3%2581%258F%25E3%2581%2597%25E3%2581%258A%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2Q4ODkzMGZmNzcuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
-            "length": "0",
-            "type": "false"
-          },
-          "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--CzLDEKBb--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E5%258B%2587%25E8%2580%2585.cpp%25E9%2596%258B%25E7%2599%25BA%25E6%2597%25A5%25E8%25A8%2598%2520%25235%253A%2520%25E8%25B5%25B0%25E3%2582%258B%25E3%2581%25A8%25E6%25A9%259F%25E4%25BD%2593%25E3%2581%25A0%25E3%2581%2591%25E5%25BE%258C%25E3%2582%258D%25E3%2582%2592%25E5%2590%2591%25E3%2581%258F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%259F%25E3%2581%258F%25E3%2581%2597%25E3%2581%258A%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2Q4ODkzMGZmNzcuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
         }
       ]
     },

@@ -2,10 +2,54 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-23T15:45:12.132Z</updated>
+    <updated>2026-09-24T02:10:08.032Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[『Clair Obscur: Expedition 33』開発ポストモーテム【前編】キャラクター制作＆テクニカルアートから紐解くUE5活用術 - 特集]]></title>
+        <id>https://cgworld.jp/article/202609-coe33-01.html</id>
+        <link href="https://cgworld.jp/article/202609-coe33-01.html"/>
+        <updated>2026-09-24T01:49:00.000Z</updated>
+        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[読んで触ってよくわかる！Mayaを使いこなす為のAtoZ 第115回：Mayaの隠れた環境変数　パート２（ファイル管理系）]]></title>
+        <id>https://area.autodesk.jp/column/tutorial/maya_atoz/hidden-environment-variables-part-2/</id>
+        <link href="https://area.autodesk.jp/column/tutorial/maya_atoz/hidden-environment-variables-part-2/"/>
+        <updated>2026-09-24T01:15:00.000Z</updated>
+        <summary type="html"><![CDATA[Mayaの隠れた環境変数、パート2はファイル管理系です。MAYA_ASCII_ENABLE_THREADINGとMAYA_ASCII_IO_BUFFER_SIZE_IN_MBによるMaya ASCIIの読み書き高速化、MAYA_FORCE_REF_READによるファイルリファレンス最適化の無効化を、実測値とあわせて解説します。・・・]]></summary>
+        <author>
+            <name>AREA JAPAN | Autodesk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[UnityのHDR入門：Bloom・トーンマッピング・HDRディスプレイ出力を理解する]]></title>
+        <id>https://zenn.dev/gamedev_toollab/articles/1fad4c27c51acb</id>
+        <link href="https://zenn.dev/gamedev_toollab/articles/1fad4c27c51acb"/>
+        <updated>2026-09-24T01:00:06.000Z</updated>
+        <summary type="html"><![CDATA[はじめに
+Unityで発光するマテリアルを作ろうとすると、HDR、Emission、Bloom、Exposure、Tonemappingといった言葉が登場します。さらに、Player Settingsにも「HDR Display Output」という設定があります。
+似た場面で登場しますが、これらは同じ機能ではありません。
+この記事では、「レンダリング中に明るさを保持すること」と「HDRディスプレイへ出力すること」を分けて整理します。そのうえで、SDRモニターでも試せる最小シーンから、HDR出力、シェーダー、RenderTextureの注意点までつなげて説明します。
+第1〜5章は内部...]]></summary>
+        <author>
+            <name>GameDev Tool Lab</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Daniel Albarracin氏、Houdiniでの建物再構築エフェクトのチュートリアルを公開　点群や行列を利用したジオメトリックな破片のアニメーション - ニュース]]></title>
+        <id>https://cgworld.jp/flashnews/01-202609-Houdini-Reconst.html</id>
+        <link href="https://cgworld.jp/flashnews/01-202609-Houdini-Reconst.html"/>
+        <updated>2026-09-23T23:16:10.000Z</updated>
+        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Auto Unwrap v1.0 | 340超のモデルで学習し精度を向上！オーガニック・ハードサーフェス・衣装に対応したUV自動展開Blenderアドオン！シーム生成からUDIMパッキングまで対応！]]></title>
         <id>https://3dnchu.com/?p=1068571</id>
@@ -4014,28 +4058,6 @@ The post Patterned Glass Node Group – Blenderのコンポジターだけでガ
 投稿 【Maya】ビューポートの背景色を変更する方法 は エンホリ - ENVIRONMENT HOLIC｜C&R Creative Studios に最初に表示されました。]]></summary>
         <author>
             <name>Erika.Yamanaka</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Unity 6.3のUnifiedRayTracing APIは何が違う？RayTracingShaderとの比較と制約]]></title>
-        <id>https://qiita.com/AkitsuguHirano/items/af1b00470a4ed3b22c90</id>
-        <link href="https://qiita.com/AkitsuguHirano/items/af1b00470a4ed3b22c90"/>
-        <updated>2026-08-25T06:52:23.000Z</updated>
-        <summary type="html"><![CDATA[Unity 6.3でpublic APIとして公開された UnifiedRayTracing は、ハードウェアRT対応GPUではHardware backendを、非対応GPUではCompute backendを使えるレイトレーシングAPIです。
-ただし、これは RayTr...]]></summary>
-        <author>
-            <name>Shaderタグが付けられた新着記事 - Qiita</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Unity 6.3のUnifiedRayTracing APIは何が違う？RayTracingShaderとの比較と制約]]></title>
-        <id>https://qiita.com/AkitsuguHirano/items/af1b00470a4ed3b22c90</id>
-        <link href="https://qiita.com/AkitsuguHirano/items/af1b00470a4ed3b22c90"/>
-        <updated>2026-08-25T06:52:23.000Z</updated>
-        <summary type="html"><![CDATA[Unity 6.3でpublic APIとして公開された UnifiedRayTracing は、ハードウェアRT対応GPUではHardware backendを、非対応GPUではCompute backendを使えるレイトレーシングAPIです。
-ただし、これは RayTr...]]></summary>
-        <author>
-            <name>HLSLタグが付けられた新着記事 - Qiita</name>
         </author>
     </entry>
     <entry>

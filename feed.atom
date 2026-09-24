@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-24T07:56:07.431Z</updated>
+    <updated>2026-09-24T13:02:46.698Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Dressmaker – 生地選びから裁断・縫製まで！お客さんの依頼に合わせてドレスを仕立て、店の評判を上げるクラフトゲーム]]></title>
+        <id>https://modelinghappy.com/?p=70638</id>
+        <link href="https://modelinghappy.com/archives/70638"/>
+        <updated>2026-09-24T10:53:49.000Z</updated>
+        <summary type="html"><![CDATA[Dressmaker 2026年9月21日にSteamでDressmakerが発売しました。 洋服作りの工程を体験できるクラフトゲームで、生地を選び、型紙を配置して裁断し、ミシンで縫い合わせてドレスを完成させる事が可能で
+The post Dressmaker – 生地選びから裁断・縫製まで！お客さんの依頼に合わせてドレスを仕立て、店の評判を上げるクラフトゲーム first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
+        <author>
+            <name>modelinghappy</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Niantic Spatial、Gaussianスプラットの照明条件を変更できる「リライティング」機能を発表]]></title>
         <id>https://cginterest.com/?p=62674</id>
@@ -32,6 +43,16 @@ The post Quadify Base – Blenderで有料販売されていた四角ポリゴ�
         <id>https://cgworld.jp/article/80pixaranimation-master-class-20261126-29.html</id>
         <link href="https://cgworld.jp/article/80pixaranimation-master-class-20261126-29.html"/>
         <updated>2026-09-24T05:23:33.000Z</updated>
+        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[9/25（金）東京にて「Game Developers Meeting Vol.66」開催。UEモバイルゲーム開発の最前線 グラフィックス・アセット配信・新しいバージョン管理システム「Lore」 - ニュース]]></title>
+        <id>https://cgworld.jp/flashnews/02-2609-gdm66.html</id>
+        <link href="https://cgworld.jp/flashnews/02-2609-gdm66.html"/>
+        <updated>2026-09-24T04:31:24.000Z</updated>
         <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
         <author>
             <name>CGWORLD</name>
@@ -4045,49 +4066,6 @@ The post Smart Remesh 2アップデート！Blenderでポリゴンを自動削�
 The post Triage -レンダリング前にシーンの問題点を検出・診断するBlender用アドオン first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
         <author>
             <name>modelinghappy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cygames、CEDEC2026の11講演資料を公開　『Shadowverse』のエフェクトや3D背景、『グラブル』のVFXなど11講演資料 - ニュース]]></title>
-        <id>https://cgworld.jp/flashnews/01-202608-Cygames-CEDEC.html</id>
-        <link href="https://cgworld.jp/flashnews/01-202608-Cygames-CEDEC.html"/>
-        <updated>2026-08-26T00:02:45.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[フォトグラメトリ数学｜49：SGM（Semi-Global Matching）とは？～局所的なMatchingから画像全体の整合性へ～]]></title>
-        <id>https://zenn.dev/s_hashida/articles/1b649f3643eb2e</id>
-        <link href="https://zenn.dev/s_hashida/articles/1b649f3643eb2e"/>
-        <updated>2026-08-25T21:55:05.000Z</updated>
-        <summary type="html"><![CDATA[はじめに
-前回は、
-
-Matching Costの不安定さ
-Cost Aggregation
-Window
-Window Size
-重み付きCost Aggregation
-
-について説明しました。
-
-その中で重要だったのが、
-
-1画素だけでMatching Costを評価すると視差が不安定になることがある
-周辺画素のCostを集約することで対応評価を安定化できる
-Windowを大きくすると安定する一方、奥行き境界がぼやけることがある
-
-という点です。
-
-前回は、Cost Aggregationを、
-
-C_{\mathrm{agg}}(p,d)
-=
-\sum_{q\in W(p)}...]]></summary>
-        <author>
-            <name>s_hashida</name>
         </author>
     </entry>
 </feed>

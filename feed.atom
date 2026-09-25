@@ -2,10 +2,132 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-25T08:19:02.017Z</updated>
+    <updated>2026-09-25T16:06:54.500Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Maya Pythonで選択したライトを一括調整するツールを作った]]></title>
+        <id>https://qiita.com/re_sumir/items/d786c4d5c907c1b5a606</id>
+        <link href="https://qiita.com/re_sumir/items/d786c4d5c907c1b5a606"/>
+        <updated>2026-09-25T14:13:06.000Z</updated>
+        <summary type="html"><![CDATA[はじめに
+今日初めてMaya Pythonに触れたので、体にしみこませようといろいろなものを作っています。
+
+目指したもの
+一括で選択したライトの光の強さと、色を変えるという機能を実装することを目的にしました。
+つまりlightshapesのアトリビュートのrgbの変更と...]]></summary>
+        <author>
+            <name>mayaタグが付けられた新着記事 - Qiita</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【図解】Unity×Computeシェーダーで流体シミュレーション（Stable Fluids）を作った]]></title>
+        <id>https://zenn.dev/haharman/articles/310d80dc737c2b</id>
+        <link href="https://zenn.dev/haharman/articles/310d80dc737c2b"/>
+        <updated>2026-09-25T14:03:38.000Z</updated>
+        <summary type="html"><![CDATA[完成品です
+
+ はじめに
+
+StableFluidsとは、「安定した流体シミュレーション」です。dt（1フレームに進める時間）を大きくしてもバグが発生しないため、ゲームやシミュレーションの分野で幅広く応用されています。
+使用例
+
+Fluidを体験できる代表的なモバイルアプリ「Fluid Simulation」🔗Android 🔗iOS
+
+現実のFluidを題材にしたMV 🔗YouTube
+
+
+
+この記事ではUnityでStableFluidsを用いて、インクが流れる表現を作ります！
+
+!
+技術的に新しい点はないと思います、、。
+アルゴリズムの図解などで少しでも有益な記事になるよう頑張り...]]></summary>
+        <author>
+            <name>ハーマン</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【図解】Unity×Computeシェーダーで流体シミュレーション（Stable Fluids）を作った]]></title>
+        <id>https://zenn.dev/haharman/articles/310d80dc737c2b</id>
+        <link href="https://zenn.dev/haharman/articles/310d80dc737c2b"/>
+        <updated>2026-09-25T14:03:38.000Z</updated>
+        <summary type="html"><![CDATA[完成品です
+
+ はじめに
+
+StableFluidsとは、「安定した流体シミュレーション」です。dt（1フレームに進める時間）を大きくしてもバグが発生しないため、ゲームやシミュレーションの分野で幅広く応用されています。
+使用例
+
+Fluidを体験できる代表的なモバイルアプリ「Fluid Simulation」🔗Android 🔗iOS
+
+現実のFluidを題材にしたMV 🔗YouTube
+
+
+
+この記事ではUnityでStableFluidsを用いて、インクが流れる表現を作ります！
+
+!
+技術的に新しい点はないと思います、、。
+アルゴリズムの図解などで少しでも有益な記事になるよう頑張り...]]></summary>
+        <author>
+            <name>ハーマン</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NVIDIA、RTX Mega Geometry 2.0やACEの音声モデルなどゲーム開発者向けの最新アップデートを発表！]]></title>
+        <id>https://cginterest.com/?p=62735</id>
+        <link href="https://cginterest.com/2026/09/25/nvidia%e3%80%81rtx-mega-geometry-2-0%e3%82%84ace%e3%81%ae%e9%9f%b3%e5%a3%b0%e3%83%a2%e3%83%87%e3%83%ab%e3%81%aa%e3%81%a9%e3%82%b2%e3%83%bc%e3%83%a0%e9%96%8b%e7%99%ba%e8%80%85%e5%90%91%e3%81%91/"/>
+        <updated>2026-09-25T12:02:09.000Z</updated>
+        <summary type="html"><![CDATA[2026年9月22日（現地時間） – NVIDIAは、ゲーム開発者向けの最新情報として、「DLSS 5」の3Dガイド付きニューラルレンダリング（3D-Guided Neural Rendering）の開発者向けコントロー […]]]></summary>
+        <author>
+            <name>.me</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[第3回：事前準備で決まる、モーションキャプチャの成否 - 連載]]></title>
+        <id>https://cgworld.jp/regular/motion-capture03.html</id>
+        <link href="https://cgworld.jp/regular/motion-capture03.html"/>
+        <updated>2026-09-25T11:00:01.000Z</updated>
+        <summary type="html"><![CDATA[長年、モーションキャプチャのコーディネーターとして活躍してきた谷山尚未氏が、現場でのノウハウをインタビュー]]></summary>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Maya PythonでFreeze Transformationsをチェックするツールを作ってみた]]></title>
+        <id>https://qiita.com/re_sumir/items/7474ba56af9829de6e46</id>
+        <link href="https://qiita.com/re_sumir/items/7474ba56af9829de6e46"/>
+        <updated>2026-09-25T10:51:39.000Z</updated>
+        <summary type="html"><![CDATA[はじめに
+最近テクニカルアーティスト(TA)という職業に興味が出てきて、ツール開発をしてみようと思い立ちました。
+一方でプログラミングに関しては、そこまで得意ではないので、Maya Pythonを使って簡単なツールを作るところから始めました。
+この記事ではタイトル通り、F...]]></summary>
+        <author>
+            <name>mayaタグが付けられた新着記事 - Qiita</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[アドビ、Gemini向けコネクタを提供開始し、Claude向けプラグインにAcrobatのツールと直接編集エディターを追加]]></title>
+        <id>https://cginterest.com/?p=62721</id>
+        <link href="https://cginterest.com/2026/09/25/%e3%82%a2%e3%83%89%e3%83%93%e3%80%81gemini%e5%90%91%e3%81%91%e3%82%b3%e3%83%8d%e3%82%af%e3%82%bf%e3%82%92%e6%8f%90%e4%be%9b%e9%96%8b%e5%a7%8b%e3%81%97%e3%80%81claude%e5%90%91%e3%81%91%e3%83%97/"/>
+        <updated>2026-09-25T10:18:00.000Z</updated>
+        <summary type="html"><![CDATA[2026年9月24日（現地時間）– アドビは、Googleの「Gemini」向けに「アドビコネクタ（Adobe for Gemini）」の提供を開始するとともに、「Claude」向けアドビプラグイン（Adobe for  […]]]></summary>
+        <author>
+            <name>.me</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Meta、Connect 2026にて約100gの「Meta VR Glasses」やAIグラス関連の新製品・新機能を一挙発表]]></title>
+        <id>https://cginterest.com/?p=62703</id>
+        <link href="https://cginterest.com/2026/09/25/meta%e3%80%81connect-2026%e3%81%ab%e3%81%a6%e7%b4%84100g%e3%81%ae%e3%80%8cmeta-vr-glasses%e3%80%8d%e3%82%84ai%e3%82%b0%e3%83%a9%e3%82%b9%e9%96%a2%e9%80%a3%e3%81%ae%e6%96%b0%e8%a3%bd%e5%93%81%e3%83%bb/"/>
+        <updated>2026-09-25T10:08:45.000Z</updated>
+        <summary type="html"><![CDATA[2026年9月23日（現地時間） – Metaは、イベント「Connect 2026」において、AIグラス関連の新製品と新機能をまとめて発表しました。 発表内容ダイジェスト 今回の発表を、製品・機能ごとに整理すると次のと […]]]></summary>
+        <author>
+            <name>.me</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【DirectX11】【HLSL】リムライトで輪郭を光らせよう!【TsukinoEngine】]]></title>
         <id>https://qiita.com/tsukino_/items/e34d4fcf8a9ee0a7d861</id>
@@ -4000,80 +4122,6 @@ The post AI Roto – 動画内の人物や物体をAIで認識して自動マス
         <summary type="html"><![CDATA[続きをみる]]></summary>
         <author>
             <name>#SubstanceDesignerタグ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【IZ YouTube ch】Houdini × ChatGPT｜GPT-5.6でHoudiniの学習と制作はどこまで変わったのか]]></title>
-        <id>https://note.com/indyzone/n/n739597b81d76</id>
-        <link href="https://note.com/indyzone/n/n739597b81d76"/>
-        <updated>2026-08-27T03:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Houdini × ChatGPT
-■ 【Houdini × ChatGPT】GPT-5.6でHoudiniの学習と制作はどこまで変わったのか
-続きをみる]]></summary>
-        <author>
-            <name>#Houdiniタグ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2026年8月の NVIDIA Studio Driver アップデートがリリース！]]></title>
-        <id>https://cginterest.com/?p=62034</id>
-        <link href="https://cginterest.com/2026/08/27/2026%e5%b9%b48%e6%9c%88%e3%81%ae-nvidia-studio-driver-%e3%82%a2%e3%83%83%e3%83%97%e3%83%87%e3%83%bc%e3%83%88%e3%81%8c%e3%83%aa%e3%83%aa%e3%83%bc%e3%82%b9%ef%bc%81/"/>
-        <updated>2026-08-27T02:37:39.000Z</updated>
-        <summary type="html"><![CDATA[2026年8月26日（現地時間）、NVIDIAよりクリエイターおよび3D開発者向けの最新グラフィックスドライバー8月版 NVIDIA Studio Driverがリリースされました。 今月のアップデート内容 今回のStu […]]]></summary>
-        <author>
-            <name>.me</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Zen UV 5.4がリリース！同じUVを重ねる機能を刷新し、自動シーム作成や新しいUV選択・パッキング機能を追加]]></title>
-        <id>https://modelinghappy.com/?p=70133</id>
-        <link href="https://modelinghappy.com/archives/70133"/>
-        <updated>2026-08-27T01:53:09.000Z</updated>
-        <summary type="html"><![CDATA[Zen UV5.4 BlenderでUV展開やUVアイランドの編集作業を効率化できるアドオン「Zen UV」のバージョン5.4がリリースされました。 今回のアップデートでは、同じUVを重ねる「スタックシステム」の全面刷新
-The post Zen UV 5.4がリリース！同じUVを重ねる機能を刷新し、自動シーム作成や新しいUV選択・パッキング機能を追加 first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
-        <author>
-            <name>modelinghappy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[第6回：ユニットを使用した簡単なリグを作成しよう - 連載]]></title>
-        <id>https://cgworld.jp/regular/202608-est3-06.html</id>
-        <link href="https://cgworld.jp/regular/202608-est3-06.html"/>
-        <updated>2026-08-27T00:43:00.000Z</updated>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cycletex: Retro Texture Tool – 写真からシームレスなレトロゲーム風テクスチャを作成できるツール無料体験版あり]]></title>
-        <id>https://modelinghappy.com/?p=70125</id>
-        <link href="https://modelinghappy.com/archives/70125"/>
-        <updated>2026-08-26T23:59:51.000Z</updated>
-        <summary type="html"><![CDATA[Cycletex: Retro Texture Tool Cycletexは色数の制限や画像の縮小、パース補正、背景削除、シームレス化など、写真をゲーム用テクスチャへ加工するための機能がまとめられたツールです。 写真に写
-The post Cycletex: Retro Texture Tool – 写真からシームレスなレトロゲーム風テクスチャを作成できるツール無料体験版あり first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
-        <author>
-            <name>modelinghappy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[スカルプトツール「Nomad Sculpt」、BlenderやZBrushとのアプリリンク機能を追加 - ニュース]]></title>
-        <id>https://cgworld.jp/flashnews/01-202608-Nomad-LiveLink.html</id>
-        <link href="https://cgworld.jp/flashnews/01-202608-Nomad-LiveLink.html"/>
-        <updated>2026-08-26T23:18:14.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Smart Remesh 2 | UVやマテリアルを維持しながら不要なエッジループを削減＆リメッシュが可能なBlenderアドオン！最新アップデート！Win＆Mac＆Linux]]></title>
-        <id>https://3dnchu.com/?p=1067663</id>
-        <link href="https://3dnchu.com/archives/smart-remesh-2/"/>
-        <updated>2026-08-26T20:36:17.000Z</updated>
-        <summary type="html"><![CDATA[3DRedbox StudioのMilad Kambari氏（ @MiladKambari ）によるBlender向けリメッシュアドオン「Smart Remesh」が大型アップデートされ「Smart Remesh 2」としてリリースされました！UVやマテリアルの維持、不要なエッジループの削減、範囲を […]
-続きを読む]]></summary>
-        <author>
-            <name>Ymt3D -3dnchu-</name>
         </author>
     </entry>
 </feed>

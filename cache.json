@@ -3117,6 +3117,16 @@
       "siteUrl": "https://qiita.com",
       "articles": [
         {
+          "id": "https://qiita.com/re_sumir/items/30ddafcf096ea0d27e50",
+          "author": null,
+          "description": "目的\nテクスチャーが多すぎて何が使っているマテリアルか、何が使っていないマテリアルかいちいち確認するのが面倒だったため作りました\n\n実装\n基本的に、aiStandardSurfaceしか使っていなかったので、マテリアルにアサインされていないaiStandardSurfac...",
+          "link": "https://qiita.com/re_sumir/items/30ddafcf096ea0d27e50",
+          "publishedOn": "2026-09-26T06:36:57.000Z",
+          "wordCount": 677,
+          "title": "未使用マテリアルを検出するツールを作った",
+          "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnFpaXRhLWltYWdlLXN0b3JlLnMzLmFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkYwJTJGNDMyMzY3NiUyRnByb2ZpbGUtaW1hZ2VzJTJGMTc5MDM1MjgwMz9peGxpYj1yYi00LjEuMSZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9Njg5ODUzMGNhZGIyMTlhMzIzMjU5OTFjYzdhYTBlYzg%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D9a706a2a96cb19f78787446bf953ce14?ixlib=rb-4.1.1&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9JUU2JTlDJUFBJUU0JUJEJUJGJUU3JTk0JUE4JUUzJTgzJTlFJUUzJTgzJTg2JUUzJTgzJUFBJUUzJTgyJUEyJUUzJTgzJUFCJUUzJTgyJTkyJUU2JUE0JTlDJUU1JTg3JUJBJUUzJTgxJTk5JUUzJTgyJThCJUUzJTgzJTg0JUUzJTgzJUJDJUUzJTgzJUFCJUUzJTgyJTkyJUU0JUJEJTlDJUUzJTgxJUEzJUUzJTgxJTlGJnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9MWM2ZjhlMjBhNjU5ZGY5NzE1NDU5MDFkMzFjNzQxOTk&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDByZV9zdW1pciZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPTgzYjEyNzljZGE0ZjQwMzg3Yjk3NWFkYWU2ZDEyM2Ew&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=90913979b4e3565564e02af05f09228d"
+        },
+        {
           "id": "https://qiita.com/re_sumir/items/d786c4d5c907c1b5a606",
           "author": null,
           "description": "はじめに\n今日初めてMaya Pythonに触れたので、体にしみこませようといろいろなものを作っています。\n\n目指したもの\n一括で選択したライトの光の強さと、色を変えるという機能を実装することを目的にしました。\nつまりlightshapesのアトリビュートのrgbの変更と...",
@@ -3593,6 +3603,76 @@
       "feedUrl": "https://note.com/hashtag/Houdini/rss",
       "siteUrl": "https://note.com/hashtag/Houdini",
       "articles": [
+        {
+          "id": "https://note.com/indyzone/n/n254bb267b7e4",
+          "author": null,
+          "description": "Houdini × ComfyUI\nHoudiniとComfyUIを接続する外部プラグイン「Houdini ComfyUI Bridge」の導入方法を解説します。インストールから基本セットアップ、動作確認まで、生成AIをHoudiniのノードベースワークフローに組み込む第一歩をご紹介します。\n続きをみる",
+          "link": "https://note.com/indyzone/n/n254bb267b7e4",
+          "publishedOn": "2026-09-26T07:30:12.000Z",
+          "wordCount": 3272,
+          "title": "Houdini × ComfyUI Bridge 導入ガイド｜インストールから基本セットアップまで",
+          "imageUrl": "https://assets.st-note.com/production/uploads/images/317719429/rectangle_large_type_2_87a6e6a2f62c5b9fbacd20cfce55cdb8.jpeg?width=800"
+        },
+        {
+          "id": "https://note.com/indyzone/n/n4534da87feca",
+          "author": null,
+          "description": "SideFX より、Houdini 22 の Sneak Peek が公開されました。\nガウシアンスプラッティング、Copernicus、KineFX/APEX、Solaris/Karma、UIとビューポートの刷新など、\n今後の制作ワークフローに大きく関わる領域の注目点をまとめます。\n  \n続きをみる",
+          "link": "https://note.com/indyzone/n/n4534da87feca",
+          "publishedOn": "2026-09-26T06:32:27.000Z",
+          "wordCount": 3201,
+          "title": "【SideFX社】Houdini 22 Sneak Peekまとめ｜ガウシアンスプラット、Copernicus、APEX、Solaris/Karmaの注目点",
+          "imageUrl": "https://assets.st-note.com/production/uploads/images/317713066/rectangle_large_type_2_4497e66e87d97158a8e8c23c9bc89d79.jpeg?width=800"
+        },
+        {
+          "id": "https://note.com/indyzone/n/n119b1c5ed719",
+          "author": null,
+          "description": "キーワードは「プロシージャルの拡張」\n— Gaussian Splats、キャラクター、Copernicus、USD\nプロシージャルの強みを、エフェクトの外側へ。UIの刷新からGaussian Splats、キャラクター、Copernicus、Solaris/USDまで、Houdini 22 Keynoteの要点を6つの柱で読み解きます。\nSideFX が Houdini 22 の Keynote を公開しました。\nこの記事では、発表された新機能をただ並べるのではなく、\n「Houdini 22 はどこへ向かおうとしているのか」という視点で整理します。\n続きをみる",
+          "link": "https://note.com/indyzone/n/n119b1c5ed719",
+          "publishedOn": "2026-09-26T05:58:21.000Z",
+          "wordCount": 3205,
+          "title": "Houdini 22 Keynote まとめ",
+          "imageUrl": "https://assets.st-note.com/production/uploads/images/317703373/rectangle_large_type_2_6a2228b741e5565f74ef65175ee85a87.jpeg?width=800"
+        },
+        {
+          "id": "https://note.com/indyzone/n/n801afbbf9431",
+          "author": null,
+          "description": "Geometry Spreadsheet に並ぶ「Points」「Vertices」「Primitives」「Detail」。特に他の3DCGソフトから乗り換えた方が最初に混乱する「Point と Vertex の違い」を、Houdini のジオメトリ構造の基礎から感覚的に理解できるように解説します。\n続きをみる",
+          "link": "https://note.com/indyzone/n/n801afbbf9431",
+          "publishedOn": "2026-09-26T05:32:26.000Z",
+          "wordCount": 4491,
+          "title": "【IZ YouTube ch】｜Houdini 入門｜Point と Vertex は何が違う？ ジオメトリを構成する 4 つのコンポーネントを解説（Part 1）",
+          "imageUrl": "https://assets.st-note.com/production/uploads/images/317681281/rectangle_large_type_2_9343c7786b2cc35fbe8697eb4e36b0de.jpeg?width=800"
+        },
+        {
+          "id": "https://note.com/indyzone/n/n48cd1320e6bb",
+          "author": null,
+          "description": "Houdini × ChatGPT Codex\n\n\n続きをみる",
+          "link": "https://note.com/indyzone/n/n48cd1320e6bb",
+          "publishedOn": "2026-09-26T04:10:47.000Z",
+          "wordCount": 3600,
+          "title": "【IZ YouTube ch】GPT-5.6｜Codexを活用してHeightFieldを自動生成する手順を解説",
+          "imageUrl": "https://assets.st-note.com/production/uploads/images/317659851/rectangle_large_type_2_1ab3f496b962ca3f72ba83bb7ed33d4b.jpeg?width=800"
+        },
+        {
+          "id": "https://note.com/indyzone/n/nf9204284b9a4",
+          "author": null,
+          "description": "IZ YouTube ch\n\n\n続きをみる",
+          "link": "https://note.com/indyzone/n/nf9204284b9a4",
+          "publishedOn": "2026-09-26T03:30:02.000Z",
+          "wordCount": 3665,
+          "title": "【IZ YouTube ch】Houdini 22 ファーストインプレッション｜約20年ぶりに刷新された新UIと、気になった新機能",
+          "imageUrl": "https://assets.st-note.com/production/uploads/images/317648458/rectangle_large_type_2_074d067a0c63b58f83404c7713e97c23.jpeg?width=800"
+        },
+        {
+          "id": "https://note.com/indyzone/n/n6c7ccb8c9cb2",
+          "author": null,
+          "description": "IZ YouTube ch\n\n\n続きをみる",
+          "link": "https://note.com/indyzone/n/n6c7ccb8c9cb2",
+          "publishedOn": "2026-09-26T02:50:08.000Z",
+          "wordCount": 3685,
+          "title": "【IZ YouTube ch】Houdini超入門｜コンポーネントって何？ Part.2：アトリビュートとの関係｜Point・Vertex・Primitiveの使い分け",
+          "imageUrl": "https://assets.st-note.com/production/uploads/images/317639905/rectangle_large_type_2_c01da4f33740d6f8224ef1a9e762c47c.jpeg?width=800"
+        },
         {
           "id": "https://note.com/indyzone/n/n87b6e7041809",
           "author": null,

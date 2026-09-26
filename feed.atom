@@ -2,10 +2,116 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-26T02:29:47.921Z</updated>
+    <updated>2026-09-26T08:06:08.204Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Houdini × ComfyUI Bridge 導入ガイド｜インストールから基本セットアップまで]]></title>
+        <id>https://note.com/indyzone/n/n254bb267b7e4</id>
+        <link href="https://note.com/indyzone/n/n254bb267b7e4"/>
+        <updated>2026-09-26T07:30:12.000Z</updated>
+        <summary type="html"><![CDATA[Houdini × ComfyUI
+HoudiniとComfyUIを接続する外部プラグイン「Houdini ComfyUI Bridge」の導入方法を解説します。インストールから基本セットアップ、動作確認まで、生成AIをHoudiniのノードベースワークフローに組み込む第一歩をご紹介します。
+続きをみる]]></summary>
+        <author>
+            <name>#Houdiniタグ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[未使用マテリアルを検出するツールを作った]]></title>
+        <id>https://qiita.com/re_sumir/items/30ddafcf096ea0d27e50</id>
+        <link href="https://qiita.com/re_sumir/items/30ddafcf096ea0d27e50"/>
+        <updated>2026-09-26T06:36:57.000Z</updated>
+        <summary type="html"><![CDATA[目的
+テクスチャーが多すぎて何が使っているマテリアルか、何が使っていないマテリアルかいちいち確認するのが面倒だったため作りました
+
+実装
+基本的に、aiStandardSurfaceしか使っていなかったので、マテリアルにアサインされていないaiStandardSurfac...]]></summary>
+        <author>
+            <name>mayaタグが付けられた新着記事 - Qiita</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【SideFX社】Houdini 22 Sneak Peekまとめ｜ガウシアンスプラット、Copernicus、APEX、Solaris/Karmaの注目点]]></title>
+        <id>https://note.com/indyzone/n/n4534da87feca</id>
+        <link href="https://note.com/indyzone/n/n4534da87feca"/>
+        <updated>2026-09-26T06:32:27.000Z</updated>
+        <summary type="html"><![CDATA[SideFX より、Houdini 22 の Sneak Peek が公開されました。
+ガウシアンスプラッティング、Copernicus、KineFX/APEX、Solaris/Karma、UIとビューポートの刷新など、
+今後の制作ワークフローに大きく関わる領域の注目点をまとめます。
+  
+続きをみる]]></summary>
+        <author>
+            <name>#Houdiniタグ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Houdini 22 Keynote まとめ]]></title>
+        <id>https://note.com/indyzone/n/n119b1c5ed719</id>
+        <link href="https://note.com/indyzone/n/n119b1c5ed719"/>
+        <updated>2026-09-26T05:58:21.000Z</updated>
+        <summary type="html"><![CDATA[キーワードは「プロシージャルの拡張」
+— Gaussian Splats、キャラクター、Copernicus、USD
+プロシージャルの強みを、エフェクトの外側へ。UIの刷新からGaussian Splats、キャラクター、Copernicus、Solaris/USDまで、Houdini 22 Keynoteの要点を6つの柱で読み解きます。
+SideFX が Houdini 22 の Keynote を公開しました。
+この記事では、発表された新機能をただ並べるのではなく、
+「Houdini 22 はどこへ向かおうとしているのか」という視点で整理します。
+続きをみる]]></summary>
+        <author>
+            <name>#Houdiniタグ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【IZ YouTube ch】｜Houdini 入門｜Point と Vertex は何が違う？ ジオメトリを構成する 4 つのコンポーネントを解説（Part 1）]]></title>
+        <id>https://note.com/indyzone/n/n801afbbf9431</id>
+        <link href="https://note.com/indyzone/n/n801afbbf9431"/>
+        <updated>2026-09-26T05:32:26.000Z</updated>
+        <summary type="html"><![CDATA[Geometry Spreadsheet に並ぶ「Points」「Vertices」「Primitives」「Detail」。特に他の3DCGソフトから乗り換えた方が最初に混乱する「Point と Vertex の違い」を、Houdini のジオメトリ構造の基礎から感覚的に理解できるように解説します。
+続きをみる]]></summary>
+        <author>
+            <name>#Houdiniタグ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【IZ YouTube ch】GPT-5.6｜Codexを活用してHeightFieldを自動生成する手順を解説]]></title>
+        <id>https://note.com/indyzone/n/n48cd1320e6bb</id>
+        <link href="https://note.com/indyzone/n/n48cd1320e6bb"/>
+        <updated>2026-09-26T04:10:47.000Z</updated>
+        <summary type="html"><![CDATA[Houdini × ChatGPT Codex
+
+
+続きをみる]]></summary>
+        <author>
+            <name>#Houdiniタグ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【IZ YouTube ch】Houdini 22 ファーストインプレッション｜約20年ぶりに刷新された新UIと、気になった新機能]]></title>
+        <id>https://note.com/indyzone/n/nf9204284b9a4</id>
+        <link href="https://note.com/indyzone/n/nf9204284b9a4"/>
+        <updated>2026-09-26T03:30:02.000Z</updated>
+        <summary type="html"><![CDATA[IZ YouTube ch
+
+
+続きをみる]]></summary>
+        <author>
+            <name>#Houdiniタグ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【IZ YouTube ch】Houdini超入門｜コンポーネントって何？ Part.2：アトリビュートとの関係｜Point・Vertex・Primitiveの使い分け]]></title>
+        <id>https://note.com/indyzone/n/n6c7ccb8c9cb2</id>
+        <link href="https://note.com/indyzone/n/n6c7ccb8c9cb2"/>
+        <updated>2026-09-26T02:50:08.000Z</updated>
+        <summary type="html"><![CDATA[IZ YouTube ch
+
+
+続きをみる]]></summary>
+        <author>
+            <name>#Houdiniタグ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【IZ YouTube ch】Houdiniのモチベが上がらない理由 10選]]></title>
         <id>https://note.com/indyzone/n/n87b6e7041809</id>

@@ -2,10 +2,76 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-26T08:06:08.204Z</updated>
+    <updated>2026-09-26T15:20:35.936Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[cvELD Quick INK | リアルタイムにアウトラインを描画！軽量動作＆細かな調整が可能なBlenderアドオン！]]></title>
+        <id>https://3dnchu.com/?p=1068709</id>
+        <link href="https://3dnchu.com/archives/cveld-quick-ink/"/>
+        <updated>2026-09-26T09:57:22.000Z</updated>
+        <summary type="html"><![CDATA[cvELDのLand-Y氏が、BlenderのEdit Mode上で直感的にウェイトペイントや調整を行えるアドオン「cvELD Quick INK」をリリースしました。 cvELD Quick INK 「cvELD Quick INK」は、Blender上でキャラクターや背景などにアウトラインを追加 […]
+続きを読む]]></summary>
+        <author>
+            <name>Ymt3D -3dnchu-</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[cvELD ShellFit Brush | ブラシ操作で直感的かつ破綻が少ない状態で衣装を素体にフィット＆整形できるBlenderアドオン！]]></title>
+        <id>https://3dnchu.com/?p=1068664</id>
+        <link href="https://3dnchu.com/archives/cveld-shellfit-brush/"/>
+        <updated>2026-09-26T09:37:05.000Z</updated>
+        <summary type="html"><![CDATA[cvELDのLand-Y氏が、ブラシ操作で衣装を素体へフィットさせたり、局所的な形状調整を行えるBlenderアドオン「cvELD Shell Fit Brush」をリリースしました。 cvELD ShellFit Brush 「cvELD Shell Fit Brush」は、Blender上で衣装 […]
+続きを読む]]></summary>
+        <author>
+            <name>Ymt3D -3dnchu-</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[cvELD ShellFit | 素体に合わせて衣装をフィッティング！貫通修正や局所調整にも対応したBlenderアドオン！]]></title>
+        <id>https://3dnchu.com/?p=1068666</id>
+        <link href="https://3dnchu.com/archives/cveld-shellfit/"/>
+        <updated>2026-09-26T09:36:58.000Z</updated>
+        <summary type="html"><![CDATA[cvELDのLand-Y氏が、キャラクターの素体に合わせて衣装をフィッティングできるBlenderアドオン「cvELD ShellFit」をリリースしました。 cvELD ShellFit 「cvELD ShellFit」は、Blender上で衣装などのメッシュをキャラクターの素体表面に沿わせてフィ […]
+続きを読む]]></summary>
+        <author>
+            <name>Ymt3D -3dnchu-</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[cvELD X-Ray X-Loop | 裏側までエッジループを一括選択！方向や流れを認識した選択＆17種類のループ整形機能を搭載したBlenderアドオン！]]></title>
+        <id>https://3dnchu.com/?p=1068686</id>
+        <link href="https://3dnchu.com/archives/cveld-x-ray-x-loop/"/>
+        <updated>2026-09-26T09:26:32.000Z</updated>
+        <summary type="html"><![CDATA[cvELDのLand-Y氏が、メッシュの裏側まで含めたエッジループの選択や、流れに沿ったループ選択＆整形を行えるBlenderアドオン「cvELD X-Ray X-Loop」をリリースしました。 cvELD X-Ray X-Loop 「cvELD X-Ray X-Loop」は、メッシュの表側だけでな […]
+続きを読む]]></summary>
+        <author>
+            <name>Ymt3D -3dnchu-</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[cvELD Edit Paint | Edit Modeのまま複数ボーンのウェイトをペイント！半円ブラシや5種類のグラデーションなどを搭載したBlenderアドオン！独自アルゴリズムで動作！]]></title>
+        <id>https://3dnchu.com/?p=1068685</id>
+        <link href="https://3dnchu.com/archives/cveld-edit-paint/"/>
+        <updated>2026-09-26T09:21:18.000Z</updated>
+        <summary type="html"><![CDATA[cvELDのLand-Y氏が、BlenderのEdit Mode上で直感的にウェイトペイントや調整を行えるアドオン「cvELD Edit Paint」をリリースしました。 cvELD Edit Paint 「cvELD Edit Paint」は、BlenderのEdit Mode上でウェイトペイント […]
+続きを読む]]></summary>
+        <author>
+            <name>Ymt3D -3dnchu-</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SkinTokens | スケルトン生成からスキニングまでを統合したAIオートリギング技術！3Dモデルからリグ全体を自動生成！コードも公開]]></title>
+        <id>https://3dnchu.com/?p=1068652</id>
+        <link href="https://3dnchu.com/archives/skintokens/"/>
+        <updated>2026-09-26T08:20:12.000Z</updated>
+        <summary type="html"><![CDATA[清華大学とVASTの研究チームが、3Dモデルからスケルトンとスキニングウェイトをまとめて生成できるAIオートリギング技術「SkinTokens / TokenRig」を公開しています。スキニングウェイトをコンパクトな離散トークンとして表現する新しい手法です。この表現を利用した「TokenRig」では […]
+続きを読む]]></summary>
+        <author>
+            <name>Ymt3D -3dnchu-</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Houdini × ComfyUI Bridge 導入ガイド｜インストールから基本セットアップまで]]></title>
         <id>https://note.com/indyzone/n/n254bb267b7e4</id>
@@ -74,6 +140,28 @@ SideFX が Houdini 22 の Keynote を公開しました。
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[UVgami | OptCutsやPartUVなど複数の技術を活用して3DモデルのUVを自動展開できる無料Blenderアドオン！]]></title>
+        <id>https://3dnchu.com/?p=1068631</id>
+        <link href="https://3dnchu.com/archives/uvgami/"/>
+        <updated>2026-09-26T04:58:36.000Z</updated>
+        <summary type="html"><![CDATA[Daniel Boxer氏による、複数のUV展開技術をBlender上から利用して3DモデルのUVを自動生成できるオープンソースアドオン「UVgami」のご紹介！ UVgami UVgamiは単一のUV展開アルゴリズムを実装したツールではなく、OptCuts、PartUV、xatlasという3種類の […]
+続きを読む]]></summary>
+        <author>
+            <name>Ymt3D -3dnchu-</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Field-Aligned Surface-Filling Curve via Implicit Stitching | 3Dモデルの表面を方向場に沿った1本の連続カーブで埋め尽くす技術！コード＆Blender用アドオン（Win）も公開！]]></title>
+        <id>https://3dnchu.com/?p=1068619</id>
+        <link href="https://3dnchu.com/archives/field-aligned-surface-filling-curve/"/>
+        <updated>2026-09-26T04:26:01.000Z</updated>
+        <summary type="html"><![CDATA[Giovanni Cocco氏とXavier Chermain氏が、3Dモデルの表面を指定した方向に沿う1本の連続したカーブで埋め尽くす手法「Field-Aligned Surface-Filling Curve via Implicit Stitching」のご紹介。Computer Graphi […]
+続きを読む]]></summary>
+        <author>
+            <name>Ymt3D -3dnchu-</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[【IZ YouTube ch】GPT-5.6｜Codexを活用してHeightFieldを自動生成する手順を解説]]></title>
         <id>https://note.com/indyzone/n/n48cd1320e6bb</id>
         <link href="https://note.com/indyzone/n/n48cd1320e6bb"/>
@@ -110,6 +198,17 @@ SideFX が Houdini 22 の Keynote を公開しました。
 続きをみる]]></summary>
         <author>
             <name>#Houdiniタグ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Shibuya – 渋谷スクランブル交差点と周辺の街並みを再現したUnity用3D背景アセット定価438ドルが65.84ドルセール価格中！]]></title>
+        <id>https://modelinghappy.com/?p=70659</id>
+        <link href="https://modelinghappy.com/archives/70659"/>
+        <updated>2026-09-26T02:28:53.000Z</updated>
+        <summary type="html"><![CDATA[assetstore shibuya Shibuyaは、nimikkoさんが作成した、渋谷スクランブル交差点と周辺の街並みを、実際の地理に沿って再現したUnity用の3D背景アセットですが、本日限り定価438ドルですが、
+The post Shibuya – 渋谷スクランブル交差点と周辺の街並みを再現したUnity用3D背景アセット定価438ドルが65.84ドルセール価格中！ first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
+        <author>
+            <name>modelinghappy</name>
         </author>
     </entry>
     <entry>
@@ -4147,96 +4246,6 @@ The post Hair Bone Generator – Blenderで髪の形状に沿ったボーンチ�
         <updated>2026-08-28T05:59:31.000Z</updated>
         <author>
             <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[My Colors | Unreal Editor内で自分専用のカラーライブラリを構築！画像やViewportからの色抽出＆UI配色生成にも対応した無料プラグイン！]]></title>
-        <id>https://3dnchu.com/?p=1067700</id>
-        <link href="https://3dnchu.com/archives/my-colors-ue/"/>
-        <updated>2026-08-28T03:09:09.000Z</updated>
-        <summary type="html"><![CDATA[KimsCode StudioによるUnreal Engine向け無料カラーパレット管理プラグイン「My Colors」がFab上でリリース！「My Colors」は、Unreal Editor内でカラーパレットを作成・整理し、プロジェクトを跨いで活用できるカラーライブラリ構築プラグインです。色を保 […]
-続きを読む]]></summary>
-        <author>
-            <name>Ymt3D -3dnchu-</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SIGGRAPHとはひと味ちがう、現場発の技術が集結したシンポジウム「DigiPro 2026」 〜SIGGRAPH 2026（2） - 特集]]></title>
-        <id>https://cgworld.jp/article/202608-sig-digipro.html</id>
-        <link href="https://cgworld.jp/article/202608-sig-digipro.html"/>
-        <updated>2026-08-28T01:43:00.000Z</updated>
-        <summary type="html"><![CDATA[SIGGRAPH 2026から、「DigiPro 2026」の内容をレポート。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【アセット紹介】Pro City – Hong Kong V2 – カスタム可能な香港の街アセット]]></title>
-        <id>https://cgbox.jp/?p=65622</id>
-        <link href="https://cgbox.jp/2026/08/28/news-addon-pro-city/"/>
-        <updated>2026-08-28T01:30:22.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは！ 今回はアドオンの「Pro City – Hong Kong V2」を紹介します。 こちらのリンクがアドオンの商品ページになります。 Pro City – Hong Kong V2 「 […]]]></summary>
-        <author>
-            <name>kasahara</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Maya、Blender、UEなど3Dツール間の座標軸変換を理解できるWebツール「3D座標系 変換ビジュアライザ」公開 - ニュース]]></title>
-        <id>https://cgworld.jp/flashnews/01-202608-3DTR.html</id>
-        <link href="https://cgworld.jp/flashnews/01-202608-3DTR.html"/>
-        <updated>2026-08-27T22:56:45.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[フォトグラメトリ数学｜50：Disparity MapからDense Point Cloudへ～視差から3次元座標を求める～]]></title>
-        <id>https://zenn.dev/s_hashida/articles/dbe1efe2cbedfa</id>
-        <link href="https://zenn.dev/s_hashida/articles/dbe1efe2cbedfa"/>
-        <updated>2026-08-27T21:52:05.000Z</updated>
-        <summary type="html"><![CDATA[はじめに
-前回は、
-
-Local MatchingとGlobal Matching
-SGM
-経路方向
-視差変化に対するPenalty
-複数方向のCostの集約
-
-について説明しました。
-
-その中で重要だったのが、
-
-局所的なMatching Costだけでは視差が不安定になることがある
-SGMでは複数方向の経路に沿ってCostを計算する
-視差の変化にPenaltyを与えることで、周囲とのつながりを考慮できる
-最終的に各画素について最も適切な視差を求める
-
-という点です。
-
-SGMでは、複数方向のCostを、
-
-S(p,d)
-=
-\sum_r L_r(p,d)
-
-として集約し、
-
-d...]]></summary>
-        <author>
-            <name>s_hashida</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FPOM - Fast Parallax Occlusion Mapping | 低コストなPOMでNanite Displacementに近い立体的なサーフェスを表現できるUnreal Engine向けマテリアル！]]></title>
-        <id>https://3dnchu.com/?p=1067680</id>
-        <link href="https://3dnchu.com/archives/fpom-fast-parallax-occlusion-mapping/"/>
-        <updated>2026-08-27T19:30:11.000Z</updated>
-        <summary type="html"><![CDATA[Tore Lervik氏（@toreler）が、Unreal Engine向けのParallax Occlusion Mappingマテリアルファンクション「FPOM – Fast Parallax Occlusion Mapping」をリリースしました！「FPOM」は、従来のParal […]
-続きを読む]]></summary>
-        <author>
-            <name>Ymt3D -3dnchu-</name>
         </author>
     </entry>
 </feed>

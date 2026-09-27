@@ -305,6 +305,36 @@
       "siteUrl": "https://3dnchu.com",
       "articles": [
         {
+          "id": "https://3dnchu.com/?p=1068724",
+          "author": "Ymt3D -3dnchu-",
+          "description": "デンマークのGlow Artsが、独自開発のGPUベイクエンジンを搭載し、Blender上で高速にテクスチャベイクを行えるアドオン「Fyr Baker 1.0」をリリースしました。 Fyr Baker Fyr Bakerは、Blender内でハイポリモデルからローポリモデルへの各種テクスチャベイクを […]\n続きを読む",
+          "link": "https://3dnchu.com/archives/fyr-baker-1-0/",
+          "publishedOn": "2026-09-27T05:27:27.000Z",
+          "wordCount": 7895,
+          "title": "Fyr Baker 1.0 | Blender標準に依存しない独自GPUベイクエンジンを搭載したテクスチャベイクアドオンが登場！",
+          "enclosure": {
+            "url": "https://3dnchu.com/wp-content/uploads/Fyr-Baker-1_0.mp4",
+            "length": "3322307",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://3dnchu.com/wp-content/uploads/Fyr-Baker-1_0.webp"
+        },
+        {
+          "id": "https://3dnchu.com/?p=1068720",
+          "author": "Ymt3D -3dnchu-",
+          "description": "Lightning Pixelが、画像から3Dモデルを生成する複数のオープンソースAIモデルをローカルGPU上で実行できるデスクトップアプリ「Modly」をオープンソースで公開しています。 Modly Modlyは、画像からAIを使って3Dメッシュを生成できるオープンソースのデスクトップアプリケーシ […]\n続きを読む",
+          "link": "https://3dnchu.com/archives/modly/",
+          "publishedOn": "2026-09-27T04:04:25.000Z",
+          "wordCount": 7859,
+          "title": "Modly | Hunyuan3DやTripoSGなど複数の3D生成AIをローカルGPUで動かせるオープンソースデスクトップアプリ！",
+          "enclosure": {
+            "url": "https://3dnchu.com/wp-content/uploads/Modly-app-screenshot.jpg",
+            "length": "53547",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://3dnchu.com/wp-content/uploads/Modly-app-screenshot.jpg"
+        },
+        {
           "id": "https://3dnchu.com/?p=1068709",
           "author": "Ymt3D -3dnchu-",
           "description": "cvELDのLand-Y氏が、BlenderのEdit Mode上で直感的にウェイトペイントや調整を行えるアドオン「cvELD Quick INK」をリリースしました。 cvELD Quick INK 「cvELD Quick INK」は、Blender上でキャラクターや背景などにアウトラインを追加 […]\n続きを読む",
@@ -1310,6 +1340,16 @@
           "wordCount": 781,
           "title": "第3回：事前準備で決まる、モーションキャプチャの成否 - 連載",
           "imageUrl": "https://cgworld.jp/regular/assets_c/2026/09/motioncapture_3-thumb-1000x563-88905.png"
+        },
+        {
+          "id": "https://cgworld.jp/article/blenderblender-fes-2026-aw.html",
+          "author": null,
+          "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
+          "link": "https://cgworld.jp/article/blenderblender-fes-2026-aw.html",
+          "publishedOn": "2026-09-25T04:23:15.000Z",
+          "wordCount": 755,
+          "title": "Blenderユーザー向けイベント「Blender Fes 2026 AW」9/26(土)・27(日)開催、前売りチケット好評発売中！ - 特集",
+          "imageUrl": "https://cgworld.jp/article/assets_c/2026/09/allsession_B%20v-thumb-1920x1080-88622.jpg"
         },
         {
           "id": "https://cgworld.jp/article/202609-coe33-02.html",
@@ -3152,6 +3192,16 @@
       "feedUrl": "https://qiita.com/tags/3dcg/feed",
       "siteUrl": "https://qiita.com",
       "articles": [
+        {
+          "id": "https://qiita.com/YKVKDX12/items/3c2fcb4debfb9b4dec64",
+          "author": null,
+          "description": "動作例とリポジトリ\n\nhttps://github.com/kantamRobo/D3D12MA_DirectXTK12Polygon/tree/master/D3D12MA_DirectXTK12_DXR_Assimp_Basic\n\n動作環境及び使用ツール\nCPU AM...",
+          "link": "https://qiita.com/YKVKDX12/items/3c2fcb4debfb9b4dec64",
+          "publishedOn": "2026-09-27T05:05:20.000Z",
+          "wordCount": 1327,
+          "title": "DirectX RaytracingでAssimpを使ったモデル描画 1 頂点バッファとインデックスバッファ",
+          "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnBicy50d2ltZy5jb20lMkZwcm9maWxlX2ltYWdlcyUyRjk1NjUzNTU5Mzc3NjgyNDMyMSUyRjZKUkVNZ1BpX25vcm1hbC5qcGc_aXhsaWI9cmItNC4xLjEmYXI9MSUzQTEmZml0PWNyb3AmbWFzaz1lbGxpcHNlJmJnPUZGRkZGRiZmbT1wbmczMiZzPTFlNGQwMTBjYTFkZTU5OWNmNzdmZDVhYTI3NjMwM2I0%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D373a03db911f7af0ce88b6917ff32871?ixlib=rb-4.1.1&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9RGlyZWN0WCUyMFJheXRyYWNpbmclRTMlODElQTdBc3NpbXAlRTMlODIlOTIlRTQlQkQlQkYlRTMlODElQTMlRTMlODElOUYlRTMlODMlQTIlRTMlODMlODclRTMlODMlQUIlRTYlOEYlOEYlRTclOTQlQkIlMjAxJTIwJUU5JUEwJTgyJUU3JTgyJUI5JUUzJTgzJTkwJUUzJTgzJTgzJUUzJTgzJTk1JUUzJTgyJUExJUUzJTgxJUE4JUUzJTgyJUE0JUUzJTgzJUIzJUUzJTgzJTg3JUUzJTgzJTgzJUUzJTgyJUFGJUUzJTgyJUI5JUUzJTgzJTkwJUUzJTgzJTgzJUUzJTgzJTk1JUUzJTgyJUExJnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9M2E2MTY5OGY3M2YwNmVkMGJkOWY1MDMyNTIzZDU0Mjg&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBZS1ZLRFgxMiZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPTg5MDU4ZmFjYTkxMzE2Yjk4ZjA0NDYzZDdhZDQ4NDli&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=1f9622e296c93bf15d409c953ff03a2d"
+        },
         {
           "id": "https://qiita.com/orca-forge/items/aff2c5ebfd64ea03b1be",
           "author": null,

@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-27T08:41:42.389Z</updated>
+    <updated>2026-09-27T15:59:30.849Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ProxyPose: 6-DoF Pose Tracking via Video-to-Video Translation | 動画内の1点を指定するだけで物体や表面の6DoFポーズを追跡！動画生成AIとPnPを組み合わせた新技術！コードも公開]]></title>
+        <id>https://3dnchu.com/?p=1068733</id>
+        <link href="https://3dnchu.com/archives/proxypose/"/>
+        <updated>2026-09-27T14:43:18.000Z</updated>
+        <summary type="html"><![CDATA[University of TorontoとVector InstituteのRuihang Zhang氏らの研究チームが、単眼RGB動画と最初のフレーム上の1点から、対象の6DoFポーズを追跡できる新手法「ProxyPose: 6-DoF Pose Tracking via Video-to-Vi […]
+続きを読む]]></summary>
+        <author>
+            <name>Ymt3D -3dnchu-</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Fyr Baker 1.0 | Blender標準に依存しない独自GPUベイクエンジンを搭載したテクスチャベイクアドオンが登場！]]></title>
         <id>https://3dnchu.com/?p=1068724</id>
@@ -4174,16 +4185,6 @@ Text to 3D の入力画面（生成前）
 生成時...]]></summary>
         <author>
             <name>tonote</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【無料アドオン】Reference Scale – スケールの目安となるリファレンス画像を素早く配置！]]></title>
-        <id>https://cgbox.jp/?p=65626</id>
-        <link href="https://cgbox.jp/2026/08/29/news-addon-reference-scale/"/>
-        <updated>2026-08-29T01:41:03.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは！ 今回はアドオンの「Reference Scale」を紹介します。 こちらのリンクがアドオンの商品ページになります。 Reference Scale 「Reference Scale」は、Blenderの3D […]]]></summary>
-        <author>
-            <name>kasahara</name>
         </author>
     </entry>
 </feed>

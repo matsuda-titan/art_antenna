@@ -2,10 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-26T15:20:35.936Z</updated>
+    <updated>2026-09-27T02:26:57.674Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Alt+左クリックでウインドウが非表示になるのを防止する方法（MacOS、3Dソフト）]]></title>
+        <id>https://note.com/ryokucharyoku2/n/n7d7c2aa11490</id>
+        <link href="https://note.com/ryokucharyoku2/n/n7d7c2aa11490"/>
+        <updated>2026-09-26T18:48:19.000Z</updated>
+        <summary type="html"><![CDATA[概要
+「Alt+左クリック（ドラッグ）」は、MAYAやSubstancePainterなど3Dソフトの視点移動で多用される操作である。
+　ところが、MacOSではAlt+左クリックに「一つ前のウインドウを非表示にする（※）」という機能が割り当てられているため、3Dソフト間を行き来する間にウインドウが消えていく。これはかなりストレス。
+　これを解決する方法が海外掲示板に記載されていたので、記録を残す。
+※非表示とは、⌘+Hを押したときの状態のこと。Dockへの最小化とは違う概念なので注意
+続きをみる]]></summary>
+        <author>
+            <name>#substancepainterタグ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[cvELD Quick INK | リアルタイムにアウトラインを描画！軽量動作＆細かな調整が可能なBlenderアドオン！]]></title>
         <id>https://3dnchu.com/?p=1068709</id>
@@ -4122,130 +4137,6 @@ Text to 3D の入力画面（生成前）
         <summary type="html"><![CDATA[こんばんは！ 今回はアドオンの「Reference Scale」を紹介します。 こちらのリンクがアドオンの商品ページになります。 Reference Scale 「Reference Scale」は、Blenderの3D […]]]></summary>
         <author>
             <name>kasahara</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[VRMの軽量化をやってみる]]></title>
-        <id>https://zenn.dev/livetoon/articles/2026-livetoon-shono</id>
-        <link href="https://zenn.dev/livetoon/articles/2026-livetoon-shono"/>
-        <updated>2026-08-28T13:28:07.000Z</updated>
-        <summary type="html"><![CDATA[こんにちは
-株式会社Livetoonにてインターン生として働いているしょうのです。普段はBlenderを用いて3Dモデルの作成・軽量化を行っています。
-本記事では、Livetoonが提供するアプリケーションTataraでも利用されているVRMファイルがどのようなデータを持っていて、サービスに用いるためにどのような方針で軽量化を行っていくのかについてお話ししていきます。
-
- Tataraとは
-Tataraは、自分の3Dモデルに声・性格・口調・役割を設定し、会話や作業ができるAIキャラクターへ育てるサービスです。
-2026年9月に正式リリースを予定しており、8月現在は招待制で提供されています...]]></summary>
-        <author>
-            <name>しょうの</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[City サンプルがUnreal Engine 5.8向けにアップデート！― LLM×PCGで都市空間を都市空間を構築]]></title>
-        <id>https://cginterest.com/?p=62143</id>
-        <link href="https://cginterest.com/2026/08/28/city-%e3%82%b5%e3%83%b3%e3%83%97%e3%83%ab%e3%81%8cunreal-engine-5-8%e5%90%91%e3%81%91%e3%81%ab%e3%82%a2%e3%83%83%e3%83%97%e3%83%87%e3%83%bc%e3%83%88%ef%bc%81%e2%80%95-llmxpcg%e3%81%a7%e9%83%bd/"/>
-        <updated>2026-08-28T12:23:50.000Z</updated>
-        <summary type="html"><![CDATA[2026年8月27日（現地時間）－ Epic Gamesは、無料サンプルプロジェクト「City サンプル」をUnreal Engine 5.8向けに更新したことを発表しました。 今回のアップデートでは、プロシージャル コ […]]]></summary>
-        <author>
-            <name>.me</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Needle Mesh Baker – ハイポリモデルをローポリ化し、最大4KテクスチャへベイクできるWebブラウザツール]]></title>
-        <id>https://modelinghappy.com/?p=70165</id>
-        <link href="https://modelinghappy.com/archives/70165"/>
-        <updated>2026-08-28T12:09:57.000Z</updated>
-        <summary type="html"><![CDATA[Needle mesh-baker Needle mesh-bakerドキュメント Needle Mesh Bakerは、3Dモデルのポリゴン数を削減し、高密度モデルのディテールやマテリアルの見た目をテクスチャへベイクで
-The post Needle Mesh Baker – ハイポリモデルをローポリ化し、最大4KテクスチャへベイクできるWebブラウザツール first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
-        <author>
-            <name>modelinghappy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Blenderユーザー向けイベント「Blender Fes 2026 AW」9/26(土)・27(日)開催、前売りチケット好評発売中！ - 特集]]></title>
-        <id>https://cgworld.jp/article/blenderblender-fes-2026-aw.html</id>
-        <link href="https://cgworld.jp/article/blenderblender-fes-2026-aw.html"/>
-        <updated>2026-08-28T10:23:15.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3DCG制作 portfolio]]></title>
-        <id>https://note.com/nreal_first/n/n19a6093e9918</id>
-        <link href="https://note.com/nreal_first/n/n19a6093e9918"/>
-        <updated>2026-08-28T09:42:15.000Z</updated>
-        <summary type="html"><![CDATA[■部屋の静止画CG
-■制作期間：1か月
-■利用ソフト：Maya, SubstancePainter, Photoshop, illustrator
-■各ソフト利用用途
-・Maya: 3Dモデル造形, ライティング, レンダリング  
-・SubstancePainter, Photoshop, illustrator：テクスチャ制作
-部屋の静止画
-続きをみる]]></summary>
-        <author>
-            <name>#substancepainterタグ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[クリ博、ゲームフリークによるモーション制作セミナーを10月15日（木）オンラインにて開催 - ニュース]]></title>
-        <id>https://cgworld.jp/flashnews/03-2608-kurihakuGF.html</id>
-        <link href="https://cgworld.jp/flashnews/03-2608-kurihakuGF.html"/>
-        <updated>2026-08-28T09:07:00.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Reference Scale – Blenderで人物や手の原寸大画像を配置してモデルの大きさを確認できる無料アドオン]]></title>
-        <id>https://modelinghappy.com/?p=70158</id>
-        <link href="https://modelinghappy.com/archives/70158"/>
-        <updated>2026-08-28T08:17:34.000Z</updated>
-        <summary type="html"><![CDATA[Reference Scale Reference Scaleは、人物や手の原寸大画像を3Dビューポートへ配置して、建物や小物などのスケール感を簡単に確認できる無料のBlender用アドオンです。 インストールすると、3
-The post Reference Scale – Blenderで人物や手の原寸大画像を配置してモデルの大きさを確認できる無料アドオン first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
-        <author>
-            <name>modelinghappy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Photoshop 27.10 がリリース！生成ツール用作業スペース「AI アシストエディタ」、手描き注釈で意図を伝えるマークアップ機能の追加など]]></title>
-        <id>https://cginterest.com/?p=62093</id>
-        <link href="https://cginterest.com/2026/08/28/photoshop-27-10-%e3%81%8c%e3%83%aa%e3%83%aa%e3%83%bc%e3%82%b9%ef%bc%81%e7%94%9f%e6%88%90%e3%83%84%e3%83%bc%e3%83%ab%e7%94%a8%e4%bd%9c%e6%a5%ad%e3%82%b9%e3%83%9a%e3%83%bc%e3%82%b9%e3%80%8cai-%e3%82%a2/"/>
-        <updated>2026-08-28T08:13:43.000Z</updated>
-        <summary type="html"><![CDATA[2026年8月28日（現地時間） – Adobeは、デスクトップ版Photoshopの最新アップデートとなるバージョン27.10（2026年8月リリース）を発表しました。 新機能ハイライト 今回のバージョン2 […]]]></summary>
-        <author>
-            <name>.me</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hair Bone Generator – Blenderで髪の形状に沿ったボーンチェーンを自動生成できる無料アドオン]]></title>
-        <id>https://modelinghappy.com/?p=70153</id>
-        <link href="https://modelinghappy.com/archives/70153"/>
-        <updated>2026-08-28T08:04:58.000Z</updated>
-        <summary type="html"><![CDATA[Hair Bone Generator Hair Bone Generatorは、Blenderで作成した髪の毛の形状に沿って、変形用のボーンチェーンを自動生成できる無料アドオンです。 髪を揺らしたりポーズを付けたりする
-The post Hair Bone Generator – Blenderで髪の形状に沿ったボーンチェーンを自動生成できる無料アドオン first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
-        <author>
-            <name>modelinghappy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【サイコム】GPUだけではない。自動車や建築など、ノンゲーム領域でのUnreal Engine運用を支えるPCパーツの役割｜Boost with Sycom #06 - スペシャルコンテンツ]]></title>
-        <id>https://cgworld.jp/special-feature/202608-sycom-arcnel-06.html</id>
-        <link href="https://cgworld.jp/special-feature/202608-sycom-arcnel-06.html"/>
-        <updated>2026-08-28T08:01:33.000Z</updated>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Marvelous Designer、4年ぶりの国内ユーザーイベント「Marvelous Designer Tokyo User Summit 2026」を10/27（火）に開催 - ニュース]]></title>
-        <id>https://cgworld.jp/flashnews/03%EF%BD%B02608-MDTUS2026.html</id>
-        <link href="https://cgworld.jp/flashnews/03%EF%BD%B02608-MDTUS2026.html"/>
-        <updated>2026-08-28T05:59:31.000Z</updated>
-        <author>
-            <name>CGWORLD</name>
         </author>
     </entry>
 </feed>

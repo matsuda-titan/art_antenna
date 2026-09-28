@@ -275,21 +275,6 @@
             "type": "video/mp4"
           },
           "imageUrl": "https://cgbox.jp/wp-content/uploads/2026/08/image_processing20260818-2-i63qqf.jpg"
-        },
-        {
-          "id": "https://cgbox.jp/?p=65630",
-          "author": "kasahara",
-          "description": "こんばんは！ 今回はアドオンの「Hair Bone Generator」を紹介します。 こちらのリンクがアドオンの商品ページになります。 Hair Bone Generator 「Hair Bone Generator」 […]",
-          "link": "https://cgbox.jp/2026/08/30/news-addon-hair-bone-generator/",
-          "publishedOn": "2026-08-30T01:49:15.000Z",
-          "wordCount": 2038,
-          "title": "【無料アドオン】Hair Bone Generator – 髪用のボーンをワンクリックで作成！",
-          "enclosure": {
-            "url": "https://cgbox.jp/wp-content/uploads/2026/08/boat-edit-2.mp4",
-            "length": "0",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://cgbox.jp/wp-content/uploads/2026/08/385aee537b758b430fbaf7626e414ad046cb9570d2523fa4e134f55fe2cba66f_640x360.webp"
         }
       ]
     },
@@ -304,6 +289,21 @@
       "feedUrl": "https://3dnchu.com/feed/",
       "siteUrl": "https://3dnchu.com",
       "articles": [
+        {
+          "id": "https://3dnchu.com/?p=1068769",
+          "author": "Ymt3D -3dnchu-",
+          "description": "GAKU氏による6週間の短期間集中型のBlenderオンラインライブワークショップ『立体絵画教室, Blender & Deep Paintで描く3Dアート』が2026年10月に開催されます！現在受講生を募集中とのことです！ 立体絵画教室, Blender & Deep Paintで […]\n続きを読む",
+          "link": "https://3dnchu.com/archives/deeppaintclassjpn-gaku-2026-2/",
+          "publishedOn": "2026-09-28T15:13:22.000Z",
+          "wordCount": 7857,
+          "title": "立体絵画教室, Blender & Deep Paintで描く3Dアート 2026年10月 | GAKU氏による短期間集中型のBlenderオンラインライブのワークショップが開催！受講生募集中！",
+          "enclosure": {
+            "url": "https://3dnchu.com/wp-content/uploads/deeppaintclassjpn-gaku-2026-2.webp",
+            "length": "1463226",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://3dnchu.com/wp-content/uploads/deeppaintclassjpn-gaku-2026-2.webp"
+        },
         {
           "id": "https://3dnchu.com/?p=1068752",
           "author": "Ymt3D -3dnchu-",
@@ -2147,7 +2147,18 @@
       "title": "TECH-COYOTE｜C&R Creative Studios",
       "feedUrl": "https://3d.crdg.jp/tech/feed/",
       "siteUrl": "https://3d.crdg.jp/tech",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://3d.crdg.jp/tech/?p=7034",
+          "author": "hasegawa enzo",
+          "description": "クリーク･アンド･リバー社 テクニカルアーティストチームの長谷川です。 本記事ではngSkinToolsのAPI活用方法について紹介していきたいと思い […]\n続きを読む\n投稿 【Maya】ngSkinToolsのAPI活用方法 は TECH-COYOTE｜C&R Creative Studios に最初に表示されました。",
+          "link": "https://3d.crdg.jp/tech/archives/7034",
+          "publishedOn": "2026-09-28T15:00:03.000Z",
+          "wordCount": 3612,
+          "title": "【Maya】ngSkinToolsのAPI活用方法",
+          "imageUrl": "https://3d.crdg.jp/tech/wp-content/uploads/2999/10/blog_ngskin.png"
+        }
+      ]
     },
     {
       "title": "UnPySide",
@@ -2172,6 +2183,16 @@
       "feedUrl": "https://modelinghappy.com/feed",
       "siteUrl": "https://modelinghappy.com",
       "articles": [
+        {
+          "id": "https://modelinghappy.com/?p=70671",
+          "author": "modelinghappy",
+          "description": "TRIPO 今回はTRIPOとMixamoを使い、キャラクターの制作からアニメーションシーンの完成まで、1から挑戦してみました。MixamoはAdobeアカウントがあれば無料で利用できます。 TRIPOでは、画像を読み込\nThe post TRIPOでキャラクターも背景も制作！アニメーションシーンを短時間で作ってみました first appeared on 3DCG最新情報サイト MODELING HAPPY.",
+          "link": "https://modelinghappy.com/archives/70671",
+          "publishedOn": "2026-09-28T11:20:49.000Z",
+          "wordCount": 4871,
+          "title": "TRIPOでキャラクターも背景も制作！アニメーションシーンを短時間で作ってみました",
+          "imageUrl": "https://modelinghappy.com/wp-content/uploads/2026/09/20260927_Tripo_00.jpg"
+        },
         {
           "id": "https://modelinghappy.com/?p=70760",
           "author": "modelinghappy",
@@ -2793,6 +2814,51 @@
       "siteUrl": "https://zenn.dev/topics/graphics",
       "articles": [
         {
+          "id": "https://zenn.dev/nnnnnnn0090/articles/b0554f6b5db23c",
+          "author": "優雨乃",
+          "description": "おさらい\n前回はGLFWでWindowを作って、VkSurfaceKHR でVulkanとつなぎました。これで、Vulkanから見えるGPUと、絵を出す先のWindowがそろったことになります。\nただ、GPUはまだ「見つけて名前を表示しただけ」の状態です。仕事を頼むことはできません。今回は、GPUに仕事を頼むための準備として、使うGPUを決めて VkDevice を作ります。\nGPUを選ぶときには、この先の回で使う機能に対応しているかも、ここでまとめて確認しておきます。Deviceを作ったあとで「あの機能も要るんだった」となると、Deviceを作るところまで戻って直すことになるからで...",
+          "link": "https://zenn.dev/nnnnnnn0090/articles/b0554f6b5db23c",
+          "publishedOn": "2026-09-28T12:12:29.000Z",
+          "wordCount": null,
+          "title": "【初心者向け】MacでVulkan入門 #4 GPUを選んでVkDeviceを作る",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--3Iabhcd7--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2580%2590%25E5%2588%259D%25E5%25BF%2583%25E8%2580%2585%25E5%2590%2591%25E3%2581%2591%25E3%2580%2591Mac%25E3%2581%25A7Vulkan%25E5%2585%25A5%25E9%2596%2580%2520%25234%2520GPU%25E3%2582%2592%25E9%2581%25B8%25E3%2582%2593%25E3%2581%25A7VkDevice%25E3%2582%2592%25E4%25BD%259C%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E5%2584%25AA%25E9%259B%25A8%25E4%25B9%2583%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2VhYjNkNzdmYjUuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+            "length": "0",
+            "type": "false"
+          },
+          "imageUrl": null
+        },
+        {
+          "id": "https://zenn.dev/nnnnnnn0090/articles/4a2445de33a7fe",
+          "author": "優雨乃",
+          "description": "おさらい\n前回はValidation Layerを入れて、Vulkanの使い方を間違えたときに教えてもらえるようにしました。ここまでで、Vulkanの入口の VkInstance と、エラーを受け取るDebug Messengerができています。\nただ、ずっとターミナルに文字を出しているだけで、画面にはまだ何も出ていません。今回はGLFWでWindowを作って、そのWindowとVulkanをつなぎます。\n\n 今回のゴール\n実行するとWindowが開いて、ターミナルに次のように表示されればゴールです。まだ何も描いていないので、Windowの中は空っぽです。閉じるボタンで終了します。\n...",
+          "link": "https://zenn.dev/nnnnnnn0090/articles/4a2445de33a7fe",
+          "publishedOn": "2026-09-28T12:10:53.000Z",
+          "wordCount": null,
+          "title": "【初心者向け】MacでVulkan入門 #3 GLFWでWindowとSurfaceを作る",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--kzgU7UIX--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2580%2590%25E5%2588%259D%25E5%25BF%2583%25E8%2580%2585%25E5%2590%2591%25E3%2581%2591%25E3%2580%2591Mac%25E3%2581%25A7Vulkan%25E5%2585%25A5%25E9%2596%2580%2520%25233%2520GLFW%25E3%2581%25A7Window%25E3%2581%25A8Surface%25E3%2582%2592%25E4%25BD%259C%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E5%2584%25AA%25E9%259B%25A8%25E4%25B9%2583%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2VhYjNkNzdmYjUuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+            "length": "0",
+            "type": "false"
+          },
+          "imageUrl": null
+        },
+        {
+          "id": "https://zenn.dev/nnnnnnn0090/articles/a5c1496007f996",
+          "author": "優雨乃",
+          "description": "おさらい\n前回はMacにVulkanの開発環境を作って、VkInstance を作り、Vulkanから見えるGPUの名前を表示しました。それから、プログラムの形も決めました。作ったものは App に入れて、作る処理は関数に分けて、失敗したら throw、片付けは cleanup() の1か所です。\n今回は、描画に進む前にValidation Layerを入れます。地味ですが、この先いちばんお世話になる道具です。\n\n 今回のゴール\n実行して、ターミナルにこう表示されればゴールです。\nVulkan Instance created!\nValidation Layer: ON\n\nGPU c...",
+          "link": "https://zenn.dev/nnnnnnn0090/articles/a5c1496007f996",
+          "publishedOn": "2026-09-28T12:07:31.000Z",
+          "wordCount": null,
+          "title": "【初心者向け】MacでVulkan入門 #2 Validation Layerでエラーを教えてもらう",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--FiRsHPC4--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2580%2590%25E5%2588%259D%25E5%25BF%2583%25E8%2580%2585%25E5%2590%2591%25E3%2581%2591%25E3%2580%2591Mac%25E3%2581%25A7Vulkan%25E5%2585%25A5%25E9%2596%2580%2520%25232%2520Validation%2520Layer%25E3%2581%25A7%25E3%2582%25A8%25E3%2583%25A9%25E3%2583%25BC%25E3%2582%2592%25E6%2595%2599%25E3%2581%2588%25E3%2581%25A6%25E3%2582%2582%25E3%2582%2589%25E3%2581%2586%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E5%2584%25AA%25E9%259B%25A8%25E4%25B9%2583%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2VhYjNkNzdmYjUuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+            "length": "0",
+            "type": "false"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "https://zenn.dev/nnnnnnn0090/articles/739e7b105128d2",
           "author": "優雨乃",
           "description": "おさらい\n前回はGLFWでWindowを作って、VkSurfaceKHRでVulkanとつなぎました。これで、Vulkanから見えるGPUと、絵を出す先のWindowがそろったことになります。\nただ、GPUはまだ「見つけただけ」の状態です。名前を調べることはできても、仕事を頼むことはできません。今回は、GPUに仕事を頼むための準備として、Queue Familyを調べて VkDevice を作るところまで進めます。\n\n 今回のゴール\n実行するとWindowが開いて、ターミナルに次のように表示されればゴールです。Windowの中は前回と同じく空っぽです。\nExtensions:\n  V...",
@@ -3111,21 +3177,6 @@
             "type": "false"
           },
           "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--gHRnPoMG--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%2595%25E3%2582%25A9%25E3%2583%2588%25E3%2582%25B0%25E3%2583%25A9%25E3%2583%25A1%25E3%2583%2588%25E3%2583%25AA%25E6%2595%25B0%25E5%25AD%25A6%25EF%25BD%259C51%25EF%25BC%259ADense%2520Point%2520Cloud%25E3%2581%25AE%25E5%25A4%2596%25E3%2582%258C%25E5%2580%25A4%25E9%2599%25A4%25E5%258E%25BB%25EF%25BD%259E%25E4%25BF%25A1%25E9%25A0%25BC%25E3%2581%25A7%25E3%2581%258D%25E3%2582%258B3%25E6%25AC%25A1%25E5%2585%2583%25E7%2582%25B9%25E3%2582%2592%25E6%25AE%258B%25E3%2581%2599%25EF%25BD%259E%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:s_hashida%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2QwNzQxMzlkMjguanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
-        },
-        {
-          "id": "https://zenn.dev/tonote/articles/dog-3d-rigify-quadruped",
-          "author": "tonote",
-          "description": "はじめに\n前回の記事「犬の3D作成を自動化する」では Autodesk Flow Studio のオートリグ機能を試しましたが、4足歩行動物のオートリグは SOON 表示でまだ使えませんでした。次の選択肢として Auto-Rig Pro（Blenderの有料アドオン、$40前後）が候補に挙がりましたが、まずは無料の範囲でどこまでできるかを確認したく、Blender標準搭載の Rigify アドオンで4足動物用メタリグを犬メッシュに適用する検証をしました。\n結論から言うと、ボーン構造とIK/FKコントロールリグの生成はRigifyだけで一発でできました。一方で最初に使ったメッシュでは自...",
-          "link": "https://zenn.dev/tonote/articles/dog-3d-rigify-quadruped",
-          "publishedOn": "2026-08-30T00:54:34.000Z",
-          "wordCount": 1516,
-          "title": "Blender標準のRigifyで4足歩行の犬メッシュに自動リグを試す",
-          "enclosure": {
-            "url": "https://res.cloudinary.com/zenn/image/upload/s--cED4T_hr--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Blender%25E6%25A8%2599%25E6%25BA%2596%25E3%2581%25AERigify%25E3%2581%25A74%25E8%25B6%25B3%25E6%25AD%25A9%25E8%25A1%258C%25E3%2581%25AE%25E7%258A%25AC%25E3%2583%25A1%25E3%2583%2583%25E3%2582%25B7%25E3%2583%25A5%25E3%2581%25AB%25E8%2587%25AA%25E5%258B%2595%25E3%2583%25AA%25E3%2582%25B0%25E3%2582%2592%25E8%25A9%25A6%25E3%2581%2599%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:tonote%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzU5OGNhZmFkNmUuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
-            "length": "0",
-            "type": "false"
-          },
-          "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--cED4T_hr--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Blender%25E6%25A8%2599%25E6%25BA%2596%25E3%2581%25AERigify%25E3%2581%25A74%25E8%25B6%25B3%25E6%25AD%25A9%25E8%25A1%258C%25E3%2581%25AE%25E7%258A%25AC%25E3%2583%25A1%25E3%2583%2583%25E3%2582%25B7%25E3%2583%25A5%25E3%2581%25AB%25E8%2587%25AA%25E5%258B%2595%25E3%2583%25AA%25E3%2582%25B0%25E3%2582%2592%25E8%25A9%25A6%25E3%2581%2599%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:tonote%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzU5OGNhZmFkNmUuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
         }
       ]
     },
@@ -3428,6 +3479,16 @@
       "feedUrl": "https://qiita.com/tags/glsl/feed",
       "siteUrl": "https://qiita.com",
       "articles": [
+        {
+          "id": "https://qiita.com/inaba_darkfox/items/af8808046b559325c067",
+          "author": null,
+          "description": "はじめに\n　intersection法でトーラスを描いたことがある。目線の位置からレイをとばし、トーラスと交叉する場合にその点における法線とかを計算して、色を付ける。過去にそういうのを書いたんだが、\n\nOpenProcessingの仕様変更で壊れてしまったので、復活さ...",
+          "link": "https://qiita.com/inaba_darkfox/items/af8808046b559325c067",
+          "publishedOn": "2026-09-28T13:35:12.000Z",
+          "wordCount": 2499,
+          "title": "intersection法でトーラスを描く",
+          "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnFpaXRhLWltYWdlLXN0b3JlLnMzLmFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkYwJTJGNDM3MzQ5JTJGcHJvZmlsZS1pbWFnZXMlMkYxNzM0OTUyMjg4P2l4bGliPXJiLTQuMS4xJmFyPTElM0ExJmZpdD1jcm9wJm1hc2s9ZWxsaXBzZSZiZz1GRkZGRkYmZm09cG5nMzImcz1lN2YxYjU2NzVhZGY3MDNlZjM2OWE2ZjMzODA4MWI0Mw%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D07a26db72c7248552f296b335e0414f3?ixlib=rb-4.1.1&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9aW50ZXJzZWN0aW9uJUU2JUIzJTk1JUUzJTgxJUE3JUUzJTgzJTg4JUUzJTgzJUJDJUUzJTgzJUE5JUUzJTgyJUI5JUUzJTgyJTkyJUU2JThGJThGJUUzJTgxJThGJnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9MjZlMzY4NjdhYzgyMzg4MjI0ZjE4ZGJhYzk5Y2M5ZDg&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBpbmFiYV9kYXJrZm94JnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9OWE0YTM1MTg3YWFhNTk3N2YzYzA2NGUxYjZlNzA4ZGU&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=1c6492c38dc61cfcfdb5abf162667fd1"
+        },
         {
           "id": "https://qiita.com/sakuyan_ppr/items/c9ac6b166ba14238afeb",
           "author": null,

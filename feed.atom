@@ -2,10 +2,105 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-28T09:05:41.261Z</updated>
+    <updated>2026-09-28T18:55:38.786Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[立体絵画教室, Blender & Deep Paintで描く3Dアート 2026年10月 | GAKU氏による短期間集中型のBlenderオンラインライブのワークショップが開催！受講生募集中！]]></title>
+        <id>https://3dnchu.com/?p=1068769</id>
+        <link href="https://3dnchu.com/archives/deeppaintclassjpn-gaku-2026-2/"/>
+        <updated>2026-09-28T15:13:22.000Z</updated>
+        <summary type="html"><![CDATA[GAKU氏による6週間の短期間集中型のBlenderオンラインライブワークショップ『立体絵画教室, Blender & Deep Paintで描く3Dアート』が2026年10月に開催されます！現在受講生を募集中とのことです！ 立体絵画教室, Blender & Deep Paintで […]
+続きを読む]]></summary>
+        <author>
+            <name>Ymt3D -3dnchu-</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【Maya】ngSkinToolsのAPI活用方法]]></title>
+        <id>https://3d.crdg.jp/tech/?p=7034</id>
+        <link href="https://3d.crdg.jp/tech/archives/7034"/>
+        <updated>2026-09-28T15:00:03.000Z</updated>
+        <summary type="html"><![CDATA[クリーク･アンド･リバー社 テクニカルアーティストチームの長谷川です。 本記事ではngSkinToolsのAPI活用方法について紹介していきたいと思い […]
+続きを読む
+投稿 【Maya】ngSkinToolsのAPI活用方法 は TECH-COYOTE｜C&R Creative Studios に最初に表示されました。]]></summary>
+        <author>
+            <name>hasegawa enzo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[intersection法でトーラスを描く]]></title>
+        <id>https://qiita.com/inaba_darkfox/items/af8808046b559325c067</id>
+        <link href="https://qiita.com/inaba_darkfox/items/af8808046b559325c067"/>
+        <updated>2026-09-28T13:35:12.000Z</updated>
+        <summary type="html"><![CDATA[はじめに
+　intersection法でトーラスを描いたことがある。目線の位置からレイをとばし、トーラスと交叉する場合にその点における法線とかを計算して、色を付ける。過去にそういうのを書いたんだが、
+
+OpenProcessingの仕様変更で壊れてしまったので、復活さ...]]></summary>
+        <author>
+            <name>GLSLタグが付けられた新着記事 - Qiita</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【初心者向け】MacでVulkan入門 #4 GPUを選んでVkDeviceを作る]]></title>
+        <id>https://zenn.dev/nnnnnnn0090/articles/b0554f6b5db23c</id>
+        <link href="https://zenn.dev/nnnnnnn0090/articles/b0554f6b5db23c"/>
+        <updated>2026-09-28T12:12:29.000Z</updated>
+        <summary type="html"><![CDATA[おさらい
+前回はGLFWでWindowを作って、VkSurfaceKHR でVulkanとつなぎました。これで、Vulkanから見えるGPUと、絵を出す先のWindowがそろったことになります。
+ただ、GPUはまだ「見つけて名前を表示しただけ」の状態です。仕事を頼むことはできません。今回は、GPUに仕事を頼むための準備として、使うGPUを決めて VkDevice を作ります。
+GPUを選ぶときには、この先の回で使う機能に対応しているかも、ここでまとめて確認しておきます。Deviceを作ったあとで「あの機能も要るんだった」となると、Deviceを作るところまで戻って直すことになるからで...]]></summary>
+        <author>
+            <name>優雨乃</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【初心者向け】MacでVulkan入門 #3 GLFWでWindowとSurfaceを作る]]></title>
+        <id>https://zenn.dev/nnnnnnn0090/articles/4a2445de33a7fe</id>
+        <link href="https://zenn.dev/nnnnnnn0090/articles/4a2445de33a7fe"/>
+        <updated>2026-09-28T12:10:53.000Z</updated>
+        <summary type="html"><![CDATA[おさらい
+前回はValidation Layerを入れて、Vulkanの使い方を間違えたときに教えてもらえるようにしました。ここまでで、Vulkanの入口の VkInstance と、エラーを受け取るDebug Messengerができています。
+ただ、ずっとターミナルに文字を出しているだけで、画面にはまだ何も出ていません。今回はGLFWでWindowを作って、そのWindowとVulkanをつなぎます。
+
+ 今回のゴール
+実行するとWindowが開いて、ターミナルに次のように表示されればゴールです。まだ何も描いていないので、Windowの中は空っぽです。閉じるボタンで終了します。
+...]]></summary>
+        <author>
+            <name>優雨乃</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【初心者向け】MacでVulkan入門 #2 Validation Layerでエラーを教えてもらう]]></title>
+        <id>https://zenn.dev/nnnnnnn0090/articles/a5c1496007f996</id>
+        <link href="https://zenn.dev/nnnnnnn0090/articles/a5c1496007f996"/>
+        <updated>2026-09-28T12:07:31.000Z</updated>
+        <summary type="html"><![CDATA[おさらい
+前回はMacにVulkanの開発環境を作って、VkInstance を作り、Vulkanから見えるGPUの名前を表示しました。それから、プログラムの形も決めました。作ったものは App に入れて、作る処理は関数に分けて、失敗したら throw、片付けは cleanup() の1か所です。
+今回は、描画に進む前にValidation Layerを入れます。地味ですが、この先いちばんお世話になる道具です。
+
+ 今回のゴール
+実行して、ターミナルにこう表示されればゴールです。
+Vulkan Instance created!
+Validation Layer: ON
+
+GPU c...]]></summary>
+        <author>
+            <name>優雨乃</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TRIPOでキャラクターも背景も制作！アニメーションシーンを短時間で作ってみました]]></title>
+        <id>https://modelinghappy.com/?p=70671</id>
+        <link href="https://modelinghappy.com/archives/70671"/>
+        <updated>2026-09-28T11:20:49.000Z</updated>
+        <summary type="html"><![CDATA[TRIPO 今回はTRIPOとMixamoを使い、キャラクターの制作からアニメーションシーンの完成まで、1から挑戦してみました。MixamoはAdobeアカウントがあれば無料で利用できます。 TRIPOでは、画像を読み込
+The post TRIPOでキャラクターも背景も制作！アニメーションシーンを短時間で作ってみました first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
+        <author>
+            <name>modelinghappy</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AnimPen – MayaやBlenderの画面上に線を描いて、アニメーション軌道の確認などに使える無料ツール]]></title>
         <id>https://modelinghappy.com/?p=70760</id>
@@ -4206,28 +4301,6 @@ The post Fast Rigging for Maya – ガイドを調整するだけでUE5・Unity�
         <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
         <author>
             <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【無料アドオン】Hair Bone Generator – 髪用のボーンをワンクリックで作成！]]></title>
-        <id>https://cgbox.jp/?p=65630</id>
-        <link href="https://cgbox.jp/2026/08/30/news-addon-hair-bone-generator/"/>
-        <updated>2026-08-30T01:49:15.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは！ 今回はアドオンの「Hair Bone Generator」を紹介します。 こちらのリンクがアドオンの商品ページになります。 Hair Bone Generator 「Hair Bone Generator」 […]]]></summary>
-        <author>
-            <name>kasahara</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Blender標準のRigifyで4足歩行の犬メッシュに自動リグを試す]]></title>
-        <id>https://zenn.dev/tonote/articles/dog-3d-rigify-quadruped</id>
-        <link href="https://zenn.dev/tonote/articles/dog-3d-rigify-quadruped"/>
-        <updated>2026-08-30T00:54:34.000Z</updated>
-        <summary type="html"><![CDATA[はじめに
-前回の記事「犬の3D作成を自動化する」では Autodesk Flow Studio のオートリグ機能を試しましたが、4足歩行動物のオートリグは SOON 表示でまだ使えませんでした。次の選択肢として Auto-Rig Pro（Blenderの有料アドオン、$40前後）が候補に挙がりましたが、まずは無料の範囲でどこまでできるかを確認したく、Blender標準搭載の Rigify アドオンで4足動物用メタリグを犬メッシュに適用する検証をしました。
-結論から言うと、ボーン構造とIK/FKコントロールリグの生成はRigifyだけで一発でできました。一方で最初に使ったメッシュでは自...]]></summary>
-        <author>
-            <name>tonote</name>
         </author>
     </entry>
 </feed>

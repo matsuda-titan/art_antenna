@@ -12,6 +12,21 @@
       "siteUrl": "https://cgbox.jp",
       "articles": [
         {
+          "id": "https://cgbox.jp/?p=65720",
+          "author": "kasahara",
+          "description": "こんばんは！ 今回はアドオンの「AutoCharacters」を紹介します。 こちらのリンクがアドオンの商品ページになります。 AutoCharacters 「AutoCharacters」は、男性・女性のベースキャラク […]",
+          "link": "https://cgbox.jp/2026/09/28/news-addon-autocharacters/",
+          "publishedOn": "2026-09-28T03:00:41.000Z",
+          "wordCount": 1993,
+          "title": "【アドオン紹介】AutoCharacters – 100以上の調整項目から作成できるキャラクターアセット！",
+          "enclosure": {
+            "url": "https://cgbox.jp/wp-content/uploads/2026/09/afaa2553316abf60502ffb2d2849d218.mp4",
+            "length": "0",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://cgbox.jp/wp-content/uploads/2026/09/image_processing20260926-2-kccjyr.webp"
+        },
+        {
           "id": "https://cgbox.jp/?p=65715",
           "author": "kasahara",
           "description": "こんばんは！ 今回はアドオンの「Motion Sculpt」を紹介します。 こちらのリンクがアドオンの商品ページになります。 Motion Sculpt 「Motion Sculpt」は、Blenderのビューポート上で […]",
@@ -289,6 +304,36 @@
       "feedUrl": "https://3dnchu.com/feed/",
       "siteUrl": "https://3dnchu.com",
       "articles": [
+        {
+          "id": "https://3dnchu.com/?p=1068752",
+          "author": "Ymt3D -3dnchu-",
+          "description": "Arseny Kapoulkine氏が、メッシュの最適化・簡略化・圧縮などに利用できるオープンソースライブラリ「meshoptimizer 1.3」をリリースしました。新たにVoxel Remesherや法線生成機能が追加されたほか、Simplify関連の改善や各種処理の高速化が行われています。 m […]\n続きを読む",
+          "link": "https://3dnchu.com/archives/meshoptimizer-1-3/",
+          "publishedOn": "2026-09-27T18:04:58.000Z",
+          "wordCount": 8009,
+          "title": "meshoptimizer 1.3 | 新しいVoxel Remesherでメッシュを再構築！法線生成やSimplify強化も行われたメッシュ最適化ライブラリ最新版！UV再展開とテクスチャ適用したフローがテスト可能なオンラインデモも公開！",
+          "enclosure": {
+            "url": "https://3dnchu.com/wp-content/uploads/meshoptimizer-1.3.jpg",
+            "length": "60622",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://3dnchu.com/wp-content/uploads/meshoptimizer-1.3.jpg"
+        },
+        {
+          "id": "https://3dnchu.com/?p=1068745",
+          "author": "Ymt3D -3dnchu-",
+          "description": "Poimandres（ @pmndrs ）＆Isaac Mason 氏（ @isaac_mason_ ）による、WebGLやWebGPU、Wasmなどを使ったWebコンテンツ向けに設計された高速＆軽量なJavaScript数学ライブラリ「math v0.1.0」が公開されています。 math 「ma […]\n続きを読む",
+          "link": "https://3dnchu.com/archives/math-v0-1-0/",
+          "publishedOn": "2026-09-27T16:24:56.000Z",
+          "wordCount": 7635,
+          "title": "math v0.1.0 | WebGL・WebGPU・Wasmなどで活用できる高速＆軽量な数学ライブラリが登場！AIエージェント向けスキルも収録！",
+          "enclosure": {
+            "url": "https://3dnchu.com/wp-content/uploads/math-v0.1.0.mp4",
+            "length": "7214294",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://3dnchu.com/wp-content/uploads/math-v0.1.0.webp"
+        },
         {
           "id": "https://3dnchu.com/?p=1068733",
           "author": "Ymt3D -3dnchu-",
@@ -1278,51 +1323,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "https://3dnchu.com/wp-content/uploads/blender-touge-drift-animation.webp"
-        },
-        {
-          "id": "https://3dnchu.com/?p=1067746",
-          "author": "Ymt3D -3dnchu-",
-          "description": "『スパイダーマン：スパイダーバース』でLead Technical Directorを務め、Netflix Eyeline Labsなどでもコンピュータグラフィックス分野に携わってきた Ahmet Levent Taşel氏による、シンプルな操作性を重視した3Dスカルプティング＆スケッチ＆スタイライ […]\n続きを読む",
-          "link": "https://3dnchu.com/archives/tamga/",
-          "publishedOn": "2026-08-29T19:22:24.000Z",
-          "wordCount": 8238,
-          "title": "tamga | スカルプトからペイント＆ポーズ＆3Dスケッチ＆スタイライズレンダリングまで！シンプルな操作性を重視した3D制作ツール！Web＆iPad＆Win＆Mac＆Linux",
-          "enclosure": {
-            "url": "https://3dnchu.com/wp-content/uploads/tamga.mp4",
-            "length": "9173297",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://3dnchu.com/wp-content/uploads/tamga.webp"
-        },
-        {
-          "id": "https://3dnchu.com/?p=1067733",
-          "author": "Ymt3D -3dnchu-",
-          "description": "キャラクター／クリーチャーアーティストのMihail Lupu氏による、Autodesk 3ds Max向けリトポロジーツール「retoPoly」がArtStation Marketplaceにて販売されています！ retoPoly – 3dsmax modifier 「retoPoly […]\n続きを読む",
-          "link": "https://3dnchu.com/archives/retopoly/",
-          "publishedOn": "2026-08-29T18:01:47.000Z",
-          "wordCount": 7718,
-          "title": "retoPoly | 3ds Max上で高解像度モデルに直接トポロジーを構築！多彩なツールを搭載したリトポロジーModifier！",
-          "enclosure": {
-            "url": "https://3dnchu.com/wp-content/uploads/retoPoly.webp",
-            "length": "",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://3dnchu.com/wp-content/uploads/retoPoly.webp"
-        },
-        {
-          "id": "https://3dnchu.com/?p=1067726",
-          "author": "Ymt3D -3dnchu-",
-          "description": "Blender向けの便利なツールを多数開発しているNicholas Hodgson氏（hodgson3d）が、ベベル管理アドオン「Bevel Manager 2.0」をリリースしています！旧「Bevel Weight Manager」を大幅に刷新したバージョンで、Blenderのカスタム属性を活用し […]\n続きを読む",
-          "link": "https://3dnchu.com/archives/bevel-manager-2-0/",
-          "publishedOn": "2026-08-29T17:50:53.000Z",
-          "wordCount": 7786,
-          "title": "Bevel Manager 2.0 | 複数のModifier＆Shader Bevelを属性ベースで管理出来るBlenderアドオン！",
-          "enclosure": {
-            "url": "https://3dnchu.com/wp-content/uploads/bevel-manager-2-0-modifiershader.jpg",
-            "length": "72540",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://3dnchu.com/wp-content/uploads/bevel-manager-2-0-modifiershader.jpg"
         }
       ]
     },
@@ -1331,6 +1331,26 @@
       "feedUrl": "https://cgworld.jp/atom.xml",
       "siteUrl": "https://cgworld.jp/",
       "articles": [
+        {
+          "id": "https://cgworld.jp/special-feature/2609-unity-unityindustrymeetup2026.html",
+          "author": null,
+          "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
+          "link": "https://cgworld.jp/special-feature/2609-unity-unityindustrymeetup2026.html",
+          "publishedOn": "2026-09-28T03:55:00.000Z",
+          "wordCount": 668,
+          "title": "Unityを核に広がる産業向けリアルタイム3D――空間ARからAIアバターまで、4つの実践事例：「Unity Industry Meetup Tokyo」レポート - スペシャルコンテンツ",
+          "imageUrl": "https://cgworld.jp/special-feature/assets_c/2026/09/96f7f7510fe533133218179cfca0d6c1bbae786c-thumb-1920x1080-88478.jpg"
+        },
+        {
+          "id": "https://cgworld.jp/article/202609-sig-phm.html",
+          "author": null,
+          "description": "SIGGRAPH 2026から、プロダクション・セッション「映画『プロジェクト・ヘイル・メアリー』 VFXにおけるILMの貢献」の内容をレポート。",
+          "link": "https://cgworld.jp/article/202609-sig-phm.html",
+          "publishedOn": "2026-09-28T03:47:00.000Z",
+          "wordCount": 807,
+          "title": "10億個の恒星を実データから構築。ILMが挑んだ映画『プロジェクト・ヘイル・メアリー』の宇宙表現〜SIGGRAPH 2026（6） - 特集",
+          "imageUrl": "https://cgworld.jp/article/assets_c/2026/09/PHM_46545_R-thumb-1000x667-88891.jpg"
+        },
         {
           "id": "https://cgworld.jp/flashnews/01-202609-Poncotan.html",
           "author": null,
@@ -2153,6 +2173,36 @@
       "siteUrl": "https://modelinghappy.com",
       "articles": [
         {
+          "id": "https://modelinghappy.com/?p=70760",
+          "author": "modelinghappy",
+          "description": "AnimPen! AnimPenは、MayaやBlender、3ds Maxなど、使用中のアプリの画面上に直接線を描ける無料ツールです。キャラクターの手足が通る軌道をなぞったり、フレームごとの形や動きを見比べたりするとき\nThe post AnimPen – MayaやBlenderの画面上に線を描いて、アニメーション軌道の確認などに使える無料ツール first appeared on 3DCG最新情報サイト MODELING HAPPY.",
+          "link": "https://modelinghappy.com/archives/70760",
+          "publishedOn": "2026-09-28T07:41:32.000Z",
+          "wordCount": 3010,
+          "title": "AnimPen – MayaやBlenderの画面上に線を描いて、アニメーション軌道の確認などに使える無料ツール",
+          "imageUrl": "https://modelinghappy.com/wp-content/uploads/2026/09/20260928_animpen.jpg"
+        },
+        {
+          "id": "https://modelinghappy.com/?p=70754",
+          "author": "modelinghappy",
+          "description": "cvELD Edit Paint cvELD Edit Paint日本語マニュアル cvELD Edit Paintは、cvELDさんが制作した、Blenderのメッシュ編集モードでウェイトをペイント・調整できるアドオン\nThe post cvELD Edit Paint – 編集モードのまま複数ボーンのウェイトを塗れる！半円ブラシや数値調整も使えるBlenderアドオン first appeared on 3DCG最新情報サイト MODELING HAPPY.",
+          "link": "https://modelinghappy.com/archives/70754",
+          "publishedOn": "2026-09-28T01:37:20.000Z",
+          "wordCount": 3070,
+          "title": "cvELD Edit Paint – 編集モードのまま複数ボーンのウェイトを塗れる！半円ブラシや数値調整も使えるBlenderアドオン",
+          "imageUrl": "https://modelinghappy.com/wp-content/uploads/2026/09/20260928_Cveld_Edit_Paint_01.jpg"
+        },
+        {
+          "id": "https://modelinghappy.com/?p=70747",
+          "author": "modelinghappy",
+          "description": "spirula-studio Spirula Studioは、写真や動画から3D Gaussian Splattingを作成できるオープンソースのツールです。 映像からフレーム抽出、カメラ位置の推定、3D Gaussia\nThe post Spirula Studio – NVIDIA・AMD・Intel・Apple GPU対応！写真や360度動画から3DGS生成・メッシュ化までできる無料ツール first appeared on 3DCG最新情報サイト MODELING HAPPY.",
+          "link": "https://modelinghappy.com/archives/70747",
+          "publishedOn": "2026-09-27T23:54:29.000Z",
+          "wordCount": 3078,
+          "title": "Spirula Studio – NVIDIA・AMD・Intel・Apple GPU対応！写真や360度動画から3DGS生成・メッシュ化までできる無料ツール",
+          "imageUrl": "https://modelinghappy.com/wp-content/uploads/2026/09/20260928_spiula_studio_01.jpg"
+        },
+        {
           "id": "https://modelinghappy.com/?p=70659",
           "author": "modelinghappy",
           "description": "assetstore shibuya Shibuyaは、nimikkoさんが作成した、渋谷スクランブル交差点と周辺の街並みを、実際の地理に沿って再現したUnity用の3D背景アセットですが、本日限り定価438ドルですが、\nThe post Shibuya – 渋谷スクランブル交差点と周辺の街並みを再現したUnity用3D背景アセット定価438ドルが65.84ドルセール価格中！ first appeared on 3DCG最新情報サイト MODELING HAPPY.",
@@ -2661,26 +2711,6 @@
           "wordCount": 3101,
           "title": "Fast Rigging for Maya – ガイドを調整するだけでUE5・Unity対応のキャラクターリグとスキンウェイトを5分以内に自動作成できるMaya用プラグイン",
           "imageUrl": "https://modelinghappy.com/wp-content/uploads/2026/08/20260830_HP_ART_TOOLSET_01.jpg"
-        },
-        {
-          "id": "https://modelinghappy.com/?p=70185",
-          "author": "modelinghappy",
-          "description": "顔のSDFテクスチャを、Blenderだけで作成！｜CL SDF Tools Calappa Lab @3DCGさんが作成した、CL SDF Toolsがリリースされました。アニメ調キャラクターの顔に使用するSDFテクス\nThe post CL SDF Tools – アニメ調キャラクターの顔用SDFテクスチャをBlenderだけで作成できるアドオン first appeared on 3DCG最新情報サイト MODELING HAPPY.",
-          "link": "https://modelinghappy.com/archives/70185",
-          "publishedOn": "2026-08-29T14:50:18.000Z",
-          "wordCount": 3065,
-          "title": "CL SDF Tools – アニメ調キャラクターの顔用SDFテクスチャをBlenderだけで作成できるアドオン",
-          "imageUrl": "https://modelinghappy.com/wp-content/uploads/2026/08/20260829_CL_SDF_Tools_01.jpg"
-        },
-        {
-          "id": "https://modelinghappy.com/?p=70177",
-          "author": "modelinghappy",
-          "description": "retoPoly #8211; 3dsmax modifier ドキュメント retoPoly #8211; 3dsmax modifier retoPolyは、高解像度モデルの表面に沿ってポリゴンを作成できる、Au\nThe post retoPoly – 高解像度モデルの表面にトポロジーを作成できる3ds Max用リトポロジーモディファイヤ first appeared on 3DCG最新情報サイト MODELING HAPPY.",
-          "link": "https://modelinghappy.com/archives/70177",
-          "publishedOn": "2026-08-29T13:31:24.000Z",
-          "wordCount": 3093,
-          "title": "retoPoly – 高解像度モデルの表面にトポロジーを作成できる3ds Max用リトポロジーモディファイヤ",
-          "imageUrl": "https://modelinghappy.com/wp-content/uploads/2026/08/20260829_retopoly_01.jpg"
         }
       ]
     },
@@ -2762,6 +2792,21 @@
       "feedUrl": "https://zenn.dev/topics/graphics/feed",
       "siteUrl": "https://zenn.dev/topics/graphics",
       "articles": [
+        {
+          "id": "https://zenn.dev/nnnnnnn0090/articles/739e7b105128d2",
+          "author": "優雨乃",
+          "description": "おさらい\n前回はGLFWでWindowを作って、VkSurfaceKHRでVulkanとつなぎました。これで、Vulkanから見えるGPUと、絵を出す先のWindowがそろったことになります。\nただ、GPUはまだ「見つけただけ」の状態です。名前を調べることはできても、仕事を頼むことはできません。今回は、GPUに仕事を頼むための準備として、Queue Familyを調べて VkDevice を作るところまで進めます。\n\n 今回のゴール\n実行するとWindowが開いて、ターミナルに次のように表示されればゴールです。Windowの中は前回と同じく空っぽです。\nExtensions:\n  V...",
+          "link": "https://zenn.dev/nnnnnnn0090/articles/739e7b105128d2",
+          "publishedOn": "2026-09-27T17:55:48.000Z",
+          "wordCount": 9446,
+          "title": "【初心者向け】MacでVulkan入門 #3 Queue FamilyとVkDeviceでGPUを使う準備をする",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--D2ydetFn--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2580%2590%25E5%2588%259D%25E5%25BF%2583%25E8%2580%2585%25E5%2590%2591%25E3%2581%2591%25E3%2580%2591Mac%25E3%2581%25A7Vulkan%25E5%2585%25A5%25E9%2596%2580%2520%25233%2520Queue%2520Family%25E3%2581%25A8VkDevice%25E3%2581%25A7GPU%25E3%2582%2592%25E4%25BD%25BF%25E3%2581%2586%25E6%25BA%2596%25E5%2582%2599%25E3%2582%2592%25E3%2581%2599%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E5%2584%25AA%25E9%259B%25A8%25E4%25B9%2583%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2VhYjNkNzdmYjUuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+            "length": "0",
+            "type": "false"
+          },
+          "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--D2ydetFn--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2580%2590%25E5%2588%259D%25E5%25BF%2583%25E8%2580%2585%25E5%2590%2591%25E3%2581%2591%25E3%2580%2591Mac%25E3%2581%25A7Vulkan%25E5%2585%25A5%25E9%2596%2580%2520%25233%2520Queue%2520Family%25E3%2581%25A8VkDevice%25E3%2581%25A7GPU%25E3%2582%2592%25E4%25BD%25BF%25E3%2581%2586%25E6%25BA%2596%25E5%2582%2599%25E3%2582%2592%25E3%2581%2599%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E5%2584%25AA%25E9%259B%25A8%25E4%25B9%2583%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2VhYjNkNzdmYjUuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+        },
         {
           "id": "https://zenn.dev/nnnnnnn0090/articles/16f5d3d7698ca7",
           "author": "優雨乃",
@@ -3301,16 +3346,6 @@
           "wordCount": 1235,
           "title": "HUMAN MOTION DIFFUSION MODEL(2022)",
           "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYyOTgxNjYwJTJGOTViNDExMjY5MmU5NDc5M2U2NTY5ODQ5MzdmM2I4ZjliMmE3MDc2YSUyRmxhcmdlLnBuZyUzRjE2Njg2MDM2MDk_aXhsaWI9cmItNC4xLjEmYXI9MSUzQTEmZml0PWNyb3AmbWFzaz1lbGxpcHNlJmJnPUZGRkZGRiZmbT1wbmczMiZzPWE1ZTgxNGYzYWQ2OTFjZmM4MWVmYjBlODkwMzg4NjNk%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3Db091fc7b27b7f70f9fcc9261423415bf?ixlib=rb-4.1.1&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9JTIwSFVNQU4lMjBNT1RJT04lMjBESUZGVVNJT04lMjBNT0RFTCUyODIwMjIlMjklMjAmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz00MmRmZGJlODQzMjg5OTdjMDkyZjNlOGRkNDI5ZmE2Nw&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBtYXR1bXUyMCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPTUwYzYyYzVhMmI4MTU4MWE3ZTg2NGY0YmMyNWRkOGQ3&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=2a8de05c394e104ebd6cd9e36a81ed75"
-        },
-        {
-          "id": "https://qiita.com/tsukino_/items/571131bb3afe95fa39c1",
-          "author": null,
-          "description": "ゲームエンジンや、フレームワークを作成する上で、避けては通れないのが描画パフォーマンスの最適化です。\nシーンにたくさんの光源を配置したとき、従来のレンダリング(ForwardRendering)のままだと、ピクセルシェーダ内ですべてのピクセル*すべての光源の計算が走ってしま...",
-          "link": "https://qiita.com/tsukino_/items/571131bb3afe95fa39c1",
-          "publishedOn": "2026-08-29T15:17:55.000Z",
-          "wordCount": 685,
-          "title": "【DirectX11】【HLSL】DeferredRenderingを実装しよう! 【理論編】",
-          "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYzOTQzMTQ4JTJGZGJhOTI4MmI5OWFlNGQ4NmFjYjI4MDk1NGVhNGFjYzI2ZGYyODM0ZSUyRmxhcmdlLnBuZyUzRjE3NTAxNDEwMzM_aXhsaWI9cmItNC4xLjEmYXI9MSUzQTEmZml0PWNyb3AmbWFzaz1lbGxpcHNlJmJnPUZGRkZGRiZmbT1wbmczMiZzPWU4ZGJmMzk4YjI1NDE2YmMxODUyOGE0ZWZiOWU3NjE5%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D0cdf0498f9ab9bc4ec92fd97b061c8a7?ixlib=rb-4.1.1&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9JUUzJTgwJTkwRGlyZWN0WDExJUUzJTgwJTkxJUUzJTgwJTkwSExTTCVFMyU4MCU5MURlZmVycmVkUmVuZGVyaW5nJUUzJTgyJTkyJUU1JUFFJTlGJUU4JUEzJTg1JUUzJTgxJTk3JUUzJTgyJTg4JUUzJTgxJTg2JTIxJTIwJUUzJTgwJTkwJUU3JTkwJTg2JUU4JUFCJTk2JUU3JUI3JUE4JUUzJTgwJTkxJnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9ZDZkYmM4YTRkODEwYTE2ZGYxMTI3ZTZiMDQ4ZDc2ZmY&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDB0c3VraW5vXyZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPTRjODM5MzJmNjA1ZTE0YzNmN2RhYTIyNTYyYjQ1NTU2&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=9cb1ac94589a9b276bdb87a49483e8b9"
         }
       ]
     },
@@ -3385,16 +3420,6 @@
           "wordCount": 7351,
           "title": "【DirectX11】【HLSL】DeferredRenderingを実装しよう! 【実装編】",
           "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYzOTQzMTQ4JTJGZGJhOTI4MmI5OWFlNGQ4NmFjYjI4MDk1NGVhNGFjYzI2ZGYyODM0ZSUyRmxhcmdlLnBuZyUzRjE3NTAxNDEwMzM_aXhsaWI9cmItNC4xLjEmYXI9MSUzQTEmZml0PWNyb3AmbWFzaz1lbGxpcHNlJmJnPUZGRkZGRiZmbT1wbmczMiZzPWU4ZGJmMzk4YjI1NDE2YmMxODUyOGE0ZWZiOWU3NjE5%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D0cdf0498f9ab9bc4ec92fd97b061c8a7?ixlib=rb-4.1.1&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9JUUzJTgwJTkwRGlyZWN0WDExJUUzJTgwJTkxJUUzJTgwJTkwSExTTCVFMyU4MCU5MURlZmVycmVkUmVuZGVyaW5nJUUzJTgyJTkyJUU1JUFFJTlGJUU4JUEzJTg1JUUzJTgxJTk3JUUzJTgyJTg4JUUzJTgxJTg2JTIxJTIwJUUzJTgwJTkwJUU1JUFFJTlGJUU4JUEzJTg1JUU3JUI3JUE4JUUzJTgwJTkxJnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9ZmNiYmEyNDZiY2I1YzIxNzAxOTY1MmY2MGM0MzBlN2Q&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDB0c3VraW5vXyZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPTRjODM5MzJmNjA1ZTE0YzNmN2RhYTIyNTYyYjQ1NTU2&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=55a91210dc94e06cf4fb409c2a2b2cb3"
-        },
-        {
-          "id": "https://qiita.com/tsukino_/items/571131bb3afe95fa39c1",
-          "author": null,
-          "description": "ゲームエンジンや、フレームワークを作成する上で、避けては通れないのが描画パフォーマンスの最適化です。\nシーンにたくさんの光源を配置したとき、従来のレンダリング(ForwardRendering)のままだと、ピクセルシェーダ内ですべてのピクセル*すべての光源の計算が走ってしま...",
-          "link": "https://qiita.com/tsukino_/items/571131bb3afe95fa39c1",
-          "publishedOn": "2026-08-29T15:17:55.000Z",
-          "wordCount": 685,
-          "title": "【DirectX11】【HLSL】DeferredRenderingを実装しよう! 【理論編】",
-          "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYzOTQzMTQ4JTJGZGJhOTI4MmI5OWFlNGQ4NmFjYjI4MDk1NGVhNGFjYzI2ZGYyODM0ZSUyRmxhcmdlLnBuZyUzRjE3NTAxNDEwMzM_aXhsaWI9cmItNC4xLjEmYXI9MSUzQTEmZml0PWNyb3AmbWFzaz1lbGxpcHNlJmJnPUZGRkZGRiZmbT1wbmczMiZzPWU4ZGJmMzk4YjI1NDE2YmMxODUyOGE0ZWZiOWU3NjE5%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D0cdf0498f9ab9bc4ec92fd97b061c8a7?ixlib=rb-4.1.1&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9JUUzJTgwJTkwRGlyZWN0WDExJUUzJTgwJTkxJUUzJTgwJTkwSExTTCVFMyU4MCU5MURlZmVycmVkUmVuZGVyaW5nJUUzJTgyJTkyJUU1JUFFJTlGJUU4JUEzJTg1JUUzJTgxJTk3JUUzJTgyJTg4JUUzJTgxJTg2JTIxJTIwJUUzJTgwJTkwJUU3JTkwJTg2JUU4JUFCJTk2JUU3JUI3JUE4JUUzJTgwJTkxJnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9ZDZkYmM4YTRkODEwYTE2ZGYxMTI3ZTZiMDQ4ZDc2ZmY&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDB0c3VraW5vXyZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPTRjODM5MzJmNjA1ZTE0YzNmN2RhYTIyNTYyYjQ1NTU2&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=9cb1ac94589a9b276bdb87a49483e8b9"
         }
       ]
     },
@@ -3945,6 +3970,16 @@
       "feedUrl": "https://3d.crdg.jp/env/feed/",
       "siteUrl": "https://3d.crdg.jp/env/",
       "articles": [
+        {
+          "id": "https://3d.crdg.jp/env/?p=10450",
+          "author": "Hiroto.Ishii",
+          "description": "メインアセットを際立たせるためにライトを追加したものの、周囲のオブジェクトまで明るくなってしまった経験はないでしょうか。UE5には、ライトの影響を受け […]\n続きを読む\n投稿 【Unreal Engine】ライトチャンネルを使った効率的な背景ライティング は エンホリ - ENVIRONMENT HOLIC｜C&R Creative Studios に最初に表示されました。",
+          "link": "https://3d.crdg.jp/env/2026/09/28/10450/?utm_source=rss&utm_medium=rss&utm_campaign=%25e3%2580%2590unreal-engine%25e3%2580%2591%25e3%2583%25a9%25e3%2582%25a4%25e3%2583%2588%25e3%2583%2581%25e3%2583%25a3%25e3%2583%25b3%25e3%2583%258d%25e3%2583%25ab%25e3%2582%2592%25e4%25bd%25bf%25e3%2581%25a3%25e3%2581%259f%25e5%258a%25b9%25e7%258e%2587%25e7%259a%2584%25e3%2581%25aa%25e8%2583%258c%25e6%2599%25af",
+          "publishedOn": "2026-09-28T03:00:00.000Z",
+          "wordCount": 3268,
+          "title": "【Unreal Engine】ライトチャンネルを使った効率的な背景ライティング",
+          "imageUrl": "https://3d.crdg.jp/env/wp-content/uploads/2026/09/enhori_04_00.png"
+        },
         {
           "id": "https://3d.crdg.jp/env/?p=10485",
           "author": "Akito.Yamakawa",

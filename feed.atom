@@ -2,10 +2,97 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-27T15:59:30.849Z</updated>
+    <updated>2026-09-28T02:31:22.088Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[mocopi×3ds Maxが変えるアニメ制作フローとは 　TVアニメ『勇者パーティを追い出された器用貧乏』]]></title>
+        <id>https://area.autodesk.jp/case/animation/kiyou-bimbou/</id>
+        <link href="https://area.autodesk.jp/case/animation/kiyou-bimbou/"/>
+        <updated>2026-09-28T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[アニメCG制作の現場で長く使われてきたAutodesk社の3ds Max。そこにソニーのモバイルモーションキャプチャー「mocopi®」を組み込むためのプラグイン「mocopi Receiver Plugin for 3ds Max」が新たにリリースされました。このプラグインは実際のアニメーション制作スタジオの現場の要望が発端となって生まれました。・・・]]></summary>
+        <author>
+            <name>AREA JAPAN | Autodesk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[STUDIO PONCOTAN、アニメーター＆コンポジターのワークフロー紹介動画を公開　CGレイアウトから「Pencil+」を用いた画づくりまで - ニュース]]></title>
+        <id>https://cgworld.jp/flashnews/01-202609-Poncotan.html</id>
+        <link href="https://cgworld.jp/flashnews/01-202609-Poncotan.html"/>
+        <updated>2026-09-27T23:39:43.000Z</updated>
+        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【期間限定無料】2026年10月6日までの FAB 無料コンテンツをチェック！]]></title>
+        <id>https://cginterest.com/?p=62765</id>
+        <link href="https://cginterest.com/2026/09/28/%e3%80%90%e6%9c%9f%e9%96%93%e9%99%90%e5%ae%9a%e7%84%a1%e6%96%99%e3%80%912026%e5%b9%b410%e6%9c%886%e6%97%a5%e3%81%be%e3%81%a7%e3%81%ae-fab-%e7%84%a1%e6%96%99%e3%82%b3%e3%83%b3%e3%83%86%e3%83%b3/"/>
+        <updated>2026-09-27T22:56:00.000Z</updated>
+        <summary type="html"><![CDATA[期間限定で無料となっているEpicのマーケットプレイスFABの無料コンテンツの紹介です。 Epic Games の統合マーケットプレイスFABでは、クリエイターとのパートナーシップによって、2週間ごとに選ばれたコンテンツ […]]]></summary>
+        <author>
+            <name>.me</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PhysDiff: Physics-Guided Human Motion Diffusion Model(2023)]]></title>
+        <id>https://qiita.com/matumu20/items/e4b3e73348a3c8d9b342</id>
+        <link href="https://qiita.com/matumu20/items/e4b3e73348a3c8d9b342"/>
+        <updated>2026-09-27T22:30:52.000Z</updated>
+        <summary type="html"><![CDATA[HUMAN MOTION DIFFUSION MODEL(NVIDIA, 2022)
+
+3行要約
+
+PhysDiffは、拡散モデルによるモーション生成過程に物理シミュレーションを組み込むことで、浮遊や地面貫通、足の滑りといった身体的アーティファクトを大幅に改善する新しい...]]></summary>
+        <author>
+            <name>3DCGタグが付けられた新着記事 - Qiita</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[フォトグラメトリ数学｜58：CE90・LE90とは何か]]></title>
+        <id>https://zenn.dev/s_hashida/articles/7ed7471d553eb8</id>
+        <link href="https://zenn.dev/s_hashida/articles/7ed7471d553eb8"/>
+        <updated>2026-09-27T21:58:05.000Z</updated>
+        <summary type="html"><![CDATA[はじめに
+前回は、
+
+誤差とは何か
+RMSEとは何か
+なぜ誤差を二乗するのか
+X・Y・Z方向のRMSE
+水平RMSE
+Check Pointによる精度評価
+GCPとCheck Pointの違い
+GSDとRMSEの違い
+
+について説明しました。
+
+その中で重要だったのが、
+
+RMSE
+=
+\sqrt{
+\frac{1}{n}
+\sum_{i=1}^{n}
+e_i^2
+}
+
+という関係です。
+RMSEを利用することで、
+推定された位置が基準位置から、全体としてどの程度ずれているのか
+を一つの値として評価することができます。
+
+しかし、例えば、
+
+RMSE_H
+=
+10\ \mathrm...]]></summary>
+        <author>
+            <name>s_hashida</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ProxyPose: 6-DoF Pose Tracking via Video-to-Video Translation | 動画内の1点を指定するだけで物体や表面の6DoFポーズを追跡！動画生成AIとPnPを組み合わせた新技術！コードも公開]]></title>
         <id>https://3dnchu.com/?p=1068733</id>
@@ -4104,87 +4191,6 @@ The post CL SDF Tools – アニメ調キャラクターの顔用SDFテクスチ
 The post retoPoly – 高解像度モデルの表面にトポロジーを作成できる3ds Max用リトポロジーモディファイヤ first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
         <author>
             <name>modelinghappy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2026年8月発売のCG関連書籍をチェック！]]></title>
-        <id>https://cginterest.com/?p=61336</id>
-        <link href="https://cginterest.com/2026/08/29/2026%e5%b9%b48%e6%9c%88%e7%99%ba%e5%a3%b2%e3%81%aecg%e9%96%a2%e9%80%a3%e6%9b%b8%e7%b1%8d%e3%82%92%e3%83%81%e3%82%a7%e3%83%83%e3%82%af%ef%bc%81/"/>
-        <updated>2026-08-29T10:15:06.000Z</updated>
-        <summary type="html"><![CDATA[今月発売、2026年8月以降に発売予定*のあるCG関連書籍を紹介するコーナーです(Amazon調べ)。 CGソフトの入門本、テクニック本、アートブック、リファレンス（参考資料）、その他気になるおすすめ書籍を紹介していきま […]]]></summary>
-        <author>
-            <name>.me</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Unity ShaderGraph備忘録 part6-Toon Shader]]></title>
-        <id>https://zenn.dev/zn_ryg12/articles/shader-note-20260829</id>
-        <link href="https://zenn.dev/zn_ryg12/articles/shader-note-20260829"/>
-        <updated>2026-08-29T08:59:27.000Z</updated>
-        <summary type="html"><![CDATA[トゥーンシェーダー
-いわゆる「セルルック」とか「トゥーンレンダリング」とか呼ばれているもの。
-3Dのキャラクターモデルをアニメのセル画のように主線を描いたり、影の輪郭をパキっと見せたりする表現方法です。
-
-今回はその中の触りの部分、影の輪郭をパキっとさせる部分をShaderGraphで再現していこうと思います。
-※この記事の作例には「ユニティちゃん」を使用しています
-© Unity Technologies Japan/UCL
-
-
- ShaderGraphでの実装
-このユニティちゃんに
-
-
-こういう影を付けるところまでを目標にします。
-
-
-今回は仕組みが分かりやすいようにFullsc...]]></summary>
-        <author>
-            <name>ryuga.</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Unity ShaderGraph備忘録 part6-Toon Shader]]></title>
-        <id>https://zenn.dev/zn_ryg12/articles/shader-note-20260829</id>
-        <link href="https://zenn.dev/zn_ryg12/articles/shader-note-20260829"/>
-        <updated>2026-08-29T08:59:27.000Z</updated>
-        <summary type="html"><![CDATA[トゥーンシェーダー
-いわゆる「セルルック」とか「トゥーンレンダリング」とか呼ばれているもの。
-3Dのキャラクターモデルをアニメのセル画のように主線を描いたり、影の輪郭をパキっと見せたりする表現方法です。
-
-今回はその中の触りの部分、影の輪郭をパキっとさせる部分をShaderGraphで再現していこうと思います。
-※この記事の作例には「ユニティちゃん」を使用しています
-© Unity Technologies Japan/UCL
-
-
- ShaderGraphでの実装
-このユニティちゃんに
-
-
-こういう影を付けるところまでを目標にします。
-
-
-今回は仕組みが分かりやすいようにFullsc...]]></summary>
-        <author>
-            <name>ryuga.</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[犬の3D作成を自動化する]]></title>
-        <id>https://zenn.dev/tonote/articles/dog-3d-auto-rig</id>
-        <link href="https://zenn.dev/tonote/articles/dog-3d-auto-rig"/>
-        <updated>2026-08-29T06:25:07.000Z</updated>
-        <summary type="html"><![CDATA[はじめに
-4本足のリグ入りキャラクター（犬）を自動生成できないかと思い、Autodesk Flow Studio の Text to 3D / オートリグ機能を試しました。結論から言うと、現状は4足動物のオートリグには未対応でしたが、代わりに二足歩行キャラクターでオートリグの手順を一通り学習できたので、その記録です。
-
- Text to 3D で犬メッシュを生成
-Text to 3D に「4足歩行の小型柴犬」というプロンプトを入力し、メッシュを4パターン生成しました。
-
-Text to 3D の入力画面（生成前）
-
-プロンプトから生成された4足歩行の柴犬メッシュ（4パターン）
-生成時...]]></summary>
-        <author>
-            <name>tonote</name>
         </author>
     </entry>
 </feed>

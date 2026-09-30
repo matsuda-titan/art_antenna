@@ -2,10 +2,185 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-30T02:56:05.648Z</updated>
+    <updated>2026-09-30T09:10:26.858Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[キャラクターを画面内の指定領域に収めるカメラ位置の計算方法]]></title>
+        <id>https://zenn.dev/reality_tech/articles/camera-auto-framing-algorithm</id>
+        <link href="https://zenn.dev/reality_tech/articles/camera-auto-framing-algorithm"/>
+        <updated>2026-09-30T09:00:07.000Z</updated>
+        <summary type="html"><![CDATA[はじめに
+3Dキャラクターの写真や動画を撮影できるアプリやツールを開発・運用していると、画面内の指定領域に被写体を自動的に収めて撮影したいことがあります。さらに、指定領域内で被写体ができるだけ大きく映るようにしたい、キャラクターの体格・ポーズ・アニメーションなどの変化にフレーミングを追従させたい、という場合もあります。
+この記事では「被写体を画面内のフレーミング領域に収めるカメラ位置の求め方」について解説します。この手法を活用すると、以下のデモのように、被写体のポーズやアニメーションに合わせて自動的にフレーミングしながら撮影できます。
+
+
+YouTubeで見る
+デモアプリを開く
+
+
+...]]></summary>
+        <author>
+            <name>Soichiro Sugimoto</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【Substance Designer】Height map を使って水たまりを作ってみよう！]]></title>
+        <id>https://3d.crdg.jp/env/?p=10517</id>
+        <link href="https://3d.crdg.jp/env/2026/09/30/10517/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=%25e3%2580%2590substance-designer%25e3%2580%2591height-map-%25e3%2582%2592%25e4%25bd%25bf%25e3%2581%25a3%25e3%2581%25a6%25e6%25b0%25b4%25e3%2581%259f%25e3%2581%25be%25e3%2582%258a%25e3%2582%2592%25e4%25bd%259c%25e3%2581%25a3%25e3%2581%25a6%25e3%2581%25bf%25e3%2582%2588%25e3%2581%2586%25ef%25bc%2581"/>
+        <updated>2026-09-30T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[今回は既存のテクスチャを加工して水たまりを作ります。 Substance 3D Assetsから地面の素材(swamp_mud)をダウンロードしました […]
+続きを読む
+投稿 【Substance Designer】Height map を使って水たまりを作ってみよう！ は エンホリ - ENVIRONMENT HOLIC｜C&R Creative Studios に最初に表示されました。]]></summary>
+        <author>
+            <name>Erika.Yamanaka</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【新講座】「なぜ不自然に見えるのか」を関節と筋肉から解き明かすオンライン講座『動かすための美術解剖学』が10/30(金)に開催決定 - ニュース]]></title>
+        <id>https://cgworld.jp/flashnews/1030.html</id>
+        <link href="https://cgworld.jp/flashnews/1030.html"/>
+        <updated>2026-09-30T07:54:34.000Z</updated>
+        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【KeenTools社】実写のスピードボートに旗を合成｜GeoTracker for Houdini・Vellum・KarmaによるVFX制作解説]]></title>
+        <id>https://note.com/indyzone/n/n3052290ecd62</id>
+        <link href="https://note.com/indyzone/n/n3052290ecd62"/>
+        <updated>2026-09-30T07:37:23.000Z</updated>
+        <summary type="html"><![CDATA[KeenTools GeoTracker for Houdini
+
+
+続きをみる]]></summary>
+        <author>
+            <name>#Houdiniタグ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[『モンスターハンターワイルズ』グローバル展開で膨大なカットシーンの英語リップシンクを実現。自動音声アニメーションシステム「SGX」活用と効率化 - スペシャルコンテンツ]]></title>
+        <id>https://cgworld.jp/special-feature/2609-sgx.html</id>
+        <link href="https://cgworld.jp/special-feature/2609-sgx.html"/>
+        <updated>2026-09-30T07:33:00.000Z</updated>
+        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【KeenTools社】ダムの放水シーンをHoudiniで作る ― カメラトラック・水のシミュレーション・植物生成の制作ワークフロー]]></title>
+        <id>https://note.com/indyzone/n/nc2f95347fb05</id>
+        <link href="https://note.com/indyzone/n/nc2f95347fb05"/>
+        <updated>2026-09-30T06:39:12.000Z</updated>
+        <summary type="html"><![CDATA[Houdini VFX Breakdown
+
+
+続きをみる]]></summary>
+        <author>
+            <name>#Houdiniタグ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【KeenTools社】KeenTools 2026.3.1｜CenterGeo改善・Houdini 22対応・Nuke修正]]></title>
+        <id>https://note.com/indyzone/n/n489266af4c2c</id>
+        <link href="https://note.com/indyzone/n/n489266af4c2c"/>
+        <updated>2026-09-30T06:06:43.000Z</updated>
+        <summary type="html"><![CDATA[KeenTools 2026.3.1 Release Notes
+
+
+続きをみる]]></summary>
+        <author>
+            <name>#Houdiniタグ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[UE5のシェーダ最適化実践ガイド：Material、Custom HLSL、Global Shader/RDGの使い分け]]></title>
+        <id>https://zenn.dev/gamedev_toollab/articles/fe512bd30def27</id>
+        <link href="https://zenn.dev/gamedev_toollab/articles/fe512bd30def27"/>
+        <updated>2026-09-30T06:01:26.000Z</updated>
+        <summary type="html"><![CDATA[Unreal Engine 5でマテリアルを作っていると、ノードが増えた時点で「HLSLを直接書けば軽くなるのではないか」「C++でシェーダを書いた方が最適化しやすいのではないか」と考えたくなります。
+しかし、コード化そのものは最適化ではありません。Material Editorの各ノードも内部ではHLSLへ変換されます。さらにUEの公式ドキュメントは、Customノードが定数畳み込みを妨げ、同等の組み込みノードより命令数が増える場合があると明記しています。
+この記事では、UE5でシェーダを最適化する際に混同されやすい次の問題を分けて扱います。
+
+1フレーム中のGPU実行時間
+シェーダ順...]]></summary>
+        <author>
+            <name>GameDev Tool Lab</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[UE5のシェーダ最適化実践ガイド：Material、Custom HLSL、Global Shader/RDGの使い分け]]></title>
+        <id>https://zenn.dev/gamedev_toollab/articles/fe512bd30def27</id>
+        <link href="https://zenn.dev/gamedev_toollab/articles/fe512bd30def27"/>
+        <updated>2026-09-30T06:01:26.000Z</updated>
+        <summary type="html"><![CDATA[Unreal Engine 5でマテリアルを作っていると、ノードが増えた時点で「HLSLを直接書けば軽くなるのではないか」「C++でシェーダを書いた方が最適化しやすいのではないか」と考えたくなります。
+しかし、コード化そのものは最適化ではありません。Material Editorの各ノードも内部ではHLSLへ変換されます。さらにUEの公式ドキュメントは、Customノードが定数畳み込みを妨げ、同等の組み込みノードより命令数が増える場合があると明記しています。
+この記事では、UE5でシェーダを最適化する際に混同されやすい次の問題を分けて扱います。
+
+1フレーム中のGPU実行時間
+シェーダ順...]]></summary>
+        <author>
+            <name>GameDev Tool Lab</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[アドビ、ChatGPT向けプラグインの機能を拡充！ 選択範囲の画像編集とPDFの直接編集に対応]]></title>
+        <id>https://cginterest.com/?p=62793</id>
+        <link href="https://cginterest.com/2026/09/30/%e3%82%a2%e3%83%89%e3%83%93%e3%80%81chatgpt%e5%90%91%e3%81%91%e3%83%97%e3%83%a9%e3%82%b0%e3%82%a4%e3%83%b3%e3%81%ae%e6%a9%9f%e8%83%bd%e3%82%92%e6%8b%a1%e5%85%85%ef%bc%81-%e9%81%b8%e6%8a%9e%e7%af%84/"/>
+        <updated>2026-09-30T05:31:17.000Z</updated>
+        <summary type="html"><![CDATA[2026年9月29日（現地時間）- アドビは、OpenAIの年次開発者カンファレンス「DevDay 2026」の開催にあわせ、ChatGPT向けの「Adobe plugin」に新たなインタラクティブ編集機能を追加したこと […]]]></summary>
+        <author>
+            <name>.me</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[『ドンキーコング バナンザ』すべてが壊せる世界の構築、破壊を実現するボクセル技術～CEDEC 2026（4） - 特集]]></title>
+        <id>https://cgworld.jp/article/202609-cedec-bananza02.html</id>
+        <link href="https://cgworld.jp/article/202609-cedec-bananza02.html"/>
+        <updated>2026-09-30T05:01:00.000Z</updated>
+        <summary type="html"><![CDATA[CEDEC 2026のセッションから、「『ドンキーコング バナンザ』すべてが壊せる世界の構築 ～破壊を実現するボクセル技術～」を紹介。]]></summary>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【DirectX11】【HLSL】シャドウマップを実装しよう]]></title>
+        <id>https://qiita.com/tsukino_/items/d1839a99b6eaf4310a21</id>
+        <link href="https://qiita.com/tsukino_/items/d1839a99b6eaf4310a21"/>
+        <updated>2026-09-30T04:54:53.000Z</updated>
+        <summary type="html"><![CDATA[3Dシーンに影が無いと、キャラクターが地面に立っているのか浮いているのかが分からなくなります。
+影はオブジェクトと地面の位置関係を伝える情報そのもので、見た目の豪華さ以前にどこに何があるかを成立させる役割を持っています。
+リアルタイムでこの影を落とす手法として最も広く使われ...]]></summary>
+        <author>
+            <name>HLSLタグが付けられた新着記事 - Qiita</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[熊本市がCGプロダクション向け無料視察ツアーを11月に開催！進出企業への訪問や、地元学生と交流できるイベント『CGWORLDクリエイティブクロス』も開催予定 - スペシャルコンテンツ]]></title>
+        <id>https://cgworld.jp/special-feature/2609-kumamoto.html</id>
+        <link href="https://cgworld.jp/special-feature/2609-kumamoto.html"/>
+        <updated>2026-09-30T03:30:29.000Z</updated>
+        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【KeenTools社】1枚のスクリーンショットから作った3Dモデルで、スケートボードをトラッキングする]]></title>
+        <id>https://note.com/indyzone/n/n2224e8b7d07d</id>
+        <link href="https://note.com/indyzone/n/n2224e8b7d07d"/>
+        <updated>2026-09-30T03:06:30.000Z</updated>
+        <summary type="html"><![CDATA[SAM 3D（Meta）で生成したモデルを Houdini 22 で使う
+
+
+続きをみる]]></summary>
+        <author>
+            <name>#Houdiniタグ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Media & Entertainment メールマガジン 2026 年 9 月号]]></title>
         <id>https://area.autodesk.jp/information/inews-202609/</id>
@@ -4257,40 +4432,6 @@ The post Layer Transfer Helper – 異なるSubstance 3D Painterプロジェク�
         <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
         <author>
             <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Painting Luminous Portraits：色と光で描く人物画 | 色彩理論からライティングまで人物画に必要な知識と技術を学べる書籍の日本語版が登場！2026年9月発売！]]></title>
-        <id>https://3dnchu.com/?p=1067778</id>
-        <link href="https://3dnchu.com/archives/painting-luminous-portraits-book-jp/"/>
-        <updated>2026-08-31T18:55:31.000Z</updated>
-        <summary type="html"><![CDATA[数々の賞を受賞した肖像画家 Steve Forster（スティーブ・フォースター）氏による人物画の技法書『Painting Luminous Portraits for Artists』の日本語版『Painting Luminous Portraits：色と光で描く人物画』が、ボーンデジタルから20 […]
-続きを読む]]></summary>
-        <author>
-            <name>Ymt3D -3dnchu-</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NVIDIA DLSS 5 | 未正式版Neural Renderingランタイムが発見されModderが様々なゲームで動作検証！]]></title>
-        <id>https://3dnchu.com/?p=1067829</id>
-        <link href="https://3dnchu.com/archives/nvidia-dlss-5-leak/"/>
-        <updated>2026-08-31T18:43:42.000Z</updated>
-        <summary type="html"><![CDATA[NVIDIAが2026年秋の提供を予定している「DLSS 5」の未正式版Neural Renderingランタイムが『NBA 2K27』から発見され、Modderによって『Control』『Cyberpunk 2077』『GTA V』など様々なゲームへの導入実験が行われています。2026年3月に発表 […]
-続きを読む]]></summary>
-        <author>
-            <name>Ymt3D -3dnchu-</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【Substance Designer】Shift + Dでノードのビフォーアフターを確認する]]></title>
-        <id>https://3d.crdg.jp/env/?p=10438</id>
-        <link href="https://3d.crdg.jp/env/2026/08/31/10438/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=%25e3%2580%2590substance-designer%25e3%2580%2591shift-d%25e3%2581%25a7%25e3%2583%258e%25e3%2583%25bc%25e3%2583%2589%25e3%2581%25ae%25e3%2583%2593%25e3%2583%2595%25e3%2582%25a9%25e3%2583%25bc%25e3%2582%25a2%25e3%2583%2595%25e3%2582%25bf%25e3%2583%25bc%25e3%2582%2592%25e7%25a2%25ba%25e8%25aa%258d%25e3%2581%2599"/>
-        <updated>2026-08-31T14:28:35.000Z</updated>
-        <summary type="html"><![CDATA[Shift + D キーで選択中のノードを一時無効化できます。これを使うと前後の変化を簡単に確認できるので、もし知らなかった場合は試してみてください！ […]
-続きを読む
-投稿 【Substance Designer】Shift + Dでノードのビフォーアフターを確認する は エンホリ - ENVIRONMENT HOLIC｜C&R Creative Studios に最初に表示されました。]]></summary>
-        <author>
-            <name>Hisako.Nishimura</name>
         </author>
     </entry>
 </feed>

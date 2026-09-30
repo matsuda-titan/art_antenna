@@ -1293,21 +1293,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "https://3dnchu.com/wp-content/uploads/nvidia-dlss-5-neural-renderingmo.jpg"
-        },
-        {
-          "id": "https://3dnchu.com/?p=1067698",
-          "author": "Ymt3D -3dnchu-",
-          "description": "Wozivaが開発したUnreal Engine向けのランタイムメッシュ変形プラグイン「Shape Cage」！Static Meshをリアルタイムに曲げる・潰す・凹ませることができ、重量物が箱に落下して凹んだり、ボールが押し潰されたりといったSoft Body風の変形表現を低コストに実現できます。 […]\n続きを読む",
-          "link": "https://3dnchu.com/archives/shape-cage/",
-          "publishedOn": "2026-08-31T09:08:39.000Z",
-          "wordCount": 8421,
-          "title": "Shape Cage | WPOを使用しStatic Meshを低負荷で潰す＆曲げる＆凹ませる！物理衝突やカーテン開閉にも対応したUE5向けランタイムメッシュ変形プラグイン！",
-          "enclosure": {
-            "url": "https://3dnchu.com/wp-content/uploads/shape-cage-wpostatic-mesh.jpg",
-            "length": "53527",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://3dnchu.com/wp-content/uploads/shape-cage-wpostatic-mesh.jpg"
         }
       ]
     },
@@ -1316,6 +1301,16 @@
       "feedUrl": "https://cgworld.jp/atom.xml",
       "siteUrl": "https://cgworld.jp/",
       "articles": [
+        {
+          "id": "https://cgworld.jp/flashnews/01-202609-C4D-Voronoi.html",
+          "author": null,
+          "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
+          "link": "https://cgworld.jp/flashnews/01-202609-C4D-Voronoi.html",
+          "publishedOn": "2026-09-29T23:29:56.000Z",
+          "wordCount": 782,
+          "title": "Maxon、Cinema 4Dのボロノイ分割についての解説動画を公開　スプラインやマトリクス、パーティクルを利用した分割バリエーションを紹介 - ニュース",
+          "imageUrl": "https://cgworld.jp/flashnews/assets_c/2026/09/C4D_Voronoi-01-thumb-1920x1080-89314.jpg"
+        },
         {
           "id": "https://cgworld.jp/special-feature/202609-yamatoworks.html",
           "author": null,
@@ -2095,36 +2090,6 @@
           "wordCount": 914,
           "title": "ケンブリッジ大学ら、部屋スキャンを操作可能な3Dシーンに変えるオープンソースのツールキット「LiteReality-Agent」公開　iPhoneアプリで室内を撮影するだけで3Dシーンを構築 - ニュース",
           "imageUrl": "https://cgworld.jp/flashnews/assets_c/2026/09/49182e50678e17e998a112102d55d884ade40b38-thumb-1920x1080-88321.jpg"
-        },
-        {
-          "id": "https://cgworld.jp/flashnews/blender-fes-2026-awblender-fes-extra927.html",
-          "author": null,
-          "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
-          "link": "https://cgworld.jp/flashnews/blender-fes-2026-awblender-fes-extra927.html",
-          "publishedOn": "2026-08-31T12:31:08.000Z",
-          "wordCount": 754,
-          "title": "【期間限定】\"Blender Fes 2026 AW\"開催記念！Blender Fes Extra特別販売キャンペーン実施中(~9/27まで) - ニュース",
-          "imageUrl": "https://cgworld.jp/flashnews/assets_c/2026/08/dg-thumb-1920x1080-88309.jpg"
-        },
-        {
-          "id": "https://cgworld.jp/regular/202608-cgw336-tr14.html",
-          "author": null,
-          "description": "CADデータをゲームエンジンやリアルタイム環境で活用したいのに、「データが重い」、「表示が遅い」、「変換に手間がかかる」といった壁にぶつかったことはありませんか？　こうした課題を解決するには、CADデータを用途に適したポリゴンデータへ変換し、最適な軽量化を行うことが重要です。  今回はUnity Asset Transformer Toolkit（以下、Unity ATT）、ZBrush、Blender、InstaLODのポリゴンリダクション機能を検証します。",
-          "link": "https://cgworld.jp/regular/202608-cgw336-tr14.html",
-          "publishedOn": "2026-08-31T06:00:00.000Z",
-          "wordCount": 873,
-          "title": "#14【ポリゴンリダクション】Unity ATT・ZBrush・Blender・InstaLODのポリゴンリダクション機能を比較検証！ - 連載",
-          "imageUrl": "https://cgworld.jp/regular/assets_c/2026/08/techroom_14_web-thumb-1000x563-88244.jpg"
-        },
-        {
-          "id": "https://cgworld.jp/flashnews/94.html",
-          "author": null,
-          "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
-          "link": "https://cgworld.jp/flashnews/94.html",
-          "publishedOn": "2026-08-31T05:06:36.000Z",
-          "wordCount": 725,
-          "title": "【今週9/4オンライン開催】プレイヤー体験をより効果的にするレベルデザインとは？オンライン講座『レベルデザインへの建築的アプローチ~プロセスとプロトタイピング~』 - ニュース",
-          "imageUrl": "https://cgworld.jp/flashnews/assets_c/2026/07/108_seminar_leveldesign_full%20%281%29-thumb-1920x1080-86347.jpg"
         }
       ]
     },
@@ -2168,6 +2133,26 @@
       "feedUrl": "https://modelinghappy.com/feed",
       "siteUrl": "https://modelinghappy.com",
       "articles": [
+        {
+          "id": "https://modelinghappy.com/?p=70788",
+          "author": "modelinghappy",
+          "description": "CameraRef Pro CameraRef Proは、複数の参考写真からカメラの位置・向き・焦点距離を推定し、Blender内にカメラと3D参照点を作成できるアドオンです。 撮影に使用したカメラやレンズが分からなくて\nThe post CameraRef Pro – 複数の写真からカメラと3D参照点を作成してモデリングを補助するBlender用アドオン first appeared on 3DCG最新情報サイト MODELING HAPPY.",
+          "link": "https://modelinghappy.com/archives/70788",
+          "publishedOn": "2026-09-30T01:37:16.000Z",
+          "wordCount": 3076,
+          "title": "CameraRef Pro – 複数の写真からカメラと3D参照点を作成してモデリングを補助するBlender用アドオン",
+          "imageUrl": "https://modelinghappy.com/wp-content/uploads/2026/09/20260930_cnaerarefpro_01.jpg"
+        },
+        {
+          "id": "https://modelinghappy.com/?p=70779",
+          "author": "modelinghappy",
+          "description": "FABOTANIC トミナガハルキさんが、草木・植物3D素材をwebブラウザから無料で作れるジェネレーターFABOTNICをリリースしました。 FABOTANIC（ファボタニック）は、木・草花・シダ・観葉植物・サボテンな\nThe post FABOTANIC – 41系統の草木・植物をブラウザで生成してGLB出力できる商用利用可能な無料3D素材ジェネレーター first appeared on 3DCG最新情報サイト MODELING HAPPY.",
+          "link": "https://modelinghappy.com/archives/70779",
+          "publishedOn": "2026-09-30T00:44:03.000Z",
+          "wordCount": 3074,
+          "title": "FABOTANIC – 41系統の草木・植物をブラウザで生成してGLB出力できる商用利用可能な無料3D素材ジェネレーター",
+          "imageUrl": "https://modelinghappy.com/wp-content/uploads/2026/09/20260930_fabotanic_01.jpg"
+        },
         {
           "id": "https://modelinghappy.com/?p=70776",
           "author": "modelinghappy",
@@ -2677,26 +2662,6 @@
           "wordCount": 3067,
           "title": "Layer Transfer Helper – 異なるSubstance 3D Painterプロジェクト間でレイヤーやフォルダーを２クリックで移動できる無料プラグイン",
           "imageUrl": "https://modelinghappy.com/wp-content/uploads/2026/09/20260901_layer_transfer_helper.jpg"
-        },
-        {
-          "id": "https://modelinghappy.com/?p=70287",
-          "author": "modelinghappy",
-          "description": "Multi Faces Inset Outset (blender addon) Kushiroさんが作成した、Multi Faces Inset Outsetは、選択した複数の面に対して、インセットとアウトセットをまと\nThe post Multi Faces Inset Outset – 複数の面をまとめて内側・外側へオフセットできるBlender用無料アドオン first appeared on 3DCG最新情報サイト MODELING HAPPY.",
-          "link": "https://modelinghappy.com/archives/70287",
-          "publishedOn": "2026-08-31T04:39:43.000Z",
-          "wordCount": 3088,
-          "title": "Multi Faces Inset Outset – 複数の面をまとめて内側・外側へオフセットできるBlender用無料アドオン",
-          "imageUrl": "https://modelinghappy.com/wp-content/uploads/2026/08/20260831_multi_facecs_inset_outset_01.jpg"
-        },
-        {
-          "id": "https://modelinghappy.com/?p=70280",
-          "author": "modelinghappy",
-          "description": "Paintbridge Krita PaintBridge Kritaは、Blenderと無料ペイントソフトKritaをリアルタイムに連携し、Kritaで描いた内容を3Dモデルへ投影できるアドオンです。Kritaの豊富な\nThe post PaintBridge Krita – BlenderとKritaを連携し、描いたテクスチャを3Dモデルへ投影できるアドオン first appeared on 3DCG最新情報サイト MODELING HAPPY.",
-          "link": "https://modelinghappy.com/archives/70280",
-          "publishedOn": "2026-08-31T02:28:10.000Z",
-          "wordCount": 4432,
-          "title": "PaintBridge Krita – BlenderとKritaを連携し、描いたテクスチャを3Dモデルへ投影できるアドオン",
-          "imageUrl": "https://modelinghappy.com/wp-content/uploads/2026/08/20260831_krita_01.jpg"
         }
       ]
     },
@@ -2964,6 +2929,21 @@
       "siteUrl": "https://zenn.dev/topics/3dcg",
       "articles": [
         {
+          "id": "https://zenn.dev/s_hashida/articles/d570a97b2c2604",
+          "author": "s_hashida",
+          "description": "はじめに\n前回は、\n\nCE90とは何か\nLE90とは何か\n誤差分布とは何か\n標準偏差 \\sigma とは何か\nRMSEと \\sigma の関係\nRayleigh分布とは何か\nRMSEからCE90・LE90への換算\n\nについて説明しました。\n\nその中で重要だったのが、\n誤差を1つの値だけではなく、分布として考える\nという考え方です。\n例えば、高さ方向の誤差を、\n\ne_Z\n\\sim\nN(0,\\sigma_Z^2)\n\nのように考えることで、\nRMSEやLE90などの精度指標との関係を整理することができました。\n\nしかし、フォトグラメトリでは、\n最終的な3次元座標だけに誤差が突然発生するわ...",
+          "link": "https://zenn.dev/s_hashida/articles/d570a97b2c2604",
+          "publishedOn": "2026-09-29T21:58:05.000Z",
+          "wordCount": null,
+          "title": "フォトグラメトリ数学｜59：誤差伝播（Error Propagation）とは何か",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--BYCUQ32V--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%2595%25E3%2582%25A9%25E3%2583%2588%25E3%2582%25B0%25E3%2583%25A9%25E3%2583%25A1%25E3%2583%2588%25E3%2583%25AA%25E6%2595%25B0%25E5%25AD%25A6%25EF%25BD%259C59%25EF%25BC%259A%25E8%25AA%25A4%25E5%25B7%25AE%25E4%25BC%259D%25E6%2592%25AD%25EF%25BC%2588Error%2520Propagation%25EF%25BC%2589%25E3%2581%25A8%25E3%2581%25AF%25E4%25BD%2595%25E3%2581%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:s_hashida%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2QwNzQxMzlkMjguanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+            "length": "0",
+            "type": "false"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "https://zenn.dev/s_hashida/articles/7ed7471d553eb8",
           "author": "s_hashida",
           "description": "はじめに\n前回は、\n\n誤差とは何か\nRMSEとは何か\nなぜ誤差を二乗するのか\nX・Y・Z方向のRMSE\n水平RMSE\nCheck Pointによる精度評価\nGCPとCheck Pointの違い\nGSDとRMSEの違い\n\nについて説明しました。\n\nその中で重要だったのが、\n\nRMSE\n=\n\\sqrt{\n\\frac{1}{n}\n\\sum_{i=1}^{n}\ne_i^2\n}\n\nという関係です。\nRMSEを利用することで、\n推定された位置が基準位置から、全体としてどの程度ずれているのか\nを一つの値として評価することができます。\n\nしかし、例えば、\n\nRMSE_H\n=\n10\\ \\mathrm...",
@@ -3112,21 +3092,6 @@
             "type": "false"
           },
           "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--PsMhReQU--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%2595%25E3%2582%25A9%25E3%2583%2588%25E3%2582%25B0%25E3%2583%25A9%25E3%2583%25A1%25E3%2583%2588%25E3%2583%25AA%25E6%2595%25B0%25E5%25AD%25A6%25EF%25BD%259C52%25EF%25BC%259ADense%2520Point%2520Cloud%25E3%2581%258B%25E3%2582%2589DSM%25E3%2582%2592%25E7%2594%259F%25E6%2588%2590%25E3%2581%2599%25E3%2582%258B%25E6%2596%25B9%25E6%25B3%2595%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:s_hashida%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2QwNzQxMzlkMjguanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
-        },
-        {
-          "id": "https://zenn.dev/yadevloper/articles/51a913e82ed4d6",
-          "author": "Y.A",
-          "description": "ニュース動画を自動生成するツールキット（news-video-generator）は、YAML台本からナレーション音声とThree.jsのシーンを生成して録画する。ただ、記事の内容によっては汎用のシーンパターンでは意味が伝わらないカットが出てくる。そういうところに、Blenderで作った短いクリップを差し込めるようになっている。\n- text: \"Nvidiaの競争優位性が、単体のGPU性能を超えて広がりつつあります。\"\n  scene: video\n  params:\n    src: \"gpu_beyond.webm\"\n1本のニュースでこれを7カット作った。この記事では、そのとき再利...",
-          "link": "https://zenn.dev/yadevloper/articles/51a913e82ed4d6",
-          "publishedOn": "2026-08-31T08:54:23.000Z",
-          "wordCount": 2810,
-          "title": "Blenderをヘッドレスで回してニュース動画のカットを7本作る",
-          "enclosure": {
-            "url": "https://res.cloudinary.com/zenn/image/upload/s--_JyKEHkE--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Blender%25E3%2582%2592%25E3%2583%2598%25E3%2583%2583%25E3%2583%2589%25E3%2583%25AC%25E3%2582%25B9%25E3%2581%25A7%25E5%259B%259E%25E3%2581%2597%25E3%2581%25A6%25E3%2583%258B%25E3%2583%25A5%25E3%2583%25BC%25E3%2582%25B9%25E5%258B%2595%25E7%2594%25BB%25E3%2581%25AE%25E3%2582%25AB%25E3%2583%2583%25E3%2583%2588%25E3%2582%25927%25E6%259C%25AC%25E4%25BD%259C%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Y.A%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jS2lQVWZQZ2QwOVMyOFpteDVibVdXM1lNNmZvMzZrYTFGX0gzY1J1NEFZTU1UMi13PXMyNTAtYw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
-            "length": "0",
-            "type": "false"
-          },
-          "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--_JyKEHkE--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Blender%25E3%2582%2592%25E3%2583%2598%25E3%2583%2583%25E3%2583%2589%25E3%2583%25AC%25E3%2582%25B9%25E3%2581%25A7%25E5%259B%259E%25E3%2581%2597%25E3%2581%25A6%25E3%2583%258B%25E3%2583%25A5%25E3%2583%25BC%25E3%2582%25B9%25E5%258B%2595%25E7%2594%25BB%25E3%2581%25AE%25E3%2582%25AB%25E3%2583%2583%25E3%2583%2588%25E3%2582%25927%25E6%259C%25AC%25E4%25BD%259C%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Y.A%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jS2lQVWZQZ2QwOVMyOFpteDVibVdXM1lNNmZvMzZrYTFGX0gzY1J1NEFZTU1UMi13PXMyNTAtYw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
         }
       ]
     },
@@ -3541,6 +3506,16 @@
       "siteUrl": "https://area.autodesk.jp/",
       "articles": [
         {
+          "id": "https://area.autodesk.jp/information/inews-202609/",
+          "author": null,
+          "description": "オートデスク メディア＆エンターテインメント事業部のメールマガジン の 2026 年 9 月号を配信しました。ゲームや映画・TV、CM、デザインビジュアライゼーションといったメディア&エンターテインメント業界に関する業界動向やオートデスクからのニュースをお届けしています。・・・",
+          "link": "https://area.autodesk.jp/information/inews-202609/",
+          "publishedOn": "2026-09-30T02:30:12.000Z",
+          "wordCount": 230,
+          "title": "Media & Entertainment メールマガジン 2026 年 9 月号",
+          "imageUrl": "https://area.autodesk.jp/information/assets_c/2021/11/ic_inews_black_1200x670-thumb-1200xauto-4980.png"
+        },
+        {
           "id": "https://area.autodesk.jp/case/animation/kiyou-bimbou/",
           "author": null,
           "description": "アニメCG制作の現場で長く使われてきたAutodesk社の3ds Max。そこにソニーのモバイルモーションキャプチャー「mocopi®」を組み込むためのプラグイン「mocopi Receiver Plugin for 3ds Max」が新たにリリースされました。このプラグインは実際のアニメーション制作スタジオの現場の要望が発端となって生まれました。・・・",
@@ -3654,6 +3629,16 @@
       "feedUrl": "https://note.com/hashtag/Houdini/rss",
       "siteUrl": "https://note.com/hashtag/Houdini",
       "articles": [
+        {
+          "id": "https://note.com/indyzone/n/n13e6556729b6",
+          "author": null,
+          "description": "IZ YouTube ch\n【Houdini超入門】コンポーネントって何？ Part.2：アトリビュートとの関係\n　　｜Point・Vertex・Primitiveの使い分け\n続きをみる",
+          "link": "https://note.com/indyzone/n/n13e6556729b6",
+          "publishedOn": "2026-09-30T01:53:06.000Z",
+          "wordCount": 3745,
+          "title": "【IZ YouTube ch】Houdini超入門｜コンポーネントって何？ Part.2：アトリビュートとの関係｜Point・Vertex・Primitiveの使い分け",
+          "imageUrl": "https://assets.st-note.com/production/uploads/images/319100359/rectangle_large_type_2_22f1b15bef4b401345fc1df6ab6bcd6b.jpeg?width=800"
+        },
         {
           "id": "https://note.com/indyzone/n/nb544d8e473ea",
           "author": null,
@@ -4582,26 +4567,6 @@
             "type": "video/mp4"
           },
           "imageUrl": "https://cginterest.com/wp-content/uploads/2026/09/CozyblanketPro.webp"
-        },
-        {
-          "id": "https://cginterest.com/?p=62191",
-          "author": ".me",
-          "description": "Amazon スマイルセールの開催情報です。 セール概要 2026年9月3日(木) 23:59までの期間、Amazonスマイルセールが開催！ このセールではPCパーツやディスプレイ、後に紹介する Wacom の液タブ・ペ […]",
-          "link": "https://cginterest.com/2026/08/31/amazon-%e3%82%b9%e3%83%9e%e3%82%a4%e3%83%ab%e3%82%bb%e3%83%bc%e3%83%ab%e3%81%8c%e9%96%8b%e5%82%ac%ef%bc%81adobe%e3%80%81%e3%83%af%e3%82%b3%e3%83%a0%e8%a3%bd%e5%93%81%e3%80%81pc%e3%83%91%e3%83%bc/",
-          "publishedOn": "2026-08-31T12:08:16.000Z",
-          "wordCount": 3077,
-          "title": "Amazon スマイルセールが開催！Adobe、ワコム製品、PCパーツなど厳選アイテムを紹介！",
-          "imageUrl": "https://cginterest.com/wp-content/uploads/2026/08/amazon-smilesale-8-9.webp"
-        },
-        {
-          "id": "https://cginterest.com/?p=62170",
-          "author": ".me",
-          "description": "2026年8月27日（現地時間）- AMD は、AMDは、Epic Gamesの最新ゲームエンジン「Unreal Engine 5.8」に対応した最新の「AMD FSR Unreal Engineプラグイン」を発表しまし […]",
-          "link": "https://cginterest.com/2026/08/31/amd%e3%80%81unreal-engine-5-8%e5%af%be%e5%bf%9c%e3%81%ae%e6%9c%80%e6%96%b0fsr%e3%83%97%e3%83%a9%e3%82%b0%e3%82%a4%e3%83%b3%e3%82%92%e5%85%ac%e9%96%8b-%e2%80%95-%e6%a9%9f%e6%a2%b0%e5%ad%a6%e7%bf%92/",
-          "publishedOn": "2026-08-31T05:07:14.000Z",
-          "wordCount": 2802,
-          "title": "AMD、Unreal Engine 5.8対応の最新FSRプラグインを公開 ― 機械学習アップスケーリング「FSR 4.1.1」搭載",
-          "imageUrl": "https://cginterest.com/wp-content/uploads/2026/08/amdFSRforUnreal_Engine_5_8.webp"
         }
       ]
     }

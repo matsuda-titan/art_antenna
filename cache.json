@@ -12,6 +12,36 @@
       "siteUrl": "https://cgbox.jp",
       "articles": [
         {
+          "id": "https://cgbox.jp/?p=65746",
+          "author": "kasahara",
+          "description": "こんばんは！ 今回はアドオンの「Advanced Inset」を紹介します。 こちらのリンクがアドオンの商品ページになります。 Advanced Inset 「Advanced Inset」は、Blender標準のIns […]",
+          "link": "https://cgbox.jp/2026/10/02/news-addon-advanced-inset/",
+          "publishedOn": "2026-10-02T01:55:06.000Z",
+          "wordCount": 2009,
+          "title": "【アドオン紹介】Advanced Inset – 丸みのある角を保ちながらInsetを細かく調整できるBlenderアドオン！",
+          "enclosure": {
+            "url": "https://cgbox.jp/wp-content/uploads/2026/10/popupslide-edit-16.mp4",
+            "length": "0",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://cgbox.jp/wp-content/uploads/2022/05/cropped-favicon.png"
+        },
+        {
+          "id": "https://cgbox.jp/?p=65742",
+          "author": "kasahara",
+          "description": "こんばんは！ 今回はアドオンの「Nitro Retopo」を紹介します。 こちらのリンクがアドオンの商品ページになります。 Nitro Retopo 「Nitro Retopo」は、AI生成モデルやスカルプト、3Dスキャ […]",
+          "link": "https://cgbox.jp/2026/10/02/news-addon-nitro-retopo/",
+          "publishedOn": "2026-10-02T01:29:58.000Z",
+          "wordCount": 2026,
+          "title": "【アドオン紹介】Nitro Retopo – 高密度メッシュを分割・修復しながらリトポロジーできるアドオン！",
+          "enclosure": {
+            "url": "https://cgbox.jp/wp-content/uploads/2026/10/popupslide-edit-14.mp4",
+            "length": "0",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://cgbox.jp/wp-content/uploads/2026/10/image_processing20260916-2-7r4vla.webp"
+        },
+        {
           "id": "https://cgbox.jp/?p=65737",
           "author": "kasahara",
           "description": "こんばんは！ 今回はアドオンの「CatPin」を紹介します。 こちらのリンクがアドオンの商品ページになります。 CatPin 「CatPin」は、Dプリント用モデルを複数のパーツに分割し、組み立て用のピンとソケットを作成 […]",
@@ -289,6 +319,66 @@
       "feedUrl": "https://3dnchu.com/feed/",
       "siteUrl": "https://3dnchu.com",
       "articles": [
+        {
+          "id": "https://3dnchu.com/?p=1068802",
+          "author": "Ymt3D -3dnchu-",
+          "description": "gkjohnson氏が、three.js上でGPUを活用した高品質な物理ベースレンダリングを実現するオープンソースのパストレーサー「three-gpu-pathtracer」を公開しています。",
+          "link": "https://3dnchu.com/archives/three-gpu-pathtracer/",
+          "publishedOn": "2026-10-01T15:47:18.000Z",
+          "wordCount": 7809,
+          "title": "three-gpu-pathtracer | three.js上で高品質な物理ベースレンダリングを実現するWebGPU対応パストレーサー オープンソース",
+          "enclosure": {
+            "url": "https://3dnchu.com/wp-content/uploads/three-gpu-pathtracer.webp",
+            "length": "99572",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://3dnchu.com/wp-content/uploads/three-gpu-pathtracer.webp"
+        },
+        {
+          "id": "https://3dnchu.com/?p=1068853",
+          "author": "Ymt3D -3dnchu-",
+          "description": "Refresh（ @refresh_dev ）が、Blenderを使ったAIエージェントの実制作能力を評価するベンチマーク「BlenderBench」を公開。20種類のBlenderタスクを使いGPT-6 AstraとClaude Opus 5.5を比較しています。",
+          "link": "https://3dnchu.com/archives/blenderbench/",
+          "publishedOn": "2026-10-01T15:35:02.000Z",
+          "wordCount": 7610,
+          "title": "BlenderBench - AIはBlenderの実制作をどこまでこなせる？20種類のタスクでGPT-6 AstraとClaude Opus 5.5を比較！",
+          "enclosure": {
+            "url": "https://3dnchu.com/wp-content/uploads/shotblock-refresh.dev-20261001-153130.webp",
+            "length": "10426",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://3dnchu.com/wp-content/uploads/shotblock-refresh.dev-20261001-153130.webp"
+        },
+        {
+          "id": "https://3dnchu.com/?p=1068843",
+          "author": "Ymt3D -3dnchu-",
+          "description": "モーションデザイナーのMike Gaynor氏が開発する、レイヤーベースのタイムラインとノードベースのコンポジットを融合したモーションデザインツール「Caddis 1.1.0」がリリースされました。",
+          "link": "https://3dnchu.com/archives/caddis-1-1-0/",
+          "publishedOn": "2026-10-01T15:09:21.000Z",
+          "wordCount": 7708,
+          "title": "Caddis 1.1.0 | タイムラインとノードグラフを融合したモーションデザインツール！パーティクルやSolver、Cryptomatteなど多数の新機能を搭載！Win＆Mac＆Linux",
+          "enclosure": {
+            "url": "https://3dnchu.com/wp-content/uploads/Caddis-1.1.0.webp",
+            "length": "1626580",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://3dnchu.com/wp-content/uploads/Caddis-1.1.0.webp"
+        },
+        {
+          "id": "https://3dnchu.com/?p=1068833",
+          "author": "Ymt3D -3dnchu-",
+          "description": "VFX制作に10年以上携わってきた有限会社ティップスが、実制作で欲しかった機能を形にした3ds Max向けプラグインシリーズFX Maker Toolsを公開！稲妻制作の為の「Lighting Maker」、触手制作の為の「Tentacle Maker」、ミサイル群制作の為の「MissileCircus」！",
+          "link": "https://3dnchu.com/archives/fx-maker-tools/",
+          "publishedOn": "2026-10-01T14:58:17.000Z",
+          "wordCount": 8043,
+          "title": "FX Maker Tools | 長年の「スーパー戦隊」「仮面ライダー」などのVFX制作経験から生まれた3ds Max向けエフェクト制作支援ツールシリーズ！「Lightning Maker」「Tentacle Maker」「MissileCircus」！",
+          "enclosure": {
+            "url": "https://3dnchu.com/wp-content/uploads/FX-Maker-Tools.webp",
+            "length": "185100",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://3dnchu.com/wp-content/uploads/FX-Maker-Tools.webp"
+        },
         {
           "id": "https://3dnchu.com/?p=1068822",
           "author": "Ymt3D -3dnchu-",
@@ -1158,96 +1248,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "https://3dnchu.com/wp-content/uploads/SplatGen.webp"
-        },
-        {
-          "id": "https://3dnchu.com/?p=1067942",
-          "author": "Ymt3D -3dnchu-",
-          "description": "PapaiArtによる、プロシージャル生成や侵食、ノードベースの編集、カーブによる手動整形などに対応したWindows向けスタンドアロン地形生成ツール「PapaiArt Tools Terrain Generator 1.0.5」の紹介です。 PapaiArt Tools Terrain Gener […]\n続きを読む",
-          "link": "https://3dnchu.com/archives/papaiart-tools-terrain-generator-1-0-5/",
-          "publishedOn": "2026-09-02T06:38:52.000Z",
-          "wordCount": 7644,
-          "title": "PapaiArt Tools Terrain Generator 1.0.5 | 侵食やノードを使った地形生成からゲームエンジン向けデータ出力まで対応するスタンドアロン地形生成ツール！Win",
-          "enclosure": {
-            "url": "https://3dnchu.com/wp-content/uploads/papaiart-tools-terrain-generator.jpg",
-            "length": "30309",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://3dnchu.com/wp-content/uploads/papaiart-tools-terrain-generator.jpg"
-        },
-        {
-          "id": "https://3dnchu.com/?p=1067944",
-          "author": "Ymt3D -3dnchu-",
-          "description": "Vercel Labsが開発する「vgpu」は、シェーダーや3D描画、GPUコンピューティングなどでWebGPUを扱いやすくするオープンソースのTypeScriptライブラリです。ブラウザだけでなくNode.jsやテスト環境にも対応しています。 vgpu vgpuは、Vercel Labsによって開 […]\n続きを読む",
-          "link": "https://3dnchu.com/archives/vgpu/",
-          "publishedOn": "2026-09-01T20:03:32.000Z",
-          "wordCount": 7611,
-          "title": "vgpu | Vercel Labsが開発する軽量＆AIエージェント対応のWebGPU向けTypeScriptライブラリ！",
-          "enclosure": {
-            "url": "https://3dnchu.com/wp-content/uploads/vgpu.mp4",
-            "length": "4020793",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://3dnchu.com/wp-content/uploads/vgpu.webp"
-        },
-        {
-          "id": "https://3dnchu.com/?p=1067926",
-          "author": "Ymt3D -3dnchu-",
-          "description": "Blender GuruのAndrew Price氏が、ホログラム素材で使われる「回折格子」をBlenderで正確にレンダリングすることが難しい理由を解説した動画を公開！Cycles向けの3種類のシェーダーも無料配布されています。 Why You Can’t Render Pokemon […]\n続きを読む",
-          "link": "https://3dnchu.com/archives/why-you-cant-render-pokemon-cards-in-blender/",
-          "publishedOn": "2026-09-01T17:51:02.000Z",
-          "wordCount": 7726,
-          "title": "Why You Can't Render Pokemon Cards in Blender | Blender Guruがホログラム表現の難しさを解説！回折格子を疑似再現する3種類のシェーダーも無料公開！",
-          "enclosure": {
-            "url": "https://3dnchu.com/wp-content/uploads/why-you-cant-render-pokemon-card.jpg",
-            "length": "66160",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://3dnchu.com/wp-content/uploads/why-you-cant-render-pokemon-card.jpg"
-        },
-        {
-          "id": "https://3dnchu.com/?p=1067896",
-          "author": "Ymt3D -3dnchu-",
-          "description": "Bitmagicは2026年8月27日、Claude CodeやCodex、CursorなどのAIコーディングエージェントを使って3Dゲームを開発できる「BITMAGIC GDK」をリリースしました。 BITMAGIC GDK BITMAGIC GDKは、AIコーディングエージェントによるゲーム開発 […]\n続きを読む",
-          "link": "https://3dnchu.com/archives/bitmagic-gdk/",
-          "publishedOn": "2026-09-01T17:26:53.000Z",
-          "wordCount": 7718,
-          "title": "BITMAGIC GDK | Claude CodeやCodexなどのAIコーディングエージェントで3Dゲームを開発！エンジン＆アセット生成＆テスト＆公開環境をまとめて提供するゲーム開発キット！",
-          "enclosure": {
-            "url": "https://3dnchu.com/wp-content/uploads/bitmagic-gdk-claude-codecodexai3.jpg",
-            "length": "79468",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://3dnchu.com/wp-content/uploads/bitmagic-gdk-claude-codecodexai3.jpg"
-        },
-        {
-          "id": "https://3dnchu.com/?p=1067911",
-          "author": "Ymt3D -3dnchu-",
-          "description": "Merserk氏が、DLSS 5 Neural Renderingをゲーム外の画像や動画に適用できるWindows向けツール「DLSS 5 Visual Enhancer」をGitHubで公開しました！ DLSS 5 Visual Enhancer DLSS 5 Visual Enhancerは、M […]\n続きを読む",
-          "link": "https://3dnchu.com/archives/dlss-5-visual-enhancer/",
-          "publishedOn": "2026-09-01T16:58:59.000Z",
-          "wordCount": 7964,
-          "title": "DLSS 5 Visual Enhancer | DLSS 5 Neural Renderingを使って画像＆動画を高品質化できるWindows向けオープンソースツール！",
-          "enclosure": {
-            "url": "https://3dnchu.com/wp-content/uploads/shotblock-github.com-20260901-165610.webp",
-            "length": "10086",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://3dnchu.com/wp-content/uploads/shotblock-github.com-20260901-165610.webp"
-        },
-        {
-          "id": "https://3dnchu.com/?p=1067902",
-          "author": "Ymt3D -3dnchu-",
-          "description": "株式会社Arcana製作所が、3D Gaussian Splatting（3DGS）データをポリゴンメッシュへ変換できるソフトウェア「Splat2Mesh」を公開しました。個人・非商用利用は無料です。 Splat2Mesh Splat2Meshは、3Dスキャナーや3Dソフトウェアなどを開発する日本の […]\n続きを読む",
-          "link": "https://3dnchu.com/archives/splat2mesh/",
-          "publishedOn": "2026-09-01T16:21:25.000Z",
-          "wordCount": 7697,
-          "title": "Splat2Mesh | 3D Gaussian SplattingデータをOBJやGLBのポリゴンメッシュへ変換できる無料ソフト！Win",
-          "enclosure": {
-            "url": "https://3dnchu.com/wp-content/uploads/splat2mesh.webp",
-            "length": "794556",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://3dnchu.com/wp-content/uploads/splat2mesh.webp"
         }
       ]
     },
@@ -1256,6 +1256,26 @@
       "feedUrl": "https://cgworld.jp/atom.xml",
       "siteUrl": "https://cgworld.jp/",
       "articles": [
+        {
+          "id": "https://cgworld.jp/flashnews/02-2610-shizuoka-hackathon.html",
+          "author": null,
+          "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
+          "link": "https://cgworld.jp/flashnews/02-2610-shizuoka-hackathon.html",
+          "publishedOn": "2026-10-02T00:16:42.000Z",
+          "wordCount": 713,
+          "title": "学生が即席チームで8時間のものづくりに挑戦「静岡ハッカソン2026」を10/24（土）に開催 - ニュース",
+          "imageUrl": "https://cgworld.jp/flashnews/assets_c/2026/10/hero-logo%20%281%29-thumb-1000x563-89438.png"
+        },
+        {
+          "id": "https://cgworld.jp/flashnews/01-202610-NoGraphicsAPI.html",
+          "author": null,
+          "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
+          "link": "https://cgworld.jp/flashnews/01-202610-NoGraphicsAPI.html",
+          "publishedOn": "2026-10-01T23:53:27.000Z",
+          "wordCount": 769,
+          "title": "Sebastian Aaltonen氏、オープンソースの低レベルVulkanラッパー「NoGraphicsAPI」公開　GPUポインタで描画のボトルネック解消 - ニュース",
+          "imageUrl": "https://cgworld.jp/flashnews/assets_c/2026/10/NoGraphicsAPI-01-thumb-1920x1080-89439.jpg"
+        },
         {
           "id": "https://cgworld.jp/flashnews/02-2609-libernovo38off.html",
           "author": null,
@@ -2139,6 +2159,26 @@
       "siteUrl": "https://modelinghappy.com",
       "articles": [
         {
+          "id": "https://modelinghappy.com/?p=70820",
+          "author": "modelinghappy",
+          "description": "Relight is now available in Photoshop Beta! Adobeは、Photoshop Betaに、画像のライティングを調整できる生成AI機能「Relight」を追加しました。 Reli\nThe post Photoshop Betaに「Relight」が追加！画像に最大3つのライトを配置して光の当たり方を調整できる生成AI機能 first appeared on 3DCG最新情報サイト MODELING HAPPY.",
+          "link": "https://modelinghappy.com/archives/70820",
+          "publishedOn": "2026-10-01T12:51:23.000Z",
+          "wordCount": 3024,
+          "title": "Photoshop Betaに「Relight」が追加！画像に最大3つのライトを配置して光の当たり方を調整できる生成AI機能",
+          "imageUrl": "https://modelinghappy.com/wp-content/uploads/2026/10/20261001_relight_photoshop_beta_01.jpg"
+        },
+        {
+          "id": "https://modelinghappy.com/?p=70816",
+          "author": "modelinghappy",
+          "description": "Maxon Adds Support for Artist-Controlled Automation with Cinema 4D MCP Server Maxonは2026年9月30日、Cinema 4DにAIアシス\nThe post Cinema 4D MCP Server – ChatGPTやClaudeへの文章指示でシーン整理や3D制作を進められる公式機能が搭載！ first appeared on 3DCG最新情報サイト MODELING HAPPY.",
+          "link": "https://modelinghappy.com/archives/70816",
+          "publishedOn": "2026-10-01T12:39:52.000Z",
+          "wordCount": 3141,
+          "title": "Cinema 4D MCP Server – ChatGPTやClaudeへの文章指示でシーン整理や3D制作を進められる公式機能が搭載！",
+          "imageUrl": "https://modelinghappy.com/wp-content/uploads/2026/10/20261001_maxon.jpg"
+        },
+        {
           "id": "https://modelinghappy.com/?p=70797",
           "author": "modelinghappy",
           "description": "Sculpt Mesh #8211; 3dsMax sculpting plugin Sculpt Meshは、Mihail Lupuさんが開発した、3ds Max 2024以降で利用できる、ビューポート上で高速にスカ\nThe post Sculpt Mesh – マルチ解像度スカルプトやペイント、アルファブラシが使える3ds Max用プラグイン first appeared on 3DCG最新情報サイト MODELING HAPPY.",
@@ -2647,26 +2687,6 @@
           "wordCount": 3066,
           "title": "Ntkit – ウィンドウ分割や数値変形、カメラ・ファイル管理など24種類の頻用機能を素早く実行できるBlender用無料アドオン",
           "imageUrl": "https://modelinghappy.com/wp-content/uploads/2026/09/20260904_ntkit_05.jpg"
-        },
-        {
-          "id": "https://modelinghappy.com/?p=70309",
-          "author": "modelinghappy",
-          "description": "Kala Paint イラストレーター兼コンセプトアーティストとして15年間活動してきたOliver Lawsonさんが、自身が絵を描く際に使いたかったソフトウェアとして開発されたKala Paintがリリースしました。\nThe post Kala Paint – 最大3000pxの大型ブラシも滑らかに描ける、生成AI不使用・GPU対応のペイントソフト！14日間の無料体験版あり first appeared on 3DCG最新情報サイト MODELING HAPPY.",
-          "link": "https://modelinghappy.com/archives/70309",
-          "publishedOn": "2026-09-02T12:23:08.000Z",
-          "wordCount": 3112,
-          "title": "Kala Paint – 最大3000pxの大型ブラシも滑らかに描ける、生成AI不使用・GPU対応のペイントソフト！14日間の無料体験版あり",
-          "imageUrl": "https://modelinghappy.com/wp-content/uploads/2026/09/20260902_kala_paint_01.jpg"
-        },
-        {
-          "id": "https://modelinghappy.com/?p=70300",
-          "author": "modelinghappy",
-          "description": "Pixel Art Studio Pixel Art Studioは、Blenderの3Dモデル上や画像エディターで、ピクセルアート調のテクスチャを直接描けるアドオンです。 ブラシ、消しゴム、直線、四角形、楕円、塗りつぶ\nThe post Pixel Art Studio – Blenderの3Dモデルへピクセルアートを直接描けるテクスチャペイント用アドオン first appeared on 3DCG最新情報サイト MODELING HAPPY.",
-          "link": "https://modelinghappy.com/archives/70300",
-          "publishedOn": "2026-09-01T23:52:27.000Z",
-          "wordCount": 3059,
-          "title": "Pixel Art Studio – Blenderの3Dモデルへピクセルアートを直接描けるテクスチャペイント用アドオン",
-          "imageUrl": "https://modelinghappy.com/wp-content/uploads/2026/09/20260902_PixelArtStudio.jpg"
         }
       ]
     },
@@ -3332,16 +3352,6 @@
           "wordCount": 820,
           "title": "Windows11で MCP for blenderによる　Blender ⇔ Unsloth Desktopの連携　環境構築 &試した",
           "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnBicy50d2ltZy5jb20lMkZwcm9maWxlX2ltYWdlcyUyRjk1NjUzNTU5Mzc3NjgyNDMyMSUyRjZKUkVNZ1BpX25vcm1hbC5qcGc_aXhsaWI9cmItNC4xLjEmYXI9MSUzQTEmZml0PWNyb3AmbWFzaz1lbGxpcHNlJmJnPUZGRkZGRiZmbT1wbmczMiZzPTFlNGQwMTBjYTFkZTU5OWNmNzdmZDVhYTI3NjMwM2I0%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D373a03db911f7af0ce88b6917ff32871?ixlib=rb-4.1.1&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9V2luZG93czExJUUzJTgxJUE3JTIwTUNQJTIwZm9yJTIwYmxlbmRlciVFMyU4MSVBQiVFMyU4MiU4OCVFMyU4MiU4QiVFMyU4MCU4MEJsZW5kZXIlMjAlRTIlODclOTQlMjBVbnNsb3RoJTIwRGVza3RvcCVFMyU4MSVBRSVFOSU4MCVBMyVFNiU5MCVCQSVFMyU4MCU4MCVFNyU5MiVCMCVFNSVBMiU4MyVFNiVBNyU4QiVFNyVBRiU4OSUyMCUyNiVFOCVBOSVBNiVFMyU4MSU5NyVFMyU4MSU5RiZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnR4dC1wYWQ9MCZzPTZhN2JkNTBhZDU1YTRmMWFlMTdiYzEzNzA0NGRmNGM0&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBZS1ZLRFgxMiZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPTg5MDU4ZmFjYTkxMzE2Yjk4ZjA0NDYzZDdhZDQ4NDli&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=f9f16195636b851852c24ecd698ce1f5"
-        },
-        {
-          "id": "https://qiita.com/matumu20/items/59b045d44e5394fa0683",
-          "author": null,
-          "description": "HUMAN MOTION DIFFUSION MODEL(Guy Tevet, 2022)\n\n3行要約\n\n本研究では、Transformerベースのアーキテクチャを採用し、モーションデータ特有の幾何学的損失を統合した新しい拡散モデル「Motion Diffusion M...",
-          "link": "https://qiita.com/matumu20/items/59b045d44e5394fa0683",
-          "publishedOn": "2026-09-02T04:01:26.000Z",
-          "wordCount": 1235,
-          "title": "HUMAN MOTION DIFFUSION MODEL(2022)",
-          "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYyOTgxNjYwJTJGOTViNDExMjY5MmU5NDc5M2U2NTY5ODQ5MzdmM2I4ZjliMmE3MDc2YSUyRmxhcmdlLnBuZyUzRjE2Njg2MDM2MDk_aXhsaWI9cmItNC4xLjEmYXI9MSUzQTEmZml0PWNyb3AmbWFzaz1lbGxpcHNlJmJnPUZGRkZGRiZmbT1wbmczMiZzPWE1ZTgxNGYzYWQ2OTFjZmM4MWVmYjBlODkwMzg4NjNk%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3Db091fc7b27b7f70f9fcc9261423415bf?ixlib=rb-4.1.1&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9JTIwSFVNQU4lMjBNT1RJT04lMjBESUZGVVNJT04lMjBNT0RFTCUyODIwMjIlMjklMjAmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz00MmRmZGJlODQzMjg5OTdjMDkyZjNlOGRkNDI5ZmE2Nw&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBtYXR1bXUyMCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPTUwYzYyYzVhMmI4MTU4MWE3ZTg2NGY0YmMyNWRkOGQ3&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=2a8de05c394e104ebd6cd9e36a81ed75"
         }
       ]
     },
@@ -3368,6 +3378,16 @@
       "feedUrl": "https://qiita.com/tags/shader/feed",
       "siteUrl": "https://qiita.com",
       "articles": [
+        {
+          "id": "https://qiita.com/dsgarage/items/89146950f23ff4d1733f",
+          "author": null,
+          "description": "AR合成では実写をToonに寄せる ― V1nStudio の World モードと AR モード、2 つのシェーダー実装を比べる\n\nはじめに\nスマホの AR でトゥーン調のアバターを出すと、どうしても背景から浮いて見えます。アバターはノイズのないツルツルの CG で、背...",
+          "link": "https://qiita.com/dsgarage/items/89146950f23ff4d1733f",
+          "publishedOn": "2026-10-02T00:53:50.000Z",
+          "wordCount": 2692,
+          "title": "AR合成では実写をToonに寄せる ― V1nStudio の World モードと AR モード、2 つのシェーダー実装を比べる",
+          "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnFpaXRhLWltYWdlLXN0b3JlLnMzLmFtYXpvbmF3cy5jb20lMkYwJTJGNTA3MDIlMkZwcm9maWxlLWltYWdlcyUyRjE0NzM2OTIxOTQ_aXhsaWI9cmItNC4xLjEmYXI9MSUzQTEmZml0PWNyb3AmbWFzaz1lbGxpcHNlJmJnPUZGRkZGRiZmbT1wbmczMiZzPTNmMjg5ZGJmZjMyMWY4ODliOTM2NjllODBkMWY1MDU0%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3De6413798199f4d698432fada463d2da9?ixlib=rb-4.1.1&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9QVIlRTUlOTAlODglRTYlODglOTAlRTMlODElQTclRTMlODElQUYlRTUlQUUlOUYlRTUlODYlOTklRTMlODIlOTJUb29uJUUzJTgxJUFCJUU1JUFGJTg0JUUzJTgxJTlCJUUzJTgyJThCJTIwJUUyJTgwJTk1JTIwVjFuU3R1ZGlvJTIwJUUzJTgxJUFFJTIwV29ybGQlMjAlRTMlODMlQTIlRTMlODMlQkMlRTMlODMlODklRTMlODElQTglMjBBUiUyMCVFMyU4MyVBMiVFMyU4MyVCQyVFMyU4MyU4OSVFMyU4MCU4MTIlMjAlRTMlODElQTQlRTMlODElQUUlRTMlODIlQjclRTMlODIlQTclRTMlODMlQkMlRTMlODMlODAlRTMlODMlQkMlRTUlQUUlOUYlRTglQTMlODUlRTMlODIlOTIlRTIlODAlQTYmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz1hYjJhMjhiNGEwOGJiZGMwNTBmYjdkNzQwMGYxNDkxNw&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBkc2dhcmFnZSZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPTViMGViMzlhZmU5Yjk4OWRjNjU5M2FmMWE5MTEzODk5&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=c4488d6145fbab5268e638480c48e34a"
+        },
         {
           "id": "https://qiita.com/tsukino_/items/cdf6289d963d460757c6",
           "author": null,
@@ -3601,6 +3621,16 @@
       "siteUrl": "https://area.autodesk.jp/",
       "articles": [
         {
+          "id": "https://area.autodesk.jp/column/tutorial/bifrost-rigging-challenge/11-rod-solver-interactive-plant-rig/",
+          "author": null,
+          "description": "本コラムではMayaのプラグイン\"Bifrost\"を使って、リグ、アニメーション、物理シミュレーションなどの観点から作例を紹介していきます。今回は既存のFKリグを「キャラクターが植物をかき分けて進むインタラクションリグ」へ、機能拡張してみようと思います。・・・",
+          "link": "https://area.autodesk.jp/column/tutorial/bifrost-rigging-challenge/11-rod-solver-interactive-plant-rig/",
+          "publishedOn": "2026-10-02T00:40:00.000Z",
+          "wordCount": 944,
+          "title": "Bifrost for Maya Rigging Challenge～一歩先のリグ・アニメーションに挑戦～ 第11回：Rodソルバーで拡張するインタラクション植物リグ",
+          "imageUrl": "https://area.autodesk.jp/column/assets_c/2026/09/ic_bifrost_rigging_challenge_v11_1400x782-thumb-1200xauto-5893.jpg"
+        },
+        {
           "id": "https://area.autodesk.jp/case/game/pragmata/",
           "author": null,
           "description": "CEDEC2026のカプコン講演「『プラグマタ』における髪・表情表現の開発事例」をレポート。Maya XGen Interactive Groomingによるストランドヘアの制作と、FACSベースのフェイシャルリグとFacewareを使った表情表現を、RE ENGINEへの実装まで解説します。・・・",
@@ -3726,16 +3756,6 @@
           "wordCount": 3128,
           "title": "DF TALKの歩き方｜おすすめ記事６選",
           "imageUrl": "https://assets.st-note.com/production/uploads/images/314548331/rectangle_large_type_2_655e098f3f454534ce37a14980426f3a.jpeg?width=800"
-        },
-        {
-          "id": "https://note.com/dftalk/n/nf7796c5301a0",
-          "author": null,
-          "description": "こんにちは、TDの神原です。\n今回は、AIのWebチャットを使って、企画整理を手伝う「小さなエージェント」のようなものを試してみた話です。\n続きをみる",
-          "link": "https://note.com/dftalk/n/nf7796c5301a0",
-          "publishedOn": "2026-09-02T04:02:59.000Z",
-          "wordCount": 3032,
-          "title": "AIにすぐ答えを出させないでみた~Webチャットで「小さなエージェント」を試してみる~",
-          "imageUrl": "https://assets.st-note.com/production/uploads/images/306863359/rectangle_large_type_2_7eab39b74a3a0d73e7f89a4d8613283a.png?width=800"
         }
       ]
     },
@@ -4109,6 +4129,16 @@
       "siteUrl": "https://note.com/hashtag/substancepainter",
       "articles": [
         {
+          "id": "https://note.com/nyanneco/n/nc22245296f0b",
+          "author": null,
+          "description": "Nyanneco Broad Diffuse Generatorは、Substance 3D Painterで柔らかな陰影を付けるためのマスク用ジェネレーターです。モデルの向きに応じた大きな明暗に、ベイクした凹凸やレイヤーのNormal・Height、AOを組み合わせられます。\n出力はグレースケールのマスクです。白い部分ほどレイヤーが見え、黒い部分ほど隠れます。 暗い色の塗りつぶしレイヤーのマスクとして使うと、陰影を色に反映できます。\n続きをみる",
+          "link": "https://note.com/nyanneco/n/nc22245296f0b",
+          "publishedOn": "2026-10-01T23:40:17.000Z",
+          "wordCount": 3399,
+          "title": "Nyanneco Broad Diffuse Generator 使い方マニュアル",
+          "imageUrl": "https://assets.st-note.com/production/uploads/images/319810452/rectangle_large_type_2_9a54f81a953222430ad4838d6e2122ca.png?width=800"
+        },
+        {
           "id": "https://note.com/ryokucharyoku2/n/n7d7c2aa11490",
           "author": null,
           "description": "概要\n「Alt+左クリック（ドラッグ）」は、MAYAやSubstancePainterなど3Dソフトの視点移動で多用される操作である。\n　ところが、MacOSではAlt+左クリックに「一つ前のウインドウを非表示にする（※）」という機能が割り当てられているため、3Dソフト間を行き来する間にウインドウが消えていく。これはかなりストレス。\n　これを解決する方法が海外掲示板に記載されていたので、記録を残す。\n※非表示とは、⌘+Hを押したときの状態のこと。Dockへの最小化とは違う概念なので注意\n続きをみる",
@@ -4210,16 +4240,6 @@
           "wordCount": 3295,
           "title": "【ゲーム制作知識】権利関係について",
           "imageUrl": "https://3d.crdg.jp/env/wp-content/uploads/2026/08/eh_hashii_title_Rights_Infringement_01.png"
-        },
-        {
-          "id": "https://3d.crdg.jp/env/?p=10395",
-          "author": "Makito.Noguchi",
-          "description": "今記事の目的 ・HeightfieldとCopernicusを使って地形を作成してみたいと思います。※Houdini Ver 22.0~を使用していま […]\n続きを読む\n投稿 【Houdini】HeightfieldとCopernicusでの地形作成 は エンホリ - ENVIRONMENT HOLIC｜C&R Creative Studios に最初に表示されました。",
-          "link": "https://3d.crdg.jp/env/2026/09/02/10395/?utm_source=rss&utm_medium=rss&utm_campaign=%25e3%2580%2590houdini%25e3%2580%2591heightfield%25e3%2581%25a8copernicus%25e3%2581%25a7%25e3%2581%25ae%25e5%259c%25b0%25e5%25bd%25a2%25e4%25bd%259c%25e6%2588%2590",
-          "publishedOn": "2026-09-02T10:00:00.000Z",
-          "wordCount": 3586,
-          "title": "【Houdini】HeightfieldとCopernicusでの地形作成",
-          "imageUrl": "https://3d.crdg.jp/env/wp-content/uploads/2026/08/アイキャッチ画像_Houdini_260830.png"
         }
       ]
     },
@@ -4707,36 +4727,6 @@
             "type": "video/mp4"
           },
           "imageUrl": "https://cginterest.com/wp-content/uploads/2026/09/reallusionaistudiov1_1.webp"
-        },
-        {
-          "id": "https://cginterest.com/?p=62241",
-          "author": ".me",
-          "description": "2026年9月1日（現地時間）- NVIDIAは、「3D-Guided Neural Rendering」を導入した新技術「DLSS 5」の提供開始を発表しました。 第1弾の対応タイトルは、Visual Concepts […]",
-          "link": "https://cginterest.com/2026/09/02/nvidia%e3%80%81%e3%80%8cdlss-5%e3%80%8d%e3%82%929%e6%9c%884%e6%97%a5%e3%82%88%e3%82%8a%e6%8f%90%e4%be%9b%e9%96%8b%e5%a7%8b-%e2%80%95-%e3%80%8enba-2k27%e3%80%8f%e3%81%8c%e5%88%9d%e3%81%ae%e5%af%be/",
-          "publishedOn": "2026-09-02T07:48:57.000Z",
-          "wordCount": 2905,
-          "title": "NVIDIA、「DLSS 5」を9月4日より提供開始 ― 『NBA 2K27』が初の対応タイトルとしてGeForce RTX 50シリーズ全機種で利用可能に",
-          "enclosure": {
-            "url": "https://cginterest.com/wp-content/uploads/2026/07/Dlss5atsiggraph2026-Model-Automasking2.mp4",
-            "length": "714020",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://cginterest.com/wp-content/uploads/2026/09/nvidia-dlss5debuts.webp"
-        },
-        {
-          "id": "https://cginterest.com/?p=62239",
-          "author": ".me",
-          "description": "2026年9月1日、ComfyUIの開発チームは公式ブログにて、3D生成AIモデル「Trellis.2」と「Pixal3D」をComfyUIのコア機能としてネイティブに統合したことを発表しました。 これにより、専用のカス […]",
-          "link": "https://cginterest.com/2026/09/02/comfyui%e3%80%81%e3%82%aa%e3%83%bc%e3%83%97%e3%83%b33d%e7%94%9f%e6%88%90ai%e3%83%a2%e3%83%87%e3%83%ab%e3%80%8ctrellis-2%e3%80%8d%e3%81%a8%e3%80%8cpixal3d%e3%80%8d%e3%82%92%e3%83%8d%e3%82%a4%e3%83%86/",
-          "publishedOn": "2026-09-02T04:15:52.000Z",
-          "wordCount": 2701,
-          "title": "ComfyUI、オープン3D生成AIモデル「Trellis.2」と「Pixal3D」をネイティブ統合",
-          "enclosure": {
-            "url": "https://cginterest.com/wp-content/uploads/2026/09/Terellis2-Pixel3d1.mp4",
-            "length": "191960",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://cginterest.com/wp-content/uploads/2026/09/trellis2-pixel3D-nowComfyUI.webp"
         }
       ]
     }

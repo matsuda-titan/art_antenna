@@ -320,6 +320,36 @@
       "siteUrl": "https://3dnchu.com",
       "articles": [
         {
+          "id": "https://3dnchu.com/?p=1068874",
+          "author": "Ymt3D -3dnchu-",
+          "description": "Shima氏が開発する、アニメーションやエフェクトなどの映像資料をまとめて閲覧・整理できるWindows用アプリ「MoveSpirit」がリリースされました！",
+          "link": "https://3dnchu.com/archives/movespirit/",
+          "publishedOn": "2026-10-02T22:42:34.000Z",
+          "wordCount": 7471,
+          "title": "MoveSpirit | 複数の映像資料を同時再生して整理・分析できる資料ビューアーアプリが遂にリリース！登録から100時間無料のキャンペーンも実施！Windows",
+          "enclosure": {
+            "url": "https://3dnchu.com/wp-content/uploads/d8953c6532c9bc197ce7d4fac677f756.mp4",
+            "length": "434928",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://3dnchu.com/wp-content/uploads/MoveSpirit.webp"
+        },
+        {
+          "id": "https://3dnchu.com/?p=1068886",
+          "author": "Ymt3D -3dnchu-",
+          "description": "ウクライナのCGアーティスト、Stanislav Marakulin氏が開発する、リトポロジー・UV編集・テクスチャベイクに対応した無料のWindows用ツール「Alpaca3D」が公開されています。BlenderやMayaとの連携機能も用意されています。",
+          "link": "https://3dnchu.com/archives/alpaca3d/",
+          "publishedOn": "2026-10-02T21:01:22.000Z",
+          "wordCount": 7693,
+          "title": "Alpaca3D | リトポロジー＆UV展開＆テクスチャベイク機能を搭載したスタンドアロンアプリケーション！BlenderやMayaとのブリッジも可能！Windows",
+          "enclosure": {
+            "url": "https://3dnchu.com/wp-content/uploads/Alpaca3D.webp",
+            "length": "1581658",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://3dnchu.com/wp-content/uploads/Alpaca3D.webp"
+        },
+        {
           "id": "https://3dnchu.com/?p=1068875",
           "author": "Ymt3D -3dnchu-",
           "description": "くま。氏（ @KumachanSteps ）が、TRPG向けの文字アニメーション素材をブラウザ上で作成できる無料Webツール「文字画像APNGメーカー」を公開しました。",
@@ -1188,36 +1218,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "https://3dnchu.com/wp-content/uploads/creating-high-quality-vegetation-for-games-book-jp.webp"
-        },
-        {
-          "id": "https://3dnchu.com/?p=1067998",
-          "author": "Ymt3D -3dnchu-",
-          "description": "株式会社ボーンデジタルから、マイケル・サルモンド氏によるレベルデザイン入門書『レベルデザインをはじめよう：プレイヤーを夢中にさせるゲーム設計の10原則』が発売されました。 レベルデザインをはじめよう：プレイヤーを夢中にさせるゲーム設計の10原則 | 本書の特徴 一生懸命作ったのになぜかうまくいかない […]\n続きを読む",
-          "link": "https://3dnchu.com/archives/video-game-level-design-book-jp/",
-          "publishedOn": "2026-09-03T07:55:04.000Z",
-          "wordCount": 8306,
-          "title": "レベルデザインをはじめよう：プレイヤーを夢中にさせるゲーム設計の10原則 | 「面白いゲーム空間」の考え方を基礎から学べる入門書！発売中！",
-          "enclosure": {
-            "url": "https://3dnchu.com/wp-content/uploads/video-game-level-design-book-jp.webp",
-            "length": "485880",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://3dnchu.com/wp-content/uploads/video-game-level-design-book-jp.webp"
-        },
-        {
-          "id": "https://3dnchu.com/?p=1067996",
-          "author": "Ymt3D -3dnchu-",
-          "description": "ねこおもち氏（ @neko_omochi_vrc ）による、文章や写真・動画からVRChatアバター向けのエモート・ポーズ・移動モーションをローカルAIで生成できるUnity拡張「VRC Motion Studio」がリリースされました。 VRC Motion Studio VRC Motion S […]\n続きを読む",
-          "link": "https://3dnchu.com/archives/vrc-motion-studio/",
-          "publishedOn": "2026-09-03T06:35:57.000Z",
-          "wordCount": 7945,
-          "title": "VRC Motion Studio | 文章や写真・動画からVRChat向けモーションをローカルAIで生成＆編集できるUnity拡張",
-          "enclosure": {
-            "url": "https://3dnchu.com/wp-content/uploads/vrc-motion-studio.webp",
-            "length": "361368",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://3dnchu.com/wp-content/uploads/vrc-motion-studio.webp"
         }
       ]
     },
@@ -1226,6 +1226,16 @@
       "feedUrl": "https://cgworld.jp/atom.xml",
       "siteUrl": "https://cgworld.jp/",
       "articles": [
+        {
+          "id": "https://cgworld.jp/flashnews/01-202610-Threejs-r186.html",
+          "author": null,
+          "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
+          "link": "https://cgworld.jp/flashnews/01-202610-Threejs-r186.html",
+          "publishedOn": "2026-10-02T23:42:29.000Z",
+          "wordCount": 764,
+          "title": "Three.js r186リリース　3DGS対応、ボリュメトリックフォグ、新マテリアル、スカルプトなど機能多数追加 - ニュース",
+          "imageUrl": "https://cgworld.jp/flashnews/assets_c/2026/10/Threejs_r186-01-thumb-1920x1080-89490.jpg"
+        },
         {
           "id": "https://cgworld.jp/flashnews/pixar1122.html",
           "author": null,
@@ -2075,36 +2085,6 @@
           "wordCount": 803,
           "title": "Unity、Unite Seoulのキーノート講演「The road to Unity 7」のハイライト動画を公開　ロードマップから最新エンジンの機能群紹介、UEとの同期まで - ニュース",
           "imageUrl": "https://cgworld.jp/flashnews/assets_c/2026/09/Unity7_Unite-01-thumb-1920x1080-88436.jpg"
-        },
-        {
-          "id": "https://cgworld.jp/special-feature/nygolden-wolf-pixel-pixel-2026.html",
-          "author": null,
-          "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
-          "link": "https://cgworld.jp/special-feature/nygolden-wolf-pixel-pixel-2026.html",
-          "publishedOn": "2026-09-03T12:54:07.000Z",
-          "wordCount": 931,
-          "title": "ロンドン・NY発の精鋭スタジオ「Golden Wolf」が追求する、メディアを越境するクリエイティブ ＜Pixel × Pixel 2026特集＞ - スペシャルコンテンツ",
-          "imageUrl": "https://cgworld.jp/special-feature/assets_c/2026/08/e22980524dda27a2563428f56dc633cd853ed498-thumb-1920x1069-88314.jpg"
-        },
-        {
-          "id": "https://cgworld.jp/flashnews/creators-pdf-market.html",
-          "author": null,
-          "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
-          "link": "https://cgworld.jp/flashnews/creators-pdf-market.html",
-          "publishedOn": "2026-09-03T07:40:15.000Z",
-          "wordCount": 714,
-          "title": "PDFで読めるクリエイター向け技法書専門ストア『CREATOR'S PDF MARKET』オープン！開店記念10％OFFクーポン配布中！ - ニュース",
-          "imageUrl": "https://cgworld.jp/flashnews/assets_c/2026/09/80_news_pdfmarket_full%20%281%29-thumb-1920x1080-88416.jpg"
-        },
-        {
-          "id": "https://cgworld.jp/regular/202609-ue5tool-23.html",
-          "author": null,
-          "description": "",
-          "link": "https://cgworld.jp/regular/202609-ue5tool-23.html",
-          "publishedOn": "2026-09-03T02:51:00.000Z",
-          "wordCount": 1219,
-          "title": "第23回：未使用のノードへジャンプするメニュー - 連載",
-          "imageUrl": "https://cgworld.jp/regular/assets_c/2026/08/UE5_EditorUtility_banner_vol23-thumb-1000x563-88307.jpg"
         }
       ]
     },
@@ -2984,6 +2964,21 @@
       "siteUrl": "https://zenn.dev/topics/3dcg",
       "articles": [
         {
+          "id": "https://zenn.dev/renderjanction/articles/4101f8cad59786",
+          "author": "render.janction.jp",
+          "description": "この記事で扱う JANCTION Render（https://render.janction.jp）は、AI が書いたシーンや既存の .blend をクラウド GPU で描くサービスです。同じジャスミーラボの分散 GPU 基盤 SmartRender とは別の製品です。\nGPU の無い PC でも、.blend をクラウド GPU に送って MP4 にできます。2026-10-02 時点の JANCTION Render 無料ベータでは、登録もカードも要りません。必要なのは MCP クライアントか CLI です。1 つの鍵につき 1 日 10 GPU 分（同じ回線は合計 20 分）、仕...",
+          "link": "https://zenn.dev/renderjanction/articles/4101f8cad59786",
+          "publishedOn": "2026-10-02T14:00:44.000Z",
+          "wordCount": 974,
+          "title": "GPU なしで .blend を MP4 にする手順と、無料枠で止まるところ",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--7t019raV--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:GPU%2520%25E3%2581%25AA%25E3%2581%2597%25E3%2581%25A7%2520.blend%2520%25E3%2582%2592%2520MP4%2520%25E3%2581%25AB%25E3%2581%2599%25E3%2582%258B%25E6%2589%258B%25E9%25A0%2586%25E3%2581%25A8%25E3%2580%2581%25E7%2584%25A1%25E6%2596%2599%25E6%259E%25A0%25E3%2581%25A7%25E6%25AD%25A2%25E3%2581%25BE%25E3%2582%258B%25E3%2581%25A8%25E3%2581%2593%25E3%2582%258D%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:render.janction.jp%2Cx_90%2Cy_121/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+            "length": "0",
+            "type": "false"
+          },
+          "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--7t019raV--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:GPU%2520%25E3%2581%25AA%25E3%2581%2597%25E3%2581%25A7%2520.blend%2520%25E3%2582%2592%2520MP4%2520%25E3%2581%25AB%25E3%2581%2599%25E3%2582%258B%25E6%2589%258B%25E9%25A0%2586%25E3%2581%25A8%25E3%2580%2581%25E7%2584%25A1%25E6%2596%2599%25E6%259E%25A0%25E3%2581%25A7%25E6%25AD%25A2%25E3%2581%25BE%25E3%2582%258B%25E3%2581%25A8%25E3%2581%2593%25E3%2582%258D%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:render.janction.jp%2Cx_90%2Cy_121/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+        },
+        {
           "id": "https://zenn.dev/reality_tech/articles/camera-auto-framing-algorithm",
           "author": "Soichiro Sugimoto",
           "description": "はじめに\n3Dキャラクターの写真や動画を撮影できるアプリやツールを開発・運用していると、画面内の指定領域に被写体を自動的に収めて撮影したいことがあります。さらに、指定領域内で被写体ができるだけ大きく映るようにしたい、キャラクターの体格・ポーズ・アニメーションなどの変化にフレーミングを追従させたい、という場合もあります。\nこの記事では「被写体を画面内のフレーミング領域に収めるカメラ位置の求め方」について解説します。この手法を活用すると、以下のデモのように、被写体のポーズやアニメーションに合わせて自動的にフレーミングしながら撮影できます。\n\n\nYouTubeで見る\nデモアプリを開く\n\n\n...",
@@ -3530,6 +3525,16 @@
       "siteUrl": "https://qiita.com",
       "articles": [
         {
+          "id": "https://qiita.com/0ts_st/items/0bbba3c0953c24d078c2",
+          "author": null,
+          "description": "はじめに\nこんにちは、わかとです。\n最近、スマホを釣り竿にして遊べるWeb釣りゲーム 「技術釣り」 を作っています。\nPC側に海を表示して、QRコードをスマホで読み取ると、そのスマホが釣り竿になります。\nスマホを振ってキャストして、魚が掛かったら釣り上げる。\nさらに普通の...",
+          "link": "https://qiita.com/0ts_st/items/0bbba3c0953c24d078c2",
+          "publishedOn": "2026-10-03T01:35:16.000Z",
+          "wordCount": 4106,
+          "title": "AIに論文とOSSを調べさせて、Three.jsの魚を“生き物”にした",
+          "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRmF2YXRhcnMuZ2l0aHVidXNlcmNvbnRlbnQuY29tJTJGdSUyRjIxNDc5NDQ3OSUzRnYlM0Q0P2l4bGliPXJiLTQuMS4xJmFyPTElM0ExJmZpdD1jcm9wJm1hc2s9ZWxsaXBzZSZiZz1GRkZGRkYmZm09cG5nMzImcz0zNWMwNTkyY2FkMDE3MDdiNmI5ZjVhYTU1ZWFhYmNiYQ%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3Dde852866ad9c83844d71cb1023b1baeb?ixlib=rb-4.1.1&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9QUklRTMlODElQUIlRTglQUIlOTYlRTYlOTYlODclRTMlODElQThPU1MlRTMlODIlOTIlRTglQUElQkYlRTMlODElQjklRTMlODElOTUlRTMlODElOUIlRTMlODElQTYlRTMlODAlODFUaHJlZS5qcyVFMyU4MSVBRSVFOSVBRCU5QSVFMyU4MiU5MiVFMiU4MCU5QyVFNyU5NCU5RiVFMyU4MSU4RCVFNyU4OSVBOSVFMiU4MCU5RCVFMyU4MSVBQiVFMyU4MSU5NyVFMyU4MSU5RiZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnR4dC1wYWQ9MCZzPThlMzIzYmE1ZWNhZGU0N2E3NmQyZmY3OGExZTQ3YWRh&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDAwdHNfc3QmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz0zNjczYzJjNjYxZTU3MWE1M2FlYmJkYjkwMjM1OGZkZA&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=bfb429c321b8d7d698211244beeeb8de"
+        },
+        {
           "id": "https://qiita.com/inaba_darkfox/items/af8808046b559325c067",
           "author": null,
           "description": "はじめに\n　intersection法でトーラスを描いたことがある。目線の位置からレイをとばし、トーラスと交叉する場合にその点における法線とかを計算して、色を付ける。過去にそういうのを書いたんだが、\n\nOpenProcessingの仕様変更で壊れてしまったので、復活さ...",
@@ -3556,6 +3561,21 @@
       "feedUrl": "https://zenn.dev/topics/hlsl/feed",
       "siteUrl": "https://zenn.dev/topics/hlsl",
       "articles": [
+        {
+          "id": "https://zenn.dev/maruhana/articles/hlsl-japanese-comment-truncation",
+          "author": "maruhana",
+          "description": "!\n先に、この記事の要約（専門用語なし）\n\nGPU 用の小さなプログラム（シェーダー）を、C# のソースの中に「文字列」として書いている\nそこに日本語のコメントを 1 行入れると、コンパイルが「ファイルが途中で終わっている」と言って失敗する\n長いあいだ「GPU のコンパイラが日本語を読めないからだ」と理解していた。確かめたら違った\n実際には、文字列を渡す側が長さを数え間違えていて、シェーダーの末尾が数バイトぶん削り落とされていた。日本語を書いた行ではなく、末尾が壊れる\nだからエラーは、日本語を書いた場所から何十行も離れた、ファイルの最後に出る\n全角スペース 1 個でも同じことが起きる。...",
+          "link": "https://zenn.dev/maruhana/articles/hlsl-japanese-comment-truncation",
+          "publishedOn": "2026-10-02T13:12:19.000Z",
+          "wordCount": 2063,
+          "title": "C#の文字列に埋めたHLSLに日本語コメントを書くと、シェーダーの末尾が静かに消える",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--PeVS5i2t--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:C%2523%25E3%2581%25AE%25E6%2596%2587%25E5%25AD%2597%25E5%2588%2597%25E3%2581%25AB%25E5%259F%258B%25E3%2582%2581%25E3%2581%259FHLSL%25E3%2581%25AB%25E6%2597%25A5%25E6%259C%25AC%25E8%25AA%259E%25E3%2582%25B3%25E3%2583%25A1%25E3%2583%25B3%25E3%2583%2588%25E3%2582%2592%25E6%259B%25B8%25E3%2581%258F%25E3%2581%25A8%25E3%2580%2581%25E3%2582%25B7%25E3%2582%25A7%25E3%2583%25BC%25E3%2583%2580%25E3%2583%25BC%25E3%2581%25AE%25E6%259C%25AB%25E5%25B0%25BE%25E3%2581%258C%25E9%259D%2599%25E3%2581%258B%25E3%2581%25AB%25E6%25B6%2588%25E3%2581%2588%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:maruhana%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2NmNWIyZmJmNTEuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+            "length": "0",
+            "type": "false"
+          },
+          "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--PeVS5i2t--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:C%2523%25E3%2581%25AE%25E6%2596%2587%25E5%25AD%2597%25E5%2588%2597%25E3%2581%25AB%25E5%259F%258B%25E3%2582%2581%25E3%2581%259FHLSL%25E3%2581%25AB%25E6%2597%25A5%25E6%259C%25AC%25E8%25AA%259E%25E3%2582%25B3%25E3%2583%25A1%25E3%2583%25B3%25E3%2583%2588%25E3%2582%2592%25E6%259B%25B8%25E3%2581%258F%25E3%2581%25A8%25E3%2580%2581%25E3%2582%25B7%25E3%2582%25A7%25E3%2583%25BC%25E3%2583%2580%25E3%2583%25BC%25E3%2581%25AE%25E6%259C%25AB%25E5%25B0%25BE%25E3%2581%258C%25E9%259D%2599%25E3%2581%258B%25E3%2581%25AB%25E6%25B6%2588%25E3%2581%2588%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:maruhana%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2NmNWIyZmJmNTEuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+        },
         {
           "id": "https://zenn.dev/gamedev_toollab/articles/fe512bd30def27",
           "author": "GameDev Tool Lab",
@@ -4085,56 +4105,6 @@
           "wordCount": 3121,
           "title": "Substance Designer】1から作る！「板の間」のPBRテクスチャ解説①",
           "imageUrl": "https://assets.st-note.com/production/uploads/images/310990538/rectangle_large_type_2_a8301bbeec9e3d2d568a027cfa2de802.png?width=800"
-        },
-        {
-          "id": "https://note.com/efeozi/n/nb77dd54c2a7f",
-          "author": null,
-          "description": "続きをみる",
-          "link": "https://note.com/efeozi/n/nb77dd54c2a7f",
-          "publishedOn": "2026-09-03T08:50:37.000Z",
-          "wordCount": 2450,
-          "title": "Substance Designer / 雷",
-          "imageUrl": "https://assets.st-note.com/production/uploads/images/309880142/rectangle_large_type_2_18581b5869d3b03fcdac8f8e50dc586d.png?width=800"
-        },
-        {
-          "id": "https://note.com/efeozi/n/n9a767ad35911",
-          "author": null,
-          "description": "続きをみる",
-          "link": "https://note.com/efeozi/n/n9a767ad35911",
-          "publishedOn": "2026-09-03T08:31:24.000Z",
-          "wordCount": 2422,
-          "title": "Substance Designer / 衝撃",
-          "imageUrl": "https://d2l930y2yx77uc.cloudfront.net/production/social_images/d359aeaddbf27a89a9ee0a4320cf011c470f739a.png"
-        },
-        {
-          "id": "https://note.com/efeozi/n/n5f2c0854d0dc",
-          "author": null,
-          "description": "続きをみる",
-          "link": "https://note.com/efeozi/n/n5f2c0854d0dc",
-          "publishedOn": "2026-09-03T07:51:55.000Z",
-          "wordCount": 2602,
-          "title": "Substance Designer / 雲まとめ①",
-          "imageUrl": "https://assets.st-note.com/production/uploads/images/309862487/rectangle_large_type_2_4ed33f6b55171c7f21a959e9844779d4.png?width=800"
-        },
-        {
-          "id": "https://note.com/efeozi/n/nd2693658c65f",
-          "author": null,
-          "description": "続きをみる",
-          "link": "https://note.com/efeozi/n/nd2693658c65f",
-          "publishedOn": "2026-09-03T07:29:44.000Z",
-          "wordCount": 2477,
-          "title": "Substance Designer / オーラまとめ②",
-          "imageUrl": "https://assets.st-note.com/production/uploads/images/309856181/rectangle_large_type_2_6f02f5a6d95015154e2484297338281a.png?width=800"
-        },
-        {
-          "id": "https://note.com/efeozi/n/n78d125253b9f",
-          "author": null,
-          "description": "🔶RT Coustics\n続きをみる",
-          "link": "https://note.com/efeozi/n/n78d125253b9f",
-          "publishedOn": "2026-09-03T05:43:19.000Z",
-          "wordCount": 2511,
-          "title": "Substance Designer / オーラまとめ①",
-          "imageUrl": "https://assets.st-note.com/production/uploads/images/309827878/rectangle_large_type_2_f5cf53347359c4180f0d62403b301d83.png?width=800"
         }
       ]
     },
@@ -4757,31 +4727,6 @@
           "wordCount": 2670,
           "title": "NVIDIA、AIモデル共有プラットフォーム「Hugging Face」を買収 ― 約129億ドルの取引を発表",
           "imageUrl": "https://cginterest.com/wp-content/uploads/2026/09/hf-nvidia-partner_hf-nvidia-partner-press-1920x1080-2-1536x864-1.webp"
-        },
-        {
-          "id": "https://cginterest.com/?p=62281",
-          "author": ".me",
-          "description": "2026年9月2日（現地時間） – Slackは、Adobeのプロ向けクリエイティブおよび生産性ツールを会話の中から直接呼び出せる新しいアプリ「Adobe for Slack」を発表しました。 Slack上の […]",
-          "link": "https://cginterest.com/2026/09/03/slack%e4%b8%8a%e3%81%a770%e7%a8%ae%e4%bb%a5%e4%b8%8a%e3%81%aeadobe%e3%83%84%e3%83%bc%e3%83%ab%e3%81%8c%e5%8b%95%e4%bd%9c%e3%81%99%e3%82%8b%e3%80%8cadobe-for-slack%e3%80%8d%e3%81%8c%e7%99%bb%e5%a0%b4/",
-          "publishedOn": "2026-09-03T12:13:18.000Z",
-          "wordCount": 2765,
-          "title": "Slack上で70種以上のAdobeツールが動作する「Adobe for Slack」が登場。会話の文脈から直接デザインやアセット生成が可能に",
-          "imageUrl": "https://cginterest.com/wp-content/uploads/2026/09/adobexslack.webp"
-        },
-        {
-          "id": "https://cginterest.com/?p=62271",
-          "author": ".me",
-          "description": "2026年9月1日（現地時間）- Reallusionは、3Dガイド型のAI制作ツール「AI Studio」を、バージョン1.1へとアップデートしました。 主な新機能 今回のアップデートは、iCloneやCharacte […]",
-          "link": "https://cginterest.com/2026/09/03/reallusion%e3%80%813dxai%e5%88%b6%e4%bd%9c%e3%83%84%e3%83%bc%e3%83%ab%e3%80%8cai-studio%e3%80%8d%e3%82%921-1%e3%81%ab%e3%82%a2%e3%83%83%e3%83%97%e3%83%87%e3%83%bc%e3%83%88%ef%bc%81%e3%82%b9/",
-          "publishedOn": "2026-09-03T11:47:49.000Z",
-          "wordCount": 2784,
-          "title": "Reallusion、3D×AI制作ツール「AI Studio」を1.1にアップデート！スタンドアロン化、Seedance 2.5による30秒動画生成に対応",
-          "enclosure": {
-            "url": "https://cginterest.com/wp-content/uploads/2026/09/Seedance-2.5-1024x373-1.mp4",
-            "length": "396990",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://cginterest.com/wp-content/uploads/2026/09/reallusionaistudiov1_1.webp"
         }
       ]
     }

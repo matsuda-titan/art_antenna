@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-10-03T08:42:41.999Z</updated>
+    <updated>2026-10-03T15:24:29.316Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
@@ -4455,88 +4455,6 @@ DRAM DDR4-3200 16GB
 手順...]]></summary>
         <author>
             <name>3DCGタグが付けられた新着記事 - Qiita</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【アドオン紹介】Caustica – ハイクオリティのフォトンコースティクスを扱えるアドオン]]></title>
-        <id>https://cgbox.jp/?p=65650</id>
-        <link href="https://cgbox.jp/2026/09/04/news-addon-caustica/"/>
-        <updated>2026-09-04T00:27:07.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは！ 今回はアドオンの「Caustica」を紹介します。 こちらのリンクがアドオンの商品ページになります。 Caustica 「Caustica」は、Cycles内で本物のフォトンコースティクスを扱えるカスタムB […]]]></summary>
-        <author>
-            <name>kasahara</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Blaze AutoPose – 手首や足を動かすだけで全身を自然なポーズに調整できるBlender用アドオン]]></title>
-        <id>https://modelinghappy.com/?p=70325</id>
-        <link href="https://modelinghappy.com/archives/70325"/>
-        <updated>2026-09-03T23:39:12.000Z</updated>
-        <summary type="html"><![CDATA[Blaze Autopose Blaze AutoPoseは、ビューポート上のハンドルを動かすだけで、キャラクターの全身にポーズを付けられるBlender用アドオンです。 例えば、キャラクターの手首を上へ動かすと、腕だけ
-The post Blaze AutoPose – 手首や足を動かすだけで全身を自然なポーズに調整できるBlender用アドオン first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
-        <author>
-            <name>modelinghappy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ntkit – ウィンドウ分割や数値変形、カメラ・ファイル管理など24種類の頻用機能を素早く実行できるBlender用無料アドオン]]></title>
-        <id>https://modelinghappy.com/?p=70317</id>
-        <link href="https://modelinghappy.com/archives/70317"/>
-        <updated>2026-09-03T23:12:37.000Z</updated>
-        <summary type="html"><![CDATA[Ntkit #8211; Blender Workflow Utilities Ntkitは、Naoki Takanoさんによって制作された、Blenderで頻繁に行う操作を素早く実行できる、24種類のユーティリティを
-The post Ntkit – ウィンドウ分割や数値変形、カメラ・ファイル管理など24種類の頻用機能を素早く実行できるBlender用無料アドオン first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
-        <author>
-            <name>modelinghappy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Unity、Unite Seoulのキーノート講演「The road to Unity 7」のハイライト動画を公開　ロードマップから最新エンジンの機能群紹介、UEとの同期まで - ニュース]]></title>
-        <id>https://cgworld.jp/flashnews/01-202609-Unity7-Unite.html</id>
-        <link href="https://cgworld.jp/flashnews/01-202609-Unity7-Unite.html"/>
-        <updated>2026-09-03T22:59:43.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[フォトグラメトリ数学｜53：Dense Point Cloudから3D Meshへ～点の集合から表面を復元する～]]></title>
-        <id>https://zenn.dev/s_hashida/articles/bf5a6c69432ba7</id>
-        <link href="https://zenn.dev/s_hashida/articles/bf5a6c69432ba7"/>
-        <updated>2026-09-03T22:01:05.000Z</updated>
-        <summary type="html"><![CDATA[はじめに
-前回は、
-
-Dense Point CloudとDSMの違い
-DSMが2.5次元である理由
-点群を規則的な格子へ変換する考え方
-Maxによる格子化
-IDWによる補間
-TINによる表面生成
-
-について説明しました。
-
-その中で重要だったのが、
-
-Dense Point Cloudは不規則に分布した3次元点の集合である
-DSMではXY平面上の各位置に1つの高さを持つ
-点群から表面高さを推定することでDSMを生成できる
-
-という点です。
-
-前回、DSMを、
-
-Z_{\mathrm{DSM}}(x,y)
-
-として表しました。
-つまり、
-
-(x,y)
-\rightarrow Z
-
-...]]></summary>
-        <author>
-            <name>s_hashida</name>
         </author>
     </entry>
 </feed>

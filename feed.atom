@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-10-04T03:21:40.129Z</updated>
+    <updated>2026-10-04T13:33:42.071Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[FreePicker – ボーンやオブジェクトをボタンで選択！自由に配置できるピッカーを作成する無料Blenderアドオン]]></title>
+        <id>https://modelinghappy.com/?p=70860</id>
+        <link href="https://modelinghappy.com/archives/70860"/>
+        <updated>2026-10-04T12:05:05.000Z</updated>
+        <summary type="html"><![CDATA[FreePicker FreePickerは、ボーンやオブジェクトを専用のパネルから選択できる無料のBlenderアドオンです。 選択したいボーンやオブジェクトの組み合わせを登録し、パネル内にボタンとして配置できます。複
+The post FreePicker – ボーンやオブジェクトをボタンで選択！自由に配置できるピッカーを作成する無料Blenderアドオン first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
+        <author>
+            <name>modelinghappy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Auto-Rig Pro 3.78 がリリース！FBX書き出しの改善やフェイシャルリグ自動検出の改善、Adaptive Auto Skinning対応など]]></title>
+        <id>https://cginterest.com/?p=62908</id>
+        <link href="https://cginterest.com/2026/10/04/auto-rig-pro-3-78-%e3%81%8c%e3%83%aa%e3%83%aa%e3%83%bc%e3%82%b9%ef%bc%81fbx%e6%9b%b8%e3%81%8d%e5%87%ba%e3%81%97%e3%81%ae%e6%94%b9%e5%96%84%e3%82%84%e3%83%95%e3%82%a7%e3%82%a4%e3%82%b7%e3%83%a3/"/>
+        <updated>2026-10-04T09:09:35.000Z</updated>
+        <summary type="html"><![CDATA[Blender向けリギングアドオン「Auto-Rig Pro」、バージョン3.78アップデート情報です。 主な新機能 今回のアップデートは、Unreal EngineやMayaへのFBXエクスポートで長く報告されていたバ […]]]></summary>
+        <author>
+            <name>.me</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【アドオン紹介】Parallax Maker – 3DシーンやHDRI画像から軽量なパララックス背景を作成できるアドオン！]]></title>
         <id>https://cgbox.jp/?p=65766</id>
@@ -34,6 +55,40 @@
         <summary type="html"><![CDATA[Renshi Asada氏（ @renshiasada ）による、水彩・油彩・鉛筆・クレヨン・パステルなど、アナログ画材特有の挙動を物理シミュレーションで再現するペイントアプリ「Mignon Sketch」のご紹介！Webやモバイルに加えWindows向けの「Mignon Sketch Pro」も展開されています。]]></summary>
         <author>
             <name>Ymt3D -3dnchu-</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Shaderlyn - 大規模開発に対応するシェーダー静的解析ツール]]></title>
+        <id>https://zenn.dev/omojip/articles/253bcbf23c444b</id>
+        <link href="https://zenn.dev/omojip/articles/253bcbf23c444b"/>
+        <updated>2026-10-04T01:34:44.000Z</updated>
+        <summary type="html"><![CDATA[はじめに
+皆さんシェーダーは書いていますでしょうか？
+シェーダーには、プラットフォームや特定の実機で問題が起きる書き方や、パフォーマンスの下がる書き方があります。
+多くの開発現場では、コーディング規約やレビュー観点にアンチパターンを蓄積することで対応されていると思いますが、この方法のチェックには限界があるでしょう。
+他の言語ではこのような問題に対して静的解析ツールを使うことが多いと思いますが、
+シェーダーでは、実行時の分岐を避けるためにプリプロセッサによる条件分岐 #if を多用することがあります。
+このようなこともあり、分岐を考慮して解析する必要があります。
+これを実現することは難...]]></summary>
+        <author>
+            <name>OmojiP</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Shaderlyn - 大規模開発に対応するシェーダー静的解析ツール]]></title>
+        <id>https://zenn.dev/omojip/articles/253bcbf23c444b</id>
+        <link href="https://zenn.dev/omojip/articles/253bcbf23c444b"/>
+        <updated>2026-10-04T01:34:44.000Z</updated>
+        <summary type="html"><![CDATA[はじめに
+皆さんシェーダーは書いていますでしょうか？
+シェーダーには、プラットフォームや特定の実機で問題が起きる書き方や、パフォーマンスの下がる書き方があります。
+多くの開発現場では、コーディング規約やレビュー観点にアンチパターンを蓄積することで対応されていると思いますが、この方法のチェックには限界があるでしょう。
+他の言語ではこのような問題に対して静的解析ツールを使うことが多いと思いますが、
+シェーダーでは、実行時の分岐を避けるためにプリプロセッサによる条件分岐 #if を多用することがあります。
+このようなこともあり、分岐を考慮して解析する必要があります。
+これを実現することは難...]]></summary>
+        <author>
+            <name>OmojiP</name>
         </author>
     </entry>
     <entry>
@@ -4425,48 +4480,6 @@ The post GPT-6 Astraで東京タワー・住宅・ヘッドホンを3Dモデル�
         <updated>2026-09-05T02:17:52.000Z</updated>
         <summary type="html"><![CDATA[Demenzun Mediaが地形制作ソフト「TerreSculptor 4.8」をリリース！GeoTIFFの自動モザイク化やEXR入出力 メッシュ最適化 Flat Detailなどが追加されています。 TerreSculptor 4.8 Demenzun MediaによるWindows向け地形制作 […]
 続きを読む]]></summary>
-        <author>
-            <name>Ymt3D -3dnchu-</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SideFX、4DGSワークフロー解説動画公開　HoudiniからUnreal Engineへの技術パイプライン、Karim Rehimi氏による解説 - ニュース]]></title>
-        <id>https://cgworld.jp/flashnews/01-202609-Houdini-4DGS.html</id>
-        <link href="https://cgworld.jp/flashnews/01-202609-Houdini-4DGS.html"/>
-        <updated>2026-09-04T23:18:29.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pro Particles 5.3 | FLIP・SPH・MPM・PyroなどをGPUで扱えるBlender向け統合シミュレーションアドオン！]]></title>
-        <id>https://3dnchu.com/?p=1068123</id>
-        <link href="https://3dnchu.com/archives/pro-particles-5-3/"/>
-        <updated>2026-09-04T19:05:36.000Z</updated>
-        <summary type="html"><![CDATA[CG_FlowによるBlender向けアドオン「Pro Particles」の大型アップデートとなるバージョン5.3が公開されました。Pro Particlesは、パーティクル、液体、粒状物、煙、炎などのシミュレーションやプロシージャルFXをGPUで処理できる統合ツールキットです。FLIP/APIC […]
-続きを読む]]></summary>
-        <author>
-            <name>Ymt3D -3dnchu-</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【解説付き背景メイキング】Blenderで作る洋風の中庭風景 | 背景イラストレーター カミワダ テル氏によるBlenderを使用した解説付き背景メイキング動画！新作が公開中！]]></title>
-        <id>https://3dnchu.com/?p=1068110</id>
-        <link href="https://3dnchu.com/archives/t_kamiwada_b3d_making2/"/>
-        <updated>2026-09-04T16:32:59.000Z</updated>
-        <summary type="html"><![CDATA[背景イラストレーター カミワダ テル 氏がYoutube上でBlenderのメイキング動画「【解説付き背景メイキング】Blenderで作る洋風の中庭風景」を公開しました！ 【解説付き背景メイキング】Blenderで作る洋風の中庭風景 Blenderをベースに洋風の中庭風景を作成しました。動画では伝わ […]
-続きを読む]]></summary>
-        <author>
-            <name>Ymt3D -3dnchu-</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[うちの3Dモデルは見習い3Dモデラーに昇格した！ | 腱鞘炎と戦うデザイナー 伊藤氏によるBlenderビューポートを活用した新作がYoutube上で公開！3Dキャラが自分で服をカスタムする！？]]></title>
-        <id>https://3dnchu.com/?p=1068102</id>
-        <link href="https://3dnchu.com/archives/my-3d-model-has-been-promoted-to-trainee-3d-modeller-ito/"/>
-        <updated>2026-09-04T15:51:54.000Z</updated>
-        <summary type="html"><![CDATA[腱鞘炎と戦うデザイナー ことフリーランスアーティストの伊藤氏が、少し前にXでも公開していた作品「うちの3Dモデルは見習い3Dモデラーに昇格した！ 」をYoutube上でも公開しました！ うちの3Dモデルは見習い3Dモデラーに昇格した！ もうそういう時代なんだ みたいなね‥🙃 リンク]]></summary>
         <author>
             <name>Ymt3D -3dnchu-</name>
         </author>

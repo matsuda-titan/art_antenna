@@ -2,10 +2,148 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-10-04T13:33:42.071Z</updated>
+    <updated>2026-10-05T02:58:45.168Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【アセット紹介】Moss – オブジェクト表面にリアルな苔をプロシージャル生成できるジェネレーター！]]></title>
+        <id>https://cgbox.jp/?p=65773</id>
+        <link href="https://cgbox.jp/2026/10/05/news-addon-moss/"/>
+        <updated>2026-10-05T02:51:19.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは！ 今回はアドオンの「Moss」を紹介します。 こちらのリンクがアドオンの商品ページになります。 Moss 「Moss」は、Shake Node To Disconnectは、ノードを左右に素早く振るだけで、接 […]]]></summary>
+        <author>
+            <name>kasahara</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[スタジオサザンカ、インディーゲームのパブリッシング事業を開始。第一弾にブラジル発『[AFANTASIA]』 - ニュース]]></title>
+        <id>https://cgworld.jp/flashnews/02-2610-afantasia.html</id>
+        <link href="https://cgworld.jp/flashnews/02-2610-afantasia.html"/>
+        <updated>2026-10-05T00:41:02.000Z</updated>
+        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PlayCanvas、オープンソースの3DGSエディタ「SuperSplat Editor 3.0」リリース　WebGPU基盤で大規模シーン対応・低メモリ化 - ニュース]]></title>
+        <id>https://cgworld.jp/flashnews/01-202610-SuperSplat30.html</id>
+        <link href="https://cgworld.jp/flashnews/01-202610-SuperSplat30.html"/>
+        <updated>2026-10-04T23:54:47.000Z</updated>
+        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[テクスチャ基礎まとめ]]></title>
+        <id>https://qiita.com/aijyu/items/48df8ec9b7213fd98caf</id>
+        <link href="https://qiita.com/aijyu/items/48df8ec9b7213fd98caf"/>
+        <updated>2026-10-04T22:46:29.000Z</updated>
+        <summary type="html"><![CDATA[テクスチャ基礎まとめ
+
+1. マテリアルとテクスチャ
+
+マテリアル：物体全体の材質設定
+
+テクスチャ：材質に使う画像や模様
+
+基本構成は以下。
+Image Texture
+↓
+Principled BSDF
+↓
+Material Output
+
+2. Base Co...]]></summary>
+        <author>
+            <name>3DCGタグが付けられた新着記事 - Qiita</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[フォトグラメトリ数学｜60：誤差の共分散行列とは何か]]></title>
+        <id>https://zenn.dev/s_hashida/articles/095a23f585b10c</id>
+        <link href="https://zenn.dev/s_hashida/articles/095a23f585b10c"/>
+        <updated>2026-10-04T22:01:05.000Z</updated>
+        <summary type="html"><![CDATA[はじめに
+前回は、
+
+誤差伝播とは何か
+微分と誤差伝播の関係
+複数の入力に誤差がある場合
+Jacobianとは何か
+フォトグラメトリにおける誤差伝播
+
+について説明しました。
+
+その中で重要だったのが、
+
+\Delta\mathbf{y}
+\approx
+J\Delta\mathbf{x}
+
+という関係です。
+これは、
+入力側の小さな誤差が、Jacobianによって出力側へどのように伝わるのか
+を表しています。
+
+しかし、この式で考えている、
+
+\Delta\mathbf{x}
+
+は、ある1回の誤差です。
+実際の観測誤差は、毎回同じ値になるわけではありません。
+例えば画像上で同じ点...]]></summary>
+        <author>
+            <name>s_hashida</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[法線の反転したフェイスを検出するツールを作ってみた]]></title>
+        <id>https://qiita.com/re_sumir/items/c4b0620f3abfad2ae0c1</id>
+        <link href="https://qiita.com/re_sumir/items/c4b0620f3abfad2ae0c1"/>
+        <updated>2026-10-04T17:01:04.000Z</updated>
+        <summary type="html"><![CDATA[はじめに
+法線が反転したフェイスは、フェイスの数が多いほど、また一つ一つが小さくなるほど、見つけにくくなります。そこで自動で見つけるツールを作りました。
+
+目指したもの
+反転したフェイスが選択された状態になれば分かりやすいと考え、最終的に、検出したフェイスが選択状態になる...]]></summary>
+        <author>
+            <name>mayaタグが付けられた新着記事 - Qiita</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Moko | Cubebrushが開発するAI非搭載の新ペイント＆画像編集アプリ！Photoshop＆CSPブラシやPSDにも対応！Windows向けクローズドベータ参加者募集中！]]></title>
+        <id>https://3dnchu.com/?p=1068954</id>
+        <link href="https://3dnchu.com/archives/moko/"/>
+        <updated>2026-10-04T14:56:51.000Z</updated>
+        <summary type="html"><![CDATA[CG向けデジタルマーケットプレイス「Cubebrush」が、新しいデスクトップ向けペイント＆画像編集アプリ「Moko」を開発中です。高性能ブラシやNatural Paint、実顔料ミキシング、レイヤー＆マスク、PSDやPhotoshop・CLIP STUDIO PAINTブラシのインポートなどに対応。現在Windows向けClosed Betaの参加申請を受け付けています。]]></summary>
+        <author>
+            <name>Ymt3D -3dnchu-</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ぺたぬり3D | モデルへ直接描ける！アニメ・イラスト風表現に特化した3Dペイントツール！無料Lite版もあり！Windows]]></title>
+        <id>https://3dnchu.com/?p=1068959</id>
+        <link href="https://3dnchu.com/archives/petanuri3d/"/>
+        <updated>2026-10-04T14:06:18.000Z</updated>
+        <summary type="html"><![CDATA[はいぱーつよつよ氏（ @Yak_HyperTYTY ）による、アニメ・イラスト風表現に特化した3Dペイントツール「ぺたぬり3D」がリリースされました！VRChatアバターや衣装などの3Dモデルを見ながら直接ペイントでき、無料のLite版も用意されています！]]></summary>
+        <author>
+            <name>Ymt3D -3dnchu-</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[天球を内側から見ると左右が逆になる: 地上視点の射影とドラッグの向き]]></title>
+        <id>https://zenn.dev/kodomo_news/articles/185-ground-view-stereographic-projection</id>
+        <link href="https://zenn.dev/kodomo_news/articles/185-ground-view-stereographic-projection"/>
+        <updated>2026-10-04T13:52:00.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは。小学生向けのニュースサイト、こどもニュースをつくっています。
+このサイトには、太陽と月が 1 日に空をどう動くかを見せる天球の図があります。観察者を囲む半球を Canvas 2D で描き、ドラッグで回して眺める作りです。この図に「地上から見上げる」視点を足したとき、外から見る視点で使っていた式のうち、そのまま流用できそうに見えたものが 3 つありました。画面の右向きのベクトル、ドラッグの式、カメラの向きを表す状態です。3 つとも、同じ式を使うと結果が逆になりました。原因は 1 つで、外から見るときの視線は「カメラ → 天球の中心」、地上から見るときの視線は「天球の中心 → 空...]]></summary>
+        <author>
+            <name>kodomo-news.net</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[FreePicker – ボーンやオブジェクトをボタンで選択！自由に配置できるピッカーを作成する無料Blenderアドオン]]></title>
         <id>https://modelinghappy.com/?p=70860</id>
@@ -25,6 +163,35 @@ The post FreePicker – ボーンやオブジェクトをボタンで選択！�
         <summary type="html"><![CDATA[Blender向けリギングアドオン「Auto-Rig Pro」、バージョン3.78アップデート情報です。 主な新機能 今回のアップデートは、Unreal EngineやMayaへのFBXエクスポートで長く報告されていたバ […]]]></summary>
         <author>
             <name>.me</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Claude Opus 5.5 と Sonnet 5.5 に Blender で3DCGを作らせて比べた]]></title>
+        <id>https://zenn.dev/morinokenjin/articles/opus-sonnet-55-blender</id>
+        <link href="https://zenn.dev/morinokenjin/articles/opus-sonnet-55-blender"/>
+        <updated>2026-10-04T03:26:52.000Z</updated>
+        <summary type="html"><![CDATA[Claude の Opus 5.5 と Sonnet 5.5 を、同じお題で比べるシリーズの2本目です。今回は3DCGで、Blender を Python だけで動かして、静物・機械式時計・アニメーションの3つを作ってもらいました。
+この記事は、動画で見せた作品と結果を、画像とコードでじっくり見られるようにまとめたものです。
+
+ 結果のまとめ
+Opus 5.5 の2勝と引き分けが1つで、比較②3DCG は Opus 5.5 の勝ちです。
+
+
+
+お題
+Opus 5.5
+Sonnet 5.5
+勝ち負け
+
+
+
+
+静物
+20.5点・7分23秒・$0.74
+14.0点・17分32秒・$0.72
+...]]></summary>
+        <author>
+            <name>森の賢人</name>
         </author>
     </entry>
     <entry>
@@ -4428,60 +4595,6 @@ Surface Reconstructionによって点群から3次...]]></summary>
 続きをみる]]></summary>
         <author>
             <name>#Houdiniタグ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rinvos Proximity Snap – メッシュのめり込みや隙間を指定距離への一括スナップで修正できるBlender用無料アドオン]]></title>
-        <id>https://modelinghappy.com/?p=70375</id>
-        <link href="https://modelinghappy.com/archives/70375"/>
-        <updated>2026-09-05T11:13:01.000Z</updated>
-        <summary type="html"><![CDATA[Rinvos Proximity Snap Rinvos Proximity Snapは、rinvoさんが作成した、選択した頂点などを、周囲にある別のオブジェクトへ指定した距離を保ちながらスナップできるBlender用ア
-The post Rinvos Proximity Snap – メッシュのめり込みや隙間を指定距離への一括スナップで修正できるBlender用無料アドオン first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
-        <author>
-            <name>modelinghappy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[cvELD ShellFit – 素体と衣装が重なる貫通部分をリアルタイムで修正できるBlender用アドオン]]></title>
-        <id>https://modelinghappy.com/?p=70368</id>
-        <link href="https://modelinghappy.com/archives/70368"/>
-        <updated>2026-09-05T10:50:29.000Z</updated>
-        <summary type="html"><![CDATA[Cveld Shellfit cvELD ShellFitは、cvELDさんが作成した、Blenderでキャラクターの素体と衣装が重なってしまう貫通を、リアルタイムに修正できるアドオンです。 素体を衣装の内側へ押し込む機
-The post cvELD ShellFit – 素体と衣装が重なる貫通部分をリアルタイムで修正できるBlender用アドオン first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
-        <author>
-            <name>modelinghappy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sketchfabマンスリーピックアップ 2026年9月号]]></title>
-        <id>https://cginterest.com/?p=62327</id>
-        <link href="https://cginterest.com/2026/09/05/sketchfab%e3%83%9e%e3%83%b3%e3%82%b9%e3%83%aa%e3%83%bc%e3%83%94%e3%83%83%e3%82%af%e3%82%a2%e3%83%83%e3%83%97-2026%e5%b9%b49%e6%9c%88%e5%8f%b7/"/>
-        <updated>2026-09-05T08:28:00.000Z</updated>
-        <summary type="html"><![CDATA[先月Sketchfabに投稿されたモデルを勝手にピックアップ(2026年9月5日調べ) するコーナーです。人気のある3Dモデルを中心に独断と偏見で選んでおります！ 通常のピックアップとは別に、無料でダウンロードできる3D […]]]></summary>
-        <author>
-            <name>.me</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GPT-6 Astraで東京タワー・住宅・ヘッドホンを3Dモデル化してBlenderで表示してみました]]></title>
-        <id>https://modelinghappy.com/?p=70333</id>
-        <link href="https://modelinghappy.com/archives/70333"/>
-        <updated>2026-09-05T06:00:39.000Z</updated>
-        <summary type="html"><![CDATA[Astra OpenAIは2026年9月3日にGPT-6 Astraを発表しました。 公式サイトでは、GPT-6 AstraがBlenderで建物をモデリングし、Unreal Engine 5で内部を歩き回れるシーンを制
-The post GPT-6 Astraで東京タワー・住宅・ヘッドホンを3Dモデル化してBlenderで表示してみました first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
-        <author>
-            <name>modelinghappy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TerreSculptor 4.8 | GeoTIFF自動モザイクやEXR入出力 メッシュの最適化に対応した地形制作ソフト！]]></title>
-        <id>https://3dnchu.com/?p=1068116</id>
-        <link href="https://3dnchu.com/archives/terresculptor-4-8/"/>
-        <updated>2026-09-05T02:17:52.000Z</updated>
-        <summary type="html"><![CDATA[Demenzun Mediaが地形制作ソフト「TerreSculptor 4.8」をリリース！GeoTIFFの自動モザイク化やEXR入出力 メッシュ最適化 Flat Detailなどが追加されています。 TerreSculptor 4.8 Demenzun MediaによるWindows向け地形制作 […]
-続きを読む]]></summary>
-        <author>
-            <name>Ymt3D -3dnchu-</name>
         </author>
     </entry>
 </feed>

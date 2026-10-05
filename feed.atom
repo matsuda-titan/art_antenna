@@ -2,10 +2,68 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-10-05T02:58:45.168Z</updated>
+    <updated>2026-10-05T09:58:22.429Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[手元の .blend を Claude.ai や ChatGPT から、何も入れずにレンダリングする]]></title>
+        <id>https://zenn.dev/renderjanction/articles/ba83bb636977f4</id>
+        <link href="https://zenn.dev/renderjanction/articles/ba83bb636977f4"/>
+        <updated>2026-10-05T09:03:19.000Z</updated>
+        <summary type="html"><![CDATA[公式: https://render.janction.jp
+JANCTION Render は、AI エージェントが MCP サーバーか HTTP API として呼べる、Blender のクラウド GPU レンダーファームです。この記事は、今週ふさいだ穴を 1 つだけ書きます。ブラウザの中で動いている AI に、手元の .blend をどう渡すか、です。
+
+ 困っていたこと
+Claude.ai や ChatGPT は、JANCTION Render をリモートの MCP サーバーとしてつなぎます。AI が自分で書いた bpy スクリプトや、すでに https の URL があるファイル...]]></summary>
+        <author>
+            <name>render.janction.jp</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nyanneco UV SeamBridge Directional Blur マニュアル]]></title>
+        <id>https://note.com/nyanneco/n/nf61c5f8c23af</id>
+        <link href="https://note.com/nyanneco/n/nf61c5f8c23af"/>
+        <updated>2026-10-05T08:28:56.000Z</updated>
+        <summary type="html"><![CDATA[Nyanneco UV SeamBridge Directional Blur
+Nyanneco UV SeamBridge Directional Blurは、UVシームをまたいで方向性のあるぼかしをかけるSubstance 3D Painter用フィルターです。グレースケールマスクに使用します。
+続きをみる]]></summary>
+        <author>
+            <name>#substancepainterタグ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sketchfabマンスリーピックアップ 2026年10月号]]></title>
+        <id>https://cginterest.com/?p=62927</id>
+        <link href="https://cginterest.com/2026/10/05/sketchfab%e3%83%9e%e3%83%b3%e3%82%b9%e3%83%aa%e3%83%bc%e3%83%94%e3%83%83%e3%82%af%e3%82%a2%e3%83%83%e3%83%97-2026%e5%b9%b410%e6%9c%88%e5%8f%b7/"/>
+        <updated>2026-10-05T07:17:43.000Z</updated>
+        <summary type="html"><![CDATA[先月Sketchfabに投稿されたモデルを勝手にピックアップ(2026年10月5日調べ) するコーナーです。人気のある3Dモデルを中心に独断と偏見で選んでおります！ 通常のピックアップとは別に、無料でダウンロードできる3 […]]]></summary>
+        <author>
+            <name>.me</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nyanneco UV SeamBridge Blur 使い方]]></title>
+        <id>https://note.com/nyanneco/n/n850436d80d12</id>
+        <link href="https://note.com/nyanneco/n/n850436d80d12"/>
+        <updated>2026-10-05T06:00:35.000Z</updated>
+        <summary type="html"><![CDATA[Substance Painter用 UVシームを跨いでぼかせるフィルター 「Nyanneco UV SeamBridge Blur」
+Nyanneco UV SeamBridge Blurは、Substance 3D Painterでマスクをぼかすためのフィルターです。
+続きをみる]]></summary>
+        <author>
+            <name>#substancepainterタグ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【全3回・第1回】『攻殻機動隊 THE GHOST IN THE SHELL』モコちゃん監督が語る、原作をアニメへ「翻訳」する挑戦 - 特集]]></title>
+        <id>https://cgworld.jp/article/202610-koukaku-1.html</id>
+        <link href="https://cgworld.jp/article/202610-koukaku-1.html"/>
+        <updated>2026-10-05T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[▲12月23日（水）発売｜アニメ『攻殻機動隊 THE GHOST IN THE...]]></summary>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【アセット紹介】Moss – オブジェクト表面にリアルな苔をプロシージャル生成できるジェネレーター！]]></title>
         <id>https://cgbox.jp/?p=65773</id>
@@ -4582,19 +4640,6 @@ Surface Reconstructionによって点群から3次...]]></summary>
         <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
         <author>
             <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[夜明け]]></title>
-        <id>https://note.com/ohayo_modeler/n/n692fd3a4d618</id>
-        <link href="https://note.com/ohayo_modeler/n/n692fd3a4d618"/>
-        <updated>2026-09-05T19:17:18.000Z</updated>
-        <summary type="html"><![CDATA[私はこの半年間、AIに没頭した。
-主要なAIは使い倒した。
-もちろん今も使っている。
-続きをみる]]></summary>
-        <author>
-            <name>#Houdiniタグ</name>
         </author>
     </entry>
 </feed>

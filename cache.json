@@ -1277,6 +1277,16 @@
       "siteUrl": "https://cgworld.jp/",
       "articles": [
         {
+          "id": "https://cgworld.jp/article/202610-koukaku-1.html",
+          "author": null,
+          "description": "▲12月23日（水）発売｜アニメ『攻殻機動隊 THE GHOST IN THE...",
+          "link": "https://cgworld.jp/article/202610-koukaku-1.html",
+          "publishedOn": "2026-10-05T06:00:00.000Z",
+          "wordCount": 832,
+          "title": "【全3回・第1回】『攻殻機動隊 THE GHOST IN THE SHELL』モコちゃん監督が語る、原作をアニメへ「翻訳」する挑戦 - 特集",
+          "imageUrl": "https://cgworld.jp/article/assets_c/2026/09/202610-koukaku_a1-thumb-1000x563-88979.jpg"
+        },
+        {
           "id": "https://cgworld.jp/flashnews/02-2610-afantasia.html",
           "author": null,
           "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
@@ -3044,6 +3054,21 @@
       "siteUrl": "https://zenn.dev/topics/3dcg",
       "articles": [
         {
+          "id": "https://zenn.dev/renderjanction/articles/ba83bb636977f4",
+          "author": "render.janction.jp",
+          "description": "公式: https://render.janction.jp\nJANCTION Render は、AI エージェントが MCP サーバーか HTTP API として呼べる、Blender のクラウド GPU レンダーファームです。この記事は、今週ふさいだ穴を 1 つだけ書きます。ブラウザの中で動いている AI に、手元の .blend をどう渡すか、です。\n\n 困っていたこと\nClaude.ai や ChatGPT は、JANCTION Render をリモートの MCP サーバーとしてつなぎます。AI が自分で書いた bpy スクリプトや、すでに https の URL があるファイル...",
+          "link": "https://zenn.dev/renderjanction/articles/ba83bb636977f4",
+          "publishedOn": "2026-10-05T09:03:19.000Z",
+          "wordCount": 687,
+          "title": "手元の .blend を Claude.ai や ChatGPT から、何も入れずにレンダリングする",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--NM4a-YOJ--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E6%2589%258B%25E5%2585%2583%25E3%2581%25AE%2520.blend%2520%25E3%2582%2592%2520Claude.ai%2520%25E3%2582%2584%2520ChatGPT%2520%25E3%2581%258B%25E3%2582%2589%25E3%2580%2581%25E4%25BD%2595%25E3%2582%2582%25E5%2585%25A5%25E3%2582%258C%25E3%2581%259A%25E3%2581%25AB%25E3%2583%25AC%25E3%2583%25B3%25E3%2583%2580%25E3%2583%25AA%25E3%2583%25B3%25E3%2582%25B0%25E3%2581%2599%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:render.janction.jp%2Cx_90%2Cy_121/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+            "length": "0",
+            "type": "false"
+          },
+          "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--NM4a-YOJ--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E6%2589%258B%25E5%2585%2583%25E3%2581%25AE%2520.blend%2520%25E3%2582%2592%2520Claude.ai%2520%25E3%2582%2584%2520ChatGPT%2520%25E3%2581%258B%25E3%2582%2589%25E3%2580%2581%25E4%25BD%2595%25E3%2582%2582%25E5%2585%25A5%25E3%2582%258C%25E3%2581%259A%25E3%2581%25AB%25E3%2583%25AC%25E3%2583%25B3%25E3%2583%2580%25E3%2583%25AA%25E3%2583%25B3%25E3%2582%25B0%25E3%2581%2599%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:render.janction.jp%2Cx_90%2Cy_121/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+        },
+        {
           "id": "https://zenn.dev/s_hashida/articles/095a23f585b10c",
           "author": "s_hashida",
           "description": "はじめに\n前回は、\n\n誤差伝播とは何か\n微分と誤差伝播の関係\n複数の入力に誤差がある場合\nJacobianとは何か\nフォトグラメトリにおける誤差伝播\n\nについて説明しました。\n\nその中で重要だったのが、\n\n\\Delta\\mathbf{y}\n\\approx\nJ\\Delta\\mathbf{x}\n\nという関係です。\nこれは、\n入力側の小さな誤差が、Jacobianによって出力側へどのように伝わるのか\nを表しています。\n\nしかし、この式で考えている、\n\n\\Delta\\mathbf{x}\n\nは、ある1回の誤差です。\n実際の観測誤差は、毎回同じ値になるわけではありません。\n例えば画像上で同じ点...",
@@ -4118,16 +4143,6 @@
           "wordCount": 3557,
           "title": "可視性カリング - スキャッタリング最適化",
           "imageUrl": "https://assets.st-note.com/production/uploads/images/312924895/rectangle_large_type_2_31db12fffc24d85e0ce8217ab84eb205.png?width=800"
-        },
-        {
-          "id": "https://note.com/ohayo_modeler/n/n692fd3a4d618",
-          "author": null,
-          "description": "私はこの半年間、AIに没頭した。\n主要なAIは使い倒した。\nもちろん今も使っている。\n続きをみる",
-          "link": "https://note.com/ohayo_modeler/n/n692fd3a4d618",
-          "publishedOn": "2026-09-05T19:17:18.000Z",
-          "wordCount": 2418,
-          "title": "夜明け",
-          "imageUrl": "https://d2l930y2yx77uc.cloudfront.net/production/social_images/241ea5bdce47a166a81e4da30f8e6f6519136145.png"
         }
       ]
     },
@@ -4233,6 +4248,26 @@
       "feedUrl": "https://note.com/hashtag/substancepainter/rss",
       "siteUrl": "https://note.com/hashtag/substancepainter",
       "articles": [
+        {
+          "id": "https://note.com/nyanneco/n/nf61c5f8c23af",
+          "author": null,
+          "description": "Nyanneco UV SeamBridge Directional Blur\nNyanneco UV SeamBridge Directional Blurは、UVシームをまたいで方向性のあるぼかしをかけるSubstance 3D Painter用フィルターです。グレースケールマスクに使用します。\n続きをみる",
+          "link": "https://note.com/nyanneco/n/nf61c5f8c23af",
+          "publishedOn": "2026-10-05T08:28:56.000Z",
+          "wordCount": 1823,
+          "title": "Nyanneco UV SeamBridge Directional Blur マニュアル",
+          "imageUrl": "https://assets.st-note.com/production/uploads/images/321075039/rectangle_large_type_2_02023932744474cc309c356679849709.png?width=800"
+        },
+        {
+          "id": "https://note.com/nyanneco/n/n850436d80d12",
+          "author": null,
+          "description": "Substance Painter用 UVシームを跨いでぼかせるフィルター 「Nyanneco UV SeamBridge Blur」\nNyanneco UV SeamBridge Blurは、Substance 3D Painterでマスクをぼかすためのフィルターです。\n続きをみる",
+          "link": "https://note.com/nyanneco/n/n850436d80d12",
+          "publishedOn": "2026-10-05T06:00:35.000Z",
+          "wordCount": 1117,
+          "title": "Nyanneco UV SeamBridge Blur 使い方",
+          "imageUrl": "https://assets.st-note.com/production/uploads/images/321027177/rectangle_large_type_2_0c373857c306c924e5849baeefb2a3db.png?width=800"
+        },
         {
           "id": "https://note.com/nyanneco/n/nc22245296f0b",
           "author": null,
@@ -4353,6 +4388,16 @@
       "feedUrl": "https://cginterest.com/feed/",
       "siteUrl": "https://cginterest.com",
       "articles": [
+        {
+          "id": "https://cginterest.com/?p=62927",
+          "author": ".me",
+          "description": "先月Sketchfabに投稿されたモデルを勝手にピックアップ(2026年10月5日調べ) するコーナーです。人気のある3Dモデルを中心に独断と偏見で選んでおります！ 通常のピックアップとは別に、無料でダウンロードできる3 […]",
+          "link": "https://cginterest.com/2026/10/05/sketchfab%e3%83%9e%e3%83%b3%e3%82%b9%e3%83%aa%e3%83%bc%e3%83%94%e3%83%83%e3%82%af%e3%82%a2%e3%83%83%e3%83%97-2026%e5%b9%b410%e6%9c%88%e5%8f%b7/",
+          "publishedOn": "2026-10-05T07:17:43.000Z",
+          "wordCount": 1238,
+          "title": "Sketchfabマンスリーピックアップ 2026年10月号",
+          "imageUrl": "https://cginterest.com/wp-content/uploads/2026/10/sketchfabmontlypickup2026-10.webp"
+        },
         {
           "id": "https://cginterest.com/?p=62908",
           "author": ".me",

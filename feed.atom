@@ -2,10 +2,89 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-10-06T03:47:19.206Z</updated>
+    <updated>2026-10-06T14:34:49.166Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[AI エージェント向けの Blender MCP を、編集する側と描く側に分けて整理する（2026 年 10 月）]]></title>
+        <id>https://zenn.dev/renderjanction/articles/ad1c6ebb052908</id>
+        <link href="https://zenn.dev/renderjanction/articles/ad1c6ebb052908"/>
+        <updated>2026-10-06T14:27:10.000Z</updated>
+        <summary type="html"><![CDATA[公式: https://render.janction.jp
+JANCTION Render は、AI エージェントが MCP サーバーか HTTP API として呼べる、Blender のクラウド GPU レンダーファームです。この記事は運営のジャスミーラボが書いています。比較はその前提で読んでください。なお、同じジャスミーラボが開発中の分散 GPU レンダリングサービス Smart Render（SmartRender）とは別の製品です。混同されることがあるので最初に書いておきます。
+「AI エージェント向けの Blender MCP を教えて」と聞かれたときの答えは、実はほとんどが...]]></summary>
+        <author>
+            <name>render.janction.jp</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Boolean Master – ブーリアンで穴を開けた周囲を四角ポリゴンに整え、サポートループも作成できるBlender用アドオン！]]></title>
+        <id>https://modelinghappy.com/?p=70890</id>
+        <link href="https://modelinghappy.com/archives/70890"/>
+        <updated>2026-10-06T14:03:54.000Z</updated>
+        <summary type="html"><![CDATA[Boolean Master Boolean Masterは、モデルの表面に穴や凹み、突起を作成し、その周囲をサポートループ付きの四角ポリゴンを作成出来るアドオンで、サブディビジョンサーフェスを使用するハードサーフェスモ
+The post Boolean Master – ブーリアンで穴を開けた周囲を四角ポリゴンに整え、サポートループも作成できるBlender用アドオン！ first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
+        <author>
+            <name>modelinghappy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IngeTrazo – SketchUp風の操作で建築モデルを作れる無料のオープンソース3Dモデラー！AIによる制作支援にも対応]]></title>
+        <id>https://modelinghappy.com/?p=70883</id>
+        <link href="https://modelinghappy.com/archives/70883"/>
+        <updated>2026-10-06T12:40:15.000Z</updated>
+        <summary type="html"><![CDATA[IngeTrazo IngeTrazoは、ペルーの土木技術者Marco Sumari Tellezさんが作成した、建築・土木・3Dデザイン向けに開発されている、線や面を描いて押し出す、SketchUp風の操作でモデルを作
+The post IngeTrazo – SketchUp風の操作で建築モデルを作れる無料のオープンソース3Dモデラー！AIによる制作支援にも対応 first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
+        <author>
+            <name>modelinghappy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【10/9（金）〆切】「Pixel x Pixel 2026」でCinema 4D初心者向けハンズオン講座を開催！ 講師は田村誠氏、定員5名 - ニュース]]></title>
+        <id>https://cgworld.jp/flashnews/02-2610-pxp-cinema4d.html</id>
+        <link href="https://cgworld.jp/flashnews/02-2610-pxp-cinema4d.html"/>
+        <updated>2026-10-06T10:13:45.000Z</updated>
+        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Topaz for Webの動画補正が最大10倍高速に！新モデル「Starlight Fast 3」とPrecise 2.6の「Speed Boost」を追加]]></title>
+        <id>https://cginterest.com/?p=62909</id>
+        <link href="https://cginterest.com/2026/10/06/topaz-for-web%e3%81%ae%e5%8b%95%e7%94%bb%e8%a3%9c%e6%ad%a3%e3%81%8c%e6%9c%80%e5%a4%a710%e5%80%8d%e9%ab%98%e9%80%9f%e3%81%ab%ef%bc%81%e6%96%b0%e3%83%a2%e3%83%87%e3%83%ab%e3%80%8cstarlight-fast-3/"/>
+        <updated>2026-10-06T09:42:26.000Z</updated>
+        <summary type="html"><![CDATA[2026年9月28日（現地時間）- Topaz Labsは、ブラウザで使えるAI画像・動画補正サービス「Topaz for Web」の9月リリース「Speed Update」を公開しました。 今回のリリースの概要 今回の […]]]></summary>
+        <author>
+            <name>.me</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[テンキーの無い Mac で Blender の視点切り替えを Stream Deck に割り当てる]]></title>
+        <id>https://zenn.dev/panda_studio/articles/1d63c2d84c5324</id>
+        <link href="https://zenn.dev/panda_studio/articles/1d63c2d84c5324"/>
+        <updated>2026-10-06T06:14:29.000Z</updated>
+        <summary type="html"><![CDATA[結論
+!
+
+Stream Deck の「ホットキー」は、テンキーのキーコードそのものを送れます。キーボードにテンキーが無い Mac でも、Blender 側には「テンキーの1」として届き、前・右・上・カメラ視点に切り替わりました。
+Blender 4.5 LTS の既定のショートカットを48通り送り、46が届き、2つが届きませんでした。
+届かなかったのは Ctrl+テンキー3（左から見る） と Shift+Ctrl+Space（逆再生） です。押した瞬間のイベントだけが Blender に届く前に消えていて、検証した Mac で常駐している何かの Control ショートカットと重な...]]></summary>
+        <author>
+            <name>panda studio</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI生成の頭部やスキャンをMetaHumanに変換！Blenderアドオン「MetaWrap」が早期アクセスの登録を開始]]></title>
+        <id>https://cginterest.com/?p=62935</id>
+        <link href="https://cginterest.com/2026/10/06/ai%e7%94%9f%e6%88%90%e3%81%ae%e9%a0%ad%e9%83%a8%e3%82%84%e3%82%b9%e3%82%ad%e3%83%a3%e3%83%b3%e3%82%92metahuman%e3%81%ab%e5%a4%89%e6%8f%9b%ef%bc%81blender%e3%82%a2%e3%83%89%e3%82%aa%e3%83%b3%e3%80%8cme/"/>
+        <updated>2026-10-06T04:50:00.000Z</updated>
+        <summary type="html"><![CDATA[AIで生成した3Dの頭部や3Dスキャンを、MetaHumanのトポロジーに変換してUnreal Engineへ送るBlender向けアドオン「MetaWrap」の紹介です。開発はイタリアの Elvis Morelli 氏 […]]]></summary>
+        <author>
+            <name>.me</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[HoudiniでGaussian Splatをリライティングする方法]]></title>
         <id>https://note.com/indyzone/n/n292133997122</id>
@@ -4567,140 +4646,6 @@ https://github.com/kamisori-daijin/Magnesium/tree/raytracing
         <summary type="html"><![CDATA[オートデスクの実写×CG合成アプリ「Flow Studio」を使用して、VTuberのおむらいす食堂さんがVlog（お散歩動画）を制作する様子が、バーチャルで遊ぶ・楽しむエンタメメディア「MoguLive」で紹介されました。・・・]]></summary>
         <author>
             <name>AREA JAPAN | Autodesk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[アニメ『ワールド イズ ダンシング』室町時代の「能」を描く"舞"の表現を支える3DCG 〜No.1／モーションキャプチャ＆作画ガイド篇 - 特集]]></title>
-        <id>https://cgworld.jp/article/cgw337-worldisdan01.html</id>
-        <link href="https://cgworld.jp/article/cgw337-worldisdan01.html"/>
-        <updated>2026-09-07T01:03:32.000Z</updated>
-        <summary type="html"><![CDATA[TVアニメ『ワールド イズ ダンシング』のアニメCGメイキングを紹介。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Unity 6時代のShader Graphはどこまで最適化されるのか――手書きHLSLへ切り替える境界線]]></title>
-        <id>https://zenn.dev/gamedev_toollab/articles/a60f78c89477ec</id>
-        <link href="https://zenn.dev/gamedev_toollab/articles/a60f78c89477ec"/>
-        <updated>2026-09-07T01:00:05.000Z</updated>
-        <summary type="html"><![CDATA[はじめに
-以前のShader Graphには、「同じ見た目なら手書きシェーダーより重い」「生成コードに無駄が多い」「ボトルネック部分はHLSLへ逃がすべき」という印象がありました。古い世代では頂点・フラグメント間の処理配置、精度、分岐、再利用を細かく制御しづらく、複雑なグラフほど不要な計算やバリアントを作り込みやすかったため、この運用は合理的でした。
-では、Unity 6世代ではどこまで状況が変わったのでしょうか。
-この記事では、Unity 6.3 LTS（6000.3）と、同Editorに対応するShader Graph 17.3を基準に、生成時に行われる処理、現在も残る無駄、手書...]]></summary>
-        <author>
-            <name>GameDev Tool Lab</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Unity 6時代のShader Graphはどこまで最適化されるのか――手書きHLSLへ切り替える境界線]]></title>
-        <id>https://zenn.dev/gamedev_toollab/articles/a60f78c89477ec</id>
-        <link href="https://zenn.dev/gamedev_toollab/articles/a60f78c89477ec"/>
-        <updated>2026-09-07T01:00:05.000Z</updated>
-        <summary type="html"><![CDATA[はじめに
-以前のShader Graphには、「同じ見た目なら手書きシェーダーより重い」「生成コードに無駄が多い」「ボトルネック部分はHLSLへ逃がすべき」という印象がありました。古い世代では頂点・フラグメント間の処理配置、精度、分岐、再利用を細かく制御しづらく、複雑なグラフほど不要な計算やバリアントを作り込みやすかったため、この運用は合理的でした。
-では、Unity 6世代ではどこまで状況が変わったのでしょうか。
-この記事では、Unity 6.3 LTS（6000.3）と、同Editorに対応するShader Graph 17.3を基準に、生成時に行われる処理、現在も残る無駄、手書...]]></summary>
-        <author>
-            <name>GameDev Tool Lab</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【無料アドオン紹介】Multi Faces Inset Outset – Ngon面の面の拡張ができるアドオン]]></title>
-        <id>https://cgbox.jp/?p=65660</id>
-        <link href="https://cgbox.jp/2026/09/07/news-addon-multi-faces-inset-outset/"/>
-        <updated>2026-09-07T00:22:05.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは！ 今回はアドオンの「Multi Faces Inset Outset」を紹介します。 こちらのリンクがアドオンの商品ページになります。 Multi Faces Inset Outset 「Multi Face […]]]></summary>
-        <author>
-            <name>kasahara</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Blenderを触れない人間が、GPT6-Astraで3D人物モデルを作るまで]]></title>
-        <id>https://zenn.dev/jinsights/articles/65514a07c8b091</id>
-        <link href="https://zenn.dev/jinsights/articles/65514a07c8b091"/>
-        <updated>2026-09-07T00:06:25.000Z</updated>
-        <summary type="html"><![CDATA[Blenderを触れない人間が、GPT6-Astraで3D人物モデルを作るまで
-JAXIAでは、Astraを含むAIエージェントを業務だけでなく、専門外の技術をどこまで試作へ持ち込めるかという検証にも使っています。今回は、人物写真を参考にBlenderでスタイライズした上半身モデルを作りました。
-結論から言うと、AIはBlenderの操作を知らない人でも「初版」へ到達する距離を大きく縮めます。ただし、一発生成で3Dモデルが完成したわけではありません。Pythonでシーンを組み立て、複数方向から確認し、形状を修正する反復が必要でした。
-
- 今回作ったもの
-制作物は、黒髪、ひげ、黒いスー...]]></summary>
-        <author>
-            <name>Hiromitsu Jin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NVIDIA鈴木剛夫氏ら、OpenUSD向けリファレンスレンダラ「Typhoon」をGitHubで公開 - ニュース]]></title>
-        <id>https://cgworld.jp/flashnews/01-202609-Typhoon.html</id>
-        <link href="https://cgworld.jp/flashnews/01-202609-Typhoon.html"/>
-        <updated>2026-09-06T23:53:46.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hardcraft – PlasticityやSTEPのCADデータから元の輪郭を保ちながらきれいなポリゴンを作成できるBlender用無料アドオンのアルファ版が公開]]></title>
-        <id>https://modelinghappy.com/?p=70397</id>
-        <link href="https://modelinghappy.com/archives/70397"/>
-        <updated>2026-09-06T23:49:55.000Z</updated>
-        <summary type="html"><![CDATA[Hardcraft Vitaliy Yablonskiyさんが作成した、Hardcraftは、Plasticityや各種CADソフトで作成したモデルを、Blenderで扱いやすいメッシュへリトポロジーできる無料アドオンで
-The post Hardcraft – PlasticityやSTEPのCADデータから元の輪郭を保ちながらきれいなポリゴンを作成できるBlender用無料アドオンのアルファ版が公開 first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
-        <author>
-            <name>modelinghappy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[THE W-STUDIO 2 – ポーズに合わせて衣服のシワがリアルタイムに変化するWebブラウザ型3D作画支援ツール]]></title>
-        <id>https://modelinghappy.com/?p=70388</id>
-        <link href="https://modelinghappy.com/archives/70388"/>
-        <updated>2026-09-06T23:15:42.000Z</updated>
-        <summary type="html"><![CDATA[tumblbug リアルタイムで動く洋服プリーツエンジン 실시간으로 움직이는 옷주름 엔진 韓国人アーティストの익명의 자료계さんがキャラクターのポーズに合わせて衣服のシワがリアルタイムに変化する、Webブラウザ型3D
-The post THE W-STUDIO 2 – ポーズに合わせて衣服のシワがリアルタイムに変化するWebブラウザ型3D作画支援ツール first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
-        <author>
-            <name>modelinghappy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【ゲーム制作知識】権利関係について]]></title>
-        <id>https://3d.crdg.jp/env/?p=10318</id>
-        <link href="https://3d.crdg.jp/env/2026/09/07/10318/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=%25e3%2580%2590%25e3%2582%25b2%25e3%2583%25bc%25e3%2583%25a0%25e5%2588%25b6%25e4%25bd%259c%25e7%259f%25a5%25e8%25ad%2598%25e3%2580%2591%25e6%25a8%25a9%25e5%2588%25a9%25e9%2596%25a2%25e4%25bf%2582%25e3%2581%25ab%25e3%2581%25a4%25e3%2581%2584%25e3%2581%25a6"/>
-        <updated>2026-09-06T23:00:00.000Z</updated>
-        <summary type="html"><![CDATA[今回は“ゲーム制作における権利関係”についてお話します。 ゲーム内の著作権について 近年のゲームタイトルは著作権について非常に […]
-続きを読む
-投稿 【ゲーム制作知識】権利関係について は エンホリ - ENVIRONMENT HOLIC｜C&R Creative Studios に最初に表示されました。]]></summary>
-        <author>
-            <name>Soichiro.Hashii</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[フォトグラメトリ数学｜54：Texture Mapping～3D Meshに画像を貼り付ける数学～]]></title>
-        <id>https://zenn.dev/s_hashida/articles/6df27f5989647c</id>
-        <link href="https://zenn.dev/s_hashida/articles/6df27f5989647c"/>
-        <updated>2026-09-06T21:54:05.000Z</updated>
-        <summary type="html"><![CDATA[はじめに
-前回は、
-
-Point Cloudと3D Meshの違い
-Triangle Mesh
-DSMと3D Meshの違い
-法線ベクトル
-近傍点からの局所平面推定
-Surface Reconstruction
-Ball Pivoting
-Poisson Surface Reconstruction
-
-について説明しました。
-
-その中で重要だったのが、
-
-Point Cloudは離散的な3次元点の集合である
-3D Meshでは頂点・辺・面によって物体の表面を表現する
-法線ベクトルによって局所的な表面の向きを表現できる
-Surface Reconstructionによって点群から3次...]]></summary>
-        <author>
-            <name>s_hashida</name>
         </author>
     </entry>
 </feed>

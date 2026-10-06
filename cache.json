@@ -12,6 +12,21 @@
       "siteUrl": "https://cgbox.jp",
       "articles": [
         {
+          "id": "https://cgbox.jp/?p=65782",
+          "author": "kasahara",
+          "description": "こんばんは！ 今回はアドオンの「Clone Brush」を紹介します。 こちらのリンクがアドオンの商品ページになります。 Clone Brush 「Clone Brush」は、スカルプトした表面の凹凸やディテールをキャプ […]",
+          "link": "https://cgbox.jp/2026/10/06/news-addon-clone-brush/",
+          "publishedOn": "2026-10-06T02:16:54.000Z",
+          "wordCount": 2034,
+          "title": "【アドオン紹介】Clone Brush – スカルプトの表面ディテールを別の場所へ複製できるBlenderアドオン！",
+          "enclosure": {
+            "url": "https://cgbox.jp/wp-content/uploads/2026/10/popupslide-edit-27.mp4",
+            "length": "0",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://cgbox.jp/wp-content/uploads/2026/10/image_processing20261005-2-fzi142.webp"
+        },
+        {
           "id": "https://cgbox.jp/?p=65773",
           "author": "kasahara",
           "description": "こんばんは！ 今回はアドオンの「Moss」を紹介します。 こちらのリンクがアドオンの商品ページになります。 Moss 「Moss」は、Shake Node To Disconnectは、ノードを左右に素早く振るだけで、接 […]",
@@ -340,21 +355,6 @@
             "type": "video/mp4"
           },
           "imageUrl": "https://cgbox.jp/wp-content/uploads/2026/09/MFIO-1-1.webp"
-        },
-        {
-          "id": "https://cgbox.jp/?p=65655",
-          "author": "kasahara",
-          "description": "こんばんは！ 今回はアドオンの「Cveld Shellfit」を紹介します。 こちらのリンクがアドオンの商品ページになります。 Cveld Shellfit 「cvELD Shell Fit」は、Blenderで体と衣装 […]",
-          "link": "https://cgbox.jp/2026/09/06/news-addon-cveld-shellfit/",
-          "publishedOn": "2026-09-06T01:35:09.000Z",
-          "wordCount": 2003,
-          "title": "【アドオン紹介】Cveld Shellfit – 服を体にフィットさせられるアドオン",
-          "enclosure": {
-            "url": "https://cgbox.jp/wp-content/uploads/2026/09/Bedclick-edit-2.mp4",
-            "length": "0",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://cgbox.jp/wp-content/uploads/2026/09/image_processing20260904-2-nu6ksq.webp"
         }
       ]
     },
@@ -369,6 +369,51 @@
       "feedUrl": "https://3dnchu.com/feed/",
       "siteUrl": "https://3dnchu.com",
       "articles": [
+        {
+          "id": "https://3dnchu.com/?p=1069006",
+          "author": "Ymt3D -3dnchu-",
+          "description": "ArtCraftチームによる、画像編集・ベクターイラスト・動画編集・写真管理／RAW現像・PDF・モーショングラフィックス・ページレイアウトを扱う、7つの無料オープンソースアプリ「Crafting Apps」が公開されています。",
+          "link": "https://3dnchu.com/archives/crafting-apps/",
+          "publishedOn": "2026-10-05T14:46:24.000Z",
+          "wordCount": 8855,
+          "title": "Crafting Apps | 画像編集から動画制作まで！Adobeライクな操作感を目指す7つの分野をカバーしたRust製の無料オープンソースアプリ群が公開！Windows＆macOS＆Linux",
+          "enclosure": {
+            "url": "https://3dnchu.com/wp-content/uploads/Crafting-Apps.webp",
+            "length": "608470",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://3dnchu.com/wp-content/uploads/Crafting-Apps.webp"
+        },
+        {
+          "id": "https://3dnchu.com/?p=1068997",
+          "author": "Ymt3D -3dnchu-",
+          "description": "まめたろー氏（ @mametaro_vv ）による、3Dモデルのテクスチャやマテリアルを制作できるWindows向けソフト「HarmoFlow」が公開されています。3D・UVペイントに加え、質感編集やレイヤー付きPSD出力に対応。無料体験版も用意されています。",
+          "link": "https://3dnchu.com/archives/harmoflow/",
+          "publishedOn": "2026-10-05T13:17:13.000Z",
+          "wordCount": 7625,
+          "title": "HarmoFlow | PBRとNPRに対応し直感的に3Dモデルにテクスチャペイントが可能なソフトが登場！頻繁にアップデート中！Windows！",
+          "enclosure": {
+            "url": "https://3dnchu.com/wp-content/uploads/HarmoFlow-.webp",
+            "length": "1055422",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://3dnchu.com/wp-content/uploads/HarmoFlow-.webp"
+        },
+        {
+          "id": "https://3dnchu.com/?p=1068984",
+          "author": "Ymt3D -3dnchu-",
+          "description": "YoluPainter v0.3.0 | AOベイクやグラデーション デカール lilToonに近いプレビューを備えた無料＆オープンソースの3Dペイントソフトが公開！",
+          "link": "https://3dnchu.com/archives/yolupainter-v0-3-0/",
+          "publishedOn": "2026-10-05T12:32:58.000Z",
+          "wordCount": 7619,
+          "title": "YoluPainter v0.3.0 | PSDやブラシ読み込み！ベイクやグラデーション＆デカール！lilToonに近いプレビューを備えた無料＆オープンソースの3Dペイントソフトが公開！",
+          "enclosure": {
+            "url": "https://3dnchu.com/wp-content/uploads/YoluPainter.mp4",
+            "length": "9207625",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://3dnchu.com/wp-content/uploads/YoluPainter.webp"
+        },
         {
           "id": "https://3dnchu.com/?p=1068954",
           "author": "Ymt3D -3dnchu-",
@@ -1277,6 +1322,36 @@
       "siteUrl": "https://cgworld.jp/",
       "articles": [
         {
+          "id": "https://cgworld.jp/flashnews/02-2610-cgpm.html",
+          "author": null,
+          "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
+          "link": "https://cgworld.jp/flashnews/02-2610-cgpm.html",
+          "publishedOn": "2026-10-06T00:55:48.000Z",
+          "wordCount": 698,
+          "title": "【デジタルスケープ登録者限定】CG制作進行・PM職向け対談セミナーを11/14（土）に東京で開催。十十、カーキ、KASSENの3社が登壇。 - ニュース",
+          "imageUrl": "https://cgworld.jp/flashnews/assets_c/2026/10/pmbanner_full-%281%29-thumb-1000x563-89472.jpg"
+        },
+        {
+          "id": "https://cgworld.jp/article/202610-koukaku-2.html",
+          "author": null,
+          "description": "関連記事 ・【全3回・第1回】『攻殻機動隊 THE GHOST IN THE ...",
+          "link": "https://cgworld.jp/article/202610-koukaku-2.html",
+          "publishedOn": "2026-10-06T00:00:00.000Z",
+          "wordCount": 794,
+          "title": "【全3回・第2回】『攻殻機動隊 THE GHOST IN THE SHELL』「3Dすげえ！」と思える画へ。モコちゃん監督が探る3DCGの可能性 - 特集",
+          "imageUrl": "https://cgworld.jp/article/assets_c/2026/09/202610-koukaku_b1-thumb-1000x563-88980.jpg"
+        },
+        {
+          "id": "https://cgworld.jp/flashnews/01-202610-Unity-Claude.html",
+          "author": null,
+          "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
+          "link": "https://cgworld.jp/flashnews/01-202610-Unity-Claude.html",
+          "publishedOn": "2026-10-05T23:58:21.000Z",
+          "wordCount": 756,
+          "title": "Unity、Claude CodeとOpenAI Codex向け公式プラグインをリリース　多数のネイティブスキル搭載、高度なエディター制御を実現 - ニュース",
+          "imageUrl": "https://cgworld.jp/flashnews/assets_c/2026/10/Unity_Claude-01-thumb-1920x1080-89556.jpg"
+        },
+        {
           "id": "https://cgworld.jp/article/202610-koukaku-1.html",
           "author": null,
           "description": "▲12月23日（水）発売｜アニメ『攻殻機動隊 THE GHOST IN THE...",
@@ -2125,16 +2200,6 @@
           "wordCount": 755,
           "title": "NVIDIA鈴木剛夫氏ら、OpenUSD向けリファレンスレンダラ「Typhoon」をGitHubで公開 - ニュース",
           "imageUrl": "https://cgworld.jp/flashnews/assets_c/2026/09/Typhoon-01-thumb-1920x1080-88550.jpg"
-        },
-        {
-          "id": "https://cgworld.jp/flashnews/01-202609-MoArt.html",
-          "author": null,
-          "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
-          "link": "https://cgworld.jp/flashnews/01-202609-MoArt.html",
-          "publishedOn": "2026-09-05T23:19:51.000Z",
-          "wordCount": 736,
-          "title": "もああん氏、Webブラウザで動く無料の原画・絵コンテツール「MoArt」をテスト公開　タイムシート作業に特化、クリスタのデータインポートにも対応 - ニュース",
-          "imageUrl": "https://cgworld.jp/flashnews/assets_c/2026/09/MoArt-01-thumb-1920x1066-88511.jpg"
         }
       ]
     },
@@ -2178,6 +2243,16 @@
       "feedUrl": "https://modelinghappy.com/feed",
       "siteUrl": "https://modelinghappy.com",
       "articles": [
+        {
+          "id": "https://modelinghappy.com/?p=70867",
+          "author": "modelinghappy",
+          "description": "Crafting Apps クリエイター向けのオープンソースツールを手がけるArtCraftチームが、Photoshop、Illustrator、Premiere Pro、Lightroom、Acrobat、After\nThe post ArtCraft – PhotoshopやIllustratorのような画像編集・ベクター制作から動画編集・VFXまで！7種類のオープンソース制作アプリが無料公開！ first appeared on 3DCG最新情報サイト MODELING HAPPY.",
+          "link": "https://modelinghappy.com/archives/70867",
+          "publishedOn": "2026-10-05T10:43:23.000Z",
+          "wordCount": 4460,
+          "title": "ArtCraft – PhotoshopやIllustratorのような画像編集・ベクター制作から動画編集・VFXまで！7種類のオープンソース制作アプリが無料公開！",
+          "imageUrl": "https://modelinghappy.com/wp-content/uploads/2026/10/20261005_getartcraft_00.jpg"
+        },
         {
           "id": "https://modelinghappy.com/?p=70860",
           "author": "modelinghappy",
@@ -3955,6 +4030,16 @@
       "siteUrl": "https://note.com/hashtag/Houdini",
       "articles": [
         {
+          "id": "https://note.com/indyzone/n/n292133997122",
+          "author": null,
+          "description": "SideFX Houdini 21 × Karma XPU\n\n\n続きをみる",
+          "link": "https://note.com/indyzone/n/n292133997122",
+          "publishedOn": "2026-10-06T03:45:09.000Z",
+          "wordCount": 7313,
+          "title": "HoudiniでGaussian Splatをリライティングする方法",
+          "imageUrl": "https://assets.st-note.com/production/uploads/images/321344130/rectangle_large_type_2_d3e2b531f5c4bb23e09bf0269793633c.png?width=800"
+        },
+        {
           "id": "https://note.com/indyzone/n/n3052290ecd62",
           "author": null,
           "description": "KeenTools GeoTracker for Houdini\n\n\n続きをみる",
@@ -4230,16 +4315,6 @@
           "wordCount": 2925,
           "title": "Substance Designer】1から作る！「板の間」のPBRテクスチャ解説②",
           "imageUrl": "https://assets.st-note.com/production/uploads/images/311318584/rectangle_large_type_2_22ff26f707791220a11c9ccff7b226ed.png?width=800"
-        },
-        {
-          "id": "https://note.com/manji_9278274/n/n9b1f3a41afe6",
-          "author": null,
-          "description": "どうもみなさん１週間ぶり。まんじです。\n先週の予告通り、今回は「板の間」のテクスチャを生成していきます。\nこれで和室に必要なテクスチャは大体揃ってきましたね。\n続きをみる",
-          "link": "https://note.com/manji_9278274/n/n9b1f3a41afe6",
-          "publishedOn": "2026-09-06T13:02:58.000Z",
-          "wordCount": 3121,
-          "title": "Substance Designer】1から作る！「板の間」のPBRテクスチャ解説①",
-          "imageUrl": "https://assets.st-note.com/production/uploads/images/310990538/rectangle_large_type_2_a8301bbeec9e3d2d568a027cfa2de802.png?width=800"
         }
       ]
     },

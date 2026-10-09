@@ -2,10 +2,87 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-10-09T03:36:03.035Z</updated>
+    <updated>2026-10-09T14:46:37.812Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Watercolor | 顔料の混色やにじみ 乾燥を再現する無料のオープンソース水彩ペイントアプリ！ブラウザ上で動作！]]></title>
+        <id>https://3dnchu.com/?p=1069061</id>
+        <link href="https://3dnchu.com/archives/watercolor-playground/"/>
+        <updated>2026-10-09T14:36:27.000Z</updated>
+        <summary type="html"><![CDATA[Maks Surguy氏（ @msurguy ）が、ブラウザで動作する水彩ペイントアプリ「Watercolor」をオープンソースで公開しました。顔料の混色や水によるにじみ、乾燥時の縁の濃淡などを再現できます。]]></summary>
+        <author>
+            <name>Ymt3D -3dnchu-</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【インディー開発者必見】インディーゲームの"グラフィック"に特化したオンラインイベント「GAME GRAPHICS JAM」が11/7開催決定！ - ニュース]]></title>
+        <id>https://cgworld.jp/flashnews/1107-plusone-ggj.html</id>
+        <link href="https://cgworld.jp/flashnews/1107-plusone-ggj.html"/>
+        <updated>2026-10-09T10:37:00.000Z</updated>
+        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[世界へ羽ばたくクリエイターを支援！「現代版トキワ荘」起業家育成プログラム第1期生プロトタイプ発表会 - 特集]]></title>
+        <id>https://cgworld.jp/article/202610-abc-gtokiwa.html</id>
+        <link href="https://cgworld.jp/article/202610-abc-gtokiwa.html"/>
+        <updated>2026-10-09T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[アニメや漫画のクリエイターに制作の場と学びの機会を提供し、オリジナルIPの事業展開を支援する「現代版トキワ荘」起業家育成プログラムの第1期生のプロトタイプ発表会のレポート]]></summary>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[描いたRubyを読み取り、次の姿を生む — OUROBOROSのQuineを紐解く③]]></title>
+        <id>https://qiita.com/kyubey1228/items/7cd2b3588dfb5c899211</id>
+        <link href="https://qiita.com/kyubey1228/items/7cd2b3588dfb5c899211"/>
+        <updated>2026-10-09T08:50:24.000Z</updated>
+        <summary type="html"><![CDATA[Rubyのコードが輪の形に並び、実行するたびに次の形を生み出す。周期Quine「OUROBOROS」は、24世代で最初のソースへ戻る作品です。
+公開作品はこちらです。
+1本目では、自分のコードを再生成する仕組みを解説しました。2本目では、世代番号と数式から輪を作り、その中へ...]]></summary>
+        <author>
+            <name>GLSLタグが付けられた新着記事 - Qiita</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[数式で輪を作り、Rubyを流し込む — OUROBOROSのQuineを紐解く②]]></title>
+        <id>https://qiita.com/kyubey1228/items/a1fe2a8c473f1c87e17c</id>
+        <link href="https://qiita.com/kyubey1228/items/a1fe2a8c473f1c87e17c"/>
+        <updated>2026-10-09T08:49:47.000Z</updated>
+        <summary type="html"><![CDATA[自分のコードを輪の形に並べ、実行するたびに次の形を生み出す。周期Quine「OUROBOROS」は、24世代で最初のソースへ戻る作品です。
+公開作品はこちらです。
+前回は、eval と %w を使って、文字の配置と実行するコードを切り離す仕組みを解説しました。今回は、その文...]]></summary>
+        <author>
+            <name>GLSLタグが付けられた新着記事 - Qiita</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[自分を描くRubyは、どうやって自分を覚えているのか — OUROBOROSのQuineを紐解く①]]></title>
+        <id>https://qiita.com/kyubey1228/items/b7be9aecb0fcf7057643</id>
+        <link href="https://qiita.com/kyubey1228/items/b7be9aecb0fcf7057643"/>
+        <updated>2026-10-09T07:42:49.000Z</updated>
+        <summary type="html"><![CDATA[Rubyのコードが輪の形に並び、そのRubyを実行すると、少し形の違う輪が出力される。これを繰り返すと、24回目で最初のコードへ戻る。
+そんな周期Quine「OUROBOROS」を作りました。
+公開作品はこちらです。
+作品では、そのコードをWebGLで描き、描画したピクセル...]]></summary>
+        <author>
+            <name>GLSLタグが付けられた新着記事 - Qiita</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【新講座】光の科学から映画ショットの構築まで。ドリームワークスの現役スーパーバイザーによるオンライン講座『3DCGライティングの思考法』が11/21(土)に開催。 - ニュース]]></title>
+        <id>https://cgworld.jp/flashnews/3dcg1121.html</id>
+        <link href="https://cgworld.jp/flashnews/3dcg1121.html"/>
+        <updated>2026-10-09T07:21:02.000Z</updated>
+        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[『クレバテスII-魔獣の王と偽りの勇者伝承-』スケジューリングとパターン出しによる効率化に注目！ ～No.3／キメラクイーン篇 - 特集]]></title>
         <id>https://cgworld.jp/article/2609-338animecg-clevat03.html</id>
@@ -4673,77 +4750,6 @@ The post MatWerk Picker – マテリアルをスポイト感覚で取得して�
         <summary type="html"><![CDATA[実際に映像の絵を作っていくプロダクションの工程を解説します。レイアウトから原画、動画、彩色へと進む作画の流れ、作品の世界を支える背景美術、そして全体を回していく制作進行の役割まで。デジタル切り紙アニメーションにも触れながら、それぞれの工程で何が行われているのかを順に見ていきます。・・・]]></summary>
         <author>
             <name>AREA JAPAN | Autodesk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[持ち運べるハイスペック環境がクリエイティブを変える ――映像ディレクター・高橋 悠が試すMSI「Stealth-16-AI+B3WH-2670JP」の実力 - スペシャルコンテンツ]]></title>
-        <id>https://cgworld.jp/special-feature/2609-MSI-takahashiyu.html</id>
-        <link href="https://cgworld.jp/special-feature/2609-MSI-takahashiyu.html"/>
-        <updated>2026-09-10T02:25:54.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[アニメーションの作り方 第2回：アニメーションの制作工程とプリプロダクション]]></title>
-        <id>https://area.autodesk.jp/column/trend_tech/animation/02-workflow/</id>
-        <link href="https://area.autodesk.jp/column/trend_tech/animation/02-workflow/"/>
-        <updated>2026-09-10T02:00:00.000Z</updated>
-        <summary type="html"><![CDATA[アニメーションの制作は、プリプロダクション・プロダクション・ポストプロダクションの3つのパートに分かれています。第2回では全体の流れをつかんだうえで、作品の土台をつくるプリプロダクションを詳しく見ていきます。テーマやコンセプトの決め方、スケジュール表をつくる意味、プロットからシナリオ、絵コンテ、設定資料まで、企画段階で準備するものを解説します。・・・]]></summary>
-        <author>
-            <name>AREA JAPAN | Autodesk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【新講座】"都市計画"から設計するゲームシティ。オンライン講座『ゲーム都市学 ~歩きたくなる街のつくり方~』が10/23(金)に開催 - ニュース]]></title>
-        <id>https://cgworld.jp/flashnews/-1023.html</id>
-        <link href="https://cgworld.jp/flashnews/-1023.html"/>
-        <updated>2026-09-10T01:46:00.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[アニメーションの作り方 第1回：何故アニメーションは面白いのか？]]></title>
-        <id>https://area.autodesk.jp/column/trend_tech/animation/01-introduction/</id>
-        <link href="https://area.autodesk.jp/column/trend_tech/animation/01-introduction/"/>
-        <updated>2026-09-10T01:00:00.000Z</updated>
-        <summary type="html"><![CDATA[アニメーション制作に20年以上携わってきたCGディレクターが、テレビや劇場で公開される作品の制作フローを解説する連載です。第1回は、作品を面白いと感じさせているものはなにかを、ストーリーや世界観、音楽といった要素から考えます。あわせて、商業作品と個人制作の違いや、作画メイン・作画とCGのハイブリッド・フルCGという手法による分類も整理します。・・・]]></summary>
-        <author>
-            <name>AREA JAPAN | Autodesk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[9/26（土）9/27（日）に「Tokyo Anim Unite 2026」東京にて開催。第一線のアーティストが集結、ポートフォリオレビューも実施 - ニュース]]></title>
-        <id>https://cgworld.jp/flashnews/02-2609-tau-2026.html</id>
-        <link href="https://cgworld.jp/flashnews/02-2609-tau-2026.html"/>
-        <updated>2026-09-10T00:38:29.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SideFX、Houdiniユーザーグループの講演動画公開　SideFX Labsのアップデート情報、Copernicus、MLモデルの活用など - ニュース]]></title>
-        <id>https://cgworld.jp/flashnews/01-202609-Houdini-HUG.html</id>
-        <link href="https://cgworld.jp/flashnews/01-202609-Houdini-HUG.html"/>
-        <updated>2026-09-09T23:49:03.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Blender Fes 2026 AW |  第7回となるBlender 特化の技術交流イベント！2026年9月26～27日の土日に2日間オンライン開催！豪華16セッション！]]></title>
-        <id>https://3dnchu.com/?p=1068158</id>
-        <link href="https://3dnchu.com/archives/blender-fes-2026-aw/"/>
-        <updated>2026-09-09T17:53:28.000Z</updated>
-        <summary type="html"><![CDATA[CGWORLD（ボーンデジタル）主催のBlender系大型勉強イベント第7回『Blender Fes 2026 AW』が2026年9月26・27日に開催されます！ Blender Fes 2026 AW Blenderユーザー限定の技術交流イベントが2日間で開催！Blenderを活用して3DCG作品 […]
-続きを読む]]></summary>
-        <author>
-            <name>Ymt3D -3dnchu-</name>
         </author>
     </entry>
 </feed>

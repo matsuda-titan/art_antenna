@@ -2,10 +2,67 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-10-09T14:46:37.812Z</updated>
+    <updated>2026-10-10T03:16:56.392Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Polycop Lite ー Nゴンや二重押し出しをワンクリックで検出・作業中にリアルタイムで確認できるMaya用無料ツール]]></title>
+        <id>https://modelinghappy.com/?p=70928</id>
+        <link href="https://modelinghappy.com/archives/70928"/>
+        <updated>2026-10-10T02:43:14.000Z</updated>
+        <summary type="html"><![CDATA[Polycop Liteは、Mesh Labzが公開している、Mayaでモデルのトポロジーをチェックできる無料プラグインです。 Nゴンや二重押し出し、ノンマニフォールド形状を検出し、該当する面・頂点・エッジを選択して、修
+The post Polycop Lite ー Nゴンや二重押し出しをワンクリックで検出・作業中にリアルタイムで確認できるMaya用無料ツール first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
+        <author>
+            <name>modelinghappy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【アドオン紹介】JCut – Jキーだけで頂点接続やエッジ分割を素早く行える無料Blenderアドオン！]]></title>
+        <id>https://cgbox.jp/?p=65813</id>
+        <link href="https://cgbox.jp/2026/10/10/news-addon-jcut/"/>
+        <updated>2026-10-10T02:13:32.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは！ 今回はアドオンの「JCut 」を紹介します。 こちらのリンクがアドオンの商品ページになります。 JCut 「JCut 」は、編集モードで頂点同士の接続やエッジ上への頂点追加を、Jキーだけで素早く行える無料B […]]]></summary>
+        <author>
+            <name>kasahara</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[テンキーも中ボタンも無い MacBook で Blender 4.5 を使うときのショートカットのコツ]]></title>
+        <id>https://zenn.dev/panda_studio/articles/22b8f54d58c587</id>
+        <link href="https://zenn.dev/panda_studio/articles/22b8f54d58c587"/>
+        <updated>2026-10-10T02:05:03.000Z</updated>
+        <summary type="html"><![CDATA[結論
+!
+
+Mac の Blender は、⌃（control）を使うショートカットに ⌘（command）版を自動で足しています。Windows 向けの解説の Ctrl+S は、Mac では ⌘S で動きます。ただし ⌃Space（エリアを最大化）や ⌃M（ミラー）など、⌘ 版が無いものが 41 件あります。
+
+JIS 配列の Mac では ` と = が Blender に届きません。 3D ビューで視点を選ぶビューのパイメニュー（`）や ⌘=（ズームイン）が押せないので、メニューやトラックパッドで代わりをします。
+テンキーが無いなら、プリファレンスの「テンキーを模倣」（Emul...]]></summary>
+        <author>
+            <name>panda studio</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【登壇者紹介】友定裕さんの話]]></title>
+        <id>https://note.com/pompomtanuki/n/ne32fc3484eed</id>
+        <link href="https://note.com/pompomtanuki/n/ne32fc3484eed"/>
+        <updated>2026-10-10T01:29:03.000Z</updated>
+        <summary type="html"><![CDATA[続きをみる]]></summary>
+        <author>
+            <name>#SubstanceDesignerタグ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Maya用スカルプトツールセット「CGE Sculpting Tool for Maya」リリース　GPUベース、外部アプリ不要 - ニュース]]></title>
+        <id>https://cgworld.jp/flashnews/01-202610-CGESculptMaya.html</id>
+        <link href="https://cgworld.jp/flashnews/01-202610-CGESculptMaya.html"/>
+        <updated>2026-10-09T23:14:02.000Z</updated>
+        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Watercolor | 顔料の混色やにじみ 乾燥を再現する無料のオープンソース水彩ペイントアプリ！ブラウザ上で動作！]]></title>
         <id>https://3dnchu.com/?p=1069061</id>
@@ -4625,131 +4682,6 @@ Texture Mappingによって形状と外観を持つ3Dモデルを生成できる
 続きを読む]]></summary>
         <author>
             <name>Ymt3D -3dnchu-</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JiggleGen 2.0 | 身体や衣服＆髪に手軽に揺れ物理を追加！完全に書き直されたメジャーアップデート！Blenderアドオン]]></title>
-        <id>https://3dnchu.com/?p=1068318</id>
-        <link href="https://3dnchu.com/archives/jigglegen-2-0/"/>
-        <updated>2026-09-10T14:18:06.000Z</updated>
-        <summary type="html"><![CDATA[pathnode氏による、BlenderのClothシミュレーションを活用してキャラクターの身体や衣服、髪などへ揺れ物理を追加できるアドオン「JiggleGen 2.0」がリリースされました。コードとUIが全面的に書き直され、ワークフローや安定性の改善に加えてGeometry Nodes Cloth […]
-続きを読む]]></summary>
-        <author>
-            <name>Ymt3D -3dnchu-</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CatPin | 3Dプリント向けモデルを自由に分割＆ダボを自動生成！非破壊でカット位置を調整できるBlenderアドオン！]]></title>
-        <id>https://3dnchu.com/?p=1068312</id>
-        <link href="https://3dnchu.com/archives/catpin/"/>
-        <updated>2026-09-10T12:57:27.000Z</updated>
-        <summary type="html"><![CDATA[Alex Sokol氏による、3Dプリント向けモデルの分割と接続部作成を効率化するBlenderアドオン「CatPin」のご紹介。キャラクターやフィギュアなどのモデルを複数パーツへ分割し、組み立て用のピンとソケットを生成。分割位置や接続部を調整しながら、STLなどへまとめて書き出すことができます。  […]
-続きを読む]]></summary>
-        <author>
-            <name>Ymt3D -3dnchu-</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EXea Jiggle – 髪や尻尾、衣服のボーンにリアルタイムで揺れを追加できるBlender用無料アドオン]]></title>
-        <id>https://modelinghappy.com/?p=70412</id>
-        <link href="https://modelinghappy.com/archives/70412"/>
-        <updated>2026-09-10T12:37:44.000Z</updated>
-        <summary type="html"><![CDATA[EXea Jiggle EXea Jiggleは、髪や尻尾、衣服、胸、アクセサリーなどのボーンに、揺れを追加できるBlender用無料アドオンです。揺れのキーフレームを手作業で付けることなく、アニメーションの再生中やポー
-The post EXea Jiggle – 髪や尻尾、衣服のボーンにリアルタイムで揺れを追加できるBlender用無料アドオン first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
-        <author>
-            <name>modelinghappy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MatWerk Picker – マテリアルをスポイト感覚で取得して別モデルに割り当て・その場で編集できるBlender用無料アドオン]]></title>
-        <id>https://modelinghappy.com/?p=70409</id>
-        <link href="https://modelinghappy.com/archives/70409"/>
-        <updated>2026-09-10T12:26:11.000Z</updated>
-        <summary type="html"><![CDATA[MatWerk Picker MatWerk Pickerは、3Dビューポート上でマテリアルを取得し、別のオブジェクトへの割り当てや編集ができる無料アドオンです。 Shift＋Qキーで起動し、オブジェクトの表面にカーソル
-The post MatWerk Picker – マテリアルをスポイト感覚で取得して別モデルに割り当て・その場で編集できるBlender用無料アドオン first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
-        <author>
-            <name>modelinghappy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[299 Tools for Blender | AI生成したフィギュアを3Dプリントする為の出力補助ツールセットBlenderアドオンが無料公開！]]></title>
-        <id>https://3dnchu.com/?p=1068304</id>
-        <link href="https://3dnchu.com/archives/299-tools-for-blender/"/>
-        <updated>2026-09-10T09:14:47.000Z</updated>
-        <summary type="html"><![CDATA[模型制作サイト「299 MODEL WORKS」を運営する299工場長氏が公開した、フィギュアデータを3Dプリント向けに調整するための無料Blenderアドオン「299 Tools for Blender」を公開しました。AI生成したフィギュアを実際に3Dプリントする中で繰り返していた作業をもとに、 […]
-続きを読む]]></summary>
-        <author>
-            <name>Ymt3D -3dnchu-</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[4KのRAW素材でもネイティブ編集！　DAIV KM-I7G6A（NVIDIA Studio 認定PC）で実現する次世代ビデオグラファー向け編集環境 - 特集]]></title>
-        <id>https://cgworld.jp/article/4krawdaiv-km-i7g6anvidia-studio-pc.html</id>
-        <link href="https://cgworld.jp/article/4krawdaiv-km-i7g6anvidia-studio-pc.html"/>
-        <updated>2026-09-10T07:45:36.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【期間限定無料】2026年9月22日までの FAB 無料コンテンツをチェック！]]></title>
-        <id>https://cginterest.com/?p=62447</id>
-        <link href="https://cginterest.com/2026/09/10/%e3%80%90%e6%9c%9f%e9%96%93%e9%99%90%e5%ae%9a%e7%84%a1%e6%96%99%e3%80%912026%e5%b9%b49%e6%9c%8822%e6%97%a5%e3%81%be%e3%81%a7%e3%81%ae-fab-%e7%84%a1%e6%96%99%e3%82%b3%e3%83%b3%e3%83%86%e3%83%b3/"/>
-        <updated>2026-09-10T05:25:22.000Z</updated>
-        <summary type="html"><![CDATA[期間限定で無料となっているEpicのマーケットプレイスFABの無料コンテンツの紹介です。 Epic Games の統合マーケットプレイスFABでは、クリエイターとのパートナーシップによって、2週間ごとに選ばれたコンテンツ […]]]></summary>
-        <author>
-            <name>.me</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3ds Max向け「mocopi®」プラグインで、Bipedへのダイレクト変換とリアルタイム同期を可能に。アニメCG制作のワークフロー最適化への取り組み - 特集]]></title>
-        <id>https://cgworld.jp/article/202609-mocopi-3dsmax.html</id>
-        <link href="https://cgworld.jp/article/202609-mocopi-3dsmax.html"/>
-        <updated>2026-09-10T05:15:00.000Z</updated>
-        <summary type="html"><![CDATA[手軽にフルボディトラッキングが行えるモバイルモーションキャプチャー「mocopi（モコピ）」。ソニーは9月10日（木）、mocopiのモーションデータを3ds Max上でリアルタイムに同期し、標準搭載されているキャラクターリグのBiped（.bip）ファイルに直接変換できる「mocopi Receiver plugin for 3ds Max」をリリースした。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[アニメーションの作り方 第5回：ポストプロダクションとまとめ]]></title>
-        <id>https://area.autodesk.jp/column/trend_tech/animation/05-post-production/</id>
-        <link href="https://area.autodesk.jp/column/trend_tech/animation/05-post-production/"/>
-        <updated>2026-09-10T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[最終回では、プロダクションとポストプロダクションの境目にある撮影（コンポジット）を中心に、素材を組み合わせて画面を仕上げる工程と編集について解説します。あわせて、スケジュールを守ること、完成のイメージを持つこと、コミュニケーションの大切さなど、アニメーション制作に携わるうえで意識しておきたいことを、全5回のまとめとしてお伝えします。・・・]]></summary>
-        <author>
-            <name>AREA JAPAN | Autodesk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[アニメーションの作り方 第4回：3DCGの出番]]></title>
-        <id>https://area.autodesk.jp/column/trend_tech/animation/04-3dcg/</id>
-        <link href="https://area.autodesk.jp/column/trend_tech/animation/04-3dcg/"/>
-        <updated>2026-09-10T04:00:00.000Z</updated>
-        <summary type="html"><![CDATA[アニメーション作品のなかで3DCGがどのように使われているのかにフォーカスした回です。CGならではの映像表現を求める場合と、作画や仕上げを省力化する場合、それぞれの動機を整理したうえで、モデリング、リギング、レイアウト、アニメーション、質感設定、ライティング、レンダリング、エフェクトという各工程の内容を解説します。・・・]]></summary>
-        <author>
-            <name>AREA JAPAN | Autodesk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Unity、Claude Code向け公式プラグインを発表！Unity CLIとMCPサーバー、29のスキルを単一インストールで]]></title>
-        <id>https://cginterest.com/?p=62440</id>
-        <link href="https://cginterest.com/2026/09/10/unity%e3%80%81claude-code%e5%90%91%e3%81%91%e5%85%ac%e5%bc%8f%e3%83%97%e3%83%a9%e3%82%b0%e3%82%a4%e3%83%b3%e3%82%92%e7%99%ba%e8%a1%a8%ef%bc%81unity-cli%e3%81%a8mcp%e3%82%b5%e3%83%bc%e3%83%90%e3%83%bc/"/>
-        <updated>2026-09-10T03:14:15.000Z</updated>
-        <summary type="html"><![CDATA[2026年9月9日（現地時間） – Unityは、AIコーディングエージェント「Claude Code」向けの公式プラグイン「Official Unity Plugin for Claude Code」を発表しました。  […]]]></summary>
-        <author>
-            <name>.me</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[アニメーションの作り方 第3回：プロダクション]]></title>
-        <id>https://area.autodesk.jp/column/trend_tech/animation/03-production/</id>
-        <link href="https://area.autodesk.jp/column/trend_tech/animation/03-production/"/>
-        <updated>2026-09-10T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[実際に映像の絵を作っていくプロダクションの工程を解説します。レイアウトから原画、動画、彩色へと進む作画の流れ、作品の世界を支える背景美術、そして全体を回していく制作進行の役割まで。デジタル切り紙アニメーションにも触れながら、それぞれの工程で何が行われているのかを順に見ていきます。・・・]]></summary>
-        <author>
-            <name>AREA JAPAN | Autodesk</name>
         </author>
     </entry>
 </feed>

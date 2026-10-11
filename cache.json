@@ -2030,16 +2030,6 @@
           "wordCount": 731,
           "title": "Foundry、Nukeと機械学習、AIを組み合わせたハイブリッドVFXパイプラインの解説動画を公開　新しい3DシステムやCopyCat、Beeble AIの活用法など - ニュース",
           "imageUrl": "https://cgworld.jp/flashnews/assets_c/2026/09/Nuke_Hybrid-01-thumb-1920x1080-88869.jpg"
-        },
-        {
-          "id": "https://cgworld.jp/flashnews/01-202609-Coyote-MayaBlender.html",
-          "author": null,
-          "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
-          "link": "https://cgworld.jp/flashnews/01-202609-Coyote-MayaBlender.html",
-          "publishedOn": "2026-09-11T23:43:13.000Z",
-          "wordCount": 712,
-          "title": "COYOTE 3DCG STUDIO、MayaからBlenderへのキャラクター移植ワークフローのTips記事を公開　FBXでのインポート時にレストポーズが変化する現象を解決 - ニュース",
-          "imageUrl": "https://cgworld.jp/flashnews/assets_c/2026/09/Coyote_MayaBlender-01-thumb-1920x1009-88851.jpg"
         }
       ]
     },
@@ -2083,6 +2073,16 @@
       "feedUrl": "https://modelinghappy.com/feed",
       "siteUrl": "https://modelinghappy.com",
       "articles": [
+        {
+          "id": "https://modelinghappy.com/?p=70943",
+          "author": "modelinghappy",
+          "description": "github solvecraft webアプリ solvecraft SolveCraftは、Autodesk Fusion 360のようなパラメトリックモデリングを目指して開発された、Autodeskとは関係のない無\nThe post SolveCraft Fusion 360のようなモデリングを目指す無料3D CADが公開！ブラウザでも利用可能 first appeared on 3DCG最新情報サイト MODELING HAPPY.",
+          "link": "https://modelinghappy.com/archives/70943",
+          "publishedOn": "2026-10-11T12:31:42.000Z",
+          "wordCount": 3066,
+          "title": "SolveCraft Fusion 360のようなモデリングを目指す無料3D CADが公開！ブラウザでも利用可能",
+          "imageUrl": "https://modelinghappy.com/wp-content/uploads/2026/10/20261011_solvecraft_01.jpg"
+        },
         {
           "id": "https://modelinghappy.com/?p=70933",
           "author": "modelinghappy",
@@ -3280,6 +3280,16 @@
       "siteUrl": "https://qiita.com",
       "articles": [
         {
+          "id": "https://qiita.com/Ozaki_Ryu_/items/128f74d937df777a7248",
+          "author": null,
+          "description": "イラスト画像を1枚読み込むと、その線と色の場所に星が並び、キャラクターの形に開く花火になる仕組みを Houdini で作りました。\nこの記事では、下のペンギンのイラストを例に、作り方を順番に紹介します。\n\n環境\n\nHoudini 22.0（Apprentice）/ Wi...",
+          "link": "https://qiita.com/Ozaki_Ryu_/items/128f74d937df777a7248",
+          "publishedOn": "2026-10-11T11:20:02.000Z",
+          "wordCount": 7988,
+          "title": "イラストを1枚読み込むだけで、その形に開く花火を作った【Houdini / VEX】",
+          "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnBicy50d2ltZy5jb20lMkZwcm9maWxlX2ltYWdlcyUyRjIxMDkxOTkzNzk0Mzc2NzA0MDAlMkZvOUxEdU5uNl9iaWdnZXIuanBnP2l4bGliPXJiLTQuMS4xJmFyPTElM0ExJmZpdD1jcm9wJm1hc2s9ZWxsaXBzZSZiZz1GRkZGRkYmZm09cG5nMzImcz1mMzk1YzI1YjQyMDgzZDZmMDAxMWI0MWUxNjE0MjU5NA%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D716e621c8d01c317bd8ab77812836f89?ixlib=rb-4.1.1&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9JUUzJTgyJUE0JUUzJTgzJUE5JUUzJTgyJUI5JUUzJTgzJTg4JUUzJTgyJTkyMSVFNiU5RSU5QSVFOCVBQSVBRCVFMyU4MSVCRiVFOCVCRSVCQyVFMyU4MiU4MCVFMyU4MSVBMCVFMyU4MSU5MSVFMyU4MSVBNyVFMyU4MCU4MSVFMyU4MSU5RCVFMyU4MSVBRSVFNSVCRCVBMiVFMyU4MSVBQiVFOSU5NiU4QiVFMyU4MSU4RiVFOCU4QSVCMSVFNyU4MSVBQiVFMyU4MiU5MiVFNCVCRCU5QyVFMyU4MSVBMyVFMyU4MSU5RiVFMyU4MCU5MEhvdWRpbmklMjAlMkYlMjBWRVglRTMlODAlOTEmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz1jMzNhYmEyMGE5YzhjYzdhZTY5ZjFmMzg3NDcwMDU5MA&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBPemFraV9SeXVfJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9MTFlM2Y0NjY0YTM5NzNhZmEwNjRlOWNjZjUxODAyOTk&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=688bd92c38cffae7090b06bb1c138df5"
+        },
+        {
           "id": "https://qiita.com/aijyu/items/95770fa130563cc78c08",
           "author": null,
           "description": "BlenderをWASD＋マウス操作でブロック建築できるSandbox Modeにする\nBlenderの3Dビュー上で、\n\nWASDで移動\nマウスで視点操作\n画面中央の照準でオブジェクトを指定\n左クリックで削除\n右クリックでブロックを設置\n1〜4キーで設置するブロックを変...",
@@ -3445,6 +3455,16 @@
       "siteUrl": "https://qiita.com",
       "articles": [
         {
+          "id": "https://qiita.com/tsukino_/items/330ac8c6ec3908e38b96",
+          "author": null,
+          "description": "3Dアクションのフィールドを作っていると、キャラクターと地面の間の空間が空っぽのままになりがちです。\n何も浮かんでいない空間は奥行きが分かりにくく、空気がそこにある感じが出ません。\nそこで空中に火の粉や塵を漂わせると、手前と奥で粒の大きさや流れる速さが違って見え、それだけで...",
+          "link": "https://qiita.com/tsukino_/items/330ac8c6ec3908e38b96",
+          "publishedOn": "2026-10-11T11:27:37.000Z",
+          "wordCount": 4637,
+          "title": "【DirectX11】【HLSL】頂点シェーダーだけで空中に舞う火の粉を描こう!【TsukinoEngine】",
+          "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYzOTQzMTQ4JTJGZGJhOTI4MmI5OWFlNGQ4NmFjYjI4MDk1NGVhNGFjYzI2ZGYyODM0ZSUyRmxhcmdlLnBuZyUzRjE3NTAxNDEwMzM_aXhsaWI9cmItNC4xLjEmYXI9MSUzQTEmZml0PWNyb3AmbWFzaz1lbGxpcHNlJmJnPUZGRkZGRiZmbT1wbmczMiZzPWU4ZGJmMzk4YjI1NDE2YmMxODUyOGE0ZWZiOWU3NjE5%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D0cdf0498f9ab9bc4ec92fd97b061c8a7?ixlib=rb-4.1.1&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9JUUzJTgwJTkwRGlyZWN0WDExJUUzJTgwJTkxJUUzJTgwJTkwSExTTCVFMyU4MCU5MSVFOSVBMCU4MiVFNyU4MiVCOSVFMyU4MiVCNyVFMyU4MiVBNyVFMyU4MyVCQyVFMyU4MyU4MCVFMyU4MyVCQyVFMyU4MSVBMCVFMyU4MSU5MSVFMyU4MSVBNyVFNyVBOSVCQSVFNCVCOCVBRCVFMyU4MSVBQiVFOCU4OCU5RSVFMyU4MSU4NiVFNyU4MSVBQiVFMyU4MSVBRSVFNyVCMiU4OSVFMyU4MiU5MiVFNiU4RiU4RiVFMyU4MSU5MyVFMyU4MSU4NiUyMSVFMyU4MCU5MFRzdWtpbm9FbmdpbmUlRTMlODAlOTEmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz0yMTU5MjI0YzNkNjM4YmJiZmI1NjAzY2ZkZTZlNmY3ZA&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDB0c3VraW5vXyZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPTRjODM5MzJmNjA1ZTE0YzNmN2RhYTIyNTYyYjQ1NTU2&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=788652253aea4c38d6c5ed97eca2ea2a"
+        },
+        {
           "id": "https://qiita.com/dsgarage/items/89146950f23ff4d1733f",
           "author": null,
           "description": "AR合成では実写をToonに寄せる ― V1nStudio の World モードと AR モード、2 つのシェーダー実装を比べる\n\nはじめに\nスマホの AR でトゥーン調のアバターを出すと、どうしても背景から浮いて見えます。アバターはノイズのないツルツルの CG で、背...",
@@ -3507,13 +3527,34 @@
       "title": "CGタグが付けられた新着記事 - Qiita",
       "feedUrl": "https://qiita.com/tags/cg/feed",
       "siteUrl": "https://qiita.com",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://qiita.com/Ozaki_Ryu_/items/128f74d937df777a7248",
+          "author": null,
+          "description": "イラスト画像を1枚読み込むと、その線と色の場所に星が並び、キャラクターの形に開く花火になる仕組みを Houdini で作りました。\nこの記事では、下のペンギンのイラストを例に、作り方を順番に紹介します。\n\n環境\n\nHoudini 22.0（Apprentice）/ Wi...",
+          "link": "https://qiita.com/Ozaki_Ryu_/items/128f74d937df777a7248",
+          "publishedOn": "2026-10-11T11:20:02.000Z",
+          "wordCount": 7988,
+          "title": "イラストを1枚読み込むだけで、その形に開く花火を作った【Houdini / VEX】",
+          "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnBicy50d2ltZy5jb20lMkZwcm9maWxlX2ltYWdlcyUyRjIxMDkxOTkzNzk0Mzc2NzA0MDAlMkZvOUxEdU5uNl9iaWdnZXIuanBnP2l4bGliPXJiLTQuMS4xJmFyPTElM0ExJmZpdD1jcm9wJm1hc2s9ZWxsaXBzZSZiZz1GRkZGRkYmZm09cG5nMzImcz1mMzk1YzI1YjQyMDgzZDZmMDAxMWI0MWUxNjE0MjU5NA%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D716e621c8d01c317bd8ab77812836f89?ixlib=rb-4.1.1&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9JUUzJTgyJUE0JUUzJTgzJUE5JUUzJTgyJUI5JUUzJTgzJTg4JUUzJTgyJTkyMSVFNiU5RSU5QSVFOCVBQSVBRCVFMyU4MSVCRiVFOCVCRSVCQyVFMyU4MiU4MCVFMyU4MSVBMCVFMyU4MSU5MSVFMyU4MSVBNyVFMyU4MCU4MSVFMyU4MSU5RCVFMyU4MSVBRSVFNSVCRCVBMiVFMyU4MSVBQiVFOSU5NiU4QiVFMyU4MSU4RiVFOCU4QSVCMSVFNyU4MSVBQiVFMyU4MiU5MiVFNCVCRCU5QyVFMyU4MSVBMyVFMyU4MSU5RiVFMyU4MCU5MEhvdWRpbmklMjAlMkYlMjBWRVglRTMlODAlOTEmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz1jMzNhYmEyMGE5YzhjYzdhZTY5ZjFmMzg3NDcwMDU5MA&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBPemFraV9SeXVfJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9MTFlM2Y0NjY0YTM5NzNhZmEwNjRlOWNjZjUxODAyOTk&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=688bd92c38cffae7090b06bb1c138df5"
+        }
+      ]
     },
     {
       "title": "HLSLタグが付けられた新着記事 - Qiita",
       "feedUrl": "https://qiita.com/tags/hlsl/feed",
       "siteUrl": "https://qiita.com",
       "articles": [
+        {
+          "id": "https://qiita.com/tsukino_/items/330ac8c6ec3908e38b96",
+          "author": null,
+          "description": "3Dアクションのフィールドを作っていると、キャラクターと地面の間の空間が空っぽのままになりがちです。\n何も浮かんでいない空間は奥行きが分かりにくく、空気がそこにある感じが出ません。\nそこで空中に火の粉や塵を漂わせると、手前と奥で粒の大きさや流れる速さが違って見え、それだけで...",
+          "link": "https://qiita.com/tsukino_/items/330ac8c6ec3908e38b96",
+          "publishedOn": "2026-10-11T11:27:37.000Z",
+          "wordCount": 4637,
+          "title": "【DirectX11】【HLSL】頂点シェーダーだけで空中に舞う火の粉を描こう!【TsukinoEngine】",
+          "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYzOTQzMTQ4JTJGZGJhOTI4MmI5OWFlNGQ4NmFjYjI4MDk1NGVhNGFjYzI2ZGYyODM0ZSUyRmxhcmdlLnBuZyUzRjE3NTAxNDEwMzM_aXhsaWI9cmItNC4xLjEmYXI9MSUzQTEmZml0PWNyb3AmbWFzaz1lbGxpcHNlJmJnPUZGRkZGRiZmbT1wbmczMiZzPWU4ZGJmMzk4YjI1NDE2YmMxODUyOGE0ZWZiOWU3NjE5%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D0cdf0498f9ab9bc4ec92fd97b061c8a7?ixlib=rb-4.1.1&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9JUUzJTgwJTkwRGlyZWN0WDExJUUzJTgwJTkxJUUzJTgwJTkwSExTTCVFMyU4MCU5MSVFOSVBMCU4MiVFNyU4MiVCOSVFMyU4MiVCNyVFMyU4MiVBNyVFMyU4MyVCQyVFMyU4MyU4MCVFMyU4MyVCQyVFMyU4MSVBMCVFMyU4MSU5MSVFMyU4MSVBNyVFNyVBOSVCQSVFNCVCOCVBRCVFMyU4MSVBQiVFOCU4OCU5RSVFMyU4MSU4NiVFNyU4MSVBQiVFMyU4MSVBRSVFNyVCMiU4OSVFMyU4MiU5MiVFNiU4RiU4RiVFMyU4MSU5MyVFMyU4MSU4NiUyMSVFMyU4MCU5MFRzdWtpbm9FbmdpbmUlRTMlODAlOTEmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz0yMTU5MjI0YzNkNjM4YmJiZmI1NjAzY2ZkZTZlNmY3ZA&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDB0c3VraW5vXyZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPTRjODM5MzJmNjA1ZTE0YzNmN2RhYTIyNTYyYjQ1NTU2&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=788652253aea4c38d6c5ed97eca2ea2a"
+        },
         {
           "id": "https://qiita.com/tsukino_/items/cdf6289d963d460757c6",
           "author": null,

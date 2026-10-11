@@ -361,6 +361,130 @@ footer {
             data-action="toggle-accordions"
             title="Click to toggle the day, Ctrl + click to toggle all."
           >
+            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2026-10-11 datetime="2026-10-11T08:38:36.000Z">2026-10-11</time>
+            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2026-10-11 datetime="2026-10-11T08:38:36.000Z"></time>
+          </button>
+        </h2>
+        <ul class="sources card">
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >Zennの「shader」のフィード</button>
+                  <a class="source-heading__link" href="https://zenn.dev/topics/shader">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://zenn.dev/zn_ryg12/articles/shader-note-20261011"
+                        open
+                      >
+                        <summary class="article-expander__title">Unity ShaderGraph備忘録 part7- ポスプロのアウトライン実装</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://zenn.dev/zn_ryg12/articles/shader-note-20261011">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://res.cloudinary.com/zenn/image/upload/s--9B92eMY0--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Unity%2520ShaderGraph%25E5%2582%2599%25E5%25BF%2598%25E9%258C%25B2%2520part7-%2520%25E3%2583%259D%25E3%2582%25B9%25E3%2583%2597%25E3%2583%25AD%25E3%2581%25AE%25E3%2582%25A2%25E3%2582%25A6%25E3%2583%2588%25E3%2583%25A9%25E3%2582%25A4%25E3%2583%25B3%25E5%25AE%259F%25E8%25A3%2585%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:ryuga.%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jS1lsU1ZRcnpMYW1lRXUzY3lqQW9JdGhFQW8wMGNhaGpLY1JnRkh0a3JYRnJRdjBlSTU9czI1MC1j%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a&#x3D;BACMTiAE" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>前回に続いてセルルックシェーダーに関わるアウトライン・輪郭線についてです。
+
+※この記事の作例には「ユニティちゃん」を使用しています
+© Unity Technologies Japan/UCL
+
+ アウトラインの実装方法
+
+今回使うユニティちゃんの素の状態
+アウトラインを描画するには、大きく分けて背面法と画面のデプスを用いたエッジ検出の2通りがあります
+
+
+
+背面法
+モデルを複製して一回り大きくし、メッシュの裏側だけを塗りつぶして描画する方法。
+キャラクター系で王道的な実装です。
+
+
+
+
+
+ポストプロセスでのデプスのエッジ検出
+カメラからの距離（デプス）情報が記録されたテクスチャを参照...</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;3
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >Zennの「Shader Graph」のフィード</button>
+                  <a class="source-heading__link" href="https://zenn.dev/topics/shadergraph">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://zenn.dev/zn_ryg12/articles/shader-note-20261011"
+                        open
+                      >
+                        <summary class="article-expander__title">Unity ShaderGraph備忘録 part7- ポスプロのアウトライン実装</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://zenn.dev/zn_ryg12/articles/shader-note-20261011">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://res.cloudinary.com/zenn/image/upload/s--9B92eMY0--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Unity%2520ShaderGraph%25E5%2582%2599%25E5%25BF%2598%25E9%258C%25B2%2520part7-%2520%25E3%2583%259D%25E3%2582%25B9%25E3%2583%2597%25E3%2583%25AD%25E3%2581%25AE%25E3%2582%25A2%25E3%2582%25A6%25E3%2583%2588%25E3%2583%25A9%25E3%2582%25A4%25E3%2583%25B3%25E5%25AE%259F%25E8%25A3%2585%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:ryuga.%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jS1lsU1ZRcnpMYW1lRXUzY3lqQW9JdGhFQW8wMGNhaGpLY1JnRkh0a3JYRnJRdjBlSTU9czI1MC1j%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a&#x3D;BACMTiAE" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>前回に続いてセルルックシェーダーに関わるアウトライン・輪郭線についてです。
+
+※この記事の作例には「ユニティちゃん」を使用しています
+© Unity Technologies Japan/UCL
+
+ アウトラインの実装方法
+
+今回使うユニティちゃんの素の状態
+アウトラインを描画するには、大きく分けて背面法と画面のデプスを用いたエッジ検出の2通りがあります
+
+
+
+背面法
+モデルを複製して一回り大きくし、メッシュの裏側だけを塗りつぶして描画する方法。
+キャラクター系で王道的な実装です。
+
+
+
+
+
+ポストプロセスでのデプスのエッジ検出
+カメラからの距離（デプス）情報が記録されたテクスチャを参照...</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;3
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+        </ul>
+      </section>
+      <section class="daily-content js-toggle-accordions-scope">
+        <h2 class="daily-heading">
+          <button
+            class="daily-heading-toggle"
+            data-action="toggle-accordions"
+            title="Click to toggle the day, Ctrl + click to toggle all."
+          >
             <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2026-10-10 datetime="2026-10-10T23:05:00.000Z">2026-10-10</time>
             <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2026-10-10 datetime="2026-10-10T23:05:00.000Z"></time>
           </button>
@@ -12150,47 +12274,12 @@ https://drive.google.com/drive/folders/1DuKJkulD-qZ9QjP947FzHJrw1ZPneaat?usp&#x3
                 </section>
               </section>
             </li>
-            <li class="card__section">
-              <section class="js-toggle-accordions-scope">
-                <h3 class="source-heading">
-                  <button
-                    class="source-heading__name"
-                    data-action="toggle-accordions"
-                    title="Click to toggle the source, Ctrl + click to toggle all."
-                  >3DCG最新情報サイト MODELING HAPPY</button>
-                  <a class="source-heading__link" href="https://modelinghappy.com">Open</a>
-                </h3>
-                <section class="articles-per-source">
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://modelinghappy.com/?p&#x3D;70430"
-                        open
-                      >
-                        <summary class="article-expander__title">cvELD ShellFitBrush – 衣装をブラシでなぞって素体へのめり込みや凹凸を修正できるBlender用アドオン</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://modelinghappy.com/archives/70430">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://modelinghappy.com/wp-content/uploads/2026/09/20260912_cveld_shell_fit_brush_01.jpg" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>Cveld_Shell Fit Brush cvELD ShellFitBrushは、cvELDさんが作成した、衣装や装飾をブラシでなぞりながら、別のメッシュ表面に沿うように形を整えられるBlender用アドオンです。
-The post cvELD ShellFitBrush – 衣装をブラシでなぞって素体へのめり込みや凹凸を修正できるBlender用アドオン first appeared on 3DCG最新情報サイト MODELING HAPPY.</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;15
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                </section>
-              </section>
-            </li>
         </ul>
       </section>
 
     <footer>
-      <a class="footer-link" href="https://github.com/matsuda-titan/art_antenna/actions/runs/38106393522">
-        <time id="build-timestamp" datetime="2026-10-11T02:49:58.439Z">2026-10-11T02:49:58.439Z</time>
+      <a class="footer-link" href="https://github.com/matsuda-titan/art_antenna/actions/runs/38128445121">
+        <time id="build-timestamp" datetime="2026-10-11T09:28:09.047Z">2026-10-11T09:28:09.047Z</time>
       </a>
       <a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.15.1</a>
     </footer>

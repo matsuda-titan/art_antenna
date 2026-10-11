@@ -2642,16 +2642,6 @@
           "wordCount": 3159,
           "title": "Stylized Sky World Generator – アニメ・イラスト調の空や雲を簡単に作成できるBlenderアドオン",
           "imageUrl": "https://modelinghappy.com/wp-content/uploads/2026/09/20260913_Stylized_Sky_World_Generator_01.jpg"
-        },
-        {
-          "id": "https://modelinghappy.com/?p=70430",
-          "author": "modelinghappy",
-          "description": "Cveld_Shell Fit Brush cvELD ShellFitBrushは、cvELDさんが作成した、衣装や装飾をブラシでなぞりながら、別のメッシュ表面に沿うように形を整えられるBlender用アドオンです。\nThe post cvELD ShellFitBrush – 衣装をブラシでなぞって素体へのめり込みや凹凸を修正できるBlender用アドオン first appeared on 3DCG最新情報サイト MODELING HAPPY.",
-          "link": "https://modelinghappy.com/archives/70430",
-          "publishedOn": "2026-09-11T15:57:40.000Z",
-          "wordCount": 4435,
-          "title": "cvELD ShellFitBrush – 衣装をブラシでなぞって素体へのめり込みや凹凸を修正できるBlender用アドオン",
-          "imageUrl": "https://modelinghappy.com/wp-content/uploads/2026/09/20260912_cveld_shell_fit_brush_01.jpg"
         }
       ]
     },
@@ -2666,6 +2656,21 @@
       "feedUrl": "https://zenn.dev/topics/shader/feed",
       "siteUrl": "https://zenn.dev/topics/shader",
       "articles": [
+        {
+          "id": "https://zenn.dev/zn_ryg12/articles/shader-note-20261011",
+          "author": "ryuga.",
+          "description": "前回に続いてセルルックシェーダーに関わるアウトライン・輪郭線についてです。\n\n※この記事の作例には「ユニティちゃん」を使用しています\n© Unity Technologies Japan/UCL\n\n アウトラインの実装方法\n\n今回使うユニティちゃんの素の状態\nアウトラインを描画するには、大きく分けて背面法と画面のデプスを用いたエッジ検出の2通りがあります\n\n\n\n背面法\nモデルを複製して一回り大きくし、メッシュの裏側だけを塗りつぶして描画する方法。\nキャラクター系で王道的な実装です。\n\n\n\n\n\nポストプロセスでのデプスのエッジ検出\nカメラからの距離（デプス）情報が記録されたテクスチャを参照...",
+          "link": "https://zenn.dev/zn_ryg12/articles/shader-note-20261011",
+          "publishedOn": "2026-10-11T08:38:36.000Z",
+          "wordCount": 976,
+          "title": "Unity ShaderGraph備忘録 part7- ポスプロのアウトライン実装",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--9B92eMY0--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Unity%2520ShaderGraph%25E5%2582%2599%25E5%25BF%2598%25E9%258C%25B2%2520part7-%2520%25E3%2583%259D%25E3%2582%25B9%25E3%2583%2597%25E3%2583%25AD%25E3%2581%25AE%25E3%2582%25A2%25E3%2582%25A6%25E3%2583%2588%25E3%2583%25A9%25E3%2582%25A4%25E3%2583%25B3%25E5%25AE%259F%25E8%25A3%2585%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:ryuga.%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jS1lsU1ZRcnpMYW1lRXUzY3lqQW9JdGhFQW8wMGNhaGpLY1JnRkh0a3JYRnJRdjBlSTU9czI1MC1j%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+            "length": "0",
+            "type": "false"
+          },
+          "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--9B92eMY0--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Unity%2520ShaderGraph%25E5%2582%2599%25E5%25BF%2598%25E9%258C%25B2%2520part7-%2520%25E3%2583%259D%25E3%2582%25B9%25E3%2583%2597%25E3%2583%25AD%25E3%2581%25AE%25E3%2582%25A2%25E3%2582%25A6%25E3%2583%2588%25E3%2583%25A9%25E3%2582%25A4%25E3%2583%25B3%25E5%25AE%259F%25E8%25A3%2585%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:ryuga.%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jS1lsU1ZRcnpMYW1lRXUzY3lqQW9JdGhFQW8wMGNhaGpLY1JnRkh0a3JYRnJRdjBlSTU9czI1MC1j%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+        },
         {
           "id": "https://zenn.dev/omojip/articles/253bcbf23c444b",
           "author": "OmojiP",
@@ -2875,6 +2880,21 @@
       "feedUrl": "https://zenn.dev/topics/shadergraph/feed",
       "siteUrl": "https://zenn.dev/topics/shadergraph",
       "articles": [
+        {
+          "id": "https://zenn.dev/zn_ryg12/articles/shader-note-20261011",
+          "author": "ryuga.",
+          "description": "前回に続いてセルルックシェーダーに関わるアウトライン・輪郭線についてです。\n\n※この記事の作例には「ユニティちゃん」を使用しています\n© Unity Technologies Japan/UCL\n\n アウトラインの実装方法\n\n今回使うユニティちゃんの素の状態\nアウトラインを描画するには、大きく分けて背面法と画面のデプスを用いたエッジ検出の2通りがあります\n\n\n\n背面法\nモデルを複製して一回り大きくし、メッシュの裏側だけを塗りつぶして描画する方法。\nキャラクター系で王道的な実装です。\n\n\n\n\n\nポストプロセスでのデプスのエッジ検出\nカメラからの距離（デプス）情報が記録されたテクスチャを参照...",
+          "link": "https://zenn.dev/zn_ryg12/articles/shader-note-20261011",
+          "publishedOn": "2026-10-11T08:38:36.000Z",
+          "wordCount": 976,
+          "title": "Unity ShaderGraph備忘録 part7- ポスプロのアウトライン実装",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--9B92eMY0--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Unity%2520ShaderGraph%25E5%2582%2599%25E5%25BF%2598%25E9%258C%25B2%2520part7-%2520%25E3%2583%259D%25E3%2582%25B9%25E3%2583%2597%25E3%2583%25AD%25E3%2581%25AE%25E3%2582%25A2%25E3%2582%25A6%25E3%2583%2588%25E3%2583%25A9%25E3%2582%25A4%25E3%2583%25B3%25E5%25AE%259F%25E8%25A3%2585%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:ryuga.%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jS1lsU1ZRcnpMYW1lRXUzY3lqQW9JdGhFQW8wMGNhaGpLY1JnRkh0a3JYRnJRdjBlSTU9czI1MC1j%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+            "length": "0",
+            "type": "false"
+          },
+          "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--9B92eMY0--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Unity%2520ShaderGraph%25E5%2582%2599%25E5%25BF%2598%25E9%258C%25B2%2520part7-%2520%25E3%2583%259D%25E3%2582%25B9%25E3%2583%2597%25E3%2583%25AD%25E3%2581%25AE%25E3%2582%25A2%25E3%2582%25A6%25E3%2583%2588%25E3%2583%25A9%25E3%2582%25A4%25E3%2583%25B3%25E5%25AE%259F%25E8%25A3%2585%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:ryuga.%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jS1lsU1ZRcnpMYW1lRXUzY3lqQW9JdGhFQW8wMGNhaGpLY1JnRkh0a3JYRnJRdjBlSTU9czI1MC1j%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+        },
         {
           "id": "https://zenn.dev/gamedev_toollab/articles/1fad4c27c51acb",
           "author": "GameDev Tool Lab",

@@ -2,10 +2,72 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-10-11T02:49:58.479Z</updated>
+    <updated>2026-10-11T09:28:09.077Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Unity ShaderGraph備忘録 part7- ポスプロのアウトライン実装]]></title>
+        <id>https://zenn.dev/zn_ryg12/articles/shader-note-20261011</id>
+        <link href="https://zenn.dev/zn_ryg12/articles/shader-note-20261011"/>
+        <updated>2026-10-11T08:38:36.000Z</updated>
+        <summary type="html"><![CDATA[前回に続いてセルルックシェーダーに関わるアウトライン・輪郭線についてです。
+
+※この記事の作例には「ユニティちゃん」を使用しています
+© Unity Technologies Japan/UCL
+
+ アウトラインの実装方法
+
+今回使うユニティちゃんの素の状態
+アウトラインを描画するには、大きく分けて背面法と画面のデプスを用いたエッジ検出の2通りがあります
+
+
+
+背面法
+モデルを複製して一回り大きくし、メッシュの裏側だけを塗りつぶして描画する方法。
+キャラクター系で王道的な実装です。
+
+
+
+
+
+ポストプロセスでのデプスのエッジ検出
+カメラからの距離（デプス）情報が記録されたテクスチャを参照...]]></summary>
+        <author>
+            <name>ryuga.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unity ShaderGraph備忘録 part7- ポスプロのアウトライン実装]]></title>
+        <id>https://zenn.dev/zn_ryg12/articles/shader-note-20261011</id>
+        <link href="https://zenn.dev/zn_ryg12/articles/shader-note-20261011"/>
+        <updated>2026-10-11T08:38:36.000Z</updated>
+        <summary type="html"><![CDATA[前回に続いてセルルックシェーダーに関わるアウトライン・輪郭線についてです。
+
+※この記事の作例には「ユニティちゃん」を使用しています
+© Unity Technologies Japan/UCL
+
+ アウトラインの実装方法
+
+今回使うユニティちゃんの素の状態
+アウトラインを描画するには、大きく分けて背面法と画面のデプスを用いたエッジ検出の2通りがあります
+
+
+
+背面法
+モデルを複製して一回り大きくし、メッシュの裏側だけを塗りつぶして描画する方法。
+キャラクター系で王道的な実装です。
+
+
+
+
+
+ポストプロセスでのデプスのエッジ検出
+カメラからの距離（デプス）情報が記録されたテクスチャを参照...]]></summary>
+        <author>
+            <name>ryuga.</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【アドオン紹介】Sky Paint – 時間帯に合わせて空・雲・星空をプロシージャル生成できるBlenderアドオン！]]></title>
         <id>https://cgbox.jp/?p=65817</id>
@@ -4599,17 +4661,6 @@ https://drive.google.com/drive/folders/1DuKJkulD-qZ9QjP947FzHJrw1ZPneaat?usp=sha
         <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
         <author>
             <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[cvELD ShellFitBrush – 衣装をブラシでなぞって素体へのめり込みや凹凸を修正できるBlender用アドオン]]></title>
-        <id>https://modelinghappy.com/?p=70430</id>
-        <link href="https://modelinghappy.com/archives/70430"/>
-        <updated>2026-09-11T15:57:40.000Z</updated>
-        <summary type="html"><![CDATA[Cveld_Shell Fit Brush cvELD ShellFitBrushは、cvELDさんが作成した、衣装や装飾をブラシでなぞりながら、別のメッシュ表面に沿うように形を整えられるBlender用アドオンです。
-The post cvELD ShellFitBrush – 衣装をブラシでなぞって素体へのめり込みや凹凸を修正できるBlender用アドオン first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
-        <author>
-            <name>modelinghappy</name>
         </author>
     </entry>
 </feed>

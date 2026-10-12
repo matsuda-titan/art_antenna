@@ -2,10 +2,82 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-10-11T16:59:06.457Z</updated>
+    <updated>2026-10-12T03:13:10.194Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[tranpでUnreal Engineのマテリアル関数を作成(#1)]]></title>
+        <id>https://qiita.com/rog-works/items/d60fa4f7a01d144f2784</id>
+        <link href="https://qiita.com/rog-works/items/d60fa4f7a01d144f2784"/>
+        <updated>2026-10-12T02:44:41.000Z</updated>
+        <summary type="html"><![CDATA[概要
+tranpの紹介記事、第2弾です
+今回はUnreal Engineのマテリアル関数を題材として、tranpの応用例を紹介していきます
+前回の記事を前提にしているので、不明な点があればご一読お願いします
+
+リンク
+
+前回: Python製トランスパイラー(tranp)...]]></summary>
+        <author>
+            <name>Shaderタグが付けられた新着記事 - Qiita</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[the point and prim、チュートリアル動画「Houdini Transform pieces but its LOPS」公開　定番RBDシミュレーションをLOPとUSDで効率化 - ニュース]]></title>
+        <id>https://cgworld.jp/flashnews/01-202610-HoudiniLOPS.html</id>
+        <link href="https://cgworld.jp/flashnews/01-202610-HoudiniLOPS.html"/>
+        <updated>2026-10-11T23:05:32.000Z</updated>
+        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[フォトグラメトリ数学｜61：誤差楕円・誤差楕円体とは何か]]></title>
+        <id>https://zenn.dev/s_hashida/articles/5f09a2aa940bd5</id>
+        <link href="https://zenn.dev/s_hashida/articles/5f09a2aa940bd5"/>
+        <updated>2026-10-11T22:05:05.000Z</updated>
+        <summary type="html"><![CDATA[はじめに
+前回は、
+
+分散とは何か
+共分散とは何か
+共分散行列とは何か
+共分散はどのように伝播するのか
+Jacobianと共分散行列の関係
+
+について説明しました。
+
+その中で重要だったのが、
+
+\Sigma_y
+\approx
+J
+\Sigma_x
+J^T
+
+という関係です。
+これは、
+入力側の誤差のばらつきや相互関係が、Jacobianを通して出力側へどのように伝わるのか
+を表しています。
+
+例えば、フォトグラメトリによって求められた3次元座標、
+
+(X,Y,Z)
+
+について、
+
+\Sigma_{XYZ}
+=
+\begin{bmatrix}
+\sigma_X^2
+&
+\...]]></summary>
+        <author>
+            <name>s_hashida</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SolveCraft Fusion 360のようなモデリングを目指す無料3D CADが公開！ブラウザでも利用可能]]></title>
         <id>https://modelinghappy.com/?p=70943</id>
@@ -4669,53 +4741,6 @@ The post Stylized Sky World Generator – アニメ・イラスト調の空や�
         <summary type="html"><![CDATA[続きをみる]]></summary>
         <author>
             <name>#SubstanceDesignerタグ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WEBに川をつくってみた。]]></title>
-        <id>https://zenn.dev/hiro5/articles/web-ni-kawa-wo-tsukutte-mita</id>
-        <link href="https://zenn.dev/hiro5/articles/web-ni-kawa-wo-tsukutte-mita"/>
-        <updated>2026-09-12T13:35:42.000Z</updated>
-        <summary type="html"><![CDATA[🖋️ 作りたい　うぇぶに川を　作りたい (川柳）
-毎日毎日、AIの返答、コード、AIの返答、AIの返答を見る。なんというか、その文字に目の焦点を合わせて意味をよみとらないと事が進まないみたいな、そういうことがすごく短いスパンで発生するので非常に辛い。以前ならもう少し時間を取って、頭の中で論理を積み上げて言語化すればよかったみたいなことが、論理の積み上げと情報収集の部分をほぼAIにアウトソースすることで、その時間と労力は短縮、しかし、その検証のために自分の方でうっすらと積み上げた論理や仮説と照らし合わせる、で、「OK」かもう一回打ち合わせるか、みたいなことが次々に押し寄せている。急にエ...]]></summary>
-        <author>
-            <name>HIRO5</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WEBに川をつくってみた。]]></title>
-        <id>https://zenn.dev/hiro5/articles/web-ni-kawa-wo-tsukutte-mita</id>
-        <link href="https://zenn.dev/hiro5/articles/web-ni-kawa-wo-tsukutte-mita"/>
-        <updated>2026-09-12T13:35:42.000Z</updated>
-        <summary type="html"><![CDATA[🖋️ 作りたい　うぇぶに川を　作りたい (川柳）
-毎日毎日、AIの返答、コード、AIの返答、AIの返答を見る。なんというか、その文字に目の焦点を合わせて意味をよみとらないと事が進まないみたいな、そういうことがすごく短いスパンで発生するので非常に辛い。以前ならもう少し時間を取って、頭の中で論理を積み上げて言語化すればよかったみたいなことが、論理の積み上げと情報収集の部分をほぼAIにアウトソースすることで、その時間と労力は短縮、しかし、その検証のために自分の方でうっすらと積み上げた論理や仮説と照らし合わせる、で、「OK」かもう一回打ち合わせるか、みたいなことが次々に押し寄せている。急にエ...]]></summary>
-        <author>
-            <name>HIRO5</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Substance Designer】1から作る！「板の間」のPBRテクスチャ解説②]]></title>
-        <id>https://note.com/manji_9278274/n/n24c57fb6fdb4</id>
-        <link href="https://note.com/manji_9278274/n/n24c57fb6fdb4"/>
-        <updated>2026-09-12T10:00:14.000Z</updated>
-        <summary type="html"><![CDATA[どうもみなさん１週間ぶり。まんじです。
-前回は「板の間」のタイルと木目を作りましたね。今回は今まで作ったノードを使って、色以外の質感を作っていきます。
-続きをみる]]></summary>
-        <author>
-            <name>#SubstanceDesignerタグ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[可視性カリング - スキャッタリング最適化]]></title>
-        <id>https://note.com/kura_0724/n/n8a3f556b12fa</id>
-        <link href="https://note.com/kura_0724/n/n8a3f556b12fa"/>
-        <updated>2026-09-12T09:15:15.000Z</updated>
-        <summary type="html"><![CDATA[今回のシーンファイルはここに入っているので、もしよかったらチェックしてみてください。
-https://drive.google.com/drive/folders/1DuKJkulD-qZ9QjP947FzHJrw1ZPneaat?usp=sharing
-
-続きをみる]]></summary>
-        <author>
-            <name>#Houdiniタグ</name>
         </author>
     </entry>
 </feed>

@@ -2,10 +2,82 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-10-12T03:13:10.194Z</updated>
+    <updated>2026-10-12T17:07:13.340Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ブラウザで4次元を描くまで — 回転と立体射影]]></title>
+        <id>https://zenn.dev/urabexon/articles/stereographic-projection-4d-browser</id>
+        <link href="https://zenn.dev/urabexon/articles/stereographic-projection-4d-browser"/>
+        <updated>2026-10-12T16:04:52.000Z</updated>
+        <summary type="html"><![CDATA[4 次元の図形を、ブラウザの中でぐにゃぐにゃ回して眺めるアプリを作った。
+https://nth-blue.vercel.app/
+
+120 胞体。1200 本の辺でできた籠が、ゆっくり裏返り続ける
+
+ 何が起きているのか
+まず見てほしいのはこれ。同じ超立方体を、設定を 1 つ変えて撮った 2 枚だ。
+
+ランプを遠くに置いたとき。教科書で見る「立方体の中に立方体」
+
+ランプを近づけたとき。内側にあった小さな立方体が膨らんで、画面の外へ抜けていく
+3 次元の立方体をどう回しても、内側の面が外側に来ることはない。ところが 4 次元で回すと、さっきまで奥にあった小さな部屋が手前に膨らんできて、...]]></summary>
+        <author>
+            <name>Hiroki Urabe</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[3D Asset Server ー 23の素材サイトから3Dモデル・PBRテクスチャ・HDRIをまとめて探せる無料検索サービス]]></title>
+        <id>https://modelinghappy.com/?p=70952</id>
+        <link href="https://modelinghappy.com/archives/70952"/>
+        <updated>2026-10-12T12:23:49.000Z</updated>
+        <summary type="html"><![CDATA[3D Asset Server 3D Asset Serverは、Poly Haven、ambientCG、Kenney、BlenderKitなど、23の素材サイトを対象に、3DモデルやPBRマテリアル、テクスチャ、HD
+The post 3D Asset Server ー 23の素材サイトから3Dモデル・PBRテクスチャ・HDRIをまとめて探せる無料検索サービス first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
+        <author>
+            <name>modelinghappy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NGon Loop Select 4.0 がリリース！選択前のプレビュー、Shift／Alt+クリックとスクロールで経路を調整可能に]]></title>
+        <id>https://cginterest.com/?p=63179</id>
+        <link href="https://cginterest.com/2026/10/12/ngon-loop-select-4-0-%e3%81%8c%e3%83%aa%e3%83%aa%e3%83%bc%e3%82%b9%ef%bc%81%e9%81%b8%e6%8a%9e%e5%89%8d%e3%81%ae%e3%83%97%e3%83%ac%e3%83%93%e3%83%a5%e3%83%bc%e3%80%81shift%ef%bc%8falt%e3%82%af/"/>
+        <updated>2026-10-12T08:29:44.000Z</updated>
+        <summary type="html"><![CDATA[Amandeep氏が開発するBlender向けのループ選択アドオン「NGon Loop Select」が、バージョン4.0へとアップデートされました。 NGon Loop Select について NGon Loop Se […]]]></summary>
+        <author>
+            <name>.me</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SolidCraft（旧SolveCraft）| Autodesk Fusionのような操作性を目指す無料＆オープンソースのパラメトリック3D CAD！AIエージェントによるモデリングにも対応！Win Mac Linux Web]]></title>
+        <id>https://3dnchu.com/?p=1069107</id>
+        <link href="https://3dnchu.com/archives/solidcraft/"/>
+        <updated>2026-10-12T08:28:44.000Z</updated>
+        <summary type="html"><![CDATA[bherbruck氏による、Rustで開発された無料のオープンソース3D CADソフトウェア「SolidCraft」のご紹介！スケッチや寸法拘束、履歴ベースのパラメトリックモデリングに対応し、MCPを介したAIエージェントによる操作も可能です。]]></summary>
+        <author>
+            <name>Ymt3D -3dnchu-</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[［コンテスト〆切2026年10月31日］Unreal Engine用の高品質な湿地・鉄道橋アセット「Coastal Wetland & Railroad Bridge」が無料公開！]]></title>
+        <id>https://cginterest.com/?p=63174</id>
+        <link href="https://cginterest.com/2026/10/12/%ef%bc%bb%e3%82%b3%e3%83%b3%e3%83%86%e3%82%b9%e3%83%88%e3%80%86%e5%88%872026%e5%b9%b410%e6%9c%8831%e6%97%a5%ef%bc%bdunreal-engine%e7%94%a8%e3%81%ae%e9%ab%98%e5%93%81%e8%b3%aa%e3%81%aa%e6%b9%bf/"/>
+        <updated>2026-10-12T07:35:09.000Z</updated>
+        <summary type="html"><![CDATA[2026年10月2日（現地時間） – 3DCGアセットスタジオのLeartes Studiosは、「MONTHLY RELIGHT CONTEST（月例リライトコンテスト）」の一環として、Switchboar […]]]></summary>
+        <author>
+            <name>.me</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mixar 4.1 | Blender 5.2をベースにAIエージェントや3D生成＆マテリアル＆レイヤーペイント機能を統合したオープンソースの3D制作ソフト！ | Win＆Mac＆Linux]]></title>
+        <id>https://3dnchu.com/?p=1069075</id>
+        <link href="https://3dnchu.com/archives/mixar-4-1/"/>
+        <updated>2026-10-12T06:18:14.000Z</updated>
+        <summary type="html"><![CDATA[Blender 5.2をベースに開発されたオープンソースの3D制作ソフト「Mixar」。AIエージェントによるモデリングやシーン構築、画像からの3D生成、レイヤーベースのテクスチャペイント、カメラ演出などを統合しています。]]></summary>
+        <author>
+            <name>Ymt3D -3dnchu-</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[tranpでUnreal Engineのマテリアル関数を作成(#1)]]></title>
         <id>https://qiita.com/rog-works/items/d60fa4f7a01d144f2784</id>
@@ -21,6 +93,33 @@ tranpの紹介記事、第2弾です
 前回: Python製トランスパイラー(tranp)...]]></summary>
         <author>
             <name>Shaderタグが付けられた新着記事 - Qiita</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[tranpでUnreal Engineのマテリアル関数を作成(#1)]]></title>
+        <id>https://zenn.dev/rog_works/articles/bc8c0ff0fef8d0</id>
+        <link href="https://zenn.dev/rog_works/articles/bc8c0ff0fef8d0"/>
+        <updated>2026-10-12T02:39:45.000Z</updated>
+        <summary type="html"><![CDATA[概要
+tranpの紹介記事、第2弾です
+今回はUnreal Engineのマテリアル関数を題材として、tranpの応用例を紹介していきます
+前回の記事を前提にしているので、不明な点があればご一読お願いします
+
+ リンク
+
+前回: Python製トランスパイラー(tranp)の紹介
+
+
+
+ 参考画像
+以下は、所謂ディゾルブエフェクトです。全てtranpから作成しています
+マテリアルパラメーターを変更すれば消失割合、グラデーションの色・範囲など調整可能です
+UI用のマテリアルなので2Dですが、3Dにも応用できます
+このようなマテリアルの作成を目標として解説していきます
+
+※UE5.8のス...]]></summary>
+        <author>
+            <name>rog-works</name>
         </author>
     </entry>
     <entry>
@@ -4731,16 +4830,6 @@ The post Stylized Sky World Generator – アニメ・イラスト調の空や�
 左が症状、右が...]]></summary>
         <author>
             <name>maruhana</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Substance Designer / 炎トレイル]]></title>
-        <id>https://note.com/efeozi/n/n2b5c81aa283a</id>
-        <link href="https://note.com/efeozi/n/n2b5c81aa283a"/>
-        <updated>2026-09-13T01:44:50.000Z</updated>
-        <summary type="html"><![CDATA[続きをみる]]></summary>
-        <author>
-            <name>#SubstanceDesignerタグ</name>
         </author>
     </entry>
 </feed>

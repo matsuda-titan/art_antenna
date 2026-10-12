@@ -415,6 +415,36 @@
       "siteUrl": "https://3dnchu.com",
       "articles": [
         {
+          "id": "https://3dnchu.com/?p=1069107",
+          "author": "Ymt3D -3dnchu-",
+          "description": "bherbruck氏による、Rustで開発された無料のオープンソース3D CADソフトウェア「SolidCraft」のご紹介！スケッチや寸法拘束、履歴ベースのパラメトリックモデリングに対応し、MCPを介したAIエージェントによる操作も可能です。",
+          "link": "https://3dnchu.com/archives/solidcraft/",
+          "publishedOn": "2026-10-12T08:28:44.000Z",
+          "wordCount": 7936,
+          "title": "SolidCraft（旧SolveCraft）| Autodesk Fusionのような操作性を目指す無料＆オープンソースのパラメトリック3D CAD！AIエージェントによるモデリングにも対応！Win Mac Linux Web",
+          "enclosure": {
+            "url": "https://3dnchu.com/wp-content/uploads/SolidCraft.webp",
+            "length": "264500",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://3dnchu.com/wp-content/uploads/SolidCraft.webp"
+        },
+        {
+          "id": "https://3dnchu.com/?p=1069075",
+          "author": "Ymt3D -3dnchu-",
+          "description": "Blender 5.2をベースに開発されたオープンソースの3D制作ソフト「Mixar」。AIエージェントによるモデリングやシーン構築、画像からの3D生成、レイヤーベースのテクスチャペイント、カメラ演出などを統合しています。",
+          "link": "https://3dnchu.com/archives/mixar-4-1/",
+          "publishedOn": "2026-10-12T06:18:14.000Z",
+          "wordCount": 7912,
+          "title": "Mixar 4.1 | Blender 5.2をベースにAIエージェントや3D生成＆マテリアル＆レイヤーペイント機能を統合したオープンソースの3D制作ソフト！ | Win＆Mac＆Linux",
+          "enclosure": {
+            "url": "https://3dnchu.com/wp-content/uploads/Mixar.webp",
+            "length": "1607614",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://3dnchu.com/wp-content/uploads/Mixar.webp"
+        },
+        {
           "id": "https://3dnchu.com/?p=1069061",
           "author": "Ymt3D -3dnchu-",
           "description": "Maks Surguy氏（ @msurguy ）が、ブラウザで動作する水彩ペイントアプリ「Watercolor」をオープンソースで公開しました。顔料の混色や水によるにじみ、乾燥時の縁の濃淡などを再現できます。",
@@ -2084,6 +2114,16 @@
       "siteUrl": "https://modelinghappy.com",
       "articles": [
         {
+          "id": "https://modelinghappy.com/?p=70952",
+          "author": "modelinghappy",
+          "description": "3D Asset Server 3D Asset Serverは、Poly Haven、ambientCG、Kenney、BlenderKitなど、23の素材サイトを対象に、3DモデルやPBRマテリアル、テクスチャ、HD\nThe post 3D Asset Server ー 23の素材サイトから3Dモデル・PBRテクスチャ・HDRIをまとめて探せる無料検索サービス first appeared on 3DCG最新情報サイト MODELING HAPPY.",
+          "link": "https://modelinghappy.com/archives/70952",
+          "publishedOn": "2026-10-12T12:23:49.000Z",
+          "wordCount": 3072,
+          "title": "3D Asset Server ー 23の素材サイトから3Dモデル・PBRテクスチャ・HDRIをまとめて探せる無料検索サービス",
+          "imageUrl": "https://modelinghappy.com/wp-content/uploads/2026/10/20261012_3dAssets_server_01.jpg"
+        },
+        {
           "id": "https://modelinghappy.com/?p=70943",
           "author": "modelinghappy",
           "description": "github solvecraft webアプリ solvecraft SolveCraftは、Autodesk Fusion 360のようなパラメトリックモデリングを目指して開発された、Autodeskとは関係のない無\nThe post SolveCraft Fusion 360のようなモデリングを目指す無料3D CADが公開！ブラウザでも利用可能 first appeared on 3DCG最新情報サイト MODELING HAPPY.",
@@ -2666,6 +2706,36 @@
       "feedUrl": "https://zenn.dev/topics/shader/feed",
       "siteUrl": "https://zenn.dev/topics/shader",
       "articles": [
+        {
+          "id": "https://zenn.dev/urabexon/articles/stereographic-projection-4d-browser",
+          "author": "Hiroki Urabe",
+          "description": "4 次元の図形を、ブラウザの中でぐにゃぐにゃ回して眺めるアプリを作った。\nhttps://nth-blue.vercel.app/\n\n120 胞体。1200 本の辺でできた籠が、ゆっくり裏返り続ける\n\n 何が起きているのか\nまず見てほしいのはこれ。同じ超立方体を、設定を 1 つ変えて撮った 2 枚だ。\n\nランプを遠くに置いたとき。教科書で見る「立方体の中に立方体」\n\nランプを近づけたとき。内側にあった小さな立方体が膨らんで、画面の外へ抜けていく\n3 次元の立方体をどう回しても、内側の面が外側に来ることはない。ところが 4 次元で回すと、さっきまで奥にあった小さな部屋が手前に膨らんできて、...",
+          "link": "https://zenn.dev/urabexon/articles/stereographic-projection-4d-browser",
+          "publishedOn": "2026-10-12T16:04:52.000Z",
+          "wordCount": 759,
+          "title": "ブラウザで4次元を描くまで — 回転と立体射影",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--5SQ3RT9i--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%2596%25E3%2583%25A9%25E3%2582%25A6%25E3%2582%25B6%25E3%2581%25A74%25E6%25AC%25A1%25E5%2585%2583%25E3%2582%2592%25E6%258F%258F%25E3%2581%258F%25E3%2581%25BE%25E3%2581%25A7%2520%25E2%2580%2594%2520%25E5%259B%259E%25E8%25BB%25A2%25E3%2581%25A8%25E7%25AB%258B%25E4%25BD%2593%25E5%25B0%2584%25E5%25BD%25B1%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Hiroki%2520Urabe%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzUxZjRmYzZlMDAuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+            "length": "0",
+            "type": "false"
+          },
+          "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--5SQ3RT9i--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%2596%25E3%2583%25A9%25E3%2582%25A6%25E3%2582%25B6%25E3%2581%25A74%25E6%25AC%25A1%25E5%2585%2583%25E3%2582%2592%25E6%258F%258F%25E3%2581%258F%25E3%2581%25BE%25E3%2581%25A7%2520%25E2%2580%2594%2520%25E5%259B%259E%25E8%25BB%25A2%25E3%2581%25A8%25E7%25AB%258B%25E4%25BD%2593%25E5%25B0%2584%25E5%25BD%25B1%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Hiroki%2520Urabe%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzUxZjRmYzZlMDAuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+        },
+        {
+          "id": "https://zenn.dev/rog_works/articles/bc8c0ff0fef8d0",
+          "author": "rog-works",
+          "description": "概要\ntranpの紹介記事、第2弾です\n今回はUnreal Engineのマテリアル関数を題材として、tranpの応用例を紹介していきます\n前回の記事を前提にしているので、不明な点があればご一読お願いします\n\n リンク\n\n前回: Python製トランスパイラー(tranp)の紹介\n\n\n\n 参考画像\n以下は、所謂ディゾルブエフェクトです。全てtranpから作成しています\nマテリアルパラメーターを変更すれば消失割合、グラデーションの色・範囲など調整可能です\nUI用のマテリアルなので2Dですが、3Dにも応用できます\nこのようなマテリアルの作成を目標として解説していきます\n\n※UE5.8のス...",
+          "link": "https://zenn.dev/rog_works/articles/bc8c0ff0fef8d0",
+          "publishedOn": "2026-10-12T02:39:45.000Z",
+          "wordCount": 1424,
+          "title": "tranpでUnreal Engineのマテリアル関数を作成(#1)",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--bw17XCP7--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:tranp%25E3%2581%25A7Unreal%2520Engine%25E3%2581%25AE%25E3%2583%259E%25E3%2583%2586%25E3%2583%25AA%25E3%2582%25A2%25E3%2583%25AB%25E9%2596%25A2%25E6%2595%25B0%25E3%2582%2592%25E4%25BD%259C%25E6%2588%2590%2528%25231%2529%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:rog-works%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzE0OWRhNTVjNzUuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+            "length": "0",
+            "type": "false"
+          },
+          "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--bw17XCP7--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:tranp%25E3%2581%25A7Unreal%2520Engine%25E3%2581%25AE%25E3%2583%259E%25E3%2583%2586%25E3%2583%25AA%25E3%2582%25A2%25E3%2583%25AB%25E9%2596%25A2%25E6%2595%25B0%25E3%2582%2592%25E4%25BD%259C%25E6%2588%2590%2528%25231%2529%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:rog-works%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzE0OWRhNTVjNzUuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+        },
         {
           "id": "https://zenn.dev/zn_ryg12/articles/shader-note-20261011",
           "author": "ryuga.",
@@ -4207,16 +4277,6 @@
           "wordCount": 3044,
           "title": "【無料配布】和室・ゲーム背景に使える板の間・木目テクスチャ",
           "imageUrl": "https://assets.st-note.com/production/uploads/images/314386064/rectangle_large_type_2_bd562fdc734196b74f83deb08175414b.png?width=800"
-        },
-        {
-          "id": "https://note.com/efeozi/n/n2b5c81aa283a",
-          "author": null,
-          "description": "続きをみる",
-          "link": "https://note.com/efeozi/n/n2b5c81aa283a",
-          "publishedOn": "2026-09-13T01:44:50.000Z",
-          "wordCount": 2404,
-          "title": "Substance Designer / 炎トレイル",
-          "imageUrl": "https://assets.st-note.com/production/uploads/images/313159168/rectangle_large_type_2_dbeabe56f34277ade86ad7cfb33f6db5.png?width=800"
         }
       ]
     },
@@ -4395,6 +4455,31 @@
       "feedUrl": "https://cginterest.com/feed/",
       "siteUrl": "https://cginterest.com",
       "articles": [
+        {
+          "id": "https://cginterest.com/?p=63179",
+          "author": ".me",
+          "description": "Amandeep氏が開発するBlender向けのループ選択アドオン「NGon Loop Select」が、バージョン4.0へとアップデートされました。 NGon Loop Select について NGon Loop Se […]",
+          "link": "https://cginterest.com/2026/10/12/ngon-loop-select-4-0-%e3%81%8c%e3%83%aa%e3%83%aa%e3%83%bc%e3%82%b9%ef%bc%81%e9%81%b8%e6%8a%9e%e5%89%8d%e3%81%ae%e3%83%97%e3%83%ac%e3%83%93%e3%83%a5%e3%83%bc%e3%80%81shift%ef%bc%8falt%e3%82%af/",
+          "publishedOn": "2026-10-12T08:29:44.000Z",
+          "wordCount": 1259,
+          "title": "NGon Loop Select 4.0 がリリース！選択前のプレビュー、Shift／Alt+クリックとスクロールで経路を調整可能に",
+          "enclosure": {
+            "url": "https://cginterest.com/wp-content/uploads/2026/10/A-Weird-Face-Outline1.mp4",
+            "length": "47581",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://cginterest.com/wp-content/uploads/2026/10/NGonLoopSelectV4.webp"
+        },
+        {
+          "id": "https://cginterest.com/?p=63174",
+          "author": ".me",
+          "description": "2026年10月2日（現地時間） – 3DCGアセットスタジオのLeartes Studiosは、「MONTHLY RELIGHT CONTEST（月例リライトコンテスト）」の一環として、Switchboar […]",
+          "link": "https://cginterest.com/2026/10/12/%ef%bc%bb%e3%82%b3%e3%83%b3%e3%83%86%e3%82%b9%e3%83%88%e3%80%86%e5%88%872026%e5%b9%b410%e6%9c%8831%e6%97%a5%ef%bc%bdunreal-engine%e7%94%a8%e3%81%ae%e9%ab%98%e5%93%81%e8%b3%aa%e3%81%aa%e6%b9%bf/",
+          "publishedOn": "2026-10-12T07:35:09.000Z",
+          "wordCount": 1216,
+          "title": "［コンテスト〆切2026年10月31日］Unreal Engine用の高品質な湿地・鉄道橋アセット「Coastal Wetland & Railroad Bridge」が無料公開！",
+          "imageUrl": "https://cginterest.com/wp-content/uploads/2026/10/relightcontest-freecontents2026-10.webp"
+        },
         {
           "id": "https://cginterest.com/?p=63152",
           "author": ".me",

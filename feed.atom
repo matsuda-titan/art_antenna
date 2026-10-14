@@ -2,10 +2,102 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-10-13T15:23:33.658Z</updated>
+    <updated>2026-10-14T02:38:17.575Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[#22：『レベルデザインをはじめよう』＆#23：『ゲーム背景のための植生環境のつくり方』 - 連載]]></title>
+        <id>https://cgworld.jp/regular/202610-cgw339-book.html</id>
+        <link href="https://cgworld.jp/regular/202610-cgw339-book.html"/>
+        <updated>2026-10-14T01:42:00.000Z</updated>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[オートデスク、ソニーmocopi×3ds Max連携事例を公開　TVアニメ『勇者パーティを追い出された器用貧乏』のモブモーション制作 - ニュース]]></title>
+        <id>https://cgworld.jp/flashnews/01-202610-3dsmax-mocopi.html</id>
+        <link href="https://cgworld.jp/flashnews/01-202610-3dsmax-mocopi.html"/>
+        <updated>2026-10-14T01:27:11.000Z</updated>
+        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[『ケンエレファントのデジタル造形術』作家との二人三脚でつくる面白くて精巧なカプセルトイ ～No.2／宮下サトシ篇 - 特集]]></title>
+        <id>https://cgworld.jp/article/202609-kenele02.html</id>
+        <link href="https://cgworld.jp/article/202609-kenele02.html"/>
+        <updated>2026-10-14T01:00:44.000Z</updated>
+        <summary type="html"><![CDATA[ケンエレファントのデジタル造形術を紹介。]]></summary>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EasyShelf ーよく使う操作を右クリックで登録！Blenderに自分専用のシェルフを作れる無料アドオン]]></title>
+        <id>https://modelinghappy.com/?p=70977</id>
+        <link href="https://modelinghappy.com/archives/70977"/>
+        <updated>2026-10-14T00:06:46.000Z</updated>
+        <summary type="html"><![CDATA[EasyShelf EasyShelfは、Blenderのよく使う操作をボタンとしてまとめ、ワンクリックで実行できる無料アドオンです。 Blenderのインターフェース上にあるボタンを右クリックして、シェルフに登録する事
+The post EasyShelf ーよく使う操作を右クリックで登録！Blenderに自分専用のシェルフを作れる無料アドオン first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
+        <author>
+            <name>modelinghappy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nyanneco CropMask Generator 使い方]]></title>
+        <id>https://note.com/nyanneco/n/nd923386e618d</id>
+        <link href="https://note.com/nyanneco/n/nd923386e618d"/>
+        <updated>2026-10-14T00:03:14.000Z</updated>
+        <summary type="html"><![CDATA[https://nyanneco9.booth.pm/items/8986654
+Nyanneco CropMask Generatorは、Substance 3D Painterで矩形・円・グラデーション・自由形状のマスクを作るジェネレーターです。塗りつぶした面だけでなく、輪郭の線や、輪郭から柔らかく広がるマスクも作れます。
+続きをみる]]></summary>
+        <author>
+            <name>#substancepainterタグ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ブラウザで4次元を描くまで — 太い線とネオンの芯、そして「数珠」の正体]]></title>
+        <id>https://zenn.dev/urabexon/articles/thick-neon-lines-with-shared-strips</id>
+        <link href="https://zenn.dev/urabexon/articles/thick-neon-lines-with-shared-strips"/>
+        <updated>2026-10-13T15:57:15.000Z</updated>
+        <summary type="html"><![CDATA[前回は、4 次元の図形を画面に出す 4 行の話だった。今回はその辺を「光る管」として描く話。
+WebGL にも WebGPU にも「太い線」は存在しない。線の太さは 1 px 固定で、太く描きたければ自分で細長い板を作って並べるしかない。
+
+線幅 1 px。GPU がそのまま引く線はこれに近い
+
+同じ図形を 4 px の板で描いたもの
+NTH でこの板をどう作ったかと、途中で踏んだ「線が数珠になる」問題の切り分けを書く。
+
+ 辺ごとの板から、頂点を共有するリボンへ
+最初の実装は素直に辺を N 分割し、分割された 1 区間ごとに 4 頂点の四角形を作った。
+各頂点は「自分の区間の両端の 4...]]></summary>
+        <author>
+            <name>Hiroki Urabe</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ブラウザで4次元を描くまで — 太い線とネオンの芯、そして「数珠」の正体]]></title>
+        <id>https://zenn.dev/urabexon/articles/thick-neon-lines-with-shared-strips</id>
+        <link href="https://zenn.dev/urabexon/articles/thick-neon-lines-with-shared-strips"/>
+        <updated>2026-10-13T15:57:15.000Z</updated>
+        <summary type="html"><![CDATA[前回は、4 次元の図形を画面に出す 4 行の話だった。今回はその辺を「光る管」として描く話。
+WebGL にも WebGPU にも「太い線」は存在しない。線の太さは 1 px 固定で、太く描きたければ自分で細長い板を作って並べるしかない。
+
+線幅 1 px。GPU がそのまま引く線はこれに近い
+
+同じ図形を 4 px の板で描いたもの
+NTH でこの板をどう作ったかと、途中で踏んだ「線が数珠になる」問題の切り分けを書く。
+
+ 辺ごとの板から、頂点を共有するリボンへ
+最初の実装は素直に辺を N 分割し、分割された 1 区間ごとに 4 頂点の四角形を作った。
+各頂点は「自分の区間の両端の 4...]]></summary>
+        <author>
+            <name>Hiroki Urabe</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【Maya】モデルのサイズを確認できる便利な機能]]></title>
         <id>https://3d.crdg.jp/env/?p=10604</id>
@@ -4771,101 +4863,6 @@ The post Plugin Hub – 増えすぎたBlenderアドオンのサイドバータ�
 続きを読む]]></summary>
         <author>
             <name>Ymt3D -3dnchu-</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bone Guide v1.0 | ボーンの向きや軸を直感的に整列できるBlenderアドオンが無料公開！]]></title>
-        <id>https://3dnchu.com/?p=1068360</id>
-        <link href="https://3dnchu.com/archives/bone-guide-v1-0/"/>
-        <updated>2026-09-14T12:53:36.000Z</updated>
-        <summary type="html"><![CDATA[brave rabbitのが、ボーンチェーンの配置や軸方向をインタラクティブに調整できるBlenderアドオン「Bone Guide v1.0」を公開しました。 Bone Guide – Interactive Planar Bone Chain Creation Bone Guideは […]
-続きを読む]]></summary>
-        <author>
-            <name>Ymt3D -3dnchu-</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【Substance Painter】各チャンネルの調整について]]></title>
-        <id>https://3d.crdg.jp/env/?p=10391</id>
-        <link href="https://3d.crdg.jp/env/2026/09/14/10391/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=%25e3%2580%2590substance-painter%25e3%2580%2591%25e5%2590%2584%25e3%2583%2581%25e3%2583%25a3%25e3%2583%25b3%25e3%2583%258d%25e3%2583%25ab%25e3%2581%25ae%25e8%25aa%25bf%25e6%2595%25b4%25e3%2581%25ab%25e3%2581%25a4%25e3%2581%2584%25e3%2581%25a6"/>
-        <updated>2026-09-14T12:39:28.000Z</updated>
-        <summary type="html"><![CDATA[以前の記事（Substance Painter】Passthroughで全体調整用のレイヤーを作る）で、全体調整用のレイヤーについてご紹介していました […]
-続きを読む
-投稿 【Substance Painter】各チャンネルの調整について は エンホリ - ENVIRONMENT HOLIC｜C&R Creative Studios に最初に表示されました。]]></summary>
-        <author>
-            <name>Kaho.Nobukawa</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nuke Artists Q&A ｜ 学生からプロまで特徴的な作品づくりを手がけるアーティストたちにインタビュー - スペシャルコンテンツ]]></title>
-        <id>https://cgworld.jp/special-feature/nuke-artists-qa.html</id>
-        <link href="https://cgworld.jp/special-feature/nuke-artists-qa.html"/>
-        <updated>2026-09-14T09:06:43.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TRIPOで1枚画像から綺麗な3Dトポロジーモデルが作成出来るP1.0とP2.0を実際に使い比べてみましたレビュー]]></title>
-        <id>https://modelinghappy.com/?p=70191</id>
-        <link href="https://modelinghappy.com/archives/70191"/>
-        <updated>2026-09-14T09:00:12.000Z</updated>
-        <summary type="html"><![CDATA[TRIPO 1枚の画像からAIで3Dモデルを生成できる「Tripo」のスマートメッシュが進化し、綺麗な流れのトポロジーを自動生成できるP2.0が利用できるようになりました。 今回、従来のP1.0とP2.0を人物やキャラク
-The post TRIPOで1枚画像から綺麗な3Dトポロジーモデルが作成出来るP1.0とP2.0を実際に使い比べてみましたレビュー first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
-        <author>
-            <name>modelinghappy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Animo Sliders for Blender – 16種類のスライダーでキャラクターアニメーションを調整できる無料アドオン]]></title>
-        <id>https://modelinghappy.com/?p=70513</id>
-        <link href="https://modelinghappy.com/archives/70513"/>
-        <updated>2026-09-14T08:55:45.000Z</updated>
-        <summary type="html"><![CDATA[Animo Sliders for Blender Animo Sliders for Blenderは、キーフレーム間のポーズや動きのタイミングを、スライダー操作で調整できる無料アドオンです。 Maya向けアニメーショ
-The post Animo Sliders for Blender – 16種類のスライダーでキャラクターアニメーションを調整できる無料アドオン first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
-        <author>
-            <name>modelinghappy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SuperSplat 3.0がリリース！WebGPUによる全面刷新でメモリ消費が最大93%削減、新選択ツール「スフィアブラシ」やStochastic Alphaを搭載]]></title>
-        <id>https://cginterest.com/?p=62545</id>
-        <link href="https://cginterest.com/2026/09/14/supersplat-3-0-release-webgpu/"/>
-        <updated>2026-09-14T08:16:18.000Z</updated>
-        <summary type="html"><![CDATA[PlayCanvasチームはWebGPU専用へと刷新された3D Gaussian Splattingエディター「SuperSplat 3.0」を発表。メモリ消費量の大幅削減やスフィアブラシ、Stochastic Alphaなど新機能の要点をまとめました。]]></summary>
-        <author>
-            <name>.me</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【新講座】Nukeキーイングの引き出しを増やす。9/15(火)開催オンライン講座『"抜く"技術 〜Nukeキーイング実践〜 』 - ニュース]]></title>
-        <id>https://cgworld.jp/flashnews/nuke915-nuke.html</id>
-        <link href="https://cgworld.jp/flashnews/nuke915-nuke.html"/>
-        <updated>2026-09-14T08:10:56.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【参加企業決定！】10/9（金）東京で開催。アニメ・CG・ゲーム専門合同企業説明会「つくジョブ！」 - ニュース]]></title>
-        <id>https://cgworld.jp/flashnews/02-2609-tsukujob.html</id>
-        <link href="https://cgworld.jp/flashnews/02-2609-tsukujob.html"/>
-        <updated>2026-09-14T06:58:55.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【アドオン紹介】Cveld_Shell Fit Brush – ブラシでオブジェクトをフィットさせるアドオン！]]></title>
-        <id>https://cgbox.jp/?p=65674</id>
-        <link href="https://cgbox.jp/2026/09/14/news-addon-cveld_shell-fit-brush/"/>
-        <updated>2026-09-14T06:53:23.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは！ 今回はアドオンの「Cveld_Shell Fit Brush」を紹介します。 こちらのリンクがアドオンの商品ページになります。 Cveld_Shell Fit Brush 「Cveld_Shell Fit  […]]]></summary>
-        <author>
-            <name>kasahara</name>
         </author>
     </entry>
 </feed>

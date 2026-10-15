@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-10-14T16:08:39.911Z</updated>
+    <updated>2026-10-15T02:19:05.617Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[『ケンエレファントのデジタル造形術』作家との二人三脚でつくる面白くて精巧なカプセルトイ ～No.3／ザリガニボーイズ篇 - 特集]]></title>
+        <id>https://cgworld.jp/article/202609-kenele03.html</id>
+        <link href="https://cgworld.jp/article/202609-kenele03.html"/>
+        <updated>2026-10-15T01:00:49.000Z</updated>
+        <summary type="html"><![CDATA[ケンエレファントのデジタル造形術を紹介。]]></summary>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SideFX、Frame48によるHoudini事例の日本語記事を公開　小規模スタジオ環境でのAPEX・Solaris・USDワークフロー - ニュース]]></title>
+        <id>https://cgworld.jp/flashnews/01-202610-Houdini-Frame48.html</id>
+        <link href="https://cgworld.jp/flashnews/01-202610-Houdini-Frame48.html"/>
+        <updated>2026-10-15T00:42:47.000Z</updated>
+        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Mode開発⑤ UI・Half]]></title>
         <id>https://qiita.com/aijyu/items/2d081ccf1d26bbde4fb7</id>
@@ -23,6 +43,22 @@ Sh...]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[ブラウザで、回るブラックホールのまわりの光をたどる（WebGL2・ライブラリなし）]]></title>
+        <id>https://zenn.dev/sishiya/articles/blackhole-kerr-raytracing-webgl2</id>
+        <link href="https://zenn.dev/sishiya/articles/blackhole-kerr-raytracing-webgl2"/>
+        <updated>2026-10-14T14:42:27.000Z</updated>
+        <summary type="html"><![CDATA[映画『インターステラー』のブラックホールは、平らな円盤が穴の上にも下にも回りこんで見えます。あれは演出ではなく、重力で光が曲がった結果です。
+それを確かめるために、回るブラックホール（カー時空）のまわりの光を1本ずつ計算して描くページをブラウザで作りました。WebGL2 を直接書いていて、ライブラリは使っていません。
+https://sishiya.github.io/manabi-lab/black-hole/
+
+画面の点をクリックすると、そこに届いた光がどこから来たかを、横から見た図と上から見た図で出します。この記事では、そのしくみと、つまずいたところを書きます。
+
+ やっていること...]]></summary>
+        <author>
+            <name>しし屋 まなびラボ</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Orange ー Blenderに慣れた操作でAutodesk Mayaを使用できる無料ツールが公開！G・R・Sによる移動やモディファイアパネルが利用可能]]></title>
         <id>https://modelinghappy.com/?p=70981</id>
         <link href="https://modelinghappy.com/archives/70981"/>
@@ -31,6 +67,21 @@ Sh...]]></summary>
 The post Orange ー Blenderに慣れた操作でAutodesk Mayaを使用できる無料ツールが公開！G・R・Sによる移動やモディファイアパネルが利用可能 first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
         <author>
             <name>modelinghappy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ターミナルでClaudeイカを踊らせた｜Ghostty + tmuxで遊んでいたら何でもできた]]></title>
+        <id>https://zenn.dev/kki2ne/articles/tmux-ghostty-shader-effects-2026</id>
+        <link href="https://zenn.dev/kki2ne/articles/tmux-ghostty-shader-effects-2026"/>
+        <updated>2026-10-14T10:52:59.000Z</updated>
+        <summary type="html"><![CDATA[これ、ターミナルの中なんです。
+Claude Codeが処理している間、tmuxのpaneの左上でClaudeイカが歩き回ります。Claude Codeを3つ動かしていれば3匹。足踏みしたり、跳ねたり、きょろきょろしたり。
+役には立ちません。でも見ていると楽しいんですよね。
+GhosttyとtmuxをClaude Codeといじっていたら、一日でここまで来ました。ほかにも、非アクティブなpaneをぼかしたり、popupをアプリのモーダルみたいにしたり、git pushで花火を上げたりできるようになりました。くだらないけど、アイデア次第でいろいろできるなという話です。
+
+ きっかけは、ど...]]></summary>
+        <author>
+            <name>きつね</name>
         </author>
     </entry>
     <entry>
@@ -4877,62 +4928,6 @@ https://www.youtube.com/watch?v=Xxcu5r0s7iY
         <link href="https://3dnchu.com/archives/cge-sculpting-tool-for-maya/"/>
         <updated>2026-09-15T21:08:27.000Z</updated>
         <summary type="html"><![CDATA[CGElementary（Morteza Ahmadi氏）によるMaya向けの本格GPUスカルプトツール「CGE Sculpting Tool for Maya」がリリースされました！ CGE Sculpting Tool for Maya この15年間、私はMaya用のツールを開発してきました。約 […]
-続きを読む]]></summary>
-        <author>
-            <name>Ymt3D -3dnchu-</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【最大70%OFF】Unity Asset Store「オータムセール」が開催！人気アセットをチェック！]]></title>
-        <id>https://cginterest.com/?p=62557</id>
-        <link href="https://cginterest.com/2026/09/15/%e3%80%90%e6%9c%80%e5%a4%a770off%e3%80%91unity-asset-store%e3%80%8c%e3%82%aa%e3%83%bc%e3%82%bf%e3%83%a0%e3%82%bb%e3%83%bc%e3%83%ab%e3%80%8d%e3%81%8c%e9%96%8b%e5%82%ac%ef%bc%81%e4%ba%ba%e6%b0%97/"/>
-        <updated>2026-09-15T12:38:29.000Z</updated>
-        <summary type="html"><![CDATA[Unity Asset Store で開催されている「オータムセール」の紹介です。 セール概要 このセールでは、人気のツール、3Dアート、VFX、オーディオなど300点以上が50%OFFとなります。 さらに、毎日セール対 […]]]></summary>
-        <author>
-            <name>.me</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Edit Poly Modifier – モディファイアーを適用せず、途中の形状を直接編集できるBlender用無料アドオン]]></title>
-        <id>https://modelinghappy.com/?p=70524</id>
-        <link href="https://modelinghappy.com/archives/70524"/>
-        <updated>2026-09-15T12:03:59.000Z</updated>
-        <summary type="html"><![CDATA[Edit Poly Modifier Edit Poly Modifierは、複数のモディファイアーを重ねた状態のまま、途中の形状を頂点・辺・面から直接編集できるBlender用無料アドオンです。 通常はSolidify
-The post Edit Poly Modifier – モディファイアーを適用せず、途中の形状を直接編集できるBlender用無料アドオン first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
-        <author>
-            <name>modelinghappy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ヨルシカ MV作品から紐解く、MORIE Inc.が貫いてきた「現場主義」とは？ - 特集]]></title>
-        <id>https://cgworld.jp/article/-mvmorie-inc.html</id>
-        <link href="https://cgworld.jp/article/-mvmorie-inc.html"/>
-        <updated>2026-09-15T11:17:13.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MOTIONDIRECTOR: MOTION CUSTOMIZATION OF TEXT-TO-VIDEO DIFFUSION MODELS(2023)]]></title>
-        <id>https://qiita.com/matumu20/items/2d8a1cea95d9c7962f30</id>
-        <link href="https://qiita.com/matumu20/items/2d8a1cea95d9c7962f30"/>
-        <updated>2026-09-15T06:01:37.000Z</updated>
-        <summary type="html"><![CDATA[MOTIONDIRECTOR: MOTION CUSTOMIZATION OF TEXT-TO-VIDEO DIFFUSION MODELS(Rui Zhao, 2023)
-
-3行要約
-
-本論文では、テキストから動画を生成する拡散モデルにおいて、特定の動きを抽出して新た...]]></summary>
-        <author>
-            <name>3DCGタグが付けられた新着記事 - Qiita</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[IHP for Unreal Engine | POMとは異なるアプローチで高さマップから立体感を表現！次世代のリアルタイムDisplacement表現を唱える新手法！？Fabでもリリース予定！]]></title>
-        <id>https://3dnchu.com/?p=1068403</id>
-        <link href="https://3dnchu.com/archives/ihp-for-unreal-engine/"/>
-        <updated>2026-09-15T04:53:26.000Z</updated>
-        <summary type="html"><![CDATA[Denizcan Gok氏による IHP（Implicit Heightfield Projection）とやらの情報が公開され注目を集めています。高さマップを利用してフラットなサーフェスに奥行きや凹凸感を表現できるUnreal Engine向けプラグインで、従来のPOMとは異なる方法で高さフィール […]
 続きを読む]]></summary>
         <author>
             <name>Ymt3D -3dnchu-</name>

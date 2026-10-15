@@ -1253,21 +1253,6 @@
             "type": "video/mp4"
           },
           "imageUrl": "https://3dnchu.com/wp-content/uploads/CGE-Sculpting-Tool-for-Maya.webp"
-        },
-        {
-          "id": "https://3dnchu.com/?p=1068403",
-          "author": "Ymt3D -3dnchu-",
-          "description": "Denizcan Gok氏による IHP（Implicit Heightfield Projection）とやらの情報が公開され注目を集めています。高さマップを利用してフラットなサーフェスに奥行きや凹凸感を表現できるUnreal Engine向けプラグインで、従来のPOMとは異なる方法で高さフィール […]\n続きを読む",
-          "link": "https://3dnchu.com/archives/ihp-for-unreal-engine/",
-          "publishedOn": "2026-09-15T04:53:26.000Z",
-          "wordCount": 7698,
-          "title": "IHP for Unreal Engine | POMとは異なるアプローチで高さマップから立体感を表現！次世代のリアルタイムDisplacement表現を唱える新手法！？Fabでもリリース予定！",
-          "enclosure": {
-            "url": "https://3dnchu.com/wp-content/uploads/ihp-for-unreal-engine.webp",
-            "length": "1582738",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://3dnchu.com/wp-content/uploads/ihp-for-unreal-engine.webp"
         }
       ]
     },
@@ -1276,6 +1261,26 @@
       "feedUrl": "https://cgworld.jp/atom.xml",
       "siteUrl": "https://cgworld.jp/",
       "articles": [
+        {
+          "id": "https://cgworld.jp/article/202609-kenele03.html",
+          "author": null,
+          "description": "ケンエレファントのデジタル造形術を紹介。",
+          "link": "https://cgworld.jp/article/202609-kenele03.html",
+          "publishedOn": "2026-10-15T01:00:49.000Z",
+          "wordCount": 814,
+          "title": "『ケンエレファントのデジタル造形術』作家との二人三脚でつくる面白くて精巧なカプセルトイ ～No.3／ザリガニボーイズ篇 - 特集",
+          "imageUrl": "https://cgworld.jp/article/assets_c/2026/09/Main_shimen_Img93394_hoseizumi_p1-thumb-1000x663-89146.jpg"
+        },
+        {
+          "id": "https://cgworld.jp/flashnews/01-202610-Houdini-Frame48.html",
+          "author": null,
+          "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
+          "link": "https://cgworld.jp/flashnews/01-202610-Houdini-Frame48.html",
+          "publishedOn": "2026-10-15T00:42:47.000Z",
+          "wordCount": 849,
+          "title": "SideFX、Frame48によるHoudini事例の日本語記事を公開　小規模スタジオ環境でのAPEX・Solaris・USDワークフロー - ニュース",
+          "imageUrl": "https://cgworld.jp/flashnews/assets_c/2026/10/Houdini_Frame48-01-thumb-1920x1081-89954.jpg"
+        },
         {
           "id": "https://cgworld.jp/regular/202610-cgw339-book.html",
           "author": null,
@@ -2055,16 +2060,6 @@
           "wordCount": 761,
           "title": "Maxon、Shane Olson氏によるZBrushライブ動画を公開　スタイライズド3Dキャラのブロックアウトから3Dプリントまで - ニュース",
           "imageUrl": "https://cgworld.jp/flashnews/assets_c/2026/09/ZBrush_Stylized-01-thumb-1920x1080-88925.jpg"
-        },
-        {
-          "id": "https://cgworld.jp/article/-mvmorie-inc.html",
-          "author": null,
-          "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
-          "link": "https://cgworld.jp/article/-mvmorie-inc.html",
-          "publishedOn": "2026-09-15T11:17:13.000Z",
-          "wordCount": 833,
-          "title": "ヨルシカ MV作品から紐解く、MORIE Inc.が貫いてきた「現場主義」とは？ - 特集",
-          "imageUrl": "https://cgworld.jp/article/assets_c/2026/09/morie_main-thumb-1000x563-88882.jpg"
         }
       ]
     },
@@ -2114,7 +2109,7 @@
           "description": "orange-for-maya TeaYololoさんが作成した、Blenderに慣れた操作でAutodesk Mayaを使用できる無料・オープンソースツール「Orange」を公開しています。 G・R・Sによる移動・回転\nThe post Orange ー Blenderに慣れた操作でAutodesk Mayaを使用できる無料ツールが公開！G・R・Sによる移動やモディファイアパネルが利用可能 first appeared on 3DCG最新情報サイト MODELING HAPPY.",
           "link": "https://modelinghappy.com/archives/70981",
           "publishedOn": "2026-10-14T13:25:31.000Z",
-          "wordCount": 3046,
+          "wordCount": 3029,
           "title": "Orange ー Blenderに慣れた操作でAutodesk Mayaを使用できる無料ツールが公開！G・R・Sによる移動やモディファイアパネルが利用可能",
           "imageUrl": "https://modelinghappy.com/wp-content/uploads/2026/10/20261014_orange_for_maya_01.jpg"
         },
@@ -2647,16 +2642,6 @@
           "wordCount": 3182,
           "title": "CGE Sculpting Tool – Maya内で数百万ポリゴンのスカルプトができるGPU対応ツール！マルチ解像度やレイヤー、クロスブラシにも対応",
           "imageUrl": "https://modelinghappy.com/wp-content/uploads/2026/09/20260916_cge_sculpting_tool_for_maya_01.jpg"
-        },
-        {
-          "id": "https://modelinghappy.com/?p=70524",
-          "author": "modelinghappy",
-          "description": "Edit Poly Modifier Edit Poly Modifierは、複数のモディファイアーを重ねた状態のまま、途中の形状を頂点・辺・面から直接編集できるBlender用無料アドオンです。 通常はSolidify\nThe post Edit Poly Modifier – モディファイアーを適用せず、途中の形状を直接編集できるBlender用無料アドオン first appeared on 3DCG最新情報サイト MODELING HAPPY.",
-          "link": "https://modelinghappy.com/archives/70524",
-          "publishedOn": "2026-09-15T12:03:59.000Z",
-          "wordCount": 3050,
-          "title": "Edit Poly Modifier – モディファイアーを適用せず、途中の形状を直接編集できるBlender用無料アドオン",
-          "imageUrl": "https://modelinghappy.com/wp-content/uploads/2026/09/20260915_edit_poly_modifer_01.jpg"
         }
       ]
     },
@@ -2671,6 +2656,21 @@
       "feedUrl": "https://zenn.dev/topics/shader/feed",
       "siteUrl": "https://zenn.dev/topics/shader",
       "articles": [
+        {
+          "id": "https://zenn.dev/kki2ne/articles/tmux-ghostty-shader-effects-2026",
+          "author": "きつね",
+          "description": "これ、ターミナルの中なんです。\nClaude Codeが処理している間、tmuxのpaneの左上でClaudeイカが歩き回ります。Claude Codeを3つ動かしていれば3匹。足踏みしたり、跳ねたり、きょろきょろしたり。\n役には立ちません。でも見ていると楽しいんですよね。\nGhosttyとtmuxをClaude Codeといじっていたら、一日でここまで来ました。ほかにも、非アクティブなpaneをぼかしたり、popupをアプリのモーダルみたいにしたり、git pushで花火を上げたりできるようになりました。くだらないけど、アイデア次第でいろいろできるなという話です。\n\n きっかけは、ど...",
+          "link": "https://zenn.dev/kki2ne/articles/tmux-ghostty-shader-effects-2026",
+          "publishedOn": "2026-10-14T10:52:59.000Z",
+          "wordCount": 558,
+          "title": "ターミナルでClaudeイカを踊らせた｜Ghostty + tmuxで遊んでいたら何でもできた",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--yb83lVez--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2582%25BF%25E3%2583%25BC%25E3%2583%259F%25E3%2583%258A%25E3%2583%25AB%25E3%2581%25A7Claude%25E3%2582%25A4%25E3%2582%25AB%25E3%2582%2592%25E8%25B8%258A%25E3%2582%2589%25E3%2581%259B%25E3%2581%259F%25EF%25BD%259CGhostty%2520%252B%2520tmux%25E3%2581%25A7%25E9%2581%258A%25E3%2582%2593%25E3%2581%25A7%25E3%2581%2584%25E3%2581%259F%25E3%2582%2589%25E4%25BD%2595%25E3%2581%25A7%25E3%2582%2582%25E3%2581%25A7%25E3%2581%258D%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%258D%25E3%2581%25A4%25E3%2581%25AD%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzlmMGZjMzNhNTkuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+            "length": "0",
+            "type": "false"
+          },
+          "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--yb83lVez--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2582%25BF%25E3%2583%25BC%25E3%2583%259F%25E3%2583%258A%25E3%2583%25AB%25E3%2581%25A7Claude%25E3%2582%25A4%25E3%2582%25AB%25E3%2582%2592%25E8%25B8%258A%25E3%2582%2589%25E3%2581%259B%25E3%2581%259F%25EF%25BD%259CGhostty%2520%252B%2520tmux%25E3%2581%25A7%25E9%2581%258A%25E3%2582%2593%25E3%2581%25A7%25E3%2581%2584%25E3%2581%259F%25E3%2582%2589%25E4%25BD%2595%25E3%2581%25A7%25E3%2582%2582%25E3%2581%25A7%25E3%2581%258D%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%258D%25E3%2581%25A4%25E3%2581%25AD%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzlmMGZjMzNhNTkuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+        },
         {
           "id": "https://zenn.dev/urabexon/articles/thick-neon-lines-with-shared-strips",
           "author": "Hiroki Urabe",
@@ -3478,16 +3478,6 @@
           "wordCount": 1794,
           "title": "実写動画1本からVRMを踊らせる ── 推定後に残る足・腕・指の破綻を直す",
           "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYxODU1NTMlMkY0ZmEwZjY5OThlNzkzNzcyYzkxZTRjMDI5MjFhMmVhMTY0ODY1MmQ3JTJGeF9sYXJnZS5wbmclM0YxNzg5MzcwNTMxP2l4bGliPXJiLTQuMS4xJmFyPTElM0ExJmZpdD1jcm9wJm1hc2s9ZWxsaXBzZSZiZz1GRkZGRkYmZm09cG5nMzImcz05YTI0N2UzNjJiMTMwMjQyZWNiODY3ZmEwMzYzNDA0Mw%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D30d8b8322b862fef0066a684f2fb4e58?ixlib=rb-4.1.1&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9JUU1JUFFJTlGJUU1JTg2JTk5JUU1JThCJTk1JUU3JTk0JUJCMSVFNiU5QyVBQyVFMyU4MSU4QiVFMyU4MiU4OVZSTSVFMyU4MiU5MiVFOCVCOCU4QSVFMyU4MiU4OSVFMyU4MSU5QiVFMyU4MiU4QiUyMCVFMiU5NCU4MCVFMiU5NCU4MCUyMCVFNiU4RSVBOCVFNSVBRSU5QSVFNSVCRSU4QyVFMyU4MSVBQiVFNiVBRSU4QiVFMyU4MiU4QiVFOCVCNiVCMyVFMyU4MyVCQiVFOCU4NSU5NSVFMyU4MyVCQiVFNiU4QyU4NyVFMyU4MSVBRSVFNyVBMCVCNCVFNyVCNiVCQiVFMyU4MiU5MiVFNyU5QiVCNCVFMyU4MSU5OSZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnR4dC1wYWQ9MCZzPTVjOWM0YjhhZGQyMmM5NmQwNTUzZDgyNzc3MTE1MTU2&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBvcmNhLWZvcmdlJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9ZmE3ZDc1YzEwMWIwNjgxNjg0NjMzODlkNDE0NmNhMWY&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=b1d55daac6d830822865932d5415e8e4"
-        },
-        {
-          "id": "https://qiita.com/matumu20/items/2d8a1cea95d9c7962f30",
-          "author": null,
-          "description": "MOTIONDIRECTOR: MOTION CUSTOMIZATION OF TEXT-TO-VIDEO DIFFUSION MODELS(Rui Zhao, 2023)\n\n3行要約\n\n本論文では、テキストから動画を生成する拡散モデルにおいて、特定の動きを抽出して新た...",
-          "link": "https://qiita.com/matumu20/items/2d8a1cea95d9c7962f30",
-          "publishedOn": "2026-09-15T06:01:37.000Z",
-          "wordCount": 1137,
-          "title": "MOTIONDIRECTOR: MOTION CUSTOMIZATION OF TEXT-TO-VIDEO DIFFUSION MODELS(2023)",
-          "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYyOTgxNjYwJTJGOTViNDExMjY5MmU5NDc5M2U2NTY5ODQ5MzdmM2I4ZjliMmE3MDc2YSUyRmxhcmdlLnBuZyUzRjE2Njg2MDM2MDk_aXhsaWI9cmItNC4xLjEmYXI9MSUzQTEmZml0PWNyb3AmbWFzaz1lbGxpcHNlJmJnPUZGRkZGRiZmbT1wbmczMiZzPWE1ZTgxNGYzYWQ2OTFjZmM4MWVmYjBlODkwMzg4NjNk%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3Db091fc7b27b7f70f9fcc9261423415bf?ixlib=rb-4.1.1&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9TU9USU9ORElSRUNUT1IlM0ElMjBNT1RJT04lMjBDVVNUT01JWkFUSU9OJTIwT0YlMjBURVhULVRPLVZJREVPJTIwRElGRlVTSU9OJTIwTU9ERUxTJTI4MjAlRTIlODAlQTYmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz1iOGU4OTJhZTY2MTRjOGQ1ZmY5MWRmYThhNWIyNzlkNQ&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBtYXR1bXUyMCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPTUwYzYyYzVhMmI4MTU4MWE3ZTg2NGY0YmMyNWRkOGQ3&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=302a12859e5872a7eae39448a8302138"
         }
       ]
     },
@@ -3836,6 +3826,21 @@
       "feedUrl": "https://zenn.dev/topics/glsl/feed",
       "siteUrl": "https://zenn.dev/topics/glsl",
       "articles": [
+        {
+          "id": "https://zenn.dev/sishiya/articles/blackhole-kerr-raytracing-webgl2",
+          "author": "しし屋 まなびラボ",
+          "description": "映画『インターステラー』のブラックホールは、平らな円盤が穴の上にも下にも回りこんで見えます。あれは演出ではなく、重力で光が曲がった結果です。\nそれを確かめるために、回るブラックホール（カー時空）のまわりの光を1本ずつ計算して描くページをブラウザで作りました。WebGL2 を直接書いていて、ライブラリは使っていません。\nhttps://sishiya.github.io/manabi-lab/black-hole/\n\n画面の点をクリックすると、そこに届いた光がどこから来たかを、横から見た図と上から見た図で出します。この記事では、そのしくみと、つまずいたところを書きます。\n\n やっていること...",
+          "link": "https://zenn.dev/sishiya/articles/blackhole-kerr-raytracing-webgl2",
+          "publishedOn": "2026-10-14T14:42:27.000Z",
+          "wordCount": 2402,
+          "title": "ブラウザで、回るブラックホールのまわりの光をたどる（WebGL2・ライブラリなし）",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--DJUpz62Q--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%2596%25E3%2583%25A9%25E3%2582%25A6%25E3%2582%25B6%25E3%2581%25A7%25E3%2580%2581%25E5%259B%259E%25E3%2582%258B%25E3%2583%2596%25E3%2583%25A9%25E3%2583%2583%25E3%2582%25AF%25E3%2583%259B%25E3%2583%25BC%25E3%2583%25AB%25E3%2581%25AE%25E3%2581%25BE%25E3%2582%258F%25E3%2582%258A%25E3%2581%25AE%25E5%2585%2589%25E3%2582%2592%25E3%2581%259F%25E3%2581%25A9%25E3%2582%258B%25EF%25BC%2588WebGL2%25E3%2583%25BB%25E3%2583%25A9%25E3%2582%25A4%25E3%2583%2596%25E3%2583%25A9%25E3%2583%25AA%25E3%2581%25AA%25E3%2581%2597%25EF%25BC%2589%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%2597%25E3%2581%2597%25E5%25B1%258B%2520%25E3%2581%25BE%25E3%2581%25AA%25E3%2581%25B3%25E3%2583%25A9%25E3%2583%259C%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2Q4MmMzNTY2OGIuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+            "length": "0",
+            "type": "false"
+          },
+          "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--DJUpz62Q--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%2596%25E3%2583%25A9%25E3%2582%25A6%25E3%2582%25B6%25E3%2581%25A7%25E3%2580%2581%25E5%259B%259E%25E3%2582%258B%25E3%2583%2596%25E3%2583%25A9%25E3%2583%2583%25E3%2582%25AF%25E3%2583%259B%25E3%2583%25BC%25E3%2583%25AB%25E3%2581%25AE%25E3%2581%25BE%25E3%2582%258F%25E3%2582%258A%25E3%2581%25AE%25E5%2585%2589%25E3%2582%2592%25E3%2581%259F%25E3%2581%25A9%25E3%2582%258B%25EF%25BC%2588WebGL2%25E3%2583%25BB%25E3%2583%25A9%25E3%2582%25A4%25E3%2583%2596%25E3%2583%25A9%25E3%2583%25AA%25E3%2581%25AA%25E3%2581%2597%25EF%25BC%2589%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%2597%25E3%2581%2597%25E5%25B1%258B%2520%25E3%2581%25BE%25E3%2581%25AA%25E3%2581%25B3%25E3%2583%25A9%25E3%2583%259C%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2Q4MmMzNTY2OGIuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+        },
         {
           "id": "https://zenn.dev/urabexon/articles/thick-neon-lines-with-shared-strips",
           "author": "Hiroki Urabe",
@@ -4502,7 +4507,7 @@
           "description": "2026年10月13日（現地時間）- Comfy Orgは、ノードベースの画像・動画生成UI「ComfyUI」で、NVIDIAのRTXビデオエフェクトを使えるカスタムノード「NVIDIA VFX Nodes」を公開しまし […]",
           "link": "https://cginterest.com/2026/10/14/comfyui-%e3%81%ab%e3%83%ad%e3%83%bc%e3%82%ab%e3%83%ab%e3%81%a7%e5%88%a9%e7%94%a8%e3%81%a7%e3%81%8d%e3%82%8b-nvidia-vfx-%e3%83%8e%e3%83%bc%e3%83%89%e3%81%8c%e7%99%bb%e5%a0%b4%ef%bc%81rtx-gpu%e3%81%a7/",
           "publishedOn": "2026-10-14T08:41:49.000Z",
-          "wordCount": 1520,
+          "wordCount": 660,
           "title": "ComfyUI にNVIDIA VFX ノードが登場！RTX GPUで最大4倍のアップスケール、16倍のフレーム生成、HDR変換に対応",
           "enclosure": {
             "url": "https://cginterest.com/wp-content/uploads/2026/10/rtx-video-super-resolution.mp4",
@@ -5055,16 +5060,6 @@
           "wordCount": 4105,
           "title": "第78回エミー賞、受賞結果発表 ― ドラマ部門は「The Pitt」、VFXは「Stranger Things」「Spider-Noir」が受賞",
           "imageUrl": "https://cginterest.com/wp-content/uploads/2026/09/78themmy1.webp"
-        },
-        {
-          "id": "https://cginterest.com/?p=62557",
-          "author": ".me",
-          "description": "Unity Asset Store で開催されている「オータムセール」の紹介です。 セール概要 このセールでは、人気のツール、3Dアート、VFX、オーディオなど300点以上が50%OFFとなります。 さらに、毎日セール対 […]",
-          "link": "https://cginterest.com/2026/09/15/%e3%80%90%e6%9c%80%e5%a4%a770off%e3%80%91unity-asset-store%e3%80%8c%e3%82%aa%e3%83%bc%e3%82%bf%e3%83%a0%e3%82%bb%e3%83%bc%e3%83%ab%e3%80%8d%e3%81%8c%e9%96%8b%e5%82%ac%ef%bc%81%e4%ba%ba%e6%b0%97/",
-          "publishedOn": "2026-09-15T12:38:29.000Z",
-          "wordCount": 3932,
-          "title": "【最大70%OFF】Unity Asset Store「オータムセール」が開催！人気アセットをチェック！",
-          "imageUrl": "https://cginterest.com/wp-content/uploads/2026/09/UnityassetStore-autumnsale2026.webp"
         }
       ]
     }

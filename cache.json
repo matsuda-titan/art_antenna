@@ -12,6 +12,21 @@
       "siteUrl": "https://cgbox.jp",
       "articles": [
         {
+          "id": "https://cgbox.jp/?p=65834",
+          "author": "kasahara",
+          "description": "こんばんは！ 今回はアドオンの「Dolly Zoom」を紹介します。 こちらのリンクがアドオンの商品ページになります。 Dolly Zoom 「Dolly Zoom」は、カメラを前後に移動させながら焦点距離を同時に変化さ […]",
+          "link": "https://cgbox.jp/2026/10/15/news-addon-dolly-zoom/",
+          "publishedOn": "2026-10-15T02:42:09.000Z",
+          "wordCount": 1972,
+          "title": "【アドオン紹介】Dolly Zoom – ヒッチコックズームを簡単に再現できる無料Blenderアドオン！",
+          "enclosure": {
+            "url": "https://cgbox.jp/wp-content/uploads/2026/10/23dad546e480ea200a61ac0f2b59d6a736e011cc46005fb4f3dfb80360032c0b.mp4",
+            "length": "0",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://cgbox.jp/wp-content/uploads/2026/10/f148c45ba5828053593a1f072984f21eae1d6a2c3c7bde92b13f6d38937c1d5c_640x360.webp"
+        },
+        {
           "id": "https://cgbox.jp/?p=65830",
           "author": "kasahara",
           "description": "こんばんは！ 今回はアドオンの「Supa Painter」を紹介します。 こちらのリンクがアドオンの商品ページになります。 Supa Painter 「Supa Painter」は、画像・テクスチャ・レンダーを実際に筆で […]",
@@ -415,21 +430,6 @@
             "type": "video/mp4"
           },
           "imageUrl": "https://cgbox.jp/wp-content/uploads/2026/09/image_processing20260828-2-hjaxhq.webp"
-        },
-        {
-          "id": "https://cgbox.jp/?p=65681",
-          "author": "kasahara",
-          "description": "こんばんは！ 今回はアドオンの「BWrap」を紹介します。 こちらのリンクがアドオンの商品ページになります。 BWrap 「BWrap」は、既存のきれいなキャラクタートポロジーを、新しいスキャン・スカルプト・キャラクター […]",
-          "link": "https://cgbox.jp/2026/09/16/news-addon-bwrap/",
-          "publishedOn": "2026-09-15T22:59:22.000Z",
-          "wordCount": 1979,
-          "title": "【アドオン紹介】BWrap – ポインターで綺麗にリトポロジー！",
-          "enclosure": {
-            "url": "https://cgbox.jp/wp-content/uploads/2026/09/purchasebuttun-edit-8.mp4",
-            "length": "0",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://cgbox.jp/wp-content/uploads/2026/09/image_processing20260906-2-oe0v78.png"
         }
       ]
     },
@@ -1208,51 +1208,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "https://3dnchu.com/wp-content/uploads/overgrown-teaser-blender-studio.jpg"
-        },
-        {
-          "id": "https://3dnchu.com/?p=1068439",
-          "author": "Ymt3D -3dnchu-",
-          "description": "Carnegie Mellon UniversityのYu-Rou Tuan氏らによって発表された、1枚の画像から生成されたパーツ単位の3Dモデルを、実際に組み立て可能な形状へ変換する研究技術「SNAP3D: Physically Grounded 3D Parts for Assembly fro […]\n続きを読む",
-          "link": "https://3dnchu.com/archives/snap3d/",
-          "publishedOn": "2026-09-15T23:43:27.000Z",
-          "wordCount": 7847,
-          "title": "SNAP3D | 1枚の画像からスナップ接続可能な分割3Dモデルを生成！物理シミュレーションで組み立て可能な形状へ最適化する研究技術！",
-          "enclosure": {
-            "url": "https://3dnchu.com/wp-content/uploads/SNAP3D.webp",
-            "length": "1725284",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://3dnchu.com/wp-content/uploads/SNAP3D.webp"
-        },
-        {
-          "id": "https://3dnchu.com/?p=1068426",
-          "author": "Ymt3D -3dnchu-",
-          "description": "Imperial College Londonの研究チームが、UV展開を使わず3Dモデルの表面へ直接テクスチャを表現する新手法「Heat Kernel Textures（HKTex）」を発表しました。ECCV 2026 Best Paper Awardを受賞しています。 Heat Kernel Te […]\n続きを読む",
-          "link": "https://3dnchu.com/archives/heat-kernel-textures/",
-          "publishedOn": "2026-09-15T21:35:45.000Z",
-          "wordCount": 7678,
-          "title": "Heat Kernel Textures | UV展開不要！3D Gaussian Splattingの考え方を応用しメッシュ表面へ直接テクスチャを表現する新手法！ECCV 2026 Best Paper Award受賞！",
-          "enclosure": {
-            "url": "https://3dnchu.com/wp-content/uploads/Heat-Kernel-Textures.mp4",
-            "length": "831013",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://3dnchu.com/wp-content/uploads/Heat-Kernel-Textures.webp"
-        },
-        {
-          "id": "https://3dnchu.com/?p=1068413",
-          "author": "Ymt3D -3dnchu-",
-          "description": "CGElementary（Morteza Ahmadi氏）によるMaya向けの本格GPUスカルプトツール「CGE Sculpting Tool for Maya」がリリースされました！ CGE Sculpting Tool for Maya この15年間、私はMaya用のツールを開発してきました。約 […]\n続きを読む",
-          "link": "https://3dnchu.com/archives/cge-sculpting-tool-for-maya/",
-          "publishedOn": "2026-09-15T21:08:27.000Z",
-          "wordCount": 7692,
-          "title": "CGE Sculpting Tool for Maya | 本格的なGPUベースのスカルプティング機能をMaya上で実現するツールがリリース！数百万個のポリゴンを処理可能！マルチ解像度対応！",
-          "enclosure": {
-            "url": "https://3dnchu.com/wp-content/uploads/CGE-Sculpting-Tool-for-Maya.mp4",
-            "length": "50609678",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://3dnchu.com/wp-content/uploads/CGE-Sculpting-Tool-for-Maya.webp"
         }
       ]
     },
@@ -2060,16 +2015,6 @@
           "wordCount": 651,
           "title": "「東京アニメピッチグランプリ」2027年2月12日開催決定！～自身の作品の魅力をアピールし、海外展開への第一歩を踏み出そう～ - ニュース",
           "imageUrl": "https://cgworld.jp/flashnews/assets_c/2026/09/32c3cd1cc52b23da0a1f8b55f65e0e1d631b6156-thumb-1000x563-88772.jpg"
-        },
-        {
-          "id": "https://cgworld.jp/flashnews/01-202609-ZBrush-Stylized.html",
-          "author": null,
-          "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
-          "link": "https://cgworld.jp/flashnews/01-202609-ZBrush-Stylized.html",
-          "publishedOn": "2026-09-15T23:34:17.000Z",
-          "wordCount": 761,
-          "title": "Maxon、Shane Olson氏によるZBrushライブ動画を公開　スタイライズド3Dキャラのブロックアウトから3Dプリントまで - ニュース",
-          "imageUrl": "https://cgworld.jp/flashnews/assets_c/2026/09/ZBrush_Stylized-01-thumb-1920x1080-88925.jpg"
         }
       ]
     },
@@ -2113,6 +2058,16 @@
       "feedUrl": "https://modelinghappy.com/feed",
       "siteUrl": "https://modelinghappy.com",
       "articles": [
+        {
+          "id": "https://modelinghappy.com/?p=70986",
+          "author": "modelinghappy",
+          "description": "UVgami UVgamiは、3Dモデルを読み込んでボタンを押すだけで、UVを自動展開できる無料サイトです。以前Blenderアドオン版がある事を紹介しましたが、そのwebブラウザ版がリリースしました。 ブラウザ版はイン\nThe post UVgamiーブラウザにモデルを読み込むだけでUVを自動展開できる無料サイト！Blenderアドオン版も無料公開 first appeared on 3DCG最新情報サイト MODELING HAPPY.",
+          "link": "https://modelinghappy.com/archives/70986",
+          "publishedOn": "2026-10-15T12:41:36.000Z",
+          "wordCount": 3010,
+          "title": "UVgamiーブラウザにモデルを読み込むだけでUVを自動展開できる無料サイト！Blenderアドオン版も無料公開",
+          "imageUrl": "https://modelinghappy.com/wp-content/uploads/2026/10/20261015_uvgami_00.jpg"
+        },
         {
           "id": "https://modelinghappy.com/?p=70981",
           "author": "modelinghappy",
@@ -4521,6 +4476,46 @@
       "feedUrl": "https://cginterest.com/feed/",
       "siteUrl": "https://cginterest.com",
       "articles": [
+        {
+          "id": "https://cginterest.com/?p=63365",
+          "author": ".me",
+          "description": "2026年10月14日（現地時間）- MaxonのGPUレンダラー「Redshift」が、バージョン2027.0へとアップデートされました。同じ日に、不具合を直した2027.0.1も公開されています。 主な新機能 今回の […]",
+          "link": "https://cginterest.com/2026/10/15/redshift-2027-%e3%81%8c%e3%83%aa%e3%83%aa%e3%83%bc%e3%82%b9%ef%bc%81archicad-%e3%81%ab%e6%ad%a3%e5%bc%8f%e5%af%be%e5%bf%9c%e3%80%81%e3%83%ac%e3%83%b3%e3%83%80%e3%83%aa%e3%83%b3%e3%82%b0%e6%99%82/",
+          "publishedOn": "2026-10-15T10:50:28.000Z",
+          "wordCount": 750,
+          "title": "Redshift 2027 がリリース！Archicad に正式対応、レンダリング時に毛を生やす Redshift Fur、Redshift Live の屈折対応など",
+          "enclosure": {
+            "url": "https://cginterest.com/wp-content/uploads/2026/10/c4d2027-rs-fur.mp4",
+            "length": "397957",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://cginterest.com/wp-content/uploads/2026/10/redshift2027.webp"
+        },
+        {
+          "id": "https://cginterest.com/?p=63364",
+          "author": ".me",
+          "description": "2026年10月14日（現地時間）- Maxonの3DCGソフト「Cinema 4D」が、バージョン2027.0へとアップデートされました。同梱のレンダラー「Redshift」も2027.0になっています。 主な新機能  […]",
+          "link": "https://cginterest.com/2026/10/15/cinema-4d-2027-%e3%81%8c%e3%83%aa%e3%83%aa%e3%83%bc%e3%82%b9%ef%bc%81%e5%b2%a9%e3%82%84%e8%8d%89%e3%82%92%e4%b8%a6%e3%81%b9%e3%82%8b-scatter-generator%e3%80%81%e6%b3%a1%e3%82%84%e3%81%97%e3%81%b6/",
+          "publishedOn": "2026-10-15T07:58:19.000Z",
+          "wordCount": 703,
+          "title": "Cinema 4D 2027 がリリース！岩や草を並べる Scatter Generator、泡やしぶきを表現できる Liquid FX、タグのグループ化など",
+          "enclosure": {
+            "url": "https://cginterest.com/wp-content/uploads/2026/10/c4d2027-scatter-slope-1.mp4",
+            "length": "357211",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://cginterest.com/wp-content/uploads/2026/10/C4D2027.webp"
+        },
+        {
+          "id": "https://cginterest.com/?p=63363",
+          "author": ".me",
+          "description": "2026年10月14日（現地時間）- Maxonは、デジタルスカルプトソフト「ZBrush 2027」のリリースにあわせて、新機能の使い方を解説するチュートリアル動画8本を、YouTubeの公式チャンネル「Maxon Z […]",
+          "link": "https://cginterest.com/2026/10/15/zbrush-2027-%e3%81%ae%e4%bd%bf%e3%81%84%e6%96%b9%e3%82%92%e5%85%ac%e5%bc%8f%e3%83%81%e3%83%a5%e3%83%bc%e3%83%88%e3%83%aa%e3%82%a2%e3%83%ab8%e6%9c%ac%e3%81%a7%e5%ad%a6%e3%81%b6%e3%80%80uv-editor/",
+          "publishedOn": "2026-10-15T07:57:31.000Z",
+          "wordCount": 1571,
+          "title": "ZBrush 2027 の使い方を公式チュートリアル8本で学ぶ　UV Editor・Selection Sets・iPad版のSpotlightと3D Layers",
+          "imageUrl": "https://cginterest.com/wp-content/uploads/2026/10/zbrush2027tutorial.webp"
+        },
         {
           "id": "https://cginterest.com/?p=63362",
           "author": ".me",

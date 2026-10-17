@@ -2,10 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-10-16T12:49:51.567Z</updated>
+    <updated>2026-10-17T02:03:57.768Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Geometry Nodesのシミュレーションゾーンは、ゾーンより前を変えても結果が変わらない]]></title>
+        <id>https://zenn.dev/eight_blog/articles/4d51eb2265258a</id>
+        <link href="https://zenn.dev/eight_blog/articles/4d51eb2265258a"/>
+        <updated>2026-10-17T00:52:06.000Z</updated>
+        <summary type="html"><![CDATA[Blender の Geometry Nodes で、重い処理（地形の侵食）をリピートゾーンからシミュレーションゾーンに移したときに、気づきにくい落とし穴にはまったのでまとめます。
+結論を先に書くと、次の2点です。
+
+シミュレーションゾーンは、ゾーンより前（上流）の設定を変えても、最初のコマから再生し直すまで結果が変わりません。エラーも警告も出ません
+1コマ目から処理が1回進むので、リピートゾーンの「N回」とそろえるなら、Nコマで止めます（N＋1コマではありません）
+
+確認した環境は Blender 5.2.2 LTS（Windows 11 / RTX 3060 と macOS 27 /...]]></summary>
+        <author>
+            <name>eight</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[同じ庭を14の目で見る: 紫外線・熱・こだま・複眼をシェーダーの「パス」で描き分ける]]></title>
+        <id>https://zenn.dev/sishiya/articles/animal-senses-shader-passes</id>
+        <link href="https://zenn.dev/sishiya/articles/animal-senses-shader-passes"/>
+        <updated>2026-10-17T00:34:11.000Z</updated>
+        <summary type="html"><![CDATA[同じ庭を、カラス・マムシ・コウモリ・ハエ・ミツバチ・イヌ・ネコ・シャコなどの感覚に切りかえて、一人称で歩けるページを作りました。人には見えない紫外線・熱・こだま・偏光・近赤外線は、人に見える色に「置きかえて」見せます。Three.js を使い、シェーダーは自前です。
+https://sishiya.github.io/manabi-lab/animal-senses/
+
+この記事では、1つの庭からいろいろな感覚の絵を作るしくみを書きます。
+!
+見え方は研究をもとにした推定で、目の診断には使えません。アプリでは、説明を「確か」「推定」「演出」に分けています。
+
+
+ 物に「感覚ごとの性質」を...]]></summary>
+        <author>
+            <name>しし屋 まなびラボ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[FLUX 3 Image Klein が公開！5.6Bのオープンウェイトでバウンディングボックスと複数参照の編集に対応、ComfyUIでも利用可能に]]></title>
         <id>https://cginterest.com/?p=63585</id>
@@ -4882,137 +4916,6 @@ The post cvELD X-Ray X-Loop – 縦・横方向のループ選択やメッシュ
 本記事では実装編として、実際に動いている自作エンジンTsukinoEngine（DirectX11 ...]]></summary>
         <author>
             <name>HLSLタグが付けられた新着記事 - Qiita</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[キヤノン「Dual Pixel 3D Converter」発表！EOS Rで撮影した1枚の写真から3Dモデルを生成できるWindowsアプリがリリース予定]]></title>
-        <id>https://modelinghappy.com/?p=70564</id>
-        <link href="https://modelinghappy.com/archives/70564"/>
-        <updated>2026-09-17T12:37:13.000Z</updated>
-        <summary type="html"><![CDATA[撮影した写真から3Dモデルを生成する“Dual Pixel 3D Converter”の提供を開始 キヤノンの独自技術により新たな写真体験を創出 キヤノンは、対応するEOS Rシステムで撮影した1枚の写真から、高画質な3
-The post キヤノン「Dual Pixel 3D Converter」発表！EOS Rで撮影した1枚の写真から3Dモデルを生成できるWindowsアプリがリリース予定 first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
-        <author>
-            <name>modelinghappy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[VoiceStudio | 音声クローンや動画吹き替えをローカル環境で実行！646言語対応のオープンソースAI音声スタジオ！Windows・macOS・Linux]]></title>
-        <id>https://3dnchu.com/?p=1068486</id>
-        <link href="https://3dnchu.com/archives/voicestudio/"/>
-        <updated>2026-09-17T12:32:04.000Z</updated>
-        <summary type="html"><![CDATA[Debpalash氏らが開発する音声クローン、音声生成、動画吹き替え、文字起こし、オーディオブック制作などをローカル環境で利用できるオープンソースのAI音声スタジオ「VoiceStudio（旧OmniVoice Studio）」のご紹介！ VoiceStudio VoiceStudioは、AIを使っ […]
-続きを読む]]></summary>
-        <author>
-            <name>Ymt3D -3dnchu-</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AC9 Cloth Retopo v1.1 | CLOやMarvelous Designerの衣装を2D型紙ベースでリトポロジーできる無料Blenderアドオン！]]></title>
-        <id>https://3dnchu.com/?p=1068468</id>
-        <link href="https://3dnchu.com/archives/ac9-cloth-retopo-v1-1/"/>
-        <updated>2026-09-17T12:26:30.000Z</updated>
-        <summary type="html"><![CDATA[牛山氏（ @naoki_ushiyama ）が、CLOやMarvelous Designerで作成した衣装メッシュを2D型紙ベースでリトポロジーできる無料Blenderアドオン「AC9 Cloth Retopo」を公開しました。 衣装を平面に展開した型紙の形状を保ったまま2D上でリトポロジーし、その […]
-続きを読む]]></summary>
-        <author>
-            <name>Ymt3D -3dnchu-</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bodiez – 男性・女性の体型や手足の長さを簡単に調整できるBlender用ベースメッシュ]]></title>
-        <id>https://modelinghappy.com/?p=70559</id>
-        <link href="https://modelinghappy.com/archives/70559"/>
-        <updated>2026-09-17T10:31:10.000Z</updated>
-        <summary type="html"><![CDATA[Bodiez: Customizable Male amp; Female Base Meshes Bodiezは、男性と女性の体型を自由にカスタマイズできる、Blender用のベースメッシュセットです。 キャラクター
-The post Bodiez – 男性・女性の体型や手足の長さを簡単に調整できるBlender用ベースメッシュ first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
-        <author>
-            <name>modelinghappy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Unity、OpenAI Codex向け公式プラグインを発表！手軽に導入できる31のスキルが利用可能に]]></title>
-        <id>https://cginterest.com/?p=62615</id>
-        <link href="https://cginterest.com/2026/09/17/unity%e3%80%81openai-codex%e5%90%91%e3%81%91%e5%85%ac%e5%bc%8f%e3%83%97%e3%83%a9%e3%82%b0%e3%82%a4%e3%83%b3%e3%82%92%e7%99%ba%e8%a1%a8%ef%bc%81%e6%89%8b%e8%bb%bd%e3%81%ab%e5%b0%8e%e5%85%a5%e3%81%a7/"/>
-        <updated>2026-09-17T07:53:57.000Z</updated>
-        <summary type="html"><![CDATA[2026年9月16日（現地時間）- Unityは、OpenAIのコード生成モデル「Codex」向けとなる公式プラグイン「The Official Unity Plugin for Codex」の提供開始を発表しました。  […]]]></summary>
-        <author>
-            <name>.me</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LiberNovo、「CREATORS EDGE 2026」に出展。クリエイター向けワークチェアの試座・体験を実施 - ニュース]]></title>
-        <id>https://cgworld.jp/flashnews/02-2609-libernovo-ce2026.html</id>
-        <link href="https://cgworld.jp/flashnews/02-2609-libernovo-ce2026.html"/>
-        <updated>2026-09-17T07:53:01.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【3D】Houdiniを使って楽に家を作る]]></title>
-        <id>https://note.com/konve/n/naefa99b06a7e</id>
-        <link href="https://note.com/konve/n/naefa99b06a7e"/>
-        <updated>2026-09-17T06:30:27.000Z</updated>
-        <summary type="html"><![CDATA[たまにはお勉強もしようね
-今日はHoudiniを利用して建築物を良い感じに作っていこう
-ちなみにド初心者です🌱
-
-
-続きをみる]]></summary>
-        <author>
-            <name>#Houdiniタグ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NeXus MPM Tech Preview | Cinema 4DとBlender向けシミュレーションツール向け新ソルバーが次期ベータ版でリリース予定！複数マテリアルの相互作用をシミュレーション可能！]]></title>
-        <id>https://3dnchu.com/?p=1068476</id>
-        <link href="https://3dnchu.com/archives/nexus-mpm-tech-preview/"/>
-        <updated>2026-09-17T06:26:50.000Z</updated>
-        <summary type="html"><![CDATA[INSYDIUMが、Cinema 4DとBlender向けGPUシミュレーションツール「NeXus」に導入予定の新しいMPM（Material Point Method）ソルバーのプレビュー動画公開しました。異なる性質を持つ複数のマテリアルを同一シミュレーション内で相互作用させることが可能で、次期ベ […]
-続きを読む]]></summary>
-        <author>
-            <name>Ymt3D -3dnchu-</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【『ゲーム・オブ・スローンズ』や『アサシン クリード』のコンセプトアーティスト等も登壇！】9.19(土)・20(日)開催オンラインスキルアップイベント『Premier Insights Vol.5 ~Concept Art~』 - 特集]]></title>
-        <id>https://cgworld.jp/article/-91920premier-insights-vol5-concept-art.html</id>
-        <link href="https://cgworld.jp/article/-91920premier-insights-vol5-concept-art.html"/>
-        <updated>2026-09-17T05:11:49.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Substance 3Dを活用したプロダクトデザイン手法を学べる書籍「ミズノのデザイナーが教えるSubstance 3Dプロダクトデザイン」が発売します]]></title>
-        <id>https://modelinghappy.com/?p=70545</id>
-        <link href="https://modelinghappy.com/archives/70545"/>
-        <updated>2026-09-17T03:48:03.000Z</updated>
-        <summary type="html"><![CDATA[ミズノのデザイナーが教えるSubstance 3Dプロダクトデザイン 2026年9月30日に、シューズのモデルデータも付属している、ミズノの手法を実践できる書籍が発売します。 製造業界において、プロダクトデザインに3DC
-The post Substance 3Dを活用したプロダクトデザイン手法を学べる書籍「ミズノのデザイナーが教えるSubstance 3Dプロダクトデザイン」が発売します first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
-        <author>
-            <name>modelinghappy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[椅子を変えたら、集中できる時間が増えた。 映像ディレクター・MONAと電動ワークチェア「LiberNovo Omni Pro」 - スペシャルコンテンツ]]></title>
-        <id>https://cgworld.jp/special-feature/2609-LiberNovo-MONA.html</id>
-        <link href="https://cgworld.jp/special-feature/2609-LiberNovo-MONA.html"/>
-        <updated>2026-09-17T02:50:21.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[『Pokémon LEGENDS Z-A』は「1つの街」をどう描いた？ ミアレシティを支える描画技術～CEDEC 2026（2） - 特集]]></title>
-        <id>https://cgworld.jp/article/202609-cedec-pkmnza.html</id>
-        <link href="https://cgworld.jp/article/202609-cedec-pkmnza.html"/>
-        <updated>2026-09-17T02:42:00.000Z</updated>
-        <summary type="html"><![CDATA[CEDEC 2026のセッションから、「ミアレシティがメガシンカ!? 『Z-A』の描画技術」を紹介。]]></summary>
-        <author>
-            <name>CGWORLD</name>
         </author>
     </entry>
 </feed>

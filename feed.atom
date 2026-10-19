@@ -2,10 +2,82 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-10-18T12:15:25.458Z</updated>
+    <updated>2026-10-19T02:20:13.598Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【アドオン紹介】Physics Painter – 物理演算を使って小物や瓦礫を自然に配置できるアドオン！]]></title>
+        <id>https://cgbox.jp/?p=65851</id>
+        <link href="https://cgbox.jp/2026/10/19/news-addon-physics-painter/"/>
+        <updated>2026-10-19T01:37:22.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは！ 今回はアドオンの「Physics Painter」を紹介します。 こちらのリンクがアドオンの商品ページになります。 Physics Painter 「Physics Painter」は、ブラシでなぞった場所 […]]]></summary>
+        <author>
+            <name>kasahara</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【ゲーム制作知識】コリジョンについて]]></title>
+        <id>https://3d.crdg.jp/env/?p=10614</id>
+        <link href="https://3d.crdg.jp/env/2026/10/19/10614/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=%25e3%2580%2590%25e3%2582%25b2%25e3%2583%25bc%25e3%2583%25a0%25e5%2588%25b6%25e4%25bd%259c%25e7%259f%25a5%25e8%25ad%2598%25e3%2580%2591%25e3%2582%25b3%25e3%2583%25aa%25e3%2582%25b8%25e3%2583%25a7%25e3%2583%25b3%25e3%2581%25ab%25e3%2581%25a4%25e3%2581%2584%25e3%2581%25a6"/>
+        <updated>2026-10-19T00:30:00.000Z</updated>
+        <summary type="html"><![CDATA[今回はアクションゲーム制作における“コリジョン”についてお話します。 コリジョンとは？ 一般論として”キャラクターやオブジェク […]
+続きを読む
+投稿 【ゲーム制作知識】コリジョンについて は エンホリ - ENVIRONMENT HOLIC｜C&R Creative Studios に最初に表示されました。]]></summary>
+        <author>
+            <name>Soichiro.Hashii</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[3ds Max用スカルプトプラグイン「Sculpt Mesh」リリース　マルチレゾリューションスカルプトやペイント、リトポロジー、マップベイクに対応 - ニュース]]></title>
+        <id>https://cgworld.jp/flashnews/01-202610-3dsMax-SculptMesh.html</id>
+        <link href="https://cgworld.jp/flashnews/01-202610-3dsMax-SculptMesh.html"/>
+        <updated>2026-10-19T00:00:12.000Z</updated>
+        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[フォトグラメトリ数学｜62：固有値・固有ベクトルとは何か～誤差楕円の大きさと方向を求める～]]></title>
+        <id>https://zenn.dev/s_hashida/articles/cbea31661609e3</id>
+        <link href="https://zenn.dev/s_hashida/articles/cbea31661609e3"/>
+        <updated>2026-10-18T21:51:05.000Z</updated>
+        <summary type="html"><![CDATA[はじめに
+前回は、
+
+誤差楕円とは何か
+分散と楕円の大きさの関係
+共分散と楕円の傾きの関係
+誤差楕円を表す式
+誤差楕円体とは何か
+フォトグラメトリにおける意味
+
+について説明しました。
+
+その中で重要だったのが、
+
+\mathbf{e}^T
+\Sigma^{-1}
+\mathbf{e}
+=
+c^2
+
+という関係です。
+これは、共分散行列 \Sigma を使って、誤差の広がりを楕円や楕円体として表す式でした。
+
+しかし、この式だけでは、
+
+誤差楕円の長軸はどちらを向くのか
+短軸はどちらを向くのか
+それぞれの軸の長さはいくつなのか
+
+が直感的には分かりません。
+これらを求めるために登場...]]></summary>
+        <author>
+            <name>s_hashida</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【アドオン紹介】Wheel Gen – 車・バイク・トラックなど多彩なホイールとタイヤを自動生成できるアドオン！]]></title>
         <id>https://cgbox.jp/?p=65847</id>
@@ -4791,17 +4863,6 @@ The post Compositor – Photoshopの代わりを目指して開発された画�
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Sketch2Pose – グリースペンシルで描いた棒人間と同じポーズをリグ付きキャラクターに反映できるBlender用アドオン]]></title>
-        <id>https://modelinghappy.com/?p=70604</id>
-        <link href="https://modelinghappy.com/archives/70604"/>
-        <updated>2026-09-19T12:28:32.000Z</updated>
-        <summary type="html"><![CDATA[Sketch2Pose — Draw Stickman, Generate 3D Pose Sketch2Poseは、Blenderのグリースペンシルで棒人間を描くだけで、リグが設定された3Dキャラクターに同じポーズを取
-The post Sketch2Pose – グリースペンシルで描いた棒人間と同じポーズをリグ付きキャラクターに反映できるBlender用アドオン first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
-        <author>
-            <name>modelinghappy</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Affinityに大規模アップデート！「ブレンドツール」やアプリ内スクリプト、3Dモデルサポートなどなど60以上の新機能・改善が追加]]></title>
         <id>https://cginterest.com/?p=62650</id>
         <link href="https://cginterest.com/2026/09/19/affinity-update-blend-tool-scripting-2026/"/>
@@ -4809,75 +4870,6 @@ The post Sketch2Pose – グリースペンシルで描いた棒人間と同じ�
         <summary type="html"><![CDATA[Canva傘下のクリエイティブソフト「Affinity」に大規模アップデートが実施されました。長年要望の多かった「ブレンドツール」や「アプリ内スクリプト機能」をはじめ、RAW現像パイプラインの刷新、3Dモデル（GLB）の配置、Canva AIによる制作支援など、60項目を超える新機能や改善の詳細をまとめました。]]></summary>
         <author>
             <name>.me</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[なぜPBRなのか ではなく 何が変わったのか]]></title>
-        <id>https://note.com/pompomtanuki/n/n968873ea1605</id>
-        <link href="https://note.com/pompomtanuki/n/n968873ea1605"/>
-        <updated>2026-09-19T08:12:27.000Z</updated>
-        <summary type="html"><![CDATA[続きをみる]]></summary>
-        <author>
-            <name>#SubstanceDesignerタグ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[なぜPBRなのか ではなく 何が変わったのか]]></title>
-        <id>https://note.com/pompomtanuki/n/n968873ea1605</id>
-        <link href="https://note.com/pompomtanuki/n/n968873ea1605"/>
-        <updated>2026-09-19T08:12:27.000Z</updated>
-        <summary type="html"><![CDATA[続きをみる]]></summary>
-        <author>
-            <name>#substancepainterタグ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Wire Studio – ケーブルやロープを手軽に作成・アニメーションできるBlender用無料アドオン]]></title>
-        <id>https://modelinghappy.com/?p=70598</id>
-        <link href="https://modelinghappy.com/archives/70598"/>
-        <updated>2026-09-19T02:49:53.000Z</updated>
-        <summary type="html"><![CDATA[Wire Studio Blender 5.2 Addon Wire Studioは、ケーブルやロープ、ホースなどを作成できるBlender用無料アドオンです。 通常の滑らかなケーブルだけでなく、ねじれたロープ、電話線の
-The post Wire Studio – ケーブルやロープを手軽に作成・アニメーションできるBlender用無料アドオン first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
-        <author>
-            <name>modelinghappy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[手首の皮膚が潰れる原因は、ポーズではなくスキニングだった]]></title>
-        <id>https://qiita.com/orca-forge/items/aff2c5ebfd64ea03b1be</id>
-        <link href="https://qiita.com/orca-forge/items/aff2c5ebfd64ea03b1be"/>
-        <updated>2026-09-19T01:00:03.000Z</updated>
-        <summary type="html"><![CDATA[📝 この記事は forge.workstyle.tech に掲載した記事の転載です。
-
-「まだ手首がねじれて見える」。そう言われて測ると、手首のねじれの中央値は 6〜8° でした。小さい値です。かわりに、素体を手で曲げて測ると、手首を 30°曲げただけでスキンウェイトのブ...]]></summary>
-        <author>
-            <name>3DCGタグが付けられた新着記事 - Qiita</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[親指を「どける」とサムズアップになる ── 握りを保つ補正と平滑化]]></title>
-        <id>https://qiita.com/orca-forge/items/48c367c38c1dbbf32cc5</id>
-        <link href="https://qiita.com/orca-forge/items/48c367c38c1dbbf32cc5"/>
-        <updated>2026-09-19T01:00:02.000Z</updated>
-        <summary type="html"><![CDATA[📝 この記事は forge.workstyle.tech に掲載した記事の転載です。
-
-握った手の親指が、人差し指を貫通します。付け根の関節を回して離そうとすると、今度は 12〜30° 振れた親指が立ち、サムズアップになりました。貫通を消すだけでは、元のジェスチャーが変わ...]]></summary>
-        <author>
-            <name>3DCGタグが付けられた新着記事 - Qiita</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[腕のめり込み補正が前後に跳ねる ── 動的計画法で逃がす方向を決める]]></title>
-        <id>https://zenn.dev/orca_forge/articles/arm-clearance-flipping-front-to-back</id>
-        <link href="https://zenn.dev/orca_forge/articles/arm-clearance-flipping-front-to-back"/>
-        <updated>2026-09-19T00:36:20.000Z</updated>
-        <summary type="html"><![CDATA[📝 この記事は forge.workstyle.tech に掲載した記事の転載です。
-
-背中で手を組んで静止しているはずのキャラクターが、右手を前へ17cm、後ろ上へ15cm、また前へ17cmと動かしました。腕のめり込みを直す処理が、腕を跳ねさせていたのです。
-前腕を後ろへ逃がしたい深さは74mm、手を前へ逃がしたい深さは73mm。フレームごとに深い側を選ぶと、1mmの揺れで方向が入れ替わります。そこで、各フレームの候補からクリップ全体の経路を動的計画法で選ぶ構成にしました。
-第3回は足を床に合わせました。今回は、体格の違いで体にめり込む腕を扱います。押し出す方向を安定させ、両手を組む...]]></summary>
-        <author>
-            <name>orca_forge</name>
         </author>
     </entry>
 </feed>

@@ -12,6 +12,21 @@
       "siteUrl": "https://cgbox.jp",
       "articles": [
         {
+          "id": "https://cgbox.jp/?p=65851",
+          "author": "kasahara",
+          "description": "こんばんは！ 今回はアドオンの「Physics Painter」を紹介します。 こちらのリンクがアドオンの商品ページになります。 Physics Painter 「Physics Painter」は、ブラシでなぞった場所 […]",
+          "link": "https://cgbox.jp/2026/10/19/news-addon-physics-painter/",
+          "publishedOn": "2026-10-19T01:37:22.000Z",
+          "wordCount": 2031,
+          "title": "【アドオン紹介】Physics Painter – 物理演算を使って小物や瓦礫を自然に配置できるアドオン！",
+          "enclosure": {
+            "url": "https://cgbox.jp/wp-content/uploads/2026/10/trailer1008_fin03-23.mp4",
+            "length": "0",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://cgbox.jp/wp-content/uploads/2026/10/image_processing20261018-2-lmgt1p.webp"
+        },
+        {
           "id": "https://cgbox.jp/?p=65847",
           "author": "kasahara",
           "description": "こんばんは！ 今回はアドオンの「Wheel Gen」を紹介します。 こちらのリンクがアドオンの商品ページになります。 Wheel Gen 「Wheel Gen」は、自動車・バイク・自転車・トラック・建設車両などのホイール […]",
@@ -1171,6 +1186,16 @@
       "feedUrl": "https://cgworld.jp/atom.xml",
       "siteUrl": "https://cgworld.jp/",
       "articles": [
+        {
+          "id": "https://cgworld.jp/flashnews/01-202610-3dsMax-SculptMesh.html",
+          "author": null,
+          "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
+          "link": "https://cgworld.jp/flashnews/01-202610-3dsMax-SculptMesh.html",
+          "publishedOn": "2026-10-19T00:00:12.000Z",
+          "wordCount": 828,
+          "title": "3ds Max用スカルプトプラグイン「Sculpt Mesh」リリース　マルチレゾリューションスカルプトやペイント、リトポロジー、マップベイクに対応 - ニュース",
+          "imageUrl": "https://cgworld.jp/flashnews/assets_c/2026/10/3dsMax_SculptMesh-01-thumb-1920x1081-90092.jpg"
+        },
         {
           "id": "https://cgworld.jp/flashnews/1114-plusone-MCO23.html",
           "author": null,
@@ -2502,26 +2527,6 @@
           "wordCount": 4479,
           "title": "Compositor – Photoshopの代わりを目指して開発された画像合成やレタッチに使えるMac向け無料画像編集ソフト",
           "imageUrl": "https://modelinghappy.com/wp-content/uploads/2026/09/20260920_teh_photoshop_compositer.jpg"
-        },
-        {
-          "id": "https://modelinghappy.com/?p=70604",
-          "author": "modelinghappy",
-          "description": "Sketch2Pose — Draw Stickman, Generate 3D Pose Sketch2Poseは、Blenderのグリースペンシルで棒人間を描くだけで、リグが設定された3Dキャラクターに同じポーズを取\nThe post Sketch2Pose – グリースペンシルで描いた棒人間と同じポーズをリグ付きキャラクターに反映できるBlender用アドオン first appeared on 3DCG最新情報サイト MODELING HAPPY.",
-          "link": "https://modelinghappy.com/archives/70604",
-          "publishedOn": "2026-09-19T12:28:32.000Z",
-          "wordCount": 3039,
-          "title": "Sketch2Pose – グリースペンシルで描いた棒人間と同じポーズをリグ付きキャラクターに反映できるBlender用アドオン",
-          "imageUrl": "https://modelinghappy.com/wp-content/uploads/2026/09/20260919_Sketch2Pose_01.jpg"
-        },
-        {
-          "id": "https://modelinghappy.com/?p=70598",
-          "author": "modelinghappy",
-          "description": "Wire Studio Blender 5.2 Addon Wire Studioは、ケーブルやロープ、ホースなどを作成できるBlender用無料アドオンです。 通常の滑らかなケーブルだけでなく、ねじれたロープ、電話線の\nThe post Wire Studio – ケーブルやロープを手軽に作成・アニメーションできるBlender用無料アドオン first appeared on 3DCG最新情報サイト MODELING HAPPY.",
-          "link": "https://modelinghappy.com/archives/70598",
-          "publishedOn": "2026-09-19T02:49:53.000Z",
-          "wordCount": 3047,
-          "title": "Wire Studio – ケーブルやロープを手軽に作成・アニメーションできるBlender用無料アドオン",
-          "imageUrl": "https://modelinghappy.com/wp-content/uploads/2026/09/20260919_wirestudio_01.jpg"
         }
       ]
     },
@@ -2819,6 +2824,21 @@
       "siteUrl": "https://zenn.dev/topics/3dcg",
       "articles": [
         {
+          "id": "https://zenn.dev/s_hashida/articles/cbea31661609e3",
+          "author": "s_hashida",
+          "description": "はじめに\n前回は、\n\n誤差楕円とは何か\n分散と楕円の大きさの関係\n共分散と楕円の傾きの関係\n誤差楕円を表す式\n誤差楕円体とは何か\nフォトグラメトリにおける意味\n\nについて説明しました。\n\nその中で重要だったのが、\n\n\\mathbf{e}^T\n\\Sigma^{-1}\n\\mathbf{e}\n=\nc^2\n\nという関係です。\nこれは、共分散行列 \\Sigma を使って、誤差の広がりを楕円や楕円体として表す式でした。\n\nしかし、この式だけでは、\n\n誤差楕円の長軸はどちらを向くのか\n短軸はどちらを向くのか\nそれぞれの軸の長さはいくつなのか\n\nが直感的には分かりません。\nこれらを求めるために登場...",
+          "link": "https://zenn.dev/s_hashida/articles/cbea31661609e3",
+          "publishedOn": "2026-10-18T21:51:05.000Z",
+          "wordCount": 2318,
+          "title": "フォトグラメトリ数学｜62：固有値・固有ベクトルとは何か～誤差楕円の大きさと方向を求める～",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--iq4Q8plg--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%2595%25E3%2582%25A9%25E3%2583%2588%25E3%2582%25B0%25E3%2583%25A9%25E3%2583%25A1%25E3%2583%2588%25E3%2583%25AA%25E6%2595%25B0%25E5%25AD%25A6%25EF%25BD%259C62%25EF%25BC%259A%25E5%259B%25BA%25E6%259C%2589%25E5%2580%25A4%25E3%2583%25BB%25E5%259B%25BA%25E6%259C%2589%25E3%2583%2599%25E3%2582%25AF%25E3%2583%2588%25E3%2583%25AB%25E3%2581%25A8%25E3%2581%25AF%25E4%25BD%2595%25E3%2581%258B%25EF%25BD%259E%25E8%25AA%25A4%25E5%25B7%25AE%25E6%25A5%2595%25E5%2586%2586%25E3%2581%25AE%25E5%25A4%25A7%25E3%2581%258D%25E3%2581%2595%25E3%2581%25A8%25E6%2596%25B9%25E5%2590%2591%25E3%2582%2592%25E6%25B1%2582%25E3%2582%2581%25E3%2582%258B%25EF%25BD%259E%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:s_hashida%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2QwNzQxMzlkMjguanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+            "length": "0",
+            "type": "false"
+          },
+          "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--iq4Q8plg--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%2595%25E3%2582%25A9%25E3%2583%2588%25E3%2582%25B0%25E3%2583%25A9%25E3%2583%25A1%25E3%2583%2588%25E3%2583%25AA%25E6%2595%25B0%25E5%25AD%25A6%25EF%25BD%259C62%25EF%25BC%259A%25E5%259B%25BA%25E6%259C%2589%25E5%2580%25A4%25E3%2583%25BB%25E5%259B%25BA%25E6%259C%2589%25E3%2583%2599%25E3%2582%25AF%25E3%2583%2588%25E3%2583%25AB%25E3%2581%25A8%25E3%2581%25AF%25E4%25BD%2595%25E3%2581%258B%25EF%25BD%259E%25E8%25AA%25A4%25E5%25B7%25AE%25E6%25A5%2595%25E5%2586%2586%25E3%2581%25AE%25E5%25A4%25A7%25E3%2581%258D%25E3%2581%2595%25E3%2581%25A8%25E6%2596%25B9%25E5%2590%2591%25E3%2582%2592%25E6%25B1%2582%25E3%2582%2581%25E3%2582%258B%25EF%25BD%259E%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:s_hashida%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2QwNzQxMzlkMjguanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+        },
+        {
           "id": "https://zenn.dev/eight_blog/articles/4d51eb2265258a",
           "author": "eight",
           "description": "Blender の Geometry Nodes で、重い処理（地形の侵食）をリピートゾーンからシミュレーションゾーンに移したときに、気づきにくい落とし穴にはまったのでまとめます。\n結論を先に書くと、次の2点です。\n\nシミュレーションゾーンは、ゾーンより前（上流）の設定を変えても、最初のコマから再生し直すまで結果が変わりません。エラーも警告も出ません\n1コマ目から処理が1回進むので、リピートゾーンの「N回」とそろえるなら、Nコマで止めます（N＋1コマではありません）\n\n確認した環境は Blender 5.2.2 LTS（Windows 11 / RTX 3060 と macOS 27 /...",
@@ -3072,21 +3092,6 @@
             "type": "false"
           },
           "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--vF8KDiBc--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E9%25A0%25AD%25E3%2581%25A8%25E8%2583%25B8%25E3%2581%25AE%25E8%25A7%2592%25E5%25BA%25A6%25E5%25B7%25AE%25E3%2581%258C%25E5%2585%25A8%25E3%2583%2595%25E3%2583%25AC%25E3%2583%25BC%25E3%2583%25A00.000%25C2%25B0%25E2%2594%2580%25E2%2594%2580%25E3%2583%25A2%25E3%2583%25BC%25E3%2582%25B7%25E3%2583%25A7%25E3%2583%25B3%25E8%25A8%2588%25E6%25B8%25AC%25E3%2581%258C%25E5%25A3%258A%25E3%2582%258C%25E3%2581%25A6%25E3%2581%2584%25E3%2581%259F%25E8%25A9%25B1%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:orca_forge%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzlkZTE5OTg2ODguanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
-        },
-        {
-          "id": "https://zenn.dev/orca_forge/articles/arm-clearance-flipping-front-to-back",
-          "author": "orca_forge",
-          "description": "📝 この記事は forge.workstyle.tech に掲載した記事の転載です。\n\n背中で手を組んで静止しているはずのキャラクターが、右手を前へ17cm、後ろ上へ15cm、また前へ17cmと動かしました。腕のめり込みを直す処理が、腕を跳ねさせていたのです。\n前腕を後ろへ逃がしたい深さは74mm、手を前へ逃がしたい深さは73mm。フレームごとに深い側を選ぶと、1mmの揺れで方向が入れ替わります。そこで、各フレームの候補からクリップ全体の経路を動的計画法で選ぶ構成にしました。\n第3回は足を床に合わせました。今回は、体格の違いで体にめり込む腕を扱います。押し出す方向を安定させ、両手を組む...",
-          "link": "https://zenn.dev/orca_forge/articles/arm-clearance-flipping-front-to-back",
-          "publishedOn": "2026-09-19T00:36:20.000Z",
-          "wordCount": 2130,
-          "title": "腕のめり込み補正が前後に跳ねる ── 動的計画法で逃がす方向を決める",
-          "enclosure": {
-            "url": "https://res.cloudinary.com/zenn/image/upload/s--HUU-qJO0--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E8%2585%2595%25E3%2581%25AE%25E3%2582%2581%25E3%2582%258A%25E8%25BE%25BC%25E3%2581%25BF%25E8%25A3%259C%25E6%25AD%25A3%25E3%2581%258C%25E5%2589%258D%25E5%25BE%258C%25E3%2581%25AB%25E8%25B7%25B3%25E3%2581%25AD%25E3%2582%258B%2520%25E2%2594%2580%25E2%2594%2580%2520%25E5%258B%2595%25E7%259A%2584%25E8%25A8%2588%25E7%2594%25BB%25E6%25B3%2595%25E3%2581%25A7%25E9%2580%2583%25E3%2581%258C%25E3%2581%2599%25E6%2596%25B9%25E5%2590%2591%25E3%2582%2592%25E6%25B1%25BA%25E3%2582%2581%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:orca_forge%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzlkZTE5OTg2ODguanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
-            "length": "0",
-            "type": "false"
-          },
-          "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--HUU-qJO0--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E8%2585%2595%25E3%2581%25AE%25E3%2582%2581%25E3%2582%258A%25E8%25BE%25BC%25E3%2581%25BF%25E8%25A3%259C%25E6%25AD%25A3%25E3%2581%258C%25E5%2589%258D%25E5%25BE%258C%25E3%2581%25AB%25E8%25B7%25B3%25E3%2581%25AD%25E3%2582%258B%2520%25E2%2594%2580%25E2%2594%2580%2520%25E5%258B%2595%25E7%259A%2584%25E8%25A8%2588%25E7%2594%25BB%25E6%25B3%2595%25E3%2581%25A7%25E9%2580%2583%25E3%2581%258C%25E3%2581%2599%25E6%2596%25B9%25E5%2590%2591%25E3%2582%2592%25E6%25B1%25BA%25E3%2582%2581%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:orca_forge%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzlkZTE5OTg2ODguanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
         }
       ]
     },
@@ -3263,26 +3268,6 @@
           "wordCount": 1327,
           "title": "DirectX RaytracingでAssimpを使ったモデル描画 1 頂点バッファとインデックスバッファ",
           "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnBicy50d2ltZy5jb20lMkZwcm9maWxlX2ltYWdlcyUyRjk1NjUzNTU5Mzc3NjgyNDMyMSUyRjZKUkVNZ1BpX25vcm1hbC5qcGc_aXhsaWI9cmItNC4xLjEmYXI9MSUzQTEmZml0PWNyb3AmbWFzaz1lbGxpcHNlJmJnPUZGRkZGRiZmbT1wbmczMiZzPTFlNGQwMTBjYTFkZTU5OWNmNzdmZDVhYTI3NjMwM2I0%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D373a03db911f7af0ce88b6917ff32871?ixlib=rb-4.1.1&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9RGlyZWN0WCUyMFJheXRyYWNpbmclRTMlODElQTdBc3NpbXAlRTMlODIlOTIlRTQlQkQlQkYlRTMlODElQTMlRTMlODElOUYlRTMlODMlQTIlRTMlODMlODclRTMlODMlQUIlRTYlOEYlOEYlRTclOTQlQkIlMjAxJTIwJUU5JUEwJTgyJUU3JTgyJUI5JUUzJTgzJTkwJUUzJTgzJTgzJUUzJTgzJTk1JUUzJTgyJUExJUUzJTgxJUE4JUUzJTgyJUE0JUUzJTgzJUIzJUUzJTgzJTg3JUUzJTgzJTgzJUUzJTgyJUFGJUUzJTgyJUI5JUUzJTgzJTkwJUUzJTgzJTgzJUUzJTgzJTk1JUUzJTgyJUExJnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9M2E2MTY5OGY3M2YwNmVkMGJkOWY1MDMyNTIzZDU0Mjg&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBZS1ZLRFgxMiZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPTg5MDU4ZmFjYTkxMzE2Yjk4ZjA0NDYzZDdhZDQ4NDli&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=1f9622e296c93bf15d409c953ff03a2d"
-        },
-        {
-          "id": "https://qiita.com/orca-forge/items/aff2c5ebfd64ea03b1be",
-          "author": null,
-          "description": "📝 この記事は forge.workstyle.tech に掲載した記事の転載です。\n\n「まだ手首がねじれて見える」。そう言われて測ると、手首のねじれの中央値は 6〜8° でした。小さい値です。かわりに、素体を手で曲げて測ると、手首を 30°曲げただけでスキンウェイトのブ...",
-          "link": "https://qiita.com/orca-forge/items/aff2c5ebfd64ea03b1be",
-          "publishedOn": "2026-09-19T01:00:03.000Z",
-          "wordCount": 2423,
-          "title": "手首の皮膚が潰れる原因は、ポーズではなくスキニングだった",
-          "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYxODU1NTMlMkY0ZmEwZjY5OThlNzkzNzcyYzkxZTRjMDI5MjFhMmVhMTY0ODY1MmQ3JTJGeF9sYXJnZS5wbmclM0YxNzg5MzcwNTMxP2l4bGliPXJiLTQuMS4xJmFyPTElM0ExJmZpdD1jcm9wJm1hc2s9ZWxsaXBzZSZiZz1GRkZGRkYmZm09cG5nMzImcz05YTI0N2UzNjJiMTMwMjQyZWNiODY3ZmEwMzYzNDA0Mw%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D30d8b8322b862fef0066a684f2fb4e58?ixlib=rb-4.1.1&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9JUU2JTg5JThCJUU5JUE2JTk2JUUzJTgxJUFFJUU3JTlBJUFFJUU4JTg2JTlBJUUzJTgxJThDJUU2JUJEJUIwJUUzJTgyJThDJUUzJTgyJThCJUU1JThFJTlGJUU1JTlCJUEwJUUzJTgxJUFGJUUzJTgwJTgxJUUzJTgzJTlEJUUzJTgzJUJDJUUzJTgyJUJBJUUzJTgxJUE3JUUzJTgxJUFGJUUzJTgxJUFBJUUzJTgxJThGJUUzJTgyJUI5JUUzJTgyJUFEJUUzJTgzJThCJUUzJTgzJUIzJUUzJTgyJUIwJUUzJTgxJUEwJUUzJTgxJUEzJUUzJTgxJTlGJnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9MjM5ZmM5MWIzNDcwNWE3ZWU5MTRjZTE0MWViYjdkNTI&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBvcmNhLWZvcmdlJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9ZmE3ZDc1YzEwMWIwNjgxNjg0NjMzODlkNDE0NmNhMWY&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=b5e556e05522708e91a1fba362e27e6e"
-        },
-        {
-          "id": "https://qiita.com/orca-forge/items/48c367c38c1dbbf32cc5",
-          "author": null,
-          "description": "📝 この記事は forge.workstyle.tech に掲載した記事の転載です。\n\n握った手の親指が、人差し指を貫通します。付け根の関節を回して離そうとすると、今度は 12〜30° 振れた親指が立ち、サムズアップになりました。貫通を消すだけでは、元のジェスチャーが変わ...",
-          "link": "https://qiita.com/orca-forge/items/48c367c38c1dbbf32cc5",
-          "publishedOn": "2026-09-19T01:00:02.000Z",
-          "wordCount": 2344,
-          "title": "親指を「どける」とサムズアップになる ── 握りを保つ補正と平滑化",
-          "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYxODU1NTMlMkY0ZmEwZjY5OThlNzkzNzcyYzkxZTRjMDI5MjFhMmVhMTY0ODY1MmQ3JTJGeF9sYXJnZS5wbmclM0YxNzg5MzcwNTMxP2l4bGliPXJiLTQuMS4xJmFyPTElM0ExJmZpdD1jcm9wJm1hc2s9ZWxsaXBzZSZiZz1GRkZGRkYmZm09cG5nMzImcz05YTI0N2UzNjJiMTMwMjQyZWNiODY3ZmEwMzYzNDA0Mw%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D30d8b8322b862fef0066a684f2fb4e58?ixlib=rb-4.1.1&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9JUU4JUE2JUFBJUU2JThDJTg3JUUzJTgyJTkyJUUzJTgwJThDJUUzJTgxJUE5JUUzJTgxJTkxJUUzJTgyJThCJUUzJTgwJThEJUUzJTgxJUE4JUUzJTgyJUI1JUUzJTgzJUEwJUUzJTgyJUJBJUUzJTgyJUEyJUUzJTgzJTgzJUUzJTgzJTk3JUUzJTgxJUFCJUUzJTgxJUFBJUUzJTgyJThCJTIwJUUyJTk0JTgwJUUyJTk0JTgwJTIwJUU2JThGJUExJUUzJTgyJThBJUUzJTgyJTkyJUU0JUJGJTlEJUUzJTgxJUE0JUU4JUEzJTlDJUU2JUFEJUEzJUUzJTgxJUE4JUU1JUI5JUIzJUU2JUJCJTkxJUU1JThDJTk2JnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9ODNkOTJlOGNiMDRjYzcwOGQ4ZTM0ZWZiMjQwMTY5ZGU&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBvcmNhLWZvcmdlJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9ZmE3ZDc1YzEwMWIwNjgxNjg0NjMzODlkNDE0NmNhMWY&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=575c6fbb89fb764b7c313eb1246fe7f0"
         }
       ]
     },
@@ -4118,16 +4103,6 @@
           "wordCount": 2499,
           "title": "「手で描いたほうが早い」と言われた日",
           "imageUrl": "https://assets.st-note.com/production/uploads/images/316901465/rectangle_large_type_2_c14366afdd2b46d7448c49a619bc28a7.png?width=800"
-        },
-        {
-          "id": "https://note.com/pompomtanuki/n/n968873ea1605",
-          "author": null,
-          "description": "続きをみる",
-          "link": "https://note.com/pompomtanuki/n/n968873ea1605",
-          "publishedOn": "2026-09-19T08:12:27.000Z",
-          "wordCount": 2495,
-          "title": "なぜPBRなのか ではなく 何が変わったのか",
-          "imageUrl": "https://assets.st-note.com/production/uploads/images/315267174/rectangle_large_type_2_cc2abb42f1b8a1674d574a08fd056503.png?width=800"
         }
       ]
     },
@@ -4245,16 +4220,6 @@
           "wordCount": 2892,
           "title": "18万ポリの鬼を6000ポリにしたら、昔のSubstance Painter塗装まで復活した話",
           "imageUrl": "https://assets.st-note.com/production/uploads/images/315610268/rectangle_large_type_2_07db55cb36c5ee02dd73db0a78646cf3.png?width=800"
-        },
-        {
-          "id": "https://note.com/pompomtanuki/n/n968873ea1605",
-          "author": null,
-          "description": "続きをみる",
-          "link": "https://note.com/pompomtanuki/n/n968873ea1605",
-          "publishedOn": "2026-09-19T08:12:27.000Z",
-          "wordCount": 2495,
-          "title": "なぜPBRなのか ではなく 何が変わったのか",
-          "imageUrl": "https://assets.st-note.com/production/uploads/images/315267174/rectangle_large_type_2_cc2abb42f1b8a1674d574a08fd056503.png?width=800"
         }
       ]
     },
@@ -4269,6 +4234,16 @@
       "feedUrl": "https://3d.crdg.jp/env/feed/",
       "siteUrl": "https://3d.crdg.jp/env/",
       "articles": [
+        {
+          "id": "https://3d.crdg.jp/env/?p=10614",
+          "author": "Soichiro.Hashii",
+          "description": "今回はアクションゲーム制作における“コリジョン”についてお話します。 コリジョンとは？ 一般論として”キャラクターやオブジェク […]\n続きを読む\n投稿 【ゲーム制作知識】コリジョンについて は エンホリ - ENVIRONMENT HOLIC｜C&R Creative Studios に最初に表示されました。",
+          "link": "https://3d.crdg.jp/env/2026/10/19/10614/?utm_source=rss&utm_medium=rss&utm_campaign=%25e3%2580%2590%25e3%2582%25b2%25e3%2583%25bc%25e3%2583%25a0%25e5%2588%25b6%25e4%25bd%259c%25e7%259f%25a5%25e8%25ad%2598%25e3%2580%2591%25e3%2582%25b3%25e3%2583%25aa%25e3%2582%25b8%25e3%2583%25a7%25e3%2583%25b3%25e3%2581%25ab%25e3%2581%25a4%25e3%2581%2584%25e3%2581%25a6",
+          "publishedOn": "2026-10-19T00:30:00.000Z",
+          "wordCount": 3306,
+          "title": "【ゲーム制作知識】コリジョンについて",
+          "imageUrl": "https://3d.crdg.jp/env/wp-content/uploads/2026/10/eh_hashii_title_Collision_01.png"
+        },
         {
           "id": "https://3d.crdg.jp/env/?p=7398",
           "author": "Mao.Toriyama",

@@ -460,21 +460,6 @@
           "wordCount": 1930,
           "title": "【アドオン紹介】Bodiez – ベースモデルをカスタム作成！",
           "imageUrl": "https://cgbox.jp/wp-content/uploads/2026/09/image_processing20260916-2-xkr94x.webp"
-        },
-        {
-          "id": "https://cgbox.jp/?p=65690",
-          "author": "kasahara",
-          "description": "こんばんは！ 今回はアドオンの「Adaptive Auto Skinning」を紹介します。 こちらのリンクがアドオンの商品ページになります。 Adaptive Auto Skinning 「Adaptive Auto  […]",
-          "link": "https://cgbox.jp/2026/09/20/news-addon-adaptive-auto-skinning/",
-          "publishedOn": "2026-09-20T05:43:40.000Z",
-          "wordCount": 1994,
-          "title": "【アドオン紹介】Adaptive Auto Skinning – スキニングを効率化！",
-          "enclosure": {
-            "url": "https://cgbox.jp/wp-content/uploads/2026/09/purchasebuttun-edit-15.mp4",
-            "length": "0",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://cgbox.jp/wp-content/uploads/2026/09/image_processing20260818-2-65f3fn.webp"
         }
       ]
     },
@@ -1974,6 +1959,26 @@
       "siteUrl": "https://modelinghappy.com",
       "articles": [
         {
+          "id": "https://modelinghappy.com/?p=71107",
+          "author": "modelinghappy",
+          "description": "Weave It Weave Itは、布や金網、かごなどの編み目をプロシージャルに生成できるBlender用アドオンです。 糸が交差する構造を実際のジオメトリで作成でき、編み目の密度や糸の形状、色、マテリアルなどを調整で\nThe post Weave It ー 布や金網、かごの編み目を実際のジオメトリで生成できるBlender用アドオン first appeared on 3DCG最新情報サイト MODELING HAPPY.",
+          "link": "https://modelinghappy.com/archives/71107",
+          "publishedOn": "2026-10-19T12:56:55.000Z",
+          "wordCount": 3068,
+          "title": "Weave It ー 布や金網、かごの編み目を実際のジオメトリで生成できるBlender用アドオン",
+          "imageUrl": "https://modelinghappy.com/wp-content/uploads/2026/10/20261019_Weave_It_01.jpg"
+        },
+        {
+          "id": "https://modelinghappy.com/?p=71100",
+          "author": "modelinghappy",
+          "description": "Supa Painter Supa Painterは、Quentin Pointillartさんが作成した、写真やテクスチャ、3Dのレンダリング画像を絵画風に変換できるBlender用アドオンです。AIは使用せず、形状に\nThe post Supa Painter ー 写真やPBRテクスチャ、レンダリング画像を油絵・水彩風に変換できるBlenderアドオン first appeared on 3DCG最新情報サイト MODELING HAPPY.",
+          "link": "https://modelinghappy.com/archives/71100",
+          "publishedOn": "2026-10-19T12:42:42.000Z",
+          "wordCount": 3113,
+          "title": "Supa Painter ー 写真やPBRテクスチャ、レンダリング画像を油絵・水彩風に変換できるBlenderアドオン",
+          "imageUrl": "https://modelinghappy.com/wp-content/uploads/2026/10/20261019_Supa_Painter_01.jpg"
+        },
+        {
           "id": "https://modelinghappy.com/?p=71041",
           "author": "modelinghappy",
           "description": "TexBridge — Substance 3D Painter to Unreal Engine 5 in One Click TexBridgeは、Moss3Dが公開した、Substance 3D Painterで制\nThe post TexBridgeーSubstance 3D PainterからUE5へテクスチャ転送・マテリアル作成・割り当てまでワンクリックで行えるプラグイン first appeared on 3DCG最新情報サイト MODELING HAPPY.",
@@ -2502,16 +2507,6 @@
           "wordCount": 3249,
           "title": "Hi3D V3.0 – 平面的なアニメ調イラスト1枚から動物キャラクターと小物を3Dモデル化してみた！",
           "imageUrl": "https://modelinghappy.com/wp-content/uploads/2026/09/20260913_00.jpg"
-        },
-        {
-          "id": "https://modelinghappy.com/?p=70611",
-          "author": "modelinghappy",
-          "description": "compositer Compositorは、画像の合成やレタッチ、仕上げ作業に必要な機能を備えた、Mac向けの無料画像編集ソフトです。Photoshopに近い操作感を目指して開発されており、オープンソースとして公式サイ\nThe post Compositor – Photoshopの代わりを目指して開発された画像合成やレタッチに使えるMac向け無料画像編集ソフト first appeared on 3DCG最新情報サイト MODELING HAPPY.",
-          "link": "https://modelinghappy.com/archives/70611",
-          "publishedOn": "2026-09-20T05:41:43.000Z",
-          "wordCount": 4479,
-          "title": "Compositor – Photoshopの代わりを目指して開発された画像合成やレタッチに使えるMac向け無料画像編集ソフト",
-          "imageUrl": "https://modelinghappy.com/wp-content/uploads/2026/09/20260920_teh_photoshop_compositer.jpg"
         }
       ]
     },
@@ -2809,6 +2804,21 @@
       "siteUrl": "https://zenn.dev/topics/3dcg",
       "articles": [
         {
+          "id": "https://zenn.dev/orca_forge/articles/one-percent-shorter-leg-16-degree-knee",
+          "author": "orca_forge",
+          "description": "📝 この記事は forge.workstyle.tech に掲載した記事の転載です。\n\n推定した演者の動きをキャラクターへ写すリターゲット（演者の動きを別の体格のキャラクターへ写す処理）の直後、遊脚が床を148mm突き抜けていました。接地を直そうとして脚の到達距離に1%の余裕を設けると、今度は立っているだけで膝が16〜18°曲がりました。\n接地した足の軌道を先に作り、その足に腰の位置を合わせる構成へ直しました。膝角の推定とのずれは、中央値で5.7°から2.1°、p90で18°から8°になりました。p90は、値を小さい順に並べたときの90パーセンタイルです。\n固定カメラの実写動画からVR...",
+          "link": "https://zenn.dev/orca_forge/articles/one-percent-shorter-leg-16-degree-knee",
+          "publishedOn": "2026-10-19T13:03:11.000Z",
+          "wordCount": 2262,
+          "title": "脚を1%縮めたら膝が16°曲がった ── VRMの接地補正で踏んだ罠",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--b0d2ZEjh--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E8%2584%259A%25E3%2582%25921%2525%25E7%25B8%25AE%25E3%2582%2581%25E3%2581%259F%25E3%2582%2589%25E8%2586%259D%25E3%2581%258C16%25C2%25B0%25E6%259B%25B2%25E3%2581%258C%25E3%2581%25A3%25E3%2581%259F%2520%25E2%2594%2580%25E2%2594%2580%2520VRM%25E3%2581%25AE%25E6%258E%25A5%25E5%259C%25B0%25E8%25A3%259C%25E6%25AD%25A3%25E3%2581%25A7%25E8%25B8%258F%25E3%2582%2593%25E3%2581%25A0%25E7%25BD%25A0%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:orca_forge%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzlkZTE5OTg2ODguanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+            "length": "0",
+            "type": "false"
+          },
+          "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--b0d2ZEjh--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E8%2584%259A%25E3%2582%25921%2525%25E7%25B8%25AE%25E3%2582%2581%25E3%2581%259F%25E3%2582%2589%25E8%2586%259D%25E3%2581%258C16%25C2%25B0%25E6%259B%25B2%25E3%2581%258C%25E3%2581%25A3%25E3%2581%259F%2520%25E2%2594%2580%25E2%2594%2580%2520VRM%25E3%2581%25AE%25E6%258E%25A5%25E5%259C%25B0%25E8%25A3%259C%25E6%25AD%25A3%25E3%2581%25A7%25E8%25B8%258F%25E3%2582%2593%25E3%2581%25A0%25E7%25BD%25A0%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:orca_forge%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzlkZTE5OTg2ODguanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+        },
+        {
           "id": "https://zenn.dev/toprunner/articles/d30f2235e5ef8b",
           "author": "TOPRUNNER",
           "description": "TOP RUNNERのマスコット「サニーくん」を、立体にしてみました。\nきっかけは、最近よく見かけるキーボード型のキーホルダーです。キーを押すとカチッと鳴るあれに、サニーくんを載せたら楽しそうだなと思いました。キーの上に載せるには、まず3Dデータが要ります。\nいつもChatGPTで描いてもらっているサニーくんの絵から、Fusionで加工できる3Dデータを作れるのか。やってみた流れと、ハマったところをまとめます。\n\n 作った流れ\n\n\nChatGPTで、3D化に使う正面の絵を作る\n無料で使えるAIのデモに絵を入れて、立体にする\n横と後ろの絵も足して、作り直す\nSTLに変換して、Fusionで...",
@@ -3077,21 +3087,6 @@
             "type": "false"
           },
           "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--0Luma_uD--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%2595%25E3%2582%25A9%25E3%2583%2588%25E3%2582%25B0%25E3%2583%25A9%25E3%2583%25A1%25E3%2583%2588%25E3%2583%25AA%25E6%2595%25B0%25E5%25AD%25A6%25EF%25BD%259C56%25EF%25BC%259AGSD%25EF%25BC%2588%25E5%259C%25B0%25E4%25B8%258A%25E8%25A7%25A3%25E5%2583%258F%25E5%25BA%25A6%25EF%25BC%2589%25E3%2581%25A8%25E3%2581%25AF%25E4%25BD%2595%25E3%2581%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:s_hashida%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2QwNzQxMzlkMjguanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
-        },
-        {
-          "id": "https://zenn.dev/orca_forge/articles/head-chest-angle-zero-degrees",
-          "author": "orca_forge",
-          "description": "📝 この記事は forge.workstyle.tech に掲載した記事の転載です。\n\nキャラクターの頭が、体をひねるたびに一緒に振られる。頭と胸の角度差を測ると、全フレームで0.000°でした。原因に気づくまで、頭の向け方を下流で3回作り直しています。\n原因は、計測に使った鼻と耳のランドマークが、胴体の基底ベクトルから合成されていたことでした。頭と胸を別々に測ったつもりが、同じ向きを比較していたのです。\n固定カメラの実写動画からVRMアニメーションを作る連載の第2回です。今回は、計測対象、座標系、検証方法の取り違えを、実際の失敗から整理します。\n前回は、パイプライン全体と設計判断を扱...",
-          "link": "https://zenn.dev/orca_forge/articles/head-chest-angle-zero-degrees",
-          "publishedOn": "2026-09-20T00:43:24.000Z",
-          "wordCount": 1574,
-          "title": "頭と胸の角度差が全フレーム0.000°──モーション計測が壊れていた話",
-          "enclosure": {
-            "url": "https://res.cloudinary.com/zenn/image/upload/s--vF8KDiBc--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E9%25A0%25AD%25E3%2581%25A8%25E8%2583%25B8%25E3%2581%25AE%25E8%25A7%2592%25E5%25BA%25A6%25E5%25B7%25AE%25E3%2581%258C%25E5%2585%25A8%25E3%2583%2595%25E3%2583%25AC%25E3%2583%25BC%25E3%2583%25A00.000%25C2%25B0%25E2%2594%2580%25E2%2594%2580%25E3%2583%25A2%25E3%2583%25BC%25E3%2582%25B7%25E3%2583%25A7%25E3%2583%25B3%25E8%25A8%2588%25E6%25B8%25AC%25E3%2581%258C%25E5%25A3%258A%25E3%2582%258C%25E3%2581%25A6%25E3%2581%2584%25E3%2581%259F%25E8%25A9%25B1%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:orca_forge%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzlkZTE5OTg2ODguanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
-            "length": "0",
-            "type": "false"
-          },
-          "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--vF8KDiBc--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E9%25A0%25AD%25E3%2581%25A8%25E8%2583%25B8%25E3%2581%25AE%25E8%25A7%2592%25E5%25BA%25A6%25E5%25B7%25AE%25E3%2581%258C%25E5%2585%25A8%25E3%2583%2595%25E3%2583%25AC%25E3%2583%25BC%25E3%2583%25A00.000%25C2%25B0%25E2%2594%2580%25E2%2594%2580%25E3%2583%25A2%25E3%2583%25BC%25E3%2582%25B7%25E3%2583%25A7%25E3%2583%25B3%25E8%25A8%2588%25E6%25B8%25AC%25E3%2581%258C%25E5%25A3%258A%25E3%2582%258C%25E3%2581%25A6%25E3%2581%2584%25E3%2581%259F%25E8%25A9%25B1%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:orca_forge%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzlkZTE5OTg2ODguanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
         }
       ]
     },
@@ -4301,6 +4296,16 @@
       "feedUrl": "https://cginterest.com/feed/",
       "siteUrl": "https://cginterest.com",
       "articles": [
+        {
+          "id": "https://cginterest.com/?p=63824",
+          "author": ".me",
+          "description": "2026年10月15日（現地時間）- Adobeは、NVIDIAとの提携を広げ、「Photoshop」「Premiere」「Substance 3D」「Frame.io」「Adobe Brand Concierge」を最 […]",
+          "link": "https://cginterest.com/2026/10/19/adobe%e3%80%81nvidia%e3%81%a8%e3%81%ae%e6%8f%90%e6%90%ba%e3%82%92%e6%8b%a1%e5%a4%a7%ef%bc%81photoshop%e3%83%bbpremiere%e3%83%bbsubstance-3d%e3%81%8crtx-spark%e3%81%a7%e6%9c%80%e5%a4%a72%e5%80%8d/",
+          "publishedOn": "2026-10-19T08:42:29.000Z",
+          "wordCount": 398,
+          "title": "Adobe、NVIDIAとの提携を拡大！Photoshop・Premiere・Substance 3DがRTX Sparkで最大2倍高速に",
+          "imageUrl": "https://cginterest.com/wp-content/uploads/2026/10/adobexnvidia-blogheader.webp"
+        },
         {
           "id": "https://cginterest.com/?p=63806",
           "author": ".me",

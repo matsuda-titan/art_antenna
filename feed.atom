@@ -2,10 +2,56 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-10-19T08:15:05.230Z</updated>
+    <updated>2026-10-19T17:56:10.891Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[脚を1%縮めたら膝が16°曲がった ── VRMの接地補正で踏んだ罠]]></title>
+        <id>https://zenn.dev/orca_forge/articles/one-percent-shorter-leg-16-degree-knee</id>
+        <link href="https://zenn.dev/orca_forge/articles/one-percent-shorter-leg-16-degree-knee"/>
+        <updated>2026-10-19T13:03:11.000Z</updated>
+        <summary type="html"><![CDATA[📝 この記事は forge.workstyle.tech に掲載した記事の転載です。
+
+推定した演者の動きをキャラクターへ写すリターゲット（演者の動きを別の体格のキャラクターへ写す処理）の直後、遊脚が床を148mm突き抜けていました。接地を直そうとして脚の到達距離に1%の余裕を設けると、今度は立っているだけで膝が16〜18°曲がりました。
+接地した足の軌道を先に作り、その足に腰の位置を合わせる構成へ直しました。膝角の推定とのずれは、中央値で5.7°から2.1°、p90で18°から8°になりました。p90は、値を小さい順に並べたときの90パーセンタイルです。
+固定カメラの実写動画からVR...]]></summary>
+        <author>
+            <name>orca_forge</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Weave It ー 布や金網、かごの編み目を実際のジオメトリで生成できるBlender用アドオン]]></title>
+        <id>https://modelinghappy.com/?p=71107</id>
+        <link href="https://modelinghappy.com/archives/71107"/>
+        <updated>2026-10-19T12:56:55.000Z</updated>
+        <summary type="html"><![CDATA[Weave It Weave Itは、布や金網、かごなどの編み目をプロシージャルに生成できるBlender用アドオンです。 糸が交差する構造を実際のジオメトリで作成でき、編み目の密度や糸の形状、色、マテリアルなどを調整で
+The post Weave It ー 布や金網、かごの編み目を実際のジオメトリで生成できるBlender用アドオン first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
+        <author>
+            <name>modelinghappy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Supa Painter ー 写真やPBRテクスチャ、レンダリング画像を油絵・水彩風に変換できるBlenderアドオン]]></title>
+        <id>https://modelinghappy.com/?p=71100</id>
+        <link href="https://modelinghappy.com/archives/71100"/>
+        <updated>2026-10-19T12:42:42.000Z</updated>
+        <summary type="html"><![CDATA[Supa Painter Supa Painterは、Quentin Pointillartさんが作成した、写真やテクスチャ、3Dのレンダリング画像を絵画風に変換できるBlender用アドオンです。AIは使用せず、形状に
+The post Supa Painter ー 写真やPBRテクスチャ、レンダリング画像を油絵・水彩風に変換できるBlenderアドオン first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
+        <author>
+            <name>modelinghappy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Adobe、NVIDIAとの提携を拡大！Photoshop・Premiere・Substance 3DがRTX Sparkで最大2倍高速に]]></title>
+        <id>https://cginterest.com/?p=63824</id>
+        <link href="https://cginterest.com/2026/10/19/adobe%e3%80%81nvidia%e3%81%a8%e3%81%ae%e6%8f%90%e6%90%ba%e3%82%92%e6%8b%a1%e5%a4%a7%ef%bc%81photoshop%e3%83%bbpremiere%e3%83%bbsubstance-3d%e3%81%8crtx-spark%e3%81%a7%e6%9c%80%e5%a4%a72%e5%80%8d/"/>
+        <updated>2026-10-19T08:42:29.000Z</updated>
+        <summary type="html"><![CDATA[2026年10月15日（現地時間）- Adobeは、NVIDIAとの提携を広げ、「Photoshop」「Premiere」「Substance 3D」「Frame.io」「Adobe Brand Concierge」を最 […]]]></summary>
+        <author>
+            <name>.me</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[PlayCanvas Editor 2.34 がリリース！実行中のアプリを調べる Inspector、リジッドボディの Gravity Scale、Splat Budget Mode など]]></title>
         <id>https://cginterest.com/?p=63806</id>
@@ -4853,42 +4899,6 @@ Textured 3D Modelは3次元表面に外観を与えたもの
 続きをみる]]></summary>
         <author>
             <name>#substancepainterタグ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【アドオン紹介】Adaptive Auto Skinning – スキニングを効率化！]]></title>
-        <id>https://cgbox.jp/?p=65690</id>
-        <link href="https://cgbox.jp/2026/09/20/news-addon-adaptive-auto-skinning/"/>
-        <updated>2026-09-20T05:43:40.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは！ 今回はアドオンの「Adaptive Auto Skinning」を紹介します。 こちらのリンクがアドオンの商品ページになります。 Adaptive Auto Skinning 「Adaptive Auto  […]]]></summary>
-        <author>
-            <name>kasahara</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Compositor – Photoshopの代わりを目指して開発された画像合成やレタッチに使えるMac向け無料画像編集ソフト]]></title>
-        <id>https://modelinghappy.com/?p=70611</id>
-        <link href="https://modelinghappy.com/archives/70611"/>
-        <updated>2026-09-20T05:41:43.000Z</updated>
-        <summary type="html"><![CDATA[compositer Compositorは、画像の合成やレタッチ、仕上げ作業に必要な機能を備えた、Mac向けの無料画像編集ソフトです。Photoshopに近い操作感を目指して開発されており、オープンソースとして公式サイ
-The post Compositor – Photoshopの代わりを目指して開発された画像合成やレタッチに使えるMac向け無料画像編集ソフト first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
-        <author>
-            <name>modelinghappy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[頭と胸の角度差が全フレーム0.000°──モーション計測が壊れていた話]]></title>
-        <id>https://zenn.dev/orca_forge/articles/head-chest-angle-zero-degrees</id>
-        <link href="https://zenn.dev/orca_forge/articles/head-chest-angle-zero-degrees"/>
-        <updated>2026-09-20T00:43:24.000Z</updated>
-        <summary type="html"><![CDATA[📝 この記事は forge.workstyle.tech に掲載した記事の転載です。
-
-キャラクターの頭が、体をひねるたびに一緒に振られる。頭と胸の角度差を測ると、全フレームで0.000°でした。原因に気づくまで、頭の向け方を下流で3回作り直しています。
-原因は、計測に使った鼻と耳のランドマークが、胴体の基底ベクトルから合成されていたことでした。頭と胸を別々に測ったつもりが、同じ向きを比較していたのです。
-固定カメラの実写動画からVRMアニメーションを作る連載の第2回です。今回は、計測対象、座標系、検証方法の取り違えを、実際の失敗から整理します。
-前回は、パイプライン全体と設計判断を扱...]]></summary>
-        <author>
-            <name>orca_forge</name>
         </author>
     </entry>
 </feed>

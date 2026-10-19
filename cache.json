@@ -1163,21 +1163,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "https://3dnchu.com/wp-content/uploads/N-Gone-Pro-2.0.webp"
-        },
-        {
-          "id": "https://3dnchu.com/?p=1068505",
-          "author": "Ymt3D -3dnchu-",
-          "description": "以前紹介したIHP（Implicit Heightfield Projection）がFabにて正式リリースされました！IHPは高さマップを利用し、低ポリゴンメッシュやLandscapeの表面へ追加ジオメトリを生成することなく立体的な奥行きを表現できるUnreal Engine向けマテリアルプラグイ […]\n続きを読む",
-          "link": "https://3dnchu.com/archives/implicit-heightfield-projection-ihp/",
-          "publishedOn": "2026-09-19T18:26:04.000Z",
-          "wordCount": 7689,
-          "title": "Implicit Heightfield Projection (IHP) | 高さマップから追加ジオメトリ不要で立体感を表現！POMとは異なるアプローチのUnreal Engine 5.8向けプラグインがFabでリリース！",
-          "enclosure": {
-            "url": "https://3dnchu.com/wp-content/uploads/IHP-released.webp",
-            "length": "1087770",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://3dnchu.com/wp-content/uploads/IHP-released.webp"
         }
       ]
     },
@@ -2824,6 +2809,21 @@
       "siteUrl": "https://zenn.dev/topics/3dcg",
       "articles": [
         {
+          "id": "https://zenn.dev/toprunner/articles/d30f2235e5ef8b",
+          "author": "TOPRUNNER",
+          "description": "TOP RUNNERのマスコット「サニーくん」を、立体にしてみました。\nきっかけは、最近よく見かけるキーボード型のキーホルダーです。キーを押すとカチッと鳴るあれに、サニーくんを載せたら楽しそうだなと思いました。キーの上に載せるには、まず3Dデータが要ります。\nいつもChatGPTで描いてもらっているサニーくんの絵から、Fusionで加工できる3Dデータを作れるのか。やってみた流れと、ハマったところをまとめます。\n\n 作った流れ\n\n\nChatGPTで、3D化に使う正面の絵を作る\n無料で使えるAIのデモに絵を入れて、立体にする\n横と後ろの絵も足して、作り直す\nSTLに変換して、Fusionで...",
+          "link": "https://zenn.dev/toprunner/articles/d30f2235e5ef8b",
+          "publishedOn": "2026-10-19T03:52:14.000Z",
+          "wordCount": 555,
+          "title": "オリジナルキャラ「サニーくん」を3D化してみた｜ChatGPTの絵から、無料のAIで立体データに",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--xswWXf-W--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2582%25AA%25E3%2583%25AA%25E3%2582%25B8%25E3%2583%258A%25E3%2583%25AB%25E3%2582%25AD%25E3%2583%25A3%25E3%2583%25A9%25E3%2580%258C%25E3%2582%25B5%25E3%2583%258B%25E3%2583%25BC%25E3%2581%258F%25E3%2582%2593%25E3%2580%258D%25E3%2582%25923D%25E5%258C%2596%25E3%2581%2597%25E3%2581%25A6%25E3%2581%25BF%25E3%2581%259F%25EF%25BD%259CChatGPT%25E3%2581%25AE%25E7%25B5%25B5%25E3%2581%258B%25E3%2582%2589%25E3%2580%2581%25E7%2584%25A1%25E6%2596%2599%25E3%2581%25AEAI%25E3%2581%25A7%25E7%25AB%258B%25E4%25BD%2593%25E3%2583%2587%25E3%2583%25BC%25E3%2582%25BF%25E3%2581%25AB%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:TOPRUNNER%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzMwZDVmZjM3Y2IuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+            "length": "0",
+            "type": "false"
+          },
+          "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--xswWXf-W--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2582%25AA%25E3%2583%25AA%25E3%2582%25B8%25E3%2583%258A%25E3%2583%25AB%25E3%2582%25AD%25E3%2583%25A3%25E3%2583%25A9%25E3%2580%258C%25E3%2582%25B5%25E3%2583%258B%25E3%2583%25BC%25E3%2581%258F%25E3%2582%2593%25E3%2580%258D%25E3%2582%25923D%25E5%258C%2596%25E3%2581%2597%25E3%2581%25A6%25E3%2581%25BF%25E3%2581%259F%25EF%25BD%259CChatGPT%25E3%2581%25AE%25E7%25B5%25B5%25E3%2581%258B%25E3%2582%2589%25E3%2580%2581%25E7%2584%25A1%25E6%2596%2599%25E3%2581%25AEAI%25E3%2581%25A7%25E7%25AB%258B%25E4%25BD%2593%25E3%2583%2587%25E3%2583%25BC%25E3%2582%25BF%25E3%2581%25AB%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:TOPRUNNER%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzMwZDVmZjM3Y2IuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+        },
+        {
           "id": "https://zenn.dev/s_hashida/articles/cbea31661609e3",
           "author": "s_hashida",
           "description": "はじめに\n前回は、\n\n誤差楕円とは何か\n分散と楕円の大きさの関係\n共分散と楕円の傾きの関係\n誤差楕円を表す式\n誤差楕円体とは何か\nフォトグラメトリにおける意味\n\nについて説明しました。\n\nその中で重要だったのが、\n\n\\mathbf{e}^T\n\\Sigma^{-1}\n\\mathbf{e}\n=\nc^2\n\nという関係です。\nこれは、共分散行列 \\Sigma を使って、誤差の広がりを楕円や楕円体として表す式でした。\n\nしかし、この式だけでは、\n\n誤差楕円の長軸はどちらを向くのか\n短軸はどちらを向くのか\nそれぞれの軸の長さはいくつなのか\n\nが直感的には分かりません。\nこれらを求めるために登場...",
@@ -4302,6 +4302,36 @@
       "siteUrl": "https://cginterest.com",
       "articles": [
         {
+          "id": "https://cginterest.com/?p=63806",
+          "author": ".me",
+          "description": "2026年10月13日（現地時間）- WebGL/WebGPUベースのゲームエンジン「PlayCanvas」のブラウザ版エディター「PlayCanvas Editor」が、バージョン2.34へアップデートされました。 前 […]",
+          "link": "https://cginterest.com/2026/10/19/playcanvas-editor-2-34-%e3%81%8c%e3%83%aa%e3%83%aa%e3%83%bc%e3%82%b9%ef%bc%81%e5%ae%9f%e8%a1%8c%e4%b8%ad%e3%81%ae%e3%82%a2%e3%83%97%e3%83%aa%e3%82%92%e8%aa%bf%e3%81%b9%e3%82%8b-inspector%e3%80%81/",
+          "publishedOn": "2026-10-19T08:07:26.000Z",
+          "wordCount": 514,
+          "title": "PlayCanvas Editor 2.34 がリリース！実行中のアプリを調べる Inspector、リジッドボディの Gravity Scale、Splat Budget Mode など",
+          "enclosure": {
+            "url": "https://cginterest.com/wp-content/uploads/2026/10/editor-2-34-launch-inspector.mp4",
+            "length": "229795",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://cginterest.com/wp-content/uploads/2026/10/editor-2-34-eyecatch-1.webp"
+        },
+        {
+          "id": "https://cginterest.com/?p=63201",
+          "author": ".me",
+          "description": "2026年8月28日（現地時間）- polygoniqが提供するBlender向けの樹木・植物アセットライブラリ「botaniq」が、バージョン7.3.0へとアップデートされました。 主な新機能 今回のアップデートでは、 […]",
+          "link": "https://cginterest.com/2026/10/19/botaniq-7-3-%e3%81%8c%e3%83%aa%e3%83%aa%e3%83%bc%e3%82%b9%ef%bc%81%e6%9e%9d%e3%83%bb%e8%91%89%e3%83%9e%e3%82%b9%e3%82%ad%e3%83%b3%e3%82%b0%e3%81%a7%e6%a8%b9%e6%9c%a8%e3%82%a2%e3%82%bb%e3%83%83/",
+          "publishedOn": "2026-10-19T03:08:53.000Z",
+          "wordCount": 549,
+          "title": "botaniq 7.3 がリリース！枝・葉マスキングで樹木アセットの枝や葉の量を調整可能に",
+          "enclosure": {
+            "url": "https://cginterest.com/wp-content/uploads/2026/10/bq_masking_default.mp4",
+            "length": "232953",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://cginterest.com/wp-content/uploads/2026/10/botaniq7_3.webp"
+        },
+        {
           "id": "https://cginterest.com/?p=63731",
           "author": ".me",
           "description": "2026年10月16日（現地時間）- テキストや画像から3Dモデルを生成できるAIサービス「Meshy」は、生成した3Dモデルの一部を選択し、テキストの指示で部分的に作り直せる新機能「Meshy Edit」の提供を開始し […]",
@@ -5000,21 +5030,6 @@
           "wordCount": 2923,
           "title": "Blender用無料アドオン「Cascadeur Bridge」がv1.2.0に！GLB対応・Auto-Rig Pro連携・リモートアセットライブラリが追加",
           "imageUrl": "https://cginterest.com/wp-content/uploads/2026/09/Cascadeur-bridge.webp"
-        },
-        {
-          "id": "https://cginterest.com/?p=62650",
-          "author": ".me",
-          "description": "Canva傘下のクリエイティブソフト「Affinity」に大規模アップデートが実施されました。長年要望の多かった「ブレンドツール」や「アプリ内スクリプト機能」をはじめ、RAW現像パイプラインの刷新、3Dモデル（GLB）の配置、Canva AIによる制作支援など、60項目を超える新機能や改善の詳細をまとめました。",
-          "link": "https://cginterest.com/2026/09/19/affinity-update-blend-tool-scripting-2026/",
-          "publishedOn": "2026-09-19T11:57:26.000Z",
-          "wordCount": 3221,
-          "title": "Affinityに大規模アップデート！「ブレンドツール」やアプリ内スクリプト、3Dモデルサポートなどなど60以上の新機能・改善が追加",
-          "enclosure": {
-            "url": "https://cginterest.com/wp-content/uploads/2026/09/Afinity2026-9-Borntransform1.mp4",
-            "length": "442033",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://cginterest.com/wp-content/uploads/2026/09/affinity2026-9.webp"
         }
       ]
     }

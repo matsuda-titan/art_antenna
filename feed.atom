@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-10-19T02:20:13.598Z</updated>
+    <updated>2026-10-19T08:15:05.230Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[PlayCanvas Editor 2.34 がリリース！実行中のアプリを調べる Inspector、リジッドボディの Gravity Scale、Splat Budget Mode など]]></title>
+        <id>https://cginterest.com/?p=63806</id>
+        <link href="https://cginterest.com/2026/10/19/playcanvas-editor-2-34-%e3%81%8c%e3%83%aa%e3%83%aa%e3%83%bc%e3%82%b9%ef%bc%81%e5%ae%9f%e8%a1%8c%e4%b8%ad%e3%81%ae%e3%82%a2%e3%83%97%e3%83%aa%e3%82%92%e8%aa%bf%e3%81%b9%e3%82%8b-inspector%e3%80%81/"/>
+        <updated>2026-10-19T08:07:26.000Z</updated>
+        <summary type="html"><![CDATA[2026年10月13日（現地時間）- WebGL/WebGPUベースのゲームエンジン「PlayCanvas」のブラウザ版エディター「PlayCanvas Editor」が、バージョン2.34へアップデートされました。 前 […]]]></summary>
+        <author>
+            <name>.me</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[オリジナルキャラ「サニーくん」を3D化してみた｜ChatGPTの絵から、無料のAIで立体データに]]></title>
+        <id>https://zenn.dev/toprunner/articles/d30f2235e5ef8b</id>
+        <link href="https://zenn.dev/toprunner/articles/d30f2235e5ef8b"/>
+        <updated>2026-10-19T03:52:14.000Z</updated>
+        <summary type="html"><![CDATA[TOP RUNNERのマスコット「サニーくん」を、立体にしてみました。
+きっかけは、最近よく見かけるキーボード型のキーホルダーです。キーを押すとカチッと鳴るあれに、サニーくんを載せたら楽しそうだなと思いました。キーの上に載せるには、まず3Dデータが要ります。
+いつもChatGPTで描いてもらっているサニーくんの絵から、Fusionで加工できる3Dデータを作れるのか。やってみた流れと、ハマったところをまとめます。
+
+ 作った流れ
+
+
+ChatGPTで、3D化に使う正面の絵を作る
+無料で使えるAIのデモに絵を入れて、立体にする
+横と後ろの絵も足して、作り直す
+STLに変換して、Fusionで...]]></summary>
+        <author>
+            <name>TOPRUNNER</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[botaniq 7.3 がリリース！枝・葉マスキングで樹木アセットの枝や葉の量を調整可能に]]></title>
+        <id>https://cginterest.com/?p=63201</id>
+        <link href="https://cginterest.com/2026/10/19/botaniq-7-3-%e3%81%8c%e3%83%aa%e3%83%aa%e3%83%bc%e3%82%b9%ef%bc%81%e6%9e%9d%e3%83%bb%e8%91%89%e3%83%9e%e3%82%b9%e3%82%ad%e3%83%b3%e3%82%b0%e3%81%a7%e6%a8%b9%e6%9c%a8%e3%82%a2%e3%82%bb%e3%83%83/"/>
+        <updated>2026-10-19T03:08:53.000Z</updated>
+        <summary type="html"><![CDATA[2026年8月28日（現地時間）- polygoniqが提供するBlender向けの樹木・植物アセットライブラリ「botaniq」が、バージョン7.3.0へとアップデートされました。 主な新機能 今回のアップデートでは、 […]]]></summary>
+        <author>
+            <name>.me</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【アドオン紹介】Physics Painter – 物理演算を使って小物や瓦礫を自然に配置できるアドオン！]]></title>
         <id>https://cgbox.jp/?p=65851</id>
@@ -4849,27 +4889,6 @@ The post Compositor – Photoshopの代わりを目指して開発された画�
 前回は、パイプライン全体と設計判断を扱...]]></summary>
         <author>
             <name>orca_forge</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Implicit Heightfield Projection (IHP) | 高さマップから追加ジオメトリ不要で立体感を表現！POMとは異なるアプローチのUnreal Engine 5.8向けプラグインがFabでリリース！]]></title>
-        <id>https://3dnchu.com/?p=1068505</id>
-        <link href="https://3dnchu.com/archives/implicit-heightfield-projection-ihp/"/>
-        <updated>2026-09-19T18:26:04.000Z</updated>
-        <summary type="html"><![CDATA[以前紹介したIHP（Implicit Heightfield Projection）がFabにて正式リリースされました！IHPは高さマップを利用し、低ポリゴンメッシュやLandscapeの表面へ追加ジオメトリを生成することなく立体的な奥行きを表現できるUnreal Engine向けマテリアルプラグイ […]
-続きを読む]]></summary>
-        <author>
-            <name>Ymt3D -3dnchu-</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Affinityに大規模アップデート！「ブレンドツール」やアプリ内スクリプト、3Dモデルサポートなどなど60以上の新機能・改善が追加]]></title>
-        <id>https://cginterest.com/?p=62650</id>
-        <link href="https://cginterest.com/2026/09/19/affinity-update-blend-tool-scripting-2026/"/>
-        <updated>2026-09-19T11:57:26.000Z</updated>
-        <summary type="html"><![CDATA[Canva傘下のクリエイティブソフト「Affinity」に大規模アップデートが実施されました。長年要望の多かった「ブレンドツール」や「アプリ内スクリプト機能」をはじめ、RAW現像パイプラインの刷新、3Dモデル（GLB）の配置、Canva AIによる制作支援など、60項目を超える新機能や改善の詳細をまとめました。]]></summary>
-        <author>
-            <name>.me</name>
         </author>
     </entry>
 </feed>

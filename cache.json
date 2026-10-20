@@ -1133,21 +1133,6 @@
             "type": "video/mp4"
           },
           "imageUrl": "https://3dnchu.com/wp-content/uploads/Compositor-1.webp"
-        },
-        {
-          "id": "https://3dnchu.com/?p=1068516",
-          "author": "Ymt3D -3dnchu-",
-          "description": "Take Refuge 3DによるBlenderアドオン「N-Gone Pro」の大型アップデートとなる「N-Gone Pro 2.0」が公開されました。N-Gone Proは、Plasticityなどで作成したCADモデルやBooleanベースのメッシュをBlender上で最適化し、Low/Hig […]\n続きを読む",
-          "link": "https://3dnchu.com/archives/n-gone-pro-2-0/",
-          "publishedOn": "2026-09-20T12:46:02.000Z",
-          "wordCount": 7650,
-          "title": "N-Gone Pro 2.0 | CADやBooleanメッシュの最適化からUV・ベイク準備まで効率化するBlenderアドオンが大型アップデート！完全非破壊ワークフローへ刷新！",
-          "enclosure": {
-            "url": "https://3dnchu.com/wp-content/uploads/N-Gone-Pro-2.0.webp",
-            "length": "1267004",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://3dnchu.com/wp-content/uploads/N-Gone-Pro-2.0.webp"
         }
       ]
     },
@@ -1156,6 +1141,36 @@
       "feedUrl": "https://cgworld.jp/atom.xml",
       "siteUrl": "https://cgworld.jp/",
       "articles": [
+        {
+          "id": "https://cgworld.jp/article/202610-sig-avatar3.html",
+          "author": null,
+          "description": "SIGGRAPH 2026から、プロダクション・セッション「Wētā FXが贈る　映画『アバター:ファイヤー・アンド・アッシュ』VFX制作事例」の内容をレポート。",
+          "link": "https://cgworld.jp/article/202610-sig-avatar3.html",
+          "publishedOn": "2026-10-20T01:09:00.000Z",
+          "wordCount": 868,
+          "title": "演技から炎まで、リアリティを追求。Wētā FXが明かす『アバター：ファイヤー・アンド・アッシュ』のVFX制作〜SIGGRAPH 2026（7） - 特集",
+          "imageUrl": "https://cgworld.jp/article/assets_c/2026/10/3248B_0010_v0800.le.1131-thumb-1000x527-89550.jpg"
+        },
+        {
+          "id": "https://cgworld.jp/flashnews/01-202610-Houdini-MagicFX.html",
+          "author": null,
+          "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
+          "link": "https://cgworld.jp/flashnews/01-202610-Houdini-MagicFX.html",
+          "publishedOn": "2026-10-19T23:28:41.000Z",
+          "wordCount": 879,
+          "title": "SideFX、奥野莉奈氏によるHoudini講演「Magic FX: Beyond the Preset」動画公開　Equinox 2026イベントより - ニュース",
+          "imageUrl": "https://cgworld.jp/flashnews/assets_c/2026/10/Houdini_MagicFX-01-thumb-1920x1080-90125.jpg"
+        },
+        {
+          "id": "https://cgworld.jp/article/202610-cgw337-prospi.html",
+          "author": null,
+          "description": "『プロ野球スピリッツ2026』のゲームCGメイキングを紹介。",
+          "link": "https://cgworld.jp/article/202610-cgw337-prospi.html",
+          "publishedOn": "2026-10-19T07:22:35.000Z",
+          "wordCount": 971,
+          "title": "野球専用エンジンが実現する、現実の野球に迫る画づくり『プロ野球スピリッツ2026』 - 特集",
+          "imageUrl": "https://cgworld.jp/article/assets_c/2026/09/8b9ffaad623e7b78ba672fc4222c3fe90662439f-thumb-1000x563-89178.jpg"
+        },
         {
           "id": "https://cgworld.jp/flashnews/01-202610-3dsMax-SculptMesh.html",
           "author": null,
@@ -4205,16 +4220,6 @@
           "wordCount": 2499,
           "title": "「手で描いたほうが早い」と言われた日",
           "imageUrl": "https://assets.st-note.com/production/uploads/images/316901465/rectangle_large_type_2_c14366afdd2b46d7448c49a619bc28a7.png?width=800"
-        },
-        {
-          "id": "https://note.com/gentle_hawk24/n/n27a1081bcc0a",
-          "author": null,
-          "description": "TripoのSmart UVとBlender＋Astraで、古い鬼マスクを軽量化してPBRテクスチャを転写してみた\n\n昔ZBrushで作った鬼のマスクが出てきた。\nポリゴン数は約18万。\n「これ、今のAIツールなら軽くして再利用できるんじゃない？」\nそんな軽い気持ちで始めたら、気付けばTripo、Substance Painter、Blender、Astraを総動員することになった。\nまた始まった、AI奮闘記である。\n\n\n続きをみる",
-          "link": "https://note.com/gentle_hawk24/n/n27a1081bcc0a",
-          "publishedOn": "2026-09-20T10:09:57.000Z",
-          "wordCount": 2892,
-          "title": "18万ポリの鬼を6000ポリにしたら、昔のSubstance Painter塗装まで復活した話",
-          "imageUrl": "https://assets.st-note.com/production/uploads/images/315610268/rectangle_large_type_2_07db55cb36c5ee02dd73db0a78646cf3.png?width=800"
         }
       ]
     },

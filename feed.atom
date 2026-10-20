@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-10-19T17:56:10.891Z</updated>
+    <updated>2026-10-20T02:33:47.406Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[演技から炎まで、リアリティを追求。Wētā FXが明かす『アバター：ファイヤー・アンド・アッシュ』のVFX制作〜SIGGRAPH 2026（7） - 特集]]></title>
+        <id>https://cgworld.jp/article/202610-sig-avatar3.html</id>
+        <link href="https://cgworld.jp/article/202610-sig-avatar3.html"/>
+        <updated>2026-10-20T01:09:00.000Z</updated>
+        <summary type="html"><![CDATA[SIGGRAPH 2026から、プロダクション・セッション「Wētā FXが贈る　映画『アバター:ファイヤー・アンド・アッシュ』VFX制作事例」の内容をレポート。]]></summary>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SideFX、奥野莉奈氏によるHoudini講演「Magic FX: Beyond the Preset」動画公開　Equinox 2026イベントより - ニュース]]></title>
+        <id>https://cgworld.jp/flashnews/01-202610-Houdini-MagicFX.html</id>
+        <link href="https://cgworld.jp/flashnews/01-202610-Houdini-MagicFX.html"/>
+        <updated>2026-10-19T23:28:41.000Z</updated>
+        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[脚を1%縮めたら膝が16°曲がった ── VRMの接地補正で踏んだ罠]]></title>
         <id>https://zenn.dev/orca_forge/articles/one-percent-shorter-leg-16-degree-knee</id>
@@ -60,6 +80,16 @@ The post Supa Painter ー 写真やPBRテクスチャ、レンダリング画像
         <summary type="html"><![CDATA[2026年10月13日（現地時間）- WebGL/WebGPUベースのゲームエンジン「PlayCanvas」のブラウザ版エディター「PlayCanvas Editor」が、バージョン2.34へアップデートされました。 前 […]]]></summary>
         <author>
             <name>.me</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[野球専用エンジンが実現する、現実の野球に迫る画づくり『プロ野球スピリッツ2026』 - 特集]]></title>
+        <id>https://cgworld.jp/article/202610-cgw337-prospi.html</id>
+        <link href="https://cgworld.jp/article/202610-cgw337-prospi.html"/>
+        <updated>2026-10-19T07:22:35.000Z</updated>
+        <summary type="html"><![CDATA[『プロ野球スピリッツ2026』のゲームCGメイキングを紹介。]]></summary>
+        <author>
+            <name>CGWORLD</name>
         </author>
     </entry>
     <entry>
@@ -4869,36 +4899,6 @@ Textured 3D Modelは3次元表面に外観を与えたもの
 続きを読む]]></summary>
         <author>
             <name>Ymt3D -3dnchu-</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[N-Gone Pro 2.0 | CADやBooleanメッシュの最適化からUV・ベイク準備まで効率化するBlenderアドオンが大型アップデート！完全非破壊ワークフローへ刷新！]]></title>
-        <id>https://3dnchu.com/?p=1068516</id>
-        <link href="https://3dnchu.com/archives/n-gone-pro-2-0/"/>
-        <updated>2026-09-20T12:46:02.000Z</updated>
-        <summary type="html"><![CDATA[Take Refuge 3DによるBlenderアドオン「N-Gone Pro」の大型アップデートとなる「N-Gone Pro 2.0」が公開されました。N-Gone Proは、Plasticityなどで作成したCADモデルやBooleanベースのメッシュをBlender上で最適化し、Low/Hig […]
-続きを読む]]></summary>
-        <author>
-            <name>Ymt3D -3dnchu-</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[18万ポリの鬼を6000ポリにしたら、昔のSubstance Painter塗装まで復活した話]]></title>
-        <id>https://note.com/gentle_hawk24/n/n27a1081bcc0a</id>
-        <link href="https://note.com/gentle_hawk24/n/n27a1081bcc0a"/>
-        <updated>2026-09-20T10:09:57.000Z</updated>
-        <summary type="html"><![CDATA[TripoのSmart UVとBlender＋Astraで、古い鬼マスクを軽量化してPBRテクスチャを転写してみた
-
-昔ZBrushで作った鬼のマスクが出てきた。
-ポリゴン数は約18万。
-「これ、今のAIツールなら軽くして再利用できるんじゃない？」
-そんな軽い気持ちで始めたら、気付けばTripo、Substance Painter、Blender、Astraを総動員することになった。
-また始まった、AI奮闘記である。
-
-
-続きをみる]]></summary>
-        <author>
-            <name>#substancepainterタグ</name>
         </author>
     </entry>
 </feed>

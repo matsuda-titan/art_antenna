@@ -2,10 +2,139 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-10-20T16:00:15.913Z</updated>
+    <updated>2026-10-21T02:28:05.928Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【50%オフ】Topaz Studio と Topaz Photo が期間限定セール！最初の3か月または初年度が半額に（11月16日まで）]]></title>
+        <id>https://cginterest.com/?p=63976</id>
+        <link href="https://cginterest.com/2026/10/21/%e3%80%9050%e3%82%aa%e3%83%95%e3%80%91topaz-studio-%e3%81%a8-topaz-photo-%e3%81%8c%e6%9c%9f%e9%96%93%e9%99%90%e5%ae%9a%e3%82%bb%e3%83%bc%e3%83%ab%ef%bc%81%e6%9c%80%e5%88%9d%e3%81%ae3%e3%81%8b%e6%9c%88/"/>
+        <updated>2026-10-21T02:13:16.000Z</updated>
+        <summary type="html"><![CDATA[2026年10月19日（現地時間）- 画像・動画の高画質化AIを手がけるTopaz Labsは、すべてのアプリが使えるサブスクリプション「Topaz Studio」と、画像の高画質化アプリ「Topaz Photo」を50 […]]]></summary>
+        <author>
+            <name>.me</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【アドオン紹介】PocketCam – スマホをBlenderの仮想カメラとして使えるBlenderアドオン！]]></title>
+        <id>https://cgbox.jp/?p=65856</id>
+        <link href="https://cgbox.jp/2026/10/21/news-addon-pocketcam/"/>
+        <updated>2026-10-21T01:53:39.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは！ 今回はアドオンの「PocketCam」を紹介します。 こちらのリンクがアドオンの商品ページになります。 PocketCam 「PocketCam」は、iPhoneやAndroidスマートフォンをBlende […]]]></summary>
+        <author>
+            <name>kasahara</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[VAST、リアルタイム生成レンダラー「EdenLive」をオープンソースで公開！グレーボックスや実写を720p・24 FPS以上の映像に描き直す]]></title>
+        <id>https://cginterest.com/?p=63881</id>
+        <link href="https://cginterest.com/2026/10/21/vast%e3%80%81%e3%83%aa%e3%82%a2%e3%83%ab%e3%82%bf%e3%82%a4%e3%83%a0%e7%94%9f%e6%88%90%e3%83%ac%e3%83%b3%e3%83%80%e3%83%a9%e3%83%bc%e3%80%8cedenlive%e3%80%8d%e3%82%92%e3%82%aa%e3%83%bc%e3%83%97/"/>
+        <updated>2026-10-21T00:39:53.000Z</updated>
+        <summary type="html"><![CDATA[2026年10月19日（現地時間）- 3D生成AI「Tripo」を手がけるVASTの研究チームは、ゲームの画面や実写の動画などをリアルタイムに高精細な映像へ描き直す、オープンソースの生成レンダラー「EdenLive」を公 […]]]></summary>
+        <author>
+            <name>.me</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[D9speed氏、Substance 3D PainterのレイヤーをPSD形式で書き出しする無料プラグインを公開　レイヤー構造やマスクも保持 - ニュース]]></title>
+        <id>https://cgworld.jp/flashnews/01-202610-SPLayerExp.html</id>
+        <link href="https://cgworld.jp/flashnews/01-202610-SPLayerExp.html"/>
+        <updated>2026-10-20T23:03:51.000Z</updated>
+        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[フォトグラメトリ数学｜63：誤差楕円・誤差楕円体と確率とは何か～90%・95%の包含確率を求める～]]></title>
+        <id>https://zenn.dev/s_hashida/articles/b3cfcee372c2dd</id>
+        <link href="https://zenn.dev/s_hashida/articles/b3cfcee372c2dd"/>
+        <updated>2026-10-20T21:55:05.000Z</updated>
+        <summary type="html"><![CDATA[はじめに
+前回は、
+
+固有ベクトルとは何か
+固有値とは何か
+行列と方向の関係
+共分散行列の固有値・固有ベクトル
+誤差楕円の長軸・短軸の求め方
+固有値分解
+3次元の誤差楕円体への拡張
+フォトグラメトリにおける意味
+
+について説明しました。
+
+その中で重要だったのが、
+
+\Sigma=Q\Lambda Q^T
+
+という固有値分解と、
+
+a_i=c\sqrt{\lambda_i}
+
+という関係です。
+これは、
+共分散行列の固有ベクトルから誤差楕円・誤差楕円体の方向を求め、固有値から各半軸の長さを求められる
+ことを表しています。
+
+しかし、ここで新たな疑問があります。
+誤差楕円・誤差楕円体...]]></summary>
+        <author>
+            <name>s_hashida</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Substance Painter使いこなし術～プロジェクション編～]]></title>
+        <id>https://note.com/d9speed/n/nce288fdb10e5</id>
+        <link href="https://note.com/d9speed/n/nce288fdb10e5"/>
+        <updated>2026-10-20T17:53:45.000Z</updated>
+        <summary type="html"><![CDATA[Substance Painterのレイヤーマスクにテキストを置く
+続きをみる]]></summary>
+        <author>
+            <name>#substancepainterタグ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[タイトル：Audio Studio MCP | 自然言語でBGMや効果音の生成から編集まで頼める無料のローカルAIサウンド制作ツール！Windows＆Mac]]></title>
+        <id>https://3dnchu.com/?p=1069211</id>
+        <link href="https://3dnchu.com/archives/audio-studio-mcp/"/>
+        <updated>2026-10-20T17:07:59.000Z</updated>
+        <summary type="html"><![CDATA[KANA（@KanaWorks_AI）氏がStable Audio 3を活用した「Audio Studio MCP」を公開！Claude CodeなどからBGMや効果音をローカル生成し、部分修正やループ化、ラウドネス調整まで行えるオープンソースツールです。]]></summary>
+        <author>
+            <name>Ymt3D -3dnchu-</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DreamPrinting | 3DGSや雲の色と半透明感を実物に再現するボリューメトリック3Dプリント技術！Crysta AIでは出力サービスも展開中！]]></title>
+        <id>https://3dnchu.com/?p=1069197</id>
+        <link href="https://3dnchu.com/archives/dreamprinting/"/>
+        <updated>2026-10-20T16:48:02.000Z</updated>
+        <summary type="html"><![CDATA[ShanghaiTech Universityや京都大学などの研究者らによる、ボリューム表現を高精細な3Dプリントへ変換する技術論文「DreamPrinting: Volumetric Printing Primitives for High-Fidelity 3D Printing」を紹介します。]]></summary>
+        <author>
+            <name>Ymt3D -3dnchu-</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mesh Avatar Studio | 1枚のイラストから動く2Dメッシュアバターを作成！AIエージェントとローカルエディタを活用するオープンソースツール！]]></title>
+        <id>https://3dnchu.com/?p=1069190</id>
+        <link href="https://3dnchu.com/archives/mesh-avatar-studio/"/>
+        <updated>2026-10-20T16:14:15.000Z</updated>
+        <summary type="html"><![CDATA[shinshin86氏（@shinshin86）による、1枚のイラストから動く2Dメッシュアバターを作成するオープンソースツール「Mesh Avatar Studio」を紹介！まばたきや口パク、首振り、髪の揺れに対応し、配信やWebアプリへの組み込みにも活用できます。]]></summary>
+        <author>
+            <name>Ymt3D -3dnchu-</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SkyPaint 1.0 | 太陽ライトの回転で昼夜が変化するスタイライズドな空をプロシージャル生成できるBlenderアドオン！CyclesとEEVEEに両対応！]]></title>
+        <id>https://3dnchu.com/?p=1069178</id>
+        <link href="https://3dnchu.com/archives/skypaint-1-0/"/>
+        <updated>2026-10-20T16:00:42.000Z</updated>
+        <summary type="html"><![CDATA[Casey_Sheep氏による、スタイライズドな空をプロシージャル生成できるBlenderアドオン「SkyPaint 1.0」が公開されています。]]></summary>
+        <author>
+            <name>Ymt3D -3dnchu-</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[おてもとXR | 実写の手や腕をVRMアバターにリアルタイムで置き換えるアプリ！iPhone＆iPad]]></title>
         <id>https://3dnchu.com/?p=1069128</id>
@@ -5017,40 +5146,6 @@ GSD
         <link href="https://cgworld.jp/flashnews/01-202609-Substance-OpenPBR.html"/>
         <updated>2026-09-21T23:39:08.000Z</updated>
         <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FrameThrower – 映画のワンシーンをムード・色・構図から検索してルックブックを作成できるリファレンスサービス]]></title>
-        <id>https://modelinghappy.com/?p=70622</id>
-        <link href="https://modelinghappy.com/archives/70622"/>
-        <updated>2026-09-21T13:09:58.000Z</updated>
-        <summary type="html"><![CDATA[FrameThrower FrameThrowerは、映画のさまざまなシーンを検索して、映像制作やCG制作の参考資料として活用できるオンラインサービスです。 5,489作品、約41万枚の映画フレームが登録されており、それ
-The post FrameThrower – 映画のワンシーンをムード・色・構図から検索してルックブックを作成できるリファレンスサービス first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
-        <author>
-            <name>modelinghappy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【Minecraft】第1回リソースパック（バニラ）シェーダー解説：JSON・VSH・FSHの役割とデータの流れ（全体像）]]></title>
-        <id>https://qiita.com/sakuyan_ppr/items/c9ac6b166ba14238afeb</id>
-        <link href="https://qiita.com/sakuyan_ppr/items/c9ac6b166ba14238afeb"/>
-        <updated>2026-09-21T11:43:21.000Z</updated>
-        <summary type="html"><![CDATA[26.3時点での注意
-Minecraftのシェーダー機能は現在も変更される可能性があります。
-26.3ではShaderCによるシェーダーコンパイルや#includeの仕様などにも変更が入っているため、
-古いバージョン向けの記事やサンプルコードとは記述が異なる場合があり...]]></summary>
-        <author>
-            <name>GLSLタグが付けられた新着記事 - Qiita</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CGWORLD vol.339（2026年11月号）「ゲームグラフィックス 2026」特集号を先行告知！ - ニュース]]></title>
-        <id>https://cgworld.jp/flashnews/cgw339-pr.html</id>
-        <link href="https://cgworld.jp/flashnews/cgw339-pr.html"/>
-        <updated>2026-09-21T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[【10/9発売】CGWORLD vol.339（2026年11月号）特集「ゲームグラフィックス 2026」。AAAタイトルから海外インディーゲームまで、全88ページ大特集！]]></summary>
         <author>
             <name>CGWORLD</name>
         </author>

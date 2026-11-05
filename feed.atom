@@ -2,10 +2,116 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-11-05T04:09:47.222Z</updated>
+    <updated>2026-11-05T15:55:26.419Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Blender のリトポ支援アドオンを作った話：ハイポリに吸着させる移動の「遅れ」と「待ち」]]></title>
+        <id>https://zenn.dev/jir0/articles/667d8c85c932c6</id>
+        <link href="https://zenn.dev/jir0/articles/667d8c85c932c6"/>
+        <updated>2026-11-05T12:25:23.000Z</updated>
+        <summary type="html"><![CDATA[Blender で手作業のリトポロジー（ハイポリの形に沿ってローポリのメッシュを描き直す作業）を助けるアドオンを、自分のキャラクターモデルのリトポに使うために作りました。
+この記事では、作っている途中でぶつかった問題のうち、「頂点をハイポリの表面に吸着させたまま動かす」ところで起きた2つを書きます。
+
+G で動かすと、頂点がマウスから遅れてついてくる
+G を押してから動かせるまで、数秒待たされる
+
+どちらも Blender の Python API（mathutils.bvhtree）で表面を検索する作りに共通する話なので、表面に吸着させるアドオンを書く人の参考になればと思います。
+
+
+...]]></summary>
+        <author>
+            <name>じろう</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenAI、画像生成の新バージョン「GPT-Images 2.6」を発表！生成が50%高速に、アニメーションGIFとSVGの書き出しに対応]]></title>
+        <id>https://cginterest.com/?p=66156</id>
+        <link href="https://cginterest.com/2026/11/05/gpt-image-2-6/"/>
+        <updated>2026-11-05T11:38:06.000Z</updated>
+        <summary type="html"><![CDATA[2026年11月4日（現地時間）- OpenAIは、ChatGPT・Codex・API で使える画像生成モデルの新しいバージョン「Images 2.6」を発表しました。 Images 2.6 とは Images 2.6  […]]]></summary>
+        <author>
+            <name>.me</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CG Painter Alpha 0.4 | レイヤーやプロシージャルマスク＆ベイク＆Blender連携に対応した無料の3Dテクスチャペイントソフト！Win＆Linux]]></title>
+        <id>https://3dnchu.com/?p=1069420</id>
+        <link href="https://3dnchu.com/archives/cg-painter-alpha-0-4/"/>
+        <updated>2026-11-05T10:45:11.000Z</updated>
+        <summary type="html"><![CDATA[CGstuff氏が開発する、無料の3Dテクスチャペイントソフト「CG Painter Alpha 0.4」が公開されています。]]></summary>
+        <author>
+            <name>Ymt3D -3dnchu-</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2026年11月の NVIDIA Studio Driver アップデートがリリース！]]></title>
+        <id>https://cginterest.com/?p=66119</id>
+        <link href="https://cginterest.com/2026/11/05/nvidia-studio-driver-2026-11/"/>
+        <updated>2026-11-05T10:34:54.000Z</updated>
+        <summary type="html"><![CDATA[2026年11月4日（現地時間）- NVIDIAは、クリエイターや3D開発者向けのグラフィックスドライバー「NVIDIA Studio Driver」の11月版（バージョン 621.14）をリリースしました。 NVIDI […]]]></summary>
+        <author>
+            <name>.me</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【Unreal Engine対応】破綻を抑え、ねらいどおりに揺らす物理演算プラグイン「Silicon Studio Bone Dynamics」 - スペシャルコンテンツ]]></title>
+        <id>https://cgworld.jp/special-feature/202611-siliconstudio-bonedynamics.html</id>
+        <link href="https://cgworld.jp/special-feature/202611-siliconstudio-bonedynamics.html"/>
+        <updated>2026-11-05T07:41:02.000Z</updated>
+        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sketchfabマンスリーピックアップ 2026年11月号]]></title>
+        <id>https://cginterest.com/?p=66109</id>
+        <link href="https://cginterest.com/2026/11/05/sketchfab-monthly-pickup-2026-11/"/>
+        <updated>2026-11-05T05:31:29.000Z</updated>
+        <summary type="html"><![CDATA[10月を中心にSketchfabに投稿されたモデルを勝手にピックアップ（2026年11月5日調べ）するコーナーです。人気のある3Dモデルを中心に独断と偏見で選んでおります！ 「ピックアップ」のほかに、無料でダウンロードで […]]]></summary>
+        <author>
+            <name>.me</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Python製トランスパイラーtranpでマテリアル関数を作る #4]]></title>
+        <id>https://zenn.dev/rog_works/articles/b98268e6dc3432</id>
+        <link href="https://zenn.dev/rog_works/articles/b98268e6dc3432"/>
+        <updated>2026-11-05T04:46:04.000Z</updated>
+        <summary type="html"><![CDATA[概要
+tranp紹介記事、第5弾です
+前回に引き続き、Unreal Engine(以降UE)のマテリアル関数の作成を題材に解説していきます
+今回は、いよいよマテリアル関数(uasset)を作る部分の解説をしていきます！
+
+ 初読者に対して
+tranpはPython製のトランスパイラーです。この記事では、tranpを用いてPythonのソースコードからUnreal Engineのマテリアル関数を実現する方法を解説しています
+前回までの記事を前提にしているので、不明な点があればご一読お願いします
+
+ リンク
+
+前々回: Python製トランスパイラー(tranp)でマテリアル関数(UE5...]]></summary>
+        <author>
+            <name>rog-works</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Python製トランスパイラーtranpでマテリアル関数を作る #4]]></title>
+        <id>https://qiita.com/rog-works/items/618a0aa440c8a4033bfb</id>
+        <link href="https://qiita.com/rog-works/items/618a0aa440c8a4033bfb"/>
+        <updated>2026-11-05T04:42:06.000Z</updated>
+        <summary type="html"><![CDATA[概要
+tranp紹介記事、第5弾です
+前回に引き続き、Unreal Engine(以降UE)のマテリアル関数の作成を題材に解説していきます
+今回は、いよいよマテリアル関数(uasset)を作る部分の解説をしていきます！
+
+初読者に対して
+tranpはPython製のトラン...]]></summary>
+        <author>
+            <name>Shaderタグが付けられた新着記事 - Qiita</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[INKit 1.0 | iPadやAndroidタブレットからBlenderの3Dビューに注釈などを直接描き込める！MACHIN3によるアノテーション用アドオンが登場！]]></title>
         <id>https://3dnchu.com/?p=1069419</id>
@@ -3915,49 +4021,6 @@ Xにて「実際どのくらいUVを跨げるのか？」「World-space 3D Blur 
 続きをみる]]></summary>
         <author>
             <name>DF TALK</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【アドオン紹介】N-Panel Master – 増えすぎたNパネルのタブを整理できるBlenderアドオン！]]></title>
-        <id>https://cgbox.jp/?p=65788</id>
-        <link href="https://cgbox.jp/2026/10/07/news-addon-n-panel-master/"/>
-        <updated>2026-10-07T02:26:53.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは！ 今回はアドオンの「N-Panel Master」を紹介します。 こちらのリンクがアドオンの商品ページになります。 N-Panel Master 「N-Panel Master」は、BlenderのNパネルに […]]]></summary>
-        <author>
-            <name>kasahara</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【全3回・第3回】『攻殻機動隊 THE GHOST IN THE SHELL』フチコマの可愛さはどうつくる？ Blenderで生命を吹き込む造形とリグ - 特集]]></title>
-        <id>https://cgworld.jp/article/202610-koukaku-3.html</id>
-        <link href="https://cgworld.jp/article/202610-koukaku-3.html"/>
-        <updated>2026-10-07T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[関連記事 ・【全3回・第1回】『攻殻機動隊 THE GHOST IN THE ...]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Epic Games、UE5.8のマーカーレスモーションキャプチャの実演動画を公開　動画ファイルからMetaHuman用の全身アニメーションを生成するワークフロー - ニュース]]></title>
-        <id>https://cgworld.jp/flashnews/01-202610-MetaHuman-MoCap.html</id>
-        <link href="https://cgworld.jp/flashnews/01-202610-MetaHuman-MoCap.html"/>
-        <updated>2026-10-06T23:18:40.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ﾎﾟﾝ置き_20261007]]></title>
-        <id>https://note.com/not_itoyori/n/n1ea477686f25</id>
-        <link href="https://note.com/not_itoyori/n/n1ea477686f25"/>
-        <updated>2026-10-06T18:15:29.000Z</updated>
-        <summary type="html"><![CDATA[テクスチャ中間発表。
-ほぼほぼこの路線で行く予定です。
-アルファを活用したNormal作りがわかってきた。
-続きをみる]]></summary>
-        <author>
-            <name>#substancepainterタグ</name>
         </author>
     </entry>
 </feed>

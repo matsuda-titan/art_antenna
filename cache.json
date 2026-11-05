@@ -395,6 +395,21 @@
       "siteUrl": "https://3dnchu.com",
       "articles": [
         {
+          "id": "https://3dnchu.com/?p=1069419",
+          "author": "Ymt3D -3dnchu-",
+          "description": "MACHIN3氏による、iPadやAndroidタブレットからBlenderの3Dビューに注釈やペイントを追加できるアドオン「INKit 1.0」が公開されました。",
+          "link": "https://3dnchu.com/archives/inkit-1-0/",
+          "publishedOn": "2026-11-05T02:08:13.000Z",
+          "wordCount": 7720,
+          "title": "INKit 1.0 | iPadやAndroidタブレットからBlenderの3Dビューに注釈などを直接描き込める！MACHIN3によるアノテーション用アドオンが登場！",
+          "enclosure": {
+            "url": "https://3dnchu.com/wp-content/uploads/INKit-1.0.webp",
+            "length": "789650",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://3dnchu.com/wp-content/uploads/INKit-1.0.webp"
+        },
+        {
           "id": "https://3dnchu.com/?p=1069326",
           "author": "Ymt3D -3dnchu-",
           "description": "北京大学のChenxiao Hu氏らによる研究チームが、3D Gaussian Splatting（3DGS）とポリゴンメッシュが混在するシーンで、動的なグローバルイルミネーション（GI）をリアルタイムに描画する技術「Dynamic Global Illumination for Interactive Gaussian Splatting Scenes in Real Time」を発表しました。ライトやマテリアル、オブジェクトを編集しながら、間接光や反射をリアルタイムに反映できます。論文とソースコードが公開されています。",
@@ -716,6 +731,46 @@
       "feedUrl": "https://cgworld.jp/atom.xml",
       "siteUrl": "https://cgworld.jp/",
       "articles": [
+        {
+          "id": "https://cgworld.jp/regular/125-takeda.html",
+          "author": null,
+          "description": "Groom Artistとして活躍中の武田瑛璃氏による、海外就業ストーリー。",
+          "link": "https://cgworld.jp/regular/125-takeda.html",
+          "publishedOn": "2026-11-05T01:30:00.000Z",
+          "wordCount": 803,
+          "title": "「夢を夢で終わらせないために、戦略的に行動しました」エンジニアからHair / Furの専門家Groom Artistへ転身！ 第125回：武田瑛璃（Groom Artist / Image Engine） - 連載",
+          "imageUrl": "https://cgworld.jp/regular/assets_c/2026/10/7a683c6386cd091efe1eb2593863f9c3ce7fb794-thumb-1000x617-90252.jpg"
+        },
+        {
+          "id": "https://cgworld.jp/article/202611-rakuen-1.html",
+          "author": null,
+          "description": "※本記事は月刊 『CGWORLD + digital video』vol.33...",
+          "link": "https://cgworld.jp/article/202611-rakuen-1.html",
+          "publishedOn": "2026-11-05T01:30:00.000Z",
+          "wordCount": 813,
+          "title": "『楽園追放 心のレゾナンス』ティザーPV制作の舞台裏【前編】巨大メカの変形を16秒のワンカットで魅せる - 特集",
+          "imageUrl": "https://cgworld.jp/article/assets_c/2026/09/202611-rakuen_a1-thumb-1000x563-89425.jpg"
+        },
+        {
+          "id": "https://cgworld.jp/article/80pixaranimation-master-class-20261126-29.html",
+          "author": null,
+          "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
+          "link": "https://cgworld.jp/article/80pixaranimation-master-class-20261126-29.html",
+          "publishedOn": "2026-11-04T23:23:33.000Z",
+          "wordCount": 749,
+          "title": "【今月開催】Pixarのアニメーターを育てるレジェンドアニメーターによる『ANIMATION MASTER CLASS 2026』が11月26日(木)-29日(日)開催! - 特集",
+          "imageUrl": "https://cgworld.jp/article/assets_c/2026/09/PC_hero%20%281%29-thumb-1920x1080-89105.jpg"
+        },
+        {
+          "id": "https://cgworld.jp/flashnews/01-202611-Hoshi-Facial.html",
+          "author": null,
+          "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
+          "link": "https://cgworld.jp/flashnews/01-202611-Hoshi-Facial.html",
+          "publishedOn": "2026-11-04T22:26:02.000Z",
+          "wordCount": 756,
+          "title": "FramestoreのアニメーターHoshi氏、フェイシャルアニメーションの解説動画公開　自然な表情を生み出す「顔のつながり」を解説 - ニュース",
+          "imageUrl": "https://cgworld.jp/flashnews/assets_c/2026/11/Hoshi_Facial-01-thumb-1920x1080-90683.jpg"
+        },
         {
           "id": "https://cgworld.jp/flashnews/idencecolor-grading-ai-vfx-service.html",
           "author": null,
@@ -1275,16 +1330,6 @@
           "wordCount": 817,
           "title": "Epic Games、UE5.8のマーカーレスモーションキャプチャの実演動画を公開　動画ファイルからMetaHuman用の全身アニメーションを生成するワークフロー - ニュース",
           "imageUrl": "https://cgworld.jp/flashnews/assets_c/2026/10/MetaHuman_MoCap-01-thumb-1920x1080-89565.jpg"
-        },
-        {
-          "id": "https://cgworld.jp/flashnews/02-2610-pxp-cinema4d.html",
-          "author": null,
-          "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
-          "link": "https://cgworld.jp/flashnews/02-2610-pxp-cinema4d.html",
-          "publishedOn": "2026-10-06T10:13:45.000Z",
-          "wordCount": 746,
-          "title": "【10/9（金）〆切】「Pixel x Pixel 2026」でCinema 4D初心者向けハンズオン講座を開催！ 講師は田村誠氏、定員5名 - ニュース",
-          "imageUrl": "https://cgworld.jp/flashnews/assets_c/2026/10/01_top_1920x1080-thumb-1000x563-89563.jpg"
         }
       ]
     },
@@ -1747,26 +1792,6 @@
           "wordCount": 3043,
           "title": "colormass Material Library 布や革、木材など177点のPBR素材を登録なしで無料ダウンロードできるサイト",
           "imageUrl": "https://modelinghappy.com/wp-content/uploads/2026/10/20261007_colormass_material_library_01.jpg"
-        },
-        {
-          "id": "https://modelinghappy.com/?p=70890",
-          "author": "modelinghappy",
-          "description": "Boolean Master Boolean Masterは、モデルの表面に穴や凹み、突起を作成し、その周囲をサポートループ付きの四角ポリゴンを作成出来るアドオンで、サブディビジョンサーフェスを使用するハードサーフェスモ\nThe post Boolean Master – ブーリアンで穴を開けた周囲を四角ポリゴンに整え、サポートループも作成できるBlender用アドオン！ first appeared on 3DCG最新情報サイト MODELING HAPPY.",
-          "link": "https://modelinghappy.com/archives/70890",
-          "publishedOn": "2026-10-06T14:03:54.000Z",
-          "wordCount": 3075,
-          "title": "Boolean Master – ブーリアンで穴を開けた周囲を四角ポリゴンに整え、サポートループも作成できるBlender用アドオン！",
-          "imageUrl": "https://modelinghappy.com/wp-content/uploads/2026/10/20261006_boolean_master_01.jpg"
-        },
-        {
-          "id": "https://modelinghappy.com/?p=70883",
-          "author": "modelinghappy",
-          "description": "IngeTrazo IngeTrazoは、ペルーの土木技術者Marco Sumari Tellezさんが作成した、建築・土木・3Dデザイン向けに開発されている、線や面を描いて押し出す、SketchUp風の操作でモデルを作\nThe post IngeTrazo – SketchUp風の操作で建築モデルを作れる無料のオープンソース3Dモデラー！AIによる制作支援にも対応 first appeared on 3DCG最新情報サイト MODELING HAPPY.",
-          "link": "https://modelinghappy.com/archives/70883",
-          "publishedOn": "2026-10-06T12:40:15.000Z",
-          "wordCount": 3060,
-          "title": "IngeTrazo – SketchUp風の操作で建築モデルを作れる無料のオープンソース3Dモデラー！AIによる制作支援にも対応",
-          "imageUrl": "https://modelinghappy.com/wp-content/uploads/2026/10/20261006_IngeTrazo_01.jpg"
         }
       ]
     },
@@ -2310,36 +2335,6 @@
             "type": "false"
           },
           "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--mspcS7VG--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%2586%25E3%2583%25B3%25E3%2582%25AD%25E3%2583%25BC%25E3%2582%2582%25E4%25B8%25AD%25E3%2583%259C%25E3%2582%25BF%25E3%2583%25B3%25E3%2582%2582%25E7%2584%25A1%25E3%2581%2584%2520MacBook%2520%25E3%2581%25A7%2520Blender%25204.5%2520%25E3%2582%2592%25E4%25BD%25BF%25E3%2581%2586%25E3%2581%25A8%25E3%2581%258D%25E3%2581%25AE%25E3%2582%25B7%25E3%2583%25A7%25E3%2583%25BC%25E3%2583%2588%25E3%2582%25AB%25E3%2583%2583%25E3%2583%2588%25E3%2581%25AE%25E3%2582%25B3%25E3%2583%2584%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:panda%2520studio%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzZkYjI4MTU3MjMuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
-        },
-        {
-          "id": "https://zenn.dev/renderjanction/articles/ad1c6ebb052908",
-          "author": "render.janction.jp",
-          "description": "公式: https://render.janction.jp\nJANCTION Render は、AI エージェントが MCP サーバーか HTTP API として呼べる、Blender のクラウド GPU レンダーファームです。この記事は運営のジャスミーラボが書いています。比較はその前提で読んでください。なお、同じジャスミーラボが開発中の分散 GPU レンダリングサービス Smart Render（SmartRender）とは別の製品です。混同されることがあるので最初に書いておきます。\n「AI エージェント向けの Blender MCP を教えて」と聞かれたときの答えは、実はほとんどが...",
-          "link": "https://zenn.dev/renderjanction/articles/ad1c6ebb052908",
-          "publishedOn": "2026-10-06T14:27:10.000Z",
-          "wordCount": 1062,
-          "title": "AI エージェント向けの Blender MCP を、編集する側と描く側に分けて整理する（2026 年 10 月）",
-          "enclosure": {
-            "url": "https://res.cloudinary.com/zenn/image/upload/s--5jUsPMFi--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:AI%2520%25E3%2582%25A8%25E3%2583%25BC%25E3%2582%25B8%25E3%2582%25A7%25E3%2583%25B3%25E3%2583%2588%25E5%2590%2591%25E3%2581%2591%25E3%2581%25AE%2520Blender%2520MCP%2520%25E3%2582%2592%25E3%2580%2581%25E7%25B7%25A8%25E9%259B%2586%25E3%2581%2599%25E3%2582%258B%25E5%2581%25B4%25E3%2581%25A8%25E6%258F%258F%25E3%2581%258F%25E5%2581%25B4%25E3%2581%25AB%25E5%2588%2586%25E3%2581%2591%25E3%2581%25A6%25E6%2595%25B4%25E7%2590%2586%25E3%2581%2599%25E3%2582%258B%25EF%25BC%25882026%2520%25E5%25B9%25B4%252010%2520%25E6%259C%2588%25EF%25BC%2589%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:render.janction.jp%2Cx_90%2Cy_121/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
-            "length": "0",
-            "type": "false"
-          },
-          "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--5jUsPMFi--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:AI%2520%25E3%2582%25A8%25E3%2583%25BC%25E3%2582%25B8%25E3%2582%25A7%25E3%2583%25B3%25E3%2583%2588%25E5%2590%2591%25E3%2581%2591%25E3%2581%25AE%2520Blender%2520MCP%2520%25E3%2582%2592%25E3%2580%2581%25E7%25B7%25A8%25E9%259B%2586%25E3%2581%2599%25E3%2582%258B%25E5%2581%25B4%25E3%2581%25A8%25E6%258F%258F%25E3%2581%258F%25E5%2581%25B4%25E3%2581%25AB%25E5%2588%2586%25E3%2581%2591%25E3%2581%25A6%25E6%2595%25B4%25E7%2590%2586%25E3%2581%2599%25E3%2582%258B%25EF%25BC%25882026%2520%25E5%25B9%25B4%252010%2520%25E6%259C%2588%25EF%25BC%2589%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:render.janction.jp%2Cx_90%2Cy_121/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
-        },
-        {
-          "id": "https://zenn.dev/panda_studio/articles/1d63c2d84c5324",
-          "author": "panda studio",
-          "description": "結論\n!\n\nStream Deck の「ホットキー」は、テンキーのキーコードそのものを送れます。キーボードにテンキーが無い Mac でも、Blender 側には「テンキーの1」として届き、前・右・上・カメラ視点に切り替わりました。\nBlender 4.5 LTS の既定のショートカットを48通り送り、46が届き、2つが届きませんでした。\n届かなかったのは Ctrl+テンキー3（左から見る） と Shift+Ctrl+Space（逆再生） です。押した瞬間のイベントだけが Blender に届く前に消えていて、検証した Mac で常駐している何かの Control ショートカットと重な...",
-          "link": "https://zenn.dev/panda_studio/articles/1d63c2d84c5324",
-          "publishedOn": "2026-10-06T06:14:29.000Z",
-          "wordCount": 1053,
-          "title": "テンキーの無い Mac で Blender の視点切り替えを Stream Deck に割り当てる",
-          "enclosure": {
-            "url": "https://res.cloudinary.com/zenn/image/upload/s--hazuNJvR--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%2586%25E3%2583%25B3%25E3%2582%25AD%25E3%2583%25BC%25E3%2581%25AE%25E7%2584%25A1%25E3%2581%2584%2520Mac%2520%25E3%2581%25A7%2520Blender%2520%25E3%2581%25AE%25E8%25A6%2596%25E7%2582%25B9%25E5%2588%2587%25E3%2582%258A%25E6%259B%25BF%25E3%2581%2588%25E3%2582%2592%2520Stream%2520Deck%2520%25E3%2581%25AB%25E5%2589%25B2%25E3%2582%258A%25E5%25BD%2593%25E3%2581%25A6%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:panda%2520studio%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzZkYjI4MTU3MjMuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
-            "length": "0",
-            "type": "false"
-          },
-          "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--hazuNJvR--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%2586%25E3%2583%25B3%25E3%2582%25AD%25E3%2583%25BC%25E3%2581%25AE%25E7%2584%25A1%25E3%2581%2584%2520Mac%2520%25E3%2581%25A7%2520Blender%2520%25E3%2581%25AE%25E8%25A6%2596%25E7%2582%25B9%25E5%2588%2587%25E3%2582%258A%25E6%259B%25BF%25E3%2581%2588%25E3%2582%2592%2520Stream%2520Deck%2520%25E3%2581%25AB%25E5%2589%25B2%25E3%2582%258A%25E5%25BD%2593%25E3%2581%25A6%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:panda%2520studio%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzZkYjI4MTU3MjMuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
         }
       ]
     },
@@ -3296,16 +3291,6 @@
           "wordCount": 3173,
           "title": "【Maya】モデルのサイズを確認できる便利な機能",
           "imageUrl": "https://3d.crdg.jp/env/wp-content/uploads/2026/10/t_20261013_universal_manipulator.jpg"
-        },
-        {
-          "id": "https://3d.crdg.jp/env/?p=10549",
-          "author": "Kosei.Hatanaka",
-          "description": "普段はPowerPointを使わない職種でも、社内発表や登壇資料などで、急に資料作成が必要になることがあると思います。特に背景モデラーの場合、普段の業 […]\n続きを読む\n投稿 【PowerPoint】資料作成で役立つ便利機能 は エンホリ - ENVIRONMENT HOLIC｜C&R Creative Studios に最初に表示されました。",
-          "link": "https://3d.crdg.jp/env/2026/10/06/10549/?utm_source=rss&utm_medium=rss&utm_campaign=%25e3%2580%2590powerpoint%25e3%2580%2591%25e8%25b3%2587%25e6%2596%2599%25e4%25bd%259c%25e6%2588%2590%25e3%2581%25a7%25e5%25bd%25b9%25e7%25ab%258b%25e3%2581%25a4%25e4%25be%25bf%25e5%2588%25a9%25e6%25a9%259f%25e8%2583%25bd",
-          "publishedOn": "2026-10-06T14:54:40.000Z",
-          "wordCount": 3140,
-          "title": "【PowerPoint】資料作成で役立つ便利機能",
-          "imageUrl": "https://3d.crdg.jp/env/wp-content/uploads/2026/10/thumbnail_template261007.jpg"
         }
       ]
     },
@@ -3314,6 +3299,46 @@
       "feedUrl": "https://cginterest.com/feed/",
       "siteUrl": "https://cginterest.com",
       "articles": [
+        {
+          "id": "https://cginterest.com/?p=66093",
+          "author": ".me",
+          "description": "2026年11月3日（現地時間）- Nodes Interactiveが開発する、ワンクリックでループカットを追加できるBlenderアドオン「Loop Cut Pro」が、バージョン1.5へとアップデートされました。あ […]",
+          "link": "https://cginterest.com/2026/11/05/loop-cut-pro-1-5/",
+          "publishedOn": "2026-11-04T23:32:00.000Z",
+          "wordCount": 562,
+          "title": "Loop Cut Pro 1.5 がリリース！複数のループカットを一度に追加、モードごとに配置が変わるMultiple Cutsなど",
+          "enclosure": {
+            "url": "https://cginterest.com/wp-content/uploads/2026/11/loop-cut-pro-1-5-multiple-cuts.mp4",
+            "length": "193518",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://cginterest.com/wp-content/uploads/2026/11/loopcutspro.webp"
+        },
+        {
+          "id": "https://cginterest.com/?p=66088",
+          "author": ".me",
+          "description": "2026年11月3日（現地時間）- Sparsealは、AIアシスト付きのメッシュ処理ツール「CozyBlanket Pro」のデスクトップ版を公開し、WindowsとmacOSで利用できるようになりました。 CozyB […]",
+          "link": "https://cginterest.com/2026/11/05/cozyblanket-pro-desktop/",
+          "publishedOn": "2026-11-04T22:26:00.000Z",
+          "wordCount": 507,
+          "title": "CozyBlanket Pro にWindows・Mac版が登場！AIリトポ・UV展開・ベイクがデスクトップで利用可能に",
+          "enclosure": {
+            "url": "https://cginterest.com/wp-content/uploads/2026/09/Topology-Autocomplete.mp4",
+            "length": "198283",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://cginterest.com/wp-content/uploads/2026/09/CozyblanketPro.webp"
+        },
+        {
+          "id": "https://cginterest.com/?p=66085",
+          "author": ".me",
+          "description": "2026年10月23日（現地時間）- GameMaker は、2Dゲームエンジン「GameMaker」の次世代ランタイム（ゲームを動かす実行部分）「GMRT」で作ったゲームを、2027年1月1日から無料プランのままで販売 […]",
+          "link": "https://cginterest.com/2026/11/05/gamemaker-gmrt-free/",
+          "publishedOn": "2026-11-04T22:01:00.000Z",
+          "wordCount": 506,
+          "title": "GameMaker、新ランタイム「GMRT」で作ったゲームの販売を2027年から無料に！Professional ライセンスなしでデスクトップ・モバイル・Webに配布可能",
+          "imageUrl": "https://cginterest.com/wp-content/uploads/2026/11/GMRTUpdate-Blog.webp"
+        },
         {
           "id": "https://cginterest.com/?p=66072",
           "author": ".me",
@@ -4063,31 +4088,6 @@
           "wordCount": 1457,
           "title": "【期間限定無料】2026年10月20日までの FAB 無料コンテンツをチェック！",
           "imageUrl": "https://cginterest.com/wp-content/uploads/2026/10/FABfreecontet2026-1020.webp"
-        },
-        {
-          "id": "https://cginterest.com/?p=62909",
-          "author": ".me",
-          "description": "2026年9月28日（現地時間）- Topaz Labsは、ブラウザで使えるAI画像・動画補正サービス「Topaz for Web」の9月リリース「Speed Update」を公開しました。 今回のリリースの概要 今回の […]",
-          "link": "https://cginterest.com/2026/10/06/topaz-for-web%e3%81%ae%e5%8b%95%e7%94%bb%e8%a3%9c%e6%ad%a3%e3%81%8c%e6%9c%80%e5%a4%a710%e5%80%8d%e9%ab%98%e9%80%9f%e3%81%ab%ef%bc%81%e6%96%b0%e3%83%a2%e3%83%87%e3%83%ab%e3%80%8cstarlight-fast-3/",
-          "publishedOn": "2026-10-06T09:42:26.000Z",
-          "wordCount": 1621,
-          "title": "Topaz for Webの動画補正が最大10倍高速に！新モデル「Starlight Fast 3」とPrecise 2.6の「Speed Boost」を追加",
-          "imageUrl": "https://cginterest.com/wp-content/uploads/2026/10/topazlabs-sep-speedupdate.webp"
-        },
-        {
-          "id": "https://cginterest.com/?p=62935",
-          "author": ".me",
-          "description": "AIで生成した3Dの頭部や3Dスキャンを、MetaHumanのトポロジーに変換してUnreal Engineへ送るBlender向けアドオン「MetaWrap」の紹介です。開発はイタリアの Elvis Morelli 氏 […]",
-          "link": "https://cginterest.com/2026/10/06/ai%e7%94%9f%e6%88%90%e3%81%ae%e9%a0%ad%e9%83%a8%e3%82%84%e3%82%b9%e3%82%ad%e3%83%a3%e3%83%b3%e3%82%92metahuman%e3%81%ab%e5%a4%89%e6%8f%9b%ef%bc%81blender%e3%82%a2%e3%83%89%e3%82%aa%e3%83%b3%e3%80%8cme/",
-          "publishedOn": "2026-10-06T04:50:00.000Z",
-          "wordCount": 1558,
-          "title": "AI生成の頭部やスキャンをMetaHumanに変換！Blenderアドオン「MetaWrap」が早期アクセスの登録を開始",
-          "enclosure": {
-            "url": "https://cginterest.com/wp-content/uploads/2026/10/Suite-Wrap-V2-3X1.mp4",
-            "length": "601932",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://cginterest.com/wp-content/uploads/2026/10/metawrap.webp"
         }
       ]
     }

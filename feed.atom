@@ -2,10 +2,65 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-11-06T15:27:52.914Z</updated>
+    <updated>2026-11-07T03:41:31.926Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Blenderから書き出したFBXの頂点カラーが、UnityやUEで白っぽくなる理由]]></title>
+        <id>https://zenn.dev/eight_blog/articles/fdfc64965178ca</id>
+        <link href="https://zenn.dev/eight_blog/articles/fdfc64965178ca"/>
+        <updated>2026-11-07T01:10:00.000Z</updated>
+        <summary type="html"><![CDATA[Blender で頂点カラーを付けたモデルを FBX にして Unreal Engine（UE）や Unity に持っていくと、色が白っぽく、淡くなることがあります。
+原因は、Blender の FBX 書き出しの Vertex Colors が初期設定で sRGB になっていることでした。Linear に変えると、UE では glb で持っていったときと同じ濃さになります。
+
+ 何をしていて気づいたか
+Geometry Nodes で作った島の地形と街を、ゲームエンジンに持っていこうとしていました。外壁や地形の色は質感（シェーダー）で計算していたので、そのままではファイルに入りません。...]]></summary>
+        <author>
+            <name>eight</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Topaz Labs、新モデル「Wonder 4」を発表！アップスケール・シャープ化・ノイズ除去を1クリックで]]></title>
+        <id>https://cginterest.com/?p=66387</id>
+        <link href="https://cginterest.com/2026/11/07/topaz-wonder-4/"/>
+        <updated>2026-11-07T00:19:00.000Z</updated>
+        <summary type="html"><![CDATA[2026年11月3日（現地時間）- 画像・動画の高画質化AIを手がけるTopaz Labsは、アップスケール、シャープ化、ノイズ除去を1クリックで行う新しい画像モデル「Wonder 4」を発表しました。 新しく「Mixt […]]]></summary>
+        <author>
+            <name>.me</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PartDeform – 選択した部分に合わせてデフォーマを配置！Cinema 4Dでモデルの一部分を曲げたり変形できる無料プラグイン]]></title>
+        <id>https://modelinghappy.com/?p=71423</id>
+        <link href="https://modelinghappy.com/archives/71423"/>
+        <updated>2026-11-06T22:50:35.000Z</updated>
+        <summary type="html"><![CDATA[PartDeform PartDeformは、モジョンさんが作成したCinema 4Dで選択したポリゴンなどの範囲に合わせてデフォーマを配置し、モデルの一部分を効率よく変形できる無料プラグインです。 通常、Cinema
+The post PartDeform – 選択した部分に合わせてデフォーマを配置！Cinema 4Dでモデルの一部分を曲げたり変形できる無料プラグイン first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
+        <author>
+            <name>modelinghappy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Premiere ベータ版に「生成削除」が登場 ― 映り込んだブームマイクや自撮り棒をマスクとトラッキングで消去]]></title>
+        <id>https://cginterest.com/?p=66370</id>
+        <link href="https://cginterest.com/2026/11/07/premiere-generative-remove-beta/"/>
+        <updated>2026-11-06T22:47:00.000Z</updated>
+        <summary type="html"><![CDATA[2026年11月4日（現地時間）- Adobeは、動画編集ソフト「Adobe Premiere」のベータ版に、映像に映り込んだ不要な物をAIで消せる新機能「生成削除（Generative Remove）」を追加しました。 […]]]></summary>
+        <author>
+            <name>.me</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[サムザップ、Unity技術ブログ「RenderMeshPrimitivesでブロックを大量描画して動かす」公開　約104万個のブロック描画とGPUアニメーションを検証 - ニュース]]></title>
+        <id>https://cgworld.jp/flashnews/01-202611-Sumzap.html</id>
+        <link href="https://cgworld.jp/flashnews/01-202611-Sumzap.html"/>
+        <updated>2026-11-06T22:25:04.000Z</updated>
+        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Google、動画生成AI「Gemini Omni 1.2 Flash」を発表！15秒の動画を一度に生成、料金は30%値下げ]]></title>
         <id>https://cginterest.com/?p=66363</id>
@@ -3959,48 +4014,6 @@ PyMEL はもともと Maya...]]></summary>
 The post RizomUV 2027が公開！自由に配置できる新UI、UV展開の高速化、境界を直線化するAlign Bordersなど追加 first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
         <author>
             <name>modelinghappy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Houdini Ignite ワークショップが10月17日・18日に開催！Houdini 22のAPEXを学ぶ2つのワークショップを実施 - ニュース]]></title>
-        <id>https://cgworld.jp/flashnews/2610-houdini-ignite-workshop.html</id>
-        <link href="https://cgworld.jp/flashnews/2610-houdini-ignite-workshop.html"/>
-        <updated>2026-10-08T09:07:09.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RizomUV 2027 がリリース！パネルを自由に組めるワークスペース、UV展開の高速化、Live Update、ヘッドレスモードなど]]></title>
-        <id>https://cginterest.com/?p=63059</id>
-        <link href="https://cginterest.com/2026/10/08/rizomuv-2027-%e3%81%8c%e3%83%aa%e3%83%aa%e3%83%bc%e3%82%b9%ef%bc%81%e3%83%91%e3%83%8d%e3%83%ab%e3%82%92%e8%87%aa%e7%94%b1%e3%81%ab%e7%b5%84%e3%82%81%e3%82%8b%e3%83%af%e3%83%bc%e3%82%af%e3%82%b9/"/>
-        <updated>2026-10-08T06:39:00.000Z</updated>
-        <summary type="html"><![CDATA[2026年10月8日（現地時間）- UV展開ソフト「RizomUV」の新バージョン、RizomUV 2027がリリースされました。 新機能概要 今回のリリースでは、自由に組み替えられるワークスペースの追加、UV展開処理の […]]]></summary>
-        <author>
-            <name>.me</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SubstancePainterでベイクNormalを編集対象にする方法]]></title>
-        <id>https://note.com/nyanneco/n/n56967f4a2676</id>
-        <link href="https://note.com/nyanneco/n/n56967f4a2676"/>
-        <updated>2026-10-08T05:03:38.000Z</updated>
-        <summary type="html"><![CDATA[ベイクしたNormalは自動的に適用されますが、レイヤーとして編集できる状態にはなっていません。ベイクNormalに対して何らかの加工を行いたい場合、ベイクNormalをレイヤーに読み込んでくる必要があります。
-ベイクNormalを編集対象にする
-続きをみる]]></summary>
-        <author>
-            <name>#substancepainterタグ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[『クレバテスII-魔獣の王と偽りの勇者伝承-』スケジューリングとパターン出しによる効率化に注目！ ～No.2／魔道人形篇 - 特集]]></title>
-        <id>https://cgworld.jp/article/2609-338animecg-clevat02.html</id>
-        <link href="https://cgworld.jp/article/2609-338animecg-clevat02.html"/>
-        <updated>2026-10-08T04:00:20.000Z</updated>
-        <summary type="html"><![CDATA[TVアニメ『クレバテスⅡ-魔獣の 王と偽りの勇者伝承-』のアニメCGメイキングを紹介。]]></summary>
-        <author>
-            <name>CGWORLD</name>
         </author>
     </entry>
 </feed>

@@ -350,21 +350,6 @@
             "type": "video/mp4"
           },
           "imageUrl": "https://cgbox.jp/wp-content/uploads/2026/10/image_processing20261009-2-vflyc8.jpg"
-        },
-        {
-          "id": "https://cgbox.jp/?p=65813",
-          "author": "kasahara",
-          "description": "こんばんは！ 今回はアドオンの「JCut 」を紹介します。 こちらのリンクがアドオンの商品ページになります。 JCut 「JCut 」は、編集モードで頂点同士の接続やエッジ上への頂点追加を、Jキーだけで素早く行える無料B […]",
-          "link": "https://cgbox.jp/2026/10/10/news-addon-jcut/",
-          "publishedOn": "2026-10-10T02:13:32.000Z",
-          "wordCount": 1966,
-          "title": "【アドオン紹介】JCut – Jキーだけで頂点接続やエッジ分割を素早く行える無料Blenderアドオン！",
-          "enclosure": {
-            "url": "https://cgbox.jp/wp-content/uploads/2026/10/66bd104a78ccdf0d5ea40ac278de223eaae15c133df39d2a5360c184c5d93da1.mp4",
-            "length": "0",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://cgbox.jp/wp-content/uploads/2026/10/8695b4c8d9937ef66581835300c48ac979a9cbd0fd7661db158d8bfe4ef981fb_640x360.webp"
         }
       ]
     },
@@ -1225,16 +1210,6 @@
           "wordCount": 842,
           "title": "the point and prim、チュートリアル動画「Houdini Transform pieces but its LOPS」公開　定番RBDシミュレーションをLOPとUSDで効率化 - ニュース",
           "imageUrl": "https://cgworld.jp/flashnews/assets_c/2026/10/HoudiniLOPS-01-thumb-1920x1080-89725.jpg"
-        },
-        {
-          "id": "https://cgworld.jp/flashnews/01-202610-CGESculptMaya.html",
-          "author": null,
-          "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
-          "link": "https://cgworld.jp/flashnews/01-202610-CGESculptMaya.html",
-          "publishedOn": "2026-10-09T23:14:02.000Z",
-          "wordCount": 922,
-          "title": "Maya用スカルプトツールセット「CGE Sculpting Tool for Maya」リリース　GPUベース、外部アプリ不要 - ニュース",
-          "imageUrl": "https://cgworld.jp/flashnews/assets_c/2026/10/CGESculptMaya-01-thumb-1920x1080-89696.jpg"
         }
       ]
     },
@@ -1857,6 +1832,21 @@
       "siteUrl": "https://zenn.dev/topics/3dcg",
       "articles": [
         {
+          "id": "https://zenn.dev/nakanishitf/articles/86ee54b68edee8",
+          "author": "T.N.",
+          "description": "「その場でディスコを踊る」と文章で指定して、人間の動作を作れたら、キャラクターのアニメーション制作をどこまで進められるでしょうか。\n今回はNVIDIAのKimodoで10秒のダンスを生成し、人間の骨格とキャラクターの両方で動きを確認しました。\n先に実行例を紹介し、その後で、自分のColab上で人間の骨格を生成して再生する方法を説明します。\n実習では3Dモデルの購入も、Blenderでの制作も必要ありません。\n\n 英文を変えるとダンスはどう変わるか\n\n 左右の腕でディスコの指差しを指定する\nまずは、私が私の研究室で使っているキャラクターを対象に、Kimodoで骨格動作を生成して、再生いたし...",
+          "link": "https://zenn.dev/nakanishitf/articles/86ee54b68edee8",
+          "publishedOn": "2026-11-08T05:47:37.000Z",
+          "wordCount": 6446,
+          "title": "文章で人間を踊らせるKimodoをColabで試す",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--1j6aAXFg--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E6%2596%2587%25E7%25AB%25A0%25E3%2581%25A7%25E4%25BA%25BA%25E9%2596%2593%25E3%2582%2592%25E8%25B8%258A%25E3%2582%2589%25E3%2581%259B%25E3%2582%258BKimodo%25E3%2582%2592Colab%25E3%2581%25A7%25E8%25A9%25A6%25E3%2581%2599%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:T.N.%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzE4Y2YzODAxZTQuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+            "length": "0",
+            "type": "false"
+          },
+          "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--1j6aAXFg--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E6%2596%2587%25E7%25AB%25A0%25E3%2581%25A7%25E4%25BA%25BA%25E9%2596%2593%25E3%2582%2592%25E8%25B8%258A%25E3%2582%2589%25E3%2581%259B%25E3%2582%258BKimodo%25E3%2582%2592Colab%25E3%2581%25A7%25E8%25A9%25A6%25E3%2581%2599%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:T.N.%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzE4Y2YzODAxZTQuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+        },
+        {
           "id": "https://zenn.dev/martina/articles/633459e5d60980",
           "author": "Martina",
           "description": "A model with gold-colored hair and dark armor can look finished on screen. Producing that appearance as a physical object requires decisions about the files, manufacturing process, and finishing work. A colored preview alone does not settle any of them.\n\n 1. Describe the difference before diagnos...",
@@ -2305,21 +2295,6 @@
             "type": "false"
           },
           "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--iKP8Xmp5--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%2595%25E3%2582%25A9%25E3%2583%2588%25E3%2582%25B0%25E3%2583%25A9%25E3%2583%25A1%25E3%2583%2588%25E3%2583%25AA%25E6%2595%25B0%25E5%25AD%25A6%25EF%25BD%259C61%25EF%25BC%259A%25E8%25AA%25A4%25E5%25B7%25AE%25E6%25A5%2595%25E5%2586%2586%25E3%2583%25BB%25E8%25AA%25A4%25E5%25B7%25AE%25E6%25A5%2595%25E5%2586%2586%25E4%25BD%2593%25E3%2581%25A8%25E3%2581%25AF%25E4%25BD%2595%25E3%2581%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:s_hashida%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2QwNzQxMzlkMjguanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
-        },
-        {
-          "id": "https://zenn.dev/panda_studio/articles/22b8f54d58c587",
-          "author": "panda studio",
-          "description": "結論\n!\n\nMac の Blender は、⌃（control）を使うショートカットに ⌘（command）版を自動で足しています。Windows 向けの解説の Ctrl+S は、Mac では ⌘S で動きます。ただし ⌃Space（エリアを最大化）や ⌃M（ミラー）など、⌘ 版が無いものが 41 件あります。\n\nJIS 配列の Mac では ` と = が Blender に届きません。 3D ビューで視点を選ぶビューのパイメニュー（`）や ⌘=（ズームイン）が押せないので、メニューやトラックパッドで代わりをします。\nテンキーが無いなら、プリファレンスの「テンキーを模倣」（Emul...",
-          "link": "https://zenn.dev/panda_studio/articles/22b8f54d58c587",
-          "publishedOn": "2026-10-10T02:05:03.000Z",
-          "wordCount": 2397,
-          "title": "テンキーも中ボタンも無い MacBook で Blender 4.5 を使うときのショートカットのコツ",
-          "enclosure": {
-            "url": "https://res.cloudinary.com/zenn/image/upload/s--mspcS7VG--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%2586%25E3%2583%25B3%25E3%2582%25AD%25E3%2583%25BC%25E3%2582%2582%25E4%25B8%25AD%25E3%2583%259C%25E3%2582%25BF%25E3%2583%25B3%25E3%2582%2582%25E7%2584%25A1%25E3%2581%2584%2520MacBook%2520%25E3%2581%25A7%2520Blender%25204.5%2520%25E3%2582%2592%25E4%25BD%25BF%25E3%2581%2586%25E3%2581%25A8%25E3%2581%258D%25E3%2581%25AE%25E3%2582%25B7%25E3%2583%25A7%25E3%2583%25BC%25E3%2583%2588%25E3%2582%25AB%25E3%2583%2583%25E3%2583%2588%25E3%2581%25AE%25E3%2582%25B3%25E3%2583%2584%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:panda%2520studio%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzZkYjI4MTU3MjMuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
-            "length": "0",
-            "type": "false"
-          },
-          "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--mspcS7VG--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%2586%25E3%2583%25B3%25E3%2582%25AD%25E3%2583%25BC%25E3%2582%2582%25E4%25B8%25AD%25E3%2583%259C%25E3%2582%25BF%25E3%2583%25B3%25E3%2582%2582%25E7%2584%25A1%25E3%2581%2584%2520MacBook%2520%25E3%2581%25A7%2520Blender%25204.5%2520%25E3%2582%2592%25E4%25BD%25BF%25E3%2581%2586%25E3%2581%25A8%25E3%2581%258D%25E3%2581%25AE%25E3%2582%25B7%25E3%2583%25A7%25E3%2583%25BC%25E3%2583%2588%25E3%2582%25AB%25E3%2583%2583%25E3%2583%2588%25E3%2581%25AE%25E3%2582%25B3%25E3%2583%2584%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:panda%2520studio%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzZkYjI4MTU3MjMuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
         }
       ]
     },
@@ -2397,6 +2372,26 @@
       "feedUrl": "https://qiita.com/tags/3dcg/feed",
       "siteUrl": "https://qiita.com",
       "articles": [
+        {
+          "id": "https://qiita.com/albertn/items/39d090fa8f1d33c66260",
+          "author": null,
+          "description": "惑星がひとつ、船が1隻、法則がひとつ。それだけのプログラムです。船は重力に引かれて惑星のまわりを回り、十字キーで推力をかけて、ぶつからず、逃げ出さずにいられるかを試します。Wickという小さな言語で、150行ほど。Lanternというエンジンの本物の画面で動かしました。花火...",
+          "link": "https://qiita.com/albertn/items/39d090fa8f1d33c66260",
+          "publishedOn": "2026-11-08T12:43:41.000Z",
+          "wordCount": 3788,
+          "title": "Lanternで重力をひとつだけ置く — Wickで回る船と、軌道という法則",
+          "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkY0NTE0MDIzJTJGYjM3MTJjMWQ2ZDczMzI2YWRhMDhkMTEyZWJjZGI3NWIzZTdmMjdjNyUyRmxhcmdlLnBuZyUzRjE3OTE4NTk2NzQ_aXhsaWI9cmItNC4xLjEmYXI9MSUzQTEmZml0PWNyb3AmbWFzaz1lbGxpcHNlJmJnPUZGRkZGRiZmbT1wbmczMiZzPTc3MTdiN2VhZWFhZDhkMzkyNGMxM2IwOTc3ZDE2Y2E5%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D17cecb816563f94327324273c234ced9?ixlib=rb-4.1.1&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9TGFudGVybiVFMyU4MSVBNyVFOSU4NyU4RCVFNSU4QSU5QiVFMyU4MiU5MiVFMyU4MSVCMiVFMyU4MSVBOCVFMyU4MSVBNCVFMyU4MSVBMCVFMyU4MSU5MSVFNyVCRCVBRSVFMyU4MSU4RiUyMCVFMiU4MCU5NCUyMFdpY2slRTMlODElQTclRTUlOUIlOUUlRTMlODIlOEIlRTglODglQjklRTMlODElQTglRTMlODAlODElRTglQkIlOEMlRTklODElOTMlRTMlODElQTglRTMlODElODQlRTMlODElODYlRTYlQjMlOTUlRTUlODklODcmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz1hNTc2OWNmYzhhNDRkNzczYWE0ZWNlNTQ2YTk4NTU0Zg&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBhbGJlcnRuJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9NTU2ZjFmOGQ1MDcxYWY0MWMyMzAxYWZlNTc3MzM1Nzc&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=d5a6d447c5e0db4b416e6e83db7ddd33"
+        },
+        {
+          "id": "https://qiita.com/Martina_1230/items/52f54cdd79ebbc87eff6",
+          "author": null,
+          "description": "A robot’s shoulder shell might follow its torso, rotate with its upper arm, or move on a separate mechanism. Those choices can produce si...",
+          "link": "https://qiita.com/Martina_1230/items/52f54cdd79ebbc87eff6",
+          "publishedOn": "2026-11-08T08:53:58.000Z",
+          "wordCount": 2861,
+          "title": "Robot Rigging: Define the Movement Before Choosing the Rig",
+          "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRmxoMy5nb29nbGV1c2VyY29udGVudC5jb20lMkZhJTJGQUNnOG9jS3g5azBuQ3VWWTd6UEpldmJWdjRHZzcwWjNTT21hQW1uSjhoUkdWVmJMYUdJd2dnJTNEczk2LWM_aXhsaWI9cmItNC4xLjEmYXI9MSUzQTEmZml0PWNyb3AmbWFzaz1lbGxpcHNlJmJnPUZGRkZGRiZmbT1wbmczMiZzPWQxMzcwNjRmYmVhMmU1MzNiZDQxYWE0OTc0ZGJmZWUx%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D397dbd01db86b7c2fa00619e9879086c?ixlib=rb-4.1.1&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9Um9ib3QlMjBSaWdnaW5nJTNBJTIwRGVmaW5lJTIwdGhlJTIwTW92ZW1lbnQlMjBCZWZvcmUlMjBDaG9vc2luZyUyMHRoZSUyMFJpZyZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnR4dC1wYWQ9MCZzPWQxMzU1ZWFhMWRlNDVkNzk0YTE4MzEzZmE5ZmZkYTVm&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBNYXJ0aW5hXzEyMzAmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz01ZGYyZWM3ZjQ3ZmMzYzU5NjE3YTVjMmNlZjViOTc3YQ&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=0b97e7bf688f821ed5e4eabae8a65e46"
+        },
         {
           "id": "https://qiita.com/Martina_1230/items/1d96ae11c56519564961",
           "author": null,
@@ -2669,7 +2664,18 @@
       "title": "GLSLタグが付けられた新着記事 - Qiita",
       "feedUrl": "https://qiita.com/tags/glsl/feed",
       "siteUrl": "https://qiita.com",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://qiita.com/techsuwako/items/057374e97e8b531b3fc8",
+          "author": null,
+          "description": "700年ぶりに、線形代数とGLSLのチュートリアルシリーズをようやく完成させ、日本語と英語の両方で此方から利用可能になりました。\nOpenGLの最初の24章を完成させ、校正を終えるまでに後15章残っていますので、今年の終わりまでには準備が整う予定です。\n其の後、グラフィック...",
+          "link": "https://qiita.com/techsuwako/items/057374e97e8b531b3fc8",
+          "publishedOn": "2026-11-08T08:05:55.000Z",
+          "wordCount": 560,
+          "title": "【勉強会】線形代数とGLSLシリーズが公開されました",
+          "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnFpaXRhLWltYWdlLXN0b3JlLnMzLmFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkYwJTJGNDMyOTA0NiUyRnByb2ZpbGUtaW1hZ2VzJTJGMTc4MTM2NDA4MT9peGxpYj1yYi00LjEuMSZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9NjZjNjlhNWRlN2IwNjM3YzQ3YzBjYzY4OWNmODJiMmU%26blend-x%3D120%26blend-y%3D462%26blend-w%3D90%26blend-h%3D90%26blend-mode%3Dnormal%26mark64%3DaHR0cHM6Ly9xaWl0YS1vcmdhbml6YXRpb24taW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1vcmdhbml6YXRpb24taW1hZ2UlMkZiZjg0MDA1Mjc5YmE4ZWViNzZlYmZlN2E3OTkyYWVmMDk4NDJkNjcwJTJGb3JpZ2luYWwuanBnJTNGMTc2NzY5ODU3Nz9peGxpYj1yYi00LjEuMSZ3PTQ0Jmg9NDQmZml0PWNyb3AmbWFzaz1jb3JuZXJzJmNvcm5lci1yYWRpdXM9OCZiZz1GRkZGRkYmYm9yZGVyPTIlMkNGRkZGRkYmZm09cG5nMzImcz02YmVmNmUxODA1YWYwM2Q0ODg1ZTI3YTgzNTMxNzExNQ%26mark-x%3D186%26mark-y%3D515%26mark-w%3D40%26mark-h%3D40%26s%3D4f06129e1b1d3feb3baf8a664528f0c6?ixlib=rb-4.1.1&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9JUUzJTgwJTkwJUU1JThCJTg5JUU1JUJDJUI3JUU0JUJDJTlBJUUzJTgwJTkxJUU3JUI3JTlBJUU1JUJEJUEyJUU0JUJCJUEzJUU2JTk1JUIwJUUzJTgxJUE4R0xTTCVFMyU4MiVCNyVFMyU4MyVBQSVFMyU4MyVCQyVFMyU4MiVCQSVFMyU4MSU4QyVFNSU4NSVBQyVFOSU5NiU4QiVFMyU4MSU5NSVFMyU4MiU4QyVFMyU4MSVCRSVFMyU4MSU5NyVFMyU4MSU5RiZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnR4dC1wYWQ9MCZzPWExNGE0NWQwMDNiMWIxMWNjMjQyMmUxMmZjZDgxOGYy&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDB0ZWNoc3V3YWtvJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9NTEyOGRkN2RiYjgyZmVjOWNmN2FiNDE4MmY1ZGM3MDc&blend-x=242&blend-y=454&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&txt64=77yQ77yX77yW44K544K_44K444Kq5ZCI5ZCM5Lya56S-&txt-x=242&txt-y=539&txt-width=838&txt-clip=end%2Cellipsis&txt-color=%231E2121&txt-font=Hiragino%20Sans%20W6&txt-size=28&s=be339911491c354c1ffc5862c4a4fa2e"
+        }
+      ]
     },
     {
       "title": "Zennの「HLSL」のフィード",
@@ -2970,16 +2976,6 @@
           "wordCount": 1598,
           "title": "Substance 3Dは買い切りとサブスク、どちらがお得？ Steam・Indie・Adobeの購入方法を比較【2026年版】",
           "imageUrl": "https://assets.st-note.com/production/uploads/images/327590175/rectangle_large_type_2_636d40f8dc202489c6c76cab3062db32.png?width=800"
-        },
-        {
-          "id": "https://note.com/pompomtanuki/n/ne32fc3484eed",
-          "author": null,
-          "description": "続きをみる",
-          "link": "https://note.com/pompomtanuki/n/ne32fc3484eed",
-          "publishedOn": "2026-10-10T01:29:03.000Z",
-          "wordCount": 1102,
-          "title": "【登壇者紹介】友定裕さんの話",
-          "imageUrl": "https://assets.st-note.com/production/uploads/images/322711477/rectangle_large_type_2_6f1b651d6a94ce3fadc26b594bcdc918.png?width=800"
         }
       ]
     },
@@ -3188,6 +3184,16 @@
       "feedUrl": "https://cginterest.com/feed/",
       "siteUrl": "https://cginterest.com",
       "articles": [
+        {
+          "id": "https://cginterest.com/?p=66482",
+          "author": ".me",
+          "description": "2026年11月3日（現地時間）- オープンソースの3DCGソフト「Blender」の開発者ブログで、アニメーション＆リギングモジュールによる「レイヤードアクション（Layered Actions）」のワークショップの報 […]",
+          "link": "https://cginterest.com/2026/11/08/blender-layered-actions-workshop-2026/",
+          "publishedOn": "2026-11-08T10:48:39.000Z",
+          "wordCount": 814,
+          "title": "Blender、レイヤードアクションのワークショップ内容を公開 ― アクション中心のチャンネル一覧、どのエディターでもアクションを割り当てなど",
+          "imageUrl": "https://cginterest.com/wp-content/uploads/2026/11/layered-actions-workshop-eyecatch.webp"
+        },
         {
           "id": "https://cginterest.com/?p=66464",
           "author": ".me",

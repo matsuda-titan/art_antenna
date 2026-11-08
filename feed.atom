@@ -2,10 +2,70 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-11-08T03:17:06.727Z</updated>
+    <updated>2026-11-08T14:38:02.731Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Lanternで重力をひとつだけ置く — Wickで回る船と、軌道という法則]]></title>
+        <id>https://qiita.com/albertn/items/39d090fa8f1d33c66260</id>
+        <link href="https://qiita.com/albertn/items/39d090fa8f1d33c66260"/>
+        <updated>2026-11-08T12:43:41.000Z</updated>
+        <summary type="html"><![CDATA[惑星がひとつ、船が1隻、法則がひとつ。それだけのプログラムです。船は重力に引かれて惑星のまわりを回り、十字キーで推力をかけて、ぶつからず、逃げ出さずにいられるかを試します。Wickという小さな言語で、150行ほど。Lanternというエンジンの本物の画面で動かしました。花火...]]></summary>
+        <author>
+            <name>3DCGタグが付けられた新着記事 - Qiita</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Blender、レイヤードアクションのワークショップ内容を公開 ― アクション中心のチャンネル一覧、どのエディターでもアクションを割り当てなど]]></title>
+        <id>https://cginterest.com/?p=66482</id>
+        <link href="https://cginterest.com/2026/11/08/blender-layered-actions-workshop-2026/"/>
+        <updated>2026-11-08T10:48:39.000Z</updated>
+        <summary type="html"><![CDATA[2026年11月3日（現地時間）- オープンソースの3DCGソフト「Blender」の開発者ブログで、アニメーション＆リギングモジュールによる「レイヤードアクション（Layered Actions）」のワークショップの報 […]]]></summary>
+        <author>
+            <name>.me</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Robot Rigging: Define the Movement Before Choosing the Rig]]></title>
+        <id>https://qiita.com/Martina_1230/items/52f54cdd79ebbc87eff6</id>
+        <link href="https://qiita.com/Martina_1230/items/52f54cdd79ebbc87eff6"/>
+        <updated>2026-11-08T08:53:58.000Z</updated>
+        <summary type="html"><![CDATA[A robot’s shoulder shell might follow its torso, rotate with its upper arm, or move on a separate mechanism. Those choices can produce si...]]></summary>
+        <author>
+            <name>3DCGタグが付けられた新着記事 - Qiita</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【勉強会】線形代数とGLSLシリーズが公開されました]]></title>
+        <id>https://qiita.com/techsuwako/items/057374e97e8b531b3fc8</id>
+        <link href="https://qiita.com/techsuwako/items/057374e97e8b531b3fc8"/>
+        <updated>2026-11-08T08:05:55.000Z</updated>
+        <summary type="html"><![CDATA[700年ぶりに、線形代数とGLSLのチュートリアルシリーズをようやく完成させ、日本語と英語の両方で此方から利用可能になりました。
+OpenGLの最初の24章を完成させ、校正を終えるまでに後15章残っていますので、今年の終わりまでには準備が整う予定です。
+其の後、グラフィック...]]></summary>
+        <author>
+            <name>GLSLタグが付けられた新着記事 - Qiita</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[文章で人間を踊らせるKimodoをColabで試す]]></title>
+        <id>https://zenn.dev/nakanishitf/articles/86ee54b68edee8</id>
+        <link href="https://zenn.dev/nakanishitf/articles/86ee54b68edee8"/>
+        <updated>2026-11-08T05:47:37.000Z</updated>
+        <summary type="html"><![CDATA[「その場でディスコを踊る」と文章で指定して、人間の動作を作れたら、キャラクターのアニメーション制作をどこまで進められるでしょうか。
+今回はNVIDIAのKimodoで10秒のダンスを生成し、人間の骨格とキャラクターの両方で動きを確認しました。
+先に実行例を紹介し、その後で、自分のColab上で人間の骨格を生成して再生する方法を説明します。
+実習では3Dモデルの購入も、Blenderでの制作も必要ありません。
+
+ 英文を変えるとダンスはどう変わるか
+
+ 左右の腕でディスコの指差しを指定する
+まずは、私が私の研究室で使っているキャラクターを対象に、Kimodoで骨格動作を生成して、再生いたし...]]></summary>
+        <author>
+            <name>T.N.</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[パソコンSHOPアーク「ブラックフライデーセール 2026」と「arkhive 6周年記念 感謝祭」が開催！クリエイター向けPCやPCパーツをピックアップ]]></title>
         <id>https://cginterest.com/?p=66464</id>
@@ -3875,52 +3935,6 @@ The post Matelumeー用意した画像をベースに布の織り目や刺繍、
 The post Polycop Lite ー Nゴンや二重押し出しをワンクリックで検出・作業中にリアルタイムで確認できるMaya用無料ツール first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
         <author>
             <name>modelinghappy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【アドオン紹介】JCut – Jキーだけで頂点接続やエッジ分割を素早く行える無料Blenderアドオン！]]></title>
-        <id>https://cgbox.jp/?p=65813</id>
-        <link href="https://cgbox.jp/2026/10/10/news-addon-jcut/"/>
-        <updated>2026-10-10T02:13:32.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは！ 今回はアドオンの「JCut 」を紹介します。 こちらのリンクがアドオンの商品ページになります。 JCut 「JCut 」は、編集モードで頂点同士の接続やエッジ上への頂点追加を、Jキーだけで素早く行える無料B […]]]></summary>
-        <author>
-            <name>kasahara</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[テンキーも中ボタンも無い MacBook で Blender 4.5 を使うときのショートカットのコツ]]></title>
-        <id>https://zenn.dev/panda_studio/articles/22b8f54d58c587</id>
-        <link href="https://zenn.dev/panda_studio/articles/22b8f54d58c587"/>
-        <updated>2026-10-10T02:05:03.000Z</updated>
-        <summary type="html"><![CDATA[結論
-!
-
-Mac の Blender は、⌃（control）を使うショートカットに ⌘（command）版を自動で足しています。Windows 向けの解説の Ctrl+S は、Mac では ⌘S で動きます。ただし ⌃Space（エリアを最大化）や ⌃M（ミラー）など、⌘ 版が無いものが 41 件あります。
-
-JIS 配列の Mac では ` と = が Blender に届きません。 3D ビューで視点を選ぶビューのパイメニュー（`）や ⌘=（ズームイン）が押せないので、メニューやトラックパッドで代わりをします。
-テンキーが無いなら、プリファレンスの「テンキーを模倣」（Emul...]]></summary>
-        <author>
-            <name>panda studio</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【登壇者紹介】友定裕さんの話]]></title>
-        <id>https://note.com/pompomtanuki/n/ne32fc3484eed</id>
-        <link href="https://note.com/pompomtanuki/n/ne32fc3484eed"/>
-        <updated>2026-10-10T01:29:03.000Z</updated>
-        <summary type="html"><![CDATA[続きをみる]]></summary>
-        <author>
-            <name>#SubstanceDesignerタグ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Maya用スカルプトツールセット「CGE Sculpting Tool for Maya」リリース　GPUベース、外部アプリ不要 - ニュース]]></title>
-        <id>https://cgworld.jp/flashnews/01-202610-CGESculptMaya.html</id>
-        <link href="https://cgworld.jp/flashnews/01-202610-CGESculptMaya.html"/>
-        <updated>2026-10-09T23:14:02.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
         </author>
     </entry>
 </feed>

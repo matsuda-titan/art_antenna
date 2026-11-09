@@ -335,21 +335,6 @@
             "type": "video/mp4"
           },
           "imageUrl": "https://cgbox.jp/wp-content/uploads/2026/10/image_processing20261012-2-36hpfg.jpg"
-        },
-        {
-          "id": "https://cgbox.jp/?p=65817",
-          "author": "kasahara",
-          "description": "こんばんは！ 今回はアドオンの「Sky Paint」を紹介します。 こちらのリンクがアドオンの商品ページになります。 Sky Paint 「Sky Paint」は、Blender上でスタイライズされた空をプロシージャル生 […]",
-          "link": "https://cgbox.jp/2026/10/11/news-addon-sky-paint/",
-          "publishedOn": "2026-10-10T23:05:00.000Z",
-          "wordCount": 2027,
-          "title": "【アドオン紹介】Sky Paint – 時間帯に合わせて空・雲・星空をプロシージャル生成できるBlenderアドオン！",
-          "enclosure": {
-            "url": "https://cgbox.jp/wp-content/uploads/2026/10/trailer1008_fin03-3.mp4",
-            "length": "0",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://cgbox.jp/wp-content/uploads/2026/10/image_processing20261009-2-vflyc8.jpg"
         }
       ]
     },
@@ -701,6 +686,36 @@
       "feedUrl": "https://cgworld.jp/atom.xml",
       "siteUrl": "https://cgworld.jp/",
       "articles": [
+        {
+          "id": "https://cgworld.jp/flashnews/02-2611-mrealcollaborator.html",
+          "author": null,
+          "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
+          "link": "https://cgworld.jp/flashnews/02-2611-mrealcollaborator.html",
+          "publishedOn": "2026-11-09T10:09:20.000Z",
+          "wordCount": 723,
+          "title": "キヤノン、製造業向けXRコラボレーションソフト「MREAL Collaborator」の体験機会を11/11（水）からの「産業交流展2026」で提供 - ニュース",
+          "imageUrl": "https://cgworld.jp/flashnews/assets_c/2026/11/13980-1208-2acb188829b86358cb210330ca5e9304-1920x1280-thumb-1000x563-90748.jpg"
+        },
+        {
+          "id": "https://cgworld.jp/flashnews/2611-plusone-airi.html",
+          "author": null,
+          "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
+          "link": "https://cgworld.jp/flashnews/2611-plusone-airi.html",
+          "publishedOn": "2026-11-09T06:24:34.000Z",
+          "wordCount": 748,
+          "title": "Riot Gamesデザイナー、アイリ・パン氏から学ぶ『映画・ゲームのためのキャラクターコンセプトアート』11月21日-23日開催 - ニュース",
+          "imageUrl": "https://cgworld.jp/flashnews/assets_c/2026/11/324_seminar_RiotGames_full%20%281%29-thumb-1920x1080-90952.jpg"
+        },
+        {
+          "id": "https://cgworld.jp/flashnews/02-2611-houdinimasterclass-2026.html",
+          "author": null,
+          "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
+          "link": "https://cgworld.jp/flashnews/02-2611-houdinimasterclass-2026.html",
+          "publishedOn": "2026-11-09T06:20:00.000Z",
+          "wordCount": 648,
+          "title": "12/8（火）開催！「Houdini Master Class 2026」：FramestoreのNestor Prado氏による『プロジェクト・ヘイル・メアリー』でのHoudini活用事例を紹介 - ニュース",
+          "imageUrl": "https://cgworld.jp/flashnews/assets_c/2026/11/345_seminar_houdinimasterclass2026_full_web-thumb-1000x563-90943.jpg"
+        },
         {
           "id": "https://cgworld.jp/article/202611-anjyo.html",
           "author": null,
@@ -1701,6 +1716,21 @@
       "siteUrl": "https://zenn.dev/topics/shader",
       "articles": [
         {
+          "id": "https://zenn.dev/rog_works/articles/8c3a8d26fbef14",
+          "author": "rog-works",
+          "description": "概要\ntranp紹介記事、第6弾「マテリアル関数を作る #5」です\n今回は、前回公開したプラグインの実装を例に、UEのC++開発環境へのトランスパイルに関して基礎的な解説を主に行い、最後にマテリアル関数の仕様面に関して少し触れたいと思います\n\n 初読者に対して\ntranpはPython製のトランスパイラーです。この記事では、tranpを用いてPythonのソースコードからUnreal Engineのマテリアル関数を実現する方法を解説しています\n前回までの記事を前提にしているので、不明な点があればご一読お願いします\n\n リンク\n\n前々回: Python製トランスパイラーtranpでマテ...",
+          "link": "https://zenn.dev/rog_works/articles/8c3a8d26fbef14",
+          "publishedOn": "2026-11-09T03:35:49.000Z",
+          "wordCount": 3314,
+          "title": "Python製トランスパイラーtranpでマテリアル関数を作る #5",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--Q9zWvZv9--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Python%25E8%25A3%25BD%25E3%2583%2588%25E3%2583%25A9%25E3%2583%25B3%25E3%2582%25B9%25E3%2583%2591%25E3%2582%25A4%25E3%2583%25A9%25E3%2583%25BCtranp%25E3%2581%25A7%25E3%2583%259E%25E3%2583%2586%25E3%2583%25AA%25E3%2582%25A2%25E3%2583%25AB%25E9%2596%25A2%25E6%2595%25B0%25E3%2582%2592%25E4%25BD%259C%25E3%2582%258B%2520%25235%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:rog-works%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzc0Mjk5NTZhMWEuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+            "length": "0",
+            "type": "false"
+          },
+          "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--Q9zWvZv9--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Python%25E8%25A3%25BD%25E3%2583%2588%25E3%2583%25A9%25E3%2583%25B3%25E3%2582%25B9%25E3%2583%2591%25E3%2582%25A4%25E3%2583%25A9%25E3%2583%25BCtranp%25E3%2581%25A7%25E3%2583%259E%25E3%2583%2586%25E3%2583%25AA%25E3%2582%25A2%25E3%2583%25AB%25E9%2596%25A2%25E6%2595%25B0%25E3%2582%2592%25E4%25BD%259C%25E3%2582%258B%2520%25235%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:rog-works%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzc0Mjk5NTZhMWEuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+        },
+        {
           "id": "https://zenn.dev/rog_works/articles/b98268e6dc3432",
           "author": "rog-works",
           "description": "概要\ntranp紹介記事、第5弾です\n前回に引き続き、Unreal Engine(以降UE)のマテリアル関数の作成を題材に解説していきます\n今回は、いよいよマテリアル関数(uasset)を作る部分の解説をしていきます！\n\n 初読者に対して\ntranpはPython製のトランスパイラーです。この記事では、tranpを用いてPythonのソースコードからUnreal Engineのマテリアル関数を実現する方法を解説しています\n前回までの記事を前提にしているので、不明な点があればご一読お願いします\n\n リンク\n\n前々回: Python製トランスパイラー(tranp)でマテリアル関数(UE5...",
@@ -1861,6 +1891,36 @@
       "feedUrl": "https://zenn.dev/topics/3dcg/feed",
       "siteUrl": "https://zenn.dev/topics/3dcg",
       "articles": [
+        {
+          "id": "https://zenn.dev/nakanishitf/articles/5c563606266e0c",
+          "author": "T.N.",
+          "description": "大学キャンパスで立ち止まり、渋谷で手応えを得た\n実在する駅前の3Dモデルから、ドローンが飛び、人が行き交う映像を作る。\nPLATEAU、Blender、Museを組み合わせた作例を見て、まず自分の所属する東京工科大学の八王子キャンパスで試しました。\n大学紹介に使うだけでなく、学生やキャラクターが歩ける箱庭を作れたら、授業や研究にも広がりそうです。\nところが、キャンパスでは思ったようにいきませんでした。\nBlenderに読み込んだ建物は箱状で、写真にある屋根、入口、噴水の特徴が足りません。\n動画として見栄えがよくなっても、よく知っている場所だからこそ、窓の並びや広場の違いが気になります...",
+          "link": "https://zenn.dev/nakanishitf/articles/5c563606266e0c",
+          "publishedOn": "2026-11-09T14:15:19.000Z",
+          "wordCount": 2835,
+          "title": "PLATEAU × Blender × Museで実在空間を映像にする。自動化の中身と応用の入口",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--sIXOgFfC--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:PLATEAU%2520%25C3%2597%2520Blender%2520%25C3%2597%2520Muse%25E3%2581%25A7%25E5%25AE%259F%25E5%259C%25A8%25E7%25A9%25BA%25E9%2596%2593%25E3%2582%2592%25E6%2598%25A0%25E5%2583%258F%25E3%2581%25AB%25E3%2581%2599%25E3%2582%258B%25E3%2580%2582%25E8%2587%25AA%25E5%258B%2595%25E5%258C%2596%25E3%2581%25AE%25E4%25B8%25AD%25E8%25BA%25AB%25E3%2581%25A8%25E5%25BF%259C%25E7%2594%25A8%25E3%2581%25AE%25E5%2585%25A5%25E5%258F%25A3%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:T.N.%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzE4Y2YzODAxZTQuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+            "length": "0",
+            "type": "false"
+          },
+          "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--sIXOgFfC--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:PLATEAU%2520%25C3%2597%2520Blender%2520%25C3%2597%2520Muse%25E3%2581%25A7%25E5%25AE%259F%25E5%259C%25A8%25E7%25A9%25BA%25E9%2596%2593%25E3%2582%2592%25E6%2598%25A0%25E5%2583%258F%25E3%2581%25AB%25E3%2581%2599%25E3%2582%258B%25E3%2580%2582%25E8%2587%25AA%25E5%258B%2595%25E5%258C%2596%25E3%2581%25AE%25E4%25B8%25AD%25E8%25BA%25AB%25E3%2581%25A8%25E5%25BF%259C%25E7%2594%25A8%25E3%2581%25AE%25E5%2585%25A5%25E5%258F%25A3%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:T.N.%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzE4Y2YzODAxZTQuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+        },
+        {
+          "id": "https://zenn.dev/martina/articles/18f6d8f75609fa",
+          "author": "Martina",
+          "description": "A material revision can look better because the camera moved, a bright sign entered the reflection, or the exposure changed. To judge the edit, first compare the original and revised versions under matching conditions. Then check whether the chosen version works in other environments.\n\n 1. Give t...",
+          "link": "https://zenn.dev/martina/articles/18f6d8f75609fa",
+          "publishedOn": "2026-11-09T08:51:19.000Z",
+          "wordCount": 2719,
+          "title": "A Fair Material Comparison Starts with a Locked View",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--WBLSCWe9--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:A%2520Fair%2520Material%2520Comparison%2520Starts%2520with%2520a%2520Locked%2520View%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Martina%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jS3g5azBuQ3VWWTd6UEpldmJWdjRHZzcwWjNTT21hQW1uSjhoUkdWVmJMYUdJd2dnPXMyNTAtYw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+            "length": "0",
+            "type": "false"
+          },
+          "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--WBLSCWe9--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:A%2520Fair%2520Material%2520Comparison%2520Starts%2520with%2520a%2520Locked%2520View%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Martina%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jS3g5azBuQ3VWWTd6UEpldmJWdjRHZzcwWjNTT21hQW1uSjhoUkdWVmJMYUdJd2dnPXMyNTAtYw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+        },
         {
           "id": "https://zenn.dev/s_hashida/articles/17672f06a7a40c",
           "author": "s_hashida",
@@ -2418,6 +2478,16 @@
       "siteUrl": "https://qiita.com",
       "articles": [
         {
+          "id": "https://qiita.com/Martina_1230/items/af17b17b64525f928ad9",
+          "author": null,
+          "description": "A helmet crest can look substantial in a full-screen preview and become a fragile detail on a small printed bust. The first useful questi...",
+          "link": "https://qiita.com/Martina_1230/items/af17b17b64525f928ad9",
+          "publishedOn": "2026-11-09T09:01:22.000Z",
+          "wordCount": 2866,
+          "title": "Small Prints, Missing Details: Checking a Bust at Its Final Scale",
+          "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRmxoMy5nb29nbGV1c2VyY29udGVudC5jb20lMkZhJTJGQUNnOG9jS3g5azBuQ3VWWTd6UEpldmJWdjRHZzcwWjNTT21hQW1uSjhoUkdWVmJMYUdJd2dnJTNEczk2LWM_aXhsaWI9cmItNC4xLjEmYXI9MSUzQTEmZml0PWNyb3AmbWFzaz1lbGxpcHNlJmJnPUZGRkZGRiZmbT1wbmczMiZzPWQxMzcwNjRmYmVhMmU1MzNiZDQxYWE0OTc0ZGJmZWUx%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D397dbd01db86b7c2fa00619e9879086c?ixlib=rb-4.1.1&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9U21hbGwlMjBQcmludHMlMkMlMjBNaXNzaW5nJTIwRGV0YWlscyUzQSUyMENoZWNraW5nJTIwYSUyMEJ1c3QlMjBhdCUyMEl0cyUyMEZpbmFsJTIwU2NhbGUmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz1iMDlmN2RkMmFiZjA0MWY4NDNmNmU3MDNiM2Q0MTk5Zg&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBNYXJ0aW5hXzEyMzAmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz01ZGYyZWM3ZjQ3ZmMzYzU5NjE3YTVjMmNlZjViOTc3YQ&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=d0841bb19a0e106b857417a29ced92c8"
+        },
+        {
           "id": "https://qiita.com/matumu20/items/1dc4ab0760aa3307ea61",
           "author": null,
           "description": "Towards Better User Studies in Computer Graphics and Vision(Adobe Research & University of Washington, 2023)\n\n3行要約\n\n本稿は、コンピュータグラフィックスおよ...",
@@ -2628,16 +2698,6 @@
           "wordCount": 807,
           "title": "数式をコードに翻訳する「Math as Code」インタラクティブ版を公開しました",
           "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkY0NTE0MDIzJTJGYjM3MTJjMWQ2ZDczMzI2YWRhMDhkMTEyZWJjZGI3NWIzZTdmMjdjNyUyRmxhcmdlLnBuZyUzRjE3OTE4NTk2NzQ_aXhsaWI9cmItNC4xLjEmYXI9MSUzQTEmZml0PWNyb3AmbWFzaz1lbGxpcHNlJmJnPUZGRkZGRiZmbT1wbmczMiZzPTc3MTdiN2VhZWFhZDhkMzkyNGMxM2IwOTc3ZDE2Y2E5%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D17cecb816563f94327324273c234ced9?ixlib=rb-4.1.1&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9JUU2JTk1JUIwJUU1JUJDJThGJUUzJTgyJTkyJUUzJTgyJUIzJUUzJTgzJUJDJUUzJTgzJTg5JUUzJTgxJUFCJUU3JUJGJUJCJUU4JUE4JUIzJUUzJTgxJTk5JUUzJTgyJThCJUUzJTgwJThDTWF0aCUyMGFzJTIwQ29kZSVFMyU4MCU4RCVFMyU4MiVBNCVFMyU4MyVCMyVFMyU4MiVCRiVFMyU4MyVBOSVFMyU4MiVBRiVFMyU4MyU4NiVFMyU4MiVBMyVFMyU4MyU5NiVFNyU4OSU4OCVFMyU4MiU5MiVFNSU4NSVBQyVFOSU5NiU4QiVFMyU4MSU5NyVFMyU4MSVCRSVFMyU4MSU5NyVFMyU4MSU5RiZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnR4dC1wYWQ9MCZzPTI4YjIxNjRmOTg2NzRiMTQ1MTkzZjZhN2IzNzRlNGMy&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBhbGJlcnRuJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9NTU2ZjFmOGQ1MDcxYWY0MWMyMzAxYWZlNTc3MzM1Nzc&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=10f970a4f3e63214b00759d6cf1b1866"
-        },
-        {
-          "id": "https://qiita.com/fujimoooon/items/49a646d99fc73dd992bb",
-          "author": null,
-          "description": "はじめに\n「外付けGPU（eGPU）をつなぐと、CPUがタスクを自動でGPUに振り分けてくれる」と思っていませんか？　実はそうではありません。本記事では次の疑問を順に解きほぐします。\n\nCPUとGPUはどうやってやり取りしているのか\nIntel と NVIDIA、Appl...",
-          "link": "https://qiita.com/fujimoooon/items/49a646d99fc73dd992bb",
-          "publishedOn": "2026-10-10T15:39:52.000Z",
-          "wordCount": 1497,
-          "title": "CPUとGPUはどうやって連携しているのか？ ― メーカーが違っても動く仕組みとグラフィックスAPIの全体像",
-          "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYyOTY5MDk4JTJGMWEzNzExYmY0M2YwNzhiYTAxNGMyYWU2ZmUyNjBlNjQwNGUzOWMxZCUyRnhfbGFyZ2UucG5nJTNGMTc4MzY2MDUyNT9peGxpYj1yYi00LjEuMSZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9OGVmNWEwNmFjNGNlZmUyMDdlNThhMzA1MDQwNTY5M2E%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D65f6c59a68166fc9396edc2f2d787488?ixlib=rb-4.1.1&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9Q1BVJUUzJTgxJUE4R1BVJUUzJTgxJUFGJUUzJTgxJUE5JUUzJTgxJTg2JUUzJTgyJTg0JUUzJTgxJUEzJUUzJTgxJUE2JUU5JTgwJUEzJUU2JTkwJUJBJUUzJTgxJTk3JUUzJTgxJUE2JUUzJTgxJTg0JUUzJTgyJThCJUUzJTgxJUFFJUUzJTgxJThCJUVGJUJDJTlGJTIwJUUyJTgwJTk1JTIwJUUzJTgzJUExJUUzJTgzJUJDJUUzJTgyJUFCJUUzJTgzJUJDJUUzJTgxJThDJUU5JTgxJTk1JUUzJTgxJUEzJUUzJTgxJUE2JUUzJTgyJTgyJUU1JThCJTk1JUUzJTgxJThGJUU0JUJCJTk1JUU3JUI1JTg0JUUzJTgxJUJGJUUzJTgxJUE4JUUzJTgyJUIwJUUzJTgzJUE5JUUzJTgzJTk1JUUzJTgyJUEzJUUzJTgzJTgzJUUzJTgyJUFGJUUzJTgyJUI5QVBJJUUzJTgxJUFFJUU1JTg1JUE4JUU0JUJEJTkzJUU1JTgzJThGJnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9NGJiOTg4M2M3YWE1MTJkNjFlNzAxYTFmNmRhMjBhMzM&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBmdWppbW9vb29uJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9ZDRiM2QzZDFkN2IzZjk4YTA3YjI2MTk4NjI5MzNjNTc&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=45fce639e3778484841181db803d9bd1"
         }
       ]
     },
@@ -3178,6 +3238,16 @@
       "siteUrl": "https://3d.crdg.jp/env/",
       "articles": [
         {
+          "id": "https://3d.crdg.jp/env/?p=10804",
+          "author": "Kosei.Hatanaka",
+          "description": "今回は、工数見積についてです。プロとして仕事をしていると、「この作業、何日くらいかかる？」「ざっくりでいいから見積を出して」言われる場面がよくあります […]\n続きを読む\n投稿 【Excel】工数見積 は エンホリ - ENVIRONMENT HOLIC｜C&R Creative Studios に最初に表示されました。",
+          "link": "https://3d.crdg.jp/env/2026/11/09/10804/?utm_source=rss&utm_medium=rss&utm_campaign=%25e3%2580%2590excel%25e3%2580%2591%25e5%25b7%25a5%25e6%2595%25b0%25e8%25a6%258b%25e7%25a9%258d",
+          "publishedOn": "2026-11-09T13:11:00.000Z",
+          "wordCount": 3170,
+          "title": "【Excel】工数見積",
+          "imageUrl": "https://3d.crdg.jp/env/wp-content/uploads/2026/11/thumbnail_template_261109@.jpg"
+        },
+        {
           "id": "https://3d.crdg.jp/env/?p=10785",
           "author": "Erika.Yamanaka",
           "description": "Substance Designerでは白黒の階調が形や質感の情報になります。特にHeightやAO、Roughnessは階調によって見た目が大きく変 […]\n続きを読む\n投稿 【Substance Designer】階調(白黒)を調整するノード集 は エンホリ - ENVIRONMENT HOLIC｜C&R Creative Studios に最初に表示されました。",
@@ -3254,6 +3324,36 @@
       "feedUrl": "https://cginterest.com/feed/",
       "siteUrl": "https://cginterest.com",
       "articles": [
+        {
+          "id": "https://cginterest.com/?p=66547",
+          "author": ".me",
+          "description": "2026年10月28日（現地時間）- 空間AIの研究所Speridlabsは、1枚の画像から3Dガウシアンスプラットを生成するAIモデル「Idol」を、Apache-2.0ライセンスで公開しました。 Idol とは 3D […]",
+          "link": "https://cginterest.com/2026/11/09/idol/",
+          "publishedOn": "2026-11-09T10:31:08.000Z",
+          "wordCount": 658,
+          "title": "画像1枚から3Dガウシアンスプラットを生成する「Idol」が公開！最大約105万個のガウシアン、VRAM 7.2GBで動作",
+          "enclosure": {
+            "url": "https://cginterest.com/wp-content/uploads/2026/11/idol-cutout.mp4",
+            "length": "374166",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://cginterest.com/wp-content/uploads/2026/11/idol-eyecatch.webp"
+        },
+        {
+          "id": "https://cginterest.com/?p=66508",
+          "author": ".me",
+          "description": "無料で使えるCG制作のツールやアドオンをまとめて紹介する「無料のCGツール・アドオン新着まとめ」の第1弾です。 今回は、10月中旬から11月上旬にかけて公開・更新された、無料で使えるCG制作のツールやアドオンをまとめて紹 […]",
+          "link": "https://cginterest.com/2026/11/09/cg-tools-roundup-2026-11-09/",
+          "publishedOn": "2026-11-09T08:11:18.000Z",
+          "wordCount": 648,
+          "title": "無料のCGツール・アドオン新着まとめ（2026年11月9日）：Ucupaint 3.0、図面アドオンIchno、スカルプトソフトSculptForgeなど10本",
+          "enclosure": {
+            "url": "https://cginterest.com/wp-content/uploads/2026/11/Sculptforge.mp4",
+            "length": "327297",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://cginterest.com/wp-content/uploads/2026/11/cg-tools-roundup-2026-11-09-eyecatch.webp"
+        },
         {
           "id": "https://cginterest.com/?p=66482",
           "author": ".me",

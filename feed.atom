@@ -2,10 +2,137 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-11-08T14:38:02.731Z</updated>
+    <updated>2026-11-09T03:37:18.341Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Python製トランスパイラーtranpでマテリアル関数を作る #5]]></title>
+        <id>https://qiita.com/rog-works/items/8632674370951052a645</id>
+        <link href="https://qiita.com/rog-works/items/8632674370951052a645"/>
+        <updated>2026-11-09T03:04:58.000Z</updated>
+        <summary type="html"><![CDATA[概要
+tranp紹介記事、第6弾「マテリアル関数を作る #5」です
+今回は、前回公開したプラグインの実装を例に、UEのC++開発環境へのトランスパイルに関して基礎的な解説を主に行い、最後にマテリアル関数の仕様面に関して少し触れたいと思います
+
+初読者に対して
+tranpは...]]></summary>
+        <author>
+            <name>Shaderタグが付けられた新着記事 - Qiita</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Towards Better User Studies in Computer Graphics and Vision(2023)]]></title>
+        <id>https://qiita.com/matumu20/items/1dc4ab0760aa3307ea61</id>
+        <link href="https://qiita.com/matumu20/items/1dc4ab0760aa3307ea61"/>
+        <updated>2026-11-09T02:37:43.000Z</updated>
+        <summary type="html"><![CDATA[Towards Better User Studies in Computer Graphics and Vision(Adobe Research & University of Washington, 2023)
+
+3行要約
+
+本稿は、コンピュータグラフィックスおよ...]]></summary>
+        <author>
+            <name>3DCGタグが付けられた新着記事 - Qiita</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chrome 157 HTML-in-CanvasをWebGLで検証する：縦書きテキストをシェーダーで歪ませても選択・検索が効くのか]]></title>
+        <id>https://zenn.dev/antymark/articles/cffbe532c0b9c5</id>
+        <link href="https://zenn.dev/antymark/articles/cffbe532c0b9c5"/>
+        <updated>2026-11-09T01:50:51.000Z</updated>
+        <summary type="html"><![CDATA[はじめに
+2026年11月3日に安定版が出たChrome 157で、HTML-in-Canvas APIが正式に搭載されました。CSSでレイアウトしたDOMサブツリーを、2D canvasの描画要素またはWebGL/WebGPUのテクスチャとして使えるAPIです。
+「HTMLをテクスチャにする」だけならhtml2canvasなどで以前から可能でした。このAPIの新しさは、テクスチャになった後もDOMとしての機能（テキスト選択、ページ内検索、翻訳、アクセシビリティツリー、DevTools）が生きていると公式が主張している点にあります。
+本当にそうなのかを、素のWebGL2で最小実装を書...]]></summary>
+        <author>
+            <name>antymark</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「映像をつくりたい」が研究の原動力。ACM SIGGRAPH Academyに選出された安生健一氏が語る、表現を支える技術と仲間 - 特集]]></title>
+        <id>https://cgworld.jp/article/202611-anjyo.html</id>
+        <link href="https://cgworld.jp/article/202611-anjyo.html"/>
+        <updated>2026-11-09T01:00:00.000Z</updated>
+        <summary type="html"><![CDATA[映像制作の現場で研究する人間が、Academyに入る意義 CGWORLD（以下...]]></summary>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The 2D Artist’s 3D Kit – UV展開やマテリアル設定を自動化！Blenderで3Dモデルを用意したらすぐにペイント出来る無料アドオン]]></title>
+        <id>https://modelinghappy.com/?p=71436</id>
+        <link href="https://modelinghappy.com/archives/71436"/>
+        <updated>2026-11-09T00:26:13.000Z</updated>
+        <summary type="html"><![CDATA[The 2D Artist#8217;s 3D Kit The 2D Artist#8217;s 3D Kitは、Noggiさんが公開した、Blender用のテクスチャペイントアドオンです。 UV展開やテクスチャ、マ
+The post The 2D Artist’s 3D Kit – UV展開やマテリアル設定を自動化！Blenderで3Dモデルを用意したらすぐにペイント出来る無料アドオン first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
+        <author>
+            <name>modelinghappy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[INKit ― iPadからBlenderの画面に直接描き込み！修正メモやデザイン案を残せるアドオン]]></title>
+        <id>https://modelinghappy.com/?p=71430</id>
+        <link href="https://modelinghappy.com/archives/71430"/>
+        <updated>2026-11-08T23:44:44.000Z</updated>
+        <summary type="html"><![CDATA[INKit INKitは、便利なモデリングアドオンを多数開発しているMACHIN3さんが公開した、iPadやAndroidタブレットからBlenderの3Dビューにメモやスケッチを描き込めるアドオンです。 Apple P
+The post INKit ― iPadからBlenderの画面に直接描き込み！修正メモやデザイン案を残せるアドオン first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
+        <author>
+            <name>modelinghappy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HairMesh for Blender ― カーブを描いてアニメ調の髪を作成！四角形メッシュへ変換できる無料アドオン]]></title>
+        <id>https://modelinghappy.com/?p=71427</id>
+        <link href="https://modelinghappy.com/archives/71427"/>
+        <updated>2026-11-08T23:30:21.000Z</updated>
+        <summary type="html"><![CDATA[HairMesh for Blender HairMesh for Blenderは、Rielさんが公開した、Blenderでアニメ調、スタイライズドな髪を作成できる無料アドオンです。cataracktaさんによる「St
+The post HairMesh for Blender ― カーブを描いてアニメ調の髪を作成！四角形メッシュへ変換できる無料アドオン first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
+        <author>
+            <name>modelinghappy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[オートデスク、2027年度版「デザインと創造の業界動向調査」公開　M&Eを含む各業界のAI活用、制作コスト、技術人材の動向を分析 - ニュース]]></title>
+        <id>https://cgworld.jp/flashnews/01-202611-Autodesk-Report.html</id>
+        <link href="https://cgworld.jp/flashnews/01-202611-Autodesk-Report.html"/>
+        <updated>2026-11-08T23:04:49.000Z</updated>
+        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[フォトグラメトリ数学｜68：残差とは何か～再投影誤差と観測の信頼性～]]></title>
+        <id>https://zenn.dev/s_hashida/articles/17672f06a7a40c</id>
+        <link href="https://zenn.dev/s_hashida/articles/17672f06a7a40c"/>
+        <updated>2026-11-08T21:57:05.000Z</updated>
+        <summary type="html"><![CDATA[はじめに
+前回は、
+
+観測数と未知数の関係
+観測の冗長性とは何か
+最小二乗法と冗長性
+観測数と推定精度
+観測の幾何的な条件
+残差と誤差の検出
+フォトグラメトリにおける冗長性
+
+について説明しました。
+
+その中で重要だったのが、
+
+r=m-p
+
+という関係です。
+これは、観測数を m、未知数の数を p とし、観測方程式のJacobianが列フルランクである場合に、残差の自由度を表す式です。
+観測に冗長性が存在すると、複数の観測を利用して未知数を推定できるだけでなく、観測間の整合性を確認することもできます。
+
+しかし、ここで新たな疑問があります。
+例えば、ある3次元点を5枚の画像から計...]]></summary>
+        <author>
+            <name>s_hashida</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Lanternで重力をひとつだけ置く — Wickで回る船と、軌道という法則]]></title>
         <id>https://qiita.com/albertn/items/39d090fa8f1d33c66260</id>
@@ -3861,80 +3988,6 @@ CPUとGPUはどうやってやり取りしているのか
 Intel と NVIDIA、Appl...]]></summary>
         <author>
             <name>グラフィックスタグが付けられた新着記事 - Qiita</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Blender、今後2年の開発方針を公開 ― 小規模スタジオで長編アニメを作れるツールへ、6つの重点分野]]></title>
-        <id>https://cginterest.com/?p=63152</id>
-        <link href="https://cginterest.com/2026/10/10/blender%e3%80%81%e4%bb%8a%e5%be%8c2%e5%b9%b4%e3%81%ae%e9%96%8b%e7%99%ba%e6%96%b9%e9%87%9d%e3%82%92%e5%85%ac%e9%96%8b-%e2%80%95-%e5%b0%8f%e8%a6%8f%e6%a8%a1%e3%82%b9%e3%82%bf%e3%82%b8%e3%82%aa%e3%81%a7/"/>
-        <updated>2026-10-10T09:13:00.000Z</updated>
-        <summary type="html"><![CDATA[2026年9月10日（現地時間）- Blenderの開発ブログ「code.blender.org」で、今後2年間の開発方針を示す記事「Small Teams, Ambitious Projects」が公開されました。 今 […]]]></summary>
-        <author>
-            <name>.me</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Houdini探検記録]]></title>
-        <id>https://note.com/tateishikamo/n/n8830e2ed4eff</id>
-        <link href="https://note.com/tateishikamo/n/n8830e2ed4eff"/>
-        <updated>2026-10-10T06:03:36.000Z</updated>
-        <summary type="html"><![CDATA[Houdini頭悪い。
-IQ20～30離れてると会話できないってよく聞くけど、
-続きをみる]]></summary>
-        <author>
-            <name>#Houdiniタグ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[INSYDIUM、NeXus 2026.1 Beta を公開！Cinema 4D と Blender で同じエンジンに、新ソルバー nxMPM と nxOcean も]]></title>
-        <id>https://cginterest.com/?p=63107</id>
-        <link href="https://cginterest.com/2026/10/10/insydium%e3%80%81nexus-2026-1-beta-%e3%82%92%e5%85%ac%e9%96%8b%ef%bc%81cinema-4d-%e3%81%a8-blender-%e3%81%a7%e5%90%8c%e3%81%98%e3%82%a8%e3%83%b3%e3%82%b8%e3%83%b3%e3%81%ab%e3%80%81%e6%96%b0%e3%82%bd/"/>
-        <updated>2026-10-10T05:02:00.000Z</updated>
-        <summary type="html"><![CDATA[2026年10月1日（現地時間）- INSYDIUMは、Cinema 4DとBlenderで使えるGPUパーティクル・シミュレーションシステム「NeXus」の次期版、NeXus 2026.1のベータ版を公開しました。10 […]]]></summary>
-        <author>
-            <name>.me</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Unity、自動車HMIのテンプレートを公開！Raspberry Pi 5で最大60fps、メーターやADAS画面、走行シミュレーションを収録]]></title>
-        <id>https://cginterest.com/?p=63108</id>
-        <link href="https://cginterest.com/2026/10/10/unity%e3%80%81%e8%87%aa%e5%8b%95%e8%bb%8ahmi%e3%81%ae%e3%83%86%e3%83%b3%e3%83%97%e3%83%ac%e3%83%bc%e3%83%88%e3%82%92%e5%85%ac%e9%96%8b%ef%bc%81raspberry-pi-5%e3%81%a7%e6%9c%80%e5%a4%a760fps%e3%80%81/"/>
-        <updated>2026-10-10T04:54:44.000Z</updated>
-        <summary type="html"><![CDATA[2026年10月6日（現地時間）- Unity Technologiesは、産業向けの製品群「Unity Industry」で使える、自動車のHMI（ヒューマン・マシン・インターフェース）のテンプレートを公開しました。U […]]]></summary>
-        <author>
-            <name>.me</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[パソコン工房「超 ハロウィンセール」が開催！クリエイター向けパソコンとPCパーツをピックアップ]]></title>
-        <id>https://cginterest.com/?p=63127</id>
-        <link href="https://cginterest.com/2026/10/10/%e3%83%91%e3%82%bd%e3%82%b3%e3%83%b3%e5%b7%a5%e6%88%bf%e3%80%8c%e8%b6%85-%e3%83%8f%e3%83%ad%e3%82%a6%e3%82%a3%e3%83%b3%e3%82%bb%e3%83%bc%e3%83%ab%e3%80%8d%e3%81%8c%e9%96%8b%e5%82%ac%ef%bc%81%e3%82%af/"/>
-        <updated>2026-10-10T03:54:00.000Z</updated>
-        <summary type="html"><![CDATA[全国のパソコン工房・グッドウィルの店舗とWEBサイトで、「超 ハロウィンセール」が開催されています。BTOパソコンは10月30日（金）まで、自作PCパーツ・周辺機器は10月16日（金）までのセールです。 この記事では、セ […]]]></summary>
-        <author>
-            <name>.me</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Matelumeー用意した画像をベースに布の織り目や刺繍、大理石・絵画などの質感を作成できるソフト]]></title>
-        <id>https://modelinghappy.com/?p=70933</id>
-        <link href="https://modelinghappy.com/archives/70933"/>
-        <updated>2026-10-10T03:53:08.000Z</updated>
-        <summary type="html"><![CDATA[matelume Matelumeは、スキャン画像や柄のデザインなどの平面画像から、布、壁掛けアート、大理石、木材のPBRマテリアルを作成できるWindows用ソフトです。画像を読み込み、素材の種類や凹凸、表面の仕上がり
-The post Matelumeー用意した画像をベースに布の織り目や刺繍、大理石・絵画などの質感を作成できるソフト first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
-        <author>
-            <name>modelinghappy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Polycop Lite ー Nゴンや二重押し出しをワンクリックで検出・作業中にリアルタイムで確認できるMaya用無料ツール]]></title>
-        <id>https://modelinghappy.com/?p=70928</id>
-        <link href="https://modelinghappy.com/archives/70928"/>
-        <updated>2026-10-10T02:43:14.000Z</updated>
-        <summary type="html"><![CDATA[Polycop Liteは、Mesh Labzが公開している、Mayaでモデルのトポロジーをチェックできる無料プラグインです。 Nゴンや二重押し出し、ノンマニフォールド形状を検出し、該当する面・頂点・エッジを選択して、修
-The post Polycop Lite ー Nゴンや二重押し出しをワンクリックで検出・作業中にリアルタイムで確認できるMaya用無料ツール first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
-        <author>
-            <name>modelinghappy</name>
         </author>
     </entry>
 </feed>

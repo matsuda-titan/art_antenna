@@ -717,6 +717,16 @@
       "siteUrl": "https://cgworld.jp/",
       "articles": [
         {
+          "id": "https://cgworld.jp/flashnews/1216.html",
+          "author": null,
+          "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
+          "link": "https://cgworld.jp/flashnews/1216.html",
+          "publishedOn": "2026-11-10T10:52:52.000Z",
+          "wordCount": 753,
+          "title": "【新講座】ゴシック建築と中世の城を\"構造と工程\"から読み解くオンライン講座『背景アーティストのための中世建築学』が12/16(水)に開催 - ニュース",
+          "imageUrl": "https://cgworld.jp/flashnews/assets_c/2026/11/347_seminar_architecture-thumb-1920x1080-90995.jpg"
+        },
+        {
           "id": "https://cgworld.jp/article/2610-dinosaur.html",
           "author": null,
           "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
@@ -1285,16 +1295,6 @@
           "wordCount": 775,
           "title": "セガ、「SEGA TECH BLOG」をリニューアル　ゲームエンジン、モーション制作、開発自動化などの技術情報を発信 - ニュース",
           "imageUrl": "https://cgworld.jp/flashnews/assets_c/2026/10/SegaTechBlog-01-thumb-1920x1081-89772.jpg"
-        },
-        {
-          "id": "https://cgworld.jp/flashnews/01-202610-HoudiniLOPS.html",
-          "author": null,
-          "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
-          "link": "https://cgworld.jp/flashnews/01-202610-HoudiniLOPS.html",
-          "publishedOn": "2026-10-11T23:05:32.000Z",
-          "wordCount": 842,
-          "title": "the point and prim、チュートリアル動画「Houdini Transform pieces but its LOPS」公開　定番RBDシミュレーションをLOPとUSDで効率化 - ニュース",
-          "imageUrl": "https://cgworld.jp/flashnews/assets_c/2026/10/HoudiniLOPS-01-thumb-1920x1080-89725.jpg"
         }
       ]
     },
@@ -1859,21 +1859,6 @@
             "type": "false"
           },
           "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--5SQ3RT9i--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%2596%25E3%2583%25A9%25E3%2582%25A6%25E3%2582%25B6%25E3%2581%25A74%25E6%25AC%25A1%25E5%2585%2583%25E3%2582%2592%25E6%258F%258F%25E3%2581%258F%25E3%2581%25BE%25E3%2581%25A7%2520%25E2%2580%2594%2520%25E5%259B%259E%25E8%25BB%25A2%25E3%2581%25A8%25E7%25AB%258B%25E4%25BD%2593%25E5%25B0%2584%25E5%25BD%25B1%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Hiroki%2520Urabe%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzUxZjRmYzZlMDAuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
-        },
-        {
-          "id": "https://zenn.dev/rog_works/articles/bc8c0ff0fef8d0",
-          "author": "rog-works",
-          "description": "概要\ntranpの紹介記事、第2弾です\n今回はUnreal Engineのマテリアル関数を題材として、tranpの応用例を紹介していきます\n前回の記事を前提にしているので、不明な点があればご一読お願いします\n\n リンク\n\n前回: Python製トランスパイラー(tranp)の紹介\n\n\n\n 参考画像\n以下は、所謂ディゾルブエフェクトです。全てtranpから作成しています\nマテリアルパラメーターを変更すれば消失割合、グラデーションの色・範囲など調整可能です\nUI用のマテリアルなので2Dですが、3Dにも応用できます\nこのようなマテリアルの作成を目標として解説していきます\n\n※UE5.8のス...",
-          "link": "https://zenn.dev/rog_works/articles/bc8c0ff0fef8d0",
-          "publishedOn": "2026-10-12T02:39:45.000Z",
-          "wordCount": 1424,
-          "title": "tranpでUnreal Engineのマテリアル関数を作成(#1)",
-          "enclosure": {
-            "url": "https://res.cloudinary.com/zenn/image/upload/s--bw17XCP7--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:tranp%25E3%2581%25A7Unreal%2520Engine%25E3%2581%25AE%25E3%2583%259E%25E3%2583%2586%25E3%2583%25AA%25E3%2582%25A2%25E3%2583%25AB%25E9%2596%25A2%25E6%2595%25B0%25E3%2582%2592%25E4%25BD%259C%25E6%2588%2590%2528%25231%2529%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:rog-works%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzE0OWRhNTVjNzUuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
-            "length": "0",
-            "type": "false"
-          },
-          "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--bw17XCP7--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:tranp%25E3%2581%25A7Unreal%2520Engine%25E3%2581%25AE%25E3%2583%259E%25E3%2583%2586%25E3%2583%25AA%25E3%2582%25A2%25E3%2583%25AB%25E9%2596%25A2%25E6%2595%25B0%25E3%2582%2592%25E4%25BD%259C%25E6%2588%2590%2528%25231%2529%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:rog-works%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzE0OWRhNTVjNzUuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
         }
       ]
     },
@@ -2394,21 +2379,6 @@
             "type": "false"
           },
           "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--F4bf5Goq--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E5%2595%2586%25E5%2593%2581%25E3%2581%25AE%25203D%2520%25E3%2581%258B%25E3%2582%2589%2520AI%2520%25E3%2581%25AB%25E5%2595%2586%25E5%2593%2581%25E5%258B%2595%25E7%2594%25BB%25E3%2582%2592%25E4%25BD%259C%25E3%2582%2589%25E3%2581%259B%25E3%2582%258B%25EF%25BC%259A5%2520%25E7%25A7%2592%25E3%2581%25A0%25E3%2581%2584%25E3%2581%259F%25E3%2581%2584%252060%2520%25E5%2586%2586%25E3%2580%2581GPU%2520%25E3%2581%25AF%25E4%25BD%25BF%25E3%2581%25A3%25E3%2581%259F%25E5%2588%2586%25E3%2581%25A0%25E3%2581%2591%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:render.janction.jp%2Cx_90%2Cy_121/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
-        },
-        {
-          "id": "https://zenn.dev/s_hashida/articles/5f09a2aa940bd5",
-          "author": "s_hashida",
-          "description": "はじめに\n前回は、\n\n分散とは何か\n共分散とは何か\n共分散行列とは何か\n共分散はどのように伝播するのか\nJacobianと共分散行列の関係\n\nについて説明しました。\n\nその中で重要だったのが、\n\n\\Sigma_y\n\\approx\nJ\n\\Sigma_x\nJ^T\n\nという関係です。\nこれは、\n入力側の誤差のばらつきや相互関係が、Jacobianを通して出力側へどのように伝わるのか\nを表しています。\n\n例えば、フォトグラメトリによって求められた3次元座標、\n\n(X,Y,Z)\n\nについて、\n\n\\Sigma_{XYZ}\n=\n\\begin{bmatrix}\n\\sigma_X^2\n&\n\\...",
-          "link": "https://zenn.dev/s_hashida/articles/5f09a2aa940bd5",
-          "publishedOn": "2026-10-11T22:05:05.000Z",
-          "wordCount": 2078,
-          "title": "フォトグラメトリ数学｜61：誤差楕円・誤差楕円体とは何か",
-          "enclosure": {
-            "url": "https://res.cloudinary.com/zenn/image/upload/s--iKP8Xmp5--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%2595%25E3%2582%25A9%25E3%2583%2588%25E3%2582%25B0%25E3%2583%25A9%25E3%2583%25A1%25E3%2583%2588%25E3%2583%25AA%25E6%2595%25B0%25E5%25AD%25A6%25EF%25BD%259C61%25EF%25BC%259A%25E8%25AA%25A4%25E5%25B7%25AE%25E6%25A5%2595%25E5%2586%2586%25E3%2583%25BB%25E8%25AA%25A4%25E5%25B7%25AE%25E6%25A5%2595%25E5%2586%2586%25E4%25BD%2593%25E3%2581%25A8%25E3%2581%25AF%25E4%25BD%2595%25E3%2581%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:s_hashida%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2QwNzQxMzlkMjguanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
-            "length": "0",
-            "type": "false"
-          },
-          "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--iKP8Xmp5--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%2595%25E3%2582%25A9%25E3%2583%2588%25E3%2582%25B0%25E3%2583%25A9%25E3%2583%25A1%25E3%2583%2588%25E3%2583%25AA%25E6%2595%25B0%25E5%25AD%25A6%25EF%25BD%259C61%25EF%25BC%259A%25E8%25AA%25A4%25E5%25B7%25AE%25E6%25A5%2595%25E5%2586%2586%25E3%2583%25BB%25E8%25AA%25A4%25E5%25B7%25AE%25E6%25A5%2595%25E5%2586%2586%25E4%25BD%2593%25E3%2581%25A8%25E3%2581%25AF%25E4%25BD%2595%25E3%2581%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:s_hashida%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2QwNzQxMzlkMjguanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
         }
       ]
     },
@@ -2486,6 +2456,16 @@
       "feedUrl": "https://qiita.com/tags/3dcg/feed",
       "siteUrl": "https://qiita.com",
       "articles": [
+        {
+          "id": "https://qiita.com/Martina_1230/items/a8f00a3625483436ae13",
+          "author": null,
+          "description": "“Make the bridge cables thicker” sounds like a small request. It still leaves the editing scope open. Which cables? Which spans? Should t...",
+          "link": "https://qiita.com/Martina_1230/items/a8f00a3625483436ae13",
+          "publishedOn": "2026-11-10T06:40:08.000Z",
+          "wordCount": 2756,
+          "title": "Change the Cables, Keep the Towers: Scoping a 3D Asset Edit",
+          "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRmxoMy5nb29nbGV1c2VyY29udGVudC5jb20lMkZhJTJGQUNnOG9jS3g5azBuQ3VWWTd6UEpldmJWdjRHZzcwWjNTT21hQW1uSjhoUkdWVmJMYUdJd2dnJTNEczk2LWM_aXhsaWI9cmItNC4xLjEmYXI9MSUzQTEmZml0PWNyb3AmbWFzaz1lbGxpcHNlJmJnPUZGRkZGRiZmbT1wbmczMiZzPWQxMzcwNjRmYmVhMmU1MzNiZDQxYWE0OTc0ZGJmZWUx%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D397dbd01db86b7c2fa00619e9879086c?ixlib=rb-4.1.1&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9Q2hhbmdlJTIwdGhlJTIwQ2FibGVzJTJDJTIwS2VlcCUyMHRoZSUyMFRvd2VycyUzQSUyMFNjb3BpbmclMjBhJTIwM0QlMjBBc3NldCUyMEVkaXQmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz1mOTJlMmFmYjcxNjBjYTI0YzhjM2IyNGFiNTQ2OWJjNA&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBNYXJ0aW5hXzEyMzAmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz01ZGYyZWM3ZjQ3ZmMzYzU5NjE3YTVjMmNlZjViOTc3YQ&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=eb6867b9926040df9f0958fed981cb63"
+        },
         {
           "id": "https://qiita.com/albertn/items/24348f7c2a916342022c",
           "author": null,
@@ -2660,16 +2640,6 @@
           "wordCount": 2145,
           "title": "Python製トランスパイラー(tranp)でマテリアル関数(UE5)を作る #2",
           "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnFpaXRhLWltYWdlLXN0b3JlLnMzLmFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkYwJTJGMTc5NzkxJTJGcHJvZmlsZS1pbWFnZXMlMkYxNzkxOTcyMDE1P2l4bGliPXJiLTQuMS4xJmFyPTElM0ExJmZpdD1jcm9wJm1hc2s9ZWxsaXBzZSZiZz1GRkZGRkYmZm09cG5nMzImcz1hMjc4MTk2NDVmM2ZlYTY3MzEwZjZhZjgwN2M3NWIyZg%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3Df1e8b66b3c577665a80be15459622612?ixlib=rb-4.1.1&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9UHl0aG9uJUU4JUEzJUJEJUUzJTgzJTg4JUUzJTgzJUE5JUUzJTgzJUIzJUUzJTgyJUI5JUUzJTgzJTkxJUUzJTgyJUE0JUUzJTgzJUE5JUUzJTgzJUJDJTI4dHJhbnAlMjklRTMlODElQTclRTMlODMlOUUlRTMlODMlODYlRTMlODMlQUElRTMlODIlQTIlRTMlODMlQUIlRTklOTYlQTIlRTYlOTUlQjAlMjhVRTUlMjklRTMlODIlOTIlRTQlQkQlOUMlRTMlODIlOEIlMjAlMjMyJnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9ZTM0ZDliMWQwNTViYTlkNzA1ZDRjMWFlOTQ4YTMzOTE&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDByb2ctd29ya3MmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz1lYjc5YmFiZDNhOGZkOTA2MjliMjIwNDZmYzAzNmQ4Ng&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=6806fc6433406858b544740dd31e515c"
-        },
-        {
-          "id": "https://qiita.com/rog-works/items/d60fa4f7a01d144f2784",
-          "author": null,
-          "description": "概要\ntranpの紹介記事、第2弾です\n今回はUnreal Engineのマテリアル関数を題材として、tranpの応用例を紹介していきます\n前回の記事を前提にしているので、不明な点があればご一読お願いします\n\nリンク\n\n前回: Python製トランスパイラー(tranp)...",
-          "link": "https://qiita.com/rog-works/items/d60fa4f7a01d144f2784",
-          "publishedOn": "2026-10-12T02:44:41.000Z",
-          "wordCount": 1619,
-          "title": "tranpでUnreal Engineのマテリアル関数を作成(#1)",
-          "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRmF2YXRhcnMyLmdpdGh1YnVzZXJjb250ZW50LmNvbSUyRnUlMkYxMDc4MTUzNSUzRnYlM0QzP2l4bGliPXJiLTQuMS4xJmFyPTElM0ExJmZpdD1jcm9wJm1hc2s9ZWxsaXBzZSZiZz1GRkZGRkYmZm09cG5nMzImcz00M2E1YjRkOTEwZTIzN2M0NzU5NTM4ZGExY2VlZjUyMg%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3Dcdd97f144634b50988a495af721e8d90?ixlib=rb-4.1.1&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9dHJhbnAlRTMlODElQTdVbnJlYWwlMjBFbmdpbmUlRTMlODElQUUlRTMlODMlOUUlRTMlODMlODYlRTMlODMlQUElRTMlODIlQTIlRTMlODMlQUIlRTklOTYlQTIlRTYlOTUlQjAlRTMlODIlOTIlRTQlQkQlOUMlRTYlODglOTAlMjglMjMxJTI5JnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9ZGZjM2Y2MzdmMjMzMTM0YmVkYTNhNmRkZWI4NjRlOWU&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDByb2ctd29ya3MmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz1lYjc5YmFiZDNhOGZkOTA2MjliMjIwNDZmYzAzNmQ4Ng&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=066a8c47487cff762c6bac24c06b0eca"
         }
       ]
     },

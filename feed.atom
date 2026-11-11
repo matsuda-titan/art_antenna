@@ -2,10 +2,154 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-11-11T03:42:31.384Z</updated>
+    <updated>2026-11-11T15:41:45.700Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【Substance Designer】BlurとBlur HQの違いと使い分けについて]]></title>
+        <id>https://3d.crdg.jp/env/?p=10814</id>
+        <link href="https://3d.crdg.jp/env/2026/11/11/10814/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=%25e3%2580%2590substance-designer%25e3%2580%2591blur%25e3%2581%25a8blur-hq%25e3%2581%25ae%25e9%2581%2595%25e3%2581%2584"/>
+        <updated>2026-11-11T14:32:53.000Z</updated>
+        <summary type="html"><![CDATA[どちらもぼかしをかけるノードです。名前と役割が似ている2つのノードについて、改めて違いを確認してみました！ Blur HQ (ハイクオリティ)のメリッ […]
+続きを読む
+投稿 【Substance Designer】BlurとBlur HQの違いと使い分けについて は エンホリ - ENVIRONMENT HOLIC｜C&R Creative Studios に最初に表示されました。]]></summary>
+        <author>
+            <name>Hisako.Nishimura</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Blender 5.3 のガラスの Dispersion を、手元に GPU なしで AI エージェントから描いた]]></title>
+        <id>https://zenn.dev/renderjanction/articles/e70224ae4cd34d</id>
+        <link href="https://zenn.dev/renderjanction/articles/e70224ae4cd34d"/>
+        <updated>2026-11-11T12:03:31.000Z</updated>
+        <summary type="html"><![CDATA[https://render.janction.jp
+Blender 5.3 が出たので、今日から JANCTION Render のクラウドの GPU でも 5.3 で描けるようにしました。5.3 で描いたと一目で分かる絵を 1 枚作りたくて、光を虹色に分けるガラスの宝石を、AI エージェントから MCP 経由で描きました。途中で 2 回失敗したので、その記録と、かかった時間と料金を残します。
+
+
+ 使ったもの
+
+エージェントに JANCTION Render を MCP でつないだだけです（接続先 https://render.janction.jp/mcp）
+手元には Blende...]]></summary>
+        <author>
+            <name>render.janction.jp</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【Unity URP】モンスターの咆哮エフェクトを作る！極座標（atan2）の切れ目解消と3D座標追従の数学]]></title>
+        <id>https://qiita.com/YYYGame/items/a1a4f0091acd106019c8</id>
+        <link href="https://qiita.com/YYYGame/items/a1a4f0091acd106019c8"/>
+        <updated>2026-11-11T10:59:06.000Z</updated>
+        <summary type="html"><![CDATA[アクションゲームでモンスターが咆哮した際や大爆発が起きた際、「ボスの口元を中心に空間が集中線状に歪む演出」を入れると画面の迫力が一気に跳ね上がります。
+しかし、いざシェーダー（HLSL）で中心からの角度（atan2）を使って放射状のノイズを作ろうとすると、以下の3つの罠にハ...]]></summary>
+        <author>
+            <name>HLSLタグが付けられた新着記事 - Qiita</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ソニー、6インチの小型空間再現ディスプレイ「ELF-MN1」を発売。裸眼で立体映像を楽しめる - ニュース]]></title>
+        <id>https://cgworld.jp/flashnews/02-2611-xyn--elf-mn1.html</id>
+        <link href="https://cgworld.jp/flashnews/02-2611-xyn--elf-mn1.html"/>
+        <updated>2026-11-11T10:00:24.000Z</updated>
+        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Generation Route Belongs in Your 3D Asset Record]]></title>
+        <id>https://qiita.com/Martina_1230/items/acc4631ec1ec7e25ff2c</id>
+        <link href="https://qiita.com/Martina_1230/items/acc4631ec1ec7e25ff2c"/>
+        <updated>2026-11-11T08:48:50.000Z</updated>
+        <summary type="html"><![CDATA[An image-to-3D request may return no recoverable model, while a later modeling approach may still produce a useful asset. The two routes ...]]></summary>
+        <author>
+            <name>3DCGタグが付けられた新着記事 - Qiita</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[three.jsで地球のそばから250万光年先までを1つのシーンで飛ぶ（対数深度・浮動原点・距離で変わる速度）]]></title>
+        <id>https://zenn.dev/kmkjsky/articles/c34472747a2ebf</id>
+        <link href="https://zenn.dev/kmkjsky/articles/c34472747a2ebf"/>
+        <updated>2026-11-11T07:20:47.000Z</updated>
+        <summary type="html"><![CDATA[はじめに
+韓国で個人開発をしている者です。ブラウザで地球を出発し、太陽系の惑星、近くの恒星、天の川銀河の外、アンドロメダ銀河まで飛んでいける3Dサイトを作りました。three.js 0.170.0 と Vite 6.4.5 で作り、Vercel に置いています。実装は Claude Code と対話しながら進めました。
+https://howsmallarewe.com/ja/?utm_source=zenn
+宇宙をそのままの縮尺で1つのシーンに入れようとすると、まず数値の桁が問題になります。カメラの near は 0.5 km、far は 10²¹ km にしていて、いちばん遠い目...]]></summary>
+        <author>
+            <name>kmkjsky</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HYG星表の約11万個の星をthree.jsで実際の3D位置に置き、見かけの明るさをGPUで毎フレーム計算する]]></title>
+        <id>https://qiita.com/kmkjsky/items/7c21b7765a94f6231c97</id>
+        <link href="https://qiita.com/kmkjsky/items/7c21b7765a94f6231c97"/>
+        <updated>2026-11-11T07:15:54.000Z</updated>
+        <summary type="html"><![CDATA[はじめに
+韓国で個人開発をしている者です。ブラウザの中で地球を出発し、太陽系の惑星や近くの恒星、天の川銀河の外まで飛んでいける3Dサイトを作りました。three.js と Vite で作り、Vercel に置いています。日本語版はこちらです。
+
+実装は Claude ...]]></summary>
+        <author>
+            <name>GLSLタグが付けられた新着記事 - Qiita</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Define What Must Stay: Scoping a Local 3D Scene Edit]]></title>
+        <id>https://zenn.dev/martina/articles/f4051d18c25b0b</id>
+        <link href="https://zenn.dev/martina/articles/f4051d18c25b0b"/>
+        <updated>2026-11-11T07:14:10.000Z</updated>
+        <summary type="html"><![CDATA[“Make the central landmark taller” leaves several decisions open. Should the upper section grow while the podium stays fixed? Can its footprint change? Should the surrounding roads and buildings remain untouched?
+For an existing scene, define the editable region and the limits of the change befor...]]></summary>
+        <author>
+            <name>Martina</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unreal Engine 5.9 MegaJam Preview が公開！Unreal MCPの強化、生成AIの作業場「Unreal Canvas」、シーケンサーでのAIアニメーション生成など]]></title>
+        <id>https://cginterest.com/?p=67032</id>
+        <link href="https://cginterest.com/2026/11/11/unreal-engine-5-9-preview/"/>
+        <updated>2026-11-11T05:45:52.000Z</updated>
+        <summary type="html"><![CDATA[2026年11月9日（現地時間）- Epic Gamesは、ゲームエンジン「Unreal Engine」の次のバージョンを先行して試せる「Unreal Engine 5.9 MegaJam Preview」を公開しました […]]]></summary>
+        <author>
+            <name>.me</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【DirectX11】【HLSL】カードを3Dで表示しよう]]></title>
+        <id>https://qiita.com/tsukino_/items/e0e65056e7f3dc7e8af1</id>
+        <link href="https://qiita.com/tsukino_/items/e0e65056e7f3dc7e8af1"/>
+        <updated>2026-11-11T04:46:56.000Z</updated>
+        <summary type="html"><![CDATA[3Dカードゲームのカードは、一見すると四角い画像を1枚貼るだけで済みそうに見えます。
+ところが、手札を扇状に開く、ドラッグ中に傾ける、裏返して年号を見せるといった動きを入れようとすると、画面に正対したスプライトでは足りなくなります。
+本記事では、歴史カードを年代順に並べるゲ...]]></summary>
+        <author>
+            <name>HLSLタグが付けられた新着記事 - Qiita</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【アドオン紹介】Sculpt Join – 複数メッシュを一時的にまとめてスカルプトやポーズ調整できる無料アドオン！]]></title>
+        <id>https://cgbox.jp/?p=65937</id>
+        <link href="https://cgbox.jp/2026/11/11/news-addon-sculpt-join/"/>
+        <updated>2026-11-11T04:27:38.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは！ 今回はアドオンの「Sculpt Join」を紹介します。 こちらのリンクがアドオンの商品ページになります。 Sculpt Join 「Sculpt Join」は、体・服・髪・アクセサリーなど複数に分かれたメ […]]]></summary>
+        <author>
+            <name>kasahara</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ゲーム背景155マップの量産に向けて、Maya・Unityの制作ルールをどう整備したか]]></title>
+        <id>https://zenn.dev/gamebackground/articles/c7dcdb38329a04</id>
+        <link href="https://zenn.dev/gamebackground/articles/c7dcdb38329a04"/>
+        <updated>2026-11-11T03:00:05.000Z</updated>
+        <summary type="html"><![CDATA[はじめに
+ゲーム用の3D背景を大量に制作するとき、単に作業人数を増やすだけでは量産できない。
+モデルの作り方、データの名前、Unityでの設定が人によって違えば、提出されたデータを確認するたびに手戻りが発生する。数マップなら個別に対応できても、それが数十、数百となれば確認する側の作業が詰まってしまう。
+私は以前、スマートフォン向け3Dアクションゲームで、155マップ分の背景データを外注先に制作していただくための準備を担当した。
+そのとき意識していたのは、外注先に「何を作るか」だけを伝えるのではなく、「どう作ればゲーム内で使えるデータになるのか」を事前に揃えておくことだった。
+この記事...]]></summary>
+        <author>
+            <name>ゲームの背景屋さん</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ゲーム背景155マップの量産に向けて、Maya・Unityの制作ルールをどう整備したか]]></title>
         <id>https://zenn.dev/gamebackground/articles/c7dcdb38329a04</id>
@@ -100,6 +244,35 @@ The post Blender 5.3正式リリース！Gaussian Splattingに標準対応、DLS
         <summary type="html"><![CDATA[2026年11月10日（現地時間）- Blender Foundationは、オープンソースの3DCGソフト「Blender」の新バージョン「Blender 5.3」をリリースしました。 新機能ハイライト Blender […]]]></summary>
         <author>
             <name>.me</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[フォトグラメトリ数学｜69：点群の位置合わせとは何か～Registrationの基本～]]></title>
+        <id>https://zenn.dev/s_hashida/articles/02a6725570b8a0</id>
+        <link href="https://zenn.dev/s_hashida/articles/02a6725570b8a0"/>
+        <updated>2026-11-10T21:48:05.000Z</updated>
+        <summary type="html"><![CDATA[はじめに
+前回は、
+
+残差とは何か
+残差と観測誤差の違い
+再投影誤差とは何か
+最小二乗法と再投影誤差
+残差と観測の信頼性
+理論精度・実測精度・残差の関係
+
+について説明しました。
+
+その中で重要だったのが、
+残差が小さいことは、求められた3次元座標が真の位置と一致することを保証しない
+という点です。
+再投影残差は、画像上の観測と推定モデルの整合性を表します。
+一方、成果物の位置精度を確認するためには、独立したCheck Pointなどを利用した評価も必要になります。
+
+ここまでは、主に、画像から3次元座標を求めることや、その精度を評価することを考えてきました。
+しかし、実際には、複...]]></summary>
+        <author>
+            <name>s_hashida</name>
         </author>
     </entry>
     <entry>
@@ -3944,57 +4117,6 @@ The post Lazy Realism FXー落ち葉・苔・水たまり・汚れ・雨や雪�
         <summary type="html"><![CDATA[こんばんは！ 今回はアドオンの「Lazy Realism FX」を紹介します。 こちらのリンクがアドオンの商品ページになります。 Lazy Realism FX 「Lazy Realism FX」は、雨・雪・落ち葉・苔・ […]]]></summary>
         <author>
             <name>kasahara</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Topaz Video 1.7.1 がリリース！SDR-HDRモデル「Hyperion 2.5」、Premiere用パネル1.1.1、透かしの追加など]]></title>
-        <id>https://cginterest.com/?p=63205</id>
-        <link href="https://cginterest.com/2026/10/13/topaz-video-1-7-1-%e3%81%8c%e3%83%aa%e3%83%aa%e3%83%bc%e3%82%b9%ef%bc%81sdr-hdr%e3%83%a2%e3%83%87%e3%83%ab%e3%80%8chyperion-2-5%e3%80%8d%e3%80%81premiere%e7%94%a8%e3%83%91%e3%83%8d%e3%83%ab1-1-1/"/>
-        <updated>2026-10-13T02:44:13.000Z</updated>
-        <summary type="html"><![CDATA[2026年9月18日（現地時間）- Topaz LabsのAI動画高画質化アプリ「Topaz Video」が、バージョン1.7.1へとアップデートされました。 主な新機能 今回のアップデートでは、SDR映像をHDRに変換 […]]]></summary>
-        <author>
-            <name>.me</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[『ケンエレファントのデジタル造形術』作家との二人三脚でつくる面白くて精巧なカプセルトイ ～No.1／企画篇 - 特集]]></title>
-        <id>https://cgworld.jp/article/202609-kenele01.html</id>
-        <link href="https://cgworld.jp/article/202609-kenele01.html"/>
-        <updated>2026-10-13T01:00:08.000Z</updated>
-        <summary type="html"><![CDATA[ケンエレファントのデジタル造形術を紹介。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[セガ、「SEGA TECH BLOG」をリニューアル　ゲームエンジン、モーション制作、開発自動化などの技術情報を発信 - ニュース]]></title>
-        <id>https://cgworld.jp/flashnews/01-202610-SegaTechBlog.html</id>
-        <link href="https://cgworld.jp/flashnews/01-202610-SegaTechBlog.html"/>
-        <updated>2026-10-13T00:26:23.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ブラウザで4次元を描くまで — 回転と立体射影]]></title>
-        <id>https://zenn.dev/urabexon/articles/stereographic-projection-4d-browser</id>
-        <link href="https://zenn.dev/urabexon/articles/stereographic-projection-4d-browser"/>
-        <updated>2026-10-12T16:04:52.000Z</updated>
-        <summary type="html"><![CDATA[4 次元の図形を、ブラウザの中でぐにゃぐにゃ回して眺めるアプリを作った。
-https://nth-blue.vercel.app/
-
-120 胞体。1200 本の辺でできた籠が、ゆっくり裏返り続ける
-
- 何が起きているのか
-まず見てほしいのはこれ。同じ超立方体を、設定を 1 つ変えて撮った 2 枚だ。
-
-ランプを遠くに置いたとき。教科書で見る「立方体の中に立方体」
-
-ランプを近づけたとき。内側にあった小さな立方体が膨らんで、画面の外へ抜けていく
-3 次元の立方体をどう回しても、内側の面が外側に来ることはない。ところが 4 次元で回すと、さっきまで奥にあった小さな部屋が手前に膨らんできて、...]]></summary>
-        <author>
-            <name>Hiroki Urabe</name>
         </author>
     </entry>
 </feed>

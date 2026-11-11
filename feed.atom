@@ -2,10 +2,106 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-11-10T15:55:27.090Z</updated>
+    <updated>2026-11-11T03:42:31.384Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ゲーム背景155マップの量産に向けて、Maya・Unityの制作ルールをどう整備したか]]></title>
+        <id>https://zenn.dev/gamebackground/articles/c7dcdb38329a04</id>
+        <link href="https://zenn.dev/gamebackground/articles/c7dcdb38329a04"/>
+        <updated>2026-11-11T03:00:05.000Z</updated>
+        <summary type="html"><![CDATA[はじめに
+ゲーム用の3D背景を大量に制作するとき、単に作業人数を増やすだけでは量産できない。
+モデルの作り方、データの名前、Unityでの設定が人によって違えば、提出されたデータを確認するたびに手戻りが発生する。数マップなら個別に対応できても、それが数十、数百となれば確認する側の作業が詰まってしまう。
+私は以前、スマートフォン向け3Dアクションゲームで、155マップ分の背景データを外注先に制作していただくための準備を担当した。
+そのとき意識していたのは、外注先に「何を作るか」だけを伝えるのではなく、「どう作ればゲーム内で使えるデータになるのか」を事前に揃えておくことだった。
+この記事...]]></summary>
+        <author>
+            <name>ゲームの背景屋さん</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[60fpsの予算は立方体2,683個分 — Lanternの描画ストレステストを回してみた]]></title>
+        <id>https://qiita.com/albertn/items/c73d6ac3eb3b7326c072</id>
+        <link href="https://qiita.com/albertn/items/c73d6ac3eb3b7326c072"/>
+        <updated>2026-11-11T02:55:38.000Z</updated>
+        <summary type="html"><![CDATA[1. はじめに — stressとは
+Lanternのリポジトリには、games/stress/main.lua というプログラムがあります。先頭のコメントには、こう書かれています。
+-- draw-call stress (run with LANTERN_NOVSYN...]]></summary>
+        <author>
+            <name>3DCGタグが付けられた新着記事 - Qiita</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ラセングル求人企画【第2回／全6回】「最強のセルルック」を共に創る。表現の追求から制作の自動化まで、モデラーとTAの挑戦 - スペシャルコンテンツ]]></title>
+        <id>https://cgworld.jp/special-feature/202611-lasengle.html</id>
+        <link href="https://cgworld.jp/special-feature/202611-lasengle.html"/>
+        <updated>2026-11-11T02:55:00.000Z</updated>
+        <summary type="html"><![CDATA[関連記事 ・ラセングル求人企画【第1回／全6回】「最強のセルルック」を共に創る...]]></summary>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[第24回：アセットのインポート時に設定を自動適用する - 連載]]></title>
+        <id>https://cgworld.jp/regular/202611-ue5tool-24.html</id>
+        <link href="https://cgworld.jp/regular/202611-ue5tool-24.html"/>
+        <updated>2026-11-11T02:25:00.000Z</updated>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Blender 5.3正式リリース！Gaussian Splattingに標準対応、DLSSデノイズやガラスの分散表現、アウトライナーの並べ替えなどを追加]]></title>
+        <id>https://modelinghappy.com/?p=71441</id>
+        <link href="https://modelinghappy.com/archives/71441"/>
+        <updated>2026-11-11T01:15:10.000Z</updated>
+        <summary type="html"><![CDATA[Blender5.3 Blender Foundationは2026年11月10日、無料・オープンソースの3DCGソフト「Blender 5.3」を正式リリースしました。Gaussian Splattingへの標準対応を
+The post Blender 5.3正式リリース！Gaussian Splattingに標準対応、DLSSデノイズやガラスの分散表現、アウトライナーの並べ替えなどを追加 first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
+        <author>
+            <name>modelinghappy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Autodesk Vision Series | オートデスクヴィジョンシリーズウェビナー 〜アニメーションの未来・『マーベル・ゾンビーズ』メイキング〜]]></title>
+        <id>https://area.autodesk.jp/event/webinar/vision-series-2026/</id>
+        <link href="https://area.autodesk.jp/event/webinar/vision-series-2026/"/>
+        <updated>2026-11-11T01:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Autodesk Vision Seriesで、アーティストたちがどのように夢のプロジェクトを実現しているのかをご覧ください。SIGGRAPH 2026で実施された講演を日本語字幕付きでご覧いただけるウェビナーです。オートデスクとStellar Creative Labの特別ゲストによる講演をお届けします。最新のAI搭載ツールやオープンで連携されたワークフローが、ストーリーテリングの未来をどのように作っているのかをご確認ください。・・・]]></summary>
+        <author>
+            <name>AREA JAPAN | Autodesk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hideki Suzuki氏、Unreal EngineをHydraレンダラーとして利用する「hdUE」をオープンソース化　Houdini Solaris、Lumen、パストレーサに対応 - ニュース]]></title>
+        <id>https://cgworld.jp/flashnews/01-202611-hdUE.html</id>
+        <link href="https://cgworld.jp/flashnews/01-202611-hdUE.html"/>
+        <updated>2026-11-11T00:26:08.000Z</updated>
+        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#24：伝わる絵には、理由がある。『世界観が伝わる 画作りの基礎 コンセプトアートの教科書 INEI ART ACADEMY』 - 連載]]></title>
+        <id>https://cgworld.jp/regular/202611-cgw340-book.html</id>
+        <link href="https://cgworld.jp/regular/202611-cgw340-book.html"/>
+        <updated>2026-11-10T22:46:00.000Z</updated>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Blender 5.3 が正式リリース！3D Gaussian Splatting対応、DLSSデノイザー、シーケンサーのリップル編集などなど]]></title>
+        <id>https://cginterest.com/?p=66982</id>
+        <link href="https://cginterest.com/2026/11/11/blender-5-3/"/>
+        <updated>2026-11-10T22:13:00.000Z</updated>
+        <summary type="html"><![CDATA[2026年11月10日（現地時間）- Blender Foundationは、オープンソースの3DCGソフト「Blender」の新バージョン「Blender 5.3」をリリースしました。 新機能ハイライト Blender […]]]></summary>
+        <author>
+            <name>.me</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【新講座】ゴシック建築と中世の城を"構造と工程"から読み解くオンライン講座『背景アーティストのための中世建築学』が12/16(水)に開催 - ニュース]]></title>
         <id>https://cgworld.jp/flashnews/1216.html</id>
@@ -3899,57 +3995,6 @@ https://nth-blue.vercel.app/
 3 次元の立方体をどう回しても、内側の面が外側に来ることはない。ところが 4 次元で回すと、さっきまで奥にあった小さな部屋が手前に膨らんできて、...]]></summary>
         <author>
             <name>Hiroki Urabe</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3D Asset Server ー 23の素材サイトから3Dモデル・PBRテクスチャ・HDRIをまとめて探せる無料検索サービス]]></title>
-        <id>https://modelinghappy.com/?p=70952</id>
-        <link href="https://modelinghappy.com/archives/70952"/>
-        <updated>2026-10-12T12:23:49.000Z</updated>
-        <summary type="html"><![CDATA[3D Asset Server 3D Asset Serverは、Poly Haven、ambientCG、Kenney、BlenderKitなど、23の素材サイトを対象に、3DモデルやPBRマテリアル、テクスチャ、HD
-The post 3D Asset Server ー 23の素材サイトから3Dモデル・PBRテクスチャ・HDRIをまとめて探せる無料検索サービス first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
-        <author>
-            <name>modelinghappy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NGon Loop Select 4.0 がリリース！選択前のプレビュー、Shift／Alt+クリックとスクロールで経路を調整可能に]]></title>
-        <id>https://cginterest.com/?p=63179</id>
-        <link href="https://cginterest.com/2026/10/12/ngon-loop-select-4-0-%e3%81%8c%e3%83%aa%e3%83%aa%e3%83%bc%e3%82%b9%ef%bc%81%e9%81%b8%e6%8a%9e%e5%89%8d%e3%81%ae%e3%83%97%e3%83%ac%e3%83%93%e3%83%a5%e3%83%bc%e3%80%81shift%ef%bc%8falt%e3%82%af/"/>
-        <updated>2026-10-12T08:29:44.000Z</updated>
-        <summary type="html"><![CDATA[Amandeep氏が開発するBlender向けのループ選択アドオン「NGon Loop Select」が、バージョン4.0へとアップデートされました。 NGon Loop Select について NGon Loop Se […]]]></summary>
-        <author>
-            <name>.me</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SolidCraft（旧SolveCraft）| Autodesk Fusionのような操作性を目指す無料＆オープンソースのパラメトリック3D CAD！AIエージェントによるモデリングにも対応！Win Mac Linux Web]]></title>
-        <id>https://3dnchu.com/?p=1069107</id>
-        <link href="https://3dnchu.com/archives/solidcraft/"/>
-        <updated>2026-10-12T08:28:44.000Z</updated>
-        <summary type="html"><![CDATA[bherbruck氏による、Rustで開発された無料のオープンソース3D CADソフトウェア「SolidCraft」のご紹介！スケッチや寸法拘束、履歴ベースのパラメトリックモデリングに対応し、MCPを介したAIエージェントによる操作も可能です。]]></summary>
-        <author>
-            <name>Ymt3D -3dnchu-</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[［コンテスト〆切2026年10月31日］Unreal Engine用の高品質な湿地・鉄道橋アセット「Coastal Wetland & Railroad Bridge」が無料公開！]]></title>
-        <id>https://cginterest.com/?p=63174</id>
-        <link href="https://cginterest.com/2026/10/12/%ef%bc%bb%e3%82%b3%e3%83%b3%e3%83%86%e3%82%b9%e3%83%88%e3%80%86%e5%88%872026%e5%b9%b410%e6%9c%8831%e6%97%a5%ef%bc%bdunreal-engine%e7%94%a8%e3%81%ae%e9%ab%98%e5%93%81%e8%b3%aa%e3%81%aa%e6%b9%bf/"/>
-        <updated>2026-10-12T07:35:09.000Z</updated>
-        <summary type="html"><![CDATA[2026年10月2日（現地時間） – 3DCGアセットスタジオのLeartes Studiosは、「MONTHLY RELIGHT CONTEST（月例リライトコンテスト）」の一環として、Switchboar […]]]></summary>
-        <author>
-            <name>.me</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mixar 4.1 | Blender 5.2をベースにAIエージェントや3D生成＆マテリアル＆レイヤーペイント機能を統合したオープンソースの3D制作ソフト！ | Win＆Mac＆Linux]]></title>
-        <id>https://3dnchu.com/?p=1069075</id>
-        <link href="https://3dnchu.com/archives/mixar-4-1/"/>
-        <updated>2026-10-12T06:18:14.000Z</updated>
-        <summary type="html"><![CDATA[Blender 5.2をベースに開発されたオープンソースの3D制作ソフト「Mixar」。AIエージェントによるモデリングやシーン構築、画像からの3D生成、レイヤーベースのテクスチャペイント、カメラ演出などを統合しています。]]></summary>
-        <author>
-            <name>Ymt3D -3dnchu-</name>
         </author>
     </entry>
 </feed>

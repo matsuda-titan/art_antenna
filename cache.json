@@ -678,36 +678,6 @@
             "type": "video/mp4"
           },
           "imageUrl": "https://3dnchu.com/wp-content/uploads/Windfoil.webp"
-        },
-        {
-          "id": "https://3dnchu.com/?p=1069107",
-          "author": "Ymt3D -3dnchu-",
-          "description": "bherbruck氏による、Rustで開発された無料のオープンソース3D CADソフトウェア「SolidCraft」のご紹介！スケッチや寸法拘束、履歴ベースのパラメトリックモデリングに対応し、MCPを介したAIエージェントによる操作も可能です。",
-          "link": "https://3dnchu.com/archives/solidcraft/",
-          "publishedOn": "2026-10-12T08:28:44.000Z",
-          "wordCount": 7936,
-          "title": "SolidCraft（旧SolveCraft）| Autodesk Fusionのような操作性を目指す無料＆オープンソースのパラメトリック3D CAD！AIエージェントによるモデリングにも対応！Win Mac Linux Web",
-          "enclosure": {
-            "url": "https://3dnchu.com/wp-content/uploads/SolidCraft.webp",
-            "length": "264500",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://3dnchu.com/wp-content/uploads/SolidCraft.webp"
-        },
-        {
-          "id": "https://3dnchu.com/?p=1069075",
-          "author": "Ymt3D -3dnchu-",
-          "description": "Blender 5.2をベースに開発されたオープンソースの3D制作ソフト「Mixar」。AIエージェントによるモデリングやシーン構築、画像からの3D生成、レイヤーベースのテクスチャペイント、カメラ演出などを統合しています。",
-          "link": "https://3dnchu.com/archives/mixar-4-1/",
-          "publishedOn": "2026-10-12T06:18:14.000Z",
-          "wordCount": 7912,
-          "title": "Mixar 4.1 | Blender 5.2をベースにAIエージェントや3D生成＆マテリアル＆レイヤーペイント機能を統合したオープンソースの3D制作ソフト！ | Win＆Mac＆Linux",
-          "enclosure": {
-            "url": "https://3dnchu.com/wp-content/uploads/Mixar.webp",
-            "length": "1607614",
-            "type": "image/jpg"
-          },
-          "imageUrl": "https://3dnchu.com/wp-content/uploads/Mixar.webp"
         }
       ]
     },
@@ -716,6 +686,46 @@
       "feedUrl": "https://cgworld.jp/atom.xml",
       "siteUrl": "https://cgworld.jp/",
       "articles": [
+        {
+          "id": "https://cgworld.jp/special-feature/202611-lasengle.html",
+          "author": null,
+          "description": "関連記事 ・ラセングル求人企画【第1回／全6回】「最強のセルルック」を共に創る...",
+          "link": "https://cgworld.jp/special-feature/202611-lasengle.html",
+          "publishedOn": "2026-11-11T02:55:00.000Z",
+          "wordCount": 643,
+          "title": "ラセングル求人企画【第2回／全6回】「最強のセルルック」を共に創る。表現の追求から制作の自動化まで、モデラーとTAの挑戦 - スペシャルコンテンツ",
+          "imageUrl": "https://cgworld.jp/special-feature/assets_c/2026/09/202611-lasengle_b7-thumb-1000x563-88756.jpg"
+        },
+        {
+          "id": "https://cgworld.jp/regular/202611-ue5tool-24.html",
+          "author": null,
+          "description": "",
+          "link": "https://cgworld.jp/regular/202611-ue5tool-24.html",
+          "publishedOn": "2026-11-11T02:25:00.000Z",
+          "wordCount": 940,
+          "title": "第24回：アセットのインポート時に設定を自動適用する - 連載",
+          "imageUrl": "https://cgworld.jp/regular/assets_c/2026/11/UE5_EditorUtility_banner_vol24-thumb-1000x563-90658.jpg"
+        },
+        {
+          "id": "https://cgworld.jp/flashnews/01-202611-hdUE.html",
+          "author": null,
+          "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
+          "link": "https://cgworld.jp/flashnews/01-202611-hdUE.html",
+          "publishedOn": "2026-11-11T00:26:08.000Z",
+          "wordCount": 805,
+          "title": "Hideki Suzuki氏、Unreal EngineをHydraレンダラーとして利用する「hdUE」をオープンソース化　Houdini Solaris、Lumen、パストレーサに対応 - ニュース",
+          "imageUrl": "https://cgworld.jp/flashnews/assets_c/2026/11/hdUE-01-thumb-1920x960-91010.jpg"
+        },
+        {
+          "id": "https://cgworld.jp/regular/202611-cgw340-book.html",
+          "author": null,
+          "description": "",
+          "link": "https://cgworld.jp/regular/202611-cgw340-book.html",
+          "publishedOn": "2026-11-10T22:46:00.000Z",
+          "wordCount": 812,
+          "title": "#24：伝わる絵には、理由がある。『世界観が伝わる 画作りの基礎 コンセプトアートの教科書 INEI ART ACADEMY』 - 連載",
+          "imageUrl": "https://cgworld.jp/regular/assets_c/2026/11/book_of_the_month_202611_1000%2B-thumb-1000x563-90958.jpg"
+        },
         {
           "id": "https://cgworld.jp/flashnews/1216.html",
           "author": null,
@@ -1339,6 +1349,16 @@
       "siteUrl": "https://modelinghappy.com",
       "articles": [
         {
+          "id": "https://modelinghappy.com/?p=71441",
+          "author": "modelinghappy",
+          "description": "Blender5.3 Blender Foundationは2026年11月10日、無料・オープンソースの3DCGソフト「Blender 5.3」を正式リリースしました。Gaussian Splattingへの標準対応を\nThe post Blender 5.3正式リリース！Gaussian Splattingに標準対応、DLSSデノイズやガラスの分散表現、アウトライナーの並べ替えなどを追加 first appeared on 3DCG最新情報サイト MODELING HAPPY.",
+          "link": "https://modelinghappy.com/archives/71441",
+          "publishedOn": "2026-11-11T01:15:10.000Z",
+          "wordCount": 3289,
+          "title": "Blender 5.3正式リリース！Gaussian Splattingに標準対応、DLSSデノイズやガラスの分散表現、アウトライナーの並べ替えなどを追加",
+          "imageUrl": "https://modelinghappy.com/wp-content/uploads/2026/11/20261111_blender5.3.jpg"
+        },
+        {
           "id": "https://modelinghappy.com/?p=71436",
           "author": "modelinghappy",
           "description": "The 2D Artist#8217;s 3D Kit The 2D Artist#8217;s 3D Kitは、Noggiさんが公開した、Blender用のテクスチャペイントアドオンです。 UV展開やテクスチャ、マ\nThe post The 2D Artist’s 3D Kit – UV展開やマテリアル設定を自動化！Blenderで3Dモデルを用意したらすぐにペイント出来る無料アドオン first appeared on 3DCG最新情報サイト MODELING HAPPY.",
@@ -1737,16 +1757,6 @@
           "wordCount": 3082,
           "title": "Lazy Realism FXー落ち葉・苔・水たまり・汚れ・雨や雪などを追加できるBlender用多機能アドオン",
           "imageUrl": "https://modelinghappy.com/wp-content/uploads/2026/10/20261013_Lazy_realism_01.jpg"
-        },
-        {
-          "id": "https://modelinghappy.com/?p=70952",
-          "author": "modelinghappy",
-          "description": "3D Asset Server 3D Asset Serverは、Poly Haven、ambientCG、Kenney、BlenderKitなど、23の素材サイトを対象に、3DモデルやPBRマテリアル、テクスチャ、HD\nThe post 3D Asset Server ー 23の素材サイトから3Dモデル・PBRテクスチャ・HDRIをまとめて探せる無料検索サービス first appeared on 3DCG最新情報サイト MODELING HAPPY.",
-          "link": "https://modelinghappy.com/archives/70952",
-          "publishedOn": "2026-10-12T12:23:49.000Z",
-          "wordCount": 3072,
-          "title": "3D Asset Server ー 23の素材サイトから3Dモデル・PBRテクスチャ・HDRIをまとめて探せる無料検索サービス",
-          "imageUrl": "https://modelinghappy.com/wp-content/uploads/2026/10/20261012_3dAssets_server_01.jpg"
         }
       ]
     },
@@ -2388,6 +2398,21 @@
       "siteUrl": "https://zenn.dev/topics/maya",
       "articles": [
         {
+          "id": "https://zenn.dev/gamebackground/articles/c7dcdb38329a04",
+          "author": "ゲームの背景屋さん",
+          "description": "はじめに\nゲーム用の3D背景を大量に制作するとき、単に作業人数を増やすだけでは量産できない。\nモデルの作り方、データの名前、Unityでの設定が人によって違えば、提出されたデータを確認するたびに手戻りが発生する。数マップなら個別に対応できても、それが数十、数百となれば確認する側の作業が詰まってしまう。\n私は以前、スマートフォン向け3Dアクションゲームで、155マップ分の背景データを外注先に制作していただくための準備を担当した。\nそのとき意識していたのは、外注先に「何を作るか」だけを伝えるのではなく、「どう作ればゲーム内で使えるデータになるのか」を事前に揃えておくことだった。\nこの記事...",
+          "link": "https://zenn.dev/gamebackground/articles/c7dcdb38329a04",
+          "publishedOn": "2026-11-11T03:00:05.000Z",
+          "wordCount": 698,
+          "title": "ゲーム背景155マップの量産に向けて、Maya・Unityの制作ルールをどう整備したか",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--t4isAk4T--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2582%25B2%25E3%2583%25BC%25E3%2583%25A0%25E8%2583%258C%25E6%2599%25AF155%25E3%2583%259E%25E3%2583%2583%25E3%2583%2597%25E3%2581%25AE%25E9%2587%258F%25E7%2594%25A3%25E3%2581%25AB%25E5%2590%2591%25E3%2581%2591%25E3%2581%25A6%25E3%2580%2581Maya%25E3%2583%25BBUnity%25E3%2581%25AE%25E5%2588%25B6%25E4%25BD%259C%25E3%2583%25AB%25E3%2583%25BC%25E3%2583%25AB%25E3%2582%2592%25E3%2581%25A9%25E3%2581%2586%25E6%2595%25B4%25E5%2582%2599%25E3%2581%2597%25E3%2581%259F%25E3%2581%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2582%25B2%25E3%2583%25BC%25E3%2583%25A0%25E3%2581%25AE%25E8%2583%258C%25E6%2599%25AF%25E5%25B1%258B%25E3%2581%2595%25E3%2582%2593%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzU3ZGY4ZjU2OTAuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+            "length": "0",
+            "type": "false"
+          },
+          "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--t4isAk4T--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2582%25B2%25E3%2583%25BC%25E3%2583%25A0%25E8%2583%258C%25E6%2599%25AF155%25E3%2583%259E%25E3%2583%2583%25E3%2583%2597%25E3%2581%25AE%25E9%2587%258F%25E7%2594%25A3%25E3%2581%25AB%25E5%2590%2591%25E3%2581%2591%25E3%2581%25A6%25E3%2580%2581Maya%25E3%2583%25BBUnity%25E3%2581%25AE%25E5%2588%25B6%25E4%25BD%259C%25E3%2583%25AB%25E3%2583%25BC%25E3%2583%25AB%25E3%2582%2592%25E3%2581%25A9%25E3%2581%2586%25E6%2595%25B4%25E5%2582%2599%25E3%2581%2597%25E3%2581%259F%25E3%2581%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2582%25B2%25E3%2583%25BC%25E3%2583%25A0%25E3%2581%25AE%25E8%2583%258C%25E6%2599%25AF%25E5%25B1%258B%25E3%2581%2595%25E3%2582%2593%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzU3ZGY4ZjU2OTAuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+        },
+        {
           "id": "https://zenn.dev/gamebackground/articles/552346c473123c",
           "author": "ゲームの背景屋さん",
           "description": "はじめに\nゲーム用の3D背景は、Mayaでモデルが完成した時点では、まだ「ゲームで使えるデータ」になったとは限らない。\nモデルの形や見た目に問題がなくても、Unityでの設定やコリジョン、実際のプレイ時の見え方に問題があれば、修正が必要になる。\n私は以前、スマートフォン向けゲームで、大量の背景データを外注先に制作していただく案件を担当した。背景データは155マップ分。チェック担当は主に私一人で、忙しい日は最大20ルート分をゲーム内で確認していた。\nこの記事では、そのとき実際に行っていたチェックを、Maya → Unity → ゲーム再生 → 修正依頼の順に整理する。MayaやUnit...",
@@ -2456,6 +2481,16 @@
       "feedUrl": "https://qiita.com/tags/3dcg/feed",
       "siteUrl": "https://qiita.com",
       "articles": [
+        {
+          "id": "https://qiita.com/albertn/items/c73d6ac3eb3b7326c072",
+          "author": null,
+          "description": "1. はじめに — stressとは\nLanternのリポジトリには、games/stress/main.lua というプログラムがあります。先頭のコメントには、こう書かれています。\n-- draw-call stress (run with LANTERN_NOVSYN...",
+          "link": "https://qiita.com/albertn/items/c73d6ac3eb3b7326c072",
+          "publishedOn": "2026-11-11T02:55:38.000Z",
+          "wordCount": 1797,
+          "title": "60fpsの予算は立方体2,683個分 — Lanternの描画ストレステストを回してみた",
+          "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkY0NTE0MDIzJTJGYjM3MTJjMWQ2ZDczMzI2YWRhMDhkMTEyZWJjZGI3NWIzZTdmMjdjNyUyRmxhcmdlLnBuZyUzRjE3OTE4NTk2NzQ_aXhsaWI9cmItNC4xLjEmYXI9MSUzQTEmZml0PWNyb3AmbWFzaz1lbGxpcHNlJmJnPUZGRkZGRiZmbT1wbmczMiZzPTc3MTdiN2VhZWFhZDhkMzkyNGMxM2IwOTc3ZDE2Y2E5%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D17cecb816563f94327324273c234ced9?ixlib=rb-4.1.1&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9NjBmcHMlRTMlODElQUUlRTQlQkElODglRTclQUUlOTclRTMlODElQUYlRTclQUIlOEIlRTYlOTYlQjklRTQlQkQlOTMyJTJDNjgzJUU1JTgwJThCJUU1JTg4JTg2JTIwJUUyJTgwJTk0JTIwTGFudGVybiVFMyU4MSVBRSVFNiU4RiU4RiVFNyU5NCVCQiVFMyU4MiVCOSVFMyU4MyU4OCVFMyU4MyVBQyVFMyU4MiVCOSVFMyU4MyU4NiVFMyU4MiVCOSVFMyU4MyU4OCVFMyU4MiU5MiVFNSU5QiU5RSVFMyU4MSU5NyVFMyU4MSVBNiVFMyU4MSVCRiVFMyU4MSU5RiZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnR4dC1wYWQ9MCZzPTdlZWIxZmFiZGJiNDYwMWY1NzAzOWI4MWY0M2NiNWY2&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBhbGJlcnRuJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9NTU2ZjFmOGQ1MDcxYWY0MWMyMzAxYWZlNTc3MzM1Nzc&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=e54127ec62b73580a1450ec41f40b9b4"
+        },
         {
           "id": "https://qiita.com/Martina_1230/items/a8f00a3625483436ae13",
           "author": null,
@@ -2876,6 +2911,16 @@
       "siteUrl": "https://area.autodesk.jp/",
       "articles": [
         {
+          "id": "https://area.autodesk.jp/event/webinar/vision-series-2026/",
+          "author": null,
+          "description": "Autodesk Vision Seriesで、アーティストたちがどのように夢のプロジェクトを実現しているのかをご覧ください。SIGGRAPH 2026で実施された講演を日本語字幕付きでご覧いただけるウェビナーです。オートデスクとStellar Creative Labの特別ゲストによる講演をお届けします。最新のAI搭載ツールやオープンで連携されたワークフローが、ストーリーテリングの未来をどのように作っているのかをご確認ください。・・・",
+          "link": "https://area.autodesk.jp/event/webinar/vision-series-2026/",
+          "publishedOn": "2026-11-11T01:00:00.000Z",
+          "wordCount": 334,
+          "title": "Autodesk Vision Series | オートデスクヴィジョンシリーズウェビナー 〜アニメーションの未来・『マーベル・ゾンビーズ』メイキング〜",
+          "imageUrl": "https://area.autodesk.jp/event/assets_c/2026/11/ic_webinar_vision_series_2026_1400x782-thumb-1200xauto-5912.jpg"
+        },
+        {
           "id": "https://area.autodesk.jp/event/autodesk/game-creators-draft-3d-designer-2026/",
           "author": null,
           "description": "IMAGICA GEEQが主催する「経験者版 ゲームクリエイターズドラフト（3DCGデザイナー）」にオートデスクは協力をしています。エントリー受付期間：2026年11月9日（月）～12月18日（金）23時59分。・・・",
@@ -3283,6 +3328,21 @@
       "feedUrl": "https://cginterest.com/feed/",
       "siteUrl": "https://cginterest.com",
       "articles": [
+        {
+          "id": "https://cginterest.com/?p=66982",
+          "author": ".me",
+          "description": "2026年11月10日（現地時間）- Blender Foundationは、オープンソースの3DCGソフト「Blender」の新バージョン「Blender 5.3」をリリースしました。 新機能ハイライト Blender […]",
+          "link": "https://cginterest.com/2026/11/11/blender-5-3/",
+          "publishedOn": "2026-11-10T22:13:00.000Z",
+          "wordCount": 748,
+          "title": "Blender 5.3 が正式リリース！3D Gaussian Splatting対応、DLSSデノイザー、シーケンサーのリップル編集などなど",
+          "enclosure": {
+            "url": "https://cginterest.com/wp-content/uploads/2026/11/gaussian_splat_dogwalk.mp4",
+            "length": "658015",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://cginterest.com/wp-content/uploads/2026/11/blender-5-3-eyecatch.webp"
+        },
         {
           "id": "https://cginterest.com/?p=66919",
           "author": ".me",
@@ -4182,31 +4242,6 @@
           "wordCount": 1537,
           "title": "Topaz Video 1.7.1 がリリース！SDR-HDRモデル「Hyperion 2.5」、Premiere用パネル1.1.1、透かしの追加など",
           "imageUrl": "https://cginterest.com/wp-content/uploads/2026/10/topaz-video171.webp"
-        },
-        {
-          "id": "https://cginterest.com/?p=63179",
-          "author": ".me",
-          "description": "Amandeep氏が開発するBlender向けのループ選択アドオン「NGon Loop Select」が、バージョン4.0へとアップデートされました。 NGon Loop Select について NGon Loop Se […]",
-          "link": "https://cginterest.com/2026/10/12/ngon-loop-select-4-0-%e3%81%8c%e3%83%aa%e3%83%aa%e3%83%bc%e3%82%b9%ef%bc%81%e9%81%b8%e6%8a%9e%e5%89%8d%e3%81%ae%e3%83%97%e3%83%ac%e3%83%93%e3%83%a5%e3%83%bc%e3%80%81shift%ef%bc%8falt%e3%82%af/",
-          "publishedOn": "2026-10-12T08:29:44.000Z",
-          "wordCount": 1259,
-          "title": "NGon Loop Select 4.0 がリリース！選択前のプレビュー、Shift／Alt+クリックとスクロールで経路を調整可能に",
-          "enclosure": {
-            "url": "https://cginterest.com/wp-content/uploads/2026/10/A-Weird-Face-Outline1.mp4",
-            "length": "47581",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://cginterest.com/wp-content/uploads/2026/10/NGonLoopSelectV4.webp"
-        },
-        {
-          "id": "https://cginterest.com/?p=63174",
-          "author": ".me",
-          "description": "2026年10月2日（現地時間） – 3DCGアセットスタジオのLeartes Studiosは、「MONTHLY RELIGHT CONTEST（月例リライトコンテスト）」の一環として、Switchboar […]",
-          "link": "https://cginterest.com/2026/10/12/%ef%bc%bb%e3%82%b3%e3%83%b3%e3%83%86%e3%82%b9%e3%83%88%e3%80%86%e5%88%872026%e5%b9%b410%e6%9c%8831%e6%97%a5%ef%bc%bdunreal-engine%e7%94%a8%e3%81%ae%e9%ab%98%e5%93%81%e8%b3%aa%e3%81%aa%e6%b9%bf/",
-          "publishedOn": "2026-10-12T07:35:09.000Z",
-          "wordCount": 1216,
-          "title": "［コンテスト〆切2026年10月31日］Unreal Engine用の高品質な湿地・鉄道橋アセット「Coastal Wetland & Railroad Bridge」が無料公開！",
-          "imageUrl": "https://cginterest.com/wp-content/uploads/2026/10/relightcontest-freecontents2026-10.webp"
         }
       ]
     }

@@ -320,21 +320,6 @@
             "type": "video/mp4"
           },
           "imageUrl": "https://cgbox.jp/wp-content/uploads/2022/05/cropped-favicon.png"
-        },
-        {
-          "id": "https://cgbox.jp/?p=65834",
-          "author": "kasahara",
-          "description": "こんばんは！ 今回はアドオンの「Dolly Zoom」を紹介します。 こちらのリンクがアドオンの商品ページになります。 Dolly Zoom 「Dolly Zoom」は、カメラを前後に移動させながら焦点距離を同時に変化さ […]",
-          "link": "https://cgbox.jp/2026/10/15/news-addon-dolly-zoom/",
-          "publishedOn": "2026-10-15T02:42:09.000Z",
-          "wordCount": 1972,
-          "title": "【アドオン紹介】Dolly Zoom – ヒッチコックズームを簡単に再現できる無料Blenderアドオン！",
-          "enclosure": {
-            "url": "https://cgbox.jp/wp-content/uploads/2026/10/23dad546e480ea200a61ac0f2b59d6a736e011cc46005fb4f3dfb80360032c0b.mp4",
-            "length": "0",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://cgbox.jp/wp-content/uploads/2026/10/f148c45ba5828053593a1f072984f21eae1d6a2c3c7bde92b13f6d38937c1d5c_640x360.webp"
         }
       ]
     },
@@ -686,6 +671,16 @@
       "feedUrl": "https://cgworld.jp/atom.xml",
       "siteUrl": "https://cgworld.jp/",
       "articles": [
+        {
+          "id": "https://cgworld.jp/flashnews/02-2611-cg3200x-campaign.html",
+          "author": null,
+          "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
+          "link": "https://cgworld.jp/flashnews/02-2611-cg3200x-campaign.html",
+          "publishedOn": "2026-11-13T10:36:13.000Z",
+          "wordCount": 734,
+          "title": "CGiN、EIZO「ColorEdge CG3200X」発売記念キャンペーンを実施！　購入者全員にカラーマネジメント解説書をプレゼント - ニュース",
+          "imageUrl": "https://cgworld.jp/flashnews/assets_c/2026/11/campaign-thumb-1000x563-91161.jpg"
+        },
         {
           "id": "https://cgworld.jp/regular/202611-tipsnote.html",
           "author": null,
@@ -1275,26 +1270,6 @@
           "wordCount": 826,
           "title": "ASUS JAPAN、NVIDIA RTX Spark搭載のクリエイター向けAIノートPC「ProArt」2製品4モデルの予約を開始 - ニュース",
           "imageUrl": "https://cgworld.jp/flashnews/assets_c/2026/10/image19364545-thumb-1000x562-89961.jpg"
-        },
-        {
-          "id": "https://cgworld.jp/article/202609-kenele03.html",
-          "author": null,
-          "description": "ケンエレファントのデジタル造形術を紹介。",
-          "link": "https://cgworld.jp/article/202609-kenele03.html",
-          "publishedOn": "2026-10-15T01:00:49.000Z",
-          "wordCount": 814,
-          "title": "『ケンエレファントのデジタル造形術』作家との二人三脚でつくる面白くて精巧なカプセルトイ ～No.3／ザリガニボーイズ篇 - 特集",
-          "imageUrl": "https://cgworld.jp/article/assets_c/2026/09/Main_shimen_Img93394_hoseizumi_p1-thumb-1000x663-89146.jpg"
-        },
-        {
-          "id": "https://cgworld.jp/flashnews/01-202610-Houdini-Frame48.html",
-          "author": null,
-          "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
-          "link": "https://cgworld.jp/flashnews/01-202610-Houdini-Frame48.html",
-          "publishedOn": "2026-10-15T00:42:47.000Z",
-          "wordCount": 849,
-          "title": "SideFX、Frame48によるHoudini事例の日本語記事を公開　小規模スタジオ環境でのAPEX・Solaris・USDワークフロー - ニュース",
-          "imageUrl": "https://cgworld.jp/flashnews/assets_c/2026/10/Houdini_Frame48-01-thumb-1920x1081-89954.jpg"
         }
       ]
     },
@@ -1840,6 +1815,21 @@
       "feedUrl": "https://zenn.dev/topics/3dcg/feed",
       "siteUrl": "https://zenn.dev/topics/3dcg",
       "articles": [
+        {
+          "id": "https://zenn.dev/martina/articles/5825999964e629",
+          "author": "Martina",
+          "description": "Before accepting a generated scene for further modeling, test the operation you need. Can you move one tree independently? Can you reshape a rock? Can you change a surface material without changing its neighbors?\nEach question asks for different access to the scene. An attractive preview leaves t...",
+          "link": "https://zenn.dev/martina/articles/5825999964e629",
+          "publishedOn": "2026-11-13T10:48:49.000Z",
+          "wordCount": 2243,
+          "title": "What Can You Actually Edit in a Generated 3D Scene?",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--t0X1sPm7--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:What%2520Can%2520You%2520Actually%2520Edit%2520in%2520a%2520Generated%25203D%2520Scene%253F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Martina%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jS3g5azBuQ3VWWTd6UEpldmJWdjRHZzcwWjNTT21hQW1uSjhoUkdWVmJMYUdJd2dnPXMyNTAtYw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+            "length": "0",
+            "type": "false"
+          },
+          "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--t0X1sPm7--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:What%2520Can%2520You%2520Actually%2520Edit%2520in%2520a%2520Generated%25203D%2520Scene%253F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Martina%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jS3g5azBuQ3VWWTd6UEpldmJWdjRHZzcwWjNTT21hQW1uSjhoUkdWVmJMYUdJd2dnPXMyNTAtYw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+        },
         {
           "id": "https://zenn.dev/martina/articles/f9d660286c0b82",
           "author": "Martina",
@@ -2487,6 +2477,16 @@
       "siteUrl": "https://qiita.com",
       "articles": [
         {
+          "id": "https://qiita.com/Martina_1230/items/5089fb7551b403367582",
+          "author": null,
+          "description": "A building can look correct in its source scene and still be awkward to place after import. You move it onto the site, rotate it to face ...",
+          "link": "https://qiita.com/Martina_1230/items/5089fb7551b403367582",
+          "publishedOn": "2026-11-13T09:34:46.000Z",
+          "wordCount": 2555,
+          "title": "Where Should This Building Rotate? A Pivot Handoff Checklist",
+          "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRmxoMy5nb29nbGV1c2VyY29udGVudC5jb20lMkZhJTJGQUNnOG9jS3g5azBuQ3VWWTd6UEpldmJWdjRHZzcwWjNTT21hQW1uSjhoUkdWVmJMYUdJd2dnJTNEczk2LWM_aXhsaWI9cmItNC4xLjEmYXI9MSUzQTEmZml0PWNyb3AmbWFzaz1lbGxpcHNlJmJnPUZGRkZGRiZmbT1wbmczMiZzPWQxMzcwNjRmYmVhMmU1MzNiZDQxYWE0OTc0ZGJmZWUx%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D397dbd01db86b7c2fa00619e9879086c?ixlib=rb-4.1.1&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9V2hlcmUlMjBTaG91bGQlMjBUaGlzJTIwQnVpbGRpbmclMjBSb3RhdGUlM0YlMjBBJTIwUGl2b3QlMjBIYW5kb2ZmJTIwQ2hlY2tsaXN0JnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9NWI0MmEwYjliODdkMDJhMDI1ZTAzNDY3YzdhNjRjMzI&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBNYXJ0aW5hXzEyMzAmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz01ZGYyZWM3ZjQ3ZmMzYzU5NjE3YTVjMmNlZjViOTc3YQ&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=0c0a705a0fdf45f9a69d8fc0d4781567"
+        },
+        {
           "id": "https://qiita.com/albertn/items/8da065d3134f1fbc6c01",
           "author": null,
           "description": "1. はじめに — templateとは\nLanternのリポジトリには、games/template/main.lua というプログラムがあります。先頭のコメントには、こう書かれています。\n-- lantern starter template — copy this ...",
@@ -2671,6 +2671,16 @@
       "feedUrl": "https://qiita.com/tags/shader/feed",
       "siteUrl": "https://qiita.com",
       "articles": [
+        {
+          "id": "https://qiita.com/YYYGame/items/eee82cb5008c6b86c834",
+          "author": null,
+          "description": "SFゲームのホログラム通信やサイバーパンク風のノイズ演出を作る際、モデルの胴体を水平に輪切り（スライス）にして横方向へガクッとずらす頂点スライスグリッチは非常に効果的です[cite: 1]。\nしかし、いざシェーダー（HLSL）で実装してみると、以下の3つのトラブルに遭遇しが...",
+          "link": "https://qiita.com/YYYGame/items/eee82cb5008c6b86c834",
+          "publishedOn": "2026-11-13T09:48:06.000Z",
+          "wordCount": 1452,
+          "title": "【Unity URP】どの角度でも破綻しない「頂点スライスグリッチ」の数式と、Alphaを0にすると真っ黒になる罠の解決法",
+          "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRmxoMy5nb29nbGV1c2VyY29udGVudC5jb20lMkZhJTJGQUNnOG9jSm9VZWZ3MDliRXZ4RmNMZnJHUnVxOGxWUXg3OWQxa0s4clU2VlAzZ09GUWxYOGdKdyUzRHM5Ni1jP2l4bGliPXJiLTQuMS4xJmFyPTElM0ExJmZpdD1jcm9wJm1hc2s9ZWxsaXBzZSZiZz1GRkZGRkYmZm09cG5nMzImcz1lOWNjNGIxZmM4MWVhMmZiY2EyMjUyZjBkOTFhNDNhMg%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D8742580d33e47730d96f7793430d225c?ixlib=rb-4.1.1&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9JUUzJTgwJTkwVW5pdHklMjBVUlAlRTMlODAlOTElRTMlODElQTklRTMlODElQUUlRTglQTclOTIlRTUlQkElQTYlRTMlODElQTclRTMlODIlODIlRTclQTAlQjQlRTclQjYlQkIlRTMlODElOTclRTMlODElQUElRTMlODElODQlRTMlODAlOEMlRTklQTAlODIlRTclODIlQjklRTMlODIlQjklRTMlODMlQTklRTMlODIlQTQlRTMlODIlQjklRTMlODIlQjAlRTMlODMlQUElRTMlODMlODMlRTMlODMlODElRTMlODAlOEQlRTMlODElQUUlRTYlOTUlQjAlRTUlQkMlOEYlRTMlODElQTglRTMlODAlODFBbHBoYSVFMyU4MiU5MjAlRTMlODElQUIlRTMlODElOTklRTMlODIlOEIlRTMlODElQTglRTclOUMlOUYlRTMlODElQTMlRTklQkIlOTIlRTMlODElQUIlRTMlODElQUElRTIlODAlQTYmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz1jMzRlYTk3MWExZjY0MzhjYzg0Y2UwNWE1ZDMzODJiYw&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBZWVlHYW1lJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9MDNjZWU0ZGE2ZmIyYmI2NmVmODFjOTJhNmMxYTFjZWQ&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=b1e605ef1f9a20c16302e355f8ae38da"
+        },
         {
           "id": "https://qiita.com/rog-works/items/8632674370951052a645",
           "author": null,
@@ -3368,6 +3378,51 @@
       "feedUrl": "https://cginterest.com/feed/",
       "siteUrl": "https://cginterest.com",
       "articles": [
+        {
+          "id": "https://cginterest.com/?p=67550",
+          "author": ".me",
+          "description": "2026年11月1日 – 日本でBlender向けのツールを個人で開発しているKoshizu Space（古静）は、日本の樹種と庭木の仕立て方をもとに作られた、Blender向けのプロシージャル樹木アドオン「 […]",
+          "link": "https://cginterest.com/2026/11/13/koshizu-trees/",
+          "publishedOn": "2026-11-13T11:58:03.000Z",
+          "wordCount": 577,
+          "title": "モミジやサクラなど日本の樹種に特化したBlender向け樹木ジェネレーター「Koshizu Trees」が公開！ドラッグで高さと傾きを調整可能",
+          "enclosure": {
+            "url": "https://cginterest.com/wp-content/uploads/2026/11/trees-panel-clip.mp4",
+            "length": "400706",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://cginterest.com/wp-content/uploads/2026/11/koshizu-trees-eyecatch-2.webp"
+        },
+        {
+          "id": "https://cginterest.com/?p=67484",
+          "author": ".me",
+          "description": "2026年11月12日（現地時間）- Boris FX は、映像編集・VFXソフト向けのエフェクトプラグイン集「Sapphire」の最新版「Sapphire 2027」をリリースしました。 主な新機能 今回のアップデート […]",
+          "link": "https://cginterest.com/2026/11/13/boris-fx-sapphire-2027/",
+          "publishedOn": "2026-11-13T11:07:00.000Z",
+          "wordCount": 821,
+          "title": "Sapphire 2027 がリリース！GPUレンダリングが最大77%高速に、フィルム風の Halation、MultiTone の追加など",
+          "enclosure": {
+            "url": "https://cginterest.com/wp-content/uploads/2026/11/sapphire-2027-extra-colors.mp4",
+            "length": "313424",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://cginterest.com/wp-content/uploads/2026/11/sapphire-2027-eyecatch.webp"
+        },
+        {
+          "id": "https://cginterest.com/?p=67464",
+          "author": ".me",
+          "description": "2026年11月10日（現地時間）- アドビは、クリエイター向けのカンファレンス「Adobe MAX 2026」で、Creative Cloud と Firefly にAIエージェントの機能を広げる発表を行い、他社のAI […]",
+          "link": "https://cginterest.com/2026/11/13/adobe-max-2026-ai/",
+          "publishedOn": "2026-11-13T08:34:44.000Z",
+          "wordCount": 995,
+          "title": "Adobe MAX 2026 の発表まとめ：他社のAIエージェントからPhotoshopなどを操作する「ローカル MCP 連携」、AIアシスタントの拡大、Firefly グラフなど",
+          "enclosure": {
+            "url": "https://cginterest.com/wp-content/uploads/2026/11/adobe-mcp-photoshop.mp4",
+            "length": "431646",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://cginterest.com/wp-content/uploads/2026/11/adobe-max-2026-ai-hero.webp"
+        },
         {
           "id": "https://cginterest.com/?p=67397",
           "author": ".me",

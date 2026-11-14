@@ -2,10 +2,61 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-11-13T15:46:12.578Z</updated>
+    <updated>2026-11-14T03:59:23.323Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[新しいゲーム機の最初の1枚 — Ember 32のコンポジタを持ち上げてみた]]></title>
+        <id>https://qiita.com/albertn/items/065b8a964ada2961ecb8</id>
+        <link href="https://qiita.com/albertn/items/065b8a964ada2961ecb8"/>
+        <updated>2026-11-14T02:50:59.000Z</updated>
+        <summary type="html"><![CDATA[1. はじめに — Ember 32とは
+Famemuのリポジトリには、engines/ember32 というものがあります。32ビットの新しいゲーム機の、参照モデルです。ARM7 + ThumbのCPU、6つのアフィン背景レイヤー、1024個のアフィンスプライト、24ビ...]]></summary>
+        <author>
+            <name>グラフィックスタグが付けられた新着記事 - Qiita</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【アドオン紹介】Falling Leaves – 落ち葉の生成・散布・風・アニメーションまで手軽に作成できる無料アドオン！]]></title>
+        <id>https://cgbox.jp/?p=65942</id>
+        <link href="https://cgbox.jp/2026/11/14/news-addon-falling-leaves/"/>
+        <updated>2026-11-14T02:28:38.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは！ 今回はアドオンの「Falling Leaves」を紹介します。 こちらのリンクがアドオンの商品ページになります。 Falling Leaves 「Falling Leaves」は、落ち葉の生成から落下アニメ […]]]></summary>
+        <author>
+            <name>kasahara</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[比較メモ：STLとOBJが持てる情報と、ブラウザ内での二つの変換方向]]></title>
+        <id>https://qiita.com/Julita/items/d3df230c893cc2de5c2f</id>
+        <link href="https://qiita.com/Julita/items/d3df230c893cc2de5c2f"/>
+        <updated>2026-11-14T00:43:43.000Z</updated>
+        <summary type="html"><![CDATA[生成器の書き出しと、手元ファイルの形式変換を同じ作業だと思うと、印刷用の STL を生成画面で探したり、色情報を持たない形式にテクスチャを期待したりしやすい。このメモでは、形式が本来持てる情報を先に比べ、そのうえで 3DMaker の公開ページに出ている二つの変換方向を整理...]]></summary>
+        <author>
+            <name>3DCGタグが付けられた新着記事 - Qiita</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MiniMax H3 Image が公開！4096×4096の画像を直接生成、最大16枚の参照画像で編集、ComfyUIも対応]]></title>
+        <id>https://cginterest.com/?p=67522</id>
+        <link href="https://cginterest.com/2026/11/14/minimax-h3-image/"/>
+        <updated>2026-11-13T22:53:00.000Z</updated>
+        <summary type="html"><![CDATA[2026年11月11日（現地時間）- 中国のAI企業MiniMaxは、約16メガピクセル（4096×4096）の画像を1回で生成できるオープンウェイトの画像モデル「MiniMax H3 Image」（MiniMax-H3 […]]]></summary>
+        <author>
+            <name>.me</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[COYOTE VFXチーム、事前分割メッシュを Niagaraでピースごとに動かす方法を紹介　Houdini-Niagaraプラグインを活用 - ニュース]]></title>
+        <id>https://cgworld.jp/flashnews/01-202611-Coyote-Houdini.html</id>
+        <link href="https://cgworld.jp/flashnews/01-202611-Coyote-Houdini.html"/>
+        <updated>2026-11-13T22:36:50.000Z</updated>
+        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[モミジやサクラなど日本の樹種に特化したBlender向け樹木ジェネレーター「Koshizu Trees」が公開！ドラッグで高さと傾きを調整可能]]></title>
         <id>https://cginterest.com/?p=67550</id>
@@ -4008,103 +4059,6 @@ The post Chroma Spaceー光や影による色の変化を3Dで確認して、そ
 しかし、広い床や壁へ同じTextureを繰り返し配置すると、別の...]]></summary>
         <author>
             <name>CGタグが付けられた新着記事 - Qiita</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ZBrush 2027.0が登場！UDIM対応UVエディターを搭載、マスクやポリペイントを保存するセレクションセットも追加]]></title>
-        <id>https://modelinghappy.com/?p=70995</id>
-        <link href="https://modelinghappy.com/archives/70995"/>
-        <updated>2026-10-15T13:08:55.000Z</updated>
-        <summary type="html"><![CDATA[Zbrush2027.0 Maxonは、3DCGスカルプトソフト「ZBrush 2027.0」の新機能を公開しました。デスクトップ版には、ZBrush内でUVの作成・編集ができるUVエディターと、マスクやポリグループなど
-The post ZBrush 2027.0が登場！UDIM対応UVエディターを搭載、マスクやポリペイントを保存するセレクションセットも追加 first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
-        <author>
-            <name>modelinghappy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EncloseーAIに指示してCADモデルを編集！パーツの修正や専用操作ツールの作成に対応したMAC用無料アプリ]]></title>
-        <id>https://modelinghappy.com/?p=70992</id>
-        <link href="https://modelinghappy.com/archives/70992"/>
-        <updated>2026-10-15T12:55:35.000Z</updated>
-        <summary type="html"><![CDATA[Enclose Encloseは、Claude・Codex・GrokなどのAIエージェントを使ってCADモデルを編集できる、Mac向けのオープンソースアプリです。3Dビューでパーツを選択して変更内容を伝えると、AIがプロ
-The post EncloseーAIに指示してCADモデルを編集！パーツの修正や専用操作ツールの作成に対応したMAC用無料アプリ first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
-        <author>
-            <name>modelinghappy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[UVgamiーブラウザにモデルを読み込むだけでUVを自動展開できる無料サイト！Blenderアドオン版も無料公開]]></title>
-        <id>https://modelinghappy.com/?p=70986</id>
-        <link href="https://modelinghappy.com/archives/70986"/>
-        <updated>2026-10-15T12:41:36.000Z</updated>
-        <summary type="html"><![CDATA[UVgami UVgamiは、3Dモデルを読み込んでボタンを押すだけで、UVを自動展開できる無料サイトです。以前Blenderアドオン版がある事を紹介しましたが、そのwebブラウザ版がリリースしました。 ブラウザ版はイン
-The post UVgamiーブラウザにモデルを読み込むだけでUVを自動展開できる無料サイト！Blenderアドオン版も無料公開 first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
-        <author>
-            <name>modelinghappy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Redshift 2027 がリリース！Archicad に正式対応、レンダリング時に毛を生やす Redshift Fur、Redshift Live の屈折対応など]]></title>
-        <id>https://cginterest.com/?p=63365</id>
-        <link href="https://cginterest.com/2026/10/15/redshift-2027-%e3%81%8c%e3%83%aa%e3%83%aa%e3%83%bc%e3%82%b9%ef%bc%81archicad-%e3%81%ab%e6%ad%a3%e5%bc%8f%e5%af%be%e5%bf%9c%e3%80%81%e3%83%ac%e3%83%b3%e3%83%80%e3%83%aa%e3%83%b3%e3%82%b0%e6%99%82/"/>
-        <updated>2026-10-15T10:50:28.000Z</updated>
-        <summary type="html"><![CDATA[2026年10月14日（現地時間）- MaxonのGPUレンダラー「Redshift」が、バージョン2027.0へとアップデートされました。同じ日に、不具合を直した2027.0.1も公開されています。 主な新機能 今回の […]]]></summary>
-        <author>
-            <name>.me</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cinema 4D 2027 がリリース！岩や草を並べる Scatter Generator、泡やしぶきを表現できる Liquid FX、タグのグループ化など]]></title>
-        <id>https://cginterest.com/?p=63364</id>
-        <link href="https://cginterest.com/2026/10/15/cinema-4d-2027-%e3%81%8c%e3%83%aa%e3%83%aa%e3%83%bc%e3%82%b9%ef%bc%81%e5%b2%a9%e3%82%84%e8%8d%89%e3%82%92%e4%b8%a6%e3%81%b9%e3%82%8b-scatter-generator%e3%80%81%e6%b3%a1%e3%82%84%e3%81%97%e3%81%b6/"/>
-        <updated>2026-10-15T07:58:19.000Z</updated>
-        <summary type="html"><![CDATA[2026年10月14日（現地時間）- Maxonの3DCGソフト「Cinema 4D」が、バージョン2027.0へとアップデートされました。同梱のレンダラー「Redshift」も2027.0になっています。 主な新機能  […]]]></summary>
-        <author>
-            <name>.me</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ZBrush 2027 の使い方を公式チュートリアル8本で学ぶ　UV Editor・Selection Sets・iPad版のSpotlightと3D Layers]]></title>
-        <id>https://cginterest.com/?p=63363</id>
-        <link href="https://cginterest.com/2026/10/15/zbrush-2027-%e3%81%ae%e4%bd%bf%e3%81%84%e6%96%b9%e3%82%92%e5%85%ac%e5%bc%8f%e3%83%81%e3%83%a5%e3%83%bc%e3%83%88%e3%83%aa%e3%82%a2%e3%83%ab8%e6%9c%ac%e3%81%a7%e5%ad%a6%e3%81%b6%e3%80%80uv-editor/"/>
-        <updated>2026-10-15T07:57:31.000Z</updated>
-        <summary type="html"><![CDATA[2026年10月14日（現地時間）- Maxonは、デジタルスカルプトソフト「ZBrush 2027」のリリースにあわせて、新機能の使い方を解説するチュートリアル動画8本を、YouTubeの公式チャンネル「Maxon Z […]]]></summary>
-        <author>
-            <name>.me</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ZBrush 2027 がリリース！Cinema 4D由来のUV Editor、Selection Sets、iPad版にSpotlightと3D Layersが追加]]></title>
-        <id>https://cginterest.com/?p=63362</id>
-        <link href="https://cginterest.com/2026/10/15/zbrush-2027-%e3%81%8c%e3%83%aa%e3%83%aa%e3%83%bc%e3%82%b9%ef%bc%81cinema-4d%e7%94%b1%e6%9d%a5%e3%81%aeuv-editor%e3%80%81selection-sets%e3%80%81ipad%e7%89%88%e3%81%abspotlight%e3%81%a83d-layers/"/>
-        <updated>2026-10-15T07:28:28.000Z</updated>
-        <summary type="html"><![CDATA[2026年10月14日（現地時間）- Maxonのデジタルスカルプトソフト「ZBrush」の新バージョン、ZBrush 2027がリリースされました。 今回のアップデートは、デスクトップ版にはCinema 4DのUV技術 […]]]></summary>
-        <author>
-            <name>.me</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[頻出CG（コンピュータグラフィックス）用語の整理と一撃暗記法]]></title>
-        <id>https://qiita.com/maestro_shin1/items/2d73f25075efbf767cf5</id>
-        <link href="https://qiita.com/maestro_shin1/items/2d73f25075efbf767cf5"/>
-        <updated>2026-10-15T06:43:15.000Z</updated>
-        <summary type="html"><![CDATA[頻出CG（コンピュータグラフィックス）用語の整理と一撃暗記法
-
-はじめに
-情報処理技術者試験（応用情報技術者、高度共通午前Ⅰ・Ⅱなど）で地味に出題され、直前期に「なんだっけ？」となりやすいのが コンピュータグラフィックス（CG） に関する用語問題です。
-「テクスチャとバン...]]></summary>
-        <author>
-            <name>CGタグが付けられた新着記事 - Qiita</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ASUS JAPAN、NVIDIA RTX Spark搭載のクリエイター向けAIノートPC「ProArt」2製品4モデルの予約を開始 - ニュース]]></title>
-        <id>https://cgworld.jp/flashnews/02-2610-asus.html</id>
-        <link href="https://cgworld.jp/flashnews/02-2610-asus.html"/>
-        <updated>2026-10-15T04:45:06.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
         </author>
     </entry>
 </feed>

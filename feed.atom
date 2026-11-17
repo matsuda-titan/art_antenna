@@ -2,10 +2,148 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-11-17T05:40:29.983Z</updated>
+    <updated>2026-11-17T17:11:41.205Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[CADQuader ー 3DCoatがCADデータを四角ポリゴン主体に変換できるベータ版無料ソフトを公開！Blenderとの双方向転送にも対応]]></title>
+        <id>https://modelinghappy.com/?p=71542</id>
+        <link href="https://modelinghappy.com/archives/71542"/>
+        <updated>2026-11-17T13:53:49.000Z</updated>
+        <summary type="html"><![CDATA[CADQuader in action 3DCoatが、CADデータから四角ポリゴン主体のメッシュを生成できるWindows向けツール「CADQuader」のベータ版を公開しました。 STEPやIGES形式のCADデータ
+The post CADQuader ー 3DCoatがCADデータを四角ポリゴン主体に変換できるベータ版無料ソフトを公開！Blenderとの双方向転送にも対応 first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
+        <author>
+            <name>modelinghappy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Blender 5.3でGaussian Splattingのglbが読めないとき、中のSPZを取り出したら読めた]]></title>
+        <id>https://zenn.dev/eight_blog/articles/d04eb74390a080</id>
+        <link href="https://zenn.dev/eight_blog/articles/d04eb74390a080"/>
+        <updated>2026-11-17T13:51:14.000Z</updated>
+        <summary type="html"><![CDATA[Blender 5.3 は Gaussian Splatting を読み込んで、Workbench・EEVEE・Cycles のどれでも描けるようになりました。ところが、手元の glb を glTF として読み込むと「この拡張には対応していない」と止まりました。原因は、glb の中で粒のデータが SPZ という形式に圧縮されていたことです。中の SPZ を取り出して .spz として保存すると、5.3 の SPZ 読み込みで 0.08 秒で読めました。
+
+ 何が起きたか
+お試しのデータに、3D地図の CesiumGS が公開しているテスト用の glb（雪の上の鉄塔・286,868粒・7....]]></summary>
+        <author>
+            <name>eight</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vathography App ー 写真1枚から高解像度のデプスマップを作れる無料アプリ]]></title>
+        <id>https://modelinghappy.com/?p=71536</id>
+        <link href="https://modelinghappy.com/archives/71536"/>
+        <updated>2026-11-17T13:16:39.000Z</updated>
+        <summary type="html"><![CDATA[vathography Karim Joseph Nassarさんが、写真1枚から高解像度のデプスマップを生成できる無料アプリ「Vathography App」を公開しています。 AIモデル、Marigold V2を使い
+The post Vathography App ー 写真1枚から高解像度のデプスマップを作れる無料アプリ first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
+        <author>
+            <name>modelinghappy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Blender のレンダーファームは何 GB の GPU で描くのか、8 社の公式ページを読みました]]></title>
+        <id>https://zenn.dev/renderjanction/articles/a924f22b5b62e7</id>
+        <link href="https://zenn.dev/renderjanction/articles/a924f22b5b62e7"/>
+        <updated>2026-11-17T12:32:00.000Z</updated>
+        <summary type="html"><![CDATA[JANCTION Render（https://render.janction.jp）を作っているジャスミーラボのアカウントです。
+昨日は、レンダーファームが描いた結果を何日残すのかを各社の公式ページで調べて書きました。調べながら気になったのは、もっと手前のことでした。自分のシーンはどの GPU で描かれて、メモリに収まるのか。そこで料金・仕様・FAQ のページをもう一度読み、今度は GPU の型番と 1 枚あたりのメモリを書き出しました。第三者の比較サイトは見ていません。
+
+
+ 読んでみて分かったこと
+いちばん多かったのは 24〜48 GB のカードでした。BlendSwap と Re...]]></summary>
+        <author>
+            <name>render.janction.jp</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[［〆切2026年12月19日 午前7:00］発売まで約1年のインディーゲームに5万ドルを助成「Unity Fellowship」]]></title>
+        <id>https://cginterest.com/?p=68402</id>
+        <link href="https://cginterest.com/2026/11/17/unity-fellowship-2027/"/>
+        <updated>2026-11-17T12:10:03.000Z</updated>
+        <summary type="html"><![CDATA[発売まで約1年のインディーゲームを、Unity が資金とサポートで支える新しい支援プログラム「Unity Fellowship」の募集情報です。 Unity Fellowship とは 「Unity Fellowship […]]]></summary>
+        <author>
+            <name>.me</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google Flow に、映像作家が作った5つの新ツールが登場！年齢を変えても同じ顔を保つ「Character Arc」、スマホ映像をスタジオ風に仕上げる「Pocket Studio」など]]></title>
+        <id>https://cginterest.com/?p=67675</id>
+        <link href="https://cginterest.com/2026/11/17/google-flow-new-tools/"/>
+        <updated>2026-11-17T12:01:34.000Z</updated>
+        <summary type="html"><![CDATA[2026年11月12日（現地時間）- Googleは、AIを使った映像制作ツール「Google Flow」で使える5つの新しいツール「Character Poster」「Character Arc」「Pixel Mach […]]]></summary>
+        <author>
+            <name>.me</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【『League of Legends』『Diablo』『God of War Ragnarök』のゲームVFXアーティスト等も登壇！】オンラインスキルアップイベント『Premier Insights Vol.6 ~Game VFX~』が12.12(土)・13(日)開催 - 特集]]></title>
+        <id>https://cgworld.jp/article/1213premier-insights-vol6-game-vfx.html</id>
+        <link href="https://cgworld.jp/article/1213premier-insights-vol6-game-vfx.html"/>
+        <updated>2026-11-17T09:21:29.000Z</updated>
+        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unity、Synty Studios を買収！POLYGON シリーズのアセットがUnity Spark に統合へ]]></title>
+        <id>https://cginterest.com/?p=68406</id>
+        <link href="https://cginterest.com/2026/11/17/unity-synty-acquisition/"/>
+        <updated>2026-11-17T09:03:38.000Z</updated>
+        <summary type="html"><![CDATA[2026年11月16日（現地時間）- Unityは、ローポリ調の3Dアセット「POLYGON」シリーズで知られるアセット制作会社「Synty Studios」を買収したことを発表しました。 Synty Studios と […]]]></summary>
+        <author>
+            <name>.me</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【Sapporo Game Camp 2026】国内最大規模の札幌開催 Game Jam　怒涛の2日間を現地レポート！ - 特集]]></title>
+        <id>https://cgworld.jp/article/report-sapporogamecamp-2026.html</id>
+        <link href="https://cgworld.jp/article/report-sapporogamecamp-2026.html"/>
+        <updated>2026-11-17T08:14:31.000Z</updated>
+        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Building Cutaway Needs an Interior Continuity Check]]></title>
+        <id>https://zenn.dev/martina/articles/06ec73ca7c688a</id>
+        <link href="https://zenn.dev/martina/articles/06ec73ca7c688a"/>
+        <updated>2026-11-17T08:08:44.000Z</updated>
+        <summary type="html"><![CDATA[A detailed cutaway can show several floors without showing whether the stairs connect them as intended. Pick one connection and follow it from the lower floor, up the stair, across the landing and onto the next floor. That gives you a manageable inspection task.
+Disclosure: I work on SEELE’s moda...]]></summary>
+        <author>
+            <name>Martina</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[自分のイラストを3Dキャラにして動かす。Colab L4でメッシュ生成からリギング、操作まで]]></title>
+        <id>https://zenn.dev/nakanishitf/articles/4a7175473893b2</id>
+        <link href="https://zenn.dev/nakanishitf/articles/4a7175473893b2"/>
+        <updated>2026-11-17T08:05:57.000Z</updated>
+        <summary type="html"><![CDATA[自分が使っているイラストを、3Dの世界へ連れていきたい。
+しかも、置いて眺めるだけでなく、自分で歩かせたり、走らせたり、ジャンプさせたりしたい。
+今回は、私が個人的に使っていた2Dキャラクター「たかにゃん」で試してみました。
+自分の写真をもとにChatGPTで作った、眼鏡をかけた猫のキャラクターです。
+
+今回の入力画像。大きな頭、短めの手足、服、バッグ、尻尾を持っています。
+生成APIへの従量課金を使わず、Google Colab ProのL4 GPUで、画像からメッシュ生成、リギング、既存動作の移植、ブラウザーでの操作までつなげました。
+できたキャラは、ブラウザーで自分で操作できます。...]]></summary>
+        <author>
+            <name>T.N.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Verify 3D Asset Dimensions After Export]]></title>
+        <id>https://qiita.com/Martina_1230/items/e320166993c92743bb54</id>
+        <link href="https://qiita.com/Martina_1230/items/e320166993c92743bb54"/>
+        <updated>2026-11-17T07:23:40.000Z</updated>
+        <summary type="html"><![CDATA[A 3D asset can look correct in two viewports and still arrive at the wrong physical size. To check the handoff, measure the source and im...]]></summary>
+        <author>
+            <name>3DCGタグが付けられた新着記事 - Qiita</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Effective User Studies in Computer Graphics(2023) 前半]]></title>
         <id>https://qiita.com/matumu20/items/aa779c187031de58610b</id>
@@ -4016,108 +4154,6 @@ The post Supa Painter ー 写真やPBRテクスチャ、レンダリング画像
         <summary type="html"><![CDATA[『プロ野球スピリッツ2026』のゲームCGメイキングを紹介。]]></summary>
         <author>
             <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[オリジナルキャラ「サニーくん」を3D化してみた｜ChatGPTの絵から、無料のAIで立体データに]]></title>
-        <id>https://zenn.dev/toprunner/articles/d30f2235e5ef8b</id>
-        <link href="https://zenn.dev/toprunner/articles/d30f2235e5ef8b"/>
-        <updated>2026-10-19T03:52:14.000Z</updated>
-        <summary type="html"><![CDATA[TOP RUNNERのマスコット「サニーくん」を、立体にしてみました。
-きっかけは、最近よく見かけるキーボード型のキーホルダーです。キーを押すとカチッと鳴るあれに、サニーくんを載せたら楽しそうだなと思いました。キーの上に載せるには、まず3Dデータが要ります。
-いつもChatGPTで描いてもらっているサニーくんの絵から、Fusionで加工できる3Dデータを作れるのか。やってみた流れと、ハマったところをまとめます。
-
- 作った流れ
-
-
-ChatGPTで、3D化に使う正面の絵を作る
-無料で使えるAIのデモに絵を入れて、立体にする
-横と後ろの絵も足して、作り直す
-STLに変換して、Fusionで...]]></summary>
-        <author>
-            <name>TOPRUNNER</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[botaniq 7.3 がリリース！枝・葉マスキングで樹木アセットの枝や葉の量を調整可能に]]></title>
-        <id>https://cginterest.com/?p=63201</id>
-        <link href="https://cginterest.com/2026/10/19/botaniq-7-3-%e3%81%8c%e3%83%aa%e3%83%aa%e3%83%bc%e3%82%b9%ef%bc%81%e6%9e%9d%e3%83%bb%e8%91%89%e3%83%9e%e3%82%b9%e3%82%ad%e3%83%b3%e3%82%b0%e3%81%a7%e6%a8%b9%e6%9c%a8%e3%82%a2%e3%82%bb%e3%83%83/"/>
-        <updated>2026-10-19T03:08:53.000Z</updated>
-        <summary type="html"><![CDATA[2026年8月28日（現地時間）- polygoniqが提供するBlender向けの樹木・植物アセットライブラリ「botaniq」が、バージョン7.3.0へとアップデートされました。 主な新機能 今回のアップデートでは、 […]]]></summary>
-        <author>
-            <name>.me</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【アドオン紹介】Physics Painter – 物理演算を使って小物や瓦礫を自然に配置できるアドオン！]]></title>
-        <id>https://cgbox.jp/?p=65851</id>
-        <link href="https://cgbox.jp/2026/10/19/news-addon-physics-painter/"/>
-        <updated>2026-10-19T01:37:22.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは！ 今回はアドオンの「Physics Painter」を紹介します。 こちらのリンクがアドオンの商品ページになります。 Physics Painter 「Physics Painter」は、ブラシでなぞった場所 […]]]></summary>
-        <author>
-            <name>kasahara</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【ゲーム制作知識】コリジョンについて]]></title>
-        <id>https://3d.crdg.jp/env/?p=10614</id>
-        <link href="https://3d.crdg.jp/env/2026/10/19/10614/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=%25e3%2580%2590%25e3%2582%25b2%25e3%2583%25bc%25e3%2583%25a0%25e5%2588%25b6%25e4%25bd%259c%25e7%259f%25a5%25e8%25ad%2598%25e3%2580%2591%25e3%2582%25b3%25e3%2583%25aa%25e3%2582%25b8%25e3%2583%25a7%25e3%2583%25b3%25e3%2581%25ab%25e3%2581%25a4%25e3%2581%2584%25e3%2581%25a6"/>
-        <updated>2026-10-19T00:30:00.000Z</updated>
-        <summary type="html"><![CDATA[今回はアクションゲーム制作における“コリジョン”についてお話します。 コリジョンとは？ 一般論として”キャラクターやオブジェク […]
-続きを読む
-投稿 【ゲーム制作知識】コリジョンについて は エンホリ - ENVIRONMENT HOLIC｜C&R Creative Studios に最初に表示されました。]]></summary>
-        <author>
-            <name>Soichiro.Hashii</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3ds Max用スカルプトプラグイン「Sculpt Mesh」リリース　マルチレゾリューションスカルプトやペイント、リトポロジー、マップベイクに対応 - ニュース]]></title>
-        <id>https://cgworld.jp/flashnews/01-202610-3dsMax-SculptMesh.html</id>
-        <link href="https://cgworld.jp/flashnews/01-202610-3dsMax-SculptMesh.html"/>
-        <updated>2026-10-19T00:00:12.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[フォトグラメトリ数学｜62：固有値・固有ベクトルとは何か～誤差楕円の大きさと方向を求める～]]></title>
-        <id>https://zenn.dev/s_hashida/articles/cbea31661609e3</id>
-        <link href="https://zenn.dev/s_hashida/articles/cbea31661609e3"/>
-        <updated>2026-10-18T21:51:05.000Z</updated>
-        <summary type="html"><![CDATA[はじめに
-前回は、
-
-誤差楕円とは何か
-分散と楕円の大きさの関係
-共分散と楕円の傾きの関係
-誤差楕円を表す式
-誤差楕円体とは何か
-フォトグラメトリにおける意味
-
-について説明しました。
-
-その中で重要だったのが、
-
-\mathbf{e}^T
-\Sigma^{-1}
-\mathbf{e}
-=
-c^2
-
-という関係です。
-これは、共分散行列 \Sigma を使って、誤差の広がりを楕円や楕円体として表す式でした。
-
-しかし、この式だけでは、
-
-誤差楕円の長軸はどちらを向くのか
-短軸はどちらを向くのか
-それぞれの軸の長さはいくつなのか
-
-が直感的には分かりません。
-これらを求めるために登場...]]></summary>
-        <author>
-            <name>s_hashida</name>
         </author>
     </entry>
 </feed>

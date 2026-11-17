@@ -290,21 +290,6 @@
             "type": "video/mp4"
           },
           "imageUrl": "https://cgbox.jp/wp-content/uploads/2026/10/image_processing20261018-2-lmgt1p.webp"
-        },
-        {
-          "id": "https://cgbox.jp/?p=65847",
-          "author": "kasahara",
-          "description": "こんばんは！ 今回はアドオンの「Wheel Gen」を紹介します。 こちらのリンクがアドオンの商品ページになります。 Wheel Gen 「Wheel Gen」は、自動車・バイク・自転車・トラック・建設車両などのホイール […]",
-          "link": "https://cgbox.jp/2026/10/18/news-addon-wheel-gen/",
-          "publishedOn": "2026-10-18T08:48:45.000Z",
-          "wordCount": 2013,
-          "title": "【アドオン紹介】Wheel Gen – 車・バイク・トラックなど多彩なホイールとタイヤを自動生成できるアドオン！",
-          "enclosure": {
-            "url": "https://cgbox.jp/wp-content/uploads/2026/10/trailer1008_fin03-21.mp4",
-            "length": "0",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://cgbox.jp/wp-content/uploads/2026/10/image_processing20261018-2-w4lzil.webp"
         }
       ]
     },
@@ -731,6 +716,26 @@
       "feedUrl": "https://cgworld.jp/atom.xml",
       "siteUrl": "https://cgworld.jp/",
       "articles": [
+        {
+          "id": "https://cgworld.jp/article/339-animecg-reborn01.html",
+          "author": null,
+          "description": "『THE RIBBON HERO リボンヒーロー』のアニメCGメイキングを紹介。",
+          "link": "https://cgworld.jp/article/339-animecg-reborn01.html",
+          "publishedOn": "2026-11-17T01:00:15.000Z",
+          "wordCount": 810,
+          "title": "『THE RIBBON HERO リボンヒーロー』特撮の着ぐるみのような動きを目指した巨大な厄災\"ネルガル\" ～No.1／3DCG篇 - 特集",
+          "imageUrl": "https://cgworld.jp/article/assets_c/2026/10/c8895f5d04fae9450dba20ef9bb4c1e9d1e0226c-thumb-1000x416-90295.jpg"
+        },
+        {
+          "id": "https://cgworld.jp/flashnews/01-202611-C4D-NodeStroke.html",
+          "author": null,
+          "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
+          "link": "https://cgworld.jp/flashnews/01-202611-C4D-NodeStroke.html",
+          "publishedOn": "2026-11-16T23:49:06.000Z",
+          "wordCount": 826,
+          "title": "無料プラグイン「NodeStroke for Cinema 4D」リリース　マウスジェスチャーでノードの接続・切断・挿入が可能に - ニュース",
+          "imageUrl": "https://cgworld.jp/flashnews/assets_c/2026/11/C4D_NodeStroke-01-thumb-1920x1080-91266.jpg"
+        },
         {
           "id": "https://cgworld.jp/article/202611-kojimapro-10th.html",
           "author": null,
@@ -1374,6 +1379,16 @@
       "siteUrl": "https://modelinghappy.com",
       "articles": [
         {
+          "id": "https://modelinghappy.com/?p=71527",
+          "author": "modelinghappy",
+          "description": "Outfit Creator Unreal Engine上で、MetaHumanの体型や服の重ね着に合わせて衣装を調整できるプラグイン「Outfit Creator」の早期アクセスが公開されました。 Fabで入手した別々\nThe post Outfit Creator ー MetaHumanの服の貫通をワンクリックで調整できるUE5プラグインが無料公開 first appeared on 3DCG最新情報サイト MODELING HAPPY.",
+          "link": "https://modelinghappy.com/archives/71527",
+          "publishedOn": "2026-11-16T22:46:56.000Z",
+          "wordCount": 3084,
+          "title": "Outfit Creator ー MetaHumanの服の貫通をワンクリックで調整できるUE5プラグインが無料公開",
+          "imageUrl": "https://modelinghappy.com/wp-content/uploads/2026/11/20261117_outfit_creator_01.jpg"
+        },
+        {
           "id": "https://modelinghappy.com/?p=71520",
           "author": "modelinghappy",
           "description": "Peekaboo Mr3Dさんが、3Dビューポートで手前のモデルに隠れているオブジェクトを選びやすくなるBlenderアドオン「Peekaboo」を公開しました。 選びたいパーツがある位置にマウスを置き、Alt + Sp\nThe post Peekaboo – 手前のモデルに隠れたオブジェクトをサムネイルから選べるBlenderアドオン first appeared on 3DCG最新情報サイト MODELING HAPPY.",
@@ -1875,6 +1890,51 @@
       "feedUrl": "https://zenn.dev/topics/3dcg/feed",
       "siteUrl": "https://zenn.dev/topics/3dcg",
       "articles": [
+        {
+          "id": "https://zenn.dev/sec_madoguchi/articles/vroid-fcl-to-vrchat-shapekeys",
+          "author": "情シス窓口",
+          "description": "VRoid Studio で作ったモデルを Blender に読み込むと、表情のシェイプキーは Fcl_MTH_A・Fcl_EYE_Close のような名前になっています。VRChat 向けに口パク（リップシンク）やまばたきを設定するとき、これを vrc.v_aa・vrc.blink のような VRChat でよく使われる名前にそろえておくと、どのキーがどの口の形かが名前だけで分かります。口の形の vrc.v_～ は、Unity の VRChat SDK（Avatar Descriptor の Lip Sync）で自動検出が探す名前です。\nこの記事では、名前を変える方法を3つ書きます。\n...",
+          "link": "https://zenn.dev/sec_madoguchi/articles/vroid-fcl-to-vrchat-shapekeys",
+          "publishedOn": "2026-11-16T15:49:18.000Z",
+          "wordCount": 1289,
+          "title": "VRoid の Fcl_ のシェイプキー名を VRChat の vrc.～ 名に変える（Blender 4.5 LTS／5.1／5.2）",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--2LBD1se---/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:VRoid%2520%25E3%2581%25AE%2520Fcl_%2520%25E3%2581%25AE%25E3%2582%25B7%25E3%2582%25A7%25E3%2582%25A4%25E3%2583%2597%25E3%2582%25AD%25E3%2583%25BC%25E5%2590%258D%25E3%2582%2592%2520VRChat%2520%25E3%2581%25AE%2520vrc.%25EF%25BD%259E%2520%25E5%2590%258D%25E3%2581%25AB%25E5%25A4%2589%25E3%2581%2588%25E3%2582%258B%25EF%25BC%2588Blender%25204.5%2520L...%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E6%2583%2585%25E3%2582%25B7%25E3%2582%25B9%25E7%25AA%2593%25E5%258F%25A3%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2E3YTQ1MzU5NmMuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+            "length": "0",
+            "type": "false"
+          },
+          "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--2LBD1se---/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:VRoid%2520%25E3%2581%25AE%2520Fcl_%2520%25E3%2581%25AE%25E3%2582%25B7%25E3%2582%25A7%25E3%2582%25A4%25E3%2583%2597%25E3%2582%25AD%25E3%2583%25BC%25E5%2590%258D%25E3%2582%2592%2520VRChat%2520%25E3%2581%25AE%2520vrc.%25EF%25BD%259E%2520%25E5%2590%258D%25E3%2581%25AB%25E5%25A4%2589%25E3%2581%2588%25E3%2582%258B%25EF%25BC%2588Blender%25204.5%2520L...%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E6%2583%2585%25E3%2582%25B7%25E3%2582%25B9%25E7%25AA%2593%25E5%258F%25A3%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2E3YTQ1MzU5NmMuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+        },
+        {
+          "id": "https://zenn.dev/samuphys/articles/3a32a4fad3b7b4",
+          "author": "化学屋",
+          "description": "背景：なぜ比べて、どう決めたか\nAIエージェントの進化が目覚ましいので、箱庭海戦のゲームを作ろうと思い立った。クオータービューで、マス目の概念は残しつつ、手作りしてると荷が重い自動生成を取り込んで、街並みに表情がある箱庭ゲームを作りたい。結論を書くと、自作の箱庭都市（6,370万三角形）をGodot 4.4とUE 5.8の両方で描かせて測り、今回の要件ではGodotを採用することに。 発端は、Godotの自動LODが効かなかった時に浮かんだ「これならNaniteのあるUE5へ移るべきでは？」という問い。建物を棟ごとの3Dモデルで渡すのではなく、壁セルなどの部品から組み上げる形にしてい...",
+          "link": "https://zenn.dev/samuphys/articles/3a32a4fad3b7b4",
+          "publishedOn": "2026-11-16T13:45:08.000Z",
+          "wordCount": 906,
+          "title": "6,370万ポリゴンの箱庭都市でGodot 4.4とUE 5.8を重さ比べして、Godotに残ると決めた話",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--N4djKmiO--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:6%252C370%25E4%25B8%2587%25E3%2583%259D%25E3%2583%25AA%25E3%2582%25B4%25E3%2583%25B3%25E3%2581%25AE%25E7%25AE%25B1%25E5%25BA%25AD%25E9%2583%25BD%25E5%25B8%2582%25E3%2581%25A7Godot%25204.4%25E3%2581%25A8UE%25205.8%25E3%2582%2592%25E9%2587%258D%25E3%2581%2595%25E6%25AF%2594%25E3%2581%25B9%25E3%2581%2597%25E3%2581%25A6%25E3%2580%2581Godot%25E3%2581%25AB%25E6%25AE%258B%25E3%2582%258B%25E3%2581%25A8%25E6%25B1%25BA%25E3%2582%2581%25E3%2581%259F%25E8%25A9%25B1%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E5%258C%2596%25E5%25AD%25A6%25E5%25B1%258B%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jS05aVUVtYzd1MHlVdGYtUm55OUNlRXBvVmllOU82SzJXcVdYejZ4NkNNM0dWeTBIUT1zMjUwLWM=%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+            "length": "0",
+            "type": "false"
+          },
+          "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--N4djKmiO--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:6%252C370%25E4%25B8%2587%25E3%2583%259D%25E3%2583%25AA%25E3%2582%25B4%25E3%2583%25B3%25E3%2581%25AE%25E7%25AE%25B1%25E5%25BA%25AD%25E9%2583%25BD%25E5%25B8%2582%25E3%2581%25A7Godot%25204.4%25E3%2581%25A8UE%25205.8%25E3%2582%2592%25E9%2587%258D%25E3%2581%2595%25E6%25AF%2594%25E3%2581%25B9%25E3%2581%2597%25E3%2581%25A6%25E3%2580%2581Godot%25E3%2581%25AB%25E6%25AE%258B%25E3%2582%258B%25E3%2581%25A8%25E6%25B1%25BA%25E3%2582%2581%25E3%2581%259F%25E8%25A9%25B1%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E5%258C%2596%25E5%25AD%25A6%25E5%25B1%258B%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jS05aVUVtYzd1MHlVdGYtUm55OUNlRXBvVmllOU82SzJXcVdYejZ4NkNNM0dWeTBIUT1zMjUwLWM=%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+        },
+        {
+          "id": "https://zenn.dev/renderjanction/articles/fdd07cbc422056",
+          "author": "render.janction.jp",
+          "description": "JANCTION Render を作っているジャスミーラボのアカウントです。今日（2026 年 11 月 16 日）、JANCTION Render の月額プランに JANCTION Storage（β）を付けて、描いた結果とシーンを契約中ずっと残せるようにしました。\nそれを書く前に、ほかのレンダーファームがどれくらい残しているのかを知っておきたくなりました。「うちは長く残します」と言っても、基準が分からないと比べようがないので。そこで、保存の決まりを公開しているところを探して、FAQ と規約と案内のページを順に読みました。第三者の比較サイトは見ていません。\n\n\n 読んでみて分かったこと...",
+          "link": "https://zenn.dev/renderjanction/articles/fdd07cbc422056",
+          "publishedOn": "2026-11-16T10:16:42.000Z",
+          "wordCount": 744,
+          "title": "Blender のレンダーファームは描いた結果を何日残すのか、7 社の公式ページを読んでみました",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--JjJhRBiu--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Blender%2520%25E3%2581%25AE%25E3%2583%25AC%25E3%2583%25B3%25E3%2583%2580%25E3%2583%25BC%25E3%2583%2595%25E3%2582%25A1%25E3%2583%25BC%25E3%2583%25A0%25E3%2581%25AF%25E6%258F%258F%25E3%2581%2584%25E3%2581%259F%25E7%25B5%2590%25E6%259E%259C%25E3%2582%2592%25E4%25BD%2595%25E6%2597%25A5%25E6%25AE%258B%25E3%2581%2599%25E3%2581%25AE%25E3%2581%258B%25E3%2580%25817%2520%25E7%25A4%25BE%25E3%2581%25AE%25E5%2585%25AC%25E5%25BC%258F%25E3%2583%259A%25E3%2583%25BC%25E3%2582%25B8%25E3%2582%2592%25E8%25AA%25AD%25E3%2582%2593%25E3%2581%25A7%25E3%2581%25BF%25E3%2581%25BE%25E3%2581%2597%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:render.janction.jp%2Cx_90%2Cy_121/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+            "length": "0",
+            "type": "false"
+          },
+          "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--JjJhRBiu--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Blender%2520%25E3%2581%25AE%25E3%2583%25AC%25E3%2583%25B3%25E3%2583%2580%25E3%2583%25BC%25E3%2583%2595%25E3%2582%25A1%25E3%2583%25BC%25E3%2583%25A0%25E3%2581%25AF%25E6%258F%258F%25E3%2581%2584%25E3%2581%259F%25E7%25B5%2590%25E6%259E%259C%25E3%2582%2592%25E4%25BD%2595%25E6%2597%25A5%25E6%25AE%258B%25E3%2581%2599%25E3%2581%25AE%25E3%2581%258B%25E3%2580%25817%2520%25E7%25A4%25BE%25E3%2581%25AE%25E5%2585%25AC%25E5%25BC%258F%25E3%2583%259A%25E3%2583%25BC%25E3%2582%25B8%25E3%2582%2592%25E8%25AA%25AD%25E3%2582%2593%25E3%2581%25A7%25E3%2581%25BF%25E3%2581%25BE%25E3%2581%2597%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:render.janction.jp%2Cx_90%2Cy_121/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
+        },
         {
           "id": "https://zenn.dev/s_hashida/articles/fa889315d626f6",
           "author": "s_hashida",
@@ -2537,6 +2597,26 @@
       "siteUrl": "https://qiita.com",
       "articles": [
         {
+          "id": "https://qiita.com/matumu20/items/aa779c187031de58610b",
+          "author": null,
+          "description": "Effective User Studies in Computer Graphics(Eurographics 2023) 前半(1章～3章)\n\n3行要約\n\n本チュートリアルは、コンピュータグラフィックスおよびVirtual Reality（VR）研究において、被...",
+          "link": "https://qiita.com/matumu20/items/aa779c187031de58610b",
+          "publishedOn": "2026-11-17T03:56:41.000Z",
+          "wordCount": 3045,
+          "title": "Effective User Studies in Computer Graphics(2023) 前半",
+          "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYyOTgxNjYwJTJGOTViNDExMjY5MmU5NDc5M2U2NTY5ODQ5MzdmM2I4ZjliMmE3MDc2YSUyRmxhcmdlLnBuZyUzRjE2Njg2MDM2MDk_aXhsaWI9cmItNC4xLjEmYXI9MSUzQTEmZml0PWNyb3AmbWFzaz1lbGxpcHNlJmJnPUZGRkZGRiZmbT1wbmczMiZzPWE1ZTgxNGYzYWQ2OTFjZmM4MWVmYjBlODkwMzg4NjNk%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3Db091fc7b27b7f70f9fcc9261423415bf?ixlib=rb-4.1.1&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9RWZmZWN0aXZlJTIwVXNlciUyMFN0dWRpZXMlMjBpbiUyMENvbXB1dGVyJTIwR3JhcGhpY3MlMjgyMDIzJTI5JTIwJUU1JTg5JThEJUU1JThEJThBJnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9NWQ0NTBmMWJkMGU4OWE3N2UxMDNjMTkwMmQzNTVkNDA&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBtYXR1bXUyMCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPTUwYzYyYzVhMmI4MTU4MWE3ZTg2NGY0YmMyNWRkOGQ3&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=f0340860e116a0804cd8dccadf5fd1ea"
+        },
+        {
+          "id": "https://qiita.com/hatyibei/items/79c21bb0384baf24a6b3",
+          "author": null,
+          "description": "T ポーズにしたら、袖の下がパックリ裂けて黒い膜が見えた。そんな経験、3Dモデルをいじっていると一度はありますよね？\nTripo でイラストから作った半袖パーカーのキャラを VRM にして、袖下の裂けを直してみました。Blender のリグ用スクリプト（ファイル名は s5...",
+          "link": "https://qiita.com/hatyibei/items/79c21bb0384baf24a6b3",
+          "publishedOn": "2026-11-17T01:27:35.000Z",
+          "wordCount": 2197,
+          "title": "Tripo製VRMの脇の裂けを、16.6%から8.5%まで直した",
+          "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRmxoMy5nb29nbGV1c2VyY29udGVudC5jb20lMkZhJTJGQUl0YnZta3UyQl9XaG9WTnhQX2VEM0pzZXR5M1JDVHNNOFhTa2NuQm5tc2IlM0RzNTAtbW8_aXhsaWI9cmItNC4xLjEmYXI9MSUzQTEmZml0PWNyb3AmbWFzaz1lbGxpcHNlJmJnPUZGRkZGRiZmbT1wbmczMiZzPTkzMzZiYzE3YTMwMDUyNzBhNjUxNmY4OTUwNzY1ODNm%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3Dfe5a857561ca83f8bc614d62084bd909?ixlib=rb-4.1.1&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9VHJpcG8lRTglQTMlQkRWUk0lRTMlODElQUUlRTglODQlODclRTMlODElQUUlRTglQTMlODIlRTMlODElOTElRTMlODIlOTIlRTMlODAlODExNi42JTI1JUUzJTgxJThCJUUzJTgyJTg5OC41JTI1JUUzJTgxJUJFJUUzJTgxJUE3JUU3JTlCJUI0JUUzJTgxJTk3JUUzJTgxJTlGJnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9Yzc5ODNiYWJjMDU4NDVhMjk5YzZjNzllM2Y0MzNhOTI&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBoYXR5aWJlaSZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPTMwNDkzZWJlYjBmZWQ2Mzk3YTJkY2IzODNiZmM4Y2Ux&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=2d5c35488f2e7328607f44362e70a050"
+        },
+        {
           "id": "https://qiita.com/DerekFowler/items/f3c007bbb521355c60a5",
           "author": null,
           "description": "同じサイトに生成の案内と形式変換が並んでいると、どれも「ファイルを出す画面」に見えてしまう。実際には、トップが見せているのは生成器の紹介と GLB での受け渡しであり、あとの二つのページは、すでに持っているファイルをブラウザ内で変換するだけの画面である。このメモは、公開ペー...",
@@ -2848,6 +2928,16 @@
       "feedUrl": "https://qiita.com/tags/%e3%82%b0%e3%83%a9%e3%83%95%e3%82%a3%e3%83%83%e3%82%af%e3%82%b9/feed",
       "siteUrl": "https://qiita.com",
       "articles": [
+        {
+          "id": "https://qiita.com/albertn/items/66a8ef05147c5b8a5a0f",
+          "author": null,
+          "description": "1. はじめに — 昨日の続き\nEmber 32の持ち上げは、1つずつ仕組みを足してきました。合成器が画面を組み立てて、カートがデータを運んで、CPUがループで位置を計算して、昨日はラスタテーブルで水面をゆらしました。昨日の話はこちらです。https://qiita.co...",
+          "link": "https://qiita.com/albertn/items/66a8ef05147c5b8a5a0f",
+          "publishedOn": "2026-11-17T02:53:02.000Z",
+          "wordCount": 2748,
+          "title": "四角形をひずませて奥行きを作る — Ember 32のテクスチャクアッド",
+          "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkY0NTE0MDIzJTJGYjM3MTJjMWQ2ZDczMzI2YWRhMDhkMTEyZWJjZGI3NWIzZTdmMjdjNyUyRmxhcmdlLnBuZyUzRjE3OTE4NTk2NzQ_aXhsaWI9cmItNC4xLjEmYXI9MSUzQTEmZml0PWNyb3AmbWFzaz1lbGxpcHNlJmJnPUZGRkZGRiZmbT1wbmczMiZzPTc3MTdiN2VhZWFhZDhkMzkyNGMxM2IwOTc3ZDE2Y2E5%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D17cecb816563f94327324273c234ced9?ixlib=rb-4.1.1&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9JUU1JTlCJTlCJUU4JUE3JTkyJUU1JUJEJUEyJUUzJTgyJTkyJUUzJTgxJUIyJUUzJTgxJTlBJUUzJTgxJUJFJUUzJTgxJTlCJUUzJTgxJUE2JUU1JUE1JUE1JUU4JUExJThDJUUzJTgxJThEJUUzJTgyJTkyJUU0JUJEJTlDJUUzJTgyJThCJTIwJUUyJTgwJTk0JTIwRW1iZXIlMjAzMiVFMyU4MSVBRSVFMyU4MyU4NiVFMyU4MiVBRiVFMyU4MiVCOSVFMyU4MyU4MSVFMyU4MyVBMyVFMyU4MiVBRiVFMyU4MiVBMiVFMyU4MyU4MyVFMyU4MyU4OSZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnR4dC1wYWQ9MCZzPTM0YmY3Y2I3OWM4MzY3ZWZjOWMyMzg2OTdiYTk3OGY1&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBhbGJlcnRuJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9NTU2ZjFmOGQ1MDcxYWY0MWMyMzAxYWZlNTc3MzM1Nzc&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=02741fc6a8fd92df94c74fc98bb7d20f"
+        },
         {
           "id": "https://qiita.com/albertn/items/44c9e1d39a9aaada4060",
           "author": null,
@@ -4282,31 +4372,6 @@
             "type": "video/mp4"
           },
           "imageUrl": "https://cginterest.com/wp-content/uploads/2026/10/botaniq7_3.webp"
-        },
-        {
-          "id": "https://cginterest.com/?p=63731",
-          "author": ".me",
-          "description": "2026年10月16日（現地時間）- テキストや画像から3Dモデルを生成できるAIサービス「Meshy」は、生成した3Dモデルの一部を選択し、テキストの指示で部分的に作り直せる新機能「Meshy Edit」の提供を開始し […]",
-          "link": "https://cginterest.com/2026/10/18/meshy%e3%80%813d%e3%83%a2%e3%83%87%e3%83%ab%e3%81%ae%e4%b8%80%e9%83%a8%e3%81%a0%e3%81%91%e3%82%92%e6%96%87%e7%ab%a0%e3%81%a7%e4%bd%9c%e3%82%8a%e7%9b%b4%e3%81%9b%e3%82%8b%e3%80%8cmeshy-edit%e3%80%8d/",
-          "publishedOn": "2026-10-18T08:39:00.000Z",
-          "wordCount": 543,
-          "title": "Meshy、3Dモデルの一部だけを文章で作り直せる「Meshy Edit」を公開！無料プランでも利用可能",
-          "enclosure": {
-            "url": "https://cginterest.com/wp-content/uploads/2026/10/meshy-edit-boots.mp4",
-            "length": "309030",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://cginterest.com/wp-content/uploads/2026/10/MeshyEdit.webp"
-        },
-        {
-          "id": "https://cginterest.com/?p=63685",
-          "author": ".me",
-          "description": "2026年9月10日（現地時間）- 文章や画像から3Dモデルを生成するAIサービス「Meshy」の最新モデル「Meshy 7.1」が公開されました。 Meshy 7.1 とは Meshy 7.1は、8月に公開されたMes […]",
-          "link": "https://cginterest.com/2026/10/18/3d%e7%94%9f%e6%88%90ai%e3%80%8cmeshy-7-1%e3%80%8d%e3%81%8c%e5%85%ac%e9%96%8b%ef%bc%81%e6%96%b0%e3%83%a2%e3%83%bc%e3%83%89%e3%80%8cultra-4k%e3%80%8d%e3%81%a7%e3%82%b8%e3%82%aa%e3%83%a1%e3%83%88/",
-          "publishedOn": "2026-10-18T07:57:05.000Z",
-          "wordCount": 566,
-          "title": "3D生成AI「Meshy 7.1」が公開！新モード「Ultra 4K」でジオメトリ解像度が4096³に、独自ベンチマークも",
-          "imageUrl": "https://cginterest.com/wp-content/uploads/2026/10/meshy-7-1-launch-card.webp"
         }
       ]
     }

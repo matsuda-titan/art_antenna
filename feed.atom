@@ -2,10 +2,77 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-11-16T17:39:39.681Z</updated>
+    <updated>2026-11-17T05:40:29.983Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Effective User Studies in Computer Graphics(2023) 前半]]></title>
+        <id>https://qiita.com/matumu20/items/aa779c187031de58610b</id>
+        <link href="https://qiita.com/matumu20/items/aa779c187031de58610b"/>
+        <updated>2026-11-17T03:56:41.000Z</updated>
+        <summary type="html"><![CDATA[Effective User Studies in Computer Graphics(Eurographics 2023) 前半(1章～3章)
+
+3行要約
+
+本チュートリアルは、コンピュータグラフィックスおよびVirtual Reality（VR）研究において、被...]]></summary>
+        <author>
+            <name>3DCGタグが付けられた新着記事 - Qiita</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[四角形をひずませて奥行きを作る — Ember 32のテクスチャクアッド]]></title>
+        <id>https://qiita.com/albertn/items/66a8ef05147c5b8a5a0f</id>
+        <link href="https://qiita.com/albertn/items/66a8ef05147c5b8a5a0f"/>
+        <updated>2026-11-17T02:53:02.000Z</updated>
+        <summary type="html"><![CDATA[1. はじめに — 昨日の続き
+Ember 32の持ち上げは、1つずつ仕組みを足してきました。合成器が画面を組み立てて、カートがデータを運んで、CPUがループで位置を計算して、昨日はラスタテーブルで水面をゆらしました。昨日の話はこちらです。https://qiita.co...]]></summary>
+        <author>
+            <name>グラフィックスタグが付けられた新着記事 - Qiita</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tripo製VRMの脇の裂けを、16.6%から8.5%まで直した]]></title>
+        <id>https://qiita.com/hatyibei/items/79c21bb0384baf24a6b3</id>
+        <link href="https://qiita.com/hatyibei/items/79c21bb0384baf24a6b3"/>
+        <updated>2026-11-17T01:27:35.000Z</updated>
+        <summary type="html"><![CDATA[T ポーズにしたら、袖の下がパックリ裂けて黒い膜が見えた。そんな経験、3Dモデルをいじっていると一度はありますよね？
+Tripo でイラストから作った半袖パーカーのキャラを VRM にして、袖下の裂けを直してみました。Blender のリグ用スクリプト（ファイル名は s5...]]></summary>
+        <author>
+            <name>3DCGタグが付けられた新着記事 - Qiita</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[『THE RIBBON HERO リボンヒーロー』特撮の着ぐるみのような動きを目指した巨大な厄災"ネルガル" ～No.1／3DCG篇 - 特集]]></title>
+        <id>https://cgworld.jp/article/339-animecg-reborn01.html</id>
+        <link href="https://cgworld.jp/article/339-animecg-reborn01.html"/>
+        <updated>2026-11-17T01:00:15.000Z</updated>
+        <summary type="html"><![CDATA[『THE RIBBON HERO リボンヒーロー』のアニメCGメイキングを紹介。]]></summary>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[無料プラグイン「NodeStroke for Cinema 4D」リリース　マウスジェスチャーでノードの接続・切断・挿入が可能に - ニュース]]></title>
+        <id>https://cgworld.jp/flashnews/01-202611-C4D-NodeStroke.html</id>
+        <link href="https://cgworld.jp/flashnews/01-202611-C4D-NodeStroke.html"/>
+        <updated>2026-11-16T23:49:06.000Z</updated>
+        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Outfit Creator ー MetaHumanの服の貫通をワンクリックで調整できるUE5プラグインが無料公開]]></title>
+        <id>https://modelinghappy.com/?p=71527</id>
+        <link href="https://modelinghappy.com/archives/71527"/>
+        <updated>2026-11-16T22:46:56.000Z</updated>
+        <summary type="html"><![CDATA[Outfit Creator Unreal Engine上で、MetaHumanの体型や服の重ね着に合わせて衣装を調整できるプラグイン「Outfit Creator」の早期アクセスが公開されました。 Fabで入手した別々
+The post Outfit Creator ー MetaHumanの服の貫通をワンクリックで調整できるUE5プラグインが無料公開 first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
+        <author>
+            <name>modelinghappy</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Blender 5.3 | 3D Gaussian Splattingに標準対応！EEVEEの陰影を制御する新ノード＆CyclesのDLSSデノイズなどを搭載した最新版がリリース！]]></title>
         <id>https://3dnchu.com/?p=1069737</id>
@@ -14,6 +81,29 @@
         <summary type="html"><![CDATA[Blender Foundationと開発コミュニティは、2026年11月10日、無料＆オープンソースの3DCGソフト「Blender 5.3」を正式リリースしました！]]></summary>
         <author>
             <name>Ymt3D -3dnchu-</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[VRoid の Fcl_ のシェイプキー名を VRChat の vrc.～ 名に変える（Blender 4.5 LTS／5.1／5.2）]]></title>
+        <id>https://zenn.dev/sec_madoguchi/articles/vroid-fcl-to-vrchat-shapekeys</id>
+        <link href="https://zenn.dev/sec_madoguchi/articles/vroid-fcl-to-vrchat-shapekeys"/>
+        <updated>2026-11-16T15:49:18.000Z</updated>
+        <summary type="html"><![CDATA[VRoid Studio で作ったモデルを Blender に読み込むと、表情のシェイプキーは Fcl_MTH_A・Fcl_EYE_Close のような名前になっています。VRChat 向けに口パク（リップシンク）やまばたきを設定するとき、これを vrc.v_aa・vrc.blink のような VRChat でよく使われる名前にそろえておくと、どのキーがどの口の形かが名前だけで分かります。口の形の vrc.v_～ は、Unity の VRChat SDK（Avatar Descriptor の Lip Sync）で自動検出が探す名前です。
+この記事では、名前を変える方法を3つ書きます。
+...]]></summary>
+        <author>
+            <name>情シス窓口</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[6,370万ポリゴンの箱庭都市でGodot 4.4とUE 5.8を重さ比べして、Godotに残ると決めた話]]></title>
+        <id>https://zenn.dev/samuphys/articles/3a32a4fad3b7b4</id>
+        <link href="https://zenn.dev/samuphys/articles/3a32a4fad3b7b4"/>
+        <updated>2026-11-16T13:45:08.000Z</updated>
+        <summary type="html"><![CDATA[背景：なぜ比べて、どう決めたか
+AIエージェントの進化が目覚ましいので、箱庭海戦のゲームを作ろうと思い立った。クオータービューで、マス目の概念は残しつつ、手作りしてると荷が重い自動生成を取り込んで、街並みに表情がある箱庭ゲームを作りたい。結論を書くと、自作の箱庭都市（6,370万三角形）をGodot 4.4とUE 5.8の両方で描かせて測り、今回の要件ではGodotを採用することに。 発端は、Godotの自動LODが効かなかった時に浮かんだ「これならNaniteのあるUE5へ移るべきでは？」という問い。建物を棟ごとの3Dモデルで渡すのではなく、壁セルなどの部品から組み上げる形にしてい...]]></summary>
+        <author>
+            <name>化学屋</name>
         </author>
     </entry>
     <entry>
@@ -26,6 +116,20 @@
 続きをみる]]></summary>
         <author>
             <name>#Houdiniタグ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Blender のレンダーファームは描いた結果を何日残すのか、7 社の公式ページを読んでみました]]></title>
+        <id>https://zenn.dev/renderjanction/articles/fdd07cbc422056</id>
+        <link href="https://zenn.dev/renderjanction/articles/fdd07cbc422056"/>
+        <updated>2026-11-16T10:16:42.000Z</updated>
+        <summary type="html"><![CDATA[JANCTION Render を作っているジャスミーラボのアカウントです。今日（2026 年 11 月 16 日）、JANCTION Render の月額プランに JANCTION Storage（β）を付けて、描いた結果とシーンを契約中ずっと残せるようにしました。
+それを書く前に、ほかのレンダーファームがどれくらい残しているのかを知っておきたくなりました。「うちは長く残します」と言っても、基準が分からないと比べようがないので。そこで、保存の決まりを公開しているところを探して、FAQ と規約と案内のページを順に読みました。第三者の比較サイトは見ていません。
+
+
+ 読んでみて分かったこと...]]></summary>
+        <author>
+            <name>render.janction.jp</name>
         </author>
     </entry>
     <entry>
@@ -4014,36 +4118,6 @@ c^2
 これらを求めるために登場...]]></summary>
         <author>
             <name>s_hashida</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【アドオン紹介】Wheel Gen – 車・バイク・トラックなど多彩なホイールとタイヤを自動生成できるアドオン！]]></title>
-        <id>https://cgbox.jp/?p=65847</id>
-        <link href="https://cgbox.jp/2026/10/18/news-addon-wheel-gen/"/>
-        <updated>2026-10-18T08:48:45.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは！ 今回はアドオンの「Wheel Gen」を紹介します。 こちらのリンクがアドオンの商品ページになります。 Wheel Gen 「Wheel Gen」は、自動車・バイク・自転車・トラック・建設車両などのホイール […]]]></summary>
-        <author>
-            <name>kasahara</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meshy、3Dモデルの一部だけを文章で作り直せる「Meshy Edit」を公開！無料プランでも利用可能]]></title>
-        <id>https://cginterest.com/?p=63731</id>
-        <link href="https://cginterest.com/2026/10/18/meshy%e3%80%813d%e3%83%a2%e3%83%87%e3%83%ab%e3%81%ae%e4%b8%80%e9%83%a8%e3%81%a0%e3%81%91%e3%82%92%e6%96%87%e7%ab%a0%e3%81%a7%e4%bd%9c%e3%82%8a%e7%9b%b4%e3%81%9b%e3%82%8b%e3%80%8cmeshy-edit%e3%80%8d/"/>
-        <updated>2026-10-18T08:39:00.000Z</updated>
-        <summary type="html"><![CDATA[2026年10月16日（現地時間）- テキストや画像から3Dモデルを生成できるAIサービス「Meshy」は、生成した3Dモデルの一部を選択し、テキストの指示で部分的に作り直せる新機能「Meshy Edit」の提供を開始し […]]]></summary>
-        <author>
-            <name>.me</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3D生成AI「Meshy 7.1」が公開！新モード「Ultra 4K」でジオメトリ解像度が4096³に、独自ベンチマークも]]></title>
-        <id>https://cginterest.com/?p=63685</id>
-        <link href="https://cginterest.com/2026/10/18/3d%e7%94%9f%e6%88%90ai%e3%80%8cmeshy-7-1%e3%80%8d%e3%81%8c%e5%85%ac%e9%96%8b%ef%bc%81%e6%96%b0%e3%83%a2%e3%83%bc%e3%83%89%e3%80%8cultra-4k%e3%80%8d%e3%81%a7%e3%82%b8%e3%82%aa%e3%83%a1%e3%83%88/"/>
-        <updated>2026-10-18T07:57:05.000Z</updated>
-        <summary type="html"><![CDATA[2026年9月10日（現地時間）- 文章や画像から3Dモデルを生成するAIサービス「Meshy」の最新モデル「Meshy 7.1」が公開されました。 Meshy 7.1 とは Meshy 7.1は、8月に公開されたMes […]]]></summary>
-        <author>
-            <name>.me</name>
         </author>
     </entry>
 </feed>

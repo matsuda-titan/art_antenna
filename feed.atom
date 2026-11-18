@@ -2,10 +2,71 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-11-18T05:03:38.965Z</updated>
+    <updated>2026-11-18T16:48:01.741Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[OpenAI、GPT-6.2 Astra と Sol を発表！CADや3Dの作成が強化]]></title>
+        <id>https://cginterest.com/?p=68623</id>
+        <link href="https://cginterest.com/2026/11/18/gpt-6-2-astra-sol/"/>
+        <updated>2026-11-18T10:59:00.000Z</updated>
+        <summary type="html"><![CDATA[2026年11月17日（現地時間）- OpenAIは、大規模言語モデルの新バージョン「GPT-6.2 Astra」と「GPT-6.2 Sol」を発表し、ChatGPT、Codex、API での提供を開始しました。 Web […]]]></summary>
+        <author>
+            <name>.me</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Qwen4-Max が登場！Blender でのモデリングから Unreal Engine・Unity でのゲーム制作まで、3D の作例を紹介]]></title>
+        <id>https://cginterest.com/?p=68643</id>
+        <link href="https://cginterest.com/2026/11/18/qwen4-max-3d/"/>
+        <updated>2026-11-18T10:49:31.000Z</updated>
+        <summary type="html"><![CDATA[2026年11月16日（現地時間）- AlibabaのQwenチームは、大規模言語モデル「Qwen4」シリーズの最初のモデル「Qwen4-Max」を発表し、提供を開始しました。 任せられる仕事の最初に3Dモデリングとゲー […]]]></summary>
+        <author>
+            <name>.me</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Claude Fable 5.2 が公開！3D・ハードウェア・モーションの制作に強いモデルに]]></title>
+        <id>https://cginterest.com/?p=67559</id>
+        <link href="https://cginterest.com/2026/11/18/claude-fable-5-2-3d/"/>
+        <updated>2026-11-18T10:33:09.000Z</updated>
+        <summary type="html"><![CDATA[2026年11月9日（現地時間）- Anthropicは、技術的な作業に向けた最上位のAIモデル「Claude Fable 5.2」を発表しました。 Fable の紹介ページでは「3D・ハードウェア・モーションのためのデ […]]]></summary>
+        <author>
+            <name>.me</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Define Selection Sets for a Generated 3D Building]]></title>
+        <id>https://qiita.com/Martina_1230/items/9b7032ccc8fdfb19ff0a</id>
+        <link href="https://qiita.com/Martina_1230/items/9b7032ccc8fdfb19ff0a"/>
+        <updated>2026-11-18T07:44:01.000Z</updated>
+        <summary type="html"><![CDATA[“Flatten the north tower roof, but leave the walls and trim alone.” Before changing the mesh, write down what should be selected, what mu...]]></summary>
+        <author>
+            <name>3DCGタグが付けられた新着記事 - Qiita</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unite Tokyo 2026 基調講演まとめ：ECS for All、ベイク不要のGI、Meta VR Glasses 対応など]]></title>
+        <id>https://cginterest.com/?p=68576</id>
+        <link href="https://cginterest.com/2026/11/18/unite-tokyo-2026-keynote/"/>
+        <updated>2026-11-18T06:14:54.000Z</updated>
+        <summary type="html"><![CDATA[2026年11月17日 – Unity Technologiesは、東京・渋谷のベルサール渋谷ガーデンで開催したカンファレンス「Unite Tokyo 2026」の基調講演で、次期メジャーバージョン「Unit […]]]></summary>
+        <author>
+            <name>.me</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Radiance Cascadesを画像と数式で理解する 距離ごとに位置と方向の解像度を変える]]></title>
+        <id>https://qiita.com/Kota1t/items/d6dd1e5d798d9f878a69</id>
+        <link href="https://qiita.com/Kota1t/items/d6dd1e5d798d9f878a69"/>
+        <updated>2026-11-18T05:57:11.000Z</updated>
+        <summary type="html"><![CDATA[ゲームや図形の表示に光と影を加えると、光源の位置や物体どうしの関係を読み取りやすくなります。一方で、光が届く方向を細かく調べようとすると、計算量が急に増えます。
+この記事では、その計算を距離ごとに分担する Radiance Cascades(RC) を、2Dの描画画像と数式...]]></summary>
+        <author>
+            <name>GLSLタグが付けられた新着記事 - Qiita</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[LTXのVFX向けツール群がAPIとComfyUIのPartner Nodesに対応！ローカルで動くAlpha GenをVRAM 16GBで試してみた]]></title>
         <id>https://cginterest.com/?p=68451</id>
@@ -4149,47 +4210,6 @@ Nyanneco Grayscale to Normalは、グレースケール画像をノーマルマ�
 続きをみる]]></summary>
         <author>
             <name>#Houdiniタグ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hi3D Agent ー 日本語で指示するだけで１から3Dモデル生成からリギング・歩行アニメーションや細かな修正まで行ってみましたレビュー]]></title>
-        <id>https://modelinghappy.com/?p=71049</id>
-        <link href="https://modelinghappy.com/archives/71049"/>
-        <updated>2026-10-20T03:30:11.000Z</updated>
-        <summary type="html"><![CDATA[Hi3D Agent Hi3D Agentは、テキストや画像から3Dモデルやテクスチャを生成するだけでなく、部分的な修正やリギング、アニメーション制作まで、日本語の対話形式で指示できるデスクトップアプリです。利用するには
-The post Hi3D Agent ー 日本語で指示するだけで１から3Dモデル生成からリギング・歩行アニメーションや細かな修正まで行ってみましたレビュー first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
-        <author>
-            <name>modelinghappy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[10/28（水）開催！リアルタイムVFXツール「EmberGen」活用ウェビナー：CloverWorks流 EmberGen 活用事例をお届け - ニュース]]></title>
-        <id>https://cgworld.jp/flashnews/02-2610-EmberGen.html</id>
-        <link href="https://cgworld.jp/flashnews/02-2610-EmberGen.html"/>
-        <updated>2026-10-20T02:30:00.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[演技から炎まで、リアリティを追求。Wētā FXが明かす『アバター：ファイヤー・アンド・アッシュ』のVFX制作〜SIGGRAPH 2026（7） - 特集]]></title>
-        <id>https://cgworld.jp/article/202610-sig-avatar3.html</id>
-        <link href="https://cgworld.jp/article/202610-sig-avatar3.html"/>
-        <updated>2026-10-20T01:09:00.000Z</updated>
-        <summary type="html"><![CDATA[SIGGRAPH 2026から、プロダクション・セッション「Wētā FXが贈る　映画『アバター:ファイヤー・アンド・アッシュ』VFX制作事例」の内容をレポート。]]></summary>
-        <author>
-            <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SideFX、奥野莉奈氏によるHoudini講演「Magic FX: Beyond the Preset」動画公開　Equinox 2026イベントより - ニュース]]></title>
-        <id>https://cgworld.jp/flashnews/01-202610-Houdini-MagicFX.html</id>
-        <link href="https://cgworld.jp/flashnews/01-202610-Houdini-MagicFX.html"/>
-        <updated>2026-10-19T23:28:41.000Z</updated>
-        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
-        <author>
-            <name>CGWORLD</name>
         </author>
     </entry>
 </feed>

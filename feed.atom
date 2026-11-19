@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-11-19T04:58:27.938Z</updated>
+    <updated>2026-11-19T16:55:27.155Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Maya 2027.3がリリース！AIからシーンを操作できるMCPサーバー、Arnoldの高速ビューポートなどが追加]]></title>
+        <id>https://modelinghappy.com/?p=71563</id>
+        <link href="https://modelinghappy.com/archives/71563"/>
+        <updated>2026-11-19T14:51:41.000Z</updated>
+        <summary type="html"><![CDATA[What#8217;s New in Maya 2027.3 Autodeskが「Maya 2027.3」をリリースしました。今回の目玉は、外部のAIクライアントからMayaのシーンを扱えるMCPサーバーと、シーン内の
+The post Maya 2027.3がリリース！AIからシーンを操作できるMCPサーバー、Arnoldの高速ビューポートなどが追加 first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
+        <author>
+            <name>modelinghappy</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[大人気講座！背景に必要な空間要素と意味ある背景作り『背景モデリング講座』12月9日にオンライン開催 - ニュース]]></title>
         <id>https://cgworld.jp/flashnews/2612-plusone-suzuki.html</id>
@@ -14,6 +25,83 @@
         <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
         <author>
             <name>CGWORLD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Python製トランスパイラーtranp マテリアル関数作成編 #6]]></title>
+        <id>https://qiita.com/rog-works/items/c9886ffcf2272760ee7e</id>
+        <link href="https://qiita.com/rog-works/items/c9886ffcf2272760ee7e"/>
+        <updated>2026-11-19T09:41:19.000Z</updated>
+        <summary type="html"><![CDATA[概要
+tranp紹介記事 #7「マテリアル関数作成編 #6」です
+今までの記事を通して、マテリアル関数を作成することが出来るようになりました。最後のステップとして、実際にマテリアルを作成する方法を解説していきます
+今回は、マテリアルを作成する上で鍵となるマスターマテリアル...]]></summary>
+        <author>
+            <name>Shaderタグが付けられた新着記事 - Qiita</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Blender のタブレット版のリリースまでの計画が公開！最初は高性能な Android タブレットと M シリーズの iPad に対応]]></title>
+        <id>https://cginterest.com/?p=68793</id>
+        <link href="https://cginterest.com/2026/11/19/blender-tablet-path-to-release/"/>
+        <updated>2026-11-19T07:47:54.000Z</updated>
+        <summary type="html"><![CDATA[2026年11月18日（現地時間）- Blender の開発チームは、開発ブログにて、Blender をタブレットで使えるようにするプロジェクトの、リリースまでの計画「Path to Release」を公開しました。 今 […]]]></summary>
+        <author>
+            <name>.me</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Blender 5.4 でプロジェクトごとのアドオンに対応へ！ほぼすべてのパスで変数が使えるように、プロジェクトの切り替えも改善予定]]></title>
+        <id>https://cginterest.com/?p=68801</id>
+        <link href="https://cginterest.com/2026/11/19/blender-project-setup-5-4/"/>
+        <updated>2026-11-19T07:44:56.000Z</updated>
+        <summary type="html"><![CDATA[2026年11月13日（現地時間）- オープンソースの3DCGソフト「Blender」の開発者ブログで、Blender 5.3 で導入された「プロジェクト（Project Setup）」機能のまとめと、次の Blende […]]]></summary>
+        <author>
+            <name>.me</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[three.js の書き方のまま、Pyxel で 3D を動かす（JS エンジンも WebGL もなし、Python だけ）]]></title>
+        <id>https://qiita.com/haruka_apps/items/54de10ee5780949cf4a4</id>
+        <link href="https://qiita.com/haruka_apps/items/54de10ee5780949cf4a4"/>
+        <updated>2026-11-19T06:34:16.000Z</updated>
+        <summary type="html"><![CDATA[はじめに
+レトロゲームエンジン Pyxel の上で、three.js の入門の書き方の JavaScript がそのまま動く「遊び場」を作りました。
+
+Code & Magic（ブラウザですぐ遊べます）：https://codeandmagic.samurai-apps...]]></summary>
+        <author>
+            <name>3DCGタグが付けられた新着記事 - Qiita</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Goで透明ウィンドウにDOOMの炎エフェクトを描いてみた]]></title>
+        <id>https://zenn.dev/crgimenes/articles/crg-doomfire</id>
+        <link href="https://zenn.dev/crgimenes/articles/crg-doomfire"/>
+        <updated>2026-11-19T06:05:22.000Z</updated>
+        <summary type="html"><![CDATA[I reimplemented the DOOM fire effect in Go, in a transparent window, using Ebitengine.
+The original formula is from 1993 and fits in a handful of lines: every pixel of the bottom row is a seed, the fire rises by propagating intensity to the row above, with a random horizontal offset and a color p...]]></summary>
+        <author>
+            <name>crgimenes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【アセット紹介】Eden – 体型・顔・肌・髪・衣装までまとめて作成できるBlender向けキャラクター制作システム！]]></title>
+        <id>https://cgbox.jp/?p=65959</id>
+        <link href="https://cgbox.jp/2026/11/19/news-addon-eden/"/>
+        <updated>2026-11-19T05:22:33.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは！ 今回はアドオンの「Eden」を紹介します。 こちらのリンクがアドオンの商品ページになります。 Eden 「Eden」は、男性・女性のベースモデルから顔・体型・肌・髪・衣装まで調整し、Blender上でオリジ […]]]></summary>
+        <author>
+            <name>kasahara</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【アドオン紹介】NexFoliage – 150種類の植物を自由に調整してゲーム向けに書き出せる/アドオン！]]></title>
+        <id>https://cgbox.jp/?p=65952</id>
+        <link href="https://cgbox.jp/2026/11/19/news-addon-nexfoliage/"/>
+        <updated>2026-11-19T05:08:26.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは！ 今回はアドオンの「NexFoliage」を紹介します。 こちらのリンクがアドオンの商品ページになります。 NexFoliage 「NexFoliage」は、花・草・シダ・低木・キノコなど150種類の植物を収 […]]]></summary>
+        <author>
+            <name>kasahara</name>
         </author>
     </entry>
     <entry>
@@ -3960,52 +4048,12 @@ JANCTION Render は、AI エージェントが MCP サーバーか HTTP API と�
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Stove | UV自動生成でモデリングからペイントまで手軽に進められるローポリゲームアセット制作ツール！Win＆MacOS＆Linux]]></title>
-        <id>https://3dnchu.com/?p=1069224</id>
-        <link href="https://3dnchu.com/archives/stove-3d/"/>
-        <updated>2026-10-21T03:09:15.000Z</updated>
-        <summary type="html"><![CDATA[Uniday Studioによるローポリゲームアセット制作ツール「Stove」 モデリング UV自動生成 3Dペイント アセット管理をシンプルな制作フローにまとめたソフトです]]></summary>
-        <author>
-            <name>Ymt3D -3dnchu-</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[映画『キングダム 魂の決戦』秦20万対合従軍50万。シリーズ最大規模の合戦を描く｜Spade&Co. - 連載]]></title>
         <id>https://cgworld.jp/regular/202609-Kingdom5th-Spadeco.html</id>
         <link href="https://cgworld.jp/regular/202609-Kingdom5th-Spadeco.html"/>
         <updated>2026-10-21T03:05:00.000Z</updated>
         <author>
             <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【50%オフ】Topaz Studio と Topaz Photo が期間限定セール！最初の3か月または初年度が半額に（11月16日まで）]]></title>
-        <id>https://cginterest.com/?p=63976</id>
-        <link href="https://cginterest.com/2026/10/21/%e3%80%9050%e3%82%aa%e3%83%95%e3%80%91topaz-studio-%e3%81%a8-topaz-photo-%e3%81%8c%e6%9c%9f%e9%96%93%e9%99%90%e5%ae%9a%e3%82%bb%e3%83%bc%e3%83%ab%ef%bc%81%e6%9c%80%e5%88%9d%e3%81%ae3%e3%81%8b%e6%9c%88/"/>
-        <updated>2026-10-21T02:13:16.000Z</updated>
-        <summary type="html"><![CDATA[2026年10月19日（現地時間）- 画像・動画の高画質化AIを手がけるTopaz Labsは、すべてのアプリが使えるサブスクリプション「Topaz Studio」と、画像の高画質化アプリ「Topaz Photo」を50 […]]]></summary>
-        <author>
-            <name>.me</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【アドオン紹介】PocketCam – スマホをBlenderの仮想カメラとして使えるBlenderアドオン！]]></title>
-        <id>https://cgbox.jp/?p=65856</id>
-        <link href="https://cgbox.jp/2026/10/21/news-addon-pocketcam/"/>
-        <updated>2026-10-21T01:53:39.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは！ 今回はアドオンの「PocketCam」を紹介します。 こちらのリンクがアドオンの商品ページになります。 PocketCam 「PocketCam」は、iPhoneやAndroidスマートフォンをBlende […]]]></summary>
-        <author>
-            <name>kasahara</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[VAST、リアルタイム生成レンダラー「EdenLive」をオープンソースで公開！グレーボックスや実写を720p・24 FPS以上の映像に描き直す]]></title>
-        <id>https://cginterest.com/?p=63881</id>
-        <link href="https://cginterest.com/2026/10/21/vast%e3%80%81%e3%83%aa%e3%82%a2%e3%83%ab%e3%82%bf%e3%82%a4%e3%83%a0%e7%94%9f%e6%88%90%e3%83%ac%e3%83%b3%e3%83%80%e3%83%a9%e3%83%bc%e3%80%8cedenlive%e3%80%8d%e3%82%92%e3%82%aa%e3%83%bc%e3%83%97/"/>
-        <updated>2026-10-21T00:39:53.000Z</updated>
-        <summary type="html"><![CDATA[2026年10月19日（現地時間）- 3D生成AI「Tripo」を手がけるVASTの研究チームは、ゲームの画面や実写の動画などをリアルタイムに高精細な映像へ描き直す、オープンソースの生成レンダラー「EdenLive」を公 […]]]></summary>
-        <author>
-            <name>.me</name>
         </author>
     </entry>
     <entry>
@@ -4016,65 +4064,6 @@ JANCTION Render は、AI エージェントが MCP サーバーか HTTP API と�
         <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
         <author>
             <name>CGWORLD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[フォトグラメトリ数学｜63：誤差楕円・誤差楕円体と確率とは何か～90%・95%の包含確率を求める～]]></title>
-        <id>https://zenn.dev/s_hashida/articles/b3cfcee372c2dd</id>
-        <link href="https://zenn.dev/s_hashida/articles/b3cfcee372c2dd"/>
-        <updated>2026-10-20T21:55:05.000Z</updated>
-        <summary type="html"><![CDATA[はじめに
-前回は、
-
-固有ベクトルとは何か
-固有値とは何か
-行列と方向の関係
-共分散行列の固有値・固有ベクトル
-誤差楕円の長軸・短軸の求め方
-固有値分解
-3次元の誤差楕円体への拡張
-フォトグラメトリにおける意味
-
-について説明しました。
-
-その中で重要だったのが、
-
-\Sigma=Q\Lambda Q^T
-
-という固有値分解と、
-
-a_i=c\sqrt{\lambda_i}
-
-という関係です。
-これは、
-共分散行列の固有ベクトルから誤差楕円・誤差楕円体の方向を求め、固有値から各半軸の長さを求められる
-ことを表しています。
-
-しかし、ここで新たな疑問があります。
-誤差楕円・誤差楕円体...]]></summary>
-        <author>
-            <name>s_hashida</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Substance Painter使いこなし術～プロジェクション編～]]></title>
-        <id>https://note.com/d9speed/n/nce288fdb10e5</id>
-        <link href="https://note.com/d9speed/n/nce288fdb10e5"/>
-        <updated>2026-10-20T17:53:45.000Z</updated>
-        <summary type="html"><![CDATA[Substance Painterのレイヤーマスクにテキストを置く
-続きをみる]]></summary>
-        <author>
-            <name>#substancepainterタグ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[タイトル：Audio Studio MCP | 自然言語でBGMや効果音の生成から編集まで頼める無料のローカルAIサウンド制作ツール！Windows＆Mac]]></title>
-        <id>https://3dnchu.com/?p=1069211</id>
-        <link href="https://3dnchu.com/archives/audio-studio-mcp/"/>
-        <updated>2026-10-20T17:07:59.000Z</updated>
-        <summary type="html"><![CDATA[KANA（@KanaWorks_AI）氏がStable Audio 3を活用した「Audio Studio MCP」を公開！Claude CodeなどからBGMや効果音をローカル生成し、部分修正やループ化、ラウドネス調整まで行えるオープンソースツールです。]]></summary>
-        <author>
-            <name>Ymt3D -3dnchu-</name>
         </author>
     </entry>
 </feed>

@@ -2,10 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-11-20T16:29:23.297Z</updated>
+    <updated>2026-11-21T04:44:20.342Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【アドオン紹介】OpenSet Connect – 10万点以上の無料3DモデルをBlender内から直接検索・追加できるアドオン！]]></title>
+        <id>https://cgbox.jp/?p=65974</id>
+        <link href="https://cgbox.jp/2026/11/21/news-addon-openset-connect/"/>
+        <updated>2026-11-21T04:13:33.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは！ 今回はアドオンの「OpenSet Connect」を紹介します。 こちらのリンクがアドオンの商品ページになります。 OpenSet Connect 「OpenSet Connect」は、10万点以上の無料3 […]]]></summary>
+        <author>
+            <name>kasahara</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【アドオン紹介】TopoFit – 数点を指定するだけで人型キャラクターを自動リトポロジーできるアドオン！]]></title>
+        <id>https://cgbox.jp/?p=65970</id>
+        <link href="https://cgbox.jp/2026/11/21/news-addon-topofit/"/>
+        <updated>2026-11-21T04:03:45.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは！ 今回はアドオンの「TopoFit」を紹介します。 こちらのリンクがアドオンの商品ページになります。 TopoFit 「TopoFit」は、スカルプトした人型キャラクター上に数個のポイントを配置するだけで、四 […]]]></summary>
+        <author>
+            <name>kasahara</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GrimTopo Pro ー モデル表面に線を描いてリトポロジー作成出来る多機能Blenderアドオン。無料版も公開中]]></title>
+        <id>https://modelinghappy.com/?p=71577</id>
+        <link href="https://modelinghappy.com/archives/71577"/>
+        <updated>2026-11-21T01:38:32.000Z</updated>
+        <summary type="html"><![CDATA[GrimTopo Pro GrimTopo Free Free Grim Edge Studioが、Blender用リトポロジーアドオン「GrimTopo Pro」を公開しました。 リトポロジーを描画するようにモデルの上
+The post GrimTopo Pro ー モデル表面に線を描いてリトポロジー作成出来る多機能Blenderアドオン。無料版も公開中 first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
+        <author>
+            <name>modelinghappy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Blender を Cinema 4D のようなUIにする無料アドオン「Blenda 4D」がオープンソースで公開！]]></title>
+        <id>https://cginterest.com/?p=68950</id>
+        <link href="https://cginterest.com/2026/11/21/blenda-4d/"/>
+        <updated>2026-11-21T01:20:22.000Z</updated>
+        <summary type="html"><![CDATA[2026年11月20日（現地時間）- 3Dアーティストの Joseph Fagan 氏が始めた、Blender の画面をモーションデザイン向けのレイアウトに組み替える無料のアドオン「Blenda 4D」が、オープンソース […]]]></summary>
+        <author>
+            <name>.me</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Blender向けキャラクター作成アドオン「Eden」が登場！AIで生成したモデルを取り込む「Eden Wrap」も]]></title>
         <id>https://cginterest.com/?p=68931</id>
@@ -4171,41 +4212,6 @@ shutil.copytree(self._old_path(), self._new_path(), dirs_exist_ok=True, symlinks
         <summary type="html"><![CDATA[5hyuns氏によるMaya風の操作やUIをBlenderに追加する無料アドオン「Maya Workflow Kit」が公開！ホットボックスやマーキングメニュー Channel Box シェルフなどをまとめて導入でき Blender標準の操作環境にもワンクリックで切り替えられます]]></summary>
         <author>
             <name>Ymt3D -3dnchu-</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[描く前に値段を言う Blender の MCP サーバー：48 コマから 1,800 コマまでの見積もり（実測）]]></title>
-        <id>https://zenn.dev/renderjanction/articles/ae8580821c64c1</id>
-        <link href="https://zenn.dev/renderjanction/articles/ae8580821c64c1"/>
-        <updated>2026-10-22T08:35:02.000Z</updated>
-        <summary type="html"><![CDATA[AI エージェントにクラウドの GPU で Blender を描かせるとき、最初に知りたいのは速さより「いくらかかるのか、勝手に膨らまないか」だと思います。JANCTION Render がそこにどう答えるかを、2026-10-21 に本番で取った見積もりでまとめます。英語版は dev.to に出しています。
-JANCTION Render は、AI エージェントが MCP サーバーか HTTP API として呼べる、Blender のクラウド GPU レンダーファームです。.blend ファイル・bpy スクリプト・3D ファイル（glTF / FBX / USD）を送ると、連番か M...]]></summary>
-        <author>
-            <name>render.janction.jp</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【なぜ？】SubstancePainterでテクスチャを作ったらBlenderで歪んでしまった…]]></title>
-        <id>https://note.com/nyanneco/n/nf7228cdfb5cb</id>
-        <link href="https://note.com/nyanneco/n/nf7228cdfb5cb"/>
-        <updated>2026-10-22T07:31:42.000Z</updated>
-        <summary type="html"><![CDATA[原因の一つは三角面化の違い
-原因の一つとして考えられるのが、BlenderとSubstance 3D Painter（以下、Painter）で「三角形への分割の仕方」が異なることです。この記事では、このケースを説明します。
-続きをみる]]></summary>
-        <author>
-            <name>#substancepainterタグ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nyanneco Denim Damage 使い方ガイド]]></title>
-        <id>https://note.com/nyanneco/n/n41752f9980d0</id>
-        <link href="https://note.com/nyanneco/n/n41752f9980d0"/>
-        <updated>2026-10-22T05:38:10.000Z</updated>
-        <summary type="html"><![CDATA[Nyanneco Denim Damageは、Substance 3D Painterで衣服にデニムの破れを重ねるマテリアルです。白黒マスクから穴の形を指定すると、穴を横切る糸、縁のほつれ、垂れ糸、周囲のカスレを作れます。
- SubstancePainter用デニムダメージジェネレーター「Nyanneco Denim Damage Generator」 - にゃんねこ屋さん - BOOTHSubstancePainter用デニムダメージジェネレーター「Nyanneco Denim Damage Generatnyanneco9.booth.pm 
-続きをみる]]></summary>
-        <author>
-            <name>#substancepainterタグ</name>
         </author>
     </entry>
 </feed>

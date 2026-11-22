@@ -668,21 +668,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "https://3dnchu.com/wp-content/uploads/blender-3ds-max-interface-ai.webp"
-        },
-        {
-          "id": "https://3dnchu.com/?p=1069240",
-          "author": "Ymt3D -3dnchu-",
-          "description": "5hyuns氏によるMaya風の操作やUIをBlenderに追加する無料アドオン「Maya Workflow Kit」が公開！ホットボックスやマーキングメニュー Channel Box シェルフなどをまとめて導入でき Blender標準の操作環境にもワンクリックで切り替えられます",
-          "link": "https://3dnchu.com/archives/maya-workflow-kit-for-blender/",
-          "publishedOn": "2026-10-23T08:44:46.000Z",
-          "wordCount": 7952,
-          "title": "Maya Workflow Kit | BlenderをMaya化！ホットボックスやChannel BoxなどMaya風の操作環境をまとめて導入できる無料アドオン！",
-          "enclosure": {
-            "url": "https://3dnchu.com/wp-content/uploads/Maya-Workflow-Kit.webm",
-            "length": "2830271",
-            "type": "video/webm"
-          },
-          "imageUrl": "https://3dnchu.com/wp-content/uploads/Maya-Workflow-Kit.webp"
         }
       ]
     },
@@ -3081,6 +3066,16 @@
       "siteUrl": "https://qiita.com",
       "articles": [
         {
+          "id": "https://qiita.com/YKVKDX12/items/3f259fd485398e4839e4",
+          "author": null,
+          "description": "コンピュートシェーダーとは？\nGPUで3DCGに限らず汎用的な計算をできるシェーダーのことを言う\nGPUで汎用的な計算をすることをGPGPUとよぶ\nコンピュートシェーダーの実行空間は、ホストAPIから起動される「ワークグループ（Work Group）」の集合からなるグロー...",
+          "link": "https://qiita.com/YKVKDX12/items/3f259fd485398e4839e4",
+          "publishedOn": "2026-11-21T21:20:40.000Z",
+          "wordCount": 683,
+          "title": "Vulkan Basic Programming GLSL ComputeShader",
+          "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnBicy50d2ltZy5jb20lMkZwcm9maWxlX2ltYWdlcyUyRjk1NjUzNTU5Mzc3NjgyNDMyMSUyRjZKUkVNZ1BpX25vcm1hbC5qcGc_aXhsaWI9cmItNC4xLjEmYXI9MSUzQTEmZml0PWNyb3AmbWFzaz1lbGxpcHNlJmJnPUZGRkZGRiZmbT1wbmczMiZzPTFlNGQwMTBjYTFkZTU5OWNmNzdmZDVhYTI3NjMwM2I0%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D373a03db911f7af0ce88b6917ff32871?ixlib=rb-4.1.1&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9VnVsa2FuJTIwQmFzaWMlMjBQcm9ncmFtbWluZyUyMEdMU0wlMjBDb21wdXRlU2hhZGVyJnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9NzY0ODEzZGRjZDQ1YTYwMzk0M2FmMWRlYzFmYzQ3YzA&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBZS1ZLRFgxMiZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPTg5MDU4ZmFjYTkxMzE2Yjk4ZjA0NDYzZDdhZDQ4NDli&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=64d94f1090e54140315afc5090c31899"
+        },
+        {
           "id": "https://qiita.com/Kota1t/items/d6dd1e5d798d9f878a69",
           "author": null,
           "description": "ゲームや図形の表示に光と影を加えると、光源の位置や物体どうしの関係を読み取りやすくなります。一方で、光が届く方向を細かく調べようとすると、計算量が急に増えます。\nこの記事では、その計算を距離ごとに分担する Radiance Cascades(RC) を、2Dの描画画像と数式...",
@@ -3376,18 +3371,7 @@
       "title": "#SubstanceDesignerタグ",
       "feedUrl": "https://note.com/hashtag/SubstanceDesigner/rss",
       "siteUrl": "https://note.com/hashtag/SubstanceDesigner",
-      "articles": [
-        {
-          "id": "https://note.com/nyanneco/n/n8003d9f7a495",
-          "author": null,
-          "description": "Substance 3D Painterを購入しようとすると、Steamの買い切り版、SteamのIndieサブスク、Adobeのサブスクという選択肢があります。\n買い切りは、長く使えば支出を抑えられそうです。一方、サブスクにはDesignerなどの別アプリや追加素材も付くため、価格だけを並べても判断しにくいところがあります。\n続きをみる",
-          "link": "https://note.com/nyanneco/n/n8003d9f7a495",
-          "publishedOn": "2026-10-23T11:23:24.000Z",
-          "wordCount": 1598,
-          "title": "Substance 3Dは買い切りとサブスク、どちらがお得？ Steam・Indie・Adobeの購入方法を比較【2026年版】",
-          "imageUrl": "https://assets.st-note.com/production/uploads/images/327590175/rectangle_large_type_2_636d40f8dc202489c6c76cab3062db32.png?width=800"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "#substancepainterタグ",
@@ -3423,26 +3407,6 @@
           "wordCount": 2024,
           "title": "Nyanneco Zipper Generator 使い方マニュアル",
           "imageUrl": "https://assets.st-note.com/production/uploads/images/329425663/rectangle_large_type_2_9f8650c8d93be1359676e0a952e1c3c0.png?width=800"
-        },
-        {
-          "id": "https://note.com/nyanneco/n/n8003d9f7a495",
-          "author": null,
-          "description": "Substance 3D Painterを購入しようとすると、Steamの買い切り版、SteamのIndieサブスク、Adobeのサブスクという選択肢があります。\n買い切りは、長く使えば支出を抑えられそうです。一方、サブスクにはDesignerなどの別アプリや追加素材も付くため、価格だけを並べても判断しにくいところがあります。\n続きをみる",
-          "link": "https://note.com/nyanneco/n/n8003d9f7a495",
-          "publishedOn": "2026-10-23T11:23:24.000Z",
-          "wordCount": 1598,
-          "title": "Substance 3Dは買い切りとサブスク、どちらがお得？ Steam・Indie・Adobeの購入方法を比較【2026年版】",
-          "imageUrl": "https://assets.st-note.com/production/uploads/images/327590175/rectangle_large_type_2_636d40f8dc202489c6c76cab3062db32.png?width=800"
-        },
-        {
-          "id": "https://note.com/nyanneco/n/n5a1fa3c1a43d",
-          "author": null,
-          "description": "SubstancePainter用靴紐ジェネレーター「Nyanneco Shoelace Generator」 - にゃんねこ屋さん - BOOTHSubstancePainter用靴紐ジェネレーター「Nyanneco Shoelace Generator」nyanneco9.booth.pm \nできること\n続きをみる",
-          "link": "https://note.com/nyanneco/n/n5a1fa3c1a43d",
-          "publishedOn": "2026-10-23T09:20:10.000Z",
-          "wordCount": 3986,
-          "title": "Nyanneco Shoelace Generator 使用マニュアル",
-          "imageUrl": "https://assets.st-note.com/production/uploads/images/327550205/rectangle_large_type_2_261df1fc1d4376c14b74ba6cf6764619.png?width=800"
         }
       ]
     },

@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-11-21T15:45:26.659Z</updated>
+    <updated>2026-11-22T03:58:56.524Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Vulkan Basic Programming GLSL ComputeShader]]></title>
+        <id>https://qiita.com/YKVKDX12/items/3f259fd485398e4839e4</id>
+        <link href="https://qiita.com/YKVKDX12/items/3f259fd485398e4839e4"/>
+        <updated>2026-11-21T21:20:40.000Z</updated>
+        <summary type="html"><![CDATA[コンピュートシェーダーとは？
+GPUで3DCGに限らず汎用的な計算をできるシェーダーのことを言う
+GPUで汎用的な計算をすることをGPGPUとよぶ
+コンピュートシェーダーの実行空間は、ホストAPIから起動される「ワークグループ（Work Group）」の集合からなるグロー...]]></summary>
+        <author>
+            <name>GLSLタグが付けられた新着記事 - Qiita</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Meshy、メタリック・ラフネスまで推定するPBRテクスチャ生成「UltraTex」を発表]]></title>
         <id>https://cginterest.com/?p=68968</id>
@@ -4207,52 +4220,6 @@ shutil.copytree(self._old_path(), self._new_path(), dirs_exist_ok=True, symlinks
         <link href="https://3dnchu.com/archives/blender-3ds-max-interface-ai/"/>
         <updated>2026-10-23T16:26:09.000Z</updated>
         <summary type="html"><![CDATA[3DアーティストのJake Denham氏がAIを活用し開発したBlenderベースの3ds Max風制作環境を紹介！使い慣れた操作やモディファイヤスタックの再現に加え .maxファイルの読み込みやAIツール統合を披露しています！]]></summary>
-        <author>
-            <name>Ymt3D -3dnchu-</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Substance 3Dは買い切りとサブスク、どちらがお得？ Steam・Indie・Adobeの購入方法を比較【2026年版】]]></title>
-        <id>https://note.com/nyanneco/n/n8003d9f7a495</id>
-        <link href="https://note.com/nyanneco/n/n8003d9f7a495"/>
-        <updated>2026-10-23T11:23:24.000Z</updated>
-        <summary type="html"><![CDATA[Substance 3D Painterを購入しようとすると、Steamの買い切り版、SteamのIndieサブスク、Adobeのサブスクという選択肢があります。
-買い切りは、長く使えば支出を抑えられそうです。一方、サブスクにはDesignerなどの別アプリや追加素材も付くため、価格だけを並べても判断しにくいところがあります。
-続きをみる]]></summary>
-        <author>
-            <name>#SubstanceDesignerタグ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Substance 3Dは買い切りとサブスク、どちらがお得？ Steam・Indie・Adobeの購入方法を比較【2026年版】]]></title>
-        <id>https://note.com/nyanneco/n/n8003d9f7a495</id>
-        <link href="https://note.com/nyanneco/n/n8003d9f7a495"/>
-        <updated>2026-10-23T11:23:24.000Z</updated>
-        <summary type="html"><![CDATA[Substance 3D Painterを購入しようとすると、Steamの買い切り版、SteamのIndieサブスク、Adobeのサブスクという選択肢があります。
-買い切りは、長く使えば支出を抑えられそうです。一方、サブスクにはDesignerなどの別アプリや追加素材も付くため、価格だけを並べても判断しにくいところがあります。
-続きをみる]]></summary>
-        <author>
-            <name>#substancepainterタグ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nyanneco Shoelace Generator 使用マニュアル]]></title>
-        <id>https://note.com/nyanneco/n/n5a1fa3c1a43d</id>
-        <link href="https://note.com/nyanneco/n/n5a1fa3c1a43d"/>
-        <updated>2026-10-23T09:20:10.000Z</updated>
-        <summary type="html"><![CDATA[SubstancePainter用靴紐ジェネレーター「Nyanneco Shoelace Generator」 - にゃんねこ屋さん - BOOTHSubstancePainter用靴紐ジェネレーター「Nyanneco Shoelace Generator」nyanneco9.booth.pm 
-できること
-続きをみる]]></summary>
-        <author>
-            <name>#substancepainterタグ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Maya Workflow Kit | BlenderをMaya化！ホットボックスやChannel BoxなどMaya風の操作環境をまとめて導入できる無料アドオン！]]></title>
-        <id>https://3dnchu.com/?p=1069240</id>
-        <link href="https://3dnchu.com/archives/maya-workflow-kit-for-blender/"/>
-        <updated>2026-10-23T08:44:46.000Z</updated>
-        <summary type="html"><![CDATA[5hyuns氏によるMaya風の操作やUIをBlenderに追加する無料アドオン「Maya Workflow Kit」が公開！ホットボックスやマーキングメニュー Channel Box シェルフなどをまとめて導入でき Blender標準の操作環境にもワンクリックで切り替えられます]]></summary>
         <author>
             <name>Ymt3D -3dnchu-</name>
         </author>

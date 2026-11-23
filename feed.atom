@@ -2,10 +2,56 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-11-22T15:46:12.569Z</updated>
+    <updated>2026-11-23T04:41:17.809Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Maya用揺れものシミュレーションツール「AgehaPBD」正式リリース　リアルタイムプレビューやコリジョン制御、セットアップの再利用に対応 - ニュース]]></title>
+        <id>https://cgworld.jp/flashnews/01-202611-Coyote-Ageha.html</id>
+        <link href="https://cgworld.jp/flashnews/01-202611-Coyote-Ageha.html"/>
+        <updated>2026-11-23T00:52:37.000Z</updated>
+        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[フォトグラメトリ数学｜71：特異値分解とは何か～対応点から回転行列を求める～]]></title>
+        <id>https://zenn.dev/s_hashida/articles/3b368fa61bff4c</id>
+        <link href="https://zenn.dev/s_hashida/articles/3b368fa61bff4c"/>
+        <updated>2026-11-22T22:11:05.000Z</updated>
+        <summary type="html"><![CDATA[はじめに
+前回は、
+
+対応点の重心
+重心と回転・並進の関係
+中心化によって並進が消える理由
+最小二乗法における並進の求め方
+回転と並進を分けて求める手順
+
+について説明しました。
+
+その中で重要だったのが、対応点からそれぞれの重心を引くことで、
+
+\tilde{\mathbf{q}}_i
+\approx
+R\tilde{\mathbf{p}}_i
+
+という、回転だけの関係へ整理できるという点です。
+ここで、
+
+\tilde{\mathbf{p}}_i
+=
+\mathbf{p}_i-\bar{\mathbf{p}}
+,\qquad
+\tilde{\mathbf{q}}_i
+=
+\ma...]]></summary>
+        <author>
+            <name>s_hashida</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Curve Sculpt 3D ー モデルの表面に描いたカーブに沿って溝や模様を作れるBlenderアドオン]]></title>
         <id>https://modelinghappy.com/?p=71657</id>
@@ -4263,16 +4309,6 @@ a_i
 これらに...]]></summary>
         <author>
             <name>s_hashida</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Maya VAT Encoder | Mayaのアニメーションを頂点アニメーションテクスチャ（VAT）に変換する無料＆オープンソースツール！]]></title>
-        <id>https://3dnchu.com/?p=1069247</id>
-        <link href="https://3dnchu.com/archives/maya-vat-encoder/"/>
-        <updated>2026-10-24T06:36:45.000Z</updated>
-        <summary type="html"><![CDATA[5hyuns氏によるMaya用の無料VATベイクツール「Maya VAT Encoder」が公開されています スキニングやブレンドシェイプなどの変形をテクスチャに記録し リアルタイムエンジンでの再生に活用できます]]></summary>
-        <author>
-            <name>Ymt3D -3dnchu-</name>
         </author>
     </entry>
 </feed>

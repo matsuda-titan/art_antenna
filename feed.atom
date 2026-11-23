@@ -2,10 +2,137 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-11-23T04:41:17.809Z</updated>
+    <updated>2026-11-23T19:38:11.271Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[33種類のWebGLシェーダーを1つのカスタム要素にまとめた話]]></title>
+        <id>https://zenn.dev/studiotreo/articles/ccf67099845dde</id>
+        <link href="https://zenn.dev/studiotreo/articles/ccf67099845dde"/>
+        <updated>2026-11-23T18:44:00.000Z</updated>
+        <summary type="html"><![CDATA[ドイツでデザイナーをしているTobiasです。ここ2か月ほど、Macの壁紙とスクリーンセーバをGPUのシェーダーでリアルタイムに描くアプリ「Sula」を作ってきました。その途中でシェーダー部分を小さなWebランタイムとして切り出せたので、無料のブラウザツール「Sula Designer」として公開しました。
+https://sula.ink/designer?lang=ja
+33種類のシェーダーから1つを選んで色や動きを調整すると、Webflow・Framer・HTML・React・Vue・Svelte向けに、動く背景の埋め込みコードをコピーできます。アカウント登録は不要です。
+
+ 埋め...]]></summary>
+        <author>
+            <name>Tobias (Studio Treo)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「球ひとつが画面に映るまで。材質とRenderGraphでたどるFBZZGraphicsの設計【FBZZEngine #05】」]]></title>
+        <id>https://qiita.com/HasegawaJin/items/9d79c7853241a7e1d71e</id>
+        <link href="https://qiita.com/HasegawaJin/items/9d79c7853241a7e1d71e"/>
+        <updated>2026-11-23T15:32:58.000Z</updated>
+        <summary type="html"><![CDATA[床に球を置いて、足元に影を落としたい。影を作ってから、それを使って床を描く。ところが FBZZGraphics のテストを開くと、最初の2行はこう並んでいます。
+AddPass(graph, "Present", { "Shadow" }, { "Output" });...]]></summary>
+        <author>
+            <name>3DCGタグが付けられた新着記事 - Qiita</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【AgehaPBD】揺れもの制作をもっと手軽に！Maya向けシミュレーションツールをご紹介！]]></title>
+        <id>https://3d.crdg.jp/tech/?p=7288</id>
+        <link href="https://3d.crdg.jp/tech/archives/7288"/>
+        <updated>2026-11-23T15:00:34.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは！ C&R Creative Studios テクニカルアーティストチームの横山です。 今年も残り約1か月ですね！ 年々時間が経つの […]
+続きを読む
+投稿 【AgehaPBD】揺れもの制作をもっと手軽に！Maya向けシミュレーションツールをご紹介！ は TECH-COYOTE｜C&R Creative Studios に最初に表示されました。]]></summary>
+        <author>
+            <name>yokoyama taichi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[マテリアルプレビュー！【FBZZ Engine #04】]]></title>
+        <id>https://qiita.com/HasegawaJin/items/0b1b53194195e23d347e</id>
+        <link href="https://qiita.com/HasegawaJin/items/0b1b53194195e23d347e"/>
+        <updated>2026-11-23T14:42:47.000Z</updated>
+        <summary type="html"><![CDATA[湖のマテリアルを開いたら、そこでもう水が動いていてほしい。金属板なら、少し傾けて、ネジの溝がちゃんと見えるか確かめたい。作った材質の見え方を、元の設定を保ったまま、その場で試せる。 それが FBZZEngine のマテリアルプレビューです。
+EditorでのUIはきもい...]]></summary>
+        <author>
+            <name>3DCGタグが付けられた新着記事 - Qiita</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ソニー、XYN Motion Studio のWeb版をLabアプリとして公開！テキストやポーズ、移動経路からモーションを生成]]></title>
+        <id>https://cginterest.com/?p=69103</id>
+        <link href="https://cginterest.com/2026/11/23/xyn-motion-studio-web-lab/"/>
+        <updated>2026-11-23T11:15:00.000Z</updated>
+        <summary type="html"><![CDATA[2026年11月12日 – ソニーは、モーション制作統合アプリケーション「XYN Motion Studio」のWeb版を、開発中の新機能をいち早く試せる「Labアプリ」として公開しました。 XYN Moti […]]]></summary>
+        <author>
+            <name>.me</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ワコムを投資ファンドのMBKパートナーズが買収へ！1株1,030円で TOB、上場廃止に]]></title>
+        <id>https://cginterest.com/?p=69111</id>
+        <link href="https://cginterest.com/2026/11/23/wacom-mbo/"/>
+        <updated>2026-11-23T10:10:31.000Z</updated>
+        <summary type="html"><![CDATA[2026年11月20日 – ペンタブレットや液晶ペンタブレットで知られるワコムは、投資ファンドの MBK パートナーズによる買収の提案に賛同すると発表しました。社長兼CEOの井出信孝氏も買い手側に加わる、マネ […]]]></summary>
+        <author>
+            <name>.me</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[生成AIで隠れた部分を描き足しても位置がずれない：1枚の写真から3Dシーンを組み立てる]]></title>
+        <id>https://qiita.com/miwastsuki2026/items/08ce2be1fc32118401ae</id>
+        <link href="https://qiita.com/miwastsuki2026/items/08ce2be1fc32118401ae"/>
+        <updated>2026-11-23T09:58:58.000Z</updated>
+        <summary type="html"><![CDATA[はじめに
+1枚の写真から、写っている物体を一つずつ3Dモデルにして並べ直し、3Dシーンを作る Web アプリ one-image-to-3d-scene を、OSS（MIT ライセンス）として公開しています。
+
+入力：1枚の写真
+復元した3Dシーン
+
+...]]></summary>
+        <author>
+            <name>3DCGタグが付けられた新着記事 - Qiita</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[なぜ描画用に RenderScene を作るのか？ 球と三角形で追う描画の設計 【FBZZ Engine #02】]]></title>
+        <id>https://qiita.com/HasegawaJin/items/e758b7f72964a3a9f0cd</id>
+        <link href="https://qiita.com/HasegawaJin/items/e758b7f72964a3a9f0cd"/>
+        <updated>2026-11-23T09:27:46.000Z</updated>
+        <summary type="html"><![CDATA[前回、球を右に5動かしました。その球を画面に出すとき、FBZZ Engine は球の位置・形・材質を RenderScene という描画用データにまとめます。
+RenderScene を挟むのは、シーンの持ち方と画面への描き方を、別々に変えられるようにするためです。
+
+球の...]]></summary>
+        <author>
+            <name>3DCGタグが付けられた新着記事 - Qiita</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Photoshop・クリスタのブラシが使えるペイントアプリ「Moko」、クローズドベータを実施中]]></title>
+        <id>https://cginterest.com/?p=69081</id>
+        <link href="https://cginterest.com/2026/11/23/moko-closed-beta/"/>
+        <updated>2026-11-23T09:10:22.000Z</updated>
+        <summary type="html"><![CDATA[イラストレーターの Marc Brunet 氏と開発チームが手がける、Cubebrushのデジタルペイント・画像編集用デスクトップアプリ「Moko」が、Windows と macOS 向けにクローズドベータを実施しており […]]]></summary>
+        <author>
+            <name>.me</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【アドオン紹介】HairMesh for Blender – カーブを描くだけでアニメ調の髪メッシュを作成できる無料Blenderアドオン！]]></title>
+        <id>https://cgbox.jp/?p=65993</id>
+        <link href="https://cgbox.jp/2026/11/23/news-addon-hairmesh/"/>
+        <updated>2026-11-23T06:37:43.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは！ 今回はアドオンの「HairMesh for Blender」を紹介します。 こちらのリンクがアドオンの商品ページになります。 HairMesh for Blender 「HairMesh for Blend […]]]></summary>
+        <author>
+            <name>kasahara</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【アドオン紹介】Curve Sculpt 3D – メッシュ表面に描いた3Dカーブに沿ってスカルプトできるアドオン！]]></title>
+        <id>https://cgbox.jp/?p=65988</id>
+        <link href="https://cgbox.jp/2026/11/23/news-addon-curve-sculpt-3d/"/>
+        <updated>2026-11-23T06:22:52.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは！ 今回はアドオンの「Curve Sculpt 3D」を紹介します。 こちらのリンクがアドオンの商品ページになります。 Curve Sculpt 3D 「Curve Sculpt 3D」は、メッシュ表面に3Dカ […]]]></summary>
+        <author>
+            <name>kasahara</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Maya用揺れものシミュレーションツール「AgehaPBD」正式リリース　リアルタイムプレビューやコリジョン制御、セットアップの再利用に対応 - ニュース]]></title>
         <id>https://cgworld.jp/flashnews/01-202611-Coyote-Ageha.html</id>

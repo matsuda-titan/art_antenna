@@ -2,10 +2,131 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-11-25T18:15:57.505Z</updated>
+    <updated>2026-11-26T05:54:24.441Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[「AIはプリプロの補助や下地に」、CafeGroupが探るFlow Studioのアニメ制作への活用法～あにつく2026（1） - 特集]]></title>
+        <id>https://cgworld.jp/article/2611-anitsuc01-cafegroup.html</id>
+        <link href="https://cgworld.jp/article/2611-anitsuc01-cafegroup.html"/>
+        <updated>2026-11-26T07:25:47.000Z</updated>
+        <summary type="html"><![CDATA[「想像を創造に：アニメCG制作現場でのAutodesk Flow Studioの活躍領域」の講演内容を紹介。]]></summary>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CGWORLD、英語版Webメディア「CGWORLD Global」を公開！ 日本のCG制作の現場を世界へ発信 - ニュース]]></title>
+        <id>https://cgworld.jp/flashnews/02-2611-cgworld-global.html</id>
+        <link href="https://cgworld.jp/flashnews/02-2611-cgworld-global.html"/>
+        <updated>2026-11-26T04:57:01.000Z</updated>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BlenderのQuadriFlowが閉じたメッシュを「manifoldでない」と断るのは、長さ1e-4以下の辺があるから]]></title>
+        <id>https://zenn.dev/gzer0/articles/blender-quadriflow-short-edge-manifold</id>
+        <link href="https://zenn.dev/gzer0/articles/blender-quadriflow-short-edge-manifold"/>
+        <updated>2026-11-26T03:20:47.000Z</updated>
+        <summary type="html"><![CDATA[画像から3Dを作るモデル（TripoSR）で出したメッシュを、Blender 5.2.3のQuadriFlowで四角ポリゴンに直そうとしたところ、8体すべてで次の警告が出て取り消されました。
+QuadriFlow: The mesh needs to be manifold and have face normals that point in a consistent direction
+生成したメッシュには穴があるので、先にボクセルリメッシュ（bpy.ops.object.voxel_remesh()）で閉じた形に作り直してからかけました。それでも同じ警告が出ました。
+
+ 閉じている...]]></summary>
+        <author>
+            <name>gzer0</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Blenderアドオン「Stylized World Kit」登場！森・空・水のツールと1,000点以上のアセットを収録]]></title>
+        <id>https://cginterest.com/?p=69481</id>
+        <link href="https://cginterest.com/2026/11/26/stylized-world-kit/"/>
+        <updated>2026-11-26T03:03:38.000Z</updated>
+        <summary type="html"><![CDATA[2026年11月25日（現地時間）- Blender向けのアドオンやアセットを数多く手がけるCasey_Sheepは、1,000点以上のスタイライズドなアセットと、森・空・水を作るツールを1つにまとめたBlenderアド […]]]></summary>
+        <author>
+            <name>.me</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[大阪Cygamesのモーションキャプチャースタジオが外部利用サービスを開始！ 充実の設備と技術力で多彩な収録ニーズに対応 - スペシャルコンテンツ]]></title>
+        <id>https://cgworld.jp/special-feature/202611-cygames.html</id>
+        <link href="https://cgworld.jp/special-feature/202611-cygames.html"/>
+        <updated>2026-11-26T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wrap 2026.11 がリリース！ノーマルマップからディスプレイスメントを計算する新ノード、ZWrapのmacOS対応など]]></title>
+        <id>https://cginterest.com/?p=69423</id>
+        <link href="https://cginterest.com/2026/11/26/faceform-wrap-2026-11/"/>
+        <updated>2026-11-26T02:29:11.000Z</updated>
+        <summary type="html"><![CDATA[2026年11月23日（現地時間）- Faceform（旧R3DS）は、3Dスキャンやスカルプトのモデルを共通のトポロジーにそろえるツール「Wrap」の最新バージョン「Wrap 2026.11」を、ZBrush向けプラグ […]]]></summary>
+        <author>
+            <name>.me</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple、深度推定モデル「Depth Pro 2」を公開 ― 動画でもちらつかない実寸の深度]]></title>
+        <id>https://cginterest.com/?p=69409</id>
+        <link href="https://cginterest.com/2026/11/26/depth-pro-2/"/>
+        <updated>2026-11-26T02:13:44.000Z</updated>
+        <summary type="html"><![CDATA[2026年11月19日（現地時間）- Appleの研究チームは、ふつうのカメラで撮った写真や動画から、画素ごとの奥行きをメートル単位で推定するAIモデル「Depth Pro 2」を公開しました。 Depth Pro 2  […]]]></summary>
+        <author>
+            <name>.me</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[20名限定！アニー賞受賞『ONI』のアーティスに教わる、トンコハウスのスケッチブートキャンプが1月に開催 - ニュース]]></title>
+        <id>https://cgworld.jp/flashnews/2701-sketchbootcamp.html</id>
+        <link href="https://cgworld.jp/flashnews/2701-sketchbootcamp.html"/>
+        <updated>2026-11-26T01:14:30.000Z</updated>
+        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Susuki氏、「[Houdini] CopernicsでVDBを扱うための基礎 VDB編」Qiita記事公開　具体的なノード構成と処理手順を豊富な図解で解説 - ニュース]]></title>
+        <id>https://cgworld.jp/flashnews/01-202611-Houdini-COP-VDB.html</id>
+        <link href="https://cgworld.jp/flashnews/01-202611-Houdini-COP-VDB.html"/>
+        <updated>2026-11-25T23:50:58.000Z</updated>
+        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[4次元の形を、WebGL2 のシェーダー1枚で「断面」として描く——超立方体の殻とクリフォード・トーラス、4つの面の回転、色ごとの屈折]]></title>
+        <id>https://zenn.dev/zeuslab/articles/16d68e2ffc5deb</id>
+        <link href="https://zenn.dev/zeuslab/articles/16d68e2ffc5deb"/>
+        <updated>2026-11-25T22:30:06.000Z</updated>
+        <summary type="html"><![CDATA[画面の中で、ガラスの塊がゆっくり裏返っていきます。角が溶け、輪が抜け、また閉じる。3Dのモデルを回しているように見えますが、描いているのは4次元の形を、動く1枚の壁で切った「断面」です。
+部品は、全画面に三角形を1枚置くだけの頂点シェーダーと、絵のすべてを決めるフラグメントシェーダー1枚（どちらも JavaScript の中の文字列）と、それを動かす小さな JavaScript 1ファイルだけ。依存も組み立ての手順もありません。この記事では、その作りを順に分けて書きます。コードは MIT で公開しています（記事の最後にリンク）。
+
+ 1. 3Dの点に、4つ目の座標を足す
+レイマーチングで...]]></summary>
+        <author>
+            <name>ZEUS LAB</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[4次元の形を、WebGL2 のシェーダー1枚で「断面」として描く——超立方体の殻とクリフォード・トーラス、4つの面の回転、色ごとの屈折]]></title>
+        <id>https://zenn.dev/zeuslab/articles/16d68e2ffc5deb</id>
+        <link href="https://zenn.dev/zeuslab/articles/16d68e2ffc5deb"/>
+        <updated>2026-11-25T22:30:06.000Z</updated>
+        <summary type="html"><![CDATA[画面の中で、ガラスの塊がゆっくり裏返っていきます。角が溶け、輪が抜け、また閉じる。3Dのモデルを回しているように見えますが、描いているのは4次元の形を、動く1枚の壁で切った「断面」です。
+部品は、全画面に三角形を1枚置くだけの頂点シェーダーと、絵のすべてを決めるフラグメントシェーダー1枚（どちらも JavaScript の中の文字列）と、それを動かす小さな JavaScript 1ファイルだけ。依存も組み立ての手順もありません。この記事では、その作りを順に分けて書きます。コードは MIT で公開しています（記事の最後にリンク）。
+
+ 1. 3Dの点に、4つ目の座標を足す
+レイマーチングで...]]></summary>
+        <author>
+            <name>ZEUS LAB</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AI に花を100個並べてもらい、普通の1つを選んだ｜問い返す 第3回]]></title>
         <id>https://note.com/swirl0819/n/nd61c7522a5b4</id>
@@ -4758,16 +4879,6 @@ The post Copy UVs ー 同じトポロジーの複数モデルにUVをまとめ�
 \sigma_Z\approx 0.02\ \mathrm{...]]></summary>
         <author>
             <name>s_hashida</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Spirula Studio | 写真や動画から3D Gaussian Splatting＆3Dメッシュを生成！様々なGPUに対応した無料オープンソースツール！Win＆Mac＆Linux]]></title>
-        <id>https://3dnchu.com/?p=1069280</id>
-        <link href="https://3dnchu.com/archives/spirula-studio/"/>
-        <updated>2026-10-27T17:00:06.000Z</updated>
-        <summary type="html"><![CDATA[写真や動画から3D Gaussian Splattingモデルやテクスチャ付きメッシュを生成できる無料ツール「Spirula Studio」を紹介。NVIDIA、AMD、Intel、AppleのGPUに対応し、360度カメラの素材も扱えます。]]></summary>
-        <author>
-            <name>Ymt3D -3dnchu-</name>
         </author>
     </entry>
 </feed>

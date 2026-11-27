@@ -12,6 +12,21 @@
       "siteUrl": "https://cgbox.jp",
       "articles": [
         {
+          "id": "https://cgbox.jp/?p=66016",
+          "author": "kasahara",
+          "description": "こんばんは！ 今回はアドオンの「Perspectra 」を紹介します。 こちらのリンクがアドオンの商品ページになります。 Perspectra 「Perspectra 」は、写真や動画からカメラの位置・動き・レンズの歪み […]",
+          "link": "https://cgbox.jp/2026/11/27/news-addon-perspectra/",
+          "publishedOn": "2026-11-27T05:59:45.000Z",
+          "wordCount": 2010,
+          "title": "【アドオン紹介】Perspectra – 実写映像のカメラトラッキングから3Dモデル生成まで行えるBlenderアドオン！",
+          "enclosure": {
+            "url": "https://cgbox.jp/wp-content/uploads/2026/11/rigging_mask_all03-smaller.mp4",
+            "length": "0",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://cgbox.jp/wp-content/uploads/2026/11/image_processing20261126-2-8aqlwi.png"
+        },
+        {
           "id": "https://cgbox.jp/?p=66013",
           "author": "kasahara",
           "description": "こんばんは！ 今回はアドオンの「Lithos Terrain」を紹介します。 こちらのリンクがアドオンの商品ページになります。 Lithos Terrain 「Lithos Terrain」は、専用のノードエディターを使 […]",
@@ -440,21 +455,6 @@
             "type": "video/mp4"
           },
           "imageUrl": "https://cgbox.jp/wp-content/uploads/2026/10/image_processing20261027-2-7u28cj.jpg"
-        },
-        {
-          "id": "https://cgbox.jp/?p=65876",
-          "author": "kasahara",
-          "description": "こんばんは！ 今回はアドオンの「Flattice」を紹介します。 こちらのリンクがアドオンの商品ページになります。 Flattice 「Flattice」は、キャラクターの顔や胸、全身などをカメラ方向に合わせて平面的に変 […]",
-          "link": "https://cgbox.jp/2026/10/29/news-addon-flattice/",
-          "publishedOn": "2026-10-29T01:46:17.000Z",
-          "wordCount": 1998,
-          "title": "【アドオン紹介】Flattice – キャラクターを2Dアニメ風に平面的に見せられるBlenderアドオン！",
-          "enclosure": {
-            "url": "https://cgbox.jp/wp-content/uploads/2026/10/trailer1008_fin03-46.mp4",
-            "length": "0",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://cgbox.jp/wp-content/uploads/2026/10/image_processing20261026-2-hthr16.webp"
         }
       ]
     },
@@ -469,6 +469,81 @@
       "feedUrl": "https://3dnchu.com/feed/",
       "siteUrl": "https://3dnchu.com",
       "articles": [
+        {
+          "id": "https://3dnchu.com/?p=1070274",
+          "author": "Ymt3D -3dnchu-",
+          "description": "riel氏（@koankitsu）が、アニメ調やスタイライズされた髪を作る無料Blenderアドオン「HairMesh for Blender」を公開しています。CataRackta氏が開発した「HairHarpy（旧：Stylized HairMesh Creator）」を、作者の許可を得てBle […]\n続きを読む",
+          "link": "https://3dnchu.com/archives/hairmesh-for-blender/",
+          "publishedOn": "2026-11-27T16:23:26.000Z",
+          "wordCount": 7852,
+          "title": "HairMesh for Blender | 頭に描いたカーブからアニメ髪の毛束を四角ポリゴンで作れる無料Blenderアドオン！",
+          "enclosure": {
+            "url": "https://3dnchu.com/wp-content/uploads/HairMesh.jpg",
+            "length": "69048",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://3dnchu.com/wp-content/uploads/HairMesh.jpg"
+        },
+        {
+          "id": "https://3dnchu.com/?p=1070243",
+          "author": "Ymt3D -3dnchu-",
+          "description": "アリゾナ州立大学（ASU）のNarrative and Emerging Media（NEM Labs）が、複数のカメラで撮影した映像から、被写体の動きまで含めて3Dシーンを再構築する「Open4DGS」を公開しました。",
+          "link": "https://3dnchu.com/archives/open4dgs/",
+          "publishedOn": "2026-11-27T16:11:37.000Z",
+          "wordCount": 7557,
+          "title": "Open4DGS | Genlockなしのマルチカメラ映像から動きごと3D再構築できる4D Gaussian Splattingパイプラインがオープンソース公開！",
+          "enclosure": {
+            "url": "https://3dnchu.com/wp-content/uploads/Open4DGS.mp4",
+            "length": "1055530",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://3dnchu.com/wp-content/uploads/Open4DGS.webp"
+        },
+        {
+          "id": "https://3dnchu.com/?p=1070216",
+          "author": "Ymt3D -3dnchu-",
+          "description": "gadget-designのT.Kondo氏が、Maya向けのスキンウェイト調整ツール「skinning_tools_qt」を公開しました！",
+          "link": "https://3dnchu.com/archives/skinning_tools_qt/",
+          "publishedOn": "2026-11-27T14:58:06.000Z",
+          "wordCount": 7565,
+          "title": "skinning_tools_qt | ブラシ・頂点選択・数値入力でMayaのスキンウェイトを微調整できる無料ツール！",
+          "enclosure": {
+            "url": "https://3dnchu.com/wp-content/uploads/skinningtoolsqt-maya.jpg",
+            "length": "48833",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://3dnchu.com/wp-content/uploads/skinningtoolsqt-maya.jpg"
+        },
+        {
+          "id": "https://3dnchu.com/?p=1070181",
+          "author": "Ymt3D -3dnchu-",
+          "description": "Yara Studioが、車両の破壊シミュレーションを作成できるBlenderアドオン「Smashify」をSuperhiveでリリースしました。",
+          "link": "https://3dnchu.com/archives/smashify/",
+          "publishedOn": "2026-11-27T13:05:30.000Z",
+          "wordCount": 7562,
+          "title": "Smashify | リアルな破壊挙動の車輌をアニメーションさせたりキーボードで運転しクラッシュシーンを作れるBlenderアドオン！",
+          "enclosure": {
+            "url": "https://3dnchu.com/wp-content/uploads/Smashify-1.webp",
+            "length": "1706268",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://3dnchu.com/wp-content/uploads/Smashify-1.webp"
+        },
+        {
+          "id": "https://3dnchu.com/?p=1070144",
+          "author": "Ymt3D -3dnchu-",
+          "description": "XPPenが、公式サイトとAmazon公式ストアでブラックフライデーセールを開催中です！ どちらのストアも対象製品が最大40％OFF。2026年に国内で発売された液晶ペンタブレット「Artist 16 3rd」「Artist Pro 27（Gen 2）」や、ドローイングパッド「Magic Pro 13」もセール対象です。",
+          "link": "https://3dnchu.com/archives/xppen-blackfriday2026/",
+          "publishedOn": "2026-11-27T07:44:18.000Z",
+          "wordCount": 7914,
+          "title": "XPPen BLACK FRIDAY 2026 | 公式サイト＆Amazon公式ストアで液タブやドローイングパッドが最大40％OFF！ブラックフライデーセール中！",
+          "enclosure": {
+            "url": "https://3dnchu.com/wp-content/uploads/XPPen-BlackFriday2026.jpg",
+            "length": "132989",
+            "type": "image/jpg"
+          },
+          "imageUrl": "https://3dnchu.com/wp-content/uploads/XPPen-BlackFriday2026.jpg"
+        },
         {
           "id": "https://3dnchu.com/?p=1070099",
           "author": "Ymt3D -3dnchu-",
@@ -836,6 +911,26 @@
       "feedUrl": "https://cgworld.jp/atom.xml",
       "siteUrl": "https://cgworld.jp/",
       "articles": [
+        {
+          "id": "https://cgworld.jp/regular/202611-aetier-01.html",
+          "author": null,
+          "description": "AEで映像制作の仕事をされている方なら、一度は考えたことがあると思います。この世に多くのプラグインがある中で、最も強く、また便利なプラグインはなんなのだろうと。さらにコストの概念も考慮したとき、真に最強のプラグインはどれなのか。  連載の初回となる今回は、AEを触り続けて10年、20年のメンバーと真剣に議論し、当社の使用経験を基にAEプラグインのTier表をつくりました。選定の基準とポイントをご紹介します。",
+          "link": "https://cgworld.jp/regular/202611-aetier-01.html",
+          "publishedOn": "2026-11-27T11:30:00.000Z",
+          "wordCount": 860,
+          "title": "Vol.1：AEプラグイン47本、制作現場の目線でつくるTier表！【新連載】 - 連載",
+          "imageUrl": "https://cgworld.jp/regular/assets_c/2026/11/AEtier_main_v5-thumb-1920x1080-91578.jpg"
+        },
+        {
+          "id": "https://cgworld.jp/article/202611-capcom-re02.html",
+          "author": null,
+          "description": "月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。",
+          "link": "https://cgworld.jp/article/202611-capcom-re02.html",
+          "publishedOn": "2026-11-27T07:47:00.000Z",
+          "wordCount": 806,
+          "title": "12面の4K映像と「次世代の風」。 『モンスターハンター ブリッジ』と「VORTEXEL」の開発秘話～CAPCOM オープンカンファレンス RE:2026（後編） - 特集",
+          "imageUrl": "https://cgworld.jp/article/assets_c/2026/11/main-thumb-1000x667-90921.jpg"
+        },
         {
           "id": "https://cgworld.jp/flashnews/cgw341-pr.html",
           "author": null,
@@ -1745,6 +1840,26 @@
       "siteUrl": "https://modelinghappy.com",
       "articles": [
         {
+          "id": "https://modelinghappy.com/?p=71839",
+          "author": "modelinghappy",
+          "description": "skinning_tools_qt skinning_tools_qtは、shinsenTarouさんが作成した、Mayaのスキンウェイトを一つのウィンドウで調整できる無料のPythonツールです。ブラシで塗る、頂点を選\nThe post skinning_tools_qt ー ブラシ・数値入力・頂点調整を一つの画面で行える無料Mayaスキンウェイトツール first appeared on 3DCG最新情報サイト MODELING HAPPY.",
+          "link": "https://modelinghappy.com/archives/71839",
+          "publishedOn": "2026-11-27T09:03:35.000Z",
+          "wordCount": 3055,
+          "title": "skinning_tools_qt ー ブラシ・数値入力・頂点調整を一つの画面で行える無料Mayaスキンウェイトツール",
+          "imageUrl": "https://modelinghappy.com/wp-content/uploads/2026/11/2026_11_27_skinning_tools_qt_01.jpeg"
+        },
+        {
+          "id": "https://modelinghappy.com/?p=71828",
+          "author": "modelinghappy",
+          "description": "Wonder Bool Wonder Boolは、Blenderでブーリアンを使って穴を開けた周囲を、四角ポリゴンを中心としたメッシュに整えてくれるアドオンです。通常のブーリアンで発生しやすいNゴンや細長い三角形を整理し\nThe post Wonder Bool – ブーリアン後の穴まわりを四角ポリゴンに整え、後から移動して編集できるBlender用アドオン first appeared on 3DCG最新情報サイト MODELING HAPPY.",
+          "link": "https://modelinghappy.com/archives/71828",
+          "publishedOn": "2026-11-27T07:49:58.000Z",
+          "wordCount": 3064,
+          "title": "Wonder Bool – ブーリアン後の穴まわりを四角ポリゴンに整え、後から移動して編集できるBlender用アドオン",
+          "imageUrl": "https://modelinghappy.com/wp-content/uploads/2026/11/2026_11_27_Wonder_Bool_01.jpeg"
+        },
+        {
           "id": "https://modelinghappy.com/?p=71794",
           "author": "modelinghappy",
           "description": "Amazon Black Friday Sale 2026年11月30日~12月7までAmazonの商品がお得になる年に１度の大型セール「Amazon Black Friday Sale」が開催しますが、11月27日から\nThe post Amazonブラックフライデー先行セール開催！Adobe半額・液タブ・3DプリンターCG制作者向けおすすめアイテム first appeared on 3DCG最新情報サイト MODELING HAPPY.",
@@ -2253,26 +2368,6 @@
           "wordCount": 4451,
           "title": "Devil Designer – 型紙の作成から縫い合わせ、クロスシミュレーションまでBlender内で衣服を作成できる無料アドオン",
           "imageUrl": "https://modelinghappy.com/wp-content/uploads/2026/10/20261030_devil_designer_01.jpg"
-        },
-        {
-          "id": "https://modelinghappy.com/?p=71308",
-          "author": "modelinghappy",
-          "description": "Autopose2.0 Blazeが開発した、Blenderでキャラクターの手足などをドラッグすると、その動きに合わせて全身の姿勢が自動調整されるアドオンAutpose2.0がリリースされました。 今回公開されたバージョ\nThe post Blaze AutoPose 2.0 – キャラクターを直接つかんでポーズを作成出来るBlender用アドオンがアップデート！体の貫通を抑える機能や足の接地などに対応 first appeared on 3DCG最新情報サイト MODELING HAPPY.",
-          "link": "https://modelinghappy.com/archives/71308",
-          "publishedOn": "2026-10-29T05:38:04.000Z",
-          "wordCount": 3153,
-          "title": "Blaze AutoPose 2.0 – キャラクターを直接つかんでポーズを作成出来るBlender用アドオンがアップデート！体の貫通を抑える機能や足の接地などに対応",
-          "imageUrl": "https://modelinghappy.com/wp-content/uploads/2026/10/20261029_autopose_00.jpg"
-        },
-        {
-          "id": "https://modelinghappy.com/?p=71300",
-          "author": "modelinghappy",
-          "description": "Copy UVs Copy UVsは、Louis Cressonさんが開発した、Mayaで同じトポロジーと頂点順序を持つ複数のモデルに、UVをまとめて転送できる無料のPythonスクリプトです。 コピー元、コピー先の順番\nThe post Copy UVs ー 同じトポロジーの複数モデルにUVをまとめて転送できるMaya用無料スクリプト first appeared on 3DCG最新情報サイト MODELING HAPPY.",
-          "link": "https://modelinghappy.com/archives/71300",
-          "publishedOn": "2026-10-29T01:44:18.000Z",
-          "wordCount": 3051,
-          "title": "Copy UVs ー 同じトポロジーの複数モデルにUVをまとめて転送できるMaya用無料スクリプト",
-          "imageUrl": "https://modelinghappy.com/wp-content/uploads/2026/10/20261029_copyuvs_01.jpg"
         }
       ]
     },
@@ -3006,21 +3101,6 @@
             "type": "false"
           },
           "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--qIekAm0i--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Blender%25205%25E3%2581%25A7action.fcurves%25E3%2581%258C%25E7%2584%25A1%25E3%2581%2584%25E3%2581%25A8%25E8%25A8%2580%25E3%2582%258F%25E3%2582%258C%25E3%2581%259F%25E3%2581%25A8%25E3%2581%258D%25E3%2581%25AE%25E6%259B%25B8%25E3%2581%258D%25E7%259B%25B4%25E3%2581%2597%25E6%2596%25B9%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:haruto%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2E3NWUxNWM3NjkuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
-        },
-        {
-          "id": "https://zenn.dev/renderjanction/articles/ed71af5c439b84",
-          "author": "render.janction.jp",
-          "description": "手元に GPU も Blender も無い状態で、Claude に 3D モデルの商品写真を作ってもらえるかを試しました。使ったのは Khronos の公式見本 WaterBottle（CC0 の GLB）と、JANCTION Render の MCP サーバーです。\n\n つなぎ方\nClaude.ai なら「設定 → コネクタ → カスタムコネクタを追加」に https://render.janction.jp/mcp を入れます。最初の呼び出しで同意の画面が出て、鍵が作られます。登録やカードは要りません。Claude Code なら次の 1 行のあと、/mcp で認証します。\nclau...",
-          "link": "https://zenn.dev/renderjanction/articles/ed71af5c439b84",
-          "publishedOn": "2026-10-29T02:32:45.000Z",
-          "wordCount": 639,
-          "title": "Claude に「この GLB を商品写真にして」と頼んで、4 方向の写真を GPU なしで受け取るまで",
-          "enclosure": {
-            "url": "https://res.cloudinary.com/zenn/image/upload/s--AqeIybTZ--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Claude%2520%25E3%2581%25AB%25E3%2580%258C%25E3%2581%2593%25E3%2581%25AE%2520GLB%2520%25E3%2582%2592%25E5%2595%2586%25E5%2593%2581%25E5%2586%2599%25E7%259C%259F%25E3%2581%25AB%25E3%2581%2597%25E3%2581%25A6%25E3%2580%258D%25E3%2581%25A8%25E9%25A0%25BC%25E3%2582%2593%25E3%2581%25A7%25E3%2580%25814%2520%25E6%2596%25B9%25E5%2590%2591%25E3%2581%25AE%25E5%2586%2599%25E7%259C%259F%25E3%2582%2592%2520GPU%2520%25E3%2581%25AA%25E3%2581%2597%25E3%2581%25A7%25E5%258F%2597%25E3%2581%2591%25E5%258F%2596%25E3%2582%258B%25E3%2581%25BE%25E3%2581%25A7%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:render.janction.jp%2Cx_90%2Cy_121/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
-            "length": "0",
-            "type": "false"
-          },
-          "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--AqeIybTZ--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Claude%2520%25E3%2581%25AB%25E3%2580%258C%25E3%2581%2593%25E3%2581%25AE%2520GLB%2520%25E3%2582%2592%25E5%2595%2586%25E5%2593%2581%25E5%2586%2599%25E7%259C%259F%25E3%2581%25AB%25E3%2581%2597%25E3%2581%25A6%25E3%2580%258D%25E3%2581%25A8%25E9%25A0%25BC%25E3%2582%2593%25E3%2581%25A7%25E3%2580%25814%2520%25E6%2596%25B9%25E5%2590%2591%25E3%2581%25AE%25E5%2586%2599%25E7%259C%259F%25E3%2582%2592%2520GPU%2520%25E3%2581%25AA%25E3%2581%2597%25E3%2581%25A7%25E5%258F%2597%25E3%2581%2591%25E5%258F%2596%25E3%2582%258B%25E3%2581%25BE%25E3%2581%25A7%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:render.janction.jp%2Cx_90%2Cy_121/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE"
         }
       ]
     },
@@ -3087,6 +3167,16 @@
       "feedUrl": "https://qiita.com/tags/3dcg/feed",
       "siteUrl": "https://qiita.com",
       "articles": [
+        {
+          "id": "https://qiita.com/TanakaMizukii/items/bc808a9ff5b1bedf914e",
+          "author": null,
+          "description": "NavMeshの機能をPoCを作ろうとしている際に新たにモデルをインポートした時そのモデルを画面内に表示するコードをAIが出してきたので、自分でも使えるように備忘録として残しておきます。\n今回はシンプルな大きさを数値として入れたモデルを入れるとそれに合わせてカメラを変更する...",
+          "link": "https://qiita.com/TanakaMizukii/items/bc808a9ff5b1bedf914e",
+          "publishedOn": "2026-11-27T11:16:22.000Z",
+          "wordCount": 3782,
+          "title": "Three.jsにおけるオブジェクトインポート時に画面内に収める方法について",
+          "imageUrl": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRmxoMy5nb29nbGV1c2VyY29udGVudC5jb20lMkZhJTJGQUNnOG9jTFBSeXJVZGtjVXZ6dVEtVDNuNG5PNnJvQUtDekJzc21zeDRZdm9LZXl0VTRFdTAxbyUzRHM5Ni1jP2l4bGliPXJiLTQuMS4xJmFyPTElM0ExJmZpdD1jcm9wJm1hc2s9ZWxsaXBzZSZiZz1GRkZGRkYmZm09cG5nMzImcz04ZDIzYTg5ZWU4NGY3MjFjNjgzMDA0NzZiN2IwZTMzMw%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D794ab828c1d365855f880c13e4532a9a?ixlib=rb-4.1.1&w=1200&fm=jpg&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9VGhyZWUuanMlRTMlODElQUIlRTMlODElOEElRTMlODElOTElRTMlODIlOEIlRTMlODIlQUElRTMlODMlOTYlRTMlODIlQjglRTMlODIlQTclRTMlODIlQUYlRTMlODMlODglRTMlODIlQTQlRTMlODMlQjMlRTMlODMlOUQlRTMlODMlQkMlRTMlODMlODglRTYlOTklODIlRTMlODElQUIlRTclOTQlQkIlRTklOUQlQTIlRTUlODYlODUlRTMlODElQUIlRTUlOEYlOEUlRTMlODIlODElRTMlODIlOEIlRTYlOTYlQjklRTYlQjMlOTUlRTMlODElQUIlRTMlODElQTQlRTMlODElODQlRTMlODElQTYmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz00MzJhOTc5MDYyNDQyMWI4NzdiM2NiMWI1YWVhM2MxMA&mark-x=120&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBUYW5ha2FNaXp1a2lpJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9N2NlNGI4OGZiYzE2YzhjYmZmZWUyMzRkM2Y3MzczNmU&blend-x=242&blend-y=480&blend-w=838&blend-h=46&blend-fit=crop&blend-crop=left%2Cbottom&blend-mode=normal&s=b288792057583045a83b51cadde7db63"
+        },
         {
           "id": "https://qiita.com/matumu20/items/0d71892e08bae39a2884",
           "author": null,
@@ -4019,16 +4109,6 @@
           "wordCount": 1110,
           "title": "面倒な作業がぐっと楽に！Houdini 22の「Bipedアニメーションリターゲット」",
           "imageUrl": "https://assets.st-note.com/production/uploads/images/331001338/rectangle_large_type_2_227fabb9eec781ae9141d3b0a83c88a0.jpeg?width=800"
-        },
-        {
-          "id": "https://note.com/prime_gnu9317/n/nd86b39e3e9c5",
-          "author": null,
-          "description": "いろいろあると思う。\nHoudiniはとりあえず最初から画になりずらいし、チュートリアルをやっていてもやっている側から忘れていく。このループ。\nそろそろ諦めてもいいだろと思いつつ、なぜか細々と続けている。なんでだろ。\n多分構造にアクセスする、それがわかるところが自分的にフックにはなっていると思う。\n例えば、こんなこととか。\n続きをみる",
-          "link": "https://note.com/prime_gnu9317/n/nd86b39e3e9c5",
-          "publishedOn": "2026-10-29T02:52:59.000Z",
-          "wordCount": 776,
-          "title": "Houdiniで発見したこと",
-          "imageUrl": "https://assets.st-note.com/production/uploads/images/329729194/rectangle_large_type_2_fb41f76536bd23383e8480d372d08849.png?width=800"
         }
       ]
     },
@@ -4143,6 +4223,56 @@
       "feedUrl": "https://cginterest.com/feed/",
       "siteUrl": "https://cginterest.com",
       "articles": [
+        {
+          "id": "https://cginterest.com/?p=69976",
+          "author": ".me",
+          "description": "2026年11月25日（現地時間）- JangaFXは、リアルタイムの煙・炎のシミュレーションツール「EmberGen」の次期メジャーバージョン「EmberGen 2.0」のアルファバージョンを、保守（メンテナンス）が有 […]",
+          "link": "https://cginterest.com/2026/11/27/embergen-2-alpha/",
+          "publishedOn": "2026-11-27T10:53:13.000Z",
+          "wordCount": 469,
+          "title": "EmberGen 2.0 のアルファバージョンが公開！スパースソルバー、酸素ベースの燃焼、新レンダラーを搭載",
+          "enclosure": {
+            "url": "https://cginterest.com/wp-content/uploads/2026/11/embergen2-sparse.mp4",
+            "length": "0",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://cginterest.com/wp-content/uploads/2026/11/embergen2-alpha-eyecatch.webp"
+        },
+        {
+          "id": "https://cginterest.com/?p=69659",
+          "author": ".me",
+          "description": "2026年11月25日（現地時間）- OTOYは、GPUレンダラー「OctaneRender」の新しいバージョン「OctaneRender 2027.1」をリリースしました。あわせて、恒例のブラックフライデーバンドルに加 […]",
+          "link": "https://cginterest.com/2026/11/27/octanerender-2027-1/",
+          "publishedOn": "2026-11-27T08:42:02.000Z",
+          "wordCount": 704,
+          "title": "OctaneRender 2027.1 がリリース！AIエージェントでの操作、ほぼノイズなしのリアルタイムプレビューなど",
+          "imageUrl": "https://cginterest.com/wp-content/uploads/2026/11/octanerender-2027-1-eyecatch.webp"
+        },
+        {
+          "id": "https://cginterest.com/?p=69947",
+          "author": ".me",
+          "description": "2026年11月25日（現地時間）- INSYDIUMは、Cinema 4DとBlenderで使えるGPUシミュレーションシステム「NeXus」の次期バージョン、NeXus 2026.1のBeta 4を公開しました。 N […]",
+          "link": "https://cginterest.com/2026/11/27/insydium-nexus-2026-1-beta-4/",
+          "publishedOn": "2026-11-27T07:59:37.000Z",
+          "wordCount": 465,
+          "title": "INSYDIUM、NeXus 2026.1 Beta 4 を公開！布・剛体・ロープの GPU ダイナミクスと砂の nxGrains が追加",
+          "enclosure": {
+            "url": "https://cginterest.com/wp-content/uploads/2026/11/nexus-b4-rigid-collision.mp4",
+            "length": "183806",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://cginterest.com/wp-content/uploads/2026/11/nexus-beta-4-eyecatch.webp"
+        },
+        {
+          "id": "https://cginterest.com/?p=69953",
+          "author": ".me",
+          "description": "2026年11月24日（現地時間）- Quixel は、工場や港などの産業施設をテーマにした Megascans の新しいアセット群「Industrial Megadrop」を、マーケットプレイス「Fab」で無料で公開し […]",
+          "link": "https://cginterest.com/2026/11/27/megascans-industrial-megadrop/",
+          "publishedOn": "2026-11-27T07:59:10.000Z",
+          "wordCount": 378,
+          "title": "無料化した Megascans に新作、工場や港の背景を作れるアセットが追加",
+          "imageUrl": "https://cginterest.com/wp-content/uploads/2026/11/megascans-industrial-megadrop-eyecatch.webp"
+        },
         {
           "id": "https://cginterest.com/?p=69913",
           "author": ".me",

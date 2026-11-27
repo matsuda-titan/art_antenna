@@ -2,10 +2,164 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matsuda-titan.github.io/art_antenna/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-11-27T05:47:54.368Z</updated>
+    <updated>2026-11-27T17:43:04.129Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matsuda-titan.github.io/art_antenna/index.html"/>
     <link rel="self" href="https://matsuda-titan.github.io/art_antenna/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[HairMesh for Blender | 頭に描いたカーブからアニメ髪の毛束を四角ポリゴンで作れる無料Blenderアドオン！]]></title>
+        <id>https://3dnchu.com/?p=1070274</id>
+        <link href="https://3dnchu.com/archives/hairmesh-for-blender/"/>
+        <updated>2026-11-27T16:23:26.000Z</updated>
+        <summary type="html"><![CDATA[riel氏（@koankitsu）が、アニメ調やスタイライズされた髪を作る無料Blenderアドオン「HairMesh for Blender」を公開しています。CataRackta氏が開発した「HairHarpy（旧：Stylized HairMesh Creator）」を、作者の許可を得てBle […]
+続きを読む]]></summary>
+        <author>
+            <name>Ymt3D -3dnchu-</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Open4DGS | Genlockなしのマルチカメラ映像から動きごと3D再構築できる4D Gaussian Splattingパイプラインがオープンソース公開！]]></title>
+        <id>https://3dnchu.com/?p=1070243</id>
+        <link href="https://3dnchu.com/archives/open4dgs/"/>
+        <updated>2026-11-27T16:11:37.000Z</updated>
+        <summary type="html"><![CDATA[アリゾナ州立大学（ASU）のNarrative and Emerging Media（NEM Labs）が、複数のカメラで撮影した映像から、被写体の動きまで含めて3Dシーンを再構築する「Open4DGS」を公開しました。]]></summary>
+        <author>
+            <name>Ymt3D -3dnchu-</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[skinning_tools_qt | ブラシ・頂点選択・数値入力でMayaのスキンウェイトを微調整できる無料ツール！]]></title>
+        <id>https://3dnchu.com/?p=1070216</id>
+        <link href="https://3dnchu.com/archives/skinning_tools_qt/"/>
+        <updated>2026-11-27T14:58:06.000Z</updated>
+        <summary type="html"><![CDATA[gadget-designのT.Kondo氏が、Maya向けのスキンウェイト調整ツール「skinning_tools_qt」を公開しました！]]></summary>
+        <author>
+            <name>Ymt3D -3dnchu-</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Smashify | リアルな破壊挙動の車輌をアニメーションさせたりキーボードで運転しクラッシュシーンを作れるBlenderアドオン！]]></title>
+        <id>https://3dnchu.com/?p=1070181</id>
+        <link href="https://3dnchu.com/archives/smashify/"/>
+        <updated>2026-11-27T13:05:30.000Z</updated>
+        <summary type="html"><![CDATA[Yara Studioが、車両の破壊シミュレーションを作成できるBlenderアドオン「Smashify」をSuperhiveでリリースしました。]]></summary>
+        <author>
+            <name>Ymt3D -3dnchu-</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vol.1：AEプラグイン47本、制作現場の目線でつくるTier表！【新連載】 - 連載]]></title>
+        <id>https://cgworld.jp/regular/202611-aetier-01.html</id>
+        <link href="https://cgworld.jp/regular/202611-aetier-01.html"/>
+        <updated>2026-11-27T11:30:00.000Z</updated>
+        <summary type="html"><![CDATA[AEで映像制作の仕事をされている方なら、一度は考えたことがあると思います。この世に多くのプラグインがある中で、最も強く、また便利なプラグインはなんなのだろうと。さらにコストの概念も考慮したとき、真に最強のプラグインはどれなのか。  連載の初回となる今回は、AEを触り続けて10年、20年のメンバーと真剣に議論し、当社の使用経験を基にAEプラグインのTier表をつくりました。選定の基準とポイントをご紹介します。]]></summary>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Three.jsにおけるオブジェクトインポート時に画面内に収める方法について]]></title>
+        <id>https://qiita.com/TanakaMizukii/items/bc808a9ff5b1bedf914e</id>
+        <link href="https://qiita.com/TanakaMizukii/items/bc808a9ff5b1bedf914e"/>
+        <updated>2026-11-27T11:16:22.000Z</updated>
+        <summary type="html"><![CDATA[NavMeshの機能をPoCを作ろうとしている際に新たにモデルをインポートした時そのモデルを画面内に表示するコードをAIが出してきたので、自分でも使えるように備忘録として残しておきます。
+今回はシンプルな大きさを数値として入れたモデルを入れるとそれに合わせてカメラを変更する...]]></summary>
+        <author>
+            <name>3DCGタグが付けられた新着記事 - Qiita</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EmberGen 2.0 のアルファバージョンが公開！スパースソルバー、酸素ベースの燃焼、新レンダラーを搭載]]></title>
+        <id>https://cginterest.com/?p=69976</id>
+        <link href="https://cginterest.com/2026/11/27/embergen-2-alpha/"/>
+        <updated>2026-11-27T10:53:13.000Z</updated>
+        <summary type="html"><![CDATA[2026年11月25日（現地時間）- JangaFXは、リアルタイムの煙・炎のシミュレーションツール「EmberGen」の次期メジャーバージョン「EmberGen 2.0」のアルファバージョンを、保守（メンテナンス）が有 […]]]></summary>
+        <author>
+            <name>.me</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[skinning_tools_qt ー ブラシ・数値入力・頂点調整を一つの画面で行える無料Mayaスキンウェイトツール]]></title>
+        <id>https://modelinghappy.com/?p=71839</id>
+        <link href="https://modelinghappy.com/archives/71839"/>
+        <updated>2026-11-27T09:03:35.000Z</updated>
+        <summary type="html"><![CDATA[skinning_tools_qt skinning_tools_qtは、shinsenTarouさんが作成した、Mayaのスキンウェイトを一つのウィンドウで調整できる無料のPythonツールです。ブラシで塗る、頂点を選
+The post skinning_tools_qt ー ブラシ・数値入力・頂点調整を一つの画面で行える無料Mayaスキンウェイトツール first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
+        <author>
+            <name>modelinghappy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OctaneRender 2027.1 がリリース！AIエージェントでの操作、ほぼノイズなしのリアルタイムプレビューなど]]></title>
+        <id>https://cginterest.com/?p=69659</id>
+        <link href="https://cginterest.com/2026/11/27/octanerender-2027-1/"/>
+        <updated>2026-11-27T08:42:02.000Z</updated>
+        <summary type="html"><![CDATA[2026年11月25日（現地時間）- OTOYは、GPUレンダラー「OctaneRender」の新しいバージョン「OctaneRender 2027.1」をリリースしました。あわせて、恒例のブラックフライデーバンドルに加 […]]]></summary>
+        <author>
+            <name>.me</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[INSYDIUM、NeXus 2026.1 Beta 4 を公開！布・剛体・ロープの GPU ダイナミクスと砂の nxGrains が追加]]></title>
+        <id>https://cginterest.com/?p=69947</id>
+        <link href="https://cginterest.com/2026/11/27/insydium-nexus-2026-1-beta-4/"/>
+        <updated>2026-11-27T07:59:37.000Z</updated>
+        <summary type="html"><![CDATA[2026年11月25日（現地時間）- INSYDIUMは、Cinema 4DとBlenderで使えるGPUシミュレーションシステム「NeXus」の次期バージョン、NeXus 2026.1のBeta 4を公開しました。 N […]]]></summary>
+        <author>
+            <name>.me</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[無料化した Megascans に新作、工場や港の背景を作れるアセットが追加]]></title>
+        <id>https://cginterest.com/?p=69953</id>
+        <link href="https://cginterest.com/2026/11/27/megascans-industrial-megadrop/"/>
+        <updated>2026-11-27T07:59:10.000Z</updated>
+        <summary type="html"><![CDATA[2026年11月24日（現地時間）- Quixel は、工場や港などの産業施設をテーマにした Megascans の新しいアセット群「Industrial Megadrop」を、マーケットプレイス「Fab」で無料で公開し […]]]></summary>
+        <author>
+            <name>.me</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wonder Bool – ブーリアン後の穴まわりを四角ポリゴンに整え、後から移動して編集できるBlender用アドオン]]></title>
+        <id>https://modelinghappy.com/?p=71828</id>
+        <link href="https://modelinghappy.com/archives/71828"/>
+        <updated>2026-11-27T07:49:58.000Z</updated>
+        <summary type="html"><![CDATA[Wonder Bool Wonder Boolは、Blenderでブーリアンを使って穴を開けた周囲を、四角ポリゴンを中心としたメッシュに整えてくれるアドオンです。通常のブーリアンで発生しやすいNゴンや細長い三角形を整理し
+The post Wonder Bool – ブーリアン後の穴まわりを四角ポリゴンに整え、後から移動して編集できるBlender用アドオン first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
+        <author>
+            <name>modelinghappy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[12面の4K映像と「次世代の風」。 『モンスターハンター ブリッジ』と「VORTEXEL」の開発秘話～CAPCOM オープンカンファレンス RE:2026（後編） - 特集]]></title>
+        <id>https://cgworld.jp/article/202611-capcom-re02.html</id>
+        <link href="https://cgworld.jp/article/202611-capcom-re02.html"/>
+        <updated>2026-11-27T07:47:00.000Z</updated>
+        <summary type="html"><![CDATA[月刊CGWORLDがお届けする、日本で唯一無二のCG＆映像に特化した情報サイトです。3DCG、VFX、撮影、編集などに関する国内外さまざまな話題をお届けします。]]></summary>
+        <author>
+            <name>CGWORLD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[XPPen BLACK FRIDAY 2026 | 公式サイト＆Amazon公式ストアで液タブやドローイングパッドが最大40％OFF！ブラックフライデーセール中！]]></title>
+        <id>https://3dnchu.com/?p=1070144</id>
+        <link href="https://3dnchu.com/archives/xppen-blackfriday2026/"/>
+        <updated>2026-11-27T07:44:18.000Z</updated>
+        <summary type="html"><![CDATA[XPPenが、公式サイトとAmazon公式ストアでブラックフライデーセールを開催中です！ どちらのストアも対象製品が最大40％OFF。2026年に国内で発売された液晶ペンタブレット「Artist 16 3rd」「Artist Pro 27（Gen 2）」や、ドローイングパッド「Magic Pro 13」もセール対象です。]]></summary>
+        <author>
+            <name>Ymt3D -3dnchu-</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【アドオン紹介】Perspectra – 実写映像のカメラトラッキングから3Dモデル生成まで行えるBlenderアドオン！]]></title>
+        <id>https://cgbox.jp/?p=66016</id>
+        <link href="https://cgbox.jp/2026/11/27/news-addon-perspectra/"/>
+        <updated>2026-11-27T05:59:45.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは！ 今回はアドオンの「Perspectra 」を紹介します。 こちらのリンクがアドオンの商品ページになります。 Perspectra 「Perspectra 」は、写真や動画からカメラの位置・動き・レンズの歪み […]]]></summary>
+        <author>
+            <name>kasahara</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Angelo 2.1 | 四角面リトポロジーやゲーム向けリグ機能を追加したAIエージェント内蔵のBlenderフォーク！]]></title>
         <id>https://3dnchu.com/?p=1070099</id>
@@ -4982,67 +5136,6 @@ AttributeError: 'Action' object has no attribute 'fcurves'
 その場では、別の書き方でよけて先に進みました。ところが、記事にするために同じ条件で確か...]]></summary>
         <author>
             <name>haruto</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Blaze AutoPose 2.0 – キャラクターを直接つかんでポーズを作成出来るBlender用アドオンがアップデート！体の貫通を抑える機能や足の接地などに対応]]></title>
-        <id>https://modelinghappy.com/?p=71308</id>
-        <link href="https://modelinghappy.com/archives/71308"/>
-        <updated>2026-10-29T05:38:04.000Z</updated>
-        <summary type="html"><![CDATA[Autopose2.0 Blazeが開発した、Blenderでキャラクターの手足などをドラッグすると、その動きに合わせて全身の姿勢が自動調整されるアドオンAutpose2.0がリリースされました。 今回公開されたバージョ
-The post Blaze AutoPose 2.0 – キャラクターを直接つかんでポーズを作成出来るBlender用アドオンがアップデート！体の貫通を抑える機能や足の接地などに対応 first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
-        <author>
-            <name>modelinghappy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Houdiniで発見したこと]]></title>
-        <id>https://note.com/prime_gnu9317/n/nd86b39e3e9c5</id>
-        <link href="https://note.com/prime_gnu9317/n/nd86b39e3e9c5"/>
-        <updated>2026-10-29T02:52:59.000Z</updated>
-        <summary type="html"><![CDATA[いろいろあると思う。
-Houdiniはとりあえず最初から画になりずらいし、チュートリアルをやっていてもやっている側から忘れていく。このループ。
-そろそろ諦めてもいいだろと思いつつ、なぜか細々と続けている。なんでだろ。
-多分構造にアクセスする、それがわかるところが自分的にフックにはなっていると思う。
-例えば、こんなこととか。
-続きをみる]]></summary>
-        <author>
-            <name>#Houdiniタグ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Claude に「この GLB を商品写真にして」と頼んで、4 方向の写真を GPU なしで受け取るまで]]></title>
-        <id>https://zenn.dev/renderjanction/articles/ed71af5c439b84</id>
-        <link href="https://zenn.dev/renderjanction/articles/ed71af5c439b84"/>
-        <updated>2026-10-29T02:32:45.000Z</updated>
-        <summary type="html"><![CDATA[手元に GPU も Blender も無い状態で、Claude に 3D モデルの商品写真を作ってもらえるかを試しました。使ったのは Khronos の公式見本 WaterBottle（CC0 の GLB）と、JANCTION Render の MCP サーバーです。
-
- つなぎ方
-Claude.ai なら「設定 → コネクタ → カスタムコネクタを追加」に https://render.janction.jp/mcp を入れます。最初の呼び出しで同意の画面が出て、鍵が作られます。登録やカードは要りません。Claude Code なら次の 1 行のあと、/mcp で認証します。
-clau...]]></summary>
-        <author>
-            <name>render.janction.jp</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【アドオン紹介】Flattice – キャラクターを2Dアニメ風に平面的に見せられるBlenderアドオン！]]></title>
-        <id>https://cgbox.jp/?p=65876</id>
-        <link href="https://cgbox.jp/2026/10/29/news-addon-flattice/"/>
-        <updated>2026-10-29T01:46:17.000Z</updated>
-        <summary type="html"><![CDATA[こんばんは！ 今回はアドオンの「Flattice」を紹介します。 こちらのリンクがアドオンの商品ページになります。 Flattice 「Flattice」は、キャラクターの顔や胸、全身などをカメラ方向に合わせて平面的に変 […]]]></summary>
-        <author>
-            <name>kasahara</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Copy UVs ー 同じトポロジーの複数モデルにUVをまとめて転送できるMaya用無料スクリプト]]></title>
-        <id>https://modelinghappy.com/?p=71300</id>
-        <link href="https://modelinghappy.com/archives/71300"/>
-        <updated>2026-10-29T01:44:18.000Z</updated>
-        <summary type="html"><![CDATA[Copy UVs Copy UVsは、Louis Cressonさんが開発した、Mayaで同じトポロジーと頂点順序を持つ複数のモデルに、UVをまとめて転送できる無料のPythonスクリプトです。 コピー元、コピー先の順番
-The post Copy UVs ー 同じトポロジーの複数モデルにUVをまとめて転送できるMaya用無料スクリプト first appeared on 3DCG最新情報サイト MODELING HAPPY.]]></summary>
-        <author>
-            <name>modelinghappy</name>
         </author>
     </entry>
 </feed>
